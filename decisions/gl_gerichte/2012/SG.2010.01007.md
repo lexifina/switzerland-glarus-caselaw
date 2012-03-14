@@ -1,0 +1,2731 @@
+---
+decision_id: "gl_gerichte_SG.2010.01007"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "SG"
+docket: "SG.2010.01007"
+docket_2: "SG.2015.6"
+decided: "2012-03-14"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=497&W10_KEY=218274&nTrefferzeile=10&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/101/art-032.md", "switzerland/bund/acts/210/art-713.md", "switzerland/bund/acts/220/art-041.md", "switzerland/bund/acts/220/art-045.md", "switzerland/bund/acts/220/art-047.md", "switzerland/bund/acts/311.0/art-012.md", "switzerland/bund/acts/311.0/art-034.md", "switzerland/bund/acts/311.0/art-040.md", "switzerland/bund/acts/311.0/art-042.md", "switzerland/bund/acts/311.0/art-047.md", "switzerland/bund/acts/311.0/art-049.md", "switzerland/bund/acts/311.0/art-051.md", "switzerland/bund/acts/311.0/art-056.md", "switzerland/bund/acts/311.0/art-064.md", "switzerland/bund/acts/311.0/art-069.md", "switzerland/bund/acts/311.0/art-070.md", "switzerland/bund/acts/311.0/art-097.md", "switzerland/bund/acts/311.0/art-111.md", "switzerland/bund/acts/311.0/art-112.md", "switzerland/bund/acts/311.0/art-117.md", "switzerland/bund/acts/311.0/art-122.md", "switzerland/bund/acts/311.0/art-123.md", "switzerland/bund/acts/311.0/art-139.md", "switzerland/bund/acts/311.0/art-140.md", "switzerland/bund/acts/311.0/art-186.md", "switzerland/bund/acts/311.0/art-389.md", "switzerland/bund/acts/312.0/art-010.md", "switzerland/bund/acts/312.0/art-426.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# GL Gerichte SG.2010.01007
+
+## Regeste
+
+mehrfacher Mord, mehrfacher Raub etc.
+
+## Text
+
+Glarus Kantonsgericht Strafkammern 14.03.2012 SG.2010.01007 (SG.2015.6)
+Glaris Kantonsgericht Strafkammern 14.03.2012 SG.2010.01007 (SG.2015.6)
+Glarona Kantonsgericht Strafkammern 14.03.2012 SG.2010.01007 (SG.2015.6)
+
+mehrfacher Mord, mehrfacher Raub etc.
+
+Kanton Glarus
+Kantonsgericht
+Strafkammer
+Urteil
+vom 14. März 2012
+Verfahren
+SG.2010.01007
+A.______
+Anklägerin
+vertreten durch
+D.______
+K.______
+Zivilklägerin
+L.______
+Zivilkläger
+vertreten durch
+E.______
+M.______
+Zivilklägerin
+O.______
+Zivilkläger
+vertreten durch
+F.______
+G.______
+Zivilkläger
+N.______
+Zivilklägerin
+H.______
+Zivilklägerin
+vertreten durch E.______
+I.______
+Zivilkläger
+vertreten durch E.______
+J.______
+Zivilkläger
+vertreten durch
+E.______
+gegen
+B.______
+Beschuldigter
+verteidigt durch
+C.______
+angeklagt des
+mehrfachen
+Mordes, mehrfachen Raubes etc.
+Schlussanträge der A.______
+(gemäss
+Anklageschrift vom 29. Oktober 2009, ergänzt an der mündlichen Verhandlung
+vom 13. März 2012, sinngemäss):
+1.    Der Beschuldigte sei des mehrfachen Mordes gemäss
+Art. 112 StGB, des mehrfachen qualifizierten Raubes nach Art. 140 Ziff. 1 und
+Ziff. 4 StGB, des einfachen Raubes nach Art. 140 Ziff. 1 StGB, des Diebstahls
+nach Art. 139 Ziff. 1 StGB und des Hausfriedensbruchs nach Art. 186
+StGB schuldig zu sprechen.
+2.    Der Beschuldigte sei zu einer lebenslänglichen
+Freiheitsstrafe zu verurteilen, unter Anrechnung der erstandenen
+Auslieferungshaft, Untersuchungshaft und des vorzeitigen Strafvollzugs.
+3.    Der Beschuldigte sei im Anschluss an die
+Strafverbüssung zu verwahren.
+4.    Die gemäss Schlussbericht des Verhöramtes des Kantons
+Glarus vom 28. Mai 2010 sichergestellten Gegenstände seien gestützt auf Art.
+69 StGB einzuziehen und zu vernichten.
+5.    Die gesamten Verfahrenskosten seien dem Beschuldigten
+aufzuerlegen.
+Schlussanträge
+der Zivilklägerin K.______
+(vom 7.
+April 2008,
+sinngemäss
+):
+1.    Der Beschuldigte sei zu verpflichten, der
+Zivilklägerin K.______ eine Genugtuung in der Höhe von CHF 300.— zu bezahlen.
+2.    Der Beschuldigte sei zu verpflichten, S.______
+Schadenersatz in der Höhe von CHF 10'400.— zu bezahlen.
+3.    Der Beschuldigte sei zu verpflichten, der
+[...]Schadenersatz in der Höhe von CHF 9'662.90 zu bezahlen.
+Schlussanträge
+des Zivilklägers L.______
+(vom 13. März 2012, sinngemäss):
+1.    Der Beschuldigte sei zu verpflichten, dem Zivilkläger
+L.______ Schadenersatz in der Höhe von CHF 139'818.— nebst Zins zu 5 % seit
+5. Juli 2005 zu bezahlen.
+2.    Der Beschuldigte sei zu verpflichten, dem Zivilkläger
+L.______ eine Genugtuung in der Höhe von CHF 30'000.— nebst Zins zu 5 % seit
+5. Juli 2005 zu bezahlen.
+3.    Der Beschuldigte sei zu verpflichten, dem Zivilkläger
+L.______ eine Parteientschädigung für das Untersuchungsverfahren in der Höhe
+von CHF 1'391.25 zu bezahlen.
+4.    Alles unter Kostenfolge zu Lasten des Beschuldigten.
+Schlussantrag
+der Zivilklägerin M.______
+(vom 20. Mai 2009 und 23. Juni 2009, sinngemäss):
+Der Beschuldigte sei zu
+verpflichten, der Zivilklägerin M.______ Schadenersatz in der Höhe von CHF
+16'107.20 zu bezahlen.
+Schlussanträge
+des Zivilklägers
+Y.______ (vom 13. März 2012, sinngemäss):
+1.    Der Beschuldigte sei zu verpflichten, dem Zivilkläger
+Y.______ Schadenersatz in der Höhe von CHF 7'625.— nebst Zins zu 5 % seit 1.
+Mai 2006 zu bezahlen.
+2.    Der Beschuldigte sei zu verpflichten, dem Zivilkläger
+Y.______ eine Genugtuung in der Höhe von CHF 28'000.— nebst Zins zu 5 % seit
+28. Juli 2005 zu bezahlen.
+3.    Eventuell sei der Beschuldigte zu verpflichten, dem
+Zivilkläger Y.______ eine 15 Jahre dauernde Genugtuungsrente von monatlich
+CHF 250.— zu bezahlen.
+4.    Alles unter Kosten- und Entschädigungsfolge zu Lasten
+des Beschuldigten.
+Schlussantrag
+des Zivilklägers G.______
+(vom 7. Oktober 2008, sinngemäss):
+Der Beschuldigte sei zu
+verpflichten, dem Zivilkläger G.______ Schadenersatz in der Höhe von CHF
+100'000.— zu bezahlen.
+Schlussantrag
+der Zivilklägerin N.______
+(vom 24. September 2008, sinngemäss):
+Der Beschuldigte sei zu
+verpflichten, der Zivilklägerin N.______ Schadenersatz in der Höhe von CHF
+300'711.— zu bezahlen.
+Schlussantrag
+der Zivilklägerin H.______
+(vom 13. März 2012, sinngemäss):
+Der Beschuldigte sei zu
+verpflichten, der Zivilklägerin H.______ eine Genugtuung in der Höhe von CHF
+60'000.— nebst Zins zu 5 % seit 22. Februar 2007 zu bezahlen.
+Schlussantrag
+des Zivilklägers I.______
+(vom 13. März 2012, sinngemäss):
+Der Beschuldigte sei zu
+verpflichten, dem Zivilkläger I.______ eine Genugtuung in der Höhe von CHF
+35'000.— nebst Zins zu 5 % seit 22. Februar 2007 zu bezahlen.
+Schlussantrag
+des Zivilklägers J.______
+(vom 13. März 2012, sinngemäss):
+Der Beschuldigte sei zu verpflichten,
+dem Zivilkläger J.______ eine Genugtuung in der Höhe von CHF 35'000.— nebst
+Zins zu 5 % seit 22. Februar 2007 zu bezahlen.
+Schlussanträge
+der Zivilkläger H.______, I.______
+und J.______
+(vom 13.
+März 2012, sinngemäss):
+1.    Der Beschuldigte sei zu verpflichten, den Zivilklägern H.______,
+I.______ und J.______ Schadenersatz in der Höhe von CHF 6'944.— nebst
+Zins zu 5 % seit 13. März 2008 zu bezahlen.
+2.    Der Beschuldigte sei zu verpflichten, den Zivilklägern H.______,
+I.______ und J.______ eine Parteientschädigung in der Höhe von CHF 28'026.55
+zu bezahlen.
+3.    Alles unter Kostenfolge zu Lasten des Beschuldigten.
+Schlussanträge
+der Verteidigung
+(gestellt an der mündlichen Verhandlung vom
+13. März 2012, sinngemäss):
+1.    Der Beschuldigte sei der fahrlässigen Tötung nach
+Art. 117 StGB, des mehrfachen Raubes im Sinne von Art. 140 Ziff. 1 Abs. 1
+StGB und des Diebstahls im Sinne von Art. 139 Ziff. 1 StGB schuldig zu
+sprechen.
+2.    Von den weiteren Vorwürfen sei der Beschuldigte
+freizusprechen.
+3.    Der Beschuldigte sei mit einer Freiheitsstrafe von 12 Jahren zu
+bestrafen, unter Anrechnung der erstandenen Auslieferungs- und
+Untersuchungshaft.
+4.    Es sei eine vollzugsbegleitende ambulante Massnahme anzuordnen.
+5.    Die beschlagnahmten Gegenstände seien endgültig einzuziehen.
+6.    Die Zivilforderungen seien, soweit heute anerkannt, gutzuheissen
+und im Übrigen auf den Weg des ordentlichen Zivilprozesses zu verweisen.
+____________________
+Das Gericht zieht in
+Betracht:
+I. Prozessgeschichte
+1. Gestützt
+auf die Untersuchungsakten und den Schlussbericht vom 28. Mai 2010 erhob
+die A.______ mit Anklageschrift vom 29. Oktober 2010 – eingegangen am
+29. Oktober 2010 – Anklage gegen B.______ wegen mehrfachen Mordes,
+Diebstahls, mehrfachen qualifizierten Raubes, einfachen Raubes und Hausfriedensbruchs.
+Mit Eingabe vom 13. Januar 2011 beantragte die Staatsanwaltschaft im
+Hinblick auf eine mögliche Verwahrung eine psychiatrische Begutachtung des
+Beschuldigten. Am 16. März 2011 wurde bei T.______ ein Gutachten in
+Auftrag gegeben.
+Mit Eingabe
+vom 24. Februar 2011 stellte die Verteidigung Antrag auf Befragung
+mehrerer Personen, mit Schreiben vom 4. Oktober 2011 die Staatsanwaltschaft
+auf Präzisierung des Erstgutachtens sowie Einholung eines Zweitgutachtens. Am
+11. November 2011 lehnte der Kantonsgerichtspräsident sämtliche Beweisanträge
+ab.
+Erwähnt sei
+zudem, dass per 1. Juli 2011 [...] als Amtsnachfolger von [...] die
+Verfahrensleitung übernommen hat.
+2. Die
+mündliche Hauptverhandlung vor der Strafkammer des Kantonsgerichts wurde
+zunächst auf den 13. und 14. März 2012, 07.30 Uhr, angesetzt.
+Der Verhandlungsbeginn wurde mit Schreiben vom 18. Januar 2012 jeweils
+auf 09.00 Uhr verschoben. Mit Vorladung vom 20. Januar 2012 wurde
+der 26. März 2012 als zusätzlicher Verhandlungstag angesetzt.
+Die [...] erbat
+mit Schreiben vom 19. Januar 2012 um Dispensation von der
+Hauptverhandlung. K.______ liess sich telefonisch dispensieren. G.______ verzichtete
+mit Eingabe vom 24. Januar 2012 auf eine Teilnahme an der Hauptverhandlung.
+Mit Eingabe vom 26. Januar 2012 verzichtete auch die N.______ auf die
+Teilnahme an der Hauptverhandlung. Mit Eingabe vom 9. März 2012 liess
+sich L.______ von der Hauptverhandlung dispensieren
+.
+Die mündliche Hauptverhandlung vor der Strafkammer des
+Kantonsgerichts fand am 13. März 2012 statt.
+Am
+14. März 2012 fällte die Strafkammer ihr Urteil, welches am
+16. März 2012 versandt und am 19. März 2012 vom Rechtsvertreter von
+B.______ und von der A.______ empfangen wurde. Mit Eingabe vom 20. März
+2012 meldete der Rechtsvertreter von B.______ Berufung an. Mit Eingabe vom
+28. März 2012 meldete der Rechtsvertreter von L.______ sowie H.______,
+I.______ und J.______ Berufung an.
+II.
+Sachverhaltserstellung
+1. Die Anklageschrift der A.______ vom
+29. Oktober 2010 umfasst die in den Untersuchungsakten und im
+Schlussbericht des Verhöramtes des Kantons Glarus aufgeführten und näher
+umschriebenen strafbaren Handlungen des Beschuldigten. Auf diese, auf die
+Ausführungen der Parteien in der Hauptverhandlung gemäss Handprotokoll des
+Gerichtsschreibers und auf die Plädoyernotizen von Staatsanwaltschaft,
+Verteidigung und Geschädigtenvertretern wird soweit notwendig in den
+nachfolgenden Erwägungen Bezug genommen.
+2. Der
+Beschuldigte gab zu, am 13. Juni 2005 die
+[...]
+Uhrenbijouterie in Zürich, am
+5. Juli 2005 die Bijouterie [...]Goldschmied in Wetzikon ZH, am
+8. Juli 2005 die Bijouterie V.______ in Glarus, am 14. Februar 2006
+das Uhrengeschäft Uhrenatelier in Zürich und am 22. Februar 2007 die
+Bijouterie [...]in [...]überfallen zu haben. Er bestritt jedoch, dabei
+jemanden getötet zu haben.
+3. Der
+Sachverhalt ist somit hinsichtlich des genauen Tatgeschehens zu erstellen
+(vgl. nachfolgend Ziff. IV/2. ff.).
+Das Gericht hat seinem
+Urteil denjenigen Sachverhalt zu Grunde zu legen, den es aus den im gesamten
+Verfahren gewonnenen Überzeugungen als verwirklicht erachtet (Art. 10
+Abs. 2 StPO).
+4. Nach dem
+Grundsatz der freien richterlichen Beweiswürdigung ist zu prüfen, ob der
+angeklagte Sachverhalt mit Sicherheit als gegeben erachtet werden kann.
+Bestehen
+nach abgeschlossener Beweiswürdigung erhebliche und unüberwindliche Zweifel,
+so sind diese zu Gunsten der beschuldigten Person zu werten (Art. 32
+Abs. 1 BV; Art. 10 Abs. 3 StPO;
+Schmid Niklaus
+, Schweizerische Strafprozessordnung,
+Praxiskommentar, Zürich 2009, N 4 ff. zu Art. 10). Erheblich
+sind jene Zweifel, welche bei einer objektiven Betrachtungsweise angebracht
+sind (
+Schmid Niklaus
+, a.a.O.,
+N 10 zu Art. 10).
+Es stellt
+sich die Frage, ob die der freien Beweiswürdigung verpflichteten Richter nach
+ihrer persönlichen Ansicht aufgrund gewissenhafter Prüfung die verschiedenen
+Aussagen für glaubhaft halten und zur Überzeugung gelangen, dass ein
+Schuldspruch aufgrund der vorliegenden Beweise erfolgen muss. Haben sie
+demgegenüber vernünftige Zweifel an der Schuld des Beschuldigten, ist dieser
+freizusprechen.
+III. Fall [...]
+1. Die
+Staatsanwaltschaft wirft dem Beschuldigten B.______ vor, am 13. Juni
+2005 um ca. 16.10 Uhr die S.______ Uhren-Bijouterie im dritten Stock an
+der [...] in [...] bestohlen zu haben.
+B.______ habe
+das Geschäft, in welchem die damals 75jährige Verkäuferin
+K.______ arbeitete, betreten und sich diverse Uhren im Gesamtwert von
+CHF 17'300.― zeigen lassen. Unvermittelt sei er in der Folge mit
+den Uhren aus dem Laden gerannt. Er habe die Beute später verkauft und
+verschenkt und mit dem Erlös seinen Lebensunterhalt bestritten. Dadurch habe
+er sich wegen (Entreiss-) Diebstahls im Deliktsbetrag von
+CHF 17'300.― gemäss Art. 139 Ziff. 1 StGB strafbar
+gemacht, indem er vorsätzlich den Gewahrsam an den Uhren gebrochen habe, um
+eigenen daran zu begründen.
+2. Die rechtliche Würdigung durch den
+Staatsanwalt ist zutreffend und wurde vom Verteidiger auch nicht bestritten.
+Schuld-ausschliessungs- und Rechtfertigungsgründe im Sinne des Gesetzes
+liegen keine vor.
+Dementsprechend ist der Beschuldigte des
+Diebstahls
+im Sinne von Art. 139 Ziff. 1 StGB
+schuldig zu
+sprechen.
+IV. Fall [...]
+1. Die
+A.______ wirft dem Beschuldigten vor, am 5. Juli 2005 zwischen
+09.30 Uhr und 11.30 Uhr die Bijouterie [...] an der [...] in [...] überfallen
+zu haben. Hierbei habe er sich des qualifizierten Raubes, im Deliktsbetrag
+von ca. CHF 74'746.85, gemäss Art. 140 Ziff. 1 Abs. 1 und
+Ziff. 4 StGB, sowie wegen Hausfriedensbruchs gemäss Art. 186 StGB
+strafbar gemacht.
+2. Am
+3. April 2007 wurde B.______ durch die Kantonspolizei Zürich kurz zum
+Raub an L.______ befragt. Dort gab der Beschuldigte als Grund für seine
+Fahrten quer durch die Schweiz an, erstens sei das ein schönes Land, er habe
+so viel wie möglich davon sehen wollen, und zweitens habe er sich umgeschaut,
+was man wo machen könne, wo man ohne Hindernis stehlen oder Überfälle machen
+könne. An Tatutensilien habe er Handschuhe und Klebeband dabei gehabt.
+3. Gegenüber
+der Kantonspolizei Zürich gab der Beschuldigte am 4. Mai 2007 an, er sei
+zufällig zum Juweliergeschäft von L.______ gekommen und sei hingegangen um
+einmal zu schauen, was es dort so gebe. Den Entschluss zum Raub habe er erst
+unmittelbar im Geschäft gefasst. Der Beschuldigte habe L.______ gesagt, das
+sei ein Überfall. L.______ sei darauf zur Türe gelaufen und der Beschuldigte
+habe ihn am Arm gepackt und ins Gesicht geschlagen. Er habe mit der rechten
+Hand zugeschlagen. Der Beschuldigte sei selber Linkshänder. L.______ sei
+hingefallen, der Beschuldigte habe ihn aufgefangen und in die Werkstatt geschleppt.
+Dort habe L.______ zu schreien begonnen, weshalb der Beschuldigte erneut
+zugeschlagen habe. L.______ sei bei Bewusstsein gewesen und habe am Boden
+gelegen. B.______ habe ihn seitwärts ins Gesicht geschlagen. Der zweite
+Schlag sei auf den Kopf erfolgt. Dann habe B.______ ein drittes Mal zugeschlagen.
+Er habe erfolglos versucht, L.______ mit Klebeband zu fesseln. Beim Verlassen
+des Geschäfts sei L.______ seitlich auf dem Boden gelegen und habe sich
+bewegt. Der Beschuldigte habe ihn noch aufgesetzt und an einen Stuhl oder
+einen Schrank gelehnt. L.______ habe unter Schock gestanden und aus der Nase
+geblutet.
+Der
+Beschuldigte bezeichnete sich selber nicht als stark. Er mache Morgengymnastik
+und sei vor seiner Verhaftung – nicht regelmässig – ins Schwimmbad gegangen.
+Krafttraining mache er nicht, der Polizeibeamte solle sich doch seinen Körper
+ansehen. Er verneint, Kampfsport ausgeübt zu haben. Seinen kräftigen Händedruck
+erklärte der Beschuldigte damit, dass es in [...] üblich sei, sich einen
+kräftigen Händedruck zu geben. Er treibe jeden Tag Morgensport. Der Beschuldigte
+ist sich durchaus bewusst, dass die Wirkung eines Schlages von der Kraft
+abhängt, mit der er ausgeführt wird. Weil L.______ älter gewesen sei, habe er
+nicht so stark zugeschlagen, sondern versucht, ihn mit Worten zu beruhigen.
+Es könne nicht sein, dass L.______ schwere Kopfverletzungen und eine
+Hirnblutung davongetragen habe.
+4. Am
+14. März 2008 wurde der Beschuldigte durch die Staatsanwaltschaft IV
+des Kantons Zürich befragt. Er führte aus, das mitgeführte Klebeband habe er
+eigentlich in seinem Zimmer gehabt, aber wegen einer defekten Autoscheibe
+habe er es dann mitgenommen. Er habe allein gehandelt. Er anerkannte, dass
+L.______ zum Zeitpunkt der Befragung noch an einem schweren Schädelhirntrauma
+litt. Er bestritt, dass die beigebrachten Verletzungen lebensgefährlich waren
+und fragte, wofür er L.______ denn hätte töten sollen.
+5. Im Rahmen
+der ersten Einvernahme durch das Verhöramt des Kantons Glarus vom
+7. August 2009 anerkannte B.______ den qualifizierten Raub zum Nachteil
+des L.______ mit Deliktsbetrag von CHF 74'746.85. Beim Betreten des
+Juweliergeschäfts habe er noch keinen Vorsatz gehabt; erst als er bereits im
+Geschäft gewesen sei und gesehen habe, dass nur eine Person anwesend gewesen
+sei, habe er den Entschluss zum Raub gefasst. Er habe L.______ einen „ganz
+normalen Schlag“ gegeben, um ihn ruhigzustellen und ihm Angst zu machen. Dann
+habe er ihn in einen Nebenraum gezogen und Schmuckstücke eingesammelt, die er
+in eine Umhängetasche gefüllt habe, welche er bei sich gehabt habe. Da sei
+L.______ zur Tür gerannt, worauf der Beschuldigte ihm wiederum einen „ganz
+normalen Schlag“ in den Bauch verpasst habe. Er habe L.______ dann auf den
+Boden gedrückt und erfolglos versucht, ihn mit Klebeband, das er auch einfach
+so dabei gehabt habe, zu fesseln. So habe er L.______ noch einmal an den Kopf
+geschlagen, wobei er aber nur habe bewirken wollen, dass L.______ nicht
+wieder aufstehe, nicht jedoch, dass er bewusstlos werde. Anschliessend sei er
+aus dem Laden geflüchtet.
+B.______
+bestätigte die Richtigkeit der Aussagen vom 4. und 16. Mai 2007
+gegenüber der Kantonspolizei Zürich. Tatmotiv seien seine Schulden gegenüber
+seinen Verwandten in [...] für den Kauf der Wohnung in [...] gewesen. Die
+Beute habe er in der Schweiz verkauft und das Geld nach [...] mitgenommen.
+B.______ habe
+keinen Mittäter gehabt, obwohl er gemäss Kantonspolizei von Zeugen beim
+Auskundschaften des Tatorts mit einer zweiten Person beobachtet worden sei.
+6. In der
+zweiten Einvernahme durch den Verhörrichter vom 27. Januar 2010 bestritt
+B.______ die schwere Körperverletzung, er habe L.______ nicht so schwer
+verletzt.
+7. Die
+Verteidigung erachtet zwar als erstellt, dass B.______ L.______ in seinem
+Geschäft überfallen habe, bestritt aber die Qualifikation des Raubes im Sinne
+von Art. 140 Ziff. 4 StGB. Sie begründet dies damit, dass die durch
+das Gutachten des Instituts für Rechtsmedizin der Universität Zürich (fortan
+'IRM') vom 10. August 2005 beschriebenen Verletzungen nicht die Schwere
+erreichten, wie sie für eine Qualifikation gemäss Art. 140 Ziff. 4
+StGB bzw. Art. 122 StGB notwendig seien. Man habe es somit bei den Verletzungen
+strafrechtlich mit einem Fall von Art. 123 StGB zu tun, welcher wiederum
+von Art. 140 Ziff. 1 StGB konsumiert werde. Daneben sei in der
+Untersuchung nicht bewiesen worden, dass B.______ nach dem Vorfall nicht mehr
+habe arbeiten können und sein Geschäft habe auflösen müssen, wie dies die
+Anklage behauptet. Schliesslich sei – sinngemäss – die Arbeitsunfähigkeit
+nach dem
+Überfall überhaupt nicht wissenschaftlich belegt, und selbst wenn L.______
+nach dem Überfall arbeitsunfähig gewesen sein sollte, so wäre der
+unmittelbare Kausalzusammenhang zwischen Überfall und Arbeitsunfähigkeit
+nicht wissenschaftlich belegt, schliesslich sei L.______ zum Tatzeitpunkt
+bereits 71 Jahre alt gewesen und möglicherweise aus anderen Gründen aus
+dem Geschäft ausgeschieden.
+8. Die
+Aussagen des Beschuldigten erscheinen – abgesehen davon, dass er nach seinem
+spontanen Besuch in der S.______ Uhrenbijouterie zum zweiten Mal quasi
+zufällig in ein Juweliergeschäft kam, um sich etwas umzuschauen, und dabei
+spontan den Vorsatz zu einem Überfall fasste – im Hinblick auf das tatsächliche
+Geschehen plausibel und glaubhaft. Nach seinen Aussagen trug sich der
+Überfall demnach zusammengefasst folgendermassen zu:
+B.______
+erklärte L.______, dies sei ein Überfall. L.______ versuchte daraufhin zu
+fliehen, wurde von B.______ aber am Arm gepackt, der ihm mit der rechten Hand
+„einen ganz normalen Schlag“ ins Gesicht verpasst und dann in einen
+Hinterraum geschleppt hat. Dort schrie L.______, so dass B.______ ihn erneut
+seitwärts ins Gesicht bzw. auf den Kopf schlug. Er versuchte daraufhin erfolglos,
+L.______ mit Klebeband zu fesseln. Schliesslich schlug er dem fliehenden
+L.______ mindestens ein weiteres Mal, wieder mit einem „ganz normalen
+Schlag“, in den Bauch und dann am Boden noch einmal in den Kopf, damit
+L.______ nicht wieder aufsteht.
+Bereits die
+beiden „ganz normalen Schläge“ deuten auf das spezielle Verhältnis des
+Beschuldigten zu Gewalt hin, welches auch das Gutachten feststellen wird.
+Auffällig ist auch, dass der Beschuldigte dem am Boden liegenden L.______ noch
+einen Schlag nachsetzte, damit dieser „nicht wieder aufsteht“. Es ging
+B.______ also mehr darum, ungestört den Laden ausräumen und flüchten zu
+können, als um die Gesundheit der Opfer, auch wenn er sich in begrenztem Masse
+fürsorglich gibt, indem er L.______ aufrecht hingesetzt und den Alarmknopf
+gedrückt haben will.
+Das
+mitgeführte Klebeband habe B.______ gleichsam zufällig in der Tasche gehabt,
+um seine Autoscheibe zu reparieren. An sich wäre das ja eine vernünftige
+Erklärung für das Mitführen einer Rolle Klebeband, wären da nicht seine widersprechenden
+Aussagen: Geht man davon aus, dass er das Klebeband tatsächlich aus seinem
+Zimmer mitgenommen hat, um die Autoscheibe zu reparieren, dann müsste er es
+eigentlich sogleich nach der Ankunft beim Auto verwendet haben. Dazu hätte er
+es aus der Tasche nehmen müssen. Und nach der Reparatur hätte er das
+Klebeband sicherlich im Auto gelassen, um nach einem erneuten Herunterfallen
+der Scheibe sofort wieder eine behelfsmässige Reparatur durchführen zu
+können. Ein vernünftiger Mensch hätte in der von B.______ geschilderten
+Situation das Klebeband niemals zurück in die Tasche gesteckt, denn im Auto
+selber wäre der einzig sinnvolle Ort gewesen – es sei denn natürlich,
+B.______ führte bereits beim Verlassen des Autos im Schilde, damit L.______
+zu fesseln. Dem Gericht scheint dies unter den gegebenen Umständen jedenfalls
+die einzig schlüssige Erklärung für das Mitführen einer Rolle Klebeband.
+Der
+Beschuldigte blieb durchwegs dabei, allein gehandelt zu haben. Somit gehen
+sämtliche Verletzungen L.______ auf das Handeln des Beschuldigten zurück und
+er muss sich dementsprechend dafür verantworten. Erst in der Befragung durch
+die Staatsanwaltschaft IV des Kantons Zürich akzeptierte der Beschuldigte
+überhaupt erst die Vorstellung, dass L.______ ein schweres Schädelhirntrauma
+erlitten hat. Dabei war er sich nach eigenen Aussagen aber bereits zum
+Tatzeitpunkt bewusst, dass die Wirkung eines Schlages von der Kraft, mit der
+er ausgeführt wird, abhängt. Die Verletzungen L.______ und das ärztliche
+Gutachten des IRM belegen, dass L.______ mit sehr grosser Kraft geschlagen
+wurde. Es mag sein, dass es in [...] zwar üblich ist, sich einen kräftigen
+Händedruck zu geben, man muss aber trotzdem auch die dazu nötigen physischen
+Voraussetzungen mitbringen. Bei B.______ ist dies offenbar der Fall. Er
+„treibe Sport und von daher trinke er nicht viel“. Offensichtlich ist er in
+sportlicher Hinsicht allgemein recht ambitioniert. Als jemand, der
+offensichtlich um eine gute Fitness bemüht ist (Morgensport) und zumindest in
+den Händen überdurchschnittlich kräftig ist (Händedruck), ist B.______ daher
+körperlich in der Lage, derart schwere Schläge mit brachialer Gewalt
+auszuteilen. Das belegt das Gutachten des IRM, welches das Ergebnis von
+B.______ Taten beurteilen musste. B.______ will aber nur weich zugeschlagen
+haben und führte aus, er habe sich sinngemäss zurückgehalten. Dabei musste
+ihm jedoch klar sein, dass für einen älteren Mann auch ein „sanfter“ Schlag
+eines überdurchschnittlich kräftigen Menschen extrem hart sein kann. B.______
+warf auch die Frage auf, wozu er denn L.______ hätte töten sollen.
+Selbstredend gibt es hierzu keinen vernünftigen Grund. B.______ bringt hier
+durch seine Selbstreflexion aber einen interessanten Gedanken ins Spiel, wenn
+auch zu seinem Nachteil: Wäre er tatsächlich so um sein Opfer besorgt gewesen,
+wie er nachträglich vorgibt, dann hätte er vermutlich gar nicht zugeschlagen.
+Es kann für einen rund 30jährigen, körperlich fitten Mann schliesslich nicht
+allzu schwer sein, seinen 71-jährigen Gegner ohne übermässige Gewaltanwendung
+zu überwältigen. Allein aufgrund des jungen Alters wäre es B.______ vermutlich
+problemlos möglich gewesen, L.______ mit relativ wenig Kraftaufwand und einem
+weniger aggressiven Vorgehen zu überwältigen und zu fesseln. Dennoch zog es
+B.______ vor, L.______ mit rohen Faustschlägen auf den Kopf ausser Verkehr zu
+setzen, und zwar, wie er als Linkshänder sagte, mit der Faustinnenseite der
+rechten Hand in einer runden Bewegung. Wieso genau er dabei als Linkshänder
+mit rechts zuschlägt, ist nicht nachvollziehbar. Hätte er mit seiner starken,
+linken Hand geschlagen, wäre er vermutlich viel eher in der Lage gewesen, den
+Krafteinsatz zu dosieren und die Schläge gezielt zu platzieren als dies mit
+der schwachen rechten Hand der Fall gewesen sein muss. Vielleicht ging es ihm
+dabei darum, seine „gute“ linke Hand zu schonen, weil er sich seine Hände in
+früheren Schlägereien durch zu starke Schläge verletzt und dementsprechend
+schlechte Erfahrungen gemacht hat. Hätte er aber nicht mit voller Kraft zugeschlagen,
+wieso hätte er seine Hand dann schützen sollen? Und wenn B.______ nicht so
+stark und absichtlich „nur“ auf die Wange geschlagen hat, warum hat dann
+L.______ aus der Nase geblutet und sah derart übel zugerichtet aus? Es muss
+B.______ bei den Einvernahmen darum gegangen sein, seine Tat nachträglich als
+so schonend ausgeführt wie möglich zu schildern. Dabei zeigen die Fakten das
+Gegenteil: B.______ ging es ― aus Sicht eines Räubers verständlich
+― darum, so schnell wie möglich die Person im Laden auszuschalten, die
+Beute einzupacken und zu fliehen.
+9. Zu seiner
+körperlichen Konstitution meinte der Beschuldigte, er sei nicht stark. Er
+macht aber offenbar täglich nicht näher bezeichnete Morgengymnastik, jedoch
+kein Krafttraining. Zunächst verneinte er auch, Kampfsport ausgeübt zu haben.
+Dennoch fiel dem einvernehmenden Polizeibeamten der ausserordentlich kräftige
+Händedruck des Beschuldigten auf. Es ist allgemein bekannt, dass
+Kampfsportler nicht den gleichen Körperbau aufweisen mit Bodybuilder. Zum
+Teil mögen sie eingedenk der mannigfaltigen Gewichtsklassen, die zum Teil
+illustrierende Namen wie „Fliegengewicht“ tragen, gegen aussen sogar eher
+schmächtig wirken, was aber keineswegs heisst, dass sie nicht in der Lage
+wären, einem physisch schwer zuzusetzen.
+Ob der
+Beschuldigte nun tatsächlich eine Kampfsportausbildung genossen hat oder
+nicht, kann letzten Endes offen bleiben, schliesslich lag die angewendete
+Gewalt auch ohne solche Kenntnisse deutlich über dem "notwendigen"
+Mass, was B.______ allein schon aufgrund des gesunden Menschenverstandes
+hätte erkennen müssen.
+10. Tatsache
+bleibt nach dem Gesagten, dass es der Beschuldigte schaffte, L.______ mit nur
+vier Schlägen auf den Kopf krankenhausreif zu prügeln. Aus welchem Grund auch
+immer: Diese Schläge mussten mit grosser Kraft ausgeführt werden, um eine
+solche Wirkung zu entfalten. Nach Überzeugung des Gerichts betrat er das
+Geschäfts L.______ zudem bereits in der Absicht, einen Überfall zu verüben.
+11. L.______
+wurde am 27. Juli 2005 durch die Kantonspolizei Zürich befragt. Er
+konnte sich an den Ablauf des Überfalls nicht mehr erinnern.
+12. Am
+21. März 2007 fragte die Kantonspolizei Zürich telefonisch nach, ob
+L.______ inzwischen wieder etwas zum Überfall eingefallen sei. Er verneinte
+dies.
+13. In der
+polizeilichen Einvernahme vom 30. April 2007 äusserte sich L.______
+selber zum Raub in seinem Geschäft. Man sage, er sei nicht mehr der alte
+L.______, er leide unter Depressionen. Er selber merke, dass er irgendwie
+nichts mehr vom Leben habe. Er nehme Psychopharmaka. Seit dem Überfall habe
+er dauernd neue Leiden. Momentan könne er kaum gehen. Auch seine Hände könne
+er immer weniger bewegen. Er habe wegen des Raubes sein Geschäft auflösen
+müssen. Er sei insgesamt sechs Wochen im Spital gewesen nach dem Überfall.
+Seit dem Überfall gehe er abends nicht mehr aus.
+14. Der Rechtsvertreter L.______ schilderte an der
+Hauptverhandlung den aktuellen Gesundheitszustand wie folgt. L.______ habe
+früher viel gemalt und täglich auf seinem Flügel gespielt. Er habe tragende
+Rollen in Aufführungen des Zürcher Reisetheaters und der Operettenbühne
+Hombrechtikon wahrgenommen. Er sei trotz seines Alters von damals 71 Jahren
+in seinen eigenen Worten noch aus dem Stand auf einen Tisch gesprungen. Seit
+dem Überfall leide er an Sprechstörungen, Bewegungs- und Empfindungsstörungen
+an den Händen, habe immer noch keine Erinnerung an die Tat und auch seine
+Konzentrationsfähigkeit sei seit damals eingeschränkt. Aufgrund dieser
+feinmotorischen und intellektuellen Einschränkungen könne er seine Arbeit und
+seine Hobbys nicht mehr ausüben. Im Weiteren leide L.______ unter der
+ständigen Angst, Komplizen des Täters könnten zurückkehren, weshalb er
+Fremden gegenüber sehr furchtsam sei. Er leide auch unter Schlafstörungen. Im
+Universitätsspital seien Angst sowie eine depressive Störung gemischt
+diagnostiziert worden. Er nehme heute noch Medikamente ein.
+15. Trotz
+sechs Wochen Spitalpflege leidet L.______ zusammengefasst immer noch unter
+physischen Nachwirkungen des brutalen Überfalls durch B.______, ganz zu
+schweigen von den psychischen Auswirkungen dieses traumatischen Erlebnisses.
+Besonders schwer wiegt der Umstand, dass er als Goldschmied seine Hände nur
+noch schwer bewegen kann. Es bedarf keiner weiteren Erläuterung, dass
+L.______ bereits durch diese Einschränkung seiner Physis faktisch
+arbeitsunfähig ist.
+Hinzu kommen die
+gravierenden Einschränkungen, welche nicht nur seine Erwerbsfähigkeit,
+sondern sein Wohlbefinden allgemein betreffen: motorische Störungen, Angstzustände,
+Konzentrationsschwäche. Diese Beschwerden dauern nach wie vor an, obwohl bis
+zur Hauptverhandlung rund 6½ Jahre vergangen sind.
+16. U.______
+wurde am 8. Juli 2005 durch die Kantonspolizei Zürich als Auskunftsperson
+befragt. [...] aufgefallen, die sich vor der Bijouterie L.______ verdächtig
+verhalten hätten. Er bestätigte seine Aussage gegenüber der Staatsanwaltschaft
+IV des Kantons Zürich am 28. April 2008.
+17. Am
+11. Mai 2007 führte die Kantonspolizei Zürich eine
+Personen-wahlkonfrontation zwischen dem Beschuldigten und weiteren Personen,
+unter anderem L.______ und dem Zeugen U.______, durch. Während und nach dem Gegenüberstellen
+hatten der Geschädigte und die Auskunftspersonen keine Möglichkeiten, sich
+untereinander abzusprechen. U.______ erkannte dabei B.______ mit einer selber
+bezeichneten Wahrscheinlichkeit von 80% anhand Körpergrösse und Statur als
+einen jener Männer wieder, die er einige Tage vor der Tat vor der Bijouterie
+L.______ beobachtet hatte. L.______ selber erkannte keine Person wieder.
+18. In der
+Einvernahme vom 27. Januar 2010 widerrief B.______ sein zunächst
+abgelegtes Mordgeständis in den Fällen V.______ und [...]. Mit Verfügung vom
+13. April 2010 ersuchte der Verhörrichter des Kantons Glarus die Kantonspolizei
+Zürich, zur geänderten Sachverhaltsdarstellung des Beschuldigten Stellung zu
+nehmen. In ihrem Bericht vom 28. April 2010 verwies die Kantonspolizei
+Zürich auf die Akten und die medizinischen Berichte der zuständigen Ärzte.
+Der damals zuständige Zürcher Staatsanwalt [...] hielt den Widerruf für
+völlig unglaubwürdig.
+19. Der
+DNA-Bericht vom 18. April 2007 ergab eine Übereinstimmung zwischen einer
+am Tatort gefundenen DNA-Spur und der DNA des Beschuldigten.
+20. Nach
+Ansicht der Kantonspolizei Zürich habe das Tatvorgehen im Fall [...]
+demjenigen im Falle von V.______ (vgl. unten Ziff. V.) sehr geglichen.
+Es müsse aufgrund der erlittenen Kopfverletzungen davon ausgegangen werden,
+[...] massiv geschlagen worden sei.
+21. Das IRM
+untersuchte L.______ am 15. Juli 2005 und erstellte ein Gutachten mit
+Datum vom 10. August 2005. L.______ habe ein Schädelhirntrauma erlitten
+und sei aufgrund zunehmender Verschlechterung seines Zustandes vom Spital
+[...] auf die Intensivstation für Unfallchirurgie des Universitätsspitals
+Zürich verlegt worden. Zudem wies er zahlreiche Hautunterblutungen an Hals,
+Brustkorb und Extremitäten auf, die alle Folgen einer stumpfen
+Gewalteinwirkung seien.
+L.______
+Zustand hat sich demnach unmittelbar nach dem Überfall stetig verschlechtert.
+Sein Zustand war offenbar derart ernst, dass eine Behandlung im Spital
+Wetzikon nicht als genügend aussichtsreich erachtet wurde und er ins Universitätsspital
+[...] verlegt werden musste, wenngleich die einzelnen Verletzungen nirgends
+als lebensgefährlich im eigentlichen Sinne beschrieben werden. Die diversen
+Hautunterblutungen belegen, dass er an Hals, Brustkorb und Extremitäten
+geschlagen oder zumindest derart grob behandelt wurde, dass diese diversen
+Hämatome die Folge waren.
+22.
+Wer jemandem eine fremde, bewegliche Sache zur Aneignung
+wegnimmt, um sich oder einen andern damit unrechtmässig zu bereichern, wird
+mit Freiheitsstrafe bis zu fünf Jahre oder Geldstrafe verurteilt
+(Art. 139 Ziff. 1 StGB).
+Wer mit
+Gewalt gegen eine Person oder unter Androhung gegenwärtiger Gefahr für Leib
+oder Leben oder nachdem er den Betroffenen zum Widerstand unfähig gemacht
+hat, einen Diebstahl begeht, wird mit Freiheitsstrafe bis zu zehn Jahren oder
+Geldstrafe nicht unter 180 Tagessätzen bestraft (Art. 140 Ziff. 1
+Abs. 1 StGB).
+Die Strafe
+ist Freiheitsstrafe nicht unter fünf Jahren, wenn der Täter das Opfer in
+Lebensgefahr bringt, ihm eine schwere Körperverletzung zufügt oder es grausam
+behandelt (Art. 140 Ziff. 4 StGB).
+Raub ist eine
+qualifizierte Form der Nötigung, um einen Diebstahl zu begehen oder die
+weggenommene Sache behalten zu können (BGE 133 IV 210). Die Verübung von
+Gewalt liegt in jeder Art von physischer Einwirkung auf den Körper des
+Opfers, solange die Gewalt gerade zum Zweck des Diebstahls ausgeübt wird
+(BGE 122 IV 100). Die erforderliche Gewalt richtet sich nach dem
+Widerstand des konkreten Opfers (BGE 133 IV 211).
+23.
+Eine fremde Sache gilt als fremd im Sinne von
+Art. 139 Ziff. 1 StGB, wenn es sich bei ihr zivilrechtlich um
+fremdes Eigentum handelt. Auch für das Kriterium der Beweglichkeit ist auf
+das Zivilrecht abzustellen. Das entwendete Deliktsgut gehörte nicht B.______
+und ist eine bewegliche Sache im Sinne von Art. 713 ZGB.
+Die Aneignung im Sinne von Art. 139
+Ziff. 1 StGB besteht in der Anmassung der Eigentümerstellung im Zeitpunkt
+der Wegnahme; unrechtmässig ist die durch den Diebstahl eingetretene
+Bereicherung, wenn sie eine wirtschaftliche Besserstellung bewirkt, auf die
+der Bereicherte keinen Anspruch hat. B.______ entwendete das Diebesgut, um es
+später zu verkaufen und handelte damit gleichsam als Eigentümer. Er hat es
+weiterverkauft, ohne für dessen Erwerb seinerseits der
+Bijouterie
+[...] Goldschmied
+einen Kaufpreis bezahlt zu
+haben. Der durch die Entwendung erlangte Wert der Beute bewirkte somit eine
+wirtschaftliche Besserstellung, sparte B.______ sich doch im Hinblick auf den
+späteren Wiederverkauf quasi den Einstandspreis. Dass B.______ keinen
+Rechtsanspruch auf das Deliktsgut hatte, ergibt sich ebenfalls daraus, dass
+er die Uhren nicht durch einen ordentlichen Kaufvertrag oder sonst unter
+einem zulässigen Titel erworben hat. Hierin liegt auch die Wegnahme als
+letztes objektives Tatbestandselement begründet; sie besteht im Bruch fremden
+und der Begründung neuen, nicht notwendigerweise eigenen, Gewahrsams, wobei
+Gewahrsam die tatsächliche Sachherrschaft nach den Regeln des sozialen Lebens
+ist. L.______ hatte den Schmuck als Inhaber und Geschäftsführer der
+Bijouterie in seinem Gewahrsam, welchen B.______ durch seine Entwendung
+brach. Durch sein Vorgehen begründete er eigenen Gewahrsam.
+Der objektive Tatbestand ist damit erfüllt.
+Subjektiv setzt Art. 139 StGB Vorsatz und
+Bereicherungsabsicht voraus. Mit Vorsatz handelt, wer die Tat mit Wissen und
+Willen ausführt (Art. 12 Abs. 2 StGB). Nach Überzeugung des
+Gerichts betrat B.______ das Geschäft bereits mit dem Vorsatz, einen Überfall
+zu begehen (vgl. oben Ziff. IV./10.). Auch die Bereicherungsabsicht
+erachtet das Gericht als gegeben. Wer Wertsachen aus einer Bijouterie raubt,
+muss praktisch eine geldwerte Besserstellung zum Ziele seines Handelns haben.
+B.______ verkaufte ja seine Beute und behielt den Gewinn. Auch der subjektiv
+Tatbestand ist damit erfüllt.
+Schuldausschluss- und Rechtfertigungsgründe sind
+nicht ersichtlich.
+Der Beschuldigte hat sich damit des Diebstahls im
+Sinne von Art. 139 Ziff. 1 StGB schuldig gemacht.
+24. B.______
+hat mindestens viermal auf L.______ eingeschlagen und somit physisch auf
+diesen eingewirkt. Ziel seines Wirkens war die Durchführung eines Diebstahls
+(vgl. oben Ziff. IV./23.). Dabei hat B.______ das Mass des Notwendigen
+bei Weitem überschritten (vgl. oben Ziff. IV./8.), mit Sicherheit wäre
+eine „verhältnismässigere“ Anwendung von Gewalt bereits genügend gewesen. T
+atbestandsmässig ist B.______ Gewaltanwendung in
+Form der Schläge jedenfalls für den einfachen Raub nach Art. 140
+Ziff. 1 StGB in jedem Fall.
+Es stellt
+sich die Frage der Qualifikation nach Art. 140 Ziff. 4 StGB. Sie
+ist nach dem Wortlaut des Gesetzes zu bejahen, wenn der Täter das Opfer entweder
+in Lebensgefahr bringt, ihm eine schwere Körperverletzung zufügt oder es grausam
+behandelt. Obwohl L.______ zwei Wochen in Spitalpflege und vier Wochen in
+einer Höhenklinik verbringen musste und die Verletzungen demnach alles andere
+als harmlos waren, ist die Lebensgefahr der Verletzungen durch die vorliegenden
+Akten nicht genügend liquide nachgewiesen. Das Tatvorgehen mag nach allgemeinem
+Sprachgebrauch zwar als grausam erscheinen, erfüllt jedoch nicht die
+Voraussetzungen von Art. 140 Ziff. 4 StGB, wo die Grausamkeit im Zufügen
+von Qualen um ihrer selbst willen besteht (
+Trechsel Stefan et al.
+, Praxiskommentar zum Schweizerischen
+Strafgesetzbuch, Zürich/St. Gallen 2008, N 21 zu Art. 140
+StGB).
+Das Gericht geht nämlich davon aus, dass die angewendete Gewalt
+lediglich Mittel zum Zwecke war und nicht als solches Ziel von B.______
+Handeln. L.______ ist wie ausgeführt aber faktisch arbeitsunfähig. Es ist
+daher zu prüfen, ob dadurch der Tatbestand der gefährlichen Körperverletzung
+nach Art. 122 StGB erfüllt ist. Art. 140 Ziff. 4 StGB verweist
+hier unzweifelhaft auf Art. 122 StGB (
+Niggli Marcel/Wiprächtiger Hans
+, Basler
+Kommentar, 2. Auflage, Basel 2007, N 142 zu Art. 140 StGB).
+Der schweren
+Körperverletzung macht sich schuldig, wer (…) vorsätzlich eine andere schwere
+Schädigung des Körpers oder der körperlichen oder geistigen Gesundheit eines
+Menschen verursacht (Art. 122 Abs. 3 StGB). Zu berücksichtigen sind
+unter dieser Generalklausel insbesondere eine lange Dauer des Spitalaufenthalts
+und der (vollen oder teilweisen) Arbeitsunfähigkeit (
+Niggli Marcel/Wiprächtiger Hans
+, Basler
+Kommentar, 2. Auflage, Basel 2007, N 20 zu Art. 122 StGB). Zu
+berücksichtigen sind auch Faktoren, welche zwar die berufliche Tätigkeit
+nicht erheblich beeinträchtigen, dem Betroffenen aber insofern eine Einbusse
+der Lebensqualität bringen, als er Hobbys nicht mehr ausüben kann (
+Niggli Marcel/Wiprächtiger
+Hans
+, Basler Kommentar, 2. Auflage, Basel 2007, N 21 zu
+Art. 122 StGB).
+Wie bereits
+erwähnt ist L.______ nach eigener Sachdarstellung zumindest teilweise
+arbeitsunfähig, weil er seine Hände nicht mehr bewegen kann. Eine befriedigende
+Ausübung eines Handwerks allgemein ist so nicht mehr möglich. L.______ ist
+als Goldschmied von dieser Einschränkung besonders betroffen, erfordert doch
+die Arbeit als Goldschmied im Speziellen handwerkliches Feingeschick.
+Den Einwand
+der Verteidigung, die Arbeitsunfähigkeit L.______ sei nicht nachgewiesen,
+erachtet das Gericht im Ergebnis als nicht begründet. Zwar entspricht es den
+Tatsachen, dass die Arbeitsunfähigkeit formell in den Akten nirgends von
+einer Fachperson bestätigt wurde, beispielsweise in einem ärztlichen Zeugnis.
+Jedoch kann es aufgrund der allgemeinen Lebenserfahrung und erst recht unter
+Berücksichtigung des erstellten Sachverhalts ohne Weiteres als notorisch
+erachtet werden, dass man nach einem brutalen Raubüberfall am helllichten Tag
+an seinem Arbeitsplatz im Zentrum einer Schweizer Kleinstadt völlig verängstigt
+ist und psychische Folgen davon trägt. Es ist schliesslich allgemein bekannt,
+dass bereits Personen, die "nur" Opfer eines Einbruchs waren,
+ähnliche Verhaltensweisen an den Tag legen können, obwohl sie zum
+Tatzeitpunkt nicht anwesend waren und bloss das Ergebnis der Tat erleben, und
+ohne dass sie brutal zusammengeschlagen wurden. B.______ hingegen erlebte den
+gesamten Überfall hautnah mit und wurde von einem überdurchschnittlich
+kräftigen jungen Mann mindestens viermal geschlagen mit dem Ziel, dass er
+nicht wieder aufstehen sollte. Da sind die vom Geschädigtenvertreter an der
+Hauptverhandlung geschilderten Symptome durchaus plausibel: Sprechstörung,
+Bewegungs- und Empfindungsstörungen an den Händen, leicht hinkender Gang,
+Amnesie bezüglich der Tat; dazu sei er feinmotorisch und intellektuell nicht
+mehr in der Lage, seine Hobbys Malen, Klavierspielen, Singen und
+Schauspielerei auszuüben, habe Angstzustände, Schlafstörungen und eine
+depressive Störung und müsse noch heute Medikamente einnehmen. Das Gericht
+sieht die Arbeitsunfähigkeit als erwiesen an.
+Sodann sei
+gemäss Verteidigung der Kausalzusammenhang zwischen Raub und
+Arbeitsunfähigkeit nicht erwiesen. L.______ war vor dem Überfall noch voll
+erwerbstätig, nach dem Überfall jedoch stellte er seine Arbeit quasi von
+einem Tag auf den anderen vollständig ein. Bei dieser Sachlage kann das
+Gericht berechtigterweise auch ohne medizinische Fachkenntnisse auf einen
+direkten Zusammenhang schliessen. Hätten zudem andere Gründe, wie
+beispielsweise das Alter L.______ eine Rolle gespielt, so hätte er sein
+Geschäft ― allenfalls nach dem Überfall ― in geordnetem Rahmen
+aufgelöst oder einem Nachfolger übergeben. Dies tat er aber nachweislich
+nicht. Auch hier folgt das Gericht nicht der Argumentation der Verteidigung.
+Darüber
+hinaus leide B.______ allgemein unter einer eingeschränkten Mobilität und
+verlasse das Haus abends nicht mehr. Er wird dadurch ähnlich in seiner
+Lebensqualität eingeschränkt wie das Opfer in BGE 105 IV 180, welches infolge
+eingeschränkter Mobilität nach einem Autounfall nicht mehr s
+einem
+Hobby, dem Fischen, nachgehen konnte, weil es steile Borde nicht mehr zu
+überwinden in der Lage war.
+Der objektive
+Tatbestand der schweren Körperverletzung ist damit gestützt auf die obigen
+Erwägungen und die Rechtsprechung des Bundesgerichts erfüllt.
+Im
+subjektiven Tatbestand ist (Eventual-)Vorsatz gefordert. Wie die Verletzungen
+zeigen, schlug B.______ wiederholt und mit grosser Kraft auf einen 71jährigen
+Mann ein, sogar als dieser bereits am Boden lag. Das Ziel war, dass dieser
+nicht mehr aufstehen sollte. Jeder umsichtige Mensch weiss oder hätte
+zumindest wissen müssen, dass unter diesen Umständen schwerste Schädigungen
+der Gesundheit, ja sogar der Tod, mit hoher Wahrscheinlichkeit die Folge
+sind. Wahrscheinlich lagen die schwere gesundheitliche Schädigung L.______ tatsächlich
+nicht in der direkten Absicht B.______, denn es ging ihm ja nicht primär
+darum, L.______ zu verprügeln, sondern vielmehr darum, seinen Beutezug zu sichern.
+Die Überwältigung L.______ war in diesem Sinne notwendiges Übel zur Erreichung
+des Zweckes. B.______ gab an, die Wirkung eines Schlages hänge von der Kraft
+mit der er ausgeführt werde, ab. Aus dem Zustand L.______ nach der Tat kann
+geschlossen werden, dass B.______ sich nicht wirklich zurückhielt, auch wenn
+er dies behauptet. B.______ hätte daher wissen müssen, dass die L.______
+zugefügten Schläge zu schweren gesundheitlichen Schäden führen können, und
+dennoch schlug er zu. Auch muss ihm bei jedem weiteren Schlag aufgefallen
+sein, dass der Zustand L.______ sich von Schlag zu Schlag zunehmend verschlechterte.
+Und trotzdem schlug er ihn auf dem Boden liegend noch ein letztes Mal, nur um
+sicherzugehen, dass er nicht wieder aufstehen würde. Damit nahm er die
+Verletzungsfolgen in Kauf und handelte eventualvorsätzlich, was für die Erfüllung
+des subjektiven Tatbestandes genügt.
+Mit dem
+Erfüllen des Tatbestandes der schweren Körperverletzung im Sinne von
+Art. 122 Abs. 3 StGB ist in casu auch der qualifizierte Raub nach
+Art. 140 Ziff. 4 StGB erfüllt. Dabei konsumiert der Raub die
+Körperverletzung (
+Niggli
+Marcel/Wiprächtiger Hans
+, Basler Kommentar, 2. Auflage, Basel
+2007, N 29 zu Art. 122 StGB).
+Schuldausschluss-
+und Rechtfertigungsgründe sind nicht ersichtlich.
+B.______ hat
+sich somit des qualifizierten Raubes im Sinne von Art. 140
+Ziff. 4 StGB schuldig gemacht.
+25. B.______
+bestritt den Vorwurf des Hausfriedensbruchs, schliesslich habe er nur ein
+öffentliches Geschäft betreten. Die Verteidigung führte aus, wer ein Geschäft
+in rechtswidriger Absicht betrete, mache sich nicht des Hausfriedensbruches
+strafbar. Zudem wäre für diese Tat am 6. Juli 2010 die Verjährung eingetreten,
+da dafür gemäss damals geltender Rechtslage die fünfjährige Verjährungsfrist
+nach Art. 70 Abs. 4 aStGB anzuwenden sei, womit auf diesen Anklagepunkt
+nicht einzutreten sei.
+Die
+Verjährung der Strafverfolgung von sexuellen Handlungen mit Kindern
+(Art. 187) und unmündigen Abhängigen (Art. 188) sowie von
+Straftaten nach den Artikeln 111-113, 122, 189-191, 195 und 196, die sich
+gegen ein Kind unter 16 Jahren richten, bemisst sich nach den Absätzen
+1-3, wenn die Straftat vor dem Inkrafttreten der Änderungen vom 5. Oktober
+2001 begangen worden ist und die Verfolgungsverjährung zu diesem Zeitpunkt
+noch nicht eingetreten ist (Art. 70 Abs. 4 aStGB, Stand
+28. Dezember 2004).
+Bestimmt es
+das Gesetz nicht anders, so sind die Bestimmungen des neuen Rechts über die
+Verfolgungs- und Vollstreckungsverjährung, wenn sie milder sind als das
+bisherige Recht, auch auf die Täter anwendbar, die vor Inkrafttreten dieses
+Gesetzes eine Tat verübt haben oder beurteilt wurden (Art. 389
+Abs. 1 StGB).
+Der
+Hausfriedensbruch, geregelt in Art. 186 StGB, fällt nicht in den Geltungsbereich
+von Art. 70 Abs. 4 aStGB; auch ist Art. 389 Abs. 2 nicht
+einschlägig, da Hausfriedensbruch als Vergehen nach altem wie nach neuem
+Recht einer Verjährungsfrist von sieben Jahren unterliegt, welche vorliegend
+noch nicht abgelaufen ist (Art. 97 Abs. 1 lit. c StGB und
+Art. 70 Abs. 1 lit. c. aStGB).
+26. Wer gegen
+den Willen des Betroffenen in ein Haus, in eine Wohnung, in einen
+abgeschlossenen Raum eines Hauses oder in einen unmittelbar zu einem Haus
+gehörenden umfriedeten Platz, Hof oder Garten oder in einen Werkplatz unrechtmässig
+eindringt oder, trotz der Aufforderung des Berechtigten, sich zu entfernen,
+darin verweilt, wird, auf Antrag, mit Freiheitsstrafe bis zu drei Jahren oder
+Geldstrafe bestraft (Art. 186 StGB).
+Tatbestandsmässig
+ist erst das tatsächliche Eindringen gegen den Willen des Berechtigten in den
+umschlossenen, aber nicht notwendigerweise verschlossenen Raum (
+Donatsch Andreas/Flachsmann
+Stefan/Hug Markus/Weder Ulrich
+, Kommentar zum Schweizerischen
+Strafgesetzbuch, 18., überarbeitete Auflage, Zürich 2010, N 5 zu
+Art. 186 StGB). Nach Trechsel (
+Trechsel Stefan et al.
+, a.a.O., N 15 zu Art. 186
+StGB, mit Hinweisen): Fehlende Erlaubnis genügt nicht, auch nicht ein
+hypothetischer Wille – "hätte der Hausherr die wahre Absicht des Täters
+gekannt…". Wer in Diebstahlsabsicht einen Selbstbedienungsladen betritt,
+begeht nicht Hausfriedensbruch, auch nicht, wer mittels Fassadenkletterei Einblick
+in ein Zimmer sucht. Viel zu weit geht nach Ansicht Trechsels BGE
+108 IV 39, wonach a priori zu vermuten sei, dass dem Publikum zu
+einem bestimmten Zweck geöffnete Räumlichkeiten nicht in Verfolgung anderer
+Zwecke betreten werden dürfen.
+Indes setzt das Verweilen in einem Raum
+trotz Aufforderung des Berechtigten, diesen zu verlassen, voraus, dass der
+Täter nach der Aufforderung noch eine gewisse Dauer im Raum verbleibt und
+dadurch nach aussen zu erkennen gibt, dass er das Verbot des Berechtigten
+missachtet (
+Donatsch
+Andreas/Flachsmann Stefan/Hug Markus/Weder Ulrich
+, a.a.O., N 15 f. zu Art. 186 StGB).
+Mit Trechsel erachtet das Gericht den
+Tatbestand des Hausfriedensbruches vorliegend als nicht erfüllt. Zunächst
+kannte L.______ die wahren Absichten B.______ nicht, als dieser das Geschäft
+betrat. Erst mit dem ersten Schlag manifestierte B.______ offensichtlich die
+Zweckwidrigkeit seines Aufenthaltes in der Bijouterie, womit sein Aufenthalt
+allenfalls objektiv tatbestandsmässig wurde. Indes war B.______, nachdem er
+mit diesem Schlag seinen Plan in die Tat umzusetzen begonnen hatte, bestrebt,
+das Geschäft raschest möglich wieder zu verlassen, so dass sein relativ
+kurzer Aufenthalt nach Ansicht des Gerichtes nicht reicht, um
+tatbestandsmässig zu sein, womit B.______ vom Anklagevorwurf des
+Hausfriedensbruches im Sinne von Art. 186 StGB freizusprechen ist.
+V. Fall [...]
+1. Gemäss
+Staatsanwaltschaft habe B.______ am 8. Juli 2005, zwischen
+09.00 Uhr und 09.45 Uhr, die Bijouterie V.______ am [...] in [...]
+überfallen. Er habe sich damit des qualifizierten Raubes, im Deliktsbetrag
+von ca. CHF 70'000.―, gemäss Art. 170 Ziff. 1 Abs.
+1 und 4 StGB und, indem er den anwesenden Geschäftsinhaber
+V.______ erschlagen habe, des Mordes nach Art. 112 StGB strafbar
+gemacht.
+2. Der
+Beschuldigte zeige sich gemäss Verteidigung insofern geständig, als er den
+Raub verübt und V.______ mehrmals geschlagen habe. Die Verteidigung bejahte
+zwar den Kausalzusammenhang zwischen dem Wirken B.______ und dem Tod V.______,
+bestritt aber die rechtliche Qualifikation als Mord, ebenso wie die
+Qualifikation des Raubes im Sinne von Art. 140 Abs. 4 StGB. Konkret
+stellte die Verteidigung den von der Staatsanwaltschaft vorgeworfenen
+Eventualvorsatz zur Tötung und Habgier als Motiv der Tat in Frage. Der
+Beschuldigte selber ging in der Hauptverhandlung gar über den von der
+Verteidigung eingeräumten Tatumfang hinaus und gestand neben dem Raub auch
+den Mord ein.
+Bei dieser
+Sachlage ist der Sachverhalt, soweit für den Mord und die Qualifizierung des
+Raubes relevant, zu erstellen.
+3. Am
+3. April 2007 wurde B.______ von der Kantonspolizei Zürich kurz zum
+Überfall auf V.______ befragt. B.______ habe keine besonderen Vorbereitungen
+getroffen, er habe im Auto immer Handschuhe und Klebeband dabei gehabt.
+4. Am
+14. Mai 2007 erfolgte die delegierte Einvernahme des Beschuldigten durch
+die Kantonspolizei Zürich. Der Beschuldigte verneinte, das Geschäft ausgekundschaftet
+zu haben, gab aber zu, vor der Tat bereits einmal im Geschäft gewesen zu sein,
+um sich Uhren anzusehen. Nach [...] sei er gekommen, weil er einfach so in
+der Schweiz herumgefahren sei. Den Tatentschluss habe er erst beim zweiten
+Besuch des Geschäfts gefasst. Er habe aber Handschellen mitgenommen. Zunächst
+habe er kurz mit dem Opfer gesprochen. Dann habe er mit der zur Faust
+geballten rechten Hand dem Opfer einmal ins Gesicht geschlagen. Dieses sei
+hingefallen, er habe es mit Handschellen gefesselt und in einen Nebenraum
+gebracht. Insgesamt habe er etwa fünfmal auf den Kopf des Opfers eingewirkt.
+Während des Sturzes nach dem ersten Schlag habe V.______ sich nirgends
+gestossen. Nach dem ersten Schlag habe das Opfer noch kein Blut im Gesicht
+gehabt. Der erste Schlag sei auf die rechte Wange erfolgt. Er habe V.______,
+der bei Bewusstsein gewesen sei, dann in den Nebenraum geschleift und sei in
+den Verkaufsraum zurückgekehrt, um Uhren zusammenzusuchen. Er habe bemerkt,
+dass V.______ sich Richtung Theke bewegte. Der Beschuldigte sei auf ihn
+zugerannt und habe ihm zweimal ins Gesicht geschlagen, wobei das Opfer nach
+diesen Schlägen aus der Nase geblutet habe. Dadurch sei das Opfer auf sein
+Gesäss gefallen. Der Beschuldigte habe ihn dann noch einmal geschlagen. Beim
+Verlassen des Geschäfts sei das Opfer halb auf dem Boden gelegen und habe versucht,
+sich auf den Ellbogen stützend aufzustehen. Der Beschuldigte wiederholte, er
+habe nur mit der Hand zugeschlagen. Als er das Geschäft verliess, sei
+V.______ noch ansprechbar gewesen und habe selber gesprochen
+.
+5. Die
+Einvernahme durch die Staatsanwaltschaft IV des Kantons Zürich fand am
+14. März 2008 statt. Der Beschuldigte gestand dort vier Raubüberfälle
+sowie einen Diebstahl ein. Er sei bereits vor dem Überfall einmal im Geschäft
+(sc. V.______) gewesen. Er habe dann nicht geplant, aber sinngemäss in
+Erwägung gezogen, einen Überfall zu begehen, deswegen habe er auch die
+Handschellen mitgeführt. Der erste Schlag sei mit der Hand ausgeführt worden.
+Er habe fest geschlagen, damit das Opfer zu Boden falle. Dann habe er zwei
+bis drei weitere Male, nicht in Serie, zugeschlagen. Der zweite Schlag sei
+erfolgt, weil das Opfer geschrieen habe. Der Beschuldigte sei zurück in den
+Nebenraum, habe zum zweiten Mal zugeschlagen und sei wieder in den
+Verkaufsraum. Nach einer bestimmten Zeit habe das Opfer im Nebenraum noch
+lauter zu schreien angefangen und sei plötzlich in den Verkaufsraum gekommen.
+Dort habe er zum dritten Mal zugeschlagen. Das Opfer habe sich auf die Theke
+gestützt. Schliesslich habe der Beschuldigte das Opfer zu Boden gestürzt und
+auf dem Boden erneut einmal zugeschlagen. Alles in allem seien es maximal
+fünf Schläge gewesen. Die Todesfolge könne sich der Beschuldigte nicht
+erklären. Zwar könne er sich vorstellen, dass seine Schläge dem Opfer grossen
+Schaden zugefügt hätten, aber dass sie tödlich waren, könne nicht sein. Er
+sei litauischer und internationaler Karate-Champion gewesen und habe deshalb
+gut verstanden, was er alles bewirken könne. Deshalb habe er auch nicht mit
+der gestreckten Faust zugeschlagen, sondern in einer runden Bewegung mit der Handinnenseite.
+Er habe keine besondere Kraft anwenden müssen. Hätte V.______ nicht
+geschrieen, wäre nichts passiert. Er habe sich keine Gedanken darüber
+gemacht, dass es für V.______ tödlich enden könnte. Zum Schluss habe er ihn
+aufrecht an einen Schrank gelehnt und einen vermeintlichen Alarmknopf unter
+der Theke gedrückt.
+6. Anlässlich
+der ersten Einvernahme durch das Verhöramt des Kantons Glarus vom
+7. August 2009 gab der Beschuldigte an, er sei ziellos in der Schweiz
+herumgefahren und trug sich mit dem unkonkreten Gedanken, dass er eventuell
+einen Überfall machen könnte. Er habe sich Uhren im Geschäft des Opfers angeschaut.
+Ein oder zwei Tage später sei er zurückgekommen und habe gesehen, dass das
+Opfer wiederum alleine im Geschäft gewesen sei. Da habe er sich „spontan“ zum
+Raub entschlossen. Er habe ihn mit der Hand ins Gesicht geschlagen, V.______
+sei zu Boden gestürzt und der Beschuldigte habe ihn mit zu diesem Zweck
+mitgeführten Handschellen gefesselt. Dann habe er Schmuck und Uhren in die
+mitgebrachte Tasche gefüllt. Die Handschellen hätten sich gelöst und das
+Opfer sei zur Tür gerannt, worauf der Beschuldigte ihm ins Gesicht geschlagen
+und ihn erneut mit den Handschellen gefesselt habe. B.______ habe dann weiteres
+Deliktsgut eingepackt und die Beute in der Schweiz verkauft und das Geld nach
+[...] mitgenommen.
+Die Richtigkeit der Aussagen gegenüber der
+Kantonspolizei Zürich vom 13. März 2008 bestätigte er.
+Motiv seien
+wiederum seine Schulden gewesen.
+Er habe
+keinen Mittäter gehabt, obwohl er von Zeugen beim Auskundschaften des Tatorts
+mit einer zweiten Person beobachtet worden sei.
+Der
+Beschuldigte anerkannte den Deliktsbetrag von CHF 70'000.― und den
+Sachverhalt sinngemäss, will aber keine Tötungsabsicht gehabt haben.
+In der
+zweiten Einvernahme durch den Verhörrichter vom 27. Januar 2010 sagte
+B.______ aus, diese Tötung habe auch der Mittäter begangen. Und wenn man
+jemanden töten wolle, dann führe man nicht noch Handschellen mit; er habe ihn
+sinngemäss also nicht töten wollen.
+7. Dem
+Psychiater T.______ erläuterte, wie es zum Tatentschluss gekommen sei. Er
+habe noch vor der Tat in [...] einen russisch sprechenden Mann kennengelernt,
+mit dem er gemeinsame Bekannte im kriminellen Millieu gehabt habe. Dieser
+Mann habe ihm dann den Überfall vorgeschlagen. B.______ sei über den
+Vorschlag nicht überrascht gewesen
+Zudem habe
+hier auch ein Mittäter den Mord begangen. B.______ habe nicht auf Schreie aus
+dem Nebenraum, in dem sich V.______ und der Mittäter befunden hätten,
+reagiert und weiter Deliktsgut eingesammelt.
+Diese Aussage
+ist nicht überzeugend. Wie sich zeigen wird, wurde V.______ auf brutalste Art
+und Weise zusammengeschlagen. Unter diesen Umständen ist es sehr
+unwahrscheinlich, dass er nach dem Angriff noch bei Bewusstsein war und sich
+fortbewegte. Gefunden wurde seine Leiche hinter der Theke des Verkaufsraumes,
+also unmittelbar dort, wo B.______ Uhren eingesammelt haben will. Wenn
+V.______ tatsächlich dort vom Mittäter erschlagen worden wäre, hätte B.______
+dies unmittelbar mitbekommen müssen.
+8. Der
+Sachverhalt lässt sich nach den Aussagen B.______ somit wie folgt
+zusammenfassen:
+Der Beschuldigte war offenbar
+ziellos in der Schweiz unterwegs, um sich Uhren anzusehen. Dabei sei er
+einmal zufällig in Glarus in V.______ Juweliergeschäft gelandet, und ein oder
+zwei Tage später nochmals dorthin zurückgekehrt.
+Das Gericht
+ist davon überzeugt, dass der erste Besuch lediglich dazu diente, die
+Lokalität auszukundschaften. In seinen Aussagen gegenüber dem Gutachter will
+B.______ von einem gemeinsamen Bekannten aus dem bezeichnenderweise
+kriminellen Milieu V.______ Bijouterie als Tipp erhalten haben. Obwohl er
+stets vorgab, nur als Tourist in die Schweiz gekommen zu sein, sei er nach
+eigenen Angaben
+über diesen Tipp zu einem Raub nicht überrascht gewesen. Zu diesem Überfall
+wurde er von seinen vermeintlichen Hinternmännern auch noch nicht gezwungen,
+wie er dies beim Überfall auf W.______ geltend machen wird.
+B.______ gibt
+auch zu, sich mit dem unkonkreten Gedanken, einen Raub zu begehen, getragen
+zu haben. Dieser Gedanke war damals wohl viel konkreter als B.______ im
+Nachhinein zugibt. Wozu hätte B.______ sonst auch mit Handschellen in der
+Tasche ins entlegene [...] zurückkehren sollen, zumal die Uhrenpreise hier
+wohl kaum tiefer sind als in [...], wo er sich bereits in der Einvernahme zum
+Diebstahl [...] über die hohen Preise beklagt hatte.
+Aus den
+Aussagen ergibt sich, dass der Tatablauf weitgehend identisch mit dem
+Vorgehen in [...] war. B.______ schlug V.______ mit der zur Faust geballten
+Hand einmal fest auf die rechte Wange V.______, damit dieser zu Boden geht.
+V.______ ging zu Boden und B.______ versuchte dann, ihn zu fesseln, wobei er
+diesmal Handschellen verwendete. Während des Sturzes hat V.______ sich nirgends
+gestossen und hat anschliessend auch noch nicht geblutet. B.______ schleifte
+ihn dann in einen Nebenraum und ging zurück in den Verkaufsraum, um Uhren
+einzusammeln. V.______ schrie im Nebenraum, so dass B.______ in den Nebenraum
+ging und ihn erneut schlug. Danach kehrte er wieder in den Verkaufsraum
+zurück und sammelte Uhren. V.______, der die Handschellen inzwischen gelöst
+hatte, bewegte sich schreiend aus dem Nebenraum in Richtung Verkaufstheke, wo
+er sich dann aufstützte. B.______ schlug ihn zweimal ins Gesicht. Nun blutete
+V.______ aus der Nase und fiel auf sein Gesäss. B.______ schlug nochmals zu
+und fesselte ihn mit Handschellen. V.______ lag zum Schluss auf einem
+Ellbogen aufgestützt auf dem Boden, war bei Bewusstsein und ansprechbar.
+Insgesamt schlug B.______ das Opfer fünfmal auf den Kopf.
+B.______
+könne sich zwar vorstellen, dass seine Schläge dem Opfer grossen Schaden
+zugefügt hätten, aber es könne nicht sein, dass sie tödlich gewesen seien. Im
+Gegensatz zu L.______, wo B.______ sich noch zurückgehalten haben will, gibt
+er hier zu, zumindest den ersten Schlag fest ausgeführt zu haben. Er war sich
+bewusst, dass seine Schläge zu schweren Verletzungen führen können. Die
+Todesfolge schloss er aber zunächst noch aus. In der Hauptverhandlung gestand
+er einen Mord ein, und sein Verteidiger bejahte zumindest den Kausalzusammenhang
+zwischen den Schlägen und dem Tod V.______. Wer fünfmal fest auf einen
+67-jährigen Mann einschlägt – davon zweimal, als dieser bereits auf dem Boden
+lag – und weiss, dass seine Schläge grossen Schaden verursachen könnten, der
+nimmt auch in Kauf, sein Opfer zu töten. Ansonsten hätte er spätestens zum
+Zeitpunkt, als V.______ sich an der Theke aufstützen musste, nicht mehr
+weiter zugeschlagen. Vermutlich hätte B.______ V.______ ohne grosse Mühe
+erneut fesseln und zurück in den Nebenraum schleifen können. Schliesslich
+konnte sich dieser nicht einmal mehr aus eigener Kraft auf den Beinen halten.
+Dessen ungeachtet schlug der Beschuldigte am Boden zum fünften Mal auf den
+blutenden Kopf des Opfers ein. Es gilt damit als erwiesen, dass er zumindest
+in Kauf nahm, V.______ mehr als nur zu immobilisieren. Auch hier wollte
+B.______ wie schon bei L.______ sicher gehen, dass er ungestört seinen Raub
+zu Ende bringen konnte. Einen schreienden Ladenbesitzer galt es daher möglichst
+rasch zum Schweigen zu bringen.
+9. Am
+10. Juli 2006 führte das IRM eine Obduktion an V.______ durch, mit
+folgendem Ergebnis:
+„Zusammenfassend
+steht aus rechtsmedizinischer Sicht fest, dass V.______ an den Folgen der
+schweren Hirnverletzung verstorben ist, für welche am ehesten Schütteln des
+Oberkörpers oder Schläge in das Gesicht in Frage kommen. Faustschläge ins
+Gesicht können ohne weiteres die klinisch dokumentierten Blutunterlaufungen
+in den Augenweichteilen (Brillenhämatom) verursacht haben“.
+Das Gutachten
+bestätigt die Vermutung, dass V.______ durch die wiederholten Schläge auf den
+Kopf getötet wurde. Wie bereits erwähnt bestritt auch die Verteidigung den
+Zusammenhang zwischen den Schlägen und dem Tode V.______ nicht.
+10. B.______
+behauptete, zum Schluss der Tat habe er den Alarmknopf gedrückt, um Hilfe für
+V.______ zu holen. Er sagte selber aus, nie Handschuhe getragen zu haben.
+Dennoch fanden sich auf dem Alarmknopf am Tatort keinerlei Spuren B.______.
+Auch ging kein entsprechender Alarm bei der Polizei ein. Es muss sich hier
+somit um eine reine Schutzbehauptung des Beschuldigten handeln. Im Übrigen
+passt diese Behauptung wieder ins Bild des Gericht, wonach B.______ im
+Nachhinein seine Tat geschönt darstellt.
+11. Der
+Umstand, dass B.______ Handschellen dabei hatte, als er das zuvor
+ausgekundschaftete Geschäft betrat, belegt, dass der Tatentschluss zum
+Überfall eben nicht spontan erfolgt ist, sondern bereits im Vorfeld geschah
+und entsprechende Vorbereitungen getätigt wurden. B.______ hat aus seinem
+erfolglosen Fesselversuch mit dem Klebeband gelernt und seine Ausrüstung für
+diesen Überfall verbessert.
+12. Es sei
+darauf hingewiesen, dass der Beschuldigte zwar vorgibt, er bereue den Verlust
+des Lebenspartners von
+Y.______
+,
+sich diesem gegenüber aber sehr abschätzig verhielt, als er Ergänzungsfragen
+stellte. Vermutlich handelt es sich nur um aufgesetzte Reue, ansonsten hätte
+er
+Y.______
+bei der Einvernahme
+durch die Staatsanwaltschaft IV des Kantons Zürich mit mehr Respekt behandelt.
+13. Am
+3. Mai 2007 führte die Kantonspolizei Glarus eine
+Personen-Wahlkonfrontation durch, an der
+Y.______
+den Beschuldigten mit 99.9%iger Sicherheit als diejenige Person
+identifizierte, die sich am Tag vor dem Überfall um ca. 17.00 Uhr im Geschäft
+aufgehalten habe. Er habe sich Uhrenbänder zeigen lassen und immer nur auf
+Vitrinen geachtet und nach allfälligen Kameras Ausschau gehalten. Der
+Beschuldigte sei allein gewesen. In der Zeugeneinvernahme durch die
+Staatsanwaltschaft IV des Kantons Zürich wiederholte
+Y.______
+im Wesentlichen seine
+Aussagen.
+Der
+Beschuldigte bestätigte, am Tag vor dem Raub im Geschäft gewesen zu sein.
+Die Aussagen
+Y.______
+bestätigen, dass sich B.______
+am Tag vor dem Raub in der Bijouterie V.______ aufhielt und die
+Überwachungsmassnahmen ausspionierte. B.______ sagte selber, er habe beim
+ersten Besuch geschaut, ob es Kameras habe Wieso hätte er dies tun sollen,
+wenn er keinen Überfall im Schilde führte?
+14. Mit
+Verfügung vom 13. April 2010 ersuchte der Verhörrichter des Kantons
+Glarus die Kantonspolizei Glarus, zu der geänderten Sachverhaltsdarstellung
+des Beschuldigten Stellung zu nehmen. Mit ihrem Ergänzungsrapport vom
+22. April 2011 kam die Kantonspolizei dieser Aufforderung wie folgt
+nach:
+In der
+Bijouterie seien keine Überwachungskameras vorhanden gewesen. Es könne aber
+aufgrund der vorgefundenen Schuhabdrücke geschlossen werden, dass sich nach der
+Tat lediglich eine unbekannte Person am Tatort aufgehalten habe. Bei dieser
+Person müsse es sich um den Täter handeln.
+In der
+Bijouterie V.______ sei zum Zeitpunkt der Tat eine Alarmanlage mit zwei am
+Ladenkorpus erkennbaren Klingelknöpfen installiert gewesen. Die Knöpfe hätten
+Alarm bei der Kantonspolizei Glarus ausgelöst. Es sei aber am Tattag kein entsprechender
+Alarm eingegangen. Aus dem Rapport sei ersichtlich, dass das Opfer
+schliesslich von einer Kundin gefunden wurde. Eine DNA-Untersuchung der Knöpfe
+ergab keine Übereinstimmung mit dem Beschuldigten. Es steht damit fest, dass
+B.______ keinen Alarmknopf gedrückt hat.
+Den Widerruf
+des Geständnisses hält die Kantonspolizei auch aufgrund der bisherigen
+Aussagen des Beschuldigten mit erklärtem Täterwissen für völlig unglaubwürdig.
+Die
+DNA-Untersuchung zeigte keine Spuren B.______ auf dem Alarmknopf. Ein
+entsprechender Alarm ging bei der Polizei nicht ein. Der Alarmknopf wurde
+somit von B.______ gar nie gedrückt, es handelt sich nach Überzeugung des Gerichts
+um eine reine Schutzbehauptung des Beschuldigten.
+Aufgrund der
+Schuhabdrücke befand sich lediglich ein einziger Täter im Geschäft. B.______
+stritt nie ab, zum Tatzeitpunkt im Geschäft gewesen zu sein; er bestätigte
+vor Schranken sogar, V.______ überfallen zu haben. In Kombination dieser
+beiden Fakten ergibt sich, dass B.______ auch in Glarus allein im Geschäft
+war. Somit konnte es auch nur B.______ sein, der V.______ erschlagen hat.
+15. Die
+Staatsanwaltschaft legt B.______ vorliegend einen qualifizierten Raub nach
+Art. 140 Ziff. 4 StGB
+sowie einen
+Mord nach Art. 112 StGB
+zur Last.
+Zu den
+rechtlichen Ausführungen zum Raub vgl. vorstehend
+Ziff. IV. 22. ff.. Wie oben dargelegt musste B.______ durch
+seine brutale Vorgehensweise damit rechnen, dass V.______ den Überfall nicht
+überleben würde. V.______ ist an den Folgen denn auch tatsächlich gestorben.
+Somit ist zu bejahen, dass B.______ Handeln V.______ in Lebensgefahr gebracht
+hat. Die übrigen Tatbestandselemente des Raubes sind erfüllt, denn das
+Vorgehen B.______ in diesem Fall stimmt in den wesentlichen Punkten mit dem
+Vorgehen im Fall L.______ überein. Dies gilt wie erwähnt auch für den
+Vorsatz, welcher bereits beim Betreten des Geschäfts vorgelegen haben muss.
+B.______ nannte als Grund für die Tat Bereicherungsabsicht.
+Der objektive
+und der subjektive Tatbestand sind damit erfüllt.
+Schuldausschluss-
+und Rechtfertigungsgründe sind keine ersichtlich.
+Der
+Beschuldigte hat sich eines qualifizierten Raubes im Sinne von Art. 140
+Ziff. 4 StGB schuldig gemacht.
+16. Wer
+vorsätzlich einen Menschen tötet, ohne dass eine der besonderen
+Voraussetzungen der nachfolgen Artikel (sc. 112 ff. StGB) zutrifft, wird mit
+Freiheitsstrafe nicht unter fünf Jahren bestraft (Art. 111 StGB).
+Handelt der
+Täter besonders skrupellos, sind namentlich sein Beweggrund, der Zweck der
+Tat oder die Art der Ausführung besonders verwerflich, so ist die Strafe
+lebenslängliche Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn Jahren
+(Art. 112 StGB).
+Der objektive
+Tatbestand des Mordes umfasst die Tötung eines Menschen. B.______ war der
+einzige Täter und V.______ starb als Folge des Überfalls. B.______ muss somit
+V.______ getötet haben. Weder B.______ selber noch die Verteidigung
+bestritten dies.
+Subjektiv ist
+im Falle des Mordes nicht nur Vorsatz, sondern zudem besondere
+Skrupellosigkeit bei der Tathandlung gefordert. Wer besonders skrupellos handelt,
+der hat folglich keine moralischen Bedenken während der Tatausführung bzw.
+keine hemmenden Gefühlsregungen gegen das Auslöschen eines Menschenlebens (
+Niggli Marcel/Wiprächtiger
+Hans
+, Basler Kommentar, 2. Auflage, Basel 2007, N 4 zu
+Art. 112 StGB mit Hinweisen).
+Die Tötung eines Menschen
+zum Zwecke des Raubes ist ein typischer Fall des Mordes im Sinne von Art. 112
+StGB. Es genügt, dass die Tötung im Rahmen der Verübung des Raubes
+stattgefunden hat; es ist insoweit unerheblich, ob der Räuber vor, während
+oder unmittelbar nach der Phase der Aneignung der Beute und ob er ohne
+besonderen Grund oder aus Angst vor einer (tatsächlichen oder vermuteten) Reaktion
+des Opfers getötet hat etc. (Regeste zu BGE 115 IV 187)
+.
+Vorliegend
+sagte B.______ aus, wenn V.______ nicht geschrieen hätte, dann wäre nichts
+passiert. Er stützt mit seiner Aussage die Auffassung des Gerichts, wonach
+die Schläge lediglich Mittel zum Zwecke des ungestörten Diebstahls bzw.
+Raubes waren. B.______ schlug V.______, welcher an den Folgen starb, während
+des Überfalls, um sich ungestört die Beute aneignen zu können. In grosser
+Gefühlskälte und Rücksichtslosigkeit schlug er V.______ ohne zu Zögern mehrfach
+auf den Kopf, währenddem dieser gefesselt am Boden lag. Es gibt keine Anzeichen
+von Mitgefühl oder Reue, im Gegenteil zeigte sich B.______ gegenüber
+Y.______
+im Nachgang zur Tat sehr
+pietätlos. Es ist erwiesen, dass B.______ entgegen seiner Behauptung keine
+Hilfe für den schwer verletzten V.______ geholt hat. Ziel seines Handelns war
+Habgier. Die Verteidigung verneint dies zwar, aber würde man ihrem Einwand
+Folge leisten und Habgier als "Rechtfertigung" der Gewalt
+ausschliessen, so bliebe eigentlich nur die blosse Freude an der Gewalt
+selber als Motiv für das Handeln B.______, was wiederum keinesfalls zu
+B.______ Vorteil gereichen würde. Hinsichtlich der "Verhältnismässigkeit"
+der angewendeten Gewalt muss zudem hier festgestellt werden, dass B.______
+nach dem Überfall auf L.______ mittlerweile über einschlägige Erfahrung mit
+sich wehrenden Opfern hatte und deshalb diesmal bessere Vorbereitungen
+getroffen und deshalb Handschellen mitgenommen hat. Nach dem ersten Schlag
+hatte er genügend Zeit, um V.______ zu fesseln und ihn in den Nebenraum zu
+schleifen. Trotzdem gelang es ihm auf längere Sicht nicht, V.______ mit den
+Handschellen allein ausser Gefecht zu setzen und er bediente sich wiederum
+roher Gewalt, um sich V.______ zu erwehren, auch nachdem dieser bereits zu
+Boden gegangen war. Zu erwähnen ist auch, dass ein Grossteil der Morddelikte
+allgemein ihren Ursprung in einer persönlichen Beziehung zwischen Täter und
+Opfer haben. Bei V.______ handelt es sich aber eben gerade nicht um eine
+B.______ bekannte Person. V.______ war ein wildfremdes Opfer, dessen Tötung
+nicht auf je nachdem entschuldigende oder nachvollziehbare persönliche Gründe
+zurückzuführen ist, sondern dessen Tod seinen Grund einzig und allein darin
+hat, dass er B.______ Bereicherungsabsicht zur falschen Zeit am falschen Ort
+im Wege stand.
+Nach bundesgerichtlicher
+Rechtsprechung ist somit ein Raubmord gegeben.
+Schuldausschluss-
+und Rechtfertigungsgründe sind nicht ersichtlich.
+B.______ ist
+des Mordes im Sinne von Art.
+112 StGB schuldig zu
+sprechen.
+17. Es stellt sich noch die Frage der Konkurrenz zwischen
+Art. 112 StGB und Art. 140 Ziff. 4 StGB. Art. 112 StGB
+konsumiert die Qualifikation von Art. 140 Ziff. 4 StGB, tritt aber
+zum einfachen Raub von Art. 140 Ziff. 1 StGB wegen der Verschiedenheit
+der betroffenen Rechtsgüter in echte Konkurrenz
+(
+Niggli Marcel/Wiprächtiger
+Hans
+, Basler Kommentar, 2. Auflage, Basel 2007, N 30 zu
+Art. 112 StGB).
+Der
+Beschuldigte ist somit zu verurteilen wegen einfachen Raubes im Sinne von
+Art. 140 Ziff. 1 StGB und wegen Mordes im Sinne von Art.
+112 StGB.
+VI. Fall [...]
+1. Am
+14. Februar 2006 um ca. 11.00 Uhr habe der Beschuldigte das
+Uhrengeschäft Uhrenatelier am [...] in
+Zürich ausgeraubt. Dabei habe er den Geschäftsinhaber G.______
+niedergeschlagen, gefesselt und 44 Armbanduhren im Wert von
+CHF 398'650.― gestohlen. Dadurch habe B.______ sich wegen einfachen
+Raubes, im Deliktsbetrag von CHF 398'650.―, gemäss Art. 140
+Ziff. 1 Abs. 1 StGB strafbar gemacht.
+2. Der
+Beschuldigte anerkannte den angeklagten Sachverhalt und die rechtliche
+Würdigung.
+3. Der
+Beschuldigte wurde am 2. Mai 2007 durch die Kantonspolizei Zürich
+befragt. Er gab den ihm vorgeworfenen Überfall auf das Uhren-Atelier von
+G.______ am 14. Februar 2006 zu. Er habe das Geschäft von einem früheren
+Besuch in Zürich gekannt und sich erst im allerletzten Moment, im Geschäft,
+zum Überfall entschieden. Er habe gesehen, dass ein Diebstahl nicht möglich
+sein würde, und habe sich zum Raub entschlossen. So habe er G.______ mit der
+Faustinnenseite gegen den Kopf geschlagen, worauf G.______ zu Boden gegangen
+sei. Der Beschuldigte habe ihm Handschellen angelegt und habe sich daran
+gemacht, Uhren einzusammeln. Schliesslich habe G.______ zu schreien oder
+sonst etwas zu tun begonnen, worauf der Beschuldigte ihm eine Ohrfeige verpasst
+habe. Darauf sei G.______, der noch bei Sinnen gewesen sei, ruhig gewesen.
+G.______ habe während der Anwesenheit des Beschuldigten nie das Bewusstsein
+verloren, das sei ganz sicher. Der Beschuldigte habe einmal am Kiefer und
+einmal seitlich am Kopf geschlagen. Es könne sein, dass G.______ den Kopf
+beim Hinfallen angeschlagen habe.
+4. Am
+28. April 2008 erfolgte die Einvernahme durch die Staatsanwaltschaft IV
+des Kantons Zürich. Der Beschuldigte behauptete, er habe die Handschellen
+einfach dabei gehabt, er wisse nicht wieso. Er habe G.______ zunächst niedergeschlagen
+und anschliessend nochmals geschlagen; gesamthaft habe er ihn drei- bis
+viermal geschlagen. Der Beschuldigte anerkannte in der Folge den vorgeworfenen
+Sachverhalt, nachdem er G.______ „mit der zur Faust geballten Hand stark
+gegen das Gesicht“ und nachfolgend „mehrmals mit der offenen Hand gegen den
+Kopf“ geschlagen habe. Er stritt nicht ab, dass G.______ erhebliche Kopfverletzungen,
+eine Gehirnerschütterung, eine blutende Verletzung an der Lippe sowie eine
+Schwellung im Kieferbereich erlitten haben soll.
+5. Anlässlich
+der ersten Einvernahme durch das Verhöramt des Kantons Glarus vom
+7. August 2009 anerkannte der Beschuldigte den vorgeworfenen Sachverhalt
+und die rechtliche Würdigung sowie den Deliktsbetrag. In eigenen Worten habe
+er damals die unbestimmte Absicht gehegt, einen Raub zu begehen. Er habe das
+ihm von früher bekannte Geschäft am
+[...]
+in Zürich betreten und den Inhaber mit der Hand ins
+Gesicht geschlagen. Dieser sei umgefallen und der Beschuldigte habe ihn mit
+Handschellen gefesselt, die Beute eingesammelt und in seine Tasche gepackt
+und das Geschäft verlassen. Er habe die Beute dann in der Schweiz verkauft
+und das Geld nach Litauen mitgenommen, wo er seine Schulden damit bezahlt und
+seinen Lebensunterhalt bestritten habe. Motiv für die Tat sei Geld gewesen.
+Er bestätigte die Richtigkeit der Aussagen gegenüber der Kantonspolizei
+Zürich und der Staatsanwaltschaft Zürich sinngemäss.
+6. In der
+zweiten Einvernahme durch den Verhörrichter vom 27. Januar 2010 bestritt
+der Beschuldigte die posttraumatische Belastungsstörung und die Gehirnerschütterung
+des Opfers, er habe ihn nur leicht an der Lippe verletzt.
+Er anerkannte
+aber, einen Raub begangen zu haben.
+7. Auch bei
+diesem dritten Überfall nimmt das Gericht B.______ nicht ab, dass er während
+eines Spaziergangs zufällig in der Gegend war und dabei zufällig auch noch
+Handschellen mit sich führte. Vielmehr erachtete es als gegeben, dass
+B.______ das Geschäft bereits mit Vorsatz betrat. Alsdann schlug er G.______
+mit der Faustinnenseite an den Kiefer, fesselte ihn mit Handschellen und als
+dieser zu schreien begann, gab er ihm noch mindestens zwei, eventuell drei,
+Ohrfeigen. Er sammelte seine Beute ein und verliess das Geschäft wieder.
+B.______ anerkannte hier einen Raub im Sinne von Art. 140 Ziff. 1
+StGB.
+8. Mit
+Verfügung vom 13. April 2010 ersuchte der Verhörrichter des Kantons
+Glarus die Kantonspolizei Zürich, zur geänderten Sachverhaltsdarstellung des
+Beschuldigten Stellung zu nehmen. Mit ihrem Bericht vom 28. April 2010
+kam die Kantonspolizei dieser Aufforderung wie folgt nach:
+Sie verwies
+auf die Akten und den Arztbericht.
+9. Das Opfer
+G.______ erinnerte sich im Rahmen der polizeilichen Befragung vom
+14. Februar 2006 nur noch daran, dass ein vermeintlicher Russe in den Laden
+gekommen sei und sich für eine teure Rolex interessiert habe. Dann breche
+seine Erinnerung ab.
+Die
+Erinnerung G.______ ist unvollständig, liefert aber immerhin keine Anhaltspunkte
+dafür, dass B.______ nicht allein gehandelt hat.
+Am
+10. März 2006 erfolgte eine zweite Einvernahme. Das Opfer konnte sich
+noch immer an nichts erinnern. Eine Wahlbildkonfrontation verlief negativ.
+10. Im
+Geschäftslokal von G.______ war die Überwachungskamera nach unten geschwenkt.
+Sie ergibt somit keine Hinweise auf einen Mitttäter. Angesichts B.______
+Fixierung auf Überwachungskameras erscheint es sehr gut möglich, dass er die
+Kamera selber nach unten geschwenkt hat.
+11. Der
+ärztliche Bericht des Universitätsspitals Zürich vom 2. Mai 2008 attestiert
+G.______ eine Hirnerschütterung, eine Rissquetschwunde an der Oberlippe und
+am Hinterkopf, Prellungen im Gesicht und Schürfungen im Rumpfbereich. Die
+Verletzungen seien zu keinem Zeitpunkt lebensgefährlich gewesen.
+Der Bericht
+von [...], Craniosacral-Therapeut, stellte bei G.______ „typische
+posttraumatische Belastungsstörungen“ fest.
+12.
+Das Geständnis stimmt mit den
+Untersuchungsergebnissen überein, weshalb der Sachverhalt rechtsgenügend
+erstellt ist
+. Die rechtliche Würdigung der Staatsanwaltschaft ist
+zutreffend.
+Schuldausschluss-
+und Rechtfertigungsgründe sind keine ersichtlich.
+Der
+Beschuldigte hat sich eines (einfachen) Raubes im Sinne von Art. 140
+Ziff. 1 StGB schuldig gemacht.
+VII. Fall [...]
+1. Schliesslich legt die Staatsanwaltschaft dem Beschuldigten zur
+Last, er habe am
+22. Februar 2007
+kurz nach 09.00 Uhr die Bijouterie [...] an der [...] in [...]
+überfallen und dabei den anwesenden Geschäftsinhaber W.______
+getötet.
+Dadurch habe er sich wegen qualifizierten Raubes im Deliktsbetrag von
+CHF 203'650.― gemäss Art. 140 Ziff. 1 Abs. 1 und
+4 StGB sowie wegen Mordes nach Art. 112 StGB strafbar gemacht.
+2. Die Verteidigung räumt zwar die Beteiligung des Beschuldigten am
+Überfall ein, sieht ihn aber trotz des in der Hauptverhandlung abgelegten
+― nach ihrer Ansicht vagen ― Mordgeständnisses als Mitglied einer
+Bande, wobei nicht einwandfrei nachgewiesen werden könne, dass B.______
+derjenige war, der
+W.______
+getötet habe.
+3. Die
+Einvernahme durch die Kantonspolizei Zürich fand am 3. April 2007 statt.
+Hier berichtete der Beschuldigte über seine Hintermänner. Es seien Leute, die
+gedroht hätten, ihn fertig zumachen, wenn er das geschuldete Geld nicht zurückzahle.
+Sie hätten ihm das Juweliergeschäft gezeigt. Für den Überfall würde man ihm
+die Schulden abschreiben und er dürfte einen Teil der Beute als Belohnung
+behalten. Von den Hintermännern habe er weder Telefonnummer noch Adresse. Es
+sei alles über zwei Mittelsmänner gelaufen. Er habe [...] (alias [...]) als
+Fahrer gebraucht, da ihm der Führerschein in Litauen entzogen worden sei.
+B.______ habe
+keine andere Wahl gehabt als die Bijouterie zu überfallen. Er habe den
+Männern ja das Geld geschuldet. Wieso er ihnen das Geld schuldete, wollte er
+nicht verraten.
+Er habe von
+den Mittelsmännern am Vorabend eine Tasche mit Handschellen, Klebeband und
+Waffe erhalten. Am Tatmorgen sei ihm eine Hilfsperson, bei der es sich nicht
+um [...] gehandelt habe, zugeteilt worden. Die Hilfsperson habe sich jedoch
+ebenfalls als [...] vorgestellt.
+In der Bijouterie
+sei der Überfall im Wesentlichen so abgelaufen, dass der Reissverschluss der
+Tasche geklemmt habe und B.______ deshalb die Schrotflinte nicht habe
+hervorholen können. Er habe
+W.______
+deshalb geschlagen, wiederum mit der Innenseite seiner Faust, diesmal aber
+mit der linken, denn rechts sei die Theke gewesen und es sei deswegen
+„unbequem“ gewesen mit rechts.
+W.______
+sei zu Boden gegangen. Sie hätten ihm dann die Handschellen angezogen.
+Insgesamt sei
+W.______
+von
+B.______ dreimal geschlagen worden, von [...] kein einziges Mal. B.______
+habe gesehen, dass
+W.______
+etwas älter war und habe sich deswegen bemüht, nicht so stark zuzuschlagen.
+B.______ bestreitet aber nicht, dass die Verletzungen, die er
+W.______
+zugefügt habe, mögliche
+Auslöser für das waren, was weiter mit ihm passiert sei. Die Tötung sei nicht
+beabsichtigt gewesen. B.______ glaubte,
+W.______
+habe einen Sack über dem Kopf gehabt, aber das habe
+wahrscheinlich der andere getan. Er habe ihm Wasser ins Gesicht gespritzt und
+ihn wieder zu Bewusstsein geholt. Vor dem Verlassen des Geschäfts habe
+B.______ noch den roten Alarmknopf an der Theke gedrückt.
+Er gestand
+zudem ein, im Februar 2006 ein Uhrengeschäft überfallen zu haben. Bei der
+Übergabe des Deliktsguts habe er sich verschwatzt und den Mittelsmännern
+verraten, dass er keine Handschuhe getragen habe. So hätten sie ihn zum
+Überfall auf
+W.______
+erpressen können. Grund für seinen Besuch damals in der Schweiz sei eine
+Internetbekanntschaft gewesen.
+4. Anlässlich
+der Einvernahme durch die Staatsanwaltschaft IV des Kantons Zürich vom
+28. April 2008 gab der Beschuldigte zu Protokoll, es stimme, dass er dem
+Opfer zunächst einen und im Hinterraum dann zwei weitere Schläge an den Kopf
+verpasst habe. Er habe ihn aber nicht stark geschlagen, denn es sei ein alter
+Mann gewesen. Er habe ihn mehr einschüchtern wollen. Der Beschuldigtes sei
+sich zwar bewusst gewesen, dass seine Schläge zu irgendwelchen Körperverletzungen
+führen könnten, nicht aber, dass sie tödlich sein könnten.
+5. In der
+ersten Einvernahme durch das Verhöramt des Kantons Glarus vom 7. August
+2009 bestritt der Beschuldigte entgegen dem Vorwurf des Verhörrichters,
+Goldbarren und die Maurice LaCroix-Uhr genommen zu haben. Er habe lediglich
+zwei Silberbarren und Schmuck genommen. Er gestand den Raub und die
+Sachbeschädigung an sich ein, bestritt aber die Tötung des Opfers. So wie es
+aussehe, habe dies sein Mittäter getan.
+B.______
+präzisierte, er sei von Hintermännern aus der Schweiz zu diesem Überfall
+genötigt worden. Am Bahnhof Enge habe er seinen Mittäter [...]getroffen, nach
+dessen Instruktionen der Raubüberfall abgelaufen sei. Im Geschäft habe der
+Beschuldigte den Verkäufer gebeten, ihm eine Uhr aus der Vitrine zu zeigen.
+Er habe ihm dann ins Gesicht geschlagen, worauf dieser zu Boden gefallen sei
+und der Beschuldigte ihm zusammen mit [...] Handschellen angelegt habe. Er
+habe den Verkäufer eigentlich mit einer mitgeführten Waffe erschrecken
+wollen, habe aber die Tasche, in der sie sich befunden habe, nicht öffnen
+können. Das Opfer hätten sie dann in die Küche gebracht und anschliessend den
+Schmuck in eine mitgeführte Tasche gefüllt. Später sei der Beschuldigte in
+die Küche gegangen und habe dort das Opfer mit einem Sack über dem Kopf
+vorgefunden. Die Wand sei mit Blut vollgespritzt gewesen. Er habe den Sack
+etwas angehoben und dem Opfer Wasser ins Gesicht gespritzt, so dass dieser
+wieder zu Bewusstsein gekommen sei. Zu diesem Zeitpunkt habe sich das Opfer
+noch bewegt.
+B.______
+bestätigte die früher gemachte Aussagen gegenüber Kantonspolizei und
+Staatsanwaltschaft Zürich.
+Als Grund für
+seine Beteiligung nannte der Beschuldigte dieses Mal den Druck seiner
+Hintermänner. Ausser den zwei Silberbarren und einigen Schmuckstücken, die
+von der Polizei in Rosenheim auch sichergestellt worden seien, habe [...] die
+Beute mitgenommen.
+Den Mord
+bestritt der Beschuldigte. Diesen habe er weder selber begangen noch sei er
+mit [...] abgemacht gewesen. Raub und Sachbeschädigung anerkenne er aber.
+Im Rahmen der
+zweiten Einvernahmen durch den Verhörrichter vom 27. Januar 2010
+ergänzte der Beschuldigte, sein Mittäter habe im Gegensatz zu ihm Handschuhe
+getragen. So erklärte er das Fehlen von Spuren eines Mittäters am Tatort. Der
+Mittäter müsse doch auf den Überwachungskameras zu erkennen sein.
+Er bestritt
+auch die Qualifikation des Raubes, weil er eine ungeladene Waffe und
+keinerlei Munition mit sich geführt habe, anerkannte aber, einen Raub begangen
+zu haben. Er gab auch die Sachbeschädigung zu, ergänzte aber, dass er nur die
+Schlösser aufgedrückt, nicht aber die Scheiben eingeschlagen habe. Zudem
+behauptete er, diese Tötung habe auch der Mittäter begangen. Und wenn man
+jemanden töten wolle, dann führe man nicht noch Handschellen mit; er habe ihn
+sinngemäss also nicht töten wollen.
+6. Alles in
+allem anerkennt der Beschuldigte den Sacherhalt und die rechtliche Würdigung
+somit in weiten Teilen. In der Hauptverhandlung gestand er sogar den Mord an
+W.______.
+Der
+Sachverhalt stellt sich nach der Schilderung des Beschuldigten wie folgt dar.
+B.______ betrat das Geschäft und schlug W.______ schliesslich ins Gesicht,
+fesselte ihn mit Handschellen und schleifte ihn in einen Nebenraum.
+Dieser
+Tatablauf ist praktisch identisch mit den bisherigen Abläufen, namentlich
+auch mit demjenigen in Glarus, wo B.______ nachweislich die einzige Person
+vor Ort war. Es gibt daher aufgrund des Tatablaufs keine Hinweise auf eine
+weitere beteiligte Person. Auch die Spurensicherung vor Ort lieferte keine entsprechenden
+Hinweise. Einzig die Aussagen des Beschuldigten lasten den Mord an W.______
+einem nebulösen Mittäter an, B.______ will praktischerweise nur den ersten
+Schlag ausgeführt haben, der aber nicht allzu schlimm gewesen sei, da das
+Opfer nachher noch bei Bewusstsein gewesen sei. Was genau sich in der
+Bijouterie nach dem ersten Schlag abgespielt hat, lässt sich nicht im Detail
+rekonstruieren, fest steht aber dann wieder, dass B.______ entgegen seiner Aussage
+keinen Alarmknopf gedrückt hat. Auch hier versucht er im Nachhinein wieder,
+den Sachverhalt zu seinen Gunsten geschönt darzustellen. Allerdings hat er
+mittlerweile offenbar gemerkt, dass es viel besser wäre, wenn er sein Opfer
+nicht nur einfach sich selbst überlassen hätte, sondern dessen Tod gar nicht
+erst auf sein Verschulden zurückgehen würde. Deshalb ist das Vorschieben
+eines Mittäters die logische Konsequenz seiner bisherigen Taten.
+7. Mit
+Verfügung vom 13. April 2010 ersuchte der Verhörrichter des Kantons
+Glarus die Kantonspolizei Zürich, zur geänderten Sachverhaltsdarstellung des
+Beschuldigten Stellung zu nehmen. Mit ihrem Bericht vom 28. April 2010
+kam die Kantonspolizei dieser Aufforderung wie folgt nach:
+Es gebe weder
+DNA-Hinweise auf einen zweiten Täter noch Videoaufnahmen.
+Ein
+akustischer Alarm sei zu keiner Zeit wahrgenommen worden und ein stiller
+Alarm zur Polizei sei nicht eingerichtet gewesen.
+Wie aus den
+Akten ersichtlich sei, habe der Beschuldigte eine abgesägte Schrotflinte
+mitgeführt, die aber nach dem Stand der Akten nicht als Tatwaffe eingesetzt
+worden sei.
+Ob er
+tatsächlich nur die Schlösser aufgedrückt habe, lasse sich weder bestätigen
+noch widerlegen.
+8. Die
+Kantonspolizei Zürich hält in ihrem Schlussbericht vom 13. März 2008
+fest, dass der Beschuldigte in seinem (zunächst widerrufenen) Geständnis
+viele Details nannte, die nur der Täter wissen konnte.
+Damals will
+der Beschuldigte nur bei diesem Einbruch Verstärkung durch einen [...] gehabt
+haben. Gesicherte Hinweise für einen zweiten Mann konnte die Kantonspolizei
+Zürich aber keine feststellen. Für den angeklagten Sachverhalt sind diese
+aber auch nicht weiter von Belang, denn für das Gericht steht fest, dass
+B.______ den Überfall auf V.______ mit Sicherheit alleine ausgeführt hat, und
+auch bei der Ausführung des Überfalls auf W.______ am Tatort war. Eine allfällige
+Beteiligung von Mittätern hat, wenn überhaupt, höchstens im Planungsstadium
+stattgefunden.
+Die
+Kantonspolizei Zürich kommt zum Schluss – sie ging damals davon aus, der
+Beschuldigte habe tatsächlich unter Mithilfe eines zweiten Mannes gehandelt
+–, der Beschuldigte habe den Plan gehegt, nach dem Betreten des Juweliergeschäfts
+das Opfer mit der Schrotflinte auf den Boden zu zwingen, wo [...] ihm
+Handschellen anlegen sollte. Da der Reissverschluss der Tasche geklemmt habe
+und der Beschuldigte die Schrotflinte deswegen nicht behändigen habe können,
+habe ihm der Beschuldigte unvermittelt mit der linken Faust an den Kopf geschlagen.
+Das Opfer sei zu Boden gegangen und die beiden Täter hätten ihm Handschellen
+angelegt und ihn in die Küche geschleppt. Der Beschuldigte habe in der Folge
+das Opfer noch zweimal geschlagen und zu einem unbestimmten Zeitpunkt habe
+[...] ihm einen Sack über den Kopf gestülpt.
+Beim
+Eintreffen der Polizei habe das Opfer noch geatmet.
+9. Bei den
+Akten befindet sich auch der Befund der Obduktion des IRM vom 6. März
+2008. Es kommt hinsichtlich der These, dass das Opfer mit blossen Fäusten
+erschlagen worden sei, zu folgendem Schluss:
+„Dieser
+Ablauf lässt sich aus forensisch-medizinischer Sicht ohne Einschränkungen
+bestätigen. Die Ausdehnung der Frakturen im Gesicht und die grossflächigen
+Weichteilunterblutungen und -quetschungen sprechen für erheblichen Impuls bei
+der Applikation von repetierten Fausthieben ins Gesicht. Untermauert wird die
+Vermutung, dass beim tödlichen Geschehen hochgradige stumpfe mechanische
+Gewalt eingesetzt worden war, durch Bruch des Unterarmknochens am rechten
+Handgelenk, aller Wahrscheinlichkeit nach verursacht durch grobe Manipulation
+an gefesselten Handgelenken durch Zug bis hin zum Hochheben einer ganzen
+Person an den mit Handfesseln fixierten Handgelenken.
+Nach
+Abschluss der Obduktion zeigte sich das IRM entgegen seiner ursprünglichen
+Vermutung, wonach die Verletzungen durch Einwirkung eines stumpfen
+mechanischen Gegenstandes resultiert seien, überzeugt, dass das Opfer mit
+blossen Fäusten erschlagen wurde. Eine Tötung mit sehr raschem Todeseintritt
+durch Faustschläge ins Gesicht, die zu Brüchen in der Schädelbasis und
+multipel im Gesichtsschädel führen würden, sei aus Sicht des IRM denkbar.
+10. Der
+Obduktionsbericht lässt demnach folgende Schlussfolgerungen zu:
+a) Das Opfer
+wurde derart unzimperlich behandelt, dass ihm der Unterarm gebrochen wurde.
+Damit ist endlich nachgewiesen, dass B.______ mit seinen Opfern keineswegs so
+umsichtig umging, wie er den Behörden weismachen wollte.
+b) Selbst die
+Mediziner des IRM gingen zunächst davon aus, die vorliegenden Verletzungen
+seien das Ergebnis der Einwirkung mit einem stumpfen Schlaggegenstand. Nicht
+einmal die Rechtsmediziner zogen auf den ersten Blick also das Wirken mit
+blossen Fäusten in Betracht.
+c) Das Opfer
+wurde wiederholt und mit grosser Kraft ins Gesicht geschlagen.
+d) Die
+Einwirkung des Täters war derart brutal, dass der Todeseintritt rasch
+erfolgte.
+Das Bild von
+stumpfer mechanischer Gewalt mit hohem Impuls gegen Schädel, beispielsweise
+mittels Faustschlägen, zeichne sich von W.______ über V.______ bis hin zu
+L.______.
+Auch aus
+Sicht des IRM ist es also wahrscheinlich, dass derselbe Täter für die
+Verletzungen W.______, V.______ und L.______ verantwortlich ist. Wie bereits
+erwähnt, handelte B.______ bei L.______ nachweislich alleine. Das identische
+Tatmuster spricht auch im Fall W.______ sehr dafür, dass B.______ der Täter
+war. Es ist extrem unwahrscheinlich, dass ein zweiter Mann ohne Spuren zu
+hinterlassen nach demselben Muster einen Menschen tötet wie B.______, denn in
+B.______ vereinen sich mehrere ungünstige Eigenschaften zu einer Mischung,
+die es nicht ohne weiteres ein zweites Mal gibt:
+a) B.______
+ist überdurchschnittlich kräftig und physisch allgemein von sehr guter
+Konstitution (vgl. Händedruck und Morgensport). Er erfüllt damit die körperlichen
+Voraussetzungen für die Ausübung der bei den Überfällen an den Tag gelegten
+überbordenden Gewalt. Auch hat er vermutlich eine fundierte Kampfsportausbildung
+und ist daher nicht nur physisch, sondern auch technisch in der Lage, mit
+blosser Faust menschliche Schädel zu zertrümmern. Entweder hat er also seine
+Kampfsportkenntnisse in krasser Weise zur Tötung von Menschen missbraucht,
+oder er hat diese fehlenden technischen Kenntnisse durch rohe Gewalt wettgemacht.
+Beides spricht jedenfalls nicht für ihn.
+b) B.______
+hat offensichtlich eine niedrige Hemmschwelle, was die Anwendung von Gewalt
+betrifft, auch weil er sie als legitimes Mittel zur Lösung von Konflikten
+betrachtet (vgl. unten Ziff. VIII./7.).
+c) B.______
+hat offenbar keinerlei Respekt vor menschlichem Leben. Dies zeigt auch sein
+Verhalten gegenüber
+Y.______
+. Diesem
+gegenüber zeigte er weder Respekt noch Reue. Selbst wenn der Beschuldigte
+V.______ nicht getötet hätte, hätten Ehre und Anstand es geboten,
+Y.______
+gegenüber weniger pietätlos
+aufzutreten.
+d) Im
+Gegensatz zu anderen Delinquenten, die nach der Tat in ständiger Furcht vor
+der Entdeckung leben, entwickelte B.______ ein Gefühl der Straffreiheit.
+11. Es zeigt
+sich somit, dass beide Todesopfer auf sehr ähnliche Weise und
+höchstwahrscheinlich von demselben Täter mit blosser Faust erschlagen wurden.
+Dazu muss man erst einmal in der Lage sein. Im Fall V.______ hat der Beschuldigte
+die Schläge gestanden und keinen zweiten Mann erwähnt. Dort muss er also dem
+Opfer die tödlichen Verletzungen selber mit blosser Faust beigebracht haben.
+Er wäre demnach also auch dazu in der Lage, die Verletzungen W.______ verursacht
+zu haben.
+12. Die
+Staatsanwaltschaft legt B.______ im Fall W.______ einen qualifizierten Raub
+nach Art. 140 Ziff. 4 StGB zur Last sowie einen Mord nach
+Art. 112 StGB.
+Den einfachen
+Raub nach Art. 140 Ziff. 1 StGB anerkannte B.______. Betreffend die
+rechtlichen Voraussetzungen der Qualifikation nach Art. 140 Ziff. 4
+StGB vgl. Ziff. V./15. oben. Das Tatvorgehen war in den wesentlichen
+Punkten identisch. B.______ schlug W.______ lebensgefährlich zusammen, um
+ungestört seinen Diebstahl begehen zu können. Die Lebensgefahr ist durch das
+spätere Versterben offensichtlich gegeben. Dieser Kausalzusammenhang wird
+auch im Obduktionsgutachten bejaht.
+Zu den
+rechtlichen Ausführungen zum Raubmord vgl. oben Ziff. V./15. Auch hier
+stimmen die wesentlichen Punkt des Sachverhalts überein und der Tatbestand
+des Mordes ist erfüllt.
+Art. 112 StGB konsumiert die
+Qualifikation von Art. 140 Ziff. 4 StGB, tritt aber zum
+einfachen Raub von Art. 140 Ziff. 1 StGB wegen der Verschiedenheit
+der betroffenen Rechtsgüter in echte Konkurrenz
+(
+Niggli Marcel/Wiprächtiger
+Hans
+, a.a.O., N 30 zu Art. 112 StGB).
+Schuldausschluss-
+und Rechtfertigungsgründe sind nicht ersichtlich.
+B.______ ist
+des einfachen Raubes im Sinne von Art. 140 Ziff. 1 StGB sowie des
+Mordes im Sinne von Art. 112 StGB schuldig zu sprechen.
+13. Der
+Erörterung bedarf schliesslich die Frage, ob B.______ als Einzeltäter
+oder Mitglied einer Bande gehandelt hat und ob er dazu erpresst wurde, wie er
+später sagen wird. Selber stritt B.______ zunächst durchwegs ab, mit jemandem
+zusammen gehandelt zu haben. Erst im Endstadium der Untersuchung wich
+B.______ von seinen bisherigen Aussagen ab und behauptete, die beiden Morde
+seien von einem Mittäter verübt worden. An der Hauptverhandlung gab B.______
+wieder an, bei allen Taten alleine gehandelt zu haben, jedoch wisse er nicht,
+wer V.______ und W.______ getötet habe, und habe er sein Geständnis nie
+widerrufen.
+Die
+ursprüngliche Sachverhaltsdarstellung des Beschuldigten erfährt Bestätigung
+durch die Aussagen K.______ und – soweit er sich erinnert – G.______. Beiden
+fiel kein zweiter Mann auf, was natürlich nicht heisst, dass kein solcher beteiligt
+gewesen sein kann. Die zuständigen Sachbearbeiter der Kantonspolizei Zürich
+erklärten auf Anfrage des Verhörrichters, dass sich in keinem der Fälle Anzeichen
+für einen Mittäter finden liessen. Als einziges Indiz für das Vorhandensein
+von Mittätern bleiben somit die folgenden Zeugenaussagen.
+14. Im Falle
+W.______ fiel ca. am 14. Februar 2007 ein verdächtiger BMW 750i mit
+Kennzeichen [...] auf, welcher am 16. Februar 2007 (sechs Tage vor der
+Tat) durch die Polizei kontrolliert wurde. Insassen des Fahrzeuges waren der
+Beschuldigte B.______ sowie [...], geb. 29. Juli 1973, der wie B.______
+auch litauischer Staatsangehöriger ist und von diesem stets [...]genannt
+wurde. Bei dieser Kontrolle wurden keine Auffälligkeiten festgestellt.
+Am
+21. Februar fielen dem Personal der Bijouterie [...] in [...]um ca.
+09.15 Uhr sowie 18.15 Uhr vor Ort zwei verdächtige Männer auf, die
+mit einem BMW, [...], unterwegs waren. Dabei handelte es sich um B.______ und
+[...].
+Den
+verwendeten BMW kaufte [...] einem Händler namens [...] in Wallisellen für
+CHF 500.― ab. [...] erschien in Begleitung einer zweiten Person,
+vermutlich B.______.
+15. B.______
+sagte aus, er habe sich wegen der erfolgten Polizeikontrolle geweigert, den
+Überfall auszuführen und deshalb am Tatmorgen [...], der nicht identisch mit
+[...] sei, als Unterstützung zur Seite gestellt bekommen. Die Kantonspolizei
+Zürich war sich nicht schlüssig, ob [...] nicht doch mit diesem [...] identisch
+ist, denn B.______ machte den Eindruck, [...] schützen zu wollen. Ausserdem
+liegt es nahe, den Überfall mit derjenigen Person zu verüben, die auch beim
+Auskundschaften mit dabei war.
+16. Als Motiv
+für den letzten Raub gibt B.______ an, die Hintermänner hätten ihm gedroht,
+ihn fertig zu machen, wenn er das geschuldete Geld nicht zurückzahle. Später
+sagte er aus, dass er sich bei einer Übergabe von Deliktsgut an Mittelsmänner
+verschwatzt habe und ihnen gesagt habe, dass er bei der Tatausführung keine
+Handschuhe getragen habe. So sei er erpressbar geworden.
+17. Im Fall
+V.______ machte B.______ keine grossen Angaben zu seinem angeblichen
+Mittäter. Im Wesentlichen beschränkte er sich darauf, den Mord diesem
+anzulasten.
+18.
+Interessanterweise deuten Zeugenaussagen, denen in casu mehr Authentizität
+zuzuschreiben ist als den wechselnden Aussagen des Beschuldigten, im Fall
+L.______ am ehesten auf die Beteiligung von Mittätern hin. Genau in diesem
+Fall behauptet B.______ aber konsequent, allein gehandelt zu haben.
+19. B.______
+gab lediglich Auskunft über den Zeitraum der unmittelbaren Tatbegehung. Wo er
+sich vor bzw. nach den Taten aufgehalten hat, verschweigt er. Auch auf
+Vorhalt der ermittelten Standorte des von ihm verwendeten Mobiltelefons
+wollte er keine Angaben machen. [...], der beim Ausspionieren von W.______
+Bijouterie nachweislich mit im Auto sass, habe zwar wissen müssen, dass
+B.______ für einen Raubüberfall spioniere, habe mit diesem aber nichts zu
+tun.
+B.______ gab
+als Grund für seine Reise in die Schweiz im Jahr 2005 an, sich unter anderem
+nach Autopreisen zu erkundigen. Daneben kannte er offensichtlich auch die
+hiesigen Uhrenpreise nicht, ansonsten wäre er nicht so über deren Preisniveau
+überrascht
+gewesen. Der Betrag,
+den er
+für die Beute von den Mittelsmännern im Fall V.______ erhalten habe, sei aber
+„normal“ gewesen. Über Auto- und Uhrenpreise wusste er demnach nicht
+Bescheid, wohl aber über die Hehlerpreise für Schmuck?
+Die Gründe
+für B.______ Einreise und die Hintergründe zu seinem Aufenthalt hier bleiben
+obskur, fest steht aber nach Überzeugung des Gerichts, dass für den Tod von
+V.______ und W.______ einzig und allein der Beschuldigte verantwortlich ist,
+und er zumindest diese Überfälle alleine durchgeführt hat.
+VIII. Sanktion
+1. Hat der Täter durch eine oder mehrere
+Handlungen die Voraussetzungen für mehrere gleichartige Strafen erfüllt, so
+verurteilt ihn das Gericht zu der Strafe der schwersten Straftat und erhöht
+sie angemessen. Es darf jedoch das Höchstmass der angedrohten Strafe nicht um
+mehr als die Hälfte erhöhen. Dabei ist es an das gesetzliche Höchstmass der
+Strafart gebunden (Art. 49 Abs. 1 StGB).
+2. Bei B.______ fallen strafschärfend die
+Erfüllung mehrerer Straftatbestände sowie teilweise deren mehrfache Begehung
+ins Gewicht. Es ist daher in Anwendung von Art. 49 Abs. 1 StGB der
+abstrakte Strafrahmen, ausgehend vom schwersten Tatbestand um die Hälfte zu
+erhöhen, allerdings unter Beachtung des für die betreffende Strafart
+geltenden Höchstmasses.
+Strafmilderungsgründe sind keine ersichtlich.
+3. Das Gesetz sieht
+für
+Mord
+im Sinne von
+Art. 112
+StGB
+Freiheitsstrafe von zehn Jahren bis lebenslänglich, für Diebstahl im Sinne
+von Art. 139 Ziff. 1 StGB Freiheitsstrafe bis zu fünf Jahre oder
+Geldstrafe, für qualifizierten Raub im Sinne von Art. 140 Ziff. 4
+StGB Freiheitsstrafe von nicht unter fünf Jahren und von bis zu zehn Jahren
+und für einfachen Raub im Sinne von Art. 140 Ziff. 1 StGB Freiheitsstrafe
+bis zu zehn Jahren oder Geldstrafe nicht unter 180 Tagessätzen vor.
+Es ergibt sich
+damit für die Freiheitsstrafe ein abstrakter Strafrahmen von mindestens zehn
+Jahren bis lebenslänglich und für die Geldstrafe ein solcher von mindestens
+180 Tagessätzen bis zu 360 Tagessätzen
+(vgl. auch Art. 34 Abs. 1 StGB und Art. 40 StGB),
+da
+bei der Geldstrafe mit den angedrohten 360 Tagessätzen
+bereits das gesetzliche Maximum i.S.v. Art. 49 Abs. 1 i.V.m.
+Art. 34 Abs. 1 StGB erreicht ist. Dasselbe gilt für die
+Freiheitsstrafe, bei der mit der Obergrenze der Lebenslänglichkeit
+offenkundig ebenfalls das Maximum erreicht ist (Art. 49 Abs. 1
+i.V.m. Art. 40 StGB). Am unteren Ende des Spektrum bleibt es bei den gesetzlich
+festgelegten Mindeststrafen, da keine Strafmilderungsgründe vorliegen.
+4. Innerhalb des Strafrahmens ist die Strafe
+nach dem Verschulden des Täters zu bemessen, wobei insbesondere das Vorleben,
+die persönlichen Verhältnisse, die Beweggründe und die Wirkung der Strafe auf
+das Leben des Beschuldigten zu berücksichtigen sind (Art. 47 StGB).
+5. In
+persönlicher Hinsicht ist vom Beschuldigten bekannt, dass er am
+[...]
+in
+[...]
+geboren wurde, Während der ersten
+sechs Lebensjahre wuchs er ohne seinen Vater nur bei seiner Mutter in der
+Region Tatarstan auf; nach dem Umzug zurück in seine Geburtsstadt
+[...]
+lebten beide Eltern wieder
+zusammen. Im Alter von 14 Jahren zog er – nach 8 Jahren Schulbesuch in
+[...]
+– alleine zurück zu seiner
+Grossmutter in
+[...]
+. Er
+schloss dort eine Lehre zum LKW-Chauffeur ab. Im Alter von 18 Jahren hat er
+geheiratet, sich aber wegen der krankhaften Eifersucht der Frau wieder von
+dieser getrennt. Danach hat er in
+[...]
+als ca. ein Jahr als Barmann und dann ca. zwei Jahre Security-Angestellter
+bei einer Privatperson gearbeitet und seine Mutter unterstützt. Momentan ist
+er arbeitslos.
+Sein
+vorbestrafter Vater verliess die Familie 1997, war aber weiterhin als Eigentümer
+der Familienwohnung eingetragen, wo B.______ mit seiner Mutter alleine
+wohnte; er hatte keine Geschwister. Der Vater stahl heimlich das Mobiliar, verpfändete
+die Wohnung, B.______ konnte sie aber mit Mühe zurückkaufen. Mittlerweile ist
+der Vater gestorben und B.______ hat ihm verziehen. B.______ wurde ab und an
+von seinem launischen Vater mit dem Gürtel geschlagen, ohne dass er hierzu
+den Grund erfuhr. Allgemein habe sein Vater nicht viel mit ihm geredet,
+sondern ihn nur verprügelt, wenn es „etwas Schlechtes gegeben habe“, allerdings
+stets nur dann, wenn die Mutter nicht zu Hause war. Das Verhältnis zum Vater
+sei sehr distanziert gewesen.
+Eine wichtige
+Rolle im Leben des Beschuldigten spielt offenbar seine Mutter. Ihre Erwähnung
+in der Einvernahme rührte ihn zu Tränen. Sie wurde am Herzen operiert und ist
+invalid. Sie sei eine „heilige Person“ und die Beziehung zu ihr bezeichnete
+er als herzlich. Sie ist denn auch seine wichtigste Bezugsperson.
+Früher wollte
+B.______ Trainer für asiatische Kampfsportarten werden und trainierte viel.
+Er verletzte sich aber am Knie und wurde „überflüssig“. 2005 reiste er mit
+dem Bus in die Schweiz, um eine Frau zu treffen, die er via Internet kennengelernt
+hatte, und um sich nach Autopreisen zu erkundigen. B.______ habe kein
+Vermögen, aber Schulden aus dem vorliegenden Strafverfahren.
+Der
+Beschuldigte sieht sich selber als friedlicher, ruhiger Mensch, der manchmal
+emotionale Ausbrüche habe. Dabei verliere er manchmal und zum Teil nur
+aufgrund von Kleinigkeiten die Beherrschung über sich. Er sei sehr zielstrebig
+und unternehme alles, um ein Ziel, das er vor Augen habe, zu erreichen. Er
+sei kein aggressiver Mensch. Er betreibe viel Sport, wobei es sich bei den beschriebenen
+Sportarten ausschliesslich um Einzelsportarten handelt. Kampfsport habe er
+nie ausgeübt.
+B.______ ging
+in seiner Heimat ein bis zweimal in der Woche auf den Schiesstand und trug zu
+seiner Verteidigung ein Messer auf sich. In seiner Kindheit hatte er öfter
+Schlägereien, wobei es öfters auch gebrochene Nasen oder blaue Augen gab.
+Schlägereien seien keine besondere Sache gewesen und es habe für solche auch
+keinen besonderen Grund benötigt. Er habe gelogen, als er erklärte,
+Kampfsport betrieben zu haben. Er habe dies nur erfunden, weil der Befragende
+[...] von der Kantonspolizei Zürich diverse Ninja-Bilder an der Wand gehabt
+habe und B.______ so auf dessen Goodwill abzielte um seine Mutter anrufen zu
+können. Auch hier heiligt der Zweck offenbar die Mittel, wie bereits bei der
+Gewalt im Rahmen der Überfälle.
+2005 sei er
+dann wegen einer Internetbekanntschaft in die Schweiz gekommen. Während
+seiner Aufenthalte in der Schweiz habe er immer bei Bekannten gewohnt.
+Gesundheitlich
+fühle er sich trotz gegenteiligem Untersuchungsergebnis durch den
+Anstaltsarzt nicht vollkommen gesund. Sein Herzrhythmus gehe mit einigen
+Unterbrechungen, zeitweise habe er kein Gefühl im kleinen Finger der linken
+Hand und Schlafstörungen habe er auch.
+6. Der
+Beschuldigte ist vorbestraft wegen eines SVG-Delikts in Litauen, wobei er
+meint, die damit im Zusammenhang stehende Bestechung sei eine Retourkutsche
+des bestochenen Polizisten dafür, dass der Beschuldigte ihn Jahr zuvor zurechtgewiesen
+habe, als er betrunken auf einer Party eine Frau belästigt habe. Ausserdem
+sei er einige Male tageweise wegen „Hooligan-Taten“ in Haft gewesen.
+7. Mit Datum
+vom 22. August 2011 erstellte T.______, Facharzt FMH für Psychiatrie und
+Psychotherapie, zertifizierter forensischer Psychiater SGFP, Winterthur, ein
+psychiatrisches Gutachten über den Beschuldigten. Das Gutachten eruiert als
+spezifische Problembereiche B.______ im strukturellen Rückfallrisiko eine
+chronifizierte Gewaltbereitschaft, eine Tötungsbereitschaft sowie einen Dominanzfokus.
+Die Angaben B.______ liessen darauf schliessen, dass – ohne physische Ursache
+– für ihn Gewaltanwendung bereits in seiner Kindheit ein vermeintlich
+adäquates und zielgerichtetes Problem- und Konfliktlösungsverhalten
+darstellte. Hierbei liege es nahe, deren Basis in der ihm väterlicherseits widerfahrenen
+Gewaltanwendung zu sehen, bei der insbesondere eine für ihn nicht vorhersehbare
+und nachvollziehbare Komponente zum Tragen kam. Da B.______ väterliche
+Gewaltanwendung als Machtmittel bei gleichzeitiger eigener Macht- und
+Hilflosigkeit habe erleben müssen, so habe eigene Gewaltanwendung für ihn in
+einer Art Zirkelschluss sukzessive die Rolle von Stärke und Durchsetzungsfähigkeit
+eingenommen, womit sich auch erklären lasse, weshalb für ihn
+Kraft-/Kampfsport eine grosse Bedeutung gehabt habe und auch gegenwärtig
+sportliche Betätigung noch einen hohen Stellenwert einnehme, könne er über
+seine körperliche Konstitution doch gerade das Gefühl potentieller Durchsetzungsfähigkeit
+beziehen, sofern dies subjektiv notwendig sein sollte.
+Seitens des
+Vaters sei ihm Gewaltanwendung quasi als probate Problem- und
+Konfliktbewältigungsstragie mit auf den Weg gegeben worden. Gewaltanwendung
+stelle für B.______ eine Form natürlicher/normaler Verhaltensweise dar, um
+sich gegenüber Drittpersonen zu behaupten. Ein wesentliches Merkmal sei zudem
+das Bemühen um Situationskontrolle, wie die Ausführung der Taten und das
+Verhalten während der Befragungen gezeigt habe. Konkret liessen die Taten
+selber an eine dissoziale und die Angaben vom 3. April 2007 („manchmal
+verliere ich aber die Beherrschung, es wurde alles schlimmer, als die
+Probleme mit der Mutter begonnen haben, es können Kleinigkeiten sein, es ist
+nicht so beständig“) an eine emotionale instabile Persönlichkeitsstörung vom
+impulsiven Typ denken. Man dürfe aber aufgrund der vorliegend zu
+beurteilenden Taten nicht sogleich auf ein starres und rigides Verhaltensmuster
+unabhängig von situativen Gegebenheiten schliessen. Es gelte gesamthaft
+festzustellen, dass bei B.______ auf der Basis der vorliegenden Informationen
+und anhand des aktuellen Untersuchungsbefundes die Diagnose einer
+spezifischen Persönlichkeitsstörung nicht gestellt werden könne. Dennoch
+könne man über gewisse auffällige Persönlichkeitszüge nicht hinwegsehen. Es
+sind dies ein starkes Kontrollbemühen und eine verinnerlichte Gewaltanwendungsbereitschaft
+im Sinne einer Verinnerlichung derselben als Mittel zur Durchsetzung seiner
+Person.
+Das Gutachten
+stellt eine qualitative Steigerung der Taten B.______ fest. Im Fall [...]
+stiess er das Opfer nur, währenddem er L.______ und V.______ erst nach einem
+Wortwechsel geschlagen hat. Bei G.______ schlug er sofort zu, um sich gar
+nicht erst mit einem allfälligen Widerstand des Geschädigten konfrontiert zu
+sehen und dann „notgedrungen“ die Situationskontrolle wieder herstellen zu müssen,
+sondern diese quasi vorbeugend und von Beginn an in den Händen zu behalten.
+Die Gewaltanwendung habe für B.______ einen integralen Bestandteil (sei es
+als mögliche Handlungsoption bei einem potentiellen Widerstand, sei es als vorbeugend
+signalisierte Situationskontrolle) dargestellt, zu deren Anwendung auch keine
+inneren Widerstände überwunden werden musste. Das einmal erreichte
+Gewaltniveau hielt B.______ und er habe keine Bedenken ob dieser Gewaltanwendung
+erkennen lassen. Man müsse sie insofern als „overkill“ betrachten, als die
+Gewaltanwendung nicht mehr als zur Zielerreichung erforderlich eingestuft
+werden könne, sondern vielmehr unter dem Blickwinkel einzuordnen sei, die
+Ziel/-Tatverwirklichung auf eine für ihn subjektiv möglichst leichte Art zu
+erreichen. Zudem sei die Opferauswahl zufällig erfolgt, B.______ wählte die
+Tatorte lediglich nach der Durchführbarkeit der Taten hin aus. Von daher
+müssten ihm legalprognostisch insgesamt sehr belastende Faktoren konstatiert
+werden. Günstig sei hingegen, dass er bisher strafrechtlich nicht mit
+Gewaltdelikten in Erscheinung getreten ist, was aber wieder relativiert
+werde, weil er innerhalb von zwei Jahren fünf Taten verübt habe und dabei
+sein Vorgehen als adäquat erachtet habe und die Schuld den Opfern gegeben
+habe, schliesslich hätten diese nicht still gehalten. Rasch habe er auch die
+Ansicht entwickelt, wenn er seine Entschlossenheit durch Gewaltanwendung
+untermauere, dann seien die Taten relativ einfach auszuführen. Durch die
+Verantwortungsabschiebung auf die Opfer gehe eine deutliche Bagatellisierung
+seines Tatverhaltens einher, indem er die Gewalt als praktisch kontrolliert
+einstufe und hierraus auch die Überzeugung hergeleitet habe, V.______ und
+W.______ könnten nicht an den Tatfolgen gestorben sein. B.______ konnte sich
+auch während der Untersuchung nicht von seinen Gewalttaten distanzieren und
+diese reflektieren. Bezüglich Konfliktverhalten kommt der Gutachter zum
+Schluss, dass B.______ aus der ersten subjektiven Bewertung einer Situation
+und der hierdurch ausgelösten Emotion zu Handeln geneigt ist.
+Wenn ihn
+jemand ohrfeigen würde, würde er nicht auch die andere Wange hinhalten,
+sondern zurückschlagen. Von den Opfern habe er aber genau dies erwartet und
+macht es ihnen sogar zum Vorwurf, dass sie sich so verhalten haben. Die
+anfänglich noch teilweise vorhandene Opferempathie sei mittlerweile seiner
+Sorge im Hinblick auf das weitere Strafverfahren gewichen.
+Im
+Endergebnis stufe das Gutachten die persönlichkeitsstrukturell bedingte
+Rückfallgefahr B.______ für ein der Anlasstag vergleichbares Delikt, das
+heisst einer neuerlichen Gewaltstraftat, als hoch ein. B.______ sei zum
+Tatzeitpunkt voll schuldfähig gewesen. Eine ambulante therapeutische
+Massnahme sei sinnvoll, angezeigt und durchführbar.
+8. Der
+Beschuldigte erläuterte dem Gutachter gegenüber, beruflich lerne er sehr
+schnell. Dies gilt offensichtlich auch für das Verhalten in einem Strafverfahren.
+Immer wieder änderte der Beschuldigte seine Aussagen je nach dem Stand des
+Verfahrens so ab, dass sie ihm möglichst dienlich waren. Hierin manifestiert
+sich wohl auch die durch das Gutachten festgestellte Situationskontrolle:
+B.______ möchte das Verfahren aktiv zu seinen Gunsten beeinflussen, wie folgende
+Beispiele zeigen:
+Offensichtlich
+ist hier zunächst das Geständnis und dessen Widerruf zu erwähnen. Erst
+gestand er, weil er bezeichnenderweise dachte, dass das (für ihn) besser sei.
+Dann bestritt er plötzlich de facto die höchste Intensitätsstufe eines jeden
+Falles, also die beiden Morde in den Fällen V.______ und W.______, die
+schwere Körperverletzung im Fall [...], die einfache Körperverletzung im Fall
+[...] und die den Diebstahl im Fall [...]. Wie es scheint, ist er pauschal
+auf eine Minderung der Intensität aus. Dies passt zur gutachterlich
+festgestellten Bagatellisierung seiner Taten. An der Hauptverhandlung machte
+er zwar keine näheren Angaben zu den ihm vorgeworfenen Taten, gab aber
+sämtliche Vorwürfe zu. Vermutlich hat er in der Zwischenzeit begriffen, dass
+dies unter den gegebenen Umständen das Beste ist. Dennoch bat er die
+Angehörigen mit keinem Wort um Entschuldigung, was eigentlich erstaunlich
+ist, hätte ihm dies doch zum Vorteil gereicht und wäre an und für sich
+bereits aus prozesstaktischen Gründen nahe gelegen.
+Die obigen
+Überlegungen gelten auch für das Thema Kampfsport. Zunächst wollte B.______
+keinen Kampfsport ausgeübt haben. Es könnte ja schlecht gewertet werden, wenn
+er als Kampfsportler brutal Leute zusammenschlägt. Als er dann aber gemerkt
+hat, dass der einvernehmende Polizeibeamte ein Ninja-Faible haben könnte,
+outete er sich als Kampfsportler in der Hoffnung, sich so den Goodwill des
+Polizisten zu sichern und einen Anruf an seine Mutter herausschinden zu
+können. Gegenüber dem Gutachter gab er dann aber an, seine Kampfsportvergangenheit
+nur erfunden zu haben, um sich den Goodwill zu sichern. Denn nun war sie ihm
+wieder hinderlich im Hinblick auf die drohende Bestrafung. Letzten Endes
+spielt es aber keine Rolle, ob B.______ tatsächlich Kampfsportler ist oder
+nicht. Wer auch nur ansatzweise Respekt vor menschlichem Leben hat, schlägt
+keine auf dem Boden liegenden, benommenen und wehrlosen, betagten Leute.
+Erst sei B.______ einfach ein bisschen in der
+Schweiz herumgefahren und zufällig auf die Geschäfte gestossen. Dann habe er
+sie doch von früher gekannt oder sie seien ihm von anderen Leuten aus dem
+kriminellen Milieu gezeigt worden.
+Plötzlich
+habe er sich zum letzen Überfall nicht mehr freiwillig entschlossen, sondern
+sei dazu erpresst worden und habe quasi keine andere Wahl gehabt.
+Erst habe er
+allein gehandelt, dann habe er im Fall [...] einen Mittäter gehabt (wo es
+einen Toten gab), dann plötzlich auch im Fall V.______ (wo es ebenfalls einen
+Toten gab).
+9. Das
+Verschulden des Beschuldigten wiegt sehr schwer. Er überfiel fünf Bijouterien,
+wobei er den Grad der angewendeten Gewalt von Tat zu Tat steigerte. Beliess
+er es bei K.______ zunächst noch beim blossen Entreissdiebstahl von drei
+Uhren, so prügelte er bei seinem nächsten Raubzug L.______ ohne Zwang bereits
+krankenhausreif und stahl Schmuck und Uhren im Wert von ca.
+CHF 74'746.85. Sein nächstes Opfer, V.______, verprügelte er derart
+brutal, dass dieser schliesslich seinen Verletzungen erlag. Gleich tragisch
+endete der Überfall für W.______. G.______ hatte wohl Glück im Unglück, da er
+sich nach den ersten paar Schlägen ruhig verhielt und keinen weiteren
+Widerstand leistete. Augenfällig ist das äusserst brutale Vorgehen, welches
+er abgesehen von K.______ durchwegs praktizierte. Auch bei den späteren
+Delikten verliess er sich bei der Durchführung des Raubes allein auf seine
+körperliche Überlegenheit und rohe Gewalt. Wie er selber sagte, lerne er
+beruflich schnell. Dies kann indes nicht für seine kriminelle Laufbahn
+gelten, dort realisierte er offensichtlich nicht, dass Klebeband und Handschellen
+allein nicht ausreichten, um seine Opfer ausser Gefecht zu setzen. Er blieb
+durchwegs bei roher Gewalt als Behelfslösung. Wie er in seinem Schlusswort
+vor Schranken erklärte, ging er davon aus, dass die Opfer nach dem ersten
+Schlag ruhig sein würden. Nun, sie waren es nicht. Irgendwann hätte B.______,
+der seine Taten zumindest im Voraus geplant hatte ― immerhin führte er
+jedes mal Fesselungsmittel mit sich ― diesen Umstand in Betracht ziehen
+müssen. Schliesslich würde er genau dasselbe wieder tun, denn gegenüber [...]
+erklärte er, wenn ihn jemand ohrfeigen würde, würde er nicht auch die andere Wange
+hinhalten, sondern zurückschlagen. Von den Opfern aber erwartete er offenbar
+genau das Gegenteil, ja machte ihnen dies gar zum Vorwurf!
+Er gab zwar
+stets vor, sich gleichsam um seine Opfer gesorgt zu haben, hat sie aber
+dennoch – sofern sie diesen „verhältnismässigen Gewalteinsatz“ überhaupt
+überlebt haben – mit Ausnahme von K.______ mehr als nötig malträtiert. Grund
+hierzu ist gemäss Gutachten die Einstellung des Beschuldigten zur legitimen
+Gewaltanwendung, wenn sie denn nur der subjektiv möglichst leichten Verwirklichung
+der Ziele des Beschuldigten dient. Einziger Grund war seine Habgier, für
+welche er kaltblütig fremdes Leben in krasser Weise missachtet hat. Dennoch
+ist ihm dies offenbar egal, lediglich kurz zeigte er so etwas wie Reue, und
+zu keinem Zeitpunkt entschuldigte er sich bei den Angehörigen, obwohl dies zu
+seinen Gunsten gewertet worden wäre. Vor Schranken jedenfalls machte er nicht
+den Eindruck, als empfinde er Mitgefühl für die Hinterbliebenen der Opfer.
+Vielmehr gab er seinen Opfern Schuld an ihrem Tod bzw. den Verletzungen, die
+sie erlitten haben: Die Gesundheit nach einem Raub hänge vom Verhalten
+während des Raubes ab. Mittlerweile macht er sich aber mehr Gedanken um seine
+Zukunft im Strafvollzug. Immerhin wohne er jetzt in der Schweiz, was er schon
+immer gerne getan hätte.
+10. Strafmindernd ist bei B.______ die lange
+Verfahrensdauer zu berücksichtigen, auch wenn die Verfahrensdauer nicht
+derart überzogen war, wie die Verteidigung es in der Hauptverhandlung
+schilderte. Anbetrachts der Schwere der Verbrechen und der Ermittlungen in
+Richtung des vermeintlichen Mittäters [...] ist sie alles in allem nämlich
+durchaus vertretbar. Ohnehin wird eine daraus resultierende Strafminderung
+durch die mehrfache Tatbegehung von schwerwiegenden Delikten mehr als
+kompensiert, auch wenn man in geringem Masse das Teilgeständnis strafmindernd
+berücksichtigt. Namentlich zeigte er bis zum Schluss weder Einsicht noch
+Reue.
+11. In Würdigung sämtlicher
+Strafzumessungsgründe erscheint eine lebenslängliche Freiheitsstrafe als dem
+Verschulden, den persönlichen Verhältnissen und der Strafempfindlichkeit des
+Beschuldigten B.______ angemessen. Es wird vorgemerkt, dass sich B.______
+seit 1. März 2007 in Haft und in vorzeitigem Strafvollzug befindet. (vgl.
+Art. 51 StGB).
+12. Das Gericht schiebt den Vollzug einer
+Geldstrafe, von gemeinnütziger Arbeit oder einer Freiheitsstrafe von
+mindestens sechs Monaten und höchstens zwei Jahren in der Regel auf, wenn
+eine unbedingte Strafe nicht notwendig erscheint, um den Täter von der
+Begehung weiterer Verbrechen abzuhalten (Art. 42 Abs. 1 StGB).
+Bei einer
+lebenslänglichen Freiheitsstrafe ist eine bedingte Freiheitsstrafe bereits
+aus objektiven Gründen ausgeschlossen.
+IX. Massnahme
+1. Eine Massnahme ist anzuordnen, wenn:
+a.  eine Strafe allein nicht geeignet ist, der Gefahr weiterer
+Straftaten des Täters zu begegnen;
+b.  ein Behandlungsbedürfnis des Täters besteht oder die öffentliche
+Sicherheit dies erfordert; und
+c.  die Voraussetzungen der Artikel 59–61, 63 oder 64 erfüllt sind (Art. 56
+Abs. 1 StGB).
+Die Anordnung
+einer Massnahme setzt voraus, dass der mit ihr verbundene Eingriff in die
+Persönlichkeitsrechte des Täters im Hinblick auf die Wahrscheinlichkeit und
+Schwere weiterer Straftaten nicht unverhältnismässig ist (Art. 56
+Abs. 2 StGB).
+Gemäss
+Gutachten ist die Rückfallgefahr des Beschuldigten hinsichtlich ähnlich
+gelagerter Gewaltdelikte hoch. Eine Verwahrung im Anschluss an die Freiheitsstrafe
+ist somit sicherlich geeignet, ihn an der Begehung ähnlicher Delikte zu
+hindern. B.______ erklärte anlässlich der Hauptverhandlung, er müsse nicht geheilt
+werden, er brauche keine Therapie. Die Verteidigung führte aus, der Beschuldigte
+sei eher ein introvertierter Typ, darum sei seine eigentlich vorhandene Reue
+nicht erkennbar. Tatsache bleibt, dass B.______ in der Einvernahme vor
+Schranken lediglich meinte, es sei ihm zwar bewusst, welches Leid er über die
+Angehörigen gebracht habe, aber er könne nicht mehr dazu sagen; im Schlusswort
+schliesslich beschränkte er sich darauf, die Morde abzustreiten und führte
+rechthaberisch aus, wenn einem ein Verbrecher überfalle, dann tue er das so
+oder so, wenn man einen Überfall gesund überstehen wolle, wehre man sich am
+besten gar nicht. Mit keinem Wort entschuldigte er sich aber bei den
+Angehörigen der Opfer. Selbst eine introvertierte Persönlichkeit hätte in
+dieser Situation irgendeine Form der Entschuldigung ausgesprochen, und wenn
+dies auch nur aus prozesstaktischen Gründen geschehen wäre. Aber nicht einmal
+dies tat der Beschuldigte. Von Reue kann demnach nicht die Rede sein. In
+diesem Lichte kann die Erforderlichkeit der Verwahrung ebenfalls bejaht
+werden, hiess doch der Beschuldigte durch seine Ausführungen sein Vorgehen
+grundsätzlich nach wie vor gut und schob den Opfern die Schuld in die Schuhe.
+Dies bestätigt auch der Gutachter. Einziges Mittel, ihn von der Begehung
+weiterer Taten abzuhalten, erscheint somit das Wegsperren. Eine Strafe allein
+ist nicht geeignet, ihn von der Begehung weiterer Straftaten abzuhalten, da
+sich seine Einstellung gegenüber Gewalt im Strafvollzug nicht ändern wird.
+Angesichts der Schwere der verübten Delikte erscheint eine Verwahrung auch
+zumutbar.
+Die
+Verteidigung machte zu Gunsten des Beschuldigten geltend, nach Verbüssung der
+Strafe werde er ausgeschafft und mit einer lebenslänglichen Einreisesperre
+belegt. Das mag sein, und in diesem Fall wäre auch die hiesige Bevölkerung
+vor ihm sicher, aber das Schweizerische Strafrecht schützt nicht nur die
+Schweizer Bevölkerung. Aufgrund des Gutachtens ist davon auszugehen, dass
+B.______ durchaus wieder gewalttätig wird, wenn nicht hier, dann andernorts,
+ganz zu schweigen davon, dass trotz bestehender Einreisesperre die reale Chance
+einer Rückkehr in die Schweiz besteht. Immerhin verstiess er durch die Begehung
+von zwei Morden gleichsam selbstverständlich gegen fundamentale Prinzipien
+einer jeden Rechtsordnung und tötete zwei Menschen. Wieso sollte ihn da ein
+Einreiseverbot von der Einreise abhalten?
+2. Das
+Gericht stützt sich beim Entscheid über die Anordnung einer Massnahme nach
+den Artikeln 59–61, 63 und 64 sowie bei der Änderung der Sanktion nach
+Artikel 65 auf eine sachverständige Begutachtung. Diese äussert sich über:
+a.  die Notwendigkeit und die Erfolgsaussichten einer Behandlung des Täters;
+b.  die Art und die Wahrscheinlichkeit weiterer möglicher Straftaten;
+und
+c.  die Möglichkeiten des Vollzugs der Massnahme (Art. 56
+Abs. 3 StGB).
+Gemäss
+Gutachten weise B.______ auffällige Persönlichkeitszüge auf. Bei nicht
+vorhandener respektive anhand der vorliegenden Informationen nicht mit genügender
+Sicherheit zu diagnostizierender manifester psychischer Störung entbehre es
+im medizinisch-psychiatrischen Sinne einer Behandlungsindikation. Das Gericht
+geht demzufolge davon aus, dass das Verhalten bzw. die Einstellung des
+Beschuldigten zur Gewalt nicht dem sozial Üblichen entspricht, die Medizin mangels
+genauer Diagnose aber keine probate Therapie anzuwenden weiss. Erschwerend
+komme hinsichtlich einer allfälligen Massnahme gemäss [...] die geringe Beeinflussbarkeit
+des Beschuldigten hinzu. Diese Beurteilung deckt sich mit dem Eindruck des
+Gerichts, den es anlässlich der Hauptverhandlung erlangte. Wie bereits
+erwähnt zeigte der Beschuldigte weder Einsicht noch Reue und lehnte eine
+Therapie explizit ab.
+Die Rückfallgefahr
+stufte [...] als hoch ein.
+3. Das
+Gericht ordnet die Verwahrung an, wenn der Täter einen Mord, eine
+vorsätzliche Tötung, eine schwere Körperverletzung, eine Vergewaltigung,
+einen Raub, eine Geiselnahme, eine Brandstiftung, eine Gefährdung des Lebens
+oder eine andere mit einer Höchststrafe von fünf oder mehr Jahren bedrohte
+Tat begangen hat, durch die er die physische, psychische oder sexuelle
+Integrität einer andern Person schwer beeinträchtigt hat oder beeinträchtigen
+wollte, und wenn:
+a.  auf Grund der Persönlichkeitsmerkmale des Täters, der Tatumstände
+und seiner gesamten Lebensumstände ernsthaft zu erwarten ist, dass er weitere
+Taten dieser Art begeht; oder
+b.  auf Grund einer anhaltenden oder langdauernden psychischen Störung
+von erheblicher Schwere, mit der die Tat in Zusammenhang stand, ernsthaft zu
+erwarten ist, dass der Täter weitere Taten dieser Art begeht und die
+Anordnung einer Massnahme nach Artikel 59 keinen Erfolg verspricht
+(Art. 64 Abs. 1 StGB).
+Die
+Verwahrung nach Art. 64 Abs. 1 StGB bedarf demnach der folgenden
+Voraussetzungen (nachfolgend a) bis e), vgl. auch
+Trechsel
+Stefan et al.
+,
+N 3 ff. zu Art. 64):
+a)
+qualifizierte
+Anlasstag
+B.______ beging einen
+mehrfachen Mord, einen qualifizierten Raub sowie einen mehrfachen einfachen
+Raub. Mord und Raub sind im Katalog der Anlasstaten gemäss Art. 64
+Abs. 1 StGB beide aufgelistet. Die Anlasstat ist somit gegeben.
+b)
+gewisse
+Opferschwere
+Das Erfordernis der
+Opferschwere ist ebenfalls erfüllt, hat B.______ doch zwei seiner Opfer auf
+brutalste Art und Weise getötet und zwei weitere ebenfalls unnötig brutal
+zusammengeschlagen, obwohl dies bei objektiver Betrachtung ohne Weiteres
+vermeidbar gewesen wäre.
+c)
+Rückfallgefahr
+Das
+medizinische Gutachten von T.______ stufte die persönlichkeitsstrukturell
+bedingte Rückfallgefahr B.______ für ein der Anlasstag vergleichbares Delikt,
+d.h. einer neuerlichen Gewaltstraftat, als hoch ein. Das Erfordernis der
+Rückfallgefahr ist somit ebenfalls erfüllt.
+d)
+Kausalzusammenhang
+zwischen Persönlichkeitsmerkmalen oder psychischer Störung und Anlasstag
+Das Gutachten
+attestierte B.______ eine normalisierte Gewaltbereitschaft, fehlende Empathie
+und Distanz bzw. Reflexion, Verantwortungsabschiebung auf die Opfer,
+Kontrollbedürfnis,
+Gefühl der Straffreiheit.
+[...] stellte zwar fest, dass bei B.______ keine spezifische
+Persönlichkeitsstörung diagnostiziert werden könne, man aber dennoch nicht
+über gewisse auffällige Persönlichkeitszüge hinwegsehen könne, so namentlich
+eine verinnerlichte Gewaltanwendungsbereitschaft im Sinne einer
+Verinnerlichung derselben als Mittel zur Durchsetzung seiner Person. Die
+Taten selber liessen [...] an eine dissoziale und an eine emotionale
+instabile Persönlichkeitsstörung vom impulsiven Typ denken. Aufgrund seiner
+Persönlichkeitsmerkmale erachte B.______ die bei den verübten Delikten an den
+Tag gelegte Gewalt als normal.
+Alles in
+allem konnte [...] demnach die Probleme B.______ nicht in
+klassisch-diagnostische psychiatrische Kategorien einordnen, stellte aber
+dennoch gewisse Abnormitäten fest, welche für die von ihm verübten Taten
+zumindest stark begünstigend und für die an den Tag gelegte Brutalität des
+Tatvorgehens kausal wirkten. Wie bereits mehrfach erwähnt, wäre es für
+B.______ ohne grösseren Aufwand möglich gewesen, die ihm physisch deutlich
+unterlegenen, und vorwiegend älteren Opfer ohne wiederholte Schläge gegen den
+Kopf zu überwältigen, zu fesseln und im hinteren Bereich der Geschäfte ruhig
+zu stellen oder zumindest für die kurze Dauer der Tatbegehung zur Ruhe zu
+bringen. Er übte aber keinerlei Zurückhaltung und regierte auf jegliche
+Aufmüpfigkeit seitens seiner Opfer sofort, ungehemmt und mit erschreckender
+Selbstverständlichkeit mit roher Gewalt, so dass zwei der Opfer als Folge
+davon verstarben. Ohne diese niedrige Schwelle zur Gewaltanwendung wären die
+Verletzungen höchstwahrscheinlich weniger gravierend ausgefallen oder
+B.______ hätte sich gar anderer, weniger schädigender Methoden bedient, um
+seine Opfer ausser Gefecht zu setzen.
+e)
+Gutachten
+Hat der Täter
+eine Tat im Sinne von Artikel 64 Abs. 1 StGB begangen, so ist die
+Begutachtung durch einen Sachverständigen vorzunehmen, der den Täter weder
+behandelt noch in anderer Weise betreut hat (Art. 56 Abs. 4 StGB).
+Das von
+T.______ erstellte Gutachten erfüllt diese zusätzliche Voraussetzung für die
+Verwahrung. Im Übrigen finden sich die relevanten Sachverhaltselemente im
+bereits mehrfach zitierten Gutachten von T.______.
+4. Alles in
+allem kommt das Gericht zum Schluss, dass vorliegend keine mildere Massnahme
+als die der Verwahrung zum Ziel führt und die Voraussetzungen von
+Art. 56 und nach Art. 64 Abs. 1 StGB erfüllt sind. Der
+Beschuldigte vertritt die Ansicht, er bedürfe keiner Therapie, er müsse nicht
+geheilt werden. Es würde sich bei jeglicher Massnahme vorliegend daher
+tatsächlich um eine Zwangs-Massnahme im wörtlichen Sinn handeln, wobei eine
+Behandlung gegen den Willen B.______ zwar nicht ausgeschlossen sei, die
+geringe Beeinflussbarkeit B.______ jedoch eine Verbesserung der Legalprognose
+allenfalls in einem Zeitrahmen von mehreren Jahren erwarten lasse, wobei
+offenbar auch [...] den dereinstigen Erfolg der Therapie nicht als sicher
+erachtet. Da an seiner Therapierbarkeit ernsthafte Zweifel bestehen, ist der
+Beschuldigte nach Art. 64 Abs. 1 lit. a) StGB zu verwahren. Die
+gemäss [...] grundsätzlich mögliche Therapie verspricht zu wenig Erfolg.
+X. Einziehung
+1. Gestützt
+auf Art. 69 StGB verfügt das Gericht ohne Rücksicht auf die Strafbarkeit
+einer bestimmten Person die Einziehung von Gegenständen, die zur Begehung
+einer Straftat gedient haben oder bestimmt waren oder die durch eine Straftat
+hervorgebracht worden sind, wenn diese Gegenstände die Sicherheit von
+Menschen, die Sittlichkeit oder die öffentliche Ordnung gefährden. Das
+Gericht kann anordnen, dass die eingezogenen Gegenstände unbrauchbar gemacht
+oder vernichtet werden.
+2. Die bei
+der Kantonspolizei Zürich gelagerten Gegenstände:
+-
+1 Schrotflinte
+-
+1 Plastikeinkaufstasche
+-
+2 Handschellen
+-
+1 Ledertasche schwarz
+-
+1 Springmesser
+-
+3 Paar Ohrringe
+-
+1 Anhänger
+-
+1 Anhänger Bulgari
+-
+2 lose Steine
+-
+3 Anhänger Kreuze mit Steinen
+-
+8 Ringe
+-
+1 Halskette
+-
+1 Zugbillet Milano – Zürich
+-
+1 Schreiben [...] (Autobus) Zürich - Vilnius
+sind der
+Kantonspolizei Glarus zur gut scheinenden Verwendung zu überlassen.
+Die unter
+derselben Geschäftsnummer gelagerten zwei Silberbarren à 1 kg sollen von der
+Kantonspolizei Glarus an [...], der deren Eigentümer ist, herausgegeben
+werden.
+3. Die
+folgenden, bei der Stadtpolizei Zürich gelagerten Gegenstände, sind
+einzuziehen und der Kantonspolizei Glarus zur gut scheinenden Verwendung zu
+überlassen:
+Fall [...]:
+-
+gelber Gummihandschuh (Nr. 1)
+-
+Kleider Geschädigter (Nr. 2)
+-
+Faden dunkelblau (Nr. 3)
+-
+3 Mikrospuren, Skizzen (Nr. 4)
+-
+1 Schuh links (Nr. 5)
+-
+1 Schuh rechts (Nr. 6)
+-
+Unterhosen, Socken (Nr. 6)
+-
+1 Hose (Nr. 8)
+-
+1 Poloshirt (Nr. 9)
+Fall
+V.______:
+-
+Hemd (Nr. -A2)
+-
+Hosen (Nr. -A3)
+-
+Unterhemd (Nr. -A4)
+-
+Halbschuhe (Nr. -A5)
+Fall [...]:
+-
+1 Hose (Nr. 2)
+-
+1 T-Shirt (Nr. 3)
+-
+1 Pullover (Nr. 4)
+-
+1 Hemd (Nr. 5)
+-
+2 Asservate mit Fingernagelschmutz (Nr. 6 und 7)
+-
+4 DNS-Asservate (Nr. 10 bis 13)
+Fall [...]:
+-
+4 Klebebandasservate (Nr. 1, 2, 19 und 20)
+-
+Eigenglas ab Vitrinen (Nr. 11)
+-
+1 Regenschirm (Nr. 12)
+-
+Kleider von W.______ (Nr. 3)
+-
+1 Pullover (Nr. 4)
+-
+1 Hemd (Nr. 2)
+-
+1 Hose (Nr. 6)
+-
+1 Unterhose (Nr. 7)
+-
+1 Paar Halbschuhe (Nr. 8)
+-
+1 Paar Socken (Nr. 9)
+-
+1 Stofftragtasche (Nr. 10)
+-
+1 Lederjacke (Nr. 22)
+-
+4 Saugasservate (Nr. 29, 30, 31 und 32)
+-
+1 Jeanshose (Nr. 23)
+-
+1 Pullover (Nr. 24)
+-
+1 Boxershorts (Nr. 25)
+-
+1 Paar Socken (Nr. 26)
+-
+1 Leibgurt (Nr. 27)
+-
+1 Paar Freizeitschuhe (Nr. 28)
+-
+Klebebandasservate (Nr. 33)
+XI. Zivilforderungen
+1. Wer einem
+anderen widerrechtlich Schaden zufügt, sei es aus Absicht, sei es aus
+Fahrlässigkeit, wird ihm zum Ersatze verpflichtet (Art. 41 Abs. 1
+OR).
+Voraussetzung für eine
+Haftung nach Art. 41 OR bilden also Schaden, Widerrechtlichkeit,
+Kausalzusammenhang und Verschulden.
+Im Falle der Tötung
+eines Menschen sind die entstandenen Kosten, insbesondere diejenigen der
+Bestattung, zu ersetzen (Art. 45 Abs. 1 OR).
+Bei Tötung
+eines Menschen oder Körperverletzung kann der Richter unter Würdigung der
+besonderen Umstände dem Verletzten oder den Angehörigen des Getöteten eine
+angemessene Geldsumme als Genugtuung zusprechen (Art. 47 OR).
+2. Im Fall
+[...] wurden die nachfolgend genannten Zivilforderungen geltend gemacht.
+2.1. Das
+Opfer K.______ macht eine Genugtuungsforderung über CHF 300.―
+geltend.
+Der
+Beschuldigte hat diese Forderung anerkannt.
+2.2. Namens
+S.______, Inhaber der Uhrenbijouterie [...], welcher im März 2011 verstorben
+ist, machte K.______ eine Schadenersatzforderung in der Höhe von
+CHF 10'400.― geltend. Wie die Verteidigung zurecht einwirft, ist
+K.______ nicht befugt, namens ihrer Arbeitgeberfirma Schadenersatzansprüche
+geltend zu machen. Auf diesen Antrag ist demnach nicht einzutreten.
+2.3. Namens
+der [...] macht K.______ eine Schadenersatzforderung in der Höhe von
+CHF 9'662.90 geltend. Es gilt mutatis mutandis das unter vorstehend
+Ziff. XI./2.2. Gesagte. Auf den Antrag ist nicht einzutreten.
+3. Im Fall
+[...] wurden die nachfolgend genannten Zivilforderungen geltend gemacht.
+3.1. Das
+Opfer L.______ macht Schadenersatz in Höhe von CHF 139'818.―
+zuzüglich Zins zu 5 % seit 5. Juli 2005 geltend.
+Der
+Beschuldigte anerkannte die Schadenersatzforderung in der Untersuchung in
+Anwesenheit des Verteidigers dem Grundsatz nach, die Höhe erschien ihm
+allerdings „komisch“. An der mündlichen Hauptverhandlung anerkannte die
+Verteidigung diese Forderung dem Grundsatz nach, bestritt sie aber in der
+Höhe.
+Wäre die
+vollständige Beurteilung des Zivilanspruchs unverhältnismässig aufwendig, so
+kann das Gericht die Zivilklage nur dem Grundsatz nach entscheiden und sie im
+Übrigen auf den Zivilweg verweisen (Art. 126 Abs. 3 1. Satz StPO).
+Das Gericht
+geht mit dem Geschädigtenvertreter einig, dass L.______ durch den Überfall
+einen Erwerbsausfall erlitten hat. Dies stritt auch die Verteidigung nicht ab
+und anerkannte die Schadenersatzforderung im Grundsatz. Von dieser
+Anerkennung ist Vormerk zu nehmen. Unklar ist indes die genaue Höhe des Erwerbsausfalls,
+war L.______ zum Tatzeitpunkt doch bereits 71 Jahre alt und steht somit
+keinesfalls fest, dass er weitere 10 Jahre – bis zum Alter von 81 Jahren
+– in gleichem Umfange weiterhin seiner Erwerbstätigkeit nachgehen hätte
+können, auch wenn der Betrag von CHF 139'818.― alles in allem
+nicht unrealistisch scheint.
+Die genaue
+Berechnung der Schadenersatzforderung wäre aber für ein Strafverfahren
+unverhältnismässig aufwändig, weshalb der Kläger mit seiner Forderung
+betragsmässig auf den Zivilweg zu verweisen ist.
+3.2. Zudem
+fordert L.______ Genugtuung in Höhe von CHF 30'000.― zuzüglich
+Zins zu 5% seit 5. Juli 2005.
+Unter den
+gegebenen Umständen scheint eine Genugtuung von CHF 15'000.―
+angemessen, zuzüglich Zins zu 5 % seit 5. Juli 2005. Im Übrigen ist
+die Forderung abzuweisen. Es ist davon Vormerk zu nehmen, dass die Verteidigung
+die Genugtuungsforderung im Umfang von CHF 5'000.― anerkannt hat.
+3.3. Die M.______
+macht Schadenersatz in Höhe von CHF 16'107.20 geltend. Der Beschuldigte
+hat diese Forderung bereits in der Untersuchung anerkannt, ebenso die
+Verteidigung in der Hauptverhandlung.
+3.4. Die
+[...] verzichtete auch die Geltendmachung von Zivilansprüchen.
+4. Im Fall
+V.______ wurden die nachfolgend genannten Zivilforderungen geltend gemacht.
+4.1. Der
+Lebenspartner
+Y.______
+machte
+Schadenersatz in Höhe von CHF 7'625.50 zuzüglich Zins zu 5% seit dem
+1. Mai 2006 geltend. Der Beschuldigte anerkannte diese Forderung in der
+Untersuchung in Anwesenheit des Verteidigers vollumfänglich. An der
+Hauptverhandlung bestritt die Verteidigung die Höhe der Forderung mit der
+Begründung, sie sei nicht substantiiert belegt. Der Beschuldigte ist bei
+seiner im Rahmen der Untersuchung erfolgten vorbehaltlosen Anerkennung zu
+behaften. Die Verteidigung war damals mitanwesend und hat keinerlei
+Vorbehalte gegen die durch den Beschuldigten selber erfolgte Anerkennung
+geltend gemacht. Es ist nicht ersichtlich, wieso sie nun – zumindest ohne einen
+Willensmangel darzutun – von dieser konkludent genehmigten Billigung der
+Anerkennung zurücktreten können sollte. Dies gilt auch für die weiteren erst
+an der Hauptverhandlung bestrittenen Forderungen. Diese Bestreitung ist somit
+unbeachtlich.
+4.2. Zudem
+fordert
+N.______
+Genugtuung in Höhe
+von CHF 28'000.― (CHF 40'000.― -
+CHF 12'000.― Opferhilfe) zuzüglich Zins zu 5% seit dem
+28. Juli 2005. Der Beschuldigte anerkannte diese Forderung (ohne Zins)
+in der Untersuchung in Anwesenheit des Verteidigers. Sie ist praxisgemäss ab
+dem Tatzeitpunkt zu verzinsen.
+5. Im Fall
+[...] wurden die nachfolgend genannten Zivilforderungen geltend gemacht.
+5.1. Das
+Opfer G.______ machte Schadenersatz in Höhe von CHF 100'000.―
+geltend. Der Beschuldigte anerkannte diese Forderung in der Untersuchung in
+Anwesenheit des Verteidigers. Sie ist praxisgemäss zu verzinsen.
+5.2. Die
+N.______ machte Schadenersatz in Höhe von CHF 300'711.― geltend.
+Der Beschuldigte anerkannte diese Forderung in der Untersuchung in Anwesenheit
+des Verteidigers. Anlässlich der Hauptverhandlung bestritt die Verteidigung
+die Höhe der Forderung allerdings. Nach dem Gericht ist der Beschuldigte auf
+seiner Anerkennung zu behaften (vgl. oben Ziff. XI./4.1.)
+6. Im Fall
+[...] wurden die nachfolgend genannten Zivilforderungen geltend gemacht.
+6.1. Die
+zunächst noch unbezifferte Schadenersatzforderung der Hinterbliebenen des
+Opfers W.______ anerkannte der Beschuldigte grundsätzlich. Es sind dies die
+Forderungen von:
+-
+H.______
+-
+I.______
+-
+J.______
+Anlässlich der Hauptverhandlung
+stellten jedoch lediglich H.______, I.______ und J.______ bezifferte
+Schadenersatzforderungen.
+6.2. Die
+Opfer H.______, I.______ und J.______ machen Schadenersatz in Höhe von
+CHF 6'944.― zuzüglich Zins zu 5 % seit 13. März 2008
+geltend. Die Verteidigung anerkannte diese Forderung (ohne Zins) in der
+Hauptverhandlung. Die Forderung ist praxisgemäss ab dem Tatzeitpunkt zu
+verzinsen.
+6.3. Zudem
+fordert H.______ Genugtuung in Höhe von CHF 60'000.― zuzüglich
+Zins zu 5% seit dem 22. Februar 2007. Die Verteidigung anerkannte diese
+Forderung (ohne Zins) in der Höhe von CHF 40'000.― in der
+Hauptverhandlung. Der anerkannte Betrag ist unter den gegebenen Umständen
+angemessen und die Forderung im den CHF 40'000.― übersteigenden
+Betrag abzuweisen. Sie ist praxisgemäss ab dem Tatzeitpunkt zu verzinsen.
+6.4. Zudem
+fordert I.______ Genugtuung in Höhe von CHF 35'000.― zuzüglich
+Zins zu 5% seit dem 22. Februar 2007. Die Verteidigung anerkannte diese
+Forderung (ohne Zins) in der Höhe von CHF 10'000.― in der Hauptverhandlung.
+Unter den gegebenen Umständen ist ein Betrag von CHF 15'000.―
+angemessen und die Forderung im den CHF 15'000.― übersteigenden
+Betrag abzuweisen. Sie ist praxisgemäss ab dem Tatzeitpunkt zu verzinsen.
+6.5. Zudem
+fordert J.______ Genugtuung in Höhe von CHF 35'000.― zuzüglich
+Zins zu 5% seit dem 22. Februar 2007. Die Verteidigung anerkannte diese
+Forderung (ohne Zins) in der Höhe von CHF 10'000.― in der
+Hauptverhandlung. Unter den gegebenen Umständen ist ein Betrag von
+CHF 15'000.― angemessen und die Forderung im den
+CHF 15'000.― übersteigenden Betrag abzuweisen. Sie ist
+praxisgemäss ab dem Tatzeitpunkt zu verzinsen.
+XII. Kosten
+1. Dem Ausgang des Verfahrens entsprechend
+– der Beschuldigte wurde einzig in einem untergeordneten Tatbestand freigesprochen
+– hat der Beschuldigte die Gerichtsgebühr, die Kosten für das psychiatrische
+Gutachten, das IRM-Gutachten
+V.______, die Rechtshilfe im Untersuchungsverfahren und die weiteren Auslagen
+in der Untersuchung zu tragen (Art. 426 Abs. 1 StPO). Aus demselben
+Grund ist auch keine Parteientschädigung zuzusprechen (Art. 429
+Abs. 1 StPO).
+2. Die
+Privatklägerschaft hat gegenüber der beschuldigten Person Anspruch auf
+angemessene Entschädigung für notwendige Aufwendungen im Verfahren, wenn sie
+obsiegt (Art. 433 Abs. 1 lit. a. StPO), was vorliegend
+grundsätzlich zutrifft.
+B.______ ist
+daher zu verpflichten, H.______, I.______ und J.______ eine
+Parteientschädigung in der Höhe von gesamthaft CHF 28'026.55 (inklusive
+Auslagen und Mehrwertsteuer) zu bezahlen.
+B.______ ist
+ausserdem zu verpflichtet, L.______ eine Parteientschädigung von
+CHF 1'391.25 (inklusive Auslagen und Mehrwertsteuer) zu bezahlen.
+Auf den
+Antrag von
+Y.______
+auf Zusprechung
+einer Parteientschädigung ist mangels Bezifferung der Forderung nicht einzutreten
+(Art. 433 Abs. 2 StPO).
+____________________
+Das Gericht
+erkennt
+:
+1.
+B.______
+ist
+schuldig
+des mehrfachen Mordes im Sinne von Art. 112 StGB,
+des qualifizierten Raubes im Sinne von Art. 140
+Ziff. 1 Abs. 1 und Ziff. 4 StGB,
+des mehrfachen einfachen Raubes im Sinne vom Art.
+140 Ziff. 1 Abs. 1 StGB,
+des Diebstahls im Sinne von Art. 139 Ziff. 1 StGB.
+2.    B.______ wird freigesprochen vom Vorwurf des
+Hausfriedensbruchs im Sinne von Art. 186 StGB.
+3.
+B.______
+wird zu
+einer lebenslänglichen Freiheitsstrafe verurteilt.
+Es wird vorgemerkt, dass sich B.______ seit 1. März
+2007 in Haft sowie in vorzeitigem Strafvollzug befindet.
+4.    Über B.______ wird eine Verwahrung gemäss Art. 64
+Abs. 1 lit. a StGB angeordnet.
+5.    Die beiden sichergestellten Silberbarren zu je einem
+Kilogramm werden [...]
+herausgegeben.
+6.    Die bei
+B.______
+sichergestellten Gegenstände, ausgenommen die unter Ziffer 5 vorstehend
+erwähnten Silberbarren, werden eingezogen und der Kantonspolizei Glarus zur
+gut scheinenden Verwendung überlassen.
+7.    Es wird vorgemerkt, dass
+B.______
+die Genugtuungsforderung von
+K.______ im Betrage von CHF 300.— anerkannt hat.
+8.    Auf die Anträge 2 und 3 der Zivilklägerin K.______ wird nicht
+eingetreten.
+9.    Es wird vorgemerkt, dass B.______ die Schadenersatzforderung von
+L.______ im Grundsatz anerkannt hat. Betragsmässig wird L.______ mit seiner
+Schadenersatzforderung auf den Zivilweg verwiesen.
+10.  B.______ wird verpflichtet, L.______ eine Genugtuung von
+CHF 15'000.— nebst Zins zu 5 % seit 5. Juli 2005 zu bezahlen.
+Es wird vorgemerkt, dass B.______ die Genugtuungsforderung von
+L.______ im Umfang von CHF 5'000.— anerkannt hat.
+11.  Im Übrigen wird die Genugtuungsforderung von L.______ abgewiesen.
+12.  Es wird vorgemerkt, dass B.______ die Schadenersatzforderung der
+M.______ im Betrage von CHF 16'107.20 anerkannt hat.
+13.  Es wird vorgemerkt, dass B.______ die Schadenersatzforderung von
+Y.______
+im Betrage von
+CHF 7'625.— nebst Zins zu 5 % seit 1. Mai 2006 anerkannt hat.
+14.  B.______ wird verpflichtet,
+N.______
+zusätzlich zu der vom Departement Volkswirtschaft und Inneres des Kantons
+Glarus mit Entscheid vom 5. Oktober 2007 zugesprochenen Genugtuung nach
+Opferhilfegesetz eine Genugtuung im Betrage von CHF 28'000.— nebst Zins zu 5
+% seit 28. Juli 2005 zu bezahlen.
+Es wird vorgemerkt, dass B.______ die Genugtuungsforderung von
+Y.______
+im Umfang von CHF 28'000.—
+anerkannt hat.
+15.  Es wird vorgemerkt, dass B.______ die Schadenersatzforderung von
+G.______ im Betrage von CHF 100'000.— anerkannt hat.
+16.  Es wird vorgemerkt, dass B.______ die Schadenersatzforderung der
+N.______ im Betrage von CHF 300'711.— anerkannt hat.
+17.  B.______ wird verpflichtet, H.______ eine Genugtuung im Betrage
+von CHF 40'000.— nebst Zins zu 5 % seit 22. Februar 2007 zu bezahlen.
+Es wird vorgemerkt, dass B.______ die Genugtuungsforderung von
+H.______ im Umfang von CHF 40'000.— anerkannt hat.
+18.  Im Übrigen wird die Genugtuungsforderung von H.______ abgewiesen.
+19.  B.______ wird verpflichtet, I.______ eine Genugtuung im Betrage
+von CHF 15'000.— nebst Zins zu 5 % seit 22. Februar 2007 zu bezahlen.
+Es wird vorgemerkt, dass B.______ die Genugtuungsforderung von
+I.______ im Umfang von CHF 10'000.— anerkannt hat.
+20.  Im Übrigen wird die Genugtuungsforderung von I.______ abgewiesen
+21.  B.______ wird verpflichtet, J.______ eine Genugtuung im Betrage
+von CHF 15'000.— nebst Zins zu 5 % seit 22. Februar 2007 zu bezahlen.
+Es wird vorgemerkt, dass B.______ die Genugtuungsforderung von
+J.______ im Umfang von CHF 10'000.— anerkannt hat.
+22.  Im Übrigen wird die Genugtuungsforderung von J.______ abgewiesen
+23.  B.______ wird verpflichtet, H.______, I.______ und J.______
+Schadenersatz im Betrage von CHF 6'944.— nebst Zins zu 5 % seit 13. März
+2008 zu bezahlen.
+Es wird vorgemerkt, dass B.______ die Schadenersatzforderung von
+H.______, I.______ und J.______ im Umfang von CHF 6'944.— anerkannt hat.
+24.  Die Gerichtsgebühr wird festgesetzt auf CHF 30'000.—.
+Die weiteren Verfahrenskosten betragen:
+CHF            19'517.20     psychiatrisches
+Gutachten
+CHF              3'459.75     IRM-Gutachten V.______
+CHF              2'695.—     Rechtshilfe im
+Untersuchungsverfahren
+CHF              8'946.40     weitere Auslagen in
+der Untersuchung
+Die Höhe der Kosten der amtlichen
+Verteidigung
+und der unentgeltlichen Rechtsverbeiständung der
+Zivilkläger werden vom Kantonsgerichtspräsidenten nachträglich festgesetzt.
+25.  Die Kosten werden
+B.______
+vollumfänglich auferlegt und von ihm bezogen, wobei die Kosten der amtlichen
+Verteidigung und der unentgeltlichen Rechtsverbeiständung der Zivilkläger
+erst dann von B.______ bezogen werden, wenn es dessen wirtschaftliche
+Verhältnisse erlauben.
+26.
+B.______
+wird
+verpflichtet, H.______, I.______ und J.______ eine Parteientschädigung in der
+Höhe von gesamthaft CHF 28'026.55 (inklusive Auslagen und
+Mehrwertsteuer) zu bezahlen.
+27.  B.______ wird verpflichtet, L.______ eine
+Parteientschädigung von CHF 1'391.25 (inklusive Auslagen und
+Mehrwertsteuer) zu bezahlen.
+28.  Auf den Antrag von
+Y.______
+auf Zusprechung einer Parteientschädigung wird nicht eingetreten.
+29.  Schriftliche Mitteilung an:
+[...]
+Dieses
+Urteil ist nicht rechtskräftig.
