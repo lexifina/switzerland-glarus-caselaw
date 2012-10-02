@@ -1,0 +1,422 @@
+---
+decision_id: "gl_gerichte_OG.2012.00021"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2012.00021"
+docket_2: "OGS.2013.11"
+decided: "2012-10-02"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=167&W10_KEY=218274&nTrefferzeile=3&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/220/art-047.md", "switzerland/bund/acts/312.0/art-006.md", "switzerland/bund/acts/312.0/art-105.md", "switzerland/bund/acts/312.0/art-118.md", "switzerland/bund/acts/312.0/art-119.md", "switzerland/bund/acts/312.0/art-122.md", "switzerland/bund/acts/312.0/art-123.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.5/art-001.md"]
+---
+
+# GL Gerichte OG.2012.00021
+
+## Regeste
+
+Beschwerde gegen Einstellungsverfügung
+
+## Text
+
+Glarus Obergericht 02.10.2012 OG.2012.00021 (OGS.2013.11)
+Glaris Obergericht 02.10.2012 OG.2012.00021 (OGS.2013.11)
+Glarona Obergericht 02.10.2012 OG.2012.00021 (OGS.2013.11)
+
+Beschwerde gegen Einstellungsverfügung
+
+Kanton Glarus
+Obergericht
+Beschluss
+vom 2. Oktober 2012
+Verfahren
+OG.2012.00021
+A.______
+Beschwerdeführerin
+vertreten
+durch B.______
+Vertreter,
+gegen
+Staats- und Jugendanwaltschaft des
+Kantons Glarus
+Beschwerdegegnerin
+und
+C.______
+Beschuldigter
+vertreten durch D.______
+betreffend
+Beschwerde
+gegen Einstellungsverfügung
+Rechtsbegehren
+de
+r
+Beschwerdeführer
+in
+(gemäss Eingabe vom
+10. April 2012):
+„1.
+Es sei die
+Einstellungsverfügung der Staats- und Jugendanwaltschaft des Kantons Glarus
+vom 28.03.2012, mit der das Strafverfahren gegen C.______ wegen
+fahrlässiger Tötung in Anwendung von Art. 319 Abs. 1 lit. b StPO
+eingestellt wird, vollumfänglich aufzuheben.
+2.
+Es sei das Strafverfahren gegen
+C.______ im Sinne der Ausführungen der Beschwerdeführerin zur Ergänzung des
+Sachverhalts und zur neuen Entscheidung an die Beschwerdegegnerin
+zurückzuweisen.
+3.
+Alles unter Kosten- und
+Entschädigungsfolge zu Lasten der Beschwerdegegnerin.“
+Antrag
+de
+r
+Beschwerde
+gegner
+in
+(vom 4. Mai 2012, sinngemäss):
+1.
+Es sei die Beschwerde
+abzuweisen.
+2.
+Alles unter Kosten- und
+Entschädigungsfolge zu Lasten der Beschwerde­führerin.
+Antrag
+de
+s
+Beschuldigten
+(vom
+30. Mai 2012, sinngemäss):
+1.
+Es sei die Beschwerde
+abzuweisen, soweit darauf überhaupt einzutreten ist.
+2.
+Dem Beschuldigten sei für das
+Vorverfahren eine Entschädigung von Fr. 2‘120.- zuzusprechen.
+3.
+Alles unter Kosten- und
+Entschädigungsfolge zu Lasten der Beschwerde­führerin, eventualiter der
+Staatskasse.
+____________________
+Das Gericht
+zieht in
+Betracht:
+I.
+1.—
+a)
+Am
+23. Mai 2009 um 20.15 Uhr ereignete sich auf der Kantonsstrasse zwischen
+[...] und [...], beim […], ein Verkehrsunfall zwischen C.______ und X.______,
+der dabei getötet wurde.
+b)
+C.______ fuhr mit
+seiner Fahrzeugkomposition, welche den Traktor, eine Ballenpresse und eine
+Wickelmaschine umfasste, auf der Kantonsstrasse von [...] Richtung [...]. Auf
+der Hauptstrasse in dieselbe Richtung fuhr auch X.______ mit einem Motorrad.
+Als C.______ von der Hauptstrasse nach links in die Abzweigung zum [...]
+einbog, kam es zur Kollision zwischen dem Motorradfahrer und der von C.______
+gelenkten Fahrzeugkomposition. Der Motorradlenker und dessen Motorrad
+schlitterten vermutlich in der Folge zusammen mit der in die Abzweigung
+eingebogenen Fahrzeugkomposition mit, wobei das Motorrad schliesslich vor der
+vorderen linken Ballenpresseseite und X.______ – wohl unter der Ballenpresse
+hindurch – auf deren hinteren rechten Seite, noch vor der Wickelmaschine zu
+liegen kam. X.______ verstarb noch auf der Unfallstelle an den Folgen des
+Verkehrsunfalls.
+c)
+Der Beschuldigte
+C.______ konnte zum Unfallhergang keine Angaben machen. An der polizeilichen
+Einvernahme am Unfallabend führte er aus, dass er sich korrekt verhalten
+habe; sodann sagte er aber aus, dass er „die Kurve etwas geschnitten habe“.
+Anlässlich der Einvernahme durch den Staatsanwalt am 12. August 2009
+führte er aus, dass er „den Vorwurf wegen des Kurvenschneidens“ akzeptieren
+könne, die Kurve aber nicht absichtlich geschnitten habe. Den Vorwurf der
+fahrlässigen Tötung akzeptiere er nicht.
+d)
+Sodann wurden als
+Auskunftspersonen M.______ und L.______ durch die Kantonspolizei Glarus
+unterschriftlich zum Unfallgeschehen einvernommen. Weiter liegen
+Zeugenprotokolle mit Aussagen von N.______ und O.______ bei den Akten.
+2.—
+Die Staatsanwaltschaft
+des Kantons Glarus stellte das Strafverfahren gegen C.______ wegen
+fahrlässiger Tötung mit Verfügung vom 28. März 2012 ein (Dispositiv
+Ziff. 1). Die Verfahrenskosten nahm die Staatsanwaltschaft auf die
+Staatskasse (Dispositiv Ziff. 2). Dem Beschuldigten C.______ wurde eine
+Entschädigung in der Höhe von Fr. 1‘469.70 (inkl. MwSt), jedoch keine
+Genugtuung zugesprochen (Dispositiv Ziff. 3 und 4). Die von X.______
+getragenen Motorradkleider sowie dessen Schutzhelm sollten nach Eintritt der
+Rechtskraft der Einstellungsverfügung durch die Polizei vernichtet
+(Dispositiv Ziff. 5), das Motorrad GL [...], ein defekter Rückspiegel ab
+Motorrad GL [...] sowie drei Glühlampen ab Motorrad GL [...] an die Erben von
+X.______ herausgegeben werden (Dispositiv Ziff. 6). Zwei Glühlampen ab
+Traktor GL [...], zwei Glühlampen ab Ballenpresse GL [...], zwei Glühlampen
+ab Wickler und ein Rad ab Ballenpresse sind gemäss der Einstellungsverfügung
+nach Eintritt der Rechtkraft an F.______, den Fahrzeughalter der vom
+Beschuldigten gelenkten Fahrzeugkombination, herauszugeben (Dispositiv Ziff.
+7).
+3.—
+Gegen diese
+Einstellungsverfügung erhob A.______, die Witwe des verstorbenen X.______,
+mit Eingabe vom 10. April 2012 Beschwerde  und stellte die eingangs
+wiedergegebenen Anträge.
+4.—
+Der Rechtsvertreter
+des Beschuldigten nahm mit Schreiben vom 30. Mai 2012 innert erstreckter
+Frist Stellung zur Beschwerde gegen die Einstellungs­verfügung und stellte
+ebenfalls Anträge. Die Staatsanwaltschaft liess sich nicht vernehmen.
+II.
+1.—
+Die Beschwerde ist
+zulässig gegen Verfügungen der Staatsanwaltschaft (Art. 393 Abs. 1
+lit. a StPO; vgl. auch Art. 322 Abs. 2 StPO).
+2.—
+a)
+Ein
+Rechtsmittel ergreifen kann jede Partei, die ein rechtlich geschütztes
+Interesse an der Aufhebung oder Änderung eines Entscheides hat (Art. 382
+Abs. 1 StPO). Der Parteibegriff ist umfassend im Sinne von Art. 104 und
+Art. 105 StPO zu verstehen (
+Lieber
+in: Donatsch/Hansjakob/Lieber [Hrsg.], Kommentar zur Schweizerischen
+Strafprozessordnung [StPO], Zürich 2010, Art. 382 N 2;
+Guidon
+, Die Beschwerde gemäss
+Schweizerischer Strafprozessordnung, Zürich/St. Gallen 2011, Rz. 222).
+b)
+Der Rechtsvertreter des
+Beschuldigten stellt sich in der Stellungnahme vom 30. Mai 2012 auf den
+Standpunkt, dass die Beschwerdeführerin nicht zur Beschwerde legitimiert sei.
+c)
+Als Privatklägerschaft
+gilt die geschädigte Person, die ausdrücklich erklärt, sich am Strafverfahren
+als Straf- oder Zivilkläger zu beteiligen (Art. 118 Abs. 1 StPO).
+Der Strafantrag ist dieser Erklärung gleichgestellt (Art. 118
+Abs. 2 StPO). Die Erklärung kann schriftlich oder mündlich zu Protokoll
+abgegeben werden (Art. 119 Abs. 1 StPO). In ihrer Erklärung kann
+die Privatklägerschaft (kumulativ oder alternativ) die Verfolgung und
+Bestrafung der für die Straftat verantwortlichen Person verlangen
+(„Strafklage“, Art. 119 Abs. 2 lit. a StPO) und/oder
+adhäsionsweise privatrechtliche Ansprüche geltend machen, die aus der
+Straftat abgeleitet werden („Zivilklage“, Art. 119 Abs. 2
+lit. b StPO). Die geschädigte Person kann zivilrechtliche Ansprüche aus
+der Straftat als Privatklägerschaft adhäsionsweise im Strafverfahren geltend
+machen (Art.
+122 Abs. 1 StPO). Die in der Zivilklage
+erhobene Forderung ist nach Möglichkeit in der Erklärung der Parteistellung
+als Privatklägerschaft (Art. 118 i.V.m. Art. 119 StPO) zu beziffern
+und, unter Angabe der angerufenen Beweismittel, kurz schriftlich zu begründen
+(Art. 123 Abs. 1 StPO; Urteil des Bundesgerichts 1B_476/2011, vom
+30. November 2011).
+Nach der
+Rechtsprechung des Bundesgerichts muss der Privatstrafkläger zwar seine
+Zivilansprüche im Untersuchungsverfahren noch nicht (adhäsionsweise) geltend
+gemacht haben, damit er zur Beschwerde gegen definitive Einstellungen befugt
+ist. Er hat jedoch darzulegen, welche Zivilansprüche er gegen beschuldigte Personen
+stellen möchte, sofern dies – etwa aufgrund der Natur der untersuchten
+Straftat – nicht ohne weiteres aus den Akten ersichtlich ist (BGE 137 IV
+219 E. 2.4. S. 222 f.; 246 E. 1.3.1 S. 247 f.;
+je mit Hinweisen; Urteil des Bundesgerichts 1B_78/2012 vom 3. Juli 2012). Als
+nahe Angehörige der verstorbenen Person in einer Strafuntersuchung wegen
+fahrlässiger Tötung erfüllt die Beschwerdeführerin grundsätzlich den
+Opferbegriff (Art. 1 Abs. 2 OHG). Sie beansprucht sinngemäss
+Genugtuung und Schadenersatz für die Tötung ihres Mannes (vgl. Art. 47
+OR).
+Wohl hat die Beschwerdeführerin
+vorliegend nicht erklärt, als Privatstrafklägerin am Verfahren teilzunehmen.
+Allerdings ist sie von der Staatsanwaltschaft vor Erlass der
+Einstellungsverfügung auch nicht auf diese Möglichkeit hingewiesen worden.
+Damit ist A.______ zur Beschwerde legitimiert, auch wenn sie bisher keine
+konkreten Zivilansprüche geltend gemacht hat; andernfalls könnte sie ihre
+Rechte als Zivilklägerin verlieren (vgl.
+Lieber
+in: Donatsch/Hansjakob/Lieber [Hrsg.], Kommentar zur Schweizerischen
+Strafprozessordnung [StPO], Zürich 2010, Art. 118 N 14 f.).
+III.
+1.—
+Mit der Beschwerde
+können Rechtsverletzungen einschliesslich Über­schrei­tung und Missbrauch des
+Ermessens, Rechtsverweigerung und Rechtsverzögerung, die unvollständige oder
+unrichtige Feststellung des Sachverhaltes oder Unan­ge­messen­heit gerügt
+werden (Art. 393 Abs. 2 StPO), wobei die Beschwerdeinstanz bei der
+Prüfung umfassende Kognition hat (
+Keller
+in: Donatsch/Hansjakob/Lieber [Hrsg.], Kommentar zur Schweizerischen
+Strafprozess­ordnung [StPO], Zürich 2010, Art. 393 N 39).
+2.—
+Die Beschwerdeführerin
+rügt die unvollständige und unrichtige Feststellung des Sachverhaltes. Sie
+macht geltend, dass die Staatsanwaltschaft in der Einstellungsverfügung den
+Beweisantrag auf Beizug von Messdaten über die auf der Fahrbahn
+festgestellten Brems- und Kratzspuren nicht berücksichtigt habe. Zudem habe
+sich die Staatsanwaltschaft in der Einstellungsverfügung auch nicht zu den
+eingeschränkten Sichtverhältnissen des Beschuldigten im Traktorzug geäussert,
+der Aspekt der Überbreite der Fahrzeugkombination werde mit keinem Wort
+erwähnt.
+3.—
+Der Rechtsvertreter
+des Beschuldigten bringt vor, dass die Beschwerdeeingabe nicht begründet sei.
+Es werde auch nicht dargelegt, weshalb die Begründung des Staatsanwaltes
+unrichtig sein soll. Folglich dürfe das Obergericht auf die Beschwerde nicht
+eintreten. Im Übrigen habe der Staatsanwalt „alle gebotenen
+Untersuchungsmassnahmen sorgfältig vorgenommen bzw. durch die Polizei
+vornehmen lassen“. Trotz der zahlreich befragten Zeugen und
+Spurensicherungsmassnahmen gebe es keinerlei Hinweise auf eine
+Sorgfaltspflichtverletzung des Beschuldigten, womit es an den Voraussetzungen
+für die Fortsetzung des Strafverfahrens fehle. Im vorliegenden Fall hätte ein
+klarer Freispruch hinsichtlich des Vorwurfs der fahrlässigen Tötung zu
+erfolgen, eine Verurteilung erscheine mehr als nur unwahrscheinlich. Daran
+änderten auch die Beweisanträge der Beschwerdeführerin nichts, da diese zu spät
+erfolgt seien, um zu anderen Erkenntnissen zu gelangen und daher untauglich
+seien.
+4.—
+a)
+Die
+Beschwerde ist ein vollkommenes Rechtsmittel, mit der die
+Sachverhaltsermittlung, die Rechtsanwendung wie auch die Ausübung des
+Ermessens durch die Vorinstanz gerügt werden können. Es sind demgemäss auch
+neue Tatsachenbehauptungen und Beweise zulässig, zudem kann auch die
+Unangemessenheit des vorinstanzlichen Entscheides gerügt werden (vgl.
+Art. 393 Abs. 2 StPO;
+Schmid
+,
+Handbuch des schweizerischen Strafprozessrechts, Zürich/St. Gallen 2009,
+Rz. 1512). Die Rüge der unvollständigen Feststellung des Sachverhaltes ist
+zulässig (Art. 393 Abs. 2 lit. b StPO). Unvollständig ist die
+Sachverhaltsfeststellung, wenn entscheidrelevante Umstände nicht oder nicht
+ausreichend abgeklärt oder berücksichtigt worden sind. Unvollständigkeit ist
+mit anderen Worten gegeben, wenn nicht alle entscheidrelevanten Tatsachen
+erhoben, also über bestimmte rechtserhebliche Umstände kein Beweis geführt
+worden ist, oder wenn die erhobenen Tatsachen nicht alle einer
+Beweiswürdigung unterzogen worden sind. Die Rüge der Unvollständigkeit knüpft
+demgemäss beim Umfang der Beweiserhebung an. Unrichtig ist die
+Sachverhaltsfeststellung, wenn den hoheitlichen Verfahrenshandlungen falsche,
+aktenwidrige Tatsachen zugrunde gelegt werden, wenn die Rechtserheblichkeit
+einer Tatsache zu Unrecht verneint wird, so dass diese nicht zum Gegenstand
+eines Beweisverfahrens gemacht wird, oder wenn Beweise unzutreffend gewürdigt
+werden. Sowohl bei der Rüge der Unvollständigkeit als auch der Unrichtigkeit
+kann es allein um den rechtserheblichen Sachverhalt gehen, d.h. jenen
+Sachverhalt, welcher in Bezug auf die konkret zu treffende hoheitliche
+Verfahrenshandlung relevant ist (
+Guidon
+,
+a.a.O., Rz. 363 ff.).
+b)
+Die Beschwerdeführerin
+rügt, dass die Staatsanwaltschaft diejenigen Beweismittel, welche sie bereits
+im Untersuchungsverfahren beantragt habe, in der Einstellungsverfügung nicht
+berücksichtigt hat. Damit begründet sie die Beschwerde genügend, denn es wäre
+gerade Aufgabe der Staatsanwaltschaft gewesen, aus den beantragten
+Beweismitteln die richtigen Schlüsse zu ziehen. Sinngemäss rügt sie auch, die
+Staatsanwaltschaft habe nicht alle für die Beurteilung der Tat bedeutsamen
+Tatsachen abgeklärt und damit den Untersuchungsgrundsatz verletzt
+(Art. 6 StPO).
+c)
+Vorliegend hat die
+Staatsanwaltschaft in der Einstellungsverfügung auf den Unfallrapport der
+Kantonspolizei Glarus und auf Aussagen des Beschuldigten abgestellt. Sie hat
+nicht berücksichtigt, dass bei der Kantonspolizei weitere Fotos vorhanden
+sind. Ebenfalls hat die Staatsanwaltschaft nicht berücksichtigt, dass die
+Kantonspolizei Messungen am Unfallort vorgenommen hat und damit Messdaten
+existieren, welche erlauben würden einen Bericht oder auch ein Gutachten zu erstellen.
+Zum Beweisantrag des Rechtsvertreters der Beschwerdeführerin, der bereits mit
+Eingabe vom 17. November 2009 an die Staatsanwaltschaft den Beizug der
+entsprechenden Messdaten und Bildaufnahmen beantragt hatte, hielt der
+Staatsanwalt fest, „eine nachträgliche Ausmessung der Fahrbahn sowie der
+darauf festgestellten Brems- und Kratzspuren ist nicht rechtserheblich.
+Dessen Ergebnis hätte keinen Einfluss auf die Beurteilung einer rechtlich
+relevanten Beweisfrage“. Dazu muss festgehalten werden, dass keine
+nachträgliche Messung erforderlich ist. Entsprechende Daten sind durch die
+Kantonspolizei Glarus bereits erhoben worden. Aus den erhobenen Daten lässt
+sich sehr wohl ein verkehrstechnisches Gutachten erstellen, das nähere
+Aufschlüsse über den Unfallhergang geben könnte. Die Staatsanwaltschaft hat
+folglich nicht sämtliche entscheidrelevanten Tatsachen berücksichtigt und
+noch nicht alle bedeutsamen Umstände des Unfallhergangs abgeklärt. Die
+Beschwerde ist bereits aus diesem Grund gutzuheissen. Die Staatsanwaltschaft
+wird angewiesen, ein entsprechendes Gutachten zu veran­lassen, zum Beispiel
+beim Forensischen Institut Zürich.
+5.—
+a)
+Die
+Staatsanwaltschaft stellt ein Verfahren insbesondere dann ein, wenn kein
+Tatverdacht erhärtet ist, der eine Anklage rechtfertigt oder kein
+Straftatbestand erfüllt ist (Art. 319 Abs. 1 lit. a und
+lit. b StPO).
+b)
+Nach
+bundesgerichtlicher Rechtsprechung ist im Zweifel Anklage zu erheben. Ein
+Strafverfahren darf nur eingestellt werden, wenn eine Verurteilung mit an
+Sicherheit grenzender Wahrscheinlichkeit ausgeschlossen ist. Als praktischer
+Richtwert kann gelten, dass Anklage erhoben werden muss, wenn eine
+Verurteilung wahrscheinlicher erscheint als ein Freispruch. Dahinter steckt
+die Überlegung, dass bei nicht eindeutiger Beweislage nicht die
+Untersuchungs- oder Anklagebehörden, sondern die für die materielle
+Beurteilung zuständigen Gerichte über einen Vorwurf entscheiden sollen. Bei
+der Anklageerhebung gilt daher der auf die gerichtliche Beweiswürdigung
+zugeschnittene Grundsatz 'in dubio pro reo' nicht. Vielmehr ist nach der
+Maxime 'in dubio pro duriore' im Zweifelsfall Anklage zu erheben. Der
+Grundsatz, dass im Zweifelsfall nicht eingestellt werden darf, ist auch bei
+der gerichtlichen Überprüfung von Einstellungsverfügungen zu beachten (Urteil
+6B_588/2007 E. 3.2.3 mit weiteren Hinweisen; BGE 137 IV 219
+E. 7.1-7.3).
+c)
+Eine eindeutige
+Beweislage ist im vorliegenden Fall vor Einholung des verkehrstechnischen
+Gutachtens nicht gegeben. So sagte der als Auskunftsperson einvernommene
+L.______ aus: „Der Traktor führte das Abbiegmanöver aus, währenddem der
+Motorradfahrer überholte“. Dagegen gab der Beschuldigte bei der polizeilichen
+Einvernahme zu Protokoll, „weiter hinten […] Autos gesehen“ zu haben (ebenso
+sagte er bei der Einvernahme durch den Staatsanwalt aus, er habe das Motorrad
+bei der Kollision zum ersten Mal gesehen). Es ist daher nicht ausgeschlossen,
+dass der Beschuld­ig­te den überholenden Motorradfahrer übersehen hat. Weiter
+ist auch nicht ganz sicher, ob der Beschuldigte den Blinker gestellt hatte.
+Sodann gestand der Beschuldigte ein, beim Abbiegen die Kurve geschnitten zu
+haben. Im Übrigen lässt auch der Spurensicherungsbericht keinen eindeutigen
+Schluss darüber zu, dass der Unfall nicht durch den Beschuldigten verursacht
+worden ist. Zuletzt darf auch nicht vergessen werden, dass die
+Staatsanwaltschaft den Fall zu wenig genau untersuchte, um zum Schluss zu
+gelangen, dass eine Verurteilung mit an Sicherheit grenzender
+Wahrscheinlichkeit ausgeschlossen werden kann, da sie nicht sämtliche
+Beweismittel beigezogen hat (vgl. Erw. III. Ziff. 4. Bst. c
+vorstehend).
+6.—
+Zusammenfassend kann festgehalten werden, dass die Beschwerde
+gutzuheissen ist. Die Strafsache ist zur weiteren Untersuchung an die
+Staatsanwaltschaft zurückzuweisen. Insbesondere ist der Sachverhalt mit Hilfe
+der bei der Kantonspolizei vorhandenen Daten und Fotografien sowie eines
+Gutachtens weiter abzuklären. Im Anschluss ist bei Zweifeln Anklage beim
+Gericht zu erheben, sofern der Fall nicht im Strafbefehlsverfahren erledigt
+werden kann.
+IV.
+1.—
+Bei diesem Ausgang
+sind die Kosten des obergerichtlichen Verfahrens auf die Staatskasse zu
+nehmen (Art. 428 Abs. 1 und Abs. 4 StPO). Nachdem die
+Staatsanwaltschaft das Verfahren in Verletzung des Untersuchungsgrundsatzes
+abgeschlossen hat, rechtfertigt es sich der obsiegenden Beschwerdeführerin
+aus der Staatskasse eine angemessene Parteientschädigung von Fr. 750.-
+auszu­richten.
+2.—
+Infolge Aufhebung der
+Einstellungsverfügung ist die Frage der Ent­schädig­ung für das
+Untersuchungsverfahren gegenstandslos, zumal darauf ohnehin nicht hätte
+eingetreten werden können, da das Beschwerdeverfahren die Anschlussbe­schwerde
+nicht kennt. Ebenso erübrigt sich infolge Unterliegens die vom
+Beschwerdegegner beantragte Einholung einer Kostennote.
+____________________
+Das Gericht
+beschliesst:
+1.
+In Gutheissung der Beschwerde
+wird die Einstellungsverfügung der Staats- und Jugendanwaltschaft des
+Kantons Glarus vom 28. März 2012 im Verfahren SA.2011.0031 bzw.
+VA.2009.00519 aufgehoben und es wird die Sache im Sinne der vorstehenden
+Erwägungen an die Staatsanwaltschaft zurückgewiesen.
+2.
+Die Kosten des
+Beschwerdeverfahrens werden auf die Staatskasse genommen.
+3.
+Der Beschwerdeführerin wird aus
+der Staatskasse eine Parteienschädigung von Fr. 750.- zugesprochen.
+4.
+Schriftliche Mitteilung an:
+[...]
