@@ -1,0 +1,226 @@
+---
+decision_id: "gl_gerichte_OG.2012.00010"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2012.00010"
+docket_2: "OGZ.2013.75"
+decided: "2012-10-25"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=178&W10_KEY=218274&nTrefferzeile=1&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/210/art-028b.md", "switzerland/bund/acts/272/art-248.md", "switzerland/bund/acts/272/art-261.md", "switzerland/bund/acts/272/art-262.md", "switzerland/bund/acts/272/art-263.md", "switzerland/bund/acts/272/art-308.md", "switzerland/bund/acts/272/art-318.md", "switzerland/bund/acts/272/art-320.md", "switzerland/bund/acts/311.0/art-292.md"]
+---
+
+# GL Gerichte OG.2012.00010
+
+## Regeste
+
+Kontakt- und Rayonverbot
+
+## Text
+
+Glarus Obergericht 25.10.2012 OG.2012.00010 (OGZ.2013.75)
+Glaris Obergericht 25.10.2012 OG.2012.00010 (OGZ.2013.75)
+Glarona Obergericht 25.10.2012 OG.2012.00010 (OGZ.2013.75)
+
+Kontakt- und Rayonverbot
+
+Kanton Glarus
+Obergericht
+Urteil
+vom 25. Oktober 2012
+Verfahren
+OG.2012.00010
+1. B.______                                                                                Berufungskläger
+2. C.______
+beide
+vertreten durch D.______
+gegen
+A.______                                                                                    Berufungsbeklagter
+vertreten
+durch E.______
+betreffend
+vorsorgliche
+Massnahmen
+(Kontakt-
+und Rayonverbot)
+Rechtsbegehren der
+Berufungskläger
+(gemäss Eingabe ihrer Rechtsvertreterin vom 1. März
+2012):
+1.
+In Abänderung
+des angefochtenen Entscheids des Kantonsgerichts Glarus vom 26. Januar
+2012, Ziff. 1 des Dispositivs, sei es den Berufungsklägern zu gestat­ten,
+die Liegenschaften Nrn. [...], [...], [...] und [...], alle Grundbuch
+[...], Gemeinde [...], zu folgenden Zwecken zu betreten oder zu durchfahren:
+-
+Säuberung des Alpheus;
+-
+Mähen und Abtransportieren des Alpheus;
+-
+Ausführen der Wartungsarbeiten im Wasserreservoir [...];
+-
+Richten der Abflüsse und des Wassers nach Schlagwetter.
+2.
+In Abänderung
+des angefochtenen Entscheids des Kantonsgerichts Glarus vom 26. Januar
+2012, Ziff. 3 des Dispositivs, sei es den Berufungsklägern zu gestat­ten,
+den Berufungsbeklagten in dringenden Situationen nicht nur auf schriftli­chem
+Weg zu kontaktieren.
+3.
+Alles im Sinne
+der Ausführungen der Berufungskläger sowie unter Kosten- und
+Entschädigungsfolge zu Lasten des Berufungsbeklagten.
+Rechtsbegehren des
+Berufungsbeklagten
+(gemäss Eingabe seines Rechtsver­treters vom
+22. März 2012):
+1.
+Die Berufung sei
+abzuweisen.
+2.
+Alles unter
+solidarischer Kosten- und Entschädigungsfolge und zusätzlich Mehr­wertsteuerzuschlag
+zulasten der Berufungskläger.
+¾¾¾¾¾¾¾¾¾¾¾
+Das
+Gericht zieht in Betracht:
+1.—
+Auf Begehren von A.______ verfügte der Kantonsgerichtspräsident im Ver­fahren
+ZG.2012.00042 am 26. Januar 2012 vorsorgliche Massnahmen: Er verbot
+B.______ und C.______ unter der Strafandrohung gemäss Art. 292 StGB, die
+Liegenschaften von A.______ im Berggebiet von [...] zu betreten oder zu
+befahren. Zudem wurde ihnen verboten, sich A.______ freiwillig auf weniger
+als 30 Meter zu nähern; auch ist ihnen eine allfällige Kontaktaufnahme
+zu A.______ nur noch auf dem schriftlichen Weg erlaubt. Diese als vorsorg­liche
+Massnahmen erlassenen Anordnungen fallen dahin, sofern A.______ nicht bis zum
+31. Januar 2013 ein ordentliches Verfahren zum Schutz seiner Persönlich­keit
+einleitet.
+2.—
+Gegen diesen Entscheid liessen B.______ und C.______ am 1. März 2012
+durch ihre nunmehrige Rechtsvertreterin Berufung mit den eingangs wieder­gegebenen
+Anträgen erheben. Am 28. Juni 2012 fand eine Instruktionsver­handlung
+vor dem Obergerichts­präsidenten statt. Die dabei angestrebte vergleichs­weise
+Streitbeilegung scheiterte.
+3.—
+Entscheide über vorsorgliche Massnahmen in einer nicht vermögensrecht­lichen
+Angelegenheit sind beim Obergericht mit Beru­fung anfechtbar (Art. 308
+Abs. 1 lit. b ZPO), wobei die Beschwerdefrist 10 Tage be­trägt
+(Art. 314 Abs. 1 in Verbindung mit Art. 248 lit. d ZPO).
+Nachdem das Kantons­gerichtspräsidium den begründeten Massnahmenentscheid vom
+26. Januar 2012 am Freitag, 17. Februar 2012 mit eingeschriebener
+Post versandt hat, ist die Zustellung an die Berufungskläger glaubhaft erst
+am Montag, 20. Februar 2012 erfolgt, womit die Berufung am 1. März
+2012 rechtzeitig erhoben worden ist.
+4.—
+a)
+Mit Berufung kann geltend gemacht werden, die Vorinstanz habe das Recht
+unrichtig angewendet oder habe den Sachverhalt unrichtig fest­gestellt
+(Art. 320 ZPO). Dabei ist in der Berufungsschrift darzulegen, aus wel­chen
+Gründen der angefochtene Entscheid falsch sei und deshalb geändert werden
+müsse (
+Gasser/Rickli
+,
+Schweizerische Zivilprozessordnung, Art. 311 N 4 ff.).
+b)
+Gemäss Art. 261 Abs. 1 ZPO trifft das Gericht die notwendigen
+vorsorglichen Massnahmen, wenn die gesuchstellende Partei glaubhaft macht,
+dass ein ihr zu­stehender Anspruch verletzt ist oder eine Verletzung zu
+befürchten ist und ihr aus der Verletzung ein nicht leicht wieder
+gutzumachender Nachteil droht. Als vorsorgli­che Massnahme ist jede
+gerichtliche Anordnung denkbar, die geeignet ist, den dro­henden Nachteil
+abzuwenden (Art. 262 ZPO). Zum Schutz gegen Gewalt, Drohun­gen oder
+Nachstellungen sind in Art. 28b ZGB spezifische Abwehrmassnahmen
+statuiert. Danach kann das Gericht der verletzenden Person namentlich
+verbieten, sich der gesuchstellenden Person anzunähern oder sich in einem
+bestimmten Um­kreis ihrer Wohnung aufzuhalten oder mit ihr Kontakt
+aufzunehmen (Art. 28b Abs. 1 Ziff. 1 und 3). Ordnet das
+Gericht vorsorgliche Massnahmen an, noch bevor die gesuchstellende Person
+einen Hauptprozess eingeleitet hat, so setzt es der gesuchstellenden Partei
+eine Frist an zur Einreichung der Klage, mit der Andro­hung, die angeordnete
+Massnahme falle bei ungenutztem Ablauf der Frist ohne weiteres dahin
+(Art. 263 ZPO).
+c)
+Die Berufungskläger verlangen mit ihrer Berufung nicht die vollständige Aufhe­bung
+der angefochtenen einstweiligen Verbotsverfügung vom 26. Januar 2012.
+Aus ihrer Sicht soll das Verbot jedoch dahingehend aufgeweicht werden, als
+ihnen ermöglicht werden soll, die Liegenschaften des Berufungsbeklagten zu
+betreten zum Zweck der Bewirtschaftung ihrer Alpheuteile im obgelegenen [...]
+so­wie für Wartungsarbeiten beim gemeindeeigenen Reservoir [...] und die gele­gentliche
+Säuberung der Abflussrohre im Gelände; zudem wollen sie den Beru­fungsbeklagten
+in dringenden Situationen nicht bloss auf schriftlichem Weg kon­taktie­ren
+können. Die Berufungskläger begründen ihre Anträge mit einem drohenden
+wirtschaftlichen Schaden, der ihnen durch die auferlegten Einschrän­kungen
+erwachsen würde; sie kritisieren damit die verfügten Anordnungen als
+unverhältnismässig und sehen darin implizit eine unrichtige Rechtsanwendung.
+d)
+Die in der Berufung vorgetragene Argumentation verfängt nicht. B.______ und
+C.______ sind durch die angefochtene, bis Ende Januar 2013 befristete Ver­botsverfügung
+nicht daran gehindert, die Heuernte auf ihren Pachtwiesen im [...]
+vorzunehmen. Sie selber können, wie anlässlich der Instruktionsver­handlung
+am 28. Juni 2012 unbestritten blieb, die Parzellen zu Fuss erreichen,
+ohne da­bei den Fahrweg über die Liegen­schaften von A.______ zu
+beanspruchen. Für die Herbeiführung der zum Mä­hen benötigten Gerätschaften
+sowie den Ab­transport des Heus ist es ihnen zumut­bar, eine auf
+landwirtschaftlichen Fahrzeugen geübte Drittperson beizuziehen. Insofern
+droht ihnen kein relevanter Verdienstaus­fall. Gleich verhält es sich in
+Bezug auf Kontrollgänge beim gemeindeeigenen Reservoir sowie die
+gelegentliche Säuberung der Abflussrohre im Gelände. Soweit diese Anlagen und
+Vorrichtungen nicht auf Fusswegen aus­serhalb der Grundstücke von A.______
+erreicht werden können, ist es ebenfalls zumutbar, eine Drittper­son
+beizuziehen. Ebenso können sie eine Drittperson beauftragen, in dringlichen
+Angelegenheiten mit A.______ Kontakt aufzunehmen, sollte dafür der postali­sche
+Weg nicht zielführend sein. Die vorinstanzlichen Anordnungen erweisen sich
+damit im Ergebnis für die Berufungskläger hinsichtlich der betroffenen
+Tätaigkeitsbe­reiche zwar als erschwerend, sind aber nicht derart
+einschneidend, dass ihnen die Ausübung der fraglichen Verrichtungen
+schlechterdings unmöglich wäre. Sodann sind die auferlegten Einschränkungen
+dem Anlass gegenüberzustellen, welcher für den Erlass der vorsorglichen
+Verbotsverfügung ausschlaggebend war. Die Vor­instanz hat die von A.______
+geschilderte, seit Jahren belastete Situation zwi­schen den Parteien, sowie
+den berichteten tätlichen Übergriff von C.______ am 6. Januar 2012 für
+glaubhaft erachtet und vor diesem Hintergrund die strittigen Massnahmen
+verfügt. Die Berufungskläger bringen in sachverhaltsmässiger Hinsicht keine
+Einwendungen vor, welche die Entschei­dungsgrundlage der Vorinstanz zu
+erschüttern vermögen. Hat sich aber am 6. Januar 2012 auf dem Grundstück
+von A.______ effektiv eine tätliche Ausei­nandersetzung zwischen ihm und
+C.______ zugetragen, so sind, unbe­sehen um die strafrechtliche Schuldfrage,
+die von der Vorinstanz befristet ver­fügten Anordnungen im Lichte von
+Art. 262 ZPO und Art. 28b ZGB gerechtfertigt und ver­hältnismässig.
+Infolgedessen gründet der angefochtene Entscheid weder auf einer unrichtigen
+Sachverhaltsermittlung noch auf einer fehlerhaften Rechtsanwen­dung
+(Art. 320 ZPO).
+5.—
+Damit ist die Berufung abzuweisen und der angefochtene vorsorgliche Mass­nahmenentscheid
+zu bestätigen (Art. 318 Abs. 1 lit. a ZPO). Bei diesem Aus­gang
+werden die Berufungskläger für das obergerichtliche Verfahren kostenpflichtig
+und haben überdies dem Berufungsbeklagten eine angemessene Parteientschädi­gung
+zu bezahlen (Art. 106 Abs. 1 i.V.m. Art. 95 f. ZPO sowie
+Art. 3 der kantonalen Verordnung zu den Kosten im Zivil- und
+Strafprozess [GS III A/5] und Art. 20 Abs. 1 EG ZPO
+[GS III C/1]). In Übereinstimmung mit der Vorinstanz lässt sich
+vorliegend ein Streitwert nicht beziffern.
+¾¾¾¾¾¾¾¾¾¾¾
+Das
+Gericht erkennt:
+1.
+Die Berufung
+wird abgewiesen und die vorsorgliche Massnahmenverfügung des Präsidenten
+des Kantonsgerichts Glarus vom 26. Januar 2012 im Verfahren
+ZG.2012.00042 bestätigt.
+2.
+Die
+Pauschalgerichtsgebühr für das Berufungsverfahren von Fr. 600.‑
+wird den Berufungsklägern auferlegt und mit
+dem geleisteten Kostenvorschuss verrechnet.
+3.
+Die
+Berufungskläger werden unter solidarischer Haftbarkeit verpflichtet, dem
+Beru­fungsbeklagten für das obergerichtliche Verfahren eine
+Parteientschädigung von Fr. 800.‑
+zu bezahlen.
+4.
+Schriftliche
+Mitteilung an:
+[...]
