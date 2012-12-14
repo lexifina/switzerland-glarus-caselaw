@@ -1,0 +1,512 @@
+---
+decision_id: "gl_gerichte_OG.2009.00045"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2009.00045"
+docket_2: "OGZ.2013.71"
+decided: "2012-12-14"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=161&W10_KEY=218274&nTrefferzeile=10&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/210/art-685.md", "switzerland/bund/acts/210/art-686.md", "switzerland/bund/acts/220/art-041.md", "switzerland/bund/acts/272/art-057.md", "switzerland/bund/acts/272/art-132.md", "switzerland/bund/acts/272/art-139.md", "switzerland/bund/acts/272/art-156.md", "switzerland/bund/acts/272/art-159.md", "switzerland/bund/acts/272/art-301.md", "switzerland/bund/acts/272/art-302.md", "switzerland/bund/acts/272/art-404.md"]
+---
+
+# GL Gerichte OG.2009.00045
+
+## Regeste
+
+Wiederherstellung des gesetzmässigen Zustandes
+
+## Text
+
+Glarus Obergericht 14.12.2012 OG.2009.00045 (OGZ.2013.71)
+Glaris Obergericht 14.12.2012 OG.2009.00045 (OGZ.2013.71)
+Glarona Obergericht 14.12.2012 OG.2009.00045 (OGZ.2013.71)
+
+Kanton Glarus
+Obergericht
+Urteil
+vom 14. Dezember 2012
+Verfahren
+OG.2009.00045 und OG.2009.00046
+C.______
+Berufungskläger
+vertreten
+durch D.______
+Vertreter,
+gegen
+1. A.______
+Berufungsbeklagter
+2. B.______
+Berufungsbeklagte
+betreffend
+Wiederherstellung
+des gesetzmässigen Zustandes (OG.2009.00045)
+und
+Schadenersatz
+wegen missbräuchlicher Baueinsprache (OG.2009.00046)
+Rechtsbegehren des
+Berufungsklägers
+(gemäss Eingabe vom 9. November 2009 und Plädoyer
+vom 22. Juni 2012):
+„Rechtsbegehren im Verfahren
+OG.2009.00045
+1.
+Es sei der Entscheid des
+Kantonsgerichts vom 15. September 2009 aufzuheben.
+2.
+Es seien die jeweiligen
+Eigentümer der Liegenschaft Nr. [...], Grundbuch [...], Gemeinde
+[...], derzeit die Berufungsbeklagten, zu verpflichten, die auf der
+Liegenschaft Nr. [...], Grundbuch [...], Gemeinde [...], erstellte
+Holzhütte abzubrechen.
+3.
+Eventualiter seien die
+jeweiligen Eigentümer der Liegenschaft Nr. [...], Grundbuch [...],
+Gemeinde [...], derzeit die Berufungsbeklagten, zu verpflichten, die auf
+der Liegenschaft Nr. [...], Grundbuch [...], Gemeinde [...], stehende
+Holzhütte so zu verschieben, dass der gesetzliche Grenzabstand von
+1.50 Metern eingehalten ist.
+4.
+Subeventualiter seien die
+jeweiligen Eigentümer der Liegenschaft Nr. [...], Grundbuch [...],
+Gemeinde [...], derzeit die Berufungsbeklagten, zu verpflichten, dem
+Berufungskläger eine Entschädigung in Schweizer Franken nach Ermessen des
+Gerichts zu bezahlen.
+5.
+Es seien für den Fall der
+Verweigerung die nötigen Vollstreckungsmassnahmen anzuordnen.
+6.
+Es seien sämtliche Gerichts-
+und Parteiakten des erstinstanzlichen Verfahrens (ZG.2008.00768)
+beizuziehen.
+7.
+Alles unter Kosten- und Entschädigungsfolge
+und zusätzlich Mehrwertsteuerzusatz zulasten der Berufungsbeklagten.“
+Rechtsbegehren im Verfahren
+OG.2009.00046
+„1.
+Es sei der Entscheid des
+Kantonsgerichts vom 15. September 2009 aufzuheben.
+2.
+Es sei der Berufungsbeklagte zu
+verpflichten, dem Berufungskläger CHF 3‘277.95 nebst Zins zu 5 %
+seit 1. Dezember 2008 auf CHF 441.40 sowie seit 1. Januar
+2009 auf CHF 2‘836.55 zu bezahlen.
+3.
+Es seien sämtliche Gerichts-
+und Parteiakten des erstinstanzlichen Verfahrens (ZG.2008.00360)
+beizuziehen.
+4.
+Alles unter Kosten- und
+Entschädigungsfolge und zusätzlich Mehrwertsteuerzusatz zulasten des
+Berufungsbeklagten.“
+Antrag de
+r
+Berufungsbeklagten
+(gestellt an der mündlichen Hauptverhandlung vom
+22. Juni 2012, sinngemäss):
+1.
+Es seien die Entscheide des
+Kantonsgerichts vom 15. September 2009 in den Verfahren ZG.2008.00768
+und ZG.2008.00360 zu bestätigen.
+2.
+Alles unter Kosten- und
+Entschädigungsfolge zulasten des Berufungsklägers.
+____________________
+Das Gericht
+zieht in Betracht:
+I.
+(Sachverhalt
+und Prozessgeschichte)
+1.—
+a)
+Die
+vorliegenden Verfahren beschlagen einen nachbarschaftlichen Streit zwischen
+C.______ auf der einen sowie A.______ und B.______ auf der anderen Seite.
+C.______ ist seit 6. März 2007 Eigentümer des Grundstücks
+Nr. [...], Grundbuch [...]. A.______ und B.______ halten das Grundstück
+Nr. [...], Grundbuch [...], seit 28. September 1999 in je hälftigem
+Miteigentum. Die beiden Grundstücke grenzen aneinander.
+b)
+Auf dem Grundstück von
+A.______ und B.______ steht unmittelbar angrenzend an das Grundstück von
+C.______ ein Holzschuppen; die Situation stellt sich folgendermassen dar: […]
+2.—
+Am 12. Dezember 2007
+stellte C.______ bei der Gemeinde [...] ein Baugesuch für Abbruch und Neubau
+eines Einfamilienhauses, welches am 14. Februar 2008 im Amtsblatt des
+Kantons Glarus publiziert wurde. Gegen dieses Bauvorhaben erhob A.______ am
+11. April 2008 beim Kantonsgericht eine privatrechtliche Baueinsprache
+(ZG.2008.00331).
+3.—
+In der Folge machte
+C.______ mit Eingabe vom 22. April 2008 widerklageweise gegen A.______
+eine Schadenersatzforderung in der Höhe von Fr. 20‘000.- geltend, welche
+er an der erstinstanzlichen Hauptverhandlung auf Fr. 3‘277.95 nebst Zins
+zu 5 % seit 1. Dezember 2008 reduzierte (OG.2009.00046).
+4.—
+Am 16. Juni 2008
+zog A.______ die Baueinsprache zurück, worauf der Kantonsgerichtspräsident
+mit Verfügung vom 18. August 2008 das Baueinspracheverfahren als durch
+Rückzug der Klage erledigt abschrieb (Dispositiv Ziff. 1 im Verfahren
+ZG.2008.00331).
+5.—
+Darauf leitete
+C.______ am 4. September 2008 gegen A.______ und B.______ Klage auf
+Wiederherstellung des gesetzmässigen Zustandes ein. Er beantragte hierbei den
+Abriss des Holzschuppens, welcher an der Grenze zu seinem Grundstück steht.
+6.—
+Das Kantonsgericht
+wies die Schadenersatzklage mit Urteil vom 15. September 2009 ab, soweit
+sie nicht zurückgezogen worden war (Dispositiv Ziff. 1 im Verfahren
+OG.2009.00046). Die Gerichtsgebühr für das Verfahren ZG.2008.00360 von
+Fr. 1‘500.- samt Vermittlungskosten von Fr. 175.- wurde C.______
+auferlegt, der überdies verpflichtet wurde, A.______ und B.______ eine
+Parteientschädigung von Fr. 1‘500.- zu bezahlen (Dispositiv
+Ziff. 2-4 im Verfahren OG.2009.00046).
+7.—
+Im Verfahren
+betreffend Wiederherstellung des gesetzmässigen Zustandes wies das
+Kantonsgericht die Klage am 15. September 2009 ebenfalls ab (Dispositiv
+Ziff. 1 im Verfahren OG.2009.00045). Die Gerichtsgebühr setzte das
+Gericht fest auf Fr. 2‘000.- und auferlegte sie mitsamt den
+Vermittlungskosten von Fr. 175.- ebenfalls C.______, welcher
+verpflichtet wurde, A.______ und B.______ für dieses Verfahren eine
+Parteientschädigung von Fr. 2‘000.- zu bezahlen (Dispositiv
+Ziff. 2-4 im Verfahren OG.2009.00045).
+8.—
+Gegen diese beiden
+Urteile ging C.______ am 9. November 2009 fristgerecht in Berufung
+(OG.2009.00045 und OG.2009.00046).
+9.—
+Mit Eingabe vom
+15. Juli 2011 erhöhte der damalige Rechtsvertreter von C.______ die
+eingeklagte Schadenersatzforderung von Fr. 3‘277.95 auf
+Fr. 25‘443.35. An der Berufungsverhandlung reduzierte der neue
+Rechtsvertreter die geltend gemachte Forderung wieder auf Fr. 3‘277.95
+nebst Zins (OG.2009.00046).
+10.—
+Am 16. September
+2011 fand eine Instruktionsverhandlung mit einem Augenschein an Ort und
+Stelle des Rechtsstreits statt. Es konnte keine Einigung herbeigeführt werden
+(OG.2009.00045).
+11.—
+Die
+Berufungsverhandlung fand am 22. Juni 2012 statt. Auf die Vorbringen der
+Parteien wird, soweit erforderlich, in den nachfolgenden Erwägungen
+eingegangen. Im Übrigen wird auf das bei den Gerichtsakten liegende
+Handprotokoll der Gerichtsschreiberin sowie auf die Plädoyernotizen des
+Rechtsvertreters von C.______ sowie jene von A.______ verwiesen.
+12.—
+Das Obergericht
+wendet das Recht von Amtes wegen an (Art. 57 ZPO). Es ist damit nicht an
+die von den Parteien geltend gemachten Argumente gebunden; es kann eine Klage
+aus anderen als den geltend gemachten Gründen gutheissen oder abweisen (vgl.
+Gehri/Flütsch
+, in: Gehri/Kramer
+[Hrsg.], Schweizerische Zivilprozessordnung, Zürich 2010, Art. 57
+N 3 m. w. H.).
+II.
+(Prozessuales)
+1.—
+Am 1. Januar 2011
+ist die eidgenössische Zivilprozessordnung in Kraft getreten. Zu diesem
+Zeitpunkt anhängige Verfahren sind bis zum Abschluss vor der betroffenen
+Instanz nach bisherigem Verfahrensrecht abzuwickeln (Art. 404
+Abs. 1 ZPO CH). Die vorliegend zu beurteilenden Berufungen sind beim
+Obergericht seit 9. November 2009 anhängig. Die Verfahren richten sich
+daher weiterhin nach der früheren kantonalen Zivilprozessordnung (ZPO).
+2.—
+a)
+Im
+Berufungsverfahren können neue Beweismittel eingebracht werden; diese müssen
+mit der Berufungserklärung eingereicht und bezeichnet werden (Art. 301
+Abs. 3 ZPO). Die Gegenpartei hat innert 30 Tagen seit Mitteilung der
+Berufung die Möglichkeit, neue Beweismittel einzureichen oder zu bezeichnen
+(Art. 302 Abs. 2 ZPO).
+b)
+C.______ hat mit den
+Berufungserklärungen keine neuen Beweismittel in das obergerichtliche
+Verfahren eingebracht. Erst am 15. Juli 2011 reichte sein
+Rechtsvertreter neue Beweismittel ein und begründete die Verspätung damit,
+dass die Beweismittel nicht rechtzeitig eingebracht werden konnten.
+C.______ macht nicht glaubhaft,
+dass eine frühere Einbringung der Beweismittel in den Prozess unmöglich war.
+Daher sind diese Unterlagen aus dem Recht zu weisen. Aus dem Recht zu weisen
+ist ebenso die Fotodokumentation, welche C.______ an der obergerichtlichen
+Verhandlung einreichte.
+c)
+Mit Schreiben vom
+10. November 2009 wurde A.______ und B.______ die Berufung mitgeteilt.
+Innert Frist beantragten sie keine neuen Beweismittel. Sämtliche Eingaben,
+welche im obergerichtlichen Verfahren später erfolgten, sind aus dem Recht zu
+weisen.
+III.
+(Anwendbares
+Recht)
+1.—
+Seit dem 1. Juli
+2011 ist das Raumentwicklungs- und Baugesetz vom 2. Mai 2010
+(RBG 2010) in Kraft, welches das Raumplanungs- und Baugesetz vom
+1. Mai 1988 (RBG 1988) ablöste.
+2.—
+Es stellt sich die
+Frage, ob das Raumplanungs- und Baugesetz vom 1. Mai 1988 oder das
+Raumentwicklungs- und Baugesetz vom 2. Mai 2010 anwendbar ist. Die
+Übergangsregelung von Art. 87 Abs. 1 RBG 2010 betrifft einzig
+hängige Baugesuche und Planungen, nicht aber andere hängige Verfahren,
+weshalb sie vorliegend nicht einschlägig ist.
+3.—
+Vorliegend ist ein
+Sachverhalt zu beurteilen, auf welchen im vorinstanzlichen Verfahren noch das
+Raumplanungs- und Baugesetz vom 1. Mai 1988 anwendbar war. Da rechtliche
+Wirkungen und Tatsachen beurteilt werden müssen, die vor dem Inkrafttreten
+des Raumentwicklungs- und Baugesetzes vom 2. Mai 2010 eingetreten sind,
+ist im vorliegenden Verfahren weiterhin das Raumplanungs- und Baugesetz vom
+1. Mai 1988 anzuwenden (vgl. auch Art. 1 Abs. 1 SchlT ZGB).
+IV.
+(Erwägungen
+im Verfahren OG.2009.00046)
+1.—
+Über
+Schadenersatzansprüche wegen missbräuchlicher oder mutwilliger Einsprachen
+wird im ordentlichen Zivilprozess entschieden (Art. 42 RBG 1988).
+Die Schadenersatzansprüche werden nach dem Obligationenrecht
+(Art. 41 ff. OR) beurteilt.
+2.—
+a)
+Wer einem
+andern widerrechtlich Schaden zufügt, sei es mit Absicht, sei es aus
+Fahrlässigkeit, wird ihm zum Ersatze verpflichtet (Art. 41 Abs. 1
+OR). Ebenso ist zum Ersatze verpflichtet, wer einem anderen in einer gegen
+die guten Sitten verstossenden Weise absichtlich Schaden zufügt (Art. 41
+Abs. 2 OR).
+b)
+Seine Schadenersatzforderung begründet C.______ damit, dass
+die
+Baueinsprache und die darauf folgende Bauverzögerung zur Folge gehabt habe,
+dass er der finanzierenden Bank Anzahlungen habe leisten müssen; die
+Zinsbelastung belaufe sich auf insgesamt Fr. 3‘277.95. Wegen der
+missbräuchlichen Baueinsprache habe er diese Zinskosten bezahlen müssen,
+obwohl er das Bauvorhaben zu diesem Zeitpunkt noch gar nicht realisiert
+hatte. Der Schaden sei „letztlich in der durch die missbräuchliche
+Baueinsprache doppelten finanziellen Belastung für den Berufungskläger
+(Baukreditzinsen für das Bauvorhaben und Mietzinsen am alten Wohnort) zu
+erblicken“.
+3.—
+a)
+Wie die
+Vorinstanz richtig festgestellt hat, ist die privatrechtliche Klage gegen
+Bauvorhaben ein Rechtsbehelf, der die Interessen des Einsprechers bei der
+Bebauung eines benachbarten Grundstücks wahrt, wobei sie nur missbräuch­lich
+ist, wenn mit ihr Zwecke verfolgt werden, für welche sie nicht bestimmt ist,
+nicht aber bereits, wenn sie sich schliesslich als erfolglos erweist.
+b)
+Wie das Kantonsgericht
+ausführte, ist gerichtsnotorisch, dass der Betrieb von
+Luft-Wasser-Wärmepumpen Lärm verursachen kann. Dass A.______ deswegen
+privatrechtliche Klage erhob, lässt nicht auf einen Missbrauch von
+Verfahrensrechten schliessen, zumal aus den Planungsunterlagen keine Details
+und insbesondere keine technischen Angaben über die Lärmemissionen der
+geplanten Anlage hervorgingen. A.______ konnte daher nicht abschätzen, ob die
+Anlage am geplanten Standort übermässigen Lärm verursacht. Immerhin zog
+A.______ die privatrechtliche Klage gegen das Bauvorhaben von C.______
+zurück, nachdem dessen damaliger Rechtsvertreter versichert hatte, dass die
+Luft-Wasser-Wärmepumpe den in der Lärmschutzverordnung festgelegten
+Planungswert einhalte. A.______ hatte ein berechtigtes Interesse, Angaben
+über die geplante Wärmepumpe zu erhalten. Die Schadenersatzklage von C.______
+ist daher abzuweisen. Im Übrigen kann vollumfänglich auf die zutreffenden
+Erwägungen der Vorinstanz verwiesen werden.
+V.
+(Erwägungen
+im Verfahren OG.2009.00045)
+1.—
+a)
+Die
+Baubehörde verfügt nach den Vorschriften des Gesetzes über die
+Verwaltungsrechtspflege die Änderung oder die Entfernung widerrechtlich
+erstellter Bauten, sofern die Abweichung gegenüber den Bauvorschriften nicht
+geringfügig ist (Art. 46 Abs. 1 RBG 1988). Vorbehalten bleibt
+die Zuständigkeit des Zivilgerichts bei Verletzung privater Rechte
+(Art. 46 Abs. 3 RBG 1988). Wer die Verletzung privater Rechte
+– im Rahmen eines Baueinspracheverfahrens – geltend macht, kann binnen
+14 Tagen seit der Publikation im Amtsblatt Vermittlung am Ort der
+gelegenen Sache einleiten (Art. 41 RBG 1988).
+b)
+Soweit C.______
+vorbringt, es seien Vorschriften des Raumplanungsgesetzes verletzt worden,
+kann auf sein Begehren grundsätzlich nicht eingetreten werden, da die
+Zivilgerichte insoweit unzuständig sind. Dies hat bereits die Vorinstanz
+richtig festgehalten.
+2.—
+a)
+C.______
+kann nur die Verletzung privater Rechte geltend machen; die Missachtung von
+öffentlich-rechtlichen Grenzabstandsvorschriften kann er nicht rügen (vgl.
+Erw. V. Ziff. 1 Bst. a vorstehend).
+b)
+Wie die Vorinstanz
+richtig feststellt, sind die Kantone befugt, die Abstände festzusetzen, die
+bei Grabungen und Bauten zu beobachten sind (Art. 686 Abs. 1 ZGB).
+c)
+Art. 685 ZGB und
+Art. 686 ZGB gehören zum privatrechtlichen Baurecht. Das Bau- und
+Planungsrecht wird in zunehmendem Ausmass durch das öffentliche Recht des
+Bundes, der Kantone und der Gemeinden geregelt. Die meisten Kantone haben
+gestützt auf das Bundesgesetz vom 22. Juni 1979 über die Raumplanung (RPG)
+das Planungs- und Baurecht durch öffentliches Recht geregelt (BSK ZGB II-
+Rey/Strebel
+, Art. 685/686
+N 1 ff.). In der Zeit zwischen dem Inkrafttreten des ZGB und jenem
+öffentlich-rechtlicher kantonaler Bau- und Planungsvorschriften regelten die
+Kantone die Grenz- und Gebäudeabstände in ihren Einführungs­gesetzen zum ZGB.
+Dabei handelt es sich um kantonales Privatrecht. Diese Rechtsnatur kommt den
+entsprechenden Bestimmungen auch heute noch zu, sofern sie nicht durch das
+Inkrafttreten kantonaler öffentlich-rechtlicher Bau- und Planungsgesetze
+aufgehoben worden sind. Die Grenz- und Gebäudeabstände sind mittlerweile denn
+auch in den meisten Kantonen in den öffentlich-rechtlichen Bau- und
+Planungsgesetzen sowie den entsprechenden Ausführungserlassen geregelt (BSK
+ZGB II-
+Rey/Strebel
+,
+Art. 685/686 N 17). Zu prüfen ist daher im Einzelfall, ob eine
+Abstandsvorschrift privatrechtlichen oder öffentlich-rechtlichen Charakter
+hat. Ergibt sich, dass eine solche Norm öffentlich-rechtlicher Natur ist,
+muss untersucht werden, ob es sich dabei allenfalls um eine Doppelnorm
+handelt. In der seit Inkrafttreten des RPG erlassenen kantonalen Bau- und
+Planungsgesetzgebung dürften sich allerdings nur wenige Doppelnormen finden. Dies
+zeigt sich vor allem darin, dass eine Verletzung einer Abstandvorschrift
+ausschliesslich im Verwaltungsverfahren zu rügen ist und daneben nicht auch
+im Zivilprozess geltend gemacht werden kann (BSK ZGB II-
+Rey/Strebel
+, Art. 685/686
+N 18). Als Doppelnormen werden Gesetzesbestimmungen bezeichnet, welche
+sowohl privatrechtlichen als auch öffentlich-rechtlichen Charakter haben.
+Deren praktische Bedeutung besteht darin, dass sie von der Verwaltung
+gegenüber dem Grundeigentümer auf dem Verwaltungsweg, vom Nachbarn hingegen
+auf dem Zivilweg durchgesetzt werden können (BSK ZGB II-
+Rey/Strebel
+, Art. 680 N 5).
+d)
+Der Kanton Glarus hat
+das Raumplanungs- und Baurecht früher im Raumplanungs- und Baugesetz geregelt
+und heute im Raumentwicklungs- und Baugesetz. Im Einführungsgesetz zum
+Zivilgesetzbuch finden sich heute keine Abstandsvorschriften zu Grabungen und
+Bauten mehr (vgl. Art. 122 - 129
+ter
+EG ZGB; teilweise
+aufgehoben). Das EG ZGB regelt in Art. 129 Abs. 1 aber noch:
+„Die frei stehende Ablagerung
+von Holz und andern Gegenständen und das Anbringen körperlicher Vorrichtungen
+bis auf eine Höhe von 2 Metern darf nur in einer Entfernung von 50
+Zentimetern, und, wenn sie vor Fensteröffnungen und Gärten zu stehen kommen,
+nur in einer Entfernung von 90 Zentimetern vom nachbarlichen Grundeigentum
+stattfinden.“
+e)
+Vorliegend steht der
+strittige Schuppen an der Grenze des Grundstücks Nr. [...] im Grundbuch
+[...] (vgl. Erw. I. Ziff. 1. Bst. b); für einen Schuppen der
+vorliegenden Art wäre ein Grenzabstand von mindestens 50 Zentimeter
+einzuhalten. Folglich sind die Abstandsvorschriften des EG ZGB nicht
+eingehalten, weshalb nachfolgend zu prüfen ist, ob dafür eine Rechtfertigung
+besteht.
+f)
+Eine dingliche
+Berechtigung zur Begründung eines Näherbaurechts besteht nicht (vgl. die
+Grundbuchauszüge im Verfahren OG.2009.00046).
+g)
+Sodann besteht
+hinsichtlich des Schuppens keine obligatorische Berechtigung von A.______
+gegenüber C.______. Eine solche ist auch zwischen A.______ und dem
+Rechtsvorgänger von C.______ nicht erwiesen.
+h)
+Vielmehr muss von einer
+prekaristischen Gestattung ausgegangen werden, was bedeutet, dass eine Person
+einer anderen auf Zusehen hin und mit dem Vorbehalt des jederzeitigen
+Widerrufs eine Erlaubnis erteilt. Nach der Lehre wird dadurch kein subjektives
+Recht begründet. Solange der Eigentümer die Erlaubnis gewährt, ist der
+Zustand nicht widerrechtlich (
+Schmid/Hürlimann-Kaup
+,
+Sachenrecht, 3. Auflage, Zürich 2009, Rz. 1202). C.______ ist nicht
+gewillt, eine solche Erlaubnis zu erteilen, weshalb er von A.______ und
+B.______ die Entfernung des Schuppens verlangen kann.
+3.—
+Die Klage betreffend
+Widerherstellung des gesetzlichen Zustandes ist damit gutzuheissen. A.______
+und B.______ ist für den Abbruch des Holzschuppens eine angemessene Frist
+einzuräumen.
+VI.
+(Kosten-
+und Entschädigungsregelung)
+1.—
+C.______ unterliegt im
+Verfahren betreffend Schadenersatz (OG.2009.00046), dagegen obsiegt er im
+Verfahren betreffend Wiederherstellung des gesetzmässigen Zustandes
+(OG.2009.00045). Ausgangsgemäss sind die Gerichtskosten für das Verfahren
+OG.2009.00046 C.______, jene für das Verfahren OG.2009.00045 A.______ und
+B.______ aufzuerlegen (Art. 132 ff. ZPO)
+. Jede Partei
+hat die Gegenpartei im gleichen Verhältnis für die Parteikosten zu
+entschädigen, wie ihr Kosten auferlegt worden sind (Art. 139 Abs. 1
+ZPO). Dementsprechend ist C.______ eine angemessene Parteientschädigung von
+Fr. 2‘000.- zuzusprechen. Da A.______ und B.______ im obergerichtlichen
+Verfahren nicht anwaltlich vertreten waren, haben sie keinen Anspruch auf
+eine Parteientschädigung.
+2.—
+Im Berufungsverfahren OG.2009.00046 beträgt der Streitwert
+Fr. 3‘277.95
+(Rechtsbegehren Ziff. 2; vgl.
+Vogel/Spühler
+,
+Grundriss des Zivilprozessrechts, 8. Auflage, Bern 2006, 4. Kapitel
+Rz. 95)
+. Im Berufungsverfahren OG.2009.00045 ist der
+Streitwert zu schätzen; er beträgt weniger als Fr. 10‘000.-
+(Art. 156 ZPO i.V.m. Art. 159 ZPO).
+____________________
+Das Gericht
+erkennt
+:
+1.
+In Gutheissung der Berufung im Verfahren OG.2009.00045
+werden Ziff. 1-4 des Urteils der Vorinstanz vom 15. September
+2009 (im Verfahren ZG.2008.00768) aufgehoben und neu festgesetzt:
+1.1.
+Die Klage wird gutgeheissen und es werden A.______ und
+B.______ verpflichtet, den auf Parzelle Nr. [...], Grundbuch [...],
+angrenzend an das Grundstück Nr. [...], Grundbuch [...], erstellten
+Holzschuppen bis am 30. April 2013 abzubrechen.
+1.2.
+C.______ wird ermächtigt, nötigenfalls direkt bei der
+Kantonspolizei des Kantons Glarus polizeiliche Vollstreckungshilfe auf
+Kosten von A.______ und B.______ anzufordern. Die Kantonspolizei kann einen
+Kostenvorschuss verlangen.
+1.3.
+Die Gerichtsgebühr für das erstinstanzliche Verfahren
+ZG.2008.00768 von Fr. 2‘000.- und die Vermittlungskosten von
+Fr. 175.- werden, unter solidarischer Haftung, A.______ und B.______
+auferlegt.
+1.4.
+A.______ und B.______ werden verpflichtet, C.______ für
+das Verfahren ZG.2008.00768 eine Parteientschädigung von Fr. 2‘000.-
+zu bezahlen.
+2.
+Die Berufung im Verfahren OG.2009.00046 wird abgewiesen.
+3.
+Die Gerichtsgebühr für das obergerichtliche Verfahren
+OG.2009.00045 wird festgesetzt auf Fr. 2‘000.- und A.______ und
+B.______ unter solidarischer Haftung auferlegt.
+4.
+Die Gerichtsgebühr für das obergerichtliche Verfahren OG.2009.00046
+wird auf Fr. 2‘000.- festgesetzt und C.______ auferlegt.
+5.
+A.______
+und B.______ haben C.______ für das obergerichtliche Verfahren
+OG.2009.00045 unter solidarischer Haftbarkeit eine Parteientschädigung von
+Fr. 2‘000.- zu bezahlen.
+6.
+Schriftliche
+Mitteilung an:
+[...]
