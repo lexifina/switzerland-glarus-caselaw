@@ -1,0 +1,246 @@
+---
+decision_id: "gl_gerichte_OG.2013.00004"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2013.00004"
+docket_2: "OGS.2013.14"
+decided: "2013-01-18"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=172&W10_KEY=218274&nTrefferzeile=7&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-222.md", "switzerland/bund/acts/312.0/art-228.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# GL Gerichte OG.2013.00004
+
+## Regeste
+
+Anordnung von Untersuchungshaft
+
+## Text
+
+Glarus Obergericht 18.01.2013 OG.2013.00004 (OGS.2013.14)
+Glaris Obergericht 18.01.2013 OG.2013.00004 (OGS.2013.14)
+Glarona Obergericht 18.01.2013 OG.2013.00004 (OGS.2013.14)
+
+Kanton Glarus
+Obergericht
+Beschluss
+vom 18. Januar 2013
+Verfahren
+OG.2013.00004
+A.______
+Beschwerdeführer
+vertreten
+durch B.______
+Vertreter,
+gegen
+Staats- und Jugendanwaltschaft des
+Kantons Glarus
+Postgasse 29, 8750 Glarus
+Beschwerdegegnerin
+betreffend
+Anordnung
+von Untersuchungshaft
+Rechtsbegehren
+de
+s Beschwerdeführers
+(gemäss Eingabe vom 14. Januar
+2013):
+1.
+Es sei die Verfügung vom
+3. Januar 2013 des Zwangsmassnahmengerichts des Kantons Glarus
+vollumfänglich aufzuheben.
+2.
+Es sei der Beschwerdeführer aus
+der Untersuchungshaft zu entlassen.
+3.
+Alles unter Kosten- und
+Entschädigungsfolgen zu Lasten der Staatsanwalt­schaft des Kantons Glarus.
+____________________
+Das Gericht
+zieht in Betracht:
+I.
+1.—
+a)
+Am
+30. Dezember 2012 verhaftete die Kantonspolizei Glarus A.______.
+A.______ wird der Anbau von Betäubungsmitteln vorgeworfen und es besteht der
+Verdacht des Betäubungsmittelhandels.
+b)
+Am 1. Januar 2013
+beantragte die Staats- und Jugendanwaltschaft des Kantons Glarus beim
+Zwangsmassnahmengericht die Anordnung von Untersuchungshaft.
+c)
+Mit Verfügung vom
+3. Januar 2013 ordnete der Kantonsgerichtspräsident die
+Untersuchungshaft an. Er begründet den Entscheid im Wesentlichen damit, dass
+die Beweissicherung durch die Kantonspolizei Glarus noch im Gange sei, und
+dass nicht ausgeschlossen werden könne, dass A.______ auf Beweismittel
+einwirke und mutmassliche Abnehmer beeinflusse, um so die Wahrheitsfindung zu
+beeinträchtigen. Damit bestehe ernsthafte Kollusionsgefahr.
+2.—
+a)
+Gegen diesen
+Entscheid erhob der Rechtsvertreter von A.______ am 14. Januar 2013
+innert Frist Beschwerde beim zuständigen Obergericht.
+b)
+Die Staatsanwaltschaft reichte
+keine Vernehmlassung ein.
+II.
+Die Beschwerde ist zulässig gegen
+Entscheide des Zwangsmass­nahmen­gerichts (Art. 222 StPO und Art. 393
+Abs. 1 lit. c StPO). A.______ ist als verhaftete Person zur
+Beschwerde legitimiert (Art. 222 StPO).
+III.
+1.—
+a)
+Der
+Rechtsvertreter von A.______ rügt, dass keine Kollusionsgefahr vorliege. Nach
+einer langen Phase der Anlagenerstellung und vielen Experimenten habe
+A.______ erstmals richtig angebaut, er habe keinen Plan oder die Absicht zum
+Verkauf gehabt. Sodann sei aus den Akten nicht ersichtlich, dass Abnehmer
+bestünden. Weiter habe die Staatsanwaltschaft die Kollusionsgefahr nicht
+ausreich­end begründet. A.______ könne nicht mehr auf die Beweismittel
+einwirken, da die Kantonspolizei Glarus sämtliche Beweismittel beschlagnahmt
+habe, zudem seien PC und Mobiltelefon sichergestellt, Ermittlungen in Bezug
+auf allfällige Abnehmer hätten bisher keine Resultate zu Tage gebracht.
+Weiter rügt der Beschwerdeführer, dass die Untersuchungshaft unverhältnis­mässig
+sei.
+2.—
+a)
+Untersuchungshaft ist zulässig, wenn die beschuldigte Person eines
+Verbrechens oder Vergehens dringend verdächtigt ist und ernsthaft zu
+befürchten ist, dass sie Personen beeinflusst oder auf Beweismittel einwirkt,
+um so die Wahrheitsfindung zu beeinträchtigen (Art. 221 Abs. 1
+lit. b StPO).
+b)
+Die Voraussetzung des
+dringenden Tatverdachts ist vorliegend nicht strittig.
+c)
+Mit dem vorliegend zu
+prüfenden Haftgrund der Kollusionsgefahr soll verhindert werden, dass die
+Wahrheitsfindung durch Machenschaften der beschuldigten Person beeinflusst
+wird. Im Vordergrund steht dabei das Bestreben, Absprachen der beschuldigten
+Person mit möglichen Mitbeschuldigten, Sachverständigen, Auskunftspersonen
+oder Zeugen zu verhindern. Zudem soll vermieden werden, dass die beschuldigte
+Person auf andere „Beweismittel einwirkt“, also z.B. Sachbeweise beseitigt
+oder Spuren verwischt. In diesem Sinne soll die strafprozessuale Haft gemäss
+bundesgerichtlicher Rechtsprechung ver­hin­dern, dass die beschuldigte Person
+die Freiheit dazu missbrauchen würde, die wahrheitsgetreue Abklärung des
+Sachverhaltes zu vereiteln oder zu gefährden (BGE 137 IV 122 E. 4.2;
+Hug
+in: Kommentar zur Schweizerischen
+Strafprozess­ordnung [StPO], Zürich/Ba­sel/Genf 2010, Art. 221
+N 19, mit Hinweis auf BGE 117 Ia 261, 123 I 35, 132 I 23). Die
+Möglichkeit, dass eine beschuldigte Person in Freiheit kolludieren könnte,
+darf nicht nur theoretischer Natur sein. Es müssen vielmehr konkrete Indizien
+für die Annahme von Verdunkelungsgefahr sprechen, wobei das Vorliegen eines
+Haftgrundes nach Massgabe der Umstände des jeweiligen Einzelfalles zu prüfen
+ist. In diesem Sinne reichen allgemeine Ausführungen zur Kollusionsgefahr,
+wenn mehrere Beteiligte und Zeugen einzuvernehmen sind, zur Begründung der
+Kollusionsgefahr nicht aus (
+Hug
+in: Kommentar zur Schweizerischen Strafprozessordnung [StPO],
+Zürich/Basel/Genf 2010, Art. 221 N 21, m.w.H.). Entsprechende
+konkrete Anhaltspunkte können sich namentlich aus dem bisherigen Verhalten
+des Angeschuldigten im Strafprozess ergeben, aus seinen persönlichen
+Merkmalen, aus seiner Stellung und seinen Tatbeiträgen im Rahmen des
+untersuchten Sachverhaltes sowie aus den persönlichen Beziehungen zwischen
+ihm und den ihn belastenden Personen. Allerdings dürfen an den Konkretisierungsgrad
+der Kollusionsgefahr gerade in der Anfangsphase der Untersuchung keine
+überspannten Anforderungen gestellt werden (BGE 132 I 21 E. 3.2.1
+S. 23 f.;
+Hug
+in: Kommentar
+zur Schweizerischen Strafprozessordnung [StPO], Zürich/Basel/Genf 2010,
+Art. 221 N 22 f.).
+d)
+Vorliegend ist zu
+prüfen, ob die Anordnung der Untersuchungshaft mit Entscheid vom
+3. Januar 2013 rechtmässig gewesen ist. Die Fortdauer der
+Untersuchungshaft dagegen ist nicht Gegenstand dieses Beschwerdeverfahrens.
+Die Vorinstanz hat zudem die Möglichkeit, jederzeit ein Haftentlassungsgesuch
+zu stellen, nicht beschränkt (vgl. Art. 228 Abs. 5 StPO) und den
+Beschwerdeführer in Ziff. 2 des Dispositivs ausdrücklich auf die
+Möglichkeit seiner Rechte nach Art. 228 Abs. 1 StPO hingewiesen.
+e)
+Bei A.______ wurde
+Marihuana mit einem Nettogewicht von 678.6g und Utensilien für den
+Marihuanakonsum sichergestellt, zudem zum Trocknen aufgehängte Stauden.
+Anlässlich der polizeilichen
+Einvernahme vom 2. Januar 2013 sagte A.______ aus, dass er 600-700 Hanfpflanzen
+angebaut habe. In der Nacht vom 28. Dezember 2012 habe er die Pflanzen
+geerntet. Auf die Frage, was mit den geernteten Hanfpflanzen hätte geschehen
+sollen, antwortete A.______, dass er die Blätter und die Stiele weggemacht
+und dann das Marihuana verkauft hätte. Potentielle Abnehmer nannte A.______
+nicht.
+Bei der Eröffnung der Festnahme
+am 31. Dezember 2012 durch den Staatsanwalt führte A.______ aus, dass er
+nicht mit dem Hanf gehandelt habe, da er „leider nicht mehr“ dazu gekommen
+sei, es zu verkaufen.
+f)
+Den Antrag auf
+Anordnung der Untersuchungshaft begründet die Kantons­polizei damit, dass in
+den Kellerräumen des Wohnhauses von A.______ „eine grosse, professionelle
+Indooranlage“ sichergestellt werden konnte. Zum Trocknen seien ca. 750
+Stück Hanfpflanzenzweige, welche mit entsprechenden Blüten besetzt gewesen
+seien, aufgehangen. In einer Kiste hätten sich bereits einige hundert Gramm
+vollständig geerntetes Marihuana befunden. Die Polizei führt weiter aus, dass
+aufgrund der Indooranlage mit mehreren Trafoschaltungen, mehreren Abluft­filtern,
+über 20 sichergestellten Wärmelampen, einer künstlichen Bewässerungs­anlage
+und mehreren Kanistern Blütendünger die Aussagen von A.______, wonach es sich
+bei den zum Trocknen aufgehängten Zweigen um die erste Ernte handelt,
+zumindest fraglich sei.
+g)
+Angesichts der Menge
+der beschlagnahmten Pflanzen, der Tatsachen, dass bei A.______ mehrere
+hundert Gramm vollständig geerntetes Marihuana und eine professionelle
+Indooranlage sichergestellt werden konnten, besteht der Verdacht auf
+Drogenhandel. Im Laufe des Verfahrens wird zu klären sein, ob es sich bei den
+sichergestellten Hanfzweigen um eine „erste Ernte“ handelt, oder ob dies eine
+Schutzbehauptung ist. Zum hier zu beurteilenden Zeitpunkt gleich zu Beginn der
+polizeilichen Ermittlungen lässt sich Drogenhandel jedoch nicht
+ausschliessen. Um die Kontaktaufnahme mit (potentiellen) Abnehmern und Kunden
+und um die Beseitigung allfällig weiterer, noch nicht sichergestellter
+Beweismittel zu verunmöglichen und die Ermittlungen nicht zu gefährden, ist
+die Anordnung der Untersuchungshaft gerechtfertigt, Kollusionsgefahr liegt
+vor.
+Immerhin scheint zumindest
+X.______ – in ungeklärter Weise – in die Sache verwickelt gewesen zu sein;
+A.______ sagte aus, dass sie einige Pflanzen entblättert habe. Dies wiederum
+spricht für die These der Kantonspolizei, dass es sich bei den zum Trocknen
+aufgehängten Zweigen nicht um die erste Ernte handelt. Folglich muss damit
+gerechnet werden, dass es Abnehmer und Kunden von A.______ gibt, deren
+Beeinflussung es mit der Untersuchungs­haft zu verhindern gilt.
+h)
+Die Anordnung der
+Untersuchungshaft ist entgegen dem Einwand des Beschwerdeführers auch nicht
+unverhältnismässig. Die geltend gemachten Gründe sind zwangsläufig mit dem
+vorübergehenden Freiheitsentzug verbunden und treffen jede erwerbstätige
+Person mit (zu betreuenden) Familienangehörigen.
+3.—
+Zusammenfassend kann
+festgehalten werden, dass der Entscheid der Vorinstanz vom 3. Januar
+2013 zu bestätigen ist. Dieser Entscheid ist wohl knapp aber doch genügend
+begründet.
+IV.
+Bei diesem Ausgang des Verfahrens
+ist der Beschwerdeführer kostenpflichtig (Art. 428 Abs. 1 StPO),
+weshalb ihm die Gerichtsgebühr aufzuerlegen ist. Parteientschädigungen werden
+keine zugesprochen.
+____________________
+Das Gericht
+beschliesst
+:
+1.
+Die Beschwerde wird abgewiesen.
+2.
+Die Gerichtsgebühr von
+Fr. 500.- wird dem Beschwerdeführer auferlegt und von ihm bezogen.
+3.
+Es werden keine
+Parteientschädigungen zugesprochen.
+4.
+Schriftliche Mitteilung an:
+[...]
