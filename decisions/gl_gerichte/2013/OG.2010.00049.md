@@ -1,0 +1,571 @@
+---
+decision_id: "gl_gerichte_OG.2010.00049"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2010.00049"
+docket_2: "OGZ.2014.88"
+decided: "2013-02-08"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=199&W10_KEY=218274&nTrefferzeile=4&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/220/art-124.md", "switzerland/bund/acts/220/art-127.md"]
+---
+
+# GL Gerichte OG.2010.00049
+
+## Regeste
+
+Forderung
+
+## Text
+
+Glarus Obergericht 08.02.2013 OG.2010.00049 (OGZ.2014.88)
+Glaris Obergericht 08.02.2013 OG.2010.00049 (OGZ.2014.88)
+Glarona Obergericht 08.02.2013 OG.2010.00049 (OGZ.2014.88)
+
+KANTON GLARUS
+DAS OBERGERICHT
+hat
+in seiner Sitzung vom 8. Februar 2013
+im Berufungsverfahren
+OG.2010.00049
+zwischen
+B.______                                                                                      Beklagte
+und
+Berufungsklägerin
+vertreten
+durch C.______ ,
+dieser
+vertreten durch D.______
+und
+A.______                                                                                      Klägerin
+und
+Berufungsbeklagte
+betreffend
+Forderung
+über die Anträge der Parteien
+A. der
+Beklagten und Berufungsklägerin
+(gemäss
+Berufungserklärung vom 16. Dezember 2010 sowie gemäss
+Berufungsbegründung vom 30. Mai 2011 und Replik vom 5. Oktober
+2011):
+1.
+Auf
+die Klage sei nicht einzutreten; eventualiter sei die Klage abzuweisen.
+2.
+Alles
+unter gesetzlicher Kosten- und Entschädigungsfolge zu Lasten der Beru­fungsbeklagten,
+vorinstanzlich klagenden Partei.
+B. der
+Klägerin und
+Berufungsbeklagten
+(gemäss
+Berufungsantwort vom 15. August 2011):
+1.
+Die
+Berufung sei abzuweisen und der Entscheid des Kantonsgerichts Glarus vom
+11. November 2010 sei zu bestätigen;
+2.
+unter
+Kosten- und Entschädigungsfolgen zu Lasten der Berufungsklägerin.
+_____________________________
+in Erwägung gezogen:
+---------------------------------
+I.
+(Sachverhalt
+und Prozessgeschichte)
+1.—
+a)
+Die in Deutschland
+domizilierte B.______ AG ist spezialisiert auf die Planung, Finanzierung und
+Realisie­rung von umwelttechnischen Vorhaben.
+b)
+Die X.______ AG mit Sitz in der Schweiz
+hatte sich auf die Erstellung und den Vertrieb von Biogasanlagen
+ausgerichtet; die Gesellschaft ist zwischenzeitlich konkursamtlich liquidiert
+worden.
+2.—
+a)
+Am 22. bzw. 25. November 2006
+schloss die B.______ AG mit der X.______ AG eine Rahmenvereinbarung ab. Damit
+bezweckten die Parteien eine Zusam­menarbeit im Hinblick auf die Installa­tion
+von Standardbiogasanlagen in Deutsch­land. Die X.______ AG sollte hierbei die
+Anlagen liefern und vor Ort errich­ten, der­weil die B.______ AG als
+Bestellerin für das Einholen der notwendigen behördli­chen Bewilligungen
+sowie die Sicherstellung der Finanzierung verantwortlich war. Hinsichtlich
+der einzelnen Projekte haben die Parteien sepa­rate Verträge [Nachträge]
+vorbehalten, deren Eck­punkte sie aber weitgehend schon in der
+Rahmenvereinbarung stipuliert haben.
+b)
+Neben der B.______ AG war noch eine
+zweite deutsche Gesellschaft [Z.______ GmbH] als Bestellerin an der
+Rahmenvereinbarung beteiligt, was jedoch für die vorliegende
+Auseinandersetzung keine Bewandtnis hat.
+c)
+Die X.______ AG und die B.______ AG
+hatten in ihrer Rahmenvereinbarung vorge­sehen, dass der Werkpreis für eine
+Biogasanlage jeweils in vier Raten zu ent­richten war, deren Fälligkeit davon
+abhing, wie weit ein Vorhaben im Einzelnen fortge­schritten war. Konkret
+hatte die B.______ AG als Bestellerin der X.______ AG eine Anzahlung von
+20 % des Werkpreises bereits bei Vorliegen der Baubewilligung zu
+leisten; bei Baubeginn war dann eine zweite Rate von 35 % fällig. Mit
+den Vorabzahlungen sollte die X.______ AG als Unternehmerin in die Lage
+versetzt werden, die für die Fertigung und Installation der Biogasanlage
+benötigten Bestandteile zu beschaffen.
+3.—
+a)
+Weil die B.______ AG zu Beginn
+eines Projekts vorauszahlungspflichtig war, bestand für sie ein Verlustrisiko
+im Fall des Ausbleibens der Werkleistungen der X.______ AG. Vor diesem
+Hintergrund hat die X.______ AG die Glarner Kantonal­bank zwischen August
+2007 und März 2008 insgesamt vier Mal beauftragt, zuhan­den der B.______ AG
+jeweils eine Garantieerklärung über Beträge von € 98‘230.‑ (2x)
+bzw. € 171‘902.‑ (2x) auszustellen.
+b)
+Am 19. November 2007 verfasste die
+Glarner Kantonalbank zu Gunsten der B.______ AG die in diesem Verfahren
+streitgegenständliche Garantieerklärung Nr. […]. Die Garantie lautete
+auf den Betrag von € 98‘230.‑ und war befristet bis zum
+30. April 2008.
+c)
+Am 28. April 2008 forderte die
+B.______ AG die Garantie ein, worauf die Glarner Kantonalbank ihr umgehend
+den zugesicherten Betrag von € 98‘230.‑ überwies.
+4.—
+a)
+Mit Schreiben vom
+29. April 2009 an das Vermittleramt […] machte die Glarner Kantonalbank
+gegen die B.______ AG eine Klage auf Rückzahlung der Garantieleistung von
+€ 98‘230.‑ zuzüglich Zins anhängig. Die Bank stellt sich auf den
+Standpunkt, die B.______ AG habe die gewährte Sicherheit zu Un­recht
+beansprucht.
+b)
+Am 14. Juli 2009 reichte die Glarner
+Kantonalbank den Klageschein dem Kantonsgericht Glarus ein.
+c)
+Mit Entscheid vom 27. Januar 2010
+anerkannte der Präsident des Kantonsge­richts die (internatio­nale) örtliche
+Zuständigkeit des Kantonsge­richts Glarus zur Be­handlung der angehobenen
+Klage (Dispositiv Ziff. 1). Dieser prozessuale Vor- bzw.
+Zwischenentscheid (dazu
+Habscheid
+,
+Schweizerisches Zivilprozess- und Gerichtsorganisationsrecht,
+2. Auflage, Basel und Frankfurt am Main 1990, N 439) blieb in der
+Folge unangefochten.
+5.—
+Mit Entscheid vom 11. November 2010
+hiess das Kantonsgericht die Klage der Glarner Kantonalbank gut und
+verpflichtete die B.______ AG zur Rück­zahlung von € 98‘230.‑
+nebst Zins zu 5 % seit 16. Juni 2009 (Dispositiv Ziff. 1). Das
+Kantonsgericht auferlegte die Gerichtskosten der B.______ AG und sprach
+zudem der Kantonalbank eine Parteient­schädigung von Fr. 12‘000.‑
+zu (Dispositiv Ziff. 2-4).
+6.—
+a)
+Dagegen erhob die B.______ AG
+am 16. Dezember 2010 rechtzeitig Beru­fung. Wie schon vor Vorinstanz
+beantragt sie, es sei auf die Klage der Kanto­nalbank nicht einzutreten,
+eventualiter sei sie abzuweisen.
+b)
+Das Berufungsverfahren wurde in einem
+doppelten Schriftenwechsel durch­geführt; keine Partei hat zusätzlich eine
+mündliche Verhandlung verlangt.
+c)
+Am 2. März 2012 fand unter der Leitung
+des Obergerichtspräsidenten eine Vergleichsverhandlung statt, an welcher
+jedoch keine Einigung erzielt werden konnte.
+d)
+An seiner Sitzung vom 8. Februar 2013
+fällte das Obergericht seinen Ent­scheid; es wies dabei die Berufung aus den
+nachstehenden Überlegungen ab.
+II.
+(Formelle
+Erwägungen)
+1.—
+Am 1. Januar 2011 trat die
+eidgenössische Zivilprozessordnung in Kraft. Zu diesem Zeitpunkt anhängige
+Verfahren sind allerdings bis zum Abschluss vor der betroffenen Instanz nach
+bisherigem Verfahrensrecht abzuwickeln (Art. 404 Abs. 1 ZPO/CH).
+Die B.______ AG hat die hier zu beurteilende Berufung am 16. Dezember
+2010 erhoben, womit sich das Verfahren wei­terhin nach der früheren kanto­na­len
+Zivilprozessordnung richtet.
+2.—
+a)
+Der Kantonsgerichtspräsident bejahte in seinem unangefochten geblie­benen
+Vorentscheid vom 27. Januar 2010 die örtliche Zuständigkeit des Kantonsge­richts
+zur Behandlung des Forderungsbegehrens der Glarner Kantonalbank. Die B.______
+AG macht im Berufungsverfahren erneut die Unzuständigkeit der Glarner
+Gerichte geltend und hält dafür, das Obergericht sei an den vor­instanzlichen
+Zuständigkeitsentscheid nicht gebunden.
+b)
+aa)
+Dieser Standpunkt der
+Berufungsklägerin trifft nicht zu. Die B.______ AG hat es unterlassen,
+den vorinstanzlichen Zuständigkeitsentscheid mit dem damals kor­rekt
+angezeigten Rechtsmittel des Rekurses anzufechten (Art. 310 Abs. 1
+ZPO/GL in Verbindung mit Art. 32 Abs. 2 GOG). Darum ist der
+Vorentscheid des Kantonsgerichtspräsidenten in formelle Rechtskraft erwachsen
+(Art. 93 Abs. 1 Ziff. 2 ZPO/GL) und die Zuständigkeit der Glarner
+Gerichte zur Behandlung der Klage ver­bindlich festgestellt. Die damit
+einherge­hende Zulassung der Klage durch die Vor­instanz entfaltet nach
+konstanter Praxis Bindungswirkung auch für das Obergericht, da das
+Berufungsverfahren unmittelbar an das erstinstanzliche Verfahren anknüpft
+(Art. 299 und Art. 304 Abs. 3 ZPO/GL).
+bb)
+Aber selbst wenn die Einrede der
+fehlenden örtlichen Zustän­digkeit im Beru­fungsverfahren ein zweites Mal
+vorgetragen werden könnte, wäre sie in Über­ein­stimmung mit den Erwägungen
+des Kantonsgerichtspräsidenten abermals abzu­wei­sen. Der
+Kantonsgerichtspräsident hat in seinem Entscheid vom 27. Januar 2010 den
+hiesigen Gerichtsstand in der vorliegenden Streitsache zu Recht aner­kannt.
+In zutreffender Anwendung von Art. 5 Ziff. 1 aLugÜ (heute
+Art. 5 Ziff. 1 lit. a LugÜ) hat er die Rückforderungs­klage
+der Kantonalbank als Vertragsklage qualifiziert, womit der
+Erfüllungsgerichtsstand hier in Glarus gegeben ist; es kann daher
+vollumfänglich auf die entsprechenden Ausführungen verwie­sen werden, zumal
+die B.______ AG dagegen ausser der blos­sen Behauptung des Gegenteils nichts
+Substantielles vorbringt.
+III.
+(Materielle
+Erwägungen)
+1.—
+a)
+Die B.______ AG hat von 2007
+an die X.______ AG mit der Installation mehre­rer Biogasanlagen in
+Deutschland beauftragt. Unter diesem Gesichtspunkt macht die B.______ AG
+daher geltend, die hier strittige Bankgarantie habe sie [die B.______ AG]
+„allgemein vor jeglichem Missverhältnis zwischen bereits bezahltem Werklohn
+und Gegenleis­tung
+bei allen
+von ihr bei der X.______ gemäss
+Rahmenvereinbarung vom 22.11.2006 bestellten Biogasanlagen“ geschützt.
+b)
+Die Vorinstanz hat demgegenüber im
+angefochtenen Entscheid in Über­eistimmung mit dem Standpunkt der Glarner
+Kantonalbank erwogen, die hier umstrittene Bankgarantie Nr. […] vom
+19. November 2007 sei ihrer Bezeichnung gemäss als reine
+Anzah­lungsgarantie
+zu qualifizieren und habe sich dabei konkret auf das Projekt „Y“ bezogen.
+2.—
+Typisierung
+der Bankgarantie
+2.1.—
+Die
+Garantieerklärung der Glarner Kantonal­bank vom 19. November 2007 war
+adressiert an die B.______ AG und hatte den folgenden Wortlaut (Aus­zug):
+Anzahlungsgarantie
+Nr. […]
+Betrag EUR 98‘230.00
+[…]
+[1] Wir haben davon
+Kenntnis genommen, dass Sie am 22.11.2006 mit der X.______ AG […] eine
+Rahmenvereinbarung für die Erstellung und Ueber­tragung von funktionsfähigen
+und betriebsbereiten Standardbiogasanlagen abgeschlossen haben. Gemäss den
+vertraglichen Bedingungen ist von Ihnen eine Anzahlung in Höhe von
+EUR 98'230.00 zu leisten. Ihr Anspruch auf Rückerstattung der Anzahlung
+bei Missachtung der vertraglichen Lie­ferverpflichtungen soll durch eine
+Bankgarantie sichergestellt werden.
+[2] Dies vorausgeschickt,
+verpflichten wir, Glarner Kantonalbank, […] uns hiermit unwiderruflich, Ihnen
+auf Ihre erste Anforderung hin, ungeachtet der Gültigkeit und der
+Rechtswirkungen des eingangs erwähnten Vertrages und unter Verzicht auf
+jegliche Einwendungen und Einreden aus demsel­ben, jeden Betrag bis zu Höhe
+des oben erwähnten Maximalbetrages zu zahlen gegen
+Ihre rechtsgültig
+unterzeichnete Zahlungsaufforderung, ver­sehen mit der Erklärung, dass die
+X.______ AG […] ihre vertraglichen Lie­ferverpflichtun­gen nicht erfüllt hat.
+[3] [Angaben zu den
+Modalitäten des internationalen Bankverkehrs]
+[4] Die Garantie ist gültig
+bis 30. April 2008
+und erlischt automatisch
+und vollumfänglich, sofern entweder Ihre schriftli­che Zahlungsaufforderung
+oder der geschlüsselte Telex/SWIFT bis zu die­sem Zeitpunkt nicht in unserem
+Besitz […] ist […].
+[5] Diese Garantie
+reduziert sich automatisch im Verhältnis zum Faktura­wert jeder Lieferung
+gegen Vorlage bei uns von Kopien der Handelsrech­nung sowie des
+entsprechenden Transportdokumentes, die für uns als Liefernachweis
+verbindlich sind.
+[6] Diese Garantie tritt
+erst in Kraft, nachdem der oben erwähnte Anzah­lungs­betrag auf dem bei uns
+geführten Konto lautend auf X.______ AG […] ein­gegangen ist.
+[7] Jede unter dieser
+Garantie infolge einer Inanspruchnahme geleistete Zahlung erfolgt in
+Reduktion unserer Haftung.
+[8] Diese Garantie
+unterliegt schweizerischem Recht, Gerichtsstand und Erfüllungsort ist Glarus.
+2.2.—
+Die vorstehende Bankgarantie ist ihrem
+Inhalt nach zweifelsfrei als An­zahlungsgarantie zu verstehen und ist
+insofern zutreffend explizit als sol­che be­zeichnet. Charakteristisch für
+eine Anzahlungsgarantie ist, dass sie darauf ausge­richtet ist, den Anspruch
+einer vorleistungspflichtigen Vertragspartei auf Rücker­stattung ihrer
+Anzahlung bei ausbleibender Gegenleistung abzusichern (siehe dazu
+Kleiner
+, Bankgarantie,
+4. Auflage, Zürich 1990, N 14.02). Exakt auf die­sen Tatbe­stand
+nimmt die vorliegende Garantieerklärung Bezug (siehe Text oben,
+1. Abschnitt, 2. Satz).
+2.3.—
+a)
+Die Garantieerklärung nimmt
+Bezug auf eine abzusichernde Anzahlung im Betrag von € 98'230.‑.
+Wie die B.______ AG selber ausführt, handelt es sich bei die­ser
+Anzahlungssumme um 20 % der Kosten einer Standardbio­gasanlage im Betrag
+von € 491'150.‑.
+b)
+Gemäss der Rahmenvereinbarung zwischen
+der B.______ AG und der X.______ AG vom 22./25. November 2006 war der Werkpreis
+für eine Biogasanlage in vier Raten zu begleichen. Die Raten waren wie folgt
+zur Zahlung fällig:
+20 % des
+Werkpreises:        bei Vorliegen der Baubewilligung bzw.
+8 Wochen vor
+Baubeginn;
+35 % des
+Werkpreises:        bei Baubeginn;
+35 % des
+Werkpreises:        nach erfolgreicher Funktionsprüfung;
+10 % des
+Werkpreises:        nach Abnahme der Anlage.
+2.4.—
+Indem sich die streitgegenständliche
+Garantieerklärung der Kantonal­bank auf einen Betrag von € 98'230.‑
+bezog, was 20 % der Standardkosten einer Biogas­anlage ausmachte, und zudem
+die B.______ AG bei der Realisierung einer An­lage je­weils eine erste
+Anzahlung in eben dieser Höhe zu leisten hatte, ist offen­sichtlich, dass die
+Garantieerklärung einzig diese erste Ratenzahlung abgesichert hat. Dies
+konnte aufgrund der gesamten Umstände und Aktenlage auch von der B.______ AG
+nie anders verstanden werden. Die Garantie kann demnach im Zeitraum der
+verein­barten Gültigkeitsdauer nur so lange geltend gemacht werden, wie die
+X.______ AG nicht Anlageteile im entsprechenden Wert geliefert hat (siehe
+Garantieerklärung oben, 5. Abschnitt); bei Leistungsstörungen im
+weiteren Verlauf der Projektab­wick­lung diente die
+Anzahlungs
+garantie
+dagegen nicht mehr als Sicherheit.
+3.—
+Zuordnung der Bankgarantie
+3.1.—
+Die strittige Garantieerklärung vom
+19. November 2007 nimmt nicht Bezug auf ein konkretes
+Biogasanlage-Projekt. Die Glarner Kantonalbank stellt sich auf den
+Standpunkt, die Garantie habe ausschliesslich nur die erste Anzahlung für das
+Projekt „Y“ abgesichert. Die­ser Ansicht ist die Vorinstanz gefolgt und hat
+die Garantie dem Projekt „Y“ zu­geordnet.
+3.2.—
+Die von der Vorinstanz gestützt auf
+die Akten vorgenommene Individuali­sierung der Bankgarantie ist zutreffend.
+Aus nachstehenden Ausführungen wird ersichtlich, dass auch die B.______ AG
+davon ausgegangen ist, die fragliche Garantie­erklärung sichere einzig und
+allein die erste Anzahlung von € 98'230.‑ für das Pro­jekt „Y“ in
+[...]/Deutschland ab:
+a)
+Mit Schreiben vom 14. November 2007
+ersuchte die X.______ AG die Glarner Kantonalbank um Ausstellung einer
+Bankgarantie über € 98'230.‑ zu Gunsten der B.______ AG. Als
+Verpflichtungsgrund vermerkte die X.______ AG: „Sicherstellung der Anzahlung
+betreffend Projekt Y“. Daraufhin stellte die Glarner Kantonalbank am
+19. November 2007 zuhanden der B.______ AG die gewünschte Ga­rantieerklärung
+aus (Auszahlungsgarantie Nr. [...]). Die Verbind­lichkeit der Garantie
+stand dabei unter dem Vorbehalt, dass der darin abge­sicherte
+Anzahlungsbetrag von € 98'230.‑ auch tatsächlich auf dem bei der Kanto­nalbank
+bestehenden Konto der X.______ AG eingeht (siehe Garantieerklärung oben,
+6. Abschnitt).
+b)
+Mit Schreiben vom 28. April 2008
+unterbreitete die B.______ AG der Glarner Kan­tonalbank die betreffende
+Garantie zur Zahlung. Zur Klärung der Gültig­keit der präsentierten Garantie
+ersuchte die Kantonalbank nach ihren Angaben die B.______ AG um den Nachweis,
+dass die mit der Garantie abgesicherte Anzahlung effektiv geleistet worden
+ist. Obwohl diese Aufforderung der Kanto­nalbank in den Akten nicht
+dokumentiert ist, gilt der geschil­derte Vorgang aufgrund der anschliessenden
+Reaktion der B.______ AG als gewiss.
+c)
+Mit E-Mail vom 29. April 2008, deren
+Betreff „Anzahlungsnach­weis zu Anzahlungsgarantie“ lautete, übermittelte die
+B.______ AG der Glarner Kantonalbank in der Anlage „[die] Rechnung und [den]
+Zahlungsnach­weis Y“ und erklärte hierzu, dass damit „die Anzahlung
+betreffend der Anzah­lungsgarantie [...] an die X.______ AG“ erwiesen sei.
+Bei den beiden mitgelie­ferten Dokumenten handelte es sich einerseits um die
+Rechnung der X.______ AG vom 7. August 2007 bezüglich der ersten
+Ratenzahlung von € 98'230.‑ für die Bio­gasanlage „Y“ sowie den
+entsprechenden Überweisungsbeleg der Sparkasse [...]/DE.
+d)
+Damit aber ist erstellt, dass auch aus
+der Warte der B.______ AG sich die Garan­tieerklärung der Kantonalbank vom
+19. November 2007 ausschliesslich nur auf die erste Ratenzahlung für das
+Projekt „Y“ bezogen haben kann. Kommt schliess­lich noch hinzu, dass die
+B.______ AG bzw. die ihr später in verschiedene Werkverträge nachgefolgte
+P.______ GmbH & Co. KG im Konkursverfahren der X.______ AG die gezogene Garantie
+von € 98'230.‑ ebenfalls explizit auf die offen gebliebe­nen
+Positionen im Zusammenhang mit dem Projekt „Y“ angerechnet hat.
+3.3.—
+Die Garantieerklärung vom
+19. November 2007 enthielt so­dann eine Ermässigungsklausel (siehe
+Garantietext oben, 5. Abschnitt). Danach wurde das Garantieversprechen
+in dem Umfang hinfällig, als der aus der Garantie Begünstigte
+[B.______ AG] von seinem Lieferanten [X.______ AG] Waren oder Leistun­gen
+empfangen hat, denn der Begünstigte steht insoweit nicht mehr mit leeren Hän­den
+da (
+Bertrams
+, Bank Guarantees in
+International Trade, Paris-New York, 3. Auflage, S. 33. Eine solche
+Ermässigungsklausel aber ergäbe schlicht keinen Sinn, hätte sich die
+Garantieerklärung nach nunmehriger An­sicht der B.______ AG auf alle
+„während der Garantiedauer im Bau bzw. in Realisie­rung befindlichen
+Biogasanlagen“ und die dabei geleisteten Vorschüsse bezogen. Die
+Ermässigungsklausel in der vorliegend gewählten Formulierung ist überhaupt
+nur praktikabel in Bezug auf ein spezifisches Projekt. Allein dann nämlich
+lässt sich konkret feststellen, in wel­chem Umfang Werkleistungen erbracht
+worden sind, welche auf die mit der Garan­tie ab­gesicherte ein­zelne
+Anzahlung anrechenbar sind. Die Garantieerklärung be­zieht sich denn auch
+ausdrücklich auf „
+eine
+Anzahlung in Höhe von EUR 98.230.00“
+(Garantietext oben, 1. Abschnitt). Hätte demgegenüber die von der
+B.______ AG nun im Nachhinein geäus­serte Absicht bestanden, mit der
+Anzahlungsgarantie „rollend“ alle Anzahlungen abzusichern, welche während der
+Garantiedauer für beliebige Projekt­standorte geleistet wurden, so wäre die
+Garantieerklärung anders formuliert worden, wie die Kantonalbank in ihrer
+Berufungsantwort zutreffend ausführt.
+3.4.—
+Damit steht nach Massgabe der
+eingereichten Akten unzweifelhaft fest, dass die Garantieerklärung der
+Glarner Kantonalbank vom 19. November 2007 nach übereinstimmendem
+Verständnis der am Garantie­vertrag beteilig­ten Parteien einzig die
+Sicherung der ersten Ratenzahlung von € 98'230.‑ für das Projekt
+„Y“ zum Gegenstand hatte. Die Faktenlage ist derart eindeutig, dass daran
+auch die von der B.______ AG zusätzlich beantragte Zeugenbefragung nichts
+mehr zu ändern vermöchte. Denn selbst wenn der soweit ersichtlich ohnehin
+erstmals im Berufungsverfahren als Zeuge angerufene O.______ (vormals
+Verwaltungsrat der X.______ AG) die Darstel­lung der B.______ AG bestä­tigen
+würde, bliebe es bei dem von der B.______ AG selber schriftlich
+manifestierten und zudem einzig sachgerechten Ver­ständnis bezüglich der
+Tragweite der streitbefangenen Garantie­erklärung, wonach sich diese
+ausschliesslich auf die erste Ratenzahlung für das Projekt „Y“ bezog.
+4.—
+Verfall der Garantie
+4.1.—
+Nach dem eben dargelegten normativen
+Inhalt des Garantievertrags durfte die B.______ AG die Bankgarantie vom
+19. November 2007 nur insoweit ziehen, als die X.______ AG für das
+Projekt „Y“ nicht Anlageteile im Wert der abgesicherten ersten Ratenzahlung
+von € 98‘230.‑ geliefert hatte.
+4.2.—
+a)
+Die Vorinstanz liess im
+angefochtenen Entscheid offen, in welcher Höhe konkret die X.______ AG für
+die Biogasanlage „Y“ Anlageteile geliefert hat; sie hat aber anhand der
+gesamten Umständen erwogen, dass Lieferungen für mindes­tens € 98‘230.‑
+erfolgt seien.
+b)
+Die Erwägungen der Vorinstanz zum
+mutmasslichen Mindestwert der getätig­ten Aufwendungen der X.______ AG für
+das Projekt „Y“ sind überzeugend und werden von der B.______ AG in ihrer
+Berufung auch nicht sub­stantiell bestritten. Es kann daher vollumfänglich
+auf die angegebene Passage im vorinstanzlichen Ent­scheid verwiesen werden.
+c)
+Im Übrigen wird in der Forderungseingabe
+der P.______ GmbH & Co. KG (dazu oben E. 3.2.d) an das Konkursamt
+[...] vom 28. Juli 2008 ausge­führt, dass die X.______ AG für das
+Projekt „Y“ für immerhin € 230‘650.‑ Leis­tungen erbracht hat.
+Dieser Wert übertrifft den durch die Garantie abgesicherten ersten An­zahlungsbetrag
+von € 98‘230.‑ bei wei­tem. Sodann hat am 24. April 2008 beim
+Pro­jekt „Y“ bereits die Funktionsprü­fung stattgefunden. Mithin war zu
+diesem Zeitpunkt die Anlage schon erstellt und musste übrigens zuvor auch
+bereits die zweite Ratenzahlung geleistet worden sein (siehe oben
+E. 2.3.b); die Garantie­frage bezüglich der ersten Anzah­lung stellte
+sich daher auch unter diesem Gesichtswinkel längst nicht mehr.
+4.3.—
+Damit steht fest, dass die X.______ AG
+für das Projekt „Y“ Werkleis­tungen von mehr als € 98‘230.‑
+erbracht hat; insofern bestand für die B.______ AG ein zureichender Gegenwert
+für die geleistete erste Anzahlung. Die B.______ AG war darum nicht mehr
+befugt, sich die von der Glarner Kantonalbank zur Absicherung der ers­ten Anzahlung
+ausgestellte Garantie vom 19. November 2007 honorieren zu lassen.
+5.—
+Rückforderungsanspruch der
+Glarner Kantonalbank
+5.1.—
+Die Glarner Kantonalbank hat Ende
+April 2008 der B.______ AG € 98‘230.‑ überwiesen, obschon die
+B.______ AG keinen An­spruch mehr auf die betreffende Garantieleistung hatte.
+Die Vorinstanz hat zutref­fend ausgeführt, dass die Kantonalbank aufgrund des
+rigi­den Garantietextes („auf erste Aufforderung“, siehe Garantietext oben,
+2. Abschnitt) keine andere Wahl hatte, als die Garantieleistung zu
+erbringen. Auf die entsprechenden Erwägungen im an­gefochtenen Entscheid kann
+verwiesen werden.
+5.2.—
+Ebenso zutreffend hat die Vorinstanz
+dargelegt, dass die Glarner Kanto­nalbank einen vertraglichen
+Rückforderungsanspruch hat hinsichtlich der von der B.______ AG zu Unrecht
+bezogenen Garantieleistung von € 98‘230.‑ zuzüglich 5 % Zins
+seit 16. Juni 2009. Es kann auch in diesem Zusammenhang auf die
+vorinstanzlichen Erwägungen verwiesen werden.
+5.3.—
+Nicht gehört werden kann die B.______
+AG mit ihrer „vorsorglich“ geltend ge­machten Verrechnungseinrede, nachdem
+sie diese Einrede nicht schon im vorinstanzlichen Verfahren prozesskonform
+vorgebracht hat (siehe Art. 31 Abs. 1 ZPO/GL). Zwar hat sie den
+Einwand im Vermittlungsverfahren erho­ben und dabei auch eine Widerklage in
+Aussicht gestellt, hat in der Folge dann aber die Einrede explizit nicht mehr
+aufrecht erhalten. Zu Recht ist daher bereits die Vorinstanz im Licht von
+Art. 124 Abs. 1 OR auf eine allfällige Gegenforderung der B.______
+AG nicht eingegan­gen.
+6.—
+Aus alldem ergibt sich, dass die
+Berufung der B.______ AG abzuweisen und das angefochtene Urteil des
+Kantonsgerichts vom 11. November 2010 in allen Punkten zu bestätigen ist. Die
+Vorinstanz hat aus rundum zutreffenden Überlegun­gen, auf welche an dieser
+Stelle noch einmal umfassend verwiesen wird, die Klage der Glarner
+Kantonalbank gutgeheissen und die B.______ AG zur Rückzahlung der un­rechtmässig
+bezogenen Garantieleistung verpflichtet. Die Anspruchsgrundlage der Glarner
+Kantonalbank auf Rückforderung der Garantiezahlung ist, wie oben aufge­zeigt,
+durch die im Prozess aufgelegten Akten ausgewiesen; die von der Berufungs­klägerin
+monierte Verletzung bundesrechtlicher Beweisvorschriften ist nicht
+ersichtlich. Weil zudem der Rückforderungsanspruch der Bank hinsichtlich der
+Ende April 2008 geleisteten Garantiezahlung entgegen der Auffas­sung der
+Berufungsklägerin vertragsrechtlicher Natur ist (oben E. II.2.b/bb),
+beträgt die Verjährungsfrist 10 Jahre (Art. 127 OR), womit die
+Kanto­nalbank ihre Rückforderungsklage rechtzeitig erhoben hat.
+IV.
+(Kosten-
+und Entschädigungsregelung)
+Ausgangsgemäss sind die die Kosten dieses Verfahrens der
+B.______ AG aufzuerle­gen (Art. 132 ZPO/GL). Massgeblich für die
+Festlegung der Ge­richtsge­bühr ist der Streitwert (siehe dazu Art. 7
+der hier noch anwendbaren Verordnung über die amtli­chen Kosten im Zivil- und
+Strafpro­zess vom 12. Februar 1992 [GS III A/5]). Dieser entspricht
+gemäss Art. 156 Abs. 1 ZPO/GL der Höhe der umstrittenen Forderung
+von € 98‘230.‑. Die B.______ AG hat zudem der Glarner Kantonalbank
+eine Parteient­schädigung zu be­zahlen (Art. 139 Abs. 1 ZPO/GL). In
+konstanter Praxis spricht das Obergericht die ausserrechtliche Ent­schädigung
+auch einer Partei zu, die sich durch einen bei ihr angestellten Rechtsanwalt
+hat vertreten lassen (siehe Amtsbericht 2001, S. 386 Ziff. 6.2.2.);
+dabei fällt allerdings die nach Ylichem Ermessen fest­zulegende Entschädigung
+(Art. 138 Abs. 1 ZPO/GL) in der Regel tiefer aus als bei einem freibe­ruflich
+tätigen Anwalt.
+_____________________________
+auf
+den Eid geurteilt:
+------------------------------
+1.
+Die Berufung wird abgewiesen, und es wird
+das Urteil des Kantonsgerichts vom 11. November 2010 im Verfahren
+ZG.2009.00617 voll­umfänglich bestätigt.
+2.
+Die Pauschalgerichtsgebühr für das
+Berufungsverfahren von Fr. 8‘000.‑ wird der Berufungsklägerin
+auferlegt und vom geleisteten Kostenvorschuss bezogen.
+3.
+Die Berufungsklägerin wird verpflichtet,
+der Berufungsbeklagten für das Berufungs­verfah­ren eine Par­teientschädigung
+von Fr. 5‘000.‑
+zu be­zahlen.
+4.
+Schriftliche Mitteilung an:
+[...]
