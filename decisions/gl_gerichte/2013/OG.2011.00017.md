@@ -1,0 +1,493 @@
+---
+decision_id: "gl_gerichte_OG.2011.00017"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2011.00017"
+docket_2: "OGZ.2013.81"
+decided: "2013-02-22"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=186&W10_KEY=218274&nTrefferzeile=3&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/210/art-052.md", "switzerland/bund/acts/220/art-950.md", "switzerland/bund/acts/220/art-951.md", "switzerland/bund/acts/232.11/art-003.md", "switzerland/bund/acts/232.11/art-006.md", "switzerland/bund/acts/232.11/art-013.md", "switzerland/bund/acts/272/art-005.md", "switzerland/bund/acts/272/art-010.md", "switzerland/bund/acts/272/art-057.md", "switzerland/bund/acts/272/art-059.md", "switzerland/bund/acts/272/art-060.md", "switzerland/bund/acts/272/art-066.md", "switzerland/bund/acts/272/art-095.md", "switzerland/bund/acts/311.0/art-292.md"]
+---
+
+# GL Gerichte OG.2011.00017
+
+## Regeste
+
+Verletzung des Firmen-, Marken- und Lauterkeitsrechts etc.
+
+## Text
+
+Glarus Obergericht 22.02.2013 OG.2011.00017 (OGZ.2013.81)
+Glaris Obergericht 22.02.2013 OG.2011.00017 (OGZ.2013.81)
+Glarona Obergericht 22.02.2013 OG.2011.00017 (OGZ.2013.81)
+
+Verletzung des Firmen-, Marken- und Lauterkeitsrechts etc.
+
+Kanton Glarus
+Obergericht
+Urteil
+vom 22. Februar 2013
+Verfahren
+OG.2011.00017
+1. green.ch AG (CH-170.3.030.640-6)
+Klägerin 1
+2. deep AG (CH-020.3.034.322-6)
+Klägerin 2
+beide
+vertreten durch A.______
+Vertreter,
+gegen
+DeepGreen Datacenter AG
+(CH-160.3.005.001-1)
+Beklagte
+vertreten
+durch B.______
+Vertreter,
+,
+zusätzlich
+vertreten durch C.______
+Vertreter,
+betreffend
+Verletzung
+des Firmen-, Marken- und Lauterkeitsrechts etc.
+Rechtsbegehren der
+Klägerinnen 1 und 2
+(gemäss Eingabe vom 26. Mai 2011 präzisiert mit
+der Replik vom 30. Januar 2012):
+„1.
+Es sei der Beklagten unter
+Androhung der Überweisung an den Strafrichter zur Bestrafung mit Haft oder
+Busse nach Art. 292 StGB im Widerhandlungsfalle und unter Androhung der
+Zwangsvollstreckung mit sofortiger Wirkung zu verbieten, die Zeichen GREEN,
+green.ch und/oder deep, inklusive in Kombination mit anderen
+Wortbestandteilen (wie insbesondere Deep, deep oder deep.ch), zur Kennzeichnung
+von Waren oder Dienstleistungen zu gebrauchen (namentlich die Zeichen auf
+Waren oder deren Verpackung anzubringen; unter den Zeichen Waren anzubieten,
+in Verkehr zu bringen oder zu diesem Zweck zu lagern; unter den Zeichen
+Dienstleistungen anzubieten oder zu erbringen; unter den Zeichen Waren ein-
+oder auszuführen sowie die Zeichen auf Geschäftspapieren, die in der
+Werbung oder sonstwie zu gebrauchen), die identisch oder gleichartig sind
+mit den Waren und Dienstleistungen, die von der Klägerin 1 und den Zeichen
+GREEN und green.ch und von der Klägerin 2 unter dem Zeichen deep angeboten
+oder erbracht werden, bzw. die Zeichen GREEN, green.ch und/oder deep in
+Kombination mit anderen Wortbestandteilen (wie insbesondere deep, Deep
+und/oder deep.ch) als Bezeichnung für ihre Unternehmung bzw.
+Geschäftsbetrieb oder für sonstige gewinnstrebige Unternehmungen bzw.
+Geschäftsbetriebe zu gebrauchen.
+2.
+Alles unter Kosten- und
+Entschädigungsfolgen zu Lasten der Beklagten.“
+Rechtsbegehren der Beklagten
+(gemäss
+Eingabe vom 7. September 2011, geändert mit der Duplik vom 15. Mai
+2012):
+„1.
+Auf die Klage der Klägerin 1
+sei nicht einzutreten.
+2.
+Eventualiter sei die Klage der
+Klägerin 1 vollumfänglich abzuweisen.
+3.
+Auf die Klage der Klägerin 2 sei
+nicht einzutreten.
+4.
+Eventualiter sei die Klage der
+Klägerin 2 vollumfänglich abzuweisen.
+5.
+Alles unter Kosten- und
+Entschädigungsfolgen inkl. MwSt zu solidarischen Lasten der Klägerinnen 1
+und 2.“
+____________________
+Das Gericht
+zieht in
+Betracht:
+I.
+1.—
+a)
+Die Klägerin
+1, die green.ch AG (CH-170.3.030.640-6), ist eine Aktiengesellschaft mit Sitz
+in Brugg. Die Gesellschaft wurde am 17. April 2007 unter der Firma
+Solution25 AG (CH-170.3.030.640-6) im Handelsregister eingetragen. Am
+6. Juli 2010 wurde die Solution25 AG in green.ch AG umfirmiert.
+Ebenfalls am 6. Juli 2010 übernahm die green.ch AG, vormals Solution25
+AG (CH-170.3.030.640-6), aufgrund einer Fusion die Aktiven und Passiven der
+green.ch AG (CH-170.3.028.095-0), welche sodann im Handelsregister gelöscht
+wurde. Diese Gesellschaft (CH-170.3.028.095-0) wurde am 18. Februar 2005
+als „Solution24 AG“ gegründet. Am 24. September 2007 erfolgte eine
+Firmenänderung in TIC The Internet Company AG. Einige Monate später, am
+26. Juni 2008 gingen die Aktiven und Passiven einer weiteren green.ch AG
+(CH-400.3.022.629-2) infolge Fusion auf die TIC The Internet Company AG
+(CH-170.3.028.095-0) über. Ein knapper Monat nach der Fusion, am
+15. Juli 2008, wurde die Firma der TIC The Internet Company AG
+(CH-170.3.028.095-0) in green.ch AG (CH-170.3.028.095-0) geändert. Die
+green.ch AG (CH-400.3.022.629-2) wurde am 2. Juli 2001 gegründet und am
+26. Juni 2008 wieder gelöscht (zum Überblick über die gesamten Vorgänge
+vgl. Darstellung auf der folgenden Seite). Die Klägerin 1 erbringt
+Dienstleistungen im Zusammenhang mit Datacentern.
+Zweck der Klägerin 1 ist der
+Folgende:
+„Erbringen von Dienstleistungen
+und Entwicklung, speziell auf den Gebieten der Informatik, Telekommunikation,
+IT und Software-/
+Applikationsentwicklung und Handel mit und Vermittlung von Waren aller Art,
+insbesondere von technischen Produkten sowie direktes und indirektes
+Erwerben, Halten und Verwalten sowie Veräussern von Beteiligungen an anderen
+Unternehmen, Finanzierungen für eigene oder fremde Rechnung, insbesondere für
+Holdinggesellschaften und Eingehen von Garantien und Bürgschaften für Aktionäre,
+verbundene Unternehmen und Dritte; kann Infrastrukturen, Patente, Lizenzen
+und andere immaterielle Güter sowie Grundeigentum erwerben, verwalten oder
+veräussern, Zweigniederlassungen errichten sowie Grundstücke erwerben, halten,
+belasten und veräussern.“
+b)
+Die Klägerin 2 wurde am
+20. August 2001 als deep GmbH (CH-350.4.000.836-3) im Handels­re­gister
+eingetragen. Am 19. November 2002 wurde die deep GmbH in die deep AG
+(CH-350.4.000.836-3) umgewandelt. Am 14. Dezember 2011 wurde die deep AG
+(CH-350.4.000.836-3) im Handelsregister gelöscht, ihre Aktiven und Passiven
+gingen infolge Fusion auf die Telecom Liechtenstein (Schweiz) AG
+(CH-020.3.034.322-6) über. Die Telecom Liechtenstein (Schweiz) AG
+(CH-020.3.034.322-6) wiederum wurde am 27. Dezember 2011 in deep AG
+(CH-020.3.034.322-6) umfirmiert. Der Zweck der deep AG besteht unter anderem
+in der Bereitstellung von elektronischen Tele­kommunikationsnetzen und dem
+Anbieten von elektronischen Kommunikations­diensten, dem Betrieb und Handel
+mit Hard- und Software, Beratungsdienstleistung sowie der Entwicklung,
+Herstellung und dem Vertrieb von Information Technology (IT)-Diensten.
+c)
+Die Beklagte wurde am
+10. November 2009 im Handelsregister eingetragen. Ihr Zweck besteht im
+„Erstellen und Betreiben von Räumlichkeiten für EDV- und Telekommunikationsanlagen
+in der Schweiz sowie die Erbringung von Dienstleist­ungen und den Vertrieb
+von Produkten in den Bereichen Datacenter Services, Colocation, Cloud
+Computing, Internet Access und modernen Medien […]“.
+2.—
+Mit Eingabe vom
+26. Mai 2011 gelangten die Klägerinnen 1 und 2 direkt an das
+im vorliegenden Fall als erste Instanz zuständige Obergericht des Kantons Glarus
+(Art. 5 Abs. 1 lit. c ZPO i.V.m. Art. 10 Abs. 1 lit. b
+ZPO), stellten die eingangs wiedergegebenen Rechtsbegehren und reichten
+Beilagen ein. Die Beklagte reichte die Klageantwort und Beilagen am
+7. Sep­tem­ber 2011 ein. Darauf fand am 28. Oktober 2011 eine
+Instruktionsverhandlung statt, welche zu keiner Einigung führte. In der Folge
+setzte das Gericht den Klägerinnen 1 und 2 Frist für die Replik,
+welche mitsamt weiteren Beilagen am 1. Februar 2012 einging. Die
+Beklagte erstattete die Duplik am 15. Mai 2012 und reichte ebenfalls
+weitere Beilagen ein.
+II.
+1.—
+Das Gericht tritt auf
+die Klage ein, sofern die Prozessvoraussetzungen erfüllt sind (Art. 59
+Abs. 1 ZPO), wobei das Gericht von Amtes wegen prüft, ob dies der Fall
+ist (Art. 60 ZPO).
+1.1.—
+a)
+Prozessvoraussetzung ist die Partei- und Prozessfähigkeit der Parteien
+(Art. 59 Abs. 2 lit. c ZPO). Parteifähig ist, wer rechtsfähig
+ist (Art. 66 ZPO). Die Parteifähigkeit bestimmt sich nach materiellem
+Recht. Die Rechts- und die Parteifähigkeit gehen gemäss herrschender Lehre
+und Rechtsprechung mit der Löschung der Rechtseinheit unter (ZPO BSK-
+Tenchio-Kuzmic
+, Art. 66 N 2
+und N 16).
+b)
+Im hängigen Verfahren
+findet mit Rechtswirksamkeit der Fusion automatisch eine Rechtsnachfolge des
+übernehmenden Rechtsträgers statt; die Zustimmung der Gegenpartei ist nicht
+erforderlich. Es hat dann eine Anpassung der Parteibezeichnung zu erfolgen,
+wobei es dafür keiner ausdrücklichen Erklärungen der Parteien bedarf. Es
+genügt, dass das Gericht aufgrund der vorliegenden Tatsachen von der
+fusionsbedingten Rechtsnachfolge Kenntnis erlangt und den Parteien
+rechtliches Gehör gewährt (FusG ZK-
+Gelzer
+,
+Art. 22 N 13).
+c)
+Vorliegend sind somit
+beide Klägerinnen partei- und rechtsfähig, wobei festzuhalten ist, dass als
+Klägerin 2 die deep AG (CH-020.3.034.322-6) am Verfahren teilnimmt.
+1.2.—
+a)
+Weiter ist
+auch das Vorliegen eines schutzwürdigen Interesses Prozessvoraussetzung (Art.
+59 Abs.
+2 lit. a ZPO). Das schutzwürdige Interesse
+kann rechtlicher oder tatsächlicher Natur sein. Ob ein Rechtsschutzanspruch
+besteht, bestimmt sich nach dem materiellen Recht. Bedarf es zu dessen
+Durchsetzung gerichtlichen Rechtsschutzes, ist das Rechtsschutz­interesse zu
+bejahen. Generell fehlt es an einem schutzwürdigen Interesse, wenn nicht
+dargetan ist, worin das Interesse am Erlass eines autoritativen Entscheids
+bestehen könnte, insbesondere wenn ein Prozess aus purer Rechthaberei geführt
+wird (
+Zürcher
+, in:
+Sutter-Somm/Hasenböhler/Leuenberger [Hrsg.], ZPO Komm., Art. 59
+N 12, mit Hinweisen). Behauptet der Kläger eine bestehende oder eine
+drohende Verletzung, so ist sein Rechtsschutzinteresse evident und bedarf
+keines besonderen Nachweises (
+von
+Büren/Marbach/Ducrey
+, Immaterialgüter- und Wettbewerbsrecht,
+3. Auflage, Rz. 982)
+.
+b)
+Die Klägerinnen 1 und 2 machen vorliegend eine Verletzung
+ihrer Firmen-, Marken- und Lauterkeitsrechte durch die Beklagte geltend. Dies
+ist der einzige Weg, um der Beklagten den Gebrauch ihrer Firma verbindlich zu
+verbieten, weshalb ein schutzwürdiges Interesse bei beiden Klägerinnen zu
+bejahen ist.
+1.3.—
+Auf die Klage der
+green.ch AG (CH-170.3.030.640-6) und der deep AG (CH-020.3.034.322-6) ist
+damit einzutreten.
+2.—
+Das Obergericht wendet
+das Recht von Amtes wegen an (Art. 57 ZPO). Es ist nicht an die
+Argumente der Parteien gebunden und kann eine Klage aus anderen als den
+geltend gemachten Gründen gutheissen oder abweisen (vgl.
+Gehri/Flütsch
+,
+in: Gehri/Kramer [Hrsg.], Schweizerische Zivilpro­zessordnung, Zürich 2010,
+Art. 57 N 3 m. w. H.).
+III.
+1.—
+Die green.ch AG
+(CH-170.3.030.640-6) und die deep AG (CH-020.3.034.322-6) haben „zum Zwecke
+der Wahrung der beidseitigen individuellen Interessenwahrung“ gemeinsam Klage
+erhoben. Die beiden Klagen sind separat zu prüfen.
+green.ch AG
+(CH-170.3.030.640-6)
+Firmenrecht
+2.—
+Firma ist der für den
+Handelsverkehr gewählte Name des Trägers eines Unternehmens oder anders
+gesagt, dasjenige Kennzeichen, das den Handels­ge­sell­schaften als Name
+schlechthin dient, wobei dieser Name im Handelsregister eingetragen ist (
+Meier-Hayoz/Forstmoser
+,
+Gesellschaftsrecht, 11. Auflage, § 7 Rz. 9). Die Firma
+individualisiert – im Gegensatz zur Marke – nicht einzelne Produkte, sondern
+das Unternehmen als Ganzes (
+von Büren/Marbach/Ducrey
+,
+Immaterialgüter- und Wettbewerbsrecht, 3. Auflage, Rz. 766).
+2.1.—
+a)
+Aktiengesellschaften können – unter Wahrung der allgemeinen Grundsätze der
+Firmenbildung – ihre Firma frei wählen (Art. 950 OR). Allerdings müssen
+sich die Firmen der Aktiengesellschaften von allen in der Schweiz bereits
+eingetragenen Firmen von anderen Aktiengesellschaften, Gesellschaften mit
+beschränkter Haftung und Genossenschaften deutlich unterscheiden
+(Art. 951 Abs. 2 OR). Dem bisherigen Firmeninhaber wird ein
+absolutes Recht an der Führung seiner Firma verliehen, das Recht auf
+ausschliesslichen Gebrauch der Firma (
+Meier-Hayoz/Forstmoser
+,
+Gesellschaftsrecht, 11. Auflage, § 7 Rz. 107). Das Gebot der
+deutlichen Unterscheidbarkeit bezweckt, den Inhaber der älteren Firma um
+seiner Persönlichkeit und seiner gesamten Geschäftsinteressen willen vor
+Verletzung zu bewahren und gleichzeitig das Publikum vor Täuschung zu
+schützen (BGE 100 II 224). Ausgehend vom Grundsatz der Freiheit bei der
+Firmenwahl gilt Folgendes: Je geringfügiger die gesetzlichen sowie
+regulatorischen Auflagen zur Firmenbildung, desto höher sind die
+Anforderungen an die Unterscheidbarkeit gegenüber älteren Firmen. Dies trifft
+besonders bei der Aktiengesellschaft zu. Bei sämtlichen Gesellschaftsformen
+knüpft das Recht zum ausschliesslichen Gebrauch einer Firma an die Priorität
+der Eintragung im Schweizerischen Handelsregister an (OR BSK-
+Altenpohl
+, Art. 951 N 1, mit
+Hinweisen).
+b)
+Die Firma green.ch AG
+(CH-170.3.030.640-6) der Klägerin 1 wurde am 6. Juli 2010 im
+Handelsregister eingetragen. Der Eintrag der DeepGreen Datacenter AG erfolgte
+am 10. November 2009 und damit rund ein halbes Jahr früher. Die green.ch
+AG (CH-170.3.030.640-6) geniesst deshalb keine Firmenpriorität.
+2.2.—
+a)
+Die
+Klägerin 1 bringt im Zusammenhang mit der prioritären Eintragung vor, „die
+‚alte‘ green.ch AG (CH-170.3.028.095-0)“ sei „Inhaberin der Firmen- und Markenrechte,
+welche bisher der am 18. Februar 2005 gegründeten und am 6. Juli
+2010 aus dem Handelsregister des Kantons Aargau gelöschten green.ch AG
+(CH-170.3.028.095/a) zustanden“.
+b)
+Mit der Fusion gehen
+sämtliche Aktiven und Passiven der übertragenden Gesellschaft auf die
+übernehmende Gesellschaft über (Art. 22 Abs. 1 Fusionsgesetz [FusG;
+SR 221.301]), nicht aber die Firma. Gleich wie der zivilrechtliche Name
+ist die Firma ein subjektives, absolutes und höchstpersönliches Recht (
+Hilti,
+in: SIWR III,
+S. 233). Das Firmenrecht ist ein Persönlichkeitsrecht, typischerweise
+ist die Firma unübertragbar (
+Hilti,
+in: SIWR III S. 235 und S. 279). Mit der Löschung der
+Gesellschaft im Handelsregister endet die Persönlichkeit einer Aktiengesellschaft
+(Art. 52 Abs. 1 ZGB e contrario). Die ursprüngliche Firma kann
+damit zwar neu eingetragen werden, doch verliert sie mit der Löschung im
+Handelsregister die damalige Priorität. Die neu eingetragene Firma begründet
+im Zeitpunkt der Eintragung eine neue Priorität. Die green.ch AG
+(CH-170.3.030.640-6) kann sich folglich nicht auf die Alterspriorität der
+green.ch AG (CH-170.3.028.095-0) oder gar der green.ch AG
+(CH-400.3.022.629-2) berufen. Sie kann einzig ihre eigene Eintragung im
+Handelsregister geltend machen, die am 6. Juli 2010 stattgefunden hat –
+mehr als ein halbes Jahr nachdem die DeepGreen Datacenter AG im Handelsregister
+eingetragen wurde. Damit geniesst die Klägerin 1 green.ch AG
+(CH-170.3.030.640-6) keine Firmenpriorität.
+Markenrecht
+3.—
+a)
+Einen
+mittelbaren Schutz kann sodann auch das Markenschutzgesetz (MSchG;
+SR 232.11) vermitteln, zumindest dann, wenn die Firma gleichzeitig als
+Marke hinterlegt ist. Das MSchG erlaubt dem Markeninhaber, gegen jede Verwendung
+seiner Marke als Kennzeichen im Geschäftsverkehr vorzugehen, einschliesslich
+der Verwendung als Firma. Im Übrigen sind Kollisionen zwischen Namen-,
+Firmen-, und Markenrecht nicht schematisch zu entscheiden, sondern durch Abwägen
+der gegenseitigen Interessen (
+Meier-Hayoz/Forstmoser
+,
+Gesellschaftsrecht, 11. Aufl­age, § 7 Rz.  116, mit
+Hinweisen).
+b)
+Das Markenrecht
+verleiht dem Inhaber das ausschliessliche Recht, die Marke zur Kennzeichnung
+der Waren oder Dienstleistungen, für die sie beansprucht wird, zu gebrauchen
+oder darüber zu verfügen (Art. 13 Abs. 1 MSchG). Der markenrechtliche
+Ausschliesslichkeitsanspruch konkretisiert sich dabei in einer eigentumsähnlichen
+Verfügungsmacht, sowie in einer Sperrkompetenz gegenüber verwechselbaren
+Drittzeichen (
+von Büren/Marbach/Ducrey
+,
+Immaterialgüter- und Wettbewerbsrecht, 3. Auflage, Rz. 705). Die
+Verfügungsmacht ermöglicht dem Markeninhaber, gleich wie ein Eigentümer,
+grundsätzlich darüber zu bestimmen, ob und wie er sein Recht nutzen will.
+Darüber hinaus sperrt der markenrechtliche Ausschliesslichkeitsanspruch
+jegliche kennzeichnungsmässige Nutzung des gleichen oder eines verwechselbar
+ähnlichen Zeichens für gleiche oder gleichartige Produkte. Ausgeschlossen ist
+somit nicht nur der markenmässige Mitgebrauch, sondern jegliche
+kennzeichnungsmässige Verwendung durch Dritte, somit auch als Firma, Domain,
+Enseigne oder sonst wie als Geschäftsbezeichnung (
+von Büren/Marbach/Ducrey
+, Immaterialgüter- und
+Wettbewerbsrecht, 3. Auflage, Rz. 706 f.).
+3.1.—
+a)
+Das
+Markenrecht entsteht mit der Eintragung im Register und steht demjenigen zu,
+der die Marke zuerst hinterlegt (Art. 5 und Art. 6 MSchG).
+b)
+Die Klägerin 1 hat eine
+Wortmarke GREEN und vier Bildmarken green.ch im Markenregister eingetragen.
+Da die Beklagte keine Marke im Register eingetragen hat, sind die Interessen
+der green.ch AG und der DeepGreen Datacenter AG frei abzuwägen (vgl. Erw.
+III.3.a).
+3.2.—
+a)
+Sowohl die
+Klägerin 1 als auch die Beklagte bieten IT-Lösungen im Zusammenhang mit
+Datacentern und damit zumindest gleichartige Dienstleistungen an. Das Zeichen
+„green“ der Klägerin 1 hat sich im Rechtsverkehr durchgesetzt.
+b)
+Die Firmen green.ch AG
+und DeepGreen Datacenter AG enthalten das englische Wort „green“, das in
+beiden Fällen als zentrales Element hervortritt. Aufgrund dieser Tatsache
+sind Fehlzurechnungen möglich. Die Firma der Beklagten lässt aufgrund der
+Ähnlichkeit zu den eingetragenen Zeichen der Klägerin 1 befürchten, dass die
+Kunden falsche Rückschlüsse über den Anbieter ziehen könnten. Der Zusatz
+„Datacenter“ ist als Bezeichnung nicht charakteristisch genug, um die Firma
+der Beklagten hinreichend abzugrenzen, zumal sowohl die Klägerin 1 als
+auch die Beklagte Dienstleistungen im Zusammenhang mit Datencentern
+erbringen. Gleiches gilt für die Ergänzung „Deep“, welche gleichsam als
+Präfix vorangestellt wird. Auch hier ist festzustellen, dass „Green“ das
+zentrale Firmenelement bleibt.
+Da die Dienstleistungen und
+Produkte der Klägerin 1 und der Beklagten mindestens gleichartig sind und die
+Firma der Beklagten eine sehr starke Ähnlichkeit mit den Marken der Klägerin
+1 aufweist, ist das Risiko von Fehlzurechnungen erheblich, womit sich die
+Verwechslungsgefahr vor dem Hintergrund der gesamten Umstände manifestiert.
+c)
+Nach dem Gesagten
+erhellt, dass sich die Firma der Beklagten auch durch das Beifügen der
+Zusätze „Deep“ und „Datacenter“ nicht hinreichend von der Klägerin 1
+unterscheiden lässt. Aufgrund der langen Verwendungsdauer und der Bedeutung
+der Marken „green“ für Produkte der Klägerin 1 ist deren Interesse am Zeichen
+GREEN bzw. green.ch höher zu bewerten als das der Beklagten.
+3.3.—
+Zusammenfassend ist
+festzuhalten, dass die Beklagte durch den Gebrauch des Zeichens „Green“ in
+ihrer Firma DeepGreen Datacenter AG die Rechte der Klägerin 1 verletzt.
+Damit ist der Beklagten zu verbieten, die Firma DeepGreen Datacenter AG zu
+verwenden. Im Übrigen ist ihr zu untersagen, die Zeichen GREEN oder green.ch
+zur Kennzeichnung von Waren oder Dienstleistungen zu gebrauchen, die
+identisch oder gleichartig sind mit den Waren und Dienstleistungen der
+Klägerin 1.
+deep AG (CH-020.3.034.322-6)
+Firmenrecht
+4.—
+Die deep AG
+(CH-020.3.034.322-6) wurde am 27. Dezember 2011 im Handelsregister
+eingetragen. Damit geniesst die Klägerin 2 keine Firmenpriorität und kann
+folglich keinen Anspruch aus Firmenrecht geltend machen (vgl. die allgemeinen
+Ausführungen zum Firmenrecht vorstehend unter Erw. III. Ziff. 2).
+Markenrecht
+5.—
+a)
+Die Klägerin
+2 hat eine Bildmarke deep im Markenregister eingetragen. Da die Beklagte
+keine Marke im Register eingetragen hat, sind die Interessen der deep und der
+DeepGreen Datacenter AG ebenfalls frei abzuwägen (vgl. Erw. III.3.a).
+b)
+Die Klägerin 2 und die
+Beklagte bieten keine identischen oder ähnlichen Dienstleistungen an. Damit
+hat die Klägerin 2 gegen die Beklagte auch keinen Anspruch aus Markenrecht
+(vgl. Art. 3 Abs. 2 MSchG).
+6.—
+Zusammenfassend ist
+festzuhalten, dass die Klage der Klägerin 2 abzuweisen ist.
+IV.
+Ausgangsgemäss sind die
+Gerichtskosten, welche auf die Klage der green.ch AG gegen die DeepGreen
+Datacenter AG entfallen, der DeepGreen Datacenter AG aufzuerlegen, welche
+überdies zu verpflichten ist, der green.ch AG eine angemessene
+Parteientschädigung zu entrichten (Art. 106 Abs. 1 i.V.m.
+Art. 95 Abs. 1 ZPO). Entsprechend sind die Gerichtskosten, die von
+der Klage der deep AG gegen die DeepGreen Datacenter AG herrühren, der deep
+AG aufzuerlegen, die zudem zu verpflichten ist, der DeepGreen Datacenter AG
+eine angemessene Parteientschädigung zu bezahlen (Art. 106 Abs. 1
+i.V.m. Art. 95 Abs. 1 ZPO).
+Der Streitwert übersteigt
+Fr. 100‘000.-.
+____________________
+Das Gericht
+erkennt
+:
+1.
+In Gutheissung der Klage der green.ch AG
+(CH-170.3.030.640-6) wird der DeepGreen Datacenter AG verboten, ihre Firma
+weiter zu verwenden. Im Übrigen wird ihr untersagt, die Zeichen GREEN oder
+green.ch zur Kennzeichnung von Waren oder Dienstleistungen zu gebrauchen,
+die identisch oder gleichartig sind mit den Waren und Dienstleistungen der
+Klägerin 1.
+2.
+Die Gerichtsgebühr für die Klage der green.ch AG gegen
+die DeepGreen Datacenter AG wird festgesetzt auf Fr. [...] und der
+DeepGreen Datacenter AG auferlegt.
+3.
+Die DeepGreen Datacenter AG wird verpflichtet, der
+green.ch AG eine Parteientschädigung von Fr. [...] zu bezahlen.
+4.
+Die Klage der deep AG (CH-020.3.034.322-6) wird
+abgewiesen.
+5.
+Die Gerichtsgebühr für die Klage der deep AG gegen die
+DeepGreen Datacenter AG wird festgesetzt auf Fr. [...] und der deep AG
+auferlegt.
+6.
+Die deep AG wird verpflichtet, der DeepGreen Datacenter
+AG eine Parteientschädigung von Fr. [...] zu bezahlen.
+7.
+Schriftliche
+Mitteilung an:
+[...]
