@@ -1,0 +1,594 @@
+---
+decision_id: "gl_gerichte_OG.2010.00029"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2010.00029"
+docket_2: "OGZ.2013.83"
+decided: "2013-05-17"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=190&W10_KEY=218274&nTrefferzeile=1&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/173.110/art-093.md", "switzerland/bund/acts/220/art-001.md", "switzerland/bund/acts/220/art-412.md", "switzerland/bund/acts/220/art-413.md"]
+---
+
+# GL Gerichte OG.2010.00029
+
+## Regeste
+
+Forderung
+
+## Text
+
+Glarus Obergericht 17.05.2013 OG.2010.00029 (OGZ.2013.83)
+Glaris Obergericht 17.05.2013 OG.2010.00029 (OGZ.2013.83)
+Glarona Obergericht 17.05.2013 OG.2010.00029 (OGZ.2013.83)
+
+Kanton Glarus
+Obergericht
+Urteil
+vom 17. Mai 2013
+Verfahren
+OG.2010.00029
+B.______
+Berufungsklägerin
+vertreten
+durch C.______
+Vertreter,
+gegen
+A.______
+Berufungsbeklagte
+vertreten
+durch D.______
+Vertreter,
+betreffend
+Forderung
+über die Anträge der Parteien
+A. der
+Beklagten und Berufungsklägerin
+(gemäss
+Berufungserklärung vom 27. Mai 2010 sowie gemäss Berufungsbegründung vom
+4. Oktober 2010):
+"1.
+Es
+sei das Urteil des Kantonsgerichts vom 01.04.2010 im Sinne der Ausführun­gen
+der Berufungsklägerin vollumfänglich aufzuheben.
+2.
+Alles
+unter Kosten- und Entschädigungsfolge zu Lasten der Berufungsbeklag­ten."
+B. der
+Klägerin und
+Berufungsbeklagten
+(gemäss
+Berufungsantwort vom 7. Februar 2011):
+"1.
+In
+Gutheissung des Urteils des Kantonsgerichtes Glarus vom 1.4.2010
+(ZG.2008.00847) sei die Berufung der Berufungsklägerin vollumfänglich abzu­weisen;
+2.
+Alles
+unter Kosten- und Entschädigungsfolgen zulasten der
+Berufungsklägerin."
+_____________________________
+in Erwägung gezogen:
+---------------------------------
+I.
+(Sachverhalt
+und Prozessgeschichte)
+1.—
+a)
+Die in der Gemeinde Glarus
+Nord domizilierte B.______ AG ist spezialisiert auf die Planung und
+Installation von Sonderabfallverbrennungsanlagen; X.______ fungiert als
+Präsident und Delegierter des Verwaltungsrats.
+b)
+Die A.______ AG mit Sitz in [...] ist
+gemäss Handelsregistereintrag im internationalen Handel mit Laborgeräten,
+medizinischen Geräten und Pharmazeu­tika tätig. Allerdings hat das
+Unternehmen, als dessen Verwaltungsratsprä­sident Y.______ fungiert, seine
+Aktivitäten auf Bereiche auch ausserhalb des Handels mit Medizingeräten
+ausgedehnt.
+2.—
+a)
+Im Dezember 2007 erhielt die
+B.______ AG den Zuschlag für die Reali­sierung einer Verbrennungsanlage für
+Spitalabfälle in der bulgarischen Stadt Plovdiv. Finanziert wurde das
+betreffende Projekt mit einem Kosten­etat von Fr. 3‘550‘000.‑
+durch das Staatssekretariat für Wirtschaft SECO im Rah­men der Inf­rastrukturfinanzierung
+der Schweiz zugunsten der Transitionsländer Osteuropas und der ehemaligen
+Sowjetunion, wobei die Schweiz und Bulgarien am 18. Dezember 2006 ein
+Finanzhilfe­abkommen unterzeichnet hatten.
+b)
+Die B.______ AG hatte das Projekt in
+Plovdiv über mehrere Jahre hinweg verfolgt. Dabei stand sie auch in Kontakt
+mit der A.______ AG, welche ihr im Herbst 1999 anerboten hatte, bei der
+Initiierung entsprechender Vorhaben in Osteu­ropa behilflich zu sein. Mit
+Schreiben vom 7. März 2000 stellte die B.______ AG der A.______ AG in
+Aussicht, dass sie ihre Leistungen mit einer Provi­sion von 12 %,
+berechnet auf dem Nettopreis der „Hardware“, honorieren würde, sollte in
+Plovdiv eine Verbrennungsanlage realisiert werden können. Mit Schreiben vom
+18. August 2005 widerrief die B.______ AG ihre Provisionszu­sage, im
+Wesentlichen mit der Begründung, die bisherigen Bemühungen der A.______ AG
+hätten zu keinem Erfolg geführt bzw. die A.______ AG habe sogar eine
+Konkurrenzfirma […] begünstigt.
+3.—
+Nachdem die A.______ AG vom Zuschlag des
+Projekts in Plovdiv an die B.______ AG erfahren hatte, machte sie mit
+Schreiben vom 3. Dezember 2007 einen Provisionsanspruch von
+Fr. 435‘000.‑ geltend.
+4.—
+a)
+Daraufhin leitete die A.______
+AG gegen die B.______ AG beim Vermittleramt Glarus Nord Klage über die
+verlangte Provision ein.
+b)
+Mit Eingabe vom 16. Oktober 2008 reichte
+die A.______ AG den Klage­schein dem Kantonsgericht Glarus ein. Dabei
+veranschlagte sie ihre Forde­rung auf einstweilen Fr. 200‘000.‑,
+behielt sich aber explizit ein Nachkla­gerecht vor; sie wies darauf hin, dass
+sie den genauen Betrag der Provision erst beziffern könne, wenn ihr die
+Abrechnungsbelege über die in Bulgarien installierte Anlage vorlägen.
+c)
+In ihrer schriftlichen Klagebegründung
+vom 9. Februar 2009 bezifferte die A.______ AG ihr Provisionsguthaben
+auf Fr. 389‘400.‑; dieser Betrag entspricht 12 % des
+inzwischen von der B.______ AG ausgewiesenen Nettopreises von
+Fr. 3‘245‘000.‑ für die technischen Bestandteile der
+Verbrennungsanlage in Plovdiv.
+5.—
+Mit Entscheid vom 1. April 2010
+hiess das Kantonsgericht die Klage der A.______ AG gut und verpflichtete die
+B.______ AG zur Zahlung von Fr. 389‘400.‑ nebst Zins zu 5 %
+seit 6. Januar 2008 (Dispositiv Ziff. 1). Das Kan­tonsgericht
+auferlegte die Verfahrenskosten der B.______ AG und sprach der A.______ AG
+eine Parteientschädigung von Fr. 20‘000.‑ zu (Dispositiv
+Ziff. 2‑4).
+6.—
+a) Dagegen erhob die B.______ AG am
+27. Mai 2010 rechtzeitig Beru­fung. Wie schon vor Vorinstanz beantragt
+sie implizit die vollumfängliche Abwei­sung der Klage der A.______ AG.
+b)
+Nach einem Schriftenwechsel zur
+Berufungsbegründung und Beru­fungsantwort und einer erfolglos gebliebenen
+Einigungsverhandlung am 19. Mai 2011 unter der Leitung des
+Obergerichtspräsidenten fand am 4. Mai 2012 die mündliche Verhandlung zu
+Replik und Duplik statt; hin­sichtlich der dabei gemachten Ausführungen der
+Parteien wird auf das Sitzungs­protokoll des Gerichtsschreibers verwiesen.
+c)
+An seiner Sitzung vom
+17. Mai
+2013
+fällte das Obergericht seinen Ent­scheid; es heisst dabei die Berufung aus
+den nachstehenden Überlegungen gut und weist die Streitsache zur
+Neubeurteilung an die Vorinstanz zurück.
+Bei der Urteilsberatung des
+Obergerichts amtete der Gerichtsschreiber zugleich als Ersatz­richter für die
+kurzfristig ausgefallene Oberrichterin P.______ (Art. 27 GOG GL).
+7.—
+Am 1. Januar 2011 trat die
+eidgenössische Zivilprozessordnung in Kraft. Zu diesem Zeitpunkt anhängige
+Verfahren sind bis zum Abschluss vor der betroffenen Instanz nach bisherigem
+Verfahrensrecht abzuwickeln (Art. 404 Abs. 1 ZPO/CH). Die B.______
+AG hat die hier zu beurteilende Berufung am 27. Mai 2010 erhoben, womit
+sich das Verfahren wei­terhin nach der früheren kanto­na­len Zivilprozessord­nung
+richtet.
+II.
+(Materielle
+Erwägungen)
+1.—
+Beurteilung der vertraglichen
+Beziehung der Parteien
+1.1.—
+Einleitung
+Beide Parteien machen übereinstimmend geltend, dass sie auf der Basis
+des Schreibens der A.______ AG vom 4. März 2000 und des Antwort­schreibens
+der B.______ AG vom 7. März 2000 eine vertragliche Beziehung eingegangen
+seien. Indes sind sich die Parteien über die konsensuale Tragweite der beiden
+Schreiben uneinig. Zur Klärung dieser Streitfrage ist zunächst aufzuzeigen,
+wie die Parteien überhaupt zueinander gefun­den haben.
+1.2.—
+Anbahnung der
+geschäftlichen Beziehung
+a)
+Aus den Akten ist ersichtlich, dass die
+A.______ AG Mitte August 1999 erstmals in Kontakt zur B.______ AG trat und
+sich dabei für die von der B.______ AG vertriebenen Verbrennungsanlagen für
+Spitalabfälle interessierte. Rund einen Monat später, mit Schreiben vom
+25. September 1999, gelangte Y.______ von der A.______ AG erneut an die
+B.______ AG. Er in­formierte darin über die bisherige Ausrichtung der A.______
+AG auf die Bereit­stellung von medizinischen Gerätschaften im Bereich
+Neonatologie in vorwiegend osteuropäischen Staaten. Da jedoch der Bund
+zwischenzeitlich den Fokus bei der Zusprechung von Investitionskrediten in
+Entwicklungsländern geändert habe, sei die A.______ AG bestrebt, sich neu zu
+positionieren. Konkret erwähnte Y.______ in diesem Zusammenhang die
+Errichtung von Abfallverbrennungsanla­gen für Spitäler, in welchem
+Marktsektor die B.______ AG tätig war, worauf er sich denn auch spezifisch
+bezog („… Incineration Plants für Spitäler […], wie Sie in Ungarn gemacht
+haben“). Anbei wies Y.______ darauf hin, dass er Partner unter anderem in
+Bulgarien habe („werde ich vom 28. bis 30. September besuchen“), merkte
+zudem an, dass „Bosnien sofort für 2 Anlagen ein Projekt erstellen“ möchte
+und erkundigte sich hierbei nach dem Ablauf bei der Umsetzung („gibt es
+Fragebögen, Projektbeschriebe, wie vorzugehen ist?“). Ab­schliessend regte er
+an, sich mit X.______ von der B.______ AG zu einem Gedankenaustausch zu treffen.
+b)
+In der Folge hat X.______ mit Schreiben
+vom 29. September 1999 der A.______ AG die einzelnen Schritte bei der
+Initiierung von Ent­wicklungshilfe-Projekten in Osteuropa erläutert:
+1)
+Einbezug einer
+Non-Profit-Organisation vor Ort (Spital, Universität, Kommune), welche die
+erforderlichen Gebäulichkeiten für die Installation der Anlage bereitstellt
+und den späteren Betrieb finanziert;
+2)
+die örtliche
+Organisation unterbreitet der nationalen Koordinationsstelle einen
+Projektvorschlag;
+3)
+sofern die
+nationale Koordinationsstelle das Projekt als „sinnvoll und prioritär“
+beurteilt, empfiehlt sie der Schweizerischen Koordinationsstelle im
+Empfängerland dessen Realisierung;
+4)
+die
+Schweizerische Koordinationsstelle unterbreitet das Projekt dem Seco;
+5)
+das Seco setzt
+einen unabhängigen Konsulenten ein, der in Zusammenarbeit mit dem örtlichen
+Auftraggeber das Vergabeverfahren eng begleitet.
+c)
+Im Anschluss an einen Besuch bei der
+B.______ AG am 8. Oktober 1999 erhielt Y.______ weitere Dokumentationsunterlagen
+über Verbrennungsöfen zugestellt.
+d)
+Mit Schreiben vom 25. Dezember 1999
+berichtete Y.______ der B.______ AG über seine Einschätzung bezüglich
+möglicher Projekte in verschie­denen osteuropäischen Ländern. In Bezug auf
+Bulgarien führte er aus, „ein Spital in Varna und noch einer anderen Stadt“
+seien sehr interessiert. An beiden Standorten sei aber die Finanzierung der
+Betriebskosten das Problem. Indes wür­den „meine Leute in Bulgarien nun diese
+Kosten genau auflisten, und wir werden dann versuchen, auch diese Kosten im
+Projekt einzuschliessen und für eine Zeit­spanne von 5 Jahren vom
+SECO/BAWI bezahlt zu bekommen“ [Zitierungen jeweils ohne orthografische
+Fehler]. Abschliessend gab sich Y.______ zuversicht­lich, im kommenden Jahr
+in Osteuropa ein oder zwei Projekte realisieren zu können.
+1.3.—
+Briefwechsel vom 4. und
+7. März 2000
+a)
+Am 4. März 2000 erreichte die B.______ AG
+das nachstehende Faxschrei­ben der A.______ AG:
+„Guten Tag Herr X.______
+Danke für Ihre Antwort vom
+28.2.2000. Ich hatte sehr interessante Gespräche in Sofia und Plovdiv.
+Der zuständige Herr beim
+MOH in Sofia für die Schweizer-Hilfsgelder wird uns die volle Unterstützung
+geben. Dies hat er mir an einem langen Nachtessen bestätigt. Ich kenne Ihn
+schon recht lange.
+In Plovdiv habe ich den
+Bürgermeister und den Rektor der Universität und des Regional-Spitales
+Plovdiv gesprochen. Es gibt dort noch ein kleines Hin und Her, wo man die
+Anlage plazieren will. Bei der Uni wäre besser, da dort sehr schnell eine
+neue kleine Halle hingebaut werden könnte.
+Beim Regional-Spital (auch
+ein sehr grosses Spital), gibt es Gebäude, die leer sind, jedoch ich würde
+die Qualität der Gebäude als sehr schlecht beurteilen.
+Es wird nun ein
+schriftliches Projekt erstellt, mit allen nötigen Daten und uns dann
+zugestellt zur Korrektur und dann beim SECO eingereicht.
+Bitte bestätigen Sie mir
+kurz, dass A.______ AG auf dieses Geschäft in Bulgarien 12 % bekommt
+(Service, und Hilfe bei der Installation, bereits in den 12 %
+eingeschlossen). Mein Agent hat 6 Techniker.
+In der regionalen Zeitung
+war bereits etwas erwähnt über dieses Projekt.
+Und über einen
+diplomatischen Kanal in der Schweiz habe ich auch schon gehört, dass in
+Bulgarien über das SECO was in Richtung Verbrennungs­anlage läuft.“
+b)
+Die B.______ AG antwortete daraufhin mit
+Brief vom 7. März 2000:
+„Sehr geehrter Herr
+Y.______
+Wir danken Ihnen für obige
+Nachricht.
+Gerne bestätigen wir, dass
+wir Ihre Leistungen bei einem zustande ge­kommenen Projekt, mit
+Plovdiv/Bulgarien, mit 12 % Provision auf die Net­topreise der Hardware
+(Equipment ohne Dienstleistungen wie Montage, Inbetriebsetzung, Transport
+usw.) belohnen.
+Diese Provision deckt alle
+Akquirierungskosten und Provisionen auf der Kundenseite.“
+1.4.—
+Inhalt der vertraglichen
+Übereinkunft der Parteien
+1.4.1.—
+Thematik der vorliegenden
+Auseinandersetzung
+a)
+Beide Parteien gehen übereinstimmend und
+insoweit zutreffend davon aus, dass sie im Rahmen des eben dargelegten
+Briefwechsels verbindlich eine Provi­sionsabrede getroffen und damit eine
+vertragliche Beziehung (Art. 1 OR) begründet haben.
+b)
+Die Parteien liegen indes im Streit
+darüber,
+unter welchen Voraussetzungen
+die zugesicherte Provision
+tatsächlich geschuldet ist. Während die B.______ AG die Meinung vertritt, die
+A.______ AG habe die zur Erlangung des Provisionsan­spruchs konkret
+vereinbarten Leistungen nicht erbracht, machte die A.______ AG vor Vorinstanz
+geltend, sie habe die ihr vertraglich obliegenden Aufgaben erfüllt und da­bei
+dazu beigetragen, dass die B.______ AG den Zuschlag zur Lieferung der Ver­brennungsanlage
+nach Plovdiv erhalten habe.
+1.4.2.—
+Standpunkt der
+Vorinstanz; Positionen der Parteien im
+Berufungsverfahren
+a)
+Die Vorinstanz hat im angefochtenen
+Entscheid die brieflich getroffene Über­einkunft der Parteien vom 4. und.
+7. März 2000 als Mäklervertrag im Sinne von Art. 412 Abs. 1 OR
+qualifiziert, freilich mit dem unzutreffenden Hinweis, dass dies auch der
+Rechtsauffassung beider Parteien entspreche. Sie hat hierauf im Wesentlichen
+erwogen, die vertraglich geschuldete Leistung der A.______ AG als Mäklerin
+habe sich darin erschöpft, der B.______ AG die Idee einer Verbrennungsanlage
+für Spitalabfälle in Plovdiv zu unterbreiten; weiterge­hende
+Mitwirkungspflichten im Hinblick auf die Pro­jektrealisierung hätten für die
+A.______ AG keine bestanden, weshalb ihr denn auch keine Versäumnisse
+anzulasten seien. Nachdem in der Folge die B.______ AG den Zuschlag für die
+Installation der Verbrennungsanlage erhalten habe und damit der mit der Mäklervereinbarung
+angestrebte Hauptvertrag zustande gekommen sei, habe sich der Anspruch der
+A.______ AG auf die ver­abredete Provision verwirklicht. Unerheblich sei
+dabei, dass der Mäklervertrag durch die B.______ AG noch vor dem Zuschlag
+gekündigt worden sei, da der psycholo­gische Kausalzusammenhang zwischen der
+Offenbarung einer Projektmöglichkeit in Plovdiv durch die A.______ AG und der
+nachfolgenden Vergabe des konkreten Auftrags zur Lieferung und Montage der
+Verbrennungsanlage an die B.______ AG gegeben sei: „Wenn die Klägerin
+[B.______ AG] nicht aktiv geworden wäre und die Beklagte nicht kontaktiert
+hätte, hätte die Beklagte [A.______ AG] nichts von einem potenti­ellen
+Projekt in Plovdiv gewusst und es hätte in der Folge auch nicht zur Ausarbei­tung
+des genauen Projektes und letztlich zum Vertragsabschluss mit der Stadt
+Plovdiv bzw. dem Zuschlag durch das SECO kommen können“.
+b)
+Die B.______ AG rügt mit vorliegender
+Berufung die eben dargelegte Sicht­weise der Vorinstanz; diese verkenne, dass
+das blosse Vorbringen der Pro­jektidee noch keinen Provisionsanspruch
+begründet habe. Vielmehr sei der A.______ AG eine umfassende Daueraufgabe
+oblegen, indem sie die Umsetzung des Projekts über die mehreren
+administrativen und politischen Hürden hinweg bis hin zur Auf­tragserteilung
+an die B.______ AG hätte fördern und unterstützen müs­sen. Demgegenüber hat
+sich die A.______ AG im Berufungsverfah­ren ebenfalls die Ansicht der
+Vorinstanz zu eigen gemacht; im Unterschied zu ihren erstinstanzlichen
+Vorbringen führte sie nunmehr aus, dass sie zum Zeitpunkt der Einigung über
+die Provision anfangs März 2000 ihre Mäklerauf­gabe bereits vollstän­dig
+erfüllt habe, denn sie habe bereits
+davor
+das Projekt derart
+ausgestaltet, dass danach nur noch die B.______ AG für den Zuschlag in Frage
+gekommen sei. Ihr Auftrag als Mäklerin habe sich „auf den Nachweis, resp. das
+Zuführen“ beschränkt; allein dafür sei der Lohn versprochen gewesen.
+1.4.3.—
+Auseinandersetzung mit
+dem Standpunkt der Vorinstanz
+a)
+Der von der Vorinstanz erwogene
+Mäklervertrag wird in Art. 412 Abs. 1 OR begrifflich umschrieben.
+Danach übernimmt bei diesem Kontrakt der Mäkler den Auftrag, gegen eine
+Vergütung Gelegenheit zum Abschluss eines Vertrages nach­zuweisen oder den
+Abschluss eines Vertrages zu vermitteln. Dabei ist gemäss Art. 413
+Abs. 1 OR der Mäklerlohn verdient, sobald der Vertrag infolge des Nach­weises
+oder infolge der Vermittlung des Mäklers zustande gekommen ist. Mithin
+verspricht der Auftraggeber dem Mäkler eine Vergütung, wenn dessen
+Tätigwerden zum Abschluss des vom Auftraggeber angestrebten Geschäfts führt
+oder beiträgt. Die Tätigkeit des Mäklers kann nach dem Willen der Parteien
+auf den Nachweis von Interessenten beschränkt (Nachweismäkler) oder auf die
+Vermittlung in den Ver­handlungen zwischen den Parteien (Vermittlungsmäkler)
+gerichtet sein. Bei der Nachweismäklerei erschöpft sich die Aufgabe des
+Mäklers in der Mitteilung einer oder mehrerer konkret bestimmter
+Abschlussgelegenheiten; die Vermittlungsmäkle­rei setzt dagegen voraus, dass
+der Mäkler den Abschluss des erhofften Hauptver­trages aktiv fördert, z.B.
+durch Teilnahme und Vermittlung an den Vertragsverhand­lungen oder die
+Redaktion des Vertrages. Die Praxis kennt sodann als Zwischen­stufe die
+Zuführungsmäklerei, bei der dem Mäkler eine Tätigkeit übertragen ist, die
+über den Nachweis hinausgeht, jedoch hinter der Vermittlung zurückbleibt (BSK
+OR I-
+Ammann
+, Art. 412
+N 1). Qualifikationsmerkmal des Mäklervertrags ist überdies die
+Erfolgsbedingtheit des Mäklerlohnanspruchs. Im Lichte von Art. 413
+Abs. 1 OR ist die Mäklerprovision nur geschuldet, wenn der angestrebte
+Hauptvertrag zustande kommt und der Mäkler dessen Abschluss im Rahmen seiner
+vereinbarten Aufgabe tatsächlich gefördert hat (BSK OR I-
+Ammann
+, Art. 412 N 3; BK-
+Gautschi
+, N 3a zu Art. 412
+OR). Je nachdem, ob Nachweis-, Zuführungs- oder Vermittlungsmäklerei
+vereinbart wurde, muss der Vertragsabschluss auf den Nachweis, die Zuführung
+oder die Vermittlung des Mäklers zurückzuführen sein, wenn dieser Anspruch
+auf die Provision erhebt. Fordert der Mäkler den Lohn, obwohl er den
+Hauptvertrag nicht vermittelt, sondern nur die Gelegenheit dazu nachgewiesen
+oder seinem Auftragge­ber den Vertragspartner zugeführt hat, so muss er
+beweisen, dass sich seine Auf­gabe auf den Nachweis oder das Zuführen
+beschränkt hat, resp. dass ihm der Lohn schon für diese Tätigkeit versprochen
+war (BGE 90 II 92 E. 2 S. 95 ff.; Maklerrecht in der
+Immobilienwirtschaft, SVIT [Hrsg.], Zürich 2005, Art. 413 OR N 13).
+b)
+Vorliegend hat die Vorinstanz das
+Vertragsverhältnis zwischen der B.______ AG und der A.______ AG vorerst als
+Vermittlungsmäklerei eingestuft. Dies mit der Begründung, der
+Mäklerlohnanspruch sei davon abhängig gewesen, dass zwi­schen der B.______ AG
+und der Stadt Plovdiv der erhoffte Vertrag über die Errichtung einer
+Verbrennungsanlage zustande kommen und das SECO hierfür die Finanzierung
+zusichern würde. Damit aber hat die Vorinstanz das Wesen des Mäklervertrags
+verkannt. Denn das Zustan­dekommen des Hauptvertrags ist bei allen Formen der
+Mäklerei, mithin bei der Vermittlungs-, Nachweis- und Zuführungsmäklerei,
+generell Bedin­gung dafür, dass eine Mäklerprovision geschuldet ist. Vor dem
+Hintergrund dieses Missverständnis­ses mag sich denn auch erklären, dass die
+Vorinstanz in ihren wei­teren Erwägun­gen keinerlei Ausführungen darüber
+macht, inwiefern die A.______ AG im Sinne einer Vermittlungsmäklerin in die
+Vertragsverhandlungen zwischen der Stadt Plovdiv und der B.______ AG
+einbezogen gewesen wäre und dabei unter­stützend mitgewirkt hätte.
+c)
+Vielmehr hat sich die Vorinstanz mit der
+Feststellung begnügt, die A.______ AG sei mit der Idee einer
+Spitalverbrennungsanlage in Plovdiv an die B.______ AG herangetreten. Damit
+soll nach Ansicht der Vorinstanz die A.______ AG ihren entscheidenden Beitrag
+als Mäklerin bereits erbracht haben im Hinblick auf die spätere Realisie­rung
+der Verbrennungsanlage, bei der die B.______ AG als Liefe­rantin der techni­schen
+Anlagenteile berücksichtigt worden ist. Insofern hat die Vorinstanz das
+Vertragsverhältnis auf eine blosse Nachweismäkle­rei reduziert.
+d)
+Dieser Ansicht der Vorinstanz kann in
+zweifacher Hinsicht nicht gefolgt wer­den:
+aa)
+Zum einen
+widerspricht sie den
+von der A.______ AG selber gemachten Ausführungen im erstinstanzlichen
+Verfahren. Nie hat sie damals die Auffassung vertreten, dass ihre
+vertragliche Verpflichtung gegenüber der B.______ AG ledig­lich darin
+bestanden habe, diese über ein potentielles Projekt in Plovdiv in Kenntnis zu
+setzen. Die A.______ hat im Gegenteil in ihrer Klagebegründung detailliert
+dargelegt, welch zahlreichen Bemühungen sie
+nach
+dem Abschluss der
+Provisions­vereinbarung anfangs März 2000 über die folgenden Jahre hinweg
+konk­ret unter­nommen und dadurch den Projektzuschlag im Jahr 2007 an die
+B.______ AG entscheidend begünstigt habe, so dass ihr
+deswegen
+die
+vereinbarte Provision zu­stehe. In der Rep­lik vor Vorinstanz unterstrich die
+A.______ AG erneut, dass sie „alles vorge­kehrt habe, damit die Beklagte den
+Zuschlag erhalten wird“. Ihre vertragskonform erbrachten Leistungen hätten
+darin bestanden, dass sie vor Ort in Bulgarien „das Politische“ erledigt
+habe, derweil die B.______ AG „sozusagen das Technische lieferte“; dabei sei
+der B.______ AG die Wichtig­keit der politischen Lobby-Arbeit „insbesondere
+in Ländern wie Bulgarien“ geläufig gewesen, weshalb sie ihr „für diese
+Tätigkeit“ die Provision zugesichert habe.
+bb)
+Sodann sprechen weder der Wortlaut der
+beiden Schreiben der Parteien vom 4. und 7. März 2000 (oben
+E. 1.3.) noch die gesamten Umstände des Vertragsab­schlusses dafür, dass
+die Erfüllung des von der A.______ AG übernommenen Auftrages bloss darin
+bestanden hat, gegenüber der B.______ AG einzig die Idee zu äussern, in der
+bulgarischen Stadt Plovdiv könnte im Rahmen der Schweizer Investitionshilfe
+für Osteuropa eine Verbrennungsanlage für Spitalabfälle realisiert werden.
+Hätte es sich so verhalten, ist nicht ersichtlich, weshalb die A.______ AG in
+ihrem Schreiben vom 4. März 2000 der B.______ AG überhaupt noch weitere
+Unterstützung hätte zusichern sollen („Es wird nun ein schriftliches Projekt
+erstellt …“). Denn im besagten Schreiben hat die A.______ AG die Idee eines
+möglichen Projekts in Plovdiv bereits vermittelt und hätte damit, vom
+Gesichtspunkt der Vor­instanz aus, ihren Auftrag bereits vollständig erledigt
+gehabt. Der A.______ AG indes war zum damaligen Zeitpunkt hinlänglich klar,
+dass bis zur Realisierung der angedachten Verbrennungsanlage und der dabei
+erhofften Auftragsvergabe an die B.______ AG noch zahlreiche politische,
+planerische und administrative Hürden zu überspringen sein würden. Denn
+immerhin hatte sie sich im Herbst 1999 von der B.______ AG eigens über die
+Abläufe bei der Umsetzung von Finanzhilfe-Projek­ten in Osteuropa informieren
+lassen (oben E. 1.2. Bst. a und Bst. b). Es steht daher ausser
+Frage, dass auch aus Sicht der A.______ AG die Provisionsabrede von anfangs
+März 2000 die Entschädigung für
+künftiges
+Mitwirken auf einem
+langwieri­gen und komplexen Weg zur Projektverwirklichung mit dem Ziel der
+Arbeitsvergabe an die B.______ AG regeln sollte.
+e)
+Schliesslich erlaubt auch die Höhe der
+vereinbarten Provision von 12 % der Gesamtkosten der technischen
+Anlagenteile („Equipment“) Rückschlüsse auf den Umfang der vertraglich
+vereinbarten Leistungen der A.______ AG. Als sich die Parteien über die
+Provision abgesprochen haben, wussten sie, dass mit einem Investitionsvolumen
+von über Fr. 3 Mio. zu rechnen war. Bei dieser Sachlage aber
+erscheint es kaum wahrscheinlich, dass die B.______ AG der A.______ AG allein
+nur für das blosse Äussern einer Projek­tidee eine Vergütung von über
+Fr. 300‘000.‑ zugesichert haben soll. Das gilt erst recht bei
+einem Projekt wie dem vorliegenden, zu dessen Realisierung es ent­schei­dend
+darauf ankommt, vorab die politischen Verantwortungsträger vor Ort zu über­zeugen
+und darin zu unterstützen, ein konkretes Infrastrukturvorhaben zur Ausfüh­rungsreife
+zu bringen, damit es für Fördergelder aus der Schweiz überhaupt in Betracht
+kommt.
+2.—
+Fazit
+a)
+Als Ergebnis der vorstehenden Erwägungen
+ist festzuhalten, dass die Vor­instanz den von den Parteien auf der Basis
+ihrer beiden Schreiben vom 4. und 7. März 2000 (oben E. 1.3.)
+vertraglich vereinbarten Leistungsumfang unzutreffend abgesteckt hat, soweit
+sie davon ausgegangen ist, die A.______ AG habe den eingeklagten Provisionsanspruch
+allein schon dadurch erlangt, dass sie die Idee zur Errichtung einer
+Verbrennungsanlage in Plovdiv an die B.______ AG herangetra­gen habe.
+b)
+Für die materielle Beurteilung der
+vorliegenden Streitsache ist unabdingbar, in Würdigung aller massgeblichen
+Umstände den genauen Inhalt der vertraglichen Übereinkunft zwischen den
+Parteien zu ermitteln. Steht fest, dass und in welchem Umfang die A.______ AG
+im Interesse der B.______ AG konkret hätte tätig werden sollen, wird zu
+klären sein, inwieweit die A.______ AG diesen Auftrag auch effektiv erfüllt
+hat und inwiefern ihr hierfür eingedenk des späteren Projektzu­schlags an die
+B.______ AG eine Vergütung zusteht. In diesem Kontext wird ebenso die
+Bedeutung des Auftragswiderrufs durch die B.______ AG am 18. August 2005
+zu erörtern sein.
+3.—
+Rückweisung zur Neubeurteilung
+an die Vorinstanz
+a)
+Im Lichte der gemachten Ausführungen
+erweist sich die Berufung der B.______ AG insoweit als begründet, als der
+angefochtene Entscheid auf der Grundlage der von der Vorinstanz angeführten
+Begründung nicht haltbar ist.
+b)
+Das Obergericht fällt nach Massgabe der
+Berufungsanträge gestützt auf die neuen Vorbringen und die vorinstanzlichen
+Akten einen neuen Entscheid (Art. 308 Abs. 1 ZPO/GL). Statt­dessen
+kann es das Verfahren an die Vorinstanz zurückwei­sen, wenn eine Partei ohne
+diese Rückwei­sung in ihren pro­zessualen Rechten ver­kürzt würde
+(Abs. 2).
+c)
+Vorliegend ist es angezeigt, das
+erstinstanzliche Urteil vollumfänglich aufzu­heben und die Klage zur nochmaligen
+Be­handlung an die Vorinstanz zurückzuwei­sen. Denn würde das Obergericht im
+Rah­men des Berufungsverfahrens gewisser­massen als Erstgericht ein
+allfälliges Beweisverfahren durchführen sowie den kon­kreten Inhalt des
+Vertrags zwischen den Parteien ermitteln und die sich daraus ergebenden
+Rechtsfragen erörtern, so stünde der unter­liegen­den Partei in der Folge
+keine obere kantonale Gerichtsinstanz mehr zur Ver­fügung, wel­cher der
+Rechts­streit noch einmal unterbreitet werden könnte.
+III.
+(Prozesskosten)
+1.—
+Gemäss Art. 132 ZPO/GL sind die
+Verfahrenskosten den Parteien nach Massgabe ihres Unterliegens zu überbinden.
+Entsprechend diesem Verteilschlüssel sind auch die Parteikosten zu verlegen
+(Art. 139 Abs. 1 ZPO/GL). Aufgrund der be­schlossenen Rückweisung
+der Sache zur Neubeurteilung an die Vorinstanz ist der materielle Entscheid
+über die Klage noch ausstehend. Es recht­fertigt sich daher im Grundsatz,
+einstweilen einzig die Höhe der obergerichtlichen Gerichtsgebühr fest­zulegen.
+Über die Verlegung dieser Gebühr hat alsdann die Vorinstanz zusam­men mit der
+Bemessung und Verlegung der gesamten Parteikosten nach Massgabe ihres neuen
+Sachentscheids zu befinden (siehe dazu
+Reetz/Hilber
+,
+in: Sutter-Somm/Hasenböhler/Leuenberger, ZPO Komm., Art. 318 N 61).
+2.—
+Der vorliegende Rückweisungsentscheid
+des Obergerichts stellt einen Zwi­schenentscheid im Sinne von Art. 93
+BGG dar (
+Reetz/Hilber
+, a.a.O.,
+Art. 318 N 39).
+_____________________________
+erkannt:
+-------------
+1.
+In Gutheissung der Berufung wird das
+Urteil des Kantonsgerichts Glarus vom 1. April 2010 aufgehoben, und es
+wird im Sinne der vorstehenden Erwägungen die Klage zur Neubeurteilung an
+das Kantonsgericht zurückgewiesen.
+2.
+Die Pauschalgerichtsgebühr für das
+obergerichtliche Verfahren wird auf Fr. 10‘000.‑ festgesetzt.
+Über die Verlegung dieser obergerichtlichen Gerichts­kosten sowie die
+Festsetzung und Verlegung der Parteikosten hat die Vorinstanz nach Massgabe
+des endgültigen Verfahrensausgangs zu entscheiden.
+3.
+Schriftliche Mitteilung an die Parteien
+(je 2/GU) sowie die Vorinstanz.
