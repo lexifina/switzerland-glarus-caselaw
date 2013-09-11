@@ -1,0 +1,654 @@
+---
+decision_id: "gl_gerichte_OG.2010.00043"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2010.00043"
+docket_2: "OGZ.2013.79"
+decided: "2013-09-11"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=182&W10_KEY=218274&nTrefferzeile=6&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-093.md", "switzerland/bund/acts/210/art-008.md", "switzerland/bund/acts/220/art-042.md", "switzerland/bund/acts/220/art-319.md", "switzerland/bund/acts/220/art-321c.md", "switzerland/bund/acts/220/art-342.md", "switzerland/bund/acts/291/art-001.md", "switzerland/bund/acts/291/art-018.md", "switzerland/bund/acts/291/art-116.md", "switzerland/bund/acts/291/art-121.md", "switzerland/bund/acts/822.11/art-003.md", "switzerland/bund/acts/822.11/art-005.md", "switzerland/bund/acts/822.11/art-009.md", "switzerland/bund/acts/822.11/art-013.md", "switzerland/bund/acts/822.11/art-017b.md", "switzerland/bund/acts/822.11/art-019.md", "switzerland/bund/acts/822.11/art-046.md"]
+---
+
+# GL Gerichte OG.2010.00043
+
+## Regeste
+
+Forderung aus Arbeitsvertrag
+
+## Text
+
+Glarus Obergericht 18.01.2013 OG.2010.00043 (OGZ.2013.79)
+Glaris Obergericht 18.01.2013 OG.2010.00043 (OGZ.2013.79)
+Glarona Obergericht 18.01.2013 OG.2010.00043 (OGZ.2013.79)
+
+Forderung aus Arbeitsvertrag
+
+Kanton Glarus
+Obergericht
+Urteil
+vom 11. September 2013
+Verfahren
+OG.2010.00043
+B.______
+Kläger, Berufungskläger und
+Anschlussberufungsbeklagter
+vertreten
+durch C.______
+Vertreter,
+gegen
+A.______
+Beklagte,
+Berufungsbeklagte und
+Anschlussberufungsklägerin
+vertreten
+durch D.______
+Vertreter,
+betreffend
+Forderung
+aus Arbeitsvertrag
+über die Anträge der Parteien
+A. des
+Berufungsklägers
+(gemäss Berufungserklärung vom 15. September
+2010 sowie den mündlichen Ausführungen seines Rechtsvertreters an der
+Berufungsverhandlung vom 8. Juni 2012):
+1.   Es sei das Urteil des Kantonsgerichts vom
+10. August 2010 aufzuheben.
+2.   Es sei die Beklagte zu verpflichten, dem
+Kläger den Betrag von
+€
+118‘178.43
+nebst Zins zu 5 Prozent seit 1. November 2007 zu bezahlen.
+3.   Es sei die Anschlussberufung der
+Berufungsbeklagten abzuweisen.
+4.   Alles unter Kosten- und
+Entschädigungsfolge zu Lasten der Berufungsbeklagten sowie unter dem Vorbehalt
+sämtlicher weiterer Rechte zu Gunsten des Beru­fungsklägers.
+B. der
+Berufungsbeklagten und Anschlussberufungsklägerin
+(gemäss
+Eingabe vom 8. Oktober 2010 sowie den mündlichen Ausführungen ihres
+Rechtsvertreters an der Berufungsverhandlung vom 8. Juni 2012):
+1.   Die Berufung sei abzuweisen.
+2.   Es sei in Gutheissung der
+Anschlussberufung Dispositiv Ziff. 4 des Urteils des Kantonsgerichts vom
+10. August 2010 aufzuheben und es sei der Berufungsklä­ger zu
+verpflichten, der Berufungsbeklagten eine Parteientschädigung von
+Fr. 24‘026.05 zu bezahlen.
+3.   Im Übrigen sei das Urteil des
+Kantonsgerichts zu bestätigen.
+4.   Alles unter Kosten- und
+Entschädigungsfolge zu Lasten des Berufungsklägers.
+_____________________________
+in Erwägung gezogen:
+---------------------------------
+I.
+(Sachverhalt
+und Prozessgeschichte)
+1.—
+a)
+Die A.______ GmbH mit Sitz in Glarus
+Nord hat sich darauf spezialisiert, in Krisengebieten die Verpflegung von
+militärischen und ande­ren Organisationen sicherzustellen. Seit 2005 betreibt
+sie in einem abge­sperrten und bewachten Logistikzentrum (Camp) an der
+Peripherie von Kabul in Afghanistan eine Bäckerei und beliefert vor Ort
+namentlich amerikanische Truppen mit Brot- und Konditoreiwaren.
+b)
+B.______ ist Bäcker mit abgeschlossener
+Meisterprüfung und hat Wohnsitz in [...] in Deutschland. Vom 23. Mai 2005
+bis Ende Oktober 2007 war er für die A.______ GmbH in deren Bäckerei in Kabul tätig,
+zu­nächst in der Funktion eines „Second Production Manager“, ab dem zweiten
+Dienstjahr dann als „Production Manager“.
+c)
+Grundlage der Rechtsbeziehung zwischen B.______
+und der A.______ GmbH bildet der am 1. April 2005 unterzeichnete
+Arbeitsvertrag (International Independent Contractor Agreement). Der monatliche
+Netto­lohn von B.______ betrug zunächst € 3‘000.‑ und erhöhte sich
+mit seiner Be­förderung zum „Production Manager“ auf € 3‘200.‑.
+Daneben erhielt er im ersten Dienstjahr einen Bonus von € 9‘600.‑
+und ab dem zweiten Dienstjahr einen solchen von € 10‘000.‑. Gemäss
+Vertrag solle die wöchentliche Arbeits­zeit bei einer Sechstagewoche im Durchschnitt
+54 Stunden nicht übersteigen; hin­sichtlich allfälliger Mehrstunden wurde
+vereinbart, dass deren Abgeltung im Monats­lohn inbegriffen ist und nicht
+zusätzlich gefordert werden kann. Demgegenüber hatte B.______ jährlich
+63 Ferientage [10½ Wochen]. Schliesslich haben die Parteien den
+Arbeitsvertrag dem schweizerischen Recht unterstellt und Glarus als Gerichtsstand
+bestimmt.
+2.—
+a)
+Mit Eingabe vom 15. Januar
+2009 an das Kantonsgericht Glarus erhob B.______ gegen die A.______ GmbH Klage
+auf Bezahlung von € 120‘401.‑ nebst Zins zu 5 % seit
+1. November 2007. Die geltend gemachte Forderung setzt sich aus folgenden
+Positionen zusammen:
+€ 118‘178.‑                Entschädigung für Mehr-, Nacht- und
+Sonntagsarbeit;
+€     1‘826.‑                Kosten Krankenkasse;
+€        397.‑                Kosten für Rückreise nach
+Beendigung der Arbeitstätigkeit.
+b)
+Die A.______ GmbH schloss in ihrer Eingabe
+vom 14. Juli 2009 an das Kantonsgericht auf vollumfängliche Abweisung der
+Klage.
+3.—
+Mit Entscheid vom 10. August 2010
+wies das Kantonsgericht die Klage von B.______ ab (Dispositiv Ziff. 1),
+aufer­legte ihm die Gerichtskosten (Dispositiv Ziff. 2 und Ziff. 3)
+und verpflichtete ihn zur Bezahlung einer Parteient­schädigung von
+Fr. 7‘000.‑ an die A.______ GmbH (Dispositiv Ziff. 4).
+4.—
+a)
+Dagegen erhob B.______ am
+15. September 2010 rechtzeitig Beru­fung, wobei er die anfänglich geltend
+gemachten Kosten für Krankenkasse und Rückreise fallen liess und nur noch an
+der Entschädigung von € 118‘178.‑ für Mehr-, Nacht- und Sonntagsarbeit
+festhielt.
+b)
+Die A.______ GmbH legte am 8. Oktober
+2010 innert Frist An­schlussberufung ein. Darin beantragt sie, es sei
+Dispositiv Ziff. 4 des kan­tonsgerichtlichen Entscheids aufzuheben und B.______
+zur Bezahlung einer Parteientschädigung von Fr. 24‘026.05 für das
+erstinstanzliche Verfahren zu verur­teilen.
+5.—
+a)
+Am 13. Mai 2011 fand unter der
+Leitung des Obergerichtspräsidenten eine Vergleichsverhandlung statt, an
+welcher jedoch keine Einigung erzielt werden konnte.
+b)
+Darauf wurden die Parteien auf den
+25. November 2011 zur Berufungsver­handlung vorgeladen. Die Sitzung musste
+nach Eröffnung sogleich wieder vertagt werden, da der Rechtsvertreter der A.______
+GmbH den Ter­min vergessen hatte.
+c)
+Die Berufungsverhandlung fand schliesslich
+am 8. Juni 2012 statt, nachdem der zuvor festgelegte Termin im Februar
+2012 infolge eines begründeten Verschiebungsgesuchs des Rechtsvertreters von B.______
+kurzfristig abge­sagt werden musste. Hinsichtlich der von den Parteivertretern
+an der Berufungsverhandlung gemachten Ausführungen wird auf das
+Sitzungsprotokoll des Gerichtsschreibers verwiesen.
+6.—
+Am 1. Januar 2011 trat die eidgenössische Zivilprozessordnung in Kraft. Zu
+diesem Zeitpunkt anhängige Verfahren sind allerdings bis zum Abschluss vor der
+betroffenen Instanz nach bisherigem Verfahrensrecht abzuwickeln (Art. 404
+Abs. 1 ZPO/CH). Die hier zu beurteilende Berufung ist beim Oberge­richt am
+15. September 2010 eingegangen, womit sich das Verfahren wei­terhin nach
+der früheren kanto­nalen Zivilprozessordnung richtet.
+7.—
+Die Vorinstanz hat die örtliche
+Zuständigkeit zur Behandlung der vorliegen­den arbeitsrechtlichen Streitigkeit
+im Ergebnis zu Recht bejaht. Allerdings gründet die Zuständigkeit nicht darauf,
+dass die Parteien im Arbeitsver­trag eine entsprechende Forumswahl getroffen
+haben. Denn bei einer arbeitsrechtlichen Auseinandersetzung ist eine
+Parteivereinbarung über den Gerichtsstand nur verbindlich, sofern sie
+nach
+Entstehung des Streits geschlossen wurde (Art. 17 Abs. 5 LugÜ in der
+Fassung vom 16. September 1988 [aLugÜ] bzw. Art. 21 Ziff. 1 LugÜ
+in der Fassung vom 30. Oktober 2007 [LugÜ]). Indes ist der hie­sige
+Gerichts­stand aufgrund der allgemeinen Zuständigkeitsvorschrift gemäss
+Art. 5 Ziff. 1 aLugÜ bzw. Art. 19 Ziff. 1 LugÜ gegeben, da
+die beklagte A.______ GmbH ihren Sitz in Glarus Nord hat.
+II.
+(Materielle
+Erwägungen)
+1.—
+Zusammensetzung
+und Begründung der eingeklagten Forderung
+1.1.—
+Im Berufungsverfahren ist allein noch
+die von B.______ eingeklagte Lohnnachzahlung von insgesamt € 118‘178.‑
+strittig.
+1.2.—
+a)
+Die Parteien haben ihren
+Arbeitsvertrag vom 1. April 2005 dem schwei­zerischen Recht unterstellt. Darauf
+basierend macht B.______ vorliegend geltend, dass neben den Bestimmungen des
+Obligationenrechts ebenso die Normen des Bundesgesetzes vom 13. März 1964 über
+die Arbeit in Industrie, Gewerbe und Handel (Arbeitsgesetz, ArG;
+SR 822.11) anwendbar seien.
+b) B.______
+stellt sich auf den Standpunkt,
+- dass der Bäckereibetrieb der A.______ GmbH in Kabul als Industrie­betrieb
+im Sinne von Art. 5 Abs. 2 ArG zu qualifizieren sei;
+- dass in einem Industriebetrieb die wöchentliche Höchstarbeitszeit
+gemäss Art. 9 Abs. 1 lit. a ArG 45 Stunden betrage;
+- dass gemäss Art. 9 Abs. 1 lit. b ArG selbst in einem
+nichtindustriellen Betrieb die wöchentliche Arbeitszeit höchstens
+50 Stunden betragen dürfe;
+- dass gestützt auf Art. 13 ArG geleistete Überzeitarbeit mit
+einem Lohnzuschlag von wenigstens 25 % zu entschädigen sei, sofern keine
+Kompensation durch Frei­zeit erfolge;
+- dass gemäss Art. 19 Abs. 3 ArG für Sonntagsarbeit ein
+Lohnzuschlag von 50 % zu gewähren sei;
+- dass gemäss Art. 17b Abs. 2 ArG bei Nachtarbeit ein
+Lohnzuschlag von 10 % geschuldet sei.
+c) B.______
+bringt in tatsächlicher Hinsicht vor,
+er habe während seiner ganzen Anstellungsdauer in der Bäckerei in Kabul an
+sieben Tagen die Woche täg­lich 12 Stunden gearbeitet, ab Oktober 2005 zudem
+ausschliesslich nachts; nicht gearbeitet habe er einzig an den jährlich
+bezogenen 63 Ferientagen. Er beruft sich daher mit Hinweis auf die zuvor dar­gelegten
+arbeitsgesetzlichen Bestimmungen auf die nachstehenden Nachzahlungs­ansprüche:
+‑ Entschädigung für Überstunden:
+€   71‘361.85
+(pro
+sechs Wochentage 27 Std. [72 Std. – 45 Std.])
+‑ Entschädigung für Sonntagsarbeit:
+€   38‘059.65
+(jeweils 12 Std.)
+‑ Zuschlag für
+Nachtarbeit:                                      €     8‘756.94
+(jeweils 12
+Std.)                                                                      _____________
+Total:
+€ 118‘178.44
+2.—
+Anwendbarkeit der schweizerischen
+arbeitsgesetzlichen Normen
+2.1.—
+Wie eben aufgezeigt, nimmt B.______ den
+Standpunkt ein, dass aufgrund der im Arbeitsvertrag vereinbarten Geltung des
+schweizerischen Rechts ebenso die Bestimmungen des schweizerischen
+Arbeitsgesetzes zu berücksichti­gen seien. Die Vorinstanz hat die Anwendbarkeit
+des Arbeits­gesetzes auf das Arbeitsverhältnis zwischen B.______ und der A.______
+GmbH verneint. Dies im Wesentlichen mit der Begründung, der strittige
+Sachverhalt weise keinen zureichenden Bezug zur Schweiz auf, weshalb es sich
+trotz Rechtswahl nicht rechtfertige, auf die Normen des hiesigen
+Arbeitsgesetzes abzustellen, da diese primär den Gesundheitsschutz der in der
+Schweiz wohnhaften Arbeitnehmer bezweckten. Im Sinne einer Eventualbe­gründung
+hat die Vorinstanz sodann angefügt, dass selbst bei Beachtung des
+Arbeitsgesetzes das Klagebegehren von B.______ abzuweisen wäre, da er die behaupteten
+Arbeitszeiten nicht habe beweisen können.
+2.2.—
+Als B.______ in die Dienste der in Glarus
+Nord domizilierten A.______ GmbH trat, hatte er seinen Wohnsitz in Deutschland,
+wo er noch heute lebt; sein Arbeitsort war zeit seiner Anstellung in Kabul.
+Damit bestand zwi­schen den Parteien fraglos eine staatsübergreifende
+Rechtsbeziehung. Es ist des­halb gestützt auf das schweizerische Internationale
+Privatrecht (IPRG) dasjenige Recht zu bestimmen, das auf die hier strittige
+arbeits­rechtliche Auseinandersetzung anwendbar ist (Art. 1 Abs. 1
+lit. b IPRG).
+2.3.—
+a)
+Gemäss Art. 121
+Abs. 1 IPRG untersteht der Arbeitsvertrag dem Recht des Staates, in dem
+der Arbeitnehmer gewöhnlich seine Arbeit verrichtet. Die Par­teien können
+jedoch mit Rechtswahl (dazu Art. 116 Abs. 2 IPRG) den Arbeitsvertrag dem
+Recht des Staates unterstellen, in dem der Arbeit­nehmer seinen gewöhnlichen Aufenthalt
+hat oder in dem der Arbeitgeber seine Nie­derlassung, seinen Wohnsitz oder
+seinen gewöhnlichen Aufenthalt hat (Art. 121 Abs. 3 IPRG).
+b)
+Vorliegend haben die Parteien eine
+Rechtswahl getroffen und ihren Arbeits­vertrag dem schweizerischen Recht unterstellt.
+Die Wahl der Schweizer Rechtsordnung war im Lichte von Art. 121 Abs. 3
+IPRG statthaft, da die Arbeitgeberin A.______ GmbH ihren Sitz in der Schweiz
+hat. Dass die Parteien überhaupt eine Rechtswahl getroffen haben, liegt auf der
+Hand, wäre nämlich das Arbeitsverhältnis andernfalls gemäss Art. 121
+Abs. 1 IPRG afghanischem Recht unterstanden, mithin einer Rechtsordnung
+ausserhalb des westli­chen Kulturkreises, deren Inhalt und Tragweite den
+Vertragsparteien kaum geläufig ist.
+2.4.—
+a) aa)
+Nachdem die Parteien im
+Arbeitsvertrag die schweizerische Rechtsordnung gewählt haben, sind vorweg die
+Bestimmungen des pri­vaten Arbeitsrechts gemäss Art. 319 ff. OR
+anwendbar (
+Streiff/von Kaenel/Rudolph
+,
+Arbeitsvertrag, 7. Auflage, Zürich 2012, Art. 319 OR N 24).
+Indes finden sich materi­elle Bestimmungen zur Ausgestaltung von
+Arbeitsverhältnissen ebenso im Arbeits­gesetz (ArG). Zwar ist das ArG gemäss seiner
+Konzeption öffent­lich-rechtlicher Natur; es ordnet in seiner Funktion als
+Arbeitsschutzrecht in erster Linie das Ver­hältnis zwischen dem Arbeitgeber und
+dem Staat. Öffentliches Recht gilt entspre­chend dem Territorialitätsprinzip
+nur im jeweiligen Staatsgebiet; insofern sind die arbeitsgesetzlichen Vorgaben
+grundsätzlich nur für Sachverhalte relevant, welche sich auf dem Gebiet des
+entsprechenden Staates zugetragen haben (siehe zum Ganzen: OFK-
+Müller
+, Kommentar ArG 1 N 3;
+Geiser,
+in Geiser/von Kaenel/Wyler
+[Hrsg.], Kommentar zum Arbeitsgesetz, Bern 2005, Art. 1 N 23).
+bb)
+Als Arbeitsschutzrecht enthält das ArG
+eine grosse Anzahl zwingender Bestimmungen im Interesse der Arbeitnehmer,
+woraus im Ergebnis eine enge Ver­flechtung mit dem privaten
+Arbeitsvertragsrecht resultiert; zudem ist die Zuweisung einer Bestimmung zum
+öffentlichen oder privaten Arbeitsrecht nicht durchwegs stringent, wie etwa der
+Anspruch auf bezahlte Ferien zeigt, der früher in der Schweiz zum öffentlichen
+Recht gehörte (
+Trutmann
+, Arbeitsrecht
+und Internationa­les Privatrecht, in: Mitteilungen des Instituts für
+Schweizerisches Arbeitsrecht [ArbR] 1986, S. 67 f. sowie S. 75;
+Geiser
+, a.a.O., Einleitung N 31-33;
+Keller/Kren Kostkiewicz
+, Zürcher
+Kommentar zum IPRG, Art. 121 N 53).
+cc)
+In der Perspektive dieser Erkenntnis hat
+der Gesetzgeber im privaten Arbeits­recht in Art. 342 Abs. 2 OR statuiert,
+dass bei einer öffentlich-rechtlichen Verpflich­tung des Arbeitgebers durch
+eine hoheitliche Vorschrift des Bundes oder der Kan­tone der Arbeitnehmer über
+einen zivilrechtlichen Erfüllungsanspruch verfügt, wenn die Verpflichtung ihrem
+Inhalt nach ohne weiteres auch Gegenstand des Einzelar­beitsvertrags sein
+könnte (sogenannte Rezeptionsklausel, siehe dazu
+Geiser
+, a.a.O., Ein­leitung N 32). Das OR lässt es
+folglich zu, dass auch Ansprüche aus dem öffentli­chen Recht, namentlich aus
+dem ArG, beim Zivilrichter eingeklagt werden können; die öffentlich-rechtlichen
+Verpflichtungen werden via Art. 342 Abs. 2 OR zu zivil­rechtlichen
+Ansprüchen (
+Streiff/von Kaenel/Rudolph
+,
+a.a.O., Art. 342 OR N 6). Damit wird öffentliches Recht zum
+Bestandteil des Privatrechts; die Vertrags­parteien auch eines internationalen
+Arbeitsverhältnisses können sich daher für ent­spre­chende Ansprüche auf die im
+öffentlichen Recht getroffenen Regelungen beru­fen, wenn in der konkreten
+Auseinandersetzung schweizerisches Recht anwendbar ist (
+Geiser
+, a.a.O., Art. 1 N 30).
+b)
+Indem vorliegend die Parteien ihren
+Arbeitskontrakt durch schriftliche Überein­kunft dem schweizerischen Recht unterstellt
+haben, sind bei der Beurteilung der hier eingeklagten Ansprüche die
+öffentlich-rechtlichen Vorschriften des ArG jedenfalls insoweit zu berücksichtigen,
+als sie über den Hebel von Art. 342 Abs. 2 OR privatrechtliche
+Ansprüche auslösen. Dies hat die Vorinstanz im ange­fochtenen Entscheid
+verkannt und hat die Berücksichtigung des ArG aus unzutref­fenden Überlegungen
+verneint. Obschon die Parteien ihr Arbeits­verhältnis explizit dem
+schweizerischen Recht unterstellt haben, hat die Vorinstanz hauptsächlich mit
+Blick auf Art. 18 IPRG erwogen, das ArG sei im konkreten Fall nicht
+massgeblich, da das Arbeitsverhältnis der Parteien keinen genügenden Bezug zur
+Schweiz auf­weise. Art. 18 IPRG aber ist in der vorliegen­den
+Konstellation nicht einschlägig. Diese Bestimmung behält im Interesse der
+staatlichen Ordnung die Geltung von zentralen inländischen privat- oder
+öffentlich-rechtlichen Normen auch für internationale Tatbestände vor, wenn
+diese nach den üblichen Kolli­sionsnormen einem
+ausländischen
+Recht
+unterstehen (
+Vischer
+, Zür­cher
+Kommen­tar zum IPRG, Art. 18 N 3 und N 9). Haben aber wie hier
+die Parteien für ihren Ver­trag verbindlich die schweizerische Rechtsordnung
+berufen, ist der in Art. 18 IPRG normierte selektive Vorbehalt zugunsten
+des schweizerischen Rechts von vornhe­rein irrelevant. Mit der Rechtswahl haben
+die Parteien bereits klare Ver­hältnisse geschaffen; sie haben sich dem
+schweizerischen Arbeitsstatut unterwor­fen und da­mit jede Unsicherheit über
+das anwendbare Recht ausgeschlossen (
+Geiser
+,
+a.a.O., Art. 1 N 38).
+2.5.—
+Damit ergibt sich als Fazit, dass die
+vorliegende Streitsache ebenso unter dem Gesichtswinkel des ArG zu prüfen ist,
+soweit die arbeitsgesetzlichen Normen zivilrechtliche Wirkung entfalten und
+insofern von der Rezeptionsklausel gemäss Art. 342 Abs. 2 OR erfasst
+werden (siehe die Übersicht der zivilrechtlichen Ansprü­che gemäss ArG bei
+Streiff/von Kaenel/Rudolph
+,
+Arbeitsvertrag, 7. Auflage, Zürich 2012, Art. 342 OR N 6). Nicht
+haltbar ist daher namentlich der von der Vor­instanz eingenommene Standpunkt,
+dass der von den Parteien vertraglich verein­barte Verzicht auf Vergütung
+allfälliger Überstunden jeglichen nachträglichen Ent­schädigungsanspruch ausschliesse,
+weil das ArG vorliegend aus international-privatrechtlichen Gründen nicht
+anwendbar sei und folglich die im ArG vorgeschriebene
+zwingende
+Abgeltung geleisteter Überzeit nicht zum Tragen komme. Hinzuzufügen bleibt
+indes, dass bei der erneuten materiellen Behandlung der Streitsache vorab der
+Einwand der A.______ GmbH zu klären sein wird, wonach B.______ eine höhere
+leitende Tätigkeit im Sinne von Art. 3 lit. d ArG ausgeübt habe und
+er infolgedessen vom
+persönlichen
+Gel­tungsbereich des ArG ausgenommen
+sei. Dem Arbeitgeber obliegt der Beweis, dass der Arbeitnehmer eine leitende
+Funktion inne hatte (siehe dazu insbesondere Art. 9 ArGV 1 sowie
+Urteil 4A_258/2010 vom 23.8.2010 E. 1; vgl. auch
+Geiser
+, a.a.O., Art 1 N 53).
+3.—
+Beweis der behaupteten Mehrarbeit,
+Sonntags- und Nachtarbeit
+3.1.—
+Die Vorinstanz hat in einer
+Eventualbegründung die von B.______ verlangte Lohnnachzahlung für Überzeit
+sowie Sonntags- und Nachtarbeit auch unter der Prämisse abgewiesen, dass das
+ArG anwendbar wäre. Sie hielt dem Klä­ger entgegen, er habe den Bestand seiner
+Ansprüche nicht bewiesen.
+3.2.—
+a)
+Klagt ein Arbeitnehmer
+Entschädigungsansprüche für Überstunden oder Überzeit ein (siehe zur Unterscheidung
+bei
+Streiff/von Kaenel/Rudolph
+,
+Arbeits­vertrag, 7. Auflage, Zürich 2012, Art. 321c OR N 4), so
+hat er zu beweisen, dass er tatsächlich Mehrarbeit geleistet hat und diese
+angeordnet oder betrieblich notwendig war (BGE 129 III 171
+E. 2.4 S. 176; BGE 128 III 271 E. 2a/aa S. 273). Dem
+Beweis der förmlichen Anordnung von Mehrarbeit wird gleichgesetzt, wenn der
+Arbeitgeber von deren Leistung Kenntnis hat oder haben müsste, dagegen jedoch
+nicht ein­schreitet und den Arbeitnehmer gewähren lässt (Urteil 4A_42/2011 vom
+15.7.2011 E. 5.2).
+b) aa)
+Auch beim Nachweis von Mehrstunden ist
+grundsätzlich vom bundespri­vatrechtlichen Regelbeweismass auszugehen (dazu
+Urteil 4C.307/2006 vom 26.3.2007 E. 2.1). Danach muss der Arbeitnehmer das
+Gericht unter objektiven Gesichtspunkten von der Richtigkeit des von ihm
+behaupteten Sachverhalts über­zeugen; die Verwirklichung der Tatsache braucht
+indessen nicht mit Sicherheit fest­zustehen, sondern es genügt, wenn allfällige
+Zweifel als unerheblich erscheinen (BGE 128 III 271 E. 2b
+S. 275). Beweisthema ist zunächst, ob und gegebenenfalls wie viel der
+Arbeitnehmer mehr gearbeitet hat. Vom Arbeitnehmer selber verfasste
+Stundenaufzeichnungen, die der Arbeitgeber nicht bestätigt hat, erbringen
+gewöhn­lich nicht den erforderlichen Beweis für behauptete Überstunden, da es
+sich letztlich um Parteibehauptungen handelt. Auch Zeugen können häufig den
+Umfang geleis­teter Zusatzstunden nicht genügend beweisen, insoweit sie nicht
+während der ge­samten strittigen Arbeitszeit zugegen waren.
+bb)
+Aufgrund solcher Schwierigkeiten gesteht
+die Rechtsprechung dem Arbeit­nehmer eine Beweiserleichterung zu, indem das
+Gericht analog zur haftpflichtrechtli­chen Regelung gemäss Art. 42
+Abs. 2 OR den Umfang der Mehrarbeit schätzen kann. Diese
+Beweiserleichterung findet Anwendung sowohl auf die Frage, ob über­haupt
+Überstunden geleistet wurden als auch auf deren Anzahl (Urteil 4A_338/2011 vom
+14.12.2011 E. 2.2; Urteil 4A_543/2011 vom 17.10.2011 E. 3.1.1; Urteil
+4C.307/2006 vom 26.3.2007 E. 3.2). Zur eben aufgezeigten Herabsetzung der
+Beweisanforderungen kommt es allerdings nur, wenn der strikte Beweis darüber,
+dass und in welchem Umfang Mehrarbeit angefallen ist, nach der Natur der Sache
+nicht möglich oder nicht zumutbar ist (Urteil 4A_338/2011 E. 2.1).
+cc)
+Selbst im Rahmen dieser erleichterten
+Beweisführung
+obliegt es dem Arbeit­nehmer immerhin, sämtliche Umstände,
+die für die Leistung abgeltungspflichtiger Mehrstunden sprechen und deren
+Abschätzung erlauben, soweit möglich und zu­mutbar zu beweisen (BGE
+128 III 271 E. 2b S. 275 ff.). Die ermessensweise Schät­zung
+der Überstunden gestützt auf Art. 42 Abs. 2 OR setzt jedenfalls voraus,
+dass aufgrund der vorgebrachten Umstände die Leistung von Mehrstunden nicht
+bloss im Bereich des Möglichen liegt, sondern annähernd sicher erscheint
+(Urteil 4C.307/2006 vom 26.3.2007 E. 3.2). Die Herabsetzung des
+Beweismasses darf andererseits nicht dazu führen, dass die Beweislast, die den
+Arbeitnehmer trifft, zu Lasten des Arbeitgebers umgekehrt wird. Dies gilt auch
+dann, wenn der Arbeitgeber seiner gesetzlichen Pflicht nach Art. 46 ArG
+und Art. 73 Abs. 1 lit. c ArGV 1 zur Auf­zeichnung der
+Arbeitszeiten nicht oder nur unzureichend nachge­kommen ist (Urteil 4C.307/2006
+E. 3.1; siehe sodann zum Ganzen:
+Streiff/von
+Kaenel/Rudolph
+, a.a.O., Art. 321c OR N 10;
+Emmel
+, Überstundennachweis leichter gemacht,
+in: NZZexecutive vom 9./10. Juni 2012 S. 9).
+3.3.—
+a)
+Gemäss Art. 8 ZGB hat, wo es
+das Gesetz nicht anders bestimmt, jene Partei das Vorhandensein einer
+behaupteten Tatsache zu beweisen, die aus ihr Rechte ableitet. Wer einen
+Anspruch geltend macht, hat die rechtsbegründenden Tatsachen zu belegen.
+Demgegenüber liegt die Beweislast für die rechtsvernichten­den oder rechtshindernden
+Tatsachen bei der Partei, welche den Untergang des Anspruchs behauptet oder
+dessen Entstehung oder Durchsetzbarkeit bestreitet (BGE 128 III 271
+E. 2a S. 273). Als Korrelat zur Beweislast folgt aus Art. 29
+Abs. 2 BV und Art. 8 ZGB das Recht der beweisbelasteten Partei, zum
+ihr obliegenden Beweis zugelassen zu werden, soweit sie entsprechende Anträge
+prozesskonform vorgetragen hat (vgl. heute Art. 152 Abs. 1 ZPO/CH).
+Der Beweisführungsanspruch einer Parteien besteht freilich nur für
+rechtserhebliche Tatsachen und schliesst eine vorweggenommene (antizipierte)
+Beweiswürdigung durch das Gericht nicht aus (BGE 126 III 315
+E. 4a S. 317). Dem Gericht bleibt es daher unbenommen, von beantragten
+Beweiserhebungen deshalb abzusehen, weil sie zum vornherein nicht als geeignet
+erscheinen, die behaupteten Tatsachen zu beweisen, oder weil das Gericht seine
+Überzeugung bereits aus anderen Beweisen gewonnen hat und davon ausgeht, dass
+weitere Abklärungen am massgeblichen Beweisergebnis nichts mehr zu ändern
+vermöchten (BGE 122 III 219 E. 3c S. 223 f.). Art. 8
+ZGB ist indes verletzt, wenn das Gericht unbewiesene strittige Be­hauptungen
+einer Partei als richtig hinnimmt oder über rechtserhebliche Tatsachen
+überhaupt nicht Beweis führen lässt. Wo das Gericht allerdings in Würdi­gung
+von Beweisen zur Überzeu­gung gelangt, eine Tatsachenbehauptung sei be­wiesen
+oder widerlegt, steht die Beweislastverteilung und damit das Recht auf Be­weis
+nicht mehr in Frage; diesfalls liegt freie Beweiswürdigung [i.c. Art. 174
+ZPO/GL] vor (Urteil 4C.307/2006 vom 26.3.2007 E. 2.2).
+b)
+Vorliegend ist unbestritten, dass die A.______
+GmbH in ihrer Bäcke­rei in Kabul keine Vorkehrungen zur Erfassung der
+Arbeitszeiten ihrer Arbeit­nehmer traf. Die Vorinstanz hat im an­gefochtenen
+Entscheid auf der Basis einer summarischen Würdigung der bei den Prozessakten
+befindlichen Belege (Wachtjournal, Lohnzettel und E-Mails) festge­halten, diese
+wür­den die von B.______ behaupteten Arbeitszeiten nicht mit der notwendigen
+Gewissheit belegen. An dieser Erkenntnis könne – so die Vor­instanz weiter –
+auch die Einvernahme der angerufenen Zeugen nichts ändern, da nicht davon auszugehen
+sei, dass die Zeugen immer gleichzeitig mit dem Kläger gearbeitet hätten.
+c)
+Die vorinstanzliche Beweisabnahme ist
+unzureichend. Wie oben aufgezeigt (vorne E. 3.2 b/bb), sind bei strittiger
+Mehrarbeit die Beweisanforderungen tiefer, wenn wie hier die Arbeitgeberin die
+Einsatzzeiten ihrer Arbeitnehmer nicht erfasst hat. Infolgedessen ist es im
+vorliegend zu beurteilenden Streitfall angezeigt, dass das Gericht sich über
+die tatsächliche Lebens- und Arbeitssituation der Arbeitneh­mer im Kabuler Logistik-Camp
+ein Bild verschafft. Hierzu hat B.______ ehe­malige Mitarbeitende als Zeugen
+sowie auch seine eigene Parteiaussage (dazu Art. 197 ff. ZPO/GL) zum
+Beweis anerboten. Überdies hat auch die A.______ GmbH verschiedene Zeugen
+hinsichtlich der Arbeitsbedin­gungen in Kabul angerufen. Die Vorinstanz hat auf
+die Befragung von Zeugen ver­zichtet mit dem Argument, diese könnten ebenso
+wenig wie der Klä­ger selber bele­gen, wie viele Stunden er in der Kabuler Bäckerei
+effektiv tätig gewe­sen sei, zumal sie mutmasslich nicht immer gleichzeitig mit
+ihm im Einsatz gestan­den seien. Diese vorweggenommene Beweiswürdigung der Vor­instanz
+ist nicht haltbar und verletzt den Beweisanspruch des Klägers. Dieser hat, da
+ihm der strikte Beweis über die behaupteten Arbeitszeiten nicht möglich ist, im
+Lichte der zuvor dargelegten Grundsätze alle verfügbaren Indizien darzulegen,
+wel­che auf die Leistung von Mehrstunden hinweisen. Alleine dazu aber ist er
+nur in der Lage, wenn namentlich seinem Zeugenbegehren gefolgt wird. Selbst
+wenn die Zeu­gen nicht beständig mit ihm zusammengearbeitet haben sollten, so
+sind sie mut­masslich immerhin in der Lage, über die Arbeitsgewohnheiten im
+Camp in Kabul zu berichten. Denn anders als in einem hiesigen Betrieb, wo die Beschäftigten
+nach Arbeitsschluss nach Hause gehen, hielten sich die Arbeitnehmer der
+Bäckerei aus Sicherheitsgründen rund um die Uhr im Camp auf, wie auch die A.______
+GmbH selber einräumt. Demnach ist zu erwarten, dass sie Kenntnis über die
+Organisation, den Tagesablauf und das Geschehen im Camp haben, was möglicherweise
+zuverlässige Rück­schlüsse auf den Umfang so­wie die konkrete Ausgestaltung des
+Arbeitspensums von B.______ zulässt.
+3.4.—
+Diesen Ausführungen zufolge bricht
+ebenso der zweite Pfeiler der vor­instanzlichen Begründung, wonach B.______ den
+Beweis für seine Sachdar­stellung nicht habe erbringen können. Denn dieses
+erstinstanz­lich gezogene Fazit beruht auf einem nicht vollständig
+durchgeführten Beweisver­fahren.
+4.—
+Rückweisung zur Neubeurteilung an die
+Vorinstanz
+4.1.—
+Mit Blick auf den angefochtenen
+Entscheid bleibt als Ergebnis der vorste­henden Erwägungen festzuhalten, dass
+die Vorinstanz zum einen die Anwendbar­keit des schweizerischen Arbeitsgesetzes
+mit unzutreffender Begründung von vorn­herein ausgeschlossen und insoweit die
+in diesem Kontext geltend gemachten An­sprüche zu Unrecht ungeprüft abgewiesen
+hat. Sodann durfte die Vorinstanz in ihrer Eventualbegründung auch nicht davon
+ausgehen, die eingeklagten Forderungsposi­tionen seien ohnehin unbewiesen geblieben;
+hierzu hätte sie im Rahmen der ge­stellten Beweisanträge eine hinreichende
+Sachverhaltsabklärung vornehmen müs­sen.
+4.2.—
+a)
+Damit ist
+die Berufung
+begründet. Das Obergericht fällt nach Massgabe der Berufungsanträge gestützt
+auf die neuen Vorbringen und die vorinstanzlichen Akten einen neuen Entscheid
+(Art. 308 Abs. 1 ZPO/GL). Statt­dessen kann es das Verfahren an die
+Vorinstanz zurückweisen, wenn eine Partei ohne diese Rückwei­sung in ihren pro­zessualen
+Rechten verkürzt würde (Abs. 2).
+b)
+Vorliegend ist es angezeigt, das
+erstinstanzliche Urteil vollumfänglich aufzu­heben und die Klage, soweit diese
+noch strittig ist, zur nochmaligen Be­handlung an die Vorinstanz
+zurückzuweisen. Denn würde das Obergericht im Rah­men des Berufungsverfahrens
+die zur Klärung des Sachverhalts notwendigen Beweisabnah­men durchführen und
+gestützt auf das dabei er­langte Beweisergebnis eine Ent­scheidung neu auch
+unter Einbezug des ArG treffen, so stünde der unter­liegenden Partei in der
+Folge keine obere kantonale Gerichtsinstanz mehr zur Ver­fügung, wel­cher der
+Rechtsstreit noch einmal unterbreitet werden könnte.
+c)
+Mit der Aufhebung des angefochtenen Urteils
+wird auch die von der Vorinstanz getroffene Kostenregelung hinfällig (Dispositiv
+Ziff. 2-4). Folglich wird die Anschlussberufung der A.______ GmbH
+gegenstandslos, worin sie für das erstinstanzliche Verfahren eine höhere
+Parteientschädigung beantragt hat.
+III.
+(Prozesskosten)
+1.—
+a)
+Gemäss Art. 132 ZPO/GL sind
+die Verfahrenskosten den Parteien nach Massgabe ihres Unterliegens zu
+überbinden. Entsprechend diesem Verteilschlüssel sind ebenso die Parteikosten
+zu verlegen (Art. 139 Abs. 1 ZPO/GL). Aufgrund der beschlossenen
+Rückweisung der Sache zur Neubeurteilung an die Vorinstanz ist der materielle
+Entscheid über die Klage noch ausstehend. Es recht­fertigt sich daher im
+Grundsatz, einstweilen einzig die Höhe der obergerichtlichen Gerichtsgebühr
+festzulegen. Über die Verlegung dieser Gebühr hat alsdann die Vorinstanz zusam­men
+mit der Bemessung und Verlegung der gesamten Parteikosten nach Massgabe ihres
+neuen Sachentscheids zu befinden (siehe dazu
+Reetz/Hilber
+,
+in: Sutter-Somm/Hasenböhler/Leuenberger, ZPO Komm., Art. 318 N 61).
+b)
+Verursacht eine Partei unnötige Kosten,
+werden sie ihr ohne Rücksicht auf den Ausgang des Prozesses auferlegt. Unnötig
+sind insbesondere Prozesskosten, die durch versäumte, verspätete oder
+fehlerhafte Prozesshandlungen entstehen (Art. 133 Abs. 1 ZPO/GL). Die
+Hauptverhandlung vom 25. November 2011 musste nach Eröffnung sogleich
+wieder vertagt werden, nachdem der Rechtsvertreter der A.______ GmbH den Termin
+vergessen hatte (vgl. vorstehend, E. I. 5.b.). Folglich hat die A.______
+GmbH die verursachten Kosten zu tragen und die Gegenseite zu entschädigen.
+2.—
+Der vorliegende Rückweisungsentscheid des
+Obergerichts stellt einen Zwi­schenentscheid im Sinne von Art. 93 BGG dar
+(
+Reetz/Hilber
+, a.a.O.,
+Art. 318 N 39).
+_____________________________
+beschlossen:
+--------------------
+1.  Es wird vorgemerkt, dass B.______ im Berufungsverfahren seine
+ursprüngli­che Klage auf noch € 118‘178.‑ reduziert hat.
+2.  In Gutheissung der Berufung wird das Urteil des Kantonsgerichts
+Glarus vom 10. August 2010 aufgehoben, und es wird die Klage zur
+Neubeurteilung im Sinne der vorstehenden Erwägungen an das Kantonsgericht
+zurückgewiesen.
+3.  Die Anschlussberufung wird als gegenstandslos geworden
+abgeschrieben.
+4.  Die Kosten der Berufungsverhandlung vom 25. November 2011 von
+Fr. 500.‑ hat die A.______ GmbH zu tragen, die überdies B.______ für
+den versäumten Verhandlungstermin mit Fr. 1‘000.‑ zu entschädigen
+hat.
+5.  Im Übrigen wird die Pauschalgerichtsgebühr für das obergerichtliche
+Verfahren auf Fr. 2‘500.‑ festgesetzt. Über die Verlegung dieser
+obergerichtlichen Gerichtskosten sowie die Festsetzung und Verlegung von
+weiteren Parteikosten hat die Vorinstanz nach Massgabe des endgültigen
+Verfahrensausgangs zu entscheiden.
+6.  Schriftliche Mitteilung an:
+[…]
+Vom Bundesgericht mit Urteil vom 11.
+September 2013 aufgehoben (4A_103/2013)
