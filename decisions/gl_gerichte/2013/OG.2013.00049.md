@@ -1,0 +1,196 @@
+---
+decision_id: "gl_gerichte_OG.2013.00049"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2013.00049"
+docket_2: "OGZ.2014.87"
+decided: "2013-10-02"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=197&W10_KEY=218274&nTrefferzeile=5&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-311.md", "switzerland/bund/acts/272/art-312.md"]
+---
+
+# GL Gerichte OG.2013.00049
+
+## Regeste
+
+Forderung aus Arbeitsvertrag
+
+## Text
+
+Glarus Obergericht 02.10.2013 OG.2013.00049 (OGZ.2014.87)
+Glaris Obergericht 02.10.2013 OG.2013.00049 (OGZ.2014.87)
+Glarona Obergericht 02.10.2013 OG.2013.00049 (OGZ.2014.87)
+
+Forderung aus Arbeitsvertrag
+
+Kanton Glarus
+Obergericht
+Verfügung
+vom 2. Oktober 2013
+Verfahren
+OG.2013.00049
+B.______
+Berufungskläger
+gegen
+A.______
+Berufungsbeklagte
+vertreten
+durch C.______
+Vertreter,
+betreffend
+Forderung
+aus Arbeitsvertrag
+Der
+Präsident zieht in Betracht:
+1.—
+Am 3. Oktober
+2011 erhob B.______ Klage gegen die A.______ AG und machte eine Forderung aus
+Arbeitsvertrag geltend. Die Beklagte erhob am 13. Februar 2012
+Widerklage. Mit Entscheid vom 25. Juni 2013 erledigte das Kantonsgericht
+die beiden Verfahren. B.______ ging am 25. August 2013 gegen diesen
+Entscheid in Berufung. Der Gerichtsschreiber wies den Berufungskläger am
+27. August 2013 darauf hin, dass die gestellten Anträge möglicherweise
+als inhaltlich unzureichend qualifiziert werden könnten und dass seine
+Eingabe keine eingehende Auseinander­setzung mit den Erwägungen des
+angefochtenen Urteils enthalte. B.______ reichte hernach am 1. September
+2013 – noch während der laufenden Berufungsfrist – eine Ergänzung zu seiner
+Berufung ein.
+2.—
+a)
+Als ungeschriebenes aber selbstverständliches
+Formerfordernis ist in Anlehnung an Art. 42 Abs. 1 BGG zu
+verlangen, das die Rechtsmittelschrift einen hinlänglich bestimmten Antrag
+enthält (ZPO BK-
+Sterchi
+,
+Art. 311 N 14;
+Seiler
+,
+Die Berufung nach ZPO, Basel 2013, Rz. 872). Weil die Berufung
+grundsätzlich ein reformatorisches Rechtsmittel ist, hat das Rechtsbegehren
+regelmässig einen präzisen Antrag zur Sache (insbesondere eine genaue Bezifferung
+der geforderten Leistung) zu enthalten und nicht bloss auf Aufhebung des
+erstinstanzlichen Entscheides, „Gutheissung der Berufung“ oder Rückweisung an
+die Vorinstanz zu lauten. Bei einer Laieneingabe ist immerhin zu verlangen,
+dass wenigstens sinnge­mäss klar ersichtlich ist, was der Berufungskläger
+verlangt (ZPO BK-
+Sterchi
+,
+Art. 311 N 15). Aus den in der Berufungsschrift aufgeführten
+Rechtsbegehren muss sich ergeben, inwieweit das streitbefangene Recht
+weiterhin im Streit liegt. Daher bedürfen die Anträge erstens die Bezeichnung
+des Teils oder derjenigen Teile des erstinstanzlichen Urteils, welche
+angefochten werden und zweitens die Angabe der Abänderungen, welche beantragt
+werden. Der Berufungskläger darf sich nicht damit begnügen, lediglich die Aufhebung
+des angefochtenen Entscheides zu beantragen, vielmehr muss ein Antrag in der
+Sache gestellt werden (
+Seiler
+,
+a.a.O., Rz. 875 f.). Es ist vom Grundsatz auszugehen, dass der
+Antrag in der Sache in den Rechtsbe­gehren gestellt werden muss und es nicht
+genügt, wenn dieser sich lediglich aus der Begründung ergibt. Auf eine
+Berufung mit formell mangelhaften Rechtsbegehren ist ausnahmsweise
+einzutreten, wenn sich aus der Begründung, allenfalls in Verbind­ung mit dem
+angefochtenen Entscheid ergibt, was der Berufungskläger in der Sache verlangt
+oder welcher Geldbetrag zuzusprechen ist (
+Seiler
+,
+a.a.O., Rz. 881). Die Berufungsanträge müssen derart bestimmt sein, dass
+die Berufungsinstanz und auch der Berufungsbeklagte in den Stand gesetzt
+werden, zu überblicken, in welchem Umfang die Berufung ergriffen und welche
+Abänderungen im Dispositiv des angefochtenen Entscheides beantragt werden,
+und somit auch ersichtlich wird, wie weit der erstinstanzliche Entscheid
+bereits rechtskräftig geworden ist. Die Rechtsbegehren müssen so bestimmt
+sein, dass sie im Falle der Gutheissung unverändert zum Urteil erhoben werden
+können. Auf einen auf Geldzahlung gerichteten Antrag ist nicht einzutreten,
+wenn sich aus der Berufungsschrift nicht einmal sinngemäss ergibt, welcher
+Betrag zugesprochen werden sollte; dies gilt auch im Bereich des
+Offizialgrundsatzes (
+Seiler
+,
+a.a.O., Rz. 883 f.; vgl. BGE 137 III 617 E. 4 und
+E. 5). Sind nach Ablauf der Berufungsfrist keine Anträge vorhanden, die
+diesen Anforderungen entsprechen, so hat ein Nichteintretensentscheid zu
+erfolgen (
+Seiler
+, a.a.O., Rz.
+916).
+b)
+Der Berufungskläger stellt in seiner Berufung vom
+25. August 2013 Anträge. Diese genügen den genannten Anforderungen
+nicht, da sie im Falle einer Gutheissung nicht unverändert zum Urteil erhoben
+werden könnten. Auch aus der Begründung geht nicht im Einzelnen hervor,
+welche Punkte des vorinstanzlichen Urteils der Berufungskläger anficht und
+welcher Betrag ihm nun zuzusprechen ist. Jedenfalls ist nicht ersichtlich,
+inwieweit der erstinstanzliche Entscheid rechtskräftig geworden ist. Der
+Berufungskläger führt nicht aus, welche Punkte des erstinstanzlichen
+Entscheides im Einzelnen angefochten sind. Bereits aus diesem Grund ist auf
+die Berufung nicht einzutreten.
+3.—
+a)
+Die Berufung muss begründet werden
+(Art. 311 Abs. 1 ZPO). Mit der Begründung hat der Berufungskläger
+zu erläutern, weshalb er das erstinstanzliche Urteil bezüglich der
+angefochtenen Punkte für unrichtig hält, beziehungsweise worauf er die
+gestellten Berufungsanträge stützt. Aus der Rechtsmittelschrift muss mit
+anderen Worten hervorgehen, dass und weshalb der Berufungskläger einen
+Entscheid anficht und inwieweit dieser geändert oder aufgehoben werden soll
+(BGE 137 III 617 E. 4.2). Aus der Berufungsschrift muss zumindest
+sinngemäss hervorgehen, weshalb der angefochtene Entscheid aus rechtlicher
+Sicht unrichtig bzw. unangemessen ist, weshalb die erstinstanzliche
+Sachverhaltsfeststellung unzu­treffend und der Entscheid aus diesem Grund
+unrichtig ist oder welche neue Tatsachen und Beweismittel die Unrichtigkeit
+des Entscheides begründen (
+Seiler
+,
+a.a.O., Rz. 894). Die Begründung muss hinreichend eindeutig sein, um von
+der Berufungsinstanz mühelos verstanden werden zu können. Dies setzt voraus,
+dass der Berufungskläger im Einzelnen die vorinstanzlichen Erwägungen
+bezeichnet, die er anficht und die Aktenstücke nennt, auf denen seine Kritik
+beruht (
+Seiler
+, a.a.O.,
+Rz. 896, m.w.H.). Ist die Mangelhaftigkeit der Begründung derart
+qualifiziert, dass die Berufung als offensichtlich unbegründet qualifiziert
+werden muss, so kann die Berufungs­instanz bereits im Rahmen der Vorprüfung
+nach Art. 312 Abs. 1 ZPO einen Nichteintretensentscheid fällen (
+Seiler
+, a.a.O., Rz. 924).
+b)
+Weder die Berufungseingabe vom 25. August 2013
+noch die verbesserte Eingabe vom 1. September 2013 setzen sich mit dem
+vorinstanzlichen Entscheid auseinander. Es genügt nicht, wenn der
+Berufungskläger zum Ausdruck bringt, dass er mit dem angefochtenen Entscheid
+nicht einverstanden ist. Weiter genügt nicht, wenn er in der Berufung zum
+Ausdruck bringt, inwieweit seitens der Berufungsbeklagten Verfehlungen
+vorliegen sollten. Da keine inhaltliche Ausein­andersetzung mit dem Entscheid
+des Kantonsgerichts erfolgt, geht aus den Ein­gaben des Berufungsklägers auch
+nicht hervor, inwieweit dieses unrichtig bzw. unangemessen ist und welche
+Tatsachen und Beweismittel diese Unrichtigkeit begründen würden. Insbesondere
+genügt es nicht, wenn der Berufungskläger pauschal auf vorinstanzliche Akten
+verweist, sich aber nicht im Detail damit ausein­andersetzt (vgl.
+Seiler
+, a.a.O., Rz. 896). Auf die
+Berufung ist daher auch aus diesem Grund nicht einzutreten.
+4.—
+Der Streitwert des
+obergerichtlichen Verfahrens übersteigt Fr. 15’000.-. Auf die Berufung
+ist im Verfahren nach Art. 31 Abs. 2 GOG nicht einzutreten. Bei
+diesem Ausgang wären die Kosten des Berufungsverfahrens dem Berufungskläger
+aufzuerlegen (Art. 106 Abs. 1 ZPO i.V.m. Art. 114 lic. c
+ZPO). Umständehalber wird darauf verzichtet. Damit ist auch das Gesuch des
+Berufungs­klägers um unentgeltliche Prozessführung hinfällig. Eine
+Parteientschädigungen ist nicht zuzusprechen, zumal der Berufungsbeklagten
+durch das Berufungsverfahren kein Aufwand erwachsen ist.
+____________________
+Der Präsident verfügt:
+1.
+Auf die Berufung wird nicht
+eingetreten.
+2.
+Es werden keine Kosten erhoben.
+3.
+Schriftliche Mitteilung an:
+[...]
