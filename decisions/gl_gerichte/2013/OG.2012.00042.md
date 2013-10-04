@@ -1,0 +1,725 @@
+---
+decision_id: "gl_gerichte_OG.2012.00042"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2012.00042"
+docket_2: "OGZ.2013.80"
+decided: "2013-10-04"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=184&W10_KEY=218274&nTrefferzeile=4&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/101/art-008.md", "switzerland/bund/acts/210/art-560.md", "switzerland/bund/acts/210/art-602.md", "switzerland/bund/acts/210/art-679.md", "switzerland/bund/acts/210/art-684.md", "switzerland/bund/acts/220/art-041.md", "switzerland/bund/acts/220/art-047.md", "switzerland/bund/acts/220/art-058.md", "switzerland/bund/acts/220/art-060.md", "switzerland/bund/acts/220/art-127.md", "switzerland/bund/acts/220/art-128.md", "switzerland/bund/acts/220/art-130.md", "switzerland/bund/acts/220/art-132.md", "switzerland/bund/acts/220/art-135.md", "switzerland/bund/acts/220/art-142.md", "switzerland/bund/acts/220/art-258.md", "switzerland/bund/acts/272/art-070.md", "switzerland/bund/acts/272/art-091.md", "switzerland/bund/acts/272/art-310.md"]
+---
+
+# GL Gerichte OG.2012.00042
+
+## Regeste
+
+Forderung
+
+## Text
+
+Glarus Obergericht 04.10.2013 OG.2012.00042 (OGZ.2013.80)
+Glaris Obergericht 04.10.2013 OG.2012.00042 (OGZ.2013.80)
+Glarona Obergericht 04.10.2013 OG.2012.00042 (OGZ.2013.80)
+
+Kanton Glarus
+Obergericht
+Urteil
+vom 4. Oktober 2013
+Verfahren
+OG.2012.00042
+Erbengemeinschaft des
+C.______ sel., bestehend aus:
+1.
+A.______
+Kläger und
+Berufungskläger
+2. B.______
+beide
+vertreten durch
+Rechtsanwalt lic. iur.
+Martin
+Hablützel,
+Alderstrasse 40,
+Postfach,
+8034
+Zürich
+gegen
+1.
+Eternit (Schweiz) AG
+Beklagte und
+Eternitstrasse 3,
+Postfach,
+8867
+Niederurnen
+Berufungsbeklagte
+vertreten
+durch
+Rechtsanwältin lic. iur.
+Edith
+Blunschi,
+c/o Homburger AG,
+Prime Tower, Postfach 314,
+8037
+Zürich
+2. X.______
+vertreten
+durch
+Rechtsanwalt lic. iur.
+Peter
+Burckhardt,
+c/o
+Schellenberg Wittmer AG,
+Löwenstrasse
+19,
+Postfach
+6333,
+8023
+Zürich
+3. Y.______
+vertreten
+durch
+Rechtsanwalt Dr. iur.
+Roberto
+Dallafior,
+c/o Nater Dallafior Rechtsanwälte
+AG,
+Postfach 674,
+8024
+Zürich
+4.
+Schweizerische
+Bundesbahnen SBB AG
+Hochschulstrasse 6,
+3012
+Bern
+vertreten
+durch Rechtsanwältin
+lic. iur.
+Barbara
+Klett,
+c/o Kaufmann Rüedi Rechtsanwälte
+AG,
+Alpenquai 28a,
+6005
+Luzern
+betreffend
+Forderung
+über die
+Anträge der Parteien
+A.
+der Kläger und Berufungskläger
+(gemäss Berufungseingabe vom 4. Juli 2012):
+"1.
+Es sei der vorinstanzliche Entscheid des Kantonsgerichts
+des Kantons Glarus vom 29.3.2012 aufzuheben.
+2.
+Es seien die Berufungsbeklagten 1‑4 unter
+solidarischer Haftbarkeit zu verpflich­ten, den Berufungsklägern 1 und 2
+Fr. 110‘000.‑ zu zahlen, nebst Zins von 5 % p.a. auf
+Fr. 150‘000.‑ vom 15. November 2004 bis 15. Februar
+2006 und nach diesem Datum von 5 % p.a. auf Fr. 110‘000.‑.
+3.
+Eventualiter sei die Sache zur materiellen Beurteilung
+an die Vorinstanz zurückzu­weisen.
+4.
+Es sei davon Vormerk zu nehmen, dass es sich vorliegend
+um eine Teilklage han­delt.
+Alles
+unter Kosten- und Entschädigungsfolge zulasten der Beklagten."
+B.
+der Beklagten und
+Berufungsbeklagten
+(laut Berufungsantworten vom 2. und
+3. Oktober 2012; sinngemäss):
+Es
+sei die Berufung abzuweisen und das angefochtene Urteil zu bestätigen, unter
+solidarischer Kosten- und Entschädigungsfolge zulasten der Kläger.
+_____________________________
+Das Gericht zieht in Betracht:
+I.
+(Sachverhalt
+und Prozessgeschichte)
+1.—
+a)
+Der 1953 geborene
+C.______ sel. wohnte mit seinen Eltern von 1961 bis 1972 in Niederurnen in
+einem Miethaus der Eternit (Schweiz) AG an der Bahn­hofstrasse 33 in
+unmittelbarer Nähe des Eternit-Fabrikgeländes, wo faserförmige Asbest-Mineralien
+für die Produktion von Eternit (Asbestzement) verwendet wurden. Zu jener Zeit
+kam C.______ sel. nach eigenen Angaben häufig mit Asbest in Kontakt, indem er
+generell den Staubimmissionen aus dem Eternit-Werk ausgesetzt war, namentlich
+auch in sei­nem Schlafzimmer, dessen Fenster zum Fabrikareal hin vielfach
+offen stand; oder indem er als Knabe oft mit Eternitplatten gespielt und auf
+Eternitröhren herumgekra­xelt war. Ferner habe er beim SBB-Bahnhof
+regelmässig beim Abladen der Asbestsä­cke zugesehen. Nach dem Wegzug aus
+Niederurnen im September 1972 sei er nie mehr mit Asbest in Berührung
+gekommen.
+b)
+Im Herbst
+2004 wurde bei C.______ sel. ein malignes, mutmasslich asbestinduziertes
+Pleuramesotheliom (Brustfellkrebs) diagnostiziert. Am 30. Oktober 2006
+erlag C.______ seinem Krebsleiden. Er hinterliess seine Ehefrau A.______ und
+den Sohn B.______.
+2.—
+a)
+Noch zu Lebzeiten
+formulierte C.______ sel. als Folge seiner Asbest­krankheit Schadenersatz- und
+Genugtuungsansprüche namentlich gegenüber X.______, dem Sohn des früheren
+Patrons der Eternit-Werke, Z.______ sel.
+b)
+Im Februar 2006 erhielt
+C.______ sel. zufolge seiner Krebserkrankung von der Eternit (Schweiz) AG
+bzw. einer von dieser errichteten Stiftung eine Entschädi­gung von
+Fr. 40‘000.‑ ausbezahlt, wobei die Zahlung „freiwillig und ohne
+Anerken­nung einer Rechtspflicht“ erfolgte.
+c)
+Mit Eingabe vom 16. Juli 2009
+erhoben die Witwe und der Sohn von C.______ sel. beim Kantonsgericht Glarus
+Klage gegen die Eternit (Schweiz) AG, ferner gegen die beiden Söhne von
+Z.______ sel., X.______ und Y.______, sowie gegen die Schweizerischen
+Bundesbahnen. In ihrem als Teilklage formulierten Rechtsbegehren (siehe oben
+Antrag Ziff. 4) beantragen die Kläger die solidarische Verurteilung der
+Beklagten zur Bezahlung von Fr. 110‘000.‑ Genugtuung nebst Zins
+„als finanzielle Kompensation der von C.______ sel. erlittenen seelischen
+Unbill durch das Asbestkrebsleiden“. Bei der Bezifferung der geforderten
+Genugtuung haben die Kläger die C.______ sel. im Februar 2006 zugegangene
+Entschädigung von Fr. 40‘000.‑ miteinberechnet; dementspre­chend
+haben sie in ihrem Rechtsbegehren auch den Verzugszins abgestuft, den sie ab
+dem Zeitpunkt der Diagnose des Krebsleidens am 15. November 2004 geltend
+machen.
+3.—
+Mit Urteil vom 29. März
+2012 wies das Kantonsgericht die Klage von A.______ und B.______ zufolge
+Verjährung ab, auferlegte ihnen ausgangsgemäss die Verfahrenskosten und ver­pflichtete
+sie zur Bezahlung einer Parteientschädigung an die beklagten Parteien
+(Dispositiv Ziff. 2‑4).
+4.—
+a)
+Dagegen liessen
+A.______ und B.______ durch ihren Rechtsvertreter am 4. Juli 2012
+rechtzeitig Beru­fung erheben und erneuerten ihr Klagebegehren.
+b)
+Die Berufungsbeklagten
+beantragen in ihren einzeln erstatteten Berufungs­antworten übereinstimmend
+die kostenfällige Abweisung der Berufung und Bestäti­gung des angefochtenen
+Entscheids des Kantonsgerichts.
+c)
+Die Berufungskläger stellten
+in formeller Hinsicht den Antrag, es sei das Berufungsverfahren zu sistieren
+bis zum Abschluss eines beim Europäischen Gerichtshof für Menschenrechte
+pendenten Verfahrens gegen die Schweiz über die gleiche Thematik wie im vorliegenden
+Streitfall. Das Obergericht gab diesem Gesuch jedoch keine Folge.
+d)
+Das
+Obergericht hat keinen zweiten Schriftenwechsel und auch keine mündli­che
+Verhandlung vorgesehen (Art. 316 Abs. 1 und 2 ZPO), wogegen keine
+Partei opponiert hat. Der Rechtsvertreter von A.______ und B.______ reichte
+aller­dings am 21. August 2013 unaufgefordert eine Replikschrift ein,
+wel­che das Obergericht den Beklagten umgehend zustellte. Hierzu verfasste
+der Rechtsvertreter von X.______ am 2. September 2013 eine Stel­lungnahme.
+Die übrigen Beklagten liessen sich nicht mehr vernehmen.
+e)
+An seiner Sitzung vom 4.
+Oktober 2013 fällte das Obergericht seinen Ent­scheid; es wies dabei die
+Berufung aus den nachstehenden Überlegun­gen ab.
+II.
+(Materielle
+Erwägungen)
+1.—
+a)
+Im vorliegenden
+Prozess fordern A.______ und ihr Sohn B.______ als Erbengemeinschaft
+gegenüber den Beklagten eine Genugtuungs­zahlung. Sie machen geltend, dass
+der eingeklagte Anspruch ursprüng­lich zuguns­ten ihres verstorbenen
+Ehegatten bzw. Vaters C.______ sel. zu des­sen Lebzeiten erwachsen sei.
+b)
+Mit dem Tod
+des Erblassers erwerben die Erben die Erbschaft als Ganzes, womit alle
+vererbbaren Vermögenswerte des Erblassers, so namentlich auch des­sen
+Forderungen, auf die Erben übergehen (Art. 560 Abs. 1 und Abs. 2
+ZGB; dazu BSK-
+Schwander
+,
+N 2 und N 9 zu Art. 560 ZGB). In der Folge bilden die Erben
+bis zur Teilung der Erbschaft eine Gemeinschaft (Art. 602 ZGB) und
+können Forderun­gen der Erbschaft gegenüber Dritten nur gemeinsam als
+notwendige Streitgenos­senschaft verfolgen (Art. 102 aZPO/GL,
+Art. 70 Abs. 1 ZPO; dazu BK-
+Gross/
+Zuber
+, N 12‑14 zu Art. 70 ZPO; BSK-
+Schaufelberger/Keller Lüscher
+, N 26 zu Art. 602
+ZGB).
+c)
+Genugtuungsansprüche sind
+vererblich, wenn sie der Erblasser zu Lebzeiten „irgendwie geltend gemacht
+hat“ (BSK-
+Schwander
+, N 8 zu
+Art. 560 ZGB mit Hin­weis auf BGE 81 II 385). Dabei ist
+unerheblich, wie der Geschädigte zu Lebzeiten seine Absicht bekundet hat,
+eine Genugtuung zu fordern; es genügt, wenn Klarheit dar­über besteht, dass
+er zum Ausgleich einer erlittenen Unbill eine Geldsumme erhal­ten wollte (BK-
+Brehm
+, N 120‑125 zu
+Art. 47 OR).
+d)
+Vorliegend
+hat C.______ sel. noch vor seinem Hinschied unmissverständ­lich manifestiert,
+allfällige Ansprüche als Folge seiner Asbesterkran­kung durchset­zen zu
+wollen. Damit sind seine Witwe A.______ und sein Sohn B.______ legitimiert,
+als Erbengemeinschaft die hier zu beurtei­lende Klage zu erheben, mit welcher
+die Beklagten solidarisch verpflichtet werden sollen, ihnen Fr. 110‘000.‑
+nebst Zins als Genugtuung zu bezahlen.
+2.—
+a)
+Die Kläger berufen
+sich zur Begründung des geltend gemachten Genug­tuungsanspruchs auf mehrere
+Rechtsgrundlagen, die im Folgenden kurz dargelegt werden. Dabei wird der
+besseren Lesbarkeit wegen darauf verzichtet, bei jedem einzelnen
+Haftungstatbestand detailliert die aus der Perspektive der Kläger jeweils
+konkret Verantwortlichen zu benennen.
+aa)
+Haftung aus
+Grundeigentum (Art. 679 ZGB i.V.m. Art. 684 ZGB)
+Die
+Kläger werfen der Eternit (Schweiz) AG bzw. ihrer Rechtsvorgängerin vor, sie
+habe bei der Herstellung von Eternitprodukten auf ihrem Betriebsgelände in
+Nieder­urnen gefährliche Asbestfasern auf die Nachbargrundstücke entweichen
+lassen. Von die­sen schädlichen und daher im Lichte von Art. 684
+Abs. 1 ZGB übermässigen Immis­sionen sei auch das Wohnhaus betroffen
+gewesen, in welchem C.______ sel. bis 1972 gelebt habe. Demzufolge habe die
+Eternit (Schweiz) AG für die dadurch bewirkte Schä­digung gestützt auf
+Art. 679 ZGB einzustehen, da sie als Grundeigentümerin ihr
+Eigentumsrecht überschritten habe. Aus der nämlichen Überlegung trifft nach
+Ansicht der Kläger auch die Schweizerische Bundesbahnen SBB AG eine
+Verantwortung, indem auf dem Bahnhofareal in unmittelbarer Nähe der Eter­nit-Werke
+und des früheren Wohnhauses von C.______ sel. bis in die 1970er‑Jahre
+der mit Güter­wagen in Jutesäcken angelieferte feinfaserige Baustoff Asbest
+umgela­den worden sei, was mit beträchtlicher Staubentwicklung verbunden
+gewesen sei.
+bb)
+Haftung aus
+Werkeigentum (Art. 58 OR)
+Aus
+der Sicht der Kläger waren in den 1960er‑ und 1970er‑Jahre die
+Industrie­gebäude auf dem Eternit-Areal in Niederurnen in einem baulich
+unzureichenden Zu­stand, weil namentlich keine Abluftfilteranlagen eingebaut
+gewesen seien. Folglich sei Asbeststaub aus den Werkhallen auf die
+benachbarten Grundstücke entwichen. Auch beim Wohnhaus, in welchem C.______
+sel. aufgewachsen war, habe ein Filtersystem zur Minimierung der
+Asbeststaubkonzentration gefehlt und sei zudem die Belüftung des Hauses
+falsch konzipiert gewesen, da dazu jeweils die Fenster hätten geöffnet werden
+müssen.
+cc)
+Haftung aus unerlaubter
+Handlung im Sinne von Art. 41 OR
+In
+diesem Kontext erblicken die Kläger ein haftungsbegründendes Fehlverhalten
+zunächst darin, dass im Eternit-Betrieb in Niederurnen ein gefährlicher
+Rohstoff (Asbest) verarbeitet worden ist, ohne dass dabei die erforderlichen
+Sicherheits­massnahmen zur Vermeidung von Personenschäden getroffen worden
+wären. Hinzu komme, dass in den Folgejahren, als die gesund­heits­schädigende
+Wirkung von Asbestfasern allgemein bekannt gewesen seien, weder die ehemali­gen
+Arbeitnehmer noch die früheren Bewohner im örtlichen Um­feld des
+Eternit-Betriebes über mögliche gesundheitliche Spätfolgen informiert wor­den
+seien. Wäre dies wenigstens um die Jahrhundertwende geschehen, hätte sich
+C.______ sel. ärztlich untersuchen lassen. Auf diese Weise hätte der Tumor
+bereits im Frühsta­dium erkannt und unter Umständen noch wirksam bekämpft wer­den
+können. Zumindest aber wäre bei rechtzeitiger medizinischer Hilfe eine
+Lebensverlängerung unter besserer Qualität möglich gewesen.
+dd)
+Haftung aus
+Mietvertrag
+Als
+weitere Anspruchsgrundlage bezeichnen die Kläger den seinerzeitigen Miet­ver­trag
+zwischen der Eternit (Schweiz) AG bzw. ihrer Rechtsvorgängerin als Ver­mieterin
+und den Eltern von C.______ sel. als Mieter der Familienwohnung an der
+Bahnhofstrasse 33 in Niederurnen neben der Eternit-Fabrik. Aus Sicht der
+Kläger habe jenes Mietverhältnis Schutzpflichten der Vermieterin auch
+gegenüber C.______ sel. begründet. Diesen sei die Vermieterin während der
+Aufenthaltsdauer von C.______ sel. im Mietobjekt von 1961 bis 1972 nicht
+nachgekommen, habe sie doch nichts gegen die Asbeststaubbelastung
+unternommen. Damit habe sie im Lichte von Art. 258 OR in Verletzung
+vertraglicher Obliegenheiten ein Wohnhaus vermietet, welches mit einem für
+die Gesundheit der Bewohner schweren Mangel behaftet gewesen sei. Zur
+Vermieter­pflicht habe ferner gehört, trotz beendeter Miete die vormaligen
+Bewohner des Miet­hauses über die inzwischen erkannte Gefährlichkeit von
+Asbeststaub zu informie­ren; diese Informationspflicht habe jedenfalls bis
+anfangs der 2000er‑Jahre ange­dauert. Bei entsprechender
+Benachrichtigung wäre das damals bei C.______ sel. erst im Anfangsstadium
+befindliche Mesotheliom höchstwahrscheinlich besser behandelbar gewesen,
+womöglich hätte er dadurch länger leben oder den Krebs gar besiegen können.
+3.—
+Die Vorinstanz erwog im
+angefochtenen Entscheid, der von den Klägern geltend gemachte
+Genugtuungsanspruch sei unter dem Gesichtswinkel aller ange­rufenen
+Haftungsgründe verjährt, worauf sich auch die Beklagten unisono berufen hätten;
+infolgedessen sei die Klage abzuweisen. Die Kläger vertreten in ihrer
+Berufung den Standpunkt, die vorinstanzliche Sichtweise beruhe auf einer
+unzutreffenden Rechtsanwendung, womit sie sich auf den Berufungsgrund gemäss
+Art. 310 lit. a ZPO bezie­hen. Im Folgenden ist zu prüfen, ob
+dieser Einwand begründet ist.
+3.1.—
+Wie zuvor aufgezeigt, stützen
+die Kläger ihre Genugtuungsforderung auf mehrere Pfeiler ab. Von den im
+Einzelnen angeführten Haftungsgrundlagen sind die ersten drei (oben
+E. II. 2 Bst. a/aa‑a/cc) ausservertraglicher Natur,
+indem diese Haftungstatbestände nicht auf einem vorbestandenen
+Rechtsverhältnis zwischen Schädiger und Geschädigtem basieren. Demgegenüber
+handelt es sich bei der vierten Klagesäule (oben E. II. 2
+Bst. a/dd) um einen vertraglichen Anspruch, beru­fen sich die Kläger
+hier nämlich in Bezug auf die von C.______ sel. in seiner Kindheit bewohnte
+Liegenschaft auf eine Verletzung des Mietvertrags durch die Vermieterschaft.
+3.2.—
+a)
+Im Bereich des
+ausservertraglichen Haftpflichtrechts verjährt der Anspruch auf Schadenersatz
+oder Genugtuung gemäss Art. 60 Abs. 1 OR in einem Jahr von dem Tag
+hinweg, wo der Geschädigte Kenntnis vom Schaden und von der Person des
+Ersatzpflichtigen erlangt hat, jedenfalls aber mit dem Ablauf von zehn
+Jahren, vom Tag der schädigenden Handlung an gerechnet. Wird die ein­geklagte
+Forderung aus einer strafbaren Handlung hergeleitet, für die das Strafrecht
+eine längere Verjährung vorschriebt, so gilt diese auch für den Zivilanspruch
+(Art. 60 Abs. 2 OR). Art. 60 OR beschränkt sich darauf, Beginn
+und Dauer der Fristen zu regeln. Bezüglich der weiteren Modalitäten der
+Verjährung gelten die Art. 132 ff. OR (BSK-
+Däppen
+, N 5 zu Art. 60 OR).
+b)
+Beruht eine Ersatzforderung
+auf einer Verletzung vertraglicher Pflichten, so verjährt der Anspruch mit
+Ablauf von zehn Jahren, soweit das Bundeszivilrecht nicht etwas anderes
+vorsieht (Art. 127 OR). Die in dieser Norm vorbehaltenen Ausnah­men
+betreffen nahezu ausschliesslich kürzere Verjährungsfristen (siehe etwa
+Art. 128 OR; zum Ganzen BSK-
+Däppen
+,
+N 10 ff. zu Art. 127 OR). Die Verjährung beginnt bei
+vertraglichen Ansprüchen mit der Fälligkeit der Forderung zu laufen
+(Art. 130 Abs. 1 OR).
+c)
+Das im Privatrecht verankerte
+Institut der Verjährung gewährt dem Schuldner die Möglichkeit, sich nach
+einem bestimmten Fristenlauf der Durchsetzung einer Forderung, sei diese nun
+vertraglicher oder ausservertraglicher Natur, zu widerset­zen, indem er die
+Verjährungseinrede erhebt. Die Verjährung darf vom Gericht nicht von Amtes
+wegen berücksichtigt werden (Art. 142 OR). Sie beschlägt weder den Bestand
+noch die Entstehung einer Forderung, sondern allein deren Durchsetzbar­keit
+(BGE 137 III 16 E. 2 S. 18 mit Hinweisen). Im hier zu
+beurteilenden Streitfall haben unbestrittenermassen alle beklagten Parteien
+in prozesskonformer Weise die Verjährungseinrede erhoben (BSK-
+Däppen
+, N 3 ff. zu
+Art. 142 OR).
+3.3.—
+a)
+Bei einem
+ausservertraglichen Haftungsgrund ergibt sich der Beginn der zehnjährigen
+(absoluten) Verjährungsfrist, innert welcher ein Anspruch längstens geltend
+zu machen ist, mit aller Klarheit aus dem Gesetzeswortlaut: fristauslösend
+ist der Tag der schädigenden Handlung (Art. 60 Abs. 1 OR). Das
+Bundesgericht geht denn auch in konstanter Rechtsprechung davon aus, dass der
+Beginn der Zehnjahresfrist
+nicht
+vom Schadenseintritt und von der
+Kenntnis des Schadens durch die geschädigte Person abhängt, sondern allein
+der Zeitpunkt des den Scha­den verursachenden Verhaltens massgeblich ist
+(BGE 136 II 187 E. 7.4.4 S. 198 f. mit Hinweisen).
+b)
+Bei der
+Vertragshaftung knüpft die gesetzliche Regelung über den Beginn der
+Verjährungsfrist an den auslegungsbedürftigen Begriff der „Fälligkeit“ der
+Forderung an (Art. 130 Abs. 1 OR). Im Falle einer Forderung auf
+Schadenersatz und Genugtu­ung aus vertragswidrigem Verhalten lässt die
+bundesgerichtliche Rechtsprechung die Fälligkeit grundsätzlich unmittelbar im
+Moment der Verletzung der vertraglichen Pflicht eintreten, womit die
+Verjährung ab diesem Zeitpunkt zu laufen beginnt (BGE 137 III 16
+E. 2.3, S. 19 f. mit Hinweisen). Folglich tritt hier gleich
+wie bei einer ausservertraglichen Forderung die Fälligkeit bereits mit dem
+schadensstiftenden Ereignis ein und wird die Verjährung ausgelöst, selbst
+wenn zu diesem Zeitpunkt der Schaden unter Umständen noch gar nicht
+eingetreten ist.
+c)
+Daraus ergibt sich als Fazit
+die Erkenntnis, dass sowohl bei der Vertragshaf­tung als auch im
+ausservertraglichen Haftpflichtrecht eine Ersatzforderung verjähren kann,
+bevor die geschädigte Person ihren Schaden wahrgenommen hat (dazu
+BGE 136 II 187 E. 7.4.4 S. 198 f.). Bei einer
+Schädigung durch eine Asbeststaubex­position, wo bis zu einem allfälligen
+Krankheitsausbruch eine Latenz­zeit von 15 bis 45 Jahre verstreichen kann,
+hat dies zur Folge, dass, selbst wenn der Nachweis einer Pflichtverletzung
+gelingt, vor Ablauf der Verjährungsfrist objektiv nicht festge­stellt werden
+kann, ob Schadenersatz geschuldet ist (dazu BGE 137 III 16
+E. 2.4.4 S. 22). Es ist deshalb möglich, dass eine Forderung
+verjährt, bevor das Opfer weiss, dass es geschädigt worden ist (
+Schöbi
+, Lex dura sed lex?, in:
+Fuhrer/Chappuis
+[Hrsg.], Haft­pflicht-
+und Ver­sicherungsrecht, FS für Roland Brehm, Bern 2012, S. 417). Dennoch
+hat das Bun­desgericht in den eben zitierten Entscheiden, welche allesamt
+Asbest­opfer betrafen, unverrückbar und trotz teilweiser Kritik in der Lehre
+an seinem Standpunkt festgehalten, wonach es für den Beginn der Verjährung
+auf das schadensbegründende Ereignis (Vertragsverlet­zung oder schädi­gende
+Hand­lung/Unterlassung) ankommt und dabei unerheblich ist, ob die betroffene
+Person bereits um den erlittenen Schaden weiss. Zur Begrün­dung hebt das
+Bundesgericht vorab das öffentliche Interesse am Rechtsfrieden und an der
+Rechtssicherheit her­vor (BGE 137 III 16 E. 2.1
+S. 18 f. mit Hinweisen). Die diesem Interesse dienende Funktion der
+Verjährung würde ausgehöhlt, wenn Ersatzansprüche erst mit Scha­denseintritt
+fällig würden und die Verjährung erst ab diesem Zeitpunkt zu laufen begänne.
+Denn dann könnten Ersatzforderungen noch Jahre nach dem schadens­begründenden
+Vorfall geltend gemacht werden. Im Übri­gen kann für eine eingehen­dere Dar­stellung
+der bundesgerichtlichen Argumentation auf die detaillierten Aus­führungen im
+angefochtenen Entscheid verwiesen werden.
+d)
+Für die
+Beurteilung der Rügen, welche die Kläger gegen den angefochtenen Entscheid
+vortragen, ist die eben aufgezeigte höchstrichterliche Rechtsprechung
+massgebend. Insoweit die Kläger in ihrer Berufungseingabe die Sichtweise des
+Bundesgerichts zur Verjährung in grundsätzli­cher Hinsicht in Frage stellen,
+ist darauf nicht mehr einzugehen. Das Obergericht als Beru­fungsinstanz
+erachtet sich auch nicht dazu berufen, den von den Klägern gesehe­nen
+Konflikt zwischen der bundesgerichtlichen Rechtsprechung zur Verjährung
+einerseits und dem Diskrimi­nierungsverbot gemäss Art. 8 Abs. 2 BV
+anderseits zu klären.
+3.4.1.—
+a)
+Der von der
+Vorinstanz festgehaltene Sachverhalt über die Wohn- und Lebenssituation von
+C.______ sel. in seinen Jugendjahren sowie über den späte­ren Ausbruch der
+Krebserkrankung im Herbst 2004 wird von den Klägern im Beru­fungsverfahren
+nicht bestritten. Es ist demnach davon auszugehen, dass die letzte
+Asbestexposition von C.______ sel. im Jahre 1972 stattfand, nachdem er bis
+dahin mit seinen Eltern an der Bahnhofstrasse in Nie­derurnen in
+unmittelbarer Nachbarschaft der Eternit-Werke gelebt hatte.
+b)
+Die Kläger lasten den
+Beklagten bzw. ihren Rechtsvorgängern zunächst Ver­haltensweisen an, die
+zeitlich bis Ende 1972 zu verorten sind, als C.______ sel. im Wohnhaus an der
+Bahnhofstrasse 33 direkt neben der Eternitfabrik aufwuchs und es dabei zur
+Kontamination mit Asbestfasern gekommen sein könnte. Konkret erheben die
+Kläger im Kontext der angeführten Haftungsgründe (oben E. II. 2.
+a/aa‑dd) den einheitli­chen Vorwurf, die Beklagten hätten einzeln sowie
+gemeinsam die für die Asbestex­position von C.______ sel. ursächlichen
+schädigenden Akti­vitäten ausgeführt, indem sowohl beim Umladen des
+Asbestrohstoffs auf dem Bahnhofgelände als auch bei dessen anschliessender
+Verarbeitung im Eternit-Werk die gesundheitsgefähr­denden Asbestfasern
+freigesetzt worden und diese in die Umgebung entwichen seien.
+c)
+Die Kläger leiten damit
+vertragliche und ausservertragliche Ansprüche aus Begebenheiten bis 1972 ab.
+Im Lichte der besprochenen bundesgerichtlichen Rechtsprechung zu Art. 60
+Abs. 1 OR und Art. 130 Abs. 1 OR hätten jedoch diese Ansprüche
+bis spätestens Ende 1982 durch Schuldbetreibung, Klage oder Einrede (siehe
+Art. 135 Ziff. 2 OR) erhoben werden müssen. Dies ist unstreitig
+nicht erfolgt, weshalb die Ansprüche verjährt sind und mit der vorliegend
+erst im Juni 2009 rechtshängig gemachten Klage Art. 88 Abs. 1
+aZPO/GL) nicht mehr eingefordert werden können. Das Kantonsgericht hat
+demnach in Anwendung der einschlägigen Verjährungsnormen die Klage zu Recht
+abgewiesen, soweit das For­derungsbegehren auf behaupteten vertraglichen und
+ausservertraglichen Verfeh­lungen der Beklagten gründet, die sich bis Ende
+1972 ereignet haben. Selbst unter dem Gesichtswinkel einer allenfalls länger
+laufenden strafrechtlichen Verjährungs­frist (Art. 60 Abs. 2 OR)
+wären vorliegend die erst mit Klage von 2009 geltend gemachten Ansprüche
+verjährt. Das nämlich Ende 2005 auch auf Anzeige von C.______ sel. hin
+eingeleitete Strafverfahren gegen Verantwortliche aus dem Umfeld des Eternit‑Unternehmens
+hat ergeben, dass bereits zu jenem Zeitpunkt mögliche strafbare Handlungen
+verjährt waren (siehe BGE 134 IV 297).
+3.4.2.—
+a)
+Die Kläger
+begründen ihre Genugtuungsforderung ferner damit, dass nach 1972 die
+Beklagten nie über die inzwischen manifest gewordene Gefährlichkeit von
+Asbestfasern für die Gesundheit von exponierten Personen informiert hätten.
+Wäre dies geschehen, hätten sich die Betroffenen prophylaktisch in ärztliche
+Be­handlung begeben. Dabei wäre ein Mesotheliom frühzeitig erkannt worden und
+hätte unter Umständen noch wirksam bekämpft werden können, zumindest aber
+hätten medizinische Massnahmen zur Verbesserung der Lebensqualität während
+der tödlich verlaufenden Krankheitsphase eingeleitet werden können. Aus Sicht
+der Kläger wären die Beklagten als seinerzeitige Urheber einer unerlaubten
+Hand­lung (Freisetzung des gesundheitsgefährdenden Asbeststaubs) zu einer
+entspre­chenden Information namentlich gegenüber C.______ sel. verpflichtet
+gewesen. Für die Eternit (Schweiz) AG habe eine Informationspflicht
+zusätzlich auch gestützt auf den vorma­ligen Mietvertrag über die
+Wohnliegenschaft an der Bahnhofstrasse 33 be­standen (siehe oben
+E. II. 2. a/cc und a/dd). In ihrer Berufung werfen die Kläger
+der Vorinstanz vor, auf diese haftungsbegründende Unterlassung der
+Informationspflicht nicht eingegangen zu sein. Indem vorliegend aber die
+Verpflichtung zur Benach­richtigung über die latente Erkrankungsgefahr
+letztlich bis ins Jahr 2004, als bei C.______ sel. der asbestbedingte
+Brustfellkrebs ausbrach, fortgedauert habe, sei im Zeitpunkt der
+Klageerhebung im Jahr 2009 der Genugtuungsan­spruch noch nicht verjährt
+gewesen.
+b)
+Wie bereits mehrfach erwähnt,
+wohnte C.______ sel. bis September 1972 bei seinen Eltern an der
+Bahnhofstrasse 33 in Niederurnen. Die Eltern lebten danach noch bis 1979 in
+der Mietliegenschaft, ehe sie nach der Pensionie­rung des Vaters aus
+Niederurnen wegzogen.
+c)
+Entgegen der Darstellung der
+Kläger hat sich die Vorinstanz im angefochtenen Entscheid zur Frage der
+Verjährung von Ansprüchen aus unterlassener Informa­tionspflicht geäussert.
+Sie hat dabei befunden, dass bei einer allfälligen Versäumnis dieser
+Verpflichtung die Verjährungsfrist für daraus resultierende Ansprüche bereits
+mit Datum des schadensstiftenden Ereignisses der Asbestexposition [mithin ab
+1972] zu laufen begonnen habe und daher im Zeitpunkt der Erhebung der vorlie­genden
+Klage im Juni 2009 ebenfalls verstrichen sei.
+d)
+Bei der von den Klägern
+behaupteten Unterlassung einer Informati­onspflicht handelt es sich in Bezug
+auf die spätere Krebserkrankung von C.______ sel. nicht um das tatsächlich
+schadensstiftende Ereignis. Die Ursache der Gesundheits­schädigung lag
+vielmehr in der Freisetzung von Asbeststaub bei der Zulieferung und
+Verarbeitung des Asbestrohstoffs sowie in der aus Sicht der Kläger
+unterlassenen baulichen Massnahmen beim Miethaus zur Abwehr von Asbest­immissionen.
+Inso­fern stellt die später unterlassene Information über die Gefahren von
+Asbest keine zusätzliche (neue) haftungsbegründende Begebenheit dar. Nicht
+das Unterlassen einer Schutzmassnahme [hier nachträgliche Information],
+sondern die vorausge­hende Handlung [Verursachung von Asbeststaubemissionen],
+welche die Schaffung der Gefahr und deren schädigende Auswirkung ermöglicht
+hat, bildet die Ursache der Widerrechtlichkeit (siehe dazu BK-
+Brehm
+, N 57 zu Art. 41 OR).
+Im Übrigen ist im hier zu beurteilenden Kontext weder eine Gesetzes- oder
+Vertragsbe­stimmung noch ein Rechtsgrundsatz ersichtlich ‑ und wird
+auch von den Klägern nicht genannt ‑, wonach über den Zeitpunkt des
+schädigenden Ereignisses bzw. die Vertragsver­letzung hinaus eine Informationspflicht
+der Beklagten bestanden hätte, deren Miss­achtung eine Ersatzpflicht nach
+sich zöge. Vor diesem Hintergrund hat daher die Vorinstanz im Ergebnis
+zutreffend festgehalten, dass allfällige Ansprüche zufolge unterlassener
+Information ebenfalls verjährt sind, da auch diesbezüglich die zehn­jährige
+Verjährungsfrist bereits 1972 angelaufen ist.
+e)
+Aber selbst wenn hier die
+nicht erfolgte Benachrichtigung von C.______ sel. über erst nachträglich
+bekannt gewordene Asbestgefahren als eigenständige scha­densbegründende
+Ursache qualifiziert würde, so wäre ein daraus fliessender Er­satzanspruch
+zwischenzeitlich ebenfalls verjährt. Spätestens in den 1980er-Jahren waren
+die von Asbest ausgehenden Gesundheitsgefahren allgemein bekannt; jedenfalls
+gilt in der Schweiz seit 1989 ein breites Asbestverbot (siehe
+http://www.bag.admin.ch/themen/chemikalien/00228/00504/; besucht am
+10.09.2013). Verbreitet wurden in der Schweiz in den 1980er- und
+1990er-Jahren asbestbelastete Gebäude saniert, darunter vielerorts auch
+Schulhäuser, wovon zweifelsfrei auch C.______ sel. als ehemaliger Lehrer
+Kenntnis erlangt hat. War aber die Bevölkerung ab Ende der 80er-Jahre über
+die gesundheitsschädigenden Auswirkungen von Asbest im Bilde, hat sich
+spätestens zu diesem Zeitpunkt eine allenfalls bis dahin bestandene
+spezifische Informationspflicht der Beklagten gegen­über C.______ sel.
+erschöpft. Mithin wären Ersatzansprüche aus nicht erfüllter
+Informationspflicht nach Ablauf von zehn Jahren Ende der 1990-er Jahre
+verjährt, womit die hier zu beurteilende Klage vom Juni 2009 ebenso unter
+diesem Gesichtswinkel verspätet ist.
+f)
+Damit ist zusammenfassend
+festzuhalten, dass allfällige Ersatzansprüche der Kläger wegen unterlassener
+Information verjährt sind, soweit darin überhaupt ein Haftungsgrund zu
+erblicken ist. Bei diesem Ergebnis kann überdies offen bleiben, ob die
+Eternit (Schweiz) AG in Bezug auf die behauptete Verletzung des Mietver­trags,
+began­gen durch Unterlassung einer allfälligen Informationspflicht,
+tatsächlich passivlegiti­miert ist, was die Vorinstanz konkret verneint hat.
+Ebenfalls braucht nicht geprüft zu werden, ob selbst bei regelmässigen
+Vorsorgeuntersuchungen eine Früherkennung des bei C.______ sel. aufgetrete­nen
+malignen Mesothelioms überhaupt möglich gewesen wäre und inwiefern medi­zini­sche
+Vorkehrungen zur Heilung oder wenigstens zur Lebensverlängerung hätten
+unternommen werden können (siehe dazu Urteil des Bundesgerichts 6B_627/2007
+vom 11. August 2008, E. 4.4, nicht publ. in:
+BGE 134 IV
+297).
+3.4.3.—
+a)
+Nachdem C.______
+sel. im Februar 2006 von der Eternit (Schweiz) AG bzw. einer von ihr errichteten
+Stiftung eine Entschädigung in der Höhe von Fr. 40‘000.‑
+ausbezahlt erhalten hat (siehe oben E. I. 2. b), tragen die
+Kläger in ihrer Berufung nun vor, die Vorinstanz hätte die Entrichtung die­ser
+Abfin­dung als verjährungsaufhebende Schuldanerkennung qualifizieren müssen.
+b)
+Gemäss Art. 135
+Ziff. 1 OR wird die Verjährung unterbrochen durch Anerken­nung der
+Forderung seitens des Schuldners, namentlich durch eine Abschlagszah­lung.
+Gestützt
+auf den Wortlaut dieser Bestimmung steht ausser Zweifel, dass sich die Frage
+nach der Verjährungsunterbrechung nur stellt, wenn die verjährungsunterbre­chende
+Handlung noch innert laufender Verjährungsfrist vorgenommen wird, denn wo die
+Verjährung bereits eingetreten ist, bleibt kein Raum mehr für eine Unterbre­chung
+des Verjährungslaufs. Weil vorliegend die Verjährung hinsichtlich des geltend
+gemachten Genugtuungsanspruchs wenn nicht bereits Ende 1982, so doch aller­spätestens
+Ende der 1990er-Jahre abgelaufen ist, konnte die im Februar 2006 überwiesene
+Vergütung von Fr. 40‘000.‑ von vornherein keine
+verjährungsunterbre­chende Wirkung mehr haben. Hinzu kommt, dass vorliegend
+die geleistete Zahlung gerade nicht als Handlung zu qualifizieren ist, welche
+vom Gläubiger als Bestäti­gung einer rechtlichen Verpflichtung und damit als
+Schuldanerkennung im Sinne von Art. 135 Ziff. 1 OR aufgefasst
+werden durfte (dazu BSK-
+Däppen
+,
+N 2 zu Art. 135 OR). Der Betrag von Fr. 40‘000.‑ wurde
+unter der von C.______ sel. persönlich mit seiner Unterschrift bestätigten
+Prämisse ausbezahlt, „dass diese Leistung frei­willig und ohne Anerkennung
+einer Rechtspflicht erfolgt“. Es handelte sich damit entgegen der
+klägerischen Ansicht keineswegs um eine gewissermassen beiläufig angebrachte
+„formelhafte Erklärung ohne rechtliche Wirkung“.
+c)
+Demnach hat die Vorinstanz im
+angefochtenen Entscheid eine Unterbrechung der Verjährung aus zutreffenden
+Überlegungen verneint; die Berufung ist auch in diesem Punkt unbegründet.
+3.4.4.—
+a)
+Die Kläger bringen
+in der Berufung schliesslich vor, das schweizeri­sche Verjährungsrecht sei,
+jedenfalls in dessen aus Sicht der Kläger restriktiven Anwendung durch die
+hiesigen Gerichte, nicht vereinbar mit den Verfahrensgaran­tien der EMRK,
+namentlich der Garantie auf freien Zugang zu einem Gericht im Sinne von
+Art. 6 Ziff. 1 EMRK.
+b)
+Der Berufung kann auch in
+dieser Hinsicht nicht gefolgt werden. Das Bundes­gericht hat in
+vergleichbaren Entscheiden, welche ebenfalls Asbestopfer betrafen, mit
+jeweils einlässlicher und überzeugender Begründung dargelegt, dass unter
+allen Gesichtswinkeln die auch in diesem Entscheid vertretene Auslegung der
+verjäh­rungsrechtlichen Bestimmungen nicht im Widerspruch zur EMRK steht
+(siehe BGE 137 III 16 E. 2.5 S. 23;
+BGE 136 II 187
+E. 8.2 S. 201 f.). Der Standpunkt des Bundesgericht ist im
+angefochtenen Entscheid eingehend rezitiert, weshalb hier integral darauf
+verwiesen werden kann.
+4.—
+Aus alldem ergibt sich, dass
+die Berufung von A.______ und B.______ abzuweisen und das angefochtene Urteil
+des Kantonsgerichts vom 29. März 2012 zu bestätigen ist. Die Vorinstanz
+hat mit korrekter Begrün­dung, auf welche an dieser Stelle noch einmal umfassend
+verwiesen wird, den ein­ge­klagten Genugtuungsanspruch zufolge eingetretener
+(absoluter) Verjährung abge­wiesen.
+III.
+(Prozesskosten)
+Bei
+diesem Ausgang werden die Berufungskläger für das Berufungsverfahren kosten­pflichtig
+und haben überdies den Berufungsbeklagten eine angemessene
+Parteientschädigung zu bezahlen (Art. 106 Abs. 1 in Verbindung mit
+Art. 95 f. ZPO sowie Art. 3 der kanto­nalen Verordnung zu den
+Kosten im Zivil- und Strafprozess [GS III A/5] und Art. 20
+Abs. 1 EG ZPO [GS III C/1]). Der Streitwert beträgt
+Fr. 110‘000.‑ (vgl. Art. 91 Abs. 1 Satz 2 ZPO).
+_____________________________
+Das Gericht erkennt:
+1.
+Die Berufung wird abgewiesen und der Ent­scheid des
+Kantonsgerichts vom 29. März 2012 im Verfahren ZG.2009.00622
+bestätigt.
+2.
+Die Pauschalgerichtsgebühr für das Berufungsverfahren
+von Fr. 5‘000.‑ wird den Berufungsklägern auferlegt und vom
+geleisteten Kostenvorschuss bezogen.
+3.
+Die Berufungskläger werden unter solidarischer Haftung
+verpflichtet, den Beru­fungsbeklagten 1‑4 für das Berufungs­verfahren
+eine Parteientschädigung von je Fr. 4‘000.‑ zu bezahlen.
+4.
+Schriftliche Mitteilung an:
+[…]
