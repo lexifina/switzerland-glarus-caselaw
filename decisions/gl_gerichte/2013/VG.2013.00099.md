@@ -1,0 +1,255 @@
+---
+decision_id: "gl_gerichte_VG.2013.00099"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2013.00099"
+docket_2: "VG.2014.16"
+decided: "2013-12-11"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=218&W10_KEY=218274&nTrefferzeile=1&Template=simple/search_result_document.html"
+---
+
+# GL Gerichte VG.2013.00099
+
+## Regeste
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+## Text
+
+Glarus Verwaltungsgericht 11.12.2013 VG.2013.00099 (VG.2014.16)
+Glaris Verwaltungsgericht 11.12.2013 VG.2013.00099 (VG.2014.16)
+Glarona Verwaltungsgericht 11.12.2013 VG.2013.00099 (VG.2014.16)
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom 11. Dezember 2013
+I. Kammer
+in Sachen
+VG.2013.00099
+1.    A.______
+Beschwerdeführer
+2.    B.______AG
+beide vertreten durch Rechtsanwalt C.______
+gegen
+Gemeinde Glarus Nord
+Beschwerdegegnerin
+vertreten durch Rechtsanwalt D.______
+betreffend
+Verlängerung der
+Planungszone
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Am 14. November 2011 reichte die B.______AG bei der
+Gemeinde Glarus Nord ein Baugesuch auf dem Grundstück von A.______ in [...]
+ein (Parzelle [...]). Da die Gemeinde Glarus Nord mit Beschluss vom
+21. Dezember 2011 eine Planungszone für die betreffende Parzelle
+erliess, wurde das Bauvorhaben der B.______AG bis auf Weiteres sistiert.
+1.2
+Mit Einspracheentscheid vom 14. Mai 2012 hielt die
+Gemeinde Glarus Nord am Erlass der Planungszone und an der Sistierung des
+Bauvorhabens fest. Die von A.______ und der B.______AG hiegegen erhobene
+Beschwerde wies das Departement Bau und Umwelt des Kantons Glarus
+(nachfolgend: DBU) am 10. September 2013 ab.
+2.
+2.1
+Am 10. Oktober 2013 verfügte die Gemeinde Glarus
+Nord, dass die Planungszone für die Parzelle [...] bis am 31. Dezember 2015
+um zwei Jahre verlängert werde und folglich das Baugesuch der B.______AG
+weiterhin sistiert bleibe. Als Rechtsmittel wurde die Einsprache an den
+Gemeinderat Glarus Nord angegeben.
+2.2
+A.______ und die B.______AG gelangten mit
+Beschwerde vom 14. Oktober 2013 ans Verwaltungsgericht und beantragten die
+Aufhebung des Entscheids des DBU vom 10. September 2013 betreffend den
+Erlass einer Planungszone (Verfahren VG.2013.00098) sowie der Verfügung der
+Gemeinde Glarus Nord vom 10. Oktober 2013 betreffend die Verlängerung der
+Planungszone (Verfahren VG.2013.00099). Gegen die Verfügung der Gemeinde
+Glarus Nord erhoben A.______ und die B.______AG zudem Einsprache beim
+Gemeinderat Glarus Nord.
+Am 28. Oktober 2013
+beantragte die Gemeinde Glarus Nord, auf die Beschwerde gegen die Verfügung
+vom 10. Oktober 2013 mangels Zuständigkeit nicht einzutreten.
+II.
+1.
+1.1
+Das Verwaltungsgericht hat vor einem allfälligen
+Sachenentscheid die Voraussetzungen zum Eintreten auf ein Rechtsmittel von
+Amtes wegen zu prüfen (Art. 70 f. des Gesetzes über die Verwaltungsrechtspflege
+vom 4. Mai 1986 [VRG]).
+1.2
+Sofern
+kein Ausschlussgrund nach Art. 106 VRG vorliegt, sind gemäss Art. 105
+Abs. 1 VRG mit Verwaltungsgerichtsbeschwerde erstinstanzliche Entscheide
+und Beschwerdeentscheide des Regierungsrates (lit. a); Beschwerdeentscheide
+der Departemente (lit. b);
+erstinstanzliche
+Entscheide und Beschwerdeentscheide von Gemeinden, weiteren öffentlich-rechtlichen
+Körperschaften und von öffentlich-rechtlichen Anstalten, wenn Spezialvorschriften
+in Gesetz oder landrätlicher Verordnung unmittelbar die Verwaltungsgerichtsbeschwerde
+vorsehen (lit. c); erstinstanzliche Entscheide und Einspracheentscheide von
+kantonalen Behörden, wenn Spezialvorschriften in Gesetz oder landrätlicher
+Verordnung unmittelbar die Verwaltungsgerichtsbeschwerde vorsehen (lit. d)
+sowie Beschwerdeentscheide unabhängiger Rekurskommissionen, soweit diese
+nicht gemäss besonderer gesetzlicher Vorschrift als letzte kantonale Instanz
+entscheiden (lit. e), anfechtbar.
+1.3
+Abweichend von der Einhaltung des vorgesehenen
+Instanzenzugs kann ein Entscheid ausnahmsweise aber direkt ans
+Verwaltungsgericht weitergezogen werden. Die so genannte Sprungbeschwerde
+stellt dabei eine Durchbrechung der funktionellen Zuständigkeitsordnung dar
+und ermöglicht die verwaltungsgerichtliche Beurteilung einer Verfügung oder
+eines Entscheids unter Übergehung der letztinstanzlich zuständigen
+verwaltungsinternen Rechtspflegeinstanz (Regierungsrat oder Departement). Die
+Sprungbeschwerde gemäss Art. 105 Abs. 2 f. VRG verfolgt einen prozessökonomischen
+Zweck und soll dort eine Verfahrensbeschleunigung erreichen, wo ansonsten
+Verfahrensleerläufe absehbar sind. Als Nachteil ist in Kauf zu nehmen, dass
+das Verwaltungsgericht unter Umständen eine Frage entscheiden muss, zu
+welcher der Regierungsrat oder das zuständige Departement keine Praxis begründet
+hat (vgl. Michael Merker, Rechtsmittel, Klage und Normenkontrollverfahren
+nach dem aargauischen Gesetz über die Verwaltungsrechtspflege
+[VRPG] vom 9. Juli 1968, Zürich 2009, § 48 N. 2;
+BGer-Urteil 2C_659/2012 vom 21. November 2012
+E. 3.3.2, mit Hinweisen).
+Das VRG sieht zwei
+verschiedene Möglichkeiten für die Sprungbeschwerde vor. Entweder kann die
+Vorinstanz mit Zustimmung des Beschwerdeführers die Streitsache unter
+Verzicht auf einen Entscheid zur direkten Beurteilung ans Verwaltungsgericht
+überweisen (Art. 105 Abs. 2 VRG) oder der Beschwerdeführer kann in einer
+Sache, die der Verwaltungsgerichtsbeschwerde zugänglich ist, den Entscheid
+direkt ans Verwaltungsgericht weiterziehen, wenn eine verwaltungsinterne
+Beschwerdeinstanz einer Vorinstanz die Weisung erteilt hat, dass oder wie sie
+zu entscheiden habe (Art. 105 Abs. 3 VRG). Im letzteren Fall muss der
+Beschwerdeführer von der angewiesenen Behörde in der Rechtsmittelbelehrung
+auf diese Möglichkeit aufmerksam gemacht werden, wobei es sich hierbei um eine
+blosse Ordnungsvorschrift handelt, welche der Sprungbeschwerde nicht entgegensteht,
+sofern die übrigen Voraussetzungen erfüllt sind.
+2.
+2.1
+Die Beschwerdeführer machen geltend, dass die Voraussetzungen
+von Art. 105 Abs. 3 VRG erfüllt seien. Die Verfügung der
+Beschwerdegegnerin vom 10. Oktober 2013 stehe in ursächlichem Zusammenhang
+zum ebenfalls angefochtenen Entscheid des DBU vom 10. September 2013
+betreffend den Erlass der Planungszone. Dabei habe das DBU den Erlass
+umfassend sanktioniert und habe sich zudem mit den Voraussetzungen einer
+zeitlichen Verlängerung der Planungszone bereits auseinandergesetzt. Der
+vorliegend vorgesehene Rechtsmittelweg würde im Ergebnis zu keinem anderen
+Resultat führen als derjenige, welcher gegen den Erlass der Planungszone
+angestrengt worden sei. Deshalb sei die vorliegende Beschwerde entgegen dem
+festgeschriebenen Instanzenzug direkt durch das Verwaltungsgericht zu behandeln.
+2.2
+Die Beschwerdegegnerin bringt dagegen vor, dass
+obschon die angefochtene Verfügung auf dem Entscheid des DBU vom
+10. September 2013 basiere, kein Raum für eine Sprungbeschwerde bestehe.
+Art. 105 Abs. 3 VRG regle einzig den Fall eines weisungsgebundenen
+Entscheids, welcher vorliegend nicht existiere. Zudem sei die Revision der
+Ortsplanung eine kommunale Angelegenheit, in welcher sie selbst ein grosses
+Ermessen und einen entsprechenden Entscheidungsspielraum besitze.
+3.
+Vorliegend ist die
+örtliche und sachliche Zuständigkeit des Verwaltungsgerichts unbestrittenermassen
+erfüllt. Grundsätzlich mangelt es aber
+an der funktionellen Zuständigkeit,
+da diese in der Regel erst bei Vorliegen des Entscheids des zuständigen
+Departements gegeben ist.
+Gemäss Art. 32
+Abs. 1 des Raumentwicklungs- und Baugesetzes des Kantons Glarus vom
+2. Mai 2010 (RBG) geht dem Beschwerdeverfahren beim Erlass oder bei der
+Verlängerung einer Planungszone ein Einspracheverfahren voraus. Erste Beschwerdeinstanz
+bildet das zuständige Departement (Art. 79. Abs. 1 RBG i.V.m.
+Art. 103 Abs. 2 VRG), zweite Beschwerdeinstanz ist das Verwaltungsgericht
+(Art. 105 Abs. 1 lit. b VRG).
+4.
+4.1
+Dass die Voraussetzungen gemäss
+Art. 105 Abs. 2 VRG vorliegen, wurde von den Beschwerdeführern
+zu Recht nicht geltend gemacht. Dafür bedürfte es eines Verzichts auf
+materielle Behandlung der Sache seitens der Vorinstanz, welcher vorliegend
+nicht gegeben ist. Es bleibt somit fraglich und zu prüfen, ob die Bedingungen
+von Art. 105 Abs. 3 VRG erfüllt sind und dabei auch, ob das
+DBU in seinem Entscheid über den Erlass der Planungszone vom 10. September
+2013 oder anderswie eine Weisung erteilt hat, ob und wie die
+Beschwerdegegnerin im Verfahren über eine allfällige Verlängerung der Planungszone
+zu entscheiden hat.
+4.2
+Bei der Frage, welche Anforderungen an die
+entsprechende Weisung gestellt werden bzw. wie konkret diese erteilt werden
+muss, bietet es sich an, Art. 47 Abs. 2 des Bundesgesetzes über das
+Verwaltungsverfahren vom 20. Dezember 1968 (Verwaltungsverfahrensgesetz,
+VwVG) analog heranzuziehen, da in dieser Bestimmung das gleiche abgekürzte
+Rechtsmittelverfahren auf bundesrechtlicher Ebene normiert ist. Dabei hielt
+das Bundesverwaltungsgericht in einem Entscheid fest (vgl. Urteil 2009/30 vom
+4. März 2009 E. 1.2.1 f., www.bvger.ch), dass für die Zulässigkeit der
+Sprungbeschwerde aus den gesamten Umständen feststehen muss, wie die Beschwerdeinstanz
+entscheiden wird. Eine Weisung ist beispielsweise dann gegeben, wenn die
+Beschwerdeinstanz an der Entscheidfindung der Vorinstanz beteiligt war. Kann
+eine Verfügung mittels Einsprache angefochten werden, ist die Sprungbeschwerde
+jedoch ausgeschlossen, es sei denn, das Spezialgesetz sehe die Sprungbeschwerde
+eigens vor (vgl. Alfred Kölz/Isabelle Häner/Martin Bertschi, Verwaltungsverfahren
+und Verwaltungsrechtspflege des Bundes, 3. A., Zürich/Basel/Genf 2013,
+Rz. 787 und 1272, je mit Hinweisen).
+4.3
+Wie bereits erwähnt, geht dem vorliegenden
+Beschwerdeverfahren ein Einspracheverfahren voraus (vgl. E. II/3). Eine
+Sprungbeschwerde ist spezialgesetzlich nicht vorgesehen, denn das RBG
+verweist mit Ausnahme von Verfügungen, welche im koordinierten Verfahren
+erlassen wurden, auf die Verfahrensbestimmungen des VRG (Art. 79 Abs. 1 VRG).
+Da die Beschwerdegegnerin bis anhin noch keinen Einspracheentscheid im Verfahren
+betreffend die Verlängerung der Planungszone getroffen hat, scheidet eine
+Sprungbeschwerde im Sinne von Art. 105 Abs. 3 VRG damit von vornherein aus.
+4.4
+Im Übrigen würde die Sprungbeschwerde aber auch am
+Vorliegen einer entsprechenden Weisung der Vorinstanz scheitern. Soweit die
+Beschwerdeführer geltend machen, das DBU habe sich zur Verlängerung der
+Planungszone ausreichend und dahingehend geäussert, dass und wie die
+Beschwerdegegnerin zu entscheiden habe, ist ihnen nämlich nicht zu folgen.
+Einerseits kann dem
+Dispositiv des Entscheids eine entsprechende Weisung nicht entnommen werden,
+da darin ausschliesslich der Einspracheentscheid der Beschwerdegegnerin über
+den Erlass einer Planungszone bestätigt wurde.
+Andererseits legte das DBU
+in seinem Entscheid dar, dass in zeitlicher Hinsicht Planungszonen nur
+solange in Kraft bleiben sollen, als es die zügig vorangetriebene Nutzungsplanrevision
+erfordere. Falls sich dennoch die Frage der Verlängerung der Planungszone für
+die Parzelle [...] stelle, so sei nachzuweisen, dass weiterhin eine sachliche
+Notwendigkeit bestehe. Damit erteilte das DBU aber keine Weisung ob eine
+Verlängerung der Planungszone rechtmässig wäre und bejahendenfalls für wie
+lange. Vielmehr betont sie gegenüber der Beschwerdegegnerin, welche Punkte
+bei einem allfälligen Entscheid zu beachten wären.
+Folglich ist die
+Sprungbeschwerde ans Verwaltungsgericht nicht zulässig und demgemäss auf die
+Beschwerde nicht einzutreten.
+III.
+Bei
+diesem Verfahrensausgang ist die pauschale Gerichtsgebühr von Fr. 1'000.- den
+Beschwerdeführern aufzuerlegen (Art. 134 Abs. 1 lit. c VRG). Vom bereits
+geleisteten Kostenvorschuss in der Höhe von Fr. 2'000.- sind den
+Beschwerdeführern Fr. 1'000.- zurückzuerstatten. Ausgangsgemäss steht
+den Beschwerdeführern keine Parteientschädigung zu (Art. 138 Abs. 3 lit.
+a VRG e contrario).
+Da die Beantwortung von
+Rechtsmitteln zum angestammten Aufgabenbereich eines Gemeinwesens gehört,
+wird ihnen in der Regel keine Entschädigung ausgerichtet, ausgenommen im
+Klageverfahren oder wenn besondere Umstände dies rechtfertigen (Art. 138 Abs.
+4 VRG). Die Voraussetzungen für eine ausnahmsweise Zusprechung einer Parteientschädigung
+an die Beschwerdegegnerin sind vorliegend nicht erfüllt.
+Demgemäss beschliesst die Kammer:
+1.
+Auf die Beschwerde wird nicht
+eingetreten.
+2.
+Den Beschwerdeführern wird eine
+pauschale Gerichtsgebühr von Fr. 1'000.- auferlegt. Vom geleisteten
+Kostenvorschuss in der Höhe von Fr. 2'000.- werden den Beschwerdeführern
+Fr. 1'000.- zurückerstattet.
+3.
+Parteientschädigungen werden
+keine zugesprochen.
+4.
+Schriftliche Eröffnung und
+Mitteilung an:
+[…]
