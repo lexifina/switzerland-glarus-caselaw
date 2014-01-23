@@ -1,0 +1,225 @@
+---
+decision_id: "gl_gerichte_VG.2014.00008"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2014.00008"
+docket_2: "VG.2014.11"
+decided: "2014-01-23"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=213&W10_KEY=218274&nTrefferzeile=8&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/142.20/art-076.md", "switzerland/bund/acts/142.20/art-079.md", "switzerland/bund/acts/142.20/art-080.md", "switzerland/bund/acts/142.20/art-081.md", "switzerland/bund/acts/142.20/art-090.md"]
+---
+
+# GL Gerichte VG.2014.00008
+
+## Regeste
+
+Fremdenpolizei
+
+## Text
+
+Glarus Verwaltungsgericht 23.01.2014 VG.2014.00008 (VG.2014.11)
+Glaris Verwaltungsgericht 23.01.2014 VG.2014.00008 (VG.2014.11)
+Glarona Verwaltungsgericht 23.01.2014 VG.2014.00008 (VG.2014.11)
+
+Fremdenpolizei
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Verfügung
+vom 23. Januar 2014
+Der Präsident
+in Sachen
+VG.2014.00008
+Abteilung Migration des
+Kantons Glarus
+Beschwerdeführerin
+gegen
+A.______
+Beschwerdegegner
+betreffend
+Ausschaffungshaft
+Der
+Präsident zieht in Betracht:
+I.
+1.
+1.1
+Am 21. September 2013 wurde A.______ in Genf aufgrund einer
+Ausschreibung zur Verhafung im Fahndungssystem Ripol angehalten und zwecks
+Vollzug der Wegweisung dem Kanton Graubünden zugeführt. A.______ waren
+mehrere Einbruchdiebstähle im Kanton Graubünden zu Last gelegt worden,
+weshalb er mit Entscheid des Zwangsmassnahmengerichts des Kantons Graubünden
+vom 23. September 2013 in Untersuchungshaft versetzt wurde.
+1.2
+Am 10. Oktober
+2013 um 9.25 Uhr eröffnete das Amt für Migration und Zivilrecht
+Graubünden A.______ eine Wegweisungsverfügung, wobei ihm vorgängig das rechtliche
+Gehör gewährt wurde. Er hätte demnach die Schweiz bis am 10. Oktober 2013,
+24.00 Uhr, verlassen müssen. Noch am selben Tag wurde A.______ aus der
+Untersuchungshaft entlassen. Zur Sicherstellung seiner Ausreise wurde ihm ein
+SBB-Ticket nach Basel und ein Schreiben ausgehändigt, welches er bei seiner
+Ausreise einem Schweizer Grenzbeamten hätte abgeben müssen.
+1.3
+Am 30. Oktober
+2013 meldete sich A.______ am Schalter der Abteilung Migration in Glarus.
+Darauffolgende Abklärungen ergaben, dass A.______ im Fahndungssystem Ripol
+zur Verhaftung ausgeschrieben war. Da er die ihm angesetzte Ausreisefrist
+nicht wahrgenommen und die Schweiz bis am 10. Oktober 2013, 24.00 Uhr,
+nicht verlassen hatte, wurde er gestützt auf Art. 76 Abs. 1 lit. b
+Ziff. 3 und 4 und 6 des Bundesgesetzes über die Ausländerinnen und
+Ausländer vom 16. Dezember 2005 (AuG) in Ausschaffungshaft genommen und
+ihm gleichentags das rechtliche Gehör gewährt.
+2.
+2.1
+Am 31. Oktober
+2013 ersuchte die Abteilung Migration den Präsidenten des Verwaltungsgerichts,
+die gegen A.______ angeordnete Ausschaffungshaft bis am 30. Januar 2014
+zu verlängern. Gleichentags, um 16.00 Uhr, fand die mündliche Verhandlung im
+Sinne von Art. 80 Abs. 2 AuG statt, wobei das Gericht die Ausschaffungshaft
+bestätigte und bis zum Zeitpunkt der tatsächlichen Ausschaffung, jedoch bis
+längstens 30. Januar 2014, verlängerte (vgl. VGer-Entscheid
+VG.2013.00104 vom 31. Oktober 2013 E. II/5, nicht publiziert).
+Dieser Entscheid ist in Rechtskraft erwachsen.
+2.2
+Am 21. Januar
+2014 ersuchte die Abteilung Migration den Präsidenten des Verwaltungsgerichts,
+die gegen A.______ angeordnete Ausschaffungshaft bis am 30. April 2014
+zu verlängern. Die mündliche Verhandlung im Sinne von
+Art. 80 Abs. 2 AuG fand am 23. Januar 2014, um 15.00 Uhr,
+statt.
+II.
+1.
+Der
+Präsident des Verwaltungsgerichts ist als Einzelrichter zur Überprüfung der
+Rechtmässigkeit einer Ausschaffungshaft zuständig (Art. 6 Abs. 1 des
+kantonalen Einführungsgesetzes zum Bundesgesetz über die Ausländerinnen und
+Ausländer und zum Asylgesetz vom 4. Mai 2008 [EG AuG]). Da auch die übrigen
+Prozessvoraussetzungen erfüllt sind, ist auf das Gesuch einzutreten.
+2.
+2.1
+Wurde ein erstinstanzlicher Weg- oder Ausweisungsentscheid eröffnet, so
+kann die zuständige Behörde die betroffene Person zur Sicherstellung des
+Vollzugs unter anderem dann in Haft nehmen, wenn konkrete Anzeichen
+befürchten lassen, dass sich der Inhaftierte der Ausschaffung entziehen will,
+insbesondere weil er der Mitwirkungspflicht nach Art. 90 AuG sowie nach Art.
+8 Abs. 1 lit. a oder Abs. 4 des Asylgesetzes vom 26. Juni 1998 (AsylG) nicht
+nachkommt (Art. 76 Abs. 1 lit. b Ziff. 3 AuG). Ebenso kann die betroffene
+Person in Haft genommen werden, wenn das bisherige Verhalten der betroffenen
+Person darauf schliessen lässt, dass sie sich behördlichen Anordnungen
+widersetzt (Art. 76 Abs. 1 lit. b Ziff. 4 AuG). Diese beiden Haftgründe sind
+als gemeinsame Umschreibung der Gefahr des Untertauchens und demzufolge als
+einheitlicher Haftungsgrund zu betrachten (Tarkan Göksu, in Martina Caroni et
+al. [Hrsg.], Handkommentar zum Bundesgesetz über Ausländerinnen und Ausländer
+(AuG), Bern 2010, Art. 76 N. 11). Sie stellen damit eine gesetzliche
+Vermutung für eine Untertauchensgefahr dar. Die Haft muss verhältnismässig
+und die Ausschaffung rechtlich und tatsächlich möglich sein (Art. 80
+Abs. 6 lit. a AuG). Aufgrund des Beschleunigungsgebots nach Art. 76 Abs.
+4 AuG ist auf Seiten der Behörden die Papierbeschaffung überdies mit dem
+nötigen Nachdruck zu verfolgen und schliesslich sind die gesetzlichen
+Anforderungen an die Haftbedingungen zu beachten (vgl. Art. 81 AuG).
+Die Haft darf höchstens sechs Monate dauern; stehen dem Vollzug der Weg- oder
+Ausweisung besondere Hindernisse entgegen, so kann sie mit Zustimmung der
+kantonalen richterlichen Behörde um höchstens zwölf Monate verlängert werden
+(Art. 79 AuG).
+2.2
+Für die Annahme einer Untertauchensgefahr sind konkrete Anhaltspunkte
+dafür erforderlich, dass sich die ausländische Person der Ausschaffung
+entziehen und untertauchen will. Der Vollzug der Wegweisung muss erheblich
+gefährdet erscheinen und die Ausschaffungshaft darf nicht einfach vorsorglich
+angeordnet werden, nur weil erfahrungsgemäss eine bestimmte Anzahl der zur
+Ausreise verpflichteten Ausländer untertaucht (Göksu, a.a.O., Art. 76 N. 12).
+Sodann ist die in Art. 76 Abs. 1 lit. b Ziff. 3 und 4 AuG festgesetzte
+gesetzliche Vermutung für eine Untertauchensgefahr widerlegbar. Die
+Ausschaffungshaft darf schliesslich auch nicht als Beugehaft verstanden
+werden, um ein bestimmtes Verhalten zu erzwingen. Sie dient auch nicht als
+Sanktion für die Widersetzung einer behördlichen Anordnung.
+2.3
+Nach der bundesgerichtlichen Rechtsprechung wird eine Untertauchensgefahr
+grundsätzlich dann angenommen, wenn die ausländische Person bereits einmal untergetaucht
+bzw. hier straffällig geworden ist, durch erkennbar unglaubwürdige und widersprüchliche
+Angaben die Vollzugsbemühungen zu erschweren versucht oder sonst klar zu
+erkennen gibt, dass sie nicht bereit ist, in ihre Heimat zurückzukehren (BGE 130 II 56 E. 3.1;
+128 II 241 E. 2.1; 125 II 369 E. 3b/aa; 122 II 49 E. 2a). Der aktiven
+Vereitelung des Wegweisungsvollzugs gleichgestellt ist die Verletzung der
+Mitwirkungspflichten, insbesondere bei der Papierbeschaffung. Jedoch ist der
+blosse Umstand, dass die ausländische Person illegal eingereist ist und über
+keine Papiere verfügt, nicht ausreichend (BGE 129 I 139 E. 4.2.1). Die
+Beurteilung, ob eine Untertauchensgefahr besteht, setzt in jedem konkreten
+Fall eine Prognose voraus. Dabei ist das Verhalten der ausländischen Person
+in seiner Gesamtheit unter Berücksichtigung seiner persönlichen Verhältnisse
+zu würdigen (BGer-Urteil 2A.465/2001 vom 31. Oktober 2001 E. 2c).
+3.
+Der
+Gesuchsgegner führte anlässlich der heutigen Anhörung im Wesentlichen aus,
+dass er in Luxemburg geboren worden sei. Er sei Pensionär und schwedischer
+Staatsbürger, wobei seine schwedischen Papiere in Basel an der Grenze liegen
+würden. Er habe vor 35 Jahren in Genf Asyl erhalten und nichts mit Bosnien
+oder dem Balkan zu tun. Da ihm ihm vier Organe gestohlen worden seien, habe
+man ihn in Chur entlassen, damit er das Rote Kreuz aufzusuchen könne. Die
+ganze Inhaftierung sei ein Missverständnis. Er sei krank und die Polizei
+verstecke die Akten, welche seine Krankheit belegen würden.
+4.
+4.1
+Der Gesuchsgegner wusste spätestens im Zeitpunkt der Eröffnung des Wegweisungsentscheides
+am 10. Oktober 2013, dass er die Schweiz verlassen muss. Dieser
+Aufforderung kam er jedoch innert der ihm angesetzten Ausreisefrist nicht
+nach. Zudem verweigerte er trotz des von der Gesuchstellerin rechtzeitig
+organisierten "Laissez-Passer" am 16. Dezember 2013 seinen
+Rückflug nach Sarajevo. Auch kam der Gesuchsgegner bisher seiner
+Mitwirkungspflicht bei der Beschaffung seiner persönlichen Dokumente nicht
+nach und unternahm im Rahmen der Rückkehrhilfe keine Anstrengungen,
+um eine freiwillige Ausreise zu begünstigen
+.
+Anlässlich der heutigen Verhandlung gab er an, nach Genf reisen zu wollen,
+damit er das Rote Kreuz aufzusuchen könne
+.
+Damit
+bestehen konkrete Anzeichen dafür, dass er sich auch künftig seiner
+Wegweisung entziehen will. Die Voraussetzungen für die Anordnung der Ausschaffungshaft
+gemäss Art. 76 Abs. 1 lit. b Ziff 3 und 4 AuG sind somit erfüllt.
+4.2
+Aus den Verfahrensakten ist ersichtlich, dass die Gesuchstellerin nach
+wie vor um eine schnellstmögliche Ausschaffung des Gesuchsgegners bemüht ist
+und den Gesuchsgegner nach Verweigerung des Rückflugs am 16. Dezember
+2013 gleichentags für einen Sonderflug nach Sarajevo angmeldet hatte. Am
+17. Januar 2014 bestätigte das BFM der Gesuchstellerin, dass voraussichtlich
+im März 2014 ein EU-Sonderflug über Frankfurt nach Sarajevo stattfinden
+könne. Folglich ist damit zu rechnen, dass der Gesuchsgegner innert
+absehbarer Frist nach Bosnien-Herzegowina überführt werden kann. Der Vollzug
+der Wegweisung erscheint somit weder aus rechtlichen noch aus tatsächlichen Gründen
+als undurchführbar (vgl. Art. 80 Abs. 6 lit a AuG).
+5.
+Zu beachten ist, dass die Ausschaffungshaft gemäss Art.
+79 Abs. 1 AuG die gesetzliche Maximaldauer von sechs Monaten nicht
+überschreiten darf. Da der Gesuchsgegner am 30. Oktober 2013 in
+Ausschaffungshaft genommen wurde, ist die Haft längestens bis am
+29. April 2014 zu verlängern (vgl. zur Berechnung der Frist BGE 127 II
+174 E. 2b/cc).
+6.
+Zusammenfassend
+gilt es festzuhalten, dass das öffentliche Interesse, ein erneutes
+Untertauchen des Gesuchsgegeners zu verhindern und damit den Vollzug der Wegeweisungsverfügung
+sicherzustellen, schwerer wiegt als das persönliche Interesse des
+Gesuchsgegners an der Aufhebung des Freiheitsentzugs. Unter Berücksichtigung
+aller Umstände erweist sich die Anordnung der Ausschaffungshaft als verhältnismässig.
+Die Ausschaffungshaft ist folglich zu bestätigen und längstens bis am
+29. April 2014 zu verlängern.
+III.
+In Anwendung von Art. 135
+Abs. 1 des Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986 (VRG)
+sind für das vorliegende Verfahren keine Kosten zu erheben.
+Demgemäss
+verfügt der Präsident:
+1.
+Das Gesuch der Gesuchstellerin
+wird teilweise gutgeheissen. Die Ausschaffungshaft wird bestätigt und bis
+zum Zeitpunkt der tatsächlichen Ausschaffung, jedoch längstens bis am 29.
+April 2014, verlängert.
+2.
+Es
+werden keine Kosten erhoben.
+3.
+Diese Verfügung wurde den
+Parteien am 23. Januar 2014, um 15.35 Uhr, mündlich eröffnet.
+Schriftliche Mitteilung an:
+[…]
