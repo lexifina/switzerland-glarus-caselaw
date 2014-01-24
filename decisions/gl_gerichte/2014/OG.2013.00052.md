@@ -1,0 +1,295 @@
+---
+decision_id: "gl_gerichte_OG.2013.00052"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2013.00052"
+docket_2: "OGS.2014.23"
+decided: "2014-01-24"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=354&W10_KEY=218274&nTrefferzeile=6&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/220/art-041.md", "switzerland/bund/acts/220/art-053.md", "switzerland/bund/acts/312.0/art-115.md", "switzerland/bund/acts/312.0/art-118.md", "switzerland/bund/acts/312.0/art-122.md", "switzerland/bund/acts/312.0/art-126.md", "switzerland/bund/acts/312.0/art-381.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-403.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/741.01/art-090.md"]
+---
+
+# GL Gerichte OG.2013.00052
+
+## Regeste
+
+fahrlässige Tötung
+
+## Text
+
+Glarus Obergericht 24.01.2014 OG.2013.00052 (OGS.2014.23)
+Glaris Obergericht 24.01.2014 OG.2013.00052 (OGS.2014.23)
+Glarona Obergericht 24.01.2014 OG.2013.00052 (OGS.2014.23)
+
+fahrlässige Tötung
+
+Kanton Glarus
+Obergericht
+Zwischenentscheid
+vom 24. Januar 2014
+Verfahren
+OG.2013.00052
+A.______                                                                                      Berufungskläger
+vertreten
+durch C.______
+gegen
+B.______                                                                                      Berufungsbeklagter
+vertreten durch D.______
+betreffend
+fahrlässige
+Tötung
+(Eintretensentscheid)
+Das
+Gericht zieht in Betracht:
+1.—
+Am 1. Juli 2008
+ereignete sich auf der Grossbaustelle „Linthal 2015“ ein tödlicher
+Arbeitsunfall, als eine Seilbahngondel mit einem Baukran kollidierte und
+dabei aus den zwei Tragseilen gehoben wurde; beim Fall der Gondel wurde der
+Maschinist aus der Kabine geschleudert, worauf er über eine mehrere hundert
+Meter hohe Felswand abstürzte.
+2.—
+a)
+Mit Urteil
+vom 3. Juli 2013 erkannte die Strafgerichtskommission des
+Kantonsgerichts Glarus vier Personen, die in unterschiedlichen Funktionen in
+den Seilbahnunfall verwickelt waren, für schuldig der fahrlässigen Tötung.
+Ein weiterer Beschuldigter [E.______] hatte bereits den gleich lautenden
+Strafbefehl der Staatsanwaltschaft akzeptiert und musste sich da­her nicht
+mehr vor der Strafgerichtskommission verantworten. Einer der von der
+Strafgerichtskommission verurteilten Beteiligten ist A.______, der als
+Vorarbeiter den Baukran-Einsatz anordnete, in dessen Folge es zur fatalen Kol­lision
+mit der Seilbahn kam. Im Zuge der strafrechtlichen Ver­urteilung wurde A.______
+zudem in solidarischer Haftung mit dem ebenfalls verurteilten
+Baustellenleiter verpflichtet, der Versicherung rund Fr. 540‘000.‑
+Schadenersatz zu bezahlen. Es handelt sich dabei um die Kosten der Behebung
+des beim Unfall an der Seilbahn entstandenen Sachschadens, für welche die
+Versicherung als Versiche­rer der Kraftwerke Linth-Limmern AG aufgekommen
+ist.
+b)
+Neben den vier
+verurteilten Personen war vor der Strafgerichtskommission auch B.______
+angeklagt, der für die Installation des Baukrans zuständig war. Ihm wurde
+angelastet, dass er am Kran eine Drehbegrenzung hätte anbringen sollen, um
+Schwenkbewegungen in das Profil der Seilbahn zu verhindern; zu­mindest aber
+hätte er nach Ansicht der Staatsanwaltschaft darauf hinwirken müssen, dass
+die Seilbahn nicht während der Kranarbeiten in Betrieb gesetzt würde. Die
+Strafgerichtskommission sprach B.______ jedoch von Schuld und Strafe frei.
+3.—
+A.______ führt gegen
+den Entscheid der Strafgerichtskommission Berufung. In seiner
+Berufungserklärung vom 28. August 2013 wendet er sich aller­dings nicht
+nur gegen seine Verurteilung und die ihm auferlegte Schadenersatz­pflicht;
+ebenso beantragt er, es sei der gegen­über dem Mitbeschuldigten B.______
+ergangene Freispruch aufzuheben.
+4.—
+a)
+Mit Eingabe
+vom 20. September 2013 stellt B.______ den Antrag, es sei auf die
+Berufung von A.______ insoweit nicht einzutreten, als dieser den ihm [B.______]
+gegenüber erfolgten Freispruch anficht. A.______ weist replicando darauf hin,
+dass er „aufgrund des beträchtlichen wirtschaftlichen Schadens, welchen alle
+letztlich rechtskräftig Verurteilten zu tragen haben, ein direktes und
+persönliches Interesse an einem Schuldspruch auch gegenüber dem
+Mitbeschuldigten B.______“ habe. Dieser Ansicht hält B.______ duplicando
+entgegen, dass allfällige zivilrechtliche Haftungsfolgen keine Legi­timation
+begründeten, um den Freispruch eines Mitbeschuldigten anzufechten; denn bei
+einem allfälligen Haftungsprozess sei der Zivilrichter gemäss Art. 53 OR
+an eine Freisprechung durch das Strafgericht nicht gebunden.
+5.—
+Das Berufungsgericht
+entscheidet in einem schriftlichen Verfahren, ob auf die Berufung einzutreten
+sei, namentlich wenn eine Partei geltend macht, die Beru­fungserklärung sei
+unzulässig (Art. 403 Abs. 1 lit. a StPO). Eine
+Berufungserklärung ist unter anderem unzulässig, soweit es dem
+Rechtsmittelkläger an der Legitimation zur Anfechtung der im Einzelnen
+beanstandeten erstinstanzlichen Urteilspunkte fehlt (siehe
+Schmid
+, StPO-Praxiskommentar,
+2. Auflage, Zürich/St. Gallen 2013, Art. 403 N 4).
+Vorliegend stellt sich B.______ auf den Standpunkt, A.______ sei nicht
+befugt, den Freispruch eines Mitbeschuldigten anzufechten.
+5.1.—
+a)
+Neben der
+Staatsanwaltschaft (siehe dazu Art. 381 Abs. 1 StPO) kann auch jede
+andere Partei eines Strafprozesses, die ein rechtlich geschütztes Inte­resse
+an der Aufhebung oder Änderung eines Entscheides hat, ein Rechtsmittel er­greifen
+(Art. 382 Abs. 1 StPO). Ein rechtlich geschütztes Interesse im
+Sinne dieser Bestimmung ist gegeben, wenn der Rechtsmittelkläger durch den
+angefochtenen Urteilspunkt beschwert ist, er also
+selbst und unmittelbar
+in seinen Interessen tan­giert
+ist (
+Schmid
+,
+a.a.O., Art. 382 N 2). Ein rechtlich geschütztes Interesse an der
+Aufhebung oder Änderung eines Entscheids und damit eine Beschwerde ist nur
+dann gegeben, wenn der Rechtsmittelkläger selbst in seinen eigenen Rechten
+unmittelbar und direkt betroffen ist; eine blosse Reflexwirkung genügt
+demgegenüber nicht. Die Voraussetzung der
+unmittelbaren
+Betroffenheit
+in eigenen Rechten grenzt von Fäl­len ab, in denen Personen bloss faktisch
+und nicht in einer eigenen Rechtsposition oder bloss mittelbar bzw. indirekt
+in ihren Rechten betroffen sind (
+Guidon
+,
+Die Be­schwerde gemäss Schweizerischer Strafprozessordnung,
+Zürich/St. Gallen 2011, S. 101 N. 233;
+Lieber,
+in: Donatsch/Hansjakob/Lieber [Hrsg.], Kommentar
+zur Schweizerischen Strafprozessordnung, Zürich 2010, Art. 382
+N 7).
+b)
+Bei der vorliegenden
+Konstellation, wo der Beschuldigte A.______ sich in seiner Berufung gegen den
+Freispruch eines Mitbeschuldigten wendet, ist das für eine Anfechtung
+verlangte rechtlich geschützte Interesse nicht gegeben.
+aa)
+Der Beschuldigte ist
+nur in dem Umfang beschwert, als das Urteil ihn selber betrifft. Er kann mit
+einem Rechtsmittel nicht einen Punkt anfechten, der nicht ihn, sondern
+ausschliesslich einen Mitbeschuldigten betrifft (BGE 131 IV 191
+E. 1.2.1 S. 193;
+Schweri
+,
+Eidgenössische Nichtigkeitsbeschwerde in Strafsachen, Bern 1993, S. 80
+Rz 226;
+Calame
+, in:
+Kuhn/Jeanneret [Hrsg.], Code de procédure pénale suisse, Rz 2 zu
+Art. 382;
+Hauser/Schweri/Hartmann
+,
+Schweizerisches Strafpro­zessrecht, 6. Aufl., Basel 2005, S. 474
+Rz 23).
+bb)
+Der erstinstanzlich erfolgte
+Freispruch von B.______ wirkt sich nicht un­mittelbar, direkt auf die
+Rechtsstellung von A.______ aus. Der Freispruch eines Mitbeschuldigten hat
+nicht etwa zur Folge, dass
+deswegen
+die übrigen Beschuldig­ten mit
+einer höheren Strafe zu rechnen haben. Denn in einem Strafprozess ist in
+Bezug auf jeden Beschuldigten
+einzeln
+zu klären, ob dieser den
+eingeklagten Straf­tatbestand objektiv und subjektiv erfüllt hat; ebenso ist
+eine allfällige Sanktion nach Massgabe des
+individuellen
+Verschuldens
+zu bestimmen. Mit anderen Worten aus­gedrückt, verhält es sich also nicht so,
+dass bei einer Mehrzahl von Tätern sozusa­gen ein „Gesamtverschulden“
+anteilmässig aufgeteilt würde und daher das vom ein­zelnen Täter persönlich
+zu verantwortende Verschulden umso geringer wäre, je mehr Personen an der
+Straftat mitschuldig sind. In dieser Perspektive ist darum die Strafbarkeit
+von A.______ losgelöst von der Frage der Schuldigkeit weiterer Beteiligter zu
+beurteilen; der Freispruch eines Mitbeschuldigten hat auf die straf­rechtliche
+Beurteilung des eingeklagten Tatverhaltens von A.______ keinen Einfluss.
+cc)
+Insoweit sich A.______
+zur Begründung seiner Legitimation zur Beru­fung gegen die Freisprechung von B.______
+auf die zivilrechtlichen Haftungsfolgen beruft, kann ihm nicht gefolgt
+werden. Hierbei handelt es sich, wenn überhaupt, um eine lediglich indirekte
+Auswirkung des Freispruchs. Wohl hat die Versicherung im vorliegenden
+Strafverfahren unter anderem gegenüber A.______ ‑ nicht aber gegen B.______
+‑ adhäsionsweise eine Zivilforderung eingeklagt. Soweit jedoch über
+diese Forderung tatsächlich im Rahmen des Berufungsverfahrens inhaltlich zu
+befinden sein wird, was bereits insofern ungewiss ist, weil im Falle des
+ebenfalls eingeklagten [E.______] das Strafverfahren mit Strafbefehl erledigt
+wurde (dazu Art. 126 Abs. 2 lit. a StPO; act. 70
+S. 7 E. I. 1.), so wären die haftpflichtrechtlichen Aspekte
+ausschliesslich im Lichte von Art. 41 ff. OR zu prüfen und ist
+dabei nicht ersichtlich, inwiefern A.______ seine Rechtsposi­tion nicht
+wirksam und unbekümmert um den Freispruch von B.______ sollte ver­treten
+können. Sodann ist im Hinblick auf eine allfällige Verweisung der Schadener­satzklage
+auf den Zivilweg darauf hinzuweisen, dass gemäss Art. 53 OR der Zivil­richter
+an ein freisprechendes Urteil des Strafrichters nicht gebunden ist.
+dd)
+Hinzu kommt noch
+Folgendes: In einem Strafverfahren kann die geschä­digte Person
+zivilrechtliche Ansprüche
+aus der Straftat
+als Privatklägerschaft adhä­sionsweise
+im Strafverfahren geltend machen (Art. 122 Abs. 1 StPO). Vorliegend
+verlangt die Versicherung ausschliesslich Ersatz für den beim Unfall an der
+Seilbahn entstandenen Schaden. Dieser Schaden aber ist nicht eine direkte
+Folge der im vorliegenden Strafprozess konkret zu beurteilenden Straf­tat der
+fahrlässigen Tötung. Mithin ist ohnehin fraglich und wird im Berufungsent­scheid
+näher zu prüfen sein, ob auf die adhäsionsweise eingeklagte Ersatzforde­rung
+der Versicherung überhaupt einzugehen ist.
+c)
+Für die Frage,
+wann
+eine unmittelbare Betroffenheit in eigenen Rechten und damit eine Beschwer
+vorliegt, mag als Leitlinie auch die Lehre und Rechtsprechung zur
+unmittelbaren Verletzung bzw. Beeinträchtigung der durch eine Straftat geschä­digten
+Person (Art. 115 Abs. 1 StPO) in ihren eigenen Rechten dienlich
+sein (
+Guidon
+, a.a.O.,
+S. 102 N 243). Der vom Bundesgericht in BGE 138 IV 258
+beur­teilte Fall belegt dabei anschaulich, dass selbst die von einem
+strafbaren Verhalten konkret betroffene Person nur eingeschränkt befugt ist,
+sich im Strafverfahren als Privatklägerschaft zu konstituieren mit
+entsprechender Legitimation zur Anfechtung eines Strafurteils (dazu
+Art. 382 StPO). Als geschädigte Person und damit als Pri­vatklägerin am
+Strafverfahren beteiligen (Art. 118 Abs. 1 StPO) kann sich nur, wer
+Träger des Rechtsguts ist, das durch die im konkreten Sachverhalt in Frage
+ste­hende Strafbestimmung vor Verletzung oder Gefährdung unmittelbar
+geschützt werden soll. Diese Voraussetzung ist nicht gegeben, wenn eine
+Person bei einem Verkehrsunfall zufolge eines verkehrsregelwidrigen
+Verhaltens eines anderen aus­schliesslich einen materiellen Schaden erlitten
+hat. Denn die Verkehrsregeln schüt­zen nebst dem allgemeinen Interesse der
+Verkehrssicherheit höchstens die körper­liche Integrität der Verkehrsteilnehmer,
+nicht aber deren Eigentum bzw. Vermögen. Darum stellt ein reiner Sachschaden
+als Folge einer Verkehrsregelverletzung nach Art. 90 Ziff. 1 SVG keine
+unmittelbare Verletzung in eigenen Rechten im Sinne von Art. 115 StPO
+dar, sondern nur eine mittelbare Folge des Verstosses gegen die
+Verkehrsregeln. Der Kollisionsbeteiligte, der bloss Sachschaden erlitten hat,
+ist da­her nach dieser Vorschrift nicht eine durch die
+Verkehrsregelverletzung geschädigte Person. Er kann sich demzufolge nicht als
+Privatkläger gemäss Art. 118 StPO am Strafverfahren beteiligen (BGE 138 IV
+258 E. 3.2 S. 266). Vor diesem Hintergrund aber ist eine
+Berufungslegitimation erst recht ausgeschlossen, wenn wie im vorlie­genden
+Fall der Beschuldigte A.______ sich mit seinem Rechtsmittel gegen den
+Freispruch des Mitbeschuldigten B.______ wendet. Denn im Verhältnis zwi­schen
+ihnen beiden ist kein strafbares Verhalten zu beurteilen, bei welchem A.______
+in seinen Rechten verletzt worden wäre. Ein Beschuldigter kann nicht zu­gleich
+als Privatkläger in Bezug auf einen Mitbeschuldigten auftreten (siehe dazu
+auch
+Schmid
+, a.a.O.,
+Art. 121 N 5a).
+5.2.—
+a)
+Aus alldem
+ergibt sich, dass auf die Berufung von A.______ nicht einzutreten ist, soweit
+sich diese gegen die Freisprechung von B.______ richtet.
+b)
+Bei diesem Ausgang ist A.______
+für den vorliegenden Beschluss kos­tenpflichtig und hat überdies dem
+Berufungsbeklagten B.______ antragsgemäss  eine angemessene
+Parteientschädigung zu bezahlen (Art. 428 Abs. 1 StPO).
+____________________
+Das
+Gericht beschliesst:
+1.
+Auf die Berufung von A.______
+gegen das Urteil der Strafgerichtskommis­sion des Kantonsgerichts Glarus
+vom 3. Juli 2013 wird nicht eingetreten, soweit er darin auch den
+Freispruch von B.______ anficht.
+2.
+Die Pauschalgerichtsgebühr für
+diesen Beschluss von Fr. 700.‑ wird A.______ auf­erlegt und von
+ihm bezogen.
+3.
+A.______ wird verpflichtet, B.______
+für das vorliegende Zwischenverfah­ren eine Parteientschädigung von
+Fr. 700.‑ zu bezahlen.
+4.
+Schriftliche Mitteilung an:
+[...]
