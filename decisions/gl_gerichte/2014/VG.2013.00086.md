@@ -1,0 +1,651 @@
+---
+decision_id: "gl_gerichte_VG.2013.00086"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2013.00086"
+docket_2: "VG.2014.7"
+decided: "2014-02-12"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=209&W10_KEY=218274&nTrefferzeile=2&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/830.1/art-007.md", "switzerland/bund/acts/830.1/art-016.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.20/art-004.md", "switzerland/bund/acts/831.20/art-028.md", "switzerland/bund/acts/831.20/art-028a.md", "switzerland/bund/acts/831.20/art-069.md", "switzerland/bund/acts/831.201/art-025.md"]
+---
+
+# GL Gerichte VG.2013.00086
+
+## Regeste
+
+Sozialversicherung - IV
+
+## Text
+
+Glarus Verwaltungsgericht 12.02.2014 VG.2013.00086 (VG.2014.7)
+Glaris Verwaltungsgericht 12.02.2014 VG.2013.00086 (VG.2014.7)
+Glarona Verwaltungsgericht 12.02.2014 VG.2013.00086 (VG.2014.7)
+
+Sozialversicherung - IV
+
+VERWALTUNGSGERICHT DES
+KANTONS GLARUS
+Urteil vom
+12. Februar 2014
+II. Kammer
+in Sachen
+VG.2013.00086
+A.______
+Beschwerdeführer
+vertreten durch Rechtsanwalt
+B.______
+gegen
+IV-Stelle Glarus
+Beschwerdegegnerin
+betreffend
+Invalidenrente
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Am 12. März 2012 meldete sich A.______ bei der
+IV-Stelle Glarus (IV-Stelle) zum Bezug von Leistungen der
+Invalidenversicherung an. Am 7. August 2012 teilte ihm die IV-Stelle
+mit, dass aufgrund der unklaren Leistungsfähigkeit keine beruflichen Massnahmen
+durchgeführt werden könnten.
+1.2
+Mit Vorbescheid vom 6. März 2013 verneinte die
+IV-Stelle bei einem errechneten Invaliditätsgrad von 36 % einen
+Rentenanspruch von A.______. Nach Prüfung der dagegen erhobenen Einwände vom
+22. April 2013 nahm die IV-Stelle am 16. August 2013 Stellung und
+verfügte am 21. August 2013 die Abweisung des Leistungsbegehrens.
+2.
+A.______ gelangte am 20. September
+2013 ans Verwaltungsgericht und beantragte sinngemäss die Aufhebung der
+Verfügung der IV-Stelle vom 21. August 2013 sowie die Zusprechung einer
+ganzen Invalidenrente mit Wirkung ab 22. März 2012. Eventualiter sei die
+Angelegenheit im Sinne der Erwägungen an die Vorinstanz zurückzuweisen; alles
+unter Kosten- und Entschädigungsfolgen zu Lasten der Beschwerdegegnerin.
+Die IV-Stelle beantragte
+am 28. Oktober 2013 die Abweisung der Beschwerde.
+II.
+1.
+Das Verwaltungsgericht ist gemäss Art. 69 Abs. 1 lit. a
+des Bundesgesetzes über die Invalidenversicherung vom 19. Juni 1959 (IVG) zur
+Behandlung der vorliegenden Beschwerde zuständig. Da auch die übrigen
+Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde einzutreten.
+2.
+Der Beschwerdeführer
+beantragt in seiner Beschwerde vorsorglich eine mündliche Verhandlung vor dem
+Verwaltungsgericht, anlässlich welcher die zur Befragung beantragten Zeugen
+einzuvernehmen sowie der Beschwerdeführer und allfällige weitere Dritte
+persönlich zu befragen seien.
+2.1
+Das Verfahren vor Verwaltungsgericht ist
+grundsätzlich schriftlich, wobei in der Regel ein einfacher Schriftenwechsel
+stattfindet. Das Verwaltungsgericht kann einen zweiten Schriftenwechsel
+durchführen und auf Antrag der Parteien oder von Amtes wegen eine mündliche
+Verhandlung anordnen (Art. 96 Abs. 3 des Gesetzes über die
+Verwaltungsrechtspflege vom 4. Mai 1986 [VRG]). Nach Art. 6 Ziff. 1 Satz
+1 der Konvention zum Schutze der Menschenrechte und Grundfreiheiten vom 4.
+November 1950 (EMRK) hat jedoch jede Person ein Recht darauf, dass über
+Streitigkeiten in Bezug auf ihre zivilrechtlichen Ansprüche und
+Verpflichtungen oder über eine gegen sie erhobene strafrechtliche Anklage von
+einem unabhängigen und unparteiischen, auf Gesetz beruhenden Gericht in einem
+fairen Verfahren, öffentlich und innerhalb angemessener Frist verhandelt
+wird. Art. 6 Ziff. 1 EMRK ist auf sozialversicherungsrechtliche
+Streitigkeiten anwendbar (BGE 122 V 47 E. 2a). Damit hat der Beschwerdeführer
+grundsätzlich Anspruch auf eine öffentliche Verhandlung.
+2.2
+Der Grundsatz der Öffentlichkeit bezieht sich
+sowohl auf die Parteiöffentlichkeit als auch auf die Publikums- und
+Presseöffentlichkeit. Er umfasst unter anderem den Anspruch des Einzelnen,
+seine Argumente dem Gericht mündlich in einer öffentlichen Sitzung vortragen
+zu können. Der Öffentlichkeitsgrundsatz beinhaltet hingegen keinen Anspruch
+darauf, dass bestimmte Beweismittel öffentlich und in Anwesenheit der Parteien
+abgenommen werden. Die Durchführung einer öffentlichen Verhandlung setzt
+daher im Sozialversicherungsprozess einen Parteiantrag voraus, aus dem klar
+und unmissverständlich hervorgehen muss, dass eine konventionskonforme Verhandlung
+mit Publikums- und Presseanwesenheit durchgeführt werden soll. Wird lediglich
+eine persönliche Anhörung oder Befragung, ein Parteiverhör, eine Zeugeneinvernahme
+oder die Durchführung eines Augenscheins verlangt, darf das Gericht daraus
+schliessen, dass es dem Antragsteller um die Abnahme bestimmter Beweismittel
+und nicht um die Durchführung einer Verhandlung mit Publikums- und Presseanwesenheit
+geht (BGer-Urteil 8C_138/2011 vom 21. Juni 2011 E. 2.3, mit Hinweisen).
+2.3
+Das Gesuch des Beschwerdeführers erschöpft sich in
+der beantragten Beweisabnahme, welche die EMRK nicht berührt, sondern durch
+das innerstaatliche Recht geregelt ist. Vorliegend ergibt sich der
+Sachverhalt hinsichtlich der bisherigen Arbeitstätigkeit des
+Beschwerdeführers rechtsgenüglich aus den Akten, weshalb auf dessen Befragung
+und die beantragte Einvernahme der Zeugen, welche zudem Angestellte des
+Beschwerdeführers sind, in antizipierter Beweiswürdigung zu verzichten ist.
+3.
+3.1
+Gemäss Art. 8 Abs. 1 des Bundesgesetzes über den
+Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober 2000
+(ATSG
+) ist
+Invalidität die voraussichtlich bleibende oder längere Zeit dauernde ganze
+oder teilweise Erwerbsunfähigkeit. Die Invalidität kann Folge von
+Geburtsgebrechen, Krankheit oder Unfall sein (Art. 4 Abs. 1 IVG).
+Erwerbsunfähigkeit ist der durch eine Beeinträchtigung der körperlichen, geistigen
+oder psychischen Gesundheit verursachte und nach zumutbarer Behandlung sowie
+Eingliederung verbleibende ganze oder teilweise Verlust der Erwerbsmöglichkeiten
+auf dem in Betracht kommenden ausgeglichenen Arbeitsmarkt (Art. 7 Abs. 1
+ATSG). Für die Beurteilung des Vorliegens einer Erwerbsunfähigkeit sind ausschliesslich
+die Folgen der gesundheitlichen Beeinträchtigung zu berücksichtigen. Eine
+Erwerbsunfähigkeit liegt zudem nur vor, wenn sie aus objektiver Sicht nicht
+überwindbar ist (Art. 7 Abs. 2 ATSG).
+3.2
+Nach
+Art. 28 Abs. 2
+IVG besteht bei einem Invaliditätsgrad von mindestens 40 % Anspruch auf
+eine Viertelsrente, bei einem solchen von mindestens 50 % auf eine halbe
+Rente, bei mindestens 60 % auf eine Dreiviertelsrente und ab mindestens
+70 % auf eine ganze Rente.
+4.
+4.1
+Zur Bemessung
+der Invalidität ist die Arbeitsfähigkeit bzw. die Leistungsfähigkeit im
+Aufgabenbereich medizinisch-theoretisch zu schätzen und hernach zu ermitteln,
+wie sich dieser medizinisch-theoretische Wert konkret auswirkt. Im Hinblick
+darauf holt die IV-Stelle die erforderlichen Unterlagen über den
+Gesundheitszustand sowie die Arbeits- und Eingliederungsfähigkeit des
+Versicherten ein (Art. 69 Abs. 2 der Verordnung über die
+Invalidenversicherung vom 17. Januar 1961 [IVV]).
+Es ist Aufgabe des Arztes,
+sämtliche Auswirkungen einer Krankheit oder eines Unfalls auf den Gesundheitszustand
+der versicherten Person zu beurteilen und dazu Stellung zu nehmen, bezüglich
+welcher konkreter Tätigkeiten und in welchem Umfang sie arbeitsunfähig ist.
+Die ärztlichen Auskünfte sind sodann eine wichtige Grundlage für die Beurteilung
+der Frage, welche Arbeitsleistungen der versicherten Person im Hinblick auf
+ihre persönlichen Verhältnisse noch zugemutet werden können (vgl. BGE 125 V 256
+E. 4).
+4.2
+Nach dem für das gesamte Verwaltungs- und
+Verwaltungsgerichtsbeschwerdeverfahren geltenden Grundsatz der freien
+Beweiswürdigung haben Versicherungsträger und Sozialversicherungsrichter die
+Beweise frei, d.h. ohne Bindung an förmliche Beweisregeln, sowie umfassend
+und pflichtgemäss zu würdigen. Für das Beschwerdeverfahren bedeutet dies,
+dass das Gericht alle Beweismittel, unabhängig davon, von wem sie stammen,
+objektiv zu prüfen und danach zu entscheiden hat, ob die verfügbaren Unterlagen
+eine zuverlässige Beurteilung des streitigen Rechtsanspruchs
+gestatten.
+Insbesondere darf es bei einander
+widersprechenden medizinischen Berichten den Prozess nicht erledigen, ohne
+das gesamte Beweismaterial zu würdigen und die Gründe anzugeben, warum es auf
+die eine und nicht auf die andere medizinische These abstellt (BGE 125 V 351
+E. 3a).
+4.3
+Hinsichtlich des Beweiswertes eines ärztlichen
+Gutachtens ist entscheidend, ob es für die Beantwortung der gestellten Fragen
+umfassend ist, auf allseitigen Untersuchungen beruht, die geklagten
+Beschwerden berücksichtigt und sich mit diesen sowie dem Verhalten der
+untersuchten Person auseinandersetzt, in Kenntnis der und gegebenenfalls in
+Auseinandersetzung mit den Vorakten (Anamnese) abgegeben worden ist, ob es in
+der Darlegung der medizinischen Zustände und Zusammenhänge einleuchtet, ob
+die Schlussfolgerungen des medizinischen Experten in einer Weise begründet
+sind, dass die rechtsanwendende Person sie prüfend nachvollziehen kann, sowie
+ob der Experte nicht auszuräumende Unsicherheiten und Unklarheiten, welche
+ihm die Beantwortung der Fragen erschweren, gegebenenfalls deutlich macht. Ausschlaggebend
+für den Beweiswert ist grundsätzlich somit weder die Herkunft eines
+Beweismittels noch die Bezeichnung der eingereichten oder in Auftrag
+gegebenen Stellungnahme als Bericht oder Gutachten,
+sondern dessen Inhalt
+(vgl. BGE 125 V 351 E. 3a)
+.
+4.4
+Dennoch hat es die Rechtsprechung mit dem
+Grundsatz der freien Beweiswürdigung als vereinbar erachtet, in Bezug auf bestimmte
+Formen medizinischer Berichte und Gutachten Richtlinien für die
+Beweiswürdigung aufzustellen. Den im Rahmen des Verwaltungsverfahrens
+eingeholten Gutachten von externen Spezialärzten, welche aufgrund eingehender
+Beobachtungen und Untersuchungen sowie nach Einsicht in die Akten Bericht
+erstatten und bei der Erörterung der Befunde zu schlüssigen Ergebnissen
+gelangen, ist bei der Beweiswürdigung volle Beweiskraft zuzuerkennen, solange
+nicht konkrete Indizien gegen die Zuverlässigkeit der Expertise sprechen
+(BGE 137 V 210 E. 1.3.4). Dagegen entspricht es einer
+allgemeinen Erfahrung, dass Hausärzte im Hinblick auf ihre auftragsrechtliche
+Vertrauensstellung in Zweifelsfällen eher zu Gunsten ihrer Patienten aussagen
+(Ulrich Meyer, Rechtsprechung des Bundesgerichts zum
+Sozialversicherungsrecht, Bundesgesetz über die Invalidenversicherung,
+2. A., Zürich/Basel/Genf 2010, S. 353).
+4.5
+Auch den Berichten und Gutachten
+versicherungsinterner Ärzte kommt schliesslich Beweiswert zu, sofern sie als
+schlüssig erscheinen, nachvollziehbar begründet sowie in sich
+widerspruchsfrei sind und keine Indizien gegen ihre Zuverlässigkeit bestehen.
+Die Tatsache allein, dass der befragte Arzt in einem Anstellungsverhältnis
+zum Versicherungsträger steht, lässt nicht schon auf mangelnde Objektivität
+und auf Befangenheit schliessen. Es bedarf vielmehr besonderer Umstände,
+welche das Misstrauen in die Unparteilichkeit der Beurteilung objektiv als
+begründet erscheinen lassen. Im Hinblick auf die erhebliche Bedeutung, welche
+den Arztberichten im Sozialversicherungsrecht zukommt, ist an die
+Unparteilichkeit des Gutachters allerdings ein strenger Massstab anzulegen
+(BGE 135 V 465 E. 4.4, 125 V 351 E. 3b/ee).
+4.6
+Für den Beweiswert eines Abklärungsberichts gelten
+analoge Voraussetzungen wie für denjenigen eines Arztberichts. Es ist
+wesentlich, dass der Bericht von einer qualifizierten Person verfasst wird,
+die Kenntnis der örtlichen und räumlichen Verhältnisse sowie der aus den
+medizinischen Diagnosen sich ergebenden Beeinträchtigungen und Behinderungen
+hat. Weiter sind die Angaben des Versicherten zu berücksichtigen, wobei
+divergierende Meinungen der Beteiligten im Bericht aufzuzeigen sind. Der
+Berichtstext muss plausibel, begründet und angemessen detailliert bezüglich
+der einzelnen Einschränkungen sein und in Übereinstimmung mit den an Ort und
+Stelle erhobenen Angaben stehen. Trifft all dies zu, ist der
+Abklärungsbericht voll beweiskräftig (BGer-Urteil I 13/05 vom 12. Mai 2005 E.
+2.3). Da die fachlich kompetente Abklärungsperson näher am konkreten
+Sachverhalt ist, weicht das Gericht von deren Feststellungen nur ab, wenn
+klar feststellbare Fehleinschätzungen vorliegen (BGer-Urteil 8C_756/2011 vom
+12. Juli 2012 E. 3.2).
+4.7
+Die Verwaltung als verfügende Instanz und –
+im Beschwerdefall – der Richter dürfen eine Tatsache nur dann als bewiesen
+annehmen, wenn sie von ihrem Bestehen überzeugt sind. Im
+Sozialversicherungsrecht hat der Richter dabei seinen Entscheid – sofern das
+Gesetz nicht etwas Abweichendes vorsieht – nach dem Beweisgrad der
+überwiegenden Wahrscheinlichkeit zu fällen. Die blosse Möglichkeit eines
+bestimmten Sachverhalts genügt den Beweisanforderungen nicht. Der Richter hat
+vielmehr jener Sachverhaltsdarstellung zu folgen, die er von allen möglichen
+Geschehensabläufen als die wahrscheinlichste würdigt (BGE 119 V 7
+E. 3c/aa, mit Hinweisen).
+5.
+5.1
+Dr. med.
+C.______,
+Oberarzt Radiologie
+, diagnostizierte beim
+Beschwerdeführer am 17. April 2012 ein chronifiziertes lumbovertebrales
+Schmerzsyndrom (LVS) bei Lumbalskoliose und muskulärer Dysbalance ohne
+radikuläre/spondylogene Ausstrahlungen. Auch sein Hausarzt, Dr. med. D.______,
+Allgemeine Innere Medizin FMH, diagnostizierte beim Beschwerdeführer am
+24. April 2012 ein chronifiziertes LVS bei muskulärer Dysbalance, einer
+Beinlängendifferenz links +1.5 cm und konsekutiver Rechtsskoliose sowie
+degenerative Lendenwirbelsäule (LWS)-Veränderungen mit Facettengelenksarthrosen
+lumbosakral sowie Diskusprotrusionen im gesamten LWS-Bereich. Er attestierte
+ihm in seiner angestammten Tätigkeit als Gipser eine Arbeitsunfähigkeit von
+100 % ab 29. August 2011, 80 % ab 19. September 2011 und
+50 % seit dem 26. November 2011, wobei die aktuelle
+Arbeitsfähigkeit von 50 % bei seiner Tätigkeit als Geschäftsführer
+administrative Arbeiten, Baustelleninspektionen und leichte Hilfestellungen
+auf der Baustelle beinhalte. In seiner Stellungnahme vom 16. November
+2012 zu den Rückfragen des RAD führte er zudem aus, dass dem Beschwerdeführer
+ab dem 30. Mai 2012 rein sitzende und wechselbelastete Tätigkeiten als auch
+im Gehen ausgeübte Tätigkeiten – sofern dabei nicht Gewichte über 10-15 kg zu
+tragen seien – grundsätzlich ganztags zumutbar seien. Als ungünstig würden
+sich rein stehende sowie belastete Tätigkeiten in gebückter, kauernder oder
+kniender Stellung erweisen.
+5.2
+Dr. med. E.______, Oberärztin
+Wirbelsäulenchirurgie des Wirbelsäulenzentrums der Klinik F.______,
+bestätigte in ihren Berichten vom 26. Juni 2012 und 10. Oktober
+2012 die von Dr. D.______ gestellte Diagnose sowie die attestierte
+Arbeitsunfähigkeit von 50 %. Weiter führte sie am 13. Februar 2013
+aus, dass beim Beschwerdeführer keine entzündlichen rheumatologischen
+Erkrankungen erkennbar und gemäss dessen Aussagen bei reduzierter Belastung
+die Schmerzen deutlich rückläufig seien. Sie empfehle weiterhin eine
+Reduzierung von schweren körperlichen Tätigkeiten, wobei ein Beruf mit
+partiellen Bürotätigkeiten hilfreich sein könnte. Eine Operationsindikation bestehe
+nicht. Die gleiche Diagnose stellte in seinem Bericht vom 26. August
+2013 auch Dr. med. G.______, Leitender Arzt Manuelle Medizin und
+Interventionelle Rheumatologie des Muskulo-Skelettal Zentrums der Klinik F.______.
+5.3
+Zusammenfassend kann festgehalten werden, dass
+der IV-Bericht von Dr. D.______ vom
+24. April
+2012 sowie seine ergänzende Stellungnahme zu den Rückfragen des RAD vom
+16. November 2012
+die durch die
+Rechtsprechung aufgestellten Anforderungen erfüllen (vgl. vorne E. 4.3) und
+somit darauf abgestellt werden kann. So berücksichtigt er die wesentlichen
+Vorakten und setzt sich umfassend mit diesen und der gesamten Vorgeschichte
+auseinander. Schliesslich sind auch die gemachten Schlussfolgerungen
+nachvollziehbar und genügend begründet und es
+ist darauf hinzuweisen,
+dass sich dessen Einschätzungen mit der Beurteilung der Spezialisten Dr. E.______
+und Dr. G.______ deckt. Auch
+Dr. med.
+H.______, Rheumatologie FMH vom RAD, kommt in seiner Stellungnahme vom
+13. Februar 2012 zum gleichen Ergebnis. Folglich ist dem
+Beschwerdeführer
+seit dem 26. November 2011 in seiner
+angestammten Tätigkeit als Gipser eine
+Arbeitsunfähigkeit von 100 %
+zu attestieren, wobei er seine
+Tätigkeit als Geschäftsführer zu 50 % (administrative Arbeiten, Baustelleninspektionen
+und leichte Hilfestellungen auf der Baustelle) weiterhin ohne Einschränkungen
+ausüben kann. Eine angepasste Tätigkeit (rückenadaptiert, leicht, selten am
+Tag max. mittelschwer, wechselbelastend, vorwiegend sitzend) wird ihm ab dem
+30. Mai 2012 zu 100 % zugemutet.
+6.
+6.1
+Die Beschwerdegegnerin führt aus, dass zur
+Bemessung der Invalidität des Beschwerdeführers aufgrund dessen selbständiger
+Erwerbstätigkeit praxis- und rechtsprechungsgemäss die ausserordentliche
+Methode angewandt worden sei. Die Schwierigkeit habe bei der Gewichtung des
+Invalideneinkommens einzig darin bestanden, die geschäftsführende Tätigkeit
+von 35 % betragsmässig zu erfassen. Weiter sei hervorzuheben, dass der
+Beschwerdeführer in einer leidensangepassten Tätigkeit zu 100 %
+arbeitsfähig sei und ihm trotz seines Gesundheitsschadens zugemutet werden
+könne, seine bisherige Tätigkeit der Invalidität anzupassen. Nötigenfalls
+seien bei der Arbeitsaufteilung unter den Familienmitgliedern Umstellungen
+vorzunehmen, damit seine verbleibende Arbeitskraft vollständig ausgenützt
+werden könne. Da ihm im Familienbetrieb zudem ein vergleichsweise weites
+Spektrum zumutbarer (Hilfs-)tätigkeiten offenstehe, könne bei einem
+56-Jährigen mit Blick auf eine Aktivitätsdauer von immerhin noch neun Jahren
+durchaus von einer verwertbaren Resterwerbstätigkeit gesprochen werden.
+6.2
+Der Beschwerdeführer rügt die von der IV-Stelle im
+Abklärungsbericht für Selbständigerwerbende vom 18. Januar 2013 vorgenommene
+prozentuale Aufteilung der Aufgabenbereiche und macht geltend, dass er bei
+der Leitung, Beaufsichtigung und Kontrolle der Baustellen jeweils wie die angestellten
+Arbeitnehmer handwerkliche Tätigkeiten ausgeführt habe, weshalb maximal von
+einer geschäftsführenden Tätigkeit im Umfang von 20 % ausgegangen werden
+könne. Da er den Aufgabenbereich Baustelle vollumfänglich nicht mehr
+ausführen könne, sei von einer Erwerbsunfähigkeit von mindestens 70 %
+auszugehen. Auch wenn die prozentuale Aufteilung der Aufgabenbereiche
+zutreffend würde, habe die Beschwerdegegnerin zu Unrecht anstelle des
+Betätigungsvergleichs die Einkommensvergleichsmethode angewandt. Ein Einkommensvergleich
+setze jedoch voraus, dass das zukünftige Erwerbseinkommen einigermassen
+verlässlich ermittelt werden könne, was bei einem Gipserunternehmen, welches
+relativ stark auf konjunkturelle Schwankungen reagiere, von Anfang an nicht
+möglich sei. Folglich lasse sich die zukünftige Lohnentwicklung nur mit
+Vorbehalt aus der Vergangenheit ableiten, weshalb vorsorglich eine
+gutachterliche Analyse der Löhne (unter Einschluss des Gewinnanteils) der
+beiden Geschäftsinhaber und des zukünftig zu erwartenden Lohns bzw.
+Betriebsgewinnes des gemeinsamen Gipserunternehmens beantragt werde. Zudem
+könne er seine Resterwerbstätigkeit in Bezug auf geschäftsführende
+Tätigkeiten bzw. leichte wechselbelastende Tätigkeiten in Anbetracht seines
+fortgeschrittenen Alters und der Schwere der gesundheitlichen Beschwerden
+weder an seinem angestammten Arbeitsplatz noch auf dem ausgeglichenen Arbeitsmarkt
+verwerten, weshalb ihm in Analogie zum Gesamtarbeitsvertrag für den flexiblen
+Altersrücktritt im Bauhauptgewerbe (GAV FAR) der maximale leidensbedingte
+Abzug von 25 % zu gewähren sei.
+7.
+Strittig und vorliegend zu
+prüfen ist die Berechnung des Invaliditätsgrads – insbesondere die ihm
+zugrundeliegende Bemessungsmethode und die prozentuale Aufteilung der
+Aufgabenbereiche –
+sowie die damit
+einhergehende Frage eines Rentenanspruchs.
+7.1
+Bei erwerbstätigen versicherten Personen ist die
+Bemessung der Invalidität aufgrund eines Einkommensvergleichs zu bestimmen
+(Art. 16 ATSG i.V.m. Art. 28a Abs. 1 IVG). Dazu wird das Erwerbseinkommen,
+das die versicherte Person nach Eintritt der Invalidität und nach
+Durchführung der medizinischen Behandlung und allfälliger
+Eingliederungsmassnahmen durch eine ihr zumutbare Tätigkeit bei ausgeglichener
+Arbeitsmarktlage erzielen könnte (sogenanntes Invalideneinkommen), in Beziehung
+gesetzt zum Erwerbseinkommen, das sie erzielen könnte, wenn sie nicht invalid
+geworden wäre (sogenanntes Valideneinkommen). Der Einkommensvergleich hat
+auch bei Selbständigerwerbenden in der Regel in der Weise zu erfolgen, dass
+die beiden hypothetischen Erwerbseinkommen ziffernmässig möglichst genau
+ermittelt und einander gegenübergestellt werden, worauf sich aus der
+Einkommensdifferenz der Invaliditätsgrad bestimmen lässt. Insoweit die
+fraglichen Erwerbseinkommen nicht zuverlässig ermittelt werden können, sind
+sie nach Massgabe der im Einzelfall bekannten Umstände zu schätzen und die so
+gewonnenen Annäherungswerte miteinander zu vergleichen.
+Lassen sich die beiden
+hypothetischen Erwerbseinkommen nicht zuverlässig ermitteln oder schätzen, so
+ist in Anlehnung an die spezifische Methode für Nichterwerbstätige nach
+Art. 16 ATSG i.V.m. Art. 28a Abs. 1 IVG ein Betätigungsvergleich
+anzustellen und der Invaliditätsgrad nach Massgabe der erwerblichen
+Auswirkungen der verminderten Leistungsfähigkeit in der konkreten
+erwerblichen Situation zu bestimmen (ausserordentliches Bemessungsverfahren,
+BGE 128 V 29 f. E. 1; AHI 1998 S. 120 f. E. 1a und S. 252 E. 2b je mit
+Hinweisen). Der grundsätzliche Unterschied des ausserordentlichen Bemessungsverfahrens
+zur spezifischen Methode (Art. 28a Abs. 2 IVG ) besteht darin, dass die
+Invalidität nicht unmittelbar nach Massgabe des Betätigungsvergleichs als
+solchen bemessen wird. Vielmehr ist zunächst anhand des Betätigungsvergleichs
+die leidensbedingte Behinderung festzustellen. Diese ist dann im Hinblick auf
+ihre erwerbliche Auswirkung besonders zu gewichten. Eine bestimmte Einschränkung
+im funktionellen Leistungsvermögen eines Erwerbstätigen kann zwar, muss aber
+nicht notwendigerweise eine Erwerbseinbusse gleichen Umfangs zur Folge zu
+haben. Wollte man bei Erwerbstätigen ausschliesslich auf das Ergebnis des
+Betätigungsvergleichs abstellen, so wäre der gesetzliche Grundsatz verletzt,
+wonach bei dieser Kategorie von Versicherten die Invalidität nach Massgabe
+der Erwerbsfähigkeit zu bestimmen ist.
+7.2
+Beim Gipsergeschäft des Beschwerdeführers handelt
+es sich um einen Familienbetrieb, bei welchem das Geschäftsergebnis –
+abgesehen
+von den familiären Faktoren – von einer Reihe nur schwer
+überblickbarer Komponenten, insbesondere auch
+solcher konjunktureller Natur, abhängt. Wie bereits ausgeführt wurde, ist die
+ausserordentliche Methode zur Bemessung der Invalidität nur anzuwenden, wenn
+die beiden hypothetischen Einkommen nicht zuverlässig ermittelt oder geschätzt
+werden können. Wie unten aufzuzeigen ist, hat sich der Beschwerdeführer in
+den letzten Jahren trotz konjunktureller Schwankungen und einem im Jahr 2009
+erwirtschafteten Betriebsverlust stets den gleichen Lohn ausbezahlt. Es ist
+deshalb davon auszugehen, dass dies ohne Eintritt des Gesundheitsschadens
+auch weiterhin der Fall gewesen wäre, weshalb sich auch das zukünftige
+Erwerbseinkommen ermitteln lässt. Die Anwendung der ausserordentliche Methode
+wird somit hinfällig.
+7.3
+Für die Bemessung der Invalidität
+Selbständigerwerbender, die zusammen mit Familienangehörigen ein Geschäft
+betreiben, genügt der blosse Einkommensvergleich nach Art. 28a Abs. 1 IVG
+i.V.m. Art. 16 ATSG nicht. Gemäss Art. 25 Abs. 2 IVV ist in diesen Fällen auf
+die Mitarbeit der invaliden Person im Betrieb vor und nach der Invalidisierung
+abzustellen. Dies bedingt eine Aufteilung des Gesamteinkommens nach Massgabe
+der Arbeitsleistung der versicherten Person und ihrer Familienangehörigen.
+Der auf die Mitarbeit der Familienangehörigen entfallene Teil des Einkommens
+scheidet für den Einkommensvergleich aus. Dabei ist allerdings die Funktion
+der betriebsleitenden Person angemessen zu berücksichtigen.
+8.
+8.1
+Zur Ermittlung des
+Validen- und
+Invalideneinkommens und letztlich des Invaliditätsgrads wurde am
+15. Januar 2013 durch die IV-Stelle der Sozialversicherungsanstalt des
+Kantons Zürich (SVA) eine Abklärung im Betrieb des Beschwerdeführers
+durchgeführt. In ihrem Abklärungsbericht führte die IV-Stelle aus, dass der Beschwerdeführer
+keine berufliche Ausbildung vorweisen könne und bisher stets als Gipser gearbeitet
+habe. Er sei in seinem eigenen Betrieb tätig und habe –
+wie aus den Geschäftsunterlagen zu entnehmen sei –
+immer ein überaus gutes Einkommen erzielt. Folglich sei davon auszugehen,
+dass auch in einer behinderungsangepassten Tätigkeit zu 100 % das
+bisherige Einkommen nicht annähernd erzielt werden könnte. Auch seien
+aufgrund des Alters des Versicherten berufliche Massnahmen in Form von Umschulungen
+wohl nicht mehr zu prüfen. Dem Beschwerdeführer sei jedoch gemäss
+Stellungnahme von Dr. H.______ vom 4. Juli 2012 eine
+angepasste Tätigkeit (rückenadaptiert, leicht, selten am Tag max.
+mittelschwer, wechselbelastend, vorwiegend sitzend) zu 100 % zumutbar
+und auch Abklärungen vor Ort hätten ergeben, dass der Beschwerdeführer zwar
+als eigentlicher Handwerker nicht mehr tätig sein könne, d.h. ihm die rein
+körperlichen Arbeiten wie Gipserarbeiten und Materialtransporte nicht mehr
+möglich seien, jedoch könne er die Funktionen als Geschäftsführer mit
+Leitung, Aufsicht und Kontrollen auf den Baustellen auch weiterhin ohne Einschränkungen
+wahrnehmen. Aus diesen Gründen und nach Vornahme eines Betätigungsvergleichs
+ergebe sich für den Bereich als reiner Handwerker (körperliche Arbeiten) ein
+Anteil von 65 % und für den Bereich Geschäftsführung ein solcher von
+35 %.
+8.2
+Der Beschwerdeführer bestreitet die von der
+IV-Stelle vorgenommene prozentuale Aufteilung der Aufgabenbereiche und führt
+im Abklärungsbericht aus, dass er vor Eintritt des Gesundheitsschadens
+hauptsächlich als Gipser gearbeitet und Materialtransporte durchgeführt habe.
+Auch die Leitung und Kontrolle auf den Baustellen habe er innegehabt. Zwei
+bis drei Tage habe er voll als Handwerker gearbeitet, danach habe er wieder
+einen Tag eingeschaltet, wo er nur in leitender und kontrollierender Funktion
+auf den verschiedenen Baustellen unterwegs gewesen sei. In seiner Anmeldung
+zur Früherfassung vom 9. Februar 2012 hat er hingegen als ausgeübte
+Tätigkeit "Geschäftsführer" angegeben.
+Infolge seiner
+gesundheitlichen Probleme könne er das Fahrzeug nun nicht mehr selber be- und
+entladen, jedoch sei ihm der eigentliche Transport (Lenken des Fahrzeugs)
+noch möglich. Auch die reinen Leiter- und Kontrollfunktionen auf den Baustellen
+könne er immer noch wahrnehmen. Seine reine Präsenzzeit betrage nach wir vor
+100 %, wobei er sich auch im Büro aufhalte. Von der ganzen
+Administration habe er jedoch keine Ahnung, weshalb er lediglich zum Kopieren
+von Unterlagen und solchen Hilfeleistungen zu gebrauchen sei.
+8.3
+Aufgrund der Aussagen des Beschwerdeführers kann
+davon ausgegangen werden, dass er vor Eintritt des Gesundheitsschadens zu
+29 % (Mittelwert von 33 % [ein Tag leitende Funktion, zwei Tage
+Handwerkstätigkeiten] und 25 % [ein Tag leitende Funktion, drei Tage
+Handwerkstätigkeiten]) im Aufgabenbereich "Geschäftsführer, Leiter,
+Aufsicht und Kontrollen auf Baustellen" und zu 71 % im
+Aufgabenbereich "Handwerkliche Tätigkeiten, Materialtransport"
+tätig war. Weiter gilt es festzuhalten, dass die im Rahmen der
+Invaliditätsbemessung zu berücksichtigende Mithilfe von Familienangehörigen
+weiter geht als die ohne Gesundheitsschädigung üblicherweise zu erwartende
+Unterstützung (BGer-Urteil 9C_696/2013 vom 12. Dezember 2013 E. 2.3.2;
+KSIH, Rz. 3073). In Anbetracht dessen, dass dem Beschwerdeführer aus medizinischer
+Sicht die Ausübung geschäftsführender Tätigkeiten ohne Einschränkung bzw.
+mindestens zu 50 % (vgl. E. II/5.3) möglich ist und er mit seinem Bruder
+einen Familienbetrieb leitet, erscheint es als zumutbar, dass er seine
+bisherige geschäftsführende Tätigkeit von 29 % der Invalidität anpasst
+und nötigenfalls bei der Arbeitsaufteilung unter den Familienmitgliedern
+Umstellungen vorgenommen werden. Den Ausführungen der IV-Stelle, der
+Beschwerdeführer könne zu 35 % geschäftsführende Tätigkeiten ausüben,
+kann durchaus gefolgt werden. Wie der Beschwerdeführer selber ausführt,
+wurden in der Arbeitsaufteilung zwischen den Brüdern bereits Umstellungen
+vorgenommen, weshalb sein Bruder wieder vermehrt auf den Baustellen anzutreffen
+sei und auf diese Weise sein Ausfall habe aufgefangen werden können. Es ist
+daher mit überwiegender Wahrscheinlichkeit davon auszugehen, dass der Beschwerdeführer
+trotz Gesundheitsschadens eine geschäftsführende Tätigkeit in der Höhe von 35 %
+ausüben kann.
+8.4
+Insgesamt erscheinen der Abklärungsbericht sowie die
+Feststellungen der IV-Stelle hinsichtlich der vorgenommenen Gewichtung der
+Tätigkeitsbereiche des Beschwerdeführers als schlüssig und es sind keine klar
+feststellbaren Fehleinschätzungen ersichtlich, welche ein Abweichen vom
+Abklärungsbericht erfordern würde. Daran mag auch der Einwand des
+Beschwerdeführers, er habe höchstens zu 20 % geschäftsführende
+Tätigkeiten erbracht, nichts zu ändern, da dieser nicht substanziiert
+dargetan wird. Inwiefern die vom Beschwerdeführer eingereichten schriftlichen
+Bestätigungen von betriebsinternen und betriebsfremden Personen zudem
+seine
+eigenen Äusserungen hinsichtlich seines Arbeitsablaufs zu entkräften vermögen
+sollen
+, ist nicht ersichtlich.
+9.
+Da der Abklärungsbericht
+vom 18. Januar 2013 die durch die Rechtsprechung aufgestellten
+Anforderungen erfüllt (vgl. vorne E. II/4.6), kann darauf abgestellt
+werden. So berücksichtigt er die wesentlichen Akten und setzt sich umfassend
+mit diesen und der gesamten Vorgeschichte auseinander. Schliesslich sind auch
+die gemachten Schlussfolgerungen genügend begründet und nachvollziehbar,
+wobei die Berechnung des Invalideneinkommens einer Korrektur bedarf (vgl.
+dazu E. II/11). Da die Einschränkung des Beschwerdeführers
+ausschliesslich auf dessen physischen Problemen beruht und auch die
+medizinischen Gutachten in die Beurteilung einbezogen wurden, konnte die
+Sachlage umfassend abgeklärt werden. Die vom Beschwerdeführer beantragte neutrale
+medizinische Begutachtung und Abklärung für Selbständigerwerbende durch das
+Gericht sowie die vorsorglich beantragte gutachterliche Analyse der Löhne der
+beiden Geschäftsinhaber und des zukünftigen zu erwartenden Lohnes bzw.
+Betriebsgewinnes des gemeinsamen Gipserunternehmens erweisen sich als nicht
+notwendig, da die vorliegenden Akten als schlüssig erachtet werden sowie weitere
+Beweisvorkehren an der Würdigung der bereits abgenommenen Beweise nichts mehr
+zu ändern vermögen würden. Auf eine weitere Expertise ist folglich im Sinne einer
+antizipierten Beweiswürdigung zu verzichten (vgl. BGE 124 I 208 E.
+4a).
+10.
+Für die Berechnung des
+Valideneinkommens ist grundsätzlich das vor Eintritt des Gesundheitsschadens
+erzielte Einkommen massgebend, wobei dieses der Real- und Nominallohnentwicklung
+anzupassen ist. Aus den vorliegenden Akten ergibt sich, dass sich die
+IV-Stelle auf einen Auszug aus dem individuellen Konto des Beschwerdeführers
+stützt, gemäss welchem er sich in den letzten Jahren – trotz unterschiedlicher
+Betriebsgewinne und eines Betriebsverlusts im Jahr 2009 – stets den gleichen
+Lohn von Fr. 143'000.- pro Jahr ausbezahlt hat. Es kann deshalb davon
+ausgegangen werden, dass dies ohne Eintritt des Gesundheitsschadens auch
+weiterhin der Fall gewesen wäre. Gemäss den vorliegenden Geschäftsabschlüssen
+betrug der durchschnittliche Betriebsgewinn in den Jahren 2008 – 2010
+ca. Fr. 9'797.- pro Jahr, wovon dem Versicherten ein Anteil von
+50 % (Fr. 4'898.50) zusteht. Damit ist der Beschwerdegegnerin
+beizupflichten, wenn sie das Valideneinkommen anhand des durchschnittlichen Geschäftsgangs
+berechnet und auf Fr. 147'898.50 pro Jahr festgesetzt hat.
+11.
+11.1
+Im Abklärungsbericht wurde zur Feststellung des
+Invalideneinkommens die dem Beschwerdeführer noch zumutbare geschäftsführende
+Tätigkeit von 35 % erwerblich gewichtet, indem basierend auf der
+Schweizerischen Lohnstrukturerhebung 2010 des Bundesamtes für Statistik (LSE
+2010), Tabelle TA1, Pos. 41-43, Niveau 1+2, Männer, und unter
+Berücksichtigung der Nominallohnentwicklung und einer betriebsüblichen
+Arbeitszeit von 41,6 Stunden pro Woche der durchschnittliche Jahreslohn eines
+zu 65 % angestellten Handwerkers berechnet und dieser Betrag vom
+errechneten Valideneinkommen abgezogen wurde.
+11.2
+Es ist offensichtlich, dass das Valideneinkommen
+deutlich über den Tabellenlöhnen gemäss LSE liegt. Die Beschwerdegegnerin
+geht nun davon aus, dass die handwerklichen Arbeiten als Gipser entsprechend
+den Tabellenlöhnen entschädigt worden sind, nicht hingegen die
+geschäftsführenden Tätigkeiten. Folgt man dieser Betrachtungsweise, ergibt
+sich folgendes Bild: Ausgehend von einer Tätigkeit von 71 % als Gipser
+und 29 % als Geschäftsführer (vgl. E. II/8.3) erzielte der
+Beschwerdeführer gemäss LSE 2010, Tabelle TA1, Pos. 41-43, Niveau 1+2,
+Männer, und unter Berücksichtigung der Nominallohnentwicklung (2011: 101.0;
+2012: 101,7; Basis 2010=100) und einer betriebsüblichen Arbeitszeit von 41,6
+Stunden pro Woche einen durchschnittlichen Jahreslohn von Fr. 58'574.30
+(71 % von 12*6'500.00*41,6/40*1,017) als Gipser. Damit wäre die
+Geschäftsführungstätigkeit von 29 % mit Fr. 89'324.20
+(Fr. 147'898.50 - Fr. 58'574.30) entlöhnt worden, was einem Lohn
+von Fr. 308'014.50 bei einem vollen Arbeitspensum entspricht. Es ist offensichtlich,
+dass die Vorgehensweise der Beschwerdegegnerin nicht zu einem sachgerechten Ergebnis
+führt.
+11.3
+Will die Beschwerdegegnerin auf das am bisherigen
+Arbeitsplatz des Beschwerdeführers noch erzielbare Einkommen und nicht auf
+das Invalideneinkommen in einer angepassten Tätigkeit, welche dem
+Beschwerdeführer grundsätzlich zu 100 % zumutbar wäre, abstellen, hat
+sie wie folgt vorzugehen: Festzuhalten ist zunächst, dass sowohl für die
+geschäftsführende Tätigkeit als auch für die Tätigkeit als Gipser ein deutlich
+über den Tabellenlöhnen liegender Lohn ausbezahlt wurde. Dabei erscheint es
+als gerechtfertigt, davon auszugehen, dass beide Tätigkeiten im gleichen
+Verhältnis über dem jeweiligen Tabellenlohn entschädigt wurden, da der
+Geschäftsführertätigkeit zwar eine besondere Bedeutung zukommt, die Tätigkeit
+als Gipser aber den weitaus grösseren Teil der Arbeitszeit in Anspruch nahm.
+Geht man davon aus, dass
+beide Tätigkeiten in demselben Verhältnis überdurchschnittlich entlöhnt
+wurden, kann ausgehend von den Tabellenlöhnen ermittelt werden, wie sich das
+Valideneinkommen von Fr. 147'898.50 zusammensetzt. Die Entschädigung von
+29 % für die Tätigkeit als Geschäftsführer ist dabei nach dem Gesagten
+auf 35 % zu erhöhen. Hernach kann der Invaliditätsgrad ermittelt werden.
+Da der Beschwerdeführer weiterhin ein Einkommen aus seiner geschäftsführenden
+Tätigkeit erzielen kann, stellt sich entgegen seiner Auffassung die Frage
+eines Abzugs vom Tabellenlohn nicht.
+12.
+Zusammenfassend ergibt sich, dass
+bei einer
+korrekten Berechnung des Invalideneinkommens ein Invaliditätsgrad von über
+40 % resultieren wird, weshalb die Sache im Sinne der Erwägungen an die
+Beschwerdegegnerin zur Neubeurteilung und zur Festsetzung der Invalidenrente
+zurückzuweisen ist.
+III.
+1.
+Die pauschale
+Gerichtsgebühr von Fr. 600.- ist ausgangsgemäss der Beschwerdegegnerin
+aufzuerlegen (Art. 69 Abs. 1bis IVG i.V.m. Art. 134 Abs. 1 lit. c des Gesetzes
+über die Verwaltungsrechtspflege vom 4. Mai 1986 [VRG]). Dem
+Beschwerdeführer ist der bereits geleistete Kostenvorschuss
+in der
+Höhe von
+Fr. 600.- zurückzuerstatten.
+2.
+Die Beschwerdegegnerin ist zu verpflichten, dem
+obsiegenden Beschwerdeführer eine Parteientschädigung in der Höhe von
+Fr. 2'000.- (Mehrwertsteuer inklusive) zu bezahlen (Art. 61 lit. g
+ATSG).
+Demgemäss erkennt
+die Kammer:
+1.
+Die
+Beschwerde wird gutgeheissen. Die Verfügung der Beschwerdegegnerin vom
+21. August 2013 wird aufgehoben und die Sache im Sinne der Erwägungen
+an die Beschwerdegegnerin zurückgewiesen.
+2.
+Der
+Beschwerdegegnerin wird eine Gerichtsgebühr von pauschal Fr. 600.-
+auferlegt. Dem Beschwerdeführer wird der von ihm geleistete Kostenvorschuss
+in der Höhe von Fr. 600.- zurückerstattet.
+3.
+Die
+Beschwerdegegnerin wird verpflichtet, dem Beschwerdeführer innert 30 Tagen
+nach Rechtskraft dieses Entscheids eine Parteientschädigung von
+Fr. 2'000.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
