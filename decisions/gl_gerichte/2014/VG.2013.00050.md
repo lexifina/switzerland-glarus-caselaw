@@ -1,0 +1,712 @@
+---
+decision_id: "gl_gerichte_VG.2013.00050"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2013.00050"
+docket_2: "VG.2014.74"
+decided: "2014-03-12"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=277&W10_KEY=218274&nTrefferzeile=3&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-004.md", "switzerland/bund/acts/830.1/art-006.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/832.20/art-001.md", "switzerland/bund/acts/832.20/art-006.md", "switzerland/bund/acts/832.20/art-010.md", "switzerland/bund/acts/832.20/art-016.md", "switzerland/bund/acts/832.20/art-019.md"]
+---
+
+# GL Gerichte VG.2013.00050
+
+## Regeste
+
+Sozialversicherung - Unfallversicherung
+
+## Text
+
+Glarus Verwaltungsgericht 12.03.2014 VG.2013.00050 (VG.2014.74)
+Glaris Verwaltungsgericht 12.03.2014 VG.2013.00050 (VG.2014.74)
+Glarona Verwaltungsgericht 12.03.2014 VG.2013.00050 (VG.2014.74)
+
+Sozialversicherung - Unfallversicherung
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+12. März 2014
+II. Kammer
+in Sachen
+VG.2013.00050
+A.______
+Beschwerdeführerin
+vertreten durch Rechtsanwältin B.______
+gegen
+Schweizerische
+Unfallversicherungsanstalt (Suva)
+Beschwerdegegnerin
+betreffend
+UVG-Leistungen
+Die Kammer zieht in Erwägung:
+I
+.
+1.
+1.1
+Der Suva wurde mittels Schadenmeldung vom
+16. Februar 2012 durch die C.______AG angezeigt, dass deren am […]
+geborene Mitarbeiterin A.______ am 15. Februar 2012 mit ihrem
+Personenwagen nach einem Ausweichmanöver und einer Streifkollision in einen
+sich am Strassenrand befindenden Stein geprallt war und diesen überfahren
+hatte. Auf die anfängliche Diagnose eines Schleudertraumas folgten diverse
+ärztliche Untersuchungen.
+1.2
+Die Suva richtete A.______ ab 18. Februar 2012
+ein Taggeld von Fr. 108.10 aus. Mit Verfügung vom 20. Februar 2013
+teilte die Suva A.______ mit,
+dass ihre Abklärungen keinen
+weiteren Anspruch auf Versicherungsleistungen ergeben hätten. Als Begründung
+führte sie an, dass die aktuell geklagten Beschwerden organisch nicht
+hinreichend nachweisbar seien und ein adäquater Kausalzusammenhang mit dem
+Unfall zu verneinen sei. Mangels Vorliegens adäquater Unfallfolgen würden die
+Versicherungsleistungen per 28. Februar 2013 eingestellt und es bestehe
+kein Anspruch auf weitere Geldleistungen der Suva in Form einer Invalidenrente
+und/oder einer Integritätsentschädigung.
+Die von
+A.______
+am 25. März 2013 hierauf erhobene Einsprache wies die Suva am
+12. April 2013 ab.
+2.
+2.1
+Dagegen
+gelangte
+A.______ am 21. Mai 2013
+ans Verwaltungsgericht und beantragte die Aufhebung des Einspracheentscheids
+vom 12. April 2013, die Zusprechung einer Invalidenrente von
+mindestens 50 % und/oder einer Integritätsentschädigung von mindestens
+10-50 %, die Gewährung eines Leidens- und Teilzeitabzugs von 25 %
+sowie die Weitergewährung von Taggeld- und Heilkostenleistungen. Weiter sei
+festzustellen, dass ihre Beschwerden unfallkausal und/oder allfällige
+unfallfremde Leiden durch die Unfallfolgen verschlimmert worden seien und es
+sei ein externes Gutachten einzuholen. Eventualiter sei die Angelegenheit zur
+Begründung und Neubeurteilung an die Suva zurückzuweisen; alles unter Kosten-
+und Entschädigungsfolgen zu Lasten der Suva.
+Die Suva schloss am
+21. Juni 2013 auf Abweisung der Beschwerde.
+2.2
+Mit Replik vom 27. August 2013 ersuchte
+A.______ um antragsgemässe Entscheidung durch das Verwaltungsgericht; die
+Suva hielt mit Duplik vom 28. Oktober 2013 an ihrem Antrag auf
+Abweisung der Beschwerde fest.
+2.3
+Am 7. und am 21. November 2013
+reichte A.______ dem Verwaltungsgericht je eine Stellungnahme ein, wobei
+letzterer eine technische Unfallanalyse der D.______ beigefügt war. Die Suva
+nahm dazu am 22. November 2013 Stellung.
+II
+.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 1 Abs. 1 des Bundesgesetzes über die Unfallversicherung
+vom 20. März 1981 (UVG) i.V.m. Art. 56 Abs. 1 und
+Art. 58 Abs. 1 des Bundesgesetzes über den Allgemeinen Teil
+des Sozialversicherungsrechts vom 6. Oktober 2000 (ATSG) sowie
+Art. 1 des kantonalen Einführungsgesetzes zum Bundesgesetz über die Unfallversicherung
+vom 3. Mai 2009 (EG UVG) zur Behandlung der vorliegenden Beschwerde
+zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt sind, ist auf
+die Beschwerde einzutreten.
+2.
+2.1
+Soweit das UVG nichts anderes bestimmt, werden die
+Versicherungsleistungen bei Berufsunfällen, Nichtberufsunfällen und Berufskrankheiten
+gewährt (Art. 6 Abs. 1 UVG). Als Unfall gilt nach
+Art. 4 ATSG die plötzliche, nicht beabsichtigte schädigende
+Einwirkung eines ungewöhnlichen äusseren Faktors auf den menschlichen Körper,
+die eine Beeinträchtigung der körperlichen, geistigen oder psychischen Gesundheit
+oder den Tod zur Folge hat.
+Nach
+Art. 10 Abs. 1 UVG hat die versicherte Person Anspruch auf die
+zweckmässige Behandlung der Unfallfolgen. Ist die versicherte Person infolge
+des Unfalls voll oder teilweise arbeitsunfähig (Art. 6 ATSG), so hat sie
+gemäss Art. 16 Abs. 1 UVG Anspruch auf ein Taggeld. Wenn von der
+Fortsetzung der ärztlichen Behandlung keine namhafte Besserung des
+Gesundheitszustands mehr erwartet werden kann und allfällige
+Eingliederungsmassnahmen der Invalidenversicherung abgeschlossen sind,
+besteht bei einem Invaliditätsgrad von mindestens 10 % Anspruch auf eine
+Invalidenrente (Art. 18 Abs. 1 i.V.m. Art. 19 Abs. 1
+UVG). Mit dem Rentenbeginn fallen die Heilbehandlung und die Taggelder dahin
+(Art. 19 Abs. 1 UVG).
+Dasselbe geschieht auch, wenn zwar die
+Voraussetzungen für eine Invalidenrente gemäss UVG nicht erfüllt sind, jedoch
+von der
+Fortsetzung der ärztlichen Behandlung keine namhafte
+Besserung des Gesundheitszustandes des Versicherten mehr erwartet werden kann
+(vgl. BGE 133 V 57 E. 6.6.2).
+2.2
+Die Leistungspflicht des Unfallversicherers
+setzt zunächst voraus, dass zwischen dem (versicherten) Unfallereignis und
+dem eingetretenen Schaden (Ge­sundheitsschädigung, Invalidität, Tod) ein
+natürlicher Kausalzusammenhang besteht. Ursachen im Sinne des natürlichen
+Kausalzusammenhangs sind alle Umstände, ohne deren Vorhandensein der eingetretene
+Erfolg nicht als eingetreten oder nicht als in der gleichen Weise bzw. nicht
+zur gleichen Zeit eingetreten gedacht werden kann. Entsprechend dieser
+Umschreibung ist für die Bejahung des natürlichen Kausalzusammenhangs nicht
+erforderlich, dass ein Unfall die alleinige oder unmittelbare Ursache
+gesundheitlicher Störungen ist; es genügt, dass das schädigende Ereignis
+zusammen mit anderen Bedingungen die körperliche oder geistige Integrität des
+Versicherten beeinträchtigt hat, der Unfall mit anderen Worten nicht weggedacht
+werden kann, ohne dass auch die eingetretene gesundheitliche Störung entfiele
+(BGE 117 V 359 E. 4a). Ob zwischen einem schädigenden Ereignis und einer
+gesundheitlichen Störung ein natürlicher Kausalzusammenhang besteht, ist eine
+Tatfrage, worüber die Verwaltung bzw. im Beschwerdefall der Richter im Rahmen
+der ihm obliegenden Beweiswürdigung nach dem im Sozialversicherungsrecht
+üblichen Beweisgrad der überwiegenden Wahrscheinlichkeit zu befinden hat. Die
+blosse Möglichkeit eines Zusammenhangs genügt für die Begründung eines
+Leistungsanspruches nicht (BGE 129 V 177 E. 3.1).
+Für die Bejahung einer
+Leistungspflicht der Unfallversicherung ist es unerlässlich, dass die
+geklagten Beschwerden nicht lediglich den von der versicherten Person
+subjektiv umschriebenen Leiden entsprechen, sondern medizinisch einer fassbaren
+gesundheitlichen Beeinträchtigung zugeschrieben werden können und diese Gesundheitsschädigung
+mit überwiegender Wahrscheinlichkeit in einem ursächlichen Zusammenhang mit
+dem versicherten Unfallereignis steht (BGE 119 V 335 E. 2b f.).
+Deshalb ist eine Würdigung der in den Akten liegenden medizinischen Berichte
+entscheidend, wobei
+der Richter bei der Beurteilung
+des natürlichen Kausalzusammenhanges nicht ohne zwingenden Grund von der
+Einschätzung der medizinischen Experten abweicht (BGE 118 V 286
+E. 1b)
+.
+Ein
+Unfall mit Schleudertrauma kann in der charakteristischen Erscheinungsform
+einer Häufung von typischen Beschwerden eine Arbeits- bzw. Erwerbsunfähigkeit
+verursachen, auch wenn die festgestellten Funktionsausfälle organisch nicht
+nachweisbar sind (vgl. BGE 117 V 359 E. 5d/aa). Liegen diffuse
+Kopfschmerzen, Schwindel, Konzentrations- und Gedächtnisstörungen, Übelkeit,
+rasche Ermüdbarkeit, Visusstörungen, Reizbarkeit, Affektlabilität,
+Depression, Wesensveränderungen etc. vor und sind diese Beschwerden innert maximal
+72 Stunden seit dem Versicherungsereignis aufgetreten, so gilt der
+natürliche Kausalzusammenhang als erstellt (vgl. dazu
+BGE 117 V
+359 E. 4b; Ueli
+Kieser, ATSG-Kommentar,
+2. A., Zürich 2009, Art. 4 N. 59, mit weiteren Hinweisen).
+2.3
+Die
+Leistungspflicht der Unfallversicherung setzt im Weiteren voraus, dass zwischen
+dem Unfall und der dadurch verursachten Arbeits- bzw. Erwerbsunfähigkeit ein
+adäquater Kausalzusammenhang besteht. Nach der Rechtsprechung hat ein
+Ereignis dann als adäquate Ursache eines Erfolges zu gelten, wenn es nach dem
+gewöhnlichen Lauf der Dinge und nach der allgemeinen Lebenserfahrung an sich
+geeignet ist, einen Erfolg von der Art des eingetretenen herbeizuführen, der
+Eintritt dieses Erfolges also durch das Ereignis allgemein als begünstigt
+erscheint (BGE 117 V 359 E. 5a).
+Die Adäquanz als
+rechtliche Eingrenzung der sich aus dem natürlichen Kausalzusammenhang
+ergebende Haftung des Unfallversicherers spielt im Bereich organisch objektiv
+ausgewiesener Unfallfolgen praktisch keine Rolle, da sich hier die adäquate
+weitgehend mit der natürlichen Kausalität deckt (Alexandra Rumo-Jungo,
+Rechtsprechung
+des Bundesgerichts zum Sozialversicherungsrecht,
+Bundesgesetz über die Unfallversicherung, 4. A., Zürich/Basel/Genf 2012,
+S. 58 f.).
+Bei organisch nicht (hinreichend)
+nachweisbaren Unfallfolgeschäden kommt dem adäquaten Kausalzusammenhang
+hinsichtlich einer allfälligen Leistungspflicht der Unfallversicherung
+wesentliche Bedeutung zu. Gemäss Rechtsprechung dient die adäquate Kausalität
+(bei organisch nicht objektiv ausgewiesenen Beschwerden) der rechtlichen
+Eingrenzung der sich aus dem natürlichen Kausalzusammenhang ergebenden
+Haftung der Unfallversicherung (BGE 134 V 109 E. 2.1). Dabei hat die Beantwortung
+der Frage nach der Adäquanz von Unfallfolgen als Rechtsfrage – im Gegensatz
+zur Frage nach dem natürlichen Kausalzusammenhang – nicht nach dem Beweisgrad
+der überwiegenden Wahrscheinlichkeit zu erfolgen (BGE 112 V 30 E. 1b).
+3.
+3.1
+Es ist Aufgabe des Arztes, sämtliche Auswirkungen
+einer Krankheit oder eines Unfalls auf den Gesundheitszustand der
+versicherten Person zu beurteilen und gege­benenfalls dazu Stellung zu
+nehmen, bezüglich welchen konkreten Tätigkeiten und in welchem Umfang sie
+arbeitsunfähig bzw. in ihrer körperlichen und geistigen Integrität
+beeinträchtigt ist. Nach dem für das gesamte Verwaltungs- und Verwaltungsgerichtsbeschwerdeverfahren
+geltenden Grundsatz der freien Beweiswürdigung haben Versicherungsträger und
+Sozialversicherungsrichter die Beweise frei, d.h. ohne Bindung an förmliche
+Beweisregeln, sowie umfassend und pflichtgemäss zu würdigen. Für das Beschwerdeverfahren
+bedeutet dies, dass der Richter alle Beweismittel, unabhängig davon, von wem
+sie stammen, objektiv zu prüfen und danach zu entscheiden hat, ob die
+verfügbaren Unterlagen eine zuverlässige Beurteilung des streitigen Rechtsanspruchs
+gestatten.
+3.2
+Hinsichtlich des Beweiswerts eines Arztberichts ist
+entscheidend, ob der Bericht für die streitigen Belange umfassend ist, auf
+allseitigen Untersuchungen beruht, die geklagten Beschwerden berücksichtigt,
+in Kenntnis der Vorakten (Anamnese) abgegeben worden ist, in der Beurteilung
+der medizinischen Zusammenhänge und Situation des Patienten einleuchtet und
+ob die Schlussfolgerungen begründet sind. Ausschlaggebend für den Beweiswert
+ist grundsätzlich somit weder die Herkunft eines Beweismittels noch die Bezeichnung
+der eingereichten oder in Auftrag gegebenen Stellungnahme als Bericht oder
+Gutachten (BGE 125 V 351 E. 3a).
+3.3
+Dennoch hat es die Rechtsprechung mit dem Grundsatz
+der freien Beweiswürdigung als vereinbar erachtet, in Bezug auf bestimmte Formen
+medizinischer Berichte und Gutachten Richtlinien für die Beweiswürdigung
+aufzustellen. Den im Rahmen des Verwaltungsverfahrens eingeholten Gutachten
+von externen Spezialärzten, welche aufgrund eingehender Beobachtungen und
+Untersuchungen sowie nach Einsicht in die Akten Bericht erstatten und bei der
+Erörterung der Befunde zu schlüssigen Ergebnissen gelangen, ist bei der
+Beweiswürdigung volle Beweiskraft zuzuerkennen, solange nicht konkrete
+Indizien gegen die Zuverlässigkeit der Expertise sprechen (BGE 137 V 210
+E. 1.3.4). Demgegenüber entspricht es einer allgemeinen Erfahrung,
+dass
+Hausärzte im Hinblick auf ihre auftragsrechtliche
+Vertrauensstellung in Zweifelsfällen eher zu Gunsten ihrer Patienten aussagen
+(Ulrich Meyer, Rechtsprechung des Bundesgerichts zum
+Sozialversicherungsrecht, Bundesgesetz über die Invaliden­versicherung,
+2. A., Zürich/Basel/Genf 2010, S. 353). Auch Parteigutachten
+besitzen nicht den gleichen Beweiswert wie ein vom Gericht oder von einer
+Unfallversicherung nach dem vorgegebenen Verfahrensrecht eingeholtes
+Gutachten (BGE 125 V 351 E. 3b-c).
+3.4
+Weil die Suva in beweisrechtlicher Hinsicht ein zur Objektivität
+verpflichtetes gesetzesvollziehendes Organ ist, kann auch den Berichten und
+Gutachten versicherungsinterner Ärzte Beweiswert beigemessen werden, sofern
+sie als schlüssig erscheinen, nachvollziehbar begründet sowie in sich
+widerspruchsfrei sind und keine Indizien gegen ihre Zuverlässigkeit bestehen.
+Die Tatsache allein, dass der befragte Kreisarzt in einem Anstellungsverhältnis
+zum Versicherungsträger steht, lässt jedenfalls nicht schon auf mangelnde
+Objektivität und auf Befangenheit schliessen.
+Bestehen aber auch nur geringe Zweifel an der Zuverlässigkeit und
+Schlüssigkeit der versicherungsinternen ärztlichen Feststellungen, so sind
+ergänzende Abklärungen vorzunehmen
+(vgl. BGE 135 V 465 E. 4.4, 125 V 351 E. 3b/ee, 122 V
+157 E. 1c).
+4.
+4.1
+Strittig ist vorliegend, ob die Beschwerdegegnerin mit Verfügung vom
+20. Februar 2013 bzw. Einspracheentscheid vom 12. April 2013 die
+Leistungen aus obligatorischer Unfallversicherung zu Recht einstellte. Die
+Beschwerdegegnerin anerkennt, dass die typischen Schleudertrauma-Beschwerden
+vom Unfall her stammen. Sie bestreitet jedoch, dass diese eine am Körper
+nachweisbare Ursache haben. So ist zunächst zu prüfen, ob bei der Beschwerdeführerin
+im Zeitpunkt des Einspracheentscheids noch gesundheitliche Beeinträchtigungen
+vorlagen, die sich negativ auf ihre erwerbliche Leistungsfähigkeit auswirken
+und inwieweit diese auf das Unfallereignis vom 15. Februar 2012 zurückgeführt
+werden können.
+4.2
+Aktenkundig ist, dass die Beschwerdeführerin noch am Unfalltag durch
+Dr. med. E.______, FMH Allgemeinmedizin, erstbehandelt wurde. Dem
+von Dr. E.______ ausgefüllten Dokumentationsbogen für Erstkonsultation nach
+kranio-zervikalen Beschleunigungstrauma vom 15. Februar 2012 ist zu
+entnehmen, dass die angegurtete Beschwerdeführerin beim Unfall den Kopf an
+der Kopfstütze anprallte und sie sich anschliessend über Kopf- und
+Nackenschmerzen sowie über Übelkeit beklagte. Die Beschwerdeführerin gab an,
+dass sie bereits vor dem Unfall Kopfschmerzen als behandlungsbedürftige Beschwerden
+hatte. Dr. E.______ gelangte in Anlehnung an die Quebec Task Force
+(QTF)-Klassifikation zu folgender Diagnose: Grad II, Nackenbeschwerden
+und neurologische Befunde (verminderte Beweglichkeit und punktuelle
+Druckschmerzhaftigkeit miteingeschlossen). Nachbehandelt wurde die
+Beschwerdeführerin durch ihren Hausarzt Dr. med. F.______, FMH
+Allgemeinmedizin, welcher ihr eine physiotherapeutische Behandlung verordnete.
+Am 24. Februar 2012 führte die
+Beschwerdeführerin anlässlich eines Standortgesprächs gegenüber der
+Beschwerdegegnerin aus, sie leide an einer Nackenstarre und habe Rücken- und
+Kopfschmerzen sowie Schmerzen im Bereich der Brustwirbelsäule. Weiter gab sie
+an, dass sie vor dem Unfall an psychischen Beschwerden gelitten habe.
+Das ambulante Assessment in der Rehaklinik
+G.______ ergab gemäss dem Bericht von Dr. med. H.______,
+Spitalfacharzt Arbeitsorientierte Rehabilitation, und Dr. med. I.______,
+FMH Physikalische Medizin und Rehabilitation, vom 29. März 2012 die
+Diagnosen einer Halswirbelsäulen-Distorsion QTF II und einer rezidivierenden
+depressiven Störung (seit etwa 14 Jahren). Aktuelle Probleme bei der Beschwerdeführerin
+seien dauerhafte Nacken- und Kopfschmerzen mit Ausstrahlung bis zum rechten
+Schulterblatt, ein brennendes Gefühl auf der linken Hüfte, Durchschlafstörungen,
+unspezifischer Schwindel, eine mässige Symptomausweitung sowie eine
+Hypästhesie am rechten Arm. Sie kamen zum Schluss, dass hinsichtlich des
+Schwindels eine otoneurologische und wegen der Hypästhesie am rechten Arm
+eine neurologische Konsiliaruntersuchung zu empfehlen seien. Weiter seien die
+physiotherapeutische sowie die psychiatrisch-psychotherapeutische Behandlung
+fortzuführen. Unter Berücksichtigung dieser Empfehlungen sei von einer guten
+Prognose auszugehen.
+Bei der oroneurologischen Untersuchung vom
+21.
+Mai 2012 konnte Dr. med.
+J.______
+,
+FMH Hals-, Nasen- und Ohrenkrankheiten, bei der Beschwerdeführerin keine
+periphervestibuläre Funktionsstörung nachweisen, insbesondere auch kein
+benigner paroxysmaler Lagerungsschwindel. Auffällig sei die Schmerzhaftigkeit
+im Suboccipital- und Paravertebralbereich der Halswirbelsäule rechts sowie
+die Schmerzsymptomatik mit den Kopfschmerzen in der Anamnese. Solche Zustände
+würden gehäuft nach Halswirbelsäulen-Akzellerationstraumata beobachtet.
+Das am 31. Mai 2012 durchgeführte MRI
+(Magnetic Resonance Imaging) im Institut für Radiologie des Spitals K.______
+durch Dr. med. L.______, Leitende Ärztin, ergab, dass bei der
+Beschwerdeführerin eine flache rechts mediolaterale Diskushernie C6/7 mit
+möglicher Irritation der Nervenwurzel C7 rechts vorliege. Am 18. Juni
+2012 diagnostizierte Dr. med. M.______, FMH Neurologie und Neurophysiologie,
+von der Neurologischen Praxis der Rehaklinik N.______ nach erfolgter
+neurologischer Untersuchung bei der Beschwerdeführerin eine posttraumatische
+Zervikalgie mit Irritation Nervenwurzel C7 rechts und eine rezidivierende
+depressive Störung seit 14 Jahren.
+4.3
+Am
+4. Oktober 2012 nahm Suva-Kreisarzt Dr. med. O.______, FMH
+Chirurgie, eine Untersuchung vor. Er diagnostizierte ein chronisches
+zervikobrachiales Schmerzsyndrom rechts und eine rezidivierende depressive
+Störung. Weiter stellte er eine diffuse Schmerzhaftigkeit rechtsseitig bei
+beidseits tonuserhöhter Schulter-Nackenmuskulatur fest. Die aktive
+Schulterfunktion sei eingeschränkt, jedoch sei die Rotatorenmanschettenkraft
+ordentlich, diese löse aber erhebliche Schmerzen aus. Grobkursorisch sei die
+periphere Neurologie bland. Weiter seien die Diskushernien als überwiegend
+wahrscheinlich vorbestehend zu werten. Da ein Kontakt der Diskopathie C6/7
+rechts zur Nervenwurzel nicht definitiv bestätigt sei, werde er zur
+Beurteilung der Unfallfolgen nochmals eine MRI-Untersuchung veranlassen.
+In der Folge wurde von der
+Beschwerdeführerin in der Klinik für Neuroradiologie des Spitals P.______ ein
+Röntgenbild und ein MRI der Halswirbelsäule erstellt. Im Bericht vom
+22. Oktober 2012 führte Prof. Dr. Q.______, Leitender
+Arzt, aus, die Auswertung des Röntgenbilds habe eine regelrechte Darstellung
+der Halswirbelsäule ohne Hinweise auf Dislokationen oder Subluxationen sowie
+ein gutes Alignement der Wirbelkörper und der posterioren Elemente der
+knöchernen zervikalen Wirbelsäule ergeben. Im MRI konnten nach dem radiologischen
+Befund vom 22. Oktober 2012 durch Dr. med. R.______, Oberarzt,
+leichtgradige Bandscheibenprotrusionen auf Höhe HWK5/6 und HWK6/7 rechts ohne
+Zeichen einer Myelon- oder Nervenwurzelkompression sowie keine Zeichen einer
+Myelopathie festgestellt werden.
+Weiter stellte Dr. med. S.______,
+Facharzt für Neurologie, nach erfolgter Untersuchung im Bericht vom
+21. November 2012 folgende Diagnosen: beeinträchtigendes
+Zervikovertebralsyndrom mit Schmerzausstrahlung in den rechten Arm und möglicherweise
+mit Funktionsstörung der Wurzel C6 und wahrscheinlich auch C7 rechts aufgrund
+von mediolateralen Diskushernien C5/6 und C6/7 (vorwiegend rechtsseitig) nach
+einer HWS-Distorsion als Folge eines Verkehrsunfalls vom 15. Februar 2012;
+durch Nackenschmerzen ausgelöste rechtsseitige störende migräniforme
+Kopfschmerzen; erneute Zunahme der psychischen Beschwerden nach dem Unfall
+bei einer rezidivierenden depressiven Störung. Vor dem Unfall habe die Beschwerdeführerin
+seit Jahren unter rezidivierenden depressiven Störungen gelitten, die nach
+eigenen Angaben während langer Zeit vor dem Unfall nicht ausgeprägt gewesen
+seien. Als Unfallfolge sei ohne Zweifel ein Zervikalsyndrom entstanden. Aufgrund
+der Beschwerden und der Befunde sei es nachvollziehbar, dass die Beschwerdeführerin
+höchstens eine Arbeitsfähigkeit von 50 % aufweise. Er erachte es aber
+nicht als notwendig, dass die Beschwerdeführerin wieder regelmässig in seine
+neuro-psychiatrische Betreuung komme, da sie eine
+aktive Haltung einnehmen müsse, um ihre Schmerzen zu
+reduzieren.
+Aufgrund des Verdachts auf eine
+Radikulopathie C6/7 empfahl Dr. M.______ am 26. November 2012
+der Beschwerdegegnerin, bei der Beschwerdeführerin eine Somato Sensibel
+Evozierte Potential (SSEP)-Untersuchung durchführen zu lassen, welche
+letztlich an der Klinik T.______ vorgenommen wurde. Im Bericht vom
+8. Januar 2013 diagnostizierten Dr. med. U.______,
+Oberärztin Neurologie, und Dr. med. V.______, Assistenzärztin
+Neurologie, bei der Beschwerdeführerin ein chronisches vorwiegend
+myofasziales Zervikobrachialsyndrom rechts (mit/bei klinisch normalem
+Neurostatus bis auf diffuse Sensibilitätsminderung im Bereich der gesamten
+oberen rechten Extremität mit punktum maximum Dig. I-III, schmerzhaftes
+Giving way der gesamten oberen Extremität; elektrophysiologisch neurographische
+Befunde mit einem leichtgradigen Carpaltunnelsyndrom rechts vereinbar,
+normales Kurs-EMG für die Kennmuskulatur C7 rechts, normales Medianus-SSEP
+beidseits; kleine Diskusprotrusion C6/7 ohne sicheren Nachweis einer
+Kompression neurogener Strukturen gemäss MRI der HWS vom
+17. Oktober 2012 [USZ]), ein leichtgradiges Carpaltunnelsyndrom
+rechts (Erstdiagnose) und eine rezidivierende depressive Störung seit
+14 Jahren. Sichere Hinweise für das Vorliegen einer radikulären
+Symptomatik bestünden weder klinisch, radiologisch noch elektrophysiologisch.
+In der ärztlichen Beurteilung vom
+29. Januar 2013 stellte der Kreisarzt Dr. O.______ fest, dass
+bei der Beschwerdeführerin neurologisch eine Radikulopathie ausgeschlossen
+werden könne und eine myofasziale Ursache der Schmerzsymptomatik durch
+Fachärzte bestätigt worden sei. Im MRI sei weiter unverändert die Diskopathie
+C6/7 ohne sicheren Kontakt zur Nervenwurzel dargestellt worden. Daraus folge,
+dass unter einer konsequent absolvierten, aktiven Behandlung von einem stabilen
+Zustand auszugehen sei und eine namhafte Verbesserung bei optimierter
+Therapie nicht mehr überwiegend wahrscheinlich zu erwarten sei.
+5.
+5.1
+Die Beschwerdegegnerin stellte mit Verfügung vom
+20. Februar 2013 ihre zuvor der Beschwerdeführerin erbrachten Leistungen
+per 28. Februar 2013 ein; vorwiegend gestützt auf die kreisärztlichen
+Beurteilungen. Dies mit der Begründung, dass einerseits die von der Beschwerdeführerin
+geklagten Beschwerden organisch nicht hinreichend nachweisbar seien und
+andererseits nach Prüfung der massgebenden Kriterien die Adäquanz zu
+verneinen sei. Im Einspracheentscheid vom 12. April 2013 führte die
+Beschwerdegegnerin aus, dass der Unfall vom 15. Februar 2012 keine
+organischen Unfallfolgen im Sinne struktureller Veränderungen hinterlassen
+habe. Da vorliegend ein leichter Unfall gegeben sei, müsse ein adäquater
+Kausalzusammenhang zwischen dem Unfall und den psychischen bzw. organisch
+nicht nachweisbaren Beschwerden der Beschwerdeführerin verneint werden, weshalb
+die Beschwerdegegnerin nicht mehr leistungspflichtig sei.
+5.2
+Die Beschwerdeführerin macht geltend, dass es sich
+beim diagnostizierten Zervikalsyndrom, welches die rechtsbetonten Schmerzen
+auslöse, und bei der Verschlimmerung der psychischen Beschwerden durchaus um
+Unfallfolgen handle. Weiter sei ebenfalls die festgestellte kleine
+Diskusprotrusion C6/7 eine Unfallfolge, welche mit den anderen Beschwerden
+weiterhin behandlungsbedürftig sei. Da der adäquate Kausalzusammenhang sowohl
+nach der Schleudertrauma-Praxis als auch nach der Psycho-Praxis gegeben sei,
+sei der Einspracheentscheid vom 12. April 2013 aufzuheben.
+6.
+6.1
+Die Beschwerdegegnerin geht zu Recht davon aus, dass
+in der Zeit zwischen dem Unfallereignis und der Fallbeurteilung die
+somatischen Schmerzen in den Hintergrund getreten sind. So hielt Dr.
+O.______
+in der ärztlichen
+Beurteilung vom 29. Januar 2013 fest, dass bei der Beschwerdeführerin
+eine myofasziale Ursache der Schmerzsymptomatik durch die Fachärzte bestätigt
+worden sei und neurologisch eine Radikulopathie habe ausgeschlossen werden
+können. Auch gibt es für die Schwindelbeschwerden gemäss dem Bericht von
+Dr. J
+.______
+vom
+21. Mai 2012 keine organischen Befunde. Zudem stellen aus radiologischer
+Sicht sowohl das MRI des Spitals
+K.______
+vom 31. Mai 2012 als auch dasjenige des
+Spitals
+P.______
+vom 17. Mai 2012 eine Diskopathie C6/7 ohne sicheren Kontakt zur
+Nervenwurzel dar. Da diese beiden MRI in der Beurteilung nicht wesentlich
+voneinander abweichen, kann der Beschwerdeführerin nicht gefolgt werden, wenn
+sie geltend macht, dass das MRI des Spitals
+P.______
+, von welchem in den Akten nur ein rekonstruierter radiologischer
+Befund vorhanden ist, nicht verwendet werden dürfe. Weiter trifft es zu, dass
+die SSEP-Untersuchung vom 8. Januar 2013 durch die Assistenzärztin
+Dr. V.______ durchgeführt wurde, jedoch wurde sie dabei durch die
+Oberärztin Dr. U.______ überwacht. Der Bericht wurde anschliessend von
+beiden Ärztinnen verfasst, weshalb es auch diesbezüglich keine stichhaltigen
+Hinweise gibt, dass den im Bericht gestellten Diagnosen nicht gefolgt werden
+kann. Radiologisch ist somit keine Zunahme der Degeneration nachweisbar und
+neurologisch wird ein struktureller Schaden ausgeschlossen.
+6.2
+Die Beschwerdeführerin ist betreffend das von ihr
+geltend gemachten Vorliegen einer Diskushernie darauf hinzuweisen, dass als
+medizinische Erfahrungstatsache gilt, dass praktisch alle Diskushernien bei
+Vorliegen degenerativer Bandscheibenveränderungen entstehen und ein
+Unfallereignis nur ausnahmsweise als eigentliche Ursache davon in Betracht
+fällt. Als weitgehend unfallbedingt kann eine Diskushernie nur betrachtet
+werden, wenn das Unfallereignis von besonderer Schwere und geeignet war, eine
+Schädigung der Bandscheibe herbeizuführen und die Symptome der Diskushernie
+unverzüglich und mit sofortiger Arbeitsunfähigkeit auftreten (statt vieler:
+BGer-Urteil
+8C_467/2007 vom 25. Oktober 2007 E. 3.2, U 354/04 vom
+11. April 2005 E. 1.2). Vorliegend war das Unfallereignis weder besonders
+schwer noch war es geeignet, eine Diskushernie zu verursachen. So ist davon
+auszugehen, dass bei der Streifkollision der Personenwagen der Beschwerdeführerin
+eine kollisionsbedingte Geschwindigkeitsänderung (Delta-v) von weniger als 5
+km/h erfuhr und beim Überfahren des Steins (ca. 45 bis 55 cm
+gross), bei welchem sich zwei Hauptstösse einstellten, die kollisionsbedingte
+Geschwindigkeitsänderung jeweils bei rund 5 bis 7 km/h lag (siehe dazu
+die technische Unfallanalyse der W.______GmbH vom
+21. Mai 2012 sowie diejenige der D.______ vom 28. Oktober 2013).
+Medizinisch ausgewiesen sind die Symptome der Diskushernie nicht unverzüglich
+nach dem Unfall, sondern frühestens nach der Durchführung eines MRI im Spital
+K.______
+am 31. Mai 2012, also
+rund dreieinhalb Monate nach dem Unfallereignis. Es kann deshalb auch nicht
+davon ausgegangen werden, das Unfallereignis habe eine bereits bestehende
+Diskushernie nur ausgelöst, aber nicht verursacht (vgl. BGer-Urteil
+8C_902/2011 vom 10. Februar 2012 E. 2.1).
+6.3
+Weiter macht die Beschwerdeführerin gestützt auf den
+ärztlichen Bericht von Dr. X.______ und Dr. Y.______ vom
+30./31. Juli 2013 geltend, dass sie an einer Läsion der
+Rotatorenmanschette leide. Die Beschwerdeführerin liess sich im
+Land Z.______ untersuchen und es wurde von ihrer Schulter ein MRI
+erstellt. In dem in […] verfassten Bericht stellten Dr. X.______ und
+Dr. Y.______ bei der Beschwerdeführerin offenbar die Diagnose einer
+Läsion der Rotatorenmanschette (ICD-10: M75.1), wobei keine Ruptur der
+Rotatorenmanschette vorliege.
+Nach der ICD-10
+Klassifikation fallen unter M75.1 Läsionen der Rotatorenmanschette. Dabei
+wird entweder von einer Ruptur (vollständig oder unvollständig) der
+Rotatorenmanschette oder der Supraspinatus-Sehne oder von einem Supraspinatus-Syndrom
+ausgegangen. Da vorliegend die […] Ärzte bei der Beschwerdeführerin keine
+Ruptur der Rotatorenmanschette diagnostizierten, könnte sie womöglich an
+einem Supraspinatus-Syndrom, einem chronischen Schmerzsyndrom der Schultermuskulatur,
+leiden.
+Im Bericht vom
+29. März 2012 der Rehaklinik G.______ stellten Dr. H.______
+und Dr. I.______ nach erfolgtem ambulanten Assessment bei der
+Beschwerdeführerin im Schulterbereich einen Druckschmerz auf die
+Supraspinatusmuskulatur fest, ohne jedoch zu erwähnen, was die genauen
+Ursachen dieses Schmerzen sein könnten. Dr. U.______ und
+Dr. V.______ von der Klinik T.______ führten hingegen im Bericht vom
+8. Januar 2013 aus, dass sie die Schmerzsymptomatik der Beschwerdeführerin
+einem chronischen Zervikobrachialsyndrom rechts mit überwiegender
+myofaszialer Komponente zuordnen. Auch Dr. S.______ führte im Bericht
+vom 21. November 2012 aus, dass die Beschwerdeführerin an einem
+Zervikovertebralsyndrom mit Schmerzausstrahlung in den rechten Arm leide.
+Weiter diagnostizierte er bei ihr eine erneute Zunahme ihrer psychischen
+Beschwerden nach dem Unfall bei einer rezidivierenden depressiven Störung.
+Letztlich hielt er fest, dass er der Beschwerdeführerin erklärt habe, dass
+sie eine aktive Haltung einnehmen müsse, um den Schmerz zu reduzieren, und
+dass er eine neuropsychiatrische Betreuung nicht als notwendig erachte.
+Durch diese in den Akten
+der Beschwerdegegnerin befindenden ärztlichen Berichte kann die vorgebrachte,
+angeblich bei der Beschwerdeführerin vorliegende Läsion der Rotatorenmanschette,
+welche durch den Autounfall verursacht worden sein soll, nicht überzeugen und
+kein organisches Substrat für die Beschwerden der Beschwerdeführerin
+begründen. Vielmehr ist mit überwiegender Wahrscheinlichkeit davon
+auszugehen, dass die Beschwerdeführerin grundsätzlich an einem chronischen
+vorwiegend myofaszialen Zervikobrachialsyndrom rechts leidet.
+6.4
+Zusammengefasst kann festgehalten werden, dass bei
+der Beschwerdeführerin keine objektivierbaren, die Arbeitsfähigkeit
+beeinträchtigende somatische Unfallfolgen mehr vorhanden sind. Die von ihr
+geltend gemachten körperlichen Beschwerden sind lediglich klinisch fassbare,
+aber organisch nicht nachweisbare Beschwerden. Vom rein körperlichen Gesichtspunkt
+her sind somit weder eine Invalidenrente noch eine Integritätsentschädigung
+geschuldet.
+7.
+7.1
+Treten somatische Beschwerden nun derart in den
+Hintergrund, so ist
+bei der Beurteilung zwischen
+physischen und psychischen Komponenten der unfallbezogenen Merkmale zu
+differenzieren und lediglich auf das Unfallereignis als solches und die dabei
+erlittenen körperlichen Gesundheitsschäden sowie deren objektive Folgen
+abzustellen. Dabei darf die Adäquanzprüfung in dem Zeitpunkt erfolgen, in
+welchem die Heilbehandlung der physischen Gesundheitsschäden abgeschlossen
+ist (vgl.
+BGer-Urteil
+U 414/05 vom 7. Juni 2006 E. 4.5)
+.
+Vorliegend ist
+ersichtlich, dass die Heilbehandlung der somatischen Schmerzen zum Zeitpunkt
+der Fallbeurteilung weitgehend abgeschlossen war und die Beschwerdeführerin
+vorwiegend unter einer chronischen Schmerzstörung mit somatischen und
+psychischen Faktoren leidet. Hieraus ergibt sich, dass die Beschwerdegegnerin
+zum Zeitpunkt der leistungseinstellenden Verfügung berechtigt war, einen
+Fallabschluss vorzunehmen und somit auch die Adäquanz zu prüfen.
+7.2
+Wie
+bereits ausgeführt (vgl. E. II/2.3), kommt b
+ei organisch
+nicht (hinreichend) nachweisbaren Unfallfolgeschäden dem adäquaten
+Kausalzusammenhang hinsichtlich einer allfälligen Leistungspflicht der
+Unfallversicherung wesentliche Bedeutung zu. So dient die adäquate Kausalität
+(bei organisch nicht objektiv ausgewiesenen Beschwerden) gemäss der
+bundesgerichtlichen Rechtsprechung der rechtlichen Eingrenzung der sich aus
+dem natürlichen Kausalzusammenhang ergebenden Haftung der Unfallversicherung
+(BGE 134 V 109 E. 2.1).
+7.3
+Der Beschwerdegegnerin ist beizupflichten,
+dass
+das somatische Krankheitsbild gegenüber der vorliegenden psychischen
+Problematik in den Hintergrund getreten ist, d.h. dass die psychischen
+Beschwerden das Beschwerdebild überlagern. Aus diesem Grund hat die Prüfung
+der Adäquanz nach der für psychische Fehlentwicklungen massgebenden
+Rechtsprechung gemäss BGE 115 V 133 zu erfolgen.
+7.4
+7.4.1
+Rechtsprechungsgemäss ist der augenfällige
+Geschehensablauf des Unfalls in drei mögliche Gruppen zu kategorisieren,
+welche als leichte, schwere und dazwischen liegende, mittlere Unfälle
+bezeichnet werden können (vgl. BGE 115 V 133 E. 6).
+7.4.2
+Am 15. Februar 2012 prallte
+die Beschwerdeführerin mit ihrem Personenwagen nach einem Ausweichmanöver und
+einer Streifkollision in einen sich am Strassenrand befindenden Stein und
+überfuhr diesen. Die kollisionsbedingte Geschwindigkeitsänderung (Delta-v)
+betrug gemäss der technischen Unfallanalyse der W.______GmbH vom 21. Mai
+2012 sowie derjenigen der D.______ vom 28. Oktober 2013 bei der
+Streifkollision weniger als 5 km/h und beim Überfahren des Steins
+(ca. 45 bis 55 cm gross), bei welchem sich zwei Hauptstösse
+einstellten, jeweils bei rund 5 bis 7 km/h. Neben einer HWS-Distorsion
+erlitt die Beschwerdeführerin keine weiteren körperlich nachweisbare
+Verletzungen. Es entstand Sachschaden.
+7.4.3
+Nach der bundesgerichtlichen Rechtsprechung sind
+Auffahrkollisionen in der Regel als mittelschwere Unfälle im Grenzbereich zu
+leichten zu betrachten. In einzelnen Fällen wurde sogar ein leichter Fall
+angenommen, so insbesondere bei niedrigen kollisionsbedingten
+Geschwindigkeitsänderungen von 10-15 km/h (Delta-v) und weitgehendem
+Fehlen von unmittelbar im Anschluss an den Unfall auftretenden Beschwerden
+(BGer-Urteil 8C_715/2010 vom 2. Dezember 2010 E. 5.2.2). Vorliegend
+waren die kollisionsbedingte Geschwindigkeitsänderungen eher tief. Hingegen
+handelte es sich beim Unfall nicht um das Auffahren auf ein stehendes
+Fahrzeug, sondern einerseits um eine seitliche Kollision von fahrenden
+Personenwagen und andererseits um das Überfahren eines Steins. Im
+Dokumentationsbogen für Erstkonsultation nach kranio-zervikalen
+Beschleunigungstrauma
+wurde sodann
+festgehalten, die Beschwerdeführerin habe gleich nach dem Unfall über Kopf-
+und Nackenschmerzen sowie über Übelkeit geklagt. Der Unfall ist somit als
+mittelschwerer im Grenzbereich zu einem leichten einzustufen.
+7.4.4
+Ist der Unfall dem
+mittleren Bereich zuzuordnen, müssen Zusatzkriterien erfüllt sein, damit eine
+Kausalität zu einer psychischen Gesundheitsbeeinträchtigung angenommen werden
+kann.
+Als wichtigste Kriterien sind dabei
+besonders dramatische Begleitumstände oder eine
+besondere Eindrücklichkeit des Unfalls, die Schwere oder besondere Art der
+erlittenen Verletzungen, eine ungewöhnlich lange Dauer der ärztlichen
+Behandlung, körperliche Dauerschmerzen, eine ärztliche Fehlbehandlung, welche
+die Unfallfolgen erheblich verschlimmert, ein schwieriger Heilungsverlauf und
+erhebliche Komplikationen sowie der Grad und die Dauer der physisch bedingten
+Arbeitsunfähigkeit zu nennen (vgl. BGE 115 V 133 E. 6c).
+Dabei müssen vier der massgeblichen Kriterien oder
+einzelne der Kriterien ausgeprägt erfüllt sein (BGer-Urteil 8C_487/2009 vom
+7. Dezember 2009 E. 5).
+7.5
+Dem Unfall vom 15. Februar 2012
+liegen weder
+besonders dramatische Begleitumstände vor noch kann ihm eine
+überdurchschnittliche Eindrücklichkeit zugesprochen werden. Die erlittenen
+Verletzungen waren dazu nicht
+schwer
+oder von besonderer Art, welche eine
+Bejahung der Adäquanz rechtfertigen würden. Des Weiteren basierten die Dauer
+der ärztlichen Behandlung und die geklagten Dauerschmerzen nicht auf einem
+somatischen Substrat, sondern überwiegend auf der erfolgten psychischen Überlagerung.
+Ferner sind auch eine ärztliche Fehlbehandlung, welche die
+Unfallfolgen
+erheblich
+verschlimmert hätte, ein schwieriger Heilungsverlauf und erhebliche
+Komplikationen nicht ersichtlich. Letztlich ist auch das Kriterium des Grads
+und der Dauer der physisch bedingten Arbeitsfähigkeit nicht oder zumindest
+nicht ausgeprägt erfüllt, da die Beschwerdeführerin bis zum bereits ein gutes
+Jahr nach dem Unfall erfolgten Fallabschluss eine Arbeitsunfähigkeit von
+höchstens 50 % aufwies (vgl. BGer-Urteil 8C_116/2009 vom
+26. Juni 2009 E. 4.6).
+7.6
+Wenn
+die Adäquanz wie vorliegend zu verneinen ist, kann praxisgemäss auf weitere
+Beweisvorkehren zur natürlichen Kausalität verzichtet werden
+(vgl. BGer-Urteil 8C_42/2007 vom 14. April 2008 E. 2).
+Somit erweist sich auch das Einholen eines inter- bzw.
+polydisziplinären Gutachtens als nicht notwendig, da die vorliegenden
+medizinischen Akten als schlüssig erachtet werden sowie weitere
+Beweisvorkehren an der Würdigung der bereits abgenommenen Beweise nichts mehr
+zu ändern vermögen würden. Auf eine weitere Expertise ist folglich im Sinne
+einer antizipierten Beweiswürdigung zu verzichten (vgl. BGE 124 I 208
+E. 4a).
+Demgemäss ist die Beschwerde abzuweisen.
+III.
+Die Gerichtskosten sind von
+Gesetzes wegen auf die Staatskasse zu nehmen (Art. 1 UVG i.V.m.
+Art. 61 lit. a ATSG und Art. 135a Abs. 1 lit. c
+des Gesetzes über die Verwaltungsrechtspflege vom
+4. Mai 1986 [VRG]
+).
+Bei diesem Verfahrensausgang ist
+der Beschwerdeführerin keine Parteientschädigung auszurichten
+(Art. 61 lit. g ATSG e contrario). Daran vermag auch
+die von der Beschwerdeführerin geltend gemachte Gehörsverletzung, welche
+durch die erst im Beschwerdeverfahren zugestellten Aktenstücke der Beschwerdegegnerin
+entstanden ist, nichts ändern. Dies deshalb, da keine besonders
+schwerwiegende Verletzung des rechtlichen Gehörs vorliegt und die
+Beschwerdeführerin die Möglichkeit erhielt, sich vor der Beschwerdeinstanz zu
+äussern, weshalb dadurch die Gehörsverletzung geheilt wurde. Der
+Beschwerdegegnerin steht ebenfalls keine Parteientschädigung zu
+(Art. 61 lit. g ATSG; Ueli Kieser, ATSG-Kommentar,
+2. A., Zürich 2009, Art. 61 N. 114).
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Die
+Gerichtskosten werden auf die Staatskasse genommen.
+3.
+Es
+werden keine Parteientschädigungen zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
