@@ -1,0 +1,407 @@
+---
+decision_id: "gl_gerichte_VG.2013.00093"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2013.00093"
+docket_2: "VG.2014.8"
+decided: "2014-04-23"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=210&W10_KEY=218274&nTrefferzeile=4&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/210/art-415.md", "switzerland/bund/acts/210/art-450.md"]
+---
+
+# GL Gerichte VG.2013.00093
+
+## Regeste
+
+Fürsorge/Vormundschaftswesen
+
+## Text
+
+Glarus Verwaltungsgericht 23.04.2014 VG.2013.00093 (VG.2014.8)
+Glaris Verwaltungsgericht 23.04.2014 VG.2013.00093 (VG.2014.8)
+Glarona Verwaltungsgericht 23.04.2014 VG.2013.00093 (VG.2014.8)
+
+Fürsorge/Vormundschaftswesen
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+23. April 2014
+II. Kammer
+in Sachen
+VG.2013.00093
+A.______
+Beschwerdeführer
+gegen
+Kindes- u.
+Erwachsenenschutzbehörde
+Beschwerdegegnerin
+des Kantons Glarus
+betreffend
+Genehmigung Schlussrechnung und Schlussbericht
+Die Kammer zieht in Erwägung:
+I
+.
+1.
+Am
+14. Juli 2009 beantragte
+B.______
+für ihre 1924 geborene kinderlose Tante, C.______ sel., vormundschaftliche
+Massnahmen, da diese an einer mittelschweren Demenz Typ Alzheimer leide. Mit
+Beschluss vom 6. Oktober 2009 wurde für C.______ sel. eine kombinierte
+Beistandschaft nach aArt. 392 Ziff. 1 i.V.m. aArt. 393 Ziff. 2 des
+Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907 (ZGB, in der bis
+am 31. Dezember 2012 geltenden Fassung) errichtet und B.______ zur
+Beiständin ernannt. Am 26. Januar 2010 genehmigte die ehemalige
+kantonale Vormundschaftsbehörde (neu: Kindes- und
+Erwachsenenschutzbehörde [KESB]) das von B.______ eingereichte Inventar über
+den Besitzstand und stellte fest, dass das Vermögen von C._____ sel. per
+31. Dezember 2009 Fr. 1'172'809.65 betrug.
+2.
+Am 2. September 2012
+verstarb C.______. Mit Beschluss vom 16. Oktober 2012 – und somit vor
+Inkrafttreten des neuen Kindes- und Erwachsenenschutzrechts per
+1. Januar 2013 –
+genehmigte die Vormundschaftsbehörde die per
+2. September 2012 erstellte
+Schlussrechnung
+und den Schlussbericht von B.______ und entliess diese aus ihrem Amt. Der
+Genehmigungsentscheid der Schlussrechnung und des Schlussberichts wurde den
+Erben nicht eröffnet.
+3.
+3.1
+In seiner Eigenschaft als Miterbe im Nachlass von
+C.______ sel. sowie als Vertreter weiterer Erben ersuchte A.______ die KESB
+am 3. September 2013 um Akteneinsicht. Am 17. September 2013 wurde ihm der
+Genehmigungsentscheid vom 16. Oktober 2012 zugestellt.
+3.2
+Dagegen reichte A.______ am
+30. September
+2013 Beschwerde beim Departement Volkswirtschaft und Inneres (DVI) ein und
+beantragte sinngemäss die Aufhebung des Beschlusses der Vormundschaftsbehörde
+vom 2. November 2012 (recte: 16. Oktober 2012) sowie eine
+materielle Prüfung, insbesondere eine Sorgfalts- und Angemessenheitsprüfung
+der vorgelegten Beistandschaftsrechnung. Zudem sei der Entscheid der
+Beschwerdeinstanz allen Erben von C.______ zu eröffnen und die KESB
+anzuweisen, den Genehmigungsentscheid vom 2. November 2012 (recte: 16. Oktober
+2012) allen Erben direkt zu eröffnen; unter Kosten- und Entschädigungsfolgen
+zu Lasten der KESB.
+Mit Entscheid vom 3. Oktober
+2013 trat das DVI infolge fehlender Zuständigkeit nicht auf die Beschwerde
+ein und überwies diese an das Verwaltungsgericht des Kantons Glarus.
+Die KESB beantragte am
+26. November 2013 die Abweisung der Beschwerde.
+II.
+1.1
+Wurde
+ein Genehmigungsentscheid noch von der Vormundschaftsbehörde verfügt und den
+am Verfahren beteiligten Personen erst nach Inkrafttreten des neuen Rechts
+mitgeteilt, so hat die Anfechtung nach den Bestimmungen des neuen Rechts bei
+der gerichtlichen Beschwerdeinstanz zu erfolgen (Ruth E. Reusser
+, in: Thomas Geiser/Ruth E. Reusser [Hrsg.], Basler
+Kommentar Erwachsenenschutz, 2012,
+Art. 14a SchlT ZGB
+N. 11). Für die Genehmigung der Schlussrechnung ist neu die KESB zuständig
+(Art. 415 ZGB i.V.m. Art. 9 des Gesetzes über die Einführung des Schweizerischen
+Zivilgesetzbuches im Kanton Glarus vom 7. Mai 1911 (EG ZGB). Gegen Entscheide
+der KESB kann Beschwerde beim Verwaltungsgericht erhoben werden (Art. 450
+Abs. 1
+ZGB
+i.V.m. Art. 67 EG ZGB).
+1.2
+Für
+die Umschreibung der Beschwerdelegitimation knüpft das Gesetz an die Regelung
+von aArt. 420 ZGB an. Zur Beschwerde befugt sind gemäss Art. 450 Abs. 2 ZGB
+die am Verfahren beteiligten Personen und die der betroffenen Person
+nahenstehenden Personen, wobei tatsächliche, aktuelle Interessen genügen.
+Ebenfalls legitimiert sind Personen, die ein rechtlich geschütztes Interesse
+an der Aufhebung oder Änderung des angefochtenen Entscheids geltend machen
+(vgl. dazu Daniel Steck, in: Basler Kommentar Erwachsenenschutz, Art. 450 N.
+26, 38). Folglich ist die Legitimation nicht nur gegeben, wenn der Dritte mit
+seinem Eingreifen Mündelinteressen wahrnehmen will, sondern auch dann, wenn
+es ihm um den Schutz eigener Interessen geht. Dabei kommt es nicht darauf an,
+ob das durch das Vormundschaftsrecht geschützte Interesse ein
+wirtschaftliches oder ein ideelles ist (Thomas Geiser
+,
+in: Heinrich Honsell/Nedim Peter Vogt/Thomas Geiser [Hrsg.], Basler Kommentar
+ZGB I, 3. A., 2006,
+Art. 420 N. 31). Obschon der
+Genehmigung der Schlussrechnung keine unmittelbare materiellrechtliche
+Bedeutung zukommt und sie auch nicht die vollständige Entlastung der Beiständin
+zur Folge hat, kommt der genehmigten Rechnung erhöhte Beweiskraft zu (Geiser,
+Art. 420 N. 61). Da die Nichtgenehmigung der Schlussrechnung für
+den Beschwerdeführer bessere Chancen in einem allfälligen Verantwortlichkeitsprozess
+zur Folge hätte, ist ein schutzwürdiges Interesse gegeben. Seine
+Beschwerdelegitimation ist daher zu bejahen.
+Da
+auch die übrigen Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde
+einzutreten.
+2.
+Mit
+dem
+Inkrafttreten des neuen Erwachsenenschutzrechts per 1. Januar 2013
+wurde das bisherige Vormundschaftsrecht abgelöst. Zur Frage des anwendbaren
+Rechts hält Art. 14 Abs. 1 SchlT ZGB fest, dass das neue Erwachsenenschutzrecht
+mit dessen Inkrafttreten sofort anwendbar ist. Dabei werden auch früher
+angeordnete Massnahmen vom neuen Recht beherrscht, soweit nicht eine Ausnahme
+vorgesehen ist (Art. 14 Abs. 3 und 4 SchlT ZGB). Das neue
+Erwachsenenschutzrecht entfaltet jedoch keine Rück- und grundsätzlich keine
+Vorwirkung, sondern ist materiell erst ab dem 1. Januar 2013 wirksam (vgl.
+dazu Reusser, Art. 14 SchlT ZGB N. 11).
+Die
+vorliegende Beschwerde richtet sich gegen den Genehmigungsentscheid der
+Schlussrechnung und des Schlussberichts der Vormundschaftsbehörde vom
+16. Oktober 2012 und somit gegen eine unter dem bisherigen Recht
+abgeschlossene Handlung. Entsprechend dem Rückwirkungsverbot von Art. 1 SchlT
+ZGB ist daher der vorliegende Fall nach dem bisherigen Recht zu beurteilen,
+welches vor Inkrafttreten des neuen Erwachsenenschutzrechts Anwendung fand
+(vgl. dazu
+Ruth Reusser, in: AJP 2012, S. 1732).
+3.
+3.1
+Kraft des Verweises von
+aArt. 367 Abs. 2 ZGB gelten die Vorschriften über die
+Vermögensverwaltung und die Rechnungslegung des Vormunds auch für den Beistand.
+Der Beistand hat das Vermögen des Bevormundeten sorgfältig zu verwalten
+(aArt. 413 Abs. 1 ZGB; aArt. 79 Abs. 1 EG ZGB, in der bis am
+31. Dezember 2012 geltenden Fassung). Über die Verwaltung hat er genaue
+und pünktliche Rechnung zu führen und diese der Vormundschaftsbehörde in den
+von ihr angesetzten Perioden, mindestens aber alle zwei Jahre, zur Prüfung
+vorzulegen (aArt. 413 Abs. 2 ZGB; aArt. 82 Abs. 1 EG ZGB). Die Rechnung
+muss alle Einnahmen und Ausgaben während der Rechnungsperiode enthalten, mit
+den erforderlichen Belegen versehen sein und den Bestand des Mündelvermögens
+ausweisen (aArt. 85 Abs. 1 EG ZGB). Geht das vormundschaftliche Amt zu Ende,
+so hat der Beistand der Vormundschaftsbehörde einen Schlussbericht zu
+erstatten, eine Schlussrechnung einzureichen sowie das Vermögen zur Übergabe
+an den Verbeiständeten, an dessen Erben oder an den Amtsnachfolger bereit zu
+halten (aArt. 451 ZGB).
+3.2
+Die Vormundschaftsbehörde kann die Rechnungsablage
+auch in kürzeren Terminen anordnen und jederzeit Prüfungen der gesamten
+Rechnungsführung und des Vermögensbestandes vornehmen (aArt. 82 Abs. 2 EG
+ZGB). Sie prüft die periodischen Berichte und Rechnungen des Beistands und
+verlangt, wo es ihr notwendig erscheint, deren Ergänzung und Berichtigung.
+Weiter erteilt oder verweigert sie die Genehmigung der Berichte und
+Rechnungen und trifft nötigenfalls die für die Wahrung der Interessen des
+Verbeiständeten angezeigten Massregeln (aArt. 423 Abs. 1 und 2
+ZGB; aArt. 86 EG ZGB). Den Schlussbericht und die Schlussrechnung des
+Beistands prüft die Vormundschaftsbehörde in gleicher Weise wie die
+periodische Berichterstattung und Rechnungsstellung (aArt. 452 ZGB;
+aArt. 86 EG ZGB). Sie spricht dessen Entlassung aus, sobald der
+Schlussbericht sowie die Schlussrechnung genehmigt und das Mündelvermögen dem
+Verbeiständeten, dessen Erben oder dem Amtsnachfolger zur Verfügung gestellt
+wurde (aArt. 453 Abs. 1 ZGB). Die Schlussrechnung ist den Erben unter
+Hinweis auf die Bestimmungen über die Geltendmachung der Verantwortlichkeit
+zuzustellen. Gleichzeitig ist die Entlassung des Beistands oder die Verweigerung
+der Genehmigung der Schlussrechnung den Erben mitzuteilen (aArt. 453
+Abs. 2 und 3 ZGB; aArt. 97 EG ZGB).
+4.
+4.1
+Der Beschwerdeführer macht geltend, dass gemäss dem
+Schlussbericht der Beiständin für die Periode vom 1. Januar 2011 bis zum
+2. September 2012 (Todestag) ein Vermögensverlust von rund
+Fr. 16'000.- zu verzeichnen gewesen sei. Die Vormundschaftsbehörde habe
+diesen Bericht aus unerklärlichen Gründen einfach abgesegnet, ohne
+festgestellt zu haben, dass wesentliche Vermögensbestandteile in
+hochriskanten strukturierten Produkten angelegt gewesen seien, welche zu
+erheblichen Verlusten geführt hätten. Dabei sei es gerade die Aufgabe der Vormundschaftsbehörde
+und der Beiständin gewesen, für eine Umschichtung der Anlagen in mündelsichere
+besorgt zu sein. Die Vormundschaftsbehörde habe keine materielle Prüfung der
+Anlagepolitik der Beiständin vorgenommen, obschon sie dazu verpflichtet gewesen
+sei. Folglich sei eine solche Prüfung anzuordnen und nachzuholen.
+4.2
+Die Beschwerdegegnerin führt aus, dass das Vermögen
+von C.______ sel. per 31. Dezember 2009 Fr. 1'172'809.65 betragen
+habe. Da gemäss Schlussrechnung per 2. September 2012 (Todestag) ein
+Vermögen von Fr. 1'188'610.75 ausgewiesen sei, entspreche dies einer
+Vermögenszunahme von Fr. 15'801.10. Der Anteil an Aktien, Derivaten und
+strukturierten Produkten habe per 2. September 2012 ca. Fr. 188'000.-
+oder rund 16 %, am Gesamtvermögen betragen, bei Berücksichtigung der
+Nominalwerte von Fr. 260'000.- rund 22
+%. Bei den
+Vermögensanlagen handle es sich nicht um Hebel- bzw. spekulative Produkte,
+sondern um strukturierte Anlageprodukte auf Schweizer Standardwerten, welche
+die Aktienmarktrisiken mit den üblichen Schwankungsbandbreiten abdecken
+würden. Bei einem Vermögen von rund Fr. 1'200'000.- seien Aktienanlagen
+die Norm und mit einem Anteil von 20 % im Rahmen eines verantwortungsvoll
+geführten Mandats sinnvoll.
+Der Saldo aus verbuchten
+Kursverlusten betrage Fr. 76'785.20, was einem Verlust von rund
+6,5 % auf dem Gesamtvermögen entspreche und im Rahmen der üblichen
+Schwankungsbandbreiten liege.
+Die Märkte seien 2010 und 2011 weltweit
+aus bekannten Gründen unter Druck gewesen, würden sich jedoch seit 2012
+wieder langsam erholen. Die Genehmigung der Schlussrechnung und des
+Schlussberichts der Beiständin durch die Vormundschaftsbehörde sei deshalb zu
+Recht erfolgt.
+5.
+5.1
+Hinsichtlich der Art und Weise der Prüfung des
+Schlussberichts sowie der Schlussrechnung des Beistands sind die Bestimmungen
+von aArt. 423 ZGB anzuwenden (aArt. 452 ZGB i.V.m. aArt. 367 Abs. 3
+ZGB). Folglich hat die Vormundschaftsbehörde den Schlussbericht sowie die
+Schlussrechnung des Beistands zu prüfen und dort, wo es ihr notwendig
+erscheint, deren Ergänzung und Berichtigung zu verlangen. Sodann erteilt oder
+verweigert sie die Genehmigung des Schlussberichts und der Schlussrechnung
+und trifft nötigenfalls die für die Wahrung der Interessen des Verbeiständeten
+angezeigten Massregeln.
+5.2
+Der Schlussbericht über die persönlichen
+Verhältnisse des Verbeiständeten und die persönliche Betreuung sind darauf zu
+prüfen, ob die persönliche Fürsorge und die rechtsgeschäftliche Vertretung
+den persönlichen Verhältnissen des Verbeiständeten angemessen sind, dessen
+Entwicklung fördern sowie dessen allgemeinen Wohl dienen (Geiser,
+Art. 423 N. 3). Weiter hat die Vormundschaftsbehörde die Schlussrechnung
+des Beistands auf ihre formelle Richtigkeit hin zu kontrollieren, wobei sie
+die materielle Angemessenheit und Gesetzmässigkeit der vormundschaftlichen
+Verwaltung abzuklären hat. Gleichzeitig hat sie auch sicherzustellen, dass
+das Vermögen zinstragend angelegt ist. Letztlich bezieht sich die
+Untersuchung auch darauf, ob die Handlungen des Beistands rechtmässig sind
+und den Weisungen der Vormundschaftsbehörde entsprechen (Geiser, Art. 423 N.
+4). Im Übrigen sind auch die Zweckmässigkeit der einzelnen
+Verwaltungshandlungen sowie die hinreichende Begründung von Vermögensveränderungen
+zu überprüfen und zu kontrollieren, ob alle nötigen Zustimmungen eingeholt
+wurden (Kurt Affolter, in: Basler Kommentar ZGB I, Art. 451-453 N. 59). Das
+Ergebnis der Prüfung ist die Genehmigung oder Verweigerung der Genehmigung.
+Die Genehmigung hat dabei nicht die Bedeutung einer Décharge-Erteilung,
+sondern lediglich einer Bestätigung, dass die Behörde die Rechnung und
+Verwaltung für richtig befunden hat (Geiser, Art. 423 N. 6).
+5.3
+Am 11. Januar 2011 reichte die Beiständin den
+Beistandsbericht per 31. Dezember 2010 einschliesslich der dazugehörigen
+Abrechnungen und Belege bei der Vormundschaftsbehörde ein. Dieser wurde mit
+Beschluss der Vormundschaftsbehörde vom 25. Januar 2011 genehmigt. Aus
+dem Bericht der Vormundschaftsbehörde vom 25. Januar 2011 geht hervor,
+dass sich die Vormundschaftsbehörde bei der Kontrolle der Rechnung lediglich
+auf die Einnahmen und Ausgaben der Beiständin konzentrierte, sich jedoch
+nicht zur Vermögensanlage äusserte. Weiter ist aus den Akten ersichtlich,
+dass die Beiständin per 31. Januar 2011 der Vormundschaftsbehörde unaufgefordert
+eine Abrechnung sowie einen Kontenplan für das Jahr 2011 einreichte. Der
+Vormundschaftsbehörde hätte bei der Durchsicht der Abrechnung die hohe Buchwertkorrektur
+von Fr. 92'796.50 auffallen müssen, weshalb sie nicht zuletzt aufgrund
+der fehlenden Belege für das Jahr 2011 verpflichtet gewesen wäre, bei der
+Beiständin sämtliche erforderlichen Unterlagen, d.h. Kontoauszüge und
+allenfalls die dazugehörige Korrespondenz einzufordern (vgl. dazu
+aArt. 423 Abs. 1 ZGB i.V.m. aArt. 85 EG ZGB). Es ist aktenkundig, dass
+die Vormundschaftsbehörde die Abrechnung für das Jahr 2011 erst anlässlich
+der Schlussrechnung per 2. September 2012 geprüft und trotz fehlender Belege
+und Kontoauszügen für den Zeitraum vom 1. Januar 2011 bis 31. Dezember
+2011 genehmigt hat. Aufgrund der fehlenden Belege war es der Vormundschaftsbehörde
+jedoch gar nicht möglich, eine materielle Prüfung der Schlussrechnung per
+2. September 2012 vorzunehmen, obschon sie dazu verpflichtet gewesen wäre.
+Daran mag auch der von der
+Beschwerdegegnerin eingereichte Auszug aus dem Protokoll der internen Sitzung
+vom 26. November 2013 nichts zu ändern, da sich aus diesem keine
+Rückschlüsse ziehen lassen, ob das Vermögen der Verbeiständeten nach den
+allgemeinen Grundsätzen und massgebenden Gesichtspunkten für eine mündelsichere
+Vermögensanlage angelegt war. Eine lediglich formelle Prüfung der Schlussrechnung
+sowie das Aufzeigen der Vermögensveränderung während der Dauer der
+vormundschaftlichen Massnahme einschliesslich einer Berechnung des Anteils
+der Aktien und Derivate/strukturierten Produkte am Gesamtvermögen per
+2. September 2012 erfüllt die Anforderungen einer materiellen Prüfung
+nicht. Vielmehr ist eingehend zu überprüfen, ob bei der Vermögensanlage dem
+Mündelinteresse, welches sich im Werterhaltungs- und Sicherheitsprinzip
+konkretisiert, genügend Rechnung getragen wurde.
+6.
+6.1
+Nach aArt. 453 Abs. 2 ZGB ist die Schlussrechnung
+dem Verbeiständeten, dessen Erben oder dem neuen Beistand zuzustellen, wobei
+diese auf die Bestimmungen über die Geltendmachung der Verantwortlichkeit
+hinzuweisen sind. Die Zustellung der vollständigen Schlussrechnung hat an
+sämtliche Erben zu erfolgen, wobei die Zustellung einer Übersicht über die
+Konten mit einem Vermögensvergleich nicht genügt (Affolter, Art. 451-453
+N. 63; ferner aArt. 97 EG ZGB). Der Hinweis auf die Bestimmungen über die
+Geltendmachung der Verantwortlichkeit erfolgt gemäss bundesgerichtlicher
+Rechtsprechung am besten dadurch, dass dem Empfänger der Schlussrechnung
+nicht bloss mitgeteilt wird, welche Bestimmungen des ZGB die vormundschaftliche
+Verantwortlichkeit und deren Verjährung regeln, sondern deren Inhalt im
+Wortlaut zitiert werden (BGE 85 II 464 E. 2). Gleichzeitig mit der
+Schlussrechnung ist den Erben von der Entlassung des Beistands oder von der
+Verweigerung der Genehmigung der Schlussrechnung Mitteilung zu machen (aArt. 453 Abs. 3
+ZGB). Den Erben ist dabei der ganze Beschluss der Vormundschaftsbehörde mit
+den Erwägungen zuzustellen, nicht bloss das Dispositiv (BGE 85 II 464 E. 4).
+6.2
+Der Beschwerdeführer beantragt, dass die
+Beschwerdegegnerin anzuweisen sei, den Genehmigungsentscheid vom
+2. November 2012 (recte: 16. Oktober 2012) allen Erben direkt
+zu eröffnen.
+Dazu führt die
+Beschwerdegegnerin aus, dass der Genehmigungsentscheid der Praxis der
+Vormundschaftsbehörde folgend den Erben in Verkennung von
+aArt. 453 Abs. 2 ZGB nicht zugestellt worden, dieser Mangel
+jedoch durch die Zustellung des Berichts am 16. September 2013 (recte:
+17. September 2013) behoben worden sei. Aus den Akten ist jedoch nicht
+ersichtlich, ob die Beschwerdegegnerin sämtlichen Erben eine vollständige
+Schlussrechnung zugestellt hat. Es ist festzuhalten, dass gemäss
+bundesgerichtlicher Praxis die Verjährungsfrist betreffend die Verantwortlichkeitsansprüche
+erst zu laufen beginnt, wenn all diese – nach dem klaren Wortlaut und dem
+Sinne des Gesetzes unerlässlichen –
+Formalitäten beachtet wurden (vgl.
+dazu BGE 85 II 464). Dieselben Formalitäten gelten auch in Bezug auf den von
+der Beschwerdegegnerin neu zu erlassenden Entscheid, da dieser nur bei
+gehöriger Zustellung der Schlussrechnung und formgültiger Mitteilung in
+Rechtskraft erwachsen kann.
+7.
+Zusammenfassend ergibt
+sich, dass die Vormundschaftsbehörde ihrer Pflicht zur materiellen Prüfung
+der Schlussrechnung per 2. September 2012 nicht nachgekommen ist. Die
+fehlenden Belege für das Jahr 2011 sind bei der Beiständin einzufordern
+(aArt. 423 Abs. 1 ZGB). Ausserdem ist die Beschwerdegegnerin
+hinsichtlich der Schlussrechnung darauf aufmerksam zu machen, dass das
+Vermögen per 2. September 2012 aufgrund der Akten nicht
+Fr. 1'188'610.75, sondern Fr. 1'188'775.90 betrug. Die
+Vermögenszunahme seit dem 31. Dezember 2009 beträgt deshalb
+Fr. 15'966.25, während dieser für den gleichen Zeitraum Buchwertkorrekturen
+in der Höhe von Fr. 76'765.20 gegenüberstehen.
+Demgemäss ist die
+Beschwerde gutzuheissen. Der Genehmigungsentscheid der Vormundschaftsbehörde
+vom 16. Oktober 2012 ist aufzuheben und die Sache im Sinne der
+Erwägungen an die Beschwerdegegnerin zurückzuweisen.
+8.
+Der Beschwerdeführer beantragt weiter, der Entscheid der
+Beschwerdeinstanz sei allen Erben zu eröffnen.
+Gemäss Art. 76 Abs. 1
+des Gesetztes über die Verwaltungsrechtspflege vom
+4. Mai 1986 (VRG) ist der Entscheid den Parteien schriftlich zu eröffnen.
+Da die Eröffnung den Betroffenen eine Anfechtung des Entscheids ermöglicht,
+sind unter den Begriff der Parteien nicht nur die direkt betroffenen
+Adressaten der Verfügung zu subsumieren, sondern auch Dritte, die von der
+Verfügung bloss mittelbar betroffen sind (Ulrich Häfelin/Georg Müller/Felix
+Uhlmann [Hrsg.], Allgemeines Verwaltungsrecht, 6. A., Zürich/St. Gallen 2010,
+Rz. 1638).
+Da die restlichen Erben
+keine Parteistellung innehaben und infolge der Aufhebung des
+Genehmigungsentscheids vom 16. Oktober 2012 und der Rückweisung der Sache
+im Sinne der Erwägungen weder direkt noch mittelbar betroffen sind, ist
+diesen der vorliegende Entscheid auch nicht zu eröffnen.
+III.
+1.
+Die Gerichtskosten sind
+von Gesetzes wegen auf die Staatskasse zu nehmen (Art. 135 Abs. 1
+VRG).
+Dem Beschwerdeführer ist der geleistete Kostenvorschuss von
+Fr. 1'000.- zurückzuerstatten.
+2.
+Der Beschwerdeführer ist
+Rechtsanwalt, prozessiert vorliegend jedoch in eigener Sache. Eine
+Parteientschädigung steht im daher nicht zu (vgl. Art. 138 Abs. 1
+VRG e contrario).
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird gutgeheissen. Der Beschluss der Vormundschaftsbehörde vom
+16. Oktober 2012 wird aufgehoben und die Sache im Sinne der Erwägungen an
+die Beschwerdegegnerin zurückgewiesen.
+2.
+Die
+Gerichtskosten werden auf die Staatskasse genommen. Der vom Beschwerdeführer
+geleistete Kostenvorschuss von Fr. 1'000.- wird ihm zurückerstattet.
+3.
+Es
+werden keine Parteientschädigungen zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
