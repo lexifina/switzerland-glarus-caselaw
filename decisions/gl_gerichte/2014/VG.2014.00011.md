@@ -1,0 +1,306 @@
+---
+decision_id: "gl_gerichte_VG.2014.00011"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2014.00011"
+docket_2: "VG.2014.21"
+decided: "2014-04-23"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=223&W10_KEY=218274&nTrefferzeile=3&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/210/art-308.md", "switzerland/bund/acts/210/art-314.md", "switzerland/bund/acts/210/art-401.md", "switzerland/bund/acts/210/art-406.md", "switzerland/bund/acts/210/art-450.md"]
+---
+
+# GL Gerichte VG.2014.00011
+
+## Regeste
+
+Fürsorge/Vormundschaftswesen
+
+## Text
+
+Glarus Verwaltungsgericht 23.04.2014 VG.2014.00011 (VG.2014.21)
+Glaris Verwaltungsgericht 23.04.2014 VG.2014.00011 (VG.2014.21)
+Glarona Verwaltungsgericht 23.04.2014 VG.2014.00011 (VG.2014.21)
+
+Fürsorge/Vormundschaftswesen
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom 23. April 2014
+II. Kammer
+in Sachen
+VG.2014.00011
+A.______
+Beschwerdeführerin
+gegen
+Kindes- u.
+Erwachsenenschutzbehörde
+Beschwerdegegnerin
+des Kantons Glarus
+und
+B.______
+Beigeladener
+betreffend
+Ernennung Beistand
+Die Kammer zieht in Erwägung:
+I
+.
+1.
+A.______ und B.______ sind
+die Eltern von
+C.______, geboren am [...]. Das Kind lebt bei seiner
+Mutter, die Eltern sind nicht miteinander verheiratet und leben nicht im gleichen
+Haushalt. Schon kurz nach der Geburt
+ordnete d
+ie
+Vormundschaftsbehörde des Kantons Glarus mit Beschluss vom 23. August 2011
+und gestützt auf Art. 308 Abs. 1 und Abs. 2 des Schweizerischen
+Zivilgesetzbuchs vom 10. Dezember 1907 (ZGB) eine
+Erziehungsbeistandschaft für C.______ an. Mit der Führung der Beistandschaft
+wurde D.______ betraut.
+2.
+2.1
+Am 1. Oktober 2012 ersuchte A.______
+die Vormundschaftsbehörde darum, dass E.______ im
+Anschluss an D.______ mit der Führung der Beistandschaft beauftragt werde. Am
+13. November 2012 wies die Vormundschaftsbehörde diesen Antrag ab.
+2.2
+Dagegen erhob A.______ am 24. November 2012
+Beschwerde beim Departement Volkswirtschaft und Inneres (DVI) und beantragte
+sinngemäss die Aufhebung des Beschlusses der Vormundschaftsbehörde vom
+13. November 2012 sowie die Ernennung von E.______ als Beistand von
+C.______. Das DVI trat am 11. März 2013 auf die Beschwerde nicht ein und
+überwies die Sache zuständigkeitshalber an die Kindes- und
+Erwachsenenschutzbehörde des Kantons Glarus (KESB).
+2.3
+Am 19. April 2013 teilte die KESB B.______ mit,
+dass sie beschlossen habe, E.______ als Beistand einzusetzen. B.______
+erklärte am 23. April 2013, dass er damit nicht einverstanden sei.
+2.4
+Mit Beschluss vom 24. Dezember 2013 wies die KESB
+den Antrag auf Ernennung von E.______ als Beistand für C.______ ab und
+betraute stattdessen F.______ damit. Letztere lehnte die Führung der
+Beistandschaft mit Schreiben vom 22. Januar 2014 jedoch aus organisatorischen
+Gründen ab.
+3.
+3.1
+A.______ gelangte mit Beschwerde vom 22. Januar
+2014 ans Verwaltungsgericht und beantragte sinngemäss die Aufhebung des
+Beschlusses der KESB vom 24. Dezember 2013 sowie die Ernennung von
+E.______ als Beistand ihrer Tochter.
+3.2
+Am 19. Februar 2014 teilte G.______ der KESB mit,
+dass sie das Amt für F.______ übernehmen werde.
+3.3
+Der am 11. Februar 2014 beigeladene B.______
+beantragte am 21. Februar 2014 die Abweisung der Beschwerde. Die KESB
+beantragte am 4. März 2014 die Abweisung der Beschwerde gegen die Nichtwahl
+von E.______ sowie die Feststellung, dass anstelle von F.______ G.______ die
+Beistandschaft übernehmen werde.
+II
+.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 450
+Abs. 1 ZGB i.V.m. Art. 67 des Gesetzes über die Einführung des
+Schweizerischen Zivilgesetzbuches im Kanton Glarus vom 7. Mai 1911 (EG
+ZGB) zur Behandlung der vorliegenden Beschwerde zuständig.
+Da auch die übrigen Prozessvoraussetzungen erfüllt
+sind, ist auf die Beschwerde einzutreten.
+1.2
+Der Gegenstand des vorliegenden Verfahrens ist auf
+Disp.-Ziff. 3 des Beschlusses der Beschwerdegegnerin vom 24. Dezember 2013
+beschränkt, wonach die Ernennung von E.______ als Beistand von C.______
+abgelehnt wurde. Soweit sich die Beschwerde gegen die in Disp.-Ziff. 4 des
+angefochtenen Beschlusses vorgenommene Ernennung von F.______ als Beiständin
+richtet, ist das Verfahren als gegenstandslos geworden abzuschreiben, da
+F.______
+am 22. Januar 2014 der Beschwerdegegnerin
+mitteilte,
+dass sie das Amt als
+Beiständin nicht bekleiden werde.
+1.3
+Schliesslich kann dem Antrag der
+Beschwerdegegnerin, die mit Beschluss vom 24. Dezember 2013 eingesetzte
+Beiständin F.______ sei durch G.______ zu ersetzen, nicht entsprochen werden
+kann. Da eine Beistandschaft eng mit der Person des Beistands verbunden ist,
+muss gegen dessen Wahl allfällig betroffenen Parteien ein Rechtsmittel zu
+Verfügung stehen. Würde der Beistand via Beschwerdeantwort ersetzt werden,
+entginge einer betroffenen Person eine Instanz, vor welcher sie Gründe gegen
+die Wahl des neuen Beistands geltend machen könnte. Zudem würde eine betroffene
+Person dadurch direkt in ein kostenpflichtiges Verfahren gedrängt werden, was
+nicht angehen kann. Folglich hat die Beschwerdegegnerin die Einsetzung der Beiständin
+neu zu verfügen. Gegen die entsprechende Verfügung steht der Beschwerdeführerin
+erneut der Rechtsmittelweg offen. Sie ist aber darauf hinzuweisen, dass sie
+dabei das vorliegende Rechtsbegehren – den Antrag auf Ernennung von E.______
+als Beistand – nicht erneut stellen könnte, da das Gericht darüber bereits im
+vorliegenden Verfahren zu urteilen hat.
+2.
+Die
+auf Art. 308 Abs. 1 und Abs. 2 ZGB gestützte Anordnung einer Erziehungsbeistandschaft
+bleibt unbestritten. Uneinig sind sich die Parteien aber über die Person,
+welche das entsprechende Mandat im Anschluss an D.______ übernehmen soll.
+2.1
+Die Beschwerdeführerin bringt vor, dass E.______ ohne Weiteres geeignet
+sei, die Beistandschaft ihrer Tochter zu übernehmen. Der Vorwurf, dass er
+aufgrund einer Bekanntschaft zu ihrer Familie vorbelastet sei und dadurch
+nicht neutral zwischen ihr und dem Beigeladenen vermitteln könne, sei falsch.
+Ihre Mutter habe E.______ mit 17 Jahren etwa drei bis vier Mal gesehen,
+da sie im gleichen Quartier gewohnt und sich anlässlich einzelner
+Festveranstaltungen getroffen hätten. Zudem sei es inakzeptabel einen anderen
+Beistand einzusetzen, wenn mit E.______ bereits eine qualifizierte Person
+vorhanden sei. Es könne nicht angehen, dass hinter ihrem Rücken eine neutrale
+Person eingesetzt werde, sei die Führung der Beistandschaft durch E.______
+doch bereits zugesichert worden. Schliesslich meide der Beigeladene seit
+geraumer Zeit den Kontakt zu seinem Kind und zudem habe er seine monatlichen
+Zahlungen eingestellt. Dies zeige ein mangelndes Interesse am Wohlergehen
+seiner Tochter. Aus all diesen Gründen sei es gerechtfertigt, dass E.______
+mit der Führung der Beistandschaft betraut werde.
+2.2
+Der Beigeladene entgegnet, dass als Beistand nur eine fachlich qualifizierte
+und gegenüber den Eltern neutral auftretende Person in Frage komme. Da nach
+wie vor ein grosses Konfliktpotential zwischen ihm und der Familie der
+Beschwerdeführerin bestehe, dürfe der Beistand keinen privaten Umgang mit
+ihrer Familie pflegen. Vor diesem Hintergrund sei es nämlich äusserst
+schwierig, ein Vertrauensverhältnis zur Beistandsperson aufzubauen. Insgesamt
+müsse daher eine aussenstehende, neutrale Beistandsperson vorgezogen werden.
+2.3
+Die Beschwerdegegnerin führt schliesslich aus, dass die geforderte
+Neutralität von E.______ zur Ausübung des Mandats zwar nicht festgestellt,
+aber auch nicht widerlegt werden könne. Es handle sich vielmehr um ein
+subjektives Empfinden der Eltern, womit es unsinnig sei, eine Lösung zu
+treffen, welche von vornherein auf Ablehnung stosse. Es sei daher an der Wahl
+eines aussenstehenden Beistands festzuhalten. Im Übrigen bringe die
+Beschwerdeführerin keine Einwände gegen die eingesetzte Beiständin (F.______)
+vor. Sie rüge einzig die Nichtwahl von E.______, womit es unerheblich sei,
+dass die eingesetzte Beiständin nun durch eine andere (G.______) ersetzt werde.
+3.
+3.1
+Nach Art. 308 ZGB hat der Beistand die Eltern in
+ihrer Sorge um das Kind mit Rat und Tat zu unterstützen (Abs. 1), wobei ihm
+auch besondere Befugnisse übertragen werden können, namentlich die Vertretung
+des Kindes bei der Wahrung seines Unterhaltsanspruchs und anderer Rechte
+sowie die Überwachung des persönlichen Verkehrs (Abs. 2). Eine
+Besuchsbeistandschaft gemäss Art. 308 Abs. 2 ZGB  hat zum Ziel, den Aufbau
+einer noch kaum bestehenden Beziehung zwischen dem Kind und dem
+Besuchsberechtigten zu fördern. Dabei hat der Beistand bei der Ausgestaltung
+des persönlichen Verkehrs in erster Linie die Interessen des Kindes zu wahren
+und durch sein Handeln dem Kindeswohl bestmöglich Rechnung zu tragen (vgl.
+BGE 131 II 209 E. 4 f.; vgl. auch Art. 314 Abs. 1 ZGB i.V.m. Art. 406 Abs. 1
+ZGB).
+3.2
+Indem die Beschwerdeführerin beantragt, E.______ als
+Beistand anzuerkennen, macht sie sinngemäss eine Ernennung gemäss Art. 314
+Abs. 1 ZGB i.V.m. Art. 401 Abs. 2 ZGB geltend, wonach die Beschwerdegegnerin
+soweit tunlich, Wünsche der Angehörigen oder anderer nahestehender Personen
+zu berücksichtigen hat. Primär hat die Beschwerdegegnerin bei ihrer Wahl aber
+zu prüfen, wie dem Kindeswohl bestmöglich entsprochen wird, wobei sie unter
+anderem zu berücksichtigen hat, dass in der Entwicklung eines Kindes dessen
+Beziehungen zu beiden Elternteilen wichtig sind, weil sie bei der
+Identitätsfindung eine entscheidende Rolle spielen können (vgl. BGE 130
+III 585 E. 2.2.2, mit Hinweisen).
+3.3
+3.3.1
+Der Beigeladene macht geltend, dass E.______ als
+Beistand nicht neutral zwischen den Elternteilen vermitteln würde, was
+insbesondere auch den persönlichen Verkehr mit dem Kind beeinträchtigen
+könnte. Auch die Beschwerdegegnerin erachtet die Neutralität bei E.______
+nicht mit Sicherheit als gegeben. Sie bemerkt jedoch, dass er grundsätzlich
+geeignet wäre, das Amt des Beistands zu bekleiden, was auch aus den Schreiben
+vom 7. August 2013 sowie vom 19. April 2013 hervorgeht. Dieser Wahl steht
+nach Ansicht der Beschwerdegegnerin jedoch die ablehnende Haltung des
+Beigeladenen entgegen.
+3.3.2
+Den Akten lässt sich nicht eindeutig entnehmen, ob
+die Beschwerdeführerin mit E.______ einen privaten Umgang pflegte. Einzig die
+Angaben von E.______ und der Beschwerdeführerin deuten darauf hin, dass die
+Mutter der Beschwerdeführerin ihn von ihrer Jugend her kannte und die
+Beschwerdeführerin ihn anlässlich ihrer Hochzeit kennenlernte (vgl. die Schreiben
+der Beschwerdeführerin vom 5. Mai 2013
+und
+von E.______ vom 7. Mai 2013)
+. Für das
+Bestehen einer Bekanntschaft spricht zudem, dass die Beschwerdeführerin
+mehrfach energisch darauf bestanden hat E.______ als Beistand einzusetzen,
+ohne sich über die von der Beschwerdegegnerin vorgeschlagene Person zu
+äussern. Das Festhalten an diesem Standpunkt kann als Indiz dafür gewertet
+werden, dass sie die entsprechende Person gut kennt, nicht zuletzt weil sie
+ihr das Wohl des eigenen Kindes anvertraut.
+Da der Beigeladene mit der
+Ernennung von E.______ aber ohnehin nicht einverstanden war, ist es nicht zu
+beanstanden, dass die Beschwerdegegnerin dem Antrag der Beschwerdeführerin
+bezüglich des zu ernennenden Beistands nicht entsprach. Würde nämlich durch
+das Einsetzen des Beistands eine Ungleichbehandlung zwischen den Eltern
+resultieren, könnte unter anderem der persönliche Verkehr zwischen dem Beigeladenen
+und dem Kind gestört werden, was wie dargelegt mit dem Kindeswohl nicht
+vereinbar wäre (vgl. vorangehend E. II/3.1 f.). Zudem ist es ein Kernelement
+einer Besuchsbeistandschaft, auf eine beeinträchtigte Kommunikation zwischen
+den Eltern zu Gunsten des Kindes einzuwirken, was wohl nur einem neutralen
+Beistand gelingen dürfte (vgl. etwa BGer-Urteil 5A_586/2012 E. 4.3).
+3.3.3
+An dieser Sachlage vermag die Rüge der
+Beschwerdeführerin, dass der Beigeladene seine Tochter vernachlässige oder
+kein Interesse an ihr zeige, nichts zu ändern. Vielmehr wird dem Wohl des
+Kindes offenkundig besser entsprochen, wenn eine von vornherein als neutral
+eingestufte Person die Führung der Beistandschaft übernimmt, was auch die
+ehemalige Beiständin (D.______) in ihrer Stellungnahme vom 4. Oktober
+2012 bemerkte.
+Zusammenfassend ist
+festzuhalten, dass E.______ unter den besonderen Umständen des vorliegenden
+Falls nicht als geeigneter Beistand qualifiziert werden kann und die
+Beschwerdegegnerin zu Recht eine andere Person für das Amt des Beistands eingesetzt
+hat. Da die Beschwerdeführerin mit ihrem Rechtsbegehren auf Ernennung von
+E.______ als Beistand ihrer Tochter nicht durchdringt, führt dies zur
+Abweisung der Beschwerde.
+III.
+1.
+1.1
+Die Beschwerdegegnerin beantragt sinngemäss die
+Gewährung der unentgeltlichen Prozessführung. Gemäss Art. 139 Abs. 1 VRG
+befreit die Behörde eine Partei, der die Mittel fehlen, um neben dem
+Lebensunterhalt für sich und ihre Familie die Verfahrenskosten aufzubringen,
+auf Gesuch hin ganz oder teilweise von der Kosten- und Vorschusspflicht,
+sofern das Verfahren nicht aussichtslos ist. Der Nachweis der Bedürftigkeit
+obliegt nach Art. 139 Abs. 3 VRG der gesuchstellenden Partei.
+1.2
+Aufgrund der Aktenlage erscheint die
+Mittellosigkeit der Beschwerdeführer als offensichtlich. Zudem kann das
+vorliegende Verfahren nicht als aussichtslos bezeichnet werden, weshalb das
+Gesuch um unentgeltliche Prozessführung gutzuheissen ist.
+2.
+Nach Art. 134 Abs. 1 lit. c VRG hat die Partei, welche im
+Beschwerdeverfahren unterliegt, die amtlichen Kosten zu tragen. Entsprechend
+dem Ausgang des Verfahrens ist der Beschwerdeführerin eine Gerichtsgebühr von
+pauschal Fr. 1'000.- aufzuerlegen. Auf deren Erhebung ist indessen
+zufolge Gewährung der unentgeltlichen Prozessführung einstweilen zu
+verzichten. Die Beschwerdeführerin ist darauf hinzuweisen, dass eine Partei,
+der die unentgeltliche Rechtspflege bewilligt worden ist, für den Fall, dass
+sie später in günstige wirtschaftliche Verhältnisse gelangt, zur Nachzahlung
+der Verfahrenskosten verpflichtet werden kann (Art. 139a VRG).
+Demgemäss beschliesst die Kammer
+:
+1.
+Das
+Gesuch der Beschwerdeführerin um Gewährung der unentgeltlichen Prozessführung
+wird gutgeheissen.
+2.
+Die Nachzahlungspflicht gemäss
+Art. 139a VRG bleibt vorbehalten.
+3.
+Die
+Gerichtskasse wird beauftragt, spätestens im April 2019 zu prüfen, ob die Voraussetzungen
+für die Nachzahlung erfüllt sind.
+und erkennt sodann
+:
+1.
+Die
+Beschwerde wird abgewiesen, soweit das Verfahren nicht als gegenstandslos
+geworden abzuschreiben ist.
+2.
+Der
+Beschwerdeführerin wird eine pauschale Gerichtsgebühr von Fr. 1'000.- auferlegt,
+auf deren Erhebung einstweilen verzichtet wird.
+3.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
