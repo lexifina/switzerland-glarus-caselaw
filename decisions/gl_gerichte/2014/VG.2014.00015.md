@@ -1,0 +1,488 @@
+---
+decision_id: "gl_gerichte_VG.2014.00015"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2014.00015"
+docket_2: "VG.2014.75"
+decided: "2014-05-21"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=278&W10_KEY=218274&nTrefferzeile=5&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/831.20/art-008.md", "switzerland/bund/acts/831.20/art-017.md", "switzerland/bund/acts/831.20/art-022.md", "switzerland/bund/acts/831.20/art-069.md", "switzerland/bund/acts/831.201/art-006.md"]
+---
+
+# GL Gerichte VG.2014.00015
+
+## Regeste
+
+Sozialversicherung - IV
+
+## Text
+
+Glarus Verwaltungsgericht 21.05.2014 VG.2014.00015 (VG.2014.75)
+Glaris Verwaltungsgericht 21.05.2014 VG.2014.00015 (VG.2014.75)
+Glarona Verwaltungsgericht 21.05.2014 VG.2014.00015 (VG.2014.75)
+
+Sozialversicherung - IV
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+21. Mai 2014
+II. Kammer
+in Sachen
+VG.2014.00015
+A.______
+Beschwerdeführerin
+vertreten durch Rechtsanwalt B.______
+gegen
+IV-Stelle Glarus
+Beschwerdegegnerin
+betreffend
+IV-Leistungen
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+A.______, geboren am […], ist gelernte
+kaufmännische Angestellte und arbeitete bis Ende 2011 als Finanzverwalterin
+bei der Gemeinde […]. Ab Oktober 2010 wurde A.______ in Folge einer
+depressiven Störung sowie eines Burnouts krankgeschrieben. Am 18. März 2011
+meldete sie sich bei der IV-Stelle Glarus zum Bezug von Leistungen der
+Invalidenversicherung an. Diese teilte A.______ am 27. September 2011 mit,
+dass berufliche Massnahmen erst nach näherer Abklärung ihres
+Gesundheitszustands geprüft würden.
+1.2
+Am 10. Juli 2012 sprach die IV-Stelle Glarus
+A.______ mit Wirkung ab 1. Oktober 2011 eine bis 29. Februar 2012 befristete
+Viertelsrente zu. Am 24. Juli 2012 stellte sie A.______ die Abweisung ihres
+Begehrens auf Durchführung beruflicher Massnahmen in Aussicht. Dagegen erhob
+A.______ am 11. September 2012 Einwände und beantragte die Übernahme der
+Kosten einer Umschulung. Die von ihr gleichentags gegen die Verfügung vom
+10. Juli 2012 erhobene Beschwerde wies das Verwaltungsgericht am 16. Januar
+2013 ab, soweit es darauf eintrat (VG.2012.00077).
+1.3
+Im September 2012 begann A.______ eine vierjährige
+Ausbildung zur Sozialarbeiterin an der Fachhochschule […]. Am 16. Mai 2013
+sprach ihr die IV-Stelle berufliche Eingliederungsmassnahmen zu. Sie wies
+A.______ darauf hin, dass falls sie berufliche Massnahmen wünsche, sie diese
+schriftlich beantragen könne. Dieser Aufforderung kam A.______ mit Schreiben
+vom 17. Mai 2013 nach.
+1.4
+Die IV-Stelle erliess am 14. August 2013 einen
+neuerlichen Vorbescheid und setzte A.______ über die geplante Abweisung ihres
+Gesuchs um berufliche Massnahmen in Kenntnis. Am 5. September 2013 nahm
+A.______ zur vorgesehenen Leistungsabweisung Stellung und beantragte die
+Zusprechung von beruflichen Massnahmen, insbesondere die Übernahme der Kosten
+der Umschulung. Mit Verfügung vom 24. Januar 2014 verneinte die
+IV-Stelle einen Anspruch auf berufliche Massnahmen.
+2.
+A.______ gelangte am 24. Februar 2014 ans
+Verwaltungsgericht. Sie beantragte, die angefochtene Verfügung abzuändern und
+ihr Massnahmen beruflicher Art, insbesondere eine Umschulung, zuzusprechen.
+Die IV-Stelle sei zu verpflichten, ihr die Kosten der Ausbildung "Fachhochschule
+für soziale Arbeit" zu erstatten und während dieser Umschulung Taggelder
+auszurichten. Eventualiter sei die Sache in Aufhebung der angefochtenen
+Verfügung zu ergänzenden Abklärungen an die Beschwerdegegnerin zurückzuweisen
+oder solche seien selber vorzunehmen; unter Kosten- und Entschädigungsfolgen
+zu Lasten der Beschwerdegegnerin.
+Die IV-Stelle liess sich
+am 27. März 2014 vernehmen und schloss auf Abweisung der Beschwerde.
+II.
+1.
+Das Verwaltungsgericht ist gemäss Art. 69 Abs. 1 lit. a
+des Bundesgesetzes über die Invalidenversicherung vom 19. Juni 1959 (IVG) zur
+Behandlung der vorliegenden Beschwerde zuständig.
+2.
+2.1
+Invalide Versicherte haben Anspruch auf
+Eingliederungsmassnahmen, soweit diese notwendig und geeignet sind, die Erwerbsfähigkeit
+wieder herzustellen, zu erhalten
+oder zu verbessern und die Voraussetzungen für den Anspruch auf die einzelnen
+Massnahmen erfüllt sind (Art. 8 Abs. 1 IVG). Die Eingliederungsmassnahmen
+bestehen unter anderem in Massnahmen beruflicher Art (Berufsberatung,
+erstmalige berufliche Ausbildung, Umschulung, Arbeitsvermittlung,
+Kapitalhilfe; vgl. Art. 8 Abs. 3 lit. b IVG).
+2.2
+Eine versicherte Person hat Anspruch auf Umschulung
+auf eine neue Erwerbstätigkeit, wenn die Umschulung infolge Invalidität
+notwendig ist und dadurch die Erwerbsfähigkeit voraussichtlich erhalten oder
+verbessert werden kann (Art. 17 Abs. 1 IVG). Unter Umschulung ist
+grundsätzlich die Summe der Eingliederungsmassnahmen berufsbildender Art zu
+verstehen, die notwendig und geeignet sind, dem vor Eintritt der Invalidität
+bereits erwerbstätig gewesenen Versicherten eine seiner früheren annähernd
+gleichwertige Erwerbsmöglichkeit zu vermitteln (BGE 130 V 488 E. 4.2; vgl.
+auch Art. 6 Abs. 1 der Verordnung über die Invalidenversicherung
+vom 17. Januar 1961 [IVV]).
+2.3
+Der Umschulungsanspruch setzt eine
+Invalidität oder die unmittelbare Bedrohung durch eine solche voraus (Art. 8
+Abs. 1 IVG). Als invalid im Sinne von Art. 17 IVG gilt, wer nicht hinreichend
+eingegliedert ist, weil der Gesundheitsschaden eine Art und Schwere erreicht
+hat, welche die Ausübung der bisherigen Erwerbstätigkeit ganz oder teilweise
+unzumutbar macht. Dabei muss der Invaliditätsgrad ein bestimmtes erhebliches
+Mass erreicht haben. Dies ist der Fall, wenn die versicherte Person wegen der
+Art und Schwere des Gesundheitsschadens im bisher ausgeübten und in den für
+sie ohne zusätzliche berufliche Ausbildung offen stehenden zumutbaren
+Erwerbstätigkeiten eine bleibende oder längere Zeit dauernde Erwerbseinbusse
+von etwa 20 % erleidet, wobei es sich um einen blossen Richtwert handelt (BGE
+130 V 488 E. 4.2, 124 V 108 E. 2b).
+2.4
+Die IV-Stelle hat eine Umschulung nur
+durchzuführen, wenn diese zur Wiedereingliederung der betroffenen Person in
+den Arbeitsmarkt erforderlich ist. Ist eine versicherte Person bereits in
+zureichender und zumutbarer Weise eingegliedert oder besteht die Möglichkeit,
+ihr ohne zusätzliche Ausbildung einen geeigneten und zumutbaren Arbeitsplatz
+zu vermitteln, so liegt keine invaliditätsbedingte Notwendigkeit für eine
+Umschulung vor (BGer-Urteil 8C_812/2007 vom 6. Oktober 2008 E. 8, I
+160/06 vom 10. Mai 2006 E. 3; Rz. 4013 des Kreisschreibens über die
+Eingliederungsmassnahmen beruflicher Art in der ab 1. Januar 2014
+gültigen Fassung [KSBE]).
+Berufsneigungen
+der betroffenen Person sind zwar zu berücksichtigen, doch können sie für die
+Zumutbarkeit einer geeigneten Tätigkeit nicht ausschlaggebend sein (vgl. Ulrich
+Meyer, Rechtsprechung des Bundesgerichts zum Sozialversicherungsrecht,
+Bundesgesetz über die Invalidenversicherung, 2. A., Zürich/Basel/Genf 2010,
+S. 200). Die Realisierung eines Berufswunsches einer versicherten Person
+macht deren Ausbildungswunsch verständlich, ändert aber nichts daran, dass
+die invalidenversicherungsrechtlichen Anspruchsvoraussetzungen dazu erfüllt
+sein müssen (BGer-Urteil I 849/02 vom 13. Juli 2004 E. 3.2).
+2.5
+Im Weiteren muss sowohl die Umschulung in Bezug auf
+die Wiedereingliederung in die Erwerbstätigkeit als auch die betroffene
+Person in Bezug auf die erfolgreiche Durchführung der Umschulung geeignet
+sein. Es werden demnach eine subjektive und eine objektive
+Eingliederungsfähigkeit vorausgesetzt (vgl. BGer-Urteil I 398/05 vom
+7. Dezember 2005 E. 4; Meyer, S. 200).
+2.6
+Der voraussichtliche Erfolg einer Eingliederungsmassnahme
+muss in einem vernünftigen Verhältnis zu ihren Kosten stehen, womit
+unangemessen teure Ausbildungen vom Anspruch ausgeschlossen sind (vgl.
+BGer-Urteil 8C_812/2007 vom 6. Oktober 2008 E. 9, I 761/05 vom 15. Februar
+2006 E. 3.4). Mit der Umschulung soll dem Versicherten eine seiner
+früheren annähernd gleichwertige Erwerbsmöglichkeit vermittelt werden (vgl.
+dazu oben E. II/2.2). Die annähernde Gleichwertigkeit bezieht sich dabei in
+erster Linie nicht auf das Ausbildungsniveau als solches, sondern auf die
+nach erfolgter Eingliederung zu erwartende Verdienstmöglichkeit. In der Regel
+besteht nur ein Anspruch auf die dem jeweiligen Eingliederungszweck
+angemessenen, notwendigen Massnahmen, nicht aber auf die nach den gegebenen
+Umständen bestmöglichen Vorkehren. Dies deshalb, weil die Eingliederung nach
+dem Willen des Gesetzgebers lediglich so weit sicherzustellen ist, als dies
+im Einzelfall notwendig, aber auch genügend ist. Der Versicherte, der infolge
+Invalidität zu einer Umschulung berechtigt ist, hat Anspruch auf die gesamte
+Ausbildung, die in seinem Fall notwendig ist, damit die Erwerbsfähigkeit
+voraussichtlich erhalten oder wesentlich verbessert werden kann (BGE 124
+V 108 E. 2a, mit Hinweisen). Hinzuweisen ist ferner auf Art. 6 Abs. 1
+bis
+IVV, wonach auch Ausbildungsmassnahmen als Umschulung gelten, die zu einer
+höherwertigen als die vorhandene Ausbildung führen, sofern sie zur Erhaltung
+oder Verbesserung der Erwerbsfähigkeit notwendig sind (vgl. BGer-Urteil
+9C_122/2012 vom 5. Juni 2013 E. 5.2.1).
+2.7
+Das Erfordernis der Gleichwertigkeit als Ausdruck
+der Verhältnismässigkeit steht Umschulungen nicht entgegen, die den
+Versicherten zu einem bescheideneren beruflichen Ziel führen, was in vielen
+Fällen – invaliditätsbedingt – zutreffen dürfte. Erforderlich ist einzig,
+dass sich der erwartete Teilerfolg noch als genügend eingliederungswirksam
+bezeichnen lässt, was wiederum unter dem Gesichtspunkt des
+Verhältnismässigkeitsgrundsatzes von Bedeutung ist. Massgebend ist demnach,
+dass die beabsichtigte Umschulung in einen minderbezahlten Beruf zu einer
+dauerhaften und wesentlichen Verbesserung der Erwerbsfähigkeit führt, wie es
+Art. 17 Abs. 1 IVG ausdrücklich verlangt (BGer-Urteil 9C_244/2010 vom 5.
+August 2010 E. 3.1, mit Hinweis).
+3.
+3.1
+N
+ach dem für das gesamte Verwaltungs- und
+Verwaltungsgerichtsbeschwerdeverfahren geltenden Grundsatz der freien
+Beweiswürdigung haben Versicherungsträger und Sozialversicherungsrichter die
+Beweise frei, d.h. ohne Bindung an förmliche Beweisregeln, sowie umfassend
+und pflichtgemäss zu würdigen. Für das Beschwerdeverfahren bedeutet dies,
+dass das Gericht alle Beweismittel, unabhängig davon, von wem sie stammen,
+objektiv zu prüfen und danach zu entscheiden hat, ob die verfügbaren Unterlagen
+eine zuverlässige Beurteilung des streitigen Rechtsanspruchs
+gestatten.
+Insbesondere darf es bei einander
+widersprechenden medizinischen Berichten den Prozess nicht erledigen, ohne
+das gesamte Beweismaterial zu würdigen und die Gründe anzugeben, warum es auf
+die eine und nicht auf die andere medizinische These abstellt (BGE 125 V 351
+E. 3a).
+3.2
+Es ist Aufgabe des Arztes, sämtliche Auswirkungen einer Krankheit oder eines
+Unfalls auf den Gesundheitszustand der versicherten Person zu beurteilen und
+dazu Stellung zu nehmen, bezüglich welcher konkreten Tätigkeiten und in
+welchem Umfang sie arbeitsunfähig ist. Die ärztlichen Auskünfte sind sodann
+eine wichtige Grundlage für die Beurteilung der Frage, welche
+Arbeitsleistungen der versicherten Person im Hinblick auf ihre persönlichen
+Verhältnisse noch zugemutet werden können (vgl. BGE 125 V 256 E. 4).
+3.3
+Hinsichtlich
+des Beweiswerts eines ärztlichen Gutachtens ist entscheidend, ob es für die
+Beantwortung der gestellten Fragen umfassend ist, auf allseitigen
+Untersuchungen beruht, die geklagten Beschwerden berücksichtigt und sich mit
+diesen sowie dem Verhalten der untersuchten Person auseinandersetzt, was vor
+allem bei psychischen Fehlentwicklungen nötig ist, in Kenntnis der und
+gegebenenfalls in Auseinanderset­zung mit den Vorakten (Anamnese) abgegeben
+worden ist, ob es in der Darlegung der medizinischen Zustände und
+Zusammenhänge einleuchtet, ob die Schlussfolgerungen des medizinischen
+Experten in einer Weise begründet sind, dass die rechtsanwendende Person sie
+prüfend nachvollziehen kann, sowie ob der Experte nicht auszuräumende Unsicherheiten
+und Unklarheiten, welche ihm die Beantwortung der Fragen erschweren, gegebenenfalls
+deutlich macht. Ausschlaggebend für den Beweiswert ist grundsätzlich somit
+weder die Herkunft eines Beweismittels noch die Bezeichnung der eingereichten
+oder in Auftrag gegebenen Stellungnahme als Bericht oder Gutachten,
+sondern dessen Inhalt
+(vgl. BGE 125 V 351 E. 3a)
+.
+3.4
+Dennoch hat es die Rechtsprechung mit dem Grundsatz der
+freien Beweiswürdigung als vereinbar erachtet, in Bezug auf bestimmte Formen
+medizinischer Berichte und Gutachten Richtlinien für die Beweiswürdigung
+aufzustellen. Den im Rahmen des Verwaltungsverfahrens eingeholten Gutachten
+von externen Spezialärzten, welche aufgrund eingehender Beobachtungen und Untersuchungen
+sowie nach Einsicht in die Akten Bericht erstatten und bei der Erörterung der
+Befunde zu schlüssigen Ergebnissen gelangen, ist bei der Beweiswürdigung
+volle Beweiskraft zuzuerkennen, solange nicht konkrete Indizien gegen die
+Zuverlässigkeit der Expertise sprechen (BGE 137 V 210 E. 1.3.4). Dagegen
+entspricht es einer allgemeinen Erfahrung, dass Hausärzte im Hinblick auf
+ihre auftragsrechtliche Vertrauensstellung in Zweifelsfällen eher zu Gunsten
+ihrer Patienten aussagen (Meyer, S. 353).
+3.5
+Die Verwaltung als verfügende Instanz und – im
+Beschwerdefall – der Richter dürfen eine Tatsache nur dann als bewiesen
+annehmen, wenn sie von ihrem Bestehen überzeugt sind. Im
+Sozialversicherungsrecht hat der Richter dabei seinen Entscheid, sofern das
+Gesetz nicht etwas Abweichendes vorsieht, nach dem Beweisgrad der überwiegenden
+Wahrscheinlichkeit zu fällen. Die blosse Möglichkeit eines bestimmten
+Sachverhalts genügt den Beweisanforderungen nicht. Der Richter hat vielmehr
+jener Sachverhaltsdarstellung zu folgen, die er von allen möglichen
+Geschehensabläufen als die wahrscheinlichste würdigt (BGE 119 V 7
+E. 3c/aa).
+4.
+In seinem Entscheid vom
+16. Januar 2013 (VG.2012.00077) hielt das Verwaltungsgericht fest, dass für
+die Festsetzung der Arbeitsfähigkeit der Beschwerdeführerin auf den psychiatrischen
+Untersuchungsbericht des regionalen ärztlichen Dienstes der Invalidenversicherung,
+Dr. med. C.______, Facharzt FMH für Psychiatrie und Psychotherapie, vom 30.
+November 2011 abgestellt werden könne. Es gelangte zum Schluss, dass die Beschwerdeführerin
+für zeitlich flexible Tätigkeiten ohne permanenten Zeit- und Termindruck und
+ohne besonders hohe Anforderungen an das Umstellungs- und Anpassungsvermögen
+in einer wohlwollenden Atmosphäre zu 100 % arbeitsfähig sei. Die bisherige
+Tätigkeit sei mit diesem Profil nicht vereinbar. Den Invaliditätsgrad setzte
+das Gericht mangels Relevanz für den Verfahrensausgang nicht genau fest.
+Unter Annahme eines Abzugs vom Tabellenlohn von 10 % resultierte ein
+Invaliditätsgrad von 28,1 % und bei einem maximal noch vertretbaren
+Abzug von 15 % ein solcher von 32,1 %.
+Für die Berechnung des
+Invalideneinkommens ging das Gericht davon aus, dass aufgrund der Ausbildung
+und der beruflichen Erfahrung der Beschwerdeführerin, der ausgeglichene
+Arbeitsmarkt im Bereich der Finanz- und Versicherungsdienstleistungen auch
+bei einem hohen Anforderungsniveau Stellen bereit halte, die ihrem
+Ressourcen- und Belastungsprofil entsprächen. Trotz
+Gesundheitsbeeinträchtigung sei der Beschwerdeführerin die Erzielung eines
+Einkommens von Fr.
+104'526.15.-
+(Abzug vom Tabellenlohn: 10 %) bzw. von Fr. 98'719.15 (Abzug vom
+Tabellenlohn: 15 %) möglich.
+Im Weiteren führte es aus,
+dass die Beschwerdegegnerin den Rentenanspruch habe prüfen dürfen, ohne zuvor
+berufliche Massnahmen durchzuführen, da bereits im Verfügungszeitpunkt
+festgestanden habe, dass kein rentenbegründender Invaliditätsgrad gegeben
+sei. Dennoch habe die Beschwerdegegnerin beförderlich über das Gesuch um
+Gewährung beruflicher Massnahmen zu entscheiden. Dabei sei zu beachten, dass
+ein Invaliditätsgrad vorliege, welcher der Prüfung beruflicher Massnahmen
+nicht entgegenstehe.
+5.
+5.1
+Die Beschwerdeführerin beantragt die Übernahme der
+Kosten ihrer bereits begonnenen Umschulung zur Sozialarbeiterin FH
+(Fachhochschule für soziale Arbeit) sowie die Ausrichtung von Taggeldern für
+die Umschulungszeit. Aufgrund ihrer gesundheitlichen Beeinträchtigung ist es
+ihr nicht mehr zumutbar, die bisherige Tätigkeit als Finanzverwalterin einer
+Gemeinde auszuüben. Ihr Gesundheitsschaden ist zumindest derart schwer, dass
+sie ohne Umschulung in den ihr noch offen stehenden Erwerbsmöglichkeiten eine
+erhebliche Erwerbseinbusse von 28,1 % bis maximal 32,1 % erleiden würde.
+Unbestritten führt der von ihr angestrebte Beruf nicht zu einem wesentlich
+höheren Verdienst als ihre bisherige Tätigkeit. Die Erwerbsmöglichkeiten nach
+der Umschulung sind somit mit dem Kriterium der annähernden Gleichwertigkeit
+ohne Weiteres zu vereinbaren. Diese sind ausserdem so hoch, dass davon
+ausgegangen werden darf, dass die Beschwerdeführerin nach der Ausbildung zur
+Sozialarbeiterin FH ein hinreichendes Einkommen zur Bestreitung ihres
+Lebensunterhalts haben wird.
+5.2
+Strittig und zu prüfen ist vorliegend vor allem die
+Wirksamkeit und Notwendigkeit der Umschulung. Ferner stellt die
+Beschwerdegegnerin auch deren Eignung in Frage. Die Beschwerdeführerin
+argumentiert, dass sie ihre Ausbildung in einem Teilzeitpensum absolviere.
+Sie habe bereits die erste und die zweite Zwischenprüfung bestanden, sodass
+sie mit dem Hauptstudium beginnen könne. Im Praxismodul I arbeite sie derzeit
+zu rund 70 %, was in etwa der Zeitbelastung während der Schulzeit entspreche.
+Im Finanzdienstleistungssektor bestehe ein sehr hoher Zeit- und Termindruck.
+Realistischer Weise finde sie dort aufgrund ihrer Gesundheitsbeeinträchtigung
+keine Anstellung mehr. Für die Invaliditätsbemessung sei grundsätzlich nicht
+darauf abzustellen, ob sie unter den konkreten Arbeitsmarktverhältnissen
+vermittelt werden könne. Es komme einzig darauf an, ob sie die ihr
+verbliebene Arbeitskraft noch wirtschaftlich nutzen könnte, wenn die
+verfügbaren Arbeitsplätze dem Angebot an Arbeitskräften entsprechen würden.
+Ein Einkommen von Fr. 104'526.10 könne sie im Finanzdienstleistungssektor
+nicht verdienen. Vielmehr sei zu erwarten, dass sie nach der Umschulung als
+Sozialarbeiterin mittelfristig ein Jahreseinkommen im sechsstelligen Bereich
+erreiche. Werde sie aber gezwungen, wieder im Finanzdienstleistungssektor zu
+arbeiten, sei überwiegend wahrscheinlich, dass sie infolge Überforderung
+gesundheitlich einen Rückschlag erleide, wodurch sie langfristig zum
+Rentenfall werde.
+5.3
+Die Beschwerdegegnerin hält dem entgegen, die
+Umschulung führe weder zur Erhaltung noch zu einer Verbesserung der
+Erwerbsfähigkeit. Die Beschwerdeführerin verfüge über eine Vielzahl von
+Möglichkeiten, mit ihrer bisherigen Ausbildung wieder eine Beschäftigung zu
+finden. Es sei deshalb nicht nachvollziehbar, wenn sie behaupte, sie finde
+aufgrund ihres Leidens im kaufmännischen Bereich keine angepasste Tätigkeit
+mehr. Die Beschwerdeführerin wolle die ihr verbleibende Arbeitsfähigkeit nur
+deshalb nicht verwerten, weil sie sich damit nicht mehr identifizieren könne.
+Es sei fraglich, ob sie dem Druck der Ausbildung zur Sozialarbeiterin FH und den
+damit verbundenen wiederkehrenden Prüfungs- und Stresssituationen standhalten
+könne. Zudem werde sie sich auf dem Arbeitsmarkt durchsetzen müssen, was
+ebenfalls mit Druck verbunden sei. Die Beschwerdeführerin sei wohl kaum in
+der Lage, eine berufliche Umschulung mit genügender Erfolgsaussicht in
+Angriff zu nehmen.
+5.4
+Im Zentrum steht vorliegend die Frage, ob die von
+der Beschwerdeführerin in Angriff genommene Umschulung zu einer wesentlichen
+und dauerhaften Verbesserung ihrer Erwerbsmöglichkeiten führt. Es ist zu
+klären, ob der Beschwerdeführerin zumutbare Erwerbstätigkeiten zur Verfügung
+stehen, die im Vergleich zur angestrebten Tätigkeit als Sozialarbeiterin
+einen höheren Verdienst erwarten lassen. Die Selbsteingliederung ist Teil der
+allgemeinen Schadenminderungspflicht und geht dem Umschulungsanspruch vor.
+Massnahmen sind der Beschwerdeführerin zumutbar, wenn sie auch ein vernünftiger
+Mensch in der gleichen Lage ergreifen würde, wenn keinerlei Entschädigung zu
+erwarten wäre. Unzumutbar sind nebst lebens- und gesundheitsgefährdenden
+Massnahmen auch Vorkehren, die der Beschwerdeführerin unter Berücksichtigung
+aller Umstände objektiv betrachtet nicht zugemutet werden können (vgl.
+BGer-Urteil I 594/01 vom 29. Januar 2002 E. 2a).
+Mit der Beschwerdegegnerin
+ist einig zu gehen, dass es der Beschwerdeführerin zumutbar und möglich ist,
+die ihr verbleibende Restarbeitsfähigkeit auf dem Arbeitsmarkt auch ohne
+Umschulung zur Sozialarbeiterin FH zu verwerten. Die Beschwerdeführerin hat eine
+gute Ausbildung genossen und diverse Weiterbildungen absolviert. Sie verfügt
+über jahrelange Berufs- und Führungserfahrung. Entgegen ihrer Ansicht ist es
+nicht unrealistisch, dass sie auf dem Arbeitsmarkt eine Tätigkeit findet, die
+ihrem Leistungsprofil entspricht. Als Absolventin einer kaufmännischen Lehre
+mit anschliessenden Kader-, Gemeinderechnungs- und anderen
+Weiterbildungskursen stehen ihr durchaus Stellen in einer wohlwollenden
+Atmosphäre offen, die keinen permanenten Zeit- und Termindruck beinhalten.
+Den Bedenken der
+Beschwerdeführerin, die Verwertung ihrer Restarbeitsfähigkeit führe zu einem
+gesundheitlichen Rückfall, wurde bereits im verwaltungsgerichtlichen Entscheid
+vom 16. Januar 2013 Rechnung getragen. Gestützt auf die medizinischen Aktenlage
+gelangte das Gericht damals zum Schluss, dass sie in einer Verweisungstätigkeit
+mit den erwähnten Einschränkungen zu 100 % arbeitsfähig sei. Es besteht keine
+Veranlassung, nicht weiterhin darauf abzustellen. Eine der Ausübung von
+angepassten Tätigkeiten entgegenstehende Rückfallgefahr besteht daher nicht.
+Im Übrigen vermag es nicht
+zu überzeugen, wenn die Beschwerdeführerin vorbringt, es sei unrealistisch,
+mit den noch vorhandenen Leistungsmöglichkeiten eine angepasste Tätigkeit
+auszuüben. Als Sozialarbeiterin wird sie zwar weniger Zeitdruck verspüren.
+Sie wird jedoch einiges mehr an Kontakt zu Kunden haben. Diese befinden sich
+nicht selten in einer schwierigen Lebenssituation und hegen ihr gegenüber
+eine grosse Anspruchs- und Erwartungshaltung. Kann die Beschwerdeführerin als
+Sozialarbeiterin FH arbeiten, ist eine Selbsteingliederung weder unzumutbar
+noch unrealistisch. Daran vermag nichts zu ändern, dass sie aus persönlicher
+Überzeugung lieber soziale statt kaufmännische Arbeit leisten möchte. Ihre
+Neigungen stellen keinen sachlich relevanten Grund dar, von der Ausübung
+einer Verweisungstätigkeit im Rahmen der Schadenminderungspflicht dispensiert
+zu werden (vgl. Silvia Bucher, Eingliederungsrecht der Invalidenversicherung,
+Bern 2011, Rz. 752, mit weiteren Hinweisen).
+5.5
+Da der Beschwerdeführerin die Ausübung einer
+angepassten Tätigkeit ohne Umschulung zumutbar und überdies möglich ist, geht
+der von ihr beantragten beruflichen Massnahme die Wirksamkeit ab. Die
+gewünschte Umschulung führt nicht zu einer wesentlichen Verbesserung ihrer
+Erwerbsmöglichkeiten (vgl. BGE 122 V 77 E. 3 b/bb; BGer-Urteil
+9C_244/2010 vom 5. August 2010 E. 3.1, 9C_740/2009 vom 1. März
+2010 E. 3.2, 9C_889/2008 vom 11. September 2009 E. 4.2 f.; Bucher, Rz.
+748 und Rz. 752). Die Beschwerdeführerin bringt vor, mit der Ausbildung
+zur Sozialarbeiterin ein jährliches Einkommen von Fr. 87'000.- erzielen
+zu können. Hierbei stützt sie sich auf die Lohnstrukturerhebung des
+Bundesamtes für Statistik für Personen im Sozialwesen. Sie macht sogar
+geltend, aufgrund ihrer Ausbildung und Erfahrung mittelfristig über
+Fr. 100'000.- verdienen zu können. Im Wesentlichen bestätigt die
+Beschwerdeführerin damit aber das vorinstanzliche Vorbringen, mit den ihr
+noch zumutbaren Erwerbsmöglichkeiten mehr Einkommen generieren zu können, als
+nach Abschluss der Ausbildung zur Sozialarbeiterin. In seinem Entscheid vom
+16. Januar 2013 ging das Gericht denn auch davon aus, dass der
+Beschwerdeführerin die Erzielung eines Invalideneinkommens von mindestens
+Fr. 98'719.15 zumutbar sei. Sodann lässt die Beschwerdeführerin aussen
+vor, dass sich ihr Lohn auch in angepassten Tätigkeiten im kaufmännischen-
+und im Finanzdienstleistungssektor aufgrund ihrer Ausbildung und Erfahrung
+nach oben anpassen wird. Da sie in dieser Branche über ein grosses Know-How
+verfügt, dürfte dies in weit grösserem Umfang der Fall sein, als in Bezug auf
+ihre neue Erwerbstätigkeit als Sozialarbeiterin FH.
+5.6
+Selbst wenn jedoch angenommen würde, die
+Beschwerdeführerin könne mit der Umschulung ihre Erwerbsmöglichkeiten dauernd
+und wesentlich verbessern, fehlt es an der Notwendigkeit der beruflichen
+Massnahme. Die Beschwerdeführerin ist bereits hinreichend eingegliedert. Eine
+prognostische Erwerbseinbusse von 32,1 % begründet für sich allein genommen
+noch keine Notwendigkeit für eine Umschulung, zumal die Beschwerdeführerin
+keinen Anspruch darauf hat, wieder gleich viel zu verdienen wie in der
+bisherigen Tätigkeit. Von einer Diskriminierung der Beschwerdeführerin als ehemals
+gut Verdienende kann dabei zumindest solange nicht gesprochen werden, als ihr
+ein allfälliger Minderverdienst wie vorliegend zumutbar ist.
+6.
+6.1
+Bei dieser Ausgangslage ist nicht ersichtlich, dass
+die Umschulung zur Sozialarbeiterin FH im Vergleich zu den ihr noch
+zumutbaren Tätigkeiten im kaufmännischen Bereich zu einer dauerhaften und
+wesentlichen Verbesserung der Erwerbsmöglichkeiten führt. Die berufliche
+Massnahme ist daher unwirksam und folglich nicht notwendig. Die mit Verfügung
+vom 24. Januar 2014 erfolgte Abweisung des Begehrens durch die Beschwerdegegnerin
+erfolgte zu Recht. Entsprechend stehen der Beschwerdeführerin keine Taggelder
+zu (vgl. Art. 22 Abs. 1 IVG). Die Beschwerde ist abzuweisen.
+6.2
+Obwohl der Umschulung zur Sozialarbeiterin FH weder
+die subjektive noch – wird sie nicht im Sinne von Wirksamkeit verstanden –
+die objektive Eignung abgesprochen werden kann, ist darauf mangels
+Wirksamkeit und Notwendigkeit der Massnahme nicht weiter einzugehen. Offen
+gelassen werden kann weiter, ob die Kosten der Umschulung in einem angemessenen
+Verhältnis zum erwarteten Erfolg der Umschulung stehen. Schliesslich bleibt
+zu erwähnen, dass vorliegend der Grundsatz der Austauschbefugnis nicht
+herangezogen werden kann. Die Übernahme eines Teils der Umschulungskosten
+durch die Beschwerdegegnerin wäre nur dann angezeigt, wenn die Beschwerdeführerin
+einen substitutionsfähigen aktuellen gesetzlichen Leistungsanspruch vorweisen
+könnte (vgl. BGE 120 V 288 E. 3c, 120 V 280 E. 4a). Die Beschwerdeführerin
+hat aber nicht etwa nur eine Umschulung gewählt, die schlicht zu teuer
+gewesen wäre. Wie erwähnt, vermag die beantragte berufliche Massnahme keine
+erfolgsrelevanten Wirkungen zu verzeichnen. Zudem ist die Beschwerdeführerin
+nicht auf eine Umschulung angewiesen, um die ihr verbleibende
+Restarbeitsfähigkeit noch auszunützen. Eine austauschbare Leistung liegt
+somit nicht vor.
+III.
+Nach Art. 134 Abs. 1 lit.
+c des Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986 (VRG) i.V.m.
+Art. 69 Abs. 1
+bis
+IVG hat die Partei, welche im Beschwerdeverfahren
+unterliegt, die amtlichen Kosten zu tragen. Entsprechend dem Ausgang des Verfahrens
+ist der Beschwerdeführerin eine Gerichtsgebühr von pauschal Fr. 600.-
+aufzuerlegen, die mit dem bereits geleisteten Kostenvorschuss in gleicher
+Höhe zu verrechnen ist. Eine Parteientschädigung ist nicht zuzusprechen
+(Art. 61 lit. g des Bundesgesetzes über den Allgemeinen
+Teil des Sozialversicherungsrechts vom 6. Oktober 2000 [ATSG]
+e contrario).
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Der
+Beschwerdeführerin wird eine pauschale Gerichtsgebühr von Fr. 600.- auferlegt,
+die mit dem bereits geleisteten Kostenvorschuss in gleicher Höhe verrechnet
+wird.
+3.
+Eine Parteientschädigung wird nicht
+zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
