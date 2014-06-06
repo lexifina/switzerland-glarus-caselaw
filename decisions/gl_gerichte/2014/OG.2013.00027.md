@@ -1,0 +1,379 @@
+---
+decision_id: "gl_gerichte_OG.2013.00027"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2013.00027"
+docket_2: "OGZ.2014.89"
+decided: "2014-06-06"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=338&W10_KEY=218274&nTrefferzeile=4&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/210/art-002.md", "switzerland/bund/acts/220/art-621.md", "switzerland/bund/acts/220/art-706.md", "switzerland/bund/acts/220/art-725.md", "switzerland/bund/acts/220/art-732.md", "switzerland/bund/acts/220/art-732a.md", "switzerland/bund/acts/272/art-095.md", "switzerland/bund/acts/272/art-405.md"]
+---
+
+# GL Gerichte OG.2013.00027
+
+## Regeste
+
+Anfechtung von Beschlüssen der Generalversammlung
+
+## Text
+
+Glarus Obergericht 06.06.2014 OG.2013.00027 (OGZ.2014.89)
+Glaris Obergericht 06.06.2014 OG.2013.00027 (OGZ.2014.89)
+Glarona Obergericht 06.06.2014 OG.2013.00027 (OGZ.2014.89)
+
+Anfechtung von Beschlüssen der Generalversammlung
+
+Kanton Glarus
+Obergericht
+Urteil
+vom 6. Juni 2014
+Verfahren
+OG.2013.00027
+B.______ AG                                                                             Beklagte
+und
+Berufungsklägerin
+vertreten
+durch D.______
+gegen
+A.______ GMBH                                                                       Klägerin
+und
+Berufungsbeklagte
+vertreten
+durch C.______
+betreffend
+Anfechtung
+von Beschlüssen der Generalversammlung
+Rechtsbegehren de
+r
+Berufungskläger
+in
+(gemäss Eingabe vom 23. Mai
+2013):
+„1.
+Ziff. 5-7 des
+Urteilsdispositivs [Entscheid des Kantonsgerichts vom 18. März 2013 im
+Verfahren ZG.2010.01020] seien aufzuheben, und die Klage sei voll­umfänglich
+abzuweisen.
+2.
+Ziff. 9 des
+Urteilsdispositivs sei aufzuheben, und es seien die Gerichtskosten des
+erstinstanzlichen Verfahrens der Berufungsbeklagten aufzuerlegen.
+3.
+Ziff. 10 des
+Urteilsdispositivs sei aufzuheben, und es sei die Berufungsbeklagte zu
+verpflichten, der Berufungsklägerin für das erstinstanzliche Verfahren eine
+angemessene Parteientschädigung zu bezahlen.
+4.
+Eventualiter sei die Sache zur
+neuen Beurteilung an die Vorinstanz zurückzuwei­sen.
+5.
+Unter Kosten- und
+Entschädigungsfolgen zu Lasten der Berufungsbeklagten.“
+Antrag de
+r
+Berufungsbeklagten
+(gemäss Eingabe vom 16. September 2013):
+„1.
+Die Berufung sei vollumfänglich
+abzuweisen.
+2.
+Unter Kosten- und
+Entschädigungsfolge zu Lasten der Beklagten und Berufungs­klägerin (sowohl
+für das vorinstanzliche als auch für das Berufungs­verfahren).“
+____________________
+Das Gericht
+zieht in Betracht:
+I.
+1.—
+a)
+Die in [...]
+domizilierte B.______ AG verfügt seit März 2006 über ein Aktienkapital von
+Fr. 1‘300‘000.-, eingeteilt in 1‘300 Namenak­tien à Fr. 1‘000.-.
+Per 31. August 2010 waren im Aktienbuch der Gesellschaft als Aktionäre
+eingetragen:
+[...]
+850 Namenaktien
+A.____ GMBH
+450 Namenaktien
+b)
+Anlässlich der
+ordentlichen Generalversammlung der B.______ AG vom 24. Juni 2010 wies
+die Revisionsstelle darauf hin, dass die Gesell­schaft eine „Unterbilanz“
+gemäss Art. 725 Abs. 1 OR aufweise und deshalb Sanie­rungsmassnahmen
+einzuleiten seien.
+c)
+Am 30. Juli 2010
+fand eine ausserordentliche Generalversammlung der B.______ AG statt. Dabei
+scheiterte die vom Verwaltungsrat bean­tragte Herabsetzung des bestehenden
+Aktienkapitals von Fr. 1,3 Mio. auf Null mit anschliessender
+Erhöhung auf neu Fr. 1,8 Mio. an dem dafür gesetzlich und statuta­risch
+vorgesehenen Zustimmungsquorum.
+d)
+Am 31. August 2010
+hielt die B.______ AG eine nächste ausserordentliche Generalversammlung ab.
+Diesmal beschlossen die Aktionäre mit 850 Ja zu 450 Nein, das Aktienkapital
+von Fr. 1,3 Mio. zunächst auf Null herabzu­setzen und umgehend wieder
+auf Fr. 1,3 Mio. zu erhöhen. Die neuen Aktien zum Nennwert und
+Ausgabepreis von je Fr. 1‘000.- sollten entweder in „bar oder durch
+Verrechnung mit verrechenbaren Aktionärsdarlehen und anderen verrechenbaren
+Forderungen gegenüber der Gesellschaft“ liberiert werden.
+2.—
+Noch am
+31. August 2010 erhob die A.______ GMBH beim Handelsre­gisteramt des
+Kantons Glarus schriftlich Einspruch im Sinne von Art. 162 Abs. 1
+HRegV gegen „bereits angemeldete oder noch anzumeldende Eintragungen im
+Handelsregister bezüglich der B.______ AG, insbesondere gegen die Eintragung
+einer Herabsetzung des bestehenden Aktienkapitals der B.______ AG von
+CHF 1‘300‘000.- auf CHF 0.- und einer unmittelbar anschliessenden
+ordentlichen Erhöhung des Aktienkapitals um CHF 1‘300‘000.- von
+CHF 0.- auf CHF 1‘300‘000.-“.
+3.—
+a)
+Mit Eingabe
+vom 2. September 2010 gelangte die A.______ GMBH an das Kantonsgerichtspräsidium
+und beantragte, es sei im Rahmen vorsorglicher Massnahmen der B.______ AG zu
+verbieten, die beschlossene Herabsetzung und Wiedererhöhung des
+Aktienkapitals zu vollziehen; eventualiter sei die Rekapitalisierung
+zuzulassen, sofern die Liberierung der neuen Aktien aus­schliesslich in bar
+erfolgt und nicht auf andere Weise, beispielsweise durch Ver­rechnung von
+Forderungen.
+b)
+Mit Verfügung vom 27.
+Mai 2011 wies der Präsident des Kantonsgerichts das Begehren der A.______
+GMBH um Erlass vorsorglicher Massnahmen ab. Das Obergericht bestä­tigte
+diesen Entscheid am 9. Dezember 2011.
+4.—
+a)
+Die A.______ GMBH erhob schliesslich am
+17. November 2010 beim Kantonsgericht Klage gegen die B.______ AG. Dabei
+focht sie Beschlüsse der ordentlichen Generalversammlung vom 24. Juni
+2010 an.
+b)
+Am 11. Dezember
+2010 machte die A.______ GMBH beim Kantonsgericht eine weitere Klage gegen
+die B.______ AG anhängig. Darin wandte sie sich gegen den an der
+ausserordentlichen Generalversammlung vom 31. August 2010 beschlossenen
+Kapitalschnitt.
+c)
+Am 18. März 2013
+befand das Kantonsgericht über beide Klagen in einem Entscheid: Es wies dabei
+die gegen die Beschlüsse der ordentlichen Generalver­sammlung vom
+24. Juni 2010 gerichtete Klage ab und auferlegte die damit im
+Zusammenhang stehenden Prozesskosten der A.______ GMBH. Demgegenüber hiess es
+die zweite Klage der A.______ GMBH hinsichtlich der Beschlüsse der
+ausserordentlichen Generalversammlung der B.______ AG vom 31. August
+2010 vollumfänglich gut. Das Kan­tonsgericht hob die an jener Versammlung
+beschlossene Herabsetzung und anschliessende Wiedererhöhung des
+Aktienkapitals rückwirkend auf, hielt sodann fest, dass damit ebenso die
+darauf beruhenden Beschlüsse des Verwaltungsrats vom 15. Februar 2012
+hinfällig würden, und wies sodann das Handelsregisteramt des Kantons Glarus
+an, alle Registereinträge rückgängig zu machen, welche auf die aufgehobenen
+Generalversammlungs-Beschlüsse zurückgehen. Die Kosten in Bezug auf die
+Erledigung der zweiten Klage auferlegte das Kantonsgericht der B.______ AG
+und ver­pflichtete diese zudem zur Bezahlung einer Parteientschädigung
+zugunsten der A.______ GMBH.
+5.—
+a)
+In der Folge
+erhob die B.______ AG am 23. Mai 2013 fristgerecht Berufung beim
+Obergericht. Sie verlangt darin im Hauptstand­punkt, die gegen die Beschlüsse
+der ausserordentlichen Generalversammlung gerichtete (zweite) Klage der A.______
+GMBH sei ebenfalls abzuweisen; eventua­liter sei die Sache zur Neubeurteilung
+an die Vorinstanz zurückzuweisen. Die A.______ GMBH beantragt in ihrer
+Berufungsantwort vom 16. September 2013 die vollumfängliche Abweisung
+der Berufung. Am 25. September 2013 hat die B.______ AG eine
+Replikschrift eingereicht.
+b)
+Insoweit das
+Kantonsgericht die erste Klage der A.______ GMBH gegen die Beschlüsse der
+ordentlichen Generalversammlung der B.______ AG vom 24. Juni 2010
+abgewiesen hat, ist dieser Entscheid unangefochten in Rechtskraft erwachsen.
+II.
+Am 1. Januar
+2011
+ist die eidgenössische Zivilprozessordnung (ZPO) in Kraft getreten und hat die
+bis dahin geltenden kantonalen Prozessgesetze abgelöst (AS 2010
+S. 1836). Für die Rechtsmittel gilt das Recht, das bei Erlass des
+weiterge­zogenen Entscheids in Kraft stand (Art. 405 Abs. 1 ZPO).
+Der vorliegend angefoch­tene Entscheid des Kantonsgerichts datiert vom
+18. März 2013, weshalb für das Rechtsmittelverfahren die schweizerische
+Zivilprozessordnung massgeblich ist.
+III.
+1.—
+a)
+Das
+Aktienkapital einer AG beträgt mindestens Fr. 100‘000.- (Art. 621
+OR). Es darf im Rahmen einer Kapitalherabsetzung nur unter Fr. 100'000.-
+herab­gesetzt werden, sofern es gleichzeitig durch neues, voll
+einzubezahlendes Kapital in der Höhe von mindestens Fr. 100‘000.-
+ersetzt wird (Art. 732 Abs. 5 OR). Wird das Aktienkapital im Rahmen
+einer Kapitalherabsetzung bis auf Null herabgesetzt und anschliessend wieder
+um den gleichen Betrag erhöht, spricht man von einem "Kapitalschnitt auf
+Null". Art. 732a OR sieht einen Kapitalschnitt auf Null mit
+anschliessender Wiedererhöhung zum Zwecke der Sanierung explizit vor. Dabei
+gehen die bisherigen Mitgliedschaftsrechte der Aktionäre unter und
+ausgegebene Aktien müssen vernichtet werden (Art. 732a Abs. 1 OR).
+Den bisherigen Aktionären steht jedoch bei der Wiedererhöhung des
+Aktienkapitals ein vorbehaltloses Bezugs­recht zu (Art. 732a Abs. 2
+OR). Das Bundesgericht hat in BGE 138 III 204 unmiss­verständlich
+klargestellt, dass die Möglichkeit eines Kapitalschnitts auf Null gemäss Art.
+732a Abs. 1 OR auf Fälle beschränkt ist, in denen die Kombination einer
+Kapi­talherabsetzung mit einer Kapitalerhöhung dem Zwecke der Sanierung dient
+(a.a.O. E. 3.2. S. 208 f.).
+b)
+Der Verwaltungsrat und
+jeder Aktionär können Beschlüsse der Generalver­sammlung, die gegen das
+Gesetz oder die Statuten verstossen, beim Richter mit Klage gegen die Gesellschaft
+anfechten (Art. 706 Abs. 1 OR).
+2.—
+Die Vorinstanz
+begründet die Gutheissung der Klage betreffend die Aufhe­bung der Beschlüsse
+der Generalversammlung vom 31. August 2010 im Wesentli­chen wie folgt:
+Mit dem vom Verwaltungsrat
+vorgeschlagenen Sanierungskonzept hätte die Berufungsklägerin neu über
+Aktiven von insgesamt Fr. 4‘517‘118 verfügt; demge­genüber hätte die
+Höhe des Fremdkapitals unverändert Fr. 4‘592‘193.- betragen. Deshalb
+hätte die Sanierungsmassnahme die Überschuldung der Gesellschaft lediglich
+verringert, jedoch nicht vollständig beseitigt. Da ein Überschuss des
+Fremdkapitals über die Aktiven in der Höhe von Fr. 75‘075.-
+weiterbestanden hätte, wäre der Verwaltungsrat verpflichtet gewesen,
+zusätzlich zum Kapitalschnitt der Generalversammlung weitere
+Sanierungsmassnahmen zur Bilanzbereinigung vor­zulegen. Dies habe er an der
+ausserordentlichen Generalversammlung vom 31. August 2010 in
+pflichtwidriger Weise nicht getan; er habe sich vielmehr damit begnügt, die
+an der ausserordentlichen Generalversammlung vom 30. Juli 2010 zusammen
+mit dem damals vorgeschlagenen, aber nicht bewilligten Kapitalschnitt,
+vorgelegten Massnahmen umzusetzen. Diese Massnahmen seien aber von vornhe­rein
+nicht zur Beseitigung einer Überschuldung oder einer Unterbilanz geeignet
+gewesen, da keine Bilanzbereinigung erfolgt sei. Der angefochtene
+Kapitalschnitt erweise sich deshalb aufgrund des Verstosses gegen
+Art. 732a OR als gesetzeswidrig im Sinne von Art. 706 Abs. 1
+OR.
+3.—
+Die B.______ AG rügt
+in ihrer Berufung, die Vorinstanz habe das Recht unrichtig angewendet.
+Die geplante Harmonika habe dem
+Zwecke der Sanierung gedient: so sei die Überschuldung durch den
+Kapitalschnitt nahezu vollständig beseitigt worden; die Überschuldung hätte
+gerade noch rund Fr. 75‘000.- betragen, wenn der Jahresab­schluss 2009
+als Referenzgrösse herangezogen werde. Die Vorinstanz habe die Anforderungen
+an den Kapitalschnitt im Sinne von Art. 732a OR zu hoch angesetzt, wenn
+sie bei dieser Ausgangslage das Vorliegen eines Sanierungs­zwecks verneint
+habe. Bei der B.______ AG handle es sich nämlich um eine grund­sätzlich
+erfolgreich operierende Gesellschaft, welche in eine leichte finanzielle
+Schieflage geraten sei.
+Aber selbst wenn der geplante
+Kapitalschnitt allein noch keine vollständige Sanierung bewirkt hätte, so
+wäre dieses Ziel jedenfalls zusammen mit den vom Verwaltungsrat zusätzlich
+vorgesehenen Sanierungsmassnahmen erreicht worden und hätte deshalb der
+beschlossene Kapitalschnitt als zulässig qualifiziert werden müssen. Ohnehin
+habe die Vorinstanz den vom Verwaltungsrat vorgeschlagenen
+Sanierungsmassnahmen zu Unrecht die Sanierungseignung abgesprochen. Über­haupt
+stelle die Vorinstanz zu hohe Anforderungen an die Sanierungsmassnahmen, wenn
+sie strikte verlange, dass es sich dabei um „bilanzbereinigende“ Massnahmen
+handeln müsse. Andererseits übersehe sie, dass nicht wenige der
+vorgeschlagenen Massnahmen sich unmittelbar und kurzfristig auf die Bilanz
+der B.______ AG auswirkten.
+Schliesslich vertritt die
+Berufungsklägerin die Auffassung, die A.______ GMBH könne sich im Lichte des
+Rechtsmissbrauchsverbots gemäss Art. 2 Abs. 2 ZGB gar nicht auf die
+Ungültigkeit der Beschlüsse der Generalversammlung vom 31. August 2010
+berufen. Denn die A.______ GMBH unternehme „alles, um die Sanierung der Beklagten
+[B.______ AG] zu verhindern“ und sei „offenbar auch nicht bereit, bei der
+Sanierung der Beklagten mitzuhelfen“, weshalb das Verhalten der A.______ GMBH
+keinen Rechtsschutz verdiene.
+4.—
+a)
+Die
+Möglichkeit eines Kapitalschnitts auf Null ist gemäss Art. 732a OR auf
+Fälle beschränkt, in denen die Kombination einer Kapitalherabsetzung mit
+einer Kapitalerhöhung dem Zwecke der Sanierung dient. Vorausgesetzt ist
+mithin eine Sanierungsbedürftigkeit der Gesellschaft, wie sie bei einer
+Überschuldung im Sinne von Art. 725 Abs. 2 OR vorliegt
+(BGE 138 III 204 E. 3.2 S. 208).
+Gemäss Feststellung der
+Vorinstanz wies die Jahresrechnung 2009 der B.______ AG Aktiven von insgesamt
+Fr. 3‘217‘118.- und Fremdkapital von insgesamt Fr. 4‘592‘193.- auf.
+Das Vermögen deckte somit das Fremdkapital der Gesellschaft bei weitem nicht
+mehr, weshalb die Gesellschaft überschuldet und da­mit sanierungsbedürftig
+war. Mit der Vorinstanz ist davon auszugehen, dass selbst eine Herabsetzung
+des Aktienkapitals auf Null mit einer anschliessenden Wiedererhöhung auf
+Fr. 1,3 Mio. nicht zu einer vollständigen Beseitigung der
+Überschuldung der Gesellschaft geführt hätte. Entgegen der Ansicht der
+Berufungsklägerin hat die Vorinstanz keinen zu strengen Massstab angelegt,
+wenn sie ausführt, der Verwaltungsrat hätte anlässlich der zweiten aus­serordentlichen
+Generalversammlung vom 31. August 2010 neben dem Kapital­schnitt weitere
+Sanierungsmassnahmen vorschlagen müssen. Die B.______ AG hätte mit dem
+Kapitalschnitt alleine nämlich noch nicht vollständig saniert werden können,
+wäre doch in der Bilanz noch immer ein Fehlbetrag in der Höhe von
+Fr. 75‘075.- verblieben. Dabei kann offen bleiben, ob es sich bei der
+Berufungsklägerin tatsächlich um eine grundsätzlich erfolgreich operierende
+Gesell­schaft handelt. Jedenfalls weist der Umstand, dass anfänglich
+erfolglos eine Erhö­hung des Aktienkapitals auf Fr. 1,8 Mio.
+angestrebt wurde, darauf hin, dass ebenso aus Sicht der Berufungsklägerin ein
+bedeutend höherer Kapitalbedarf bestanden hätte als mit der schliesslich
+beschlossenen Harmonika auf lediglich Fr. 1,3 Mio. erreicht werden
+konnte.
+b)
+Nach zutreffender
+Feststellung der Vorinstanz legte der Verwaltungsrat der Berufungsklägerin an
+der zweiten ausserordentlichen Generalversammlung vom 31. August 2010
+keine weiteren Sanierungsmassnahmen vor. Mit der Vorinstanz ist davon
+auszugehen, dass diese Unterlassung pflichtwid­rig erfolgt ist. Entgegen der
+Ansicht der Berufungsklägerin bedeutet der Standpunkt der Vorinstanz keinen
+überspitzten Formalismus, wären doch gerade zusätzliche Massnahmen nötig
+gewesen, um überhaupt eine wirksame Sanierung der Gesell­schaft zu
+bewerkstelligen.
+Ebenfalls ist der Vorinstanz
+darin beizupflichten, dass die Sanierungs­mass­nahmen, welche der ersten
+Generalversammlung vom 30. Juli 2010, nicht aber der hier massgeblichen
+zweiten Generalversammlung am 31. August 2010, vorgelegt wurden, ohnehin
+nicht genügend effektiv gewesen wären. Auf die zutreffenden Erwägungen des
+Kantonsgerichts kann an dieser Stelle verwiesen werden.
+c) Soweit die Berufungsklägerin
+vorträgt, die A.______ GMBH verhalte sich mit ihrer Klage
+rechtsmissbräuchlich, kann ihr nicht gefolgt werden. Die A.______ GMBH macht
+vorliegend Rechte geltend, welche ihr als Aktionärin der B.______ AG
+zustehen. Es ist nicht ersichtlich, was daran rechtsmiss­bräuchlich sein
+soll, wenn ein Gesellschafter sich einem Kapitalschnitt widersetzt, der nicht
+den gesetzlichen Anforderungen entspricht.
+IV.
+1.—
+Zusammenfassend ist
+festzuhalten, dass die Berufung abzuweisen ist. Dem Verfahrensausgang
+entsprechend sind die Gerichtskosten der Berufungs­klä­gerin aufzuerlegen,
+welche überdies zu verpflichten ist, der Berufungsbeklagten eine angemessene
+Parteientschädigung zu bezahlen (Art. 106 Abs. 1 i.V.m.
+Art. 95 Abs. 1 ZPO).
+2.—
+Nach
+bundesgerichtlicher Rechtsprechung sind Klagen auf Anfechtung von
+Generalversammlungsbeschlüssen einer Aktiengesellschaft vermögensrechtlicher
+Natur. Für die Bemessung des Streitwertes ist dabei nicht das persönliche
+Interesse des anfechtenden Aktionärs, sondern das Gesamtinteresse der
+Gesellschaft mass­gebend (Urteil des Bundesgerichts 4C.88/2000 vom
+27. Juni 2000, E. 4.b mit Hin­weisen). Der Streitwert beträgt
+folglich Fr. 1,3 Mio.
+____________________
+Das Gericht
+erkennt
+:
+1.
+Die Berufung gegen den Entscheid des Kantonsgerichts
+Glarus vom 18. März 2013 im Verfahren ZG.2010.01020  wird abgewiesen.
+2.
+Die Gerichtsgebühr für das Berufungsverfahren von
+Fr. 20‘000.- wird der Beru­fungsklägerin auferlegt und von ihr
+bezogen,
+unter Verrechnung mit dem von ihr geleisteten
+Kostenvorschuss.
+3.
+Die Berufungsklägerin wird verpflichtet, der
+Berufungsbeklagten für das Beru­fungsverfahren eine Parteientschädigung von
+Fr. 15‘000.- zu bezahlen.
+4.
+Schriftliche
+Mitteilung an:
+[...]
