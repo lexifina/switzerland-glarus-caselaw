@@ -1,0 +1,236 @@
+---
+decision_id: "gl_gerichte_VG.2014.00039"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2014.00039"
+docket_2: "VG.2014.87"
+decided: "2014-06-18"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=292&W10_KEY=218274&nTrefferzeile=3&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-025.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/837.0/art-001.md", "switzerland/bund/acts/837.0/art-023.md", "switzerland/bund/acts/837.0/art-095.md", "switzerland/bund/acts/837.02/art-037.md"]
+---
+
+# GL Gerichte VG.2014.00039
+
+## Regeste
+
+Sozialversicherung - Arbeitslosenversicherung
+
+## Text
+
+Glarus Verwaltungsgericht 18.06.2014 VG.2014.00039 (VG.2014.87)
+Glaris Verwaltungsgericht 18.06.2014 VG.2014.00039 (VG.2014.87)
+Glarona Verwaltungsgericht 18.06.2014 VG.2014.00039 (VG.2014.87)
+
+Sozialversicherung - Arbeitslosenversicherung
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+18. Juni 2014
+II. Kammer
+in Sachen
+VG.2014.00039
+A.______
+Beschwerdeführer
+gegen
+Amt für Wirtschaft und Arbeit des Kantons
+Glarus
+Beschwerdegegner
+betreffend
+Rückerstattung Arbeitslosenentschädigung
+Die Kammer zieht in Erwägung:
+I
+.
+1.
+1.1
+A.______ arbeitete bis am 31. Juli 2013
+bei der B.______ als Lehrperson. Nach Beendigung des befristeten
+Arbeitsverhältnisses meldete er sich am 31. Juli 2013 beim Regionalen
+Arbeitsvermittlungszentrum (RAV) in Glarus zum Bezug von Leistungen der
+Arbeitslosenversicherung ab 1. August 2013 an. In der Folge zahlte
+das Amt für Wirtschaft und Arbeit des Kantons Glarus ausgehend von einem
+versicherten Verdienst von Fr. 9'709.- pro Monat A.______ ab August 2013
+eine Arbeitslosenentschädigung aus.
+1.2
+Das Amt für Wirtschaft und Arbeit wurde Ende Januar
+2014 durch das Staatssekretariat für Wirtschaft SECO inspiziert. Dabei stellte
+das SECO fest, das Amt für Wirtschaft und Arbeit sei bei der Berechnung der
+Arbeitslosenentschädigung an A.______ fälschlicherweise von einem zu hohen
+versicherten Verdienst ausgegangen und wies darauf hin, dass der korrekte
+versicherte Verdienst Fr. 9'517.- pro Monat betrage.
+2.
+Mit Verfügung vom
+4. März 2014 setzte das Amt für Wirtschaft und Arbeit den versicherten
+Verdienst auf Fr. 9'517.- pro Monat fest und forderte von A.______ aufgrund
+der zu viel ausbezahlten Leistungen den Betrag von Fr. 962.55 zurück.
+Die am 14. März 2014 und am 17. März 2014 von ihm dagegen
+erhobene Einsprache wies das Amt für Wirtschaft und Arbeit am
+9. April 2014 ab.
+3.
+Am 14. Mai 2014
+gelangte A.______ mit Beschwerde ans Verwaltungsgericht und beantragte
+sinngemäss die Aufhebung sowohl der Verfügung vom 4. März 2014 als
+auch des Einspracheentscheids des Amts für Wirtschaft und Arbeit vom
+9. April 2014.
+Das Amt für Wirtschaft und
+Arbeit schloss am 27. Mai 2014 auf Abweisung der Beschwerde.
+II
+.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 56 und Art. 57 des Bundesgesetzes über den Allgemeinen
+Teil des Sozialversicherungsrechts vom 6. Oktober 2000 (ATSG) i.V.m.
+Art. 12 Abs. 2 des Einführungsgesetzes zum Bundesgesetz über
+die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung
+vom 6. Mai 1984 (EG AVIG) zur Behandlung der vorliegenden
+Beschwerde zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt
+sind, ist auf die Beschwerde einzutreten.
+2.
+Nach
+Art. 22 Abs. 1 des Bundesgesetzes über die obligatorische
+Arbeitslosenversicherung und die Insolvenzentschädigung vom
+25. Juni 1982 (AVIG) beträgt ein volles Taggeld 80 Prozent des
+versicherten Verdienstes. Als versicherter Verdienst gilt nach
+Art. 23 Abs. 1 AVIG der im Sinne der AHV-Gesetzgebung
+massgebende Lohn, der während eines Bemessungszeitraums aus einem oder
+mehreren Arbeitsverhältnissen normalerweise erzielt wurde; eingeschlossen
+sind die vertraglich vereinbarten regelmässigen Zulagen, soweit sie nicht
+Entschädigung für arbeitsbedingte Inkonvenienzen darstellen. Aus dieser
+gesetzlichen Umschreibung ergibt sich, dass der versicherte Verdienst an den
+massgebenden Lohn im Sinne von Art. 5 Abs. 2 des Bundesgesetzes
+über die Alters- und Hinterlassenenversicherung vom 20. Dezember 1946
+(AHVG) anknüpft. Gemäss Art. 37 Abs. 1 der Verordnung über die
+obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung vom
+31. August 1983 (AVIV) bemisst sich der versicherte Verdienst nach
+dem Durchschnittslohn der letzten sechs Beitragsmonate vor Beginn der
+Rahmenfrist für den Leistungsbezug. Er bemisst sich nach dem Durchschnittslohn
+der letzten zwölf Beitragsmonate vor Beginn der Rahmenfrist für den
+Leistungsbezug, wenn dieser Durchschnittslohn höher ist als derjenige nach
+Abs. 1 (Art. 37 Abs. 2 AVIV).
+3.
+3.1
+Der Beschwerdeführer macht geltend, der
+Beschwerdegegner habe bei der Berechnung seiner Arbeitslosenentschädigung den
+versicherten Verdienst nicht korrekt ermittelt. So handle es sich bei den
+ausbezahlten Zulagen für das Abschlussprojekt Prüfung Fachmaturität, den
+Mathepool und das Abschlussprojekt Fachmittelschule um Zulagen für Arbeiten,
+welche regelmässig angefallen seien. Deswegen seien die Zulagen zum
+normalerweise erzielten Lohn zuzurechnen. Einzig die Zulagen für die
+Projektgruppe Bibliothek seien keine regelmässig ausbezahlten Zulagen
+gewesen.
+3.2
+Der Beschwerdegegner führt aus, dass die Zulagen im
+Betrag von Fr. 1'150.- für ausserordentliche Einsätze ausbezahlt worden
+seien, welche nicht regelmässig angefallen seien. Dies bestätige auch das
+Pflichtenheft für Lehrpersonen der Sekundarstufe II der B.______, wonach
+es sich bei den ausgeübten Arbeiten um solche über den Berufsauftrag
+hinausgehende Arbeiten gehandelt habe, sowie ein E-Mail vom
+28. Januar 2014 von C.______ der B.______. Folglich seien die
+Zulagen bei der Ermittlung des versicherten Verdienstes nicht zu berücksichtigen.
+4.
+Strittig ist vorliegend
+die Höhe des versicherten Verdienstes des im Monatslohn tätig gewesenen
+Beschwerdeführers.
+4.1
+Zum massgebenden Lohn im Sinne von
+Art. 23 Abs. 1 AVIG gehören nebst dem Grundlohn (Monats-,
+Stunden- oder Akkordlohn) insbesondere auch der 13. Monatslohn und die
+Gratifikation, sofern sie ausgerichtet worden sind, sowie Nacht-, Schicht-,
+Sonntags- und Pikettzulagen, wenn die versicherte Person aufgrund ihrer
+Tätigkeit solche Zulagen normalerweise erhalten hat. Nicht zum massgebenden
+Lohn gehören in der Regel etwa Mehrstunden, welche die vertragliche
+Arbeitszeit übersteigen, Zulagen für arbeitsbedingte Inkonvenienzen, Spesenentschädigungen
+sowie Familien- und Haushaltszulagen (vgl. Kreisschreiben des SECO über
+die Arbeitslosenentschädigung [KS ALE], Stand Januar 2013, Rz. C2). Mit
+dem Rechtsbegriff "normalerweise" gemäss
+Art. 23 Abs. 1 AVIG bleiben auch Einkünfte, die mit über
+ein normales Arbeitnehmerpensum hinausgehenden Beschäftigungen erzielt
+werden, für den versicherten Verdienst unbeachtlich (BGE 129 V 105 E. 2
+und 3.2;
+Thomas Nussbaumer, Arbeitslosenversicherung, in Ulrich Meyer
+(Hrsg.), Schweizerisches Bundesverwaltungsrecht, Bd. XIV, Soziale Sicherheit,
+2. A., Basel/Genf/München, O. Rz. 366).
+4.2
+Auszugehen ist vorliegend vom Arbeitsvertrag vom
+12. Juni 2012, gemäss welchem der Beschwerdeführer mit einem Pensum
+von 23,5 Wochenlektionen bei der B.______ als Lehrperson angestellt war. Nach
+Ziff. 3 des Arbeitsvertrags waren mit dem vereinbarten Lohn sämtliche
+Leistungen gemäss Pflichtenheft für Lehrpersonen der Sekundarstufe II
+abgegolten.
+Bereits daraus erhellt,
+dass die in den Monaten Februar, März, Juni und Juli 2013 neben dem
+vereinbarten Lohn geleisteten Zahlungen von insgesamt Fr. 1'150.- für
+Abschlussprojekte, den Mathepool und eine Projektgruppe aufgrund von Leistungen
+des Beschwerdeführers erfolgten, die dieser zusätzlich zum arbeitsvertraglich
+Geschuldeten erbracht hatte. Dies zeigt sich ferner auch daraus, dass die
+durch den Beschwerdeführer übernommenen Arbeiten über seinen Berufsauftrag
+hinausgingen (vgl. Ziff. 4b des Pflichtenhefts für Lehrpersonen der
+Sekundarstufe II der B.______ vom 21. Dezember 2006). Schliesslich
+bestätigte C.______, Finanzen & Controlling der B.______, in ihrem E-Mail
+vom 28. Januar 2014 an den Beschwerdegegner, dass es sich bei den
+strittigen Zulagen um Sonderzahlungen gehandelt habe.
+Werden aber einzelne,
+nicht arbeitsvertraglich vorgesehene Zusatzarbeiten geleistet und separat
+entschädigt, gelten sie nach dem Dargelegten nicht als "normalerweise"
+erzielter Lohn im Sinne von Art. 23 Abs. 1 AVIG und
+bleiben folglich bei der Ermittlung des versicherten Verdienstes ausser
+Betracht. Daran ändert weder etwas, dass auf die Zulagen
+Sozialversicherungsbeiträge bezahlt wurden, noch kommt dem Umstand eine entscheidwesentliche
+Bedeutung zu, dass diese Zusatzarbeiten angeblich regelmässig zu leisten
+waren. Massgeblich bleibt letztlich der Grundgedanke, dass die Arbeitslosenversicherung
+lediglich für das Risiko des Verlustes einer normalen üblichen Arbeitnehmertätigkeit
+Versicherungsschutz gewährt (Nussbaumer, O. Rz. 368).
+Folglich
+ging der
+Beschwerdegegner zu Recht davon aus, dass die Zulagen bei der Ermittlung des
+versicherten Verdienstes unbeachtlich sind. Der versicherte Verdienst von
+Fr. 9'517.- wurde somit richtig berechnet.
+5.
+Letztlich bleibt zu
+prüfen, ob die mit Verfügung des Beschwerdegegners vom 4. März 2014
+erfolgte Rückforderung der ausbezahlten Leistungen im Betrag von
+Fr. 962.55 rechtmässig war.
+5.1
+Die Rückforderung von Leistungen richtet sich nach
+Art. 25 ATSG (Art. 95 Abs. 1 AVIG). Danach sind
+unrechtmässig bezogene Leistungen zurückzuerstatten. Einzig wer Leistungen in
+gutem Glauben empfangen hat, muss sie nicht zurückerstatten, wenn eine grosse
+Härte vorliegt (Art. 25 Abs. 1 ATSG). Unrechtmässig ist
+die Leistungsausrichtung, wenn sie ohne Rechtsgrund erfolgte oder in
+betraglicher Hinsicht zu hoch ausgefallen ist (
+Nussbaumer,
+O. Rz. 89).
+5.2
+Wie bereits ausgeführt (vgl. E. II/4.2),
+beträgt der versicherte Verdienst des Beschwerdeführers Fr. 9'517.-.
+Indem der Beschwerdegegner ursprünglich fälschlicherweise unter
+Berücksichtigung der ausbezahlten Zulagen von einem versicherten Verdienst
+von Fr. 9'709.- ausgegangen ist, wurden dem Beschwerdeführer Arbeitslosenentschädigungen
+von insgesamt Fr. 962.55 zu viel ausbezahlt. Gestützt auf die Akten ist
+die Ermittlung dieses Betrags nicht zu beanstanden und wurde auch nicht bestritten.
+Obwohl weiter davon auszugehen ist, dass die zu hoch ausgefallenen Leistungen
+durch den Beschwerdeführer gutgläubig empfangen wurden, liegt keine grosse
+Härte vor. So wurde eine solche weder geltend gemacht noch finden sich in den
+Akten Anhaltspunkte dafür. Demnach erfolgte die Rückforderung durch den Beschwerdegegner
+gemäss Art. 95 AVIG i.V.m. Art. 25 ATSG zu Recht.
+Dies führt zur Abweisung
+der Beschwerde.
+III.
+Die Gerichtskosten sind von Gesetzes wegen auf die
+Staatskasse zu nehmen (Art. 1 Abs. 1 AVIG i.V.m. Art. 61
+lit. a ATSG
+)
+.
+Demgemäss erkennt die Kammer
+:
+1.
+Die Beschwerde wird abgewiesen.
+2.
+Die
+Gerichtskosten
+werden auf die Staatskasse genommen.
+3.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
