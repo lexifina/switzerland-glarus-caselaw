@@ -1,0 +1,318 @@
+---
+decision_id: "gl_gerichte_VG.2014.00022"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2014.00022"
+docket_2: "VG.2014.29"
+decided: "2014-06-18"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=231&W10_KEY=218274&nTrefferzeile=7&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/837.0/art-001.md", "switzerland/bund/acts/837.0/art-017.md", "switzerland/bund/acts/837.0/art-030.md", "switzerland/bund/acts/837.02/art-044.md", "switzerland/bund/acts/837.02/art-045.md"]
+---
+
+# GL Gerichte VG.2014.00022
+
+## Regeste
+
+Sozialversicherung - Arbeitslosenversicherung
+
+## Text
+
+Glarus Verwaltungsgericht 18.04.2014 VG.2014.00022 (VG.2014.29)
+Glaris Verwaltungsgericht 18.04.2014 VG.2014.00022 (VG.2014.29)
+Glarona Verwaltungsgericht 18.04.2014 VG.2014.00022 (VG.2014.29)
+
+Sozialversicherung - Arbeitslosenversicherung
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom 18. Juni 2014
+II. Kammer
+in Sachen
+VG.2014.00022
+A.______
+Beschwerdeführerin
+gegen
+Amt für Wirtschaft und
+Arbeit des Kantons Glarus
+Beschwerdegegner
+betreffend
+Einstellung in der Anspruchsberechtigung
+Die Kammer zieht in Erwägung:
+I.
+1.
+A.______ arbeitete vom
+8. April 2013 bis am 31. Januar 2014 bei der B.______AG. Am
+20. Dezember 2013 kündigte die Arbeitgeberin das Arbeitsverhältnis.
+A.______ beantragte am 2. Februar 2014 Arbeitslosenentschädigung ab dem
+1. Februar 2014. Am 10. März 2014 stellte das Amt für Wirtschaft
+und Arbeit des Kantons Glarus A.______ für 36 Tage, laufend ab dem
+1. Februar 2014, in ihrer Berechtigung zum Bezug von Arbeitslosenentschädigung
+ein. Zur Begründung führte es an, A.______ habe die Arbeitslosigkeit selbst
+verschuldet. Gegen die Verfügung erhob A.______ am 15. März 2014
+Einsprache. Das Amt für Wirtschaft und Arbeit hiess die Einsprache am
+24. März 2014 teilweise gut und reduzierte die Anspruchseinstellung auf
+acht Tage.
+2.
+Am 27. März 2014 gelangte
+A.______ mit Beschwerde ans Verwaltungsgericht. Sinngemäss beantragte sie die
+Aufhebung des Einspracheentscheids und der Einstellungsverfügung. Am
+6. Mai 2014 reichte A.______ dem Gericht die Kopie eines an das Amt für
+Wirtschaft und Arbeit gerichteten Schreibens ein. Das Amt für Wirtschaft und
+Arbeit liess sich am 8. Mai 2014 vernehmen und schloss auf Abweisung der
+Beschwerde. Am 14. Mai 2014 nahm A.______ erneut Stellung und reichte
+zwei E-Mails ihres ehemaligen Vorgesetzten zu den Akten.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 56 und Art. 57 des Bundesgesetzes über den Allgemeinen Teil des
+Sozialversicherungsrechts vom 6. Oktober 2000 (ATSG) i.V.m. Art. 12
+Abs. 2 des Einführungsgesetzes zum Bundesgesetz über die obligatorische
+Arbeitslosenversicherung und die Insolvenzentschädigung vom 6. Mai 1984
+(EG AVIG) zur Behandlung der vorliegenden Beschwerde zuständig. Da auch
+die übrigen Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde
+einzutreten.
+2.
+2.1
+Die obligatorische Arbeitslosenversicherung
+will den versicherten Personen einen angemessenen Ersatz für Erwerbsausfälle
+wegen Arbeitslosigkeit garantieren (Art. 1a Abs. 1 lit. a des Bundesgesetzes
+über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung
+vom 25. Juni 1982 [AVIG]). Gemäss der im gesamten Sozialversicherungsrecht
+geltenden Schadenminderungspflicht (Art. 17 Abs. 1 AVIG) muss der Versicherte
+jedoch alles Zumutbare unternehmen, um den Eintritt oder das Fortdauern der Arbeitslosigkeit
+zu verhindern (BGer-Urteil 8C_12/2010 vom 4. Mai 2010 E. 2.2). Ist er
+durch eigenes Verschulden arbeitslos geworden, ist er in der
+Anspruchsberechtigung einzustellen (Art. 30 Abs. 1 lit. a AVIG). Zweck
+der Einstellung als versicherungsrechtliche Sanktion ist die angemessene
+Mitbeteiligung des Versicherten am Schaden, den er durch sein pflichtwidriges
+Verhalten der Arbeitslosenversicherung natürlich und adäquat kausal
+verursacht hat (BGE 122 V 34 E. 4c/aa, mit Hinweis).
+2.2
+Ein
+Selbstverschulden des Versicherten liegt vor, wenn oder soweit der Eintritt
+oder das Andauern der Arbeitslosigkeit nicht objektiven Faktoren
+zuzuschreiben ist, sondern in einem nach den persönlichen Verhältnissen
+vermeidbaren Verhalten liegt, für das die Versicherung die Haftung nicht
+übernimmt (BGer-Urteil C 348/00 vom 21. Februar 2001 E. 1a; ARV
+1998 Nr. 9 S. 44; Thomas Nussbaumer, in Ulrich Meyer [Hrsg.], Schweizerisches
+Bundesverwaltungsrecht, Soziale Sicherheit, Bd. XIV, 2. A.,
+Basel/Genf/München 2007, O. Rz. 829). Dies ist unter anderem dann
+der Fall, wenn der Versicherte durch sein Verhalten, insbesondere wegen
+Verletzung arbeitsvertraglicher Pflichten, dem Arbeitgeber Anlass zur
+Auflösung des Arbeitsverhältnisses gegeben hat (Art. 44 Abs. 1 lit.
+a der Verordnung über die obligatorische Arbeitslosenversicherung und die
+Insolvenzentschädigung vom 31. August 1983 [AVIV]). Zwischen dem geltend
+gemachten Grund zur Auflösung des Arbeitsverhältnisses und der eingetretenen
+Arbeitslosigkeit muss ein Kausalzusammenhang bestehen (Barbara Kupfer Bucher,
+in Erwin Murer/Hans-Ulrich Stauffer [Hrsg.], Bundesgesetz über die
+obligatorische Arbeitslosenversicherung und Insolvenz, 4. A., Zürich/Basel/Genf
+2013, S. 163).
+2.3
+Als selbstverschuldet kann unter anderem die
+fristlose Entlassung oder die Verletzung arbeitsvertraglicher Pflichten wegen
+unentschuldigten Absenzen, ungebührliches Verhalten am Arbeitsplatz oder ein
+gespanntes Verhältnis zu Vorgesetzten gelten (vgl. Kupfer Bucher,
+S. 167 ff.; Gerhard Gerhards, Kommentar zum Arbeitslosenversicherungsgesetz,
+Bd. I, Art. 1-58, Bern 1987, Art. 30 N. 10). Der Tatbestand von Art. 44 Abs.
+1 lit. a AVIV setzt indessen keine (fristlose) Auflösung des Arbeitsverhältnisses
+aus wichtigen Gründen gemäss Art. 337 des Bundesgesetzes über das Obligationenrecht
+vom 30. März 1911 (OR) voraus. Es genügt, dass das allgemeine dienstliche und
+allenfalls auch ausserdienstliche Verhalten des Versicherten Anlass zu einer
+Kündigung gegeben haben. Hierzu gehören auch charakterliche Eigenschaften, welche
+eine Person für den Betrieb als untragbar erscheinen lassen. Beanstandungen
+beruflicher Art müssen nicht vorgelegen haben (BGer-Urteil 8C_606/2010 vom
+20. August 2010 E. 3.2; Nussbaumer, O. Rz. 831; Jacqueline Chopard,
+Die Einstellung in der Anspruchsberechtigung, Zürich 1998,
+S. 107 ff.).
+2.4
+In Nachachtung
+von Art. 20 lit. b des am 17. Oktober 1991 für die Schweiz in Kraft getretenen
+Übereinkommens Nr. 168 der Internationalen Arbeitsorganisation (IAO) über Beschäftigungsförderung
+und den Schutz gegen Arbeitslosigkeit vom 21. Juni 1988 ist eine Einstellung
+in der Anspruchsberechtigung nur zulässig, wenn die gekündigte Person eventualvorsätzlich
+zu ihrer Entlassung beigetragen hat. Eventualvorsatz ist anzunehmen, wenn die
+betroffene Person vorhersehen kann oder damit rechnen muss, dass ihr
+Verhalten zu einer Kündigung durch den Arbeitgeber führt und dies in Kauf
+nimmt (vgl. BGer-Urteil 8C_466/2007 vom 19. November 2007 E. 3.1,
+C 277/06 vom 3. April 2007 E. 2, C 95/00 vom 29. November
+2000 E. 1 und 2c, mit weiteren Hinweisen; Nussbaumer, O. Rz. 831;
+ARV 2003 Nr. 26 S. 248).
+2.5
+Das dem Versicherten zur Last gelegte
+Verhalten muss in beweisrechtlicher Hinsicht klar feststehen (BGer-Urteil C
+19/06 vom 5. Januar 2007 E. 2.5). Bei Differenzen zwischen dem
+Arbeitgeber und dem Arbeitnehmer darf nicht ohne Weiteres auf ein
+fehlerhaftes Verhalten des Arbeitnehmers geschlossen werden, insbesondere
+wenn der Arbeitgeber nur unbestimmte Gründe geltend zu machen vermag, für
+welche er keine Beweise anführen kann (BGE 112 V 242 E. 1; Weisung des
+Staatssekretariats für Wirtschaft SECO, AVIG-Praxis, ALE, Januar 2014,
+Rz. D6; Kupfer Bucher, S. 161;
+Nussbaumer,
+O. Rz. 831; Gerhards, Art. 30 N. 11).
+2.6
+Die Dauer der Einstellung
+bemisst sich nach dem Grad des Verschuldens (Art. 30 Abs. 3 AVIG). Sie
+dauert bei leichtem Verschulden 1-15 Tage, bei mittelschwerem Verschulden
+16-30 Tage und bei schwerem Verschulden 31-60 Tage (Art. 45 Abs. 3
+AVIV).
+3.
+3.1
+Der Beschwerdeführerin wird zur Last gelegt, die
+Kündigung selbst verschuldet zu haben. Im angefochtenen Entscheid führt der
+Beschwerdegegner aus, die Aussagen der Beschwerdeführerin und diejenigen der
+ehemaligen Arbeitgeberin widersprächen sich. Die Beschwerdeführerin habe aber
+eine gewisse Mitschuld an der Kündigung eingestanden. Einerseits schildere
+sie, dass sie aufgrund ihrer Ignorierung durch das Kader sehr wütend gewesen
+sei. Dadurch habe die gute Atmosphäre zwischen ihr und der Arbeitgeberin gelitten.
+Andererseits habe sie festgestellt, dass sie sich nicht immer teamkooperativ
+verhalten habe. So sei sie stets alleine in die Pause gegangen. Überdies habe
+sie ein Geschenk einer Kadermitarbeiterin abgelehnt, nachdem sie als einzige
+nicht zur Weihnachtsfeier eingeladen gewesen sei.
+3.2
+Im Fragebogen vom 31. Januar 2014 gab die B.______AG
+als Grund für die Kündigung an, die Beschwerdeführerin habe sich geweigert,
+für einen Vorgesetzten zu kopieren. Zudem sei sie nicht kritikfähig und nehme
+Vorschläge zur Arbeitstechnik nicht an. In der Kündigung vom
+20. Dezember 2013 wird ihr ausserdem vorgeworfen, ihr persönliches
+Verhalten gegenüber Vorgesetzten, Mitarbeitern und vor allem Geschäftspartnern
+habe die Stimmung im negativen Sinne erheblich beeinflusst, wodurch es
+unmöglich geworden sei, sie ins Team zu integrieren. Persönliche Gespräche
+und mündliche Mahnungen hätten nicht zu einer Verbesserung, sondern zu einer
+Verschlechterung der Arbeitsergebnisse und der Stimmung innerhalb des Teams
+geführt. Dies sei für die Firma und das Team nicht weiter tragbar und mache
+eine vertrauensvolle Zusammenarbeit in Zukunft unmöglich.
+3.3
+Die Beschwerdeführerin bestreitet, die Kündigung
+bewusst herbeigeführt oder provoziert zu haben. Von der Arbeitgeberin sei sie
+nie verwarnt worden. Mitarbeitergespräche hätten keine stattgefunden. Es sei
+zwar möglich, dass sie gegenüber einer Person einmal dominant aufgetreten
+sei. Zu Geschäftspartnern, Mitarbeiterinnen und Mitarbeiter sei sie aber nie
+unfreundlich gewesen. In die Mittagspausen sei sie jeweils alleine gegangen.
+Es treffe jedoch nicht zu, dass sie sich nicht ins Team habe integrieren
+wollen. Die Arbeitskollegen hätten mit ihr während Monaten kein Wort Deutsch
+gesprochen und nichts mit ihr zu tun haben wollen. Sie habe sich sehr
+ausgeschlossen gefühlt. Darüber sei sie sehr wütend geworden und die
+Atmosphäre zwischen dem Team, dem Kader und ihr sei nicht mehr so gut
+gewesen. Als Einzige sei sie nicht an die Weihnachtsfeier eingeladen worden,
+woraufhin sie ihrem Vorgesetzten ein E-Mail geschrieben habe. Das Geschenk
+habe sie abgelehnt, weil sie in diesem Moment nicht anders habe reagieren
+können.
+4.
+Die Sanktionierung der
+Beschwerdeführerin infolge selbstverschuldeter Arbeitslosigkeit begründet der
+Beschwerdegegner ausschliesslich mit dem von ihr eingestandenen Verhalten
+(Verschlechterung der Arbeitsatmosphäre und unkooperatives Verhalten; vgl. dazu
+oben E. II./3.1 und 3.3).
+4.1
+Das allgemeine Verhalten am Arbeitsplatz kann für
+die Auflösung eines Arbeitsverhältnisses ausschlaggebend sein. Eine
+selbstverschuldete Arbeitslosigkeit im Sinne von Art. 30 Abs. 1 lit. a
+AVIG kann aber nur dann angenommen werden, wenn das Verhalten von der
+Arbeitgeberin aus sachlich gerechtfertigten Gründen missbilligt werden durfte
+und die Gekündete trotz Wissens um diese Missbilligung ihr Verhalten nicht
+geändert hat (vgl. Kupfer Bucher, S. 162, mit Hinweis).
+Ursache der Kündigung vom
+20. Dezember 2013 waren zwischenmenschliche Differenzen zwischen der
+Beschwerdeführerin und ihren ehemaligen Arbeitskollegen. Welche der Parteien
+den Grund für diese Unstimmigkeiten setzte, lässt sich nicht eruieren. Die
+Beschwerdeführerin gestand ein, wegen ihrer Ausgrenzung wütend geworden zu
+sein, wodurch die Atmosphäre im Betrieb gelitten habe. Dies lässt aber nicht
+darauf schliessen, dass sie ein vermeidbares Verhalten an den Tag gelegt und
+damit die Kündigung provoziert hat. Insbesondere ist nicht bekannt, dass sich
+die von ihr beschriebene Wut in einem objektiv inakzeptablen Verhalten geäussert
+hätte. Vielmehr bestand ein Zustand, wie er in vielen Betrieben vorkommt.
+Konkrete Vorkommnisse, die darauf hindeuten würden, dass die Beschwerdeführerin
+für die Störung des Betriebsfriedens eine Mitverantwortung trägt und ihre
+Entlassung zumindest in Kauf genommen hätte, sind nicht ersichtlich (vgl.
+auch BGer-Urteil C 38/03 vom 6. Mai 2003 E. 2). Auch wenn die
+Verhältnisse für die Beteiligten letzten Endes nicht mehr tragbar waren,
+besteht vorliegend kein Grund, der Beschwerdeführerin wegen der schlechten
+Stimmung im Team ein versicherungsrelevantes Fehlverhalten anzulasten.
+Genauso verhält es sich
+mit den Pausengewohnheiten der Beschwerdeführerin. Arbeitsvertraglich dürfte
+sie kaum dazu verpflichtet gewesen sein, die Mittagspausen im Beisein des
+Teams zu verbringen. Dass das Arbeitsklima darunter leidet, ist das eine, der
+Beschwerdeführerin hierfür eine Mitschuld zu geben und ihr vermeidbares Verhalten
+vorzuwerfen, das andere. Zumindest kann nicht mit Sicherheit ausgeschlossen
+werden, dass die Beschwerdeführerin bei Mitarbeiterinnen und Mitarbeitern
+sowie den Vorgesetzten tatsächlich einen schweren Stand hatte und aus
+psychohygienischen Gründen ihre Pausen alleine verbrachte. Unabhängig davon
+steht es der Beschwerdeführerin ohnehin frei, wo und mit wem sie Essen will.
+Das von der
+Beschwerdeführerin selbst geschilderte dienstliche Verhalten stellt deshalb
+keine dermassen untragbare Verfehlung oder Vertragswidrigkeit dar, dass sich
+eine versicherungsrechtliche Sanktionierung rechtfertigen würde. Überdies ist
+nicht davon auszugehen, dass die Beschwerdeführerin durch uneinsichtiges
+Verhalten die Kündigung geradezu in Kauf genommen hätte.
+4.2
+Weiter wird der Beschwerdeführerin von der
+Arbeitgeberseite vorgeworfen, sich im Betrieb und insbesondere auch gegenüber
+Geschäftspartnern unfreundlich verhalten zu haben. Die Beschwerdeführerin
+selbst bestreitet dies. Gerade in einer Situation wie der vorliegenden, wo
+zwischen der versicherten Person und ihrer ehemaligen Arbeitgeberin über
+längere Zeit Differenzen bestanden, kann nicht unbesehen auf die Angaben der
+ehemaligen Arbeitgeberin abgestellt werden (vgl. BGer-Urteil C 260/06
+vom 29. März 2007 E. 4). Abgesehen von der durchaus
+nachvollziehbaren Verweigerung einer Geschenkannahme als Reaktion auf die Nichteinladung
+zum Weihnachtsessen werden von der ehemaligen Arbeitgeberin keine konkreten
+Vorkommnisse angeführt, die unfreundliches und nicht mehr tragbares Verhalten
+seitens der Beschwerdeführerin erkennen lassen. Schriftliche Abmahnungen an
+die Adresse der Beschwerdeführerin sind keine bekannt. Dies lässt Zweifel an
+den allgemein gehaltenen Ausführungen der B.______AG aufkommen. Es steht
+daher beweismässig nicht mit hinreichender Deutlichkeit fest, dass sich die
+Beschwerdeführerin gegenüber Mitarbeiterinnen und Mitarbeiter, Vorgesetzten
+oder Geschäftspartnern unfreundlich verhalten, geschweige denn dadurch eine
+Kündigung in Kauf genommen hat.
+Das angebliche einmalige
+Verweigern eines Kopierauftrages, mangelnde Kritikfähigkeit oder die
+Nichtberücksichtigung von Vorschlägen zur Arbeitstechnik reichen für die Annahme
+eines Fehlverhaltens aus versicherungsrechtlicher Sicht ebenfalls nicht aus.
+Es mag sich dabei um Gesichtspunkte handeln, die für die berufliche
+Qualifikation zu berücksichtigen sind. Darin aber gerade ein derart schweres
+Fehlverhalten zu erblicken, dass von einer eventualvorsätzlich verursachten
+Kündigung ausgegangen werden müsste, würde den Bogen überspannen.
+Damit sind auch ausserhalb
+des von der Beschwerdeführerin eingestandenen Verhaltens keine hinreichend
+nachgewiesenen Gegebenheiten auszumachen, die nach einer Sanktionierung
+verlangen.
+5.
+5.1
+Zusammenfassend ergibt sich, dass sofern objektive
+Gründe für das Missfallen des von der Beschwerdeführerin eingestandenen
+Verhaltens überhaupt auszumachen sind, diese nicht derart schwer wiegen, dass
+ein vermeidbares Verhalten angenommen werden könnte. So oder anders legte es
+die Beschwerdeführerin nicht mit Eventualvorsatz darauf an, dass ihr das
+Arbeitsverhältnis gekündigt wird. Darüber hinaus ist ein schwerwiegendes
+Fehlverhalten im Sinne eines nicht mehr tragbaren Umgangs mit
+Mitarbeiterinnen und Mitarbeiter, Vorgesetzten oder Geschäftspartner beweisrechtlich
+ebenso wenig nachgewiesen, wie allfällige Ermahnungen vor Aussprache der
+Kündigung. Zu Recht stellte der Beschwerdegegner im angefochtenen Entscheid
+denn auch nicht darauf ab.
+5.2
+Bei dieser Ausgangslage steht nicht fest, dass
+die Beschwerdeführerin ihre Arbeitslosigkeit selbst verschuldete. Eine
+Einstellung in der Anspruchsberechtigung gestützt auf Art. 30 Abs. 1 lit. a
+AVIG ist daher nicht zulässig. Folglich ist die Beschwerde gutzuheissen. Der
+Einspracheentscheid vom 24. März 2014 und die Verfügung des Beschwerdegegners
+vom 10. März 2014 sind aufzuheben.
+III.
+Die amtlichen Kosten des Beschwerdeverfahrens sind von
+Gesetzes wegen auf die Staatskasse zu nehmen (Art. 1 Abs. 1
+AVIG i.V.m. Art. 61 lit. a ATSG
+)
+.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird gutgeheissen. Der Einspracheentscheid vom 24. März
+2014 und die Verfügung des Beschwerdegegners vom 10. März 2014 werden
+aufgehoben.
+2.
+Die
+Gerichtskosten werden auf die Staatskasse genommen.
+3.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
