@@ -1,0 +1,380 @@
+---
+decision_id: "gl_gerichte_VG.2014.00040"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2014.00040"
+docket_2: "VG.2014.79"
+decided: "2014-06-25"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=282&W10_KEY=218274&nTrefferzeile=1&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/101/art-034.md", "switzerland/bund/acts/101/art-039.md"]
+---
+
+# GL Gerichte VG.2014.00040
+
+## Regeste
+
+Wahlen und Abstimmungen (soweit keine staatsrechtl. Klage)
+
+## Text
+
+Glarus Verwaltungsgericht 25.06.2014 VG.2014.00040 (VG.2014.79)
+Glaris Verwaltungsgericht 25.06.2014 VG.2014.00040 (VG.2014.79)
+Glarona Verwaltungsgericht 25.06.2014 VG.2014.00040 (VG.2014.79)
+
+Wahlen und Abstimmungen (soweit keine staatsrechtl. Klage)
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+25. Juni 2014
+I. Kammer
+in Sachen
+VG.2014.00040
+A.______
+Beschwerdeführer
+gegen
+Landammann Robert Marti
+Beschwerdegegner
+und
+Regierungsrat des Kantons
+Glarus
+Beigeladener
+betreffend
+Landsgemeinde 2014
+Die Kammer zieht in Erwägung:
+I
+.
+1.
+1.1
+Die Landsgemeinde 2014 hatte unter anderem über das
+Traktandum 6 "SBB-Erneuerungsprojekt ATR Glarnerland und Umbau
+Busbahnhof Glarus; Verpflichtungskredit von total 6,8 Millionen Franken"
+zu bestimmen. Im Detail wurde den Stimmberechtigten gemäss dem Memorial für
+die Landsgemeinde des Kantons Glarus 2014 (S. 25) Folgendes vorgelegt:
+"
+1. Für das
+SBB-Erneuerungsprojekt ATR-Glarnerland wird ein Gesamt-Verpflichtungskredit
+im Betrag von 4'320'000 Franken (inkl. MWST) vorbehältlich einer
+allfälligen Bauteuerung gemäss Schweizer Baupreisindex (Tiefbau), Basis
+Oktober 2013, für die Kostenbeteiligung des Kantons wie folgt gewährt:
+a. 2'819'000 Franken für die Perronerhöhung und die
+Personenunterführung zum Mittelperron in Glarus;
+b. 842'000 Franken für die Verlängerung der
+Personenunterführung Richtung Linthdamm;
+c. 292'000 Franken für die Perronerhöhung in Ennenda;
+d. 367'000 Franken für die Perronerhöhung in Mitlödi.
+2. Für die Umgestaltung und Sanierung des Busbahnhofs
+wird ein Verpflichtungskredit im Betrag von 2'480'000 Franken (inkl. MWST)
+vorbehältlich einer allfälligen Bauteuerung gemäss Schweizer Baupreisindex
+(Tiefbau), Basis Oktober 2013, für die Kostenbeteiligung des Kantons
+gewährt.
+3. Der Kanton nimmt in der Projektleitung der SBB
+Publikumsanlagen (Bauherr SBB) und des Busbahnhofs (Bauherr Gemeinde Glarus)
+Einsitz."
+1.2
+Bei der Beratung der Vorlage an der Landsgemeinde
+vom 4. Mai 2014 ergriffen zahlreiche Rednerinnen und Redner das Wort.
+B.______ beantragte, die Ziff. 1 der Vorlage um eine lit. e zu
+ergänzen, wonach ein Kredit in der Höhe von Fr. 450'000.- für den
+Linthsteg Bahnhof Glarus - Ennetbühls zu gewähren sei. C.______ und D.______
+beantragten die Ablehnung von Ziff. 2 der Vorlage. E.______ beantragte
+die Rückweisung von Ziff. 1 lit. a und b, F.______, G.______
+und H.______ von Ziff. 2 der Vorlage. A.______ und I.______ beantragten
+die Rückweisung der gesamten Vorlage. Die übrigen Rednerinnen und Redner
+beantragten unverändert Zustimmung zur Vorlage.
+1.3
+Der Landammann stellte in der Folge das geplante
+Abstimmungsverfahren zur Diskussion. Zunächst sollte der Rückweisungsantrag E.______
+(Ziff. 1 lit. a und b) dem Rückweisungsantrag
+F.______/G.______ (Ziff. 2) gegenüber gestellt werden. Der Antrag mit
+der grösseren Stimmenzahl sollte danach gegen den Rückweisungsantrag A.______
+(gesamte Vorlage) zur Abstimmung gebracht werden. Der aus dieser Abstimmung
+erfolgreiche Antrag sollte in einer dritten Abstimmung dem Behandeln der
+gesamten Vorlage gegenüber gestellt werden. Danach sei in einer vierten Abstimmung
+über den Antrag F.______ (Ergänzung der Vorlage um eine
+Ziff. 1 lit. e) und in einer fünften Abstimmung dem Antrag C.______
+auf Ablehnung der Ziff. 2 zu entscheiden. Schliesslich sei die
+bereinigte Vorlage dem Antrag H.______/D.______ auf Ablehnung der gesamten
+Vorlage gegenüberzustellen. Die Landsgemeinde erklärte sich mit dem Vorgehen
+auf Anfrage des Landammanns stillschweigend einverstanden.
+1.4
+In der ersten Abstimmung obsiegte der Antrag auf
+Rückweisung der Ziff. 2 gegenüber dem Antrag auf Rückweisung der
+Ziff. 1 lit. a und b. In der zweiten Abstimmung blieb dieser
+Antrag auch siegreich gegenüber dem Antrag auf Rückweisung der gesamten
+Vorlage, scheiterte aber in der dritten Abstimmung gegenüber dem Antrag auf Behandeln
+des gesamten Geschäfts. In der vierten Abstimmung scheiterte der Antrag auf
+Ergänzung der Vorlage um eine Ziff. 1 lit. e. In der fünften
+Abstimmung obsiegte der Antrag auf Ablehnung von Ziff. 2. Schliesslich
+wurde in der sechsten Abstimmung die bereinigte Vorlage angenommen.
+2.
+2.1
+Am 5. Mai 2014 gelangte A.______ mit
+Stimmrechtsbeschwerde an den Regierungsrat. Sinngemäss beantragte er die
+Aufhebung und Wiederholung der Abstimmung. Daneben seien die Regeln der
+Landsgemeinde so anzupassen, dass im Falle einer komplizierten Abstimmung die
+Landsgemeinde für mindestens fünf Minuten unterbrochen werden müsse. Ferner
+sei allenfalls auch über seinen Memorialsantrag auf Änderung des Artikels
+"über den Ausbau öffentlicher Verkehr ab Sommer 2014 – Glarner Sprinter
+stündlich" zu befinden.
+2.2
+Der Regierungsrat fragte am 7. Mai 2014
+A.______ an, ob er einer Überweisung der Beschwerde an das Verwaltungsgericht
+ohne vorgängigen Entscheid des Regierungsrats zustimme. Mit E-Mail vom
+9. Mai 2014 stimmte A.______ einer Überweisung der Beschwerde ans
+Verwaltungsgericht zu.
+2.3
+Der Landammann und der Regierungsrat beantragten am
+27. Mai 2014 die Abweisung der Beschwerde.
+II
+.
+1.
+1.1
+Gemäss Art. 114 Abs. 1 des Gesetzes
+über die Verwaltungsrechtspflege vom 4. Mai 1986 (VRG) kann wegen der
+Verletzung des Stimmrechts sowie wegen Unregelmässigkeiten bei der
+Vorbereitung und der Durchführung von Abstimmungen und Wahlen gegen
+Entscheide der Vorsteherschaften und Verwaltungsbehörden von Gemeinden und
+weiteren öffentlich-rechtlichen Körperschaften beim Regierungsrat Beschwerde
+erhoben werden. Aus demselben Beschwerdegrund kann gegen Entscheide des
+Regierungsrats Beschwerde beim Verwaltungsgericht erhoben werden, wovon aber
+Entscheide in eidgenössischen Wahlen und Abstimmungen ausgeschlossen sind
+(Art. 114 Abs. 2 VRG). Nicht angefochten werden können die
+Entscheide des Landammanns bei der Ermittlung der Mehrheit an der
+Landsgemeinde (Art. 67 Abs. 2 der Verfassung des Kantons Glarus vom
+1. Mai 1988 [KV]; Art. 114 Abs. 3 VRG).
+1.2
+Mit der Stimmrechtsbeschwerde können auch
+Unregelmässigkeiten und Verfahrensmängel an der Landsgemeinde gerügt werden,
+wobei einzig der Ermessensentscheid des Landammanns bei der Feststellung des
+Mehrs bei einer Wahl oder Abstimmung ausgeschlossen bleibt. Für die
+Behandlung der Beschwerde ist der Regierungsrat zuständig (VGer-Urteil
+VG.2006.00064 vom 6. Juni 2006 E. III/1, publiziert im Amtsbericht
+des Regierungsrats und der Gerichte an den Landrat des Kantons Glarus 2006,
+Nr. 141, S. 319 ff.).
+1.3
+Gemäss Art. 105 Abs. 2 VRG kann mit
+Zustimmung des Beschwerdeführers eine Vorinstanz des Verwaltungsgerichts eine
+Verwaltungsstreitsache unter Verzicht auf einen Entscheid zur direkten
+Beurteilung an das Verwaltungsgericht überweisen. Einer sinngemässen
+Anwendung dieser Bestimmung auch für Stimmrechtsbeschwerden steht nicht
+entgegen, dass die Sprungbeschwerde unter dem Abschnitt "Verwaltungsgerichtsbeschwerde"
+geregelt ist und sich dem Wortlaut nach auf "Verwaltungsstreitsachen"
+bezieht (VGer-Urteil VG.2006.00064 vom 6. Juni 2006 E. III/2a,
+publiziert im Amtsbericht des Regierungsrats und der Gerichte an den Landrat
+des Kantons Glarus 2006, Nr. 141, S. 319 ff.).
+Mit der Zustimmung des
+Beschwerdeführers zur Überweisung der Beschwerde ans Verwaltungsgericht wurde
+dieses zu deren Behandlung zuständig. Da auch die übrigen
+Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde grundsätzlich
+einzutreten.
+1.4
+Gegenstand des mit der vorliegenden
+Stimmrechtsbeschwerde eingeleiteten Verfahrens kann aber lediglich die Frage
+bilden, ob die strittige Abstimmung aufzuheben und gegebenenfalls zu
+wiederholen ist. Soweit der Beschwerdeführer eine Änderung des
+Abstimmungsverfahrens in dem Sinne verlangt, dass bei komplizierten Abstimmungen
+eine Pause einzulegen sei, hätte dies eine Änderung der in der Kantonsverfassung
+geregelten Verfahrensbestimmungen über die Landsgemeinde zur Folge. Hierfür
+ist das Verwaltungsgericht nicht zuständig, weshalb auf den entsprechenden
+Antrag nicht einzutreten ist. Schliesslich liegt der Antrag, mit welchem der
+Beschwerdeführer einen Entscheid über seinen Memorialsantrag "über den
+Ausbau öffentlicher Verkehr ab Sommer 2014 – Glarner Sprinter stündlich"
+herbeiführen will, ausserhalb des Streitgegenstands des vorliegenden
+Stimmrechtsbeschwerdeverfahrens, weshalb darauf ebenfalls nicht einzutreten
+ist.
+2.
+2.1
+Art. 34 Abs. 1 der Bundesverfassung der
+Schweizerischen Eidgenossenschaft vom 18. April 1999 (BV) gewährleistet
+die politischen Rechte in abstrakter Weise und ordnet die wesentlichen
+Grundsätze der demokratischen Partizipation im Allgemeinen. Der konkrete
+Gehalt der politischen Rechte ergibt sich in erster Linie aus dem spezifischen
+Organisationsrecht des Bundes und der Kantone. Die Kantone ordnen gemäss
+Art. 39 Abs. 1 BV die politischen Rechte und legen das Verfahren
+fest. Darüber hinaus schützt Art. 34 Abs. 2 BV die freie
+Willensbildung und unverfälschte Stimmabgabe. Sie bedeutet, dass kein
+Abstimmungs- oder Wahlergebnis anerkannt wird, das nicht den freien Willen
+der Stimmberechtigten zuverlässig und unverfälscht zum Ausdruck bringt (BGer-Urteil
+1P.339/2006 vom 3. November 2006 E. 2.1).
+2.2
+Gemäss Art. 65 Abs. 2 KV hat
+jeder stimmberechtigte Teilnehmer an der Landsgemeinde das Recht, zu den
+Sachvorlagen Anträge auf Unterstützung, Abänderung, Ablehnung, Verschiebung
+oder Rückweisung zu stellen. Abänderungsanträge müssen dabei gemäss Art. 65 Abs. 3 KV
+zum Beratungsgegenstand in einem sachlichen Zusammenhang stehen. Der Antrag
+des Landrats ist genehmigt, wenn hiezu kein abweichender Antrag gestellt wird
+(Art. 66 Abs. 1 KV). Wird aber ein solcher Antrag gestellt, so
+hat die Landsgemeinde zu mindern oder zu mehren (Art. 66 Abs. 2
+KV). Werden an einer Vorlage zwei oder mehr Abänderungen vorgenommen, so ist
+eine Schlussabstimmung durchzuführen (Art. 66 Abs. 3 KV). Die
+Leitung der Landsgemeinde obliegt gemäss Art. 64 Abs. 1 KV dem
+Landammann, dessen Entscheid über die Ermittlung der Mehrheit gemäss
+Art. 67 Abs. 2 KV unanfechtbar ist.
+3.
+3.1
+Der Beschwerdeführer rügt, dass das strittige
+Abstimmungsverfahren unübersichtlich gewesen sei. Der Landammann habe Anträge
+einander gegenübergestellt, die nicht den gleichen Gegenstand betroffen
+hätten. Auch habe er Personen mit falschen Anträgen in Verbindung gebracht
+und den Rückweisungsantrag von I.______ vergessen. Er habe zudem bei der
+Abstimmung oft nur die Punkte in Zahlen und Buchstaben erwähnt, nicht aber
+die Anträge der einzelnen Antragssteller vorgetragen, weshalb unklar gewesen
+sei, worüber abgestimmt werde.
+3.2
+Der Beschwerdegegner und der Beigeladene führen aus,
+dass praxisgemäss zunächst die Rückweisungsanträge behandelt würden, um vorab
+zu klären, ob eine Vorlage überhaupt inhaltlich beraten werden sollte. Der
+Landammann habe an der Landsgemeinde vor der eigentlichen Abstimmung
+erläutert, welche Anträge einander gegenübergestellt werden sollten.
+Anschliessend habe er die Stimmberechtigten angefragt, ob sie mit dem
+geschilderten Vorgehen einverstanden seien, worauf sich niemand zu Wort
+gemeldet habe. Es gebe nicht ein einziges richtiges Verfahren, nach welchem
+die gestellten Anträge zur Abstimmung gebracht werden müssten. Vielmehr habe
+der Landammann hier eine gewisse Flexibilität. Es treffe zu, dass der
+Landammann beim Abstimmungsverfahren den Antrag H.______ irrtümlicherweise
+als Antrag auf Ablehnung der Vorlage anstatt auf Rückweisung der Ziff. 2
+aufgeführt habe. Dies habe aber keine Auswirkungen auf den Ausgang der
+Abstimmung gehabt, da die Ablehnung der gesamten Vorlage eindeutig keine
+Mehrheit gefunden habe. Der Antrag auf Rückweisung von Ziff. 2 sei zur
+Abstimmung gebracht, aber abgelehnt worden. Insgesamt sei keine Verletzung
+der Garantie der politischen Rechte ersichtlich. Es liege kein Grund zur Annahme
+vor, dass ein anderes Abstimmungsverfahren zu einem anderen Abstimmungsergebnis
+geführt hätte.
+4.
+4.1
+Dem Landammann kommt an der Glarner Landsgemeinde
+eine herausragende Stellung als Versammlungsleiter zu. Dies zeigt sich
+einerseits darin, dass dessen Entscheid über die Ermittlung der Mehrheit
+gemäss Art. 67 Abs. 2 KV nicht anfechtbar ist, anderseits darin,
+dass kaum rechtliche Regelungen über die Versammlungsleitung bestehen. Er
+verfügt daher bei der Bestimmung des Abstimmungsverfahrens über einen
+beträchtlichen Spielraum, der seine Grenze aber im durch Art. 34
+Abs. 2 BV garantierten Anspruch auf freie Willenskundgebung und
+unverfälschte Stimmabgabe bildet (Felix Helg, Die schweizerischen
+Landsgemeinden, Zürich/Basel/Genf 2007, S. 197).
+Die Frage der freien
+Willenskundgabe kann sich dabei insbesondere stellen, wenn über
+unterschiedliche Sachfragen abzustimmen ist, die in einem gewissen sachlichen
+Zusammenhang zueinander stehen. Diesfalls ist ein Abstimmungsmodus zu wählen,
+welcher die freie Willenskundgabe in optimaler Weise erlaubt. Dabei sind
+unterschiedlichste Konstellationen möglich. Im Einzelfall ist vor dem
+Hintergrund der konkreten Umstände und der zur Entscheidung anstehenden
+Fragen zu beurteilen, ob das Abstimmungsverfahren den Anforderungen von
+Art. 34 Abs. 2 BV genügt. Im Einzelnen lassen sich die Kriterien
+für die Festlegung des Abstimmungsverfahrens nicht abstrakt umschreiben. Sie
+hängen
+vom konkreten Umfeld ab und nehmen Bezug auf die
+Sicht des "aufgeklärten" politisch interessierten Stimmberechtigen
+(BGer-Urteil 1C_185/2007 vom 6. November 2007 E. 2.2).
+4.2
+4.2.1
+Der Beschwerdegegner und der Beigeladene weisen
+darauf hin, dass mangels detaillierter Regelungen des Abstimmungsverfahrens
+der Landsgemeinde insbesondere die Verfahrensregeln über die
+Gemeindeversammlungen gemäss Art. 61 ff. des Gemeindegesetzes vom
+3. Mai 1992 (GG) beigezogen würden. Da Gemeindeversammlungen
+in ihrem Wesen der Landsgemeinde ähnlich sind, erscheint dies sachgerecht.
+4.2.2
+Wird an einer Gemeindeversammlung ein Antrag auf
+Nichteintreten, Rückweisung oder Verschiebung gestellt, wird gemäss Art. 62 Abs. 1 GG
+zuerst darüber beraten und abgestimmt. Dass der Landammann an der Landsgemeinde
+zunächst über die Rückweisungsanträge abstimmen liess, entspricht der sinngemässen
+Anwendung von Art. 62 Abs. 1 GG und ist entgegen der
+Auffassung des Beschwerdeführers im Lichte des Anspruchs auf freie
+Willenskundgebung und unverfälschte Stimmabgabe unproblematisch.
+4.3
+Zutreffend ist hingegen der Hinweis des
+Beschwerdeführers, dass mit dem Antrag auf Rückweisung von Ziff. 1
+lit. a und b (Perronerhöhung und Personenunterführung Glarus) der
+Vorlage und dem Antrag auf Rückweisung von Ziff. 2 (Busbahnhof Glarus)
+der Vorlage zwei Anträge einander gegenübergestellt wurden, die keinen
+sachlichen Zusammenhang aufweisen.
+Werden wie vorliegend zwei
+voneinander unabhängige Anträge auf Teilrückweisung einer Vorlage gestellt,
+misst sich die Rechtmässigkeit des Abstimmungsverfahrens wiederum am
+verfassungsrechtlich garantierten Anspruch auf freie Willenskundgabe und
+unverfälschte Stimmabgabe. Massgebend ist dabei, ob ein Stimmberechtigter vernünftigerweise
+für beide Teilrückweisungsanträge, aber gegen eine Rückweisung der gesamten
+Vorlage sein kann. Ist dies der Fall, verbietet sich ein Vorgehen, mit welchem
+zunächst die beiden Anträge auf Teilrückweisung gegeneinander zur Abstimmung
+gebracht werden und sodann der siegreiche Antrag dem Antrag auf Rückweisung der
+gesamten Vorlage gegenübergestellt wird. Den Stimmberechtigten wird mit einem
+solchen Abstimmungsverfahren nämlich die Möglichkeit genommen, für beide
+Anträge auf Teilrückweisung, aber gegen denjenigen auf Rückweisung der
+gesamten Vorlage zu stimmen. Regelmässig dürfte es daher angezeigt sein, über
+zwei oder mehrere voneinander unabhängige Teilrückweisungsanträge einzeln
+abstimmen zu lassen und danach die nicht bereits zurückgewiesenen Teile der
+Vorlage dem Antrag auf Rückweisung der gesamten Vorlage gegenüberzustellen
+(vgl. dazu auch Art. 78 Abs. 3 des Bundesgesetzes über die
+Bundesversammlung vom 13. Dezember 2002).
+Vorliegend gilt es aber zu
+beachten, dass die Vorlage im Wesentlichen aus zwei Teilen bestand.
+Ziff. 1 beschlug das Projekt ATR Glarnerland, Ziff. 2 das Projekt
+Busbahnhof Glarus. Hätte der Landammann nun über beide
+Teilrückweisungsanträge einzeln abstimmen lassen und wären beide Anträge
+angenommen worden, wäre die gesamte Vorlage ihres Gehalts entleert worden. Es
+wären einzig noch die Kredite für die Perronerhöhungen in Ennenda und Mitlödi
+(Ziff. 1 lit. c und d der Vorlage) dem Antrag auf Rückweisung der
+gesamten Vorlage gegenüberzustellen gewesen. Es ist dabei kaum anzunehmen,
+dass jemand für die beiden Teilrückweisungsanträge, nicht aber gleichzeitig
+für die Rückweisung der gesamten Vorlage gewesen wäre. Vielmehr hatten sich
+die Stimmbürgerinnen und Stimmbürger sinnvollerweise zwischen vier
+Möglichkeiten zu entscheiden, nämlich Behandlung der gesamten Vorlage,
+Rückweisung der gesamten Vorlage, Rückweisung lediglich der Ziff. 1
+lit. a und b oder Rückweisung lediglich der Ziff. 2 der Vorlage.
+Das vom Landammann
+gewählte Verfahren, wonach zunächst die beiden Teilrückweisungsanträge
+einander gegenübergestellt wurden und der daraus hervorgehende siegreiche
+Antrag gegen den Antrag auf Rückweisung der gesamten Vorlage zur Abstimmung
+gebracht wurde, ermöglichte den Stimmbürgerinnen und Stimmbürgern die Auswahl
+zwischen den vier genannten Varianten. Folglich verstiess das Verfahren nicht
+gegen den Anspruch auf freie Willenskundgebung und unverfälschte Stimmabgabe
+und war in vorliegenden Konstellation zumindest vertretbar.
+4.4
+Schliesslich ist es zutreffend, dass bei der
+Abstimmung verschiedene Anträge nicht korrekt aufgeführt wurden. H.______ beantragte
+die Rückweisung von Ziff. 2 der Vorlage, sein Antrag wurde aber als
+Antrag auf Ablehnung der gesamten Vorlage genannt. D.______ beantragte die
+Ablehnung von Ziff. 2 der Vorlage, zur Abstimmung gebracht wurde sein
+Antrag aber als Antrag auf Ablehnung der ganzen Vorlage. I.______ beantragte
+schliesslich wie A.______ die Rückweisung der gesamten Vorlage, wurde aber im
+Gegensatz zu Letzterem bei der Erläuterung des Abstimmungsverfahrens und bei
+der Abstimmung nicht erwähnt.
+Diese Fehler hatten indessen
+keine Verfälschung des Abstimmungsverfahrens oder des Resultats zur Folge.
+Die von H.______ beantragte Rückweisung von Ziff. 2 der Vorlage wurde
+als Antrag F.______/G.______ zur Abstimmung gebracht. Über den von I.______
+gestellten Antrag auf Rückweisung der gesamten Vorlage wurde ebenfalls abgestimmt,
+da A.______ den gleichen Antrag gestellt hatte. Ebenso wurde der von D.______
+gestellte Antrag auf Ablehnung von Ziff. 2 der Vorlage dem Stimmvolk
+unterbreitet, da dasselbe C.______ verlangt hatte. Letztlich wäre das
+Abstimmungsverfahren auch bei einer korrekten Aufnahme der Anträge gleich
+geblieben. Einzig zu beachten wäre gewesen, dass niemand eine Ablehnung der
+gesamten Vorlage beantragt hatte, weshalb allenfalls auf die
+Schlussabstimmung hätte verzichtet werden können (vgl. Art. 66
+Abs. 3 KV).
+4.5
+Zusammenfassend ergibt sich, dass das durch den
+Landammann gewählte Abstimmungsverfahren rechtmässig sowie vertretbar war und
+dass die falsche Zuordnung mehrerer Anträge keine Verfälschung des Abstimmungsergebnisses
+zur Folge hatte.
+Demgemäss ist die
+Beschwerde abzuweisen, soweit darauf einzutreten ist.
+III.
+Die Gerichtskosten sind
+von Gesetzes wegen (Art. 135a Abs. 1 lit. a VRG) auf die
+Staatskasse zu nehmen.
+Demgemäss erkennt die Kammer
+:
+1.
+Die Beschwerde wird abgewiesen, soweit darauf
+eingetreten wird.
+2.
+Die Gerichtskosten werden auf die Staatskasse
+genommen.
+3.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
