@@ -1,0 +1,220 @@
+---
+decision_id: "gl_gerichte_VG.2014.00050"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2014.00050"
+docket_2: "VG.2014.90"
+decided: "2014-08-14"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=295&W10_KEY=218274&nTrefferzeile=7&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/210/art-008.md", "switzerland/bund/acts/832.10/art-065.md", "switzerland/bund/acts/832.10/art-097.md"]
+---
+
+# GL Gerichte VG.2014.00050
+
+## Regeste
+
+Sozialversicherung - Krankenversicherung
+
+## Text
+
+Glarus Verwaltungsgericht 14.08.2014 VG.2014.00050 (VG.2014.90)
+Glaris Verwaltungsgericht 14.08.2014 VG.2014.00050 (VG.2014.90)
+Glarona Verwaltungsgericht 14.08.2014 VG.2014.00050 (VG.2014.90)
+
+Sozialversicherung - Krankenversicherung
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+14. August 2014
+I. Kammer
+in Sachen
+VG.2014.00050
+A.______
+Beschwerdeführer
+gegen
+Steuerverwaltung des Kantons Glarus
+Beschwerdegegnerin
+betreffend
+individuelle Prämienverbilligung 2014
+Die Kammer zieht in Erwägung:
+I.
+1.
+A.______ beantragte für
+sich, seine Ehefrau sowie seine fünf Kinder Beiträge an die Krankenkassenprämien
+für das Jahr 2014. Am 5. Mai 2014 reichte er die Kopie eines vom 14. Januar
+2014 datierenden Anmeldeformulars ein. Die Fachstelle individuelle
+Prämienverbilligung der kantonalen Steuerverwaltung trat am 6. Mai 2014
+auf das Gesuch nicht ein. Zur Begründung führte sie an, der Antrag sei nicht
+bis zum 31. Januar 2014 und damit verspätet eingereicht worden. Eine
+gegen den Nichteintretensentscheid erhobene Einsprache von A.______ vom 12.
+Mai 2014 wies die Steuerverwaltung am 14. Mai 2014 ab.
+2.
+Am 5. Juni 2014 erhob
+A.______ beim Verwaltungsgericht Beschwerde. Sinngemäss beantragte er die
+Aufhebung des Einspracheentscheids vom 14. Mai 2014 und der ihm zugrunde
+liegenden Verfügung vom 6. Mai 2014 sowie die Gewährung der Prämienverbilligung
+für das Jahr 2014. Die Steuerverwaltung nahm am 11. Juni 2014 Stellung
+und schloss auf Abweisung der Beschwerde.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 36 Abs. 2 des Einführungsgesetzes zum Bundesgesetz über die
+Krankenversicherung vom 7. Mai 2006 (EG KVG) zur Behandlung der vorliegenden
+Beschwerde zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt
+sind, ist auf die Beschwerde einzutreten.
+2.
+2.1
+Gemäss Art. 65 Abs. 1 des Bundesgesetzes über die
+Krankenversicherung vom 18. März 1994 (KVG) gewähren die Kantone den
+Versicherten in bescheidenen wirtschaftlichen Verhältnissen
+Prämienverbilligungen. Sie haben dafür zu sorgen, dass bei der Überprüfung
+der Anspruchsvoraussetzungen, insbesondere auf Antrag der versicherten
+Person, die aktuellsten Einkommens- und Familienverhältnisse berücksichtigt
+werden (Art. 65 Abs. 3 KVG). Die Kantone informieren die Versicherten
+regelmässig über das Recht auf Prämienverbilligung (Art. 65 Abs. 4 KVG).
+2.2
+Die Kantone haben die Ausführungsbestimmungen zur
+Gewährung der individuellen Prämienverbilligung zu erlassen (Art. 97 Abs. 1
+KVG). Ihnen kommt nicht nur bezüglich der materiell-rechtlichen
+Anspruchsberechtigung, sondern auch hinsichtlich des Verfahrens ein
+erheblicher Gestaltungsspielraum zu. Bei den Ausführungsbestimmungen handelt
+es sich somit um autonomes kantonales Recht (BGE 124 V 19 E. 2;
+BGer-Urteil 2P.37/2003 vom 15. April 2003 E. 1.1 und E. 1.3).
+2.3
+Das Glarner Recht sieht das Antragsprinzip vor, da
+der Anspruch auf Prämienverbilligung nur auf Antrag der berechtigten Person
+(oder allenfalls Dritter) ermittelt und ausgerichtet wird (Art. 27 Abs. 1 und
+Abs. 2 EG KVG). Er ist mit dem dafür vorgesehenen Formular mitsamt den
+erforderlichen Unterlagen geltend zu machen und bis zum 31. Januar des Anspruchsjahres
+bei der Durchführungsstelle einzureichen (Art. 5 und Art. 6
+Abs. 1 der Verordnung über die Prämienverbilligung vom 23. Dezember
+2013 [V IPV]). Erfolgt die Geltendmachung des Anspruchs nicht innerhalb
+der vorgesehenen Frist, ist er verwirkt (Art. 28 Abs. 1 lit. a EG KVG).
+3.
+3.1
+Die Beschwerdegegnerin begründete das
+Nichteintreten auf den Prämienverbilligungsantrag mit dessen verspäteten
+Geltendmachung. Der Antrag sei bis zum 31. Januar 2014 einzureichen gewesen.
+Die Frist sei in diversen Medien (Tages- und Gratiszeitungen) und im Amtsblatt
+des Kantons Glarus veröffentlicht worden. Der Beschwerdeführer habe am
+10. Januar 2014 mit der Durchführungsstelle telefonisch Kontakt
+aufgenommen. Erst am 5. Mai 2014 sei die Kopie eines mit Datum vom
+14. Januar 2014 versehenen Antrags eingereicht worden. Seit 2014 würden
+alle eingehenden Anträge elektronisch erfasst und unter den jeweiligen
+Personen abgespeichert. Trotz nochmaliger manueller Durchsicht habe sich kein
+Antrag des Beschwerdeführers gefunden, der vor dem 31. Januar 2014
+eingegangen sei.
+3.2
+Der Beschwerdeführer macht demgegenüber geltend, er
+habe das Gesuch fristgerecht eingereicht. Es sei weder seine Pflicht
+nachzufragen, ob der Antrag angekommen sei, noch müsse er das Gesuch
+eingeschrieben zustellen. Nachdem er Mitte Januar 2014 mit der Beschwerdegegnerin
+telefoniert habe, habe er am 15. Januar 2014 das Gesuch per A-Post abgeschickt.
+Es sei nicht ihm anzulasten, wenn der Antrag bei der Post oder bei der Beschwerdegegnerin
+untergegangen sei.
+4.
+Strittig und zu prüfen ist
+vorliegend, ob die Anmeldung des Beschwerdeführers für Beiträge zur
+Verbilligung der Krankenkassenprämien 2014 vor dem 31. Januar 2014 erfolgte.
+Bei allfälliger Beweislosigkeit wäre sodann zu klären, wem die Beweislast für
+die Rechtzeitigkeit der Anmeldung obliegt und wer entsprechend die Folgen der
+Beweislosigkeit zu tragen hat. Zu Recht macht der Beschwerdeführer nicht
+geltend, das im Glarner Recht vorgesehene Antragsverfahren sei
+verfassungswidrig (vgl. BGer-Urteil 2P.37/2003 vom 15. April 2003
+E. 2.2, mit Hinweis).
+4.1
+Fest steht, dass allein aus dem Datum des Antrags
+(14. Januar 2014) noch nicht darauf geschlossen werden kann, wann der
+Beschwerdeführer das Gesuch zuhanden der Beschwerdegegnerin der Post übergab.
+Nicht anders verhält es sich mit der Tatsache, dass er am 5. Mai 2014 die
+Kopie eines Formulars einreichte und darauf den 15. Januar 2014 als
+Ausgangsdatum vermerkte. Das Anmeldeformular kann mit einem beliebigen Datum
+versehen und kopiert werden. Der Beschwerdeführer behauptet, den Antrag am
+15. Januar 2014 per A-Post der Beschwerdegegnerin zugestellt zu haben.
+Hierfür benennt er weder Zeugen noch führt er allfällige Beweismittel an. Die
+Beschwerdegegnerin ihrerseits bestreitet, dass der Antrag vor dem Stichtag am
+31. Januar 2014 eingegangen ist. Damit steht Aussage gegen Aussage.
+Beweise oder Indizien, welche die jeweiligen Standpunkte der Parteien zu untermauern
+vermögen, sind keine vorhanden. Kann aber der tatsächliche Zeitpunkt des Antragseingangs
+nicht mehr anhand von Fakten nachvollzogen werden, sind die Regeln der Beweislastverteilung
+heranzuziehen.
+4.2
+Bei offenem Beweisergebnis bzw. bei Beweislosigkeit
+ist jene Partei objektiv beweisbelastet, welche die Folgen eines
+unterbliebenen Beweises zu tragen hat (vgl. Kaspar Plüss, in Alain Griffel
+[Hrsg.], Kommentar zum Verwaltungsrechtspflegegesetz des Kantons Zürich, 3.
+A., Zürich/Basel/Genf 2014, § 7 N. 157). Der allgemeine Grundsatz von Art. 8
+des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907 (ZGB), wonach
+derjenige das Vorhandensein einer behaupteten Tatsache beweisen muss, der aus
+ihr Rechte ableitet, ist auch im Prozessrecht massgeblich. So trifft die
+Beweislast für die Rechtzeitigkeit einer Parteihandlung im Verfahren
+grundsätzlich diejenige Partei, welche diese Handlung vorzunehmen hat. Dies
+gilt insbesondere für die Frage, ob eine Eingabe noch innert Frist bei der
+Post aufgegeben worden ist (BGE 109 Ia 183 E. 3b; BGer-Urteil
+2P.272/2003 vom 4. November 2003 E. 3.2; Plüss, § 7 N. 159).
+Eine Ausnahme besteht dann, wenn die Partei den Beweis der Rechtzeitigkeit
+aus Gründen nicht erbringen kann, die nicht von ihr, sondern von der Behörde
+zu verantworten sind. In diesem Falle tritt eine Umkehrung der Beweislast ein
+(BGE 92 I 253 E. 3).
+4.3
+Da der Beschwerdeführer einen Anspruch auf individuelle
+Prämienverbilligung für das Jahr 2014 geltend machen will, hat er den Beweis
+für die rechtzeitige Anmeldung zu erbringen (Plüss, § 11 N. 41). Entgegen
+seiner Auffassung wäre es ihm möglich gewesen, die rechtzeitige
+Gesuchseinreichung etwa durch die Postaufgabe des Gesuchs als eingeschriebene
+Sendung oder allenfalls durch die Benennung von Zeugen nachzuweisen
+(BGer-Urteil 2P.272/2003 vom 4. November 2003 E. 3.2).
+Würde es der
+Beschwerdegegnerin überantwortet, das Eingangsdatum sämtlicher Anmeldeformulare
+zu beweisen, entstünde hierdurch erhebliches Rechtsmissbrauchspotenzial, dem
+nur mit grossem Verwaltungsaufwand entgegen getreten werden könnte. Lange
+nach Ablauf der Verwirkungsfrist könnten die Versicherten eine rechtzeitige
+Einreichung des Gesuchs geltend machen. Zudem ist der Beschwerdegegnerin der
+Beweis des Zeitpunkts einer Anspruchsanmeldung nur solange möglich, als tatsächlich
+ein Gesuch eingegangen ist. Sie kann nicht beweisen, dass der Beschwerdeführer
+sein Gesuch erst nach Ablauf der Verwirkungsfrist am 31. Januar 2014
+eingereicht hat. Etwas zu beweisen, das nicht stattgefunden hat, ist ihr
+weder möglich noch kann dies von ihr verlangt werden. Schliesslich sind keine
+sachlichen Gründe ersichtlich, die ein Abweichen vom allgemeinen Grundsatz
+der Beweislastverteilung in analoger Anwendung von Art. 8 ZGB rechtfertigen
+würden. Damit hat es sein Bewenden, dem Beschwerdeführer den Nachteil für die
+Beweislosigkeit aufzuerlegen.
+4.4
+Eine Beweislastumkehr tritt nicht ein. Die
+Beschwerdegegnerin hat den fehlenden Rechtzeitigkeitsbeweis des
+Beschwerdeführers nicht zu verantworten. Es kann offen bleiben, ob die
+Beschwerdegegnerin ihrer Pflicht zur Information der Versicherten über die
+Möglichkeit der Prämienverbilligung (Art. 65 Abs. 4 KVG) hinreichend nachgekommen
+ist. Der Beschwerdeführer führt nämlich selbst an, er habe am 10. Januar
+2014 mit der Beschwerdegegnerin telefoniert. Ihm war somit bekannt, dass er
+den Anspruch mittels Anmeldeformular geltend zu machen hat. Zudem war er
+seinen eigenen Angaben zufolge vor Ende Januar 2014 im Besitze des
+Anmeldeformulars, worauf die Einreichefrist klar vermerkt ist.
+4.5
+Vorliegend gelingt es dem Beschwerdeführer nicht,
+den Nachweis zu erbringen, dass er die Anmeldung bis zum 31. Januar 2014
+zuhanden der Beschwerdegegnerin bei der Post aufgegeben hat. Somit hat er die
+objektive Beweislast zu tragen, d.h. ihn treffen die Folgen der
+Beweislosigkeit. Diese bestehen darin, dass der Anspruch auf individuelle
+Prämienverbilligung 2014 für ihn und seine Familie zufolge verspäteter
+Anmeldung gemäss Art. 28 Abs. 1 lit. a EG KVG verwirkt ist.
+Demgemäss ist die
+Beschwerde abzuweisen.
+III.
+Die Gerichtskosten sind
+auf die Staatskasse zu nehmen (Art. 35 EG KVG i.V.m. Art. 135a Abs.
+1 lit. c des Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986
+[VRG]).
+Demgemäss erkennt die Kammer
+:
+1.
+Die Beschwerde wird abgewiesen.
+2.
+Die Gerichtskosten werden auf die Staatskasse
+genommen.
+3.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
