@@ -1,0 +1,296 @@
+---
+decision_id: "gl_gerichte_OG.2014.00036"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2014.00036"
+docket_2: "OGS.2014.19"
+decided: "2014-09-19"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=323&W10_KEY=218274&nTrefferzeile=5&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/311.0/art-117.md", "switzerland/bund/acts/312.0/art-105.md", "switzerland/bund/acts/312.0/art-311.md", "switzerland/bund/acts/312.0/art-318.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md"]
+---
+
+# GL Gerichte OG.2014.00036
+
+## Regeste
+
+Einstellungsverfügung
+
+## Text
+
+Glarus Obergericht 19.09.2014 OG.2014.00036 (OGS.2014.19)
+Glaris Obergericht 19.09.2014 OG.2014.00036 (OGS.2014.19)
+Glarona Obergericht 19.09.2014 OG.2014.00036 (OGS.2014.19)
+
+Kanton Glarus
+Obergericht
+Beschluss
+vom 19. September 2014
+Verfahren
+OG.2014.00036
+1. A.______
+Beschwerdeführerin
+2. B.______
+Beschwerdeführer
+beide vertreten durch D.______
+Vertreter,
+gegen
+Staats- und
+Jugendanwaltschaft des Kantons Glarus
+Beschwerdegegnerin
+vertreten durch E.______
+Vertreter,
+und
+F.______
+Beschuldigter
+vertreten durch G.______
+betreffend
+Einstellungsverfügung
+Anträge
+de
+r
+Beschwerdeführer
+(gemäss Eingabe vom 25. Juni
+2014):
+„1.   Es sei die
+Einstellungsverfügung der Staats- und Jugendanwaltschaft vom 17.06.2014
+(SA.2013.00510) aufzuheben und das Strafverfahren gegen F.______, betreffend
+fahrlässiger Tötung im Zusammenhang mit dem Verkehrsunfall vom 22.11.2013
+weiterzuführen und zur Anklage zu bringen.
+2.    Eventuell sei die
+Einstellungsverfügung der Staats- und Jugendanwaltschaft vom 17.06.2014
+(SA.2013.00510) aufzuheben und im Sinne der Erwägungen an die Vorinstanz
+zurückzuweisen.
+3.    Alles unter gesetzlicher
+Kosten- und Entschädigungsfolge zu Lasten der Staats- und
+Jugendanwaltschaft.“
+Anträge
+de
+s
+Beschuldigten
+(gemäss
+Eingabe vom 10. Juli 2014):
+„1.   Die Beschwerde sei
+vollumfänglich abzuweisen.
+2.    Unter Kosten- und Entschädigungsfolgen
+zu Lasten der Beschwerdeführer.“
+____________________
+Das Gericht
+zieht in Betracht:
+I.
+1.—
+Am 22. November
+2013 ereignete sich um 7.08 Uhr auf der Hauptstrasse in [...] bei der
+Abzweigung [...], Fahrtrichtung [...], ein tödlicher Verkehrsunfall, bei dem
+H.______ getötet wurde.
+F.______ fuhr mit seinem
+Lastwagen auf der Kantonsstrasse von Norden herkommend in Richtung [...]. F.______
+beabsichtigte nach links abzubiegen. H.______ überquerte die Hauptstrasse auf
+dem Fussgängerstreifen unmittelbar vor dem Lastwagen auf seinem Fahrrad. Er
+stürzte und wurde anschliessend vom Lastwagen überfahren und einige Meter
+mitgeschleift. Er verstarb noch auf der Unfallstelle.
+2.—
+Die Staats- und
+Jugendanwaltschaft des Kantons Glarus (nachfolgend Staatsanwaltschaft)
+stellte das Strafverfahren gegen F.______ wegen fahrlässiger Tötung mit Verfügung
+vom 17. Juni 2014 ein und verfügte zu Gunsten des Beschuldigten eine
+Entschädigung von Fr. 1‘123.65 aus der Staatskasse (Dispositiv
+Ziff. 2). Die Kosten wurden ebenfalls auf die Staatskasse genommen
+(Dispositiv Ziff. 3).
+Die Staatsanwaltschaft begründet
+ihre Einstellungsverfügung im Wesentlichen damit, dass F.______ den
+Fahrradfahrer nicht habe sehen können, weshalb ihm keine Sorgfaltspflichtverletzung
+vorgeworfen werden könne und er folglich den Tod von H.______ nicht
+fahrlässig im Sinne von Art. 117 StGB verursacht habe.
+3.—
+Gegen diese
+Einstellungsverfügung erhoben die Eltern von H.______ mit Eingabe vom
+25. Juni 2014 Beschwerde beim zuständigen Obergericht und stellten die
+einleitend wiedergegebenen Anträge
+4.—
+Der Rechtsvertreter
+des Beschuldigten nahm mit Schreiben vom 10. Juli 2014 Stellung zur
+Beschwerde und beantragt deren Abweisung. Die Staatsanwaltschaft liess sich nicht
+vernehmen.
+II.
+1.—
+Die Beschwerde ist
+zulässig gegen Verfügungen der Staatsanwaltschaft (Art. 393 Abs. 1
+lit. a StPO; vgl. auch Art. 322 Abs. 2 StPO). Die vorliegend
+ange­fochtene Einstellungsverfügung ist daher der Beschwerde zugänglich.
+2.—
+a)
+Ein
+Rechtsmittel kann jede Partei ergreifen, die ein rechtlich geschütztes
+Interesse an der Aufhebung oder Änderung eines Entscheides hat (Art. 382
+Abs. 1 StPO). Der Parteibegriff ist umfassend im Sinne von Art. 104
+und Art. 105 StPO zu verstehen (
+Lieber
+in: Donatsch/Hansjakob/Lieber [Hrsg.], Kommentar zur Schwei­zerischen
+Strafprozessordnung [StPO], Zürich 2010, Art. 382 N 2).
+b)
+Ein rechtlich
+geschütztes Interesse ergibt sich daraus, dass die betreffende Person durch
+den angefochtenen Entscheid unmittelbar in ihren Rechten betroffen, d.h.
+beschwert ist; eine blosse Reflexwirkung genügt nicht (
+Lieber
+, a.a.O., Art. 382
+N 7).
+c)
+Vorliegend haben die
+Eltern des Verunglückten Zivilklage erhoben. Damit sind sie zur Beschwerde
+legitimiert.
+III.
+1.—
+Mit der Beschwerde
+können Rechtsverletzungen einschliesslich Über­schreitung und Missbrauch des
+Ermessens, Rechtsverweigerung und Rechts­ver­zögerung, die unvollständige
+oder unrichtige Feststellung des Sachverhaltes oder Unan­ge­messen­heit
+gerügt werden (Art. 393 Abs. 2 StPO), wobei der Beschwerdeinstanz
+bei der Prüfung umfassende Kognition zukommt (
+Keller
+in: Donatsch/Hansjakob/Lieber [Hrsg.], Kommentar zur Schweizerischen
+Strafprozess­ordnung [StPO], Zürich 2010, Art. 393 N 39).
+2.—
+Die Beschwerdeführer
+rügen die unrichtige Feststellung des Sachverhalts und eine Rechtsverletzung
+durch die Staatsanwaltschaft. Der Beschuldigte hätte den nachmalig getöteten
+Fahrradfahrer erkennen und ihm den Vortritt lassen müssen, er habe sich
+jedenfalls pflichtwidrig unvorsichtig verhalten. Ausserdem liege kein
+Einstellungsgrund nach Art. 319 Abs. 1 lit. a und b StPO
+vor, weshalb das Strafverfahren weiterzuführen bzw. F.______ wegen
+fahrlässiger Tötung zur Anklage zu bringen sei.
+3.—
+a)
+Die
+Staatsanwaltschaft stellte in der angefochtenen Einstellungsverfügung fest,
+dass der Beschuldigte beim Linksabbiegen von der Hauptstrasse den getöteten
+Velofahrer nicht habe sehen können. Sie stützte sich dabei in erster Linie
+auf die Aussagen mehrerer Auskunftspersonen, die aussagten, „dass der
+Lastwagenfahrer den Fahrradfahrer sicherlich nicht habe sehen können“.
+b)
+Für den Entscheid, ob
+der Beschuldigte den Velofahrer hätte sehen können oder nicht, kann indessen
+nicht hauptsächlich auf die Aussagen der Auskunftspersonen abgestellt werden.
+Diese wurden einzig von der Polizei als Auskunftsperson (in einem Fall
+telefonisch,) einvernommen. Widersprüchen in ihren Aussagen (z.B. aus welcher
+Richtung der Velofahrer kam) ist der Staatsanwalt nicht näher nachgegangen
+noch hat er den Beschuldigten einvernommen (vgl. Art. 311 Abs. 1
+StPO).
+c)
+Der von F.______
+gelenkte Lastwagen war mit einem Frontspiegel ausgerüstet, der die ganze
+Fahrzeugfrontbreite vor dem Lastwagen abdeckt, damit der Lenker sehen kann,
+ob sich jemand vor dem Fahrzeug befindet. Der getötete H.______ wurde vom
+rechten Vorderrad des Lastwagens überrollt. Er muss sich somit im
+Unfallzeitpunkt vor dem rechten Vorderrad und damit vor der Führerkabine
+befunden haben. Somit ist nicht auszuschliessen, dass der Beschuldigte
+H.______ beim Überqueren der Strasse hätte sehen können, da es dort aufgrund
+des Frontspiegels möglicherweise keinen toten Winkel gibt.
+Die Sachverhaltsfeststellung der
+Staatsanwaltschaft beruht in diesem wesentlichen Punkt auf unvollständigen
+Abklärungen, weshalb die angefochtene Einstellungsverfügung aufzuheben ist.
+d)
+Weiter wird in der
+Strafuntersuchung festzustellen sein, ob der letzte Stopp des Lastwagens vor
+dem Fussgängerstreifen erfolgte bzw. mit welcher Geschwindigkeit der
+Lastwagen auf den Fussgängerstreifen zurollte. Die Aussagen der von der
+Polizei einvernommenen Personen sind in diesem Zusammenhang nicht ganz
+eindeutig. Die bei den Akten liegende Auswertung des Fahrtenschreibers
+dürfte in diesem Zusammenhang aber weiter helfen. Jedenfalls ist davon
+auszugehen, dass dieser Punkt für die Beurteilung, ob sich F.______
+allenfalls sorgfaltswidrig verhalten hat, von Bedeutung sein könnte.
+e
+)
+Bevor sich der Unfall
+zugetragen hatte, fuhr vor dem Lastwagen von F.______ ein Lieferwagen und vor
+diesem war ein weiterer Lastwagen unterwegs. Der vor F.______ fahrende
+Lastwagen bog ebenfalls nach links ab. In diesem Zusammenhang ist aus den
+Akten nicht ersichtlich, ob es derselbe Autolenker gewesen war, welcher
+beiden Lastwagen den Vortritt gewährte. Da dieser Umstand für die Beurteilung
+des Verhaltens von F.______ ebenfalls von Belang sein könnte, ist auch diese
+Frage zu klären.
+f)
+Damit steht fest, dass
+die Staatsanwaltschaft den Sachverhalt unvollständig festgestellt hat. Im
+Zuge der zusätzlichen Untersuchungshandlungen wird auch die Einholung eines
+Gutachtens bei einer geeigneten Fachstelle zu prüfen sein (vgl. dazu auch
+Ruckstuhl/Dittmann/Arnold
+,
+Strafprozessrecht, S. 419 Rz. 1319).
+4.—
+a)
+Die
+Staatsanwaltschaft stellt ein Verfahren namentlich dann ein, wenn kein
+Tatverdacht erhärtet ist, der eine Anklage rechtfertigt oder kein
+Straftatbestand erfüllt ist (Art. 319 Abs. 1 lit. a und
+lit. b StPO).
+b)
+Nach
+bundesgerichtlicher Rechtsprechung ist im Zweifel Anklage zu erheben. Ein
+Strafverfahren darf nur eingestellt werden, wenn eine Verurteilung mit an
+Sicherheit grenzender Wahrscheinlichkeit ausgeschlossen ist. Als praktischer
+Richtwert kann gelten, dass Anklage erhoben werden muss, wenn eine
+Verurteilung wahrscheinlicher erscheint als ein Freispruch. Dahinter steckt
+die Überlegung, dass bei nicht eindeutiger Beweislage nicht die
+Untersuchungs- oder Anklagebehörden, sondern die für die materielle
+Beurteilung zuständigen Gerichte über einen Vorwurf entscheiden sollen. Bei
+der Anklageerhebung gilt daher der auf die gerichtliche Beweiswürdigung
+zugeschnittene Grundsatz 'in dubio pro reo' nicht. Vielmehr ist nach der
+Maxime 'in dubio pro duriore' im Zweifelsfall Anklage zu erheben. Der
+Grundsatz, dass im Zweifelsfall nicht eingestellt werden darf, ist auch bei
+der gerichtlichen Überprüfung von Einstellungsverfügungen zu beachten (Urteil
+6B_588/2007 E. 3.2.3 mit weiteren Hinweisen; BGE 137 IV 219
+E. 7.1-7.3).
+c)
+Eine eindeutige
+Beweislage ist im vorliegenden Fall nicht gegeben. Aufgrund des Umstands,
+dass der von F.______ gelenkte Lastwagen mit sämtlichen Spiegeln ausgerüstet
+war, auch mit einem Frontspiegel (vgl. act. 3/I/018), genügt das auf die
+Aussagen der Auskunftspersonen gestützte Argument, er hätte das Opfer
+unmöglich sehen können, nicht für eine Verfahrenseinstellung (vgl.
+E. II.3.b). Vielmehr wird zu klären sein, ob er sich pflichtwidrig
+verhalten hatte, indem er sich beim Abbiegemanöver auf den vor ihm fahrenden
+Lastwagen konzentrierte  und der konkreten Situation mit der Abzweigung, dem
+regen Verkehr sowie dem Fussgängerstreifen zu wenig Beachtung schenkte. Unter
+diesen Umständen erscheint eine Verurteilung von F.______ nach dem
+gegenwärtigen, noch unvollständigen Stand der Aktenlage nicht als mit an
+Sicherheit grenzender Wahrscheinlichkeit ausgeschlossen.
+5.—
+Zusammenfassend kann
+festgehalten werden, dass die Beschwerde gutzuheissen ist. Die Angelegenheit
+ist zur weiteren Untersuchung im Sinne der vorstehenden Erwägungen zur
+ergänzenden Sachverhaltsabklärung an die Staatsanwaltschaft zurückzuweisen.
+Nach erfolgter Abklärung wird die Staatsanwaltschaft unter Berücksichtigung
+der Maxime „in dubio pro duriore“ und des Ereignisses mit schwerwiegenden
+Folgen zu entscheiden haben, ob sie einen Strafbefehl erlässt, das Verfahren
+einstellt oder Anklage erhebt (Art. 318 Abs. 1 StPO).
+IV.
+Bei diesem Ausgang sind die
+Kosten des obergerichtlichen Verfahrens auf die Staatskasse zu nehmen
+(Art. 428 Abs. 1 und Abs. 4 StPO). Nachdem die
+Staatsanwaltschaft das Verfahren in Verletzung des Untersuchungsgrundsatzes
+abgeschlossen hat, rechtfertigt es sich, den obsiegenden Beschwerdeführern
+aus der Staatskasse eine angemessene Parteientschädigung von Fr. 2‘000.-
+auszurichten.
+____________________
+Das Gericht
+beschliesst
+:
+1.
+In Gutheissung der Beschwerde
+wird die Einstellungsverfügung der Staats- und Jugendanwaltschaft des
+Kantons Glarus vom 17. Juni 2014 im Verfahren SA.2013.00510 aufgehoben
+und es wird die Sache im Sinne der vorstehenden Erwägungen an die Staats-
+und Jugendanwaltschaft zurückgewiesen.
+2.
+Die Kosten des
+Beschwerdeverfahrens werden auf die Staatskasse genommen.
+3.
+Den Beschwerdeführern wird aus
+der Staatskasse eine Parteientschädigung von insgesamt Fr. 2‘000.-
+zugesprochen.
+4.
+Schriftliche Mitteilung an:
+[…]
