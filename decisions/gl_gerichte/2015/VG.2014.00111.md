@@ -1,0 +1,541 @@
+---
+decision_id: "gl_gerichte_VG.2014.00111"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2014.00111"
+docket_2: "VG.2015.180"
+decided: "2015-02-05"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=399&W10_KEY=218274&nTrefferzeile=1&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/101/art-026.md", "switzerland/bund/acts/101/art-036.md", "switzerland/bund/acts/700/art-025a.md"]
+---
+
+# GL Gerichte VG.2014.00111
+
+## Regeste
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+## Text
+
+Glarus Verwaltungsgericht 05.02.2015 VG.2014.00111 (VG.2015.180)
+Glaris Verwaltungsgericht 05.02.2015 VG.2014.00111 (VG.2015.180)
+Glarona Verwaltungsgericht 05.02.2015 VG.2014.00111 (VG.2015.180)
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+5. Februar 2015
+I. Kammer
+in Sachen
+VG.2014.00111
+GL Nord Real Estate AG
+Beschwerdeführerin
+vertreten durch
+Rechtsanwalt
+A.______
+gegen
+Gemeinde Glarus Nord
+Beschwerdegegnerin
+vertreten durch
+Rechtsanwalt
+B.______
+und
+Regierungsrat des Kantons Glarus
+Vorinstanz
+betreffend
+Überbauungsplan Feld
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Das in Näfels (Gemeinde Glarus Nord) gelegene
+Grundstück "Feld", Parz.-Nr. 95, Grundbuch Näfels, lag ursprünglich
+in der Landwirtschaftszone. In der Gemeindeversammlung vom 25. November
+2011 wurde das Grundstück in die Bauzone W2b "mit grossem Bonus bei
+Überbauungsplänen" umgezont. Am 31. Mai 2012 erwarb die GL Real Estate
+AG das Grundstück. Im gleichentags mit der Gemeinde Glarus Nord abgeschlossenen
+Vertrag verpflichtete sie sich, innert einem Jahr einen Überbauungsplan für
+die Liegenschaft "Feld" einzureichen. Ferner verpflichtete sie
+sich, innert einem Jahr seit Eintritt der Rechtskraft des Überbauungsplans
+ein Baugesuch einzureichen und die Liegenschaft innert maximal 15 Jahren seit
+Eintritt der Rechtskraft der Baubewilligung zu überbauen.
+1.2
+Am 28. Januar 2013 reichte die GL Real Estate AG dem
+Gemeinderat den Überbauungsplan "Feld" ein, welcher am 31. Januar
+2013 und am 20. Juni 2013 im Amtsblatt publiziert wurde. Gegen den
+Überbauungsplan gingen beim Gemeinderat Glarus Nord fünf Einsprachen ein.
+1.3
+Der Gemeinderat Glarus Nord genehmigte am 18.
+Dezember 2013 den Überbauungsplan und legte ihn dem Gemeindeparlament vor.
+Dieses genehmigte am 20. Februar 2014 den Überbauungsplan, nahm aber
+verschiedene Änderungen, namentlich der Sonderbauvorschriften, vor. An der
+Gemeindeversammlung vom 20. Juni 2014 stellte ein Stimmbürger einen
+Rückweisungsantrag, welcher durch verschiedene Stimmberechtigte unterstützt
+wurde. Der Rückweisungsantrag wurde im Wesentlichen damit begründet, dass
+zunächst der Richt- und der Nutzungsplan definitiv zu erstellen seien. Über
+den Überbauungsplan sei erst danach zu entscheiden. Die Gemeindeversammlung
+stimmte dem Rückweisungsantrag zu.
+2.
+2.1
+Am 15. Juli 2014 stellte der Gemeinderat Glarus Nord
+der GL Real Estate AG einen Protokollauszug der Gemeindeversammlung zu und
+wies darauf hin, dass es der GL Real Estate AG offen stehe, den Rechtsweg zu
+beschreiten.
+2.2
+In der Folge erhob die GL Real Estate AG am 19.
+August 2014 Beschwerde beim Regierungsrat und beantragte die Aufhebung des
+Rückweisungsbeschlusses der Gemeindeversammlung. Der von ihr eingereichte
+Überbauungsplan "Feld" sei unverändert und vollumfänglich zu
+genehmigen; unter Kosten- und Entschädigungsfolgen zu Lasten der Gemeinde
+Glarus Nord.
+2.3
+Der Regierungsrat überwies die Sache am 22. Oktober
+2014 als Sprungbeschwerde dem Verwaltungsgericht.
+2.4
+Mit Präsidialverfügung vom 23. Oktober 2014 setzte
+das Verwaltungsgericht der Gemeinde Glarus Nord Frist zur Beschwerdeantwort
+an. Gleichzeitig gab es dem Regierungsrat Gelegenheit zur Stellungnahme.
+2.5
+Der Regierungsrat verzichtete am 5. November 2014
+auf Stellungnahme. Die Gemeinde Glarus Nord beantragte am 24. November 2014,
+der Antrag auf Genehmigung des Überbauungsplans "Feld" sei
+abzuweisen. Eventualiter sei die Sache an die Gemeinde Glarus Nord
+zurückzuweisen, damit die Gemeindeversammlung nochmals über den
+Überbauungsplan abstimmen und anschliessend der Gemeinderat die noch hängigen
+Einsprachen entscheiden könne; unter gesetzlicher Kosten- und Entschädigungsfolge.
+II.
+1.
+1.1
+Das Verwaltungsgericht hat bereits in der
+Präsidialverfügung vom 20. Oktober 2014 ausgeführt, dass die Sprungbeschwerde
+vorliegend zulässig ist. Demzufolge ist das Verwaltungsgericht zur Behandlung
+der vorliegenden Beschwerde zuständig.
+1.2
+Der Beschluss der Gemeindeversammlung erging am 20.
+Juni 2014. Die Beschwerde wurde am 19. August 2014 der Post übergeben. Unter
+Berücksichtigung der vom 15. Juli 2014 bis 15. August 2014 geltenden
+Gerichtsferien wurde die 30-tägige Beschwerdefrist gewahrt, selbst wenn man
+davon ausginge, bereits der Beschluss der Gemeindeversammlung habe die
+Beschwerdefrist ausgelöst. Dem ist aber ohnehin nicht so. Die Beschwerdeführerin
+hat bei der Beschwerdegegnerin einen Überbauungsplan eingereicht. Sie ist
+demzufolge Gesuchstellerin, die nach Art. 76 Abs. 1 des
+Gesetzes über
+die Verwaltungsrechtspflege vom 4. Mai 1986
+(VRG)
+Anspruch auf persönliche Mitteilung des getroffenen Entscheids hat. In dieser
+Beziehung ist ihre Stellung die gleiche wie diejenige von Bauherren, die der
+Behörde ein Baugesuch eingereicht haben. Dass die Erledigung des
+Überbauungsplans nicht durch den Gemeinderat, sondern durch die Gemeindeversammlung
+erfolgte, ändert am Anspruch auf persönliche Mitteilung nichts. Insofern hätte
+die Beschwerdegegnerin der Beschwerdeführerin den Entscheid der Gemeindeversammlung
+formell eröffnen und eine Rechtsmittelbelehrung angeben müssen. Erst mit der
+korrekten Eröffnung des Entscheids der Gemeindeversammlung beginnt die Beschwerdefrist
+zu laufen (vgl. zum Ganzen Entscheid der Baurekurskommission Zürich BRKE IV
+Nr. 0019/2005 vom 27. Januar 2005, publiziert in BEZ 2005 Nr. 10).
+Da auch die übrigen
+Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde einzutreten.
+1.3
+Einer Klärung bedarf die Frage, ob für die
+Behandlung der Beschwerde gegen den angefochtenen Beschluss der
+Gemeindeversammlung der Regierungsrat oder das Departement für Bau und Umwelt
+(DBU) zuständig gewesen wäre.
+1.3.1
+Gemäss Art. 72 Abs. 3 lit. b des Gemeindegesetzes
+vom 3. Mai 1992 (GemeindeG) kann
+jede Person, die ein schutzwürdiges
+Interesse nachweist, gegen einen rechtswidrigen Beschluss der
+Gemeindeversammlung beim Regierungsrat Verwaltungsbeschwerde erheben. Art. 79
+Abs. 1 des Raumplanungs- und Baugesetzes vom 2. Mai 2010 (RBG) sieht hingegen
+vor, dass sich der Rechtsschutz in Planungs- und Bausachen nach dem
+Verwaltungsrechtspflegegesetz richtet. Gemäss dessen Art. 103 Abs. 2
+ist gegen Entscheide der Vorsteherschaften der Gemeinden und der weiteren
+öffentlich-rechtlichen Körperschaften und gegen Entscheide der Organe der
+selbständigen öffentlich-rechtlichen Anstalten die Verwaltungsbeschwerde an
+das zuständige Departement zu richten.
+1.3.2
+Beim Überbauungsplan handelt es sich um
+einen Sondernutzungsplan (Art. 21 Abs. 2 lit. b RBG). Ist
+für den Erlass eines Sondernutzungsplans der Gemeinderat zuständig, erweist
+sich der Rechtsmittelweg als unproblematisch. Gemäss
+Art. 79 Abs. 1 RBG i.V.m. Art. 103 Abs. 2 VRG steht gegen den
+Entscheid des Gemeinderats die Beschwerde ans DBU offen.
+1.3.3
+Es stellt sich jedoch die Frage, ob der
+Regierungsrat zum Beschwerdeentscheid berufen ist, wenn wie vorliegend (vgl.
+dazu E. II/2.) die Gemeindeversammlung für den Entscheid über den
+Sondernutzungsplan zuständig ist. Eine solche Auffassung lässt sich durchaus
+begründen. So sieht Art. 72 Abs. 3 lit. b GemeindeG gerade vor, dass Entscheide
+der Gemeindeversammlung grundsätzlich beim Regierungsrat anzufechten sind.
+Dem steht auch Art. 79 Abs. 1 RBG, welcher auf das Verwaltungsrechtspflegegesetz
+verweist, nicht entgegen, da Art. 103 Abs. 2 VRG nicht in erster Linie
+Beschlüsse der Gemeindeversammlung beschlägt.
+Indessen spricht vieles dafür, das DBU auch dann für die
+Behandlung von Beschwerden gegen Sondernutzungspläne für zuständig zu
+erachten, wenn der erstinstanzliche Entscheid über einen Sondernutzungsplan
+der Gemeindeversammlung obliegt. Zum einen dient es einer einheitlichen
+Rechtsprechung, wenn über denselben Streitgegenstand dieselbe
+Rechtsmittelinstanz entscheidet. Mit anderen Worten erscheint es als problematisch,
+wenn Beschwerden über Sondernutzungspläne je nach erlassendem Organ entweder
+durch das DBU oder durch den Regierungsrat zu entscheiden sind. Dies namentlich
+auch deshalb, weil der ersten Beschwerdeinstanz gemäss
+Art. 33 Abs. 3 lit. b des Bundesgesetzes über die
+Raumplanung vom 22. Juni 1979 (RPG) die volle Überprüfung des Entscheids
+einschliesslich der Unangemessenheit zukommt.
+Sodann ist zu berücksichtigen, dass die
+Sondernutzungspläne eines Genehmigungsentscheids bedürfen, welcher gemäss
+Art. 28 RBG dem DBU obliegt. Die Koordinationsgrundsätze gemäss Art. 25a RPG
+erfordern dabei eine Abstimmung des Rechtsmittelentscheids auf den
+Genehmigungsentscheid (BGE 135 II 22 E. 1.2.3). Es erscheint nun als
+zweckmässig, wenn diese Koordination nicht erst im Verfahren vor dem Verwaltungsgericht,
+sondern bereits im verwaltungsinternen Beschwerdeverfahren erfolgt. Da das
+DBU den Genehmigungsentscheid zu treffen hat, erweist es sich als sinnvoll,
+dass es stets auch als Rechtsmittelinstanz gegen kommunale Entscheide über Sondernutzungspläne
+entscheidet.
+Der naheliegenden Lösung, dass das DBU auch bei
+Entscheiden der Gemeindeversammlung über Sondernutzungspläne als
+Beschwerdeinstanz amtet, steht einzig die gegenüber dem Entscheid des
+Gemeinderats erhöhte demokratische Legitimation des Entscheides der
+Gemeindeversammlung gegenüber. Diesbezüglich gilt es aber zu sagen, dass vor
+Inkrafttreten des neuen RBG der Regierungsrat für die Genehmigung von
+Überbauungsplänen (Art. 14 Abs. 3 des Raumplanungs- und Baugesetzes vom
+1. Mai 1988 [aRBG]) und Nutzungsplänen (Art. 16 Abs. 3 aRBG) zuständig
+war. Nach dem geltenden Recht kommt diese Kompetenz dem DBU nicht nur bei den
+Sondernutzungsplänen, sondern auch bei den stets durch eine kommunale
+Legislativbehörde zu erlassenden Nutzungsplänen (Baureglement und Zonenplan)
+zu (Art. 28 RBG). Insofern erachtete es der Gesetzgeber als unproblematisch,
+wenn Entscheide der Gemeindeversammlung dem Departement zur Genehmigung
+unterbreitet werden müssen. Daher ist es nicht ersichtlich, weshalb das
+Departement dann auch nicht zur Behandlung von Beschwerden gegen
+Gemeindeversammlungsbeschlüsse zuständig sein soll.
+Es ist naheliegend, dass der Gesetzgeber bei der Regelung
+des Rechtsmittelwegs nicht die Möglichkeit vor Augen hatte, dass in einer
+Gemeinde die Gemeindeversammlung zum Entscheid über Sondernutzungspläne
+befugt ist. Es wäre daher wünschenswert, dass der Gesetzgeber klärt, ob in
+solchen Fällen der Regierungsrat oder das DBU zuständige Rechtsmittelinstanz
+ist. Bis diese Frage geklärt ist, ist aus den dargelegten Gründen davon
+auszugehen, dass die Behandlung solcher Beschwerden künftig dem DBU obliegt.
+2.
+Es ist zu prüfen, ob die
+Gemeindeversammlung Glarus Nord zum strittigen Entscheid über den
+Überbauungsplan überhaupt berufen war.
+2.1
+Gemäss Art. 27 Abs. 2 RBG werden Sondernutzungspläne
+von dem nach Massgabe der Gemeindegesetzgebung zuständigen Organ erlassen.
+Nach Art. 11 der Bauordnung der Gemeinde Näfels vom 18. November 2005 (BO, in
+der Fassung vom 1. Juli 2011) sind die Art. 24 - 29 RBG
+unmittelbar anwendbar. Gemäss Art. 13 lit. b GO unterstehen
+der Erlass und die Änderung von Nutzungsplänen sowie Beschlüsse über
+Verkehrs- und Entwicklungsplanungen dem obligatorischen Referendum.
+Art. 18 Ziff. 1 GO sieht vor, dass bei Erlass und Abänderung
+von Nutzungsplänen sowie bei Erlass und Abänderung von Überbauungs-,
+Struktur-, Entwicklungs- und Verkehrsplanen Anträge auf Abänderung spätestens
+30 Tage vor der Gemeindeversammlung dem Gemeinderat begründet einzureichen
+sind. Nach Art. 35 Ziff. 2 GO stehen dem Gemeinderat sämtliche
+Befugnisse zu, welche nicht zwingend durch das kantonale Recht oder
+ausdrücklich durch die Gemeindeordnung den Stimmberechtigten, dem Parlament oder
+einer anderen Instanz zugewiesen sind.
+2.2
+2.2.1
+Das kantonale Baurecht überlässt es den Gemeinden,
+das für den Erlass von Sondernutzungsplänen zuständige Organ zu bestimmen.
+Die Bauordnung der Gemeinde Näfels verweist diesbezüglich auf das kantonale
+Recht, ohne selbst eine Kompetenzausscheidung vorzunehmen. Folglich bestimmt
+sich das zuständige Organ nach der Gemeindeordnung, welche einer Auslegung bedarf.
+2.2.2
+Gemäss Art. 50 Abs. 1 der Bundesverfassung der
+Schweizerischen Eidgenossenschaft vom 18. April 1999 (BV) ist die
+Gemeindeautonomie nach Massgabe des kantonalen Rechts gewährleistet. Im
+Einzelnen ergibt sich der Umfang der kommunalen Autonomie aus dem für den
+entsprechenden Bereich anwendbaren kantonalen Verfassungs- und Gesetzesrecht
+(BGE 137 I 235 E. 2.2, mit Hinweisen).
+Art. 115 Abs. 2 der
+Verfassung des Kantons Glarus vom 1. Mai 1998 (KV) garantiert den Gemeinden
+in den Schranken von Verfassung und Gesetz ihren Bestand und das Recht, ihre
+Angelegenheiten selbständig zu regeln. Nach dem kantonalen Recht bestimmen
+die Gemeinden selbst das für den Erlass von Sondernutzungsplänen zuständige
+Organ. Entsprechende kommunale Regeln sind in erster Linie durch die Gemeinden
+auszulegen. Die kantonalen Behörden dürfen dabei von einer vertretbaren Auslegung
+des kommunalen Rechts durch die Gemeindebehörden nicht abweichen (Ulrich
+Häfelin/Georg Müller/Felix Uhlmann, Allgemeines Verwaltungsrecht, 6. A., Zürich/St. Gallen
+2010, Rz. 1399).
+Das Verwaltungsgericht hat
+daher einzig zu prüfen, ob die Auslegung der Beschwerdegegnerin, wonach die
+Gemeindeversammlung für den Erlass des strittigen Überbauungsplans zuständig
+war, vertretbar ist.
+2.3
+2.3.1
+Nach
+den üblichen Regeln der Gesetzesauslegung ist eine Bestimmung in erster Linie
+nach ihrem Wortlaut auszulegen. Ist der Text nicht ganz klar und sind
+verschiedene Auslegungen möglich, so muss nach seiner wahren Tragweite
+gesucht werden unter Berücksichtigung aller Auslegungselemente, namentlich
+von Sinn und Zweck sowie der dem Text zugrunde liegenden Wertung. Wichtig ist
+ebenfalls der Sinn, der einer Norm im Kontext zukommt. Vom klaren, d.h.
+eindeutigen und unmissverständlichen Wortlaut darf nur ausnahmsweise
+abgewichen werden, u.a. dann, wenn triftige Gründe dafür vorliegen, dass der
+Wortlaut nicht den wahren Sinn der Bestimmung wiedergibt. Solche Gründe
+können sich aus der Entstehungsgeschichte der Bestimmung, aus ihrem Grund und
+Zweck oder aus dem Zusammenhang mit andern Vorschriften ergeben (BGE 139 V 148 E. 5.1,
+mit Hinweisen).
+2.3.2
+Auszugehen ist von Art. 13 GO, welcher
+abschliessend regelt, welche Sachentscheide der Gemeindeversammlung zwingend
+zu unterbreiten sind. Gemäss Art. 13 lit. b GO ist die
+Gemeindeversammlung für den Erlass und die Änderung von Nutzungsplänen
+zuständig. Ob darunter auch Überbauungspläne fallen, ergibt sich aus der
+Bestimmung nicht. Gemäss Art. 18 Ziff. 1 GO sind Abänderungsanträge zum
+Erlass und zur Abänderung von Überbauungsplänen 30 Tage vor der Gemeindeversammlung
+dem Gemeinderat einzureichen. Zwar handelt es sich dabei nicht um eine Bestimmung,
+welche die Kompetenzen der Gemeindeorgane regelt. Es erscheint aber zumindest
+als vertretbar, Art. 18 Ziff. 1 GO zur Auslegung von Art. 13 lit. b GO
+heranzuziehen. Dabei drängt sich der Schluss auf, dass auch Überbauungspläne
+durch die Gemeindeversammlung zu entscheiden sind, da ansonsten die
+Vorschrift, wonach Abänderungsanträge zu Überbauungsplänen vor der
+Gemeindeversammlung einzureichen sind, keinen Sinn macht.
+Erweist sich aber die Auslegung der Beschwerdegegnerin,
+wonach gemäss der Gemeindeordnung der Erlass des strittigen Überbauungsplans
+der Gemeindeversammlung oblag, als vertretbar, besteht für das
+Verwaltungsgericht kein Raum dafür, ein anderes Auslegungsergebnis
+vorzuziehen.
+2.3.3
+Daran ändert auch nichts, dass vor dem
+Entscheid der Gemeindeversammlung das Einspracheverfahren abzuschliessen ist
+(Art. 27 Abs. 2 RBG).
+Zunächst ist nämlich darauf hinzuweisen, dass auch Art.
+27 Abs. 1 RBG, welcher die Beschlussfassung von Baureglement und Zonenplan
+regelt, ein Einspracheverfahren vor dem Gemeinderat vorschreibt, obwohl der
+Erlass der Nutzungsplanung den Stimmberechtigten obliegt (möglich wäre es
+auch, den Entscheid dem Gemeindeparlament zu überlassen; die Gemeinde Glarus
+Nord sieht dies jedoch nicht vor). Bereits daraus ergibt sich, dass es der
+Gesetzgeber als unproblematisch erachtet, auch dann ein vorgängiges
+Einspracheverfahren vor dem Gemeinderat vorzuschreiben, wenn die Gemeindeversammlung
+für den Erlass eines Plans zuständig ist.
+Dies lässt sich damit erklären, dass sich das Einspracheverfahren
+gemäss Art. 27 RBG vom "gewöhnlichen" Einspracheverfahren im Sinne
+von Art. 81 f. VRG unterscheidet. Im Einspracheverfahren gemäss dem
+Verwaltungsrechtspflegegesetz entscheidet zunächst die erstinstanzliche
+Behörde. Dieser Entscheid kann mittels Einsprache bei der nämlichen Behörde
+angefochten werden, welche ihren Entscheid umfassend zu überprüfen und über
+die Sache nochmals zu entscheiden hat (Art. 81 Abs. 1 VRG). Im Einspracheverfahren
+nach Art. 27 RBG liegt hingegen gerade kein erstinstanzlicher Entscheid einer
+Behörde vor. Vielmehr richtet sich die Einsprache gegen die durch die
+Gemeinde aufgelegten Baureglemente, Zonen- und Sondernutzungspläne (Art. 25 Abs. 1
+RBG). Demzufolge kommt dem Einspracheentscheid des Gemeinderats im Sinne von
+Art. 27 RBG denn auch eine andere Bedeutung zu als dem Einspracheentscheid im
+Sinne des Verwaltungsrechtspflegegesetzes. Während Letzterer Anfechtungsobjekt
+für das anschliessende Rechtsmittelverfahren bildet, ist der Einspracheentscheid
+im Sinne von Art. 27 RBG nicht anfechtbar. Anfechtungsobjekt bildet vielmehr
+die Beschlussfassung durch das zuständige Organ, d.h. das durch die
+Stimmberechtigten erlassene Baureglement bzw. der erlassene Zonenplan (Art.
+27 Abs. 1 RBG) sowie die durch das zuständige Gemeindeorgan erlassenen
+Sondernutzungspläne (Art. 27 Abs. 2 RBG).
+2.3.4
+Für die Sondernutzungspläne ergibt sich
+daraus Folgendes: Ist für den Erlass eines Sondernutzungsplans der
+Gemeinderat zuständig, erlässt er diesen zusammen mit dem
+Einspracheentscheid. Ist hingegen für den Erlass wie vorliegend die Gemeindeversammlung
+zuständig, entscheidet der Gemeinderat zunächst über die Einsprachen. Anhand
+des Ergebnisses des Einspracheverfahrens passt er nötigenfalls den Sondernutzungsplan
+an. Die allenfalls angepasste Vorlage wird der Gemeindeversammlung
+unterbreitet, wobei es naheliegend ist, dass der Gemeinderat über die Einsprachen
+und deren Ausgang informiert. Die Gemeindeversammlung, welcher nach Massgabe
+des kommunalen Rechts die alleinige Beschlusskompetenz über den Sondernutzungsplan
+zukommt, ist bei ihrem Entscheid an das Ergebnis des Einspracheverfahrens
+nicht gebunden und entscheidet erstinstanzlich über den Sondernutzungsplan.
+Sollte dabei der Sondernutzungsplan geändert werden, ist eine erneute
+Planauflage mangels entsprechender Vorschrift jedenfalls dann nicht
+erforderlich, wenn die betroffenen Grundeigentümer an der Gemeindeversammlung
+stimmberechtigt sind (BGE 111 Ia 164 E. 2b; vgl. aber E. II/3.2.4 zur
+Problematik von Abänderungen durch Private eingereichter Überbauungspläne).
+Der Entscheid der Gemeindeversammlung bildet das Anfechtungsobjekt für das
+anschliessende Rechtsmittelverfahren. Analog vorzugehen ist im Übrigen bei
+der Beschlussfassung von Baureglement und Zonenplan gemäss Art. 27 Abs. 1
+RBG.
+3.
+Zu prüfen ist sodann die
+Zulässigkeit des Rückweisungsbeschlusses der Gemeindeversammlung.
+3.1
+3.1.1
+Die Beschwerdeführerin macht geltend, die
+Genehmigungsbehörde sei verpflichtet, einen ihr vorgelegten Überbauungsplan
+materiell zu prüfen und über die Genehmigung materiell zu entscheiden. Im
+Rahmen des Entscheids könnten auch Auflagen gemacht werden. Falls der
+Überbauungsplan den gesetzlichen Anforderungen nicht genüge, könne er
+materiell auch abgewiesen werden. Sie, die Beschwerdeführerin, sei verpflichtet
+gewesen bis spätestens am 31. Mai 2014 (recte: 31. Mai 2013) einen Überbauungsplan
+einzureichen. Dieser Verpflichtung habe die Verpflichtung der Beschwerdegegnerin
+gegenübergestanden, den Überbauungsplan zu prüfen und darüber materiell zu
+entscheiden. Indem die Gemeindeversammlung die Genehmigung des Überbauungsplans
+für so lange Zeit zurückgestellt habe, bis der neue Richtplan, der neue
+Nutzungsplan und die neue Bauordnung in Kraft treten, habe sie eine
+Rechtsverweigerung begangen.
+3.1.2
+Die Beschwerdegegnerin führt aus, es sei
+zweifelhaft, ob der Überbauungsplan bis zum Inkrafttreten des
+Gemeinderichtplans, der neuen Nutzungsplanung sowie der Bauordnung
+zurückgewiesen werden dürfe. Dies bedürfe eines gerichtlichen Entscheids.
+3.2
+3.2.1
+Der von der Gemeindeversammlung angenommene Antrag
+auf Rückweisung des Überbauungsplans wurde durch die Antragssteller damit
+begründet, dass zugewartet werden solle, bis der Richt- und der Nutzungsplan
+genehmigt worden seien. Es ist unbestritten, dass es bis zur Genehmigung des
+Richt- und des Nutzungsplans noch mehrere Jahre dauern wird.
+3.2.2
+Indem die Gemeindeversammlung den Überbauungsplan
+zurückwies und es damit der Beschwerdeführerin über Jahre hinaus
+verunmöglicht, deren Grundstück zu bebauen, griff sie in die durch Art. 26 BV
+garantierte Eigentumsgarantie der Beschwerdeführerin ein. Dies ist nur dann
+zulässig, wenn sich die Grundrechtseinschränkung auf eine gesetzliche
+Grundlage stützt, sie im öffentlichen Interesse liegt oder durch den Schutz
+von Grundrechten Dritter gerechtfertigt ist, sich als verhältnismässig
+erweist und den Kerngehalt des Grundrechts nicht antastet (Art. 36 BV).
+3.2.3
+Das Erfordernis der gesetzlichen Grundlage ist unter
+anderem nur dann erfüllt, wenn die Einschränkung des Grundrechts in einem
+genügend bestimmten Rechtssatz vorgesehen ist (Ulrich Häfelin/Walter
+Haller/Helen Keller, Schweizerisches Bundesstaatsrecht, 8. A.,
+Zürich/Basel/Genf 2012, Rz. 308).
+Es ist offensichtlich,
+dass die in Art. 59 Abs. 2 GemeindeG vorgesehene Möglichkeit, an der
+Gemeindeversammlung Rückweisung eines Verhandlungsgegenstands zu beantragen,
+den Eingriff in das Grundrecht nicht genügend bestimmt und folglich keine genügende
+gesetzliche Grundlage für die freiheitsbeschränkende Massnahme bildet. Die Möglichkeit,
+einen Überbauungsplan zurückzuweisen, bis über die Richt- oder Nutzungsplanung
+entschieden worden ist, muss vielmehr konkret in einem Rechtssatz vorgesehen
+sein.
+Näher zu prüfen ist
+hingegen, ob Art. 31 Abs. 1 RBG eine genügende gesetzliche Grundlage für den
+vorliegend strittigen Grundrechtseingriff bildet. Sind Pläne generell zu überarbeiten
+oder fehlen Pläne, die nach diesem Gesetz notwendig sind oder steht deren Abänderung
+bevor, können gemäss dieser Bestimmung für genau bezeichnete Gebiete
+Planungszonen bestimmt werden. Innerhalb der Planungszonen darf nichts unternommen
+werden, was die kommende Planung erschweren könnte; insbesondere kann die Behandlung
+der Baugesuche sistiert werden.
+Massgebend ist nun, dass
+die Gemeindeversammlung nicht eine Planungszone im Sinne von Art. 31 Abs. 1
+RBG erlassen hat, wofür sie gemäss Art. 31 Abs. 2 RBG auch nicht zuständig
+gewesen wäre. Sie hat vielmehr einen Überbauungsplan auf unbestimmte Zeit
+zurückgewiesen. Ein solches Vorgehen findet jedoch in Art. 31 Abs. 1 RBG
+keine Grundlage.
+Damit ergibt sich, dass
+sich der durch den strittigen Beschluss der Gemeindeversammlung erfolgte
+Grundrechtseingriff nicht auf eine genügende gesetzliche Grundlage stützen
+lässt. Indem die Gemeindeversammlung den Überbauungsplan bis zum Erlass der
+Richt- und Nutzungsplanung zurückwies, verletzte sie folglich die
+Eigentumsgarantie der Beschwerdeführerin. Dies führt zur Aufhebung des
+angefochtenen Beschlusses der Gemeindeversammlung vom 20. Juni 2014.
+3.2.4
+Offen bleiben kann daher, ob der Beschwerdegegnerin
+eine Rechtsverweigerung vorzuwerfen ist. Zulässig wäre eine Rückweisung
+jedenfalls dann, wenn sie mit einem konkreten Antrag verbunden wäre, wie der
+strittige Überbauungsplan zu ändern ist. In einem solchen Fall würde nämlich
+der Grundeigentümerin nicht die Bebauung ihres Grundstückes über einen
+längeren Zeitraum verwehrt, vielmehr übte die Gemeindeversammlung das ihr
+zustehende Planungsermessen aus.
+Hinzuweisen bleibt im
+Übrigen darauf, dass es als nicht unproblematisch erscheint, wenn das
+zuständige Gemeinwesen, sei es der Gemeinderat oder die Gemeindeversammlung,
+selber einen durch Private eingereichten Überbauungsplan ohne deren Zustimmung
+ändert (vgl. Art. 18 Ziff. 1 GO, welcher von der Zulässigkeit von Abänderungsanträgen
+ausgeht). Es obliegt indessen dem Gesetzgeber, darüber zu entscheiden, ob
+eine Regelung zu treffen ist, welche bei Änderungsbegehren betreffend einen
+durch Private erarbeiteten und eingereichten Überbauungsplan lediglich dessen
+Ablehnung oder Rückweisung zulässt.
+4.
+Zu prüfen bleibt, wie
+weiter vorzugehen ist.
+4.1
+4.1.1
+Die Beschwerdeführerin geht davon aus, dass die
+Gemeindeversammlung den Entscheid über die Genehmigung des Überbauungsplans
+nicht habe fällen wollen. Folglich sei die Beschwerdeinstanz berufen und
+verpflichtet, anstelle der Gemeindeversammlung den Überbauungsplan
+"Feld" zu genehmigen. Ein Eingriff in die Gemeindeautonomie liege
+dabei nicht vor, da die Gemeindeversammlung bewusst auf einen Entscheid unter
+dem geltenden Recht verzichtet habe.
+4.1.2
+Die Beschwerdegegnerin führt aus, anlässlich der
+Gemeindeversammlung seien fünf Abänderungsanträge nicht behandelt worden.
+Dies stehe einer Genehmigung des Überbauungsplans im vorliegenden Verfahren
+entgegen. Sollte der Beschluss der Gemeindeversammlung nicht Bestand haben,
+müsste anlässlich einer kommenden Gemeindeversammlung konkret über die
+Änderungsanträge abgestimmt werden.
+4.2
+Der Auffassung der Beschwerdeführerin, dass im
+vorliegenden Verfahren der Überbauungsplan zu genehmigen sei, kann nicht
+gefolgt werden. Dies hätte nämlich einen unzulässigen Eingriff des Gerichts
+in das Planungsermessen der Gemeinde zur Folge. Ein solcher Entscheid liesse
+sich denn auch nicht auf Art. 101 Abs. 1 VRG stützen.
+Das weitere Vorgehen
+bestimmt sich vielmehr nach dem in E. II/2.3.4 Dargelegten. Zunächst hat der
+Gemeinderat die hängigen Einsprachen zu beurteilen. Anschliessend wird er den
+nötigenfalls angepassten Überbauungsplan unter der in der Gemeindeordnung
+vorgesehenen Mitwirkung des Gemeindeparlaments der Gemeindeversammlung unterbreiten.
+Dabei sind an der Gemeindeversammlung nur Anträge zuzulassen, die gemäss Art.
+18 Ziff. 1 GO rechtzeitig eingereicht wurden. Rückweisungsanträge sind nur
+dann zuzulassen, wenn sie einen konkreten Auftrag enthalten, wie der Überbauungsplan
+zu ändern ist. Gegen den durch die Gemeindeversammlung erlassenen Überbauungsplan
+steht dann der Rechtsmittelweg offen.
+5.
+Zusammenfassend ergibt
+sich, dass die Beschwerde teilweise gutzuheissen ist. Der Gemeindeversammlungsbeschluss
+vom 20. Juni 2014 betreffend Überbauungsplan "Feld", Näfels, ist
+aufzuheben. Die Sache ist im Sinne der Erwägungen an den Gemeinderat Glarus
+Nord zurückzuweisen.
+III.
+1.
+1.1
+Gemäss Art. 134 Abs. 1 lit. c VRG hat eine Partei im
+Beschwerdeverfahren grundsätzlich amtliche Kosten zu tragen, wenn sie
+unterliegt oder wenn auf ihr Begehren nicht eingetreten wurde. Gemeinden sind
+gegenüber den kantonalen Behörden nur dann kostenpflichtig, wenn sie im
+Verfahren als Partei beteiligt und an der Angelegenheit wirtschaftlich
+Interessiert sind (Art. 135 Abs. 2 VRG) oder wenn ihnen grobe Verfahrensfehler
+oder offensichtliche Rechtsverletzungen unterlaufen sind (Art. 135 Abs. 3 VRG).
+1.2
+Die Beschwerdeführerin dringt mit ihrem Antrag auf Genehmigung
+des Überbauungsplans nicht durch. Hingegen obsiegt sie insoweit, als der
+angefochtene Beschluss der Gemeindeversammlung aufzuheben ist. Es
+rechtfertigt sich daher die Gerichtskosten von Fr. 3'000.- zur Hälfte der
+Beschwerdeführerin aufzuerlegen. Vom von ihr bereits geleisteten
+Kostenvorschuss in der Höhe von Fr. 3'000.- sind ihr Fr. 1'500.- zurückzuerstatten.
+Zur Hälfte sind die Gerichtskosten auf die Staatskasse zu nehmen, da der Beschwerdegegnerin
+mangels Erfüllung der besonderen Voraussetzungen von Art. 135 Abs. 2 und
+3 VRG keine Kosten aufzuerlegen sind.
+2.
+Der teilweise obsiegenden
+Beschwerdeführerin ist zu Lasten der Beschwerdegegnerin eine reduzierte
+Parteientschädigung von Fr. 2'000.- (inkl. Mehrwertsteuer) zuzusprechen (Art.
+138 Abs. 3 lit. a VRG). Eine solche steht der Beschwerdegegnerin nicht zu, da
+gemäss Art. 138 Abs. 4 VRG Behörden im Beschwerdeverfahren eine Entschädigung
+nur ausgerichtet wird, wenn besondere Umstände dies rechtfertigen, welche
+Vor-aussetzung vorliegend nicht erfüllt ist.
+Demgemäss erkennt
+die Kammer
+:
+1.
+Die Beschwerde wird teilweise
+gutgeheissen. Der Beschluss der Gemeindever
+sammlung
+Glarus Nord vom 20. Juni 2014 betreffend Überbauungsplan "Feld",
+Näfels, wird aufgehoben. Die Sache wird im Sinne der Erwägungen an den
+Gemeinderat Glarus Nord zurückgewiesen.
+2.
+Die
+pauschale Gerichtsgebühr von Fr. 3'000.- wird je zur Hälfte der
+Beschwerdeführerin auferlegt und zur Hälfte auf die Staatskasse genommen.
+Vom bereits geleisteten Kostenvorschuss in der Höhe von Fr. 3'000.- werden
+der Beschwerdeführerin Fr. 1'500.- zurückerstattet.
+3.
+Die
+Beschwerdegegnerin wird verpflichtet, der Beschwerdeführerin innert 30
+Tagen nach Rechtskraft dieses Entscheids eine Parteientschädigung in der
+Höhe von Fr. 2'000.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
