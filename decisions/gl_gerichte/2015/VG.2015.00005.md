@@ -1,0 +1,439 @@
+---
+decision_id: "gl_gerichte_VG.2015.00005"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2015.00005"
+docket_2: "VG.2015.223"
+decided: "2015-03-26"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=450&W10_KEY=218274&nTrefferzeile=4&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/741.01/art-016.md", "switzerland/bund/acts/741.01/art-016d.md", "switzerland/bund/acts/741.51/art-030.md", "switzerland/bund/acts/812.121/art-019a.md"]
+---
+
+# GL Gerichte VG.2015.00005
+
+## Regeste
+
+Administrativmassnahmen Strassenverkehr
+
+## Text
+
+Glarus Verwaltungsgericht 26.03.2015 VG.2015.00005 (VG.2015.223)
+Glaris Verwaltungsgericht 26.03.2015 VG.2015.00005 (VG.2015.223)
+Glarona Verwaltungsgericht 26.03.2015 VG.2015.00005 (VG.2015.223)
+
+Administrativmassnahmen Strassenverkehr
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+26. März 2015
+I. Kammer
+in Sachen
+VG.2015.00005
+A.______
+Beschwerdeführer
+vertreten durch Rechtsanwalt B.______
+gegen
+Sicherheit
+und Justiz,
+Beschwerdegegnerin
+Staats-
+und Jugendanwaltschaft des Kantons Glarus
+betreffend
+Abklärung der Fahreignung
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Mit Strafbefehl des Untersuchungsrichteramts C.______ vom 19. August 2014
+wurde A.______ des mehrfachen Vergehens gegen das Bundesgesetz über die Betäubungsmittel
+und die psychotropen Stoffe vom 3. Oktober 1951 (Betäubungsmittelgesetz,
+BetmG) durch Erwerb, Besitz und Anstaltentreffen zur Ausfuhr von Marihuana
+sowie der mehrfachen Übertretung des Betäubungsmittelgesetzes durch Erwerb,
+Besitz, Konsum und Anstaltentreffen zur Ausfuhr von Marihuana, Ecstasy,
+Amphetamin und LSD schuldig gesprochen und mit einer Busse sowie einer Geldstrafe
+bestraft.
+1.2
+Am 29. Oktober 2014 zeigte die Abteilung Administrativmassnahmen der
+Staats- und Jugendanwaltschaft Glarus (nachfolgend: Abteilung Administrativmassnahmen)
+A.______ gestützt auf Art. 16 ff. des Strassenverkehrsgesetzes vom
+19. Dezember 1958 (SVG) bzw. Art. 28 ff. der Verordnung über die
+Zulassung von Personen und Fahrzeugen zum Strassenverkehr vom 27. Oktober
+1976 (Verkehrszulassungsverordnung, VZV) die Durchführung einer
+administrativen Untersuchung an, welche insbesondere eine Abklärung der
+Fahreignung zur Folge haben könne. A.______ nahm dazu nicht Stellung.
+1.3
+Am 8. November 2014 wurde A.______ von der Kantonspolizei Glarus
+verzeigt, weil am 1. November 2014 anlässlich einer Personenkontrolle eine geringe
+Menge Marihuana (0,05 g) in seiner Jackentasche sichergestellt werden
+konnte.
+1.4
+Am 17. Dezember 2014 verfügte die Abteilung Administrativmassnahmen, dass
+sich A.______ zur Abklärung seiner Fahreignung einer verkehrsmedizinischen Untersuchung
+am Institut für Rechtsmedizin D.______ zu unterziehen habe. Leiste er dem
+Aufgebot ohne zureichende Gründe keine Folge, werde ihm der Führerausweis
+gestützt auf Art. 30 VZV bis zur Abklärung allfälliger Ausschlussgründe vorsorglich
+entzogen. A.______ habe die Kosten für die Erstellung des verkehrsmedizinischen
+Gutachtens zu tragen und innert 30 Tagen nach Rechtskraft dieser Verfügung
+einen Kostenvorschuss von Fr. 1'000.- zu leisten. Einer allfälligen Beschwerde
+wurde die aufschiebende Wirkung entzogen.
+2.
+2.1
+Am 12. Januar 2015 reichte A.______ Beschwerde beim
+Verwaltungsgericht ein und beantragte, die Verfügung der Abteilung
+Administrativmassnahmen vom 17. November 2014 (recte: 17. Dezember 2014)
+sei aufzuheben; eventualiter sei ihm der für die Erstellung des Gutachtens zu
+leistende Kostenvorschuss in der Höhe von Fr. 1'000.- bei Bejahung der
+Fahreignung zurückzuerstatten. Es sei der Beschwerde die aufschiebende
+Wirkung zu erteilen; alles unter Kosten- und Entschädigungsfolge zu Lasten
+der Abteilung Administrativmassnahmen.
+Die Abteilung
+Administrativmassnahmen schloss am 20. Januar 2015 auf Abweisung der
+Beschwerde und des Gesuchs um Wiederherstellung der aufschiebenden Wirkung;
+unter Kosten- und Entschädigungsfolgen zu Lasten von A.______.
+2.2
+Der Präsident des Verwaltungsgerichts hiess am
+23. Januar 2015 das Gesuch um Wiederherstellung der aufschiebenden
+Wirkung der Beschwerde gut. Der Entscheid blieb unangefochten.
+2.3
+A.______ nahm am 16. Februar 2015 zur
+Beschwerdeantwort Stellung und hielt an seinen Anträgen fest. Die Abteilung
+Administrativmassnahmen beantragte am 26. Februar 2015 erneut die
+Abweisung der Beschwerde.
+II.
+1.
+1.1
+Verfügungen über Administrativmassnahmen im
+Strassenverkehr unterliegen gemäss Art. 5 Abs. 3 des Einführungsgesetzes zum
+Bundesgesetz über den Strassenverkehr vom 5. Mai 1985 (EG SVG) unmittelbar
+der Beschwerde an das Verwaltungsgericht. Das Verwaltungsgericht ist daher
+zur Behandlung der vorliegenden Beschwerde zuständig.
+1.2
+Bei der Anordnung einer verkehrsmedizinischen
+Begutachtung handelt es sich um eine Zwischenverfügung.
+Verfahrensleitende
+und andere Zwischenentscheide sind gemäss
+Art. 86 Abs. 2 lit. b VRG nur mit
+Verwaltungsgerichtsbeschwerde anfechtbar, wenn sie einen nicht wieder gutzumachenden
+Nachteil bewirken können.
+Die Anordnung der
+verkehrsmedizinischen Begutachtung wurde mit der Androhung verbunden, dass
+dem Beschwerdeführer der Führerausweis gestützt auf Art. 30 VZV bis zur
+Abklärung allfälliger Ausschlussgründe im Sinne von Art. 14 Abs. 2 bzw.
+Art. 16d Abs. 1 SVG vorsorglich entzogen werde, falls er dem Aufgebot
+ohne zureichende Gründe keine Folge leiste. Bei einem vorsorglichen
+Führerausweisentzug liegt ein nicht wieder gutzumachender Nachteil vor
+(BGer-Urteile
+1C_177/2013 vom 9. September 2013 E. 1, 6A.49/2004 vom 30. August
+2004 E. 1). Praxisgemäss tritt das Verwaltungsgericht deshalb auf
+Beschwerden gegen Zwischenverfügungen ein, mit welchen eine
+verkehrsmedizinische Begutachtung angeordnet, für die Nichtbefolgung des
+Aufgebots aber der vorsorgliche Entzug des Führerausweises angedroht wird
+(VGer-Urteile VG.2014.00028 vom 25. Juni 2014 E. II/1.2, VG.2012.00036
+vom 18. Juli 2012 E. II/1b, letzteres Urteil nicht publiziert)
+. Zudem rechtfertigt sich ein Eintreten auf die
+Beschwerde, weil dem Beschwerdeführer in der angefochtenen Verfügung die
+Kosten für das verkehrsmedizinische Gutachten vorbehaltlos auferlegt wurden.
+Da auch die übrigen Prozessvoraussetzungen erfüllt sind, ist auf die
+Beschwerde einzutreten.
+1.3
+Gemäss Art. 107 Abs. 2 lit. g des Gesetzes über die
+Verwaltungsrechtspflege vom 4. Mai 1986 (VRG) i.V.m. Art. 5 Abs. 3 EG
+SVG überprüft das Verwaltungsgericht Administrativmassnahmen im
+Strassenverkehr vollumfänglich, d.h. auch bezüglich deren Angemessenheit.
+2.
+2.1
+Der Beschwerdeführer bringt vor, nach dem Empfang
+des Strafbefehls vom 19. August 2014 und dem Erhalt des Führerausweises
+am 17. September 2014 habe er sich nie etwas zu Schulden kommen lassen. In
+der Zwischenzeit habe er sich trotz seiner bescheidenen Mittel ein Auto
+gekauft, um mobiler zu sein. Die angefochtene Verfügung und der damit
+verbundene finanzielle wie auch zeitliche Aufwand kämen für ihn vollkommen
+unerwartet. Dies unter anderem auch deshalb, da er finanziell in die
+Führerprüfung sowie den Kauf eines Fahrzeugs investiert habe. Die
+Beschwerdegegnerin lege nicht dar, weshalb ihm zuerst der Führerausweis
+ausgestellt worden sei – zu diesem Zeitpunkt sei der Strafbefehl vom 19.
+August 2014 schon rechtskräftig gewesen – und drei Monate später ernste
+Zweifel an seiner Fahreignung bestehen sollten. Ein derart widersprüchliches
+Verhalten sei nicht hinzunehmen. Die Beschwerdegegnerin habe sich
+hinsichtlich seines Drogenkonsums lediglich auf seine Aussagen in der
+polizeilichen Einvernahme vom 26. Juli 2014 abgestützt. Daraus folgere sie,
+dass er einen Mischkonsum von verschiedenen Drogenarten betreibe und damit
+ein hohes Abhängigkeitspotenzial aufweise. Es entstehe der Eindruck, er habe
+regelmässig verschiedene Betäubungsmittel zu sich genommen. Er konsumiere
+jedoch seit seiner Führerprüfung vom 17. September 2014 nur noch
+reduziert und selten Cannabis. Bei einer Personenkontrolle am 1. November
+2014 sei bei ihm nur eine äusserst geringe Menge Marihuana (0,05 g) gefunden
+worden. Die Sachverhaltsdarstellung der Beschwerdegegnerin sei in doppelter
+Hinsicht unzutreffend. Insgesamt würdige sie den Sachverhalt falsch in Bezug
+auf seinen Drogenkonsum und habe sie seine Vorgeschichte und seine Persönlichkeit
+nicht genügend abgeklärt, wie dies vom Bundesgericht gefordert werde. Wenn er
+am Strassenverkehr teilgenommen habe, habe er vorher immer sichergestellt,
+dass er kein Cannabis genommen habe. Wenn es vereinzelt vorgekommen sei, dass
+er an Partys Drogen zu sich genommen habe, dann sei er immer mit öffentlichen
+Verkehrsmitteln gereist. Somit könne eine Vermischung von Drogenkonsum und
+Strassenverkehr ausgeschlossen werden.
+2.2
+Die Beschwerdegegnerin bringt vor, für eine
+verkehrsmedizinische Abklärung werde nicht zwingend vorausgesetzt, dass die
+betroffene Person unter dem Einfluss von Betäubungsmitteln gefahren ist oder
+Betäubungsmittel im Fahrzeug mitgeführt hat. Der Beschwerdeführer habe den
+Betäubungsmittelkonsum nicht eingestellt. So habe man bei einer
+Personenkontrolle am 1. November 2014 wiederum 0,05 g Marihuana bei ihm
+gefunden. Dies zeuge einerseits von der Uneinsichtigkeit des Beschwerdeführers,
+da er wiederum dasselbe Verhalten an den Tag lege, aufgrund dessen die
+betreffende Fahreignungsabklärung verfügt worden sei. Andererseits könne das
+Auffinden von "lediglich" 0,05 g Marihuana nicht als Indiz dafür gewertet
+werden, dass der Beschwerdeführer nur noch wenig Cannabis konsumiere. Es
+scheine eher das Gegenteil dieser Behauptung plausibel zu sein. Zudem habe
+der Beschwerdeführer in der polizeilichen Einvernahme vom 26. Juli 2014 zugegeben,
+dass er neben dem wöchentlichen Konsum von Cannabis seit ein bis zwei Jahren
+an Partys alle zwei Monate Drogen konsumiere. Es handle sich dabei vor allem
+um Marihuana, LSD, Amphetamin und Ecstasy. Zusätzlich sei er mit rechtskräftigem
+Strafbefehl vom 19. Dezember 2014 unter anderem wegen Konsums von Marihuana
+zwischen dem 20. Juli 2014 und dem 25. Oktober 2014 verurteilt worden. Dem
+Beschwerdeführer seien die Untersuchungskosten anzulasten, da er sie
+verursacht habe; dies gelte unabhängig davon, ob seine Fahreignung durch den
+Gutachter bejaht werde oder nicht.
+3.
+3.1
+In zahlreichen Studien wurde nachgewiesen, dass die
+Einnahme von Cannabis zu Beeinträchtigungen im Bereich der Wahrnehmung und
+der Psychomotorik, der kognitiven und affektiven Funktionen führt, welche die
+Fahreigenschaft aufheben können. Dies kann zum Beispiel zu einer
+Beeinträchtigung der dynamischen Sehschärfe (d.h. dem Erkennen sich
+bewegender Objekte), zu einer Verlängerung der Reaktionszeit, zur Veränderung
+der Koordinationsfähigkeit oder zur fehlenden Genauigkeit von automatisierten
+Bewegungsabläufen führen. Die jeweils eingenommene Menge Cannabis beeinflusst
+die Reaktionszeit, die geteilte Aufmerksamkeit, die psychomotorischen
+Fähigkeiten, die optischen Funktionen, die Spurführung und das Fahrverhalten.
+Die Studien würdigten jedoch auch noch weitere Faktoren, die zusammen mit dem
+Cannabis-Konsum das Fahrverhalten im Strassenverkehr beeinflussen. So kommt
+es nicht nur auf die konsumierte Menge an, sondern auch ob kombinierter
+Konsum mit Alkohol und bewusstseinsverändernden Substanzen gegeben ist (BGE
+124 II 559 E. 4a f., mit Hinweisen)
+3.2
+Führerausweise werden entzogen, wenn die
+gesetzlichen Voraussetzungen zur Erteilung nicht oder nicht mehr bestehen
+(Art. 16 Abs. 1 SVG). Nach Art. 16d Abs. 1 lit. b SVG wird der
+Lernfahr- oder Führerausweis einer Person auf unbestimmte Zeit entzogen, wenn
+sie an einer Sucht leidet, welche die Fahreignung ausschliesst. Drogensucht
+wird nach der Rechtsprechung bejaht, wenn die Abhängigkeit von der Droge
+derart ist, dass der Betroffene mehr als jede andere Person der Gefahr ausgesetzt
+ist, sich ans Steuer eines Fahrzeugs in einem - dauernden oder zeitweiligen -
+Zustand zu setzen, der das sichere Führen nicht mehr gewährleistet (BGE 127
+II 122 E. 3c, 124 II 559 E. 2b, 120 Ib 305 E. 3c, mit
+Hinweisen). Im Interesse der Verkehrssicherheit setzt die Rechtsprechung den
+regelmässigen Konsum von Drogen der Drogenabhängigkeit gleich, sofern dieser
+seiner Häufigkeit und Menge nach geeignet ist, die Fahreignung zu
+beeinträchtigen. Auf fehlende Fahreignung darf geschlossen werden, wenn der Betroffene
+nicht mehr in der Lage ist, Haschischkonsum und Strassenverkehr ausreichend
+zu trennen, oder wenn die nahe liegende Gefahr besteht, dass er im akuten
+Rauschzustand am motorisierten Strassenverkehr teilnimmt (BGE 127 II 122
+E. 3c, 124 II 559 E. 3d).
+3.3
+Ein Sicherungsentzug des Führerausweises erfolgt
+erst – abgesehen von offensichtlichen Fällen – nach eingehender Abklärung der
+Fahreignung. Es sind
+dabei die Konsumgewohnheiten der Person, ihre
+Vorgeschichte, ihr bisheriges Verhalten im Strassenverkehr und ihre
+Persönlichkeit abzuklären (BGE 128 II 335 E. 4b, mit Hinweisen). Das
+Ausmass der notwendigen behördlichen Nachforschungen, namentlich die Frage,
+ob ein medizinisches Gutachten eingeholt werden soll, richtet sich nach den
+Umständen des Einzelfalls und liegt im pflichtgemässen Ermessen der
+Entzugsbehörde.
+Die Annahme, eine Person
+konsumiere gelegentlich Cannabis, rechtfertigt die Anordnung einer
+verkehrsmedizinischen Untersuchung nicht, wenn keine weiteren konkreten Hinweise
+auf
+eine allenfalls fehlende Fahreignung bestehen.
+Ob diese gegeben ist, kann ohne Angaben über die
+Konsumgewohnheiten des Betroffenen, namentlich über Häufigkeit, Menge und
+Umstände des Cannabiskonsums und des allfälligen Konsums weiterer Betäubungsmittel
+und/oder von Alkohol, sowie zu seiner Persönlichkeit, insbesondere
+hinsichtlich Drogenmissbrauchs im Strassenverkehr, nicht beurteilt werden
+(BGE 124 II 559 E. 4e; BGer-Urteil 6A.93/2002 vom 25. Februar 2003
+E. 3.2).
+Ein Verzicht auf eine spezialärztliche Begutachtung ist
+jedoch nur ausnahmsweise, etwa in Fällen offensichtlicher, schwerer
+Drogenabhängigkeit, gerechtfertigt (BGE 129 II 82 E. 2.2, mit
+Hinweisen). Da die Untersuchungsbehörde bei einer angeordneten verkehrsmedizinischen
+Begutachtung der Fahreignung auf die Mitwirkung des Betroffenen angewiesen
+ist, untersteht dieser einer Mitwirkungspflicht nach Art. 39 Abs. 1 VRG (vgl.
+René Schaffhauser, Grundriss des schweizerischen Strassenverkehrsrechts,
+Bd. III, Bern 1995, Rz. 2650). Verweigert der Betroffene bei einer
+entsprechenden Untersuchung seine Mitwirkung, können daraus negative Schlüsse
+auf seine Fahreignung gezogen werden (BGE 124 II 559 E. 5a).
+3.4
+Nicht bei jedem
+Cannabiskonsumenten darf ohne Weiteres eine mangelnde Fahreignung vermutet
+und eine entsprechende verkehrsmedizinische Abklärung angeordnet werden
+(Weissenberger, Art. 16d N. 30).
+Der gelegentliche Cannabiskonsument,
+der nicht mit Alkohol oder anderen Drogen mischt, ist in der Regel in der
+Lage, konsumbedingte Leistungseinbussen als solche zu erkennen und danach zu
+handeln
+(
+BGer-Urteil 6A.11/2006 vom 13. April 2006 E. 3.3).
+Demgegenüber ist bei andauerndem, regelmässigem und gleichzeitigem
+hohem Cannabiskonsum wenn überhaupt höchstens von einer geringen Bereitschaft
+und Fähigkeit auszugehen, zuverlässig zwischen dem Drogenkonsum und der
+Teilnahme am Strassenverkehr zu trennen (BGer-Urteil 1C_445/2012 vom 26.
+April 2013 E. 4.2.1). Da sich die Neigung, unter Substanzeinfluss zu
+fahren, mit zunehmendem Konsum verstärkt, begründet ein regel- oder gar
+gewohnheitsmässiger Cannabiskonsum zumindest berechtigte Zweifel an der
+Fahreignung (BGer-Urteil 6A.11/2006 vom 13. April 2006 E. 3.3).
+Ein regelmässiger, aber kontrollierter und mässiger
+Haschischkonsum erlaubt für sich allein wiederum noch nicht den Schluss auf
+eine fehlende Fahreignung (BGE 127 II 122 E. 4b, 124 II 559
+E. 4d f.;
+BGer-Urteil 1C_862/2013 vom 2. April 2014
+E. 2.3
+).
+D
+er gelegentliche
+Konsument von Cannabisprodukten ist nicht ohne Weiteres von einem regel- oder
+gewohnheitsmässigen Konsumenten zu unterscheiden, zumal entsprechende
+Erklärungen des Betroffenen nicht stets als wahr unterstellt werden können
+(BGer-Urteil 6A.11/2006 vom 13. April 2006 E. 3.3).
+Der Nachweis, dass der Beschwerdeführer
+tatsächlich nicht in der Lage wäre, Drogenkonsum und Strassenverkehr
+ausreichend auseinanderzuhalten, ist für die Anordnung der verkehrsmedizinischen
+Untersuchung nicht erforderlich, zumal die umstrittene Anordnung gerade auch
+der Klärung dieser Frage dient (BGer-Urteil 1C_446/2012 vom 26. April 2013
+E. 4.2.1). Auch wird für die Anordnung einer verkehrsmedizinischen Untersuchung
+nicht zwingend vorausgesetzt, dass die betroffene Person unter dem Einfluss
+von Betäubungsmitteln gefahren ist oder Betäubungsmittel im Fahrzeug
+mitgeführt hat
+(BGer-Urteil
+1C_446/2012 vom 26. April 2013 E. 3.2).
+4.
+4.1
+Gemäss Polizeibericht vom 8. November 2014
+konsumiert der Beschwerdeführer seit acht Jahren Betäubungsmittel. In der
+Einvernahme der Kantonspolizei St. Gallen vom 19. Juli 2014 gab er an, er
+konsumiere lediglich an Partys alle zwei Monate Drogen, dies seit ca. 1-2
+Jahren; ansonsten konsumiere er nur gelegentlich. Weiter gestand er ein, im
+Kanton Glarus bereits 2009 wegen Widerhandlung gegen das
+Betäubungsmittelgesetzes angezeigt worden zu sein. Somit ist davon auszugehen,
+dass er seit mindestens sechs Jahren Betäubungsmittel konsumiert.
+Der Beschwerdeführer wurde
+am 19. August 2014 wegen mehrfachen Vergehens nach Art. 19 Abs. 1 und 19a
+Ziff. 1 BetmG durch Erwerb, Besitz, Konsum und Anstaltentreffen zur Ausfuhr
+von Marihuana, Ecstasy, Amphetamin und LSD bestraft, weil er unter anderem
+eingeräumt hatte, in den vergangenen zwölf Monaten wöchentlich ca. 2 g
+Marihuana und die anderen Drogen seit rund einem Jahr jeden zweiten Monat
+anlässlich einer Party konsumiert zu haben. Am 19. Dezember 2014 wurde er
+unter anderem wegen einer Übertretung im Sinne von Art. 19a Ziff. 1 BetmG
+bestraft, weil er im Zeitraum 20. Juli 2014 bis 25. Oktober 2014
+monatlich ca. 0,5 g Marihuana konsumierte, zuletzt am 25. Oktober 2014. Dies
+entspricht etwa einem Joint pro Monat (BGer-Urteil 1C_328/2013 vom
+18. September 2013 E. 4.2). Glaubt man den Aussagen des
+Beschwerdeführers, so hat er seinen Marihuana-Konsum von wöchentlich ca. 2 g
+(bis August 2014, wobei der Beschwerdeführer anfügte, "den Rest
+gelegentlich" zu konsumieren) auf monatlich ca. 0,5 g Marihuana (ab
+August 2014) reduziert.
+Insgesamt herrscht keine
+Klarheit darüber, wie oft und welche Betäubungsmittel der Beschwerdeführer
+konsumiert. Es steht jedoch fest, dass er auch nach der Einleitung des
+Administrativverfahrens weiterhin Marihuana konsumierte.
+4.2
+Für die Anordnung einer verkehrsmedizinischen
+Untersuchung spricht der seit mehreren Jahren andauernde Cannabis-Konsum (von
+August 2013 bis August 2014 wöchentlich 2 g Marihuana). Insbesondere ist
+nicht auszuschliessen, dass der Beschwerdeführer das Cannabis auch kombiniert
+mit anderen Betäubungsmitteln wie Ecstasy, LSD und Amphetaminen konsumiert.
+Zwar wurde er seit Erhalt des Führerausweises vom 17. September 2014
+nicht dabei polizeilich erfasst, dass er unter Drogeneinfluss ein Fahrzeug
+lenkte, doch ist dies vorliegend für die Anordnung einer verkehrsmedizinischen
+Begutachtung nicht von Bedeutung (
+BGer-Urteil 1C_446/2012 vom 26. April 2013 E. 3.2)
+. Ins Gewicht fällt vielmehr, dass er sich selbst
+nach der Orientierung über die Einleitung eines Administrativverfahrens nicht
+davon abbringen liess, weiterhin Marihuana zu konsumieren.
+Aufgrund der gegebenen
+Aktenlage kann nicht ohne Weiteres davon ausgegangen werden, der
+Beschwerdeführer sei im Stande, zuverlässig zwischen dem Drogenkonsum und der
+Teilnahme am Strassenverkehr zu trennen. Die verkehrsmedizinische
+Begutachtung dient gerade der Beantwortung dieser Frage. Damit erweist sich
+deren Anordnung als rechtmässig.
+5.
+5.1
+Gemäss Art. 5 Abs. 1 des Gebührentarifs für den
+Strassenverkehr und die Schifffahrt vom 8. Juli 2004 (Gebührentarif
+Strassenverkehr) können entstandene Kosten für medizinische oder
+verkehrspsychologische Gutachten, Strafregisterauszüge usw. der betroffenen
+Person auferlegt werden. Zudem kann ein angemessener Kostenvorschuss erhoben
+werden. Diese Bestimmung räumt der Beschwerdegegnerin ein weites Ermessen
+hinsichtlich der Auflage der Begutachtungskosten ein.
+5.2
+Die Beschwerdegegnerin auferlegt die Kosten des
+verkehrsmedizinischen Gutachtens vorbehaltlos dem Beschwerdeführer. Aus zwei
+Urteilen des Verwaltungsgerichts vom 18. Juli 2012 (VG.2012.00036 E. II/8b
+und VG.2012.00037 E. II/8b, beide nicht publiziert) ergibt sich jedoch, dass
+die Beschwerdegegnerin in vergleichbaren Fällen davon ausging, dass bei
+Bejahung der Fahreignung die Gutachtenskosten auf die Staatskasse genommen
+würden und der Kostenvorschuss zurückerstattet werde. Daneben hat das
+Verwaltungsgericht bereits mehrmals ausgeführt, dass Betroffenen bei
+vorbehaltloser Bejahung der Fahreignung keine Kosten für das verkehrsmedizinische
+Gutachten auferlegt werden dürfen (VGer-Urteile VG.2014.00028 vom 25. Juni
+2014 E. 7, VG.2013.00075 vom 6. November 2013 E. 4, VG.2013.00076
+vom 6. November 2013 E. 4; die letzten beiden Urteile nicht publiziert).
+Indem die
+Beschwerdegegnerin die Kosten der verkehrsmedizinischen Begutachtung
+unabhängig von deren Ergebnis dem Beschwerdeführer auferlegte, änderte sie
+ihre eigene Praxis und wandte sich zudem gegen die ständige Praxis des Verwaltungsgerichts.
+Eine Praxisänderung muss sich
+auf ernsthafte sachliche Gründe stützen können, die vor allem im Interesse
+der Rechtssicherheit umso gewichtiger sein müssen, je länger die als falsch
+oder nicht mehr zeitgemäss erachtete Rechtsanwendung gehandhabt wurde
+(BGer-Urteil 6B_292/2013 vom 15. Juli 2013 E. 2.5). Solche Gründe
+vermag die Beschwerdegegnerin allein mit dem Hinweis auf das
+Verursacherprinzip nicht geltend zu machen. Sodann sind keine anderen Gründe
+dafür ersichtlich, welche die bisherige Praxis als unzureichend erkennen
+liessen. Folglich hat es dabei zu bleiben, dass Art. 5 Abs. 1 des
+Gebührentarifs für Strassenverkehr und die Schifffahrt vom 8. Juli 2004,
+wonach Kosten für verkehrsmedizinische Gutachten dem Betroffenen auferlegt
+werden
+können
+, dahingehend auszulegen ist, dass Betroffenen keine
+Kosten für verkehrsmedizinische Gutachten aufzuerlegen sind, wenn ihnen in
+einem solchen die Fahreignung vorbehaltlos zuerkannt wird.
+5.3
+Demgemäss ist die Beschwerde teilweise
+gutzuheissen. Disp.-Ziff. 1 der angefochtenen Verfügung vom 17. Dezember 2014
+ist dahingehend abzuändern, dass dem Beschwerdeführer der Kostenvorschuss für
+das verkehrsmedizinische Gutachten zurückerstattet wird, sollte seine Fahreignung
+vorbehaltlos bejaht werden.
+III.
+Nach Art. 134 Abs. 1 lit.
+c VRG hat die Partei, welche im Beschwerdeverfahren unterliegt, die
+Gerichtskosten zu tragen. In der Hauptsache unterliegt der Beschwerdeführer
+zwar. Er obsiegt jedoch hinsichtlich soweit, als ihm die Kosten für die verkehrsmedizinische
+Begutachtung unabhängig von deren Ergebnis auferlegt wurden. Es rechtfertigt
+sich daher, die Gerichtskosten von pauschal Fr. 1'000.- je zur Hälfte dem
+Beschwerdeführer aufzuerlegen und auf die Staatskasse zu nehmen. Vom bereits
+geleisteten Kostenvorschuss in der Höhe von Fr. 1'000.- sind dem Beschwerdeführer
+Fr. 500.- zurückzuerstatten. Ihm ist überdies eine reduzierte Parteientschädigung
+zuzusprechen, da eine solche nur ihm, mangels Vorliegens besonderer Umstände
+nicht aber der Beschwerdegegnerin zusteht (Art. 138 Abs. 3 lit. a und
+Art. 138 Abs. 4 VRG).
+Demgemäss erkennt die Kammer
+:
+1.  Die Beschwerde wird
+teilweise gutgeheissen und Disp.-Ziff. 1 der Verfügung der Beschwerdegegnerin
+vom 17. Dezember 2014 wird dahingehend abgeändert, dass dem Beschwerdeführer
+der Kostenvorschuss für das verkehrsmedizinische Gutachten zurückerstattet
+wird, sollte seine Fahreignung vorbehaltlos bejaht werden.
+2. Die Gerichtskosten von pauschal Fr. 1'000.-
+werden zur Hälfte dem Beschwerdeführer auferlegt und zur Hälfte auf
+Staatskasse genommen. Vom bereits geleisteten Kostenvorschuss in der Höhe von
+Fr. 1'000.- werden dem Beschwerdeführer Fr. 500.- zurückerstattet.
+3.  Die Beschwerdegegnerin
+wird verpflichtet, dem Beschwerdeführer innert 30 Tagen nach Rechtskraft
+dieses Entscheids eine reduzierte Parteientschädigung in der Höhe von Fr.
+800.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.  Schriftliche
+Eröffnung und Mitteilung an:
+[…]
