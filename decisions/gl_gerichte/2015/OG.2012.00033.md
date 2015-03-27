@@ -1,0 +1,2733 @@
+---
+decision_id: "gl_gerichte_OG.2012.00033"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2012.00033"
+docket_2: "OGS.2015.27"
+decided: "2015-03-27"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=496&W10_KEY=218274&nTrefferzeile=3&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/220/art-023.md", "switzerland/bund/acts/220/art-047.md", "switzerland/bund/acts/272/art-058.md", "switzerland/bund/acts/311.0/art-002.md", "switzerland/bund/acts/311.0/art-012.md", "switzerland/bund/acts/311.0/art-019.md", "switzerland/bund/acts/311.0/art-024.md", "switzerland/bund/acts/311.0/art-040.md", "switzerland/bund/acts/311.0/art-043.md", "switzerland/bund/acts/311.0/art-047.md", "switzerland/bund/acts/311.0/art-049.md", "switzerland/bund/acts/311.0/art-051.md", "switzerland/bund/acts/311.0/art-056.md", "switzerland/bund/acts/311.0/art-057.md", "switzerland/bund/acts/311.0/art-059.md", "switzerland/bund/acts/311.0/art-062.md", "switzerland/bund/acts/311.0/art-062d.md", "switzerland/bund/acts/311.0/art-063.md", "switzerland/bund/acts/311.0/art-064.md", "switzerland/bund/acts/311.0/art-086.md", "switzerland/bund/acts/311.0/art-111.md", "switzerland/bund/acts/311.0/art-112.md", "switzerland/bund/acts/311.0/art-117.md", "switzerland/bund/acts/311.0/art-122.md", "switzerland/bund/acts/311.0/art-123.md", "switzerland/bund/acts/311.0/art-139.md", "switzerland/bund/acts/311.0/art-140.md", "switzerland/bund/acts/311.0/art-186.md", "switzerland/bund/acts/312.0/art-010.md", "switzerland/bund/acts/312.0/art-078.md", "switzerland/bund/acts/312.0/art-082.md", "switzerland/bund/acts/312.0/art-084.md", "switzerland/bund/acts/312.0/art-122.md", "switzerland/bund/acts/312.0/art-123.md", "switzerland/bund/acts/312.0/art-124.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-138.md", "switzerland/bund/acts/312.0/art-236.md", "switzerland/bund/acts/312.0/art-342.md", "switzerland/bund/acts/312.0/art-358.md", "switzerland/bund/acts/312.0/art-379.md", "switzerland/bund/acts/312.0/art-386.md", "switzerland/bund/acts/312.0/art-404.md", "switzerland/bund/acts/312.0/art-408.md", "switzerland/bund/acts/312.0/art-425.md", "switzerland/bund/acts/312.0/art-426.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-433.md", "switzerland/bund/acts/312.0/art-440.md", "switzerland/bund/acts/312.5/art-007.md", "switzerland/bund/acts/312.5/art-014.md"]
+---
+
+# GL Gerichte OG.2012.00033
+
+## Regeste
+
+mehrfacher Mord, mehrfacher Raub, etc.
+
+## Text
+
+Glarus Obergericht 27.03.2015 OG.2012.00033 (OGS.2015.27)
+Glaris Obergericht 27.03.2015 OG.2012.00033 (OGS.2015.27)
+Glarona Obergericht 27.03.2015 OG.2012.00033 (OGS.2015.27)
+
+mehrfacher Mord, mehrfacher Raub, etc.
+
+Kanton Glarus
+Obergericht
+Urteil
+vom
+27. März 201
+5
+Verfahren
+OG.2012.00033/34
+A.______
+Angeklagter
+Berufungskläger
+(OG.2012.00033)
+Berufungsbeklagter
+(OG.2012.00034)
+amtlich
+verteidigt durch Rechtsanwalt
+X.______
+gegen
+Staatsanwaltschaft
+Anklägerin
+des
+Kantons Glarus
+Berufungsbeklagte
+(OG.2012.00033)
+vertreten durch den
+Staatsanwalt
+B.______
+Privatkläger
+Berufungsbeklagter
+(OG.2012.00033)
+vertreten durch
+Rechtsanwalt
+Y.______
+C.______
+Privatkläger
+Berufungsbeklagter
+(OG.2012.00033)
+D.______
+, E.______ , F.______       Privatkläger
+Berufungskläger
+(OG.2012.00034)
+vertreten durch
+Rechtsanwalt
+Z.______
+betreffend
+mehrfachen
+Mord, mehrfachen Raub etc.
+Anträge der
+Parteien:
+A. des
+Beschuldigten, Berufungsklägers und Berufungsbeklagten
+(gemäss Berufungserklärung vom 1. Juni 2012 sowie den
+Ausführungen des Ver­teidigers an den Berufungsverhandlungen vom
+21. März 2013 und vom 13. November 2014:
+1.         Es
+sei festzustellen, dass das Urteil des Kantonsgerichtes Glarus vom 14. März
+2012 zur Schuldfrage in folgenden Punkten rechtskräftig geworden ist:
+-
+Schuldspruch wegen Diebstahls im Sinne von Art. 139 Ziff. 1 StGB
+zum Nach­teil von Opfer 1;
+-
+Schuldspruch wegen Raubes im Sinne von Art. 140 Ziff. 1 Abs. 1 StGB
+zum Nachteil von C.______;
+-
+Freispruch vom Vorwurf des Hausfriedensbru­ches im Sinne von Art. 186
+StGB zum Nachteil von Opfer 2.
+2.         Zudem
+sei der Beschuldigte schuldig zu sprechen:
+-
+des Raubes im Sinne von Art. 140 Ziff. 1 Abs. 1 StGB zum Nachteil von
+Opfer 2;
+-
+des Raubes im Sinne von Art. 140 Ziff. 1 Abs. 1 StGB und der
+fahrläs­sigen Tötung im Sinne von Art. 117 StGB zum Nachteil von Opfer
+3;
+-
+des Raubes im Sinne von Art. 140 Ziff. 1 Abs. 1 StGB zum Nachteil von Opfer
+4.
+3.         Von
+den weiteren Vorwürfen sei der Beschuldigte freizusprechen.
+4.         Der
+Beschuldigte sei mit einer Freiheitsstrafe von 12 Jahren zu bestrafen, unter
+Anrechnung der erstandenen Haft, inkl. Auslieferungs-, Untersuchungs- und
+Sicherheitshaft.
+Eventualantrag
+(gestellt an der Verhandlung vom 13. November 2014): Der Beschuldigte sei mit
+einer Freiheitsstrafe von 18 Jahren zu bestrafen, unter Anrechnung der
+erstandenen Haft, inkl. Auslieferungs-, Untersuchungs- und Sicherheitshaft.
+5.         Es
+sei eine vollzugsbegleitende ambulante Massnahme anzuordnen.
+6.         Die
+Schadenersatzforderungen der Geschädigten B.______ und C.______ seien auf den
+Zivilweg zu verweisen.
+7.         Es
+sei dem Geschädigten B.______ eine Genugtuung von Fr. 20‘000.‑
+zuzu­sprechen, wovon Fr. 8‘000.‑ der Beschuldigte direkt dem
+Geschädigten zu be­zahlen habe.
+8.         Die
+nicht in Rechtskraft erwachsenen Ziff. 17 bis 22 des Urteils des Kantonsge­richtes
+[Zivilansprüche von D.______, E._____ und F.______] seien zu bestätigen.
+9.         Die
+Kosten des Berufungsverfahrens inkl. derjenigen der amtlichen Verteidi­gung
+seien auf die Staatskasse zu nehmen.
+B. der
+Anklägerin und Berufungsbeklagten
+(gemäss den Ausfüh­rungen
+des Staatsanwalts an den Berufungsverhandlungen vom 21. März 2013 und
+vom 13. November 2014:
+1.         Es
+sei die Berufung des Beschuldigten abzuweisen.
+2.         Es
+sei das Urteil des Kantonsgerichtes Glarus vom 14. März 2012, soweit vom
+Beschuldigten angefochten, vollumfänglich zu bestätigen; alles unter Kosten­folge
+zu Lasten des Beschuldigten.
+C. der
+Privatkläger
+D.____,
+E.______ und F.______
+(gemäss Eingabe vom
+5. Juni 2012 und den Ausführungen des Rechtsvertreters an den
+Berufungsverhandlungen vom 21. März 2013 und vom 13. November 2014:
+1.         Es sei die Berufung des Beschuldigten
+vollumfänglich abzuweisen, und es sei namentlich die angefochtene
+Verurteilung des Beschuldigten wegen Mordes, begangen an Opfer 4, zu
+bestätigen.
+2.         In
+Abänderung von Ziff. 17 und 18 des Urteils des Kantonsgerichtes Glarus
+vom 14. März 2012 sei der Beschuldigte zu verpflichten, der
+Zivilklägerin D.______ eine Genugtuung in der Höhe von Fr. 60‘000.‑
+zuzüglich 5 % Zins seit dem 22. Februar 2007 zu bezahlen.
+3.         In
+Abänderung von Ziff. 19, 20, 21 und 22 des Urteils des Kantonsgerichtes
+Glarus vom 14. März 2012 sei der Beschuldigte zu verpflichten, den
+Zivilklägern E.______ und F.______ eine Genugtuung in der Höhe von je
+Fr. 35‘000.‑ zuzüglich 5 % Zins seit dem 22. Februar
+2007 zu be­zahlen.
+4.         Alles
+unter Kosten- und Entschädigungsfolge zu Lasten des Beschuldigten.
+_____________________________
+Das Obergericht zieht in Betracht:
+I.
+Prozessgeschichte
+1.—
+a)
+Die Staatsanwaltschaft des Kantons Glarus erhob am 29. Oktober 2010
+Anklage gegen
+A.______
+.
+b)
+Konkret sind in der Anklageschrift die folgenden Sachverhalte aufgeführt:
+aa)
+Diebstahl am 13. Juni 2005 in der Uhren-Bijouterie von Opfer 1;
+bb)
+Raubüberfall am 5. Juli 2005 auf die Bijouterie von Opfer 2; schwere
+Körperverletzung zum Nachteil des Geschäftsinhabers Opfer 2;
+cc)
+Raubüberfall am 8. Juli 2005 auf die Bijouterie von Opfer 3; Ermordung
+des Geschäftsinhabers Opfer 3;
+dd)
+Raubüberfall am 14. Februar 2006 auf das Uhren-Atelier von C.______;
+schwere Körperverletzung zum Nachteil des Geschäftsinhabers C.______;
+ee)
+Raubüberfall am 22. Februar 2007 auf die Bijouterie von Opfer 4;
+Ermordung des Geschäftsführers Opfer 4.
+2.—
+Die Strafkammer des Kantonsgerichts Glarus fällte am 14. März 2012 nachste­hendes
+Urteil; dabei sind die Angaben in eckigen Klam­mern nachträglich hinzugefügt
+und dienen dem besseren Verständnis:
+1.       A.______ ist schuldig
+des mehrfachen Mordes im Sinne
+von Art. 112 StGB,
+des
+qualifizierten Raubes im Sinne von Art. 140 Ziff. 1 Abs. 1 und Ziff. 4 StGB
+[Raubüberfall auf die Bijouterie von Opfer 2],
+des mehrfachen einfachen Raubes
+im Sinne vom Art. 140 Ziff. 1 Abs. 1 StGB,
+des Diebstahls im Sinne von Art.
+139 Ziff. 1 StGB.
+2.       A.______ wird freigesprochen vom Vorwurf des
+Hausfriedensbruchs im Sinne
+von Art. 186 StGB [Strafantrag
+von Opfer 2].
+3.       A.______ wird zu einer lebenslänglichen
+Freiheitsstrafe verurteilt. Es wird
+vorgemerkt, dass sich A.______ seit 1. März 2007 in Haft sowie
+in vorzeitigem Strafvollzug befindet.
+4.       Über A.______ wird eine Verwahrung gemäss Art.
+64 Abs. 1 lit. a StGB
+angeordnet.
+5.       Die beiden sichergestellten Silberbarren zu je
+einem Kilogramm werden […]
+herausgegeben.
+6.       Die bei A.______ sichergestellten Gegenstände,
+ausgenommen die unter
+Ziffer 5 vorstehend erwähnten Silberbarren,
+werden eingezogen und der
+Kantonspolizei Glarus zur gut
+scheinenden Verwendung überlassen.
+7.       Es wird vorgemerkt, dass A.______ die
+Genugtuungsforderung von Zivilklägerin 1
+im Betrage von Fr. 300.—
+anerkannt hat.
+8.       Auf die Anträge 2 und 3 der Zivilklägerin 1
+[Schadenersatzbegehren über
+insgesamt Fr. 20‘062.90]
+wird nicht eingetreten.
+9.       Es wird vorgemerkt, dass A.______ die
+Schadenersatzforderung von Opfer 2
+[beantragt: Fr. 139‘818.‑] im
+Grundsatz anerkannt hat. Betragsmässig wird
+Opfer 2 mit seiner
+Schadenersatzforderung auf den Zivilweg verwiesen.
+10.     A.______ wird verpflichtet, Opfer 2 eine
+Genugtuung von Fr. 15'000.— nebst Zins
+zu 5 % seit 5. Juli
+2005 zu bezahlen.
+Es wird vorgemerkt, dass
+A.______ die Genugtuungsforderung von Opfer 2 im
+Umfang von Fr. 5'000.—
+anerkannt hat.
+11.     Im Übrigen wird die Genugtuungsforderung von
+Opfer 2 abgewiesen [beantragt:
+Fr. 30‘000.—].
+12.     Es wird vorgemerkt, dass A.______ die
+Schadenersatzforderung der SWICA
+Gesundheitsorganisation
+im Betrage von Fr. 16'107.20 anerkannt hat.
+13.     Es wird vorgemerkt, dass A.______ die
+Schadenersatzforderung von B.______ im
+Betrage von Fr.
+7'625.— nebst Zins zu 5 % seit 1. Mai 2006 anerkannt hat.
+14.     A.______ wird
+verpflichtet, B.______ zusätzlich zu der vom Departement
+Volkswirtschaft
+und Inneres des Kantons Glarus mit Entscheid vom
+5. Oktober
+2007
+zugesprochenen
+Genugtuung nach Opferhilfegesetz [zuerkannt: Fr. 12‘000.—] eine
+Genugtuung
+im Betrage von Fr. 28'000.— nebst Zins zu 5 % seit 28. Juli 2005 zu
+bezahlen.
+Es wird vorgemerkt, dass A.______ die
+Genugtuungsforderung von        B.______
+im Umfang von Fr.
+28'000.— anerkannt hat.
+15.     Es wird vorgemerkt, dass A.______ die
+Schadenersatzforderung von C.______ im
+Betrage von Fr.
+100'000.— anerkannt hat.
+16.     Es wird vorgemerkt, dass A.______ die
+Schadenersatzforderung der Allianz Suisse
+Versicherungs-Gesellschaft
+AG im Betrage von   Fr. 300'711.— anerkannt hat.
+17.     A.______ wird verpflichtet, D.______ eine
+Genugtuung im Betrage von Fr. 40'000.—
+nebst Zins zu 5 % seit
+22. Februar 2007 zu bezahlen.
+Es wird vorgemerkt, dass A.______ die
+Genugtuungsforderung von D.______ im
+Umfang von Fr. 40'000.—
+anerkannt hat.
+18.     Im Übrigen wird die Genugtuungsforderung von
+D.______ abgewiesen [beantragt:
+Fr. 60‘000.—].
+19.     A.______ wird verpflichtet, E.______ eine
+Genugtuung im Betrage von
+Fr. 15'000.— nebst
+Zins zu 5 % seit 22. Februar 2007 zu bezahlen.
+Es wird vorgemerkt, dass A.______ die
+Genugtuungsforderung von        E.______
+im Umfang von Fr. 10'000.— anerkannt hat.
+20.     Im Übrigen wird die Genugtuungsforderung von
+E.______ abgewiesen [beantragt:
+Fr. 35‘000.—].
+21.     A.______ wird verpflichtet, F.______ eine
+Genugtuung im Betrage von Fr. 15'000.—
+nebst Zins zu 5 % seit 22.
+Februar 2007 zu bezahlen.
+Es wird vorgemerkt, dass A.______ die
+Genugtuungsforderung von F.______ im
+Umfang von Fr. 10'000.— anerkannt hat.
+22.     Im Übrigen wird die Genugtuungsforderung von
+F.______ abgewiesen [beantragt:
+Fr. 35‘000.—].
+23.     A.______ wird verpflichtet, D.______, E.______
+und F.______ Schadenersatz im
+Betrage von Fr. 6'944.—
+nebst Zins zu 5 % seit 13. März 2008 zu bezahlen.
+Es wird vorgemerkt, dass A.______ die
+Schadenersatzforderung von D.______,
+E.______ und F.______ im Umfang
+von Fr. 6'944.— anerkannt hat.
+24.     [Quantifizierung der
+Gerichtsgebühr und Barauslagen.]
+25.     [Überwälzung der Kosten auf
+A.______.]
+26.     A.______ wird verpflichtet, D.______, E.______
+und F.______ eine
+Parteientschädigung in der Höhe von gesamthaft
+Fr. 28'026.55 (inklusive Auslagen
+und Mehrwertsteuer) zu bezahlen.
+27.     A.______ wird verpflichtet, Opfer 2 eine
+Parteientschädigung von Fr. 1'391.25
+(inklusive Auslagen und Mehrwertsteuer) zu
+bezahlen.
+28.     Auf den Antrag von B.______ auf Zusprechung einer
+Parteientschädigung wird nicht
+eingetreten.
+3.—
+a)
+Am 1. Juni 2012 erhob der Verteidiger des Beschuldigten form- und
+fristge­recht Berufung mit den eingangs wiedergegebenen Begehren. Im
+Einzelnen richtet sich die Berufung des Beschuldigten gegen die folgenden
+Punkte des vorinstanzlichen Urteils:
+Dispositiv-Ziff. 1
+Alinea 1 (Verurteilung wegen mehrfachen Mordes);
+Dispositiv Ziff. 1
+Alinea 2
+(Verurteilung wegen qualifizierten Raubes);
+Dispositiv-Ziff. 3
+(Anordnung einer lebenslänglichen Freiheitsstrafe);
+Dispositiv-Ziff. 4
+(Anordnung der Verwahrung);
+Dispositiv-Ziff. 13
+(Schadenersatzforderung von B.______);
+Dispositiv-Ziff. 14
+(Genugtuungsforderung von B.______);
+Dispositiv-Ziff. 15
+(Schadenersatzforderung von C.______).
+b)
+Am 5. Juni 2012 liessen die Privatkläger D.______, E.______ und
+F.______ durch ihren Rechtsvertreter ebenfalls Beru­fung einreichen. Konkret
+wenden sie sich gegen Dispositiv-Ziff. 17-22 des vorinstanzlichen
+Urteils und bean­tragen je eine höhere Genugtuung.
+c)
+Ebenfalls mit Eingabe vom 5. Juni 2012 focht sodann der Privatkläger
+Opfer 2 Dispositiv-Ziff. 9-11 des vorinstanzlichen Entscheids an. Die
+Berufung von Opfer 2 wurde unter der Verfahrensnummer OG.2012.00035 erfasst.
+Mit Schreiben vom 3. April 2014 zog allerdings Opfer 2 seine Berufung
+noch vor Abschluss der Parteiverhandlungen wieder zurück (siehe dazu
+Art. 386 Abs. 2 lit. a StPO). Mit Präsidialverfügung vom
+11. April 2014 wurde daraufhin das Berufungsverfahren OG.2012.00035 als
+durch Rückzug erledigt am Geschäftsverzeichnis abgeschrieben.
+d)
+Die Staatsanwaltschaft sowie die übrigen Privatkläger haben gegen
+das vor­instanzliche Urteil kein Rechtsmittel ergriffen.
+4.—
+Die Verfahrensleitung verfügte in Anwendung von Art. 379 StPO in Verbin­dung
+mit Art. 342 Abs. 1 lit. a StPO eine Zweiteilung des
+Berufungsverfahrens im Sinne eines sogenannten Schuldinterlokuts (siehe dazu
+Schmid
+, StPO Praxiskommentar,
+2. Aufl., Zürich/St. Gallen 2013, N 4 zu Art. 342 StPO).
+Sie legte fest, dass zunächst die Tat- sowie die Schuldfrage beurteilt und
+dann in einem zweiten Verfahrensteil allfällige Straf- und Nebenfolgen
+geprüft werden.
+5.—
+a)
+Am 14. März 2013 wurde der Beschuldigte vom Obergericht zu sämtli­chen
+Anklagepunkten persönlich befragt. Am 21. März 2013 plädierten die
+Parteivertreter zur Tat- und Schuld­frage; hinsicht­lich der dabei gemachten
+Ausführungen wird auf das Sit­zungsproto­koll so­wie die eingereichten
+Schriftsätze verwiesen.
+b)
+Am
+21. Juni 2013 fällte das Obergericht einen Zwischenentscheid. Darin
+hielt das Obergericht zunächst fest, welche Punkte des vorinstanzlichen Urteils
+unangefochten in Rechtskraft erwachsen waren und urteilte sodann über die
+Tat- und Schuldfrage.
+6.—
+a)
+Am 19. August 2013 ordnete die Verfahrensleitung im Hinblick auf die
+Überprüfung der erstinstanzlich verfügten Verwahrungsmassnahme eine psychiatri­sche
+Begutachtung des Beschuldigten an.
+b)
+Am
+12. April 2014 erstattete der beauftragte Gutachter dem Obergericht
+seine Expertise.
+7.—
+Am 13. November 2014 fand vor dem Obergericht der zweite Teil der Beru­fungsverhandlung
+statt. Dabei wurde zu Beginn der Beschuldigte kurz zu seiner aktuellen
+Situation befragt; anschliessend erörterte der Gutachter die anläss­lich der
+psychiatrischen Exploration gewonnenen Erkenntnisse und konnten die Parteien
+hierzu Ergänzungsfragen stellen. Daraufhin folgten die Plädoyers der Par­teivertreter
+zu den Sanktionsfolgen und den noch strittigen Zivilansprüchen. Die
+Ausführungen des Beschuldigten sowie die Erläuterungen des Gutachters wurden
+schriftlich protokolliert und zudem mit einem Aufnahmegerät auf­gezeichnet (siehe
+dazu Art. 78 Abs. 5
+bis
+StPO). Die Vorbringen der Partei­vertreter
+zur Sache sind dem Verhandlungsprotokoll zu entnehmen.
+8.—
+An seiner Sitzung vom 27. März 2015 entschied das Obergericht über die Straf-
+und Nebenfolgen. Die Parteien haben auf eine mündliche Urteilser­öffnung
+verzichtet; der Entscheid des Obergerichts wird darum schriftlich eröffnet
+(Art. 84 Abs. 3 StPO). Das vorliegende Endurteil umfasst im Sinne
+von Art. 342 Abs. 4 StPO sämtliche Entscheidziffern und schliesst
+damit den bereits früher eröffneten Zwischenentscheid vom 21. Juni 2013 mit
+ein (siehe dazu BSK-
+Hauri/Venetz
+,
+N 14 und N 18 zu Art. 342 StPO).
+II.
+Formelle Ausführungen
+1.—
+Das Berufungsgericht überprüft
+das erstinstanzliche Urteil nur in den ange­fochtenen Punkten (Art. 398
+Abs. 2 und Art. 404 Abs. 1 StPO). Wird gegen ein­zelne Punkte eines
+erstinstanzlichen Urteils kein Rechtsmittel ergriffen, erwach­sen die
+unangefochtenen Urteilspunkte rückwirkend auf den Tag der Entscheidung in
+Rechtskraft (Art. 437 Abs. 1 lit. a und Abs. 2 StPO).
+Dasselbe gilt in Bezug auf zu­nächst angefochtene Punkte, wenn das
+Rechtsmittel später wieder zurückgezogen wird (Art. 437 Abs. 1
+lit. b und Abs. 2 StPO).
+2.—
+Die nachstehenden Ziffern des Urteilsdispositivs
+der Strafkammer des Kan­tonsgerichts Glarus vom 14. März 2012 wurden
+nicht angefoch­ten bzw. es ist die dagegen gerichtete Berufung später wieder
+zurückgezogen wor­den (siehe dazu oben E. I. 3. Bst. c). Diese
+Urteilspunkte sind demnach rechtskräf­tig:
+Dispositiv-Ziff. 1 Alinea 3:
+Schuldspruch wegen Raubes im Sinne von
+Art. 140 Ziff. 1 Abs. 1 StGB, began­gen am
+14. Februar 2006 im „Uhren-Atelier“ von C.______;
+Schuldspruch wegen
+Raubes
+im Sinne von Art. 140 Ziff. 1 Abs. 1 StGB, began­gen am
+8. Juli 2005 in der Bijouterie von Opfer 3;
+Schuldspruch wegen
+Raubes
+im Sinne von Art. 140 Ziff. 1 Abs. 1 StGB, began­gen am 22
+. Februar 2007 in der Bijouterie von Opfer 4;
+Dispositiv-Ziff. 1 Alinea 4:
+Schuldspruch wegen Diebstahls im Sinne von
+Art. 139 Ziff. 1 StGB, begangen am 13. Juni 2005 in der
+Uhren-Bijouterie von Opfer 1“;
+Dispositiv-Ziff. 2:
+Freispruch vom Vorhalt des
+Hausfriedensbruchs zum Nachteil von Opfer 2;
+Dispositiv-Ziff. 5 und Ziff. 6:
+Entscheidung über die weitere Verwendung
+sichergestellter Gegenstände;
+Dispositiv-Ziff. 7:
+Genugtuungsforderung von Zivilklägerin 1;
+Dispositiv-Ziff. 8:
+Nichteintreten auf die Schadenersatzbegehren
+von Zivilklägerin 1;
+Dispositiv-Ziff. 9:
+Schadenersatzforderung von Opfer 2;
+Dispositiv-Ziff. 10:
+Zuerkennung einer Genugtuung von
+Fr. 15‘000.‑ an Opfer 2;
+Dispositiv-Ziff. 11:
+Im Mehrbetrag Abweisung der
+Genugtuungsforderung von Opfer 2;
+Dispositiv-Ziff. 12:
+Schadenersatzforderung der SWICA
+Gesundheitsorganisation;
+Dispositiv-Ziff. 16:
+Schadenersatzforderung der Allianz Suisse
+Versicherungs-Gesellschaft AG;
+Dispositiv-Ziff. 23:
+Schadenersatzforderung von D.______,
+E.______ und F.______;
+Dispositiv-Ziff. 26, Ziff. 27 und
+Ziff. 28:
+Regelung der erstinstanzlichen
+Parteientschädigungen betreffend D.______, E.______ und F.______, Opfer 2 und
+B.______.
+3.—
+Gemäss Art. 408 StPO hat das Berufungsgericht,
+wenn es auf die Berufung eintritt, in jedem Fall ein neues Urteil zu fällen,
+welches das erstinstanzliche Urteil ersetzt. Sind wie hier bei einer
+Teilanfechtung einzelne Urteilspunkte des vor­instanzlichen Entscheids in
+Rechtskraft erwachsen, so sind diese rechtskräftigen Punkte im
+Berufungsentscheid vorab aufzuführen (
+Schmid
+, a.a.O., N 2 zu Art. 408
+StPO).
+4.—
+Die Berufung des Beschuldigten ist beim Obergericht
+unter der Nummer OG.2012.00033 erfasst. Die Berufung der Privatkläger
+D.______, E.______ und F.______ ist im Geschäftsverzeichnis mit der Nummer
+OG.2012.00034 ver­merkt. Die Berufungen werden gemeinsam behandelt; die
+Aktenführung erfolgt im selben Dossier, wobei die Aktennummerierung
+unmittelbar an die letzte Aktennum­mer des vorinstanzlichen
+Verfahrensdossiers SG.2010.01007 anknüpft.
+5.—
+a)
+Die Bestimmungen des Allgemeinen Teils des
+Strafgesetzbuches sind durch das Bundesgesetz vom 13. Dezember 2002 teilweise
+revidiert worden. Das neue Recht ist am 1. Januar 2007 in Kraft getreten.
+b)
+Der Beschuldigte beging die ihm angelasteten
+Straftaten teil­weise unter altem Recht (siehe oben S. 4 f.
+E. I.1.b). Hat der Täter ein Verbrechen oder Vergehen vor Inkrafttreten
+der revidierten Bestimmungen verübt, erfolgt die Beurteilung aber erst
+nachher, so ist das neue Gesetz anwend­bar, wenn es für ihn das mildere ist
+(Art. 2 Abs. 2 StGB). Sind bei mehreren Taten einzelne nach altem,
+andere nach neuem Recht zu würdigen, ist am Ende eine Gesamtstrafe in
+Anwendung von Art. 49 StGB auszufällen (
+Trechsel/Vest
+,
+in: Trechsel/Pieth [Hrsg.], StGB Praxiskommentar [nachfolgend StGB PK],
+2. Aufl., Zürich/St. Gallen 2013, N 5 zu Art. 2 StGB).
+c)
+Bei dem im Lichte von Art. 2 Abs. 2 StGB
+konkret vorzunehmenden Vergleich ist das Recht bei Begehung und bei
+Beurteilung nicht abstrakt zu betrachten, son­dern es ist anhand des
+konkreten Sachver­halts zu prüfen, nach welchem der beiden Rechte der Täter
+für die gerade zu beur­teilende Tat besser wegkommt. Es ist dabei eine
+Gesamtbeurteilung vorzunehmen, was bedeutet, dass nicht beide Rechte par­tiell
+angewendet werden können, z.B. für die Strafbarkeit ein anderes als für die
+Folge (
+Trechsel/Vest,
+StGB PK, N 11 zu Art. 2 StGB; BSK-
+Popp/Berkemeier,
+N 18 zu Art. 2 StGB).
+d)
+Dem Beschuldigten werden vorliegend mit Ausnahme des
+Diebstahls im Sinne von Art. 139 Ziff. 1 StGB Kapitalverbrechen
+vorgehal­ten. Insoweit ist eine schuldan­gemessene Strafe absehbar, bei der
+ein bedingter bzw. teilbedingter Strafvollzug gemäss Art. 42 und
+Art. 43 StGB von vornherein aus­ser Frage steht (siehe auch den von der
+Ver­teidigung selber gestellten Antrag; oben Antrag Ziff. 4). Von daher
+erweist sich das neue Recht hinsichtlich der vor dem 1. Januar 2007
+verübten Straftaten nicht als das mildere. Insofern wäre daher das bisherige
+Recht anzuwen­den.
+e)
+Indes wurden die materiellen Voraussetzungen bei
+keinem der vorliegend in Frage stehenden Straftatbestände geändert;
+eingeführt wurden einzig die neuen Sanktionsbezeichnun­gen (Freiheitsstrafe
+anstelle von Zuchthaus bzw. Gefängnis; siehe AS 2006 S. 3502 ff.).
+Deshalb wäre es nur der Lesbarkeit des Ent­scheids ab­träglich, würden im
+Folgenden allein der juridischen Genauigkeit wegen alt- und neurechtli­che
+Bestimmungen nebeneinander zitiert. Kommt hinzu, dass das mit der Änderung
+vom 13. Dezember 2002 ebenfalls neu normierte Massnah­men­recht ge­mäss
+Art. 56-65 StGB auch bei Tätern zum Zuge kommt, welche vor dem
+1. Januar 2007 straffällig geworden sind (siehe Ziff. 2 Abs. 1
+der Schlussbestim­mungen der Änderung vom 13. Dezember 2002; AS 2006
+S. 3534; siehe hierzu auch BGE 134 IV 121).
+f)
+Aus den dargelegten Gründen werden in den
+nachstehenden Erwägungen aus­schliesslich Gesetzesnormen aus dem Strafgesetzbuch
+in der aktuell geltenden Fassung zitiert.
+6.—
+a)
+Im vorliegenden Verfahren wurde die
+Hauptverhandlung, wie bereits darge­legt, in zwei Abschnitte mit
+Zwischenurteil aufgeteilt. Im ersten Verfahrenssta­dium amtierte als
+Vorsitzender Dr. iur. Yves Rüedi, welcher später von seinem Amt als
+Obergerichtspräsident zu­rücktrat. Die Landsgemeinde 2014 wählte als Nachfol­ger
+Dr. iur. Thomas Nussbaumer ins Obergerichtspräsidium. Er leitete in der Folge
+den zweiten Teil der Hauptverhandlung am 13. November 2014 mit den
+Plädoyers der Parteien zu den Sanktions- und Nebenfolgen (act. 235) und
+wirkte beim vorlie­genden Endentscheid mit.
+b)
+Der Wechsel im Obergerichtspräsidium ist im Lichte von
+Art. 29 Abs. 2 und Art. 30 Abs. 1 BV unbedenklich, ohne
+dass eine Wiederholung des ersten Teils der Hauptverhandlung erforderlich
+gewesen wäre. Der gesamte bisherige Prozessstoff ist säuberlich dokumentiert,
+sodass sich der neue Obergerichtspräsident darüber lückenlos ins Bild zu
+setzen vermochte (siehe dazu BGE 117 Ia 133, S. 134). Zu­dem konnte
+er anlässlich der zweiten Hauptverhandlung vom 13. November 2014 auch
+unmittelbar einen eigenen Eindruck vom Beschuldigten gewinnen. Die Mitwir­kung
+des nunmehrigen Obergerichtspräsidenten beim vorliegenden Endentscheid bedeu­tet
+daher weder eine Verweigerung des rechtlichen Gehörs der Parteien noch eine
+Verletzung ihres Anspruchs auf Be­handlung der Streitsache durch ein verfas­sungsmässig
+besetztes Gericht. Die Parteien haben denn auch zu keinem Zeitpunkt gegen die
+ihnen frühzeitig angekündigte Änderung der Gerichtsbesetzung opponiert, so
+auch nicht anlässlich der Verhandlung vom 13. November 2014, als sie vom
+Vorsitzenden ausdrücklich danach gefragt wurden.
+III.
+Materielle Ausführungen zur Tat- und Schuldfrage
+1.—
+Bereits rechtskräftig
+beurteilte Straftaten
+Die Vorinstanz hat den Beschuldigten in Bezug auf alle einge­klagten
+Sachver­halte (dazu im Einzelnen oben S. 4 f. E. I.1.b)
+schuldig gesprochen. Im vorliegenden Berufungsverfahren sind die beiden
+folgenden Delikte und deren rechtliche Würdi­gung nicht mehr umstritten:
+a) Diebstahl vom 13. Juni 2005 in der Uhren-Bijouterie von Opfer 1
+Am 13. Juni 2005 betrat der Beschuldigte kurz nach 16 Uhr die
+Uhren-Bijouterie von Opfer 1. Er liess sich dort von der damals 75-jährigen
+Verkäuferin (Zivilklägerin 1) Damenuhren zeigen. Als sie ihm auf dem
+Handrücken drei Armbanduhren mit einem Verkaufswert von zusammen
+Fr. 17‘300.‑ präsentierte, stiess er sie mit der Hand leicht am
+Oberkörper, entriss ihr die Uhren, rannte aus dem Geschäft und entkam
+unerkannt.
+Die Vorinstanz würdigt diese Tat des Beschuldigten in Übereinstimmung
+mit der Anklage zutreffend als Diebstahl im Sinne von Art. 139
+Ziff. 1 StGB (act. 3 S. 4-6; act. 163 S. 10 f.
+E. III.2.).
+b) Raubüberfall vom 14. Februar 2006 im Uhren-Atelier von
+C.______
+Am 14. Februar 2006 streckte der Beschuldigte den
+Geschäftsinhaber C.______ mit der Faust nieder und fesselte ihn mit
+Handschellen. Darauf räumte er mehrere Vitrinen aus, ver­setzte dem am Boden
+liegenden Geschäftsinhaber weitere Schläge an den Kopf, um ihn ruhig zu
+stellen, und machte sich schliesslich mit einer grossen Anzahl Armbanduhren
+da­von, deren Gesamtwert in der Anklage auf annähernd Fr. 400‘000.‑
+beziffert ist. Der zum Tatzeitpunkt knapp 58-jährige C.______ erlitt beim
+Überfall eine Hirner­schüt­terung, Rissquetschwunden und Prellungen im
+Gesicht und am Hinterkopf so­wie Schürfungen am Rücken; er konnte das Spital
+am nächsten Tag wieder verlas­sen, litt danach aber noch einige Wochen an
+posttrau­matischen Belastungsstörun­gen.
+Die Vorinstanz subsumiert den beschriebenen Überfall korrekt unter
+den Straf­tatbestand des Raubes gemäss Art. 140 Ziff. 1 StGB.
+Im Folgenden ist auf die im Berufungsverfahren noch umstrittenen
+Anklage­punkte einzugehen:
+2.—
+Raubüberfall am 5. Juli
+2005 auf die Bijouterie von Opfer 2
+2.1.—
+Unbestrittener Sachverhalt
+Der Beschuldigte ist im Sinne der Anklage gestän­dig, am Diens­tagvormittag,
+5. Juli 2005, die Bijouterie von Opfer 2 ausgeraubt zu haben. Während
+des Überfalls schlug er dem damals 71-jährigen Ladeninhaber (Opfer 2)
+mehrmals mit der Hand bzw. der Faust an den Kopf. Die ersten Schläge
+versetzte er ihm, als dieser aus dem Geschäft fliehen wollte, nach­dem der
+Beschuldigte ihm eröffnet hatte, dies sei ein Überfall. Ob der Schläge sank
+Opfer 2 zu Boden, worauf der Beschuldigte ihn unter den Achsel­höhlen fasste
+und in einen Nebenraum des Ladens schleppte. Dort versuchte er, den
+Überfallenen mit Klebeband zu fesseln, was jedoch misslang, worauf er erneut
+auf ihn einschlug, als dieser zu schreien begann und aufstehen wollte. In der
+Folge behändigte der Be­schuldigte ein Mobiltelefon sowie Uhren und Schmuck
+in einem Gesamtwert von rund Fr. 74‘000.‑ und steckte alles in
+eine Um­hängetasche. Danach verlangte er vom Ladeninhaber auch noch
+Brillanten und Geld. Als dieser ihm er­klärte, weder Geld noch Brillanten bei
+sich zu haben, schlug er ihm ein weite­res Mal ins Gesicht und eilte
+schliesslich davon.
+2.2.—
+Rechtliche Würdigung
+2.2.1.—
+Die Vorinstanz hat die eben
+beschriebene Tathandlung des Beschul­digten in Übereinstimmung mit der
+Anklage als qualifizierten Raub im Sinne von Art. 140 Ziff. 1
+Abs. 1 i.V.m. Ziff. 4 StGB beurteilt. Die Verteidigung anerkennt
+die Verurteilung wegen Raubes im Sinne des Grundtat­bestandes von
+Art. 140 Ziff. 1 Abs. 1 StGB, bestreitet jedoch in ihrer
+Berufung das Vorlie­gen eines Qualifizierungsgrundes nach Art. 140
+Ziff. 4 StGB, da ihrer Ansicht nach der Beschuldigte das Opfer beim
+Überfall nicht schwer verletzt habe. Unabhängig von der konkreten Einstufung
+der Verlet­zungen habe der Be­schuldigte ohnehin nicht vorsätzlich oder
+eventualvorsätzlich eine schwere Körper­verletzung bewirken wollen.
+2.2.2.—
+a)
+Gemäss Art. 140
+Ziff. 1 Abs. 1 StGB macht sich des Raubes schuldig und wird mit
+Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe nicht unter
+180 Tagessätzen bestraft, wer mit Gewalt gegen eine Person oder unter
+Androhung gegenwärtiger Gefahr für Leib und Leben oder nachdem er den
+Betroffenen zum Widerstand unfähig gemacht hat, einen Diebstahl begeht. Der
+Täter begeht einen qualifizierten Raub im Sinne von Art. 140
+Ziff. 4 StGB und gewärtigt dann eine Frei­heitsstrafe nicht unter fünf
+Jahren, wenn er beim Überfall das Opfer in Lebens­gefahr bringt, ihm eine
+schwere Körperverletzung zufügt oder es grausam behan­delt; der für eine
+Verurteilung nötige Vorsatz oder Eventualvorsatz muss dabei die qualifizie­renden
+Tatbestandsmerkmale umfassen (BGer 6S.531/2000 vom 27. Dezember 2000,
+E. 1a).
+b)
+Laut Anklage sowie dem Standpunkt der
+Vorinstanz verübte der Beschuldigte einen qualifizierten Raub, indem er dem
+Opfer zumindest eventualvorsätzlich eine schwere Körperverletzung zufügte
+(act. 3 S. 7 f. sowie act. 163 S. 21-23). Das
+Merkmal der schweren Körperverletzung knüpft an den Tatbestand von
+Art. 122 StGB an (
+Trechsel/Crameri
+,
+StGB PK, 2. Aufl., Zürich/St. Gallen 2013, N 16 und N 20
+zu Art. 140 StGB; BSK-
+Niggli/Riedo
+,
+N 156 zu Art. 140 StGB). Dieser Bestimmung zufolge liegt eine
+schwere Körper­verletzung vor, wenn ein Mensch lebensgefährlich verletzt wird
+(Abs. 1), ebenso wenn der Körper, ein wichtiges Organ oder Glied
+verstümmelt, ein wichtiges Organ oder Glied unbrauch­bar oder jemand bleibend
+arbeitsunfähig, gebrechlich oder geisteskrank gemacht wird sowie wenn das
+Gesicht arg und bleibend entstellt wird (Abs. 2); sodann gilt im Sinne
+einer Generalklausel als tatbestandsmässig jede an­dere schwere Schädigung
+des Kör­pers oder der körperlichen oder geistigen Ge­sundheit eines Menschen
+(Abs. 3). Bei letztgenannter Tatbestandsvariante berück­sichtigt die
+Praxis nament­lich die Dauer eines Spitalaufenthalts, eine volle oder teil­weise
+Arbeitsunfähigkeit sowie Grad und Dauer der Invalidität und erlittenen
+Schmerzen; ferner fallen da­runter auch Fakto­ren, welche zwar die berufliche
+Tätig­keit nicht erheblich beein­trächtigen, dem Betroffenen aber insofern
+eine Einbusse der Lebensqualität brin­gen, als er Hobbys nicht mehr ausüben
+kann (
+Trechsel/Fingerhuth
+, StGB
+PK, N 9 zu Art. 122 StGB; BSK-
+Roth/Berkemeier
+,
+N 22 zu Art. 122 StGB).
+c)
+Gemäss Bericht des Instituts für
+Rechtsmedizin der Universität Zürich (IRM) erlitt Opfer 2 beim Überfall ein
+Schädel-Hirn-Trauma mit Blutungen im Bereich der Hirnhaut; zudem wies er eine
+Bissverletzung an der Lippe auf, ein Hämatom am Hals, ferner Prellmarken an der
+rechten Schulter und am linken Oberarm sowie Kratzspuren an beiden
+Unterarmen. Beim Eintreffen der Polizei am Tatort war Opfer 2 kaum
+ansprechbar und konnte sich bei den späteren Befragungen auch nicht mehr an
+das Tatgeschehen erinnern. Nach der Einlieferung von Opfer 2 ins Spital wurde
+aufgrund der erlittenen Verletzungen eine Intubation durchgeführt, weshalb er
+um­gehend ins Univer­sitätsspital Zürich verlegt werden musste; in der Folge
+war er knapp einen Monat in Spitalpflege, wovon die letzten zwölf Tage in der
+Höhenklinik Wald. Anlässlich einer weiteren Befragung knapp zwei Jahre nach
+dem Raubüberfall erklärte Opfer 2 gegenüber der Polizei, dass er seither
+Depressionen unterliege und deswe­gen regelmässig Medikamente benötige; zudem
+würden auch stets neue körperliche Beschwerden auftreten, namentlich könne er
+die Hände immer weniger bewegen. Als direkte Folge davon habe er nach dem
+verhängnisvollen Ereignis das Geschäft entgegen seinen Plänen aufge­ben
+müssen, da er die feinmotorisch anspruchsvollen Juwelierarbeiten nicht mehr
+habe ausführen können. Der Rechtsvertreter von Opfer 2 schilderte vor
+Gericht, sein Mandant sei zuvor ein äusserst aktiver und viel­seitig begabter
+Senior gewesen; seit dem Überfall aber leide er an Sprechstörungen sowie an
+Bewegungs- und Empfin­dungsstörungen an den Händen und könne seine bisherigen
+mit grosser Leiden­schaft und ansehnli­chem Erfolg getätigten Hobbys Malen,
+Klavier- und Theater­spielen nicht mehr aus­üben.
+d)
+Die Abgrenzung zwischen einer einfachen
+Körperverletzung im Sinne von Art. 123 StGB und einer schweren
+Körperverletzung gemäss Art. 122 StGB verläuft in der Praxis nicht
+schematisch (BSK-
+Roth/Berkemeier
+,
+N 23 f. zu Art. 122 StGB). Die zu dieser Thematik ergiebige
+Rechtsprechung setzt bei einer schweren Körper­verletzung eine nachhaltig
+gravierende körperliche Beein­trächti­gung voraus (siehe die Beispiele bei
+Trechsel/Fingerhuth
+, StGB PK,
+N 11 zu Art. 122 StGB).
+e)
+Die im IRM-Gutachten (act. VI/20)
+beschriebenen Verletzungen, welche Opfer 2 beim Überfall erlitt und
+einen mehrwöchigen Spitalaufenthalt erforderlich machten, sind eingedenk auch
+der gravierenden Nachwirkungen als schwere Kör­perverletzung einzustufen. Für
+das Gericht steht ausser Frage, dass der Beschul­digte sein damals
+71-jähriges Opfer mit gros­ser Brutalität malträtiert hat; der kräftige und
+muskulöse Beschuldigte (siehe dazu nachfolgend E. 3.2.2. Bst. b)
+nahm dabei die massiven Verletzungsfolgen zweifelsfrei in Kauf und handelte
+daher in Bezug auf die zugefügten Verletzungen jedenfalls mit
+Eventualvorsatz, zumal er auf den ältlichen Bijoutier mehrmals eingedroschen
+und ihm selbst dann noch weitere Schläge versetzt hatte, nachdem er bereits
+zu Boden gegangen war. Insofern sind denn auch die vom Opfervertreter
+beschriebenen Spätfolgen und die damit verbun­dene Einbusse an Lebensqualität
+fraglos auf diese Untat zurückzu­führen. Diese Beeinträchtigungen sind in den
+Untersuchungsakten in ärzt­lichen Berichten doku­mentiert, was die Vorinstanz
+übersehen und sich in diesem Kontext auf Notorietät berufen hat. Konkret hat
+ein Arzt Ende August 2005 bei Opfer 2 ein „Cervikalsyndrom nach
+Hirntrauma/Schädeltrauma“ diag­nostiziert und eine entsprechende
+Physiotherapie ver­ordnet. Im psy­chiatrischen Abklärungsbericht des
+Universitätsspitals Zürich vom 6. Februar 2006 werden sodann
+Angstzustände vermischt mit einer depressiven Störung sowie eine mutmassliche
+frontale Funktionsstörung beschrie­ben, wobei das ganze Beschwer­debild bei
+Opfer 2 als direkte Folge des Raubüberfalls gesehen wird
+(act. VI/28/11). Schliesslich erwähnt der Arzt in seinem Bericht vom
+27. März 2006 neben den bereits angesprochenen Beeinträchtigungen
+zusätzlich Empfindungsstö­rungen an den Händen.
+f)
+Abgesehen von den eben erörterten
+bleibenden gesundheitlichen Folgen hat der Beschuldigte sodann sein Opfer
+unmittelbar beim Überfall lebensgefährlich im Sinne von Art. 122
+Abs. 1 StGB verletzt. Nach der Einlieferung ins Spital musste Opfer 2
+umgehend intubiert und sogleich ins Universitätsspital Zürich verlegt werden.
+Opfer 2 befand sich in Lebens­gefahr, als der Beschuldigte nach dem Überfall
+aus der Bijouterie flüchtete und das schwer verletzte Opfer 2 seinem
+Schicksal überliess. Damit nahm er, insbe­sondere auch weil das Opfer bereits
+ein älterer Herr und dessen Konstitution daher für den Täter erkennbar nicht
+mehr die beste war, einen mögli­chen Tod von Opfer 2 in Kauf, nachdem er
+zuvor wissentlich und wil­lentlich massiv mit der Faust auf den Kopf des
+Opfers eingeschlagen hatte.
+g)
+Ist somit eine schwere Körper­verletzung
+im Sinne von Art. 122 StGB erstellt, ist die begangene Tat in
+Übereinstimmung mit der Vorinstanz als qualifizierter Raub im Sinne von Art.
+140 Ziff. 4 StGB einzuordnen. Indem im Übrigen der Beschuldigte das
+Opfer nach dem Überfall schwer verletzt am Tatort zurückgelassen und er damit
+das Opfer jedenfalls eventualvorsätzlich seinem Schicksal (mögliches
+Versterben vor Ort aufgrund der zugefügten Verletzungen) überlassen hatte,
+erfüllte er zusätz­lich den ebenfalls in Art. 140 Ziff. 4 StGB
+normierten Qualifikationsgrund der Her­beiführung einer Lebensgefahr (siehe
+dazu BSK-
+Niggli/Riedo
+,
+N 125 ff. zu Art. 140 StGB).
+2.3.—
+Fazit
+Wie bereits die Vorinstanz zutreffend erkannt hat, sind in Bezug auf
+die eben beurteilte deliktische Handlung von A.______ keine Schuldausschluss-
+und Rechtfertigungsgründe ersichtlich. Dieser hat sich damit beim Überfall
+auf Opfer 2 des qualifizierten Raubes im Sinne von Art. 140 Ziff. 1
+Abs. 1 und Ziff. 4 StGB schuldig gemacht.
+3.—
+Raubüberfall am 8. Juli
+2005 auf die Bijouterie von Opfer 3
+3.1.—
+Unbestrittener Sachverhalt
+a)
+Der Beschuldigte gesteht zu und stimmt
+darin mit der Anklage überein, am Freitag, 8. Juli 2005, um ca. 09.00 Uhr die
+Bijouterie von Opfer 3 überfallen zu haben. Ebenso ist er geständig, beim
+Überfall mehrmals auf den damals allein anwesenden 67-jährigen Juwelier
+eingeschlagen zu haben. Gemäss den detaillierten Schilderungen des
+Beschuldigten in der Untersuchung führte er den Überfall als Einzeltäter wie
+folgt aus: Er betrat das Geschäft, sprach im Kundenbereich mit dem Bijoutier
+wenige Worte und schlug ihm dann unvermittelt mit der zur Faust geballten
+Hand ins Gesicht. Als dieser darauf zu Boden sank, legte der Beschuldigte ihn
+in Handschellen und zog ihn in einen Nebenraum. Während der Beschuldigte an­schliessend
+aus zwei Glasvitrinen zahl­reiche Uhren und diversen Schmuck in einem
+Gesamtwert von rund Fr. 70‘000.‑ behändigte, kam der Ladeninhaber
+in den Verkaufsraum zurück und begab sich zur Ladentheke. Der Be­schuldigte
+ging auf ihn zu und versetzte ihm abermals Faustschläge an den Kopf, so dass
+er erneut hinfiel. — Die Polizei fand Opfer 3 später blutüberströmt hinter
+dem Verkaufstresen auf dem Rücken liegend, die Hände waren mit Hand­schellen
+auf dem Bauch gefesselt. Der bewusstlose und schwer­verletzte Opfer 3 wurde
+von der Sanität vor Ort not­fallmässig versorgt und ins Kantonsspital Glarus
+verbracht, musste aber noch glei­chentags nach Zürich ins Universitätsspital
+verlegt werden; am 28. Juli 2005 erlag er seinen schweren Verlet­zungen,
+ohne je wieder das Bewusstsein erlangt zu haben.
+b)
+Der Beschuldigte hatte zwar anlässlich
+der untersuchungsrichterlichen Einver­nahme am 27. Januar 2010 sein
+Geständnis vorübergehend widerrufen und geltend gemacht, dass ein Mittäter
+Opfer 3 getötet habe. Bei die­sem später zurückgezogenen Einwand handelte es
+sich um eine reine Schutzbe­hauptung. Die am Tatort sichergestellten Spuren
+geben keine Rückschlüsse auf die Anwesenheit eines zweiten Täters. Zudem
+konnten in der Bijouterie von Opfer 3 am Boden Schuhsohlenprofile eruiert
+werden, welche eine erkennbare Ähnlichkeit mit entspre­chenden Spuren in der
+vom Beschuldigten drei Tage zuvor überfallenen Bijouterie von Opfer 2
+aufwiesen. Sowohl bei jenem Überfall wie auch beim Raub in der Bijouterie von
+Opfer 3 trug der Täter anhand der festge­stellten Spu­renbilder mutmasslich
+einen Mokassin der Marke „Bata“
+.
+Der
+Beschuldigte selber erwähnte über­dies in der Un­tersuchung, dass er beim
+Raub in der Bijouterie von Opfer 2 Mokassin und beim folgenden Überfall in
+die Bijouterie von Opfer 3 womöglich die gleichen Schuhe getragen habe.
+Der Beschuldigte hatte zwischenzeitlich behauptet, diesen
+Raubüberfall gemein­sam mit einem Komplizen verübt zu haben. An der
+obergerichtlichen Hauptver­handlung erklärte er, er habe allein gehandelt.
+Auf die Frage, weshalb er in der Un­tersuchung von einem Mittäter sprach,
+führte er aus, man solle dem Urteil seine jüngsten Aussagen zugrunde legen
+und nicht das, was er früher einmal gesagt habe. In dieser Aussage spiegelt
+sich das eigentümliche Verhältnis des Beschuldigten zur Wahrheit. Auch hier
+versucht er, den Sachverhalt nach sei­nen Vorstellungen zu formen.
+3.2.—
+Rechtliche Würdigung
+3.2.1.—
+Die Vorinstanz verurteilte den
+Beschuldigten hinsichtlich seines brutalen Überfalls auf den Bijoutier Opfer
+3 wegen Mordes im Sinne von Art. 112 StGB und Raubes im Sinne von
+Art. 140 Ziff. 1 Abs. 1 StGB. Die Verteidigung stellt sich in
+ihrer Berufung auf den Standpunkt, die vom Beschuldigten verübte Tat sei als
+Raub gemäss Art. 140 Ziff. 1 Abs. 1 StGB sowie als fahrlässige
+Tötung im Sinne von Art. 117 StGB zu beurteilen. Es sei nämlich durch
+die Untersuchung nicht nachgewiesen, dass der Beschuldigte den Tod von Opfer
+3 in Kauf genommen habe, als er auf ihn einschlug.
+3.2.2.—
+a)
+Die äusserlich sichtbaren
+Kopfverletzungen von Opfer 3 wurden nach dem Überfall fotografisch
+festgehalten. Nur schon diese Fotos belegen, dass der Beschuldigte mit
+ungemeiner Wucht auf den Kopf seines Opfers eingeschlagen haben muss;
+aufgrund des Verletzungs­bildes bestand anfänglich gar die naheliegende
+Vermutung, dass der Beschuldigte mit einem massiven Gegen­stand zugeschlagen
+haben könnte, was er aber bestritt. Die später vom Institut für Rechtsme­dizin
+der Universität Zürich am Leichnam durchgeführte Obduktion ergab, dass das
+Opfer gravierende Hirnverletzungen mit Einblutungen aufwies, welche
+unmittelbar auf Schläge in das Gesicht zurückzufüh­ren sind. Die Schwere der
+Gehirnverletzungen wurde schon unmit­telbar nach der Einlieferung des Opfers
+ins Spital erkannt. Aufgrund der hoffnungs­losen Prognose erfolgten keine
+Therapiemassnahmen mehr.
+b)
+Der Beschuldigte ist 1,86 m gross
+und von erkennbar kräftiger Statur; er ist zudem ehemaliger Karatekämpfer.
+Gerade aber als früherer Kampfsportler wusste er um die Wirkung und
+Gefährlichkeit gezielter Faustschläge an den Kopf, wobei über dieses Wissen
+ohnehin jede Person verfügt. Dennoch hat er bei seinem Überfall nachweislich
+mit brachialer Gewalt auf Opfer 3 eingeschlagen; dies tat er fraglos mit dem
+Ziel, sein Opfer auf diese Weise widerstandsunfähig zu machen. Nachdem er den
+Juwelier bereits gefesselt hatte, prügelte er abermals auf ihn ein, als
+dieser aus dem Nebenzimmer in den Ver­kaufs­raum zurückkehrte und der
+Beschuldigte befürchtete, der Überfallene könnte bei der Ladentheke eine Waffe
+behändigen. An­hand der dem Opfer konkret zugefügten Verletzungen ist
+erstellt, dass der Beschul­digte brutal, zielgerichtet und absolut
+rücksichtslos handelte. Die Beweislage lässt keinen anderen Schluss zu, als
+dass es dem Beschuldigten einzig darum ging, möglichst ungestört an seine
+Beute zu gelangen. Er nahm in Kauf, dass er sein Opfer tödlich verletzen
+könnte. Es ist daher in Übereinstimmung mit der Vor­instanz, auf deren
+Erwägungen im Sinne von Art. 82 Abs. 4 StPO verwiesen wird,
+festzuhalten, dass der Beschuldigte den Tod seines Opfers eventualvorsätzlich
+in Kauf nahm. Eventualvorsatz ist im Hinblick auf die Strafbar­keit der
+Handlung dem direkten Vorsatz gleichgestellt (Art. 12 Abs. 2 StGB).
+c)
+Eine vorsätzliche Tötung (Art. 111 StGB)
+ist als Mord zu qualifizieren, wenn der Täter besonders skrupellos handelt,
+namentlich sein Beweggrund, der Zweck der Tat oder die Art der Ausführung
+besonders verwerflich sind (Art. 112 StGB). Mord zeichnet sich demnach durch
+die aussergewöhnlich krasse Missachtung frem­den Lebens bei der Durchsetzung
+eigener Absichten aus. Das Gesetz will den skru­pellosen, gemütskalten, krass
+und primitiv egoistischen Täter erfassen, der ohne soziale Regungen ist und
+sich daher zur Verfolgung seiner eigenen Interessen rück­sichtslos über das
+Leben anderer Menschen hinwegsetzt. Die Qualifikation ist in einer
+Gesamtwürdigung der äusseren und inneren Umstände der Tat vorzunehmen (BGer
+6S.84/2005 vom 20. Oktober 2005, E. 2.2;
+BGE 120 IV 265
+E. 3a S. 274). Ein für Mord typischer Fall ist namentlich die
+Tötung eines Menschen zum Zwecke des Raubes. Es genügt dabei bereits, dass
+die Tötung im Rahmen der Verübung des Raubes stattgefunden hat; es ist
+insoweit unerheblich, ob der Räuber vor, während oder unmittelbar nach der
+Phase der Aneignung der Beute und ob er ohne besonde­ren Grund oder aus Angst
+vor einer tatsächlichen oder vermuteten Reaktion des Opfers getötet hat (BGer
+6B_198/2012 vom 31. Mai 2012, E. 2.1; BGE 115 IV 187; siehe auch
+BSK-
+Schwarzenegger
+, N 10 zu
+Art. 112 StGB;
+Trechsel/Fingerhuth
+,
+StGB PK, N 11 zu Art. 112 StGB).
+d)
+Bereits die Vorinstanz hat in ihrem
+Entscheid zutreffend dargelegt, mit welcher Gefühlskälte und Entschlossenheit
+der Beschuldigte bei seinem Überfall in der Bijouterie von Opfer 3 vorging.
+Der Beschuldigte streckte den Juwelier mit der Faust nieder und schlug auch
+noch auf ihn ein, als er bereits gefesselt und wehrlos war. Das brachiale
+Vorgehen des Beschuldigten, bei dem er einen töd­lichen Ausgang für sein
+Opfer unzweifelhaft in Betracht zog, war ausschliesslich da­rauf
+ausgerichtet, bei seinem Überfall unbehelligt Beute zu ma­chen. Die brutale
+Tat zeugt von höchster Niederträchtigkeit und Rücksichtslosig­keit gegenüber
+dem Leben eines Mitmenschen und weist damit alle Merkmale eines Raubmordes im
+Sinne von Art. 112 StGB auf.
+e)
+Der Beschuldigte zeigte auch nach der Tat
+nicht das geringste Mitgefühl, indem er das schwerverletzte am Boden liegende
+Opfer 3 achtlos zurückliess. In der Untersuchung machte er zwar geltend, er
+habe vor dem Weggehen den Alarmknopf bei der Ladentheke gedrückt. Dies ist
+jedoch eine reine Schutzbehauptung. Bei der Polizei ist nie ein Alarm
+eingegangen und auf dem Alarmknopf fanden sich keine DNA-Spuren des
+Beschuldigten. Vor Obergericht damit konfrontiert, führte er aus, er habe den
+auf der Innen­seite der Ladentheke angebrachten Alarmknopf mit dem Fuss
+gedrückt. Diese Aussage aber unterstreicht nur zusätzlich die Absurdität der
+Bemü­hungen des Beschuldigten, sich hinterher in ein besseres Licht stellen
+zu wollen.
+3.3.—
+Fazit
+Der Beschuldigte ist in Übereinstimmung mit der Vorinstanz wegen
+Mordes im Sinne von Art. 112 StGB zum Nachteil von Opfer 3 zu
+verurteilen. Zusätzlich hat er sich in Idealkonkurrenz des Raubes gemäss
+Art. 140 Ziff. 1 Abs. 1 StGB schuldig gemacht (siehe dazu
+Trechsel/ Crameri
+, StGB PK, N 27
+zu Art. 140 StGB; hierzu ist anzufügen, dass in diesem Schuldpunkt
+bereits das erstinstanzliche Urteil in Rechtskraft erwachsen ist. Eine
+Qualifizierung der Raubhandlung im Sinne von Art. 140 Ziff. 4 StGB
+entfällt, da der Qualifikationsgrund der Lebensge­fährdung durch die
+vorsätzliche Tötung konsumiert wird (
+Trechsel/Crameri
+,
+StGB PK, N 27 zu Art. 140 StGB). Der Beschuldigte hat so­dann den
+Raubüberfall in voller Schuldfä­higkeit verübt, wie dies gutachterlich fun­diert
+und schlüssig dargelegt und im Übri­gen im Berufungsverfahren auch nie be­stritten
+worden ist. Demnach ist der vom Beschuldigten in seiner Berufung gestellte
+Antrag, er sei im Zusammen­hang mit dem Raubüberfall auf die Bijouterie von
+Opfer 3 bloss wegen fahrlässiger Tötung schul­dig zu sprechen, abzuweisen.
+4.—
+Raubüberfall am
+22. Februar 2007 auf die Bijouterie von Opfer 4
+4.1.—
+Unbestrittener Sachverhalt
+Anhand der Untersuchungsergebnisse ist der nachfolgende Sachverhalt
+erstellt und wird auch vom Beschuldigten nicht bestritten:
+a)
+Am Donnerstagmorgen, 22. Februar 2007,
+wurde kurz nach 09.00 Uhr die Bijouterie von Opfer 4 überfallen. Dabei
+wurde der damals allein im Geschäft anwesende knapp 48-jähri­ge Juwelier
+getötet. Zudem wurden Wertsachen, vorab Gelbgold und Silber, in einem
+mutmasslichen Gesamtbetrag von rund Fr. 200‘000.‑ entwendet.
+b)
+Die um 09.50 Uhr vom Vater des
+Überfallenen alarmierten Polizeibeamten fanden das Opfer in der Einbauküche
+neben dem Verkaufsraum des Ladens; schwer atmend und nicht mehr ansprechbar
+lag das Opfer mit blutüberströmtem Gesicht und auf den Rücken gefesselten
+Händen am Boden. Über den Kopf war bis zu den Augen eine blutdurchtränkte
+Jutetasche gestülpt. Trotz Reanimationsbe­mü­hungen durch die Sanität erlag
+Opfer 4 noch am Tatort sei­nen schwe­ren Verletzungen.
+c)
+Die Ärzte des Instituts für Rechtsmedizin
+der Universität Zürich stellten bei der noch am Tatort erfolgten Inspektion
+der Leiche namentlich Frakturen an der Nase und am rechten Gesichtsschädel
+sowie einen Bruch des rechten Handgelenks fest. Todesursache war nach ihrer
+Beurteilung ein zentrales Regulationsversagen infolge stumpfer
+Gesichtsschädel- und Hirnverletzung. Die nachfolgende Autop­sie bestätigte
+diese Einschätzung. Laut dem Obduktionsgutachten des IRM wurde Opfer 4 durch
+„äusserst massive stumpfe mechanische Gewalt auf den Kopf, insbesondere am
+Gesichtsschädel, rasch getötet“. Die Befunde ergaben „eine lebensgefährliche
+Zerstörung von Knochen sowohl am Gesichtsschädel als auch am frontalen
+Hirnschädel“; infolgedessen sei der Tod derart rasch eingetreten, dass sich
+die massiven Verletzungen an der Schädelbasis und am Gehirn morpho­logisch
+nicht mehr hätten auswirken können. Das IRM-Gutachten schliesst mit der
+Aussage, dass Opfer 4 mit blos­sen Fäusten erschlagen wurde, wiewohl aufgrund
+der ausserordentlich massiven Kopfverletzungen anfänglich wie im Fall von
+Opfer 3 die Vermutung bestand, die Täterschaft habe mit einem stumpfen
+mechanischen Gegenstand auf das Opfer eingewirkt.
+d)
+Bei der Spurensuche in der Umgebung des
+Tatortes fand die Polizei in einem in der Nähe abgestellten Container eine
+dop­pelläufige Schrotflinte. Am Tatort wurde ein weisser Plastiksack zurück­gelassen,
+in welchem sich verschiedene Schmuckstücke aus einer Vitrine der
+Schaufensterauslage be­fanden.
+4.2.—
+Tatverhalten des
+Beschuldigten
+Der Beschuldigte ist geständig, am 22. Februar 2007 die Bijoute­rie
+von Opfer 4 überfallen und ausgeraubt zu haben. Sein Verteidiger machte jedoch
+an der Berufungsverhandlung unter Verweis auf bereits in der Unter­suchung
+gemachte Angaben seines Mandanten geltend, dass nicht dieser, sondern ein am
+Raub beteiligter Komplize den Juwelier getötet habe. Der Beschuldigte sei
+daher von diesem Vorhalt freizu­spre­chen, zumal er selber bei seinen
+Schlägen gar keinen Tötungsvorsatz gehabt habe. Im Folgenden ist damit der
+Anklage­sachverhalt hinsichtlich der Verantwortlichkeit für den Tod von Opfer
+4 zu klären.
+4.2.1.—
+Personenkontrolle im Vorfeld
+des Raubes und Verhaftung des
+Beschuldigten
+a)
+Am Freitagmorgen, 16. Februar 2007,
+mithin sechs Tage vor dem Raubüber­fall auf die Bijouterie von Opfer 4, fiel
+einem Polizeibeamten an der ______strasse in Zürich ein geparkter dunkler BMW
+750i mit zwei Insassen auf. Vom betreffenden Parkfeld aus besteht freie Sicht
+auf die Bijouterie von Opfer 4. Da der Polizeibeamte das fragliche Fahrzeug
+wenige Tage zu­vor schon einmal in der Gegend gesehen hatte, nahm er zusammen
+mit einem Kol­legen eine Personenkontrolle vor. Dabei wiesen sich die
+Insassen als G. ______ und A.______ aus; das Auto war für den Export
+immatrikuliert und demgemäss mit einem befristeten Nummernschild versehen.
+Die späteren polizeilichen Ermittlun­gen ergaben, dass der ebenfalls
+litauische Staatsangehörige G. ______ den BMW am 29. Januar 2007 bei
+einem Autohändler in Wallisellen gekauft und glei­chentags beim Strassen­verkehrsamt
+in Winterthur Exportkontrollschilder gelöst hatte. Der Autohändler erinnerte
+sich, dass G. ______ in Begleitung eines Mannes war, dessen Sig­nalement auf
+A.______ hinweist.
+b)
+Am Mittwoch, 21. Februar 2007, bemerkten
+ein Bijoutier und seine Angestellte vor ihrem Uhrengeschäft in Zollikon zwei
+Männer, die sich seltsam verhielten. Der Bijoutier folgte den beiden
+Unbekannten und sah diese dann in einen in der Nähe abgestellten BMW
+einsteigen; aufgrund der abgelesenen Kontrollschildnummer so­wie der
+Personenbeschreibungen handelte es sich bei den Unbekannten um die wenige
+Tage zuvor an der ______strasse kontrollierten G. ______ und A.______.
+c)
+Am 1. März 2007 wurde der
+Beschuldigte anlässlich einer Per­sonenkontrolle im Zug zwischen Rosenheim
+und München vorläufig festgenommen, da er ein ver­botenes Messer sowie zwei
+Silberbarren und diversen Schmuck auf sich führte. Dank internationaler
+Zusammenar­beit der Polizei ergab sich rasch eine Verbindung zum Raubüberfall
+vom 22. Februar 2007 auf die Bijouterie von Opfer 4 und konnten hierauf erste
+Spu­renübereinstimmungen festgestellt sowie die Silberbarren und die
+Schmuckwaren dem dort erbeuteten Deliktsgut zugeordnet werden. Am
+2. April 2007 erfolgte die Überstellung von A.______ an die Schweizer
+Strafverfol­gungsorgane.
+4.2.2.—
+Ermittlungen gegen G. ______
+a)
+Der nach dem Raubmord in der Bijouterie
+von Opfer 4 international zur Fahndung ausgeschriebene G. ______ wurde im
+Frühjahr 2008 in Lettland verhaftet  und nach längerem Prozedere am
+15. Januar 2009 an die Schweiz ausgeliefert.
+b)
+Die anschliessenden polizeilichen
+Abklärungen, namentlich Spurenvergleiche und Spiegelkonfrontationen, brachten
+keine stichhaltigen Hinweise auf eine Mitbe­teiligung von G. ______ am
+tödlichen Raubüberfall in Zürich. Die Untersuchung gegen G. ______ wurde
+darum eingestellt, worauf er am 17. Juni 2009 aus der Untersuchungshaft
+entlassen und nach Litauen ausgeflogen wurde.
+4.2.3.—
+Aussagen des Beschuldigten
+A.______
+a)
+Der Beschuldigte führte bei der ersten
+polizeilichen Befragung am 3. April 2007 aus, dass er von Hintermännern,
+denen er Geld geschuldet habe, zum Raub­überfall auf die Bijouterie von Opfer
+4 gedrängt worden sei. Diese Hinter­männer – vom Beschuldigten während des
+ganzen Verfahrens trotz mehrma­liger Nachfrage nie näher bezeichnet – hätten
+ihm das Juweliergeschäft in Zürich gezeigt. In der Folge habe er vor Ort
+ausgekundschaftet, wie viele Angestellte in der Bijouterie arbeiten und wann
+sie konkret eintreffen. Da er selber damals keinen Führerausweis mehr gehabt
+habe, sei er jeweils von „Juri“ [G. ______ ] in die Nähe des Ladens
+chauffiert worden. Am Vorabend der Tat hätten die Hintermänner ihm
+Handschellen, Klebeband und eine doppelläufige Schrotflinte überreicht. Zudem
+hätten sie ihm für den Überfall eine Person zur Unterstützung in Aussicht
+gestellt. Am Tatmorgen sei er mit einem Auto abgeholt worden, wobei sich die
+Hilfs­person als „Juri“ (nachfolgend „Juri 2“) vorgestellt habe.
+Der Überfall selber hat sich nach der ersten Schilderung des
+Beschuldigten wie folgt zugetragen: „Juri 2“ und er seien getrennt
+voneinander zur Bijouterie gelaufen, nachdem sie zuvor in der Nähe parkiert
+hätten. An der Ladentüre hätten sie geläutet und seien eingelassen worden.
+Beim Betreten des Geschäfts sei der Verkäufer hinter der Theke gestanden; er
+[der Beschuldigte] habe aus seiner Umhängetasche die Schrotflinte hervorholen
+wollen, jedoch habe der Verschluss der Tasche geklemmt. Er habe hierauf den
+Verkäufer gebeten, ihm eine Uhr zu zeigen, dieser sei hinter der Theke
+hervorgetreten, worauf er ihm einen Faustschlag an den Kopf versetzt habe.
+Der Verkäufer sei zu Boden gefallen. Darauf hätten sie ihm die Hände mit
+Handschellen auf den Rücken gefesselt und ihn in einen Nebenraum [kleine
+Küche] ver­bracht, wo er [der Beschuldigte] noch zweimal auf das Opfer
+eingeschlagen habe. In der Folge hätten sie die Vitrinen gewaltsam geöffnet
+und ausgeräumt. Bevor sie danach das Geschäft wieder verlassen hätten, habe
+er [der Beschuldigte] den Verkäufer im Nebenraum bequemer hingesetzt, habe
+noch etwas Wasser vom Hahn geholt und ihm ins Gesicht geträufelt sowie seinen
+Kopf hin- und herbewegt, „um zu sehen, ob er noch in Ordnung ist“. Der Kopf
+des Opfers sei zuvor mit einem Sack bedeckt ge­wesen, wobei dies der Mittäter
+getan haben müsse.
+Beim Weggehen aus dem Geschäft
+will der Beschuldigte schliesslich noch den Alarmknopf gedrückt haben, damit
+das Opfer möglichst schnell gefunden werde.
+b)
+Anlässlich der Hafteinvernahme bei der
+Zürcher Staatsanwaltschaft am 4. April 2007 gab der Beschuldigte
+ebenfalls zu Protokoll, den Raubüberfall in Zürich im Unterschied zu den
+früheren Raubtaten nicht als Einzeltäter verübt zu haben. Sodann schilderte
+er den Ablauf des Geschehens ähnlich wie am Vortag gegenüber der Polizei: Er
+[der Beschuldigte] habe geplant, den Verkäufer mit der mitgeführten Waffe zu
+bedrohen. Weil sich aber die Tasche nicht habe öff­nen lassen und er darum
+die Flinte nicht habe hervorziehen können, habe er auf den Verkäufer
+eingeschlagen. Als er und sein Komplize hierauf den Verkäufer in Handschellen
+gelegt hätten, habe er noch zweimal zugeschlagen, damit dieser auf­höre zu
+schreien und sich zu wehren. Danach hätten sie das Opfer „in eine Art Zimmer“
+[kleine Küche neben dem Verkaufsraum] gesetzt und damit begonnen,
+Schmuckwaren einzupacken. Vor dem Verlassen des Ladens, sei er [der Beschul­digte]
+noch einmal in den Nebenraum zurückgekehrt, um nachzusehen, ob er den
+Verkäufer „wieder zur Besinnung holen müsse“. Dabei habe er bemerkt, dass
+sein Komplize, der zuvor noch etwas länger im Nebenraum zurückgeblieben sei,
+den Kopf des Verkäufers mit einem Tuch oder Sack bedeckt habe. Er [der
+Beschuldigte] habe dann den Sack hochgezogen und habe dem Verkäufer Wasser
+ins blutende Gesicht gespritzt, wobei dieser die Augen geöffnet und noch
+geantwortet habe.
+c)
+Bei der Einvernahme durch die Zürcher
+Staatsanwaltschaft am 28. April 2008 bestätigte der Beschuldigte seine bisherigen
+Aussagen zum Tatablauf. Er hielt an seiner bereits gegenüber der Polizei
+gemachten Darstellung fest, dass er selber den Verkäufer nicht stark
+geschlagen habe, denn dieser sei ein älte­rer Mann gewesen und er habe ihn
+lediglich ein­schüchtern wollen. Dabei sei ihm [dem Beschuldigten] bewusst
+gewesen, dass seine Schläge zu Verletzungen führen könnten, zu keinem
+Zeitpunkt aber habe er bedacht, dass sie tödlich sein könnten.
+d)
+Die Ausführungen des Beschuldigten bei
+der Befragung durch den Glarner Untersuchungsrichter am 7. August 2009
+decken sich im Wesentlichen mit den früheren Angaben. Er wollte den
+Raubüberfall auf Druck von Hintermännern verübt haben, wobei er anfügte, vor
+Ort nach den Anweisungen des ihm zugeteilten Kom­plizen gehandelt zu haben;
+es müsse auch dieser gewesen sein, der den Verkäufer getötet habe. Bei der
+Befragung am 27. Januar 2010 sagte der Beschuldigte aus, der Mittäter
+habe beim Überfall Handschuhe ge­tragen und habe wohl darum keine Spuren
+hinterlassen; die Videokamera im Geschäft müsste ihn jedoch erfasst haben.
+e)
+Vor Obergericht erklärte der
+Beschuldigte, er sei am Tod des Juweliers (Opfer 4) nicht schuld. Er selber
+habe ihm nur einen einzigen Schlag an den Kiefer versetzt, worauf der
+Juwelier zu Boden gefallen sei. Er habe dabei aber noch nicht geblutet. Was
+danach geschehen sei, habe er [der Beschul­digte] nicht gesehen, da der
+Komplize das Opfer gefesselt und in einen Nebenraum geschleppt habe. Dieser
+andere Beteiligte habe „Wowa“ geheissen und habe ihm den Raubüberfall
+vorgeschlagen. Ken­nen gelernt habe er ihn schon 2005, könne aber zu dessen
+Identität keine nähe­ren Angaben machen. Nachdem er vom Vorsitzen­den darauf
+hingewiesen wurde, dass er [der Beschuldigte] in der Untersuchung noch
+erklärt habe, er sei von Hintermän­nern zum Überfall gezwungen worden, meinte
+er dazu, das sei „alles Quatsch“ gewesen, das habe er nur fantasiert.
+4.2.4.—
+Ergebnisse der
+Spurenermittlungen
+Im Anschluss an den Raubüberfall am 22. Februar 2007 in der
+Bijouterie von Opfer 4 nahm die Polizei am und um den Tatort umfangrei­che
+Spurensiche­rungen vor. Dabei konnten nebst einem Fin­gerabdruck an einer
+Vitrine auch DNA-Spurenprofile ebenfalls an einer Vitrine, fer­ner am
+zurückgelasse­nen Plastiksack sowie an der sichergestellten Schrotflinte und
+an einem Schmuckstück eruiert werden, wel­che die Anwesenheit des
+Beschuldigten beim Raubüberfall in der Bijouterie bestäti­gen. Demgegenüber
+wurden am Tatort keine DNA-Spuren aufgefunden, welche auf die Beteiligung
+eines Mittäters am Raubüberfall hinweisen würden. Von den in der Bijouterie
+zahl­reich asservierten Spuren konnten in der Untersuchung einzig ein
+Fingerabdruck ab der Plastiktasche sowie zwei Schuhabdrücke nicht zugeordnet
+werden. Im Fall dieser Schuhabdrücke ergab sich freilich auch keine
+Übereinstim­mung mit den Schuhen des Beschuldigten. Allein dies aber belegt
+noch nicht die Anwesenheit eines Mittäters; die nicht identifizierten Sohlen­abdrücke
+lassen sich durchaus auch damit erklären, dass der Beschuldigte bis zu seiner
+Verhaftung erst mehrere Tage nach dem Überfall die damals getragenen Kleider
+und Schuhe längst gewechselt hatte. Schliesslich ist fest­zuhalten, dass im
+Juweliergeschäft zwar eine Videokamera in­stalliert war, diese jedoch nur das
+Live-Bild aus dem Verkaufs­raum ins dahinterlie­gende Büro übertrug, ohne
+aber die Vorgänge im Laden gleich­zeitig aufzuzeichnen. Als Fazit bleibt
+damit, dass sich trotz breit angelegter und auf­wändiger Untersuchung keine
+gesicherten Anhaltspunkte für die Tatbeteiligung eines Mittäters ergaben. An­zufügen
+ist zudem noch, dass während und nach dem Raubüberfall im Juwelierge­schäft
+kein akustischer Alarm losging; auch bestand keine direkte Alarmverbindung
+von der Bijouterie zur nahegelegenen Polizeiwache.
+4.2.5.—
+Würdigung der gesamten Beweislage
+a)
+Die vom Beschuldigten geschilderte
+Sachdarstellung, dass er den Raubüber­fall auf die Bijouterie nicht allein,
+sondern zusammen mit einem Mittäter verübt habe, findet in den
+Untersuchungsergebnissen keine Stütze. Es steht daher ausser Frage, dass der
+Beschuldigte auch bei diesem Überfall gleich wie bei den vorangegangenen
+Raubtaten in Wetzikon und Glarus vor Ort als Einzeltäter handelte. Zutreffend
+hat in diesem Zusam­menhang schon die Vorinstanz ergänzend auch auf das
+übereinstimmende Tat­muster bei allen drei Ver­brechen hingewiesen. Aus­nahmslos
+wurden die betroffenen Juweliere mit massiven Faustschlägen an den Kopf
+niedergestreckt. Wohl führte der Beschuldigte beim Raub in Zürich im
+Unterschied zu den früheren Überfällen in einer Umhängetasche eine Waffe mit
+sich, welche er dann aber unmittelbar nach dem Betreten des Geschäfts wegen
+eines klemmenden Ver­schlusses nicht aus der Tasche habe ziehen können.
+Allein dies aber ist noch kein ausschlaggebendes Indiz dafür, dass der
+Überfall zu zweit begangen wurde, indem dabei geplant gewesen wäre, dass er
+[der Beschuldigte] den Bijoutier mit der Waffe bedrohen und der Mittäter
+diesen dann fesseln würde. Der Beschuldigte nämlich kann ohne weiteres auch
+als Einzelperson ins Auge gefasst haben, den Verkäufer mit der Waffe
+einzuschüchtern und auf diese Weise dessen Widerstand zu brechen. Als dieser
+Plan in der Folge nicht aufging, brach er das Vorhaben nicht einfach ab,
+sondern entschied sich umgehend zur Anwendung brachialer Gewalt, wie er dies
+schliesslich schon in den früheren Fällen getan hatte.
+b)
+Bereits die von der Polizei am Tatort
+aufgenommenen Fotos dokumentieren, mit welch ungemeiner Brutalität der
+Beschuldigte beim Überfall auf sein Opfer ein­gewirkt hat. Bestätigt wird
+dies durch die bei der Obduktion der Leiche erkannten schweren
+Kopfverletzungen. Nach Einschät­zung der Gutachter schlug der Beschuldigte
+mit massiver Gewalt zu und führte dadurch den raschen Tod des Opfers herbei.
+Vor diesem Hintergrund ist offensichtlich, dass der Beschuldigte beim
+Überfall mit ausgesprochener Radikalität handelte; er verwendete seine ganze
+Körperkraft da­rauf, das Opfer mit Faustschlägen vollkom­men auszuschalten,
+um dann ungehindert zur angestrebten Beute zu gelangen. Die Brutalität und
+Entschlossenheit des Vor­gehens des Beschuldigten liess dem Opfer keine
+Chance. Der Beschul­digte selber erklärte in der Untersuchung sinngemäss, er
+habe den überfallenen Verkäufer nur gerade so stark geschlagen, dass ihm ohne
+Widerstand die Hand­schellen hätten angelegt werden können. Danach habe er
+noch einmal zugeschla­gen, damit das Opfer aufhöre zu schreien. Diese
+Ausführun­gen des Beschuldigten sind als erfundene Schutzbehauptungen zu
+bezeichnen, wenn man sich die dem Opfer effektiv zugefüg­ten Schädelfrakturen
+vor Augen führt, die nur mit enormer Gewaltanwendung bewirkt werden konn­ten.
+Der Beschuldigte lässt auch hier die Tendenz erkennen, seine Taten geschönt
+darzustellen. Unglaub­haft ist namentlich seine Schilderung, er habe sich vor
+dem Verlassen des Tatorts um sein Opfer gekümmert, indem er Wasser vom Hahn
+geholt und es ihm ins Gesicht geträufelt habe. Es ist darauf hinzuweisen,
+dass ein Plastiksack mit einem Teil der Beute am Tatort zurückgelassen wurde.
+Offensichtlich musste der Beschul­digte die Bijouterie überstürzt verlassen.
+Er hatte somit kaum Zeit für die behauptete Für­sorge. Zudem ist seine
+Darstellung realitätsfern, wenn man bedenkt, wie er das Opfer zuvor
+zugerichtet hat.
+4.3.—
+Rechtliche Beurteilung
+4.3.1.—
+a)
+Hinsichtlich der
+rechtlichen Beurteilung der soeben erstellten Hand­lungen des Beschuldigten
+kann vorweg auf die Ausführungen im zuvor behan­delten Mordfall von Opfer 3
+verwiesen werden, nachdem jenes Verbrechen nach dem gleichen Muster ablief
+wie der Überfall auf Opfer 4.
+b)
+Der Beschuldigte nahm mit seinen
+gezielten und massiven Faustschlägen an den Kopf von Opfer 4 dessen Tod in
+Kauf, wenn diese Fatalität nicht sogar das unmittelbare Ziel seines
+gewaltsamen Vorge­hens war. Damit steht fest, dass der Beschuldigte
+jedenfalls mit Eventualvorsatz (Art. 12 Abs. 2 StGB) Opfer 4
+umgebracht hat.
+c)
+Aus den gleichen Überlegungen wie bereits
+im oben behandelten Fall von Opfer 3 ist auch vorliegend die vorsätzlich
+begangene Tötung als Mord im Sinne von Art. 112 StGB zu qualifizieren.
+Skrupellos, brutal und gemütskalt hat der Beschuldigte einen Menschen
+erschlagen, um sich fremde Vermögenswerte anzu­eignen. Der mit grösster
+Niedertracht ausge­führte Gewaltakt erfüllt sämtliche Krite­rien eines
+Raubmordes (BGE 115 IV 187; siehe auch BSK-
+Schwarzenegger
+, N 10 zu Art. 112 StGB;
+Trechsel/Fingerhuth
+, StGB PK,
+N 11 zu Art. 112 StGB).
+d)
+Insoweit der Beschuldigte auch in Bezug
+auf den vorliegenden Raubüberfall erklärte, vor dem Weggehen aus dem Laden
+einen Alarmknopf betätigt zu haben, ist dies als unbehelfliche
+Schutzbehauptung abzutun. Denn es ist von niemandem registriert worden, dass
+irgendein Alarm ausgelöst worden wäre. Erneut zeigt sich das beharrliche
+Bestreben des Beschuldigten, sich berechnend in einem besseren Licht
+darzustellen.
+4.4.—
+Fazit
+4.4.1.—
+In Übereinstimmung mit der
+Vorinstanz ist der Be­schuldigte wegen Mordes im Sinne von Art. 112 StGB
+zum Nachteil von Opfer 4 zu verurteilen. Zudem hat er sich in Idealkonkurrenz
+des Raubes ge­mäss Art. 140 Ziff. 1 Abs. 1 StGB schuldig
+gemacht (siehe dazu
+Trechsel/ Crameri
+,
+StGB PK, N 27 zu Art. 140 StGB; hierzu ist anzumerken, dass in
+diesem Schuldpunkt bereits das erstinstanzliche Urteil in Rechtskraft
+erwachsen ist). Gleich wie im zuvor erörterten Mordfall von Opfer 3 ist auch
+hier die Raubhandlung nicht unter Art. 140 Ziff. 4 StGB zu
+subsumieren, da bei einem Raubmord der Qualifikationsgrund der
+Lebensgefährdung durch die vorsätzliche Tötung konsumiert wird (
+Trechsel/Crameri
+, StGB PK, N 27
+zu Art. 140 StGB). Gemäss dem schlüssig und überzeugend begründeten
+Gutachten war der Beschul­digte bei der Begehung des Raubüberfalls
+uneingeschränkt schuldfähig, was im Berufungsverfahren auch nie in Abrede
+gestellt wor­den ist. Infolgedessen ist der An­trag des Beschuldigten, er sei
+vom Vor­halt der Tötung von Opfer 4 freizusprechen, abzuweisen.
+4.4.2.—
+Lediglich der Vollständigkeit halber
+ist anzufügen, dass die rechtliche Beurteilung des Überfalls auf die
+Bijouterie von Opfer 4 nicht anders aus­fiele, selbst wenn der Beschuldigte
+das Verbrechen zusammen mit einer Drittperson verübt hätte. Bei der vom
+Beschuldigten selber geschilderten Tatversion steht näm­lich ausser Zweifel,
+dass er und sein Komplize beim Raubüberfall Hand in Hand zusammengewirkt und
+damit gleichberechtigt und koordiniert vorgegangen wären; beide hätten sie
+mit ihrem gemeinsam beschlossenen und durchgeführten, skrupel­losen und
+gewaltexzessiven Vorgehen den Tod ihres Opfers zumindest eventual­vorsätzlich
+herbeigeführt. Es läge daher Mittäterschaft vor (
+Trechsel/Jean-Richard,
+StGB PK, vor Art. 24 StGB
+N 10 ff.) und das Tatverhalten des Beschul­digten wäre gleich wie
+bei Einzeltäterschaft ebenfalls als Mord im Sinne von Art. 112 StGB
+sowie als Raub im Sinne von Art. 140 Ziff. 1 Abs. 1 StGB zu
+qualifizieren.
+IV.
+Strafzumessung
+1.—
+Allgemeine Ausführungen zum
+Strafrahmen
+a)
+Der Beschuldigte hat bei seinen
+Raubüberfällen am 8. Juli 2005 auf die Bijouterie von Opfer 3 und am
+22. Februar 2007 auf die Bijouterie von Opfer 4 die vor Ort
+angetroffenen Juweliere ermordet. Bei Mord sieht das Gesetz als Strafe eine
+lebenslängliche Freiheitsstrafe oder eine zeitige Freiheitsstrafe von
+mindestens zehn bis zwanzig Jahren vor (Art. 112 StGB in Ver­bindung mit
+Art. 40 StGB). Neben den beiden Mordtaten hat der Beschuldigte an­lässlich
+der insgesamt fünf verübten Überfälle auf Bijouterien zwischen Juni 2005 und
+Februar 2007 weitere mit Frei­heitsstrafe bedrohte Straftatbestände
+verwirklicht, dabei teilweise in Ideal- und teil­weise in Realkonkurrenz.
+Konkret erfüllt hat er den mit einer Mindeststrafe von fünf Jahren
+Freiheitsentzug belegten Tatbestand des qualifizierten Raubes im Sinne von
+Art. 140 Ziff. 1 Abs. 1 und Ziff. 4 StGB, ferner mehrfach
+den Tatbestand des Raubes im Sinne von Art. 140 Ziff. 1 Abs. 1
+StGB  und schliesslich noch den Tatbestand des Diebstahls im Sinne von
+Art. 139 Ziff. 1 StGB.
+b) aa)
+Hat der Täter durch eine oder mehrere
+Handlungen die Voraussetzungen für mehrere gleichartige Strafen erfüllt, so
+verurteilt ihn das Gericht zu der Strafe der schwersten Straftat und erhöht
+sie angemessen. Es darf jedoch das Höchstmass der angedrohten Strafe nicht um
+mehr als die Hälfte erhöhen. Dabei ist es an das gesetzliche Höchstmass der
+Strafart gebunden (Art. 49 Abs. 1 StGB). Das Gericht hat demnach
+gedanklich in einem ersten Schritt die Einsatzstrafe für das schwerste Delikt
+festzulegen; hierauf erhöht es diese Einsatzstrafe unter Einbezug der anderen
+Straftaten sowie unter Berücksichtigung der jeweiligen Umstände zu einer
+Gesamt­strafe (Urteil des Bundesgerichts 6B_405/2011 vom 24. Januar 2012
+E. 5.4).
+bb)
+Vorliegend handelt es sich bei den am
+8. Juli 2005 und am 22. Februar 2007 verübten Mordtaten um die am
+schwersten wiegenden Straftaten. Der massgebliche Strafrahmen reicht dabei
+gemäss Art. 112 StGB von mindestens 10 Jahren Frei­heitsstrafe bis
+hin zu lebenslänglicher Freiheitsstrafe als der vom Gesetzgeber vor­gegebenen
+absoluten Höchststrafe (Art. 40 StGB). Sind zwei Mordtaten nebenei­nander
+zu sanktionieren und erachtet dabei das Gericht in Bezug auf die je einzelne
+Tat eine zeitige Freiheitsstrafe als schuldangemessene Einsatzstrafe, so ist
+bei der Festlegung der Gesamtstrafe eine Strafschärfung auf lebenslängliche
+Freiheitsstrafe möglich (siehe dazu BGE 116 IV 300 E. 2c
+S. 303 ff; BGE 132 IV 102 E. 9.1
+S. 105 f.; Urteil des Bundesgerichts 6B_599/2013 vom 8. Mai
+2014, E. 3.3. und E. 3.4.).
+2.—
+Konkrete Strafzumessung
+2.1.—
+Gemäss Art. 47 Abs. 1 StGB
+bemisst das Gericht die Höhe der Strafe nach dem Verschulden des Täters;
+dabei sind das Vorleben, die persönlichen Ver­hältnisse sowie die Wirkung der
+Strafe auf das Leben des Täters zu berücksichti­gen. Das Verschulden wird
+nach der Schwere der Verletzung oder Gefährdung des betroffenen Rechtsguts,
+nach der Verwerflichkeit des Handelns, den Beweggründen und Zielen des Täters
+sowie danach bestimmt, wie weit der Täter nach den inneren und äusseren
+Umständen in der Lage war, die Gefährdung oder Verletzung zu ver­meiden
+(Art. 47 Abs. 2 StGB). Der Begriff des Verschuldens bezieht sich
+auf den gesamten Unrechts- und Schuldgehalt der konkreten Straftaten; hierbei
+ist zu unter­scheiden zwischen der Tat- und der Täterkomponente (siehe dazu
+BGE 117 IV 112 E. 1 S. 113 f.). Dieser Vorgabe folgt in
+methodischer Hinsicht die nachstehende Substanziierung des Tatverschuldens
+von
+A.______
+.
+2.2.1.—
+a)
+Der Beschuldigte
+A.______ brachte bei seinen Raubtaten zwei
+Menschen um; hierbei fügte er zugleich auch den Hinterbliebenen der Opfer
+uner­messliches Leid zu. Die verübten Mordtaten weisen damit einen
+Unrechtsgehalt von ausserordentlich hoher Tragweite auf. Das menschliche
+Leben ist das höchste und wertvollste aller Rechtsgüter, was sich auch darin
+niederschlägt, dass bei einer Tötung unter wie hier qualifizierenden
+Umständen (Mord) der schärfste Strafrahmen zur Anwendung gelangt.
+b)
+A.______ hat die Tötungshandlungen bei vollständig
+vorhandener Ein­sichts- und Steuerungsfähigkeit begangen, wie im ersten
+Gutachten schlüssig und überzeugend begründet und im Übrigen im
+Zweitgutachten bestätigt wird. Allein schon vor diesem Hintergrund ist daher
+in Anbetracht der Schwere der verübten Taten das Mass des tatrelevanten
+Verschuldens als ausserordentlich hoch zu bemessen.
+c)
+A.______ hat
+konkret die beiden tödlich ausgegangenen Raubüberfälle mit ungemeiner
+Brutalität ausgeführt. Sein deliktisches Vorgehen war in beiden Fällen darauf
+ausgerichtet, die ihm allein schon altersmässig körperlich weit unterle­genen
+Ladeninhaber rasch und wirkungsvoll ausser Gefecht zu setzen. Hierzu hat er
+mit enorm hart ausgeführten Faustschlägen auf den Kopf seiner Opfer eingewirkt.
+Der kräftig gebaute und frühere Kampfsportler setzte seine Faust­schläge mit
+derar­tiger Gewalt ein, dass die Ärzte anhand der Verletzungsbilder zu­nächst
+vermuteten, die Opfer wären mit einem mechanischen Gegenstand malträ­tiert
+worden. Der Beschuldigte handelte brutal, zielgerichtet und absolut
+rücksichtslos; er ging mit ausgesprochener Radikalität vor und verwendete
+dabei seine ganze Körperkraft darauf, das Opfer mit Faustschlägen
+auszuschalten, um dann ungehindert zur angestrebten Beute zu ge­langen. Nur
+schon dieser unge­heure Krafteinsatz bei den Überfällen unterstreicht die
+massive krimi­nelle Energie, welche A.______ bei seinen Taten aufwendete. Im
+Fall von Opfer 3 drosch er zu­dem auf den Juwelier selbst dann noch weiter
+ein, als er ihn be­reits gefesselt hatte und jener somit ohnehin schon
+praktisch widerstandsunfähig war; er tat dies letztlich aus dem einzig
+niedrigen Grund, weil sich das Opfer nach den ersten massiven Schlägen noch
+einmal aufraffte und er sich dadurch beim Ausräumen der Vitrinen gestört
+fühlte.
+d)
+Wohl hat das Gericht bei der rechtlichen Würdigung
+der Mordtaten erwogen, A.______ habe mit Eventualvorsatz gehandelt. Dies
+schmälert jedoch sein Verschulden keinesfalls. Denn bereits die Inkaufnahme
+des Todes seiner Opfer als Folge der ihnen zugefügten Schläge offenbart eine
+krass primitive, niederträchtige und gleichgültige Gesinnung gegenüber dem
+menschlichen Leben.
+e)
+Im zweiten Gutachten hält der forensische
+Sachverständige fest, dass sich in den Taten des Beschuldigten „ein
+aussergewöhnlich skrupelloses und gewaltberei­tes Verhaltensmuster“
+manifestiere. Wie der Gutachter in diesem Zusammenhang überzeugend aufzeigt,
+ist beim Beschuldigten eine chronifi­zierte Gewaltbereitschaft erkennbar,
+nämlich eine „in der Persönlichkeit verankerte Tendenz, instrumentell Gewalt
+anzuwenden“. Die Gewalt werde gerade
+nicht
+von Emotionen getrieben;
+vielmehr werde „Gewalt als legitimes Mittel angesehen, eigene Interessen
+durchzusetzen“. Diese Definition sei „in nahezu klassischer Weise durch die
+Art und die beabsichtigte Funktion der Gewaltanwendung von A. ______ im
+Rahmen der Anlassdelikte erfüllt“. Hinzu kommt, dass gemäss Gutachten die
+beim Beschuldigten erkennbare chronifi­zierte Gewaltbereitschaft gepaart ist
+mit einer „fokussierten Zielgerichtetheit“. Dieser Persönlichkeitszug zeige
+sich darin, dass der Beschuldigte, hat er einmal den Ent­scheid für eine
+Handlung getroffen, „konsequent und ‚diszipliniert‘ auf die Umset­zung
+fokussiert“ sei; „Relativierungen, abwägende Realitätsprüfungen, die Berück­sichtigung
+von Konsequenzen, Zweifel oder Ambivalenz haben dann keinen Platz mehr“. In
+dieser Phase – so die stichhaltige Folgerung des Gutachters – sei der Be­schuldigte,
+gleichsam mit einem Tunnelblick, „vollständig auf die handlungsbezo­gene Umsetzung
+ausgerichtet“ und blende alles andere aus. Allerdings ist die vom
+Beschuldigten bei seinen Delikten an den Tag gelegte über­proportionale
+Gewaltanwendung in der plausibel erörterten Sichtweise des Gutachters nicht
+ausschliesslich durch die „chronifizierte Gewaltbereitschaft“ zu er­klären.
+Diese begründet wohl die grundsätzliche Bereitschaft zum Gewalteinsatz, nicht
+aber das ausgeprägte Ausmass dieser Gewalt. Hierbei ist nämlich zu konsta­tieren,
+dass A.______ gegenüber der Aussenwelt generell ein ausgeprägtes Misstrauen
+hegt („negative Perzeption der Aussenwelt: Subtyp unsicher“;). Infolgedessen
+besteht seine Strategie darin, Situatio­nen möglichst vollständig zu
+kontrollieren („Dominanzfokus“;). Als sich daher in den Raubüberfällen
+Situationen ergaben, in denen der Beschuldigte zumindest subjektiv glaubte,
+die Kontrolle verlieren zu können, war er nicht mehr die kühl handelnde und
+planende Person. Der drohende Kontrollver­lust dürfte dabei nach Ansicht des
+Gutachters zu einer nennenswerten innerlichen Anspannung geführt haben. In
+diesen Momenten sei Gewalt nicht mehr nur rein in­strumentell eingesetzt
+worden, sondern sei stark emotional unterfüttert gewesen, was schliesslich
+den Boden für eine ausgeprägte, deutlich überproportionale Gewaltanwendung geebnet
+habe. Diese auf sozusagen emotionaler Ebene angesiedelten Defizite in der
+Persönlich­keit des Beschuldigten vermögen allerdings dessen Tatverschulden
+nicht zu schmälern. Denn die Schuldfähigkeit, sprich die Einsichts- und
+Steuerungsfähigkeit (Art. 19 Abs. 1 StGB), war beim Beschuldigten
+bei allen Straftaten uneingeschränkt gegeben. Insofern hat sich der
+Beschuldigte bei seinen Gewalttaten jedenfalls über sämtliche in der
+menschlichen Vernunft verankerten Barrieren und Leitplanken bewusst hinweggesetzt,
+was ihm unter dem Gesichtspunkt des Verschuldens uneingeschränkt anzulasten
+ist.
+f)
+Die Delikte von A.______ weisen in zeitlicher Hinsicht keinen engen
+Zusammenhang auf; sie erfolgten sozusagen in drei Phasen. Die ersten räuberi­schen
+Gewalttaten fallen auf Juni/Juli 2005 (Entreissdiebstahl in der „Opfer 1
+Uhren-Bijouterie“ in Zürich; Raubüberfall mit schwerer Körperverletzung in
+Wetzikon; Raubmord in Glarus). Im Feb­ruar 2006 folgte der Raubüberfall mit
+schwerer Körperverletzung in Zü­rich, und ein weiteres Jahr später, im
+Februar 2007, verübte er den Raubmord an Opfer 4 in Zürich. Der in Litauen
+wohnhafte Beschuldigte reiste jeweils als Kriminaltourist gezielt zur
+Begehung von Raubüberfällen in die Schweiz. Wie er dem Gutachter erklärte,
+habe er gewusst, „dass die Schweiz ein reiches Land sei“ und man „hier durch
+Straftaten sehr viel Geld bekommen könne, sehr viel mehr als in Litauen“.
+Sein Antrieb war mithin reine Habgier. Bei seinen kriminellen Handlungen
+darauf fokussiert, einen möglichst hohen Gewinn zu erlangen, ging er mit
+abgebrühter Entschlossenheit vor und war dabei punkto Gewalteinsatz zum
+Äussersten bereit. Beim Ganzen ist geradezu be­zeichnend, dass er für seine
+Überfälle ausschliesslich Bijouterien auswählte, wo be­kanntermassen
+ausserordentlich hohe Sachwerte vorzufinden sind. Eine kaltblütig berechnende
+Strategie im Vorgehen des Beschuldigenden ist ferner darin zu erken­nen, dass
+die überfallenen Geschäfte meist von älteren Personen als Einzelbetriebe
+geführt wurden. Mit Ausnahme des allerersten Delikts in der Uhren-Bijouterie
+von Opfer 1  legte es der Beschuldigte denn auch bei sämtlichen Überfällen
+darauf an, sogleich nach dem Betreten der Geschäfte die jeweils allein
+anwesenden und kör­perlich schwächeren Verkäufer ohne langes Federlesen mit
+der Faust niederzu­schlagen und ausser Gefecht zu setzen, um danach
+unbehelligt die Wertsachen zu­sammenraffen zu können.
+g)
+Die Kenntnisse über das Vorleben des Beschuldigten basieren weitgehend
+auf dessen eigenen Aus­sagen in der Untersu­chung und in den psychiatrischen
+Explorationen. Immerhin aber haben die drei vom zweiten Gutachter telefonisch
+kontaktierten Personen aus A.______s Umfeld in Litauen dessen Darstellung
+über seinen persönlichen Werdegang im Wesentlichen bestätigt; jedenfalls haben
+sich daraus keine offen­kundigen Widersprüche zu den Angaben von A.______
+ergeben. Demnach scheint A.______ bis zum Alter von rund 29 Jahren ein
+angepasstes Leben geführt zu haben. Abgesehen von einer hier nicht
+einschlägigen Vorstrafe aus dem Strassenverkehr sowie vereinzelten pubertä­ren
+Scharmützeln hat er sich während der Jugend­zeit sowie als junger Erwachsener
+grundsätzlich rechtskonform verhalten. Zu einer nachhaltigen Zäsur in der
+Lebensgeschichte des Beschuldigten kam es im Zeitraum 2002/2003. Der
+Beschuldigte erwähnte gegenüber dem Zweitgutachter, dass er zu jener Zeit
+Schulden gehabt habe; obwohl er viel gearbeitet habe, habe er es auf keinen
+grünen Zweig gebracht. In dieser Lage habe er sich einer kriminellen Gruppe
+angeschlossen, wel­che er bereits von früher aus dem Umfeld des von ihm
+betriebe­nen Kampfsports gekannt habe. Sein Ziel sei es gewesen, seine
+Schulden abzu­bauen und damit sein eigenes Leben zu verbessern; auch sei er
+auf die „andere (kriminelle) Seite des Lebens“ neugierig gewesen. Innerhalb
+der kriminellen Gruppe habe jeder „auf eigene Rechnung“ gearbeitet. Man habe
+dann die Beute jeweils geteilt, und wenn einer von ihnen einen Rechtsanwalt
+gebraucht habe, hätten sich alle darum gekümmert und diesen finanziert. Die
+Tat­sache, dass sich der Beschuldigte leichthin und letztlich aus zynischer
+Opportunität für den Gang in die Kriminalität entschieden hat, fällt in
+verschuldensrelevanter Hin­sicht erheblich ins Gewicht. Offensichtlich
+überdrüssig der Mühsal täglicher Arbeit schmiedete er in kaltherziger Manier
+den Plan, fortan seinen Lebensunterhalt auf schwer kriminelle Weise zu
+bestreiten. Es handelte sich mithin um einen bewussten und eindeutig
+kalkulierten Entscheid des Beschuldigten, bei seinen wiederholten Raubtaten
+in der Schweiz die Integrität und das Wohlergehen anderer Menschen den
+eigenen (rein geldwerten) Interessen komplett unterzuordnen. In dieser augen­fällig
+selbstsüchti­gen und extrem unsozialen Haltung offenbart sich ein ausseror­dentlich
+hohes Mass an deliktischem Willen bar von Empathie und Respekt gegen­über dem
+Leben von Mitmenschen.
+h)
+Das Verschulden von A.______ summiert sich sodann zusätzlich durch den
+Umstand, dass er
+zwei
+Morde begangen hat und überdies weitere schwere
+Straftaten verübt hat, dabei namentlich auch einen qualifizierten Raub mit
+schwerer Körperverletzung.
+2.2.2.—
+a)
+In Bezug auf das Vorleben
+des Beschuldigten ist im Wesentlichen auf die Ausführungen abzustellen,
+welche der Beschuldigte selber anlässlich der beiden psychiatrischen
+Begutachtungen gemacht hat, wobei diese teilweise divergieren. Ohnehin lassen
+sich die betreffenden Angaben anhand der verfügbaren Akten und Informationen
+kaum verifizieren, sieht man einmal von den wenigen Auskünften ab, welche der
+Zweitgutachter von drei Personen aus dem Bekanntenkreis des Beschuldigten in
+Litauen eingeholt hat
+.
+aa)
+Die eheliche Situation der Eltern des im
+November 1974 in Vilnius/Litauen als Einzelkind geborenen Beschuldigten war
+offensichtlich bereits früh zerrüttet. Die damals rund 25-jährige Mutter zog
+daher mit dem kleinen Sohn schon bald nach der Geburt zu ihrer Familie nach
+Russland, kehrte jedoch nach rund einem Jahr auf Drängen der Grossmutter
+väterlicherseits wieder nach Litauen zurück. Obwohl zwi­schenzeitlich
+geschieden, lebte die Mutter in der Folge wieder mit dem etwa drei bis vier
+Jahre jüngeren Vater zusammen. Der Beschuldigte berichtete, dass sein Vater
+viel Alkohol getrunken und viele Frauengeschichten gehabt habe. 1997 habe der
+Vater die Familie endgültig verlassen und sei zu einer anderen Frau gezogen.
+2003 sei der Vater verstorben, wobei er (der Beschuldigte) nicht wisse woran,
+habe er doch zu seinem Vater nach dessen Wegzug kaum mehr Kontakt gehabt. Der
+Beschuldigte hat seinen Vater als „kriminelles Element“ in Erinnerung. Er sei
+zwei­mal inhaftiert gewesen. Als sein Vater Ende der 1970er Jahre aus dem
+Gefängnis entlassen worden sei, sei es für ihn als Kind schwierig geworden;
+er sei vom Vater oft geschlagen worden und habe einen grossen „psychischen
+Druck“ erlebt. Dem­gegenüber beschreibt der Beschuldigte das Verhältnis zu
+seiner Mutter als sehr eng und herzlich; zu ihr habe er aus der
+Justizvollzugsanstalt heraus nach wie vor regelmässigen telefonischen
+Kontakt.
+bb)
+Nach Abschluss der Schulzeit
+(Sekundarstufe) zog der Beschuldigte zur Grossmutter mütterlicherseits nach
+Russland und absolvierte dort eine Ausbildung an landwirtschaftlichen
+Gerätschaften und Maschinen sowie eine Lehre als LKW-Chauffeur. Danach kehrte
+er nach Litauen zurück; in Vilnius habe er dann zusam­men mit einem Kollegen
+eine Wohnung gemietet. In dieser Zeit habe er intensiv fernöstliche
+Kampfsportarten betrieben. Es sei sein Lebensziel gewesen, Sport­meister und
+Trainer zu werden, woran ihn dann aber eine Knieverletzung gehindert habe.
+Daneben habe er bis Frühjahr 2004 an wechselnden Stellen im Sicherheits­bereich
+(Security) und als Barmann gearbeitet. Grund für seine häufigen Stellen­wechsel
+sei gewesen, dass er immer öfter und län­ger sowie zu unterschiedlichen
+Tageszeiten trainiert habe, weshalb seine ganze Priorität zusehends dem Sport
+ge­golten habe. In der Berufungsverhandlung äus­serte der Beschuldigte, dass
+er seine letzte Arbeitsstelle wegen Meinungsverschie­denheiten mit
+Vorgesetzten verloren habe. In der Folge habe er sich um keine wei­tere
+Festanstellung mehr bemüht. Er habe nur noch „inoffiziell“ temporär
+gearbeitet und so seinen Unterhalt bestritten.
+cc)
+Mit Ausnahme vereinzelter Trinkgelage
+wurde vom Beschuldigten kein Dro­gen- oder Alkoholabusus geschildert und es
+liegen auch keine entsprechenden An­haltspunkte vor. Der Beschuldigte ist in
+grundsätzlich guter körperlicher Verfassung.
+b)
+Der Gutachter diagnostizierte in der
+Persönlichkeit des Beschuldigten eine Dissozialität mit psychopathischer
+Akzentuierung. Symptomatisch hierfür ist die bei allen Delikten erkennbare
+Tendenz, sich geradezu leichthin über geltende Regeln und Normen
+hinwegzusetzen. Ebenso deutet der offenkundig „einfach“ und unver­mittelt
+erfolgte Einstieg in die Kriminalität auf eine starke dissoziale Disposition
+hin. Aufgrund dieser Persönlichkeitsstruktur konstatierte der Gutachter, dass
+dem Beschuldigten bei seinem Gang in die Kriminalität keine kognitiven oder
+emotiona­len Hürden im Wege gestanden seien und er in der Folge ebenfalls
+keine innerli­chen [emotionalen] Barrieren habe überwinden müssen, um die als
+nützlich ange­sehene Gewalt bei seinen Delikten anzuwenden; emotionale Hürden
+oder gar Empathie für die Opfer seien nicht zu erkennen. Die dargelegten
+Defizite in der Persönlichkeit des Beschuldigten be­günstigen bzw. erleichtern
+im Ergebnis die Entscheidung zum Delinquieren sowie zur Ausführung der
+kriminellen Handlungen. Diese persönlichkeitsimmanente Schwäche ist leicht
+strafmindernd zu berücksichtigen.
+c)
+Ebenfalls strafmindernd fällt ins
+Gewicht, dass der Beschuldigte im Elternhaus vonseiten seines Vaters
+wiederholt körperliche Gewalt am eigenen Leib erlebt hat, was mutmasslich die
+Entwicklung der eigenen Empathiefähigkeit negativ beeinflusst haben dürfte.
+d)
+Anlässlich der Berufungsverhandlung vor
+Obergericht am 13. November 2014 hat der Beschuldigte erstmals überhaupt
+Anzeichen von Reue über die begangenen schweren Straftaten bekundet. Er
+wisse, dass seine Taten praktisch unmöglich zu verzeihen seien; er sei „sehr
+stark schuld an diesen Taten und werde dieses schwere Kreuz sein ganzes Leben
+lang tragen müssen“. Dazu ersuchte er die Angehörigen, „wenn es ihnen dann
+irgendwann mal möglich sein sollte“, ihm zu ver­zeihen. Relativiert wird die
+ansatzweise geäusserte Einsicht in das verübte immense Leid und Unrecht allerdings
+dadurch, dass der Beschuldigte im Mordfall von Opfer 4 trotz erdrückender
+Beweislage seine Täterschaft nach wie vor in Abrede stellt; er sei zwar in
+der Bijouterie „als Mittäter“ anwesend gewesen, sei aber am Mord nicht
+schuldig. Insgesamt ist das inzwischen in geringem Mass erkennbare Bedauern
+über sein deliktisches Verhalten leicht strafmindernd zu würdigen.
+e)
+A.______ hat in der Untersuchung sowie im gerichtlichen Verfahren wie­derholt
+unterschiedliche Versionen zum Tatgeschehen zu Protokoll gegeben. Bei­spielsweise
+hatte er im Mordfall von Opfer 3 anfänglich seine Einzeltäterschaft einge­standen,
+brachte später einen nicht namentlich genannten Komplizen ins Spiel, ehe er
+wieder zu seiner ursprünglichen Version zurückkehrte. Im Mordfall von Opfer 4
+brachte er eine unbekannte Drittperson ins Spiel und gab vorübergehend vor,
+zu diesem Überfall gezwungen worden zu sein. Gegenüber dem zweiten Gutachter
+erklärte er, er habe „in der Vergangenheit während der Untersuchung und auch
+während des letzten Gutachtens viel gelogen und z.T. einfach Dinge erzählt,
+um die wahren Verhältnisse zu verschleiern. Anlässlich der persönlichen
+Befragung vor Obergericht hielt er fest, als Entscheidungsgrundlage sei das
+zu nehmen, was er aktuell sage und nicht das, was er früher einmal gesagt
+habe. Im zweiten forensi­schen Fachbericht werden manipulative
+Verhaltensweisen als Merkmal der beim Beschuldigten erkannten Dissozialität
+mit psychopathischer Akzentuierung be­schrieben. Vor diesem Hintergrund
+schloss denn auch der Gutachter auf eine mögliche Unsicherheit hinsichtlich
+des Wahrheitsgehalts der Aussagen des Beschuldigten. Nach Meinung des
+Experten könne allgemein – vor allem auch mit Bezug auf das frühere
+Aussageverhalten – sicher festgehalten wer­den, „dass bei A. ______ eine
+Tendenz zu taktisch motivierten Aussagen und entsprechend manipulativen
+Tendenzen zu beobachten ist“.
+f)
+Der Verteidiger des Beschuldigten
+plädierte an der Berufungsverhandlung für eine Strafreduktion, weil sein
+Mandant zwar nicht vollumfänglich, jedoch „in weiten und wesentlichen Teilen“
+ein Geständnis abgelegt habe. Wie aber soeben dargelegt wurde, lässt sich das
+Aussageverhalten des Beschuldigten in der Untersuchung sowie im bisherigen
+Prozessverlauf keineswegs als stringent und kooperativ bezeichnen. So hat der
+Beschuldigte anlässlich der Schlusseinvernahme in der Untersuchung am
+27. Januar 2010 seine zuvor abgelegten Geständnisse in wesentlichen
+Teilen widerrufen und hat seine Tatschuld auch im anschliessenden
+gerichtlichen Verfahren in zentralen Punkten bestritten. Vorlie­gend wurde
+der Beschuldigte denn auch vor allem gestützt auf eine erdrückende
+Indizienlage als Täter der beiden Morde überführt. Insoweit daher der
+Beschuldigte in den Worten seines Vertreters „bezüglich der objektiven Tatumstände
+in praktisch allen Teilen der gegen ihn erhobenen Vorwürfe geständig“ war,
+ist dies folglich nur minim straf­mindernd zu berücksichtigen.
+g)
+Es sind keine Anhaltspunkte ersichtlich,
+welche beim Beschuldigten auf eine besondere Strafempfindlichkeit (dazu
+BSK-
+Wiprächtiger/Keller
+,
+N 150 zu Art. 47 StGB)
+hinweisen würden und
+gegebenenfalls strafmindernd zu berücksichtigen wä­ren.
+2.3.—
+a)
+Nach Abwägung der soeben
+dargelegten strafzumessungsrelevanten Aspekte ist das Verschulden von
+A.______ als ausserordentlich schwer einzu­stufen.
+Als einzig adäquate Strafe zu diesem hohen Mass an Verschulden ist in
+Übereinstimmung mit der Vorinstanz eine lebenslängliche Freiheitsstrafe
+festzule­gen. Weil somit das bereits erstinstanzlich ausgesprochene Strafmass
+zu bestätigen ist, wird zu dessen Begründung zusätzlich zu den vorstehenden
+Ausführungen aus­drücklich und integral auch auf die vorinstanzlichen
+Erwägungen zur Strafzumes­sung verwiesen.
+b)
+Der Beschuldigte hat bei seinen Raubtaten
+in zwei Fällen den Geschäftsinha­ber ermordet: Das eine Mal beim Überfall am
+8. Juli 2005 auf die Bijouterie in Glarus, das andere Mal beim Überfall
+am 22. Februar 2007 auf die Bijouterie in Zürich. Angesichts des sehr
+grossen Verschuldens und der nur unwesentlich ins Gewicht fallenden
+Strafminderungsfaktoren ist schon für eine ein­zige Tötung eine
+lebenslängliche Freiheitsstrafe verwirkt. Aber selbst wenn man als
+Einsatzstrafe für einen Mord noch eine zeitige Freiheitsstrafe im Bereich von
+18 bis 20 Jahren in Betracht zöge, kann aufgrund der zwingenden
+Strafschärfung für den zweiten, verschuldensmässig ebenfalls sehr schwer
+wiegenden Mord die schuldan­gemessene Gesamtstrafe nur eine lebenslängliche
+Freiheitsstrafe sein.
+2.4.—
+a)
+Der Verteidiger des
+Beschuldigten machte vor Obergericht geltend, das vorliegende Strafverfahren
+habe unangemessen lange gedauert, weshalb die Strafe zwingend merklich zu
+reduzieren sei. Vorliegend sei die Untersuchung im Sommer 2008 abgeschlossen
+worden, die vorinstanzliche Verhandlung habe aber erst im März 2012
+stattgefunden. Zudem dauere inzwischen auch das Berufungsverfahren schon
+lange.
+b) aa)
+Das in Art. 6 Ziff. 1 EMRK
+und Art. 29 Abs. 1 BV verankerte Beschleuni­gungsgebot verpflichtet
+Behörden, das Strafverfahren zügig voranzutreiben, um den Beschuldigten nicht
+unnötig über die gegen ihn erhobenen Vorwürfe im Ungewissen zu lassen. Bei
+überlanger Verfahrensdauer ist diesem Aspekt unter Umständen im Rahmen der
+Strafzumessung mit einer Strafminderung Rechnung zu tragen (dazu
+BSK-
+Wiprächtiger/Keller
+,
+N 179, N 181 und N 186 zu Art. 47 StGB).
+bb)
+Vorliegend ist der vom Verteidiger
+erhobene Vorwurf der Verfahrensverzögerung insoweit zu relativieren, als dass
+die Untersuchung nicht bereits im Sommer 2008 abgeschlossen wurde. Noch im
+Jahr 2009 mussten Ermittlungen wegen einer allfälligen Mittäterschaft von G.
+______ durchgeführt werden. In der Folge fand am 27. Januar 2010 die
+Schlusseinvernahme durch den Verhörrichter statt, wobei der Beschuldigte
+anlässlich dieser Befragung seine früheren Geständnisse in Bezug auf die
+beiden Mordtaten überraschend widerrufen hat. Schliesslich veranlasste die
+Vorinstanz eine psychiatrische Begutachtung des Beschuldigten, ehe sie auf
+den 13. März 2012 zur Hauptverhandlung vorgeladen hat. Das
+obergerichtliche Berufungsverfahren hat sich vor allem deshalb in die Länge
+gezogen, weil eine nochmalige psychiatrische Exploration des Beschul­digten
+notwendig war.
+cc)
+Die Vorinstanz hat im angefochtenen
+Entscheid die „lange Verfahrensdauer“  strafmindernd berücksichtigt und damit
+implizit eine Verlet­zung des Beschleunigungsgebots eingeräumt. Aus Sicht des
+Obergerichts ist die Verfahrensdauer insgesamt ebenfalls als lange zu
+bezeichnen, was im Ergebnis ein Verstoss gegen das Beschleunigungsgebot
+bedeutet. Dieser Umstand ist im Rah­men der Strafzumessung zu berücksichtigen
+(siehe dazu BGE 117 IV 124 E. 4 S. 127 ff.).
+c)
+aa)
+Bei Verletzung des Beschleunigungsgebots kommt es für das
+Ausmass der daraus resultierenden Strafreduktion darauf an, wie schwer der
+Beschuldigte durch die Verfahrensverzögerung getroffen wurde, wie gravierend
+die ihm vorge­worfenen Straftaten sind und welche Strafe ausgesprochen werden
+müsste, wenn keine Verletzung des Beschleunigungsgebotes vorläge; zudem ist
+auch den Inte­ressen der Geschädigten Rechnung zu tragen. Das Gericht ist
+verpflichtet, die Ver­letzung des Beschleunigungsgebotes in seinem Urteil
+festzuhalten und gegebe­nenfalls darzulegen, in welchem Ausmass es diesen
+Umstand berücksichtigt hat (BSK-
+Wiprächtiger/Keller
+,
+N 181 zu Art. 47 StGB, mit Hinweisen).
+bb)
+Wie bereits eingehend erörtert, hat der
+Beschuldigte ausgesprochen gravie­rende Straftaten begangen und es trifft ihn
+dabei ein sehr schweres Verschulden. Die mit seinen Mordtaten verwirkte
+schuldangemessene Sanktion ist eine lebens­längliche Freiheitsstrafe. Der
+Beschuldigte befindet sich seit seiner Verhaftung am 1. März 2007 in
+Untersuchungshaft bzw. im vorzeitigen Strafvollzug. Es ist vorliegend nicht
+ersichtlich, dass der Beschuldigte speziell bedingt durch die bisherige Verfahrensdauer
+einer erheblichen Belastung ausgesetzt gewesen wäre. Wohl hat der
+Beschuldigte seine Täterschaft im Mordfall vom 22. Februar 2007 in der
+Bijouterie in Zürich bis zuletzt be­stritten. Nachdem aber seine Schuld auch
+in die­sem Fall anhand der gesamten Untersuchungsergebnisse eindeutig ist,
+konnte eine verfahrensbedingte „belastende“ Ungewissheit für den
+Beschuldigten letztlich einzig und allein darin bestehen, ob es der Justiz
+gelingen würde, ihm die betref­fende Straftat rechtsgenüglich nachzuweisen. Ferner
+begründete auch die anhal­tende Unsicherheit, wie hoch schliesslich die
+aufgrund der schweren Verbrechen von vornherein zu erwartende massive Strafe
+tatsächlich ausfallen würde, keine be­son­dere Unbill für den Beschuldigten.
+Der hier zu beurteilende Fall ist nicht ver­gleichbar mit einer Straftat, bei
+welcher eine zeitige Freiheitsstrafe verwirkt wurde, und es im Interesse des
+Täters liegt, mit der kriminellen Vergangenheit innert ge­botener Frist
+abschliessen und einen geordneten Neustart ins weitere Leben begin­nen zu kön­nen.
+Die von der Verteidigung angeführten Präzedenzfälle für eine Strafreduktion
+wegen Verfahrens­verzögerung betreffen denn auch Sachverhalte mittelschwerer
+Kriminalität und sind daher nicht einschlägig. Demnach ist vorliegend als
+Folge der langen Verfahrens­dauer, wenn überhaupt, nur eine minimale Strafre­duktion
+einzuräumen; die Gesamtstrafe ist damit, da der Beschuldigte zwei Morde
+beging, noch immer eine lebenslängliche Freiheitsstrafe.
+d)
+Aber selbst wenn dem Beschuldigten im Sinne der Verteidigung wegen
+über­langer Verfahrensdauer eine Strafreduktion von 20‑25 %
+gewährt und infolgedessen die Freiheitstrafe für eine Mordtat im Bereich von
+15 Jahren angesetzt würde, wäre aufgrund der Tatmehrheit als Gesamtstrafe
+gleichwohl ein lebenslänglicher Frei­heitsentzug anzuordnen.
+3.—
+Fazit
+a)
+Damit ist zusammenfassend festzuhalten, dass der
+Beschuldigte A.______ zu einer lebenslänglichen Freiheitsstrafe zu
+verurteilen ist. Dessen Berufung ist damit in diesem Punkt abzuweisen.
+b)
+Der Beschuldigte sass vom 1. März 2007 bis
+7. August 2009 in Untersu­chungshaft; seither befindet er sich im
+vorzeitigen Strafvollzug. Die ausgestandene Unter­suchungshaft ist auf die
+Freiheitsstrafe anzurechnen (Art. 51 StGB).
+4.—
+Weiterführung des
+Strafvollzuges
+Im vorzeitigen Strafvollzug steht A.______
+unter dem Regime des Straf- und Massnahmenvollzuges (Art. 236
+Abs. 4 StPO). Die Abteilung Verwaltungspolizei des Kantons Glarus müsste
+nach dem vorliegenden Urteil des Obergerichts einem Unterbruch des
+Strafvollzuges zustimmen (Art. 3 lit. f der Verordnung über den
+Voll­zug in den Bereichen Strafprozess, Straf- und Massnahmenvollzug und
+Opferhilfe [GS III F/7]). Bei dieser Ausgangslage muss an dieser Stelle
+keine Sicher­heitshaft angeordnet werden. Würde sich nach dem vorliegenden
+Entscheid ein Grund für einen Haftunterbruch (z.B. schwere Krankheit)
+ergeben, könnte die Strafvollzugsbe­hörde immer noch die Anordnung von
+Sicherheitshaft beim Berufungsge­richt bean­tragen (Art. 440 StPO). Es
+ist somit lediglich festzustellen, dass A.______ weiterhin im Strafvollzug zu
+belassen ist.
+V.
+Anordnung einer vollzugsbegleitenden ambulanten Massnahme
+1.—
+Vorbemerkung
+A.______ ist im vorliegenden Strafverfahren
+zweimal psychiatrisch unter­sucht worden. Beide Gutachter haben dabei
+schlüssig aufgezeigt, dass der Beschuldigte
+nicht
+an einer schweren
+psychischen Störung gemäss den in den all­gemeinen psychiatrischen
+Klassifikationssystemen verfügbaren Kategorien leidet und demzufolge eine
+stationäre therapeutische Massnahme im Sinne von Art. 59 StGB von
+vornherein nicht in Frage kommt. Aber selbst wenn im Verhalten des Be­schuldigten
+in bestimmten Phasen Merkmale zu Tage treten, welche sich bei exten­siver
+Auslegung des Begriffs der schweren psychischen Störung im Sinne von
+Art. 59 Abs. 1 StGB darunter subsumieren liessen, so wäre eine
+stationäre therapeutische Behandlung gleichwohl nicht angezeigt. Wie nämlich
+der Zweitgutachter anhand der gesamten Situation schlüssig folgert, ist beim
+Beschuldigten für einen relevanten Therapieerfolg kein stationäres Umfeld in
+einer psychiatrischen Einrichtung notwendig. Im Übrigen stünde vorliegend
+eine stationäre Massnahme nach Art. 59 StGB, bei welcher im Falle einer
+erfolgreichen Behandlung des Täters dessen Ent­lassung in die Freiheit nach
+bereits kurzer Zeit denkbar ist (siehe Art. 62 Abs. 1 StGB und
+Art. 59 Abs. 4 StGB), in einem absoluten Missverhältnis zur hier
+schuld­angemessenen lebenslänglichen Freiheitsstrafe (siehe dazu auch BSK-
+Heer
+, N 37 zu Art. 56 StGB
+und N 119 zu Art. 59 StGB), weshalb die Anordnung einer stationä­ren
+Therapie alleine schon aus diesem Grund ausser Frage steht.
+2.—
+Indikation für eine
+vollzugsbegleitende Massnahme
+2.1.—
+In der forensisch-psychiatrischen
+Begutachtung hat sich ergeben, dass beim Beschuldigten ausgeprägte
+risikorelevante Persönlichkeitsmerkmale vorhan­den sind (chronifizierte
+Gewaltbereitschaft, Dominanzfokus, fokussierte Zielgerich­tetheit, negative
+Perzeption der Aussenwelt), welche aber
+nicht
+einer definierten
+psychiatrischen Störungskategorie entsprechen. Daneben gibt es
+Persönlichkeits­merkmale, zu denen es auch diagnostische Entsprechungen gibt;
+darunter fällt na­mentlich die offensichtlich bestehende Dissozialität mit
+psychopathischer Ausprä­gung. Letztere Persönlichkeitsproblematik
+unterscheidet sich zwar erheblich von der psychischen Norm der
+durchschnittlichen Bevölkerung und selbst von der Norm der
+Straftäterpopulation in der Schweiz; sie ist allerdings in ihrer Ausprägung
+gleichwohl zu gering, als dass deswegen die Diagnose einer
+Persönlichkeitsstörung gestellt werden könnte.
+2.2.—
+Beim Beschuldigten besteht nach
+gängiger Kategorisierung keine klinisch manifeste schwere psychische Störung;
+demnach fehlt es an der in Art. 59 Abs. 1 und Art. 63
+Abs. 1 StGB genannten Eingangsvoraussetzung („ist der Täter psy­chisch
+schwer gestört“) für die Anordnung sowohl einer stationären als auch einer
+ambulanten Therapiemassnahme. Indes zeigt der Zweitgutachter plausibel und
+nachvollziehbar auf, dass vorliegend eine vollzugsbegleitende therapeutische
+Mass­nahme im Sinne von Art. 63 Abs. 1 StGB durchaus zweckdienlich
+wäre. Der Be­schuldigte wird im (vorzeitigen) Strafvollzug bereits seit
+längerem therapeutisch be­gleitet, indem eine Psychiatrieärztin mit ihm
+regelmässig Gespräche führt. Im Rahmen dieser Therapie wird angestrebt, den
+Beschuldigten „einer engmaschigen Realitätsprüfung im Sinne von Ausbau von
+sozialen Kontakten, Übung einer flexiblen Haltung bei vielen
+unvorhergesehenen Situationen und nicht zuletzt einem konstanten
+Empathietraining“ zu unterziehen. Die entsprechende Therapie erscheint
+überdies auch aus voll­zugstechnischen Gründen zweckmässig, um den
+Beschuldigten in den Gefängnis­alltag zu integrieren. Dabei lassen sich
+bereits erste Lichtblicke ausmachen, gelingt es nämlich dem Beschuldigten
+nach den Beobachtungen des Gutachters inzwi­schen besser, in der
+Vollzugsanstalt mit „schwierigen“ Situationen umzugehen. Bei
+A.______ ist
+eine
+Motivation für eine Psychotherapie mit regelmäs­sigen Gesprächen über die ge­nannte
+Thematik mittlerweile zu erkennen; ebenso ist er zuneh­mend bereit, über
+seine Delikte und sein deliktrelevantes Verhalten zu sprechen. Generell aber
+steht ihm ein sehr langer therapeutischer Pro­zess mit ungewissem Ausgang
+bevor. Entscheidend für eine erfolgversprechende Therapiegestaltung wird nach
+Auffassung des Gutachters sein, ob das derzeitige Modell der therapeutischen
+Zusammenarbeit mit der Ärztin in­tensiviert und auch auf andere Therapeuten
+übertragen werden kann; letztlich werde die Wirksamkeit der Therapie davon
+abhängen, dass sich
+A.______
+auf eine nachhaltige und authentische Therapiearbeit einlässt
+. Nach Einschätzung der aktuellen Situation sieht der Gutachter
+hierfür zumindest gewisse Chancen. Immerhin verfüge der Beschuldigte über
+persönliche Eigenschaften, die doch hoffen liessen: Wer ‑ wie
+A.______
+bei der
+Begehung seiner Verbrechen ‑ Grenzen ohne er­kennbare Überwindung
+überschreite, könne unter Umständen auch den Schritt zu­rück wieder „leicht“
+machen; ferner sei beim Beschuldigten, der grundsätzlich als intelligent
+einzustufen sei, dessen fokussierte Zielgerichtetheit eine mögliche Res­source
+im Rahmen der Therapie. Ins­gesamt seien die Erfolgsaussichten nicht so
+klein, dass auf einen Versuch zur Durchführung einer ambulanten therapeutischen
+Massnahme von vornherein ver­zichtet werden sollte.
+2.3.—
+Bei der eben dargelegten Ausgangslage
+ist daher auf der Grundlage von Art. 56 Abs. 1 StGB in
+Übereinstimmung mit der sachlich begründeten Empfehlung des Gutachters eine
+vollzugsbegleitende ambulante Behandlung des Beschuldigten im Sinne von
+Art. 63 Abs. 1 StGB anzuordnen, wie dies auch von der Verteidigung
+beantragt wird. Es rechtfertigt sich im vorliegenden Kontext, den Begriff der
+schweren psychischen Störung gemäss Art. 63 Abs. 1 StGB weit
+auszulegen und damit eine im konkreten Fall als zweckmässig einzustu­fende
+ambulante Therapie im Rahmen des ordentlichen Strafvollzugs auch einem Täter
+zugänglich zu machen, der zwar psychisch nicht schwer gestört ist, dessen
+Persönlichkeitsmerkmale insgesamt aber doch erheblich vom Normverhalten ab­weichen.
+Mit der Anordnung einer vollzugsbegleitenden ambulanten Massnahme anerkennt
+das Gericht überdies in Übereinstimmung mit beiden Gutachtern, dass beim
+Beschuldigten aus heutiger Sicht zumindest eine minimale Chance für eine
+deliktpräventive Behandlung besteht. Die Anordnung einer vollzugsbegleitenden
+ambulanten Behandlung macht beim Beschuldigten nicht zuletzt auch mit Blick
+auf die Bewältigung des Gefäng­nisalltages Sinn. Der Beschuldigte hat
+jedenfalls dem Gericht anlässlich seiner Befragung glaubhaft geschildert,
+welche Bedeutung und Wichtigkeit die aktuell lau­fende Gesprächstherapie mit
+der Ärztin für seine eigene Befindlichkeit und Per­sönlichkeitsentwicklung
+hat. Im Übrigen besteht trotz der vor­gesehenen Verwahrung des Beschuldigten
+(dazu nachfolgend) eine Perspektive für eine mögliche Entlassung, so dass
+auch unter diesem Ge­sichtswinkel therapeutische Interventionen sinnvoll
+erscheinen (siehe in diesem Kontext auch Art. 64 Abs. 4 Satz 3
+StGB; dazu BSK-
+Heer
+,
+N 130 f. zu Art. 64 StGB).
+VI.
+Anordnung einer Verwahrung
+1.—
+a)
+Die Vorinstanz hat gegenüber
+dem Beschuldigten gestützt auf Art. 64 Abs. 1 lit. a StGB eine
+Verwahrung angeordnet. Der Beschuldigte wendet sich in seiner Berufung gegen
+diese Massnahme und verlangt deren Aufhebung.
+b)
+Auf der Grundlage des Erstgutachtens hat
+die Vorinstanz die Anord­nung der Verwahrung im Ergebnis damit begründet, es
+liege beim Beschuldigten eine als hoch einzustufende Rückfallgefahr für neue
+schwere Gewaltstraftaten vor und sei zudem der Beschuldigte nicht
+therapierbar, weshalb eine mildere Mass­nahme nicht in Betracht komme.
+2.1.—
+a)
+Bei einem sozialgefährlichen
+Täter ist aus Gründen der öffentlichen Sicherheit eine therapeutische
+Massnahme oder die Verwahrung anzuordnen, wenn die Strafe alleine nicht
+ausreicht, um der Gefahr weiterer Straftaten des Täters zu begegnen
+(Art. 56 Abs. 1 StGB). Hat der Täter namentlich einen Mord oder
+Raub begangen, so ordnet das Gericht die Verwahrung an, wenn aufgrund der
+Persön­lichkeitsmerkmale des Täters, der Tatumstände und seiner gesamten
+Lebensum­stände ernsthaft zu erwarten ist, dass er weitere Taten dieser Art
+bzw. von ähnli­chem Schweregrad begeht (Art. 64 Abs. 1 lit. a
+StGB; siehe dazu
+Trechsel/Pauen Borer
+,
+StGB PK, N 3 zu Art. 64 StGB). Sind die Voraussetzungen sowohl für
+eine Strafe wie für eine Massnahme [dazu zählt auch die Verwahrung nach
+Art. 64 StGB] erfüllt, so ordnet das Gericht beide Sanktionen an
+(Art. 57 Abs. 1 StGB). Im Falle der Anordnung einer Verwahrung geht
+der Vollzug der Freiheitsstrafe der Verwah­rung voraus und sind die
+Bestimmungen über die bedingte Entlassung aus der Frei­heitsstrafe nicht
+anwendbar (Art. 64 Abs. 2 StGB).
+b)
+Die eben zitierten Bestimmungen sind in
+der aktuellen Fassung am 1. Januar 2007 in Kraft getreten. Sie gelangen
+aber ebenso zur Anwendung, soweit der Täter, wie hier der Beschuldigte, seine
+Taten teilweise vor dem 1. Januar 2007 begangen hat (Ziff. 2
+Abs. 1 SchlB StGB [AS 2006 S. 3534]). Im Übrigen hat der
+Beschuldigte den zweiten Mord am 22. Februar 2007 unter der Herrschaft
+des neuen Rechts verübt.
+2.2.—
+a)
+Der Beschuldigte hat mit
+seinen beiden Mordtaten  sowie den zwei weiteren Raubüberfäl­len in Zürich
+und in Wetzikon (qualifizierter Fall mit schwerer Körperverletzung)
+Straftaten von extremer Schwere begangen; diese qualifizierten Verbrechen
+können gemäss Art. 64 Abs. 1 StGB eine Verwahrung des Täters nach
+sich ziehen (dazu
+Trechsel/Pauen Borer
+,
+StGB PK, N 3 ff. zu Art. 64 StGB).
+b)
+aa)
+Die Anordnung einer Verwahrung
+setzt sodann voraus, dass auf Grund der Persönlichkeitsmerkmale des Täters,
+der Tatumstände und seiner gesamten Lebensumstände ernsthaft zu erwarten ist,
+dass er weitere Taten dieser Art begeht (Art. 64 Abs. 1 lit. a
+StGB).
+bb)
+Bereits der von der Vorinstanz
+beauftragte Gutachter gelangte zum Schluss, dass die
+persönlichkeitsstrukturell bedingte Rückfallgefahr des Beschuldigten für
+schwere Gewaltdelikte als hoch einzustufen sei. Diese Ein­schätzung wird vom
+Zweitgutachter geteilt. Dessen legalprognostische Beurteilung gründet auf
+einer eingehenden und dabei schlüssig und nachvollziehbar dokumentierten
+Einzelfallanalyse und orientiert sich zusätzlich an den Ergebnissen
+standardisierter Prognoseinstrumente. Gemäss den vom Zweitgutachter hierbei
+gewonnenen Er­kenntnissen besteht bei
+A.______ ein deutliches
+einschlägiges Rückfallrisiko für Diebstahls- und Raubdelikte, bei deren
+Durchführung aufgrund der spezifischen Persönlichkeitsmerkmale des
+Beschuldigten „gleichzeitig auch immer das Risiko für schwere Gewaltdelikte
+bis hin zu Tötungen“ innewohnt. Die risikorelevanten
+Persönlichkeitseigenschaften des Be­schuldigten, die sich auch klar und
+eindeutig in den hier zu beurteilenden Straftaten manifestiert haben, sind
+einerseits eine erkennbare Dissozialität mit psychopatischer Ausprägung,
+andererseits aber noch auffälliger seine chronifizierte Gewaltbereitschaft,
+die fokussierte Zielgerichtetheit bei seinen Handlungen und ein dabei
+mitbestimmender Dominanzfokus sowie sein ausgeprägtes Misstrauen gegenüber der
+Aussenwelt. In „qualitativer“ Hinsicht hat der Zweitgutachter das
+Rückfallrisiko des Beschuldigten wie folgt beschrieben: „A.______ hat ein
+hohes Ausmass an freier Entscheidung darüber, ob und in welcher Form er kri­minell
+aktiv ist oder nicht. Seine Persönlichkeitsstruktur lässt ihm beide Wege
+offen. Das spezifische mit seiner Risikodisposition verbundene Risiko besteht
+darin, dass er sich für die Begehung von Straftaten entscheiden kann, ohne
+eine emotionale oder gedankliche Hürde überwinden zu müssen. Diese im
+Ergebnis geringe oder gar nicht vorhandene Hemmschwelle ist Ausdruck des
+Zusammenwirkens der bereits beschriebenen risikorelevanten
+Persönlichkeitsmerkmale. Ihre Ausprägung und ihr Zusammenwirken ist der Grund
+für das deutlich ausgeprägte einschlägige Rückfallrisiko.“ Bei seinen
+mündlichen Erläuterungen vor Obergericht hat der Zweit­gutachter auf
+entsprechende Frage noch einmal explizit bestätigt, dass angesichts der beim
+Beschuldigten feststellbaren Persönlichkeitsmerkmale eine akute Rückfall­gefahr
+für schwere Gewalttaten bestehe; ein Rückfall sei wahrschein­licher als
+Rückfallfreiheit, sodass insofern die Voraussetzungen für eine Verwahrung
+nach Art. 64 Abs. 1 StGB gegeben seien.
+cc)
+Das Obergericht ist gestützt auf die
+vorliegenden Gutachten sowie in Über­einstimmung mit der Vorinstanz der
+Auffassung, dass beim Beschuldigten die ernst­hafte Gefahr für neuerliche
+schwere Gewalttaten besteht. Damit ist auf hinreichen­der gutachterlicher
+Grundlage (Art. 56 Abs. 3 StGB) erstellt, dass die Eingangs­voraussetzungen
+gemäss Art. 64 Abs. 1 lit. a StGB für die Anordnung einer
+Verwah­rung gegeben sind. An dieser Erkenntnis vermag der Umstand, dass der
+Zweitgut­achter eine Verwahrung nicht anempfiehlt, nichts zu ändern. Das bei
+einer Verwahrungsmassnahme zwingend vorgesehene Gutachten hat sich aus
+forensisch-psychiatrischer Perspektive zu den tatsächlichen Vorausset­zungen
+der Massnahme zu äussern, hier konkret zur Rückfallgefahr für einschlägige
+Straftaten (Art. 56 Abs. 3 StGB i.V.m. Art. 64 Abs. 1
+lit. a StGB; siehe dazu auch BSK-
+Heer
+,
+N 50 zu Art. 56 StGB). Dem Richter obliegt es in der Folge, die
+Erkennt­nisse des Gutachters in freier richterlicher Beweiswürdigung
+(Art. 10 Abs. 2 StPO) auszuwerten und gestützt darauf die
+massgeblichen Rechtsfragen zu beantworten (BSK-Heer, N 73 zu
+Art. 56 StGB; Urteil des Bundesgerichts 6S.511/2006 vom 9. Februar
+2007, E. 2.4.2). Demnach hat gerade auch im Zusammenhang mit einer
+Risikobe­urteilung das Gericht gestützt auf die gutachterlichen Erkenntnisse
+eine eigene Bewertung vorzunehmen (siehe dazu BSK-
+Heer
+, N 75 zu Art. 56 StGB). Vorliegend wird in
+beiden eingeholten Gutachten aus psychiatrischer Sicht struktu­riert und
+schlüssig aufgezeigt, dass beim Beschuldigten gleich mehrere risikorele­vante
+Per­sönlichkeitsmerkmale erkennbar sind, welche in ihrer Kombination eine
+eminente Gefahr für eine neuerliche schwerwiegende Delinquenz begründen. Bei
+dieser Sachlage aber drängt sich dem Gericht als normative Rechtsfolge eine
+Ver­wahrung im Sinne von Art. 64 Abs. 1 lit. a StGB geradezu
+auf. Dass der Zweitgut­achter die­sen Schritt nicht nahelegt, mag sich im
+Übrigen damit erklären, dass er eine therapeutische Massnahme einerseits und
+eine Verwahrung andererseits gleichsam als Entweder-oder diskutiert und sich
+dabei nach Abwägung aller Um­stände für die Anordnung einer
+vollzugsbegleitenden ambulanten therapeutischen Behandlung ausspricht.
+Wortlaut und Systematik der einschlägigen Gesetzesbestimmungen
+(Art. 56 ff. StGB) schliessen jedoch aus Sicht des Oberge­richts
+nicht aus, dass neben der Anordnung einer Verwahrung zugleich auch eine
+vollzugsbegleitende ambulante Behandlung des Beschuldigten nach Massgabe von
+Art. 63 Abs. 1 StGB vorgesehen werden kann (siehe dazu vor­stehend
+E. V.). Mit dieser therapeutischen Massnahme während des Vollzugs der
+Freiheitsstrafe lässt sich im Verlauf der Jahre unter Umständen immerhin die
+Aus­sicht des Beschuldig­ten auf eine hoffnungsvollere Legalprognose
+verbessern (siehe dazu Art. 64 Abs. 3 StGB).
+c)
+aa)
+Zufolge des akuten
+Rückfallrisikos ist vorliegend die Anordnung einer Ver­wahrung gegenüber dem
+Beschuldigten aus Gründen der öffentlichen Sicherheit angezeigt (siehe dazu
+Art. 56 Abs. 1 lit. a und b StGB). Auch wenn der Beschuldigte
+hier zu einer lebenslänglichen Freiheitsstrafe verurteilt wird, ist aufgrund
+seiner hochgradig deliktsgeneigten Persönlichkeitsstruktur ernsthaft zu
+befürchten, dass die Freiheitsstrafe allein ihn nicht von der Begehung
+weiterer schwerer Gewalttaten abhalten wird. Wohl soll dem Beschuldigten
+vollzugsbegleitend eine ambulante the­rapeutische Behandlung zuteilwerden.
+Wie aber auch der Zweitgutachter einräumt, sind beim Beschuldigten die
+„persönlichkeitsbedingten Hemmnisse“ derart ausge­prägt, dass es – aus
+heutiger Perspektive beurteilt – schwierig sein wird, risikosen­kende
+Therapieerfolge zu erzielen; die Hemmnisse überwiegen gegenüber den
+Erfolgschancen.
+bb)
+Es liesse sich an dieser Stelle
+einwenden, dass eine bedingte Entlassung aus einer lebenslangen
+Freiheitsstrafe grundsätzlich ab 15 Jahren Freiheitsentzug überhaupt nur
+möglich ist, sofern der Täter nicht mehr sozialgefährlich ist (Art. 86
+Abs. 1 und Abs. 5 StGB). Indes erscheinen nach Einschätzung des
+Gerichts die Anforderungen an eine bedingte Entlassung bei einer nur
+lebenslänglichen Frei­heitsstrafe zumindest in formaler Hinsicht geringer,
+als wenn die lebenslängliche Freiheitsstrafe mit einer Verwahrung nach
+Art. 64 Abs. 1 StGB verknüpft wird. In letzterem Fall nämlich geht
+der Vollzug der Freiheitsstrafe der Verwahrung voraus und sind die Bestimmungen
+über die bedingte Entlassung aus der Freiheitsstrafe nicht anwendbar
+(Art. 64 Abs. 2 StGB). Eine bedingte Entlassung und damit gleich­zeitig
+auch ein Aufschub der Verwahrung (dazu
+Trechsel/Pauen
+Borer
+, StGB PK, N 22 zu Art. 64 StGB) ist zwar gestützt auf
+Art. 64 Abs. 3 StGB bei nicht mehr vorhandener Gemeingefährlichkeit
+des Täters ebenfalls möglich. Doch ist für den entsprechen­den Entscheid das
+Gericht zuständig, welches die Verwah­rung angeord­net hat (Art. 64
+Abs. 3 Satz 2 StGB); das Gericht beschliesst dabei insbesondere
+gestützt auf ein Gutachten eines unabhängigen Sachverständigen sowie nach An­hörung
+einer interdisziplinären Fachkommission (Art. 64b Abs. 2
+lit. b und c StGB; siehe dazu auch BSK-
+Heer
+,
+N 22 zu Art. 62d StGB). Demgegenüber entscheidet über die bedingte
+Entlassung allein aus einer Freiheitsstrafe in der Regel „bloss“ eine
+Vollzugsbehörde (Art. 86 Abs. 1 StGB; dazu BSK-
+Koller
+, N 21 zu Art. 86
+StGB); im Kanton Glarus fällt diese Kompetenz der Abteilung Verwal­tungspolizei
+zu (Art. 3 Abs. 1 lit. a
+der Verordnung über den Vollzug in den Berei­chen
+Strafprozess, Straf- und Massnahmenvollzug und Opferhilfe [GS III F/7]).
+Gesetzlich ist zudem auch nicht vorgesehen, dass die zuständige
+Vollzugsbehörde im Hinblick auf den Entlassungsentscheid ein Gutachten
+und/oder die Stellung­nahme einer Fachkom­mission einzuholen hat. Ganz a
+bgesehen davon wird im Übrigen in der Lehre auch die Ansicht
+geäussert, dass die Anforderungen an eine günstige Legalprognose bei einer
+bedingten Entlassung aus einer Freiheitsstrafe und Verwahrung gemäss
+Art. 64 Abs. 3 StGB strenger sind als in Art. 86 Abs. 1
+StGB bei einer bedingten Entlassung nur aus einer Freiheitsstrafe. Verlangt
+wird bei einer Entlassung aus Freiheitsstrafe und Verwahrung eine „hohe
+Wahrscheinlichkeit der Bewährung“ (
+Trechsel/Pauen
+Borer
+, StGB PK, N 23 zu Art. 64 StGB).
+2.3.—
+Aus all dem ergibt sich, dass
+gegenüber dem Beschuldigten A.______ eine Verwahrung im Sinne von
+Art. 64 Abs. 1 lit. a StGB anzuordnen ist. Ergän­zend kann zur
+Begründung der Notwendigkeit einer Verwahrung auch auf die über­zeugenden
+Ausführungen der Vorinstanz im angefochtenen Entscheid verwiesen werden.
+Damit ist die Berufung des Beschuldigten in die­sem Punkt ebenfalls
+abzuweisen.
+VII.
+Beurteilung der noch strittigen Zivilforderungen
+1.—
+Schadenersatzforderung von B.______
+a)
+Die Vorinstanz hat im angefochtenen
+Entscheid vorgemerkt, dass der Be­schuldigte A.______ gegenüber dem
+Privatkläger B.______ eine Schaden­ersatzforderung in der Höhe von
+Fr. 7‘625.‑ nebst Zins zu 5 % seit 1. Mai 2006 an­erkannt
+habe. Die Vorinstanz führte hierzu aus, der Beschuldigte habe die genannte
+Forderung in der Untersuchung anlässlich der Schlusseinvernahme anerkannt.
+Dessen nachträgliche Bestreitung der Schadener­satzforderung an der
+erstinstanzlichen Hauptverhandlung sei vor diesem Hinter­grund irrelevant.
+b)
+Der Beschuldigte ficht in seiner Berufung
+die erfolgte Vormerknahme der Schuldanerkennung an und beantragt, es sei der
+Geschädigte mit seiner Forderung auf den Zivilweg zu verweisen. Er macht
+geltend, diese Forderung sei nicht belegt, was er bereits vor Vor­instanz
+vorgetragen habe. Insoweit er die Forderung in der Schlusseinvernahme vor
+Verhöramt anerkannt habe, könne darauf nicht abgestellt werden, sei ihm
+damals doch die Tragweite seiner Anerkennungserklärung nicht bewusst gewesen,
+zumal ihm damals auch nicht erklärt worden sei, wie sich die Forderung
+zusammensetze.
+c)
+Die Berufung des Beschuldigten ist in
+diesem Punkt aus den nachfolgenden Überlegungen abzuweisen:
+aa)
+Der Beschuldigte hat anlässlich der
+Einvernahme vor Verhöramt am 7. August 2009 auf die Frage, ob er die
+Schadenersatzforderung von „B.______, de[m] Lebenspartner des von Ihnen
+getöteten Opfer 3“ im Betrag von „Fr. 7‘625.50, zuzüglich 5 % Zins
+seit dem 01.05.2006“ sowie dessen Genugtu­ungsforderung von Fr. 28‘000.‑
+anerkenne, geantwortet: „Ich anerkenne diese For­derungen“.
+bb)
+Die geschädigte Person kann
+zivilrechtliche Ansprüche aus der Straftat als Privatklägerschaft
+adhäsionsweise im Strafverfahren geltend machen (Art. 122 Abs. 1
+StPO). Im Adhäsionsprozess gilt gleich wie im separaten Zivilprozess die
+Dispositionsmaxime. Damit ist es dem Zivilkläger überlassen, ob und in
+welchem Umfang er einen Anspruch geltend macht; die beschuldigte Person
+wiederum ist frei, diesen zu bestreiten oder anzuerkennen (Art. 124
+Abs. 3 StPO und Art. 358 Abs. 1 StPO). Aus der Freiheit der
+Parteien resultiert eine Bindung des Gerichts: Es darf nicht mehr zusprechen,
+als der Kläger verlangt, aber auch nicht weniger, als der Beschuldigte anerkannt
+hat (analog Art. 58 Abs. 1 ZPO) (siehe zum Ganzen:
+Droese
+, Zivilklage nach
+Strafprozessordnung, in: HAVE, Haftpflichtprozess 2011, S. 57).
+cc)
+Der Beschuldigte machte seine Aussage
+vor dem Verhörrichter in Anwesen­heit seines Verteidigers sowie der
+Dolmetscherin. Anhand der Fragestellung konnte er die ihm entgegengehaltene
+Ersatzforderung ohne weiteres zuordnen und in ihrer Bedeutung erfassen. Er
+hat die Forderung dabei vorbehaltlos anerkannt und hat seine entsprechende
+Erklärung unterschriftlich bekräftigt. Die Anerkennung einer Zivilforderung
+ist jederzeit möglich, so auch bereits im Untersuchungsstadium (siehe dazu
+BSK-
+Dolge
+, N 7 zu
+Art. 124 StPO). Vorliegend ist nicht ersichtlich und wird auch in der
+Berufung nicht dargetan, inwiefern der Beschuldigte bei seiner Anerken­nungserklärung
+vor Verhöramt einem Irrtum im Sinne von Art. 23 ff. OR unterlegen
+wäre. Die von ihm damals geäusserte und entsprechend zu Protokoll genommene
+Schuldanerkennung ist damit verbindlich. Im Übrigen ist es durchaus sinnvoll,
+bereits im Untersuchungsstadium zu klären, inwieweit Zivilansprüche im
+Hinblick auf das Hauptverfahren tatsächlich noch strittig sind. Es liegt
+dabei in der Natur der Sache, dass in diesem Verfahrensstadium der
+Geschädigte seine Forderung häufig noch nicht detailliert belegt hat. Dazu
+ist er nämlich spätestens an der erstinstanzli­chen Hauptverhandlung
+verpflichtet (Art. 123 Abs. 2 StPO). Wenn daher der Be­schuldigte
+die Forderung gleichwohl anerkennt, bringt er damit letztlich vorbehaltlos
+zum Ausdruck, dass er diese der Höhe nach als plausibel erachtet und nicht
+auf einer umfassenden Substanziierung derselben beharrt. Es widerspricht
+daher Treu und Glauben, hinterher die Anerkennung unter Hinweis auf eine
+angeblich nicht ausreichend nachgewiesene Forderungssumme zu widerrufen. In
+diesem Zusam­menhang ist nämlich wesentlich, dass der Geschädigte, nachdem
+der Beschuldigte die Forderung in der Untersuchung anerkannt hat, überhaupt
+keine Veranlassung mehr hat, seine Forderung an der erstinstanzlichen Hauptverhandlung
+noch einge­hend zu substanziieren und Beweise aufzulegen. Könnte nun der
+Täter die frühere Anerkennung an der Hauptverhandlung ohne weiteres
+widerrufen, liefe der Geschä­digte daher Gefahr, dass seine Forderung mangels
+Substanziierung auf den Zivil­weg verwiesen oder – für ihn noch gravierender ‑
+mangels Beweis gar materiell ab­gewiesen würde (siehe dazu BSK-
+Dolge
+, N 13 zu Art. 123
+StPO).
+2.—
+Genugtuungsforderung von B.______
+a)
+Die Vorinstanz hat dem Privatkläger
+B.______ zu Lasten des Beschuldigten eine Genugtuung im Betrag von
+Fr. 28‘000.‑ nebst Zins zu 5 % seit 28. Juli 2005
+zuerkannt, dies zusätzlich zu der von der staatlichen Opferhilfe
+ausgerichteten Genugtuung in der Höhe von Fr. 12‘000.‑. Zur
+Begründung ihres Entscheids verwies die Vorinstanz auch hier auf die in der
+Untersuchung erfolgte Anerkennung der geltend gemachten Genugtuungsforderung
+durch den Beschuldigten.
+b)
+Der Beschuldigte beantragt in seiner
+Berufung, es sei B.______ eine Genugtuung von Fr. 20‘000.‑
+zuzusprechen, wovon Fr. 8‘000.‑ vom Beschuldigten direkt an den
+Geschädigten zu bezahlen seien. Zur Begründung seines Antrags trägt er vor,
+dass er einen Genugtuungsanspruch von B.______ von insgesamt Fr. 20‘000.‑
+anerkannt habe; nachdem B.______ bereits Fr. 12‘000.‑ von der
+Opferhilfe erhalten habe, schulde er folglich dem Geschädigten noch
+Fr. 8‘000.‑.
+c)
+Die Berufung des Beschuldigten erweist
+sich auch in diesem Punkt als unbe­gründet und ist daher abzuweisen.
+aa)
+Zunächst ist festzuhalten, dass der
+Beschuldigte in der Untersuchung ebenso die von B.______ ihm gegenüber
+geltend gemachte Genugtuungsforderung im Umfang von Fr. 28‘000.‑
+anerkannt hat. Die Rechtsverbindlichkeit dieser Anerkennung wurde bereits
+zuvor im Zusammenhang mit der Schadenersatzforderung von B.______ erörtert;
+es kann darauf verwiesen werden (E. VII. 1. Bst. c).
+bb)
+Der Beschuldigte vertritt in seiner
+Berufung den Standpunkt, B.______ habe Anspruch auf eine Genugtuung in der
+Höhe von Fr. 20‘000.‑. Nachdem B.______ bereits von der
+staatlichen Opferhilfe Fr. 12‘000.‑ als Genugtuung erhalten habe,
+schulde er [der Beschuldigte] dem Geschädigten noch Fr. 8‘000.‑.
+aaa)
+Leistet der Staat gegenüber dem
+Geschädigten Opferhilfe, gehen im ent­sprechenden Umfang die Ansprüche des
+Opfers gegenüber dem Straftäter auf den Staat über (Art. 14 Abs. 2
+aOHG in der bis Ende 2008 geltenden Fassung; heute Art. 7 Abs. 1
+OHG). Indem vorliegend B.______ von der staatlichen Opferhilfe eine
+Genugtuung im Betrag von Fr. 12‘000.‑ ausbezahlt erhalten hat und
+ihm nun von der Vorinstanz zusätzlich Fr. 28‘000.‑ an Genugtu­ung
+zuerkannt worden sind, wird ihm unter dem Titel Genugtuung im Ergebnis ein
+Anspruch von Fr. 40‘000.‑ zugestanden.
+bbb)
+B.______ war der Lebenspartner des vom
+Beschuldigten ermordeten Opfer 3 und wohnte mit ihm im gleichen Haushalt
+zusammen. Vor diesem Hintergrund sowie angesichts der Brutalität und
+Sinnlosigkeit der vom Beschuldigten verübten Mordtat erscheint mit Blick auf
+die in Lehre und Rechtsprechung vertretenen Berechnungsansätze (siehe dazu ZK-
+Landolt
+, N 439 ff. zu
+Art. 47 OR) eine Genugtuung im Betrag von Fr. 40‘000.‑ als
+gerechtfertigt.
+ccc)
+Bei dieser Sachlage ist daher die von
+B.______ eingeklagte Genugtu­ungsforderung unbekümmert um deren Anerkennung
+durch den Beschuldigten in der Untersuchung materiell ausgewiesen.
+Infolgedessen ist der Beschuldigte von der Vorinstanz zu Recht dazu
+verurteilt worden, dem Privatkläger B.______ Fr. 28‘000.‑
+Genugtuung zu bezahlen.
+3.—
+Schadenersatzforderung von C.______
+a)
+Die Vorinstanz hat im angefochtenen
+Entscheid vorgemerkt, dass der Be­schuldigte die Schadenersatzforderung von
+C.______ im Betrag von Fr. 100‘000.‑ anerkannt habe.
+b)
+Der Beschuldigte verlangt in seiner
+Berufung die Aufhebung der betreffenden Urteilsziffer; die Schadenersatzklage
+von C.______ sei auf den Zivilweg zu verwei­sen. Zur Begründung führt er an,
+C.______ habe bereits von der Versicherung eine Entschädigung von rund
+Fr. 300‘000.‑ erhalten; die von ihm nun zusätzlich „als
+ungedeckter Schaden“ gel­tend gemachte Forderung von Fr. 100‘000.‑
+sei nicht liquid.
+c)
+Der Beschuldigte hat in der Untersuchung
+anlässlich der Einvernahme vor Verhöramt am 7. August 2009 eine
+Schadenersatzforderung von C.______ im Betrag von Fr. 100‘000.‑
+ausdrücklich und vorbehaltlos anerkannt. Diese Forde­rungsanerkennung
+erfolgte dabei in Kenntnis des Umstandes, dass im Zusammen­hang mit dem
+Raubüberfall in Zürich bereits die Versicherung eine Entschädigung von rund
+Fr. 300‘000.‑ an C.______ ausbezahlt hat. Die Schuldanerkennung
+des Beschul­digten ist rechtsgültig erfolgt, zumal er hierbei keinen
+Willensmangel im Sinne von Art. 23 ff. OR geltend macht. Im Übrigen
+kann zur Rechtsverbindlichkeit der Schuld­anerkennung vollumfänglich auf die
+vorstehenden Ausführungen im Zusammen­hang mit der Schadenersatzforderung von
+B.______ verwiesen werden.
+d)
+Demnach hat die Vorinstanz zu Recht von
+der Schuldanerkennung des Be­schuldigten hinsichtlich der
+Schadenersatzforderung von C.______ im Betrag von Fr. 100‘000.‑
+Vormerk genommen. Dies führt auch in diesem Punkt zur Abweisung der Berufung
+des Beschuldigten.
+4.—
+Genugtuungsforderung von D.______
+a)
+Die Vorinstanz hat den Beschuldigten
+verpflichtet, der Privatklägerin D.______ als Genugtuung Fr. 40‘000.‑
+nebst Zins zu 5 % seit 22. Februar 2007 zu bezahlen. D.______
+beantragt in ihrer Berufung die Erhöhung dieses Betrags auf Fr. 60‘000.‑.
+b)
+aa)
+Der Beschuldigte hat beim
+Raubüberfall am 22. Februar 2007 auf die Bijouterie in Zürich den
+Ehemann von D.______ ermordet. Beim Verlust des Ehegatten als Folge einer
+unerlaubten Handlung spricht sich die Lehre unter Berücksichtigung der
+bisherigen Rechtspre­chung überwiegend für eine Basisgenugtuung in der Höhe
+von Fr. 40‘000.‑ aus; die­ser „Einstiegsbetrag“ ist dann in einem
+zweiten Schritt nach Massgabe der spezifi­schen Umstände des konkreten
+Einzelfalls entweder herabzusetzen oder zu erhö­hen (siehe zum Ganzen ZK-
+Landolt
+, N 436‑455 zu
+Art. 47 OR).
+bb)
+D.______ hat durch den Verlust ihres
+damals 48-jährigen Ehe­mannes, mit dem sie nach glaubhafter Schilderung ihres
+Rechtsvertreters eine langjährige und harmonische Ehe mit zwei gemeinsamen
+Kindern in vereintem Haushalt geführt hat, unermessli­ches Leid erfahren. Es
+ist daher die durch den Tod des Ehemannes und Familien­vaters erlittene
+objektive immaterielle Unbill (siehe dazu ZK-
+Landolt
+,
+N 456 zu Art. 47 OR) als sehr massiv zu werten. Genugtuungserhöhend
+ist sodann zu be­rücksichtigen, dass das Verschulden des Beschuldigten am
+verübten Verbre­chen sehr schwer wiegt; seine Tat war absolut sinnlos, brutal
+und skrupellos. Be­lastend war für D.______ ferner auch die anhaltende
+Ungewissheit über den Ausgang des vorliegenden Strafverfahrens, nachdem der
+Beschuldigte seine eigentliche Täterschaft an der Ermordung ihres Ehemannes
+abgestritten bzw. diese Tat als ungewollte Folge des Überfalls darzustellen
+versuchte.
+c)
+In Würdigung der dargelegten Umstände
+erscheint vorliegend eine Genugtu­ung in der von D.______ beantragten Höhe
+von Fr. 60‘000.‑ als gerecht­fertigt. In diesem Sinne ist die
+Berufung von D.______ gutzuheissen und der Beschuldigte zur Bezahlung des
+genannten Betrages zu verpflichten, verzinslich zu 5 % ab Tatzeitpunkt
+am 22. Februar 2007.
+5.—
+Genugtuungsforderung von E.______ und
+F.______
+a)
+E.______ und F.______ sind die Söhne des
+vom Beschuldigten umgebrachten Opfer 4. Sie waren zur Tatzeit knapp 19- bzw.
+21-jährig und lebten noch zu Hause bei den Eltern. Erstinstanzlich ist ihnen
+eine Genugtuung von je Fr. 15‘000.‑, zuzüglich 5 % Zins seit
+22. Februar 2007, zuerkannt worden. Sie beantra­gen berufungsweise eine
+Erhöhung der Genugtuung auf je Fr. 35‘000.‑.
+b)
+Bei der Bezifferung der Basisgenugtuung
+beim Verlust eines Elternteils be­wegt sich die Doktrin in einer Spannbreite
+von Fr. 20‘000.‑ bis Fr. 40‘000.‑ (siehe dazu ZK-
+Landolt
+, N 439 ff. zu Art. 47
+OR). Vorliegend ist der von E.______ und F.______
+durch das Verbrechen
+an ihrem Vater erlittene seelische Schmerz ebenfalls als sehr gross zu
+bezeichnen, zumal die beiden Söhne, obwohl zur Tatzeit bereits volljährig,
+nach wie vor im elterlichen Haushalt lebten, was darauf schliessen lässt,
+dass ihre Beziehung zum Vater noch sehr eng war. Im Übrigen fallen bei
+E.______ und F.______ dieselben genugtuungserhöhenden Faktoren ins Gewicht,
+wie sie bereits zuvor bei der Bemessung der Genugtuung für D.______ erörtert
+worden sind.
+c)
+Unter Berücksichtigung aller
+massgeblichen Umstände erscheint eine Genug­tuung von je Fr. 35‘000.‑
+für E.______ und F.______, wie von ihnen geltend gemacht, als angemessen.
+Deren Berufung ist damit ebenfalls gutzuheis­sen. Die vom Beschuldigten an
+E.______ und F.______ geschuldeten Genugtuungsbeträge sind ab Datum des
+Verbrechens am 22. Februar 2007 mit 5 % zu verzinsen.
+VIII.
+Zusammenfassung und Kostenregelung
+1.—
+Als Ergebnis ist festzuhalten, dass die Berufung des Beschuldigten
+A.______ nur in einem Nebenpunkt
+gutzuheissen ist, indem zusätzlich eine vollzugs­begleitende ambulante
+Massnahme angeordnet wird. Mit allen übrigen Anträgen zur rechtlichen
+Würdigung der Straftaten, zur Strafzumessung, zur Verwahrung sowie zu den
+Zivilforderungen ist der Beschuldigte indes nicht durchgedrungen. Demge­genüber
+haben die Privatkläger D.______, E.______ und F.______
+mit ihrer Berufung Erfolg, indem ihnen im beantragten Umfang eine finanziell
+höhere Genug­tuung zuerkannt wird.
+In forma­ler
+Hinsicht fällt das Obergericht ein neues Urteil, welches das erstinstanz­liche
+Urteil ersetzt (Art. 408 StPO).
+2.—
+a)
+Die Verfahrenskosten sind auf der Grundlage von Art. 6 bis 8 der
+Zivil- und Strafprozesskostenverordnung (GS III A/5) zu bemessen. Beim
+vorliegenden Prozessausgang sind die auf Fr. 45‘000.‑
+anzusetzenden Kosten des aufwändigen Berufungsverfahrens (inklusive Kosten
+der zweiten psychiatrischen Begutachtung im Betrag von rund Fr. 28‘000.‑,
+jedoch ohne Dolmetscherkosten [siehe dazu Art. 426 Abs. 3
+lit. b StPO]) dem Beschuldigten aufzuerlegen (Art. 428 Abs. 1
+und Abs. 2 lit. b StPO). Der Beschuldigte hat überdies der
+Gerichtskasse die Kosten der amtlichen Verteidigung für das
+Berufungsverfahren von Fr. 21‘459.‑ zurückzuerstatten, sofern er
+später einmal in günstige wirtschaftliche Verhältnisse kommt (Art. 135
+Abs. 4 lit. a StPO).
+b)
+Zusätzlich
+ist über die von der Vorinstanz getroffene Kostenregelung zu befinden
+(Art. 428 Abs. 3 StPO). Erstinstanzlich sind dem Beschuldigten
+Verfah­renskosten von insgesamt Fr. 64‘618.35 überbunden worden; die aus
+der Gerichtskasse finanzierten Kosten für die amtliche Verteidigung beliefen
+sich sodann auf Fr. 31‘111.‑ und sind vom Beschuldigten
+gegebenenfalls zurückzubezahlen (Art. 135 Abs. 4 lit. a StPO).
+c)
+Die Verteidigung hat anlässlich der Berufungsverhandlung den Antrag gestellt,
+es seien dem Beschuldigten gestützt auf Art. 425 StPO die
+Verfahrenskosten insgesamt zu erlassen. Gemäss Art. 425 StPO können
+Forderungen aus Verfahrenskosten gestundet oder unter Berücksichtigung der
+wirtschaftlichen Verhältnisse der kostenpflichtigen Person herabgesetzt oder
+erlassen werden. Stundung und Erlass setzen begrifflich voraus, dass zu­nächst
+eine Kostenauflage erfolgte. Indes scheint die Bestimmung von Art. 425
+StPO auch dahingehend verstanden zu werden, dass bereits die Strafbehörde bei
+der Auflage der Verfah­renskosten und der Festsetzung der Gebühren auf die
+wirt­schaftliche Lage der kostenpflichtigen Person Rücksicht zu nehmen hat (
+Schmid
+, StPO Praxiskom­mentar,
+2. Aufl., Zürich/St. Gallen 2013, N 2‑4 zu
+Art. 425). Dieser Auslegung schliesst sich das Obergericht nicht an.
+Eingedenk der Tatsache, dass die hiesigen Gerichtsgebühren im schweizerischen
+Vergleich eher im unteren Rahmen liegen und überdies die Gerichtskasse beim
+Kostenbezug den Betroffenen jeweils gross­zügig Ratenzahlungen gewährt, wäre
+es in der Perspektive der Gemeinschaft der Steuerzahler schlechterdings
+unverständlich, würde bereits der Strafrichter auf vollständige
+Kostenbefreiung erkennen.
+3.—
+a)
+Die Privatkläger
+D.______,
+E.______ und F.______ haben gegenüber dem Beschuldigten Anspruch auf eine
+Parteientschädigung für das Beru­fungsverfahren, da sie mit ihren Anträgen
+auf Zusprechung höherer Genugtuungs­beträge durchgedrungen sind (Art. 433
+Abs. 1 lit. a StPO). Der Rechtsvertreter hat für die ihm im
+Berufungsverfahren entstandenen Aufwendungen eine Honorarnote über
+Fr. 11‘953.70 (inklusive Mehrwertsteuer) eingereicht. Die Kostennote
+erscheint als plausibel und gerechtfertigt, weshalb der Beschuldigte den
+Privatklä­gern die Anwaltskosten zu erstatten hat. Für das vorinstanzliche
+Verfahren wurde der Beschuldigte zu einer Parteientschädigung an die
+Privatkläger im Betrag von Fr. 28‘026.55 verpflichtet; diese Anordnung
+ist unangefochten in Rechtskraft erwachsen, was im nachfolgenden Dispositiv
+ent­sprechend vorzumerken ist.
+b)
+Der Beschuldigte hat ferner auch dem Privatkläger
+B.______ für das Beru­fungsverfahren eine Parteientschädigung zu entrichten
+(Art. 433 Abs. 1 lit. a StPO). Dessen Rechtsvertreter hat die
+Kosten für seine Bemühungen auf den als ange­messen zu bezeichnenden
+Gesamtbetrag von Fr. 2‘693.50 beziffert; die geschuldete
+Parteientschädigung ist daher in entsprechender Höhe festzulegen. Dem
+Privatkläger B.______ wurde für das Berufungsverfahren die unentgeltliche
+Rechtspflege gewährt, sodass sein Rechtsvertreter für seine Aufwendungen aus
+der Gerichtskasse bezahlt worden ist. Daraus folgt, dass der Anspruch von
+B.______ auf Parteientschädigung auf die Gerichtskasse übergegangen ist
+(Art. 138 Abs. 2 StPO).
+c)
+Der Privatkläger C.______ war im Berufungsverfahren wie
+auch schon im erstinstanzlichen Verfahren nicht anwaltlich vertreten. Zudem
+hat er in beiden Instanzen nicht am Prozess teilgenommen. Es sind ihm daher
+keine Aufwendungen erwachsen, weshalb ihm auch keine Parteientschädigung
+zuzusprechen ist.
+_____________________________
+Das
+Obergericht erkennt:
+1
+.         Es wird
+vorgemerkt
+, dass die folgenden
+Punkte des Urteils der Strafkammer des Kantonsgerichts Glarus vom 14. März
+2012 in Rechtskraft erwachsen sind:
+„1.        A.______ ist schuldig
+….;
+….;
+des mehrfachen
+einfachen Raubes im Sinne vom Art. 140 Ziff. 1 Abs. 1 StGB
+[Raubüberfall am 8. Juli 2005 auf die Bijouterie von Opfer 3 in Glarus; Raubüberfall
+am 14. Februar 2006 auf das Uhren-Atelier von C.______ Raubüberfall am
+22
+. Februar 2007 auf die Bijouterie in
+Zürich];
+des Diebstahls
+im Sinne von Art. 139 Ziff. 1 StGB [begangen am 13. Juni 2005 in der
+„Uhren-Bijouterie“ von Opfer 1 in Zürich].
+2.   A.______ wird freigesprochen vom Vorwurf
+des Hausfriedensbruchs im
+Sinne von Art. 186 StGB.
+[…]
+5.         Die beiden sichergestellten
+Silberbarren zu je einem Kilogramm werden an
+[…] herausgegeben.
+6.         Die
+bei A.______ sichergestellten Gegenstände, ausgenommen die unter
+Ziffer 5 vorstehend erwähnten Silberbarren, werden eingezogen und der
+Kantonspolizei Glarus zur gut scheinenden Verwendung überlassen.
+7.           Es
+wird vorgemerkt, dass A.______ die Genugtuungsforderung von               Zivilklägerin
+1 im Betrage von Fr. 300.‑ anerkannt hat.
+8.           Auf die Anträge 2 und 3 der
+Zivilklägerin 1 [Schadenersatzbegehren über
+insgesamt Fr. 20‘062.90] wird nicht eingetreten.
+9.           Es
+wird vorgemerkt, dass A.______ die Schadenersatzforderung von    Opfer 2 [beantragt:
+Fr. 139‘818.‑] im Grundsatz anerkannt hat.       Betragsmässig
+wird Opfer 2 mit seiner Schadenersatzforderung auf den
+Zivilweg verwiesen.
+10.         A.______
+wird verpflichtet, Opfer 2 eine Genugtuung von Fr. 15'000.‑
+nebst Zins zu 5 % seit 5. Juli 2005 zu bezahlen.
+Es
+wird vorgemerkt, dass A.______ die Genugtuungsforderung von      Opfer 2 im
+Umfang von Fr. 5'000.‑ anerkannt hat.
+11.         Im
+Übrigen wird die Genugtuungsforderung von Opfer 2 abgewiesen               [beantragt:
+Fr. 30‘000.‑].
+12.         Es
+wird vorgemerkt, dass A.______ die Schadenersatzforderung der
+[……..]
+Gesundheitsorganisation im Betrage von Fr. 16'107.20
+anerkannt hat
+[…]
+16.         Es
+wird vorgemerkt, dass A.______ die Schadenersatzforderung der    [...…]
+Versicherungs-Gesellschaft AG im Betrage von Fr. 300'711.‑
+anerkannt hat.
+[…]
+23.         A.______
+wird verpflichtet, D.______, E.______ und F.______
+Schadenersatz
+im Betrage von Fr. 6'944.‑ nebst Zins zu 5 % seit
+13.
+März 2008 zu bezahlen.
+Es
+wird vorgemerkt, dass A.______ die Schadenersatzforderung von
+D.______,
+E.______ und F.______            im Umfang von Fr. 6'944.‑
+anerkannt
+hat.
+[…]
+26.         A.______
+wird verpflichtet, D.______, E.______ und F.______ eine
+Parteientschädigung
+in der Höhe von gesamthaft Fr. 28'026.55
+(inklusive
+Auslagen und Mehrwertsteuer) zu bezahlen.
+27.         A.______
+wird verpflichtet, Opfer 2 eine Parteientschädigung von
+Fr. 1'391.25
+(inklusive Auslagen und Mehrwertsteuer) zu bezahlen.
+28.         Auf
+den Antrag von B.______ auf Zusprechung einer Parteientschädigung
+wird
+nicht eingetreten.“
+2
+.         A.______ ist schuldig der folgenden Straftatbestände, wobei
+nachstehend die bereits in Rechtskraft erwachsenen Schuldpunkte gemäss vor­instanzlichem
+Urteil ebenfalls miteinbezogen sind:
+- des mehrfachen Mordes im Sinne von
+Art. 112 StGB [Raubmord an Opfer 3 am 8. Juli 2005 sowie Raubmord an
+Opfer 4 am 22. Februar 2007];
+- des qualifizierten Raubes im Sinne von
+Art. 140 Ziff. 1 Abs. 1 und Ziff. 4 StGB [Raubüberfall
+auf die Bijouterie von Opfer 2 am 5. Juli 2005];
+- des mehrfachen Raubes im Sinne von
+Art. 140 Ziff. 1 Abs. 1 StGB [Raubüber­fall auf die Bijouterie von Opfer
+3 am 8. Juli 2005; Raubüberfall auf das „Uhren-Atelier“ von C.______ am
+14. Februar 2006; Raubüberfall auf die Bijouterie in Zürich am
+22. Februar 2007];
+- des Diebstahls im Sinne von Art. 139
+Ziff. 1 StGB [verübt am 13. Juni 2005 in der „Opfer 1
+Uhren-Bijouterie“].
+3.
+A.______ wird zu einer lebenslänglichen Freiheitsstrafe
+verurteilt. Die vom 1. März 2007 bis 7. August 2009 ausgestandene
+Untersuchungshaft wird auf die Strafe angerechnet.
+Es wird vorgemerkt, dass
+A.______ sich seit dem 7. August 2009 im vorzeiti­gen Strafvollzug
+befindet, wo er weiterhin zu belassen ist.
+4.
+Es wird im Sinne der Erwägungen eine ambulante therapeutische
+Massnahme gemäss Art. 63 Abs. 1 StGB während des Strafvollzuges
+angeordnet.
+5.
+Gegenüber dem Beschuldigten A.______ wird eine Verwahrung im
+Sinne von Art. 64 Abs. 1 lit. a StGB angeordnet.
+6.
+Es wird vorgemerkt, dass A.______ die Schadenersatzforderung
+von B.______ im Betrage von Fr. 7‘625.‑ nebst Zins zu 5 %
+seit 1. Mai 2006 anerkannt hat.
+7.
+A.______ wird verpflichtet, B.______ zusätzlich zu
+der vom Departe­ment Volkswirtschaft und Inneres des Kantons Glarus mit
+Entscheid vom 5. Oktober 2007 zugesprochenen Genugtuung nach
+Opferhilfegesetz eine Ge­nugtuung im Betrage von Fr. 28'000.‑ nebst
+Zins zu 5 % seit 28. Juli 2005 zu bezahlen.
+8.
+Es wird vorgemerkt, dass A.______ die
+Schadenersatzforderung von C.______ im Betrage von Fr. 100'000.‑
+anerkannt hat.
+9.
+A.______ wird verpflichtet, D.______ eine Genugtuung
+im Betrag von Fr. 60'000.‑ nebst Zins zu 5 % seit 22. Februar 2007
+zu bezahlen.
+10.
+A.______ wird verpflichtet, E.______ eine Genugtuung im
+Betrag von Fr. 35'000.‑ nebst Zins zu 5 % seit 22. Februar 2007 zu
+bezahlen.
+11.
+A.______ wird verpflichtet, F.______ eine Genugtuung im
+Betrag von Fr. 35'000.‑ nebst Zins zu 5 % seit 22. Februar 2007 zu
+bezahlen.
+12.
+Die Verfahrenskosten für das Berufungsverfahren im Betrag von
+Fr. 45‘000.‑ wer­den zusammen mit den Kosten der Untersuchung und
+des vorinstanzlichen Verfahrens von insgesamt Fr. 64‘618.35 dem
+Beschuldigten
+A.______
+auferlegt und von ihm bezogen.
+13.
+Die Kosten der amtlichen Verteidigung für das gesamte
+Strafverfahren hat der Beschuldigte im Umfang von Fr. 52‘570.‑
+[Fr.
+31‘111.‑ für Untersuchung und erste Instanz;
+Fr. 21‘459.‑ für zweite Instanz] der Gerichtskasse zurückzube­zahlen,
+wenn es seine wirtschaftlichen Verhältnisse erlauben.
+14.
+Der Beschuldigte wird verpflichtet, den Privatklägern D.______,
+E.______ und F.______
+für das Berufungsverfahren eine
+Parteientschädigung im Betrag von
+Fr. 11‘953.70
+(inklusive Mehrwertsteuer) zu bezahlen.
+15.
+Der Beschuldigte wird verpflichtet, die gegenüber dem
+Privatkläger B.______ für das Berufungsverfahren fällig gewordene
+Parteientschädigung im Betrag von Fr. 2‘693.50 (inklusive
+Mehrwertsteuer) an die Gerichtskasse zu bezahlen.
+16.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
