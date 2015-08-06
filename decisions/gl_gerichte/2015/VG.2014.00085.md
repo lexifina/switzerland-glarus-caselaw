@@ -1,0 +1,1008 @@
+---
+decision_id: "gl_gerichte_VG.2014.00085"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2014.00085"
+docket_2: "VG.2015.255"
+decided: "2015-08-06"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=489&W10_KEY=218274&nTrefferzeile=3&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/451/art-005.md", "switzerland/bund/acts/451/art-006.md", "switzerland/bund/acts/700/art-019.md"]
+---
+
+# GL Gerichte VG.2014.00085
+
+## Regeste
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+## Text
+
+Glarus Verwaltungsgericht 06.08.2015 VG.2014.00085 (VG.2015.255)
+Glaris Verwaltungsgericht 06.08.2015 VG.2014.00085 (VG.2015.255)
+Glarona Verwaltungsgericht 06.08.2015 VG.2014.00085 (VG.2015.255)
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+6. August 2015
+I. Kammer
+in Sachen
+VG.2014.00085
+1.1
+A.______
+Beschwerdeführer
+1.2
+B.______
+2.
+C.______
+alle vertreten durch Rechtsanwalt, D.______
+gegen
+1.1
+E.______
+Beschwerdegegner
+1.2
+F.______
+beide vertreten durch
+Rechtsanwalt, G.______
+2.
+Gemeinde Glarus Nord
+vertreten durch
+Rechtsanwalt, H.______
+3.
+Departement Bau und
+Umwelt des Kantons Glarus
+betreffend
+Baubewilligung
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+A.______ und B.______ sind Eigentümer der am […] in Näfels in der Dorfkernzone
+gelegenen Parz.-Nr. […], Grundbuch Näfels. Am 23. November 2012 reichten sie
+bei der Gemeinde Glarus Nord ein Gesuch für den Neubau von vier Mehrfamilienhäusern
+auf der vorgenannten Parzelle ein. Das Gesuch wurde im Amtsblatt vom […] publiziert.
+1.2
+Gegen das Bauvorhaben erhoben unter anderem A.______ und B.______ sowie
+C.______ am 3. Januar 2013 Einsprache. Die Gemeinde Glarus Nord wies die Einsprache
+am 20. März 2013 ab und erteilte E.______ und F.______ die Baubewilligung
+unter verschiedenen Auflagen und Bedingungen.
+1.3
+Die am 29. April 2013 dagegen erhobene Beschwerde
+wies das Departement Bau und Umwelt (DBU) am 11. August 2014 ab (Disp.-Ziff.
+1) und ergänzte die Formulierung in Ziff. 1 der Verfügung der Gemeinde Glarus
+Nord vom 20. März 2013 mit verkehrspolizeilichen Auflagen (Disp.-Ziff.
+2). Ferner auferlegte es der Gemeinde Glarus Nord einen Teil der amtlichen
+Kosten, schrieb den restlichen Betrag zu Lasten der Staatskasse ab und
+erstattete A.______ und B.______ sowie C.______ den geleisteten
+Kostenvorschuss zurück (Disp.-Ziffn. 3-6). Schliesslich sprach es A.______
+und B.______, C.______ sowie E.______ und F.______ eine reduzierte
+Parteientschädigung zu Lasten der Gemeinde Glarus Nord zu (Disp.-Ziffn. 8
+f.).
+2.
+2.1
+In der Folge gelangten A.______
+und B.______
+sowie C.______
+mit Beschwerde vom 15.
+September 2014 ans Verwaltungsgericht und beantragten die Aufhebung von
+Disp.-Ziffn. 1 und 2 des Beschwerdeentscheids des DBU vom 11. August
+2014; alles unter Kosten- und Entschädigungsfolgen zu Lasten von E.______ und
+F.______ sowie der Gemeinde Glarus Nord.
+2.2
+Das DBU beantragte am 6. Oktober 2014, dass die
+Beschwerde unter Kostenfolge abzuweisen sei. E.______ und F.______
+beantragten am 10. Oktober 2014 ebenfalls die Abweisung der Beschwerde,
+soweit darauf einzutreten sei. Der Beschwerdeentscheid des DBU vom 11. August
+2014 sei vollumfänglich zu bestätigen; alles unter Kosten- und
+Entschädigungsfolge zu Lasten von A.______ und B.______
+sowie C.______
+. Den nämlichen Antrag stellte die Gemeinde Glarus
+Nord am 17. November 2014.
+2.3
+Am 18. Dezember 2014 nahm das Verwaltungsgericht
+einen Augenschein vor Ort vor. Mit Verfügung vom 20. Januar 2015
+beauftragte das Verwaltungsgericht die I.______AG, Büro für Raumplanung, ein
+Gutachten über die verkehrsmässige Erschliessung des Grundstücks zu
+erstellen. Dem kam die I.______AG am 25. Februar 2015 nach.
+2.4
+In ihrer Replik vom 8. April 2015 hielten A.______
+und B.______
+sowie C.______ an ihren Beschwerdeanträgen fest. Mit
+Duplik vom 6. Mai 2015 hielt das DBU an seinen Anträgen ebenso fest wie
+E.______ und F.______
+am 13. Mai 2015 sowie
+die Gemeinde Glarus Nord am 1. Juni 2015.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 79 Abs. 1 des
+Raumentwicklungs- und Baugesetzes vom 2. Mai 2010 (RBG) i.V.m. Art. 105 Abs.
+1 lit. b des Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986 (VRG)
+zur Behandlung der vorliegenden Beschwerde zuständig. Da auch die übrigen
+Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde einzutreten.
+1.2
+Gemäss Art. 107 Abs. 1 und 2 VRG können mit der
+Verwaltungsgerichtsbeschwerde die unrichtige oder unvollständige Feststellung
+des rechtserheblichen Sachverhalts sowie die unrichtige Rechtsanwendung
+einschliesslich eines Missbrauchs des Ermessens geltend gemacht werden.
+Mangels Vorliegens eines Ausnahmetatbestands bleibt dem Verwaltungsgericht hingegen
+die Überprüfung der Angemessenheit des vor-instanzlichen Entscheids verwehrt.
+2.
+Die Beschwerdeführer rügen
+zunächst, dass das strittige Bauvorhaben eines Überbauungsplans bedürfe.
+2.1
+Gemäss Art. 46 RBG gehört für Bauten und Anlagen mit
+erheblichen Auswirkungen auf die Nutzungs- und Erschliessungsordnung, die
+Umwelt oder das Orts- und Landschaftsbild oder mit ausserordentlichen
+Gefahren für Benützerinnen und Benützer und Nachbarschaft zur Baureife ein
+Überbauungsplan. Erhebliche Auswirkungen im Sinne von Art. 46 RBG liegen nach
+Art. 66 Abs. 1 der kantonalen Bauverordnung vom 23. Februar 2011 (BauV)
+insbesondere dann vor, wenn für eine Baute oder Anlage eine
+Umweltverträglichkeitsprüfung vorgeschrieben ist (lit. a), von der Baute oder
+Anlage übermässige Immissionen zu erwarten sind (lit. b) oder die Baute bzw.
+Anlage aufgrund ihrer Dimension/Grösse nur im Rahmen eines Überbauungsplans
+adäquat erfasst werden kann (lit. c). Sodann bestimmt Art. 8 Abs. 2 der
+Bauordnung der Gemeinde Näfels vom 18. November 2005 (BO, in der Fassung
+vom 1. Juli 2011), dass in den im Zonenplan speziell bezeichneten Gebieten
+ein Überbauungsplan vorzulegen ist, wobei die Gemeinde auch in weiteren Gebieten
+einen solchen verlangen kann.
+2.2
+2.2.1
+Die Beschwerdeführer führen aus, das
+streitbetroffene Bauprojekt habe erhebliche Auswirkungen auf das Orts- und
+Landschaftsbild sowie die Nachbarschaft, weshalb gestützt auf Art. 46 RBG
+zwingend ein Überbauungsplan vorzulegen sei. Beim Begriff der erheblichen
+Auswirkungen handle es sich um einen unbestimmten Rechtsbegriff, welcher vom
+Gericht im Rahmen der Rechtskontrolle zu überprüfen sei. Art. 46 RBG
+lasse bei der Pflicht zur Vorlegung eines Überbauungsplans keinen Raum, wenn
+ein Bauvorhaben erhebliche Auswirkungen auf das Orts- und Landschaftsbild
+habe. Die Vorinstanz habe deshalb zu Unrecht auf ein Ermessen der
+Baubewilligungsbehörde verwiesen und Art. 46 RBG damit falsch angewendet.
+Erhebliche Auswirkungen habe das streitbetroffene Bauvorhaben unter anderem,
+weil es in einem Teil der Gemeinde liege, welcher zum Bundesinventar der schützenswerten
+Ortsbilder (ISOS) gehöre und weil die in unmittelbarer Nähe gelegene Kirche St.
+Hilarius (nachfolgend: Pfarrkirche) sowie ein Teil des Baugrundstücks unter
+speziellem Schutz stünden. Gestützt auf den Nutzungsplan Talgebiete 2005
+komme hinzu, dass das Grundstück in der Orts- bzw. Umgebungsschutzzone
+der Pfarrkirche liege und ein Teil der geschützten Mauerfassade auf dem
+Grundstück selbst gelegen sei. Ferner seien weitere schützenswerte
+Baudenkmäler und eine bereits realisierte Überbauung in der Nähe des
+Bauvorhabens zu finden. Es gebe im gesamten Kanton wohl kaum einen Ort, bei
+welchem die Voraussetzungen von Art. 46 RBG eindeutiger erfüllt seien. Dieser
+Umstand werde auch durch eine Unterschriftensammlung der Nachbarschaft sowie
+der Gemeindebewohner untermauert. Insgesamt seien die Beschwerdegegner 1
+damit zur Vorlegung eines Überbauungsplans verpflichtet.
+2.2.2
+Die Beschwerdegegner 1 bringen dagegen vor, die
+Vorinstanz habe zu Recht eine Überbauungsplanpflicht verneint, da sich eine
+solche nicht direkt aus Art. 46 RBG ableiten lasse. Auch sei der Ausdruck
+"erhebliche Auswirkungen" gemäss Art. 46 RBG nicht als unbestimmter
+Rechtsbegriff zu qualifizieren. Vielmehr führe der Ausdruck dazu, dass der
+Baubewilligungsbehörde im Rahmen ihrer Beurteilung ein Ermessen zukomme,
+welches diese pflichtgemäss ausgeübt habe. Selbst wenn der Ausdruck aber als
+unbestimmter Rechtsbegriff angesehen werden würde, so sei die richterliche
+Überprüfung der Beurteilung durch die Beschwerdegegnerin 2 und den
+Beschwerdegegner 3 nur beschränkt möglich. Dies, weil die Beschwerdegegnerin
+2 die örtlichen Verhältnisse besser kenne und weil die kantonale Abteilung
+für Denkmalpflege und Ortsbildschutz (nachfolgend: Fachstelle Denkmalpflege)
+in solchen Fragen über mehr Fachkenntnisse als das Gericht verfüge. Hinzu
+komme, dass sich die geplante Überbauung gut in die Umgebung einfüge, wovon
+im Übrigen auch die Fachstelle Denkmalschutz in ihren Stellungnahmen
+ausgegangen sei. Des Weiteren könne aus dem Umstand, dass ein Teil des
+betroffenen Bauprojekts in der Ortsbild- sowie Umgebungsschutzzone liege und
+das zu überbauende Gebiet zum ISOS gehöre, nicht ohne Weiteres darauf geschlossen
+werden, dass das Projekt erhebliche Auswirkungen im Sinne von Art. 46 RBG
+habe. Ferner werde durch das Bauvorhaben weder an der Pfarrkirche noch an den
+umliegenden Häusern etwas verändert, weshalb sich daraus ebenfalls keine Überbauungsplanpflicht
+ableiten lasse. Schliesslich könne es für eine Überbauungsplanpflicht nicht
+relevant sein, dass in der Nähe eine andere Überbauung realisiert werde.
+Diesbezüglich bestehe zum streitbetroffenen Bauprojekt kein sachlicher
+Zusammenhang.
+2.2.3
+Die Beschwerdegegnerin 2 führt aus, es gehe bereits
+aus dem Wortlaut von Art. 46 RBG hervor, dass nur unter bestimmten
+Voraussetzungen eine Überbauungsplanpflicht bestehe. Der Begriff der
+erheblichen Auswirkungen gemäss Art. 46 RBG sei in Art. 56 RBG und Art. 66
+BauV näher umschrieben. Die darin erwähnten Voraussetzungen seien vorliegend
+nicht erfüllt, weshalb keine Pflicht für einen Überbauungsplan gegeben sei.
+Abgesehen davon, könne ein Überbauungsplan verlangt werden, wenn das
+Bauprojekt nicht zonenkonforme Auswirkungen habe. Dies sei vorliegend
+ebenfalls nicht der Fall. Im Ergebnis liege damit weder eine falsche
+Rechtsanwendung noch ein Verstoss gegen Art. 46 RBG vor. Des Weiteren sei
+nahezu die gesamte Gemeinde Näfels im ISOS aufgeführt, was aber nicht per se
+zu einem Objektschutz führe. Den Beschwerdeführern sei zwar beizupflichten,
+dass die Pfarrkirche ein schützenswertes Objekt darstelle, hingegen liege für
+das streitbetroffene Baugrundstück kein Umgebungsschutz vor, weshalb sich ein
+Einbezug des Bundesamtes für Kultur (BAK) erübrigt habe. Sodann werde nicht
+in der direkten Umgebung der Pfarrkirche gebaut. Der die Pfarrkirche
+umgebende, öffentliche und unbebaute Raum bleibe bestehen. Ferner könne aus
+dem Umstand, dass das Bauvorhaben teilweise in der Ortsbildschutzzone liege,
+nicht darauf geschlossen werden, dass ein Überbauungsplan zwingend vorzulegen
+sei. So sei ein sorgfältiger Umgang mit Bauvorhaben in diesem Bereich auch
+mittels einer sich gut einfügenden Gestaltungs- und Bauweise zu erreichen,
+was auf die geplante Anlage zutreffe. Schliesslich werde auch den Interessen
+der Nachbarn unter Einhaltung der Bauordnung und ohne Vorlage eines
+Überbauungsplans genügend Rechnung getragen.
+2.2.4
+Der Beschwerdegegner 3 weist darauf hin, dass das
+streitbetroffene Bauvorhaben gewisse Auswirkungen auf das Orts- und Landschaftsbild
+sowie die Nachbarschaft habe. Diese seien aber nicht als erheblich
+einzustufen, da dies gemäss Art. 66 BauV und Art. 56 RBG nur auf
+Bauten zutreffe, welche tiefgreifendere Auswirkungen hätten, was
+beispielsweise bei einem Einkaufszentrum der Fall sei. Das streitbetroffene
+Bauprojekt habe keine solchen immensen Auswirkungen, woran die Ansichten der
+Dorfbewohner und der Nachbarschaft nichts änderten. Im Ergebnis sei in
+Anlehnung an die Stellungnahme des kantonalen Denkmalpflegers nicht von einer
+Überbauungsplanpflicht auszugehen.
+2.3
+2.3.1
+Ausgangspunkt für die Beurteilung einer allfälligen
+Überbauungsplanpflicht bildet Art. 46 RBG. Wie die Beschwerdeführer zu
+Recht bemerken, ist bei dieser Bestimmung danach zu fragen, ob eine offene
+Norm vorliegt, welche der Verwaltungsbehörde Ermessen einräumt, oder ob es
+sich bei den für die Überbauungsplanpflicht geforderten "erheblichen
+Auswirkungen" um einen unbestimmten Rechtsbegriff handelt. Diese Unterscheidung
+ist deshalb bedeutsam, weil dem Gericht die Ermessensüberprüfung verwehrt ist
+(vgl. E. II/1.2), während die unbestimmten Rechtsbegriffe der Auslegung zugänglich
+sind, welche vom Gericht grundsätzlich überprüft werden kann (Ulrich Häfelin/Georg
+Müller/Felix Uhlmann, Allgemeines Verwaltungsrecht, 6. A., Zürich/St. Gallen
+2010, Rz. 446a f.)
+2.3.2
+Sowohl beim Ermessen als auch beim unbestimmten
+Rechtsbegriff liegen offene Formulierungen vor, die den Verwaltungsbehörden
+einen Entscheidungsspielraum gewähren. Massgeblich für die Unterscheidung
+ist, ob die Anwendung einer offenen Normierung nach Sinn und Zweck des
+Gesetzes von einem Gericht soll überprüft werden können oder nicht. Bei jeder
+offenen Normierung ist demnach zu fragen, ob und wie weit der Gesetzgeber die
+Befugnis zur Konkretisierung dieser Bestimmung abschliessend einer
+Verwaltungsbehörde übertragen wollte, weil sie dafür fachlich kompetenter
+erscheint als ein Gericht (Häfelin/Müller/Uhlmann, Rz. 453).
+2.3.3
+Für die Beurteilung der Frage, ob erhebliche
+Auswirkungen auf die Nutzungs- und Erschliessungsordnung, die Umwelt oder das
+Orts- und Landschaftsbild vorliegen, was gemäss Art. 46 RBG eine
+Überbauungsplanpflicht zur Folge hat, sind die kommunalen und kantonalen
+Behörden aufgrund ihrer besonderen Orts- und Fachkenntnisse geeigneter als
+Gerichte. Hinzu kommt, dass die Gemeinde durch die Ortsplanung die haushälterische
+und zweckmässige Nutzung des Bodens sowie die geordnete Besiedlung und die
+bauliche Entwicklung sicherstellt (Art. 15 Abs. 1 RBG), wobei die Ortsplanung
+auch die Sondernutzungspläne umfasst (Art. 15 Abs. 2 RBG). Insofern kommt der
+Gemeinde bei der Anwendung von Art. 46 RBG ein Ermessensspielraum zu, in welchen
+das Gericht nicht eingreifen darf.
+Immerhin haben die
+rechtsanwendenden Behörden Art. 66 BauV zu beachten, welcher beispielhaft
+aufzeigt, wann erhebliche Auswirkungen im Sinne von Art. 46 RBG vorliegen.
+2.3.4
+Von den Beschwerdeführern wird zu Recht nicht
+behauptet, die streitbetroffene Parzelle sei im Zonenplan des Ortsteils
+Näfels als Gebiet mit einer Überbauungsplanpflicht bezeichnet. Solche Gebiete
+lassen sich nur ausserhalb der Dorfkernzone finden. Sodann fällt das
+Bauvorhaben nicht unter die in Art. 66 BauV erwähnten Bauten und Anlagen.
+Schliesslich ist es auch nicht zu beanstanden, dass die Beschwerdegegnerin
+nicht aus anderen Gründen davon ausging, es lägen erhebliche Auswirkungen
+vor, welche einen Überbauungsplan als notwendig erscheinen liessen. Sie holte
+die für ihre Beurteilung notwendigen Berichte von Fachstellen ein und kam zum
+Schluss, dass sich das Bauprojekt gut in die Umgebung bzw. das Orts- und
+Landschaftsbild einfüge sowie mit den nachbarschaftlichen Interessen
+vereinbar sei. Dass diese Auffassung zumindest vertretbar erscheint, zeigte
+sich insbesondere auch am vorgenommenen Augenschein, in welchem namentlich zu
+Tage trat, dass die Wirkung der geschützten Pfarrkirche und deren Umgebung sowie
+das geschützte Ortsbild von Näfels durch das geplante Bauvorhaben kaum beeinträchtigt
+werden.
+3.
+Die Beschwerdeführer rügen
+sodann, dass das geplante Bauvorhaben nicht mit dem Ortsbild- sowie
+Denkmalschutz vereinbar sei.
+3.1
+Gemäss Art. 5 des Bundesgesetzes über den Natur-
+und Heimatschutz vom 1. Juli 1966 (NHG) erstellt der Bundesrat nach
+Anhören der Kantone Inventare von Objekten von nationaler Bedeutung. Dadurch
+wird dargetan, dass das entsprechende Objekt in besonderem Masse die
+ungeschmälerte Erhaltung, jedenfalls aber unter Einbezug von
+Wiederherstellungs- oder angemessenen Ersatzmassnahmen die grösstmögliche
+Schonung verdient (Art. 6 Abs. 1 NHG). Gestützt auf Art. 5 NHG erliess der
+Bundesrat die Verordnung über das Bundesinventar der schützenswerten
+Ortsbilder der Schweiz (VISOS vom 9. September 1981), in welchem die
+jeweiligen Ortsbilder aufgelistet sind.
+Der Begriff der
+ungeschmälerten Erhaltung ist dabei so zu verstehen, dass der im Inventar
+angestrebte Schutz vollumfänglich zur Geltung gelangen und allfälligen Bedrohungen
+begegnet werden soll. Die Aufnahme eines Objektes in ein Verzeichnis bedeutet
+aber nicht, dass sich am bestehenden Zustand überhaupt nichts mehr ändern
+darf. Der Zustand eines Objektes soll jedoch gesamthaft betrachtet unter dem
+Gesichtspunkt des Natur- und Heimatschutzes nicht verschlechtert werden.
+Allfällige geringfügige Nachteile einer Veränderung müssen durch anderweitige
+Vorteile mindestens ausgeglichen werden. Zur Beurteilung der Problematik der
+ungeschmälerten Erhaltung ist von der jeweiligen Umschreibung des
+Schutzgehalts auszugehen, d.h. die möglichen Beeinträchtigungen sind an den
+verschiedenen Schutzzielen zu messen (BGE 123 II 256 E. 6a, mit
+Hinweisen).
+Sodann sieht Art.
+47 Abs. 1 RBG vor, dass Bauten und Anlagen so in ihre bauliche und
+landschaftliche Umgebung einzufügen sind, dass eine gute Gesamtwirkung
+entsteht. Befindet sich die zu beurteilende Baute in der Umgebung von geschützten,
+schützenswerten und erhaltenswerten Objekten, so hat sie bezüglich Gestaltung
+und Einordnung erhöhten Anforderungen zu genügen (Art. 47 Abs. 2 RBG). Eine
+gute Gesamtwirkung wird gemäss Art. 67 Abs. 1 BauV insbesondere dann erreicht,
+wenn Stellung, Form, Abmessungen, Proportionen, Materialisierung, Farbgebung,
+Funktionen und Konstruktion gut aufeinander abgestimmt sind (lit. a) und die
+Bauten, Freiräume und Anlagen eine gute Beziehung zur Umgebung aufweisen bzw.
+durch Formgebung, Farbgestaltung und Materialwahl sowie Sichtbezügen,
+Raumabfolgen und Wegführungen herstellen. Gemäss Abs. 2 dieser Bestimmung
+haben sich diese Anforderungen bei Bauten und Anlagen im Umfeld von geschützten,
+schützenswerten und erhaltenswerten Objekten an dessen Bauweisen messen zu
+lassen. Insbesondere die Fassaden-, Fenster- und Dachgestaltung haben den
+Charakter der geschützten, schützenswerten und erhaltenswerten Objekte zu berücksichtigen.
+Art. 5 BO
+statuiert ferner, dass sich die Ausnützung eines Grundstücks bei Neu-, Ersatz
+oder Erweiterungsbauten aufgrund eines konkreten Bauprojekts bestimmt,
+welches sich in jeder Hinsicht ins Ortsbild einpasst. In Zweifelsfällen hat
+der Gemeinderat auf Kosten der Bauherrschaft ein unabhängiges Gutachten
+einzuholen. Dies entspricht weitgehend Art. 16 Abs. 2 BO. Schliesslich ist
+nach Art. 16 Abs. 1 BO für Neu-, Um- und Anbauten sowie Fassadenrenovationen
+in unmittelbarer Nähe geschützter oder schützenswerter Bauten und in
+Schutzzonen eine Bewilligung einzuholen, wobei den Problemen stilistischer
+Art Beachtung zu schenken ist.
+3.2
+3.2.1
+Die Beschwerdeführer sehen den
+Ortsbildschutz als den eigentlichen Grund, weshalb sie sich gegen das
+geplante Bauvorhaben der Beschwerdegegner 1 zur Wehr setzen. Das
+streitbetroffene Grundstück liege nämlich zu einem grossen Teil im Ortsbildschutz-,
+der restliche Teil im Umgebungsschutzgebiet. Zudem lägen diverse geschützte
+Objekte in unmittelbarer Nähe zum geplanten Bauprojekt. Dazu gehöre auch die
+Umgebungsmauer, welche entlang der Kantonsstrasse verlaufe. Die Frage des
+Orts- und Denkmalschutzes sei nur ungenügend abgeklärt worden, indem man sich
+bei der Beurteilung einzig auf den äusserst knappen Mitbericht der Fachstelle
+Denkmalpflege vom 6. Dezember 2012 abgestützt habe. Letztere nehme weder
+Bezug auf die bestehende rechtliche Ordnung, noch erwähne sie die
+Ortsbildschutzzone sowie die umliegenden geschützten Objekte. Sie lege nicht
+dar, weshalb dem Bauprojekt eine Blankobewilligung zu erteilen sei. Zudem sei
+nicht nachvollziehbar, weshalb der Beschwerdegegner 3 den Bericht der
+Fachstelle Denkmalpflege vom 31. Oktober 2013 als fachlich detaillierten
+Amtsbericht erachtet habe. Dieser umfasse lediglich eine Seite und nehme
+einzig dazu Stellung, weshalb das BAK nicht beigezogen werden müsse. Zum
+Bauvorhaben selbst führe das Amt nur kurz aus, dass die Überbauung dem
+Ortsbild nicht abträglich sei. Im Ergebnis seien die beiden Berichte nur als
+eine voreingenommene Haltung zu werten. Insgesamt sei das Amt seinen Aufgaben
+nur ungenügend nachgekommen, weshalb ein Bericht der kantonalen Natur- und
+Heimatschutzkommission sowie ein neutrales Gutachten einzuholen seien. Dabei
+habe die Baubewilligungsbehörde zwar ein gewisses Ermessen, dieses sei aber
+pflichtgemäss auszuüben. Da es sich vorliegend um ein Bauprojekt in einem
+äusserst sensiblen Bereich handle und diesbezüglich kaum ein extremerer Fall
+denkbar sei, wäre bereits die Beschwerdegegnerin 2 zur Einholung eines
+neutralen Gutachtens angehalten gewesen. Sodann sei der Schutz der Kirchenumgebung,
+der umliegenden geschützten Objekte sowie des Freulerpalastes nicht nur ihr
+Anliegen, sondern auch dasjenige von vielen weiteren Einwohnern der Gemeinde
+Näfels, wofür die ins Recht gelegte Unterschriftensammlung spreche. Ferner
+sei eine weniger einschneidende Ausführung der geplanten Bauten möglich,
+welche dem bestehenden Charakter des betroffenen Quartiers besser gerecht
+werde.
+3.2.2
+Die Beschwerdegegner 1 bestreiten, dass das
+Bauprojekt aus ortsbild- und denkmalschützerischer Sicht problematisch sei. So
+sei die Fachstelle Denkmalpflege bereits bei der Ausarbeitung des konkreten
+Baugesuchs kontaktiert worden, weshalb diese vor der Projektierung des
+Bauvorhabens miteinbezogen worden sei. Die von ihr geäusserten Anliegen seien
+vollständig in das Baugesuch miteingeflossen. Folglich habe sich eine
+mehrseitige Begründung erübrigt. Des Weiteren sei die Vorinstanz zu Recht
+davon ausgegangen, dass die Beschwerdegegnerin 2 kein neutrales Gutachten
+einholen müsse. Letztere sei in pflichtgemässem Ermessen zum Schluss
+gekommen, dass ein Gutachten nicht notwendig sei. Ferner sei es offensichtlich,
+dass die Beschwerdeführer mit den beantragten Projektänderungen einzig ihre
+eigenen Interessen verfolgten und nicht eine Verbesserung des Ortsbildes
+anstrebten.
+3.2.3
+Die Beschwerdegegnerin 2 bringt vor, dass
+nur ein Drittel der Liegenschaft im Ortsbildschutzgebiet der Gemeinde Näfels
+liege. Hinzu komme, dass die Zusammenarbeit zwischen Baubewilligungsbehörde,
+Bauherren und Denkmalpflege dazu geführt habe, dass die Fachstelle
+Denkmalpflege zur Vereinbarkeit des Bauvorhabens mit dem Ortsbildschutz
+gelangt sei. Da dies bereits im Vorfeld abgeklärt worden sei, sei der Mitbericht
+knapp ausgefallen. Er enthalte aber alles für die Beurteilung nach Art. 47
+RBG Notwendige. Sodann habe die Fachstelle Denkmalpflege in ihrem Schreiben
+vom 31. Oktober 2013 zu den Vorbringen der Beschwerdeführer Stellung
+genommen. Dieses Schreiben sei nicht als üblicher Mitbericht, sondern
+vielmehr als rechtliche Stellungnahme anzusehen. Ferner füge sich das Bauvorhaben
+gut in die Umgebung ein und stelle keine Konkurrenz zur
+Pfarrkirche
+dar, weshalb kein neutrales Gutachten einzuholen sei. Es seien auch
+keine weiteren Schutzvorgaben oder spezielle Vorschriften für die Bebauung in
+der Kirchenumgebung gegeben.
+3.2.4
+Der Beschwerdegegner 3 führt aus, dass den
+kommunalen Behörden in der Angelegenheit des Landschafts- und Denkmalschutzes
+eine relativ erhebliche Entscheidungsfreiheit zukomme. Man habe sich deshalb
+auf die Ansicht der Beschwerdegegnerin 2 gestützt, wonach das
+streitbetroffene Projekt die ortsübliche Bauweise in moderner Art und Weise
+aufnehme und sich überdies gut in das gewachsene Ortsbild eingliedere, was
+die kantonale Denkmalpflege bestätige. Es gebe keinen Anlass anzunehmen, dass
+die Beschwerdegegnerin 2 dies nur ungenügend abgeklärt habe. Folglich seien
+zur Klärung des rechtserheblichen Sachverhalts keine weiteren Stellungnahmen
+oder ein neutrales Gutachten notwendig gewesen, weil davon keine neuen
+Erkenntnisse zu erwarten seien.
+3.3
+3.3.1
+Das Dorf Näfels ist als verstädtertes Dorf
+als Ortsbild von nationaler Bedeutung im ISOS eingetragen. Sodann ist die
+Pfarrkirche im Verzeichnis der geschützten Baudenkmäler in Anhang 4 BO
+aufgelistet. Daneben liegt ein Teil der streitbetroffenen Parzelle in der
+Ortsschutzzone und in der Umgebungsschutzzone der Pfarrkirche. Schliesslich
+ergibt sich aus dem Anhang des Nutzungsplans Talgebiet 2005, dass die Umgebungsmauer
+der Parzelle entlang der Kantonsstrasse als schützenswert eingetragen ist
+3.3.2
+Im Mitbericht der Fachstelle Denkmalpflege
+vom 6. Dezember 2012 wird ausgeführt, dass das Bauvorhaben in Bezug auf
+Denkmalpflege und Ortsbildschutz überprüft worden sei. Es hätten Sitzungen
+mit Bauherrschaft, Gemeinde und Denkmalpflege stattgefunden, worauf die dabei
+geäusserten Anliegen der Fachstelle Denkmalpflege ins Projekt aufgenommen
+worden seien. Die Aufgliederung der kleinen Siedlung in vier Volumen
+entspreche der Körnigkeit der Bauten in der Umgebung und die geplante kubische
+Ausgestaltung sei unauffällig und traditionell. Bei der Farbgebung sei in der
+historischen Umgebung der
+Pfarrkirche
+Zurückhaltung zu üben. Die Überbauung passe
+sich mit der in der Nachbarschaft üblichen Einfriedung gut in das gewachsene
+Ortsbild ein.
+3.3.3
+Gemäss Verfügung der Beschwerdegegnerin 2
+vom 20. März 2013 entspricht das Bauvorhaben grundsätzlich den Anforderungen
+der Dorfkernzone sowie des Ortsbild- und Umgebungsschutzes. Es sei bereits im
+Vorfeld zur Baueingabe mit der kantonalen Denkmalpflege besprochen worden, womit
+die denkmalpflegerischen Auflagen bereits in die Projektbearbeitung
+miteingeflossen seien. Das Vorhaben trage den Ansprüchen der Denkmalpflege
+Rechnung.
+3.3.4
+Am 31. Oktober 2013 ergänzte die Fachstelle
+Denkmalpflege, dass kein Einbezug des BAK erforderlich sei, wenn nicht
+unmittelbar an der
+Pfarrkirche
+selbst bauliche Veränderungen vorzunehmen
+seien. Sodann sei man zum Schluss gekommen, dass die geplante Überbauung dem
+Ortsbild nicht abträglich sei, zumal die Bauordnung von Näfels an dieser
+Stelle eine solche vorsehe. Schliesslich sei ihr erster Bericht aufgrund der
+vorangegangenen Projektentwicklung nur kurz ausgefallen.
+Dem E-Mail von
+J.______, Jurist beim Eidgenössischen Departement des Inneren (EDI), BAK, an
+die Fachstelle Denkmalpflege vom 31. Oktober 2013 lässt sich entnehmen,
+dass im Falle der
+Pfarrkirche
+keine explizite Verpflichtung ersichtlich
+ist, bei Bauten in deren Umgebung das Einverständnis des BAK einzuholen. Allerdings
+sei ein Einbezug des BAK dann sinnvoll, wenn das geschützte Objekt durch eine
+Baute beeinträchtigt werden könnte.
+3.4
+Wie bereits ausgeführt, liegt die
+streitbetroffene Parzelle in einem Gebiet mit Ortsbild- und Umgebungsschutz.
+Hinzu kommt, dass der Bundesrat den gesamten Dorfkern der Gemeinde Näfels im
+ISOS aufgenommen hat. Diese Umstände führen jedoch nicht dazu, dass im
+geschützten Gebiet sämtliche Bauvorhaben von vornherein verboten wären.
+Vielmehr hatte die Baubewilligungsbehörde eine Interessenabwägung vorzunehmen
+und im Sinne einer Verhältnismässigkeitsprüfung zu evaluieren, ob sich das geplante
+Bauprojekt mit dem Ortsbildschutz verträgt bzw. dem Bauvorhaben keine höherrangigen
+Rechte entgegenstehen.
+Soweit die
+Beschwerdeführer vorbringen, die Beschwerdegegnerin 2 habe den Ortsbildschutz
+nur ungenügend abgeklärt, indem sie sich auf die Berichte der Fachstelle
+Denkmalpflege abgestützt habe, ist ihnen nicht zu folgen. Vielmehr lässt sich
+den Akten entnehmen, dass die Fachstelle bereits bei der Projektausarbeitung
+miteinbezogen wurde. So war man sich bereits vor der Ausarbeitung des
+Projekts offensichtlich bewusst, dass es sich um ein sensibles Baugebiet
+handle. Dass die erste Stellungnahme der Fachstelle Denkmalpflege in der
+Folge nur sehr kurz ausfiel, kann den Beschwerdegegnern aber nicht zum
+Nachteil gereichen. Einerseits wurde bereits im ersten Bericht dargelegt,
+dass man sich vorgängig mit dem Bauprojekt befasst habe, wovon auch die
+Beschwerdeführer Kenntnis nehmen konnten. Andererseits erwähnte die
+Fachstelle in ihrem ersten Bericht die Farbgebung sowie die Gestaltungsweise
+der geplanten Gebäude, was ebenfalls darauf hindeutet, dass sie sich mit dem
+Ortsbildschutz befasste. Sodann nahm sie auf Antrag hin nochmals Stellung und
+legte nachvollziehbar dar, weshalb das Bauvorhaben aus ortsbild- sowie
+denkmalschutztechnischer Sichtweise unproblematisch sei und weshalb auf ein
+eingehende Prüfung durch das BAK verzichtet werden könne. So erfahren die
+umliegenden geschützten Objekte keine direkten baulichen Einwirkungen. Auch
+das BAK war in seinem E-Mail an die Fachstelle offenbar der Ansicht, dass
+keine Beeinträchtigung durch das Bauvorhaben ersichtlich sei, ansonsten sein
+Einverständnis notwendig gewesen wäre. Sodann wird der geschützte Teil der
+Umgebungsmauer durch das Bauprojekt nicht tangiert, da das Zufahrtstor und
+der Zufahrtsbereich nicht geschützt sind. Aus dem Gesagten ergibt sich, dass
+die Abklärung des Ortsbild- und Umgebungsschutzes durch die
+Beschwerdegegnerin 2 nicht zu beanstanden ist. Sie durfte sich im Rahmen des
+ihr zukommenden Ermessens auf die rechtsgenüglichen Berichte der Fachstelle
+Denkmalpflege stützen, wonach die Gebäude sich gut in die Umgebung einfügen
+würden, was im Übrigen auch den durch das Gericht aus dem Augenschein
+gezogenen Erkenntnissen entspricht. Somit scheitert die Rüge der Beschwerdeführer
+in Bezug auf den Ortsbild-, Denkmal- und Umgebungsschutz.
+4.
+Die
+Beschwerdeführer bringen weiter vor, dass das Bauvorhaben in verkehrstechnischer
+Hinsicht ungenügend erschlossen sei. Insbesondere vertrage sich die Zufahrt
+zur Kantonsstrasse nicht mit der Verkehrssicherheit.
+4.1
+Gemäss Art. 22 Abs. 2 lit. b
+des Bundesgesetzes über die Raumplanung vom
+2. Juni 1979 (RPG)
+ist
+Voraussetzung einer Baubewilligung, dass das zu bebauende Land erschlossen
+ist. Dies ist unter anderem dann der Fall, wenn die für die betreffende
+Nutzung hinreichende Zufahrt besteht (Art. 19 Abs. 1 RPG).
+Das anwendbare kantonale Recht enthält keine
+weitergehenden Vorschriften bezüglich der verkehrsmässigen Erschliessung von
+Grundstücken. Praxisgemäss sind daher die entsprechenden Normen des
+Schweizerischen Verbandes der Strassen- und Verkehrsfachleute (VSS) beizuziehen.
+4.2
+4.2.1
+Die Beschwerdeführer sind der Ansicht, die
+Beschwerdegegnerin 2 habe die Frage der Erschliessung nur ungenügend
+abgeklärt, in dem sie die Baubewilligung erteilt und erst daraufhin die
+notwendigen Berichte der Kantonspolizei Glarus eingeholt habe. Hinzu komme,
+dass sich die Berichte der Kantonspolizei inhaltlich widersprechen würden.
+Des Weiteren bestehe zwar eine Zufahrt zum streitbetroffenen Grundstück,
+diese werde momentan aber anders genutzt, als durch das Bauvorhaben beabsichtigt
+werde. Im Ergebnis liege durch diese Zweckänderung eine Neuanlage vor,
+weshalb die entsprechenden VSS-Normen zu erfüllen seien. Wenn die Normen
+anzuwenden seien, sei das streitbetroffene Grundstück nur ungenügend
+erschlossen. Ein Indiz für das Vorliegen einer Neuanlage sei die Beschilderung
+"Linksabbiegen verboten". Diese sei erst während des
+vorinstanzlichen Verfahrens und ohne amtliche Publikation erfolgt. Ferner
+handle es sich bei der Torausfahrt der streitbetroffenen Anlage um einen
+höchst sensiblen Verkehrsknotenpunkt, weil die Ausfahrt in die stark
+frequentierte Kantonsstrasse münde. In Berücksichtigung der zu erwartenden
+Mehrfrequenz von der geplanten Anlage her sei ebenfalls von einer nur
+ungenügenden Erschliessung auszugehen. Im Übrigen falle eine
+Ausnahmebewilligung ausser Betracht, da die hierfür zu erfüllenden Auflagen
+nicht realisierbar seien.
+4.2.2
+Die Beschwerdegegner 1 und die Beschwerdegegnerin 2
+sind hingegen der Meinung, dass sich die Berichte der Kantonspolizei nicht
+widersprechen, vielmehr ergänzen würden. Es sei keine bessere
+Erschliessungsmöglichkeit als die bestehende Zufahrt via Kantonsstrasse
+ersichtlich. Die vorverlegte Haltelinie zur Kantonsstrasse, die seitliche
+Begrenzung der Ausfahrt sowie das Linksabbiegeverbot würden der
+Verkehrssicherheit ausreichend Rechnung tragen. Ferner werde die Zufahrt
+bereits heute von Anwohnern genutzt und diene als Zugang zu 18 bis 20
+Parkplätzen. Eine Neuanlage bestehe deshalb nicht, weshalb auch die
+VSS-Normen nicht einschlägig seien. Hinzu komme, dass Letztere nur als
+Empfehlung zu werten seien. Es sei nur eine geringe Mehrfrequenz durch den
+Anlagenbau zu erwarten, weshalb die zusätzlichen Weg- und Zufahrten auf die Kantonsstrasse
+vernachlässigbar seien. Die Beschwerdeführer würden diesbezüglich in der Annahme
+fehl gehen, dass eine Mehrfrequenz ausschliesslich während den Stosszeiten zu
+erwarten sei. Das Linksabbiegeverbot diene dem Verkehrsfluss. Es gelte zu
+berücksichtigen, dass die Beschilderung während des Beschwerdeverfahrens nur
+eine Verschärfung bedeutet habe. Im Übrigen sei ein Kreuzen der Fahrzeuge
+hinter der Toreinfahrt uneingeschränkt möglich. Es herrsche deshalb in der
+Toreinfahrt keine Behinderungsgefahr durch entgegenkommende Fahrzeuge.
+4.2.3
+Der Beschwerdegegner 3 entgegnet ebenfalls, dass es
+sich nicht um eine Neuanlage handle. Die Vorgaben gemäss VSS-Norm 640 273a
+seien zudem eingehalten. Es sei zwar richtig, dass eine gewisse Erhöhung der
+Verkehrsfrequenz durch den Anlagenbau zu erwarten sei. Diese sei aber nicht
+erheblich bzw. halte sich in Grenzen. Dass sich durch die Mehrfrequenz ein
+übermässiger Rückstau bilde, sei eine reine Mutmassung und werde nicht
+substantiiert dargelegt. In baulicher Hinsicht sei an der Zufahrt zum
+Grundstück nichts zu beanstanden. Ferner werde der Verkehrssicherheit mit den
+aufgetragenen Auflagen ausreichend Rechnung getragen.
+4.3
+4.3.1
+Aus dem Mitbericht der Kantonspolizei vom 17.
+Dezember 2012 ergibt sich, dass den eingereichten Planunterlagen bzw. dem
+Baubeschrieb die für die Beurteilung notwendigen Pläne für ein
+Parkplatzkonzept sowie für die Einfahrt zur Kantonsstrasse fehlten. Diese
+seien nachzureichen, wobei allfällige Forderungen und Auflagen aus der Nachbeurteilung
+ausdrücklich vorbehalten blieben.
+4.3.2
+Aus der Stellungnahme der kantonalen Abteilung
+Tiefbau vom 14. Januar 2013 lässt sich einzig entnehmen, es sei darauf zu
+achten, dass kein Oberflächenwasser vom privaten Grundstück auf das Trottoir
+sowie die Kantonsstrasse gelangen könne.
+4.3.3
+In der Baubewilligung vom 20. März 2013 hielt die
+Beschwerdegegnerin 2 fest, dass die geplante Tiefgarage mit 26 Abstellplätzen
+von der Kantonsstrasse her bereits über die bestehende Zufahrt erschlossen sei.
+Die Frage der Erschliessung sei im Vorfeld unter Einbezug der kantonalen
+Fachstellen eingehend geprüft worden. Man sei zum Schluss gekommen, dass die
+bestehende Zufahrt die geeignetste Lösung darstelle. Eine entsprechende
+Zustimmung für die Ein- und Ausfahrt liege sowohl von der kantonalen
+Abteilung Tiefbau als auch von der Kantonspolizei vor.
+4.3.4
+Anlässlich des vorinstanzlichen Augenscheins vom
+17. Oktober 2013 führte die Kantonspolizei weiter aus, dass die Unterlagen
+zum Parkplatzkonzept sowie zur Zufahrt von der Kantonsstrasse her nicht
+eingereicht worden seien. Das Verkehrsaufkommen in der Gemeinde Näfels sei
+zunehmend und man habe an dem vorliegenden Knotenpunkt einen starken
+Strassenverkehr, viele Fussgänger und insbesondere auch einen Schulweg.
+4.3.5
+Am 24. Oktober 2013 nahm die Kantonspolizei nach
+einer verkehrspolizeilichen Prüfung nochmals Stellung. Es handle sich um
+einen stark frequentierten Strassenabschnitt. Die Geschwindigkeit sei auf 50
+km/h begrenzt. Die erforderliche Knotensichtweite gemäss VSS Norm 640 273a
+bei der Ausfahrt über das Trottoir könne eingehalten werden. Es seien keine
+unmittelbaren Sichthindernisse gegeben. Die Verkehrssicherheit sei damit
+grundsätzlich gewährleistet, wobei ein "Linksabbiegen" Richtung
+Glarus Süd erschwert sei. Insgesamt könne dem Baugesuch nur unter Auflagen
+entsprochen werden. So seien der linke und rechte Bereich der Zufahrt zur Kantonsstrasse
+von sichthemmenden Gegenständen freizuhalten. Beim Überqueren des Trottoirs
+müsse den Fussgängern und fahrzeugähnlichen Geräten der Vortritt gewährt
+werden. Ferner seien die auf der Kantonsstrasse befindlichen Fahrzeuge
+gegenüber denjenigen von der streitbetroffenen Parzelle her
+vortrittsberechtigt. Die Ein- und Ausfahrt zur geplanten Tiefgarage sei so zu
+gestalten, dass sich keine Rückstaus bilden würden. Schliesslich dürfe die Einfahrt
+in die Kantonsstrasse nur in Richtung Norden erfolgen, weshalb eine
+Beschilderung "Rechtsabbiegen" anzubringen sei. Eine solche
+Beschränkung müsse durch die Kantonspolizei verfügt und im Amtsblatt
+publiziert werden, weshalb frühzeitig vor Inbetriebnahme der
+Tiefgaragenanlage ein entsprechender Antrag einzureichen sei.
+4.3.6
+Das kantonale Tiefbauamt nahm am 21. November 2013
+Stellung. Es legte dar, dass innerhalb der geschlossenen Ortslage Zu- und
+Wegfahrmöglichkeiten zu den angrenzenden Liegenschaften zulässig seien, wenn
+die Vorschriften gemäss VSS Norm 640 273a eingehalten würden. Ausserhalb
+einer solchen Ortslage sei eine solche Zufahrt als Sondernutzung zu
+qualifizieren, womit eine Bewilligungspflicht der Strassenbaubehörde
+verbunden sei. An die Qualität einer solchen Zufahrt seien überdies erhöhte
+Anforderungen zu stellen und es sei nach Möglichkeiten zu suchen, wie die
+Liegenschaft rückwärtig erschlossen werden könne, damit der Verkehrsfluss auf
+der Kantonsstrasse nicht beeinträchtigt werde.
+4.3.7
+Die Kantonspolizei ergänzte am 5. Februar 2014,
+dass es sich bei der streitbetroffenen Ein-/Ausfahrt um eine seit Jahrzehnten
+bestehende Toranlage handle, welche von einer stattlichen Mauer umgeben sei
+und auf ein 4,4 m breites Trottoir münde. Das Bauprojekt sehe eine Tiefgarage
+vor, welche über diese Zufahrt erschlossen werde. Die künftige
+Verkehrsfrequenz entspreche in etwa der bisherigen Situation, da die heute bestehenden
+18 Parkplätze nur auf 26 erhöht werden würden. Eine Sicherheitsproblematik
+oder Unfallereignisse seien bei der streitbetroffenen Zufahrt nicht
+aktenkundig. Es könne davon ausgegangen werden, dass der Verkehrsablauf nach
+Erstellung der geplanten Baute unverändert sei, weshalb kein Grund
+ersichtlich sei, dass der Verkehr nicht sicher abgewickelt werden könne.
+Aufgrund der unproblematischen Situation sei es ausreichend, wenn die
+Haltelinie nur etwa 1,5 m vor das Tor anstatt – wie in der VSS Norm 640 273a
+gefordert – 2,5 m vorverlegt und mit seitlichen Abgrenzungen versehen werde.
+4.4
+4.4.1
+Anlässlich des Augenscheins vom 18. Dezember
+2014 erachtete das Verwaltungsgericht die Frage der genügenden Erschliessung
+als nicht hinreichend geklärt, weshalb es bei der I.______
+AG ein Verkehrsgutachten in Auftrag gab. Im Gutachten
+vom
+25. Februar 2015
+kam die I.______
+AG
+zum Schluss, die Befahrbarkeit der bestehenden Zu-/Wegfahrt sei für
+Personenwagen gewährleistet. Lastwagen (LKW) sei es hingegen nur möglich, aus
+Richtung Norden her auf das Areal zu- und davon wegzufahren. Ein Kreuzen im
+Torbereich sei ebenfalls nicht möglich, weshalb ein solches arealintern
+gewährleistet werden müsse. Das Sichtfeld auf das Trottoir sei durch die
+bestehende Infrastruktur ungenügend. Mit einfachen baulichen Massnahmen könne
+dem jedoch begegnet werden. So seien die seitlichen Begrenzungen (Pfosten und
+Ketten) zur Kantonsstrasse hin um etwa 1 m zu verlängern, womit die Distanz
+vom Tor zur Haltekante etwa 2,5 m betragen würde. So könne die Beobachtungsdistanz
+gemäss VSS Norm 640 273a eingehalten werden. Sodann werde die Kantonsstrasse
+durch den Verkehr aus der geplanten Überbauung nicht massgeblich belastet.
+Durch die bestehende Signalisation werde ein Linksabbiegen unterbunden,
+weshalb der aus dem Areal fahrende Lenker nur den von Süden herkommenden
+Verkehr zu beachten habe. Ferner sei mit keinen massgeblichen Rückstaus auf
+der Kantonsstrasse zu rechnen, obschon die Türöffnung eine gewisse Zeit
+benötige und ein Kreuzen im Torbereich nicht möglich sei. Schliesslich sei
+eine bauliche Veränderung des nördlichen Inselkopfes zu empfehlen, wodurch
+das Linksabbiegeverbot unterstützt würde.
+4.4.2
+Bei einem vom Gericht eingeholten
+Gutachten wie dem vorliegenden, darf der Richter bei Fachfragen nicht ohne
+triftigen Grund von den Darlegungen des Gutachters abweichen. Allfällige
+Abweichungen von einem nicht nachvollziehbaren und nicht schlüssigen
+Gutachten hat er zu begründen
+(vgl. BGer-Urteil 2C_823/2008 vom 21. Juli 2009 E
+3.3)
+.
+Dies
+ist vorliegend nicht der Fall. Vielmehr ist das Gutachten vollständig, klar,
+gehörig begründet, frei von Lücken sowie Widersprüchen und beruht auf
+zutreffenden tatsächlichen Feststellungen. Der Gutachter hat zudem
+hinreichende Sachkenntnisse und die erforderliche Unbefangenheit. Er liefert
+dem Gericht die fachspezifischen Informationen, über welche es selbst nicht
+verfügt, weshalb dem Gutachten ein erhöhter Beweiswert zukommt.
+Die von den Beschwerdeführern am 8.
+April 2015 dagegen geäusserte Kritik vermag am Beweiswert des Gutachtens
+nichts zu ändern.
+4.5
+4.5.1
+Soweit die Beschwerdeführer geltend machen, bei der
+streitbetroffenen Zufahrt handle es sich um eine Neuanlage, ist ihnen nicht
+zu folgen. Vielmehr ergibt sich, dass die Zufahrt bereits seit längerer Zeit
+von Anwohnern genutzt wurde, um ihre Fahrzeuge auf dem Areal auf einem der
+insgesamt etwa 18 Parkplätze abzustellen. Dies erhellte sich auch anlässlich
+des Augenscheins vom 18. Dezember 2014. Sodann bleibt der Bereich zwischen
+der Zufahrt zur Anlage und der Kantonsstrasse aufgrund des geplanten
+Bauvorhabens bis auf einige sicherheitstechnische Vorkehrungen weitgehend
+unverändert, was ebenfalls für eine bereits bestehende Anlage spricht. Ferner
+geht das Gutachten zu Recht davon aus, dass eine Signalisation bereits vor
+dem vorinstanzlichen Verfahren vorhanden war. Zumindest bestand vor dem
+Linksabbiegeverbot ein Rechtsabbiegegebot, was durch die Beschwerdeführer
+nicht bestritten wird. Dabei ist aber auch unerheblich, ob das Linksabbiegeverbot
+erst im Beschwerdeverfahren angebracht wurde. So führte die Kantonspolizei
+explizit aus, dass bis zur Inbetriebnahme der Tiefgarage eine amtliche
+Publikation sowie eine Meldung an sie zu erfolgen habe, was den Beschwerdegegnern
+1 in Disp.-Ziff. 2 des vorinstanzlichen Entscheids als Auflage aufgetragen
+wurde. Die Beschwerdegegner 1 sind somit ohnehin dazu angehalten, eine
+rechtmässig verfügte Signalisation nachzuholen. Sodann bringt der Beschwerdegegner
+3 zwar selbst vor, dass eine gewisse Erhöhung des Verkehrsaufkommens
+wahrscheinlich sei. Diese sei aber nicht als erheblich einzustufen, was sich
+sowohl mit der Ansicht der Kantonspolizei als auch mit den Ausführungen im
+Gutachten deckt. Gegenteiliges vermögen die Beschwerdeführer nicht
+nachzuweisen. Es ist daher von keiner massgeblich veränderten Verkehrslage
+sowie keiner Zweckänderung der Zufahrt auszugehen. Schliesslich ist dem
+Gutachten darin beizupflichten, dass es für die Qualifikation als bestehende
+Anlage oder Neuanlage nicht massgebend ist, wie weit die geplante Tiefgarage
+von der Einfahrt in die Kantonsstrasse entfernt ist. Demgemäss ist die
+geplante Zufahrt zur Überbauung nicht als Neuanlage zu qualifizieren. Die
+Anlage ist damit bereits erschlossen. Es gilt folglich zu prüfen, ob die
+bestehende Erschliessung genügend ist oder ob wegen des geplanten
+Bauvorhabens Veränderungen vorzunehmen sind.
+4.5.2
+Bei der Beurteilung der Beobachtungsdistanz beim
+Knotenpunkt Torausfahrt/Kantonsstrasse führt die Kantonspolizei richtig an,
+dass die Empfehlungen des VSS heranzuziehen sind. Dabei ist die VSS-Norm 640
+273a einschlägig, welche innerorts eine Beobachtungsdistanz von 3,0 m
+vorsieht, die bei bestehenden Anlagen auf 2,5 m reduziert werden kann. Bei
+den VSS-Normen handelt es sich allerdings um Empfehlungen, die nicht
+behördenverbindlich sind.
+Die Kantonspolizei
+gelangte zum Schluss, dass eine Vorverlegung der Haltelinie um 1,5 m weg vom
+Tor Richtung Kantonsstrasse ausreichend sei, um der Verkehrssicherheit
+nachzukommen. Dem widerspricht das Gutachten, da sowohl auf die Kantonsstrasse
+als auch auf den Gehweg eine minimale Beobachtungsdistanz von 2,5 m nicht
+unterschritten werden dürfe. Zwar sei die Beobachtungsdistanz auf die Kantonsstrasse
+mit einer um 1,5 m vorverlegten Haltekante ausreichend. Hingegen werde
+dadurch kein ausreichendes Sichtfeld auf das Trottoir und die dortigen
+Fussgänger erreicht. Daraus folgt, dass die Beobachtungsdistanz mit einer um
+1,5 m vorverlegten Haltekante ungenügend ist und sich nicht damit
+rechtfertigen lässt, dass keine Sicherheitsprobleme bzw. Unfallereignisse an
+der entsprechenden Stelle aktenkundig sind. Aus Gründen der Verkehrssicherheit
+ist vielmehr die Einhaltung der VSS-Norm 640 273a geboten.
+Das Gutachten zeigt mit
+einer weiteren Vorverlegung der Haltekante sowie einer Verlängerung der
+seitlichen Begrenzung um 1 m aber eine einfache bauliche Massnahme auf, wie
+die Verkehrssituation optimiert werden könnte. Dieser Lösung ist den Vorzug
+zu geben, da wie dargelegt die Anlage (noch) ungenügend erschlossen ist.
+Damit würde der Verkehrssicherheit Genüge getan. Die dadurch entstehende
+Restbreite des Trottoirs erscheint zudem ausreichend, damit der Verkehrsfluss
+der Fussgänger nicht erheblich beeinträchtigt würde. Insgesamt erscheint die
+Lösung sachgerecht, sachbezogen und genügt auch dem Grundsatz der Verhältnismässigkeit,
+da sie erforderlich, geeignet und zumutbar ist.
+Da eine aus Gründen der
+Verkehrssicherheit ungenügende Erschliessung von einiger Tragweite keinen
+untergeordneten Mangel darstellt, rechtfertigt es sich vorliegend, das
+Bauvorhaben der Beschwerdegegner 1 von der Bedingung dieser baulichen Massnahme
+abhängig zu machen. Die Baubewilligung ist daher nur unter der Bedingung zu
+erteilen, dass die im Gutachten vorgeschlagene Lösung (Vorverlegung der
+Haltekante und Verlängerung der seitlichen Begrenzung) sichergestellt und die
+hierfür notwendigen Bewilligungen eingeholt werden. Ein vorgängiger Baubeginn
+ist den Beschwerdegegnern 1 verwehrt (vgl. dazu Andreas Baumann, in Baumann
+et al. [Hrsg.], § 59 N. 46 ff.). Sodann sind die vom Gutachten
+erwähnten übrigen baulichen Massnahmen zwar wünschenswert jedoch nicht
+zwingend, weshalb deren Fehlen der Baubewilligung nicht entgegensteht.
+4.5.3
+Die Beschwerdeführer rügen weiter die mangelhafte
+Befahrbarkeit der geplanten Anlage.
+Das Gutachten legt
+diesbezüglich mittels Schleppkurvennachweis ausführlich dar, dass das
+streitbetroffene Grundstück von Süden her mit einem Personenwagen, nicht aber
+mit einem LKW befahrbar sei. Die Linienführung für LKW habe von Norden her zu
+erfolgen. Nach Ansicht des Gutachters sei diese Linienführung problemlos
+realisierbar, zumal ein Einspuren unproblematisch erscheine. Die nachfolgenden
+Fahrzeuge würden an den haltenden Fahrzeugen vorbeikommen, weshalb der
+Verkehrsfluss auf der Kantonsstrasse nicht übermässig belastet werde. Dem und
+insbesondere auch der Ansicht, dass die Gefahr für einen Rückstau auf der Kantonsstrasse
+nur gering sei, ist zu folgen. Hinzu kommt, dass das streitbetroffene Areal
+während den Stosszeiten bis auf die Bauphase wohl nur selten mit LKW befahren
+werden wird. Sodann ist die Zufahrt zum Areal für Personenwagen sowohl von
+Norden als auch von Süden her möglich, was den Verkehrsfluss ebenfalls nicht
+übermässig beeinträchtigt. Ferner ist nicht zu beanstanden, dass das
+Gutachten die Simulation mit einem Müllwagen vornahm. Zum einen handelt es
+sich dabei um ein Fahrzeug, welches nach der Bauphase nebst Personenwagen auf
+das Grundstück gelangen können müsste, zum anderen entspricht das Fahrzeug in
+etwa den Massen eines LKW, was das Gutachten ebenso ausführt. Sodann
+verkennen die Beschwerdeführer, dass das Gutachten die Zufahrt für
+Blaulichtorganisationen wie Sanität oder Feuerwehr explizit erwähnt. Das
+diesbezüglich Vorgebrachte zielt damit ins Leere. Aus dem Gesagten folgt,
+dass die Zufahrt zum Grundstück unbedenklich ist, sofern die Linienführung
+für LKW von Norden her erfolgt.
+Sodann erscheint die
+Ausfahrt auf die Kantonsstrasse unproblematisch, was auch das Gutachten
+schlüssig dargelegt. Wie erwähnt, führt das noch amtlich zu publizierende
+Linksabbiegeverbot nämlich dazu, dass sich die Fahrzeuge vom streitbetroffenen
+Grundstück weg gut in den Verkehrsfluss der Kantonsstrasse einfügen. Zudem
+bewirkt der nahe gelegene Fussgängerstreifen, dass die von Süden herkommenden
+Fahrzeuge verlangsamen, was der Beschwerdegegner 3 zu Recht anmerkt. Da
+gemäss Gutachten und nach Ansicht der Kantonspolizei nur mit einer geringen Zunahme
+des Verkehrs von der streitbetroffenen Parzelle her zu rechnen ist, bestehen
+unter der Bedingung der Vorverlegung der Haltekante keine Bedenken bezüglich
+der Wegfahrt vom Areal.
+Schliesslich führt das
+Gutachten aus, dass ein Kreuzen in der Toreinfahrt selbst nicht möglich sei.
+Jedoch bestehe eine solche Möglichkeit auf der Strecke zwischen Tor und
+Tiefgarageneinfahrt. Es wäre zwar wünschenswert, die Einfahrt entsprechend zu
+verbreitern. Diese bauliche Massnahme fällt wegen der geschützten Mauer
+allerdings ausser Betracht. Unter dem Gesichtspunkt, dass nur eine geringe
+Zunahme des Verkehrs zu erwarten ist, ist übereinstimmend mit dem Gutachten
+davon auszugehen, dass ein Kreuzen innerhalb des Areals für die Erschliessung
+des streitbetroffenen Grundstücks genügt und der Verkehrsfluss dadurch nicht
+übermässig belastet wird. Die Befahrbarkeit des Areals ist damit nicht zu
+beanstanden, womit die entsprechende Rüge ins Leere greift.
+4.6
+Als Zwischenfazit ist festzuhalten, dass die Anlage
+im Hinblick auf die geplante Überbauung nur ungenügend erschlossen ist. Die
+bisherige Vorverlegung der Haltekante um 1,5 m vom Ausfahrtstor weg Richtung Kantonsstrasse
+reicht für die Einhaltung der Beobachtungsdistanz auf das Trottoir und den
+Fussgängerverkehr nicht aus. Es rechtfertigt sich daher, die Baubewilligung
+unter der Bedingung zu erteilen, dass die Haltekante um einen weiteren Meter
+vorverlegt sowie die seitlichen Abschrankungen ebenfalls um einen Meter
+verlängert werden. Die Beschwerdegegner 1 haben diese bauliche Massnahmen vor
+Baubeginn sicherzustellen und die dafür notwendigen Bewilligungen einzuholen.
+Im Übrigen ist die verkehrsmässige Erschliessung als genügend zu betrachten.
+5.
+Schliesslich rügen die
+Beschwerdeführer die Nichteinhaltung der Bauvorschriften. Das geplante
+oberste Stockwerk sei ein Ausbau des Dachgeschosses und kein Giebelzimmer. Da
+die Gebäudehöhe 9,4 m betrage, sei ein ausgebautes Dachgeschoss gemäss Art. 6
+BO nicht zulässig. Zudem liege eine geschlossene Bauweise vor, weshalb für
+die Realisierung ein Überbauungsplan vorzulegen sei.
+5.1
+5.1.1
+Gemäss Art. 6 BO sind in der Dorfkernzone bei einer
+Gebäudehöhe von bis zu neun Metern zwei Geschosse mit einem ausgebauten
+Dachgeschoss erlaubt. Beträgt die Gebäudehöhe zwischen 9 und 10 m dürfen ohne
+Dachausbau drei Geschosse gebaut werden, wobei ein Giebelzimmer gestattet
+ist. Was unter einem Giebelzimmer zu verstehen ist, regelt die BO allerdings
+nicht.
+5.1.2
+Es ist unbestritten, dass die Höhe der einzelnen
+geplanten Gebäude zwischen 9 und 10 m liegt. Die streitbetroffene
+Parzelle befindet sich in der Dorfkernzone, weshalb gestützt auf Art. 6 BO
+drei Geschosse und ein Giebelzimmer, jedoch kein Ausbau des Dachstocks
+erlaubt sind. Im Hinblick auf die Qualifikation der obersten Etage der
+geplanten Gebäude ist es aber nicht zu beanstanden, dass der Beschwerdegegner
+3 die Bauordnung der Gemeinde Mollis (BO Mollis) zur Auslegung herangezogen
+hat. Dies erweist sich als sachgerecht. So weist der Beschwerdegegner zu
+Recht darauf hin, dass die Gemeinde Mollis eine örtliche Nähe zur Gemeinde
+Näfels aufweise und ebenfalls eine Vorgängergemeinde von Glarus Nord sei. Bei
+der entsprechenden Qualifikation bietet sich eine Anlehnung an die BO Mollis
+somit ohne Weiteres an. Die Beschwerdeführer legen denn auch nicht
+substantiiert dar, weshalb die Bauordnung einer Vorgängergemeinde von Glarus
+Süd zur Auslegung anzuwenden sei. Hinzu kommt, dass sich die BO Mollis
+explizit zur Auslegung des ausgebauten Dachgeschosses und des Giebelzimmers
+äussert. Gestützt darauf stellte der Beschwerdegegner 3 fest, dass das
+zulässige Mass für ein Giebelzimmers nicht überschritten werde. Es ist nicht
+ersichtlich, inwiefern der Beschwerdegegner 3 durch seine Auslegung Recht
+verletzte oder die Masse gemäss den Planungsunterlagen falsch
+berücksichtigte. Er qualifizierte die projektierten Galeriezimmer zu Recht
+als mit Art. 6 BO vereinbare Giebelzimmer.
+5.2
+5.2.1
+Nach Art. 9 Abs. 3 BO ist der Gemeinderat
+berechtigt, aufgrund eines Überbauungsplans die geschlossene Bauweise zu
+verfügen. Gemäss Art. 62 Abs. 1 BauV bezeichnet die offene Bauweise die
+getrennte Erstellung von Bauten. Das seitliche Zusammenbauen ist dabei nur
+unter Einhaltung der maximalen Gebäudelänge möglich. Bei einer geschlossenen
+Bauweise sind die Bauten seitlich zusammengebaut. Die Gemeinde bestimmt die
+zulässigen Gebäudelängen (Art. 62 Abs. 2 BauV). Eine geschlossene Bauweise
+bildet damit die Vereinigung von zwei oder mehr an sich selbstständigen
+Gebäuden zu einer baulichen Einheit. Kriterien für eine geschlossene Bauweise
+sind insbesondere das Nichteinhalten des seitlichen Grenzabstandes, nur zwei
+freie Fassaden sowie die Überschreitung der zulässigen Gebäudelänge (vgl.
+dazu etwa die Praxis des Verwaltungsgerichts des Kantons Graubünden PVG 1983
+S. 43 E.
+1 f.).
+5.2.2
+Die Gebäudeteile A und B sowie C und D verfügen
+jeweils über ein Treppenhaus, einen Lift und einen Technikraum für die
+Heizung. Sie werden jeweils gemeinsam erschlossen, weshalb die einzelnen
+Gebäudeteile funktionell nicht selbständig sind. Damit kann entgegen der
+Auffassung der Beschwerdeführer nicht von einer geschlossenen Bauweise
+ausgegangen werden, weshalb keine Überbauungsplanpflicht besteht.
+Schliesslich muss zwischen den Gebäudeteilen A und B sowie C und D kein
+Gebäudeabstand berücksichtigt werden, da es sich hierbei wie eben dargelegt
+nicht um eigenständige Gebäude handelt.
+Damit wurden die
+Bauvorschriften eingehalten.
+6.
+Zum Schluss stellt sich
+die Frage, ob die Kostenfolgen des vorinstanzlichen Entscheids als
+mitangefochten zu gelten haben.
+6.1
+Die Beschwerdegegnerin 2 macht geltend, dies sei
+der Fall, weil die Beschwerdeführer die Aufhebung des gesamten
+vorinstanzlichen Entscheids beantragt hätten. Der Beschwerdegegner 3 ist
+hingegen wie die Beschwerdeführer der Meinung, dass sich der Streitgegenstand
+wegen der Dispositionsmaxime nicht auf die vorinstanzlichen Kosten- und
+Entschädigungsfolgen ausdehnen lasse.
+6.2
+Die Beschwerdeführer
+beantragen die Aufhebung von Disp.-Ziffn. 1 und 2 des vor-instanzlichen
+Entscheids. Die vorinstanzlichen Kosten- und Entschädigungsfolgen fechten sie
+nicht an. Mit ihnen und dem Beschwerdegegner 3 ist aufgrund der Dispositionsmaxime
+darin einig zu gehen, dass sich der Streitgegenstand nicht auf die vor-instanzlichen
+Kosten- und Entschädigungsfolgen ausdehnen lässt. So ergibt sich aus Art. 100
+Abs. 3 VRG, dass das Verwaltungsgericht bei seinem Entscheid weder zu Gunsten
+noch zu Ungunsten einer Partei über die gestellten Parteianträge hinausgehen
+darf. Ein Ausnahmetatbestand im Sinne von Art. 100 Abs. 3
+lit. a - lit. c liegt nicht vor. Es hätte der Beschwerdegegnerin 2
+zudem offen gestanden, die vorinstanzlichen Kosten- und Entschädigungsfolgen
+selbst anzufechten, was sie aber unterliess. Schliesslich kennt das kantonale
+Verwaltungsprozessrecht das Institut eines Anschlussrechtsmittels nicht.
+7.
+Zusammenfassend ergibt
+sich, dass die Beschwerde teilweise gutzuheissen ist. Die verkehrsmässige
+Erschliessung der geplanten Überbauung ist ungenügend. Die Baubewilligung ist
+deshalb nur unter der Voraussetzung zu erteilen, dass die Haltekante sowie
+die seitliche Abgrenzung bei der Zufahrt zum streitbetroffenen Grundstück im
+Sinne des Gutachtens um einen Meter zur Kantonsstrasse hin vorverlegt bzw.
+verlängert werden. Die Beschwerdegegner 1 sind dazu anzuhalten, vor Baubeginn
+die entsprechende Lösung sicherzustellen und die dafür notwendigen Bewilligungen
+einzuholen. Im Übrigen ist die Beschwerde abzuweisen.
+III.
+1.
+Gemäss Art. 134 Abs. 1
+lit. c VRG hat eine Partei im Beschwerdeverfahren grundsätzlich amtliche
+Kosten zu tragen, wenn sie unterliegt oder wenn auf ihr Begehren nicht
+eingetreten wurde. Die Beschwerdeführer dringen mit ihrem Hauptantrag auf
+Aufhebung von Disp.-Ziffn. 1 und 2 des vorinstanzlichen Entscheids nicht
+durch. Hingegen obsiegen sie insoweit, als eine rechtsgenügende
+verkehrsmässige Erschliessung noch nachzuholen ist. Es rechtfertigt sich
+daher, die Gerichtskosten von insgesamt Fr. 3'000.- zu je
+drei Achteln den Beschwerdeführern 1 und 2 aufzuerlegen.
+Im Umfang von einem Viertel sind sie den
+Beschwerdegegnern 1 aufzuerlegen. Vom bereits geleisteten Kostenvorschuss in
+der Höhe von Fr. 3'000.- sind den Beschwerdeführern 1 und 2 Fr. 750.-
+zurückzuerstatten.
+2.
+Die in der Hauptsache
+unterliegenden Beschwerdeführer 1 und 2 sind gemäss Art. 138 Abs. 2 VRG
+überdies je zu verpflichten, den Beschwerdegegnern 1 eine reduzierte Parteientschädigung
+von Fr. 1'000.-, insgesamt Fr. 2'000.- (inkl. Mehrwertsteuer), zu bezahlen.
+Den Beschwerdegegnern 2 und 3 steht eine solche mangels Vorliegens besonderer
+Umstände nicht zu (Art. 138 Abs. 4 VRG).
+3.
+Gemäss Art. 53 Abs. 2 BO
+gehen Kosten für Abklärungen und Gutachten bei Bauvorhaben zu Lasten des
+Gesuchstellers. Das Gutachten der I.______AG erwies sich im vorliegenden
+Verfahren zur Beurteilung der verkehrsmässigen Erschliessung als notwendig.
+Bereits die Beschwerdegegnerin 2 wäre dazu angehalten gewesen, die Sache
+durch ein Gutachten abklären zu lassen, weshalb es sich gestützt Art. 53 Abs.
+2 BO rechtfertigt, die dafür angefallenen Kosten der Bauherrschaft bzw. den
+Beschwerdegegnern 1 aufzuerlegen. Daraus folgt, dass die Beschwerdegegner 1
+zu verpflichten sind, dem Verwaltungsgericht die Kosten für das Gutachten der
+I.______AG in der Höhe von Fr. 8'056.65 zurückzuerstatten.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird teilweise gutgeheissen. Die Baubewilligung der Beschwerdegegnerin
+2 vom
+20. März 2013 wird unter die Bedingung gestellt, dass die Beschwerdegegner
+1 vor Baubeginn die verkehrsmässige Erschliessung im Sinne der Erwägungen
+sicherstellen und die dafür notwendigen Bewilligungen einholen. Im Übrigen
+wird die Beschwerde abgewiesen.
+2.
+Die
+pauschale Gerichtsgebühr von Fr. 3'000.- wird zu je
+drei Achteln den Beschwerdeführern 1 und 2 und zu
+einem Viertel den Beschwerdegegnern 1 auferlegt. Von dem von den
+Beschwerdeführern 1 und 2 bereits geleisteten Kostenvorschuss in der Höhe
+von Fr. 3'000.- werden ihnen Fr. 750.- zurückerstattet.
+3.
+Die
+Beschwerdeführer 1 und 2 werden je verpflichtet, innert 30 Tagen nach Rechtskraft
+dieses Entscheids den Beschwerdegegnern 1 eine Parteientschädigung
+Fr. 1'000.-, insgesamt Fr. 2'000.- (inkl. Mehrwertsteuer), zu bezahlen.
+4.
+Die
+Beschwerdegegner 1 werden verpflichtet, dem Verwaltungsgericht die Gutachtenskosten
+in der Höhe von Fr. 8'056.65 zurückzuerstatten.
+5.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
