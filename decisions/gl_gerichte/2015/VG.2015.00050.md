@@ -1,0 +1,344 @@
+---
+decision_id: "gl_gerichte_VG.2015.00050"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2015.00050"
+docket_2: "VG.2015.261"
+decided: "2015-08-13"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=499&W10_KEY=218274&nTrefferzeile=1&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-043.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/837.0/art-001.md", "switzerland/bund/acts/837.0/art-008.md", "switzerland/bund/acts/837.0/art-013.md", "switzerland/bund/acts/837.0/art-015.md", "switzerland/bund/acts/837.0/art-024.md", "switzerland/bund/acts/837.0/art-031.md"]
+---
+
+# GL Gerichte VG.2015.00050
+
+## Regeste
+
+Sozialversicherung - Arbeitslosenversicherung
+
+## Text
+
+Glarus Verwaltungsgericht 13.08.2015 VG.2015.00050 (VG.2015.261)
+Glaris Verwaltungsgericht 13.08.2015 VG.2015.00050 (VG.2015.261)
+Glarona Verwaltungsgericht 13.08.2015 VG.2015.00050 (VG.2015.261)
+
+Sozialversicherung - Arbeitslosenversicherung
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+13. August 2015
+II. Kammer
+in Sachen
+VG.2015.00050
+A.______
+Beschwerdeführer
+vertreten durch
+Rechtsanwalt
+B.______
+dieser substituiert durch
+C.______
+gegen
+Amt für Wirtschaft und Arbeit des Kantons
+Glarus
+Beschwerdegegner
+betreffend
+Arbeitslosenentschädigung
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+A.______ bezieht seit dem 3. März 2014 Leistungen
+der Arbeitslosenversicherung. Mit Verfügung vom 6. Januar 2015 beschloss das
+Amt für Wirtschaft und Arbeit des Kantons Glarus, dass A.______ rückwirkend
+ab dem 1. Oktober 2014 nur noch zu 60 % vermittlungsfähig sei.
+1.2
+Dagegen erhob A.______ mit E-Mail vom 23. Januar
+2015 Einsprache und beantragte, dass die Vermittlungsfähigkeit auf 80 %
+festzulegen sei. Mit Einspracheentscheid vom 2. März 2015 bestätigte das Amt
+für Wirtschaft und Arbeit die Verfügung vom 6. Januar 2015 und kündigte an,
+dass die Vermittlungsfähigkeit von A.______ ab dem 12. Februar 2015 auf 80 %
+zu erhöhen sei.
+2.
+2.1
+Ebenfalls am 2. März 2015 beschloss das Amt für
+Wirtschaft und Arbeit in einer separaten Verfügung, dass A.______ rückwirkend
+ab dem 12. Februar 2015 zu 80 % als vermittlungsfähig gelte.
+2.2
+Gegen letztere Verfügung erhob A.______ am 15.
+April 2015 Einsprache beim Amt für Wirtschaft und Arbeit und beantragte eine
+Erhöhung seiner Vermittlungsfähigkeit auf 100 %. Am 16. April 2015 erhob
+A.______ zudem Verwaltungsgerichtsbeschwerde gegen den Einspracheentscheid
+vom 2. März 2015. Gleichentags leitete das Amt für Wirtschaft und Arbeit
+die Einsprache vom 15. April 2015 an das Verwaltungsgericht weiter, weil es
+sich dafür nicht als zuständig erachtete.
+2.3
+Das Verwaltungsgericht gab A.______ am 23. April
+2015 Gelegenheit, die Beschwerde vom 16. April 2015 mit den Anträgen der
+Einsprache vom 15. April 2015 zu ergänzen. Am 13. Mai 2015 reichte A.______
+seine Beschwerdeergänzung ein. Er beantragte sinngemäss die Aufhebung des
+angefochtenen Einspracheentscheids vom 2. März 2015 sowie der
+gleichentags erlassenen Verfügung bezüglich Erhöhung seiner
+Vermittlungsfähigkeit auf 80 %. Die Angelegenheit sei im Sinne der Erwägungen
+an die Vorinstanz zurückzuweisen. Zudem sei vom Gericht festzustellen, zu
+welchem Zeitpunkt er zu welchem Grade als vermittlungsfähig gelte; unter
+Kosten und Entschädigungsfolge zu Lasten des Amts für Wirtschaft und Arbeit.
+Das Amt für Wirtschaft und
+Arbeit schloss am 16. Juni 2015 auf Abweisung der Beschwerde.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 1 Abs. 1 des
+Bundesgesetzes über die obligatorische Arbeitslosenversicherung und die
+Insolvenzentschädigung vom 25. Juni 1982 (AVIG) i.V.m. Art. 56 und Art. 57
+des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts
+vom 6. Oktober 2000 (ATSG) i.V.m. Art. 12 Abs. 2 des Einführungsgesetzes
+zum Bundesgesetz über die obligatorische Arbeitslosenversicherung und die
+Insolvenzentschädigung vom 6. Mai 1984 (EG AVIG) zur Behandlung der
+vorliegenden Beschwerde zuständig. Da auch die übrigen Prozessvoraussetzungen
+erfüllt sind, ist auf die Beschwerde einzutreten.
+1.2
+Der Beschwerdeführer beantragte in seiner Einsprache
+vom 23. Januar 2015 lediglich, dass seine Vermittlungsfähigkeit auf 80 %
+festzusetzen sei, während er in der vorliegenden Beschwerde von einer
+Vermittlungsfähigkeit von 100 % ausgeht. Der Beschwerdeführer ist an seinen
+im Einspracheverfahren gestellten Antrag nicht gebunden, sondern darf im
+Beschwerdeverfahren mehr verlangen. Dies ergibt sich sachlogisch daraus, dass
+das Gericht nicht an die Parteianträge gebunden ist und der Beschwerde
+führenden Person sogar mehr zusprechen kann, als sie verlangt hat (Art. 61
+lit. d ATSG).
+1.3
+Hinzuweisen ist sodann darauf, dass das prozessuale
+Vorgehen des Beschwerdegegners nicht zweckmässig ist. In seiner Verfügung vom
+6. Januar 2015 setzte er die Vermittlungsfähigkeit des Beschwerdeführers ab
+dem 1. Oktober 2014 auf 60 % fest. In seinem Einspracheentscheid vom 2. März
+2015 gab er zu erkennen, dass er ab dem 12. Februar 2015 von einer
+Vermittlungsfähigkeit von 80 % ausgehe. Da der Einspracheentscheid die
+Verfügung ersetzt (Ueli Kieser, ATSG-Kommentar, 2. A., Zürich/Basel/Genf
+2009, Art. 52 N. 39), war es nicht angezeigt, eine zusätzliche Verfügung über
+die Vermittlungsfähigkeit ab dem 12. Februar 2015 zu erlassen und hierzu in
+der Rechtsmittelbelehrung auf die Einsprachemöglichkeit zu verweisen.
+Vielmehr hätte die Einsprache teilweise gutgeheissen werden müssen und die
+entsprechende Festsetzung der Vermittlungsfähigkeit ab dem 12. Februar 2015
+im Dispositiv des beim Verwaltungsgericht anfechtbaren Einspracheentscheids
+erfolgen sollen.
+2.
+2.1
+Der Versicherte hat Anspruch auf
+Arbeitslosenentschädigung, wenn er unter anderem vermittlungsfähig ist (Art.
+8 Abs. 1 lit. f AVIG). Er ist vermittlungsfähig, wenn er bereit, in der Lage
+und berechtigt ist, eine zumutbare Arbeit anzunehmen und an Eingliederungsmassnahmen
+teilzunehmen (Art. 15 Abs. 1 AVIG).
+2.2
+Arbeitnehmer, deren normale Arbeitszeit verkürzt
+oder deren Arbeit ganz eingestellt ist, haben nach Art. 31 Abs. 1 AVIG unter
+bestimmten Voraussetzungen (lit. a - d) Anspruch auf
+Kurzarbeitsentschädigung. Dieser Anspruch besteht gemäss Art. 31 Abs. 3
+lit. c AVIG hingegen nicht für Personen, die in ihrer Eigenschaft als Gesellschaf-ter,
+als finanziell am Betrieb Beteiligte oder als Mitglieder eines obersten Entschei-dungsgremiums
+die Entscheidungen des Arbeitgebers bestimmen oder massgeblich beeinflussen
+können, sowie ihre mitarbeitenden Ehegatten. Gemäss ständiger Recht-sprechung
+wird Art. 31 Abs. 3 lit. c AVIG analog auf arbeitgeberähnliche Personen angewandt,
+welche Arbeitslosenentschädigung beantragen. Damit soll nicht nur dem ausgewiesenen
+Missbrauch an sich begegnet werden, sondern bereits dem Risiko eines solchen,
+das der Ausrichtung von Arbeitslosenentschädigung an arbeitgeberähnliche
+Personen inhärent ist (BGE 123 V 234 E. 7, mit Hinweisen; zuletzt bestätigt
+in BGer-Urteil BGer 8C_729/2014 vom 18. November 2014). Der Leistungsausschluss
+von Personen mit arbeitgeberähnlicher Stellung ist dabei absolut zu verstehen,
+weshalb kein Rechtsmissbrauch bzw. keine absichtliche Rechtsumgehung von
+Kurzarbeit und damit analog auch nicht von Arbeitslosenentschädigung
+nachgewiesen werden muss (AVIG-Praxis, ALE, Oktober 2012, Rz. B15).
+2.3
+Eine arbeitgeberähnliche Stellung kann auf der Eigenschaft
+als Gesellschafter, auf einer finanziellen Beteiligung am Betrieb oder auf
+der Teilhabe an der Betriebsleitung beruhen. Alle drei Formen der arbeitgeberähnlichen
+Funktionen führen aber nur dann zum Leistungsausschluss, wenn der betreffende
+Arbeitnehmer die Entscheidungen des Arbeitgebers bestimmen oder zumindest
+massgeblich beeinflussen kann (Thomas Nussbaumer, in Ulrich Meyer [Hrsg.],
+Schweizerisches Bundesverwaltungsrecht, Bd. XIV, Soziale Sicherheit, 2.
+A., Basel 2007, O. Rz. 463). Wenn sich die Möglichkeit, die
+Entscheidungen des Arbeitgebers zu bestimmen oder massgeblich zu beeinflussen,
+bereits aus dem Gesetz ergibt, kann eine Einzelfallprüfung, welche Entscheidungsbefugnisse
+einer Person aufgrund der internen betrieblichen Struktur tatsächlich zukommen,
+unterbleiben (vgl. BGE 123 V 234 E. 7a, 122 V 270 E. 3; BGer-Urteil
+8C_729/2014 vom 18. November 2014 E. 2).
+2.4
+Sowohl das Verwaltungsverfahren wie auch der
+kantonale Sozialversicherungsprozess unterstehen dem Untersuchungsprinzip
+(Art. 43 Abs. 1 und Art. 61 lit. c ATSG). Danach haben Verwaltung und
+Sozialversicherungsgericht den rechtserheblichen Sachverhalt von Amtes wegen
+festzustellen. Diese Untersuchungspflicht dauert so lange, bis über die für
+die Beurteilung des streitigen Anspruchs erforderlichen Tatsachen
+hinreichende Klarheit besteht (BGer-Urteil 8C_382/2010 vom 1. Juli 2010
+E. 3.2.1).
+3.
+3.1
+Der Beschwerdeführer macht geltend, dass der
+Beschwerdegegner seine Vermittlungsfähigkeit per 1. Oktober 2014 auf 60 %
+herabgesetzt habe, ohne den genauen Status seiner unselbständigen
+Erwerbsfähigkeit zu überprüfen. Damit habe dieser seine Abklärungspflicht im
+Sinne von Art. 43 ATSG verletzt. Bei der Anmeldung vom 3. März 2014 für
+Leistungen aus der Arbeitslosenversicherung habe er deklariert, zu 100 %
+vermittlungsfähig zu sein. Nach sieben Monaten Arbeitslosigkeit habe er beschlossen,
+in der einst von ihm gegründeten D.______AG einen Zwischenverdienst zu
+erwirtschaften. Er habe sämtliche Einnahmen deklariert und dem
+Beschwerdegegner erklärt, dass er seine Beschäftigung in der D.______AG nicht
+als eine auf Dauer ausgerichtete Erwerbstätigkeit erachte und jederzeit
+bereit sei, diese zu Gunsten einer festen Anstellung aufzugeben. Die
+Ausgleichskasse des Kantons Glarus habe seine Anmeldung als Arbeitnehmer
+akzeptiert, was bereits belege, dass es sich dabei um eine unselbständige
+Tätigkeit gehandelt habe. Ein weiterer Beleg sei die Verfügung vom
+16. Januar 2015, mit welcher er zur 100%igen Teilnahme an
+arbeitsrechtlichen Massnahmen verpflichtet worden sei. Seine
+Vermittlungsfähigkeit habe seit seiner Anmeldung bei der Arbeitslosenversicherung
+100 % betragen. Eventualiter sei seine Vermittlungsfähigkeit vom 1. Oktober
+2014 bis 31. Dezember 2014 auf 80 % festzulegen, wie er dies als Rechtsunkundiger
+verlangt habe. Ab dem 1. Januar 2015 habe er keinen Zwischenverdienst bei der
+D.______AG mehr erzielt, weshalb seine Vermittlungsfähigkeit ab diesem
+Zeitpunkt 100 % betrage und er mit deren Erhöhung von 60 % auf 80 % ab dem
+12. Februar 2015 nicht einverstanden sei.
+3.2
+Der Beschwerdegegner entgegnet, dass die Anpassung
+der Vermittlungsfähigkeit des Beschwerdeführers auf 60 % aufgrund seiner
+eigenen Angaben erfolgt sei. So habe er am 29. Dezember 2014 mitgeteilt, dass
+er wieder für die D.______AG tätig sei und sich noch zu 60 % der Vermittlung
+zur Verfügung stelle. Der Beschwerdeführer sei mit einem Merkblatt darauf
+hingewiesen worden, dass eine Ausdehnung bzw. Reduktion einer auf Dauer
+ausgerichteten selbständigen Erwerbstätigkeit nur einmalig erfolgen könne. Am
+23. Januar 2015 habe der Beschwerdeführer verlangt, dass seine Vermittlungsfähigkeit
+auf 80 % festzulegen sei. Mit Verfügung vom 2. März 2015 sei die einmalig
+mögliche Anpassung auf 80 % erfolgt. Die Tätigkeit bei der D.______AG sei
+eine auf Dauer ausgerichtete selbständige Erwerbstätigkeit, was sich daraus
+ergebe, dass der Beschwerdeführer gemäss Handelsregister
+einzelunterschriftsberechtigt sei. Er nehme eine arbeitgeberähnliche Stellung
+ein. Im Übrigen sei die Angabe bezüglich Beschäftigungsgrad in der Verfügung
+vom 16. Januar 2015 fehlerhaft gewesen. Die Personalberaterin des Regionalen
+Arbeitsvermittlungszentrums habe dies jedoch gegenüber dem Beschwerdeführer
+umgehend richtig gestellt. Dementsprechend habe er auch nur in einem Pensum
+von 60 % an der arbeitsrechtlichen Massnahme teilgenommen. Die vorliegende
+Beschwerde sei der Versuch des Beschwerdeführers, sein Unternehmerrisiko von
+Schwankungen in der Auftragslage bzw. des damit verbundenen Beschäftigungsgrads
+auf die Arbeitslosenversicherung abzuwälzen.
+4.
+4.1
+In tatsächlicher Hinsicht ist festzuhalten, dass
+die D.______AG seit dem 24. Dezember 1997 im Handelsregister des Kantons
+Glarus eingetragen ist und der Beschwerdeführer ab diesem Zeitpunkt als
+Gesellschafter mit Einzelzeichnungsberechtigung auftritt. Daraus folgt, dass
+der Beschwerdeführer entgegen seiner Ansicht als arbeitgeberähnliche Person
+zu qualifizieren ist, da es ihm von Gesetzes wegen (vgl. Art. 804 ff.
+des Obligationenrechts vom 30. März 1911 [OR]) möglich war, auf den Geschäftsgang
+Einfluss zu nehmen, was er durch den Handelsregistereintrag Dritten gegenüber
+verbindlich kundgab (vgl. Nussbaumer, O. Rz. 463).
+4.2
+Die Tatsache, dass ein Versicherter eine
+juristische Person gründet und im Handelsregister eintragen lässt, in welcher
+er eine arbeitgeberähnliche Stellung einnimmt, genügt für sich allein jedoch
+nicht, um bereits auf eine auf Dauer ausgerichtete und nicht bloss vorübergehende
+selbständige Erwerbstätigkeit zu schliessen (BGer-Urteil 8C_81/2009 vom 27.
+August 2009 E. 3.4). Dem Versicherten ist nach Verlust einer während
+mindestens sechs Monaten ausgeübten Arbeitnehmertätigkeit in einem Drittbetrieb
+die Berechtigung zum Bezug von Arbeitslosenentschädigung zuzuerkennen, selbst
+wenn die arbeitgeberähnliche Stellung im Erstbetrieb noch andauert
+(BGer-Urteil C 171/03 vom 31. März 2004; AVIG-Praxis, Rz. B30). In solchen
+Fällen ist Art. 31 Abs. 3 lit. c AVIG nicht analog anwendbar und es ist
+zu prüfen, ob aufgrund der Tätigkeit in arbeitgeberähnlicher Stellung die
+Vermittlungsfähigkeit noch gegeben ist (AVIG-Praxis, Rz. B14).
+4.3
+Der Beschwerdeführer ist nach eigenen Angaben
+während den letzten Jahren zu 100 % bei der E.______AG angestellt gewesen,
+was vom Beschwerdegegner nicht bestritten wird. Es ist deshalb ohne Weiteres
+davon auszugehen, dass er während den letzten sechs Monaten vor der Anmeldung
+bei der Arbeitslosenversicherung eine Arbeitnehmertätigkeit ausübte und die
+Mindestbeitragszeit von insgesamt zwölf Monaten ebenfalls erfüllt hat (Art.
+13 Abs. 1 AVIG; AVIG-Praxis, Rz. B30).
+4.4
+Das subjektive Element und damit unabdingbare
+Voraussetzung der Vermittlungsfähigkeit ist die Vermittlungsbereitschaft,
+welche
+auf die Suche und Annahme einer
+unselbstständigen Erwerbstätigkeit im Rahmen des gewünschten Beschäftigungsgrades
+gerichtet sein muss. Die versicherte Person muss im Rahmen ihrer Schadenminderungspflicht
+auch bereit sein, zumutbare befristete Beschäftigungen oder auch Zwischenverdienste
+anzunehmen
+(Art. 15 Abs. 1 AVIG;
+AVIG-Praxis, Rz. B215, B220).
+Ab dem 3. März 2014 galt
+der Beschwerdeführer als zu 100 % vermittlungsfähig. Bei der Deklaration
+seiner selbständigen Tätigkeit gab der Beschwerdeführer am 29. Dezember
+2014 gegenüber dem Beschwerdegegner an, dass er sich der Arbeitsvermittlung
+zu 60 % zur Verfügung stelle. Ebenfalls gab er an, dass er jederzeit bereit
+wäre, seine selbständige Tätigkeit zu Gunsten einer unselbständigen
+Anstellung aufzugeben und dass die selbständige Erwerbstätigkeit nicht auf
+Dauer ausgerichtet sei. Gegen die folglich erfolgten Anpassungen seiner
+Vermittlungsfähigkeit erhob der Beschwerdegegner jeweils umgehend Einsprache
+bzw. Beschwerde, was gesamthaft darauf hindeutet, dass sich der Beschwerdeführer
+subjektiv stets zu 100  % der Vermittlung zur Verfügung stellen wollte.
+4.5
+Der Beschwerdeführer gab gegenüber dem
+Beschwerdegegner an, für seine selbständige Erwerbstätigkeit Investitionen
+von rund Fr. 4'400.- getätigt zu haben. Er zahlte sich während den Monaten
+Oktober bis Dezember 2014 durchschnittlich Fr. 1'656.66 Lohn aus und
+deklarierte diesen jeweils als Zwischenverdienst. Nach eigenen Angaben war er
+ab dem 1. Januar 2015 nicht mehr für die D.______AG tätig und trat ab dem
+12. Februar 2015 einen Zwischenverdienst bei der F.______AG im Umfang
+von 80 % an, obwohl er beim Beschwerdegegner zu diesem Zeitpunkt nur zu 60  %
+als vermittlungsfähig galt. Daraus ergibt sich, dass es sich beim Einsatz des
+Beschwerdeführers bei der D.______AG um eine vorübergehende, zeitlich
+beschränkte und investitionsarme Erwerbstätigkeit handelte, die als
+Zwischenverdiensttätigkeit im Sinne von Art. 24 AVIG zu qualifizieren ist
+(vgl. Nussbaumer, O. Rz. 417).
+4.6
+Obwohl der Beschwerdeführer mit seinen Angaben bei
+der Deklaration seiner selbständigen Tätigkeit zu den verfügten Anpassungen
+seiner Vermittlungsfähigkeit beigetragen hat, gab er dem Beschwerdegegner
+doch unmissverständlich zu verstehen, dass er diese Tätigkeit jederzeit zu
+Gunsten einer festen Anstellung aufgeben würde. Daneben führte er auch aus,
+dass er die selbständige Erwerbstätigkeit nur als Beschäftigung sehe, um fit
+zu bleiben und um die Arbeitslosenversicherung zu entlasten.
+Da er neben dem
+subjektiven Element auch die übrigen Voraussetzungen der Vermittlungsfähigkeit
+im Sinne von Art. 15 Abs. 1 AVIG erfüllt, hat er seit seiner Anmeldung bei
+der Arbeitslosenversicherung am 3. März 2014 durchgehend als zu 100  %
+vermittlungsfähig zu gelten. Die selbständige Erwerbstätigkeit des Beschwerdeführers
+ist als vorübergehende Zwischenverdiensttätigkeit zu qualifizieren, weshalb
+sowohl der Einspracheentscheid vom 2. März 2015 als auch die gleichentags
+erlassene Verfügung aufzuheben sind. Die Angelegenheit ist zwecks
+Neuberechnung des Leistungsanspruchs an die Vorinstanz zurückzuweisen. Damit
+kann offen bleiben, ob der Beschwerdegegner seine Untersuchungspflicht im
+Sinne von Art. 43 Abs. 1 ATSG verletzt hat.
+Dies führt zur Gutheissung
+der Beschwerde. Die Verfügung vom 2. März 2015 sowie der Einspracheentscheid
+des Beschwerdegegners vom 2. März 2015 sind aufzuheben und die Sache ist
+im Sinne der Erwägungen an diesen zurückzuweisen.
+III.
+1.
+Die Gerichtskosten sind
+von Gesetzes wegen auf die Staatskasse zu nehmen (Art. 1 Abs. 1 AVIG i.V.m. Art.
+61 lit. a ATSG).
+2.
+Bei diesem
+Verfahrensausgang hat der Beschwerdeführer Anspruch auf Ersatz der
+Parteikosten (Art. 61 lit. g ATSG). Der Beschwerdegegner ist zu verpflichten,
+dem Beschwerdeführer innert 30 Tagen nach Rechtskraft dieses Entscheids eine
+Parteientschädigung in der Höhe von Fr. 1'800.- (inkl. Mehrwertsteuer)
+zu bezahlen.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird gutgeheissen. Die Verfügung vom 2. März 2015 sowie der
+Einspracheentscheid des Beschwerdegegners vom 2. März 2015 werden
+aufgehoben und die Sache wird im Sinne der Erwägungen an diesen zurückgewiesen.
+2.
+Die
+Gerichtskosten werden auf die Staatskasse genommen.
+3.
+Der
+Beschwerdegegner wird verpflichtet, dem Beschwerdeführer innert 30 Tagen
+nach Rechtskraft dieses Entscheids eine Parteientschädigung in der Höhe von
+Fr. 1'800.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
