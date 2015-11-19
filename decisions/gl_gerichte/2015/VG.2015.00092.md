@@ -1,0 +1,370 @@
+---
+decision_id: "gl_gerichte_VG.2015.00092"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2015.00092"
+docket_2: "VG.2015.309"
+decided: "2015-11-19"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=547&W10_KEY=218274&nTrefferzeile=1&Template=simple/search_result_document.html"
+---
+
+# GL Gerichte VG.2015.00092
+
+## Regeste
+
+Steuern
+
+## Text
+
+Glarus Verwaltungsgericht 19.11.2015 VG.2015.00092 (VG.2015.309)
+Glaris Verwaltungsgericht 19.11.2015 VG.2015.00092 (VG.2015.309)
+Glarona Verwaltungsgericht 19.11.2015 VG.2015.00092 (VG.2015.309)
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+19. November 2015
+I. Kammer
+in Sachen
+VG.2015.00092
+A.______
+Beschwerdeführer
+vertreten
+durch Rechtsanwalt B.______
+gegen
+1.
+Steuerverwaltung des Kantons Glarus
+Beschwerdegegnerinnen
+2.
+Steuerrekurskommission des Kantons Glarus
+3.
+Eidgenössische Steuerverwaltung
+betreffend
+Hauptsteuerdomizil
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+A.______ lebt seit dem 1. November 2003 zusammen mit
+einem Wohnpartner in einer Wohnung in X.______ und ist dort steuerpflichtig.
+Am 16. Oktober 2013 erliess die Steuerverwaltung des Kantons Glarus
+einen Vorbescheid, wonach der steuerliche Wohnsitz von A.______ seit der
+Steuerperiode 2013 in der Gemeinde Y.______ liege. Daran hielt sie mit
+Einspracheentscheid vom 20. Mai 2014 fest.
+1.2
+A.______ erhob in der Folge am 18. Juni 2014
+gegen den Einspracheentscheid Rekurs bei der Steuerrekurskommission und
+beantragte im Wesentlichen die Aufhebung des Einspracheentscheids. Die
+Steuerrekurskommission wies den Rekurs am 11. Mai 2015 ab, soweit sie
+darauf eintrat.
+2.
+2.1
+Dagegen gelangte A.______ mit Beschwerde vom 23.
+Juli 2015 ans Verwaltungsgericht. Er beantragte die Aufhebung des
+Rekursentscheids der Steuerrekurskommission. Es sei festzustellen, dass sein
+steuerlicher Wohnsitz in X.______, nicht in Y.______ liege. Sodann sei
+festzustellen, dass er ab der Steuerperiode 2013 nicht im Kanton Glarus bzw.
+in der Gemeinde Y.______ steuerpflichtig sei. Eventualiter sei festzustellen,
+dass er aufgrund des Dienstbarkeitsvertrags vom 3. Juli 2013 ab der
+Steuerperiode 2013 im Kanton Glarus beschränkt steuerpflichtig sei; unter
+Kosten- und Entschädigungsfolgen.
+2.2
+Die Steuerverwaltung beantragte am 13. August 2015
+die Abweisung der Beschwerde. Den gleichen Antrag stellte die
+Steuerrekurskommission am 15. September 2015.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 166
+Abs. 1 des Steuergesetzes vom 7. Mai 2000 (StG) i.V.m.
+Art. 105 Abs. 1 lit. e des Gesetzes über die Verwaltungsrechtspflege
+vom 4. Mai 1986 (VRG) zur Behandlung der vorliegenden Beschwerde zuständig.
+1.2
+1.2.1
+Gemäss Art. 73 Abs. 1 VRG kann die in der Sache
+zuständige Behörde über den Bestand, den Nichtbestand oder den Umfang
+öffentlich-rechtlicher Rechte oder Pflichten auf Antrag einer Partei oder von
+Amtes wegen einen Feststellungsentscheid treffen. Dem Begehren um eine
+Feststellungsverfügung ist zu entsprechen, wenn die gesuchstellende Person
+ein schutzwürdiges Interesse an der Feststellung nachweist. Ein
+Feststellungsanspruch besteht regelmässig dann nicht, wenn die
+gesuchstellende Person in der betreffenden Angelegenheit ein
+Gestaltungsurteil erwirken kann; in diesem Sinn ist der Feststellungsanspruch
+subsidiär (Jürg Bosshart/Martin Bertschi, in Alain Griffel [Hrsg.], Kommentar
+zum Verwaltungsrechtspflegegesetz des Kantons Zürich, 3. A., Zürich/Basel/Genf
+2014, § 19 N. 24 und 26).
+1.2.2
+Dringt der Beschwerdeführer mit seinem Hauptantrag
+auf Aufhebung des angefochtenen Rekursentscheids durch, bleibt ohne Weiteres X.______
+sein Hauptsteuerdomizil. Insofern besteht kein Interesse daran, dass
+zusätzlich festgestellt wird, sein steuerlicher Wohnsitz sei in X.______ bzw.
+er sei nicht in Y.______ steuerpflichtig. Auf die entsprechenden
+Feststellungsbegehren ist nicht einzutreten. Ebenso wenig ist auf sein Eventualbegehren,
+wonach festzustellen sei, er sei in Y.______ aufgrund des Dienstbarkeitsvertrags
+beschränkt steuerpflichtig, einzutreten. Gegenstand des vorliegenden Verfahrens
+bildet nämlich einzig die Frage nach dem steuerlichen Wohnsitz im Sinne von
+Art. 3 StG.
+2.
+Unter dem Wohnsitz im
+Sinne von Art. 3 Abs. 1 und 2 StG und der bundesgerichtlichen Rechtsprechung
+zum Verbot der interkantonalen Doppelbesteuerung gemäss Art. 127 Abs. 3
+der Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999
+(BV) ist in der Regel der zivilrechtliche Wohnsitz zu verstehen, d.h. der
+Ort, wo sich eine Person mit der Absicht dauernden Verbleibens aufhält (Art.
+23 Abs. 1 des Schweizerischen Zivilgesetzbuchs vom 10. Dezember 1907 [ZGB];
+vgl. auch Art. 3 Abs. 2 des Bundesgesetzes über die Harmonisierung
+der direkten Steuern der Kantone und Gemeinden vom 14. Dezember 1990 [StHG])
+bzw. wo sich der Mittelpunkt ihrer Lebensinteressen befindet. Dem
+polizeilichen Domizil, wo die Schriften hinterlegt sind oder wo die
+politischen Rechte ausgeübt werden, kommt dagegen keine entscheidende
+Bedeutung zu. Das sind bloss äussere Merkmale, die Indizien für den steuerrechtlichen
+Wohnsitz bilden können, wenn auch das übrige Verhalten der Person dafür
+spricht. Der Mittelpunkt der Lebensinteressen bestimmt sich für die
+Steuerhoheit nach der Gesamtheit der objektiven, äusseren Umstände, aus denen
+sich diese Interessen erkennen lassen, nicht nach den bloss erklärten
+Wünschen der steuerpflichtigen Person. Auf die gefühlsmässige Bevorzugung
+eines Ortes kommt es nicht an, der steuerrechtliche Wohnsitz ist insofern
+nicht frei wählbar. Die Frage, zu welchem der Aufenthaltsorte die
+steuerpflichtige Person die stärkeren Beziehungen hat, ist aufgrund der
+Gesamtheit der Umstände des Einzelfalls zu beurteilen (BGer-Urteil
+2P.303/2006 vom 1. März 2007 E. 2.2, 2P.186/2004 vom 15. Februar 2005 E. 2.2,
+je mit Hinweisen).
+3.
+3.1
+Die Beschwerdegegnerin 1 stützte ihren
+Entscheid darauf, dass sie diverse Hinweise aus der Bevölkerung erhalten
+habe, wonach sich der Beschwerdeführer vornehmlich in Y.______ aufhalte und
+auch dort wohne. Auch Mitarbeitende der Steuerverwaltung hätten an diversen
+Tagen beobachtet, wie der Beschwerdeführer zu den ordentlichen Pendlerzeiten
+am Morgen von Y.______ nach Z.______ und am Abend wieder zurück fahre.
+Zeugenprotokolle würden indessen nicht vorliegen. Soweit der Beschwerdeführer
+erwähne, dass ihm in der Liegenschaft in Y.______ ein Notbett zur Verfügung
+stehe, bestehe ein Widerspruch zur Tatsache, dass ihm das vollumfängliche
+Nutzniessungsrecht an dieser Liegenschaft zustehe. In der Beschwerdeantwort
+führt der Hauptabteilungsleiter der Beschwerdegegnerin 1 schliesslich
+aus, auch er habe den Beschwerdeführer im Juli/August 2015 dreimal auf dem
+Weg von Z.______ nach Y.______ gekreuzt.
+3.2
+Die Beschwerdegegnerin 2 führte in ihrem
+Rekursentscheid aus, der Beschwerdeführer habe nach eigener Darstellung eine
+enge und fürsorgliche Beziehung zu seinem Sohn, welcher zusammen mit seiner
+Mutter in Y.______ lebe. Dies ergebe sich auch durch den
+Dienstbarkeitsvertrag vom 3. Juli 2013, wonach sämtliche Kosten der durch den
+Sohn und dessen Mutter bewohnten Liegenschaft zu Lasten des Beschwerdeführers
+gingen. Insgesamt bestehe die natürliche Vermutung, dass sich das
+Hauptsteuerdomizil des Beschwerdeführers in Y.______, am Ort, wo die
+familiären Banden gepflegt würden, befinde. Sodann könnten die in X.______
+gepflegten Kontakte und Beziehungen aufgrund des grossen Arbeitsvolumens des
+Beschwerdeführers in Z.______, der Pflege der familiären Banden in Y.______
+sowie der umfangreichen Auslandaufenthalte gar nicht mehr so intensiv sein.
+Werde nicht das Hauptsteuerdomizil in Y.______ bestimmt, käme schliesslich
+vor X.______ noch der Arbeitsort Z.______ in Frage.
+3.3
+Der Beschwerdeführer macht geltend, er sei im
+November 2003 aus Z.______ weggezogen und seither ununterbrochen in X.______
+gemeldet. Er habe mehrfach dargelegt, dass er sehr vielfältige, langjährige
+und enge Beziehungen zu X.______ unterhalte, welche die Intensität der
+Beziehungen zu Z.______ oder Y.______ übersteigen würden. Hierzu habe er im
+vorinstanzlichen Verfahren zahlreiche Zeugen benannt. Es gehe sodann nicht
+an, dass die Vorinstanz den Arbeitsort Z.______ und die familiäre Bindung zum
+Sohn in Y.______ kombiniere, um X.______ als Steuerdomizil auszuschliessen. Z.______
+und Y.______ seien zwei verschiedene Steuergemeinden und somit zwei verschiedene
+(mögliche) Steuerdomizile. Z.______ falle als Steuerdomizil von vornherein
+ausser Betracht, da er dort lediglich arbeite, aber nicht übernachte. In Y.______
+unterhalte er einzig eine Beziehung zu seinem Sohn, welchen er regelmässig
+besuche. Dies sei nicht ausreichend, um den Mittelpunkt der Lebensinteressen
+von X.______ nach Y.______ zu verlegen. Daran ändere auch der Dienstbarkeitsvertrag
+vom 3. Juli 2013 nichts, da die dort vereinbarte Kostenübernahme in erster
+Linie der finanziellen Absicherung seines Sohnes diene.
+4.
+4.1
+Der Steuerwohnsitz ist als steuerbegründende
+Tatsache grundsätzlich von der Steuerbehörde nachzuweisen (BGer-Urteil
+2C_785/2011 vom 1. März 2012 E. 2.3, 2C_726/2010 vom 25. Mai 2011 E. 2.3,
+2P.303/2006 vom 1. März 2007 E. 2.2, 2P.186/2004 vom 15. Februar 2005 E. 2.2,
+je mit Hinweisen). Die objektive Beweislast liegt demnach vollumfänglich bei
+der Steuerbehörde. Immerhin kann der steuerpflichtigen Person der Gegenbeweis
+für die Aufgabe des bisherigen Wohnsitzes oder das Vorliegen eines ausserkantonalen
+Wohnsitzes auferlegt werden, wenn die von der Einschätzungsbehörde
+angenommene subjektive Steuerpflicht als sehr wahrscheinlich gilt (Felix
+Richner et al., Kommentar zum Zürcher Steuergesetz, 3. A., Zürich 2013, § 3
+N. 86).
+4.2
+In der Praxis wurde beispielsweise verlangt, dass
+ein Steuerpflichtiger, welcher sein Hauptsteuerdomizil während rund 35 Jahren
+im Kanton Luzern hatte, die Verlegung des Hauptsteuerdomizils in den Kanton
+Nidwalden nachzuweisen habe (BGer-Urteil 2P.186/2004 vom 15. Februar 2005).
+Ebenso wurde einem Steuerpflichtigen, der bis ins Jahr 2000 vom Kanton Bern
+besteuert worden war und es auch nach dem Jahr 2003 wieder wurde, nachdem er
+mit seiner Partnerin ein eigenes Haus bezogen hatte, der Gegenbeweis
+auferlegt, dass er in der Zwischenzeit im Kanton Schwyz ein Steuerdomizil begründet
+habe (BGer-Urteil vom 2P.203/2006 vom 1. März 2006).
+Davon unterscheidet sich
+der vorliegende Fall massgeblich dadurch, dass der Beschwerdeführer nicht
+eine Verlegung seines Steuerdomizils geltend macht und die Beschwerdegegnerin
+1 die Steuerhoheit weiterhin für sich beansprucht, sondern dass der
+Beschwerdeführer seinen steuerrechtlichen Wohnsitz seit dem Jahr 2003 in X.______
+hat und die Beschwerdegegnerin 1 ihre Steuerhoheit in Y.______ neu geltend
+macht. Bei einer solchen Konstellation sind die Voraussetzungen, um dem Steuerpflichtigen
+den Gegenbeweis aufzuerlegen, strenger.
+In den Akten liegt zwar
+ein Dienstbarkeitsvertrag vom 3. Juli 2013, wonach der Beschwerdeführer
+einerseits das Recht auf den Besitz, Gebrauch und die Nutzung der von seinem
+Sohn und dessen Mutter bewohnten Liegenschaft in Y.______ hat, anderseits
+verpflichtet ist, die derzeit auf dem belasteten Grundstück haftenden Grundpfandschulden
+zu verzinsen und die mit der Liegenschaft verbundenen Unterhaltskosten,
+Steuern, öffentlich-rechtlichen Abgaben, Versicherungsprämien etc. zu übernehmen.
+Dieser Dienstbarkeitsvertrag ist zwar ein wesentliches Indiz dafür, dass sich
+der Lebensmittelpunkt des Beschwerdeführers von X.______ nach Y.______
+verschoben hat und er entgegen seiner Darstellung nicht nur ausnahmsweise in Y.______
+auf einem Notbett übernachtet. Indessen reicht dies noch nicht aus, um davon
+auszugehen, die subjektive Steuerpflicht des Beschwerdeführers sei in Y.______.
+Damit bleibt es aber dabei, dass die Beschwerdegegnerin 1 vollumfänglich
+beweisbelastet ist.
+4.3
+Soweit die Vorinstanzen dem Beschwerdeführer
+vorwerfen, er bringe nichts vor, was belegen würde, dass er seinen
+steuerrechtlichen Wohnsitz in X.______ habe, mag das wohl zutreffen. Indessen
+bleibt dies unerheblich, da er nicht nachweisen muss, dass sein
+Lebensmittelpunkt in X.______ ist, sondern wie dargelegt die Beschwerdegegnerin 1,
+welche die Steuerhoheit ab 2013 für sich beansprucht, beweisbelastet ist.
+4.4
+Die Beschwerdegegnerin 1 leitet den
+steuerrechtlichen Wohnsitz Y.______ im Wesentlichen aus Hinweisen aus der
+Bevölkerung und Beobachtungen ihrer Mitarbeitenden ab.
+Gemäss Art. 51 Abs. 1 VRG
+kann die Behörde zwar von vertrauenswürdigen und zur Auskunft fähigen
+privaten Personen mündliche oder schriftliche Auskünfte einholen. Vor einer
+Befragung sind aber die Personalien festzustellen und die Beziehungen des
+Befragten zu den Parteien und zur Angelegenheit abzuklären; eine mündlich
+erteilte Auskunft muss zudem in einem Protokoll festgehalten werden (Art. 51
+Abs. 2 VRG).
+Die Beschwerdegegnerin 1
+hat es unterlassen, die ihr offenbar mündlich erteilten Auskünfte schriftlich
+festzuhalten. Ebenso wenig wurden die Personalien der Auskunftspersonen
+festgehalten. Damit kommt ihren entsprechenden Vorbringen keinerlei Beweisqualität
+zu, weshalb darauf nicht abzustellen ist.
+4.5
+Dass sich der steuerrechtliche Wohnsitz des
+Beschwerdeführers nicht mehr in X.______, sondern in Y.______ befindet,
+liesse sich somit einzig mit dem Dienstbarkeitsvertrag und mit der gemäss
+eigenen Angaben des Beschwerdeführers intensiv gelebten Beziehung zu seinem
+Sohn, welcher mittlerweile die Matura absolviert haben dürfte, begründen.
+Dabei handelt es sich aber lediglich um Indizien dafür, dass sich der
+Lebensmittelpunkt des Beschwerdeführers seit dem Jahr 2013 in Y.______ befindet.
+Die Beschwerdegegnerin 1 vermag damit die Darlegungen des Beschwerdeführers,
+wonach er ein intensives soziales Beziehungsnetz in X.______ pflege und in Y.______
+lediglich über ein Notbett verfüge, wobei der Dienstbarkeitsvertrag in erster
+Linie der finanziellen Absicherung seines Sohnes diene, nicht zu entkräften.
+Folglich misslingt ihr der Beweis, dass der steuerrechtliche Wohnsitz des
+Beschwerdeführers ab der Steuerperiode 2013 in Y.______ ist. Die Folgen der
+Beweislosigkeit hat sie zu tragen.
+4.6
+Schliesslich trifft die Annahme der
+Beschwerdegegnerin 2, wonach es auch denkbar sei, dass sich der
+steuerrechtliche Wohnsitz des Beschwerdeführers in Z.______ befinde, weil er
+dort gemäss eigenen Angaben täglich zwischen zwölf und vierzehn Stunden arbeite,
+offensichtlich nicht zu. Um einen steuerrechtlichen Wohnsitz zu begründen,
+ist nämlich ein physischer Aufenthalt an einem bestimmten Ort notwendig,
+wobei regelmässig darauf abgestellt wird, wo eine natürliche Person
+regelmässig übernachtet. Anhaltspunkte dafür, dass der Beschwerdeführer
+regelmässig an seinem Arbeitsort in Z.______ übernachtet, bestehen keine.
+5.
+5.1
+Zusammenfassend ergibt sich, dass für die
+vorliegende Streitigkeit beweisrechtliche Gesichtspunkte entscheidend sind.
+Zwar bestehen durchaus gewichtige Anhaltspunkte dafür, dass sich der
+Lebensmittelpunkt des Beschwerdeführers und somit sein steuerrechtlicher
+Wohnsitz in Y.______ befindet. Indessen misslingt der Beschwerdegegnerin 1,
+welche namentlich auf nicht verwertbare Aussagen Dritter abstellt, der Beweis
+dafür.
+Demgemäss ist die
+Beschwerde gutzuheissen, soweit darauf einzutreten ist. Der Rekursentscheid der
+Beschwerdegegnerin 2 vom 11. Mai 2015 und der Einspracheentscheid der
+Beschwerdegegnerin 1 vom 20. Mai 2014 sind aufzuheben.
+5.2
+Hinzuweisen ist schliesslich darauf, dass – sollten
+sich die Hinweise verdichten, dass der Beschwerdeführer seinen
+Lebensmittelpunkt neu in Y.______ hat, – es der Beschwerdegegnerin 1
+freilich unbenommen bleibt, für künftige Steuerperioden ihre Steuerhoheit zu
+beanspruchen. Diesfalls ist sie aber dazu gehalten, ein rechtlich einwandfreies
+Beweisverfahren zu führen.
+Geht es um die Frage, ob
+die steuerpflichtige Person überhaupt der Steuerhoheit untersteht, ist es
+umstritten, ob sie gemäss Art. 150 StG mitwirkungspflichtig ist. Teilweise
+wird ausgeführt, dass allein deshalb, weil die Steuerbehörde die Steuerhoheit
+behaupte, noch keine Mitwirkungspflichten der angeblich steuerpflichtigen
+Person entstünden (Richner et al., § 3 N. 88). Gelegentlich wird aber auch
+die Ansicht vertreten, dass die steuerpflichtige Person am Nachweis des
+steuerrechtlichen Wohnsitzes durch die Steuerbehörde mitzuwirken habe (BGer-Urteil
+2C_472/2010 vom 18. Januar 2011 E. 2.2). Da vorliegend zumindest
+Indizien dafür bestehen, dass der Beschwerdeführer seinen steuerrechtlichen
+Wohnsitz in Y.______ hat, unterliegt er der Mitwirkungspflicht gemäss
+Art. 150 StG, wobei diese verhältnismässig sein muss (vgl. Richner
+et al., § 135 N. 32 ff.). Die Beschwerdegegnerin 1 darf folglich den Beschwerdeführer
+zur Mitwirkung anhalten, wobei sie ihn auf die gesetzlichen Folgen einer
+allfälligen Verletzung der Mitwirkungspflicht hinzuweisen hat.
+III.
+1.
+Die Gerichtskosten sind
+ausgangsgemäss auf die Staatskasse zu nehmen (Art. 134 Abs. 1 lit. c i.V.m.
+Art. 135 Abs. 1 VRG). Dem Beschwerdeführer ist der Kostenvorschuss in der
+Höhe von Fr. 2'000.- zurückzuerstatten.
+2.
+Die Beschwerdegegnerin 1
+ist gemäss Art. 138 Abs. 2 VRG zu verpflichten, dem in der Hauptsache
+obsiegenden Beschwerdeführer eine angemessene Parteientschädigung zu
+bezahlen. Aus dem Umstand, dass nur eine "angemessene" Parteientschädigung
+zuzusprechen ist, leitet das Verwaltungsgericht
+in ständiger Praxis
+ab, dass die Parteientschädigung in der Regel nicht
+sämtliche erforderlichen Kosten umfasst, die einer Partei entstanden sind,
+sondern nur einen Teil des nötigen Prozessaufwands. Im Übrigen hat die
+entschädigungsberechtigte Partei ihren notwendigen Aufwand selber zu tragen.
+Dabei wird davon ausgegangen, dass es der entschädigungsberechtigten Partei
+grundsätzlich zuzumuten ist, für einen Teil ihrer erforderlichen Kosten
+selber aufzukommen (zur vergleichbaren Rechtslage im Kanton Zürich: Kaspar
+Plüss, in Alain Griffel [Hrsg.], Kommentar zum Verwaltungsrechtspflegegesetz
+des Kantons Zürich, 3. A., Zürich/Basel/Genf 2014, § 17 N. 80).
+Nach welchen Kriterien die
+Parteientschädigung zuzusprechen ist, regelt das anwendbare Verwaltungsprozessrecht
+nicht. In der Regel dürfte es naheliegen, sinngemäss die Regeln über die
+Bemessung der Spruchgebühren heranzuziehen. Gemäss § 7 Abs. 2 der Verordnung
+über amtliche Kosten im Verwaltungsverfahren und in der Verwaltungsrechtspflege
+vom 24. Juni 1987 (KoV)
+bemisst
+sich die Spruchgebühr nach dem Arbeits- und Zeitaufwand der entscheidenden
+Behörde (für die Parteientschädigung ist der Arbeits- und Zeitaufwand des
+Rechtsvertreters massgebend), der Bedeutung und Schwierigkeit der Sache sowie
+nach den für die Parteien auf dem Spiele stehenden Vermögens- oder sonstigen
+Interessen an der Angelegenheit. Im Einzelfall können auch weitere Kriterien
+massgebend für die Höhe der Parteientschädigung sein (vgl. zum Ganzen
+VGer-Urteil VG.2014.00066/71 vom 27. November 2014 E. 9.3).
+Der vorliegende
+Fall kennzeichnet sich durch einen relativ einfachen Sachverhalt. Komplexe
+rechtliche Fragen finden sich zudem keine. Dem Beschwerdeführer ist jedoch
+ein wesentliches Interesse am Ausgang des Verfahrens nicht abzusprechen.
+Unter Berücksichtigung der aufgeführten Kriterien erweist sich eine
+Parteientschädigung von Fr. 2'500.- (inkl. Mehrwertsteuer) als
+angemessen.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird gutgeheissen, soweit darauf eingetreten wird. Der Rekursentscheid
+der Beschwerdegegnerin 2 vom 11. Mai 2015 und der Einspracheentscheid
+der Beschwerdegegnerin 1 vom 20. Mai 2014 werden aufgehoben.
+2.
+Die
+Gerichtskosten werden auf die Staatskasse genommen. Dem Beschwerdeführer
+wird der Kostenvorschuss in der Höhe von Fr. 2'000.- zurückerstattet.
+3.
+Die
+Beschwerdegegnerin 1 wird verpflichtet, dem Beschwerdeführer innert
+30 Tagen nach Rechtskraft dieses Entscheids eine Parteientschädigung
+in der Höhe von Fr. 2'500.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
