@@ -1,0 +1,338 @@
+---
+decision_id: "gl_gerichte_VG.2015.00110"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2015.00110"
+docket_2: "VG.2015.314"
+decided: "2015-12-10"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=553&W10_KEY=218274&nTrefferzeile=7&Template=simple/search_result_document.html"
+---
+
+# GL Gerichte VG.2015.00110
+
+## Regeste
+
+Anderes
+
+## Text
+
+Glarus Verwaltungsgericht 10.12.2015 VG.2015.00110 (VG.2015.314)
+Glaris Verwaltungsgericht 10.12.2015 VG.2015.00110 (VG.2015.314)
+Glarona Verwaltungsgericht 10.12.2015 VG.2015.00110 (VG.2015.314)
+
+Anderes
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+10. Dezember 2015
+I. Kammer
+in Sachen
+VG.2015.00110
+Kanton Glarus
+Beschwerdeführer
+vertreten durch Regierungsrat des Kantons Glarus
+dieser vertreten durch Departement Finanzen und
+Gesundheit
+des Kantons Glarus
+gegen
+Gemeinde Glarus Süd
+Beschwerdegegnerin
+vertreten durch Gemeinderat
+betreffend
+Staatshaftung
+Die Kammer zieht in Erwägung:
+I.
+1.
+Gemäss unbestrittenem
+Sachverhalt hielt sich A.______, Staatsangehöriger von B.______, ab Anfang
+Dezember 2013 in […], Gemeinde Glarus Süd, auf, wo er einer Arbeitstätigkeit
+in einer Bäckerei nachging. Am 10. Juli 2014 brach er am Bahnhof […] zusammen
+und wurde notfallmässig ins Kantonsspital Glarus eingeliefert. Gleichentags
+erfolgte die Verlegung ins Universitätsspital Zürich, wo er bis zum
+30. September 2014 medizinisch behandelt wurde. Da er nicht
+obligatorisch krankenversichert war, stellte das Universitätsspital Zürich
+dem Kanton Glarus am 26. Februar 2015 eine Rechnung für die entstandenen
+Behandlungskosten im Betrag von Fr. 366'956.-. Wäre A.______
+krankenversichert gewesen, hätte der Kanton Glarus nur den kantonalen Finanzierungsanteil
+von 53 % der Kosten tragen müssen.
+2.
+In der Folge gelangte der
+Kanton Glarus mit Staatshaftungsbegehren vom 23. Juni 2015 an die
+Gemeinde Glarus Süd. Er beantragte, es sei festzustellen, dass die Voraussetzungen
+für eine Staatshaftung der Gemeinde Glarus Süd gegenüber dem Kanton Glarus
+infolge der unterlassenen Zuweisung von A.______ an einen Krankenversicherer
+durch das Einwohneramt gegeben seien. Die Gemeinde Glarus Süd sei zu verpflichten,
+dem Kanton Glarus Schadenersatz im Betrag von Fr. 172'469.- zuzüglich 5
+% Zins seit dem 26. Februar 2015 zu bezahlen. Der Gemeinderat der Gemeinde
+Glarus Süd wies am 13. August 2015 das Staatshaftungsbegehren mangels
+Aktivlegitimation des Kantons Glarus ab.
+3.
+Dagegen erhob der Kanton
+Glarus am 10. September 2015 Beschwerde beim Verwaltungsgericht und
+beantragte die Aufhebung des Entscheids des Gemeinderats vom 13. August
+2015. Die Gemeinde Glarus Süd sei zu verpflichten, ein ordentliches Staatshaftungsverfahren
+durchzuführen. Eventualiter sei das Staatshaftungsbegehren des Kantons Glarus
+als öffentlich-rechtliche Klage entgegenzunehmen und als solche zu behandeln;
+alles unter Kosten- und Entschädigungsfolgen zu Lasten der Gemeinde Glarus
+Süd.
+Die Gemeinde Glarus Süd
+schloss am 13. Oktober 2015 auf Abweisung der Beschwerde; unter Kosten- und
+Entschädigungsfolgen zu Lasten des Kantons Glarus.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 105 Abs. 1
+lit. c des Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986 (VRG)
+i.V.m. Art. 12 Abs. 1 des Gesetzes über die Haftung der Gemeinwesen und ihrer
+Amtsträger vom 5. Mai 1991 (Staatshaftungsgesetz, SHG) zur Behandlung der
+vorliegenden Beschwerde zuständig.
+1.2
+Gemäss Art. 88 lit. a VRG ist zur Beschwerde
+berechtigt, wer ein eigenes schutzwürdiges Interesse an der Änderung oder
+Aufhebung des angefochtenen Entscheids hat. Bejaht wird die Legitimation von
+Gemeinwesen in Konstellationen, in denen es um finanzielle Leistungen aus
+Rechtsverhältnissen geht, die zwar öffentlich-rechtlich geregelt sind, aber
+Analogien haben zu entsprechenden privatrechtlichen Instituten wie etwa das
+öffentliche Dienstrecht, das Staatshaftungsrecht oder das Enteignungsrecht
+(BGE 141 II 161 E. 2.3).
+Indem die
+Beschwerdegegnerin das Staatshaftungsbegehren des Beschwerdeführers abwies,
+ist dieser vom angefochtenen Entscheid in seinen finanziellen Interessen ähnlich
+wie ein Privater berührt. Folglich ist er zur Beschwerdeerhebung berechtigt.
+Da auch die übrigen Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde
+einzutreten.
+2.
+Das Staatshaftungsgesetz
+regelt gemäss Art. 1 Abs. 1 lit. a SHG unter anderem die Haftung des
+Gemeinwesens für den Schaden, den seine Amtsträger in Ausübung ihres Amtes
+Dritten widerrechtlich zufügen. Gemäss Art. 6 Abs. 1 SHG haftet das Gemeinwesen
+für den Schaden, den seine Amtsträger in amtlicher Tätigkeit Dritten
+rechtswidrig zufügen, und dies ohne Rücksicht auf ein Verschulden der
+Amtsträger. Art. 6 Abs. 1 SHG stellt demnach eine Kausalhaftung dar.
+Voraussetzung für Schadenersatz bildet neben dem Schaden die
+Widerrechtlichkeit (ausser beim Sonderfall der Haftung aus rechtmässigem
+Verhalten nach Art. 7 SHG). Daneben ist nach den Grundsätzen des allgemeinen
+Haftungsrechts ein adäquater Kausalzusammenhang zwischen dem zur Diskussion
+stehenden Ereignis und dem eingetretenen Schaden erforderlich (Tobias Jaag,
+Staatshaftung nach dem Entwurf für die Revision und Vereinheitlichung des
+Haftpflichtrechts, in ZSR 122/2003 II, S. 1 ff., 73).
+3.
+3.1
+Der Beschwerdeführer macht geltend, der Gesetzgeber
+habe sich beim Erlass des Staatshaftungsgesetzes explizit für das
+Anfechtungsstreitverfahren und gegen das Klageverfahren entschieden. Folglich
+gehe die spezialgesetzliche Bestimmung im Staatshaftungsgesetz auch dem
+Klageverfahren gemäss Art. 109 lit. a VRG vor. Dies ergebe sich nicht zuletzt
+aus Art. 23 SHG, wonach die Bestimmungen des Verwaltungsrechtspflegegesetzes
+nur subsidiär zur Anwendung gelangten. Mit "Dritten" gemäss Art. 1
+Abs. 1 lit. a SHG seien alle Rechtssubjekte gemeint, damit also auch alle
+Gemeinwesen, soweit ihnen eigene Rechtspersönlichkeit zukomme. Es sei kein
+Grund ersichtlich, weshalb ein Haftungsanspruch des Kantons gegen eine
+Gemeinde ausgeschlossen sein sollte. Insgesamt ergebe sich, dass die Beschwerdegegnerin
+zu Unrecht auf das Staatshaftungsbegehren nicht weiter eingegangen sei und
+stattdessen pauschal auf die öffentlich-rechtliche Klage beim Verwaltungsgericht
+verwiesen habe.
+3.2
+Die Beschwerdegegnerin vertritt hingegen die
+Auffassung, mit dem Staatshaftungsgesetz sei bewusst eine bürgerfreundliche
+Regelung vorgesehen worden, welche die Rechtsposition des geschädigten
+Bürgers verbessere und so dem Schutz des Schwächeren diene. Das Memorial für
+die Landsgemeinde des Kantons Glarus vom Jahre 1991 (Landsgemeindememorial
+1991) definiere den Geschädigten im Sinne des Staatshaftungsgesetzes
+ausdrücklich als Bürger. Sowohl eine grammatikalische wie auch eine
+systematische Auslegung von Art. 1 und 2 SHG liessen einzig den Schluss zu,
+dass in einem Staatshaftungsverfahren als Schadenverursacher das Gemeinwesen
+gemäss Art. 2 SHG auftrete, während als Geschädigter eine Drittperson
+bezeichnet werde. Das Gemeinwesen könne aber nicht eine Drittperson sein, da
+dieses in Art. 2 SHG als Haftpflichtiger genannt werden. Würde der
+Beschwerdeführer gegen die Beschwerdegegnerin als Gemeinwesen ein
+Staatshaftungsbegehren geltend machen, würden sich zwei Gemeinwesen gegenüberstehen,
+was aber gemäss Art. 1 SHG in einem Staatshaftungsverfahren nicht der Fall
+sein könne. Der Literatur sei zudem zu entnehmen, dass sich bei der Staats-
+und Beamtenhaftung die Frage, ob der Staat oder ein Beamter oder gar
+beide haftbar seien, nur stelle, wenn Dritte geschädigt worden seien, nicht
+aber, wenn der Staat durch das Verhalten seiner Beamten einen Schaden
+erlitten habe. Vorliegend mache der Beschwerdeführer aber genau dies geltend.
+Sodann sei zu beachten, dass nach dem kantonalen Staatshaftungsgesetz das
+Gemeinwesen eine Verfügung zu erlassen habe. Aufgrund der Aufsichtspflicht
+des Beschwerdeführers bestünde die Möglichkeit, dass dieser in das durch sie,
+die Beschwerdegegnerin, durchzuführende Staatshaftungsverfahren mittels
+Weisungen einwirken könnte. Schliesslich müsste sie gegen den
+Beschwerdeführer ebenfalls ein Staatshaftungsbegehren stellen, da ihr bei
+Gutheissung des Staatshaftungsbegehrens des Beschwerdeführers ein Schaden
+entstünde, wobei sie der Auffassung sei, dieser habe seinerseits seine
+Aufsichts- und Informationspflicht verletzt. Dies würde zu zwei parallelen
+Verfahren führen, was absurd wäre.
+4.
+Zwischen den Parteien ist
+unbestritten, dass es dem Beschwerdeführer möglich sein muss, seinen
+Schadenersatzanspruch geltend zu machen. Strittig ist jedoch, ob dabei das
+Staatshaftungsgesetz anwendbar ist oder ob der Beschwerdeführer zu Recht auf
+den Weg der öffentlich-rechtlichen Klage nach Art. 109 ff. VRG verwiesen
+wurde.
+4.1
+Nach den
+üblichen Regeln der Gesetzesauslegung ist eine Bestimmung in erster Linie
+nach ihrem Wortlaut auszulegen. Ist der Text nicht ganz klar und sind verschiedene
+Auslegungen möglich, so muss nach seiner wahren Tragweite gesucht werden
+unter Berücksichtigung aller Auslegungselemente, namentlich von Sinn und
+Zweck sowie der dem Text zugrunde liegenden Wertung. Wichtig ist ebenfalls
+der Sinn, der einer Norm im Kontext zukommt. Vom klaren, d.h. eindeutigen und
+unmissverständlichen Wortlaut darf nur ausnahmsweise abgewichen werden, u.a.
+dann, wenn triftige Gründe dafür vorliegen, dass der Wortlaut nicht den
+wahren Sinn der Bestimmung wiedergibt. Solche Gründe können sich aus der
+Entstehungsgeschichte der Bestimmung, aus ihrem Grund und Zweck oder aus dem
+Zusammenhang mit andern Vorschriften ergeben (BGE 139 V 148 E. 5.1, mit Hinweisen).
+4.2
+Art. 1 Abs. 1 lit. a SHG regelt einerseits, dass
+Gemeinwesen im Sinne von Art. 2 SHG passivlegitimiert sind. Daneben setzt
+Art. 1 Abs. 1 lit. a SHG auch die Aktivlegitimation, also den Kreis der
+möglichen Anspruchsberechtigten fest. Aktivlegitimiert sind
+"Dritte". Entgegen der Auffassung der Beschwerdegegnerin schliesst
+der Wortlaut von Art. 1 Abs. 1 lit. a SHG zumindest nicht aus, dass der
+Beschwerdeführer im Verhältnis zur Beschwerdegegnerin als Dritter betrachtet
+wird. Der Kanton und die drei Gemeinden sind nämlich jeweils eigenständige
+Rechtssubjekte, denen Autonomie bzw. eigene Rechtspersönlichkeit zukommen. Im
+Verhältnis zur Beschwerdegegnerin kann der Beschwerdeführer ebenso wie die
+beiden anderen Gemeinden des Kantons durchaus als Dritter bezeichnet werden.
+So ist es bei der Haftung des Kantons beispielsweise denkbar, dass Gemeinden
+Geschädigte sind. Daneben ist es auch möglich, dass bei der Haftung einer
+Gemeinde andere Gemeinden oder der Kanton Geschädigte sind
+(vgl. BGer-Urteil 2.C4/2000 vom 3. Juli 2003 E. 2.2).
+Sodann ist zu
+berücksichtigen, dass wenn man in der vorliegenden Konstellation dem
+Staatshaftungsrecht gänzlich die Anwendung versagen würde, keine Rechtsgrundlage
+für eine Kausalhaftung bestünde. Art. 18 der Verfassung des Kantons Glarus
+vom 1. Mai 1988 (KV) sieht nun aber vor, dass
+Kanton, Gemeinden und weitere Träger öffentlicher
+Aufgaben für den Schaden haften, den die für sie tätigen Personen durch eine
+Amtshandlung rechtswidrig verursacht haben. Die Verfassungsbestimmung sieht
+demnach eine allgemeine und umfassende Kausalhaftung vor, ohne nach dem Kreis
+der möglichen Anspruchsberechtigten zu unterscheiden. Es ist daher
+grundsätzlich davon auszugehen, dass Schadenersatzansprüche des geschädigten
+Kantons gegenüber einer Gemeinde nach den Regeln der Kausalhaftung zu
+beurteilen sind. Wenn nun das Staatshaftungsgesetz Art. 18 KV umsetzt
+(Landsgemeindememorial 1991, S. 5), ist im Lichte einer
+verfassungskonformen Auslegung davon auszugehen, dass auch der Beschwerdeführer
+Dritter im Sinne von Art. 1 Abs. 1 lit. a SHG sein kann. Daran ändert nichts,
+dass mit der Einführung der Kausalhaftung primär eine bürgerfreundliche Regelung
+gewollt war. So bestehen denn auch keine Gründe dafür, dass Gemeinwesen einzig
+aus dem Grund nicht einer Kausalhaftung unterliegen sollten, weil der
+Geschädigte nicht eine Privatperson, sondern ein anderes Gemeinwesen ist. Der
+Fokus liegt nämlich sowohl bei der Verfassung als auch beim Gesetz nicht beim
+Ansprecher, sondern beim in Anspruch genommenen Gemeinwesen, welches ganz
+allgemein einer Kausalhaftung untersteht und zwar unabhängig davon, ob ein
+anderes Gemeinwesen oder eine Privatperson geschädigt worden ist.
+Die
+Beschwerdegegnerin verweist schliesslich zur Begründung ihrer gegenteiligen
+Auffassung auf eine Literaturstelle (Ulrich Häfelin/Georg Müller/Felix
+Uhlmann, Allgemeines Verwaltungsrecht, 6. A., Zürich/St. Gallen 2010,
+Rz. 2224). Dort wird lediglich festgehalten, dass die Frage, ob der Staat
+oder der Beamte oder beide haftbar seien, sich nicht stelle, wenn der Staat
+durch das Verhalten
+seiner
+Beamten einen Schaden erlitten habe. Dem
+ist ohne Weiteres beizustimmen. Die Beschwerdegegnerin scheint aber zu
+verkennen, dass der Beschwerdeführer seinen Anspruch nicht aus einem
+Verhalten seines eigenen Personals, sondern aus demjenigen von Angestellten
+der Beschwerdegegnerin ableitet, weshalb sie aus der genannten Literaturstelle
+nichts zu ihren Gunsten ableiten kann.
+4.3
+Kommt man zum Schluss, dass bei der materiellen
+Beurteilung eines Schadenersatzanspruchs des Kantons gegen eine Gemeinde das
+Staatshaftungsgesetz anzuwenden ist, hat dies nicht zwingend zur Folge, dass
+in verfahrensrechtlicher Hinsicht die öffentlich-rechtliche Klage
+ausgeschlossen ist. Zumindest denkbar ist es, dass der Kanton eine
+öffentlich-rechtliche Klage im Sinne von Art. 109 lit. a VRG zu erheben hat
+und bei der Beurteilung des Anspruchs das Staatshaftungsgesetz (analog)
+angewendet wird.
+Dagegen spricht aber der
+klare Wortlaut von Art. 11 Abs. 2 und Art. 23 Abs. 2 SHG, wonach die
+angegangene Behörde binnen sechs Monaten über die Begehren des Geschädigten
+entscheiden muss und die Bestimmungen des Verwaltungsrechtspflegegesetzes nur
+dann gelten, wenn das Staatshaftungsgesetz keine besonderen Verfahrensregelungen
+enthält. Es bestehen sodann keine überzeugenden Gründe, welche die Annahme
+naheliegen liessen, das Gesetz sei lückenhaft, indem es – anders etwa als im
+Kanton Zürich (vgl. § 19 Abs. 2 des Haftungsgesetzes vom 14. September 1969)
+– keine besonderen Vorschriften für Ansprüche des Kantons gegenüber Gemeinden
+enthält.
+Es trifft zwar zu, dass
+dem Kanton weitrechende Aufsichtsbefugnisse gegenüber den Gemeinden zukommen
+(vgl. Art. 138 ff. des Gemeindegesetzes vom 3. Mai 1992), indessen gibt es
+auch andere Konstellationen, in welchen eine Gemeinde über einen Anspruch des
+Kantons zu entscheiden hat. Dabei ist beispielsweise an Baubewilligungsgesuche
+zu denken, in welchen der Kanton als Bauherr auftritt (vgl. etwa
+VGer-Urteil VG.2014.00087 vom 18. Dezember 2014). Selbstverständlich darf der
+Kanton in solchen Verfahren nicht aufgrund seiner Aufsichtskompetenzen
+eingreifen, vielmehr hat er gegen ihm missfallende Entscheide der Gemeinde
+den ordentlichen Rechtsmittelweg zu beschreiten. Das gilt auch vorliegend.
+Die Beschwerdegegnerin hat das Staatshaftungsverfahren frei von Weisungen des
+Beschwerdeführers durchzuführen. Diesem steht gegen eine allfällige Abweisung
+seines Staatshaftungsbegehrens gemäss Art. 105 Abs. 1 lit. c VRG i.V.m. Art.
+12 Abs. 1 SHG die Beschwerde ans Verwaltungsgericht offen.
+Schliesslich verfängt auch
+die Darstellung der Beschwerdegegnerin nicht, dass sie für den Fall einer
+allfälligen Gutheissung des Staatshaftungsbegehrens vorsorglich ein
+Staatshaftungsbegehren gegen den Kanton stellen müsste. Ist sie nämlich der
+Auffassung, dass den Beschwerdeführer ein Selbstverschulden trifft, hat sie
+dies bei der Beurteilung des Kausalzusammenhangs (vgl. BGer-Urteil
+2C.4/2000 vom 3. Juli 2003 E. 8) oder bei einer Herabsetzung der
+Ersatzpflicht zu berücksichtigen (vgl. Art. 10 Abs. 2 SHG),
+ohne dass sie selber ein Staatshaftungsverfahren gegen den Beschwerdeführer
+anstreben müsste.
+5.
+Zusammenfassend ergibt
+sich, dass Gemeinwesen für den Schaden, den ihre Amtsträger in Ausübung ihres
+Amtes widerrechtlich verursachen, unabhängig davon, ob eine Privatperson oder
+ein anderes Gemeinwesen geschädigt wurde, einer Kausalhaftung nach dem
+Staatshaftungsgesetz unterstehen. Da keine überzeugenden Gründe für ein
+Abweichen vom Gesetzestext vorliegen, haben sie über Staatshaftungsbegehren gemäss
+Art. 12 Abs. 2 SHG mittels Verfügung zu entscheiden, wobei selbstverständlich
+die weiteren Verfahrensbestimmungen (namentlich Art. 13 SHG) zu beachten
+sind.
+Demgemäss ist die
+Beschwerde gutzuheissen und die Verfügung der Beschwerdegegnerin vom 13.
+August 2015 aufzuheben. Die Sache ist an die Beschwerdegegnerin zur
+materiellen Beurteilung des Staatshaftungsbegehrens des Beschwerdeführers
+zurückzuweisen.
+III.
+1.
+Gemäss Art. 23 Abs. 2 SHG
+i.V.m. Art. 135 Abs. 2 VRG sind Gemeinden gegenüber den kantonalen Behörden
+nur dann kostenpflichtig, wenn sie im Verfahren als Partei beteiligt und an
+der Angelegenheit wirtschaftlich interessiert sind. Da vorliegend lediglich
+das prozessuale Vorgehen strittig war, aber noch nicht über den materiellen Anspruch
+des Beschwerdeführers entschieden werden musste, rechtfertigt es sich, die
+Gerichtskosten auf die Staatskasse zu nehmen.
+2.
+Gemäss Art. 23 Abs. 2 SHG
+i.V.m. Art. 138 Abs. 4 VRG wird Behörden in der Regel keine Entschädigung
+zugesprochen, ausgenommen im Klageverfahren oder wenn besondere Umstände dies
+rechtfertigen. Beim vorliegenden Verfahren handelt es sich nicht um ein
+Klageverfahren. Besondere Umstände liegen allenfalls dann vor, wenn über das
+Schadenersatzbegehren des Beschwerdeführers materiell zu entscheiden ist,
+nicht aber vorliegend, wo sich der Verfahrensgegenstand auf die Frage
+beschränkte, ob der Beschwerdeführer sein Begehren gestützt auf die
+verfahrensrechtlichen Bestimmungen des Staatshaftungsgesetzes geltend machen
+konnte oder die öffentlich-rechtliche Klage im Sinne von Art. 109 lit. a
+VRG hätte ergreifen müssen. Folglich sind keine Parteientschädigungen zuzusprechen.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird gutgeheissen und die Verfügung der Beschwerdegegnerin vom
+13. August 2015 aufgehoben. Die Sache wird an die Beschwerdegegnerin zur
+materiellen Beurteilung des Staatshaftungsbegehrens des Beschwerdeführers
+zurückgewiesen.
+2.
+Die
+Gerichtskosten werden auf die Staatskasse genommen.
+3.
+Parteientschädigungen
+werden keine zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
