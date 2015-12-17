@@ -1,0 +1,276 @@
+---
+decision_id: "gl_gerichte_VG.2015.00023"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2015.00023"
+docket_2: "VG.2015.316"
+decided: "2015-12-17"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=562&W10_KEY=218274&nTrefferzeile=6&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/831.10/art-005.md", "switzerland/bund/acts/831.40/art-002.md", "switzerland/bund/acts/831.40/art-073.md", "switzerland/bund/acts/831.42/art-005.md"]
+---
+
+# GL Gerichte VG.2015.00023
+
+## Regeste
+
+Sozialversicherung - Berufliche Vorsorge
+
+## Text
+
+Glarus Verwaltungsgericht 17.12.2015 VG.2015.00023 (VG.2015.316)
+Glaris Verwaltungsgericht 17.12.2015 VG.2015.00023 (VG.2015.316)
+Glarona Verwaltungsgericht 17.12.2015 VG.2015.00023 (VG.2015.316)
+
+Sozialversicherung - Berufliche Vorsorge
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+17. Dezember 2015
+II. Kammer
+in Sachen
+VG.2015.00023
+A.______
+Kläger
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+C.______AG
+Beklagte
+betreffend
+Rückzahlung Freizügigkeitsguthaben
+Die Kammer zieht in Erwägung:
+I.
+1.
+A.______, wohnhaft in […],
+gründete am 5. September 2011 die D.______GmbH, welche ihren Sitz in […]
+hat. Er ist dabei als einziger Gesellschafter und Geschäftsführer eingetragen.
+Am 27. Januar 2012 beantragte er bei der C.______AG die Barauszahlung
+und Auflösung seiner Freizügigkeitspolice. Die C.______AG gab diesem Gesuch
+am 13. Februar 2012 statt und überwies ihm in der Folge den Betrag von
+Fr. 58'668.35.
+2.
+Am 4. März 2014
+gelangte A.______ an die C.______AG und ersuchte sie, zu Gunsten von ihm
+erneut eine Freizügigkeitspolice über den Betrag von Fr. 58'296.60
+zuzüglich die aufgelaufenen Zinsen seit dem 8. September 2011 zu
+errichten, da die Auszahlung des Freizügigkeitsguthabens unrechtmässig
+erfolgt sei. Die C.______AG teilte A.______ am 17. März 2014 mit, dass
+die Freizügigkeitsleistung nach den reglementarischen bzw. gesetzlichen
+Vorschriften ausbezahlt worden sei, weshalb seiner Forderung nicht nachgegangen
+werden könne.
+3.
+Am 2. Februar 2015 reichte
+A.______ beim Verwaltungsgericht Klage gegen die C.______AG ein, mit dem
+Rechtsbegehren, diese sei zu verpflichten, auf ein Freizügigkeitskonto von
+A.______ den Betrag von Fr. 58'296.60 nebst Zins gemäss BVG seit dem
+7. September 2011 einzuzahlen; unter Kosten- und Entschädigungsfolgen zu
+Lasten der C.______AG.
+Die C.______AG schloss
+20. März 2015 auf Abweisung der Klage; unter Kosten- und
+Entschädigungsfolgen zu Lasten von A.______.
+Sowohl mit Replik vom
+28. April 2015 als auch mit Duplik vom 26. Mai 2015 hielten
+A.______ und die C.______AG an ihren Rechtsbegehren fest.
+II.
+1.
+1.1
+Art. 73 Abs. 1 des Bundesgesetzes über die
+berufliche Alters-, Hinterlassenen- und Invalidenvorsorge vom 25. Juni
+1982 (BVG) schreibt für Streitigkeiten zwischen Vorsorgeeinrichtungen,
+Arbeitgebern und Anspruchsberechtigten ein Gericht als letzte kantonale
+Instanz vor. Gemäss Art. 109 lit. e des Gesetzes über die Verwaltungsrechtspflege
+vom 4. Mai 1986 (VRG) ist das Verwaltungsgericht als einzige kantonale
+Instanz zuständig, soweit das Sozialversicherungsrecht eine Klage an eine
+kantonale Gerichtsinstanz vorsieht. Nach Art. 73 Abs. 3 BVG ist der
+Gerichtsstand der schweizerische Sitz oder Wohnsitz des Beklagten oder der
+Ort des Betriebes, bei dem der Versicherte angestellt wurde. Entgegen dem
+Wortlaut kann eine Klage gegen eine Freizügigkeitseinrichtung jedoch nicht
+nur am Sitz der Freizügigkeitseinrichtung, sondern alternativ auch am
+Wohnsitz der klagenden Person eingereicht werden (BGer-Urteil 9C_1016/2010
+vom 30. Mai 2011 E. 2.3.3). Das Verwaltungsgericht ist somit für
+die vorliegende Klage zuständig. Da auch die übrigen Prozessvoraussetzungen
+erfüllt sind, ist auf die Klage einzutreten.
+1.2
+Hinzuweisen ist darauf
+, dass die Einschätzung
+der Steuerverwaltung […] bzw. des Steueramts des Kantons St. Gallen, ob
+die vorgenommene Auszahlung der Freizügigkeitsleistung widerrechtlich oder
+gesetzesmässig erfolgt sei, unbeachtlich ist, da das Verwaltungsgericht zur
+Beurteilung für diese sozialversicherungsrechtliche Frage zuständig ist.
+2.
+2.1
+Der Kläger rügt, die Beklagte hätte bei
+sorgfältiger Prüfung der Voraussetzungen zur Auszahlung des
+Freizügigkeitsguthabens an ihn bemerken müssen, dass er sich bei der in
+seinem Eigentum stehenden GmbH selbst angestellt habe, weshalb dieses
+Rechtsverhältnis als unselbständig erwerbend zu qualifizieren sei. Da keine
+selbständige Erwerbstätigkeit vorgelegen habe und er als Mitarbeiter der D.______GmbH
+der obligatorischen Vorsorge unterstellt sei, sei die Auszahlung des
+Freizügigkeitsguthabens durch die Beklagte widerrechtlich erfolgt. Dabei sei
+unbeachtlich, dass er dieses Geld in Empfang genommen habe.
+2.2
+Die Beklagte bringt dagegen vor, dass sie ohne
+Weiteres ihre Sorgfaltspflicht erfüllt habe. So habe sie die
+Freizügigkeitsleistung bar ausbezahlt, da der Kläger den entsprechenden
+Auftrag erteilt und gestützt auf die gültigen Allgemeinen Bestimmungen eine aktuelle
+Bestätigung der AHV-Ausgleichskasse mit Angaben der Selbständigkeit vorgelegt
+habe. Damit habe er erklärt, dass dieser Sachverhalt, welcher ihren
+Leistungsanspruch begründe, der Wahrheit entspreche. Indem der Kläger zum
+Zeitpunkt der Barauszahlung seiner Freizügigkeitsleistung der Beklagten
+bestätigt habe, er sei Selbständigerwerbender und unterstehe nicht mehr der
+obligatorischen beruflichen Vorsorge, seien für die Barauszahlung alle
+formellen Bedingungen erfüllt gewesen.
+3.
+Strittig und zu prüfen ist, ob die Barauszahlung der
+Freizügigkeitsleistung rechtmässig erfolgt ist.
+3.1
+Nach Art. 5 Abs. 1 des
+Bundesgesetzes über die Freizügigkeit in der beruflichen Alters-,
+Hinterlassenen- und Invalidenversicherung vom 17. Dezember 1993 (FZG)
+können Versicherte die Barauszahlung der Austrittsleistung verlangen, wenn
+sie die Schweiz endgültig verlassen (lit. a) oder eine selbständige
+Erwerbstätigkeit aufnehmen und der obligatorischen beruflichen Vorsorge nicht
+mehr unterstehen (lit. b) oder aber wenn die Austrittsleistung weniger
+als ihr Jahresbeitrag beträgt (lit. c).
+Die Barauszahlung nach Art. 5 Abs. 1
+lit. b FZG setzt (kumulativ) die Aufnahme einer selbständigen
+Erwerbstätigkeit und das Fehlen eines Versicherungsobligatoriums voraus.
+Der Sinn dieser Bestimmung ist die finanzielle Unterstützung beim Aufbau
+einer Unternehmung; dies als Ausnahme vom Grundsatz, dass das Vorsorgeguthaben
+als Altersvorsorge erhalten bleiben soll (BGer-Urteil 9C_610/2010 vom
+6. Dezember 2010 E. 4.2.3). Als Nachweis für die Aufnahme einer
+selbständigen Erwerbstätigkeit sind Urkunden beizubringen, welche dieses
+Vorhaben belegen (beispielsweise ein Handelsregisterauszug, eine Bestätigung
+der Sozialversicherungsanstalt betreffend selbständige Erwerbstätigkeit
+etc.). Bei der Prüfung der Voraussetzungen einer Barauszahlung darf die
+Vorsorgeeinrichtung jedoch nur auf das formelle Kriterium der Aufnahme einer
+selbständigen Erwerbstätigkeit abstellen. Die Erfolgsaussichten des geplanten
+Vorhabens spielen keine Rolle, eine qualitative Beurteilung der Geschäftsidee
+hat folglich zu unterbleiben. Ein Anspruch auf Barauszahlung besteht selbst
+dann, wenn diese nicht im Sinne der gesetzgeberischen Absichten, d.h. zur
+Finanzierung der selbständigen Erwerbstätigkeit, sondern zur sonstigen
+Schuldentilgung verwendet wird (Thomas Geiser/Christoph Senti, in Jacques-André
+Schneider/Thomas Geiser/Thomas Gächter [Hrsg.], BVG und FZG, Bern 2010,
+Art. 5 FZG N. 42).
+3.2
+Eine selbständige Erwerbstätigkeit nach Art. 5
+Abs. 1 lit. b FZG liegt vor, wenn die betreffende Person nicht als
+Arbeitnehmer im Sinne von Art. 2 BVG gilt und deshalb aus der
+obligatorischen Versicherung ausscheidet. Wer als Arbeitnehmer gemäss
+Art. 2 BVG gilt, richtet sich nach der Praxis zum Bundesgesetz über die
+Alters- und Hinterlassenenversicherung (AHVG) vom 20. Dezember 1946 (
+Geiser/Senti,
+Art. 5 FZG N. 43, mit Hinweisen).
+Nach der Rechtsprechung zu
+Art. 5 AHVG wird eine unselbständige Erwerbstätigkeit angenommen, wenn
+eine Person bei der Ausübung ihrer Erwerbstätigkeit von einer anderen Person
+in betriebswirtschaftlicher bzw. arbeitsorganisatorischer Hinsicht abhängig
+ist und kein spezifisches Unternehmerrisiko trägt (BGE 123 V 161 E. 1).
+Massgebend ist, ob die versicherte Person Dienst auf Zeit zu leisten hat,
+wirtschaftlich vom Arbeitgeber abhängig ist und während der Arbeitszeit auch
+in dessen Betrieb eingeordnet ist, praktisch als keine andere
+Erwerbstätigkeit ausüben kann. Das wirtschaftliche Risiko der versicherten Person
+erschöpft sich in der Abhängigkeit vom persönlichen Arbeitserfolg oder darin,
+dass bei Dahinfallen des Erwerbsverhältnisses eine ähnliche Situation
+eintritt, wie dies beim Stellenverlust einer arbeitnehmenden Person der Fall
+ist (BGE 122 V 169 E. 3; Ueli Kieser, in Erwin Murer/Hans-Ulrich
+Stauffer [Hrsg.], Rechtsprechung des Bundesgerichts zum Sozialversicherungsrecht,
+Bundesgesetz über die Alters- und Hinterlassenenversicherung, 3. A.,
+Zürich/Basel/Genf 2012, S. 53).
+Eine selbständige Erwerbstätigkeit liegt hingegen im
+Regelfall vor, wenn die beitragspflichtige Person durch Einsatz von Arbeit
+und Kapital in frei bestimmter Selbstorganisation und nach aussen sichtbar am
+wirtschaftlichen Verkehr teilnimmt mit dem Ziel, Dienstleistungen zu
+erbringen oder Produkte zu schaffen, deren Inanspruchnahme oder Erwerb
+durch finanzielle oder geldwerte Gegenleistungen abgegolten wird (BGE 115 V
+161 E. 9a). Charakteristische Merkmale der selbständigen
+Erwerbstätigkeit sind die Tätigung erheblicher Investitionen, die Benützung eigener
+Geschäftsräumlichkeiten sowie die Beschäftigung von eigenem Personal. Besonderes
+Gewicht kommt dabei dem Unternehmensrisiko (Inkasso- und Delkrederisiko) zu
+(Kieser, S. 54).
+3.3
+Bei der Beurteilung, ob die betreffende Person
+eine selbständige Erwerbstätigkeit aufgenommen hat, ist zu beachten, dass die
+Person zur Ausübung ihrer selbständigen Tätigkeit auch eine juristische
+Person (Aktiengesellschaft oder Gesellschaft mit beschränkter Haftung)
+gründen und anschliessend als Alleininhaber und Verwaltungsrat oder
+Geschäftsführer tätig sein kann. Auch wenn diese Art der Geschäftstätigkeit
+aus Sicht des AHVG in der Regel als unselbständige Erwerbstätigkeit
+qualifiziert wird, ist es nicht sinnvoll, in solchen Fällen die Barauszahlung
+zu verweigern. So ist auch bei Wahrnehmung einer leitenden Funktion in einer
+Aktiengesellschaft oder Gesellschaft mit beschränkter Haftung von der
+Aufnahme einer selbständigen Erwerbstätigkeit auszugehen, sofern die Person
+alleinig oder mehrheitlich am Gesellschaftskapital beteiligt ist (vgl. Geiser/Senti,
+Art. 5 FZG N. 43).
+4.
+4.1
+Der Kläger war bis zum 7. September 2011
+bei der E.______AG angestellt. Am 5. September 2011 gründete er die D.______GmbH
+bei welcher er bis heute als einziger Gesellschafter und Geschäftsführer im
+Handelsregister eingetragen ist. Er verfügt dabei über eine leitende Funktion
+und trägt aufgrund seiner alleinigen Beteiligung am Gesellschaftskapital das
+volle Unternehmensrisiko, weshalb bei seiner Tätigkeit im Sinne von
+Art. 5 Abs. 1 lit. b FZG von einer selbständigen
+Erwerbstätigkeit auszugehen ist (vgl. E. II/3.2 f.). Von einer
+selbständigen Tätigkeit ging auch die Leiterin der AHV-Zweigstelle […] aus,
+welche mit Schreiben vom 26. Januar 2012 an den Kläger ausführte, dass
+er seit dem 1. September 2011 bei der Sozialversicherungsanstalt des
+Kantons St. Gallen als Selbständigerwerbender angemeldet sei. Folglich
+ist entgegen den Ausführungen des Klägers nicht zu beanstanden, dass die
+Beklagte bei der Tätigkeit des Klägers von einer selbständigen
+Erwerbstätigkeit ausgegangen ist.
+4.2
+Dem Kläger ist auch nicht zu folgen, die
+Beklagte habe es unterlassen, die zweite Voraussetzung für die Auszahlung des
+Freizügigkeitsguthabens zu prüfen, ob er nicht dem BVG-Obligatorium
+unterstehe. Dies deshalb, da Selbständigerwerbende gemäss Art. 113
+Abs. 2 lit. d der Bundesverfassung der Schweizerischen Eidgenossenschaft
+vom 18. April 1999 (BV) von Verfassungs wegen der beruflichen Vorsorge
+nicht unterstellt sind. So ist darauf hinzuweisen, dass in Konstellationen
+wie der Vorliegenden der Kläger seit der Aufnahme seiner neuen selbständigen
+Tätigkeit nicht mehr als Arbeitnehmer im Sinne des BVG gilt und deshalb aus
+der obligatorischen Versicherung ausgeschieden ist. Die Beklagte konnte
+demnach durch die Bestätigung der AHV-Zweigstelle, dass der Kläger als
+Selbständigerwerbender angemeldet sei, davon ausgehen, dass er der
+obligatorischen beruflichen Vorsorge nicht mehr untersteht.
+4.3
+Es kann festgehalten werden, dass die
+Barauszahlung der Austrittsleistung an den Kläger aufgrund seiner
+selbständigen Erwerbstätigkeit und seinem Ausscheiden aus der obligatorischen
+beruflichen Versicherung nicht zu beanstanden ist. Die beantragte Auszahlung,
+welche am 16. Februar 2012 dem Bankkonto des Klägers gutgeschrieben wurde,
+erfolgte rechtzeitig, da diese innerhalb von zwölf Monaten nach Aufnahme der
+selbständigen Erwerbstätigkeit überwiesen wurde (vgl. Ziff. 5c der
+Allgemeinen Bestimmungen für die Freizügigkeitspolice der Beklagten). Der
+Beklagten kann auch keine Sorgfaltspflichtverletzung aufgrund der Umstände,
+dass der Kläger mit der Barauszahlung offenbar einen finanziellen Engpass
+überbrückt habe und sie dies hätte erahnen müssen, vorgeworfen werden. Dies
+deshalb, da ein Anspruch auf Barauszahlung auch dann besteht, wenn diese zur
+Schuldentilgung verwendet wird (vgl. E. II/3.1). Somit war die Barauszahlung
+der Austrittsleistung an den Kläger rechtmässig.
+Dies führt zur Abweisung
+der Klage.
+III.
+Die Gerichtskosten sind
+von Gesetzes wegen auf die Staatskasse zu nehmen (Art. 73 Abs. 2
+BVG). Dem unterliegenden Kläger ist keine Parteientschädigung zuzusprechen
+(Art. 138 Abs. 3 lit. a VRG e contrario). Eine solche steht
+auch der anwaltlich nicht vertretenen Beklagten nicht zu (Art. 138
+Abs. 1 VRG).
+Demgemäss erkennt die Kammer
+:
+1.
+Die Klage wird abgewiesen.
+2.
+Die Gerichtskosten werden auf die Staatskasse
+genommen.
+3.
+Es werden keine Parteientschädigungen
+zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
