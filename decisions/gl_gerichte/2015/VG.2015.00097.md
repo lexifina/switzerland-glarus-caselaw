@@ -1,0 +1,380 @@
+---
+decision_id: "gl_gerichte_VG.2015.00097"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2015.00097"
+docket_2: "VG.2016.327"
+decided: "2015-12-17"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=573&W10_KEY=218274&nTrefferzeile=5&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-006.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/832.20/art-001.md", "switzerland/bund/acts/832.20/art-010.md", "switzerland/bund/acts/832.20/art-016.md", "switzerland/bund/acts/832.202/art-023.md"]
+---
+
+# GL Gerichte VG.2015.00097
+
+## Regeste
+
+Sozialversicherung - Unfallversicherung
+
+## Text
+
+Glarus Verwaltungsgericht 17.12.2015 VG.2015.00097 (VG.2016.327)
+Glaris Verwaltungsgericht 17.12.2015 VG.2015.00097 (VG.2016.327)
+Glarona Verwaltungsgericht 17.12.2015 VG.2015.00097 (VG.2016.327)
+
+Sozialversicherung - Unfallversicherung
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+17. Dezember 2015
+II. Kammer
+in Sachen
+VG.2015.00097
+A.______
+Beschwerdeführer
+vertreten durch
+Rechtsanwalt B.______
+gegen
+Schweizerische Unfallversicherungsanstalt
+(Suva)
+Beschwerdegegnerin
+betreffend
+UVG-Leistungen
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+A.______, geboren 1966, zeigte der Suva mit
+Schadenmeldung UVG vom 10. Juli 2012 an, dass er am 9. Juli 2012
+gestürzt sei und sich den rechten Fuss verstaucht bzw. verdreht sowie die
+rechte Schulter geprellt habe. Die Suva erbrachte in der Folge die
+gesetzlichen Leistungen. Nach der kreisärztlichen Abschlussuntersuchung vom
+9. September 2013 teilte die Suva A.______ am 16. September 2013
+mit, dass die Taggeldzahlungen per Ende September 2013 eingestellt würden.
+Mit Verfügung vom 18. Oktober 2013 sprach sie ihm weder eine Invalidenrente
+noch eine Integritätsentschädigung zu. Die Verfügung erwuchs unangefochten in
+Rechtskraft.
+1.2
+In der Folge erlitt A.______ einen Rückfall.
+Die
+Suva verfügte am 12. März 2015, dass sie im Rückfall zum Unfall vom 9. Juli
+2012 die Behandlungskosten übernehme, aber kein Taggeld ausrichte, da bei
+Eintritt der unfallbedingten Arbeitsunfähigkeit schon eine krankheitsbedingte
+Arbeitsunfähigkeit bestanden habe. Als Rückfalldatum wurde der 17.
+September 2014 bestimmt, an welchem Tag A.______ seine erste Konsultation
+im Spital C.______ hatte.
+1.3
+A.______ erhob am 16. April 2015 Einsprache gegen
+die Verfügung der Suva vom 12. März 2015 und beantragte unter anderem, ihm
+sei ab dem 9. Februar 2015 ein Taggeld von mindestens Fr. 28.- pro
+Kalendertag auszurichten. Die Suva wies die Einsprache am 7. Juli 2015 ab,
+soweit sie darauf eintrat.
+2.
+In der Folge gelangte
+A.______ mit Beschwerde vom 5. August 2015 ans Verwaltungsgericht und
+beantragte die Aufhebung des Einspracheentscheids der Suva. Ihm sei
+rückwirkend ab dem 9. Februar 2015 ein Taggeld von mindestens Fr. 28.-
+auszurichten. Ferner seien ihm die unentgeltliche Prozessführung und die unentgeltliche
+Rechtsverbeiständung zu gewähren; alles unter Kosten- und Entschädigungsfolgen
+zu Lasten der Suva. Die Suva schloss am 11. September 2015 auf Abweisung der
+Beschwerde.
+Das Verwaltungsgericht
+holte am 24. November 2015 die Akten der Invalidenversicherung ein.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 1 Abs. 1 des Bundesgesetzes über die Unfallversicherung vom 20.
+März 1981 (UVG) i.V.m. Art. 56 Abs. 1 und Art. 58 Abs. 1 des Bundesgesetzes
+über den Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober
+2000 (ATSG) sowie Art. 1 des Einführungsgesetzes zum Bundesgesetz über die
+Unfallversicherung vom 3. Mai 2009 (EG UVG) zur Behandlung der vorliegenden
+Beschwerde zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt
+sind, ist auf die Beschwerde einzutreten.
+2.
+2.1
+Der Beschwerdeführer macht geltend, er habe einen
+Anspruch auf Taggelder, solange er nicht die volle Arbeitsfähigkeit
+wiedererlangt habe. Die Behauptung der Beschwerdegegnerin, wonach er vor dem
+Rückfall voll arbeitsunfähig gewesen sei, stehe sachverhaltsmässig gar nicht
+fest. Solange nicht rechtskräftig entschieden sei, ob eine gänzliche
+krankheitsbedingte Arbeitsunfähigkeit bei ihm vorhanden gewesen sei, könne
+ein Verdienstausfall nicht ausgeschlossen werden. Insofern habe die Beschwerdegegnerin
+den Sachverhalt rechtsfehlerhaft und mangelhaft abgeklärt. Sodann setze der
+Taggeldanspruch gemäss Art. 16 UVG keinen wirtschaftlichen Schaden voraus, sondern
+bloss eine Arbeitsunfähigkeit. Dies ergebe sich auch aus Art. 23 der
+Verordnung über die Unfallversicherung vom 20. Dezember 1982 (UVV). Ferner
+seien sowohl eine Mitarbeiterin der Sozialen Dienste als auch er selbst durch
+die Beschwerdegegnerin darüber informiert worden, dass ihm ein Taggeld von
+Fr. 28.- pro Kalendertag ausbezahlt werde. Indem die Beschwerdegegnerin ihm
+nun ein solches Taggeld verweigere, handle sie widersprüchlich. Dies stelle
+einen Verstoss gegen das Vertrauensschutzprinzip dar.
+2.2
+Die Beschwerdegegnerin ist hingegen der Auffassung,
+dass der Taggeldanspruch eine durch das versicherte Ereignis verursachte
+Einschränkung der Arbeitsfähigkeit mit entsprechender Verdiensteinbusse
+voraussetze. Dem Beschwerdeführer sei am 7. November 2014 eine
+krankheitsbedingte Arbeitsunfähigkeit von 100 % attestiert worden, welche bis
+zum am 9. Februar 2015 vorgenommenen Eingriff weiterbestanden habe.
+Abweichende medizinische Beurteilungen lägen nicht vor. Ein rechtskräftiger
+Entscheid der Invalidenversicherung habe nicht abgewartet werden müssen. Bei
+Art. 23 UVV handle es sich sodann um eine Bemessungsregel, welche erst zur Anwendung
+gelange, wenn die Anspruchsvoraussetzungen für das Taggeld im Sinne von Art.
+16 Abs. 1 UVG erfüllt seien. Schliesslich scheitere auch die Berufung auf das
+Vertrauensschutzprinzip, da einerseits die das Taggeld betreffende Auskunft
+nicht vorbehaltlos gewesen sei und da der Beschwerdeführer andererseits keine
+ohne Nachteil rückgängig zu machenden Dispositionen getroffen habe.
+3.
+3.1
+Der Versicherte hat gemäss Art. 10 Abs. 1 UVG
+Anspruch auf die zweckmässige Behandlung seiner Unfallfolgen. Ist er infolge
+des Unfalls voll oder teilweise arbeitsunfähig (Art. 6 ATSG), so hat er
+gemäss Art. 16 Abs. 1 UVG Anspruch auf ein Taggeld. Der Anspruch auf ein
+Taggeld entsteht am dritten Tag nach dem Unfalltag. Er erlischt mit der
+Wiedererlangung der vollen Arbeitsfähigkeit, mit dem Beginn einer Rente oder
+mit dem Tod des Versicherten (Art. 16 Abs. 2 UVG).
+3.2
+Der Anspruch auf Leistungen der Unfallversicherung
+setzt nicht nur hinsichtlich der Körperschädigung das Bestehen eines
+Kausalzusammenhangs zwischen dem Unfall und dem Schaden voraus, sondern auch
+hinsichtlich der finanziellen Schädigung in Form einer Verdiensteinbusse.
+Soweit bezüglich eines Verdienstes ein "status quo sine" vorliegt,
+besteht zwischen dem Schaden und dem Unfall kein Kausalzusammenhang, womit
+eine entsprechende Leistungspflicht entfällt. Soweit es sich um ein veränderliches
+Geschehen, wie eine krankheitsbedingte Arbeitsunfähigkeit handelt, kann diese
+je nach Verlauf der Krankheit mit der Zeit durch eine unfallkausale
+Arbeitsunfähigkeit abgelöst werden. Lediglich wenn eine dauernde unfallfremde
+Ursache vorliegt, entfällt ein Taggeldanspruch gegenüber der Unfallversicherung
+gänzlich (BGer-Urteil U318/05 vom 20. Januar 2006 E. 2.2.1, mit Hinweis;
+Sozialversicherungsgericht ZH-Urteil UV.2008.00274 vom 30. September 2010 E.
+1.5.1).
+4.
+4.1
+Zwischen den Parteien ist zu Recht unbestritten,
+dass der Beschwerdeführer hinsichtlich des Unfalls vom 9. Juli 2012 einen
+Rückfall erlitt und die am 9. Februar 2015 durchgeführte Operation der
+Schulter eine Arbeitsunfähigkeit von 100 % aus physischen Gründen zur
+Folge hatte. Strittig und zu prüfen ist hingegen, ob der Beschwerdeführer ab dem
+9. Februar 2015 einen Anspruch auf ein Taggeld hat.
+4.2
+Für die richterliche Beurteilung sind grundsätzlich
+die tatsächlichen Verhältnisse zur Zeit des Erlasses des strittigen
+Einspracheentscheids massgebend (BGE 132 V 368 E. 6.1).
+Der
+Anspruch des Beschwerdeführers auf Taggelder der Unfallversicherung setzt wie
+dargelegt voraus, dass er eine durch den Rückfall bedingte Erwerbseinbusse
+erlitt. Dies ist dann der Fall, wenn mit überwiegender Wahrscheinlichkeit
+erstellt ist, dass seit dem Rückfall vom 17. September 2014 bzw. der die
+Arbeitsfähigkeit beeinträchtigenden Operation vom 9. Februar 2015 und dem Erlass
+des angefochtenen Einspracheentscheids eine allfällige krankheitsbedingte
+vollständige Arbeitsunfähigkeit durch die unfallbedingte Arbeitsunfähigkeit
+abgelöst wurde.
+4.3
+In ihrem Vorbescheid vom 30. September 2015 kam die
+IV-Stelle Glarus zum Schluss, dass der Beschwerdeführer seit dem 9. Juli 2012
+in der angestammten Tätigkeit zu 100 % arbeitsunfähig sei. In einer
+adaptierten Tätigkeit betrage die Arbeitsunfähigkeit vom 9. Juli 2012 bis
+längstens am 8. Januar 2013 ebenfalls 100 %, danach 0 %. Ab Mitte 2013
+betrage die Arbeitsunfähigkeit 100 %, dies aus psychiatrischer Sicht. Daran
+hielt sie fest und forderte am 26. November 2015 die zuständige Ausgleichskasse
+auf, für den Beschwerdeführer eine Verfügung zu erstellen, mit welcher ihm ab
+dem 1. Juli 2013 basierend auf einem Invaliditätsgrad von 100 % eine
+ganze Invalidenrente zugesprochen werde. Eine Rentenrevision sei per
+30. April 2016 vorgesehen.
+Die IV-Stelle liess zuvor
+bei der D.______AG ein polydisziplinäres Gutachten erstellen. Bei ihrem
+Entscheid stützte sie sich im Wesentlichen auf das psychiatrische Teilgutachten
+von Dr. med. E.______, Fachärztin Psychiatrie und Psychotherapie, vom 30. Juni
+2015. Diese diagnostizierte eine posttraumatische Belastungsstörung (ICD-10:
+F43.1), eine andauernde Persönlichkeitsänderung nach Extrembelastung (ICD-10:
+F62.0) sowie eine schwere depressive Episode mit psychotischen Symptomen
+(ICD-10: F 32.3). Sie führte dabei aus, dass beim Beschwerdeführer aus
+psychiatrischer Sicht Symptome einer posttraumatischen Belastungsstörung im
+Vordergrund stünden. Zudem bestehe ein klarer Zusammenhang zwischen den erlittenen
+traumatischen Ereignissen, insbesondere der Ermordung seines langjährigen
+Lebenspartners und dem Beginn der Symptome. Die Kriterien einer posttraumatischen
+Belastungsstörung seien erfüllt. Ebenso sei die Diagnose einer affektiven
+Störung im Sinne schwerer depressiver Episoden erfüllt, könne aber im Rahmen
+der posttraumatischen Belastungsstörung, die auch mit depressiven Symptomen
+einhergehe, überlagert sein. Im Moment seien die depressive Symptomatik, die
+vorhandenen Ängste sowie das teilweise paranoid erlebte Gefühl verfolgt zu
+werden, so stark vorhanden und schränkten den Beschwerdeführer so stark ein,
+dass sie eher als eigenständige Krankheit zu sehen seien. Dies decke sich mit
+den Einschätzungen der behandelnden Fachärzte.
+4.4
+Aus dem überzeugenden psychiatrischen Teilgutachten,
+welchem auch die IV-Stelle gefolgt ist, geht hervor, dass der
+Beschwerdeführer mit überwiegender Wahrscheinlichkeit seit Mitte 2013 sowohl
+in der adaptierten Tätigkeit als auch in einer angestammten Tätigkeit aus
+psychischen Gründen zu 100 % arbeitsunfähig ist. Ein Zusammenhang mit dem
+Unfall vom 9. Juli 2012 besteht gemäss dem Gutachten nicht und wird vom
+Beschwerdeführer auch nicht geltend gemacht.
+Damit ergibt sich, dass
+der Beschwerdeführer bereits vor dem Rückfall aus krankheitsbedingten Gründen
+arbeitsunfähig gewesen war. Die krankheitsbedingte Arbeitsunfähigkeit wurde
+sodann nicht durch eine unfallbedingte Arbeitsunfähigkeit abgelöst, was
+daraus hervorgeht, dass ein Revisionsverfahren betreffend die ab Mitte 2013 zugesprochene
+ganze Invalidenrente erst per 30. April 2016 vorgesehen ist. Damit erlitt der
+Beschwerdeführer durch den Rückfall aber keine durch den Unfall bedingte Erwerbseinbusse,
+sondern es liegt vielmehr ein "status quo sine" vor. Folglich ist
+es nicht zu beanstanden, dass die Beschwerdegegnerin ihm keine Taggelder der
+Unfallversicherung zusprach.
+Daran ändert auch sein
+Hinweis auf Art. 23 UVV nichts. Wie die Beschwerdegegnerin zutreffend
+ausführt, handelt es sich bei dieser Bestimmung um eine Bemessungsregel,
+welche erst zum Tragen kommt, wenn die Voraussetzungen für die Zusprache
+eines Taggelds erfüllt sind.
+5.
+Zu prüfen bleibt, ob der
+Beschwerdeführer aus dem durch Art. 9 der Bundesverfassung der
+Schweizerischen Eidgenossenschaft vom 18. April 1999 (BV) garantierten Vertrauensschutzprinzip
+etwas zu seinen Gunsten ableiten kann.
+5.1
+Der Grundsatz des Vertrauensschutzes bedeutet, dass
+die Privaten Anspruch darauf haben, in ihrem berechtigten Vertrauen in
+behördliche Zusicherungen oder in anderes, bestimmte Erwartungen begründendes
+Verhalten der Behörden geschützt zu werden. Voraussetzungen der erfolgreichen
+Berufung auf das Vertrauensschutzprinzip bilden das Vorhandensein einer
+Vertrauensgrundlage, das dadurch erweckte Vertrauen in das Verhalten der
+staatlichen Behörden sowie eine Vertrauensbetätigung (Ulrich Häfelin/Georg
+Müller/Felix Uhlmann, Allgemeines Verwaltungsrecht, 6. A., Zürich/St. Gallen
+2010, Rz. 627 ff.).
+5.2
+5.2.1
+Der Beschwerdeführer sieht eine Vertrauensgrundlage
+einerseits darin, dass die Beschwerdegegnerin ihm in einem Gespräch mit einer
+Mitarbeitenden der Sozialen Dienste Glarus die Ausrichtung eines Taggelds in
+Aussicht gestellt habe. Anderseits sei ihm schriftlich vorbehaltlos ein
+Taggeld für die Zeit nach der Schulteroperation versprochen worden.
+5.2.2
+Aus der Telefonnotiz vom 29. Januar 2015 geht
+hervor, dass die Beschwerdegegnerin der Mitarbeiterin der Sozialen Dienste
+Glarus gesagt hat, sobald der Operationstermin bekannt sei, werde den
+(zuständigen) Stellen mitgeteilt, dass die gesetzlichen
+Versicherungsleistungen und ein Taggeld bezahlt würden. Es ist höchst
+fraglich, ob diese Auskunft als Vertrauensbasis taugt. So kann darin wohl nur
+eine unverbindliche Absichtserklärung gesehen werden, wonach eine entsprechende
+(verbindliche) Mitteilung noch folge. Wie sich aus dem Nachfolgenden ergibt,
+kann dies jedoch offen gelassen werden.
+Offensichtlich ist
+hingegen, dass durch das Schreiben der Beschwerdegegnerin vom 2. Februar
+2015 dem Beschwerdeführer nicht vorbehaltlos ein Taggeld zugesichert wurde.
+Das Schreiben enthielt vielmehr den zutreffenden Hinweis, dass kein Taggeld
+ausgerichtet werden könne, soweit eine krankheitsbedingte Arbeitsunfähigkeit
+bestehe.
+5.3
+5.3.1
+Der Beschwerdeführer weist sodann darauf hin, dass
+er mit der Ausrichtung eines Taggelds habe rechnen dürfen, da ihm ein solches
+zweimal zugesichert worden sei. Die Ausrichtung des Taggelds hätte für ihn
+finanziell lindernde Auswirkungen gehabt. Er habe Dispositionen getroffen,
+ein solches Taggeld zu erhalten.
+5.3.2
+Der Beschwerdeführer weist auf sein Vertrauen in die
+behördlichen Zusicherungen hin und legt dar, dass er sich um den Erhalt der
+Taggelder bemüht habe. Dabei verkennt er aber, dass den Vertrauensschutz nur
+erfolgreich geltend machen kann, wer gestützt auf sein Vertrauen eine
+Disposition getätigt hat, die nicht ohne Nachteil wieder rückgängig gemacht
+werden kann. Dies ist etwa dann der Fall, wenn aufgrund einer behördlichen
+Zusage Investitionen vorgenommen wurden (Häfelin/Müller/Uhlmann,
+Rz. 660). Dass er eine solche Disposition getätigt hat legt er weder
+dar, noch ist dies anderweitig ersichtlich.
+Damit scheitert die
+Berufung des Beschwerdeführers auf das Vertrauensschutzprinzip, was zur
+Abweisung der Beschwerde führt.
+III.
+1.
+Die amtlichen Kosten des Beschwerdeverfahrens sind auf die
+Staatskasse zu nehmen (Art. 1 UVG i.V.m. Art. 61 lit. a ATSG).
+Bei diesem Verfahrensausgang
+ist dem Beschwerdeführer keine Parteientschädigung zuzusprechen (Art. 61
+lit. g ATSG e contrario).
+2.
+2.1
+Da die Gerichtskosten auf die Staatskasse zu nehmen
+sind, ist das Gesuch um Gewährung der unentgeltlichen Prozessführung als
+gegenstandslos geworden abzuschreiben.
+2.2
+Der Beschwerdeführer
+beantragt überdies
+die Gewährung der unentgeltlichen
+Rechtsverbeiständung
+. Gemäss Art. 139 Abs. 1
+des Gesetzes über die Verwaltungsrechtspflege vom 4.
+Mai 1986 (VRG)
+befreit die Behörde eine Partei, der die Mittel fehlen,
+um neben dem Lebensunterhalt für sich und ihre Familie die Verfahrenskosten
+aufzubringen, auf Gesuch hin ganz oder teilweise von der Kosten- und Vorschusspflicht,
+sofern das Verfahren nicht aussichtslos ist. Unter denselben Voraussetzungen
+weist sie der Partei auf Gesuch hin oder von Amtes wegen einen Anwalt als
+Rechtsbeistand zu, sofern ein solcher für die gehörige Interessenwahrung
+erforderlich ist (Art. 61 lit. f ATSG und Art. 139
+Abs. 2 VRG). Der Nachweis der Bedürftigkeit obliegt nach Art. 139 Abs. 3
+VRG der gesuchstellenden Partei.
+Die Mittellosigkeit des
+Beschwerdeführers ergibt sich ohne Weiteres aus den Akten. Näher zu prüfen
+ist hingegen, ob das Verfahren als nicht aussichtslos gelten kann.
+Als aussichtslos sind jene
+Begehren anzusehen, bei denen die Aussichten zu obsiegen wesentlich geringer
+sind als die Aussichten zu unterliegen. Die Aussichtslosigkeit ist zu
+bejahen, wenn sich eine Partei, die über die nötigen Mittel verfügt, bei
+vernünftiger Überlegung gegen die Ergreifung eines Rechtsmittels
+entschliessen würde. Eine Partei soll ein Verfahren, das sie auf eigene
+Rechnung und Gefahr nicht führen würde, nicht deshalb anstrengen können, weil
+es sie nichts kostet (Kaspar Plüss, in Alain Griffel [Hrsg.], Kommentar zum
+Verwaltungsrechtspflegegesetz des Kantons Zürich, 3. A., Zürich/Basel/Genf
+2014, § 16 N. 46 f.).
+Das vorliegenden Verfahren
+liegt an der Grenze zur Aussichtslosigkeit. So hätte es dem anwaltlich
+vertreten Beschwerdeführer klar sein müssen, dass seine Berufung auf das
+Vertrauensschutzprinzip scheitern wird. Sodann ergibt sich aus der höchstrichterlichen
+Rechtsprechung, dass Taggelder der Unfallversicherung eine finanzielle Schädigung
+in Form einer Verdiensteinbusse voraussetzen. Indessen ist dem Beschwerdeführer
+zugutezuhalten, dass der rentenzusprechende Vorbescheid der Invalidenversicherung
+erst nach der Beschwerdeerhebung erging. Mit anderen Worten war das Ausmass
+seiner Arbeitsunfähigkeit bei Beschwerdeerhebung durch die Verwaltung noch
+nicht festgestellt worden. Insofern rechtfertigt es sich, sein Gesuch um
+unentgeltliche Rechtsverbeiständung gutzuheissen und ihm in der Person von
+Rechtsanwalt B.______ einen unentgeltlichen Rechtsbeistand zu bestellen.
+Dieser ist mit Fr. 1'800.- (inkl. Auslagen und Mehrwertsteuer) zu
+entschädigen.
+Der Beschwerdeführer ist darauf hinzuweisen, dass eine
+Partei, der die unentgeltliche Rechtspflege bewilligt worden ist, für den
+Fall, dass sie später in günstige wirtschaftliche Verhältnisse gelangt, zur
+Nachzahlung der Verfahrenskosten verpflichtet werden kann (Art. 139a
+VRG).
+Demgemäss beschliesst die Kammer
+:
+1.
+Das
+Gesuch des Beschwerdeführers um Gewährung der unentgeltlichen Prozessführung
+wird als gegenstandslos geworden abgeschrieben.
+2.
+Das
+Gesuch des Beschwerdeführers um Gewährung der unentgeltlichen Rechtsverbeiständung
+wird gutgeheissen. Ihm wird in der Person von Rechtsanwalt B.______ ein
+unentgeltlicher Rechtsbeistand bestellt.
+3.
+Der Rechtsbeistand wird zu
+Lasten der Gerichtskasse mit Fr. 1'800.- (inkl. Auslagen und
+Mehrwertsteuer) entschädigt.
+4.
+Die Nachzahlungspflicht gemäss
+Art. 139a VRG bleibt vorbehalten.
+5.
+Die
+Gerichtskasse wird beauftragt, spätestens im Dezember 2020 zu prüfen, ob
+die Voraussetzungen für die Nachzahlung erfüllt sind.
+und erkennt sodann
+:
+1.
+Die Beschwerde wird abgewiesen.
+2.
+Die Gerichtskosten werden auf die Staatskasse
+genommen.
+3.
+Eine Parteientschädigung wird nicht zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
