@@ -1,0 +1,332 @@
+---
+decision_id: "gl_gerichte_VG.2015.00061"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2015.00061"
+docket_2: "VG.2016.342"
+decided: "2016-01-28"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=588&W10_KEY=218274&nTrefferzeile=1&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.20/art-001.md", "switzerland/bund/acts/831.20/art-069.md", "switzerland/bund/acts/831.201/art-087.md"]
+---
+
+# GL Gerichte VG.2015.00061
+
+## Regeste
+
+Sozialversicherung - IV
+
+## Text
+
+Glarus Verwaltungsgericht 28.01.2016 VG.2015.00061 (VG.2016.342)
+Glaris Verwaltungsgericht 28.01.2016 VG.2015.00061 (VG.2016.342)
+Glarona Verwaltungsgericht 28.01.2016 VG.2015.00061 (VG.2016.342)
+
+Sozialversicherung - IV
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+28. Januar 2016
+II. Kammer
+in Sachen
+VG.2015.00061
+A.______
+Beschwerdeführer
+vertreten durch Rechtsanwalt B.______
+gegen
+IV-Stelle Glarus
+Beschwerdegegnerin
+betreffend
+Invalidenrente
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Der am […] geborene A.______ bezog ab Dezember 1998
+eine Viertelsrente der Invalidenversicherung. Am 7. Oktober 2004
+beantragte er eine Erhöhung seiner Invalidenrente. Die IV-Stelle Glarus wies
+das Gesuch am 13. Mai 2005 ab, was durch das Bundesgericht am
+6. September 2007 letztinstanzlich bestätigt wurde.
+1.2
+In der Folge stellte A.______ am 9. Juli 2009 erneut
+ein Revisionsgesuch. Gestützt auf ein Gutachten des Ärztlichen Begutachtungsinstituts
+C.______ vom 13. Juli 2010 stellte die IV-Stelle mit Vorbescheid vom
+4. Oktober 2010 die Einstellung der Invalidenrente in Aussicht. Daran
+hielt sie in ihrer Verfügung vom 9. Mai 2011 fest und hob die Invalidenrente
+per Ende Juni 2011 auf. Das Verwaltungsgericht wies eine dagegen erhobene
+Beschwerde am 18. Januar 2012 (VG.2011.00062) ab.
+2
+.
+2.1
+A.______ meldete sich am 9. September 2014 bei der
+IV-Stelle erneut zum Bezug einer Invalidenrente an. Die IV-Stelle wies ihn am
+16. Oktober 2014 darauf hin, dass auf sein Gesuch nur eingetreten werden
+könne, wenn er glaubhaft mache, dass sich der Grad seiner Invalidität in
+einer für den Anspruch erheblichen Weise geändert habe. Sie gab ihm Gelegenheit,
+sich nochmals zu äussern und Beweismittel beizubringen. Dieser Aufforderung
+kam A.______ insofern nach, als er durch seine Hausärztin, PD Dr. med. D.______,
+Fachärztin Innere Medizin FMH, FA Psychosomatische/Psychosoziale Medizin
+SAPPM, FA Delegierte Psychotherapie FPPM, FA Phytotherapie SMGP, am 8. November
+2014 ein Arztzeugnis einreichen liess.
+2.2
+Die IV-Stelle teilte A.______ am 27. Februar 2015
+mit, dass sie auf das neue Leistungsbegehren nicht eintreten werde. Dem
+dagegen von A.______ am 18. März 2015 erhobenen Einwand folgte sie
+nicht, sondern trat mit Verfügung vom 14. April 2015 auf das
+Leistungsbegehren nicht ein.
+3.
+Dagegen erhob A.______ am
+11. Mai 2015 Beschwerde beim Verwaltungsgericht und beantragte die Aufhebung
+der Verfügung der IV-Stelle vom 14. April 2015. Die IV-Stelle sei zu
+verpflichten, auf sein Revisionsgesuch vom 10. September 2014 einzutreten und
+dieses materiell zu behandeln. Eventualiter sei die Sache an die IV-Stelle
+zurückzuweisen; alles unter Kosten- und Entschädigungsfolgen zu Lasten der
+IV-Stelle und unter Gewährung der unentgeltlichen Prozessführung und der
+unentgeltlichen Rechtsverbeiständung.
+Die IV-Stelle schloss am
+8. Juli 2015 auf Abweisung der Beschwerde.
+II.
+1.
+Das Verwaltungsgericht ist gemäss Art. 69
+Abs. 1 lit. a des Bundesgesetzes über die Invalidenversicherung vom
+19. Juni 1959 (IVG) zur Behandlung der vorliegenden Beschwerde
+zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt sind, ist auf
+die Beschwerde einzutreten.
+2.
+Wird ein Gesuch um
+Revision der Invalidenrente eingereicht, so ist darin gemäss Art. 87
+Abs. 2 der Verordnung über die Invalidenversicherung vom 17. Januar 1961
+(IVV) glaubhaft zu machen, dass sich der Grad der Invalidität des
+Versicherten in einer für den Anspruch erheblichen Weise geändert hat. Wurde
+eine Rente wegen eines zu geringen Invaliditätsgrads verweigert, so wird eine
+neue Anmeldung nur geprüft, wenn die Voraussetzungen nach Art. 87 Abs. 2 IVV
+erfüllt sind (Art. 87 Abs. 3 IVV).
+Art. 87 Abs. 2 IVV beruht
+auf dem Gedanken, dass die Rechtskraft der früheren Verfügung einer neuen
+Prüfung so lange entgegensteht, als der seinerzeit beurteilte Sachverhalt
+sich in der Zwischenzeit nicht verändert hat. Damit soll verhindert werden,
+dass sich die Verwaltung nach vorangegangener rechtskräftiger Anspruchsprüfung
+immer wieder mit gleich lautenden und nicht näher begründeten, d.h. keine
+Veränderung des Sachverhalts darlegenden Gesuchen befassen muss (BGE 130 V 64
+E. 5.2.3, mit Hinweis).
+Glaubhaftmachen ist dabei aber
+nicht als Beweis nach dem im Sozialversicherungsrecht allgemein massgebenden
+Grad der überwiegenden Wahrscheinlichkeit zu verstehen. Die
+Beweisanforderungen sind vielmehr herabgesetzt, indem nicht im Sinne eines
+vollen Beweises die Überzeugung der Verwaltung begründet zu werden braucht,
+dass seit der letzten, rechtskräftigen Entscheidung tatsächlich eine relevante
+Änderung eingetreten ist. Vielmehr genügt es, dass für den geltend gemachten
+rechtserheblichen Sachumstand wenigstens gewisse Anhaltspunkte bestehen, auch
+wenn durchaus noch mit der Möglichkeit zu rechnen ist, bei eingehender
+Abklärung werde sich die behauptete Sachverhaltsänderung nicht erstellen
+lassen (BGer-Urteil I 460/01 vom 18. Februar 2003 E. 3.2).
+3.
+3.1
+Der Beschwerdeführer macht geltend, er habe eine
+dauernde und wesentliche Veränderung seines Gesundheitszustands mittels
+Berichten seiner behandelnden Hausärztin, PD Dr. med. D.______, begründet.
+Die Einschätzung von Dr. med. E.______, FMH Rheumatologie, FMH
+Physikalische Medizin und Rehabilitation, vom Regionalen ärztlichen Dienst (RAD),
+welcher die durch PD Dr. med. D.______ gestellten Diagnosen als
+"Litanei" qualifiziere, beruhe auf purer Emotionalität und esoterischer
+Fehldiagnose. Dr. med. E.______ habe ihn nicht untersucht, weshalb es
+nicht seriös sei, dass der ausführliche Bericht der Hausärztin als
+belangloses Geschwätz abgetan werde.
+3.2
+Die Beschwerdegegnerin führt aus, der medizinische
+Sachverhalt sei im Wesentlichen unverändert. Der RAD habe den Sachverhalt
+ernsthaft geprüft und sei zweifelsfrei zum Ergebnis gelangt, dass aufgrund
+sämtlicher medizinischer Abklärungen keine revisionsbegründende
+Verschlechterung des Gesundheitszustands vorliege. Es handle sich beim
+Bericht von PD Dr. med. D.______ lediglich um eine neue Beurteilung eines im
+Wesentlichen gleich gebliebenen Sachverhalts, weshalb sie zu Recht nicht auf
+das neue Leistungsbegehren des Beschwerdeführers eingetreten sei.
+4.
+4.1
+Nach dem Dargelegten ist für die Beurteilung der
+Rechtmässigkeit des angefochtenen Nichteintretensentscheids massgebend, ob es
+dem Beschwerdeführer im Rahmen seiner Neuanmeldung gelang, glaubhaft zu
+machen, dass sich sein Gesundheitszustand seit der rentenaufhebenden
+Verfügung vom 9. Mai 2011 in einer für den Rentenanspruch erheblichen Weise
+geändert hat. Dabei fällt ins Gewicht, dass die Neuanmeldung vom 9. September
+2014 knapp dreieinhalb Jahre nach der rentenaufhebenden Verfügung erfolgt
+ist, weshalb an die Glaubhaftmachung nicht allzu hohe Anforderungen zu
+stellen sind (vgl. BGE 130 V 64 E. 6.2 und BGer-Urteil I 460/01 vom 18.
+Februar 2003 E. 4.1, wo bereits nach 15 bzw. 10 Monaten nicht mehr allzu hohe
+Anforderungen gestellt wurden).
+4.2
+4.2.1
+Die Beschwerdegegnerin stützte sich bei ihrer
+rentenaufhebenden Verfügung vom 9. Mai 2011 in erster Linie auf das
+polydisziplinäre (internistisch/allgemein-medizinische, psychiatrische und
+rheumatologische) Gutachten des Ärztlichen Begutachtungsinstituts C.______ vom
+13. Juli 2010.
+Im psychiatrischen
+Teilgutachten stellte Dr. F.______ keine Diagnosen mit Einfluss auf die
+Arbeitsfähigkeit. Ohne Einfluss auf die Arbeitsfähigkeit sei eine Schmerzverarbeitungsstörung
+bzw. Symptomausweitung mit algogener Verstimmung (ICD-10: F54). Die
+Rückenbeschwerden des Beschwerdeführers liessen sich somatisch nicht
+hinreichend erklären. Eine anhaltende somatoforme Schmerzstörung könne nicht
+diagnostiziert werden. Eine psychische Komorbidität liege nicht vor. Die Willensanspannung
+des Beschwerdeführers sei durch die dysfunktionale Schmerzverarbeitung sowie
+die algogene Verstimmung als Folge davon nicht eingeschränkt. Er sei sozial
+nicht zurückgezogen und suche regelmässig Kontakte und Einladungen zu
+Kollegen. Zudem habe er die begonnene psychiatrische Behandlung nicht weitergeführt,
+was Rückschlüsse auf den Leidensdruck zulasse.
+Dr. G.______
+diagnostizierte im rheumatologischen Teilgutachten ein chronisches lumbospondylogenes
+Schmerzsyndrom rechts. Der Beschwerdeführer sei für leichte bis mittelschwere,
+wechselbelastende Tätigkeiten zu 100 % arbeitsfähig. Für die von ihm geklagten
+Schmerzen und Funktionseinschränkungen finde sich aufgrund des Bewegungsapparats
+nur zum Teil ein morphologisches Korrelat.
+4.2.2
+PD Dr. med. D.______ führte in ihrem Bericht vom 8.
+November 2014 aus, dass sich der Gesundheitszustand des Beschwerdeführers
+inzwischen verschlechtert habe. Als neue Diagnosen stellte sie eine
+kombinierte Persönlichkeitsstörung mit paranoiden und histronischen Zügen
+(Behandlung mit Psychotherapie beim Psychologen FSP, eine einstündige Sitzung
+pro Woche seit April 2012); eine mittelgradige depressive Störung gemäss
+ICD-10: F33.0 (Behandlung mit Venlafaxin 75 mg seit zwei Jahren); eine Lumboischialgie
+rechts mit neuropathischer Komponente; eine kombinierte metabolische Störung
+mit Adipositas, Hypothyreose (substituiert), Diabetes mellitus (Behandlung
+mit oralen Antidiabetika) und Störung des Eisenstoffwechsels mit erhöhten
+Ferritinwerten (in Beobachtung) sowie eine Nephropathie mit Mikrohämaturie
+und Glykosurie.
+4.3
+Es trifft zwar zu, dass es sich beim Bericht von PD
+Dr. med. D.______ um einen einfachen ärztlichen Bericht handelt, welcher sich
+zu einem erheblichen Teil in einer Auflistung von Diagnosen erschöpft und
+welchem folglich nicht die Qualität eines Gutachtens zukommt. Indem die
+Beschwerdegegnerin aber deshalb auf das erneute Leistungsbegehren des
+Beschwerdeführers nicht eintrat, setzte sie die Beweisanforderungen deutlich
+zu hoch an. Sie verkannte, dass ein Glaubhaftmachen einer für den
+Rentenanspruch erheblichen Verschlechterung des Gesundheitszustands genügt
+und die Anforderungen dafür dreieinhalb Jahre nach der rentenaufhebenden
+Verfügung nicht hoch sind. Sodann kann entgegen ihrer – durch den RAD nicht
+weiter begründeten – Auffassung nicht ohne Weiteres davon ausgegangen werden,
+dass es sich beim Bericht von PD Dr. med. D.______ lediglich um eine
+andere Beurteilung eines medizinisch unverändert gebliebenen Sachverhalts
+handle. Dies zeigt sich deutlich bezüglich des psychischen
+Gesundheitszustands des Beschwerdeführers. Zwar wurde die Diagnose einer
+Persönlichkeitsstörung beim Beschwerdeführer bereits im Jahr 2005 gestellt
+und anschliessend im Gutachten des Ärztlichen Begutachtungsinstituts C.______
+verworfen, wo unter anderem auch darauf hingewiesen wurde, dass der
+Beschwerdeführer seine psychiatrische Behandlung nicht mehr weitergeführt
+habe. Wenn nun aber PD Dr. med. D.______ erneut eine Persönlichkeitsstörung
+diagnostiziert, erweist sich dies gerade in Anbetracht dessen, dass der Beschwerdeführer
+seit April 2012 in psychologischer Behandlung ist, nicht zwingend als eine
+andere Beurteilung eines unverändert gebliebenen Sachverhalts. Eine
+Verschlechterung des psychischen Gesundheitszustands des Beschwerdeführers
+ist vielmehr nicht ausgeschlossen. Sodann wird der Beschwerdeführer seit Ende
+2012 mit dem Antidepressivum Venlafaxin behandelt, da er gemäss
+PD Dr. med. D.______ an einer mittelgradigen depressiven Störung
+leidet. Auch dies weist auf eine Verschlechterung seines Gesundheitszustands
+hin. Damit bestehen genügend Anhaltspunkte dafür, dass sich der psychische
+Gesundheitszustand des Beschwerdeführers in einer für den Rentenanspruch
+erheblichen Weise verschlechtert hat. Folglich hätte die Beschwerdegegnerin
+auf sein Leistungsbegehren eintreten müssen, auch wenn nach wie vor die
+Möglichkeit besteht, dass sich bei einer eingehenden Abklärung die behauptete
+Sachverhaltsänderung nicht erstellen lässt (vgl. oben E. II/2).
+Da es dem Beschwerdeführer
+gelingt, eine wesentliche Verschlechterung seines psychischen
+Gesundheitszustands glaubhaft zu machen, muss nicht weiter geprüft werden, ob
+er auch eine Verschlechterung seines physischen Gesundheitszustands glaubhaft
+dargetan hat. Die Beschwerdegegnerin ist nämlich ohnehin dazu gehalten, eine
+umfassende medizinische Abklärung des Beschwerdeführers in die Wege zu leiten.
+5.
+Zusammenfassend ergibt
+sich, dass die Beschwerdegegnerin von zu hohen Anforderungen an das
+Glaubhaftmachen einer Verschlechterung des Gesundheitszustands ausgegangen
+ist und sich nur ungenügend mit dem Bericht von PD Dr. med. D.______ und
+insbesondere der dort aufgezeigten medizinischen Behandlung auseinandergesetzt
+hat. Entgegen der Auffassung der Beschwerdegegnerin bestehen gerade in
+psychischer Hinsicht gewisse Anhaltspunkte für eine erhebliche Verschlechterung
+des Gesundheitszustands, was für ein Eintreten auf das Leistungsbegehren
+ausreichend ist.
+Demgemäss ist die
+Beschwerde gutzuheissen. Die Verfügung der Beschwerdegegnerin vom 14. April
+2015 ist aufzuheben und die Sache ist im Sinne der Erwägungen an diese zur
+materiellen Prüfung der Neuanmeldung vom 9. September 2014 zurückzuweisen.
+III.
+1.
+Nach Art. 134 Abs. 1 lit.
+c des Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986 (VRG)
+i.V.m. Art. 69 Abs. 1
+bis
+IVG hat die Partei, welche im Beschwerdeverfahren
+unterliegt, die amtlichen Kosten zu tragen. Entsprechend dem Ausgang des
+Verfahrens sind die Gerichtskosten von pauschal Fr. 600.- der Beschwerdegegnerin
+aufzuerlegen. Sie ist überdies zu verpflichten, dem Beschwerdeführer eine
+Parteientschädigung von Fr. 1'400.- (inkl. Mehrwertsteuer) zu bezahlen (Art.
+1 Abs. 1 IVG i.V.m. Art. 61 lit. g des Bundesgesetzes über den
+Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober 2000
+[ATSG]).
+2.
+2.1
+Gemäss
+Art. 139 Abs. 1
+VRG
+befreit die
+Behörde eine Partei, der die Mittel fehlen, um neben dem Lebensunterhalt für
+sich und ihre Familie die Verfahrenskosten aufzubringen, auf Gesuch hin ganz
+oder teilweise von der Kosten- und Vorschusspflicht, sofern das Verfahren
+nicht aussichtslos ist. Unter denselben Voraussetzungen weist sie der Partei
+auf Gesuch hin oder von Amtes wegen einen Anwalt als Rechtsbeistand zu,
+sofern ein solcher für die gehörige Interessenwahrung erforderlich ist (
+Art. 1 Abs. 1 IVG i.V.m.
+Art. 61 lit. f ATSG
+und Art. 139 Abs. 2 VRG). Der Nachweis der Bedürftigkeit obliegt nach
+Art. 139 Abs. 3 VRG der gesuchstellenden Partei.
+2.2
+Da die Gerichtskosten der Beschwerdegegnerin
+aufzuerlegen sind, ist das Gesuch des Beschwerdeführers um Gewährung der
+unentgeltlichen Prozessführung als gegenstandslos geworden abzuschreiben.
+2.3
+Der Beschwerdeführer
+beantragt zudem
+die Gewährung der unentgeltlichen Rechtsverbeiständung
+.
+Als Empfänger von Sozialhilfe hat er ohne
+Weiteres als mittellos zu gelten. Da er vorliegend obsiegt, sind seine
+Begehren nicht aussichtslos. Daneben erweist sich der Beizug eines
+Rechtsbeistands als erforderlich. Folglich ist sein Gesuch um Gewährung der
+unentgeltlichen Rechtsverbeiständung gutzuheissen und ihm in der Person von
+Rechtsanwalt B.______ ein unentgeltlicher Rechtsbeistand zu bestellen. Dieser
+ist mit Fr. 1'400.- (inkl. Mehrwertsteuer) zu entschädigen. Daran ist die
+Parteientschädigung seitens der Beschwerdegegnerin in gleicher Höhe anzurechnen.
+Demgemäss beschliesst die Kammer
+:
+1.
+Das
+Gesuch des Beschwerdeführers um Gewährung der unentgeltlichen Prozessführung
+wird als gegenstandslos geworden abgeschrieben.
+2.
+Das
+Gesuch des Beschwerdeführers um Gewährung der unentgeltlichen Rechtsverbeiständung
+wird gutgeheissen. Ihm wird in der Person von Rechtsanwalt B.______ ein
+unentgeltlicher Rechtsbeistand bestellt.
+3.
+Der Rechtsbeistand wird zu Lasten der Gerichtskasse
+mit Fr. 1'400.- (inkl. Mehrwertsteuer) entschädigt. Daran
+angerechnet wird die Parteientschädigung seitens der Beschwerdegegnerin in
+gleicher Höhe.
+und erkennt sodann:
+1.
+Die
+Beschwerde wird gutgeheissen. Die Verfügung der Beschwerdegegnerin vom
+14. April 2015 wird aufgehoben. Die Sache wird im Sinne der Erwägungen
+an diese zur materiellen Prüfung der Neuanmeldung vom 9. September 2014
+zurückgewiesen.
+2.
+Der
+Beschwerdegegnerin wird eine pauschale Gerichtsgebühr von Fr. 600.- auferlegt.
+3.
+Die
+Beschwerdegegnerin wird verpflichtet, dem Beschwerdeführer innert 30 Tagen
+nach Rechtskraft dieses Entscheids eine Parteientschädigung von Fr. 1'400.-
+(inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[...]
