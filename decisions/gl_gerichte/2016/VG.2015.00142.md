@@ -1,0 +1,692 @@
+---
+decision_id: "gl_gerichte_VG.2015.00142"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2015.00142"
+docket_2: "VG.2016.366"
+decided: "2016-03-31"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=627&W10_KEY=218274&nTrefferzeile=10&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-007.md", "switzerland/bund/acts/830.1/art-016.md", "switzerland/bund/acts/830.1/art-043.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.20/art-028.md", "switzerland/bund/acts/831.20/art-069.md"]
+---
+
+# GL Gerichte VG.2015.00142
+
+## Regeste
+
+Sozialversicherung - IV
+
+## Text
+
+Glarus Verwaltungsgericht 31.03.2016 VG.2015.00142 (VG.2016.366)
+Glaris Verwaltungsgericht 31.03.2016 VG.2015.00142 (VG.2016.366)
+Glarona Verwaltungsgericht 31.03.2016 VG.2015.00142 (VG.2016.366)
+
+Sozialversicherung - IV
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+31. März 2016
+II. Kammer
+in Sachen
+VG.2015.00142
+A.______
+Beschwerdeführer
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+IV-Stelle Glaru
+s
+Beschwerdegegnerin
+betreffend
+Invalidenrente
+Die Kammer zieht in Erwägung:
+I.
+1.
+A.______, geboren am […],
+meldete sich am 29. April 2014 unter Hinweis auf ein Rückenleiden
+bei der IV-Stelle Glarus zum Bezug von Leistungen der Invalidenversicherung
+an. Mit Vorbescheid vom 2. Mai 2014 stellte ihm die IV-Stelle die
+Abweisung seines Leistungsbegehrens in Aussicht. Den dagegen erhobenen
+Einwänden vom 23. Juni 2015 bzw. 14. September 2015 leistete
+die IV-Stelle insofern Folge, als dass sie mit Schreiben vom
+6. Oktober 2015 bzw. Verfügung vom 21. Oktober 2015 einen
+Abzug vom Tabellenlohn von 15 % anerkannte. Sie hielt aber dennoch an
+der Abweisung des Leistungsbegehrens fest.
+2.
+A.______ gelangte in der
+Folge mit Beschwerde vom 16. November 2015 ans Verwaltungsgericht
+und beantragte die Aufhebung der Verfügung und die Zusprechung von mindestens
+einer halben Invalidenrente mit Wirkung ab dem 2. Mai 2014. Eventualiter
+sei die Verfügung aufzuheben und die Angelegenheit im Sinne der Erwägungen an
+die Vorinstanz zurückzuweisen; alles unter Kosten- und Entschädigungsfolgen
+zu Lasten der IV-Stelle.
+Die IV-Stelle schloss am
+16. Dezember 2015 auf Abweisung der Beschwerde.
+II.
+1.
+Das Verwaltungsgericht ist gemäss Art. 69 Abs. 1 lit. a
+des Bundesgesetzes über die Invalidenversicherung vom 19. Juni 1959 (IVG) zur
+Behandlung der vorliegenden Beschwerde zuständig. Da auch die übrigen
+Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde einzutreten.
+2.
+2.1
+Gemäss Art. 8 Abs. 1 des Bundesgesetzes über den
+Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober 2000
+(ATSG
+) ist
+Invalidität die voraussichtlich bleibende oder längere Zeit dauernde ganze
+oder teilweise Erwerbsunfähigkeit. Erwerbsunfähigkeit ist dabei der durch
+eine Beeinträchtigung der körperlichen, geistigen oder psychischen Gesundheit
+verursachte und nach zumutbarer Behandlung sowie Eingliederung verbleibende
+ganze oder teilweise Verlust der Erwerbsmöglichkeiten auf dem in Betracht
+kommenden ausgeglichenen Arbeitsmarkt (Art. 7 Abs. 1 ATSG).
+2.2
+Nach
+Art. 28 Abs. 2
+IVG besteht bei einem Invaliditätsgrad von mindestens 40 % Anspruch auf
+eine Viertelsrente, bei einem solchen von mindestens 50 % auf eine halbe
+Rente, bei mindestens 60 % auf eine Dreiviertelsrente und ab mindestens
+70 % auf eine ganze Rente.
+Für die Bestimmung des
+Invaliditätsgrades wird das Erwerbseinkommen, das die versicherte Person nach
+Eintritt der Invalidität und nach Durchführung der medizinischen Behandlung
+und allfälliger Eingliederungs­massnahmen durch eine ihr zumutbare Tätigkeit
+bei ausgeglichener Arbeitsmarktlage erzielen könnte, in Beziehung zum
+Erwerbseinkommen gesetzt, welches sie erzielen könnte, wenn sie nicht invalid
+geworden wäre (Art. 16 ATSG).
+2.3
+Wie körperliche können auch geistige
+Gesundheitsschäden eine Invalidität im gesetzlichen Sinn bewirken. Zu
+Letzteren zählen neben den eigentlichen Geisteskrankheiten auch seelische
+Abwegigkeiten mit Krankheitswert (BGE 130 V 352 E. 2.2.1). Von einer
+invalidisierenden psychischen Störung kann indessen nur bei Vorliegen eines medizinischen
+Substrats gesprochen werden, das durch einen Facharzt schlüssig festgestellt
+wird und nachgewiesenermassen die Arbeits- und Erwerbsfähigkeit wesentlich beeinträchtigt.
+Namentlich darf das klinische Beschwerdebild nicht einzig in Beeinträchtigungen
+bestehen, welche von belastenden psychosozialen oder soziokulturellen Faktoren
+herrühren, sondern hat davon psychiatrisch zu unterscheidende Befunde zu umfassen,
+wie etwa eine von depressiven Verstimmungszuständen klar unterscheidbare andauernde
+Depression im fachmedizinischen Sinn oder einen damit vergleichbaren psychischen
+Leidenszustand
+(BGE 127 V 294 E. 5a)
+.
+2.4
+Die erwähnten Grundsätze zur
+Prüfung des invalidisierenden Charakters geistiger Gesundheitsschäden finden
+nach der Rechtsprechung namentlich auch bei Drogensucht und anderen Süchten
+Anwendung. So begründen nach ständiger Rechtsprechung Alkoholabhängigkeit und
+ihre Suchtfolgen keine Invalidität im Sinne des Gesetzes. Vielmehr wird eine
+solche Sucht invalidenversicherungsrechtlich erst bedeutsam, wenn sie
+ihrerseits eine Krankheit oder einen Unfall bewirkt hat, in deren Folge ein
+körperlicher oder geistiger die Erwerbsfähigkeit beeinträchtigender
+Gesundheitsschaden eingetreten ist, oder aber wenn sie selber Folge eines
+körperlichen oder geistigen Gesundheitsschadens ist, welchem Krankheitswert
+zukommt (BGE 124 V 265 E. 3c; BGer-Urteil 8C_906/2013 vom
+23. Mai 2014 E. 2.2).
+2.5
+Invalidenrechtlich nicht als
+relevant gelten
+Beeinträchtigungen der Erwerbsfähigkeit, welche die
+versicherte Person bei Aufbietung allen guten Willens, Arbeit in ausreichendem
+Masse zu verrichten, zu vermeiden vermöchte. Das Mass des Forderbaren muss
+dabei weitgehend objektiv bestimmt werden. Es ist somit festzustellen, ob und
+in welchem Masse ein Versicherter infolge seines geistigen
+Gesundheitsschadens auf dem ihm nach seinen
+Fähigkeiten
+offenstehenden ausgeglichenen Arbeitsmarkt erwerbstätig sein kann. Dabei
+kommt es darauf an, welche Tätigkeit ihm zugemutet werden darf. Zur Annahme
+einer durch einen geistigen Gesundheitsschaden verursachten Erwerbsunfähigkeit
+genügt es also nicht, dass der Versicherte nicht hinreichend erwerbstätig
+ist; entscheidend ist vielmehr, ob anzunehmen ist, die Verwertung der Arbeitsfähigkeit
+sei ihm sozial-praktisch nicht mehr zumutbar oder – als alternative Voraussetzung
+– sogar für die Gesellschaft untragbar (BGE 135 V 201 E. 7.1.1).
+Das Gesagte gilt gleichermassen für Psychopathien,
+psychische Fehlentwicklungen, Trunksucht, suchtbedingten Missbrauch von
+Medikamenten, Rauschgiftsucht und für Neurosen. Art und Mass dessen, was
+einer versicherten Person an Erwerbstätigkeit noch zugemutet werden kann,
+richtet sich nach ihren besonderen persönlichen Verhältnissen einerseits und
+nach den allgemein herrschenden Anschauungen andererseits. Für die
+Beurteilung der Zumutbarkeit ist letztlich insofern eine objektive
+Betrachtungsweise massgebend, als es nicht auf eine bloss subjektiv
+ablehnende Bewertung der infrage stehenden Erwerbstätigkeit durch die
+versicherte Person ankommt (Ulrich Meyer/Marco Reichmuth, Rechtsprechung des
+Bundesgerichts zum Sozialversicherungsrecht, Bundesgesetz über die Invalidenversicherung,
+3. A., Zürich/Basel/Genf 2014, S. 320).
+3.
+3.1
+Gemäss
+Art. 43 Abs. 1 des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts
+vom 6. Oktober 2000 (ATSG) prüft der Versicherungsträger die Begehren, nimmt
+die notwendigen Abklärungen von Amtes wegen vor und holt die erforderlichen
+Auskünfte ein. Soweit ärztliche oder fachliche Untersuchungen für die Beurteilung
+notwendig und zumutbar sind, hat sich die versicherte Person diesen zu unterziehen
+(Art. 43 Abs. 2 ATSG).
+3.2
+Nach dem
+für das gesamte Verwaltungs- und Verwaltungs­gerichts­beschwerdeverfahren
+geltenden Grundsatz der freien Beweiswürdigung haben Versicherungsträger und
+Sozialversicherungsrichter die Beweise frei, d.h. ohne Bindung an förmliche
+Beweisregeln, sowie umfassend und pflichtgemäss zu würdigen. Für das Beschwerdeverfahren
+bedeutet dies, dass das Gericht alle Beweismittel, unabhängig davon, von wem
+sie stammen, objektiv zu prüfen und danach zu entscheiden hat, ob die
+verfügbaren Unterlagen eine zuverlässige Beurteilung des streitigen Rechtsanspruchs
+gestatten.
+Insbesondere darf es bei
+einander widersprechenden medizinischen Berichten den Prozess nicht
+erledigen, ohne das gesamte Beweismaterial zu würdigen und die Gründe
+anzugeben, warum es auf die eine und nicht auf die andere medizinische These
+abstellt (BGE 125 V 351 E. 3a).
+3.3
+Die
+Verwaltung als verfügende Instanz und – im Beschwerdefall – der Richter dürfen
+eine Tatsache nur dann als bewiesen annehmen, wenn sie von ihrem Bestehen überzeugt
+sind. Im Sozialversicherungsrecht hat der Richter dabei seinen Entscheid –
+sofern das Gesetz nicht etwas Abweichendes vorsieht – nach dem Beweisgrad der
+überwiegenden Wahrscheinlichkeit zu fällen. Die blosse Möglichkeit eines
+bestimmten Sachverhalts genügt den Beweisanforderungen nicht. Der Richter hat
+vielmehr jener Sachverhaltsdarstellung zu folgen, die er von allen möglichen
+Geschehensabläufen als die wahrscheinlichste würdigt (BGE 119 V 7
+E. 3c/aa, mit Hinweisen).
+3.4
+Es
+ist Aufgabe des Arztes, sämtliche Auswirkungen einer Krankheit oder eines Un­falls
+auf den Gesundheitszustand der versicherten Person zu beurteilen und dazu Stellung
+zu nehmen, bezüglich welcher konkreten Tätigkeiten und in welchem Umfang sie
+arbeitsunfähig ist. Die ärztlichen Auskünfte sind sodann eine wichtige
+Grundlage für die Beurteilung der Frage, welche Arbeitsleistungen der
+versicherten Person im Hinblick auf ihre persönlichen Verhältnisse noch
+zugemutet werden können (BGE 125 V 256 E. 4).
+3.5
+Hinsichtlich des Beweiswertes eines ärztlichen
+Gutachtens ist entscheidend, ob es für die Beantwortung der gestellten Fragen
+umfassend ist, auf allseitigen Untersuchungen beruht, die geklagten
+Beschwerden berücksichtigt und sich mit diesen sowie dem Verhalten der
+untersuchten Person auseinandersetzt, was vor allem bei psychischen
+Fehlentwicklungen nötig ist, in Kenntnis der und gegebenenfalls in Auseinanderset­zung
+mit den Vorakten (Anamnese) abgegeben worden ist, ob es in der Darlegung der
+medizinischen Zustände und Zusammenhänge einleuchtet, ob die
+Schlussfolgerungen des medizinischen Experten in einer Weise begründet sind,
+dass die rechtsanwendende Person sie prüfend nachvollziehen kann, sowie ob
+der Experte nicht auszuräumende Unsicherheiten und Unklarheiten, welche ihm
+die Beantwortung der Fragen erschweren, gegebenenfalls deutlich macht.
+Ausschlaggebend für den Beweiswert ist grundsätzlich somit weder die Herkunft
+eines Beweismittels noch die Bezeichnung der eingereichten oder in Auftrag
+gegebenen Stellungnahme als Bericht oder Gutachten,
+sondern dessen Inhalt
+(vgl. BGE 125 V 351 E. 3a)
+.
+3.6
+Dennoch
+hat es die Rechtsprechung mit dem Grundsatz der freien Beweiswürdigung als
+vereinbar erachtet, in Bezug auf bestimmte Formen medizinischer Berichte und
+Gutachten Richtlinien für die Beweiswürdigung aufzustellen. Den im Rahmen des
+Verwaltungsverfahrens eingeholten Gutachten von externen Spezialärzten,
+welche aufgrund eingehender Beobachtungen und Untersuchungen sowie nach
+Einsicht in die Akten Bericht erstatten und bei der Erörterung der Befunde zu
+schlüssigen Ergebnissen gelangen, ist bei der Beweiswürdigung volle
+Beweiskraft zuzuerkennen, solange nicht konkrete Indizien gegen die
+Zuverlässigkeit der Expertise sprechen (BGE 137 V 210 E.
+1.3.4).
+4.
+4.1
+Der Beschwerdeführer bringt vor, in der
+Vergangenheit mehrfach verunfallt zu sein und als Folge davon an nachhaltigen
+Rückenbeschwerden zu leiden. Sodann sei eine Polyneuropathie in Folge seines
+chronischen Alkoholabusus seitens der behandelnden Ärzte mit überwiegender
+Wahrscheinlichkeit nachgewiesen. Gemäss den beigezogenen Gutachtern bestehe
+in neurologischer und internistischer Hinsicht weiterer Abklärungs- bzw.
+Diagnosebedarf. Indem die Beschwerdegegnerin keine weitergehenden Abklärungen
+getätigt habe, habe sie den Untersuchungsgrundsatz verletzt. Der festgesetzte
+Invaliditätsgrad von 36 % sei nicht haltbar. Auf dem ausgeglichenen Arbeitsmarkt
+könne er – theoretisch – lediglich leichte adaptierte Tätigkeiten ausführen.
+Er sei nicht in der Lage, die theoretisch noch vorhandenen
+Resterwerbsfähigkeit zu verwerten. Sei davon auszugehen, dass eingliederungs­rechtlich
+keine beruflichen Massnahmen, insbesondere Arbeits­vermittlung möglich seien,
+rechtfertige es sich rentenrechtlich ebenfalls nicht, von der Verwertbarkeit
+eines allenfalls theoretisch noch vorhandenen funktionellen Leistungsvermögens
+auszugehen. Statt auf den Tabellenlohn des Kompetenzniveaus 1 hätte die
+Beschwerdegegnerin, wenn überhaupt, auf das tatsächliche Lohnniveau im Kanton
+Glarus und Umgebung abstellen und abschätzen müssen, welches Erwerbseinkommen
+er theoretisch erzielen könnte. In jedem Fall sei der maximale Abzug vom Tabellenlohn
+zu gewähren. Die jahrelange Alkoholsucht könne nicht als invaliditätsfremder
+Faktor gänzlich unberücksichtigt bleiben.
+4.2
+Die Beschwerdegegnerin stellt sich demgegenüber auf
+den Standpunkt, die ihr obliegenden Abklärungspflichten vollumfänglich,
+sorgfalts- und pflichtgemäss wahrgenommen zu haben. Sie habe sich aufgrund
+der getätigten medizinischen Abklärungen und vorliegenden Berichte davon
+überzeugen können, dass der Beschwerdeführer mit überwiegender
+Wahrscheinlichkeit in angepasster (recte: angestammter) Tätigkeit zu 50
+%
+arbeitsfähig sei. Auch weitere Arztberichte hätten daran nichts zu ändern vermocht.
+Ein Anspruch auf second opinion bestehe ohnehin nicht. Mit einem Abzug in der
+Höhe von 15 % habe sie die subjektive Einschätzung des Beschwerdeführers in
+die versicherungsmedizinische Beurteilung einfliessen lassen.
+Die beruflichen Integrationsmassnahmen seien deshalb
+eingestellt worden, weil die subjektive Einstellung des Beschwerdeführers
+einer beruflichen Integration entgegen gestanden sei und nicht deshalb, weil
+keine Verwertbarkeit der Restarbeitsfähigkeit gesehen worden sei. Der Beschwerdeführer
+sei nämlich der Ansicht gewesen, ihm stünde eine Invalidenrente zu,
+wohingegen er sich nicht in der Lage gesehen habe, weiterhin eine Arbeit zu
+verrichten. Es sprächen sodann keine stichhaltigen Gründe dagegen, den
+Beschwerdeführer bezüglich Lohnpotential in das Kompetenzniveau 1
+einzuordnen.
+5.
+Die Beschwerdegegnerin
+spricht in ihrer Beschwerdeantwort versehentlich durchwegs von einer 50%igen Arbeitsfähigkeit
+in angepasster Tätigkeit, geht aber ihrer Verfügung entsprechend von einer
+100%igen Arbeitsfähigkeit in angepasster Tätigkeit und einer 50%igen
+Arbeitsfähigkeit in angestammter Tätigkeit aus. Soweit der Beschwerdeführer
+die Arbeitsfähigkeit in angestammter Tätigkeit bestreitet und diese genauer
+abgeklärt haben will, ist darauf hinzuweisen, dass diese vorliegend nicht
+massgebend ist, da sich die Beschwerdegegnerin bei der Berechnung des
+Invaliditätsgrades auf die Arbeitsfähigkeit in angepasster Tätigkeit stützt.
+Somit ist nachfolgend die Arbeitsfähigkeit in angepasster Tätigkeit zu
+prüfen. Dabei ist festzuhalten, dass die rein subjektive Einschätzung des
+Beschwerdeführers betreffend seine Arbeitsfähigkeit nicht massgebend ist.
+Vielmehr ist es primär ärztliche Aufgabe, anhand der objektiven
+Befunderhebung die sich daraus ergebenden Auswirkungen auf die
+Leistungsfähigkeit zu bestimmen
+(BGer-Urteil
+8C_101/2014
+vom 3. April 2014 E. 5.1, mit Hinweisen). Insofern kommt dem Umstand,
+dass keine beruflichen Massnahmen ergriffen worden sind, weil sich der Beschwerdeführer
+dazu nicht in der Lage fühlte, für die Beurteilung der Zumutbarkeit einer
+angepassten Arbeitstätigkeit – entgegen der Ansicht des Beschwerdeführers –
+keine entscheidwesentliche Bedeutung zu.
+6.
+6.1
+Nach eigenen Angaben leidet der Beschwerdeführer
+seit einem Unfall vor vielen Jahren, als ihm als Tunnelbauer eine grössere
+Menge Gestein auf den Rücken gefallen war, an Rückenschmerzen. Die erste
+aktenkundige notfallmässige Einlieferung des Beschwerdeführers ins
+Kantonsspital Glarus datiert vom 29. Juli 2012. Es wurden die Diagnosen
+eines unklaren Sturzes in alkoholisiertem Zustand, Differentialdiagnose im
+Rahmen eines cerebralen Krampfanfalles mit Thoraxkontusion rechts und
+Riss-Quetsch-Wunde der Unterlippe rechts, eines chronischen Alkoholabusus mit
+Polyneuropathie sowie eines Nikotinabusus gestellt. Die Beratungs- und
+Therapiestelle Sonnenhügel (BTS Glarus) wurde gebeten, den Beschwerdeführer
+zur Suchtberatung aufzubieten.
+6.2
+Am 4. November 2013 kam es zu einem
+weiteren Sturzereignis mit Treppensturz ohne Bewusstseinsverlust. In der
+Abklärung im Kantonsspital Glarus zeigten sich in der thorakalen
+Computertomographie (CT) mit Darstellung des thorakolumbalen Übergangsbereichs
+keine Anzeichen einer frischen ossären Läsion. Es handle sich vermutlich um
+alte osteoporotische Frakturen des Brustwirbelkörpers (BWK)12 und Lendenwirbelkörpers
+(LWK)2. Die Frakturen seien gemäss Orthopädie stabil.
+6.3
+Am 8. Januar 2014 rutschte der Beschwerdeführer
+auf einer Eisplatte aus und stürzte erneut. In einer
+Magnetresonanztomographie (MRI) der Lendenwirbelsäule (LWS) vom
+13. März 2014 stellten sich Frakturen BWK12, LWK1, LWK2 und LWK3
+dar. BWK12 und LWK2 seien nicht wesentlich in der Konfiguration verändert
+gegenüber dem vorbestehenden CT vom November 2013. Neu sei eine Fraktur
+der oberen Deckplatte LWK1 und der untere LWK3 zeige auch eine Eindellung in
+vorbestehender Röntgenaufnahme vom November 2013, soweit vergleichbar
+möglicherweise etwas zugenommen und zudem auch etwas ödem. Ödemzeichen fänden
+sich auch auf den anderen Niveaus.
+6.4
+Der Hausarzt des Beschwerdeführers, Dr. med.
+C.______ FMH für Allgemeinmedizin, diagnostizierte am 13. Mai 2014
+eine hochgradige Polyneuropathie mit Gleichgewichtsstörungen und Zustand nach
+multiplen Stürzen und multiplen Frakturen. Der körperlich und geistig
+abgebaute Beschwerdeführer befinde sich in reduziertem und verwahrlostem
+Allgemeinzustand. Seit dem 6. Januar 2014 sei er bis auf Weiteres
+zu 100 % arbeitsunfähig. Eine Wiedereingliederung sei unter diesen
+Umständen nicht möglich. Die Prognose sei verschlechternd, da
+Alkoholüberkonsum und Nikotinkonsum anhielten. Er bat um Kontrolle des
+Beschwerdeführers durch den Regional Ärztlichen Dienst (RAD).
+6.5
+Dr. med. D.______, FMH für Orthopädische Chirurgie
+und Traumatologie des Bewegungsapparates, welcher beim Beschwerdeführer am
+27. Februar 2014 frische Frakturen der LWK 1 und 2 diagnostiziert hatte,
+verwies die Beschwerdegegnerin am 23. Mai 2015 bezüglich weiterer
+Informationen auf Dr. med. C.______.
+6.6
+Der zuständige RAD-Arzt, Dr. E.______ FMH für
+Rheumatologie, FMH und UEMS für Physikalische Medizin und Rehabilitation,
+empfahl in der Folge und aufgrund der Aktenlage am 18. August 2014
+eine polydisziplinäre Erstbegutachtung.
+7.
+7.1
+Die Beschwerdegegnerin stützte sich in ihrer
+Verfügung vom 21. Oktober 2015 und der Annahme einer 100%igen
+Arbeitsfähigkeit in angepasster Tätigkeit auf das polydisziplinäre Gutachten
+der L.______AG vom 25. März 2015. Zwischen den Parteien ist insbesondere
+strittig, ob das Gutachten eine beweistaugliche Grundlage für die Beurteilung
+des Gesundheitszustands und der Auswirkungen auf die Arbeitsfähigkeit des Beschwerdeführers
+darstellt. Insbesondere ist der Abklärungsbedarf bezüglich des Gesundheitszustands
+des Beschwerdeführers zu prüfen. Während die Beschwerdegegnerin im Gutachten
+eine genügende Beweisgrundlage erblickt, sieht der Beschwerdeführer
+insbesondere in neurologischer und internistischer Hinsicht weiteren
+Abklärungsbedarf.
+7.2
+Aus neurologischer Sicht wird gestützt auf eine
+eingehende Untersuchung des Beschwerdeführers, insbesondere einer
+Untersuchung der Muskeln sowie der Nervenleitgeschwindigkeit (Ergebnisse des
+Elektromyogramms [EMG] in Kombination mit der Messung der
+Nervenleitgeschwindigkeit [NLG] am Spital F.______, Klinik für Neurologie,
+vom 24. Februar 2015), sowie in Kenntnis der Vorakten die klinische Diagnose
+einer alkoholtoxischen Polyneuropathie mit Störungen der Koordination,
+elektroneurografisch nicht sicher verifizierbar, gestellt. Chefarzt und
+Hauptgutachter Neurologie, Prof. Dr. med. G.______, Facharzt
+Neurologie und Facharzt Psychiatrie und Psychotherapie, stellt fest, dass die
+Diagnose nicht habe gesichert werden können. Unabhängig davon führt er diese
+Diagnose im Gutachten unter den Diagnosen mit Auswirkungen auf die Arbeitsfähigkeit
+aus.
+Im
+Rahmen der abschliessenden Beurteilung, in welcher er die Diagnosen würdigt,
+hält Prof. Dr. med. G.______ jedoch explizit fest, dass trotz
+dieses Befunds aus neurologischer Sicht eine angepasste Tätigkeit möglich
+sei. Die qualitativen Einschränkungen durch die Polyneuropathie
+berücksichtigt er jedoch bei der Festlegung des zumutbaren Belastungsprofils
+des Beschwerdeführers und zwar insofern, als dass Arbeiten auf Leitern und
+Gerüsten oder auf unebenen Flächen ohne genügende Standsicherheit nicht in
+Frage kämen. Dies ist nachvollziehbar, weshalb die Einschätzung von
+Dr. E.______ zu teilen ist, dass von der Einholung eines ergänzenden
+medizinischen Gutachtens keine entscheidrelevanten neuen Erkenntnisse zu
+erwarten wären.
+Prof. Dr. med. G.______
+hält zudem fest, dass mit einer Verbesserung der qualitativen Einschränkungen
+unter Alkoholkarenz binnen Jahresfrist zu rechnen sei. Deshalb kann gerade
+nicht davon ausgegangen werden, dass der Beschwerdeführer, ohne der Alkoholsucht
+verfallen zu sein, infolge der neurologischen Beeinträchtigungen als invalid
+gelten und es auch nach Entwöhnung seiner Abhängigkeit bleiben würde.
+Folglich leuchtet es ein, dass ein primärer Suchttyp vorliegt und die dadurch
+bewirkte Einschränkung der Gesundheit die Intensität einer Invalidität im
+Sinne des Gesetzes nicht erreicht, da sie die Erwerbsfähigkeit des
+Beschwerdeführers mit überwiegender Wahrscheinlichkeit nicht bleibend fühlbar
+zu beeinträchtigen vermag.
+7.3
+Dem Teilgutachten Innere Medizin von
+Dr. med. H.______, Fachärztin Allgemeine Innere Medizin, sind keine
+Diagnosen mit Einfluss auf die Arbeitsfähigkeit zu entnehmen. Aus
+internistischer Sicht ist zwar festzuhalten, dass Dr. med. H.______
+nach eingehender Untersuchung des Beschwerdeführers die Hepatopathie im
+Rahmen der Alkoholerkrankung als abklärungsbedürftig befindet und eine
+weitergehende gastroenterologische Abklärung empfiehlt. Gleichzeitig führt
+sie diesen Verdacht aber unter den Diagnosen ohne Auswirkungen auf die
+Arbeitsfähigkeit auf. In der abschliessenden Beurteilung würdigt sie ihre
+Befunde umfassend und kommt zum Schluss, dass keine Befunde von relevantem
+Krankheitswert hätten erhoben werden können und der Beschwerdeführer aus
+allgemein-internistischer Sicht ohne Einschränkung arbeitsfähig sei.
+Soweit Dr. E.______
+dabei zum Schluss kommt, dass die empfohlene Abklärung der Alkoholerkrankung
+aus versicherungsmedizinischer Sicht keinen Einfluss auf die Beurteilung der
+funktionellen Leistungsfähigkeit habe und daher im Kontext der Prüfung von
+medizinischen Anspruchsvoraussetzungen nicht empfohlen werden könne, ist dies
+nicht zu beanstanden.
+7.4
+Neben der klinischen Diagnose einer alkoholtoxischen
+Polyneuropathie mit Störung der Koordination diagnostiziert
+Dr. med. I.______, Facharzt Orthopädische Chirurgie und
+Traumatologie des Bewegungsapparates, beim Beschwerdeführer verheilte Frakturen
+Th12 und L1 bis 3 (ICD-10: S. 22.0 + 32.0). Diese Diagnose zeitige
+ebenfalls Einschränkungen auf die Arbeitsfähigkeit und zwar insofern, als
+dass eine verminderte Belastbarkeit der Wirbelsäule bestehe, wobei Steh- und
+Gehfähigkeit eingeschränkt seien. Das Gutachten hält dabei ausdrücklich fest,
+dass eine angepasste Tätigkeit dennoch vollschichtig möglich sei. Es
+berücksichtigt die Einschränkungen aber in genügendem Masse, indem es ein den
+Einschränkungen entsprechendes Zumutbarkeitsprofil definiert bzw. gewisse
+Tätigkeiten als unzumutbar ausschliesst. Danach besteht eine Arbeitsfähigkeit
+in angepassten Tätigkeiten ohne wiederholtes Heben von Lasten über
+15 kg, ohne Zwangshaltung des Oberkörpers über 20 Minuten
+(Inklination, Reklination, Seitenneigung) sowie ohne längeres Sitzen und
+Stehen über eine Stunde ohne Positionswechsel. Eine solche Tätigkeit sei dem
+Beschwerdeführer ab dem 4. November 2013 (zweiter Sturz mit
+Schmerzverstärkung) zu 100 % möglich. Seien die Bedingungen für eine
+Anpassung erfüllt, könne ein vollschichtiger Einsatz geleistet werden und
+eine weitere Steigerung der Arbeitsfähigkeit sei aus Sicht des Bewegungsapparates
+nicht mehr möglich. Diese Schlussfolgerung leuchtet nach der überzeugenden
+Darlegung der medizinischen Zusammenhänge und unter der Berücksichtigung der
+geklagten Rückenleiden des Beschwerdeführers ein.
+7.5
+Das Gutachten kommt, insbesondere gestützt auf die
+Erkenntnisse aus dem psychiatrischen Teilgutachten von Dr. med. J.______,
+Fachärztin Psychiatrie und Psychotherapie FMH, sodann zum Schluss, dass ein
+primäres Alkoholabhängigkeits­syndrom (ICD-10: F. 10.25) und damit ein
+reines Suchtgeschehen vorliege, wobei ein krankheitswertiger psychischer
+Gesundheitsschaden zu verneinen sei. Trotz des langjährigen Alkoholkonsums
+sei es dem Beschwerdeführer gelungen, bis 2007 einer Arbeit nachzugehen und
+soziale Kontakte aufrecht zu erhalten. Erst nach seiner Kündigung 2007 sei es
+ihm nicht mehr möglich gewesen, in den Arbeitsprozess zurückzukehren. Zwar
+sei davon auszugehen, dass der Beschwerdeführer deutlich mehr und regelmässiger
+Alkohol konsumiere, als er angebe; er bagatellisiere. Aufgrund des Labors mit
+erhöhtem CDT-Spiegel (Carbohydrat-defizientes Transferrin), erhöhten Leberwerten
+und einem erhöhten Ethylgucuronidwert während der Exploration
+(=alkoholisierter Proband) sei von einem ständigen Substanzgebrauch
+auszugehen. Die diagnostizierte Störung durch Alkoholabhängigkeit, ständiger
+Substanzgebrauch (ICD-10: F.10.25), sei jedoch ohne Einfluss auf die Arbeitsfähigkeit.
+Diese
+Beurteilung ist nachvollziehbar, da insbesondere auch aus psychiatrischer
+Sicht relevante psychische Vorerkrankungen bzw. relevante Folgeerkrankungen
+nach Auseinandersetzung mit der Anamnese und eingehender Untersuchung des
+Beschwerdeführers ausgeschlossen werden. So wird das Bestehen einer
+organischen Persönlichkeitsveränderung oder eines bleibenden kognitiven
+Abbaus ausdrücklich verneint. Zwar seien beim Beschwerdeführer eindeutige
+körperliche Folgeschäden bewirkt durch den Alkoholismus vorhanden, die auf
+einen langjährigen regelmässigen Konsum von Alkohol schliessen liessen,
+jedoch ohne die Intensität einer Invalidität im Sinne des Gesetzes zu erreichen.
+Auch
+wird die Frage geprüft, ob der Alkoholismus selber Symptom einer geistigen Störung
+mit Krankheitswert ist, und verneint. So werden keine psychiatrischen Befunde
+mit Krankheitswert gestellt. Insbesondere werden wesentliche affektive
+Störungen im Sinne einer Depression oder Angsterkrankung sowie eine
+Erkrankung aus dem schizophrenen Formenkreis deutlich verneint. Es wird
+ausdrücklich festgehalten, dass der Beschwerdeführer – bei anhaltender
+Alkoholkarenz – insbesondere aus psychiatrischer Sicht keine Einschränkung in
+der Arbeitsfähigkeit erleide.
+Es
+wird sodann überzeugend dargelegt, dass der Beschwerdeführer in der Anpassung
+an Regeln und Routinen, in der Flexibilität und Umstellungsfähigkeit sowie in
+der Anwendung fachlicher Kompetenzen nicht eingeschränkt sei. Ebenso wenig
+sei er eingeschränkt in der Planung und Strukturierung von Aufgaben sowie
+seiner Entscheidungs- und Urteilsfähigkeit. Zwar könne seine
+Durchhaltefähigkeit zu Beginn leicht eingeschränkt sein. Es bestünden aber
+eine Kontaktfähigkeit zu Dritten, eine Gruppen- und
+Selbstbehauptungsfähigkeit und keine Einschränkung in familiären und intimen
+Beziehungen. Die Spontanaktivität und Selbstpflege seien nur minimal beeinträchtigt.
+Da der Beschwerdeführer keinen Fahrausweis besitze, stelle sich die Frage
+nach der Verkehrsfähigkeit schliesslich nicht. Aufgrund dieser Erkenntnisse
+kann nicht die Rede davon sein, dass der Beschwerdeführer, ohne der Sucht
+verfallen zu sein, infolge von Beeinträchtigungen seiner geistigen bzw.
+psychischen Gesundheit als invalid gelten und es auch nach Entwöhnung bleiben
+würde.
+7.6
+Das neuropsychologischen Teilgutachten von
+Dipl.-Psych. K.______, Fachpsychologin für Neuropsychologie FSP, vom
+1. März 2015, hält fest, dass aufgrund der Anamnese sowie der
+Testergebnisse von einer normalen prämorbiden Intelligenz ausgegangen werden
+könne. Beim Beschwerdeführer fänden sich teils altersnormgerechte, teils
+leicht bis deutlich unterdurchschnittliche, vereinzelt stark unterdurchschnittliche
+Ergebnisse. Sehr wahrscheinlich zeitigten die langjährige Alkoholabhängigkeit
+und die angegebenen Schmerzen sowie der angegebene Infekt Einfluss auf seine
+Leistungsfähigkeit. Aus neuropsychologischer Sicht könne das
+Leistungsvermögen des Beschwerdeführers jedoch nicht abschliessend beurteilt
+werden. Grund dafür sei die begrenzte Kooperation des Beschwerdeführers
+während der Untersuchung. Der Beschwerdeführer habe die Aufgabenbearbeitung
+teilweise abgebrochen und eine Verdeutlichung der Beschwerden sowie eine
+zumindest in Teilen verminderte Anstrengungsbereitschaft könnten nicht
+ausgeschlossen werden.
+Es ist offensichtlich,
+dass ein solches Verhalten eine Diagnosestellung erschweren kann. Zumindest
+hinterlässt es den Eindruck, dass der Leidensdruck in dieser Hinsicht nicht
+allzu gross ist, was vom Beschwerdeführer auch nicht vorgebracht wird. Aufgrund
+seiner schlechten Compliance im Rahmen dieser Untersuchung ist auch nicht
+ersichtlich, inwiefern eine erneute Begutachtung zu neuen Erkenntnissen
+führen würde. Es leuchtet deshalb ein, dass die Gutachter zum Schluss kommen,
+dass polydisziplinär die somatischen Einschränkungen auf neurologischem und
+orthopädischem Gebiet führend seien.
+7.7
+Die Einschätzungen der Gutachter erscheinen
+durchwegs als vollständig und plausibel. Die Einwendungen des
+Beschwerdeführers sowie die vor der polydisziplinären Begutachtung abgegebene
+Einschätzung von Dr. C.______ vermögen keine Zweifel am Beweiswert des
+Gutachtens zu wecken. Es sind keine Gründe ersichtlich, weshalb die
+Beschwerdegegnerin nicht auf die Meinung der Gutachter abstellen durfte. Der
+ausführlichen und nachvollziehbar begründeten Einschätzung der Gutachter ist
+deshalb zu folgen und anzunehmen, dass die Einschränkungen bedingt durch die
+Diagnosen verheilter Frakturen Th12 und L1 bis 3 (ICD-10: S.22.0 und S.32.0)
+sowie einer alkoholtoxischen Polyneuropathie mit Störungen der Koordination,
+Einfluss auf die Arbeitsfähigkeit bzw. das zumutbare Belastungsprofil
+zeitigen. Gestützt auf die versicherungsmedizinische Einschätzung und das
+nachvollziehbar begründete polydisziplinäre Gutachten ist mit überwiegender
+Wahrscheinlichkeit davon auszugehen, dass dem Beschwerdeführer spätestens ab
+4. November 2013 keine schweren Arbeiten, jedoch leichte oder mittelschwere
+adaptierte Tätigkeiten, ohne wiederholtes Heben von Lasten über 15 kg,
+ohne Zwangshaltung des Oberkörpers über 20 Minuten (Inklination, Reklination,
+Seitenneigung) sowie ohne längeres Sitzen und Stehen über eine Stunde ohne Positionswechsel
+zu 100 % zumutbar sind.
+Die
+vom Beschwerdeführer geschilderte ungünstige Erwerbsprognose ist demgemäss
+vor allem der Suchterkrankung zuzuschreiben, nicht einem invalidenrechtlich
+relevanten Gesundheitsschaden. Der Beschwerdegegnerin kann in Anbetracht der
+zahlreichen Abklärungen bis zum Verfügungserlass keine Verletzung von
+Art. 43 ATSG vorgeworden werden. Sie zeigte überzeugend auf, dass
+das Gutachten den rechtsprechungsgemässen Anforderungen an eine
+beweistaugliche medizinische Entscheidgrundlage (BGE 125 V 351 E. 3a, mit
+Hinweis) entspricht und eine schlüssige Beurteilung ermöglicht. Bei formell
+einwandfreien und materiell schlüssigen (beweistauglichen und beweiskräftigen)
+medizinischen Entscheidungsgrundlagen der Beschwerdegegnerin besteht kein
+Anspruch auf eine gerichtliche Expertise (BGE 135 V 465
+E. 4). Weitere Beweisvorkehren vermöchten denn auch an der Würdigung der
+bereits abgenommenen Beweise nichts mehr zu ändern, weshalb darauf im Sinne
+einer antizipierten Beweiswürdigung zu verzichten ist (vgl. BGE 124 I 208
+E. 4a).
+8.
+8.1
+Strittig und zu prüfen ist sodann der von der
+Beschwerdegegnerin vorgenommene Einkommensvergleich.
+Die Beschwerdegegnerin
+errechnete die Erwerbseinbusse des Beschwerdeführers, indem sie das Erwerbseinkommen,
+das er erzielen könnte, wenn er nicht invalid geworden wäre (hypothetisches
+Valideneinkommen von Fr. 87'746.85), dem Erwerbseinkommen, das er nach
+Eintritt der Invalidität durch eine ihm zumutbare Tätigkeit bei ausgeglichener
+Arbeitsmarktlage erzielen könnte (hypothetisches Invalideneinkommen von Fr.
+62'850.50), gegenüberstellte.
+Die Beschwerdegegnerin
+stellte für die Berechnung des Valideneinkommens auf den Durchschnittslohn im
+Grosshandel, Handel und Reparatur von Motorfahrzeugen, für komplexe
+praktische Tätigkeiten, welche ein grosses Wissen in einem Spezialgebiet voraussetzen,
+gemäss Lohnstrukturerhebung des Bundesamts für Statistik (LSE) 2012,
+indexiert auf das Jahr 2014, Kompetenzniveau 3, Ziffn. 45-46, ab. Nach
+Tabelle TA 1 der LSE 2012 betrug das ermittelte durchschnittliche
+Monatseinkommen in der Branche Grosshandel, Handel und Reparatur von
+Motorfahrzeugen, für auf Kompetenzniveau 3 tätige Männer Fr. 6'886.-
+bzw. jährlich Fr. 82'632.-. Umgerechnet auf eine durchschnittliche
+Wochenarbeitszeit im Jahr 2012 von 41,7 Stunden und die entsprechende
+Nominallohnentwicklung für Männer bis 2014, resultiert ein massgebliches Valideneinkommen
+von Fr. 87'746.85 (recte: Fr. 87'440.85; Übertragungsfehler,
+Fr. 82'632.- x 41,7 / 40 x 1.007 x 1.008).
+Für das Invalideneinkommen
+stellte die Beschwerdegegnerin auf den Durchschnittslohn für einfache und
+repetitive Tätigkeiten gemäss LSE 2012, indexiert auf das Jahr 2014,
+Kompetenzniveau 1 ab. Nach Tabelle TA 1 der LSE 2012 betrug das über
+alle Branchen ermittelte durchschnittliche Monatseinkommen für auf
+Kompetenzniveau 1 tätige Männer Fr. 5'210.- bzw. jährlich
+Fr. 62'520.-. Umgerechnet auf eine durchschnittliche Wochenarbeitszeit
+im Jahr 2012 von 41,7 Stunden und die entsprechende Nominallohnentwicklung
+für Männer bis 2014 resultiert ein Zwischentotal von Fr. 66'158.40
+(62'520.- x 41,7 / 40 x 1.007 x 1.008). Ausgehend von einem Abzug
+vom Tabellenlohn von 15 % ergibt sich ein Invalideneinkommen von
+Fr. 56'234.65, was zu einem Invaliditätsgrad von 36 % führt.
+8.2
+Die Berechnung des Valideneinkommens, insbesondere
+der Rückgriff auf Erfahrungs- und Durchschnittswerte (LSE-Medianwert) wird
+vom Beschwerdeführer nicht beanstandet. Uneinig sind sich die Parteien
+bezüglich der Berechnung des Invalideneinkommens. Während die
+Beschwerdeführerin auf den LSE-Tabellenlohn abstellte, beruft sich der
+Beschwerdeführer auf das tatsächliche Lohnniveau im Kanton Glarus und
+Umgebung. Dabei verkennt er, dass im Rahmen des Beizugs von Statistikwerten
+für die Invaliditätsbemessung nicht auf regionale Lohnangaben abzustellen ist
+(Meyer/Reichmuth, S. 329 f.). Für den Verwendungszweck des
+Einkommensvergleichs ist auf die Statistik der Lohnsätze, d.h. die
+standardisierten Bruttolöhne abzustellen, wobei jeweils vom Zentralwert
+(Median) auszugehen ist, der bei der Lohn(einkommens)verteilung in der Regel
+tiefer liegt als das arithmetische Mittel ("Durchschnittslohn") und
+im Vergleich dazu gegenüber dem Einbezug von Extremwerten (sehr tiefe oder
+hohe Lohnangaben) relativ robust ist (BGE 124 V 321
+E. 3b aa).
+A
+ngesichts der
+ärztlichen Vorgaben in Bezug auf zumutbare Arbeitstätigkeiten für die
+Bestimmungen des hypothetischen Invalideneinkommens sind die Lohnverhältnisse
+im gesamten privaten Sektor der LSE (Tabelle TA1) massgebend. So stehen dem Beschwerdeführer
+– trotz seinen gesundheitlichen Einschränkungen – auf dem massgeblichen
+hypothetischen ausgeglichenen Arbeitsmarkt genügend leichte Hilfs-, Kontroll-
+und Überwachungstätigkeiten offen, zumal es bei diesem Arbeitsmarkt denn
+nicht um reale, offene Stellen geht, sondern um (gesundheitlich zumutbare)
+Beschäftigungsmöglichkeiten, welche der Arbeitsmarkt von seiner Struktur her,
+jedoch abstrahiert von den konjunkturellen Verhältnissen, umfasst (vgl.
+BGer-Urteil I 269/05 vom 11. Oktober 2005 E. 3.5). Das von der
+Beschwerdeführerin als massgebend betrachtete Valideneinkommen ist deshalb
+nicht zu beanstanden.
+8.3
+Wird das Invalideneinkommen auf der Grundlage von
+statistischen Durchschnittswerten ermittelt, ist der entsprechende
+Ausgangswert allenfalls zu kürzen. Praxisgemäss können persönliche und
+berufliche Merkmale der versicherten Person wie Alter, Dauer der
+Betriebszugehörigkeit, Nationalität oder Aufenthalts­kategorie sowie Beschäftigungsgrad
+einen Abzug von dem nach den LSE-Tabellenlöhnen zu ermittelnden Invalideneinkommen
+rechtfertigen, soweit anzunehmen ist, dass die trotz des Gesundheitsschadens
+verbleibende Leistungsfähigkeit infolge eines oder mehrerer dieser Merkmale
+auf dem allgemeinen Arbeitsmarkt nur mit unterdurchschnittlichem Einkommen verwertet
+werden kann (BGE 134 V 322 E. 5.2, mit Hinweis). Ein
+Abzug soll aber nicht automatisch, sondern nur dann erfolgen, wenn im
+Einzelfall Anhaltspunkte dafür bestehen, dass die versicherte Person wegen
+eines oder mehrerer dieser Merkmale ihre gesundheitlich bedingte
+(Rest-)Arbeitsfähigkeit auf dem allgemeinen Arbeitsmarkt nur mit unterdurchschnittlichem
+Einkommen verwerten kann. Bei der Bestimmung der Höhe des Abzugs ist der
+Einfluss aller in Betracht fallenden Merkmale auf das Invalideneinkommen
+unter Würdigung der Umstände im Einzelfall gesamthaft zu schätzen und insgesamt
+auf höchstens 25 % des Tabellenlohnes zu begrenzen (vgl. zum Ganzen
+BGE 126 V 75). Die Höhe des Abzugs vom Tabellenlohn ist eine
+Ermessensfrage (BGer-Urteil 9C_746/2010 vom 28. Januar 2011 E. 3.2). Das
+Verwaltungsgericht prüft zwar gemäss Art. 107 Abs. 2 lit. d des Gesetzes über
+die Verwaltungsrechtspflege vom 4. Mai 1986 (VRG) die Angemessenheit des
+angefochtenen Entscheids, darf aber nicht ohne Not sein Ermessen anstelle desjenigen
+der Vorinstanz setzen (BGer-Urteil 8C_546/2011 vom 14. November 2011 E. 4.3).
+Die Beschwerdegegnerin hat
+bei der Gewährung eines Abzugs von 15 % berücksichtigt, dass das
+umschriebene Anforderungsprofil verschiedene Limitierungen enthält und die
+Einsatzmöglichkeiten des Beschwerdeführers, der ca. neun Jahre nicht
+mehr erwerbstätig gewesen war, weiter einschränkt. Er muss sich wohl aufgrund
+seiner Einschränkungen mit einem geringeren Lohn begnügen als voll
+leistungsfähige und entsprechend einsetzbare Arbeitnehmer. Unter Würdigung
+der gegebenen Umstände und Berücksichtigung aller in Betracht fallenden
+Merkmale rechtfertigt sich jedoch kein höherer Abzug als ein solcher von
+15 %. Damit bleibt es bei einem rentenaus­schliessen­den
+Invaliditätsgrad von 36 %.
+Dies führt zur Abweisung
+der Beschwerde.
+III.
+Nach Art. 134 Abs. 1 lit.
+c VRG i.V.m. Art. 69 Abs. 1
+bis
+IVG hat die Partei, welche im
+Beschwerdeverfahren unterliegt, die amtlichen Kosten zu tragen. Entsprechend
+dem Ausgang des Verfahrens sind dem Beschwerdeführer die Gerichtskosten von
+pauschal Fr. 600.- aufzuerlegen, die mit dem von ihm bereits geleisteten
+Kostenvorschuss in gleicher Höhe zu verrechnen sind. Eine Parteientschädigung
+ist ihm nicht zuzusprechen (Art. 61 lit. g ATSG e contrario).
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Dem
+Beschwerdeführer werden die Gerichtskosten von pauschal Fr. 600.- auferlegt,
+die mit dem von ihm bereits geleisteten Kostenvorschuss in gleicher Höhe
+verrechnet werden.
+3.
+Eine
+Parteientschädigung wird nicht zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
