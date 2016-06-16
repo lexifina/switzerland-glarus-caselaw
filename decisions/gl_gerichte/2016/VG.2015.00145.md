@@ -1,0 +1,374 @@
+---
+decision_id: "gl_gerichte_VG.2015.00145"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2015.00145"
+docket_2: "VG.2016.408"
+decided: "2016-06-16"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=675&W10_KEY=218274&nTrefferzeile=10&Template=simple/search_result_document.html"
+---
+
+# GL Gerichte VG.2015.00145
+
+## Regeste
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+## Text
+
+Glarus Verwaltungsgericht 16.06.2016 VG.2015.00145 (VG.2016.408)
+Glaris Verwaltungsgericht 16.06.2016 VG.2015.00145 (VG.2016.408)
+Glarona Verwaltungsgericht 16.06.2016 VG.2015.00145 (VG.2016.408)
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+16. Juni 2016
+I. Kammer
+in Sachen
+VG.2015.00145
+A.______AG
+Beschwerdeführerin
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+1.
+C.______AG
+Beschwerdegegner
+2.
+D.______AG
+beide vertreten durch
+Rechtsanwalt
+E.______
+3.
+Gemeinde Glarus Nord
+vertreten durch
+Rechtsanwalt
+F.______
+4.
+Departement Bau und Umwelt des Kantons
+Glarus
+betreffend
+Überbauungsplan
+Die
+Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Das Ressort Bau und Umwelt der Gemeinde Glarus Nord
+publizierte nach Durchführung des Mitwirkungsverfahrens im Amtsblatt vom […]
+den Überbauungsplan G.______ und legte ihn vom […] bis […] öffentlich auf.
+Der Überbauungsplanperimeter umfasst die Parz.-Nrn. 01, 02, 03 und 04,
+Grundbuch H.______.
+1.2
+Die A.______AG ist Eigentümerin der dem
+Überbauungsplangebiet benachbarten Parz.-Nrn. 05 und 06, Grundbuch H.______.
+Zu Gunsten dieser beiden Grundstücke und zu Lasten der Parz.-Nrn. 01, 07, 02,
+04 und 08, Grundbuch H.______, bzw. zu Lasten der Parz.-Nrn. 09, 01, 04 und
+08, Grundbuch H.______, besteht je ein Fuss- und Fahrwegrecht.
+Am 30. September 2013
+erhob die A.______AG beim Gemeinderat Glarus Nord Einsprache gegen den
+Überbauungsplan und beantragte dessen Rückweisung. Die Gemeindeversammlung
+vom 20. Juni 2014 wies den Überbauungsplan bis zum Inkrafttreten der neuen
+Richt- und Nutzungsplanung zurück. Der Gemeinderat trat am 15. April 2015 auf
+die Einsprache nicht ein. Im Einspracheentscheid wies er darauf hin, dass der
+Einspracheentscheid erst nach dem Entscheid der Gemeindeversammlung
+anfechtbar sei. Am 15. Juli 2015 teilte der Gemeinderat der A.______AG
+mit, dass die Gemeindeversammlung vom 19. Juni 2015 dem Wiedererwägungsantrag
+der C.______AG und der D.______AG, entsprochen habe. Daraufhin habe die
+Gemeindeversammlung den Überbauungsplan erlassen.
+2.
+Am 17. August 2015 erhob
+die A.______AG Beschwerde beim Departement Bau und Umwelt (DBU) und beantragte
+die Aufhebung des Einspracheentscheids vom 15. April 2015 sowie des
+Gemeindeversammlungsbeschlusses vom 19. Juni 2015 betreffend
+Überbauungsplan G.______. Der Gemeinderat sei anzuweisen, auf die Einsprache
+vom 30. September 2013 einzutreten. Eventualiter sei der Überbauungsplan an
+die C.______AG und die D.______AG zurückzuweisen mit der Auflage, ihn
+dahingehend abzuändern, dass die Fahrwegrechte der A.______AG ungeschmälert
+erhalten bleiben. Das DBU wies die Beschwerde am 4. November 2015 ab.
+3.
+3.1
+In der Folge gelangte die A.______AG mit Beschwerde
+vom 4. Dezember 2015 ans Verwaltungsgericht und beantragte die Aufhebung des
+Beschwerdeentscheids vom 4. November 2015 mitsamt dem ihm
+zugrundeliegenden Einspracheentscheid vom 15. April 2015 bzw. mitsamt
+dem Gemeindeversammlungsbeschluss betreffend den Überbauungsplan G.______ vom
+19. Juni 2015. Der Gemeinderat sei anzuweisen, auf die Einsprache vom 30.
+September 2013 einzutreten. Eventualiter sei der Überbauungsplan an die
+C.______AG und die D.______AG zurückzuweisen mit der Auflage, ihn dahingehend
+abzuändern, dass die bestehenden Fahrwegrechte der A.______AG ungeschmälert
+erhalten bleiben; alles unter Kosten- und Entschädigungsfolgen zu Lasten der
+C.______AG und der D.______AG bzw. der Gemeinde Glarus Nord.
+3.2
+Die Gemeinde Glarus Nord beantragte am 13. Januar
+2016 die Abweisung der Beschwerde; unter Kosten- und Entschädigungsfolgen zu
+Lasten der A.______AG. Das DBU schloss am 19. Januar 2016 ebenfalls auf
+Abweisung der Beschwerde; unter Kostenfolge. Die C.______AG und die
+D.______AG beantragten am 3. Februar 2016 die Abweisung der Beschwerde. Der
+Beschwerde sei zudem umgehend die aufschiebende Wirkung zu entziehen; alles
+unter Kosten- und Entschädigungsfolgen zu Lasten der A.______AG.
+3.3
+In ihrer Replik vom 25. Februar 2016 hielt die
+A.______AG an ihren Beschwerdeanträgen fest und beantragte überdies die
+Abweisung des Gesuchs um Entzug der aufschiebenden Wirkung der Beschwerde.
+Das DBU beantragte am 7. März 2016 wiederum die Abweisung der Beschwerde;
+unter Kostenfolge. Die C.______AG und die D.______AG hielten am 14. März 2016
+an ihren Rechtsbegehren, insbesondere auch am Gesuch um Entzug der
+aufschiebenden Wirkung der Beschwerde, fest. Ebenso hielt die Gemeinde Glarus
+Nord am 23. März 2016 an ihren Anträgen fest.
+3.4
+Mit Präsidialverfügung vom 29. März 2016 wies das
+Verwaltungsgericht das Gesuch um Entzug der aufschiebenden Wirkung der
+Beschwerde ab.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 79 Abs. 1 des
+Raumentwicklungs- und Baugesetzes vom 2. Mai 2010 (RBG) i.V.m. Art. 105 Abs.
+1 lit. b des Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986 (VRG)
+zur Behandlung der vorliegenden Beschwerde zuständig. Da auch die übrigen
+Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde einzutreten.
+1.2
+Das Verwaltungsgericht befasste sich in zwei
+Leitentscheiden vom 5. Februar 2015 mit dem Einspracheverfahren bei der
+Nutzungsplanung. Dabei führte es aus, dass sich das Einspracheverfahren
+gemäss Art. 27 RBG vom "gewöhnlichen" Einspracheverfahren im Sinne
+von Art. 81 f. VRG unterscheide. Im Einspracheverfahren gemäss dem
+Verwaltungsrechtspflegegesetz entscheide zunächst die erstinstanzliche
+Behörde. Dieser Entscheid könne mittels Einsprache bei der nämlichen Behörde
+angefochten werden, welche ihren Entscheid umfassend zu überprüfen und über
+die Sache nochmals zu entscheiden habe (Art. 81 Abs. 1 VRG). Im
+Einspracheverfahren nach Art. 27 RBG liege hingegen kein erstinstanzlicher
+Entscheid einer Behörde vor. Vielmehr richte sich die Einsprache gegen die
+durch die Gemeinde aufgelegten Baureglemente, Zonen- und Sondernutzungspläne
+(Art. 25 Abs. 1 RBG). Demzufolge komme dem Einspracheentscheid des
+Gemeinderats im Sinne von Art. 27 RBG eine andere Bedeutung zu als dem
+Einspracheentscheid im Sinne des Verwaltungsrechtspflegegesetzes. Während
+Letzterer Anfechtungsobjekt für das anschliessende Rechtsmittelverfahren
+bilde, sei der Einspracheentscheid im Sinne Art. 27 RBG nicht
+anfechtbar. Anfechtungsobjekt bilde vielmehr das durch die Stimmberechtigten
+erlassene Baureglement bzw. der erlassene Zonenplan (Art. 27 Abs. 1 RBG)
+oder der durch das zuständige Gemeindeorgan erlassene Sondernutzungsplan
+(Art. 27 Abs. 2 RBG; vgl. zum Ganzen VG.2014.00103 E. II/2.4.3 und
+VG.2014.00111 E. II/2.3.3).
+Zur vergleichbaren
+Rechtslage im ordentlichen Baubewilligungsverfahren führte das
+Verwaltungsgericht sodann in einem Entscheid vom 4. Juni 2015 aus, bei der in
+Art. 73 RBG vorgesehenen Einsprache handle es sich nicht um eine Einsprache
+im eigentlichen Sinne, sondern vielmehr um eine Einwendung. Das baurechtliche
+Einspracheverfahren ohne Rechtsmittelfunktion diene in erster Linie der
+formalisierten Gewährung des Gehörsanspruchs. Behörden, Verwaltungsstellen
+und private Bauherrschaften sollten sich so bereits in einem frühen
+Verfahrensstadium ein möglichst umfassendes Bild von einem Vorhaben machen
+können. Eine einlässliche Prüfung der vorgebrachten Einwände helfe,
+Fehlleistungen zu vermeiden und damit das Risiko eines anschliessenden
+Rechtsmittelverfahrens zu vermindern (VG.2015.00017 E. 3.2 f., mit Hinweisen).
+1.3
+Anfechtungsobjekt im vorinstanzlichen
+Beschwerdeverfahren konnte somit nur der Gemeindeversammlungsbeschluss vom
+19. Juni 2015 bilden, mit welchem der Überbauungsplan festgesetzt wurde.
+Soweit die Beschwerdeführerin die Aufhebung des Einspracheentscheids vom 15.
+April 2015 beantragte, hätte der Beschwerdegegner 4 diesbezüglich nicht auf
+die Beschwerde eintreten dürfen. Indessen hatte er die Rüge der Beschwerdeführerin,
+die Beschwerdegegnerin 3 habe ihre Einwendungen, wonach ihr Fahrwegrecht
+durch den Überbauungsplan beeinträchtigt werde, zu Unrecht nicht geprüft, im
+Rahmen der Überprüfung des Gemeindeversammlungsbeschlusses zu behandeln. Die
+Beschwerdeführerin machte mit ihrer Rüge nämlich nichts anderes geltend, als
+dass der Gemeindeversammlungsbeschluss unter Verletzung ihres Anspruchs auf
+rechtliches Gehör zustande gekommen sei. Indem der Beschwerdegegner 4
+die Auffassung vertrat, dass die Beschwerdeführerin ihre Einwendung auf dem
+Zivilrechtsweg geltend machen müsse, ging er implizit davon aus, dass das
+rechtliche Gehör nicht verletzt worden war und wies daher die Beschwerde ab.
+1.4
+Anfechtungsobjekt im vorliegenden Verfahren bildet
+der Beschwerdeentscheid des Beschwerdegegners 4. Das Verwaltungsgericht hat
+dabei einzig zu beurteilen, ob die geltend gemachte Dienstbarkeitsverletzung
+im öffentlich-rechtlichen Verfahren zu prüfen ist. Kommt es zum Schluss, dass
+dies der Fall ist, wird es die Sache an eine der Vorinstanzen zurückweisen,
+wobei es aus prozessökonomischen Gründen naheliegt, den Beschwerdegegner 4
+mit der materiellen Beurteilung der strittigen Frage zu betrauen. Gelangt das
+Verwaltungsgericht hingegen zur Auffassung, dass für die materielle Prüfung
+der Zivilrichter zuständig ist, führt dies zur Abweisung der Beschwerde.
+2.
+2.1
+Die Beschwerdeführerin macht geltend, mit den
+geplanten Reduktionen der Strassen auf Fuss- und Veloverbindungen im
+Nordwesten und Nordosten der jetzigen Parz.-Nr. 04 würden ihre
+bestehenden Fahrwegrechte, welche im Grundbuch eingetragen seien, verletzt
+bzw. deren Ausübung weitgehend verunmöglicht. In Art. 26 RBG werde nicht zwischen
+öffentlich- und privatrechtlichen Einsprachegründen unterschieden. Folglich
+sei es unzulässig, sie aus "privatrechtlichen Gründen" auf den
+Zivilrechtsweg zu verweisen. Tatsache sei, dass der Erlass von
+Sondernutzungsplänen in einem öffentlich-rechtlichen Verfahren ergehe. Im
+Rahmen dieses Verfahrens sei zu prüfen, ob der anbegehrte Sondernutzungsplan
+sämtliche öffentlich-rechtlichen Vorschriften einhalte und überdies keine
+weiteren Rechte verletze, so insbesondere auch keine privaten Rechte Dritter.
+Die gegenteilige Auffassung der Vorinstanzen sei nicht rechtens und könne
+ausserordentliche Schwierigkeiten herbeiführen. So könne es in Fällen wie dem
+vorliegenden beispielsweise geschehen, dass der Überbauungsplan rechtskräftig
+werde und der Zivilrichter auf eine privatrechtliche Klage nicht eintrete,
+mit der Begründung, die Klägerin hätte sich im Rahmen des Erlasses des
+Sondernutzungsplans dagegen wehren müssen. Vorstellbar sei auch die
+Konstellation, dass der Zivilrichter die privatrechtliche Klage gutheissen würde.
+Unklar seien jedoch die Folgen eines solchen Entscheids. Selbst wenn die
+Auffassung der Vorinstanzen zutreffen sollte, stelle sich immer noch die
+Frage, wann sie, die Beschwerdeführerin, denn richtigerweise eine zivilrechtliche
+Klage einreichen müsste. Wenn im Rahmen einer Einsprache gegen einen
+Überbauungsplan nur öffentlich-rechtliche bzw. privatrechtliche
+Einsprachegründe mit baupolizeilicher Bedeutung geltend gemacht werden
+dürften, so müssten grundsätzlich gar keine Einsprachen erhoben werden. Denn
+die Vorinstanzen hätten von Amtes wegen zu prüfen, ob die
+öffentlich-rechtlichen Vorschriften eingehalten würden.
+2.2
+Die Beschwerdegegner vertreten hingegen im
+Wesentlichen die Auffassung, mit der Einsprache gemäss Art. 26 RBG könnten
+keine privatrechtlichen Ansprüche geltend gemacht werden. Eine Ausnahme liege
+nur dann vor, wenn die privatrechtlichen Einsprachegründe baupolizeilich von
+Bedeutung seien.
+3.
+3.1
+Gemäss Art. 26 RBG kann während der Auflagefrist
+jedermann, der ein eigenes schutzwürdiges Interesse nachweist, schriftlich
+und begründet Einsprache (gegen Baureglemente, Zonenpläne und
+Sondernutzungspläne) erheben. Zwischen den Parteien strittig ist, ob neben
+öffentlich-rechtlichen auch privatrechtliche Einsprachegründe vorgebracht
+werden können.
+3.2
+Nach den
+üblichen Regeln der Gesetzesauslegung ist eine Bestimmung in erster Linie
+nach ihrem Wortlaut auszulegen. Ist der Text nicht ganz klar und sind verschiedene
+Auslegungen möglich, so muss nach seiner wahren Tragweite gesucht werden
+unter Berücksichtigung aller Auslegungselemente, namentlich von Sinn und
+Zweck sowie der dem Text zugrunde liegenden Wertung. Wichtig ist ebenfalls
+der Sinn, der einer Norm im Kontext zukommt. Vom klaren, d.h. eindeutigen und
+unmissverständlichen Wortlaut darf nur ausnahmsweise abgewichen werden, u.a.
+dann, wenn triftige Gründe dafür vorliegen, dass der Wortlaut nicht den
+wahren Sinn der Bestimmung wiedergibt. Solche Gründe können sich aus der
+Entstehungsgeschichte der Bestimmung, aus ihrem Grund und Zweck oder aus dem
+Zusammenhang mit andern Vorschriften ergeben (BGE 139 V 148 E. 5.1, mit
+Hinweisen).
+3.3
+Die Beschwerdeführerin schliesst aus dem
+Wortlaut von Art. 26 RBG, welcher nicht zwischen öffentlich-rechtlichen und
+privatrechtlichen Einsprachegründen unterscheidet, darauf, dass im
+Planverfahren auch privatrechtliche Einsprachegründe zulässig seien. Aus dem
+Wortlaut von Art. 26 RBG ergibt sich jedoch nicht zwingend, dass privatrechtliche
+Einsprachegründe vorgebracht werden dürfen. Dies vermöchte denn auch nicht zu
+überzeugen.
+So ist zunächst zu berücksichtigen, dass das
+Raumentwicklungs- und Baugesetz öffentliches Recht ist. Der Rechtsschutz
+richtet sich folgerichtig nach dem Verwaltungsrechtspflegegesetz (Art. 79
+Abs. 1 RBG), welches gemäss Art. 1 VRG den Rechtsschutz bei Entscheiden und
+Verträgen in Verwaltungssachen sowie in anderen öffentlich-rechtlichen
+Streitigkeiten, aber gerade nicht in privatrechtlichen Streitigkeiten regelt.
+Sodann gilt es das Wesen des Überbauungsplans als
+Sondernutzungsplan zu beachten. Der Überbauungsplan regelt gemäss Art. 23
+Abs. 1 RBG insbesondere die Erschliessung, die besondere Bauweise sowie die
+Freiraumgestaltung eines Teilgebiets. Besonderheit des Überbauungsplans ist,
+dass nach Art. 23 Abs. 4 RBG unter Einhaltung der zonengemässen Nutzungsart
+von der Regelbauweise abgewichen werden kann, wenn dadurch gesamthaft ein
+ortsbaulich und architektonisch besseres Ergebnis verwirklicht wird und dies
+im öffentlichen Interesse liegt. Alleine gestützt auf den Überbauungsplan
+darf aber noch nicht gebaut werden, vielmehr bedarf es hierzu einer Baubewilligung.
+Anknüpfungspunkt für das Geltendmachen einer Dienstbarkeitsverletzung oder
+anderer privatrechtlicher Ansprüche bildet somit nicht das Sondernutzungsplanverfahren,
+sondern das Baubewilligungsverfahren. Hierzu sieht Art. 74 RBG vor, dass
+die Verletzung privater Rechte auf zivilrechtlichem Weg geltend zu machen
+ist. Damit bestand kein Grund dazu, das Einspracheverfahren abweichend von
+Art. 79 Abs. 1 RBG i.V.m. Art. 1 VRG in der Nutzungsplanung auch für
+privatrechtliche Einsprachegründe zu öffnen. Solche sind im
+Einspracheverfahren nach Art. 26 RBG nicht zu prüfen, auch wenn diese
+Bestimmung im Gegensatz zu Art. 73 f. RBG nicht zwischen öffentlich-rechtlichem
+Einspracheverfahren und privatrechtlicher Klage unterscheidet.
+Damit wird das Einspracheverfahren entgegen der
+Auffassung der Beschwerdeführerin keineswegs obsolet. Es trifft zwar zu, dass
+das Einhalten öffentlich-rechtlicher Vorschriften von Amtes wegen zu prüfen
+ist. Mit der Einsprache kann aber – wie auch im anschliessenden
+Rechtsmittelverfahren – beispielsweise darauf hingewiesen werden, dass diese
+Prüfung aus Sicht des Einsprechers nur ungenügend erfolgt ist oder dass der
+rechtserhebliche Sachverhalt nicht richtig festgestellt worden ist.
+3.4
+Nach dem Dargelegten hatte die
+Beschwerdegegnerin 3 im Rahmen des Einspracheverfahrens nicht zu prüfen, ob
+durch den Überbauungsplan bzw. das Bauvorhaben der Beschwerdegegnerinnen 1
+und 2 das zu Gunsten der Grundstücke der Beschwerdeführerin bestehende Fuss-
+und Fahrwegrecht verletzt wird. Vielmehr hatte sie in diesem Zusammenhang
+lediglich zu beurteilen, ob die Grundstücke der Beschwerdeführerin
+strassenmässig immer noch genügend erschlossen sind. Dass die Liegenschaften
+der Beschwerdeführerin über die nördliche Parz-Nr. 08, Grundbuch H.______, an
+die ostwärts liegende […] angeschlossen und damit strassenmässig genügend erschlossen
+sind, ergibt sich ohne Weiteres aus den Akten und wird durch die Beschwerdeführerin
+nicht bestritten.
+4.
+4.1
+Die Beschwerdeführerin hat somit ihren
+Anspruch auf ungeschmälerte Ausübung des Fuss- und Fahrwegrechts auf dem
+Zivilrechtsweg durchzusetzen (vgl. Martin Gossweiler, in Kommentar zum
+Baugesetz des Kantons Aargau, Bern 2013, § 4 Rz. 34). Dabei dürfte es
+sich als zweckmässig erweisen, nach Publikation des Baugesuchs an den
+Zivilrichter zu gelangen und im Sinne von Art. 262 der Schweizerischen
+Zivilprozessordnung vom 19. Dezember 2008 (ZPO) zunächst die die
+Dienstbarkeit verletzenden Bauausführungen vorsorglich verbieten zu lassen.
+Ob vorsorgliche Mass-nahmen schon früher – etwa im Zeitpunkt der Publikation
+des Überbauungsplans – beantragt werden können, obwohl nach der hier
+vertretenen Auffassung durch das Festsetzen eines Überbauungsplans allein
+eine Dienstbarkeit noch nicht verletzt wird (vgl. vorangehende E. II/3.3),
+bleibt der Beurteilung des Zivilrichters überlassen.
+4.2
+Darüber hinaus rechtfertigen sich noch einige
+Hinweise zur Auffassung der Beschwerdeführerin, ihre Verweisung auf den
+Zivilrechtsweg könne zu schwierigen Situationen führen. Soweit sie
+befürchtet, dass der Zivilrichter ihr die Rechtskraft des Überbauungsplans
+entgegenhalten könnte, ist darauf hinzuweisen, dass weder ein (rechtskräftiger)
+Überbauungsplan noch öffentliche Bauvorschriften bestehende Dienstbarkeiten
+von sich aus ausser Kraft setzen können (BGE 107 II 331 E. 5a, 91 II 339 E.
+4a; BGer-Urteil 5C.213/2002 vom 7. Februar 2003 E. 3.2). Sodann ist es den
+Kantonen versagt, für die Geltendmachung von Zivilansprüchen dem
+Zivilverfahren ein verwaltungsrechtliches Präliminarverfahren voranzustellen
+(BGer-Urteil 5A_948/2015 vom 12. April 2016 E. 3.3). Insofern steht ein
+rechtskräftiger Überbauungsplan der Beurteilung einer geltend gemachten
+Dienstbarkeitsverletzung durch den Zivilrichter nicht entgegen. Schliesslich
+bedarf es keiner Weiterungen, dass das strittige
+Bauvorhaben solange nicht ausgeführt werden darf, als dies durch den
+Zivilrichter untersagt ist (Art. 74 RBG).
+5.
+Zusammenfassend ist es
+nicht zu beanstanden, dass die Vorinstanzen die durch die Beschwerdeführerin
+geltend gemachte Verletzung des Fuss- und Fahrwegrechts nicht prüften und sie
+diesbezüglich auf den Zivilrechtsweg verwiesen. Dies führt zur Abweisung der
+Beschwerde.
+III.
+Nach Art. 134 Abs. 1 lit.
+c VRG hat die Partei, welche im Beschwerde-, Klage- oder Revisionsverfahren
+unterliegt, die amtlichen Kosten zu tragen. Die pauschale Gerichtsgebühr von
+Fr. 3'000.- ist daher der unterliegenden Beschwerdeführerin aufzuerlegen und
+mit dem von ihr in gleicher Höhe geleisteten Kostenvorschuss zu verrechnen.
+Sie ist überdies gemäss
+Art. 138 Abs. 2 VRG zu verpflichten, den Beschwerdegegnerinnen 1 und 2 je
+eine Parteientschädigung von Fr. 1'500.- (insgesamt Fr. 3'000.-,
+inkl. Mehrwertsteuer) zu bezahlen. Mangels Vorliegens besonderer
+Umstände steht eine solche der Beschwerdegegnerin 3 nicht zu (Art. 138 Abs. 4
+VRG).
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Der
+Beschwerdeführerin wird eine pauschale Gerichtsgebühr von Fr. 3'000.- auferlegt
+und mit dem von ihr in gleicher Höhe geleisteten Kostenvorschuss verrechnet.
+3.
+Die
+Beschwerdeführerin wird verpflichtet, den Beschwerdegegnerinnen 1 und 2 innert
+30 Tagen nach Rechtskraft dieses Entscheids je eine Parteientschädigung von
+Fr. 1'500.- (insgesamt Fr. 3'000.-, inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
