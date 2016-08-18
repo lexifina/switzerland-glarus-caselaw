@@ -1,0 +1,314 @@
+---
+decision_id: "gl_gerichte_VG.2016.00037"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2016.00037"
+docket_2: "VG.2016.418"
+decided: "2016-08-18"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=685&W10_KEY=218274&nTrefferzeile=7&Template=simple/search_result_document.html"
+---
+
+# GL Gerichte VG.2016.00037
+
+## Regeste
+
+Anderes
+
+## Text
+
+Glarus Verwaltungsgericht 18.08.2016 VG.2016.00037 (VG.2016.418)
+Glaris Verwaltungsgericht 18.08.2016 VG.2016.00037 (VG.2016.418)
+Glarona Verwaltungsgericht 18.08.2016 VG.2016.00037 (VG.2016.418)
+
+Anderes
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+18. August 2016
+I. Kammer
+in Sachen
+VG.2016.00037
+A.______
+Beschwerdeführer
+vertreten durch
+Rechtsanwältin
+B.______
+gegen
+Regierungsrat des Kantons Glarus
+Beschwerdegegner
+betreffend
+Nichtwiederwahl in den Verwaltungsrat
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+A.______ war ab dem Jahr 2006 Mitglied der
+Verwaltungskommission der Kantonalen Sachversicherung. Am 1. Januar 2011 trat
+das totalrevidierte Gesetz über die Kantonale Sachversicherung Glarus vom 2.
+Mai 2010 (SachVG) in Kraft. Anstelle einer Verwaltungskommission verfügt die
+Kantonale Sachversicherung Glarnersach neu über einen Verwaltungsrat (Art. 5
+ff. SachVG), welchem A.______ von Anfang an angehörte. Der Verwaltungsrat
+wird gemäss Art. 5 Abs. 1 und 2 SachVG durch den Regierungsrat jeweils für
+ein Jahr gewählt.
+1.2
+Der Regierungsrat teilte dem
+Verwaltungsratspräsidenten der Glarnersach am 29. September 2015 mit,
+dass er jegliches Vertrauen in die Arbeit des Verwaltungsrats verloren habe.
+Daher sei eine Findungskommission eingesetzt worden, welche die Wahl des
+Verwaltungsrats für die nächste Amtsperiode vorbereiten werde. Am 20. Oktober
+2015 machte der Verwaltungsrat der Glarnersach von seinem Vorschlagsrecht
+gemäss Art. 5 Abs. 2 SachVG Gebrauch und beantragte dem Regierungsrat, alle
+bisherigen Verwaltungsräte sowie den bisherigen Verwaltungsratspräsidenten
+wiederzuwählen. Am 27. Oktober 2015 setzte der Regierungsrat sämtliche
+Verwaltungsratsmitglieder davon in Kenntnis, dass er an seiner Absicht festhalte,
+neue Kandidatinnen und Kandidaten für den Verwaltungsrat zu evaluieren.
+Hierzu habe er ein Anforderungsprofil erstellt, auf welches sich die Findungskommission
+bei der Erstellung des Wahlvorschlags zuhanden des Regierungsrats stützen
+werde. Es stehe den einzelnen Verwaltungsratsmitgliedern frei, sich für eine
+Wiederwahl zu bewerben. Dazu seien die üblichen Unterlagen einzureichen und
+es sei in einem Motivationsschreiben darzulegen, inwiefern die gesetzlichen
+Anforderungen und das Anforderungsprofil erfüllt würden.
+1.3
+A.______ bewarb sich in der Folge am 15. November
+2015 für eine Wiederwahl als Verwaltungsrat der Glarnersach. Am 15. Dezember
+2015 teilte ihm der Regierungsrat mit, dass der Verwaltungsrat der
+Glarnersach neu gewählt worden sei, seine Bewerbung aber nicht habe
+berücksichtigt werden können. Ferner wurde er auf die Möglichkeit
+hingewiesen, eine anfechtbare Verfügung betreffend seine Nichtwiederwahl zu
+verlangen, welche Gelegenheit er am 20. Dezember 2015 wahrnahm. Am 16.
+Februar 2016 erliess der Regierungsrat die begründete Verfügung über die
+Nichtwiederwahl von A.______ als Verwaltungsrat der Glarnersach.
+2.
+2.1
+Dagegen gelangte A.______ mit Beschwerde vom 21.
+März 2016 ans Verwaltungsgericht und beantragte, es sei festzustellen, dass
+seine Nichtwiederwahl als Verwaltungsrat der Glarnersach für die Amtsperiode
+2016 durch den Regierungsrat widerrechtlich erfolgt sei. Der Regierungsrat
+sei zu verpflichten, ihm eine Entschädigung nach Ermessen des Gerichts,
+jedoch mindestens in der Höhe von einer Jahresentschädigung als
+Verwaltungsrat und Vizepräsident der Glarnersach, d.h. mindestens
+Fr. 6'000.- zu bezahlen; alles unter Kosten- und Entschädigungsfolgen zu
+Lasten des Regierungsrats.
+2.2
+Der Regierungsrat beantragte am 25. April 2016, auf
+die Beschwerde sei nicht einzutreten. Im Falle des Eintretens sei die
+Beschwerde abzuweisen; alles unter Kosten- und Entschädigungsfolgen.
+2.3
+Der Beschwerdeführer beantragte in seiner Replik vom
+27. Mai 2016 in Ergänzung zu seiner Beschwerde, dass auf die Beschwerde
+einzutreten sei. Der Regierungsrat nahm am 6. Juni 2016 zur Replik Stellung.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 105 lit. a des Gesetzes über die Verwaltungsrechtspflege vom 4.
+Mai 1986 (VRG) zur Behandlung der vorliegenden Beschwerde zuständig.
+2.
+2.1
+Der Beschwerdegegner begründet seinen
+Nichteintretensantrag damit, dass der Beschwerdeführer kein praktisches und
+aktuelles Interesse an der Feststellung der Widerrechtlichkeit seiner
+Nichtwiederwahl in den Verwaltungsrat der Glarnersach habe. Ihm fehle es am
+praktischen Nutzen im Falle der Gutheissung der Beschwerde, da er kein
+Interesse mehr an der Wiedereinsetzung oder zumindest an der Wiederholung des
+Wahlverfahrens habe. Soweit er geltend mache, er sei durch die
+Nichtwiederwahl einerseits und die Kommunikation des Beschwerdegegners
+andererseits widerrechtlich in seiner Persönlichkeit verletzt worden, weshalb
+er eine Entschädigung fordere, hätte er beim Beschwerdegegner ein
+Staatshaftungsbegehren nach Art. 11 Abs. 1 lit. a des Gesetzes über die
+Haftung der Gemeinwesen und ihrer Amtsträger vom 5. Mai 1991
+(Staatshaftungsgesetz, SHG) stellen müssen. Dies auch vor dem Hintergrund,
+dass das vorliegend anwendbare Recht die Zusprechung einer Entschädigung für
+eine Nichtwiederwahl ohne sachlichen Grund nicht vorsehe. Schliesslich fehle
+es auch am erforderlichen Feststellungsinteresse, weil der Rechtsschutz durch
+die ordentlichen Rechtsmittel mit kassatorischer oder reformatorischer
+Wirkung sicherzustellen sei.
+2.2
+Der Beschwerdeführer macht hingegen geltend, ein
+Anspruch auf Feststellungsverfügungen sei dann zu bejahen, wenn die
+beschwerten Sachverhalte und Entscheide in die Grundrechte des Einzelnen
+eingreifen würden, was vorliegend der Fall sei. Mit seiner Beschwerde gehe es
+ihm einerseits um seine persönliche Rechte bezüglich seines Rufs und
+bezüglich einer bescheidenen Entschädigung für die erlittene Unbill und den
+Erwerbsausfall. Anderseits und ebenso stark gehe es ihm um das Wohl der
+Glarnersach sowie der Versicherten sowie um die öffentlichen Interessen an
+einem funktionierenden, verlässlichen Rechtsstaat. Mit der angefochtenen
+Verfügung liege einerseits eine unrechtmässige willkürliche Nichtwiederwahl
+in den Verwaltungsrat vor. Anderseits seien mit dieser Verfügung seine
+Persönlichkeitsrechte massiv verletzt worden, was sich in verschiedener
+Hinsicht nachteilig auswirken könne. Selbst wenn er pro forma beantragt
+hätte, es sei das Wahlverfahren zu wiederholen und er sei wieder einzusetzen,
+so wäre diesbezüglich auf das kantonale Personalgesetz zu verweisen, welches
+keinen Anspruch auf Wiedereinsetzung, sondern einen solchen auf Schadenersatz
+gewähre. Der Weg über die Staatshaftung sei sodann nicht zielführend, da ihm
+im Staatshaftungsverfahren die Rechtskraft der Verfügung entgegengehalten
+werden könnte. Sodann gelte der Grundsatz, dass dem Verwaltungsrechtsschutz
+beim Vorgehen gegen fehlerhafte Verfügungen gegenüber dem
+Staatshaftungsverfahren Priorität zukomme.
+2.3
+Gemäss Art. 73 Abs. 2 lit. a VRG kann, wer ein
+schutzwürdiges Interesse hat, von der Behörde, die im Rahmen ihrer
+Zuständigkeit und gestützt auf öffentliches Recht Handlungen vornimmt, welche
+Rechte und Pflichten begründen oder aufheben, eine Verfügung verlangen,
+wonach die Widerrechtlichkeit der Handlungen festzustellen sei. Ein
+Feststellungsanspruch besteht aber regelmässig dann nicht, wenn die gesuchstellende
+Person in der betreffenden Angelegenheit ein Gestaltungsurteil erwirken kann;
+in diesem Sinne ist der Feststellungsanspruch subsidiär (BGE 137 II 199 E.
+6.5, 126 II 300 E. 2c; BGer-Urteil 1C_405/2012 vom 12. September 2013 E. 1.2;
+VGer-Urteil VG.2015.00092 vom 19. November 2015 E. 1.2.1, VG.2014.00061 vom
+20. November 2014 E. 1.2; Jürg Bosshart/Martin Bertschi, in Alain
+Griffel [Hrsg.], Kommentar zum Verwaltungsrechtspflegegesetz des Kantons
+Zürich, 3. A., Zürich/Basel/Genf 2014, § 19 N. 26; Regina Kiener et
+al., Öffentliches Prozessrecht, 2. A., Zürich/St. Gallen 2015,
+Rz. 395; Beatrice Weber-Dürler, in Christoph Auer et al. [Hrsg.], Kommentar
+zum Bundesgesetz über das Verwaltungsverfahren, Zürich/St. Gallen 2008,
+Art. 25 N. 16).
+2.4
+Gegenstand des vorliegenden Verfahrens bildet die
+Nichtwiederwahl des Beschwerdeführers in den Verwaltungsrat der Glarnersach,
+welche ihm zuerst mit Schreiben vom 15. Dezember 2015 mitgeteilt worden war
+und hernach formell mittels begründeter und anfechtbarer Verfügung vom 16.
+Februar 2016 eröffnet wurde. Der Beschwerdeführer beantragt die Feststellung,
+dass seine Nichtwiederwahl widerrechtlich erfolgt sei. Dabei macht er
+einerseits Verfahrensmängel wie etwa die Verletzung von Ausstandsvorschriften
+geltend, anderseits hält er den Entscheid des Regierungsrats in sachlicher
+Hinsicht als willkürlich.
+Es ist unbestritten, dass
+der Beschwerdeführer keinen Anspruch auf eine Wiederwahl in den
+Verwaltungsrat hat. Hingegen steht ihm ein Anspruch auf einen korrekten Verfahrensablauf
+unter Wahrung seiner Verfahrensrechte zu (BGer-Urteil 8C_353/2013 vom
+28. August 2013 E. 6.3.1). Daneben muss der Wahlentscheid sachlich
+begründet und willkürfrei sei (vgl. Art. 8 VRG).
+Wie dargelegt wurde,
+besteht ein Feststellunganspruch nur dann, wenn die gesuchstellende Person in
+der betreffenden Angelegenheit kein Gestaltungsurteil erwirken kann. Auch
+wenn er keinen Anspruch auf eine Wiederwahl hat, wäre es dem Beschwerdeführer
+vorliegend ohne Weiteres möglich gewesen, zu einem solchen Urteil zu
+gelangen. So hätte er dem Verwaltungsgericht etwa beantragen können, die
+angefochtene Verfügung des Regierungsrats sei aufzuheben und dieser sei zu
+verpflichten, die Wahl unter Wahrung der Verfahrensrechte des
+Beschwerdeführers zu wiederholen und einem willkürfreien Entscheid
+zuzuführen. Mit einer Gutheissung der Beschwerde durch das Verwaltungsgericht
+wäre die vom Beschwerdeführer gerügte Widerrechtlichkeit seiner
+Nichtwiederwahl beseitigt worden, auch wenn er keinen Anspruch auf eine
+Wiederwahl hat. Unter diesen Umständen besteht grundsätzlich kein Anspruch
+auf die blosse Feststellung der Widerrechtlichkeit seiner Nichtwiederwahl.
+Ein Feststellungsanspruch
+lässt sich entgegen der Auffassung des Beschwerdeführers auch nicht
+begründen, indem er eine Grundrechtsverletzung geltend macht. Insbesondere
+ist Art. 13 der Europäischen Menschenrechtskonvention vom 4. November
+1950 (EMRK), welcher das Recht auf eine wirksame Beschwerde garantiert,
+vorliegend nicht tangiert, da es dem Beschwerdeführer offen stand, die
+streitbetroffene Verfügung, welche seiner Meinung nach seine Grundrechte verletzt,
+beim Verwaltungsgericht anzufechten und deren Aufhebung zu beantragen. Insofern
+verkennt der Beschwerdeführer, dass eine anfechtbare Verfügung vorliegt,
+nicht ein Realakt, gegen welchen allenfalls nur der Weg über das
+Feststellungsbegehren gemäss Art. 73 Abs. 2 VRG beschritten werden
+könnte.
+2.5
+Der Beschwerdeführer beantragt sodann eine
+Entschädigung und stellt insofern ein Leistungsbegehren. Er verweist dabei
+auf ein Urteil des Bundesgerichts vom 16. August 2016 (Verfahren
+8C_1053/2009). In E. 4.2 dieses Urteils führt das Bundesgericht aus, wenn
+Haftungsansprüche aus einer Kündigungsverfügung abgeleitet würden, stimmten
+der Sachverhalt des dagegen erhobenen Rechtsmittelverfahrens und des Staatshaftungsverfahrens
+generell überein. Um eine erneute Überprüfung der Verfügung auf dem Wege des
+Staatshaftungsprozesses auszuschliessen, könne die Haftung diesfalls
+grundsätzlich nur insoweit zum Zuge kommen, als die Verfügung im
+Rechtsmittelverfahren angefochten und geändert worden sei und eine
+angestellte Person arglistig gehandelt habe. Das Staatshaftungsverfahren solle
+hier nur subsidiär zum Anfechtungsverfahren den Schaden ausgleichen, welcher
+aus einer unrichtigen Verfügung entstehe. Die Besonderheit des Rechtsmittelverfahrens
+gegen die Kündigung bestehe nun gerade darin, dass ebenso wie im
+Staatshaftungsverfahren – und anders als im Regelfall – eine finanzielle
+Rechtsfolge der Unrichtigkeit der Verfügung gefordert werden könne.
+Der Beschwerdeführer
+verkennt mit seiner Argumentation, dass sich ein Anspruch auf eine
+Entschädigung auf eine gesetzliche Grundlage stützen können muss. So sieht etwa
+Art. 55a Abs. 1 lit. a des Gesetzes über das Personalwesen vom
+5. Mai 2002 (Personalgesetz, PG, in der Fassung vom 1. Mai 2016,
+welche noch nicht in Kraft getreten ist; vgl. Memorial für die Landsgemeinde
+des Kantons Glarus vom 1.  Mai 2016) vor, dass die Beschwerdeinstanz bei
+Gutheissung einer Beschwerde gegen die Kündigung der angestellten Person eine
+Entschädigung zusprechen kann, wenn die Kündigung ohne sachlich hinreichende
+Gründe oder ohne wichtige Gründe ausgesprochen wurde oder sich als
+missbräuchlich erweist. Vorliegend stand der Beschwerdeführer indessen nicht
+in einem Arbeitsverhältnis zum Kanton bzw. gehörte er nicht zum Personal des
+Kantons, weshalb das kantonale Personalrecht nicht anwendbar ist (Art. 1 PG).
+Das anwendbare Sachversicherungsgesetz sieht sodann keine Folgen für eine (zu
+Unrecht erfolgte) Nichtwiederwahl vor. Fehlt es aber an einer
+spezialgesetzlichen Grundlage für das Zusprechen einer Entschädigung, ist auf
+das Leistungsbegehren nicht einzutreten. Der Beschwerdeführer hat einen
+allfälligen Entschädigungsanspruch folglich im Staatshaftungsverfahren geltend
+zu machen.
+Wenn er dazu ausführt, die
+Beseitigung nachteiliger Verfügungen im verwaltungsrechtlichen
+Anfechtungsverfahren gehe vor, weshalb die Staatshaftung subsidiär sei,
+trifft dies zu (BGer-Urteil 8C_1053/2009 vom 16. August 2010 E. 4.2; Franz
+Schön, Staatshaftung als Verwaltungsrechtsschutz, Basel 1979, S. 185). Dies
+hat zur Folge, dass er im Beschwerdeverfahren die Aufhebung der aus seiner
+Sicht widerrechtlichen Verfügung des Beschwerdegegners hätte beantragen
+müssen. Hingegen kann er daraus entgegen seiner Auffassung im vorliegenden
+Verfahren keinen Anspruch auf Feststellung der Widerrechtlichkeit seiner
+Nichtwiederwahl ableiten, da der Feststellungsanspruch subsidiär ist (vgl.
+dazu vorangehend E. II/2.4). Daran ändert auch nichts, dass ihm in einem
+allfälligen Staatshaftungsverfahren die Rechtskraft der Verfügung entgegen
+gehalten werden kann (Art. 14 SHG), wäre es ihm doch möglich gewesen, deren
+Beseitigung auf dem ordentlichen Rechtsmittelweg zu verlangen.
+2.6
+Soweit der Beschwerdeführer schliesslich eine
+Verletzung seiner Persönlichkeit in der Kommunikation der angefochtenen
+Verfügung vom 16. Februar 2016 sieht, ist dies nicht Gegenstand der
+vorliegenden gegen die Verfügung gerichteten Beschwerde. Dennoch
+rechtfertigen sich hierzu einige Hinweise: Bei der Kommunikation der Verfügung
+handelt es sich im Gegensatz zur Verfügung selbst um einen Realakt. Grundsätzlich
+ist es denkbar, dass der Beschwerdeführer ein Interesse daran hat, die
+Widerrechtlichkeit der Kommunikation feststellen zu lassen. Ein entsprechendes
+Feststellungsbegehren im Sinne von Art. 73 Abs. 2 VRG müsste er jedoch beim
+Beschwerdegegner stellen. Sollte er seinen Entschädigungsanspruch daraus
+ableiten, dass die Kommunikation in unzulässiger Weise erfolgt ist, stünde
+ihm grundsätzlich auch das Staatshaftungsverfahren offen, wobei er entweder einen
+Schaden nachweisen müsste (Art. 6 SHG) oder die Entschädigung als Genugtuung
+fordern müsste, wobei eine solche nur in Frage käme, wenn die Schwere der
+Verletzung dies rechtfertigen würde (Art. 8 SHG). Allerdings könnte
+weder im Feststellungs- noch im Staatshaftungsverfahren die Rechtmässigkeit
+seiner Nichtwiederwahl geprüft werden. Massgebend wäre einzig noch, ob der
+Nichtwiederwahlentscheid derart kommuniziert wurde, dass dies eine Verletzung
+seiner Persönlichkeit zur Folge hatte.
+3.
+Zusammenfassend ergibt
+sich, dass der Beschwerdeführer keinen Anspruch auf Feststellung der
+Widerrechtlichkeit seiner Nichtwiederwahl hat, da es ihm offen stand, die
+Aufhebung der entsprechenden Verfügung des Regierungsrats zu verlangen. Eine
+gesetzliche Grundlage für die Behandlung seines Leistungsbegehrens auf eine
+Entschädigung besteht sodann nicht.
+Demgemäss ist auf die
+Beschwerde nicht einzutreten.
+III.
+Die angemessen reduzierte
+pauschale Gerichtsgebühr von Fr. 500.- ist ausgangsgemäss dem unterliegenden
+Beschwerdeführer aufzuerlegen (Art. 134 Abs. 1 lit. c VRG).
+Vom bereits geleisteten Kostenvorschuss in der Höhe von Fr. 1'000.- sind
+ihm Fr. 500.- zurückzuerstatten. Mangels Obsiegens steht ihm keine
+Parteientschädigung zu (Art. 138 Abs. 3 lit. a VRG e
+contrario). Eine solche ist auch dem Beschwerdegegner nicht zuzusprechen, da
+keine besondere Umstände vorliegen, die dies rechtfertigen würden (vgl.
+Art. 138 Abs. 4 VRG).
+Demgemäss beschliesst die Kammer
+:
+1.
+Auf
+die Beschwerde wird nicht eingetreten.
+2.
+Dem
+Beschwerdeführer wird eine pauschale Gerichtsgebühr von Fr. 500.- auferlegt.
+Vom bereits geleisteten Kostenvorschuss in der Höhe von Fr. 1'000.- werden
+ihm Fr. 500.- zurückerstattet.
+3.
+Es
+werden keine Parteientschädigungen zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
