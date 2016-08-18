@@ -1,0 +1,367 @@
+---
+decision_id: "gl_gerichte_VG.2016.00025"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2016.00025"
+docket_2: "VG.2016.419"
+decided: "2016-08-18"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=686&W10_KEY=218274&nTrefferzeile=6&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/173.110/art-093.md", "switzerland/bund/acts/173.110/art-111.md"]
+---
+
+# GL Gerichte VG.2016.00025
+
+## Regeste
+
+Anderes
+
+## Text
+
+Glarus Verwaltungsgericht 18.08.2016 VG.2016.00025 (VG.2016.419)
+Glaris Verwaltungsgericht 18.08.2016 VG.2016.00025 (VG.2016.419)
+Glarona Verwaltungsgericht 18.08.2016 VG.2016.00025 (VG.2016.419)
+
+Anderes
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+18. August 2016
+I. Kammer
+in Sachen
+VG.2016.00025
+A.______
+Beschwerdeführer
+vertreten durch Rechtsanwalt B.______
+gegen
+Kanton Glarus
+Beschwerdegegner
+betreffend
+Schadloshaltung nach Staatshaftungsgesetz
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+A.______
+war ehemaliger Bankratspräsident und C.______ ehemaliger Bankrat der Glarner
+Kantonalbank. Am 26. August 2010 zeigten sie dem Regierungsrat an, dass die
+Glarner Kantonalbank gegen sie einen Schadenersatzanspruch vor dem Kantonsgericht
+geltend gemacht habe. Sollten die Gerichte zum Ergebnis kommen, dass ein
+solcher Anspruch tatsächlich bestehe, würden sie eine Schadloshaltung gemäss
+Art. 22a und 22b des Gesetzes über die Haftung der Gemeinwesen und ihrer
+Amtsträger vom 5. Mai 1991 (SHG) geltend machen. Am 19. Oktober 2012
+teilten sie dem Regierungsrat mit, dass die Glarner Kantonalbank gegen sie
+einen weiteren Schadenersatzanspruch geltend mache.
+1.2
+Das Kantonsgericht Glarus verpflichtete
+A.______ mit Urteil vom 19. März 2015, der Kantonalbank Fr. 1'356'930.- zu
+zahlen. C.______ wurde zu einer Zahlung von Fr. 678'465.- verpflichtet.
+Dies teilten A.______ und C.______ dem Regierungsrat am 2. April 2015 mit.
+Gleichzeitig machten sie gemäss Art. 22b SHG die Schadloshaltung für die
+Schadenersatzforderung sowie die Anwalts-, Gerichts- und Schlichtungskosten
+geltend. Am 11. Mai 2015 reichten sie beim Obergericht Glarus Berufung gegen
+das Urteil des Kantonsgerichts ein. Dieses wurde auch durch weitere Beklagte
+und durch die Glarner Kantonalbank angefochten. Am 8. Juni 2015
+substantiierten A.______ und C.______ ihr Gesuch um Schadloshaltung und
+legten dar, welche Massnahmen sie im Sinne der Schadenminderungspflicht
+ergriffen hatten. Am 25. August 2015 beantragten sie dem Regierungsrat,
+A.______ seien die bisher aufgelaufenen Prozess- und Anwaltskosten in der
+Höhe von Fr. 367'367.40 und C.______ die bisher aufgelaufenen Prozess-
+und Anwaltskosten in der Höhe von Fr. 233'009.25
+zu erstatten
+.
+1.3
+Der Regierungsrat wies am 26. Januar 2016 –
+bei Ausstand des Vorstehers des Departement Finanzen und Gesundheit – die
+Begehren um Übernahme der bisher aufgelaufenen Prozess- und Anwaltskosten ab.
+2.
+2.1
+Dagegen gelangten A.______ und C.______ mit
+Beschwerde vom 15. Februar 2016 ans Verwaltungsgericht und beantragten
+die Aufhebung des Entscheids des Regierungsrats vom 26. Januar 2016. Der
+Kanton Glarus sei zu verpflichten, A.______ die
+bisher aufgelaufenen
+Prozess- und Anwaltskosten in der Höhe von Fr. 367'367.40 und C.______ die
+bisher aufgelaufenen Prozess- und Anwaltskosten in der Höhe von Fr.
+233'009.25
+zu erstatten
+. Ferner sei der
+Kanton Glarus zu verpflichten, A.______ und C.______ die laufenden Prozess-
+und Anwaltskosten im gegen sie laufenden Verfahren der Glarner Kantonalbank
+vorzuschiessen. Eventualiter sei die Sache an den Regierungsrat
+zurückzuweisen mit der Auflage, sie gemäss ihren Ausführungen schadlos zu halten;
+alles unter Kosten- und Entschädigungsfolgen zu Lasten des Kantons Glarus.
+2.2
+Der Regierungsrat beantragte am 2. März 2016
+Nichteintreten auf die Beschwerde. Im Falle des Eintretens auf die Beschwerde
+sei diese abzuweisen; alles unter Kosten- und Entschädigungsfolgen.
+2.3
+A.______ und C.______ hielten in ihrer Replik
+vom 17. März 2016 an ihren Beschwerdeanträgen fest. Der Regierungsrat
+beantragte in seiner Duplik vom 18. April 2016 erneut, dass auf die
+Beschwerde nicht einzutreten sei.
+2.4
+C.______ verstarb am 26. Mai 2016. Am 13. Juni
+2016 gelangten seine potenziellen Erbinnen, seine Ehefrau sowie seine beiden
+Töchter, ans Verwaltungsgericht und beantragten, die beiden Verfahren von
+A.______ und C.______ seien zu trennen und beide Verfahren getrennt zu
+behandeln. Das Verfahren von C.______ sei bis zur Konstituierung und
+Feststellung der Erben zu sistieren.
+Mit Präsidialverfügung vom 30. Juni 2016 leistete das
+Verwaltungsgericht diesem Gesuch Folge und trennte die beiden Verfahren,
+wobei es darauf hinwies, dass das Verfahren von C.______ unter der
+Verfahrensnr. VG.2016.00073 weitergeführt werde. Gleichzeitig sistierte es
+das Verfahren VG.2016.00073 einstweilen bis am 31. August 2016. Vom im
+Verfahren VG.2016.00025 geleisteten Kostenvorschuss in der Höhe von
+Fr. 8'000.- übertrug es Fr. 4'000.- auf das Verfahren
+VG.2016.00073.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 105 Abs. 1 lit. a des Gesetzes über die Verwaltungsrechtspflege
+vom 4. Mai 1986 (VRG) und Art. 22b Abs. 2 SHG zur Behandlung
+der vorliegenden Beschwerde zuständig.
+2.
+2.1
+Vor- und Zwischenentscheide sind Entscheide, welche
+das Verfahren nicht abschliessen. Im Gegensatz zu End- und Teilentscheiden
+können sie nicht unabhängig von der Hauptfrage des Prozesses beurteilt werden
+(Alfred Kölz/Isabelle Häner/Martin Bertschi, Verwaltungsverfahren und
+Verwaltungsrechtspflege des Bundes, 3. A., Zürich/Basel/Genf 2013, Rz. 1434;
+Felix Uhlmann, in Basler BGG-Kommentar, 2. A., Art. 92 N. 2).
+Der Beschwerdeführer
+machte am 2. April 2015 beim Beschwerdegegner die umfassende Schadloshaltung
+im Zusammenhang mit der Schadenersatzklage der Glarner Kantonalbank geltend.
+Am 25. August 2015 beantragte er, dass die bisher aufgelaufenen Prozess- und
+Anwaltskosten zu erstatten seien.
+Mit dem angefochtenen
+Entscheid des Beschwerdegegners, in welchem das Gesuch um Übernahme der
+bisher aufgelaufenen Prozess- und Anwaltskosten abgewiesen wurde, wurde das
+Verfahren um Schadloshaltung nicht abgeschlossen. Die Frage, ob die geltend
+gemachten Kosten zu übernehmen sind, kann nicht unabhängig von der
+Hauptfrage, ob der Beschwerdeführer gegenüber dem Beschwerdegegner einen Anspruch
+auf Schadloshaltung hat, beantwortet werden. Wie der Beschwerdegegner richtig
+ausführte und der Beschwerdeführer zumindest in seiner Beschwerde auch anerkannte,
+handelt es sich beim Entscheid des Beschwerdegegners vom 26. Januar 2016
+demnach um einen Zwischenentscheid.
+2.2
+Gemäss Art. 86 Abs. 1 VRG können mit einer
+Verwaltungsbeschwerde oder einer Verwaltungsgerichtsbeschwerde grundsätzlich
+nur Endentscheide angefochten werden. Verfahrensleitende und andere
+Zwischenentscheide sind nur selbständig anfechtbar, wenn sie einen nicht
+wieder gutzumachenden Nachteil bewirken können (Art. 86 Abs. 2 VRG;
+Art. 111 Abs. 1 i.V.m. Art. 93 Abs. 1 lit. a des
+Bundesgesetzes über das Bundesgericht vom 17. Juni 2005 [BGG]) oder – kraft
+des Verweises von Art. 111
+Abs. 1
+BGG – wenn die Gutheissung der Beschwerde sofort einen Endentscheid herbeiführen
+und damit einen bedeutenden Aufwand an Zeit oder Kosten für ein weitläufiges
+Beweisverfahren ersparen würde (Art. 93 Abs. 1 lit. b BGG).
+2.3
+2.3.1
+Der Beschwerdeführer macht geltend,
+Zwischenentscheide über die Verweigerung der unentgeltlichen Rechtspflege
+seien gemäss Art. 86 Abs. 3 lit. c VRG selbständig anfechtbar. Der Antrag auf
+Schadloshaltung habe die gleiche Wirkung wie ein Antrag auf Gewährung der
+unentgeltlichen Rechtspflege. Konkret gehe es darum, dass der Staat die
+Anspruchsberechtigten für die Kosten des Prozesses entschädige bzw. die
+Kosten vorschiesse. Werde der vorliegende Fall nicht unter Art. 86 Abs. 3
+lit. c VRG subsumiert, so seien jedenfalls die Voraussetzungen von Art. 86
+Abs. 2 VRG erfüllt. Werde die Schadloshaltung gemäss dem Antrag des
+Beschwerdeführers verweigert, sei er ab einem gewissen Zeitpunkt nicht mehr
+in der Lage, die laufenden Prozess- und Anwaltskosten zu finanzieren, um die
+von der Glarner Kantonalbank gestellten Ansprüche abzuwehren. Hinzu komme,
+dass bei Nichteintreten die Frage der Schadloshaltung für laufende Prozess-
+und Anwaltskosten durch das Verwaltungsgericht gar nie überprüft werden
+könne. Sodann würde mit einem Nichteintreten die Rechtsweggarantie verletzt.
+Der nicht wieder gutzumachende Nachteil bestehe darin, dass der Anspruch auf
+Bevorschussung der Prozess- und Anwaltskosten durch den Endentscheid des Beschwerdegegners
+gar nicht gutgemacht werden könne.
+2.3.2
+Der Beschwerdegegner führt aus, vorliegend gehe es
+nicht (auch nicht sinngemäss) um den prozessualen Anspruch auf unentgeltliche
+Rechtspflege im zivilrechtlichen Verfahren, sondern um die
+materiell-verwaltungsrechtliche Frage, ob dem Beschwerdeführer aus den Art.
+22a und 22b SHG ein Anspruch auf Übernahme der Prozess- und Anwaltskosten
+bzw. auf deren Bevorschussung durch den Kanton im gegen ihn laufenden
+zivilrechtlichen Verantwortlichkeitsprozess zustehe. Der angefochtene
+Zwischenentscheid sei daher weder unmittelbar noch sinngemäss unter die Bestimmung
+von Art. 86 Abs. 3 lit. c VRG zu subsumieren. Finanzielle Einbussen oder Risiken,
+d.h. rein finanzielle Interessen an sich, reichten zur Begründung eines nicht
+wieder gutzumachenden Nachteil nicht aus. Sollten im Endentscheid die
+Prozess- und Anwaltskosten aus dem zivilrechtlichen Verfahren dem
+Beschwerdeführer erstattet werden, würde der erlittene finanzielle Nachteil
+vollständig wieder gutgemacht, weshalb der angefochtene Zwischenentscheid
+keinen nicht wieder gutzumachenden Nachteil bewirke.
+3.
+3.1
+Unbestritten ist, dass mit der Gutheissung der
+Beschwerde nicht ein Endentscheid herbeigeführt würde, mit welchem das
+Begehren um Schadloshaltung abschliessend beurteilt würde. Insofern
+rechtfertigt sich ein Eintreten auf die Beschwerde aus prozessökonomischen
+Gründen (Art. 111 Abs. 1 i.V.m. Art. 93 Abs. 1 lit. b BGG) nicht. Strittig
+und zu prüfen ist hingegen, ob ausnahmsweise auf die gegen einen Zwischenentscheid
+erhobene Beschwerde einzutreten ist, weil der angefochtene Entscheid einen
+nicht wieder gutzumachenden Nachteil bewirken kann (Art. 86 Abs. 2 VRG;
+Art. 111 Abs. 1 i.V.m. Art. 93 Abs. 1 lit. a BGG).
+3.2
+Das Verwaltungsgericht orientiert sich bei der
+Anwendung von Art. 86 Abs. 2 VRG aus Gründen der Verfahrenseinheit an der
+Praxis des Bundesgerichts zu Art. 93 Abs. 1 BGG (VGer-Urteil VB.2015.00126
+vom 10. Dezember 2015 E. II/2.2, nicht publiziert). Der nicht wieder
+gutzumachende Nachteil im Sinne von Art. 86 Abs. 2 VRG bzw. Art. 93 Abs.
+1 lit. b BGG muss demnach grundsätzlich rechtlicher Natur sein. Dies ist
+gegeben, wenn der geltend gemachte Nachteil selbst mit einem für die Partei günstigen
+Endurteil nicht mehr oder nicht mehr vollständig behoben werden kann (Martin
+Bertschi, in Alain Griffel [Hrsg.], Kommentar zum
+Verwaltungsrechtspflegegesetz des Kantons Zürich, 3. A., Zürich/Basel/Genf
+2014, § 19a N. 44; Kölz/Häner/Bertschi, Rz. 1437; René Rhinow
+et al., Öffentliches Prozessrecht, 3. A., Basel 2014, Rz. 1875; Uhlmann, Art.
+93 N. 2 ff.). Soweit es das materielle Verwaltungsrecht gebietet, lässt das
+Bundesgericht ausnahmsweise aber auch rein tatsächliche Nachteile genügen. Es
+tritt beispielsweise unter besonderen Umständen auf baurechtliche
+Vorentscheide ein, etwa wenn der Baugesuchsteller aufgrund des
+Zwischenentscheids eine Detailprojektierung und -planung vornehmen muss,
+welche sich im Falle der späteren Gutheissung der Beschwerde als wertlos
+erweisen würde (BGE 135 II 30 E. 1.3.4 f.).
+3.3
+Der Beschwerdeführer zieht vorliegend eine Parallele
+zu Zwischenentscheiden über die Gewährung der unentgeltlichen Rechtspflege
+und will Art. 86 Abs. 3 lit. c VRG, wonach Zwischenentscheide über die
+Verweigerung der unentgeltlichen Rechtspflege in jedem Fall anfechtbar sind,
+sinngemäss angewendet wissen. Dabei verkennt er, dass zwischen einem
+Zwischenentscheid über die Verweigerung der unentgeltlichen Rechtspflege und
+dem vorliegend angefochtenen Entscheid, mit welchem die Übernahme der bisher
+aufgelaufenen Prozess- und Anwaltskosten im Rahmen der Schadloshaltung gemäss
+Art. 22a SHG abgewiesen wurde, wesentliche Unterschiede bestehen.
+Mit dem Gesuch um
+unentgeltliche Prozessführung macht eine Partei geltend, dass ihr die Mittel
+fehlten, für die Verfahrenskosten aufzukommen. Beantragt sie zudem die unentgeltliche
+Rechtsverbeiständung macht sie überdies geltend, dass sie für die gehörige
+Interessenwahrung eines Rechtsbeistands bedürfe (Art. 139 Abs. 1 und 2 VRG).
+Dass die Abweisung des Gesuchs einen nicht wieder gutzumachenden Nachteil
+bewirken kann, liegt dabei auf der Hand. Ein solcher Nachteil wäre etwa dann
+gegeben, wenn die Partei nach der Abweisung des Gesuch zur Leistung eines
+Kostenvorschusses unter der Säumnisfolge des Nichteintretens aufgefordert
+werden würde oder wenn die Partei ihren Rechtsvertreter nicht mehr bezahlen
+könnte und als Folge durch diesen im Hauptverfahren nicht mehr vertreten
+würde.
+Hingegen hat das
+Bundesgericht in einem aktuellen Entscheid ausgeführt, Zwischenentscheide,
+mit denen eine Sicherstellung der mutmasslichen Parteikosten der Gegenpartei
+angeordnet werde, könnten zwar grundsätzlich einen nicht wieder gutzumachenden
+Nachteil im Sinne von Art. 93 Abs. 1 lit. a BGG bewirken, wenn im Säumnisfall
+ein Nichteintretensentscheid drohe. Indessen müsse die beschwerdeführende Partei,
+die eine mögliche Verhinderung des Zugangs zum Gericht geltend mache, dartun,
+dass dieser rechtliche Nachteil, nämlich die Säumnisfolge, wirklich drohe.
+Dies sei nur der Fall, wenn die zur Sicherheitsleistung verpflichtete Partei
+nicht in der Lage sei, den verlangten Betrag zu bezahlen. Sie habe zur
+Substantiierung der Eintretensvoraussetzungen darzulegen, aus welchen Gründen
+sie im konkreten Fall die Prozesskostensicherheit nicht zu leisten vermöge
+(BGer-Urteil 5A_275/2016 vom 5. Juli 2016 E. 1).
+So verhält es sich auch
+vorliegend. Es ist unbestritten, dass der Beschwerdegegner im Endentscheid
+über die Schadloshaltung auch über die Übernahme der allenfalls vom
+Beschwerdeführer zu tragenden Prozess- und Anwaltskosten zu entscheiden hat.
+Alleine dadurch, dass der Beschwerdegegner die Übernahme der bisher aufgelaufenen
+Kosten abgelehnt und diesbezüglich auf den Endentscheid verwiesen hat, lässt
+sich nicht ohne Weiteres auf einen nicht wieder gutzumachenden Nachteil
+schliessen. Der aufgrund der (vorläufigen) Nichtübernahme der Kosten
+entstandene finanzielle Nachteil würde nämlich durch eine Gutheissung des
+Gesuchs um Schadloshaltung vollständig wieder gutgemacht. Ein nicht wieder
+gutzumachender Nachteil würde erst dann vorliegen, wenn die Abweisung des
+Gesuchs Folgen für den laufenden Zivilprozess zeitigen würde, etwa indem
+allfällige vom Gericht einverlangte Kostenvorschüsse nicht geleistet werden
+könnten und so Nichteintreten auf das Rechtsmittel drohte oder indem der
+Rechtsanwalt nicht mehr bezahlt werden könnte und als Folge die gehörige
+Interessenwahrung in Frage stünde.
+Dass vorliegend ein
+solcher Nachteil drohe, hätte der Beschwerdeführer mit Einreichung der
+Beschwerde substantiieren müssen. Hierzu hätte er – unabhängig von der Höhe
+der bisher angefallenen Kosten – anhand seiner finanziellen Verhältnisse
+dartun müssen, dass ihm eine weitere Kostentragung nicht möglich sei. Sodann
+ist es fraglich, ob überhaupt von einem nicht wieder gutzumachenden Nachteil
+ausgegangen werden kann, solange dem Beschwerdeführer die Möglichkeit
+offensteht, beim Obergericht ein Gesuch um unentgeltliche Rechtspflege zu
+stellen oder ob ein nicht wieder gutzumachende Nachteil von vornherein erst
+dann drohen kann, wenn ein derartiges Gesuch im zivilrechtlichen Verfahren
+abgewiesen worden ist. Indem der Beschwerdeführer sich mit dem Hinweis
+begnügte, er sei ab einem gewissen Zeitpunkt nicht mehr in der Lage, die laufenden
+Prozess- und Anwaltskosten zu finanzieren, um die von der Glarner Kantonalbank
+gestellten Ansprüche abzuwehren, substantiierte er jedenfalls nicht genügend,
+dass ihm ein nicht wieder gutzumachender Nachteil drohe.
+3.4
+Soweit der Beschwerdeführer sich ferner auf die
+Rechtsweggarantie von Art. 29a der Bundesverfassung der Schweizerischen
+Eidgenossenschaft vom 18. April 1999 (BV) beruft, ist ihm nicht zu
+folgen. Über sein Gesuch um Schadloshaltung, welches auch die Übernahme der
+Prozess- und Anwaltskosten beinhaltet, wird der Beschwerdegegner in seinem
+Endentscheid befinden. Ohne dass ein nicht wieder gutzumachender Nachteil
+genügend dargetan ist, lässt sich aus der Rechtsweggarantie keinen Anspruch
+auf Eintreten auf die gegen einen Zwischenentscheid gerichtete Beschwerde
+ableiten, ansonsten gegen jeden Zwischenentscheid Beschwerde erhoben werden
+könnte.
+3.5
+Sodann trifft der Einwand des Beschwerdeführers
+nicht zu, dass das Verwaltungsgericht bei Nichteintreten auf die vorliegende
+Beschwerde die Frage, ob die Schadloshaltung gemäss Art. 22a SHG einen
+Anspruch auf Übernahme der laufenden Prozess- und Anwaltskosten gibt, nie
+entscheiden könnte. Wie oben dargelegt, hat das Verwaltungsgericht auf eine
+Beschwerde gegen einen Zwischenentscheid, mit welchem die Übernahme solcher
+Kosten vorläufig verweigert wird, dann einzutreten, wenn dem Ansprecher im
+gegen ihn angestrengten zivilrechtlichen Verantwortlichkeitsprozess nicht
+wieder gutzumachende Nachteile drohen. So steht es im Übrigen auch dem Beschwerdeführer
+frei, beim Beschwerdegegner erneut ein Gesuch um Übernahme der angefallenen
+Kosten oder Bevorschussung künftig zu erwartender Kosten zu stellen, sollte
+es ihm nicht (mehr) möglich sein, diese selbst zu bezahlen. In einem solchen
+Fall würde das Verwaltungsgericht auf eine Beschwerde gegen die Abweisung des
+Gesuchs eintreten, sofern der nicht wieder gutzumachende Nachteil im Sinne
+des oben Dargelegten genügend substantiiert wird.
+3.6
+Zusammenfassend vermag der Beschwerdeführer nicht,
+einen nicht wieder gutzumachenden Nachteil darzulegen, welcher im Sinne von
+Art. 86 Abs. 2 VRG das ausnahmsweise Eintreten auf die gegen einen
+Zwischenentscheid gerichtete Beschwerde zu rechtfertigen vermöchte.
+Demgemäss ist auf die
+Beschwerde nicht einzutreten.
+III.
+1.
+Die angemessen reduzierte
+Gerichtsgebühr von Fr. 800.- ist gemäss Art. 134 Abs. 1
+lit. c VRG dem Beschwerdeführer aufzuerlegen. Vom bereits geleisteten
+Kostenvorschuss in der Höhe von Fr. 4'000.- sind ihm Fr. 3'200.-
+zurückzuerstatten. Ausgangsgemäss steht ihm keine Parteientschädigung zu
+(Art. 138 Abs. 3 lit. a VRG e contrario). Eine solche ist
+mangels Vorliegens besonderer Umstände auch dem Beschwerdegegner nicht
+zuzusprechen (Art. 138 Abs. 4 VRG).
+2.
+Der vorliegende Entscheid
+ist ein Nichteintretensentscheid. Grundsätzlich schliessen
+Nichteintretensentscheide das Verfahren ab und werden deshalb als
+Endentscheide qualifiziert. Betrifft die Beschwerde jedoch – wie vorliegend –
+einen Zwischenentscheid, beendet der Nichteintretensentscheid lediglich den
+Streit um den Zwischenentscheid und nicht das Hauptverfahren. Ein solcher
+Entscheid ist daher – wie Rechtsmittelentscheide über Zwischenentscheide im
+Allgemeinen – seinerseits ein Zwischenentscheid, auch wenn es sich um einen
+Nichteintretensentscheid handelt. Eine Beschwerde in öffentlich-rechtlichen
+Angelegenheiten ans Bundesgericht steht daher nur nach Massgabe von
+Art. 93 BGG offen (BGer-Urteil 9C_740/2008 vom 30. Oktober 2008
+E. 1).
+Demgemäss beschliesst die Kammer
+:
+1.
+Auf
+die Beschwerde wird nicht eingetreten.
+2.
+Dem
+Beschwerdeführer wird eine pauschale Gerichtsgebühr von Fr. 800.- auferlegt.
+Vom bereits geleisteten Kostenvorschuss in der Höhe von Fr. 4'000.-
+werden ihm Fr. 3'200.- zurückerstattet.
+3.
+Es
+werden keine Parteientschädigungen zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
