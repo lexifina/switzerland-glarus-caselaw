@@ -1,0 +1,486 @@
+---
+decision_id: "gl_gerichte_VG.2016.00051"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2016.00051"
+docket_2: "VG.2016.426"
+decided: "2016-09-15"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=694&W10_KEY=218274&nTrefferzeile=4&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/311.0/art-049.md", "switzerland/bund/acts/922.0/art-017.md", "switzerland/bund/acts/922.0/art-020.md"]
+---
+
+# GL Gerichte VG.2016.00051
+
+## Regeste
+
+Polizeiliche Bewilligungen
+
+## Text
+
+Glarus Verwaltungsgericht 15.09.2016 VG.2016.00051 (VG.2016.426)
+Glaris Verwaltungsgericht 15.09.2016 VG.2016.00051 (VG.2016.426)
+Glarona Verwaltungsgericht 15.09.2016 VG.2016.00051 (VG.2016.426)
+
+Polizeiliche Bewilligungen
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+15. September 2016
+I. Kammer
+in Sachen
+VG.2016.00051
+A.______
+Beschwerdeführer
+vertreten durch Rechtsanwalt B.______
+gegen
+1.
+Abteilung Jagd und
+Fischerei des Kantons Glarus
+Beschwerdegegner
+2.
+Departement Bau und
+Umwelt des Kantons Glarus
+betreffend
+Entzug der Jagdberechtigung
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Die Abteilung Jagd und Fischerei verzeigte A.______
+am 7. Februar 2013 bei der Staats- und Jugendanwaltschaft des Kantons Glarus,
+da er am 3. November 2012 in verschiedener Hinsicht gegen das kantonale
+Jagdrecht verstossen habe. Die Staats- und Jugendanwaltschaft verpflichtete
+A.______ mit Strafbefehl vom 26. Februar 2013 zur Zahlung einer Busse von Fr.
+1'480.-. Dagegen erhob A.______ Einsprache. In der Folge sprach ihn das
+Kantonsgericht Glarus am 6. Januar 2014 des verbotenen Betretens des
+Jagdgebietes gemäss Art. 11 des Gesetzes über die Jagd und den Schutz
+wildlebender Säugetiere und Vögel vom 6. Mai 1979 (kantonales Jagdgesetz,
+JagdG) i.V.m. Art. 15 Abs. 3 der Verordnung zum kantonalen Jagdgesetz
+vom 27. Juni 1990 (kantonale Jagdverordnung, JagdV) i.V.m. Ziff. 4.1.3 der
+Vorschriften für die Ausübung der Jagd im Jahre 2012 (Jagdvorschriften 2012)
+schuldig und verurteilte ihn zu einer Busse von Fr. 760.-. Das Urteil des
+Kantonsgerichts erwuchs unangefochten in Rechtskraft.
+1.2
+Mit Verfügung vom 22. August 2014 entzog die
+kantonale Jagdbehörde A.______ die Jagdberechtigung für ein Jahr und
+verpflichtete ihn, einen Wertersatz von Fr. 1'000.- für das erlegte
+Rotwild (Schmaltier) zu bezahlen. Dagegen erhob A.______ am 19. September
+2014 beim Departement Bau und Umwelt (DBU) Beschwerde und beantragte die
+vollständige Aufhebung der angefochtenen Verfügung. Am 6. Februar 2015
+zog die kantonale Jagdbehörde ihre Verfügung vom 22. August 2014 in Wiedererwägung,
+wobei sie lediglich die Begründung, nicht aber das Dispositiv der ursprünglichen
+Verfügung änderte. Das DBU schrieb danach am 11. Februar 2015 die gegen die ursprüngliche
+Verfügung vom 22. August 2014 gerichtete Beschwerde als gegenstandlos geworden
+ab.
+1.3
+A.______ erhob am 24. Februar 2015 beim DBU
+Beschwerde gegen die Verfügung vom 6. Februar 2015 und beantragte deren Aufhebung.
+1.4
+Am 3. Oktober 2015 wurde A.______ vorsorglich das
+Jagdpatent entzogen, da er gleichentags gegen die Deklarations- und
+Meldepflicht verstossen habe. Die Abteilung Jagd und Fischerei bestätigte am
+22. Oktober 2015 den vorsorglichen Jagdpatententzug bis zum Ende der
+Jagdsaison 2015/2016. Mit unangefochten in Rechtskraft erwachsenem
+Strafbefehl vom 15. Dezember 2015 wurde A.______ der Widerhandlung gegen
+das Bundesgesetz über die Jagd und den Schutz wildlebender Säugetiere und
+Vögel im Sinne von Art. 11 Abs. 1 JagdG i.V.m. Art. 21 und 25 JagdV sowie
+Ziffn. 8.1.2, 8.2.1 und 8.6 der Jagdvorschriften 2015 schuldig gesprochen und
+mit einer Busse von Fr. 1'000.- bestraft.
+1.5
+Das DBU wies die Beschwerde gegen die Verfügung vom
+6. Februar 2015 am 1. April 2016 ab.
+2.
+2.1
+In der Folge gelangte A.______ mit Beschwerde vom
+26. April 2016 ans Verwaltungsgericht und beantragte, dass die Sache zur
+Neubeurteilung an die Abteilung Jagd und Fischerei, eventuell an das DBU,
+zurückzuweisen sei, mit der Auflage, eine Massnahme betreffend den Vorfall,
+welcher dem Urteil des Kantonsgerichts vom 6. Januar 2014 zugrunde lag,
+sowie betreffend den Vorfall, welcher dem Strafbefehl vom 15. Dezember 2015
+zugrunde lag, zu fällen. Eventualiter sei der mit Verfügung vom 6. Februar
+2015 angeordnete Entzug der Jagdberechtigung aufzuheben und für den Vorfall,
+welcher dem Urteil des Kantonsgerichts vom 6. Januar 2014 zugrunde lag,
+keine Massnahme auszufällen; alles unter Kosten- und Entschädigungsfolgen zu
+Lasten des DBU bzw. der Abteilung Jagd und Fischerei.
+2.2
+Das DBU schloss am 11. Mai 2016 auf Abweisung der
+Beschwerde; unter Kostenfolge. Den gleichen Antrag stellte die Abteilung Jagd
+und Fischerei am 13. Mai 2016.
+2.3
+A.______ ergänzte am 18. Mai 2016 seinen
+Rückweisungsantrag in dem Sinne, als festzuhalten sei, dass ihm bis zum
+definitiven Entscheid über den Jagdpatententzug für die Jagdsaison ab
+2016/2017 das Jagdpatent zu erteilen sei. Das DBU verzichtete am 20. Mai 2016
+auf eine Stellungnahme zur Eingabe des Beschwerdeführers vom 18. Mai
+2016, während die Abteilung Jagd und Fischerei sich innert Frist nicht mehr
+vernehmen liess.
+II.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 10a Abs. 1
+JagdG i.V.m. Art. 105 Abs. 1 lit. b des Gesetzes über die
+Verwaltungsrechtspflege vom 4. Mai 1986 (VRG) zur Behandlung der vorliegenden
+Beschwerde zuständig. Da auch die übrigen Prozessvor-aussetzungen erfüllt
+sind, ist auf die Beschwerde einzutreten.
+1.2
+Mit der Verwaltungsgerichtsbeschwerde können gemäss
+Art. 107 Abs. 1 VRG die unrichtige und unvollständige Feststellung des
+rechtserheblichen Sachverhalts (lit. a) und die unrichtige Rechtsanwendung
+einschliesslich eines Missbrauchs des Ermessens (lit. b) geltend gemacht
+werden. Hingegen ist dem Verwaltungsgericht gemäss Art. 107 Abs. 2 VRG die
+Prüfung der Angemessenheit eines Entscheids abgesehen von Ausnahmefällen
+verwehrt. Ein solcher Ausnahmefall liegt nicht vor.
+2.
+2.1
+Gemäss Art. 20 Abs. 1 des Bundesgesetzes über die
+Jagd und den Schutz wildlebender Säugetiere und Vögel vom 20. Juni 1986 (JSG)
+wird die Jagdberechtigung vom Richter für mindestens ein Jahr und höchstens
+zehn Jahre entzogen, wenn der Träger der Berechtigung vorsätzlich oder
+fahrlässig eine Person auf der Jagd tötet oder erheblich verletzt (lit. a)
+oder eine Widerhandlung nach Art. 17 JSG als Täter, Anstifter oder Gehilfe
+vorsätzlich begangen oder versucht hat. Wird die Jagdberechtigung gestützt
+auf Art. 20 Abs. 1 JSG entzogen, gilt der Entzug für die ganze Schweiz (Art.
+20 Abs. 2 JSG). Die Kantone können gemäss Art. 20 Abs. 3 JSG weitere
+Entzugsgründe festlegen. Die gestützt darauf erlassenen administrativen
+Verfügungen gelten nur für den betreffenden Kanton.
+2.2
+Gemäss Art. 5 Abs. 2 lit. b JagdG erlässt der
+Landrat unter anderem Bestimmungen über die Voraussetzungen für den Entzug
+der Patente. Dies hat er mit Art. 46 Abs. 2 JagdV getan, wonach die
+kantonale Jagdbehörde bei schweren oder wiederholten Verstössen gegen
+kantonale jagdgesetzliche Bestimmungen dem Fehlbaren die Jagdberechtigung bis
+zu fünf Jahren entziehen kann. Wird dem Berechtigten das Jagdpatent innerhalb
+von zehn Jahren nach Ablauf eines Entzugs ein weiteres Mal entzogen, wird ihm
+das Jagdpatent erst wieder abgegeben, wenn er erneut den Jagdlehrgang absolviert
+und die Eignungsprüfung für Jäger des Kantons Glarus bestanden hat.
+2.3
+Gemäss Art. 17 Abs. 1 JagdV sind bei der Ausübung
+der Jagd die anerkannten Grundsätze weidgerechten Verhaltens zu befolgen. Das
+Jagen zur Nachtzeit, d.h. eine Stunde nach kalendarischem Sonnenuntergang bis
+eine Stunde vor kalendarischem Sonnenaufgang, ist verboten, ausgenommen
+während der Nacht- und Passjagd auf Haarraubwild gemäss Art. 13 Abs. 6 JagdV
+(Art. 16 JagdV). Das Betreten des offenen Jagdgebiets mit der Schusswaffe ist
+nach Art. 15 Abs. 3 JagdV i.V.m. Ziff. 4.1.3 der Jagdvorschriften 2012
+bei einer anberaumten Herbstjagd am Jagdtag ab 07.30 Uhr erlaubt.
+Gemäss Art. 7 Abs. 1 lit.
+c JagdG i.V.m. Ziff. 8.1.2 der Jagdvorschriften 2012 sind alle erlegten Tiere
+und die entsprechenden Angaben vom Erleger vor dem Behändigen vollständig,
+wahrheitsgetreu, in Blockschrift und gut leserlich mit Kugelschreiber ins
+amtliche Abschusskontrollbuch im Doppel einzutragen. Strafbar macht sich, wer
+bezüglich Abschussort und -zeit von erlegtem Wild gegenüber den
+Kontrollorganen falsche Angaben macht (Art. 26 Abs. 4 JagdV). Widerrechtlich
+erlegtes Wild ist gemäss Art. 7 Abs. 1 lit. c JagdG i.V.m. Ziff. 8.3.2 Abs. 1
+der Jagdvorschriften 2012 in jedem Fall unverzüglich und vollständig einem
+Wildhüter oder der Jagdverwaltung vorzuweisen. Bei grobfahrlässigen
+Abschüssen oder nicht vorgewiesenen widerrechtlich erlegtem Wild ist nach
+Art. 37 Abs. 3 JagdV i.V.m. Ziff. 8.3.2 Abs. 5 der Jagdvorschriften ein
+Wertersatz zu leisten, welcher sich nach der am 1. Juli 2007 erlassenen
+Verfügung des DBU richtet. Widerhandlungen gegen die Deklarationspflicht,
+Markierungspflicht, Vorweisungspflicht oder Meldepflicht haben nach Ziff. 8.6
+der Jagdvorschriften eine Verzeigung bei der zuständigen Instanz zur Folge.
+Zusätzlich kann gestützt auf Art. 46 JagdV die Jagdberechtigung für
+mindestens ein Jahr entzogen werden.
+3.
+3.1
+3.1.1
+Der Beschwerdeführer macht in erster Linie geltend,
+dass der Vorfall aus dem Jahr 2012 zusammen mit demjenigen aus dem
+Jahr 2015 zu beurteilen sei. Beim Patententzug handle es sich um eine
+Nebenstrafe. Nach den allgemeinen Regeln des Strafrechts seien beim Erlass
+einer Strafe alle im Zeitpunkt der Ausfällung der Strafe bekannten
+Straftatbestände in einem gemeinsamen Verfahren zu beurteilen. Das Gleiche
+gelte aber auch, wenn der Patententzug als Massnahme qualifiziert werde. Dies
+ergebe sich bereits aus den allgemeinen Regeln des Massnahmerechts. Eine
+erzieherische Wirkung könne die Massnahme nur haben, wenn sie rechtskräftig
+ausgesprochen sei. Mit der Aussprechung der Massnahme müssten deshalb
+sämtliche bis zum Zeitpunkt des Massnahmeentscheids bekannten Verstösse
+erledigt werden. Dies ergebe sich auch aus Art. 46 Abs. 2 JagdV, welcher
+vorsehe, dass das Jagdpatent dem Berechtigten bei einem zweiten Entzug innerhalb
+von zehn Jahren erst dann wieder abgegeben werde, wenn er erneut den
+Jagdlehrgang absolviert und die Eignungsprüfung bestanden habe. Schliesslich
+stimme die Rechtslage mit dem Administrativverfahren im Strassenverkehrsrecht
+überein. Auch hier seien sämtliche Verstösse bis zum Zeitpunkt des Erlasses
+der Administrativmassnahme zu beurteilen und zu behandeln. Insgesamt hätten
+die Beschwerdegegner gegen rechtsstaatliche Grundsätze verstossen. Sie hätten
+sich nämlich intern absprechen müssen, um einen einheitlichen Entscheid zu
+erzielen.
+3.1.2
+Die Beschwerdegegner sind der Auffassung, die beiden
+administrativen Verfahren seien unabhängig voneinander durchzuführen, da zwei
+unabhängige und von ihrer Art unterschiedliche Verstösse gegen die kantonalen
+jagdgesetzlichen Bestimmungen vorliegen würden. Beim kantonalen Entzug des
+Jagdpatents handle es sich um eine administrative Massnahme, weshalb die
+strafrechtlichen Bestimmungen weder direkt noch analog anwendbar seien. Der
+erneute Verstoss gegen die kantonalen jagdgesetzlichen Bestimmungen sei zudem
+erst in einem Zeitpunkt erfolgt, als die administrativrechtliche Beurteilung
+der Verstösse vom 3. November 2012 bereits beim Beschwerdegegner 2 anhängig
+gewesen sei.
+3.2
+Im Gegensatz zum bundesrechtlichen vorgesehenen
+Entzug der Jagdberechtigung, welcher eine Nebenstrafe ist (BGE 129 IV 296 E.
+2.1), handelt es sich bei einem kantonalen Entzug um eine administrative
+Massnahme, was sich bereits aus dem Wortlaut von Art. 20 Abs. 3 JSG ergibt
+(VGer-Urteil VG.2015.00136 vom 17. März 2016 E. 5.2.1; vgl. auch Botschaft
+des Bundesrats zu einem Bundesgesetz über die Jagd und den Schutz
+wildlebender Säugetiere und Vögel vom 27. April 1983, BBl 1983 II 1197 ff.,
+1217). Dies steht einer analogen Anwendung von Art. 49 des Schweizerischen
+Strafgesetzbuchs vom 21. Dezember 1937 (StGB) indessen nicht entgegen, da für
+die strafrechtliche und die administrative Sanktion nicht ohne Not
+unterschiedliche Lösungen getroffen werden sollten. Art. 49 StGB bezweckt,
+dass ein Täter, der mehrere Freiheitsstrafen verwirkt hat, nach einem
+einheitlichen, für ihn relativ günstigen Prinzip beurteilt werden soll (Abs.
+1), unabhängig davon, ob die Verfahren getrennt durchgeführt werden oder
+nicht (Abs. 2). In den Genuss dieser in der Regel vorteilhaften Zusatzstrafe
+soll derjenige kommen, bei dem der erstinstanzliche Richter die mehreren
+Straftaten gleichzeitig hätte aburteilen können, nicht aber derjenige, der
+erneut delinquiert, nachdem er wegen anderer Delikte (zu Freiheitsstrafe oder
+Administrativmassnahmen) erstinstanzlich verurteilt und mithin eindringlich
+gewarnt worden ist. Es stellt sich somit bloss die Frage, ob die im zweiten
+Verfahren zu beurteilenden Straftaten vor der Eröffnung bzw. vor der Fällung
+(vgl. BGE 129 IV 113 E. 1.2) des Urteils begangen wurden. Trifft dies
+zu, ist Art. 49 Abs. 2 StGB anwendbar, andernfalls nicht (BGE 124 II 39 E.
+3c).
+3.3
+Die Beschwerdegegnerin 1 entzog dem Beschwerdeführer
+aufgrund der Vorkommnisse vom 3. November 2012 mit Verfügung vom 22. August
+2014 die Jagdberechtigung für ein Jahr. Allerdings zog sie diese Verfügung am
+6. Februar 2015 in Wiedererwägung, wobei es beim Entzug der
+Jagdberechtigung für ein Jahr blieb. Am 3. Oktober 2015 ereignete
+sich ein weiterer Vorfall, dessen administrativrechtliche Beurteilung bei der
+Beschwerdegegnerin 1 hängig ist.
+Wendet man die oben
+dargestellte Rechtsprechung auf das vorliegende Administrativverfahren an,
+ist massgebend, dass die erstinstanzliche Verfügung vom 6. Februar 2015
+ergangen war, bevor der Beschwerdeführer am 3. Oktober 2015 erneut gegen
+jagdgesetzliche Bestimmungen verstiess. Damit war die Beschwerdegegnerin 1
+nicht in der Lage, beide Vorfälle gleichzeitig zu beurteilen. Unter diesen
+Umständen erweisen sich zwei separate administrativrechtliche Entscheide als
+unumgänglich, wobei der wünschenswerten Gesamtbetrachtung bei den Administrativmassnahmen
+immerhin im zweiten Verfahren im Rahmen der Verhältnismässigkeit Rechnung zu
+tragen ist (BGE 124 II 39 E. 3c).
+Damit ist im vorliegenden
+Verfahren über die Rechtmässigkeit des Entzugs der Jagdberechtigung für ein
+Jahr aufgrund des Vorfalls vom 3. November 2012 zu entscheiden und von einer
+Rückweisung der Sache zur gemeinsamen Beurteilung dieses Vorfalls und
+desjenigen vom 3. Oktober 2015 abzusehen.
+4.
+4.1
+4.1.1
+Der Beschwerdeführer rügt weiter, dass ihm zu
+Unrecht ein schwerer Verstoss gegen die kantonalen jagdgesetzlichen
+Bestimmungen vorgeworfen werde. Er sei durch das Kantonsgericht einzig wegen
+des verbotenen Betretens des Jagdgebiets bestraft worden. Dies könne kein
+schwerer Verstoss gegen die kantonalen jagdgesetzlichen Bestimmungen
+darstellen, was sich auch aus dem Strafmass des Kantonsgerichts ergebe,
+welches lediglich eine Busse von Fr. 760.- ausgesprochen habe. Auch wenn die
+Administrativbehörde an die Beurteilung des Strafrichters nicht gebunden sei,
+so bilde ein strafgerichtliches Urteil doch stets die Grundlage für die
+nachfolgenden Administrativmassnahmen. Von diesem Strafurteil könne nur dann
+abgewichen werden, wenn zwingende Gründe vorliegen würden. Die
+Beschwerdegegner würden ihm jedoch, ohne solche Gründe vorzubringen, auch
+Tatbestände vorwerfen, von denen er im kantonsgerichtlichen Verfahren freigesprochen
+worden sei. Sodann müsse bei der Auslegung des Begriffs des schweren
+Verstosses auch auf die eidgenössische Jagdgesetzgebung Bezug genommen
+werden. Im Vergleich zu den in Art. 17 JSG aufgeführten Vergehen handle es
+sich vorliegend um ein Bagatellverfahren. Entscheidend sei, dass das geschossene
+Wild jagdbar gewesen sei und er das Jagdgebiet lediglich etwas zu früh betreten
+habe. Der Vorwurf, er habe sich durch das zu frühe Betreten des Jagdgebiets
+einen unberechtigten Vorteil verschafft und den späteren Jagdbetrieb gestört,
+sei aktenwidrig.
+4.1.2
+Die Beschwerdegegner vertreten hingegen in ihren
+Beschwerdeantworten und im angefochtenen Entscheid die Auffassung, dass
+danach zu unterscheiden sei, ob ein Täter von einem Tatbestandsvorwurf
+freigesprochen worden sei, weil die Tatbestandsmerkmale als nicht erfüllt
+beurteilt worden seien, oder ob zwar die Tatbestandsmerkmale als erfüllt
+gelten würden, jedoch aufgrund der strafrechtlichen Konkurrenzlehre von einer
+mitbestraften Nachtat auszugehen sei. Sie seien an die Feststellung des
+Sachverhalts durch den Strafrichter gebunden. Dass eine Schussabgabe das
+Verhalten der Wildtiere beeinflusse, sei naheliegend. Die nachfolgende Jagd
+für andere Jäger sei dadurch zumindest gestört worden, was durchaus als
+unweidmännisches Verhalten bezeichnet werden könne. Schliesslich sei darauf
+hinzuweisen, dass für die Auslegung des schweren Verstosses nicht auf die
+Bundesgesetzgebung Bezug genommen werden müsse.
+4.2
+4.2.1
+Die Beschwerdegegnerin 1, welche erstinstanzlich
+über den Entzug der Jagdberechtigung zu befinden hat, ist – wie auch die
+nachfolgenden Rechtsmittelinstanzen – grundsätzlich an die Feststellung des
+Sachverhalts durch den Strafrichter gebunden. Eine Abweichung ist nur dann
+zulässig, wenn die Behörde ihrem Entscheid Tatsachen zugrunde legt, die dem
+Strafrichter unbekannt waren, sich die Erhebung zusätzlicher Beweise
+aufdrängt, die Beweiswürdigung des Strafrichters eindeutig im Widerspruch zur
+Tatsachenlage stand oder wenn der Strafrichter nicht alle sich mit dem Sachverhalt
+stellenden Rechtsfragen abklärte (BGE 136 II 447 E. 3.1, 124 II 103 E. 1c/aa;
+Kaspar Plüss, in Alain Griffel [Hrsg.], Kommentar zum erwaltungsrechtspflegegesetz
+des Kantons Zürich, 3. A., Zürich/Basel/Genf 2014, § 7 N. 23 f.).
+Hingegen kommt der rechtlichen Würdigung durch den Strafrichter keine derartige
+Bindungswirkung zu. So ist es für die Frage des Entzugs der Jagdberechtigung
+namentlich nicht relevant, ob ein verpöntes Verhalten strafrechtlich als mitbestrafte
+Nachtat zu gelten hat. Soweit der Beschwerdeführer der Auffassung ist, da er
+nur wegen des zu frühen Betretens des Jagdgebiets gebüsst worden sei, liege
+von vornherein kein schwerer Verstoss gegen die Jagdvorschriften vor, ist ihm
+daher nicht zu folgen, sondern es sind die Vorkommnisse vom 3. November 2012
+gesamthaft zu würdigen.
+4.2.2
+Aus dem rechtskräftigen Urteil ergibt sich folgender
+Sachverhalt: Der Beschwerdeführer schoss am 3. November 2012 in […] um
+ca. 06.30 Uhr, frühestens um 06.15 Uhr, ein Stück Rotwild. Die
+Abschussmeldung füllte er zwar vollständig, jedoch nicht wahrheitsgetreu aus,
+indem er als Abschusszeit 08.00 Uhr angab, obwohl er das Tier früher
+erledigt hatte. Das Tier wies er weder einem Wildhüter noch der
+Jagdverwaltung vor.
+4.3
+4.3.1
+Der Entzug der Jagdberechtigung kommt gemäss Art. 46
+Abs. 2 JagdV nur bei schweren oder wiederholten Verstössen gegen kantonale
+jagdgesetzliche Bestimmungen in Betracht. Beim "schweren Verstoss"
+gegen die kantonalen jagdgesetzlichen Bestimmungen handelt es sich um einen
+unbestimmten Rechtsbegriff, der ausgelegt werden muss. Dies obliegt in erster
+Linie der mit dem Vollzug des Jagdrechts betrauten Beschwerdegegnerin 1.
+Entgegen der Auffassung des Beschwerdeführers kommt dabei der Höhe der im
+Strafverfahren ausgesprochenen Busse keine entscheidwesentliche Bedeutung zu.
+Massgebend ist einzig, ob ein derart schwerer Verstoss gegen die Jagdvorschriften
+vorliegt, dass ein Entzug der Jagdberechtigung gerechtfertigt ist
+(VGer-Urteil VG.2015.00136 vom 17. März 2016 E. II/6.1, VG.2014.00082
+vom 27. November 2014 E. II/5.2.4).
+4.3.2
+Neben den Bestimmungen des kantonalen Jagdgesetzes
+und der kantonalen Jagdverordnung gelten auch die Jagdvorschriften als
+kantonale gesetzliche Bestimmungen. Zu deren Einhaltung sind die Jäger
+verpflichtet, wenn sie sich auf eine genügende Gesetzesdelegation stützen
+können. So verhält es sich bei der Deklarationspflicht und Meldepflicht,
+deren detaillierte Regelung durch Art. 7 Abs. 1 lit. c JagdG dem Regierungsrat
+überlassen wird. Soweit der Regierungsrat in Ziff. 8.6 der Jagdvorschriften
+2012 davon ausgeht, dass die Verletzung der Deklarationspflicht,
+Markierungspflicht, Vorweisungspflicht, Auskunftspflicht, Vorzeigepflicht oder
+Meldepflicht gestützt auf Art. 46 JagdV den Entzug der Jagdberechtigung zur
+Folge haben könne, zeigt er auf, dass diese Vergehen einen schweren Verstoss
+gegen die kantonalen jagdgesetzlichen Bestimmungen darstellen können. Bei
+Ziff. 8.6 der Jagdvorschriften 2012 handelt es sich um eine interne
+Dienstanweisung, welche in erster Linie den rechtsgleichen Vollzug der Jagdgesetzgebung
+sicherstellen soll, für die Rechtsunterworfenen aber keine direkte Wirkung zu
+entfalten hat. Wie sich bereits aus der Formulierung der Bestimmung ergibt,
+ist stets im konkreten Einzelfall zu prüfen, ob ein schwerer Verstoss
+vorliegt (vgl. VGer-Urteil VG.2014.00082 vom 27. November 2014 E. 5.2.4).
+4.4
+4.4.1
+Dem Beschwerdeführer ist vorzuwerfen, dass er am 3.
+November 2012, um ca. 06.30 Uhr, ein Stück Rotwild schoss. Sodann kommt
+im vorliegenden administrativrechtlichen Verfahren dem Umstand Bedeutung zu,
+dass er im Abschusskontrollbuch eine falsche Abschusszeit von 08.00 Uhr
+eintrug und das erlegte Rotwild weder einem Wildhüter noch der Jagdverwaltung
+vorwies.
+4.4.2
+Wie im Urteil des Kantonsgerichts zutreffend
+ausgeführt wird, kommt dem allgemeinen Nacht-Jagdverbot, das gemäss Art. 16
+JagdV die Jagd eine Stunde nach kalendarischem Sonnenuntergang bis eine
+Stunde vor kalendarischem Sonnenaufgang verbietet, bei der Herbstjagd keine
+eigenständige Bedeutung zu. Der Regierungsrat hat gestützt auf Art. 15 Abs. 3
+JagdV in Ziff. 4.1.3 der Jagdvorschriften 2012 geregelt, dass bei einer
+anberaumten Herbstjagd das Betreten des Jagdgebiets vor 07.30 Uhr nicht
+erlaubt ist. Dies impliziert ohne Weiteres, dass vor 07.30 Uhr auch die
+Schussabgabe verboten ist.
+Bei der Frage, ob ein
+schwerer Verstoss gegen die kantonalen jagdgesetzlichen Be-stimmungen im
+Sinne von Art. 46 Abs. 2 JagdV vorliegt, ist danach zu differenzieren, ob ein
+Jäger lediglich vor 07.30 Uhr das Jagdgebiet betreten und sich so allenfalls
+einen unrechtmässigen Vorteil gegenüber anderen Jägern verschafft hat oder ob
+er vor 07.30 Uhr bereits ein Wildtier erlegt hat. Im zweiten Fall kommt
+zum unrechtmässigen Vorteil nämlich hinzu, dass der Jagdbetrieb gestört wird.
+So führt die fachlich kompetente Beschwerdegegnerin 1 nachvollziehbar aus,
+dass durch eine verfrühte Schussabgabe das Verhalten der Wildtiere
+beeinflusst werde, wobei insbesondere das auf Störungen empfindliche Rotwild
+nach Schussabgaben seinen Aufenthaltsort rasch und in der Regel weiträumig
+wechsle.
+Der Beschwerdeführer
+betrat nicht nur vor 07.30 Uhr das Jagdgebiet […], sondern erlegte bereits um
+ca. 06.30 Uhr ein Stück Rotwild. Damit verstiess er in qualifizierter Weise
+gegen die Bestimmung von Art. 15 Abs. 3 JagdV i.V.m. Ziff. 4.1.3 der Jagdvorschriften
+2012.
+4.4.3
+Hinsichtlich der unwahren Angaben im
+Abschusskontrollbuch ist zunächst in Erinnerung zu rufen, dass die Jagd im
+Kanton Glarus gemäss Art. 1 JagdG ein Regal des Staates ist. Mit dem
+Jagdpatent erteilt der Kanton das Recht zur Ausübung der Jagd (Art. 2 Abs. 2
+JagdG). Im Gegensatz dazu darf er aber verlangen, dass der Jäger das mit der
+Erteilung des Jagdpatents in ihn gesetzte Vertrauen nicht enttäuscht. Ein
+weidgerechtes Verhalten im weiteren Sinne umfasst auch eine gute
+Zusammenarbeit mit den Behörden (VGer ZH-Urteil VB.2009.00575 vom 5. Mai 2010
+E. 4.2.2, www.vgr.zh.ch).
+Der Beschwerdeführer,
+welcher sich bewusst war, dass er durch die verfrühte Schussabgabe gegen Art.
+15 Abs. 3 JagdV i.V.m. Ziff. 4.1.3 der Jagdvorschriften 2012 verstossen
+hatte, trug im Abschusskontrollbuch als Abschusszeit 08.00 Uhr statt
+06.30 Uhr ein. Anstatt zu seinem Fehlverhalten zu stehen, versuchte er
+es durch die falsche Zeitangabe zu vertuschen. Damit missbrauchte er das in
+ihn gesetzte Vertrauen in grober Weise.
+4.4.4
+Unter den gegebenen Umständen erweist es sich – ohne
+dass eine Verletzung der Vorweisungspflicht geprüft werden müsste (vgl. dazu
+aber E. II/5) – nicht als rechtsverletzend, dass die Beschwerdegegnerin 1 die
+Vorfälle vom 3. November 2012 als schweren Verstoss gegen die kantonalen
+jagdgesetzlichen Bestimmungen wertete und dem Beschwerdeführer die
+Jagdberechtigung für die Mindestdauer von einem Jahr entzog.
+4.5
+Ergibt sich, dass ein schwerer Verstoss gegen die
+kantonalen jagdgesetzlichen Bestimmungen vorliegt, muss nicht näher geprüft
+werden, ob auch von einem wiederholten Verstoss auszugehen ist. Immerhin ist
+darauf hinzuweisen, dass die Beschwerdegegnerin 1 diesbezüglich offenbar der
+zeitlichen Komponente keine weitere Bedeutung zumisst. Dies ist indessen
+unzutreffend. Bei der Beurteilung, ob sich ein Entzug der Jagdberechtigung
+wegen eines wiederholten Verstosses gegen die einschlägigen Vorschriften rechtfertigt,
+ist einerseits der Schwere der früheren Vergehen Rechnung zu tragen und anderseits
+dem Zeitablauf. Mit anderen Worten muss das frühere Vergehen desto schwerer
+sein, je weiter es zeitlich zurückliegt, um einen Entzug der Jagdberechtigung
+wegen eines wiederholten Verstosses gegen die kantonalen jagdrechtlichen
+Bestimmungen zu rechtfertigen.
+5.
+Zu prüfen bleibt die
+Verpflichtung des Beschwerdeführers zum Wertersatz. Solcher ist gemäss Art.
+37 Abs. 3 JagdV i.V.m. Ziff. 8.3.2 Abs. 5 der Jagdvorschriften 2012 unter
+anderem zu leisten bei grobfahrlässigen Abschüssen oder nicht vorgewiesenen
+widerrechtlich erlegtem Wild. Widerrechtlich ist in diesem Zusammenhang umfassend
+zu verstehen. Die Verpflichtung zum Wertersatz kommt nicht nur dann zum
+Tragen, wenn ein am Jagdtag nicht jagdbares Wild erlegt wird oder der Jäger
+keine Berechtigung zum Erlegen des Tiers (mehr) hat, sondern auch wenn es
+zwar am richtigen Tag, aber zu einem falschen Zeitpunkt, namentlich in der
+Nacht, erlegt wird. So handelt es sich auch beim letzten Fall um eine
+unbefugte Jagd auf Wild.
+Der Beschwerdeführer war
+nach dem Dargelegten anlässlich der Herbstwildjagd vom 3. November 2012
+nicht befugt, vor 07.30 Uhr Rotwild zu erlegen. Das um ca. 06.30 Uhr
+geschossene Stück Rotwild hat daher als widerrechtlich erlegt zu gelten. Der
+Beschwerdeführer hätte dieses unverzüglich und vollständig einem Wildhüter
+oder der Jagdverwaltung vorweisen müssen (Art. 7 Abs. 1 lit. c JagdG i.V.m.
+Ziff. 8.3.2 Abs. 1 der Jagdvorschriften 2012). Da er dies unterliess, ist es
+nicht zu beanstanden, dass er verpflichtet wurde, Wertersatz nach Art. 37
+Abs. 3 JagdV i.V.m. Ziff. 8.3.2 Abs. 5 der Jagdvorschriften 2012 zu leisten.
+Dass der Wertersatz in der Höhe falsch festgesetzt worden sei, macht er dabei
+zu Recht nicht geltend.
+III.
+Nach Art. 134 Abs. 1 lit.
+c VRG hat die Partei, welche im Beschwerde-, Klage- oder Revisionsverfahren
+unterliegt, die amtlichen Kosten zu tragen. Die pauschale Gerichtsgebühr von
+Fr. 1'500.- ist demnach dem unterliegenden Beschwerdeführer aufzuerlegen und
+mit dem von ihm in gleicher Höhe geleisteten Kostenvorschuss zu verrechnen.
+Ausgangsgemäss steht ihm keine Parteientschädigung zu (Art. 138 Abs. 3 VRG e
+contrario).
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Dem
+Beschwerdeführer wird eine pauschale Gerichtsgebühr von Fr. 1'500.-
+auferlegt und mit dem von ihm bereits geleisteten Kostenvorschuss in
+gleicher Höhe verrechnet.
+3.
+Es
+wird keine Parteientschädigung zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
