@@ -1,0 +1,791 @@
+---
+decision_id: "gl_gerichte_VG.2015.00150"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2015.00150"
+docket_2: "VG.2016.432"
+decided: "2016-09-29"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=700&W10_KEY=218274&nTrefferzeile=2&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.20/art-001.md", "switzerland/bund/acts/831.20/art-021ter.md", "switzerland/bund/acts/831.20/art-042quater.md", "switzerland/bund/acts/831.20/art-042quinquies.md", "switzerland/bund/acts/831.20/art-042sexies.md", "switzerland/bund/acts/831.20/art-069.md", "switzerland/bund/acts/831.201/art-039b.md", "switzerland/bund/acts/831.201/art-039c.md", "switzerland/bund/acts/831.201/art-039e.md", "switzerland/bund/acts/831.201/art-039f.md", "switzerland/bund/acts/831.201/art-039g.md", "switzerland/bund/acts/831.201/art-039h.md", "switzerland/bund/acts/831.201/art-039i.md"]
+---
+
+# GL Gerichte VG.2015.00150
+
+## Regeste
+
+Sozialversicherung - IV
+
+## Text
+
+Glarus Verwaltungsgericht 29.09.2016 VG.2015.00150 (VG.2016.432)
+Glaris Verwaltungsgericht 29.09.2016 VG.2015.00150 (VG.2016.432)
+Glarona Verwaltungsgericht 29.09.2016 VG.2015.00150 (VG.2016.432)
+
+Sozialversicherung - IV
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+29. September 2016
+II. Kammer
+in Sachen
+VG.2015.00150
+A.______
+Beschwerdeführer
+vertreten durch
+B.______
+diese vertreten durch
+Rechtsanwalt
+C.______
+gegen
+IV-Stelle Glarus
+Beschwerdegegnerin
+betreffend
+Assistenzbeitrag
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Der 1992 geborene A.______ leidet an einer
+Autismus-Spektrum-Störung und bezieht neben einer ausserordentlichen ganzen
+Invalidenrente eine Hilflosenentschädigung für Hilflosigkeit schweren Grades.
+Am 17. Dezember 2014 ersuchte seine Mutter für ihn um einen Assistenzbeitrag.
+1.2
+Die IV-Stelle Glarus liess am 17. März 2015 den
+Hilfebedarf von A.______ an Ort und Stelle abklären. Am 8. April 2015 nahm
+D.______, die Hausärztin von A.______, zum Abklärungsbericht Stellung.
+1.3
+Mit Vorbescheid vom 17. April 2015 setzte die
+IV-Stelle den Assistenzbeitrag auf Fr. 5'903.65 pro Monat bzw. maximal
+Fr. 64'940.15 pro Jahr fest. Dagegen erhob A.______ am 21. Mai 2015 Einwand.
+In der Folge passte die IV-Stelle den Abklärungsbericht an, wobei sie die
+Angaben der Hausärztin berücksichtigte, insbesondere aber nicht den Einwand
+betreffend unzulässiger altersbedingter Abzüge. Am 30. Juni 2015 nahm
+A.______ zum Abklärungsbericht Stellung. Am 28. Juli 2015 änderte die
+IV-Stelle den Abklärungsbericht erneut. Neu wurden die wegen des angeblichen
+Kindesalters erfolgten Reduktionen weggelassen, aber ein deutlich tieferer Hilfebedarf
+als in der Version vom 30. Juni 2015 anerkannt. Dies führte dazu, dass die
+IV-Stelle mit Vorbescheid vom 30. Juli 2015 einen Assistenzbeitrag von
+nur noch Fr 4'813.85 pro Monat bzw. maximal Fr. 52'952.35 pro Jahr zusprach.
+Der dagegen erhobene Einwand vom 7. September 2015 blieb erfolglos; die
+IV-Stelle hielt mit Verfügung vom 17. November 2015 an ihrem Vorbescheid
+fest.
+2.
+2.1
+Dagegen erhob A.______ am 15. Dezember 2015
+Beschwerde beim Verwaltungsgericht und beantragte die Aufhebung der Verfügung
+vom 17. November 2015. Ihm sei der gesetzlich höchstzulässige
+Assistenzbeitrag mit Wirkung ab 1. Dezember 2014 zuzusprechen.
+Eventualiter sei die Verfügung aufzuheben und die Sache an die IV-Stelle
+zurückzuweisen; alles unter Kosten- und Entschädigungsfolgen zu Lasten der
+IV-Stelle.
+Die IV-Stelle schloss am
+25. Januar 2016 auf Abweisung der Beschwerde.
+2.2
+Am 15. Februar 2016 zeigte das Verwaltungsgericht
+den Parteien an, dass es beabsichtige, zur Klärung der Höhe des
+Assistenzbeitrags ein Gutachten bei Prof. Dr. E.______ in Auftrag
+zu geben. Gleichzeitig gab es den Parteien Gelegenheit zur freigestellten
+Stellungnahme zur geplanten Begutachtung und zur allfälligen Ergänzung des
+Fragekatalogs. Die IV-Stelle nahm am 23. Februar 2016 und A.______ am 24. Februar
+2016 Stellung.
+2.3
+Mit Präsidialverfügung vom 3. März 2016 beauftragte
+das Verwaltungsgericht Prof. E.______ mit der Erstellung des Gutachtens.
+Dieses wurde am 31. Mai 2016 erstattet. In seiner Replik vom 24. Juni 2016
+hielt A.______ sinngemäss an den in seiner Beschwerde gestellten Anträgen
+fest. Die IV-Stelle beantragte in ihrer Duplik vom 4. August 2016 erneut
+die Abweisung der Beschwerde.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 69 Abs. 1 lit. a des Bundesgesetzes über die Invalidenversicherung
+vom 19. Juni 1959 (IVG) zur Behandlung der vorliegenden Beschwerde zuständig.
+Da auch die übrigen Prozessvoraussetzungen erfüllt sind, ist auf die
+Beschwerde einzutreten.
+2.
+2.1
+Ziel des Assistenzbeitrags ist die Förderung einer
+eigenverantwortlichen und selbstbestimmten Lebensführung in einer
+Privatwohnung (Botschaft des Bundesrats zur Änderung des Bundesgesetzes über
+die Invalidenversicherung [6. IV-Revision, erstes Massnahmenpaket] vom 24.
+Februar 2010, BBl 2010 1817 ff., 1865). Anspruch auf einen Assistenzbeitrag
+haben gemäss Art. 42
+quater
+Abs. 1 IVG Versicherte, denen eine
+Hilflosenentschädigung der IV nach Art. 42 Abs. 1-4 IVG ausgerichtet wird
+(lit. a), die zu Hause leben (lit. b) und volljährig sind (lit. c). Ein
+Assistenzbeitrag wird nach Art. 42
+quinquies
+IVG gewährt für
+Hilfeleistungen, die von der versicherten Person benötigt und regelmässig von
+einer natürlichen Person (Assistenzperson) erbracht werden, die von der versicherten
+Person oder ihrer gesetzlichen Vertretung im Rahmen eines Arbeitsvertrags angestellt
+wird (lit. a) und weder mit der versicherten Person verheiratet ist, mit ihr
+in eingetragener Partnerschaft lebt oder eine faktische Lebensgemeinschaft
+führt noch in gerader Linie mit ihr verwandt ist (lit. b). Grundlage für die
+Berechnung des Assistenzbeitrags ist gemäss Art. 42
+sexies
+Abs. 1
+IVG die für die Hilfeleistungen benötigte Zeit. Davon abgezogen wird die
+Zeit, die folgenden Leistungen entspricht: der Hilflosenentschädigung nach
+den Art 42-42
+ter
+IVG (lit. a); den Beiträgen für Dienstleistungen
+Dritter anstelle eines Hilfsmittels nach Art. 21
+ter
+Abs. 2 IVG
+(lit. b); dem für die Grundpflege ausgerichteten Beitrag der obligatorischen
+Krankenpflegeversicherung an Pflegeleistungen nach Art. 25a des Bundesgesetzes
+über die Krankenversicherung vom 18. März 1994 (KVG; lit. c). Der Bundesrat
+legt nach Art. 42
+sexies
+Abs. 4 IVG u.a. die Bereiche und die
+minimale und maximale Anzahl Stunden für die ein Assistenzbeitrag
+ausgerichtet wird (lit. a) sowie die Pauschalen für Hilfeleistungen pro
+Zeiteinheit im Rahmen des Assistenzbeitrags (lit. b) fest.
+2.2
+Nach Art. 39c der Verordnung über die
+Invalidenversicherung vom 17. Januar 1961 (IVV) kann in den folgenden
+Bereichen ein Hilfebedarf anerkannt werden: alltägliche Lebensverrichtungen
+(lit. a); Haushaltsführung (lit. b); gesellschaftliche Teilhabe und Freizeitgestaltung
+(lit. c); Erziehung und Kinderbetreuung (lit. d); Ausübung einer gemeinnützigen
+oder ehrenamtlichen Tätigkeit (lit. e); berufliche Aus- und Weiterbildung
+(lit. f); Ausübung einer Erwerbstätigkeit auf dem regulären Arbeitsmarkt
+(lit. g); Überwachung während des Tages (lit. h); Nachtdienst (lit. i). Nach
+Art. 39e Abs. 1 IVV bestimmt die IV-Stelle den anerkannten monatlichen Hilfebedarf
+in Stunden. Es gelten dabei die folgenden monatlichen Höchstansätze: für
+Hilfeleistungen in den Bereichen nach Art. 39c lit. a-c IVV pro alltägliche
+Lebensverrichtung, die bei der Festsetzung der Hilflosenentschädigung
+festgehalten wurde, 20 Stunden bei leichter Hilflosigkeit, 30 Stunden
+bei mittlerer Hilflosigkeit und 40 Stunden bei schwerer Hilflosigkeit (lit.
+a); für Hilfeleistungen in den Bereichen nach Art. 39c lit. d-g IVV insgesamt
+60 Stunden (lit. b); für die Überwachung nach Art. 39c lit. h IVV 120
+Stunden.
+3.
+3.1
+Der Beschwerdeführer erklärt sich im Wesentlichen
+mit dem Schlussfolgerungen des Gutachtens von Prof. Dr. E.______ vom 31. Mai
+2016 (nachfolgend: Gutachten) einverstanden. Problematisch sei jedoch, dass
+sowohl der Verordnungsgeber als auch das Kreisschreiben starr zwischen aktiv
+ausgeführten Assistenztätigkeiten und der blossen Überwachung unterscheide.
+Es gebe indessen auch einen Graubereich zwischen aktiver Assistenz und
+passiver Überwachung, so müsse eine Assistenzperson gewisse Tätigkeiten
+vormachen oder mündliche Aufforderungen machen. Dies müsste den eigentlichen
+Assistenzleistungen zugeordnet werden. Beim Nachtdienst sei von einer
+dauernden Überwachungsbedürftigkeit auszugehen, weshalb hier ein
+Assistenzbedarf gemäss Stufe 4 angenommen werde müsse. Schliesslich anerkenne
+der Gutachter zwar, dass die Assistenzpersonen besondere Qualifikationen
+aufweisen müssten, relativiere diese grundsätzliche Notwendigkeit aber
+hinsichtlich einzelner Tätigkeiten. Eine solche tätigkeitsbezogene
+Betrachtungsweise blende aus, dass in der Praxis des Alltags nicht
+tätigkeitsbezogen Assistenzpersonen rekrutiert werden könnten, sondern die
+Assistenzperson grundsätzlich geeignet sein müsse, alle Betreuungsleistungen,
+welche wiederkehrend oder situativ anfielen, ausführen zu können.
+3.2
+Die Beschwerdegegnerin führt aus, sie habe ein
+Abklärungsgespräch mit der Mutter des Beschwerdeführers geführt und
+anlässlich dieses Gesprächs den entsprechenden Betreuungsaufwand im FAKT2
+festgehalten. Daneben habe sie Abklärungen bezüglich vergleichbarer Fälle
+vorgenommen, um so eine rechtsgleiche Beurteilung und Behandlung des
+vorliegenden Falls zu gewährleisten. Wenn vorliegend in den meisten Bereichen
+die Höchststufe 4 resultiere, stelle sich unter dem Aspekt des
+Differenzierungsgebots bzw. Gleichheitsgebots die Frage, inwiefern noch
+Unterschiede zu einer versicherten Person bestünden, welche überhaupt keine
+Tätigkeiten selbständig ausführen könne. Hinsichtlich des Nachtdienstes sei darauf
+hinzuweisen, dass der Gutachter die ständige Überwachung stets nur am Rande
+erwähnt habe. Es sei daher auf die Stufe 3 abzustellen.
+4.
+4.1
+Grundsätzlich beschafft die IV-Stelle alle für die
+Beurteilung des Falls und für den Entscheid nötigen Angaben und Unterlagen.
+Sie führt die Abklärungen selber durch, einschliesslich allenfalls
+erforderlicher Erhebungen vor Ort. Ausnahmsweise kann sie Dritte damit
+beauftragen. Grundsätzlich ist immer eine Abklärung an Ort und Stelle
+durchzuführen, wobei die versicherte Person zwingend dabei sein muss. Die
+IV-Stelle verwendet für Abklärungen das FAKT2-Formular. Der FAKT2 ist ein
+Abklärungsinstrument, das gleichzeitig als Abklärungsbericht gelten kann, den
+Assistenzbeitrag berechnet und die wichtigen Informationen für die Verfügung
+zusammenfasst (Bundesamt für Sozialversicherungen, Kreisschreiben über den Assistenzbeitrag
+[KSAB], gültig ab 1. Januar 2015, Rz. 6013 ff.). Dieses Vorgehen
+mittels standardisierter Abklärung der individuellen Situation entspricht dem
+Willen des Gesetzgebers und soll der Rechtsgleichheit dienen (Botschaft, S.
+1902). Ein Abweichen davon ist auch im vorliegenden Fall nicht geboten, da
+den individuellen Gegebenheiten einerseits durch die Wahl der zutreffenden
+Stufe und anderseits durch die allfällige Berücksichtigung von Zusatz- und
+Minderaufwand Rechnung getragen werden kann (vgl. BGE 140 V 543 E. 3.2.2.3).
+4.2
+4.2.1
+Die Beschwerdegegnerin klärte den Hilfebedarf des
+Beschwerdeführers am 17. März 2015 vor Ort ab. Aufgrund des Berichtes
+der Hausärztin des Beschwerdeführers vom 23. März 2015 passte sie den
+Abklärungsbericht an, was die Anerkennung eines grösseren Hilfebedarfs als im
+ursprünglichen Abklärungsbericht zur Folge hatte. In der Folge legte sie den
+Bericht einer Abklärungsperson der Sozialversicherungsanstalt (SVA) Zürich
+vor. Daraufhin passte sie den Bericht erneut an und anerkannte nur noch einen
+geringeren Hilfebedarf.
+Die Beschwerdegegnerin
+begründete die erneute Änderung des Abklärungsberichts damit, dass in
+Zusammenarbeit mit der SVA Zürich eine solide Basis für die Einstufung von
+Autisten habe geschaffen werden können. Damit werde eine Gleichbehandlung erreicht.
+4.2.2
+Das Vorgehen der Beschwerdegegnerin vermag nicht zu
+überzeugen. Zwar steht den IV-Stellen mit dem FAKT2 ein standardisiertes
+Verfahren zu Ermittlung des Hilfebedarfs zur Verfügung. Dieses entbindet sie
+aber nicht von der Pflicht, jeden Einzelfall gesondert zu beurteilen. Dabei
+verkennt die Beschwerdegegnerin in grundlegender Weise, dass es keine
+einheitliche Einstufung von Personen mit einer Autismus-Spektrum-Störung
+geben kann. So gibt es unterschiedliche Schweregrade bei den
+Autismus-Spektrums-Störungen, welche vom Schweregrad 1 (Unterstützung
+erforderlich) bis zum Schweregrad 3 (sehr umfangreiche Unterstützung erforderlich)
+gehen. Bestehen aber derart unterschiedliche Schweregrade einer Behinderung,
+würde es dem Gleichheitsgrundsatz, wonach Gleiches nach der Massgabe seiner
+Gleichheit gleich und Ungleiches nach der Massgabe seiner Ungleichheit
+ungleich zu behandeln ist (statt vieler: BGE 141 I 153 E. 5.1), geradezu widersprechen,
+wenn der Hilfebedarf ohne Berücksichtigung des Einzelfalls einheitlich
+festgesetzt würde. Ferner gilt es zu beachten, dass der Abklärungsbericht
+offenbar nach Rücksprache mit einer Abklärungsperson der SVA Zürich angepasst
+wurde, ohne dass diese selbst den Hilfebedarf des Beschwerdeführers selbst
+vor Ort abgeklärt hätte. Dies erweist sich auch unter den Vorgaben des KSAB
+als unzulässig. Aus diesen Gründen kam das Verwaltungsgericht zum Schluss,
+dass alleine aufgrund des Abklärungsberichts der Hilfebedarf des
+Beschwerdeführers nicht ermittelt werden könne, weshalb es bei Prof. Dr.
+E.______ ein Gutachten in Auftrag gab. Dieses wurde nach verschiedenen
+Gesprächen mit der Mutter des Beschwerdeführers und dem Beschwerdeführer
+selbst sowie nach drei Hospitationen erstellt.
+5.
+Zu Recht unbestritten ist,
+dass der Beschwerdeführen Anspruch auf einen Assistenzbeitrag hat. Namentlich
+ist er in seiner Handlungsfähigkeit nicht eingeschränkt, weshalb er die
+Voraussetzungen von Art. 39b IVV nicht erfüllen muss.
+6.
+6.1
+Nachfolgend ist der Hilfebedarf für jeden einzelnen
+Bereich gemäss Art. 39c IVV zu ermitteln. Um den Bedarf pro Monat zu
+berechnen, ist dabei der Tagesbedarf mit 30.4 (365/12) zu multiplizieren
+(KSAB, Rz. 4116). Bei der Ermittlung des Hilfebedarfs ist zwischen den Stufen
+0 (kein Bedarf), 1 (punktueller Hilfebedarf), 2 (Hilfebedarf bei mehreren
+Verrichtungen), 3 (Hilfebedarf bei den meisten Verrichtungen [geringe
+Eigenleistung]) und 4 (umfassend und ständig bei allem [keine Eigenleistung])
+zu unterscheiden. In Anhang 3 des KSAB werden dabei die zeitlichen
+Bandbreiten nach Stufen und Bereichen aufgeführt.
+Vorauszuschicken ist, dass
+der FAKT2 zwar ein taugliches Mittel zur Beurteilung des Hilfebedarfs
+darstellen kann. Dies ist aber nur der Fall, wenn den Besonderheiten des vorliegenden
+Einzelfalls genügend Rechnung getragen wird. So ist mit dem Beschwerdeführer
+davon auszugehen, dass er zwar verschiedene Tätigkeiten selbst ausüben kann,
+hierzu aber einer engmaschigen Anleitung und Begleitung bedarf. Es ist
+naheliegend, dass eine derartige Betreuung in verschiedenen Teilbereichen
+gleichermassen zeitaufwändig ist, wie wenn der Beschwerdeführer die entsprechende
+Tätigkeit überhaupt nicht ausführen könnte.
+6.2
+6.2.1
+Der Bereich alltägliche Lebensverrichtungen umfasst
+die Teilbereiche Ankleiden/Auskleiden; Aufstehen/Absitzen/Abliegen; Essen;
+Körperpflege; Verrichten der Notdurft (KSAB, Anhang 3). Jeder (Teil-)Bereich
+ist in verschiedene Tätigkeiten unterteilt. Für jede Tätigkeit muss entschieden
+werden, in welche Stufe die versicherte Person eingeteilt wird. Bei jeder
+Stufe ist ein Minutenwert hinterlegt. Die Summe der Minuten jeder Tätigkeit
+ergibt dann die Stufe des entsprechenden (Teil-)Bereichs (KSAB,
+Rz. 4015). Im Gutachten wird der Beschwerdeführer durchgängig der Stufe
+4 eingeteilt.
+6.2.2
+Der Teilbereich An-/Auskleiden umfasst die
+Tätigkeiten Zusammenstellen der Kleider/Wäschewechsel, An-/Auskleiden und
+An-/Ablegen von Hilfsmitteln.
+Hinsichtlich des An- und
+Auskleidens wird im Gutachten ausgeführt, dass der Beschwerdeführer
+regelmässige Anleitung, Hilfe und/oder Kontrolle benötige. Die Kleidung müsse
+zurecht gelegt werden. Es müsse kontrolliert werden, ob er die Kleidungsstücke
+in richtiger Reihenfolge anziehe. Er müsse wiederholt aufgefordert werden,
+die Teilschritte, die er motorisch leisten könne, durchzuführen. Das An- und
+Ausziehen stelle eine Handlungsabfolge dar, bei welcher der Beschwerdeführer
+wiederholt hängenbleibe und unruhig werde.
+Mit dem Gutachten ist
+davon auszugehen, dass der Beschwerdeführer bei den Tätigkeiten
+Zusammenstellen der Kleider/Wäschewechsel und Auskleiden in die Stufe 4
+einzuteilen ist. Namentlich fällt dabei ins Gewicht, dass ihm die Kleider
+zurecht gelegt werden müssen und er wiederholt aufgefordert werden muss, die
+einzelnen Teilschritte beim An- und Auskleiden zu befolgen und stets eine
+Kontrolle nötig ist. Dabei tritt klar zu Tage, dass der zeitliche Aufwand
+nicht kleiner ist, als wenn der Beschwerdeführer vollständig durch die
+Assistenzperson angekleidet werden müsste. Hingegen ist zu berücksichtigen,
+dass Beschwerdeführer keine Hilfsmittel trägt, weshalb er diesbezüglich in
+die Stufe 0 einzuteilen ist. Dies ergibt einen Hilfebedarf von 40 Minuten (5
+Minuten für Zusammenstellen der Kleider/Wäschewechsel, 35 Minuten für
+An-/Auskleiden). Insgesamt fällt der Beschwerdeführer beim Teilbereich
+An-/Auskleiden damit unter die Stufe 3.
+6.2.3
+Der Teilbereich
+Aufstehen/Absitzen/Abliegen/Fortbewegen zu Hause umfasst die Tätigkeiten
+Positionswechsel und Mobilität (drinnen).
+Der Gutachter führt hierzu
+aus, Positions- und Raumwechsel seien im Alltag des Beschwerdeführers
+vielfach mit Übergängen zwischen verschiedenen Situationen bzw. Anforderungen
+verbunden und könnten aufgrund seiner eingeschränkten Flexibilität und dem
+Festhalten an Routinen eine grosse Herausforderung darstellen. In diesen Situationen
+benötige der Beschwerdeführer eine enge Begleitung und Anleitung.
+Es trifft sicherlich zu,
+dass der Beschwerdeführer sich selber fortbewegen kann. Zu berücksichtigen
+ist indessen, dass er einer engen Begleitung und Anleitung bedarf. Insofern
+ist es nicht zu beanstanden, dass der zeitliche Aufwand gleich eingeschätzt
+wird, wie bei einer Person, die sich nicht selber fortbewegen kann. Die Stufe
+4 mit 60 Minuten erweist daher als gerechtfertigt.
+6.2.4
+Der Teilbereich Essen und Trinken besteht aus den
+Tätigkeiten Vorbereiten der Nahrungsaufnahme und Essen sowie Trinken.
+In diesem Teilbereich
+kommen sowohl der Gutachter als auch der korrigierte Abklärungsbericht zum
+Schluss, dass der Beschwerdeführer in die Stufe 4 mit 60 Minuten einzureihen
+ist. Dies erweist sich als gerechtfertigt, weil er sowohl bei der Vorbereitung
+der Nahrungsaufnahme sowie bei der Nahrungsaufnahme selbst ständiger
+Überwachung bedarf, da er kein Mass für die richtige Menge kennt und sich
+ohne Hilfe nur von Süssem ernähren würde.
+6.2.5
+Der Teilbereich Körperpflege umfasst die Tätigkeiten
+Körperwäsche, Transfer, Zahnpflege/Mundhygiene, periodische Körperpflege und
+Kosmetik.
+Aus dem Gutachten geht
+hervor, dass der Beschwerdeführer seine Körperhygiene nicht alleine
+angemessen umsetzen könne. Zahnpflege, Nagelpflege und Haarwäsche müssten
+komplett von den Eltern übernommen werden. Beim Rasieren bestehe ein erhöhtes
+Risiko aufkommender Unruhe, beim Waschen und Duschen sei eine aktive Überwachung
+notwendig, um Schäden im Bad zu vermeiden.
+Soweit der Gutachter hier
+die Stufe 4 anwendet, vermag dies in den Bereichen Transfer (10 Minuten),
+Zahnpflege/Mundhygiene (15 Minuten), periodische Körperpflege
+(10 Minuten) und Kosmetik (10 Minuten) zu überzeugen. Hier bedarf er entweder
+ständiger Überwachung oder kann die einzelnen Schritte nicht selber genügend
+ausführen. Hingegen kann er gemäss dem Abklärungsbericht und den schriftlichen
+Aussagen seiner Mutter alleine duschen. Es muss aber alles bereit gelegt und
+kontrolliert werden, ob alle Seife weggewaschen ist. Einmal in der Woche wird
+er gebadet. Hier rechtfertigt sich die Stufe 4 nicht, sondern es ist von der
+Stufe 3 mit 20 Minuten auszugehen (vgl. KSAB, Rz. 4013).
+Insgesamt ergeben sich 65 Minuten, was der Stufe 3 entspricht.
+6.2.6
+Der Teilbereich Notdurft besteht aus den Tätigkeiten
+Transfer, Verrichten der Notdurft, Säubern sowie An- und Ausziehen.
+Im Gutachten wird hierzu
+ausgeführt, dass der Beschwerdeführer insbesondere beim Säubern und Anziehen
+regelmässiger Unterstützung und Anleitung bedürfe. Die begleitende Person
+müsse wiederholt Impulse für die weiteren Schritte geben.
+Bei der Tätigkeit Transfer
+fällt einzig ist Gewicht, dass der Beschwerdeführer gemäss dem korrigierten
+Abklärungsbericht der Beschwerdegegnerin immer wieder aufgefordert werden
+muss, dass er nach dem WC-Gang aufstehe. Hier ist mit der Beschwerdegegnerin
+von der Stufe 2 mit einem Hilfebedarf von 10 Minuten auszugehen. Ebenfalls
+ist der Beschwerdegegnerin zu folgen, soweit sie beim Verrichten der Notdurft
+von der Stufe 3 (15 Minuten) ausgeht. Dabei ist insbesondere zu beachten,
+dass das WC auswärts vorgängig kontrolliert werden muss und der Beschwerdeführer
+auswärts einer engmaschigen Begleitung bedarf, eine ständige Überwachung
+während sämtlichen WC-Gängen aber nicht notwendig ist. Beim Säubern und
+Anziehen benötigt er Unterstützung: Es ist eine genaue Kontrolle notwendig
+ist und es muss oft auch nachgewaschen werden. Bei diesen beiden Tätigkeiten
+rechtfertigt sich mit dem korrigierten Abklärungsbericht die Stufe 3 (8 und
+12 Minuten), da der Beschwerdeführer in diesen Bereichen doch Eigenleistungen
+erbringt und auch in zeitlicher Hinsicht Unterschiede zu den Personen bestehen,
+die umfassend direkte Hilfe benötigen. Insgesamt besteht beim Teilbereich
+Notdurft ein Hilfebedarf von 45 Minuten, was der Stufe 3 entspricht.
+6.2.7
+Für den Bereich alltägliche Lebensverrichtungen
+ergibt sich damit ein Hilfebedarf von 270 Minuten (An-/Auskleiden: 40
+Minuten; Aufstehen/Absitzen/Abliegen/ Fortbewegen zu Hause: 60 Minuten; Essen
+und Trinken: 60 Minuten; Körperpflege: 65 Minuten; Notdurft: 45
+Minuten). Hinzu kommt ein unbestrittener Zusatzaufwand für die Augen- und
+Ohrenpflege sowie die Dekubitusprophylaxe von 15 Minuten. Dies ergibt einen
+anerkannten Hilfebedarf von 285 Minuten pro Tag bzw. hochgerechnet auf einen
+Monat einen solchen von 144.4 Stunden.
+6.3
+6.3.1
+Für Minderjährige oder Jugendliche bis 25 Jahre, die
+einen Assistenzbeitrag beziehen und noch im gleichen Haushalt mit den Eltern
+wohnen, sowie generell bei Minderjährigen bis 15 Jahre, wird kein Hilfebedarf
+im Bereich Haushalt anerkannt. Diese versicherten Personen können aber im
+Teilbereich Administration die Planung/Organisation des Helfernetzes/der
+Assistenz geltend machen. Im Teilbereich Wohnungspflege können sie weiter
+einen Zusatzaufwand aufgrund von Allergien, Schmutz durch Rollstuhl oder aggressives/verwüstendes
+Verhalten, im Teilbereich Einkauf und Besorgungen den Zusatzaufwand für
+Transport bzw. Begleitung zu Arzt-/ Therapiekonsultationen sowie beim Teilbereich
+Wäschepflege einen Zusatzaufwand für behinderungsbedingt grossen Wäscheverbrauch
+geltend machen (KSAB, Rz. 4026).
+6.3.2
+Das Gutachten äussert sich zum Zusatzaufwand nicht.
+Mit dem korrigierten Abklärungsbericht ist von einem Zusatzaufwand für die
+Planung/Organisation des Helfernetzes/der Assistenz auszugehen. Hier
+besprechen die Eltern alles mit dem Beschwerdeführer. Dieser entscheidet
+selbst, ob die Assistenzperson zu ihm passt. Es erweist sich daher als
+gerechtfertigt, hier mit der Beschwerdegegnerin von 5 Minuten auszugehen.
+Hingegen ergibt sich bei der Wohnungspflege kein Zusatzaufwand. Namentlich
+ist weder aus den Akten noch aus dem Gutachten ersichtlich, dass das
+Verhalten des Beschwerdeführers derart aggressiv/verwüstend ist, dass die
+Anerkennung eines Zusatzaufwands gerechtfertigt wäre. Hingegen ist ihm ein
+Zusatzaufwand für den Transport und die Begleitung zu
+Arzt-/Therapiekonsultationen und ein solcher für den behinderungsbedingt grossen
+Wäscheverbrauch zuzusprechen. Hierbei sind die Berechnungen der Beschwerdegegnerin
+mit 10 bzw. 3 Minuten nicht zu beanstanden. Damit ergibt sich ein Gesamtaufwand
+von 18 Minuten bzw. hochgerechnet auf einen Monat von 9.12 Stunden.
+6.4
+6.4.1
+Der Bereich gesellschaftliche Teilhabe und
+Freizeitgestaltung umfasst die Tätigkeiten Hobby/Sport, Tiere/Pflanzen;
+gesellschaftliche Kontakte; Mobilität draussen; Reisen/Ferien (FAKT2).
+6.4.2
+Der Gutachter führt hierzu aus, dass sich der
+Beschwerdeführer in der Regel nur wenige Minuten alleine beschäftigen könne.
+Gleichzeitig benötige er eine Begleitperson in unmittelbarer Nähe, da auch in
+diesen Situationen (Fernsehen, Spiel am Tablet) nicht verlässlich von einer
+stabilen Verfassung ausgegangen werden könne und ein permanentes Risiko
+anwachsender Spannungszustände bestehe. Die Ausübung bevorzugter
+Freizeitaktivitäten (u.a. Ausflüge) benötige eine durchgängige Begleitung und
+Überwachung. Der Beschwerdeführer sei häufig orientierungslos und öffentliche
+Verkehrsmittel könne er nicht alleine benutzen.
+Hier rechtfertigt sich die
+Einstufung in der Stufe 4 bei den Tätigkeiten Hobby und Sport (20 Minuten),
+gesellschaftliche Kontakte (15 Minuten) und Reisen/Ferien (15 Minuten). Auch
+die Beschwerdegegnerin anerkennt, dass der Beschwerdeführer seine Hobbies
+ohne eine intensive Kontrolle, Anleitung und Überwachung nicht ausüben kann,
+weshalb es nicht nachvollziehbar ist, dass sie ihn hier nur in Stufe 3
+einteilt. Sodann ist er bei den gesellschaftlichen Kontakten und beim Reisen
+vollständig auf Hilfe angewiesen. Bei der Tätigkeit Mobilität draussen ist
+hingegen zu beachten, dass er immerhin alleine zum Metzger gehen kann. Dies
+entspricht dem Vergleichstatbestand "kann nur ganz wenige, kurze
+Wegstrecken selbständig bewältigen; braucht sonst immer Anleitung und Begleitung"
+der Stufe 3 gemäss FAKT2. Gerechtfertigt ist hier folglich die Stufe 3 mit
+einem Hilfebedarf von 8 Minuten pro Tag.
+Damit ergibt sich ein
+Hilfebedarf der Stufe 3 von 58 Minuten pro Tag bzw. 29.39 Stunden im Monat.
+Insgesamt beträgt der Hilfebedarf für die Bereiche gemäss Art. 39c
+lit. a-c IVV 182.91 Stunden, was unter dem Maximalwert von 240 Stunden
+(6 x 40 Stunden, vgl. Art. 39e Abs. 2 lit. a Ziff. 3 IVV) liegt.
+6.5
+6.5.1
+Unbestritten ist sodann, dass beim Beschwerdeführer
+mangels Erziehungsaufgaben kein Hilfebedarf im Bereich Erziehung und
+Kinderbetreuung besteht. Strittig ist hingegen, ob ein solcher für den
+Bereich Ausübung einer gemeinnützigen oder ehrenamtlichen Tätigkeit anzuerkennen
+ist.
+Der Hilfebedarf umfasst
+jene Hilfeleistungen, welche die versicherte Person benötigt, um eine
+gemeinnützige oder ehrenamtliche Tätigkeit auszuüben (KSAB, Rz. 4037). Damit
+der Hilfebedarf anerkannt wird, muss die versicherte Person den Nachweis für
+die gemeinnützige oder ehrenamtliche Tätigkeit erbringen. Es wird keine
+Mindestdauer verlangt. Das Engagement muss aber regelmässig sein, d.h. er
+muss sich über mindestens drei Monate erstrecken (KSAB, Rz. 4039 i.V.m. Rz.
+3004). Bei der gemeinnützigen Tätigkeit muss nachvollziehbar sein, dass sie
+nicht nur dem Unternehmen und der Person, welche die Arbeit ausübt, dienlich
+ist, sondern auch der Öffentlichkeit. In den meisten Fällen muss deshalb die
+Tätigkeit in einem gemeinnützigen Unternehmen erfolgen.
+6.5.2
+Der Beschwerdeführer vertritt die Auffassung, dass
+seine Tätigkeit auf einem Bauernhof in […], wo er zweimal pro Woche
+unentgeltlich im Einsatz steht, sowie das Verpacken von Mailings für die […],
+welches etwa dreimal pro Jahr anfällt, als gemeinnützige Tätigkeiten
+anzuerkennen seien.
+Dem ist nicht zu folgen.
+Bei der Arbeit auf dem Bauernhof handelt es sich offensichtlich nicht um eine
+gemeinnützige Tätigkeit, dient der Einsatz doch einzig dem Betreiber des
+Bauernhofs und dem Beschwerdeführer selbst. Das Verpacken der Schreiben der
+[…] kann ebenfalls nicht zu einem anerkannten Hilfebedarf führen, da es
+diesem an der erforderlichen Regelmässigkeit fehlt.
+6.6
+Ebenfalls entfällt ein Hilfebedarf im Bereich berufliche
+Aus- und Weiterbildung. Näher zu prüfen ist hingegen, ob ein solcher für die
+Ausübung einer Erwerbstätigkeit auf dem regulären Arbeitsmarkt anzuerkennen
+ist.
+Entgegen der Auffassung
+des Beschwerdeführers ist ihm in diesem Bereich kein Hilfebedarf
+zuzuerkennen. Dies liegt darin begründet, dass er eine volle ausserordentliche
+Invalidenrente bei einem Invaliditätsgrad von 100 % bezieht. Damit kann seine
+Tätigkeit in der Firma seines Vaters von 10.5 Stunden pro Woche nicht berücksichtigt
+werden (KSAB, Rz. 4060). In den Bereichen gemäss Art. 39c lit. d-g IVV
+besteht beim Beschwerdeführer folglich kein Hilfebedarf.
+6.7
+6.7.1
+Der Überwachungsbedarf wird grundsätzlich nur
+anerkannt, soweit dieser auch für die Hilflosenentschädigung zu
+berücksichtigen ist. Dies ist entgegen der Auffassung des Beschwerdeführers
+nicht zu beanstanden und entspricht der gesetzlichen Vorgabe (Art. 42
+quater
+Abs. 1 lit. a IVG). Die persönliche Überwachung als Leistungskategorie
+ist namentlich von indirekter Hilfe in den verschiedenen Bereichen
+alltäglicher Lebensverrichtungen und lebenspraktischer Begleitung abzugrenzen
+(BGE 140 V 543 E. 3.2.2.3). Darunter ist eine medizinische und
+pflegerische Hilfeleistung zu verstehen, welche infolge des physischen
+und/oder psychischen Gesundheitszustands der versicherten Person notwendig
+ist. Eine solche persönliche Überwachung ist beispielsweise dann
+erforderlich, wenn eine versicherte Person wegen geistiger Absenzen nicht
+während des ganzen Tages allein gelassen werden kann. Um als anspruchsrelevant
+gelten zu können, muss die persönliche Überwachung eine gewisse Intensität
+erreichen (BGer-Urteil 9C_825/2014 vom 23. Juni 2015 E. 4.1.1, mit
+Hinweisen). Davon geht auch das KSAB aus, gemäss welchem es wichtig sei, dass
+die Überwachung nicht nur eine reine Präsenz beinhalte, sondern mit aktiven
+Handlungen verbunden sei. Als aktive Handlungen seien auch reine Augenscheine
+und kurze Kontrollen zu berücksichtigen. Entschädigt werde nur der tatsächliche
+Zeitbedarf für diese Handlungen, nicht aber reine Präsenzzeiten oder passive
+Überwachungszeiten, die keiner Intervention bedürften und während denen
+beispielsweise noch andere Tätigkeiten erledigt werden könnten (Rz. 4067
+f.).
+6.7.2
+Es ist unbestritten, dass der Beschwerdeführer der
+persönlichen Überwachung bedarf. Strittig ist hingegen, in welche Stufe er
+diesbezüglich einzuordnen ist.
+Der Gutachter ordnet den
+Hilfebedarf in Stufe 4 ein und führt hierzu aus, beim Beschwerdeführer liege
+während des Tages ein durchgängiger persönlicher Überwachungsbedarf vor, der
+aufgrund des Bestehens des Risikos von Selbst- oder Fremdgefährdung als Zeit
+aktiver Überwachung/Intervention zu verstehen sei. Unterstützende
+Rahmenbedingungen und Massnahmen vermöchten dieses Risiko deutlich zu senken,
+jedoch lasse sich das Auftreten von erhöhten Spannungszuständen, aus denen
+heraus selbstverletzendes oder gegen Personen bzw. Gegenstände gerichtetes
+fremdaggressives Verhalten auftreten könne. Hinzu komme eine eingeschränkte
+Fähigkeit, Gefahren abschätzen zu können. Da der Beschwerdeführer vielfach
+nicht in der Lage sei, sich bei einem wachsenden Spannungszustand rechtzeitig
+eigenaktiv zu beruhigen oder die benötigte Hilfe zu holen, sei eine zeitnahe,
+fremdgesteuerte Unterstützung erforderlich. Die durchgängige Anwesenheit
+einer Betreuungsperson müsse in diesem Sinne aktuell so engmaschig organisiert
+sein, dass die Wahrnehmung des Spannungszustands und seiner Entwicklung
+angemessen verfolgt werden könne. Dies mache eine räumliche Nähe, einen regelmässigen
+Kontakt, die ständige Aufmerksamkeit und eine Einschätzung der vorhandenen
+Stressoren in der konkreten Situation notwendig.
+Im FAKT2 sind für den
+Bedarf der Stufe 4 unter anderem folgende Vergleichstatbestände hinterlegt:
+"Die versicherte Person kann keinen Moment alleine gelassen werden, d.h.
+es ist permanent die Anwesenheit einer Drittperson im selben Raum
+erforderlich, da eine überdurchschnittlich hohe Aufmerksamkeit und ständige
+Interventionsbereitschaft notwendig ist." / "Die versicherte Person
+kann nie alleine im Zimmer gelassen werden".
+Die Mutter des
+Beschwerdeführers führt in ihrer schriftlichen Stellungnahme beispielsweise
+aus, dass dieser bei der Wohnungspflege manchmal auch allein kleinere
+Arbeiten erledige, sie aber immer in Hörnähe sei, dass er alleine zum Metzger
+im Dorf gehe, kleinere Wege alleine mit dem Fahrrad bewältige sowie
+weitgehend alleine dusche, wobei jemand in Hörnähe sei. Damit erweist sich
+der Bedarf an persönlicher Überwachung kleiner als bei den beschriebenen
+Vergleichstatbeständen. Namentlich ist es offensichtlich nicht erforderlich,
+dass jemand permanent im selben Raum wie der Beschwerdeführer ist,
+andernfalls würde es nicht einleuchten, dass dieser beispielsweise selber
+beim Metzger einkaufen kann.
+Beim Bedarf der Stufe 3
+sind im FAKT2 beispielsweise folgende Vergleichstatbestände hinterlegt:
+"Die versicherte Person kann nicht verbal kommunizieren und gerät
+bereits bei verhältnismässig geringen Anlässen in grossen Stress/Angst/Panik
+(z.B. schreit dann laut); es muss daher viertelstündlich nachgesehen und
+gegebenenfalls beruhigt werden; eine permanente Anwesenheit von Drittpersonen
+im selben Zimmer ist jedoch nicht erforderlich." / "Die versicherte
+Person hat gelegentlich Absenzen und es besteht die Gefahr von
+Fehlhandlungen; sie kann nicht um Hilfe rufen; der Umgang mit fremden Personen
+muss immer überwacht/angeleitet werden, sie kann aber kurz im Zimmer alleine
+gelassen werden."
+Berücksichtigt man die
+Aussagen der Mutter des Beschwerdeführers und des Gutachters ist beim
+Beschwerdeführer von einer ähnlichen Situation auszugehen wie sie in den
+Vergleichstatbeständen der Stufe 3 beschrieben wird. Damit ist von einem
+Bedarf der Stufe 3 auszugehen. Dies führt zu einem anerkannten Hilfebedarf
+von 120 Minuten pro Tag bzw. 60 Stunden pro Monat (vgl. Art. 39e Abs. 2 lit.
+c IVV, welcher in diesem Bereich von 30 Tagen pro Monat ausgeht).
+6.8
+Insgesamt ergibt sich in den Bereichen gemäss Art.
+39c Abs. 1 lit. a-h IVV ein Hilfebedarf von monatlich 242.91 Stunden (Art.
+39c Abs. 1 lit. a-c IVV: 182.91 Stunden; Art. 39c Abs. 1 lit. d-g: 0 Stunden;
+Art. 39c Abs. 1 lit. h: 60 Stunden). Davon ist gemäss Art.
+42
+sexies
+Abs. 1 lit. a IVG die
+Hilflosenentschädigung im Umfang von 57.07 Stunden (Fr. 1'872.-./. Fr. 32.80;
+vgl. KSAB, Rz. 4107) pro Monat abzuziehen. Somit ergibt sich ein
+Assistenzbedarf von monatlich 185.84 Stunden.
+6.9
+6.9.1
+Strittig ist schliesslich, welcher Ansatz für den
+Assistenzbeitrag zu verwenden ist. Der Beschwerdeführer geht davon aus, dass
+die Assistenzperson über besondere Qualifikationen verfügen müsse, weshalb
+von einem Assistenzbeitrag von Fr. 49.15 pro Stunde anstatt von Fr. 32.80 pro
+Stunde auszugehen sei (vgl. Art. 39f Abs. 1 und 2 IVV; in der bis am 31.
+Dezember 2014 gültigen Fassung).
+6.9.2
+Der erhöhte Ansatz von Fr. 49.15 pro Stunde kommt
+gemäss Art. 39f Abs. 2 IVV nur in den Bereichen nach Art. 39c lit. e-g IVV in
+Frage. Da in diesen Bereichen kein Hilfebedarf anzuerkennen ist, entfällt der
+höhere Ansatz von vornherein.
+Damit sind die gesamten
+185.84 Stunden zum Ansatz von Fr. 32.80 pro Stunde zu entschädigen, was
+Fr. 6'095.55 entspricht.
+7.
+7.1
+Zu prüfen bleibt der Hilfebedarf für den Nachtdienst
+gemäss Art. 39c lit. i IVV. Hier wird unterschieden zwischen punktuellem
+Hilfebedarf in wenigen Nächten (Stufe 1), Hilfebedarf mindestens viermal pro
+Woche/mindestens 16 Nächte pro Monat (Stufe 2), Hilfebedarf mindestens einmal
+jede Nacht (Stufe 3) sowie Hilfebedarf mindestens zwei Stunden jede Nacht
+(Stufe 4; vgl. zum Ganzen KSAB, Anhang 3).
+7.2
+Es ist unbestritten, dass ein Hilfebedarf für den
+Nachtdienst ausgewiesen ist. Strittig ist hingegen, ob mit dem
+Beschwerdeführer der Ansatz der Stufe 4 anzuwenden ist, oder ob derjenige der
+Stufe 3 zutreffend ist, wovon die Beschwerdegegnerin ausgeht.
+Der Gutachter geht davon
+aus, dass das am Tage bestehende Risiko von Selbst- und Fremdgefährdung auch
+in der Nacht vorhanden sei. Das beschriebene Schlafverhalten lasse einerseits
+erkennen, dass in den gelegentlichen Wachphasen und Toilettengängen des
+Beschwerdeführers aus diesem Grund eine Überwachung notwendig sei. Der genaue
+Zeitumfang habe jedoch nicht ermittelt werden können. Er liege den
+Schilderungen zufolge je nach Verlauf der Nächte bei einer bis mehreren
+Stunden.
+Grundsätzlich sind damit
+die Voraussetzungen für die Stufe 4, welche von einem Hilfebedarf von
+mindestens zwei Stunden jede Nacht ausgeht, nicht erfüllt. Mit der Beschwerdegegnerin
+ist von der Stufe 3 auszugehen, was auch den Vergleichstatbeständen gemäss
+FAKT2 "es ist mindestens ein Toilettengang jede Nacht notwendig, bei welchem
+die versicherte Person auf Hilfe angewiesen ist" und "versicherte
+Person wacht jede Nacht auf und muss beruhigt oder wieder ins Bett gebracht
+werden (Zeitaufwand weniger als 96 Minuten)" entspricht. Damit kommt der
+Ansatz von Fr. 54.65 pro Tag bzw. Fr. 1'661.35 pro Monat zu tragen.
+8.
+8.1
+Zusammenfassend ergibt sich ein Assistenzbeitrag von
+Fr. 7'756.90 (Fr. 6'095.55 + Fr. 1'661.35) pro Monat. Gemäss Art. 39g Abs. 2
+lit. b IVV beträgt der Assistenzbeitrag pro Jahr das Elffache des
+Assistenzbeitrags pro Monat, wenn die versicherte Person mit der Person, mit
+der sie verheiratet ist oder in eingetragener Partnerschaft lebt oder eine
+faktische Lebensgemeinschaft führt oder in gerader Linie verwandt ist, im
+selben Haushalt lebt (Ziff. 1), und die Person, mit der sie im selben
+Haushalt lebt, volljährig ist und selber keine Hilflosenentschädigung
+bezieht. Diese Voraussetzungen sind beim Beschwerdeführer, der bei seinen
+Eltern lebt, erfüllt. Der Assistenzbeitrag pro Jahr beträgt daher Fr. 85'325.90
+(11 x Fr. 7'756.90).
+8.2
+Der Anspruch auf einen Assistenzbeitrag beginnt mit
+dem Zeitpunkt der Anmeldung im Dezember 2014 (Art. 42
+septies
+Abs.
+1 IVG). Auszurichten ist der Assistenzbeitrag aber freilich nur für die
+tatsächlich durch eine Assistenzperson geleisteten Stunden (Art. 39i Abs. 2
+IVV; vgl. aber auch Art. 39h Abs. 1 IVV), welche im Rahmen eines Arbeitsvertrags
+durch den Beschwerdeführer bzw. dessen gesetzlichen Vertreter angestellt
+wurde (Art. 42
+quinquies
+lit. a IVG).
+8.3
+Demgemäss ist die Beschwerde im Sinne der Erwägungen
+teilweise gutzuheissen. Die Verfügung der Beschwerdegegnerin vom 17. November
+2015 ist dahingehend abzuändern, als dem Beschwerdeführer ein
+Assistenzbeitrag von Fr. 7'756.90 pro Monat bzw. maximal Fr. 85'325.90 pro
+Jahr zuzusprechen ist. Hinzuweisen bleibt darauf, dass ab dem 1. Januar 2015
+die erhöhten Ansätze von Fr. 32.90 pro Stunde und von Fr. 54.85 pro Tag
+für den Nachtdienst der Stufe 3 anzuwenden sind.
+III.
+1.
+1.1
+Der Beschwerdeführer
+beantragt
+die Gewährung der unentgeltlichen Prozessführung und
+der unentgeltlichen Rechtsverbeiständung
+. Gemäss Art. 139
+Abs. 1
+des Gesetzes über die
+Verwaltungsrechtspflege vom 4. Mai 1986 (VRG)
+befreit die Behörde
+eine Partei, der die Mittel fehlen, um neben dem Lebensunterhalt für sich und
+ihre Familie die Verfahrenskosten aufzubringen, auf Gesuch hin ganz oder
+teilweise von der Kosten- und Vorschusspflicht, sofern das Verfahren nicht aussichtslos
+ist. Unter denselben Voraussetzungen weist sie der Partei auf Gesuch hin oder
+von Amtes wegen einen Anwalt als Rechtsbeistand zu, sofern ein solcher für
+die gehörige Interessenwahrung erforderlich ist
+(Art. 61 lit. f ATSG und Art. 139 Abs. 2 VRG). Der
+Nachweis der Bedürftigkeit obliegt nach Art. 139 Abs. 3 VRG der
+gesuchstellenden Partei.
+1.2
+Die Beschwerdeführer empfängt Ergänzungsleistungen zu seiner Invalidenrente,
+weshalb seine Mittellosigkeit erwiesen ist und er
+daher als bedürftig im Sinne von Art. 139 Abs. 1 VRG zu gelten hat.
+Zudem kann das
+vorliegende Verfahren schon allein deshalb nicht als
+aussichtslos bezeichnet werden, weil die Beschwerde teilweise gutzuheissen
+ist. Folglich ist sein Gesuch um unentgeltliche Prozessführung gutzuheissen.
+Da der Beschwerdeführer für das Verfahren auf eine rechtliche Vertretung
+angewiesen war, ist auch das Gesuch um unentgeltliche Rechtsverbeiständung
+gutzuheissen und ihm in der Person von
+Rechtsanwalt
+C.______
+ein unentgeltlicher Rechtsbeistand zu bestellen.
+Letzterer ist mit pauschal Fr. 2'600.-
+(inkl. Auslagen und Mehrwertsteuer) zu entschädigen. Daran anzurechnen
+ist die Parteientschädigung seitens der Beschwerdegegnerin.
+2.
+2.1
+Nach Art. 134 Abs. 1 lit. c VRG
+i.V.m. Art. 69 Abs. 1
+bis
+IVG hat die Partei, welche im
+Beschwerdeverfahren unterliegt, die amtlichen Kosten zu tragen. Da der
+Beschwerdeführer die Zusprechung des gesetzlich höchstmöglichen Assistenzbeitrags
+beantragte, obsiegt er lediglich zu ungefähr einem Viertel. Ausgangsgemäss
+ist die pauschale Gerichtsgebühr von Fr. 800.- zu drei Vierteln dem Beschwerdeführer
+und zu einem Viertel der Beschwerdegegnerin aufzuerlegen. Auf die Erhebung
+des Kostenanteils des Beschwerdeführers ist indessen zufolge Gewährung der
+unentgeltlichen Prozessführung einstweilen zu verzichten.
+Der
+Beschwerdeführer ist darauf hinzuweisen, dass eine Partei, der die
+unentgeltliche Rechtspflege bewilligt worden ist, für den Fall, dass sie
+später in günstige wirtschaftliche Verhältnisse gelangt, zur Nachzahlung der
+Verfahrens- und Anwaltskosten verpflichtet werden kann (Art. 139a VRG).
+2.2
+Ausgangsgemäss ist dem Beschwerdeführer eine
+reduzierte Parteientschädigung von Fr. 650.- zuzusprechen (Art. 1 Abs. 1 IVG
+i.V.m. Art. 61 lit. g ATSG e contrario), welche an die
+Entschädigung des unentgeltlichen Rechtsbeistands anzurechnen ist.
+3.
+Das Gutachten von Prof.
+Dr. E.______ wurde aufgrund der ungenügenden Sachverhaltsabklärung durch die
+Beschwerdegegnerin nötig (E. II/4.2.2). Die Gutachtenskosten sind ihr
+aufzuerlegen (BGE 139 V 225 E. 4.3). Folglich ist sie zu verpflichten,
+dem Verwaltungsgericht innert 30 Tagen nach Rechtskraft dieses Entscheids die
+Gutachtenskosten in der Höhe von Fr. 10'800.- zu bezahlen.
+Demgemäss beschliesst die Kammer
+:
+1.
+Die
+Gesuche des Beschwerdeführers um Gewährung der unentgeltlichen Prozessführung
+und der unentgeltlichen Rechtsverbeiständung werden gutgeheissen. Ihm wird
+in der Person von Rechtsanwalt C.______ ein unentgeltlicher Rechtsbeistand
+bestellt.
+2.
+Der Rechtsbeistand wird zu
+Lasten der Gerichtskasse mit Fr. 2'600.- (inkl. Auslagen und
+Mehrwertsteuer) entschädigt. Daran angerechnet wird die Parteientschädigung
+seitens der Beschwerdegegnerin in der Höhe von Fr. 650.-.
+3.
+Die Nachzahlungspflicht gemäss
+Art. 139a VRG bleibt vorbehalten.
+4.
+Die
+Gerichtskasse wird beauftragt, spätestens im September 2021 zu prüfen, ob
+die Voraussetzungen für die Nachzahlung erfüllt sind.
+und erkennt sodann
+:
+1.
+Die
+Beschwerde wird im Sinne der Erwägungen teilweise gutgeheissen. Die Verfügung
+der Beschwerdegegnerin vom 17. November 2015 wird dahingehend abgeändert,
+als dem Beschwerdeführer ein Assistenzbeitrag von Fr. 7'756.90 pro Monat
+bzw. maximal Fr. 85'325.90 pro Jahr zugesprochen wird.
+2.
+Die
+pauschale Gerichtsgebühr von Fr. 800.- wird zu drei Vierteln dem Beschwerdeführer
+und zu einem Viertel der Beschwerdegegnerin auferlegt. Auf die Erhebung des
+Kostenanteils des Beschwerdeführers wird einstweilen verzichtet.
+3.
+Die
+Beschwerdegegnerin wird verpflichtet, dem Beschwerdeführer innert 30 Tagen
+nach Rechtskraft dieses Entscheids eine Parteientschädigung in der Höhe von
+Fr. 650.- zu bezahlen.
+4.
+Die
+Beschwerdegegnerin wird verpflichtet, dem Verwaltungsgericht innert
+30 Tagen nach Rechtskraft dieses Entscheids die Gutachtenskosten in
+der Höhe von Fr. 10'800.- zu bezahlen.
+5.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
