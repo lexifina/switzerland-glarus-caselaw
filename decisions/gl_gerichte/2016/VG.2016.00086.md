@@ -1,0 +1,260 @@
+---
+decision_id: "gl_gerichte_VG.2016.00086"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2016.00086"
+docket_2: "VG.2016.446"
+decided: "2016-11-10"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=715&W10_KEY=218274&nTrefferzeile=8&Template=simple/search_result_document.html"
+---
+
+# GL Gerichte VG.2016.00086
+
+## Regeste
+
+Beschaffungswesen/Submissionswesen
+
+## Text
+
+Glarus Verwaltungsgericht 10.11.2016 VG.2016.00086 (VG.2016.446)
+Glaris Verwaltungsgericht 10.11.2016 VG.2016.00086 (VG.2016.446)
+Glarona Verwaltungsgericht 10.11.2016 VG.2016.00086 (VG.2016.446)
+
+Beschaffungswesen/Submissionswesen
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+10. November 2016
+I. Kammer
+in Sachen
+VG.2016.00086
+A.______AG
+Beschwerdeführerin
+gegen
+Gemeinde Glarus
+Beschwerdegegnerin
+betreffend
+Ausschreibung Entsorgung Grüngut
+Die Kammer zieht in Erwägung:
+I.
+1.
+Die Gemeinde Glarus
+schrieb am 28. Juli 2016 im Amtsblatt des Kantons Glarus und auf der
+Internetplattform Simap (www.simap.ch) im offenen Verfahren die Entsorgung
+Grüngut aus. Die Ausschreibungsunterlagen waren vom 28. Juli 2016 bis am 11. August
+2016 verfügbar.
+2.
+Die A.______AG erhob am 4.
+August 2016 beim Verwaltungsgericht Beschwerde gegen die Ausschreibung und
+beantragte sinngemäss, diese sei so zu ändern, dass nicht nur der Transport
+in eine Feststoffvergärungsanlage zuzulassen sei. Die Gemeinde Glarus
+beantragte am 29. August 2016 die Abweisung der Beschwerde; unter Kosten- und
+Entschädigungsfolgen zu Lasten der A.______AG. Die A.______AG hielt in ihrer
+Stellungnahme vom 14. September 2016 erneut daran fest, dass die Begrenzung
+der Ausschreibung auf eine Feststoffvergärungsanlage bzw. den Transport in
+eine solche unzulässig sei. Die Gemeinde Glarus schloss am 26. September
+2016 wiederum auf Abweisung der Beschwerde.
+II.
+1.
+1.1
+Im Submissionsverfahren kann nicht nur der Zuschlag,
+sondern nach Art. 35 Abs. 1 und 2 lit. b i.V.m. Art. 36
+des Submissionsgesetzes vom 4. Mai 1997 (SubmG) auch die Ausschreibung eines
+Auftrags mit Beschwerde beim Verwaltungsgericht angefochten werden. Die
+Ausschreibungsunterlagen sind integrierender Bestandteil der Ausschreibung,
+falls auf sie – wie vorliegend – in der Ausschreibung verwiesen wird.
+Erachtet ein Anbieter den Gegenstand des Auftrags oder einzelne Zuschlagskriterien
+als unzulässig und ist der geltend gemachte Mangel bereits aus den
+rechtzeitig erhältlich gemachten Ausschreibungsunterlagen ersichtlich, muss
+er die entsprechende Rüge mit der Beschwerde gegen die Ausschreibung
+vorbringen (VGer-Urteil VG.2014.00136 vom 30. April 2015 E. 3.2 f.). Die
+Beschwerdeführerin hat demnach zu Recht bereits die Ausschreibung angefochten
+und ihre Rügen nicht erst nach Erteilen des Zuschlags vorgebracht.
+1.2
+Gemäss Art. 40 SubmG i.V.m. Art. 88
+Abs. 1 lit. a des Gesetzes über die Verwaltungsrechtspflege vom
+4. Mai 1986 (VRG) ist zur Beschwerde berechtigt, wer ein eigenes
+schutzwürdiges Interesse an der Änderung oder Aufhebung des angefochtenen
+Entscheids hat. Zur Anfechtung der Ausschreibung ist jede potentielle
+Anbieterin legitimiert, die ein Interesse an einer konkreten Beschaffung hat
+und deren Rechtsstellung durch den gerügten Mangel beeinträchtigt wird.
+Die Beschwerdeführerin ist
+selber in der Grüngutverwertung tätig (inkl. Transport), betreibt aber keine
+Feststoffvergärungsanlage. Würde der Ausschreibungsgegenstand nicht auf den
+Transport zu einer Feststoffvergärungsanlage begrenzt, käme sie als potentielle
+Anbieterin in Frage. Dabei ist unerheblich, dass vorliegend einzig der
+Transport zur Anlage ausgeschrieben wurde, da mit dem Zuschlagsentscheid auch
+die Anlage verbindlich festgelegt wird. Die Beschwerdeführerin ist daher zur
+Erhebung der Beschwerde legitimiert. Da auch die übrigen
+Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde einzutreten.
+2.
+Die vorliegend strittige
+Ausschreibung stützt sich auf das "Konzept für die künftige Verwertung
+biogener Abfälle in der Gemeinde Glarus". Im Leistungsbeschrieb der Ausschreibungsunterlagen
+ist vorgesehen, dass der Auftragnehmer wöchentlich das Grüngut sammelt (Gartenabfälle)
+und es zu einer Feststoffvergärungsanlage seiner Wahl transportiert. Das
+Grüngut wird in Containern oder gebündelt bereitgestellt und muss in
+Fahrzeugen mit geschlossenem Wagenaufbau abgeführt werden.
+3.
+3.1
+Die Beschwerdeführerin macht geltend, indem der
+Auftragnehmer verpflichtet werde, das Grüngut zu einer
+Feststoffvergärungsanlage seiner Wahl zu transportieren, werde der Wettbewerb
+in der Region ausgeschaltet. Es stehe die Energiegewinnung im Vordergrund,
+während die Entsorgung von Gärgülle und Gärgut kein Thema sei. Erfahrungen
+hätten gezeigt, dass der energetische Nutzen von Abfällen vielfach aufgrund
+der Transporte und der aufwendigen Bearbeitung dahinfalle, weshalb eine
+Minusbilanz entstehe. Sie habe der Beschwerdegegnerin angeboten, ein
+regionales Konzept auszuarbeiten, das allen Anforderungen gerecht würde. Bis
+heute habe sie aber keine Antwort erhalten. Es sei auch unverständlich, dass
+die B.______AG, welche einen der modernsten Kompostplätze in der Ostschweiz
+betreibe, durch die Ausschreibung vom Wettbewerb ausgeschlossen werde.
+3.2
+Die Beschwerdegegnerin führt aus, sie habe zusammen
+mit der Abteilung Umweltschutz und Energie des kantonalen Departements Bau
+und Umwelt (DBU) und Vertretern der Grünen Partei Glarus ein Konzept erstellt.
+Dabei habe die Projektgruppe verschiedene Betriebe, von Kompostieranlagen bis
+zur Feststoffvergärungsanlage besichtigt und für die zukünftige Verarbeitung
+der Grünabfälle geprüft. In der Region Glarnerland gebe es keinen Betrieb,
+welcher gemischtes Grüngut verarbeite. Der von der Beschwerdeführerin
+erwähnte Betrieb B.______AG sei lediglich berechtigt, Grüngut mit einem
+Anteil von maximal 10 % Speiseresten zu verwerten. Dieser Anteil liege in der
+Gemeinde Glarus jedoch bei 20-25 %. Die Festlegung der gewünschten Technologie
+sei einzig ihre Sache und sei submissionsrechtlich nicht zu beanstanden.
+4.
+4.1
+Einen wichtigen Grundpfeiler des Vergabeverfahrens
+bildet das Verbot der Diskriminierung einzelner Anbieter. So sieht
+Art. 7 Abs. 1 SubmG vor, dass alle Anbieter gleich behandelt werden
+und der Auftraggeber jede Diskriminierung vermeidet. Vorliegend ist im
+Wesentlich strittig, ob durch die angefochtene Ausschreibung das Diskriminierungsverbot
+verletzt wird.
+4.2
+Der öffentliche Auftraggeber ist grundsätzlich frei
+im Entscheid darüber, was beschafft werden soll. Bei der Umschreibung der
+geforderten Leistung kommt ihm ein grosser Ermessensspielraum zu. Die
+Anforderungen an eine Beschaffung erhalten jedoch eine vergaberechtliche
+Bedeutung, soweit sie Auswirkungen auf den Wettbewerb zwischen den
+potentiellen Anbietern zeitigen. Das ist insbesondere der Fall, wenn die
+Umschreibung des Vergabeobjekts dazu führt, dass für die betreffende Beschaffung
+nur noch ein einziger oder sehr wenige Anbieter in Frage kommen. Einschränkungen
+des Kreises potentieller Anbieter sind nur insoweit zulässig, als sie durch
+den Zweck der Beschaffung gerechtfertigt sind (BGer-Urteil 2P.282/1999 vom
+2. März 2000, in BR 2/2001, S. 65; VGer ZH-Urteil
+VB.2008.00347 vom 10. Dezember 2008 E. 6.1, www.vgr.zh.ch; VGer
+SG-Urteil B 2006/123 vom 14. Dezember 2006 E. 2b,
+www.gerichte.sg.ch). Massgebend ist vorliegend im Wesentlichen, ob für die
+Eingrenzung der Ausschreibung auf Transporte zu Feststoffvergärungsanlagen
+sachliche Gründe bestehen.
+4.3
+Nach der Fusion der Gemeinden Glarus, Ennenda,
+Netstal und Riedern zur neuen Gemeinde Glarus wurde eine Vereinheitlichung
+der Sammlung biogener Abfälle in der neuen Gemeinde Glarus angestrebt. Es
+wurden dezentral Container für Küchenabfälle und Mulden für Gartenabfälle
+vorgesehen. Das so gesammelte Gut wurde auf der Deponie Allmeind, Glarus, zu
+Kompost verarbeitet. Dies wurde jedoch durch die Abteilung Umweltschutz und
+Energie untersagt. Seither kann auf der Deponie nur Gartenabraum verarbeitet werden
+und die Sammlung der Küchenabfälle musste in den beaufsichtigten
+Sammelstellen zentralisiert werden. Da dies weder für die Beschwerdegegnerin
+noch für die Einwohner befriedigend war, wurde ein "Konzept für die künftige
+Verwertung biogener Abfälle in der Gemeinde Glarus" erstellt, welches
+vorsieht, dass das Grüngut wie bisher in Grüngutcontainern gesammelt werden
+soll. Das Sammelgut muss anschliessend einer Feststoffvergärungsanlage
+zugeführt werden.
+4.4
+Die Abteilung Umweltschutz und Energie führte hierzu
+am 28. August 2016 unter Bezugnahme auf die Verordnung über die
+Entsorgung von tierischen Nebenprodukten vom 25. Mai 2011 (VTNP) aus,
+Feldrandkompostierungen seien für die Verarbeitung von Rüstabfällen und
+Speiseresten in reiner Form oder vermischt nicht geeignet. Schwieriger
+gestalte sich die Beurteilung von Platzkompostierungen. Anzunehmen sei, dass
+in den Ortsteilen Glarus und Ennenda grosse Mengen an Speiseresten/Küchenabfällen
+angeliefert würden. Im Gegensatz zur heutigen Sammlung des Grünguts, welche
+sich auf den Frühling/Sommer/Herbst konzentriere, sei für die ausgeschriebene
+Grüngutabfuhr eine ununterbrochene Abfuhr über das ganze Jahr geplant. In den
+Wintermonaten würden praktisch ausschliesslich Küchenabfälle anfallen und es
+könne keine Durchmischung mit Grüngut stattfinden. Hinzu komme, dass auch Sammelgut
+nicht nur aus Privathaushalten, sondern auch aus anderen Bereichen (beispielsweise
+Büro, Gewerbe- und Verwaltungsbetriebe sowie kleine Gaststätten) anfallen
+werde. Dies führe dazu, dass Speisereste auch nicht in einer Platzkompostierung
+verarbeitet werden dürften, da diese in der Regel die Minimaltemperatur
+gemäss Anhang 5 Ziff. 43 VTNP nicht einhalten würden, während dies bei
+thermophilen Vergäranlagen erfahrungsgemäss problemlos möglich sei. Darum sei
+wegen der speziellen Situation in Glarus die geplante ausschliessliche
+Verwertung in thermophilen Vergärungsanlagen zielführend. In der
+Stellungnahme vom 22. September 2016 ergänzte die Abteilung Umweltschutz
+und Energie ihre Ausführungen und wies insbesondere darauf hin, dass bei
+einer Kompostierung in einer Anlage wie derjenigen der B.______AG eine Triage
+in kompostierbare Abfälle und Küchenabfälle, welche hygienisiert und einer
+Biogasanlage zugeführt würden, erfolgen müsse, was nicht praktikabel sei.
+4.5
+Die kantonale Abteilung Umweltschutz und Energie
+legt als Fachbehörde nachvollziehbar dar, weshalb eine thermophile
+Vergärungsanlage für die vorgesehene Grüngutverarbeitung geeigneter als eine
+Platz- oder Feldrandkompostierung ist. Dabei weist sie insbesondere auf die
+besondere Situation der Gemeinde Glarus mit einem hohen Anteil an
+Speiseresten/Küchenabfällen hin. Sodann kommt dem Umstand Bedeutung zu, dass
+die Grüngutsammlung auch in den Wintermonaten erfolgen soll, in welchen
+praktisch keine Durchmischung der Speisereste/Küchenabfälle mit Grüngut
+stattfindet. Naheliegend ist sodann, dass eine Triage in kompostierbare
+Abfälle und Küchenabfälle nicht praktikabel ist.
+Was die Beschwerdeführerin
+dagegen vorbringt, vermag nicht zu überzeugen. So setzt sie sich namentlich
+nicht mit der besonderen Situation in der Gemeinde Glarus auseinander und
+vermag nicht aufzuzeigen, weshalb der im Konzept der Beschwerdegegnerin
+vorgezeichnete Weg und dessen Ausführung gemäss Ausschreibung diskriminierend
+sein sollte. Namentlich ihr Hinweis, dass sie bereit sei, ein Konzept auszuarbeiten,
+erscheint aufgrund der offensichtlichen Vorteile einer Feststoffvergärungsanlage
+zu vage.
+Insgesamt bestehen keine
+Gründe dafür, an der überzeugenden Stellungnahme der kantonalen Fachstelle zu
+zweifeln. Damit erweist sich das Vorgehen der Beschwerdegegnerin, welche sich
+in ihrem Konzept auf Feststoffvergärungsanlagen konzentrierte und folglich
+den Transport zu einer Feststoffvergärungsanlage ausschrieb, als sachlich begründet.
+Zwar wurde damit der Kreis potentieller Anbieter substantiell eingeschränkt.
+Da der Entscheid der Beschwerdegegnerin aber auf sachlichen Gründen beruht
+und ihr ohnehin ein erhebliches Ermessen beim Entscheid darüber, was
+beschafft werden soll, zukommt, hat sie durch die strittige Ausschreibung
+kein Recht verletzt.
+Demgemäss ist die
+Beschwerde abzuweisen.
+III.
+1.
+Nach Art. 134 Abs. 1 lit.
+c VRG hat die Partei, welche im Beschwerde-, Klage- oder Revisionsverfahren
+unterliegt, die amtlichen Kosten zu tragen. Die pauschale Gerichtsgebühr von
+Fr. 2'000.- ist demzufolge der unterliegenden Beschwerdeführerin aufzuerlegen.
+Vom bereits geleisteten Kostenvorschuss von Fr. 4'000.- sind ihr
+Fr. 2'000.- zurückzuerstatten.
+Da die Beantwortung von Rechtsmitteln
+zum angestammten Aufgabenbereich eines Gemeinwesens gehört, ist Behörden nur
+in Ausnahmefällen eine Parteientschädigung zuzusprechen (Art. 138
+Abs. 4 VRG). Ein solcher Ausnahmefall liegt nicht vor, zudem war die
+Beschwerdegegnerin nicht anwaltlich vertreten, was aber Voraussetzung für die
+Zusprechung einer Parteientschädigung bildet (vgl. Art. 138 Abs. 1
+VRG). Demgemäss ist der Beschwerdegegnerin trotz ihres Obsiegens keine
+Parteientschädigung zuzusprechen.
+2.
+Gegen diesen Entscheid
+steht die Beschwerde in öffentlich-rechtlichen Angelegenheiten nur nach
+Massgabe von Art. 83 lit. f des Bundesgerichtsgesetzes vom
+17. Juni 2005 (BGG) offen.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Der
+Beschwerdeführerin wird eine pauschale Gerichtsgebühr von Fr. 2'000.-
+auferlegt. Vom von ihr bereits geleisteten Kostenvorschuss in der Höhe von
+Fr. 4'000.- werden ihr Fr. 2'000.- zurückerstattet.
+3.
+Eine
+Parteientschädigung wird nicht zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
