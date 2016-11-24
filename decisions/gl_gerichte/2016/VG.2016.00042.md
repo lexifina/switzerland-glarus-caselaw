@@ -1,0 +1,723 @@
+---
+decision_id: "gl_gerichte_VG.2016.00042"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2016.00042"
+docket_2: "VG.2016.459"
+decided: "2016-11-24"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=729&W10_KEY=218274&nTrefferzeile=4&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-028.md", "switzerland/bund/acts/830.1/art-043.md", "switzerland/bund/acts/831.20/art-001.md", "switzerland/bund/acts/831.20/art-028.md", "switzerland/bund/acts/831.20/art-059.md", "switzerland/bund/acts/831.20/art-069.md"]
+---
+
+# GL Gerichte VG.2016.00042
+
+## Regeste
+
+Sozialversicherung - IV
+
+## Text
+
+Glarus Verwaltungsgericht 24.11.2016 VG.2016.00042 (VG.2016.459)
+Glaris Verwaltungsgericht 24.11.2016 VG.2016.00042 (VG.2016.459)
+Glarona Verwaltungsgericht 24.11.2016 VG.2016.00042 (VG.2016.459)
+
+Sozialversicherung - IV
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+24. November 2016
+II. Kammer
+in Sachen
+VG.2016.00042
+A.______
+Beschwerdeführer
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+IV-Stelle Glarus
+Beschwerdegegnerin
+betreffend
+IV-Leistungen
+Die Kammer zieht in Erwägung:
+I.
+1.
+Der im Jahr 1966 geborene
+A.______ meldete sich am 14. Januar 2013 bei der IV-Stelle Glarus zum
+Bezug von Leistungen der Invalidenversicherung an. Diese teilte ihm am
+23. April 2013 mit, dass berufliche Massnahmen aufgrund seines
+instabilen Gesundheitszustandes nicht möglich seien. Gestützt auf
+medizinische Abklärungen, insbesondere auf das rheumatologisch-funktionelle
+Gutachten von Dr. med. und Dr. sc. nat. ETH C.______, Innere
+Medizin FMH spez. Rheumaerkrankungen, zertifizierte medizinische Gutachterin
+SIM, vom 14. Januar 2015 stellte die IV-Stelle A.______ mit Vorbescheid
+vom 13. Oktober 2015 die Abweisung des Leistungsbegehrens in Aussicht mit der
+Begründung, dass ihm eine angepasste Tätigkeit unter Berücksichtigung eines erhöhten
+Pausenbedarfs noch zu 88 % zumutbar sei. Dagegen erhob A.______ am
+12. November 2015 bzw. am 7. Januar 2016 Einwände. Mit Verfügung
+vom 22. Februar 2016 wies die IV-Stelle das Leistungsbegehren im Sinne
+des Vorbescheids ab.
+2.
+2.1
+In der Folge gelangte A.______ mit Beschwerde vom
+6. April 2016 ans Verwaltungsgericht und beantragte, es sei die Verfügung vom
+22. Februar 2016 dahingehend abzuändern, dass ihm eine Invalidenrente
+zustehe. Eventualiter sei die Verfügung vom 22. Februar 2016 aufzuheben
+und die Sache zur ergänzenden Abklärung an die IV-Stelle zurückzuweisen;
+alles unter Kosten- und Entschädigungsfolgen zu Lasten der IV-Stelle.
+Die IV-Stelle schloss am
+20. April 2016 auf Abweisung der Beschwerde.
+2.2
+Am 3. Juni 2016 reichte A.______ eine Replik ein,
+in der er die Ausführungen der IV-Stelle vollumfänglich bestritt. In ihrer
+Duplik vom 13. Juni 2016 hielt die IV-Stelle vollumfänglich an ihren bisherigen
+Ausführungen fest. Am 4. August 2016 reichte A.______ einen neuen
+Arztbericht ein, zu welchem die IV-Stelle am 5. August 2016 Stellung
+nahm.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 69 Abs. 1 lit. a des Bundesgesetzes über die Invalidenversicherung
+vom 19. Juni 1959 (IVG) zur Behandlung der vorliegenden Beschwerde zuständig.
+Da auch die übrigen Prozessvoraussetzungen erfüllt sind, ist auf die
+Beschwerde einzutreten.
+2.
+2.1
+Gemäss Art. 8 Abs. 1 des Bundesgesetzes über den
+Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober 2000 (ATSG) ist
+Invalidität die voraussichtlich bleibende oder längere Zeit dauernde ganze
+oder teilweise Erwerbsunfähigkeit. Erwerbsunfähigkeit ist dabei der durch
+eine Beeinträchtigung der körperlichen, geistigen oder psychischen Gesundheit
+verursachte und nach zumutbarer Behandlung sowie Eingliederung verbleibende
+ganze oder teilweise Verlust der Erwerbsmöglichkeiten auf dem in Betracht
+kommenden ausgeglichenen Arbeitsmarkt.
+2.2
+Nach
+Art. 28 Abs. 2 IVG besteht
+bei einem Invaliditätsgrad von mindestens 40 % Anspruch auf eine
+Viertelsrente, bei einem solchen von mindestens 50 % auf eine halbe
+Rente, bei mindestens 60 % auf eine Dreiviertelsrente und ab mindestens
+70 % auf eine ganze Rente.
+2.3
+Art und Mass dessen, was einer versicherten Person
+an Erwerbstätigkeit noch zugemutet werden kann, richtet sich nach ihren
+besonderen persönlichen Verhältnissen einerseits und nach den allgemein
+herrschenden Anschauungen andererseits. Für die Beurteilung der Zumutbarkeit
+ist letztlich insofern eine objektive Betrachtungsweise massgebend, als es
+nicht auf eine bloss subjektiv ablehnende Bewertung der infrage stehenden
+Erwerbstätigkeit durch die versicherte Person ankommt (Ulrich Meyer/Marco
+Reichmuth, Rechtsprechung des Bundesgerichts zum Sozialversicherungsrecht,
+Bundesgesetz über die Invalidenversicherung, 3. A., Zürich/Basel/Genf
+2014, S. 320).
+3.
+3.1
+Art. 43 Abs. 1 ATSG
+statuiert die Sachverhaltsabklärung von Amtes wegen, wobei es grundsätzlich
+im Ermessen des Versicherungsträgers liegt, darüber zu befinden, mit welchen
+Mitteln diese zu erfolgen hat. Im Rahmen der Verfahrensleitung kommt ihm ein
+grosser Ermessensspielraum bezüglich Notwendigkeit, Umfang und Zweckmässigkeit
+von medizinischen Erhebungen zu (BGer-Urteil 8C_815/2012 vom 21.
+Oktober
+2013 E. 3.2.1, mit Hinweisen). Was den für die Invaliditätsbemessung
+erforderlichen medizinischen Sachverstand angeht, kann die IV-Stelle sich
+hierfür auf den Regionalen Ärztlichen Dienst (RAD; Art. 59 Abs. 2
+und 2
+bis
+IVG), die Berichte der behandelnden Ärztinnen und Ärzte
+(Art. 28 Abs. 3 ATSG) oder auf externe medizinische Sachverständige
+wie die medizinischen Abklärungsstellen (MEDAS) stützen (Art. 59
+Abs. 3 IVG; vgl. dazu BGE 137 V 210 E. 1.2.1).
+3.2
+Nach dem für das gesamte
+Verwaltungs- und Verwaltungsgerichtsbeschwerdeverfahren geltenden Grundsatz
+der freien Beweiswürdigung haben Versicherungsträger und
+Sozialversicherungsgerichte die Beweise frei, d.h. ohne Bindung an förmliche
+Beweisregeln, sowie umfassend und pflichtgemäss zu würdigen. Für das
+Beschwerdeverfahren bedeutet dies, dass das Gericht alle Beweismittel unabhängig
+davon, von wem sie stammen, objektiv zu prüfen und danach zu entscheiden hat,
+ob die verfügbaren Unterlagen eine zuverlässige Beurteilung des streitigen
+Rechtsanspruchs gestatten. Insbesondere darf es bei einander widersprechenden
+medizinischen Berichten den Prozess nicht erledigen, ohne das gesamte Beweismaterial
+zu würdigen und die Gründe anzugeben, warum es auf die eine und nicht auf die
+andere medizinische These abstellt (BGE 125 V 351 E.3a).
+Die Verwaltung als verfügende
+Instanz und – im Beschwerdefall – der Richter dürfen eine Tatsache nur dann
+als bewiesen annehmen, wenn sie von ihrem Bestehen überzeugt sind. Im
+Sozialversicherungsrecht hat der Richter dabei seinen Entscheid – sofern das
+Gesetz nicht etwas Abweichendes vorsieht – nach dem Beweisgrad der überwiegenden
+Wahrscheinlichkeit zu fällen. Die blosse Möglichkeit eines bestimmten Sachverhalts
+genügt den Beweisanforderungen nicht. Der Richter hat vielmehr jener Sachverhaltsdarstellung
+zu folgen, die er von allen möglichen Geschehensabläufen als die
+wahrscheinlichste würdigt (BGE 119 V 7 E. 3c/aa, mit Hinweisen).
+3.3
+Es ist Aufgabe des Arztes,
+sämtliche Auswirkungen einer Krankheit oder eines Unfalls auf den
+Gesundheitszustand der versicherten Person zu beurteilen und dazu Stellung zu
+nehmen, bezüglich welcher konkreten Tätigkeiten und in welchem Umfang sie
+arbeitsunfähig ist. Die ärztlichen Auskünfte sind sodann eine wichtige Grundlage
+für die Beurteilung der Frage, welche Arbeitsleistungen der versicherten
+Person im Hinblick auf ihre persönlichen Verhältnisse noch zugemutet werden
+können (vgl. BGE 132 V 93 E. 4, mit Hinweisen).
+3.4
+Hinsichtlich
+des Beweiswertes eines ärztlichen Gutachtens ist entscheidend, ob es für die
+Beantwortung der gestellten Fragen umfassend ist, auf allseitigen Untersuchungen
+beruht, die geklagten Beschwerden berücksichtigt und sich mit diesen sowie
+dem Verhalten der untersuchten Person auseinandersetzt, was vor allem bei
+psychischen Fehlentwicklungen nötig ist, in Kenntnis der und gegebenenfalls
+in Auseinanderset­zung mit den Vorakten (Anamnese) abgegeben worden ist, ob
+es in der Darlegung der medizinischen Zustände und Zusammenhänge einleuchtet,
+ob die Schlussfolgerungen des medizinischen Experten in einer Weise begründet
+sind, dass die rechtsanwendende Person sie prüfend nachvollziehen kann, sowie
+ob der Experte nicht auszuräumende Unsicherheiten und Unklarheiten, welche
+ihm die Beantwortung der Fragen erschweren, gegebenenfalls deutlich macht.
+Ausschlaggebend für den Beweiswert ist grundsätzlich somit weder die Herkunft
+eines Beweismittels noch die Bezeichnung der eingereichten oder in Auftrag
+gegebenen Stellungnahme als Bericht oder Gutachten,
+sondern dessen Inhalt
+(vgl. BGE 125 V 351 E. 3a)
+.
+3.5
+Dennoch hat es die Rechtsprechung mit dem
+Grundsatz der freien Beweiswürdigung als vereinbar erachtet, in Bezug auf
+bestimmte Formen medizinischer Berichte und Gutachten Richtlinien für die
+Beweiswürdigung aufzustellen. Den im Rahmen des Verwaltungsverfahrens
+eingeholten Gutachten von externen Spezialärzten, welche aufgrund eingehender
+Beobachtungen und Untersuchungen sowie nach Einsicht in die Akten Bericht
+erstatten und bei der Erörterung der Befunde zu schlüssigen Ergebnissen
+gelangen, ist bei der Beweiswürdigung volle Beweiskraft zuzuerkennen, solange
+nicht konkrete Indizien gegen die Zuverlässigkeit der Expertise sprechen
+(BGE 137 V 210 E. 1.3.4).
+3.6
+Die Funktion interner RAD-Berichte besteht
+darin, aus medizinischer Sicht – gewissermassen als Hilfestellung für die
+medizinischen Laien in Verwaltung und Gerichten, welche in der Folge über den
+Leistungsanspruch zu entscheiden haben – den medizinischen Sachverhalt
+zusammenzufassen und zu würdigen, wozu namentlich auch gehört, bei
+widersprüchlichen medizinischen Akten eine Wertung vorzunehmen und zu beurteilen,
+ob auf die eine oder die andere Ansicht abzustellen oder aber eine
+zusätzliche Untersuchung vorzunehmen sei (BGer-Urteil 9C_589/2010 vom
+8. September 2010 E. 2, 8C_756/2008 vom 4. Juni 2009
+E. 4.4).
+3.7
+Was Parteigutachten
+anbelangt, rechtfertigt der Umstand allein, dass eine ärztliche Stellungnahme
+von einer Partei eingeholt und in das Verfahren eingebracht wird, nicht
+Zweifel an ihrem Beweiswert (BGE 125 V 351 E. 3b/dd). Auch ein Parteigutachten
+enthält somit Äusserungen eines Sachverständigen, welche zur Feststellung
+eines medizinischen Sachverhalts beweismässig beitragen können. Daraus folgt
+indessen nicht, dass ein solches Gutachten den gleichen Rang wie ein vom
+Gericht oder von der Invalidenversicherung nach dem vorgegebenen Verfahrensrecht
+eingeholtes Gutachten besitzt. Es verpflichtet indessen – wie jede substantiiert
+vorgetragene Einwendung gegen ein solches Gutachten – das Gericht, den von
+der Rechtsprechung aufgestellten Richtlinien für die Beweiswürdigung folgend,
+zu prüfen, ob es in rechtserheblichen Fragen die Auffassungen und Schlussfolgerungen
+des vom Gericht oder von der Invalidenversicherung förmlich bestellten
+Gutachters derart zu erschüttern vermag, dass davon abzuweichen ist (vgl.
+BGer-Urteil 8C_1024/2010 vom 3. März 2011 E. 3.3, mit Hinweis).
+3.8
+Da sich alle behandelnden Ärztinnen und Ärzte
+(auch Spezialärzte) in erster Linie auf die Behandlung zu konzentrieren
+haben, verfolgen deren Berichte nicht den Zweck einer den abschliessenden
+Entscheid über die Versicherungsansprüche erlaubenden objektiven Beurteilung
+des Gesundheitszustandes und erfüllen deshalb kaum je die materiellen
+Anforderungen an ein Gutachten gemäss BGE 125 V 351
+E. 3a. Aus diesen Gründen wird im Streitfall eine direkte
+Leistungszusprache einzig gestützt auf die Angaben der behandelnden Ärztinnen
+und Ärzte denn auch kaum in Frage kommen. Diese Berichte sind daraufhin zu
+prüfen, ob sie auch nur geringe Zweifel an der Zuverlässigkeit und
+Schlüssigkeit der Feststellungen versicherungsinterner Ärztinnen und Ärzte
+wecken. Im Verfahren um die Zusprechung oder Verweigerung von Sozialversicherungsleistungen
+besteht sodann kein förmlicher Anspruch auf versicherungsexterne
+Begutachtung. Soll ein Versicherungsfall ohne Einholung eines externen
+Gutachtens entschieden werden, sind jedoch an die Beweiswürdigung strenge
+Anforderungen zu stellen. Bestehen indessen auch nur geringe Zweifel an der
+Zuverlässigkeit und Schlüssigkeit der versicherungsinternen ärztlichen
+Feststellungen, sind ergänzende Abklärungen vorzunehmen
+(BGE 135 V 465 E. 4).
+4.
+4.1
+Der Beschwerdeführer macht geltend, das durch die
+Beschwerdegegnerin eingeholte bidisziplinäre rheumatologisch-funktionelle
+Gutachen vom 14. Januar 2015 entspreche den Anforderungen gemäss
+aktueller Rechtsprechung des Bundesgerichts nicht. Die Schlussfolgerungen
+seien weder schlüssig noch begründet, insbesondere sei nicht nachvollziehbar,
+weshalb trotz der beklagten starken Beschwerden eine Restarbeitsfähigkeit von
+100 % attestiert werde. Gestützt auf die gesamten medizinischen Vorakten sei
+vielmehr davon auszugehen, dass er auch in einer leidensangepassten Tätigkeit
+erheblich eingeschränkt sei. Die seit den beiden Operationen bestehende
+neurologische Problematik sei im Gutachten unberücksichtigt geblieben, obwohl
+sie gerade das Hauptproblem darstelle. Zusammenfassend sei höchstens von
+einer ca. 30%igen Arbeitsfähigkeit in einer leidensangepassten Tätigkeit
+auszugehen, womit ein Anspruch auf eine ganze Invalidenrente bestehe. Ferner
+hätte eine Berechnung des Invaliditätsgrads unter Gewährung des höchstzulässigen
+Abzugs vom Tabellenlohn von 25 % gewährt werden müssen. Die angefochtene
+Verfügung sei in diesem Sinne abzuändern. Eventuell sei die angefochtene
+Verfügung aufzuheben und an die Vorinstanz zu ergänzenden Abklärungen zurückzuweisen
+oder es sei durch das Gericht eine interdisziplinäre Begutachtung anzuordnen,
+welche das Fachgebiet Neurologie mitenthalten solle. Allenfalls müsse auch
+die invalidisierende Wirkung einer somatoformen Schmerzstörung bzw. psychosomatischer
+Leiden abgeklärt werden. Schliesslich sei die angefochtene Verfügung
+dahingehend abzuändern, dass ihm das Recht auf berufliche Eingliederungsmassnahmen
+(Arbeitsvermittlung, Beratung und Umschulung) zustehe.
+4.2
+Die Beschwerdegegnerin führt aus, sie habe die ihr
+obliegenden Abklärungspflichten vollumfänglich sowie sorgfalts- und
+pflichtgemäss wahrgenommen, insbesondere habe sie verschiedene medizinische
+Berichte eingeholt und eine medizinische Begutachtung durchführen lassen. Das
+rheumatologisch-funktionelle Gutachten von Dr. C.______ entspreche den
+Anforderungen gemäss aktueller Rechtsprechung, insbesondere lasse es einen
+eindeutigen und zweifelsfreien Schluss auf die gesundheitliche Situation des
+Beschwerdeführers zu. Aus diesem Grund seien die Abklärungen nicht
+weiterzuführen, zumal auch kein Anspruch der versicherten Person auf eine
+sogenannte "second opinion" bestehe. Somit habe sie den Sachverhalt
+umfassend abgeklärt und sei mit dem Beweisgrad der überwiegenden Wahrscheinlichkeit
+zum Schluss gekommen, dass der Beschwerdeführer in angepasster Tätigkeit zu
+100 % arbeitsfähig sei, wobei hier aufgrund des erhöhten Pausenbedarfs von
+einer Zumutbarkeit von 88 % auszugehen sei. Aus diesem Grund stünden ihm
+weder eine Invalidenrente noch berufliche Massnahmen zu.
+5.
+5.1
+Dr. D.______, Oberarzt
+Neurochirurgie/Wirbelsäulenchirurgie der Klinik E.______, stellte in seinem
+Operationsbericht vom 3. Dezember 2012 folgende Diagnose: Bisegmentale
+Spinalkanal- und Rezessusstenose L3/4 und L4/5. Aufgrund dieser Diagnose habe
+er beim Beschwerdeführer am 30. November 2012 eine interspinöse Dekompression
+mit Rezessotomie L3/4 und L4/5 vorgenommen.
+5.2
+In seinem postoperativen Konsultationsbericht vom
+4. Februar 2013 berichtete Dr. D.______, dass der Beschwerdeführer
+nach wie vor über Schmerzen berichte, die vom Knie über die Schienbeinkante
+bis in die Grosszehe ziehen würden. Zusätzlich bestehe in diesem Bereich auch
+eine Hyposensibilität. Die zwischenzeitlich durchgeführte
+kernspintomographische Untersuchung zeige im Wesentlichen ein gut
+dekomprimiertes Segment L3/4 und L4/5. Der Rezessus L4/5 könne nicht klar
+beurteilt werden. Ob hier tatsächlich eine Nervenwurzelkompression L5 vorliege,
+würde er noch bestätigen lassen. Es bestehe weiterhin eine 100%ige Arbeitsunfähigkeit,
+mindestens bis März 2013. Er werde einen hausinternen Neurologen bitten, den
+Beschwerdeführer zu einer elektrophysiologischen Abklärung einzuladen.
+5.3
+In einem weiteren Konsultationsbericht vom
+27. Juni 2013 war Dr. D.______ – nach der Vornahme von
+neurologischen Abklärungen – der Meinung, dass aufgrund der persistierenden
+Radikulopathie L5 und elektrophysiologisch nachgewiesener akuter Denervierung
+in der Kennmuskulatur L5 ein weiterer operativer Eingriff durchzuführen sei.
+5.4
+In der Folge wurde der operative Eingriff, eine
+Dekompression L5 links und Instrumentation mit TLIF L4/5, durchgeführt. Im
+Austrittsbericht vom 1. Oktober 2013 wurde festgehalten, dass sich der
+postoperative Verlauf unauffällig gestaltet habe. Es zeige sich jedoch
+weiterhin die präoperative Symptomatik (Taubheit in der Fussinnenseite
+links). Kurzzeitig habe der Beschwerdeführer ein wiederholtes Einschlafen des
+rechten Beins angegeben. Dies habe sich während des stationären Aufenthalts
+jedoch gebessert. Die neurologische postoperative Kontrolle zeige eine
+regelrechte Kraft der Fussheber, eine verminderte Kraft dagegen beider Grosszehenheber.
+5.5
+Anlässlich der Nachkontrolle führte
+Dr. D.______ am 26. November 2013 aus, dass der Beschwerdeführer
+angegeben habe, weiterhin unter lumbalen Rückenschmerzen zu leiden, zudem
+verspüre er zeitweise eine Ausstrahlung erneut in beide Beine, v.a. in der
+Nacht. Unter Belastung bessere sich die Beschwerdesymptomatik. Aufgrund der
+anhaltenden Beschwerden greife er noch immer regelmässig dreimal täglich auf
+Dafalgan zurück. Eine wesentliche Besserung spüre er nicht. Dr. D.______
+attestierte weiterhin eine 100%ige Arbeitsunfähigkeit bis zum nächsten Kontrolltermin
+in ca. zwei Monaten. Der Beschwerdeführer werde seiner Tätigkeit,
+die ihn einer hohen körperlichen Belastung aussetzte, nicht mehr in vollem
+Umfang nachgehen können. Allerdings sei es zum jetzigen Zeitpunkt noch nicht
+möglich, eine prozentuale Einschränkung anzugeben.
+5.6
+Nach der Begutachtung der durchgeführten
+CT-Untersuchungen hielt Dr. D.______ in seinem Bericht vom 12. März
+2014 fest, dass ihm immer noch nicht ganz klar sei, wodurch die Problematik
+des Beschwerdeführers verursacht werde. Unter Umständen sei die Schraube L4
+linksseitig etwas zu medial gelegen und könne hier zum Teil zum
+Ausstrahlungsmuster der Beschwerden passen. Er sei der Meinung, dass erneut
+eine kernspintomographische Untersuchung durchgeführt sowie infiltrative Massnahmen
+versucht werden sollten. Weiterhin bestehe aufgrund der ausgeprägten
+funktionellen Einschränkungen eine 100%ige Arbeitsunfähigkeit. Ob und
+inwieweit der Beschwerdeführer wieder zu 100 % arbeitsfähig sein werde, sei
+fraglich. Es sei eher davon auszugehen, dass an eine Wiedereingliederung zu
+einem bestimmten Prozentsatz (50 %) gedacht werden müsse.
+5.7
+Gemäss Konsultationsbericht von Dr. D.______
+vom 14. Mai 2014 leide der Beschwerdeführer mittlerweile auch wieder
+unter Schmerzen im rechten Bein und im Rücken. Die Schmerzen seien
+belastungsabhängig und würden v.a. beim Laufen auftreten. Die linksseitig
+angegebenen Beschwerden seien unverändert vorhanden. Die MRI-Untersuchung
+zeige keine umschriebene Stenose der Foraminae oder des Spinalkanals. Der
+definitive Befund des Radiologen sei jedoch abzuwarten. Im Segment L5/S1 sei
+weiterhin ein stenotischer Prozess vorhanden, wo es ebenfalls beidseits zu
+einer Konfliktsituation mit der Nervenwurzel S1 komme. Dies könne sicherlich
+– wenn auch nicht ganz typisch – die Symptomatik des Beschwerdeführers
+erklären.
+5.8
+Dr. med. F.______, Facharzt für Neurologie, Klinik
+für plastische Chirurgie und Handchirurgie des Spitals G.______, führte am
+17. Juni 2014 beim Beschwerdeführer eine neurologische und elektrodiagnostische
+Untersuchung durch. In seinem Bericht vom 18. Juni 2014 führte er aus,
+elektrodiagnostisch zeigten sich leichte bis mässige, chronische neurogene
+Veränderungen in den beiden untersuchten L5-Kennmuskeln, ebenso in beiden
+untersuchten Gastrocnemii. Zusammen mit dem beidseits nicht auslösbaren
+H-Reflex sei dies gut mit einer S1-Radikulopathie vereinbar.
+5.9
+Nach durchgeführten Wurzelinfiltrationsbehandlungen
+fasste Dr. D.______ in seinem Bericht vom 24. Juni 2014 zusammen,
+dass es zu keinerlei Beschwerdelinderung gekommen sei; weder die
+klinisch/neurologische noch die radiologische oder infiltrative Diagnostik
+hätten die Ursache für die vom Patienten beschriebenen Beschwerden darlegen
+können. Er sei der Meinung, dass mit weiteren operativen Massnahmen derzeit
+keine Besserung erzielt werden könne. Einzig eine symptomatische Behandlung
+sei zielführend, weshalb der Beschwerdeführer an einen Schmerzspezialisten
+verwiesen werden sollte. Sicherlich sei eine erneute Beurteilung durch die
+Beschwerdegegnerin zwingend notwendig. Gegebenenfalls müsse dafür eine
+interdisziplinäre Abklärung erfolgen.
+5.10
+Das Schmerzambulatorium des Instituts für
+Anästhesiologie des Spitals G.______ stellte in seinem Bericht vom
+17. September 2014 die Schmerzdiagnose Failed-back-surgery-Syndrom seit
+den zwei Operationen des Beschwerdeführers. Seine Symptome beurteilte es als
+gemischt neuropathisch/nozizeptiv. Einerseits gebe es eine spondylogene
+Komponente im Bereich der lumbalen Wirbelsäule, andererseits bestünden Zeichen
+und Symptome einer radikulären Komponente an beiden unteren Extremitäten. Die
+durchgeführten Medikamententests hätten keine Modulierbarkeit der Beschwerden
+ergeben, ebenso wenig wie der Versuch einer Therapie mit topischem Capsaizin.
+Die bisherigen Schmerztherapien wurden folgendermassen zusammengefasst: Der
+Sakralblock vom Juni 2012 und derjenige vom Mai 2014 seien negativ gewesen,
+die ENMG-Untersuchung habe eine S1 Radikulopathie links gezeigt, Durogesic
+und Targin hätten tiefen Blutdruck verursacht bei fehlender Wirkung auf die
+Schmerzen. Zum allgemeinen Status erklärte es, der Zehenspitzen- und
+Fersengang sei unauffällig und der Lasèguetest beidseits negativ ausgefallen.
+Es würden Sensibilitätseinschränkungen im medialen Unterschenkel mit
+brush-Allodynie und Pinprickhyperalgesie im Bereich des medialen Fussrückens
+bestehen und sowohl der Patellarsehnenreflex als auch der Achillessehnenreflex
+seien beidseits nicht auslösbar. Der Beschwerdeführer berichte, aufgrund der
+Schmerzen sehr schlecht zu schlafen, nur insgesamt vier Stunden täglich. Aufgrund
+der Situation schlug das Schmerzambulatorium vor, es solle eine neuromodulatorische
+Therapieoption (SCS) in Erwägung gezogen werden. Inzwischen werde ein
+Therapieversuch mit dem dual-wirksamen Medikament Tapentadol begonnen.
+5.11
+In der Folge gab die Beschwerdegegnerin ein
+rheumatologisch-funktionelles Gutachten bei Dr. C.______ in Auftrag,
+welches am 14.
+Januar 2015 erstattet wurde.
+Dr. C.______ stellte folgende rheumatologische
+Diagnosen mit Auswirkungen auf die Arbeitsfähigkeit: Verminderte
+Belastbarkeit und Beschwerden der Lendenwirbelsäule – links mehr als rechts –
+bei angeborenem engem lumbosakralen Spinalkanal und hochgradiger
+Spinalkanalstenose L3 bis L5 mit zwei lumbalen Operationen (die interspinöse
+Dekompression mit Recessotomie L3 und L4/L5 vom 31. November 2012 und
+die Dekompression L5 links) und Spondylodese L4/L5 mit leichten bis mässigen
+chronisch neurogenen Veränderungen der L5-Kennmuskeln links, vereinbar mit
+einer atypischen S1-Radokulpathie links, sowie leicht kaudaler Lage der
+Pedikelschraube L4 rechts ohne Kompression neuraler Strukturen und ohne
+ossäre Einengung des Spinalkanals oder der Foramina und ohne Lockerungszeichen
+des Osteosythesematerials.
+In ihrer rheumatologischen
+Beurteilung hielt sie fest, dass der Beschwerdeführer über starke lumbale
+Schmerzen mit Ausstrahlung in beide Beine bis zu den Füssen, links mehr als
+rechts, klage. Weiter gebe er an, das An- und Ausziehen der Socken und Schuhe
+bereite ihm Mühe, weil dies zu vermehrten Schmerzen führe. Die beiden lumbalen
+Operationen hätten ihm nicht geholfen, sondern seine Beschwerden eher verschlimmert.
+Aufgrund seiner Beschwerden könne er momentan nicht arbeiten. Es sei nun
+möglicherweise die Implantation eines lumbalen Neurostimulators geplant.
+Dr. C.______ stellte fest, dass in der klinischen Untersuchung die Beweglichkeit
+der Lendenwirbelsäule in alle Richtungen eingeschränkt sei. Der
+Achillessehnenreflex sei beidseits nicht auslösbar. Alle grossen peripheren
+Gelenke seien normal beweglich. Gelenksergüsse, Synovitiden oder überwärmte
+Gelenke seien nicht vorhanden. Die Bioimpedanz-Analyse zeige eine erfreulich
+grosse Muskelmasse von 55 %, welche den Normwert von 40 % weit
+übertreffe, weshalb eine lang andauernde körperliche Schonung daraus nicht
+abgeleitet werden könne. Dafür spreche auch seine maximale Handkraft von
+100 % rechts und von 109 % links. Die postoperative CT-Untersuchung
+der Lendenwirbelsäule habe keine Lockerungszeichen des Osteosynthesematerials
+gezeigt. Die leicht kaudal liegende Pedikelschraube L4 rechts führe nicht zur
+Kompression neuraler Strukturen. Der Rheumafaktor und die
+Anti-Citrullin-Antikörper seien normal. Der Beschwerdeführer gebe an, er habe
+seit mehreren Wochen keine Schmerzmittel mehr gebraucht, denn diese würden
+ihm nicht helfen.
+Bei der Evaluation seiner
+funktionellen Leistungsfähigkeit (EFL) vom 9.
+Januar 2015
+habe er ein gutes Leistungsverhalten und gute
+Testkonsistenz gezeigt. Es habe sich keine Symptomausweitung ergeben. An
+beiden Untersuchungstagen hätten jedoch ausgeprägte lumbale Beschwerden mit
+einem leicht erhöhten Ruhepuls, der unter Belastung angestiegen sei,
+bestanden. Dennoch habe der Beschwerdeführer Lasten bis zu 15 kg
+hantieren können, was einem mittleren Belastungsniveau entspreche. Zusammenfassend
+hätten sich beim Beschwerdeführer strukturelle Veränderungen im Bereich der
+Lendenwirbelsäule aufgrund einer angeborenen lumbosakralen Spinalkanalstenose
+entwickelt. Die vorhandenen Befunde würden das Ausmass seiner Beschwerden
+nicht erklären.
+Hinsichtlich der
+Arbeitsfähigkeit des Beschwerdeführers in der angestammten Tätigkeit führte
+Dr. C.______ aus, dass der letzte effektive Arbeitstag am 7. August
+2012 in seiner Anstellung als Gärtner/Vorarbeiter in seinem Familienbetrieb
+H.______GmbH in […] gewesen sei. Die angestammte Tätigkeit könne er nicht
+mehr ausüben. Eine adaptierte Tätigkeit sei ihm jedoch zu einem Pensum von
+100 % möglich. Dabei benötige er pro Halbtag eine halbe Stunde
+zusätzliche Pausenzeit, um
+Lockerungsübungen machen
+zu können. Durch die eingeschränkte Funktion der
+Lendenwirbelsäule sei er limitiert. Gemäss Empfehlungen der Swiss Ensurance
+Medicine (SIM) habe eine eingeschränkte Funktion der Lendenwirbelsäule
+folgende Auswirkungen: Die Fähigkeit, Lasten ohne Hilfsmittel zu heben oder
+zu tragen, hänge von Art und Ausmass der Rückenfunktionseinschränkungen ab.
+Das längere Verharren in vornüber geneigter Haltung – ob stehend oder sitzend
+– sei zu vermeiden. Ebenso seien unerwartete, asymmetrische Lasteinwirkungen
+auszuschliessen. Günstig seien wechselbelastende Tätigkeiten. Tätigkeiten, welche
+diesem Profil entsprechen, könne er zu 100 % ausüben. Zudem könne er Lasten
+bis zu 10 kg hantieren.
+Als therapeutische
+Vorschläge nennt Dr. C.______ unter anderem eine medikamentöse
+Schmerztherapie. Diesbezüglich bestehe noch Optimierungspotenzial. Vor der
+Implantierung eines lumbalen Neurostimulator sei diese unbedingt konsequent
+durchzuführen. Ausserdem sei eine regelmässige physiotherapeutische Behandlung
+angezeigt.
+5.12
+RAD-Arzt Dr. med. I.______, FMH Rheumatologie und
+FMH Physikalische Medizin und Rehabilitation, Vertrauensarzt SGV,
+zertifizierter medizinischer Gutachter SIM, nahm am 20. Januar 2015 zum
+Gutachten von Dr. C.______ Stellung. Dieses erfülle die Qualitätskriterien,
+sei umfassend, in Kenntnis der Beschwerden der Versicherten (recte: des
+Versicherten) und unter Berücksichtigung der bestehenden Akten verfasst
+worden. Die beurteilten Befunde seien nachvollziehbar dargestellt und die
+daraus gezogenen Schlussfolgerungen sowie die sozialmedizinische Beurteilung
+plausibel. Insgesamt könne dem Gutachten gefolgt werden.
+5.13
+Dr. med. J.______, Innere Medizin FMH, führte beim
+Beschwerdeführer eine Neuraltherapie (u.a. Narbeninfiltration, L5 und S1
+Wurzelinfiltration, lumbaler Grenzstrang Infiltration) durch. In ihrer
+Berichterstattung vom 14. Dezember 2015 an den Hausarzt des
+Beschwerdeführers erklärte sie, dass beim Beschwerdeführer ein
+therapieresistentes, ausgeprägtes neuropathisches Schmerzsyndrom L5 beidseits
+mit peripherem, sowie zentralem Remodeling und Sensibilisierung bestehe. Er
+klage einerseits über Parästhesien/Dysästhesien sowie ausgeprägt brennende
+Schmerzen im Dermatom L5 (S1) beider Füsse/Unterschenkel, welche durch Druck,
+Berührung und Bewegung massiv verstärkt würden. Es seien diverse therapeutische
+Ansätze gewählt worden, welche allesamt ohne Erfolg geblieben seien, so auch
+die von ihr selbst durchgeführte Neuraltherapie. Es brauche keine weitere
+Diagnostik, sondern eine gutachterliche Beurteilung der Arbeitsfähigkeit
+(z.B. durch Neurologie des Spitals G.______).
+5.14
+Der Hausarzt des Beschwerdeführers, Dr. med.
+K.______, Arzt für allgemeine Medizin FMH, beurteilte die aktuelle
+Arbeitsfähigkeit des Beschwerdeführers in einer leidensangepassten Tätigkeit
+am 21. Dezember 2015 als zu 20-25 % umsetzbar. Er verweise an
+dieser Stelle auf den Widerspruch zwischen den Ausführungen zu Zumutbarkeit/Eingliederungsmassnahmen
+auf S. 3 der EFL, wonach aufgrund der ausgeprägten Beschwerdesituation
+keine Beurteilung der Zumutbarkeit für allfällige berufliche Tätigkeiten
+vorgenommen werden könne, und der Beurteilung auf S. 43 im Gutachten von
+Dr. C.______, wonach der Beschwerdeführer bei der EFL ein gutes Leistungsverhalten
+und eine gute Konsistenz gezeigt habe. Dr. K.______ kam zum Schluss,
+dass sich das ausgeprägte neuropathische Problem an den Füssen des
+Beschwerdeführers wahrscheinlich weder medikamentös noch psychotherapeutisch
+noch auf andere Weise beeinflussen lasse und verwies auf den Vorschlag von
+Dr. J.______, eine gutachterliche Beurteilung der Arbeitsfähigkeit zu
+veranlassen.
+5.15
+Dr. med. L.______, seit April 2016 neuer
+Hausarzt des Beschwerdeführers, diagnostizierte am 17. März 2016
+ebenfalls ein schweres, bisher therapieresistentes neuropathisches Schmerzsyndrom
+L5 beidseits linksbetont im Sinne eines Failed-back-surgery-Syndroms. In der
+Frage nach der aktuellen Arbeitsfähigkeit in einer leidensangepassten
+Tätigkeit vertrat er die Auffassung, dass beim Beschwerdeführer nicht die
+Beschwerden betreffend die Lendenwirbelsäulen und die diesbezüglich
+bestehende eingeschränkte Leistungsfähigkeit im Vordergrund stünden, sondern
+vielmehr die Schmerzen an den Unterschenkeln und Füssen. Die entsprechenden
+Nervendegenerationen seien neurologisch-neurographisch objektiv nachvollziehbar.
+Der Beschwerdeführer beschreibe, dass sogar das Tragen von Socken zu starken
+Schmerzen führe, was die Frage aufwerfe, welche Tätigkeit denn vernünftigerweise
+barfuss ausgeführt werden könnten. Hier sehe er lediglich Heimarbeit als realistisch
+an. Seiner Ansicht nach sei die Arbeitsfähigkeit des Beschwerdeführers in
+leidensadaptierter Tätigkeit, inklusive Berücksichtigung der neuropathischen
+Schmerzen, bei 30-40 % anzusiedeln, wobei er Heimarbeit als zumutbar erachte,
+da die Möglichkeit bestehen müsse, barfuss tätig zu sein und häufig die
+Fussposition zu wechseln.
+5.16
+Der Beschwerdeführer übergab seine medizinischen
+Unterlagen zur Beurteilung an Dr. med. M.______, leitender Arzt
+Neurologie, Spital N.______. Dieser kam am 13. Mai 2016 zum Schluss,
+dass ein neurologisch-rheumatologisch-psychiatrisches Gutachten notwendig
+sei, um abschliessend über die Arbeitsfähigkeit sowohl in der angestammten
+als auch in adaptierter Tätigkeit entscheiden zu können.
+5.17
+Gemäss Dr. med. O.______, Leitender Arzt
+der Klinik für Innere Medizin, Spital P.______, sprächen die
+elektrophysiologischen Befunde der Untersuchung vom 13. Juli 2016 für
+eine chronisch-neurogene Schädigung der Nervenwurzeln L5 beidseits. Elektromyographisch
+fänden sich in den L5-Kennmuskeln beidseits chronisch-neurogene Veränderungen
+mit einem Ausfall von motorischen Einheiten. Die
+F-Wellenlatenz-Untersuchungen des Nervus peronaeus beidseits würden auf eine
+proximale Nervenüberleitungsstörung hinweisen. Auch die sensorisch evozierten
+Potentiale des Nervus tibialis beidseits seien verzögert und somit gut
+vereinbar mit einer Überleitungsstörung des Neuronen-Pool L5-L1. Die
+Behandlung des Beschwerdeführers habe sich als sehr schwierig erwiesen. Im
+Stadium des chronischen Schmerzes mit Schmerzzentralisation zeigten Opiate in
+der Regel keine Wirkung mehr und könnten sogar kontraproduktiv sein. Am
+ehesten sei eine schmerzmodulierende Medikation zu versuchen.
+6.
+6.1
+Beim Beschwerdeführer werden grundsätzlich in
+sämtlichen medizinischen Berichten – einschliesslich des Gutachtens von
+Dr. C.______ – ein angeborener enger Spinalkanal lumbosakral und
+ein neuropathisches Schmerzsyndrom L5 beidseits im Sinne eines
+Failed-back-surgery-Syndroms bzw. leichte bis mässige chronisch neurogene Veränderungen
+der L5-Kennmuskeln links, vereinbar mit einer atypischen S1-Radikulopathie
+links, diagnostiziert.
+Es ist zudem unbestritten, dass der
+Beschwerdeführer hinsichtlich seiner angestammten Tätigkeit zu 100 % arbeitsunfähig
+ist. Strittig und zu prüfen sind hingegen der Grad der Arbeitsunfähigkeit in
+adaptierter Tätigkeit sowie das Belastungsprofil.
+Die Auswirkung der gestellten Diagnosen auf die
+Arbeitsfähigkeit wird im Gutachten von Dr. C.______ vom 14. Januar 2015
+beurteilt. Die Beschwerdegegnerin stützte sich im Wesentlichen auf dieses
+Gutachten und ist der Ansicht, dass ihm vollumfänglich gefolgt werden könne.
+Es stellt sich die Frage, ob das Gutachten vorliegend eine rechtsgenügliche
+Beurteilung zulässt.
+6.2
+Dr. C.______ geht davon aus, dass dem
+Beschwerdeführer eine angepasste Tätigkeit zu 100 % möglich sei. Die
+vorhandenen Befunde könnten – ihrer Ansicht nach – das Ausmass der
+Beschwerden nicht erklären. Sie deutet damit an, dass die von Beschwerdeführer
+beklagten Beschwerden nicht tatsächlich in dem von ihm geltend gemachten
+Ausmass vorhanden seien. Dies ist jedoch nicht nachvollziehbar, denn gleichzeitig
+erklärte sie, an beiden Untersuchungstagen im Rahmen der EFL hätten ausgeprägte
+lumbale Beschwerden bestanden, wobei keine Symptomausweitung vorgelegen
+hätte. Die beklagten Beschwerden werden denn auch von keinem der behandelnden
+Ärzte in Frage gestellt. Dr. L.______ erachtet beispielsweise die zu den
+Beschwerden führenden Nervendegenerationen neurologisch-neurographisch als
+objektiv nachvollziehbar.
+Hinsichtlich der
+Beurteilung der Arbeitsfähigkeit bestehen im Gutachten vom 14. Januar
+2015 nicht nur Widersprüche in sich, sondern auch zu anderen medizinischen
+Berichten. So wird im Bericht zur EFL statuiert, dass eine Beurteilung der
+Zumutbarkeit für die angestammte und jede andere berufliche Tätigkeit
+aufgrund der ausgeprägten Beschwerdesituation eben gerade nicht möglich sei.
+Dr. D.______ ist der Ansicht, dass es fraglich sei, ob und inwieweit der
+Beschwerdeführer wieder zu 100 % arbeitsfähig sein werde. Es sei eher
+davon auszugehen, dass an eine Wiedereingliederung zu einem bestimmten
+Prozentsatz (50 %) gedacht werden müsse. Dr. K.______ beurteilte
+die aktuelle Arbeitsfähigkeit des Beschwerdeführers in einer leidensangepassten
+Tätigkeit als zu 20-25 % umsetzbar. Gemäss Dr. L.______ sei die
+Arbeitsfähigkeit in leidensadaptierter Tätigkeit inklusive Berücksichtigung
+der neuropathischen Schmerzen bei 30-40 % anzusiedeln, wobei er
+Heimarbeit als zumutbar erachte, da die Möglichkeit bestehen müsse, barfuss
+tätig zu sein und häufig die Fussposition zu wechseln. Dr. M.______ und
+Dr. J.______ empfahlen sodann ausdrücklich die Veranlassung einer
+weiteren, dieses Mal neurologischen bzw.
+neurologisch-rheumatologisch-psychiatrischen, Beurteilung der Arbeitsfähigkeit.
+Die Einschätzungen von
+Dr. K.______ und Dr. L.______ lagen Dr. C.______ im Begutachtungszeitpunkt
+noch nicht vor.
+Weshalb die anderen Berichte keine Zweifel an ihrer
+Beurteilung zu wecken vermochten, legte Dr. C.______ aber nicht dar. Insbesondere
+setzte sie sich mit den abweichenden Meinungen nicht auseinander. Ihr
+Gutachten erschöpft sich im Wesentlichen in einer Zusammenfassung der vorhandenen
+medizinischen Akten. Ihren Schluss, dass der Beschwerdeführer in einer
+angepassten Tätigkeit zu 100 % arbeitsfähig sei, begründet sie kaum.
+Sodann ist nicht
+ersichtlich, wie Dr. C.______ zur Auffassung gelangt, dass dem Beschwerdeführer
+Lockerungsübungen von einer halben Stunde pro Halbtag helfen würden. In
+keinem Bericht eines behandelnden Arztes ist die Rede davon, dass Lockerungsübungen
+einen positiven Effekt auf die Symptomatik des Beschwerdeführers gezeigt
+hätten. Der Beschwerdeführer scheint vielmehr an chronischen neuropathischen
+Beschwerden zu leiden, welche insbesondere durch Berührung verstärkt
+auftreten und weitgehend therapieresistent sind.
+Das Gutachten nimmt auch nicht Stellung dazu, was eine
+angepasste Tätigkeit wäre.
+Dr. C.______
+begnügt sich mit einem generellen Hinweis auf die gemäss den Empfehlungen der
+Swiss Insurance Medicine (SIM) bestehenden Auswirkungen bei einer eingeschränkten
+Funktion der Lendenwirbelsäule
+(vgl. vorne
+E. II/5.11). Tätigkeiten, welche diesem Profil entsprächen, könnten vom
+Beschwerdeführer zu 100 % ausgeübt werden. Dabei scheint sie zu
+übersehen, dass der Beschwerdeführer nicht nur über Schmerzen im
+Lendenwirbelsäulenbereich klagt, sondern insbesondere auch an einem
+neuropathischen Schmerzsyndrom L5 beidseits leidet, welches sich in Brennen,
+Taubheitsgefühl, Enge und Überempfindlichkeit in den Unterschenkeln und
+Füssen äussert. Zu den durch die Neuropathie bedingten funktionellen
+Einschränkungen des Beschwerdeführers wird nicht ausreichend Stellung
+genommen. Genauso fehlt die Erstellung eines individuellen Belastungsprofils,
+welches auf seine Beschwerden zugeschnittenen ist, sowie eine
+Gesamtbetrachtung
+der Wechselwirkungen der einzelnen Leiden mit Berücksichtigung der
+persönlichen Ressourcen. Insofern erstaunt es, dass RAD-Arzt
+Dr. I.______ und die Beschwerdegegnerin – ebenfalls ohne
+Auseinandersetzung mit den abweichenden medizinischen Meinungen – das
+Gutachten als schlüssig und verwertbar erachten.
+Berücksichtigt man die
+übrigen medizinischen Berichte, kann somit nicht ohne Zweifel davon
+ausgegangen werden, der Beschwerdeführer sei mit überwiegender Wahrscheinlichkeit
+in einer angepassten Tätigkeit zu 100 % arbeitsfähig.
+6.3
+Zusammengefasst erweist sich das Gutachten vom
+14. Januar 2015 als nicht genügend aussagekräftig bezüglich des
+Belastungsprofils und der Frage, wie die Arbeitsfähigkeit des Beschwerdeführers
+prozentual zu veranschlagen ist.
+Für eine
+zuverlässige Beurteilung erweist sich ein weiteres Gutachten als notwendig,
+welches die Einschränkungen des Beschwerdeführers nicht nur aus
+rheumatologisch-funktioneller Sicht, sondern zusätzlich auch neurologisch,
+psychiatrisch und allgemeinmedizinisch beurteilt. Da die Beschwerdegegnerin
+bisher keine polydisziplinäre Gesamtbeurteilung in Auftrag gab, erweist sich
+die Rückweisung der Sache an die Beschwerdegegnerin auch unter
+Berücksichtigung der aktuellen Rechtsprechung des Bundesgerichts
+(BGE 137 V 210 E. 4.4.1.4) als zulässig, zumal der Beschwerdeführer
+selbst die Rückweisung der Sache an die Beschwerdegegnerin sowie eine
+Neubegutachtung beantragt. Die Beschwerdegegnerin ist dazu gehalten, umgehend
+die notwendige polydisziplinäre Begutachtung des Beschwerdeführers bei einer
+MEDAS einzuleiten.
+Demgemäss ist die
+Beschwerde teilweise gutzuheissen. Die Verfügung der Beschwerdegegnerin vom
+22. Februar 2016 ist aufzuheben. Die Sache ist im Sinne der Erwägungen
+an die Beschwerdegegnerin zurückzuweisen.
+III.
+1.
+Eine
+Rückweisung zu erneutem Entscheid mit offenem Ausgang in der Hauptsache gilt
+für die Verteilung der Kosten und Entschädigungen als Obsiegen. Die pauschale
+Gerichtsgebühr von Fr. 600.- ist ausgangsgemäss der Beschwerdegegnerin
+aufzuerlegen (Art. 69 Abs. 1
+bis
+IVG i.V.m. Art. 134 Abs. 1
+lit. c des Gesetzes über die Verwaltungsrechtspflege vom 4. Mai
+1986 [VRG]). Dem Beschwerdeführer ist der bereits geleistete Kostenvorschuss
+in der Höhe von Fr. 600.- zurückzuerstatten.
+2.
+Der
+obsiegende und berufsmässig vertretene Beschwerdeführer hat gemäss
+Art. 1 Abs. 1 IVG i.V.m. 61 lit. g ATSG Anspruch auf
+eine angemessene Parteientschädigung zu Lasten der Beschwerdegegnerin. Diese
+ist ohne Rücksicht auf den Streitwert nach der Bedeutung der Streitsache und
+der Schwierigkeit des Prozesses zu bemessen und vorliegend auf
+Fr. 2'500.- (inkl. Mehrwertsteuer) festzulegen.
+3.
+Gegen
+den vorliegenden Zwischenentscheid steht die Beschwerde in öffentlich-rechtlichen
+Angelegenheiten an das Bundesgericht nur unter den Voraussetzungen von
+Art. 93 Abs. 1 des Bundesgerichtsgesetzes vom 17. Juni 2005
+(BGG) offen.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird teilweise gutgeheissen. Die Verfügung der Beschwerdegegnerin
+vom 22. Februar 2016 wird aufgehoben und die Sache im Sinne der Erwägungen
+an die Beschwerdegegnerin zurückgewiesen.
+2.
+Die
+Gerichtsgebühr von pauschal Fr. 600.- wird der Beschwerdegegnerin auferlegt.
+Dem Beschwerdeführer wird der von ihm geleistete Kostenvorschuss in der
+Höhe von Fr. 600.- zurückerstattet.
+3.
+Die
+Beschwerdegegnerin wird verpflichtet, dem Beschwerdeführer innert 30 Tagen
+nach Rechtskraft dieses Entscheids eine Parteientschädigung in der Höhe von
+Fr. 2'500.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
