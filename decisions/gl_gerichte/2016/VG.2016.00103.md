@@ -1,0 +1,236 @@
+---
+decision_id: "gl_gerichte_VG.2016.00103"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2016.00103"
+docket_2: "VG.2016.468"
+decided: "2016-12-22"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=739&W10_KEY=218274&nTrefferzeile=8&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/700/art-025a.md", "switzerland/bund/acts/700/art-026.md", "switzerland/bund/acts/700/art-033.md"]
+---
+
+# GL Gerichte VG.2016.00103
+
+## Regeste
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+## Text
+
+Glarus Verwaltungsgericht 22.12.2016 VG.2016.00103 (VG.2016.468)
+Glaris Verwaltungsgericht 22.12.2016 VG.2016.00103 (VG.2016.468)
+Glarona Verwaltungsgericht 22.12.2016 VG.2016.00103 (VG.2016.468)
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+22. Dezember 2016
+I. Kammer
+in Sachen
+VG.2016.00103
+A.______AG
+Beschwerdeführerin
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+1.
+Gemeinde Glarus Nord
+Beschwerdegegner
+vertreten durch
+Rechtsanwalt
+C.______
+2.
+Departement Bau und Umwelt des Kantons Glarus
+und
+D.______AG
+Beigeladene
+vertreten durch
+Rechtsanwalt
+E.______
+betreffend
+Überbauungsplan
+[…]
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Der Überbauungsplan […], lag vom 20. Juni 2013 bis
+am 22. Juli 2013 öffentlich auf. Am 22. Juli 2013 erhob die A.______AG
+Einsprache gegen den Überbauungsplan. Nach Behandlung durch das Gemeindeparlament
+wurde der Überbauungsplan der Gemeindeversammlung vorgelegt, welche ihn am
+20. Juni 2014 bis zum Inkrafttreten der Richt- und Nutzungsplanung
+zurückwies. Eine dagegen beim Verwaltungsgericht erhobene Beschwerde hiess
+dieses am 5. Februar 2015 (Verfahren VG.2014.00111) teilweise gut, hob den
+Entscheid der Gemeindeversammlung auf und wies die Sache an den Gemeinderat
+Glarus Nord zurück.
+1.2
+Der Gemeinderat Glarus Nord wies am 15. April 2015
+die Einsprache der A.______AG ab, soweit er darauf eintrat. Dabei wies er
+darauf hin, dass der Einspracheentscheid nicht anfechtbar sei.
+Anfechtungsobjekt bilde erst der Entscheid der Gemeindeversammlung, welcher
+mit entsprechender Rechtsmittelbelehrung publiziert werde.
+1.3
+In der Folge erliess die Gemeindeversammlung Glarus
+Nord am 19. Juni 2015 den Überbauungsplan mit verschiedenen Anpassungen,
+was der Gemeinderat Glarus Nord der A.______AG am 21. September 2015
+mitteilte. Letztere erhob am 22. Oktober 2015 beim Departement Bau und
+Umwelt (DBU) Beschwerde gegen den Entscheid der Gemeindeversammlung und
+beantragte dessen Aufhebung. Ihre Einsprache sei gutzuheissen und der
+aufgelegte Überbauungsplan vollumfänglich abzulehnen, eventuell zur
+Verbesserung zurückzuweisen.
+Das DBU hiess die Beschwerde am 18. Juli 2016 in
+einem Nebenpunkt gut, wies sie im Übrigen jedoch ab.
+2.
+2.1
+Dagegen erhob die A.______AG am
+14. September 2016 Beschwerde beim Verwaltungsgericht und beantragte die
+Aufhebung des Entscheids des DBU. Es sei sodann der Beschluss der Gemeindeversammlung
+inkl. des Einspracheentscheids des Gemeinderats Glarus Nord aufzuheben. Die
+Einsprache vom 22. Juli 2013 sei gutzuheissen und der aufgelegte
+Überbauungsplan abzulehnen, eventuell zur Verbesserung zurückzuweisen.
+Eventualiter sei die Sache zur Neubeurteilung an das DBU bzw. die Gemeinde
+Glarus Nord zurückzuweisen. Subeventualiter sei Disp.-Ziff. 1 Abs. 1 und
+2 des Entscheids des DBU zu bestätigen und die Gemeinde Glarus Nord
+anzuweisen, im dem DBU noch einzureichenden Dossier für die Genehmigung des
+Überbauungsplans für den Baubereich A1 eine maximale Vollgeschosszahl von
+vier sowie eine maximale Höhenkote von 453.6 m.ü.M. festzuhalten; alles unter
+Kosten- und Entschädigungsfolgen zu Lasten der Gemeinde Glarus Nord vor allen
+Instanzen.
+2.2
+Das Verwaltungsgericht lud am 15. September 2016 die D.______AG ins
+Verfahren bei. Das DBU beantragte am 13. Oktober 2016 die Abweisung der
+Beschwerde; unter Kostenfolgen. Die Gemeinde Glarus Nord und die D.______AG beantragten
+am 17. Oktober 2016 die Abweisung der Beschwerde; unter Kosten- und
+Entschädigungsfolgen zu Lasten der
+A.______AG
+.
+II.
+1.
+Das Verwaltungsgericht ist gemäss Art. 79
+Abs. 1 des Raumentwicklungs- und Baugesetzes vom 2. Mai 2010 (RBG)
+i.V.m. Art. 105 Abs. 1 lit.  b des Gesetzes über die
+Verwaltungsrechtspflege vom 4. Mai 1986 (VRG) zur Behandlung der Beschwerde
+zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt sind, ist auf
+die Beschwerde einzutreten.
+2.
+2.1
+Überbauungspläne bedürfen als Sondernutzungspläne der Genehmigung durch
+den Beschwerdegegner 2 (Art. 28 RBG, vgl. auch Art. 26 des
+Bundesgesetzes über die Raumplanung vom 22. Juni 1979 [RPG]).
+2.2
+Die Genehmigung eines Nutzungsplans hat nach Art. 26 Abs. 3 RPG
+konstitutive Bedeutung, weshalb die Anordnungen des Nutzungsplans erst
+angewendet werden dürfen, wenn der Genehmigungsbeschluss rechtskräftig
+geworden ist. Die Koordinationsgrundsätze gemäss Art. 25a RPG erfordern
+eine Abstimmung des Rechtsmittelentscheids auf den Genehmigungsentscheid im
+Rahmen des kantonalen Rechtsmittelverfahrens. Der Genehmigungsentscheid im
+Sinne von Art. 26 RPG bzw. Art. 28 RBG wurde vom Gesetzgeber nicht
+als reine Formalität, sondern als Mittel der Aufsicht und Koordination für
+die kantonale Genehmigungsbehörde konzipiert. So kann die kantonale Behörde
+darin unter Umständen für die Grundeigentümer verbindliche Bedingungen und
+Auflagen vorsehen. Bundesrechtlich vorgeschrieben ist eine zweifache
+Überprüfung von kommunalen Nutzungsplänen. Einerseits unterliegen diese der
+Genehmigung durch die kantonale Behörde (Art. 26 RPG). Anderseits müssen
+sie mit einem Rechtsmittel angefochten werden können (Art. 33 RPG).
+Genehmigung und Anfechtung haben unterschiedliche Funktionen: Die Genehmigung
+muss von Amtes wegen eingeholt werden. Sie ist eine gesamtheitliche Beurteilung
+der Planung auf ihre Übereinstimmung mit übergeordnetem Recht sowie mit der
+Richtplanung. Der Genehmigungsentscheid stellt jedoch nur eine vorläufige Kontrolle
+dar, an welche die Rechtsmittelbehörde nicht gebunden ist. Ein Anfechtungsverfahren
+findet hingegen nur statt, wenn jemand ein Rechtsmittel ergreift. Es ist
+häufig punktuell: Die Beschwerdeführer können sich auf die Anfechtung
+bestimmter, für sie wesentlicher Punkte beschränken. Der Verfahrensgegenstand
+im Rechtsmittelverfahren wird durch die Anträge der Beschwerdeführer bestimmt
+und ist möglicherweise eingeschränkt. Der Rechtsmittelentscheid beschränkt
+sich dann ebenfalls auf die angefochtenen Punkte. Sind die Genehmigungsvoraussetzungen
+hingegen nicht oder nur teilweise erfüllt, wird der Nutzungsplan mangels
+Genehmigung nicht oder in bestimmten Fällen nur teilweise rechtsverbindlich.
+Auf welche Weise die Koordination zwischen dem Genehmigungs- und dem
+Rechtsmittelentscheid erfolgt, bleibt grundsätzlich den Kantonen überlassen.
+Der Genehmigungsentscheid muss jedoch spätestens im Rahmen des Verfahrens vor
+der letzten kantonalen Rechtsmittelinstanz eingeholt und in die Beurteilung
+miteinbezogen werden. Es ist Aufgabe der Kantone, in Ausführung von
+Art. 25a RPG die erforderliche Koordination sicherzustellen (zum Ganzen:
+BGE 135 II 22 E. 1.2).
+2.3
+Eine Koordination im soeben dargelegten Sinne
+ist dann erforderlich, wenn Rechtsmittel- und Genehmigungsbehörde
+auseinanderfallen. Ist hingegen die kantonale Genehmigungsbehörde zugleich
+Beschwerdeinstanz, ist sie dazu verpflichtet, Genehmigungs- und allenfalls
+angehobene Rechtsmittelverfahren koordiniert zu behandeln und mit dem
+Entscheid über das Rechtsmittel gleichzeitig auch über die Genehmigung des
+Plans zu entscheiden (David Dussy, in Alain Griffel et al. [Hrsg.],
+Fachhandbuch Öffentliches Baurecht, Zürich/Basel/Genf 2016, Rz. 7.78;
+Christian Häuptli, in Andreas Baumann et al., Kommentar zum Baugesetz des
+Kantons Aargau, Bern 2013, § 27 N. 7 f.; Alexander Ruch, in Heinz
+Aemisegger et al. [Hrsg.], Praxiskommentar RPG: Nutzungsplanung,
+Zürich/Basel/Genf 2016, Art. 26 N. 22).
+2.4
+Im Kanton Glarus ist der Beschwerdegegner 2 für
+die Genehmigung der Sondernutzungspläne zuständig (Art. 28 RBG).
+Gleichzeitig entscheidet er über Rechtsmittel gegen die Sondernutzungspläne
+(vgl. VGer-Urteil VG.2014.00111 vom 5. Februar 2015 E. 1.3.3).
+Damit besteht keine koordinationsrechtliche Problematik. Der
+Beschwerdegegner 2 ist indessen verpflichtet, gleichzeitig mit dem
+Rechtsmittelentscheid gegen den Sondernutzungsplan über dessen Genehmigung zu
+entscheiden.
+2.5
+Vorliegend erging der Rechtsmittelentscheid vor der
+Genehmigung des Sondernutzungsplans. Der Beschwerdegegner 2 konnte daher
+den noch zu treffenden Genehmigungsentscheid im Beschwerdeverfahren nicht
+berücksichtigen. Da er aber nach dem Dargelegten verpflichtet gewesen wäre,
+gleichzeitig mit dem Rechtsmittelentscheid auch über die Genehmigung des
+Sondernutzungsplans zu entscheiden, erweist sich der Beschwerdeentscheid als
+rechtswidrig.
+Demgemäss ist die
+Beschwerde teilweise gutzuheissen und der Entscheid des Beschwerdegegners 2
+vom 18. Juli 2016 aufzuheben. Die Sache ist im Sinne der Erwägungen an
+den Beschwerdegegner 2 zurückzuweisen, damit dieser darüber gleichzeitig
+mit dem Genehmigungsentscheid befinde.
+III.
+1.
+Eine Rückweisung zu
+erneutem Entscheid mit offenem Ausgang gilt für die Verteilung der Kosten und
+Entschädigungen als Obsiegen (BGer-Urteil 1C_621/2014 vom 31. März 2015
+E. 3.3). Da die vorliegende Rückweisung durch einen Verfahrensfehler des
+Beschwerdegegners 2 bedingt ist, rechtfertigt es sich nicht, der Beschwerdegegnerin 1
+oder der Beigeladenen Gerichtskosten aufzuerlegen. Diese sind vielmehr in
+Anwendung von Art. 135 Abs. 1 VRG, welcher die Kostenauflage an
+kantonale Behörden in der Regel nicht erlaubt, auf die Staatskasse zu nehmen.
+Der Beschwerdeführerin ist der von ihr geleistete Kostenvorschuss in der Höhe
+von Fr. 3'000.- zurückzuerstatten. Der Beschwerdegegner 2 ist aus
+denselben Gründen zu verpflichten, der Beschwerdeführerin eine angemessene
+Parteientschädigung von Fr. 3'000.- (inkl. Mehrwertsteuer) zu bezahlen
+(Art. 138 Abs. 3 lit. a VRG).
+2.
+Gegen den vorliegenden Zwischenentscheid steht die
+Beschwerde in öffentlich-rechtlichen Angelegenheiten ans Bundesgericht nur
+nach Massgabe von Art. 93 Abs. 1 des
+Bundesgerichtsgesetzes
+vom 17. Juni 2005 (BGG) offen.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird teilweise gutgeheissen. Der Entscheid des Beschwerdegegners 2
+vom 18. Juli 2016 wird aufgehoben. Die Sache wird im Sinne der Erwägungen
+an den Beschwerdegegner 2 zurückgewiesen, damit dieser darüber
+gleichzeitig mit dem Genehmigungsentscheid befindet.
+2.
+Die
+Gerichtskosten werden auf die Staatskasse genommen. Der Beschwerdeführerin
+wird der von ihr geleistete Kostenvorschuss in der Höhe von
+Fr. 3'000.- zurückerstattet.
+3.
+Der
+Beschwerdegegner 2 wird verpflichtet, der Beschwerdeführerin innert
+30 Tagen nach Rechtskraft dieses Entscheids eine Parteientschädigung
+in der Höhe von Fr. 3'000.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
