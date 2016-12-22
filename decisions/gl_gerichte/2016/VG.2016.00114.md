@@ -1,0 +1,435 @@
+---
+decision_id: "gl_gerichte_VG.2016.00114"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2016.00114"
+docket_2: "VG.2017.477"
+decided: "2016-12-22"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=748&W10_KEY=218274&nTrefferzeile=5&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.20/art-001.md", "switzerland/bund/acts/831.20/art-028.md", "switzerland/bund/acts/831.20/art-069.md"]
+---
+
+# GL Gerichte VG.2016.00114
+
+## Regeste
+
+Sozialversicherung - IV
+
+## Text
+
+Glarus Verwaltungsgericht 22.12.2016 VG.2016.00114 (VG.2017.477)
+Glaris Verwaltungsgericht 22.12.2016 VG.2016.00114 (VG.2017.477)
+Glarona Verwaltungsgericht 22.12.2016 VG.2016.00114 (VG.2017.477)
+
+Sozialversicherung - IV
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+22. Dezember 2016
+I. Kammer
+in Sachen
+VG.2016.00114
+A.______
+Beschwerdeführer
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+IV-Stelle Glarus
+Beschwerdegegnerin
+betreffend
+Invalidenrente
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+A.______, geboren am […], meldete sich am
+11. Januar 2012 erstmals bei der IV-Stelle Glarus zum Bezug von
+Leistungen der Invalidenversicherung an. Mit Vorbescheid vom 12. Februar
+2013 stellte ihm die IV-Stelle die Abweisung des Leistungsbegehren in
+Aussicht, woran sie in ihrer Verfügung vom 25. Juli 2013 festhielt.
+1.2
+A.______ meldete sich am 28. Juli 2014 erneut
+zum Leistungsbezug bei der IV-Stelle an. Im Wesentlichen gestützt auf ein
+polydisziplinäres Gutachten der C.______ag vom 6. April 2016 errechnete
+die IV-Stelle einen Invaliditätsgrad von 50 % und sprach A.______ mit
+Vorbescheid vom 3. Mai 2016 ab dem 1. Juni 2015 eine halbe Invalidenrente
+zu. Dagegen erhob A.______ am 30. Juni 2016 verschiedene Einwände. Die
+IV-Stelle hielt in ihrer Verfügung vom 6. Oktober 2016 an der halben
+Invalidenrente fest, setzte den Invaliditätsgrad nach Vornahme eines Tabellenlohnabzugs
+von 10 % neu aber auf 55 % fest.
+2.
+In der Folge gelangte
+A.______ mit Beschwerde vom 20. Oktober 2016 ans Verwaltungsgericht und
+beantragte die Aufhebung der Verfügung vom 6. Oktober 2016. Ihm sei eine
+ganze Invalidenrente mit Wirkung ab dem 1. Juni 2015 zuzusprechen. Eventualiter
+sei die Verfügung aufzuheben und die Sache an die IV-Stelle zurückzuweisen;
+alles unter Kosten- und Entschädigungsfolgen zu Lasten der IV-Stelle und
+unter Gewähren der unentgeltlichen Prozessführung und Rechtsverbeiständung.
+Die IV-Stelle schloss am
+14. November 2016 auf Abweisung der Beschwerde.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 69 Abs. 1 lit. a des Bundesgesetzes über die Invalidenversicherung
+vom 19. Juni 1959 (IVG) zur Behandlung der vorliegenden Beschwerde
+zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt sind, ist auf
+die Beschwerde einzutreten.
+2.
+2.1
+Gemäss Art. 8 Abs. 1 des Bundesgesetzes
+über den Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober 2000
+(ATSG) ist Invalidität die voraussichtlich bleibende oder längere Zeit
+dauernde ganze oder teilweise Erwerbsunfähigkeit. Erwerbsunfähigkeit ist
+dabei der durch eine Beeinträchtigung der körperlichen, geistigen oder
+psychischen Gesundheit verursachte und nach zumutbarer Behandlung sowie Eingliederung
+verbleibende ganze oder teilweise Verlust der Erwerbsmöglichkeiten auf dem in
+Betracht kommenden ausgeglichenen Arbeitsmarkt.
+2.2
+Nach
+Art. 28 Abs. 2 IVG besteht
+bei einem Invaliditätsgrad von mindestens 40 % Anspruch auf eine
+Viertelsrente, bei einem solchen von mindestens 50 % auf eine halbe
+Rente, bei mindestens 60 % auf eine Dreiviertelsrente und ab mindestens
+70 % auf eine ganze Rente.
+2.3
+Art und Mass dessen, was einer versicherten Person
+an Erwerbstätigkeit noch zugemutet werden kann, richtet sich nach ihren
+besonderen persönlichen Verhältnissen einerseits und nach den allgemein
+herrschenden Anschauungen andererseits. Für die Beurteilung der Zumutbarkeit
+ist letztlich insofern eine objektive Betrachtungsweise massgebend, als es nicht
+auf eine bloss subjektiv ablehnende Bewertung der infrage stehenden
+Erwerbstätigkeit durch die versicherte Person ankommt (Ulrich Meyer/Marco
+Reichmuth, Rechtsprechung des Bundesgerichts zum Sozialversicherungsrecht,
+Bundesgesetz über die Invalidenversicherung, 3. A., Zürich/Basel/Genf
+2014, S. 320).
+3.
+3.1
+Der Beschwerdeführer macht geltend, die bei ihm in
+Bezug auf Verweistätigkeiten im Umfang von 50 % bestehende
+Arbeitsfähigkeit sei durch die Beschwerdegegnerin unter Berücksichtigung
+eines leidensbedingten Abzugs von 10 % monetär bewertet worden. Der
+Tabellenlohn habe zwar herangezogen werden dürfen, er hätte aber hinsichtlich
+der eingeschränkten Leistungsfähigkeit sowohl in zeitlicher Hinsicht als auch
+in Bezug auf die noch möglichen Verweistätigkeiten gekürzt werden müssen. Es
+sei mit dem Gebot der rechtsgleichen Behandlung nicht zu vereinbaren, wenn
+der Medianlohn ungekürzt herangezogen werde. Einer eingeschränkten
+Verwertbarkeit der noch vorhandenen Resterwerbsfähigkeit werde zwar auch mit
+dem leidensbedingten Abzug Rechnung getragen, doch berücksichtige dieser
+nicht die unterschiedliche funktionelle Leistungsfähigkeit, sondern
+individuelle Umstände, welche in der Person des Versicherten liegen würden
+und die Verwertung des noch vorhandenen Leistungspotentials auf dem konkreten
+Arbeitsmarkt – zusätzlich zum bereits gesundheitlich eingeschränkten
+Leistungsvermögen – beeinträchtigten. Eine versicherte Person, die wie er nur
+noch leichte und wechselbelastend ausgeführte Verweistätigkeiten erbringen könne,
+habe auf dem ausgeglichenen Arbeitsmarkt schlechtere Chancen, das
+Lohnpotential zu verwerten, als eine versicherte Person, die auch
+mittelschwere oder gar Schwere Verweistätigkeiten ganztägig ausführen könne.
+Zusätzlich zur Kürzung des Tabellenlohns sei ein leidensbedingter Abzug zu
+gewähren, welcher vorliegend 25 % betragen müsse. Schliesslich sei zudem
+zu überprüfen, ob nicht von einer gänzlichen Unverwertbarkeit der theoretisch
+noch vorhandenen Resterwerbsfähigkeit auszugehen sei.
+3.2
+Die Beschwerdegegnerin vertritt im Wesentlichen die
+Auffassung, sie habe den Sachverhalt rechtsgenügend abgeklärt und den
+Invaliditätsgrad rechtskonform anhand eines korrekt vorgenommenen
+Einkommensvergleichs ermittelt. Zur Frage, ob die Resterwerbsfähigkeit
+des Beschwerdeführers aufgrund seines Alters und seiner Einschränkungen
+überhaupt noch wirtschaftlich verwertbar ist, äusserte sich die Beschwerdegegnerin
+nicht explizit.
+4.
+4.1
+Die Beschwerdegegnerin stützte sich im Wesentlichen
+auf das polydisziplinäre (allgemeine innere Medizin, Orthopädie, Pneumologie
+und Psychiatrie) Gutachten der C.______ag vom 6. April 2016.
+4.1.1
+Dr. med. D.______, Fachärztin Allgemeine Innere
+Medizin, erhob den internistischen Status und konnte keine Diagnosen stellen,
+welche Auswirkungen auf die Arbeitsfähigkeit hatten.
+4.1.2
+Dr. med. E.______, Facharzt Psychiatrie und
+Psychotherapie, diagnostizierte beim Beschwerdeführer eine chronische
+Anpassungsstörung, differentialdiagnostisch eine leichte, zeitweise
+mittelgradige depressive Störung mit somatischem Syndrom, derzeit remittiert.
+Aus psychiatrischer Sicht sei die Arbeitsfähigkeit des Beschwerdeführers
+weder in der angestammten noch in Verweistätigkeiten eingeschränkt.
+4.1.3
+Im orthopädischen Teilgutachten diagnostizierte Dr.
+med. F.______, Facharzt Orthopädische Chirurgie und Traumatologie des
+Bewegungsapparates, ausgeprägte Gonarthrosen beidseits, Periarthropatia
+humeroscapularis beidseits sowie ein intermittierendes Schmerzsyndrom, welche
+Einfluss auf die Arbeitsfähigkeit des Beschwerdeführers hätten. Dieser sei
+zuletzt als Maschinenbediener in einer Kunststofffabrik tätig gewesen, wobei
+es sich gemäss seinen Angaben um eine körperlich anspruchsvolle Tätigkeit gehandelt
+habe. Angesichts der ausgeprägten degenerativen Veränderungen an den
+Kniegelenken sei ihm diese Tätigkeit nicht mehr zumutbar. In einer gut
+leidensangepassten Tätigkeit sei aus orthopädischer Sicht von einer
+Arbeitsfähigkeit von 50 % auszugehen (sechs Stunden mit der Möglichkeit
+zu vermehrten, verlängerten und betriebsunüblichen Pausen zur Erholung, verlangsamtes
+Arbeitstempo). Die adaptierte Tätigkeit spezifizierte Dr. F.______ wie folgt:
+Körperlich leicht, wechselbelastend, Möglichkeit des Wechselns zwischen Sitzen,
+Gehen und Stehen, keine Zwangspositionen der Kniegelenke und der Wirbelsäule,
+namentlich keine Inklination, kein Absolvieren längerer Gehstrecken, kein
+Überwinden von Höhendifferenzen wie Treppen, Leitern oder Gerüsten.
+4.1.4
+Dr. med. G.______, Fachärztin Pneumologie und Innere
+Medizin, erstattete schliesslich das pneumologische Gutachten. Sie
+diagnostizierte eine chronisch asthmatische Bronchitis bei Übergang in COPD
+sowie restriktive Ventilationsstörungen nach Thoraxtraumata. Die
+Atemwegsobstruktion schwanke beim Beschwerdeführer sehr stark. In einer
+adaptierten Tätigkeit (körperlich kaum belastend, ohne jegliche Exposition
+gegenüber Dämpfen, Gerüchen oder sonstigen Chemikalien) sei der
+Beschwerdeführer höchstens in einem 50%igen Pensum arbeitsfähig. Einem
+Arbeitgeber müssten dabei gehäufte Absenzen zugemutet werden.
+4.2
+Das Gutachten beantwortet die gestellten Fragen
+umfassend, beruht auf allseitigen Untersuchungen, berücksichtigt die
+geklagten Beschwerden des Beschwerdeführers und setzt sich mit diesen sowie
+dem Verhalten des Beschwerdeführers auseinander. Sodann wurden die
+medizinischen Vorakten eingehend studiert und diskutiert. Das Gutachten ist
+weitgehend schlüssig und nachvollziehbar. Weder die Beschwerdegegnerin noch
+der Beschwerdeführer machen denn auch geltend, dass das Gutachten mangelhaft
+sei bzw. dass es unzutreffend sei, dem Beschwerdeführer eine Arbeitsfähigkeit
+von 50 % in einer adaptierten Tätigkeit zu attestieren. Unklar bleibt
+das Gutachten indessen insoweit, als dem Beschwerdeführer aus pneumologischer
+Sicht nur noch sitzende Tätigkeiten zumutbar sind, während aus orthopädischer
+Sicht wechselbelastende Tätigkeiten (Wechseln zwischen Sitzen, Gehen und
+Stehen) gefordert werden. Dieser Widerspruch wird auch in der zusammenfassenden
+Beurteilung nicht aufgelöst. Wie sich aus dem Nachfolgenden ergibt (vgl.
+E. II/5.), ist dem Beschwerdeführer die Verwertung seiner Resterwerbsfähigkeit
+aber ohnehin nicht zumutbar, weshalb darauf verzichtet werden kann, Ergänzungsfragen
+zum Gutachten zu stellen.
+5.
+5.1
+Das fortgeschrittene Alter wird, obgleich an sich
+ein invaliditätsfremder Faktor, in der Rechtsprechung als Kriterium
+anerkannt, welches zusammen mit weiteren persönlichen und beruflichen
+Gegebenheiten dazu führen kann, dass die einer versicherten Person
+verbliebene Resterwerbsfähigkeit auf dem ausgeglichenen Arbeitsmarkt realistischerweise
+nicht mehr nachgefragt wird, und dass ihr deren Verwertung auch gestützt auf
+die Selbsteingliederungslast nicht mehr zumutbar ist. Fehlt es an einer
+wirtschaftlich verwertbaren Resterwerbsfähigkeit, liegt eine vollständige
+Erwerbsunfähigkeit vor, die einen Anspruch auf eine ganze Invalidenrente
+begründet. Der Einfluss des Lebensalters auf die Möglichkeit, das verbliebene
+Leistungsvermögen auf dem ausgeglichenen Arbeitsmarkt zu verwerten, lässt
+sich nicht nach einer allgemeinen Regel bemessen, sondern hängt von den
+Umständen des Einzelfalls ab. Massgebend können die Art und Beschaffenheit
+des Gesundheitsschadens und seiner Folgen, der absehbare Umstellungs- und
+Einarbeitungsaufwand und in diesem Zusammenhang auch Persönlichkeitsstruktur,
+vorhandene Begabungen und Fertigkeiten, Ausbildung, beruflicher Werdegang
+oder Anwendbarkeit von Berufserfahrung aus dem angestammten Bereich sein
+(BGE 138 V 457 E. 3.1, mit Hinweisen).
+5.2
+Verneint wurde in der Rechtsprechung etwa die
+Verwertbarkeit der Resterwerbsfähigkeit eines über 61-jährigen Versicherten,
+der über keine Berufsausbildung verfügte, bezüglich der aus medizinischer
+Sicht im Umfang von 50 % zumutbaren feinmotorischen Tätigkeiten
+keinerlei Vorkenntnisse besass, dessen Teilarbeitsfähigkeit weiteren
+krankheitsbedingten Einschränkungen unterlag und dem von den Fachleuten
+der Berufsberatung
+die für einen Berufswechsel erforderliche
+Anpassungsfähigkeit abgesprochen wurde (BGer-Urteil I 392/02 vom
+23. Oktober 2003 E. 3.2 f.). Als unverwertbar erachtet wurde auch
+die 50%ige, durch verschiedene Auflagen zusätzlich limitierte Arbeitsfähigkeit
+eines knapp 64-jährigen Versicherten mit multiplen, die Arbeitsfähigkeit
+einschränkenden Beschwerden (BGer-Urteil I 401/01 vom 4. April 2002
+E. 4c f.), ebenso eine 50%ige Arbeitsfähigkeit einer im
+Verfügungszeitpunkt 61 Jahre und einen Monat alten Versicherten, die bezüglich
+der für sie in Frage kommenden Tätigkeiten einer Umschulung bedurft hätte
+(BGer-Urteil 9C_437/2008 vom 19. März 2009 E. 4). Weiter wurde die
+Verwertbarkeit der Resterwerbsfähigkeit auch bei einem 60-jährigen
+Versicherten verneint, der in seiner über 20 Jahre dauernden Tätigkeit als
+Hotelportier meist mittelschwere bis schwere Arbeiten ausgeführt hatte, sich
+keine feinmotorischen Fähigkeiten aneignen konnte und nur noch für Kontroll-
+oder Überwachungsarbeiten in der Industrie eingesetzt hätte werden können
+(BGer-Urteil 9C_954/2012 vom 10. Mai 2013 E. 3.2.1).
+Schliesslich wurde die Verwertbarkeit der Resterwerbsfähigkeit
+auch bei einem 61 ½-jährigen, zuletzt als Vorarbeiter tätigen, gelernten
+Automechaniker verneint, welcher nur noch für leichte Verweisungstätigkeiten
+in einem reduzierten Umfang und mit zwischenzeitlicher Erholungspause hätte
+eingesetzt werden können (BGer-Urteil I 617/02 vom 10. März
+2003 E. 3.3).
+Bejaht wurde die
+Verwertbarkeit der Resterwerbsfähigkeit hingegen bei einem 60-
+jährigen
+Versicherten
+, welcher mehrheitlich als Wirker
+in der Textilindustrie tätig gewesen war. Dieser wurde zwar als nicht leicht
+vermittelbar erachtet, mit Bezug auf den hypothetischen ausgeglichenen
+Arbeitsmarkt wurden aber gleichwohl Möglichkeiten erkannt, eine Stelle zu
+finden, zumal Hilfsarbeiten auf dem hypothetischen, ausgeglichenen
+Arbeitsmarkt grundsätzlich altersunabhängig nachgefragt werden, und der Versicherte
+zwar eingeschränkt (weiterhin zumutbar waren leichte und mittelschwere Arbeiten
+im Gehen, Stehen und Sitzen in geschlossenen Räumen), aber immer noch im
+Rahmen eines Vollpensums arbeitsfähig war (BGer-Urteil I 376/05 vom
+5. August 2005 E. 4.2). Bejaht wurde auch die Verwertbarkeit der
+Restarbeitsfähigkeit eines (ebenfalls) 60-jährigen Versicherten mit einer aufgrund
+verschiedener psychischer und physischer Limitierungen (es bestanden u.a.
+rheumatologische und kardiale Probleme) um 30 % eingeschränkten
+Leistungsfähigkeit (BGer-Urteil I 304/06 vom 22. Januar 2007 E. 4.1
+f.). Ebenfalls bejaht wurde die Verwertbarkeit der Resterwerbsfähigkeit bei
+einem 63
+½-jährigen Versicherten
+der in einer leidensadaptierten Tätigkeit vollschichtig arbeitsfähig war und
+nur leichte zusätzliche Einschränkungen hatte (BGer-Urteil 9C_847/2015
+vom 30. Dezember 2015 E. 4.3) sowie bei einer 59-jährigen Versicherten,
+welcher noch leichte und zeitweilig mittelschwere, wechselbelastende Arbeiten
+ohne Gefährdung durch Nässe, Zugluft sowie extreme Temperaturschwankungen,
+allenfalls zusätzlich ohne Rauchexposition und ohne Kontakt mit Früchten und
+Gemüsen, zumutbar waren (BGer-Urteil 8C_377/2014 vom 29. Oktober 2014
+E. 6.2.2).
+5.3
+Massgebender Zeitpunkt für die Beurteilung der
+Resterwerbsfähigkeit ist das Feststehen der medizinischen Zumutbarkeit einer
+(Teil-)Erwerbsfähigkeit (BGE 138 V 457 E. 3.3). Das Gutachten der
+C.______ag wurde am 6. April 2016 erstattet. In diesem Zeitpunkt war der
+Beschwerdeführer noch nicht ganz 60 Jahre alt, was für sich allein die
+Verwertbarkeit der Resterwerbsfähigkeit nicht ausschliesst. Ihm ist gemäss
+dem orthopädischen Teilgutachten nur noch eine körperlich leichte, wechselbelastende
+Tätigkeit ohne Zwangspositionen der Kniegelenke und der Wirbelsäule zumutbar;
+dies zu 50 % bei einer Anwesenheit von sechs Stunden pro Tag mit der
+Möglichkeit zu vermehrten, verlängerten und betriebsunüblichen Pausen zur
+Erholung bei einem verlangsamten Arbeitstempo. Aus pneumologischer Sicht ist
+ihm eine sitzende, körperlich kaum belastende Tätigkeit, ohne jegliche
+Exposition gegenüber Dämpfen, Gerüchen oder sonstigen Chemikalien, in einem
+50 %-Pensum zumutbar.
+Daraus ergibt sich, dass
+dem Beschwerdeführer durchaus noch verschiedene Tätigkeiten wie Kontroll- und
+Überwachungstätigkeiten in Industrie und Gewerbe oder Hilfsarbeiten wie
+Montage-, Sortierungs-, Prüf- und Verpackungstätigkeiten in Produktions- und
+Dienstleistungsbetrieben zumutbar sind, soweit sie körperlich kaum belastend
+sind und in einer inhalativ nicht belastenden Umgebung ausgeführt werden
+können. Der berufliche Werdegang des Beschwerdeführers ist vielseitig, so
+nahm er beispielsweise Kontroll- und Montagearbeiten, Verpackungstätigkeiten,
+Transportaufgaben, Reinigungsarbeiten oder Maschinenbedienungstätigkeiten
+wahr. Die zahlreichen Stellenwechsel zeigen, dass er stets gefordert war,
+sich an neue Aufgaben und Strukturen anzupassen. Aus diesem Blickwinkel wäre
+ihm die Verwertung seiner Resterwerbsfähigkeit zumutbar.
+Indessen erscheint
+vorliegend als entscheidend, dass der Beschwerdeführer nicht nur aus
+orthopädischer, sondern auch aus pneumologischer Sicht in seiner Arbeitsfähigkeit
+eingeschränkt ist. Dabei ist es wesentlich, dass die Atemwegsobstruktion beim
+Beschwerdeführer stark schwankt. Dies hat einerseits zur Folge, dass er kaum
+konstante Leistungen erbringen würde. Andererseits führt die Pneumologin aus,
+dass einem Arbeitgeber gehäufte krankheitsbedingte Absenzen zugemutet werden
+müssten.
+Stellt man diese
+persönlichen und beruflichen Gegebenheiten den objektiven Anforderungen eines
+ausgeglichenen Arbeitsmarkts gegenüber, führt dies zum Schluss, dass der
+Beschwerdeführer mit überwiegender Wahrscheinlichkeit keinen Arbeitgeber mehr
+finden würde. Namentlich der Umstand, dass er im massgebenden Zeitpunkt nur
+noch fünf Jahre vor seiner Pensionierung stand, würde einen
+durchschnittlichen Arbeitgeber davon abhalten, die mit seiner Beschäftigung
+verbundenen Risiken wie unregelmässige Leistungen und gehäufte
+krankheitsbedingte Ausfälle einzugehen, zumal behindertengerechte
+Arbeitsplätze mit der Möglichkeit, wechselbelastend zu arbeiten, von Behinderten
+in jungem und mittlerem Alter ebenfalls stark nachgefragt werden.
+Eine Gesamtwürdigung der
+für die Zumutbarkeitsfrage im vorliegenden Fall massgebenden objektiven und
+subjektiven Umstände ergibt somit, dass die dem Beschwerdeführer verbliebene
+Einsatzfähigkeit mit Blick auf sein fortgeschrittenes Alter realistischerweise
+nicht mehr nachgefragt wird und ihm deren Verwertung auch gestützt auf die
+Selbsteingliederungspflicht nicht mehr zugemutet werden kann. Daran ändert im
+Übrigen auch nichts, dass der Beschwerdeführer bei der Begutachtung
+verschiedentlich Aggravationstendenzen zeigte, wurden diese doch bei der Festlegung
+der Arbeitsfähigkeit bzw. des Zumutbarkeitsprofils im Gutachten ausreichend
+berücksichtigt.
+Ist die
+Resterwerbsfähigkeit des Beschwerdeführers wirtschaftlich nicht mehr verwertbar,
+liegt eine vollständige Invalidität vor, weshalb er Anspruch auf eine ganze
+Invalidenrente hat. Zu Recht unbestritten ist dabei der Rentenbeginn am
+1. Juni 2015.
+Demgemäss ist die
+Beschwerde gutzuheissen. Die Verfügung der Beschwerdegegnerin vom
+6. Oktober 2016 ist dahingehend abzuändern, als dem Beschwerdeführer ab
+dem 1. Juni 2015 eine ganze Invalidenrente zuzusprechen ist.
+III.
+1.
+Nach Art. 134
+Abs. 1 lit. c des Gesetzes über die Verwaltungsrechtspflege vom
+4. Mai 1986 (VRG) i.V.m. Art. 69 Abs. 1
+bis
+IVG hat
+die Partei, welche im Beschwerdeverfahren unterliegt, die amtlichen Kosten zu
+tragen. Entsprechend dem Ausgang des Verfahrens sind die Gerichtskosten von
+pauschal Fr. 600.- der Beschwerdegegnerin aufzuerlegen. Sie ist überdies
+zu verpflichten, dem Beschwerdeführer eine Parteientschädigung von
+Fr. 1'800.- (inkl. Mehrwertsteuer) zu bezahlen (Art. 1 Abs. 1
+IVG i.V.m. Art. 61 lit. g
+ATSG)
+.
+2.
+2.1
+Gemäss
+Art. 139 Abs. 1
+VRG
+befreit
+die Behörde eine Partei, der die Mittel fehlen, um neben dem Lebensunterhalt
+für sich und ihre Familie die Verfahrenskosten aufzubringen, auf Gesuch hin
+ganz oder teilweise von der Kosten- und Vorschusspflicht, sofern das
+Verfahren nicht aussichtslos ist. Unter denselben Voraussetzungen weist sie
+der Partei auf Gesuch hin oder von Amtes wegen einen Anwalt als
+Rechtsbeistand zu, sofern ein solcher für die gehörige Interessenwahrung
+erforderlich ist (
+Art. 1 Abs. 1 IVG
+i.V.m.
+Art. 61 lit. f ATSG und Art. 139 Abs. 2
+VRG). Der Nachweis der Bedürftigkeit obliegt nach Art. 139 Abs. 3
+VRG der gesuchstellenden Partei.
+2.2
+Da die Gerichtskosten der Beschwerdegegnerin
+aufzuerlegen sind, ist das Gesuch des Beschwerdeführers um Gewährung der
+unentgeltlichen Prozessführung als gegenstandslos geworden abzuschreiben.
+2.3
+Der Beschwerdeführer
+beantragt zudem
+die Gewährung der unentgeltlichen
+Rechtsverbeiständung
+.
+Als Empfänger von
+Sozialhilfe hat er ohne Weiteres als mittellos zu gelten. Da er vorliegend
+obsiegt, sind seine Begehren nicht aussichtslos. Daneben erweist sich der
+Beizug eines Rechtsbeistands als erforderlich. Folglich ist sein Gesuch um
+Gewährung der unentgeltlichen Rechtsverbeiständung gutzuheissen und ihm in
+der Person von Rechtsanwalt B.______ ein unentgeltlicher Rechtsbeistand zu
+bestellen. Dieser ist mit Fr. 1'800.- (inkl. Mehrwertsteuer) zu
+entschädigen. Daran ist die Parteientschädigung seitens der
+Beschwerdegegnerin in gleicher Höhe anzurechnen.
+Demgemäss beschliesst die Kammer
+:
+1.
+Das
+Gesuch des Beschwerdeführers um Gewährung der unentgeltlichen Prozessführung
+wird als gegenstandslos geworden abgeschrieben.
+2.
+Das
+Gesuch des Beschwerdeführers um Gewährung der unentgeltlichen Rechtsverbeiständung
+wird gutgeheissen. Ihm wird in der Person von Rechtsanwalt B.______ ein
+unentgeltlicher Rechtsbeistand bestellt.
+3.
+Der Rechtsbeistand wird zu Lasten der
+Gerichtskasse mit Fr. 1'800.- (inkl. Mehrwertsteuer) entschädigt.
+Daran angerechnet wird die Parteientschädigung seitens der Beschwerdegegnerin
+in gleicher Höhe.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird gutgeheissen. Die Verfügung der Beschwerdegegnerin vom
+6. Oktober 2016 wird dahingehend abgeändert, als dem Beschwerdeführer
+ab dem 1. Juni 2015 eine ganze Invalidenrente zugesprochen wird.
+2.
+Die
+pauschale Gerichtsgebühr von Fr. 600.- wird der Beschwerdegegnerin
+auferlegt.
+3.
+Die
+Beschwerdegegnerin wird verpflichtet, dem Beschwerdeführer innert 30 Tagen
+nach Rechtskraft dieses Entscheids eine Parteientschädigung von
+Fr. 1'800.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
