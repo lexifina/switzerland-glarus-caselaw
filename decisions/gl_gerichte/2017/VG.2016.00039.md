@@ -1,0 +1,670 @@
+---
+decision_id: "gl_gerichte_VG.2016.00039"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2016.00039"
+docket_2: "VG.2017.480"
+decided: "2017-01-26"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=751&W10_KEY=218274&nTrefferzeile=2&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/311.0/art-292.md"]
+---
+
+# GL Gerichte VG.2016.00039
+
+## Regeste
+
+Anderes
+
+## Text
+
+Glarus Verwaltungsgericht 26.01.2017 VG.2016.00039 (VG.2017.480)
+Glaris Verwaltungsgericht 26.01.2017 VG.2016.00039 (VG.2017.480)
+Glarona Verwaltungsgericht 26.01.2017 VG.2016.00039 (VG.2017.480)
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+26. Januar 2017
+I. Kammer
+in Sachen
+VG.2016.00039
+A.______
+Beschwerdeführer
+vertreten durch Rechtsanwalt B.______ und
+Rechtsanwältin C.______
+gegen
+Gemeinde Glarus Süd
+Beschwerdegegnerin
+vertreten durch
+Rechtsanwältin
+D.______
+betreffend
+Staatshaftung
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+A.______ ist alleiniger Gesellschafter und Geschäftsführer
+der E.______GmbH. Diese ist Eigentümerin der Liegenschaften Parz.-Nrn. 01 und
+02, Grundbuch […]. Seit Jahren werden auf der Liegenschaft ohne Bewilligung
+betriebssichere und auch nicht betriebssichere Fahrzeuge abgestellt. Dies
+wurde bereits am 4. Juli 2006 durch die Abteilung Umweltschutz und Energie
+des Departements Bau und Umwelt (DBU) beanstandet. Nachdem im Herbst 2008
+fast alle Fahrzeuge, die sich im Freien befanden, abgeräumt worden waren,
+wurden ab dem Frühling 2009 wieder neue Fahrzeuge abgestellt. Dies führte
+dazu, dass die damalige Gemeinde […] A.______ am 30. August 2010
+androhte, die Fahrzeuge im Sinne einer Ersatzvornahme zu entfernen. Dazu kam
+es aber nicht, da die Fahrzeuge durch A.______ selbst entfernt wurden. In der
+Folge wurden auf der Liegenschaft jedoch wiederum zahlreiche, grösstenteils
+ausrangierte, Fahrzeuge abgestellt.
+1.2
+Der Gemeinderat Glarus Süd verpflichtete die
+E.______GmbH am 5. Juni 2014, alle nicht betriebssicheren Fahrzeuge innert
+einer Frist von einem Monat ab Erhalt der Verfügung abzuräumen sowie alle
+betriebssicheren Fahrzeuge innert einer Frist von drei Monaten ab Erhalt der
+Verfügung auf einen festen Boden mit dichtem Belag und mit einer Versickerung
+in die Meteor- oder Mischwasserkanalisation abzustellen. Diese Anordnung
+erging unter der Androhung von Strafe gemäss Art. 292 des Schweizerischen
+Strafgesetzbuchs vom 21. Dezember 1937 (StGB) und der kostenpflichtigen
+Ersatzvornahme. Mit Präsidialverfügung vom 25. August 2014 gewährte der
+Gemeinderat Glarus Süd der E.______GmbH eine letztmalige Frist bis zum
+8. September 2014, innert welcher sie alle nicht betriebssicheren
+Fahrzeuge auf den Liegenschaften Parz.-Nrn. 01 und 02, Grundbuch […],
+abzuräumen habe. Falls diese Frist nicht gewahrt werde, werde das Departement
+Werke und Umwelt der Gemeinde Glarus Süd ermächtigt, auf Kosten der
+E.______GmbH die nicht betriebssicheren Fahrzeuge am 13. September 2014
+zu entfernen und anschliessend zweckgemäss zu entsorgen. Die Anordnung erging
+wiederum unter Strafandrohung von Art. 292 StGB. Einer allfälligen
+Beschwerde gegen die Verfügung wurde die aufschiebende Wirkung entzogen. Am
+13. September 2014 liess die Gemeinde Glarus Süd die Liegenschaften der
+E.______GmbH räumen.
+2.
+Die E.______GmbH trat am
+9. September 2015 sämtliche gegen die Gemeinde Glarus Süd bestehende
+Forderungen an A.______ ab. Dieser gelangte am 10. September 2015 mit
+Staatshaftungsbegehren an die Gemeinde Glarus Süd und forderte diese auf, ihm
+den ihm aus der Ersatzvornahme vom 13. September 2014 erwachsenen
+Schaden, mindestens Fr. 455'090.-, zu ersetzen sowie eine Genugtuung von
+Fr. 30'000.- zu leisten. Der Gemeinderat Glarus Süd wies das Staatshaftungsbegehren
+am 25. Februar 2016 ab.
+3.
+3.1
+Dagegen erhob A.______ am 31. März 2016
+Beschwerde beim Verwaltungsgericht und beantragte die Aufhebung des
+Beschlusses des Gemeinderats Glarus Süd. Die Gemeinde Glarus Süd sei zu
+verpflichten, ihm den ihm aus der Ersatzvornahme vom 13. September 2014
+erwachsenen Schaden in der Höhe von Fr. 490'090.-, eventualiter in der
+Höhe von Fr. 147'000.-, zu ersetzen. Es sei ihm zudem eine Genugtuung
+von Fr. 30'000.- zuzusprechen; alles unter Kosten- und
+Entschädigungsfolgen zu Lasten der Gemeinde Glarus Süd.
+3.2
+Die Gemeinde Glarus Süd beantragte am 24. Mai
+2016 die Abweisung der Beschwerde; unter Kosten- und Entschädigungsfolgen zu
+Lasten von A.______.
+3.3
+A.______ reichte am 9. Juni 2016 unaufgefordert
+eine Stellungnahme zur Beschwerdeantwort ein. Die Gemeinde Glarus Süd nahm
+dazu am 22. Juni 2016 Stellung.
+3.4
+Am 9. November 2016 fand vor dem
+Verwaltungsgericht eine Referentenaudienz statt, anlässlich welcher die
+Parteien einen gerichtlichen Vergleich schlossen. Diesen widerrief A.______
+am 23. November 2016.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 105
+Abs. 1 lit c des Gesetzes über die Verwaltungsrechtspflege vom
+4. Mai 1986 (VRG) i.V.m. Art. 12 Abs. 1 des Gesetzes über die
+Haftung der Gemeinwesen und ihrer Amtsträger vom 5. Mai 1991 (Staatshaftungsgesetz,
+SHG) zur Behandlung der vorliegenden Beschwerde zuständig. Da auch die
+übrigen Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde einzutreten.
+1.2
+Mit der Beschwerde können gemäss Art. 107
+Abs. 2 lit. g VRG i.V.m. Art. 21 Abs. 3 SHG alle Mängel
+des Verfahrens und des strittigen Entscheids einschliesslich der Unangemessenheit
+gerügt werden.
+2.
+Das Staatshaftungsgesetz
+regelt gemäss Art. 1 Abs. 1 lit. a SHG u.a. die Haftung des
+Gemeinwesens für den Schaden, den seine Amtsträger in Ausübung ihres Amtes
+Dritten widerrechtlich zufügen. Nach Art. 6 Abs. 1 SHG haftet das
+Gemeinwesen für den Schaden, den seine Amtsträger in amtlicher Tätigkeit
+Dritten rechtswidrig zufügen, und dies ohne Rücksicht auf ein Verschulden der
+Amtsträger. Art. 6 Abs. 1 SHG stellt demnach eine Kausalhaftung
+dar. Voraussetzung für Schadenersatz bildet neben dem Schaden die
+Widerrechtlichkeit (ausser beim Sonderfall der Haftung aus rechtmässigem
+Verhalten nach Art. 7 SHG). Daneben ist nach den Grundsätzen des
+allgemeinen Haftungsrechts ein adäquater Kausalzusammenhang zwischen dem zur
+Diskussion stehenden Ereignis und dem eingetretenen Schaden erforderlich
+(Tobias Jaag, Staatshaftung nach dem Entwurf für die Revision und
+Vereinheitlichung des Haftpflichtrechts, in ZSR 122/2003 II, S. 1 ff.,
+73).
+3.
+Der Beschwerdeführer macht
+einen Schaden durch den Abtransport verschiedener Fahrzeuge und sonstiger
+Ware sowie durch die Zerstörung der Eingangstüre und eines Fensters der
+Liegenschaft geltend. Dabei ist es unerheblich, ob diese in seinem Eigentum
+oder im Eigentum der E.______GmbH standen. Letztere trat ihm am
+9. September 2015 die Forderungen gegen die Beschwerdegegnerin
+rechtsgültig ab, weshalb er das Schadenersatzbegehren in eigenem Namen
+geltend machen kann.
+4.
+4.1
+Strittig und für die Frage der Widerrechtlichkeit
+wesentlich ist, ob der E.______GmbH die Verfügungen vom 5. Juni 2014 und
+vom 25. August 2014 zugestellt wurden. Ist dies der Fall, kann die
+Rechtmässigkeit der Verfügungen im Rahmen des Staatshaftungsverfahrens nicht
+mehr überprüft werden (Art. 14 SHG). Dies hat zur Folge, dass die
+Beschwerdegegnerin befugt war, gestützt auf die Verfügungen vom 5. Juni
+2016 und vom 25. August 2016 die sich auf den Liegenschaften Parz.-Nrn.
+01 und 02, Grundbuch […], befindlichen nicht betriebssicheren Fahrzeuge zu entfernen
+und zu entsorgen. Muss hingegen davon ausgegangen werden, dass die Verfügungen
+der E.______GmbH nicht rechtmässig zugestellt wurden, erweist sich die
+Ersatzvornahme von vornherein als rechtswidrig.
+4.2
+4.2.1
+Der Beschwerdeführer macht dazu geltend, er habe von
+Beginn weg geltend gemacht, dass er die beiden Verfügungen bis zum Zeitpunkt
+der Ersatzvornahme nicht erhalten habe. Dem Erledigungsbericht der
+Kantonspolizei sei sodann zu entnehmen, dass er am Tag der Ersatzvornahme
+schlafend angetroffen und die Tür zur Liegenschaft gewaltsam geöffnet worden
+sei. Bereits daraus ergebe sich, dass er über die Ersatzvornahme nicht
+informiert gewesen sei. Die Beschwerdegegnerin hätte sich vergewissern
+müssen, dass er bzw. die E.______GmbH auch tatsächlich Kenntnis von den
+entsprechenden Verfügungen habe nehmen können. Dies habe sie vorliegend
+unterlassen. Es sei eine unentschuldbare Fehlleistung, dass sie die Verfügungen
+nicht eingeschrieben versandt habe. Die Beschwerdegegnerin könne nicht einmal
+beweisen, ob die Verfügungen an die E.______GmbH oder an den Beschwerdeführer
+persönlich adressiert gewesen seien. Ebenso wenig habe sie bewiesen, dass es
+sich bei den versendeten Dokumenten um die Verfügungen handle. Eine Bezeichnung
+der Sendungen fehle auf den Zustellnachweisen. Durch Versendung der
+Verfügungen mit A-Post Plus habe sie den Beweis, dass er die Verfügungen erhalten
+habe, nicht erbracht. Dabei gelte es zu beachten, dass er lediglich Zweifel
+am Hauptbeweis erwecken, nicht aber seinerseits einen Fehler bei der Post
+nachweisen oder auch nur glaubhaft machen müsse. Eine fehlerhafte Zustellung
+sei bereits dann anzunehmen, wenn der Adressat einer A-Post Plus Sendung die
+tatsächliche Zustellung bestreite und dies aufgrund der Umstände plausibel
+erscheine. Die Beschwerdegegnerin habe den anderen F.______ befragt, würdige
+dessen Aussagen aber unzutreffend. Dieser habe gesagt, dass er im Sommer 2015
+ein Schreiben für den Beschwerdeführer erhalten habe. Aufgrund dieser Aussage
+sei bewiesen, dass die Beschwerdegegnerin an den Beschwerdeführer adressierte
+Verfügungen falsch zugestellt habe. Als Beweis für die nicht erfolgte
+Zustellung gelte aber insbesondere das Urteil des Bezirksgerichts Hinwil vom
+17. September 2015, in welchem ausgeführt worden sei, die Beschwerdegegnerin
+habe den Beweis der ordnungsgemässen Zustellung nicht erbracht.
+4.2.2
+Die Beschwerdegegnerin vertritt hingegen die
+Auffassung, dass die Zustellung der Verfügungen erstellt sei. Zum einen
+würden Zustellbelege vor der Durchführung der Ersatzvornahme vorliegen und
+zum andern sei die Ersatzvornahme vor deren Durchführung dem Beschwerdeführer
+erneut eröffnet worden, was dieser nicht bestreite. Dass der Beschwerdeführer
+schlafend in den Räumlichkeiten der E.______GmbH angetroffen worden sei,
+indiziere dass er die Verfügungen erhalten habe. Ansonsten hätte er sich dort
+nicht aufhalten müssen. Aus den Verfügungen ergebe sich klar, dass die
+E.______GmbH Partei gewesen sei, weshalb die Verfügungen an diese adressiert
+worden seien. Dies interessiere aber nicht weiter, da der Beschwerdeführer
+über das gleiche Postfach und die gleiche Adresse wie seine Firma verfüge. Es
+würden keine Hinweise auf einen Zustellfehler der Post vorliegen. Die vom
+Beschwerdeführer vorgebrachten Bedenken betreffend die Zustellung an den
+"anderen" F.______ [gleicher Vor- und Nachname wie der
+Beschwerdeführer], wohnhaft an der […], in […], seien mittels Einholens einer
+mündlichen Auskunft abgeklärt und widerlegt worden. F.______ habe dabei
+ausgesagt, dass er erst per 1. August 2014 nach Wald gezogen sei, über
+kein Postfach verfüge und im Jahr 2014 zu keiner Zeit Postsendungen erhalten
+habe, welche nicht für ihn bestimmt gewesen seien. Mangels Vorliegens
+plausibler Gründe, welche Zweifel an der Zustellung an den Beschwerdeführer
+aufkommen liessen, sei von einer erfolgten Zustellung an den Beschwerdeführer
+bzw. dessen GmbH auszugehen. Anderes ergebe sich auch nicht aus dem
+Rechtsöffnungsentscheid des Bezirksgerichts Hinwil, da dieses nicht die Zustellungsart
+in Frage gestellt habe, sondern die eingereichten Zustellbelege entweder
+nicht mit den Verfügungen übereinstimmten oder aber nicht den Verfügungen hätten
+zugeordnet werden können. Ursache dafür sei eine Unvorsichtigkeit der Beschwerdegegnerin
+gewesen, nicht aber der mangelnde Zustellnachweis bei der gewählten Versandart
+A-Post Plus.
+4.3
+Gemäss Art. 76 Abs. 1 VRG eröffnet die
+Behörde den Parteien den Entscheid schriftlich. Dabei ist nicht eine
+besondere Versandart vorgeschrieben. Art. 30 Abs. 1 VRG
+sieht einzig vor, dass die Behörde ihre Vorladungen, Entscheide und anderen
+Mitteilungen durch die Post zustellen lässt. Damit ist grundsätzlich auch die
+Zustellung von Verfügungen mit A-Post Plus zulässig.
+Bei dieser Versandmethode
+wird der Brief mit einer Nummer versehen und ähnlich wie ein eingeschriebener
+Brief mit A-Post spediert. Im Unterschied zu den eingeschriebenen
+Briefpostsendungen wird aber der Empfang durch den Empfänger nicht quittiert.
+Entsprechend wird der Adressat im Falle seiner Abwesenheit auch nicht durch
+Hinterlegung einer Abholungseinladung avisiert. Die Zustellung wird vielmehr
+elektronisch erfasst, wenn die Sendung in das Postfach oder in den
+Briefkasten des Empfängers gelegt wird. Auf diese Weise ist es möglich, mit
+Hilfe des von der Post zu Verfügung gestellten elektronischen Suchsystems
+"Track & Trace" die Sendung bis zum Empfangsbereich des
+Empfängers zu verfolgen. Direkt bewiesen wird mit einem "Track &
+Trace"-Auszug allerdings nicht, dass die Sendung tatsächlich in den Empfangsbereich
+des Empfängers gelangt ist, sondern bloss, dass durch die Post ein entsprechender
+Eintrag in ihrem Erfassungssystem gemacht wurde. Einzig im Sinne eines
+Indizes lässt sich aus diesem Eintrag darauf schliessen, dass die Sendung in
+den Briefkasten oder in das Postfach des Adressaten gelegt wurde (BGer-Urteil 5A_547/2016
+vom 4. Juli 2016 E. 2.2). Nach der bundesgerichtlichen Rechtsprechung,
+die sich auch auf die Zustellungsart A-Post Plus bezieht, liegt ein Fehler
+bei der Postzustellung nicht ausserhalb jeder Wahrscheinlichkeit. Eine fehlerhafte
+Postzustellung ist allerdings nicht zu vermuten, sondern nur anzunehmen, wenn
+sie aufgrund der Umstände plausibel erscheint. Auf die Darstellung des
+Adressaten, dass eine fehlerhafte Postzustellung vorliegt, ist daher
+abzustellen, wenn seine Darlegung der Umstände nachvollziehbar ist und einer
+gewissen Wahrscheinlichkeit entspricht, wobei sein guter Glaube zu vermuten
+ist. Rein hypothetische Überlegungen genügen hingegen nicht (BGer-Urteil
+1C_330/2016 vom 27. September 2016 E. 2.5, 4A_10/2016 vom 8. September
+2016 E. 2.2.1, 5A_547/2015 vom 4. Juli 2016 E. 2.4.1).
+Insofern geht der vom
+Beschwerdeführer ins Recht gelegte Entscheid des Obergerichts des Kantons
+Zürich zu weit, wonach bereits dann von einer fehlerhaften Zustellung einer
+A-Post Plus-Sendung auszugehen ist, wenn der Empfang durch den Adressaten
+konstant bestritten wird und keine Vorbehalte hinsichtlich dieser Behauptung
+ersichtlich sind. Erweist sich die Zustellung mittels A-Post Plus nämlich
+grundsätzlich als zulässig, so müssen doch gewisse Indizien für eine
+fehlerhafte Zustellung vorliegen, damit eine solche anzunehmen ist. Wie der
+vorliegende Fall aber eindrücklich zeigt, erweist es sich in aller Regel als
+nicht zweckmässig, (belastende) Verfügungen uneingeschrieben zu versenden.
+4.4
+Aus den Akten ergibt sich, dass die Verfügungen vom
+5. Juni 2014 unter der Sendungsnummer 98.01.021261.00004930 erfasst
+wurden. Gemäss dem "Track & Trace"-Auszug wurde die
+Sendung am 10. Juni 2014 aufgegeben und am 11. Juni 2014, um
+06.26 Uhr, via Postfach zugestellt. Die Verfügung vom 25. August
+2014 wurde unter der Sendungsnummer 98.01.021261.00004967 erfasst. Sie wurde
+gemäss "Track & Trace"-Auszug gleichentags versandt und am
+26. August 2014, um 07.04 Uhr, via Postfach zugestellt.
+4.5
+4.5.1
+Der Beschwerdeführer bestreitet den Empfang sowohl
+der Verfügungen vom 5. Juni 2014 als auch derjenigen vom 25. August
+2014. Es ist zwar durchaus nicht auszuschliessen, dass der Post Zustellfehler
+unterlaufen. Eher unwahrscheinlich ist es aber, dass gleich zwei aufeinanderfolgende
+Zustellungen an den Beschwerdeführer bzw. an die E.______GmbH fehlerhaft
+waren. Zu prüfen ist, ob Anhaltspunkte ersichtlich sind, die dennoch für eine
+gewisse Wahrscheinlichkeit der Darlegungen des Beschwerdeführers sprechen.
+4.5.2
+Für die Darlegung des Beschwerdeführers spricht,
+dass er von Anfang an konsequent geltend machte, die Verfügungen nicht
+erhalten zu haben. Hingegen lässt sich daraus, dass er schlafend in seiner
+Liegenschaft angetroffen wurde, nichts zu seinen Gunsten ableiten. In der
+Verfügung vom 25. August 2014 wurde lediglich darauf hingewiesen, dass
+die Ersatzvornahme am 13. September 2014 durchgeführt werde. Dass damit
+bereits um 07.00 Uhr morgens begonnen werden würde, konnte er weder
+wissen noch musste er damit rechnen. Insgesamt deutet die Tatsache, dass er
+überhaupt in der Industriebaute in […] übernachtete, eher darauf hin, dass er
+aufgrund des Empfangs der Verfügungen Kenntnis von der Ersatzvornahme hatte.
+Besondere Bedeutung kommt
+sodann der Befragung des "anderen" F.______ durch die
+Beschwerdegegnerin vom 10. Februar 2016 zu, deren Inhalt der
+Beschwerdeführer nicht bestreitet. F.______ führte anlässlich der Befragung
+aus, dass er nie an die E.______ adressierte Post erhalten habe. Im Sommer
+2014 habe er ganz sicher keine Verfügung der Beschwerdegegnerin erhalten.
+Hingegen meine er, einmal, im Sommer 2015, ein Schreiben für den
+Beschwerdeführer erhalten zu haben. Dann habe er die Gemeinde angerufen,
+wobei er sich nicht mehr sicher sei, ob es die Gemeinde Glarus Süd oder
+Glarus Nord gewesen sei. Die Gemeinde habe dann gesagt, das Schreiben sei
+falsch zugestellt worden und die Sache habe sich somit erledigt. Er wohne
+seit dem 1. August 2014 in Wald und habe nie ein Postfach besessen. Entgegen
+der Auffassung des Beschwerdeführers bildet die im Sommer 2015 erfolgte Fehlzustellung
+kein Indiz dafür, dass die Verfügungen vom 5. Juni 2014 und vom
+25. August 2014 ebenfalls falsch zugestellt wurden. Dagegen spricht
+zunächst, dass F.______ deutlich zum Ausdruck brachte, im Sommer 2014 keine
+Verfügungen der Beschwerdegegnerin erhalten zu haben. Diese Aussage machte er
+auch gegenüber der Polizei. Sodann kommt eine Fehlzustellung der Verfügung
+vom 5. Juni 2014 an F.______ bereits deshalb nicht in Betracht, weil
+dieser erst am 1. August 2014 nach Wald zog. Weiter ist auch zu
+berücksichtigen, dass F.______ über kein Postfach verfügt, die Verfügungen
+vom 5. Juni 2014 bzw. 25. August 2014 aber gemäss "Track & Trace"-Auszug
+via Postfach zugestellt wurden, was ebenfalls gegen eine Fehlzustellung an
+F.______ spricht.
+Schliesslich bildet auch
+das Urteil des Bezirksgerichts Hinwil vom 17. September 2015 kein Indiz
+für eine Fehlzustellung. Abgesehen davon, dass das Verwaltungsgericht an das
+Urteil des Bezirksgerichts Hinwil nicht gebunden ist, ergibt sich daraus,
+dass die Beschwerdegegnerin ihrem Rechtsöffnungsbegehren falsche Zustellnachweise
+beilegte. So dokumentierten diese eine Zustellung am 9. Juni 2015. Vorliegend
+lassen sich hingegen die Zustellbelege den Verfügungen zuweisen (vgl.
+vorangehende E. II/4.4).
+4.5.3
+Unter Berücksichtigung aller Umstände spricht für
+die Darlegung des Beschwerdeführers einzig, dass er von Anfang an konsequent
+den Empfang der Verfügungen vom 5. Juni 2014 und vom 25. August
+2014 bestritt. Dies reicht aber nicht aus, um mit einer gewissen
+Wahrscheinlichkeit von einer Fehlzustellung auszugehen. Gerade der Umstand,
+dass der Beschwerdeführer den Empfang sowohl der Verfügung vom 5. Juni
+2014 als auch derjenigen vom 25. August 2014 bestreitet, führt vielmehr
+zum Schluss, dass es sich dabei um reine Schutzbehauptungen handelt.
+Demgemäss ist davon auszugehen, dass dem Beschwerdeführer die Verfügungen
+zugegangen sind.
+4.6
+4.6.1
+Ergibt sich nach dem Gesagten, dass die Verfügungen
+dem Beschwerdeführer zugingen, kann gemäss Art. 14 SHG deren
+Rechtmässigkeit, wie etwa die geltend gemachte Verletzung des Legalitäts- und
+des Verhältnismässigkeitsprinzips, im vorliegenden Verfahren nicht mehr
+überprüft werden. Daraus folgt, dass die Beschwerdegegnerin befugt war, auf Kosten
+des Beschwerdeführers alle nicht betriebssicheren Fahrzeuge zu entfernen und
+zu entsorgen.
+4.6.2
+Der Beschwerdeführer macht jedoch geltend, dass
+neben nicht betriebssicheren Fahrzeugen auch betriebssichere entfernt worden
+seien. Aus den Akten, namentlich auch aus den darin liegenden Fotografien,
+lässt sich nicht erkennen, ob unter den abgeführten Fahrzeugen auch
+betriebssichere waren. Entscheidend ist aber, dass der Beschwerdeführer
+aufgrund der Verfügung vom 5. Juni 2014 verpflichtet war, die betriebssicheren
+Fahrzeuge auf dichtem Belag abzustellen, bei welchem die Versickerung in
+einer Versickerungsmulde bzw. über die Schulter oder Entwässerung der
+Schlammsammler mit Anschluss an die Meteor- oder Mischwasserkanalisation sichergestellt
+ist. Die Beschwerdegegnerin durfte einerseits anlässlich der Ersatzvornahme
+davon ausgehen, dass der Beschwerdeführer dieser Verpflichtung nachgekommen
+war. Andererseits wurde dem Beschwerdeführer die Ersatzvornahme vom
+13. September 2014 in der Verfügung vom 25. August 2014 angezeigt.
+Es lag daher an ihm, die nicht betriebssicheren von den betriebssicheren
+Fahrzeugen zu trennen oder zumindest bei der Ersatzvornahme etwa mittels
+Beibringen der Fahrzeugausweise auf das Vorhandensein betriebssicherer
+Fahrzeuge hinzuweisen. Jedenfalls konnte von der Beschwerdegegnerin nicht
+verlangt werden, dass sie – ohne jede Bereitschaft des Beschwerdeführers zur
+Mitwirkung – bei jedem einzelnen Fahrzeug bestimmt, ob dieses noch als
+betriebssicher zu gelten hat. Insofern erweisen sich der Abtransport und die
+Entsorgung der Fahrzeuge als nicht widerrechtlich.
+4.7
+Hingegen weist der Beschwerdeführer zu Recht darauf
+hin, dass die Beschwerdegegnerin neben den Fahrzeugen auch weitere
+Gegenstände entsorgte. So ist aus den in den Akten liegenden Fotografien
+ersichtlich, dass die Beschwerdegegnerin beispielsweise auch Kabel und
+Autoreifen entsorgte, wobei sich Letzteres auch aus der Rechnung der G.______AG
+vom 13. Oktober 2014 ergibt. Dieses Vorgehen lässt sich nicht auf die
+Verfügungen vom 5. Juni 2014 und vom 25. August 2014 stützen und
+erweist sich als widerrechtlicher Eingriff in das Eigentum der E.______GmbH
+bzw. des Beschwerdeführers.
+4.8
+4.8.1
+Schliesslich beklagt der Beschwerdeführer, dass ihm
+durch die Zerstörung der Eingangstüre ein Schaden entstanden sei. Bei der
+Räumung sei zudem ein Fenster zerstört worden.
+4.8.2
+Gemäss Art. 23 Abs. 1 des Polizeigesetzes
+vom 6. Mai 2007 (PolG) darf die Kantonspolizei nicht öffentlich
+zugängliche Räumlichkeiten ohne Einwilligung von berechtigten Personen nur
+betreten und durchsuchen, wenn dies zur Abwehr einer gegenwärtigen
+erheblichen Gefahr für Leib und Leben oder die Freiheit einer Person
+notwendig ist (lit. a); der Verdacht besteht, dass sich dort eine Person
+befindet, die in Gewahrsam zu nehmen ist (lit. b) oder wenn dies zum Schutz
+von Tieren oder Gegenständen von namhaftem Wert notwendig ist (lit. c). Ist
+eine der Voraussetzungen von Art. 23 Abs. 1 PolG erfüllt und darf
+die Kantonspolizei die Räumlichkeiten betreten, umschliesst dies auch die
+Befugnis, sich gewaltsam Zutritt zu den Liegenschaften zu verschaffen.
+4.8.3
+Gemäss dem Erledigungsbericht der Kantonspolizei
+stand beim Eintreffen das Auto des Beschwerdeführers vor der Liegenschaft.
+Nach mehreren Versuchen, den Beschwerdeführer telefonisch zu erreichen, sei
+die Türe zur Liegenschaft gewaltsam geöffnet worden.
+Da das Auto des
+Beschwerdeführers vor der Liegenschaft geparkt war, musste die Kantonspolizei
+davon ausgehen, dass sich der Beschwerdeführer im Gebäudeinneren befindet.
+Aufgrund der langen Vorgeschichte und insbesondere der bevorstehenden Räumung
+der Liegenschaft bestand die naheliegende Gefahr, dass der Beschwerdeführer
+sich etwas antun könnte oder allenfalls die Räumung gewaltsam zu verhindern
+versuchte. Damit waren die Voraussetzungen von Art. 23 Abs. 1
+lit. a PolG erfüllt, weshalb die Polizei befugt war, sich gewaltsam
+Zutritt zur Liegenschaft zu verschaffen. Eine widerrechtliche Schädigung
+liegt daher nicht vor, weshalb nicht weiter geprüft werden muss, ob grundsätzlich
+der Kanton oder die Beschwerdegegnerin für das Verhalten der beigezogenen
+Kantonspolizei haftet.
+5.
+5.1
+Aus dem soeben Dargelegten ergibt sich, dass die
+Beschwerdegegnerin widerrechtlich in das Eigentum des Beschwerdeführers bzw.
+der E.______GmbH eingriff, indem sie neben den Fahrzeugen auch weitere
+Gegenstände abtransportieren und entsorgen liess. Das Verhalten der
+Beschwerdegegnerin steht in einem natürlichen und adäquaten Zusammenhang zum
+Schaden des Beschwerdeführers, da er ohne den widerrechtlichen Abtransport
+der Gegenstände keinen Schaden erlitten hätte.
+5.2
+Zu prüfen bleibt jedoch die Höhe des Schadens. Der
+Beschwerdeführer beziffert den Schaden auf Fr. 66'250.- für
+inventarisierte Ware und auf Fr. 30'000.- für die nicht inventarisierte
+Ware. Insgesamt ergibt sich aus seiner Sicht aus der Entsorgung der
+Gegenstände (ohne Fahrzeuge) ein Schaden von Fr. 96'250.-.
+Aufgrund der Akten lässt
+sich einzig erkennen, dass neben den Fahrzeugen auch weitere Gegenstände
+abtransportiert wurden. Es lässt sich aber weder der genaue Umfang der
+abtransportieren Ware noch deren Wert ermitteln. Insbesondere unterliess es
+die Beschwerdegegnerin, anlässlich der Ersatzvornahme ein Inventar der abtransportierten
+Fahrzeuge und weiteren Gegenstände zu erstellen.
+Damit erweist sich der
+Sachverhalt als nicht genügend abgeklärt. Die rechtsgenügliche Abklärung des
+Sachverhalts obliegt in erster Linie der Beschwerdegegnerin, weshalb die
+Sache an diese zurückzuweisen ist. Dabei wird sie in einem ersten Schritt ermitteln,
+welche Gegenstände neben den Fahrzeugen abtransportiert wurden. Hierzu
+erweisen sich verschiedene Beweisvorkehren als notwendig. Naheliegend
+erscheint, dass die Beschwerdegegnerin verschiedene Personen befragen wird.
+In Betracht kommen beispielsweise die Polizisten und die Mitarbeitenden der
+Transportunternehmung, welche bei der Ersatzvornahme im Einsatz standen
+(Art. 51 VRG). Sollte dabei eine mündliche oder schriftliche
+Befragung nicht ausreichen, könnten sie – unter Mithilfe des Kantons – auch als
+Zeugen einvernommen werden (Art. 52 VRG). Sodann kommt dem
+Beschwerdeführer gemäss Art. 39 Abs. 1 VRG eine
+Mitwirkungspflicht zu. Sinnvoll erscheint es, ihn zur Einreichung von Belegen
+aufzufordern, welche der Bezifferung des Schadens dienen. Sodann kann auch
+der Beschwerdeführer befragt werden (Art. 47 VRG), nötigenfalls –
+wiederum unter Mitwirkung des Kantons – auch unter Strafandrohung (vgl.
+Art. 48 VRG).
+Ist der Umfang der
+abtransportierten Ware ermittelt, hat die Beschwerdegegnerin in einem zweiten
+Schritt deren Wert zu bestimmen. Dazu erweist sich allenfalls ein Gutachten
+als erforderlich.
+Hinzuweisen bleibt darauf,
+dass der Wahrung der Parteirechte bei der Feststellung des rechtserheblichen
+Sachverhalts herausragende Bedeutung zukommt So sind etwa schriftlich
+eingeholte Auskünfte oder Protokolle mündlicher Befragungen dem Beschwerdeführer
+unaufgefordert zur Stellungnahme zuzustellen. Daneben ist dem Beschwerdeführer
+das Recht einzuräumen, sich zum Fragekatalog zu äussern und Ergänzungsfragen zu
+stellen (vgl. E. II/7).
+6.
+6.1
+Der Beschwerdeführer beantragt sodann eine
+Genugtuung von Fr. 30'000.-, da er ob der Ersatzvornahme derart
+erschüttert gewesen sei, dass er während drei Wochen in psychiatrischer
+Behandlung gewesen sei.
+6.2
+Gemäss Art. 8 Abs. 1 SHG steht bei
+Körperverletzung oder Tötung eines Menschen dem Verletzten oder den
+Angehörigen des Getöteten ein Anspruch auf eine angemessene Geldsumme als
+Genugtuung zu, wenn es die Umstände rechtfertigen. Wird jemand auf andere
+Weise rechtswidrig in seiner Persönlichkeit verletzt, so steht ihm ebenfalls
+ein Anspruch auf eine Geldsumme als Genugtuung zu, sofern die Schwere der
+Verletzung es rechtfertigt und diese nicht anders wieder gutgemacht worden
+ist (Art. 8 Abs. 2 SHG).
+6.3
+Gemäss dem Rapport über die vorläufige Festnahme /
+Ingewahrsamnahme vom 16. September 2014 sei der Zustand des
+Beschwerdeführers am Tag der Ersatzvornahme aufgrund der Aufregung und des
+Konsums von Alkohol immer schlechter geworden. Die Lebenspartnerin und die
+Mutter des Beschwerdeführers hätten sich nach dem Mittag dahingehend
+geäussert, es sei nicht auszuschliessen, dass er sich nach Ende der
+Ersatzvornahme etwas antun werde. Ihnen sei mitgeteilt worden, dass sie doch
+mit dem Beschwerdeführer einen Arzt aufsuchen sollten. Sie hätten erklärt,
+dass er nicht auf sie hören werde und sie froh wären, wenn dies die Polizei
+veranlassen würde. Aufgrund der Situation sei entschieden worden, den
+Beschwerdeführer einem Arzt zur Abklärung zuzuführen. Da sich dieser vehement
+dagegen gewehrt habe, sei er zum Transport arretiert und auf seinen eigenen
+Wunsch hin mit seinem privaten Fahrzeug ins Spital H.______ überführt worden.
+Anschliessend sei eine Fürsorgerische Unterbringung verfügt worden. Der
+Transport in die psychiatrische Klinik sei durch zwei Funktionäre der
+Kantonspolizei begleitet, jedoch durch das Spital H.______ durchgeführt
+worden. Anlässlich der Festnahme habe sich der Beschwerdeführer unkooperativ
+verhalten, weshalb er zu Boden geführt haben werden müssen. Dabei habe er
+sich leichte Kratzspuren am Gesicht zugezogen, welche im Spital H.______ behandelt
+worden seien. Ebenfalls während der Festnahme sei es bei ihm zu einem Zusammenbruch
+gekommen, worauf die Ambulanz aufgeboten worden sei.
+6.4
+Nach dem Dargelegten (vgl. E. II/4) erweist
+sich die Ersatzvornahme – mit Ausnahme der Gegenstände, welche neben den
+Fahrzeugen abtransportiert wurden – als rechtmässig. Damit kann die
+Beschwerdegegnerin aber nicht für den übermässigen Alkoholkonsum des
+Beschwerdeführers verantwortlich gemacht werden. Dass die Polizei ihn
+arretieren und gegen seinen Willen ins Spital bringen musste, lag vielmehr in
+seinem Verhalten begründet. Die Massnahme diente seinem Schutz, da gemäss seiner
+Lebenspartnerin und seiner Mutter die Möglichkeit einer Selbstgefährdung bestand.
+Insgesamt sind weder besondere Umstände ersichtlich, welche eine Genugtuung
+rechtfertigen würden, noch ist von einer widerrechtlichen Persönlichkeitsverletzung
+auszugehen. Folglich ist es nicht zu beanstanden, dass die Beschwerdegegnerin
+das Gesuch des Beschwerdeführers um Genugtuung abwies.
+7.
+7.1
+Zu prüfen bleibt die vom Beschwerdeführer geltend
+gemachte Gehörsverletzung, welche er darin sieht, dass er zur telefonischen
+Befragung des an der […] in […], wohnhaften F.______ weder eingeladen noch
+sonst wie darüber orientiert worden sei.
+7.2
+Gemäss Art. 29 Abs. 2 der Bundesverfassung
+der Schweizerischen Eidgenossenschaft vom 18. April 1999 (BV) haben die
+Parteien Anspruch auf rechtliches Gehör. Dieses dient einerseits der Sachaufklärung,
+andererseits stellt es ein persönlichkeitsbezogenes Mitwirkungsrecht beim
+Erlass eines Entscheids dar, welcher in die Rechtsstellung des Einzelnen
+eingreift. Dazu gehört u.a. das Recht der Betroffenen, an der Erhebung
+wesentlicher Beweise mitzuwirken oder sich zumindest zum Beweisergebnis zu
+äussern, wenn dieses geeignet ist, den Entscheid zu beeinflussen
+(BGE 142 I 86 E. 2.2). Art. 66 Abs. 1 VRG sieht
+dabei vor, dass die Parteien grundsätzlich Anspruch darauf haben, der
+Einvernahme anderer Parteien oder von Zeugen, einer mündlichen Beweisauskunft
+oder einem Augenschein beizuwohnen und Fragen zur Erläuterung oder zur
+Ergänzung zu stellen. Die Behörde kann die Parteien ausnahmsweise von der
+Teilnahme an der Beweiserhebung ausschliessen, sofern es die Abklärung des
+Sachverhalts oder die Dringlichkeit des Entscheids erfordert (Art. 66
+Abs. 2 VRG). Sie kann die Parteien auch ausschliessen, wenn wesentliche
+öffentliche oder schutzwürdige private Interessen eine Geheimhaltung
+erfordern (Art. 66 Abs. 3 VRG).
+7.3
+Vorliegend bestand kein Anlass dazu, den
+Beschwerdeführer von der Teilnahme an der Beweiserhebung auszuschliessen.
+Insbesondere hätte ihm aber das Protokoll der telefonischen Befragung
+unaufgefordert zugestellt werden müssen, wobei ihm Gelegenheit zur
+Stellungnahme hätte eingeräumt werden müssen. Indem die Beschwerdegegnerin
+dies unterliess, verletzte sie den Anspruch des Beschwerdeführers auf
+rechtliches Gehör.
+7.4
+Ausnahmsweise kann eine Gehörsverletzung geheilt
+werden. Dies ist der Fall, wenn die betroffene Person die Möglichkeit erhält,
+sich vor einer Rechtsmittelinstanz zu äussern, die in Bezug auf die strittige
+Frage über eine gleich weite Kognition verfügt wie die Vorinstanz, so dass
+sie eine Prüfung in gleichem Umfang vornehmen kann. Unter dieser
+Voraussetzung ist selbst bei einer schwerwiegenden Verletzung des Anspruchs
+auf rechtliches Gehör von einer Rückweisung der Sache an die Vorinstanz
+abzusehen, wenn und soweit die Rückweisung zu einem formalistischen Leerlauf
+und damit zu unnötigen Verzögerungen führen würde, die mit dem (der Anhörung
+gleichgestellten) Interesse der betroffenen Partei an einer beförderlichen Beurteilung
+der Sache nicht zu vereinbaren wäre (Alain Griffel, in Alain Griffel, Kommentar
+zum Verwaltungsrechtspflegegesetz des Kantons Zürich, 3. A., Zürich/Basel/Genf
+2014, § 8 N. 38, mit Hinweis auf BGE 137 I 195
+E. 2.3.2).
+7.5
+Vorliegend kommt dem Verwaltungsgericht gemäss
+Art. 107 Abs. 2 lit. g VRG i.V.m. Art. 21
+Abs. 3 SHG eine umfassende Kognition zu. Der Beschwerdeführer
+konnte sich umfassend zur telefonischen Befragung von F.______ äussern und bemängelte
+insbesondere nicht, dass diesem die falschen Fragen gestellt worden seien.
+Aus diesem Grund und da er am Wahrheitsgehalt der Aussagen von F.______ nicht
+zweifelte, beantragte er auch keine Wiederholung der Befragung. Damit kann
+die Gehörsverletzung im vorliegenden Verfahren geheilt werden; sie ist aber
+immerhin bei den Kosten- und Entschädigungsfolgen zu berücksichtigen
+(vgl. nachfolgend E. III/1).
+8.
+Zusammenfassend ergibt
+sich, dass die Beschwerdegegnerin Schadenersatz für die neben den Fahrzeugen
+entsorgten Gegenstände zu leisten hat, wobei die Schadenshöhe noch zu
+ermitteln ist. Hingegen fällt ein Schadenersatz für die abtransportierten
+Fahrzeuge ebenso ausser Betracht wie eine Genugtuung. Demgemäss ist die Beschwerde
+teilweise gutzuheissen. Der Beschluss der Beschwerdegegnerin vom
+25. Februar 2016 ist aufzuheben. Die Sache ist im Sinne der Erwägungen
+an die Beschwerdegegnerin zurückzuweisen.
+III.
+1.
+1.1
+Nach Art. 134 Abs. 1 lit. c VRG hat
+die Partei, welche im Beschwerde-, Klage- oder Revisionsverfahren unterliegt,
+die amtlichen Kosten zu tragen. Gemäss Art. 135 Abs. 2 VRG
+sind die Gemeinden gegenüber kantonalen Behörden nur kostenpflichtig, wenn
+sie im Verfahren als Partei beteiligt und an der Angelegenheit wirtschaftlich
+interessiert sind. Letztere Voraussetzung ist in Fällen der Staatshaftung regelmässig
+erfüllt, weshalb vorliegend die Kosten grundsätzlich nach dem jeweiligen
+Unterliegen zu verlegen wären.
+Der angefochtene Beschluss
+der Beschwerdegegnerin erging jedoch unter Verletzung des rechtlichen Gehörs
+des Beschwerdeführers. Damit erweist er sich als rechtsfehlerhaft, weshalb
+die Anfechtung grundsätzlich zu Recht erfolgt ist. Wenn das Verwaltungsgericht
+nun diesen Mangel ausnahmsweise heilt, entscheidet es im Grunde anstelle der
+Beschwerdegegnerin. Erst durch den Entscheid des Verwaltungsgerichts erfüllt
+sich der Anspruch auf eine formell korrekte Streitentscheidung. Die
+pauschalen Gerichtskosten von Fr. 6'000.- sind daher der
+Beschwerdegegnerin aufzuerlegen (vgl. BGer-Urteil 1C_558/2013 vom
+21. September 2016 E. 16.2). Dem Beschwerdeführer ist der von ihm
+in gleicher Höhe geleistete Kostenvorschuss zurückzuerstatten.
+1.2
+Aus denselben Gründen steht dem Beschwerdeführer
+eine Parteientschädigung zu (Art. 138 Abs. 3 VRG). Aus dem Umstand,
+dass nur eine "angemessene" Parteientschädigung zuzusprechen ist,
+leitet das Verwaltungsgericht
+in ständiger Praxis
+ab, dass die Parteientschädigung in der Regel nicht
+sämtliche erforderlichen Kosten umfasst, die einer Partei entstanden sind,
+sondern nur einen Teil des nötigen Prozessaufwands. Im Übrigen hat die
+entschädigungsberechtigte Partei ihren notwendigen Aufwand selber zu tragen.
+Dabei wird davon ausgegangen, dass es der entschädigungsberechtigten Partei
+grundsätzlich zuzumuten ist, für einen Teil ihrer erforderlichen Kosten
+selber aufzukommen (zur vergleichbaren Rechtslage im Kanton Zürich: Kaspar
+Plüss, in Alain Griffel [Hrsg.], Kommentar zum Verwaltungsrechtspflegegesetz
+des Kantons Zürich, 3. A., Zürich/Basel/Genf 2014, § 17 N. 80).
+Nach welchen Kriterien die
+Parteientschädigung zuzusprechen ist, regelt das anwendbare
+Verwaltungsprozessrecht nicht. In der Regel dürfte es naheliegen, sinngemäss
+die Regeln über die Bemessung der Spruchgebühren heranzuziehen. Gemäss
+§ 7 Abs. 2 der Verordnung über amtliche Kosten im
+Verwaltungsverfahren und in der Verwaltungsrechtspflege vom 24. Juni
+1987 (KoV)
+bemisst sich die
+Spruchgebühr nach dem Arbeits- und Zeitaufwand der entscheidenden Behörde
+(für die Parteientschädigung ist der Arbeits- und Zeitaufwand des
+Rechtsvertreters massgebend), der Bedeutung und Schwierigkeit der Sache sowie
+nach den für die Parteien auf dem Spiele stehenden Vermögens- oder sonstigen
+Interessen an der Angelegenheit. Im Einzelfall können auch weitere Kriterien
+massgebend für die Höhe der Parteientschädigung sein (VGer-Urteil
+VG.2016.00113 vom 15. Dezember 2016 E. II/4.2, mit Hinweis auf zwei
+nicht publizierte Urteile).
+Vorliegend ist zunächst
+zu berücksichtigen, dass die Parteien wesentliche finanzielle Interessen am
+Ausgang des Verfahrens hatten. Es wurden ein zweifacher Schriftenwechsel und
+eine Referentenaudienz durchgeführt, was einen gewissen zusätzlichen Aufwand
+zur Folge hatte. Im Übrigen gestalteten sich aber weder der Sachverhalt noch
+die zu behandelnden Rechtsfragen als überdurchschnittlich schwierig. Demgemäss
+erweist sich eine Parteientschädigung in der Höhe von Fr. 6'000.- (inkl.
+Mehrwertsteuer) als angemessen.
+2.
+Beim vorliegenden
+Entscheid handelt es sich um einen Zwischenentscheid im Sinne von
+Art. 93 des Bundesgerichtsgesetzes vom 17. Juni 2005 (BGG).
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird teilweise gutgeheissen. Die Verfügung der Beschwerdegegnerin
+vom 25. Februar 2016 wird aufgehoben. Die Sache wird im Sinne der Erwägungen
+an die Beschwerdegegnerin zurückgewiesen.
+2.
+Die
+Gerichtskosten von Fr. 6'000.- werden der Beschwerdegegnerin
+auferlegt. Dem Beschwerdeführer wird der von ihm in gleicher Höhe geleistete
+Kostenvorschuss zurückerstattet.
+3.
+Die
+Beschwerdegegnerin wird verpflichtet, dem Beschwerdeführer innert 30 Tagen
+nach Rechtskraft dieses Entscheids eine Parteientschädigung von
+Fr. 6'000.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
