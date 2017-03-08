@@ -1,0 +1,2002 @@
+---
+decision_id: "gl_gerichte_SG.2016.00082"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "SG"
+docket: "SG.2016.00082"
+docket_2: "SG.2017.7"
+decided: "2017-03-08"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=797&W10_KEY=218274&nTrefferzeile=7&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/101/art-032.md", "switzerland/bund/acts/220/art-041.md", "switzerland/bund/acts/220/art-049.md", "switzerland/bund/acts/220/art-073.md", "switzerland/bund/acts/311.0/art-012.md", "switzerland/bund/acts/311.0/art-019.md", "switzerland/bund/acts/311.0/art-022.md", "switzerland/bund/acts/311.0/art-023.md", "switzerland/bund/acts/311.0/art-024.md", "switzerland/bund/acts/311.0/art-025.md", "switzerland/bund/acts/311.0/art-040.md", "switzerland/bund/acts/311.0/art-043.md", "switzerland/bund/acts/311.0/art-047.md", "switzerland/bund/acts/311.0/art-048.md", "switzerland/bund/acts/311.0/art-048a.md", "switzerland/bund/acts/311.0/art-049.md", "switzerland/bund/acts/311.0/art-051.md", "switzerland/bund/acts/311.0/art-069.md", "switzerland/bund/acts/311.0/art-111.md", "switzerland/bund/acts/311.0/art-112.md", "switzerland/bund/acts/311.0/art-122.md", "switzerland/bund/acts/311.0/art-139.md", "switzerland/bund/acts/311.0/art-140.md", "switzerland/bund/acts/311.0/art-144.md", "switzerland/bund/acts/311.0/art-172ter.md", "switzerland/bund/acts/311.0/art-186.md", "switzerland/bund/acts/311.0/art-285.md", "switzerland/bund/acts/311.1/art-001.md", "switzerland/bund/acts/311.1/art-003.md", "switzerland/bund/acts/311.1/art-025.md", "switzerland/bund/acts/311.1/art-036.md", "switzerland/bund/acts/312.0/art-010.md", "switzerland/bund/acts/312.0/art-084.md", "switzerland/bund/acts/312.0/art-119.md", "switzerland/bund/acts/312.0/art-122.md", "switzerland/bund/acts/312.0/art-124.md", "switzerland/bund/acts/312.0/art-126.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-426.md", "switzerland/bund/acts/312.1/art-007.md", "switzerland/bund/acts/312.1/art-010.md", "switzerland/bund/acts/312.1/art-014.md", "switzerland/bund/acts/312.1/art-034.md", "switzerland/bund/acts/312.1/art-044.md", "switzerland/bund/acts/741.01/art-010.md", "switzerland/bund/acts/741.01/art-027.md", "switzerland/bund/acts/741.01/art-090.md", "switzerland/bund/acts/741.01/art-094.md", "switzerland/bund/acts/741.01/art-095.md"]
+---
+
+# GL Gerichte SG.2016.00082
+
+## Regeste
+
+Versuchte vorsätzliche Tötung etc.
+
+## Text
+
+Glarus Kantonsgericht Strafkammern 08.03.2017 SG.2016.00082 (SG.2017.7)
+Glaris Kantonsgericht Strafkammern 08.03.2017 SG.2016.00082 (SG.2017.7)
+Glarona Kantonsgericht Strafkammern 08.03.2017 SG.2016.00082 (SG.2017.7)
+
+Kanton Glarus
+Kantonsgericht
+Strafkammer
+Urteil vom
+8. März 201
+7
+Verfahren SG.2016.00082
+1. A.______
+Anklägerin
+vertreten
+durch
+M.______
+2.
+C.______
+3.
+D.______
+vertreten
+durch
+N.______
+4.
+E.______
+5.
+F.______
+6.
+G.______
+7.
+H.______
+8. O.______
+9.
+I.______
+10.
+J.______
+11.
+K.______
+Privatkläger
+gegen
+B.______
+beschuldigte Person
+verteidigt
+durch
+L.______
+Anklage
+Versuchte vorsätzliche Tötung etc.
+Schlussanträge der Staats-
+und Jugendanwaltschaft des Kantons Glarus
+(gemäss Anklageschrift vom 7. Dezember 2016, und
+anlässlich der Hauptverhandlung vom 11. Januar 2017
+, sinngemäss
+):
+1.    Die
+beschuldigte Person sei folgender Delikte schuldig zu sprechen:
+-
+Gehilfenschaft zum
+Einschleichdiebstahl (Geld) und Diebstahl (Roller) gemäss Art. 139 Ziff. 1
+StGB i.V.m. Art. 25 StGB, in verminderter Schuldfähigkeit im Sinne von Art.
+19 Abs. 2 StGB
+-
+Versuchte schwere Körperverletzung gemäss
+Art. 122 StGB i.V.m. Art. 22 Abs. 1 StGB
+-
+Versuchter Raub gemäss Art. 140 Ziff.
+1 StGB i.V.m. Art. 22 Abs. 1 StGB
+-
+Versuchte vorsätzliche Tötung gemäss
+Art. 111 StGB i.V.m. Art. 22 Abs. 1 StGB
+-
+Gewalt und Drohung gegen Behörden und
+Beamte gemäss Art. 285 Abs. 1 StGB
+-
+Mehrfache Sachbeschädigung gemäss
+Art. 144 Abs. 1 StGB
+-
+Diebstahl gemäss Art. 139 Ziff. 1
+StGB
+-
+Entwendung eines Motorfahrzeuges zum
+Gebrauch gemäss Art. 94 Abs. 1 lit. a SVG
+-
+Mehrfaches Führen eines
+Personenwagens ohne im Besitze eines Führerausweises zu sein gemäss Art. 10
+Abs. 2 SVG i.V.m. Art. 95 Abs. 1 lit. a SVG
+-
+Mehrfacher geringfügiger Diebstahl
+gemäss Art. 139 Ziff. 1 StGB i.V.m. Art. 172
+ter
+StGB
+-
+Nichtbeachtung eines Lichtsignals
+gemäss Art. 27 Abs. 1 SVG, Art. 68 und 69 Abs. 3 SSV i.V.m. Art. 90 Abs. 1
+SVG
+2.    Die
+beschuldige Person sei mit einer unbedingten Freiheitsstrafe von 6 Jahren zu
+bestrafen.
+3.    Es
+sei die erstandene Haft, der vorzeitige Strafvollzug sowie teilweise die vorsorgliche
+Unterbringung von 724 Tagen an die Freiheitsstrafe anzurechnen.
+4.    Die
+beschuldigte Person sei zudem mit einer Busse von CHF 200.–– zu bestrafen.
+Bei schuldhafter Nichtbezahlung soll an die Stelle der Busse eine Ersatzfreiheitsstrafe
+von zwei Tagen treten.
+5.    Es
+sei keine Schutzmassnahme anzuordnen.
+6.    Es
+seien die unter Ziffer VI. der Anklageschrift erwähnten sichergestellten Gegenstände,
+welche nur die Verfahren von B.______ betreffen, auszuhändigen. Das im
+Verfahren JM.2016.00024 sichergestellte Mobiltelefon Nokia schwarz ([...])
+sei der berechtigten Person auszuhändigen.
+7.    Es
+sei über die Zivilforderungen zu entscheiden.
+8.    Der
+beschuldigten Person seien die Verfahrens- und Anklagekosten aufzuerlegen.
+Schlussanträge
+des Privatklägers
+C.______
+(gemäss Strafantrag vom 23. November
+2012
+, sinngemäss
+):
+Die
+beschuldigte Person sei zu verpflichten, dem Privatkläger C.______
+Schadenersatz von EUR 3'270.–– und Genugtuung
+von CHF 1'000.— zu bezahlen.
+Schlussanträge
+des Privatklägers
+D.______
+(gemäss Formular "Geltendmachung
+von Rechten als Privatklägerschaft" vom 13. November 2014 und
+Honorarnote vom 4. November 2015
+, sinngemäss
+):
+Die
+beschuldigte Person sei zu verpflichten,
+dem
+Privatkläger D.______
+die
+Kosten der Rechtsvertretung in Höhe von CHF 3'752.30 und
+eine Genugtuung von CHF 2'000.–– zuzüglich 5
+% Zins seit dem 7. November 2014 zu bezahlen.
+Schlussanträge
+des Privatklägers
+E.______
+(gemäss Strafantrag vom
+5. August 2015
+, sinngemäss
+):
+Die
+beschuldigte Person sei zu verpflichten,
+dem
+Privatkläger E.______
+Schadenersatz
+und Genugtuung zu bezahlen, wobei die Höhe der Ansprüche durch das Gericht
+festzulegen sei.
+Schlussanträge
+des Privatklägers
+G.______
+(gemäss Erklärung des Privatklägers
+vom 1. Juni 2016
+, sinngemäss
+):
+Die
+beschuldigte Person sei zu verpflichten, dem Privatkläger G.______
+Schadenersatz von CHF 15'000.–– und Genugtuung
+von CHF 13'000.— zu bezahlen.
+Schlussanträge
+der
+Privatklägerin
+F.______
+(gemäss Erklärung des Privatklägers vom 1. Juni
+2016
+, sinngemäss
+):
+Die beschuldigte Person sei zu verpflichten, der
+Privatklägerin F.______
+Schadenersatz
+von CHF 20'000.–– und Genugtuung von CHF 18'000.–– zu bezahlen.
+Schlussanträge
+des Privatklägers
+H.______
+(gemäss Erklärung des Privatklägers
+vom 27. Mai 2016
+, sinngemäss
+):
+Die
+beschuldigte Person sei zu verpflichten, dem Privatkläger H.______
+Schadenersatz von CHF 77.30 zu bezahlen.
+Schlussanträge
+der Privatklägerin
+O.______
+(gemäss Strafantrag vom
+29. Mai 2016
+, sinngemäss
+):
+Die
+beschuldigte Person sei zu verpflichten, der Privatklägerin
+O.______ Schadenersatz von CHF 105.10 zu
+bezahlen.
+Schlussanträge
+der
+Verteidigung
+(anlässlich der
+Hauptverhandlung vom 11. Januar 2017
+, sinngemäss
+):
+1.    Die
+beschuldigte Person sei folgender Delikte schuldig zu sprechen:
+-
+Gehilfenschaft zum Diebstahl (Roller)
+gemäss Art. 139 Ziff. 1 StGB i.V.m. Art. 25 StGB, in verminderter Schuldfähigkeit
+im Sinne von Art. 19 Abs. 2 StGB
+-
+Versuchte schwere Körperverletzung
+gemäss Art. 122 StGB i.V.m. Art. 22 Abs. 1 StGB
+-
+Versuchter Raub gemäss Art. 140 Ziff.
+1 StGB i.V.m. Art. 22 Abs. 1 StGB
+-
+Gewalt und Drohung gegen Behörden und
+Beamte gemäss Art. 285 Abs. 1 StGB
+-
+Schwere Körperverletzung gemäss Art.
+122 StGB
+-
+Diebstahl gemäss Art. 139 Ziff. 1
+StGB
+-
+Entwendung eines Motorfahrzeuges zum
+Gebrauch gemäss Art. 94 Abs. 1 lit. a SVG
+-
+Mehrfaches Führen eines
+Personenwagens ohne im Besitze eines Führerausweises zu sein gemäss Art. 10
+Abs. 2 SVG i.V.m. Art. 95 Abs. 1 lit. a SVG
+-
+Mehrfacher geringfügiger Diebstahl
+gemäss Art. 139 Ziff. 1 StGB i.V.m. Art. 172
+ter
+StGB
+-
+Nichtbeachtung eines Lichtsignals
+gemäss Art. 27 Abs. 1 SVG, Art. 68 und 69 Abs. 3 SSV i.V.m. Art. 90 Abs. 1
+SVG
+2.    Die
+beschuldigte Person sei folgender Delikte frei zu sprechen:
+-
+Versuchte vorsätzliche Tötung gemäss
+Art. 111 StGB i.V.m. Art. 22 Abs. 1 StGB
+-
+Mehrfache Sachbeschädigung gemäss
+Art. 144 Abs. 1 StGB
+3.    Die
+beschuldige Person sei mit einer unbedingten Freiheitsstrafe von 42 Monaten
+zu bestrafen.
+4.    Es
+sei die erstandene Haft, der vorzeitige Strafvollzug sowie teilweise die vorsorgliche
+Unterbringung an die Freiheitsstrafe anzurechnen.
+5.    Die
+beschuldigte Person sei zudem mit einer Busse von CHF 200.–– zu bestrafen.
+Bei schuldhafter Nichtbezahlung soll an die Stelle der Busse eine Ersatzfreiheitsstrafe
+von zwei Tagen treten.
+5.    Es
+sei keine Schutzmassnahme anzuordnen.
+6.    Es
+seien die unter Ziffer VI. der Anklageschrift erwähnten sichergestellten Gegenstände,
+welche nur die Verfahren von B.______ betreffen, auszuhändigen. Das im
+Verfahren [...] sichergestellte Mobiltelefon Nokia schwarz ([...]) sei der
+berechtigten Person auszuhändigen.
+7.    Es
+sei über die Zivilforderungen zu entscheiden.
+8.    Die
+Verfahrens- und Anklagekosten seien nach dem Ausgang des Verfahrens
+aufzuerlegen.
+____________________
+Das Gericht
+zieht in Betracht:
+I. Prozessgeschichte
+1.
+Gestützt auf die Untersuchungsakten erhob die Staats- und Jugendanwaltschaft
+des Kantons Glarus (nachfolgend Jugendanwaltschaft) mit Anklageschrift vom 7.
+Dezember 2016 Anklage gegen B.______ (nachfolgend Beschuldigter) wegen der
+vorstehend wiedergegebenen Delikte.
+2.
+Die mündliche Hauptverhandlung vor der Strafkammer des Kantonsgerichts [...]
+fand am 11. Januar 2017 statt. Es wird diesbezüglich auf das Handprotokoll
+des Gerichtsschreibers i. V., die Einvernahme des Beschuldigten und die
+Plädoyernotizen der Jugendanwaltschaft verwiesen.
+3.
+Die Strafkammer des Kantonsgerichts des Kantons Glarus fällte das vorliegende
+Urteil am 8. März 2017 als Jugendgericht in der Besetzung mit drei
+Gerichtsmitgliedern.
+Im
+Einverständnis mit den Parteien wird das Urteil schriftlich eröffnet
+(Art. 84 Abs. 3 StPO).
+II. Zuständigkeit
+1. Das
+Jugendstrafgesetz ist gegenüber Personen anwendbar, die vor Vollendung des
+18. Altersjahres eine nach dem Strafgesetzbuch (StGB) oder einem anderen
+Bundesgesetz mit Strafe bedrohte Tat begangen haben (Art. 1 Abs. 1 lit. a JStG).
+Der persönliche Geltungsbereich des JStG umfasst Personen, die zwischen dem
+vollendeten 10. und dem vollendeten 18. Altersjahr eine mit Strafe bedrohte
+Tat begangen haben (Art. 3 Abs. 1 JStG).
+Dem
+Beschuldigten werden unter anderem Delikte zur Last gelegt, die er vor Vollendung
+des 18. Altersjahres begangen haben soll. Zum behaupteten Tatzeitpunkt am 9.
+November 2012 war der Beschuldigte 16 Jahre alt. Im Weiteren wird dem
+Beschuldigten vorgeworfen, auch nach Vollendung des 18. Lebensjahres
+delinquiert zu haben.
+2. Bei
+sogenannten gemischten Fällen, in denen Straftaten vor und nach Erreichen des
+18. Altersjahres begangen wurden und im gleichen Verfahren beurteilt werden,
+stellt sich insbesondere die Frage nach der Zuständigkeit und dem anwendbaren
+Verfahren (Art. 3 Abs. 2 JStG).
+Wie
+die Jugendanwaltschaft des Kantons Glarus in ihrer Anklageschrift ausführt,
+sei die Frage der Zuständigkeit zwischen Jugend- und Erwachsenenstrafbehörde,
+insbesondere im Hinblick auf die Schwere der dem Beschuldigten vorgeworfenen
+Taten, ein Grenzfall. Die bundesgerichtliche Rechtsprechung bezüglich
+gemischter Fälle überlässt es indes der Gerichtspraxis
+"…auslegungsweise
+(und nötigenfalls durch Lückenfüllung) für sachgerechte Lösungen zu
+sorgen."
+(BGE 135 IV 206, E. 5.3). Im Vordergrund steht
+die Verfahrensökonomie. Bei gemischten Fällen seien sachfrageorientierte,
+differenzierte und verfahrenseffiziente Lösungen zu ermitteln. Unnötige
+Prozessleerläufe und die Wiederholung von aufwändigen Untersuchungshandlungen
+seien zu verhindern. Ein Verfahrenswechsel sei umso störender, als die
+hängigen Jugendstrafverfahren – zum Zeitpunkt indem neue Straftaten bekannt
+werden, die erst nach Vollendung des 18. Altersjahres begangen wurden –
+bereits weit vorangeschritten sind.
+Gemäss
+Bundesgericht sind gewisse Fälle von Schwerstkriminalität denkbar, bei denen
+sich ausnahmsweise die Anwendung des Erwachsenen-Strafprozessrechts
+aufdrängen könnte (BGE 135 IV 206, E. 5.3). So sei es kaum sinnvoll, wenn
+Jugendstrafbehörden, die einen Diebstahl verfolgen, auch ein Tötungsdelikt
+beurteilen müssten, welches der Täter nach dem 18. Altersjahr begangen hat.
+3.
+Betreffend die Verfahren vor Vollendung des 18. Altersjahres des Beschuldigten
+erfolgte am 9. Mai 2014 die Schlusseinvernahme durch die Jugendanwaltschaft
+des Kantons Glarus. Das Verfahren betreffend diese Delikte war zum Zeitpunkt
+der erwachsenenstrafrechtlich relevanten Delinquenz vom 7. November 2014
+entsprechend weit fortgeschritten.
+Die
+Jugendstrafbehörde war schon seit längerer Zeit mit der hängigen Untersuchung
+gegen den Beschuldigten – unter anderem wegen Diebstahls, Sachbeschädigung
+sowie wegen Wiederhandlungen gegen das Betäubungsmittel- und Strassenverkehrsgesetz
+– betraut. Zudem kennt sie den Beschuldigten und seine Vorgeschichte.
+Dem
+Beschuldigten wird vorgeworfen, nach Vollendung des 18. Altersjahres
+schwerwiegende Delikte begangen zu haben. Mit Blick auf die erhebliche Diskrepanz
+zwischen den ursprünglich durch die Jugendstrafbehörde zu beurteilenden und
+den "neuen" schwerwiegenden Delikte, stellt sich die Frage, ob die
+Zuständigkeit der Jugendstrafbehörde weiterhin sinnvoll ist.
+Betreffend
+die Verlängerung der Untersuchungshaft hat das Bundesgericht mit Urteil vom
+26. März 2015 bereits entschieden, dass die vorliegende Konstellation trotz
+der relativ schwerwiegenden Straftat des Beschuldigten nicht zur ausnahmeweisen
+Anwendbarkeit des Erwachsenen-Strafverfahrensrechts führt.
+Mit
+Blick auf das Hauptverfahren drängen sich keine Gründe auf, von dieser Auffassung
+abzuweichen. Zudem hat keine Prozesspartei gegen diese Vorgehensweise
+opponiert.
+Die
+Zuständigkeit der Jugendstrafbehörde sowie die Anwendung der jugendstrafrechtlichen
+Verfahrensbestimmungen ist sowohl verfahrensökonomisch als auch mit Blick auf
+das Interesse des Beschuldigten durchaus sinnvoll.
+4.
+Für die Strafverfolgung zuständig ist die Behörde des Ortes, an dem die oder
+der beschuldigte Jugendliche bei Eröffnung des Verfahrens den gewöhnlichen
+Aufenthalt hat (Art. 10 Abs. 1 JStPO). Wurde ein Verfahren gegen Jugendliche
+eingeleitet, bevor die nach Vollendung des 18. Altersjahres begangene Tat
+bekannt wurde, so bleibt dieses Verfahren anwendbar (Art. 3 Abs. 2 JStG).
+Wie
+aus den Akten im Verfahren [...] zu entnehmen ist, hatte der Beschuldigte bei
+Eröffnung des Verfahrens seinen gewöhnlichen Aufenthaltsort am elterlichen
+Wohnsitz in [...]. Für die Strafverfolgung sind somit die Behörden des
+Kantons Glarus zuständig. Die Jugendanwaltschaft des Kantons Glarus hatte die
+Untersuchungsverfahren [...]
+und [...]
+bereits eröffnet, bevor die nach Vollendung des
+18. Altersjahres begangenen Taten vom 7. November 2014 bekannt
+wurden.
+Mit
+Schreiben vom 20. November 2014 bestätigte die Jugendanwaltschaft des Kantons
+Glarus die Übernahme der Strafuntersuchung der Staatsanwaltschaft IV des
+Kantons Zürich. Im Anschluss trat die Staatsanwaltschaft IV des Kantons
+Zürich die Strafuntersuchung in Sachen B.______ mit Verfügung vom
+25. November 2014 an die Jugendanwaltschaft des Kantons Glarus ab.
+5.
+Das Jugendgericht beurteilt erstinstanzlich alle Strafsachen für die ein
+Freiheitsentzug von mehr als drei Monaten in Frage kommt (Art. 34 Abs. 1
+JStPO). Vorliegend beantragt die Jugendanwaltschaft die Aussprechung einer
+unbedingten Freiheitsstrafe von 6 Jahren. Für die Behandlung von Jugendstrafsachen
+nach Art. 34 JStPO ist grundsätzlich die Strafkammer in der Besetzung mit dem
+Präsidenten und zwei Mitgliedern zuständig (Art. 7 Abs. 2 JStPO i.V.m.
+Art. 10 Abs. 2 GOG GL).
+Mit
+Blick auf die eingeschränkte Strafkompetenz des Jugendgerichts – gemäss Art.
+25 Abs. 2 lit. a JStG sind Jugendliche, die zur Zeit der Tat das 16.
+Altersjahr vollendet haben, mit maximal vier Jahren Freiheitsentzug zu
+bestrafen – ist zu prüfen, ob im vorliegenden Fall nicht die Strafkammer in
+der Besetzung mit dem Präsidenten und vier Mitgliedern zuständig wäre (Art.
+10 Abs. 1 i.V.m. Art. 8 Abs. 1 GOG GL).
+Es
+ist mithin unklar, ob der kantonale Gesetzgeber bei der Normierung von
+Art. 3 Abs. 2 JStG und auch für die vorliegende Konstellation
+(gemischter Fall und angedrohte Freiheitsstrafe von mehr als vier Jahren)
+eine Zuständigkeit des Jugendgerichts vorsehen wollte. Ein legislatorisches
+Versäumnis muss zumindest für diejenigen Fälle in Betracht gezogen werden, in
+denen Freiheitsstrafen von weit über vier Jahren drohen.
+Vorliegend
+übersteigt der angedrohte Freiheitsentzug die maximale Strafe für Jugendliche
+gemäss Art. 25 Abs. 2 lit. a StGB in noch relativ geringen Umfang, weshalb
+die Strafkammer in der Besetzung mit dem Präsidenten und zwei Mitgliedern im
+Sinne von Art. 10 Abs. 2 GOG GL zuständig ist, zumal keine Prozesspartei
+diese Besetzung beanstandete.
+6. Die
+Hauptverhandlung vom 11. Januar 2017 fand unter teilweisem Ausschluss der
+Öffentlichkeit statt (vgl. Art. 14 Abs. 1 JStPO). In Anbetracht des Alters des
+Beschuldigten – er ist im Zeitpunkt des Urteils 21 Jahre alt – und der damit
+einhergehenden verminderten Schutzbedürftigkeit nach Art. 14 Abs. 2 lit. b
+JStPO wurde die Privatklägerschaft zur Teilnahme an der Hauptverhandlung zugelassen.
+III. Vorbemerkung
+1. Auf
+die Untersuchungsakten, die Anklageschrift der Jugendanwaltschaft und die
+Ausführungen der Parteien anlässlich der Hauptverhandlung wird, soweit notwendig,
+in den nachfolgenden Erwägungen Bezug genommen.
+2.
+Die durch Art. 10 Abs. 1 StPO gewährleistete Unschuldsvermutung schreibt vor,
+dass jede beschuldigte Person bis zum Nachweis ihrer Schuld als unschuldig zu
+gelten hat. Als Beweislastregel folgt aus der Unschuldsvermutung, dass es
+nicht Sache der beschuldigten Person ist, ihre Unschuld zu beweisen, sondern
+dass die Strafbehörden verpflichtet sind, den Nachweis der Schuld zu führen (
+Wohlers
+, in: Kommentar zur
+Schweizerischen Strafprozessordnung (StPO), 2. Aufl. 2014, N. 2 ff. zu Art.
+10 StPO).
+2.1.
+Soweit der Beschuldigte den ihm zur Last gelegten Sachverhalt bestreitet, ist
+dieser
+zu erstellen. Nach dem in Art. 10
+Abs. 2 StPO statuierten Grundsatz der freien richterlichen Beweiswürdigung
+hat das
+Gericht seinem Urteil denjenigen Sachverhalt zu Grunde zu
+legen, den es aus der im gesamten Verfahren gewonnenen Überzeugung als
+verwirklicht erachtet. Bestehen nach abgeschlossener Beweiswürdigung
+erhebliche und unüberwindliche Zweifel, so hat das Gericht dem Grundsatz in
+dubio pro reo entsprechend von der für die beschuldigte Person günstigeren
+Sachlage auszugehen (Art. 32 Abs. 1 BV, Art. 10 Abs. 3
+StPO;
+Schmid
+, Praxiskommentar
+zur Schweizerischen Strafprozessordnung, 2. Aufl. 2013, N. 4 ff. zu
+Art. 10 StPO;
+Wohlers
+,
+a.a.O., N. 11 ff. zu Art. 10 StPO). Erheblich sind jene Zweifel, welche bei einer
+objektiven Betrachtungsweise angebracht sind (
+Schmid
+,
+a.a.O., N. 10 zu Art. 10 StPO).
+2.2.
+Stützt sich die Beweisführung auf die Aussagen von Personen, so sind diese
+frei zu würdigen. Es ist anhand sämtlicher Umstände, die sich aus den Akten
+und der Verhandlung ergeben, zu untersuchen, welche Sachdarstellung
+überzeugend ist, wobei es vorwiegend auf den inneren Gehalt der Aussagen
+ankommt, verbunden mit der Art und Weise wie die Angaben erfolgen. Massgebend
+ist die Glaubhaftigkeit der gemachten Aussagen (
+Wohlers
+, a.a.O., N. 27 zu Art. 10 StPO).
+2.3.
+Die Überzeugung vom Vorliegen rechtlich erheblicher Tatsachen kann durch
+Indizien gewonnen werden. Beim Indizienbeweis wird vermutet, dass eine nicht
+bewiesene Tatsache gegeben ist, weil sich diese Schlussfolgerung aus bewiesenen
+Tatsachen (Indizien) nach der Lebenserfahrung aufdrängt. Es ist zulässig, aus
+der Gesamtheit der verschiedenen Indizien, welche je für sich allein
+betrachtet nur mit einer gewissen Wahrscheinlichkeit auf eine bestimmte
+Tatsache oder Täterschaft hindeuten und insofern Zweifel offen lassen, auf
+den vollen rechtsgenügenden Beweis von Tat oder Täter zu schliessen (Urteil
+des Bundesgerichts 6B_759/2014 vom 24. November 2014, E. 1.1.).
+3.
+Der Beschuldigte ist, wie zu zeigen sein wird, bezüglich der ihm zur Last
+gelegten Delikte weitgehend geständig.
+4.
+Wo nichts anderes vermerkt ist, sind die einzelnen Straftatbestände
+vorsätzlich begangen worden und bestehen offensichtlich keine
+Rechtfertigungs- oder Schuldausschlussgründe.
+IV. Vorfall
+[...]
+1.
+Sachverhalt
+Der
+Beschuldigte ist bezüglich des von der Jugendanwaltschaft erstellten Sachverhalts
+– mit Ausnahme der nachfolgenden Einwände – geständig.
+1.1.
+Anlässlich der Hauptverhandlung vom 11. Januar 2017 gab der Beschuldigte
+zu, den besagten Roller gestohlen zu haben, behauptete jedoch, das Vorhaben
+habe unter der Leitung von P.______ gestanden. Seine Rolle habe lediglich
+darin bestanden, den Roller wegzuschaffen. Davon geht im Übrigen auch die
+Jugendanwaltschaft aus.
+1.2.
+Der Beschuldigte gab an, den Wert des Rollers nicht zu kennen. Den von der
+Jugendanwaltschaft erstellten Deliktsbetrag bestreitet er nicht. Der
+behauptete Wert erscheint plausibel, weshalb von diesem auszugehen ist.
+1.3.
+Anlässlich der Hauptverhandlung gab der Beschuldigte an, er und P.______
+hätten vor dem Einbruchdiebstahl mehrere Joints geraucht und Alkohol
+getrunken, wobei er sich bezüglich der Mengen nicht mehr erinnern könne.
+Anlässlich
+der polizeilichen Einvernahme vom 10. November 2012 gab der Beschuldigte an,
+er habe an diesem Nachmittag eine Flasche Wodka und einige Biere getrunken
+sowie Marihuana konsumiert. Im Rahmen der jugendanwaltschaftlichen
+Einvernahme vom 14. März 2013 behauptete der Beschuldigte, er habe etwa eine
+halbe Flasche Wodka und mehrere Biere getrunken. Er sei zum Tatzeitpunkt
+"nicht voll da gewesen" (Einvernahme vom 14. März 2013).
+Zugunsten
+des Beschuldigten ist davon auszugehen, er habe vor Begehung der Tat
+mindestens eine halbe Flasche Wodka und mehrere Biere getrunken sowie mehrere
+Joints geraucht.
+2.
+Rechtliche Würdigung: Einschleichdiebstahl
+Dem
+Beschuldigten wird vorgeworfen, am 9. November 2012 Gehilfenschaft zum
+Einschleichdiebstahl geleistet zu haben. Der Ansicht der Jugendanwaltschaft,
+der Beschuldigte habe lediglich EUR 70.— gestohlen, weshalb lediglich
+ein geringfügiges Vermögensdelikt vorliege, ist zu folgen, da keine
+zuverlässigen Beweise für einen höheren Deliktsbetrag vorliegen. Die
+Strafverfolgung bezüglich des geringfügigen Diebstahls im Sinne von Art. 139
+Ziff. 1 StGB i.V.m. Art. 172
+ter
+Abs. 1 StGB ist gestützt auf
+Art. 36 Abs. 1 lit. c JStG zwischenzeitlich verjährt, weshalb der Beschuldigte
+von diesem Vorwurf freizusprechen ist.
+Der
+Jugendanwaltschaft ist zuzustimmen, dass auch die Strafverfolgung bezüglich
+des Hausfriedensbruchs (Art. 186 StGB) vom 9. November 2012 gestützt auf
+Art. 36 Abs. 1 lit. b JStG bereits verjährt ist.
+3.
+Rechtliche Würdigung: Diebstahl (Roller)
+Die
+Jugendanwaltschaft wirft dem Beschuldigten vor, er habe sich der Gehilfenschaft
+zum Diebstahl (Roller) gemäss Art. 139 Ziff. 1 StGB i.V.m. Art. 25 StGB und
+Art. 19 Abs. 2 StGB schuldig gemacht, was nachfolgend zu prüfen ist.
+3.1.
+Wer zu einem Verbrechen oder Vergehen vorsätzlich Hilfe leistet, wird milder
+bestraft (Art. 25 StGB). Die Gehilfenschaft ist stets akzessorisch. Sie setzt
+eine Haupttat eines anderen voraus, an welcher der Gehilfe in untergeordneter
+Weise mitwirkt (BGE 98 IV 83, E. 2.), insoweit ist vorab die Strafbarkeit des
+P.______ bezüglich des Diebstahls des Rollers zu prüfen.
+3.1.1.
+Wer jemandem eine fremde bewegliche Sache zur Aneignung wegnimmt, um sich
+oder einen anderen damit unrechtmässig zu bereichern, wird mit Freiheitsstrafe
+bis zu fünf Jahren oder Geldstrafe bestraft (Art. 139 Ziff. 1 StGB).
+Beim
+entwendeten Roller handelt es sich zweifellos um eine fremde bewegliche
+Sache.
+Die
+Tathandlung besteht in der Wegnahme. Wegnahme meint nach herrschender Lehre
+und Rechtsprechung den Bruch fremden Gewahrsams und die Begründung neuen,
+meist eigenen Gewahrsams. Dabei ist unter dem Gewahrsamsbegriff die
+tatsächliche Sachherrschaft über eine Sache nach den Regeln des sozialen Lebens
+zu verstehen. Der Gewahrsam umfasst die tatsächliche Herrschaftsmöglichkeit
+verbunden mit dem Herrschaftswillen, also dem Willen, die bestehende Herrschaftsmöglichkeit
+auch auszuüben (
+Niggli / Riedo
+,
+in: BSK Strafrecht II, 3. Auflage, Art. 139 StGB, N. 15 ff., m.w.H.).
+Indem
+P.______ und der Beschuldigte den nicht ihnen gehörenden Roller ohne bzw.
+gegen den Willen des Berechtigten an sich nahmen und dem Gewahrsamsinhaber
+räumlich entzogen, brachen sie fremden Gewahrsam. P.______ und der Beschuldigte
+erhielten damit die alleinige Einwirkungsmöglichkeit auf die Sache und begründeten
+so neuen Gewahrsam (vgl.
+Niggli /
+Riedo
+, a.a.O., Art. 139 StGB, N. 51 und 64, m.w.H.). Das
+Tatbestandsmerkmal der Wegnahme ist folglich erfüllt.
+Die
+Wegnahme erfolgte auch zur Aneignung, die ja das eigentliche Motiv der Tathandlung
+darstellte. P.______ f.rte die Tat aus, um sich und allenfalls den Beschuldigten
+unrechtmässig zu bereichern. Dabei handelte er auch vorsätzlich, war die Tat
+doch von Anfang an so geplant gewesen. Bringt P.______ vor, er habe keine
+Bereicherungsabsichten gehabt, sondern habe nur mit dem Roller umherfahren
+wollen, so ist dies als Schutzbehauptung zu werten (polizeiliche Einvernahme
+vom 14. November 2012). Der Beschuldigte gibt nämlich an, P.______ habe sich
+dahingehend geäussert, den Roller später verkaufen zu wollen (polizeiliche
+Einvernahme vom 28. November 2012).
+Somit
+sind die Tatbestandsmerkmale im Sinne von Art. 139 Ziff. 1 StGB erfüllt bzw.
+die Strafbarkeit des Haupttäters gegeben.
+3.1.2.
+Der Gehilfe will die Haupttat fördern und nimmt zumindest in Kauf, dass seine
+Hilfeleistung die Straftat erleichtert (
+Forster
+,
+in: BSK Strafrecht I, 3. Auflage, Art. 25 StGB, N. 3).
+Der
+Beschuldigte handelte unter der Leitung von P.______. So war es dessen Idee,
+den Wohnsitz seines früheren Arbeitgebers aufzusuchen, den Roller zu entwenden
+und anschliessend zu verkaufen. Indem der Beschuldigte den Roller vom ursprünglichen
+Standort wegschaffte, hat er die Tat gefördert. Obwohl der Beschuldigte einen
+kausalen Beitrag leistete, hing die Realisierung des Diebstahls nicht von
+diesem ab, P.______ hätte den Roller auch selbst wegschieben können. Der
+Tatbeitrag des Beschuldigten ist von untergeordneter Bedeutung, weshalb von Gehilfenschaft
+im Sinne von Art. 25 StGB auszugehen ist.
+Der
+Beschuldigte wusste oder nahm zumindest in Kauf, dass seine Hilfeleistung eine
+Straftat erleichtert bzw. ihre Erfolgschancen erhöht (
+Forster
+, a.a.O., Art. 25 StGB, N. 3-4). Neben dem
+Beihilfevorsatz ist auch die Inkaufnahme des vorsätzlichen Vorgehens von
+P.______ erstellt.
+3.1.3.
+Mit der Jugendanwaltschaft ist davon auszugehen, der Beschuldigte sei aufgrund
+des übermässigen Alkoholkonsums im jugendlichen Alter zum Tatzeitpunkt
+vermindert schuldfähig gewesen.
+Aufgrund
+der Aussagen des Beschuldigten, muss davon ausgegangen werden, er habe an
+besagtem Nachmittag mindestens eine halbe Flasche Wodka und mehrere Biere
+getrunken sowie mehrere Joints geraucht, weshalb von einer verminderten
+Schuldfähigkeit mittleren Grades auszugehen und die Strafe entsprechend zu mildern
+ist (vgl. dazu Erw. IV. 1.3.).
+3.2.
+Der Beschuldigte ist somit der Gehilfenschaft zum Diebstahl gemäss
+Art. 139 Ziff. 1 StGB i.V.m. Art. 25 StGB, in verminderter
+Schuldfähigkeit (mittleren Grades) im Sinne von Art. 19 Abs. 2 StGB,
+schuldig zu sprechen.
+V. Vorfall
+[...]
+1.
+Sachverhalt
+Der
+nachfolgende Sachverhalt stützt sich vorwiegend auf die Videoaufnahme, aufgenommen
+von Q.______, und die Aufzeichnung der Überwachungskamera im Parkhaus Bahnhof
+sowie auf die Aussagen des Beschuldigten.
+1.1.
+Der Beschuldigte urinierte am 7. November 2014, um ca. 5:15 Uhr, im unteren
+Perron in eine Ecke des Bahnhofparkhauses in [...], woraufhin der
+Privatkläger, D.______ (nachfolgend Opfer), als zuständiger
+Unterhaltsreiniger des vorgenannten Parkhauses den Beschuldigten vom
+Parkhausdeck aus auf sein Fehlverhalten aufmerksam machte. Daraufhin gingen der
+Beschuldigte und Q.______ zum Parkhausdeck hoch, wo sie auf das Opfer trafen.
+1.2.
+Aufgrund des Videos ist erstellt, dass der Beschuldigte dem Opfer einen
+ersten Faustschlag an den Hinterkopf verpasste, wobei das Opfer mit der
+Vorderseite des Kopfes auf den Stahlträger des Treppenhauses aufschlug. Der
+Beschuldigte wandte sich anschliessend dem filmenden Q.______ zu und fragte,
+ob er ihn [das Opfer] die Treppe hinunter werfen solle.
+Das
+Opfer versuchte sich zu entfernen und begab sich in Richtung Parkhaus. Dort
+stellte es sich in den von Kameras überwachten Bereich, was auch der
+Beschuldigte feststellte und Q.______ mitteilte. Q.______ forderte den
+Beschuldigten mehrmals auf, das Opfer zu schlagen. Der Beschuldigte schlug
+dem Opfer sodann mit der Faust an den Kopf und spukte ihm ins Gesicht.
+Wiederum wurde der Beschuldigte von Q.______ motiviert, dem Opfer weitere
+Schläge zu verpassen. Es kam zu mehreren Angriffen seitens des Beschuldigten.
+Teilweise konnte das Opfer ausweichen, so dass es nicht immer getroffen
+wurde.
+Der
+Beschuldigte griff das Opfer schliesslich mit einem Tritt in die Bauchgegend
+an. Es kam zu einer Rangelei am Boden und obwohl sich der Kopf des Opfers im
+Bereich einer Kante befand, schlug der Beschuldigte weiter auf dessen Kopf
+und auf dessen Oberkörper ein und verpasste ihm einen Kniestoss in den
+Rücken. Der Beschuldigte versuchte auch, das Opfer mit dem Besen des Opfers
+zu schlagen.
+Im
+Verlauf des Übergriffs verlangte der Beschuldigte vom Opfer zwanzig Franken
+und das Portemonnaie. Er spukte dem Opfer zudem nochmals ins Gesicht. Das
+Opfer sass zu diesem Zeitpunkt auf dem Boden, hielt sich die Hände vors
+Gesicht und stöhnte hörbar, was der Beschuldigte mit abfälligem Blick in die
+Kamera quittierte. Der Beschuldigte drohte, dem Opfer mit dem Knie ins
+Gesicht zu stossen, sollte es das Portemonnaie nicht herausrücken.
+Als das
+Opfer beteuerte, es habe kein Portemonnaie dabei, stiess der Beschuldigte,
+wie er es angekündigt hatte, mit dem Knie zu. Das Opfer sass weiterhin stöhnend
+auf dem Boden und hielt sich den Kopf, als ihm der Beschuldigte, nach Aufforderung
+von Q.______, einen Fusstritt ins Gesicht verpasste. Das Opfer blieb daraufhin
+bewusstlos am Boden liegen. Die Feststellung von Q.______, das Opfer sei nun
+ohnmächtig, kommentierte der Beschuldigte lachend und zustimmend mit "yeah
+man".
+Ohne
+sich um das Opfer zu kümmern, verliessen der Beschuldigte und Q.______ das
+Parkhaus.
+Wie auf
+dem Video zu sehen ist, war das Verhalten des Beschuldigten einerseits die
+ganze Zeit sehr provozierend und aggressiv. Anderseits zeigte er, wie er
+Spass am ganzen Ablauf hatte.
+1.3.
+Die anlässlich der Festnahme am 7. November 2014 um 6:00 Uhr durchgeführte
+Messung des Alkoholwertes ergab beim Beschuldigten ein Ergebnis von 1.05 bis
+1.11
+‰.
+1.4.
+Gemäss Arztbericht vom 7. November 2014 erlitt das Opfer am linken Knie eine
+(verkrustete) Exkoriation sowie Druckdolenzen über dem medialen Femurkondylus
+und dem medialen Gelenkspalt im hinteren Anteil. Verkrustete Exkoriationen
+wurden zudem über dem rechten Jochbeinbogen und oberhalb der linken Augenbraue
+festgestellt. Ebenso zog sich das Opfer eine leichte Druckdolenz über dem
+linken Kieferköpfchen zu. Das Opfer war anschliessend während zwei Tagen arbeitsunfähig
+(vgl. Arbeitsunfähigkeitszeugnis).
+Die
+Bewusstlosigkeit des Opfers ist aufgrund der Videoaufnahme erstellt.
+2.
+Anlässlich der Hauptverhandlung vom 11. Januar 2017 bestätigte der Beschuldigte
+die Sachverhaltsdarstellungen der Jugendanwaltschaft gemäss der Anklageschrift
+vom 7. Dezember 2016 grösstenteils, wobei auf die bestrittenen Punkte
+nachfolgend einzugehen ist.
+2.1.
+Der Beschuldigte ist der Ansicht, er habe mit dem letzten Tritt lediglich den
+Arm bzw. den Rippenbereich des Opfers getroffen. Die Videoaufnahme belegt hingegen
+eindeutig, dass der letzte Fusstritt das Opfer am Kopf traf, wobei das Opfer
+die Hände flach vor das Gesicht hielt.
+2.2.
+Der Beschuldigte behauptet, vor der Begehung der Tat mehr Alkohol konsumiert
+zu haben, als es die Jugendanwaltschaft in der Anklageschrift dargestellt habe.
+2.2.1.
+Entgegen der Darlegung der Verteidigung machte der Beschuldigte im Verfahren
+jeweils unterschiedliche Angaben zu seinem Alkoholkonsum.
+Anlässlich
+der Hauptverhandlung vom 11. Januar 2017 brachte der Beschuldigte vor, er
+habe einen halben Liter Wodka getrunken. Im Rahmen der Einvernahmen vom
+7. bzw. 8. November 2014 gab der Beschuldigte an, er habe ab 4:00
+Uhr eine Flasche Wodka mit Orangensaft und noch eine angefangene Flasche
+getrunken. Gemäss Aussage anlässlich der Einvernahme vom 9. Dezember 2014 im
+Gefängnis [...] will der Beschuldigte zwei Flaschen Wodka in einer Stunde
+getrunken und eine Dritte auf sich getragen haben.
+2.2.2.
+Wie die Videoaufnahme belegt,
+konnte der
+Beschuldigte geradeaus gehen, gezielt schlagen und ohne zu Lallen sprechen.
+Bringt die Verteidigung vor, auf dem Video sei zu sehen, dass der
+Beschuldigte mit seinen Schlägen das Ziel teilweise nicht traf, so liegt dies
+nicht an der eingeschränkten Koordinationsfähigkeit des Beschuldigten,
+sondern am geschickten Ausweichverhalten des Opfers.
+Teilweise
+lachte der Beschuldigte sehr laut, was aber – entgegen der Ansicht der
+Verteidigung – nicht zwingend als Indiz für den Rauschzustand zu werten ist.
+Es ist bekannt, dass bereits eine geringe Alkoholdosierung – besonders bei
+ungeübten Trinkern, wie es der Beschuldigte gemäss Darstellung der
+Verteidigung sein soll – enthemmend wirkt.
+2.2.3.
+Das Vorbringen der Verteidigung, der Zustand des Beschuldigten habe sich auf
+dem Polizeiposten [Gewalt und Drohung gegen Beamte] gezeigt, ist insofern
+unbehelflich, als der Beschuldigte seine panikartige Reaktion nicht etwa mit
+dem Alkoholkonsum begründete, sondern vorwiegend mit der Angst, erwischt zu
+werden.
+2.2.4.
+Unter Würdigung der gesamten Umstände ist festzuhalten, dass
+der Beschuldigte ab 4:00 Uhr zu trinken begann
+und bis zum Vorfall im Bahnhofparkhaus
+[...]
+eine halbe Flasche Wodka getrunken hatte.
+3.
+Rechtliche Würdigung: Versuchte schwere Körperverletzung
+Wer
+vorsätzlich einen Menschen lebensgefährlich verletzt, wer vorsätzlich den Körper,
+ein wichtiges Organ oder Glied eines Menschen verstümmelt oder ein wichtiges
+Organ oder Glied unbrauchbar macht, einen Menschen bleibend arbeitsunfähig, gebrechlich
+oder geisteskrank macht, das Gesicht eines Menschen arg und bleibend
+entstellt, wer vorsätzlich eine andere schwere Schädigung des Körpers oder
+der körperlichen oder geistigen Gesundheit eines Menschen verursacht, wird
+mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe nicht unter 180 Tagessätzen
+bestraft (Art. 122 StGB).
+3.1.
+Der Beschuldigte hat das Opfer mit Faustschlägen, Fusstritten und Kniestössen
+körperlich geschädigt. Trotz der Gewalteinwirkung durch den Beschuldigten
+bestand für das Opfer keine unmittelbare Lebensgefahr. Bleibende Schäden
+liegen ebenfalls nicht vor (vgl. Arztbericht vom 7. November 2014). Somit ist
+der tatbestandsmässige Erfolg im Sinne der schweren Körperverletzung nach
+Art. 122 StGB nicht eingetreten.
+3.2. Es
+stellt sich die Frage, ob sich der Beschuldigte wegen versuchter schwerer
+Körperverletzung gemäss Art. 122 StGB i.V.m. Art. 22 Abs. 1 StGB strafbar gemacht
+hat. Die (versuchte) eventualvorsätzliche schwere Körperverletzung geht – bei
+Vorliegen von gewissen Voraussetzungen […] – der (vollendeten) qualifizierten
+einfachen Körperverletzung vor (
+Roth /
+Berkemeier
+in: BSK Strafrecht II, 3. Auflage, Art. 122 StGB, N.
+28).
+3.2.1.
+Entscheidend ist, ob der Beschuldigte mit der Gewalteinwirkung auf das Opfer
+(eventual-)vorsätzlich eine schwere Schädigung erreichen wollte bzw. in Kauf
+nahm (
+Roth / Berkemeier
+, a.a.O.,
+Art. 122 StGB, N. 25). Was der Täter weiss, will und in Kauf nimmt,
+betrifft eine innere Tatsache und ist Tatfrage. Rechtsfrage ist hingegen, ob
+gestützt auf die vorgestellten Tatsachen bewusste Fahrlässigkeit, oder direkter
+Vorsatz gegeben ist (BGE 137 IV 1, E. 4.2.3.).
+Eventualvorsatz
+ist gegeben, wenn der Täter den Eintritt des Erfolgs bzw. die Verwirklichung
+des Tatbestandes für möglich hält, aber dennoch handelt, weil er den Erfolg
+für den Fall seines Eintritts in Kauf nimmt (Art. 12 Abs. 2 StGB) bzw.
+sich mit ihm abfindet, mag er ihm auch unerwünscht sein (BGE 137 IV 1,
+E. 4.2.3. und BGE 103 IV 65, E. I.2.). Ob der Täter die
+Tatbestandsverwirklichung in diesem Sinne in Kauf genommen hat, muss das
+Gericht bei Fehlen eines Geständnisses des Beschuldigten aufgrund der
+Umstände entscheiden. Dazu gehören die Grösse des dem Täter bekannten Risikos
+der Tatbestandsverwirklichung, die Schwere der Sorgfaltspflichtverletzung,
+die Beweggründe des Täters und die Art der Tathandlung. Je grösser die
+Wahrscheinlichkeit der Tatbestandsverwirklichung ist und je schwerer die
+Sorgfaltspflichtverletzung wiegt, desto eher darf gefolgert werden, der Täter
+habe die Tatbestandsverwirklichung in Kauf genommen (Urteil des Bundesgerichts
+vom 12. Oktober 2016).
+3.2.2.
+Auch wenn als bekannt vorausgesetzt werden darf und muss, dass der Kopf
+gegenüber Schlägen, Stössen und Tritten besonders sensibel ist, ist eine
+tatsächliche und rechtliche Bewertung der Gefährlichkeit der hier zu
+beurteilenden Einwirkung des Beschuldigten vorzunehmen (Urteil des
+Bundesgerichts vom 12. Oktober 2016). Dass eine Tathandlung abstrakt
+geeignet ist, eine schwere Körperverletzung im Sinne vom Art. 122 StGB
+herbeizuführen, genügt für sich nicht ohne Weiteres, um (Eventual-) Vorsatz
+des Täters hinsichtlich einer der in Art. 122 StGB beschriebenen Folgen
+anzunehmen (Urteil des Bundesgerichts vom 12. Oktober 2016).
+Nach
+bundesgerichtlicher Rechtsprechung müssen bei abstrakt lebensgefährlichen
+Tathandlungen ohne Tatwerkzeug demzufolge weitere Umstände hinzutreten, die
+im konkreten Fall auf den Eintritt und die Inkaufnahme einer schweren
+Körperverletzung im Sinne von Art. 122 StGB schliessen lassen (Urteil des
+Bundesgerichts vom 12. Oktober 2016).
+3.2.3.
+Bereits zu Beginn der Auseinandersetzung richtete der Beschuldigte an
+Q.______ die Frage, ob er das Opfer die Treppe hinunterstossen solle. Es ist
+als bekannt vorauszusetzen, dass ein Treppensturz, selbst bei wenigen Stufen,
+zu schweren Verletzungen führen kann. Diese Äusserung zeigt die innere
+Bereitschaft des Beschuldigten, schwere Verletzungen des Opfers in Kauf zu
+nehmen.
+Selbst
+als das Opfer nach dem Gerangel bereits keinen Widerstand mehr leistete und
+mit dem Kopf in der Nähe einer Kante lag, setzte der Beschuldigte zu mehreren
+Faustschlägen gegen Kopf bzw. Oberkörper und einem Kniestoss in den Rücken
+an. Der Beschuldigte hatte zu diesem Zeitpunkt längst die Oberhand über das
+Opfer gewonnen. Trotzdem hat er die gewaltsamen Handlungen nicht eingestellt.
+Es bereitete dem Beschuldigten sichtliches Vergnügen, das widerstandunfähige
+Opfer zu dominieren und zu erniedrigen, was auch das widerholte Anspucken belegt.
+Als das
+Opfer bereits sicht- und hörbar angeschlagen am Boden sass und der Aufforderung
+des Beschuldigten, ihm das Portemonnaie zu geben, nicht nachkam, verpasste
+ihm dieser einen massiven Kniestoss. Wiederum hätte der Beschuldigte vom
+Opfer ablassen können, was er nicht tat.
+So
+folgte er der Aufforderung Q.______ und trat dem offensichtlich unter Kopfschmerzen
+leidenden Opfer mit voller Wucht gegen den Kopf, so dass dieser nach hinten
+umkippte und bewusstlos liegen blieb.
+Wer
+gegen eine bereits am Kopf verletzte und offensichtlich unter Kopfschmerzen
+leidende Person zuerst einen Kniestoss und anschliessend einen Fusstritt ausführt,
+kann und muss wissen, dass dies beim Opfer ohne Weiteres zu einem lebensgefährlichen
+Zustand oder zu schweren bleibenden Schäden führen kann. Im Wissen um die
+bereits erlittenen Einwirkungen gegen den Kopf – das Opfer hat sich den Kopf
+unter anderem auch an einem Stahlträger gestossen – und die Kopfschmerzen des
+Opfers konnte der Beschuldigte nicht ernsthaft auf eine lediglich einfache
+Verletzung vertrauen, wenn er gleich zweimal massiv auf dessen Kopf einwirkt.
+Unter
+Würdigung der gesamten Umstände bestehen daher keine erheblichen Zweifel,
+dass der Beschuldigte eine schwere Schädigung des Opfers zumindest in Kauf
+nahm. Der subjektive Tatbestand der schweren Körperverletzung ist nach
+Art. 122 StGB erfüllt.
+3.3.
+Wie oben dargelegt, ist der Erfolg nicht eingetreten und somit die schwere Körperverletzung
+nach Art. 122 StGB nicht vollendet. Im Übrigen ist der Tatentschluss
+bezüglich sämtlicher objektiven und subjektiven Tatbestandsmerkmale gegeben.
+Nach
+der Formel des Bundesgerichts ist das Stadium des Versuchs schon mit derjenigen
+Tätigkeit erreicht, die nach dem Plan, den sich der Täter gemacht hat, auf
+dem Weg zum Erfolg den letzten entscheidenden Schritt darstellt, von dem es
+in der Regel kein Zurück mehr gibt, es sei denn wegen äusserer Umstände, die
+eine Weiterverfolgung der Absicht erschweren oder verunmöglichen. Sachlogisch
+korrekt kann es aber nur auf denjenigen Schritt ankommen, von dem es in der
+Regel ein Zurück nur noch gibt, wenn äussere Umstände dazwischentreten (
+Niggli / Maeder
+, in: BSK Strafrecht I,
+3. Auflage, Art. 22 StGB, N. 10 f., m.w.H.).
+Der
+Beschuldigte hat – indem er mehrmals gewaltsam gegen den Kopf des Opfers
+einwirkte – offensichtlich mit der Ausführung des Versuchs begonnen.
+3.4.
+Die Verteidigung bringt sinngemäss vor, der Beschuldigte sei zur Zeit der Tat
+nur teilweise fähig gewesen, das Unrecht seiner Tat einzusehen und gemäss dieser
+Einsicht zu handeln (vgl. Erw. V. 2.2. ff.).
+Die
+Verteidigung bringt weiter vor, der Alkoholkonsum habe die ohnehin gestörte
+Impulskontrolle des Beschuldigten weiter beeinträchtigt.
+Es ist nachfolgend zu prüfen, ob zum Tatzeitpunkt eine verminderte
+Schuldfähigkeit gemäss Art. 19 Abs. 2 StGB bestand.
+Der
+erstellte Konsum einer halben Flasche Wodka ab 4:00 Uhr, die um 6:00 Uhr
+durchgeführte Messung des Alkoholwertes mit einem Ergebnis zwischen
+1.05 – 1.11
+‰ sowie die Videoaufnahmen
+die keine erheblichen Koordinations- und Gleichgewichtsstörungen zeigen,
+lassen gewisse Zweifel an der eingeschränkten Schuldfähigkeit des Beschuldigten
+aufkommen. Aufgrund der gutachterlich festgestellten Störung der
+Impulskontrolle (Gutachten
+[…]
+) ist jedoch zugunsten des Beschuldigten
+von einer verminderten Schuldfähigkeit leichten Grades
+auszugehen und die Strafe entsprechend zu mildern.
+3.5. Es
+bestehen im Übrigen keine Rechtfertigungs- oder Schuldausschlussgründe, zumal
+der Beschuldigte von seiner ursprünglichen Version der Notwehr Abstand genommen
+hat (vgl. Einvernahme vom 7. November 2014 und Einvernahme vom
+9. Dezember 2014).
+3.6.
+Der Beschuldigte ist somit der versuchten schweren Körperverletzung im Sinne
+von Art. 122 StGB i. V. m. Art. 22 StGB, bei verminderter Schuldfähigkeit
+(leichten Grades) im Sinne von Art. 19 Abs. 2 StGB, schuldig zu sprechen.
+4. Rechtliche Würdigung: Versuchter Raub
+Wer mit Gewalt gegen eine Person oder unter Androhung
+gegenwärtiger Gefahr für Leib oder Leben oder nachdem er den Betroffenen zum
+Widerstand unfähig gemacht hat, einen Diebstahl begeht, wird mit
+Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe nicht unter 180 Tagessätzen
+bestraft (Art. 140 Ziff. 1 StGB).
+4.1.
+Vollendet ist der eigentliche Raub mit der Vollendung des Diebstahls. Ansonsten
+kommt nur Versuch in Betracht.
+Vorliegend
+konnte der Beschuldigte seinem Opfer weder zwanzig Franken noch das
+Portemonnaie abnehmen. Der Erfolg ist vorliegend nicht eingetreten, weshalb
+zu prüfen ist, ob sich der Beschuldigte wegen
+versuchten
+Raubes
+strafbar gemacht hat. Bezüglich theoretischer Ausführungen zum Versuch wird
+auf Erwägung V. 3.3. verwiesen.
+4.2.
+Zunächst stellt sich die Frage, ob der Beschuldigte einen Raub im Sinne von
+Art. 140 Ziff. 1 StGB begehen wollte und begangen hätte, wäre er nicht
+aufgrund äusserer Umstände daran gehindert worden.
+Dafür
+ist der Grundtatbestand des Raubes zu betrachten: Erforderlich ist ein Diebstahl
+unter Anwendung der in Art. 140 Ziff. 1 StGB alternativ aufgezählten Nötigungshandlungen.
+Der
+Beschuldigte drohte dem Opfer, das Knie gegen den Kopf zu stossen, wenn
+dieser das Bargeld und/oder Portemonnaie nicht herausgebe. Dabei handelte es
+sich klarerweise um eine Nötigungshandlung im Sinne von Art. 140 Ziff. 1
+StGB, welche geeignet ist, einen besonnen Menschen zu beugen (
+Niggli / Maeder
+, in: BSK Strafrecht
+II, 3. Auflage, Art. 140 StGB, N. 30, m.w.H.).
+Grundsätzlich
+beginnt der Versuch des Raubes mit dem unmittelbaren Ansetzen zur
+Nötigungshandlung, sofern diese von der Absicht getragen wird, einen Diebstahl
+zu begehen (
+Niggli / Riedo
+,
+a.a.O., Art. 140 StGB, N. 172, m.w.H.). Die Androhung des
+Beschuldigten, dem Opfer einen Kniestoss gegen den Kopf zu verpassen, ist mit
+der Absicht einen Diebstahl zu begehen, ausgesprochen worden. Der Beschuldigte
+handelte mit Tatentschluss, einen Raub zu begehen. Betreffend die verminderte
+Schuldfähigkeit ist auf die Erwägung V. 3.4. zu verweisen.
+4.3.
+Der Beschuldigte ist somit des versuchten Raubes im Sinne von Art. 140 Ziff.
+1 StGB i. V. m. Art. 22 StGB, in verminderter Schuldfähigkeit (leichten
+Grades) im Sinne von Art. 19 Abs. 2 StGB schuldig zu sprechen.
+VI. Vorfall [...]
+1. Sachverhalt:
+Die Jugendanwaltschaft beschreibt auf Seite 10 der
+Anklageschrift vom 7. Dezember 2016 den vorgeworfenen Sachverhalt wie folgt:
+"Nach dem Vorfall auf dem Parkhausdeck des
+Bahnhof-Parkplatzes schauten sich der Beschuldigte und
+Q.______
+zunächst das
+beim Vorfall aufgenommene Video an und fassten zusammen den Entschluss, dass
+diesmal
+Q.______
+eine ihnen unbekannte Person schlagen könnte.
+Diesmal hielt der Beschuldigte das Mobiltelefon in der
+Hand, um den nächsten Übergriff zu filmen. Der Angreifer
+Q.______
+[…] drehte
+sich noch kurz zum Beschuldigten B.______ um, um sicher zu sein, dass er das
+Mobiltelefon bereit zum Filmen hatte. Sogleich griff
+Q.______
+den
+ahnungslosen Fussgänger E.______ mit Faustschlägen an. Dieser weitere Übergriff
+in der Fussgängerzone der [...] in [...], ebenfalls am 7. November, um
+ca. 5.50 Uhr, erfolge ohne jegliche Vorwarnung für das Opfer, weswegen
+der Geschädigte E.______ bereits beim ersten Angriff zu Boden ging.
+Q.______
+verpasste
+dem am Boden liegenden Opfer weitere, mehrere massive Schläge und Fusstritte
+gegen den Kopf. Die Details können auch hier der Videoaufnahme entnommen
+werden […]. Einziges Ziel von ihm war, den Kopf brutal zu attackieren. Er
+traktierte den Geschädigten weiter, als dieser bereits regungslos am Boden
+lag. Nebst gezielten Faust- und Fussschlägen, trat
+Q.______
+mit voller
+Wucht auf den Kopf des Opfers ein, also er kickte ,,nicht nur" von der
+Seite auf den Kopf des Opfers, sondern trat mit dem Fuss von oben her auf das
+Opfer ein.
+Der Beschuldigte machte freiwillig über den ganzen
+Vorfall mit einem Mobiltelefon eine Videoaufnahme. Dabei lachte und johlte
+der Beschuldigte. Die Videoaufnahmen zeigen auch diese Situation im Detail
+und es machte überhaupt nicht den Eindruck, dass er zum Filmen gezwungen
+worden wäre, vielmehr zeigt auch diese Sequenz, dass es dem Beschuldigten
+Spass machte […].
+Die Schläge und vor allem die grosse Anzahl von
+Fusstritten auf den Kopf des Opfers E.______ sind massive Gewalteinwirkungen
+auf den Kopf. Auf der Fotodokumentation sind auch hier die Spuren der Schläge
+auf den Kopf sichtbar. Auch ging die Brille des Geschädigten kaputt […]. Auch
+das Foto, welches der Geschädigte der Jugendanwaltschaft einreichte, zeigt
+die massive Gewalteinwirkung […]. Durch die Videoaufnahme ist zudem erstellt,
+dass auch dieses Opfer bewusstlos geschlagen wurde. Gemäss Arztbericht vom 7.
+November 2014 zeigte sich beim Opfer im Bereich der linken Stirn ein
+ausgedehntes Hämatom von ca. 10 cm Durchmesser. Weiter konnte der Arzt über
+den gesamten Schädel verteilt mehrere Prellmarken feststellen. Auch war die
+linke Ohrmuschel stark angeschwollen […]. Mit Schreiben vom 6. August 2015
+teilte der Geschädigte der Jugendanwaltschaft mit, dass er immer noch an
+Schwindelanfällen leide und seit dem Vorfall mehrfach medizinische Hilfe in
+Anspruch nehmen musste. Seine Lebensqualität habe unter dem Vorfall stark gelitten
+[…].
+1.1.
+Der Beschuldigte ist bezüglich des von der Jugendanwaltschaft erstellten
+Sachverhalts – mit Ausnahme der nachfolgend vorgebrachten Einwände – geständig,
+weshalb der Sachverhalt lediglich mit Blick auf diese Einwände zu erstellen
+ist.
+1.2.
+Der Beschuldigte bringt vor, er habe lediglich einen Teil des Videos angesehen,
+da er [mit dem Vorfall im Bahnhofparkhaus [...]] "zuerst
+klarkommen" habe müssen. Ausserdem sei der Angriff auf E.______
+ungeplant und zufällig passiert, es sei nichts abgesprochen gewesen.
+1.2.1.
+Anlässlich der polizeilichen Einvernahme vom 7. November 2014 sagte Q.______
+aus, er habe zusammen mit dem Beschuldigten das Video angesehen.
+Anschliessend hätten sie über die erste Tat und über "streetfights"
+gesprochen (Einvernahme vom 7. November 2014 und Einvernahme im
+Gefängnis [...] vom 8. Dezember 2014). Q.______ sagte in sämtlichen in den
+Akten liegenden Einvernahmen, er und der Beschuldigte hätten gemeinsam
+entschieden, die Rollen zu tauschen.
+Mit den
+Aussagen des Q.______ konfrontiert, bestätigte der Beschuldigte, dass im
+Stadtpark ein solches Gespräch stattgefunden habe. Über den Inhalt des Gesprächs
+schwieg er sich indes aus (staatsanwaltliche Einvernahme vom 12. November
+2014).
+1.2.2.
+Den Aussagen des E.______ ist zu entnehmen, er habe den Beschuldigten und
+Q.______ auf Höhe des Fussgängerstreifens eingangs [...] erstmals wahrgenommen.
+Kurz bevor er in die [...] abbiegen habe können, sei er angegriffen worden
+(Einvernahme vom 7. November 2014). Es ist folglich davon auszugehen, dass
+der Beschuldigte und Q.______ den E.______ seit eingangs [...] bis Ecke [...]
+verfolgten, was einer Strecke von zirka 50 Metern entspricht.
+1.3.
+Zugunsten des Beschuldigten ist davon auszugehen, er habe lediglich einen
+Teil des Videos zusammen mit Q.______ angesehen. Im Weiteren haben sich die
+beiden Täter gemeinsam zum Rollentausch entschieden. Zugunsten des Beschuldigten
+ist weiter davon auszugehen, dass sich die beiden Täter betreffend genaue
+Ausführung und Umfang des Angriffs auf E.______ nicht abgesprochen haben.
+Entgegen
+der Ansicht des Beschuldigten, die ganze Sache sei ungeplant und zufällig
+passiert, ist aufgrund der genannten Umstände davon auszugehen, dass es sich
+bei E.______ zwar um ein Zufallsopfer handelte, welches jedoch gezielt ausgesucht
+und verfolgt wurde, um im richtigen Augenblick die Aufnahme zu starten und
+anzugreifen.
+2.
+Rechtliche Würdigung: Versuchte vorsätzliche Tötung
+Wer
+vorsätzlich einen Menschen tötet, ohne dass eine der besonderen Voraussetzungen
+der nachfolgenden Artikel zutrifft, wird mit Freiheitsstrafe nicht unter fünf
+Jahren bestraft (Art. 111 StGB). Es liegen keine besonderen Voraussetzungen
+der Art. 112 ff. StGB vor, weshalb Art. 111 StGB zur
+Anwendung kommt (
+Schwarzenegger
+,
+in: BSK Strafrecht II, 3. Auflage, Art. 111 StGB, N. 10).
+Es
+stellt sich die Frage, ob sich der Beschuldigte als Mittäter wegen versuchter
+vorsätzlicher Tötung gemäss Art. 111 StGB i.V.m. Art. 22 Abs. 1 StGB strafbar
+gemacht hat.
+2.1.
+Diesbezüglich ist vorerst die strafbare Handlung des Mittäters, Q.______, zu
+subsumieren.
+Q.______
+trat und stampfte mehrfach und teilweise äusserst massiv auf den Kopf des
+E.______ ein, nachdem er diesen zuvor mit einem Faustschlag niederstreckte.
+Dabei erlitt E.______ ein ausgedehntes Hämatom an der linken Stirn. Weiter wurden,
+über den gesamten Schädel verteilt, Prellmarken festgestellt. Nach Aussage
+des E.______ vom 6. August 2016 leide er immer noch an Schwindelanfällen und
+nehme seit diesem Vorfall medizinische Hilfe in Anspruch. Unzweifelhaft hat
+Q.______ mit seiner Handlung den objektiven Tatbestand einer vollendeten einfachen
+Körperverletzung erfüllt.
+Vorliegend
+stellt sich jedoch die Frage, ob die Tathandlung des Q.______ in objektiver
+und subjektiver Hinsicht auf die (eventual-)vorsätzliche Herbeiführung des Todes
+von E.______ gerichtet war.
+Als
+Tathandlung im Sinne von Art. 111 StGB genügt jede Art der Verursachung des
+Todes eines lebenden Menschen, wobei der Täter beliebige Tatmittel einsetzen
+kann (
+Schwarzenegger
+, a.a.O.,
+Art. 111 StGB, N. 4). Der tatbestandsmässige Erfolg im Sinne von Art.
+111 StGB ist offensichtlich nicht eingetreten. Hingegen ist die gewaltsame
+Einwirkung des Q.______ (Faustschlag, mehrere Fusstritte und Stampfen) gegen
+den Kopf des E.______ grundsätzlich geeignet, dessen Tod herbeizuführen. Das
+Versuchsstadium ist zudem klar erreicht (vgl. die Ausführungen zum Versuch
+in Erw. V. 3.3.).
+Wer
+mehrfach und teilweise mit erheblicher Kraft auf den Kopf einer Person – die
+bereits durch einen Faustschlag niedergestreckt und regungslos am Boden
+liegen bleibt – einstampft und dagegen tritt, nimmt ernsthaft in Kauf, das
+Leben dieser Person zu beenden, auch wenn ihm dies grundsätzlich unerwünscht
+sein mag. Q.______ handelte somit eventualvorsätzlich in Bezug auf die Tötung
+gemäss Art. 111 StGB (vgl. die Ausführungen zum Eventualvorsatz in
+Erw. V. 3.2.1.).
+Q.______
+hat sich folglich wegen versuchter vorsätzlicher Tötung gemäss Art. 111 StGB
+i.V.m. Art. 22 Abs. 1 StGB strafbar gemacht.
+2.2.
+Nach der Rechtsprechung des Bundesgerichts ist
+Mittäter, wer bei der Entschliessung, Planung oder Ausführung eines Deliktes
+vorsätzlich und in massgebender Weise mit anderen Tätern zusammenwirkt, so
+dass er als Hauptbeteiligter dasteht. Dabei kommt es darauf an, ob der
+Tatbeitrag nach den Umständen des konkreten Falles und dem Tatplan für die
+Ausführung des Deliktes so wesentlich ist, dass sie mit ihm steht oder fällt.
+Das blosse Wollen der Tat, der subjektive Wille allein genügt zur Begründung
+von Mittäterschaft jedoch nicht. Der Mittäter muss vielmehr bei der
+Entschliessung, Planung oder Ausführung der Tat auch tatsächlich mitwirken.
+Daraus folgt aber nicht, dass Mittäter nur ist, wer an der eigentlichen Tatausführung
+beteiligt ist oder sie zu beeinflussen vermag (Urteil des Bundesgerichts vom
+21. Februar 2007).
+2.3.
+Soweit die Verteidigung vorbringt, der Beschuldigte habe keine Tatherrschaft
+gehabt, weil er an der eigentlichen Tatausführung nicht selbst mitgewirkt
+habe, kann ihr nicht gefolgt werden. Die tatbestandsmässige
+Ausführungshandlung ist keine notwendige Voraussetzung für die Annahme von
+Mittäterschaft (Entscheid des Bundesgerichts vom 21. Februar 2007;
+Trechsel / Jean-Richard
+, in:
+Schweizerisches Strafgesetzbuch, Praxiskommentar, Zürich / St. Gallen
+2008, Vor Art. 24 StGB, N. 17). Nach der Theorie der funktionellen
+Tatherrschaft ist entscheidend, ob der Tatbeitrag im Rahmen des Gesamtplans
+im Ausführungsstadium eine unerlässliche Voraussetzung für die Verwirklichung
+des angestrebten Erfolgs bildet, also so wichtig ist, dass mit ihm das ganze
+Unternehmen steht oder fällt (
+Trechsel
+/ Jean-Richard
+, a.a.O., Vor Art. 24 StGB, N. 10 f., m.w.H.).
+2.4.
+Somit ist zu prüfen, ob der Beschuldigte wenigstens in einem der drei Stadien
+(
+Entschlussfassung, Planung oder
+Ausführung)
+in für die Tat massgebender
+Weise mit dem Täter zusammengewirkt hat,
+wobei auf die Gesamtheit der Umstände des Tatgeschehens
+abzustützen ist (
+Rehberg / Donatsch
+,
+in: Verbrechenslehre, Strafrecht I, 7. Auflage, S. 140;
+Forster
+, in: BSK Strafrecht I, 3. Auflage, Vor Art. 24 StGB, N.
+8
+).
+Aus den
+Akten geht eindeutig hervor, dass sich der Beschuldigte und Q.______ das
+Video des Vorfalls im Bahnhofparkhaus, zumindest teilweise, ansahen und – von
+der vorherigen Tat zum Nachteil von D.______ inspiriert – den Grundsatzentscheid
+trafen, die Rollen zu tauschen, eine unbekannte Person grundlos zusammenzuschlagen
+und den Vorfall mit der Kamera des Mobiltelefons festzuhalten.
+Wie
+beim "Happy Slapping" üblich, ist das Aufzeichnen des Vorfalls auch
+vorliegend essentieller Bestandteil der Tat (
+Riedo
+/ Lognowicz
+, Happy Slapping: Einmal Opfer, immer Opfer, Jusletter vom
+13. Juli 2009, S. 2). Ebenso ist der gewalttätige Angriff scheinbar
+unmotiviert, womit gemeint ist, dass sich dem unbefangenen Beobachter kein
+nachvollziehbares Motiv erschliesst. Ob es nun darum ging, Anerkennung zu
+bekommen oder ob die Tat lediglich aus Langeweile geschah oder ob es andere Beweggründe
+gab, kann offen bleiben (
+Riedo /
+Lognowicz
+, a.a.O., S. 3). Jedenfalls ist die Mitwirkung desjenigen,
+der die Tat aufzeichnen soll, so wichtig, dass mit ihm das ganze Unternehmen
+steht oder fällt. Der hohe Stellenwert der Aufzeichnung zeigt sich
+insbesondere dadurch, dass sich Q.______ kurz vor dem Angriff beim
+Beschuldigten erkundigte, ob die Kamera laufe und mit dem Angriff erst
+begann, als dieser ihm versicherte, die Aufzeichnung gestartet zu haben. Somit
+ist davon auszugehen, dass wenn sich der Beschuldigte geweigert hätte zu filmen,
+auch Q.______ mit hoher Wahrscheinlichkeit von seinem Vorhaben abgerückt
+wäre. Unter Würdigung der gesamten Umstände ist somit erstellt, dass der
+Beschuldigte in für die Tat massgebender Weise mit Q.______ zusammenwirkte
+und somit an der Tatherrschaft teilhatte.
+2.5.
+Unabdingbare Voraussetzung für Mittäterschaft bildet der koordinierte Vorsatz,
+d.h. ein gemeinsamer Tatentschluss (
+Trechsel
+/ Jean-Richard
+, a.a.O., Vor Art. 24 StGB, N. 13 ff.). Der
+gemeinsame Tatentschluss braucht nicht ausdrücklich zu sein, er kann auch
+bloss konkludent bekundet werden (
+Forster
+,
+a.a.O., Vor Art. 24 StGB, N. 12;
+Rehberg / Donatsch
+,
+a.a.O.
+, S. 141, m.w.H.
+).
+Selbst
+wenn – wie vom Beschuldigten vorgebracht – keine ausdrückliche Absprache
+bezüglich der später begangenen Tat erfolgte, so ist zumindest von einem
+konkludenten Tatentschluss auszugehen. Hierfür spricht eindeutig, dass sich
+die beiden das Video vom Vorfall im Bahnhofparkhaus [...] – zumindest
+teilweise – ansahen. Zudem weist die Tatausführung durch Q.______ –
+mehrfache, wuchtige Tritte gegen den Kopf eines widerstandsunfähigen Opfers –
+starke Ähnlichkeiten mit der Schlussszene des ersten Vorfalls, in welcher der
+Beschuldigte mit einem Fusstritt und einem Kniestoss gegen den Kopf eines
+widerstandsunfähigen Opfers einwirkte. Mitunter bestehen keine Zweifel, dass
+ein konkludenter Tatentschluss erfolgte, welcher sich an dem auf Video
+festgehaltenen Vorfall im Bahnhofparkhaus [...] anlehnte und darauf abzielen
+sollte, das Opfer bewusstlos zu schlagen.
+Es ist
+an dieser Stelle darauf hinzuweisen, dass die gewaltsame Einwirkung des Beschuldigten
+gegenüber D.______ als versuchte, eventualvorsätzliche schwere Körperverletzung
+zu qualifizieren ist. Dies lässt jedoch nicht den Schluss zu, die beiden
+Täter hätten sich konkludent erneut auf die Herbeiführung einer schweren
+Körperverletzung geeinigt. Vielmehr ist davon auszugehen, dass wenn sich der
+Beschuldigte und Q.______ besagtes Video angesehen und entschieden haben, die
+Rollen zu tauschen, sie ihren Tatentschluss gerade nicht in Anlehnung an eine
+klare juristische Begriffsabgrenzung getroffen, sondern – und dafür spricht
+auch die gegenüber einem ausdrücklich ergangenen Tatentschluss notorisch
+unpräzisere, konkludente Entschlussfassung – lediglich einen groben
+Erfolgsrahmen abgesteckt haben.
+Es
+stellt sich nun vorwiegend die Frage, ob die Begrenzung des Erfolgs im Entschluss
+der Mittäter dort zu liegen kommt, wo Gefahr für das Leben droht. In Anlehnung
+an die Aufzeichnung des ersten Vorfalls ist davon auszugehen, dass beide in
+Kauf nahmen, eine weitere Person bewusstlos zu schlagen. Im Wissen um die gemeinsame
+Erfahrung aus dem ersten Vorfall kann es den beiden Tätern ausserdem nicht
+entgangen sein, dass massive, wiederholte Gewalt gegen den Kopf benötigt
+wird, um jemanden in den Zustand der Bewusstlosigkeit zu befördern.
+2.6.
+Entscheidend für den Umfang der Verantwortlichkeit ist der vom jeweiligen Mittäter
+gefasste Vorsatz (
+Rehberg / Donatsch
+,
+a.a.O., S. 148).
+Jedem Mittäter werden – in
+den Grenzen seines (Eventual-)Vorsatzes – die kausalen Tatbeiträge der
+anderen Mittäter angerechnet (
+Forster
+,
+a.a.O., Vor Art. 24 StGB, N. 8;
+Stratenwerth
+,
+a.a.O., S. 391). Gemäss bundesgerichtlicher Rechtsprechung ist es nicht
+erforderlich, dass der Mittäter bei der Entschlussfassung mitwirkte, es
+genügt, wenn er sich später den Vorsatz seines Mittäters zu Eigen macht (
+Trechsel / Jean-Richard
+, a.a.O., Vor
+Art. 24 StGB, N. 12, m.w.H.). Der gemeinsame Entschluss begrenzt
+zugleich die mittäterschaftliche Haftung. Ein Exzess ist grundsätzlich nur
+demjenigen zuzurechnen, der ihn begangen hat (
+Stratenwerth
+,
+a.a.O., S. 391). Die Grenze für die subjektive Zurechnung von
+mittäterschaftlichem Handeln liegt mithin dort, wo ein vom gemeinsamen
+Tatplan abweichender Ablauf für einen Beteiligten nicht vorhersehbar ist und
+von ihm deshalb auch nicht gebilligt werden kann (Urteil des Bundesgerichts
+vom 21. Februar 2007).
+2.6.1.
+Bringt die Verteidigung vor, der Angriff des Q.______ auf E.______ sei rücksichtsloser
+gewesen als derjenige des Beschuldigten gegen D.______ und die Brutalität des
+Q.______ sei für den Beschuldigten nicht erkennbar gewesen, so bestreitet sie
+sinngemäss, dass die beiden Mittäter denselben Vorsatz hatten.
+Es
+bestehen mitunter keine Anhaltspunkte dafür, dass der Beschuldigte dem Vorgehen
+des Q.______ ablehnend gegenüberstand. Unzweifelhaft hat Q.______ zeitlich
+nur sehr kurz auf das Opfer eingewirkt, weshalb der Ansicht der Verteidigung
+zu folgen ist, die davon ausgeht, dass eine physische Intervention des
+Beschuldigten nicht rechtzeitig hätte erfolgen können. Dem ist
+entgegenzuhalten, dass der Beschuldigte durch Zurufe die Möglichkeit gehabt
+hätte bzw. zumindest hätte den Versuch unternehmen müssen, Q.______ zu
+stoppen. Vielmehr lachte der Beschuldigte – wobei vielmehr von schallendem
+Gelächter zu sprechen ist – während er die ganze Szene mit der Kamera des
+Mobiltelefons festhielt. Das Verhalten des Beschuldigten kann
+vernünftigerweise nur als Billigung der konkreten Handlungsweise des Q.______
+und damit als Inkaufnahme des entsprechenden Erfolgs ausgelegt werden. Dem
+Beschuldigten ist daher vorzuwerfen, er habe sich den Tötungsvorsatz des
+Q.______ sukzessiv angeeignet.
+2.6.2.
+Bringt die Verteidigung vor, der Angriff des Q.______ auf E.______ sei rücksichtsloser
+gewesen als derjenige des Beschuldigten gegen D.______, so macht sie
+sinngemäss einen Exzess geltend.
+Wie
+bereits erstellt, forderte Q.______ den Beschuldigten im Bahnhofparkhaus
+mehrmals auf, D.______ zu schlagen. So auch als er den Beschuldigten
+aufforderte, dem bereits sicht- und hörbar angeschlagenen D.______ einen
+Fusstritt zu verpassen, worauf dieser in Ohnmacht fiel
+(Erw. V. 1.1. ff.). Der Beschuldigte musste damit rechnen,
+dass Q.______ auf das Opfer so lange einwirken werde, bis dieses bewusstlos
+liegen bleibt. Bezeichnet die Verteidigung den Q.______ als eigentlichen
+Aggressor der beiden Täter, so deutet sie selbst an, mit welchem
+Gewaltpotenzial der Beschuldigte hätte rechnen müssen.
+Selbst
+wenn mit der Verteidigung davon auszugehen wäre, dass es sich beim Vorgehen
+des Q.______ um einen Exzess des konkludent gefassten Tatentschlusses
+handelt, so muss sich der Beschuldigte diesen dennoch entgegenhalten lassen.
+So musste für ihn – gerade weil keine explizite Absprache stattfand – ein
+abweichender Ablauf vom gemeinsamen Tatplan vorhersehbar gewesen sein.
+Insbesondere im Lichte der Ereignisse dieser Nacht musste der Beschuldigte
+die hohe Wahrscheinlichkeit erkennen, dass Q.______ den einen Schritt zu weit
+gehen könnte. Folglich ist dem Beschuldigten der Tatbeitrag des Q.______
+anzurechnen.
+2.7. Sind an einer Tat mehrere Täter oder Teilnehmer
+beteiligt, so kann das Gericht die Strafe dessen mildern oder von der
+Bestrafung dessen absehen, der aus eigenem Antrieb dazu beiträgt, die
+Vollendung der Tat zu verhindern (Art. 23 Abs. 2 StGB). Der Täter muss durch
+Gegenmassnahmen bewirken, dass der Erfolg ausbleibt, zum Beispiel in dem er
+dafür sorgt, dass Dritte rettend eingreifen (Niggli / Maeder, a.a.O.,
+Art. 23 StGB, N. 13). Vorausgesetzt ist, dass der Täter aus eigenem
+Antrieb tätig wird (Niggli / Maeder, a.a.O., Art. 23 StGB, N. 9). Tätige
+Reue kommt auch beim Versuch in Betracht, nur darf der Täter noch nicht
+bemerkt haben, dass der Erfolg ohnehin nicht eintreten wird. Dass der Erfolg
+aus anderen Gründen als der tätigen Reue ausbleibt, schmälert deren
+Verdienstlichkeit nicht, wenn auch sie die Vollendung der Tat verhindert
+hätte (Niggli / Maeder, a.a.O., Art. 23 StGB, N. 15).
+Die
+Verteidigung bringt vor, der Beschuldigte habe nach dem Angriff auf E.______
+den Polizeibeamten mitgeteilt, wo sich dieser befinde. Bereits anlässlich der
+polizeilichen Einvernahme vom 7. November 2014 habe der Beschuldigte diese
+Aussage gemacht.
+Es ist
+davon auszugehen, dass der Beschuldigte im Zeitpunkt, als er die Polizeibeamten
+aus eigenem Antrieb zu E.______ führte, noch nicht bemerkte, dass der Erfolg
+ohnehin nicht eintreten würde. Die Strafe ist daher entsprechend Art. 23 Abs.
+2 StGB angemessen zu mildern.
+2.8.
+Der Beschuldigte ist somit der versuchten vorsätzlichen Tötung im Sinne von
+Art. 111 StGB i.V.m. Art. 22 Abs. 1 StGB und 23 Abs. 2 StGB, in
+verminderter Schuldfähigkeit (leichten Grades) im Sinne von Art. 19 Abs. 2
+StGB schuldig zu sprechen. Betreffend die verminderte Schuldfähigkeit des
+Beschuldigten sind die Erwägungen V. 3.4. heranzuziehen.
+VII. Gewalt und Drohung gegen Behörden und Beamte
+Der
+Beschuldigte ist geständig Polizeibeamte durch Gewalt und Drohung an einer
+Amtshandlung gehindert zu haben. Das Geständnis stimmt mit dem Ergebnis der
+Strafuntersuchung überein und die rechtliche Würdigung der Jugendanwaltschaft
+ist nicht zu beanstanden.
+Der
+Beschuldigte ist daher nach Art. 285 Ziff. 1 Abs. 1 StGB, in
+verminderter Schuldfähigkeit (leichten Grades) im Sinne von Art. 19 Abs. 2 StGB
+schuldig zu sprechen. Betreffend die verminderte Schuldfähigkeit des
+Beschuldigten sind die Erwägungen V. 3.4. heranzuziehen.
+VIII. Vorfall [...]
+1.
+Sachverhalt
+Die
+Jugendanwaltschaft geht gemäss Seite 12 und 13 der Anklageschrift vom 7. Dezember
+2016 von folgendem Sachverhalt aus:
+"Am 20. Januar 2016 auf den 21. Januar 2016, die
+genaue Uhrzeit ist nicht bekannt, brach der Beschuldigte B.______ zusammen
+mit R.______ […] auf dem Parkplatz an der [...] (Parkplatz [...]) in [...]
+mit einem Multi-Tool ,,[...] " einen Personenwagen, einen roten Citro
+ë
+n [...]
+(Fahrzeughalterin F.______, Fahrer Ehemann G.______) auf. Der Beschuldigte
+bestreitet, das Auto zusammen mit […] R.______ aufgebrochen zu haben, er
+macht geltend, dieses sei offen gewesen. Der Beschuldigte behauptete sowohl
+bei der polizeilichen Einvernahme vom 24. Januar 2016 und 16. März 2016 […]
+als auch bei der jugendanwaltschaftlichen Einvernahme vom 18. August 2016 […]
+dieses Werkzeug [nicht] für den Aufbruch des Autos verwendet zu haben. Er
+behauptet, der Schaden am Türschloss im Betrag von Fr. 500.-- sei nicht durch
+sie erfolgt. Er macht geltend, er hätte dieses Werkzeug im lnneren des Autos
+verloren, als sie dieses auf Gegenstände durchsucht haben. Unbestritten ist,
+dass er und R.______ Wertgegenstände im Betrag von Fr. 1'290.‑ aus dem
+Citro
+ë
+n
+gestohlen haben. Diese Wertgegenstände gehörten teilweise F.______ und
+teilweise G.______ […]. lm roten Citro
+ë
+n [...] befand sich auch der Ersatzschlüssel des weissen
+Fiat [...] (Fahrzeughalterin und Fahrerin F.______). Mit dem Ersatzschlüssel
+entwendete der Beschuldigte zusammen mit R.______ den vorgenannten Fiat in
+der Nacht vom 20. auf den 21. Januar 2016 auf dem Parkplatz an der [...]
+(Parkplatz [...]) in [...]. Der Beschuldigte B.______ wie auch R.______
+lenkten diesen Fiat, unter anderem auch nach [...]. ln [...] beschädigte der
+R.______ den Seitenspiegel des Personenwagens Fiat (Sachschaden Fr. 200.‑).
+Halterin der beiden Fahrzeuge, des Citro
+ë
+n und des Fiat, ist F.______, wohnhaft in [...]. Der
+entsprechende Strafantrag der Privatklägerin liegt vor und wurde fristgemäss
+eingereicht […]. Die beiden Beschuldigten fuhren mit dem gestohlenen Fahrzeug
+unter anderem von [...] nach [...], nach [...], nach [...], nach [...], nach
+[...] und nach [...]. Diese Orte sind durch die verschiedenen Tatbegehungen
+erstellt […]."
+1.1.
+Der Beschuldigte ist bezüglich des Diebstahls und der Entwendung eines Motorfahrzeuges
+zum Gebrauch geständig. Der Sachverhalt in Bezug auf diese Vorwürfe ist
+erstellt.
+1.2. Die
+Verteidigung bestreitet, dass der Beschuldigte den Seitenspiegel des Fiat
+beschädigt habe. Die Jugendanwaltschaft geht im Übrigen davon aus, dass
+R.______ den Seitenspiegel beschädigt hat
+(vgl. Erw. VIII. 1.). Hinweise für ein gemeinsames Tatvergehen
+sind nicht ersichtlich, weshalb der Sachverhalt nicht weiter zu erstellen
+ist.
+1.3.
+Der Beschuldigte bestreitet, den Citroën aufgebrochen zu haben. In diesem Zusammenhang
+ist auf den Bericht des kriminaltechnischen Dienstes vom 9. Februar 2016 zu
+verweisen, welcher besagt, dass das Türschloss des Citroën beschädigt war und
+zudem im Innenraum des Fahrzeuges das Werkzeug Multi Tool "[...]" gefunden
+und B.______ zugeordnet werden konnte.
+2.
+Diebstahl
+Der
+Beschuldigte ist geständig, die Gegenstände gemäss Auflistung im Bericht zum
+Fahrzeugeinbruchdiebstahl vom 21. Januar 2016 gestohlen zu haben. Das Geständnis
+stimmt mit dem Ergebnis der Strafuntersuchung überein und die rechtliche
+Würdigung der Jugendanwaltschaft ist nicht zu beanstanden. Entsprechend ist
+der Beschuldigte nach Art. 139 Ziff. 1 StGB schuldig zu sprechen ist.
+3.
+Entwendung eines Motorfahrzeuges zum Gebrauch
+Der
+Beschuldigte ist geständig, das Motorfahrzeug Fiat zum Gebrauch entwendet zu
+haben. Das Geständnis stimmt mit dem Ergebnis der Strafuntersuchung überein
+und die rechtliche Würdigung der Jugendanwaltschaft ist nicht zu beanstanden,
+weshalb der Beschuldigte nach Art. 94 Abs. 1 lit. a SVG schuldig zu sprechen
+ist.
+4.
+Mehrfache Sachbeschädigung
+Nach
+Art. 144 Abs. 1 StGB wird, auf Antrag mit Freiheitsstrafe bis zu drei Jahren
+oder Geldstrafe, bestraft, wer eine Sache, an der ein fremdes Eigentums-, Gebrauchs-
+oder Nutzniessungsrecht besteht, beschädigt, zerstört oder unbrauchbar macht.
+Die
+Sachbeschädigung erfordert einen Vorsatz, wobei Eventualvorsatz genügt (
+Weissenberger,
+BSK Strafrecht II,
+3. Auflage, Art. 144 StGB, N. 81 ff.).
+4.1.
+Anlässlich der Hauptverhandlung bestritt die Verteidigung den Vorwurf der
+mehrfachen Sachbeschädigung. Der Beschuldigte gab anlässlich der Einvernahme
+vom 18. August 2016 an, R.______ habe den Seitenspiegel beschädigt, wovon im
+Übrigen auch die Jugendanwaltschaft in ihrer Anklageschrift ausgeht. Der
+Beschuldigte gab an, er sei nur Beifahrer gewesen.
+Ein
+(Eventual-)Vorsatz des Beschuldigten ist nicht nachgewiesen, weshalb er vom
+Vorwurf, er habe den Aussenspiegel des Fiat im Sinne von Art. 144 Abs. 1
+StGB beschädigt, freizusprechen ist.
+4.2.
+Der Beschuldigte bestreitet, das Türschloss des Motorfahrzeugs Citroën beschädigt
+zu haben. Wohl habe er ein Werkzeug dabeigehabt, dieses aber nicht verwendet.
+Das Motorfahrzeug sei unverschlossen gewesen. Die Verteidigung bringt vor,
+der Einbruch könne nicht nachgewiesen werden.
+Der
+Ansicht der Jugendanwaltschaft, welche mit an Sicherheit grenzender Wahrscheinlichkeit
+davon ausgeht, dass die beiden Täter den Citroën mit dem Werkzeug Multi Tool
+"[...]" aufgebrochen haben, ist nicht zu folgen. Insbesondere lässt
+sich aus dem Bericht des kriminaltechnischen Dienstes
+(vgl. Erw. VIII. 1.3.) nicht entnehmen, dass die Beschädigung
+am Türschloss des Citroën durch das besagte Werkzeug herbeigeführt wurde. Der
+Beweis ist nicht rechtsgenügend erbracht und der Beschuldigte entsprechend
+der Sachbeschädigung (Türschloss Citroën) im Sinne von Art. 144 Abs. 1
+StGB freizusprechen.
+IX. Führen eines Personenwagens ohne Führerausweis
+Der
+Beschuldigte ist geständig zwischen dem 20. Januar 2016 und dem 24. Januar
+2016 einen Personenwagen geführt zu haben, ohne im Besitz eines Führerausweises
+gewesen zu sein. Das Geständnis stimmt mit dem Ergebnis der Strafuntersuchung
+überein und die rechtliche Würdigung der Jugendanwaltschaft ist nicht zu beanstanden.
+Der Beschuldigte ist daher gemäss Art. 10 Abs. 2 SVG i.V.m. Art. 95
+Abs. 1 lit. a SVG schuldig zu sprechen.
+X. Mehrfacher geringfügiger Diebstahl
+Der
+Beschuldigte ist geständig zwischen dem 20. Januar 2016 und dem
+24. Januar 2016 mehrfach Diesel getankt zu haben und danach ohne zu
+bezahlen weggefahren zu sein. Es handelt sich dabei um geringfügige
+Vermögensdelikte nach Art. 172
+ter
+StGB i.V.m. Art. 139 Ziff. 1
+StGB, welche mit Busse zu bestrafen sind. Die Strafverfolgungsverjährung
+betreffend diese geringfügigen Diebstahlsdelikte ist mittlerweile eingetreten
+(Art. 36 Abs. 1 lit. c JStG) und der Beschuldigte daher vom besagten
+Vorwurf freizusprechen.
+XI. Nichtbeachtung eines Lichtsignals
+Die
+Jugendanwaltschaft wirft dem Beschuldigten vor, er habe am 22. Januar 2016
+ein Rotlicht überfahren und somit gegen Art. 27 Abs. 1 SVG, Art. 68 und
+69 Abs. 3 SSV i.V.m. Art. 90 Abs. 1 SVG verstossen. Die
+Strafverfolgungsverjährung ist mittlerweile eingetreten (Art. 36
+Abs. 1 lit. c JStG) und der Beschuldigte daher vom besagten Vorwurf
+freizusprechen.
+XII. Sanktion
+1.
+Werden Straftaten vor und nach Erreichen des 18. Lebensjahres begangen und im
+gleichen Verfahren beurteilt, ist bezüglich der Strafen ausschliesslich das Erwachsenenstrafrecht
+anwendbar (Art. 3 Abs. 2 JStG). Der Auffassung der Verteidigung, bezüglich
+der Strafzumessung sei das Jugendstrafrecht anzuwenden, ist daher nicht zu
+folgen. Jedoch ist Art. 49 Abs. 3 StGB zu beachten, wonach bei der Bildung
+der Gesamtstrafe die Jugenddelikte nicht stärker ins Gewicht fallen dürfen,
+als wenn sie für sich allein – das heisst nach Jugendstrafrecht – beurteilt
+worden wären.
+2. Das Gericht kann, den Umständen und dem Bedarf des
+Beschuldigten entsprechend, eine Massnahme nach Erwachsenen- oder
+Jugendstrafrecht anordnen (Art. 3 Abs. 2 JStG).
+Die Jugendanwaltschaft verweist auf die zahlreichen
+Hilfsangebote die dem Beschuldigten bisher angeboten wurden. Der Beschuldigte
+habe aber sämtliche Hilfe verweigert und seine Chancen nicht wahrgenommen.
+Unabhängig davon, wie die einzelnen Massnahmen ausgestaltet worden seien,
+habe sich nie ein Erfolg eingestellt. Davon würden auch die mehrfachen
+Kurvengänge (Ausbrüche aus den Institutionen) des Beschuldigten zeugen,
+sobald er sich im halboffenen Rahmen befinde.
+Der Ansicht der Jugendanwaltschaft, dass die Anordnung einer Massnahme – sei
+es nach StGB oder JStG (Art. 3 Abs. 2 JStG) – gegen den Willen des
+Beschuldigten nicht zielführend sei, ist zu folgen.
+3. Das
+Gericht misst die Strafe nach dem Verschulden des Täters zu. Es berücksichtigt
+das Vorleben und die persönlichen Verhältnisse sowie die Wirkung der Strafe
+auf das Leben des Täters (Art. 47 Abs. 1 StGB). Das Verschulden wird nach der
+Schwere der Verletzung oder Gefährdung des betroffenen Rechtsguts, nach der
+Verwerflichkeit des Handelns, den Beweggründen und Zielen des Täters sowie danach
+bestimmt, wie weit der Täter nach den inneren und äusseren Umständen in der
+Lage war, die Gefährdung oder Verletzung zu vermeiden (Art. 47 Abs. 2 StGB).
+Hinsichtlich
+der subjektiven Tatschwere ist das Ausmass der kriminellen Energie bzw. die
+Intensität des verbrecherischen Willens zu berücksichtigen (
+Trechsel / Affolter-Eijsten
+, in:
+Schweizerisches Strafgesetzbuch, Praxiskommentar, Zürich / St. Gallen 2008,
+N. 19 f., m.w.H.). Relevante Tatumstände sind ausserdem das Ausmass des
+verschuldeten Erfolgs, die Art und Weise der Herbeiführung des Erfolgs sowie
+die Beweggründe des Täters (
+Wiprächtiger
+/ Keller
+, in: BSK Strafrecht I, 3. Auflage, Art. 47 StGB, N. 85).
+Zum
+Vorleben gehören die Lebensgeschichte des Täters zur Zeit der Tat, sein Herkommen,
+das Verhältnis in der elterlichen Erziehung, seine Erziehung, seine Ausbildung
+und seine Haltung gegenüber den Gesetzen (
+Wiprächtiger
+/ Keller
+, a.a.O., Art. 47 StGB, N. 122;
+Trechsel / Affolter-Eijsten
+, a.a.O., Art. 47 StGB, N. 30,
+m.w.H.). Bei der Strafzumessung kommt allfälligen Vorstrafen eine ausserordentlich
+wichtige Rolle zu (
+Wiprächtiger /
+Keller
+, a.a.O., Art. 47 StGB, N. 130, m.w.H.).
+Die
+persönlichen Verhältnisse umfassen sämtliche Lebensumstände des Täters im
+Zeitpunkt der Strafzumessung, etwa Familienstand und Beruf, Gesundheit, soziale
+Herkunft, Lebenserfahrung oder Bildungsstand. Diese Umstände vermögen nämlich
+Aufschluss zu geben über das Mass der Schuld, mithin darüber, wie sehr oder
+wie wenig der Täter fähig gewesen wäre, die Rechtswidrigkeit der Tat zu
+erkennen oder den Antrieben zur rechtswidrigen Tat zu widerstehen (
+Wiprächtiger / Keller
+, a.a.O., Art. 47
+StGB, N. 146, m.w.H.). Ein Wohlverhalten seit der Tat stellt allerdings keine
+besondere Leistung dar. Die Straffreiheit seit der Tat ist neutral zu
+betrachten (
+Wiprächtiger / Keller
+,
+a.a.O., Art. 47 StGB, N. 147, m.w.H.). Jugendliches Alter wird dagegen
+strafmindernd berücksichtigt (
+Trechsel
+/ Affolter-Eijsten
+, a.a.O., Art. 47 StGB, N. 32, m.w.H.).
+Der
+Sachrichter entscheidet im Rahmen seines Ermessens über die Höhe der Strafe.
+Bei der Gewichtung der im Rahmen der Strafzumessung zu beachtenden Komponenten
+steht ihm ein erheblicher Ermessensspielraum zu (
+Trechsel / Affolter-Eijsten
+, a.a.O., Art. 47 StGB, N. 35,
+m.w.H.).
+4. Das
+Verschulden des Beschuldigten ist bezüglich der Hauptdelikte (Delikte gegen
+Leib und Leben) als erheblich zu qualifizieren. Gegen D.______ ist der Beschuldigte
+aus nichtigem Anlass mit schwerer Gewalt vorgegangen. Die Fusstritte und
+Kniestösse gegen den Kopf des sichtlich angeschlagenen Opfers waren von hoher
+Intensität. Die eingeschränkte Widerstandsfähigkeit von D.______ hat er
+skrupellos ausgenutzt und einen Raubversuch unternommen. Es bereitete ihm
+sichtliches Vergnügen, sein Opfer zu beleidigen, zu bespucken und zu
+schlagen; es schlichtweg zu dominieren. E.______ wurde ohne jeden Anlass und
+auf brutalste Art und Weise zusammengeschlagen. Bei beiden Vorfällen lachte
+der Beschuldigte, selbst als die beiden Opfer bewusstlos am Boden lagen. Nur
+dem Zufall ist es zu verdanken, dass sich die beiden Opfer nicht schwerer verletzt
+haben bzw. dass sie nicht gestorben sind. Beide Vorfälle waren insofern
+vermeidbar, als es keinen nachvollziehbaren Grund gab, die beiden Opfer mit
+derartig massiver Gewalt zu attackieren. Von fehlendem Unrechtsbewusstsein
+zeugt ausserdem sein fortgesetztes delinquentes Verhalten. So entwich der
+Beschuldigte am 20. Januar 2016 aus dem Massnahmenzentrum [...] und verübte
+im Anschluss einen Diebstahl und verstiess gegen das Strassenverkehrsgesetz.
+5.
+Anlässlich der Hauptverhandlung wies die Verteidigung auf die schwere
+Kindheit und die langjährige Heimkarriere des Beschuldigten hin, was im
+Übrigen auch aus den Akten hervorgeht.
+In persönlicher Hinsicht ist weiter bekannt,
+dass der Beschuldigte bereits in frühster Kindheit Verhaltensauffälligkeiten
+aufwies (Psychologisches Gutachten [...], eingereicht am 30. Oktober 2013.
+Gemäss psychologischem Gutachten vom 10. April 2015 leidet der
+Beschuldigte an einer dissozialen Persönlichkeitsstörung. Seit der
+Unterbringung des Beschuldigten im September 2013 im Jugendheim [...] war
+dieser nahezu ununterbrochen entweder vorsorglich untergebracht, in
+Untersuchungshaft oder im vorzeitigen Strafvollzug.
+6. Hat
+der Täter durch eine oder mehrere Handlungen die Voraussetzungen für mehrere
+gleichartige Strafen erfüllt, so verurteilt ihn das Gericht zu der Strafe der
+schwersten Straftat und erhöht sie angemessen. Es darf jedoch das Höchstmass
+der angedrohten Strafe nicht um mehr als die Hälfte erhöhen. Dabei ist es an
+das gesetzliche Höchstmass der Strafart gebunden (Art. 49 Abs. 1 StGB).
+Die
+schwerste Straftat ist vorliegend die versuchte vorsätzliche Tötung, die eine
+Freiheitsstrafe nicht unter fünf Jahren nach sich zieht (Art. 111 StGB). Der
+abstrakte Strafrahmen beläuft sich bezüglich der Freiheitsstrafe von fünf bis
+20 Jahren (Art. 111 und Art. 40 StGB), wobei Art. 49 StGB
+strafschärfend wirkt. Da Strafmilderungsgründe vorliegen, kann grundsätzlich
+auch eine Freiheitsstrafe unter fünf Jahren ausgesprochen werden (Art. 48a
+StGB). In erster Linie sind die Milderungsgründe nach Art. 48 StGB jedoch
+innerhalb des abstrakten Strafrahmens zu berücksichtigen.
+Bei der
+Festlegung der für den Beschuldigten auszufällenden Strafe sind auch die in
+Erwägungen 4. und 5. vorstehend genannten Aspekte, die hinsichtlich der meisten
+begangenen Delikte bloss versuchte Begehung (Art. 22 Abs. 1 StGB), die teilweise
+verminderte Schuldfähigkeit (Art. 19 Abs. 2 StGB), die blosse Gehilfenschaft
+zum Diebstahl (Art. 25 StGB) sowie die tätige Reue im Zusammenhang mit der
+versuchten vorsätzlichen Tötung (Art. 23 Abs. 2 StGB) in Betracht zu ziehen.
+Im
+Lichte all dieser Erwägungen und insbesondere unter Berücksichtigung der Vielzahl
+und Art der begangenen Delikte, der gravierenden kriminellen Energie sowie
+des jugendlichen Alters und der dissozialen Persönlichkeitsstörung ist der Beschuldigte
+zu einer Freiheitsstrafe von 6 Jahren zu verurteilen. Da die auszufällende
+Freiheitsstrafe somit drei Jahre übersteigt, ist sie unbedingt zu vollziehen
+(Art. 43 Abs. 1 StGB; vgl. auch Urteil des Bundesgerichts vom
+19. Juli 2011).
+Die
+erstandene Polizei- und Untersuchungshaft ist anzurechnen (vgl. Art. 51
+StGB). Art. 51 StGB spricht nur von Untersuchungshaft; darunter fällt aber
+jede in einem Strafverfahren verhängte Haft. Haft ist jede
+Freiheitsentziehung (
+Trechsel / Affolter-Eijsten
+,
+a.a.O., Art. 51 StGB, N. 2). Eine Anrechnung der jugendstrafrechtlichen
+Schutzmassnahmen nach Art. 51 StGB erfolgt grundsätzlich nicht im gleichen
+Umfang wie der Freiheitsentziehung nach Erwachsenenstrafrecht (
+Mettler
+/
+Spichtin
+, a.a.O., Art. 51 StGB, N. 29).
+Aufgrund
+des freiheitsentziehenden Charakters der vorsorglich angeordneten
+Schutzmassnahme im Massnahmenzentrum [...] ist vorliegend eine volle Anrechnung
+angemessen. Entsprechend sind dem Beschuldigten bis zum Antritt des vorzeitigen
+Strafvollzugs vom 15. Mai 2016 531 Tage anzurechnen, wobei sich der
+bisherige Freiheitsentzug wie folgt zusammensetzt:
+9. – 11. September 2013                                                                              3
+Tage
+(Untersuchungshaft)
+7. November 2014 – 15. November 2015                                       374
+Tage
+(Untersuchungshaft und
+vorzeitiger Strafvollzug)
+16. November 2015 – 19. Januar 2016                                                       65
+Tage
+(vorsorgliche Massnahme
+Kalchrain)
+24. Januar 2016 – 28. März 2016                                                                65
+Tage
+(vorsorgliche Massnahme
+Kalchrain und Untersuchungshaft)
+1. April 2016 – 24. April 2016                                                           24
+Tage
+(vorsorgliche Massnahme
+Kalchrain)
+Total                                                                                      531
+Tage
+XIII. Einziehung
+Gestützt
+auf Art. 69 StGB verfügt das Gericht ohne Rücksicht auf die Strafbarkeit
+einer bestimmten Person die Einziehung von Gegenständen, die zur Begehung einer
+Straftat gedient haben oder bestimmt waren oder die durch eine Straftat hervorgebracht
+worden sind, wenn diese Gegenstände die Sicherheit von Menschen, die
+Sittlichkeit oder die öffentliche Ordnung gefährden. Das Gericht kann
+anordnen, dass die eingezogenen Gegenstände unbrauchbar gemacht oder
+vernichtet werden.
+Folgende
+durch die Kantonspolizei Zürich beschlagnahmten Gegenstände (Geschäftsnummer
+[...]) sind dem Beschuldigten herauszugeben, da sie nicht direkt mit den Straftaten
+in Zusammenhang stehen: A007'637'947 Trainerjacke weiss B.______,
+A007'637'958 rechter Schuh B.______, A007'637'969 linker Schuh B.______,
+A007'637'981 Handschuh schwarz mit weissem Aufdruck B.______, A007'637'992
+Trainerhose schwarz B.______.
+Das durch
+die Kantonspolizei Basel Landschaft beschlagnahmte Mobiltelefon Nokia schwarz
+(Nr. [...]) ist der Privatklägerin F.______ herauszugeben.
+Die
+beschlagnahmten Gegenstände im Verfahren [...] werden allenfalls noch im
+Strafverfahren gegen Q.______ benötigt, weshalb über deren Schicksal hier
+nicht zu entscheiden ist.
+XIV. Zivilforderungen
+1. Die geschädigten Personen können zivilrechtliche
+Ansprüche aus der Straftat als Privatklägerschaft adhäsionsweise im
+Strafverfahren geltend machen (Art. 122 Abs. 1 StPO). Das Jugendgericht
+kann über Zivilforderungen entscheiden, sofern deren Beurteilung ohne
+besondere Untersuchung möglich ist (Art. 34 Abs. 6 JStPO). Ein Eingeständnis
+des Beschuldigten ist nicht vorausgesetzt, sofern der Sachverhalt ausreichend
+geklärt ist. Ebenfalls nicht vorausgesetzt wird, dass die Zivilforderung
+unbestritten ist (
+Jositsch
+et
+al.
+,
+JStPO Kommentar, Zürich
+2010, Art. 32 N. 11).
+Die in
+der Zivilklage geltend gemachte Forderung ist nach Möglichkeit in der Erklärung
+nach Artikel 119 StPO zu beziffern und, unter Angabe der angerufenen Beweismittel,
+kurz schriftlich zu begründen. Bezifferung und Begründung haben spätestens im
+Parteivortrag zu erfolgen (Art. 123 Abs. 1 und 2 StPO). Die Privatklägerschaft
+wird mit der Zivilklage auf den Zivilweg verwiesen, wenn sie ihre Klage nicht
+hinreichend begründet oder beziffert hat (Art. 126 Abs. 2 lit. b StPO).
+2. Wer
+einem andern widerrechtlich Schaden zufügt, sei es mit Absicht, sei es aus
+Fahrlässigkeit, wird ihm zum Ersatz verpflichtet (Art. 41 OR). Die Voraussetzungen
+eines Schadenersatzanspruches stellen der
+Schaden, die Widerrechtlichkeit,
+der Kausalzusammenhang und das Verschulden dar.
+3. Wer
+in seiner Persönlichkeit widerrechtlich verletzt wird, hat Anspruch auf
+Leistung einer Geldsumme als Genugtuung, sofern die Schwere der Verletzung es
+rechtfertigt und diese nicht anders wiedergutgemacht worden ist (Art. 49 OR).
+Die Voraussetzungen eines Genugtuungsanspruches sind das Vorliegen einer
+immateriellen Unbill, Widerrechtlichkeit, Kausalzusammenhang und Verschulden.
+Eine Genugtuung nach Art. 49 OR ist nur geschuldet, sofern die Schwere der
+Verletzung es rechtfertigt, und zwar sowohl in objektiver als auch in
+subjektiver Hinsicht. Als Massstab hat zu gelten, wie der zu beurteilende Eingriff
+auf eine weder besonders sensible noch besonders widerstandsfähige
+Durchschnittsperson gewirkt hätte. Der Eingriff muss aussergewöhnlich schwer
+sein und in seinen Auswirkungen das Mass einer Aufregung oder einer
+alltäglichen Sorge klar übersteigen. Es reicht nicht aus, dass jemand
+schockiert ist, Unannehmlichkeiten empfindet oder einige Schmerzen hat.
+Erforderlich sind vielmehr physische oder psychische Leiden, verursacht durch
+eine Verletzung der Persönlichkeit, die das Wohlbefinden beeinträchtigen (
+Kessler
+, in: Basler Kommentar zum
+Obligationenrecht I, Art. 1-529 OR, 6. Aufl. 2015, N. 11 zu Art. 49
+OR).
+4. Zum
+Schaden gehört nach bundesgerichtlicher Rechtsprechung der Zins vom Zeitpunkt
+an, in dem das schädigende Ereignis sich finanziell ausgewirkt hat (Urteil
+des Bundesgerichts vom 3. Dezember 2009). Analog zu Art. 73 OR beträgt
+der Schadenszins 5 % (BGE 131 III 12, E. 9.4.).
+5. Der
+Privatkläger C.______ macht Schadenersatz von EUR 3'270.–– sowie eine
+Genugtuung von CHF 1'000.–– geltend (Strafantrag vom 23. November 2012.
+Ihm sei durch den Beschuldigten EUR 3'270.–– aus dem Portemonnaie
+gestohlen worden (Polizeiliche Einvernahme als Auskunftsperson).
+5.1.
+Wie in der Erwägung IV. 2. ausgeführt, ist die Verfolgungsverjährung betreffend
+den angeklagten geringfügigen Diebstahl nach Art. 139 Ziff. 1 StGB i.V.m.
+Art. 172
+ter
+Abs. 1 StGB bereits eingetreten, weshalb der
+Beschuldigte diesbezüglich freizusprechen ist.
+Der
+Diebstahl von Bargeld ist als unerlaubte Handlung im Sinne von Art. 41 OR zu
+qualifizieren. Durch die Anklageschrift und das Geständnis des Beschuldigten
+ist erstellt, dass der Beschuldigte eine Beute von EUR 70.— erzielte. Diese
+stellt den Schaden dar. Es besteht ein adäquater Kausalzusammenhang zwischen
+der vorsätzlich schädigenden Handlung des Beschuldigten und dem bei C.______
+eingetretenen Schaden, der rechtsgenüglich nachgewiesen ist. Bezüglich des
+Mehrbetrags erscheint die Sache nicht spruchreif.
+5.2.
+Inwiefern C.______ durch diesen Diebstahl Leiden erlitten haben soll, die sein
+Wohlbefinden über längere Zeit beeinträchtigt haben, ist nicht hinreichend
+begründet, weshalb der Privatkläger mit seinen Genugtuungsforderungen auf den
+Zivilweg zu verweisen ist (Art. 126 Abs. 2 lit. b StPO).
+5.3.
+Der Beschuldigte ist gegenüber C.______ im Umfang von EUR
+70.—schadenersatzpflichtig gemäss Art. 41 OR. Die Zivilforderung ist
+teilweise gutzuheissen und im Übrigen ist C.______ mit seinen Forderungen auf
+den Zivilweg zu verweisen (Art. 126 Abs. 2 lit. d StPO).
+6. Der
+Privatkläger D.______ verlangt Schadenersatz für die Kosten der Rechtsvertretung
+in Höhe von CHF 3'752.30 sowie eine Genugtuung von CHF 2'000.— zuzüglich
+5 % Zins seit dem 7. November 2014
+.
+Das
+schädigende Ereignis hat sich mithin in diesem Zeitpunkt finanziell ausgewirkt,
+weshalb ein Zins ab dem 7. November 2014 geschuldet ist.
+Der
+Beschuldigte anerkennt die Forderungen des D.______, wovon Vormerk zu nehmen
+ist (Art. 126 Abs. 1 lit a StPO i.V.m. Art. 124 Abs. 3 StPO).
+7. Der
+Privatkläger E.______ macht unbezifferte Ansprüche geltend, welche der
+Beschuldigte im Grundsatz anerkennt. Hiervon ist Vormerk zu nehmen. Der Privatkläger
+E.______ ist im Übrigen mit seinen Forderungen auf den Zivilweg zu verweisen
+(Art. 126 Abs. 2 lit. b StPO).
+8. Die
+Privatkläger G.______ und F.______ machen folgende Ansprüche geltend:
+G.______ fordert Schadenersatz in Höhe von CHF 15'000.— und eine Genugtuung
+über CHF 13'000.—, F.______ fordert Schadenersatz in Höhe von CHF 20'000.—
+und eine Genugtuung über CHF 18'000.—. Die Verteidigung bestreitet die
+Forderungs- und Genugtuungsansprüche der beiden Privatkläger.
+Die
+Privatkläger haben ihre Ansprüche nicht weiter begründet und belegt, insbesondere
+ist der Schaden bzw. die immaterielle Unbill nicht rechtsgenüglich ausgewiesen.
+Die beiden Privatkläger sind mit ihren Zivilforderungen daher auf den
+Zivilweg zu verweisen (Art. 126 Abs. 2 lit. b StPO).
+9. Der
+Privatkläger H.______ verlangt Schadenersatz in Höhe von CHF 77.30. Der
+Beschuldigte anerkennt die Forderung, wovon Vormerk zu nehmen ist (Art. 126
+Abs. 1 lit a StPO i.V.m. Art. 124 Abs. 3 StPO).
+10. Die
+Privatklägerin O.______ verlangt Schadenersatz in Höhe von CHF 105.10. Der
+Beschuldigte anerkennt die Forderung, wovon Vormerk zu nehmen ist
+(Art. 126 Abs. 1 lit a StPO i.V.m. Art. 124 Abs. 3 StPO).
+XV. Prozesskosten
+Die Verfahrenskosten werden vorerst von dem Kanton
+getragen, in dem das Urteil gefällt wurde (Art. 44 Abs. 1 JStPO). Im Übrigen
+gelten die Art. 422 - 428 StPO sinngemäss. Die beschuldigte Person trägt die
+Verfahrenskosten, wenn sie verurteilt wird (Art. 426 Abs. 1 StPO).
+Dem
+Ausgang des Verfahrens entsprechend hat der Beschuldigte die Verfahrenskosten
+vollständig zu tragen, mit Ausnahme der Kosten der amtlichen Verteidigung
+(Art. 44 Abs. 2 JStPO i.V.m. Art. 426 Abs. 1 Satz 2 StPO). Die übrigen Kosten
+gehen zu Lasten des Staates.
+Der
+Beschuldigte ist, sobald es seine finanziellen Verhältnisse erlauben,
+verpflichtet, dem Kanton die Kosten für die amtliche Verteidigung (insgesamt
+CHF 25'312
+.95.—)
+zurückzubezahlen (Art. 135 Abs. 4 StPO).
+Es ist
+in Kauf zu nehmen, dass der Beschuldigte mit Schulden in sein Erwachsenenleben
+startet. Der Beschuldigte hat erheblich gegen das Gesetz verstossen, was sich
+auch im Kostenpunkt auszuwirken hat.
+Der
+amtliche Verteidiger ist gemäss der eigereichten Kostennote, welche angemessen
+und im Rahmen des Tarifs erscheint, zu entschädigen.
+____________________
+Das Gericht
+erkennt
+:
+1. B.______
+ist schuldig
+-
+der Gehilfenschaft zum Diebstahl
+(Roller) gemäss Art. 139 Ziff. 1 StGB i.V.m. Art. 25 StGB, in verminderter
+Schuldfähigkeit im Sinne von Art. 19 Abs. 2 StGB
+-
+der versuchten schwere
+Körperverletzung gemäss Art. 122 StGB i.V.m. Art. 22 Abs. 1 StGB, in
+verminderter Schuldfähigkeit im Sinne von Art. 19 Abs. 2 StGB
+-
+des versuchten Raubes gemäss Art. 140
+Ziff. 1 StGB i.V.m. Art. 22 Abs. 1 StGB, in verminderter Schuldfähigkeit im
+Sinne von Art. 19 Abs. 2 StGB
+-
+der versuchten vorsätzlichen Tötung
+gemäss Art. 111 StGB i.V.m. Art. 22 Abs. 1 und Art. 23 StGB, in verminderter
+Schuldfähigkeit im Sinne von Art. 19 Abs. 2 StGB
+-
+der Gewalt und Drohung gegen Behörden
+und Beamte gemäss Art. 285 Abs. 1 StGB, in verminderter Schuldfähigkeit
+im Sinne von Art. 19 Abs. 2 StGB
+-
+des Diebstahls (Wertgegenstände aus
+dem Fahrzeug Citroën) gemäss Art. 139 Ziff. 1 StGB
+-
+der Entwendung eines Motorfahrzeuges
+zum Gebrauch gemäss Art. 94 Abs. 1 lit. a SVG
+-
+des mehrfachen Führens eines
+Personenwagens ohne im Besitze eines Führerausweises zu sein gemäss Art. 10
+Abs. 2 SVG i.V.m. Art. 95 Abs. 1 lit. a SVG
+2. B.______
+wird
+freigesprochen vom Vorwurf
+-
+des geringfügigen Diebstahls
+(Bargeld) gemäss Art. 139 Ziff. 1 StGB i.V.m. Art. 172
+ter
+StGB
+-
+der mehrfachen Sachbeschädigung (Spiegel am Fahrzeug Fiat
+und Türschloss am Fahrzeug Citroën) gemäss Art. 144 Abs. 1 StGB
+-
+des mehrfachen geringfügigen
+Diebstahls (Benzin) gemäss Art. 139 Ziff. 1 StGB i.V.m. Art. 172
+ter
+StGB
+-
+der Nichtbeachtung eines Lichtsignals
+gemäss Art. 27 Abs. 1 SVG, Art. 68 und 69 Abs. 3 SSV i.V.m. Art. 90 Abs. 1
+SVG
+3. B.______
+wird zu einer Freiheitsstrafe von 6 Jahren verurteilt, unter Anrechnung der
+erstandenen Haft, des vorzeitigen Strafvollzugs sowie der vorsorglichen Unterbringung
+von insgesamt 531 Tagen sowie des vorzeitigen Strafvollzugs seit 15. Mai
+2016.
+4. Folgende
+bei
+B.______
+beschlagnahmten
+Gegenstände
+werden diesem
+herausgegeben:
+-
+A007'637'947             Trainerjacke weiss
+-
+A007'637'958             rechter Schuh
+-
+A007'637'958             linker Schuh
+-
+A007'637'981 Handschuh schwarz mit weissem Aufdruck
+-
+A007'637'992 Trainerhose schwarz
+5. Das
+bei B.______ beschlagnahmte Mobiltelefon Nokia schwarz (Nummer [...] bei der
+Kantonspolizei Basel Landschaft, [...]) wird F.______ herausgegeben.
+6.
+B.______
+wird verpflichtet, dem C.______
+EUR 70.— als Schadenersatz zu bezahlen.
+7. Es
+wird vorgemerkt, dass B.______ seine zivilrechtliche Haftung aus dem Vorfall
+vom 7. November 2014 gegenüber E.______ im Grundsatz anerkannt hat.
+8. Es
+wird vorgemerkt, dass
+B.______
+folgende
+Zivilforderungen anerkannt hat:
+gegenüber
+D.______                                                                      CHF       5'752.30
+gegenüber
+H.______                                                                      CHF            77.30
+gegenüber
+O.______                                                                      CHF          105.10
+9. Mit
+den weiteren Forderungen werden
+die
+Zivilkläger
+auf den Zivilweg verwiesen.
+10. Die
+Gerichtsgebühr wird festgesetzt auf CHF 4'000.—.
+Die weiteren Verfahrenskosten betragen:
+CHF
+3'177.80
+amtliche Verteidigung in der Untersuchung
+CHF
+25'312.95
+amtliche Verteidigung in der Untersuchung und vor
+Kantonsgericht
+CHF
+4'670.—
+Gutachten Dr. Phil. [...]
+CHF
+11'292.—
+Gutachten [...]
+CHF
+300.—
+Verfügung des Zwangsmassnahmegerichts vom 30.12.14
+11. Die
+Kosten werden
+B.______
+vollumfänglich
+auferlegt
+und von
+ihm
+bezogen.
+Die Kosten der amtlichen
+Verteidigung
+werden erst dann von B.______
+bezogen, wenn es dessen wirtschaftliche Verhältnisse erlauben. Die
+wirtschaftlichen Verhältnisse von B.______ werden spätestens im Februar 2021
+überprüft.
+12.
+Es werden keine Parteientschädigungen zugesprochen.
+13. Rechtsanwalt
+L.______ als amtliche Verteidigung im Verfahren vor Kantonsgericht mit
+CHF 25'312.95 aus der Gerichtskasse entschädigt.
+14. Schriftliche
+Mitteilung an:
+[...]
+Dieses Urteil ist nicht rechtskräftig.
