@@ -1,0 +1,353 @@
+---
+decision_id: "gl_gerichte_VG.2017.00008"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2017.00008"
+docket_2: "VG.2017.510"
+decided: "2017-03-30"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=782&W10_KEY=218274&nTrefferzeile=1&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/210/art-307.md", "switzerland/bund/acts/210/art-360.md", "switzerland/bund/acts/210/art-443.md", "switzerland/bund/acts/210/art-446.md", "switzerland/bund/acts/210/art-449b.md", "switzerland/bund/acts/312.0/art-073.md", "switzerland/bund/acts/312.0/art-075.md"]
+---
+
+# GL Gerichte VG.2017.00008
+
+## Regeste
+
+Fürsorge/Vormundschaftswesen
+
+## Text
+
+Glarus Verwaltungsgericht 30.03.2017 VG.2017.00008 (VG.2017.510)
+Glaris Verwaltungsgericht 30.03.2017 VG.2017.00008 (VG.2017.510)
+Glarona Verwaltungsgericht 30.03.2017 VG.2017.00008 (VG.2017.510)
+
+Fürsorge/Vormundschaftswesen
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom 30. März 2017
+II. Kammer
+in Sachen
+VG.2017.00008
+A.______
+Beschwerdeführerin
+gegen
+Kindes- und Erwachsenenschutzbehörde
+Beschwerdegegnerin
+des Kantons Glarus
+betreffend
+Aktenführung
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Am 30. August 2016 meldete sich B.______, Vater von
+C.______, geb. […], und D.______, geb. […], telefonisch bei der Kindes- und
+Erwachsenenschutzbehörde des Kantons Glarus (KESB) und teilte mit, er habe
+erfahren, dass der neue Ehemann von A.______, E.______, vor ca. zwei Wochen
+mit Blaulicht von zu Hause abgeholt worden sei. Er mache sich Sorgen, weil er
+annehme, dass seine Kinder anwesend gewesen seien. Auf Nachfrage bei der
+Kantonspolizei Glarus am 31. August 2016 erhielt die KESB die Antwort,
+dass der Polizeibericht fast fertiggestellt sei und anschliessend der KESB
+zugestellt werde. Am 21. September 2016 erhielt die KESB mit Begleitschreiben
+vom 21. September 2016 Kopien der Strafanzeigen und Polizeirapporte vom 31.
+Juli 2016 und 18. August 2016.
+1.2
+A.______ gebar am 21. September 2016 ihren Sohn
+F.______.
+Am 12. Oktober 2016 gelangte sie an die KESB und
+forderte eine sofortige Teil-Aktenvernichtung der KESB-Akten. Sie sprach der
+KESB das Recht ab, polizeiliche Akten beizuziehen. Weiter wollte sie
+verhindern, dass ihr Ex-Mann Einsicht in diese Akten erhält. Sie verlangte
+den Erlass einer anfechtbaren Verfügung.
+2.
+2.1
+Am 11. Januar 2017 verfügte die KESB, dass die
+Polizeirapporte in den Akten der KESB beibehalten würden (Disp.-Ziff. 1).
+Aufgrund der Polizeirapporte werde eine Abklärung betreffend
+Kindswohlgefährdung aller drei Kinder eröffnet (Disp.-Ziff. 2).
+2.2
+Gegen die Verfügung der KESB vom 11. Januar 2017
+erhob A.______ am 25. Januar 2017 Beschwerde und beantragte sinngemäss,
+der Beschluss der KESB vom 11. Januar 2017 sei aufzuheben. Die
+Polizeirapporte seien aus den Akten zu nehmen und zu vernichten. Sodann sei
+auf die Abklärung betreffend Kindswohlgefährdung zu verzichten.
+Die KESB beantragte am 3.
+Februar 2017, die Beschwerde sei vollumfänglich abzuweisen, soweit darauf
+einzutreten sei; alles unter Kosten- und Entschädigungsfolgen zu Lasten von
+A.______.
+II.
+1.
+1.1
+Gemäss Art. 450 des Schweizerischen
+Zivilgesetzbuchs vom 10. Dezember 1907 (ZGB) i.V.m. Art. 67 Abs. 1 des
+Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuches im
+Kanton Glarus vom 7. Mai 1911 (EG ZGB) ist das Verwaltungsgericht zur Beurteilung
+von Beschwerden gegen Entscheide der Kindes- und Erwachsenenschutzbehörde zuständig.
+1.2
+Zu den
+Prozessvoraussetzungen gehört nach Art. 88 Abs. 1 lit. a des Gesetzes über
+die Verwaltungsrechtspflege vom 4. Mai 1986 (VRG) die Beschwerdebefugnis. Zur
+Beschwerde befugt ist, wer über eine spezifische Beziehungsnähe zur
+Streitsache verfügt und einen praktischen Nutzen aus der Aufhebung oder Änderung
+des angefochtenen Entscheids zieht. Dies ist dann der Fall, wenn die tatsächliche
+oder rechtliche Situation der Beschwerdeführerin durch den Ausgang des Verfahrens
+beeinflusst werden kann (BGE 137 II 30 E. 2.2.2). Die Einleitung eines Abklärungsverfahrens
+durch die Beschwerdegegnerin bzw. durch deren Abklärungsdienst ist nicht
+anfechtbar. Es würde die Verwaltungstätigkeit ungemein erschweren, wenn vor
+dem eigentlichen Verfahren noch ein Verfahren über die Frage stattzufinden
+hätte, ob ein Verfahren eingeleitet werden dürfte. So hat das Bundesgericht
+festgehalten, dass die Eröffnung einer Disziplinarverfahrens gegen einen Beamten
+nicht anfechtbar sei, obwohl dieses für den Betroffenen faktische Unannehmlichkeiten
+bereiten könne und damit ein Nachteil bzw. eine Art Vorverurteilung verbunden
+sei (BGE 131 II 587 4.1.2; vgl. Martin Bertschi, in Alain Griffel [Hrsg.],
+Kommentar zum Verwaltungsrechtspflegegesetz des Kantons Zürich [VRG], 3. A.,
+Zürich/Basel/Genf 2014, § 19 N. 7, § 21 N. 20). Im Übrigen ist
+beispielsweise auch die Eröffnung einer Strafuntersuchung nicht anfechtbar
+(Art. 309 Abs. 3 der Schweizerischen Strafprozessordnung vom 5. Oktober 2007
+[StPO]). Die Eröffnung einer Abklärung beinhaltet für sich genommen keine Anordnung
+einer Kindesschutzmassnahme, sondern deren Anordnung oder Nichtanordnung wird
+erst geprüft. Soweit die Beschwerdeführerin die Anordnung einer Abklärung
+bezüglich ihrer drei Kinder anficht, ist sie nicht in ihrer
+Erziehungsautonomie betroffen und es mangelt ihr somit an der
+Beschwerdebefugnis. Auf den Antrag, auf die Abklärung der Kindswohlgefährdung
+sei zu verzichten, ist daher nicht einzutreten. Hingegen kann der
+Beschwerdeführerin kein schutzwürdiges Interesse abgesprochen werden, soweit
+sie beantragt, die Polizeirapporte seien aus den Akten zu nehmen und zu vernichten.
+Diese enthalten sensible Daten, hinsichtlich welcher die Beschwerdeführerin
+ein Interesse hat, dass sie nur einem beschränkten Kreis von Personen zur
+Einsicht offen stehen.
+2.
+2.1
+Die Beschwerdeführerin bringt vor, es hätte nicht
+zur Erfassung einer Gefährdungsmeldung von B.______, ihrem Ex-Mann, durch die
+Beschwerdegegnerin kommen dürfen. Dieser habe bei der Beschwerdegegnerin
+angerufen und mitgeteilt, er mache sich Sorgen, dass die Kinder anwesend
+gewesen seien, als E.______, ihr jetziger Ehemann, von der Polizei abgeholt
+worden sei. Der Beschwerdegegnerin fehle ein Konzept betreffend das Vorgehen
+bei Gefährdungsmeldungen. Eine Gefährdungsmeldung müsse schriftlich begründet
+eingegeben werden und nur in akuten, superprovisorischen Fällen sei
+ausnahmsweise eine mündliche Gefährdungsmeldung zulässig. Nach einem halben
+Jahr seit dem Vorfall sei die Sachlage aber nicht dringend. Laut der
+Konferenz der Kindes- und Erwachsenenschutzbehörden (KOKES) und den Konzepten
+der anderen Kantone handle es sich faktisch gar nicht um eine Gefährdungsmeldung
+und es müsse daher auch nicht ermittelt werden. Sie sei nach der Erfassung
+der Gefährdungsmeldung nicht darüber informiert oder angehört worden. Indem
+enorm sensible Daten in den Polizeirapporten enthalten seien und diese Daten
+an die Beschwerdegegnerin weitergeschickt worden seien, sei ihr Anspruch auf
+Datenschutz verletzt und es bestehe die Gefahr einer künftigen Datenschutzverletzung.
+2.2
+Die Beschwerdegegnerin führte in der angefochtenen
+Verfügung aus, sie erforsche den Sachverhalt von Amtes wegen, wenn sie eine
+Mitteilung erhalte, wonach das Kindswohl gefährdet sein könnte (Art. 314 Abs.
+1 i.V.m. Art. 446 ZGB). Sie hole dazu die erforderlichen Erkundigungen ein
+und erhebe die notwendigen Beweise. Sie könne eine geeignete Person oder
+Stelle mit Abklärungen beauftragen. In Frage kämen hierfür beispielsweise
+Sozialarbeiter, Ärzte oder andere Fachpersonen. Zudem könne sie Gutachten
+einer sachverständigen Person anordnen. Sie bzw. die Sozialarbeiterin des
+Abklärungsdienstes sei nach der Meldung des Kindsvaters gehalten und berechtigt
+gewesen, abzuklären, ob aufgrund des geschilderten Vorfalls eine
+Kindswohlgefährdung vorliege. Die polizeiliche Intervention sei zumindest ein
+genügendes Indiz gewesen. Die Edition des Polizeirapports sei zur Klärung der
+Sachlage ein taugliches Beweismittel. Die Polizei wäre ebenso berechtigt,
+wenn nicht sogar verpflichtet gewesen, sie zu informieren. Eine Meldung habe
+bereits bei einer möglichen Gefährdung zu erfolgen, weshalb es nicht Sache
+der Polizei sei, die Gefährdungseinschätzung selbst vorzunehmen. Der Anschein
+einer Gefährdung, welche bei einer Todesdrohung durch ein Familienmitglied
+ohne Zweifel gegeben gewesen sei, hätte für die Meldepflicht ausgereicht. Da
+sie wegen der fehlenden Meldung durch die Polizei erst durch die Mitteilung
+des Kindsvaters Kenntnis vom Vorfall genommen habe, sei sie spätestens zu
+diesem Zeitpunkt gehalten und berechtigt gewesen, in der Sache zu ermitteln.
+Eine Anfrage bei der Beschwerdeführerin sei für den Beizug des
+Polizeirapports nicht notwendig gewesen. Dieser sei gesetzmässig,
+verhältnismässig und geeignet gewesen zur Abklärung einer Kindswohlgefährdung
+infolge Störungen in der Beziehung zwischen der Beschwerdeführerin und
+E.______. Das Akteneinsichtsrecht werde dem Kindsvater B.______ erst nach
+Vornahme einer Interessenabwägung teilweise gewährt oder nicht gewährt.
+3.
+3.1
+Gemäss Art. 73 Abs. 1 StPO sind Mitglieder von
+Strafbehörden, ihre Mitarbeiterinnen und Mitarbeiter sowie die von
+Strafbehörden ernannten Sachverständigen zur Wahrung des Stillschweigens
+hinsichtlich Tatsaschen verpflichtet, die ihnen in Ausübung ihrer amtlichen
+Tätigkeit zur Kenntnis gelangt sind.
+3.2
+Nach
+Art. 75 Abs. 2 StPO sind die Strafbehörden indessen verpflichtet, die Sozialbehörden
+und die Kindes- und Erwachsenenschutzbehörden über eingeleitete Strafverfahren
+sowie .er Strafentscheide zu informieren, wenn dies zum Schutz einer beschuldigten
+oder geschädigten Person
+oder ihrer Angehörigen erforderlich ist. Gemäss Art. 443 Abs. 2 ZGB ist
+jede Person meldepflichtig, die in amtlicher Tätigkeit von einer
+hilfsbedürftigen Person erfährt. Die Kantone können weitere Meldepflichten
+vorsehen. Gemäss Art. 44 EG ZGB
+sind
+öffentliche Angestellte, namentlich Polizeibeamte, die in der Ausübung ihres
+Amtes Kenntnis von einer möglichen Kindswohlgefährdung erhalten,
+verpflichtet, diese Gefährdung der Kindes- und Erwachsenenschutzbehörde zu
+melden.
+Nach Art. 31 Abs. 1 lit. a und b des Polizeigesetzes vom
+6. Mai 2007 (PolG) darf die Kantonspolizei zudem im Einzelfall
+Personendaten, einschliesslich besonders schützenswerter Personendaten,
+weitergeben, wenn dies zur Abwehr einer unmittelbar drohenden Gefahr für Leib
+und Leben oder anderer höher zu gewichtenden Rechtsgüter geeignet und
+notwendig ist, oder wenn das anfragende öffentliche Organ glaubhaft macht, diese
+zur Erfüllung einer ihr obliegenden gesetzlichen Aufgabe zu benötigen.
+4.
+4.1
+In seinem Anruf bei der Beschwerdegegnerin vom 30.
+August 2016 bekundete B.______ seine Besorgnis über die Situation seiner
+beiden Söhne C.______ und D.______, da E.______ mit Blaulicht habe von zu
+Hause abgeholt werden müssen. Das Vorbringen der Beschwerdeführerin, eine
+Gefährdungsmeldung müsse schriftlich erfolgen und im Übrigen sei der
+Telefonanruf von B.______ keine Gefährdungsmeldung gewesen, geht an der Sache
+vorbei. Die Gefährdungsmeldung muss nicht schriftlich ergehen. Gemäss Art.
+443 Abs. 1 ZGB ist Schriftform nämlich nicht vorgeschrieben. Inhaltlich war
+der Anruf von B.______ als Gefährdungsmeldung zu verstehen, da im Zeitpunkt
+des Anrufs nicht klar war, ob die Kinder C.______ und D.______ durch das
+Handeln von E.______, das eine polizeiliche Intervention erforderlich machte,
+im Sinne von Art. 307 ZGB gefährdet waren. Damit war die Beschwerdegegnerin
+zur Abklärung verpflichtet.
+4.2
+Aktenkundig sind zwei Vorfälle häuslicher
+Auseinandersetzungen vom 31. Juli 2016 und vom 18. August 2016, in deren
+Verlauf die Beschwerdeführerin die Polizei verständigte, diese intervenieren
+musste und die Beteiligten befragte sowie den Ehemann der Beschwerdeführerin
+vorläufig festnahm.
+4.2.1
+So kam es am
+Abend des 31. Juli 2016
+(polizeiliche Einvernahme der Beschwerdeführerin vom 31. Juli 2016) zwischen
+der Beschwerdeführerin und ihrem Ehemann E.______ zu einer
+Auseinandersetzung, in deren Verlauf dieser ihr gedroht habe, sie, ihre
+beiden Kinder und das ungeborene Baby umzubringen. Grund für diese
+Auseinandersetzung seien die Kränkung ihres Ehemanns nach seiner Abholung im
+Durchgangszentrum […], die schweren gesundheitlichen Probleme seiner Mutter
+in […] sowie die Ungewissheit und Uneinigkeit darüber, wie die gemeinsame
+Zukunft gestaltet werden solle, gewesen. Anschliessend rief die Beschwerdeführerin
+die Polizei, welche ihren Ehemann vorläufig festnahm und auf den
+Polizeiposten verbrachte. E.______ bestritt die Todesdrohung gegenüber der
+Beschwerdeführerin und ihren Kindern.
+4.2.2
+Zu einem weiteren Streit, bei dem der Ehemann die
+Beschwerdeführerin durch seine Gestik bedroht habe und der eine polizeiliche
+Intervention notwendig machte, kam es am 18. August 2016. Grund für den Streit
+war die Suche nach Lösungen für die je eigene oder gemeinsame Zukunft, die
+Suche nach den Scheidungsdokumenten und Uneinigkeit bezüglich gemeinsamer
+Unternehmungen. Beim Streit waren die beiden Söhne der Beschwerdeführerin
+anwesend (polizeiliche Einvernahme der Beschwerdeführerin vom 18. August
+2016).
+Aufgrund dieser Umstände,
+der kurzen Zeit, die zwischen den Vorfällen verstrich, und des zumindest
+latent vorhandenen Konfliktpotenzials zwischen der Beschwerdeführerin und
+ihrem Ehemann, dessen Entladung ihre Kinder miterleben mussten, ist eine
+mögliche Kindswohlgefährdung nicht auszuschliessen. Es ist widersprüchlich,
+wenn die Beschwerdeführerin von einer von ihrem Ehemann ausgestossenen
+Todesdrohung bezüglich ihr und ihrer Kinder sprach und dennoch davon ausgeht,
+es bestehe keine Kindswohlgefährdung. Ausserdem gab die Beschwerdeführerin in
+ihrer Beschwerde zu, die Polizei gerufen zu haben, damit ihr jetziger Ehemann
+sie nicht schlage ("weil es nie mehr so weit kommen wird, dass ein Mann
+mich schlägt"). Wenn die Todesdrohung von E.______ tatsächlich
+ausgesprochen wurde und sich auf die Beschwerdeführerin und alle drei Kinder
+(inkl. das noch nicht geborene) bezog, so ist sicher von einer Gefährdung
+auch des Neugeborenen auszugehen, denn dieses kam am 21. September 2016
+zur Welt und damit nur ein paar Wochen nach dem zweiten Vorfall.
+4.3
+4.3.1
+Die Meldepflicht der Polizei ist gesetzlich
+vorgeschrieben und stützt sich auf Art. 443 Abs. 2 ZGB i.V.m. Art. 44 EG
+ZGB. Wer gestützt auf die Meldepflicht eine Meldung macht und dabei an das
+Amtsgeheimnis gebunden ist, handelt rechtmässig (vgl. Daniel Rosch, in Daniel
+Rosch/Andrea Büchler/Dominique Jakob [Hrsg.], Erwachsenenschutzrecht,
+Einführung und Kommentar zu Art. 360 ff. ZGB und VBVV, 2. A., Basel
+2014, Art. 443 N. 4, 7; Daniel Rosch, Melderechte, Melde- und Mitwirkungspflichten,
+Amtshilfe: die Zusammenarbeit mit der neuen Kindes- und Erwachsenenschutzbehörde,
+in FamPra 2014/2, S. 1020 ff., 1029). Sodann findet die Weitergabe des
+Polizeirapports auch in Art. 31 Abs. 1 lit. a und b PolG eine genügende gesetzliche
+Grundlage.
+4.3.2
+Mit Art. 11 der Bundesverfassung der
+Schweizerischen Eidgenossenschaft vom 18. April 1999 (BV) geniesst das
+Kindswohl Verfassungsrang und es gilt in der Schweiz als oberste Maxime des
+Kindesrechts in einem umfassenden Sinn (BGE 141 III 328 E. 5.4). Somit
+lagen die Handlungen der Beschwerdegegnerin im öffentlichen Interesse. Sie
+handelte im Rahmen ihrer Amtspflicht. Sie ist dazu gehalten, Berichten über
+Polizeieinsätze in Häusern, in denen auch minderjährige Kinder der
+Beteiligten anwesend sind, nachzugehen. Bei beiden Ereignissen, die einen Polizeieinsatz
+nach sich zogen, waren nämlich die minderjährigen Kinder der Beschwerdeführerin
+anwesend und Letztere war hochschwanger. Nach ihrer eigenen Aussage vom 31. Juli
+2016 hätten ihre Kinder sehr viel Angst gehabt, weshalb sie diese daher von
+ihren Eltern abholen liess (polizeiliche Befragung der Beschwerdeführerin vom
+31. Juli 2016).
+4.3.3
+Die Weiterleitung der Berichte an die Beschwerdegegnerin
+erscheint auch im Lichte der auf dem Spiel stehenden Interessen zulässig.
+Immerhin berichtete die Beschwerdeführerin über gegen sie und ihre Kinder
+ausgesprochene Todesdrohungen. Dass diese Aussagen aufgenommen und der
+Bericht an die Beschwerdegegnerin weitergeleitet wurde, bezweckte eine
+fachmännische Abklärung einer möglichen Gefährdung des Kindswohls. Die
+Einholung solcher Berichte ist im Übrigen ein geeignetes, mildes und
+zielführendes Mittel zur Abklärung einer Kindswohlgefährdung. Das Interesse
+an der Wahrung des Kindswohls überwiegt deshalb das Interesse der Beteiligten
+an der Geheimhaltung der Polizeiberichte.
+4.4
+Damit wurden die Rapporte rechtmässig erlangt und
+bleiben in den Akten. Schliesslich ist festzuhalten, dass das Verfahren vor
+der Beschwerdegegnerin und nun vor Verwaltungsgericht von der Offizial- und
+Untersuchungsmaxime beherrscht ist (Art. 446 ZGB). Das bedeutet, dass
+diese Behörden alle rechtmässig erstellten Akten und Beweise zu
+berücksichtigen und soweit sie für die Sache wesentlich sind, auch zu
+würdigen haben. Die rechtmässig erhobenen Akten (inkl. Polizeirapporte) haben
+damit in den Akten zu bleiben und es ist ausgeschlossen, dass diese aus den
+Akten entfernt oder vernichtet werden.
+4.5
+Die Befürchtung der Beschwerdeführerin, ihr Ex-Mann
+könnte in die Polizeirapporte Einsicht nehmen und dadurch sensible
+Informationen über ihre Beziehung zu ihrem jetzigen Ehemann erfahren, ist nur
+teilweise begründet. Im Rahmen der Gewährung des Einsichtsrechts an B.______
+wird die Beschwerdegegnerin die Persönlichkeitsrechte der Beschwerdeführerin
+und ihres Ehemannes gegen die Auskunftsansprüche von B.______ sorgfältig
+gegeneinander abzuwägen haben (Art. 449b Abs. 1 ZGB; BGE 113 Ia 1
+E. 4; BGer-Urteil 1A.225/2002 vom 27. Mai 2003 E. 3; Daniel
+Steck, in Andrea Büchler et al. [Hrsg.], FamKomm Erwachsenenschutz, Bern
+2013, Art. 443b N. 8 ff., 11). Die Beschwerdeführerin ist darauf hinzuweisen,
+dass der Kindsvater nicht automatisch das Einsichtsrecht bezüglich seine
+Kinder betreffender Gefährdungsmeldungen und diesbezüglicher Akten nach Art.
+449b Abs. 1 ZGB verliert, nur weil er sein Besuchsrecht nicht ausübt. In
+diesem Zusammenhang hat die Beschwerdegegnerin ein gewisses Ermessen, darüber
+zu entscheiden, welche Inhalte dem Ex-Mann der Beschwerdeführerin zur
+Kenntnis zu bringen sind, wenn dieser darum ersucht.
+Die Beschwerde ist somit
+abzuweisen, soweit darauf einzutreten ist.
+5.
+Hinzuweisen bleibt darauf,
+dass Beschlüsse, welche F.______ betreffen, auch dessen Vater, E.______, zu
+eröffnen sind, was die Beschwerdeführerin zu Recht geltend macht. Die
+Beschwerdegegnerin wird daher künftig derartige Beschlüsse beiden Elternteilen
+eröffnen.
+III.
+Nach Art. 134 Abs. 1 lit.
+c des Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986 (VRG)
+hat die Partei, die im Beschwerdeverfahren unterliegt, die amtlichen Kosten
+zu tragen. Demgemäss sind die Gerichtskosten von Fr. 800.- der Beschwerdeführerin
+aufzuerlegen. Diese Kosten sind mit dem bereits geleisteten Kostenvorschuss
+von Fr. 300.- und den aus dem früheren Verfahren VG.2016.00095
+(Disp.-Ziff. 2) antragsgemäss nicht zurückerstatteten Kosten von
+Fr. 500.- zu verrechnen (vgl. das Schreiben der Beschwerdeführerin vom
+5. Februar 2017 und die Auftragsbestätigung der X. ______ AG vom 6. Februar
+2017).
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird abgewiesen, soweit darauf eingetreten wird.
+2.
+Die
+Gerichtskosten von Fr. 800.- werden der Beschwerdeführerin auferlegt und
+mit dem bereits erhobenen Kostenvorschuss von Fr. 300.- und den bei der
+Gerichtskasse antragsgemäss zurückbehaltenen Fr. 500.- verrechnet.
+3.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
