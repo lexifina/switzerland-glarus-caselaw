@@ -1,0 +1,385 @@
+---
+decision_id: "gl_gerichte_VG.2016.00136"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2016.00136"
+docket_2: "VG.2017.515"
+decided: "2017-04-13"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=787&W10_KEY=218274&nTrefferzeile=9&Template=simple/search_result_document.html"
+---
+
+# GL Gerichte VG.2016.00136
+
+## Regeste
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+## Text
+
+Glarus Verwaltungsgericht 13.04.2017 VG.2016.00136 (VG.2017.515)
+Glaris Verwaltungsgericht 13.04.2017 VG.2016.00136 (VG.2017.515)
+Glarona Verwaltungsgericht 13.04.2017 VG.2016.00136 (VG.2017.515)
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+13. April 2017
+I. Kammer
+in Sachen
+VG.2016.00136
+A.______
+Beschwerdeführer
+gegen
+1.1
+B.______
+Beschwerdegegner
+1.2
+C.______
+beide vertreten durch
+Rechtsanwalt
+D.______
+2.
+Departement Bau und Umwelt des Kantons Glarus
+und
+Gemeinde Glarus Nord
+Beigeladene
+betreffend
+Baubewilligung
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+A.______ ist Eigentümer der in der Kernzone von […]
+gelegenen Parz.-Nr. 01, Grundbuch […]. Er plant, auf dieser Parzelle ein
+Mehrfamilienhaus zu erstellen. Am 9. Juli 2012 ersuchte er die Gemeinde
+Glarus Nord um Erteilung der Baubewilligung. Das Baugesuch wurde im Amtsblatt
+publiziert. In der Folge erhob die E.______ als Eigentümerin der benachbarten
+Parz-Nrn. 02 und 03, beide Grundbuch […], am 22. August 2012 Einsprache
+gegen das Bauvorhaben. Der Gemeinderat Glarus Nord erteilte am 23. Januar
+2013 die Baubewilligung unter verschiedenen Bedingungen und Auflagen und wies
+gleichzeitig die Einsprache ab.
+1.2
+Dagegen gelangte die E.______ mit Beschwerde vom 15.
+Februar 2013 ans Departement Bau und Umwelt (DBU) und beantragte die
+Aufhebung der Baubewilligung. Das DBU hiess die Beschwerde am 12.
+November 2014 gut und hob die Baubewilligung auf.
+Der Entscheid erwuchs unangefochten in Rechtskraft.
+2.
+2.1
+A.______ änderte in der Folge sein Bauvorhaben und
+stellte am 12. Februar 2015 erneut ein Gesuch um Bewilligung des Neubaus
+eines Mehrfamilienhauses auf der Parz-Nr. 01, Grundbuch […]. Das Baugesuch
+wurde im Amtsblatt publiziert. Gegen das Bauvorhaben erhoben B.______ und
+C.______, nunmehr die Eigentümer der benachbarten Parz.-Nrn. 02 und 03, beide
+Grundbuch [...], am 18. März 2015 Einsprache und beantragten, die
+Baubewilligung sei nicht zu erteilen. Der Gemeinderat Glarus Nord erteilte
+die Baubewilligung am 18. November 2015 unter verschiedenen Bedingungen und
+Auflagen. Gleichzeitig wies er die Einsprache ab.
+2.2
+B.______ und C.______ erhoben am 15. Dezember 2015
+beim DBU Beschwerde gegen die Baubewilligungsverfügung und beantragten deren
+Aufhebung. Das DBU hiess die Beschwerde am 16. November 2016 gut und hob die
+Baubewilligung auf.
+3.
+3.1
+Dagegen gelangte A.______ mit Beschwerde vom 8.
+Dezember 2016 ans Verwaltungsgericht und beantragte die Aufhebung des
+Beschwerdeentscheids des DBU. Ihm sei die Baubewilligung zu erteilen; unter
+Kostenfolgen zu Lasten von B.______ und C.______.
+3.2
+B.______ und C.______ beantragten am 12. Januar 2017
+die Abweisung der Beschwerde; unter Kosten- und Entschädigungsfolgen zu
+Lasten von A.______. Das DBU schloss am 26. Januar 2017 ebenfalls auf
+Abweisung der Beschwerde; unter Kostenfolge. Die am 12. Dezember 2016 ins
+Verfahren beigeladene Gemeinde Glarus Nord hielt in ihrer Stellungnahme vom
+22. Februar 2017 an ihren Ausführungen in der Baubewilligung fest,
+verzichtete aber auf einen konkreten Antrag im vorliegenden Verfahren.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 79 Abs. 1 des
+Raumentwicklungs- und Baugesetzes vom 2. Mai 2010 (RBG) i.V.m. Art. 105 Abs.
+1 lit. b des Verwaltungsrechtspflegegesetzes vom 4. Mai 1986 (VRG) zur
+Behandlung der vorliegenden Beschwerde zuständig. Da auch die übrigen
+Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde einzutreten.
+1.2
+Der Beschwerdegegner 2 hob die Baubewilligung auf,
+weil das Bauvorhaben die Grenzabstände zu den südlich benachbarten
+Grundstücken verletzte. Kommt das Verwaltungsgericht zum Schluss, dass die
+Baubewilligung bereits aus diesem Grund zu Recht aufgehoben worden ist, hat
+es sich mit den weiteren Rügen des Beschwerdeführers bzw. mit der weiteren
+Begründung des vorinstanzlichen Beschwerdeentscheids nicht vertieft
+auseinanderzusetzen. Es ist nämlich nur das Dispositiv des vorinstanzlichen
+Entscheids der formellen und materiellen Rechtskraft zugänglich, nicht aber
+die Sachverhaltsfeststellungen der Vorinstanz oder deren Erwägungen zur
+Rechtslage. Aus diesem Grund kann nur das Dispositiv Bindungswirkung
+entfalten (BGE 140 I 114 E. 2.4.2, mit Hinweisen).
+2.
+2.1
+Der Beschwerdegegner 2 führte in seinem
+Beschwerdeentscheid (E. 4.4.3.3) aus, dem Katasterplan zum vorliegend zu
+beurteilenden Bauvorhaben sei zu entnehmen, dass dieses im ersten und zweiten
+Obergeschoss gegen Süden der Fassade vorgelagerte Wohntrakte aufweise. Da der
+Grenzabstand gemäss Art. 53 der Bauverordnung vom 23. Februar 2011 (BauV) die
+Entfernung zwischen der projizierten Fassadenlinie und der Parzellengrenze
+sei, wäre durch die Beigeladene zu prüfen gewesen, ob die erwähnten
+vorgelagerten Wohntrakte bei der Grenzabstandsberechnung zwischen dem
+Bauvorhaben und den beiden südöstlich und südlich benachbarten Grundstücken,
+Parz-Nrn. 04 und 05, beide Grundbuch […], zu berücksichtigen seien.
+Art. 69 der Bauordnung […] vom 1. Juli 2011 (BO) sei diesbezüglich nicht
+anwendbar, da es sich bei diesem Privilegierungstatbestand ausschliesslich um
+eine Regelung betreffend den Gebäude-, nicht aber den Grenzabstand handle.
+Die Grenzabstände zu den südöstlich und südlich benachbarten Liegenschaften
+würden jeweils ca. 2,5 m betragen. Damit werde der gesetzliche
+Grenzabstand von 4 m nicht eingehalten. Betreffend diese Nachbargrundstücke
+sei weder ein Näherbaurecht eingetragen noch liege eine andere Vereinbarung
+in den Akten. Die Baubewilligung sei daher zu Unrecht erteilt worden.
+2.2
+Der Beschwerdeführer äussert sich in seiner
+Beschwerde zur Gebäudehöhe, zum Attikageschoss, zum Gebäudeabstand und zum
+Gestaltungsplan "F.______". Hingegen setzt er sich mit der Frage
+des Grenzabstands nicht auseinander.
+Die Beschwerdegegner 1 stellen in
+Frage, ob der Beschwerdegegner 2 die Einhaltung des Grenzabstands überhaupt
+prüfen durfte, äussern sich aber nicht zur Einhaltung des Grenzabstands gegenüber
+den südöstlich bzw. südlich gelegenen Nachbargrundstücken.
+3.
+3.1
+Zunächst stellt sich die Frage, ob die Vorinstanz
+überhaupt dazu befugt war, die Einhaltung des Grenzabstands im
+Beschwerdeverfahren zu prüfen.
+3.1.1
+Es ist unbestritten, dass unter der Herrschaft des
+Raumplanungs- und Baugesetzes vom 1. Mai 1988 (aRBG, in Kraft stehend bis am
+30. Juni 2011) die Grenzabstandsvorschriften als rein zivilrechtliche Normen
+angesehen wurden. Dies liess sich daraus herleiten, dass die Grenzabstände in
+Art. 24 aRBG unter dem Titel "Nachbarrechtliche Bestimmungen"
+aufgeführt waren. Aufgrund der damaligen Praxis waren die Vorschriften über
+den Grenzabstand im öffentlich-rechtlichen Baubewilligungsverfahren nicht zu
+beachten.
+3.1.2
+Im heute geltenden Raumentwicklungs- und Baugesetz
+werden die Grenzabstände unter dem Titel 3.1 "Materielles Baurecht"
+bzw. unter 3.1.2 "Anforderungen an Bauten und Anlagen" geregelt.
+Der Beschwerdegegner 2 nahm dies zum Anlass für eine Praxisänderung, wonach
+die Grenzabstände (auch) im öffentlich-rechtlichen Verfahren zu prüfen sind.
+Auszugehen ist zunächst
+davon, dass der Gesetzgeber an der Rechtsnatur der Grenzabstände nichts
+ändern wollte. So wird im Memorial für die Landsgemeinde des Kantons Glarus
+2010 ausgeführt, dass die Grenz- und Gebäudeabstände kantonal einheitlich
+geregelt würden und die geltende Vorschrift von Art. 24 aRBG redaktionell angepasst
+übernommen werde (Memorial 2010, S. 152). Dass Art. 24 aRBG eine rein privatrechtliche
+Norm darstellte, ergab sich aber nicht direkt aus dem Gesetzestext, sondern
+wurde durch die Praxis so gehandhabt. Insofern steht die Übernahme der
+Vorschrift in das totalrevidierte Raumentwicklungs- und Baugesetz einer
+Praxisänderung nicht entgegen.
+3.1.3
+Eine solche ist dann zulässig, wenn ernsthafte und
+sachliche Gründe für die neue Praxis sprechen, die Änderung grundsätzlich
+erfolgt, das Interesse an der richtigen Rechtsanwendung gegenüber demjenigen
+an der Rechtssicherheit überwiegt und die Praxisänderung nicht gegen den
+Grundsatz von Treu und Glauben verstösst (Ulrich Häfelin/Georg Müller/Felix
+Uhlmann, Allgemeines Verwaltungsrecht, 7. A., Zürich/ St. Gallen 2016,
+Rz. 590 ff.).
+3.1.4
+Der Grenzabstand verfolgt sowohl öffentliche als
+auch private Interessen. So dient er einerseits öffentlichen Interessen wie
+der Feuerpolizei, der Wohnhygiene, der Siedlungsgestaltung und der Ästhetik.
+Andererseits werden durch den Grenzabstand auch private Interessen gewahrt,
+indem die zahlreichen Einflüsse von Bauten auf die Nachbargrundstücke
+gemindert und damit eine gewisse Intimität im nachbarlichen Verhältnis
+gewahrt werden soll (Christian Häuptli, in Andreas Baumann et al. [Hrsg.],
+Kommentar zum Baugesetz des Kantons Aargau, Bern 2013, § 47 N. 11). Damit ist
+es nachvollziehbar, den Grenzabstand als gemischte Norm, welche gleichzeitig
+privaten und öffentlichen Interessen dient, zu verstehen (vgl. dazu
+Häfelin/Müller/Uhlmann, Rz. 241 ff.). Daneben sprechen auch ganz
+praktische Gründe dafür, dass der Grenzabstand im öffentlich-rechtlichen
+Bauverfahren nicht ganz ausser Acht gelassen wird. So erschiene es als
+stossend, wenn der Nachbar ein – unter Umständen teures – zivilrechtliches Verfahren
+einleiten müsste, obwohl ein Bauvorhaben den Grenzabstand verletzt und keine
+nachbarrechtliche Vereinbarung besteht, welche die Abstandsunterschreitung
+erlaubt. Folglich bestehen ernsthafte Gründe für die Praxisänderung. Dass der
+Beschwerdegegner 2 seine Praxis grundsätzlich geändert hat, ergibt sich aus
+dem angefochtenen Entscheid (E. 4.4.2.2) und wird zu Recht nicht bestritten.
+Sodann vermag das Interesse an der Rechtssicherheit dasjenige an der
+richtigen Rechtsanwendung nicht zu überwiegen. Schliesslich steht auch der
+Grundsatz von Treu und Glauben der Praxisänderung nicht entgegen. Damit
+durfte der Beschwerdegegner 2 seine Praxis ändern und im öffentlich-rechtlichen
+Baubewilligungsverfahren die Einhaltung des Grenzabstands prüfen.
+3.1.5
+Wie der Beschwerdegegner 2 in seinem
+Beschwerdeentscheid zutreffend ausführt, ist die Kognition der
+erstinstanzlichen Baubewilligungsbehörde und der nachfolgenden
+öffentlichen-rechtlichen Rechtsmittelinstanzen aber eingeschränkt. Sie haben
+in einem ersten Schritt zu prüfen, ob die Grenzabstandsvorschriften eingehalten
+sind. Ist dies nicht der Fall, muss weiter geprüft werden, ob eine nachbarrechtliche
+Vereinbarung vorliegt, welche die Unterschreitung des Grenzabstands erlaubt.
+Besteht eine solche Vereinbarung und erweist sie sich als klar und mängelfrei,
+ist die Baubewilligung zu erteilen. Liegt hingegen keine Vereinbarung vor,
+hat dies die Verweigerung der Baubewilligung zur Folge. Erweist sich die
+Vereinbarung aber als unklar oder mangelhaft, sind zivilrechtliche Fragen zu
+beantworten, weshalb der belastete Nachbar den Zivilrichter anrufen müsste,
+um einen allfälligen Eingriff in sein Eigentum abzuwehren (vgl. Art. 74
+RBG). Welche Folgen ein solcher Fall für das öffentlich-rechtliche Verfahren
+zeitigt, ist grundsätzlich durch den Gesetzgeber zu beantworten. Naheliegend
+erscheint es, dass – wie dies der geplante neue Art. 51 Abs. 8 RBG
+vorsieht (vgl. Memorial für die Landsgemeinde des Kantons Glarus 2017, S. 111
+f.) – eine unklare oder allenfalls mangelhafte nachbarrechtliche Abmachung
+der Erteilung der Baubewilligung nicht entgegensteht. Entgegen der Auffassung
+des Beschwerdegegners 2 erweist es sich hingegen als wenig sachgerecht, das
+öffentlich-rechtliche Baubewilligungsverfahren bis zum Entscheid des
+Zivilrichters zu sistieren. So würde die Beurteilung anderer strittiger
+Punkte eines Bauvorhabens unter Umständen über mehrere Jahre verzögert, ohne
+dass dafür überzeugende Gründe bestehen. Insofern setzte sich die Baubewilligungsbehörde
+bzw. die Rechtsmittelinstanz dem Vorwurf der Rechtsverzögerung aus.
+3.2
+3.2.1
+Der Beschwerdegegner 2 hob die Baubewilligung mit
+der Begründung auf, dass das Bauvorhaben den Grenzabstand zu den südöstlich
+bzw. südlich gelegenen Parz.-Nrn. 04 und 05, beide Grundbuch […], verletze.
+Nach dem Dargelegten hatte die Baubewilligungsbehörde bzw. im
+Beschwerdeverfahren der Beschwerdegegner 2 die Einhaltung des
+Grenzabstands zu prüfen. Unbestritten ist, dass gegenüber den erwähnten
+Liegenschaften kein Näherbaurecht besteht.
+3.2.2
+Der Grenzabstand beträgt nach Art. 51 Abs. 1 RBG
+vorbehältlich anderer nachbarrechtlicher Abmachungen 4 m. Gemäss Art. 53 BauV
+ist der Grenzabstand die Entfernung zwischen der projizierten Fassadenlinie
+und der Parzellengrenze. Nach Art. 39 BauV ist die projizierte
+Fassadenlinie die Projektion der Fassadenlinie auf die Ebene der amtlichen
+Vermessung. Im Anhang der Bauverordnung zu Art. 39 wird ausgeführt, dass
+die projizierte Fassadenlinie als Hilfsgrösse zur Bestimmung der Abstände
+(Grenz- und Gebäudeabstand) sowie der Gebäudelänge und Gebäudebreite diene.
+Aus der dazu gehörenden Figur 4 wird ersichtlich, dass die projizierte
+Fassadenlinie vorspringende Gebäudeteile unberücksichtigt lässt. Art. 40 BauV
+enthält eine Definition der vorspringenden Gebäudeteile. Diese ragen
+höchstens bis zum zulässigen Mass (für die
+Tiefe) über die Fassadenflucht hinaus und dürfen – mit Ausnahme der
+Dachvorsprünge – das zulässige Mass (für die Breite) bzw. den zulässigen
+Anteil bezüglich des zugehörigen Fassadenabschnitts, nicht überschreiten.
+3.2.3
+Wie der Beschwerdegegner 2 in seinem
+Beschwerdeentscheid zutreffend ausführt, weist das Bauvorhaben im ersten und
+zweiten Obergeschoss gegen Süden der Fassade vorgelagerte Wohntrakte auf.
+Diese ragen um 3,95 m über die reguläre Fassade hinaus. Werden die beiden
+vorgelagerten Wohntrakte bei der Projizierung der Fassadenlinie
+berücksichtigt, unterschreitet das geplante Bauvorhaben gegenüber den Parzellen-Nrn.
+04 und 05 den zulässigen Grenzabstand deutlich. Es stellt sich daher die
+Frage, ob die vorgelagerten Wohntrakte als vorspringende Gebäudeteile zu
+gelten haben und folglich nicht zu berücksichtigen sind oder ob sie als Teile
+des Gebäudes durch die projizierte Fassadenlinie eingeschlossen werden.
+3.2.4
+Die Definitionen des Grenzabstands, der projizierten
+Fassadenlinie (inkl. der Figur 4 gemäss Anhang zur Bauverordnung) und der
+vorspringenden Gebäudeteile wurden wörtlich der Interkantonalen Vereinbarung
+über die Harmonisierung der Baubegriffe vom 22. September 2005 (IVHB)
+entnommen, obwohl der Kanton Glarus diesem Konkordat bisher nicht beigetreten
+ist. Die IVHB ist daher sinngemäss für die Frage anzuwenden, ob die
+vorgelagerten Wohntrakte vorspringende Gebäudeteile darstellen, welche für
+die projizierte Fassadenlinie und dadurch auch für den Grenzabstand nicht zu
+beachten sind. Massgebend ist dabei, dass die vorspringenden Gebäudeteile
+unter anderem dann als Teile eines Gebäudes gelten und nicht mehr
+privilegiert sind, wenn sie in der Tiefe das zulässige Mass überschreiten.
+Dabei ist wesentlich, dass gemäss Ziff. 3.4 der Erläuterungen zur IVHB vom 3.
+September 2013 das kantonale Recht, das Mass, um das die vorspringenden
+Gebäudeteile über die Fassadenflucht hinausragen dürfen, begrenzen muss.
+Vorliegend begrenzt bis heute aber weder das kantonale noch das kommunale
+Recht dieses Mass. Dabei handelt es sich um eine Gesetzeslücke, da die
+Definition des vorspringenden Gebäudeteils ja wie dargelegt der IVHB
+entnommen wurde und das genannte Mass gemäss den Erläuterungen zur IVHB durch
+den Gesetzgeber bestimmt werden müsste.
+Um diese Gesetzeslücke zu
+schliessen, rechtfertigt sich ein Blick auf die Regelungen der
+Konkordatskantone. In den Kantonen Aargau (§ 21 Abs. 1 der Bauverordnung vom
+25. Mai 2011), Thurgau (§ 24 Abs. 1 der Verordnung des Regierungsrates zum Planungs-
+und Baugesetz und zur Interkantonalen Vereinbarung über die Harmonisierung
+der Baubegriffe vom 18. September 2012) und Schaffhausen (Ziff. 3.4 des
+Anhangs zum Gesetz über die Raumplanung und das öffentliche Baurecht im
+Kanton Schaffhausen vom 1. Dezember 1997) dürfen vorspringende
+Gebäudeteile höchstens um 1,5 m über die Fassadenflucht hinausragen, im
+Kanton Solothurn höchstens um 1,2 m (§ 21
+ter
+Abs. 4 der
+kantonalen Bauverordnung vom 3. Juli 1978) und im Kanton Appenzell
+Innerrhoden höchstens um 2 m (Art. 42 der Verordnung zum Baugesetz vom
+22. Oktober 2012).
+Aus den dargestellten
+Regelungen zeigt sich, dass Wohntrakte, welche wie beim vorliegend zu
+beurteilenden Bauvorhaben 3,95 m über die Fassadenflucht herausragen, das in
+den Konkordatskantonen als zulässig erachtete Mass deutlich überschreiten.
+Dies gilt selbst dann, wenn man eine grosszügige Regelung träfe und etwa die
+Bestimmung des Kantons Appenzell Innerrhoden anwandte. Insofern ist es nicht
+zu beanstanden, dass der Beschwerdegegner 2 sinngemäss davon ausging, es
+handle sich bei den vorgelagerten Wohntrakte nicht um vorspringende Gebäudeteile
+im Sinne von Art. 40 BauV, weshalb die massgebende Fassadenlinie die
+vorgelagerten Wohntrakte einschliesse. Damit ergibt sich, dass das Bauvorhaben
+den Grenzabstand zu den Parz.-Nrn. 04 und 05, beide Grundbuch […], verletzt,
+weshalb der Beschwerdegegner 2 die Baubewilligung zu Recht aufhob.
+Dies führt zur Abweisung
+der Beschwerde.
+4.
+4.1
+Hinzuweisen ist darauf, dass dem
+Beschwerdegegner 2 beizupflichten ist, soweit er in weiteren Punkten
+Mängel der angefochtenen Baubewilligung aufzeigt. So trifft es beispielsweise
+zu, dass die Ausnahmebewilligung für die Unterschreitung des Gebäudeabstands
+eingehend zu prüfen und zu begründen gewesen wäre (E. 4.3.3 des angefochtenen
+Entscheids). Ebenso durfte die Beigeladene nicht ohne weitere Begründung
+davon ausgehen, der Überbauungsplan "F.______" sei vorliegend nicht
+massgebend, führt die im Überbauungsplan enthaltene Baugestaltungslinie doch
+über das Baugrundstück (E. 4.5.3 des angefochtenen Entscheids).
+4.2
+Schliesslich rechtfertigt sich der Hinweis an den
+Beschwerdegegner 2, dass er nach dem Dargelegten (vgl. vorne E. II/3.1)
+nicht befugt war, den Dienstbarkeitsvertrag vom 15. Februar 1990, mit welchem
+ein gegenseitiges Näherbaurecht für die Parz.-Nr. 01 und die Parz.-Nrn. 02
+und 03, alle Grundbuch […], vereinbart wurde, auszulegen bzw. über dessen
+Anwendbarkeit zu entscheiden. Diese Beurteilung obliegt vielmehr dem Zivilrichter.
+Dass der Beschwerdegegner 2 in diesem Punkt seine Kognition
+überschritten hat, bleibt jedoch im vorliegenden Verfahren unbeachtlich. Die
+Begründung des angefochtenen Entscheids ist nämlich nicht der Rechtskraft
+zugänglich (vgl. vorne E. II/1.2) und die Beschwerde ist im vorinstanzlichen
+Verfahren ohnehin aus anderen Gründen gutgeheissen worden. Sodann ist
+immerhin der Schluss des Beschwerdegegners 2, dass der Dienstbarkeitsvertrag
+der Erteilung der Baubewilligung nicht entgegenstehe, zutreffend, ist doch
+bei unklaren oder allenfalls mangelhaften nachbarrechtlichen Abmachungen die
+Baubewilligung zu erteilen (vgl. vorne E. II/3.1.5).
+III.
+Nach Art. 79 Abs. 1 RBG
+i.V.m. Art. 134 Abs. 1 lit. c VRG hat die Partei, welche im Beschwerde-,
+Klage- oder Revisionsverfahren unterliegt, die amtlichen Kosten zu tragen.
+Ausgangsgemäss sind die Gerichtskosten von Fr. 2'000.- dem unterliegenden
+Beschwerdeführer aufzuerlegen und mit dem von ihm in gleicher Höhe geleisteten
+Kostenvorschuss zu verrechnen. Sodann ist er gemäss Art. 79 Abs. 1 RBG i.V.m.
+Art. 138 Abs. 2 VRG zu verpflichten, den Beschwerdegegnern 1
+eine angemessene Parteientschädigung zu bezahlen. Diesbezüglich hat der Rechtsvertreter
+der Beschwerdegegner 1 eine Honorarnote eingereicht. Diese umfasst aber
+sämtliche seit der Publikation des Baugesuchs entstandenen Bemühungen. Im
+verwaltungsgerichtlichen Beschwerdeverfahren ist indessen nur eine Parteientschädigung
+für den Aufwand zuzusprechen, welcher im Rahmen ebendieses Verfahrens entstanden
+ist. Unter Berücksichtigung des mutmasslichen Arbeits- und Zeitaufwands des
+Rechtsvertreters, der Bedeutung und Schwierigkeit der Sache sowie den für die
+Parteien auf dem Spiel stehenden Interessen an der Angelegenheit erweist sich
+eine Parteientschädigung in der Höhe von insgesamt Fr. 2'000.- (inkl.
+Mehrwertsteuer) als angemessen.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Die
+Gerichtsgebühr von Fr. 2'000.- wird dem Beschwerdeführer auferlegt und
+mit dem von ihm in gleicher Höhe geleisteten Kostenvorschuss verrechnet.
+3.
+Der
+Beschwerdeführer wird verpflichtet, den Beschwerdegegnern 1.1 und 1.2
+eine Parteientschädigung von je Fr. 1'000.-, insgesamt
+Fr. 2'000.- (inkl. Mehrwertsteuer), zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
