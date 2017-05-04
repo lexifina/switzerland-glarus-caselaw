@@ -1,0 +1,442 @@
+---
+decision_id: "gl_gerichte_VG.2017.00016"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2017.00016"
+docket_2: "VG.2017.522"
+decided: "2017-05-04"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=795&W10_KEY=218274&nTrefferzeile=6&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-009.md", "switzerland/bund/acts/830.1/art-016.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/832.20/art-001.md", "switzerland/bund/acts/832.20/art-019.md", "switzerland/bund/acts/832.20/art-026.md"]
+---
+
+# GL Gerichte VG.2017.00016
+
+## Regeste
+
+Sozialversicherung - Unfallversicherung
+
+## Text
+
+Glarus Verwaltungsgericht 04.05.2017 VG.2017.00016 (VG.2017.522)
+Glaris Verwaltungsgericht 04.05.2017 VG.2017.00016 (VG.2017.522)
+Glarona Verwaltungsgericht 04.05.2017 VG.2017.00016 (VG.2017.522)
+
+Sozialversicherung - Unfallversicherung
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom 4. Mai 2017
+II. Kammer
+in Sachen
+VG.2017.00016
+A.______
+Beschwerdeführerin
+vertreten durch Rechtsanwalt B.______
+gegen
+Schweizerische Unfallversicherungsanstalt
+(Suva)
+Beschwerdegegnerin
+betreffend
+Invalidenrente
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Die 1963 geborene, als Angestellte bei einem
+Reinigungsunternehmen beschäftigte A.______ war bei der Schweizerischen
+Unfallversicherungsanstalt (Suva) obligatorisch unfallversichert, als sie
+sich am 12. Oktober 2011 bei einem Unfall ihre linke Hand verletzte. Es wurde
+eine Läsion des triangulären fibrokartilaginären Komplexes (TFCC)
+diagnostiziert. Die Suva kam für die Behandlungsmassnahmen auf, entrichtete
+Taggelder und erteilte Kostengutsprachen für Physiotherapie, Ergotherapie und
+stationäre Massnahmen.
+1.2
+Am 22. Januar 2015 ersuchte A.______ die IV-Stelle
+Glarus um Ausrichtung einer Hilflosenentschädigung. Am 28. Januar 2015
+überwies die IV-Stelle diesen Antrag zuständigkeitshalber der Suva. Am 14.
+April 2015 schloss die Suva den Fall ab und sprach A.______ eine
+Integritätsentschädigung von 7,5 %, jedoch keine Invalidenrente und
+keine Hilflosenentschädigung zu. Dagegen erhob A.______ am 8. Mai 2015
+vorsorglich Einsprache, welche sie am 30. Juli 2015 begründete. Die Suva kam
+am 18. November 2015 auf ihre Verfügung vom 14. April 2015 zurück und
+hob diese auf, da der Fallabschluss zu früh erfolgt sei. Am 14. April 2016
+schloss die Suva den Fall ab und sprach A.______ eine
+Integritätsentschädigung in der Höhe von 7,5 %, jedoch wiederum keine
+Invalidenrente und keine Integritätsentschädigung zu. Gegen diese Verfügung
+erhob A.______ am 18. Mai 2016 Einsprache und beantragte, die Verfügung sei
+aufzuheben und es seien ihr die gesetzlichen Leistungen weiterhin
+auszurichten. Am 16. Januar 2017 wies die Suva die Einsprache von A.______
+ab.
+2.
+Am 16. Februar 2017 erhob
+A.______ Beschwerde beim Verwaltungsgericht und beantragte, der
+Einspracheentscheid der Suva vom 16. Januar 2017 sei aufzuheben und die Suva
+zu verpflichten, ihr die gesetzlichen Leistungen zuzusprechen und auszuzahlen;
+unter Entschädigungsfolgen zu Lasten der Suva.
+Am 17. März 2017
+beantragte die Suva die Abweisung der Beschwerde.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 1 Abs. 1 des Bundesgesetzes über die Unfallversicherung vom 20.
+März 1981 (UVG) i.V.m. Art. 56 ff. des Bundesgesetzes über den Allgemeinen
+Teil des Sozialversicherungsrechts vom 6. Oktober 2000 (ATSG) sowie Art.
+1 des Einführungsgesetzes zum Bundesgesetz über die Unfallversicherung vom
+3. Mai 2009 (EG UVG) zur Behandlung der vorliegenden Beschwerde
+zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt sind, ist auf
+die Beschwerde einzutreten.
+2.
+2.1
+Die Beschwerdeführerin macht geltend, die für die
+Bemessung des Invalideneinkommens ausgewählten Blätter der Dokumentation von
+Arbeitsplätzen (DAP) entsprächen nicht den medizinischen Vorgaben des
+ärztlichen Zumutbarkeitsprofils. So sehe die Beschäftigung als Hilfsarbeiterin
+Rollerei (DAP-Nr. 4212) etwa vor, dass rund zehnmal täglich Lasten von
+20 Kilogramm zu heben seien, die Funktion als Leiterplattencodiererin
+(DAP-Nr. 6113) erfordere Rotationsbewegungen des Handgelenks während
+drei bis fünf Stunden und die Tätigkeit Biegen/Abkanten (DAP-Nr. 6048)
+bedinge, dass Teile mit einem Gewicht von bis zu acht Kilogramm angehoben und
+in die Maschine gehalten würden. Auch das Tragen einer Handgelenksschiene
+ändere nichts daran, dass jene Bewegungen für sie einerseits mit Schmerzen verbunden
+seien, andererseits einen vermehrten Krafteinsatz erforderten, welchen sie
+mit ihrer beeinträchtigten Hand – als Linkshänderin handle es sich zudem um
+ihre dominante Hand – nicht aufzubringen vermöge. Die ausgewählten
+DAP-Profile seien demnach inadäquat zur ihr verbliebenen
+Resterwerbstätigkeit. Sie seien daher zur Bestimmung des Invalideneinkommens
+untauglich. Dementsprechend erscheine es angezeigt, den Invaliditätsgrad auf
+der Grundlage der Tabellenlöhne gemäss Lohnstrukturerhebung (LSE) des
+Bundesamts für Statistik zu ermitteln, unter Berücksichtigung eines
+leidensbedingten Abzugs wegen ihrer Linkshändigkeit. Insofern erwartungsgemäss
+die Erheblichkeitsgrenze von 10 % erreicht werde, sei ihr eine Invalidenrente
+zuzusprechen.
+2.2
+Die Beschwerdegegnerin hält dem entgegen, die
+ausgewählten DAP-Profile Nr. 4212, 6113, 6048, 9982 und 410120
+entsprächen dem Zumutbarkeitsprofil der Beschwerdeführerin. Das Heben der
+Stoffballen (gemäss DAP-Profil Nr. 4212) könne bzw. müsse beidhändig
+erfolgen. Dies ergebe sich bereits aus der Beschreibung der körperlichen
+Anforderungen, wonach beidhändige Arbeiten bedingt notwendig seien. Somit
+ergebe sich bei Annahme einer hälftigen Aufteilung des Gewichts auf beide
+Hände nur noch eine leichte Belastung pro Hand durch das Heben. Im Übrigen
+könne sogar davon ausgegangen werden, dass mehr als die Hälfte des Gewichts
+mit der uneingeschränkten rechten Hand gehoben werden könne, wodurch für die
+linke, eingeschränkte Hand nur noch eine sehr leichte Belastung bestünde.
+Dass es sich bei der rechten Hand nicht um die dominante handle, sei unbeachtlich,
+da aus dem DAP-Blatt Nr. 4212 hervorgehe, dass keine feinmotorischen
+Arbeiten verrichtet werden müssten. Da demnach pro Hand nur sehr leichte bis
+leichte Lasten zu heben seien, liege kein vermehrter Krafteinsatz der linken
+Hand vor und die im DAP-Profil Nr. 4212 beschriebene Tätigkeit
+entspreche dem erstellten Zumutbarkeitsprofil. Bezüglich DAP-Profil
+Nr. 6113 verkenne die Beschwerdeführerin, dass im Zumutbarkeitsprofil
+bei Tragen einer Handgelenksschiene keine Einschränkungen bezüglich der
+Rotation des Handgelenks formuliert worden seien, sondern lediglich bezüglich
+Tätigkeiten, die mit Vibrations- und Stossbelastungen für das linke
+Handgelenk verbunden seien. Das DAP-Profil Nr. 6113 sei der
+Beschwerdeführerin zumutbar. Auch das DAP-Profil Nr. 6048 sei der Beschwerdeführerin
+zumutbar. Gemäss den körperlichen Anforderungen würden diese leichten
+Hebe-/Tragebewegungen manchmal, d.h. 0.5 bis 4 Stunden täglich, ausgeführt.
+Solche leichten Tätigkeiten seien der Beschwerdeführerin gemäss medizinischer
+Beurteilung zumutbar. Ein vermehrter Kraftaufwand sei nicht erforderlich,
+handle es sich doch um leichte Gegenstände und müssten solche nur manchmal
+angehoben werden. Ausserdem sei auch hier gemäss Beschreibung der körperlichen
+Anforderungen im DAP-Profil eine beidhändige Tätigkeit bedingt notwendig,
+woraus geschlossen werden könne, dass die Teile beidhändig angehoben werden
+könnten. Dadurch werde die Belastung für die linke eingeschränkte Hand durch
+Unterstützung derselben durch die rechte Hand zusätzlich verringert bzw.
+könnte die Tätigkeit vollends mit der rechten Hand erledigt werden. Da
+feinmotorische Tätigkeiten nie erforderlich seien, sei es vorliegend auch unbeachtlich,
+dass es sich bei der rechten Hand nicht um die dominante handle. Im Übrigen
+habe sie, die Beschwerdegegnerin, die DAP-Methode stets dann anzuwenden, wenn
+sie im Einzelfall die bundesgerichtlichen Vorgaben einhalten könne.
+3.
+Die Beschwerdeführerin
+rügt vor Verwaltungsgericht nur noch den Einkommensvergleich. Sie macht zu
+Recht nicht mehr geltend, dass die psychischen Beschwerden unfallkausal
+seien. Dazu wäre ein natürlicher und adäquat kausaler Zusammenhang zwischen
+den geltend gemachten psychischen Beeinträchtigungen und dem Sturzereignis
+vom 12. Oktober 2011 erforderlich (BGE 129 V 177 E. 3.1). Die Beschwerdegegnerin
+ordnete in ihrem Einspracheentscheid das Unfallgeschehen zutreffend bei den
+mittelschweren Unfällen an der Grenze zu den leichten ein und verneinte unter
+umfassender Würdigung der bundesgerichtlichen Kriterien (BGE 115 V 133 E.
+6.c/aa: besonders dramatische Begleitumstände oder besondere Eindrücklichkeit
+des Unfalls; die Schwere oder besondere Art der erlittenen Verletzungen,
+insbesondere ihre erfahrungsgemässe Eignung, psychische Fehlentwicklungen
+auszulösen; ungewöhnlich lange Dauer der ärztlichen Behandlung; körperliche
+Dauerschmerzen; ärztliche Fehlbehandlung, welche die Unfallfolgen erheblich verschlimmert;
+schwieriger Heilungsverlauf und erhebliche Komplikationen; Grad und Dauer der
+physisch bedingten Arbeitsunfähigkeit) einen adäquaten Kausalzusammenhang
+zwischen dem Unfallereignis und den psychischen Beschwerden der Beschwerdeführerin.
+Folglich rügt die
+Beschwerdeführerin auch zu Recht nicht mehr, der Fallabschluss sei zu früh
+erfolgt. Dies hängt damit zusammen, dass die psychischen Beschwerden nicht
+unfallkausal sind und dass die Behandlung bezüglich der Hand abgeschlossen
+ist. So führte
+Suva-Kreisarzt Dr. med. C.______, Facharzt für Orthopädische
+Chirurgie und Traumatologie des Bewegungsapparates FMH, in seinem Bericht vom
+4. Februar 2016 nachvollziehbar aus, gemäss Bericht von Dr. med.
+D.______, Chefarzt Kantonsspital E.______, nach Konsultation vom
+21. Dezember 2015 und Rücksprache mit der Beschwerdeführerin am 15.
+Januar 2016 scheine die medizinische Behandlung nun abgeschlossen.
+Sodann macht die
+Beschwerdeführerin zu Recht nicht mehr geltend, dass ihr angepasste
+Tätigkeiten vollschichtig nicht zumutbar seien. Es ist mit dem Kreisarzt
+Dr. F.______ davon auszugehen, dass ihr die angestammte Tätigkeit im
+Reinigungsdienst nicht mehr möglich ist. Mit Tragen der Handgelenksschiene
+links sind ihr hingegen leichte körperliche Tätigkeiten, die keinen
+vermehrten Krafteinsatz der linken Hand erfordern, vollschichtig zumutbar,
+wobei keine Tätigkeiten mit Vibrations- und Stossbelastung sowie
+Kälteexposition für die linke Hand möglich sind.
+3.4
+Die Höhe der Integritätsentschädigung wurde in der
+Einsprache nicht angefochten und ist inzwischen rechtskräftig geworden. Eine
+Hilflosenentschädigung wird zu Recht nicht mehr beantragt, da in keiner Weise
+ersichtlich ist, inwiefern die Beschwerdeführerin in den massgeblichen
+Lebensverrichtungen nach Art. 26 Abs. 1 UVG i.V.m. Art. 9 ATSG
+(Ankleiden, Auskleiden; Aufstehen, Absitzen, Abliegen; Essen, Körperpflege;
+Verrichtung der Notdurft; Fortbewegung im oder ausser Haus, Kontaktaufnahme;
+vgl. BGE 121 V 88 E. 3a) eingeschränkt wäre. So hatte sie selber angegeben,
+es bestünden keine Defizite bei der Führung ihres Haushalts.
+Zu prüfen bleibt somit nur
+noch die Rechtmässigkeit des Einkommensvergleichs.
+4.
+4.1
+Gemäss Art. 16 ATSG wird für die Bestimmung des
+Invaliditätsgrads das Erwerbseinkommen, das die versicherte Person nach
+Eintritt der Invalidität und nach Durchführung der medizinischen Behandlung
+und allfälliger Eingliederungsmassnahmen durch eine ihr zumutbare Tätigkeit
+bei ausgeglichener Arbeitsmarktlage erzielen könnte, in Beziehung gesetzt zum
+Erwerbseinkommen, das sie erzielen könnte, wenn sie nicht invalid geworden
+wäre.
+4.2
+Für die Festsetzung des Invalideneinkommens ist nach
+der Rechtsprechung primär von der beruflich-erwerblichen Situation
+auszugehen, in welcher die versicherte Person konkret steht. Übt sie nach
+Eintritt der Invalidität eine Erwerbstätigkeit aus, bei der kumulativ
+besonders stabile Arbeitsverhältnisse gegeben sind und anzunehmen ist, dass
+sie die ihr verbleibende Arbeitsfähigkeit in zumutbarer Weise voll ausschöpft,
+und erscheint zudem das Einkommen aus der Arbeitsleistung als angemessen und
+nicht als Soziallohn, gilt grundsätzlich der tatsächlich erzielte Verdienst
+als Invalidenlohn.
+Ist kein solches tatsächlich erzieltes Erwerbseinkommen
+gegeben, namentlich weil die versicherte Person nach Eintritt des Gesundheitsschadens
+keine oder jedenfalls keine ihr an sich zumutbare neue Erwerbstätigkeit
+aufgenommen hat, so können nach der Rechtsprechung entweder Tabellenlöhne
+gemäss den vom Bundesamt für Statistik periodisch herausgegebenen LSE oder
+die DAP-Zahlen herangezogen werden (BGE 129 V 472 E. 4.2.1).
+Keine der
+beiden Einkommensvergleichsmethoden geniesst Vorrang (BGE 129 V 472 E. 4.2.1
+mit Hinweisen; Jean-Maurice Frésard/Margit Moser-Szeless, in Ulrich Meyer
+[Hrsg.], Schweizerisches Bundesverwaltungsrecht, Bd. XIV, Soziale Sicherheit,
+3. A., Basel 2016, F. Rz. 240).
+4.3
+Bei den DAP-Profilen handelt es sich um Auszüge aus
+einer Datenbank, welche von der Beschwerdegegnerin geführt wird. Das
+Abstellen auf DAP-Lohnangaben setzt voraus, dass sich die Ermittlung des
+Invalideneinkommens auf mindestens fünf zumutbare Arbeitsplätze stützt. Im
+Hinblick auf die geforderte Repräsentativität der DAP-Profile und der daraus
+abgeleiteten Lohnangaben hat der Unfallversicherer im Sinne einer qualitativen
+Anforderung jedoch, zusätzlich zur Auflage von mindestens fünf DAP-Blättern,
+Angaben zu machen über die Gesamtzahl der aufgrund der gegebenen Behinderung
+in Frage kommenden dokumentierten Arbeitsplätze, über den Höchst- und den
+Tiefstlohn sowie über den Durchschnittslohn der dem jeweils verwendeten
+Behinderungsprofil entsprechenden Gruppe. Damit wird auch die Überprüfung des
+Auswahlermessens hinreichend ermöglicht, und zwar in dem Sinne, dass die
+Kenntnis der dem verwendeten Behinderungsprofil entsprechenden Gesamtzahl
+behinderungsbedingt in Frage kommender Arbeitsplätze sowie des Höchst-,
+Tiefst- und Durchschnittslohnes im Bereich des Suchergebnisses eine
+zuverlässige Beurteilung der von der Beschwerdegegnerin verwendeten DAP-Löhne
+hinsichtlich ihrer Repräsentativität erlaubt. Das rechtliche Gehör ist
+dadurch zu wahren, dass die Beschwerdegegnerin die für die
+Invaliditätsbemessung im konkreten Fall herangezogenen DAP-Profile mit den erwähnten
+zusätzlichen Angaben auflegt und die versicherte Person Gelegenheit hat, sich
+hierzu zu äussern. Allfällige Einwendungen der versicherten Person bezüglich
+des Auswahlermessens und der Repräsentativität der DAP-Blätter im Einzelfall
+sind grundsätzlich im Einspracheverfahren zu erheben, damit sich die Beschwerdegegnerin
+im Einspracheentscheid damit auseinander setzen kann. Ist die Beschwerdegegnerin
+nicht in der Lage, im Einzelfall den erwähnten Anforderungen zu genügen, kann
+im Bestreitungsfall nicht auf den DAP-Lohnvergleich abgestellt werden; die
+Beschwerdegegnerin hat diesfalls im
+Einspracheentscheid
+die Invalidität aufgrund der LSE-Löhne zu ermitteln. Im Beschwerdeverfahren
+ist es Sache des angerufenen Gerichts, die Rechtskonformität der
+DAP-Invaliditätsbemessung zu prüfen, gegebenenfalls die Sache an den Versicherer
+zurückzuweisen oder an Stelle des DAP-Lohnvergleichs einen
+Tabellenlohnvergleich gestützt auf die LSE vorzunehmen (BGE 129 V 472 E.
+4.2.2).
+5.
+5.1
+Die Beschwerdegegnerin hat gemäss ihrer Verfügung
+vom 14. April 2015 der Festsetzung des Invalideneinkommens fünf DAP-Blätter
+zugrunde gelegt. Bei den angeführten Arbeiten handelte es sich um eine Stelle
+als Hilfsarbeiterin Rollerei (DAP-Nr. 4212), eine Stelle als
+Hilfsarbeiterin in der Leiterplattencodierung (DAP-Nr. 6113), eine
+Stelle als Hilfsarbeiterin im Bereich Biegen/Abkanten (DAP-Nr. 6048),
+eine Stelle als Postcheckbüro-Angestellte in der Belegverarbeitung
+(DAP-Nr. 8839) sowie um eine Stelle als Qualitätskontrolleurin
+Verkaufsteig (DAP-Nr. 9982). Nachdem die Beschwerdeführerin dagegen
+Einsprache erhoben und die Beschwerdegegnerin ihre Verfügung aufgehoben
+hatte, legte Letztere der neuen Verfügung das DAP-Profil Nr. 410120
+(Mitarbeiterin Cut/Paste) anstelle des DAP-Profils Nr. 8839 zugrunde.
+5.2
+Strittig und zu prüfen ist, ob die Berücksichtigung
+der DAP-Profile zu einer rechtmässigen Invaliditätsbemessung führt.
+5.2.1
+Bei der Beschäftigung als Hilfsarbeiterin Rollerei
+(DAP-Nr. 4212) besteht die Haupttätigkeit in Überwachungsarbeiten an
+einer Maschine, stehend. Rund zehnmal täglich muss zu zweit ein ein bis zwei
+Meter langer, 40 Kilogramm schwerer Stoffballen ausgewechselt werden. Der
+Einsatz beider Hände ist nur bedingt notwendig. Die Beschwerdegegnerin führt
+zum Zumutbarkeitsprofil bezüglich der Funktion als Hilfsarbeiterin Rollerei
+(DAP-Nr. 4212) aus, die Tätigkeit erfordere den Einsatz beider Hände.
+Somit ergebe sich, bei Annahme einer hälftigen Aufteilung des Gewichts auf
+beide Hände, nur noch eine leichte Belastung pro Hand durch das Heben.
+Die Handkraft links konnte
+seit dem Befundbericht vom Juli 2014 (Handkraft links 10 kp) nicht mehr
+objektiviert werden. Zwar wurden am 21. August 2014 und am 27. November
+2015 Operationen durchgeführt, welche zu einer gewissen Schmerzreduktion
+führten, jedoch nicht zu einer Besserung des Zustands. Auch wenn die Haupttätigkeit
+des DAP-Profils Nr. 4212 in Überwachungsarbeiten an einer Maschine
+besteht, muss doch zehnmal im Tag ein 40 Kilogramm schwerer Stoffballen zu
+zweit ausgewechselt werden. Es kann nicht mit überwiegender Wahrscheinlichkeit
+davon ausgegangen werden, dass die Beschwerdeführerin dabei die Einschränkungen
+an der linken Hand mit der rechten Hand kompensieren kann.
+5.2.2
+Die Tätigkeit als Leiterplattencodiererin
+(DAP-Nr. 6113) erfordert das Heben und Tragen von sehr leichten Lasten
+(bis 5 Kilogramm) während fünfeinhalb bis acht Stunden. In diesem
+Zusammenhang müssen Leiterplatten codiert werden, indem mit einer Spitzzange
+elektrische Drähte entfernt werden. Zudem ist das leichte feinmotorische
+Hantieren mit Gegenständen sehr oft erforderlich. Dabei muss die Hand oft
+rotiert werden. Beidhändigkeit ist dabei bedingt notwendig. Auch hier bestehen
+begründete Zweifel, ob dies aus medizinischer Sicht noch zumutbar ist, ist
+die Beweglichkeit der linken dominanten Hand der Beschwerdeführerin doch
+stark eingeschränkt.
+5.2.3
+Dies trifft auch auf das DAP-Profil Nr. 6048
+zu, bei dem Teile bis höchstens acht Kilogramm abgekantet werden müssen.
+Gemäss Tätigkeitsbeschrieb müssen Teile in die Maschine gehalten werden und
+mit dem Fuss ausgelöst werden. Die Arbeit wird stehend ausgeführt. Auch hier
+dürfte die Beschwerdeführerin die Tätigkeit kaum lediglich mit der
+adominanten rechten Hand ausführen. Einerseits handelt es sich hier wie
+gesagt nicht um die dominante Hand und andererseits ist beim Abkantvorgang
+der zu bearbeitenden Teile doch eine gewisse Präzision (bei der Eingabe in
+die Maschine) gefordert, die nur durch den Einsatz beider Hände erzielt
+werden kann. Dies folgt aus der Überlegung, dass die abzukantenden Teile eine
+gewisse Breite aufweisen, was den Einsatz beider Hände nötig macht, weil es
+sonst zu Störungen an der Maschine kommen könnte, wenn die Teile infolge unzureichender
+Handkraft (bei Einsatz nur einer Hand) unsachgemäss eingegeben werden oder
+die Kraft der gesunden Hand nicht ausreicht, das geforderte Abkantergebnis
+sicherzustellen. Ausserdem kann unter Berücksichtigung der Arbeitsweise
+gängiger Abkantmaschinen nicht ohne Weiteres behauptet werden, diese lösten
+keine Stoss- und Vibrationseffekte beim Bedienpersonal aus. Jedenfalls ist
+aus der Arbeitsplatzbeschreibung nicht ersichtlich, wie die Arbeiten konkret
+zu erledigen sind, welche Maschinen eingesetzt werden und welche
+Rahmenbedingungen dabei herrschen. Es ist zumindest zweifelhaft, ob dabei
+nicht Drehbewegungen erforderlich sind. Die Beschwerdeführerin hatte zuvor
+beim G.______ in der Bäckerei und bei H.______ zwei Arbeitsversuche
+durchgeführt, die verdeutlichten, dass ihr Drehbewegungen und feinmotorische
+Arbeiten mit der linken Hand nicht mehr möglich sind.
+5.4
+Insgesamt bestehen bei drei der fünf DAP-Profile
+erhebliche Zweifel, ob die Beschwerdeführerin solche Arbeit ausführen kann.
+Seit der letzten Einschätzung der Handkraft der linken Hand vom Juli 2014
+konnte diese nicht mehr handdynamometrisch objektiviert werden und es besteht
+eine Unklarheit bezüglich der Belastungsgrenze. Die Operationen führten denn
+auch nicht dazu, dass die Handkraft erhöht wurde. Die Handmanschette diente
+nur dem Schutz vor Belastungen und vor Verschlimmerung der Schmerzen. Obwohl
+die Beschwerdeführerin in ihrer Einsprache rügte, die DAP-Profile seien nicht
+anwendbar, passte die Beschwerdegegnerin diese nicht an. Da das
+Invalideneinkommen nach dem Dargelegten nicht anhand der DAP-Profile bestimmt
+werden kann, ist auf die LSE-Tabellenlöhne abzustellen.
+6.
+6.1
+Praxisgemäss ist bei der Ermittlung des
+Invalideneinkommens gestützt auf die LSE-Löhne von der Tabelle TA1,
+Monatlicher Bruttolohn (Zentralwert) nach Wirtschaftszweigen, Kompetenzniveau
+und Geschlecht, Privater Sektor 2014, auszugehen. Laut LSE 2014 belief sich
+der Zentralwert für die mit einfachen Tätigkeiten körperlicher und
+handwerklicher Art (Kompetenzniveau 1) beschäftigten Frauen im privaten
+Sektor im Jahre 2014 auf Fr. 4'300.- monatlich. Dieser Tabellenlohn ist auf
+die für das Jahr 2015 geltende durchschnittliche Wochenarbeitszeit von 41,7
+Stunden umzurechnen. Der daraus resultierende Betrag von jährlich Fr.
+53'793.- ist an die bis 2015 erfolgte Nominallohnentwicklung für Frauen von
+0,5 % anzupassen, womit als Basis von einem Invalideneinkommen von Fr.
+54'061.97 pro Jahr auszugehen ist.
+6.2
+Die Beschwerdeführerin macht einen
+Abzug vom Tabellenlohn geltend.
+Nach
+der Rechtsprechung ist ein Abzug vom Tabellenlohn gerechtfertigt, wenn im
+Einzelfall Anhaltspunkte dafür bestehen, dass ein Versicherter, der
+gesundheitsbedingt lediglich noch leichte Hilfsarbeiten ausführen kann, seine
+Restarbeitsfähigkeit auf dem allgemeinen Arbeitsmarkt nur mit
+unterdurchschnittlichem erwerblichem Erfolg zu verwerten in der Lage ist.
+Zudem können weitere persönliche und berufliche Merkmale (Alter, Dauer der
+Betriebszugehörigkeit, Nationalität oder Aufenthaltskategorie sowie
+Beschäftigungsgrad) Auswirkungen auf die Lohnhöhe haben (BGE 126 V 75 E. 5a,
+mit Hinweisen). Dabei ist der Abzug vom statistischen Lohn unter Berücksichtigung
+aller jeweils in Betracht fallenden Merkmale festzusetzen, letztlich aber auf
+insgesamt höchstens 25 % zu begrenzen. Im konkreten Fall gilt es zunächst
+zu berücksichtigen, dass hinsichtlich der körperlichen Anforderungen (schwer,
+mittelschwer, leicht) zwischen der angestammten Tätigkeit der Beschwerdeführerin
+und der ihr nach Eintritt des Gesundheitsschadens an der linken Hand noch
+zumutbaren Tätigkeiten ein Unterschied besteht. Während die Beschwerdeführerin
+vor dem Unfall im Reinigungsgewerbe mit zum Teil mittelschweren Arbeiten
+beschäftigt war, sind ihr nun nur noch leichte, angepasste Tätigkeiten zumutbar,
+immerhin jedoch zu einem Vollpensum. Die Beschwerdeführerin kann ihre dominante
+Hand zwar nicht lediglich als Zudienhand einsetzen, ist aber beim Gebrauch
+der Hand deutlich eingeschränkt (keine Vibrations- und Stossbelastungen,
+keine Kälteexposition) und damit auf dem Arbeitsmarkt in Konkurrenz mit einer
+Mitbewerberin ohne Einschränkungen benachteiligt. Es rechtfertigt sich daher
+ein Abzug vom Tabellenlohn in der Höhe von 15 % (vgl. BGer-Urteil
+8C_1050/2009 E. 4.2).
+Damit
+resultiert ein Invalideneinkommen von Fr. 45'952.67. Stellt man dieses
+im Einkommensvergleich dem unbestrittenen Valideneinkommen von
+Fr. 62'699.- gegenüber, resultiert eine Erwerbseinbusse von
+Fr. 17'046.33, was einen gerundeten Invaliditätsgrad von 27 %
+ergibt.
+Folglich hat die
+Beschwerdeführerin Anspruch auf eine Invalidenrente, wobei der Rentenanspruch
+gemäss Art. 19 Abs. 1 UVG mit der Einstellung der Heilkostenleistungen per
+30. April 2016 entsteht.
+6.3
+Demgemäss ist die Beschwerde gutzuheissen. Der
+Einspracheentscheid der Beschwerdegegnerin vom 16. Januar 2017 und deren
+Verfügung vom 14. April 2016 sind insofern abzuändern, als der
+Beschwerdeführerin ab dem 1. Mai 2016 eine auf einem Invaliditätsgrad von
+27 % basierende Invalidenrente zuzusprechen ist.
+III.
+1.
+Die Gerichtskosten sind von
+Gesetzes wegen auf die Staatskasse zu nehmen (Art. 1 UVG i.V.m.
+Art. 61 lit. a ATSG).
+2.
+Die
+obsiegende Beschwerdeführerin hat Anspruch auf eine Parteientschädigung.
+Diese ist ohne Rücksicht auf den Streitwert nach der Bedeutung der
+Streitsache und nach der Schwierigkeit des Prozesses zu bemessen
+(Art. 61 lit. g ATSG) und auf Fr. 800.- (inkl. Mehrwertsteuer)
+festzusetzen.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird gutgeheissen. Der Einspracheentscheid der Beschwerdegegnerin
+vom 16. Januar 2017 und deren Verfügung vom 14. April 2016 werden
+insofern abgeändert, als der Beschwerdeführerin ab dem 1. Mai 2016 eine auf
+eiinem Invaliditätsgrad von 27 % basierende Invalidenrente zugesprochen
+wird.
+2.
+Die
+Gerichtskosten werden auf die Staatskasse genommen.
+3.
+Die
+Beschwerdegegnerin wird verpflichtet, der Beschwerdeführerin innert 30 Tagen
+nach Rechtskraft dieses Entscheids eine Parteientschädigung von
+Fr. 800.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
