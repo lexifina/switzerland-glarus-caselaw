@@ -1,0 +1,426 @@
+---
+decision_id: "gl_gerichte_OG.2017.00036"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2017.00036"
+docket_2: "OGS.2018.41"
+decided: "2017-06-16"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=938&W10_KEY=218274&nTrefferzeile=1&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/311.0/art-305.md", "switzerland/bund/acts/312.0/art-061.md", "switzerland/bund/acts/312.0/art-073.md", "switzerland/bund/acts/312.0/art-101.md", "switzerland/bund/acts/312.0/art-105.md", "switzerland/bund/acts/312.0/art-128.md", "switzerland/bund/acts/312.0/art-132.md", "switzerland/bund/acts/312.0/art-133.md", "switzerland/bund/acts/312.0/art-134.md", "switzerland/bund/acts/312.0/art-227.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-421.md", "switzerland/bund/acts/935.61/art-012.md"]
+---
+
+# GL Gerichte OG.2017.00036
+
+## Regeste
+
+amtliche Verteidigung
+
+## Text
+
+Glarus Obergericht 16.06.2017 OG.2017.00036 (OGS.2018.41)
+Glaris Obergericht 16.06.2017 OG.2017.00036 (OGS.2018.41)
+Glarona Obergericht 16.06.2017 OG.2017.00036 (OGS.2018.41)
+
+Kanton Glarus
+Obergericht
+Entscheid
+vom 16. Juni 2017
+Verfahren
+OG.2017.00036
+A.______
+Beschwerdeführer
+vertreten
+durch B______
+gegen
+Staats- und Jugendanwaltschaft des Kantons Glarus
+Beschwerdegegnerin
+vertreten
+durch die Staatsanwältin
+betreffend
+amtliche
+Verteidigung
+über
+die Anträge:
+de
+s
+Beschwerdeführers
+(gemäss Eingabe vom 12. Juni 2017, act. 2):
+1.
+Es sei die Verfügung der
+Staats- und Jugendanwaltschaft des Kantons Glarus vom 8. Juni 2017
+aufzuheben.
+2.
+Es sei die aufschiebende
+Wirkung anzuordnen.
+3.
+Alles unter Kosten- und
+Entschädigungsfolgen zu Lasten der Staatsanwalt­schaft des Kantons Glarus.“
+____________________
+Das Gericht
+zieht in Betracht:
+I.
+1.—
+a)
+Die
+Staatsanwaltschaft führt gegen den Beschuldigten A.______ eine
+Strafuntersuchung wegen Verdachts auf Geldfälschung sowie Widerhandlung
+gegen das Betäubungsmittelgesetz in einem schweren Fall. Der Beschuldigte
+wurde am 19. April 2017 festge­nommen, worauf das hiesige
+Zwangsmassnahmengericht am 21. April 2017 gegen ihn wegen Kollusionsgefahr
+Untersuchungshaft anordnete, und zwar befristet bis 21. Mai 2017. Als
+amtlicher Verteidiger des Beschuldigten wurde durch die Staatsanwaltschaft
+(siehe Art. 133 Abs. 1 StPO) Rechtsanwalt B.______ eingesetzt
+(siehe zum Ganzen act. 1 S. 1; sodann im Verfahren SG.2017.00042,
+act. 6).
+b)
+Mit Eingabe vom
+17. Mai 2017 an das Zwangsmassnahmengericht stellte die
+Staatsanwaltschaft wegen fortwährender Kollusionsgefahr Antrag auf
+Verlängerung der Untersuchungshaft (Verfahren SG.2017.00061, act. 1).
+Das angerufene Gericht bejahte die geltend gemachte Kollusionsgefahr und
+verlängerte mit Entscheid vom 23. Mai 2017 die Untersuchungshaft gegen
+den Beschuldigten bis 30. Juni 2017 (Verfahren SG.2017.00061,
+act. 8). Eine dagegen erhobene Beschwerde des Beschuldigten wies das
+Obergericht am 31. Mai 2017 ab (Verfahren OG.2017.00031,
+act. 19).
+2.—
+a)
+Mit
+Verfügung vom 8. Juni 2017 setzte die Staatsanwaltschaft Rechtsanwalt
+B.______ als amtlichen Verteidiger des Beschuldigten ab. Sie führte zur
+Begründung dieses Schrittes zusammengefasst an, Rechtsanwalt B._____ habe
+das detaillierte Angaben zur laufenden Strafuntersuchung enthaltende
+Haftverlängerungsgesuch der Staatsanwaltschaft vom 17. Mai 2017 (siehe
+dazu soeben Erw. 1b) unbesehen der akuten Kollusionsgefahr per E-Mail
+an einen aussenstehenden Dritten weitergeleitet. Sie [die
+Staatsanwaltschaft] sei „aufgrund dieses offensichtlich fehlerhaften Prozessverhaltens“
+nicht mehr bereit, dem amtli­chen Verteidiger B.______ „in diesem Verfahren
+Akten jeglicher Art zur Kenntnis zukommen zu lassen“, da deren
+Weiterleitung an Dritte nicht mehr ausgeschlossen werden könne.
+Abgeschnitten von den Akten aber sei Rechtsanwalt B.______ nicht mehr in
+der Lage, seinen Mandanten in der Strafuntersuchung wirksam zu verteidigen,
+weshalb er in Anwendung von Art. 134 Abs. 2 StPO von seiner
+Funktion zu entbinden und die amtliche Verteidigung des Beschuldigten mit
+separater Verfügung einer anderen Person zu übertragen sei (zum Ganzen
+act. 1).
+b)
+Dagegen liess der
+Beschuldigte durch seinen bisherigen amtlichen Verteidiger am 12. Juni
+2017 beim Obergericht Beschwerde erheben mit den eingangs wiedergegebenen
+Anträgen (act. 2).
+c)
+Das Obergericht hat
+von der Staatsanwaltschaft die sachverhaltsrelevanten Belege einverlangt
+(act. 4 und act. 5/1-5/5), im Übrigen aber auf das Einholen einer
+Stellungnahme verzichtet.
+Der Beschwerdeführer hat dem
+Obergericht am 15. Juni 2017 eine Stellungnahme zu den von der
+Staatsanwaltschaft beigezogenen Unterlagen eingereicht (act. 7).
+3.—
+Die angefochtene
+Verfügung ist der Beschwerde zugänglich (Art. 393 Abs. 1
+lit. c StPO; siehe auch BSK-
+Ruckstuhl
+,
+N 15 zu Art. 134 StPO). Der Beschuldigte ist durch die Absetzung
+seines bisherigen Verteidigers beschwert und damit beschwerdelegitimiert
+(Art. 382 Abs. 1 StPO); die Anfechtungsfrist ist einge­halten
+(Art. 396 Abs. 1 StPO).
+II.
+1.—
+Der Beschuldigte
+hält in seiner Beschwerde dafür, die Staatsanwaltschaft habe mit ihrem
+Entscheid, seinen bisherigen amtlichen Verteidiger B.______ abzusetzen,
+gegen Art. 134 Abs. 2 StPO verstossen, womit er sich auf den
+Beschwerdegrund der Rechtsverletzung im Sinne von Art. 393 Abs. 2
+lit. a StPO beruft (act. 2 Ziff. 6).
+2.—
+Art. 134 StPO
+regelt, wie bereits dessen Marginalie unmissverständlich anzeigt, den
+Widerruf und Wechsel der amtlichen Verteidigung. Gemäss Abs.
+2 die­ser Bestimmung überträgt die Verfahrensleitung die amtliche
+Verteidigung einer anderen Person, wenn das Vertrauensverhältnis zwischen
+der beschuldigten Person und ihrer amtlichen Verteidigung erheblich gestört
+oder eine wirksame Verteidigung aus andern Gründen nicht mehr gewährleistet
+ist.
+2.1.—
+Gegen den Beschuldigten A.______
+wird wegen diverser strafbarer
+Handlungen ermittelt. Das Verfahren befindet sich im Untersuchungsstadium.
+Hier obliegt die Verfahrensleitung der Staatsanwaltschaft (Art. 61
+lit. a StPO). Diese war somit zum Erlass der vorliegend angefochtenen
+Verfügung betreffend Absetzung von Rechtsanwalt B.______ als amtlicher
+Verteidiger des Beschuldigten befugt.
+2.2.—
+a)
+Die Verfahrensleitung hat, wo erforderlich (siehe
+Art. 132 StPO), dem Beschuldigten nicht alleine nur eine amtliche
+Verteidigung zur Seite zu stellen (Art. 133 StPO), sondern – als
+Ausfluss der staatlichen Fürsorgepflicht ‑ ebenso sicherzustellen,
+dass die Verteidigung auch tatsächlich effektiv ist (
+BSK-
+Ruckstuhl
+, N 11 zu
+Art. 134 StPO).
+b)
+Gemäss hier angefochtener Verfügung (act. 1) soll
+Rechtsanwalt B.______ in seiner Funktion als amtlicher Verteidiger
+Informationen aus der Untersuchung gegen seinen Mandanten an einen
+aussenstehenden Dritten weitergeleitet haben. Aufgrund dieses Umstands ist
+die Staatsanwaltschaft nicht mehr bereit, ihm in der laufenden Untersuchung
+weiterhin Akteneinsicht zu gewähren. Dies wiederum hat aus Sicht der
+Staatsanwaltschaft zur Folge, dass Rechtsanwalt B.______ nicht mehr in der
+Lage sei, seinen Mandanten wirksam zu verteidigen, was daher im Lichte von
+Art. 134 Abs. 2 StPO seine Absetzung als amtlicher Verteidiger
+notwendig mache.
+Zur Entscheidung
+der hier strittigen Frage, ob die Staatsanwaltschaft mit der Absetzung von
+Rechtsanwalt B.______ im Lichte von Art. 134 Abs. 2 StPO korrekt
+vorgegangen ist – was der Beschwerdeführer bestreitet ‑, sind
+ausgehend von der Argumentationskaskade der Staatsanwaltschaft folgende
+Punkte in nachstehender Reihenfolge zu klären:
+-
+sind
+Informationen aus der Untersuchung durch den amtlichen Verteidiger
+unzulässigerweise an Dritte weitergeleitet worden?; falls ja,
+-
+darf deswegen dem
+Verteidiger fortan die Akteneinsicht verweigert werden?; wenn ja,
+-
+kann dadurch der
+Verteidiger sein Amt nicht mehr wirksam zugunsten des Beschuldigten
+ausüben?
+2.3.—
+Vorwurf der Weiterleitung von Informationen an Dritte
+a)
+Das hiesige
+Zwangsmassnahmengericht hatte am 21. April 2017 gegen den Beschuldigten
+A.______ Untersuchungshaft angeordnet. Aus Gründen der Verhältnismässigkeit
+hat allerdings das Zwangsmassnahmengericht die Untersuchungshaft befristet,
+dies vor allem deswegen, weil just zu dem Zeitpunkt der bis dahin lange
+arbeitslose Beschuldigte eine Arbeitsstelle in Aussicht hatte (Verfahren
+SG.2017.00042, act. 6 Erw. 6). Konkret lag dem
+Zwangsmassnahmengericht eine E-Mail von X.______ ([…]) an Rechtsanwalt B.______
+vom 20. April 2017 vor. Darin schrieb X.______, „dass A.______ in
+naher Zukunft bei mir als Hilfsarbeiter auf Stundenbasis eine mündliche
+Anstellung zugesprochen habe“; „durch die Schlechte Wirtschaftslage habe
+ich mit meinem Freund der auch im Besitz einer Firma ist […] besprochen
+A.______ gemeinsam in naher Zukunft einzusetzen“ (Verfahren SG.2017.00042,
+act. 5).
+b)
+Mit Eingabe vom
+17. Mai 2017 ersuchte die Staatsanwaltschaft das
+Zwangsmassnahmengericht um Verlängerung der Untersuchungshaft gegen A.______
+(Verfahren SG.2017.00061, act. 1). Darin beschrieb die
+Staatsanwaltschaft die bis dahin erfolgte Auswertung von sichergestellten
+Chat-Aufzeichnungen und nannte einige konkret daraus herausgelesene Namen
+von potenziellen Drogenlieferanten und –abnehmern. In Bezug auf diese
+eruierten Personennamen führte die Staatanwaltschaft weiter aus, aus
+ermittlungstaktischen Gründen könnten die bereits vorgenommenen
+Identifizierungen und erfolgten Einvernahmen und Festnahmen sowie die
+geplanten Untersuchungshandlungen derzeit nicht offen gelegt werden;
+jedenfalls seien bis Ende Juni 2017 weitere 6 Festnahmen geplant. All
+diese Ausführungen und Angaben machte die Staatsanwaltschaft gegenüber dem
+Zwangsmassnahmengericht, um die aus ihrer Sicht weiterhin bestehende Kollusionsgefahr
+darzulegen und die deswegen beantragte verlängerte Inhaftierung des
+Beschuldigten als begründet erscheinen zu lassen (Verfahren SG.2017.00061,
+act. 1 Ziff. 3). In Hinsicht auf die dem Beschuldigten angeblich
+offen stehende Arbeitsstelle merkte die Staatsanwaltschaft sodann an,
+diesbezüglich liege bloss eine „vom Verteidiger ins Recht gelegte
+Gefälligkeitsmail eines kleinen Handwerkbetriebs eines mazedonischen
+Landsmanns“ vor (Verfahren SG.2017.00061, act. 1 Ziff. 2).
+c)
+Die
+Staatsanwaltschaft hat den soeben besprochenen Haftverlängerungsantrag vom
+17. Mai 2017 per E-Mail auch dem Verteidiger B.______ übermittelt
+(Verfahren SG.2017.00061, act. 1 S. 3 unten).
+d)
+In der Folge hat
+Rechtsanwalt B.______ am Donnerstag, 18. Mai 2017, das Haftverlängerungsgesuch
+per E-Mail an X.______ weitergeleitet. Mit Bezug darauf hat er angemerkt:
+„Anbei überlasse ich Ihnen den Antrag der Staatsanwaltschaft betreffend
+Haftverlängerung. Da sehen Sie [X.______] auch, wie die Staatsanwaltschaft
+über Sie denkt. Für dieses Verfahren brauche ich eine aktualisierte
+Bestätigung [gemeint betreffend Arbeitsstelle] und danke Ihnen im Namen von
+A.______ für die Zustellung bis am Montag“ (act. 5/1). Dieser in den
+Akten aufgrund polizeilicher Ermittlungen klar dokumentierte Vorgang der
+Weiterleitung des Haftverlängerungsgesuchs der Staatsanwaltschaft vom
+17. Mai 2017 an X.______ wird in der vorliegenden Beschwerdeeingabe
+zugestanden. Konkret wird darin ausgeführt, der Beschwerdeführer habe nach
+Eingang des Gesuchs um Verlängerung der Untersuchungshaft darum gebeten,
+seinen Arbeitgeber zu informieren und habe zugestimmt, die Unterlagen
+weiterzugeben, dies vor allem deshalb, weil es als stossend empfunden
+worden sei, dass die Staatsanwaltschaft die Arbeitsbestätigung von X.______
+wegen dessen Herkunft pauschal als Gefälligkeitsschreiben beurteilt habe
+(act. 2 Ziff. 22).
+Nach polizeilichen
+Erkenntnissen hat X.______ das von Rechtsanwalt B.______ empfangene
+Dokument (Haftverlängerungsgesuch) in der Folge Drittpersonen zugänglich
+gemacht, darunter namentlich auch gegenüber einem im
+Haftverlängerungsgesuch bezeichneten möglichen weiteren Tatverdächtigen
+(act. 5/3-5/5).
+e)
+aa)
+Gemäss
+Art. 128 StPO ist die Verteidigung in den Schranken von Gesetz und
+Standesregeln allein den Interessen der beschuldigten Person verpflichtet.
+Insoweit die Standesregeln den Aktivitäten des Verteidigers Grenzen setzen,
+steht Art. 12 lit. a BGFA im Vordergrund, laut welcher Bestimmung der
+Anwalt seinen Be­ruf sorgfältig und gewissenhaft auszuüben hat. Diese
+Verpflichtung gilt nicht nur für die Beziehung zwischen Anwalt und Klient,
+sondern insbesondere auch für das Verhalten des Anwalts im Verkehr mit
+Behörden (
+Fellmann
+, in:
+Fellmann/Zindel [Hrsg.], Kommentar zum Anwaltsgesetz, 2. Aufl., Zürich
+2011, N 36 zu Art. 12 BGFA). Weitere gesetzliche Schranken für die
+spezifische Verteidigungstätigkeit setzt das Strafrecht, insbesondere durch
+die Bestimmungen über die Rechtspflegedelikte, dabei gegebenenfalls
+namentlich der Straftatbestand der Begünstigung im Sinne von Art. 305
+StGB bei aktiver, prozesswidriger Vereitelung von Ermittlungen der
+staatlichen Behörden (BSK-
+Ruckstuhl
+,
+N 5 f. zu Art. 128 StPO).
+bb)
+Die
+Staatsanwaltschaft hatte in ihrem Haftverlängerungsgesuch vom 17. Mai
+2017 (act. 5/11 Anhang; Verfahren SG.2017.00061, act. 1)
+gegenüber dem Zwangsmassnahmengericht notwendigerweise die Umstände
+darzulegen, welche die von ihr behauptete fortbestehende Kollusionsgefahr
+begründen und eine Verlängerung der Untersuchungshaft gegen den
+Beschuldigten A.______ rechtfertigen sollten. Dabei hat die
+Staatsanwaltschaft konkret weitere Tatverdächtige und/oder mitwissende
+Personen bezeichnet, gegen welche im Zusammenhang mit dem verfolgten
+mutmasslich umfangreichen Betäubungsmittelhandel noch Untersuchungen und
+teilweise Verhaftungen vorgesehen waren. Das betreffende
+Haftverlängerungsgesuch war in der Folge auch dem Verteidiger des
+Beschuldigten zugänglich zu machen (siehe Art. 101 StPO sowie
+insbesondere Art. 227 Abs. 3 StPO).
+cc)
+Rechtsanwalt
+B.______ musste bei der ihm obliegenden Sorgfaltspflicht (Art. 12
+lit. a BGFA) die Tragweite der im Haftverlängerungsgesuch enthaltenen
+detaillierten Informationen zur laufenden Strafuntersuchung erkennen. Indem
+darin konkret Namen von Personen bezeichnet waren, die von der Polizei bis
+dahin noch nicht abschliessend identifiziert und ausfindig gemacht werden
+konnten und gegen welche teilweise noch Zwangsmassnahmen geplant waren,
+musste ihm bewusst sein, dass eine Offenlegung dieses Dokuments gegenüber
+Drittpersonen die Interessen der Strafverfolgung möglicherweise gefährden
+wenn nicht gar vereiteln könnte. Folglich war die Verbreitung des Inhalts
+des Haftverlängerungsgesuchs nicht statthaft. Für die Weitergabe des
+vollständigen Haftverlängerungsgesuchs an X.______ ist auch schlicht kein
+anerkennenswertes Motiv ersichtlich. Alleine um X.______ darüber zu
+informieren, wie die Staatsanwaltschaft „über Sie denkt“ (act. 5/1),
+hätte es genügt, ihm einzig mitzuteilen, die Staatsanwaltschaft erachte die
+Arbeitsbestätigung „als Gefälligkeitsmail eines kleinen Handwerkbetriebs
+eines mazedonischen Landsmanns“ (act. 5/1 Anhang Ziff. 2). Alle
+weiteren Ausführungen und Angaben im Haftverlängerungsgesuch weisen keinen
+Bezug zum Thema einer möglichen Arbeitsstelle bei X.______ auf und bestand
+daher unter keinem Gesichtspunkt eine Veranlassung ihm diese bekannt zu
+geben. Dies hätte Rechtsanwalt B.______ bei Beachtung der erhöhten
+Verantwortung im Umgang mit den ihm gerade aufgrund des besonderen
+Vertrauensverhältnisses zwischen Verteidigung und Behörde überlassenen
+Akten klar sein müssen. Die Brisanz der im Haftverlängerungsgesuch
+enthaltenen Informationen über die laufenden Ermittlungen und die geplanten
+weiteren polizeilichen Massnahmen ist im Übrigen derart offensichtlich,
+dass auch ohne spezifischen Vertraulichkeitshinweis (Art. 73
+Abs. 2 StPO) Rechtsanwalt B.______ ohne weiteres bemerken musste, dass
+diese Informationen nicht an Drittpersonen weitergeleitet werden dürfen. Er
+vermag sich auch nicht damit zu entschuldigen, dass er das Haftverlängerungsgesuch
+einzig an X.______ weitergeleitet habe und die E-Mail ausschliesslich nur
+für diesen bestimmt gewesen sei (act. 7 Ziff. 10). X.______ ist
+mit Blick auf die laufenden Strafuntersuchungen eine gänzlich
+aussenstehende Drittperson, die weder eine Vertrauens- noch eine
+Garantenstellung in Bezug auf einen sorgsamen Umgang mit heiklen Daten
+innehat. Zu einer angeblich adäquaten Information von X.______ als
+(künftiger) Arbeitgeber von A.______ war es jedenfalls nicht notwendig, ihm
+über die Bekanntgabe einer möglichen Haftverlängerung hinaus auch noch
+vertrauliche Details zu hängigen Strafermittlungen zu offenbaren. Ferner
+ist, selbst wenn der vom Beschwerdeführer mehrfach zitierte Entscheid des
+Obergerichts des Kantons Thurgau einen anderen Standpunkt vertreten sollte
+(act. 2 Ziff. 24, act. 7 Ziff. 13 f.), im Lichte
+der vom Anwalt verlangten Sorgfalt (Art. 12 lit. a BGFA) sehr wohl zu
+erwarten, dass er sich über die Folgen einer Weitergabe von Akten Gedanken
+anstellt und dabei gegebenenfalls zur Erkenntnis gelangt, dass ein solches
+Vorgehen nicht zulässig ist.
+dd)
+Damit ist im
+Ergebnis festzuhalten, dass die hier erstellte Weiterleitung des
+Haftverlängerungsgesuchs an eine Drittperson (X.______) durch Rechtsanwalt
+B.______ nicht mehr mit der pflichtgemässen Ausübung der Tätigkeit eines
+Verteidigers zu rechtfertigen ist. Die dabei erfolgte Offenbarung von
+vertraulichen Informationen aus einer laufenden Strafuntersuchung an eine
+Drittperson ist als unzulässig zu qualifizieren. Jede andere Sichtweise
+würde im Übrigen bedeuten, dass eine Inhaftierung eines Strafverdächtigen
+wegen Kollusionsgefahr in Zukunft kaum mehr Sinn ergäbe, könnte sein
+Verteidiger fortwährend Drittpersonen über Inhalt und Gang der
+Strafermittlungen informieren. Bei X.______ handelte es sich im Übrigen
+auch nicht um einen Verfahrensbeteiligten im Sinne von Art. 105 StPO,
+wiewohl die Beschwerde eine solche Stellung zu konstruieren versucht
+(act. 2 Ziff. 20 und Ziff. 23). Entgegen den Ausführungen in
+der Beschwerde (act. 2 Ziff. 21) ist auch ohne Relevanz, dass
+X.______ bereits Kenntnis von der Inhaftierung des Beschuldigten A.______
+hatte; die Problematik der hier erfolgten Weiterleitung von Informationen
+beschlägt nicht diesen Umstand, sondern die Tatsache, dass X.______
+zugleich über Details zur laufenden Strafuntersuchung informiert wurde.
+2.4.—
+Verweigerung der weiteren Akteneinsicht
+a)
+Die
+Staatsanwaltschaft hat aufgrund der unbefugten Preisgabe von Informationen
+an Dritte durch Rechtsanwalt B.______ entschieden, diesem in der Strafuntersuchung
+gegen A.______ keine Akten mehr zur Kenntnis zukommen zu lassen, „da nicht
+mehr ausgeschlossen werden kann, dass diese an Dritte weitergleitet werden“
+(act. 1 S. 2 unten und S. 3 oben).
+b)
+Mit dieser Anordnung
+hat die Staatsanwaltschaft B.______ in der Strafuntersuchung gegen seinen
+Mandanten A.______ das Akteneinsichtsrecht per sofort verweigert. Dieser
+Schritt der Staatsanwaltschaft ist in Anbetracht der gesamten Umstände
+gerechtfertigt und vertretbar. Rechtsanwalt B.______ hat mit der Preisgabe
+vertraulicher Informationen über die laufende Strafuntersuchung derart
+leichtfertig gehandelt, dass er jedenfalls in Bezug auf das hier konkret in
+Frage stehende Verfahren keine Gewähr mehr bietet für einen
+verantwortungsbewussten Umgang mit Verfahrensakten. Gerade weil vorliegend
+die polizeilichen Ermittlungen nach wie vor im Gange sind, ist deren
+weitere Gefährdung durch B.______ nicht auszuschliessen.
+2.5.—
+Wirksamkeit der Verteidigung von A.______
+Rechtsanwalt B.______ ist, wie
+dargelegt, aus berechtigten Gründen nicht mehr befugt, Einblick in die
+Akten der Strafuntersuchung gegen A.______ zu nehmen. Damit ist er aber
+auch nicht mehr befähigt, seinen Mandanten weiterhin effektiv zu
+verteidigen. Insoweit mangelte es, würde Rechtsanwalt B.______ trotz
+fehlendem Akteneinsichtsrecht weiterhin in seinem amtlichen
+Verteidigermandat belassen, an einer wirksamen Verteidigung des
+Beschuldigten A.______. Die Staatsanwaltschaft hat daher im angefochtenen
+Entscheid in eigener Zuständigkeit (Art. 61 lit. a StPO) sowie in
+korrekter Anwendung von Art. 134 Abs. 2 StPO Rechtsanwalt
+B.______ als amtlichen Verteidiger des Beschuldigten A.______ abgesetzt.
+3.—
+Aus alldem ergibt
+sich, dass die Beschwerde des Beschuldigten gegen die Verfügung der
+Staatsanwaltschaft vom 8. Juni 2017 (act. 1) abzuweisen ist.
+III.
+Die Regelung der Kosten- und
+Entschädigungsfolgen hat im Endentscheid zu erfolgen (Art. 421 Abs. 1
+StPO). Die Gerichtsgebühr für das Beschwerdeverfahren ist zuhanden der das
+Strafverfahren abschliessenden Behörde auf Fr. 600.‑ festzu­legen
+(Art. 8 Abs. 2 der
+Zivil- und
+Strafprozesskostenverordnung [GS III A/5]).
+____________________
+Das Gericht
+beschliesst
+:
+1.
+Die Beschwerde wird abgewiesen.
+2.
+Die Gerichtsgebühr für das
+Beschwerdeverfahren wird zuhanden der das Strafverfahren abschliessenden
+Behörde auf Fr. 600.‑ festgelegt.
+3.
+Schriftliche Mitteilung an:
