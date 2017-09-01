@@ -1,0 +1,854 @@
+---
+decision_id: "gl_gerichte_OG.2016.00015"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2016.00015"
+docket_2: "OGZ.2018.101"
+decided: "2017-09-01"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=900&W10_KEY=218274&nTrefferzeile=4&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-092.md", "switzerland/bund/acts/210/art-002.md", "switzerland/bund/acts/272/art-052.md", "switzerland/bund/acts/272/art-060.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-111.md", "switzerland/bund/acts/272/art-237.md", "switzerland/bund/acts/272/art-308.md", "switzerland/bund/acts/272/art-311.md", "switzerland/bund/acts/272/art-315.md", "switzerland/bund/acts/291/art-178.md"]
+---
+
+# GL Gerichte OG.2016.00015
+
+## Regeste
+
+Forderung (Zuständigkeit)
+
+## Text
+
+Glarus Obergericht 01.09.2017 OG.2016.00015 (OGZ.2018.101)
+Glaris Obergericht 01.09.2017 OG.2016.00015 (OGZ.2018.101)
+Glarona Obergericht 01.09.2017 OG.2016.00015 (OGZ.2018.101)
+
+Forderung (Zuständigkeit)
+
+Kanton Glarus
+Obergericht
+Beschluss
+und Urteil vom 1. September 2017
+Verfahren
+OG.2016.00015
+1. A.______
+2. B.______
+Berufungsklägerin
+und Beklagte
+beide
+vertreten durch G.______
+gegen
+C.______
+Berufungsbeklagte
+und
+Klägerin
+vertreten
+durch H.______
+betreffend
+Forderung
+(Zuständigkeit)
+Anträge de
+r
+Berufungskläger
+in
+und Beklagten
+(gemäss Eingabe vom
+3. Mai 2016 [act. 53 S. 3]):
+„1.
+Es seien die Ziffern 1 und 3
+bis 6 der Verfügung des Kantonsgerichts Glarus vom 24. März 2016
+(Verfahren ZG.2014.00773) aufzuheben.
+2.
+Auf die Klage der Klägerin und
+Berufungsbeklagten vom 12. September 2014 sei nicht einzutreten.
+3.
+Unter Kosten- und
+Entschädigungsfolgen des vorinstanzlichen Verfahrens (Verfahren
+ZG.2014.00773) und des Rechtsmittelverfahrens zu Lasten der Klägerin und
+Berufungsbeklagten.“
+Anträge de
+r
+Berufungsbeklagten und Klägerin
+(gemäss Eingabe vom 16. Juni 2016
+[act. 64 S. 2]):
+„1.
+Die Berufung der Berufungsklägerin
+sei abzuweisen, soweit darauf einzutreten ist, und der Zwischenentscheid
+des Kantonsgerichtspräsidenten vom 24. März 2016 (Verfahren
+ZG.2014.00773) sei zu bestätigen.
+2.
+Auf die Klage der Klägerin und
+Berufungsbeklagten vom 12. September 2014 sei einzutreten.
+3.
+Eventualiter
+zum
+Eintretensantrag gem. oben Rechtsbegehren Ziff. 2 sei (3.1) das
+Verfahren zu beschränken, so dass dieses hinsichtlich der Beklagten 1
+([…], Berufungsklägerin 1) ohne die Rechtsgrundlage „kumulative
+Schuldübernahme nach schweizerischem Recht“ weitergeführt wird und die
+Zuständigkeit bejaht wird;
+subeventualiter
+sei (3.2) das Verfahren
+hinsichtlich der Beklagten 1 (Berufungsklägerin 1) und der
+Beklagten 2 (Berufungsklägerin 2) zu trennen, und hinsichtlich
+der Beklagten 2 (Berufungsklägerin 2) die Zuständigkeit zu
+bejahen; hinsichtlich der Beklagten 1 (Berufungsklägerin 1) sei
+das Verfahren zu sistieren und die Klägerin zur Einleitung eines
+Schiedsverfahrens gem. Art. 12 Abs. 2 des Vertrags (KB 6)
+anzuhalten, unter Androhung des Nichteintretens im Fall, dass die Klägerin
+(Berufungsbeklagte) das Schiedsverfahren nicht innert einer vom Gericht zu
+bestimmenden Frist einleitet;
+sub-subeventualiter
+(3.3) sei das
+Verfahren zu sistieren und die Klägerin (Berufungsbeklagte) zur Einleitung
+eines Schiedsverfahrens gem. Art. 12 Abs. 2 des Vertrags
+(KB 6) anzuhalten, unter Androhung des Nichteintretens im Fall, dass
+die Klägerin (Berufungsbeklagte) das Schiedsverfahren nicht innert einer
+vom Gericht zu bestimmenden Frist einleitet.
+alles unter Kosten- und
+Entschädigungsfolge zzgl. MWST von 8 % zu Lasten der
+Berufungsklägerinnen unter solidarischer Haftung.“
+Das Gericht
+zieht in Betracht:
+I.
+(Prozessverlauf)
+1. a)
+Die C.______ ist eine
+Gesellschaft mit Sitz in Dubai, Vereinigte Arabische Emirate (act. 6).
+Laut eigenen Angaben erbringt sie Sicherheitsdienstleistungen zugunsten
+international tätiger Vertragspartner in Krisengebieten (act. 2
+Rz. 6).
+b)
+Die A.______ GmbH mit Sitz in
+Glarus bezweckt im Wesentlichen die Erbringung von Dienstleistungen im In-
+und Ausland in den Bereichen Abfallentsorgung, Reinigung, Unterhalt und
+Gebäudemanagement sowie die Bereitstellung von Gütern und Dienstleistungen
+bezüglich Umschlag/Handel von Esswaren, Flug (Transport), Errichtung von
+Bauten, Brennstoff-Versorgung, Transport und damit verbundene Leistungen
+(act. 7).
+c)
+Ebenfalls in Glarus domiziliert
+ist die B.______ GmbH. Ihr Gesellschaftszweck beinhaltet die Erbringung von
+Dienstleistungen im internationalen Lebensmittelhandel sowie ebenfalls die
+Bereitstellung von Gütern und Dienstleistungen bezüglich Umschlag/Handel
+von Esswaren, Flug (Transport), Errichtung von Bauten,
+Brennstoff-Versorgung, Transport und damit verbundene Leistungen
+(act. 8).
+2.
+Am 18. März 2014 leitete
+die C.______ beim Vermittleramt [...] ein Schlichtungsverfahren gegen die
+A.______ GmbH und die B.______ GmbH ein, das Forderungen aus einem
+Dienstleistungsvertrag zum Gegenstand hat (act. 1). Die Parteien
+konnten sich an der Schlichtungsverhandlung vom 7. Mai 2014 nicht einigen
+(act. 1 S. 2).
+3. a)
+Daraufhin reichte die C.______
+(nachfolgend: „Klägerin“) am 12. September 2014 beim Kantonsgericht
+fristgerecht (act. 9/1-2 i.V.m. act. 2 S. 1) und unter
+Beilage der Klagebewilligung des Vermittleramts [...]vom 9. Mai 2014
+(act. 1) eine Teilklage gegen die A.______ GmbH (nachfolgend:
+„Beklagte 1“) und die B.______ GmbH (nachfolgend: „Beklagte 2“)
+je im Betrag von mehreren hunderttausend USD (teilweise unter solidarischer
+Haftung) ein (vgl. zum Rechtsbegehren im Detail: act. 2 S. 1
+sowie act. 49 E. IV.3.3. f.).
+b)
+Nachdem die Klägerin einen
+Kostenvorschuss für die Gerichtskosten von CHF 40‘000.– und eine
+Sicherheit für die Parteientschädigung der Beklagten von CHF 60'000.–
+leistete (act. 11 f.; act. 20-26) setzte das Kantonsgericht
+den Beklagten Frist zur schriftlichen Klageantwort an (act. 27). Innert
+mehrmals erstreckter Frist beantragten die Beklagten hierauf mit beschränkter
+Klageantwort vom 24. Juni 2015, dass auf die Klage mangels
+Zuständigkeit des Kantonsgerichts und zufolge anderweitiger Rechtshängigkeit
+nicht einzutreten sei. Sodann ersuchten sie für den Fall, dass das
+Kantonsgericht auf die Klage eintreten sollte, um Sistierung des Verfahrens
+bis zum Vorliegen rechtskräftiger Entscheide in zwei Schiedsverfahren
+(act. 31). Die Klägerin nahm zu dieser beschränkten Klageantwort mit
+Eingabe vom 16. Dezember 2015 Stellung (act. 42) und das Kantonsgericht
+stellte deren Doppel samt Beilagen am 24. Februar 2016 den Beklagten
+zu (act. 47 f.).
+c)
+Schliesslich entschied der
+Kantonsgerichtspräsident mit Verfügung vom 24. März 2016, dass das
+Kantonsgericht Glarus auf die Klage eintritt (act. 49
+Dispositiv-Ziff. 1). Zudem wies er den Sistierungsantrag der Beklagten
+ab (act. 49 Dispositiv-Ziff. 2). Die Gerichtskosten für diesen Entscheid
+setzte er auf CHF 8‘000.– fest und auferlegte diese den Beklagten
+unter solidarischer Haftung (act. 49 Dispositiv-Ziff. 4 f.).
+Schliesslich verpflichtete er die Beklagten, der Klägerin unter
+solidarischer Haftung eine Parteientschädigung von insgesamt
+CHF 12‘000.– zu bezahlen (act. 49 Dispositiv-Ziff. 6).
+4.
+Gegen diesen Entscheid erhoben
+die Beklagten am 3. Mai 2016 rechtzeitig (act. 50 i.V.m.
+act. 53 S. 1) Berufung und stellten die einleitend wiedergegebenen
+Anträge (act. 53). Die Berufungsantwort der Klägerin mit den ebenfalls
+eingangs aufgeführten Anträgen datiert vom 16. Juni 2016
+(act. 64). Sie wurde den Beklagten mit Schreiben des Obergerichts vom
+17. Juni 2016 zur Kenntnisnahme zugestellt (act. 65 f.).
+II.
+(Rechtsmittelvoraussetzungen)
+Bei der angefochtenen Verfügung
+des Kantonsgerichtspräsidenten vom 24. März 2016 (act. 49) handelt
+es sich um einen Zwischenentscheid im Sinne von Art. 237 Abs. 1
+ZPO. Gemäss Art. 237 Abs. 2 ZPO sind solche Zwischenentscheide
+selbstständig anzufechten. Da der Streitwert CHF 10‘000.– übersteigt
+(vgl. z.B. act. 2 Rz. 14; act. 23 S. 1), ist gegen die
+angefochtene Verfügung das Rechtsmittel der Berufung zulässig (Art. 308
+Abs. 2 ZPO). Auch die übrigen Rechtsmittelvoraussetzungen sind erfüllt.
+Auf die Berufung der Beklagten ist daher einzutreten.
+III.
+(Zuständigkeit des Kantonsgerichts)
+A.                Ausgangslage
+und angefochtener vorinstanzlicher Entscheid
+1.
+Die Beklagten brachten vor
+Vorinstanz in ihrer eingeschränkten Klageantwort vom 24. Juni 2015 (act. 31)
+vor, mangels Zuständigkeit des Kantonsgerichts und zufolge anderweitiger
+Rechtshängigkeit könne auf die von der Klägerin gegen sie anhängig gemachte
+Klage nicht eingetreten werden. Die Unzuständigkeit des Kantonsgerichts
+ergebe sich daraus, dass der Vertrag „Contract for Security &
+Protective Service“ vom 26. November 2009 (act. 3/6; nachfolgend:
+„Vertrag“), auf den die Klägerin ihre Forderungsklage ausschliesslich
+stütze, eine Schiedsklausel enthalte. Diese Klausel sehe vor, dass sämtliche
+Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag ausschliesslich
+durch ein Schiedsgericht mit Sitz in Dubai beurteilt werden sollen
+(act. 31 u.a. Rz. 11).
+2.
+Die Vorinstanz erwog in ihrer
+Verfügung vom 24. März 2016, es treffe zu, dass der Vertrag eine Schiedsvereinbarung
+enthalte, von den Beklagten des vorliegenden Verfahrens sei dieser aber
+nicht unterzeichnet worden. Sodann hätten sich die Beklagten in
+vorprozessualer Korrespondenz klar dahingehend geäussert, nicht Partei des
+Vertrags zu sein. Ferner enthalte keines dieser vor Klageanhebung
+ergangenen Schreiben eine Schiedsabrede zwischen den Parteien des
+vorliegenden Verfahrens. Auch nach gerichtlicher Aufforderung vom
+23. Februar 2016 (act. 47) hätten die Beklagten keine zwischen
+den Parteien rechtswirksam vereinbarte, den Anforderungen von Art. II
+Ziff. 2 NYÜ genügende Schiedsabrede nachgewiesen. Da die Beklagten
+ihre Behauptung, dass zwischen den Parteien eine Schiedsabrede vorliege,
+nicht substantiiert hätten (insbesondere fehlende Darlegung, inwiefern die
+im Vertrag statuierte Schiedsklausel zwischen den Parteien gültig sei),
+könne offen bleiben, nach welchem Recht die Wirksamkeit einer
+Schiedsvereinbarung zu beurteilen gewesen wäre (act. 49
+E. III.3.1.-4.).
+B.                Rügen
+der Beklagten in der Berufung
+In ihrer Berufung vom 3. Mai
+2016 beanstanden die Beklagten, die Vorinstanz habe sich infolge Vorliegens
+einer formell und materiell gültigen Schiedsvereinbarung zwischen den
+Parteien zu Unrecht als zur Behandlung der von der Klägerin eingereichten
+Forderungsklage zuständig erklärt (act. 53 Rz. 7 ff.):
+1. a)
+Erstens sei die Auffassung der
+Vorinstanz falsch, wonach für die Beurteilung der Formgültigkeit der
+Schiedsvereinbarung einzig darauf abgestellt werden solle, ob diese seitens
+aller Parteien unterzeichnet worden ist. Ebenfalls unzutreffend sei die
+Auffassung der Vorinstanz, dass im vorliegenden Verfahren Art. 178
+IPRG keine Bedeutung zukomme. Das Übereinkommen vom 10. Juni 1958 über
+die Anerkennung und Vollstreckung ausländischer Schiedssprüche („New Yorker
+Übereinkommen“ bzw. NYÜ; SR 0.277.12) lasse in dessen Art. VII
+günstigeres nationales Recht vorgehen. Somit komme dem Art. 178
+Abs. 1 IPRG als für das gültige Zustandekommen einer
+Schiedsvereinbarung günstigere nationale Bestimmung gegenüber Art. II
+Ziff. 2 NYÜ weiterhin selbständige Bedeutung zu. Für die Beurteilung
+der Formgültigkeit der Schiedsvereinbarung dürfe folglich nicht einzig auf
+den isolierten Wortlaut von Art. II Ziff. 2 NYÜ abgestellt
+werden. In der Lehre werde zunehmend die Auffassung vertreten, dass gemäss
+Art. 178 Abs. 1 IPRG die Unterschrift der Parteien bezüglich
+einer Schiedsvereinbarung entbehrlich sei. Das Bundesgericht sei sodann im
+Jahr 1995 in einem Entscheid zum Schluss gelangt, dass auch unter
+Art. II Ziff. 2 NYÜ die Schriftform nicht immer vorausgesetzt
+werden könne (zum Ganzen: act. 53 Rz. 9 ff.).
+b)
+Die Klägerin – so die Beklagten
+weiter – führe in der Klage aus, sie seien aufgrund des Wortlauts des
+Vertrags – trotz fehlender Unterschrift – als zur Zahlung verpflichtete Vertragsparteien
+zu betrachten, und stütze sich insbesondere auf Art. 5 des Vertrags.
+Ebenfalls erachte die Klägerin die im ersten Absatz von Art. 12 des
+Vertrags enthaltene Rechtswahlklausel für anwendbar. Schliesslich ergebe
+sich aus den Ausführungen der Klägerin in der Klageschrift, dass der
+Vertrag ihrer Ansicht nach zu Gunsten jeder [...]-Gesellschaft (u.a. auch
+der Beklagten) abgeschlossen worden sei und dass jede [...]-Gesellschaft
+den Vertrag gegenüber der Klägerin geltend machen könne. Nicht für relevant
+halte die Klägerin jedoch die im zweiten Absatz dieses Art. 12
+vorhandene Schiedsklausel. Diese Argumentation der Klägerin sei
+widersprüchlich und rechtsmissbräuchlich. Eine nachvollziehbare Begründung
+dafür, weshalb die im Vertrag enthaltene Schiedsklausel im Unterschied zu
+den restlichen Vertragsklauseln vorliegend nicht von Relevanz sein sollten,
+finde sich in der Klage nicht. Den Gang vor die staatlichen Gerichte habe
+die Klägerin mit der leeren Schutzbehauptung gerechtfertigt, dass sich die
+Beklagten einem Schiedsverfahren widersetzen würden. Die Vorinstanz habe im
+Rahmen der Prüfung der Formgültigkeit der Schiedsvereinbarung das
+widersprüchliche Verhalten der Klägerin nicht berücksichtigt und einzig auf
+das Vorliegen bzw. Nichtvorliegen der Unterschrift der Beklagten
+abgestellt. Damit wende sie Art. II Ziff. 2 NYÜ bzw.
+Art. 178 Abs. 1 IPRG falsch an und sei zu Unrecht auf die Klage
+eingetreten (zum Ganzen: act. 53 Rz. 9 ff.).
+2.
+Zweitens sei der
+vorinstanzliche Vorwurf, sie (die Beklagten) hätten das Vorliegen einer
+Schiedsabrede nicht genügend substantiiert vorgetragen, unbegründet.
+Vielmehr hätten sie in ihrer Eingabe vom 24. Juni 2015 (act. 31)
+die Einrede der fehlenden Zuständigkeit erhoben, ausdrücklich auf die
+Schiedsklausel im Vertrag hingewiesen, die widersprüchliche und rechtlich
+nicht haltbare Argumentation der Klägerin dargelegt sowie für die Frage der
+materiellen Gültigkeit der Schiedsvereinbarung den Zwischenentscheid des
+Schiedsgerichts vom 27. Januar 2014 im Verfahren „[…]“ ins Recht gelegt.
+Damit hätten sie das Vorliegen einer zwischen den Parteien bestehenden
+Schiedsvereinbarung genügend substantiiert. Soweit die Vorinstanz zudem die
+substantiierte Behauptung einer schriftlichen Vereinbarung (Schriftlichkeit
+im Sinne von Art. II Ziff. 2 NYÜ auch seitens der Beklagten)
+verlange, sei dies wie dargelegt (vgl. soeben, E. III.B.1a) zu Unrecht
+erfolgt (act. 53 Rz. 31 ff.).
+3.
+Drittens bringen die Beklagten
+schliesslich in der Berufung vor, auch die materielle Gültigkeit der im
+Vertrag enthaltenen Schiedsklausel sei gegeben. Die Klägerin sei Partei
+zweier in Dubai (Dubai International Arbitration Centre) gestützt auf den
+Vertrag anhängig gemachter Schiedsverfahren. In einem dieser Verfahren, im
+Verfahren „[…]“, ständen sich die Klägerin und die D.______ FZE gegenüber.
+Letztere habe den Vertrag ebenfalls nicht unterzeichnet. Am 27. Januar
+2014 habe das Schiedsgericht im genannten Verfahren in einem
+Zwischenentscheid seine Zuständigkeit in der Streitsache bejaht. Es habe
+dabei festgehalten, dass die D.______ FZE – trotz fehlender Unterschrift –
+Vertragspartei sei und eine gültige Schiedsklausel zwischen der D.______ FZE
+und der Klägerin bestehe. Gegen diesen Zwischenentscheid habe sich die
+Klägerin soweit ersichtlich nicht zur Wehr gesetzt. Wenn diese nun im
+vorliegenden Verfahren unter Berufung auf ein Gutachten die Ungültigkeit
+derselben Schiedsvereinbarung geltend mache, so sei dies bereits aufgrund
+ihres widersprüchlichen Verhaltens nicht zu hören (act. 53
+Rz. 27 ff.).
+C.               Anwendbares
+Recht und weitere rechtliche Grundlagen
+1.
+Die Vorinstanz stellte
+zutreffend fest, dass ein internationaler Sachverhalt vorliegt, da die
+Klägerin ihren Sitz in Dubai und die Beklagten ihren Sitz in Glarus haben
+(act. 49 E. II.1.; act. 6-8). Ebenso beurteilte sie die
+Frage, ob die in Art. 12 Abs. 2 des Vertrags (act. 3/6)
+enthaltene Schiedsklausel ihre sachliche Zuständigkeit ausschliesst, zu
+Recht und unstrittig nach Art. II NYÜ. Denn diese Schiedsklausel sieht
+ein internationales Schiedsverfahren mit Sitz des Schiedsgerichts
+ausserhalb der Schweiz vor und das Übereinkommen vom 16. September
+1988 über die gerichtliche Zuständigkeit und die Anerkennung und
+Vollstreckung von Entscheidungen in Zivil- und Handelssachen („Lugano
+Übereinkommen“ bzw. LugÜ; SR 0.275.12) regelt die Schiedsgerichtsbarkeit
+nicht (Art. 1 Ziff. 2 lit. d LugÜ; BGer 4A_279/2010 vom
+25. Oktober 2010, E. 2; BGer 4A_160/2009 vom 25. August 2009,
+E 4.1 [zum aLugÜ], je m.w.H.). Auf die Frage, ob trotz grundsätzlicher
+Geltung des NYÜ nationale Formvorschriften wie z.B. Art. 178
+Abs. 1 IPRG innerhalb des Geltungsbereichs des NYÜ eine Rolle spielen
+können, ist unten (E. III.C.2c) einzugehen.
+2. a)
+Wird ein Gericht eines
+NYÜ-Vertragsstaates wegen eines (schiedsfähigen) Streitgegenstandes
+angerufen, hinsichtlich dessen die Parteien eine schriftliche
+Schiedsvereinbarung getroffen haben, so hat es die Parteien auf Antrag auf
+das schiedsrichterliche Verfahren zu verweisen, sofern es nicht feststellt,
+dass die Vereinbarung hinfällig, unwirksam oder nicht erfüllbar ist (vgl.
+im Detail Art. II Ziff. 1 und 3 NYÜ). Das Gericht hat dabei die
+Gültigkeit der Schiedsvereinbarung mit voller Kognition zu prüfen (BGer
+4A_279/2010 vom 25. Oktober 2010, E. 2; BGE 121 III 38,
+E. 2b, je m.w.H.).
+b)
+Unter einer „schriftlichen
+Schiedsvereinbarung“ im soeben genannten Sinn ist gemäss Art. II
+Ziff. 2 NYÜ eine Schiedsklausel in einem Vertrag oder eine
+Schiedsabrede zu verstehen, sofern der Vertrag oder die Schiedsabrede von
+den Parteien unterzeichnet oder in Briefen oder Telegrammen enthalten ist,
+die sie gewechselt haben. Die geforderte Schriftlichkeit kann also
+einerseits durch beidseitige eigenhändige Unterzeichnung eines Vertragsdokuments
+durch die Parteien und andererseits durch gegenseitigen Austausch von Dokumenten
+geschehen. Hingegen sind folglich weder die mündliche oder stillschweigende
+Annahme eines schriftlichen Angebots noch die einseitige schriftliche
+Bestätigung einer mündlichen Vereinbarung ausreichend. Beim Austausch nicht
+unterzeichneter Dokumente ist insbesondere zu prüfen, ob unter den
+beteiligten Parteien ein entsprechender Bindungswille bezüglich
+Unterwerfung unter die Schiedsgerichtsbarkeit vorhanden ist (zum Ganzen
+statt vieler: BGE 111 Ib 253, E. 5; Möhler, Konsumentenverträge im
+schweizerischen Schiedsverfahren mit rechtsvergleichenden Aspekten, Diss.
+Luzern 2014, LBR Nr. 93, N 436 ff. m.w.H.).
+c)
+In der Lehre wird die Ansicht
+vertreten, die in Art. VII Ziff. 1 NYÜ enthaltene
+Meistbegünstigungsklausel sei auch bezüglich Anerkennung von
+Schiedsvereinbarungen (Art. II Ziff. 3 NYÜ, Einredestadium)
+anwendbar. Damit wäre ein Rückgriff auf eine „mildere“ nationale
+Formvorschrift zu Schiedsvereinbarungen möglich. Eine Schiedsvereinbarung,
+die zwar nicht der Schriftform des Art. II Ziff. 2 NYÜ, wohl aber
+den Formerfordernissen des nationalen Rechts genügt, wäre demnach vom
+angerufenen staatlichen Gericht im Einredestadium als formgültig zu
+behandeln (zum Ganzen: Volken, ZK IPRG, Art. 178 IPRG
+N 34 ff.; Berger/Kellerhals, International and Domestic
+Arbitration in Switzerland, 3. Aufl., Bern 2015, N 427 ff.;
+Haas, Schiedsgerichte in Erbsachen und das New Yorker Übereinkommen über
+die Anerkennung und Vollstreckung ausländischer Schiedssprüche, in: Künzle,
+Schiedsgerichte in Erbsachen, Zürich 2012, S. 177 ff.; Möhler, a.a.O.,
+N 442 ff., je m.w.H.). Bezogen auf die Schweiz ergibt sich, dass
+die Formvoraussetzungen von Art.178 Abs. 1 IPRG milder sind als
+diejenigen des NYÜ: Erstens setzt Art. 178 Abs. 1 IPRG im
+Gegensatz zu Art. II Ziff. 2 NYÜ keine Unterzeichnung der Schiedsvereinbarung
+durch die Parteien voraus, sondern lässt es zur Formwahrung genügen, dass
+die Schiedsvereinbarung oder der sie enthaltende Hauptvertrag in Textform
+nachweisbar ist. Zweitens verlangt Art. II Ziff. 2 NYÜ, dass
+beide Parteien ihre Willenserklärung je in einer an die andere Partei
+gerichteten Urkunde (Brief, Telefax, E-Mail, etc.) abgeben, wohingegen
+Art. 178 Abs. 1 IPRG keinen eigentlichen Austausch verlangt (Berger/Kellerhals,
+a.a.O., N 428 ff.; Möhler, a.a.O., N 446; anders das Bundesgericht
+in BGE 121 III 38, E. 2c, wonach die formellen Voraussetzungen von
+Art. II Ziff. 2 NYÜ sich mit jenen von Art. 178 Abs. 1
+IPRG decken).
+d)
+Indes stellt Art. II
+Ziff. 2 NYÜ nach der Rechtsprechung des Bundesgerichts eine „loi
+uniforme“ dar und es dürfen bezüglich Form der Schiedsvereinbarung weder
+höhere noch tiefere Anforderungen gestellt werden als die in dieser
+Rechtsnorm Statuierten (BGE 111 Ib 253 E. 5; Sachnorm des internationalen
+Rechts, die jeglichen Rückgriff auf das nationale Recht verbietet). Für
+diese Rechtslage spricht, dass das NYÜ gemäss den Materialien die stark
+differierenden Formvorschriften koordinieren und vereinheitlichen wollte.
+Wenngleich aufgrund des englischsprachigen Vertragstexts des NYÜ und der
+Auslegungsempfehlungen der UNCITRAL vom 7. Juli 2006 die Rechtslage
+nicht eindeutig ist, sind diese zwei Argumente von deutlich geringerem
+Gewicht als das vorgenannte historische Argument (zum Ganzen: Haas, a.a.O.,
+S. 181 ff.; Möhler, a.a.O., N 445, je m.w.H.;
+Furrer/Girsberger/Schramm, CHK IPRG, 2. Aufl., Vorb. zu
+Art. 176 ff. N 36). Die Meistbegünstigungsklausel von
+Art. VII Ziff. 1 NYÜ ist daher im vorliegenden Kontext
+(Einredestadium) nicht zur Anwendung zu bringen.
+e)
+Hingegen kann unter besonderen
+Umständen eine Verhaltensweise nach Treu und Glauben die Einhaltung der
+Formvorschrift von Art. II Ziff. 2 NYÜ ersetzen. D.h. die Wahrung
+dieser formellen Voraussetzungen ist insbesondere entbehrlich, wenn sich
+bei einer formungültigen Schiedsvereinbarung zeigt, dass diejenige Partei,
+die sich auf den Formmangel beruft, ein Verhalten an den Tag gelegt hat,
+das ihre Berufung auf die Einhaltung der Form unter den gegebenen Umständen
+als rechtsmissbräuchlich erscheinen lässt (BGE 121 III 38 E. 3;
+Berger/Kellerhals, a.a.O., N 440).
+3.
+Die Frage der Zuständigkeit des
+Schiedsgerichts umfasst auch diejenige nach der subjektiven Tragweite der
+Schiedsvereinbarung. Dabei ist abzuklären, welche Personen durch die
+Schiedsvereinbarung gebunden sind. Nach dem Grundsatz der Relativität
+vertraglicher Verpflichtungen bindet eine Schiedsklausel in einem Vertrag
+grundsätzlich nur die Vertragsparteien. Allerdings bejaht das Bundesgericht
+seit langem, dass eine Schiedsklausel unter gewissen Voraussetzungen auch
+Personen binden kann, die den Vertrag nicht unterzeichnet haben und darin
+auch nicht erwähnt werden. So wird bei einem Dritten, der sich in den
+Vollzug eines Vertrags mit einer Schiedsklausel einmischt, angenommen, er
+habe der Schiedsklausel durch konkludentes Handeln zugestimmt. Weiter fällt
+eine solche Ausdehnung etwa in Fällen enger Beziehungen des Dritten zu einer
+Partei (z.B. infolge Konzernzugehörigkeit), bei einer Abtretung einer
+Forderung, bei einer Schuldübernahme oder bei einer Vertragsübernahme in
+Betracht (vgl. zum Ganzen: BGer 4A_310/2016 vom 6. Oktober 2016,
+E. 3.1. und BGer 4A_82/2016 vom 6. Juni 2016, E. 2.3.; BGE
+129 III 727, E. 5.3; BGer 4P.48/2005 vom 20. September 2005, E. 3.; Furrer/Girsberger/Schramm,
+CHK IPRG, 2. Aufl., Art. 176-178 N 21 ff., je m.w.H.).
+Im Anwendungsbereich des NYÜ beurteilt sich die subjektive Tragweite nach
+dem von den Parteien bezüglich der Schiedsvereinbarung gewählten Recht bzw.
+subsidiär nach dem Recht des Landes, in dem der Schiedsspruch ergehen würde
+(„lex arbitri“; Gränicher, BSK IPRG, Art. 178 N 24; KGer ZG, in GVP
+2016, S. 224; BGer 4A_279/2010 vom 25. Oktober 2010, E. 2.,
+m.w.H.).
+4. a)
+Im Anwendungsbereich von
+Art. II Ziff. 3 NYÜ darf gemäss dessen ausdrücklichem Wortlaut
+das angerufene staatliche Gericht nur auf Antrag einer der Parteien diese
+auf das schiedsrichterliche Verfahren verweisen. Es muss also von einer
+Partei die Schiedseinrede erhoben werden (Berger/Kellerhals, a.a.O.,
+N 710; Göksu, Schiedsgerichtsbarkeit, Zürich/St. Gallen 2014,
+N 1174, je m.w.H.). Im Übrigen richtet sich die Frage, wann und wie
+eine Schiedseinrede zu erheben ist, bei Anwendung der von Art. II NYÜ
+nach der lex fori, in der Schweiz also nach der ZPO (Schramm/Buhr, CHK
+IPRG, 2. Aufl., Art. 7 N 4 m.w.H.; Berger/Kellerhals,
+a.a.O., N 712; BGE 127 III 279, E. 2c/ee; BGE 111 II 62, E. 2.,
+je m.w.H.).
+b)
+Nach der schweizerischen
+Rechtsprechung und Lehre muss die beklagte Partei vor dem von der klagenden
+Partei angerufenen staatlichen Gericht die Schiedseinrede nicht
+ausdrücklich erheben. Erforderlich ist lediglich, dass sie sich unmissverständlich
+und bedingungsfrei auf eine Schiedsvereinbarung beruft, um die
+Zuständigkeit des staatlichen Gerichts zu bestreiten (Berger/Kellerhals,
+a.a.O., N 654 m.w.H.; Göksu, a.a.O., N 1176; Stacher, DIKE-Komm.
+ZPO, Art. 61 N 24). Einer rechtlichen Begründung bedarf die
+Schiedseinrede nicht (Göksu, a.a.O., N 1176). Die beklagte Partei
+trägt jedoch die Behauptungs-, Substantiierungs- und Beweislast für das
+Bestehen einer gültigen Schiedsvereinbarung zwischen den Parteien für eine
+schiedsfähige Streitsache (Berger/Kellerhals, a.a.O., N 689; Stacher,
+DIKE-Komm. ZPO, Art. 61 N 27; Göksu, a.a.O., N 1176). An
+dieser Beweislastverteilung ändert nichts, dass die eingeschränkte Untersuchungsmaxime
+(Art. 60 ZPO) gilt (A. Zürcher, ZK ZPO, Art. 60 N 5). Ohnehin
+erschöpft sich deren Bedeutung für das Gericht darin, dass es die Parteien
+aufzufordern hat, bei der Sachverhaltserstellung mitzuwirken. Die
+eingeschränkte Untersuchungsmaxime wirkt sich also so aus, dass sie die
+beklagte Partei davor bewahrt, alle möglicherweise erforderlichen Ausführungen
+bereits in der Schiedseinrede selbst – die indes gültig (unmissverständlich
+und bedingungsfrei) und rechtzeitig (vor der ersten Stellungnahme zur
+Sache) zu erfolgen hat – machen zu müssen. Vielmehr hat sich das staatliche
+Gericht zu versichern, dass die Parteien ihre Behauptungen vollständig
+vortrugen und die Parteien gegebenenfalls zu weiteren Vorbringen zu den aus
+seiner Sicht relevanten Punkten einzuladen. Das Gericht steht also zwar
+unter einer erweiterten Fragepflicht, nicht aber unter einer umfassenden
+Untersuchungspflicht. Es bleibt Aufgabe der für das Vorliegen einer
+Schiedsvereinbarung beweisbelasteten beklagten Partei, das diesbezügliche
+Tatsachenmaterial zu beschaffen (Stacher, DIKE-Komm. ZPO, Art. 61
+N 28; A. Zürcher, ZK ZPO, Art. 60 N 4 f.; Gehri, BSK
+ZPO, Art. 60 N 1, 3, 10). Im Übrigen bedeutet die Pflicht einer
+Prozesspartei, ihre Sachverhaltsdarstellungen zu substantiieren, dass sie
+die Tatsachen nicht nur in den Grundzügen, sondern so umfassend und klar
+darzulegen hat, dass ein substantiiertes Bestreiten möglich ist bzw.
+darüber Beweis abgenommen werden kann. Die inhaltliche Tragweite der Substantiierungslast
+hängt zudem vom prozessualen Verhalten der Gegenpartei ab (vgl. z.B. BGer
+4A_155/2014 vom 5. August 2014, E. 7.3. m.w.H.).
+c)
+Schliesslich gilt der
+allgemeine prozessrechtliche Grundsatz, wonach beim Entscheid über die
+Zuständigkeitsfrage auf den vom Kläger eingeklagten Anspruch und dessen
+Begründung abzustellen ist. Rechtsschriften sind wie alle Prozesshandlungen
+objektiv nach allgemeinen Grundsätzen unter Berücksichtigung von Treu und
+Glauben auszulegen. Das Gericht ist gehalten, auf die von den Parteien
+dargelegten Tatsachen alle in Betracht fallenden Rechtssätze anzuwenden
+(BGer 4A_160/2009 vom 25. August 2009, E. 6.2).
+D.               Beurteilung
+1.
+Zunächst ist zu prüfen, ob die
+Beklagten ihre Einrede der Unzuständigkeit der staatlichen Gerichte vor
+Vorinstanz in formeller Hinsicht rechtsgenügend, insbesondere hinreichend
+substantiiert, erhoben haben.
+a)
+Wie erwogen (E. III.C.4a)
+ist diese Frage nach der lex fori, d.h. in casu nach der ZPO, zu
+beurteilen. Insbesondere kann – entgegen der Auffassung der Klägerin (v.a.
+act. 64 Rz. 38 ff.; act. 42 Rz. 13-27) –
+Art. II Ziff. 3 NYÜ nicht entnommen werden, dass eine „technische“
+Schiedseinrede bzw. die ausdrückliche Erklärung der Beklagten erforderlich
+wäre, dass sie die formelle und materielle Gültigkeit und Wirksamkeit der
+Schiedsklausel gemäss Art. 12 Abs. 2 des Vertrags unwiderruflich
+anerkennen und bestätigen, in einem gegen sie eingeleiteten
+Schiedsverfahren die Einrede des Fehlens einer zwischen den Parteien
+wirksamen Schiedsvereinbarung nicht zu erheben. Vielmehr ist nach der ZPO
+wie gesehen (E. III.C.4b) ausreichend, wenn sich die vor einem
+staatlichen Gericht beklagte Partei unmissverständlich und bedingungsfrei
+auf eine Schiedsvereinbarung beruft, um die Zuständigkeit ebendieses
+staatlichen Gerichts zu bestreiten.
+b)
+Diese Anforderungen haben die
+Beklagten mit ihrem prozessualen Agieren vor Vorinstanz erfüllt, indem sie
+– ohne sich zuvor zur Sache geäussert zu haben (vgl. vorne, E. I.3.
+und act. 1-30 sowie act. 31 Rz. 13-15) – mit Eingabe vom
+24. Juni 2015 u.a. unter ausdrücklichem Hinweis auf die in
+Art. 12 des Vertrags enthaltene Schiedsklausel geltend machten, die
+Vorinstanz sei zur Behandlung der von der Klägerin gegen sie erhobenen
+Klage nicht zuständig (act. 31 v.a. Rz. 11, 17 ff.).
+Freilich legen die Beklagten in dieser Eingabe nicht im Einzelnen dar, dass
+bzw. wann sie unter Wahrung der in Art. II Ziff. 2 NYÜ
+vorgesehenen Form mit der Klägerin eine Schiedsvereinbarung getroffen
+hätten. Indes bringen sie darin u.a. vor, die Klägerin stütze ihre
+Forderung ausschliesslich auf den Vertrag und dieser enthalte eine
+Schiedsklausel, gemäss welcher sämtliche Streitigkeiten im Zusammenhang mit
+diesem Vertrag ausschliesslich durch ein Schiedsgericht beurteilt werden
+sollen (act. 31 Rz. 11). Insbesondere aufgrund dieser
+Ausführungen müssen die in dieser Eingabe von den Beklagten gemachten
+Darlegungen nach Treu und Glauben jedoch so verstanden werden, dass sie
+sinngemäss geltend machen, die subjektive Tragweite der Schiedsklausel des
+Vertrags, in dem als involvierte Personen neben der Klägerin einzig die
+D.______ FZE, die E.______ FZE, die „B.______ AG“ (so firmierte die
+Beklagte 2 vor ihrer am 19. Mai 2008 und somit einige Zeit vor
+Vertragsschluss [26. November 2009] geschehenden Umwandlung, vgl.
+act. 8 und act. 2 Rz. 8) sowie pauschal die „F.______ Group“
+bzw. die „F.______ Company/Companies“ ausdrücklich genannt werden (vgl.
+act. 3/6), erstrecke sich auch auf sie beide. Dabei bleibt es nicht
+bei dieser blossen Behauptung, sondern die Beklagten begründen ihre Auffassung
+damit, dass es anderenfalls widersprüchlich wäre, wenn die Klägerin die
+Beklagten zwar bezüglich Zahlungspflicht bzw. Haftung, nicht aber bezüglich
+der Schiedsklausel als an den Vertrag gebunden erklärt (vgl. act. 31
+v.a. Rz. 20). Auch bringen sie in der fraglichen Eingabe beispielsweise
+vor, die Klägerin gehe aufgrund ihres Vorgehens gegen die D.______ FZE vor
+einem Schiedsgericht selber von der Gültigkeit der im Vertrag enthaltenen
+Schiedsklausel für sämtliche Streitigkeiten im Zusammenhang mit diesem aus
+– unabhängig davon, wer darin explizit als Vertragspartei aufgeführt sei
+(act. 31 Rz. 22).
+c)
+Nach dem Gesagten haben die
+Beklagten somit ihre Unzuständigkeitseinrede entgegen der Vorinstanz
+(act. 49 E. III.4.) und der Klägerin (act. 64 v.a.
+Rz. 28 ff.) durchaus hinreichend substantiiert, zumal es sich bei
+der mit ihren Vorbringen aufgeworfenen Problematik letztlich nicht um Sachverhaltsfragen
+sondern um Rechtsanwendung handelt. Eine abschliessende Beurteilung der
+Frage, ob die Beklagten ihre Unzuständigkeitseinrede genügend substantiiert
+haben, kann jedoch ausgangsgemäss (vgl. hinten, E. III.D.3.) offen
+bleiben.
+2. a)
+Die Beklagten stützen ihre
+Unzuständigkeitseinrede wie bereits angetönt (soeben, E. III.D.1b)
+ausschliesslich auf die in Art. 12 Abs. 2 des Vertrags
+(act. 3/6) enthaltene Schiedsklausel (vgl. act. 31). Diesen
+Vertrag hat neben der Klägerin einzig die E.______ FZE, vertreten durch
+„I.______“, unterzeichnet (act. 3/6 nach Art. 16; unstrittig,
+vgl. u.a. act. 2 Rz. 22 und act. 53 Rz. 22, 26). Dass
+daneben noch eine andere „schriftliche Vereinbarung“ im Sinne von
+Art. II Ziff. 2 NYÜ zwischen den Parteien existiert, behaupteten
+die Beklagten nicht und ist auch sonst nicht ersichtlich. Die Vorinstanz
+erwog somit zutreffend, dass keine den Anforderungen von Art. II
+Ziff. 2 NYÜ genügende, ausdrücklich zwischen den Parteien
+abgeschlossene Schiedsvereinbarung vorliegt (act. 49 E. III.4.).
+b)
+Auch wenn man entgegen den
+vorne angestellten Erwägungen (E. III.C.2d) über die in Art. VII
+Ziff. 1 NYÜ enthaltene Meistbegünstigungsklausel Art. 178
+Abs. 1 IPRG als „milderes“ Recht anzuwenden hätte (so die Auffassung
+der Beklagten, act. 53 Rz. 19), wäre in casu keine gültige,
+explizit zwischen den Parteien abgeschlossene Schiedsvereinbarung
+auszumachen. Die Beklagte weist zwar zutreffend darauf hin, dass
+Art. 178 Abs. 1 IPRG nicht verlangt, dass die auf Abschluss einer
+Schiedsvereinbarung gerichtete Willenserklärung durch den Erklärenden
+unterzeichnet ist und die Unterzeichnung dem Erklärungsempfänger mitgeteilt
+wird. Auch nach Art. 178 Abs. 1 IPRG muss aber die Schiedsvereinbarung
+schriftlich, d.h. in einem Text getroffen werden. Mit anderen Worten muss
+also die Erklärung, bestimmte Streitigkeiten einem Schiedsgericht zur
+Entscheidung zu unterbreiten, in visuell wahrnehmbarer, physisch
+reproduzierbarer Form vorliegen („Textform“; zum Ganzen statt vieler: BGer
+4P.124/2001 vom 7. August 2001, E. 2c; Gränicher, BSK IPRG,
+Art. 178 N 11 ff.; Göksu, a.a.O., N 544 ff.). Dass
+in Bezug auf den Rechtsstreit zwischen der Klägerin und den Beklagten
+derartige ausdrückliche, von den Beklagten in Textform abgegebene
+Erklärungen abgegeben worden wären, haben diese jedoch nicht behauptet
+(vgl. insbesondere act. 31) und ist auch sonst nicht ersichtlich.
+3. a)
+Festzuhalten ist indes, dass
+aufgrund von Art. 12 Abs. 2 des Vertrags (act. 3/6) eine
+gültige, jedenfalls die Klägerin und die D.______ FZE bindende
+Schiedsvereinbarung besteht (insoweit unstrittig, vgl. insbesondere den Partial
+Award vom 27. Januar 2014 im DIAC Case No. […] [act. 32/6
+v.a. Rz. 122 ff.] sowie act. 53 Rz. 28; act. 42
+Rz. 70; bezüglich der E.______ FZE ist die schiedsgerichtliche
+Zuständigkeit zwischen den Parteien umstritten, vgl. u.a. act. 43/134
+und die von den Beklagten unkommentiert gelassenen Ausführungen der
+Klägerin in act. 42 Rz. 10, 73 f.). Damit stellt sich die
+Frage nach der subjektiven Tragweite dieser Schiedsvereinbarung (Ausdehnung
+derselben auf die Beklagten) bzw. ob in casu im Verhältnis zwischen der
+Klägerin und den Beklagten der Ausnahmefall einer Verhaltensweise nach Treu
+und Glauben, die die Einhaltung der in Art. II Ziff. 2 NYÜ
+statuierten Formvorschrift ersetzen kann, vorliegt (vgl. vorne
+E. III.C.2e und III.C.3.).
+b)
+Die Beklagten bemerken durchaus
+zutreffend (vgl. z.B. act. 53 Rz. 22), dass der Vertrag nach
+eigener Darstellung der Klägerin zu Gunsten jeder Gesellschaft der
+F.______-Gruppe abgeschlossen worden sei und die Beklagte 1 von der
+Klägerin gestützt auf den Vertrag ausgestellte Rechnungen für zugunsten
+beliebiger F.______-Gesellschaften erbrachte Sicherheitsleistungen bezahlt
+respektive die Beklagte 2 von der Klägerin Sicherheitsdienstleistungen
+bezogen habe (vgl. v.a. act. 2 Rz. 47 ff.). Insofern wäre es
+grundsätzlich denkbar, dass sich die Tragweite der unstrittig jedenfalls
+die D.______ FZE und die Klägerin bindenden, in Art. 12 Abs. 2
+des Vertrags (act. 3/6) enthaltenen Schiedsklausel z.B. aufgrund der
+Konzernzugehörigkeit und/oder infolge der beschriebenen Einmischung beim
+Vollzug des Vertrags auch auf die Beklagten erstreckt (vgl. vorne,
+E. III.C.3.).
+c)
+Die subjektive Tragweite der in
+Art. 12 Abs. 2 des Vertrags (act. 3/6) enthaltenen
+Schiedsvereinbarung bestimmt sich gemäss dem vorne Erwogenen
+(E. III.C.3.) nach dem Recht der Vereinigten Arabischen Emirate (VAE),
+da die Parteien des Vertrags darin das Recht dieses Staates gewählt haben
+und gemäss der Schiedsvereinbarung ein allfälliges Schiedsgericht seinen
+Sitz in Dubai hätte (vgl. act. 3/6 Art. 12). Die Klägerin
+vertritt unter Berufung auf ein Privatgutachten (act. 43/130-132)
+sowie einen Entscheid des Dubai Court of Cassation vom 17. Januar 2005
+(act. 43/133) den Standpunkt, dass nach dem Recht der VAE Dritte, die
+einen Vertrag, der eine Schiedsklausel enthält, nicht unterzeichnet haben,
+nur in drei in casu nicht einschlägigen Ausnahmesituationen (formelle und
+ausdrückliche Übertragung der Verpflichtungen gemäss dem Vertrag inklusive
+Schiedsklausel; Ratifikation von die ursprünglichen Befugnissen überschreitenden
+Handlungen des Bevollmächtigten durch den Auftraggeber; Übernahme
+vorangehender vertraglicher Verpflichtungen bei einer Reihe von Verträgen,
+mit explizitem Verweis auf eine Schiedsvereinbarung) materiell aufgrund
+einer Wirkungserstreckung der Schiedsklausel an diese gebunden werden
+können (act. 42 v.a. Rz. 54 ff.; act. 64
+Rz. 76 ff.). Die Beklagten sind auf diese klägerischen
+Ausführungen nicht eingegangen (vgl. act. 53). Immerhin hat aber mit
+der E.______ FZE eine andere Gesellschaft der F.______-Gruppe, der auch die
+Beklagten angehören (vgl. die unbestritten gebliebenen Darlegungen der
+Klägerin in act. 2 S. VI und act. 2 Rz. 44 ff.),
+im Rahmen des von ihr gegen die Klägerin geführten Schiedsverfahrens DIAC
+Case No. […] sinngemäss wie die Klägerin ebenfalls geltend gemacht, wenn
+ihr keine Parteistellung bezüglich des Vertrags zukomme und auch sonst
+keine ausdrückliche Schiedsvereinbarung vorliege, bestehe gemäss dem Recht
+der VAE keine rechtliche Basis, aufgrund derer sich eine gültige
+Schiedsvereinbarung zwischen ihr und der Klägerin ergebe (act. 43/134
+Rz. 3.11; hierzu die Klägerin u.a. in act.42 Rz. 73 f.).
+d)
+Wie es sich unter dem Recht der
+VAE bezüglich der subjektiven Tragweite von Schiedsvereinbarungen genau
+verhält, kann indes offen bleiben. Denn jedenfalls gilt (auch) im Recht der
+VAE der elementare Rechtsgrundsatz des Handelns nach Treu und Glauben (vgl.
+Art. 246 Ziff. 1 des Federal Law No.
+(5) of 1985 On
+the Civil Transactions Law of the United Arab Emirates [sog.
+“Civil
+Code” der VAE], in englischer Sprache abrufbar z.B. unter
+https://legaladviceme.com/legislation). In diesem Zusammenhang fällt nun
+ins Gewicht, dass sich die Beklagten ab Januar 2012, d.h. bereits während
+der klägerischen Leistungserbringung gemäss Vertrag, die gemäss deren
+eigenen Angaben von anfangs des Jahres 2010 bis Ende April 2012 erfolgte
+(act. 2 z.B. Rz. 36), vorprozessual beständig auf den Standpunkt
+stellten, nicht Partei des Vertrags zu sein (vgl. act. 3/9-16,
+insbesondere act. 3/11 S. 1: „The Security Contract was entered
+into only between […] [Klägerin] and […] [D.______ FZE], act. 3/12:
+„We [Beklagte 2] do not have a contract with C.______ [Klägerin].“ und
+act. 3/14 [Schreiben der D.______ FZE]: „[…] the contract for security
+and protective services was entered into between D.______ FZE […] and
+C.______ (the Contract).
+Neither of the other entities to
+whom the Letters were addressed, nor B.______GmbH, are parties to the
+Contract.”).
+Auf diesen Umstand machte die Klägerin bereits in der
+Klageschrift (act. 2 Rz. 23 f.) wie auch in ihrer Eingabe
+vom 16. Dezember 2015 (act. 42 Rz. 69) aufmerksam. Die
+Beklagten gingen darauf jedoch weder vor Vorinstanz (vgl. act. 31)
+noch in ihrer Berufungsschrift (act. 53) ein. Auch widersprachen sie
+im Berufungsverfahren der Erwägung der Vorinstanz nicht, dass sie sich in
+Korrespondenz klar dahingehend geäussert hätten, nicht Partei des Vertrags
+zu sein (act. 49 E. II.3.2.). Schliesslich brachte die E.______ FZE
+in einem von der Klägerin gegen sie geführten Schiedsverfahren (DIAC Case
+No. […]) vor, von der F.______ Gruppe sei einzig sie an den Vertrag und an
+die Schiedsklausel gebunden (act. 43/134 S. 6 Ziff. 3.10):
+„It is abundantly clear from the terms of the Contract that the parties to
+that contract,
+and to the arbitration agreement contained within it
+,
+are the Claimant [Klägerin] and […] [D.______ FZE]
+and only those two
+parties
+.
+There is
+nothing in the Contract or
+otherwise in the related documentation
+to credibly support an argument
+that the parties to the arbitration agreement are not (
+and are limited
+to
+) the Claimant and D.______ FZE, or that the Respondent [E.______ FZE]
+is a party to the Contract or the arbitration agreement.”
+(Hervorhebungen
+beigefügt).
+e)
+Angesichts dieser Umstände und
+der vorprozessual von den Beklagten bzw. der F.______-Gruppe konsequent
+vertretenen Position, einzig die Klägerin und die D.______ FZE seien an den
+Vertrag und an die darin enthaltene Schiedsklausel gebunden, erscheint es
+als Handeln gegen Treu und Glauben (Art. 246 Ziff. 1 Civil Code
+VAE) sowie als rechtmissbräuchlich, wenn sich die Beklagten im Prozess nun
+auf die in diesem Vertrag enthaltene Schiedsvereinbarung berufen. Die
+Klägerin handelt somit entgegen der Auffassung der Beklagten (act. 31
+Rz. 20; act. 53 Rz. 15 f., 23) mit ihrer auf den
+Vertrag gestützten, jedoch trotz dessen Schiedsklausel vor den staatlichen
+Gerichten angehobenen Klage nicht widersprüchlich. Auch kann angesichts des
+beharrlichen vorprozessualen Verhaltens der Beklagten nicht die Rede von
+einer „leeren Schutzbehauptung“ der Klägerin sein, dass sich Erstere einem
+Schiedsverfahren widersetzen würden (so die Beklagten, act. 53
+Rz. 23).
+f)
+Insgesamt ist somit Folgendes
+zu konstatieren: Falls die im Vertrag enthaltene Schiedsvereinbarung z.B.
+zufolge Konzernzugehörigkeit oder Einmischung bei der Vertragserfüllung in
+subjektiver Hinsicht nach dem Recht der VAE jemals eine derartige Tragweite
+aufgewiesen haben sollte, dass auch die Beklagten – trotz fehlender
+„schriftlicher Vereinbarung“ im Sinne von Art. II Ziff. 2 NYÜ –
+an diese gebunden waren, so wurde diese Ausdehnung der Schiedsklausel
+aufgrund des soeben beschriebenen (E. III.D.3d-e), widersprüchlichen
+bzw. rechtsmissbräuchlichen vorprozessualen Handelns der Beklagten und der
+Klageanhebung durch die Klägerin vor einem staatlichen Gericht wieder
+aufgehoben (konkludentes Angebot der Beklagten zur Aufhebung der
+Schiedsvereinbarung; Annahme des Aufhebungsangebots durch die Klägerin)
+bzw. hinfällig im Sinne von Art.
+II Ziff. 3 NYÜ
+(vgl. hierzu Schramm/Geisinger/Pinsolle, in: Kronke/Nacimiento/Otto/Port,
+Recognition and Enforcement of Foreign Arbitral Awards: A Global Commentary
+on the New York Convention, Alphen aan de Rijn 2010, S. 105 f.).
+Dabei
+ist die Kontroverse, ob sich die Hinfälligkeit einer Schiedsvereinbarung im
+Sinne von Art. II Ziff. 3 NYÜ direkt nach dem NYÜ
+(„uniform/internationalized interpretation/standard“) oder nach einem
+nationalen Recht beurteilt (Schramm/Geisinger/Pinsolle, a.a.O., S. 104 f.),
+vorliegend ohne Relevanz. Denn beim Grundsatz des Handelns nach Treu und
+Glauben bzw. beim Rechtsmissbrauchsverbot handelt es sich um ein
+international anerkanntes Rechtsprinzip und dieses ist zudem sowohl im
+Recht der VAE (vgl. vorne, E. III.D.3d) als auch im Schweizerischen
+Recht (vgl. v.a. Art. 2 ZGB, Art. 52 ZPO) kodifiziert (vgl. zum
+Thema der konkludenten Aufhebung von Schiedsvereinbarungen – indes vor allem
+im Anwendungsbereich des IPRG – auch BGE 121 III 495, E. 5; BGE 127
+III 279, E. 2c/ee; BGer 4A_579/2010 vom 11. Januar 2011,
+E. 2.2.2.; Stacher, ZZZ 2006, S. 509 ff.).
+4.
+Die Vorinstanz ist nach dem
+Gesagten und weil die Erwägungen des Kantonsgerichtspräsidenten betreffend
+die Frage der anderweitigen Rechtshängigkeit (act. 49 E. IV.) unangefochten
+blieben (vgl. act. 53), zu Recht auf die Klage eingetreten. Die
+Berufung ist daher abzuweisen (in Bezug auf die vorinstanzlichen Kosten-
+und Entschädigungsfolgen vgl. sogleich, E. IV.1.). Vorzumerken ist
+sodann, dass die vorinstanzliche Abweisung des von der Beklagten gestellten
+Sistierungsantrags (act. 49 Dispositiv-Ziff. 2) unangefochten in
+Rechtskraft erwachsen ist (vgl. act. 53; Art. 315 Abs. 1
+ZPO).
+IV.
+(Kosten- und Entschädigungsfolgen; Rechtsmittel)
+1.
+Bei diesem Ausgang ist die von
+der Vorinstanz getroffene Kosten- und Entschädigungsregelung (act. 49
+Dispositiv-Ziff. 4-6) nicht zu beanstanden. Insoweit die Beklagten
+auch die Höhe der vorinstanzlichen Gerichtskosten und jene der von der
+Vorinstanz zu Gunsten der Klägerin gesprochenen Parteientschädigung
+anfechten (vgl. act. 53 S. 3 Antrag 1), ist auf ihre
+Berufung mangels bezifferter Anträge und hinreichender Begründung nicht
+einzutreten (vgl. act. 53 Rz. 36 f.; Art. 311
+Abs. 1 ZPO).
+2.
+Die Kosten des
+Berufungsverfahrens sind ausgangsgemäss den Beklagten in solidarischer
+Haftung aufzuerlegen (Art. 106 Abs. 1 und Abs. 3 ZPO) und
+mit dem von ihnen geleisteten Kostenvorschuss von CHF 10‘000.–
+(act. 57 f.) zu verrechnen (Art. 111 Abs. 1 ZPO).
+Antragsgemäss (act. 64 S. 2) ist der Klägerin für das
+Berufungsverfahren eine angemessene Parteientschädigung zulasten der
+Beklagten (in solidarischer Haftung) zuzusprechen (Art. 105
+Abs. 2 und Art. 106 ZPO).
+3.
+Der vorliegende
+Berufungsentscheid stellt einen selbständig eröffneten Zwischenentscheid
+über die Zuständigkeit im Sinne von Art. 92 BGG dar und ist bei sonst
+gegebenen Voraussetzungen mit Beschwerde in Zivilsachen nach
+Art. 72 ff. BGG beim Bundesgericht anfechtbar.
+____________________
+Das Gericht
+beschliesst und
+erkennt
+:
+1.
+Es wird vorgemerkt, dass die Dispositiv-Ziffer 2
+(Abweisung Antrag auf Verfahrenssistierung) der Verfügung des
+Kantonsgerichtspräsidenten vom 24. März 2016 im Verfahren
+ZG.2014.00773 in Rechtskraft erwachsen ist.
+2.
+Die Berufung wird abgewiesen, soweit auf diese
+eingetreten wird, und die Dispositiv-Ziffern 1 sowie 4 bis 7 der Verfügung
+des Kantonsgerichtspräsidenten vom 24. März 2016 im Verfahren
+ZG.2014.00773 werden bestätigt.
+3.
+Die Gerichtsgebühr für das Berufungsverfahren wird
+festgesetzt auf CHF 8‘000.–.
+4.
+Die Kosten des Berufungsverfahrens werden den
+Berufungsklägerinnen, unter solidarischer Haftung, auferlegt und mit dem
+von ihnen geleisteten Kostenvorschuss von CHF 10‘000.– verrechnet.
+5.
+Die Berufungsklägerinnen werden unter solidarischer
+Haftung verpflichtet, der Berufungsbeklagten eine Parteientschädigung von
+insgesamt CHF 9‘000.– (inkl. Auslagen und 8 % MwSt.) zu bezahlen.
+6.
+Schriftliche Mitteilung an:
+[...]
