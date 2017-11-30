@@ -1,0 +1,486 @@
+---
+decision_id: "gl_gerichte_VG.2017.00043"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2017.00043"
+docket_2: "VG.2017.593"
+decided: "2017-11-30"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=875&W10_KEY=218274&nTrefferzeile=3&Template=simple/search_result_document.html"
+---
+
+# GL Gerichte VG.2017.00043
+
+## Regeste
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+## Text
+
+Glarus Verwaltungsgericht 30.11.2017 VG.2017.00043 (VG.2017.593)
+Glaris Verwaltungsgericht 30.11.2017 VG.2017.00043 (VG.2017.593)
+Glarona Verwaltungsgericht 30.11.2017 VG.2017.00043 (VG.2017.593)
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+30. November 2017
+I. Kammer
+in Sachen
+VG.2017.00043
+Erbengemeinschaft
+A.______
+bestehend
+aus:
+B.______
+Beschwerdeführer
+C.______
+D.______
+E.______
+alle vertreten durch
+Rechtsanwalt
+F.______
+gegen
+1.
+Gemeinde Glarus Nord
+Beschwerdegegner
+vertreten durch Rechtsanwältin G.______
+2.
+Departement Bau und Umwelt des Kantons
+Glarus
+betreffend
+Erstellung Erschliessungsstrasse
+Die Kammer zieht in Erwägung:
+I.
+1.
+B.______, C.______,
+D.______ und E.______ (Erbengemeinschaft A.______) waren die Eigentümer der
+im Gebiet […] in […] zwischen der X-Strasse und den SBB-Gleisen liegenden
+Parz.-Nrn. 01, 02, 03 und 04, alle Grundbuch […]. Der Gemeinderat […]
+erteilte der Erbengemeinschaft A.______ am 10. Mai 2010 unter verschiedenen
+Auflagen die Bewilligung zum Bau einer Erschliessungsstrasse betreffend die
+Parz.-Nrn. 01, 02, 03 und 04. In der Folge wurden die
+Parz.-Nrn. 05, 06, 07, 08, 09 und 10 von der Parz.-Nr. 02 abparzelliert.
+Entgegen dem Baugesuch und der Baubewilligung wurde die Erschliessungsstrasse
+nicht fertig gebaut. Mittlerweile befinden sich einzig noch die
+Parz.-Nrn. 01 und 04 im Eigentum der Erbengemeinschaft A.______. Die
+Parz.-Nrn. 03, 10, 09 und 02 gehören einzelnen Mitgliedern der
+Erbengemeinschaft A.______, die Parz-Nrn. 05, 06, 07 und 08 Dritten.
+2.
+2.1
+Der Gemeinderat Glarus Nord erliess am 14. Oktober
+2013 über die Parz.-Nrn. 01, 03 und 04 eine Planungszone bis am 31.
+Dezember 2015, welche er am 2. Dezember 2015 bis am 31. Dezember
+2017 verlängerte.
+2.2
+Mit Verfügung vom 31. August 2016 stellte der
+Gemeinderat Glarus Nord fest, dass die Erschliessungsstrasse nicht
+fertiggestellt und die Auflagen gemäss der Baubewilligung vom 10. Mai 2010
+nicht vollständig erfüllt worden seien. Er verpflichtete die Erbengemeinschaft
+A.______, die Erschliessungsstrasse fertigzustellen und die Auflagen zu erfüllen
+sowie deren Erfüllung zu belegen (Ziff. 1); die Dienstbarkeitsverträge
+sämtlicher Versorgungs- und Entsorgungsleitungen, welche über die Parz.-Nrn.
+01 und 02 sowie alle davon abparzellierten Liegenschaften im Baugebiet
+führen, mit der Gemeinde und den Technischen Betriebe Glarus Nord abzuschliessen
+und im Grundbuch einzutragen (Ziff. 2); die Einfahrt im Bereich der X-Strasse
+und Y-Strasse entsprechend der Auflage in der Baubewilligung zu bauen (Ziff.
+3); der Baubewilligungsbehörde für jeden bestehenden und zukünftigen Betrieb
+und jeden Grundeigentümer, dessen Grundstück durch die neue Erschliessungsstrasse
+erschlossen wird, eine schriftliche Verpflichtung der betroffenen Parteien,
+die Ortsdurchfahrt […] möglichst zu meiden, vorzulegen (Ziff. 4). Für die Erfüllung
+der Auflagen und das Vorlegen der notwendigen Nachweise setzte der Gemeinderat
+eine Frist bis zum 16. Dezember 2016 bzw. 31. März 2017. Für den
+Säumnisfall drohte er eine Busse nach Art. 80 des Raumentwicklungs- und
+Baugesetzes vom 2. Mai 2010 (RBG) i.V.m. Art. 292 des Schweizerischen
+Strafgesetzbuchs vom 21. Dezember 1937 (StGB) an.
+3.
+Gegen die Verfügung des
+Gemeinderats Glarus Nord erhob die Erbengemeinschaft A.______ am 3.
+Oktober 2016 Beschwerde beim Departement Bau und Umwelt (DBU) und beantragte
+deren Aufhebung. Das DBU hiess die Beschwerde am 3. Mai 2017 teilweise
+gut. Es erteilte unter Bedingung der Erfüllung verschiedener Auflagen für die
+Erschliessungsstrasse im Sinne von Art. 70 Abs. 4 des Strassengesetzes vom 2.
+Mai 1971 (StrG) eine Ausnahmebewilligung (Disp.-Ziff. 2), änderte die in der
+Baubewilligung vom 10. Mai 2010 festgehaltene Auflage zur Einfahrt der
+Erschliessungsstrasse und der X-Strasse in die Y-Strasse (Disp.-Ziff. 3) und
+hob die Auflage auf, wonach die zukünftigen Industriebetriebe durch die Bauherrschaft
+zu verpflichten seien, für die Zu- und Wegfahrten in das neue Industriegebiet
+die Ortsdurchfahrt […] möglichst zu meiden (Disp.-Ziff. 4). Ferner setzte es
+der Erbengemeinschaft A.______ eine Frist von sechs Monaten ab Rechtskraft
+des Entscheids zur Erfüllung der Verpflichtungen und Auflagen gemäss der
+Verfügung des Gemeinderats Glarus Nord (Disp.-Ziff. 5) und wies die
+Beschwerde im Übrigen ab (Disp.-Ziff. 6).
+4.
+4.1
+Dagegen gelangte die Erbengemeinschaft A.______ mit
+Beschwerde vom 6. Juni 2017 ans Verwaltungsgericht und beantragte, dass
+der Entscheid des DBU mit Ausnahme der Disp.-Ziffn. 1-4 aufzuheben sei; alles
+unter Kosten- und Entschädigungsfolgen für das Verfahren vor dem DBU und für
+das vorliegende Beschwerdeverfahren.
+4.2
+Das DBU schloss am 21. Juni 2017 auf Abweisung der
+Beschwerde; unter Kostenfolge. Die Gemeinde Glarus Nord beantragte am 4. Juli
+2017 ebenfalls die Abweisung der Beschwerde; unter Kosten- und
+Entschädigungsfolgen zu Lasten der Erbengemeinschaft A.______.
+4.3
+Die Erbengemeinschaft A.______ nahm am 14. September
+2017 zu den Beschwerdeantworten Stellung und hielt an ihren Anträgen fest.
+Das DBU äusserte sich am 21. September 2017 nicht zur Stellungnahme der
+Erbengemeinschaft A.______, hielt aber an seinen Anträgen fest. Die Gemeinde
+Glarus Nord nahm am 5. Oktober 2017 Stellung, wobei sie ebenfalls an ihren
+Anträgen festhielt.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 79 Abs. 1 RBG i.V.m. Art. 105 Abs. 1 lit. b des
+Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986 (VRG) zur Behandlung
+der vorliegenden Beschwerde zuständig. Da auch die übrigen Prozessvoraussetzungen
+erfüllt sind, ist auf die Beschwerde einzutreten.
+2.
+2.1
+Zunächst ist zu prüfen, ob die Beschwerdeführer dazu
+verpflichtet sind, die Erschliessungsstrasse zu vollenden.
+2.1.1
+Die Beschwerdeführer machen geltend, das
+Vollstreckungsverfahren diene dazu, die Erfüllung verwaltungsrechtlicher
+Pflichten zu erzwingen. Die Erschliessung von Grundstücken stelle keine
+Pflicht der privaten Grundeigentümer dar, sondern liege in der Verantwortung
+der Gemeinde. Auch wenn Private wie vorliegend selbst die Initiative zur
+Erschliessung der Baugrundstücke ergreifen würden, erwachse aus einer
+diesbezüglichen Baubewilligung keine Baupflicht. Die Baubewilligung stelle lediglich
+eine Erlaubnis dar. Wo aber keine Pflicht bestehe, hätten auch
+Vollstreckungsmassnahmen keinen Platz. Daran ändere auch nichts, dass sie einen
+Teil der Erschliessungsstrasse bereits gebaut hätten. Der Beschwerdegegner 2
+sei in unrichtiger Rechtsanwendung von einer Vollendungspflicht ausgegangen,
+die dem klaren Wortlaut von Art. 78 Abs. 1 RBG widerspreche. Diese
+Bestimmung halte nämlich fest, dass eine rechtskräftige Baubewilligung
+erlösche, wenn die Bauarbeiten für mehr als ein Jahr unterbrochen würden.
+Unterbrochen könne aber nur werden, was begonnen worden sei.
+2.1.2
+Die Beschwerdegegnerin 1 vertritt die
+Auffassung, die Beschwerdeführer seien verpflichtet, die
+Erschliessungsstrasse mitsamt dem Kehrplatz fertigzustellen. Es gehe hier
+nicht mehr um die Pflicht zur Erschliessung von Grundstücken, sondern um die
+Erfüllung von Auflagen. Massgebend sei, dass der Bau nicht gemäss den
+Auflagen in der Baubewilligung fertiggestellt worden sei. Es könne nicht
+angehen, dass ein Bauherr, welcher Auflagen zu erfüllen habe, den Bau nicht
+fertig stelle, weil er diesen auch ohne Erfüllung der Auflagen bestens nützen
+könne. Die Erschliessungsstrasse sei grösstenteils gebaut und werde täglich
+zur Erschliessung der angrenzenden Gewerbebetriebe genutzt. Nicht gebaut
+worden seien lediglich diejenigen Bauteile, welche in der Baubewilligung als
+Auflagen verfügt worden seien.
+2.1.3
+Der Beschwerdegegner 2 führt mit Verweis auf
+ein Urteil des Verwaltungsgerichts des Kantons Zug aus, dass ein Bauprojekt,
+so wie es projektiert worden sei, in seiner Gesamtheit vollendet werden
+müsse, wenn der Eigentümer von einer Baubewilligung Gebrauch gemacht habe.
+Vorliegend gehe es nicht nur um eine Auflage bzw. Nebenverpflichtung eines
+Bauprojekts, welches in seiner Gesamtheit zu erfüllen sei, sondern um die
+Fertigstellung einer Erschliessungsstrasse als eigentliches Bauvorhaben bzw.
+als Hauptverpflichtung. Die Pflicht zur Fertigstellung ergebe sich aus der
+Tatsache, dass das Bauvorhaben zwar begonnen worden sei, jedoch nicht in
+seiner Gesamtheit wie projektiert und bewilligt zu Ende gebaut worden sei.
+Die Fertigstellung der Erschliessungsstrasse liege in hohem Masse im öffentlichen
+Interesse. Die südlich des nicht fertiggestellten Teils der Erschliessungsstrasse
+gelegenen Parzellen blieben ansonsten nämlich trotz planerischer und baurechtlicher
+Baureife unerschlossen.
+2.2
+2.2.1
+Gemäss Art. 76 Abs. 1 RBG wird die Baubewilligung
+erteilt, wenn das Bauvorhaben den öffentlich-rechtlichen Vorschriften
+entspricht. Die Baubewilligung kann nach Art. 76 Abs. 2 RBG mit Bedingungen,
+Auflagen oder Befristungen verbunden werden; diese können im Grundbuch
+angemerkt werden. Soweit es die Umstände erfordern, können geeignete
+Sicherheiten für eine allfällig notwendige Ersatzvornahme oder für andere Ersatzvorkehren
+verlangt werden.
+2.2.2
+Gemäss Art. 78 Abs. 1 RBG erlischt die
+Baubewilligung, wenn die Bauarbeiten nicht innert Jahresfrist nach Eintritt
+der Rechtskraft begonnen oder während mehr als einem Jahr unterbrochen
+werden. Die zuständige Gemeindebehörde kann eine längere Geltungsdauer
+festlegen. Die Fristen können nach Art. 78 Abs. 2 RBG auf begründetes Gesuch
+hin um ein Jahr verlängert werden.
+2.3
+2.3.1
+Der Beschwerdegegner 2 geht gestützt auf einen
+Entscheid des Verwaltungsgerichts des Kantons Zug vom 27. März 2013 (Urteil V
+2012 / 5, publiziert in Gerichts- und Verwaltungspraxis 2013, S. 56 ff.)
+davon aus, dass ein Eigentümer der von einer Baubewilligung Gebrauch zu
+machen beginnt, das bewilligte Bauvorhaben stets in seiner Gesamtheit zu vollenden
+habe. Er versteht damit eine Passage aus einem verwaltungsgerichtlichen
+Urteil eines anderen Kantons ohne nähere Prüfung als allgemeinen Rechtsgrundsatz.
+Betrachtet man das
+erwähnte Urteil hingegen näher, so fällt auf, dass diesem eine besondere
+Konstellation zugrunde lag. Das Verwaltungsgericht des Kantons Zug hatte eine
+Baubewilligung für den Neubau eines Wohnhauses zu prüfen. Mit dem Bau des
+geplanten Wohnhauses wäre die bisherige Strasse zum Nachbargrundstück nicht
+mehr benutzbar gewesen. Das Bauprojekt sah aber die Erstellung einer neuen Zufahrtsstrasse
+zum Nachbargrundstück vor. Unter diesen Umständen kam das Zuger
+Verwaltungsgericht zum Schluss, dass wenn die Bauherren von der
+Baubewilligung Gebrauch machen würden, diese auch verpflichtet seien, die
+neue Zufahrtsstrasse zu erstellen.
+Damit kann aber nicht von
+einem allgemeinen Rechtsgrundsatz ausgegangen werden, wonach ein Bauvorhaben
+stets der Baubewilligung entsprechend zu vollenden ist. Massgebend war im
+erwähnten Fall vielmehr, dass das Bauvorhaben ohne Zufahrtstrasse gar nicht
+bewilligungsfähig gewesen wäre, da ansonsten dem Nachbargrundstück die strassenmässige
+Erschliessung entzogen worden wäre. Es versteht sich in einem solchen Fall
+von selbst, dass nicht allein das Wohnhaus gebaut werden darf, sondern eine
+Pflicht besteht, die neue Zufahrtsstrasse, welche die bisherige Erschliessung
+des Nachbargrundstücks ersetzt, ebenfalls zu erstellen. Davon unterscheidet
+sich der vorliegend zu beurteilende Fall aber in einem erheblichen Masse.
+2.3.2
+Grundsätzlich ist zunächst darauf hinzuweisen, dass
+eine Baubewilligung eine mitwirkungsbedürftige Verfügung ist, welche dem
+Gesuchsteller das Recht gibt, nicht die Pflicht auferlegt, ein Bauvorhaben zu
+verwirklichen. Beginnt der Bauherr mit der Ausführung des Bauprojekts und
+unterbricht er diese für länger als ein Jahr, so ergibt sich die Rechtsfolge
+direkt aus dem Gesetz. Gemäss Art. 78 RBG erlischt die Baubewilligung
+(Abs. 1), sofern die Frist nicht für ein weiteres Jahr erstreckt wird (Abs. 2).
+Eine Pflicht zur
+Bauvollendung ist dennoch nicht ausgeschlossen. Ein nicht fertig erstelltes
+Bauvorhaben kann sich nämlich als baurechts- oder allgemein polizeirechtswidrig
+erweisen. In einem solchen Fall ist es denkbar, dass der Bauherr zur Bauvollendung
+verpflichtet wird. So sieht etwa der Kanton Zürich in § 328 Abs. 1 des
+Planungs- und Baugesetzes vom 7. September 1975 (PBG) den Befehl zur Bauvollendung
+vor. Das hiesige Baugesetz kennt zwar einen solchen Befehl nicht. Allerdings
+kann es sich aus Gründen der Verhältnismässigkeit aufdrängen, die Vollendung
+einer im nicht fertigen Zustand rechtswidrigen Baute zu verlangen, anstatt
+die Wiederherstellung des rechtmässigen Zustands über einen Abbruchbefehl zu
+erlangen.
+Massgebend ist aber bei
+alledem, dass die Baute in unvollendeter Form rechtswidrig ist. Nur in einem
+solchen Fall besteht überhaupt Anlass, dem Bauherrn eine Bauvollendungspflicht
+aufzuerlegen. Wäre hingegen auch die unvollendete Baute bewilligungsfähig, so
+hat dies die Baubehörde als Projektänderung hinzunehmen bzw. zu genehmigen
+(vgl. zum Ganzen Christoph Fritzsche/Peter Bösch/Thomas Wipf, Zürcher
+Planungs- und Baurecht, Bd. 1, 5. A., Zürich 2011, S. 399; Christian Mäder,
+Das Baubewilligungsverfahren, Zürich 1991, S. 214). Hingehen darf entgegen
+der Auffassung des Beschwerdegegners 2 nicht aus allgemeinen öffentlichen
+Interessen – wie etwa demjenigen an der Erschliessung weiterer Grundstücke –
+auf eine Bauvollendungspflicht geschlossen werden.
+2.4
+Die Darstellung der Beschwerdeführer, wonach sie,
+nachdem sich ihre Überbauungspläne nicht verwirklicht hätten, darauf
+verzichtet hätten, das gesamte Gebiet zu erschliessen, greift indessen zu
+kurz. Vergleicht man nämlich den im Rahmen des Baubewilligungsverfahrens
+eingereichten Plan für die Erschliessungsstrasse mit dem Kartenausschnitt aus
+dem Geodatenviewer, wird ersichtlich, dass die Auffassung der Beschwerdegegnerin
+1 zutrifft, wonach die Strasse fast fertig gebaut ist und im Wesentlichen
+einzig östlich der Wendehammer als Abschluss der Strasse fehlt. Es ist daher
+verfehlt, davon auszugehen, es sei nur ein Teil der Erschliessungsstrasse
+nicht gebaut worden, weil die Erschliessung des gesamten Gebiets als (noch)
+nicht notwendig erachtet worden sei. Massgebend ist viel mehr, dass die
+Erschliessungsstrasse praktisch vollendet und einzig auf den Wendehammer
+verzichtet wurde. Bei diesem handelt es sich aber um ein wesentliches Element
+des Baugesuchs bzw. der Baubewilligung. Wie der Beschwerdegegner 2 in seinem
+Beschwerdeentscheid zutreffend ausführte, kann nur dann von einer genügenden
+Erschliessung durch eine Stichstrasse ausgegangen werden, wenn zu erwartende
+Kreuzungsmanöver ohne Gefahr möglich sind. Es liegt daher auf der Hand, dass
+die Erschliessungsstrasse ohne Wendehammer nicht hätte bewilligt werden
+können, weshalb die Beschwerdegegnerin 1 die Vollendung der Strasse,
+welche sich praktisch auf die Erstellung des Wendehammers beschränkt,
+befehlen durfte. Dabei ist es nicht relevant, dass über einzelne Parzellen
+eine Planungszone verfügt wurde und die künftigen Bebauungsmöglichkeiten noch
+nicht im Detail feststehen. Entscheidend ist vielmehr, dass die
+Erschliessungsstrasse in der jetzigen Form des Abschlusses mit einem
+Wendehammer bedarf. Insgesamt geht es daher weder um eine Erschliessung auf
+Vorrat noch bestehen veränderte Verhältnisse, welche zu berücksichtigen
+wären.
+3.
+3.1
+Der Beschwerdegegner 2 änderte in Disp.-Ziff. 3 des
+angefochtenen Entscheids die Auflage bezüglich der Einfahrt der
+Erschliessungsstrasse und der X-Strasse in die Y-Strasse. Die
+Beschwerdeführer fochten diese Disp.-Ziff. 3 ausdrücklich nicht an und
+führten in ihrer Stellungnahme vom 14. September 2017 aus, dass die Auflagen
+für die bereits erstellte Einmündung sinnvoll und verhältnismässig seien. Es
+ist jedoch unklar, ob sie bereit sind, diesen Auflagen nachzukommen, da sie
+die Disp.-Ziff. 5 des angefochtenen Entscheids, mit welcher ihnen Frist
+zur Erfüllung der Verpflichtungen und Auflagen gesetzt werden, anfochten.
+Würde aber die Disp.-Ziff. 5 aufgehoben, fehlte es an einem
+verbindlichen Zeitpunkt, bis welchem die Auflagen hinsichtlich der Einfahrt
+der Erschliessungsstrasse und der X-Strasse in die Y-Strasse erfüllt werden
+müssten. Es rechtfertigt sich daher, nachfolgend kurz zu prüfen, ob die
+Beschwerdeführer verpflichtet sind, die Auflagen gemäss Disp.-Ziff. 3 des
+angefochtenen Entscheids zu erfüllen.
+3.2
+Bei einer Auflage handelt es sich um eine mit einer
+Verfügung verbundene zusätzliche Verpflichtung zu einem Tun, Dulden oder
+Unterlassen. Ein Gesetzesverstoss kann mit einer Auflage durch Behebung des
+Mangels beim Projekt "geheilt" werden, womit Rechtskonformität
+eines Bauvorhabens erreicht werden kann. Im Gegensatz zu einer nicht
+existierenden generellen Bauvollendungspflicht besteht eine Pflicht zur
+Erfüllung der Auflagen, welche mit hoheitlichem Zwang durchgesetzt werden
+kann (Beat Stadler/Nicole Tschirky, in Alain Griffel et al. [Hrsg.],
+Fachhandbuch Öffentliches Baurecht, Zürich/Basel/Genf
+2016, S.
+60; Fritzsche/Bösch/Wipf, S. 347).
+3.3
+Die ursprüngliche Baubewilligung vom 10. Mai
+2010 enthielt verschiedene Auflagen, wie die Einfahrt der
+Erschliessungsstrasse und der X-Strasse in die Y-Strasse zu gestalten sei.
+Diese Auflagen wurden durch den Beschwerdegegner 2 abgeändert, was die Beschwerdeführer
+nicht beanstanden. Der Pflicht, diese Auflagen zu erfüllen, können sie sich
+nicht entziehen, da die Erschliessungsstrasse nur dann rechtskonform sein
+kann, wenn für eine verkehrspolizeilich korrekte Einmündung dieser Strasse
+und der X-Strasse in die Y-Strasse gesorgt ist, was bereits in der
+ursprünglichen Baubewilligung mit Auflagen verlangt wurde.
+4.
+4.1
+Zu prüfen ist schliesslich, wie es sich mit
+der Ziff. 2 der streitbetroffenen Verfügung vom 31. August 2016 verhält.
+In Ziff. 2 der Verfügung werden die Beschwerdeführer
+verpflichtet, die Dienstbarkeitsverträge für die Leitungsführung und die
+Kostentragung betreffend alle Versorgungs- und Entsorgungsleitungen, welche
+über die Parz.-Nrn. 01 und 02 sowie alle davon abparzellierten
+Liegenschaften im Baugebiet führen, mit der Beschwerdegegnerin 1 und den
+Technischen Betriebe Glarus Nord gemäss der Auflage in der Baubewilligung vom
+10. Mai 2010 abzuschliessen und die Dienstbarkeitsverträge im Grundbuch
+einzutragen.
+4.2
+4.2.1
+Die Beschwerdeführer machen geltend, dass die von
+der Vereinbarung mit der Gemeinde […] erfasste Parz.-Nr. 02 in diverse
+Teilgrundstücke abparzelliert worden seien, welche sich nicht mehr in ihrem
+Eigentum befinden würden. Als nicht mehr dinglich Berechtigte sei es ihnen
+gar nicht möglich, die Grundbucheintragung vorzunehmen. Die Auflage richte
+sich daher an die falschen Adressaten. Ins Recht gefasst müssten die neuen
+Eigentümer werden.
+4.2.2
+Die Beschwerdegegnerin 1 führt aus, es wäre an den
+Beschwerdeführern gelegen, diese Dienstbarkeiten rechtzeitig, vor dem Verkauf
+der Liegenschaften, im Grundbuch einzutragen. Sie seien dafür verantwortlich
+und hätten die Konsequenzen der Nichteintragungen zu tragen. Würden die
+Eintragungen nicht durch die Beschwerdeführer veranlasst, so müssten sie die
+Kosten hierfür vollumfänglich tragen.
+4.2.3
+Der Beschwerdegegner 2 vertritt die Auffassung, auch
+die Beschwerdeführer würden anerkennen, dass die Erbengemeinschaft A.______
+als Vertragspartnerin der Vereinbarung mit der Gemeinde […] verpflichtet sei,
+die ursprüngliche Verpflichtung betreffend Durchleitungsrechte aus der
+Vereinbarung im Rahmen von Grundeigentümerwechseln bei Verkauf des gesamten
+Grundstücks oder bei Abparzellierungen an den jeweiligen Rechtsnachfolger zu
+übertragen, so dass die Verpflichtung auch die neuen Grundeigentümer treffe.
+Der Umstand, dass durch Abparzellierungen von Teilgrundstücken aus der
+Parz.-Nr. 02 Eigentümerwechsel stattgefunden hätten, sei gerade Beleg dafür,
+dass es erforderlich sei, den Abschluss der Verträge/Verpflichtungen mit den
+neuen Grundeigentümern und vor allem deren Eintragung im Grundbuch auf dem
+Vollstreckungsweg durchzusetzen, damit diese auch allfälligen weiteren
+Rechtsnachfolgern entgegengehalten werden könnten.
+4.3
+Es ist unbestritten, dass die Beschwerdeführer am 5.
+Mai 2010 mit der Gemeinde […] einen Vertrag über den Anschluss an das
+Wasserversorgungsnetz schlossen. Gemäss Ziff. 5 der Vereinbarung erteilt die
+Erbengemeinschaft A.______ die notwendigen Durchleitungsrechte
+unentgeltlich. Die Vertragsparteien verpflichteten sich in Ziff. 9 der
+Vereinbarung, die Vereinbarung einem allfälligen Rechtsnachfolger zu
+übertragen, verbunden mit der gleichen Verpflichtung zur Weiterübertragung.
+Am 6. Mai 2010 verfügte die Gemeinde […] zudem den Neuanschluss an
+die Wasserversorgung. Unter Ziff. II der Auflagen wurde ausgeführt, dass die
+Leitungsführung durch die Grundeigentümer der damaligen Parz-Nr. 02 zu ihrem
+Vorteil bestimmt worden sei, damit die Feinerschliessung kürzer und damit
+günstiger werde. Sollten veränderte Verhältnisse zu Verlegung von Leitungen,
+welche in diesem Zusammenhang von der öffentlichen Hand erstellt worden und
+im Eigentum derselben seien, führen, hätten die Grundeigentümer nicht nur einen
+angemessenen Teil der Verlegungskosten, sondern die Verlegungskosten vollumfänglich
+zu tragen. Diese Last werde im Grundbuch mit den Durchleitungsrechten der betroffenen
+Parz.-Nr. 02 bzw. auf den abgetrennten Teilgrundstücken eingetragen und sei
+auf 50 Jahre beschränkt bzw. gelte bis am 31. Dezember 2060. Die Verpflichtung
+der Beschwerdeführer zur Eintragung der Last und der Durchleitungsrechte ins
+Grundbuch wurde als Auflage in die Baubewilligung vom 10. Mai 2010 aufgenommen.
+4.4
+Die Beschwerdegegnerin 1 verpflichtete die
+Beschwerdeführer zum Abschluss der entsprechenden Dienstbarkeitsverträge und
+zu deren Eintragung ins Grundbuch. Es ist unbestritten und trifft zu, dass
+die Beschwerdeführer gemäss der Auflage in der Baubewilligung vom 10. Mai
+2010 dazu verpflichtet gewesen wären. Indessen ist die Erbengemeinschaft
+A.______ nicht mehr Eigentümerin der Parz-Nr. 02 und der davon abparzellierten
+Grundstücke. Zwar mag es zutreffend, dass – wie die Beschwerdegegnerin 1
+– ausführt, die Beschwerdeführer die Konsequenzen dafür zu tragen haben, dass
+die Dienstbarkeiten nicht vor dem Verkauf der Liegenschaften im Grundbuch
+eingetragen worden sind. Verfügt wurden aber einzig der Abschluss der
+Dienstbarkeiten und deren Eintragung im Grundbuch. Wie die Beschwerdeführer
+richtig einwenden, handelt es sich dabei um eine Pflicht, welche sie als
+Erbengemeinschaft A.______ mangels dinglicher Berechtigung an den Grundstücken
+gar nicht mehr erfüllen können. Damit erweist sich aber Ziff. 2 der Verfügung
+als rechtswidrig und ist dementsprechend aufzuheben.
+Sinnvoll erscheint es wohl
+– wie von den Beschwerdeführern angeregt – in einem ersten Schritt, mit
+sämtlichen Grundeigentümern und Mitgliedern der Erbengemeinschaft A.______
+eine Lösung zu suchen und so die erforderlichen Grundbucheinträge zu
+erlangen, wobei es naheliegend erscheint, dass die Beschwerdeführer allenfalls
+entstehende Kosten zu tragen haben. Sollte dieser Weg nicht zum Ziel führen,
+wäre in einem zweiten Schritt zu prüfen, ob und inwiefern die Beschwerdeführer
+dafür belangt werden können, dass sie die Auflage aus eigenem Verschulden
+nicht mehr erfüllen können.
+4.5
+Demgemäss ist die Beschwerde teilweise gutzuheissen.
+Disp.-Ziff. 4 des Entscheids des Beschwerdegegners 2 vom 3. Mai
+2017 ist dahingehend zu ergänzen, als auch die Ziff. 2 der Verfügung der
+Beschwerdegegnerin 1 vom 31. August 2016 aufgehoben wird. Im
+Übrigen erweist sich die Beschwerde nach dem Dargelegten als unbegründet,
+wobei darauf hinzuweisen ist, dass die Frist von sechs Monaten zur Erfüllung
+der Auflagen von den Beschwerdeführern zu Recht nicht als zu kurz beanstandet
+wird.
+5.
+Die teilweise Gutheissung
+der Beschwerde hat zur Folge, dass die Kosten des Verfahrens vor dem
+Beschwerdegegner 2 gemäss Art. 134 Abs. 1 lit. c VRG neu zu
+verlegen sind. Den Beschwerdeführern sind amtliche Kosten in der Höhe von
+Fr. 800.- aufzuerlegen. Vom bereits geleisteten Kostenvorschuss in der
+Höhe von Fr. 1'000.- sind ihnen Fr. 200.- zurückzuerstatten. Im
+verwaltungsinternen Beschwerdeverfahren werden Parteientschädigungen nur
+zugesprochen, wenn der Vorinstanz grobe Verfahrensfehler oder offensichtliche
+Rechtsverletzungen unterlaufen sind (Art. 138 Abs. 3 lit. b VRG). Davon kann
+trotz des teilweisen Obsiegens der Beschwerdeführer nicht ausgegangen werden,
+weshalb für das Verfahren vor dem Beschwerdegegner 2 keine Parteientschädigung
+zuzusprechen ist.
+III.
+Die Beschwerdeführer
+unterliegen im vorliegenden Verfahren in der Hauptsache, obsiegen indessen
+hinsichtlich der Regelung der Durchleitungsrechte und des Grundbucheintrags.
+Ausgangsgemäss sind die Gerichtskosten von pauschal Fr. 2'000.- zu drei
+Vierteln den Beschwerdeführern aufzuerlegen und zu einem Viertel auf die
+Staatskasse zu nehmen (Art. 134 Abs. 1 lit. c und Art. 135 Abs. 2 VRG). Vom
+bereits geleisteten Kostenvorschuss in der Höhe von Fr. 2'000.- sind den
+Beschwerdeführern Fr. 500.- zurückzuerstatten. Den Beschwerdeführern ist
+überdies zu Lasten der Beschwerdegegnerin 1 eine Parteientschädigung von
+Fr. 600.- (inkl. Mehrwertsteuer) zuzusprechen. Mangels besonderer
+Umstände steht eine solche der Beschwerdegegnerin 1 nicht zu (vgl.
+Art. 138 Abs. 4 VRG).
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird teilweise gutgeheissen. Disp.-Ziff. 4 des Entscheids
+des Beschwerdegegners 2 vom 3. Mai 2017 wird dahingehend abgeändert,
+als auch Ziff. 2 der Verfügung der Beschwerdegegnerin 1 vom
+31. August 2016 aufgehoben wird.
+2.
+Für
+das Beschwerdeverfahren vor dem Beschwerdegegner 2 werden den Beschwerdeführern
+amtliche Kosten in der Höhe von Fr. 800.- auferlegt. Vom bereits
+geleisteten Kostenvorschuss in der Höhe von Fr. 1'000.- sind ihnen
+durch den Beschwerdegegner 2 Fr. 200.- zurückzuerstatten.
+3.
+Für
+das Beschwerdeverfahren vor dem Beschwerdegegner 2 werden keine
+Parteientschädigungen zugesprochen.
+4.
+Die
+Gerichtskosten von Fr. 2'000.- werden zu drei Vierteln den Beschwerdeführern
+auferlegt und zu einem Viertel auf die Staatskasse genommen. Vom bereits
+geleisteten Kostenvorschuss in der Höhe von Fr. 2'000.- werden den
+Beschwerdeführern Fr. 500.- zurückerstattet.
+5.
+Die
+Beschwerdegegnerin 1 wird verpflichtet, den Beschwerdeführern innert 30 Tagen
+nach Rechtskraft dieses Entscheids eine Parteientschädigung in der Höhe von
+Fr. 600.- (inkl. Mehrwertsteuer) zu bezahlen.
+6.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
