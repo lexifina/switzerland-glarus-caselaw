@@ -1,0 +1,727 @@
+---
+decision_id: "gl_gerichte_OG.2017.00005"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2017.00005"
+docket_2: "OGZ.2018.102"
+decided: "2018-01-19"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=924&W10_KEY=218274&nTrefferzeile=7&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/210/art-008.md", "switzerland/bund/acts/220/art-042.md", "switzerland/bund/acts/220/art-097.md", "switzerland/bund/acts/272/art-095.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-111.md", "switzerland/bund/acts/272/art-257.md", "switzerland/bund/acts/272/art-308.md", "switzerland/bund/acts/272/art-310.md", "switzerland/bund/acts/272/art-318.md"]
+---
+
+# GL Gerichte OG.2017.00005
+
+## Regeste
+
+Forderung
+
+## Text
+
+Glarus Obergericht 19.01.2018 OG.2017.00005 (OGZ.2018.102)
+Glaris Obergericht 19.01.2018 OG.2017.00005 (OGZ.2018.102)
+Glarona Obergericht 19.01.2018 OG.2017.00005 (OGZ.2018.102)
+
+Kanton Glarus
+Obergericht
+Urteil
+vom 19. Januar 2018
+Verfahren
+OG.2017.00005
+1. A.______                                                                           Beklagte
+und
+Berufungskläger
+2. B.______
+beide
+vertreten durch D.______
+gegen
+C.______                                                                               Klägerin
+und
+Berufungsbeklagte
+vertreten
+durch E.______
+betreffend
+Forderung
+über die Anträge der Parteien
+A. der
+Beklagten und Berufungskläger
+(gemäss Eingabe vom
+1. Februar 2017):
+1.
+Das
+Urteil des Kantonsgerichts Glarus vom 2. Dezember 2016 sei
+vollumfänglich aufzuheben und es sei die Klage vom 28. Oktober 2015
+vollumfänglich abzuwei­sen.
+2.
+Alles
+unter Kosten- und Entschädigungsfolgen zulasten der Berufungsbeklagten.
+B. der
+Klägerin und Berufungsbeklagten
+(gemäss Eingabe vom
+21. März 2017):
+1.
+Es
+sei die Berufung vollumfänglich abzuweisen und das angefochtene Urteil zu
+bestätigen.
+2.
+Alles
+unter Kosten- und Entschädigungsfolge zu Lasten der Berufungskläger.
+_____________________________
+Das
+Gericht zieht in Betracht:
+I.
+1.
+Im Frühling 2013 haben A.______ und B.______ auf ihrer Parzelle
+Nr.[…] in […] eine Baugrube für die Erstellung eines Einfamilienhauses aus­heben
+lassen. Das Aushubmaterial wurde dabei auf der damals noch nicht über­bauten
+Nachbarliegenschaft Nr. […] von C.______ deponiert, und zwar in einem
+Bereich der Parzelle, wo sich zu diesem Zeitpunkt bereits ein Erdhaufen
+befand, welcher sich bis auf das Grundstück Nr. […] von Z.______
+erstreckte (siehe zur örtlichen Situa­tion act. 47).
+Im weiteren Verlauf der Bauausführung liessen A.______ und B._____
+Aushubmate­rial abführen bzw. ein Teil davon wurde für die Hinterfüllung auf
+dem eigenen Bau­grundstück verwendet. Indes befand sich auf der Parzelle von
+C.______ weiterhin ein Erdhaufen.
+2.
+Am 26. Februar 2015 stellte C.______ beim Kantonsgericht Antrag
+auf Erlass eines gerichtlichen Befehls dahingehend, dass A.______ und
+B.______ zu verpflichten seien, innert einer Frist von 20 Tagen den
+Erdhaufen auf der Liegenschaft Nr. [...] zu entfernen. Sollten A.______ und
+B.______ dem gerichtlichen Befehl keine Folge leisten, sei sie [C.______] zur
+Ersatzvornahme auf Kosten der Beklagten zu ermächtigen. Eventualiter ‑
+für den Fall, dass das Kantonsgericht auf den Befehls­antrag nicht eintreten
+würde – ersuchte C.______ das Kantons­gericht darum, die strittige
+Aushubdeponie im Sinne einer vorsorglichen Beweisaufnahme auszu­messen (siehe
+zum Ganzen im Verfahren ZG.2015.00139, act. 1).
+Am 18. März 2015 begab sich der Kantonsgerichtspräsident vor Ort
+und vermass den Erdhaufen (Verfahren ZG.2015.00139, act. 12 und 13).
+Diesen auch fotogra­fisch dokumentierten Vorgang vermerkte der
+Kantonsgerichtspräsident anschlies­send in seiner Verfügung vom 26. März
+2015 (Verfahren ZG.2015.00139, act. 14 Dispositiv-Ziff. 1). Auf das
+Befehlsbegehren von C.______ trat er hingegen nicht ein
+(Dispositiv-Ziff. 2), auferlegte die Verfahrenskosten von Fr. 400.‑
+der Antragstel­lerin und verpflichtete diese zudem zur Bezahlung einer
+Parteientschädigung von Fr. 500.‑ an die Beklagten
+(Dispositiv-Ziff. 3-5).
+3.
+Im Mai 2015 liess C.______ den Erdhaufen auf ihrem Grundstück
+Nr. [...] abtransportieren, was ihr Kosten von Fr. 14‘871.35
+verursachte (siehe act. 3/10).
+4.
+Am 28. Oktober 2015 gelangte C.______ an das Kantonsgericht mit
+dem Begehren, es seien A.______ und B.______ zu verpflichten, ihr
+Fr. 14‘871.35 zuzüglich Zinse zu bezahlen (act. 2). Sie begründete
+die eingeklagte Forderung damit, die Beklagten hätten ohne Zustimmung das
+Aushubmaterial auf ihrem Grundstück deponiert und danach nicht wieder vollständig
+abgeführt, weshalb sie ihr nun die Aufwendungen für den Abtransport des
+(restlichen) Erdhaufens zu ersetzen hätten (act. 12 S. 2 ff.).
+5.
+5.1
+Der Kantonsgerichtspräsident erkannte in
+seinem Entscheid vom 2. Dezember 2016, A.______ und B.______ hätten rund
+182 m
+3
+Aushubmaterial auf der Liegen­schaft von C.______
+zurückgelassen. Für den Abtransport dieser Menge seien C.______ Kosten in
+Höhe von Fr. 7‘500.‑ erwachsen (act. 33 S. 15
+E. 10.4). Demgemäss ver­pflichtete er A.______ und B.______ zur Bezahlung
+von Schadener­satz in entspre­chender Höhe zuzüglich 5 % Zins ab
+19. Juni 2015 (act. 33 S. 17 Dispositiv-Ziff. 1). Im
+Mehrbetrag wies er die Forderungsklage von C.______ ab
+(Dispositiv-Ziff. 2). Die Gerichtskosten des Verfahrens in Höhe von
+Fr. 2‘500.‑ (Dis­positiv-Ziff. 3) aufer­legte er den Parteien
+je zur Hälfte; Parteientschädigungen wur­den keine zugespro­chen
+(Dispositiv-Ziff. 4 und Ziff. 6).
+5.2
+Nebenher kam der
+Kantonsgerichtspräsident auf die Kostenregelung im voran­gegangenen Verfahren
+ZG.2015.00139 (siehe oben E. 2) zurück. Die damalige Gerichtsgebühr von
+Fr. 400.‑ auferlegte er nun den Parteien je zur Hälfte und strich
+die vormals zugunsten von A.______ und B.______ verfügte Parteientschädigung
+von Fr. 500.‑ (Dispositiv-Ziff. 5 und Ziff. 7).
+6.
+Dagegen erhoben A.______ und B.______ am 1. Februar 2017 beim
+Oberge­richt innert Frist Berufung mit dem Antrag, es sei der Entscheid des
+Kantonsgerichtsprä­sidenten vom 2. Dezember 2016 aufzuheben und die
+Forderungsklage von C.______ vollumfänglich und unter entsprechender Kosten-
+und Entschädigungsfolge abzuweisen (act. 36).
+C.______ schliesst in ihrer Berufungsantwort vom 21. März 2017
+(act. 43) auf kostenfällige Abweisung der Berufung und Bestätigung des
+angefochtenen Ent­scheids.
+7.
+Das Obergericht hat den Parteien am 22. März 2017 angezeigt, es
+werde keinen zweiten Schriftenwechsel und auch keine mündliche Verhandlung
+durchführen (act. 44). In der Folge haben A.______ und B.______ am
+29. März 2017 eine kurze Stellungnahme eingereicht (act. 45),
+welche der Gegenpartei umgehend zur Kennt­nisnahme zugestellt worden ist
+(act. 46).
+An seiner Sitzung vom 19. Januar 2018 fällte das Obergericht
+seinen Ent­scheid (act. 48).
+II.
+1.
+Im vorinstanzlichen Verfahren hatte der Kantonsgerichtspräsident über
+eine Forde­rungsklage von C.______ im Betrag von Fr. 14‘871.35 zu
+befinden (act. 33 S. 2 Antrag Ziff. 1). Damit ist die
+Streitangelegenheit berufungsfähig (Art. 308 Abs. 2 ZPO).
+Im Berufungsprozess selber beträgt der Streitwert jedoch nur noch
+Fr. 7‘500.‑, indem A.______ und B.______ die von der Vorinstanz in
+dieser Höhe erkannte Forde­rung bestreiten und C.______ ihrerseits nicht mehr
+an der Forderung im ursprünglich geltend gemachten Umfang festhält.
+Neben der eigentlichen Streitforderung ist auch noch die
+Kostenregelung in Bezug auf das vorausgegangene Verfahren ZG.2015.00139
+strittig, nachdem die Vor­in­stanz die Kosten aus jenem Verfahren im hier
+angefochtenen Entscheid neu verlegt hat (oben E. I.5.2).
+2.
+In den nachstehenden Erwägungen werden die Parteien gleich wie im
+vorinstanzli­chen Verfahren bezeichnet: C.______ als Klägerin, A.______ und
+B.______ als Beklagte.
+III.
+1.
+Mit Berufung kann geltend gemacht werden, die Vorinstanz habe im
+angefochtenen Entscheid die Rechtsbestimmungen nicht richtig angewendet
+und/oder den Sach­verhalt nicht richtig festgestellt (Art. 310 ZPO).
+Die Beklagten stellen sich in ihrer Berufung auf den Standpunkt, sie
+hätten ihren gesamten Aushub, den sie beim Bau ihres Einfamilienhauses
+vorübergehend auf der benachbarten Liegenschaft zwischengelagert hätten,
+wieder vollständig ab­transportieren lassen. Die gegenteilige Feststellung
+der Vorinstanz und die daraus resultierende (teilweise) Gutheissung der
+Schadenersatzklage der Klägerin beruhe auf willkürlichen Annahmen und
+willkürlicher Beweiswürdigung (act. 36 S. 10 Ziff. 26).
+2.
+2.1
+Zwischen den Parteien ist unbestritten,
+dass im Jahr 2013, als die Beklagten auf ihrem Grundstück eine Baugrube zur
+Errichtung eines Einfamilienhauses aushoben, sie das Aushubmaterial auf der
+benachbarten Liegenschaft der Klägerin deponier­ten. Auf der betreffenden
+Parzelle der Klägerin befand sich bereits zuvor eine Auf­schüttung von
+Erdmaterial (siehe dazu act. 15/2); unmittelbar im Bereich dieses
+vorbestandenen Erdhaufens wurde in der Folge der Aushub von der Parzelle der
+Beklagten aufgeschichtet (act. 15/3; act. 3/14).
+2.2
+Die Vorinstanz erwog im angefochtenen
+Entscheid, die Deponierung des Aus­hubmaterials auf der benachbarten
+Liegenschaft sei auf der Basis einer entspre­chenden vertraglichen
+Übereinkunft zwischen den Parteien erfolgt (act. 33 S. 5 ff.
+E. III. 3.-4.). Diese rechtliche Qualifizierung der Parteibeziehung als
+vertragliches Verhältnis blieb im Berufungsverfahren grundsätzlich
+unbestritten und ist damit für das Obergericht verbindlich.
+2.3
+Die Beklagten waren gemäss vertraglicher
+Übereinkunft berechtigt, ihr Aushub­material vorübergehend auf der
+Liegenschaft der Klägerin abzulagern. Im Gegenzug aber waren sie ebenso
+vertraglich verpflichtet, den deponierten Aushub wieder voll­ständig
+abzuführen. In der eben dargelegten Obliegenheit, das Aushubmaterial wie­der
+abzuführen, offenbart sich Folgendes: Die Beklagten sind Schuldner dieser
+Obli­gation (indem sie zu einer Leistung gehalten sind, nämlich das Aushubmaterial
+wie­der abzuführen), während sich die Klägerin in der Position der
+Gläubigerin befindet (sie hat Anspruch darauf, dass die Beklagten das
+deponierte Aushubmaterial wieder beseitigen).
+3.
+3.1
+Erfüllt der Schuldner eine
+Verbindlichkeit nicht oder nicht vollständig, so hat er dem Gläubiger für den
+daraus entstehenden Schaden Ersatz zu leisten (Art. 97 Abs. 1 OR).
+3.2
+3.2.1
+Wo das Gesetz es nicht anders
+bestimmt, hat jene Partei das Vorhandensein einer behaupteten Tatsache zu
+beweisen, die aus ihr Rechte ableitet (Art. 8 ZGB). Jede Partei hat
+demnach die tatbeständlichen Voraussetzungen desjenigen Rechts­satzes zu
+beweisen, der zu ihren Gunsten wirkt. Im Einzelnen wird dabei gemeinhin wie
+folgt unterschieden:
+Rechtserzeugende (rechtsbegründende) Tatsachen
+hat zu beweisen, wer ein Recht oder ein Rechtsverhältnis geltend macht.
+Derjenige, der fordert, soll das Zustandekommen des Rechtsanspruchs auch
+beweisen. Als rechtsbegründende Tatsache gilt namentlich das gültige
+Zustandekommen des Vertrags mit dem behaupteten Inhalt.
+Rechtsaufhebende
+(rechtsvernichtende) Tat­sachen
+hat zu beweisen, wer sie vorbringt. Auf
+die rechtsbegründende Tatsache wird mit „Ja, aber“ entgegnet. Die Gegenpartei
+bestreitet die rechtserzeugenden Tatsachen an sich nicht, bringt aber
+Tatsachen vor, die dieses bestehende Recht nachträglich zum Erlöschen
+gebracht haben, namentlich etwa den Untergang der Forderung durch Erfüllung.
+Der Gläubiger muss mithin seine Angriffsmittel, der Schuldner seine
+Verteidigungsmittel beweisen (siehe zum Ganzen:
+Göksu
+, in: Handkommentar zum Schweizer Privatrecht,
+3. A., Zürich 2016, N 13-15 zu Art. 8 ZGB mit Hinweisen). Der
+Beweis einer Vertragsverletzung obliegt grundsätzlich dem Gläubiger. Besteht
+die vertragliche Verpflichtung in einem Tun, so muss der Gläubi­ger
+allerdings nur den Bestand der Forderung dartun, jedoch nicht die
+Nichterfüllung (BK-
+Weber,
+N 317 zu Art. 97 OR).
+3.2.2
+Daraus ergibt sich für die vorliegende
+Auseinandersetzung Folgendes: Der Klägerin obliegt der Nachweis dafür, dass
+die Beklagten vertraglich verpflichtet sind, das von ihnen auf ihrer
+Liegenschaft deponierte Aushubmaterial wieder vollständig abzutransportieren.
+Demgegenüber haben die Beklagten, wollen sie die ihnen ge­genüber aus
+Vertragsverletzung erhobene Schadenersatzklage abwenden, den Beweis zu
+erbringen, dass sie ihre vertragliche Obliegenheit restlos erfüllt haben,
+d.h. das ganze Aushubmaterial wieder vom Grundstück der Klägerin entfernt
+haben.
+3.3
+3.3.1
+Die Vorinstanz hat in Würdigung der
+vorhandenen Beweise erkannt, dass zwi­schen den Parteien ein Vertrag
+dahingehend zustande gekommen war, dass die Beklagten berechtigt waren, beim
+Bau ihres Einfamilienhauses das Aushubmaterial auf der benachbarten Parzelle
+der Klägerin einstweilen zu deponieren und hernach wieder wegzuschaffen
+(siehe dazu sowie zur Verbindlichkeit dieser rechtlichen Würdigung bereits
+oben E. III.2.2).
+Es ist unbestritten, dass die Beklagten im Frühjahr 2013 beim Bau
+ihres Einfamili­enhauses den Aushub effektiv auch auf der benachbarten Parzelle
+aufgeschichtet haben (act. 36 S. 4 Ziff. 6; act. 15/3).
+Damit ist erstellt, dass der Klägerin ein ver­traglicher Anspruch darauf
+zusteht, dass die Beklagten das Aushubmaterial wieder vollständig
+wegschaffen.
+3.3.2
+Die Beklagten haben zu beweisen, dass
+sie das gesamte von ihnen depo­nierte Aushubmaterial wieder abtransportiert
+haben. Insoweit ihnen dieser Beweis misslingt, ist eine Vertragsverletzung
+erstellt und schulden sie der Klägerin entspre­chend Schadenersatz.
+3.4
+3.4.1
+Gemäss Aushubplan hatte das
+ausgehobene Erdreich in fester Form ein Volumen von 1073,25 m
+3
+, in
+aufgelockerter Form ein Volumen von 1‘341.60 m
+3
+. Die Umrechnung
+von festem zu losem Material beruht dabei auf einem Auflockerungs­faktor von
+1.25 (act. 21/1).
+Indes ist die Vorinstanz bei ihrer Volumenberechnung von einem
+Auflockerungs­faktor von 1.3 ausgegangen; sie hat sich dabei an die
+allgemeinen Bedingungen der Stadt Zürich für Tiefbauarbeiten angelehnt (siehe
+act. 33 S. 11 f. E. 8.6.). Die Be­klagten halten in ihrer
+Berufung dafür, der Auflockerungsfaktor variiere je nach Beschaffenheit des
+Materials; es sei daher willkürlich, ohne genaue Kenntnis des konkret
+ausgehobenen Materials von einem Faktor von 1.3 auszugehen (act. 36
+S. 5 Ziff. 10).
+In diesem Punkt kann den Beklagten nicht gefolgt werden. Ein tieferer
+Faktor als 1.3 gilt für Oberbo­den/Humus (1.2) sowie Kiesmaterial (1.25)
+(siehe dazu act. 37/3 und 37/4). Auf dem Foto bei act. 15/3 ist
+allerdings zweifelsfrei erkennbar, dass es sich bei dem auf der klägerischen
+Liegenschaft gelagerten Material weder um Kies noch um Kulturerde (Humus)
+handelt, sondern um „gewöhnliches“ Erdreich (in der Fach­terminologie
+„Unterboden und Untergrundmaterial“). Bei Unterboden und Unter­grundmaterial
+kennen die Zürcher und Walliser Richtlinien einen Auflocke­rungsfak­tor von
+1.3 (act. 37/3 und 37/4), während Solothurn von einem Faktor von 1.25
+aus­geht (act. 37/2). Die hiesige Baubranche scheint einem Faktor von
+1.3 zu folgen (dazu act. 3/10: konkret abgeführte Menge loses Material:
+372 m
+3
+[Summe der Lie­ferscheine „Entsorgung“]; effektiv
+verrechnetes Volumen fest: 286 m
+3
+[372 m
+3
+/
+286 m
+3
+= 1.3]). Vor diesem Hintergrund hat die Vorinstanz
+vorliegend zu Recht auf einen Auflockerungsfaktor von 1.3 abgestellt.
+3.4.2
+Betrug demnach das Aushubvolumen in
+fester Form 1073,25 m
+3
+, so entspricht dies lose einem Volumen von
+1‘395.23 m
+3
+(so zutreffend auch die Vorinstanz; act. 33 S. 12 oben). In
+Übereinstimmung mit der Vorinstanz ist davon auszugehen, dass die Beklagten
+diese Menge Aushubmaterial auf der Parzelle der Klägerin deponiert haben.
+Zwar hat die Klägerin im vorinstanzlichen Verfahren sowie erneut im
+Berufungsverfahren vorgebracht, dass der Aushubplan nicht das genaue Aus­mass
+des Aushubvolumens wiedergebe und es sich dabei letztlich um eine reine
+Eigenberechnung und damit unbewiesene Parteibehauptung handle (act. 25
+S.2 und act. 43 S. 6 Ziff. 14 f.). Indes erscheint die
+vorliegend vom Architekturbüro bau­herrenseitig vorgenommene Berechnung
+(act. 21/1) schlüssig und fundiert, weshalb das Gericht von deren
+Richtigkeit überzeugt ist, zumal nicht geltend gemacht wird, dass die der
+Berechnung zugrunde liegenden Planmasse falsch seien.
+Die Beklagten haben somit nachzuweisen, dass sie am Ende die
+entsprechende Menge von
+1‘395.23 m
+3
+wieder vom
+Grundstück der Klägerin weggeführt haben.
+3.5
+3.5.1
+An der mündlichen Verhandlung vor
+Vorinstanz haben die Beklagten erklärt, im Frühjahr 2013 hätten sie mit dem
+Bau ihres Einfamilienhauses begonnen; dabei habe man den Aushub für die
+Unterkellerung unmittelbar entlang der künftigen Hausfassade auf der
+benachbarten Parzelle der Klägerin aufgeschichtet (act. 13 Ziff. 2
+und Ziff. 4). Anfang Juni 2013 sei dieses Aushubmaterial wieder
+beseitigt worden; auf der Liegenschaft der Klägerin habe sich danach einzig
+noch ein Erd­haufen befunden, wie er bereits vor dem Bauprojekt der Beklagten
+bestanden habe (act. 13 Ziff. 6). In der Folge hätten sie [die
+Beklagten] im September 2013 auf eigene Rechnung die vom Aushub befreite
+Fläche auf dem Grundstück der Klägerin fachmännisch wieder begrünen lassen
+(act. 13 Ziff. 7). Nachdem sie [die Beklagten] somit den auf der
+benachbarten Parzelle deponierten Aushub bereits Anfang Juni 2013 abgeführt
+hätten, habe die Klägerin erst anderthalb Jahre später im Dezember 2014 erstmals
+geltend gemacht, dass nur ein Teil der Deponie ent­fernt worden sei
+(act. 13 Ziff. 1).
+3.5.2
+Die Beklagten haben vor Vorinstanz
+beweiskräftig dokumentiert, dass vom 30. April 2013 bis 15. Mai
+2013 insgesamt 1'024 m
+3
+loses Aushubmaterial mit Last­wagen
+wegtransportiert wurde (act. 21/2/1-21/2/12; siehe dazu auch
+act. 33 S. 12 E. 8.7.).
+Vom deponierten Aushubmaterial wurden sodann nach Angaben der
+Beklagten weitere 206.4 m
+3
+(in loser Form) für die
+Hinterfüllung (Auffüllung der Baugrube bis zum vorgesehenen Terrainniveau)
+benötigt (siehe dazu act. 21/1). Die Vorinstanz hat diese Menge an
+Füllmaterial für plausibel erachtet (act. 33 S. 13 E. 8.8.).
+Im Berufungsverfahren sind gegen dieses Beweisergebnis keine konkreten Einwen­dungen
+erfolgt, womit es bei dessen Verbindlichkeit bleibt.
+Damit steht im Ergebnis fest, dass die Beklagten im Mai/Juni 2013
+insgesamt
+1‘230.4 m
+3
+(1'024 m
+3
++
+206.4 m
+3
+) loses Aushubmaterial wegtransportiert bzw. für die
+Hinterfüllung auf ihrem Grundstück verwendet haben.
+3.5.3
+Wie weiter oben dargelegt (oben
+E. III.3.4.2), hatte das von den Beklagten im Frühjahr 2013 auf der
+benachbarten Parzelle der Klägerin deponierte Aushubmate­rial lose ein
+Volumen von 1‘395.23 m
+3
+. Hiervon haben die Beklagten bis Juni
+2013 die davor erwähnte Menge von 1‘230.40 m
+3
+(lose) wieder
+abgeführt. Somit liessen sie eine lose Menge Aushub von 164.83 m
+3
+auf der Liegenschaft der Klägerin zurück.
+3.6
+3.6.1
+Im Nachgang zur vorinstanzlichen
+Hauptverhandlung haben die Beklagten in ihrer Eingabe vom 14. März 2016
+(act. 20) geltend gemacht, dass sie in einer „zweiten Phase“ weiteres
+Aushubmaterial von 120 m
+3
+wegtransportiert hätten, was sie
+konkret mit entsprechenden Abfuhrlieferscheinen vom September/Oktober 20
+14
+(act. 21/3/1-21/3/9) belegen wollen. Diesen Standpunkt halten die
+Beklagten auch in ihrer Berufung aufrecht (act. 36
+Ziff. 12 ff.).
+3.6.2
+Die Vorinstanz hat hierzu erwogen, bei
+dem erst im Herbst 2014 abgeführten Material handle es sich nicht um Aushub,
+welcher ehedem auf der Liegenschaft der Klägerin deponiert gewesen sei. Im
+Herbst 2014 habe nämlich vom vormaligen Deponiestandort aus kein Material
+mehr über die inzwischen überbaute Liegen­schaft der Beklagten abgeführt
+werden können, jedenfalls nicht mit den damals im Einsatz gestandenen Gerätschaften.
+Auch seien beim gerichtlichen Augenschein vor Ort [am 18. März 2015;
+siehe im Verfahren ZG.2015.00139, act. 14 S. 3 E. 3.] keine
+Fahrspuren sichtbar gewesen, die auf einen allenfalls möglichen Abtransport
+des Materials über die Speerstrasse hingewiesen hätten. Aus Sicht der
+Vorinstanz stammte das erst im Herbst 2014 abtransportierte Erdreich von den
+in diesem Zeit­raum ausgeführten Umgebungsarbeiten, zumal die Beklagten
+anfänglich selber geltend gemacht hätten, sie hätten bereits im Frühsommer 2013
+den auf der Nach­barliegenschaft abgelagerten Aushub wieder vollständig
+entfernt (act. 33 S. 12 f. E. 8.7.).
+Darin ist der Vorinstanz vollumfänglich zu folgen. So haben die
+Beklagten zunächst nicht nur vorgebracht, bereits im Frühjahr 2013 ihren gesamten
+Aushub wieder vom Nachbargrundstück entfernt zu haben. Vielmehr haben sie
+bereits im September 2013 die vom Aushub befreite Fläche auf dem
+Nachbargrundstück wieder planieren und ansäen lassen (act. 15/8). Allein
+dazu aber hätte für sie damals kaum Veranlas­sung bestanden, wäre aus ihrer
+Sicht noch nicht das ganze aus ihrer Baugrube stammende Aushubmaterial
+weggeführt gewesen. Insofern erscheint die Argumen­tation der Beklagten, bei
+dem erst im September 2014 abgeführten Erdreich handle es sich ebenfalls um
+Material, welches zuvor auf der benachbarten Liegenschaft deponiert gewesen
+sei, als konstruiert.
+3.7
+Aus alldem ergibt sich, dass die Beklagten eine Abfuhrmenge von
+1‘230.4 m
+3
+(lose) nachweisen können (siehe oben
+E. III.3.5.2). Bei einem Aushubvolumen von insge­samt 1‘395.23 m
+3
+(lose) bedeutet dies eine Fehlmenge von 164.83 m
+3
+(lose).
+Inso­weit daher die Beklagten nicht alles Material, welches sie auf der
+Parzelle der Klä­gerin deponierten, wieder abgeführt haben, sind sie ihrer
+entsprechenden vertragli­chen Verpflichtung nicht vollständig nachgekommen.
+3.8
+3.8.1
+Die Klägerin hat im Mai 2015 den
+gesamten Erdhaufen, welcher sich damals noch auf ihrem Grundstück befand, auf
+ihre Kosten abführen lassen. Konkret wur­den 372 m
+3
+loses
+Material abtransportiert (siehe dazu die Lieferscheine bei act. 3/10),
+wobei das beauftragte Bauunternehmen die abgeführte Menge für die
+Rechnungsstellung in ein festes Volumen von 286 m
+3
+umgerechnet hat (siehe die Rechnung bei act. 3/10; Auflockerungsfaktor
+von 1.3, siehe dazu bereits oben E. III.3.4.1). Die Kosten für Auflad,
+Abtransport und Deponie dieser Menge Erdreich von 286 m
+3
+(fest) bzw. 372 m
+3
+(lose) beliefen sich auf
+Fr. 14‘871.35 (act. 3/10).
+3.8.2
+Wie zuvor erörtert, befand sich auf
+dem Erdhaufen, den die Klägerin im Mai 2015 abtransportieren liess, eine
+Menge von 164.83 m
+3
+losem Erdmaterial, welches vertragsgemäss
+noch die Beklagten hätten abführen müssen (siehe zuvor E. 3.7). Für die
+Entsorgung dieser von den Beklagten zurückgelassenen Menge sind der Klägerin
+Kosten in Höhe von (gerundet) Fr. 6‘590.‑ erwachsen
+(Fr. 14‘871.35 / 372 x 164.83). Zufolge nicht vollständiger
+Vertragserfüllung haben die Beklagten der Klä­gerin diesen Kostenaufwand als
+Schadenersatz im Sinne von Art. 97 Abs. 1 OR zu ersetzen.
+3.8.3
+Die Beklagten schulden der Klägerin
+hinsichtlich der zu leistenden Zahlung antrags­gemäss einen Schadenszins von
+5 % ab 19. Juni 2015. Es kann in diesem Punkt, der in der Berufung
+nicht substantiiert in Widerspruch gezogen wurde, voll­umfäng­lich auf die
+Erwägungen der Vorinstanz im angefochtenen Entscheid verwie­sen werden
+(act. 33 S. 15 f. E. 12.).
+4.
+4.1
+Die Vorinstanz hat die Beklagten im
+angefochtenen Entscheid zu einer höheren Ersatzzahlung von Fr. 7‘500.‑
+verpflichtet (act. 33 S. 17 Dispositiv-Ziff. 1). Die Vor­instanz
+erwog dabei, die Beklagten hätten rund 182 m
+3
+loses
+Erdmaterial auf der Parzelle der Klägerin zurückgelassen. Es handelt sich
+dabei um ein Schätzungser­gebnis, indem die Vorinstanz den Erdhaufen, wie sie
+ihn anlässlich ihres Augen­scheins am 26. März 2015 vor Ort angetroffen
+hat (hierzu im Verfahren ZG.2015.00139, act. 14), mit der fotografisch
+dokumentierten Grösse des Erdhau­fens verglichen hat, wie er bereits
+vorhanden war, bevor die Beklagten mit dem Bau ihres Einfamilienhauses
+begannen (act. 33 S. 13 ff. E. 10.-10.4.).
+4.2
+Für eine solchermassen schätzungsweise
+Bemessung des Schadens, wie von der Vorinstanz gestützt auf Art. 42
+Abs. 2 OR vorgenommen, bestand vorliegend indes keine Notwendigkeit. Wie
+in den vorstehenden Erwägungen erörtert, lässt sich anhand der verfügbaren
+Akten schlüssig ermitteln, in welchem Umfang die Beklag­ten Erdmaterial auf
+der Parzelle der Klägerin zurückgelassen und damit ihrer ver­traglichen
+Wegräumpflicht nicht vollständig nachgekommen sind.
+Kommt noch Folgendes hinzu: Allein der Umstand, dass der Erdhaufen
+auf der Par­zelle der Klägerin nach der Bautätigkeit der Beklagten mächtiger
+war als zuvor, bedeutet nicht, dass sämtliches Aushubmaterial, welches neu
+dazugekommen ist, auch tatsächlich von den Beklagten stammt. Denn immerhin
+ist die Vorinstanz in sachverhaltlicher Hinsicht selber davon ausgegangen,
+dass neben den Beklagten ebenso auch der Nachbar Z.______, als er auf der
+gleich angrenzenden Parzelle Nr. […] ein Bauvorhaben realisierte, sein
+Aushubmaterial auf dem vorbestandenen Erdhügel deponierte (act. 33
+S. 10 unten und S. 14 oben). Vor diesem Hintergrund ist es nicht
+angängig, den ganzen Zuwachs des Haufens ausschliesslich nur den Beklagten
+anzulasten. Dies aber hat die Vorinstanz im Ergebnis getan: Sie ist von einer
+Verdoppelung des Haufens ausgegangen, hat das entsprechende Mehraus­mass auf
+182 m
+3
+lose geschätzt und hat hierauf die Kosten für die
+Wegschaffung dieser Menge Aushubmaterial den Beklagten überbunden
+(act. 33 S. 15 E. 10.3. und 10.4.).
+5.
+5.1
+Die Vorinstanz hat im angefochtenen
+Entscheid die Kosten des früheren Verfah­rens ZG.2015.00139 in Höhe von
+Fr. 400.‑ zur Hälfte den Beklagten auferlegt und hat zudem die in
+jenem Verfahren den Beklagten zuge­sprochene Parteientschädi­gung von
+Fr. 500.‑ wieder aufgehoben (act. 33 S. 17 Dis­positiv-Ziff. 5
+und Ziff. 7 sowie S. 16 f. E. IV.3.).
+Die Beklagten machen in ihrer Berufung geltend, die Vorinstanz habe
+auf die Kos­tenregelung des vorausgegangenen Verfahrens ZG.2015.00139 nicht
+mehr zurück­kommen dürfen (act. 36 S. 10 f. Ziff. 27-30).
+5.2
+Hierin ist die Berufung begründet.
+5.2.1
+Hauptgegenstand des früheren
+einzelrichterlichen Summarverfahrens ZG.2015.00139 war ein Begehren der
+Klägerin um Rechtsschutz in klaren Fällen im Sinne von Art. 257 ZPO,
+indem die Klägerin damals beantragt hat, es seien die Beklagten zu ver­pflichten,
+innert einer Frist von 20 Tagen die Aushubdeponie auf der Liegenschaft
+der Klägerin zu entfernen, andernfalls sie [die Klägerin] zur Ersatz­vornahme
+auf Kosten der Beklagten zu ermächtigen sei (Verfahren ZG.2015.00139,
+act. 1 S. 2 Antrag Ziff. 1 und Ziff. 2). Auf dieses
+Begehren trat jedoch der Kantons­gerichtspräsident nicht ein, da der
+Sachverhalt nicht liquid war; namentlich bestand Unklarheit dar­über, welcher
+Anteil des Schutthügels effektiv von den Beklagten stammte (Verfah­ren
+ZG.2015.00139, act. 14 S. 4 Dispositiv-Ziff. 2 sowie S. 3
+E. 2. und E. 4.).
+Beim Verfahren um Rechtsschutz in klaren Fällen im Sinne von
+Art. 257 ZPO (sog. Befehlsverfahren) handelt es sich um ein vollkommen
+eigenständiges Verfahren, mit dem Vorteil, dass bei klarer Rechts- und
+Sachlage die gesuchstellende Partei rasch und mit vergleichsweise geringem
+Aufwand zu einem gerichtlichen Entscheid gelangt. Für die Regelung der Prozesskosten
+(Gerichtskosten und Parteientschädi­gung, vgl. Art. 95 Abs. 1 ZPO)
+gelten in diesem Verfahren die allgemeinen Verteil­grundsätze gemäss
+Art. 106 Abs. 1 ZPO, was bedeutet, dass bei einem Nichtein­tretensentscheid
+die Kosten dem Gesuchsteller (hier der Klägerin) auferlegt werden. Auch wenn
+bei einem Nichteintretensentscheid dem Gesuchsteller das ordentliche oder
+vereinfachte Verfahren noch offen steht, so werden in diesem nachfolgenden
+Prozess die Prozesskosten des vorangegangenen Befehlsverfahren nicht neu ver­legt,
+selbst wenn der Gesuchsteller nunmehr obsiegt. Es liegt alleine in der Verant­wor­tung
+des Gesuchstellers, wenn er zunächst ein Befehlsverfahren eingeleitet hat,
+ohne dass hierfür die erfolgversprechenden Voraussetzungen [eindeutige und
+klare Sach- und Rechtslage] gegeben waren; demgemäss bleiben die betreffenden
+Ver­fahrenskosten an ihm definitiv hängen (siehe zum Ganzen
+Sutter-Somm/ Lötscher
+, in:
+Sutter-Somm/Hasenböhler/Leuenberger [Hrsg.], ZPO Komm., 3. A.,
+Art. 257 N 34).
+Daraus folgt, dass die Vorinstanz im hier angefochtenen Entscheid zu
+Unrecht auf die Kostenregelung im vorangegangenen Befehlsverfahren
+zurückgekommen ist. Es hat daher bei der damals angeordneten Regelung zu
+bleiben, der zufolge die Kläge­rin die Gerichtsgebühr von Fr. 400.‑
+allein zu tragen und den Beklagten zudem eine Parteientschädigung von
+Fr. 500.‑ zu bezahlen hat (Verfahren ZG.2015.00139, act. 14
+S. 4 Dispositiv-Ziff. 3-5). Demgemäss sind Dispositiv-Ziff. 5
+und Ziff. 7 des hier angefochtenen Entscheids (act. 33 S. 17)
+aufzuheben.
+5.2.2
+Am eben Ausgeführten ändert auch
+nichts, dass die Vorinstanz im vorausge­gangenen Verfahren ZG.2015.00139
+entsprechend dem damals gestellten Even­tualantrag der Klägerin (Verfahren
+ZG.2015.00139, act. 1 S. 2 Antrag Ziff. 3) vor Ort eine
+vorsorgliche Beweisaufnahme vorgenommen hat. Zwar ist bei einer vorsorgli­chen
+Beweisaufnahme eine Neuverlegung der Prozesskosten im späteren Haupt­prozess
+denkbar (BGE 140 III 30 E. 3.2 S. 31). Hier ist ein
+solcher Schritt jedoch nicht angezeigt. Das damals ermittelte Beweisergebnis
+(Ausmass des Schutthügels) war für die Beurteilung der hier strittigen Frage,
+ob die Beklagten ihr Aushubmaterial wieder vollständig abgeführt haben, ohne
+Bedeutung. Der hier massgebende Streit­punkt war, wie viel Erdreich die
+Beklagten aus ihrer Baugrube ausgehoben und her­nach wieder abgeführt haben,
+wobei sich diese Frage anhand der verfügbaren Belege klären liess, ohne dass
+etwas darauf ankam, wie gross der Schutthügel auf der Parzelle der Klägerin
+effektiv noch war.
+IV.
+1.
+1.1
+Die Beklagten dringen mit ihrer Berufung
+insoweit durch, als die von ihnen gegenüber der Klägerin geschuldete
+Ersatzforderung von Fr. 7‘500.‑ auf Fr. 6‘590.‑
+reduziert wird (oben E. III.3.8.2). Ausserdem werden sie von einer
+Kostenpflicht [Fr. 200.‑] in Bezug auf das vorausgegangene
+Verfahren ZG.2015.00139 entbunden und steht ihnen aus jenem Verfahren
+weiterhin eine Parteientschädigung von Fr. 500.‑ zu (oben
+E. III.5)
+Nachdem allerdings die Beklagten in ihrer Berufung die vollumfängliche
+Abweisung der Ersatzforderung der Klägerin angetragen haben, obsiegen sie
+letztlich, geht man von einem Streitwert von insgesamt Fr. 8‘200.‑
+aus (noch strittige Forderung von Fr. 7‘500.‑, Gerichtkostenanteil
+von Fr. 200.‑ und Parteientschädigung von Fr. 500.‑),
+nur im Umfang von 20 %. Nach Massgabe von Art. 106 Abs. 2 ZPO
+sind daher die Gerichtskosten für das Berufungsverfahren zu vier Fünftel den
+Beklagten und zu einem Fünftel der Klägerin aufzuerlegen; der Klägerin ist
+zudem für das Berufungsverfahren eine reduzierte Parteientschädigung
+zuzusprechen.
+1.2
+Die Gerichtsgebühr für das
+Berufungsverfahren ist nach Massgabe von Art. 3 Abs. 1 lit. a
+der kanto­nalen Verordnung zu den Kosten im Zivil- und Strafprozess
+(GS III A/5) auf Fr. 1‘500.‑ festzusetzen. Die Beklagten
+haben für das Berufungs­verfahren einen Kostenvorschuss in entsprechender
+Höhe geleistet (act. 39 f.). Damit ist die Gerichtsgebühr vom
+geleisteten Kostenvorschuss zu beziehen (Art. 111 Abs. 1 ZPO); die
+Klägerin hat ihren Kostenanteil von Fr. 300.‑ (1/5) den Beklagten zu
+erstatten (Art. 111 Abs. 2 ZPO).
+Die von den Beklagten gegenüber der Klägerin geschuldete (reduzierte)
+Parteient­schädigung für das Berufungsverfahren ist im Lichte von
+Art. 20 Abs. 1 EG ZPO (GS III C/1) auf Fr. 900.‑ zu
+bemessen.
+2.
+2.1
+Trifft die Berufungsinstanz einen neuen
+Entscheid, so entscheidet sie auch über die Prozesskosten des
+erstinstanzlichen Verfahrens (Art. 318 Abs. 3 ZPO).
+2.2
+Die Klägerin hatte vor Vorinstanz eine
+Forderung in Höhe von Fr. 14‘871.35 ein­geklagt (act. 1 Antrag
+Ziff. 1). Hiervon zugesprochen erhält sie Fr. 6‘590.‑. Sie
+obsiegt damit lediglich im Umfang von 45 % bzw. sie unterliegt im Umfang
+von 55 %. In Anwendung von Art. 106 Abs. 2 ZPO sind daher die
+vorinstanzlichen Gerichtskosten in hier unbestritten gebliebener Höhe von
+Fr. 2‘500.‑ der Klägerin zu 11/20 und den Beklagten zu 9/20
+aufzuerlegen.
+Die Klägerin hat für das vorinstanzliche Verfahren einen
+Kostenvorschuss in Höhe von Fr. 2‘500.‑ geleistet (act. 7).
+Die gesamte Gerichtsgebühr für das vorinstanzliche Verfahren von
+Fr. 2‘500.‑ ist vom geleisteten Kostenvorschuss zu beziehen
+(Art. 111 Abs. 1 ZPO); die Beklagten haben den auf sie entfallenden
+Kostenanteil von Fr. 1‘125.‑ (9/20) der Klägerin zu erstatten
+(Art. 111 Abs. 2 ZPO).
+2.3
+Für das vorinstanzliche Verfahren ist
+den Beklagten eine reduzierte Parteient­schädigung von Fr. 250.‑
+zuzusprechen.
+_____________________________
+Das
+Gericht erkennt:
+1.
+In teilweiser Gutheissung der Berufung von
+A.______ und B.______ werden
+Disposi­tiv-Ziff. 1 sowie
+Ziff. 4 bis Ziff. 7 des Urteils des Kan­tonsgerichts vom
+2. Dezember 2016 im Verfahren ZG.2015.00826 auf­gehoben, und es wird
+wie folgt neu erkannt:
+1.
+A.______ und B.______ werden
+verpflichtet, C.______ Fr. 6‘590.‑ nebst Zins zu 5 % seit
+19. Juni 2015 zu bezahlen.
+4.
+Die Gerichtsgebühr im
+vorinstanzlichen Verfahren ZG.2015.00826
+von Fr. 2‘500.‑ wird im Umfang von Fr. 1‘375.‑
+(11/20) C.______ und im Umfang von Fr. 1‘125.‑ (9/20) A.______
+und B.______ auferlegt.
+Die gesamte Gerichtsgebühr
+von Fr. 2‘500.‑ wird von dem von C.______ für das Verfahren
+ZG.2015.00826 geleisteten Kostenvorschuss bezogen; A.______ und B.______
+haben ihren Kostenanteil im Betrag von Fr. 1‘125.‑ an C.______
+zu erstatten.
+5.
+[entfällt ersatzlos]
+6.
+C.______ wird verpflichtet,
+A.______ und B.______ für das vorinstanzli­che Verfahren ZG.2015.00826 eine
+reduzierte Parteientschädigung von Fr. 250.‑ zu bezahlen.
+7.
+[entfällt ersatzlos]
+2.
+Im Übrigen wird die Berufung von A.______
+und B.______ abgewiesen.
+3.
+Die Pauschalgerichtsgebühr für das
+Berufungsverfahren von Fr. 1‘500.‑ wird im Umfang von
+Fr. 1‘200.‑ (4/5) A.______ und B.______ und im Umfang von
+Fr. 300.‑ (1/5) C.______ auferlegt.
+Die gesamte Gerichtsgebühr von
+Fr. 1‘500.‑ wird von dem von A.______ und B.______ für das
+Berufungsverfahren geleisteten Kostenvorschuss bezogen; C.______ hat ihren
+Kostenanteil im Betrag von Fr. 300.‑ an A.______ und B.______ zu
+erstatten.
+4.
+A.______ und B.______ werden verpflichtet,
+C.______ für das Berufungsverfah­ren eine reduzierte Parteientschädigung
+von Fr. 900.‑ zu bezahlen.
+5.
+Schriftliche Mitteilung an die Parteien
