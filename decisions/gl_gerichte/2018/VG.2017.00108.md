@@ -1,0 +1,161 @@
+---
+decision_id: "gl_gerichte_VG.2017.00108"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2017.00108"
+docket_2: "VG.2018.621"
+decided: "2018-02-15"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=905&W10_KEY=218274&nTrefferzeile=4&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-025.md", "switzerland/bund/acts/830.1/art-052.md", "switzerland/bund/acts/830.1/art-056.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/830.11/art-004.md", "switzerland/bund/acts/837.0/art-001.md", "switzerland/bund/acts/837.0/art-095.md"]
+---
+
+# GL Gerichte VG.2017.00108
+
+## Regeste
+
+Sozialversicherung - Arbeitslosenversicherung
+
+## Text
+
+Glarus Verwaltungsgericht 15.02.2018 VG.2017.00108 (VG.2018.621)
+Glaris Verwaltungsgericht 15.02.2018 VG.2017.00108 (VG.2018.621)
+Glarona Verwaltungsgericht 15.02.2018 VG.2017.00108 (VG.2018.621)
+
+Sozialversicherung - Arbeitslosenversicherung
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+15. Februar 2018
+II. Kammer
+in Sachen
+VG.2017.00108
+A.______
+Beschwerdeführer
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+Amt für Wirtschaft und Arbeit des Kantons
+Glarus
+Beschwerdegegner
+betreffend
+Erlass
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Am 18. Mai 2017
+stellte die Arbeitslosenkasse des Kantons Glarus fest, dass A.______ zwischen
+dem 1. August 2013 und dem 31. März 2015 eine zu hohe
+Arbeitslosenentschädigung ausgerichtet worden sei. Sie forderte daher
+ausbezahlte Leistungen in der Höhe von Fr. 12'786.35 von ihm zurück.
+Gegen die Verfügung vom 18. Mai
+2017 erhob A.______ am 29. Mai 2017 Einsprache; gleichzeitig stellte er ein
+Erlassgesuch.
+1.2
+Am 25. Juli 2017 wies
+die Arbeitslosenkasse die Einsprache von A.______ ab und nahm das
+Erlassgesuch zur Kenntnis. Sie wies daraufhin, dass sie das Erlassgesuch nach
+Eintritt der Rechtskraft des Einspracheentscheids der zuständigen kantonalen
+Amtsstelle weiterleiten werde.
+Am 23. Oktober 2017 wies das Amt
+für Wirtschaft und Arbeit das Erlassgesuch ab.
+2.
+2.1
+Am 23. November 2017
+(Datum des Poststempels) gelangte A.______ ans Verwaltungsgericht und beantragte
+sinngemäss die Aufhebung des Entscheids vom 23. Oktober 2017. Ihm sei
+die Bezahlung der zu Unrecht bezogenen Leistungen in der Höhe von Fr.
+12'786.35 zu erlassen. Eventualiter sei der Entscheid vom 23. Oktober
+2017 aufzuheben und an die Vorinstanz zurückzuweisen; alles unter Kosten- und
+Entschädigungsfolgen und unter Gewährung der unentgeltlichen Prozessführung
+und der unentgeltlichen Rechtsverbeiständung.
+Das Amt für Wirtschaft und Arbeit
+schloss am 20. Dezember 2017 auf Abweisung der Beschwerde; unter Kosten- und
+Entschädigungsfolgen.
+2.2
+Am 24. November 2017
+forderte das Verwaltungsgericht A.______ auf, die erforderlichen Belege zum
+Gesuch um unentgeltiche Prozessführung und unentgeltliche
+Rechtsverbeiständung bis zum 8. Dezember 2017 einzureichen. Diese Frist verlängerte
+es letztmals am 9. Januar 2018 bis zum 31. Januar 2018. Innert Frist reichte
+A.______ keine Belege für sein Gesuch um unentgeltliche Rechtspflege ein.
+II.
+1.
+1.1
+Eine versicherte Person, die Arbeitslosenentschädigung
+bezogen hat und später für denselben Zeitraum Renten oder Taggelder der
+Invalidenversicherung, der beruflichen Vorsorge, aufgrund des
+Erwerbsersatzgesetzes vom 25. September 1952, der Militärversicherung, der
+obligatorischen Unfallversicherung, der Krankenversicherung oder gesetzliche
+Familienzulagen erhält, ist gemäss Art. 95 Abs. 1
+bis
+des
+Bundesgesetzes über die obligatorische Arbeitslosenversicherung und die
+Insolvenzentschädigung vom 25. Juni 1982 (AVIG) zur Rückerstattung der in
+diesem Zeitraum bezogenen Arbeitslosentaggelder verpflichtet. In Abweichung
+von Art. 25 Abs. 1 des Bundesgesetzes über den Allgemeinen Teil des
+Sozialversicherungsrechts vom 6. Oktober 2000 (ATSG) beschränkt sich die
+Rückforderungssumme auf die Höhe der von den obgenannten Institutionen für
+denselben Zeitraum ausgerichteten Leistungen.
+1.2
+Bei Vorliegen einer
+grossen Härte wird die Rückerstattung der unrechtmässig gewährten Leistungen
+ganz oder teilweise erlassen, sofern der Bezüger diese in gutem Glauben
+empfangen hat (Art. 95 Abs. 1 AVIG i.V.m. Art. 25 Abs. 1 ATSG i.V.m. Art. 4
+Abs. 1 der Verordnung über den Allgemeinen Teil des
+Sozialversicherungsrechts vom 11. September 2002 [ATSV]). Ein Erlass
+wird auf schriftliches Gesuch hin gewährt, wobei die Behörde darüber eine Verfügung
+zu erlassen hat (Art. 95 Abs. 1 AVIG i.V.m. Art. 4 Abs. 4 und 5 ATSV).
+Gegen diese Verfügung kann gemäss Art. 1 Abs. 1 AVIG i.V.m. Art. 52
+Abs. 1 ATSG bei der verfügenden Stelle innert 30 Tagen Einsprache
+erhoben werden. Gegen den Einspracheentscheid steht nach Art. 1 Abs. 1 AVIG
+i.V.m. Art. 56 ff. ATSG i.V.m. Art. 12 Abs. 2 des
+Einführungsgesetzes zum Bundesgesetz über die obligatorische
+Arbeitslosenversicherung und die Insolvenzentschädigung vom 6. Mai 1984 (EG
+AVIG) die Beschwerde ans Verwaltungsgericht offen.
+2.
+Beim Entscheid über die
+"Einsprache gegen die Verfügung vom 18. Mai 2017 betreffend Erlass
+der zu Unrecht ausbezahlten Leistungen gestützt auf Art. 25 ATSG,
+Art. 95 Abs. 1 AVIG, Art. 4 ATSV" vom
+23. Oktober 2017 handelt es sich entgegen der missverständlichen
+Bezeichnung des Entscheids um eine erstinstanzliche Verfügung, da mit diesem
+Entscheid erstmals über die Frage, ob die Rückforderung zu erlassen sei,
+verbindlich entschieden wurde. Gegen diesen Entscheid steht gemäss
+Art. 1 Abs. 1 AVIG i.V.m. Art. 52 Abs. 1 ATSG die
+Einsprache offen. Erst gegen den Einspracheentscheid kann Beschwerde beim
+Verwaltungsgericht erhoben werden. Dieses ist daher zur Behandlung der
+Eingabe vom 23. November 2017 funktionell nicht zuständig. Daran ändert auch
+die mangelhafte Rechtsmittelbelehrung, welche das Verwaltungsgericht als
+zuständige Rechtsmittelinstanz nennt, nichts.
+Demgemäss ist auf die Beschwerde
+mangels funktioneller Zuständigkeit des Verwaltungsgerichts nicht
+einzutreten. Die Eingabe des Beschwerdeführers vom 23. Oktober 2017 ist
+zur Behandlung als Einsprache an den Beschwerdegegner zu überweisen.
+III.
+Die Gerichtskosten sind
+gemäss Art. 1 Abs. 1 AVIG i.V.m. Art. 61 lit. a ATSG von Gesetzes wegen auf
+die Staatskasse zu nehmen. Parteientschädigungen sind im vorliegenden
+Verfahren keine zuzusprechen (Art. 1 Abs. 1 AVIG i.V.m. Art. 61 lit. g ATSG
+e contrario). Über das Gesuch um unentgeltliche Rechtspflege hat der
+Beschwerdegegner im noch zu treffenden Einspracheentscheid zu befinden.
+Demgemäss beschliesst die Kammer
+:
+1.
+Auf
+die Beschwerde wird nicht eingetreten. Die Eingabe des Beschwerdeführers
+vom 23. November 2017 wird dem Beschwerdegegner zur Behandlung als
+Einsprache überwiesen.
+2.
+Die
+Gerichtkosten werden auf die Staatskasse genommen.
+3.
+Es
+werden keine Parteientschädigungen zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
