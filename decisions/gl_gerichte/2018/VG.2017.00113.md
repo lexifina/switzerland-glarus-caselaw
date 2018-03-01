@@ -1,0 +1,331 @@
+---
+decision_id: "gl_gerichte_VG.2017.00113"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2017.00113"
+docket_2: "VG.2018.626"
+decided: "2018-03-01"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=911&W10_KEY=218274&nTrefferzeile=1&Template=simple/search_result_document.html"
+---
+
+# GL Gerichte VG.2017.00113
+
+## Regeste
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+## Text
+
+Glarus Verwaltungsgericht 01.03.2018 VG.2017.00113 (VG.2018.626)
+Glaris Verwaltungsgericht 01.03.2018 VG.2017.00113 (VG.2018.626)
+Glarona Verwaltungsgericht 01.03.2018 VG.2017.00113 (VG.2018.626)
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+1. März 2018
+I. Kammer
+in Sachen
+VG.2017.00113
+A.______AG
+Beschwerdeführerin
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+1.
+C.______AG
+Beschwerdegegner
+vertreten durch
+Rechtsanwalt
+D.______
+2.
+Gemeinde Glarus Nord
+3.
+Departement Bau und Umwelt des Kantons
+Glarus
+4.
+Regierungsrat des Kantons Glarus
+betreffend
+Baubewilligung
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Das Ressort Bau und Umwelt der Gemeinde Glarus Nord
+publizierte nach Durchführung des Mitwirkungsverfahrens im Amtsblatt vom […]
+den Überbauungsplan X in […] und legte ihn vom […] bis am […] öffentlich auf.
+Der Überbauungsplanperimeter umfasst die Parz.-Nrn. 01, 02, 03 und 04,
+Grundbuch […]. Die A.______AG ist Eigentümerin der dem Überbauungsplangebiet
+benachbarten Parz.-Nrn. 05 und 06, Grundbuch […]. Zu Gunsten dieser beiden
+Grundstücke und zu Lasten der Parz.-Nrn. 07, 01, 08, 09, 04 und 10, Grundbuch
+[…], bzw. zu Lasten der Parz.-Nrn. 07, 01, 08, 02, 04 und 10, Grundbuch […],
+besteht je ein Fuss- und Fahrwegrecht. Im Überbauungsplan ist vorgesehen,
+dass der heute bestehende, mit Motorfahrzeugen befahrbare Weg auf der Parz.-Nr. 04,
+Grundbuch […], ostwärts verlegt und ab dem […] nur noch als Fussgänger-/
+Veloweg geführt wird.
+1.2
+Am 30. September 2013 erhob die A.______AG beim
+Gemeinderat Glarus Nord Einsprache gegen den Überbauungsplan und beantragte
+dessen Rückweisung. Die Gemeindeversammlung vom 20. Juni 2014 wies den
+Überbauungsplan bis zum Inkrafttreten der neuen Richt- und Nutzungsplanung
+zurück. Der Gemeinderat trat am 15. April 2015 auf die Einsprache nicht
+ein. Am 15. Juli 2015 teilte der Gemeinderat der A.______AG mit, dass die
+Gemeindeversammlung vom 19. Juni 2015 dem Wiedererwägungsantrag der E.______AG,
+[…], und C.______AG, […], entsprochen und den Überbauungsplan erlassen habe.
+1.3
+Am 17. August 2015 erhob die A.______AG Beschwerde
+beim Departement Bau und Umwelt (DBU) und beantragte die Aufhebung des
+Einspracheentscheids vom 15. April 2015 sowie des
+Gemeindeversammlungsbeschlusses vom 19. Juni 2015 betreffend Überbauungsplan X.
+Das DBU wies die Beschwerde am 4. November 2015 ab.
+1.4
+In der Folge gelangte die A.______AG mit Beschwerde
+vom 4. Dezember 2015 ans Verwaltungsgericht und beantragte die Aufhebung des
+Beschwerdeentscheids vom 4. November 2015 mitsamt dem ihm
+zugrundeliegenden Einspracheentscheid vom 15. April 2015 bzw. mitsamt
+dem Gemeindeversammlungsbeschluss betreffend den Überbauungsplan X vom 19.
+Juni 2015. Das DBU genehmigte am 18. Januar 2016 den Überbauungsplan. Das
+Verwaltungsgericht wies die Beschwerde am 16. Juni 2016
+(Urteil VG.2015.00014) ab.
+2.
+2.1
+Die C.______AG ersuchte am 20. Oktober 2016 um
+Bewilligung des Neubaus von zwei Mehrfamilienhäusern auf der im
+Überbauungsplangebiet gelegenen Parz.-Nr. 01, Grundbuch […]. Das Baugesuch
+wurde am […] im Amtsblatt publiziert. Mit Einsprache vom 5. Dezember 2016
+beantragte die A.______AG, dass die Baubewilligung zu verweigern sei. Der
+Gemeinderat Glarus Nord erteilte der C.______AG am 18. Mai 2017 die
+Baubewilligung unter verschiedenen Auflagen und Bedingungen. Gleichzeitig
+wies er die Einsprache der A.______AG ab.
+2.2.
+Dagegen erhob die A.______AG am 20. Juni 2017
+Beschwerde beim DBU und beantragte die Aufhebung der Baubewilligung. Das DBU
+überwies die Eingabe am 22. Juni 2017 zuständigkeitshalber dem
+Regierungsrat. Dieser trat am 7. November 2017 auf die Beschwerde nicht ein.
+3.
+3.1
+In der Folge gelangte die A.______AG mit Beschwerde
+vom 7. Dezember 2017 ans Verwaltungsgericht und beantragte die Aufhebung des
+Entscheids des Regierungsrats. Die Sache sei zur materiellen Entscheidung
+über die Beschwerde vom 20. Juni 2017 an den Regierungsrat
+zurückzuweisen; eventualiter sei der Entscheid des Regierungsrats mitsamt der
+Baubewilligung aufzuheben und die Baubewilligung sei zu verweigern; alles
+unter Kosten- und Entschädigungsfolgen.
+3.2
+Das DBU verzichtete am 18. Januar 2018 auf eine
+Vernehmlassung. Der Regierungsrat beantragte am 23. Januar 2018 die Abweisung
+der Beschwerde; unter Kosten- und Entschädigungsfolgen zu Lasten der
+A.______AG. Die C.______AG beantragte gleichentags, auf die Beschwerde sei
+nicht einzutreten, eventualiter sei sie abzuweisen; alles unter Kosten- und
+Entschädigungsfolgen zu Lasten der A.______AG. Die Gemeinde Glarus Nord
+beantragte am 30. Januar 2018 (Datum des Eingangs) die Abweisung der
+Beschwerde; unter Kosten- und Entschädigungsfolgen zu Lasten der A.______AG.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 79 Abs. 1 des
+Raumentwicklungs- und Baugesetzes vom 2. Mai 2010 (RBG) i.V.m. Art. 105 Abs.
+1 lit. a des Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986 (VRG)
+zur Behandlung der vorliegenden Beschwerde zuständig.
+1.2
+Angefochten ist ein Nichteintretensentscheid. Die
+Beschwerdeführerin als Adressatin, auf deren Eingabe nicht eingetreten wurde,
+ist grundsätzlich legitimiert, den Nichteintretensentscheid anzufechten.
+Streitgegenstand kann indessen nur die Frage sein, ob die Vorinstanz zu Recht
+auf die Eingabe der Beschwerdeführerin nicht eingetreten ist.
+1.3
+Da auch die übrigen Prozessvoraussetzungen erfüllt
+sind, ist auf die Beschwerde einzutreten.
+2.
+2.1
+Der Beschwerdegegner 4 führte in seinem
+Nichteintretensentscheid aus, das Verwaltungsgericht habe bereits im Urteil
+vom 16. Juni 2016 ausgeführt, dass die Liegenschaft der Beschwerdeführerin
+über die nördliche Parz.-Nr. 10, Grundbuch […], an die ostwärts liegende
+Vorderdorfstrasse angeschlossen und damit strassenmässig genügend erschlossen
+sei. Die von der Beschwerdeführerin gerügte Beeinträchtigung bzw. veränderte
+Erschliessungssituation der Parz.-Nr. 05, Grundbuch […], sei sodann bereits
+mit dem Überbauungsplan entstanden. Auf die Rüge, mit dem Bauvorhaben bzw.
+dem Überbauungsplan werde die Erschliessung ihrer Parzelle beeinträchtigt,
+sei im vorliegenden Verfahren nicht mehr einzugehen. Auch auf die Rüge, dass
+mit dem geplanten Bauvorhaben ihre Eigentumsgarantie verletzt werde, sei nicht
+mehr einzugehen, da diese bereits im Sondernutzungsplanverfahren habe
+vorgebracht werden können. Sodann sei auch die Rüge der
+Dienstbarkeitsverletzung nicht zu hören, da diese auf zivilrechtlichem Weg
+geltend zu machen sei. Schliesslich gelangte der Beschwerdegegner 4 zum
+Schluss, die Beschwerdeführerin sei zur Beschwerdeerhebung nicht legitimiert.
+2.2
+Die Beschwerdeführerin macht geltend, sie sei zur
+Beschwerdeerhebung im vorinstanzlichen Verfahren befugt gewesen. Sie habe die
+bundesrechtlichen Legitimationsvoraussetzungen erfüllt. Es sei nicht
+zulässig, dass der Beschwerdegegner 4 über diese
+Legitimationsvoraussetzungen hinausgehe und so die Legitimation enger fasse,
+als dies bundesrechtlich vorgesehen sei. Sodann verstosse es gegen den
+Grundsatz des Handelns nach Treu und Glauben und gegen das Willkürverbot,
+wenn der Beschwerdegegner 4 ihr vorhalte, sie hätte ihre Rügen schon im
+Verfahren gegen den Überbauungsplan vorbringen können. Sie habe dies gemacht,
+allerdings habe die Tatsache, dass sich die strassenmässige Erschliessung der
+Grundstücke durch das Bauvorhaben verschlechtern werde, nicht Gegenstand der
+Beurteilung im Überbauungsplanverfahren gebildet. Durch das Bauvorhaben werde
+es ihr völlig verunmöglicht, die ihr zustehenden und im Grundbuch eingetragenen
+Fahrwegrechte wahrzunehmen. Sie vertrete dezidiert die Auffassung, die Frage
+der genügenden Erschliessung bilde Bestandteil des öffentlichen Rechts. Zwar
+wehre sie sich vorliegend für die uneingeschränkte Erhaltung der
+Erschliessung ihres eigenen Grundstücks. Dies vermöge indessen nichts daran
+zu ändern, dass sich vorliegend Fragen der Erschliessung stellten, die dem
+öffentlichen Recht zuzuordnen seien. Sodann sei es durchaus zulässig, dass
+die Verwaltungsbehörden zivilrechtliche Fragen vorfrageweise prüften. Selbst
+wenn keine vorfrageweise Prüfung der zivilrechtlichen Frage der
+Dienstbarkeitsverletzung stattfinden würde, hätten die Verwaltungsbehörden
+bei der Beurteilung des Baugesuchs zu berücksichtigen, dass durch das
+Bauvorhaben die bestehende Erschliessung einer benachbarten Liegenschaft
+verschlechtert würde. Dies, weil Erschliessungsfragen dem öffentlichen Recht
+zugeordnet seien.
+3.
+3.1
+3.1.1
+Gemäss Art. 88 Abs. 1 lit. a VRG ist zur Beschwerde
+berechtigt, wer ein eigenes schutzwürdiges Interesse an der Änderung oder
+Aufhebung des angefochtenen Entscheids hat. Die Legitimationsvoraussetzungen
+von Art. 88 Abs. 1 lit. a VRG stimmen mit denjenigen von Art. 89 Abs. 1 des
+Bundesgesetzes über das Bundesgericht vom 17. Juni 2005 (BGG) überein.
+3.1.2
+Die Beschwerdeführerin ist als Eigentümerin der
+Nachbargrundstücke vom Bauvorhaben besonders betroffen. Offensichtlich ist
+sodann, dass durch das Bauvorhaben die Verkehrserschliessung ihrer Parz.-Nr.
+05, Grundbuch […], mit Motorfahrzeugen von Westen her nicht mehr möglich
+wäre. Diesen Nachteil müsste sie bei einer Gutheissung der Beschwerde im
+vorinstanzlichen Verfahren nicht erdulden, weshalb ihr ein schutzwürdiges
+Interesse nicht abzusprechen ist. Damit war sie entgegen der Auffassung des
+Beschwerdegegners 4 zur Beschwerdeerhebung legitimiert.
+3.2
+3.2.1
+Der Beschwerdegegner 4 führte in seinem
+Beschwerdeentscheid zutreffend aus, dass im Rahmen von Rechtsmitteln gegen
+eine Baubewilligung keine Rügen mehr vorgebracht werden können in Punkten,
+welche im Überbauungsplan abschliessend geregelt wurden (Christian Häuptli,
+in Andreas Baumann et al., Kommentar zum Baugesetz des Kantons Aargau, Bern
+2013, Vorbem. zu §§ 16 bis 21 N. 48; Christoph Fritzsche/Peter Bösch/Thomas
+Wipf, Zürcher Planungs- und Baurecht, 5. A., Zürich 2011, S.147).
+Ausgeschlossen sind im Baubewilligungsverfahren insbesondere Rügen, welche
+die Sonderbauvorschriften betreffen.
+3.2.2
+Es ist zumindest fraglich, ob sich die
+Verschlechterung der Erschliessung des Grundstücks Parz.-Nr. 05, Grundbuch
+[…], abschliessend aus dem Überbauungsplan ergibt oder ob es der
+Beschwerdeführerin offen gestanden hätte, in ihrem Baugesuch eine andere
+Variante zu präsentieren. Insofern erweist sich die Ansicht des
+Beschwerdegegners 4, wonach die Beschwerdeführerin ihre Rügen im
+Baubewilligungsverfahren nicht mehr vorbringen könne, weil sie diese im
+Überbauungsplanverfahren hätte erheben müssen, als zu streng.
+3.3
+3.3.1
+Neben der Beschwerdelegitimation ist die örtliche,
+sachliche und funktionelle Zuständigkeit eine weitere Voraussetzung für das
+Eintreten auf ein Rechtsmittel (vgl. Art. 70 Abs. 1 lit. a VRG).
+Art. 79 Abs. 1 RBG sieht vor, dass sich der Rechtsschutz in Planungs- und
+Bausachen nach dem Verwaltungsrechtspflegegesetz richtet. Sowohl aus Art. 1
+VRG als auch aus Art. 74 RBG ergibt sich, dass im verwaltungsrechtlichen
+Rechtsmittelverfahren einzig öffentlich-rechtliche Streitigkeiten zu
+behandeln sind, während die Verletzung privater Rechte auf dem
+zivilrechtlichen Weg geltend zu machen sind.
+3.3.2
+Die Beschwerdeführerin geht davon aus, dass auf ihre
+Beschwerde hätte eingetreten werden müssen, da durch das Bauvorhaben die
+Erschliessung ihres Grundstücks Parz.-Nr. 05, Grundbuch […],
+verschlechtert werde. Denn die Erschliessung gehöre zum öffentlichen Recht.
+Diese Argumentation greift
+zu kurz. Es trifft zwar zu, dass ein Grundstück erst baureif ist, wenn es
+genügend erschlossen ist. Insofern ist eine genügende Erschliessung Voraussetzung
+für das Erteilen einer Baubewilligung (Art. 22 Abs. 2 lit. b des
+Bundesgesetzes über die Raumplanung vom 22. Juni 1979 [RPG]). Im
+öffentlich-rechtlichen Baubewilligungsverfahren hat daher stets zu
+interessieren, ob das Baugrundstück genügend erschlossen ist. Wird durch ein
+Bauvorhaben einem bisher erschlossenen Nachbargrundstück die strassenmässige
+Erschliessung entzogen, ist dies durch die Baubehörde ebenfalls zu würdigen.
+Dem betroffenen Nachbarn muss im Rechtsmittelverfahren selbstredend die
+entsprechende Rüge offenstehen.
+Vorliegend wird dem
+Grundstück der Beschwerdeführerin die bestehende Erschliessung für
+Motorfahrzeuge im Westen entzogen. Indessen bleibt es über den nördlichen
+Zugang zur Parz.-Nr. 10, Grundbuch […], zu deren Lasten es ein Fuss- und
+Fahrwegrecht hat, an die ostwärts liegende […]strasse angeschlossen und damit
+strassenmässig bestens erschlossen, was das Verwaltungsgericht bereits in
+seinem Urteil vom 16. Juni 2016 (VG.2015.00145 E. II/3.4) ausführte. Auch im
+vorinstanzlichen Verfahren machte die Beschwerdeführerin zu Recht nicht
+geltend, das Bauvorhaben führe dazu, dass ihr Grundstück vom Strassennetz
+abhängt werde und damit nicht mehr genügend erschlossen sei, vielmehr wehrte
+sie sich gegen eine Verletzung der privatrechtlichen Dienstbarkeit. Dabei
+handelt es sich aber um eine zivilrechtliche Frage, welche durch den
+Zivilrichter zu beurteilen ist, selbst wenn die geltend gemachte
+Dienstbarkeitsverletzung aus Sicht der Beschwerdeführerin eine
+Verschlechterung der strassenmässigen Erschliessung ihres Grundstücks zur
+Folge hat (Art. 74 RBG; Fritzsche/Bösch/Wipf, S. 1208; Martin
+Gossweiler, in Andreas Baumann et al., Kommentar zum Baugesetz des Kantons
+Aargau, Bern 2013, § 4 N. 34). Denn aus dem Dargelegten ergibt sich, dass im
+öffentlich-rechtlichen Verfahren erst dann einzugreifen ist, wenn die
+Erschliessung nicht mehr genügend ist, was vorliegend offensichtlich nicht
+der Fall ist und von der Beschwerdeführerin auch nicht oder zumindest nicht
+substantiiert geltend gemacht wird.
+3.4
+Soweit die Beschwerdeführerin schliesslich die
+Auffassung vertritt, der Beschwerdegegner 4 hätte die zivilrechtliche
+Frage der Dienstbarkeitsverletzung vorfrageweise prüfen müssen, geht ihre
+Rüge ins Leere.
+Es trifft zwar zu, dass es
+den Verwaltungsbehörden unter Umständen offensteht, eine zivilrechtliche
+Frage vorfrageweise zu prüfen. Ein prominentes Anwendungsbeispiel dafür ist,
+wenn die Baubewilligung den Bestand ziviler Rechte voraussetzt. So kann es
+etwa sein, dass ein Grundstück nur über ein fremdes Grundstück strassenmässig
+erschlossen ist. Da die genügende Erschliessung wie dargelegt Voraussetzung
+für eine Baubewilligung ist, kann es in einem solchen Fall angezeigt sein,
+dass im Baubewilligungsverfahren vorfrageweise geprüft wird, ob für die
+Durchfahrt über das fremde Grundstück eine gültige privatrechtliche
+Dienstbarkeit vorliegt.
+Davon unterscheidet sich
+der vorliegend zu beurteilende Fall aber wesentlich, da das Bauvorhaben
+hinsichtlich der öffentlich-rechtlichen Bewilligungsvoraussetzungen
+unabhängig von der gerügten Verletzung der privatrechtlichen Dienstbarkeit
+beurteilt werden kann. Mit anderen Worten handelt es sich bei der geltend
+gemachten Dienstbarkeitsverletzung nicht um eine im Baubewilligungsverfahren
+zu behandelnde Vorfrage, sondern um eine Hauptfrage, welche durch den
+Zivilrichter zu beantworten ist.
+Damit war der
+Beschwerdegegner 4 zur Behandlung der Eingabe der Beschwerdeführerin sachlich
+nicht zuständig, weshalb dessen Nichteintretensentscheid im Ergebnis nicht zu
+beanstanden ist. Dies führt zur Abweisung der Beschwerde.
+III.
+Nach Art. 134 Abs. 1 lit.
+c VRG hat die Partei, welche im Beschwerde-, Klage- oder Revisionsverfahren
+unterliegt, die amtlichen Kosten zu tragen. Ausgangsgemäss sind daher die
+Gerichtskosten von pauschal Fr. 2'000.- der Beschwerdeführerin
+aufzuerlegen. Vom von ihr bereits geleisteten Kostenvorschuss in der Höhe von
+Fr. 3'000.- sind ihr Fr. 1'000.- zurückzuerstatten.
+Sie ist überdies gemäss
+Art. 138 Abs. 2 VRG zu verpflichten, der Beschwerdegegnerin 1 eine
+Parteientschädigung von Fr. 1'200.- (inkl. Mehrwertsteuer) zu bezahlen.
+Mangels Vorliegens besonderer Umstände steht eine solche den
+Beschwerdegegnern 2 und 4 nicht zu (Art. 138 Abs. 4 VRG).
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Die
+Gerichtskosten von Fr. 2'000.- werden der Beschwerdeführerin auferlegt. Vom
+von ihr bereits geleisteten Kostenvorschuss in der Höhe von
+Fr. 3'000.- werden ihr Fr. 1'000.- zurückerstattet.
+3.
+Die
+Beschwerdeführerin wird verpflichtet, der Beschwerdegegnerin 1 innert
+30 Tagen nach Rechtskraft dieses Entscheids eine Parteientschädigung
+von Fr. 1'200.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
