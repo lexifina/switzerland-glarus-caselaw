@@ -1,0 +1,400 @@
+---
+decision_id: "gl_gerichte_VG.2017.00111"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2017.00111"
+docket_2: "VG.2018.638"
+decided: "2018-03-29"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=929&W10_KEY=218274&nTrefferzeile=7&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/700.1/art-034.md", "switzerland/bund/acts/700/art-016.md", "switzerland/bund/acts/700/art-016a.md", "switzerland/bund/acts/700/art-024c.md"]
+---
+
+# GL Gerichte VG.2017.00111
+
+## Regeste
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+## Text
+
+Glarus Verwaltungsgericht 29.03.2018 VG.2017.00111 (VG.2018.638)
+Glaris Verwaltungsgericht 29.03.2018 VG.2017.00111 (VG.2018.638)
+Glarona Verwaltungsgericht 29.03.2018 VG.2017.00111 (VG.2018.638)
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+29. März 2018
+I. Kammer
+in Sachen
+VG.2017.00111
+A.______
+Beschwerdeführer
+gegen
+1.
+Gemeinde Glarus Süd
+Beschwerdegegner
+2.
+Departement Bau und Umwelt des Kantons
+Glarus
+3.
+Regierungsrat des Kantons Glarus
+betreffend
+Baubewilligung
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+A.______ ist Eigentümer der mit einem Wohnhaus
+überstellten Parz.-Nr. 01, Grundbuch […]. Die Parzelle liegt in der
+Landwirtschaftszone, welche durch die Ortsbildschutzzone […] überlagert wird.
+Am 6. September 2016 ersuchte er die Gemeinde Glarus Süd um eine Bewilligung
+zur Asphaltierung des Garagenvorplatzes. Das Baugesuch wurde auch vom
+Eigentümer der benachbarten Parz.-Nr. 02, Grundbuch […], auf welcher ein
+Teil des Garagenvorplatzes liegt und zu deren Lasten ein Fuss- und
+Fahrwegrecht besteht, unterzeichnet.
+1.2
+Mit Teilverfügung vom 7. November 2016 verweigerte
+das Departement Bau und Umwelt (DBU) die Zustimmung zur Baubewilligung für
+das Bauvorhaben ausserhalb der Bauzonen. Noch bevor ihm der
+Baubewilligungsentscheid eröffnet worden war, führte A.______ sein
+Bauvorhaben aus. Am 14. Dezember 2016 verweigerte die Gemeinde Glarus Süd
+A.______ die Baubewilligung und befahl ihm die Wiederherstellung des
+rechtmässigen Zustands innert sechs Monaten nach Rechtskraft der Verfügung.
+1.3
+Dagegen erhob A.______ am 11. Januar 2017 Beschwerde
+beim Regierungsrat und beantragte sinngemäss, dass die Verfügung der Gemeinde
+Glarus Süd vom 14. Dezember 2016 aufzuheben und ihm die Baubewilligung
+zu erteilen sei. Der Regierungsrat wies die Beschwerde am 31. Oktober 2017
+ab.
+2.
+2.1
+In der Folge gelangten B.______ und C.______ von der
+D.______ im Auftrag von A.______ mit Beschwerde vom 30. November 2017 an das
+Verwaltungsgericht und beantragten die Aufhebung des Entscheids des
+Regierungsrats vom 31. Oktober 2017. A.______ sei die Baubewilligung zu
+erteilen; alles unter Kosten- und Entschädigungsfolgen zu Lasten der
+Staatskasse.
+2.2
+Die Gemeinde Glarus Süd beantragte am 19. Dezember
+2017 die Abweisung der Beschwerde; unter Kosten- und Entschädigungsfolgen zu
+Lasten von A.______. Das DBU beantragte am 18. Januar 2018 ebenfalls die
+Abweisung der Beschwerde. Eventualiter sei der Wiederherstellungsbefehl
+dahingehend zu ergänzen, als A.______ die Garagenzufahrt sowie den
+Garagenvorplatz nach der Entfernung des Asphaltbelags mit einer Deckschicht
+aus Kies ausbessern könne, sofern dies notwendig erscheine. Schliesslich
+schloss auch der Regierungsrat am 19. Januar 2018 auf Abweisung der
+Beschwerde; unter Kosten- und Entschädigungsfolgen zu Lasten von A.______.
+2.3
+B.______ und C.______ reichten am 5. Februar 2018
+eine ergänzende Stellungnahme ein, worin sie unter anderem die Durchführung
+eines Augenscheins beantragten. A.______ reichte am 8. Februar 2018 eine
+weitere Eingabe ein.
+2.4
+Das DBU nahm zu den Eingaben vom 5. bzw. 8. Februar
+2018 Stellung und hielt an seinen Anträgen fest. Der Regierungsrat
+verzichtete am 23. Februar 2018 auf eine Stellungnahme, während sich die
+Gemeinde Glarus Süd innert Frist nicht vernehmen liess.
+2.5
+Nachdem das Verwaltungsgericht A.______ am 12.
+Februar 2018 aufgefordert hatte, eine Vollmacht für die Vertretung durch
+B.______ und C.______ einzureichen, teilte dieser dem Verwaltungsgericht am
+2. März 2018 mit, dass B.______ und C.______ nicht im Anwaltsregister
+aufgeführt seien. Das Verwaltungsgericht entfernte in der Folge gestützt auf
+Art. 17 Abs. 2 des Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986
+(VRG) B.______ und C.______ aus dem Rubrum, was es den Parteien am
+5. März 2018 anzeigte.
+2.6
+Am 15. März 2018 reichte A.______ unaufgefordert
+eine weitere Stellungnahme ein.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 79 Abs. 1 des
+Raumentwicklungs- und Baugesetzes vom 2. Mai 2010 (RBG) i.V.m. Art. 105 Abs.
+1 lit. a VRG zur Behandlung der vorliegenden Beschwerde zuständig. Da auch
+die übrigen Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde
+einzutreten.
+1.2
+Mit der Verwaltungsgerichtsbeschwerde können gemäss
+Art. 107 Abs. 1 VRG die unrichtige oder unvollständige Feststellung des
+rechtserheblichen Sachverhalts (lit. a) und die unrichtige Rechtsanwendung
+einschliesslich eines Missbrauchs des Ermessens (lit. b) geltend gemacht
+werden. Die Unangemessenheit eines Entscheids kann nur ausnahmsweise geltend
+gemacht werden (Art. 107 Abs. 2 VRG), wobei vorliegend kein
+Ausnahmetatbestand ersichtlich ist.
+1.3
+Der Sachverhalt ergibt sich rechtsgenüglich aus den
+Akten, weshalb auf den beantragten Augenschein zu verzichten ist. Ebenso
+wenig ist eine Stellungnahme der Abteilung Landwirtschaft einzuholen, da
+Bauvorhaben ausserhalb der Bauzone der Zustimmung des
+Beschwerdegegners 2, nicht aber der Abteilung Landwirtschaft bedürfen
+(vgl. Art. 67 Abs. 2 i.V.m. Art. 3 der Verordnung über den Vollzug
+der Raumentwicklungs- und Baugesetzgebung vom 7. Juni 2011 [RBGVV]).
+2.
+2.1
+Der Beschwerdeführer macht geltend, im Baugesuch für
+sein Wohnhaus mit angebauter Garage sei der Ausbaustandard des
+Garagenvorplatzes nicht explizit erwähnt worden. Er hätte daher diesen
+asphaltieren dürfen, habe darauf aber zunächst aus finanziellen Gründen
+verzichtet. Verschiedene Liegenschaften in der Nachbarschaft im […] seien in
+letzter Zeit umgebaut worden, wobei die Nichtdeklaration des Ausbaustandards
+der jeweiligen Garagenvorplätze kein Problem gewesen seien. Die meisten
+Garagenvorplätze seien denn auch asphaltiert worden. Die Asphaltierung eines
+Garagenvorplatzes dürfe sodann nicht mit der Teerung eines ganzen
+Flurwegnetzes verglichen werden. Die Asphaltierung eines Garagenvorplatzes
+sei ortsüblich und zonenkonform. Schliesslich erweise sich ein Rückbau in den
+ursprünglichen Zustand als unmöglich und ein solcher sei unverhältnismässig.
+2.2
+Die Beschwerdegegnerin 1 vertritt die
+Auffassung, dass sich der Beschwerdeführer nicht auf das
+Baubewilligungsverfahren aus dem Jahr 2010 berufen könne. Die Geltungsdauer
+der damaligen Baubewilligung sei längst abgelaufen. Der Wiederherstellungsbefehl
+sei zudem verhältnismässig, da ein erhebliches öffentliches Interesse an der
+Erhaltung der Landschaft bestehe.
+2.3
+Der Beschwerdegegner 2 führt aus, dass sich der
+Kanton heute dem Credo der Qualitätserhaltung oder gar -steigerung sowie der
+Sensibilität hinsichtlich der Gestaltung und der Ortsbilder im Glarnerland
+verschreibe. Auch deshalb komme der abgelaufenen Baubewilligung keine
+präjudizielle Wirkung zu. Der Beschwerdeführer vermöge nicht aufzuzeigen,
+weshalb die Asphaltierung des Garagenvorplatzes aus betrieblichen Gründen
+notwendig sei, was aber Voraussetzung für die Zonenkonformität in der
+Landwirtschaftszone bilde. Der Beschwerdeführer verkenne zudem, dass es sich
+bei den von ihm angeführten Beispielen, in welchen die Asphaltierung der
+Garagenvorplätze erlaubt worden sei, um bestandesgeschützte Bauten handle.
+Die kantonalen Amtsstellen seien hier zur Auffassung gelangt, dass die
+Identität der Baute und ihrer Umgebung in den wesentlichen Zügen gewahrt
+bleibe. Der Wiederherstellungsbefehl sei zudem verhältnismässig, wobei zu
+beachten sei, dass der Beschwerdeführer bösgläubig gehandelt habe, da er vor
+der Bauausführung nicht den Baubewilligungsentscheid abgewartet habe. Sollte
+das Verwaltungsgericht hingegen zur Auffassung gelangen, dass die
+Asphaltierung des Garagenvorplatzes zonenkonform sei, müsse zusätzlich
+geprüft werden, ob dem Vorhaben überwiegende öffentliche Interessen
+entgegenstehen. Diesfalls wäre eine Interessenabwägung unter Einbezug der
+Fachstelle Denkmalpflege und Ortsbildschutz vorzunehmen, da der […] im
+Inventar der schützenswerten Ortsbilder verzeichnet sei.
+2.4
+Der Beschwerdegegner 3 ist ebenfalls der
+Ansicht, dass der Beschwerdeführer aus der im Jahr 2010 erteilten
+Baubewilligung nichts zu seinen Gunsten ableiten könne. Wenn eine
+Asphaltierung im Baugesuch nicht ausgewiesen sei, sei sie auch nicht
+bewilligt. Selbst wenn Zufahrten zu landwirtschaftlichen Wohnbauten in der
+Nachbarschaft bewilligt worden wären, könne der Beschwerdeführer daraus nicht
+eine Gleichbehandlung im Unrecht einfordern, da eine eigentliche
+rechtswidrige Praxis nicht ersichtlich sei. Entscheidend sei, dass die
+Asphaltierung der Hauszufahrt nicht betriebsnotwendig und damit auch nicht
+zonenkonform sei. Sie stelle lediglich eine Komfortsteigerung dar. Da
+Flurwege grösstenteils nicht asphaltiert seien, sei nicht ersichtlich,
+weshalb dies dem Beschwerdeführer für die Zufahrt zu seiner Garage zu
+bewilligen wäre. Die Asphaltierung sei eine nicht bewilligte Anlage, die auf
+der bestehenden Zufahrt eingebaut worden sei. Diese sei wieder zu entfernen
+und die Zufahrt sei in den vorherigen Zustand zu versetzen.
+3.
+3.1
+Eine Bewilligung kann gemäss Art. 22 Abs. 2 des
+Bundesgesetzes über die Raumplanung vom 22. Juni 1979 (RPG) nur erteilt
+werden, wenn die Bauten und Anlagen dem Zweck der betreffenden Nutzungszone
+entsprechen (lit. a) und das Land erschlossen ist (lit. b). Nach Art. 76 Abs.
+1 RBG wird im Rahmen eines Baubewilligungsverfahrens die Baubewilligung
+erteilt, wenn das Bauvorhaben den öffentlich-rechtlichen Vorschriften
+entspricht.
+Landwirtschaftszonen
+dienen gemäss Art. 16 Abs. 1 RPG der langfristigen Sicherung der
+Ernährungsbasis des Landes, der Erhaltung der Landschaft und des
+Erholungsraums oder dem ökologischen Ausgleich und sollen entsprechend ihren
+verschiedenen Funktionen von Überbauungen weitgehend freigehalten werden
+(sog. Prinzip der Trennung von Bau- und Nichtbaugebiet). In der
+Landwirtschaftszone sind daher nur Bauten und Anlagen zonenkonform, die zur
+landwirtschaftlichen Bewirtschaftung oder für den produzierenden Gartenbau
+nötig sind (Art. 16a Abs. 1 RPG). Die Regelung von Art. 16a RPG wird
+durch die Art. 34-38 der Raumplanungsverordnung vom 28. Juni 2000 (RPV)
+konkretisiert. Zonenkonform sind gemäss Art. 34 Abs. 3 RPV Bauten für den
+Wohnbedarf, der für den Betrieb des entsprechenden landwirtschaftlichen
+Gewerbes unentbehrlich ist, einschliesslich des Wohnbedarfs der abtretenden
+Generation. Die Bewilligung darf nach Art. 34 Abs. 4 RPV nur erteilt werden,
+wenn die Baute oder Anlage für die in Frage stehende Bewirtschaftung
+notwendig ist (lit. a), der Baute oder Anlage am vorgesehenen Standort keine
+überwiegenden Interessen entgegenstehen (lit. b) und der Betrieb
+voraussichtlich längerfristig bestehen kann (lit. c).
+3.2
+Die Parz.-Nr. 01, Grundbuch […], des
+Beschwerdeführers und die Nachbarparzelle mit der Nr. 02, Grundbuch […],
+grenzen im Norden an die Meliorationsstrasse, Parz.-Nr. 03, Grundbuch […],
+welche die Parzellen strassenmässig erschliesst. Der vorliegend strittige neu
+asphaltierte Teil der Parzellen führt von der Garage des Beschwerdeführers
+über die Parz.-Nr. 02, Grundbuch […], auf die Meliorationsstrasse. Er gleicht
+einem rechtwinkligen Trapez, wobei die Länge auf der Westseite ungefähr fünf
+Meter und die Länge auf der Ostseite ungefähr 12 Meter beträgt. Die maximale
+Breite beläuft sich auf knapp fünf Meter. Die Fläche des neu asphaltierten
+Teilstücks wird durch den Beschwerdeführer auf 38 m
+2
+beziffert,
+was aufgrund der angeführten Masse und den in den Akten liegenden Offerte
+nachvollziehbar ist. Von seinen Ausmassen her ist der asphaltierte Teil der
+Parzellen eher als Garagenvorplatz denn als Zufahrt oder als Flurweg zu
+betrachten. Insofern sind die von den Vorinstanzen angeführten Entscheide für
+den vorliegend zu beurteilenden Fall nicht einschlägig.
+3.3
+3.3.1
+Für Bauvorhaben ausserhalb der Bauzone ist eine
+Zustimmung des Beschwerdegegners 2 erforderlich. Damit kommt diesem eine
+wichtige Rolle zur Durchsetzung der Trennung von Bau- und Nichtbaugebiet zu.
+Indem er eine strikte Linie vertritt, erfüllt er seine bundesrechtlich
+vorgegebene Aufgabe. Im vorliegenden Fall beurteilte er die Asphaltierung des
+Garagenvorplatzes als im Sinne von Art. 34 Abs. 4 lit. a RPV nicht nötig,
+weshalb er seine Zustimmung zum Bauvorhaben verweigerte.
+3.3.2
+Es gilt aber zu beachten, dass der Garagenvorplatz
+nicht isoliert vom Wohnhaus beurteilt werden kann. Mit anderen Worten kann es
+nicht entscheidend sein, ob die Asphaltierung eines Garagenvorplatzes
+zusammen mit dem Bau eines Wohnhauses geplant ist oder ob erst nach der
+Vollendung des Wohnhauses ein Gesuch um Bewilligung einer solchen
+Asphaltierung gestellt wird.
+3.3.3
+Der Beschwerdeführer weist zu Recht auf zwei
+Baubewilligungsentscheide aus dem Jahr 2015 bzw. 2016 hin. Am 31. Juli 2015
+erteilte der Beschwerdegegner 2 gestützt auf Art. 24c RPG die
+Zustimmung zu einem Neubau einer Doppelgarage auf der Parz.-Nr. 04, […],
+welche ebenfalls im […] in der Landwirtschaftszone liegt. Dabei führte er
+unter anderem aus, da die Umgebung bereits mit diversen Bauten überbaut sei,
+könne die Veränderung des Erscheinungsbildes durch den Garagenneubau als
+nicht wesentlich bewertet werden. Ein Garagenplatz pro Wohnung werde als
+Erweiterung für eine zeitgemässe Wohnnutzung anerkannt. Dass der Garagenvorplatz
+asphaltiert wurde, beanstandete er nicht. Am 22. Januar 2016 erteilte er
+– auch gestützt auf Art. 24c RPG – die Bewilligung für den Ersatzneubau eines
+Wohnhauses auf einer ebenfalls in der Landwirtschaftszone in […] gelegenen
+Parzelle (Parz.-Nr. 05, Grundbuch […]). Dabei führte er aus, dass die
+Veränderung des Erscheinungsbilds in einem landschaftlich vertretbaren
+Ausmass liege, obwohl auch hier der Vorplatz der neu erstellten Garage
+asphaltiert wurde.
+Der Beschwerdegegner 2
+begründet die unterschiedliche Bewilligungspraxis damit, dass für die vom
+Beschwerdeführer angeführten Baubewilligungen aufgrund des Bestandesschutzes
+Ausnahmebewilligungen nach Art. 24c RPG erteilt worden seien, während im
+vorliegend zu beurteilenden Fall die Zonenkonformität gemäss Art. 16a RPG
+strittig sei.
+3.3.4
+Zunächst ist festzuhalten, dass sich die Fälle in
+tatsächlicher Hinsicht nicht wesentlich unterscheiden. Der Beschwerdeführer
+asphaltierte seinen Garagenvorplatz, wie dies in den angeführten Beispielen
+aus dem Jahr 2015 und 2016 Dritten bewilligt wurde. Ebenso wie die Garagen
+und deren Vorplätze aus den angeführten Beispielen steht auch der
+Garagenvorplatz des Beschwerdeführers in engem Zusammenhang mit der Nutzung
+eines Wohnhauses.
+Aus rechtlicher Sicht
+unterscheiden sich die Sachverhalte hingegen. Die Wohnhäuser in den
+angeführten Beispielen waren in der Landwirtschaftszone nicht mehr
+zonenkonform, weshalb der Neubau der Doppelgarage bzw. des Wohnhauses mit
+Garage nur aufgrund einer Ausnahmebewilligung gemäss Art. 24c RPG zulässig
+war. Das Wohnhaus und die Garage des Beschwerdeführers sind hingegen
+unbestritten in der Landwirtschaftszone zonenkonform.
+Dass der Beschwerdegegner
+2 die Asphaltierung der Garagenvorplätze in den angeführten Beispielen
+bewilligte, ist nicht zu beanstanden und lässt sich damit begründen, dass
+einerseits nicht in erheblicher Weise in die Landschaft eingegriffen wird und
+dass es sich andererseits vertreten lässt, einen asphaltierten
+Garagenvorplatz im Sinne von Art. 24c Abs. 4 RPG als für eine zeitgemässe
+Wohnnutzung nötig zu betrachten.
+Es geht nun aber nicht an,
+die Frage, ob ein Garagenvorplatz asphaltiert werden darf, bei einem
+zonenkonformen Wohnhaus strenger zu beurteilen als bei Wohnhäusern, die
+grundsätzlich nicht mehr zonenkonform sind, aber vom Bestandesschutz
+profitieren
+, zumal
+"nötig" im Sinne von Art. 24c Abs. 4 RPG restriktiv auszulegen ist
+und nur das tatsächlich objektiv Erforderliche erlaubt (Rudolf Muggli, in
+Heinz Aemisegger et al. [Hrsg.], Praxiskommentar RPG: Bauen ausserhalb der
+Bauzone, Zürich/Basel/ Genf 2017, Art. 24c N. 36). Wird die
+Asphaltierung eines Garagenvorplatzes bei nicht mehr zonenkonformen, aber
+bestandesgeschützten Wohnhäusern zumindest implizit als für eine zeitgemässe
+Wohnnutzung nötig anerkannt, kann eine solche bei zonenkonformen Wohnhäusern
+nicht Art. 16a RPG i.V.m. Art. 34 Abs. 4 lit. a RPV widersprechen. Es
+wäre denn auch kaum zu begründen und entspricht nicht dem Willen des
+Gesetzgebers, dass dem Landwirt, dessen Wohnhaus für die Bewirtschaftung
+nötig ist, eine zeitgemässe Wohnnutzung nicht erlaubt werden soll, während
+dem Eigentümer eines bestandesgeschützten Wohnhauses eine solche von Gesetzes
+wegen erlaubt wird.
+Da vorliegend das
+Wohnhaus des Beschwerdeführers unbestritten für die Bewirtschaftung nötig im
+Sinne von Art. 34 Abs. 4 lit. a RPV ist, erweist sich auch die einer
+zeitgemässen Wohnnutzung dienende Asphaltierung des Garagenvorplatzes, welche
+kein übermässiges Ausmass aufweist und mit der Asphaltierung auf der
+Parz.-Nr. 05, Grundbuch […], vergleichbar ist, als mit Art. 34 Abs. 4
+lit. a RPV vereinbar.
+3.4
+3.4.1
+Zu prüfen bleibt, ob der Asphaltierung des
+Garagenvorplatzes im Sinne von Art. 34 Abs. 4 lit. b RPV keine
+überwiegenden Interessen entgegenstehen. Die Parz.-Nrn. 01 und 02,
+Grundbuch […], auf welchen der Garagenvorplatz liegt, liegen in der
+Ortsbildschutzzone […]. Ob der Standort des Garagenvorplatzes zudem im
+Perimeter des durch das ISOS geschützten Ortsbildes […] liegt, lässt sich aus
+dem ISOS-Blatt nicht genau erkennen. Da vorliegend offensichtlich keine
+Bundesaufgabe in Frage steht, ist das ISOS aber ohnehin nicht direkt
+anwendbar. Seine Schutzanliegen werden vielmehr durch die Nutzungsplanung
+gewahrt (vgl. VGer-Urteil VG.2016.00111 vom 29. Juni 2017 E. II/3.4 f.).
+3.4.2
+Art. 5 der Bauordnung […] vom 27. November 1998 (BO
+[…]) umschreibt die Ortsbildschutzone 9a. Diese bezweckt die Erhaltung des
+Ortsbilds. Spezialvorschriften und Baubeschränkungen sind ausdrücklich
+zulässig. Gemäss Art. 12 Abs. 5 BO […] ist die Eigenart der Dorfbilder zu
+erhalten.
+3.4.3
+Die Asphaltierung des Garagenvorplatzes hat
+vorliegend kaum einen nachteiligen Einfluss auf das geschützte Ortsbild […].
+Sie tritt schon allein deshalb nicht besonders in Erscheinung, weil auch die
+Meliorationsstrasse, an welche der Garagenvorplatz angrenzt, asphaltiert ist.
+Sodann finden sich im Ortsteil […] verschiedene weitere asphaltierte
+Garagenvorplätze. Ferner ist das Ausmass des Garagenvorplatzes nicht derart
+gross, dass dieser von weitem erblickt werden könnte. Schliesslich ist darauf
+hinzuweisen, dass das Bauvorhaben der kantonalen Fachstelle für Denkmalpflege
+und Ortsbildschutz vorgelegt worden war, diese jedoch keinen Anlass zu
+Bemerkungen sah. Damit ergibt sich, dass dem ausgeführten Bauvorhaben keine überwiegenden
+Interessen entgegenstehen.
+3.5
+Demgemäss erfüllt das bereits ausgeführte
+Bauvorhaben des Beschwerdeführers sämtliche Bewilligungsvoraussetzungen. Dies
+führt zur Gutheissung der Beschwerde. Der Entscheid des
+Beschwerdegegners 3 vom 31. Oktober 2017, die Verfügung der
+Beschwerdegegnerin 1 vom 14. Dezember 2016 sowie die Teilverfügung des
+Beschwerdegegners 2 vom 7. November 2016 sind aufzuheben. Die
+Beschwerdegegnerin 2 ist einzuladen, dem Beschwerdeführer die
+Baubewilligung für die Asphaltierung des Garagenvorplatzes zu erteilen.
+III.
+1.
+Die Gerichtskosten sind
+ausgangsgemäss auf die Staatskasse zu nehmen (Art. 134 Abs. 1 lit. c VRG
+i.V.m. Art. 135 Abs. 1 und 2 VRG). Dem Beschwerdeführer ist der bereits
+geleistete Kostenvorschuss in der Höhe von Fr. 2'000.-
+zurückzuerstatten.
+2.
+Mangels anwaltlicher
+Vertretung steht dem Beschwerdeführer keine Parteientschädigung zu (vgl. Art.
+138 Abs. 1 VRG). Eine solche ist auch den unterliegenden Beschwerdegegnern
+nicht zuzusprechen.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird gutgeheissen. Der Entscheid des Beschwerdegegners 3
+vom 31. Oktober 2017, die Verfügung der Beschwerdegegnerin 1 vom 14. Dezember
+2016 sowie die Teilverfügung des Beschwerdegegners 2 vom 7. November
+2016 werden aufgehoben. Die Beschwerdegegnerin 1 wird eingeladen, dem
+Beschwerdeführer die Baubewilligung für die Asphaltierung des
+Garagenvorplatzes zu erteilen.
+2.
+Die
+Gerichtskosten werden auf die Staatskasse genommen. Dem Beschwerdeführer
+wird der von ihm geleistete Kostenvorschuss in der Höhe von
+Fr. 2'000.- zurückerstattet.
+3.
+Es
+werden keine Parteientschädigungen zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
