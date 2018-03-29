@@ -1,0 +1,347 @@
+---
+decision_id: "gl_gerichte_VG.2018.00010"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2018.00010"
+docket_2: "VG.2018.637"
+decided: "2018-03-29"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=927&W10_KEY=218274&nTrefferzeile=8&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/142.20/art-018.md", "switzerland/bund/acts/142.20/art-021.md", "switzerland/bund/acts/142.20/art-022.md", "switzerland/bund/acts/142.20/art-030.md", "switzerland/bund/acts/142.20/art-085.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/837.0/art-001.md", "switzerland/bund/acts/837.0/art-008.md", "switzerland/bund/acts/837.0/art-015.md", "switzerland/bund/acts/951.311/art-013.md"]
+---
+
+# GL Gerichte VG.2018.00010
+
+## Regeste
+
+Sozialversicherung - Arbeitslosenversicherung
+
+## Text
+
+Glarus Verwaltungsgericht 29.03.2018 VG.2018.00010 (VG.2018.637)
+Glaris Verwaltungsgericht 29.03.2018 VG.2018.00010 (VG.2018.637)
+Glarona Verwaltungsgericht 29.03.2018 VG.2018.00010 (VG.2018.637)
+
+Sozialversicherung - Arbeitslosenversicherung
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+29. März 2018
+I. Kammer
+in Sachen
+VG.2018.00010
+A.______
+Beschwerdeführer
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+Amt für Wirtschaft und Arbeit des Kantons
+Glarus
+Beschwerdegegner
+betreffend
+Aberkennung der Vermittlungsfähigkeit
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Der […]
+Staatsangehörige A.______, geboren am 16. November 1989, reiste am
+21. November 2012 in die Schweiz ein und verfügt über eine
+Aufenthaltsbewilligung F (Ausweis für vorläufig aufgenommene Personen). Am
+10. Mai 2015 trat er eine Stelle als Küchenhilfe im Hotel C.______ in
+[…] an. Die Arbeitsbewilligung für diese Stelle wurde ihm wiederholt erteilt.
+1.2
+Mit schriftlicher Kündigung vom
+28. Februar 2017 wurde das Arbeitsverhältnis von Seiten des Arbeitgebers
+aufgelöst und es wurde vereinbart, dass auf den 1. Juni 2017 ein
+Teilzeitarbeitsvertrag mit unregelmässigem Pensum in Kraft treten werde.
+1.3
+Am 6. Juni 2017 meldete A.______ sich zum
+Bezug von Leistungen der Arbeitslosenversicherung beim RAV an. Mit Verfügung
+vom 4. Juli 2017 stellte das Amt für Wirtschaft und Arbeit A.______ für
+18 Tage, mit Beginn ab dem 6. Juni 2017, in der
+Anspruchsberechtigung ein. Am 20. Juni 2017 kündigte der Arbeitgeber den
+Teilzeitarbeitsvertrag per 31. Juli 2017.
+1.4
+Mit Verfügung vom 14. August 2017 wurde
+A.______ der Leistungsanspruch infolge Vermittlungsunfähigkeit ab dem
+6. Juni 2017 aberkannt. Am 4. September 2017 erhob A.______ sowohl
+gegen die Verfügung vom 4. Juli 2017 wie auch gegen diejenige vom
+14. August 2017 Einsprache beim Amt für Wirtschaft und Arbeit, welches
+die Einsprache gegen die Verfügung vom 4. Juli 2017 am 20. September 2017
+abwies. Gegen den Einspracheentscheid vom 20. September 2017 erhob A.______
+am 12. Oktober 2017 Beschwerde beim Verwaltungsgericht. Das Verfahren
+betreffend Einstellung in der Anspruchsberechtigung wurde durch das
+Verwaltungsgericht bis zur Rechtskraft des vorliegenden Urteils sistiert.
+1.5
+Das Arbeitsinspektorat genehmigte am 28. November 2017 ein von A.______s
+neuem Arbeitgeber eingereichtes Gesuch um Erteilung einer Arbeitsbewilligung.
+1.6
+Am 9. Januar 2018 wies das Amt für
+Wirtschaft und Arbeit die Einsprache gegen die Verfügung vom 14. August
+2017 ab.
+2.
+Am 30. Januar 2018 gelangte A.______ mit
+Beschwerde ans Verwaltungsgericht und beantragte, die Verfügung des Amts für
+Wirtschaft und Arbeit vom 14. August 2017 bzw. dessen Einspracheentscheid
+vom 9. Januar 2018 sei aufzuheben. Weiter sei ihm die unentgeltliche
+Prozessführung und Rechtsverbeiständung zu gewähren; alles unter Kosten- und
+Entschädigungsfolgen zu Lasten des Amts für Wirtschaft und Arbeit. Das Amt
+für Wirtschaft und Arbeit schloss am 13. Februar 2018 auf Abweisung der
+Beschwerde.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 1 Abs. 1 des Bundesgesetzes über die obligatorische
+Arbeitslosenversicherung und die Insolvenzentschädigung vom 25. Juni
+1982 (AVIG) i.V.m. Art. 56 ff. des Bundesgesetzes über den Allgemeinen
+Teil des Sozialversicherungsrechts vom 6. Oktober 2000 (ATSG) i.V.m.
+Art. 12 Abs. 2 des Einführungsgesetzes zum Bundesgesetz über die
+obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung vom
+6. Mai 1984 (EG AVIG) zur Behandlung der vorliegenden Beschwerde
+zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt sind, ist auf
+die Beschwerde einzutreten.
+2.
+2.1
+Der Beschwerdeführer macht geltend, es werde sowohl
+in der Verfügung vom 14. August 2017 als auch im Einspracheentscheid vom
+9. Januar 2018 zu Unrecht davon ausgegangen, dass er als vorläufig
+aufgenommene Person mit Aufenthaltsbewilligung F nicht vermittlungsfähig sei.
+Der Beschwerdegegner schliesse aus dem Erlöschen seiner Arbeitsbewilligung
+und daraus, dass kein Anspruch auf Erteilung einer Arbeitsbewilligung
+bestehe, dass die Vermittlungsfähigkeit grundsätzlich nicht gegeben sei und
+vorläufig aufgenommene Personen keinen Anspruch auf Arbeitslosenentschädigung
+hätten. Es reiche indessen aus, wenn er als vorläufig aufgenommene Person mit
+der Erteilung einer Arbeitsbewilligung bei Vorliegen einer entsprechenden
+Stelle rechnen könne. Folglich müsse im Einzelfall geprüft werden, ob er mit
+der Erteilung einer Arbeitsbewilligung hätte rechnen können, wenn er eine
+entsprechende Stelle gefunden hätte. Eine vertiefte Prüfung sei in seinem
+Fall ausgeblieben. Auch der Verweis auf die Verneinung seiner
+Vermittlungsfähigkeit durch das kantonale Arbeitsamt und das RAV seien
+äusserst knapp gehalten und es fehle eine eingehende Begründung. Stattdessen
+werde pauschal auf den Inländervorrang verwiesen, wodurch sein Anspruch auf
+rechtliches Gehör verletzt worden sei. Für seine Arbeitsstelle im Hotel
+C.______ habe er wiederholt eine Arbeitsbewilligung erhalten, eine solche sei
+ihm auch umgehend für seine neue Stelle im Hotel D.______ erteilt worden.
+Dies unterstreiche, dass er grundsätzlich vermittlungsfähig gewesen sei und
+damit habe rechnen können, eine Arbeitsbewilligung für einen Mangelberuf im
+Gastgewerbe zu erhalten.
+2.2
+Der Beschwerdegegner führt aus, die
+Arbeitsbewilligung sei an eine bestimmte Arbeitsstelle gebunden. Bei Verlust
+der Arbeitsstelle erlösche auch die Arbeitsbewilligung. Der Inländervorrang
+müsse bei jeder Beurteilung eines Gesuchs gewährleistet werden. Eine
+vorläufig aufgenommene Person könne lediglich vermittelbar sein, sofern sie
+auch arbeitsberechtigt sei. Dies müsse unter Prüfung des Inländervorrangs
+nachgewiesen werden. Der Nachweis der Arbeitsberechtigung würde aber den
+Anspruch auf Arbeitslosenentschädigung ausschliessen, da die vorläufig
+aufgenommene Person in diesem Fall eine Arbeitsstelle habe. Da die Stelle des
+Beschwerdeführers per Ende Juli gekündigt worden sei, habe er keine gültige
+Arbeitsbewilligung vorweisen können. Um eine solche zu erhalten, hätte der
+Beschwerdeführer eine Zusicherung eines Arbeitgebers nachweisen müssen. Um
+als vermittlungsfähig zu gelten und somit Anspruch auf
+Arbeitslosenentschädigung zu stellen, sei eine Arbeitsbewilligung notwendig.
+Ohne Bewilligung sei der Beschwerdeführer nicht berechtigt, eine Arbeit
+anzunehmen. Die Arbeitsberechtigung sei ein notwendiges Kriterium der
+Anspruchsvoraussetzung der Vermittlungsfähigkeit. Aufgrund der gesetzlich
+festgelegten und damit verbindlichen Stufenfolge von Art. 13 der Verordnung
+über die wirtschaftliche Hilfe und den Zugang zum Arbeitsmarkt im Asyl- und
+Flüchtlingsbereich vom 20. September 2016 (AFV) könne eine vorläufig
+aufgenommene Person nie damit rechnen, dass ihr eine Stelle bewilligt werde.
+Der Arbeitsmarktbehörde sei es nämlich nie möglich vorauszusehen, ob eine
+Arbeitsstelle aufgrund des geltenden Inländervorrangs nicht an eine andere
+Person vergeben werde. Auf Anfrage der kantonalen Amtsstelle (KAST) habe die
+zuständige kantonale Behörde wie auch das RAV verneint, dass dem
+Beschwerdeführer unter Berücksichtigung des Inländervorrangs eine
+Arbeitsbewilligung erteilt bzw. eine Stelle zugewiesen werden könne. Dadurch
+sei eine Einzelfallprüfung vorgenommen worden.
+3.
+3.1
+Der Anspruch auf Arbeitslosenentschädigung setzt
+gemäss Art. 8 Abs. 1 lit. f AVIG voraus, dass die versicherte
+Person vermittlungsfähig ist. Der Arbeitslose ist vermittlungsfähig, wenn er
+bereit, in der Lage und berechtigt ist, eine zumutbare Arbeit anzunehmen und
+an Eingliederungsmassnahmen teilzunehmen (Art. 15 Abs. 1 AVIG).
+Somit gehören zur Vermittlungsfähigkeit nicht nur die Arbeitsfähigkeit und
+die Vermittlungsbereitschaft, sondern auch die Arbeitsberechtigung. Wenn und
+solange keine Arbeitsberechtigung besteht, fehlt es auch an der
+Vermittlungsfähigkeit der versicherten Person und damit an ihrer
+Anspruchsberechtigung (BGE 126 V 376 E. 1b). Ausländer ohne
+Niederlassungsbewilligung müssen grundsätzlich über eine Arbeitsbewilligung
+verfügen oder mit einer solchen rechnen können, falls sie eine zumutbare
+Arbeitsstelle finden (Thomas Nussbaumer, in Ulrich Meyer [Hrsg.],
+Schweizerisches Bundesverwaltungsrecht, Bd. XIV, Soziale Sicherheit, 3. A.,
+Basel 2016, N. Rz. 269). Im Rahmen der Prüfung der Vermittlungsfähigkeit
+stellt die Frage nach der Arbeitsberechtigung ausländischer Staatsangehöriger
+eine Vorfrage dar (BGE 120 V 378 E. 3a). Sie beurteilt sich aufgrund einer
+individuell-konkreten und nicht einer generell-abstrakten Betrachtungsweise,
+wobei im Einzelfall zu prüfen ist, ob der Ausländer über eine
+Arbeitsbewilligung verfügt oder mit einer solchen rechnen kann (BGE 126 V 376
+E. 6a). Die Vermittlungsfähigkeit beurteilt sich prospektiv, d.h. von jenem
+Zeitpunkt aus und aufgrund der tatsächlichen Verhältnisse, wie sie bei Erlass
+der Ablehnungsverfügung bestanden hatten (vgl. zum Ganzen BGer-Urteil C 27/05
+vom 26. Juli 2005 E. 1 f.).
+3.2
+Gemäss dem Beschwerdegegner haben vorläufig
+aufgenommene Personen faktisch nie Anspruch auf Arbeitslosenentschädigung. Da
+vorläufig aufgenommene Personen aufgrund des Inländervorrangs nie mit einer
+Arbeitsberechtigung rechnen könnten, sei stets das Vorliegen einer
+Arbeitsbewilligung erforderlich. Da eine Arbeitsbewilligung aber nur im
+Hinblick auf eine konkrete Stelle erteilt wird, scheidet der Anspruch auf
+Arbeitslosenentschädigung gemäss der Argumentation des Beschwerdegegners
+wiederum aus. Dieser Auffassung des Beschwerdegegners kann nicht gefolgt
+werden, da nach dem Dargelegten auch bei vorläufig aufgenommenen Personen im
+konkreten Einzelfall zu prüfen ist, ob diese über eine Arbeitsbewilligung
+verfügen oder mit der Erteilung einer solchen rechnen können.
+3.3
+Der Beschwerdegegner bestreitet, dass keine
+Einzelfallprüfung vorgenommen und die Arbeitsberechtigung als Voraussetzung
+für die Vermittlungsfähigkeit generell-abstrakt und ohne nähere Prüfung
+verneint worden sei. Die zuständige kantonale Behörde und das RAV hätten auf
+Anfrage verneint, dass dem Beschwerdeführer unter Berücksichtigung des
+Inländervorrangs nach Art. 13 Abs. 1 und 2 AFV eine Arbeitsbewilligung
+erteilt bzw. eine Stelle zugewiesen werden könne, dadurch sei eine genügende
+Einzelfallprüfung vorgenommen worden. Diese Argumentation des
+Beschwerdegegners vermag nicht zu überzeugen, denn wie er selbst richtig
+festhält, hätte die KAST ihre Nachfrage und die darauffolgende Stellungnahme
+schriftlich festhalten und begründen müssen. Nur so hätte der
+Beschwerdegegner der sich aus dem Anspruch auf rechtliches Gehör ergebenden
+behördlichen Begründungspflicht genügen können. Eine Verletzung der Begründungspflicht
+würde grundsätzlich ohne Weiteres zur Rückweisung der Sache an den
+Beschwerdegegner führen. Da die Rückweisung der Sache jedoch zu einem
+formalistischen Leerlauf und damit zu unnötigen Verzögerungen führen würde,
+kann im vorliegenden Verfahren über die Vermittlungsfähigkeit des
+Beschwerdeführers entschieden werden, da das Verwaltungsgericht über volle
+Kognition verfügt (vgl. BGE 132 V 387 E. 5.1).
+3.4
+3.4.1
+Art. 18-26 des Bundesgesetzes über die
+Ausländerinnen und Ausländer vom 16. Dezember 2005 (AuG) regeln die
+Voraussetzungen für die Zulassung zu einem Aufenthalt in der Schweiz mit
+Erwerbstätigkeit. Dazu gehört unter anderem der vom Beschwerdegegner erwähnte
+Inländervorrang gemäss Art. 21 AuG. Von den Zulassungsvoraussetzungen kann gemäss
+Art. 30 Abs. 1 AuG unter anderem dann abgewichen werden, um die
+Erwerbstätigkeit sowie die Teilnahme an Beschäftigungsprogrammen von
+Asylsuchenden, vorläufig Aufgenommenen und Schutzbedürftigen zu regeln
+(lit. l). Gemäss Art. 85 Abs. 6 AuG können die kantonalen
+Behörden vorläufig aufgenommenen Personen unabhängig von der Arbeitsmarkt-
+und Wirtschaftslage eine Bewilligung zur Erwerbstätigkeit erteilen.
+Art. 53 Abs. 1 der Verordnung über Zulassung, Aufenthalt und
+Erwerbstätigkeit vom 24. Oktober 2007 (VZAE) hält fest, dass vorläufig
+Aufgenommenen und Schutzbedürftigen eine unselbständige Erwerbstätigkeit
+bewilligt werden kann, wenn das Gesuch eines Arbeitgebers nach Art. 18
+lit. b AuG vorliegt (lit. a) und die Arbeitsbedingungen nach Art. 22
+AuG (lit. b) eingehalten werden.
+3.4.2
+Weil Arbeitsbewilligungen grundsätzlich nur für
+eine bestimmte Arbeitsstelle erteilt werden und bei der Auflösung des
+Arbeitsverhältnisses erlöschen, verfügt der arbeitslos gewordene Inhaber
+einer Aufenthaltsbewilligung F in der Regel über keine
+Arbeitsbewilligung und hat auch keinen Anspruch auf deren Erneuerung.
+Allerdings ist ein solcher Arbeitnehmer bereits dann als vermittlungsfähig zu
+betrachten, wenn er damit rechnen kann, eine Arbeitsbewilligung zu erhalten,
+falls er eine Stelle findet (BGE 126 V 376 E. 4b; 120 V 378 E. 2c). Die
+Arbeitsberechtigung beurteilt sich wie dargelegt aufgrund einer
+individuell-konkreten Betrachtungsweise. Gilt dabei der Inländervorrang,
+bestimmt sich die Bewilligungspraxis der zuständigen Behörde durch die
+Arbeitsmarktlage. Entscheidend sind dabei die jeweilige Konjunkturlage und
+die besonderen kantonalen Verhältnisse (BGE 126 V 376 E. 6a). Art. 13
+AFV sieht zwar einen Inländervorrang vor. Damit jedoch davon ausgegangen
+werden könnte, dass der Beschwerdeführer nicht mit einer Arbeitsbewilligung
+rechnen konnte, müsste zumindest nachvollziehbar dargelegt werden, dass
+Niedriglohnstellen als Küchenhilfen zur Zeit auch durch Personen, die in der
+Stufenordnung von Art. 13 AFV höher als vorläufig aufgenommene Personen
+angesiedelt sind, nachgesucht werden. Zeigt sich hingegen, dass vorläufig
+aufgenommenen Personen trotz der Bestimmung von Art. 13 AFV für solche
+Stellen regelmässig eine Arbeitsbewilligung erteilt wird, konnte der
+Beschwerdeführer mit einer solchen rechnen.
+Aus den pauschalen
+Ausführungen des Beschwerdegegners zum Inländervorrang von Art. 13 AFV
+ergibt sich nicht, dass im vorliegenden Fall die geforderte Prüfung
+durchgeführt wurde. Vielmehr spricht die umgehend erteilte Arbeitsbewilligung
+für die neue Stelle im Hotel D.______ wie auch die zuvor wiederholt erteilte
+Bewilligung für die Stelle im Hotel C.______ dafür, dass solche
+Niedriglohnstellen zur Zeit regelmässig durch Personen besetzt werden, die in
+der Kaskade von Art. 13 AFV auf tieferer Stelle stehen. Der Beschwerdeführer
+konnte folglich – mangels anderweitiger Verweigerungsgründe – mit der
+Erteilung einer Arbeitsbewilligung rechnen und war demnach im Zeitpunkt der
+Ablehnungsverfügung entgegen der Auffassung des Beschwerdegegners vermittlungsfähig.
+Dies führt zur Gutheissung
+der Beschwerde. Die Verfügung vom 14. August 2017 und der
+Einspracheentscheid des Beschwerdegegners vom 9. Januar 2018 sind
+aufzuheben.
+III.
+1.
+Die Gerichtskosten sind
+gemäss Art. 1 Abs. 1 AVIG i.V.m. Art. 61 lit. a ATSG von
+Gesetzes wegen auf die Staatskasse zu nehmen. Dem obsiegenden
+Beschwerdeführer ist nach Art. 1 Abs. 1 AVIG i.V.m. Art. 61
+lit. g ATSG zu Lasten des Beschwerdegegners eine Parteientschädigung von
+Fr. 1'500.- (inkl. Mehrwertsteuer) zuzusprechen.
+2.
+Der Beschwerdeführer
+beantragt die Gewährung der unentgeltlichen Prozessführung und der
+unentgeltlichen Rechtsverbeiständung.
+2.1
+Da dem Beschwerdeführer keine Gerichtskosten
+aufzuerlegen sind, ist sein Gesuch um unentgeltliche Prozessführung als
+gegenstandslos geworden abzuschreiben.
+2.2
+Gemäss Art. 139 Abs. 1 des
+Verwaltungsrechtspflegegesetzes vom 4. Mai 1986 (VRG) befreit die
+Behörde eine Partei, der die Mittel fehlen, um neben dem Lebensunterhalt für
+sich und ihre Familie die Verfahrenskosten aufzubringen, auf Gesuch hin ganz
+oder teilweise von der Kosten- und Vorschusspflicht, sofern das Verfahren
+nicht aussichtslos ist. Unter denselben Voraussetzungen weisen die kantonalen
+Behörden der Partei auf Gesuch hin oder von Amtes wegen einen Anwalt als
+Rechtsbeistand zu, sofern ein solcher für die gehörige Interessenwahrung
+erforderlich ist (Art. 139 Abs. 2 VRG).
+Die Mittellosigkeit
+bestimmt sich nach den Verhältnissen im Zeitpunkt, in welchem über das Gesuch
+um unentgeltliche Rechtspflege entschieden wird (Kaspar Plüss, in Alain
+Griffel [Hrsg.], Kommentar zum Verwaltungsrechtspflegegesetz des Kantons
+Zürich, 3. A., Zürich/Basel/Genf 2014, § 16 N. 21). Dies ergibt sich
+bereits daraus, dass Art. 139a VRG die Nachzahlung der gewährten unentgeltlichen
+Rechtspflege vorsieht, sobald die Partei dazu in der Lage ist.
+Der Beschwerdeführer
+verdient in seiner Anstellung als
+Küchenhilfe
+beim Hotel D.______ seit dem 1. Dezember 2017 Fr. 3'450.-
+brutto pro Monat. Auf der Ausgabenseite fallen der praxisgemäss um 20 %
+erhöhte Grundbetrag von monatlich Fr. 1'440.- und der ebenfalls um
+20 % erhöhte Mietzins von monatlich Fr. 1'020.- an. Die
+Krankenkassenprämien von monatlich Fr. 345.- werden von der
+Asylbetreuung des Kanton Glarus übernommen. Damit ergibt sich ein
+Einnahmenüberschuss, weshalb der Beschwerdeführer nicht als mittellos im
+Sinne von Art. 139 Abs. 1 VRG gilt. Demgemäss ist sein Gesuch um
+Gewährung der unentgeltlichen Rechtsverbeiständung abzuweisen.
+Demgemäss beschliesst die Kammer
+:
+1.
+Das
+Gesuch des Beschwerdeführers um Gewährung der unentgeltlichen
+Prozessführung wird als gegenstandslos geworden abgeschrieben.
+2.
+Das Gesuch des Beschwerdeführers um Gewährung der
+unentgeltlichen Rechtsverbeiständung wird abgewiesen.
+und erkennt sodann
+:
+1.
+Die
+Beschwerde wird gutgeheissen. Die Verfügung des Beschwerdegegners vom
+14. August 2017 sowie dessen Einspracheentscheid vom 9. Januar
+2018 werden aufgehoben.
+2.
+Die
+Gerichtskosten werden auf die Staatskasse genommen.
+3.
+Der
+Beschwerdegegner wird verpflichtet, dem Beschwerdeführer innert 30 Tagen
+nach Rechtskraft dieses Entscheids eine Parteientschädigung von
+Fr. 1'500.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
