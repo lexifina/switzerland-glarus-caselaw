@@ -1,0 +1,676 @@
+---
+decision_id: "gl_gerichte_VG.2018.00012"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2018.00012"
+docket_2: "VG.2018.642"
+decided: "2018-04-19"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=933&W10_KEY=218274&nTrefferzeile=6&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-004.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/832.20/art-001.md", "switzerland/bund/acts/832.20/art-006.md", "switzerland/bund/acts/832.20/art-010.md", "switzerland/bund/acts/832.20/art-016.md", "switzerland/bund/acts/832.20/art-018.md", "switzerland/bund/acts/832.20/art-019.md", "switzerland/bund/acts/832.20/art-024.md", "switzerland/bund/acts/832.20/art-025.md"]
+---
+
+# GL Gerichte VG.2018.00012
+
+## Regeste
+
+Sozialversicherung - Unfallversicherung
+
+## Text
+
+Glarus Verwaltungsgericht 19.04.2018 VG.2018.00012 (VG.2018.642)
+Glaris Verwaltungsgericht 19.04.2018 VG.2018.00012 (VG.2018.642)
+Glarona Verwaltungsgericht 19.04.2018 VG.2018.00012 (VG.2018.642)
+
+Sozialversicherung - Unfallversicherung
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+19. April 2018
+II. Kammer
+in Sachen
+VG.2018.00012
+A.______
+Beschwerdeführer
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+Schweizerische Unfallversicherungsanstalt
+(Suva)
+Beschwerdegegnerin
+betreffend
+UVG-Leistungen
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+A.______, geboren am […], war seit dem 10. Januar
+1990 bei der C.______AG als Maschinenführer angestellt und damit bei der
+Suva obligatorisch unfallversichert. Gemäss Schadenmeldung UVG vom 5. Februar
+2016 befand er sich am Morgen des 3. Februar 2016 zu Fuss auf dem Weg
+zur Arbeit, als er von einem Auto angefahren wurde. Dadurch stürzte er und
+zog sich an der rechten Schulter eine transmulare Ruptur der
+Supraspinatussehne und der Subscapularissehne zu. Kurz nach dem
+Unfallereignis versuchten der Unfallverursacher sowie dessen Beifahrer
+A.______ zudem auszurauben, wofür sie mit Strafbefehlen vom 26. Oktober 2016
+schuldig gesprochen wurden.
+Die Suva
+erbrachte die gesetzlichen Leistungen für die Folgen des Nichtberufsunfalls
+vom 3. Februar 2016.
+1.2
+Nach medizinischen Abklärungen teilte die Suva
+A.______ am 12. Juni 2017 mit, dass sie die
+Heilkosten- und Taggeldleistungen einstellen werde. Für die bleibenden
+Unfallfolgen erhalte er eine Invalidenrente sowie eine Integritätsentschädigung.
+1.3
+Mit Verfügung vom
+6.
+Juli 2017
+sprach die Suva A.______ eine Invalidenrente
+aufgrund einer Erwerbsunfähigkeit von 26 % ab dem 1. Oktober 2017
+sowie eine Integritätsentschädigung entsprechend einem Integritätsschaden von
+25 % zu. Die am 2. August 2017 von A.______ dagegen erhobene
+Einsprache wies die Suva am 3. Januar ab.
+2.
+A.______ gelangte in der
+Folge
+mit Beschwerde vom 5. Februar
+2018 ans Verwaltungsgericht
+und
+beantragte die Aufhebung des Einspracheentscheids vom 3. Januar 2018
+sowie der Verfügung vom 6. Juli 2017. Die Suva sei zu verpflichten, ihm
+weiterhin Taggelder sowie Heilbehandlungskosten zu bezahlen. Zudem sei die
+Rente nach Abschluss der Behandlung neu festzulegen. Eventualiter sei ein
+interdisziplinäres Gerichtsgutachten einzuholen; alles unter Kosten- und Entschädigungsfolgen
+zu Lasten der Suva.
+Die Suva schloss am 16.
+März 2018 auf Abweisung der Beschwerde.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 1 Abs. 1 des Bundesgesetzes über die Unfallversicherung vom 20.
+März 1981 (UVG) i.V.m. Art. 56 ff. des Bundesgesetzes über den Allgemeinen
+Teil des Sozialversicherungsrechts vom 6. Oktober 2000 (ATSG) i.V.m. Art. 1
+des Einführungsgesetzes zum Bundesgesetz über die Unfallversicherung vom
+3. Mai 2009 (EG UVG) zur Behandlung der vorliegenden Beschwerde
+zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt sind, ist auf
+die Beschwerde einzutreten.
+2.
+2.1
+Soweit das UVG nichts anderes bestimmt, werden die
+Versicherungsleistungen bei Berufsunfällen, Nichtberufsunfällen und
+Berufskrankheiten gewährt (Art. 6 Abs. 1 UVG). Als Unfall gilt nach
+Art. 4 ATSG die plötzliche, nicht beabsichtigte schädigende Einwirkung
+eines ungewöhnlichen äusseren Faktors auf den menschlichen Körper, die eine
+Beeinträchtigung der körperlichen, geistigen oder psychischen Gesundheit oder
+den Tod zur Folge hat.
+2.2
+Ist ein Versicherter nach einem Unfall voll
+oder teilweise arbeitsunfähig, hat er nach Art. 10 Abs. 1 UVG Anspruch
+auf Übernahme der Kosten der zweckmässigen Behandlung der Unfallfolgen.
+Überdies besteht zunächst Anspruch auf ein Taggeld (Art. 16 Abs. 1 UVG).
+3.
+3.1
+Die Leistungspflicht eines Unfallversicherers
+gemäss UVG setzt zunächst voraus, dass zwischen dem versicherten
+Unfallereignis und dem eingetretenen Schaden (Krankheit, Invalidität, Tod)
+ein natürlicher Kausalzusammenhang besteht. Ursachen im Sinne des natürlichen
+Kausalzusammenhangs sind alle Umstände, ohne deren Vorhandensein der
+eingetretene Erfolg nicht als eingetreten oder nicht als in der gleichen
+Weise bzw. nicht zur gleichen Zeit eingetreten gedacht werden kann. Entsprechend
+dieser Umschreibung ist für die Bejahung des natürlichen Kausalzusammenhangs
+nicht erforderlich, dass der Unfall die alleinige oder unmittelbare Ursache gesundheitlicher
+Störungen ist; es genügt, dass das schädigende Ereignis zusammen mit anderen
+Bedingungen die körperliche oder geistige Integrität des Versicherten beeinträchtigt
+hat, der Unfall mit anderen Worten nicht weggedacht werden kann, ohne dass
+auch die eingetretene gesundheitliche Störung entfiele. Ob zwischen einem
+schädigenden Ereignis und einer gesundheitlichen Störung ein natürlicher
+Kausalzusammenhang besteht, ist eine Tatfrage, worüber die Verwaltung bzw. im
+Beschwerdefall der Richter im Rahmen der ihm obliegenden Beweiswürdigung nach
+dem im Sozialversicherungsrecht üblichen Beweisgrad der überwiegenden
+Wahrscheinlichkeit zu befinden hat. Die blosse Möglichkeit eines
+Zusammenhangs genügt für die Begründung eines Leistungsanspruchs nicht (BGE
+129 V 177 E. 3.1).
+3.2
+3.2.1
+Neben dem natürlichen Kausalzusammenhang ist für
+die Leistungspflicht des Unfallversicherers ein adäquater Kausalzusammenhang
+erforderlich.
+Ein Ereignis hat
+dann als adäquate Ursache eines Erfolges zu gelten, wenn es nach dem
+gewöhnlichen Lauf der Dinge und nach der allgemeinen Lebenserfahrung an sich
+geeignet ist, einen Erfolg von der Art des eingetretenen herbeizuführen, der
+Eintritt dieses Erfolgs also durch das Ereignis allgemein als begünstigt
+erscheint (BGE 142 III 433 E. 4.5, 129 V 177 E. 3.2, je mit Hinweisen).
+3.2.2
+Neben der allgemeinen Adäquanzformel hat die Rechtsprechung
+besondere Regeln für die Beurteilung der Adäquanz psychischer
+Fehlentwicklungen nach einem Unfall entwickelt. Danach setzt die Bejahung des
+adäquaten Kausalzusammenhangs grundsätzlich voraus, dass dem Unfallereignis
+für die Entstehung einer psychisch bedingten Erwerbsunfähigkeit eine
+massgebende Bedeutung zukommt. Dies trifft dann zu, wenn es objektiv eine
+gewisse Schwere aufweist oder mit anderen Worten ernsthaft ins Gewicht fällt.
+Für die Beurteilung dieser Frage ist an das Unfallereignis anzuknüpfen, wobei
+ausgehend vom augenfälligen Geschehensablauf eine Katalogisierung der Unfälle
+in leichte (banale), im mittleren Bereich liegende und schwere Unfälle
+vorzunehmen ist. Bei leichten Unfällen kann der adäquate Kausalzusammenhang
+zwischen Unfall und psychischen Gesundheitsstörungen in der Regel ohne
+Weiteres verneint, bei schweren Unfällen bejaht werden. Bei Unfällen aus dem
+mittleren Bereich lässt sich die Frage nicht auf Grund des Unfalls allein
+beantworten. Weitere, objektiv erfassbare Umstände, welche unmittelbar mit
+dem Unfall im Zusammenhang stehen oder als direkte bzw. indirekte Folgen
+davon erscheinen, sind in eine
+Gesamtwürdigung
+einzubeziehen. Als wichtigste Kriterien sind zu nennen: besonders dramatische
+Begleitumstände oder die besondere Eindrücklichkeit des Unfalls; die Schwere
+oder besondere Art der erlittenen (somatischen) Verletzungen, insbesondere
+ihre erfahrungsgemässe Eignung, psychische Fehlentwicklungen auszulösen; die
+ungewöhnlich lange Dauer der ärztlichen Behandlung; (körperliche)
+Dauerschmerzen; eine ärztliche Fehlbehandlung, welche die Unfallfolgen
+erheblich verschlimmert; ein schwieriger Heilungsverlauf und erhebliche
+Komplikationen; sowie der Grad und die Dauer der (physisch) bedingten
+Arbeitsunfähigkeit (vgl. BGE 115 V 133 E. 6 f.).
+3.2.3
+Sind die psychischen Fehlentwicklungen hingegen auf
+ein Schreckereignis zurückzuführen, so gilt bei der Adäquanzprüfung weiter zu
+beachten, dass bei der versicherten Person kein somatisches Geschehen
+vorliegt, sondern eine psychische Stresssituation, allenfalls verbunden mit
+einer Lebensbedrohung, wobei die obgenannten Adäquanzkriterien (vgl.
+vorstehende E. II/3.2.2) sich wegen fehlender sachlicher Übereinstimmung und
+von der Natur des Ereignisses her nicht eignen. Da für die Qualifikation
+eines Geschehensablaufs als Schreckereignis bereits an die Aussergewöhnlichkeit
+angeknüpft wird, um überhaupt als Unfall gelten zu können, kann das Kriterium
+der besonderen Eindrücklichkeit bei der Adäquanzbeurteilung nicht ein zweites
+Mal herangezogen werden. Mithin ist bei Schreckereignissen die allgemeine
+Adäquanzformel anzuwenden
+(vgl.
+zum Ganzen BGE 129 V 177 E. 4.2).
+4.
+Kann von der Fortsetzung der ärztlichen
+Behandlung keine namhafte Besserung des Gesundheitszustands erwartet werden
+und laufen keine Eingliederungsmassnahmen der Invalidenversicherung, hat der
+Versicherer den Fall unter Einstellung der vorübergehenden Leistungen
+abzuschliessen und den Anspruch auf eine Invalidenrente und auf eine
+Integritätsentschädigung zu prüfen (Art. 19 Abs. 1 UVG; BGE 137 V 199
+E. 2.1).
+Erfolgt der Fallabschluss
+zu Recht, so hat die versicherte Person
+Anspruch auf eine
+Invalidenrente, wenn sie infolge des Unfalls zu mindestens 10 % invalid
+ist
+(Art. 18 Abs. 1 UVG). Erleidet die versicherte
+Person durch den Unfall eine dauernde erhebliche Schädigung der körperlichen,
+geistigen oder psychischen Integrität, so hat sie nach Art. 24 Abs. 1 UVG
+überdies Anspruch auf eine angemessene Integritätsentschädigung, welche
+grundsätzlich mit der Invalidenrente festgesetzt oder – falls kein
+Rentenanspruch besteht – bei der Beendigung der ärztlichen Behandlung gewährt
+wird (Art. 24 Abs. 2 UVG).
+Die
+Integritätsentschädigung wird in Form einer Kapitalleistung gewährt. Sie darf
+den am Unfalltag geltenden Höchstbetrag des versicherten Jahresverdienstes
+nicht übersteigen und wird entsprechend der Schwere des Integritätsschadens
+abgestuft (Art. 25 Abs. 1 UVG).
+Gemäss Art. 25
+Abs. 2 UVG regelt der Bundesrat die Bemessung der Entschädigung. Von
+dieser Befugnis hat er in Art. 36
+der Verordnung über die Unfallversicherung vom 20. Dezember 1982 (UVV)
+Gebrauch gemacht.
+Abs. 1 dieser Vorschrift bestimmt, dass ein Integritätsschaden als
+dauernd gilt, wenn er voraussichtlich während des ganzen Lebens mindestens in
+gleichem Umfang besteht. Er ist erheblich, wenn die körperliche oder geistige
+Integrität, unabhängig von der Erwerbsfähigkeit, augenfällig oder stark
+beeinträchtigt wird. Gemäss Abs. 2 gelten für die Bemessung der
+Integritätsentschädigung die Richtlinien des Anhangs 3.
+5.
+Für die Beurteilung des
+Gesundheitszustandes und der rechtlichen Folgen sind Versicherungsträger und
+Gerichte auf Angaben ärztlicher Expertinnen und Experten angewiesen. Diese
+Angaben bilden die ausschlaggebenden Beweismittel. Nach dem Grundsatz der
+freien Beweiswürdigung (Art. 61 lit. c ATSG) haben die kantonalen Versicherungsgerichte
+die Beweise ohne Bindung an förmliche Beweisregeln umfassend und
+pflichtgemäss zu würdigen. Sie haben alle Beweismittel, unabhängig davon, von
+wem sie stammen, objektiv zu prüfen und danach zu entscheiden, ob die
+verfügbaren Unterlagen eine zuverlässige Beurteilung des streitigen Anspruchs
+gestatten (BGE 125 V 351 E. 3a). Auch den Berichten und Gutachten
+versicherungsinterner Ärzte und Ärztinnen kommt Beweiswert zu, sofern sie als
+schlüssig erscheinen, nachvollziehbar begründet sowie in sich widerspruchsfrei
+sind und keine Indizien gegen ihre Zuverlässigkeit bestehen. Die Tatsache
+allein, dass der befragte Arzt oder die befragte Ärztin in einem
+Anstellungsverhältnis zum Versicherungsträger steht, lässt nicht schon auf
+mangelnde Objektivität und auf Befangenheit schliessen. Es bedarf vielmehr
+besonderer Umstände, welche das Misstrauen in die Unparteilichkeit der
+Beurteilung objektiv als begründet erscheinen lassen. Im Hinblick auf die
+erhebliche Bedeutung, welche den Arztberichten im Sozialversicherungsrecht
+zukommt, ist an die Unparteilichkeit des Gutachters oder der Gutachterin
+allerdings ein strenger Massstab anzulegen (BGE 122 V 157 E. 1c).
+6.
+6.1
+Indem der Beschwerdeführer Anspruch auf Heilbehandlung
+und Taggelder geltend macht, rügt er sinngemäss, dass der Fallabschluss zu
+früh erfolgt sei. Sodann habe die Beschwerdegegnerin den
+Untersuchungsgrundsatz verletzt, indem sie den physischen und psychischen
+Gesundheitszustand nur ungenügend abgeklärt habe. Die Abklärungsergebnisse
+seien in rechtserheblichen Punkten nicht beweiswertig. Die Beschwerdegegnerin
+hätte sich deshalb nicht darauf abstützen dürfen. Dies führe letztlich zum
+Anspruch auf ein neutrales Gutachten, welches vom Gericht einzuholen sei.
+6.2
+Die Beschwerdegegnerin bringt demgegenüber vor, der
+Gesundheitszustand des Beschwerdeführers sei aus somatischer Sicht
+rechtsgenüglich abgeklärt worden. Es könne auf die kreisärztlichen
+Einschätzungen sowie auf den Austrittsbericht der Rehaklinik D.______
+abgestellt werden, wonach dem Beschwerdeführer eine leidensangepasste leichte
+Tätigkeit in einem Vollzeitpensum zumutbar sei. Diese Einschätzungen stünden
+nicht im Widerspruch zu den übrigen im Recht liegenden Berichten und es könne
+in antizipierter Beweiswürdigung von weiteren Abklärungen abgesehen werden.
+Sodann stünden die geklagten psychischen Beschwerden nicht in einem adäquaten
+Kausalzusammenhang zum erlittenen Unfall, da dieser als leicht einzustufen
+sei. Selbst wenn das Unfallereignis aber als mittelschwer zu qualifizieren
+sei, fehle es an den erforderlichen Adäquanzkriterien, weshalb eine
+Leistungspflicht ihrerseits entfalle. Insgesamt seien daher zu Recht nur
+somatische Beschwerden bei der Rentenbemessung berücksichtigt worden.
+7.
+Vorab ist die Frage zu
+klären, ob der Beschwerdeführer an psychischen Beschwerden leidet, welche
+kausal zum Unfallereignis vom 3. Februar 2016 sind.
+7.1
+7.1.1
+Gemäss dem Bericht der Beschwerdegegnerin vom
+14. April 2016 äusserte sich der Beschwerdeführer am 13. April 2016
+erstmals dahingehend, dass es ihm in psychischer Hinsicht nicht sehr gut
+gehe. Es sei jedoch weniger der Vorfall selbst, vielmehr habe er Angst davor,
+dass er seine rechte Schulter nicht mehr uneingeschränkt bewegen könne.
+7.1.2
+Im Kurzbericht vom 18. Januar 2017 erwähnte
+Dr. E.______, Assistenzärztin der Rehaklinik D.______, dass keine
+spezifischen Massnahmen aus dem psychosomatischen Bereich notwendig seien.
+Wenn es aufgrund der anhaltenden Problematik bezüglich Arbeit und
+Schlafstörungen zu einer psychischen Destabilisierung komme, sei eine
+therapeutische Unterstützung sinnvoll.
+7.1.3
+Am 19. Januar 2017 führte der leitende Oberarzt der
+Rehaklinik D.______ Dr. F.______, Arbeitsorientierte Rehabilitation,
+Physikalische Medizin und Rehabilitation FMH, aus, der Beschwerdeführer sei
+während des Rehabilitationsaufenthaltes psychosomatisch abgeklärt worden,
+wobei er sich offen und freundlich präsentiert habe. Aktuell wirke er in
+Bezug auf die berufliche Situation besorgt. Er habe über Schlafstörungen
+berichtet. Dennoch wirke er insgesamt psychisch stabil. In den Therapien
+zeige er eine gewisse Tendenz hin zu einem ängstlich gefärbten
+Schmerzvermeidungsverhalten. Es sei daher anzunehmen, dass die physische
+Schmerzproblematik von der psychischen Problematik teilweise überlagert
+werde. Dieser Meinung schloss sich Dr. G.______, FMH für Orthopädische
+Chirurgie und Traumatologie des Bewegungsapparates, in seinem Bericht vom 2.
+Februar 2017 an.
+7.1.4
+Im ärztlichen Attest vom 2. Februar 2018 stellte
+Dr. H.______, Fachärztin für Psychiatrie und Psychotherapie FMH, die
+Diagnosen einer posttraumatischen Belastungsstörung
+(ICD-10: F43.1), Typ I, Trauma,
+aufgrund einer unerwarteten akuten Lebensgefahr sowie eine somatoforme
+Schmerzstörung (ICD-10: F45.4) als Folge einer Traumafolgestörung. Beim Beschwerdeführer
+bestehe ein seelischer Erschöpfungszustand, eine verminderte
+Konzentrationsfähigkeit und eine niedrige Frustrationstoleranz. Es sei eine
+psychiatrisch-psychotherapeutische Behandlung indiziert, da er sich immer
+noch im Zustand der Ohnmacht und Hilflosigkeit wegen der damaligen
+lebensbedrohlichen Situation befinde, welcher er ausgeliefert gewesen sei.
+Das Ziel sei eine Traumatherapie, obschon beim Beschwerdeführer ein hohes
+Chronifizierungsrisiko bestehe, da der Vorfall bereits etwa zwei Jahre
+zurückliege. Aufgrund der psychischen Problematik bestehe im angestammten
+Beruf eine Arbeitsunfähigkeit von 60 %. Er sei nicht mehr in der Lage,
+sich mehr als drei Stunden pro Tag zu konzentrieren.
+7.2
+7.2.1
+Gestützt auf den Bericht von Dr. D.______ geht
+der Beschwerdeführer davon aus, dass die psychischen Beschwerden adäquat
+kausal zum Unfallereignis seien. Unabhängig vom anschliessend erlebten
+Raubüberfallversuch ist mit der Beschwerdegegnerin allerdings darin einig zu
+gehen, dass es sich beim Unfall, so wie er sich zugetragen hat, um einen
+leichten bzw. einen banalen Unfall handelt. Bei
+solchen Unfällen kann der adäquate
+Kausalzusammenhang zwischen Unfall und psychischen Gesundheitsstörungen in
+der Regel ohne Weiteres verneint werden
+(vgl.
+dazu obenstehende E. II/3.2.2)
+.
+7.2.2
+Selbst wenn man den Unfall aber als mittelschwer an
+der Grenze zu leicht beurteilen würde, wäre der adäquate Kausalzusammenhang
+nicht gegeben. Diesfalls wäre die Adäquanz des Kausalzusammenhangs nämlich
+nur dann zu bejahen, wenn die massgebenden Adäquanzkriterien in gehäufter
+oder auffallender Weise erfüllt sind (vgl. vorstehe E. II/3.2.2), was
+vorliegend nicht zutrifft. Dem Unfall kann weder eine besondere
+Eindrücklichkeit zugesprochen werden noch wurde der Beschwerdeführer besonders
+schwer verletzt. Sodann eignet sich das Ereignis unabhängig vom anschliessend
+erlebten Raubüberfallversuch nicht,
+psychische Fehlentwicklungen auszulösen.
+Die Dauer der ärztlichen Behandlung liegt im Rahmen
+dessen, was bei solchen Verletzungsmechanismen angenommen werden muss, wobei
+die Beschwerdegegnerin zu Recht darauf hinweist, dass die ärztliche
+Behandlung nach der erfolgten Operation am 25. Februar 2016 einzig in
+Verlaufskontrollen sowie therapeutischen und medikamentösen Massnahmen
+bestand. Sodann lassen sich bei den Akten keine Angaben hinsichtlich einer
+ärztlichen Fehlbehandlung oder eines besonders schwierigen Heilungsverlaufs
+finden. Schliesslich sind zwar Anstrengungen des Beschwerdeführers, seine
+Arbeitsunfähigkeit zu überwinden, ersichtlich und es ist nicht
+auszuschliessen, dass die Beschwerden den Beschwerdeführer im Lebensalltag in
+gewissem Masse beeinträchtigen. Diese beiden Kriterien sind aber nicht
+besonders ausgeprägt und vermögen das Ausbleiben der anderen Kriterien nicht
+auszugleichen.
+7.3
+Sodann kann Dr. H.______ nicht darin gefolgt
+werden, dass die psychischen Beeinträchtigungen als adäquat kausal zum
+versuchten Raubüberfall, welcher anschliessend an das Unfallereignis vom 3.
+Februar 2016 geschah, einzustufen sind. Wie dargelegt, ist bei psychischen
+Fehlentwicklungen nach einem Schreckereignis die allgemeine Adäquanzformel
+anzuwenden (vgl. vorstehende E. II/3.2.1 und 3.2.3). Bedient man sich
+dieser, so ergibt sich
+nach dem gewöhnlichen Lauf der Dinge und der allgemeinen
+Lebenserfahrung, dass der versuchte Raubüberfall vom 3. Februar 2016 nicht
+geeignet ist, eine psychische Störung mit einer einhergehenden
+Erwerbsunfähigkeit herbeizuführen. Beim Raubüberfall wurde der
+Beschwerdeführer gemäss Strafbefehl vom 26. Oktober 2016 zwar mit einem
+Messer und einem Pfefferspray bedroht. Es kam jedoch zu keinerlei
+Handgreiflichkeiten und der Beschwerdeführer erlitt keine Verletzungen.
+Vielmehr konnte er sich während der Bedrohungslage vom Tatort entfernen,
+worauf die beiden Täter von ihm abliessen. Ein solches Ereignis ist nicht
+geeignet, beim Beschwerdeführer einen dauernden, erheblichen psychischen
+Schaden mit anhaltender Erwerbsunfähigkeit zu verursachen. Die übliche und
+einigermassen typische Reaktion auf einen solchen Überfall dürfte erfahrungsgemäss
+darin bestehen, dass zwar eine gewisse Traumatisierung stattfindet, diese
+aber vom Opfer in aller Regel innert einigen Wochen oder Monate überwunden
+wird. Eine psychische Störung und eine lang andauernde Erwerbsunfähigkeit
+können daher nicht mehr in einem weiten Sinne als angemessene und
+einigermassen typische Reaktion auf das Schreckereignis bezeichnet werden
+(vgl. BGE 129 V 177 E. 4.3 zu einem ähnlichen gelagerten Fall, bei
+welchem das Opfer mit einer Faustfeuerwaffe bedroht und der Raub vollendet
+wurde).
+7.4
+Als Zwischenfazit ist
+festzuhalten, dass die geltend gemachten psychischen Beeinträchtigungen nicht
+adäquat kausal zum
+Unfallereignis bzw. zum versuchten Raubüberfall vom 3. Februar 2016 sind,
+weshalb die Beschwerdegegnerin diesbezüglich keine Leistungspflicht trifft.
+Dabei verweist die Beschwerdegegnerin zu Recht auf die bundesgerichtliche
+Rechtsprechung, wonach sie nicht dazu verpflichtet war, die psychischen
+Beeinträchtigungen näher abzuklären.
+8.
+8.1
+8.1.1
+Aus somatischer Sicht ist der Schadenmeldung UVG vom
+3. Februar 2016 zu entnehmen, dass sich der Beschwerdeführer durch das
+Unfallereignis Schürfwunden und Prellungen zuzog, worauf er im Spital
+I.______ behandelt werden musste. In dessen Austrittsbericht vom 5. Februar
+2016 nannten die behandelnden Ärzte als Diagnosen eine unklare Synkope, eine
+beidseitige Kontusion der Knie und eine Kontusion der rechten Schulter
+mit/bei Komplettrumptur der Supraspinatus-, der Infraspinatus-, der
+Subscapularis- sowie der langen Bizepssehne. Aufgrund dieser Verletzungen
+fand am 25. Februar 2016 im Spital I.______ eine Schulterarthroskopie und
+eine transossäre Refixation der Sehnen statt. Diese Operation sei
+komplikationslos erfolgt und der Beschwerdeführer habe bei gutem
+Allgemeinzustand nach Hause entlassen werden können (vgl. Austrittsbericht
+vom 29. Februar 2016).
+8.1.2
+Am 31. Mai 2016 führte Dr. G.______ sodann
+aus, dass es dem Beschwerdeführer nach dessen Angaben besser gehe. Er nehme
+auf die Nacht hin nur noch Irfen zu sich, ansonsten sei er aber weitgehend
+schmerzfrei. Die physiotherapeutische Behandlung sei weiterzuführen, wofür er
+ein neues Rezept ausgestellt habe. Ferner berichtete Dr. G.______ am 12.
+Juli 2016, dass das linke Knie, in welchem ab und zu stechende Schmerzen vorhanden
+seien, klinisch absolut unauffällig sei. Es sei deshalb vorerst auf weitere
+Abklärungen zu verzichten.
+8.1.3
+Am 25. Juli 2016 nahm Kreisarzt Dr. J.______,
+Facharzt für Orthopädische Chirurgie und Traumatologie des
+Bewegungsapparates, zum Gesundheitszustand des Beschwerdeführers Stellung. Er
+gelangte zur Ansicht, dass die voraussichtliche Heildauer noch etwa vier
+Monate in Anspruch nehme. Es könne zum momentanen Zeitpunkt noch keine
+sichere Prognose gestellt werden, wobei der uneingeschränkte Einsatz als
+Maschinenführer fraglich sei.
+8.1.4
+Am 19. September 2016 teilte Hausarzt
+Dr. K.______, Facharzt FMH für Allgemeinmedizin, mit, dass der
+Beschwerdeführer mit den Therapien gute Fortschritte erziele, wobei die
+Muskeln rechts ziemlich abgebaut seien. Er habe die Möglichkeit eines
+therapeutischen Arbeitsplatzes abgeklärt.
+8.1.5
+Im Bericht vom 10. November 2016 brachte
+Dr. G.______ weiter vor, die Restbeschwerden seien wohl eher gering und
+die Schultergelenksbeweglichkeit sei ordentlich. Regelmässig grössere
+Gewichte zu heben, sei sicher noch verfrüht, jedoch sei dem Beschwerdeführer
+eine leichte, die rechte Schulter nicht belastende Arbeit zu 50 % und
+bald auch zu 100 % möglich. Zurzeit nehme der Beschwerdeführer noch
+Palexia ein.
+8.1.6
+Vom 14. Dezember 2016 bis zum 18. Januar 2017
+befand sich der Beschwerdeführer in der Rehaklinik D.______. Am 29. Dezember
+2016 teilte Dr. F.______ der Beschwerdegegnerin telefonisch mit, dass
+die rechte Schulter bisher eher schonend bzw. zurückhaltend eingesetzt worden
+sei und eine gewisse Symptomausweitung bestehe. Das MRI habe eine partiell
+refixierte Sehnen-Situation gezeigt, so dass bei einer gewissen Belastung die
+Gefahr eines Risses bestehe. Es sei vorauszusehen, dass dem Beschwerdeführer
+die angestammte Tätigkeit nicht mehr zumutbar sei. Er empfehle eine
+leidensangepasste Tätigkeit mit leichter bis höchstens mittelschwerer
+Belastung. Im Austrittsbericht vom 19. Januar 2017 nannte Dr. F.______
+als Probleme bei Austritt eine Bewegungseinschränkung der rechten Schulter in
+Abduktion und Flexion, eine Kraftminderung des rechten Arms, eine Druckdolenz
+im externen Bereich vom proximalen Drittel des rechten Oberarms bis zur
+Schulter sowie ein leichtes Übergewicht. Das Ausmass der demonstrierten
+physischen Einschränkungen lasse sich mit den objektivierbaren pathologischen
+Befunden, der klinischen Untersuchung und der bildgebenden Abklärung sowie
+den Diagnosen nur teilweise erklären. Bezüglich Kraft und Beweglichkeit habe
+eine leichte Verbesserung erreicht werden können. Die angestammte Tätigkeit
+als Maschinenführer sei dem Beschwerdeführer jedoch nicht mehr zumutbar, da
+die Anforderungen zu hoch seien. Es bestehe diesbezüglich eine ärztlich
+attestierte Arbeitsunfähigkeit ab Austrittsdatum. Demgegenüber sei ihm eine
+leichte bis mittelschwere Verweistätigkeit ganztags zumutbar, ohne länger
+dauernde Arbeiten mit dem rechten Arm über Brusthöhe.
+8.1.7
+Am 13. März 2017 führte Dr. L.______,
+FMH orthopädische Chirurgie, Sportmedizin DGSP, aus, dass weitere
+fachärztliche und radiologisch diagnostische Abklärungen im Bereich der
+Lendenwirbelsäule (LWS) und des Beckens erforderlich seien. Die vom
+Beschwerdeführer geschilderte Beschwerdesymptomatik sei aufgrund der
+erhobenen Befundkonstellation gut nachvollziehbar. Wegen der eingeschränkten
+aktiven und passiven Beweglichkeit der rechten Schulter sei der
+Beschwerdeführer selbst bei alltäglichen Verrichtungen limitiert. Es seien
+verschiedene Therapiemöglichkeiten zu nennen, wodurch eine Besserung innert
+sechs Monaten erreicht werden könne. Allerdings sei eine verbleibende
+eingeschränkte Schulterbeweglichkeit und Schulterbelastbarkeit zu erwarten.
+Aufgrund der Befundkonstellation sei die aktuell attestierte Arbeitsfähigkeit
+von 100 % dauerhaft nicht realistisch umsetzbar. Dies werde auch im
+Zumutbarkeitsprofil der Rehaklinik D.______ für die angestammte Tätigkeit
+attestiert. Angemessen sei eine Tätigkeit mit einer leichten bis maximal
+mittelschweren Belastung unter Meiden von schultergelenksbelastenden Arbeiten
+mit einem Pensum von momentan 70 %. Dies schliesse eine maximale
+Gewichtsbelastung von über 15 Kilogramm, das Meiden von Elevationen über
+90 Grad sowie jegliche Überkopfarbeiten mit ein. Insofern sei der
+beschriebene berufliche Einsatz als Allrounder in der jetzigen Tätigkeit
+weder medizinisch sinnvoll noch zielführend im Sinne einer beruflichen
+Reintegration. Das aktuelle Belastungsprofil beinhalte die Zuführung von
+[…]platten per Transportband, die Bereitstellung von Europaletten und das
+Palettisieren durch den Maschinenführer (regelmässige Überkopfarbeit beim
+Palettisieren und eine Gewichtsbelastung bis 25 Kilogramm).
+8.1.8
+Am 24. April 2017 berichtete Kreisarzt
+Dr. M.______, Facharzt für Neurochirurgie, dass die aktuellen
+Beschwerden der rechten Schulter überwiegend wahrscheinlich unfallkausal
+seien. Es sei von einem stabilen Gesundheitszustand auszugehen und es bestehe
+keine demonstrierte übertriebene Schmerzhaftigkeit oder ein
+Apprehensionsverhalten. Der Beschwerdeführer habe jedoch Angst vor Schmerzen
+bei zu starken Bewegungen. Aufgrund der funktionellen Einschränkungen der
+rechten Schulter seien ihm nur noch leichte Tätigkeiten bis maximal
+Lendenniveau zumutbar. Davon ausgeschlossen seien Bewegungen oberhalb des
+Lendenniveaus, körperferne Arbeiten mit mehr als fünf Kilogramm, Rotationen
+im Schultergelenk gegen Widerstand, Tätigkeiten mit Hämmern, Schlagen oder
+vibrierenden Maschinen sowie das Besteigen von Leitern, Gerüsten und
+Abstützen. Zum Erhalt des aktuellen Bewegungsumfanges sei ein Fortsetzen der
+Physiotherapie indiziert und aufgrund der unfallkausalen strukturellen
+Veränderung und Beschwerden sei dem Beschwerdeführer eine
+Integritätsentschädigung in der Höhe von 25 % geschuldet.
+8.1.9
+Am 6. Juni 2017 äusserte sich Dr. K.______
+dahingehend, als dass der Beschwerdeführer bei der C.______AG beruflich nicht
+mehr integriert werden könne, da ihm gekündigt worden sei. In der
+angestammten Tätigkeit sei er bis zum 30. September 2017 vollständig
+arbeitsunfähig, da das von Dr. M.______ beschriebene Zumutbarkeitsprofil
+nicht erfüllt werden könne. Weil sich der Beschwerdeführer nach dem
+30. September 2017 auf dem freien Arbeitsmarkt bewerben müsse, sei ab
+dem 1. Oktober 2017 eine Anstellung bis maximal 70 % zumutbar. Ob
+dieses Pensum gesteigert werden könne, müsse in einem Zeitraum von sechs bis
+zwölf Monaten beobachtet werden. Körperferne Tätigkeiten seien dem
+Beschwerdeführer mit Gewichten bis zu fünf Kilogramm möglich, während er
+körpernah bis zu 15 Kilogramm (leichte bis mittelschwere Lasten) heben
+könne. Den Bewegungsumfang halte er im Bericht von Dr. L.______ präziser
+und praktikabler formuliert. Sicherlich seien aber jegliche Tätigkeiten über
+Schulterniveau, Arbeiten auf Gerüsten und mit Abstützen auf den rechten Arm
+und Ellbogen unzumutbar. Die Rückenschmerzen seien von untergeordneter
+Bedeutung. Allerdings würden sie im Heilbehandlungsverlauf möglicherweise
+günstig beeinflusst werden. In Bezug auf die Schulterkraft schliesse er sich
+Dr. M.______ an, wonach eine Physiotherapie zur Kräftigung bis Ende 2017
+sinnvoll sei und dann von einem Endzustand gesprochen werden könne.
+8.1.10
+Der Radiologiebefund des Spitals I.______ vom 14.
+Juli 2017 ergab eine Protusion der Bandscheibe L5/S1 mit möglichem S1-Kontakt
+rechts ohne höhergradige Neurokompressionsphänomene sowie eine Spondylosis
+deformans. Kreisarzt Dr. N.______, Facharzt für Chirurgie, hielt am 19.
+Dezember 2017 dazu fest, dass die LWS-Beschwerden unter Berücksichtigung der
+Unfallanamnese und der Biomechanik sowie des MRI-Befundes nicht überwiegend
+wahrscheinlich unfallkausal, sondern überwiegend wahrscheinlich krankhafter
+Natur und auf Verschleiss zurückzuführen seien. Dem Beschwerdeführer sei
+gestützt auf den Bericht von Dr. M.______ vom 21. April 2017 eine
+vollschichtige Arbeit, die seinem Leiden angepasst sei, zumutbar. Seit dieser
+Beurteilung sei weder eine erhebliche Veränderung dokumentiert noch sei eine
+solche medizinisch theoretisch anzunehmen. Im Übrigen berücksichtige
+Dr. M.______ gegenüber Dr. L.______ lediglich eine leichte
+Tätigkeit, dies allerdings bei einem zeitlichen Pensum von 100 %.
+Dr. L.______ gehe in seinem Parteigutachten hingegen von einer leichten
+bis mittelschweren Tätigkeit bei einem Pensum von 70 % aus, wobei er
+sich auf die angestammte Tätigkeit beziehe und dabei unberücksichtigt lasse,
+dass es um die Zumutbarkeit auf dem allgemeinen Arbeitsmarkt gehe.
+Schliesslich müsse das Zumutbarkeitsprofil gemäss Dr. M.______ aufgrund
+der Stellungnahme von Dr. K.______ nicht angepasst werden.
+8.2
+Aus den im Recht liegenden medizinischen Akten
+ergibt sich ohne Weiteres, dass dem Beschwerdeführer die angestammte
+Tätigkeit als Maschinenführer nicht mehr zumutbar ist. Soweit der
+Beschwerdeführer geltend macht, hinsichtlich seiner verbleibenden
+Resterwerbsfähigkeit könne nicht auf das kreisärztlich attestierte Zumutbarkeitsprofil
+abgestellt werden, kann ihm nicht gefolgt werden. So gingen Dr. M.______
+und Dr. N.______ übereinstimmend davon aus, dass dem Beschwerdeführer
+aufgrund der funktionellen Einschränkungen der rechten Schulter nur noch
+leichte Tätigkeiten bis maximal Lendenniveau zumutbar seien. Dem folgte auch
+die Beschwerdegegnerin in ihrem Entscheid, obschon Dr. F.______ und
+Dr. G.______ nicht nur eine leichte, sondern eine leichte bis
+mittelschwere Verweistätigkeit ganztags für zumutbar erachteten. Indem sich der
+Beschwerdeführer auf die Einschätzungen von Dr. L.______ abstützt,
+verkennt er, dass es wegen dessen Hinweises auf das Belastungsprofil in
+angestammter Tätigkeit bei der C.______AG zunächst unklar erscheint, ob sich
+seine Einschätzung auf eine leidensangepasste oder die angestammte Tätigkeit
+bezieht. Weiter führte Dr. L.______ mit Blick auf die kreisärztlichen
+Einschätzungen aus, dass selbst im Zumutbarkeitsprofil der Rehaklinik
+D.______ keine volle Arbeitsfähigkeit im ausgeübten Beruf attestiert worden sei.
+Demgemäss scheint Dr. L.______ wohl fälschlicherweise davon auszugehen,
+dass dem Beschwerdeführer kreisärztlicherseits eine volle Arbeitsfähigkeit in
+angestammter Tätigkeit attestiert worden sei, was wie dargelegt nicht der
+Fall ist und worauf auch Dr. N.______ hinweist. Demzufolge erscheint der
+Bericht von Dr. L.______ nicht als schlüssig
+,
+weshalb nicht ohne Weiteres darauf abgestellt werden kann. Sodann geht der
+Beschwerdeführer fehl darin, wenn er den Berichten von Dr. K.______
+einen höheren Beweiswert als der ärztlichen Einschätzung von
+Dr. M.______ zumessen will. So weist Dr. K.______ zwar auf eine
+Resterwerbsfähigkeit von 70 % hin. Dies bezieht er allerdings ebenfalls
+auf eine leichte bis mittelschwere Tätigkeit, womit er wie Dr. G.______
+und Dr. F.______ im Gegensatz zur Beschwerdegegnerin für den
+Beschwerdeführer nicht bloss leichte Tätigkeiten als zumutbar erachtet. Hinzu
+kommt, dass Dr. K.______ nicht näher begründet, weshalb der
+Beschwerdeführer in dieser angepassten Tätigkeit kein volles Pensum erfüllen
+kann. So begnügt er sich mit dem Hinweis darauf, dass sich der
+Beschwerdeführer nach erfolgter Kündigung ab dem 1. Oktober 2017 auf den
+freien Arbeitsmarkt bewerben müsse, was aber keineswegs eine Herabsetzung der
+Resterwerbsfähigkeit rechtfertigt. Ferner bemerkt Dr. K.______, dass
+eine künftige Steigerung in einem Zeitraum von sechs bis zwölf Monaten
+beobachtet werden müsse, weshalb auch er selbst eine Erhöhung seines
+attestierten Pensums nicht vollkommen ausschliesst.
+Insgesamt erscheinen die
+Berichte der beiden Kreisärzte hinsichtlich der gestellten Diagnosen, der
+Resterwerbsfähigkeiten und des Verlaufs der Arbeitsunfähigkeiten als
+überzeugend und nachvollziehbar, weshalb nicht zu beanstanden ist,
+dass die Beschwerdegegnerin bei ihrer
+Einschätzung darauf abstellte. Zudem verzichtete die Beschwerdegegnerin in
+antizipierter Beweiswürdigung zu Recht auf weitere Abklärungen. Ihr ist darin
+zu folgen, dass
+sich der relevante
+Sachverhalt hinsichtlich ihrer Leistungspflicht rechtsgenüglich aus den Akten
+ergibt.
+8.3
+Sodann schloss die Beschwerdegegnerin den Fall zu
+Recht am 1. Oktober 2017 ab, da ab diesem Zeitpunkt von der Fortsetzung
+der ärztlichen Behandlung keine namhafte Verbesserung mehr erreicht werden
+kann (vgl. dazu vorstehende E. II/2.3). Hierbei gilt zu beachten, dass die
+psychischen Beschwerden mangels adäquatem Kausalzusammenhang ausser Acht zu
+lassen sind. Dies trifft auch auf die LWS-Beschwerden zu, welche
+Dr. N.______ unter Hinweis auf die medizinische Literatur sowie unter Berücksichtigung
+des MRI-Befundes, der Unfallanamnese sowie der Biomechanik als nicht
+überwiegend wahrscheinlich unfallkausal taxierte. Diese Begründung erscheint
+nachvollziehbar sowie in sich schlüssig und die übrigen im Recht liegenden
+Berichte vermögen daran keine Zweifel zu erwecken. Hinsichtlich der geltend
+gemachten Kniebeschwerden ergibt sich sodann aus den Akten, dass diese keiner
+medizinischen Behandlung bedürfen bzw. als vollständig ausgeheilt zu gelten
+haben. Bezüglich der rechtsseitigen Schulterbeschwerden führte die
+Beschwerdegegnerin schliesslich zutreffend aus, dass am 1. Oktober 2017 von
+einem Endzustand gesprochen werden könne. So schätze Dr. M.______ den
+Gesundheitszustand des Beschwerdeführers bereits in seinem Bericht vom 24.
+April 2017 als stabil ein, wobei einzig noch eine physiotherapeutische
+Behandlung indiziert sei. Eine solche therapeutische Massnahme wurde sodann
+auch von Dr. L.______ erwähnt. Zwar sah dieser mittels verschiedener
+Behandlungsmöglichkeiten eine Besserung des Gesundheitszustandes innert sechs
+Monaten als erreichbar an. Er räumte jedoch selbst ein, dass keine Abheilung
+eintreten werde und gewisse Einschränkungen verbleiben würden, womit sein
+Massnahmenkatalog im Ergebnis ebenfalls auf eine Stabilisierung des
+Gesundheitszustands und nicht auf eine namhafte Verbesserung abzielte. In
+diesem Lichte ist im Übrigen auch die Ansicht von Dr. K.______ zu sehen,
+welcher den Zeitpunkt des Endzustands wegen der noch empfohlenen
+physiotherapeutischen Behandlung auf Ende 2017 legt. Daraus ergibt sich, dass
+die Beschwerdegegnerin den Fall unter Prüfung der Renten- sowie der
+Integritätsentschädigungsfrage zu Recht per 1. Oktober 2017 abschloss.
+9.
+9.1
+Hinsichtlich der Rentenprüfung wurde der von der
+Beschwerdegegnerin durchgeführte Einkommensvergleich im Übrigen zu Recht
+nicht angefochten. Sie errechnete unter Berücksichtigung aller Umstände ein
+heute erzielbares Einkommen von Fr. 57'507.83. Gegenüber dem Validenlohn
+in der Höhe von Fr. 77'202.- beträgt die daraus resultierende Erwerbseinbusse
+Fr. 19'694.17, was einem Invaliditätsgrad von 26 % entspricht.
+Dabei erweist sich insbesondere der Abzug von 15 % vom Tabellenlohn als
+gerechtfertigt.
+9.2
+Schliesslich bleibt auch die Höhe der
+Integritätsentschädigung vor Verwaltungsgericht zu Recht unbestritten. Die
+Beschwerdegegnerin legte die Integritätseinbusse aufgrund der bleibenden
+Beschwerden in der rechten Schulter mit Blick auf den Bericht von
+Dr. M.______ vom 24. April 2017 sowie gestützt auf die Richtlinien im
+Anhang 3 der UVV auf 25 % fest, was nicht zu beanstanden ist.
+Dies führt zur Abweisung
+der Beschwerde.
+III.
+Die Gerichtskosten sind von
+Gesetzes wegen auf die Staatskasse zu nehmen (Art. 1 UVG i.V.m.
+Art. 61 lit. a ATSG).
+Bei diesem Verfahrensausgang ist
+dem Beschwerdeführer keine Parteientschädigung zuzusprechen (Abs. 1 Abs. 1
+UVG i.V.m. Art. 61 lit. g ATSG e contrario).
+Demgemäss erkennt die Kammer
+:
+1.
+Die Beschwerde wird abgewiesen.
+2.
+Die Gerichtskosten werden auf die Staatskasse
+genommen.
+3.
+Es wird keine Parteientschädigung zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
