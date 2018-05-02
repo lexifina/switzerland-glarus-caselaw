@@ -1,0 +1,234 @@
+---
+decision_id: "gl_gerichte_OG.2016.00052"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2016.00052"
+docket_2: "OGZ.2018.105"
+decided: "2018-05-02"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=996&W10_KEY=218274&nTrefferzeile=3&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/173.110/art-051.md", "switzerland/bund/acts/272/art-105.md", "switzerland/bund/acts/272/art-107.md"]
+---
+
+# GL Gerichte OG.2016.00052
+
+## Regeste
+
+Anfechtung einer Kündigung
+
+## Text
+
+Glarus Obergericht 02.05.2018 OG.2016.00052 (OGZ.2018.105)
+Glaris Obergericht 02.05.2018 OG.2016.00052 (OGZ.2018.105)
+Glarona Obergericht 02.05.2018 OG.2016.00052 (OGZ.2018.105)
+
+Anfechtung einer Kündigung
+
+Kanton Glarus
+Obergericht
+Präsident
+Verfügung
+vom 2. Mai 2018
+Verfahren
+OG.2016.00052
+A.______
+Berufungskläger
+und Beklagter
+vertreten
+durch D.______
+gegen
+1. B.______
+2. C.______
+Berufungsbeklagte
+und
+Kläger
+beide
+vertreten durch E.______
+betreffend
+Anfechtung
+einer Kündigung
+Anträge des Berufungsklägers
+und Beklagten
+(gemäss Eingabe vom 21. November 2016,
+act. 41):
+1.
+Es seien die
+Dispositiv Ziffern 1, 7 und 8 des Urteils des Kantonsgerichts Glarus vom
+18. Oktober 2016 aufzuheben.
+2.
+Es seien die
+Klagebegehren Ziffer 1 und 2 (Begehren auf Missbräuchlicherklärung der
+Kündigung des Berufungsklägers vom 21. Dezember 2015 und Erstreckung des
+Mietverhältnisses) abzuweisen.
+3.
+Die Kosten
+des Verfahrens vor dem Kantonsgericht seien den Klägern zu 4/5 unter
+solidarischer Haftbarkeit aufzuerlegen. Von der Zusprechung einer
+Parteientschädigung an die Kläger sei abzusehen.
+4.
+Die Kosten
+des Verfahrens vor dem Obergericht seien unter solidarischer Haftbarkeit
+vollumfänglich den Klägern aufzuerlegen. Ausserdem seien die Kläger unter
+solidarischer Haftbarkeit zu verpflichten, dem Beklagten eine angemessene
+Parteientschädigung auszurichten.
+Anträge de
+r
+Berufungsbeklagten und Kläger
+(gemäss Eingabe vom
+16. Januar 2017, act. 46):
+1.
+Es sei die
+Berufung vom 21. November 2016 vollumfänglich abzuweisen und das Urteil des
+Kantonsgerichts Glarus vom 18. Oktober 2016 zu bestätigen.
+2.
+Eventualiter
+sei das Mietverhältnis längst möglich zu erstrecken.
+3.
+Alles unter
+Kosten- und Entschädigungsfolge zulasten des Beklagten.
+____________________
+Der
+Präsident zieht in Betracht:
+1.—
+Die Parteien
+schlossen am 4. August 2006 einen Mietvertrag über das 5 ½
+Zimmerhaus an der Liegenschaft […] (act. 3/1). A.______ (nachfolgend
+Beklagter genannt) kündigte B.______ und C.______ (nachfolgend Kläger
+genannt) am 21. Dezember 2015 das Mietverhältnis per 31. März
+2016 (act. 3/5) und machte Eigenbedarf geltend (act. 3/7). Nachdem
+anlässlich der Schlichtungsverhandlung keine Einigung erzielt werden
+konnte, reichten die Kläger beim Kantonsgericht Glarus Klage ein
+(act. 2). Mit Urteil vom 18. Oktober 2016 (act. 34) hob das
+Kantonsgericht u.a. die Kündigungen des Beklagten vom 21. Dezember
+2015 auf (Disp. Ziff. 1). Die Gerichtsgebühr wurde auf
+CHF 2'000.— festgesetzt (Disp. Ziff. 6) und zu 3/5 dem Beklagten
+und zu 2/5 den Klägern auferlegt (Disp. Ziff. 7). Zudem wurde der
+Beklagte verpflichtet, den Klägern eine reduzierte Parteientschädigung von
+CHF 1'000.— zu bezahlen (Disp. Ziff. 8). Gegen dieses Urteil
+erhob der Beklagte rechtzeitig beim Obergericht Berufung mit den
+vorgenannten Anträgen (act. 41). Der Rechtsvertreter des Beklagten
+informierte mit Schreiben vom 3. April 2018 das Obergericht, dass die
+Kläger das Mietobjekt per Ende Juni 2018 gekündigt hätten und beantragte,
+die Kosten des Berufungsverfahrens und des erstinstanzlichen Verfahrens den
+Klägern aufzuerlegen, da sie mit ihrer Kündigung des Mietverhältnisses die
+Gegenstandslosigkeit des Verfahrens verursacht hätten (act. 49). Die
+Kläger beantragen ihrerseits, die Verfahrenskosten dem Beklagten und
+Verursacher des Prozesses aufzuerlegen (act. 54).
+2.—
+a) Wird ein Mieter
+zwangsweise aus einer Mietwohnung ausgewiesen oder verlässt er diese – wie
+vorliegend – von sich aus, nachdem er eine andere Wohnung gefunden hat, und
+übergibt er sie der Vermieterschaft, sind nach der Rechtsprechung
+Beschwerdeverfahren, welche die Anfechtung der Kündigung sowie die
+Ausweisung des Mieters betreffen, als gegenstandslos abzuschreiben (BGE 131
+I 242 E. 3.3. S. 247 f.; BGer 4A_667/2015 E. 1.1. Urteil vom
+22. Januar 2016). Das Berufungsverfahren ist demzufolge infolge
+Gegenstandlosigkeit abzuschreiben (act. 49, 52 und 54), wozu das
+Obergerichtspräsidium zuständig ist (Art. 241 Abs. 2 und
+Abs. 3 ZPO; Art. 31 Abs. 2 GOG/GL).
+b) Das Gericht kann die
+Prozesskosten nach Ermessen verteilen, wenn das Verfahren als
+gegenstandslos abzuschreiben ist und das Gesetz nichts anderes vorsieht
+(Art. 107 Abs. 1 lit. e ZPO). Dabei ist zu berücksichtigen,
+welche Partei Anlass zur Klage gegeben hat, welches der mutmassliche
+Prozessausgang gewesen wäre und bei welcher Partei die Gründe eingetreten
+sind, die dazu geführt haben, dass das Verfahren gegenstandlos wurde (erwähntes
+Urteil BGer 4A_667/2015 E. 2.2.). Die nachfolgende summarische Prüfung
+des mutmasslichen Ausgangs des Berufungsverfahrens ergibt, dass die
+Berufung des Beklagten vollumfänglich abzuweisen gewesen wäre.
+3.—
+a) Der Beklagte
+macht dringenden Eigenbedarf geltend, und zwar für sich, seine Ehefrau,
+seinen Hund, seine Schwiegermutter, die krank sei und in der Schweiz
+behandelt werde, und für seinen Schwiegervater aus der Slowakei, der seine
+Frau während dem Spitalaufenthalt und den Regenerationsphasen in der
+Schweiz besuchen komme. Das Mietobjekt der Kläger sei das einzige Objekt in
+seinem Immobilien-Portfolio, welches den von ihm und seiner Familie
+benötigten Wohnraum biete (act. 10 S. 5 und 7, act. 41
+S. 3 ff., act. 15 CD ab 6'20''). Die ärztliche Behandlung seiner
+Schwiegermutter in der Schweiz wurde mit nichts bewiesen. Es ist davon
+auszugehen, dass der Beklagte lediglich für sich, seine Ehefrau und seinen
+Hund eine geeignete Wohnmöglichkeit benötigt. Somit ist der Eigenbedarf am
+(grossen) 5 ½ Zimmerhaus der Kläger nicht ausgewiesen.
+b) Im vorinstanzlichen
+Verfahren führte der Beklagte aus, dass er noch weitere (zwischen 5 und
+100) kleinere Objekte besitze, aber kein Haus oder keine Wohnung in dieser
+Grösse mitten in seinem Wirkungskreis (act. 10 S. 5 und
+act. 15 CD ab 7'10'' und ab 23'20''). In der Berufung hingegen lässt
+der Beklagte ausführen, dass er noch je ein Haus in […] und […] besitze
+(act. 41 S. 4). Damit liegt der Schluss nahe, dass sich im
+Immobilien-Portfolio des Beklagten noch andere Objekte befinden, welche
+ihm, seiner Ehefrau und seinem Hund ausreichend Wohnraum geboten hätten.
+Der Beklagte behauptet, er habe dem Mieter in […] nicht kündigen können, da
+er für dieses Mietobjekt einen zehnjährigen Mietvertrag (Dauer bis
+30. Juni 2024) abgeschlossen habe (act. 41 S. 4). Der
+Beklagte legte diesen Mietvertrag für das Objekt in […] nicht ins Recht.
+Damit ist nicht bewiesen, dass dieses Mietverhältnis bis 30. Juni 2024
+vermieterseits unkündbar ist.
+c) Die Ausführungen des
+Beklagten, er habe im Zusammenhang mit dem Wechsel der Betreiberfirma für
+das Hotel […] die Wirtewohnung verlassen müssen (act. 10 S. 5),
+vermögen die strittige Kündigung in zeitlicher Hinsicht nicht zu
+rechtfertigen. Die neue Betreiberfirma für das Hotel […] wurde im Juni 2015
+gegründet (act. 10 S. 4). Damit hätte sich das Verlassen der
+Wirtewohnung jedoch bereits in der zweiten Hälfte des Jahres 2015
+aufgedrängt.
+d) Der Beklagte erachtete die
+Kündigung des Objektes der Kläger im Dezember 2015, also nach der
+Hinterlegung des ersten Mietzinses, als eine gute Lösung, da sich die
+Familie […] so negativ über sein Haus geäussert habe (act. 10
+S. 5). Bei dieser Äusserung drängt sich das Motiv der Rachekündigung
+geradezu auf.
+4.—
+a) Aufgrund des
+ungewissen Ausgangs des Berufungsverfahrens bezüglich der strittigen
+Kündigung ist es verständlich, dass sich die Kläger nach einem geeigneten
+Mietobjekt umgesehen haben. Dass sie schliesslich fündig geworden sind,
+kann ihnen nicht zum Nachteil gereichen. Die Kläger haben mit ihrer Kündigung
+vom 26. März 2018 (act. 50) zwar die Gegenstandslosigkeit des
+vorliegenden Berufungsverfahrens herbeigeführt, jedoch rechtfertigt es
+sich, aufgrund der vorstehenden Erwägungen die Kosten des obergerichtlichen
+Verfahrens dem Beklagten aufzuerlegen (Art. 107 Abs. 1
+lit. e ZPO). Überdies ist der Beklagte zu verpflichten, den anwaltlich
+vertretenen Klägern eine Parteientschädigung zu bezahlen (vgl.
+Art. 105 Abs. 2 ZPO).
+b) Die Vorinstanz auferlegte
+ihre Kosten dem Ausgang des Verfahrens entsprechend zu 3/5 dem Beklagten
+und zu 2/5 den Klägern. Zudem wurde der Beklagte gestützt auf Art. 105
+Abs. 2 ZPO verpflichtet, den Klägern eine reduzierte
+Parteientschädigung zu bezahlen (act. 34 Disp. Ziff. 7 und 8). Diese
+Kostenauflage ist, nachdem die Berufung des Beklagten abzuweisen gewesen
+wäre, zu bestätigen.
+5.—
+M
+it
+der Gegenstandslosigkeit der Berufung ist vorliegend der Streitgegenstand
+entfallen, womit nach Massgabe von Art. 51 Abs. 1 lit. a BGG
+auch kein Streitwert im Sinne des BGG mehr besteht (dazu BSK-
+Rudin
+, N 23 und N 49 a.E.
+zu Art. 51 BGG).
+____________________
+Der
+Präsident verfügt:
+1.
+Das
+Verfahren OG.2016.00052 wird infolge Gegenstandslosigkeit der Berufung als
+erledigt abgeschrieben.
+2.
+Die
+Gerichtsgebühr wird festgesetzt auf CHF
+700.—.
+3.
+Die
+Gerichtskosten werden dem Berufungskläger auferlegt und vom geleisteten
+Kostenvorschuss bezogen.
+4.
+Der
+Berufungskläger wird verpflichtet, den Berufungsbeklagten eine
+Parteientschädigung von CHF 1'000.— zu bezahlen.
+5.
+Schriftliche
+Mitteilung an:
+[…]
