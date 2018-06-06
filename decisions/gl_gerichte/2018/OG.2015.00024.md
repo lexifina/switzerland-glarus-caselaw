@@ -1,0 +1,4263 @@
+---
+decision_id: "gl_gerichte_OG.2015.00024"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2015.00024"
+docket_2: "OGZ.2018.103"
+decided: "2018-06-06"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=955&W10_KEY=218274&nTrefferzeile=8&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/101/art-049.md", "switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-044.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-093.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/210/art-008.md", "switzerland/bund/acts/220/art-043.md", "switzerland/bund/acts/220/art-084.md", "switzerland/bund/acts/220/art-128.md", "switzerland/bund/acts/220/art-130.md", "switzerland/bund/acts/220/art-135.md", "switzerland/bund/acts/220/art-138.md", "switzerland/bund/acts/220/art-321e.md", "switzerland/bund/acts/220/art-328.md", "switzerland/bund/acts/220/art-716a.md", "switzerland/bund/acts/220/art-727.md", "switzerland/bund/acts/220/art-754.md", "switzerland/bund/acts/220/art-755.md", "switzerland/bund/acts/220/art-758.md", "switzerland/bund/acts/220/art-759.md", "switzerland/bund/acts/220/art-760.md", "switzerland/bund/acts/272/art-104.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-125.md", "switzerland/bund/acts/272/art-183.md", "switzerland/bund/acts/272/art-229.md", "switzerland/bund/acts/272/art-315.md", "switzerland/bund/acts/272/art-317.md", "switzerland/bund/acts/272/art-318.md", "switzerland/bund/acts/272/art-404.md", "switzerland/bund/acts/272/art-405.md", "switzerland/bund/acts/952.0/art-003.md", "switzerland/bund/acts/952.0/art-018.md", "switzerland/bund/acts/952.0/art-038.md", "switzerland/bund/acts/952.0/art-039.md", "switzerland/bund/acts/952.02/art-008.md"]
+---
+
+# GL Gerichte OG.2015.00024
+
+## Regeste
+
+Forderung
+
+## Text
+
+Glarus Obergericht 06.06.2018 OG.2015.00024 (OGZ.2018.103)
+Glaris Obergericht 06.06.2018 OG.2015.00024 (OGZ.2018.103)
+Glarona Obergericht 06.06.2018 OG.2015.00024 (OGZ.2018.103)
+
+-
+Kanton Glarus
+Obergericht
+Es wirken mit:
+Obergerichtspräsident Dr. iur. Thomas Nussbaumer,
+Oberrichterin Brigitte Müller, Oberrichterin Dora Brunner, Oberrichter Roger
+Feuz, Kantonsrichterin Beatrice Lienhard sowie
+Gerichtsschreiber lic. iur. Erich Hug.
+Urteil
+vom 6. Juni 2018
+Verfahren
+OG.2015.00024-30
+Glarner Kantonalbank
+Klägerin, Berufungsklägerin
+Hauptstrasse 21, 8750 Glarus
+und Berufungsbeklagte
+vertreten durch RA lic. iur. Hanspeter Wüstiner,
+Traubenstrasse 1, 8002 Zürich
+gegen
+1. A.______
+Beklagter, Berufungsbeklagter
+und Berufungskläger
+vertreten durch RA Dr. iur. Jodok Wicki und/oder
+RA Dr. iur. Clemens von Zedtwitz,
+CMS von Erlach Poncet AG,
+Dreikönigstrasse 7,
+Postfach 2991, 8022 Zürich
+2. B.______
+Beklagte, Berufungsbeklagte
+und Berufungsklägerin
+vertreten durch RA Dr. iur. Jodok Wicki und/oder
+RA Dr. iur. Clemens von Zedtwitz,
+CMS von Erlach Poncet AG,
+Dreikönigstrasse 7, Postfach 2991,
+8022 Zürich
+3. C.______
+Beklagter, Berufungsbeklagter
+und Berufungskläger
+4. D.______
+Beklagter, Berufungsbeklagter
+und Berufungskläger
+vertreten durch RA lic. iur. C.______,
+Hauptstrasse 47, Postfach 532,
+8750 Glarus
+5. E.______                                                             Beklagter,
+Berufungsbeklagter
+und
+Berufungskläger
+vertreten durch RA lic. iur. C.______,
+Hauptstrasse 47, Postfach 532,
+8750 Glarus
+6. F.______                                                             Beklagter,
+Berufungsbeklagter
+und
+Berufungskläger
+7. G.______                                                            Beklagter,
+Berufungsbeklagter
+und
+Berufungskläger
+vertreten durch RA lic. iur. Georg Friedli
+und/oder RA lic. iur. Dominik Eichenberger,
+Friedli & Schnidrig Rechtsanwälte,
+Bahnhofplatz 5, Postfach, 3001 Bern
+8. H.______
+Beklagter, Berufungsbeklagter
+und Berufungskläger
+vertreten durch RA Dr. iur. Roberto Dallafior
+und/oder RA Dr. iur. Martin Rauber,
+Nater Dallafior Rechtsanwälte AG,
+Hottingerstrasse 21, Postfach, 8024 Zürich
+9. J______ AG
+Beklagte, Berufungsbeklagte
+und Berufungsklägerin
+vertreten durch RA Dr. iur. Laurent Killias
+und/oder RAin lic. iur. Paola Wullschleger,
+Pestalozzi Rechtsanwälte AG, Löwenstrasse 1,
+8001 Zürich
+betreffend
+Forderung
+über die Anträge der Parteien
+A. der Glarner
+Kantonalbank
+(GLKB)
+I.
+Berufungsanträge
+gemäss Berufungseingabe vom 11. Mai 2015 (act. 306 S. 4):
+1.
+Das Urteil des
+Kantonsgerichts vom 19. März 2015 sei bezüglich der Dispositivziffer 1
+aufzuheben und im folgenden Sinne abzuändern:
+Es seien die
+Berufungsbeklagten A.______ bis E.______ (Bankräte), F.______ bis H.______
+(Geschäftsleitungsmitglieder) sowie die Berufungsbeklagte J.______
+(Revisionsstelle) je unter solidarischer Haftbarkeit zu verpflichten, der
+Berufungsklägerin [GLKB] CHF 33‘923‘248.00 sowie EUR 650‘507.00
+zuzüglich Zins zu 5% p.a. seit dem 27. August 2009 zu bezahlen,
+der Berufungsbeklagte
+F.______ maximal aber zu CHF 18.26 Mio. abzüglich CHF 956.00 (Verrechnung
+gemäss Widerklage) = CHF 18‘259‘044,
+der
+Berufungsbeklagte G.______ maximal aber zu CHF 19.48 Mio.,
+der
+Berufungsbeklagte H.______ maximal aber zu CHF 12‘975‘270.00,
+die
+Berufungsbeklagte J.______ AG maximal aber zu CHF 26‘285‘547.00,
+jeweils
+zuzüglich Zins zu 5% p.a. seit dem 27. August 2009.
+2.
+Das Urteil des
+Kantonsgerichts vom 19. März 2015 sei bezüglich der Dispositivziffer 2
+aufzuheben.
+3.
+Unter Kosten-
+und Entschädigungsfolgen zulasten der Berufungsbeklagten.
+II.
+Anträge zur
+Berufung der J.______ AG (gemäss Berufungsantwort vom 30. Juni 2015
+[act. 363 S. 4]):
+1.
+Es sei auf die
+Berufung der Beklagten J.______ AG gegen das Urteil des Kantonsgerichts
+Glarus vom 19. März 2015 nicht einzutreten.
+2.
+Die Berufung
+der Beklagten J.______ AG gegen das Urteil des Kantonsgerichts vom
+19. März 2015 bezüglich der Dispositiv Ziffer 1, 4, 5, und 6 sei
+abzuweisen, soweit darauf einzutreten ist.
+3.
+Der
+Rückweisungsantrag der Beklagten J.______ AG sei abzuweisen.
+4.
+Der
+Eventualantrag auf Aufhebung der Solidarhaftung sei abzuweisen, soweit
+darauf einzutreten ist.
+5.
+Unter Kosten-
+und Entschädigungsfolgen zulasten der Beklagten J.______ AG.
+III.
+Anträge zu den
+Berufungen der Forderungsbeklagten A.______ bis H.______ (gemäss
+Berufungsantwort vom 31. August 2015 [act. 375 S. 4]):
+1.
+Die Berufungen
+in den Verfahren OG.2015.00026 – OG.2015.00030 der Beklagten A.______ bis
+H.______ gegen das Urteil des Kantonsgerichts vom 19. März 2015 seien
+abzuweisen, soweit darauf einzutreten ist.
+2.
+Der
+Rückweisungsantrag der Beklagten A.______ bis H.______ sei abzuweisen.
+3.
+Unter Kosten-
+und Entschädigungsfolgen zulasten der Beklagten A.______ bis H.______.
+B. von
+A.______
+sowie B.______
+I.
+Berufungsanträge
+gemäss Berufungseingabe vom 11. Mai 2015 (act. 309
+S. 2 f.):
+1.
+Es seien
+Ziff. 1, 3, 4, 5 und 6 (Ziff. 6 jedoch nur insoweit, als den
+Berufungsklägern A.______ und B.______ keine Prozessentschädigung
+zugesprochen wurde) des Urteils des Kantonsgerichts Glarus vom
+19. März 2015 aufzuheben.
+2.
+Es sei die
+Klage der Klägerin [GLKB] gemäss den Rechtsbegehren der Berufungsbeklagten
+A.______ und B.______ in ihrer Eingabe vom 3. Januar 2014
+vollumfänglich abzuweisen, soweit darauf eingetreten werden kann.
+3.
+Die
+erstinstanzlichen Gerichtskosten seien vollumfänglich der Klägerin
+aufzuerlegen.
+4.
+Die Klägerin
+sei zu verurteilen, den Berufungsklägern A.______ und B.______ als
+Parteientschädigung für das erstinstanzliche Verfahren je eine (volle)
+Parteientschädigung von CHF 415‘889.15 zu bezahlen.
+5.
+Eventualiter zu
+den Rechtsbegehren 2 – 4 sei die Klage betreffend Ziff. 1, 3, 4, 5 und
+6 (Ziff. 6 jedoch nur insoweit, als den Berufungsklägern A.______ und
+B.______ keine Prozessentschädigung zugesprochen wurde) des Urteils des
+Kantonsgerichts Glarus vom 19. März 2015 zur Neubeurteilung an das
+Kantonsgericht zurückzuweisen.
+6.
+Eventualiter zu
+den Rechtsbegehren 1 - 5:
+a)
+Ziffer 5 und
+Ziffer 6 des Urteils des Kantonsgerichts Glarus vom 19. März 2015
+seien aufzuheben.
+b)
+Die Klägerin
+sei zu verurteilen, den Berufungsklägern A.______ und B.______ als
+Parteientschädigung für das erstinstanzliche Verfahren gemeinsam eine volle
+Parteientschädigung, ausmachend CHF 415‘889.15 zu bezahlen,
+subeventualiter gemeinsam die Hälfte einer (vollen) Parteientschädigung,
+entsprechend CHF 207‘944.60.
+c)
+Dem
+Berufungskläger A.______ sei an den erstinstanzlichen Gerichtskosten ein Anteil
+von maximal CHF 16‘153.46 aufzuerlegen, und dem Berufungskläger
+B._______ sei an den erstinstanzlichen Gerichtskosten ein Anteil von
+maximal CHF 8‘076.20 aufzuerlegen.
+7.
+Alles unter
+Kosten- und Entschädigungsfolgen zuzüglich gesetzlich geschuldeter
+Mehrwertsteuer für das erst- und zweitinstanzliche Verfahren zulasten der
+Klägerin.
+II.
+Anträge zur
+Berufung der Glarner Kantonalbank (gemäss Berufungsantwort vom
+25. August 2015 [act. 366 S. 2]):
+1.
+Es sei die
+Berufung der Klägerin abzuweisen, soweit darauf eingetreten werden kann;
+2.
+unter Kosten-
+und Entschädigungsfolge (zuzüglich gesetzlich geschuldeter Mehrwertsteuer)
+für das erst- und zweitinstanzliche Verfahren zulasten der Klägerin.
+C. von
+C.______, D.______ und E.______
+I.
+Berufungsanträge
+gemäss Berufungseingabe vom 12. Mai 2015 (act. 319 S. 3):
+1.
+Es seien die
+Ziff. 1 sowie 3 – 6 des angefochtenen Urteils des Kantonsgerichtes vom
+19. März 2015 aufzuheben.
+2.
+Es sei die
+Klage vollumfänglich abzuweisen, und es seien sämtliche Kosten des
+Verfahrens des Kantonsgerichtes sowie des Obergerichtes der Klägerin
+aufzuerlegen, unter Zusprechung angemessener Parteientschädigungen an die
+Beklagten für das Verfahren des Kantons- sowie des Obergerichtes.
+3.
+Eventuell sei
+die Angelegenheit zur ergänzenden Abklärung und Prüfung sowie
+Neubeurteilung an das Kantonsgericht zurückzuweisen, unter Kosten- und
+Entschädigungsfolge zulasten der Klägerin.
+II.
+Anträge zur
+Berufung der Glarner Kantonalbank (gemäss Berufungsantwort vom
+27. August 2015 [act. 372 S. 2]):
+1.
+Es sei die
+Berufung der Klägerin vom 11. Mai 2015 vollumfänglich abzuweisen.
+2.
+Alles unter
+Kosten- und Entschädigungsfolge zulasten der Klägerin.
+D. von
+F.______
+I.
+Berufungsanträge
+gemäss Berufungseingabe vom 11. Mai 2015 (act. 312 S. 3):
+1.
+Das Urteil vom
+19. März 2015 sei vollumfänglich aufzuheben und die Klage der
+Berufungsbeklagten [GLKB] sei abzuweisen.
+2.
+Die Kosten des
+vorinstanzlichen Verfahrens seien in der Berufung neu und nach Gesetz zu
+verlegen.
+3.
+Eventualantrag:
+Das Urteil vom
+19. März 2015 sei aufzuheben und das Verfahren an die Vorinstanz zur
+Aufnahme des Sachverhaltes und Durchführung eines Beweisverfahrens
+zurückzuweisen.
+4.
+Unter Kosten-
+und Entschädigungsfolgen zulasten der Berufungsbeklagten.
+II.
+Anträge zur
+Berufung der Glarner Kantonalbank (gemäss Berufungsantwort vom
+25. August 2015 [act. 369 S. 3]):
+1.
+Die Berufung
+der Glarner Kantonalbank sei abzuweisen.
+2.
+Unter Kosten-
+und Entschädigungsfolgen zulasten der Berufungsklägerin (GLKB).
+E. von
+G.______
+I.
+Berufungsanträge
+gemäss Berufungseingabe vom 11. Mai 2015 (act. 314 S. 2):
+1.
+Das Urteil des
+Kantonsgerichts Glarus vom 19. März 2015 sei aufzuheben.
+2.
+Die Klage sei
+abzuweisen, soweit darauf eingetreten werden kann.
+3.
+Die
+erstinstanzlichen Gerichtskosten seien vollumfänglich der Klägerin
+aufzuerlegen.
+4.
+Die Klägerin
+sei zu verurteilen, dem Beklagten G.______ für das erstinstanzliche
+Verfahren eine Parteientschädigung von CHF 1‘467‘815.00 zuzüglich
+Auslagen von CHF 10‘000.00 und Mehrwertsteuer zu bezahlen.
+5.
+Eventualiter
+(zu den Rechtsbegehren Nr. 2-4): Die Sache sei zur Neubeurteilung an
+das Kantonsgericht Glarus zurückzu­weisen.
+6.
+Eventualiter zu
+den Rechtsbegehren Nr. 1-5:
+6.1
+Ziffer 5 und
+Ziffer 6 des Urteils des Kantonsgerichts Glarus vom 19. März2015 seien
+aufzuheben.
+6.2
+Dem Beklagten
+G.______ sei an den erstinstanzlichen Gerichtskosten ein Anteil von maximal
+CHF 24‘196.00 aufzuerlegen.
+6.3
+Die Klägerin
+sei zu verurteilen, dem Beklagten G.______ für das erstinstanzliche
+Verfahren eine Parteientschädigung von CHF 1‘310‘024.00 zuzüglich
+Auslagen von CHF 10‘000.00 und Mehrwertsteuer zu leisten.
+Alles unter
+Kosten- und Entschädigungsfolgen zuzüglich Mehrwertsteuer.
+II.
+Anträge zur
+Berufung der Glarner Kantonalbank (gemäss Berufungsantwort vom
+25. August 2015 [act. 367 S. 2]):
+Die Berufung
+der Klägerin/Berufungsklägerin vom 11. Mai 2015 sei abzuweisen, soweit
+darauf eingetreten werden kann,
+unter Kosten-
+und Entschädigungsfolgen (zuzüglich Mehrwertsteuer).
+F. von
+H.______
+I.
+Berufungsanträge
+gemäss Berufungseingabe vom 11. Mai 2015 (act. 317
+S. 4 f.):
+1.
+Es sei das
+Urteil des Kantonsgerichts des Kantons Glarus vom 19. März 2015 in
+allen Teilen aufzuheben, die Klage vollumfänglich abzuweisen und die
+Klägerin zu verpflichten, dem Beklagten H.______ für das erstinstanzliche
+Verfahren eine Parteientschädigung von CHF 271‘189.20, eventualiter
+von CHF 138‘629.70 zu bezahlen.
+2.
+Eventualiter
+sei das Urteil des Kantonsgerichts des Kantons Glarus vom 19. März
+2015 in allen Teilen aufzuheben und die Sache an das Kantonsgericht des
+Kantons Glarus zur weiteren Abklärung des Sachverhalts und neuerlichen
+Entscheidung zurückzuweisen.
+3.
+Subeventualiter
+seien Dispositivziffern 5 und 6 des Urteils des Kantonsgerichts des Kantons
+Glarus vom 19. März 2015 aufzuheben und die Kosten- und
+Entschädigungsfolgen für das erstinstanzliche Verfahren wie folgt zu
+regeln:
+dem Beklagen
+H.______ seien die Gerichtskosten für das erstinstanzliche Verfahren nur im
+Umfang von maximal CHF 16‘115.15 aufzuerlegen;
+die Klägerin
+sei zu verpflichten, dem Beklagten H.______ für das erstinstanzliche
+Verfahren eine Parteientschädigung von CHF 235‘880.35, zuzüglich MwSt.
+eventualiter von CHF 98‘898.45 zuzüglich MwSt. zu bezahlen.
+4.
+Alles unter
+Kosten- und Entschädigungsfolge zulasten der Klägerin und
+Berufungsbeklagten.
+II.
+Anträge zur
+Berufung der Glarner Kantonalbank (gemäss Berufungsantwort vom
+26. August 2015 [act. 371 S. 4]):
+Es sei die
+Berufung der Klägerin und Berufungsklägerin vom 11. Mai 2015 abzuweisen,
+soweit darauf eingetreten werden kann;
+unter Kosten-
+und Entschädigungsfolgen (zuzüglich Mehrwertsteuer) zulasten der Klägerin
+und Berufungsklägerin.
+G. der
+J.______ AG
+I.
+Berufungsanträge
+gemäss Berufungseingabe vom 11. Mai 2015 (act. 308 S. 4):
+1.
+Es sei das
+Urteil des Kantonsgerichts des Kantons Glarus vom 19. März 2015
+bezüglich Dispositiv Ziff. 1, 4, 5 und 6 aufzuheben und die Klage
+bezüglich der Beklagten J.______ AG vollumfänglich abzuweisen.
+2.
+Unter Kosten-
+und Entschädigungsfolge (zuzüglich MWST) zulasten der Klägerin und
+Berufungsbeklagten.
+Eventualiter:
+1.
+Es sei das
+Urteil des Kantonsgerichts des Kantons Glarus vom 19. März 2015
+bezüglich Dispositiv Ziff. 1, 4, 5 und 6 aufzuheben und zur
+Durchführung des Beweisverfahrens und neuer Entscheidung an die Vorinstanz
+zurückzuweisen.
+2.
+Es sei gegen
+die Beklagte J.______ AG und Berufungsklägerin keine Solidarhaft
+anzuordnen.
+3.
+Unter Kosten-
+und Entschädigungsfolge (zuzüglich MWST) zulasten der Klägerin und
+Berufungsbeklagten.
+II.
+Anträge zur
+Berufung der Glarner Kantonalbank (gemäss Berufungsantwort vom
+28. August 2015 [act. 373 S. 4]):
+Es sei die
+Berufung der Klägerin und Berufungsklägerin vollumfänglich abzuweisen.
+unter Kosten-
+und Entschädigungsfolge (zuzüglich MWST) zu Lasten der Klägerin und
+Berufungsklägerin.
+_____________________________
+Vereinzelte Abkürzungserklärungen:
+aBankG
+(altes) Bundesgesetz über die Banken und
+Sparkassen vom 8. November 1934 (Bankengesetz; SR 952.0); das
+Bankengesetz wurde per 1. Januar 2009 insbesondere in Bezug auf die
+aufsichtsrechtlichen Bestim­mungen grundlegend revidiert; für den
+vorliegenden Rechtsstreit ist die in den Jahren 2005-2007 gültige
+Gesetzesfassung massgeblich (siehe den entsprechenden Gesetzestext bei
+act. 451)
+aBankV
+(alte) Verordnung über die Banken und
+Sparkassen vom 17. Mai 1972 (Bankenverordnung; SR 952.02), hier
+in der in den Jahren 2005/2007 geltenden Fassung (siehe den betreffenden
+Verordnungstext bei act. 452)
+aGOR
+(altes) Geschäfts- und
+Organisationsreglement der Glarner Kantonalbank vom 23. Dezember 2003
+(siehe die für den vorliegenden Rechtsstreit einschlägige Fassung bei
+act. 95/16)
+aKBG
+(altes) Gesetz über die Glarner
+Kantonalbank vom 4. Mai 2003 (hier in der in den Jahren 2005 bis 2007
+gültigen Fassung; siehe dazu bei act. 450)
+EBK
+Eidgenössische Bankenkommission (am
+1. Januar 2009 abgelöst durch die
+Eidgenössische
+Finanzmarktaufsicht
+[FINMA])
+GLKB
+Glarner Kantonalbank (soweit in den
+folgenden Erwägungen die GLKB als Prozesspartei gemeint ist, wird sie als
+Klägerin
+bezeichnet, in ihrer Stellung als Bank dagegen als
+GLKB
+).
+Das
+Gericht zieht in Betracht:
+I.
+Sachverhalt
+und Prozessgeschichte
+1.
+1.1
+Die Glarner Kantonalbank (Klägerin) reichte am 16. Juli 2010 beim
+Kantonsgericht Glarus eine Teilklage über eine Forderung in der Höhe von
+CHF 38‘795‘698.‑ ein (act. 2). Im Verlauf des
+erstinstanzlichen Verfahrens reduzierte sie ihre Forderung auf
+CHF 35‘751‘315.‑ (Hauptbegehren) bzw. CHF 34‘774‘164.‑
+sowie EUR 650‘507.‑ (Eventualbegehren) (act. 170
+S. 3 f.). Mit ihrem Forderungsbegehren macht die Klägerin
+Schadenersatz geltend für Verluste, die sie nach ihrer Darstellung erlitten
+hat konkret im Zusammenhang mit sechs Kreditengagements, die in den Jahren
+2005 bis 2007 getätigt wurden (act. 28 S. 5 Ziff. 6 f.;
+act. 93 Rz. 16). Für die behaupteten Kreditausfälle macht die
+Klägerin ehemalige Mitglieder des Bankrates und der Geschäftsleitung sowie
+die frühere Revisionsstelle solidarisch verantwortlich und haftbar (dabei
+jedoch nicht alle für den gesamten Betrag); im Einzelnen sind dies
+(act. 28 S. 6 Ziff. 10 ff.):
+1)
+A.______,
+Mitglied des Bankrates und zugleich dessen Präsident;
+2)
+B.______,
+Mitglied des Bankrates (am 26. Mai 2016 verstorben, worauf seine
+Erben in den Prozess nachgerückt sind [act. 442 S. 5
+Ziff. 2-5]);
+3)
+C.______,
+Mitglied des Bankrates;
+4)
+D.______,
+Mitglied des Bankrates;
+5)
+E.______,
+Mitglied des Bankrates;
+6)
+F.______,
+Angestellter der GLKB, Vorsitzender der Geschäftsleitung;
+7)
+G.______,
+Angestellter der GLKB und Mitglied der Geschäftsleitung;
+8)
+H.______,
+Angestellter der GLKB und Mitglied der Geschäftsleitung;
+9)
+J.______ AG, externe und bankengesetzliche Revisionsstelle der
+GLKB.
+1.2
+Das Kantonsgerichtspräsidium erkannte mit Verfügung vom 7. Januar
+2011, dass das Kantonsgericht zur Behandlung der Forderungsklage nicht
+zuständig sei, soweit sich diese gegen die ehemaligen Mitglieder des
+Bankrates richtet (act. 39). Auf Berufung der Klägerin hin erklärte das
+Obergericht mit Entscheid vom 1. Juli 2011 das Kantonsgericht für
+sachlich zuständig zur Beurteilung der Klage gegen alle ins Recht gefassten
+Parteien (act. 88).
+1.3
+1.3.1
+Am
+19. März 2015 erliess das Kantonsgericht nachstehendes Urteil
+(act. 290 S. 108 f.):
+1.
+Die Beklagten A.______ bis
+J.______ werden unter solidarischer Haftung gemäss Art. 759
+Abs. 1 OR verpflichtet, der klagenden Partei folgende Beträge
+nebst Zins zu
+5
+% seit
+27. August 2009
+zu bezahlen, wobei die
+CHF-Beträge und die EUR-Beträge kumulativ zu bezahlen sind:
+CHF
+EUR
+Bankrat
+A.______
+Beklagter 1
+1'356'930.—
+26'020.—
+B.______
+Beklagter 2
+678'465.—
+13'010.—
+C.______
+Beklagter 3
+678'465.—
+13'010.—
+D.______
+Beklagter 4
+678'465.—
+13'010.—
+E.______
+Beklagter 5
+678'465.—
+13'010.—
+Geschäftsleitung
+F.______
+Beklagter 6
+2'034'439.15
+39'030.—
+G.______
+Beklagter 7
+2'035'395.—
+39'030.—
+H.______
+Beklagter 8
+1'356'930.—
+26'020.—
+externe
+Revisionsstelle
+J.______ AG
+Beklagte 9
+6'106'185.—
+117'091.—
+Total
+15'603'739.15
+299'231.—
+CHF
+EUR
+2.
+Im Übrigen wird die Klage abgewiesen.
+3.
+Es wird vorgemerkt, dass das Rechtsbegehren in der
+Hauptsache eine Teilklage darstellt.
+4.
+Die Gerichtsgebühr wird festgesetzt auf gesamthaft
+CHF 450'000.—.
+5.
+Die Gerichtskosten werden zur Hälfte den Beklagten
+A.______ bis J.______ unter solidarischer Haftbarkeit im Verhältnis gemäss
+Ziffer 1 vorstehend und zur Hälfte der Klägerin auferlegt und entsprechend
+von ihnen bezogen. Die Kosten des Schlichtungsverfahrens von CHF 639
+.—
+werden den Beklagten im gleichen Verhältnis auferlegt.
+6.
+Es werden keine Parteientschädigungen zugesprochen.
+1.3.2
+Mit
+Schreiben vom 2. April 2015 (act. 295) erläuterte das
+Kantonsgericht seinen Entscheid dahingehend, dass die in
+Dispositiv-Ziff. 1 vorgesehene solidarische Haftbarkeit der Beklagten
+nicht zum Tragen komme und daher jede belangte Partei „allein die in
+Ziffer 1 des Dispositivs jeweils unter ihrem Namen aufgeführten Teilbeträge
+in CHF und EURO zu bezahlen“ habe.
+1.4
+1.4.1
+Gegen den
+Entscheid des Kantonsgerichts erhoben in der Folge alle Parteien rechtzeitig
+Berufung beim Obergericht (siehe die Übersicht bei act. 320). Die
+früheren Bankräte sowie die ehemaligen Mitglieder der Geschäftsleitung und
+die Revisionsstelle beantragen alle im Hauptstandpunkt die vollständige und
+kostenfällige Abweisung der gegen sie erhobenen Haftungsklage. Die Klägerin
+ihrerseits begehrt in ihrer Berufung an, es sei ihre (Teil)Klage im Umfang
+von
+CHF 33‘923‘248.00 so­wie EUR 650‘507.00
+zuzüglich Zins gutzuheissen und seien die Beklagten je nach Massgabe ihrer
+individuellen Mitverantwortlichkeit zur solidarischen Haftbarkeit zu
+verpflichten.
+1.4.2
+Die vom
+Obergericht unter den Prozessnummern OG.2015.00024-30 erfassten Berufungen
+betreffen denselben Rechtsstreit; sie wurden daher unter dem Verfahren
+OG.2015.00024 vereinigt (Art. 125 lit. c ZPO; dazu
+Seiler
+, Die Berufung nach ZPO, Zürich
+2013, N. 1061 und N 1065) und gemeinsam behandelt (act. 320).
+1.4.3
+Das
+Obergericht wickelte den Berufungsprozesses im schriftlichen Verfahren ab.
+Mit Schreiben vom 3. November 2016 (act. 444) erklärte das Obergericht
+den umfangreichen Schriftenwechsel für abgeschlossen und kündigte den
+Parteien die materielle Behandlung der Streitsache an. Bereits zuvor, mit
+Schreiben vom 31. August 2016 (act. 430), wurde den Parteien die
+Besetzung des Gerichts bekannt gemacht, wobei allerdings in der Folge eine
+Oberrichterin zufolge Rücktritts zu ersetzen war, was den Parteien ebenfalls angezeigt
+worden ist (act. 455).
+1.4.4
+Am 6. Juni
+2018 fällte das Obergericht seinen Entscheid (act. 458).
+1.5
+Widerklagen
+sind nicht mehr Prozessthema
+Das Kantonsgericht hat in seinem Entscheid
+vom 19. März 2015 auch über die beiden Widerklagen von F.______ und der
+J.______ AG befunden (act. 290 S. 109 Dispositiv-Ziff. 7 –
+15). Hiergegen ist von keiner Partei Berufung erhoben worden, womit über die
+Widerklagen rechtskräftig entschieden ist (Art. 315 Abs. 1 ZPO e
+contrario).
+II.
+Formelle
+Erwägungen
+1.
+Novenrecht
+1.1
+Am
+1. Januar 2011 ist die eidgenössische Zivilprozessordnung in Kraft
+getreten. Die Glarner Kantonalbank hatte die hier streitgegenständliche
+Verantwortlichkeitsklage bereits am 16. Juli 2010 beim Kantonsgericht
+als Erstinstanz eingereicht (act. 2), weshalb das vorinstanzliche
+Verfahren noch nach Massgabe der Glarner Zivilprozessordnung abzuwickeln war
+(Art. 404 Abs. 1 ZPO). Für das vorliegende Berufungsverfahren
+gelangen hingegen die Bestimmungen der eidgenössischen Zivilprozessordnung
+zur Anwendung, nachdem das Kantonsgericht den angefochtenen Entscheid am
+19. März 2015 gefällt hat (Art. 405 Abs. 1 ZPO).
+1.2
+Zu den
+Eigenheiten des Glarner Zivilprozesses gehörte, dass im schriftlichen
+Verfahren sämtliche Beweismittel grundsätzlich mit der Klageschrift dem
+Gericht einzureichen waren (Art. 50 ZPO/GL). Hernach konnten die
+Parteien neue Tatsachen und Beweise erst wieder in einem allfälligen
+Berufungsverfahren vor Obergericht vorbringen (Art. 299 Abs. 2
+Satz 1 ZPO/GL; siehe auch Art. 301 Abs. 3 und Art. 302
+Abs. 2 ZPO/GL). Einzig wenn eine Partei vor erster Instanz säumig blieb,
+war sie vor Obergericht auf Vorbringen beschränkt, die sie nicht schon vor
+erster Instanz hätte vortragen können (sogenannte echte Noven, Art. 299
+Abs. 2 Satz 2 ZPO/GL). Das Obergericht hat dabei in konstanter
+Praxis den Begriff der Säumnis eng verstanden und allein nur auf denjenigen
+Fall bezogen, dass eine beklagte Partei der vorinstanzlichen Verhandlung
+ferngeblieben ist oder – im schriftlichen Verfahren – keine Klageantwort
+eingereicht hat. Im Regelfall konnten somit im Glarner Zivilprozess die
+Parteien stets zweimal ohne Einschränkung neue Tatsachen und Beweise
+vorbringen: einmal vor erster Instanz und ein zweites Mal im
+Berufungsverfahren.
+Unter der nun geltenden eidgenössischen
+Zivilprozessordnung kann im ordentlichen Verfahren jede Partei sich ebenfalls
+zweimal unbeschränkt äussern und dabei Behauptungen und Beweise vortragen;
+nur hat dies im Unterschied zur vorherigen kantonalen Regelung noch vor der
+ersten Instanz zu geschehen (Art. 221 Abs. 1 lit. d und e
+sowie Art. 229 Abs. 2 ZPO; BGE 140 III 312 E. 6.3.2.3).
+Im Berufungsstadium sind dagegen Noven grundsätzlich nicht mehr zulässig bzw.
+können solche nur noch unter sehr einschränkenden Voraussetzungen eingebracht
+werden (Art. 317 Abs. 1 ZPO).
+1.3
+Die
+Vorinstanz hat diese Inkongruenz zwischen dem früheren Glarner Prozessrecht
+und den eidgenössischen Zivilprozessregeln und deren Tragweite bei einem
+Streitverfahren im Übergangsstadium zwischen diesen beiden Regelwerken
+erkannt und hat darum den Parteien die Möglichkeit eingeräumt, im
+erstinstanzlichen Verfahren Noven entgegen der damaligen Glarner Regelung
+auch noch im Rahmen des zweiten Schriftenwechsels (Replik und Duplik)
+vorzubringen (act. 155), wovon in der Folge unter anderem die Klägerin
+Gebrauch gemacht hat (act. 171).
+1.4
+1.4.1
+Namentlich die Beklagten G.______ und H.______ wenden in ihren
+Berufungen ein, die Vorinstanz habe die einschlägigen prozeduralen Regeln des
+damaligen Glarner Prozessrechts eigenmächtig und zu Unrecht ausser Kraft
+gesetzt, weshalb die von der Klägerin im erstinstanzlichen Verfahren erst mit
+der Replik vorgebrachten neuen Tatsachen und Beweismittel nicht mehr hätten
+berücksichtigt werden dürfen. Denn die Übergangsbestimmungen der
+eidgenössischen ZPO sowie die dazugehörigen Materialien böten keine Grundlage
+für das von der Vorinstanz gewählte eigenwillige Vorgehen; entgegen der
+Annahme der Vorinstanz habe zudem auch nicht ein "Härtefall"
+bestanden (dazu act. 290 S. 33). Als nämlich die Klägerin am
+19. Oktober 2011 die begründete Klageschrift (act. 93) eingereicht
+habe, sei die neue eidgenössische ZPO bereits in Kraft gestanden und habe
+daher die Klägerin gewusst, dass sie in einem allfälligen späteren Rechtsmittelverfahren
+keine neuen Tatsachen und Beweise mehr würde in den Prozess einbringen
+können. Erst recht hätte sie darum nach Massgabe der im Erstverfahren noch
+anwendbaren Glarner Regeln sämtliche Tatsachen und Beweise eben bereits mit
+der Klageschrift vorbringen müssen (act. 314 Rz. 179-189;
+act. 317 Rz. 89-104).
+1.4.2
+Dem
+Standpunkt der Beklagten G.______ und H.______ kann nicht gefolgt werden.
+Sowohl die
+auf das vorinstanzliche Verfahren noch anwendbar gewesene
+ZPO/GL als auch die für das vorliegende Berufungsverfahren geltende ZPO/CH
+lassen je als Ganzes gesehen bei einem Rechtsstreit über zwei Instanzen zu,
+dass
+zweimal
+unbeschränkt Tatsachenbehauptungen und Beweismittel
+vorgebracht werden können (siehe einerseits Art.
+39 f.
+i.V.m. Art. 56 und Art. 87 ZPO/GL sowie Art. 299 Abs. 2
+ZPO/GL
+und andererseits Art. 221 und Art. 229 Abs. 2
+ZPO/CH; hierzu BGE 140 III 312 E. 6.3.2.3 m.w.H.). Würden nun in der
+hier speziellen Konstellation – Glarner Prozessrecht im erstinstanzlichen
+Stadium, eidgenössische ZPO im Rechtsmittelverfahren – die je spezifischen
+Prozessbestimmungen wortgetreu angewendet, hätte dies zur Folge, dass die
+Parteien über beide Instanzen betrachtet lediglich einmal unbeschränkt
+Tatsachen und Beweise vorbringen dürften, konkret in der ersten Instanz (nach
+Massgabe des Glarner Prozessrechts), nicht mehr aber in zweiter Instanz, weil
+die eidgenössische ZPO dies ausschliesst. Dies ist im Ergebnis unbillig.
+Vielmehr ist dem in beiden involvierten Prozessordnungen statuierten Recht
+der Parteien, zweimal unbeschränkt Tatsachen und Beweise vorzutragen, auch im
+vorliegenden Prozess zum Durchbruch zu verhelfen. Dies nicht zuletzt aufgrund
+des verfassungsrechtlich garantierten Anspruchs der Parteien auf ein faires
+Verfahren (Art. 29 BV) und zumal keine der Parteien die beschriebene
+besondere übergangsrechtliche Konstellation zu vertreten hat. Die kritisierte
+vorinstanzliche Handhabung des Novenrechts ist daher nicht zu beanstanden.
+Daran ändert auch der Umstand nichts, dass im Zeitpunkt, als die Klägerin im
+Herbst 2011 ihre Klageschrift noch nach Massgabe der Glarner Prozessordnung
+verfasst hatte, "im Hintergrund" für neue Verfahren bereits die
+eidgenössische ZPO galt.
+2.
+Klageänderung
+2.1
+Bei
+Einleitung des Verfahrens vor dem Vermittleramt Glarus-Riedern machte die
+Klägerin gegenüber den Beklagten eine Forderung in Höhe von
+CHF 38‘795‘698.‑ geltend (act. 1). In ihrer Klagebegründung
+vor Vorinstanz bezifferte die Klägerin den Forderungsanspruch auf
+CHF 38‘626‘698.‑ (act. 93 S. 4 Rechtsbegehren
+Ziff. 1), ehe sie in der Replik die Forderung auf noch
+CHF 35‘751‘315.‑ reduzierte (Hauptbegehren) bzw. im
+Eventualbegehren auf CHF 34‘774‘164.‑ und EUR 650‘507.‑
+(act. 170 S. 3 Rechtsbegehren Ziff. 1 und Ziff. 2).
+Die Vorinstanz beurteilte die nachträgliche
+Aufteilung der eingeklagten Forderungssumme in CHF und EUR entgegen den
+Einwendungen von beklagtischer Seite (siehe etwa act. 222
+Rz. 17 ff.) als zulässige Klageänderung und legte in ihrem
+Entscheid in Anlehnung an das Eventualbegehren die Zahlungsverpflichtungen in
+CHF und EUR fest (act. 290 S. 31 f. E. 10 sowie
+S. 108 Dispositiv-Ziff. 1).
+2.2
+Die von der
+Vorinstanz bejahte Zulässigkeit der Klageänderung ist im vorliegenden
+Berufungsverfahren strittig. Der mehrfach vorgebrachte Einwand geht dahin,
+dass effektiv gar keine Klageänderung vorliege, da die Klägerin sowohl in der
+Klageeingabe als auch in der Replik unverändert an denselben Ansprüchen
+festgehalten habe. Mit der Aufteilung ihrer Forderung in der Replik in CHF
+und EUR habe die Klägerin lediglich einen Fehler in ihrer ersten Eingabe
+behoben, hätte sie nämlich im Lichte von Art. 84 Abs. 1 OR bereits
+in ihrer ersten Eingabe einen Teil der Forderung in EUR geltend machen
+müssen, soweit der behauptete Schaden auf Kreditausfälle in dieser Währung
+zurückgeführt werde (act. 309 Rz. 84-88; act. 314
+Rz. 190-194; act. 317 Rz. 105-110).
+2.3
+Das
+erstinstanzliche Verfahren stand noch unter den Regeln des kantonalen
+Zivilprozessrechts (Art. 404 Abs. 1 ZPO; siehe dazu oben
+E. II. 1.1.). Gemäss
+Art. 89 Abs. 1 ZPO/GL konnte der
+Kläger bis zum Abschluss des Hauptverfahrens im
+Rahmen
+der Zuständigkeit des angerufenen Gerichts einen anderen oder weiteren
+Anspruch stellen, sofern der neue Anspruch mit dem bisher geltend gemachten
+in engem Zusammenhang steht. Das Gericht konnte die Änderung der Klage
+ablehnen, wenn durch sie die Rechtsstellung der beklagten Partei wesentlich
+beeinträchtigt oder das Verfahren ungebührlich verzögert wurde (Abs. 2).
+Vorliegend stützt die Klägerin die eingeklagten
+Ersatzansprüche konkret auf sechs Kreditengagements, die aus ihrer Sicht
+wegen Pflichtversäumnissen der Beklagten gescheitert sind (siehe dazu weiter
+unten E. III.D.). Damit ist der Lebensvorgang, aus dem die Klägerin ihr
+Forderungsbegehren herleitet, vollständig und klar umrissen. Indem die
+Klägerin in Hinsicht auf diesen Lebenssachverhalt ihre Forderung zunächst
+ausschliesslich in CHF beziffert, später in der Replik, und damit noch vor
+Abschluss des Hauptverfahrens (Art. 56 i.V.m. Art. 38 ff.
+aZPO/GL), einen Teil der Forderung nunmehr in EUR verlangt, hat sie ihr
+Rechtsbegehren mit Blick auf Art. 89 Abs. 1 ZPO/GL in zulässiger Weise
+und noch rechtzeitig geändert (zum Tatbestand der Klageänderung siehe
+Guldener
+, Schweizer Zivilprozessrecht,
+Zürich 1979, S. 202). Wäre in einer solchen Konstellation eine
+Klageänderung nicht zulässig, müsste ein Kläger ohne sachlich
+nachvollziehbaren Grund jeweils ein neues Verfahren über den behaupteten
+Fremdwährungsanspruch anheben. Dass dies der Prozessökonomie abträglich ist,
+hat bereits die Vorinstanz zutreffend erkannt; es kann daher ergänzend auf
+deren Erwägungen verwiesen werden (
+act. 290
+S. 31 f. E. 10)
+.
+Lediglich der Vollständigkeit halber ist anzufügen, dass
+vorliegend die Klägerin von den Beklagten nicht gestützt auf die einzelnen
+Kreditverträge die Rückzahlung ausstehender Kreditschulden fordert, sind doch
+die Beklagten nicht Parteien der betreffenden Kreditverträge. Vielmehr macht
+sie ihnen gegenüber verantwortungsrechtliche Ansprüche im Sinne von
+Art. 754 bzw. Art. 755 OR geltend, welche grundsätzlich in
+Schweizer Währung gefordert werden können (zutreffend die Klägerin in
+act. 170 Rz. 443 f.). Insofern hätte die Vorinstanz sich in
+ihrem Entscheid ohne weiteres auch an das Hauptbegehren der Klägerin halten
+können, in welchem ausschliesslich Schadenersatz in hiesiger Währung geltend
+gemacht wird und hätte so der Diskussion über die Zulässigkeit einer
+Klageänderung aus dem Weg gehen können.
+III.
+Materielle
+Erwägungen
+A.
+Die in den
+Prozess involvierten Parteien
+1.
+Die
+Glarner Kantonalbank (GLKB)
+1.1
+Die hier zu
+beurteilende Verantwortlichkeitsklage der Klägerin geht auf Kreditvergaben in
+den Jahren 2005 – 2007 zurück. Damals war die GLKB als selbständige Anstalt
+des öffentlichen Rechts mit eigener Rechtspersönlichkeit organisiert (Art. 1
+Abs. 1 aKBG). Der Kanton stellte der GLKB das erforderliche Grund- bzw.
+Dotationskapital bereit (Art. 8 aKBG) und gewährte ihr umfassende
+Staatsgarantie, indem der Kanton im Aussenverhältnis für alle
+Verbindlichkeiten der Bank haftet, soweit deren eigene Mittel nicht
+ausreichen (Art. 5 Abs. 1 aKBG; siehe dazu auch
+Strasser,
+in:
+in:
+Watter/Vogt/Bauer/Winzeler [Hrsg.], Basler Kommentar, Banken­gesetz, Basel
+2005,
+N 48-50 zu Art. 3a).
+1.2
+Organe
+der GLKB waren (Art. 12 aKBG):
+- der
+Bankrat;
+- die Geschäftsführung;
+- die
+externe Revisionsstelle.
+1.2.1
+Dem
+Bankrat oblag die Oberleitung der Bank sowie die Aufsicht und Kontrolle der
+Geschäftsführung (Art. 15 aKBG sowie Art. 43 Abs. 1 und
+Art. 50 Abs. 1 aGOR). Wahlbehörde für die Mitglieder des Bankrates
+war der Landrat (Kantonsparlament) (Art. 23 lit. a aKBG). Den
+Vorsitz des Bankrates hatte der Bankpräsident inne (Art. 13 Abs. 1
+und Art. 18 aKBG), welcher die Bank nach aussen vertrat, insbesondere
+auch im Landrat (Art. 18 Abs. 2 aKBG). An den Sitzungen des
+Bankrats nahm jeweils auch der CEO der Bank (dazu gleich nachstehend) mit
+beratender Stimme teil (Art. 58 aGOR). Innerhalb des Bankrates bestanden
+drei ständige Ausschüsse: der Strategie- und Personalausschuss, der
+Prüfungsausschuss sowie der Risikoausschuss (Art. 16 Abs. 1 aKBG
+sowie Art. 62 und Art. 64 aGOR).
+1.2.2
+Die
+Geschäftsführung war zuständig für die gesamte Führung der Geschäfte und die
+Vertretung der Bank nach aussen (Art. 19 Abs. 1 aKBG und
+Art. 75 Abs. 1 GOR); als Vorsitzender amtete der Chief Executive
+Officer [CEO] (Art. 74 Abs. 1 aGOR), wobei das ganze Gremium unter
+der unmittelbaren Aufsicht des Bankpräsidenten stand (Art. 73
+Abs. 2 aGOR). Die Wahl der Mitglieder der Geschäftsführung bzw.
+Geschäftsleitung (so die Terminologie in Art. 73 ff. aGOR) fiel in
+die Zuständigkeit des Bankrates (Art. 15 lit. c aKBG sowie
+Art. 51 Ziff. 4 lit. a und Art. 74 Abs. 1 aGOR).
+Auf der Stufe der Geschäftsleitung bestand
+ein Kreditausschuss, wobei allerdings dieser Ausschuss zumindest im aGOR nicht
+erwähnt ist (irreführend die Vorinstanz mit ihrem Verweis auf die Ausschüsse
+des Bankrates, act. 290 S. 60 E. 17.1.3.). Gemäss der ab
+1. Mai 2005 geltenden Kompetenzordnung der GLKB gehörten dem
+Kreditausschuss der CEO sowie der Bereichsleiter Privatkunden und der
+Bereichsleiter Geschäftskunden an (act. 95/76 S. 2 Legende: „KAS“),
+mithin alles Personen der oberen Führungsebene (Art. 72 Abs. 2
+lit. a und b sowie Art. 74 Abs. 1 aGOR). In die Zuständigkeit
+des Kreditausschusses fielen Entscheidungen über Kreditausleihungen ab CHF
+2 Mio. (Privatkunden) bzw. ab CHF 10 Mio. (Geschäfts-
+bzw. Firmenkunden) bis zur Höhe von 10 % der Bankeigenmittel
+(act. 95/76 S. 10 Ziff. 1 und S. 14 Ziff. 1 i.V.m.
+S. 3 Ziff. 13).
+1.2.3
+Für die
+Wahl der externen (obligationenrechtlichen) Revisionsstelle im Sinne von
+Art. 727 OR (siehe dazu Art. 20 aKBG) war der Landrat zuständig
+(Art. 23 lit. b aKBG). Weil indes die GLKB unbestrittenermassen dem
+Bankengesetz unterstellt ist, muss neben der eben erwähnten externen
+Revisionsstelle zusätzlich noch eine bankengesetzliche Revisionsstelle
+installiert sein (Art. 18 Abs. 1 aBankG; siehe auch Art. 21
+aKBG). Die Wahl dieser bankengesetzlichen Revisionsstelle oblag dem Bankrat
+(Art. 15 lit. e aKBG; Art. 51 Ziff. 4 lit. c aGOR).
+Dem Landrat stand es im Rahmen seiner
+Wahlkompetenz frei, die vom Bankrat eingesetzte bankengesetzlichen
+Revisionsstelle zugleich auch als externe Revisionsstelle zu wählen
+(Art. 20 Abs. 1 2. Satz aKBG) und damit den
+obligationenrechtlichen und den bankengesetzlichen Prüfauftrag bei einer
+Kontrollinstanz zusammenzufassen. Letzteres entsprach jedenfalls im hier
+interessierenden Zeitraum 2005 – 2007 gängiger Praxis im schweizerischen
+Bankenwesen (
+Watter,
+in:
+Watter/ Vogt/Bauer/Winzeler [Hrsg.], Basler Kommentar, Bankengesetz,
+Basel 2005, N 15 zu
+Art. 18).
+2.
+A.______
+A.______ gehörte von Juli 1987 bis Januar
+2008 dem Bankrat an. Seit Juli 1990 bis zu seinem Rücktritt amtete er als
+Bankpräsident (act. 93 Rz. 39 und act. 143 Rz. 81).
+Als Bankpräsident hatte A.______ die Bank
+nach aussen zu vertreten sowie die Tätigkeit der Geschäftsführung zu
+überwachen und den Bankrat darüber zu informieren (Art. 18 Abs. 1
+und 2 aKBG; siehe ferner Art. 69 aGOR). Gemeinsam mit dem CEO hatte er
+den Kontakt und den Informationsfluss zwischen dem Bankrat und der
+Geschäftsleitung ausserhalb der Sitzungen sicherzustellen (Art. 71
+Abs. 1 aGOR). Von Amtes wegen nahm er zudem Einsitz in den ständigen
+Ausschüssen des Bankrates, war darin aber vom Vorsitz ausgeschlossen (Art. 64
+Abs. 2 aGOR).
+3.
+B.______
+Der inzwischen verstorbene B.______ war von
+Mai 1989 bis Januar 2008 Bankrat, wobei er ab September 1999 als
+Vizepräsident des Gremiums fungierte. Er präsidierte den Risikoausschuss des
+Bankrates (act. 93 Rz. 42 und 44; act. 143 Rz. 81).
+4.
+C.______
+C.______ war von Juli 1996 bis Juni 2009
+Mitglied des Bankrates. Ab 2003 hatte er das Präsidium des Strategie- und
+Personalausschusses inne (act. 93 Rz. 45 und 47; act. 141
+S. 11).
+5.
+D.______
+Die Amtszeit von D.______ als Bankrat
+dauerte von Juli 2002 bis Dezember 2008; er stand dem Prüfungsausschuss vor
+(act. 93 Rz. 48 und 50; act. 141 S. 11).
+6.
+E.______
+E.______ amtierte von Juli 2002 bis Dezember
+2008 als Bankrat. Er hatte Einsitz im Strategie- und Personalausschuss
+(act. 93 Rz. 51 und 53; act. 141 S. 11).
+7.
+F.______
+Ab Sommer 2002 bis zu seinem Ausscheiden aus
+der Bank im März 2008 war F.______ Vorsitzender der Geschäftsleitung (Chief
+Executive Officer [CEO]). Ab Anfang Oktober 2005 bis Ende Juli 2006 leitete
+er interimistisch den Bereich Geschäftskunden. In seiner Funktion als CEO
+gehörte er dem Kreditausschuss an (siehe dazu oben E. 1.2.2.), dessen
+Vorsitz er von Ende September 2005 bis Anfang September 2006 innehatte
+(act. 93 Rz. 56; act. 151 Rz. 270).
+8.
+G.______
+Gemäss den Angaben der Klägerin war G.______
+zeit seiner Anstellung bei der GLKB von Juli 2002 bis März 2009 Mitglied der
+Geschäftsleitung. Konkret soll er den Bereich Privatkunden geleitet und zudem
+ab Januar 2005 dem Kreditausschuss angehört haben (act. 93 Rz. 59;
+act. 221 Rz. 220).
+G.______ macht in der Berufung, wie bereits
+erstinstanzlich (act. 145 Rz. 576), erneut geltend, seine
+Zugehörigkeit zur Geschäftsleitung bzw. die damit behauptete Organstellung
+sei nicht rechtsgenügend nachgewiesen. Folglich sei seine Passivlegitimation
+hinsichtlich der hier eingeklagten Verantwortlichkeitsansprüche nicht gegeben
+und sei daher die Klage allein schon deswegen abzuweisen (act. 314
+Rz. 195 – 244). Auf die Thematik der Passivlegitimation wird gleich im
+nachfolgenden Kapitel eingegangen.
+9.
+H.______
+H.______ trat im Oktober 2004 in die Dienste
+der GLKB ein und wurde per 1. August 2006 zum Bereichsleiter
+Geschäftskunden ernannt, welche Funktion er bis zu seinem Ausscheiden Ende
+August 2008 versah. Unstrittig ist zudem, dass er ab September 2005 im
+Kreditausschuss mitwirkte und darin ab September 2006 als Vorsitzender
+fungierte (act. 93 Rz. 62 und act. 147 Rz. 131, 133;
+ferner act. 222 Rz. 215 und act. 317 Rz. 149).
+Gemäss den Vorbringen der Klägerin soll
+H.______ gleichzeitig mit seiner Beförderung zum Bereichsleiter
+Geschäftskunden per 1. August 2006 Mitglied der Geschäftsleitung und
+damit Organ der GLKB geworden sein (act. 93 Rz. 62). Vor diesem
+Hintergrund belangt die Klägerin vorliegend H.______ für behauptete
+Pflichtversäumnisse erst ab 1. August 2006 (act. 93 Rz. 705;
+act. 170 Rz. 1033).
+Indes vertritt H.______ gleich wie G.______
+den Standpunkt, bei der GLKB keine Organstellung innegehabt zu haben. Die
+gegen ihn als vermeintliches Organmitglied gerichtete Klage sei daher wegen
+fehlender Passivlegitimation abzuweisen (act. 317 Rz. 111 ‑
+157; act. 147 Rz. 137, Rz. 213 – 237; act. 222
+Rz. 200 ‑ 246). Darauf ist im folgenden Kapitel näher einzugehen.
+10.
+J.______
+AG
+Die J.______ AG fungierte ab Ende
+April 2004 bis 2008 als externe Revisionsstelle der GLKB (act. 93
+Rz. 68; act. 131 Rz. 53). Die Tätigkeit der J.______ AG
+beinhaltete dabei einerseits den obligationenrechtlichen Prüfauftrag (siehe
+dazu Art. 20 Abs. 1 aKBG und Art. 111 aGOR) und
+andererseits die bankengesetzliche Kontrollaufgabe (Art. 21 aKBG) (siehe
+die entsprechenden Auftragsbestätigungen der J.______ AG für die Jahre 2004
+bis 2008 bei act. 95/23-27).
+B.
+Passivlegitimation
+von G.______ und H.______
+1.
+Die Klägerin stützt die eingeklagten
+Forderungsansprüche auf die in Art. 754 OR stipulierte sog.
+Organhaftung, so namentlich auch in Bezug auf G.______ und H.______
+(act. 93 Rz. 708 – 712 sowie Rz. 755 f.; siehe im Übrigen
+bei act. 88 S. 10 ff. E. 3.2. die einlässliche Begründung
+zur Anwendbarkeit der aktienrechtlichen Verantwortlichkeitsbestimmungen
+gemäss Art. 752‑760 OR aufgrund der Verweisungsnorm in
+Art. 39 Abs. 1 aBankG). Die beiden eben genannten Beklagten
+bestreiten im Berufungsverfahren erneut, bei der GLKB eine Organstellung im
+Sinne von Art. 754 OR bekleidet zu haben (act. 314
+Rz. 195 ff.; act. 317 Rz. 111 ff.), nachdem sie mit
+diesem Einwand vor Vorinstanz nicht durchgedrungen waren (act. 290
+S. 37 f. E. 15).
+2.
+Die Organhaftung nach Art. 754 OR erfasst
+neben den Mitgliedern des Verwaltungsrates [hier Bankrat] auch alle mit der
+Geschäftsführung befassten Personen. Als mit der Verwaltung oder
+Geschäftsführung betraut im Sinne dieser Bestimmung gelten gemäss
+Bundesgericht Personen, die ausdrücklich als Mitglieder eines Organs ernannt
+worden sind (formelle Organstellung), ferner aber ebenso auch Personen, die
+tatsächlich Organen vorbehaltene Entscheide treffen oder die eigentliche
+Geschäftsführung besorgen und so die Willensbildung der Gesellschaft massgebend
+mitbestimmen (faktische Organstellung) (BGE 128 III 92 E. 3
+S. 93; BGE 117 II 570 E. 3 S. 571 je mit Hinweisen;
+BGer, Urteil vom 19. Mai 2015, 9C_920/2014, E. 2.2.1.; BGer, Urteil
+vom 19. November 2014, 4A_147/2014, E. 6.2.).
+3.
+3.1
+Die
+Vorinstanz hat erwogen, in Art. 12 lit. b aGOR [recte: aKBG] und
+Art. 73 Abs. 1 aGOR werde die Geschäftsleitung ausdrücklich als das
+für die Geschäftsführung zuständige Organ der Bank bestimmt. Die
+Mitgliedschaft von G.______ und H.______ in der Geschäftsleitung sei
+vorliegend erstellt, indem beide in den Geschäftsberichten der Bank und im
+Fall von H.______ zudem im Bericht der Revisionsstelle vom 3. Januar
+2007 als Mitglieder der Geschäftsleitung bezeichnet seien. Damit seien beide
+als Organe der Bank zu betrachten (act. 290 S. 37 unten und
+S. 38 oben).
+3.2
+G.______ und
+H.______ machen in ihren Berufungen im Wesentlichen übereinstimmend geltend,
+zum Nachweis ihrer angeblichen Zugehörigkeit zur Geschäftsleitung dürfe nicht
+auf die Geschäftsberichte abgestellt werden, denn die Klägerin habe diese
+Dokumente nicht als Beweismittel in diesem Kontext eingereicht. Damit sei das
+von der Klägerin behauptete Faktum „Mitglied der Geschäftsleitung“ unbewiesen
+geblieben, was bedeute, dass sie mangels nachgewiesener Organstellung nicht
+zum Kreis der nach Art. 754 OR haftpflichtigen Personen gehör­ten und
+daher ihre Passivlegitimation nicht gegeben sei (act. 314 Rz.195,
+199-215; act. 317 Rz. 111-128).
+Aber selbst unter der Prämisse, dass ihr
+Mitwirken in der Geschäftsleitung als bewiesen erachtet würde, so gehörten
+die hier streitgegenständlichen Kreditausleihungen zum Alltagsgeschäft einer
+Bank und stellten darum gerade keine Organaufgabe dar, weshalb auch insoweit
+keine Passivlegitimation aus aktienrechtlicher Verantwortlichkeit nach
+Art. 754 OR bestehe.
+Komme schliesslich noch Folgendes hinzu:
+Obwohl H.______ bereits vor der behaupteten Zugehörigkeit zur
+Geschäftsleitung ab 1. August 2006 im Kreditausschuss mitgewirkt habe,
+werde er von der Klägerin gleichwohl nur für seine Tätigkeit erst ab August
+2006 belangt und nicht auch für seine vorherigen Handlungen; mithin sei auch
+aus Sicht der Klägerin selber das blosse Mitwirken im Kreditausschuss nicht
+als Ausübung einer Organfunktion zu qualifizieren (act. 314 Rz. 216-244;
+act. 317 Rz. 129-157).
+4.
+Die Einwendungen von G.______ und H.______
+gegen die von der Vorinstanz erkannte Organstellung verfangen nicht; dies aus
+nachfolgenden Überlegungen:
+4.1
+4.1.1
+Art. 12 lit. b aKBG bezeichnet die Geschäftsführung als Organ der GLKB,
+womit die funktionale Stellung der Geschäftsführung innerhalb der Bank
+gesetzlich festgehalten ist. Die Geschäftsführung – bzw. in der Terminologie
+des aGOR die Geschäftsleitung – ist zuständig für die operative Leitung der
+Gesamtbank; ihr obliegt hierarchisch an erster Stelle die Umsetzung der
+Geschäftsstrategie und ‑politik sowie die Führung der Bankgeschäfte
+(Art. 19 Abs. 1 aKBG, Art. 72 lit. a, Art. 73
+Abs. 1 und Art. 75 aGOR). Die Geschäftsleitung besteht aus dem
+Vorsitzenden der Geschäftsleitung (Chief Executive Officer; CEO [im hier
+interessierenden Zeitraum F.______]) und den weiteren vom Bankrat gewählten
+Geschäftsleitungsmitgliedern (Art. 74 Abs. 1 aGOR).
+4.1.2
+In den
+Akten sind keine Beschlüsse des Bankrats betreffend die Wahl von Geschäftsleitungsmitgliedern
+dokumentiert. Die Zugehörigkeit von G.______ und H.______ zur
+Geschäftsleitung der GLKB im hier relevanten Zeitraum 2005-2007 (G.______)
+bzw. ab August 2006-2007 (H.______) ist indes im Staatskalender des Kantons
+Glarus ausgewiesen (act. 453 und act. 454). Es handelt sich hierbei
+um eine amtliche Publikation, deren Inhalt als allgemein bekannt gilt,
+weshalb darüber nicht mehr Beweis zu führen ist (Art. 171 Abs. 1
+ZPO/GL; Art. 151 ZPO/CH; BGer, Urteil vom 11. März 2008, 4D_5/2008,
+E. 2.1, dort mit Hin­weis auf
+BGE 117 II 321
+E. 2 S. 323; siehe auch
+Guldener,
+Schweizerisches Zivilprozessrecht, 3. Aufl., Zürich 1979, S. 161 Ziff. II/1
+und S. 320 Ziff. III/3). Im Übrigen sind, wie bereits die Vorinstanz
+zutreffend dargelegt hat (act. 290 S. 37 f. E. 15.),
+G.______ und H.______ beide jeweils auch in den hier einschlägigen
+Geschäftsberichten als Geschäftsleitungsmitglieder aufgeführt (act. 95/29
+S. 88, act. 95/30 S. 84, act. 95/31 S. 84;
+act. 95/32 S. 84). Dass diese Tatsache von den Betroffenen
+ernsthaft auch noch vor Obergericht bestritten wird, ist daher
+unverständlich. Dies gilt erst recht im Fall von H.______. So ist seine
+Zugehörigkeit zur Geschäftsleitung ab 1. August 2006 in dem von ihm
+selber eingereichten (modifizierten) Arbeitsvertrag vom 10. Juli 2006
+festgehalten (act. 148/12 Ziff. 2); auch hat er in einem Schreiben
+an die Eidgenössische Bankenkommission ausgeführt, ab 1. August 2006
+Mitglied der Geschäftsleitung gewesen zu sein (act. 95/22 S. 2).
+Vom Gericht vorliegend nun in weitschweifigen Ausführungen über die
+Prinzipien der Verhandlungs- und Eventualmaxime zu verlangen, die aus den
+erwähnten Parteiakten gewonnenen Erkenntnisse auszublenden, da die betreffenden
+Unterlagen zum Beweis anderer Sachverhalte eingereicht worden seien,
+erscheint als überspitzt formalistisch, zumal die Dokumente letztlich ohnehin
+nur eine bereits allgemein bekannte Tatsache zusätzlich unterstreichen.
+4.1.3
+Damit
+steht als Zwischenergebnis fest, dass G.______ und H.______ Mitglieder der
+Geschäftsleitung und somit bei der GLBK auf jeden Fall formelle Organstellung
+hatten.
+4.2
+4.2.1
+Die hier streitgegenständlichen Kreditengagements wurden in der
+Zuständigkeit des Kreditausschusses abgewickelt. Die Klägerin wirft G.______
+und H.______ organschaftliche Pflichtversäumnisse vor, soweit sie im
+Kreditausschuss bei den betreffenden Kreditbeschlüssen mitgewirkt haben.
+G.______ und H.______ vertreten demgegenüber
+den Standpunkt, bei den fraglichen Kreditvergaben habe es sich um bankübliche
+Alltagsgeschäfte gehandelt und damit eben gerade nicht um organtypische
+Aufgaben (act. 314 Rz. 221-244; act. 317 Rz. 133-157).
+4.2.2
+Dieser Ansicht von G.______ und H.______ kann nicht gefolgt werden.
+Organfunktion im Sinne von Art. 754 OR
+hat eine Person inne, wenn sie Geschäfte abwickelt und Entscheide trifft,
+welche nicht mehr zur Routine des Alltagsgeschäfts gehören, sondern von
+unternehmerischer Bedeutung sind (BGE 128 III 29 E. 3
+S. 30 f.; BGer, Urteil vom 29. Oktober 2001, 4C.208/2001,
+E. 3.a
+; Forstmoser/
+Meier-Hayoz/Nobel
+, Schweizerisches Aktienrecht, Bern 1996, § 37
+N 5).
+In die Zuständigkeit des Kreditausschusses
+fielen Entscheidungen über Kreditausleihungen ab CHF 2 Mio. (Privatkunden)
+bzw. ab 10 Mio. (Geschäfts- bzw. Firmen­kunden) bis zur Höhe von
+10 % der Bankeigenmittel (act. 95/76 S. 10 Ziff. 1 und
+S. 14 Ziff. 1 i.V.m. S. 3 Ziff. 13). Kredite in dieser
+Grössenordnung können nicht mehr dem gewöhnlichen Tagesgeschäft zugezählt
+werden. Ausleihungen in dieser Höhe sind, zumal wenn sie wie bei den
+streitbetroffenen Firmenkundenkrediten noch grösstenteils blanko erfolgen,
+für die Bank von ausserordentlicher Tragweite, zumal eingedenk des damit
+verbundenen Risikos; ein Scheitern solcher Kreditengagements vermag sich auf
+die Stabilität des Finanzinstituts auszuwirken (siehe dazu act. 95/48
+S. 10 Ziff. 3.3.). Kreditvergaben von derart weittragender Relevanz
+sind demnach keine alltäglichen Geschäftsentscheide mehr und fallen unter den
+Begriff der "Geschäftsführung" im Sinne von Art. 754
+Abs. 1 OR. Wer daher solche Entscheide trifft, ist materiell als Organ
+der Gesellschaft zu betrachten und unterliegt folglich der
+(aktienrechtlichen) Verantwortlichkeit gemäss Art. 754 OR.
+Daraus erhellt ohne weiteres, dass G.______
+und H.______ eine organtypische Tätigkeit wahrgenommen haben, als sie im
+Kreditausschuss bei der Entscheidung über die hier umstrittenen
+Kreditvergaben mitgewirkt haben; sie beide werden daher von der Organhaftung
+nach Art. 754 OR erfasst. Daran ändert auch der Umstand nichts, dass die
+Klägerin gegenüber H.______ Ansprüche erst von August 2006 an geltend macht,
+seit dieser auch formell der Geschäftsleitung angehörte (siehe hierzu
+act. 93 Rz. 705; act. 170 Rz. 1033
+).
+5.
+Aus alldem folgt,
+dass die Passivlegitimation von G.______ und H.______ hinsichtlich der von
+der Klägerin angehobenen Verantwortlichkeitsklage gegeben ist. Anzufügen
+bleibt, dass G.______ und H.______ beide zugleich auch in einem
+Arbeitsverhältnis zur Klägerin standen und sie daher ebenso der
+arbeitsvertragsrechtlichen Haftungsbestimmung gemäss Art. 321e OR
+unterworfen waren (siehe hierzu BSK‑
+Gericke/Waller
+,
+N 5 vor Art. 754-761 OR), wie bereits die Vorinstanz
+zutreffend festgehalten hat (act. 290 S. 35 E. 13 und
+S. 85 ff. E. 27). Die Passivlegitimation jedenfalls im
+Anwendungsbereich der arbeitsvertragsrechtlichen Haftungsnorm ist daher
+ohnehin gegeben und im Übrigen auch nicht strittig.
+C.
+Verjährungseinrede
+der beklagten Bankräte
+1.
+Wie bereits vor Vorinstanz
+machen die
+beklagten Bankräte im Berufungsverfahren erneut geltend,
+die von der Klägerin ihnen gegenüber erhobenen Verantwortlichkeitsansprüche
+seien verjährt (act. 143 Rz. 209 ff.; act. 219
+Rz. 31-34; act. 309 Rz. 376 ff.; act. 319
+S. 47 f. Ziff. 11).
+2.
+Die Vorinstanz hat im
+angefochtenen Entscheid die Verjährungseinrede der beklagten Bankräte
+verworfen, dies mit nachstehender Begründung (act. 290 S. 96 f.
+E. 32):
+Bei der aktienrechtlichen Verantwortlichkeit verjährt
+gemäss Art. 760 Abs. 1 OR der Anspruch auf Schadenersatz in fünf Jahren von
+dem Tage an, an dem der Geschädigte Kenntnis vom Schaden und von der Person
+des Ersatzpflichtigen erlangt hat, jedenfalls aber mit dem Ablaufe von zehn
+Jahren, vom Tage der schädigenden Handlung an gerechnet. Die Verjährungsfrist
+der Forderung aus Arbeitsvertrag beginnt mit der Fälligkeit der Forderung und
+dauert auch fünf Jahre (Art. 128 OR und Art. 130 Abs. 1 OR). Sämtliche
+vorgenannten Verjährungsfristen können durch ein Sühnebegehren unterbrochen werden
+und beginnen erst wieder zu laufen, wenn der Rechtsstreit vor der befassten
+Instanz abgeschlossen ist (vgl. Art. 135 Ziff. 2 OR und Art. 138 Abs. 1 OR;
+Gericke/Waller
+, Basler Kommentar
+Obligationenrecht II, 4. Auflage, Basel 2012, N. 2 zu Art. 760 OR).
+Die erste, vorliegend relevante Kreditvergabe erfolgte
+mit Abschluss des Rahmenkreditvertrages am 1. Juli 2005 mit der S.______ […].
+Sämtliche weiteren, vorliegend relevanten Kreditvergaben, erfolgten später.
+Nach­dem die Vermittlungsverhandlung am 27. Mai 2010 und damit noch innerhalb
+der Frist von fünf Jahren seit Abschluss des ersten, vorliegend relevanten
+Rahmenkreditvertrages, stattfand (act. 1), wurde die Verjährung hinsichtlich
+der Forderungen aufgrund sämtlicher vorliegend relevanter Kreditvergaben
+unterbrochen.
+Die vorliegenden Forderungen der Klägerin gegenüber
+sämtlichen Beklagten sind somit nicht verjährt.
+3.
+Die Bankräte begründen ihre
+Verjährungseinrede wie folgt: Im hier massgeblichen Zeitpunkt war die GLKB
+eine selbständige Anstalt des öffentlichen Rechts mit eigener
+Rechtspersönlichkeit (Art. 1 Abs. 1 aKBG); Eigner der Bank war der
+Kanton Glarus (Art. 49 Abs. 1 KV). Die Mitglieder des Bankrates
+wurden vom Landrat gewählt (Art. 23 lit. a aKBG). Aus Sicht der
+Bankräte war daher das Rechtsverhältnis zwischen den einzelnen Mitgliedern
+des Bankrats und dem Kanton Glarus ebenso wie das Verhältnis zwischen den
+Bankräten und der GLKB öffentlich-rechtlicher Natur. Die Haftungsregelung
+gemäss Art. 28 aKBG bilde exakt diesen rechtlichen Hintergrund ab und
+werde in Abs. 2 von Art. 28 aKBG die interne Haftung der Mitglieder
+des Bankrats gegenüber der GLKB als öffentlich-rechtliches Verhältnis
+geregelt. Der vorliegend von der Klägerin gegenüber den Bankräten behauptete
+Haftungsanspruch sei daher als (interne) öffentlich-rechtliche
+Schadenersatzforderung zu qualifizieren. Die öffentlich-rechtliche
+Rechtsnatur des behaupteten Haftungsanspruchs gegen die Bankräte werde durch
+Art. 39 aBankG und dem darin enthaltenen Verweis auf die (verantwortlichkeitsrechtlichen)
+Haftungsnormen gemäss Art. 752-760 OR nicht beschnitten. Jedenfalls
+ändere dies nichts daran, dass Art. 28 Abs. 2 aKBG als
+eigenständige Haftungsnorm dem kantonalen öffentlichen Recht zuzuschreiben
+sei. Zufolge der öffentlich-rechtlichen Natur des Rechtsverhältnisses
+beurteile sich daher die Verjährung der eingeklagten Haftungsansprüche nach
+Massgabe von Art. 22 Abs. 1 des kantonalen Staatshaftungsgesetzes
+[GS II F/2, siehe den Ausdruck bei act. 457], was bedeute, dass der
+Anspruch auf Schadenersatz innerhalb eines Jahres ab Kenntnis des Schadens
+verjähre. Für das interne Verhältnis zwischen der GLKB und den Bankräten
+gelte ausschliesslich das kantonale Recht, denn in dieses Rechtsverhältnis
+habe der schweizerische Gesetzgeber mit dem Erlass von Art. 39 aBankG
+weder eingreifen können noch dürfen. Nachdem vorliegend die Klägerin
+spätestens ab August 2008 Kenntnis vom be­haupteten Schaden gehabt habe,
+seien ihre Haftungsansprüche gegenüber den Bankräten verjährt gewesen, als
+sie erst im Februar 2010 das Vermittlungsverfahren eingeleitet und damit ihre
+Forderungsklage rechtshängig gemacht habe [Art. 88 Abs. 1 ZPO/GL]
+(siehe zum Ganzen act. 309 Rz. 378-385; act. 319
+S. 47 f. Ziff. 11).
+4.
+4.1
+Aufgrund der
+Vorbringen der Bankräte ist zu klären, in welchem Verhältnis Art. 28
+Abs. 2 aKBG und Art. 39 Abs. 1 aBankG zueinander stehen. Die
+beiden Bestimmungen lauten wie folgt:
+Art. 28
+Abs. 2 aKBG
+Die
+Mitglieder des Bankrates und der Leiter des Inspektorats haften der Bank
+für den Schaden, den sie durch absichtliche oder fahrlässige Verletzung
+ihrer Pflicht verursachen. Ansprüche aus dieser Haftung sind beim
+Verwaltungsgericht geltend zu machen.
+Art. 39
+Abs. 1 aBankG
+Die
+Verantwortlichkeit der Gründer einer Bank, der Organe für die
+Geschäftsführung, Oberleitung, Aufsicht und Kontrolle sowie der von der
+Bank ernannten Liquidatoren und Revisionsstellen richtet sich nach den
+Bestimmungen des Aktienrechts (Art. 752-760 des Obligationenrechts).
+4.2
+Die beklagten Bankräte
+erkennen die für den vorliegenden Rechtsstreit massgebliche Haftungsnorm
+ausschliesslich in Art. 28 Abs. 2 aKBG. Sie qualifizieren diese
+Bestimmung als eine kantonale öffentlich-rechtliche Haftungsnorm und folgern
+daraus – auch eingedenk der öffentlich-rechtlichen Rechtsnatur des Verhältnisses
+GLKB/Bankrat –, dass damit zugleich auch das kantonale Staatshaftungsgesetz
+(siehe dazu act. 457) anwendbar sei, in dessen Art. 22 Abs. 1
+eine bloss einjährige Verjährungsfrist für Haftungsansprüche vorgesehen ist.
+Anders verhält es sich demgegenüber in verjährungsrechtlicher Hinsicht, wenn
+Art. 39 Abs. 1 aBankG als Haftungsnorm zur Anwendung gelangt.
+Aufgrund des darin enthaltenen Verweises auf Art. 760 OR verjähren
+verantwortungsrechtliche Haftungsansprüche erst mit Ablauf von fünf Jahren ab
+Kenntnis vom Schaden und von der Person des Ersatzpflichtigen.
+5.
+5.1
+Das Obergericht hatte
+sich in der vorliegenden Streitsache bereits mit Entscheid vom 1. Juli
+2011 damit zu befassen, welche richterliche Behörde (Zivilgericht oder
+Verwaltungsgericht) sachlich zuständig ist, um die gegenüber den Bankräten
+erhobenen Verantwortlichkeitsansprüche zu beurteilen (siehe act. 88).
+Damals hat sich das Obergericht eingehend mit der "Entwicklung" der
+eidgenössischen bankenrechtlichen Haftungsnormen befasst. Die relevanten
+Erwägungen in jenem Entscheid lauteten (siehe act. 88
+S. 9 ff.):
+3.1. a) Bis am 30. September
+1999 enthielt das Bundesgesetz über Banken und Sparkassen vom
+8. November 1934 (Bankengesetz, BankG; SR 952.0) im Abschnitt
+„Verantwortlichkeits- und Strafbestimmungen“ in Art. 38 nachfolgende
+Regelung:
+1
+Für die
+Kantonalbanken bleiben die kantonalen Vorschriften über die zivilrechtliche
+Verantwortlichkeit
+vorbehalten.
+2
+Für die
+Privatbankiers richtet sich die zivilrechtliche Verantwortlichkeit nach den
+Bestimmungen des Obligationenrechtes.
+3
+Für die
+übrigen Banken gelten die Bestimmungen der Artikel 39 – 45.
+b) Mit der Revision des
+Bankengesetzes gemäss Bundesgesetz vom 22. April 1999 wurde Art. 38
+Abs. 1 BankG per 1. Oktober 1999 ersatzlos aufgehoben (AS 1999
+S. 2407 f.). In der bundesrätlichen Botschaft zur Revisionsvorlage
+ist die Streichung von Art. 38 Abs. 1 BankG wie folgt motiviert
+worden (BBl 1998 S. 3875 f.):
+Gemäss geltendem Recht finden die bankengesetzlichen
+Verantwortlichkeitsbestimmungen auf die Kantonalbanken keine Anwendung.
+Wie die Probleme bei gewissen Kantonalbanken gezeigt haben, hingen
+diese in erheblichem Masse mit Mängeln im Bereich der Unternehmensleitung
+und ‑kontrolle zusammen. Es ist deshalb nicht einzusehen, weshalb
+gerade diese Bereiche, welche in der Vergangenheit häufig mitverantwortlich
+waren für die aufgetretenen Verluste und Probleme, durch kantonale
+Sonderregelungen geschützt und allenfalls bessergestellt werden sollen als
+die Organe der übrigen Banken. Mit einer Anwendung der bankenrechtlichen
+Verantwortlichkeitsbestimmungen auf sämtliche Kantonalbanken kann das
+Risikobewusstsein der Unternehmensleitung und –kontrolle verbessert und
+somit auch der Gläubiger- und Steuerzahlerschutz gestärkt werden.
+Durch die Aufhebung des Vorbehalts zugunsten des kantonalen Rechts
+wird sichergestellt, dass für die Gründer, Organe und
+Prospektverantwortlichen die Haftungsbestimmungen des Bankengesetzes
+ausschliesslich und direkt zur Anwendung gelangen. Die Kantonalbanken
+sollen bezüglich der Verantwortlichkeit gleich behandelt werden wie die
+übrigen Banken. Eine Besserstellung der Organe einer Kantonalbank bezüglich
+ihrer Verantwortlichkeit im Vergleich zu den Organen anderer Banken ist
+nicht gerechtfertigt.
+Bei der Gründer-, Prospekt- und Organhaftung im Zusammenhang mit
+Kantonalbanken mit voller Staatsgarantie ist der Vorbehalt von
+Artikel 38 Absatz 1 Bankengesetz heute ohnehin nur in
+theoretischer Hinsicht von Bedeutung. So besteht für die Gläubiger
+grundsätzlich kein Anlass, eine Haftung der Gründer und Organe geltend zu
+machen, da der Kanton unabhängig vom Nachweis eines Verschuldens der
+Gründer und Bankorgane für allfällige Ausfälle haftet.
+Das interne Verhältnis zwischen dem delegierenden Kanton und damit
+ein allfälliges Regressrecht gegenüber den Personen, welche vom Kanton in
+die Bankorgane delegiert wurden, hängt von den jeweiligen Rechtsbeziehungen
+mit diesen ab.
+[…]
+c) Mit der Aufhebung des in
+Art. 38 Abs. 1 aBankG statuierten Vorbehalts zugunsten
+kantonalrechtlicher Haftungsbestimmungen galten fortan ebenso für die Organe
+der Kantonalbanken die spezifischen Verantwortlichkeitsregeln des Bundes im
+Sinne von Art. 39 – 45 aBankG. Aufgrund der derogatorischen Kraft des
+Bundesrechts (Art. 49 Abs. 1 BV) hatte die bisherige kantonale
+materielle Haftungsvorschrift gemäss Art. 28 alt Kantonalbankgesetz […]
+in Bezug auf alle mit der Geschäftsführung oder mit der Oberleitung, Aufsicht
+und Kontrolle der Glarner Kantonalbank betrauten Personen keine eigenständige
+Bedeutung mehr (siehe dazu
+Ruch
+,
+St. Galler Kommentar zu Art. 49 BV, Rz. 1 ff.). Anzumerken
+bleibt in diesem Zusammenhang, dass die einschlägige Haftungsnorm von
+Art. 41 aBankG nicht danach unterschied, ob die einzelnen
+Verantwortungsträger in einer privat- oder öffentlichrechtlichen Beziehung
+zur Bank standen.
+3.2. a) Mit der
+Gesetzesnovelle vom 3. Oktober 2003 erfuhr das eidgenössische
+Bankengesetz abermals eine Revision (AS 2004 S. 2767 ff.); die
+geänderten Bestimmungen traten am 1. Juli 2004 in Kraft (AS 2004
+S. 2776). Neu geregelt wurde namentlich das Verantwortlichkeitsrecht
+gemäss Art. 39 ff. BankG. Während Art. 40 – 45 BankG ersatzlos
+aufgehoben wurden, erhielt Art. 39 BankG folgenden neuen Wortlaut (AS
+2004 S. 2774):
+1
+Die
+Verantwortlichkeit der Gründer einer Bank, der Organe für die
+Geschäftsführung, Oberleitung, Aufsicht und Kontrolle sowie der von der
+Bank ernannten Liquidatoren und Revisionsstellen richtet sich nach den
+Bestimmungen des Aktienrechts (Art. 752-760 des Obligationenrechts
+).
+[…]
+b)
+In der Botschaft des Bundesrates vom 2. November 2002 finden sich zur
+anschliessend umgesetzten Revision von Art. 39 ff. BankG die
+nachstehend zitierten Ausführungen (BBl 2002 S. 8105 f.):
+Es erweist sich als sinnvoll, auch die
+Verantwortlichkeitsbestimmungen des Bankengesetzes zu überarbeiten. Die
+gegenwärtige Regelung der Verantwortlichkeit unterscheidet sich nicht
+wesentlich von derjenigen des Aktienrechts, welche seinerzeit bei der
+Schaffung des Bankengesetzes übernommen wurde. […]
+Bei der Rechtsanwendung sind aus der 1992 in Kraft gesetzten
+Revision des Aktienrechts nun aber einige Unsicherheiten entstanden. Der
+neue Artikel 759 OR regelt die Solidarität anders als die bis zur Revision
+geltende Praxis. Sind für einen Schaden mehrere Personen ersatzpflichtig,
+so ist nunmehr jede von ihnen nur noch insoweit mit den anderen solidarisch
+haftbar, als der Schaden aufgrund ihres eigenen Verschuldens und der
+Umstände ihr persönlich zurechenbar ist. Diese Regelung steht zumindest
+hinsichtlich des Wortlauts in einem gewissen Widerspruch zum heutigen
+Artikel 44 BankG, auch wenn dieser durch das Bundesgericht in seiner
+jüngsten Praxis im Lichte des neuen Artikel 759 OR ausgelegt wird. […]
+Grundsätzlich besteht kein Anlass, die Verantwortlichkeit von
+Organen bei Banken anders zu regeln als bei den übrigen
+Aktiengesellschaften. Die massgeblichen Bestimmungen des Aktienrechts
+könnten daher wortwörtlich ins Bankengesetz übernommen werden. Einfacher
+ist die hier vorgeschlagene Lösung, welche in einer einzigen Bestimmung
+(Art. 39) auf die in Artikel 752 ff. OR geregelten
+Verantwortlichkeitsbestimmungen des Aktienrechts verweist (welches damit
+für alle verantwortlichen Personen sowie Banken mit anderen Rechtsformen
+gilt). Die bisherigen Artikel 40-45 BankG können damit ersatzlos
+aufgehoben werden. […]
+c) Art. 39 Abs. 1
+BankG verweist zur Regelung der Verantwortlichkeit der Bankorgane und
+insofern ebenso der daraus abgeleiteten Ersatzansprüche integral auf
+Art. 752-760 OR.
+5.2
+Wie die eben zitierten
+Erwägungen aus dem Entscheid des Obergerichts vom 1. Juli 2011 zeigen,
+hat der Bundesgesetzgeber die Haftung für Organe im Bankwesen
+abschliessend
+geregelt. Für kantonalrechtliche Haftungsnormen bleibt
+kein
+Raum mehr.
+Damit gilt für entsprechende Haftungsansprüche die Verjährungsfrist von fünf
+Jahren gemäss Art. 760 Abs. 1 OR. Infolgedessen hat die Vorinstanz
+im angefochtenen Entscheid zutreffend erkannt, dass die hier strittigen
+Verantwortlichkeitsansprüche gegenüber den beklagten Bankräten noch nicht
+verjährt sind. Lediglich der Vollständigkeit halber bleibt noch anzufügen,
+dass die Verjährungsfrist womöglich sogar später als von der Vorinstanz
+angenommen zu laufen begann. Im Zusammenhang mit Kreditgeschäften
+manifestiert sich der
+Schaden von dem Moment an, in dem im
+Rahmen einer sorgfältigen Bilanzierung
+Wertberichtigungen oder
+Rückstellungen notwendig werden (BGE 142 IV 346 E. 3.2 S. 350;
+siehe dazu auch act. 95/208 S. 22 [Urteil des Obergerichts des
+Kantons Luzern vom 6. April 2001]).
+D.
+Die
+konkret
+beanstandeten sechs Kreditengagements
+Die Klägerin leitet die gegenüber den beklagten
+Bankorganen
+eingeklagten
+Verantwortlichkeitsansprüche
+aus Kreditausleihungen her, welche an insgesamt sechs Kreditnehmer ‑ an
+fünf Unternehmen sowie den Eigner von zwei dieser Unternehmen – gewährt worden
+waren (act. 93 Rz. 415). Im Folgenden wird als erstes dargelegt,
+wie die betreffenden Kreditgeschäfte im Einzelnen abgelaufen sind.
+1.
+Kredit S.______ AG
+([…])
+1.1
+Kurzangaben zur
+Kreditnehmerin
+Im Handelsregister des Kantons Zürich war seit 1985 die
+SY.______ AG mit Sitz in Zürich eingetragen. Nachdem SX.______ die
+Gesellschaft bzw. den Aktienmantel übernommen hatte (siehe dazu
+act. 95/118 S. 3 Ziff. 4.1), wurde im Mai 2004 die
+Gesellschaft in SZ.______ umfirmiert (nachfolgend S.______) und ihr
+Geschäftszweck neu auf den Handel mit Produkten der Unterhaltungselektronik
+ausgerichtet (act. 95/110 S. 6 f.). Ende Januar 2008 verlegte
+die Gesellschaft ihren Sitz nach ______/AG (act. 95/110 S. 4),
+anfangs September 2008 schliesslich nach ______/OW bei gleichzeitiger
+Umfirmierung in S.______ (act. 95/110 S. 1). Am 15. Januar
+2009 wurde über die Gesellschaft der Konkurs eröffnet (act. 95/110
+S. 1).
+1.2
+Entwicklung des
+Kreditengagements
+Die GLKB gewährte der S.______ in vier Schritten einen
+Rahmenkredit von anfänglich CHF 0.5 Mio. bis zuletzt CHF 16.5 Mio.
+Hinter der S.______ stand SX.______, der die Geschäftsbeziehung zur GLKB
+angebahnt hatte (act. 95/112; ferner act. 95/118 S. 3 f.
+Ziff. 4.1 und Ziff. 4.2):
+Kreditlimite
+bewilligt durch
+Datum Kreditvertrag
+CHF 0.5 Mio.
+Z.______/H.______
+(act. 95/118)
+1. Juli 2005
+(act. 95/122)
+CHF 5.3 Mio.
+(Erhöhung um CHF 4.8 Mio.)
+Kreditausschuss
+(act. 95/129)
+13. Dezember 2005
+(act. 95/123)
+CHF 11.7 Mio.
+(Erhöhung um CHF 6.4 Mio.)
+Kreditausschuss
+(act. 95/134)
+13. März 2006
+(act. 95/124)
+CHF 16.5 Mio.
+(Erhöhung um CHF 4.8 Mio.)
+Kreditausschuss
+(act. 95/135)
+25. Oktober 2006
+(act. 95/125)
+Der Kredit bis zur jeweiligen Limite konnte in CHF oder in
+Fremdwährungen beansprucht werden (siehe zuletzt act. 95/125
+Ziff. 2.3 und Ziff. 2.4).
+Als (marginale) Sicherheit für den Rahmenkredit hatte
+SX.______ sich als Solidarbürge gegenüber der GLKB verpflichtet, bis zum
+Betrag von maximal CHF 0.55 Mio. für die Rückzahlung der Kreditschuld zu
+haften (act. 183 pag. 94; act. 95/122 Ziff. 15 sowie
+zuletzt act. 95/125 Ziff. 16).
+1.3
+Forderung der GLKB
+1.3.1
+Im Konkursverfahren gegen die S.______ machte
+die GLKB die nachfolgend aufgelisteten Forderungen geltend
+(act. 95/137). Bei diesen Beträgen handelt sich um Ausstände auf
+unterschiedlichen Konten mehrheitlich per 31. Dezember 2008. Die
+Vorinstanz hat die betreffenden Mankos als ausgewiesenen Schaden taxiert
+(act. 290 S. 41 f. E. 16.2. und S. 49 E. 16.8.
+sowie S. 91 unten und S. 92 oben E. 30.). In der
+Konkurseingabe hatte die GLKB auf den eben erwähnten Saldi zusätzlich noch
+Zinsen bis zum Datum der Konkurseröffnung am 15. Januar 2009
+aufgerechnet; darauf ist aber nicht mehr zurückzukommen, da die GLKB in ihrer
+Berufung die vorinstanzliche Schadensberechnung [ohne aufgerechnete Zinsen
+bis zur Konkurseröffnung] nicht anficht und diese in ihren Berufungsanträgen
+explizit übernimmt (act. 306 S. 4 Rechtsbegehren Ziff. 1).
+Die Forderungsbeträge
+im Einzelnen:
+CHF
+16‘000'574.40
+(act. 95/137,
+gelbe Markierung);
+EUR
+200‘919.96
+(act. 95/137,
+Summe der grünen Markierungen);
+USD
+1‘788‘520.67
+(act. 95/137,
+Summe der orangen Markierungen).
+Die gesamten
+Forderungen blieben im Konkursverfahren ungedeckt (act. 171/42).
+1.3.2
+Keine weitere
+Berücksichtigung der USD-Forderung
+Die USD-Forderung, welche bereits die Vorinstanz nicht
+berücksichtigt hat (act. 290 S. 92 E. 30. in fine), ist im
+vorliegenden Prozess ohne Relevanz. Dieser Ausstand geht auf ein Akkreditiv
+(Zahlungsgarantie) zurück, das soweit ersichtlich ausserhalb der hier
+strittigen Rahmenkreditverträge gewährt worden ist; die GLKB hat diese
+Forderung erstinstanzlich explizit fallengelassen (act. 170
+Rz. 401 f.).
+2.
+Kredit „SX.______“
+2.1
+Kreditengagement
+Die GLKB gewährte SX.______ (mit Adresse an der […] in
+Zürich) folgendes Darlehen zur Finanzierung eines Sportwagens (Porsche GT3
+RSR-2007); der Kreditnehmer hatte für das Darlehen keine Sicherheit zu
+bestellen:
+Kredit
+bewilligt durch
+Datum Kreditvertrag
+EUR 0.35 Mio.
+H.______
+(act. 95/163)
+18. Oktober 2007
+(act. 95/164)
+2.2
+Forderung der GLKB
+Die GLKB kündigte am 25. November 2008 den
+Darlehensvertrag per sofort und stellte SX.______ einen Ausstand (inkl. die
+ab 30. Juni 2008 noch offenen Zinsen) in Höhe von EUR 359‘525.28 in
+Rechnung (act. 95/168). Die Vorinstanz hat diesen EUR-Betrag in ihre
+Schadensberechnung einbezogen (act. 290 S. 45 f. E. 16.5.
+und S. 49 E. 16.8.).
+2.3
+Nachträglicher Erlös
+aus einem Betreibungsverfahren
+In der Replik vor Vorinstanz führte die Klägerin aus, von
+SX.______ habe nachträglich auf dem Betreibungsweg ein Betrag von
+CHF 235‘594.70 erhältlich gemacht werden können (act. 170
+Rz. 400 S. 139 oben). Konkret konnten zwei verarrestierte Fahrzeuge
+verwertet werden, was auch durch die Akten belegt ist (act. 171/45).
+Es fragt sich daher, ob dieser Betreibungserlös bei der
+Schadensbemessung angerechnet worden ist. Die Vorinstanz hat die Ausfälle aus
+den verschiedenen Kreditengagements in den Währungen CHF, EUR und USD
+ermittelt; im Falle von SX.______ hat sie in ihrer Schadensberechnung einen
+Ausfall von EUR 359‘525.28 (Kreditbetrag zzgl. Zinsen) berücksichtigt
+(act. 290 S. 45 f. E. 16.5 und S. 49 E. 16.8.).
+Die Summe der Kreditausfälle in EUR aus sämtlichen hier streitbetroffenen
+Kreditengagements betrug nach vorinstanzlicher Berechnung
+EUR 1'397'069.87 (act. 290 S. 49 E. 16.8.). Allerdings
+hat die Klägerin in der Replik ihre Ersatzforderung in Bezug auf die
+behaupteten EUR-Kreditausstände auf insgesamt (nur) EUR 650'507.‑
+beziffert (act. 170 S. 3 f. Antrag Ziff. 2) und ist die
+Vorinstanz bei der
+konkreten
+Bemessung des von den Beklagten zu
+ersetzenden Schadens ebenfalls von diesem tieferen EUR-Betrag ausgegangen
+(act. 290 S. 92). Auch wenn der angefochtene Entscheid sich zum
+vorerwähnten Erlös aus dem Betreibungsverfahren in Höhe von
+CHF 235‘594.70 nicht äussert und sich folglich auch nicht über eine
+Anrechnung an die Schadenssumme ausspricht, so liesse sich im vorliegenden
+Kontext allenfalls von einer impliziten Berücksichtigung ausgehen (siehe in
+diesem Zusammenhang auch nachfolgend E. 6.4 [W.______-Kredit]).
+3.
+Kredit „T.______ AG“
+(vormals TX.______)
+3.1
+Kurzangaben zur
+Kreditnehmerin
+Im Januar 2007 wurde die TX.______ mit Sitz in ______/ZH
+gegründet und ins Handelsregister eingetragen. Die Gesellschaft bezweckte [die
+Mitwirkung bei Autorennveranstaltungen] (act. 95/155 S. 3). Anfang
+Oktober 2008 verlegte die Gesellschaft ihren Sitz nach ______/OW und änderte
+kurz darauf ihre Firma in T.______ AG (act. 95/155 S. 1). Am
+27. August 2009 fiel die Gesellschaft in Konkurs (act. 238
+S. 2).
+3.2
+Kreditengagement
+Die Besprechung mit der GLKB zur Erlangung eines Kredits
+wurde seitens der T.______ AG bzw. damals der TX.______ von SX.______ und
+dessen Sohn […] geführt (act. 95/158 S. 1 oben sowie S. 6
+Ziff. 4.3; act. 95/156 S. 9 Ziff. 2.4; siehe zur
+familiären Bande zwischen SX.______ und […] auch bei act. 95/111 und
+act. 95/112). Entsprechend war der GLKB die Verbindung zur S.______
+bewusst, floss nämlich die Erfahrung der „bisherigen Zusammenarbeit“ in die
+Beurteilung der Kreditwürdigkeit ein und wurden bankintern die Koordinaten
+der S.______ für telefonische und schriftliche Kontakte zur TX.______
+vermerkt (act. 95/158 S. 1 und S. 6 Ziff. 4.3).
+Die GLKB gewährte der T.______ AG bzw. TX.______ folgende
+Rahmenkreditlimite:
+Kreditlimite
+bewilligt durch
+Datum Kreditvertrag
+CHF 1.0 Mio.
+Z.______/H.______
+(act. 95/158)
+19. Dezember 2007
+(act. 95/159)
+Gesichert
+war der Kredit durch eine Globalzession aller „gegenwärtigen und zukünftigen
+Forderungen aus dem Geschäftsbetrieb“ der Kreditnehmerin an die GLKB
+(act. 95/159 Anhang).
+3.3
+Anmerkung zum
+Kreditentscheid
+Bei dem hier der T.______ AG gewährten Kredit von
+CHF 1 Mio. handelt es sich um einen Blankokredit (siehe dazu auch
+nachfolgend E. III. E. 5). Gemäss "Kreditvorlage" hat der
+Kundenberater Z.______ den Kredit "bewilligt" und hat H.______ die
+Vorlage "eingesehen" und ebenfalls unterschriftlich visiert
+(act. 95/158). Bei isolierter Betrachtung nur dieses einen Kreditgeschäfts
+war H.______ als Bereichsleiter Geschäftskunden gestützt auf die damals
+geltende Kompetenzordnung der GLKB berechtigt zum betreffenden
+Kreditentscheid (act. 95/76 S. 14 Ziff. 1). Die T.______ AG
+war jedoch mit der S.______ und SX.______ verbunden, wobei zuvor die GLKB an
+S.______ und SX.______ bereits Blankokredite in Höhe von rund CHF 17
+Mio. gewährt hatte. Vor diesem Hintergrund hätte daher der vorliegende
+Blankokredit für die T.______ AG durch den Kreditausschuss bewilligt werden
+müssen (act. 95/76 S. 14 Ziff. 1), worauf die Klägerin
+zutreffend hingewiesen hat (act. 93 Rz. 598).
+3.4
+Forderung der GLKB
+Im Konkursverfahren gegen die T.______ AG bezifferte die
+GLKB die ausstehende Kreditschuld (inkl. Zinsen) per 31. Dezember 2008
+auf CHF 1‘060‘911.65 (act. 95/162 gelbe Markierung). Aus Sicht der
+Vorinstanz ist diese Summe schadensrelevant (act. 290 S. 44 f.
+E. 16.4. und S. 49 E. 16.8.). Zwar hat die GLKB
+erstinstanzlich eine etwas höhere Schadenssumme eingeklagt (act. 93
+Rz. 599 [Kreditschuld zuzüglich Gebühren]), stellt nun aber in der
+Berufung keinen weitergehenden Antrag (act. 306 S. 4 Rechtsbegehren
+Ziff. 1).
+Das Konkursverfahren gegen die T.______ AG verlief für die
+GLKB ergebnislos (act. 171/43).
+4.
+Kredit „U.______AG“
+4.1
+Kurzangaben zur
+Kreditnehmerin
+Die im April 2002 gegründete U.______AG war in ______/ZH
+domiziliert; ihr Gesellschaftszweck betraf den [IT-Bereich]. Am
+11. November 2008 fallierte das Unternehmen (act. 95/138).
+4.2
+Entwicklung des
+Kreditengagements
+Die GLKB räumte der U.______AG anfänglich eine
+Kreditlimite von CHF 3.5 Mio. und erhöhte diese später auf CHF 4.35
+Mio.:
+Kreditlimite
+bewilligt durch
+Datum Kreditvertrag
+CHF 3.5 Mio.
+Kreditausschuss
+(act. 95/145)
+14. November 2005
+(act. 95/147)
+CHF 4.35 Mio.
+(Erhöhung um CHF 0.85 Mio.)
+Kreditausschuss
+(act. 95/149)
+22. November 2006
+(act. 95/150)
+Zur Sicherstellung des Kredits diente laut Kreditvertrag
+eine Solidarbürgschaft von UX.______ in Höhe von CHF 0.1 Mio., ferner ein auf
+den Bürgen lautendes Wertschriftendepot bei der GLKB, enthaltend freilich nur
+die Aktien der U.______AG (siehe act. 95/148 Ziff. 2) sowie eine
+„Globalzession gegenüber der Glarner Kantonalbank, Glarus“ (act. 95/150
+Ziff. 16).
+4.3
+Forderung der GLKB
+Im Konkurs der U.______AG machte die GLKB einen
+Kapitalausstand im Betrag von CHF 5‘061‘919.49 (siehe dazu act. 170
+Rz. 403 und act. 290 S. 43) geltend (act. 95/139 gelbe
+Markierung), zuzüglich Zinsen und Kommissionen ab 1. Juli 2007 bis
+11. November 2008. Das Konkursverfahren ergab für die GLKB keinen Erlös
+(act. 95/154).
+Die Vorinstanz ist von einem relevanten Schaden in Höhe
+von CHF 5‘061‘920.34 ausgegangen (act. 290 S. 42 ff.
+E. 16.3. und S. 49 E. 16.8. [Kontosaldo per 31. Dezember
+2008; siehe dazu act. 95/153 S. 2). Die GLKB stellt in der Berufung
+keinen darüber hinausgehenden Antrag (act. 306 S. 4 Rechtsbegehren
+Ziff. 1).
+5.
+Kredit „V.______ AG“
+5.1
+Kurzangaben zur
+Kreditnehmerin
+Die V.______ AG wurde am 11. August 2006 mit Sitz in ______/SZ
+gegründet; sie agierte im [Handel mit Küchengeräten] (act. 95/170). Im
+Oktober 2007 erfolgte die Sitzverlegung nach ______ (heute Glarus Nord). Am ______
+2009 eröffnete der Präsident des Kantonsgerichts Glarus über die V.______ AG
+den Konkurs (act. 240).
+5.2
+Entwicklung des
+Kreditengagements
+Die V.______ AG erhielt von der GLKB zunächst eine
+Kreditlimite in Höhe von CHF 5.6 Mio. eingeräumt; später wurde die
+Limite auf EUR 5.5 Mio. erhöht (dies entsprach beim damals bankintern
+massgeblichen Umrechnungskurs von 1.7 einem Betrag von CHF 9.35 Mio.
+[siehe zur bankinternen Umrechnung bei act. 95/178 S. 1]):
+Kreditlimite
+bewilligt durch
+Datum Kreditvertrag
+CHF 5.6 Mio.
+Kreditausschuss
+(act. 95/182)
+6. September 2006
+(act. 95/183)
+EUR 5.5 Mio.
+(CHF 9.35 Mio.)
+Kreditausschuss
+(act. 95/190)
+27. April 2007
+(act. 95/179)
+Der Rahmenkredit konnte in CHF
+oder in Fremdwährungen beansprucht werden (siehe zuletzt act. 95/179
+Ziff. 2.3 und Ziff. 2.4).
+Aus der Kreditvorlage ergibt
+sich, dass die V.______ AG zum Ziel hatte, mithilfe der von der GLKB
+erlangten Kredite die in ______/Deutschland ansässige VX.______ GmbH &
+Co. KG zu erwerben und zu sanieren (act. 95/173 Ziff. 3.1;
+act. 95/178 Ziff. 3.1 [Finanzierung des Auftragsbestandes der
+VX.______]). Wie die Vorinstanz im angefochtenen Entscheid zutreffend erkannt
+hatte (act. 290 S. 67 und S. 69), handelte es sich beim
+V.______-Kredit faktisch um eine Kreditvergabe an eine ausländische
+Gesellschaft.
+Gesichert war der Kredit gemäss
+Kreditvertrag durch „Verpfändung der Aktien der V.______ AG“, einer
+„Corporate Guarantee der VX.______ GmbH & Co. KG“ samt
+„Raumsicherungsübertragung“ ihres Warenlagers in Deutschland
+(act. 95/179 Ziff. 16).
+5.3
+Forderung der GLKB
+Im Konkursverfahren gegen die V.______ AG gab die GLKB
+offene Forderungen im Betrag von CHF 9‘589‘021.75 sowie
+EUR 83‘424.85 ein (act. 95/192; siehe zum EUR-Total die grünen
+Markierungen). Das Konkursverfahren ergab für die GLKB keinen Erlös
+(act. 95/193-196).
+Die Vorinstanz hat die CHF-Forderung im geltend gemachten
+Umfang als Schaden qualifiziert; hinsichtlich der EUR-Forderung hat sie auf
+einen relevanten Schaden von EUR 83‘233.60 erkannt (act. 290
+S. 46 f. E. 16.6. und S. 49 E. 16.8.). Die GLKB
+folgt in ihrer Berufung der Berechnung der Vorinstanz (act. 306
+S. 4 Rechtsbegehren Ziff. 1).
+6.
+Kredit „W.______ AG“
+6.1
+Kurzangaben zur
+Kreditnehmerin
+Am 3. Juni 2005 wurde die W.______ AG mit Domizil in ______/TG
+gegründet; das Unternehmen war ausgerichtet auf die Produktion, den Vertrieb
+sowie die Wartung von [alternativen Energieanlagen]. Am 5. Mai 2008 ging
+die Gesellschaft Konkurs (act. 95/197).
+6.2
+Entwicklung des
+Kreditengagements
+Die GLKB gewährte der W.______ AG zu Beginn einen
+Rahmenkredit über CHF 2.16 Mio. und erhöhte diesen später auf
+CHF 4.22 Mio.:
+Kreditlimite
+bewilligt durch
+Datum Kreditvertrag
+CHF 2.16 Mio.
+Kreditausschuss
+(act. 95/202)
+9. Dezember 2005
+(act. 95/201)
+CHF 4.42 Mio.
+(Erhöhung um CHF 2.26 Mio.)
+Kreditausschuss
+(act. 95/205)
+13. März 2007
+(act. 95/206)
+Der Rahmenkredit konnte in CHF oder in Fremdwährungen
+beansprucht werden (siehe zuletzt act. 95/206 Ziff. 2.4).
+Als Sicherheit erwähnt der Kreditvertrag eine
+„Globalzession gegenüber der Glarner Kantonalbank, Glarus, dat. 9.
+Dezember 2005“ (act. 95/206 Ziff. 16 [siehe die entsprechende
+Zessionserklärung bei act. 95/207 S. 4]).
+6.3
+Forderung der GLKB
+Gemäss Forderungseingabe der GLKB im Konkursverfahren
+belaufen sich die Guthaben gegenüber der Konkursitin auf
+CHF 2‘330‘579’64 (act. 95/207 gelbe Markierungen) und
+EUR 1‘025‘293.03 (act. 95/207 grüne Markierungen).
+Die Vorinstanz hat die CHF-Forderung im Umfang von
+CHF 2'210'820.34 und die EUR-Forderung im Umfang von EUR 753‘391.03
+als Schaden anerkannt (act. 290 S. 47 ff. E. 16.7. und
+S. 49 E. 16.8.). Die GLKB hat in ihrer Berufung die
+Schadensberechnung der Vorinstanz übernommen (act. 306 S. 4
+Rechtsbegehren Ziff. 1).
+6.4
+Nachträglicher Erlös
+aus dem Konkursverfahren
+Vor Vorinstanz führte die Klägerin in der Replik aus, dass
+sie aus dem Konkurs der W.______ AG insgesamt CHF 381‘207.85 lösen werde
+(act. 170 Rz. 400 S. 139; siehe zudem act. 171/46);
+ferner sei wahrscheinlich, dass eine geleistete Garantiezahlung jedenfalls
+teilweise im Betrag von CHF 45‘040.40 zurückbezahlt werde, weshalb sie diesen
+Teilbetrag ebenfalls in Abzug bringe (act. 170 Rz. 408). Insgesamt
+ist damit von nachträglichen "Rückzahlungen" von insgesamt
+CHF 426'248.25 auszugehen.
+Die Vorinstanz hat sich im angefochtenen Entscheid nicht
+zur Anrechenbarkeit dieses Erlöses an die geltend gemachte Schadenssumme
+ausgesprochen. Es handelt sich dabei um dieselbe Thematik wie bereits oben
+behandelten Kredit an SX.______ (oben E. III. D.2.3.). Wie bereits dort
+erwähnt, hat die Vorinstanz die Ausfälle aus den verschiedenen Kreditengagements
+in den Währungen CHF, EUR und USD ermittelt; im Falle der W.______ AG hat sie
+bezogen auf EUR-Kredite einen Ausfall von EUR 753‘391.03 als Schaden
+anerkannt (act. 290 S. 47 ff. E. 16.7. und S. 49
+E. 16.8.). Die Summe aller Kreditausfälle in EUR aus sämtlichen hier
+streitbetroffenen Kreditengagements betrug nach vorinstanzlicher Berechnung
+EUR 1'397'069.87 (act. 290 S. 49 E. 16.8.). Die Klägerin
+jedoch hat in der Replik ihre Ersatzforderung in Bezug auf die behaupteten
+EUR-Kreditausstände auf insgesamt (nur) EUR 650'507.‑ beziffert
+(act. 170 S. 3 f. Antrag Ziff. 2), was gegenüber dem
+erstinstanzlich ermittelten Schadensbetrag eine Differenz von
+EUR 746'562.‑ ausmacht. Bei einem Umrechnungskurs von 1.2
+entsprechen EUR 746'562.‑ einem Betrag von knapp CHF 900'000.‑.
+Beim oben besprochenen SX-Kredit betrug der erstinstanzlich nicht explizit
+beachtete Betreibungserlös CHF 235‘594.70. Wird dieser Betrag nun mit
+dem Erlös von CHF 426'248.25 aus dem Konkurs der W.______ AG addiert,
+ergibt dies ein Total von rund CHF 660'000.‑. Dieser Gesamtbetrag
+liegt noch innerhalb der Differenz zwischen der von der Vorinstanz
+ermittelten Schadenssumme in EUR und dem von der Klägerin effektiv in EUR
+geltend gemachten Forderungsbetrag.
+7.
+Chronologischer
+Überblick über die oben dargelegten Kreditverträge
+Datum Kreditvertrag
+Kreditbetrag in Mio.
+CHF/EUR
+Kreditnehmer
+1. Juli 2005
+CHF 0.5
+S.______
+14. November 2005
+CHF 3.5
+U.______
+9. Dezember 2005
+CHF 2.16
+W.______
+13. Dezember 2005
+CHF 4.8
+S.______
+13. März 2006
+CHF 6.4
+S.______
+6. September 2006
+CHF 5.6
+V.______
+25. Oktober 2006
+CHF 4.8
+S.______
+22. November 2006
+CHF 0.85
+U.______
+13. März 2007
+CHF 2.26
+W.______
+27. April 2007
+EUR
+5.5
+(neue Limite gegen­über zuvor CHF 5.6)
+V.______
+18. Oktober 2007
+EUR 0.35
+SX.______
+19. Dezember 2007
+CHF 1
+T.______
+E.
+Summarische
+Betrachtung
+der sechs
+Kreditengagements
+1.
+Differenzierung
+nach Kreditnehmer
+Von den hier interessierenden Kreditengagements betrafen
+fünf Geschäfts-beziehungen juristische Personen:
+S.______ AG,
+T.______ AG (vormals
+TX.______),
+U.______ AG,
+V.______ AG,
+W.______ AG.
+In einem Fall
+(SX.______) erfolgte die Geldausleihung an eine natürliche Person.
+2.
+Materielle
+Ausgestaltung der Bankbeziehungen
+Die GLKB hatte mit den fünf erwähnten Gesellschaften
+sogenannte Rahmenkreditverträge abgeschlossen. Darin war eine Kreditlimite
+festgelegt, bis zu welchem Betrag die fünf Gesellschaften von der GLKB
+Geldmittel beanspruchen konnten, sei es in Form von Darlehen (variabel oder
+fest) oder Margenlimiten im Rahmen von Devisentermingeschäften oder als
+Kontokorrent (siehe jeweils Ziff. 1 und Ziff. 2 der betreffenden
+Verträge bei act. 95/125, act. 95/159, act. 95/150,
+act. 95/179, act. 95/206). Konkret haben die Gesellschaften die
+eingeräumten Limiten hauptsächlich mit Kontokorrentkrediten sowie in
+geringerem Umfang mit Darlehen ausgeschöpft (S.______: act. 171/3,
+act. 171/5, act. 171/7, act. 171/9, act. 171/10,
+act. 171/12 [Darlehen], act. 171/14 [Darlehen]; T.______ AG:
+act. 95/161; U.______ AG: act. 95/151-153; V.______ AG:
+act. 171/20, act. 171/22+23, act. 171/25 [Darlehen]; W.______
+AG: act. 171/27, act. 171/29-32 [Darlehen], act. 171/34-36
+[Darlehen], act. 171/38, act. 171/40).
+Die Kreditgewährung an SX.______ erfolgte auf der Basis
+eines Darlehensvertrages (act. 95/164).
+3.
+Verwendungszweck
+der Kredite
+Bei den Geldausleihungen an die fünf Aktiengesellschaften
+handelt es sich um kommerzielle Kredite. Die Kredite erfolgten in Hinsicht
+auf die Finanzierung von geschäftlichen Aktivitäten (siehe jeweils
+Ziff. 3 bei act. 95/121 [S.______], act. 95/158 [T.______ AG],
+act. 95/148 [U.______AG], act. 95/178 [V.______ AG] und
+act. 95/199 [W.______ AG]).
+Demgegenüber ist das Darlehen an SX.______ als reiner
+Konsumkredit (Privatkredit) zu qualifizieren. Mit dem Kredit wurde ein aus
+Liebhaberei motivierter Erwerb eines PS-starken Autos refinanziert
+(act. 95/165 und act. 95/163 Ziff. 3).
+4.
+Domizilierung
+der Kreditnehmer
+Gemäss Art. 3 Abs. 1 aKBG umfasst das Geschäftsgebiet
+der GLKB hauptsächlich den Kanton Glarus und die angrenzenden Gebiete
+[gemeint dabei die Regionen March, Gaster, See und Höfe]; dieser
+geographische Raum bildet damit das Stammeinzugsgebiet der GLKB (siehe
+act. 95/72 S. 3 und act. 95/74 S. 4). Geschäfte in der
+übrigen Schweiz (also ausserhalb des Stammeinzugsgebietes) sowie im Ausland
+sind zulässig, soweit der GLKB daraus keine besonderen Risiken erwachsen und
+die Zweckerfüllung im Kanton Glarus und in den angrenzenden Gebieten nicht
+beeinträchtigt wird (Art. 3 Abs. 2 aKBG).
+Die hier streitgegenständlichen Kredite wurden allesamt an
+Gesellschaften bzw. an eine Privatperson [SX.______] ausserhalb des
+Stammeinzugsgebietes der GLKB gewährt. Zwar hatte die V.______ AG ihr Domizil
+im Zeitpunkt der Krediterlangung in _______/SZ und damit noch innerhalb des
+GLKB-Rayons. Konkret aber sollte via die V.______ AG mit Kenntnis und
+Zustimmung der GLKB die in Deutschland domizilierte VX.______ finanziert
+werden (siehe zuvor E. D.5.2), womit es sich auch da gleich wie bei den
+anderen streitgegenständlichen Kreditengagements um ein
+Aussenrayon-Kreditgeschäft handelte.
+5.
+Keine
+substantielle
+Deckung der Kredite
+5.1
+Soweit aus den verfügbaren Akten ersichtlich waren
+sämtliche hier streitgegenständlichen Geldausleihungen, wenn überhaupt, nur
+marginal gesichert; im Einzelnen:
+Beim S.______-Kredit mit einer Limite von zuletzt
+CHF 16.5 Mio. bestand eine persönliche Bürgschaft von SX.______ in Höhe
+von CHF 0.55 Mio. (act. 183 pag. 94).
+Die der U.______AG eingeräumte Kreditlimite von CHF 4,35
+Mio. korrespondiert mit einer Bürgschaft von UX.______ von CHF 0.1 Mio.;
+zudem war eine Globalzession („halbjährliche Einreichung der Debitorenliste“)
+sowie eine Abtretung der „von UX.______ gehaltenen Rechte/Patenten“ und eine
+Verpfändung der U.______ AG-Aktien an die GLKB vereinbart (act. 95/148
+Ziff. 2). Eine substantielle Werthaltigkeit dieser Sicherheiten ist
+anhand der verfügbaren Akten nicht erkennbar.
+Die Sicherung des Kredits an die V.______ AG (Limite
+CHF 9.35 Mio.) erfolgte in der Weise, dass die Aktien der Kreditnehmerin
+an die GLKB verpfändet waren und zudem eine „Corporate Guarantee der
+VX.______ GmbH & Co. KG“ in Höhe der Kreditsumme und eine
+„Raumsicherungsübertragung“ ihres Warenlagers in Deutschland begründet wurden
+(act. 95/178 Ziff. 2). Weil anhand der verfügbaren Akten unklar
+ist, wie diese Kreditsicherheiten effektiv ausgestaltet wurden, ist die
+Relevanz der gesamten Absicherungen nicht augenscheinlich.
+Die der W.______ AG gewährte Kreditlimite von zuletzt
+CHF 4,42 Mio. war durch eine „Globalzession“ abgesichert
+(act. 95/199 Ziff. 2 sowie act. 95/207 S. 4). Es ist
+nicht bekannt, ob und wie in der Folge die vereinbarte Globalzession in
+Relation zur Entwicklung des Kreditengagements umgesetzt wurde.
+5.2
+Bankintern wurden die fraglichen Kreditengagements
+allesamt als ungedeckt (blanko) qualifiziert (siehe jeweils Ziff. 2 bei
+act. 95/121 [S.______], act. 95/163 [SX.______], act. 95/158
+[T.______ AG], act. 95/148 [U.______ AG], act. 95/178 [V.______ AG]
+und act. 95/199 [W.______ AG]).
+6.
+Zulässigkeit
+der Vergebung von ungedeckten Krediten
+Das Kantonalbankstatut bezeichnet die Glarner Kantonalbank
+als Universalbank, welche die banküblichen Geschäfte nach anerkannten
+Bankgrundsätzen tätigt (Art. 2 Abs. 1 aKBG); das Bankinstitut
+betreibt demnach alle Bankgeschäfte und bietet sie allen Kundengruppen an.
+Bei ihrer auf Wirtschaftlichkeit ausgerichteten Tätigkeit hat die Bank vor
+allem der gesamten glarnerischen Volkswirtschaft zu dienen (Art. 2
+Abs. 2 aKBG; siehe dazu auch Memorial für die Landsgemeinde 2003
+S. 44 [
+www.landsgemeinde.gl.ch/sites/landsgemeinde.gl.ch/files/archiv/2003/pdf/mem_2003.pdf
+].
+Im Rahmen ihrer
+Geschäftstätigkeiten ist es der Bank erlaubt, Darlehen und Kredite auch ohne
+Deckung zu gewähren. Diese ungedeckten Ausleihungen (Blankokredite) können
+sowohl an juristische als auch an natürliche Personen erfolgen, sofern die
+Kreditnehmer Gewähr für die Verzinsung und Rückzahlung des Kapitals bieten
+(Art. 21 Abs. 1 lit. d aGOR).
+F.
+Die Kreditprüfung
+1.
+Grundsätzliche
+Anmerkung
+zur Thematik
+Eine Bank ist im Interesse der Spareinleger
+gewinnorientiert und richtet ihre operativen Tätigkeiten nach
+betriebswirtschaftlichen Kriterien aus. Dies gilt auch für die Glarner
+Kantonalbank. So hält Art. 4 Abs. 1 aKBG fest, dass die Bank „nach
+wirtschaftlichen Grundsätzen zu führen“ und einen „ihrem Zweck angemessenen
+Gewinn anzustreben“ hat. Es handelt sich dabei um einen permanenten Auftrag
+an alle Stufen, die Banktätigkeit (Produkte und Betrieb) so weit zu
+optimieren, dass Gewinn erzielt werden kann (Memorial für die Landsgemeinde
+2003, S. 44 unten). Damit liegt es mit Bestimmtheit nicht im Interesse
+der Glarner Kantonalbank, wenn Kredite gewährt werden, bei denen die Gefahr
+eines Ausfalls augenfällig ist. Führen daher hochriskante Kreditgeschäfte zu
+einer Schädigung der Bank, so werden die Verantwortungsträger unter Umständen
+haftpflichtig (Art. 39 Abs. 1 aBankG i.V.m. Art. 754 OR).
+2.
+Grundlegendes zur
+Vergebung von Blankokrediten
+2.1
+Die Banktätigkeit
+erfolgt nach „anerkannten Bankgrundsätzen“
+Die GLKB tätigt als Universalbank die banküblichen
+Geschäfte nach anerkannten Bankgrundsätzen (Art. 2 Abs. 1 aKBG).
+Das Kreditwesen ist zentrales Geschäftsfeld einer Universalbank. Die GLKB
+kann ungedeckte Kredite an juristische und natürliche Personen sowie
+Personengesellschaften vergeben, wenn diese Gewähr für die Verzinsung und
+Rückzahlung des Kapitals bieten (Art. 21 Abs. 1 lit. d aGOR).
+Die Vergabe speziell von Blankokrediten setzt demnach eine eingehende Prüfung
+der Kreditfähigkeit und der Kreditwürdigkeit des Kreditnehmers voraus.
+Die „anerkannten Bankgrundsätze“ sind im Gesetz nicht
+definiert. Indes ist in der Fachliteratur zum Bankgeschäft eingehend
+erörtert, wie bei der Kreditprüfung vorzugehen ist; umschrieben sind dabei
+die elementaren Regeln der banküblichen Sorgfalt, welche bei Kreditgeschäften
+anzuwenden ist, um das jedem Kreditgeschäft anhaftende Risiko möglichst
+gering zu halten. Diese grundlegenden Mechanismen und Vorgehensweisen bei der
+Kreditvergebung bilden sozusagen die "anerkannten Bankgrundsätze"
+ab. Das Wissen um diesen bankgeschäftsüblichen Standard muss bei Personen,
+die in der Bankbranche im Kreditwesen tätig sind, vorausgesetzt werden.
+2.2
+Inhalt der
+Kreditprüfung
+Voraussetzung jeder Kreditgewährung und damit Gegenstand
+der Kreditprüfung sind die Kreditfähigkeit und die Kreditwürdigkeit des
+Kreditnehmers. Jede Kreditgewährung ist für die Bank immer mit bestimmten
+Risiken verbunden. Das Risiko kann in der Person des Kreditnehmers bzw. in den
+besonderen Umständen seiner Geschäftstätigkeit liegen (Bonitätsrisiko).
+Ausserhalb der Person des Schuldners kann das Risiko in bestimmten Umständen
+oder in Gesetzmässigkeiten eines bestimmten Wirtschaftszweiges
+(Branchenrisiko) oder in verschiedenen Währungen liegen.
+Im Rahmen der Kreditfähigkeit prüft die Bank insbesondere,
+ob die Ertrags-, Vermögens- und Liquiditätssituation des Kreditnehmers diesem
+voraussichtlich die Bezahlung der Zinsen sowie die Amortisation des Kredits
+erlauben wird. Diese Prüfung ist naturgemäss dort schwierig, wo
+Zukunftsprognosen gemacht werden müssen und wenig entsprechende Anhaltspunkte
+bestehen, namentlich bei neu gegründeten Unternehmen (Startup) oder bei neuen
+Produkten und/oder Dienstleistungen des Kreditnehmers. Bei der Kreditprüfung
+stellt die Bank nicht nur auf die momentanen Verhältnisse im Zeitpunkt des
+Kreditersuchens ab. Massgebend ist sowohl die Entwicklung in der
+Vergangenheit als auch – und noch wichtiger – die Entwicklung in naher
+Zukunft. Dabei spielen eine sorgfältige Budgetierung und ein realistischer
+Liquiditätsplan des Kreditnehmers für die Bank eine zentrale Rolle. Hierbei
+ist für die Bank auch der Quervergleich mit anderen Firmen in der gleichen
+Branche, insbesondere mit Konkurrenten des Kreditnehmers von Bedeutung. Die
+Bank verlangt deshalb vom Kreditnehmer die Aufarbeitung dieser Informationen
+in einem entsprechenden Dokument, in der Regel im sogenannten Businessplan.
+Bei einem Blankokredit verfügt die Bank definitionsgemäss
+nicht über besondere bankmässige Sicherheiten, weshalb eine eingehende
+Kreditprüfung zentral ist. Nur erstklassige Kreditnehmer kommen für
+Blankokredite infrage. Bei der Prüfung einer Kreditgewährung durch die Bank
+steht zunächst die Bonität des Kreditnehmers im Vordergrund. Als kreditwürdig
+gilt ein Kreditnehmer, dessen Verhalten, Charaktereigenschaften,
+Zuverlässigkeit und Einsatzbereitschaft im Geschäftsverkehr zu keinen
+Bedenken Anlass geben (Verhalten in der Vergangenheit). Die Bank muss
+letztlich beurteilen, ob das kreditsuchende Unternehmen bzw. dessen
+Geschäftsleitung die nötigen persönlichen Voraussetzungen wie Führungsstärke,
+Fachwissen, Branchenkenntnis, Charakter usw. mit sich bringen, damit die
+Unternehmung in der Wirtschaft erfolgreich bestehen kann. Zudem macht sich die
+Bank auch eingehend mit dem wirtschaftlichen Umfeld des Kreditnehmers, der
+allgemeinen Konjunkturlage sowie dem Geschäftsgang in der Branche des
+Kreditnehmers vertraut.
+Die dazu benötigten Informationen und Daten beschafft sich
+die Bank aus unterschiedlichen Quellen. Eine umfassende Dokumentation des
+Kreditnehmers ist die unentbehrliche Grundlage für die Gewährung von
+Blankokrediten. In erster Line setzt sich die Bank eingehend mit der
+Jahresrechnung und dem Geschäftsbericht des Kreditnehmers auseinander,
+analysiert dessen Budgets und insbesondere auch dessen Liquiditätsplanung.
+Wesentlich sind auch die aus dem persönlichen Kontakt und allenfalls der
+bisherigen Geschäftsbeziehung mit dem Kreditnehmer gewonnenen Erkenntnisse
+über dessen Fähigkeiten und Leistungen in der Wirtschaft. Mit Ermächtigung
+des Kreditnehmers holt die Bank ferner Informationen bei Dritten (Amtsstellen
+und andere Banken) ein. Sodann beschafft sie sich allgemeine Bran­cheninformationen
+aus Zeitungen, Fachzeitschriften sowie mittels Recherchen im Internet und
+holt Auskünfte ein, etwa bei den vom Kreditnehmer angebotenen Referenzen oder
+allenfalls gar bei der Konkurrenz des Kreditnehmers.
+Im Rahmen der finanziellen Prüfung macht sich die Bank
+anhand mehrerer Jahresrechnungen (Vergangenheit) ein Bild und leitet daraus –
+wenn möglich – eine Tendenz zur Unternehmensentwicklung ab. Von zentraler
+Bedeutung für die Bank sind unter anderem die Liquidität und die Ertragskraft
+des Unternehmens sowie das Verhältnis des Eigenkapitals zu den Gesamtverbindlichkeiten.
+Die effektive Höhe des Eigenkapitals (Nettovermögen) steht letztlich als
+Haftungssubstrat den Gläubigern zur Verfügung. Je liquider, je ertragsstärker
+und je stärker eigenkapitalisiert das kreditsuchende Unternehmen ist, desto
+eher ist es in der Lage, finanzielle Rückschläge zu verdauen und erscheint
+entsprechend kreditfähiger (siehe zum Ganzen:
+Emch/Renz/Arpagaus
+,
+Das Schweizerische Bankgeschäft, 7. Aufl., Zürich 2011, N 863-867
+sowie N 942-944, siehe ebenso
+Boemle/Gsell
+,
+Geld-, Bank- und Finanzmarkt-Lexikon der Schweiz, Zürich 2002,
+S. 194 f. Ziff. 2 [act. 95/109 und act. 144/22]).
+2.3
+Bemessung der
+Kredithöhe
+Für die Höhe eines Blankokredites gibt es keine allgemein
+gültige Formel, es ist jeder Einzelfall gesondert zu beurteilen. Die Bank
+orientiert sich in erster Linie an der Höhe des Eigenkapitals und der
+Ertragskraft des Kreditnehmers und definiert den Kreditbetrag so, dass unter
+Berücksichtigung auch der übrigen Verpflichtungen des Kreditnehmers sowie
+allfällig eintretender Geschäftsverluste dennoch eine Substanzmarge besteht.
+Für die Bank ist dabei auch wesentlich zu wissen, ob der Kreditnehmer noch
+bei weiteren Banken Blankokredite erhältlich gemacht hat; um entsprechende
+Informationen einzuholen, lässt sich die Bank vom Kreditnehmer vertraglich
+vom Bankgeheimnis entbinden.
+Nach einer Faustregel soll bei guter Zahlungsbereitschaft
+und Ertragslage ein Blankokredit nicht mehr als ein Viertel bis ein Drittel
+des Eigenkapitals bzw. das Drei- bis Vierfache des Cashflows oder maximal
+10 % des Nettoerlöses betragen. Die Höhe des Kredits steht ausserdem
+auch in Abhängigkeit von den konkreten Haftungsverhältnissen, namentlich
+davon, ob es sich beim Kreditnehmer um eine juristische Person mit
+entsprechender Beschränkung der Haftung auf deren Vermögen oder um eine
+Personengesellschaft oder eine natürliche Person mit unbeschränkter
+persönlicher Haftung handelt (dazu
+Emch/Renz/Arpagaus
+,
+a.a.O., N 947-949;
+Boemle/Gsell
+,
+a.a.O., S. 195 f. Ziff. 3). Allein diese Faustregel bietet
+aber nur eine allgemeine grobe Orientierungshilfe in einer Mehrzahl von
+Fällen; eine sklavische Handhabung der Regel ist unter Umständen nicht in
+allen Fällen sachgerecht, zu denken ist dabei etwa an ein
+Start-up-Unternehmen mit einem mutmasslich erfolgversprechenden Projekt und
+Geschäftsmodell, jedoch mit (noch) schwacher Kapitalisierung.
+3.
+Bankinterne
+Richtlinien zur Kreditvergabe
+Grundlegend für die strategische Ausrichtung der GLKB und
+deren Risikopolitik ist zunächst Art. 3 aKBG. Gemäss dessen Abs. 1 umfasst
+das Geschäftsgebiet der GLKB hauptsächlich den Kanton Glarus und die
+angrenzenden Gebiete. Indes erklärt Abs. 2 Geschäfte in der übrigen
+Schweiz und im Ausland für zulässig, soweit der Bank daraus keine besonderen
+Risiken erwachsen und die Zweckerfüllung im Kanton Glarus und den
+angrenzenden Gebieten nicht beeinträchtigt wird.
+Gemäss Art. 6 aGOR definiert die GLKB ihre
+Risikopolitik gemäss den bankengesetzlichen Bestimmungen. In diesem Sinne
+erlässt der Bankrat ein Reglement für die Risikopolitik und das
+Risikomanagement und regelt die Kompetenzordnung (Art. 51 Ziff. 2
+lit. b und lit. c aGOR). Bei der GLKB bestanden im hier
+interessierenden Zeitraum namentlich die folgenden Richtlinien und Weisungen
+mit Bezügen zum Kreditgeschäft:
+3.1
+Risikopolitik der
+GLKB (Fassung vom 19. April 2005 und Fassung von 22. Dezember
+2006)
+Dieses Statut (act. 140/9 [Fassung vom 19. April
+2005] und act. 144/29 [Fassung vom 22. Dezember 2006]) definiert
+den Rahmen für das Eingehen von Risiken, innerhalb welcher sich die Bank
+bewegen kann und will; zudem definiert sie den Umgang mit Risiken und deren
+Grenzen bzw. setzt die Rahmenbedingungen für das unternehmungsinterne
+Risikomanagement fest. Die Risikopolitik ist Basis für die Spezialreglemente
+und Gesamtbankanweisungen der einzelnen Risikokategorien und Bankbereiche
+(act. 140/9 Ziff. 1.1 und act. 144/29 Ziff. 1.2).
+Die Regelung von 2005
+(act. 140/9) hielt zur Risikostrategie fest:
+-
+Risikobereitschaft/-wille:
+Die Bank ist gewillt, bewusst Risiken einzugehen, falls sie dafür
+angemessen entschädigt wird und zur Bewirtschaftung das erforderliche
+Wissen hat (Ziff. 2.1);
+-
+Risikoeinstellung/-haltung:
+Die Bank geht bewusst Risiken ein, sofern das Risiko/Ertragsverhältnis
+positiv ist […] und geht grundsätzlich nur dort Risiken ein, wo sie über
+das notwendige Fachwissen und Systeme zur Bewirtschaftung verfügt
+(Ziff. 2.2).
+Eine vergleichbare Aussage zur Risikogeneigtheit der GLKB
+fehlt im Risikopolitik-Statut vom Dezember 2006.
+Bei der Risikobewirtschaftung orientiert sich die GLKB an
+den Schweizer Standards und Good Practice (act. 140/9 Ziff. 3.3;
+act. 144/29 Ziff. 3.4). Zur Deckung allfälliger Verluste verfolgt
+die GLKB den Grundsatz der konservativen Bewertung (act. 140/9
+Ziff. 3.8; act. 144/29 Ziff. 3.9). Zudem – so im Statut von
+2006 – werden quantitative Risiken anhand von definierten Warn- und
+Massnahmenlimiten stetig überwacht und werden Ausnahmefälle umgehend
+eskaliert mit Information an die nächst höhere Hierarchiestufe
+(act. 144/29 Ziff. 3.9).
+Die Gesamtverantwortung für das Risikomanagement trägt der
+Bankrat; er legt die allgemeinen Risikogrundsätze und Globallimiten der GLKB
+in Reglementen fest (act. 140/9 Ziff. 4.1; dem Sinne nach gleich
+act. 144/29 Ziff. 4.1.1).
+Für die operative Umsetzung der Risikopolitik ist unter
+anderem die Geschäftsleitung als oberstes Risikomanagementgremium
+verantwortlich. Sie ist dabei zuständig für einen funktionierenden
+Risikomanagementprozess sämtlicher Risiken, soweit diese Aufgabe nicht dem
+Risikoausschuss Kreditrisiken oder dem Kreditausschuss übertragen ist. Der
+Risikoausschuss Kreditrisiken ist das oberste Kreditrisikomanagementgremium
+und ist dabei verantwortlich für einen funktionierenden
+Kreditrisikomanagementprozess. Der Kreditausschuss ist das oberste
+Kreditsprechungsgremium "bis zur 10% Klumpengrenze" und
+verantwortlich insbesondere für die Bonitätsbeurteilung (act. 140/9
+Ziff. 4.3; dem Sinne nach gleich die Regelung von 2006 [act. 144/29
+Ziff. 4.2]).
+Die interne Revision ist nicht verantwortlich für das
+Risikomanagement (so noch explizit in der Regelung von 2005 [act. 140/9
+Ziff. 4.4]). Sie prüft die Funktionsfähigkeit des Risikomanagements,
+dabei konkret die Effektivität und Korrektheit der Systeme, der Modelle, der
+Prozesse, der internen Kontrollen, der Organisation sowie des Berichtswesens
+(act. 140/9 Ziff. 4.4; act. 144/29 Ziff. 4.1.4).
+3.2
+Kreditrisikopolitik
+der GLKB (Regulativ vom 15. September 2003)
+In diesem Dokument (act. 95/72 bzw. 140/7) hielt der
+Bankrat, gestützt auf die oben dargelegte Risikopolitik, die
+Risiko-Grundsätze zum Kreditwesen fest. Im Folgenden Auszüge aus diesen
+normativen Vorgaben des Bankrates:
+Grundsatz 1
+Kundensegmente
+Wir gewähren
+Kredite an Privatpersonen, juristische Personen des Privatrechts,
+Personengesellschaften und Einzelfirmen. […]
+Wir
+unterstützen Firmen-Neugründungen und deren Weiterentwicklung […].
+Kredite an
+ausländische Kreditnehmer sind selektiv zulässig, wobei solche grundsätzlich
+nur auf gedeckter Basis gewährt werden.
+Grundsatz 2
+Marktgebiet
+Die Bank gewährt
+Kredite insbesondere an Kunden im Kanton Glarus. Gestützt auf die
+Gesamtbankstrategie richtet die Bank ihren Fokus jedoch in gleicher Weise auf
+Kunden in den Regionen March, Gaster, See und Höfe. Diese vier Regionen
+bilden zusammen mit dem Kanton Glarus unser Stammeinzugsgebiet. Aus
+Kreditportfolio- und Risikoüberlegungen können Kredite selektiv auch
+ausserhalb dieser Gebiete gewährt werden. […]
+Grundsatz 3
+Voraussetzungen
+für die Kreditgewährung
+Wir vergeben
+Kredite, wenn die notwendigen Informationen zu den persönlichen und
+wirtschaftlichen Verhältnissen des Kreditnehmers vorliegen und
+nachvollziehbar sind.
+[hierzu
+konkret Leitsätze 2
+Transparenz
+und 4
+Plausibilität
+]:
+Wir kennen
+unsere Kunden in Bezug auf chancen- und risikorelevante Belange. Wir
+beurteilen sie kritisch. Wir machen grundsätzlich kein name lending und
+machen keine Zugeständnisse bezüglich Transparenz.
+Wir verstehen
+die Geschäftskonstruktion. Auf Geschäfte, deren Konstruktion weder plausibel,
+verständlich noch darstellbar ist, verzichten wir.
+Wir gewähren
+Kredite, wenn wir den Verwendungszweck kennen und diesen akzeptieren können.
+[hierzu
+Leitsatz 3
+Verwendungszweck
+]:
+Wir kennen den
+Kreditzweck. Ist kein wirtschaftlicher Sinn erkennbar, verzichten wir auf
+eine Finanzierung.
+Wir beurteilen
+die Bonität von bestehenden und neuen Kunden einheitlich. Wir stellen dabei
+nicht nur auf die Sicherheiten, sondern in erster Linie auch auf die
+Ertragskraft, die Zukunftsperspektiven und die Qualität der Schuldner ab. Wir
+sind bereit, abschätzbare Risiken einzugehen und verlangen für diese
+risikogerechte Preise.
+Die Kreditgewährung sowie
+Wiederbeurteilung wird nachvollziehbar dokumentiert.
+Wir berücksichtigen bei der
+Vergabe und der Überwachung unserer Kredite die aktuelle konjunkturelle
+Situation und die zukünftige Entwicklung auf den massgeblichen Märkten im
+regionalen, nationalen und internationalen Umfeld.
+Grundsatz 4
+Marktauftritt
+und Akquisition
+Wir sind nur
+in Kundensegmenten und Märkten tätig, in denen wir über die Fähigkeiten
+verfügen, Risiken zu erkennen und zu beurteilen.
+Wir bauen
+bestehende, gute Kundenbeziehungen im Rahmen ihrer Verschuldungskapazität aus
+und akquirieren neue Kreditkunden aktiv und gezielt. Dabei stehen
+Risiko-/Ertragsüberlegungen im Mittelpunkt. […]
+Wir wollen
+Marktanteile gewinnen, bekennen uns aber zum Leitsatz "Qualität vor
+Quantität". […]
+Grundsatz 5
+Einschränkungen
+bei der Kreditgewährung
+Wir tätigen
+Kreditgeschäfte bei ausgewiesener Bonität und Kreditwürdigkeit des
+Kreditnehmers/ der Kreditnehmerin. […]
+Abzulehnen
+oder zurückzuführen sind Kreditgeschäfte bei übermässigen Risiken […].
+Grundsatz 6
+Vorgaben
+für das Kreditportfolio der Bank
+Ziel der
+Kreditrisikopolitik ist es, nachhaltig ein ausgewogenes
+Risiko/Ertragsverhältnis sicherzustellen. Ein ausgewogenes Kreditportfolio
+soll im Rahmen der Möglichkeiten des Marktgebiets durch Diversifizierung,
+Begrenzung und aktive Steuerung der Kreditrisiken angestrebt werden.
+Grundsatz 7
+Kundenrating
+und Pricing
+Das
+Kreditgeschäft muss für die Bank einen hohen positiven Erfolgsbeitrag
+generieren. Die damit verbundenen Risiken wollen wir verstehen,
+identifizieren, messen, steuern und rapportieren.
+Risikogerechte
+Preise tragen massgeblich dazu bei, dass die Glarner Kantonalbank auch
+längerfristig in der Lage ist, gezielt Risiken einzugehen und die nötigen
+Mittel für Wachstum und Investitionen zur Verfügung zu stellen. […]
+[hierzu
+Leitsätze 8
+Preisgestaltung
+und 5
+Verhältnismässigkeit
+]:
+Wir gestalten
+unsere Preise risikogerecht. Wir sind deshalb in der Lage, Kredite
+bereitwillig zu gewähren und entsprechende Risiken einzugehen.
+Wir fordern
+ein vernünftiges Verhältnis zwischen erwarteten Cash Flows und
+Verpflichtungen. Cash Flow kommt vor Substanz.
+Grundsatz 8
+Kreditüberwachung
+Die
+Kreditüberwachung erfolgt durch periodische Wiederbeurteilung der Kun­denbonität
+sowie der Sicherheiten und differenziert nach Kundenengagements,
+Kundengruppen-Engagements, Ratingklassen, Regionen und Produkten. Die
+Kreditüberwachung stellt sicher, dass erhöhte Risiken frühzeitig erkannt und
+entsprechende Massnahmen zur aktiven Verlustprävention rechtzeitig
+eingeleitet werden.
+[hierzu
+Leitsatz 7
+Zuverlässigkeit
+]:
+Wir halten uns
+an getroffene Kreditentscheide und bestehen auf die Einhaltung entsprechender
+Vereinbarungen. Gegenseitiges Vertrauen setzt die vollständige,
+termingerechte Erfüllung getroffener Vereinbarungen voraus.
+Grundsatz 10
+Kreditkompetenzen
+und Ausnahmen
+Die
+Kreditkompetenzen werden in einer Kompetenzordnung geregelt. […] Abweichungen
+von den kreditpolitischen Grundsätzen sind möglich, müssen aber (in der
+Kreditvorlage) begründet und von den Marktbereichsleitern bewilligt werden.
+3.3
+Annex vom Juni/Juli
+2005 zur Kreditrisikopolitik der Glarner Kantonalbank
+Der betreffende Annex [Anhang] wurde von der
+Geschäftsleitung im Juni 2005 verabschiedet und vom Bankrat am 19. Juli
+2005 genehmigt. Der Annex bezieht sich auf die eben erläuterte
+"Kreditrisikopolitik der Glarner Kantonalbank" und bezweckt, den
+dort stipulierten Grundsatz 6 ("Vorgaben für das Kreditportfolio
+der Bank") zu konkretisieren (act. 95/73).
+In Ziffer 1 des Annexes wurde die Grösse einzelner
+Kundenpositionen wie folgt begrenzt:
+- KMU mit Domizil im
+Kanton Glarus
+und im angrenzenden
+Wirtschaftsraum:
+CHF 15 Mio.
+- KMU mit Domizil
+ausserhalb des
+angrenzenden
+Wirtschaftsraums:
+CHF 10 Mio.
+Bei der Beurteilung von Grössenrisiken sind Bonität und
+Tragbarkeit zentral und haben hohen Ansprüchen zu genügen (act. 95/73
+S. 2 Ziff. 1).
+Bei Krediten, welche die vorgenannten Limiten
+überschreiten, entscheidet der Kreditausschuss auf Antrag des zuständigen
+Bereichsleiters über die Gewährung oder Antragstellung an den Bankrat. Solche
+Kredite sind bezüglich der sich aus der Kreditgewährung ergebenden speziellen
+Chancen und Risiken für die Bank ausführlich zu begründen (act. 95/73
+S. 2 Ziff. 2).
+3.4
+Kreditrisikopolitik
+der GLKB (Regulativ vom 21. November 2006)
+Die zuvor wiedergegebenen zentralen Grundsätze aus dem
+Kreditrisikopolitik-Dokument vom September 2003 (oben E. 3.2) sind
+wortwörtlich in das Kreditrisikopolitik-Reglement von 2006 übernommen worden
+(act. 95/74). Eine Ausnahme betrifft Grundsatz 2 (Marktgebiet): Gemäss
+der Regelung von 2003 konnten Kredite ausserhalb des Stammrayons der GLKB nur
+selektiv
+gewährt werden, wohingegen in der Anordnung von 2006 diese
+Einschränkung aufgegeben worden ist.
+3.5
+Kreditrisikopolitik
+der GLKB (Regulativ vom 28. August 2007)
+Waren die beiden Reglemente zur Kreditrisikopolitik der
+Glarner Kantonalbank aus den Jahren 2003 und 2006 (zuvor E. 3.2 und
+E. 3.4) in der Formulierung der dargelegten Grundsätze noch identisch,
+so sind im Reglement vom 28. August 2007 (act. 95/75) inhaltliche
+Neuerungen ersichtlich (die Abweichungen und/oder Ergänzungen gegenüber dem
+Text in den früheren Reglementen werden
+kursiv
+hervorgehoben; soweit
+vormalige Passagen ersatzlos gestrichen wurden, wird dies durch
+Streichung
+angezeigt):
+Grundsatz 1
+Kundensegmente
+Wir gewähren
+Kredite an Privatpersonen, juristische Personen des Privatrechts, Personengesellschaften
+und Einzelfirmen. […]
+Wir stellen
+grundsätzlich kein direktes Eigenkapital, Risikokapital mit
+Eigenmittelcharakter, venture capital oder Gelder mit ähnlichem Charakter zur
+Verfügung. Firmen-Neugründungen und deren Weiterentwicklung werden finanziert,
+wenn die Geschäftsidee, Businessplan, Markt und Planung bekannt ist. […]
+Solche Positionen benötigen immer eine enge, mind. vierteljährliche
+Rapportierung.
+Wir unterstützen Firmen-Neugründungen und deren
+Weiterentwicklung […].
+Kredite an ausländische Kreditnehmer sind selektiv
+zulässig, wobei solche grundsätzlich nur auf gedeckter Basis gewährt werden.
+Grundsatz 2
+Marktgebiet
+Die Bank
+gewährt Kredite insbesondere an Kunden im Kanton Glarus. Gestützt auf die
+Gesamtbankstrategie richtet die Bank ihren Fokus jedoch in gleicher Weise auf
+Kunden in den Regionen March, Gaster, See und Höfe. Diese vier Regionen
+bilden zusammen mit dem Kanton Glarus unser Stammeinzugsgebiet.
+Aus
+Kreditportfolio- und Risikoüberlegungen können Kredite
+bei nachvollziehbaren
+Geschäften mit einem Rating 7 oder bes
+ser auch ausserhalb dieser Gebiete
+gewährt werden.
+Kredite mit einem Rating schlechter als R7 sind im Sinne
+von Exceptions mindestens vom Kreditausschuss zu bewilligen.
+[…]
+Grundsatz 3
+Voraussetzungen
+für die Kreditgewährung
+Wir vergeben Kredite, wenn die notwendigen Informationen
+zu den persönlichen und wirtschaftlichen Verhältnissen des Kreditnehmers
+vorliegen und nachvollziehbar sind.
+Kumulativ
+sind folgende Voraussetzungen zu erfüllen:
+Kredite
+werden nur gewährt, wenn volle Transparenz vom Kunden besteht: aktuelle,
+notwendige Informationen zu den persönlichen und wirtschaftlichen
+Verhältnissen, Managementfähigkeiten, Marktleistungen, Zukunftsaussichten
+sowie die nachhaltige Ertragskraft des Kreditnehmers liegen vor und sind
+nachvollziehbar. Eine SWOT-Analyse fällt positiv aus. Der Kunde muss
+kreditwürdig sein. Die Kreditwürdigkeit ist vom KuBe
+[Kundenberater]
+in
+der Kreditvorlage zu beurteilen und zu dokumentieren.
+Wir beurteilen
+die Bonität von bestehenden und neuen Kunden einheitlich.
+Wir stützen uns
+auf die Tragbarkeit des Kreditnehmers, dessen Zukunftsperspektiven und die
+Qualität des Schuldners. Sicherheiten sind Zusätze, welche nur beim Pricing
+Einlass finden. Der Belehnungswert gilt nur als Mass für die Berücksichtigung
+des Wertes einer Sicherheit.
+Wir sind bereit, abschätzbare Risiken
+einzugehen und verlangen dafür risikogerechte Preis
+e.
+Die
+Gesamtbeziehungen einer Person sind bei der Kreditbeurteilung mit
+einzubeziehen, das heisst z.B. auch Ausleihungen bei anderen Banken oder
+verbundene Gegenparteien.
+Wir gewähren
+Kredite, wenn wir den Verwendungszweck kennen und diesen akzeptieren können.
+Kredite werden grundsätzlich nur pari passus gewährt.
+Kann die
+Risikohöhe nicht beurteilt werden, verzichten wir auf eine Kreditgewährung.
+Die
+Kreditgewährung sowie Wiederbeurteilung wird nachvollziehbar dokumentiert
+.
+Wir
+berücksichtigen bei der Vergabe und der Überwachung unserer Kredite die
+aktuelle konjunkturelle Situation und die zukünftige Entwicklung auf den
+massgeblichen Märkten im regionalen, nationalen und internationalen Umfeld.
+[…]
+Neugeschäfte
+mit einer Risikogewichtung von 10% und höher der anrechenbaren Eigenmittel
+werden ausnahmsweise getätigt und bedürfen eines Rating 7 oder besser.
+[angefügt sodann
+wie in den beiden früheren Fassungen die Leitsätze 2
+Transparenz
+,
+4
+Plausibilität
+und 3
+Verwendungszweck
+]:
+Wir kennen
+unsere Kunden in Bezug auf chancen- und risikorelevante Belange. Wir
+beurteilen sie kritisch. Wir machen grundsätzlich kein name lending und
+machen keine Zugeständnisse bezüglich Transparenz.
+Wir verstehen
+die Geschäftskonstruktion. Auf Geschäfte, deren Konstruktion weder plausibel,
+verständlich noch darstellbar ist, verzichten wir.
+Wir kennen den
+Kreditzweck. Ist kein wirtschaftlicher Sinn erkennbar, verzichten wir auf
+eine Finanzierung.
+Grundsatz 4
+Marktauftritt
+und Akquisition
+Wir sind nur
+in Kundensegmenten und Märkten tätig, in denen wir über die Fähigkeiten
+verfügen, Risiken zu erkennen und zu beurteilen.
+Wir bauen
+bestehende, gute Kundenbeziehungen im Rahmen ihrer Verschuldungskapazität aus
+und akquirieren neue Kreditkunden aktiv und gezielt. Dabei stehen
+Risiko-/Ertragsüberlegungen im Mittelpunkt. […]
+Wir wollen
+Marktanteile gewinnen, bekennen uns aber zum Leitsatz "Qualität vor
+Quantität". […]
+Grundsatz 5
+Einschränkungen
+bei der Kreditgewährung
+Wir tätigen
+Kreditgeschäfte bei ausgewiesener Bonität und Kreditwürdigkeit des
+Kreditnehmers/ der Kreditnehmerin. […]
+Abzulehnen
+oder zurückzuführen sind Kreditgeschäfte bei übermässigen Risiken […].
+Die Glarner
+Kantonalbank gewährt insbesondere keine Ausleihungen oder Erhöhungen, wenn:
+- deren
+Struktur und Zweck nicht vollumfänglich beurteilt werden kann;
+- die
+Risiken aufgrund mangelnder Information bzw. eines ungenügenden Einblicks in
+die wirtschaftlichen und persönlichen Verhältnisse des Kreditnehmers nicht
+umfassend beurteilt werden können;
+- bei
+mangelnder Fähigkeit und Vertrauenswürdigkeit des Kreditnehmers;
+- bei
+Reputationsrisiken;
+- relevante
+Betreibungen in den letzten 3 Jahren bestanden, welche nicht plausibel
+begründet werden können;
+- negatives
+Eigenkapital vorhanden ist;
+- bei einer
+Neugründung das Eigenkapital ohne plausiblen Grund nicht voll liberiert ist;
+- der
+Jahresabschluss bei Geschäftskunden nicht innerhalb 6 Monaten nach
+Abschlussdatum vorliegt. Ausnahmen sind zu begründen;
+- ohne
+aktuellen Betreibungsauskunft bei Neukunden, bei Erhöhungen ist eine
+Betreibungsauskunft nur bei angebrachtem Zweifel einzufordern.
+Grundsatz 6
+Vorgaben für
+das Kreditportfolio der Bank
+Ziel der
+Kreditrisikopolitik ist es, nachhaltig ein ausgewogenes
+Risiko/Ertragsverhältnis sicherzustellen. Ein ausgewogenes Kreditportfolio
+soll im Rahmen der Möglichkeiten des Marktgebiets durch Diversifizie­rung,
+Begrenzung und aktive Steuerung der Kreditrisiken angestrebt werden.
+Grundsatz 7
+Kundenrating
+und Pricing
+Das
+Kreditgeschäft muss für die Bank einen hohen positiven Erfolgsbeitrag
+generieren. Die damit verbundenen Risiken wollen wir verstehen,
+identifizieren, messen, steuern und rapportieren.
+Risikogerechte
+Preise tragen massgeblich dazu bei, dass die Glarner Kantonalbank auch
+längerfristig in der Lage ist, gezielt Risiken einzugehen und die nötigen
+Mittel für Wachstum und Investitionen zur Verfügung zu stellen. […]
+[hierzu
+Leitsätze 8
+Preisgestaltung
+und 5
+Verhältnismässigkeit
+]:
+Wir gestalten
+unsere Preise risikogerecht. Wir sind deshalb in der Lage, Kredite
+bereitwillig zu gewähren und entsprechende Risiken einzugehen.
+Wir fordern
+ein vernünftiges Verhältnis zwischen erwarteten Cash Flows und
+Verpflichtungen. Cash Flow kommt vor Substanz.
+Grundsatz 8
+Kreditüberwachung
+Die
+Kreditüberwachung erfolgt durch periodische Wiederbeurteilung der Kun­denbonität
+sowie der Sicherheiten und differenziert nach Kundenengagements,
+Kundengruppen-Engagements, Ratingklassen, Regionen und Produkten. Die
+Kreditüberwachung stellt sicher, dass erhöhte Risiken frühzeitig erkannt und
+entsprechende Massnahmen zur aktiven Verlustprävention rechtzeitig
+eingeleitet werden.
+[hierzu
+Leitsatz 7
+Zuverlässigkeit
+]:
+Wir halten uns
+an getroffene Kreditentscheide und bestehen auf die Einhaltung entsprechender
+Vereinbarungen. Gegenseitiges Vertrauen setzt die vollständige,
+termingerechte Erfüllung getroffener Vereinbarungen voraus.
+Grundsatz 10
+Kreditkompetenzen
+und Ausnahmen
+Die
+Kreditkompetenzen werden in einer Kompetenzordnung geregelt. […] Abweichungen
+von den kreditpolitischen Grundsätzen sind möglich, müssen aber (in der
+Kreditvorlage) begründet und von den Marktbereichsleitern bewilligt werden.
+G.
+Unzureichende
+Auseinandersetzung mit den einzelnen Kreditgeschäften durch die Vorinstanz
+1.
+Die von der
+Vorinstanz erkannten Pflichtverletzungen der beklagten Bankräte
+1.1
+In Hinsicht auf die Beurteilung der Frage, ob
+den beklagten Bankräten Pflichtverletzungen vorzuwerfen sind (act. 290
+S. 51 ff. E. 17.), hat die Vorinstanz sich im angefochtenen
+Entscheid darauf beschränkt, die zentralen (kantonalen) gesetzlichen
+Regelungen sowie in knapper Form vereinzelte bankinterne Regelungen zur Kreditvergabe
+wiederzugeben (act. 290 S. 52 f. E. 17.1.1.). Auf die
+streitgegenständlichen Kreditgeschäfte ist sie in diesem Kontext jedoch nicht
+im Einzelnen eingegangen. Stattdessen hat sie erwogen, der Bankrat habe es
+unterlassen, für Kreditvergaben ausserhalb des Stammgebietes
+zusätzliche
+Regeln zu erlassen; damit habe es der Bankrat pflichtwidrig versäumt, das
+Aussenrayongeschäft angemessen zu regeln (siehe das entsprechende Fazit in
+act. 290 S. 61 E. 17.1.4.). Zwar räumt die Vorinstanz ein, mit
+den "vom Bankrat erlassenen Regelungen [gemeint die im angefochtenen
+Entscheid nur rudimentär dargelegten Grundlagen] mögen die Voraussetzungen
+für die Kreditvergabe im Stammeinzugsgebiet gemäss Art. 3 aKBG und Art.
+4 GOR angepasst geregelt gewesen sein". Für Kreditvergaben ausserhalb
+des Stammeinzugsgebietes der GLKB seien hingegen keine speziellen
+Voraussetzungen zur Risikoeingrenzung, etwa ein notwendiges Mindestrating
+oder verbindlich tiefere Limiten, vorgesehen gewesen. Für solche
+Kreditvergaben hätten somit im Ergebnis die gleichen allgemeinen
+Voraussetzungen wie für Kunden im Stammeinzugsgebiet gegolten. Dies, obwohl
+Kredite im Aussenrayon gemäss Art. 3 aKBG und Art. 4 GOR nur soweit
+zulässig gewesen wären, als der Bank, erstens, daraus
+keine besonderen
+Risiken
+erwachsen würden und, zweitens,
+die Zweckerfüllung im Kanton
+Glarus und den angrenzenden Gebieten nicht beeinträchtigt
+würde
+(Hervorhebungen wie im vorinstanzlichen Entscheid). Mithin habe es der
+Bankrat in seiner Zuständigkeit gemäss Art. 716a Abs. 1 Ziff. 1 OR
+pflichtwidrig versäumt, die in Gesetz und Reglement genannten Kriterien
+'keine besonderen Risiken' und 'keine Beeinträchtigung der Zweckerfüllung im
+Kanton Glarus' eingehend zu definieren und zu regeln und damit das gesetzlich
+und reglementarisch gewährte grosse Ermessen der Geschäftsleitung [i.c. des
+Kreditausschusses] angemessen einzuschränken. Erst ab August 2007, als der
+Schaden bereits weitgehend angerichtet gewesen sei, seien diese Mängel beim
+Aussenrayongeschäft behoben und seien für Aussenrayonkredite ein
+Mindestrating, die Limite reduziert und "für höhere Engagements ein
+notwendiger Entscheid des Bankrates zur Pflicht gemacht" worden
+(act. 290 S. 54).
+1.2
+Ausserdem, so der zweite Vorwurf der Vorinstanz
+an die Adresse der beklagten Bankräte, habe es der Bankrat unterlassen, die
+Geschäftsleitung und deren Handlungen adäquat zu überwachen; dadurch habe der
+Bankrat relevante Fehlentwicklungen bei der Kreditvergabe pflichtwidrig nicht
+erkannt (act. 290 S. 55 ff. E. 17.1.2. sowie das
+"Fazit" auf S. 61 E. 17.1.4). Im Herbst 2005 habe die
+externe Revision darauf hingewiesen, dass Kreditengage­ments ausserhalb des
+Kerngebiets der Bank tendenziell einem höheren Risiko unterlägen. Ebenfalls
+im Herbst 2005 habe die interne Revisionsstelle im Rahmen von
+Bonitätsprüfungen stichprobeweise zwölf ausserkantonale Ausleihungen geprüft
+und hierbei bei etlichen Kreditengagements erhöhte Risiken festgestellt,
+insbesondere bei neu akquirierten Geschäften. Allein der Bankrat habe
+deswegen keinen konkreten Handlungsbedarf gesehen. Ab März 2007 hätten sodann
+die bankinternen Risikoberichte auf notwendig gewordene Wertberichtigungen
+hingewiesen (act. 290 S. 56-58). Daraus schloss die Vorinstanz im
+Sinne einer "Gesamtbetrachtung", dass bereits ab Anfang 2006 sowohl
+die externe als auch die interne Revisionsstelle ausdrücklich auf erhöhte
+Risiken beim wachsenden Aussenrayongeschäft hingewiesen hätten, der Bankrat
+aber habe diese Warnungen offensichtlich nicht wahrhaben wollen
+(act. 290 S. 58). Sodann hätten auch die internen Monatsabschlüsse
+"ein nahezu explodierendes Wachstum der Position 'Forderungen gegenüber
+Kunden', wozu auch die Aussenrayonkredite zu zählen waren", gezeigt. Die
+warnenden Hinweise der internen und der externen Revision vom November 2005
+hätten zusammen "mit dem leicht erkennbaren unverhältnismässigen
+Wachstum der Kundenforderungen" den Bankrat "spätestens Anfang des
+Jahres 2006 zur Kurskorrektur veranlassen müssen, auch wenn die nachfolgenden
+Revisionsberichte die Lage bei den Kreditengagements nicht als
+besorgniserregend darstellten" (act. 290 S. 59). Insgesamt
+habe daher der Bankrat seine ihm obliegende Pflicht verletzt, die Mitglieder
+der Geschäftsleitung und deren Geschäftsführungshandlungen adäquat zu
+überwachen und Fehlentwicklungen zu korrigieren (act. 290 S. 60).
+1.3
+Aus Sicht der Vorinstanz waren die von ihr
+erkannten Pflichtversäumnisse auf Seiten des Bankrates (mit)ursächlich für
+die späteren Kreditausfälle. Weil nämlich der Bankrat das Aussenrayongeschäft
+nicht angemessen geregelt und die Geschäftsleitung und deren Handlungen nicht
+adäquat überwacht habe, sei es der Geschäftsleitung erst möglich gewesen, die
+vorliegend relevanten Kreditengagements einzugehen (act. 290 S. 75
+Mitte).
+2.
+Die von der
+Vorinstanz erkannten Pflichtverletzungen der Mitglieder der
+Geschäftsleitung in ihrer Funktion als Zugehörige zum Kreditausschuss
+Bei der Beurteilung der Pflichtverletzungen der
+Geschäftsleitung (konkret der beklagten F.______, G.______ und H.______,
+welche zusammen den Kreditausschuss bildeten) ging die Vorinstanz zunächst
+summarisch auf die sechs streitgegenständlichen Blankokreditengagements ein
+(act. 290 S. 63 ff. E. 17.2.2). Die Vorinstanz erwog
+dabei, die betreffenden Kreditnehmer hätten allesamt nicht über die "sogenannte
+Blankofähigkeit" verfügt. Alle hätten sie eine zu geringe
+Eigenkapitalbasis aufgewiesen, weshalb ihnen Blankokredite im vorliegend
+bewilligten Umfang nicht hätten gewährt werden dürfen (act. 290
+S. 68). Damit widersprachen diese Kreditengagements aus Sicht der
+Vorinstanz "offensichtlich den Bestimmungen von Art. 3 Abs. 2
+aKBG und Art. 4 Abs. 2 aGOR" [Verbot besonderer Risiken
+ausserhalb des Stammeinzugsgebietes der GLKB] und erkannte die Vorinstanz
+darin im Ergebnis eine Pflichtverletzung der beklagten Geschäftsleitungsmitglieder
+bei den konkreten Kreditvergaben (act. 290 S. 69).
+3.
+Die Einwendungen der
+Geschäftsleitungsmitglieder und der Bankräte
+3.1
+Die beklagten Geschäftsleitungsmitglieder haben
+erstinstanzlich im Wesentlichen den Standpunkt vertreten, bei der Vergabe der
+streitgegenständlichen Kredite hätten sie die anerkannten Grundsätze bei
+Kreditgeschäften sowie auch die bankinternen Richtlinien befolgt
+(act. 145 Rz. 400 ff.; act. 147 Rz. 142 ff.
+[der Beklagte H.______ macht teilweise geltend, sich einzelnen Kreditvergaben
+widersetzt zu haben]; act. 151 Rz. 94 ff. und
+Rz. 315 ff.). Im Berufungsverfahren halten sie an diesem Standpunkt
+fest, wobei sie der Vorinstanz zugleich vorwerfen, diese habe sich mit ihren
+Vorbringen und Beweisanträgen zur Korrektheit der einzelnen Kreditentscheide
+nicht auseinandergesetzt (act. 314 Rz. 132 ff. und Rz. 384 ff.; act. 317 Rz.
+15 ff., dabei insbes. Rz. 39 ff., sowie Rz. 311 ff.).
+3.2
+Die beklagten Bankräte ihrerseits haben vor
+Vorinstanz zusammengefasst vorgetragen, bei der GLKB habe kein
+Regelungsdefizit hinsichtlich Kreditvergaben bestanden. Die beklagten
+Bankräte A.______ und B.______ wiesen zudem darauf hin, dass aus Sicht der
+Klägerin selber der Kreditausschuss – sprich: die beklagten
+Geschäftsleitungsmitglieder – die fraglichen Kreditengagements gerade unter
+Missachtung der banküblichen Grundsätze und internen Vorgaben beschlossen
+habe (act. 143 Rz. 69 ff., Rz. 135). Die beklagten
+Bankräte C.______, D.______ und E.______ haben erstinstanzlich hervorgehoben,
+dass die Entscheidung über die Vergabe von Krediten eine operative Aufgabe
+sei, die von Rechts wegen der Zuständigkeit des Bankrates entzogen sei
+(act. 141 S. 40 f.). Im Berufungsverfahren haben die Bankräte
+unisono unterstrichen, dass die streitbetroffenen Kreditengagements allein
+schon aufgrund der bestehenden Regelungen und Vorgaben unzulässig gewesen
+wären. Weil daher die fraglichen Kreditgeschäfte bereits nach Massgabe der
+banküblichen Grundsätze sowie der vorhandenen Regeln nicht hätten gewährt
+werden dürfen, sei letztlich unerheblich, wenn für Kreditgeschäfte mit Kunden
+ausserhalb des Stammeinzugsgebietes der GLKB (Aussenrayongeschäfte) keine
+zusätzlichen Anordnungen bestanden hätten. Es treffe daher nicht zu, wenn die
+Vorinstanz ausführe, die streitgegenständlichen Kreditvergaben durch die
+Geschäftsleitung seien überhaupt
+erst möglich
+geworden, weil der
+Bankrat das Aussenrayongeschäft nicht angemessen geregelt habe
+(act. 309
+Rz. 140 ff.; act. 319 S. 39 ff.).
+3.3
+Mit diesen Einwendungen weisen sowohl die beklagten
+Geschäftsleitungsmitglieder wie auch die beklagten Bankräte auf zentrale
+Aspekte in der vorliegenden Auseinandersetzung hin. Darauf ist im Folgenden
+einzugehen.
+4.
+Trennung zwischen
+strategischer Aufsicht/Leitung und operativer Führung
+4.1
+Eine Bank bedarf zur Aufnahme der
+Geschäftstätigkeit einer Bewilligung der (damaligen) Bankenkommission [EBK]
+(Art. 3 Abs. 1 aBankG). Die Bewilligung wird erteilt (und
+aufrechterhalten), wenn die Bank namentlich besondere Organe für die
+Geschäftsführung einerseits sowie für die Oberleitung, Aufsicht und Kontrolle
+anderseits ausgeschieden hat und hierbei die Befugnisse zwischen diesen
+Organen so abgegrenzt sind, dass eine sachgemässe Überwachung der
+Geschäftsführung gewährleistet ist (Art. 3 Abs. 2 lit. a
+aBankG). Das Gesetz schreibt mithin eine funktionelle wie personelle Trennung
+der strategischen Aufsicht und Leitung von der operativen Führung vor (ebenso
+Art. 8 Abs. 2 aBankV; siehe zum Ganzen auch
+Winzeler
+, in: Watter/Vogt/Bauer/ Winzeler [Hrsg.], Basler
+Kommentar, Bankengesetz, Basel 2005, N 8 zu Art. 3; siehe ferner
+auch
+von Büren
+,
+Verantwortlichkeit des Verwal­tungsrats von Banken, in: Weber/Isler [Hrsg.],
+Verantwortlichkeit im Unternehmensrecht V, Zürich 2010, S. 68 f.).
+4.2
+Mit der Totalrevision des Kantonalbankgesetzes
+(aKBG) an der Landsgemeinde 2003 sind insbesondere die eben dargelegten
+organisatorischen Vorgaben im Bankenbereich auch für die GLKB umgesetzt
+worden: strikte Trennung zwischen strategischer und operativer Führung
+(Memorial für die Landsgemeinde 2003, S. 36 oben); "konsequente
+Trennung zwischen den Funktionen der Geschäftsführung und denjenigen der
+Oberleitung, Aufsicht und Kontrolle" (Memorial S. 37
+Ziff. 1.3.2). Weiter ist ausgeführt: "Die
+Befugnisse
+zwischen den Organen müssen deutlich abgegrenzt sein, damit eine unbelastete
+Überwachung der Geschäftsführung möglich ist. Neu werden dem Bankrat
+lediglich die unentziehbaren Aufgaben der Oberleitung, Aufsicht und Kontrolle
+zugewiesen (Art.
+15).
+Gemäss
+geltendem Gesetz hat die Bankkommission noch typisch operative Aufgaben, wie
+das Festsetzen der Zinssätze oder die Gewährung von Darlehen und Krediten
+wahrzunehmen; dies wird nun zur Aufgabe der Geschäftsführung" (Memorial
+S. 39 Ziff. 2.2.2.5.).
+4.3
+Ganz im
+Sinne dieser Trennung der Aufgabenbereiche sind vorliegend denn auch alle
+hier streitgegenständlichen Kreditengagements auf Stufe Geschäftsleitung
+(Kreditausschuss) abschliessend behandelt und bewilligt worden. Die hier
+beklagten Bankräte waren zu keinem Zeitpunkt in die einzelnen Kreditvergaben
+involviert.
+5.
+Zentrale Frage: Wie
+sind die einzelnen Kreditgeschäfte zustande gekommen?
+5.1
+Eine wesentliche Kernfrage in der vorliegenden
+Auseinandersetzung liegt darin, wie und auf welcher Informationsbasis sowie
+vor welchem jeweiligen Regelungshintergrund die einzelnen Entscheidungen über
+die streitgegenständlichen Kreditengagements konkret zustande gekommen sind.
+Denn wenn vorliegend auf der einen Seite die beklagten
+Geschäftsleitungsmitglieder geltend machen, die Kreditvergaben seien lege
+artis erfolgt, auf der anderen Seite aber die beklagten Bankräte dafürhalten,
+die fraglichen Kredite hätten allein schon aufgrund der "anerkannten
+Bankgrundsätze" sowie der konkret bestandenen Regeln nicht bewilligt
+werden dürfen (also ohne dass dazu noch weitergehende Regeln für
+Aussenrayongeschäfte nötig gewesen wären), so ist eine eingehende inhaltliche
+Analyse der einzelnen Kreditgeschäfte geradezu zwin­gend.
+5.2
+Die Vorinstanz hat sich indes im angefochtenen
+Entscheid nicht substantiell mit den einzelnen Kreditvergabeentscheidungen
+auseinandergesetzt. Sie hat sich auf einen kurz gehaltenen Überblick
+beschränkt (act. 290 S. 63-67), hat die einzelnen Kreditnehmer
+wegen ihrer kaum vorhandenen Eigenkapitaldecke als nicht blankokreditwürdig qualifiziert
+(S. 68) und daraus gefolgert, die betreffenden Kreditengagements im
+Aussenrayon seien als "besondere Risiken" im Sinne von Art. 3
+Abs. 2 aKBG und Art. 4 Abs. 2 aGOR zu qualifizieren und wären
+somit untersagt gewesen (S. 69), wobei die eben genannten Bestimmungen
+bankintern "grundsätzlich" direkt anwendbar seien, da genügend
+bestimmt (S. 63). Weil somit die streitgegenständlichen
+Kreditengagements in Missachtung von Art. 3 Abs. 2 aKBG bzw.
+Art. 4 Abs. 2 aGOR [Verbot "besonderer Risiken" im
+Aussenrayon] getätigt worden seien, hätten die Geschäftsleitungsmitglieder
+entsprechend pflichtwidrig gehandelt (act. 290 S. 69). Die
+Vorinstanz macht mit anderen Worten die Pflichtwidrigkeit der
+Geschäftsleitungsmitglieder einzig daran fest, dass sie Kredite an Kunden ausserhalb
+des Stammeinzugsgebietes der Bank vergeben haben, obschon diese
+Kreditvergebungen im Lichte von Art. 3 Abs. 2 aKBG bzw. Art. 4
+Abs. 2 aGOR unzulässig gewesen wären. Sie lässt dabei ungeprüft, ob
+allein schon die anerkannten Bankgrundsätze sowie die bankinternen Regeln und
+Weisungen, wie sie oben detailliert dargelegt wurden, den betreffenden
+Kreditvergaben entgegenstanden.
+Nachdem die Vorinstanz die Pflichtwidrigkeit der
+Geschäftsleitungsmitglieder nur danach beurteilt hat, dass die Kreditvergaben
+als unzulässige Risiken im Sinne von Art. 3 Abs. 2 aKBG bzw. Art 4 Abs. 2
+aGOR zu qualifizieren seien, wirkt sich dies auch auf die Beurteilung der
+Pflichtwidrigkeit der Bankräte fort. Den Bankräten lastet die Vorinstanz als
+Pflichtversäumnis an, diese hätten spezifisch für Kreditgeschäfte im
+Aussenrayon zusätzliche Regeln erlassen müssen, um die in Art. 3 Abs. 2 aKBG
+bzw. Art. 4 Abs. 2 aGOR für Bankgeschäfte im Aussenrayon stipulierten
+Voraussetzungen "keine besonderen Risiken" und "keine
+Beeinträchtigung der Zweckerfüllung im Kanton Glarus" eingehend zu
+definieren und auf diese Weise das "gesetzlich und reglementarisch
+gewährte grosse Ermessen der Geschäftsleitung einzuschränken" (act. 290
+S. 54). Ausgeblendet wird jedoch auch da die Frage, ob die Kreditentscheide
+auf Stufe Geschäftsleitung nicht bereits aufgrund der anerkannten
+Bankgrundsätze sowie der bankinternen Regeln und Weisungen hätten
+unterbleiben müssen.
+6.
+Die von der
+Vorinstanz gegenüber dem Bankrat und den Geschäftsleitungsmit-
+gliedern gemachten
+Vorwürfe sind in sich widersprüchlich.
+6.1
+Die soeben dargelegte Argumentation der
+Vorinstanz ist nicht nur in der Sache zu kurz ausgefallen, sie birgt auch in
+sich einen Widerspruch: Einerseits sollen die Bestimmung von Art. 3
+Abs. 2 aKBG bzw. Art. 4 Abs. 2 aGOR, wonach die GLKB bei
+Bankgeschäften ausserhalb ihres Stammgebietes "keine besonderen
+Risiken" eingehen darf, direkt anwendbar sein ("da genügend
+bestimmt" [act. 290 S. 63]) und hätten
+daher
+die
+beklagten Geschäftsleitungsmitglieder konkret dieser normativ festgelegten
+Vorgabe zuwidergehandelt und sich damit pflichtwidrig verhalten, indem sie
+mit den streitgegenständlichen Kreditengagements verbotenerweise besondere
+Risiken im Aussenrayon eingegangen seien. Andererseits aber wird dem Bankrat
+angelastet, er habe es versäumt, die gesetzlichen Begriffe "keine
+besonderen Risiken" und "keine Beeinträchtigung der Zweckerfüllung
+im Kanton Glarus" inhaltlich zu konkretisieren und auf diese Weise das
+Ermessen der Geschäftsleitung bei der Kreditvergabe einzugrenzen. Diese
+beiden Vorwürfe sind in ihrer Ausprägung nicht miteinander kompatibel: Wenn
+die Vorinstanz den beklagten Geschäftsleitungsmitgliedern bei den fraglichen
+Kreditvergaben eine Risikoüberschreitung im Sinne von Art. 3 Abs. 2
+aKBG bzw. Art. 4 Abs. 2 aGOR anlastet, setzt sie damit implizit
+voraus, dass jene die Grenze zwischen dem gewöhnlichen (erlaubten) Risiko und
+dem verbotenen "besonderen" Risiko kannten. War demnach aber diese
+Trennlinie mit Blick auf die hier interessierenden Kreditgeschäfte bereits
+klar [und hat aus Sicht der Vorinstanz der Kreditausschuss just diese
+Trennlinie mit den fraglichen Kreditgeschäften pflichtvergessen
+überschritten], so ist nicht ersichtlich, weshalb noch
+zusätzliche
+Vorgaben des Bankrates erforderlich gewesen wären, um das Ermessen des
+Kreditausschusses einzuschränken. Denn eine ohnehin schon erkennbare
+Trennlinie braucht nicht noch weiter markiert zu werden, einzig nur zum
+Zweck, diese umso deutlicher erscheinen zu lassen.
+6.2
+Dieser Diskurs ist hier aber nicht
+weiterzuführen. In Hinsicht auf die Beurteilung des vorliegenden
+Rechtsstreits ist vielmehr Folgendes von massgebender Bedeutung:
+7.
+Die Vorinstanz
+orientiert sich nur an Art. 3 Abs. 2 aKBG und Art. 4 Abs. 2
+aGOR, was zu kurz greift.
+Wie eben aufgezeigt (oben E. 5.2), liegt für die
+Vorinstanz die Pflichtwidrigkeit der beklagten Geschäftsleitungsmitglieder
+darin, dass diese zu riskante Kreditgeschäfte im Aussenrayon eingegangen
+seien und damit gegen Art. 3 Abs. 2 aKBG bzw. Art. 4
+Abs. 2 aGOR verstossen hätten. Nach diesen beiden im Wortlaut
+identischen Bestimmungen war es der Bank verboten, ausserhalb ihres
+Stammeinzugsgebietes Geschäfte mit "besonderen" Risiken
+abzuschliessen. Den beklagten Bankräten andererseits lastet die Vorinstanz an,
+sie hätten es unterlassen, bankintern näher zu definieren, was als
+"besondere" Risiken im Aussenrayon zu gelten habe.
+Indes: Namentlich aufgrund der Vorbringen der beklagten
+Bankräte rückt eine andere Frage in den Vordergrund. Diese machen nämlich geltend,
+die streitgegenständlichen Kredite hätten bereits im Lichte der anerkannten
+Bankgrundsätze sowie der Regeln und Weisungen, wie sie bankintern bestanden
+hätten, nicht gewährt werden dürfen (siehe etwa act. 309
+Rz. 140 ff.). Infolgedessen interessiert nicht an erster Stelle, ob
+die betreffenden Kreditengagements "besondere" Risiken im Sinne von
+Art. 3 Abs. 2 aKBG bzw. Art. 4 Abs. 2 aGOR bedeutet
+haben, sondern es ist vielmehr vorab zu klären, ob bereits auf der Grundlage der
+vorhandenen bankinternen Vorgaben diese Geschäfte nicht hätten getätigt
+werden dürfen.
+8.
+Eine inhaltliche
+Analyse der einzelnen Kreditentscheide ist unabdingbar
+8.1
+Bei dieser Ausgangslage führt kein Weg daran
+vorbei, dass jedes streitgegenständliche Kreditengagement bzw. jeder
+Kreditentscheid im Einzelnen inhaltlich detailliert zu analysieren und zu
+beurteilen ist, wovon die Vorinstanz abgesehen hat. Wenn nämlich die
+Vorinstanz im angefochtenen Entscheid selber ausführt, die bei der GLKB
+bestandenen Regelungen zur Kreditvergabe mögen für Kreditgeschäfte im
+Stammeinzugsgebiet zureichend gewesen sein (act. 290 S. 54), so
+anerkennt sie damit immerhin, dass durchaus Regeln für die Kreditvergabe
+existierten. Die Vorinstanz lässt es jedoch bei dieser Erkenntnis bewenden (ohne
+zu prüfen, ob nicht bereits diese Regeln den hier interessierenden
+Kreditengagements entgegengestanden wären) und stellt sich auf den
+Standpunkt, für Kreditgeschäfte im Aussenrayon wären
+zusätzliche
+Regeln erforderlich gewesen, dabei konkret Regeln, welche die verbotenen
+besonderen Risiken von den noch erlaubten üblichen Risiken abgegrenzt hätten
+(act. 290 S. 54).
+8.2
+Dass die GLKB über interne Regeln zum
+Kreditwesen verfügte, haben namentlich die beklagten Bankräte vorinstanzlich
+prozesskonform vorgetragen (siehe etwa act. 143 Rz. 108 ff.)
+und ist oben eingehend und dabei ausführlicher als im angefochtenen Entscheid
+dargestellt worden (vorne E. III. F.3.). Ausserdem sind für alle
+Kreditgeschäfte die "anerkannten Bankgrundsätze" massgeblich,
+welche Prinzipien, selbst wenn intern nicht allesamt explizit statuiert, bei
+Personen im Bankgeschäft als allgemein bekannt vorauszusetzen sind (siehe
+dazu ebenfalls vorne E. III. F.2.1-2.3). Dies wird im Übrigen auch von
+der Klägerin selber so gesehen (act. 93 etwa Rz. 7, Rz. 19,
+Rz. 415).
+8.3
+Es ist vorliegend unumgänglich, dass die
+streitgegenständlichen Kreditengagements einzeln und detailliert (mehrere der
+eingeklagten Kreditbeziehungen liefen etappiert ab, indem die Kreditlimiten
+jeweils schrittweise erhöht wurde; vgl. dazu die Übersicht oben E. III.
+D.) daraufhin geprüft werden, ob die jeweiligen Kreditvergaben bei
+umsichtiger, sorgfaltsgemässer Tätigkeit auf Basis der bankintern vorhandenen
+Regeln und Weisungen sowie eingedenk der "anerkannten Bankgrundsätze"
+effektiv vorgenommen werden durften. Es ist – wie insbesondere die beklagten
+Bankräte A.______ und B.______ zutreffend hervorheben (act. 309
+Rz. 140 ff.) – mit anderen Worten zu klären, ob die einzelnen
+Kreditvergaben bereits aufgrund der im Bankwesen "anerkannten
+Bankgrundsätze" sowie aufgrund der Regeln, wie sie damals bankintern
+ohne spezifische Unterscheidung zwischen Stammeinzugsgebiet und Aussenrayon
+bestanden hatten, zu untersagen gewesen wären.
+8.4
+Die Beurteilung der Frage, ob die
+streitgegenständlichen Kreditengagements im Einzelnen lege artis nach
+Massgabe der "anerkannten Bankgrundsätzen" und der bankinternen
+Vorgaben jeweils sorgfältig geprüft und erwogen wurden, setzt spezifisches
+Bankfachwissen voraus. Insoweit die Gerichte nicht über dieses Wissen
+verfügen, ist darüber eine Expertise erstellen zu lassen. Abgesehen davon,
+dass das Gericht jederzeit von Amtes wegen bei einer oder mehreren
+sachverständigen Personen ein Gutachten bestellen kann (Art.
+183 Abs. 1 ZPO bzw. Art. 173 Abs. 2 ZPO/GL)
+,
+hat vor Vorinstanz just auch die Klägerin einen entsprechenden Beweisantrag
+gestellt (act. 93 Rz. 7 f.).
+Auf jeden Fall aber ist eine bloss summarische Beurteilung
+der streitgegenständlichen Kreditgeschäfte, wie sie im angefochtenen
+Entscheid erfolgt ist, in jeder Hinsicht zu knapp. Letztlich hat die
+Vorinstanz bei allen Krediten praktisch ausschliesslich darauf fokussiert,
+dass die einzelnen Kreditschuldner über keines oder nur wenig Eigenkapital
+verfügten und hat ihnen allein schon darum jegliche Blankokreditwürdigung
+abgesprochen (act. 290 S. 64 ff.). Der Faktor Eigenkapital ist
+allerdings nur einer neben anderen und kann daher die (Blanko)Kreditfähigkeit
+auch bei zwar schmaler Eigenkapitaldecke jedoch vorzüglichen
+Ertragsaussichten unter Umständen trotzdem gegeben sein. Speziell diese
+Abwägungen im Einzelfall setzen spezifische Fachkenntnisse voraus.
+9.
+Exkurs: Die Aktenlage
+zu den einzelnen Kreditgeschäften
+9.1
+Aktenedition im
+vorinstanzlichen Verfahren
+Die Vorinstanz hat die Klägerin in Nachachtung
+entsprechender Editionsanträge von mehreren Beklagten am 26. Juli 2012
+aufgefordert, dem Gericht die einzelnen Dossiers der hier strittigen
+Kreditengagements vollständig einzureichen (act. 155); der Prozess stand
+damals im Stadium der Duplik. Am 15. April 2013 hat die Vorinstanz diese
+Aufforderung an die GLKB erneuert und hierfür Frist bis 17. Mai 2013
+ange­setzt (act. 179).
+Mit Schreiben vom 16. Mai 2013 hat der
+Rechtsvertreter der Klägerin um Erstreckung der Frist ersucht
+(act. 180). Dabei bezog er sich zunächst auf eine telefonische Rückfrage
+beim Gericht, anlässlich welcher ihm mitgeteilt worden sei, "das Gericht
+möchte […] mit den verlangten vollständigen Kreditdossiers die
+Entscheidgrundlage, welche dem Kreditausschuss zur Verfügung stand, vollständig
+kennen“. Indes ‑ so der Rechtsvertreter weiter ‑ gebe es keine in
+sich geschlossenen‚ 'vollständigen‘ Entscheidgrundlagen, die mit einem Griff
+herausgegeben werden könnten und seien solche Dossiers unter der Leitung der
+hier beklagten Geschäftsleitungsmitglieder nicht geführt und angelegt worden.
+Die fraglichen Unterlagen seien vielmehr separat von den Protokollen des
+Kreditausschusses und separat von den Kreditvorlagen abgelegt, weshalb sie
+zuerst anhand der Kreditvorlagen zusammengetragen bzw. zusammengestellt
+werden müssten, so gut dies aufgrund der Angaben in der Kreditvorlage gehe,
+welche Arbeit äusserst zeitaufwendig und arbeitsintensiv sei.
+Am 7. Juni 2013 hat die Klägerin dem Gericht zwei
+Ordner mit Unterlagen zu den streitbetroffenen Kreditengagements eingereicht
+(act. 183). Bereits am Vortag hatte die Klägerin die entsprechende
+Aktenhinterlegung schriftlich angekündigt (act. 182) und dabei
+angemerkt, es handle sich um die "Einreichung der originalen und
+vollständigen Kreditdossiers – gemeint sind die Dokumente, welche dem
+Kreditausschuss für den Kreditentscheid vorgelegen haben". Die beklagten
+Geschäftsleitungsmitglieder hätten nämlich die Entscheidgrundlagen des
+Kreditausschusses zu den einzelnen Kreditgeschäften bankintern nicht dokumentieren
+lassen und auch nicht protokolliert. Die Klägerin habe die nun aufbereiteten
+Kreditdossiers, deren Teile an verschiedenen Orten gesammelt und aufbewahrt
+worden seien, nach bestem Wissen und Gewissen zusammengestellt.
+In der Folge hat namentlich der Beklagte F.______ in
+seiner Duplik vor Vorinstanz vorgebracht, bei den von der Klägerin edierten
+Unterlagen handle es sich „offensichtlich nicht um die originalen und
+vollständigen Kreditdossiers“ (act. 217 Rz. 28). Zur Begründung
+dieser Behauptung verweist er zunächst auf die bankinternen Abläufe bei der
+Handhabung von Kreditunterlagen; diese seien jeweils in Hängemappen zentral
+verwaltet und gelagert worden. Im Übrigen zeigt er beispielhaft auf, dass in
+diversen hier massgeblichen Kreditvorlagen unterschiedlichste Belege erwähnt
+würden, die bei den nun eingereichten Akten jedoch nicht vorhanden seien
+(act. 217 Rz. 28 f. S. 14-18). Ferner hat ebenso die hier
+beklagte externe Revisionsgesellschaft die mögliche Unvollständigkeit der eingereichten
+Kreditdossiers angemerkt (act. 214 Rz. 213).
+Die Klägerin hat in ihrer Triplik vor Vorinstanz
+eingeräumt, dass sie dem Gericht nicht die gesamten verfügbaren Unterlagen zu
+den streitbetroffenen Kreditengagements eingereicht habe. Die Klägerin beruft
+sich auf eine angebliche telefonische Rückfrage beim Gericht, bei der ihr
+mitgeteilt worden sei, dass einzig „die Entscheidgrundlage, welche dem
+Kreditausschuss
+zur Verfügung stand“, zu edieren sei („KAS-Kreditdossier“). Hingegen sei
+nicht verlangt gewesen, auch die Kreditdossiers einzureichen, welche der
+Kundenberater geführt habe („KUBE-Kreditdossiers“) (act. 245
+Rz. 97). Die verlangten KAS-Kreditdossiers habe sie [die Klägerin]
+anhand der Kreditvorlagen rekonstruieren müssen, "so gut dies aufgrund
+der Angaben in der Kreditvorlage“ gegangen sei (act. 245 Rz. 98).
+Insoweit nun der Beklagte F.______ bemängle, dass viele Unterlagen nicht
+eingereicht worden seien, könne ihm nicht gefolgt werden. Er [F.______]
+unterscheide bewusst nicht zwischen KAS- und KUBE-Kreditdossiers und lasse
+damit offen, welche Unterlagen in das KAS-Kreditdossier gehörten; sein
+Vorwurf der unzureichenden Edition sei daher zu ungenau (act. 245
+Rz. 99). Zudem – so die Klägerin weiter ‑ hätte sie "wegen
+der erwähnten Schwierigkeiten der Rekonstruktion für eine eventuelle
+Unvollständigkeit der KAS-Kreditdossiers nicht einzustehen“. Im Übrigen habe
+F.______ sich im Zuge des hängigen Verfahrens nie die Mühe genommen, die
+KUBE-Kreditdossiers vor Ort am Geschäftssitz der Klägerin einzusehen, um
+etwaige Lücken zu schliessen; ausserdem würden seine Entgegnungen zu den
+einzelnen Kreditengagements "auf immerhin 107 Seiten“ ohnehin nicht den
+Eindruck erwecken, als wäre er in seiner Verteidigung eingeschränkt gewesen
+(act. 245 Rz. 100).
+9.2
+Würdigung der
+konkreten Aktenlage
+Anhand der Vorbringen der Klägerin selber ist davon
+auszugehen, dass dem Gericht nicht sämtliche Unterlagen vorliegen, über
+welche die Klägerin hinsichtlich der streitgegenständlichen Kreditengagements
+verfügt. Offenkundig hat die Klägerin die einschlägigen Akten dem Gericht nur
+selektiv eingereicht. Eigenartig ist die hierzu vorgetragene Erklärung der
+Klägerin, wonach keine in sich geschlossenen Kreditdossiers bestünden.
+Wenngleich hier nicht über die Art der Aktenführung innerhalb einer Bank zu
+debattieren ist, so ist immerhin Folgendes zu bemerken: Die von der Klägerin
+im Nachhinein zwecks Analyse der Risikosituation mandatierte
+PricewaterhouseCoopers AG nimmt in ihrem Bericht vom 3. Juli 2008
+(act. 95/8) explizit Bezug auf Kreditdossiers. Zu Beginn des Berichts
+(act. 95/8 pag. 8001) wird bestätigt, dass eine "Systematische
+Überprüfung der Kredit
+dossiers
+und der erfassten Datenqualität der 70
+grössten
+Dossiers
+“ [Hervorhebungen eingefügt] erfolgt sei. Weiter ist
+im Bericht zu lesen (pag. 8017): "Die Kreditdossiers mit den
+Vorlagen, Schätzungen, Bilanzanalysen und allen übrigen Kundenangaben werden
+in der Abteilung Kreditadministration aufbewahrt und übersichtlich geführt.
+Die Verträge werden in separaten Vertragsdossiers ebenfalls in dieser Abteilung
+abgelegt". Der Bericht bezeichnet schliesslich die Dossierorganisation
+"grundsätzlich für geordnet und zweckmässig“ (pag. 8020).
+Es ist kaum anzunehmen, dass eine, wie im PWC-Bericht
+umschrieben, geordnete und zweckmässige Dossierorganisation dergestalt ist,
+dass die Bank trotz gerichtlicher Aufforderung nicht in der Lage ist, in dem
+von ihr eingeleiteten Prozess um Haftungsansprüche von immerhin mehr als
+CHF 35 Mio. die vollständigen Unterlagen bezüglich der beanstandeten
+Kreditgeschäfte zusammenzustellen und einzureichen. Zumal hinzukommt, dass
+die Klägerin ihre Forderungsansprüche unmittelbar an den Ausfällen festmacht,
+welche sie mit den streitbetroffenen sechs Kreditengagements erlitten hat.
+Die Vorinstanz hat die Klägerin unter Hinweis auf die
+Säumnisfolgen aufgefordert, dem Gericht die "originalen und
+vollständigen Kreditdossiers" einzureichen (act. 179), nachdem von
+beklagter Seite ein entsprechender Editionsantrag mehrfach gestellt worden
+war (siehe etwa act. 148 S. 2 und act. 146 S. 2). Trotz
+der klaren und unmissverständlichen Aufforderung sah sich die Klägerin in der
+Folge veranlasst, vorgeblich nur „die Entscheidgrundlage, welche dem
+Kreditausschuss zur Verfügung stand“ (act. 245 Rz. 97), in den
+Prozess einzuführen. Damit hat sie ihrer Editionspflicht nicht Genüge getan.
+Ihre Erklärung, wonach bei einer „telefonischen Rückfrage“ das Gericht die
+Editionsanweisung nachträglich eingegrenzt habe (act. 180 S. 3
+Ziff. 1), ist durch die Akten nicht belegt. Dies, obschon das Gericht
+soweit erkennbar tunlichst darauf bedacht war, telefonische Kontakte mit
+Parteivertretern jeweils aktenkundig zu machen (siehe etwa act. 126,
+act. 189; act. 193). Von daher steht zu vermuten, dass die
+Vorinstanz ebenso auch eine telefonische Anordnung zum Umfang der
+Editionspflicht, wie sie die Klägerin verstanden haben will, transparent in
+den Akten festgehalten hätte. Naheliegend wäre aber vor allem gewesen, dass
+die Klägerin selber angesichts möglicher beweisrechtlich nachteiliger
+Konsequenzen bei unzulänglicher Edition (siehe Art. 181 Abs. 1
+ZPO/GL) darauf bestanden hätte, dass das Gericht ihr gegenüber die behauptete
+nachträgliche Modifikation der Editionsaufforderung schriftlich eröffnet.
+9.3
+Konsequenz der
+unvollständigen Aktenedition für den vorliegenden Prozess
+Wie oben erörtert, wird in Bezug auf die hier
+streitbetroffenen Kreditengagements jede einzelne Kreditentscheidung
+daraufhin zu analysieren und zu würdigen sein, ob die Entscheidungsträger die
+Kreditanträge mit der erforderlichen Sorgfalt nach Massgabe der banküblichen
+Grundsätze und der bankinternen Richtlinien und Vorgaben beurteilt haben.
+Sind wie hier Kredite namentlich auch an Handelsgesellschaften vergeben
+worden, so dürfte für die nun nachträgliche Würdigung des
+Kreditentscheidungsprozesses wohl durchaus wesentlich sein, wenn
+beispielsweise Abnahme- und Lieferverträge, Bestellbestätigungen vorgelegen
+haben. Soweit daher die zuvor verlangte Würdigung der einzelnen
+Kreditentscheide konkret daran scheitern sollte, dass nicht sämtliche mutmasslich
+vorhandenen und für den Kreditentscheid bedeutsamen Unterlagen im Recht
+liegen, so hat allein die Klägerin die Folgen dieser Beweislosigkeit zu
+tragen, obliegt nämlich ihr die Beweislast für die von ihr behaupteten
+Pflichtwidrigkeiten, aus denen sie Ersatzansprüche herleitet (Art. 8
+ZGB;
+BGer, Urteil vom 13. Dezember 2016, 4A_259/2016,
+4A_267/2016, E. 5.2.
+). Es wird daher mit Bezug auf jeden
+Kreditentscheid vorgängig zu klären sein, ob die Klägerin alle bei ihr
+mutmasslich verfügbaren relevanten Dokumente dem Gericht unterbreitet hat. Wo
+der Hergang zu einzelnen Kreditentscheiden nicht vollständig dokumentiert ist
+und dies erkennbar darauf zurückzuführen ist, dass die Klägerin verfügbare
+Akten nicht vollständig ediert hat, so ist es von vornherein nicht möglich,
+den jeweiligen Kreditentscheid auf eine allfällige Sorgfaltspflichtverletzung
+hin zu überprüfen. Solche unüberprüfbaren Kreditentscheide fallen
+unweigerlich ausser Betracht und die entsprechenden Kreditvergaben können
+keine Grundlage für allfällige Verantwortlichkeitsansprüche bilden.
+H.
+Das Ergebnis der
+Analyse
+der einzelnen Kreditgeschäfte ist für die weitere Beurteilung der
+vorliegenden Haftungsklage in Bezug auf die beklagten
+Geschäftsleitungsmitglieder und Bankräte von entscheidender Bedeutung.
+1.
+Hypothese: Die
+Kreditentscheide stehen im Widerspruch zu den "anerkannten
+Bankgrundsätzen" sowie den bankinternen Regularien.
+1.1
+Primäre
+Haftung der Geschäftsleitung
+Ermöglichen die vorhandenen Unterlagen eine substantielle
+Untersuchung und Würdigung der streitgegenständlichen Kreditengagements und
+ergibt sich daraus, dass bei den einzelnen Kreditentscheiden die
+"banküblichen Grundsätzen" sowie die bankinternen Regelungen
+missachtet worden sind, so stellt sich die Verantwortlichkeitsfrage vorab in
+Bezug auf die Geschäftsleitungsmitglieder, welche die betreffenden
+Kreditentscheide gefällt haben.
+1.2
+Inwiefern haften auch die beklagten Bankräte,
+wenn bei den Kreditentscheiden die anerkannten Bankgrundsätze und die
+bankintern vorhandenen Regelungen nicht befolgt wurden?
+1.2.1
+Der Bankrat als Aufsichts- und Kontrollorgan;
+internes Inspektorat
+Dem Bankrat steht die oberste Aufsicht und Kontrolle der
+Geschäftsführung zu (Art. 15 Ingress aKBG). Dem Bankrat ist es indes
+untersagt, in operativen Belangen der Geschäftsführung mitzuwirken
+(Art. 3 Abs. 2 lit. a aBankG und Art. 8 Abs. 2 aBankV;
+siehe dazu oben E. III. G.4.1). Dem Bankrat steht als eigentliches
+Kontrollinstrument zur Aufsicht und Kontrolle der Tätigkeiten der
+Geschäftsleitung das interne Inspektorat zur Verfügung; das interne
+Inspektorat nimmt die ihm vom Bankrat übertragenen Überwachungsaufgaben wahr
+(Art. 22 Abs. 1 und 2 aKBG). Mithin obliegt es dem Bankrat, sein
+Kontrollinstrument, das interne Inspektorat, so einzusetzen, dass er die
+nötigen Erkenntnisse erhält (siehe dazu auch Memorial für die Landsgemeinde
+2003 S. 48 ad Artikel 22). Weitere wesentliche Erkenntnisse in
+Hinsicht auf die Erfüllung seiner Überwachungspflichten konnte der Bankrat
+sodann aus den Berichten der externen Revisionsstelle, den quartalsweise
+erarbeiteten Risikoberichten des bankeigenen Risikomanagements sowie aus den
+Monatsabschlüssen des Rechnungswesens erlangen (zutreffend die Vorinstanz in
+act. 290 S. 56). Insoweit im Lichte der Vorbringen der Klägerin für
+den Bankrat klare Hinweise darauf bestanden haben sollten, dass auf Stufe
+Geschäftsleitung (Kreditausschuss) Kreditverträge abgeschlossen werden, die
+den anerkannten Bankgrundsätzen und den internen Regelungen und Weisungen
+zuwiderlaufen, so wäre für den Bankrat im Rahmen seiner Aufsicht und
+Kontrolle ein Eingreifen geboten gewesen. Im Unterlassungsfall wäre er dann
+verantwortlichkeitsrechtlich nicht anders zu behandeln als die
+Geschäftsleitungsmitglieder selber (siehe dazu auch gleich nachfolgend E. 1.2.2).
+Die Funktion des internen Inspektorats übt bei der GLKB
+die St. Gallische Kantonalbank aus (act. 144/20). Der
+Aufgabenbereich des internen Inspektorats war Folgender (act. 144/20
+Ziff. 4.1 und Ziff. 4.4):
+Ziff. 4.1. Generelle Aufgabenstellung
+Die Basis für die Tätigkeit des Inspektorates bilden
+das Bundesgesetz und die Verordnung über die Banken und Sparkassen, die
+Erlasse und Vorschriften der EBK, die kantonalen Gesetzesbestimmungen,
+Verordnungen und Reglemente sowie die Weisungen, Reglemente usw. der
+einzelnen Institute. Die Prüfungsarbeiten werden nach allgemein anerkannten
+Prüfungsgrundsätzen durchgeführt und darüber Bericht erstattet. Das
+Inspektorat überprüft und beurteilt insbesondere,
+-
+ob das interne
+Kontrollsystem angemessen und wirksam ist;
+-
+ob die
+Geschäftsabwicklung den Weisungen der Bankleitung und der allgemeinen
+Geschäftspolitik entspricht;
+-
+ob die Tätigkeiten
+in der Bank systematisch, ordnungsmässig, richtig, sicher und mittels
+zweckmässiger Organisation ausgeführt werden;
+-
+ob die
+Vermögenswerte optimal gesichert sind;
+-
+ob das
+Risikomanagement angemessen und wirksam ist.
+Ziff. 4.4.
+In Ergänzung zu Art. 13 des Reglements über die
+interne Revision der St. Gallischen Kantonalbank sind wichtige
+Feststellungen, die sofortige Massnahmen erfordern, wie wesentliche Verstösse
+gegen Vorschriften oder grobe Missachtung interner Weisungen, auch der
+bankengesetzlichen Revisionsstelle unverzüglich zu melden.
+Die Klägerin macht im vorliegenden Prozess nicht geltend,
+der Bankrat habe mit dem eben zitierten Leistungsauftrag das interne
+Inspektorat als sein Kontrollinstrument unsachgemäss eingesetzt bzw. es sei
+der Leistungsauftrag inhaltlich unzureichend gewesen, um die Geschäftsführung
+adäquat zu überwachen.
+1.2.2
+Die Vorinstanz erkannte
+Handlungsbedarf aufseiten des Bankrates im Wesentlichen aufgrund von zwei
+allgemein gehaltenen Aussagen.
+Der Bankrat haftet für die
+von
+ihm begangenen Pflichtverletzungen (Art. 39 aBankG i.V.m.
+Art. 754 Abs. 1 OR).
+Eine Pflichtwidrigkeit
+liegt dann vor, wenn ein Organ gegen
+eine
+Gesetzes-, Statuten- oder Reglementsbestimmung verstösst. Eine
+Pflichtverletzung
+kann
+in einer unrechtmässigen Handlung
+oder in einer pflichtwidrigen Unterlassung bestehen. Eine pflichtwidrige
+Unterlassung setzt eine Handlungspflicht voraus (BGE
+128 III 92 E. 3a S. 94 mit zahlreichen Hinweisen)
+. Demnach hat der Bankrat für Unterlassungen einzustehen, wenn in
+seinem Zuständigkeitsbereich (siehe dazu Art. 15 aKBG) ein Tätigwerden
+erforderlich gewesen wäre. Vorliegend wäre der Bankrat aufgrund der ihm
+obliegenden Kontroll- und Aufsichtspflichten zum Eingreifen verpflichtet
+gewesen, falls bei der GLKB Kreditengagements eingegangen wurden, welche im
+Widerspruch zu den "banküblichen Grundsätzen" und/oder internen
+Regeln und Weisungen standen und der Bankrat davon wusste bzw. davon hätte
+wissen müssen. Falls tatsächlich eine entsprechende Pflicht des Bankrates zum
+Eingreifen bestanden hätte, so wären allfällige von der Geschäftsleitung
+unsachgemäss gefällten Kreditentscheide verantwortungsrechtlich ebenso dem
+Bankrat anzulasten.
+Die Vorinstanz hat im angefochtenen Entscheid als Fazit
+("Gesamtbetrachtung") erkannt, dass bereits ab Anfang des Jahres
+2006 sowohl die externe als auch die interne Revisionsstelle ausdrücklich auf
+erhöhte Risiken beim wachsenden Aussenrayongeschäft hingewiesen hätten. Der
+Bankrat habe jedoch diese Warnungen offensichtlich nicht wahrhaben wollen
+(act. 290 S. 58). Die von der Vorinstanz hierzu angeführten
+(S. 56) Belegstellen lauteten wie folgt:
+1)
+Management
+Letter der externen Revisionsstelle vom 13. Januar 2006 über die
+Zwischenrevision 2005 im Bereich Kreditmanagement (act. 95/52
+S. 7):
+4.1
+Entwicklung des Kreditgeschäfts
+Die
+Geschäftsleitung hat anlässlich der Bankratssitzung vom 1. März 2005 eine
+aktualisierte Strategie der GLKB präsentiert. Darin ist festgehalten, dass
+das Geschäftsgebiet auf die zum Kanton angrenzenden Räume weiter
+auszudehnen sei. Es soll ein Fokus auf den angrenzenden Wirtschaftsraum,
+insbesondere auf die Bezirke Gaster und March, die Linthebene und den
+oberen Zürichsee, gelegt werden. Zudem ist in der Kreditpolitik
+(verabschiedet durch den Bankrat am 15. September 2003) festgehalten,
+dass aus Kreditportfolio- und Risikoüberlegungen Kredite selektiv auch
+ausserhalb dieser Gebiete gewährt werden kön­nen.
+Bei unseren
+Prüfungen haben wir festgestellt, dass die Bank durch Vermittler bzw. durch
+das persönliche Beziehungsnetz der Kundenberater verschiedene bedeutende
+Engagements im Rahmen der vorgegebenen Strategie eingegangen ist. Eine
+Analyse zeigt, dass sich Neugeldauszahlungen über CHF 500'000 vom Januar
+bis Oktober 2005 auf CHF 199.7 Mio. belaufen, was mehr als die Hälfte der
+gesamten Neugeldauszahlungen oder knapp 7 % der gesamten Kundenausleihungen
+per Ende November 2005 entspricht. Aufgrund unserer Erfahrungen unterliegen
+Engagements ausserhalb des Kerngebietes der Bank tendenziell einem höheren
+Risiko.“
+Im angefochtenen Entscheid ist nur der zweite Abschnitt
+des vorstehenden Auszugs wiedergegeben. Indes ist die Aussage im zweiten
+Abschnitt, und dabei erst recht der letzte Satz, gerade im Kontext mit der im
+ersten Abschnitt völlig wertungsfrei angesprochenen Strategie der Ausdehnung
+der Geschäftstätigkeit in die kantonsangrenzenden Gebiete bzw. darüber hinaus
+zu lesen.
+2)
+Revisionsbericht
+des internen Inspektorats vom 16. Januar 2006 über die im Zeitraum
+September bis November 2005 durchgeführten Bonitätsprüfungen (act. 95/54
+S. 3 f.):
+Ziel der vom internen Inspektorat durchgeführten
+Bonitätsprüfungen war "per Prüfungsstichtag (16. September 2005
+bzw. 27. Oktober 2005) eine Beurteilung der ausgewählten
+Kreditengagements bezüglich Wertberichtigungen oder potentiellem
+Wertberichtigungsbedarf machen zu können". In den Prüfvorgang wurden
+anhand konkret festgelegter Selektionskriterien insgesamt "40
+wirtschaftlich zusammenhängende Kreditengagements" einbezogen, darunter
+auch 12 ausserkantonale Ausleihungen (act. 95/54 S. 3
+Ziff. 1.2.). Im Zuge der durchgeführten Prüfung hat das interne
+Inspektorat "innerhalb der gewählten Stichproben etliche
+Kreditengagements mit erhöhtem Risiko festgestellt […] insbesondere auch bei
+den neu akquirierten Geschäften" (act. 95/54 S. 4
+Ziff. 2).
+1.2.3
+Die von der
+Vorinstanz gedeuteten Warnsignale bestanden so nicht.
+Die in den eben zitierten Berichten der Revisionsstellen
+enthaltenen Bemerkungen und Feststellungen ("Engagements ausserhalb des
+Kerngebietes der Bank [unterliegen ] tendenziell einem höheren Risiko";
+"etliche Kreditengagements mit erhöhtem Risiko") sind im
+vorgetragenen Sachzusammenhang bei richtiger Lesart in erster Linie als
+Hinweis darauf zu verstehen, dass bei Kreditausleihungen im Aussenrayon das
+Risiko potentiell grösser ist bzw. teilweise auch bereits höhere Risiken
+eingegangen worden sind. Indes kann aus dieser Aussage – mit Blick auf die
+eingangs formulierte Hypothese – nicht im Ansatz herausgelesen werden, dass
+bankintern bei der Vergabe von Krediten die "anerkannten
+Bankgrundsätzen" und/oder die internen Regeln und Weisungen missachtet
+würden. Kommt noch Folgendes hinzu: Die vom internen Inspektorat im
+September/Oktober 2005 durchgeführten Bonitätsprüfungen betrafen total
+40 Kreditengagements, worunter nur aber immerhin 12 ausserkantonale
+Ausleihungen. Vor diesem Hintergrund und ohne Kenntnis der konkret geprüften
+Kreditdossiers (im Prüfbericht sind alle personenbezogenen Hinweise
+eingeschwärzt) lässt sich letztlich auch nicht beurteilen, inwieweit sich die
+Bemerkung des Inspektorats betreffend die festgestellten erhöhten Risiken bei
+den neu akquirierten Geschäften effektiv auch auf unlängst eingegangene
+Kreditengagements im Aussenrayon bezieht.
+1.2.4
+Die Vorinstanz setzt
+sich nicht substantiell mit den diversen Prüfberichten und den von den
+beklagten Bankräten gemachten Einwendungen auseinander.
+Namentlich die beklagten Bankräte A.______ und B.______
+haben vorinstanzlich substanziiert aufgezeigt, dass und inwieweit aus ihrer
+Sicht der Bankrat die in den eben angesprochenen Berichten enthaltenen
+Erkenntnisse sachgemäss thematisiert und auch entsprechende Schritte in die
+Wege geleitet habe (act. 309 Rz. 176 ff.;
+Rz. 204 ff. je mit Hinweisen auf die erstinstanzlichen Vorbringen).
+Allein damit hat sich die Vorinstanz nicht vertieft auseinandergesetzt und
+insofern den Beklagten das rechtliche Gehör verweigert.
+Vor allem aber hat es die Vorinstanz unterlassen, sich
+entgegen den entsprechenden Vorbringen der Parteien (act. 141
+S. 31 ff., act. 143 Rz. 112 ff.) mit den zahlreich
+im Recht liegenden internen und externen Prüfberichten, Risikoberichten etc.
+für den Zeitraum 2005 bis 2007 inhaltlich näher zu befassen, diese zu
+würdigen und dabei konkret daraufhin zu untersuchen, ob und inwieweit sich
+daraus für den Bankrat effektiv Hinweise auf Missstände im Kreditwesen
+ergaben, die seitens des Bankrates Massnahmen notwendig gemacht hätten. Ohne
+hier ausführlicher zu werden, ist immerhin anzumerken, dass selbst aus Sicht
+der Vorinstanz diese Berichte "die Lage bei den Kreditengagements nicht
+als besorgniserregend darstellten" und "weiterhin erstaunlich
+positiv" ausfielen (act. 290 S. 59).
+Wenngleich darauf verzichtet
+wird, auf die in den Worten der Vorinstanz "weiterhin erstaunlich
+positiven" Berichte einzugehen, ist in diesem Kontext immerhin ein
+Auszug aus einem Schreiben der EBK vom 16. Mai 2007 wiederzugeben
+(act. 95/7); darin fasst die EBK eine Besprechung vom 9. Mai 2007
+wie folgt zusammen (S. 6 Ziff. 6):
+Beurteilung der Bank aus Sicht der Internen Revision
+und der externen Prüfgesellschaft, insbesondere im Kreditbereich
+Herr K.______
+[Leiter der internen Revision] hat uns einen Überblick über die
+Haupttätigkeitsfelder des Inspektorats gegeben, wobei das Risikomanagement,
+die Organisation und die Bonitätsprüfung schwergewichtig vertreten sind.
+Ungefähr ein Drittel des gesamten Prüfaufwandes wird für den Kreditbereich
+eingesetzt. Ansprechpartner für den leitenden Inspektor ist jeweils der
+zuständige Ausschuss des Bankrates (drei ordentliche Besprechungen pro Jahr).
+Der Bank wird eine angemessene Organisation und ein zweckmässiges internes
+Kontrollsystem attestiert. Die pendenten Geschäfte wurden zeitgerecht
+abgearbeitet.
+Herr L.______
+[externe Revisionsstelle] beurteilt die Bank heute als modern strukturiert
+und mit hohem Kontrollbewusstsein versehen. Die Ausschüsse nehmen ihre
+Aufgaben wahr und die Risikomanagement-Instrumente wurden erheblich
+verbessert. Die neue IT-Plattform wird als leistungsfähig und sicher
+bewertet. Für eine gesunde Ertragsstruktur sei Wachstum notwendig, wobei
+mittlerweile das ausserkantonale Geschäft eine zentrale Bedeutung erhalten
+habe. Bei den Ausleihungen an kommerzielle Grosskunden seien naturgemäss
+grosse latente Risiken vorhanden, und es werde anlässlich der jährlichen
+Bonitätsprüfungen grosses Gewicht auf die Prüfung und Bewertung der grossen
+Engagements gelegt, wie auch auf das Funktionieren der Kreditorganisation.
+Die Zusammenarbeit mit dem Inspektorat wird positiv erwähnt.
+Die J.______
+AG wird in diesem Jahr ausgedehnte Bonitätsprüfungen durchführen. Es wurde
+vereinbart, dass uns der entsprechende Bericht nach dessen Vorliegen umgehend
+zugestellt wird.
+1.2.5
+Wesentlich ist
+zugleich auch die Zeitachse
+Die Vorinstanz hält mit Bezug auf den Bankrat unter dem
+Blickwinkel "Nichterkennen von Fehlentwicklungen bei Kreditvergabe"
+(act. 290 S. 55 ff. E. 17.1.2.) dafür, "die
+warnenden Hinweise der internen Revision und der externen Revision vom
+November 2005, zusammen mit dem leicht erkennbaren unverhältnismässigen
+Wachstum der Kundenforderungen" hätten den Bankrat "spätestens
+Anfang des Jahres 2006 zur Kurskorrektur veranlassen müssen" (act. 290
+S. 59). Bis Ende 2005 aber waren von den hier streitgegenständlichen
+Kreditengagements bereits Kredite im Umfang von CHF 10.96 Mio. bewilligt
+(siehe dazu oben E. III. D.). Falls daher dem Bankrat nach Massgabe der
+konkreten Vorbringen der Klägerin sowie nach eingehender Auseinandersetzung
+mit den einschlägigen Akten pflichtwidrige Unterlassungen, wenn überhaupt,
+erst ab Anfang 2006 anzulasten wären, so fielen die bereits zuvor bewilligten
+Kredite verantwortlichkeitsrechtlich von vornherein ausser Betracht. Dieser
+Aspekt ist ebenso für alle nachfolgenden Kredite im Auge zu behalten, sollte
+für den Bankrat eine Handlungsnotwendigkeit erst ab einem noch späteren
+Zeitpunkt bestanden haben.
+2.
+Hypothese: Die
+Kreditentscheide stehen im Einklang mit den "anerkannten
+Bankgrundsätzen" sowie den bankinternen Regularien.
+Gesetzt den Fall (soweit eine materielle Prüfung anhand
+der verfügbaren Unterlagen überhaupt möglich ist), die Kreditentscheide der
+beklagten Geschäftsleitungsmitglieder entsprachen den "anerkannten
+Bankgrundsätzen" sowie den bankintern bestandenen Regularien, so ist als
+nächstes zu klären, ob die fraglichen Kreditvergaben ausserhalb des
+Stammeinzugsgebietes der GLKB als besonderes Risiko im Sinne von Art. 3
+Abs. 2 aKBG bzw. Art. 4 Abs. 2 aGOR zu qualifizieren sind. Die
+Vorinstanz hat in diesem Zusammenhang zutreffend festgehalten, dass
+Art. 3 Abs. 2 aKBG bzw. Art. 4 Abs. 2 aGOR [Verbot
+besonderer Risiken im Aussenrayon] direkt anwendbar sind, soweit die
+Handlungen der mit den konkreten Kreditentscheiden befassten
+Geschäftsleitungsmitglieder (Kreditausschuss) zu beurteilen sind
+(act. 290 S. 63).
+2.1
+Wie mussten die
+Geschäftsleitungsmitglieder den Begriff "besonderes Risiko"
+verstehen?
+Gemäss Art. 3 Abs. 2 aKBG bzw. Art. 4
+Abs. 2 aGOR sind Geschäfte ausserhalb des Stammeinzugsgebietes der GLKB
+[nur] zulässig, soweit der Bank daraus keine besonderen Risiken erwachsen und
+die Zweckerfüllung im Kanton Glarus und den angrenzenden Gebieten nicht
+beeinträchtigt wird.
+Bei direkter Anwendbarkeit von Art. 3 Abs. 2
+aKBG bzw. Art. 4 Abs. 2 aGOR ist vorab die Trennlinie zwischen noch
+erlaubtem Kreditrisiko und verbotenem (besonderem) Risiko zu bestimmen; diese
+Grenzziehung hat
+aus dem Blickfeld
+der für die Kreditentscheide
+zuständigen Geschäftsleitung (Kreditausschuss) zu erfolgen. Das Gericht hat
+sich dabei allerdings nicht die Sichtweise der hier konkret beklagten
+Geschäftsleitungsmitglieder zu eigen zu machen, sondern es ist von einer
+abstrakt vorgestellten Geschäftsleitung auszugehen. Konkret ist danach zu
+fragen, wo genau eine
+abstrakt
+gedachte, ordnungsgemäss handelnde Person in der Funktion eines
+Geschäftsleitungsmitgliedes die Grenze zwischen erlaubtem und verbotenem
+Risiko abgesteckt hätte; massgeblich ist hierbei der Wissensstand, den die
+abstrakt vorgestellte Geschäftsleitung im fraglichen Zeitpunkt hatte bzw.
+hätte haben müssen. Es hat mithin eine ex ante Betrachtung stattzufinden
+(BGer,
+Urteil vom 13. Dezember 2016, 4A_259/2016,
+4A_267/2016, E. 5.1, Urteil vom 11. November 2015, 4A_603/2014,
+E. 7.1.1;
+Luterbacher
+, in:
+Fischer/Luterbacher [Hrsg.], Haftpflichtkommentar, Zürich/St. Gallen
+2016, N 30 zu Art. 754 OR
+).
+2.2
+Konkrete Prüfung, ob
+Kreditentscheide besondere Risiken darstellten; Business Judgement Rule
+2.2.1
+Ist nach Massgabe der vorstehenden Erwägungen
+die Grenzlinie zu den verbotenen besonderen Risiken gemäss Art. 3
+Abs. 2 aKBG gezogen, bleibt als nächstes zu klären, ob die hier
+interessierenden Kreditentscheide diesseits der Trennlinie, und damit noch im
+erlaubten Bereich, oder jenseits davon anzusiedeln sind. Soweit letzteres der
+Fall ist und die Kreditengagements zu hohe Risiken in sich bargen, hätten die
+Geschäftsleitungsmitglieder (Kreditausschuss) von diesen Kreditgeschäften
+absehen müssen.
+2.2
+.
+2
+Bei der Beurteilung, inwieweit
+einzelne Kreditengagements ein besonderes Risiko im Sinne von Art. 3
+Abs. 2 aKBG bzw. Art. 4 Abs. 2 aGOR (nach Massgabe der zuvor
+gezogenen Grenzlinie) dargestellt haben, ist die sogenannte Business
+Judgement Rule zu beachten. Danach haben die Gerichte sich bei der
+nachträglichen Beurteilung von Geschäftsentscheiden Zurückhaltung
+aufzuerlegen, wenn diese in einem einwandfreien, auf einer angemessenen
+Informationsbasis beruhenden und von Interessenkonflikten freien
+Entscheidprozess zustande gekommen sind. Ist dies der Fall, haben die
+Gerichte den Geschäftsentscheid in inhaltlicher Hinsicht lediglich darauf zu
+prüfen,
+ob er als vertretbar erscheint
+. Sind die Voraussetzungen
+jedoch nicht gegeben, rechtfertigt es sich nicht, besondere Zurückhaltung zu
+üben. In solchen Fällen liegt eine Pflichtverletzung vor, wenn ein
+Geschäftsentscheid bei umfassender Prüfung als fehlerhaft erscheint (BGer,
+Urteil vom 13. Dezember 2016, 4A_259/2016, 4A_267/2016,
+E. 5.1; Urteil vom 11. November 2015, 4A_603/2014, E. 7.1.1
+).
+Bei der Sorgfaltsbeurteilung ist sodann, wie bereits zuvor dargelegt, stets
+auf den
+Wissensstand abzustellen, über den das beklagte
+Organmitglied im Zeitpunkt der fraglichen Handlung oder Unterlassung verfügt
+hat bzw. hätte verfügen müssen
+.
+2.3.
+Fazit
+betreffend Haftung der Geschäftsleitungsmitglieder
+Waren bei den hier streitgegenständlichen
+Kreditvergaben die
+"anerkannten Bankgrundsätze" sowie die
+internen Regeln und Weisungen eingehalten und bewegten sich die Kredite aus
+vertretbarer Sicht der Geschäftsleitungsmitglieder ebenso noch innerhalb der
+Grenze von Art. 3 Abs. 2 aKBG (keine besonderen Risiken im
+Aussenrayon), so haben die beklagten Mitglieder der Geschäftsleitung
+(Kreditausschuss) die Kreditentscheide ordnungsgemäss getroffen und könnten
+diesfalls verantwortungsrechtlich nicht belangt werden.
+2.4
+Hätte
+der Bankrat für Aussenrayongeschäfte zusätzliche Regeln erlassen müssen?
+2.4.1
+Unter der
+Prämisse, dass die Kreditentscheide nach Massgabe der anerkannten
+Bankgrundsätze und der internen Regeln und Weisungen korrekt zustande
+gekommen sind, interessiert an dieser Stelle die Frage, ob aufgrund
+substantiierter und belegter Vorbringen der Klägerin die Kreditengagements im
+Aussenrayon zu einer für die Bank problematischen Risikoexposition führten
+und diese Entwicklung für den Bankrat auch tatsächlich erkennbar war. Ist
+diese Frage zu bejahen, so ist als nächstes zu klären, inwiefern für den
+Bankrat als für die Bestimmung der Strategie und Risikopolitik der Bank
+zuständiges Organ (Art. 15 lit. b aKBG) in Anwendung der Business
+Judgement Rule eine Handlungsnotwendigkeit bestanden hat. Ergibt diese
+Beurteilung, dass vonseiten des Bankrates Vorkehrungen zur Eingrenzung von
+Kreditvergaben spezifisch im Aussenrayon geboten gewesen wären, hätte der
+Bankrat für deren pflichtwidrige Unterlassung verantwortlichkeitsrechtlich
+einzustehen (siehe zur Pflichtverletzung durch Unterlassung bereits oben
+E. III. H.1.2.2).
+2.4.2
+Ist die Vertretbarkeit der damaligen
+Strategie und Risikopolitik durch den Bankrat im Lichte der Business
+Judgement Rule zu beurteilen, wird namentlich auch die damalige
+Geschäftssituation der GLKB und deren Marktumfeld in die Betrachtung
+miteinzubeziehen sein. Es ist aktenkundig, dass in den frühen 2000er Jahren
+das Kreditportfolio der GLKB ein wohl nicht unerhebliches
+Konzentrationsrisiko im Kanton Glarus aufwies. Im Jahr 2002 musste die GLKB
+bei Firmen- und Privatkrediten Rückstellungen in Höhe von CHF 5.9 Mio.
+bilden, wovon CHF 4.8 Mio. (80%) auf Kredite im Kanton Glarus
+entfielen; 2003 betrug der Rückstellbedarf bei Glarner Krediten CHF 15.3
+Mio. (88% der gesamten neuen Rückstellungen von CHF 17.2 Mio.); 2004
+machten die "kantonalen" Rückstellungen CHF 5.9 Mio. aus und
+damit 95% der neu gebildeten Rückstellungen von insgesamt CHF 6.1 Mio.
+Nicht anders präsentierte sich das Bild bei den Verlusten bezüglich Privat-
+und Firmenkredite: 2002 betrugen diese im Kanton Glarus CHF 4.4 Mio.
+(66% von total CHF 6.6 Mio.); 2003 beliefen sich die Verluste
+kantonsintern auf CHF 10.4 Mio. (97 % von insgesamt CHF 10.7
+Mio.); 2004 machten die Verluste im Kanton CHF 5.2 Mio. aus und damit
+74% von insgesamt CHF 7 Mio. (siehe zum Ganzen act. 95/6
+S. 4). Vor diesem Hintergrund sah man bankintern die Ausweitung der
+Geschäftstätigkeit über das Gebiet des Kantons Glarus hinaus als Massnahme
+zur Risikodiversifikation (siehe dazu act. 259/5 S. 23 unten).
+Kommt dazu, dass im damaligen Zeitraum von Glarner Kunden selber zunehmend
+weniger Kredite nachgefragt wurden (act. 95/29 S. 36, siehe zur
+ganzen Thematik auch act. 143 Rz. 63 ff.).
+2.5
+Welche
+Vorkehrungen hätte der Bankrat konkret und zu welchem Zeitpunkt treffen
+müssen?
+2.5.1
+Die
+Vorinstanz hat als Fazit hinsichtlich der dem Bankrat angelasteten
+Pflichtverletzungen festgehalten, dieser habe es pflichtwidrig versäumt,
+"das Aussenrayongeschäft angemessen" zu regeln und dadurch
+"Fehlentwicklungen bei der Kreditvergabe" vorzubeugen
+(act. 290 S. 61 E. 17.1.4.). Hierzu hat die Vorinstanz zuvor
+erwogen, für Kreditgeschäfte im Aussenrayon seien keine speziellen
+Voraussetzungen "wie ein notwendiges Mindestrating oder verbindlich
+tiefere Limiten" definiert gewesen (act. 290 S. 54); sodann
+sei ein "ein nahezu explodierendes Wachstum" der Kreditausleihungen
+("Forderungen gegenüber Kunden", darunter auch Kredite im
+Aussenrayon) erkennbar gewesen, was den Bankrat "spätestens Anfang des
+Jahres 2006 zur Kurskorrektur" hätte veranlassen müssen, indes habe der
+Bankrat "bildlich gesprochen" weder "die Handbremse
+gezogen" noch "das Steuer herumgerissen" (act. 290
+S. 58 f.).
+2.5.2
+Diese
+allgemein gehaltenen Erkenntnisse der Vorinstanz vermögen noch keine
+haftungsrechtliche Verantwortlichkeit im Sinne von Art. 754 OR zu
+begründen. Im Verantwortlichkeitsprozess ist es unerlässlich, auf der
+Grundlage der Vorbringen der Verantwortlichkeitsklägerin zu erwägen und
+festzuhalten, ob und gegebenenfalls zu welchem Zeitpunkt konkret welche
+Massnahmen zu treffen gewesen wären, um einen als unhaltbar erkannten Zustand
+im Bereich der Kreditvergabe zu beheben. Sodann ist zu eruieren, wie sich
+entsprechende Massnahmen spezifisch auf die streitgegenständlichen
+Kreditvergaben ausgewirkt hätten. Mit anderen Worten ist in Bezug auf die
+einzelnen Kreditentscheide zu klären, inwieweit diese anders ausgefallen
+wären, hätten für Kredite im Aussenrayon zusätzliche Regeln bestanden. Gerade
+in diesem Zusammenhang sei auf folgenden Aspekt hingewiesen: Hätte
+tatsächlich, wie die Klägerin erstinstanzlich vorgebracht hat, eine
+Notwendigkeit bestanden, die Vergabe von Blankokrediten im Aussenrayon auf maximal
+CHF 7 Mio. zu begrenzen (act. 93 Rz. 414, Rz. 770), so
+wären die fraglichen Kreditengagements unter Umständen zumindest bis zu
+dieser Höhe gleichwohl getätigt worden ‑ wobei ohnehin nur das
+S.______- und V.______-Engagement diese Limite übertreffen ‑ und
+könnten die Kredite jedenfalls bis zur Höhe von CHF 7 Mio. dem
+Bankrat verantwortungsrechtlich womöglich nicht angelastet werden (siehe dazu
+auch act. 309 Rz. 155 ff.).
+2.5.3
+Anzufügen
+bleibt sodann noch Folgendes: Die Vorinstanz hat im angefochtenen Entscheid
+dem Bankrat angelastet, er habe es pflichtwidrig versäumt, die
+Voraussetzungen "keine besonderen Risiken" und "keine
+Beeinträchtigung der Zweckerfüllung im Kanton Glarus" eingehend zu
+definieren und zu regeln und damit das gesetzlich und reglementarisch
+gewährte grosse Ermessen der Geschäftsleitung angemessen einzuschränken. Erst
+ab August 2007, als der Schaden bereits weitgehend angerichtet gewesen sei,
+habe der Bankrat diese Mängel behoben (act. 290 S. 54). Falls aber
+selbst aus Sicht der Vorinstanz zumindest ab August 2007 kein
+Regelungsdefizit mehr bestanden haben sollte, so wäre von der Vorinstanz
+immerhin zu erörtern gewesen, warum die Bankräte trotzdem noch für die beiden
+Kreditvergaben im Oktober 2007 (Privatkredit von EUR 0.35 Mio. an SX.______)
+und im Dezember 2007 (Kredit von CHF 1 Mio. an die T.______ AG)
+verantwortlichkeitsrechtlich einzustehen haben (siehe die Chronologie der
+Kreditvergaben oben E. III. D. 7.). Zwar hat die Vorinstanz ein
+Pflichtversäumnis der Bankräte neben der fehlenden Regelung des
+Aussenrayongeschäfts auch noch darin erkannt, dass der Bankrat die
+"Fehlentwicklungen bei Kreditvergabe" nicht erkannt habe
+(act. 290 S. 55 ff. E. 17.1.2.). Wenn jedoch gemäss
+vorinstanzlicher Erkenntnis ab August 2007 "für Aussenrayonkredite ein
+Mindestrating eingeführt, die Limite reduziert und für höhere Engagements ein
+notwendiger Entscheid des Bankrats zur Pflicht gemacht" wurde
+(act. 290 S. 54), so würde freilich ebenso unter dem Gesichtswinkel
+dieses zweiten Vorwurfs an die Adresse der Bankräte interessieren, inwiefern
+sich der betreffende Vorhalt auch noch ab August 2007 aufrechterhalten lässt.
+I.
+Die
+Verantwortlichkeit der bankengesetzlichen Revisionsstelle
+Alle mit der Prüfung der Jahresrechnung
+befassten Personen sind der Gesellschaft für den Schaden verantwortlich, den
+sie durch absichtliche Fehler oder fahrlässige Verletzung ihrer Pflichten
+verursachen (Art. 755 Abs. 1 OR).
+Wie vorstehend aufgezeigt, sind vorliegend
+die streitgegenständlichen Kreditengagements daraufhin zu prüfen, ob
+überhaupt und gegebenenfalls welche Pflichtverletzungen auf welcher Stufe
+(Geschäftsleitung und/oder Bankrat) begangen worden sind. Erst wenn darüber
+Klarheit besteht, lässt sich nach Massgabe der Darstellungen der Klägerin in
+einem nächsten Schritt prüfen, inwieweit die beklagte bankengesetzliche
+Revisionsstelle sich im Rahmen der ihr obliegenden Prüf- und Kontrollaufgaben
+pflichtwidrige Versäumnisse hat zuschulden kommen lassen. Dabei wird eine
+eingehende Auseinandersetzung mit den substanziellen Vorbringen der beklagten
+Revisionsstelle tunlich sein. Namentlich wird eine allfällige
+Verantwortlichkeit der Revisionsstelle womöglich nicht unwesentlich davon
+abhängen, inwieweit die externe Revisionsstelle bei ihrer Prüf- und
+Kontrolltätigkeit auf die vom internen Inspektorat erlangten Erkenntnisse
+abstellen durfte (siehe dazu auch die entsprechenden Beweisanträge der
+beklagten Revisionsstelle bei act. 215; siehe dazu etwa auch den
+Management Letter der externen Revision vom 13. Januar 2006, act. 95/52
+S. 3 unten: „Für die Prüfung der Einhaltung von Gesetzen und
+Vorschriften im Rahmen von Einzeldossierprüfungen stützen wir uns auf die
+Ergebnisse der internen Revision ab“). Es ist jedenfalls aktenkundig, dass
+gerade das interne Inspektorat sich in nicht geringem Umfang (jährlich rund
+40 Personentage) mit Bonitätsprüfungen im Kreditbereich befasst hat
+(act. 144/15 S. 5;
+144/17 S. 5;
+act. 144/19 S. 5).
+Sodann wird fundiert zu
+prüfen sein, wie sich das Kreditgeschäft im Einzelnen effektiv entwickelt hat.
+Die Klägerin macht unter anderem geltend, die beklagte Revisionsstelle hätte
+das "eklatante Fehlen des Risikobewusstseins im Kreditausschuss
+spätestens anlässlich der Revision für das Jahr 2005" bemerken müssen
+(act. 93 Rz. 794). Indes zeigt eine Übersicht über die Entwicklung
+von Krediten an geratete Kunden, dass ab Anfang 2004 bis August 2006 das
+Volumen an Krediten mit Rating 1-6 ("kleinstes Risiko") von CHF 400
+Mio. vorübergehend auf fast CHF 800 Mio. (1. Quartal 2006) anstieg und
+schliesslich bei CHF 700 Mio. angelangte, das Kreditvolumen mit
+"mittlerem Risiko" (R7-R9) von CHF 420 Mio. auf CHF 500
+Mio. anwuchs, während Kredite mit höchsten Risiken (R10-12) während der
+gesamten Periode konstant bei knapp CHF 200 Mio. verharrten; in dieser
+Übersicht allerdings nicht enthalten sind Retail-/Privatkunden mit einer
+Ratingklasse 0 im Umfang von CHF 1.3 Mrd. (act. 95/47
+S. 22 Ziff. 3.2.1, siehe sodann auch S. 24 unten). Ohnehin
+wird die Zeitachse ganz besonders im Auge zu behalten sein, indem die
+bankengesetzliche Revisionsstelle für allfällige Unzulänglichkeiten im
+Kreditwesen der GLKB verantwortungsrechtlich erst von dem Moment an
+einzustehen hat, als sie bei pflichtgemässer Ausübung ihres Prüfmandats die
+Mängel erkennen konnte bzw. hätte erkennen müssen. Sogar aus Sicht der
+Klägerin selber konnte die beklagte Revisionsgesellschaft die behauptete
+Fehlentwicklung erst ab Ende 2005 erkennen und hat darum die Klägerin die
+Revisionsstelle nicht für die gesamten streitgegenständlichen Kreditausfälle
+belangt (act. 93 Rz. 705). Gleichwohl hat die Vorinstanz die
+Schadenersatzpflicht der Revisionsgesellschaft ausgehend vom Gesamtschaden
+(also inklusive der bereits 2005 bewilligten Kredite) bemessen (act. 290
+S. 92).
+J.
+Die Vorinstanz geht
+von einem unzutreffenden Schadensbegriff aus
+1.
+Die Vorinstanz hat im angefochtenen
+Entscheid im Einklang mit der Darstellung der Klägerin (act. 93
+Rz. 703) den Schaden mit den behaupteten Forderungsausfällen aus den
+streitgegenständlichen Kreditgeschäften gleichgesetzt (act. 290
+S. 77 E. 22 und S. 38 ff. E. 16.). Im Ergebnis
+übernimmt damit die Vorinstanz als Schaden den mutmasslichen
+Erfüllungsanspruch, welcher der GLKB aus den fraglichen Kreditverträgen
+gegenüber den einzelnen Kreditschuldnern zusteht (Anspruch auf Rückzahlung
+der Kredite samt Zinsen und weiteren vereinbarten Zusatzkosten wie namentlich
+Gebühren und Risikoprämien [siehe dazu act. 95/134 S. 2;
+act. 95/187]).
+2.
+2.1
+Der hier
+massgebliche Schadenersatzanspruch ist jedoch wesentlich anspruchsvoller zu
+berechnen als der Erfüllungsanspruch. In konstanter Rechtsprechung zum
+Verantwortlichkeitsrecht hält das Bundesgericht fest, dass auch da der
+allgemeine Schadensbegriff des Haftpflichtrechts und die herkömmliche
+Differenztheorie zur Anwendung gelangen. Demnach ist der Schaden die
+ungewollte Verminderung des Reinvermögens. Der Schaden kann in einer
+Verminderung der Aktiven, einer Vermehrung der Passiven oder in entgangenem
+Gewinn bestehen. Der Schaden entspricht der Differenz zwischen dem
+gegenwärtigen Stand des Vermögens und dem hypothetischen Stand des Vermögens
+ohne das schädigende Verhalten oder Ereignis, wobei konkret die klagende
+Partei den tatsächlichen Zustand ihres Vermögens sowie den hypothetischen
+höheren Vermögensstand ohne schädigendes Ereignis zu behaupten und zu
+beweisen hat (allgemein BGE 132 III 186 E. 8.1 S. 205; speziell für das
+Verantwortlichkeitsrecht BGE 142 III 23 E. 4.1 S. 27 f. mit Hinweisen). Nach
+der Differenztheorie sind somit zwei Vermögensstände miteinander zu
+vergleichen, nämlich der Vermögensstand mit dem schädigenden Ereignis und der
+hypothetische Vermögensstand ohne das schädigende Ereignis (BGE 127 III 73 E.
+4a S. 75 f.; siehe auch BGer, Urteil vom 16. Januar 2017, 4A_271/2016,
+E. 3.1. sowie 3.2. [dort Ausführungen dazu, wenn der Schaden nicht
+ziffernmässig nachweisbar ist]). Die beklagten Parteien haben erstinstanzlich
+auf den diesbezüglich relevanten Schadensbegriff hingewiesen und dabei
+geltend gemacht, ein entsprechender Schaden im Sinne der Differenztheorie sei
+anhand der Vorbringen der Klägerin nicht erstellt (siehe etwa act. 143
+Rz. 164 ff.; act. 145 Rz. 274 ff.; act. 147
+Rz. 301 ff.); die Vorinstanz hat sich damit jedoch nicht
+auseinandergesetzt.
+2.2
+Soweit
+vorliegend Pflichtverletzungen einzelner Beklagten erstellt sein sollten,
+wird demnach ein allfälliger Schaden im Sinne der eben dargestellten
+Differenztheorie zu eruieren sein, wobei die entsprechende Abklärung nach
+Massgabe der von der Klägerin erstinstanzlich gemachten Vorbringen zu
+erfolgen hat. Bei der Schadensermittlung nach der Differenztheorie wird
+sodann speziell zu erwägen sein, ob konkret nur die streitbetroffenen
+Kreditengagements in die Beurteilung einzubeziehen sind oder ob der
+Blickwinkel zu öffnen und dabei konkret auf ein ganzes Geschäftsfeld (hier
+wohl Firmenkredite im Aussenrayon) auszurichten ist (siehe dazu
+Zürcher
+, Der Schaden im
+Verantwortlichkeitsprozess, in: Weber/Isler [Hrsg.], Verantwortlichkeit im
+Unternehmensrecht VI, Zürich 2012, S. 7 ff.;, ebenda
+Nater/Blumer
+, Vorteilsanrechnung in
+der aktienrechtlichen Verantwortlichkeit, S. 53 ff., siehe dort
+insbesondere auch S. 64). Insoweit sich ein Schaden im aufgezeigten Sinn
+nicht feststellen lässt, weil die Klägerin keinen im Rahmen der erhobenen
+Verantwortlichkeitsklage relevanten Schaden substanziiert vorgetragen und
+belegt hat, wäre deren Klage abzuweisen.
+2.3
+Falls im Übrigen allein nur die
+streitgegenständlichen Kreditengagements für die Schadensermittlung relevant
+sein sollten, wären immerhin allfällige finanzielle Vorteile, die aus den
+Kreditgeschäften womöglich erlangt worden sind ("gutes Pricing",
+"Risikoprämien", siehe dazu
+act. 95/134
+S. 2; act. 95/187), an die erlittenen Ausfälle anzurechnen.
+K.
+Décharge
+1.
+Der Landrat (Kantonsparlament) hat an seiner Sitzung vom
+26. April 2006 den Geschäftsbericht und die Jahresrechnung 2005 der GLKB
+genehmigt und den Bankorganen für das Geschäftsjahr 2005 Entlastung
+(Décharge) erteilt (act. 144/8 S. 1 f.). Analog entschied der
+Landrat am 25. April 2007 in Bezug auf das Geschäftsjahr 2006
+(act. 144/9 S. 1 f.). Für das Folgejahr 2007 jedoch ist den
+Bankorganen die Entlastung nicht mehr erteilt worden (Gerichtsnotorietät).
+2.
+Davon ausgehend, dass der Entlastungsbeschluss nur für
+bekanntgegebene
+Tatsachen wirkt (Art. 758 Abs. 1 OR), hat die Vorinstanz im
+angefochtenen Entscheid erwogen, der Landrat möge wohl Kenntnis von der
+eingeschlagenen Wachstumsstrategie und auch vom markanten Zuwachs an
+ungedeckten Krediten an Firmenkunden gehabt haben, nicht jedoch davon, dass
+dieser markante Zuwachs auf Kreditengagements beruht habe, die "teils
+gesetzes- und reglementswidrig an risikobehaftete Start-Up-Unternehmen
+ausserhalb des Kantons vergeben worden" seien. Daraus folgerte die
+Vorinstanz, dass "die vorliegend relevanten Kreditengagements nicht von
+der Décharge-Erteilung der Jahre 2005 und 2006 erfasst und […] damit auch
+allfällige Schadenersatzansprüche daraus nicht untergegangen" seien
+(act. 290 S. 90).
+3.
+Es ist obsolet, an dieser Stelle über die Schlüssigkeit
+des vorinstanzlichen Standpunkts zur Wirkung der beiden Entlastungsbeschlüsse
+für die Jahre 2005 und 2006 zu befinden. Denn im Sinne der vorstehenden
+Erwägungen werden die hier relevanten Geschäftsvorgänge noch einmal zu prüfen
+sein und wird dann
+mit Blick auf die entsprechenden Ergebnisse
+auch die
+Tragweite der erteilten Entlastungen noch einmal von neuem zu beurteilen
+sein.
+L.
+Verrechnung
+1.
+1.1
+Die hier beklagten Bankräte und
+Geschäftsleitungsmitglieder haben erstinstanzlich allesamt
+Eventualverrechnung mit einer Schadenersatzforderung von je CHF 20 Mio.
+erklärt. Sie hätten nämlich davon ausgehen können, dass sie als damalige
+Organe der GLKB bei der Zürich Versicherungs-Gesellschaft AG für eine
+Versicherungssumme von je CHF 20 Mio. versichert gewesen seien
+(Organhaftpflicht).
+1.2
+In den Akten befindet sich ein Vertrag zwischen
+der Zürich Versicherung und der GLKB über eine Organhaftpflichtversicherung
+(act. 142/9), wobei die vereinbarte Versicherungssumme CHF 20 Mio. pro
+Anspruch und Versicherungsperiode beträgt (act. 142/9 S. 2). Die Versicherung
+stellt sich indes auf den Standpunkt, aus diesem Vertrag keine Leistungen
+erbringen zu müssen, da die GLKB seinerzeit bei der Erneuerung der
+Versicherungspolice "die Frage nach Ereignissen oder Umständen, die zu
+einem unter die beantragte Versicherung fallenden Schadenersatzbegehren
+führen könnten", unzutreffend mit "Nein" beantwortet habe
+(siehe dazu act. 142/10).
+1.3
+Aus erstinstanzlich vertretener Sicht der
+beklagten Bankräte konnte der Bestand einer Organhaftpflichtpolice
+vorausgesetzt werden und hat allein die Klägerin dafür einzustehen, wenn die
+Zürich Versicherung für den Schaden der Klägerin nicht einstehen wolle
+(act. 141 S. 55 f. und act. 219 Rz. 42; act. 143
+Rz. 11 in fine und Rz. 218 ff. sowie act. 225
+Rz. 285-291). Die beklagten Geschäftsleitungsmitglieder F.______,
+G.______ und H.______ machen ihrerseits geltend, im Falle einer fehlenden
+Organhaftpflichtversicherung hätte die GLKB ihnen gegenüber ihre
+Fürsorgepflicht als Arbeitgeberin verletzt und wäre entsprechend ersatzpflichtig
+(act. 145 Rz. 519 ff. und act. 221 Rz. 302 ff.;
+act. 147 Rz. 422 ff. und act. 222 Rz. 192 ff.
+und Rz. 327 f.; act. 151 Rz. 386 ff. und
+act. 217 Rz. 949 ff.).
+2.
+Die Vorinstanz hat die Verrechenbarkeit der von den
+Beklagten angeführten Ansprüche auf der einen Seite mit den von der Klägerin
+eingeklagten Forderungen auf der anderen Seite verneint. Die zentrale
+Erwägung der Vorinstanz hierzu lautet (act. 290 S. 98 f.):
+Vorliegend sind die Verrechnungsforderungen der
+Beklagten 1 – 8 Schadenersatzforderungen gegen die Klägerin. Ob diese
+Schadenersatzforderungen zu Recht bestehen, beurteilt sich jedoch nicht
+primär im Verhältnis zwischen den Beklagten 1 – 8 und der Klägerin, sondern
+vielmehr im Verhältnis der Beklagten 1 – 8 zur Zürich Versicherungs-Gesellschaft
+AG (act. 142/9). So bestimmt Art. 17 der Vertragsbedingungen, dass aus dem
+Versicherungsvertrag mit Ausnahme der Schadloshaltung der Klägerin
+ausschliesslich die versicherten Personen, vorliegend die Beklagten 1 – 8
+anspruchsberechtigt sind. In Art. 20 der Vertragsbedingungen vereinbarten die
+Vertragsparteien zudem Zürich und nicht Glarus als Gerichtsstand (act. 142/9
+S. 14). Nachdem die Zürich Versicherungs-Gesellschaft AG angekündigt
+hatte, für allfällige Verantwortlichkeitsansprüche gegen die Beklagten 1 – 8
+keine Leistungen erbringen zu können (act. 142/10), hat bislang – soweit dem
+Gericht bekannt – keine der Beklagten 1 – 8 versucht, eine
+Versicherungsdeckung rechtlich zu erwirken, zumal sie bislang auch noch nicht
+zu Schadenersatzzahlungen verurteilt worden sind. So haben die Beklagten 1,
+2, 3, 4, 5 und 8 ausdrücklich eine koordinierte Klage gegen die Zürich
+Versicherungs-Gesellschaft AG zur Klärung dieser Frage, wie von der Klägerin
+vorgeschlagen (act. 121/3), abgelehnt (act. 121/1 und 121/2). Die
+Klägerin hat daraufhin allein eine Feststellungsklage über die
+Versicherungsdeckung gegen die Zürich-Versicherungs-Gesellschaft AG beim
+Handelsgericht des Kantons Zürich angestrengt, in der Folge aber einen
+Nichteintretensantrag anerkannt, womit auf die Klage nicht eingetreten wurde
+(act. 270). Ob ein Anspruch der Beklagten 1 – 8 oder der Klägerin
+gegenüber der Zürich Versicherungs-Gesellschaft AG nun besteht oder nicht,
+ist damit nach wie vor offen und kann vorliegend auch nicht beurteilt werden,
+zumal die Zürich Versicherungs-Gesellschaft AG nicht Partei in diesem
+Verfahren ist und ihr auch keine der Beklagten 1 – 8 gemäss Art. 104 Abs. 1
+ZPO GL den Streit verkündet hat. Im Ergebnis sind somit die
+Verrechnungsforderungen der Beklagten 1 – 8 gegen die Klägerin abhängig von
+Forderungen gegenüber einer Drittpartei. Den Verrechnungsforderungen fehlt es
+damit an der direkten Einziehungsbefugnis durch die Beklagten 1 – 8 gegenüber
+der Klägerin, der Fälligkeit und Durchsetzbarkeit, mithin der Existenz.
+Damit stehen den Verrechnungsforderungen der Beklagten
+1 – 8 rechtshindernde Tatsachen entgegen, welche vorliegend eine Verrechnung
+verunmöglichen. Die Fragen, ob der Abschluss einer
+Organhaftpflichtversicherung durch den Arbeitgeber zu dessen Fürsorgepflicht gemäss
+Art. 328 Abs. 1 OR gehört und ob die Beklagten 1 – 8 die Verrechnung innert
+Frist erklärt haben, können daher offengelassen werden.
+3.
+3.1
+Die Beklagten erachten die rechtliche
+Argumentation der Vorinstanz für unzutreffend und machen in ihren Berufungen
+geltend, die Verrechnung sei zuzulassen. Die Vorinstanz verkenne, dass sie
+[die Beklagten] nicht eine gegenüber der Zürich Versicherung bestehende
+Forderung gegenüber der Klägerin einziehen wollten. Sie [die Beklagten]
+hätten im vorinstanzlichen Verfahren nicht geltend gemacht, sie verfügten
+gegenüber der Zürich Versicherung über eine Forderung in Höhe von CHF 20
+Mio., die sie mit der eingeklagten Forderung der Klägerin verrechnen könnten.
+Vielmehr hätten sie geltend gemacht, dass die Klägerin dafür verantwortlich
+sei, wenn sie gegenüber der Zürich Versicherung
+gerade nicht
+über eine
+solche Forderung über CHF 20 Mio. verfügten, falls die Klägerin ihre
+sich aus dem Versicherungsvertrag ergebenden Pflichten, namentlich die
+Anzeigepflicht, verletzt habe. Insoweit nämlich sie [die Beklagten] wegen
+eines Fehlverhaltens der Klägerin nicht gegen allfällige Haftungsfolgen
+versichert seien, habe die Klägerin ihnen [den Beklagten] gegenüber dafür
+einzustehen, dass sie [die Beklagten] über keinen Versicherungsschutz
+verfügten. Mit dieser entsprechenden Schadenersatz-forderung gegenüber der
+Klägerin hätten sie [die Beklagten] (eventualiter) die Verrechnung erklärt
+und habe die Vorinstanz in der Folge zu Unrecht die Existenz der
+Verrechnungsforderung verneint bzw. nicht einmal geprüft (act. 309
+Rz. 420 und Rz. 426 f.; act. 314 Rz. 517 ff.;
+act. 317 Rz. 441 und Rz. 447; act. 319 S. 50
+lit. d).
+3.2
+Die Vorinstanz hat im angefochtenen Entscheid
+die Argumentation der beklagten Bankräte und Geschäftsleitungsmitglieder zur
+Begründung ihrer verrechnungsweise vorgetragenen Ersatzforderung verkannt.
+Diese machen nicht einen Anspruch gegenüber der Versicherung geltend, sondern
+berufen sich darauf, dass ihnen aufgrund eines fehlerhaften Verhaltens der
+Klägerin aus dem Versicherungsvertrag gerade keine Deckung zustehe und als
+Folge davon nun die Klägerin ihnen gegenüber entsprechend ersatzpflichtig
+werde. Es trifft daher nicht zu, wenn die Vorinstanz ausführt, die
+Verrechnungsforderung der Beklagten gegen die Klägerin sei abhängig von
+Forderungen gegenüber einer Drittpartei [Versicherung].
+Es wird daher im Lichte der von den Beklagten
+erstinstanzlich gemachten Vorbringen zu prüfen sein,
+ob und
+inwiefern eine Verpflichtung der GLKB bestand, ihre Organe gegen
+haftungsrechtliche Folgen allfälliger Versäumnisse in ihrem Aufgabenbereich
+zu versichern. Ist diese Frage zu bejahen und ist die GLKB dieser
+Obliegenheit aus eigenem Verschulden nicht nachgekommen und bestand daher
+zugunsten der Organe der GLKB kein Versicherungsschutz, so ist die Klägerin
+gegenüber den beklagten Bankräten und Geschäftsleitungsmitgliedern
+möglicherweise ersatzpflichtig, insoweit diese (hypothetisch) aus dem
+Versicherungsvertrag Leistungen erwarten könnten (siehe dazu act. 142/9,
+dort insbesondere Art. 1, Art. 3 und Art. 10 des Vertrags).
+Die Beklagten können die entsprechenden Ersatzforderungen gegenüber der
+Klägerin zur Verrechnung stellen.
+Weil vorliegend die Leistungspflicht der Zürich
+Versicherung strittig ist (act. 142/10), würden im Falle einer Verrechnung
+allfällige Ansprüche der Beklagten gegenüber der Zürich Versicherung auf die
+Klägerin übergehen (act. 142/9, Art. 17 des Vertrags; was
+idealerweise so auch im Urteilsdispositiv festzuhalten wäre) und wären dann
+von dieser weiterzuverfolgen.
+IV.
+Fazit
+1.
+Rückweisung
+der Streitsache an die Vorinstanz zur Neubeurteilung
+Aus den vorstehenden Erwägungen ergibt sich, dass der
+vorliegende Streitfall anders anzugehen ist, als es die Vorinstanz
+unternommen hat, wie dies im Einzelnen auch die beklagten Bankräte und
+Geschäftsleitungsmitglieder sowie die beklagte Revisionsgesellschaft je in
+ihren Berufungen vorgebracht haben.
+Die
+Rechtsmittelinstanz
+kann die Sache an die erste Instanz zurückweisen, wenn ein wesentlicher Teil
+der Klage nicht beurteilt wurde oder der Sachverhalt in wesentlichen Teilen
+zu vervollständigen ist (Art. 318 Abs. 1 lit. c ZPO). Wie oben
+erörtert, sind erstinstanzlich mehrere zentrale Aspekte des Streitfalls nicht
+hinreichend geklärt worden.
+Es ist nicht Aufgabe des Obergerichts als
+Zweitinstanz, eine, wie hier erforderlich, umfassende Neubeurteilung der
+massgebenden Tat- und Rechtsfragen nachzuholen. Das Obergericht nähme damit
+geradezu die Funktion eines Erstgerichts ein und könnten danach die Parteien
+den betreffenden Entscheid innerkantonal nicht mehr mit einem vollkommenen
+Rechtsmittel anfechten (siehe dazu
+Retz/Hilber
+,
+in: Sutter-Somm/Hasenböhler/Leuenberger, ZPO Komm., 3. A, N 29 zu
+Art. 318; BSK-
+Spühler
+,
+N 5 zu Art. 318 ZPO). Aus diesem Grund ist die Streitsache zur
+Neubeurteilung an die Vorinstanz zurückzuweisen, wie dies mit Ausnahme der
+Klägerin alle anderen Berufungskläger in ihren Berufungen eventualiter
+beantragt haben.
+Dieser Rückweisungsentscheid stellt formal einen
+Zwischenentscheid im Sinne von Art. 93 BGG dar (BSK-
+Spühler
+, N 5 zu Art. 318
+ZPO).
+2.
+Nichteintreten auf
+die Berufung der Klägerin
+Im angefochtenen Entscheid hat die Vorinstanz in Bezug auf
+den ganzen von ihr erkannten Schaden eine je anteilsmässige Haftpflicht der
+beklagten Parteien bejaht (act. 290 S. 90 ff. E. 30.).
+Anschliessend aber hat die Vorinstanz bei der konkreten
+Schadenersatzbemessung hinsichtlich aller beklagten Parteien gestützt auf
+Art. 43 OR Kürzungen vorgenommen (act. 290 S. 93 ff. E. 31.).
+Die Klägerin wendet sich in ihrer Berufung gegen diese Kürzungen und stellt
+sich – kurz zusammengefasst ‑ auf den Standpunkt, die beklagten
+Parteien seien je für den gesamten ihnen zurechenbaren Schaden
+ersatzpflichtig, wobei aus Sicht der Klägerin ebenso die Frage der
+differenzierten Solidarität anders zu beurteilen ist, als es die Vorinstanz
+getan hat (act. 306). Nachdem nun aber aufgrund der Rückweisung der
+Sache an die Vorinstanz die eingeklagten Verantwortlichkeitsansprüche von
+Grund auf neu zu beurteilen sein werden, erübrigt es sich, auf die Berufung
+der Klägerin einzutreten.
+3.
+Kosten- und
+Entschädigungsregelung
+Bei diesem Ausgang rechtfertigt es sich, lediglich eine
+Entscheidgebühr für das Berufungsverfahren festzusetzen, im Übrigen aber die
+Regelung der Kosten- und Entschädigungsfolgen der Vorinstanz zu überlassen
+(Art. 104 Abs. 4 ZPO; dazu
+Jenny
+,
+in: Sutter-Somm/Hasenböhler/Leuenberger, ZPO Komm., 3. A, N 11 zu
+Art. 104). Vorliegend erscheint nämlich der Ausgang des Verfahrens
+offen, hat doch die Vorinstanz namentlich den strittigen Sachverhalt noch
+einmal neu zu würdigen und dabei unter Umständen sogar die Beweisabnahme zu
+ergänzen. Am Ende dürfte dann für die Kostenregelung vor allem der
+Prozessausgang in der Sache und nicht derjenige im vorliegenden
+Rechtsmittelverfahren wesentlich sein; insofern wird bezogen auf das aktuelle
+Rechtsmittelverfahren das Unterliegerprinzip (Art. 106 Abs. 1 ZPO)
+relativiert (BGer, Urteil vom 1. Mai 2017, 5A_327/2016, E. 3.3.2.; siehe
+aber auch BGer, Urteil vom 7. Dezember 2015, 5A_517/2015 E. 3.).
+Vorzumerken ist, dass die Parteien für das
+Berufungsverfahren die folgenden Kostenvorschüsse einbezahlt haben:
+Glarner Kantonalbank:
+CHF
+240'000.‑
+(act. 322);
+J.______ AG:
+CHF
+80'000.-
+(act. 324):
+A.______:
+CHF
+18'000.-
+(act. 326);
+B.______:
+CHF
+9'000.-
+(act. 327);
+F.______:
+CHF
+27'000.-
+(act. 329);
+G.______:
+CHF
+27'000.-
+(act. 331);
+H.______:
+CHF
+18'000.-
+(act. 333);
+C.______:
+CHF
+9'000.-
+(act. 335);
+D.______:
+CHF
+9'000.-
+(act. 336);
+E.______:
+CHF
+9'000.-
+(act. 337).
+Angesichts des Streitwerts von
+rund CHF 34 Mio. (vgl. die eingangs wiedergegebenen Berufungsanträge)
+beträgt die maximal mögliche Gebühr für das Berufungsverfahren CHF 1.36
+Mio. (4 % des Streitwerts, vgl. Art. 3 Abs. 1 lit. e der
+Zivil- und Strafprozesskostenverordnung [GS III A/5]
+).
+Bei der konkreten Bemessung der Entscheidgebühr ist neben dem hohen
+Streitwert insbesondere zu berücksichtigen, dass es sich um ein umfangreiches
+und komplexes Verfahren handelt. Insgesamt erscheint es angemessen, die
+Entscheidgebühr für das Berufungsverfahren auf CHF 250'000.‑
+festzusetzen.
+Das Gericht
+erkennt
+:
+1.
+In Gutheissung der Berufungen von A.______, B.______,
+C.______, D.______, E.______, F.______, G.______, H.______ sowie der
+J.______ AG wird das Urteil des Kantonsgerichts Glarus vom 19. März
+2015 im Verfahren ZG.2010.00646 vollumfänglich aufgehoben und wird im Sinne
+der Erwägungen die Sache zur Weiterführung des Verfahrens und neuen
+Entscheidung an die Vorinstanz zurückgewiesen.
+2.
+Auf die Berufung der
+Glarner Kantonalbank wird nicht eingetreten.
+3.
+Die Gerichtsgebühr für das Berufungsverfahren wird
+festgesetzt auf CHF 250'000.‑.
+4.
+Die Festsetzung der Parteientschädigungen und die
+Verteilung der Prozesskosten für das Berufungsverfahren werden der
+Vorinstanz überlassen. Hinsichtlich der Kostenvorschüsse, welche die
+Parteien für das Berufungsverfahren geleistet haben, wird auf die
+Erwägungen verwiesen.
+5.
+Schriftliche Mitteilung an:
+[…]
+Rechtsmittelbelehrung
+Gegen diesen
+Zwischenentscheid im Sinne von Art. 93
+BGG
+kann
+beim Schweizerischen Bundesgericht, 1000 Lausanne 14, aus den in
+Art. 95 ff. BGG genannten Gründen Beschwerde in Zivilsachen gemäss
+Art. 72 ff. BGG erhoben werden. Die Beschwerde ist dem
+Bundesgericht innert 30 Tagen ab Zustellung dieses Entscheids
+einzureichen. Die Beschwerdeschrift hat den Anforderungen von Art. 42
+BGG zu genügen. Hinsichtlich des Fristenlaufs gelten die
+Art. 44 ff. BGG.
+Obergerichtspräsident
+Gerichtsschreiber
+Dr. iur. Thomas Nussbaumer
+lic. iur. Erich Hug
