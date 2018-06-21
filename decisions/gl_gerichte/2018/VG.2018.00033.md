@@ -1,0 +1,867 @@
+---
+decision_id: "gl_gerichte_VG.2018.00033"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2018.00033"
+docket_2: "VG.2018.665"
+decided: "2018-06-21"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=958&W10_KEY=218274&nTrefferzeile=7&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-007.md", "switzerland/bund/acts/830.1/art-016.md", "switzerland/bund/acts/830.1/art-017.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.20/art-001.md", "switzerland/bund/acts/831.20/art-028.md", "switzerland/bund/acts/831.20/art-069.md"]
+---
+
+# GL Gerichte VG.2018.00033
+
+## Regeste
+
+Sozialversicherung - IV
+
+## Text
+
+Glarus Verwaltungsgericht 21.06.2018 VG.2018.00033 (VG.2018.665)
+Glaris Verwaltungsgericht 21.06.2018 VG.2018.00033 (VG.2018.665)
+Glarona Verwaltungsgericht 21.06.2018 VG.2018.00033 (VG.2018.665)
+
+Sozialversicherung - IV
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+21. Juni 2018
+II. Kammer
+in Sachen
+VG.2018.00033
+A.______
+Beschwerdeführerin
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+IV-Stelle Glarus
+Beschwerdegegnerin
+betreffend
+Invalidenrente
+Die Kammer zieht in Erwägung:
+I.
+1.
+Am 15. April 2008 wies die
+IV-Stelle Glarus das von A.______ am 28. Dezember 2006 gestellte Begehren um
+Leistungen der Invalidenversicherung ab. Die am 15. Mai 2008 dagegen
+erhobene Beschwerde wies das Verwaltungsgericht am 9. Juli 2009 (Verfahren
+VG.2008.00066) ebenfalls ab.
+2.
+Am 12. Oktober 2011 machte
+A.______ bei der IV-Stelle wiederum einen Leistungsanspruch geltend. Im
+Anschluss daran gab Letztere sowohl ein internistisch-rheumatologisches
+Gutachten als auch eine Evaluation der Funktionellen Leistungsfähigkeit (EFL)
+in Auftrag. Gestützt darauf stellte sie A.______ mit Vorbescheid vom
+2. Mai 2012 die Abweisung des Leistungsbegehrens in Aussicht, woran sie
+mit in Rechtskraft erwachsener Verfügung vom 7. September 2012 festhielt.
+3.
+3.1
+A.______ meldete sich am 16. Mai 2016 unter Hinweis
+auf somatische und psychische Beschwerden erneut bei der IV-Stelle zum
+Leistungsbezug an. Letztere gab in der Folge ein
+internistisch-rheumatologisches sowie ein psychiatrisches Gutachten in
+Auftrag. Diese wurden am 26. November 2016 durch Dr. med. und Dr. sc. nat. ETH C.______,
+FMH, Spezialisierung Rheumaerkrankungen, und am 8. Dezember 2016 durch Prof. Dr. med.
+D.______, Psychiatrie und Psychotherapie FMH und Neurologie FMH, erstattet.
+Gestützt darauf stellte die IV-Stelle A.______ mit Vorbescheid vom
+9. Februar 2017 die Abweisung des Leistungsbegehrens in Aussicht. Daran
+hielt sie trotz des dagegen erhobenen Einwands mit Verfügung vom 20. Februar
+2018 fest.
+3.2
+Dagegen gelangte
+A.______
+mit Beschwerde vom 22. März 2018
+ans Verwaltungsgericht
+und beantragte die Aufhebung der Verfügung vom 20. Februar 2018 sowie die
+Ausrichtung der gesetzlichen Leistungen ab dem 1. Mai 2015. Eventualiter
+seien weitere Sachverhaltsabklärungen durchzuführen; alles unter ordentlicher
+und ausserordentlicher Kostenfolge zu Lasten der IV-Stelle und unter Gewähren
+der unentgeltlichen Prozessführung und Rechtsverbeiständung.
+3.3
+Am 1. Mai 2018 reichte A.______ unaufgefordert eine
+Stellungnahme unter Beilage von zwei ärztlichen Schreiben ein. Die IV-Stelle
+liess sich in der Folge am 7. Mai 2018 vernehmen und schloss auf
+Abweisung der Beschwerde. Während sie mit Eingabe vom 16. Mai 2018 an
+diesem Antrag festhielt, verzichtete A.______ auf die Einreichung einer
+weiteren Stellungnahme.
+II.
+1.
+Das Verwaltungsgericht ist gemäss Art. 69 Abs. 1
+lit. a des Bundesgesetzes über die Invalidenversicherung vom 19. Juni
+1959 (IVG) zur Behandlung der vorliegenden Beschwerde zuständig. Da auch die
+übrigen Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde
+einzutreten.
+2.
+2.1
+Gemäss Art. 8 Abs. 1 des Bundesgesetzes
+über den Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober
+2000 (ATSG) ist Invalidität die voraussichtlich bleibende oder längere Zeit
+dauernde ganze oder teilweise Erwerbsunfähigkeit. Erwerbsunfähigkeit ist
+dabei der durch eine Beeinträchtigung der körperlichen, geistigen oder
+psychischen Gesundheit verursachte und nach zumutbarer Behandlung sowie
+Eingliederung verbleibende ganze oder teilweise Verlust der
+Erwerbsmöglichkeiten auf dem in Betracht kommenden ausgeglichenen
+Arbeitsmarkt (Art. 7 Abs. 1 ATSG).
+2.2
+Nach Art. 28 Abs. 2 IVG besteht bei einem
+Invaliditätsgrad von mindestens 40 % Anspruch auf eine Viertelsrente,
+bei einem solchen von mindestens 50 % auf eine halbe Rente, bei
+mindestens 60 % auf eine Dreiviertelsrente und ab mindestens 70 %
+auf eine ganze Rente. Für die Bestimmung des Invaliditätsgrads wird das
+Erwerbseinkommen, das die versicherte Person nach Eintritt der Invalidität
+und nach Durchführung der medizinischen Behandlung und allfälliger
+Eingliederungsmassnahmen durch eine ihr zumutbare Tätigkeit bei
+ausgeglichener Arbeitsmarktlage erzielen könnte, in Beziehung zum
+Erwerbseinkommen gesetzt, welches sie erzielen könnte, wenn sie nicht invalid
+geworden wäre (Art. 16 ATSG).
+2.3
+Art und Mass dessen, was einer versicherten Person
+an Erwerbstätigkeit noch zugemutet werden kann, richtet sich nach ihren
+besonderen persönlichen Verhältnissen einerseits und nach den allgemein
+herrschenden Anschauungen andererseits. Für die Beurteilung der Zumutbarkeit
+ist letztlich insofern eine objektive Betrachtungsweise massgebend, als es
+nicht auf eine bloss subjektiv ablehnende Bewertung der infrage stehenden
+Erwerbstätigkeit durch die versicherte Person ankommt (Ulrich Meyer/Marco
+Reichmuth, Rechtsprechung des Bundesgerichts zum Sozialversicherungsrecht,
+Bundesgesetz über die Invalidenversicherung, 3. A., Zürich/Basel/Genf 2014,
+S. 320).
+2.4
+War eine Rente im Sinne von Art. 87 Abs. 3 der
+Verordnung über die Invalidenversicherung vom 17. Januar 1961 (IVV) wegen
+eines zu geringen Invaliditätsgrads verweigert worden und ist die Verwaltung
+auf eine Neuanmeldung eingetreten, so ist im Beschwerdeverfahren zu prüfen,
+ob im Sinne von Art. 17 ATSG eine für den Rentenanspruch relevante Änderung
+des Invaliditätsgrads eingetreten ist. Dabei sind die bei einer Revision
+geltenden Regeln analog anzuwenden (BGE 117 V 198 E. 3a). Ändert sich der
+Invaliditätsgrad eines Versicherten erheblich, so wird die Rente von Amtes
+wegen oder auf Gesuch hin für die Zukunft erhöht, herabgesetzt oder
+aufgehoben (Art. 17 ATSG). Anlass zur Rentenrevision gibt jede
+wesentliche Änderung in den tatsächlichen Verhältnissen, die geeignet ist,
+den Invaliditätsgrad und damit den Rentenanspruch zu beeinflussen. Eine
+Veränderung der gesundheitlichen Verhältnisse liegt unter anderem auch bei
+gleich gebliebener Diagnose vor, wenn sich ein Leiden in seiner Intensität
+und in seinen Auswirkungen auf die Arbeitsfähigkeit verändert hat
+(BGer-Urteil 8C_339/2015 vom 25. August 2015 E. 3.1). Dagegen stellt eine
+bloss unterschiedliche Beurteilung der Auswirkungen eines in wesentlich
+gleich gebliebenen Gesundheitszustands auf die Arbeitsfähigkeit für sich
+allein genommen keinen Revisionsgrund im Sinne von Art. 17 ATSG dar.
+3.
+3.1
+Nach dem für das gesamte Verwaltungs- und
+Verwaltungsgerichtsbeschwerdeverfahren geltenden Grundsatz der freien
+Beweiswürdigung haben Versicherungsträger und Sozialversicherungsrichter die
+Beweise frei, d.h. ohne Bindung an förmliche Beweisregeln, sowie umfassend
+und pflichtgemäss zu würdigen. Für das Beschwerdeverfahren bedeutet dies,
+dass das Gericht alle Beweismittel unabhängig davon, von wem sie stammen,
+objektiv zu prüfen und danach zu entscheiden hat, ob die verfügbaren
+Unterlagen eine zuverlässige Beurteilung des streitigen Rechtsanspruchs
+gestatten. Insbesondere darf es bei einander widersprechenden medizinischen
+Berichten den Prozess nicht erledigen, ohne das gesamte Beweismaterial zu
+würdigen und die Gründe anzugeben, warum es auf die eine und nicht auf die
+andere medizinische These abstellt (BGE 125 V 351 E. 3a).
+3.2
+Es ist Aufgabe des Arztes, sämtliche Auswirkungen einer
+Krankheit oder eines Unfalls auf den Gesundheitszustand der versicherten
+Person zu beurteilen und dazu Stellung zu nehmen, bezüglich welcher konkreten
+Tätigkeiten und in welchem Umfang sie arbeitsunfähig ist. Die ärztlichen
+Auskünfte sind sodann eine wichtige Grundlage für die Beurteilung der Frage,
+welche Arbeitsleistungen der versicherten Person im Hinblick auf ihre
+persönlichen Verhältnisse noch zugemutet werden können (BGE 125 V 256
+E. 4).
+3.3
+Hinsichtlich des Beweiswerts eines ärztlichen Gutachtens
+ist entscheidend, ob es für die Beantwortung der gestellten Fragen umfassend
+ist, auf allseitigen Untersuchungen beruht, die geklagten Beschwerden
+berücksichtigt und sich mit diesen sowie dem Verhalten der untersuchten
+Person auseinandersetzt, was vor allem bei psychischen Fehlentwicklungen
+nötig ist, in Kenntnis der und gegebenenfalls in Auseinandersetzung mit den
+Vorakten abgegeben worden ist, ob es in der Darlegung der medizinischen
+Zustände und Zusammenhänge einleuchtet, ob die Schlussfolgerungen des
+medizinischen Experten in einer Weise begründet sind, dass die
+rechtsanwendende Person sie prüfend nachvollziehen kann, sowie ob der Experte
+nicht auszuräumende Unsicherheiten und Unklarheiten, welche ihm die
+Beantwortung der Fragen erschweren, gegebenenfalls deutlich macht.
+Ausschlaggebend für den Beweiswert ist grundsätzlich somit weder die Herkunft
+eines Beweismittels noch die Bezeichnung der eingereichten oder in Auftrag
+gegebenen Stellungnahme als Bericht oder Gutachten, sondern dessen Inhalt
+(BGE 125 V 351 E. 3a).
+3.4
+Dennoch hat es die Rechtsprechung mit dem Grundsatz
+der freien Beweiswürdigung als vereinbar erachtet, in Bezug auf bestimmte
+Formen medizinischer Berichte und Gutachten Richtlinien für die
+Beweiswürdigung aufzustellen. Den im Rahmen des Verwaltungsverfahrens
+eingeholten Gutachten von externen Spezialärzten, welche aufgrund eingehender
+Beobachtungen und Untersuchungen sowie nach Einsicht in die Akten Bericht
+erstatten und bei der Erörterung der Befunde zu schlüssigen Ergebnissen gelangen,
+ist bei der Beweiswürdigung volle Beweiskraft zuzuerkennen, solange nicht
+konkrete Indizien gegen die Zuverlässigkeit der Expertise sprechen (BGE 137 V
+210 E. 1.3.4).
+3.5
+Die Verwaltung als verfügende Instanz und – im
+Beschwerdefall – der Richter dürfen eine Tatsache nur dann als bewiesen
+annehmen, wenn sie von ihrem Bestehen überzeugt sind. Im
+Sozialversicherungsrecht hat der Richter dabei seinen Entscheid, sofern das
+Gesetz nicht etwas Abweichendes vorsieht, nach dem Beweisgrad der
+überwiegenden Wahrscheinlichkeit zu fällen. Die blosse Möglichkeit eines
+bestimmten Sachverhalts genügt den Beweisanforderungen nicht. Der Richter hat
+vielmehr jener Sachverhaltsdarstellung zu folgen, die er von allen möglichen
+Geschehensabläufen als die wahrscheinlichste würdigt (BGE 119 V 7 E. 3c/aa).
+4.
+4.1
+Die Beschwerdeführerin macht geltend, das Gutachten
+von Dr. C.______ sei nicht geeignet, die Arbeitsfähigkeit abschliessend
+zu beurteilen, da ihr Gesundheitszustand darin nicht ganzheitlich betrachtet
+worden sei. Hinzu komme, dass Dr. C.______ sich nicht mit den
+unterschiedlichen ärztlichen Meinungen auseinandergesetzt habe. Dahingehend
+habe sich insbesondere
+Dr. med. E.______,
+Facharzt für Allgemeine Medizin, geäussert, welcher aus somatischer Sicht
+eine maximal 50%ige Arbeitsfähigkeit in einer leidensangepassten Tätigkeit
+attestiert habe. Sodann seien
+lic. phil. F.______, Leiterin der
+Psychotherapie in der Beratungs- und Therapiestelle […], sowie pract. med.
+G.______, Chefarzt der Psychiatrie im Spital H.______, entgegen dem
+psychiatrischen Gutachten von Prof. D.______ zum Schluss gekommen, dass sie
+im ersten Arbeitsmarkt wegen psychischer Beschwerden vollständig
+arbeitsunfähig sei. Darüber hinaus habe es die Beschwerdegegnerin
+unterlassen, bei der […] eine medizinische Stellungnahme einzuholen. Aufgrund
+dessen habe Prof. D.______ beim Verfassen seines Gutachtens auch nicht
+sämtliche Vorakten würdigen können. Letzterer habe einzig auf seine eigenen
+erhobenen Befunde abgestellt. Darüber hinaus sei sein Gutachten inhaltlich
+widersprüchlich und hinsichtlich der Standardindikatorenprüfung rudimentär
+ausgefallen.
+Ferner seien seine ergänzenden
+Ausführungen vom 20. Dezember 2017 ebenso oberflächlich sowie dürftig
+ausgefallen wie das von ihm erstattete Fachgutachten selbst.
+Insgesamt
+sei
+das von der Beschwerdegegnerin bei
+Dr. C.______ und Prof. D.______ in Auftrag gegebene bidisziplinäre
+Gutachten mangelhaft und daher nicht verwertbar. Vielmehr sei auf die
+Berichte der behandelnden Ärzte abzustellen.
+4.2
+Die Beschwerdegegnerin bringt vor, sie habe die ihr
+obliegenden Abklärungspflichten sorgfalts- und pflichtgemäss wahrgenommen.
+Die vorhandenen medizinischen Akten hätten bezüglich der gesundheitlichen
+Situation der Beschwerdeführerin einen eindeutigen und zweifelsfreien Schluss
+zugelassen, weshalb der medizinische Sachverhalt genügend abgeklärt worden
+sei. Sie habe sich gestützt auf das von ihr in Auftrag gegebene
+bidisziplinäre Gutachten, welches den inhaltlichen sowie beweismässigen
+Anforderungen an eine ärztliche Expertise genüge, davon überzeugen können,
+dass die Beschwerdeführerin mit überwiegender Wahrscheinlichkeit keine
+invalidenrechtlich relevanten gesundheitlichen Beeinträchtigungen habe. Hinzu
+komme, dass sie auch nach Erstattung des bidisziplinären Gutachtens weitere
+medizinische Abklärungen getätigt und den Einwand gegen ihren Vorbescheid
+gebührend berücksichtigt habe. Insgesamt folge daraus, dass kein Anspruch auf
+eine Invalidenrente bestehe.
+5.
+5.1
+Im vorliegenden Beschwerdeverfahren ist nach dem
+oben Dargelegten (E. II/2.4) zu prüfen, ob eine für den Rentenanspruch
+relevante Änderung des Invaliditätsgrads eingetreten ist. Zeitliche
+Vergleichsbasis für diese Prüfung bildet die letzte der versicherten Person
+eröffnete rechtskräftige Verfügung, welche auf einer materiellen Prüfung des
+Rentenanspruchs mit rechtskonformer Sachverhaltsabklärung, Beweiswürdigung
+und Durchführung eines Einkommensvergleichs beruht (BGE 130 V 71 E. 3.2.3).
+5.2
+Die Beschwerdegegnerin wies das Leistungsbegehren
+der Beschwerdeführerin mit Verfügung vom 7. September 2012 ab. Dagegen erhob
+die Beschwerdeführerin entgegen der Stellungnahme von
+Dipl. med. I.______, Fachärztin für Allgemeine Innere Medizin sowie
+für Prävention und Gesundheitswesen, vom 18. Juli 2016 keine Beschwerde beim
+Verwaltungsgericht, weshalb die Verfügung unangefochten in Rechtskraft
+erwuchs. Demzufolge beurteilt sich die Frage, ob eine Änderung in den
+tatsächlichen Verhältnissen erfolgt ist, durch Vergleich des Sachverhalts,
+wie er im Zeitpunkt der Rentenverfügung vom 7. September 2012 Bestand
+hatte, mit demjenigen im Zeitpunkt der vorliegend angefochtenen Verfügung vom
+20. Februar 2018.
+6.
+6.1
+Die Beschwerdegegnerin stützte sich in ihrer
+Verfügung vom 7. September 2012 auf das internistisch-rheumatologischen
+Gutachten von Dr. C.______ vom 29. März 2012. Darin wurde als Diagnose
+mit Auswirkungen auf die Arbeitsfähigkeit ein beidseitiges
+zervikospondylogenes Syndrom genannt. Eine Fibromyalgie bestehe
+definitionsgemäss nicht und die aktuellen Beschwerden seien im Rahmen der
+ausgedehnten Schmerzen zu interpretieren. Die Muskelschmerzen seien
+möglicherweise ein Symptom eines Vitamin D-Mangels, wobei der Hausarzt
+diesbezüglich informiert worden sei. Aufgrund der geklagten Beschwerden, der
+Anamnese, der klinischen Untersuchung, der Resultate der bildgebenden
+Diagnostik sowie der Laboruntersuchungen könne die Beschwerdeführerin eine
+adaptierte Tätigkeit zu 100 % ausüben. Dabei handle es sich gestützt auf
+die EFL vom 26. Februar 2012 um eine leichte bis mittelschwere Tätigkeit
+mit Hantieren von Lasten bis 12,5 Kilogramm. Aus rheumatologischer Sicht habe
+nie eine längerfristige Arbeitsunfähigkeit bestanden und seit 2008 sei es zu
+keiner wesentlichen Veränderung des Gesundheitszustands gekommen.
+6.2
+Im Januar 2013 wurde die Beschwerdeführerin eine
+Woche lang im Spital H.______ hospitalisiert. Im diesbezüglichen
+Austrittsbericht vom 23. Januar 2013 wurde eine Supraspinatus-Sehnenläsion
+links diagnostiziert, wobei die Beschwerdeführerin nach einer chirurgischen
+Intervention in einem guten Allgemeinzustand nach Hause entlassen wurde.
+6.3
+6.3.1
+Am 28. April 2015 stellte Dr. med. J.______,
+Facharzt Neurochirurgie, die Diagnosen eines Zustands nach Entfernung einer
+epiduralen zervikalen Elektrode bei implantiertem Neurostimulationssystem
+sowie eines low grade Infekts mit Staphylococcus epidermidis. Der Verlauf sei
+in der Zwischenzeit unauffällig gewesen, wobei die Beschwerdeführerin nun,
+wie erwartet, wieder über vermehrte zervikale Beschwerden, Unwohlsein,
+verminderten Antrieb etc. klage.
+6.3.2
+Am 1. Mai 2015 berichtete Dr. med. K.______,
+Leitende Ärztin der Onkologie im Spital H.______, dass die Beschwerdeführerin
+seit vier bis fünf Jahren zu 100 % arbeitsunfähig sei. Die
+Beschwerdegegnerin habe ein Rentengesuch immer wieder abgelehnt, da einzig
+auf die Krebserkrankung Bezug genommen worden sei. Nun sei aber eine
+Wiederanmeldung geplant. Bei dieser stehe die neurologische Situation im
+Vordergrund. Klinisch und laborchemisch seien keine Hinweise für ein Rezidiv
+des invasiv duktalen Mammakarzinoms zu finden.
+6.3.3
+Am 4. August 2015 wurde die Beschwerdeführerin im
+Spital H.______ operativ mit einer permanenten epiduralen Neurostimulation
+zervikal versorgt. Diesbezüglich nannte Dr. J.______ am 22. September
+2015 einen unauffälligen postoperativen Verlauf, wobei die Beschwerdeführerin
+über keine Verbesserung der Beschwerden berichtet habe. Am 1. Dezember 2015
+führte er sodann aus, dass die Beschwerdeführerin glaubhaft und
+nachvollziehbar einen hohen Leidensdruck geschildert habe. Am Gesamtbild
+hätten psychische und soziale Faktoren einen erheblichen Anteil.
+Mittelfristig sei sie aber nicht in der Lage, ein volles Arbeitspensum zu
+absolvieren. Dies treffe auf sämtliche Berufe zu.
+6.4
+6.4.1
+Am 19. April 2016 nannte Dr. E.______ als
+Hauptdiagnose chronische Schulter-Armbeschwerden links und als Nebendiagnose
+den Status nach einem Mammakarzinom. Bei Implantation des Neurostimulators
+sei es lediglich initial zu einer passageren Besserung der zervikalen
+Schmerzen gekommen. Die Schmerzen liessen sich insgesamt aber kaum
+medikamentös beeinflussen. Offensichtlich bestehe ein psychologischer
+Hintergrund mit einer deutlichen Schmerzverarbeitungsstörung. Zudem seien
+vergebliche Anträge an die Beschwerdegegnerin ersichtlich, wobei er eine gewisse
+Diskrepanz zwischen der schmerzfreien Bewegung sowie den geäusserten
+Schmerzen habe beobachten können. Es sei eine stationäre Rehabilitation
+indiziert mit dem Ziel, adäquate Therapien sowie Strategien zur
+Schmerzbekämpfung zu finden und die Schmerzverarbeitungsstörung zu erklären.
+Am 26. April 2016 führte er gegenüber der Beschwerdegegnerin sodann aus, dass
+aufgrund eines Schulter-Armsyndroms in den letzten zwei Jahren mehrere
+Eingriffe durchgeführt worden seien. Mit dem Spezialarzt sei er aber einig
+darin, dass sich der Gesundheitszustand der Beschwerdeführerin verschlechtert
+habe.
+6.4.2
+Im Sprechstundenbericht vom 25. April 2016 führte
+Dr. J.______ aus, dass fortwährend eine unbefriedigende Situation mit
+hohem Leidensdruck vorliege. Es sei dauerhaft keine Arbeitsfähigkeit gegeben
+und die Beschwerden seien konstant wie im Herbst 2015 angegebenen worden. Man
+habe eine Neupositionierung des Neurostimulators diskutiert.
+6.4.3
+Gemäss dem Bericht von Dr. E.______ vom 24.
+Juni 2016 ist keine nennenswerte Verbesserung des Gesundheitszustands der
+Beschwerdeführerin mehr zu erwarten. Es bestehe seit 2011 eine vollständige
+Arbeitsunfähigkeit, wobei schon eine leichte Bürotätigkeit eine statische
+Belastung des Bewegungsapparates bedinge. Dies führe zu Verspannungen und zur
+Verstärkung der Basisschmerzen. Aktuell seien bei Schmerzexazerbation
+keinerlei Arbeiten möglich, was insbesondere auf repetitive Tätigkeiten oder
+solche, bei welchen die Körperposition nicht geändert werden könne, zutreffe.
+6.4.4
+Vom 13. Juni 2016 bis zum 9. Juli 2016 befand sich
+die Beschwerdeführerin in stationärer Rehabilitation in der Rehaklinik […].
+Im diesbezüglichen Bericht vom 12. Juli 2016 nannten die Ärzte als
+Diagnosen chronische zervikobrachialgieforme Schmerzen links und ein
+linksseitiges Mammakarzinom. 2011 sei es zu einer Linderung und 2014 zu einer
+Verstärkung der Schmerzen gekommen, weshalb ein Neurostimulationsgerät
+implantiert worden sei. Dieses habe aber keine Schmerzregredienz gebracht.
+Die Beschwerdeführerin habe engagiert am Programm teilgenommen und im Verlauf
+der Therapie habe eine Linderung der Schmerzintensität, eine Verbesserung der
+körperlichen Leistungsfähigkeit und ein psychisches Wohlbefinden erreicht
+werden können. Die interkurrenten Erkrankungen seien nicht mehr aufgetreten.
+Zwar habe sich die Schmerzsituation nicht geändert, jedoch habe die
+Beschwerdeführerin, trotz festgefahrener Verhaltensmuster erste Ansätze für
+ein aktiveres Coping gezeigt.
+6.5
+Am 18. Juli 2016 wies der RAD die Beschwerdegegnerin
+darauf hin, dass eine Begutachtung in den Disziplinen Psychiatrie und
+Orthopädie indiziert sei. In der Folge gab die Beschwerdegegnerin eine
+bidisziplinäre Begutachtung bei Dr. C.______ und Prof. D.______ in
+Auftrag.
+6.5.1
+Im internistisch-rheumatologischen Teilgutachten vom
+26. November 2016 diagnostizierte Dr. C.______ mit Auswirkungen auf
+die Arbeitsfähigkeit eine verminderte Belastbarkeit und Beschwerden der
+Halswirbelsäule (HWS) sowie der linken Schulter. Die strukturellen Befunde
+würden das Ausmass der Schmerzen nur teilweise erklären. Gegenüber der
+Begutachtung im Jahr 2012 klage die Beschwerdeführerin nun aber nicht mehr
+über ausgedehnte Schmerzen und ihre Handkraft habe deutlich zugenommen. Eine
+angepasste Tätigkeit sei ihr zu 100 % zumutbar. Dabei handle es sich um
+ein leichtes bis knapp mittelschweres Belastungsniveau, da sie lediglich
+Lasten bis 12,5 kg hantieren könne. Die früher ausgeübten Tätigkeiten als
+Sachbearbeiterin/Datentypistin, Telefonistin sowie Modeaushilfsverkäuferin
+würden diesem Profil entsprechen, weshalb sie in diesen vollständig
+arbeitsfähig sei. Überdies habe in den zuletzt ausgeübten und in den
+adaptierten Tätigkeiten nie eine lang andauernde Arbeitsunfähigkeit
+bestanden.
+6.5.2
+Im psychiatrischen Teilgutachten vom 8. Dezember
+2016 stellte Prof. D.______ sodann keine Diagnosen mit Auswirkungen auf
+die Arbeitsfähigkeit. Keine Auswirkungen auf die Arbeitsfähigkeit hätten eine
+chronische Schmerzstörung und Probleme bei sexuellem Missbrauch, mit der
+Arbeitslosigkeit sowie in Verbindung mit den ökonomischen Verhältnissen. Es
+seien keine Hinweise für ein bewusstes Übertreiben, Simulation oder
+Selbstlimitation vorhanden. Die Beschwerdeführerin, welche sich nun bereits
+zum fünften Mal bei der Invalidenversicherung zum Leistungsbezug anmelde, sei
+in ihrem Schmerzgebaren sehr demonstrativ und der Schmerzaffekt sei
+hochgradig dysthym. Im Zeitpunkt der Begutachtung seien keine qualitativen
+oder quantitativen Bewusstseinsstörungen und keine Gedächtnis-,
+Konzentrations- oder Aufmerksamkeitsstörungen objektivierbar. Des Weiteren
+bestünden Diskrepanzen zwischen den Klagen der Beschwerdeführerin über
+depressive Symptome, ihren sozialen Rückzug sowie die Verminderung ihrer
+Lebenslust und ihren Schilderungen über ihren Lebensvollzug, ihrem Auftreten
+sowie ihrem Verhalten während der Exploration. Bei guter sozialer Teilhabe,
+so wie sie ihren Lebensalltag gestalte und einer affektiv unauffälligen
+Psychopathologie bestünden Inkonsistenzen in der Selbst- und
+Fremdwahrnehmung. Darüber hinaus sei keines der drei Hauptsymptome einer
+Depression, namentlich eine gedrückte Grundstimmung, eine Reduktion der
+Freudfähigkeit oder der Interessen sowie ein gestörter Antrieb vorhanden.
+Hinzu komme, dass die früher gestellte Diagnose einer chronischen Schmerzstörung
+keine Veränderung des psychischen Gesundheitszustands darstelle, sondern
+vielmehr eine andere Bewertung desselben medizinischen Sachverhalts.
+Schliesslich könne die von der Beschwerdeführerin geschilderte sexuelle
+Missbrauchserfahrung die psychische Resilienz gemindert und der chronischen
+Schmerzstörung das Feld bereitet haben. In den Akten seien dazu aber keine
+Hinweise vorhanden. Gehe man allerdings davon aus, dass sich der Missbrauch
+so zugetragen habe, so habe nie eine adäquate Behandlung der Beschwerdeführerin
+stattgefunden. Zu beachten sei weiter, dass bei der dysfunktionalen
+Schmerzverarbeitung soziokulturelle Einflüsse dominieren würden. Diese seien
+invalidenrechtlich unbeachtlich. Zudem sei aus rheumatologischer Sicht seit
+2012 ein Rückgang der Schmerzen zu verzeichnen, was psychiatrisch ebenfalls
+als Verbesserung gewertet werden könne. Insgesamt bestünden zahlreiche
+Diskrepanzen und vieles bleibe im Spekulativen, sodass aus psychischer Sicht
+mittel- bis langfristig keine Arbeitsunfähigkeit über 20 % attestiert
+werden könne. Die Beschwerdeführerin könne in eine körperlich leidensgerechte
+Tätigkeit unverzüglich eingegliedert werden.
+6.6
+6.6.1
+In den Berichten vom 31. März und vom 16. August
+2017 führte
+lic. phil. F.______ aus, dass der sexuelle Missbrauch
+der Beschwerdeführerin eine traumatische Erfahrung gewesen sei. Diese sei
+anhaltend, fest verankert und zeige sich in rezidivierenden depressiven
+Phasen mit Antriebslosigkeit, starker Selbstwertminderung, Gefühlen von
+Hoffnungslosigkeit sowie Verzweiflung, ausgeprägten Schlafstörungen und
+Konzentrationsschwierigkeiten. Hinzu komme, dass einschneidende
+Lebensereignisse, beispielsweise der Tod der Mutter, die Symptomatik jeweils
+verstärken würden. Es seien die Diagnosen einer posttraumatischen Belastungsstörung,
+Dysthymia und einer anhaltend somatoformen Schmerzstörung zu stellen. Dabei
+hätten soziokulturelle und psychosoziale Faktoren die Entwicklung einer
+abhängigen und selbstunsicheren Persönlichkeitsstruktur begünstigt und die
+Aufarbeitung der traumatischen Erfahrungen erschwert. Im ersten Arbeitsmarkt
+sei von keiner Arbeitsfähigkeit auszugehen. Im geschützten Rahmen sei eine
+Tätigkeit mit einem kleinen Anfangspensum allerdings möglich, wobei dies
+sowohl im angestammten Betätigungsfeld als auch in jedem sonstigen
+Berufsbereich denkbar sei. Die Ausübung sei aber von der jeweiligen
+körperlichen Verfassung abhängig. Zum Gutachten von Prof. D.______ hielt
+lic. phil. F.______ fest, dass die darin gestellten Diagnosen
+nachvollziehbar sowie schlüssig und keine abweichenden medizinischen
+Einschätzungen bekannt seien. Entgegen seiner Ansicht seien psychische
+Beschwerdebilder in der Familie der Beschwerdeführerin jedoch bekannt und
+dokumentiert. Zudem habe er bei seiner Anamnese ihre Meinung nicht berücksichtigen
+können, da die Beschwerdegegnerin keinen Bericht bei ihr eingeholt habe.
+6.6.2
+Am 7. April 2017 hielt Dr. E.______ die
+Diagnosen von chronischen zervikobrachialen Schmerzen links, einem
+Mammakarzinom links, Osteopenie, reaktiven rezidivierenden depressiven
+Episoden, posttraumatischen Störungen sowie einem Verdacht auf ein distales
+Tarsaltunnelsyndrom links fest. Das Hauptproblem bestehe im
+Nacken-Schulter-Armbereich links sowie in der Psyche. Aus hausärztlicher
+Sicht resultiere eine Arbeitsunfähigkeit von 50 % mit einer Einschränkung der
+Leistungsfähigkeit von 50 %. Die Prognose sei schlecht, da ein
+chronifiziertes Krankheitsbild vorliege und die medizinischen Massnahmen
+ausgeschöpft seien. Gewisse soziokulturelle und psychosoziale Einflüsse seien
+jedoch vorhanden. Das Gutachten von Dr. C.______ sei zwar vollständig
+und akribisch zusammengestellt worden. Allerdings habe sie die
+Bioimpendanzanalyse zu stark gewichtet und sich nicht mit den übrigen
+ärztlichen Meinungen auseinandergesetzt. Sie habe nur Thesen und Konklusionen
+aufgegriffen, welche ihre Ansicht stützten. Zudem werde in ihrem Gutachten
+einzig eine Momentaufnahme aus dem Leben einer chronischen Schmerzpatientin
+gezeigt. Dies sei auch der Grund für die positive Prognose. Insgesamt
+entspreche die Konklusion von Dr. C.______ keiner ganzheitlichen
+Betrachtung des Gesundheitszustands. Es könne gestützt darauf deshalb nicht
+auf eine volle Arbeitsfähigkeit geschlossen werden.
+6.6.3
+Am 17. Mai
+2017 nahm Dr. med. L.______, Facharzt FMH für Rheumatologie,
+Facharzt FMH und UEMS für Physikalische Medizin und Rehabilitation,
+Regionaler Ärztlicher Dienst (RAD), zum Gesundheitszustand der
+Beschwerdeführerin Stellung. Er führte aus, dass die Berichte von
+lic.
+phil. F.______ und Dr. E.______ keine neuen, gutachterlich nicht
+bereits gebührend und nachvollziehbar gewürdigten medizinischen Aspekte
+enthielten. Es sei überdies bekannt, dass behandelnde Ärzte gegenüber
+unabhängigen Gutachtern jeweils zu einer anderen Einschätzung gelangten. Der
+höhere Beweiswert des bidisziplinären Gutachtens von Dr. C.______ und
+Prof. D.______ sei aber nicht in Frage zu stellen. Die beiden
+Teilgutachten seien im Befundteil ausführlich und plausibel. Zudem würden die
+Abweichungen zu ihren Einschätzungen ausreichend diskutiert.
+6.6.4
+Am 30. August 2017 berichtete RAD-Ärztin
+Dipl. med. I.______, es sei sinnvoll, die aktuellen Berichte Prof.
+D.______ zur ergänzenden Stellungnahme vorzulegen. Daraufhin hielt Letzterer
+am 20. Dezember 2017 fest, dass die von lic. phil. F.______ erwähnten
+psychosozialen Probleme und die fehlende Berufsbildung IV-fremde Faktoren
+seien, welche bei der Höhe der Arbeitsfähigkeit nicht zu berücksichtigen
+seien. Ferner seien die von ihr genannten Belastungen in seinem Gutachten
+lebensbiographisch erfragt und gewürdigt worden. Zudem halte er daran fest,
+dass zwischen den beruflich geltend gemachten Einschränkungen und dem
+weitgehend unauffälligen privaten Aktivitätsniveau Diskrepanzen bestünden.
+Gestützt auf die neu eingereichten Berichte ergebe sich somit keine
+Veränderung seiner Beurteilung, da abermals zahlreiche IV-fremde Faktoren als
+wesentliche Belastungsfaktoren angeführt worden seien.
+6.7
+In der Stellungnahme vom 23. April 2018
+vertrat lic. phil. F.______ die Auffassung, dass bei der
+Beurteilung des Leidens der Beschwerdeführerin die Folgen ihres schweren
+psychischen Traumas durch den jahrelangen sexuellen Missbrauch im Fokus
+stehen müsse. Das andauernde Verschweigen und Verdrängen ihrer traumatischen
+Erfahrungen habe zu einer bei Traumaopfern häufig vorkommenden Ausgestaltung
+im Lebenslauf geführt. So habe sich der seelisch kaum aushaltbare Schmerz auf
+die Körperebene in Form eines chronifizierten Schmerzsyndroms verschoben. Die
+Schmerzstörung, welche sich bei der Beschwerdeführerin manifestiert habe, sei
+lange Zeit versteckt und verborgen geblieben. Erst seit der aktuellen
+psychotherapeutischen Behandlung könne ein Zusammenhang zu den Erfahrungen im
+Kindesalter und in der Jugend erkannt und behandelt werden. Es sei jedoch
+schwierig, jahrzehntelanges Schweigen zum Brechen zu bringen, weshalb einer
+traumabezogenen Behandlung die dafür notwendige Zeit eingeräumt werden müsse.
+Es liege eine erhebliche eigenständige und keine schmerzbezogene
+psychiatrische Komorbidität vor. Die von Prof. D.______ festgehaltene
+Z-Diagnose, namentlich die Probleme bei sexuellem Missbrauch im Kindesalter,
+werde dem erfahrenen Leiden und der sich daraus entwickelnden andauernden
+Persönlichkeitsänderung in keiner Weise gerecht. Sodann erfahre die
+Unfähigkeit, negative oder aggressive Gefühle zu äussern, erst in der
+laufenden Behandlung einen langsamen Wandel. Es seien aus der frühkindlichen
+Entwicklung aber keine Störungen bekannt, welche diese
+Persönlichkeitseigenschaften erklären könnten. Soziokulturelle Einflüsse und
+Gegebenheiten hätten den Krankheitsverlauf allenfalls erschwert. Sie hätten
+jedoch keine ursächliche oder entscheidende Rolle gespielt. Zusammenfassend
+leide die Beschwerdeführerin an einer posttraumatischen Belastungsstörung
+(ICD-10: F43.1) und an einer andauernden Persönlichkeitsänderung
+nach einer Extrembelastung (ICD-10: F62.0). Es werde ein neues Gutachten
+beantragt, welches in Kenntnis der Vorakten und der aktuellen
+psychiatrisch-psychotherapeutischen Einschätzung ergehe.
+7.
+7.1
+Aus somatischer Sicht stellte die Beschwerdegegnerin
+bei ihrem Entscheid auf das internistisch-rheumatologische Gutachten von
+Dr. C.______ vom 26. November 2016 ab. Diese attestierte der
+Beschwerdeführerin (wie bereits in ihrem früher erstatteten Gutachten) eine
+volle Arbeitsfähigkeit in einer angepassten Tätigkeit, wobei es sich um ein
+leichtes bis knapp mittelschweres Belastungsniveau handle, da sie lediglich
+Lasten bis 12,5 kg hantieren könne. Dem kann gefolgt werden. So legte die
+Gutachterin nachvollziehbar dar, dass zwar strukturelle Veränderungen im
+Bereich der linken Schulter und der HWS vorhanden seien und diese die
+Leistungsfähigkeit einschränken würden. Die Veränderungen würden das Ausmass
+der Beschwerden aber nur teilweise erklären. Dabei verwies Dr. C.______
+auf die Empfehlungen der Swiss Insurance Medicine (SIM) und konnte dadurch
+die möglichen Auswirkungen plausibel erklären. Weiter wies sie überzeugend
+darauf hin, dass die Beschwerdeführerin gegenüber Februar 2012 nicht mehr
+über ausgedehnte Schmerzen klage und ihre Handkraft deutlich zugenommen habe.
+In diesem Lichte ist sodann auch die Feststellung der Rehaklinik […] zu
+würdigen, dass im Verlauf der Hospitalisation eine Linderung der
+Schmerzintensität, eine Verbesserung der körperlichen Leistungsfähigkeit und
+die interkurrenten Erkrankungen nicht mehr aufgetreten seien. Im Übrigen
+erkannte Dr. M.______ am 26. Oktober 2016, dass die Beschwerdeführerin
+während des Aufenthalts im September 2016 in […] keine Beschwerden beklagte.
+Ferner erscheint die Beobachtung von Dr. C.______, dass eine gewisse
+Diskrepanz zwischen der schmerzfreien Bewegung und den geschilderten
+Beschwerden bestehe, glaubhaft, da dies Dr. E.______ am 19. April
+2016 auch so sah. Schliesslich bemerkte sie richtigerweise, dass die
+Beschwerden von IV-fremden Faktoren beeinflusst würden, was auch in den
+Berichten von Dr. J.______ und Dr. E.______ Eingang fand.
+Nach dem Gesagten gelangte
+Dr. C.______ gestützt auf das Aktenstudium und auf die erhobenen Befunde
+zum plausiblen Ergebnis, dass die Beschwerdeführerin in einer angepassten
+Tätigkeit voll arbeitsfähig sei, was von den RAD-Ärzten als zutreffend
+erachtet wurde. Zudem halten Letztere zu Recht fest, dass das Gutachten den
+Anforderungen an den Beweiswert eines medizinischen Gutachtens genügt und ihm
+gegenüber den übrigen ärztlichen Berichten erhöhter Beweiswert zukommt. So
+ist es ist umfassend, worauf selbst Dr. E.______ hinweist. Zudem beruht es
+auf allseitigen Untersuchungen, berücksichtigt die geklagten Beschwerden und
+setzt sich mit diesen sowie dem Verhalten der Beschwerdeführerin auseinander.
+Ferner wurde es in Kenntnis der und gegebenenfalls in Auseinandersetzung mit
+den Vorakten (Anamnese) abgegeben und leuchtet in der Darlegung der medizinischen
+Zustände und Zusammenhänge ein (vgl. vorstehende E. II/3.3). Folglich
+ist mit Dr. C.______ darin einig zu gehen, dass aus somatischer Sicht
+seit ihrer letzten Begutachtung keine Verschlechterung des
+Gesundheitszustands der Beschwerdeführerin eingetreten ist.
+7.2
+Der von Dr. C.______ attestierten
+Arbeitsfähigkeit wird in den Berichten von Dr. J.______,
+Dr. K.______ und Dr. E.______ widersprochen.
+7.2.1
+Dr. J.______ hielt am 1. Dezember 2015 fest,
+dass die Beschwerdeführerin mittelfristig nicht in der Lage sei, ein volles
+Arbeitspensum in sämtlichen Berufen zu absolvieren. Am 26. April 2016 vertrat
+er sodann die Ansicht, dass dauerhaft keine Arbeitsfähigkeit mehr gegebenen
+sei. In Bezug auf diese beiden Berichte gilt vorab allerdings zu
+berücksichtigen, dass die Einschätzungen von Dr. J.______ nicht so zeitnah wie
+diejenige von Dr. C.______ sind. Hinzu kommt, dass er keine Abgrenzung
+der Auswirkungen der somatischen, der psychischen sowie der psychosozialen
+Faktoren vornahm und somit nicht darlegte, wie die attestierte
+Arbeitsunfähigkeit begründet ist, worauf Dr. C.______ zu Recht hinweist.
+Zudem äusserte er sich dahingehend, dass die HWS-Beweglichkeit objektiv gut
+und die Gebrauchsfähigkeit der Hände nicht wesentlich eingeschränkt sei.
+Trotz dieser Feststellung gelangte er zum Schluss, dass die Beschwerdeführerin
+mittelfristig nicht in der Lage sei, einen Beruf auszuüben, was
+widersprüchlich anmutet. Hinzu kommt, dass er sich bei seiner Einschätzung
+fast ausschliesslich auf die subjektiven Angaben der Beschwerdeführerin
+stützte und unter anderem auch psychosoziale und damit invaliditätsfremde
+Faktoren berücksichtigte.
+7.2.2
+Sodann berichtete Dr. K.______ am 1. Mai 2015, dass
+die Beschwerdeführerin seit vier bis fünf Jahren zu 100 % arbeitsunfähig sei.
+Ihre Rentengesuche seien von der Beschwerdegegnerin jedoch immer wieder
+abgelehnt worden. Es sei bei der Überprüfung jeweils einzig Bezug auf die
+Krebserkrankung genommen worden, wobei nun die neurologische Situation im
+Vordergrund stehe. Dies überzeugt nicht. So hält sie zwar fest, dass klinisch
+und laborchemisch keine Hinweise für ein Rezidiv des invasiv duktalen
+Mammakarzinoms vorhanden seien. Eine Erklärung, weshalb und was für ein
+neurologisches Problem zu einer Arbeitsfähigkeit führen und zu einer
+allfälligen Invalidenrente berechtigen sollte, blieb sie allerdings schuldig.
+Zudem stützte sie sich ebenfalls fast ausschliesslich auf die Angaben der
+Beschwerdeführerin. Insgesamt gelingt es Dr. K.______ damit nicht,
+Zweifel am Gutachten von Dr. C.______ zu erwecken.
+7.2.3
+Sodann kann den Berichten von Dr. E.______
+gegenüber dem Gutachten von Dr. C.______ ebenfalls kein erhöhter
+Beweiswert zugesprochen werden. So hält Dr. E.______ nämlich
+übereinstimmend mit Dr. C.______ zunächst fest, dass gewisse
+Diskrepanzen zwischen der schmerzfreien Bewegung und den geschilderten
+Beschwerden vorhanden seien. Dennoch gelangte er in der Folge zum Schluss,
+dass die Beschwerdeführerin in sämtlichen Tätigkeiten eingeschränkt sei,
+während Dr. C.______ eine volle Arbeitsfähigkeit in adaptierten
+Tätigkeiten attestierte, was im Ergebnis nur eine andere Einschätzung
+desselben medizinischen Sachverhalts darstellt, worauf die RAD-Ärzte zu Recht
+hinweisen. Des Weiteren nimmt Dr. E.______ wie Dr. J.______ keine
+Abgrenzung der Auswirkungen der somatischen, psychischen sowie psychosozialen
+Faktoren vor. Er verweist in seinen Berichten zu Handen der
+Beschwerdeführerin nur in pauschaler Weise darauf, dass eine Einschränkung
+der Arbeitsfähigkeit wegen den somatischen und psychischen Beschwerden
+gegeben sei und erwähnt in einer Nebenbemerkung, dass gewisse soziokulturelle
+und psychosoziale Einflüsse vorhanden seien. In welchem Ausmass und wie sich
+die Probleme jedoch auf den Gesundheitszustand auswirken und weshalb von
+einer Chronifizierung der Schulter-Armbeschwerden ausgegangen werden muss,
+beantwortet er allerdings nicht. Sodann gab er in seinem Bericht vom 24. Juni
+2016 noch an, dass keine nennenswerte Verbesserung mehr zu erwarten und eine
+stationäre Rehabilitation indiziert sei. In der Rehaklinik […] konnte
+daraufhin jedoch sowohl eine Linderung der Schmerzintensität als auch eine
+Verbesserung der körperlichen Leistungsfähigkeit erreicht werden. Ferner
+attestierte Dr. E.______ der Beschwerdeführerin in adaptierten
+Tätigkeiten und in der angestammten Tätigkeit eine Arbeitsunfähigkeit von 50 %
+mit einer Leistungseinschränkung von 50 %. Dabei führt er nicht aus,
+weshalb seine Einschätzung sowohl für adaptierte als auch für die angestammte
+Tätigkeit gelten soll. Schliesslich verkennt er, dass es in der Natur einer
+Begutachtung liegt, dass nur kurze Zeit für die Erhebung von eigenen Befunden
+zur Verfügung steht. Allerdings kann sich die Gutachtensperson zusätzlich
+anhand der Anamnese jeweils ein genügendes Bild des Gesundheitszustands
+machen, wobei Dr. E.______ ja selbst darauf hinweist, dass das Gutachten
+von Dr. C.______ vollständig und akribisch zusammengestellt worden sei.
+7.3
+Als Zwischenfazit ist festzuhalten, dass dem
+Gutachten von Dr. C.______ ein erhöhter Beweiswert zukommt, da es die
+Anforderungen an ein medizinisches Gutachten vollumfänglich erfüllt.
+Demgegenüber überzeugen die Berichte von Dr. J.______, Dr. K.______
+und Dr. E.______ nicht. Es ist deshalb nicht zu beanstanden, dass sich
+die Beschwerdegegnerin auf die ärztliche Meinung von Dr. C.______
+abstützte und aus somatischer Sicht von keiner Arbeitsunfähigkeit in
+adaptierten Tätigkeiten sowie von keiner Verschlechterung des
+Gesundheitszustands seit der letzten Rentenverfügung ausging.
+8.
+8.1
+Die Beschwerdegegnerin folgte aus psychischer Sicht
+dem Gutachten von
+Prof.
+D.______
+vom 8. Dezember 2018, welcher keine Beschwerden mit Auswirkungen auf die
+Arbeitsfähigkeit diagnostizierte. Dem kann gefolgt werden, da auch seinem
+Gutachten gegenüber den übrigen im Recht liegenden medizinischen Berichten
+erhöhter Beweiswert zukommt. Es erfüllt die Qualitätskriterien an eine
+medizinische Expertise (vgl. vorstehende E. II/3.3), wovon auch die
+RAD-Ärzten übereinstimmend ausgingen. So erweisen sich die gestellten
+Diagnosen medizinisch als nachvollziehbar und schlüssig, worauf selbst lic.
+phil. F.______ in ihrem Bericht vom 31. März 2017 hinwies. Letztere
+fügte dabei sogar an, dass gegenüber
+Prof.
+D.______
+keine abweichenden medizinischen Einschätzungen bekannt seien. Am erhöhten
+Beweiswert des Gutachtens ändert sodann nichts, dass
+Prof.
+D.______ bis zur Erstattung keine Berichte der
+behandelnden Psychotherapeutin lic. phil. F.______ vorlagen. Diese
+wurden ihm im Nachhinein zur Kenntnis gebracht, worauf er in seinem Schreiben
+vom 20. Dezember 2017 ergänzend Stellung nehmen konnte. Dabei berücksichtigte
+Prof.
+D.______ die geäusserte
+Kritik und gelangte dennoch zu keiner Änderung seiner Beurteilung.
+Sodann
+bemerkte er in seinem Gutachten zwar, dass das Störungsbild nicht
+leitliniengerecht behandelt worden sei und empfahl eine multimodale
+Schmerztherapie, eine Traumatherapie oder gegebenenfalls ein Eye Movement
+Desensitization and Reprocessing (EMDR). Zu diesem Schluss gelangte er aber
+offenbar nur, weil er noch keine Kenntnis von der Behandlung durch lic. phil.
+F.______ hatte, welche sich nach eigenen Angaben der Methoden der
+Traumatologie bedient. Darüber hinaus liess er die Frage, ob die sexuelle
+Missbrauchserfahrung der Beschwerdeführerin ihre psychische Resilienz
+gemindert und der chronischen Schmerzstörung das Feld bereitet habe, zwar
+offen, da er dafür in den Akten keine Hinweise gefunden habe. Dennoch fand
+diese Erfahrung Eingang in sein Gutachten und er bewertete diese plausibel
+mit einer Diagnose der Z-Kategorie bei der ICD-Codierung, welche
+invalidenrechtlich keinen Einfluss auf die Arbeitsfähigkeit zeitigt.
+Sodann gab die
+Beschwerdeführerin gegenüber
+Prof.
+D.______ zwar schwere Einschränkungen und einen hohen Leidensdruck an.
+Demgegenüber erweist sich ihr psychosoziales Umfeld aber als weitgehend
+intakt. So steht sie zwischen sieben und acht Uhr morgens auf und frühstückt
+nach der Morgentoilette mit ihrem Bruder. Anschliessend erledigt sie den
+Abwasch sowie den Haushalt, wobei keinerlei Einschränkungen angegeben werden.
+Nach einem Spaziergang mit ihrem Bruder bereitet sie diesem das Mittagessen zu
+und geht am Nachmittag mit diesem Kaffeetrinken. Gegen 17 Uhr kehrt sie nach
+Hause zurück und nimmt telefonischen Kontakt mit ihrem Vater in der […] auf,
+worauf sie sich mit einer sehr engen Kollegin nach deren Arbeit trifft, was
+gegen einen sozialen Rückzug spricht. Hinzu kommt, dass sie jeweils am
+Dienstag und Mittwochvormittag ihre Physio- und Psychotherapietermine
+selbstständig wahrnehmen kann. Damit bestehen Inkonsistenzen zwischen den
+angegebenen psychischen Einschränkungen und ihrer Alltagsgestaltung, was
+gegen eine invalidisierende Gesundheitsschädigung spricht (vgl. BGE 141 V 281
+E. 2.2.1).
+Gesamthaft betrachtet
+gelangte
+Prof.
+D.______ gestützt auf
+seine Erkenntnisse und unter Berücksichtigung der Vorakten somit zum
+plausiblen Ergebnis, dass die Beschwerdeführerin in einer körperlich
+leidensgerechten Tätigkeit unverzüglich eingegliedert werden kann.
+8.2
+Zu den Einschätzungen von
+Prof.
+D.______ äussert sich vor allem die behandelnde
+Psychotherapeutin lic. phil. F.______ kritisch. Entgegen der Ansicht
+der Beschwerdeführerin erweisen sich deren Berichte jedoch als teilweise
+widersprüchlich, weshalb ihnen nicht gefolgt werden kann. Insbesondere
+erscheint es inkonsequent, soweit lic. phil. F.______ die Diagnosen
+von
+Prof.
+D.______ am 31. März
+2017 noch als nachvollziehbar und schlüssig bezeichnete, in der Folge am
+23. April
+2018
+aber
+festhielt, dass die von ihm
+gestellte Diagnose der ICD-Z-Kategorie dem Leiden der Beschwerdeführerin
+nicht gerecht werde. Sodann diagnostizierte sie am 31. März 2017 gegenüber
+dem Schreiben vom 23. April 2018 noch eine Dysthymia. Weshalb sie in der
+Folge aber zu anderen Diagnosen gelangte, begründete sie in keiner Weise.
+Ferner kann Prof. D.______ darin gefolgt werden, dass
+lic. phil. F.______ bei der Bestimmung der Arbeitsunfähigkeit
+mehrere invalidenrechtlich irrelevante Faktoren als Belastungsfaktoren
+berücksichtigte, wobei er vor allem auf die fehlende Berufsbildung und
+psychosozialen Faktoren hinwies. Im Übrigen bemerkte Dr. L.______ zu
+Recht, dass die Einschätzung von lic. phil. F.______ gegenüber
+derjenigen von Prof. D.______ ausschliesslich eine andere Beurteilung
+desselben medizinischen Sachverhalts darstellt. Schliesslich wurden die
+Berichte von lic. phil. F.______ auf Ersuchen der Beschwerdeführerin hin
+erstellt. Dabei gilt zu berücksichtigen, dass Berichte von behandelnden
+Ärzten oft eher zu Gunsten der Patienten formuliert sind.
+9.
+Zusammenfassend erfüllen die Gutachten von
+Dr. C.______ und Prof. D.______ die Anforderungen an den Beweiswert
+einer medizinischen Expertise. Die Übrigen im Recht liegenden medizinischen
+Berichte vermögen an diesen Einschätzungen keine Zweifel zu erwecken, worauf
+auch die RAD-Ärzte hinweisen. Die Beschwerdegegnerin verletzte somit kein
+Recht, indem sie bei ihrem Entscheid auf das in Auftrag gegebene
+bidisziplinäre Gutachten abstellte und zum Schluss gelangte, dass seit der
+letzten Rentenverfügung vom
+7. September
+2012
+keine rentenerhebliche Verschlechterung des Gesundheitszustands
+eingetreten ist. Demzufolge hat sie den Anspruch auf
+Leistungen der Invalidenversicherung zu Recht verneint, womit sich auch die
+Frage, ob der Beschwerdeführerin Integrationsmassnahmen zuzusprechen sind,
+erübrigt.
+Dies führt zur
+Abweisung der Beschwerde.
+III.
+1.
+1.1
+Die Beschwerdeführerin beantragt die Gewährung der
+unentgeltlichen Prozessführung und der unentgeltlichen Rechtsverbeiständung.
+Gemäss Art. 139 Abs. 1 des Gesetzes über die
+Verwaltungsrechtspflege vom 4. Mai 1986 (VRG) befreit die Behörde eine
+Partei, der die Mittel fehlen, um neben dem Lebensunterhalt für sich und ihre
+Familie die Verfahrenskosten aufzubringen, auf Gesuch hin ganz oder teilweise
+von der Kosten- und Vorschusspflicht, sofern das Verfahren nicht aussichtslos
+ist. Unter denselben Voraussetzungen weist sie der Partei auf Gesuch hin oder
+von Amtes wegen einen Anwalt als Rechtsbeistand zu, falls ein solcher für die
+gehörige Interessenwahrung erforderlich ist (Art. 61 lit. f ATSG und Art. 139
+Abs. 2 VRG). Der Nachweis der Bedürftigkeit obliegt nach Art. 139
+Abs. 3 VRG der gesuchstellenden Partei.
+1.2
+Aus
+den Akten geht hervor, dass die Beschwerdeführerin wirtschaftliche
+Sozialhilfe bezieht, weshalb ihre Mittellosigkeit offensichtlich ist. Zudem
+kann das vorliegende Verfahren nicht als aussichtslos bezeichnet werden.
+Folglich ist das Gesuch um unentgeltliche Prozessführung gutzuheissen. Da die
+Beschwerdeführerin für das Verfahren auf eine rechtliche Vertretung angewesen
+war, ist auch ihr Gesuch um unentgeltliche Rechtsverbeiständung gutzuheissen
+und ihr ist in der Person von Rechtsanwalt B.______ ein unentgeltlicher
+Rechtsbeistand zu bestellen. Letzterer ist mit pauschal Fr. 2'000.- (inkl.
+Auslagen und Mehrwertsteuer) zu entschädigen.
+2.
+Nach Art. 134 Abs. 1 lit.
+c VRG i.V.m. Art. 69 Abs. 1
+bis
+IVG hat die Partei, welche im Beschwerdeverfahren
+unterliegt, die amtlichen Kosten zu tragen. Entsprechend dem Ausgang des
+Verfahrens sind die Gerichtskosten von pauschal Fr. 600.- der Beschwerdeführerin
+aufzuerlegen. Auf deren Erhebung ist indessen zufolge Gewährung der
+unentgeltlichen Prozessführung einstweilen zu verzichten. Die
+Beschwerdeführerin ist darauf hinzuweisen, dass eine Partei, der die
+unentgeltliche Rechtspflege bewilligt worden ist, für den Fall, dass sie
+später in günstige wirtschaftliche Verhältnisse gelangt, zur Nachzahlung der
+Verfahrenskosten verpflichtet werden kann (Art. 139a VRG). Ausgangsgemäss ist
+keine Parteientschädigung zuzusprechen (Art. 1 Abs. 1 IVG i.V.m. Art. 61 lit.
+g ATSG e contrario).
+Demgemäss beschliesst die Kammer:
+1.
+Die
+Gesuche der Beschwerdeführerin um Gewährung der unentgeltlichen Prozessführung
+und der unentgeltlichen Rechtsverbeiständung werden gutgeheissen. Ihr wird
+in der Person von Rechtsanwalt B.______ ein unentgeltlicher Rechtsbeistand
+bestellt.
+2.
+Der
+Rechtsbeistand wird zu Lasten der Gerichtskasse mit Fr. 2'000.-
+(inkl. Auslagen und Mehrwertsteuer) entschädigt.
+3.
+Die
+Nachzahlungspflicht gemäss Art. 139a VRG bleibt vorbehalten.
+4.
+Die Gerichtskasse wird beauftragt, spätestens im
+Juni 2023 zu prüfen, ob die Vor-aussetzungen für die Nachzahlung erfüllt
+sind.
+und erkennt sodann:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Der
+Beschwerdeführerin werden die Gerichtskosten von Fr. 600.- auferlegt,
+auf deren Erhebung einstweilen verzichtet wird.
+3.
+Eine
+Parteientschädigung wird nicht zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
