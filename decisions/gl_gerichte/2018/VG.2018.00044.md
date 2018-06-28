@@ -1,0 +1,301 @@
+---
+decision_id: "gl_gerichte_VG.2018.00044"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2018.00044"
+docket_2: "VG.2018.674"
+decided: "2018-06-28"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=967&W10_KEY=218274&nTrefferzeile=3&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/173.110/art-086.md", "switzerland/bund/acts/173.110/art-089.md", "switzerland/bund/acts/173.110/art-093.md", "switzerland/bund/acts/173.110/art-111.md"]
+---
+
+# GL Gerichte VG.2018.00044
+
+## Regeste
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+## Text
+
+Glarus Verwaltungsgericht 28.06.2018 VG.2018.00044 (VG.2018.674)
+Glaris Verwaltungsgericht 28.06.2018 VG.2018.00044 (VG.2018.674)
+Glarona Verwaltungsgericht 28.06.2018 VG.2018.00044 (VG.2018.674)
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+28. Juni 2018
+I. Kammer
+in Sachen
+VG.2018.00044
+Gemeinde Glarus Nord
+Beschwerdeführerin
+vertreten durch
+Rechtsanwältin
+A.______
+gegen
+1.
+B.______
+Beschwerdegegner
+2.
+Departement Bau und Umwelt des Kantons
+Glarus
+betreffend
+Baubewilligung/Wiederherstellung des rechtmässigen
+Zustands
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+B.______ ist Eigentümer der Parz.-Nr. 01, Grundbuch
+[…]. Ohne über eine Baubewilligung zu verfügen, führte er auf seinem
+Grundstück Bauarbeiten aus. Am 9. Februar 2017 verfügte die Abteilung
+Bau und Umwelt der Gemeinde Glarus Nord einen sofortigen Baustopp.
+Gleichzeitig setzte sie B.______ eine Frist zur Einreichung eines
+ordentlichen Baugesuchs an.
+1.2
+Nachdem B.______ innert Frist kein Baugesuch
+eingereicht hatte, beschloss die Kommission Bau und Umwelt der Gemeinde
+Glarus Nord gestützt auf einen Entscheid des Gemeinderats Glarus Nord am 19.
+Juli 2017, dass B.______ den sich im Bau befindlichen Vorplatz südlich des
+Ökonomiegebäudes, LB-Nr. […], sowie die aufgeschüttete Rampe zur
+[…]strasse bis spätestens am 30. September 2017 zurückzubauen habe. Für
+den Säumnisfall wurde die Ersatzvornahme durch die Gemeinde angedroht.
+2.
+2.1
+In der Folge erhob B.______ am 13. September 2017
+Beschwerde beim Departement Bau und Umwelt (DBU). Er beantragte die Aufhebung
+der Verfügung vom 19. Juli 2017. Eventualiter sei die Sache an die Gemeinde
+Glarus Nord zur Erteilung der Baubewilligung zurückzuweisen. Ferner sei
+festzustellen, dass der […]weg Nr. 02 nicht über seine Parzelle führe.
+2.2
+Das DBU hiess die Beschwerde am 16. April 2018
+teilweise gut. Es hob die angefochtene Verfügung auf und wies die Sache im
+Sinne der Erwägungen zur Durchführung von weiteren Abklärungen und eines
+nachträglichen Baubewilligungsverfahrens an die Gemeinde Glarus Nord zurück.
+Auf das Feststellungsbegehren betreffend […]weg trat es nicht ein.
+3.
+3.1
+Dagegen gelangte die Gemeinde Glarus Nord mit
+Beschwerde vom 26. April 2018 ans Verwaltungsgericht und beantragte die
+Aufhebung des Entscheids des DBU sowie die vollumfängliche Bestätigung ihrer
+Verfügung; alles unter Kosten- und Entschädigungsfolgen zu Lasten von B.______.
+3.2
+Das DBU schloss am 4. Mai 2018 auf Abweisung der
+Beschwerde; unter Kostenfolge. B.______ beantragte am 17. Mai 2017, dass auf
+die Beschwerde nicht einzutreten sei. Eventualiter sei sie abzuweisen; alles
+unter Kosten- und Entschädigungsfolgen zu Lasten der Staatskasse oder der
+Gemeinde Glarus Nord.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 79 Abs. 1 des
+Raumentwicklungs- und Baugesetzes vom 2. Mai 2010 (RBG) i.V.m. Art. 105 Abs.
+1 lit. b des Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986 (VRG)
+zur Behandlung der vorliegenden Beschwerde zuständig.
+1.2
+1.2.1
+Der Beschwerdegegner 1 vertritt die Auffassung,
+auf die Beschwerde sei nicht einzutreten, da es sich beim angefochtenen
+Entscheid um einen nicht anfechtbaren Zwischenentscheid handle.
+1.2.2
+Der Beschwerdegegner 2 hob in seinem Entscheid
+die Verfügung der Beschwerdeführerin auf und wies die Sache zur Durchführung
+von weiteren Abklärungen und eines nachträglichen Baubewilligungsverfahrens
+zurück. Es ist zu Recht unbestritten, dass es sich dabei um einen
+Zwischenentscheid handelt.
+1.2.3
+Gemäss Art. 86 Abs. 2 VRG sind verfahrensleitende
+und andere Zwischenentscheide selbstständig nur anfechtbar, wenn sie einen
+nicht wieder gutzumachenden Nachteil bewirken können. Nach Art. 93 Abs. 1
+lit. b des Bundesgesetzes über das Bundesgericht vom 17. Juni 2005 (BGG)
+sind Zwischenentscheide aber auch dann anfechtbar, wenn die Gutheissung der
+Beschwerde sofort einen Endentscheid herbeiführen und damit einen bedeutenden
+Aufwand an Zeit oder Kosten für ein weitläufiges Beweisverfahren ersparen
+würde. Da gemäss Art. 111 Abs. 1 BGG die zur Beschwerde an das
+Bundesgericht Berechtigten, sich am Verfahren vor allen kantonalen Vorinstanzen
+als Partei beteiligen können müssen und da gemäss Art. 86 Abs. 2
+BGG die Kantone als unmittelbare Vorinstanzen des Bundesgerichts obere
+Gerichte einzusetzen haben, müssen beim Bundesgericht anfechtbare
+Zwischenentscheide auch vor dem kantonalen Verwaltungsgericht angefochten
+werden können.
+1.2.4
+Das Verwaltungsgericht orientiert sich bei der
+Auslegung des Begriffes "nicht wieder gutzumachender Nachteil" an
+der Praxis des Bundesgerichts zu Art. 93 Abs. 1 lit. a BGG.
+Ein solcher Nachteil muss grundsätzlich rechtlicher Natur sein, d.h. auch
+durch einen günstigen Endentscheid nicht mehr behoben werden können; eine
+rein tatsächliche oder wirtschaftliche Erschwernis genügt in der Regel nicht
+(BGE 134 I 83 E. 3.1). Soweit es das materielle Verwaltungsrecht gebietet,
+können jedoch auch rein tatsächliche Nachteile nicht wieder gutzumachende
+Nachteile im Sinne von Art. 86 Abs. 2 VRG bzw. Art. 93 Abs. 1 lit.
+a BGG darstellen. Kein nicht wieder gutzumachender Nachteil liegt aber
+jedenfalls dann vor, wenn es einer Partei bloss darum geht, eine Verlängerung
+oder Verteuerung des Verfahrens zu verhindern (BGE 140 V 282 E. 4.2.2,
+135 II 30 E. 1.3.4).
+Vorliegend ist kein
+solcher nicht wieder gutzumachender Nachteil ersichtlich. Namentlich wurde
+durch den Beschwerdegegner 2 noch nicht über das Schicksal der
+strittigen Baute entschieden. Im Wesentlichen hat der vorinstanzliche
+Entscheid einen zusätzlichen verfahrensmässigen Aufwand für die
+Beschwerdeführerin zur Folge, was keinen nicht wiedergutzumachenden Nachteil
+im Sinne der genannten Bestimmungen darstellt.
+1.2.5
+Zu beachten ist indessen, dass bei einer Gutheissung
+der Beschwerde der Wiederherstellungsbefehl der Beschwerdeführerin geschützt
+würde. Dies hätte zur Folge, dass das unter Umständen aufwändige
+nachträgliche Baubewilligungsverfahren nicht mehr durchgeführt werden müsste.
+So könnte den Parteien ein bedeutender Aufwand an Zeit und Kosten erspart
+werden. Damit liegt ein Anwendungsfall von Art. 93 Abs. 1
+lit. b BGG vor, weshalb der Zwischenentscheid des
+Beschwerdegegners 2 vor dem Verwaltungsgericht anfechtbar ist.
+1.3
+1.3.1
+Zur Beschwerde an das Verwaltungsgericht ist gemäss
+Art. 88 lit. a VRG unter anderem berechtigt, wer ein eigenes
+schutzwürdiges Interesse an der Änderung oder Aufhebung des angefochtenen
+Entscheids hat. Einer Gemeinde kommt zudem die Beschwerdebefugnis zur Wahrung
+der von ihr vertretenen öffentlichen Interessen zu (Art. 88 lit. b VRG).
+1.3.2
+Das Vorliegen der Prozessvoraussetzungen und damit
+der Legitimation ist zwar grundsätzlich von Amtes wegen festzustellen. Dies
+entbindet die Parteien jedoch nicht davon, zumindest wenn die
+Beschwerdebefugnis wie vorliegend nicht offensichtlich ist, diese zu
+substantiieren. Die Beschwerdeführerin beliess es in ihrer Beschwerde bei der
+blossen Behauptung, dass sie zur Beschwerde legitimiert sei, ohne dies in
+irgendeiner Weise zu begründen. Wie sich aus dem Nachfolgenden ergibt, kann
+offengelassen werden, ob bereits aus diesem Grund auf die Beschwerde nicht
+einzutreten ist.
+1.3.3
+Eine Gemeinde ist zunächst gestützt auf Art. 88
+lit. a VRG zur Beschwerde befugt, wenn sie vom angefochtenen Entscheid
+gleich oder ähnlich wie ein Privater in ihren materiellen oder
+vermögensrechtlichen Interessen berührt ist. Dies kann beispielsweise der
+Fall sein, wenn sie selbst Bauherrin ist oder wenn sie durch eine Baubewilligung
+für ein Werk gleich wie Private immissionsbelastet ist (BGE 124 II 293
+E. 3b). Vorliegend ist die Beschwerdeführerin in ihrer Rolle als
+Baupolizeibehörde berührt. Es ist offensichtlich und bedarf keiner
+Weiterungen, dass sie vom angefochtenen Entscheid nicht wie ein Privater
+betroffen ist.
+1.3.4
+1.3.4.1
+Gemäss Art. 88 lit. b VRG ist eine Gemeinde aber
+auch zur Wahrung der von ihr vertretenen öffentlichen Interessen zur
+Beschwerde legitimiert. Seit Inkrafttreten des Bundesgerichtsgesetzes am 1.
+Januar 2007 orientiert sich das Verwaltungsgericht bei der Auslegung dieser
+Bestimmung mit Blick auf die in Art. 111 Abs. 1 i.V.m. Art. 89
+BGG verankerte Mindestanforderung an die Beschwerdelegitimation im kantonalen
+Verfahren an der bundesgerichtlichen Praxis zur Beschwerdelegitimation vor
+dem Bundesgericht (vgl. VGer-Urteil VG.2010.00141 vom 25. Januar
+2012 E. II/1c, nicht publiziert). Dies dient der Einheit des Verfahrens.
+Die Beschwerdelegitimation
+der Gemeinde ist dann zu bejahen, wenn sie als Trägerin öffentlicher Aufgaben
+schutzwürdige, spezifische öffentliche Interessen geltend machen kann und in
+einem Mass betroffen ist, das die Bejahung der Rechtsmittelbefugnis im als
+verletzt gerügten Aufgabenbereich rechtfertigen lässt. Verlangt wird grundsätzlich
+eine qualifizierte Betroffenheit in eigenen hoheitlichen Interessen. Eine
+solche ist anzunehmen, wenn ein Hoheitsakt wesentliche öffentliche Interessen
+in einem Politikbereich betrifft, der der Gemeinde zur Regelung zugewiesen
+wurde (BGE 136 II 383 E. 2.4; VGer-Urteil VG.2010.00141 vom 25.
+Januar 2012 E. II/1c, nicht publiziert; Martin Bertschi, in Alain Griffel
+[Hrsg.], Kommentar zum Verwaltungsrechtspflegegesetz des Kantons Zürich, 3.
+A., Zürich/Basel/Genf 2014, § 21 N. 105 ff.; Bernhard Waldmann, in Basler
+BGG-Kommentar, 2011, Art. 89 N. 43).
+1.3.4.2
+Die Wiederherstellung des rechtmässigen Zustands
+wird durch kantonales Recht abschliessend in Art. 82 Abs. 1 RBG geregelt.
+Danach verfügt die zuständige Gemeindebehörde auf Kosten des Bauherrn nach
+den Vorschriften des Gesetzes über die Verwaltungsrechtspflege die Änderung
+oder die Entfernung widerrechtlich erstellter Bauten, sofern die Abweichung
+gegenüber den Bauvorschriften nicht geringfügig ist.
+Bei der Frage, ob die
+Beschwerdeführerin den Wiederherstellungsbefehl alleine deshalb erlassen
+durfte, weil der Beschwerdegegner 1 kein nachträgliches Baugesuch
+eingereicht hatte, handelt es sich um eine Rechtsfrage. Es geht einzig um die
+richtige Auslegung der kantonalen Bestimmung von Art. 82 Abs. 1 RBG.
+Anders etwa als bei der Frage, ob eine Baubewilligung zu erteilen ist, bei
+welcher regelmässig örtliche Gegebenheiten eine Rolle spielen und der
+Gemeinde ein Ermessen zukommt, geht es vorliegend nicht um eine
+Ermessensbetätigung der Gemeinde. Auch handelt es sich nicht um einen
+Politikbereich, welcher den Gemeinden zur Regelung zugewiesen wurde. Dasselbe
+würde im Übrigen für die Frage, ob die Baubewilligung offensichtlich zu
+verweigern ist, weshalb auf ein nachträgliches Bauverfahren ohnehin verzichtet
+werden könnte, gelten (vgl. VGer-Urteil VG.2016.00078 vom 22. Dezember
+2016 E. II/4.2.2). Auch hierbei handelt es sich nämlich um eine Rechtsfrage
+des kantonalen Rechts. Diesbezüglich ist aber anzufügen, dass die
+Beschwerdeführerin den Beschwerdegegner 1 zur Einreichung eines
+nachträglichen Baugesuchs aufforderte, weshalb sie offenbar selber nicht der
+Auffassung ist, dass die Baubewilligung
+offensichtlich
+verweigert
+werden kann.
+Da der angefochtene
+Entscheid lediglich die Durchführung eines allenfalls aufwändigen
+nachträglichen Bauverfahrens zur Folge hat, vermag die Beschwerdeführerin
+keine schutzwürdigen, spezifischen öffentlichen Interessen geltend zu machen.
+Ihr Interesse reduziert sich auf eine richtige Anwendung des kantonalen
+Rechts, was ihre Beschwerdelegitimation nach Art. 88 lit. b VRG nicht zu
+begründen vermag (BGE 136 II 383 E. 2.4; Bertschi, § 21 N.
+105; Waldmann, Art. 89 N. 44; vgl. zum Ganzen auch das Urteil des
+Verwaltungsgerichts Zürich VB.2007.00348 vom 12. März 2008 E. 1.2,
+www.vgr.zh.ch).
+1.3.4.3
+Einzutreten wäre auf die Beschwerde schliesslich,
+wenn die Beschwerdeführerin die Verletzung der verfassungsrechtlich
+geschützten Gemeindeautonomie geltend machen würde (Art. 113 Abs. 1 lit. b
+VRG). Darauf hat sie aber zu Recht verzichtet, da es vorliegend wie dargelegt
+um die Anwendung kantonalen Rechts, welches nicht in den Autonomiebereich der
+Gemeinde eingreift, geht.
+2.
+Obwohl sich das
+Verwaltungsgericht nach dem Dargelegten nicht zur vorliegend strittigen
+Rechtsauffassung des Beschwerdegegners 2 äussern kann, rechtfertigen
+sich einige Hinweise zum Fortgang des Verfahrens. Nach Rechtskraft des
+vorliegenden Entscheids steht fest, dass das Bauvorhaben des
+Beschwerdegegners 1 bewilligungspflichtig ist, weshalb es für diesen
+keinen Grund mehr gibt, auf die Einreichung eines nachträglichen Baugesuchs
+zu verzichten. Daher erscheint es als zweckmässig, dass die
+Beschwerdeführerin nach Rechtskraft dieses Entscheids den
+Beschwerdegegner 1 erneut auffordern wird, ein Baugesuch einzureichen.
+Aufgrund des vorinstanzlichen Entscheids ist sodann der Beschwerdeführerin zu
+empfehlen, mit der Aufforderung zur Einreichung des Baugesuchs für den
+Säumnisfall die Ersatzvornahme, nämlich die Erstellung des Baugesuchs durch
+die Beschwerdeführerin selbst, anzudrohen. Sollte diese Ersatzvornahme
+tatsächlich notwendig werden, stünde es der Beschwerdeführerin frei, damit
+ein professionelles Planungsbüro zu beauftragen. Unabhängig davon, ob die
+nachträgliche Baubewilligung schliesslich zu erteilen ist oder nicht, und
+unabhängig davon, ob das Baugesuch durch die Beschwerdeführerin selbst oder
+durch von ihr beauftragte Dritte erstellt wird, hat der
+Beschwerdegegner 1 die dadurch entstandenen Kosten zu tragen
+(Art. 130 Abs. 1 lit. a VRG; Ulrich Häfelin/Georg Müller/Felix Uhlmann,
+Allgemeines Verwaltungsrecht, 7. A., Zürich/St. Gallen 2016, Rz. 1467 f.). Es
+liegt daher in seinem Interesse, dass er der Aufforderung zur Einreichung
+eines Baugesuchs nachkommt.
+III.
+Da die unterliegende
+Beschwerdeführerin an der vorliegenden Streitsache nicht wirtschaftlich
+interessiert ist, sind ihr keine Gerichtskosten aufzuerlegen, weshalb diese
+auf die Gerichtskasse zu nehmen sind (Art. 135 Abs. 2 VRG). Ausgangsgemäss
+und da ohnehin keine besonderen Umstände vorliegen, ist ihr keine
+Parteientschädigung zuzusprechen (Art. 138 Abs. 3 lit. a VRG e contrario und
+Art. 138 Abs. 4 VRG). Der Beschwerdegegner 1 macht zwar
+geltend, er sei jetzt anwaltlich vertreten. Da er im vorliegenden Verfahren
+aber selbst handelte, ohne durch einen Rechtsanwalt vertreten worden zu sein,
+steht ihm ebenfalls keine Parteientschädigung zu (Art. 138 Abs. 1 VRG).
+Demgemäss erkennt die Kammer
+:
+1.
+Auf die Beschwerde wird nicht eingetreten.
+2.
+Die Gerichtskosten werden auf die Staatskasse
+genommen.
+3.
+Es werden keine Parteientschädigungen
+zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
