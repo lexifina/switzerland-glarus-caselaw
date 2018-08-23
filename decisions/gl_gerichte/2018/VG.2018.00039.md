@@ -1,0 +1,483 @@
+---
+decision_id: "gl_gerichte_VG.2018.00039"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2018.00039"
+docket_2: "VG.2018.684"
+decided: "2018-08-23"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=978&W10_KEY=218274&nTrefferzeile=8&Template=simple/search_result_document.html"
+---
+
+# GL Gerichte VG.2018.00039
+
+## Regeste
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+## Text
+
+Glarus Verwaltungsgericht 23.08.2018 VG.2018.00039 (VG.2018.684)
+Glaris Verwaltungsgericht 23.08.2018 VG.2018.00039 (VG.2018.684)
+Glarona Verwaltungsgericht 23.08.2018 VG.2018.00039 (VG.2018.684)
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+23. August 2018
+I. Kammer
+in Sachen
+VG.2018.00039
+AA.______
+Beschwerdeführer
+BA.______
+AB.______
+BB.______
+alle vertreten durch
+Rechtsanwalt
+C.______
+gegen
+1.
+D.______GmbH
+Beschwerdegegner
+vertreten durch
+Rechtsanwalt
+E.______
+2.
+Gemeinde Glarus Nord
+3.
+Departement Bau und Umwelt des Kantons
+Glarus
+betreffend
+Baubewilligung
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Die D.______GmbH ist Eigentümerin der in […]
+(Gemeinde Glarus Nord) gelegenen Parz.-Nrn. 01 und 02, Grundbuch […].
+Die Parz.-Nr. 01 befindet sich in der Bauzone W2a, während die
+Parz.-Nr. 02 in der Bauzone W2b sowie auf einer Bautiefe entlang
+der X-Strasse in der Wohn- und Gewerbezone liegt. Für die Parz.-Nr. 02
+gilt sodann eine Überbauungsplanpflicht. Die Gemeindeversammlung von Glarus
+Nord erliess am 19. Juni 2015 den die Parz.-Nr. 02 umfassenden
+Überbauungsplan F.______. Dieser wurde durch das Departement Bau und Umwelt
+(DBU) am 20. November 2015 genehmigt.
+1.2
+Die D.______GmbH ersuchte die Gemeinde Glarus Nord
+am 28. Juni 2016 um Bewilligung des Neubaus von sieben
+Mehrfamilienhäusern auf den Parz.-Nrn. 01 und 02. Dagegen erhoben unter
+anderem AB.______ und BB.______ am 28. Juli 2016 sowie AA.______ und BA.______
+am 29. Juli 2016 Einsprache. Der Gemeinderat Glarus Nord erteilte am 21.
+Dezember 2016 die Baubewilligung unter verschiedenen Auflagen und Bedingungen.
+Gleichzeitig wies er die Einsprachen ab, soweit darauf einzutreten war.
+1.3
+Dagegen erhoben AA.______ und BA.______ am
+1. Februar 2017 Beschwerde beim DBU und beantragten die Aufhebung des
+Einspracheentscheids sowie die Verweigerung der Baubewilligung. Gleichentags
+gelangten auch AB.______ und BB.______ ans DBU und beantragten ebenfalls die
+Aufhebung des Einspracheentscheids sowie die Verweigerung der Baubewilligung.
+Das DBU vereinigte am 2. Februar 2017 die beiden Beschwerdeverfahren. Am
+26. Februar 2018 hiess es die Beschwerden teilweise gut und erteilte
+unter verschiedenen Auflagen und Bedingungen eine Ausnahmebewilligung für die
+Grundstückszufahrt der Parz.-Nr. 02 und den Näherbau des
+Unterflurcontainers an die Y-strasse. Im Übrigen wies es die Beschwerde ab.
+2.
+2.1
+AA.______ und BA.______ sowie AB.______ und BB.______
+gelangten in der Folge mit Beschwerde vom 13. April 2018 ans
+Verwaltungsgericht und beantragten die Aufhebung des Beschwerdeentscheids des
+DBU sowie die Verweigerung der Baubewilligung; alles unter Kosten- und
+Entschädigungsfolgen zu Lasten der D.______GmbH.
+2.2
+Die D.______GmbH beantragte am 7. Mai 2018 die
+Abweisung der Beschwerde; unter Kosten- und Entschädigungsfolgen zu Lasten
+von AA.______ und BA.______ sowie AB.______ und BB.______. Das DBU schloss am
+11. Mai 2018 ebenfalls auf Abweisung der Beschwerde; unter Kostenfolge.
+Schliesslich beantragte auch die Gemeinde Glarus Nord am 16. Mai 2018
+(eingegangen am 25. Mai 2018) die Abweisung der Beschwerde; unter Kosten-
+und Entschädigungsfolgen zu Lasten von AA.______ und BA.______ sowie
+AB.______ und BB.______.
+2.3
+AA.______ und BA.______ sowie BA.______ und BB.______
+ersuchten am 31. Mai 2018 das Verwaltungsgericht um Ansetzung einer
+Frist zur Stellungnahme zu den Beschwerdeantworten, welchem Antrag das
+Verwaltungsgericht am 1. Juni 2018 nachkam. Am 20. Juni 2018
+reichten sie ihre Stellungnahme ein, worin sie an den in der Beschwerde
+gestellten Anträgen festhielten. Das DBU und die Gemeinde Glarus Nord
+verzichteten am 25. Juni 2018 bzw. 5. Juli 2018 auf eine Stellungnahme,
+während die D.______GmbH am 27. Juni 2018 unter Festhalten an den in der
+Beschwerdeantwort gestellten Anträgen Stellung nahm.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 79
+Abs. 1 des Raumentwicklungs- und Baugesetzes vom 2. Mai 2010 (RBG)
+i.V.m. Art. 105 Abs. 1 lit. b des Gesetzes über die
+Verwaltungsrechtspflege vom 4. Mai 1986 (VRG) zur Behandlung der vorliegenden
+Beschwerde zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt
+sind, ist auf die Beschwerde einzutreten.
+1.2
+Mit der Verwaltungsgerichtsbeschwerde können gemäss
+Art. 107 Abs. 1 VRG Mängel des angefochtenen Entscheids oder des
+Verfahrens geltend gemacht werden: die unrichtige oder unvollständige
+Feststellung des rechtserheblichen Sachverhalts (lit. a) und die
+unrichtige Rechtsanwendung einschliesslich eines Missbrauchs des Ermessens
+(lit. b). Die Unangemessenheit des Entscheids kann gemäss Art. 107
+Abs. 2 VRG nur ausnahmsweise geltend gemacht werden. Baurechtsstreitigkeiten,
+über welche das Verwaltungsgericht als zweite Beschwerdeinstanz entscheidet,
+fallen nicht unter die in Art. 107 Abs. 2 VRG aufgezählten
+Ausnahmefälle.
+2.
+2.1
+Die Beschwerdeführer machen geltend, der
+Überbauungsplan könne im Baubewilligungsverfahren vorfrageweise überprüft
+werden. Dies gelte insbesondere dann, wenn im Überbauungsplan Abweichungen
+von der Bauordnung enthalten seien, welche in Art. 9 Abs. 2 der Bauordnung
+[…] (BO […]) nicht aufgezählt würden. Überdies habe gemäss dieser Bestimmung
+der Gemeinderat immer zu beurteilen, ob mit allfälligen Abweichungen von der
+Bauordnung besonders gute Lösungen erzielt würden. Dazu sei die
+Gemeindeversammlung, welche nun für den Erlass der Überbauungspläne zuständig
+sei, gar nicht in der Lage. Der Überbauungsplan sei zudem im
+Baubewilligungsverfahren vorfrageweise daraufhin zu überprüfen, ob damit die
+in der Bauordnung enthaltenen Definitionen nicht umgangen bzw. verletzt
+würden. Vorliegend sei die von Art. 39 Abs. 1 BO geforderte allseitige
+Zurückversetzung bei den sogenannten "Attikageschossen" der
+Mehrfamilienhäuser A1 bis B2 nicht gegeben. Es sei lediglich eine einzige
+Fassade vollständig zurückversetzt. Bei den Mehrfamilienhäusern C1 und C2
+werde die Zurückversetzung bei der Nordfassade unterbrochen. Damit stehe
+fest, dass es sich bei den sogenannten Attikageschossen um Vollgeschosse
+handle. Demgegenüber sei im Überbauungsplan davon die Rede, dass in den im
+Überbauungsplanperimeter liegenden Baubereichen A und B jeweils Häuser mit
+drei Vollgeschossen und einem Attikageschoss bzw. im Baubereich C mit
+vier Vollgeschossen und einem Attikageschoss erstellt würden. Selbst wenn die
+Auffassung des Beschwerdegegners 3 zutreffen sollte, dass die Aufzählung
+in Art. 9 Abs. 2 BO nicht abschliessend sei – was bestritten werde
+–, könne es nicht angehen, dass mit dem Überbauungsplan gesetzliche
+Definitionen, welche in der Bauordnung selbst vorgenommen würden, abgeändert
+würden. Bei den Definitionen in der Bauordnung, wozu diejenigen in Art. 39 BO
+gehörten, handle es sich nämlich um feste nicht verhandelbare Grössen. Wenn
+also Art. 9 Abs. 2 BO Abweichungen zulasse, dann mit Sicherheit nicht von den
+Definitionen, sondern nur von den in den jeweiligen Zonen geltenden
+Vorschriften. Daraus folge, dass es nicht zulässig sei, dass der
+Überbauungsplan die Attikageschosse anders definiere, als dies der Gesetzgeber
+in Art. 39 Abs. 1 BO verbindlich getan habe. Es bestehe daher
+keinerlei Handlungsspielraum und auch kein Ermessen der Vorinstanzen, um von
+den Definitionen in der Bauordnung abzuweichen. Angesichts dieser Rechtslage
+spiele es keine Rolle, ob mit dem Überbauungsplan gesamthaft ein ortsbaulich
+und architektonisch besseres Ergebnis als mit der Regelbauweise erzielt
+werden könne. Sodann sei festzustellen, dass sich bezüglich der Häuser C
+weder dem Überbauungsplan noch den Sonderbauvorschriften Abweichungen der
+geplanten Attikageschosse von der in Art. 39 BO enthaltenen Definition
+entnehmen liessen. Bezüglich der Häuser A und B seien demgegenüber auf den im
+Überbauungsplan enthaltenen Systemschnitten lediglich zwei Fassadenseiten des
+jeweiligen Attikageschosses zurückversetzt. Mit Blick auf Ziff. 4.9 des
+Planungsberichts bildeten derartige Abweichungen von Art. 39 BO aber gar kein
+Thema. Es könne nicht angehen, dass in Bausachen unerfahrene Laien selbst
+herausfinden müssten, wo noch zusätzliche, in Ziff. 4.9 des
+Planungsberichts – welcher die Abweichungen gegenüber der geltenden
+Bauordnung offenlege – nicht erwähnte Abweichungen des Bauvorhabens gegenüber
+der Bauordnung enthalten seien. Das gewählte planerische Vorgehen der
+Beschwerdegegnerin 1 verstosse zusammenfassend gegen Treu und Glauben.
+Schliesslich seien die zurückversetzten Fassaden auf den Systemschnitten
+vollständig zurückversetzt. Eine Unterbrechung der Zurückversetzung für die
+Lifte/Treppenhäuser werde nicht dargestellt. Damit entspreche das Bauvorhaben
+nicht dem Überbauungsplan. Folglich sei es unabhängig davon, wie gross oder
+klein die Abweichungen ausfielen, nicht zu bewilligen.
+2.2
+Die Beschwerdegegnerin 1 vertritt die
+Auffassung, es entspreche Sinn und Zweck eines Überbauungsplans, eine
+Überbauung zu regeln, welche von der sogenannten Regelbauweise gemäss
+Bauordnung abweiche. Im Rahmen eines Baugesuchs, welches auf dem
+Überbauungsplan basiere, habe deshalb die Baubewilligungsbehörde einzig zu
+prüfen, ob das Baugesuch dem Überbauungsplan entspreche. In den Punkten, in
+welchen der Überbauungsplan von der Regelbauweise abweiche, gehe der
+Überbauungsplan vor. Gemäss Art. 9 Abs. 1 BO könne mit einem Überbauungsplan
+generell von den Vorschriften der Bauordnung abgewichen werden. Diese
+weitgehende Kompetenz werde nur durch Art. 9 Abs. 2 lit. b BO begrenzt, was
+vorliegend nicht relevant sei. Eine vorfrageweise Überprüfung des
+rechtskräftigen Überbauungsplans mit der Bauordnung sei unzulässig. Zu
+überprüfen sei hingegen, ob das Attikageschoss gemäss Baugesuch dem
+Überbauungsplan als Sondernutzungsplan entspreche. Der Planungsbericht vom […]
+mit Richtprojekt bilde Bestandteil des Sondernutzungsplans. In diesem
+Längsschnitt seien die Liftaufbauten bei den Häusern A1, A2, B1 und B2 klar
+ausgewiesen. Ebenfalls zeige das Gipsmodell, welches im Zusammenhang mit dem
+Überbauungsplan dem Gemeinderat und der Gemeindeversammlung vorgelegen habe,
+diese Liftaufbauten. Im Überbauungsplan seien die Mantellinien festgelegt
+worden. Diese würden durch das vorliegende Bauprojekt eingehalten. Die
+Liftaufbauten in den Häusern A1, A2, B1 und B2 stellten keinen Verstoss gegen
+die Mantellinie dar, da die Mantellinie den Umriss des Gebäudes darstelle. Hier
+komme dem Richtprojekt gerade dieser hinweisende Charakter zu. Dieses zeige
+auf, wie das Attikageschoss mit den Liftaufbauten erschlossen werde. Die
+Beschwerdegegnerin 2 habe mit ihrer Beurteilung nicht nur ihr Ermessen
+nicht überschritten, sondern unter Berücksichtigung der gesamten Unterlagen
+zu Recht festgestellt, dass das Bauprojekt dem Überbauungsplan entspreche.
+Eine Verweigerung der Liftaufbauten würde einen klaren Verstoss gegen Treu
+und Glauben darstellen. Schliesslich sei es zutreffend, dass der
+Beschwerdegegner 3 die Unterbrechung der Zurückversetzung der Fassade
+als geringfügig beurteilt habe. Die Beschwerdeführer würden durch das
+Bauvorhaben nämlich gleich betroffen, unabhängig davon, ob die Liftaufbauten
+nun zurückversetzt seien oder nicht.
+2.3
+Der Beschwerdegegner 3 führt aus, gemäss beim
+Erlass des Überbauungsplans geltenden Recht sei die Gemeindeversammlung für
+den Erlass und die Änderung von Nutzungsplänen zuständig gewesen, während
+heute der Erlass und die Änderung von Sondernutzungsplänen in die Kompetenz
+des Gemeinderats falle. Rügen gegen den Überbauungsplan hätten bereits im
+Überbauungsplanverfahren erhoben werden müssen. Die Ansicht, der
+Überbauungsplan müsse grundsätzlich im Baubewilligungsverfahren akzessorisch
+angefochten werden können, gehe daher fehl. Zu prüfen sei lediglich noch
+gewesen, ob das Bauvorhaben gemäss bewilligten Plänen mit den spezifischen
+Anforderungen betreffend Abweichungen von der Regelbauweise im
+Überbauungsplan übereinstimme. Diese Prüfung habe er vorgenommen, wobei er
+zum Schluss gekommen sei, die Abweichungen erschienen als so gering, dass
+diese zu bewilligen im Ermessen der Beschwerdegegnerin 2 gestanden habe.
+Bei den Mehrfamilienhäusern C1 und C2 werde nicht von der Definition der
+Attikageschosse gemäss Art. 39 BO abgewichen. Einzig bei einer
+Fassade sei die Zurückversetzung wegen des Treppenhauses nicht ganz
+durchgezogen, wobei es im Ermessen der Beschwerdegegnerin 2 gestanden
+habe, dies zu bewilligen. Aus den Systemschnitten der Mehrfamilienhäuser A1
+bis B2 sei sodann ersichtlich, dass bei diesen nur zwei Fassaden
+zurückversetzt seien. Diese Abweichung von der Regelbauweise sei durch den
+Überbauungsplan rechtskräftig festgesetzt worden.
+3.
+3.1
+Gemäss Art. 23 Abs. 1 RBG regelt der Überbauungsplan
+insbesondere die Erschliessung, die besondere Bauweise sowie die
+Freiraumgestaltung eines Teilgebiets. Er besteht nach Art. 23
+Abs. 2 RBG aus einem Plan und den dazu gehörenden Sonderbauvorschriften.
+Er bezweckt eine ausgewogene Lösung zwischen der haushälterischen Nutzung des
+Bodens und der Sicherstellung einer qualitativ hochstehenden Bebauung mit
+einer architektonisch und städtebaulich guten Gestaltung (Art. 8
+Abs. 1 BO). Mit dem Überbauungsplan kann unter Einhaltung der
+zonengemässen Nutzungsart von der Regelbauweise abgewichen werden (Art. 23
+Abs. 4 RBG).
+Bewilligt werden können
+gemäss Art. 9 Abs. 2 BO namentlich die Erhöhung der zonengemässen
+Geschosszahl und der Gebäudehöhen, wobei in der Dorfkernzone jedoch höchstens
+ein zusätzliches Vollgeschoss bewilligt werden darf (lit. a), sowie eine
+Erhöhung der Ausnützungsziffern in den Wohnzonen W2a und W2b sowie der Wohn-
+und Gewerbezone (lit. b). Diese Privilegierung gilt indessen nur, wenn
+dadurch als Ausgleich gesamthaft ein ortsbaulich und architektonisch besseres
+Ergebnis verwirklicht wird und dies im öffentlichen Interesse liegt (Art. 23
+Abs. 4 RBG) bzw. wenn damit besonders gute Lösungen erzielt werden (Art. 9
+Abs. 1 BO).
+3.2
+Durch den Überbauungsplan kann von der Grundordnung
+gemäss Zonenplan und Bauordnung abgewichen werden. In diesem Fall ersetzt der
+Überbauungsplan die Bestimmungen der Grundordnung. Art. 9 BO lässt
+weitreichende Abweichungen von der Grundordnung zu. Entgegen der Auffassung
+der Beschwerdeführer ist dabei die Aufzählung in Art. 9 Abs. 2 BO nicht
+abschliessend, was sich ohne Weiteres aus dem Begriff "namentlich"
+ergibt. Beschränkt werden die Möglichkeiten zu Abweichungen von der
+Grundordnung im kommunalen Recht einzig dadurch, dass in der Dorfkernzone
+höchstens ein zusätzliches Vollgeschoss bewilligt werden darf und geregelt
+wird, wo und in welchem Ausmass die Ausnützungsziffer erhöht werden kann. Das
+kantonale Recht schreibt sodann vor, dass die zonengemässe Nutzungsart
+erhalten bleiben muss (Art. 23 Abs. 4 RBG). Sodann darf die Grundordnung
+durch die Abweichungen nicht ihres Sinngehalts entleert werden (BGE 135 II
+209 E. 5.2).
+3.3
+Was planungsrechtlich in der Sondernutzungsplanung
+verbindlich festgelegt wird, kann im Baubewilligungsverfahren nicht mehr
+angefochten werden. Rügen, welche sich gegen den Überbauungsplan als solchen
+richten, sind daher im Rechtsmittelverfahren gegen den Überbauungsplan
+vorzubringen. Eine akzessorische Überprüfung der Sondernutzungsplanung ist
+entgegen der Auffassung der Beschwerdeführer grundsätzlich ausgeschlossen
+(BGE 131 II 103 E. 2.4.1; VGer-Urteil VG.2017.00113 vom 1. März 2018 E.
+3.2.1; Christoph Fritzsche/Peter Bösch/Thomas Wipf, Zürcher Planungs- und
+Baurecht, Bd. 1, 5. A., Zürich 2011, S. 147; Christian Häuptli, in Andreas
+Baumann et al., Kommentar zum Baugesetz des Kantons Aargau, Bern 2013,
+Vorbem. zu §§ 16 bis 21 N. 48), was sich mit dem Vertrauen auf die
+Planbeständigkeit erklären lässt. Nur ausnahmsweise lässt die Rechtsprechung
+gemäss gefestigter Praxis eine vorfrageweise Überprüfung der Nutzungsplanung
+und damit auch von Sondernutzungsplänen zu. Eine solche ist einerseits
+zulässig, wenn sich der Betroffene bei Planerlass noch nicht über die ihm
+damit auferlegten Beschränkungen Rechenschaft geben konnte und er im
+damaligen Zeitpunkt keine Möglichkeit hatte, seine Interessen zu verteidigen
+(BGE 119 Ib 480 E. 5c, 111 Ia 129 E. 3d; 106 Ia 383 E. 3c; 106
+Ia 310 E. 3). Ebenfalls zu prüfen ist ein Nutzungsplan, wenn sich seit
+dessen Festsetzung die rechtlichen oder tatsächlichen Verhältnisse in einer
+Weise geändert haben, dass das öffentliche Interesse an der Beibehaltung der
+auferlegten Nutzungsbeschränkungen dahingefallen sein könnte (BGE 127 I 103
+E. 6b).
+4.
+4.1
+Der Beschwerdegegnerin 1 wurde auf der im
+Überbauungsplanperimeter liegenden Parz.-Nr. 02 die Erstellung der
+Mehrfamilienhäuser A1 und A2, B1 und B2 sowie C1 und C2 bewilligt. Daneben
+wurde die Baubewilligung für ein weiteres Mehrfamilienhaus E, welches
+auf der ausserhalb des Überbauungsplanperimeters liegenden Parz.-Nr. 01
+erstellt werden soll, erteilt.
+4.2
+Soweit die Beschwerdeführer die Auffassung
+vertreten, der Überbauungsplan könne im vorliegenden
+baubewilligungsrechtlichen Verfahren akzessorisch überprüft werden, trifft
+dies nach dem Dargelegten nicht zu.  Sie hätten ihre Rechte im
+Rechtsmittelverfahren gegen den Überbauungsplan geltend machen müssen. Daran
+ändert entgegen der Auffassung der Beschwerdeführer nichts, dass gemäss
+Art. 9 Abs. 2 BO  der Gemeinderat Abweichungen von der Bauordnung
+bewilligen kann. Die Bauordnung von […] geht offensichtlich davon aus, dass
+der Gemeinderat für den Erlass des Überbauungsplans zuständig ist. Indessen
+ist es unbestritten, dass im Zeitpunkt des Erlasses des Überbauungsplans
+gemäss aArt. 27 Abs. 2 RBG (in der bis am 30. Juni 2018 geltenden
+Fassung) i.V.m. aArt. 13 lit. b der Gemeindeordnung Glarus Nord vom
+10. Juni 2009 (in Kraft stehend bis am 30. Juni 2016) die
+Gemeindeversammlung dafür zuständig war. Dieser kam die
+alleinige
+Beschlusskompetenz über den Überbauungsplan zu. Sie war bei ihrem Entscheid
+an das Ergebnis des Einspracheverfahrens nicht gebunden und entschied
+erstinstanzlich über den Überbauungsplan
+(VGer-Urteil
+VG.2014.00111 vom 5. Februar 2015 E. 2.3.4, VG.2014.00103 vom
+5. Februar 2015 E. 2.4.4). Daraus erhellt, dass der Gemeinderat nur
+bei der Erarbeitung des Überbauungsplans mitwirken konnte. Ferner hatte er
+das Einspracheverfahren, welches in erster Linie der Gewährung des
+rechtlichen Gehörs dient, durchzuführen. Daneben kam ihm aber keine formelle
+Überprüfungsfunktion zu. Dieser gesetzgeberische Wille ist selbstverständlich
+auch dann zu beachten, wenn man die Gemeindeversammlung als für den Erlass
+von Überbauungsplänen überfordert erachten will. In diesem Zusammenhang ist
+aber nochmals daran zu erinnern, dass der Überbauungsplan der Genehmigung
+durch den Beschwerdegegner 3 bedurfte, welche am 20.  November 2015
+erteilt wurde, und dass gegen ihn der Rechtsmittelweg offenstand.
+4.3
+4.3.1
+Aus dem Überbauungsplan F.______, Situation 1:500
+wird ersichtlich, dass im Überbauungsplangebiet die sechs Mehrfamilienhäuser
+A1, A2, B1, B2, C1 und C2 erstellt werden sollen. Aufgeführt sind sodann die
+Systemschnitte, aus welchen auch für Laien ohne Weiteres erkennbar wird, dass
+die Häuser A1 bis B2 je drei Vollgeschosse und ein Attikageschoss aufweisen
+sollen, wobei das Attikageschoss nur auf zwei Seiten zurückversetzt ist. Die
+Gebäude C1 und C2 weisen demgegenüber vier Vollgeschosse und ein auf allen
+Seiten zurückversetztes Attikageschoss auf. Zwar ergibt sich aus
+Ziff. 4.9 des Planungsberichts, welcher die Abweichungen von der aktuell
+gültigen Bauordnung zum Gegenstand hat, nicht, dass die Attikageschosse der
+Häuser A1 bis B2 Art. 39 Abs. 1 BO widersprechen, da sie nur auf zwei Seiten
+anstatt wie in der Bauordnung gefordert allseitig zurückversetzt sind.
+Indessen ist dies aus den im Überbauungsplan enthaltenen Systemschnitten ohne
+Weiteres erkennbar. Ferner ergibt sich dies auch aus dem allerdings nicht
+verbindlichen Anhang zum Planungsbericht und aus dem Gipsmodell, welche beide
+der Gemeindeversammlung zur Verfügung standen.
+Insgesamt bestimmt der
+Überbauungsplan verbindlich, inwiefern von der zulässigen Geschosszahl gemäss
+Art. 6 BO abgewichen werden darf. Nach dem Gesagten kann daher im
+vorliegenden Verfahren, welches die Baubewilligung zum Gegenstand hat, nicht
+mehr überprüft werden, ob die Ausgestaltung der Attikageschosse der
+Bauordnung widerspricht oder nicht.
+4.3.2
+Es rechtfertigt sich aber der Hinweis, dass die Rüge
+der Beschwerdeführer ohnehin ins Leere ginge. Unzulässig wäre es zwar, wenn
+durch eine Art. 39 BO widersprechende Definition des Attikageschosses
+die Bestimmung von Art. 9 Abs. 2 BO, wonach in der Dorfkernzone
+höchstens ein zusätzliches Vollgeschoss bewilligt werden darf, umgangen
+würde. Die streitbetroffene Parzelle liegt jedoch nicht in der Dorfkernzone.
+Im Überbauungsplanperimeter kann daher mehr als ein zusätzliches Geschoss
+durch den Überbauungsplan bewilligt werden. Folglich ist es nicht von
+Bedeutung, ob man die als Attikageschosse bezeichneten Geschosse der Häuser
+A1 bis B2 als Attikageschosse im Sinne von Art. 39 BO oder als Vollgeschosse
+erachtet. Da der Überbauungsplan auch ein weiteres Vollgeschoss erlauben
+kann, handelt es sich lediglich um eine rechtlich irrelevante Frage der
+Benennung des Geschosses.
+5.
+5.1
+Zu prüfen bleibt, ob das Bauvorhaben dem
+Überbauungsplan widerspricht. Bei den Mehrfamilienhäusern A1 bis B2 ist das
+Attikageschoss auf zwei Seiten zurückversetzt, was wie dargelegt dem
+Überbauungsplan entspricht. Allerdings wird die Zurückversetzung jeweils bei
+der nordwestlichen Fassade wegen des Treppenhauses auf einer Länge von 3,5 m
+unterbrochen. Bei den Mehrfamilienhäuser C1 und C2 ist das Attikageschoss auf
+allen Seiten zurückversetzt, was der Regelbauweise entspricht. Indessen wird
+auch hier die Zurückversetzung bei der nördlichen Fassade für das Treppenhaus
+auf einer Länge von 4,17 m unterbrochen.
+5.2
+Die kommunale Baubehörde hat das Bauvorhaben als mit
+dem Überbauungsplan vereinbar erachtet. Im Bau- und Raumplanungsrecht kommt
+der Gemeindeautonomie eine herausragende Bedeutung zu. Gemeinden sind in
+einem Sachbereich autonom, wenn das kantonale Recht diesen nicht
+abschliessend ordnet, sondern ihn ganz oder teilweise der Gemeinde zur
+Regelung überlässt und ihr dabei eine relativ erhebliche
+Entscheidungsfreiheit einräumt. Der geschützte Autonomiebereich kann sich auf
+die Befugnis zum Erlass oder Vollzug eigener kommunaler Vorschriften beziehen
+oder einen entsprechenden Spielraum bei der Anwendung kantonalen oder
+eidgenössischen Rechts betreffen. Im Einzelnen ergibt sich der Umfang der
+kommunalen Autonomie aus dem für den entsprechenden Bereich anwendbaren
+kantonalen Verfassungs- und Gesetzesrecht (BGE 136 I 265 E. 2.1, mit
+Hinweisen).
+Gemäss Art. 115 Abs. 2 der
+Verfassung des Kantons Glarus vom 1. Mai 1988 (KV) sind den Gemeinden in
+den Schranken von Verfassung und Gesetz ihr Bestand und das Recht, ihre
+Angelegenheiten selbständig zu regeln, gewährleistet. Sie besorgen alle
+örtlichen Angelegenheiten, für die weder der Bund noch der Kanton
+ausschliesslich zuständig sind (Art. 119 Abs. 1 KV). Die Ortsplanung ist
+gemäss Art. 15 Abs. 1 RBG Aufgabe der Gemeinde. Bei der Anwendung
+der nutzungsplanerischen Vorschriften kommt der kommunalen Baubehörde ein
+besonderer Ermessensspielraum zu, der im Rechtsmittelverfahren zu beachten
+ist. Die Autonomie der Gemeindebehörde hat aber dort ihre Grenzen, wo sich
+eine Auslegung mit dem Wortlaut sowie mit dem Sinn und Zweck der Bestimmung
+nicht mehr vereinbaren lässt (Häuptli, § 13 N. 23; vgl. zum Ganzen VGer-Urteil
+VG.2017.00075/76 vom 3. Mai 2018 E. 3.3, VG.2014.00122 vom 5. Februar
+2015 E. 2.2).
+5.3
+Gemäss Ziff. 2.1 der Sonderbauvorschriften kommen
+einzig dem Überbauungsplan F.______ und den Sonderbauvorschriften
+verbindlicher Charakter zu. Aus diesen Unterlagen wird nicht ersichtlich,
+dass bei jedem Mehrfamilienhaus die Zurückversetzung des Attikageschosses
+jeweils bei einer Fassade unterbrochen wird. Indessen durfte die
+Beschwerdegegnerin 2 bei der Auslegung des Überbauungsplans bzw. bei der
+Prüfung, ob das Bauvorhaben mit dem Überbauungsplan vereinbar ist, die
+richtungsweisenden Unterlagen mitberücksichtigen. Dies erklärt sich dadurch,
+dass diese Unterlagen den Behörden, welche sich mit dem Überbauungsplan zu
+beschäftigen hatten, und namentlich der den Überbauungsplan erlassenden
+Gemeindeversammlung zur Verfügung standen. Sowohl im Anhang zum
+Planungsbericht als auch im Gipsmodell ist die Unterbrechung der
+Zurückversetzung problemlos zu erkennen. Damit erfolgte sowohl die
+Beschlussfassung der Gemeindeversammlung als auch beispielsweise die
+Beurteilung durch die Gestaltungskommission in Kenntnis der Durchbrechung der
+Zurückversetzung jeweils einer Fassade pro Haus. Zu erinnern ist sodann
+daran, dass es gesetzlich zumindest nicht ausgeschlossen war, im Überbauungsplan
+anstelle der Attikageschosse ein zusätzliches Vollgeschoss festzusetzen.
+Schliesslich wies die Vorinstanz im angefochtenen Entscheid zu Recht auf den
+Zweck der Vorschriften über die Attikageschosse hin, welcher darin liegt,
+dass die Baute durch die Zurückversetzung weniger wuchtig erscheint und den
+umliegenden Häusern etwas weniger Besonnung weggenommen wird, wobei sie
+zutreffend zum Schluss kam, dass die strittigen Aussparungen kaum
+Auswirkungen auf die Wuchtigkeit der Gebäude und die Besonnung haben (vgl. E.
+4.3.3.2 des angefochtenen Entscheids).
+Unter Berücksichtigung all
+dieser Umstände hat die Beschwerdegegnerin 2 ihr Ermessen nicht
+verletzt, indem sie das Bauvorhaben als mit dem Überbauungsplan vereinbar
+erachtete und die Baubewilligung erteilte.
+Dies führt zur Abweisung
+der Beschwerde.
+III.
+Die Gerichtskosten von
+pauschal Fr. 3'000.- sind ausgangsgemäss den Beschwerdeführern
+aufzuerlegen (Art. 134 Abs. 1 lit. c VRG) und mit dem von ihnen bereits in
+gleicher Höhe geleisteten Kostenvorschuss zu verrechnen. Überdies sind sie
+nach Art. 138 Abs. 1 und 2 VRG zu verpflichten, der
+Beschwerdegegnerin 1 eine Parteientschädigung von je Fr. 600.-,
+insgesamt Fr. 2'400.- (inkl. Mehrwertsteuer), zu bezahlen. Der
+Beschwerdegegnerin 2 steht mangels Vorliegens besonderer Umstände keine
+Parteientschädigung zu (vgl. Art. 138 Abs. 4 VRG).
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Die
+Gerichtskosten von Fr. 3'000.- werden den Beschwerdeführern auferlegt und
+mit dem von ihnen bereits in gleicher Höhe geleisteten Kostenvorschuss
+verrechnet.
+3.
+Die
+Beschwerdeführer werden verpflichtet, der Beschwerdegegnerin 1 innert
+30 Tagen nach Rechtskraft dieses Entscheids je eine
+Parteientschädigung von Fr. 600.-, insgesamt Fr. 2'400.- (inkl.
+Mehrwertsteuer), zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
