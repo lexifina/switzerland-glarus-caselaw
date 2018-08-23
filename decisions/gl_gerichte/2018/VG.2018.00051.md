@@ -1,0 +1,339 @@
+---
+decision_id: "gl_gerichte_VG.2018.00051"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2018.00051"
+docket_2: "VG.2018.685"
+decided: "2018-08-23"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=979&W10_KEY=218274&nTrefferzeile=7&Template=simple/search_result_document.html"
+---
+
+# GL Gerichte VG.2018.00051
+
+## Regeste
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+## Text
+
+Glarus Verwaltungsgericht 23.08.2018 VG.2018.00051 (VG.2018.685)
+Glaris Verwaltungsgericht 23.08.2018 VG.2018.00051 (VG.2018.685)
+Glarona Verwaltungsgericht 23.08.2018 VG.2018.00051 (VG.2018.685)
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+23. August 2018
+I. Kammer
+in Sachen
+VG.2018.00051
+1.
+A.______AG
+Beschwerdeführerinnen
+2.
+B.______
+beide vertreten durch
+Rechtsanwalt
+C.______
+gegen
+1.
+Gemeinde Glarus
+Beschwerdegegner
+2.
+Departement Bau und Umwelt des Kantons
+Glarus
+betreffend
+Baubewilligung
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Die Baukommission der Gemeinde Glarus erteilte der
+A.______AG am 6. März 2012 die Baubewilligung für die Überbauung […] mit
+zwei Mehrfamilienhäusern, drei Doppeleinfamilienhäusern, Tiefgarage und
+Carport. In dieser Überbauung befindet sich auch die Stockwerkeinheit A3,
+welche im Eigentum von B.______ steht. Vor Rechtskraft der Baubewilligung
+ersuchte die A.______AG mit Revisionseingabe vom 20. März 2012 um
+Verschiebung des überdachten Sitzplatzes der Wohnung A2 im Erdgeschoss von
+der Nordwestfassade des Mehrfamilienhauses A an dessen Nordostfassade.
+Die Überdachung des Sitzplatzes sollte künftig durch die Wohnung A3 als
+Balkon genutzt werden können.
+1.2
+Am 11. Oktober 2012 entschied die Baukommission,
+bei einem Anbau, dessen Dach als Terrasse genutzt werde, könne nicht mehr von
+einer eingeschossigen Baute ausgegangen werden. Durch den reduzierten
+Grenzabstand und die zweigeschossige Nutzung seien die Einwirkungen auf die
+Nachbarschaft bedeutend höher als mit dem gesetzlichen Abstand von 4 m.
+Für den geplanten Anbau sei ein Grenzabstand von 4 m einzuhalten oder
+für die Bewilligung eines geringeren Abstands ein Näherbaurecht der
+betroffenen Grundeigentümer vorzulegen. Andernfalls sei entweder auf eine
+Terrassennutzung zu verzichten oder diese auf das zulässige Mass von einem
+Drittel der Fassade des Mehrfamilienhauses A zu reduzieren.
+1.3
+Das Departement Bau und Umwelt (DBU) hob die
+Baubewilligung am 26.
+März 2013 teilweise auf und wies die
+Angelegenheit an die Vorinstanz zurück. Am 2. Mai 2013 erteilte der
+Gemeinderat Glarus für das geänderte Bauvorhaben eine Baubewilligung unter
+verschiedenen Auflagen.
+1.4
+Am 25. April 2016 verfügte die Baukommission
+einen Baustopp. Weil die Sitzplatzüberdachung auch als Balkon für die darüber
+liegende Wohnung dienen solle, sei der Anbau von der Baukommission als zweigeschossig
+beurteilt und vor der Erteilung der Baubewilligung ein entsprechendes
+Näherbaurecht verlangt worden. Da kein solches erbracht, das Flachdach auf
+den Plänen als "Flachdach, nicht begehbar", bezeichnet und kein
+Geländer eingezeichnet worden sei, sei der Anbau als eingeschossig beurteilt
+und daher mit einem reduzierten Grenzabstand von 1,5 m bewilligt worden.
+Anlässlich einer Bauabnahme habe man festgestellt, dass ohne Baubewilligung
+ein Balkongeländer und somit ein Balkon erstellt worden sei. Bislang sei
+weder ein Näherbaurecht noch ein Baugesuch für den Balkonaufbau eingereicht
+worden, weshalb die Arbeiten sofort einzustellen und der Balkon bis zum
+Vorliegen einer rechtskräftigen Baubewilligung nicht benutzt werden dürfe.
+1.5
+Die Stockwerkeigentümergemeinschaft D.______
+erteilte der A.______AG am 26. Mai 2016 die Bewilligung zur Nutzung der
+Überdachung des Sitzplatzes der Wohnung A2 als Balkon für die Wohnung A3.
+Diese Bewilligung widerrief sie am 27. Juni 2016, da bei der Erteilung
+nicht erwähnt worden sei, dass mit der Genehmigung der Balkonnutzung auch ein
+Näherbaurecht erteilt werden müsse. Die Eigentümer hätten zwar in die
+Balkonnutzung eingewilligt, seien aber nie mit der Erteilung eines
+Näherbaurechts einverstanden gewesen und fühlten sich nun getäuscht. Bei
+Vorbringen eines erneuten Antrags müssten das Näherbaurecht explizit erwähnt
+und Vorschläge für eine angemessene Entschädigung gemacht werden.
+1.6
+Die Baukommission hielt am 17. Oktober 2016 in
+ihrer Verfügung fest, die Projektänderung zum Baugesuch könne nicht behandelt
+werden, da das Einverständnis der Stockwerkeigentümergemeinschaft weiterhin
+fehle. Folglich dürfe das Flachdach bis zum Vorliegen einer rechtsgültigen
+Baubewilligung nicht als Balkon genutzt werden. Dementsprechend seien die
+Geländer zurückzubauen und der Zugang auf das Flachdach zu verhindern. In der
+Folge setzte die Baukommission der A.______AG am 9. Februar 2017 eine
+letzte Frist von 30 Tagen zur Umsetzung der Anordnungen unter Androhung
+des ersatzvornahmeweisen Rückbaus des Balkongeländers. Die Ankündigung der
+Ersatzvornahme erfolgte schliesslich am 2. August 2017.
+2.
+2.1
+Die A.______AG reichte am 7. August 2017 eine
+erneute Revisionseingabe bei der Baukommission zur Bewilligung des Balkons
+ein, auf welche diese am 26. September 2017 nicht eintrat.
+2.2
+Am 25. Oktober 2017 erhob die A.______AG
+Beschwerde beim DBU und verlangte die Aufhebung der angefochtenen Verfügung
+und die Rückweisung der Sache an die Vorinstanz; alles unter Kosten- und
+Entschädigungsfolgen.
+2.3
+Das DBU lud B.______ am 8. November 2017 ins
+Verfahren bei. Diese teilte dem DBU am 10. November 2017 mit, sie teile
+die Rechtsauffassung der A.______AG und habe dieser nichts Weiteres
+hinzuzufügen. Die Gemeinde Glarus schloss am 6. Dezember 2017 auf
+Abweisung der Beschwerde.
+2.4
+Das DBU entschied am 18. April 2018 in
+teilweiser Gutheissung der Beschwerde, dass die Verfügung der Gemeinde Glarus
+vom 26. September 2017 aufgehoben werde. Im Übrigen werde die Beschwerde
+abgewiesen. Die Baubewilligung für das Baugesuch Nr. […] vom
+7. Juni (recte: August) 2017 werde nicht erteilt.
+3.
+3.1
+Am 22. Mai 2018 gelangten die A.______AG und
+B.______ mit Beschwerde ans Verwaltungsgericht und beantragten die Aufhebung
+des Einspracheentscheids des DBU vom 18. April 2018 und die Rückweisung
+der Sache an die Gemeinde Glarus zur Erteilung der Baubewilligung.
+Eventualiter sei die Baubewilligung direkt durch das Verwaltungsgericht
+auszusprechen; alles unter Kosten- und Entschädigungsfolgen.
+3.2
+Die Gemeinde Glarus nahm am 15. Juni 2018
+Stellung zur Beschwerde und beantragte deren Abweisung. Am 22. Juni 2018
+schloss das DBU ebenfalls auf vollumfängliche Abweisung der Beschwerde; unter
+Kostenfolgen zu Lasten der A.______AG und von B.______.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 79
+Abs. 1 des Raumentwicklungs- und Baugesetzes vom 2. Mai 2010 (RBG)
+i.V.m. Art. 105 Abs. 1 lit. b des Gesetzes über die
+Verwaltungsrechtspflege vom 4. Mai 1986 (VRG) zur Behandlung der vorliegenden
+Beschwerde zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt
+sind, ist auf die Beschwerde einzutreten.
+1.2
+Mit der Verwaltungsgerichtsbeschwerde können gemäss
+Art. 107 Abs. 1 VRG Mängel des angefochtenen Entscheids oder des Verfahrens
+geltend gemacht werden: die unrichtige oder unvollständige Feststellung des
+rechtserheblichen Sachverhalts (lit. a) und die unrichtige
+Rechtsanwendung einschliesslich eines Missbrauchs des Ermessens (lit. b). Die
+Unangemessenheit des Entscheids kann gemäss Art. 107 Abs. 2 VRG nur ausnahmsweise
+geltend gemacht werden. Baurechtsstreitigkeiten, über welche das
+Verwaltungsgericht als zweite Beschwerdeinstanz entscheidet, fallen nicht
+unter die in Art. 107 Abs. 2 VRG aufgezählten Ausnahmefälle.
+2.
+2.1
+Die Beschwerdeführerinnen machen geltend, beim
+überdachten Sitzplatz handle es sich um eine eingeschossige Anbaute für
+welche gemäss Art. 51 Abs. 4 RBG ein reduzierter Grenzabstand von
+1,5 m gelte. Bestritten sei im vorliegenden Fall alleine die Frage der
+Anzahl der Geschosse. Weder das RBG noch die Bauverordnung vom
+23. Februar 2011 (BauV) noch das Baureglement der Gemeinde Glarus
+enthielten eine Definition des Geschosses. Hingegen folge aber bereits aus
+dem Wortlaut der Gesetze unmissverständlich, dass die Begehbarmachung und
+Nutzung einer Dachfläche diese Flachdachfläche nicht zu einem Geschoss machen
+könne. Dies ergebe sich auch aus Art. 49 Abs. 1 BauV, wonach
+Vollgeschosse alle Geschosse eines Gebäudes ausser Unter-, Dach- und
+Attikageschosse seien. So werde bei Attikageschossen die Fläche des Dachs,
+welches nicht durch das Attikageschoss beansprucht werde, als Terrasse
+genutzt. Würde man dieses Benutzen des Flachdachs eines darunterliegenden
+Geschosses als zusätzliches Geschoss beurteilen, würde jedes Attikageschoss
+automatisch zu einem weiteren Geschoss werden, womit die Bestimmung in
+Art. 49 BauV obsolet würden. Diese falsche Auslegung des Begriffs durch
+die Vorinstanz sei beispielsweise ersichtlich bei einer viergeschossigen
+Baute, welche ein begehbares Dach aufweise. Aufgrund der Nutzung als
+Dachterrasse müsste diese viergeschossige Baute zwingend als fünfgeschossige
+Baute beurteilt werden, was ebenso in klarem Widerspruch zum Wortlaut des
+Gesetzes wie zur bisher gelebten Praxis stünde. Selbst eine eingeschossige
+Baute, welche einen Dachstock aufweise, stelle eine eingeschossige Baute dar.
+Wenn nun eine eingeschossige Nebenbaute mit einer begehbaren Dachterrasse
+plötzlich als zweigeschossige Baute zu beurteilen sei, stehe dies in
+Widerspruch zum Wortlaut und der Systematik des gesamten RBG und des
+Baureglements.
+2.2
+Der Beschwerdegegner 2 ist hingegen der Ansicht, es
+gehe bei der vorliegend strittigen Frage nach der Geschossigkeit der
+Sitzplatzüberdachung ohne und bei Terrassennutzung mit Blick auf die
+Abstandsprivilegierung betreffend Grenzabstand einzig darum, ob – bei Nutzung
+des Flachdachs als Terrasse – dieses zusammen mit der Wohnung A3 im ersten
+Obergeschoss bis und mit dem bereits erstellten Balkongeländer des Flachdachs
+einen einzigen horizontalen Gebäudeabschnitt darstelle oder nicht. Diese
+Frage sei klar davon zu trennen, ob ein als Geschoss definierter
+Gebäudeabschnitt als Vollgeschoss zu betrachten und deshalb an die gemäss
+Bau- und Zonenordnung erlaubte (Voll-)Geschosszahl anrechenbar sei. Entgegen
+der Argumentation der Beschwerdeführerinnen sei demzufolge die vorliegend
+relevante Frage, ob die Sitzplatzüberdachung bei Begehbarkeit bzw. Nutzung
+als Balkon/Terrasse für die Wohnung A3 des Mehrfamilienhauses A mit
+dieser einen einzigen Gebäudeabschnitt im Sinne eines Geschosses als
+optisch-architektonische Einheit mit dem Mehrfamilienhaus A darstelle.
+3.
+Der Grenzabstand beträgt
+nach Art. 51 Abs. 1 RBG vorbehältlich anderer Abmachungen 4 m. Für
+eingeschossige An- und Nebenbauten mit einer Grundfläche von maximal 50 m
+2
+beträgt der Grenzabstand gemäss Art. 51 Abs. 4 RBG mindestens 1,5 m,
+wenn die Fassadenhöhe der An- bzw. Nebenbauten im Bereich dieser Grenze nicht
+mehr als 3,3 m beträgt. Anbauten sind gemäss aArt. 34 BauV in der vorliegend
+anwendbaren, bis am 30. Juni 2018 gültigen Fassung, mit einem anderen
+Gebäude zusammengebaut und überschreiten in ihren Dimensionen die zulässigen
+Masse nicht.
+4.
+4.1
+An das Mehrfamilienhaus A wurde ein gedeckter
+Sitzplatz angebaut, welcher an den nordwestlichen und nordöstlichen Teil des
+Mehrfamilienhauses anschliesst und eine Gesamtfläche von 28,91 m
+2
+aufweist.
+Der Abstand von nordöstlichen Teil des Sitzplatzes zur nördlichen
+Grundstücksgrenze beträgt 1,91 m. Gemäss Revisionseingabe vom
+7. August 2018 ist das Flachdach begehbar und durch eine Glasbrüstung
+geschützt. Eine Tür der im ersten Obergeschoss des Mehrfamilienhauses
+gelegenen Wohnung der Beschwerdeführerin 2 führt auf das Flachdach.
+Unbestritten ist, dass es sich beim Sitzplatz um einen Anbau handelt.
+Strittig ist vorliegend hingegen, ob die privilegierte Abstandsvorschrift von
+Art. 51 Abs. 4 RBG auch dann zur Anwendung gelangt, wenn das Flachdach
+begehbar ist und als Terrasse verwendet wird. Massgebend hierfür ist, ob die
+Anbaute auch in einem solchen Fall als eingeschossig im Sinne von Art. 51
+Abs. 4 RBG gilt.
+4.2
+Entgegen der Auffassung der Beschwerdeführerinnen
+ist der Begriff der Eingeschossigkeit nach Art. 51 Abs. 4 RBG
+auslegungsbedürftig.
+4.2.1
+Dabei kommt dem Zweck des Grenzabstands eine
+wesentliche Bedeutung zu. Dieser verfolgt sowohl öffentliche wie auch private
+Interessen. So dient er einerseits den öffentlichen Interessen der
+Feuerpolizei, der Wohnhygiene, der Siedlungsgestaltung und der Ästhetik.
+Andererseits werden durch den Grenzabstand auch private Interessen gewahrt,
+indem die zahlreichen Einflüsse von Bauten auf die Nachbargrundstücke
+gemindert und damit eine gewisse Intimität im nachbarlichen Verhältnis
+gewahrt werden soll (Christian Häuptli, in Andreas Baumann et al. [Hrsg.],
+Kommentar zum Baugesetz des Kantons Aargau, Bern 2013, § 47 N. 11). Zweck der
+Abstandsvorschriften ist ganz allgemein die Beschränkung der durch eine Baute
+verursachten Immissionen auf die umliegenden Grundstücke. Zwar ist dichteres
+Bauen gestalterisch und raumplanerisch erwünscht, soweit Wohnhygiene und
+Feuerschutz eingehalten werden (Memorial für die Landsgemeinde des Kantons
+Glarus 2010, S. 152). Indessen ist zu beachten, dass zur Wahrung der
+Intimität im nachbarschaftlichen Verhältnis insbesondere gefährliche,
+belastende oder störende Einflüsse verhindert oder begrenzt werden sollen.
+Daraus folgt, dass Ausnahmen von den ordentlichen Grenzabstandsvorschriften
+restriktiv auszulegen sind, sobald sie Nachteile für die Nachbargrundstücke
+zur Folge haben können.
+4.2.2
+Eine zusätzliche Nutzung des Dachs des Sitzplatzes
+als Terrasse bedeutet für die Nachbarn eine wesentlich grössere
+Einschränkung. Bereits eine gelegentliche temporäre Nutzung des Flachdachs zu
+gewissen Tages- oder Jahreszeiten wirkt sich auf die Nachbarn wie die Nutzung
+eines Wohnraums aus. Dadurch, dass die Sitzplatzüberdachung direkt an die
+Wohnung im ersten Obergeschoss anschliesst und ein unmittelbarer Zugang über
+die Balkontüre erfolgt, wird einerseits die Wohnfläche vergrössert,
+andererseits aber auch eine häufige und intensive Nutzung der Terrasse
+ermöglicht, welche unweigerlich mit zusätzlichen Lärmimmissionen wie auch –
+aufgrund der erhöhten Position – besseren Einblickmöglichkeiten auf das
+benachbarte Grundstück verbunden ist. Dies widerspricht nach dem Gesagten dem
+Zweck der Vorschriften über den Grenzabstand bzw. über dessen Verkürzung.
+4.3
+Sodann ist zu beachten, dass die strittige Terrasse
+nicht bewilligt werden könnte, wenn sie anstatt auf dem gedeckten Sitzplatz
+zu liegen als Balkon erstellt worden wäre. Die Terrasse ragt nämlich im
+Norden 2,9 m über die Fassadenflucht hinaus, weshalb sie – wenn sie als
+Balkon erstellt würde – nicht mehr als vorspringender Gebäudeteil im Sinne
+von Art. 40 BauV, sondern als Teil des Gebäudes gelten würde und folglich den
+Grenzabstand zum Nachbargrundstück einzuhalten hätte (vgl. dazu eingehend
+VGer-Urteil VG.2016.00136 vom 13. April 2017 E. II/3.2). Es wäre nun
+widersprüchlich, wenn die Bewilligung für einen Balkon aufgrund der
+Unterschreitung des Grenzabstands nicht erteilt werden dürfte, die Nutzung
+des Flachdachs als Terrasse aber bewilligt würde. Zudem würde es ein solches
+Vorgehen ermöglichen, die für Balkone, welche aufgrund ihrer Ausmasse nicht
+mehr als vorspringende Gebäudeteile gelten, zu beachtenden ordentlichen Grenzabstände
+zu umgehen, indem die Bauherrschaft einen Balkon nicht als Balkon genehmigen
+lässt, sondern – allenfalls aussen ergänzt mit zwei Trägern – als Dach eines
+Sitzplatzes oder Carports etc.
+4.4
+Schliesslich verkennen die Beschwerdeführerinnen,
+dass der Begriff der Eingeschossigkeit gemäss Art. 51 Abs. 4 RBG selbständig
+auszulegen ist. Namentlich geht es nicht um die Anzahl der zulässigen
+Geschosse gemäss Zonenplan. Daher gehen ihre Ausführungen zu den
+Attikageschossen und allgemein zur Geschossigkeit von Bauten ins Leere.
+4.5
+Unter all diesen Umständen haben die Vorinstanzen
+keine Rechtsverletzung begangen, indem sie Art. 51 Abs. 4 RBG so auslegten,
+dass Anbauten, deren Dach als Terrasse genutzt wird, nicht mehr als
+eingeschossig im Sinne von Art. 51 Abs. 4 RBG gelten und folglich nicht vom
+privilegierten Grenzabstand profitieren. Demnach hat der Beschwerdegegner 2
+in seinem Beschwerdeentscheid vom 18. April 2018 die Baubewilligung für das
+Baugesuch vom 7. August 2017 zu Recht verweigert.
+Dies führt zur Abweisung
+der Beschwerde.
+III.
+Die Gerichtskosten von
+pauschal Fr. 2'000.- sind ausgangsgemäss den Beschwerdeführerinnen
+aufzuerlegen (Art. 134 Abs. 1 lit. c VRG) und mit dem von ihnen bereits
+geleisteten Kostenvorschuss in gleicher Höhe zu verrechnen. Mangels Obsiegens
+steht ihnen sodann keine Parteientschädigung zu (Art. 138 Abs. 3 lit. a VRG e
+contrario).
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Die
+Gerichtskosten von Fr. 2'000.- werden den Beschwerdeführerinnen
+auferlegt und mit dem von ihnen bereits geleisteten Kostenvorschuss in
+gleicher Höhe verrechnet.
+3.
+Es
+werden keine Parteientschädigungen zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
