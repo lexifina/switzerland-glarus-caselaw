@@ -1,0 +1,383 @@
+---
+decision_id: "gl_gerichte_OG.2018.00022"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2018.00022"
+docket_2: "OGS.2020.64"
+decided: "2018-09-07"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1293&W10_KEY=218274&nTrefferzeile=6&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/101/art-005.md", "switzerland/bund/acts/311.0/art-030.md", "switzerland/bund/acts/311.0/art-031.md", "switzerland/bund/acts/311.0/art-122.md", "switzerland/bund/acts/311.0/art-123.md", "switzerland/bund/acts/311.0/art-126.md", "switzerland/bund/acts/312.0/art-002.md", "switzerland/bund/acts/312.0/art-008.md", "switzerland/bund/acts/312.0/art-104.md", "switzerland/bund/acts/312.0/art-115.md", "switzerland/bund/acts/312.0/art-118.md", "switzerland/bund/acts/312.0/art-304.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-324.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-433.md", "switzerland/bund/acts/312.0/art-436.md"]
+---
+
+# GL Gerichte OG.2018.00022
+
+## Regeste
+
+Nichtanhandnahme eines Strafverfahrens
+
+## Text
+
+Glarus Obergericht 07.09.2018 OG.2018.00022 (OGS.2020.64)
+Glaris Obergericht 07.09.2018 OG.2018.00022 (OGS.2020.64)
+Glarona Obergericht 07.09.2018 OG.2018.00022 (OGS.2020.64)
+
+Nichtanhandnahme eines Strafverfahrens
+
+Kanton Glarus
+Obergericht
+Beschluss
+vom 7. September 2018
+Verfahren
+OG.2018.00022
+A.______
+Beschwerdeführerin
+vertreten
+durch B._____
+gegen
+Staats- und Jugendanwaltschaft des
+Kantons Glarus
+Beschwerdegegnerin
+betreffend
+Nichtanhandnahme
+eines Strafverfahrens
+Anträge de
+r
+Beschwerdeführerin
+(gemäss
+Eingabe vom 1. Mai 2018 [act. 2 S. 2], sinngemäss):
+1.
+Es
+sei die Nichtanhandnahmeverfügung der Staatsanwaltschaft des Kantons Glarus
+vom 19. April 2018 im Verfahren SA.2017.00286
+aufzuheben.
+2.
+Die
+Sache sei zur Durchführung einer Strafuntersuchung gegen unbekannte
+Täterschaft an die Staatsanwaltschaft des Kantons Glarus zurückzuweisen.
+3.
+Unter
+Kosten- und Entschädigungsfolgen zu Lasten des Staates.
+Antrag
+de
+r
+Beschwerde
+gegner
+in
+(gemäss Eingabe vom 31. Mai 2018, [act. 8], sinngemäss):
+Es sei die Beschwerde
+abzuweisen.
+____________________
+Das
+Gericht
+zieht in Betracht:
+I.
+(Prozessgeschichte)
+1.
+Am 21. Juni 2017 erstattete
+A.______ (Beschwerdeführerin) bei der Staatsanwaltschaft des Kantons Glarus
+Strafanzeige gegen Unbekannt wegen einfacher Körperverletzung im Sinne von
+Art. 123 StGB (Untersuchungsakten [nachfolgend: „U-act.“]
+act. 3.1.01).
+2.
+Die Staatsanwaltschaft des
+Kantons Glarus (Staatsanwaltschaft) entschied mit Verfügung vom 19. April
+2018, dass in Bezug auf die genannte Strafanzeige keine Strafuntersuchung an
+die Hand genommen wird (U-act. 0.1.01).
+3.
+Gegen diese
+Nichtanhandnahmeverfügung erhob die Beschwerdeführerin mit Eingabe vom 1. Mai
+2018 (act. 2) innert Frist (U-act. 0.1.02 i.V.m. act. 2) beim
+Obergericht Beschwerde mit den eingangs sinngemäss aufgeführten Anträgen. Am
+31. Mai 2018 teilte die Staatsanwaltschaft dem Obergericht mit, dass sie auf
+eine Beschwerdeantwort verzichte, äusserte in ihrer Eingabe indes eine
+Nebenbemerkung betreffend einer weiteren Strafanzeige (act. 8). Zu
+dieser Eingabe reichte die Tochter der Beschwerdeführerin dem Obergericht
+unaufgefordert eine vom 19. Juni 2018 datierende Stellungnahme ein
+(act. 10). Die Staatsanwaltschaft erhielt diese zur Kenntnisnahme
+zugestellt (act. 11).
+II.
+(Rechtsmittelvoraussetzungen)
+1.
+Zur Beschwerde legitimiert ist
+jede Partei, die ein rechtlich geschütztes Interesse an der Aufhebung oder
+Änderung eines Entscheides hat (Art. 382 Abs. 1 StPO). Partei ist unter
+anderem die Privatklägerschaft (Art. 104 Abs. 1 lit. b StPO). Als
+Privatklägerschaft gilt die geschädigte Person, die ausdrücklich erklärt,
+sich am Strafverfahren als Straf- oder Zivilkläger zu beteiligen (Art. 118
+Abs. 1 StPO), wobei der Strafantrag dieser Erklärung gleichgestellt ist
+(Art. 118 Abs. 2 StPO). Als geschädigte Person gilt die Person, die
+durch die Straftat in ihren Rechten unmittelbar verletzt worden ist (Art. 115
+Abs. 1 StPO). Für die Zulassung einer Person als Privatkläger ist somit
+entscheidend, ob diese durch die der beschuldigten Person vorgeworfene(n)
+Handlung(en) unmittelbar in ihren Rechten verletzt worden ist, unterstellt,
+der von ihr erhobene Vorwurf treffe zu. Nach der Rechtsprechung geht die
+Umschreibung der unmittelbaren Verletzung in eigenen Rechten vom Begriff des
+Rechtsguts aus. Unmittelbar verletzt und damit Geschädigter im Sinne von Art.
+115 StPO ist, wer Träger des durch die verletzte Strafnorm geschützten oder
+zumindest mitgeschützten Rechtsguts ist (BGE 143 IV 77, E. 2.1 f.).
+2.
+Die Beschwerdeführerin wirft
+einer unbekannten Täterschaft sinngemäss vor, sie habe verschiedene im
+Zeitraum vom 15. Januar 2017 bis 29. April 2017 an Rücken, Oberarm, Knie
+und Oberschenkel erlittene Verletzungen zu verantworten (U-act. 3.1.01,
+v.a. Rz. 6; vgl. sogleich, E. III.1.). Demnach liegt in Bezug auf
+den Tatbestand der einfachen Körperverletzung im Sinne von Art. 123 StGB
+bzw. der Tätlichkeit im Sinne von Art. 126 StGB zweifelsohne eine
+unmittelbare Betroffenheit in den Rechten der Beschwerdeführerin vor. Ihre
+als "Strafanzeige gegen Unbekannt wegen einfacher Körperverletzung von Art. 123
+StGB" bezeichnete Eingabe vom 21. Juni 2017 an die
+Staatsanwaltschaft stellt materiell einen Strafantrag betreffend einfache
+Körperverletzung im Sinne von Art. 123 StGB und Tätlichkeit im Sinne von
+Art. 126 StGB dar (vgl. im Detail hinten, E. III.6.2.). Damit liegt
+auch die erforderliche Erklärung zur Konstituierung als Privatklägerin vor
+(Art. 118 Abs. 2 StPO). Sodann ist die Beschwerdeführerin durch die
+Nichtanhandnahme des Verfahrens offensichtlich beschwert. Sie ist somit zur
+Beschwerdeerhebung legitimiert. Da auch die übrigen
+Rechtsmittelvoraussetzungen erfüllt sind, ist auf die Beschwerde einzutreten.
+III.
+(Beurteilung)
+1.
+Der Rechtsvertreter der
+Beschwerdeführerin erklärte in seiner "Anzeige gegen Unbekannt" vom
+21. Juni 2017 an die Staatsanwaltschaft, deren Tochter habe im Frühling
+2017 bei der damals im Alters- und Pflegeheim [...] wohnenden
+Beschwerdeführerin verschiedene Verletzungen (Striemen, Rötungen, blaue
+Flecken, Wunden, Stiche) an Rücken, Oberarm links, Knie links und Oberschenkel
+erkannt. Das Heim habe diese Verletzungen nicht protokolliert und es sei
+unklar, wie es zu diesen Schädigungen gekommen sei. Die diese Verletzungen
+dokumentierenden Fotoaufnahmen seien durch das Institut für Rechtsmedizin der
+Universität Zürich zu prüfen, um festzustellen, auf welche Ursachen die
+genannten Verletzungsspuren zurückzuführen sind. Die Beschwerdeführerin
+selbst sei dement und könne hierzu keine Angaben machen (U-act. 3.1.01).
+2.
+Die Staatsanwaltschaft erwog in
+der angefochtenen Nichtanhandnahmeverfügung vom 19. April 2018, auf den
+von der Beschwerdeführerin eingereichten Fotoaufnahmen seien lediglich
+Schürfungen, Kratzer oder leichte Verfärbungen der Haut zu erkennen. Diese
+erfüllten den objektiven Tatbestand von Art. 123 StGB offensichtlich
+nicht. Daher sei das Verfahren gestützt auf Art. 310 Abs. 1
+lit. a StPO nicht an die Hand zu nehmen (U-act. 0.1.01 =
+act. 1).
+3.
+Die Beschwerdeführerin
+beanstandet in ihrer Beschwerdeschrift vom 1. Mai 2018 im Wesentlichen,
+die staatsanwaltliche Begründung der Nichtanhandnahme verletze die
+Art. 6, 7 und 310 StPO. Selbst wenn die Voraussetzungen einer einfachen
+Körperverletzung im Sinne von Art. 123 Ziff. 1 StGB nicht gegeben
+sein sollten, wäre gestützt auf die eingereichten Fotoaufnahmen zumindest das
+Delikt der Tätlichkeit im Sinne von Art. 126 StGB in Betracht zu ziehen
+gewesen. Dabei sei aufgrund der verschiedenen, über eine Zeitperiode von
+zirka einem Monat dokumentierten Verletzungen von einer wiederholten
+Tatbegehung an ihr als unter der Obhut des Alters- und Pflegeheims [...]
+stehender Person auszugehen. Damit wären diese Tätlichkeiten gar von Amtes
+wegen zu verfolgen gewesen (Art. 126 Abs. 2 lit. a StGB).
+Selbst wenn man dies verneinen würde, liege jedenfalls mit der Strafanzeige
+vom 21. Juni 2017 auch der in Bezug auf Art. 126 Abs. 1 StGB
+erforderliche Strafantrag vor. Aufgrund der Fotoaufnahmen bestehe ein
+genügender Anfangsverdacht zumindest für eine Tätlichkeit. Folglich seien die
+Voraussetzungen für den Erlass einer Nichtanhandnahmeverfügung nicht erfüllt
+(act. 2).
+4.
+Die Staatsanwaltschaft
+verzichtete mit Schreiben vom 31. Mai 2018 auf eine Stellungnahme zur
+Beschwerde im Einzelnen. "Im Sinne einer Nebenbemerkung" brachte
+sie vor, anfangs Mai 2018 sei bei ihr eine weitere, ähnliche Strafanzeige
+gegen Unbekannt wegen Nötigung, Körperverletzung und möglichen weiteren
+Delikten zum Nachteil der Beschwerdeführerin eingegangen. Aus den Beilagen zu
+dieser Strafanzeige (insbesondere Pflegeberichte) sei klar erkennbar, dass
+die Beschwerdeführerin aufgrund ihres Gesundheitszustandes zu aggressivem
+Verhalten neige und des Öftern um sich schlage. Selbst wenn ein
+Rechtsmediziner die bei den Akten liegenden Fotoaufnahmen begutachten würde,
+sei aussichtslos, dass dieser feststellen könnte, ob die Schürfungen, Kratzer
+oder leichten Verletzungen der Haut durch Dritteinwirkung oder aufgrund des
+Um-Sich-Schlagens der Beschwerdeführerin entstanden seien (act. 8).
+5.
+5.1.
+Die
+Staatsanwaltschaft verfügt gemäss Art. 310 Abs. 1 StPO die Nichtanhandnahme,
+sobald aufgrund der Strafanzeige oder des Polizeirapports feststeht, dass die
+fraglichen Straftatbestände oder die Prozessvoraussetzungen eindeutig nicht
+erfüllt sind (lit. a), Verfahrenshindernisse bestehen (lit. b) oder aus den
+in Art. 8 StPO genannten Gründen auf eine Strafverfolgung zu verzichten ist
+(lit. c).
+5.2.
+Die Frage, ob ein
+Strafverfahren über eine Nichtanhandnahme erledigt werden kann, beurteilt
+sich nach dem aus dem Legalitätsprinzip abgeleiteten Grundsatz "in dubio
+pro duriore" (Art. 5 Abs. 1 BV und Art. 2 Abs. 1 StPO i.V.m. Art. 319
+Abs. 1 und Art. 324 Abs. 1 StPO; BGE 138 IV 86 E. 4.2). Eine Nichtanhandnahme
+durch die Staatsanwaltschaft gestützt auf Art. 310 Abs. 1 lit. a StPO darf
+nach der Rechtsprechung nur in sachverhaltsmässig und rechtlich klaren Fällen
+ergehen. Die fraglichen Tatbestände können z.B. als eindeutig nicht erfüllt
+erachtet werden, wenn gar nie ein Verdacht hätte geschöpft werden dürfen oder
+der zu Beginn der Strafverfolgung vorhandene Anfangsverdacht sich vollständig
+entkräftet hat. Dies ist beispielsweise der Fall bei einer unglaubhaften
+Strafanzeige, wenn sich keine deliktsrelevanten Anhaltspunkte feststellen
+liessen oder wenn das Opfer seine belastende Aussage im Laufe des
+Ermittlungsverfahrens glaubhaft widerrief. Die Staatsanwaltschaft eröffnet
+hingegen eine Untersuchung, wenn sich aus den Informationen und Berichten der
+Polizei, aus der Strafanzeige oder aus ihren eigenen Feststellungen ein
+hinreichender Tatverdacht ergibt (Art. 309 Abs. 1 lit. a StPO). Die zur Eröffnung
+einer Strafuntersuchung erforderlichen tatsächlichen Hinweise auf eine
+strafbare Handlung müssen erheblich und konkreter Natur sein. Blosse Gerüchte
+oder Vermutungen genügen nicht. Der Anfangsverdacht soll eine plausible
+Tatsachengrundlage haben, aus der sich die konkrete Möglichkeit der Begehung
+einer Straftat ergibt. Im Zweifelsfall, wenn die Gründe der Nichtanhandnahme
+nicht mit absoluter Sicherheit gegeben sind, muss das Verfahren eröffnet
+werden (vgl. statt vieler z.B. BGer 6B_1104/2017 vom 13. April 2018,
+E. 2.3.1. und BGer 6B_560/2014 vom 3. November 2014,
+E. 2.4.1., je m.w.H.). Der Staatsanwaltschaft steht ein gewisser
+Spielraum zu bei der Beurteilung, ob ein sachverhaltsmässig und rechtlich
+klarer Fall vorliegt, der nicht an die Hand zu nehmen ist (BGer 6B_897/2015
+vom 7. März 2016, E. 2.4. m.w.H.).
+6.
+6.1.
+6.1.1.
+Der einfachen
+Körperverletzung im Sinne von Art. 123 Ziff. 1 Abs. 1 StGB
+macht sich schuldig, wer vorsätzlich einen Menschen „in anderer Weise“ an
+Körper oder Gesundheit schädigt. Dieser Straftatbestand erfasst diejenigen
+Schädigungen am menschlichen Körper, die einerseits nicht als schwer im Sinne
+von Art. 122 StGB zu qualifizieren sind, andererseits aber die
+Voraussetzungen des Art. 126 StGB (Tätlichkeit) nicht erfüllen (Donatsch,
+OFK-StGB, Art. 123 N 1). Die körperliche Integrität ist dann im
+Sinne einer Körperverletzung beeinträchtigt, wenn innere oder äussere
+Verletzungen zugefügt werden, die mindestens eine gewisse Behandlung und
+Heilungszeit erfordern. Demgegenüber handelt es sich um blosse Tätlichkeiten,
+wenn Schürfungen, Kratzwunden oder bloss blaue Flecken offensichtlich so
+harmlos sind, dass sie in kürzester Zeit vorübergehen oder ausheilen
+(Roth/Berkemeier, BSK-StGB II, Art. 123 N 4).
+6.1.2.
+Bei den
+Tatbeständen der Tätlichkeit im Sinne von Art. 126 StGB sowie der
+einfachen Körperverletzung im Sinne von Art. 123 StGB handelt es sich in
+ihren Grundformen um Antragsdelikte. Ist eine Tat nur auf Antrag strafbar,
+kann jede Person, die durch sie verletzt worden ist bzw. behauptet, durch sie
+verletzt worden zu sein, bei der Polizei, der Staatsanwaltschaft oder der
+Übertretungsstrafbehörde schriftlich oder mündlich zu Protokoll die
+Bestrafung des Täters beantragen (Art. 30 Abs. 1 StGB; Art. 110 Abs. 1 und 2
+StPO; Art. 304 Abs. 1 StPO). Der Strafantrag ist die Willenserklärung des
+Verletzten, dass der Täter strafrechtlich zu verfolgen sei (BGE 122 IV 207
+E. 3a). Ein Strafantrag muss nicht als solcher benannt sein und auch
+eine falsche Bezeichnung schadet nicht (Riedo, BSK-StGB I, Art. 30 N 53).
+Erforderlich ist lediglich eine Umschreibung des zu verfolgenden
+Sachverhalts, nicht aber dessen rechtliche Qualifizierung (Urteil des
+Bundesgerichts 6B_65/2015 vom 25. März 2015 E. 2.4; Riedo, Der Strafantrag,
+Diss. Freiburg, Basel/Genf/München 2004, S. 400). Letztere obliegt den
+Strafbehörden. Nennt der Antragsteller dennoch einen Straftatbestand, der
+seines Erachtens erfüllt worden ist, so ist die Behörde an diese rechtliche
+Qualifikation nicht gebunden (BGE 131 IV 98 E. 3.1). Eine falsche rechtliche
+Qualifikation macht den Strafantrag somit nicht ungültig (Riedo, BSK-StGB I,
+Art. 30 N 54). Der auf die Strafverfolgung gerichtete Wille ergibt sich
+zumeist schon aus der blossen Strafanzeige. Wer sich an eine Behörde wendet
+und diese über eine begangene Straftat in Kenntnis setzt, wird üblicherweise
+auch wollen, dass die angezeigte Person strafrechtlich belangt wird (BGer
+6B_972/2009 vom 16. Februar 2010 E. 3.5.1; Riedo, a.a.O., S. 399; OG ZH
+SB150172 vom 31. August 2015, E. 5.2.1.3.).
+6.1.3.
+Von Amtes wegen
+verfolgt werden die Delikte der Tätlichkeit und der einfachen Köperverletzung
+unter anderem, wenn ein Täter die Tat an einer Person begeht, die unter
+seiner Obhut steht oder für die er zu sorgen hat (Art. 123 Ziff. 2
+und Art. 126 Abs. 2 lit. a StGB).
+6.2.
+Ob vorliegend
+aufgrund des Umstands, dass die Beschwerdeführerin zur Zeit der behaupteten
+Delikte im Alters- und Pflegeheim [...] lebte, eine derartige Konstellation
+der Strafverfolgung von Amtes wegen gegeben ist, kann offen bleiben. Denn
+seitens der Beschwerdeführerin liegt in Bezug auf beide Tatbestände (einfache
+Körperverletzung und Tätlichkeiten) ein gültiger und rechtzeitig gestellter
+Strafantrag nach Art. 30 StGB vor. Mit ihrer Strafanzeige vom
+21. Juni 2017 brachte sie nämlich gegenüber der Staatsanwaltschaft
+innert der Antragsfrist von Art. 31 StGB (vgl. U-act. 3.1.01, v.a.
+Rz. 3 und 6 sowie BGE 142 IV 129 E. 4.3) ihren klaren Willen zum
+Ausdruck, dass sie die strafrechtliche Verfolgung einer unbekannten Täterschaft
+für die ihr gemäss ihrer Darstellung zugefügten Verletzungen verlangt
+respektive eine Bestrafung derselben wegen einfacher Körperverletzung – bzw.
+a maiore minus eventualiter wegen Tätlichkeiten – will. Von einem gültigen
+Strafantrag bezüglich Körperverletzung (und somit a maiore minus eventualiter
+bezüglich Tätlichkeiten) scheint im Übrigen auch die Staatsanwaltschaft
+auszugehen, da sie ihre Nichtanhandnahmeverfügung nicht mit dem Fehlen eines
+Strafantrags begründete (vgl. act. 1). Nach dem Gesagten beschränkte sich
+die Staatsanwaltschaft in der angefochtenen Nichtanhandnahmeverfügung zu
+Unrecht darauf, den Tatbestand der einfachen Körperverletzung (Art. 123
+StGB) zu prüfen. Der angezeigte Sachverhalt ist vielmehr auch unter dem
+Tatbestand der Tätlichkeiten gemäss Art. 126 StGB zu beurteilen.
+6.3.
+6.3.1.
+Die
+Beschwerdeführerin dokumentierte ihre Strafanzeige mit mehreren
+Fotoaufnahmen. Diese zeigen Striemen, gerötete sowie blaue Hautstellen und
+kleinere Wunden (U-act. 3.1.01, 3.1.11). Gemäss ihrer Darstellung –
+welche die Staatsanwaltschaft in der angefochtenen Nichtanhandnahmeverfügung
+insoweit nicht als unzutreffend bezeichnet (act. 1) – sind diese
+Verletzungen durch das Alters- und Pflegeheim [...] nicht protokolliert bzw.
+anderweitig dokumentiert worden (U-act. 3.1.01 Rz. 6).
+6.3.2.
+Allein aufgrund
+dieser Vorbringen liegen indes entgegen ihrer Auffassung (act. 2
+Rz. 10) keine erheblichen und konkreten Hinweise dafür vor, dass eine
+andere Person physisch auf sie in einer Weise einwirkte, die zumindest die Intensität
+von Tätlichkeiten im Sinne von Art. 126 Abs. 1 StGB erreicht. Die
+Beschwerdeführerin befand sich zum Zeitpunkt der behaupteten deliktischen
+Handlungen im 81. Lebensjahr (act. 2 S. 1 i.V.m.
+U-act. 3.1.01 Rz. 6) und war pflegebedürftig (act. 2 Rz. 8).
+Es ist notorisch, dass bei Personen in diesem Alter die Haut besonders
+sensibel ist sowie bereits im alltäglichen Pflegeumgang (z.B. bei der
+Mobilisation) – auch grossflächige – Striemen, gerötete und blaue Hautstellen
+sowie kleinere Wunden verbreitet auftreten, zumal wenn sie – wie dies gemäss
+Pflegebericht bei der Beschwerdeführerin im hier relevanten Zeitraum der Fall
+war (vgl. U-act. 3.1.13 f., u.a. Pflegebericht-Einträge vom
+18.03.2017 18:41 Uhr, 22.03.17 08:37 Uhr, 23.03.17 08:30 Uhr,
+28.03.2017 09:30 und 20:17 Uhr, 30.03.17 18:30 und 18:35 Uhr,
+19.04.2017 18:57 Uhr, 23.04.2017 18:00 Uhr, 24.04.2017 18:31 Uhr) – zu
+verbaler und körperlicher Aggressivität neigen.
+6.3.3.
+Nach dem Gesagten
+ergibt sich aus der Strafanzeige und deren Beilagen wie auch aus den weiteren
+Akten kein hinreichender Tatverdacht zumindest bezüglich Tätlichkeiten
+(Art, 126 StGB) bzw. allenfalls bezüglich einfacher Körperverletzung
+(Art. 123 StGB), sondern es bestehen seitens der Beschwerdeführerin
+diesbezüglich blosse Vermutungen. Zu beachten ist sodann, dass die
+Beschwerdeführerin gemäss eigenen Angaben an Demenz leidet und daher zu den
+von ihr erhobenen Vorwürfen auch nicht befragt werden kann (act. 3.1.01
+Rz. 9). Ferner behauptet weder die Beschwerdeführerin noch ist sonst ersichtlich,
+dass in Bezug auf die beanzeigten Vorfälle Zeugen existieren.
+6.3.4.
+Aus alldem folgt,
+dass die Staatsanwaltschaft im Ergebnis zu Recht von der Eröffnung einer
+Strafuntersuchung absah. Die Beschwerde ist folglich abzuweisen.
+IV.
+(Kosten- und Entschädigungsfolgen; Rechtsmittel)
+Da die Beschwerdeführerin
+unterliegt, sind ihr die Kosten des Beschwerdeverfahrens aufzuerlegen (Art.
+428 Abs. 1 StPO). Entschädigungen für das Beschwerdeverfahren sind
+ausgangsgemäss keine zuzusprechen (Art. 436 Abs. 1 StPO i.V.m.
+Art. 433 Abs. 1 lit. a StPO e contrario). Die Beschwerdeführerin ist zur
+Beschwerde in Strafsachen ans Bundesgericht nur berechtigt, wenn sich der
+vorliegende Entscheid auf die Beurteilung ihrer Zivilansprüche auswirken kann,
+was in der Beschwerdeschrift im Einzelnen darzulegen ist (vgl. z.B. BGer
+6B_897/2015 vom 7. März 2016, E. 1.).
+____________________
+Das Gericht
+beschliesst
+:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Die
+Gerichtsgebühr für das Beschwerdeverfahren wird auf CHF 500.–
+festgesetzt.
+3.
+Die
+Kosten des Beschwerdeverfahrens werden der Beschwerdeführerin auferlegt.
+4.
+Für
+das Beschwerdeverfahren werden keine Entschädigungen zugesprochen.
+5.
+Schriftliche
+Mitteilung an die Parteien
+[...]
