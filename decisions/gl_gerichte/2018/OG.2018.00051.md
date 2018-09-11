@@ -1,0 +1,335 @@
+---
+decision_id: "gl_gerichte_OG.2018.00051"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2018.00051"
+docket_2: "OGS.2019.43"
+decided: "2018-09-11"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1047&W10_KEY=218274&nTrefferzeile=5&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/311.0/art-097.md", "switzerland/bund/acts/312.0/art-056.md", "switzerland/bund/acts/312.0/art-058.md", "switzerland/bund/acts/312.0/art-059.md", "switzerland/bund/acts/312.0/art-141.md", "switzerland/bund/acts/312.0/art-331.md"]
+---
+
+# GL Gerichte OG.2018.00051
+
+## Regeste
+
+Ausstand
+
+## Text
+
+Glarus Obergericht 11.09.2018 OG.2018.00051 (OGS.2019.43)
+Glaris Obergericht 11.09.2018 OG.2018.00051 (OGS.2019.43)
+Glarona Obergericht 11.09.2018 OG.2018.00051 (OGS.2019.43)
+
+Kanton Glarus
+Obergericht
+Beschluss
+vom 11. September 2018
+Verfahren
+OG.2018.00051
+A.______
+Gesuchsteller
+vertreten durch B.______
+betreffend
+Ausstand
+Antrag
+des Gesuchstellers
+(gemäss Eingabe seines Rechtsvertreters vom
+4. September 2018 [act. 1 S. 1]):
+"Der
+Kantonsgerichtsvizepräsident des Kantonsgerichts Glarus C.______ habe wegen
+des Anscheins der Befangenheit in den Ausstand zu treten."
+____________________
+Das
+Gericht zieht in Betracht:
+I.
+1.
+Kantonsgerichtsvizepräsident
+C.______ amtet als vorsitzender Richter im erstinstanzlichen Strafverfahren
+SG.2017.00120 gegen den Beschuldigten A.______ (siehe zum Ausstand des an
+sich zuständigen Kantonsgerichtspräsidenten […] im Verfahren SG.2017.00120,
+act. 9).
+2.
+2.1.
+In der
+vorangegangenen Strafuntersuchung gegen den Beschuldigten A.______ hatte die
+Staatsanwaltschaft zahlreiche Personen als Zeugen einvernommen. Mehrere
+dieser als Zeugen befragten Personen waren indes im untersuchten Kontext
+selber Beschuldigte und sind über sie diesbezüglich bereits Strafurteile
+ergangen.
+2.2.
+Das Bundesgericht hat
+in einem Entscheid vom 24. März 2015 (BGer 6B_1039/2014
+E. 2.4.1.) erkannt, dass eine ehemalige beschuldigte Person, über die
+bereits ein Strafurteil ergangen ist, in einem späteren Strafverfahren gegen
+Mitbeteiligte nicht als Zeuge, sondern nur als Auskunftsperson einvernommen
+werden könne.
+Unter Berücksichtigung dieser
+bundesgerichtlichen Rechtsprechung hat der Kantonsgerichtsvizepräsident
+C.______ mit verfahrensleitender Verfügung vom 5. Februar 2018
+angeordnet, dass diverse Zeugenprotokolle in Anwendung von
+Art. 141 Abs. 5 StPO aus den Strafakten zu entfernen und
+bis zum rechtskräftigen Abschluss des Verfahrens unter separatem Verschluss
+zu halten und hernach zu vernichten seien (Verfahren SG.2017.00120,
+act. 17 S. 9 Dispositiv Ziff. 3; siehe auch S. 6 f.
+E. 3.1. f.).
+3.
+3.1.
+Nun hielt aber das
+Bundesgericht nach einlässlicher Auseinandersetzung mit der Thematik
+(Rollenwechsel nach rechtskräftiger Verurteilung: Zeuge oder
+Auskunftsperson?) im Sinne eines Grundsatzentscheids fest, dass eine Person,
+die in einem getrennten Verfahren für die abzuklärende oder eine damit im
+Zusammenhang stehende Straftat rechtskräftig verurteilt wurde, grundsätzlich
+als
+Zeuge oder Zeugin
+einzuvernehmen sei (BGE 144 IV 97 E. 2 und 3
+Urteil vom 15. Februar 2018).
+Mit Blick auf diesen
+höchstrichterlichen Entscheid beantragte die Staatsanwaltschaft dem
+Kantonsgericht mit Eingabe vom 24. August 2018, die aufgrund der
+Präsidialverfügung vom 5. Februar 2018 entfernten Zeugenprotokolle
+wieder in die Verfahrensakten aufzunehmen (Verfahren SG.2017.00120,
+act. 40).
+3.2.
+Hierauf teilte der
+Kantonsgerichtsvizepräsident C.______ mit Schreiben vom
+28. August 2018 (Verfahren SG.2017.00120, act. 41) dem
+zuständigen ao. Staatsanwalt sowie dem Verteidiger von A.______ Folgendes
+mit:
+Wir weisen Sie darauf hin, dass wir das Schreiben der
+Staatsanwaltschaft vom 24. August 2018 als Beweisantrag für die
+Hauptverhandlung entgegennehmen.
+Das Gericht wird über den Beweisantrag betreffend Aufnahme der
+Protokolle der Zeugenbefragungen zu den Verfahrensakten anlässlich der
+Hauptverhandlung vom 13. September 2018 befinden. Die Protokolle
+werden derzeit unter separatem Verschluss gehalten (vgl. Verfügung des
+Kantonsgerichtsvizepräsidenten vom 5. Feb-ruar 2018, Dispositiv-Ziff.
+3).
+Da offen ist, ob das Gericht dem Beweisantrag stattgeben wird, werden
+die Protokolle im Hinblick auf die Hauptverhandlung der Staatsanwaltschaft
+sowie der Verteidigung zugestellt, damit sie sich entsprechend vorbereiten
+können.
+Die im vorstehenden
+Schreiben angesprochene Hauptverhandlung vor dem Kantonsgericht ist auf den
+13. September 2018 angesetzt, wobei sich die Terminfindung als
+äusserst aufwendig erwiesen hat (siehe im
+Verfahren SG.2017.00120,
+act. 21, act. 31 und act. 32 [Vorladung vom
+11. April 2018]).
+4.
+Mit Eingabe vom
+4. September 2018 an das Kantonsgericht stellte der Rechtsvertreter
+des Beschuldigten A.______ gegen den Kantonsgerichtsvizepräsidenten C.______
+ein Ausstandsbegehren (act. 1).
+Mit Schreiben vom
+6. September 2018 überwies das Kantonsgericht das Ausstandsgesuch
+zur Behandlung an das Obergericht und beantragt dabei implizit dessen
+Abweisung (act. 3). Ebenso liegt dem Obergericht eine persönliche
+Stellungnahme von C.______ vom 5. September 2018 vor (siehe dazu
+Art. 58 Abs. 2 StPO), wonach dieser sich nicht für befangen
+erachtet (act. 2 und act. 10).
+5.
+Mit Eingabe vom
+10. September 2018 (per E-Mail versandt) hat sich der Rechtsvertreter
+des Beschuldigten zur Eingabe des Kantonsgerichts vom 6. September 2018
+sowie zur Stellungnahme des Kantonsgerichtsvizepräsidenten vom 5. September
+2018 geäussert (act. 9).
+6.
+Der
+Kantonsgerichtsvizepräsident C.______ hat am 10. September 2018 mit
+seiner Unterschrift bestätigt, dass Gerichtsschreiber […] in seiner
+Aktennotiz vom 5. September 2018 den Inhalt seines mit dem
+Kantonsgerichtsvizepräsidenten geführten Telefongesprächs korrekt
+wiedergegeben hat (act. 10).
+II.
+1.
+Das Obergericht als
+Beschwerdeinstanz in Strafsachen ist zuständig zur Behand­lung von
+Ausstandsbegehren gegen Mitglieder des erstinstanzlichen Gerichts
+(Art. 59 Abs. 1 lit. b StPO i.V.m Art. 16 Abs. 1
+lit. a GOG).
+2.
+Der Rechtsvertreter des
+Beschuldigten A.______ stellt sich zur Begründung des Ausstandsgesuchs auf
+den Standpunkt, der Kantonsgerichtsvizepräsident habe dadurch, dass er die
+Zeugeneinvernahmeprotokolle der Verteidigung und der Staatsanwaltschaft
+bereits zugestellt habe (obwohl sich diese Protokolle gemäss
+Präsidialverfügung vom 5. Februar 2018 unter separatem Verschluss
+befinden und obwohl über den Beweisantrag der Staatsanwaltschaft, diese
+Protokolle wieder zu den Prozessakten zu nehmen, noch nicht entschieden
+worden ist), eine "krasse prozessuale Verletzung von
+Art. 141 Abs. 5 StPO" begangen. Sinn und Zweck der
+in Art. 141 Abs. 5 StPO vorgeschriebenen separaten
+Aufbewahrung der betreffenden Ein­vernahmeprotokolle sei nämlich gerade, dass
+diese Protokolle ausdrücklich nicht Bestandteil der Verfahrensakten seien. Es
+sei daher absolut unverständlich und nicht nachvollziehbar, dass vorliegend
+diese Protokolle bereits verschickt worden seien, bevor über deren Aufnahme
+zu den Verfahrensakten überhaupt entschieden worden sei. Dieser Eindruck
+werde noch dadurch verstärkt, dass ihm [dem Rechtsvertreter] diese eigentlich
+zu versiegelnden Protokolle vom Kantonsgericht bereits einmal schon im Rahmen
+der Akteneinsicht zugestellt worden seien. Dieses Vorge­hen zeige, dass die
+Verfahrensleitung des Kantonsgerichts nicht gewillt sei, sich an seinen
+Beschluss vom 5. Februar 2018 zu halten und die Protokolle
+weiterhin unter separatem Verschluss zu halten. Diese krasse Verletzung von
+Art. 141 Abs.
+5 StPO erwecke bei objektiver
+Betrachtung zweifelsfrei den Anschein der Befangenheit und
+Voreingenommenheit. Dadurch, dass die Protokolle im "Hinblick auf die
+Hauptverhandlung" bereits verschickt worden seien, damit sich die
+Parteien entsprechend vorzubereiten mögen, werde der klar greifbare Anschein
+erweckt, dass die Verfahrensleitung faktisch bereits vor der Hauptverhandlung
+über die Gutheissung des Beweisantrags der Staatsanwaltschaft zum Nachteil
+des Beschuldigten entschieden habe und somit voreingenommen sei. Darum habe
+im Lichte von Art. 56 lit. f StPO der Kantonsgerichtsvizepräsident
+in den Ausstand zu treten (act. 1 S. 3 f. Ziff. 2 und
+act. 9).
+3.
+Nach
+Art. 30 Abs. 1 BV und Art. 6 Ziff. 1 EMRK hat jede
+Person, deren Sache in einem gerichtlichen Verfahren beurteilt werden muss,
+Anspruch darauf, dass ihre Streitsache von einem unbefangenen,
+unvoreingenommenen und unparteiischen Richter beurteilt wird. Es soll
+garantiert werden, dass keine sachfremden Umstände, die ausserhalb des
+Prozesses liegen, in sachwidriger Weise zugunsten oder zulasten einer Partei
+auf das gerichtliche Urteil einwirken. Art. 30 Abs. 1 BV soll zu
+der für einen korrekten und fairen Prozess erforderlichen Offenheit des
+Verfahrens im Einzelfall beitragen und damit ein gerechtes Urteil
+ermöglichen. Die Garantie des verfassungsmässigen Richters wird bereits verletzt,
+wenn bei objektiver Betrachtung Gegebenheiten vorliegen, die den Anschein der
+Befangenheit oder die Gefahr der Voreingenommenheit zu begründen vermögen.
+Voreingenommenheit und Befangenheit in diesem Sinne werden nach der
+Rechtsprechung angenommen, wenn im Einzelfall anhand aller tatsächlichen und
+verfahrensrechtlichen Umstände Gegebenheiten aufscheinen, die geeignet sind,
+Misstrauen in die Unparteilichkeit des Richters zu erwecken. Dabei ist nicht
+auf das subjektive Empfinden einer Partei abzustellen. Das Misstrauen in die
+Unvoreingenommenheit muss vielmehr in objektiver Weise begründet erscheinen.
+Es genügt, wenn Umstände vorliegen, die bei objektiver Betrachtung den
+Anschein der Befangenheit und Voreingenommenheit hervorrufen. Für die
+Ablehnung wird nicht verlangt, dass der Richter tatsächlich befangen ist (
+BGE 140 III 221
+E. 4.1).
+Gemäss Art. 56 lit. f
+StPO hat ein Mitglied einer Strafbehörde in den Ausstand zu treten, wenn es
+als befangen erscheint. Die Unbefangenheit eines Mitglieds einer Strafbehörde
+ist zu
+vermuten
+. Befangenheit ist hingegen anzunehmen,
+wenn das Verhältnis dieses Mitglieds zum Gegenstand des Verfahrens oder zu
+einer Partei oder deren Rechtsvertreter dergestalt ist, dass bei einer
+objektivierenden Betrachtungsweise der Ausgang des Verfahrens für das
+betreffende Behördenmitglied nicht mehr offen ist (
+Schmid/Jositsch
+, Schweizerische Strafprozessordnung,
+Praxiskommentar, 3. Aufl., Zürich/St. Gallen 2017, Art. 56
+N 14). Soweit einer Gerichtsperson materielle oder prozessuale
+Rechtsfehler angelastet werden, so sind diese in erster Linie im
+Rechtsmittelverfahren zu rügen und lassen sich grundsätzlich nicht als
+Begründung für eine Verletzung des verfassungsmässigen Richters heranziehen.
+Solange entsprechende Fehler nicht besonders krass sind und wiederholt
+auftreten, sodass sie einer schweren Amtspflichtverletzung gleichkommen, sich
+einseitig zu Lasten einer der Prozessparteien auswirken und eine auf
+fehlender Distanz und Neutralität beruhende Haltung offenbaren, begründen sie
+keinen hinreichenden Anschein der Befangenheit (BSK StPO-
+Boog
+, N 59 zu Art. 56 StPO,
+dort mit zahlreichen Hinweisen auf die bundesgerichtliche Rechtsprechung).
+4.
+4.1.
+Gemäss
+Art. 141 Abs. 5 StPO sind Aufzeichnungen über unverwertbare
+Beweise aus den Strafakten zu entfernen, jedoch bis zum rechtskräftigen
+Abschluss des Verfahrens unter separatem Verschluss zu halten und danach zu
+vernichten. Mit der in Art. 141 Abs. 5 StPO gewählten
+Konzeption soll einerseits einem Verwertungsverbot dadurch zu grösstmöglicher
+Effizienz verholfen werden, dass unverwertbare Beweise so schnell als möglich
+aus den Akten entfernt werden, damit die nicht verwertbaren Erkenntnisse
+nicht doch in die Beweisfindung einfliessen. Andererseits wird durch die
+Aufbewahrung in einem Separatdossier der Tatsache Rechnung getragen, dass bis
+zum Verfahrensende ein Bedürfnis bestehen kann, das Vorliegen eines
+Verwertungsverbots zu überprüfen, weshalb die Vernichtung erst nach
+rechtskräftigem Abschluss des Verfahrens vorgesehen ist (BSK StPO-
+Gless
+, N 107 zu Art. 141
+StPO).
+4.2.
+Nachdem der
+Kantonsgerichtsvizepräsident C.______ mit Verfügung vom
+5. Februar 2018 diverse Zeugenbefragungsprotokolle gestützt auf
+Art. 141 Abs. 5 StPO als unverwertbar qualifiziert hatte
+(siehe oben E. I.2.2), hat er in der Folge mit Schreiben vom
+28. August 2018 die betreffenden Protokolle gleichwohl der
+Staatsanwaltschaft sowie dem Rechtsvertreter des Beschuldigten A.______
+zugestellt (oben E. I.3.2). Allein damit aber, dass er diese Protokolle
+einzig den Parteivertretern hat zukommen lassen, hat er den Schutzzweck von
+Art. 141 Abs. 5 StPO (Vermeidung, dass nicht verwertbare
+Erkenntnisse in die Beweisfindung einfliessen) von vornherein nicht
+vereitelt. Die Entscheidungsfindung in der Sache obliegt nicht den
+Parteivertretern, sondern den Mitgliedern des Gerichts. Unter diesem
+Gesichtswinkel ist daher kein krasser Verfahrensfehler auszumachen, welcher
+auf eine Voreingenommenheit und damit Befangenheit des
+Kantonsgerichtsvizepräsidenten schliessen lassen würde.
+4.3.
+Der
+Kantonsgerichtsvizepräsident hat mit Schreiben vom 28. August 2018
+(Verfahren SG.2017.00120, act. 41) den Parteivertretern mitgeteilt, das
+Gericht werde anlässlich der auf den 13. September 2018 angesetzten
+Hauptverhandlung über die von der Staatsanwaltschaft mit Eingabe vom
+24. August 2018 (Eingang beim Gericht am 27. August 2018)
+beantragte (Wieder)Aufnahme der Zeugeneinvernahmeprotokolle in die
+Verfahrensakten befinden. Dass der Kantonsgerichtsvizepräsident nicht
+sogleich selber über den eingegangenen Beweisantrag befunden hat
+(Art. 331 Abs. 3 StPO), sondern den diesbezüglichen Entscheid dem
+Gericht vorbehalten hat, ist aufgrund des zeitlich nahen
+Hauptverhandlungstermins ohne weiteres vertretbar. Unter dem Gesichtspunkt
+einer pragmatischen Verfahrensökonomie erscheint es dabei aber als ebenso
+vertretbar, dass der Kantonsgerichtsvizepräsident den Parteivertretern die
+fraglichen Protokolle dennoch bereits zugestellt hat. Sollte nämlich das
+Gericht zu Beginn der Hauptverhandlung am 13. September 2018 die
+Verwertbarkeit der fraglichen Protokolle im Sinne des Antrags der
+Staatsanwaltschaft bejahen, so scheint immerhin gewährleistet, dass die
+Hauptverhandlung ohne Verzug durchgeführt werden kann, nachdem die Parteien
+bereits vorzeitig im Besitz der Protokolle waren. Dieser Umstand ist
+vorliegend aus Gründen der Verjährung nicht unwesentlich, reichen doch die Anklagesachverhalte
+bis ins Jahr 2004 zurück (Verfahren SG.2017.00120, act. 1; siehe zur
+Verjährung Art. 97 Abs. 1 lit. b StGB).
+Somit ist auch unter diesem
+Gesichtswinkel keine Verletzung von Verfahrensregeln durch den
+Kantonsgerichtsvizepräsidenten auszumachen, welche einen Anschein auf
+Befangenheit begründete.
+4.4.
+Der
+Kantonsgerichtsvizepräsident hätte in seiner Funktion als Verfahrensleiter
+vorliegend gestützt auf Art. 331 Abs. 3 StPO selber in
+eigener Zuständigkeit über den Beweisantrag der Staatsanwaltschaft vom
+24. August 2018 um Aufnahme der Protokolle in die Verfahrensakten
+umgehend entscheiden können. Hätte er diesen Schritt unternommen und sich
+dabei für die Zulassung der Protokolle ausgesprochen, wären als Folge davon
+die Protokolle ebenfalls noch vor der Hauptverhandlung auch den Parteien zu
+eröffnen gewesen, ohne dass der Beschuldigte in Hinsicht darauf einen
+Verfahrensfehler bzw. eine Befangenheit des Kantonsgerichtsvizepräsidenten
+mit Erfolg rügen könnte. Es ist daher bei objektiver Betrachtung kein Hinweis
+auf Voreingenommenheit oder Befangenheit des Kantonsgerichtsvizepräsidenten
+zu erkennen, wenn er vorliegend zwar über den Beweisantrag nicht selber
+befunden, trotzdem aber den Parteien die Protokolle bereits zugestellt hat.
+III.
+Diesen Erwägungen zufolge ist das
+vom Beschuldigten A.______ gestellte Ausstandsbegehren gegen den
+Kantonsgerichtsvizepräsidenten C.______ abzuweisen. Ausgangsgemäss sind die
+Kosten dieses Verfahrens dem Gesuchsteller zu überbinden (Art. 59
+Abs. 4 StPO).
+Das
+Gericht beschliesst:
+1.
+Das im Verfahren SA.2017.00120
+von A.______ gestellte Ausstandsge­such gegen den
+Kantonsgerichtsvizepräsidenten C._____ wird ab­gewiesen.
+2.
+Die Pauschalgerichtsgebühr für
+die Behandlung des Ausstandsgesuchs wird auf CHF 600.— festgesetzt und
+dem Gesuchsteller auferlegt und von ihm bezogen.
+3.
+Schriftliche Mitteilung an:
+[…]
