@@ -1,0 +1,268 @@
+---
+decision_id: "gl_gerichte_VG.2018.00045"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2018.00045"
+docket_2: "VG.2018.696"
+decided: "2018-09-13"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=990&W10_KEY=218274&nTrefferzeile=3&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/642.11/art-169.md"]
+---
+
+# GL Gerichte VG.2018.00045
+
+## Regeste
+
+Steuern
+
+## Text
+
+Glarus Verwaltungsgericht 13.09.2018 VG.2018.00045 (VG.2018.696)
+Glaris Verwaltungsgericht 13.09.2018 VG.2018.00045 (VG.2018.696)
+Glarona Verwaltungsgericht 13.09.2018 VG.2018.00045 (VG.2018.696)
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+13. September 2018
+I. Kammer
+in Sachen
+VG.2018.00045
+A.______
+Beschwerdeführer
+gegen
+Steuerverwaltung des Kantons Glarus
+Beschwerdegegnerin
+betreffend
+Sicherstellungsverfügung
+(Kantons- und Gemeindesteuern 2014)
+Die Kammer zieht in Erwägung:
+I.
+1.
+Die Steuerverwaltung des
+Kantons Glarus veranlagte A.______ am 17. Januar 2017 für die Kantons- und
+Gemeindesteuern 2014 mit einem steuerbaren Einkommen von Fr. 0.- sowie mit
+einem steuerbaren Vermögen von Fr. 19'416'000.-. Unter Abzug der
+Rückerstattung der Verrechnungssteuer und zuzüglich Zinsen blieb A.______
+einen Betrag von Fr. 18'621.95 schuldig.
+2.
+Mit Verfügung vom 9. April 2018 verlangte die
+Steuerverwaltung von A.______
+die Sicherstellung
+der Kantons- und Gemeindesteuern 2014 in der Höhe
+von
+insgesamt
+Fr. 18'621.95. Gestützt darauf
+beauftragte sie gleichentags
+das Betreibungs- und Konkursamt des
+Kantons Glarus zur Verarrestierung von vier Bankkonti bei der B.______AG, was
+mit Arresturkunde Nr. […] vom 26. April 2018 erfolgte.
+3.
+3.1
+A.______ gelangte in der Folge mit Beschwerde vom
+26. April 2018 ans Verwaltungsgericht und beantragte sinngemäss die Aufhebung
+der Sicherstellungsverfügung.
+3.2
+B
+asierend
+auf der Sicherstellungsverfügung vom 9. April 2018 stellte die
+Steuerverwaltung
+beim Betreibungs- und
+Konkursamt am 30. April 2018 ein Betreibungsbegehren für einen Gesamtbetrag
+von Fr. 18'621.95 und eröffnete A.______ die Sicherstellungsverfügung
+wegen seines Wohnsitzwechsels von X.______ nach Y.______ gleichentags neu.
+3.3
+Die Steuerverwaltung liess sich am 9. Mai 2018 zu
+den Vorbringen von A.______ vernehmen und beantragte die Abweisung seiner Beschwerde.
+3.4
+A.______ reichte am 11. Juni 2018 eine Replik ein
+und hielt an seiner Beschwerde fest. Die Steuerverwaltung beantragte mit
+Duplik vom 14. Juni 2018 erneut die Abweisung der Beschwerde.
+II.
+1.
+Gemäss Art. 194 Abs. 2 des Steuergesetzes vom 7. Mai 2000
+(StG) kann der Steuerpflichtige gegen eine Sicherstellungsverfügung direkt
+Beschwerde beim Verwaltungsgericht erheben. Folglich ist das
+Verwaltungsgericht zur Behandlung der vorliegenden Beschwerde zuständig.
+Da auch die übrigen Prozessvoraussetzungen erfüllt
+sind, ist auf die Beschwerde grundsätzlich einzutreten.
+2.
+2.1
+Der Streitgegenstand eines Rechtsmittelverfahrens
+wird durch zwei Elemente bestimmt: einerseits durch den Gegenstand der
+angefochtenen Anordnung, anderseits durch die Parteivorbringen. Zum einen
+kann nur Gegenstand des Rechtsmittelverfahrens sein, was auch Gegenstand der
+erstinstanzlichen Verfügung war bzw. nach richtiger Gesetzesauslegung hätte
+sein sollen. Zum andern bestimmt sich der Streitgegenstand nach der im Beschwerdeantrag
+verlangten Rechtsfolge (Art. 91 Abs. 1 lit. a des Gesetzes über die
+Verwaltungsrechtspflege vom 4. Mai 1986 [VRG]; Martin Bertschi, in Alain
+Griffel [Hrsg.], Kommentar zum Verwaltungsrechtspflegegesetz des Kantons
+Zürich, 3. A., Zürich/Basel/Genf 2014, Vorbemerkungen zu §§ 19-28a N. 44
+ff.).
+2.2
+Vorliegend ist die Verfügung vom 9. April 2018 bzw.
+vom 30. April 2018 angefochten, mit welcher die Beschwerdegegnerin gegenüber
+dem Beschwerdeführer kommunale und kantonale Steuerforderungen für die Steuerperiode
+2014 in der Höhe von Fr. 18'621.95 sicherstellte. Folglich bildet
+Gegenstand des vorliegenden Verfahrens einzig die Frage, ob die
+Sicherstellung zu Recht erfolgte. Nicht zu prüfen ist demgegenüber die
+Rechtmässigkeit der veranlagten Kantons- und Gemeindesteuern für das
+Steuerjahr 2014. Diesbezüglich hätte der Beschwerdeführer ein Rechtsmittel
+gegen die Steuerveranlagung vom 17. Januar 2017 ergreifen müssen. Da er dies
+nicht getan hat, was er im Übrigen selbst vorbringt, erwuchs die Steuerveranlagung
+in Rechtskraft. Folglich ist auf seine Beschwerde, soweit sie sich gegen die
+Steuerveranlagung vom 17. Januar 2017 richtet, nicht einzutreten.
+3.
+3.1
+Die kantonale Steuerverwaltung kann bereits vor der
+rechtskräftigen Veranlagung die Sicherstellung des mutmasslich geschuldeten
+Steuerbetrags verlangen, sofern der Steuerpflichtige keinen Wohnsitz in der
+Schweiz hat oder die Bezahlung der von ihm geschuldeten Steuer als gefährdet
+erscheint. Dies gilt sowohl für die Sicherstellung der kommunalen und kantonalen
+Steuern als auch für diejenige der direkten Bundessteuer (vgl. Art. 194 Abs.
+1 StG und
+Art. 169 Abs. 1 des Bundesgesetzes über die direkte
+Bundessteuer vom 14. Dezember 1990 [DBG]).
+3.2
+Die Steuerbehörde hat in der
+Sicherstellungsverfügung grundsätzlich kurz zu begründen, weshalb sie eine
+Sicherstellung verlangt, damit der Betroffene sich über die Tragweite der
+Verfügung in Kenntnis setzen und die Verfügung sachgerecht anfechten kann
+(BGer-Urteil 2A.560/2002 vom 8. September 2003 E. 3.2). Der Sicherstellungsgrund
+muss angesichts der zeitlichen Dringlichkeit nur kurz, aber nicht bloss
+rudimentär, stichwortartig begründet sein, wobei der Formmangel der
+ungenügenden Begründung im Beschwerdeverfahren heilbar ist (
+Felix Richner et al., Kommentar zum Züricher
+Steuergesetz, 3. A., Zürich 2013, § 181 N. 29).
+3.3
+Eine
+Sicherstellung kommt nur für tatsächlich geschuldete Steuerforderungen in
+Frage. Sie ist daher nur im Umfang der bis zum Erlass der Verfügung
+geschuldeten Steuern und nicht für zukünftige Steuerforderungen möglich (
+Hans Frey, in Martin Zweifel/Michael Beusch
+[Hrsg.], Kommentar zum Schweizerischen Steuerrecht, Bundesgesetz über die
+direkte Bundessteuer, 3. A, Basel 2017, Art. 169 N. 5).
+3.4
+Der
+in Art. 169 Abs. 1 DBG und Art. 194 Abs. 1 StG erwähnte allgemeine Tatbestand
+der Zahlungsgefährdung ist Grundlage für die Sicherstellung in all jenen
+Fällen, in denen der Steuerpflichtige zwar über einen Wohnsitz in der Schweiz
+verfügt, die Entrichtung der Steuer aber aus anderen Gründen als gefährdet
+erscheint. Dieser Sicherstellungsgrund ist dem Arrestgrund gemäss Art. 271
+Abs. 1 Ziff. 2
+des Bundesgesetzes über
+Schuldbetreibung und Konkurs vom 11. April 1889 (SchKG)
+nachgebildet,
+kann aber durchaus auch weitere als die dort genannten Sachverhalte umfassen.
+Eine die Sicherstellung rechtfertigende Gefährdung des Steueranspruchs kann
+sich objektiv aus den gesamten Umständen ergeben. Eine besondere
+Handlungsweise, ein subjektives Verhalten des Steuerpflichtigen, das sich auf
+die Bezahlung der Steuerforderung nachteilig auswirken könnte, verlangt das
+Gesetz nicht. Eine Sicherstellung kann von den Steuerbehörden beispielsweise
+dann verlangt werden, wenn ersichtlich ist, dass das Umfeld des
+Steuerpflichtigen die Eventualität einer leichten Verschiebbarkeit von
+Vermögenswerten ins Ausland nicht ausschliesst oder mehrere Sachverhalte
+vorliegen, die an sich im Einzelfall noch keine Gefährdung der Steuer
+darstellen, im Gesamten aber auf eine solche hinweisen (
+Frey, Art. 169 N. 11 ff.).
+3.5
+Die kantonale Steuerverwaltung muss nur eine
+objektive Gefährdung des Steuerbezugs nachweisen oder zumindest glaubhaft
+machen. Glaubhaft und damit wahrscheinlich ist eine Tatsache bereits dann,
+wenn gewisse Elemente vorhanden sind, die darauf hindeuten, selbst wenn damit
+gerechnet werden muss, dass sie sich so nicht verwirklichen werden.
+Massgebend für die Glaubhaftmachung sind die gesamten Umstände, wobei dem
+Sinn und Zweck der Sicherstellung, der leichten Verwertbarkeit und
+Verschiebbarkeit der Vermögenswerte ins Ausland eine erhebliche Bedeutung
+zukommt. Von Bedeutung für die Beurteilung der Gefährdung sind zudem die
+allgemeinen Lebensumstände des Steuerschuldners. Indizien aus dem
+persönlichen Umfeld des Steuerpflichtigen, die gegen eine Gefährdung
+sprechen, sind etwa ein langjähriger Wohnsitz in der Schweiz, eine enge
+Bindung zur Schweiz, der Zivilstand, schulpflichtige Kinder und unbelastetes
+Grundeigentum in der Schweiz (Frey, Art. 169 N. 14).
+4.
+Die vorliegend
+angefochtene Verfügung enthält zwar den Adressaten, den Forderungsbetrag
+sowie die Bemerkung, dass die Sicherstellung der Kantons- und Gemeindesteuern
+für die Steuerperiode 2014 beabsichtigt sei. Sie enthält jedoch keine
+Begründung, weshalb eine Sicherstellung verlangt wird, womit die Verfügung
+mit einem Formmangel behaftet ist. Da die Beschwerdegegnerin in der
+Vernehmlassung vor Verwaltungsgericht ihrer Begründungspflicht aber
+rechtsgenüglich nachkam und darlegte, weshalb eine Sicherstellung der
+Forderungen in der Höhe von Fr. 18'621.95 notwendig sei, gilt der
+erwähnte Formmangel als geheilt (vgl. dazu vorstehende E. II/3.2).
+5.
+5.1
+Soweit der Beschwerdeführer geltend macht, die
+Forderung gemäss Sicherstellungsverfügung vom 9. April 2018 bzw. vom 30.
+April 2018 sei nicht geschuldet oder betreffe nicht ihn persönlich, kann ihm
+nicht gefolgt werden. Wie dargelegt (vgl. vorstehende E. II/2) hätte er
+hinsichtlich der Höhe der Steuerforderung bereits gegen die Verfügung vom 17.
+Januar 2017 ein Rechtmittel ergreifen müssen. Da er die Rechtsmittelfrist
+jedoch ungenutzt verstreichen liess, erwuchs die definitive Veranlagung in
+Rechtskraft. Des Weiteren bringt er weder substantiiert vor noch ergibt sich
+aus den Akten, dass die Veranlagung nicht ihn persönlich, sondern eine
+juristische Person betrifft. Ferner ist nicht ersichtlich, dass der
+festgesetzte Steuerbetrag bereits getilgt wurde oder eine
+Verrechnungsmöglichkeit besteht. Folglich hat der Beschwerdeführer für das
+Steuerjahr 2014 kommunale und kantonale Steuerschulden in der Höhe von
+Fr. 18'621.95, womit die Beschwerdegegnerin zu Recht vom Bestand dieser
+Steuerforderung ausging.
+5.2
+5.2.1
+Bei der Beurteilung eines allfälligen
+Gefährdungstatbestands im Sinne von Art. 194 Abs. 1 StG fällt
+vorliegend ins Gewicht, dass es sich bei den verarrestierten Vermögenswerten
+um Bankkonti handelt
+und der
+Beschwerdeführer die darin verbrieften Gelder rasch und mit wenig Aufwand
+verschieben oder verwerten und sich so der Steuerforderung des Fiskus
+entziehen bzw. den Steuerbezug mit einer solchen Vorgehensweise massgeblich
+erschweren kann.
+Dabei gilt zu
+beachten, dass solchen Wertsachen bei
+der Beurteilung der Gefahr, dass der Steuerpflichtige sich seiner
+Steuerpflicht entzieht, rechtsprechungsgemäss erhebliche Bedeutung zukommen,
+wobei nicht notwendig ist, dass der Steuerpflichtige sie bereits
+beiseitegeschafft oder konkrete Anstalten dazu getroffen hat (BGer-Urteil
+2A.636/2004 vom 11. August 2005 E. 4.3).
+5.2.2
+Sodann ist zu berücksichtigen, dass der
+Beschwerdeführer innert kurzer Zeit seinen Wohnsitz von Y.______ nach X.______
+und daraufhin erneut zurück nach Y.______ an die […]strasse verlegt hat,
+weshalb von keinem langjährigen Wohnsitz in der Schweiz gesprochen werden
+kann. Darüber hinaus weist er keine sonstige besonders enge Bindung zur
+Schweiz auf bzw. vermag keine solche darzulegen, weshalb mit der
+Beschwerdegegnerin übereinstimmend davon auszugehen ist, dass kein stabiler
+Wohnsitz in der Schweiz vorliegt.
+5.2.3
+Zusammenfassend kann nicht ausgeschlossen
+werden, dass sich der Beschwerdeführer ohne Sicherstellung der Bankkonti
+mittels einer Vermögensverschiebung oder einem Wohnsitzwechsel ins Ausland
+dem Steuerbezug durch den Fiskus entzieht. Zumindest gelingt es der
+Beschwerdegegnerin glaubhaft zu machen, dass eine objektive Gefährdung des
+Steuerbezugs besteht, was für die Anordnung einer Sicherstellung bereits
+genügt (vgl. vorstehende E. II/3.4). Im Ergebnis ist die
+Sicherstellungsverfügung somit nicht zu beanstanden, was zur Abweisung der
+Beschwerde führt.
+III.
+Nach Art. 134 Abs. 1 lit.
+c VRG hat die Partei, welche im Beschwerde-, Klage- oder Revisionsverfahren
+unterliegt, die amtlichen Kosten zu tragen. Entsprechend dem Ausgang des
+Verfahrens sind dem Beschwerdeführer die Gerichtskosten von pauschal
+Fr. 2'000.- aufzuerlegen, die mit dem von ihm bereits geleisteten
+Kostenvorschuss in gleicher Höhe zu verrechnen sind.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird abgewiesen, soweit darauf eingetreten wird.
+2.
+Die
+Gerichtskosten von Fr. 2'000.- werden dem Beschwerdeführer auferlegt und
+mit dem von ihm bereits geleisteten Kostenvorschuss in gleicher Höhe verrechnet.
+3.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
