@@ -1,0 +1,412 @@
+---
+decision_id: "gl_gerichte_VG.2018.00075"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2018.00075"
+docket_2: "VG.2018.704"
+decided: "2018-09-27"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=999&W10_KEY=218274&nTrefferzeile=10&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/210/art-301.md", "switzerland/bund/acts/210/art-307.md", "switzerland/bund/acts/210/art-308.md", "switzerland/bund/acts/210/art-450.md"]
+---
+
+# GL Gerichte VG.2018.00075
+
+## Regeste
+
+Fürsorge/Vormundschaftswesen
+
+## Text
+
+Glarus Verwaltungsgericht 27.09.2018 VG.2018.00075 (VG.2018.704)
+Glaris Verwaltungsgericht 27.09.2018 VG.2018.00075 (VG.2018.704)
+Glarona Verwaltungsgericht 27.09.2018 VG.2018.00075 (VG.2018.704)
+
+Fürsorge/Vormundschaftswesen
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+27. September 2018
+II. Kammer
+in Sachen
+VG.2018.00075
+A.______
+Beschwerdeführer
+B.______
+beide vertreten durch
+Rechtsanwalt
+C.______
+gegen
+Kindes- und Erwachsenenschutzbehörde
+Beschwerdegegnerin
+des Kantons Glarus
+betreffend
+Beistandschaft (D.______)
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Das […] der Gemeinde […] gelangte mit
+Gefährdungsmeldung vom 26. September 2017) an die Kindes- und
+Erwachsenenschutzbehörde (KESB) des Kantons Glarus. Darin beantragte es eine
+Prüfung kinderrechtlicher Schutzmassnahmen für die am […] geborene E.______
+und für den am […] geborenen D.______.
+1.2
+Die KESB beschloss am 29. Mai 2018 die Errichtung
+einer Beistandschaft für D.______ gemäss Art. 308 Abs. 1 und 2 des
+Schweizerischen Zivilgesetzbuchs vom 10. Dezember 1907 (ZGB). Der
+Beistandsperson wurden im Beschluss folgende Aufgaben übertragen: die
+Kindseltern bei der Betreuung von D.______ mit Rat und Tat zu unterstützen;
+regelmässige Gespräche mit D.______ zu führen; wenn nötig für D.______
+familienunterstützende Angebote aufzugleisen und für deren Finanzierung
+besorgt zu sein; Ansprechperson für involvierte Stellen zu sein und
+diesbezüglich als Zwischenglied zu fungieren; bei Bedarf für D.______
+therapeutische Unterstützung aufzugleisen sowie bei Bedarf für schulische
+Unterstützungsmöglichkeiten besorgt zu sein. Die Kindseltern wurden gemäss
+Art. 307 Abs. 3 ZGB angewiesen, therapeutische und schulische Unterstützung
+zuzulassen. Als Beistandsperson wurde […] ernannt. Einen entsprechenden
+Beschluss fasste die KESB gleichentags betreffend E.______ (vgl. Verfahren
+VG.2018.00074).
+2.
+2.1
+Die Eltern von D.______, A.______ und B.______,
+gelangten am 2. Juli 2018 mit Beschwerde ans Verwaltungsgericht und
+beantragten die Aufhebung des Beschlusses vom 29. Mai 2018; unter Kosten- und
+Entschädigungsfolgen zu Lasten der KESB. Am 23. Juli 2018 beantragten sie die
+Gewährung der unentgeltlichen Prozessführung und Rechtsverbeiständung.
+2.2
+Die KESB schloss am 22. August 2018 auf Abweisung
+der Beschwerde, soweit darauf einzutreten sei; alles unter Kosten- und Entschädigungsfolgen
+zu Lasten von A.______ und B.______.
+II.
+1.
+Das Verwaltungsgericht ist gemäss Art. 105 Abs. 1 lit. d
+des Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986 (VRG) i.V.m.
+Art. 450 Abs. 1
+ZGB i.V.m.
+Art. 67
+des Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuchs im
+Kanton Glarus vom 7. Mai 1911 (EG ZGB) zur Behandlung der vorliegenden Beschwerde
+zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt sind, ist auf
+die Beschwerde einzutreten.
+2.
+2.1
+Die Beschwerdeführer machen geltend, die
+Beschwerdegegnerin habe unverhältnismässig in ihre Privatsphäre eingegriffen.
+Die Frage der Kindererziehung sei grundsätzlich eine private Angelegenheit.
+Sie hätten das Gefühl, dass sie wegen ihrer Einstellung und ihrer resoluten
+Haltung ins Visier der Schule der Kinder gelangt seien. Mit der Strafanzeige
+des zuständigen Schulsozialarbeiters gegen den Beschwerdeführer 1 habe
+sich die Schule in eine Lage gebracht, aus welcher sie mit normalen Mitteln
+nicht mehr herauskomme. Die angeordnete Beistandschaft sei die logische Folge
+gewesen. Eine Kindesgefährdung sei bezüglich D.______ nicht ersichtlich. Der
+Bericht von Dr. med. F.______ zeige auf, dass sie, die
+Beschwerdeführer, Hilfe suchten, wenn sie mit ihrem Wissen an die Grenzen
+stossen. Die Meinungsverschiedenheiten zwischen dem Beschwerdeführer 1
+und der Schule hätten nichts mit dem Kindeswohl zu tun. Die
+Beschwerdegegnerin möchte sie zu einem gewissen Verhalten zwingen. So gehe
+beispielsweise aus den Erwägungen der angefochtenen Verfügung hervor, dass
+sich der Beistand um die Inanspruchnahme einer freiwilligen Beratung kümmern
+solle. Es stehe ihnen jedoch offen, eine solche wahrzunehmen, da es sich ja
+gerade um ein freiwilliges Angebot handle. Es sei nicht Aufgabe der
+Beschwerdegegnerin, ihnen das von ihr vorgesehene Idealbild der Kindererziehung
+aufzuzwingen.
+2.2
+Die Beschwerdegegnerin vertritt hingegen die
+Ansicht, die Anordnung der Beistandschaft sei verhältnismässig. Die
+Ausführungen von Dr. F.______ zeigten, dass die Beschwerdeführer die
+Problematik ihrer Kinder zwar sehen würden, jedoch nicht in der Lage bzw.
+gewillt seien, dass diese die entsprechende Hilfe und Unterstützung
+erhielten, was aufgrund der gesundheitlichen Folgen als Kindeswohlgefährdung
+einzustufen sei. Es treffe auch nicht zu, dass sie den Beschwerdeführern ein
+gewisses Verhalten aufzwingen wolle. Der Beistand habe lediglich den Auftrag,
+familienunterstützende Angebote und die therapeutische sowie schulische
+Unterstützung aufzugleisen, soweit diese notwendig seien. Dabei habe er zu
+überprüfen, ob diese erforderlich seien oder ob die Kinder im familiären
+Umfeld genügend Unterstützung erhielten. Die Anordnung einer Beistandschaft
+wegen Meinungsverschiedenheiten zwischen der Schule und den Kindseltern sei
+verhältnismässig, wenn das Kind in einen Loyalitätskonflikt gerate, was
+vorliegend der Fall sei. Aus dem E-Mail-Verkehr mit dem Schulleiter sei
+ersichtlich, dass D.______ auch nach der Beschlussfassung der KESB mehrere
+Fehltage aufweise. Sodann seien auf einer Prüfung von D.______ massiv
+grenzüberschreitende schriftliche Äusserungen vorgenommen worden.
+3.
+3.1
+Grundsätzlich tragen die Eltern die
+Hauptverantwortung für das Kind. Als Inhaber der elterlichen Sorge sind sie
+verpflichtet, für die Erhaltung, Förderung und Entwicklung des Kindes zu
+sorgen und es zu einer eigenverantwortlichen sowie gemeinschaftsfähigen
+Persönlichkeit zu erziehen (vgl. Art. 301 Abs. 1 ZGB). Erst wenn das Wohl des
+Kindes gefährdet ist und sie nicht selber Abhilfe schaffen, hat die
+Kindesschutzbehörde Massnahmen zu dessen Schutz zu treffen (Art. 307 Abs. 1
+ZGB).
+Dabei kann sie laut Art. 307 Abs. 3 ZGB insbesondere die Eltern,
+die Pflegeeltern oder das Kind ermahnen, ihnen bestimmte Weisungen für die
+Pflege, Erziehung oder Ausbildung erteilen und eine geeignete Person oder
+Stelle bestimmen, der Einblick und Auskunft zu geben ist. Erfordern es die
+Verhältnisse, ernennt die Kindesschutzbehörde nach Art. 308 Abs. 1
+ZGB dem Kind einen Beistand, der die Eltern in ihrer Sorge um das Kind mit
+Rat und Tat unterstützt. Sie kann dem Beistand gemäss Art. 308 Abs. 2 ZGB
+besondere Befugnisse übertragen, namentlich die Vertretung des Kindes bei der
+Feststellung der Vaterschaft, bei der Wahrung seines Unterhaltsanspruches und
+anderer Rechte und die Überwachung des persönlichen Verkehrs. Die elterliche
+Sorge kann nach Art. 308 Abs. 3 ZGB entsprechend beschränkt werden.
+3.2
+Eine Gefährdung des Kindeswohls wird dann
+angenommen, wenn nach den Umständen die ernstliche Möglichkeit einer
+Beeinträchtigung des Kindeswohls vorauszusehen ist. Es kann sich dabei um
+körperliche oder psychische Gefährdungen oder Kombinationen zwischen den
+beiden Arten handeln. Ein Verschulden der Eltern ist nicht notwendig und die
+Gefahr muss nicht direkt von ihnen ausgehen. Es genügt, wenn sie das Kind
+nicht ausreichend schützen können. Aus der fehlenden Kooperationsbereitschaft
+der Eltern darf aber nicht direkt und ohne Weiteres auf die Gefährdung des
+Kindes geschlossen werden. Kindesschutzmassnahmen sollen präventiv wirken. Es
+ist deshalb nicht erforderlich, dass sich die ernstliche Möglichkeit einer
+Beeinträchtigung schon verwirklicht hat (Linus Cantieni/Stefan Blum, in
+Christiana Fountoulakis et al. [Hrsg.], Fachhandbuch Kindes- und
+Erwachsenenschutzrecht, Zürich/Basel/Genf 2016, Rz. 15.10 f.).
+3.3
+Die Behörde, die Kindesschutzmassnahmen anordnet,
+verfügt über ein grosses Ermessen. Die Anordnung der geeigneten Massnahme
+setzt in einem gewissen Ausmass die Prognose über die künftige Entwicklung
+der massgebenden Umstände vor-aus. Es ist die sachlich richtige Massnahme
+nicht aufgrund bloss juristischer Klassifikation, sondern unter Würdigung der
+im Einzelfall bestimmenden sozialen, medizinischen und
+erziehungswissenschaftlichen Gesichtspunkten anzuordnen. Ob Weisungen genügen
+oder ob eine Beistandschaft anzuordnen ist, hängt von der Intensität der
+Gefährdung, vor allem aber auch von der Kooperationsbereitschaft der
+Angesprochenen ab (BGer-Urteil 5A_156/2016 vom 12. Mai 2017 E. 4.2). Das
+Verwaltungsgericht prüft zwar auch die Angemessenheit der angeordneten
+Kindesschutzmassnahme (Art. 107 Abs. 2 lit. f VRG). Es setzt aber nicht
+ohne Not sein Ermessen anstelle desjenigen der Beschwerdegegnerin.
+4.
+4.1
+In der Gefährdungsmeldung vom 26. September
+2017 führte das
+[…] der Gemeinde […] aus, die
+Zusammenarbeit mit dem Beschwerdeführer 1 sei sehr schwierig. Die
+letzten Kontakte seien von Misstrauen und Drohungen gegenüber den beteiligten
+Personen geprägt gewesen. D.______ komme häufig mit schmutzigen und auch
+zerrissenen Kleidern zur Schule. Der Beschwerdeführer 1 sei auf diesen
+Umstand am Elterngespräch im Schuljahr 2016/17 hingewiesen worden, was
+allerdings nicht zu einer Besserung geführt habe. D.______ stinke zudem
+enorm. Am 14. September 2017 habe er eine Beule am Kopf gehabt, wobei er
+zugegeben habe, dass diese von einem Schlag seiner Mutter stamme. D.______
+habe Mühe, sich länger als zehn Minuten auf den Unterricht zu konzentrieren.
+Danach beginne er den Unterricht zu stören. Die Hausaufgaben erledige er nur
+selten. Er zeige durch seine hyperaktive Impulsivität oft ein aggressives
+Verhalten. Die Klassenlehrerin habe ihn beim Schulpsychologischen Dienst
+(SPD) angemeldet. Die Einladung des SPD habe zu einer Eskalation geführt, bei
+welchem der Beschwerdeführer 1 anlässlich eines Elternabends gegenüber
+dem Schulsozialarbeiter gesagt habe, er löse solche Probleme mit dem Messer.
+Die Polizei sei am gleichen Abend über den Vorfall informiert und der
+Beschwerdeführer 1 über Nacht in Untersuchungshaft genommen worden. Die
+Termine beim SPD hätten die Beschwerdeführer nicht wahrgenommen.
+4.2
+Aus der Auswertung des Lehrerfragebogens über das
+Verhalten von Kindern und Jugendlichen ergibt sich, dass die Kriterien
+"Sozialer Rückzug" und "Soziale Probleme" bei D.______ im
+auffälligen Bereich sind. Im Grenzbereich ist zudem das Kriterium "Aufmerksamkeitsstörung".
+4.3
+D.______ meldete sich mehrmals selber
+krankheitshalber von der Schule ab. Teilweise fehlte er in der Schule auch
+unentschuldigt, so beispielsweise bei durch die Schule geplanten Ausflügen.
+Anscheinend wurde er während seinen Abwesenheiten auch schon auf dem
+Spielplatz oder im Schwimmbad gesehen.
+4.4
+Dr. F.______ äusserte sich am 20. April 2018
+zum Einnässen von D.______. Dieses sei wahrscheinlich stressbedingt. Im
+September 2017 sei ein Therapieversuch erfolgt, welcher aber wegen Compliance
+Problemen abgebrochen habe werden müssen. Schon im Jahr 2013 war zudem
+erkennbar, dass die Zähne von D.______ kaputt sind (vgl. Polizeirapport vom
+19. Dezember 2013), wobei eine Zahnbehandlung offenbar nicht erfolgte. Die
+schlechte Zahngesundheit fiel auch der Klassenlehrerin auf. Die
+Beschwerdeführer hätten jedoch bei einer Umfrage, bei welcher es um einen
+möglichen Zahnarztbesuch gegangen sei, "nein" angekreuzt.
+4.5
+Widersprüchlich sind die Aussagen von D.______ zu
+möglichen Schlägen. Die Klassenlehrerin führte am 16. Januar 2018 (recte:
+2017) aus, D.______ habe ihr mitgeteilt, dass er häufig von seiner Mutter
+geschlagen werde. Am 14. September 2017 gab er an, dass eine Beule am
+Kopf von einem Schlag seiner Mutter stamme. Am 21. Februar 2018
+widerrief er die Aussage, dass er von seinen Eltern geschlagen werde.
+4.6
+Die Beschwerdeführer nahmen die Termine beim SPD
+nicht wahr. Die Beschwerdegegnerin lud die Beschwerdeführer nach Eingang der
+Gefährdungsmeldung zu einem Gespräch am 17. Oktober 2017 vor. Nachdem der
+Termin nicht wahrgenommen worden war, erfolgte gleichentags ein
+unangekündigter Hausbesuch. Angetroffen wurde dabei nur die
+Beschwerdeführerin 2, welche auf den Beschwerdeführer 1 verwies.
+Abgemacht wurde, dass das Gespräch am Abend im Beisein des Beschwerdeführers 1
+stattfinde. Die Beschwerdegegnerin traf zur abgemachten Zeit aber niemanden
+an. Ein erstes Gespräch mit D.______ und den Beschwerdeführern konnte dann am
+24. November 2017 durchgeführt werden. Der Beschwerdeführer 1 äusserte sich
+im Wesentlichen dahingehend, dass die Schule ein Problem mit ihm habe. Die
+Lehrkräfte seien dort schnell überfordert. Er benötige keine Hilfe, sondern
+kümmere sich selbst und alleine um seinen Sohn. In einem weiteren Gespräch
+vom 10. Januar 2018 führte der Beschwerdeführer 1 aus, das
+Einnässen von D.______ sei erblich bedingt. Die Kindsmutter vertrat in einem
+Gespräch vom 18. Januar 2018 die Auffassung, ihr Sohn werde in der Schule
+nicht richtig unterstützt und sei daher gezwungen, schwach zu bleiben. Die Vorwürfe
+betreffend Schlagen der Kinder würden nicht zutreffen. Die Beule am Kopf von
+D.______ stamme von einem Kollegen, nicht von ihr. Die Hausaufgaben seien
+häufig nicht gemacht, weil ihre Kinder sehr viel mit Tablets spielen würden.
+In einem weiteren Gespräch vom 27. Februar 2018 äusserte sich der
+Beschwerdeführer 1 erneut dahingehend, dass alles bestens sei.
+4.7
+Gegenüber der Schule kommunizierte der
+Beschwerdeführer 1 vornehmlich schriftlich. Dabei fallen insbesondere
+unflätige Kommentare auf Prüfungen auf. Die Lehrpersonen sehen sich
+mittlerweile ausserstande, mit den Beschwerdeführern direkt mündlich zu
+diskutieren. So getraue sich niemand mehr, ein Elterngespräch durchzuführen.
+5.
+5.1
+Entgegen der Auffassung der Beschwerdeführer sind
+Probleme, welche für die Entwicklung von D.______ hinderlich sind, klar zu
+erkennen. So fallen beispielsweise seine Schulabsenzen, das Einnässen, die
+schlechten Zähne, das Besuchen der Schule im schmutzigen Zustand mit
+verdreckten oder kaputten Kleidern, aber auch ein übermässiger Konsum
+digitaler Medien zu Lasten der Hausaufgaben auf. Damit verbunden lassen sich
+gemäss der Auswertung des Lehrerfragebogens auf "soziale Probleme"
+bzw. auf einen "sozialen Rückzug" schliessen.
+5.2
+Zwar obliegt die Erziehung der Kinder in erster
+Linie den Eltern, die Schule fördert aber gemäss Art. 2 Abs. 2 des Gesetzes
+über Schule und Bildung vom 6. Mai 2001 (BiG) zusammen mit den
+Erziehungsberechtigten die geistig-seelische, die soziale und körperliche
+Entwicklung der Lernenden. Die Erziehungsberechtigten sind zudem
+verpflichtet, ihr Kind regelmässig in die Schule zu schicken und zur
+Einhaltung von schulischen Anordnungen anzuhalten (Art. 56 Abs. 1 BiG).
+Vorliegend ist es
+offensichtlich, dass die Kommunikation zwischen den Beschwerdeführern und der
+Schule gestört ist. Namentlich der Beschwerdeführer scheint dabei die
+Bedeutung der Schule zu verkennen, indem er jegliches Problem negiert und
+Hinweise bzw. Hilfsangebote der Schule kategorisch ablehnt.
+Dies zeitigt verschiedene
+nachteilige Folgen für die Entwicklung von D.______. Einerseits besteht die
+Gefahr eines Loyalitätskonflikts zwischen Schule und Elternhaus, was sich
+unter anderem in seinen widersprüchlichen Angaben zu den Schlägen, welchen er
+von der Mutter erhalten haben soll, zeigt. Andererseits kann so seinen
+Absenzen und seinem weiteren Fehlverhalten wie beispielsweise den häufig
+fehlenden Hausaufgaben nur schwer entgegengewirkt werden.
+5.3
+Sodann begegnen die Beschwerdeführer den
+gesundheitlichen Problemen von D.______ nicht adäquat. Wegen des Einnässens
+besuchten sie zwar Dr. F.______, ein Therapieversuch musste aber wegen
+fehlender Compliance abgebrochen werden. Letztlich wird das Problem als
+erblich bedingt verharmlost. Weiter fiel die schlechte Gesundheit der Zähne
+von D.______ verschiedenen Personen auf. Einen Zahnarztbesuch lehnten die
+Eltern aber ab.
+5.4
+Wie dargelegt (vgl. E. II/3.2) sind
+Kindesschutzmassnahmen bereits dann zu treffen, wenn die
+ernstliche
+Möglichkeit einer Beeinträchtigung des Kindeswohls vorauszusehen ist. Dies
+ist vorliegend der Fall. Soziale Probleme in der Schule sind unverkennbar.
+Die häufigen Absenzen geben ebenso wie das Einnässen bei einem bald
+[…]
+-jährigen Kind Anlass zur Sorge. Dabei
+fällt besonders ins Gewicht, dass die Beschwerdeführer die Probleme negieren
+und eine Kooperation mit der Schule und mit Behörden ablehnen. Unerheblich
+ist dabei, worauf dies zurückzuführen ist und inwiefern der Vorfall mit der
+Strafanzeige gegen den Beschwerdeführer 1 zum Misstrauen gegenüber
+Institutionen beigetragen hat. Massgeblich ist einzig, dass bei einer
+Aufrechterhaltung des bestehenden Zustands ernstliche Folgen für die
+Entwicklung von D.______ zu befürchten sind.
+5.5
+Damit ist die Notwendigkeit von
+Kindesschutzmassnahmen ausgewiesen. Eine mildere Massnahme als die
+Beistandschaft ist nicht ersichtlich. Namentlich genügen Weisungen aufgrund
+der fehlenden Kooperationsbereitschaft der Beschwerdeführer nicht. Wesentlich
+und zielbringend dürfte dabei insbesondere sein, dass mit dem Beistand eine
+vermittelnde Person zwischen Schule und Elternhaus zur Verfügung steht. Auch
+ist es wichtig, dass D.______ ausserhalb seiner Familie und der Schule eine
+Ansprechperson hat, welcher er seine Probleme schildern kann. Schliesslich
+ist es auch notwendig, dass der Beistand bei Bedarf externe fachliche
+Unterstützung für D.______ besorgen kann, hat es sich doch gezeigt, dass die
+Beschwerdeführer Probleme eher negieren, als für Abhilfe zu sorgen. In diesem
+Zusammenhang erweist sich auch die Weisung an die Beschwerdeführer,
+therapeutische und schulische Unterstützung zuzulassen, als notwendig.
+6.
+Zusammenfassend ergibt sich, dass die Beschwerdegegnerin
+den Beschwerdeführern nicht bestimmte Erziehungsvorstellungen aufzwingen
+will, sondern eine ernsthafte Gefahr für die künftige Entwicklung von
+D.______ besteht, welche das Ergreifen von Kindesschutzmassnahmen notwendig
+erscheinen lässt. Der Beschluss der Beschwerdegegnerin erweist sich als
+verhältnismässig, da mit milderen Massnahmen die drohende
+Kindeswohlgefährdung nicht abgewendet werden könnte.
+Dies führt zur Abweisung der Beschwerde.
+III.
+1.
+1.1
+Die Beschwerdeführer beantragen die Gewährung der
+unentgeltlichen Prozessführung und der unentgeltlichen Rechtsverbeiständung.
+Gemäss Art. 139 Abs. 1 VRG befreit die Behörde eine Partei, der die
+Mittel fehlen, um neben dem Lebensunterhalt für sich und ihre Familie die
+Verfahrenskosten aufzubringen, auf Gesuch hin ganz oder teilweise von der
+Kosten- und Vorschusspflicht, sofern das Verfahren nicht aussichtslos ist.
+Unter denselben Voraussetzungen weist sie der Partei auf Gesuch hin oder von
+Amtes wegen einen Anwalt als Rechtsbeistand zu, falls ein solcher für die
+gehörige Interessenwahrung erforderlich ist (Art. 139 Abs. 2 VRG). Der
+Nachweis der Bedürftigkeit obliegt nach Art. 139 Abs. 3 VRG der gesuchstellenden
+Partei.
+1.2
+Die
+Mittellosigkeit der Beschwerdeführer ergibt sich ohne Weiteres aus den Akten.
+Zudem kann das vorliegende Verfahren nicht als aussichtslos bezeichnet
+werden. Folglich ist das Gesuch um unentgeltliche Prozessführung
+gutzuheissen. Da die Beschwerdeführer für das Verfahren auf eine rechtliche
+Vertretung angewesen waren, ist auch ihr Gesuch um unentgeltliche
+Rechtsverbeiständung gutzuheissen und ihnen ist in der Person von
+Rechtsanwalt C.______ ein unentgeltlicher Rechtsbeistand zu bestellen.
+Letzterer ist mit pauschal Fr. 750.- (inkl. Auslagen und Mehrwertsteuer) zu
+entschädigen.
+2.
+Nach Art. 134 Abs. 1 lit.
+c IVG hat die Partei, welche im Beschwerdeverfahren unterliegt, die amtlichen
+Kosten zu tragen. Entsprechend dem Ausgang des Verfahrens sind die
+Gerichtskosten von pauschal Fr. 750.- den Beschwerdeführern aufzuerlegen. Auf
+deren Erhebung ist indessen zufolge Gewährung der unentgeltlichen
+Prozessführung einstweilen zu verzichten. Die Beschwerdeführer sind darauf
+hinzuweisen, dass eine Partei, der die unentgeltliche Rechtspflege bewilligt
+worden ist, für den Fall, dass sie später in günstige wirtschaftliche
+Verhältnisse gelangt, zur Nachzahlung der Verfahrenskosten verpflichtet
+werden kann (Art. 139a VRG). Ausgangsgemäss ist den Beschwerdeführern keine
+Parteientschädigung zuzusprechen (Art. 138 Abs. 3 VRG e contrario).
+Mangels Vorliegens besonderer Umstände steht eine solche auch der
+Beschwerdegegnerin nicht zu (Art. 138 Abs. 4 VRG).
+Demgemäss beschliesst die Kammer
+:
+1.
+Die
+Gesuche der Beschwerdeführer um Gewährung der unentgeltlichen Prozessführung
+und der unentgeltlichen Rechtsverbeiständung werden gutgeheissen. Ihnen
+wird in der Person von Rechtsanwalt C.______ ein unentgeltlicher
+Rechtsbeistand bestellt.
+2.
+Der
+Rechtsbeistand wird zu Lasten der Gerichtskasse mit Fr. 750.- (inkl.
+Auslagen und Mehrwertsteuer) entschädigt.
+3.
+Die
+Nachzahlungspflicht gemäss Art. 139a VRG bleibt vorbehalten.
+4.
+Die
+Gerichtskasse wird beauftragt, spätestens im September 2023 zu prüfen, ob
+die Voraussetzungen für die Nachzahlung erfüllt sind.
+und erkennt sodann:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Den
+Beschwerdeführern werden die Gerichtskosten von Fr. 750.- auferlegt, auf deren
+Erhebung einstweilen verzichtet wird.
+3.
+Es
+werden keine Parteientschädigungen zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
