@@ -1,0 +1,345 @@
+---
+decision_id: "gl_gerichte_VG.2018.00076"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2018.00076"
+docket_2: "VG.2018.702"
+decided: "2018-10-04"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=997&W10_KEY=218274&nTrefferzeile=9&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/834.1/art-001.md", "switzerland/bund/acts/834.1/art-011.md", "switzerland/bund/acts/834.1/art-016b.md", "switzerland/bund/acts/834.1/art-016c.md", "switzerland/bund/acts/834.1/art-016e.md", "switzerland/bund/acts/834.11/art-007.md", "switzerland/bund/acts/834.11/art-008.md"]
+---
+
+# GL Gerichte VG.2018.00076
+
+## Regeste
+
+Sozialversicherung - Erwerbsausfallentschädigung
+
+## Text
+
+Glarus Verwaltungsgericht 04.10.2018 VG.2018.00076 (VG.2018.702)
+Glaris Verwaltungsgericht 04.10.2018 VG.2018.00076 (VG.2018.702)
+Glarona Verwaltungsgericht 04.10.2018 VG.2018.00076 (VG.2018.702)
+
+Sozialversicherung - Erwerbsausfallentschädigung
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+4. Oktober 2018
+I. Kammer
+in Sachen
+VG.2018.00076
+A.______
+Beschwerdeführerin
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+Familienausgleichskasse des Kantons Glarus
+Beschwerdegegnerin
+betreffend
+Mutterschaftsentschädigung
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+A.______ ist seit dem 1. Mai 2014 bei der
+Familienausgleichskasse des Kantons Glarus (FAK) als Selbständigerwerbende
+angeschlossen. Seither entrichtet sie der FAK Beiträge für
+Selbständigerwerbende.
+1.2
+Am 11. Juli 2015 wurde A.______ Mutter von
+C.______. In der Folge meldete sie sich am 31. August 2016 bei der FAK zum
+Bezug einer Mutterschaftsentschädigung an. Am 13. September 2016 setzte
+die FAK die Mutterschaftsentschädigung provisorisch auf Fr. 3'718.10
+fest. Nach Eingang der Steuermeldung des Steuerjahrs 2015 erliess die FAK am
+30. November 2016 eine Nachtragsverfügung, mit welcher sie die
+Mutterschaftsentschädigung auf Fr. 2'191.20 definitiv festsetze. Mit
+Schreiben vom 28. April 2017 forderte die FAK A.______ auf, ihr Fr.
+1'784.70 aufgrund zu viel ausbezahlter Mutterschaftsentschädigung
+zurückzubezahlen.
+1.3
+Nach Ausstellung zweier Erläuterungsschreiben
+betreffend die Berechnungsgrundlagen verfügte die FAK am 1. September 2017
+die vorerwähnte Rückerstattung. Die dagegen erhobene Einsprache vom 2.
+Oktober 2017 wies die FAK am 7. Juni 2018 ab.
+2.
+Dagegen gelangte A.______
+am 6. Juli 2018 ans Verwaltungsgericht und beantragte, der
+Einspracheentscheid vom 7. Juni 2018 und die Verfügung vom 1. September
+2017 seien vollumfänglich aufzuheben, eventualiter sei die Angelegenheit
+zwecks Vornahme weiterer Abklärungen an die Vorinstanz zurückzuweisen; alles
+unter gesetzlicher Kosten- und Entschädigungsfolgen. Die FAK beantragte am
+10. September 2018 die vollumfängliche Abweisung der Beschwerde.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 24 Abs. 1 des Bundesgesetzes über den Erwerbsersatz für
+Dienstleistende und bei Mutterschaft vom 25. September 1952 (EOG) zur
+Behandlung der vorliegenden Beschwerde zuständig. Da auch die übrigen
+Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde einzutreten.
+2.
+2.1
+Nach Art. 16b Abs. 1 EOG hat eine Frau unter
+anderem dann Anspruch auf die Entrichtung einer Mutterschaftsentschädigung,
+wenn sie während neun Monaten unmittelbar vor der Niederkunft im Sinne des
+Bundesgesetzes über die Alters- und Hinterlassenenversicherung vom 20.
+Dezember 1946 (AHVG) obligatorisch versichert war (lit. a), in dieser Zeit
+mindestens fünf Monate lang eine Erwerbstätigkeit ausgeübt hat (lit. b) und
+im Zeitpunkt der Niederkunft Selbständigerwerbende im Sinne von Art. 12 des
+Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts vom
+6. Oktober 2000 (ATSG) ist (lit. c).
+2.2
+Die Mutterschaftsentschädigung wird als Taggeld
+ausgerichtet (Art. 16e Abs. 1 EOG). Das Taggeld beträgt 80 Prozent des
+durchschnittlichen Erwerbseinkommens, welches vor Beginn des Entschädigungsanspruchs
+erzielt wurde. Für die Ermittlung dieses Einkommens ist Art. 11 Abs. 1 EOG
+sinngemäss anwendbar (Art. 16e Abs. 2 EOG), welcher die Berechnung der
+Entschädigung für den Erwerbsausfall von Dienstleistenden regelt. Gemäss
+dieser Bestimmung bildet Grundlage für die Ermittlung des durchschnittlichen
+vordienstlichen Erwerbseinkommens das Einkommen, von dem Beiträge nach dem
+AHVG erhoben werden. Die Berechnung der Entschädigung für selbständig
+erwerbende Mütter richtet sich gemäss Art. 32 der Verordnung zum
+Erwerbsersatzgesetz vom 24. November 2004 (EOV) sinngemäss nach dem für
+selbständig erwerbende Dienstleistende geltenden Art. 7 Abs. 1 EOV. Dieser
+besagt, dass die Entschädigung auf Grund des auf den Tag umgerechneten
+Erwerbseinkommens, das für den letzten vor dem Einrücken verfügten
+AHV-Beitrag massgebend war, berechnet wird. Wird für das Jahr der
+Dienstleistung später ein anderer AHV-Beitrag verfügt, so kann die
+Neuberechnung verlangt werden.
+2.3
+Ausgangspunkt für die Bemessung des Taggeldes ist
+das durchschnittliche Erwerbseinkommen, das die Mutter vor Beginn des
+Entschädigungsanspruchs erzielt hat. Der Beginn der
+Mutterschaftsentschädigung ist in der Regel der Tag der Niederkunft
+(vgl. Art. 16c Abs. 1 EOG), das heisst von diesem Tag an muss
+zurückgeschaut werden, um das durchschnittlich erzielte Einkommen zu
+bestimmen. Bei selbständiger Erwerbstätigkeit wird in der Regel auf das
+Einkommen im Kalenderjahr vor dem Geburtsjahr abgestellt (Sabine
+Steiger-Sackmann, in Sabine Steiger-Sackmann/Hans-Jakob Mosimann [Hrsg.],
+Handbücher für die Anwaltspraxis, Bd. XI, Recht der Sozialen Sicherheit,
+Basel 2014, § 32 N. 32.50 ff.; Pascal Mahon/Fanny Matthey, in Ulrich Meyer
+[Hrsg.], Schweizerisches Bundesverwaltungsrecht, Soziale Sicherheit, Bd. XIV,
+3. A., Basel 2016, J. Rz. 36, mit Hinweisen). Auf Wunsch der
+Frau kann auf das Einkommen des Geburtsjahres abgestellt werden. Dabei dürfen
+aber nur Einkommen, die vor der Geburt erwirtschaftet worden sind, beigezogen
+werden. Wurde das Einkommen in weniger als einem Jahr erzielt, erfolgt die
+Umrechnung des Einkommens auf den Tag entsprechend der Erwerbsdauer (Rz.
+1089.2 und 1089.5 des Kreisschreibens über die Mutterschaftsentschädigung vom
+1. Juli 2005, Stand 1. Januar 2014 [KS MSE]).
+2.4
+Für die definitive Festsetzung der
+Mutterschaftsentschädigung ist ausschliesslich das vor dem versicherten
+Ereignis (in casu die Geburt des Kindes) und nicht das danach erzielte
+Erwerbseinkommen massgebend. Andernfalls würde eine Selbständigerwerbende,
+die am Anfang des Jahres niederkommt und die vielleicht überdies plant, über
+die versicherte Zeitspanne hinaus zu Hause zu bleiben und sich um das Kind zu
+kümmern, riskieren, sich mit einer erheblichen Herabsetzung - wenn nicht gar
+mit einer Verweigerung der Entschädigung (im Falle, dass die Mutter sich eine
+Pause von einem Jahr nehmen würde) - konfrontiert sehen, obwohl sie bis zum
+Zeitpunkt des versicherten Ereignisses normal gearbeitet hat. Allerdings
+erscheint der Wortlaut von Art. 7 Abs. 1 EOV nicht ganz eindeutig. Insbesondere
+ist es nicht ganz klar, ob unter "dem Einkommen, das für den letzten
+verfügten AHV-Beitrag massgebend war", das Beitragsjahr vor der
+Niederkunft oder das Beitragsjahr der Niederkunft verstanden werden muss.
+Eine gesetzes- und verfassungskonforme Auslegung diesbezüglich ist aber ohne
+Weiteres möglich, solange, wie im Gesetz vorgeschrieben, ausschliesslich das
+vor der Geburt erzielte Erwerbseinkommen berücksichtigt wird. So kann die
+Verwaltung je nach den im konkreten Fall zu prüfenden Umständen frei
+bestimmen, ob zum Beispiel das in dem der Geburt vorausgegangenen Jahr
+erzielte Einkommen oder das auf zwölf Monate hochgerechnete Einkommen,
+welches im Jahr der Niederkunft erzielt worden ist, berücksichtigt werden
+soll (BGE 133 V 431 E. 6.1 und 6.2 = Pra 2008 Nr. 99).
+3.
+3.1
+Die Beschwerdeführerin weist daraufhin, dass sie
+neben ihrer selbständigen Erwerbstätigkeit auch eine unselbständige Tätigkeit
+ausübe. Das dabei erzielte Einkommen sei in die Berechnung der
+Mutterschaftsentschädigung miteinzubeziehen, was bisher nicht geschehen sei.
+Sie macht weiter geltend, dass die Mutterschaftsentschädigung gestützt auf
+das vorgeburtliche Einkommen zu berechnen sei, weshalb das (fehlende)
+Einkommen während und nach dem Mutterschaftsurlaub nicht in die Berechnung
+miteinzubeziehen sei. Folglich hätte die Mutterschaftsentschädigung nicht
+gestützt auf die definitive Steuermeldung des Jahres 2015 errechnet werden
+dürfen. Stattdessen hätte entweder auf das Veranlagungsjahr 2014 oder auf das
+während eines Jahres vor der Niederkunft erzielte Einkommen oder auf das
+vorgeburtlich im Jahr 2015 erzielte und auf das ganze Jahr 2015
+hochgerechnete Einkommen abgestellt werden müssen. Indem die
+Beschwerdegegnerin auf das im ganzen Jahr 2015 aus selbständiger
+Erwerbstätigkeit erzielte Einkommen abstelle, verstosse sie gegen die
+Vorgabe, dass ausschliesslich vorgeburtliches Einkommen der Berechnung der
+Mutterschaftsentschädigung zugrunde zu legen sei. Nicht bestritten werde,
+dass ihr eine Rückerstattungspflicht obliege, sollte ihr tats.hlich eine zu
+hohe Mutterschaftsentschädigung ausbezahlt worden sein.
+3.2
+Die Beschwerdegegnerin bringt hingegen vor, dass
+nach Art. 22 Abs. 2 der Verordnung über die Alters- und
+Hinterlassenenversicherung vom 31. Oktober 1947 (AHVV) als Beitragsjahr das
+Kalenderjahr gelte, weshalb für die Berechnung der Mutterschaftsentschädigung
+immer auf die definitive Steuermeldung, vorliegend die Steuermeldung des
+Jahrs 2015, abzustellen sei. Nach Bekanntgabe der Niederkunft der
+Beschwerdeführerin sei im Rahmen der provisorischen Berechnung der
+Mutterschaftsentschädigung das auf einer Selbstangabe der Beschwerdeführerin
+beruhende provisorische Einkommen der Beschwerdeführerin um die Hälfte auf
+Fr. 17'750.- reduziert worden. Dies mit dem Zweck, allfällige hohe
+Rückforderungen zu vermeiden. Aufgrund einer Gesetzesänderung sei sie eben
+verpflichtet, eine Rückforderung geltend zu machen, wenn das AHV-pflichtige
+Einkommen aufgrund der definitiven Steuermeldung nachträglich tiefer
+ausfalle. Damit habe sie die Rückerstattung rechtmässig geltend gemacht.
+Anzumerken sei, dass die Beschwerdeführerin im vorinstanzlichen Verfahren
+nicht ausgeführt habe, neben der selbständigen Erwerbstätigkeit auch
+unselbständig tätig gewesen zu sein, was eine Verletzung der ihr obliegenden
+Meldepflicht darstelle. Sollte die Beschwerdeführerin ihre unselbständige
+Tätigkeit nachträglich zusammen mit den benötigten Belegen anmelden, werde
+sie jedoch eine Nachzahlung der Mutterschaftsentschädigung prüfen und
+allenfalls vornehmen.
+4.
+Entgegen den Ausführungen
+der Beschwerdegegnerin hat sie das der Berechnung der
+Mutterschaftsentschädigung zugrunde gelegte Einkommen nicht in sachlich
+richtiger Weise festgesetzt.
+4.1
+Die Beschwerdeführerin weist zu Recht darauf hin,
+dass der Berechnung der Mutterschaftsentschädigung nur vorgeburtliches
+Einkommen zugrunde zu legen ist. Entsprechend ordnet Art. 16e Abs. 2 EOG an,
+dass für die Berechnung des Entschädigungsanspruchs das vor dem Beginn des
+Entschädigungsanspruchs erzielte Erwerbseinkommen massgebend ist. Da der
+Anspruch auf die Entrichtung der Mutterschaftsentschädigung mit der
+Niederkunft entsteht (Art. 16c Abs. 1 EOG), kann somit einzig vorgeburtliches
+Einkommen für die Berechnung der Mutterschaftsentschädigung herangezogen
+werden.
+Würde hingegen, wie dies
+die Beschwerdegegnerin geltend macht, bei selbständig erwerbenden Müttern
+immer das Kalenderjahr der Geburt des Kindes der Berechnung der
+Mutterschaftsentschädigung zugrunde gelegt, würde zum einen jeweils die Dauer
+des Mutterschaftsurlaubs, in welchem die Mutter nicht zu arbeiten hat, in die
+Berechnung miteinbezogen, was die Mutterschaftsentschädigung generell kürzen
+würde. Überdies müsste bei dieser Festsetzung der Mutterschaftsentschädigung
+die errechnete Mutterschaftsentschädigung als solche in die Berechnung
+miteinbezogen werden, da diese im Berechnungsjahr anfallendes Ersatzeinkommen
+für die Dauer des Mutterschaftsurlaubes darstellt. Eine solche Vorgehensweise
+wäre als nicht zielführend zu bezeichnen. Weiter würde bei einem solchen Vorgehen
+auch die nach der Beendigung des Mutterschaftsurlaubs allenfalls reduzierte
+Arbeitstätigkeit und damit einherkommend der reduzierte Verdienst im Rahmen
+der Berechnung der Mutterschaftsentschädigung berücksichtigt. Da insbesondere
+selbständig erwerbstätige Frauen ihre Arbeitstätigkeit nach der Geburt eines
+Kindes aufgrund der für das Kind anfallenden Betreuungsarbeiten vermehrt
+massgeblich reduzieren, würde dies zu einer sachlich nicht gerechtfertigten
+Ungleichbehandlung von selbständig- und unselbständig erwerbstätigen Müttern
+führen. Daraus erhellt, dass für die Berechnung der
+Mutterschaftsentschädigung nicht auf nach der Geburt erzieltes Einkommen und
+damit nicht auf das im Geburtsjahr erzielte Einkommen abzustellen ist,
+sondern nur der vorgeburtliche Verdienst massgebend sein kann. In diesem
+Zusammenhang ist darauf hinzuweisen, dass auch betreffend die Frage, ob die
+Voraussetzungen für die Entrichtung der Mutterschaftsentschädigung vorliegen,
+einzig der Zeitpunkt der Geburt des Kindes massgebend ist. Dabei wird nicht
+verlangt, dass die Mutter nach der Geburt des Kindes ihre Arbeitstätigkeit
+wieder aufnimmt (BGE 133 V 73 E. 4.1 = Pra 2008 Nr. 10). Damit wird auch hier
+an vorgeburtliche Umstände angeknüpft, was sachrichtig ist.
+Der Einwand der Beschwerdegegnerin,
+dass nach Art. 22 Abs. 1 und 2 AHVV bei selbständig Erwerbenden für die
+Berechnung der Beiträge immer das Kalenderjahr massgebend sei, zielt dabei
+ins Leere. Richtig ist, dass die Beschwerdegegnerin für die Berechnung der
+ihr zu entrichtenden Beiträge auf das Kalenderjahr abzustellen hat. Damit
+wird aber die Frage der Berechnung der an die Beschwerdegegnerin zu
+entrichtenden Beiträge und nicht die Frage der Berechnung der
+Mutterschaftsentschädigung geregelt. Somit kann aus Art. 22 Abs. 1 und 2 AHVV
+nicht entgegen dem Wortlaut von Art. 16e Abs. 2 EOG, welcher das vor dem
+Beginn des Entschädigungsanspruchs erzielte Erwerbseinkommen als massgebend
+bezeichnet, geschlossen werden, bei selbständig erwerbenden Frauen sei dies
+das Kalenderjahr der Niederkunft. Stattdessen ist für die Berechnung der
+Mutterschaftsentschädigung entsprechend den einschlägigen Rechtsgrundlagen
+und der darauf ergangenen Rechtsprechung einzig auf das vorgeburtliche
+Einkommen abzustellen (vgl. E. II/2 vorne).
+4.2
+Das von der Beschwerdegegnerin der Berechnung der
+Mutterschaftsentschädigung zugrunde gelegte definitive Einkommen des
+Steuerjahrs 2015 stellt das von der Beschwerdeführerin im ganzen Geburtsjahr
+des Kindes erzielte Einkommen dar. Damit wird nicht nur vorgeburtliches Einkommen
+der Berechnung der Mutterschaftsentschädigung zugrunde gelegt, was nach dem
+Dargelegten unzulässig ist, womit die Beschwerdeführerin sich zu Recht gegen
+die vorinstanzliche Rückerstattungsverfügung wehrt.
+Auch die
+Beschwerdeführerin anerkennt, dass sie einer Rückerstattungspflicht
+unterliegt, sollte ihr eine zu hohe Mutterschaftsentschädigung ausbezahlt
+worden sein. Ob eine Rückerstattung zu erfolgen hat, bestimmt sich gestützt
+auf die gesetzesmässige Berechnung der Mutterschaftsentschädigung. Dabei
+stellt sich die Frage, wie das vorgeburtliche Einkommen der
+Beschwerdeführerin zu bestimmen ist. Welches das massgebende vorgeburtliche
+Einkommen darstellt, ist gesetzlich nicht abschliessend geregelt. Bei der
+Festsetzung des vorgeburtlichen Einkommens kommt der Beschwerdegegnerin als
+für die Berechnung der Mutterschaftsentschädigung zuständige
+Verwaltungsbehörde ein Ermessen zu, solange ausschliesslich vor der Geburt
+erzieltes Einkommen der Berechnung zugrunde gelegt wird.
+Nach dem Dargelegten könnte
+die Beschwerdegegnerin auf das im dem Geburtsjahr vorangehenden Kalenderjahr,
+vorliegend also im Jahr 2014, erzielte Einkommen abstellen. Die
+entsprechenden Zahlen liegen vor. Zulässig wäre es aber auch das im
+Geburtsjahr bis zur Geburt erzielte Einkommen zu berücksichtigen und auf ein
+Jahr hochzurechnen. Bei einer solchen Vorgehensweise müsste die
+Beschwerdegegnerin unter Mitwirkung der Beschwerdeführerin bestimmen, welcher
+Anteil des im Jahr 2015 erzielten Einkommens vor der Geburt erzielt wurde.
+4.3
+Sodann ist zu beachten, dass die Beschwerdeführerin
+im Steuerjahr 2015 nicht nur selbständig, sondern auch unselbständig
+erwerbstätig war. Nach Art. 8 EOV wird die gesamte Entschädigung auf
+Grund der Summe der Einkommen aus unselbständiger und selbständiger Tätigkeit
+berechnet, welche nach Art. 4 – 7 EOV bestimmt werden. Entsprechend
+erfolgt gemäss Rz. 1090 KSE MSE bei Frauen, die gleichzeitig
+unselbständig und selbständig erwerbend sind, die Ermittlung des massgebenden
+durchschnittlichen Einkommens sinngemäss nach den Rz. 5050 – 5054 der
+Wegleitung zur Erwerbsersatzordnung für Dienstleistende und Mutterschaft vom
+1. Juli 2005, Stand 1. Februar 2015 (WEO). Nach Rz. 5050 WEO wird
+das durchschnittliche vordienstliche Erwerbseinkommen der Personen, die gleichzeitig
+unselbständig- und selbständigerwerbend sind, ermittelt, indem die auf den
+Tag umgerechneten Erwerbseinkommen aus unselbständiger und selbständiger
+Tätigkeit zusammengezählt werden. Damit hat die Beschwerdegegnerin im Rahmen
+der Neuberechnung der Mutterschaftsentschädigung neben dem mit der
+selbständigen Erwerbstätigkeit erzielten Einkommen auch die Einkünfte aus
+unselbständiger Erwerbstätigkeit zu berücksichtigen.
+Dies führt zur Gutheissung
+der Beschwerde. Der Einspracheentscheid der Beschwerdegegnerin vom 7. Juni
+2018 ist aufzuheben und die Sache ist an die Beschwerdegegnerin zwecks
+Vornahme einer gesetzesmässigen Berechnung der Mutterschaftsentschädigung
+zurückzuweisen.
+III.
+1.
+Die Gerichtskosten sind
+von Gesetzes wegen auf die Staatskasse zu nehmen (Art. 1 EOG i.V.m.
+Art. 61 lit. a ATSG). Ausgangsgemäss ist die Beschwerdegegnerin zu
+verpflichten, der Beschwerdeführerin eine Parteientschädigung zu bezahlen.
+Diese ist ohne Rücksicht auf den Streitwert
+nach der Bedeutung der Streitsache und nach der Schwierigkeit des Prozesses
+zu bemessen
+(Art. 1 EOG i.V.m.
+Art. 61 lit. g
+ATSG)
+. Dabei
+erweist sich vorliegend eine Parteientschädigung von Fr. 1'000.- (inkl.
+Mehrwertsteuer) als angemessen.
+2.
+Gegen diesen Entscheid
+steht die Beschwerde in öffentlich-rechtlichen Angelegenheiten ans
+Bundesgericht nur nach Massgabe von Art. 93 Abs. 1 des Bundesgerichtsgesetzes
+vom 17. Juni 2005 (BGG) offen.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird gutgeheissen. Der Einspracheentscheid der Beschwerdegegnerin
+vom 7. Juni 2018 wird aufgehoben und die Sache wird im Sinne der Erwägungen
+an diese zurückgewiesen.
+2.
+Die
+Gerichtskosten werden auf die Staatskasse genommen.
+3.
+Die
+Beschwerdegegnerin wird verpflichtet, der Beschwerdeführerin innert
+30 Tagen nach Rechtskraft dieses Entscheids eine Parteientschädigung
+von Fr. 1'000.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
