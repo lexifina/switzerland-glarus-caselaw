@@ -1,0 +1,1098 @@
+---
+decision_id: "gl_gerichte_VG.2017.00088"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2017.00088"
+docket_2: "VG.2018.715"
+decided: "2018-11-08"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1012&W10_KEY=218274&nTrefferzeile=5&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/101/art-009.md", "switzerland/bund/acts/642.11/art-002.md", "switzerland/bund/acts/642.11/art-051.md", "switzerland/bund/acts/642.11/art-052.md", "switzerland/bund/acts/642.11/art-104.md", "switzerland/bund/acts/642.11/art-140.md", "switzerland/bund/acts/642.11/art-144.md", "switzerland/bund/acts/642.11/art-145.md"]
+---
+
+# GL Gerichte VG.2017.00088
+
+## Regeste
+
+Steuern
+
+## Text
+
+Glarus Verwaltungsgericht 08.11.2018 VG.2017.00088 (VG.2018.715)
+Glaris Verwaltungsgericht 08.11.2018 VG.2017.00088 (VG.2018.715)
+Glarona Verwaltungsgericht 08.11.2018 VG.2017.00088 (VG.2018.715)
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+8. November 2018
+I. Kammer
+in Sachen
+VG.2017.00088
+Eidgenössische Steuerverwaltung (ESTV),
+Beschwerdeführerin
+Hauptabteilung direkte
+Bundessteuer
+gegen
+1.
+A.______GmbH
+Beschwerdegegnerinnen
+2.
+B.______GmbH
+beide vertreten durch Rechtsanwalt C.______ und
+Rechtsanwältin D.______
+3.
+Steuerrekurskommission
+des Kantons Glarus
+und
+Steuerverwaltung des Kantons
+Glarus
+Beigeladene
+betreffend
+direkte Bundessteuer 2009, 2010 und 2011
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Die in Amsterdam ansässige E.______ ist seit einer
+Umstrukturierung in den Jahren 2008 und 2009 als Holding ausgestaltet. Als
+Muttergesellschaft ist sie einzige Gesellschafterin der A.______GmbH, welche
+der F.______GmbH übergeordnet ist. Letztere ist sodann einzige
+Gesellschafterin der B.______GmbH. Neben der A.______GmbH hält die Holding
+unter anderem Tochtergesellschaften in den Vereinigten Arabischen Emiraten.
+Diesbezüglich sind die G.______ und die H.______ zu nennen, welche die
+A.______GmbH und die B.______GmbH bei ihrer Geschäftstätigkeit unterstützen
+oder diese ergänzen.
+1.2
+Die A.______AG ist seit dem […] im Handelsregister
+des Kantons Glarus eingetragen und folglich ab diesem Zeitpunkt im Kanton
+Glarus domiziliert. Sie wurde am […] (Tagesregisterdatum) in eine
+Gesellschaft mit beschränkter Haftung (GmbH) umgewandelt und bezweckt die
+Erbringung von Dienstleistungen im internationalen Lebensmittelhandel. Dies
+beinhaltet die Bereitstellung von Gütern und Dienstleistungen bezüglich
+Umschlag sowie Handel von Esswaren, Flüge (Transport), die Errichtung von
+Bauten, die Brennstoff-Versorgung, den Transport sowie damit verbundene
+Leistungen. Die Gesellschaft kann im In- und Ausland Zweigniederlassungen
+errichten, sich an anderen in- und ausländischen Unternehmungen beteiligen
+oder diese erwerben sowie Grundeigentum erwerben oder veräussern.
+1.3
+Die B.______AG ist demgegenüber seit dem […] im
+Handelsregister des Kantons Glarus eingetragen und wurde am […]
+(Tagesregisterdatum) ebenfalls in eine Gesellschaft mit beschränkter Haftung
+(GmbH) umgewandelt. Ihr Zweck ist die Erbringung von Dienstleistungen im In-
+und Ausland in den Bereichen Abfallentsorgung, Reinigung, Unterhalt und
+Gebäudemanagement sowie Handel mit Nonfood-Produkten aller Art. Zudem
+bezweckt sie die Bereitstellung von Gütern und Dienstleistungen bezüglich
+Umschlag sowie Handel von Esswaren, Flüge (Transport), die Errichtung von
+Bauten, die Brennstoff-Versorgung, den Transport sowie damit verbundene
+Leistungen und sie kann im In- und Ausland auch Zweigniederlassungen
+errichten, sich an anderen in- und ausländischen Unternehmungen beteiligen
+oder diese erwerben sowie Grundeigentum erwerben oder veräussern.
+2.
+2.1
+Die Geschäftstätigkeit der A.______GmbH und der
+B.______GmbH besteht hauptsächlich in der Versorgung von militärischen
+Truppen sowie zivilen Einsatzkräften in verschiedenen Krisengebieten mit
+Nahrungsmitteln, Treibstoff und weiteren Gütern des täglichen Bedarfs. Die
+entsprechenden Güter werden dabei vorwiegend in verschiedenen Ländern
+eingekauft und mittels eigener Logistik in die Krisengebiete eingeführt, wo
+sie nach einer allfälligen Lagerung oder Aufbereitung an Einsatzkräfte vor
+Ort gebracht werden. Zur Verarbeitung, Lagerung und zum Transport der
+jeweiligen Güter unterhalten die A.______GmbH und die B.______GmbH
+verschiedene Infrastrukturanlagen (Lagerhäuser, Abfüllanlagen, Pipelines,
+etc.).
+2.2
+Zur Illustration der Leistungsbeziehungen innerhalb
+der Gesellschaftsgruppe erstellten sowohl die A.______GmbH als auch die
+B.______GmbH jährlich sogenannte Länderauswertungen. In diesen wiesen sie in
+geographischer Hinsicht eine Geschäftstätigkeit in diversen Ländern aus,
+wobei sich der Schwerpunkt während den streitbetroffenen Steuerperioden (2009
+bis 2011) unbestrittenermassen in Afghanistan befand.
+3.
+3.1
+Die Steuerverwaltung des Kantons Glarus erhob von
+der A.______AG aufgrund ihrer Geschäftstätigkeit ab 2001 die Kantons- sowie
+die direkte Bundessteuer. Mit Schreiben vom 4. Oktober 2006 teilte sie ihr
+mit, dass der gegenwärtige Steuerstatus bestehen bleibe und sie weiterhin als
+gemischte Gesellschaft besteuert werde. An den am 8. Juni 2005 bereits
+mündlich festgelegten und ab dem Steuerjahr 2003 geltenden
+Ausscheidungskriterien ändere sich wegen der unveränderten
+Gesellschaftstätigkeit nichts. Bei der Kantonssteuer mache der steuerbare
+Teil 5 % des weltweit erzielten Reingewinns aus. Bei der direkten Bundessteuer
+werde der gesamte Inlandumsatz besteuert, welcher den in der Schweiz
+angefallenen Kosten (ohne Einbezug der inländischen Bruttolohnsumme) mit
+einem Aufschlag von 50 % entspreche.
+3.2
+Am 11. Dezember 2008 führte die Steuerverwaltung
+gegenüber der A.______AG sodann aus, dass bei der Kantonssteuer ab dem
+1. Januar 2007 nur noch 3 % des weltweit erzielten Reingewinns
+besteuert werde. Ansonsten ändere sich nichts an der Besteuerung gemäss dem
+Schreiben vom 4. Oktober 2006.
+3.3
+Am 12. November 2010 informierte die
+Steuerverwaltung schliesslich die B.______GmbH, dass sie ab dem 1. Januar
+2008 analog der A.______GmbH besteuert werde, da grundsätzlich dieselbe
+Tätigkeit und der gleiche Wirkungskreis bestehe.
+4.
+4.1
+In der Folge gelangte die Abteilung Aufsicht
+Kantone der Eidgenössischen Steuerverwaltung (ESTV) an die Steuerverwaltung
+und ersuchte diese um Informationen über die Geschäftstätigkeit der
+A.______GmbH sowie der B.______GmbH. Nachdem die Steuerverwaltung diesem
+Ersuchen nachgekommen war, wies die ESTV sie am 12. Juli 2012 darauf
+hin, dass die Gewinnermittlungsmethode gemäss den Schreiben vom
+11. Dezember 2008 und vom 12. November 2010 dem Bundesgesetz über
+die direkte Bundessteuer vom 14. Dezember 1990 (DBG) widerspreche. Die
+Schreiben seien deshalb als unzulässige und unwirksame Steuerabkommen zu
+qualifizieren und die Vereinbarungen seien hinsichtlich der direkten
+Bundessteuer rückwirkend aufzuheben, d.h. für die noch nicht veranlagten
+Steuerperioden ab dem Jahr 2009 unbeachtlich.
+4.2
+Am 17. Juli 2012 informierte die Steuerverwaltung
+die A.______GmbH sowie die B.______GmbH über die steuerliche Beurteilung der
+ESTV im Zusammenhang mit den internationalen Ausscheidungskriterien. In der
+Folge fand ein Schriftenwechsel zwischen der A.______GmbH bzw. der
+B.______GmbH und der Steuerverwaltung einerseits sowie zwischen Letzterer und
+der ESTV andererseits statt. Dabei hielt die ESTV im Ergebnis an ihrer
+Beurteilung vom 12. Juli 2012 fest, während die A.______GmbH sowie die
+B.______GmbH sich auf den Standpunkt stellten, dass die strittigen
+Steuerberechnungen gemäss den Schreiben vom 11. Dezember 2008 und vom
+12. November 2010 vorzunehmen seien.
+5.
+Gestützt auf die
+Beurteilung der ESTV eröffnete die Steuerverwaltung der A.______GmbH und der
+B.______GmbH am 17. Dezember 2014 die definitiven Veranlagungen für die
+Steuerperioden 2009 bis 2011.
+Dabei ging sie bei der
+Kantonssteuer der A.______GmbH von total steuerbaren Reingewinnen in der Höhe
+von Fr. […] (2009), Fr. […] (2010) sowie Fr. […] (2011) und
+von einem steuerbaren Kapital von Fr. […] (2009), Fr. […] (2010)
+sowie Fr. […] (2011) aus. Darüber hinaus legte sie der Berechnung der
+direkten Bundessteuer steuerbare Reingewinne in der Höhe von Fr. […]
+(2009), Fr. […] (2010) sowie Fr. […] (2011) zugrunde.
+Bei der Kantonssteuer der
+B.______GmbH nahm sie demgegenüber steuerbare Reingewinne in der Höhe von
+Fr. […] (2009), Fr. […] (2010) sowie Fr. […] (2011) an und
+unterstellte ihrer Berechnung ein steuerbares Kapital von Fr. […]
+(2009), Fr. […] (2010) sowie Fr. […] (2011). Ferner errechnete sie
+die direkte Bundessteuer anhand steuerbarer Reingewinne in der Höhe von
+Fr. […] (2009), Fr. […] (2010) sowie Fr. […] (2011).
+6.
+Die von der A.______GmbH
+sowie der B.______GmbH am 16. Januar 2015 dagegen erhobenen Einsprachen hiess
+die Steuerverwaltung am 2. Februar 2016 teilweise gut. Sie stellte fest, die
+Länderauswertungen der A.______GmbH und der B.______GmbH für das Jahr 2009
+seien in Euro geführt worden und den Steuerausscheidungen seien in der Folge fälschlicherweise
+die Zahlen in US-Dollar zugrunde gelegt worden. Dies sei dahingehend zu
+korrigieren, als dass bei den entsprechenden Steuerausscheidungen die
+Umrechnungen der Erfolge der Betriebsstätten von Euro in Schweizer Franken zu
+erfolgen hätten, wodurch sich die massgebenden Erfolge der Betriebsstätten
+verändern würden. Mit dieser Begründung reduzierte die Steuerverwaltung den
+Reingewinn der A.______GmbH bei der Berechnung der direkten Bundessteuer 2009
+von Fr. […] auf Fr. […] und denjenigen der B.______GmbH von
+Fr. […] auf Fr. […]. Im Übrigen wies sie die Einsprachen ab.
+7.
+Gegen die
+Einspracheentscheide vom 2. Februar 2016 erhoben die A.______GmbH und die
+B.______GmbH am 4. März 2016 Rekurs bei der Steuerrekurskommission des
+Kantons Glarus und beantragten deren Aufhebung sowie sinngemäss, dass die
+Berechnung der Kantonssteuer für 2010 sowie 2011 und diejenige der direkten
+Bundessteuer für 2009 bis 2011 entsprechend den Schreiben vom 11. Dezember
+2008 und vom 12. November 2010 vorzunehmen sei; unter Kosten und
+Entschädigungsfolgen zu Lasten des Kantons Glarus. Die Steuerrekurskommission
+vereinigte die beiden Rekurse, hiess sie mit Entscheid vom 15. Mai 2017
+vollumfänglich gut und nahm die Kosten auf die Staatskasse. Eine
+Parteientschädigung sprach sie nicht zu.
+8.
+8.1
+Gegen den Entscheid der Steuerrekurskommission vom
+15. Mai 2017 gelangte die Steuerverwaltung mit Beschwerde vom 28. September
+2017 ans Verwaltungsgericht und beantragte die Aufhebung des vorinstanzlichen
+Entscheids, soweit er die Kantonssteuer 2010 und 2011 betrifft, sowie die
+Bestätigung der Einspracheentscheide vom 2. Februar 2016 (Verfahren
+VG.2017.00087). Gleichentags erhob auch die ESTV Beschwerde beim
+Verwaltungsgericht und beantragte die Aufhebung desselben Entscheids, soweit
+er sich auf die direkte Bundessteuer für die Steuerperioden 2009 bis 2011
+bezieht. Der steuerbare Reingewinn der A.______GmbH sei bei der direkten
+Bundessteuer für die Steuerperiode 2009 mit Fr. […], 2010 mit
+Fr. […] sowie 2011 mit Fr. […] und derjenige der B.______GmbH 2009 mit
+Fr. […], 2010 mit Fr. […] sowie 2011 mit Fr. […] zu bewerten;
+unter Kostenfolgen (Verfahren VG.2017.00088).
+8.2
+Die Steuerrekurskommission beantragte am 29.
+November 2017 die Abweisung der Beschwerden. Den nämlichen Antrag stellten
+die A.______GmbH sowie die B.______GmbH am 22. Dezember 2017 und ersuchten in
+prozessualer Hinsicht um Vereinigung der Verfahren VG.2017.00087 und
+VG.2017.00088; unter Kosten- und Entschädigungsfolgen zu Lasten der
+Steuerverwaltung sowie der ESTV. Die ins Verfahren betreffend direkte
+Bundessteuer (VG.2017.00088) beigeladene Steuerverwaltung liess sich innert
+Frist nicht vernehmen.
+8.3
+Nachdem die ESTV mit Replik vom 16. Februar 2018 an
+ihren gestellten Anträgen festgehalten hatte, erneuerte die Steuerrekurskommission
+ihr Begehren um Abweisung der Beschwerde mit Schreiben vom 27. Februar
+2018 ebenso wie die A.______GmbH sowie die B.______GmbH die ihrigen am 10.
+April 2018. Die Steuerverwaltung liess sich innert Frist erneut nicht
+vernehmen.
+II.
+1.
+1.1
+Das Verwaltungsgericht beurteilt Beschwerden gegen
+Rekursentscheide der Kantonalen Steuerrekurskommission (Art. 145 Abs. 1
+DBG i.V.m. Art. 10 Abs. 2 der Verordnung zum Bundesgesetz über die
+direkte Bundessteuer vom 21. November 2000 [EG DBG] und Art. 105 Abs. 1
+lit. e des Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986 [VRG]).
+Es ist somit zur Behandlung der vorliegenden Beschwerde zuständig und prüft
+die Angelegenheit vollumfänglich (vgl. Art. 145 Abs. 2 DBG i.V.m.
+Art. 140 Abs. 3 DBG).
+1.2
+Nach der Praxis des Verwaltungsgerichts werden
+Beschwerden, welche sowohl die Kantonssteuer als auch die direkte
+Bundessteuer betreffen, grundsätzlich nicht im selben Verfahren behandelt.
+Die bundesgerichtliche Rechtsprechung gebietet, dass bei gemeinsamer
+Erledigung durch die Beschwerdeinstanz eine separate Entscheidung und
+Begründung für beide Steuerarten vorgenommen wird (BGE 130 II 509
+E. 8.3). Davon kann abgewichen werden, wenn es sich um Verfahren mit
+nämlichen Steuerpflichtigen, weitgehend vergleichbaren Sachverhalten und
+denselben Rechtsfragen handelt (BGer-Urteil 2C_509/2013 vom 8. Juni 2014 E. 1.2.1).
+Dies ist vorliegend nicht der Fall. Während im Verfahren betreffend
+Kantonssteuer die steuerliche Behandlung von Währungsumrechnungsdifferenzen sowie
+einer Zahlung an die afghanischen Behörden zu prüfen ist, steht im
+vorliegenden Verfahren die internationale Ausscheidungsthematik im Zentrum.
+Da bei den beiden Steuerarten folglich ganz unterschiedliche Rechtsfragen zu
+prüfen sind, erweist sich eine Verfahrensvereinigung nicht als zweckmässig,
+weshalb die Kantonssteuer in ein separates Verfahren (VG.2017.00087) zu
+verweisen ist.
+2.
+2.1
+Im vorliegend angefochtenen Entscheid schützte die
+Beschwerdegegnerin 3 die Besteuerung gemäss den Schreiben vom 11. Dezember
+2008 und 12. November 2010. In diesen teilte die Beigeladene unter
+anderem mit, dass aufgrund der Geschäftstätigkeit der
+Beschwerdegegnerinnen 1 und 2 ab dem 1. Januar 2007 (Beschwerdegegnerin
+1) bzw. ab dem 1. Januar 2008 (Beschwerdegegnerin 2) bei der direkten
+Bundessteuer der Inlandumsatz besteuert werde, wobei dieser den in der
+Schweiz angefallenen Kosten (ohne Einbezug der inländischen Bruttolohnsumme)
+mit einem Aufschlag von 50 % entspreche.
+2.2
+2.2.1
+Die Beschwerdeführerin hielt nach einer Prüfung der
+Geschäftstätigkeiten der Beschwerdegegnerinnen 1 und 2 am 12. Juli
+2012 fest, dass die Gewinnermittlungsmethode hinsichtlich der direkten
+Bundessteuer gemäss den Schreiben vom 11. Dezember 2008 und
+12. November 2010 gesetzeswidrig sei, weshalb die Schreiben als
+unzulässige und unwirksame Steuerabkommen zu qualifizieren und die
+Vereinbarungen hinsichtlich der direkten Bundessteuer rückwirkend aufzuheben
+bzw. für die noch nicht veranlagten Steuerperioden ab dem Jahr 2009
+unbeachtlich seien. Richtigerweise sei derjenige Teil des Gewinns auf die
+ausländischen Betriebsstätten auszuscheiden, welcher diesen aufgrund ihrer
+tatsächlich dort ausgeführten Tätigkeit zugerechnet werden könne. Dabei habe
+bei der Beschwerdegegnerin 1 Betriebsstätten in Afghanistan, Kuwait,
+Kosovo, Sudan sowie Tschad und bei der Beschwerdegegnerin 2 in
+Afghanistan nachgewiesen werden können. Da die von der
+Beschwerdegegnerin 1 für das Geschäftsjahr 2010 errechneten
+"Landesgewinne" die tatsächliche Wertschöpfung nicht widerspiegle,
+seien die Betriebsstättengewinne zu schätzen, wofür die
+Kostenaufschlagsmethode mit einem Zuschlag von 3 % anzuwenden sei. Als
+Basis seien die im jeweiligen Betriebsstättenstaat angefallenen Kosten
+(Personal- und Betriebskosten sowie Abschreibungen) zugrunde zu legen und
+diesem Bruttogewinn seien der Finanzaufwand und der Finanzertrag, die
+ausserordentlichen Erfolge sowie ein allfälliger Steueraufwand abzuziehen
+bzw. hinzuzurechnen.
+2.2.2
+In den Einspracheentscheiden vom 2. Februar 2016
+hielt die Beigeladene an der Steuerausscheidung gemäss ihren definitiven
+Veranlagungen vom 17. Dezember 2014 grundsätzlich fest und folgte weitgehend
+der Ansicht der Beschwerdeführerin gemäss deren Schreiben vom 12. Juli
+2012. Die Beigeladene nahm die Steuerausscheidung an die ausländischen
+Betriebsstätten mittels einer Kostenaufschlagsmethode ("cost plus
+10 %-Methode") vor und berücksichtigte 1 % des Netto-Umsatzes
+als Maximum. Als Basis für den Kostenaufschlag habe sie aber nur jene
+Betriebskosten einkalkuliert, deren zugrunde liegenden Leistungen nicht mit
+einem Gewinnaufschlag von anderen Konzerngesellschaften eingekauft worden
+seien, was auf die Personal- und Betriebskosten sowie die Abschreibungen
+zutreffe. Sodann habe sie für die Ausscheidung ausserordentliche Aufwendungen
+und Erträge sowie Gewinne aus dem Verkauf von Betriebsstättenvermögen
+berücksichtigt, wobei sie bei der Beschwerdegegnerin 1 Betriebsstätten
+in Afghanistan, Sudan, Bosnien, Kosovo, Liberia, Tschad sowie in Kamerun und
+bei der Beschwerdegegnerin 2 eine Betriebsstätte in Afghanistan
+akzeptiert habe.
+3.
+3.1
+Die Beschwerdegegnerinnen 1 und 2 stellen sich
+auf den Standpunkt, dass die Beigeladene mit Schreiben vom 4. Oktober 2006,
+11. Dezember 2008 und 12. November 2010 gültige Steuerrulings erteilt
+habe. Da diesbezüglich sämtliche Voraussetzungen des Vertrauensschutzes im
+Sinne von
+Art. 9
+der
+Bundesverfassung vom 18. April 1999 (BV)
+erfüllt seien, hätten sie darauf
+vertrauen dürfen, dass die Besteuerung nicht
+andersartig erfolge.
+3.2
+Die Beschwerdeführerin ist demgegenüber der
+Auffassung, die Schreiben der Beigeladenen seien nicht als Steuerrulings,
+sondern als Steuerabkommen zu qualifizieren. Solche seien unzulässig,
+unwirksam und dem Vertrauensschutz nicht zugänglich. Selbst wenn aber von Rulings
+ausgegangen werden würde, greife der Vertrauensschutz nicht, da diesbezüglich
+einzelne Voraussetzungen nicht erfüllt seien. Im Ergebnis sei an der
+Besteuerung gemäss den Einspracheentscheiden festzuhalten, wovon im Übrigen
+auch die Beigeladene ausgeht.
+4.
+Vorliegend ist die Höhe
+der direkten Bundessteuer für die Steuerperioden 2009 bis 2011 der
+Beschwerdegegnerinnen 1 und 2 strittig. Die Parteien sind sich dabei einig,
+dass
+die
+Beschwerdegegnerinnen 1 und 2 gestützt auf Art. 50 i.V.m. Art. 52 Abs. 1
+DBG aufgrund ihres Sitzes im Kanton Glarus in der Schweiz unbeschränkt
+steuerpflichtig sind. Sodann ist unbestritten, dass
+die beiden Gesellschaften international tätig sind
+und hierfür Betriebsstätten in Ländern unterhalten, mit denen die Schweiz
+keine Doppelbesteuerungsabkommen (DBA) unterhält. Uneinigkeit herrscht
+insbesondere darüber, welche Gewinnanteile den ausländischen Betriebsstätten
+zuzuweisen sind und nach welcher Methode dies zu erfolgen hat. Dies hängt
+unter anderem mit der Frage zusammen, ob sich die Beschwerdegegnerinnen 1 und
+2 auf eine rechtsverbindliche Auskunft oder eine Zusicherung (sogenanntes
+Steuerruling) der Beigeladenen berufen können.
+Vorwegzunehmen ist sodann
+die Tatsache, dass es sich vorliegend aus Schweizer Optik um eine einzigartige
+Konstellation handelt, da sich die Tätigkeiten der Beschwerdegegnerinnen 1
+und 2 nicht mit denjenigen anderer Gesellschaften in der Schweiz vergleichen
+lassen. Dies deshalb, weil der Leistungsaustausch zwischen Verkäufer und
+Endverbraucher vorzugsweise in Krisengebieten stattfindet und diesen
+Leistungen Verträge zugrunde liegen, die gesonderte Regelungen enthalten
+(vgl. beispielsweise die Regelungen betreffend Einfuhr gemäss "base
+contract" zwischen der Beschwerdegegnerin 1 und den US-Streitkräften.
+Folge davon ist, dass nicht auf eine gefestigte Praxis zurückgegriffen werden
+kann.
+5.
+5.1
+5.1.1
+Steuerrulings stellen Realakte ohne Verfügungscharakter dar und beinhalten
+die vorgängige Auskunft, Bestätigung oder Zusicherung der Steuerbehörden hinsichtlich
+der Besteuerung eines konkreten und vom Steuerpflichtigen dargelegten
+Sachverhalts im Rahmen des nachfolgenden Veranlagungsverfahrens,
+vorausgesetzt, dass dieser Sachverhalt anschliessend wie dargelegt umgesetzt
+wird. Mittels Steuerrulings sollen in der Praxis üblicherweise die
+Bedürfnisse nach Sicherheit in Bezug auf das Ergebnis aus der Subsumtion des
+Sachverhalts unter die jeweiligen materiellen Rechtsnormen, nach einer
+Klärung der Übereinstimmung von wirtschaftlicher und formeller Qualifikation
+des Sachverhalts, nach einer Bestätigung der steuerlichen Rechtsfolgen im
+Rahmen eines Ermessensspielraums der Steuerbehörden sowie nach der
+Schliessung von allfälligen, allenfalls vermeintlichen Gesetzeslücken
+abgedeckt werden. Mit Bezug auf unternehmerisch tätige Steuerpflichtige
+beinhalten Steuerrulings beispielsweise oft die Voraussetzungen und die
+Bemessungsgrundlage der Besteuerung mit Bezug auf einen speziellen
+Steuerstatus oder etwa internationale oder interkantonale Fragen der
+Steuerausscheidung. Steuerrulings können sich dabei auf einmalige und auf
+Dauersachverhalte beziehen (vgl. zum Ganzen: René Schreiber/Roger
+Jaun/Marlene Kobierski, Steuerruling - Eine systematische Auslegeordnung
+unter Berücksichtigung der Praxis, ASA 80 Nr. 5, S. 293 ff., 298 ff.).
+5.1.2
+Abzugrenzen ist ein Steuerruling vom sogenannten
+Steuerabkommen, welches als verwaltungsrechtlicher Vertrag zu qualifizieren
+ist. Ein Steuerabkommen bezweckt,
+eine für einen konkreten Tatbestand geltende, von den
+gesetzlichen Bestimmungen abweichende Regelung hinsichtlich Bestand, Umfang
+oder Art der Erfüllung der Steuerpflicht zu treffen. Steuerabkommen sind nur
+dann zulässig, wenn das Gesetz für sie Raum lässt (BGer-Urteil 2C_296/2009
+vom 11. Februar 2010 E. 3.1;
+vgl. auch Martin Zweifel/Silvia Hunziker, in Martin Zweifel/Michael
+Beusch [Hrsg.], Kommentar zum Schweizerischen Steuerrecht, Bundesgesetz über
+die direkte Steuer, 3. A, Basel 2017, Art. 123 N. 38;
+Schreiber/Jaun/Kobierski, S. 318
+).
+5.1.3
+Ist die
+von der Steuerbehörde im Rahmen eines Steuerrulings erteilte Auskunft
+materiell richtig, wird der Steuerpflichtige durch das (materielle)
+Steuerrecht geschützt und er muss sich nicht um einen allfälligen
+Vertrauensschutz im Sinne von Art. 9 BV bemühen. Darauf hat er sich erst dann
+zu berufen, wenn die Auskunft der Behörde unrichtig war bzw. unrichtig wurde.
+Sind die Voraussetzungen des Vertrauensschutzes gegeben, sind die
+Steuerverwaltung und die Gerichte an die unrichtige Auskunft gebunden.
+Demgegenüber begründet nicht jede unzutreffende behördliche Auskunft beim
+Steuerpflichtigen ein schützenswertes Vertrauen. Ist die Auskunft nämlich
+offensichtlich unrichtig, ist die Berufung auf Art. 9 BV unbehelflich und das
+offensichtlich unrichtige Ruling ist als Steuerabkommen zu qualifizieren.
+Offensichtlich unrichtig ist ein Ruling nur in Ausnahmefällen. Dies ist dann
+der Fall, wenn es klarerweise gegen den Gesetzeswortlaut verstösst.
+Widerspricht ein Ruling hingegen einem Kreisschreiben der ESTV, ist dieses
+solange nicht offensichtlich unrichtig, als dass es mit dem Gesetzeswortlaut
+in Übereinstimmung gebracht werden kann (vgl. zum Ganzen:
+Stefan Oesterhelt, Wann wird ein Ruling zum Steuerabkommen?, Schweizer
+Treuhänder [ST], 11/2013, S. 846 ff.).
+5.2
+Zunächst
+ist zu klären,
+ob die von der
+Beigeladenen gewählte und in den Schreiben vom 11. Dezember 2008 und 12.
+November 2010 enthaltene Ausscheidungs- und Besteuerungsmethode klarerweise
+gegen den Gesetzeswortlaut bzw. gegen die im Gesetz enthaltene
+Gewinnabgrenzung zwischen Stammhaus und Betriebsstätte im internationalen
+Verhältnis verstösst. Ist ein klarer Verstoss ersichtlich, ist wie dargelegt
+von Steuerabkommen auszugehen, welche nichtig wären,
+da weder auf Stufe Bundesgesetz
+noch auf Ebene des kantonalen Rechts eine Grundlage für Steuerabkommen
+besteht (vgl. dazu
+vorstehende E.
+II/5.1.3; vgl. zur fehlenden kantonalen Gesetzesgrundlage für ein
+Steuerabkommen
+Art. 1
+Abs. 1 des
+Konkordats zwischen den Kantonen der
+Schweizerischen Eidgenossenschaft über den Ausschluss von Steuerabkommen vom 10. Dezember
+1948, welchem der Kanton Glarus seit dem 1. Oktober 1959 angehört). Ist
+demgegenüber von keinem klaren Verstoss auszugehen, stellt sich die Frage, ob
+sich die Beschwerdegegnerinnen 1 und 2 erfolgreich auf den Vertrauensschutz
+berufen können.
+5.3
+Juristische
+Personen sind aufgrund persönlicher Zugehörigkeit in der Schweiz
+steuerpflichtig, wenn sich ihr Sitz oder ihre tatsächliche Verwaltung in der
+Schweiz befindet, wobei die Steuerpflicht grundsätzlich unbeschränkt ist
+(Art. 50 i.V.m. Art. 52 Abs. 1 Satz 1 DBG).
+Die
+Steuerpflicht erstreckt sich aber nicht auf Geschäftsbetriebe,
+Betriebsstätten und Grundstücke im Ausland (Art. 52 Abs. 1 DBG). Diese
+unilaterale Regelung dient der Vermeidung von Doppelbesteuerungen und gilt
+unabhängig von einer tatsächlichen Besteuerung im Ausland oder einer
+Einschränkung des Besteuerungsrechts durch ein DBA sowie aufgrund des
+Proportionaltarifs der Gewinnsteuer ohne Progressionsvorbehalt (
+Stefan Oesterhelt/Susanne Schreiber, in
+Martin Zweifel/Michael Beusch [Hrsg.], Kommentar zum Schweizerischen
+Steuerrecht, Bundesgesetz über die direkte Steuer, 3. A, Basel 2017, Art. 52
+N. 5; Peter Locher, Einführung in das internationale Steuerrecht der Schweiz,
+3. A., Bern 2005, S. 57
+).
+5.4
+Als Betriebsstätte gilt eine feste
+Geschäftseinrichtung, in der die Geschäftstätigkeit eines Unternehmens ganz
+oder teilweise ausgeübt wird (Art. 51 Abs. 2 DBG). Betriebsstätten sind
+insbesondere Zweigniederlassungen, Fabrikationsstätten, Werkstätten,
+Verkaufsstellen, ständige Vertretungen, Bergwerke und andere Stätten zur
+Ausbeutung von Bodenschätzen sowie Bau- und Montagestellen von mindestens
+zwölf Monaten Dauer. Bei der Betriebsstätte ist von einem einheitlichen
+Begriff auszugehen, womit es keine Rolle spielt, ob es sich um eine ausländische
+Betriebsstätte einer schweizerischen Unternehmung oder um eine inländische
+Betriebsstätte einer ausländischen Gesellschaft handelt (BGE 139 II 78 E 2.2
+und 3.1).
+Da
+ein
+Geschäftsbetrieb ausserhalb der Schweiz die Steuerpflicht vermindert, tragen
+die Steuerpflichtigen für das Vorliegen eines solchen die Beweislast. Dabei
+haben sie die steuermindernden Tatsachen nicht nur zu behaupten, sondern auch
+zu belegen. Zur Qualifikation ausländischer Betriebsstätten juristischer
+Personen soll mit unilateralen Massnahmen zwar eine Regelung getroffen
+werden, welche die Gefahr einer doppelten Besteuerung vermindert. Dabei soll
+jedoch nach Möglichkeit verhindert werden, dass aufgrund dieser Regelung eine
+doppelte Nichtbesteuerung resultiert, wird doch Letztere durch bilaterale
+Doppelbesteuerungsabkommen, denen keineswegs allgemein der Gedanke zugrunde
+liegt, doppelte Nichtbesteuerung zu vermeiden, höchstens in bestimmten
+Konstellationen ausgeschlossen. In Bezug auf die Betriebsstättendefinition
+ergibt sich daraus, dass für Betriebsstätten im Ausland die Anforderungen
+etwas höher gesteckt werden dürfen als für Betriebsstätten in der Schweiz.
+Betriebsstätten im Ausland sind daher in zweifelhaften Fällen aufgrund der
+unbeschränkten Steuerpflicht in der Schweiz tendenziell der Steuerpflicht in
+der Schweiz zu unterwerfen und einer allenfalls drohenden Doppelbesteuerung
+ist in solchen Fällen mittels Heranziehung entsprechender
+Doppelbesteuerungsabkommen entgegenzutreten, soweit solche bestehen (vgl.
+BGer-Urteile 2C_738/2014 und 2C_739/2014 vom 21. August 2015 E. 2.4).
+5.5
+Nach Art. 52 Abs. 3 Satz 1 DBG erfolgt die
+Abgrenzung der Steuerpflicht für Geschäftsbetriebe, Betriebsstätten und
+Grundstücke im Verhältnis zum Ausland nach den Grundsätzen des Bundesrechts
+über das Verbot der interkantonalen Doppelbesteuerung (Interkantonales
+Steuerrecht [IKStR]). Art. 52 Abs. 3 Sätze 2 und 3 DBG sehen zudem vor, dass
+Verluste ausländischer Betriebsstätten nur vom inländischen Stammhaus, nur
+provisorisch und unter dem Vorbehalt, dass sie im Betriebsstättenstaat nicht
+bereits berücksichtigt worden sind, übernommen werden (vgl. Peter Brülisauer,
+Gewinnabgrenzung bei Betriebsstätten, ASA 75 Nr. 6/7, S. 337 ff., 347
+[zitiert: Brülisauer, Betriebsstätten]).
+5.5.1
+Im Gesetz wird nicht näher umschrieben, was
+unter den Grundsätzen des
+IKStR
+gemäss
+Art. 52 Abs. 3 Satz 1 DBG
+zu verstehen
+ist. Durch die Verwendung des Begriffs "Grundsatz" werden sachlich begründete
+Einschränkungen bzw. Modifikationen der im interkantonalen Steuerrecht
+gültigen Prinzipien (Verbot der aktuellen und virtuellen Doppelbesteuerung
+sowie das Schlechterstellungsverbot) zugelassen, damit man den
+wirtschaftlichen, rechtlichen und sozialen Verhältnissen in internationalen
+Sachverhalten gerecht werden kann. Die im Hinblick auf das internationale
+Verhältnis vorzunehmenden Modifikationen dürfen allerdings nicht so weit
+führen, dass die Grundsätze des IKStR in ihrem Kern bzw. Wesensgehalt
+angetastet werden. Vielmehr ergibt sich aufgrund des ausdrücklichen Verweises
+auf die Grundsätze des IKStR, dass diese auch im internationalen Verhältnis –
+zumindest in modifizierter Form – zur Anwendung gelangen müssen (Peter
+Brülisauer, Internationale Gewinnabgrenzung bei unbeschränkter Steuerpflicht
+in der Schweiz, IFF Forum für Steuerrecht 2003, S. 3 ff., S. 8 [zitiert:
+Brülisauer, Gewinnabgrenzung];
+vgl. auch
+Urteil des Verwaltungsgerichts des Kantons Zürich SB.2016.00095 vom
+15. November 2017 E. 2.2.1, www.vgr.zh
+).
+5.5.2
+Mit Blick auf das IKStR hat die Gewinnabgrenzung im
+interkantonalen Verhältnis entweder nach Objekten oder Quoten zu erfolgen.
+Bei der objektmässigen
+Methode werden dabei einzelne bestimmte (positive oder negative) Gewinn- und
+Kapitalbestandteile, die aufgrund ihrer Beschaffenheit sachlich einem
+bestimmten Steuerdomizil zugehören, vollumfänglich dem steuerberechtigten
+Kanton zugewiesen. Sie kommt bei der interkantonalen Steuerausscheidung bei
+Spezialsteuerdomizilen zur Anwendung. Bei der quotenmässigen Methode werden
+dagegen prozentuale Anteile am Gesamtgewinn oder Gesamtkapital oder an
+einzelnen (positiven oder negativen) Gewinn- oder Kapitalbestandteilen den
+einzelnen Steuerdomizilen nach einem bestimmten Schlüssel zugewiesen. In der
+Praxis wird dabei zwischen der quotenmässig-direkten Methode aufgrund der
+separaten Betriebsstättenbuchhaltung und der quotenmässig-indirekten Methode
+aufgrund unternehmensspezifischer Hilfsfaktoren
+unterschieden (vgl. dazu
+Peter Brülisauer, Gewinnabgrenzung zwischen
+Stammhaus und Betriebsstätte im internationalen Steuerrecht der Schweiz, Bern/Stuttgart/Wien
+2006, S. 29 ff. [zitiert: Brülisauer, Steuerrecht]; Locher, S. 97 f.;
+Oesterhelt/Schreiber, Art. 52 N. 12; Urteil des Verwaltungsgerichts des
+Kantons Zürich SB.2016.00095 vom 15. November 2017 E. 2.2.2, www.vgr.zh)
+.
+Nach einem feststehenden
+Grundsatz des interkantonalen Doppelbesteuerungsrechts können die Kantone die
+auf ihrem Gebiet gelegenen Betriebsstätten einer interkantonalen Unternehmung
+nicht selbständig für das Sondervermögen oder Sondereinkommen der
+Betriebsstätten besteuern, weshalb keine objektmässige Ausscheidung
+vorzunehmen ist. Vielmehr können die Kantone nur eine Quote des Gesamtgewinns
+und des Gesamtkapitals der ganzen Unternehmung erfassen (quotenmässige
+Ausscheidung). Der Gesamtgewinn und das Gesamtkapital sind demnach
+anteilmässig auf die Betriebsstättenkantone und den Hauptsitzkanton
+aufzuteilen, wobei für die Quotenbestimmung die direkte oder die indirekte
+Methode in Frage kommt (BGer-Urteil 2P.338/2006 und 2P.339/2006 vom 10.
+September 2007 E. 2.2; Gabriel Rumo/Lukas Scheidegger/Fabio Dell'Anna,
+Interkantonale und internationale Steuerausscheidung, in Steuer Revue (StR)
+53/1998, S. 482 ff., 485). Der quotenmässig-indirekten Methode kommt dabei
+subsidiärer Charakter zu. Sie
+gelangt
+immer dann zur Anwendung, wenn eine Quotenfestlegung mittels
+Buchhaltungsergebnissen nicht möglich ist oder dem Unternehmen nicht
+zugemutet werden kann, was aufgrund einer besonders engen Verflechtung
+zwischen Stammhaus und Betriebsstätte (beispielsweise beim "global
+Trading") der Fall ist (vgl. dazu Brülisauer, Betriebsstätten,
+S. 348 f.; vgl. auch Urteil des Verwaltungsgerichts des Kantons
+Zürich SB.2016.00018 vom 21. Dezember 2016 E. 4.1.1, vgr.ch, in
+welchem das Gericht die quotenmässig-indirekte Methode bei einer international
+tätigen Fluggesellschaft für anwendbar erklärte).
+5.5.3
+Zur Frage, wie die Ausscheidung im internationalen
+Verhältnis vorzunehmen und wie der Verweis auf das IKStR in Art. 52 Abs. 3
+DBG zu verstehen ist, hielt das Bundesgericht in einem älteren Entscheid
+fest, es sei nicht willkürlich die Steuerausscheidung gegenüber dem Ausland
+nach Quoten vorzunehmen, wenn das kantonale Recht zur Vermeidung der
+Doppelbesteuerung gegenüber dem Ausland auf die Grundsätze des IKStR verweise
+(BGE 103 Ia 233 E. 4a). Sodann führte es zu einer spiegelbildlichen
+Konstellation (Bank mit Sitz in Frankreich und Betriebsstätte in der Schweiz)
+aus, dass die quotenmässige Ausscheidung mit erheblichen Schwierigkeiten
+verbunden sei, zumal die Veranlagungsbehörden häufig nicht in der Lage seien,
+die ausländischen Bücher der Gesamtunternehmung zu prüfen und an ihrem
+Ergebnis die steuerlichen Korrekturen (vollständig) vorzunehmen. Daher
+herrsche in den DBA auch die objektmässige Methode vor. Im Ergebnis sei
+jedoch nicht ersichtlich, weshalb zumindest im vorliegenden Fall die
+objektmässige Besteuerung die einzige rechtmässige sein solle (BGE 117 Ib 248
+E. 4b f.). Knapp zehn Jahre später gelangte das Bundesgericht zur Ansicht,
+dass die Regeln der interkantonalen Besteuerung auf internationaler Ebene grundsätzlich
+nicht anwendbar seien, da sie im Hinblick auf interkantonale Verhältnisse
+entwickelt worden seien (BGer-Urteil 2A.421/2000 vom 11. Mai 2001
+E. 3e). Alsdann gelangte das Bundesgericht zum Schluss, dass nach der
+objektmässigen Methode ausgeschieden werden müsse, wenn der Steuerpflichtige
+Betriebsstätten in der Schweiz und den Sitz sowie die tatsächliche Verwaltung
+im Ausland habe. Zu den früher in BGE 117 Ib 248 geäusserten Problemen komme
+hinzu, dass nach der quotenmässigen Ausscheidungsmethode die Verluste
+einzelner Betriebsstätten stets das Gesamtergebnis schmälern würden und so
+vom Hauptsitz und von sämtlichen Betriebsstätten mitgetragen werden müssten,
+was sich im internationalen Verhältnis nicht als sachgemäss erweise.
+Schliesslich vermöge die quotenmässige Ausscheidung der
+Wechselkursproblematik nicht angemessen Rechnung zu tragen (BGer-Urteil
+2P.140/2005 vom 28. November 2005 E. 4.3 und 5.3). In einem jüngeren
+Fall, bei dem es um Steuerpflichtige mit Sitz im Ausland und im Inland gelegene
+Grundstücke ging, erwog das Bundesgericht ferner, dass von der Steuerpflicht
+diejenigen Vermögenswerte erfasst seien, welche der schweizerischen
+Gebietshoheit unterworfen seien und die Steuerausscheidung nach der
+objektmässigen Methode zu erfolgen habe (BGer-Urteil 2C_18/2014 vom 15.
+Januar 2015 E. 2.2.2).
+5.5.4
+Die herrschende Lehre (vgl. Brülisauer,
+Betriebsstätten, Fn. 26) geht sodann davon aus, dass die anwendbare
+Abgrenzungsmethode bereits in Art. 52 Abs. 3 Satz 1 DBG verbindlich
+festgehalten und Art. 52 Abs. 3 Sätze 2 und 3 DBG im Rahmen der
+grenzüberschreitenden Verlustübernahme nur als Vorbehalt zu berücksichtigen
+seien. Die Abgrenzung müsse im internationalen Verhältnis aufgrund des
+gesetzlichen Verweises auf die Grundsätze des IKStR somit ausschliesslich im
+Sinne der Gesamtgewinnzerlegung quotenmässig erfolgen (Brülisauer,
+Betriebsstätten,
+S. 347
+; vgl. auch Brülisauer,
+Steuerrecht, S. 30 ff. und die Rezension dazu von Madeleine Simonek
+,
+IFF Forum für Steuerrecht 2007, S. 155 ff.;
+Oesterhelt/Schreiber
+Art. 52 N. 16
+).
+Von einer
+Minderheit der Lehre (vgl. Brülisauer, Betriebsstätten, Fn. 24 f.)
+und von der Beschwerdeführerin wird aufgrund der gesetzlichen Konzeption
+demgegenüber die Auffassung vertreten, dass die Abgrenzung zwischen einem
+schweizerischen Stammhaus und einer ausländischen Betriebsstätte nach der
+objektmässigen Methode vorzunehmen sei. Dies wird damit begründet, dass
+Art. 52 Abs. 3 Satz 1 DBG mit Blick auf die anwendbare
+Abgrenzungsmethode im internationalen Verhältnis keine Bedeutung habe bzw.
+die anwendbare Methode ausschliesslich in den Art. 52 Abs. 3 Sätze 2 und 3
+DBG geregelt werde. Zudem spreche der Wortlaut von Art. 52 Abs. 3 DBG, wonach
+Verluste anders als im interkantonalen Recht nur provisorisch zu übernehmen
+und daher objektmässig zu ermitteln und nachzubesteuern seien, gegen die
+quotenmässige Methode des interkantonalen Steuerrechts und für die
+objektmässige Methode.
+6.
+6.1
+Wendet man vorliegend die von der
+Beschwerdeführerin und der Beigeladenen favorisierte objektmässige Methode
+an, so ist der steuerbare Gewinn der Betriebsstätte nicht auf den durch das
+Unternehmen erzielten Gesamtgewinn beschränkt, sondern der Gewinn der
+Betriebsstätte wird losgelöst vom Gesamtergebnis direkt anhand der separaten
+Buchhaltung der Betriebsstätte ermittelt. Demgegenüber wird bei Anwendung der
+quotenmässigen Methoden der Gesamtgewinn entweder im Verhältnis der separaten
+Betriebsstättengewinne (direkt) oder im Verhältnis bestimmter
+unternehmenstypischer Hilfsfaktoren (indirekt) auf die verschiedenen
+Betriebsstätten verteilt (vgl. dazu Brülisauer, Betriebsstätte, S. 341 ff.).
+Folglich ist den anwendbaren Ausscheidungsmethoden im internationalen
+Verhältnis bei unbeschränkter Steuerpflicht gemein, dass nach einer
+Ausscheidung an die Betriebsstätten der verbleibende Rest des Gesamtgewinns
+an das Stammhaus fällt und in der Folge im Inland zu versteuern ist.
+Dem steht
+die Methode gemäss den Schreiben vom
+11.
+Dezember 2008 und 12. November 2010 aber diametral entgegen, da sie
+ausschliesslich
+auf
+eine Besteuerung des Inlandumsatzes abzielt (wobei dieser
+den in der Schweiz angefallenen Kosten mit einem
+Aufschlag von 50 % entspricht) und somit sowohl den Gesamtgewinn des
+Unternehmens als auch die Zuweisung an die verschiedenen Betriebsstätten
+ausser Acht lässt bzw. nur inländische Positionen berücksichtigt. Entgegen
+der Meinung der Beschwerdegegnerinnen 1 und 2 wird damit aber auch keine
+quotenmässig-indirekte Methode angewandt, da für die ausländischen
+Betriebsstätten gar keine Quoten basierend auf Hilfsfaktoren festgelegt
+werden. Vielmehr kann der Beschwerdeführerin darin gefolgt werden, dass
+dieses Vorgehen faktisch einer Gewinnzuweisung mittels
+Kostenaufschlagsmethode entspricht, weil eine aus der Schweiz erbrachte
+Leistung zu Gunsten der Unternehmensgruppe gedanklich abgetrennt und darauf
+ein angemessener Gewinn addiert wird, welcher auf Basis der in der Schweiz
+angefallenen Kosten errechnet wird. Es handelt sich somit um keine
+eigentliche Ausscheidungsmethode im Sinne des unilateralen Ausscheidungsrechts,
+sondern um eine Methode zur Ermittlung des inländischen Reingewinns.
+Folge dieser Methode ist,
+dass die in der Schweiz angefallenen Kosten mit einem Aufschlag zu Gunsten
+des Stammhauses gewissermassen von den Betriebsstätten an das Stammhaus
+ausgeschieden würden und nicht der von der Betriebsstätte zuzurechnende Teil
+des Reingewinns vom Stammhaus an die Betriebsstätten, was mit Art. 52
+DBG nicht vereinbar ist. Eine weitere Konsequenz des pauschalen Abstellens
+auf die im Inland angefallenen Kosten ist sodann, dass ohne Prüfung, wo
+überhaupt eine Betriebsstätte besteht, alles im Ausland Erwirtschaftete der
+inländischen Steuerbarkeit entzogen wird bzw. auch Gewinne dem Ausland
+zugewiesen werden, welche nicht von einer anerkannten ausländischen Betriebsstätte
+erwirtschaftet wurden, obschon ein solcher Gewinnanteil dem Stammhaus
+zuzuweisen wäre (vgl. Art. 52 Abs. 3 DBG e contrario). Eine solche
+Zuweisung lässt sich mit der vorliegenden Methode selbst unter
+Berücksichtigung eines Kostenaufschlags nicht oder nur ungenügend
+bewerkstelligen. Ferner wird mittels der inländischen Umsatzbesteuerung
+gemäss den Rulings eine Verlustverrechnung zwischen Betriebsstätte und
+Stammhaus völlig verunmöglicht, obschon das Gesetz eine solche in Art. 52
+Abs. 3 DBG explizit vorsieht.
+6.2
+Als Zwischenfazit ist damit festzuhalten, dass die
+in den
+Schreiben vom
+11. Dezember 2008 und 12. November 2010
+enthaltenen Besteuerungsregeln betreffend die direkte Bundessteuer aus
+verschiedenen Gründen klar gegen den Gesetzeswortlaut verstossen und nicht
+mit den Art. 52 DBG zugrunde liegenden unilateralen Ausscheidungsregeln
+vereinbar sind. Entgegen der Ansicht der Beschwerdegegnerinnen ist daher
+nicht von einem Steuerruling, sondern von einem Steuerabkommen auszugehen,
+welches unzulässig bzw. nichtig ist und keine Berufung auf den
+Vertrauensschutz zulässt (vgl. vorstehende E. II/5.1). Da kein Ruling
+vorliegt, kann im Übrigen offen bleiben, ob sich die Beschwerdeführerin als
+Aufsichtsbehörde für einen Eingriff in die Veranlagung der Beigeladenen als
+zuständig erachten durfte (vgl. zur Zuständigkeit und zur Bindungswirkung
+eines Rulings BGE 141 I 161). Damit steht fest, dass der angefochtene
+Rekursentscheid der Beschwerdegegnerin 3 vom 15. Mai 2017, welcher
+die Besteuerung gemäss den Schreiben vom 11. Dezember 2008 und
+12. November 2010 schützte, gegen Bundesrecht verstösst, weshalb er
+unabhängig davon, ob das Ergebnis der Besteuerung den wirtschaftlichen
+Gegebenheiten entspricht, aufzuheben ist.
+7.
+7.1
+Die Aufhebung des vorinstanzlichen Entscheids
+bedeutet indes noch nicht, dass die Besteuerungen der
+Beschwerdegegnerinnen 1 und 2 gemäss den streitbetroffenen definitiven
+Veranlagungen und Einspracheentscheiden rechtmässig wäre. Wie nachfolgend
+aufgezeigt wird, erweisen sich die darin vorgenommenen Steuerberechnungen und
+internationalen Ausscheidungen nämlich weder als mit den Regeln des
+unilateralen Ausscheidungsrechts vereinbar noch erscheinen die Ergebnisse der
+Besteuerungen als sachgerecht und mit den wirtschaftlichen Gegebenheiten
+vereinbar.
+7.2
+Die Beigeladene nahm die internationale
+Ausscheidung ermessensweise vor; dies mit der Begründung, es seien keine
+verlässlichen Zahlen der Beschwerdegegnerinnen 1 und 2 vorhanden, welche
+für die Bemessung der Betriebsstättengewinne hilfreich seien. Dabei hat sie
+in erster Linie verkannt, dass mit Blick auf die anwendbare
+Ausscheidungsmethode zwischen der Gewinnermittlung und der Gewinnabgrenzung
+konzeptionelle Differenzen bestehen, welche von erheblicher Bedeutung und
+nicht zu vernachlässigen sind (vgl. hierzu Brülisauer, Betriebsstätten,
+S. 346). Diesen Unterschieden trug sie mit der ermessensweisen Festlegung der
+Betriebsstättengewinne nur ungenügend Rechnung. Sodann erscheint nicht
+nachvollziehbar, weshalb sie den Betriebsstätten im Rahmen der Gewinnermittlung
+eine (hypothetische) Selbständigkeit unterstellte, bei ihrer Berechnung aber
+dennoch auf den Gesamtgewinn der Gesamtunternehmung gemäss Länderauswertungen
+abstellte. Ferner stellt die von der Beigeladenen und der Beschwerdeführerin
+favorisierte Methode, welche weitgehend auf Ermessen beruht, zwar einen
+Spezialfall der objektmässigen Methode dar, welche vereinzelt im
+schweizerischen Steuerrecht Anwendung findet (vgl. Brülisauer,
+Steuerrecht, S. 31). Ein solches Vorgehen ist nach der hier vertretenen
+Auffassung allerdings erst dann zulässig, wenn die übrigen
+Ausscheidungsmethoden, welche mit dem Bundesrecht vereinbar sind, versagen.
+Dabei ist mit Blick auf
+die verschiedenen Ausscheidungsmethoden (vgl. vorstehende E. II/5.5)
+eine objektmässige Ausscheidung im vorliegenden Fall nicht angezeigt. Dies
+insbesondere deshalb, weil keine eigentlichen Betriebsstättenbuchhaltungen
+vorliegen, anhand welcher die jeweiligen Betriebsstättengewinne im Sinne der
+sogenannten Teilgewinnkonstruktion losgelöst vom Gesamtergebnis direkt
+ermittelt werden könnten (vgl. dazu Brülisauer, Betriebsstätten, S.
+344). Davon scheint im Übrigen auch die Beigeladene auszugehen, andernfalls
+hätte sie keine ermessensweise Festlegung der Betriebsstättengewinne
+vornehmen müssen. Darüber hinaus erwähnt aber auch die Beschwerdeführerin die
+fehlenden Betriebsstättenbuchhaltungen und impliziert damit selbst eine
+fehlende Grundlage für die objektmässige Ermittlung der einzelnen
+Betriebsstättenergebnisse.
+Des Weiteren scheitert
+vorliegend auch eine quotenmässig-direkte Ausscheidung. Diese Methode, welche
+von der herrschenden Lehre favorisiert wird, sieht im internationalen
+Verhältnis eine Gesamtgewinnzerlegung nach Quoten vor. Zur Umsetzung der
+quotenmässig-direkten Ausscheidung, insbesondere zur provisorischen
+Verlustübernahme im Sinne von Art. 52 Abs. 3 Satz 2 und 3 DBG, besteht
+allerdings eine (faktische) Pflicht zur Erstellung separater
+Betriebsstättenabschlüsse (vgl. Brülisauer, Betriebsstätten, S. 348).
+Solche liegen wie bereits erwähnt nicht vor, wobei darauf hinzuweisen ist,
+dass die Beschwerdegegnerinnen 1 und 2 auch keinen Grund dazu hatten, solche
+einzureichen. So wies die Beigeladene weder auf eine solche Pflicht hin noch
+gab es aufgrund des abgeschlossenen vermeintlichen Rulings Anlass dazu.
+Demgemäss fehlt es aber insgesamt an den Applikationsvoraussetzungen für die
+quotenmässig-direkte Methode, weshalb sie im vorliegenden Fall nicht zur
+Anwendung gelangt. Aus denselben Gründen ist auch die sogenannte gemischte
+Methode nicht heranzuziehen, bei welcher Elemente der quotenmässig-direkten
+und der quotenmässig-indirekten Methode kombiniert werden.
+Da weder die
+quotenmässig-direkte noch die gemischte Methode vorliegend in Frage kommen,
+ist die Ausscheidung aufgrund von Hilfsfaktoren vorzunehmen. Dies gilt
+insbesondere, weil vorliegend eine besonders enge Verflechtung der
+Stammhäuser mit den Betriebsstätten besteht und die Beschwerdegegnerinnen 1
+und 2 nicht dazu verpflichtet waren, Betriebsstättenbuchhaltungen
+einzureichen (vgl. dazu vorstehende E. II/5.5.2). Aus dem Gesagten
+ergibt sich, dass die quotenmässig-indirekte Methode heranzuziehen ist.
+Bezogen auf den vorliegenden Fall erscheint sie zwar als äusserst komplex.
+Ausgehend vom Gesamtgewinn der Beschwerdegegnerinnen 1 und gestützt auf die
+eingebrachten Länderauswertungen erscheint eine Ausscheidung der
+zurechenbaren Gewinne anhand von Hilfsfaktoren (Umsatz, Arbeit, etc.) jedoch
+durchaus als möglich und überdies mit dem unilateralen Ausscheidungsrecht
+vereinbar, weshalb dieser Methode gegenüber einer ermessensweisen Festlegung
+der Betriebsstättengewinne den Vorzug zu geben ist. Daran ändert der Hinweis
+der Beschwerdeführerin auf ihr Kreisschreiben Nr. 8 betreffend die
+internationale Steuerausscheidung von Prinzipal-Gesellschaften vom
+18. Dezember 2001 nichts. Zum einen handelt es sich bei einem solchen
+Kreisschreiben um eine rein generelle Dienstanweisung, welche nur für die
+Vollzugsorgane der öffentlichen Verwaltung verbindlich ist (vgl. statt vieler
+BGer-Urteil 2C_873/2014 vom 8. November 2015 E. 3.4.1), zum anderen
+liegt keine eigentliche Prinzipalstruktur vor.
+7.3
+Selbst wenn man sich nun aber auf den Standpunkt
+stellt, eine ermessensweise Ermittlung der Betriebsstättengewinne sei der
+indirekten-quotenmässigen Ausscheidung vorzuziehen, so würde das von der
+Beigeladenen ermittelte Ergebnis dennoch nicht den tatsächlichen
+wirtschaftlichen Gegebenheiten entsprechen. Ferner würde die Beigeladene mit
+der vorgenommenen Zuweisung des fast vollständigen Unternehmensgewinns an das
+Stammhaus das ihr zustehende Ermessen offensichtlich überschreiten. Eine
+solche Zuweisung wäre einzig dann gerechtfertigt, wenn sämtliche Leistungen
+und die daraus resultierenden Gewinne dem Stammhaus zuzurechnen wären, was
+sich aus mehreren Gründen als falsch erweist.
+Zwar trifft es zu, dass
+die Beschwerdegegnerin 1 in diversen Verträgen als Hauptvertragspartei
+auftritt, womit sie grundsätzlich auch die Risiken für deren Erfüllung zu
+tragen hat. Beispiele hierfür sind etwa der Prime Vendor contract mit den
+US-Streitkräften vom 6. Juli 2005 oder etwa der Mietvertrag über ein
+Lagerhaus (warehouse 13) in Afghanistan vom 1. März 2007, vgl. weiter die im
+Recht liegenden Kauf- und Mietverträge in diversen Ländern. Zudem wurden
+Rechnungen von Dritten fast ausschliesslich an die Beschwerdegegnerinnen 1
+und 2 gestellt, weshalb grundsätzlich diese sich zur vertraglichen Leistung
+verpflichtet haben und nicht die ihr angeschlossenen Betriebsstätten.
+Demgegenüber ergibt sich
+aus den im Recht liegenden Akten, dass insbesondere die Betriebsstätte in
+Afghanistan in den streitbetroffenen Steuerperioden erhebliche Leistungen im
+Rahmen des Unternehmenszwecks erbracht hat. Dies gilt vor allem für
+Leistungen, welche hauptsächlich durch sie selbst realisiert wurden, wobei beispielsweise
+auf die im Videomaterial ersichtliche Wassergewinnung und Wasserabfüllung,
+die Herstellung von Backwaren vor Ort oder die Beschaffung von Gütern
+innerhalb des Krisengebiets hinzuweisen ist. Sodann übernahmen die
+Betriebsstätten diverse Leistungen im Zusammenhang mit den vom Ausland
+importierten Warenlieferungen. So führten sie beispielsweise Arbeiten im
+Zusammenhang mit den Auslieferungen an die Endverbraucher sowie mit der
+Lagerung und der Aufbereitung der Waren für den Endkonsum aus. Ferner erledigte
+sie diverse weitere Dienstleistungen vor Ort (Qualitätsmanagement,
+Kontrollaufgaben, Kundenkontakt, etc.). Daraus wird ohne Weiteres
+ersichtlich, dass ihnen in der gesamten Wertschöpfungskette der Gesellschaft
+bzw. im gesamten operativen Prozess eine tragende Rolle zukam, weshalb es
+nicht angehen kann, dass ihnen hierfür im Rahmen der internationalen
+Ausscheidung kaum Gewinn zugewiesen wird. Dagegen sprechen auch die Anzahl
+und die Funktionen der jeweils involvierten Mitarbeiter. So ist aufgrund der
+geringen Anzahl der in der Schweiz tätigen Mitarbeiter der
+Beschwerdegegnerinnen 1 und 2 im Vergleich zu denjenigen, welche im Ausland
+tätig sind, sowie aufgrund der Funktionen der schweizerischen Arbeitnehmer,
+welche vorzugsweise im Finanzbereich oder im Administrativbereich liegen
+(Group Finance Director, Administrative Assistant, Group Controller, Group
+Treasury, etc.), nicht von der Hand zu weisen, dass das Stammhaus zu Gunsten
+der Betriebsstätten eine vorwiegend unterstützende Funktion ausübte und die
+Betriebsstätten die tragende Rolle im operativen Prozess übernahmen. In
+diesem Lichte ist auch die Erkenntnis der I.______ in der Analyse der
+Gewinnzuweisung an die Betriebsstätte der Beschwerdegegnerin 1 in Afghanistan
+zu würdigen, wonach die in der Schweiz angesiedelte Finanzfunktion nur
+begrenzt in die operativen Belange des Geschäfts eingebunden sei
+(vgl. dazu auch die Übersicht über die Funktionen im Jahr 2010. Dies
+lässt sich im Übrigen auch auf den Transfer Pricing Review der
+J.______) für das Jahr 2007 vom 25. Juli 2008
+stützen
+und erscheint nicht zuletzt
+deshalb als nachvollziehbar, weil eine Geschäftstätigkeit in einem
+Konfliktgebiet einem weitreichendenden Entscheidungsspielraum am Einsatzort
+bedarf. So lässt es sich wohl kaum bewerkstelligen, dass die Entscheidungen
+betreffend das operative Tagesgeschäft von der Schweiz aus getroffen werden
+und die Arbeitnehmer am Einsatzort eine reine Auftragsarbeit erledigen. Gegen
+diese Annahme spricht auch, dass beispielsweise in Afghanistan einzelne Mitarbeiter
+tätig sind, welche höhere Positionen (Operations Controller, General Manager,
+Operations Manager, Custom Service Manager, etc.) bekleiden und dementsprechend
+hohe Löhne erzielen (vgl. dazu den Auszug der Personaldetails der
+Beschwerdegegnerin 1 aus dem Jahr 2009; vgl. auch die diesbezüglichen
+Stellenbeschreibungen). Folglich ist davon auszugehen, dass die
+Betriebsstätten über weitreichende Entscheidungskompetenzen hinsichtlich der
+Geschäftstätigkeit der Gesellschaft am Einsatzort besassen.
+Mit Blick auf die
+Wertschöpfungskette der Gesellschaft lässt sich weiter festhalten, dass – bis
+auf Tätigkeiten in Administration und Finanzierung – die massgeblichen
+operativen Vorgänge überwiegend im Ausland stattfanden (Einkauf, Transport,
+Verkauf, etc.). Soweit die Beschwerdegegnerinnen 1 und 2 nun aber
+diesbezüglich vorbringen, sämtliche aus den im Ausland erbrachten Leistungen
+resultierenden Gewinne seien im Rahmen der unilateralen Ausscheidung der
+jeweiligen Betriebsstätte zuzuweisen, so kann ihnen in Bezug auf die von der
+G.______ mit Sitz in Dubai erbrachten Leistungen nicht gefolgt werden. Zwar
+bringen sie zu Recht vor, dass die G.______ während den streitbetroffenen
+Steuerperioden massgeblich in den Wertschöpfungsprozess der
+Beschwerdegegnerinnen 1 und 2 eingebunden war. Es handelt sich bei ihr jedoch
+um keine Betriebsstätte der Beschwerdegegnerinnen 1 und 2, sondern um
+eine Tochtergesellschaft der Holding und folglich um eine
+Schwestergesellschaft der Beschwerdegegnerinnen 1 und 2. Aufgrund dessen war
+denn auch der Abschluss eines Rahmenvertrags zwischen der
+Beschwerdegegnerin 1
+und der G.______ erforderlich, wonach Letztere
+zentrale Aufgaben für die Beschwerdegegnerin 1 wahrnehmen und dabei
+einen signifikanten Anteil der Risiken tragen solle. Dabei trete sie, die
+G.______, als unabhängige Vertragspartei auf und erhalte für die erbrachten
+Leistungen eine Entschädigung ("service fee"), welche höher
+ausfalle als vergleichbare Leistungen in einem Land, wo kein Konflikt
+herrsche (vgl. Rahmenvertrag vom 30. Juli 2008). Dass die G.______ in
+den streitbetroffenen Steuerperioden solche Kernaufgaben erfüllte, wird von
+den Parteien denn auch anerkannt und ergibt sich zudem aus den Akten. So
+lassen sich diesen beispielsweise verschiedene Verträge entnehmen, in welchen
+die G.______ als Vertragspartei auftrat, wobei etwa der prime vendor contract
+mit der K.______ oder der Vertrag betreffend die Übernahme von
+Serviceleistungen mit dem L.______ zu nennen sind. Aufgrund der im
+Rahmenvertrag festgehaltenen Unabhängigkeit der G.______ sowie der
+drittvergleichskonformen Entschädigung mit einem Risikozuschlag für ihre
+Leistungen ergibt sich nun, dass sie gegenüber den
+Beschwerdegegnerinnen 1 und 2 wie eine unabhängige Drittpartei auftrat.
+Zwar ist nicht von der Hand zu weisen, dass ihre Leistungen eng mit
+denjenigen der Betriebsstätte der Beschwerdegegnerinnen 1 und 2 in
+Afghanistan verbunden waren. Da aber das Stammhaus die Tätigkeiten der
+G.______ jeweils entschädigte und zwischen diesen beiden Einheiten eine
+vertragliche Beziehung bestand, sind die von der G.______ erbrachten
+Leistungen entgegen der Ansicht der Beschwerdegegnerinnen 1 und 2 dem
+jeweiligen Stammhaus zuzurechnen, zumal nicht davon auszugehen ist, dass
+Letztere mit der Auslagerung der Tätigkeiten auf irgendwelche Gewinnanteile
+verzichten wollten. Im Übrigen ist darauf hinzuweisen, dass beim
+Kerngeschäft, namentlich bei den Lieferungen von Waren in Krisengebiete,
+stets das Stammhaus das Erfüllungs- und Haftungsrisiko trug. Dafür spricht
+beispielsweise der Umstand, dass das Stammhaus selbst für zu teure
+Warenlieferungen an die amerikanischen Truppen zu einer Busse verpflichtet
+wurde (vgl. dazu etwa den Artikel im Tagesanzeiger vom 9. Dezember 2014,
+abrufbar unter: https://www.tagesanzeiger.ch [zuletzt besucht am 8. November
+2018]).
+Insgesamt ergibt sich
+daraus, dass den Stammhäusern (Beschwerdegegnerinnen 1 und 2) die im
+Inland erbrachten und die an die G.______ ausgelagerten Leistungen bzw. die
+daraus resultierenden Gewinne sowie diejenigen nicht anerkannter Betriebsstätten
+im Ausland zuzuweisen sind. Demgegenüber sind die aus den eigenen Leistungen
+der ausländischen Betriebsstätten resultierenden Gewinne an die
+Betriebsstätten auszuscheiden. Da diese in den streitbetroffenen
+Steuerperioden nicht unerheblich waren, entbehrt die vorgenommene Zuweisung
+des mit deutlichem Abstand grössten Gewinnanteils an die Stammhäuser
+jeglicher Grundlage und widerspiegelt nicht die tatsächlichen
+wirtschaftlichen Gegebenheiten. Demgegenüber ist aber auch nicht davon
+auszugehen, dass dem Stammhaus nur der Anteil für die eigenen Leistungen
+zuzuweisen ist, da insbesondere die an die G.______ ausgelagerten Tätigkeiten
+und die daraus resultierenden Gewinne dem Stammhaus zuzurechnen sind.
+7.4
+Aus dem Gesagten ergibt sich, dass hinsichtlich der
+direkten Bundessteuer für die internationale Ausscheidung gemäss den
+streitbetroffenen definitiven Veranlagungen und Einspracheentscheiden, welche
+weitgehend auf einer Schätzung der Beigeladenen beruhen, kein Raum besteht.
+Hinzu kommt, dass die dabei zugewiesenen Reingewinne an das Stammhaus die
+tatsächlichen wirtschaftlichen Gegebenheiten nicht widerspiegeln. Wie
+dargelegt wäre dies aber auch dann nicht der Fall, wenn die Ausscheidung
+gemäss den Länderauswertungen geschehen würde. Damit erweisen sich die
+Berechnungen der direkten Bundessteuer für die streitbetroffenen
+Steuerperioden insgesamt als unrechtmässig.
+8.
+Zusammenfassend sind die
+Schreiben
+vom
+11. Dezember 2008 und 12. November 2010
+als unzulässige und unwirksame Steuerabkommen zu qualifizieren, da die darin
+festgelegte Besteuerung der Beschwerdegegnerinnen 1 und 2 klarerweise
+gegen den Gesetzeswortlaut verstösst. Daraus folgt, dass sich Letztere nicht
+auf den Vertrauensschutz berufen können. Sodann besteht für die von der
+Beigeladenen vorgenommene Steuerberechnung gemäss den streitbetroffenen
+definitiven Steuerveranlagungen sowie Einspracheentscheiden kein Raum.
+Darüber hinaus hat sie mit den dabei errechneten und dem jeweiligen Stammhaus
+zugewiesenen Reingewinn ein Ergebnis erzielt, welches offensichtlich nicht
+den tatsächlichen wirtschaftlichen Gegebenheiten entspricht. Daraus folgt
+insgesamt, dass eine Neuberechnung der direkten Bundessteuer für die
+Steuerjahre 2009 bis 2011 angezeigt ist. Dabei rechtfertigt es sich, die
+Sache an die Beigeladene zurückzuweisen. Zum einen ist nämlich sie für die
+Veranlagung bzw. Erhebung der direkten Bundessteuer zuständig (vgl. Art.
+2 DBG und Art. 104 Abs. 2 DBG i.V.m. Art. 2 EG DBG), zum
+anderen können die streitbetroffenen Berechnungen der direkten Bundessteuern
+dadurch bestmöglich mit denjenigen der kantonalen Steuern koordiniert werden
+(vgl. dazu das parallel ergangene Urteil betreffend Kantonssteuern; Verfahren
+VG.2017.00087).
+Demgemäss ist die
+Beschwerde teilweise gutzuheissen. Abzuweisen ist sie, soweit die Besteuerung
+gemäss den Einspracheentscheiden vom 2. Februar 2016 beantragt wurde.
+Gutzuheissen ist sie demgegenüber betreffend die Aufhebung des vorliegend
+angefochtenen Entscheids der Beschwerdegegnerin 3. Der Entscheid der
+Beschwerdegegnerin 3 vom 15. Mai 2017 ist somit aufzuheben und die
+Sache ist an die Beigeladene zur Neuberechnung der direkten Bundessteuer für
+die Steuerjahre 2009 bis 2011 zurückzuweisen.
+9.
+Da die Sache an die
+Beigeladene zurückzuweisen ist und sich die damit verbundene Neuberechnung
+der direkten Bundessteuer für die Steuerjahre 2009 bis 2011 als äusserst
+komplex erweist, rechtfertigen sich diesbezüglich einige Hinweise.
+Die Beigeladene hat in
+einem ersten Schritt begründet darzulegen, in welchen Ländern die Beschwerdegegnerinnen
+1 und 2 effektiv Betriebsstätten unterhalten, wobei die diesbezügliche
+bundesgerichtliche Rechtsprechung zu berücksichtigen ist
+(vgl. obenstehende E. II/5.4)
+.
+Hernach
+hat sie gestützt auf die im Recht liegenden Länderauswertungen den Gesamtgewinn
+der Beschwerdegegnerinnen 1 und 2 festzulegen, wobei sie den Anteil
+nicht anerkannter Betriebsstätten vorab dem jeweiligen Stammhaus zuzuweisen
+hat. Ferner hat sie bei der Festlegung des massgeblichen Gesamtgewinns zu
+berücksichtigen, dass die an die afghanischen Behörden im Steuerjahr 2010
+geleistete Zahlung in der Höhe von USD […] bei der Beschwerdegegnerin 1
+als geschäftsmässig begründeter Aufwand zu berücksichtigen ist und die von
+den Beschwerdegegenrinnen 1 und 2 geltend gemachten Währungsumrechnungseffekte
+als geschäftsmässig unbegründeter Aufwand ergebnisneutral zu behandeln sind
+(vgl. dazu VGer-Urteil VG.2017.00087 vom 8. November 2018
+E. II/4 f.).
+In der
+Folge hat die Beigeladene die eigentliche internationale Ausscheidung
+vorzunehmen. Diese hat mangels separater Betriebsstättenbuchhaltungen wie
+dargelegt nach der quotenmässig-indirekten Methode zu erfolgen. Dabei sind
+anhand von Hilfsfaktoren die Quotenschlüssel für die Betriebsstätten und die
+Stammhäuser festzulegen. Neben dem Umsatz bietet sich hierfür insbesondere
+der für die Leistungserstellung notwendige Aufwand als geeigneter Hilfsfaktor
+dar. Während der Aufwand der Stammhäuser ausschliesslich für deren Quote
+relevant ist, ist derjenige der Betriebsstätten für deren Quoten von Bedeutung.
+Da die Leistungen von der
+G.______ nach
+dem oben Dargelegten zudem vollumfänglich dem jeweiligen Stammhaus
+zuzurechnen sind, ist deren Aufwand ebenfalls dem betreffenden Stammhaus
+zuzuweisen. Der dabei errechnete Quotenschlüssel ist schliesslich auf den
+errechneten Gesamtgewinn anzuwenden, woraus der im Inland steuerbare
+Reingewinn resultiert.
+Schliesslich
+sind die Beschwerdegegnerinnen 1 und 2 im Rahmen dieser Neuberechnung
+darauf hinzuweisen, dass sie die für die Beigeladene notwendigen Informationen
+und Unterlagen im Rahmen ihrer Mitwirkungspflicht beizubringen haben und zur
+Auskunft verpflichtet sind.
+Im
+Übrigen ist es aber auch denkbar und zulässig, dass sich die Parteien über
+den Umfang der Steuerpflicht für die direkten Bundessteuern 2009 bis 2011 im
+Rahmen eines Vergleichs einigen oder aber ein neues bundesrechtskonformes
+Ruling abschliessen.
+III.
+1.
+1.1
+Nach Art. 145 Abs.
+2
+i.V.m. Art. 144 Abs. 1 DBG hat die Partei, welche im
+Beschwerdeverfahren unterliegt, die amtlichen Kosten zu tragen. Wird die
+Beschwerde teilweise gutgeheissen, so werden die Kosten anteilsmässig
+aufgeteilt. Gemäss Art. 144 Abs. 4 DBG i.V.m. Art. 64 Abs. 1
+des
+Bundesgesetzes über das Verwaltungsverfahren vom 20. Dezember 1968
+(VwVG) kann der ganz oder teilweise obsiegenden Partei von Amtes wegen oder
+auf Begehren zudem eine Entschädigung für ihr erwachsene notwendige und
+verhältnismässig hohe Kosten zusprechen. Die Parteientschädigung umfasst
+dabei die Kosten der Vertretung sowie allfällige weitere notwendige Auslagen
+der Partei. Behörden steht in der Regel keine Parteientschädigung zu, da das
+Beantworten von Rechtsmitteln zu ihrem angestammten Aufgabenbereich gehört.
+1.2
+Eine Rückweisung zu erneutem Entscheid mit offenem
+Ausgang gilt für die Verteilung der Kosten und Entschädigungen grundsätzlich
+als Obsiegen (BGer-Urteil 1C_621/2014 vom 31. März 2015 E. 3.3). Da die
+Beschwerdeführerin mit ihren Anträgen aber nur teilweise durchdringt und sich
+insbesondere die von ihr unterstützten Steuerveranlagungen als offensichtlich
+unrechtmässig erweisen, rechtfertigt es sich nach dem oben Dargelegten
+(vgl. E. III/1.1) die pauschalen Gerichtskosten in der Höhe von Fr.
+10'000.- ausgangsgemäss zur Hälfte der Beschwerdeführerin und zur Hälfte den
+Beschwerdegegnerinnen 1 und 2 aufzuerlegen. Aus denselben Gründen ist die
+Beschwerdeführerin zu verpflichten, den Beschwerdegegnerinnen 1 und 2
+eine um die Hälfte reduzierte Parteientschädigung von insgesamt
+Fr. 5'000.- (inkl. Mehrwertsteuer) zu bezahlen.
+2.
+Gegen den vorliegenden Zwischenentscheid steht die
+Beschwerde in öffentlich-rechtlichen Angelegenheiten ans Bundesgericht nur
+nach Massgabe von Art. 93 Abs. 1 des
+Bundesgerichtsgesetzes vom
+17. Juni 2005 (BGG) offen.
+Die Kammer
+erkennt
+:
+1.
+Die
+Beschwerde wird teilweise gutgeheissen. Der Entscheid der
+Beschwerdegegnerin 3 vom 15. Mai 2017 wird aufgehoben und die
+Sache wird im Sinne der Erwägungen an die Beigeladene zurückgewiesen.
+2.
+Die
+Gerichtskosten in der Höhe von Fr. 10'000.- werden zur Hälfte der
+Beschwerdeführerin und zur Hälfte den Beschwerdegegnerinnen 1 und 2
+auferlegt.
+3.
+Die
+Beschwerdeführerin wird verpflichtet, den Beschwerdegegnerinnen 1 und 2
+innert 30 Tagen nach Rechtskraft dieses Entscheids eine Parteientschädigung
+von insgesamt Fr. 5'000.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
