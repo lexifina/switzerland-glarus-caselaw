@@ -1,0 +1,530 @@
+---
+decision_id: "gl_gerichte_VG.2018.00079"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2018.00079"
+docket_2: "VG.2018.712"
+decided: "2018-11-08"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1009&W10_KEY=218274&nTrefferzeile=7&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/814.01/art-020.md", "switzerland/bund/acts/814.41/art-002.md", "switzerland/bund/acts/814.41/art-011.md", "switzerland/bund/acts/814.41/art-013.md", "switzerland/bund/acts/814.41/art-014.md", "switzerland/bund/acts/814.41/art-015.md", "switzerland/bund/acts/814.41/art-016.md"]
+---
+
+# GL Gerichte VG.2018.00079
+
+## Regeste
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+## Text
+
+Glarus Verwaltungsgericht 08.11.2018 VG.2018.00079 (VG.2018.712)
+Glaris Verwaltungsgericht 08.11.2018 VG.2018.00079 (VG.2018.712)
+Glarona Verwaltungsgericht 08.11.2018 VG.2018.00079 (VG.2018.712)
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+8. November 2018
+I. Kammer
+in Sachen
+VG.2018.00079
+A.______
+Beschwerdeführer
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+1.
+Abteilung Umweltschutz und Energie
+Beschwerdegegner
+des Kantons Glarus
+2.
+Departement Bau und Umwelt
+des Kantons Glarus
+betreffend
+Schallschutzmassnahmen
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Am 27. Mai 2002 ersuchte A.______ um die Erteilung
+der Baubewilligung für die Erstellung eines Anbaus am Wohnhaus als
+Lärmschutzmassnahme auf der in seinem Eigentum stehenden Liegenschaft
+Parz.-Nr. 01, Grundbuch […]. Die damalige Gemeinde […] erteilte am
+9. Juli 2002 die Baubewilligung.
+1.2
+Im Amtsblatt des Kantons Glarus vom […] wies das
+Departement Bau und Umwelt des Kantons Glarus (DBU) unter Eröffnung der
+Einsprachefrist auf die öffentliche Planauflage und den Entscheid über
+Erleichterungen betreffend das Lärmsanierungsprojekt […] hin. A.______ erhob
+gegen das Lärmsanierungsprojekt […] keine Einsprache. Die Genehmigung des
+Regierungsrats erfolgte am […].
+1.3
+Am 29. September 2016 teilte A.______ der Abteilung
+Umweltschutz und Energie des Kantons Glarus mit, er sei mit den im Rahmen
+einer Vereinbarung vorgeschlagenen Schallschutzmassnahmen Nrn. 02, 03 und 04
+vorbehaltlos einverstanden. Nicht einverstanden sei er hingegen mit der
+Beurteilung der Gesamtsituation bezüglich Schallschutz. Am 27. März 2017 wies
+die Abteilung Umweltschutz und Energie darauf hin, dass kein weiterer
+Anspruch auf eine Kostenbeteiligung durch den Kanton aufgrund bereits
+getroffener Schallschutzmassnahmen bestehe. Nachdem A.______ die Ausstellung
+einer anfechtbaren Verfügung verlangt hatte, verpflichtete die Abteilung
+Umweltschutz und Energie ihn am 10. Oktober 2017 zur schalltechnischen
+Sanierung der Fenster Nrn. 02, 03 und 04; unter Kostenübernahme durch die
+Abteilung Tiefbau des Kantons Glarus.
+1.4
+Gegen diese Verfügung erhob A.______ am 13. November
+2017 Beschwerde beim DBU, welches diese am 20. Juni 2018 vollumfänglich
+abwies.
+2.
+2.1
+Dagegen gelangte A.______ mit Beschwerde vom 8.
+August 2018 ans Verwaltungsgericht. Er beantragte, die Verfügung vom 10.
+Oktober 2017 sei insofern zu ergänzen, als dass der Kanton Glarus zur
+Kostentragung der Lärmschutzmassnahmen am Fenster Nr. 05 sowie an drei
+Fenstern der Südfassade des Gebäudes auf der Liegenschaft Parz.-Nr. 01
+zu verpflichten sei. Eventualiter sei die Sache in diesem Punkt an die Abteilung
+Umweltschutz und Energie zurückzuweisen, versehen mit der Auflage, ihm den
+beantragten Kostenbeitrag von Fr. 9'521.50 zu bezahlen; alles unter
+Kosten- und Entschädigungsfolgen zu Lasten der Abteilung Umweltschutz und
+Energie. Während Letztere am 11. September 2018 auf das Erstatten einer
+Beschwerdeantwort verzichtete, verwies das DBU am 12. September 2018 auf
+seinen Entscheid und beantragte die vollumfängliche Abweisung der Beschwerde;
+unter Kostenfolge.
+2.2
+Mit Präsidialverfügung vom 28. September 2018
+forderte das Verwaltungsgericht die Abteilung Umweltschutz und Energie auf,
+die Verfahrensakten zu vervollständigen. Am 9. Oktober 2018 reichte die
+Abteilung Umweltschutz und Energie zusätzliche Unterlagen ein und wies
+daraufhin, dass anlässlich der Begehung vor Ort vom 18. Januar 2017 kein
+Protokoll erstellt worden sei.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 37 Abs. 1 des
+Einführungsgesetzes zum Bundesgesetz über den Umweltschutz vom 7. Mai
+1989 (EG USG) i.V.m. Art. 105 Abs. 1 lit. b des Gesetzes über die
+Verwaltungsrechtspflege vom 4. Mai 1986 (VRG) zur Behandlung der
+vorliegenden Beschwerde zuständig. Da auch die übrigen Prozessvoraussetzungen
+erfüllt sind, ist auf die Beschwerde einzutreten.
+1.2
+Mit der Verwaltungsgerichtsbeschwerde können gemäss
+Art. 107 Abs. 1 VRG Mängel des angefochtenen Entscheids oder des Verfahrens
+geltend gemacht werden: die unrichtige oder unvollständige Feststellung des
+rechtserheblichen Sachverhalts (lit. a) und die unrichtige
+Rechtsanwendung einschliesslich eines Missbrauchs des Ermessens (lit. b). Die
+Unangemessenheit des Entscheids kann gemäss Art. 107 Abs.
+2 VRG
+nur ausnahmsweise geltend gemacht werden. Ein
+solcher Ausnahmefall liegt nicht vor.
+2.
+Der Beschwerdeführer macht
+geltend, der Beschwerdegegner 2 habe bereits im Jahr 2001 ein
+Lärmsanierungsprogramm lanciert, wobei der Sanierungsperimeter ausgeschieden
+und damit festgestellt worden sei, dass seine Liegenschaft
+sanierungsbedürftig sei. Da in der Folge jahrelang kein konkretes Lärmsanierungsprojekt
+erarbeitet worden sei, habe er geeignete Investitionen in den Lärmschutz
+selber umgesetzt und damit vorfinanziert. In diesem Zusammenhang habe er die
+Zusicherung des Beschwerdegegners 2 eingeholt, wonach vorgängige
+Investitionen durch Private zurückerstattet würden, sofern diese zu
+Lärmsanierungsmassnahmen berechtigt seien. Bei den ihm gestützt auf das
+Lärmsanierungsprojekt […] eröffneten Schallschutzmassnahmen an seinem Gebäude
+blieben die von ihm bereits vorfinanzierten Schallschutzmassnahmen unberücksichtigt.
+Konkret handle es sich dabei um das Fenster Nr. 05 sowie die Massnahmen
+betreffend die drei Fenster an der Südfassade des Gebäudes, bei welchen die
+Grenzwerte nur deshalb nicht überschritten würden, weil er bauliche
+Massnahmen, welche sich positiv auf die Lärmbelastung auswirkten, vorzeitig
+durchgeführt habe. Weil unbestritten sei, dass diese Fenster im vorliegenden
+Lärmsanierungsprojekt hätten ausgewechselt werden müssen, hätte er den Anbau
+nicht erstellt, seien die dafür anfallenden Kosten vom Kanton als
+Anlageneigentümer zu übernehmen. Entgegen den Ausführungen im
+vorinstanzlichen Entscheid werde nicht die Kostenübernahme des Anbaus,
+sondern einzig die Kostenübernahme der Schallschutzfenster gefordert, welche
+ohne Anbau hätten eingebaut werden müssen. Weiter stelle das Schreiben des
+Beschwerdegegners 2 vom 10. September 2001 eine Zusicherung der
+Rückerstattung der Lärmschutzkosten dar, womit entgegen den vorinstanzlichen
+Ausführungen eine Vereinbarung in Sachen Kostenübernahme vorliege. Damit habe
+der Kanton die Kosten zu tragen, welche ohne die bereits vorfinanzierten
+Lärmschutzmassnahmen im Rahmen des Lärmsanierungsprojekts […] angefallen
+wären, mithin also den Ersatzwert der vier Fenster, die ohne Anbau hätten
+lärmsaniert werden müssen. Würde diese Rückerstattungspflicht verneint, läge
+eine ungerechtfertigte Bereicherung des Kantons vor. Entsprechend sei
+Letzterer zu verpflichten, ihm eine Ersatzzahlung von Fr. 9'521.50
+entsprechend einer sachgerecht eingeholten Offerte betreffend Fenstersanierung
+zu leisten.
+3.
+3.1
+Lassen sich Lärmimmissionen auf bestehende Gebäude
+in der Umgebung von bestehenden Strassen, Flughäfen, Eisenbahnanlagen oder
+anderen öffentlichen oder konzessionierten ortsfesten Anlagen durch
+Massnahmen bei der Quelle nicht unter den Alarmwert herabsetzen, so werden
+die Eigentümer der betroffenen Gebäude verpflichtet, Räume, die dem längeren
+Aufenthalt von Personen dienen, mit Schallschutzfenstern zu versehen oder
+durch ähnliche bauliche Massnahmen zu schützen (Art. 20 Abs. 1 des
+Bundesgesetzes über den Umweltschutz vom 7. Oktober 1983 [USG]). Nach Art. 20
+Abs. 2 USG tragen Eigentümer der lärmigen ortsfesten Anlage die Kosten
+für die notwendigen Schallschutzmassnahmen, sofern sie nicht nachweisen, dass
+zum Zeitpunkt der Baueingabe des betroffenen Gebäudes die
+Immissionsgrenzwerte schon überschritten wurden (lit. a) oder die
+Anlageprojekte bereits öffentlich aufgelegt waren (lit. b).
+3.2
+Bei ortsfesten Anlagen, die wesentlich zur
+Überschreitung der Immissionsgrenzwerte beitragen, ordnet die Vollzugsbehörde
+nach Anhören der Inhaber der Anlagen die notwendigen Sanierungen an (Art. 13
+Abs. 1 der Lärmschutzverordnung vom 15. Dezember 1986 [LSV]). Anlagen
+müssen nach Art. 13 Abs. 2 LSV so weit saniert werden, als dies technisch und
+betrieblich möglich sowie wirtschaftlich tragbar ist (lit. a) und die
+Immissionsgrenzwerte nicht überschritten werden (lit. b). Erleichterungen bei
+Sanierungen können gemäss Art. 14 LSV gewährt werden. Können bei öffentlichen
+oder konzessionierten ortsfesten Anlagen wegen gewährten Erleichterungen die
+Alarmwerte nicht eingehalten werden, so verpflichtet die Vollzugsbehörde die
+Eigentümer der lärmbelasteten bestehenden Gebäude, die Fenster
+lärmempfindlicher Räume nach Anhang 1 gegen Schall zu dämmen (Art. 15 Abs.
+1 LSV). Bestehend sind Gebäude, wenn sie bei Inkrafttreten des USG bereits
+erstellt oder rechtskräftig bewilligt waren (Christoph Zäch/Robert Wolf,
+Kommentar zum Umweltschutzgesetz, 2. A., Zürich/Basel/Genf 2004, Art. 20
+N. 28). Lärmempfindliche Räume sind gemäss Art. 2 Abs. 6
+lit. a LSV Räume in Wohnungen, ausgenommen Küchen ohne Wohnanteil,
+Sanitärräume und Abstellräume.
+3.3
+Die Gebäudeeigentümer können mit Zustimmung der
+Vollzugsbehörde am Gebäude andere bauliche Schallschutzmassnahmen treffen, wenn
+diese den Lärm im Innern der Räume im gleichen Masse verringern (Art. 15
+Abs. 2 LSV). Die Vollzugsbehörde hat damit zunächst den Einbau von
+Schallschutzfenstern zu prüfen, darf indessen nicht unberücksichtigt lassen,
+dass auch andere Schallschutzmassnahmen in Frage kommen können oder zur
+Erreichung des Lärmschutzzieles sogar vorzuziehen sind. Von der Prüfung der
+tatsächlich zu ergreifenden Schallschutzmassnahmen durch die Vollzugsbehörde
+hängt auch ab, welche Kosten vom Eigentümer der lärmigen Anlage zu tragen
+sind (Art. 20 Abs. 2 USG und Art. 16 LSV; BGE 122 II 33 E. 7a).
+4.
+4.1
+Die Anordnung der notwendigen Massnahmen bei der
+Sanierung von bestehenden lärmigen Anlagen obliegt der Abteilung Umweltschutz
+und Energie (Art. 19a Abs. 1 lit. b EG USG i.V.m. Art. 1 Abs. 1 und Art.
+2 Abs. 1 der Verordnung über den Vollzug der Umweltschutz- und der
+Gewässerschutzgesetzgebung vom 21. März 2006). Gemäss Art. 19b Abs. 1 EG
+USG richten sich das Verfahren und die Finanzierung der Lärmschutzmassnahmen
+bei Kantonsstrassen nach Art. 34 ff. des Strassengesetzes vom 2. Mai 1971
+(StrG).
+4.2
+Nach Art. 67 Abs. 1 StrG ist ein Ausführungsprojekt
+von der Strassenbaubehörde öffentlich bekannt zu machen und auf der
+Gemeindekanzlei zur Einsichtnahme und Einspracheerhebung binnen 30 Tagen
+aufzulegen. Das Ausführungsprojekt hat unter anderem über Art, Umfang und
+Einzelheiten seiner bautechnischen Gestaltung Aufschluss zu geben (Art. 67
+Abs. 2 StrG). Für die Abänderung des Ausführungsprojekts kommen die für den
+Strassenplan aufgestellten Vorschriften analog zur Anwendung (Art. 67 Abs. 4
+StrG). Auf die öffentliche Auflage kann verzichtet werden, wenn es sich um
+unwesentliche Korrektionen handelt, wenn alle Interessenten bekannt sind und
+schriftlich ihr Einverständnis zum Projekt erklärt haben. Die Genehmigung des
+Regierungsrats ist auch in diesen Fällen einzuholen (Art. 67 Abs. 5 StrG).
+4.3
+Betreffend die an einem Gebäude durchzuführenden
+konkreten Sanierungsmassnahmen und deren Kostentragung schliesst die
+Abteilung Umweltschutz und Energie nach öffentlicher Auflage des
+Lärmsanierungsprojekts mit dem jeweiligen Grundeigentümer eine Vereinbarung.
+Ist der jeweilige Grundeigentümer mit einem Vereinbarungsschluss nicht
+einverstanden, kann die Abteilung Umweltschutz und Energie die auszuführenden
+Sanierungsmassnahmen verfügungsweise anordnen (Art. 19a Abs. 1 lit. b EG
+USG).
+5.
+5.1
+Das Ausführungsprojekt der Lärmsanierung […] wurde
+öffentlich aufgelegt und in der Folge vom Regierungsrat genehmigt. Betreffend
+die im Eigentum des Beschwerdeführers stehende Liegenschaft Parz.-Nr. 01
+waren darin als Schallschutzmassnahmen zwei Fenster vorgesehen. Gegen das
+Ausführungsprojekt hat der Beschwerdeführer keine Einsprache erhoben. Daraus
+wollen die Beschwerdegegner schliessen, dass eine Kostenbeteiligung an dem
+vom Beschwerdeführer vorfinanzierten Anbau als Sanierungsmassnahme von Beginn
+weg ausgeschlossen ist, da dieser nicht als Sanierungsmassnahme im
+Lärmsanierungsprojekt enthalten ist.
+Dieser Ansicht ist nicht
+beizupflichten. Dass das Nichterheben einer Einsprache im Rahmen der
+öffentlichen Auflage des Sanierungsprojektes einer Anpassung des
+Lärmsanierungsprojektes nicht generell entgegenstehen kann, ergibt sich
+bereits daraus, dass die Beschwerdegegnerin 1 dem Beschwerdeführer mit
+Vereinbarungsvorschlag vom 1. September 2016 die Sanierung und
+Kostenübernahme dreier Fenster in Aussicht stellte. Dies, obwohl im
+Sanierungsprojekt betreffend die beschwerdeführerische Liegenschaft
+Parz.-Nr. 01 nur zwei Fenster als Sanierungsmassnahmen enthalten sind.
+Daraus erhellt, dass eine Anpassung des Lärmsanierungsprojektes auch nach
+dessen öffentlicher Auflage als Ausführungsprojekt möglich sein muss. In
+diesem Sinne weist auch Art. 67 Abs. 5 StrG daraufhin, dass allfällige
+Anpassungen untergeordneter Bedeutung im Rahmen der Detailprojektierung
+vorgenommen werden können (vgl. VGer-Urteil VG.2012.00099 –
+VG.2012.00110 vom 24. April 2013 E. II/22c, nicht publiziert).
+Sodann ist zu beachten,
+dass ein Rechtmittelverfahren gegen das Lärmsanierungsprojekt die
+Rechtmässigkeit des Projekts, worunter allfällig gewährte Erleichterungen im
+Sinne von Art. 14 LSV fallen, zum Gegenstand hat. Die Verpflichtung zur
+Vornahme von Lärmsanierungsmassnahmen wie auch die Kostenübernahme durch den
+Anlagen-eigentümer werden hingegen erst mit dem mit der betreffenden
+Verfügung bzw. im Falle des Einverständnisses beider Parteien mit dem
+Abschluss einer entsprechenden Vereinbarung grundeigentümerverbindlich. Denn
+erst dadurch wird der jeweilige Eigentümer individuell-konkret verpflichtet,
+bestimmte Sanierungsmassnahmen innert einer gewissen Frist und unter
+(nachträglicher) Kostentragung durch den Anlageneigentümer umzusetzen.
+Entsprechend muss es dem Grundeigentümer möglich sein, Einwendungen gegen die
+erstmals mit Vereinbarungsvorschlag eröffneten Sanierungsmassnahmen zu
+erheben und diesbezüglich allfällige Anpassungen zu fordern. Davon geht
+zumindest implizit auch die Beschwerdegegnerin 1 aus, forderte sie doch
+mit Schreiben vom 1. September 2016 den Beschwerdeführer auf, sein
+allfälliges Nicht-Einverständnis mit dem Vereinbarungsvorschlag zu begründen,
+gestützt worauf in der Folge eine anfechtbare Verfügung betreffend Umfang der
+Schallschutzmassnahmen und die allfällige Rückerstattung bereits ersetzter
+Fenster ausgestellt werde.
+5.2
+5.2.1
+Grundsätzlich werden Räume, welche dem längeren
+Aufenthalt von Personen dienen, mit Schallschutzfenstern versehen. Allerdings
+können auch andere bauliche Massnahmen, welche vor Lärm schützen, vorgenommen
+werden (Art. 20 Abs. 1 USG, Art. 15 Abs. 2 LSV). So
+können beispielsweise absorbierende Verkleidungen zur Verhinderung von
+Reflexionen, Blenden zur Reduktion seitlicher Einwirkungen,
+Schalldämmmassnahmen an Balkonen oder Terrassenbrüstungen oder allenfalls die
+Erstellung eines Wintergartens als Lärmschutzmassnahme in Betracht fallen
+(Christoph Schaub, Schalldämmung von Fenstern bestehender Gebäude an lärmigen
+Strassen – Fragen aus der Praxis, in URP 6/1992, S. 592 ff., 593 und 600 f.).
+Wünscht der Eigentümer des Gebäudes anstelle der Schallschutzfenster andere
+bauliche Massnahmen, erstreckt sich die Kostentragung des Anlageninhabers
+maximal auf den Betrag, der für Schallschutzfenster aufgewendet werden müsste
+(Art. 11 Abs. 3 LSV; Zäch/Wolf, Art. 20 N. 41).
+5.2.2
+Entsprechend macht Art. 15 Abs. 2 LSV die
+Vornahme anderer baulicher Massnahmen vom Einverständnis der Vollzugsbehörde
+abhängig. Art. 15 Abs. 2 LSV bezieht sich jedoch auf das
+Sanierungsverfahren, in welchem mittels Vereinbarung zwischen dem
+Grundeigentümer und der Vollzugsbehörde oder allenfalls mittels Verfügung
+bestimmt wird, welche Sanierungsmassnahmen vorgenommen und welche Kosten vom
+Anlageneigentümer zu übernehmen sind. Hingegen betrifft Art. 15 Abs. 2 LSV
+nicht die Frage der Übernahme von vorfinanzierten und bereits umgesetzten
+Lärmsanierungsmassnahmen. Folglich ist die Frage, ob der Beschwerdeführer mit
+der Vornahme des Anbaus auf der Westseite des Gebäudes
+Lärmsanierungsmassnahmen vorfinanzierte, nicht vom Vorliegen einer
+vorgängigen Vereinbarung mit der Beschwerdegegnerin 1 abhängig zu
+machen. Die gegenteilige Argumentation würde darauf hinauslaufen, dass ein
+von Lärm geplagter Grundeigentümer Lärmsanierungsmassnahmen so lange nicht
+vornehmen und allenfalls vorfinanzieren kann, als dass die Vollzugsbehörde
+nicht einverstanden ist, mit ihm eine Vereinbarung betreffend
+Lärmschutzmassnahmen abzuschliessen. Die Vollzugsbehörde wird regelmässig
+aber nicht bereit sein, eine Vereinbarung in Sachen Lärm-sanierungsmassnahmen
+einzugehen, solange kein Lärmsanierungsprojekt vorliegt und insbesondere
+nicht bekannt ist, bei welchen Fenstern welche Grenzwerte überhaupt
+überschritten werden. Damit würde dem vom Lärm geplagten Grundeigentümer von
+Beginn weg die Möglichkeit genommen, selbständig Lärmsanierungsmassnahmen zu
+erstellen sowie vorzufinanzieren mit der Möglichkeit, die vorfinanzierten
+Kosten entsprechend dem Verursacherprinzip vom Lärmverursacher erstattet zu
+erhalten. In diesem Sinne äussert sich nicht zuletzt auch das Tiefbauamt im
+allgemein gehaltenen Schreiben vom 10. September 2001, worin es in pauschaler
+Weise festhält, dass vorgängige Investitionen durch Private zurückerstattet
+würden, wenn sie im Lärmsanierungsprojekt berücksichtigt seien. Entsprechend
+macht sie eine Zusage betreffend die Rückerstattung der vorfinanzierten Kosten
+vom Vorliegen eines Lärmsanierungsprojekts abhängig, nicht aber vom Vorliegen
+einer vorgängigen Vereinbarung.
+Anzufügen bleibt, dass das
+Tiefbauamt entgegen den Ausführungen des Beschwerdeführers im Schreiben vom
+10. September 2001 keine behördliche Zusicherung zur Kostenübernahme gab,
+sondern allgemein festhielt, unter gewissen Bedingungen könnten vorgängige
+Investitionen von Privaten zurückerstattet werden. Damit stellt dieses
+Schreiben keine Vertrauensgrundlage dar, welche der Beschwerdeführer anrufen
+könnte.
+5.2.3
+Stattdessen kann für die Frage der Rückerstattung
+von vorfinanzierten Lärmschutzmassnahmen auf den Leitfaden Strassenlärm,
+Vollzugshilfe für die Sanierung des Bundesamts für Umwelt von Dezember 2006
+abgestellt werden. So beruft sich auch der Beschwerdegegner 2 zu Recht
+auf Ziffer 4.14 des genannten Leitfadens, wobei er davon ausgeht, dass der
+vom Beschwerdeführer erstellte Anbau einer Lärmschutzwand bzw. einem
+Lärmschutzdamm entspricht und damit die diesbezüglich relevanten Bedingungen
+der Rückerstattung der Kosten prüft. Dabei wird insbesondere vorausgesetzt,
+dass die Lärmschutzbaute den im Sanierungsprojekt vorgesehenen Massnahmen
+respektive Massnahmekriterien (Machbarkeit, Verhältnismässigkeit etc.)
+entspricht, deren Vorliegen seitens des Beschwerdegegners 2 verneint
+wird, da der Anbau nicht im Lärmsanierungsprojekt enthalten sei. Dass der
+Anbau am Wohnhaus des Beschwerdeführers als explizit genannte
+Lärmsanierungsmassnahme im Lärmsanierungsprojekt nicht enthalten ist, ist
+unbestritten. Allerdings muss gemäss den Vorgaben im Leitfaden nicht die
+Massnahme als solche im Lärmschutzprojekt enthalten sein, sondern sie muss
+den im Sanierungsprojekt vorgesehenen Massnahmen entsprechen. Dies hat der
+Beschwerdegegner 2 im vorinstanzlichen Entscheid nicht geprüft, was
+vorliegend nachzuholen ist.
+Die im Sanierungsprojekt
+vorgesehenen Massnahmen bezwecken die Reduktion des Lärms in
+lärmempfindlichen Räumen. Die Beschwerdegegner anerkennen übereinstimmend,
+dass zumindest ein Teil der auf der Südseite des Gebäudes vorhandenen Fenster
+die Grenzwerte einzig aufgrund des am Gebäude vorgenommenen Anbaus nicht
+überschreiten. Damit ist erstellt, dass der Anbau zumindest teilweise das
+Ziel des Lärmsanierungsprojekts – die Reduktion des Lärms in lärmempfindlichen
+Räumen – erfüllt. Zwar sind im Lärmsanierungsprojekt keine Anbauten an
+Gebäuden als Lärmschutzmassnahmen enthalten. Doch bildet Gegenstand des
+vorliegenden Verfahrens nicht die Frage der Übernahme der Erstellungskosten
+des Anbaus, sondern die Rückerstattung der Kosten, welche ohne Gebäudeanbau
+für den Einbau von Schallschutzfenstern auf der Südseite des Gebäudes auf der
+Liegenschaft Parz.-Nr. 01 angefallen wären. Das Lärmsanierungsprojekt
+[…] sieht als Lärmschutzmassnahme überwiegend den Einbau von
+Schallschutzfenstern vor. Folglich entsprechen die dem
+Rückerstattungsbegehren des Beschwerdeführers zugrundeliegenden Lärmschutz-massnahmen
+den im Sanierungsprojekt vorgesehenen Massnahmen sowie auch deren Ziele. Dass
+betreffend die Parz.-Nr. 01 eine Sanierungspflicht besteht, die
+Immissionsgrenzwerte ohne Lärmschutzbaute zumindest teilweise überschritten
+würden und die Baubewilligung für die Lärmschutzbaute nach dem 1. Januar
+1985 erteilt worden ist, ist unbestritten, womit auch die übrigen Voraussetzungen
+für eine Kostenrückerstattung für vorfinanzierte Lärmschutzmassnahmen erfüllt
+sind.
+Würde hingegen eine
+Kostenrückerstattung in Übereinstimmung mit den Beschwerdegegnern im Falle
+von vorfinanzierten Lärmsanierungsmassnahmen verneint, würde dies zu einer
+dem Verursacherprinzip und damit der LSV widersprechenden Entlastung des
+Kantons Glarus als Eigentümer der lärmverursachenden Anlage führen. Denn die
+Beschwerdegegnerin 1 würde davon befreit, die ihr gestützt auf
+Art. 20 USG obliegenden Sanierungs- und Kostentragungspflichten zu
+tragen, was nicht sachrichtig wäre.
+5.2.4
+Aus den Akten ergibt sich nicht, wo auf der
+Südseite des Gebäudes des Beschwerdeführers Fenster eingebaut sind und bei
+welchen dieser Fenster die Grenzwerte ohne Gebäudeanbau überschritten würden.
+Ebenso ist daraus nicht ersichtlich, wo die Fenster lärmempfindliche Räume
+betreffen und daher zur Lärmsanierung verpflichten würden. Es obliegt jedoch
+der Beschwerdegegnerin 1, das Lärmsanierungsprojekt vollständig
+auszuarbeiten, wozu auch gehört, abzuklären, wo Sanierungsmassnahmen bereits
+umgesetzt wurden und allenfalls Rückerstattungspflichten bestehen können.
+Folglich ist die Sache an die Beschwerdegegnerin 1 zurückzuweisen,
+welche abzuklären hat, welche Fenster auf der Südseite zu Lärmsanierungsmassnahmen
+berechtigen würden, wäre der Anbau nicht erstellt worden. Ebenso hat sie
+festzustellen, welche Kosten für die entschädigungsberechtigten Fenster
+angefallen wären und diese zurückzuerstatten.
+5.3
+Schliesslich fordert der Beschwerdeführer, das
+Fenster Nr. 05 sei ebenfalls zu sanieren und die dafür anfallenden
+Kosten seien vom Kanton Glarus als Anlageneigentümer zu tragen. Das Fenster
+Nr. 05 befindet sich auf der Westseite des Gebäudes auf der
+Parz.-Nr. 01 und wird damit nicht von dem weiter südlich auf der
+Westseite vorhandenen Anbau abgeschirmt. Entsprechend den unbestrittenen
+Abklärungen der Beschwerdegegnerin 1 gehört das Fenster Nr. 05 zu
+einem Gang/Treppenhaus. Schallschutzfenster sind in Räumen, welche dem
+längeren Aufenthalt von Personen dienen, einzubauen (Art. 20 Abs. 1 USG).
+Lärmempfindliche Räume sind daher Wohnräume, wozu das Treppenhaus bzw. ein
+Gang nicht zählen. Daraus folgt, dass das Fenster Nr. 05 nicht
+sanierungspflichtig ist.
+5.4
+Zusammenfassend ist die Beschwerde teilweise
+gutzuheissen. Der Entscheid des Beschwerdegegners 2 vom 20. Juni
+2018 und die Verfügung der
+Beschwerdegegnerin 1
+vom 10. Oktober 2017 sind aufzuheben. Die
+Sache ist im Sinne der Erwägungen an die Beschwerdegegnerin 1
+zurückzuweisen.
+III.
+1.
+Eine Rückweisung zu
+erneutem Entscheid mit offenem Ausgang gilt für die Verteilung der Kosten und
+Entschädigungen als Obsiegen (BGer-Urteil 1C_621/2014 vom 31. März 2015
+E. 3.3). Insofern hat der Beschwerdeführer als hinsichtlich der Fenster an
+der Südseite obsiegend und hinsichtlich des Fensters Nr. 05 unterliegend
+zu geltend. Die Gerichtskosten von pauschal Fr. 1'200.- sind
+ausgangsgemäss zu einem Viertel dem Beschwerdeführer aufzuerlegen und zu drei
+Vierteln auf die Staatskasse zu nehmen (Art. 134 Abs. 1 lit. c und Art.
+135 Abs. 1 VRG). Vom bereits geleisteten Kostenvorschuss in der Höhe von
+Fr. 1'200.- sind dem Beschwerdeführer Fr. 900.- zurückzuerstatten.
+2.
+2.1
+Die Parteien erhalten gemäss Art. 138 Abs. 3 lit. a
+VRG zu Lasten der Vorinstanz eine angemessene Parteientschädigung, wenn sie
+im Verwaltungsgerichtsbeschwerde-, Revisions- oder Klageverfahren obsiegen.
+Aufgrund seines teilweisen Obsiegens steht dem Beschwerdeführer zu Lasten des
+Beschwerdegegners 2 eine (reduzierte) Parteientschädigung zu.
+2.2
+Der für den Entscheid zuständigen Behörde kommt bei
+der Bemessung der Parteientschädigung ein weiter Ermessensspielraum zu, was
+sich insbesondere darin zeigt, dass die Parteientschädigung lediglich
+angemessen zu sein braucht. Aus dem Umstand, dass nur eine
+"angemessene" Parteientschädigung zuzusprechen ist, leitet das
+Verwaltungsgericht
+in ständiger Praxis
+ab, dass die Parteientschädigung in der Regel nicht sämtliche erforderlichen
+Kosten umfasst, die einer Partei entstanden sind, sondern nur einen Teil des
+nötigen Prozessaufwands. Im Übrigen hat die entschädigungsberechtigte Partei
+ihren notwendigen Aufwand selber zu tragen. Dabei wird davon ausgegangen,
+dass es der entschädigungsberechtigten Partei grundsätzlich zuzumuten ist,
+für einen Teil ihrer erforderlichen Kosten selber aufzukommen (zur
+vergleichbaren Rechtslage im Kanton Zürich: Kaspar Plüss, in Alain Griffel
+[Hrsg.], Kommentar zum Verwaltungs-rechtspflegegesetz des Kantons Zürich,
+3. A., Zürich/Basel/Genf 2014, § 17 N. 80). Nach welchen
+Kriterien die Parteientschädigung zuzusprechen ist, regelt das anwendbare
+Verwaltungsprozessrecht nicht. In der Regel dürfte es naheliegen, sinngemäss
+die Regeln über die Bemessung der Spruchgebühren heranzuziehen. Gemäss § 7
+Abs. 2 der Verordnung über amtliche Kosten im Verwaltungsverfahren und in der
+Verwaltungsrechtspflege vom 24. Juni 1987 (KoV)
+bemisst sich die Spruchgebühr nach dem
+Arbeits- und Zeitaufwand der entscheidenden Behörde (für die Parteientschädigung
+ist der Arbeits- und Zeitaufwand des Rechtsvertreters massgebend), der Bedeutung
+und Schwierigkeit der Sache sowie nach den für die Parteien auf dem Spiele stehenden
+Vermögens- oder sonstigen Interessen an der Angelegenheit
+(VGer-Urteil VG.2016.00111 vom 29. Juni 2017 E.
+III/2.1, VG.2016.00039 vom 26. Januar 2017 E. III/1.2, VG.2016.00113 vom
+15. Dezember 2016 E. II/4.2, VG.2015.00092 vom 19. November 2015 E.
+III/2)
+.
+Reicht ein Rechtsvertreter eine Honorarnote ein oder legt
+er anderswie dar, wie hoch sein Aufwand war, folgt aus dem Anspruch auf rechtliches
+Gehör gemäss Art. 29 Abs. 2 der Bundesverfassung der
+Schweizerischen Eidgenossenschaft vom 18. April 1999 (BV), dass die
+Behörde verpflichtet ist, zu begründen, weshalb sie die Höhe der
+zugesprochenen Parteientschädigung als angemessen erachtet. Mit anderen
+Worten darf sie sich in einem derartigen Fall nicht damit begnügen, ohne
+nähere Begründung eine "angemessene Parteientschädigung"
+zuzusprechen (Plüss, § 17 N. 87). Im Gegensatz zur Bemessung der
+Entschädigung des unentgeltlichen Rechtsbeistands müssen aber weder der
+Zeitaufwand noch der Stundenansatz genau beziffert werden, sondern es genügt,
+wenn die Parteientschädigung unter Berücksichtigung der dargelegten Kriterien
+in pflichtgemässer Ermessensausübung festgesetzt wird (vgl. VGer ZH-Urteil
+VB.2009.00126 vom 8. Juli 2009 E. 5.2.2, www.vgr.zh.ch).
+2.3
+Der Beschwerdeführer reichte eine Honorarnote ein,
+worin er die gesamten Aufwendungen seit Mandatierung ab 24. Oktober 2017
+aufführte. Diesbezüglich ist er darauf hinzuweisen, dass für die Bemessung
+der Parteientschädigung im vorliegenden Beschwerdeverfahren lediglich die in
+diesem Beschwerdeverfahren angefallenen Aufwendungen zu berücksichtigen sind,
+nicht hingegen seine vorinstanzlichen Bemühungen. Überdies ist zu beachten,
+dass im Verfahren vor der oberen Instanz ein geringerer Aufwand erforderlich
+als im Verfahren vor der unteren Instanz, wenn sich im oberinstanzlichen
+Verfahren die gleichen Rechtsfragen stellen bzw. wenn der Prozessstoff keine
+wesentliche Ausdehnung erfährt (Plüss, § 17 N. 74), was vorliegend zutrifft.
+Sodann weist der vorliegende Fall nur wenige Akten auf und die sich
+stellenden Rechtsfragen sind nicht überdurchschnittlich komplex. Entsprechend
+erscheint eine um einen Viertel reduzierte Parteientschädigung in der Höhe
+von Fr. 1'200.- (inkl. Mehrwertsteuer) als angemessen.
+3.
+Gegen diesen Entscheid
+steht die Beschwerde in öffentlich-rechtlichen Angelegenheiten ans
+Bundesgericht nur nach Massgabe von Art. 93 Abs. 1 des Bundesgerichtsgesetzes
+vom 17. Juni 2005 (BGG) offen.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird teilweise gutgeheissen. Der Entscheid des
+Beschwerdegegners 2 vom 20. Juni 2018 und die Verfügung der
+Beschwerdegegnerin 1 vom 10. Oktober 2017 werden aufgehoben. Die
+Sache wird im Sinne der Erwägungen an die Beschwerdegegnerin 1
+zurückgewiesen.
+2.
+Die
+Gerichtskosten von Fr. 1'200.- werden zu einem Viertel dem
+Beschwerdeführer auferlegt und zu drei Vierteln auf die Staatskasse
+genommen. Vom bereits geleisteten Kostenvorschuss in der Höhe von
+Fr. 1'200.- werden dem Beschwerdeführer Fr. 900.-
+zurückerstattet.
+3.
+Der
+Beschwerdegegner 2 wird verpflichtet, dem Beschwerdeführer innert 30 Tagen
+nach Rechtskraft dieses Entscheids eine Parteientschädigung von
+Fr. 1'200.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
