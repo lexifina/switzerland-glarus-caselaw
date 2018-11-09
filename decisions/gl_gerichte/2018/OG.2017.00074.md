@@ -1,0 +1,501 @@
+---
+decision_id: "gl_gerichte_OG.2017.00074"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2017.00074"
+docket_2: "OGS.2018.42"
+decided: "2018-11-09"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1013&W10_KEY=218274&nTrefferzeile=4&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/173.110/art-097.md", "switzerland/bund/acts/311.0/art-103.md", "switzerland/bund/acts/312.0/art-354.md", "switzerland/bund/acts/312.0/art-356.md", "switzerland/bund/acts/312.0/art-381.md", "switzerland/bund/acts/312.0/art-391.md", "switzerland/bund/acts/312.0/art-398.md", "switzerland/bund/acts/312.0/art-403.md", "switzerland/bund/acts/312.0/art-406.md", "switzerland/bund/acts/312.0/art-426.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/312.0/art-436.md", "switzerland/bund/acts/741.01/art-030.md", "switzerland/bund/acts/741.01/art-093.md", "switzerland/bund/acts/741.11/art-057.md"]
+---
+
+# GL Gerichte OG.2017.00074
+
+## Regeste
+
+Widerhandlung gegen das Strassenverkehrsgesetz (ungenügendes Sichern einer Ladung)
+
+## Text
+
+Glarus Obergericht 09.11.2018 OG.2017.00074 (OGS.2018.42)
+Glaris Obergericht 09.11.2018 OG.2017.00074 (OGS.2018.42)
+Glarona Obergericht 09.11.2018 OG.2017.00074 (OGS.2018.42)
+
+Widerhandlung gegen das Strassenverkehrsgesetz (ungenügendes Sichern einer Ladung)
+
+Kanton Glarus
+Obergericht
+Urteil
+vom 9. November 2018
+Verfahren
+OG.2017.00074
+Staatsanwaltschaft des Kantons Glarus                                 Anklägerin
+und
+Berufungsklägerin
+gegen
+B.______                                                                                      Beschuldigter
+und
+Berufungsbeklagter
+vertreten
+durch C.______
+Gegenstand
+Verletzung
+der Verkehrsregeln
+(ungenügendes
+Sichern der Ladung)
+über die
+Anträge:
+A. der
+Anklägerin und Berufungsklägerin
+(gemäss
+Berufungserklärung vom 19. Dezember 2017 [act. 18]):
+1.
+Die
+Ziffern 1, 2, 3 und 4 des Urteils des Präsidenten des Kantonsgerichts
+Glarus vom 27. November 2017 seien aufzuheben.
+2.
+B.______
+sei schuldig zu sprechen des ungenügenden Sicherns der Ladung im Sinne von
+Art. 93 Abs. 2 lit. a SVG i.V.m. Art. 29, Art. 30
+Abs. 2 SVG und Art. 57 Abs. 1 VRV.
+3.
+B.______
+sei mit einer Busse von CHF 250.‑ zu bestrafen. Bei schuldhafter
+Nichtbezahlung und wenn die Betreibung keinen Erfolg hat, sei die Busse in
+eine unbedingt vollziehbare Ersatzfreiheitsstrafe von drei Tagen
+umzuwandeln.
+4.
+Die
+Kosten des Verfahrens seien B.______ aufzuerlegen.
+B. des
+Beschuldigten und Berufungsbeklagten
+(gemäss
+Berufungsantwort sei­nes Rechtsvertreters vom 17. August 2018
+[act. 41]):
+1.
+Es
+sei die Berufung vom 19. Dezember 2017 vollumfänglich abzuweisen.
+2.
+Alles
+unter Kosten- und Entschädigungsfolge zzgl. der gesetzlichen Mehrwert­steuer
+zu Lasten des Staates sowie unter dem Vorbehalt weiterer Rechte zu Gunsten
+von B.______.
+____________________
+Das
+Obergericht zieht in Betracht:
+I.
+1.
+B.______, Landschaftsgärtner bei der X.______ AG, transportierte am
+frühen Dienstagnachmittag, 15. April 2017, mit dem Lieferwagen seiner
+Arbeitgeberin granitene Gartenplatten sowie Sand von Näfels nach dem rund
+fünf Kilometer entfernten Netstal (Glarus). Ausgangs Näfels wurde er von der
+Polizei angehalten und einer Kontrolle unterzogen. Hierbei stellte die
+Polizei fest, dass die Ladefläche des Fahrzeuges über den Seitenwänden zwar
+mit einem Ladungssicherungsnetz aus Polypropylen überspannt war, sich
+darunter im vorderen Teil der Ladebrücke aber drei je rund 80 kg schwere
+Granitplatten (80 cm x 100 cm) befan­den, die übereinander gelegt und
+nicht festgezurrt waren. Die unterste Platte lag dabei stirnseitig auf dem im
+seitlichen Bereich der Ladefläche mitgeführten Sand auf, wodurch die Platten
+nicht gänzlich flach auf der Ladefläche platziert waren (siehe zum Ganzen:
+act. 2/1 sowie act. 2/10 Rz. 4 ff. und Rz. 18).
+2.
+Aus Sicht der Staatsanwaltschaft hätten die betreffenden drei
+Granitplatten auf der Ladefläche besser gesichert werden müssen. Die
+Staatsanwalt­schaft verurteilte daher B.______ (nachfolgend Beschuldigter)
+mit Strafbefehl vom 19. Mai 2017 wegen ungenügenden Sicherns der Ladung
+gemäss Art. 93 Abs. 2 lit. a SVG i.V.m. Art. 29 und
+Art. 30 Abs. 2 SVG sowie Art. 57 Abs. 1 VRV zu einer
+Busse von CHF 250.‑ bzw. zu einer Ersatzfrei­heitsstrafe von 3
+Tagen bei schuldhaftem Nichtbezahlen der Busse und Erfolglosig­keit der
+Betreibung (act. 3).
+Auf Einsprache des Beschuldigten hin (act. 2/5), der sich in der
+Folge übrigens hat anwaltlich vertreten lassen (act. 2/6), überwies die
+Staatsanwaltschaft in Anwen­dung von Art. 356 Abs. 1 StPO die Ange­legenheit
+zur gerichtlichen Beurteilung an den zuständigen Präsidenten der Straf­kammer
+des Kantonsgerichts (act. 1).
+3.
+Der Kantonsgerichtspräsident sprach in seinem Entscheid vom
+27. November 2017 den Beschul­digten vom Vorwurf des ungenügenden
+Sicherns der Ladung frei (act. 14 S. 8 Dispositiv‑Ziff. 1),
+verfügte die Übernahme der Verfahrenskosten durch den Staat
+(Dispositiv-Ziff. 2 und Ziff. 3) und sprach dem Beschuldigten aus
+der Gerichtskasse eine Parteientschädigung in Höhe von CHF 3'000.‑
+zu (Dispositiv-Ziff. 4).
+4.
+Dagegen erhob die Staatsanwaltschaft am 19. Dezember 2017
+(act. 18) Berufung beim Obergericht mit dem Antrag, den Beschuldigten im
+Sinne der Anklage zu bestrafen und ihm die gesamten Verfahrenskosten
+aufzuerlegen.
+II.
+1.
+Die Berufung der Staatsanwaltschaft ist rechtzeitig erfolgt und auch
+die weiteren Eintretensvoraussetzungen im Sinne von Art. 403 Abs. 1
+StPO sind erfüllt (es kann hierzu vollumfänglich auf den Zwischenentscheid
+des Obergerichts vom 27. Februar 2018 verwiesen werden [act. 27]).
+2.
+Da es sich bei der inkriminierten Verletzung des
+Strassenverkehrsgesetzes im Sinne von Art. 93 Abs. 2 lit. a
+SVG um eine Übertretung handelt (Art. 103 StGB), wurde das
+Berufungsverfahren schriftlich geführt (Art. 406 Abs. 1 lit. c
+StPO).
+Die Staatsanwaltschaft hat mit Schreiben vom 3. Mai 2018
+(act. 32) explizit auf ihre bereits in begründeter Fassung eingereichte
+Berufungseingabe vom 19. Dezember 2017 (act. 18) verwiesen und
+diese nicht ergänzt. Der Beschuldigte erstattete seine Berufungsantwort
+innert mehrfach erstreckter Frist (siehe act. 34-37) am 17. August
+2018 (act. 41) und beantragt darin die kostenfällige Abweisung der
+Berufung und damit Bestätigung des angefochtenen freisprechenden Entscheids.
+Die Vorinstanz schliesst in ihrer Stellungnahme vom 19. Juli
+2018 implizit ebenfalls auf Abweisung der Berufung (act. 40).
+III.
+1.
+Das vorliegende Strafverfahren beschlägt, wie bereits zuvor erwähnt,
+einen Über­tretungstatbestand. In einem solchen Fall kann mit der Berufung
+nur geltend ge­macht werden, das Urteil sei rechtsfehlerhaft oder die
+Feststellung des Sachverhalts sei
+offensichtlich
+unrichtig oder beruhe
+auf einer Rechtsverletzung; neue Behaup­tungen und Beweise können dabei nicht
+vorgebracht werden (Art. 398 Abs. 4 StPO).
+2.
+Die eben zitierte Regelung von Art. 398 Abs. 4 StPO
+bedeutet Folgendes in Bezug auf die inhaltliche Beurteilung einer Berufung in
+einer Übertretungsstrafsache: Das Obergericht als Berufungsinstanz prüft
+sämtliche materiellrechtlichen und pro­zessualen Rechtsfragen mit freier
+Kognition. Soweit demgegenüber in der Beru­fung die Würdigung des Sachverhalts
+gerügt wird, beschränkt sich die Überprüfung auf offensichtliche
+Unrichtigkeit, also auf Willkür. In diesem Punkt unterscheidet sich die
+Kognition des Obergerichts nicht von derjenigen des Bundesgerichts im Rahmen
+von Art. 97 BGG (siehe dazu
+Hug/scheidegger
+,
+in: Donatsch/Hans­jakob/Lieber [Hrsg.], Kom­mentar zur Schweizerischen
+Strafprozess­ordnung, 2. Aufl., Zürich 2014, N 23 zu Art. 398;
+Schmid/Jositsch
+, StPO
+Praxiskommentar, 3. Aufl., Zürich/ St. Gallen 2018, N 13 zu
+Art. 398). Nach der formelhaften Umschreibung des Bun­desgerichts liegt
+Willkür bei der Sachverhaltsfeststellung nicht schon vor, wenn ein anderer
+Ent­scheid ebenfalls ver­tretbar erscheint oder gar vorzuziehen wäre, sondern
+erst, wenn die Beweiswürdi­gung offensichtlich unhaltbar ist, zur tatsäch­lichen
+Situation in kla­rem Widerspruch steht oder in stossender Weise dem Gerech­tigkeitsgedanken
+zu­widerläuft. Willkür liegt nur vor, wenn nicht bloss die Begrün­dung eines
+Entscheids, sondern auch das Ergebnis unhaltbar ist. Willkürlich ist ins­besondere
+auch die Be­weiswürdigung im Strafverfahren, die sich in unhaltbarer Weise
+nicht auf den sich aus den Akten erge­benden Sachverhalt abstützt und
+wesentliche Parteivorbringen unberücksichtigt lässt (BGer, Urteil vom
+22. April 2010, 6B_890/2009, E. 1.2; BGE 135 II 356
+E. 4.2.1 S. 362; BGE 138 I 49 E. 7.1 S. 51; je
+mit Hinwei­sen).
+3.
+3.1
+Gemäss Art. 30 Abs. 2 SVG ist
+bei Transporten mit Fahrzeugen die Ladung so anzubringen, dass sie niemanden
+gefährdet oder belästigt und nicht herunterfallen kann. Für die korrekte
+Sicherung der Ladung ist der Führer des Fahrzeuges verant­wortlich
+(Art. 57 Abs. 1 VRV). Nach Art. 93 Abs. 2 lit. a SVG
+wird mit Busse bestraft, wer ein Fahrzeug führt, von dem er weiss oder bei
+pflichtgemässer Aufmerksamkeit wissen kann, dass es den Vorschriften nicht
+entspricht. Diese Bestimmung sank­tioniert auch den Fahrzeuglenker, dessen
+Ladung sich in nicht vorschriftsgemässem Zustand befindet (BGer, Urteil vom
+24. Februar 2011, 6B_894/2010, E. 2.3.2; ferner Urteil vom 24. Januar
+2013, 6B_594/2012, E. 2).
+Nach der Rechtsprechung ist erforderlich, dass die Stabilität der
+Ladung nicht bloss im normalen Verkehr, zu dem plötzliches Bremsen gehört,
+sichergestellt ist. Die Ladung muss auch bei leichten Unfällen stabil
+bleiben. Darunter fallen u.a. leichtere Kollisionen, das Rutschen auf nassem
+oder eisigem Untergrund, das in einen seitli­chen Zusammenstoss mit einer
+Mauer oder einer Barriere mündet. Diese Art von Unfällen ziehen das Fahrzeug
+oft nicht weiter in Mitleidenschaft. Die Instabilität der Ladung kann jedoch
+schwere Folgen haben, sei es, dass die Ladung herunterfällt und andere
+Verkehrsteilnehmer trifft, oder sei es, dass die Ladung gegen die
+Fahrerkabine prallt und dabei unmittelbar die im Fahrzeug mitfahrenden
+Personen selber zu Schaden kommen (siehe hierzu BGer, Urteil vom 8. Januar
+2009, 1C_223/2008, E. 2.3; BSK-
+Schenk
+,
+N 42 zu Art. 30 SVG).
+3.2
+Die Vorinstanz hat im angefochtenen
+Entscheid im Rahmen der Würdigung der Anklage ausgeführt, es sei in der
+Untersuchung nicht abgeklärt worden, inwiefern sich das Netz, welches beim
+fraglichen Transport über die Ladebrücke des Fahr­zeuges gespannt war,
+konkret auf die Ladungssicherung ausgewirkt habe. Auch wenn keine
+Anhaltspunkte dafür bestünden, dass das Netz nicht ordnungs­gemäss angebracht
+war, so sei gleichwohl nicht erstellt, ob das Netz für die Sicherung der
+vorliegenden Ladung ausreichend war. Ob das Netz ein Aufrichten der auf der
+Ladefläche nicht festgebundenen Gartenplatten verhindert hätte, sei nicht
+unter­sucht worden; es liege auch kein Gutachten zur Festigkeit des Netzes
+vor, wobei im Strafbefehl aber auch nicht behauptet werde, dass das Netz
+nicht sichernd gewirkt habe. Im Übrigen aber wäre im Falle eines leichten
+Unfalls nicht zu erwarten gewe­sen, dass die Granitplatten aus dem
+Lieferwagen hinaus­katapultiert würden, da die Platten [je] 80 kg schwer
+waren und die Ladefläche von Ladewänden umschlossen war. Im Ergebnis sei von
+dem für den Beschuldigten günstigeren Sachverhalt aus­zugehen und sei der
+Beschuldigte daher vom Anklagevorwurf der ungenügenden Sicherung der Ladung
+freizusprechen (act. 14 S. 7 E. III. 7. und 8.).
+Die Staatsanwaltschaft macht in ihrer Berufung geltend, die Anklage
+habe sich zum verwendeten Netz allein deshalb nicht geäussert, weil es sich
+bei diesem Netz um ein geknotetes Abdecknetz gehandelt habe, welches nur
+dafür geeignet sei, zu verhindern, dass leichteste Gegenstände (etwa
+Grünschnitt, Papier und Pappe) von der Ladefläche geweht würden. Zur
+Sicherung der schweren Granitplatten, welche wie hier in keine Richtung
+formschlüssig und zudem nicht flach geladen waren, habe das Netz von
+vornherein nicht getaugt, weshalb weitere Abklärungen hierzu nicht
+erforderlich gewesen seien. Es wäre aber an der Vorinstanz gelegen, aus ihrer
+Sicht notwendige Abklärungen zu tätigen (etwa die Konsultation von Gebrauchs­anleitungen
+oder Weisungen zu Abdecknetzen) bzw. zusätzliche Beweise abzuneh­men.
+Insgesamt habe daher die Vorinstanz willkürlich, "vom Bürotisch
+aus", bloss Mutmassungen zur Ladungssicherung angestellt und ihre
+Behauptungen mit keiner­lei Abklärungen verbunden bzw. belegt. Der
+Sachverhalt sei offensichtlich unrichtig festgestellt und als Konsequenz
+davon auch fehlerhaft beurteilt worden (act. 18).
+3.3
+3.3.1
+Die Vorinstanz hat sich im angefochtenen
+Entscheid nicht festgelegt, ob das angebrachte Abdecknetz eine ausreichende
+Sicherung bot für die drei Granitplatten, welche auf der Ladebrücke
+"frei" auflagen und nicht mit Zurrgurten befestigt waren. Wie es
+sich mit diesem Netz in Bezug auf die Sicherung der Ladung konkret verhalten
+hat, kann auch vor Obergericht offenbleiben. Aus dem angefochtenen Entscheid
+ergibt sich nämlich hinreichend klar, dass die Vorinstanz die Ladung schon
+allein deshalb für genügend gesichert erachtet hat, weil sich die drei überei­nander
+gelegten Granitplatten innerhalb einer mit Seitenwänden umschlossenen
+Ladebrücke befanden und die Platten aufgrund ihres Eigengewichts selbst bei
+einem leichten Unfall nicht in eine die Verkehrssicherheit gefährdende
+instabile Lage geraten wären.
+3.3.2
+Wie bereits eingangs kurz dargelegt
+(oben E. I. 1.) ist strittig, ob die drei je rund 80 kg schwere Granitplatten
+zureichend gesichert waren, als der Beschuldigte diese Platten mit dem
+Lieferwagen von Näfels nach Netstal transportierte.
+Die ca. 80 cm x 100 cm grossen Platten lagen, die unterste Platte
+stirnseitig einge­bettet in einen Sandhaufen, schräg übereinander (siehe die
+Fotos bei act. 2/1). Als Folge davon, dass die unterste Platte auf der
+einen kurzen Kante auf dem Sand­haufen und auf der anderen kurzen Kante auf
+der Ladefläche auflag, bestand zwar zwischen der Platte und der Ladefläche
+ein gewisser Hohlraum; wäre die Platte ganzflächig auf der Ladebrücke
+aufgelegen, hätte dies die stabilitätsfördernde Reibungswirkung zwischen
+Ladung und Ladefläche zweifelsohne verbessert. Indes ist aber auch
+festzuhalten, dass die Platten die knapp 40 cm hohen Seitenwände der
+Ladebrücke (siehe dazu die Foto bei act. 2/10) nicht überragten; bis zur
+Ober­kannte der Ladewände waren es soweit erkennbar noch mindestens
+10 cm. Im Falle eines brüsken Brems- oder Ausweichmanövers oder gar
+eines Aufpralls bei einer (leichten) Kollision hätten sich die Platten
+lediglich innerhalb der Ladebrücke ver­schoben, ohne dass dies aber für die
+Fahrzeuginsas­sen selber oder andere Verkehrsteilnehmer eine Gefahr bewirkt
+hätte. Aufgrund des doch erheblichen Eigengewichts der Platten ist
+schliesslich auch nicht vorstellbar, dass die Platten sich in einer wie eben
+beschriebenen besonderen Fahrsituation hätten aufrichten können oder gar von
+der Ladebrücke geschleudert worden wären, zumal der Trans­port (bloss) auf
+einer Hauptstrasse und nicht etwa auf einer Auto­bahn mit ungleich höheren
+Geschwindigkeiten ausgeführt wurde.
+3.3.3
+Bei dieser Sachlage ist es nicht
+willkürlich, wenn die Vorinstanz auf Abklä­rungen zur Sicherungswirkung des
+Abdecknetzes verzichtet hat. Die Vorinstanz hat somit im Ergebnis willkürfrei
+darauf geschlossen, dass die fragliche Ladung zurei­chend gesichert war und
+hat daher den Beschuldigten vom gegenteiligen Vorhalt zu Recht
+freigesprochen. Somit ist die Berufung der Staatsanwaltschaft in diesem Punkt
+abzuweisen.
+4.
+Die Staatsanwaltschaft hat in ihrer Berufung (act. 18) auch die
+Kostenregelung ge­mäss Dispositiv-Ziff. 2-4 des vorinstanzlichen Entscheids
+angefochten. Die Staats­anwaltschaft ist zur Anfechtung eines
+erstinstanzlichen Strafurteils auch im Kosten­punkt legitimiert
+(Art. 381 Abs. 1 StPO;
+Schmid/Jositsch
+,
+a.a.O., N 2 zu Art. 381 StPO).
+4.1
+Nachdem der Beschuldigte von Schuld und Strafe
+freizusprechen ist, hat die Vorinstanz die Gerichts- und Untersuchungskosten
+in korrekter Anwendung von Art. 426 Abs. 2 StPO auf die Staatskasse
+genommen. Insofern ist daher die Beru­fung unbegründet.
+4.2
+4.2.1
+Die Vorinstanz hat gestützt auf Art. 429
+Abs. 1 lit. a StPO dem freigesproche­nen Beschuldigten aus der
+Gerichtskasse eine Entschädigung in Höhe von CHF 3'000.‑ zuerkannt
+(act. 14 S. 8 Dispositiv-Ziff. 4). Der Beschuldigte selber
+hatte von seinem Rechtsvertreter ausgewiesene Anwaltskosten in Höhe von
+CHF 3'790.05 als Entschädigung geltend gemacht (act. 9
+S. 7 f. und act. 11). Die Vorinstanz hat sich im angefochtenen
+Entscheid nicht zur konkreten Bemessung der Entschä­digung geäussert, sondern
+bloss festgehalten, dem Beschuldigten stehe eine "angemessene
+Parteientschädigung" zu (act. 14 S. 7 E. IV.).
+4.2.2
+Die Staatsanwaltschaft begründet in
+ihrer Berufung (act. 18) ihren Einwand gegen die vorinstanzliche
+Entschädigungsregelung nicht näher. Indes schadet dies der Berufungsklägerin
+nicht. Das Berufungsgericht ist nämlich nicht an die Begrün­dung des
+Rechtsmittels durch die Parteien gebunden (Art. 391 Abs. 1 StPO).
+Es gilt insoweit in tatsächlicher Hinsicht der Grundsatz der materiellen
+Wahrheit, in recht­licher Hinsicht der Grundsatz iura novit curia (
+Lieber,
+in: Donatsch/Hansjakob/Lieber
+[Hrsg.], bereits oben zitiert, N 1 zu Art. 391 StPO). Dies gilt
+ebenso in einem Über­tretungsstrafverfahren, bei dem die Kognition der
+Berufungsinstanz eingeschränkt ist (Art. 398 Abs. 4 StPO); es
+besteht deswegen nicht etwa eine qualifizierte Rüge­pflicht (
+Hug/Scheidegger,
+in:
+Donatsch/Hansjakob/Lieber [Hrsg.], bereits oben zitiert, N 24 zu
+Art. 398 StPO).
+4.2.3
+Wird die beschuldigte Person ganz oder
+teilweise freigesprochen oder wird das Verfahren gegen sie eingestellt, so
+hat sie gemäss Art. 429 Abs. 1 lit. a StPO Anspruch auf
+Entschädigung ihrer Aufwendungen für die angemessene Ausübung ihrer
+Verfahrensrechte; konkret gemeint sind dabei primär die Kosten für die frei
+gewählte Verteidigung (
+Schmid/Jositsch
+,
+a.a.O., N 7 zu Art. 429 StPO). Der An­spruch auf eine Entschädigung
+setzt dabei aber kumulativ voraus – auch wenn dies so im Gesetzeswortlaut
+nicht direkt zum Ausdruck kommt –, dass erstens der Bei­zug eines Anwalts
+gerechtfertigt ist und, zweitens, der von diesem betriebene Auf­wand ange­messen
+war. Es ist somit nicht auszuschliessen, dass im Einzelfall schon der Beizug
+eines Anwalts an sich als nicht angemessene Ausübung der Verfah­rensrechte
+bezeichnet werden könnte (BGE 138 IV 197 E. 2.3.4 S. 203).
+4.2.4
+Bei der dem Beschuldigten
+vorgeworfenen Übertretung des Strassenverkehrs­gesetzes handelte es sich um
+eine ausgesprochene Bagatell­angelegenheit. Es lag mit anderen Worten kein
+gravierender Tatvorwurf vor. So gesehen stand für den Beschuldigten anders
+als etwa bei einem angelasteten Verbrechen oder Vergehen nicht "einiges
+auf dem Spiel", wenngleich aber immerhin anzuerkennen ist, dass der
+inkriminierte Vorhalt unmittelbar die Lohnarbeit des Beschuldigten und damit
+sozu­sagen dessen berufliche Integrität betraf. Der Sachverhalt schliesslich
+erwies sich weder in tatsächlicher noch in rechtlicher Hinsicht als komplex.
+Es sind sodann aus den Akten auch keine Anhaltspunkte ersichtlich, dass der
+Beschuldigte aufgrund persönlicher Verhältnisse von vornherein nicht in der
+Lage gewesen wäre, sich sel­ber zu verteidigen (siehe dazu auch act. 13
+S. 3 Frage 7). Allerdings ist in der Litera­tur und Rechtsprechung
+als Stossrichtung erkennbar, dass zusehends auch in Bagatellfällen der Beizug
+eines Rechtsvertreters als gerechtfertigt erachtet wird (BGE 138 IV 197
+E. 2.3.2 und 2.3.5 S. 201 ff.). Insofern ist vorliegend der
+Beizug eines Rechtsvertre­ters an sich nicht zu beanstanden, zumal eingedenk
+der zuvor angesprochenen hier speziellen Betroffenheit des Beschuldigten als
+Arbeitnehmer.
+Auch wenn der Beizug eines Rechtvertreters vertretbar sein mag, ist
+nicht jeder anwaltliche Aufwand zu entschädigen, der im Strafverfahren
+entstanden ist, sondern nur die Aufwendungen für eine angemessene Ausübung
+der Verfahrensrechte (Art. 429 lit. a StPO). Die Angemessenheit des
+Verteidigungs­aufwands beurteilt sich anhand der zur Anwendung gelangenden
+Verfahrensart sowie anhand der zur Diskussion stehenden Interessen, welche
+sich aus dem kon­kreten Tatvorwurf, der tatsächlichen oder rechtlichen
+Komplexität des Falles sowie der drohenden Sanktion und Kostenfolge ergeben.
+Als Massstab bei der Beantwortung der Frage, welcher Aufwand für eine
+angemessene Verteidigung im Strafverfahren nötig ist, hat der erfahrene
+Anwalt zu gelten, der im Bereich des materiellen Strafrechts und des
+Strafprozessrechts über fundierte Kenntnisse verfügt und deshalb seine
+Leistungen von Anfang an zielgerichtet und effizient erbringen kann. Für aus
+juristischer Sicht einfa­che Fälle folgt daraus, dass sich der anwaltliche
+Aufwand auf ein Minimum zu beschränken hat, allenfalls sogar auf eine
+einfache Konsultation (BGer, Urteil vom 7. Juli 2014, 6B_74/2014, E. 1.4.2.;
+BGE 138 IV 197 E. 2.3.5 S. 203 f.). Die vorlie­gende
+Übertetungsstrafsache ist aufgrund des konkreten Tatvorwurfes sowie der von
+der Staatsanwaltschaft bean­tragten Strafe als Bagatellfall zu qualifizieren
+und es stellten sich im Stadium der Untersuchung und des vorinstanzlichen
+Gerichtsver­fahrens keinerlei juristisch schwierigen Fragen. Die hier selbst
+unter Berücksichti­gung der spezifischen Betroffenheit des Beschuldigten in
+seiner Stellung als Arbeit­nehmer noch immer als gering zu wertende Tragweite
+des konkreten Übertretungs­vor­wurfs hätte unter dem Aspekt von Art. 429
+lit. a StPO eine Beschränkung des anwaltlichen Aufwands von Anfang an
+auf ein absolutes Minimum erfordert. Adä­quat wäre in einer ersten Phase nur
+eine kurze Konsultation gewesen, zumal der Beschuldigte seine Einsprache
+gegen den seinerzeitigen Strafbefehl der Staatsan­waltschaft (act. 2/3)
+nicht zwingend zu begründen hatte (Art. 354 Abs. 2 StPO; siehe dazu
+auch act. 2/5). Dass sodann der Beschul­digte zur mündlichen Verhandlung
+vor der Vorinstanz in Begleitung seines Rechts­vertreters erschien, ist
+vertretbar; die Verhandlung selber dauerte allerdings nur rund
+30 Minuten (siehe act. 9 S. 1 und S. 9) und war hierzu
+angesichts der sowohl in tatsächlicher als auch in rechtlicher Hinsicht alles
+andere als komplexen Angelegenheit keine umfangrei­che Vorbe­reitung
+erforderlich.
+4.2.5
+Aus alldem ergibt sich, dass für die
+anwaltliche Vertretung des Beschuldigten im vorinstanzlichen Verfahren eine
+Entschädigung in der Höhe von CHF 1'000.‑ (inkl. MwSt. und Auslagen)
+angemessen ist. Insoweit die Vorinstanz im angefoch­tenen Entscheid eine weit
+darüber hinausgehende Entschädigung in der Höhe von CHF 3'000.‑
+festgelegt hat, ist ihr eine fehlerhafte Anwendung von Art. 429
+Abs. 1 StPO unterlaufen. Damit erweist sich die Berufung der
+Staatsanwaltschaft in diesem Punkt als begründet (Art. 398 Abs. 4
+StPO) und ist insoweit gutzuheissen.
+III.
+1.
+Die Kosten des Rechtsmittelverfahrens tragen die Parteien nach
+Massgabe ihres Obsiegens oder Unterliegens (Art. 428 StPO). Vorliegend
+unterliegt die Staats­anwaltschaft mit ihrer Anfechtung des erstinstanzlich
+ergangenen Freispruchs, obsiegt andererseits aber insoweit, als die
+erstinstanzlich festgesetzte Partei­entschädigung wesentlich herabzusetzen
+ist. Insofern wären daher nicht die gesam­ten Gerichtskosten des
+Berufungsverfahrens auf die Staatskasse zu nehmen, son­dern wäre ein Teil
+davon dem Beschuldigten aufzuerlegen. Davon wird jedoch umständehalber
+abgesehen und werden die gesamten Kosten der Staatskasse überbunden.
+2.
+2.1
+Inwieweit im Berufungsverfahren ein
+Anspruch des Beschuldigten auf eine Par­teientschädigung besteht, beurteilt
+sich ebenfalls nach Massgabe des Obsiegens bzw. Unterliegens (Art. 436
+Abs. 1 und 2 StPO; siehe dazu:
+Schmid/Jositsch
+,
+a.a.O., N 1 zu Art. 436 StPO;
+Griesser,
+in: Donatsch/Hansjakob/Lieber [Hrsg.], bereits oben zitiert, N 3
+zu Art. 436 StPO).
+2.2
+Der Rechtsvertreter hat für seine Bemühungen im Berufungsverfahren
+eine Hono­rarnote über insgesamt CHF 4'026.50 eingereicht, wobei noch
+weitere Kosten von CHF 123.85 hinsichtlich der bevorstehenden
+Bearbeitung des vorliegenden oberge­richtlichen Entscheids in Aussicht
+gestellt werden (act. 44).
+Vorliegend von vornherein nicht zu entschädigen ist der Aufwand des
+Rechtsvertre­ters des Beschuldigten, den dieser in Hinsicht auf den von ihm
+zu Beginn des Beru­fungsverfahrens gestellten und einlässlich begründeten
+Nichteintretensantrag erbracht hat (act. 21). Mit diesem Antrag ist der
+Beschuldigte nicht durchge­drungen und insofern unterlegen (siehe dazu
+act. 27). In Bezug auf die Notwen­digkeit anwaltlichen Aufwands in einer
+Übertretungsstrafsache kann sodann auf das bereits zuvor Gesagte verwiesen
+werden (oben E. II. 4.2.4); am Bagatellcharakter der Streitangelegenheit
+hat sich nämlich allein durch die Berufung der Staatsan­walt­schaft
+grundsätzlich nichts geändert, auch wenn einzuräumen ist, dass die Staats­anwaltschaft
+mit der von ihr erhobenen Rüge der fehlerhaften Sachverhalts­abklä­rung durch
+die Vorinstanz eine gewisse Komplexität ins Verfahren getragen hat. Der
+Beschuldigte obsiegt insoweit, als der erstinstanzliche Freispruch bestätigt
+wird; er unterliegt dagegen insoweit, als die ihm erstinstanzlich
+zugesprochene Entschädi­gung doch wesentlich gekürzt wird. Vor diesem
+Hintergrund erscheint für das Beru­fungsverfahren eine reduzierte
+Parteientschädigung in der Höhe von CHF 800.‑ zugunsten des
+Beschuldigten als angemessen.
+____________________
+Das
+Gericht erkennt:
+1.
+In teilweiser Gutheissung der
+Berufung der Staatsanwaltschaft vom 19. Dezember 2017 wird
+Dispositiv-Ziff. 4 des Urteils des Kantonsgerichtspräsi­denten vom
+27. November 2017 im Verfahren SG.2017.00086 aufgehoben und wird wie
+folgt neu erkannt:
+Dem Beschuldigten B.______ wird
+aus der Gerichtskasse für das Untersu­chungsverfahren UB.2017.00626 sowie
+das erstinstanzliche Verfahren SG.2017.00086 eine Parteientschädigung von
+CHF 1'000.‑ zugesprochen.
+2.
+Im Übrigen wird die Berufung
+der Staatsanwaltschaft abgewiesen.
+3.
+Die Gerichtskosten für das
+Berufungsverfahren werden auf die Gerichtskasse ge­nommen.
+4.
+Für das Berufungsverfahren wird
+dem Beschuldigten B.______ aus der Gerichtskasse eine reduzierte
+Parteientschädigung von Fr. 800.‑ zugesprochen.
+5.
+Schriftliche Mitteilung an:
+[…]
