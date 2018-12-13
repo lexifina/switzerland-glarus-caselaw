@@ -1,0 +1,578 @@
+---
+decision_id: "gl_gerichte_VG.2018.00084"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2018.00084"
+docket_2: "VG.2018.731"
+decided: "2018-12-13"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1031&W10_KEY=218274&nTrefferzeile=5&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-007.md", "switzerland/bund/acts/830.1/art-017.md", "switzerland/bund/acts/830.1/art-043.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.20/art-001.md", "switzerland/bund/acts/831.20/art-028.md", "switzerland/bund/acts/831.20/art-059.md", "switzerland/bund/acts/831.20/art-069.md", "switzerland/bund/acts/831.201/art-049.md", "switzerland/bund/acts/831.201/art-088a.md"]
+---
+
+# GL Gerichte VG.2018.00084
+
+## Regeste
+
+Sozialversicherung - IV
+
+## Text
+
+Glarus Verwaltungsgericht 13.12.2018 VG.2018.00084 (VG.2018.731)
+Glaris Verwaltungsgericht 13.12.2018 VG.2018.00084 (VG.2018.731)
+Glarona Verwaltungsgericht 13.12.2018 VG.2018.00084 (VG.2018.731)
+
+Sozialversicherung - IV
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+13. Dezember 2018
+II. Kammer
+in Sachen
+VG.2018.00084
+A.______
+Beschwerdeführer
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+IV-Stelle Glarus
+Beschwerdegegnerin
+betreffend
+Invalidenrente
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Der am […] geborene und früher im
+Baugewerbe berufstätige A.______ ist seit dem 30. August 2014 nicht mehr
+erwerbstätig. Er meldete sich am 27. Januar 2015 bei der IV-Stelle
+Glarus zum Bezug von Leistungen der Invalidenversicherung an.
+1.2
+Mit Vorbescheid vom
+23. August 2017 stellte die IV-Stelle in Aussicht, A.______ eine ganze
+Invalidenrente vom 1. August 2015 bis zum 31. Mai 2016
+zuzusprechen. Ab Juni 2016 sei A.______ in einer angepassten
+Erwerbstätigkeit wieder zu 100 % arbeitsfähig, weshalb ihm kein weiterer
+Anspruch auf eine Invalidenrente zustehe. Am 25. Oktober 2017 erhob
+A.______
+gegen diesen Vorbescheid Einwände.
+Mit Verfügung 27. Juni 2018 teilte ihm die IV-Stelle mit, dass
+sie an ihrem Vorbescheid festhalte.
+2.
+Am
+29. August 2018 gelangte A.______ mit Beschwerde ans Verwaltungsgericht
+und beantragte, die Verfügung vom 27. Juni 2018 sei aufzuheben und es
+sei ihm eine unbefristete Rente zu gewähren; unter Kosten- und
+Entschädigungsfolgen zu Lasten der IV-Stelle.
+Die
+IV-Stelle schloss am 31. Oktober 2018 auf Abweisung der Beschwerde.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 69 Abs. 1 lit. a des Bundesgesetzes über die
+Invalidenversicherung vom 19. Juni 1959 (IVG) zur Behandlung der vorliegenden
+Beschwerde zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt
+sind, ist auf die Beschwerde einzutreten.
+2.
+2.1
+Gemäss Art. 8 Abs. 1 des Bundesgesetzes über den
+Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober 2000 (ATSG) ist
+Invalidität die voraussichtlich bleibende oder längere Zeit dauernde ganze
+oder teilweise Erwerbsunfähigkeit. Erwerbsunfähigkeit ist dabei der durch
+eine Beeinträchtigung der körperlichen, geistigen oder psychischen Gesundheit
+verursachte und nach zumutbarer Behandlung sowie Eingliederung ganze oder
+teilweise Verlust der Erwerbsmöglichkeiten auf dem in Betracht kommenden
+ausgeglichenen Arbeitsmarkt (Art. 7 Abs. 1 ATSG).
+2.2
+Nach Art. 28 Abs. 2 IVG besteht bei einem
+Invaliditätsgrad von mindestens 40 % Anspruch auf eine Viertelsrente,
+bei einem solchen von mindestens 50 % auf eine halbe Rente, bei
+mindestens 60 % auf eine Dreiviertelsrente und ab mindestens 70 %
+auf eine ganze Rente.
+3.
+3.1
+Ändert sich der Invaliditätsgrad nach erstmaliger
+Entstehung des Rentenanspruchs, ist die Rente aufgrund von Art. 88a der
+Verordnung über die Invalidenversicherung vom 17. Januar 1961 (IVV)
+anzupassen (Ulrich Meyer/Marco Reichmuth, in Hans-Ulrich Stauffer/Basile
+Cardinaux [Hrsg.], Rechtsprechung des Bundesgerichts zum
+Sozialversicherungsrecht, Bundesgesetz über die Invalidenversicherung,
+3. A., Zürich/Basel/Genf 2014, S. 304). Nach der Rechtsprechung ist
+bei rückwirkender Zusprechung einer abgestuften oder befristeten
+Invalidenrente nebst der Revisionsbestimmung des Art. 17 Abs. 1
+ATSG die Bestimmung über die Änderung des Leistungsanspruchs bei einer
+Verbesserung der Erwerbsfähigkeit (Art. 88a Abs. 1 IVV) analog
+anzuwenden, weil noch vor Erlass der ersten Rentenverfügung eine
+anspruchsbeeinflussende Änderung eingetreten ist mit der Folge, dass
+gleichzeitig die Änderung mitberücksichtigt wird (BGE 109 V 125 E. 4a;
+BGer-Urteil 9C_996/2010 vom 5. Mai 2011 E. 8; Meyer/Reichmuth,
+S. 423). Gemäss Art. 88a Abs. 1 IVV ist eine Verbesserung der
+Erwerbsfähigkeit von dem Zeitpunkt an zu berücksichtigen, in dem angenommen
+werden kann, dass sie voraussichtlich längere Zeit dauern wird. Sie ist in
+jedem Fall zu berücksichtigen, nachdem sie ohne wesentliche Unterbrechung
+drei Monate gedauert hat und voraussichtlich andauern wird. Das Bundesgericht
+wendet in solchen Fällen in der Regel den zweiten Satz dieser Vorschrift an
+und gewährt oder bestätigt eine höhere Rente drei Monate über die Veränderung
+des Gesundheitszustandes hinaus (BGer-Urteil 9C_491/2008 vom 21. April
+2009 E. 2, mit Hinweisen).
+3.2
+Ein Revisionsgrund, d.h. eine für den
+Rentenanspruch massgebliche Veränderung der Verhältnisse, ist unter anderem
+bei einer Besserung oder Verschlechterung des Gesundheitszustands gegeben,
+aber auch bei einer Erhöhung oder Verminderung des massgeblichen Validen-
+oder Invalideneinkommens sowie bei einer Änderung der spezifischen
+Arbeitsfähigkeit, insbesondere der Betätigungsfähigkeit im Aufgabenbereich. Keinen
+Revisionsgrund stellen hingegen eine nur vorübergehende Änderung des
+Gesundheitszustands oder die unterschiedliche Beurteilung eines im
+Wesentlichen unveränderten Sachverhalts dar (BGer-Urteil 9C_767/2008 vom 3.
+Oktober 2008 E. 1.2). Bei gleich gebliebenen tatsächlichen
+Verhältnissen muss ein Revisionsgrund, welcher zur Herabsetzung oder zur
+Aufhebung der Invalidenrente führt, aktenmässig zuverlässig ausgewiesen sein.
+Eine bloss andere Beurteilung der Arbeitsfähigkeit auf der Grundlage des im
+Wesentlichen unverändert gebliebenen Gesundheitszustands stellt keinen
+Revisionsgrund dar (BGer-Urteil 9C_552/2007 vom 17. Januar 2008 E.
+3.1.2).
+4.
+4.1
+Nach dem für das gesamte Verwaltungs- und
+Verwaltungsgerichtsbeschwerdeverfahren geltenden Grundsatz der freien
+Beweiswürdigung haben Versicherungsträger und Sozialversicherungsrichter die
+Beweise frei, d.h. ohne Bindung an förmliche Beweisregeln, sowie umfassend
+und pflichtgemäss zu würdigen. Für das Beschwerdeverfahren bedeutet dies,
+dass das Gericht alle Beweismittel unabhängig davon, von wem sie stammen,
+objektiv zu prüfen und danach zu entscheiden hat, ob die verfügbaren
+Unterlagen eine zuverlässige Beurteilung des streitigen Rechtsanspruchs
+gestatten. Insbesondere darf es bei einander widersprechenden Berichten den
+Prozess nicht erledigen, ohne das gesamte Beweismaterial zu würdigen und die
+Gründe anzugeben, warum es auf die eine und nicht auf die andere medizinische
+These
+abstellt (BGE 125 V 351 E. 3a)
+.
+Die Verwaltung als verfügende Instanz und – im Beschwerdefall
+– der Richter dürfen eine Tatsache nur dann als bewiesen annehmen, wenn sie
+von ihrem Bestehen überzeugt sind. Im Sozialversicherungsrecht hat der
+Richter dabei seinen Entscheid – sofern das Gesetz nicht etwas Abweichendes
+vorsieht – nach dem Beweisgrad der überwiegenden Wahrscheinlichkeit zu
+fällen. Die blosse Möglichkeit eines bestimmten Sachverhalts genügt den
+Beweisanforderungen nicht. Der Richter hat vielmehr jener
+Sachverhaltsdarstellung zu folgen, die er von allen möglichen Geschehensabläufen
+als die wahrscheinlichste würdigt (BGE 119 V 7 E. 3c/aa).
+4.2
+Hinsichtlich des Beweiswerts eines ärztlichen
+Gutachtens ist entscheidend, ob es für die Beantwortung der gestellten Fragen
+umfassend ist, auf allseitigen Untersuchungen beruht, die geklagten
+Beschwerden berücksichtigt und sich mit diesen sowie dem Verhalten der
+untersuchten Person auseinandersetzt, was vor allem bei psychischen
+Fehlentwicklungen nötig ist, in Kenntnis der und gegebenenfalls in
+Auseinandersetzung mit den Vorakten abgegeben worden ist, ob es in der
+Darlegung der medizinischen Zustände und Zusammenhänge einleuchtet, ob die
+Schlussfolgerungen des medizinischen Experten in einer Weise begründet sind,
+dass die rechtsanwendende Person sie prüfend nachvollziehen kann, sowie ob der
+Experte nicht auszuräumende Unsicherheiten und Unklarheiten, welche ihm die
+Beantwortung der Fragen erschweren, gegebenenfalls deutlich macht.
+Ausschlaggebend für den Beweiswert ist grundsätzlich somit weder die Herkunft
+eines Beweismittels noch die Bezeichnung der eingereichten oder in Auftrag
+gegebenen Stellungnahme als Bericht oder Gutachten, sondern dessen Inhalt
+(BGE 125 V 351 E. 3a).
+4.3
+Dennoch hat es die Rechtsprechung mit dem
+Grundsatz der freien Beweiswürdigung als vereinbar erachtet, in Bezug auf
+bestimmte Formen medizinischer Berichte und Gutachten Richtlinien für die
+Beweiswürdigung aufzustellen. Den im Rahmen des Verwaltungsverfahrens
+eingeholten Gutachten von externen Spezialärzten, welche aufgrund eingehender
+Beobachtungen und Untersuchungen sowie nach Einsicht in die Akten Bericht
+erstatten und bei der Erörterung der Befunde zu schlüssigen Ergebnissen
+gelangen, ist bei der Beweiswürdigung volle Beweiskraft zuzuerkennen, solange
+nicht konkrete Indizien gegen die Zuverlässigkeit der Expertise sprechen
+(BGE 137 V 210 E. 1.3.4).
+4.4
+Soll ein Versicherungsfall jedoch ohne Einholung
+eines externen Gutachtens entschieden werden, so sind an die Beweiswürdigung
+strenge Anforderungen zu stellen. Bestehen auch nur geringe Zweifel in
+Hinblick auf die Zuverlässigkeit und Schlüssigkeit einer
+versicherungsinternen ärztlichen Feststellung, so sind ergänzende Abklärungen
+mittels unabhängiger Begutachtung vorzunehmen (BGE 135 V 465 E. 4.4).
+4.5
+Im Verzicht auf weitere Sachverhaltsabklärungen
+liegt dann keine Verletzung des Anspruchs auf rechtliches Gehör vor, wenn die
+im Rahmen des Untersuchungsgrundsatzes von Amtes wegen vorzunehmenden
+Abklärungen den Versicherungsträger oder das Gericht bei umfassender,
+sorgfältiger, objektiver und inhaltsbezogener Beweiswürdigung (BGE 132 V 393
+E. 4.1) zur Überzeugung führen, ein bestimmter Sachverhalt sei als
+überwiegend wahrscheinlich (BGE 126 V 353 E. 5b) zu betrachten und es
+könnten weitere Beweismassnahmen an diesem feststehenden Ergebnis nichts mehr
+ändern (antizipierte Beweiswürdigung; BGE 136 I 229 E. 5.3, 134 I 140 E.
+5.3).
+5.
+5.1
+Der
+Beschwerdeführer bringt vor, dass die Beschwerdegegnerin
+nicht sämtliche Akten der Krankentaggeldversicherung beigezogen habe, da sie
+diese nur einmal im Februar 2015 gesichtet habe, die Leistungen aber bis
+September 2016 gedauert hätten. Sie stütze sich somit auf eine unvollständige
+Aktenlage und habe den Sachverhalt nicht genügend ermittelt. Dem Bericht vom
+19. Juni 2018 von Dr. med. C.______,
+FMH allgemeine innere Medizin,
+könne entnommen werden, dass er,
+der Beschwerdeführer, an zahlreichen Beschwerden mit Auswirkungen auf die
+Arbeitsfähigkeit leide. Der Krankheitsverlauf werde im Bericht als chronisch
+progressiv beschrieben und eine vollschichtige angepasste Arbeitsfähigkeit
+werde verneint. Die Stellungnahme des regionalen ärztlichen Dienstes (RAD)
+datiere vom 10. August 2017 und berücksichtige die rechtserhebliche
+gesundheitliche Entwicklung bis zum Zeitpunkt der Verfügung naturgemäss
+nicht. Die per 31. Mai 2016 verfügte Aufhebung der Invalidenrente sei
+daher unbegründet. Überdies sei eine Rentenaufhebung per 1. Juni 2016
+aufgrund von Art. 88a Abs. 1 IVV ausgeschlossen, da – sollte
+man fälschlicherweise eine volle angepasste Arbeitsfähigkeit annehmen – sich
+diese erst nach drei Monaten auswirken würde. Ein Leidensabzug sei
+ausgewiesen. Der massgebliche Invaliditätsgrad müsse mittels Lohnvergleich
+ermittelt werden und die Einholung eines polydisziplinäres Gutachtens sei
+unerlässlich.
+5.2
+Die Beschwerdegegnerin führt aus,
+dass sie gestützt auf die umfangreichen medizinischen Akten, das Gespräch mit
+dem Arbeitgeber des Beschwerdeführers sowie die versicherungsmedizinischen
+Überprüfungen durch den
+RAD
+sich ein umfassendes Bild über die
+gesundheitliche Situation des Beschwerdeführers habe machen können. Sie habe
+sich mit dem Beweisgrad der überwiegenden Wahrscheinlichkeit davon überzeugt,
+dass der Beschwerdeführer Anspruch auf eine befristete IV-Rente gehabt habe
+und danach keine gesundheitlichen Beeinträchtigungen mit IV-relevanten
+Auswirkungen auf die Arbeitsfähigkeit mehr bestanden hätten. Der
+Beschwerdeführer sei in angepasster Tätigkeit seit Juni 2016 zu 100 %
+arbeitsfähig. Sie habe vorliegend sämtliche ihr obliegenden
+Abklärungspflichten unter anderem deshalb sorgfalts- und pflichtgemäss
+wahrgenommen, weil sie verschiedene medizinische Berichte eingeholt,
+konsultiert und gewichtet habe. Aus diesem Grund könne auf die Einholung
+eines medizinischen Gutachtens verzichtet werden.
+6.
+6.1
+Der Beschwerdeführer ist seit dem
+30. August 2014 nicht mehr erwerbstätig. Er arbeitete zuvor als Maurer
+und berichtete über zunehmende Einschlaftendenzen beider Hände und über
+Rückenschmerzen, weshalb er sich ärztlich untersuchen liess. Gemäss dem
+Radiologiebefund des Spitals D.______ vom 29. August 2014 litt der
+Beschwerdeführer an Arthrosen an der mittleren und unteren Halswirbelsäule.
+Im Formular vom 20. September 2014 der Visana gab der Hausarzt des
+Beschwerdeführers Dr. C.______ an, dass der Beschwerdeführer aufgrund der
+Diagnose eines engen Spinalkanals bei Osteochondrose und Diskopathie C5/C6
+und Diskusprotrusion C5/C6 zu 100 % arbeitsunfähig sei. Dieser sei erst
+in ca. vier bis sechs Monaten wieder arbeitsfähig. Ob die berufliche
+Tätigkeit als Maurer wieder aufgenommen werden könne, liess Dr. C.______
+offen. Der klinische Verdacht eines engen Spinalkanals sei im MRI bestätigt
+worden. Der Beschwerdeführer wurde daraufhin am 23. September 2014 das
+erste Mal operiert.
+Gemäss der
+postoperativen Routinekontrolle des Spitals D.______ vom 11. November
+2014 lag ein unauffälliger und erfreulicher Heilungsverlauf vor und der
+Beschwerdeführer sei spätestens ab Januar 2015 wieder arbeitsfähig.
+Dr. med. E.______,
+FMH für Orthopädische Chirurgie und Traumatologie des Bewegungsapparates,
+berichtete in seinem Schreiben vom 17. Februar 2015 an Dr. C.______
+über eine zweite bevorstehende Operation des Beschwerdeführers. Die
+Parästhesien in den Händen seien zwar seit der ersten Operation deutlich
+besser geworden, jedoch habe der Beschwerdeführer anhaltende Schmerzen im
+Nacken- und Schulterbereich.
+Gemäss dem Arztbericht vom 5. März
+2015 von Dr. C.______ lag ein postoperativ guter Heilungsverlauf vor,
+bei jedoch persistierenden Schmerzen im Rücken, in den Beinen und Armen. Eine
+Prognose der Arbeitsfähigkeit sei aufgrund der noch bevorstehenden Operation
+des Rückens sehr schwierig zu stellen. Für eine volle Arbeitsfähigkeit als
+Bauarbeiter sehe er geringe Chancen. Aktuell könne die Arbeitsfähigkeit nicht
+beantwortet werden, weshalb eine Standortbestimmung ab Herbst 2015 angezeigt
+sei.
+6.2
+Schliesslich erfolgte am 8. Dezember 2015 die
+zweite Rückenoperation des Beschwerdeführers. Gemäss dem postoperativen
+Arztbericht vom 19. Januar 2016 von Dr. E.______ hatte der
+Beschwerdeführer zehn Monate nach der Supraspinatussehnenrefixation nach wie
+vor Restschmerzen und stagnierte mit dem Bewegungsumfang bei ca. 120° Flexion
+und rund 30° Aussenrotation. Dr. E.______ habe darum eine
+MRI-Untersuchung veranlasst, da kaum Fortschritte beim Beschwerdeführer zu
+verzeichnen seien und dieser über anhaltende Kribbelparästhesien beim Anheben
+des rechten Armes in den Fingern drei bis fünf klage. Er werde deshalb
+wahrscheinlich auch noch eine neurologische Untersuchung veranlassen.
+6.3
+Dem Arztbericht von Dr. C.______ vom
+12. Februar 2016 ist zu entnehmen, dass die Schulterprobleme auf der
+rechten Seite mit der Supraspinatusnaht vom März 2015 nicht zu beheben sind.
+Zurzeit seien noch spezialorthopädische und neurologische Abklärungen im
+Gange. Es sei offensichtlich, dass der Beschwerdeführer die Schulter in
+Zukunft nicht mehr werde belasten können und er daher als Maurer nicht mehr
+reintegrierbar sei. Aufgrund der postoperativen Phase könne nicht sofort mit
+einer Wiedereingliederung begonnen werden.
+6.4
+Gemäss dem
+von
+Dr. E.______
+an Dr.
+C.______
+knapp neun Monate später verfassten Schreiben vom 24. Mai 2017 hatte der
+Beschwerdeführer seit rund vier Monaten zunehmende Leistenschmerzen. Das
+Röntgen zeigte keine Coxarthrosen (Hüftgelenkarthrosen), jedoch eine
+Taillierungsstörung am Kopf-Hals-Übergang. Zudem bestünden auch radiologische
+Zeichen eines Impingements (Funktionsbeeinträchtigung) im Sinne einer kleinen
+Zyste am rechten Pfannenerker. Es sei vorzugsweise ein Arthro-MRI
+durchzuführen.
+6.5
+Schliesslich hatte sich der
+Gesundheitszustand des
+Beschwerdeführers auch in psychischer Hinsicht verschlechtert, weshalb
+Dr. C.______ den Beschwerdeführer mit
+Schreiben vom 2. Juni 2017 an Dr. med. F.______ zur
+psychologischen Betreuung überwiesen habe. Dies aufgrund einer zunehmend depressiven
+Symptomatik und aufgrund von Schlafstörungen, welche sich anlässlich seiner
+Arbeitsunfähigkeit entwickelt habe.
+6.6
+Gemäss dem undatierten Feststellungsblatt des RAD
+sind folgende Diagnosen mit dauerhafter Auswirkung auf die Arbeitsfähigkeit
+festgestellt worden: Operation HWS 9-2014 (Dekompression C 5/6 mit
+Fusion), Schulteroperation rechts (Supraspinatusnaht) 3-2015, Operation LWS
+12-2015 (Dekompression L5/S1), belastungsabhängige Leistenschmerzen
+beidseitig, keine Coxarthrose. Die im Arztbericht von Dr. C.______
+erwähnte depressive Symptomatik bestehe sekundär und vermöge aus
+versicherungsmedizinischer Sicht keine dauerhafte Einschränkung der
+Arbeitsfähigkeit zu bewirken. Auf Grund der verschiedenen Einschränkungen im
+Bereich des Bewegungsapparats sei die bisherige Tätigkeit nicht mehr möglich.
+Die Anforderungen einer Tätigkeit auf dem Bau würden das Belastungsprofil des
+Beschwerdeführers übersteigen. Es seien den vorliegenden Arztberichten keine
+detaillierten Angaben zum Belastungsprofil des Beschwerdeführers zu
+entnehmen. Aus arbeitsmedizinisch-theoretischer Sicht sei in einer körperlich
+leichten, wechselbelastenden Tätigkeit ohne dauerhaftes Gehen oder Stehen,
+ohne Überkopfarbeiten, ohne Heben und Tragen von schweren Lasten nicht von
+einer wesentlichen Einschränkung der Arbeitsfähigkeit auszugehen. In der
+bisherigen Tätigkeit als Bauarbeiter liege seit August 2014 eine dauerhafte
+Arbeitsunfähigkeit von 100 % vor. In angepasster Tätigkeit sei aus
+medizinisch-theoretischer Sicht mit überwiegender Wahrscheinlichkeit sechs
+Monate nach der letzten Operation der Lendenwirbelsäule – somit spätestens ab
+Juni 2016 – eine Arbeitsfähigkeit von 100 % möglich. Ob die
+medizinisch-theoretische Arbeitsfähigkeit in angepasster Tätigkeit auf dem
+ersten Arbeitsmarkt umsetzbar sei, könne aus medizinischer Sicht nicht
+abschliessend beurteilt werden. Der Gesundheitszustand des Beschwerdeführers
+werde sich mit überwiegender Wahrscheinlichkeit nicht mehr ändern.
+6.7
+In der Folge wurde dem
+Beschwerdeführer mit Verfügung vom 27. Juni 2018 eine befristete
+Invalidenrente vom 1. August 2015 bis zum 31. Mai 2016
+zugesprochen, da dieser ab dem 1. August 2014 erheblich in seiner
+Arbeitsfähigkeit eingeschränkt gewesen sei. Gemäss den Berichten von Dr. C.______
+und den Akten der Visana sei der Beschwerdeführer in angepassten Tätigkeiten
+sechs Monate ab der letzten Operation, mithin ab 31. Mai 2016 voll
+arbeitsfähig. Angepasste körperlich leichte, wechselbelastende Tätigkeiten
+ohne andauerndes Gehen und Stehen, ohne Überkopfarbeiten, ohne Heben und
+Tragen von schweren Lasten seien möglich. Ein Leidensabzug sei nicht
+ausgewiesen. Ein Rentenanspruch könne ab 1. Juni 2016 auch dann nicht
+entstehen, wenn ein Leidensabzug gewährt würde.
+7.
+7.1
+Entgegen den Ausführungen der Beschwerdegegnerin
+genügen die von ihr vorgenommenen ärztlichen Abklärungen nicht, um mit
+überwiegender Wahrscheinlichkeit von einer Arbeitsfähigkeit des
+Beschwerdeführers von 100 % ab Juni 2016 auszugehen und damit sein
+Rentenbegehren gestützt auf die vorliegenden medizinischen Unterlagen
+abzuweisen.
+7.2
+Es ist unbestritten, dass der Beschwerdeführer
+nicht mehr als Mauer einsetzbar ist und dessen berufliche Eingliederung in
+der Baubranche nicht mehr möglich ist. Jedoch sind die Arztberichte
+betreffend die
+Arbeitsfähigkeit
+bzw. deren Veränderung in einem bestimmten Zeitraum nicht eindeutig und teils
+widersprüchlich.
+Damit ist es dem Gericht nicht
+möglich, aufgrund der vorhandenen Akten zu beurteilen, ob der
+Beschwerdeführer in einer angepassten Arbeitstätigkeit mit überwiegender
+Wahrscheinlichkeit tatsächlich zu 100 % arbeitsfähig ist.
+7.3
+Ausführungen
+zur Arbeitsfähigkeit des Beschwerdeführers sind
+vorliegend einzig den Berichten von Dr. C.______ zu entnehmen, wobei
+sich diese als nicht vollständig und widersprüchlich erweisen, wie
+nachfolgend aufgezeigt wird.
+Im Bericht vom
+27. Juli 2017 ging Dr. C.______ seit dem 30. August 2014 bis
+zum 2. Oktober 2016 von einer Arbeitsunfähigkeit von 100 % aus.
+Seit dem 3. Oktober 2016 bis andauernd sei der Beschwerdeführer noch zu
+80 % arbeitsunfähig. Aufgrund der Schmerzen seien auch leichtere
+Arbeiten kaum erfolgsversprechend, wobei eine Wiederaufnahme der beruflichen
+Tätigkeit nicht möglich sei. Betreffend die berufliche Eingliederung
+vermochte sich Dr. C.______ nicht festzulegen und hielt fest, dass für
+entsprechende Informationen eine Arbeitsplatzabklärung durchzuführen sei.
+Ein weiterer Bericht von
+ihm äusserte sich sehr widersprüchlich betreffend die Arbeitsfähigkeit in
+angestammter und angepasster Tätigkeit: Gemäss dem Arztbericht
+Formular E 213 vom 19. Juni 2018 ist beim Beschwerdeführer
+aufgrund der langen Anamnese, der multiplen Operationen sowie der
+protrahierten Arbeitslosigkeit seit gut drei Jahren an eine Rückkehr an den
+Arbeitsplatz nicht zu denken. Vor allem würden die Beschwerden im
+Bewegungsapparat der Schulter, des Rückens und des Nackens sowie neu
+auftretende Beschwerden im Bereich beider Hüften eine Arbeit als Maurer fast
+unmöglich machen. Der Krankheitsverlauf sei chronisch progressiv. Im
+Vergleich zur Voruntersuchung vor fünf Jahren habe sich der Zustand des
+Beschwerdeführers verschlechtert. Die letzte Tätigkeit könne gar nicht mehr
+verrichtet werden und auch die Möglichkeit einer angepassten Tätigkeit wird
+unter Punkt 11.5 verneint. Unter Punkt 11.07 gab Dr. C.______
+sodann an, dass für die zuletzt ausgeübte Tätigkeit eine teilweise
+Invalidität bestehe, wobei der Beschwerdeführer jedoch nicht den Grad einer
+Arbeitsunfähigkeit erreiche, welcher zu einer Rente qualifiziere. Unter Punkt 11.07
+widerspricht Dr. C.______ somit gerade dem, was er eben noch unter Punkt 11.4
+bis 11.6 ausgeführt hat. Leichte Tätigkeiten werden unter Punkt 9
+wiederum als zumutbar erachtet, jedoch bestehe die festgestellte
+Einsatzbeschränkung seit 2015 dauerhaft, wobei keine Verbesserung des
+aktuellen Gesundheitszustands habe erzielt werden können. Ob
+Dr. C.______ schliesslich von einer Arbeitsfähigkeit in angestammter
+oder angepasster Tätigkeit ausgeht, ist aus dem Bericht nicht ersichtlich.
+7.4
+Auch der RAD geht in seiner Stellungnahme davon
+aus, dass die bisherige Tätigkeit nicht mehr möglich ist, da die
+Anforderungen einer Tätigkeit auf dem Bau das Belastungsprofil des
+Beschwerdeführers übersteigen würden. Der RAD kann selber ärztliche
+Untersuchungen von versicherten Personen durchführen, wobei er die
+Untersuchungsergebnisse schriftlich festhält (Art. 49 Abs. 2 IVV).
+RAD-Berichte ohne eigene Untersuchungen der versicherten Person vermögen
+lediglich dazu Stellung zu nehmen, ob der einen oder anderen in den
+vorhandenen medizinischen Beurteilungen vertretenen Ansicht zu folgen oder
+aber eine zusätzliche Untersuchung vorzunehmen ist. Es handelt sich mithin um
+Empfehlungen zur weiteren Bearbeitung eines Leistungsbegehrens aus
+medizinischer Sicht (Susanne Bollinger, in Felix Frey/Hans-Jakob
+Mosimann/Susanne Bollinger, Kommentar zum AHVG und IVG, Zürich 2018,
+Art. 59 IVG N. 1).
+Der RAD bringt
+korrekterweise vor, dass die vorliegenden Akten keine detaillierten Angaben
+zum Belastungsprofil des Beschwerdeführers machen würden. Weiter führt er
+aus, dass eine Arbeitsfähigkeit von 100 % in angepasster Tätigkeit
+spätestens seit Juni 2016 möglich sei, wobei er sich aber weder auf eine
+eigens durchgeführte Untersuchung des Beschwerdeführers noch auf einen
+Arztbericht von Dr. C.______ stützt. Der RAD hält fest, dass aus
+medizinischer Sicht nicht abschliessend beurteilt werden könne, ob die
+medizinisch-theoretische Arbeitsfähigkeit in angepasster Tätigkeit auf dem
+ersten Arbeitsmarkt umsetzbar sei, was ebenfalls auf eine unvollständige
+Aktenlage schliessen lässt.
+7.5
+Der Gesundheitszustand des Beschwerdeführers
+lässt sich insgesamt nur vage ermitteln, was nicht genügt, um den
+Invaliditätsgrad bemessen zu können. Aufgabe der Arztperson ist es, den
+Gesundheitszustand zu beurteilen und dazu Stellung zu nehmen, in welchem
+Umfang und bezüglich welcher Tätigkeiten der Versicherte arbeitsunfähig ist.
+Im Weiteren sind die ärztlichen Auskünfte eine wichtige Grundlage für die vom
+Rechtsanwender vorzunehmende Beurteilung der Frage, welche Arbeitsleistungen
+dem Versicherten noch zugemutet werden können
+(Meyer/Reichmuth,
+S. 385)
+.
+Da beim Beschwerdeführer
+nach der zweiten Rückenoperation kaum Fortschritte zu verzeichnen waren und
+er weiterhin an Beschwerden litt, führte Dr. E.______ in seinem Bericht
+vom 19. Januar 2016 aus, dass zusätzlich noch eine neurologische
+Untersuchung zu veranlassen sei. Aus den Akten ist nicht ersichtlich, ob
+diese stattgefunden hat oder wie sich der Gesundheitszustand diesbezüglich
+weiterentwickelt hat.
+Zusätzlich lässt sich den Akten entnehmen, dass
+der Beschwerdeführer nebst den andauernden körperlichen Beschwerden auch
+psychische Probleme entwickelt habe. In den Akten findet sich jedoch kein
+entsprechender Bericht, was aber zur Beantwortung der Frage, wie sich der
+psychische Gesundheitszustand des Beschwerdeführers präsentiert und ob
+diesbezüglich allenfalls weitere Abklärungen vorzunehmen sind, unerlässlich
+ist.
+Aus den vorliegenden Unterlagen ist auch
+nicht ersichtlich, ob der psychische Gesundheitszustand durch
+Dr. F.______ abgeklärt worden ist. Der Bericht des RAD erwähnt zwar,
+dass die depressive Symptomatik nur sekundär bestehe und daher keine
+dauerhafte Einschränkung der Arbeitsfähigkeit bewirke, auf welche Akten er
+sich dabei stützt, lässt sich dem Bericht aber nicht entnehmen. Die
+psychischen Beschwerden des Beschwerdeführers sind zu untersuchen und die
+Auswirkung im Alltag sind darzulegen (vgl. Meyer/Reichmuth, S. 387).
+7.6
+Aus den obigen Ausführungen folgt, dass der
+Gesundheitszustand des Beschwerdeführers
+und seine
+Arbeitsfähigkeit in angestammter und angepasster
+Tätigkeit von
+der Beschwerdegegnerin nicht
+genügend abgeklärt worden sind, womit sich die
+Ermittlung des
+massgeblichen Invaliditätsgrads erübrigt
+. Dies
+insbesondere darum, weil keine aktuelle interdisziplinäre Gesundheits- und
+Arbeitsfähigkeitseinschätzung des Beschwerdeführers bei den Akten liegt,
+welche die inhaltlichen und beweismässigen Anforderungen an eine zu
+erstattende ärztliche Expertise erfüllen (vgl. vorne E. II/4.1 ff.).
+Damit hat die Beschwerdegegnerin die ihr obliegende Untersuchungspflicht
+verletzt (vgl. Art. 43 Abs. 1 ATSG).
+8.
+8.1
+Gemäss neuer bundesgerichtlicher Rechtsprechung
+können die Sozialversicherungsgerichte nicht mehr frei entscheiden, ob sie
+eine Streitsache zur neuen Begutachtung an die Verwaltung zurückweisen. Die
+Beschwerdeinstanz hat vielmehr im Regelfall selbst ein Gerichtsgutachten
+einzuholen, wenn sie einen im Verwaltungsverfahren anderweitig erhobenen
+Sachverhalt überhaupt für gutachterlich abklärungsbedürftig hält oder wenn
+ein Administrativgutachten in einem rechtserheblichen Punkt nicht
+beweiskräftig ist. Eine Rückweisung an die Vorinstanz bleibt hingegen
+möglich, wenn sie allein in der notwendigen Erhebung einer bisher vollständig
+ungeklärten Frage begründet ist oder wenn lediglich eine Klarstellung,
+Präzisierung oder Ergänzung von gutachterlichen Ausführungen erforderlich ist
+(BGE 137 V 210 E. 4.4.1 ff.).
+8.2
+Die Beschwerdegegnerin hat es im
+Verwaltungsverfahren vollständig unterlassen, den Gesundheitszustand des
+Beschwerdeführers gesamtheitlich abzuklären. Ebenso hat sie sich auf eine
+unvollständige und widersprüchliche ärztliche Berichterstattung abgestützt,
+ohne ein aktuelles Gutachten einer externen Fachstelle einzuholen. Es kann
+nicht Aufgabe des kantonalen Sozialversicherungsgerichts sein, im
+Verwaltungsverfahren versäumte medizinische Abklärungen zu veranlassen. Daher
+erweist sich die Rückweisung an die Beschwerdegegnerin als zulässig. Die
+Beschwerdegegnerin hat Auskunft über die Arbeitsfähigkeit des Beschwerdeführers
+in angestammter und angepasster Tätigkeit zu erteilen, wofür sie ein
+polydisziplinäres Gutachten einzuholen hat, welches sowohl die somatischen
+als auch die psychischen Beschwerden des Beschwerdeführers sowie deren
+Auswirkungen auf seine Arbeitsfähigkeit abklärt.
+8.3
+Dies führt zur teilweisen Gutheissung der
+Beschwerde. Die Verfügung der Beschwerdegegnerin
+vom 27. Juni 2018
+ist aufzuheben und die Sache ist im Sinne der
+Erwägungen an diese zurückzuweisen.
+III.
+1.
+Nach Art. 134
+Abs. 1 lit. c des Gesetzes über die Verwaltungsrechtspflege vom
+4. Mai 1986 (VRG) i.V.m. Art. 69 Abs. 1bis IVG hat die Partei,
+welche im Beschwerdeverfahren unterliegt, die amtlichen Kosten zu tragen. Als
+Obsiegen gilt hinsichtlich der Kosten- und Entschädigungsfolgen auch die
+Rückweisung der Sache zur ergänzenden Sachverhaltsabklärung und zum
+Neuentscheid an den Versicherungsträger (Ueli Kieser, ATSG-Kommentar, 3. A.,
+Zürich/Basel/Genf 2015, Art. 61 N. 205), weshalb die Gerichtskosten von
+pauschal Fr. 600.- der Beschwerdegegnerin aufzuerlegen sind.
+2.
+Der teilweise obsiegende
+und berufsmässig vertretene Beschwerdeführer hat gemäss Art. 1
+Abs. 1 IVG i.V.m. Art. 61 lit. g ATSG Anspruch auf
+eine angemessene Parteientschädigung zu Lasten der Beschwerdegegnerin. Diese
+ist ohne Rücksicht auf den Streitwert nach der Bedeutung der Streitsache und
+der Schwierigkeit des Prozesses zu bemessen und vorliegend auf
+Fr. 1'600.- (inkl. Mehrwertsteuer) festzulegen.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird teilweise gutgeheissen. Die Verfügung der
+Beschwerdegegnerin vom 27. Juni 2018 wird aufgehoben und die Sache
+wird im Sinne der Erwägungen an diese zurückgewiesen.
+2.
+Die
+Gerichtskosten von Fr. 600.- werden der Beschwerdegegnerin auferlegt.
+Dem Beschwerdeführer wird der von ihm in gleicher Höhe geleistete
+Kostenvorschuss zurückerstattet.
+3.
+Die
+Beschwerdegegnerin wird verpflichtet, dem Beschwerdeführer innert 30 Tagen
+nach Rechtskraft dieses Entscheids eine Parteientschädigung von
+Fr. 1'600.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
