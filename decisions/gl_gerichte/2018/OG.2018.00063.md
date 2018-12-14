@@ -1,0 +1,409 @@
+---
+decision_id: "gl_gerichte_OG.2018.00063"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2018.00063"
+docket_2: "OGS.2020.65"
+decided: "2018-12-14"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1294&W10_KEY=218274&nTrefferzeile=4&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/210/art-884.md", "switzerland/bund/acts/210/art-895.md", "switzerland/bund/acts/210/art-898.md", "switzerland/bund/acts/311.0/art-181.md", "switzerland/bund/acts/312.0/art-115.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-423.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# GL Gerichte OG.2018.00063
+
+## Regeste
+
+Nichtanhandnahme einer Strafuntersuchung
+
+## Text
+
+Glarus Obergericht 14.12.2018 OG.2018.00063 (OGS.2020.65)
+Glaris Obergericht 14.12.2018 OG.2018.00063 (OGS.2020.65)
+Glarona Obergericht 14.12.2018 OG.2018.00063 (OGS.2020.65)
+
+Kanton Glarus
+Obergericht
+Beschluss
+vom 14. Dezember 2018
+Verfahren
+OG.2018.00063
+A.______
+Beschwerdeführer
+gegen
+1. B.______
+Beschwerdegegnerinnen
+2. Staats- und Jugendanwaltschaft des
+Kantons Glarus
+betreffend
+Nichtanhandnahme
+einer Strafuntersuchung
+Anträge
+des Beschwerdeführers
+(gemäss Eingabe vom 31. Oktober 2018,
+act. 2):
+1.
+Die
+Nichtanhandnahmeverfügung der Staatsanwaltschaft Glarus vom
+16. Oktober 2018 sei vollumfänglich aufzuheben.
+2.
+Falls
+auf die Beschwerde eingegangen wird, sei die Sache zur weiteren Abklä­rung
+an die Staatsanwaltschaft zurückzuweisen.
+3.
+Unter
+Kosten- und Entschädigungsfolgen zu Lasten der Beschwerdegegnerin.
+4.
+Es
+sei dem Beschwerdeführer für das Beschwerdeverfahren die unentgeltliche
+Rechtspflege zu gewähren.
+____________________
+Das
+Gericht zieht in Betracht:
+I.
+1.
+Am 2. Januar 2014 besuchte
+A.______ (Jg. 1990) in Dübendorf die Geschäftsräumlichkeiten von B.______
+(Jg. 1991) und kaufte dort auf Kredit eine Box Kosmetikartikel ("Forever
+Schörli-Touch") im Wert von CHF 364.70, wobei im Falle der
+Bezahlung der Ware innert sieben Tagen ein "Spezialpreis" von
+CHF 255.25 vereinbart war (U‑act. 9.1.02 S. 7 Fragen 4 ff.
+sowie S. 14).
+Ebenfalls am 2. Januar 2014
+meldete sich A.______ bei B.______ für einen Infoanlass/Schulungstag an. Weil
+A.______ jedoch kein Geld bei sich hatte und daher das für die
+Platzreservation verlangte Depot von CHF 20.‑ nicht bezahlen konnte,
+überliess er B.______ als Pfand sei­ne Armband­uhr, deren Wert er mit
+CHF 650.‑ beziffert. Es war vorgesehen, dass ihm bei Besuch der
+Schulung das Depot bzw. die Uhr wieder ausgehändigt würde. In der Folge blieb
+dann allerdings A.______ der Schulung fern, sodass das Depot zugunsten von
+B.______ verfiel, d.h. in der vorliegenden Konstellation von A.______
+nachzubezahlen war (U‑act. 9.1.02 S. 7 f.
+Fragen 9-11, S. 11 f. Fragen 8+9 sowie S. 19).
+2.
+2.1
+In der Folge hat
+A.______ trotz wiederholter Zahlungsaufforderungen weder die bezogenen
+Kosmetikprodukte noch das Depot für die Schulung bezahlt. Aus Polizeiakten
+von 2014 ist ersichtlich, dass im Verlaufe 2014 zwischen den Par­teien
+wiederholt die Rede davon war, dass A.______ bei Bezahlung der offenen
+Rechnung (Kosmetikartikel CHF 364.70 und Depot CHF 20.‑,
+insgesamt CHF 384.70) die hinterlegte Uhr zurückerhalten werde. Um die
+Uhr ohne Bezahlung dennoch zurückzuerlangen, fälschte A.______ gar einmal
+eine Einzah­lungsquittung, was aber bei B.______ nicht verfing (siehe zum
+Ganzen U-act. 9.1.02 S. 8 f. Fragen 12-23,
+S. 11 f. Fragen 6-9 und 15, S.
+16-18; U‑act. 3.1.01
+S. 3).
+2.2
+Am 12. März 2018 teilte A.______ B.______ brieflich mit, sie habe
+mittlerweile vier Jahre Zeit gehabt, ihm seine Uhr zurückzugeben. Sie habe
+nun zwei Möglichkeiten: entweder gebe sie die Uhr auf dem Polizeiposten in
+Vol­ketswil ab oder sie bringe ihm die Uhr in die Justizvollzugsanstalt
+Pöschwies. Sobald er seine Uhr, welcher er ihr damals
+als Depot
+(so
+hervorgehoben im Origi­nal) abgegeben habe, wieder zurückhabe, werde er ihr
+die offenen Beträge bezah­len. Wenn sie dieser Aufforderung nicht bis zum 29.
+März 2018 nachkomme, werde sie ein Schreiben seines Anwalts erhalten und
+erfolge eine Diebstahlsanzeige bei der Polizei (U‑act. 3.1.01
+S. 5).
+B.______ antwortete
+mit Schreiben vom 23. März 2018, sie habe ihm Ware "(2 x 255.-)"
+gegeben und dafür als Depot seine Uhr entgegengenommen, weil er kein Bargeld
+auf sich gehabt habe. Wenn er ihr für die bezogene Ware ("2 Schörli
+Boxen") das Geld überweise, insgesamt CHF 690.‑ inkl. Zinsen
+und Aus­lagen für eingeschriebene Briefe und Betreibung, werde sie ihm die
+Uhr zurückge­ben (U‑act. 3.1.01 S. 6).
+Hierauf entgegneten
+A.______ mit Brief vom 1. April 2018, er wisse nicht wie sie auf den nun
+geforderten Betrag von CHF 690.- komme. Er habe von ihr nur zwei
+Einzahlungsscheine über je CHF 192.35 [Total
+CHF 384.70];
+auch könne er sich die zusätzlich verlangten Unkosten nicht erklären, habe er
+doch von ihr weder einge­schriebene Briefe noch eine Betreibung erhalten.
+Sobald dies geklärt sei, bekomme sie das Geld; er wisse, dass er "das no
+zahlä sött" (
+U‑act. 3.1.01 S. 7).
+3.
+3.1
+Mit Schreiben vom 14. Mai 2018 erhob A.______ bei der Staatsanwalt­schaft
+des Kantons Glarus gegen B.______ Anzeige wegen Nötigung (U‑act. 3.1.01
+S. 1). Unter Verweis auf die zuvor dargelegte Korrespondenz sowie die
+Polizeiakten von 2014 führte A.______ in seiner Anzeige aus, er habe seit
+2014 mehrmals erfolglos versucht, seine Konfirmationsuhr zurückzuerhalten.
+Mittlerweile seien vier Jahre vergangen und sei inzwischen belegt, dass
+B.______ ihn zur Bezahlung einer in dieser Höhe nicht ausgewiesenen Forderung
+von CHF 690.‑ nötige.
+3.2
+Im Zuge der anschliessenden Ermittlungen liess B.______ die Uhr der
+Polizei zukommen ("um weitere Umtriebe mit A.______ zu
+verhindern"), wo­rauf die Uhr am 17. Juli 2018 A.______ in der JVA
+Pöschwies ausgehändigt wurde. B.______ erwähnte gegenüber der Polizei, die
+Uhr habe sie bis dahin als Pfand behalten; sie sei im Glauben gewesen, A.______
+werde die offene Rechnung bezahlen können, indessen aber habe sie vom
+Betreibungsamt "eine düstere Auskunft erhalten" (zum Ganzen U‑act. 8.1.01-03).
+Die
+Staatsanwaltschaft bezog sich in ihrem Schreiben vom 17. August 2018 an
+A.______ auf die inzwischen erfolgte Aushändigung der Uhr und vermerkte, dass
+damit die Angelegenheit für ihn erledigt sein dürfte. In der Sache selber sei
+unbestritten, dass es sich bei der seinerzeitigen Überlassung der Uhr um ein
+Faust­pfand gehandelt habe; weil er [A.______] sodann bis anhin den offenen
+Betrag nicht an B.______ überwiesen habe, handle es sich um eine zivil­rechtliche
+Streitigkeit. Es sei damit kein Straftatbestand erfüllt, weshalb vorgesehen
+sei, eine Nichtanhandnahmeverfügung zu erlassen (zum Ganzen U‑act. 9.1.05).
+3.3
+A.______ führte hierauf in seiner Eingabe vom 19. August 2018 an die
+Staatsanwaltschaft aus, für ihn sei nach wie vor unklar, wie B.______ auf den
+von ihr zuletzt verlangten Rechnungsbetrag von CHF 690.‑ komme. Bis
+jetzt habe er denn auch noch kein Geld überwiesen, da er den effektiven
+Betrag nicht kenne. Weil er aber die Bezahlung versprochen habe, sobald er
+wieder im Besitze der Uhr sei, gebe es für ihn die Option, "sofern Sie
+damit einverstanden wären" [mit 'Sie' meint A.______ hier ganz
+offensichtlich den zuständigen Staatsanwalt], dass er [A.______] die von
+B.______ anfänglich verlangten beiden Raten à je CHF 192.30 [recte:
+192.35] bezahle; damit hätte sich die Sache für ihn [A.______] erledigt. Auf
+keinen Fall möchte er, dass B.______ dann nach­träglich noch komme und mehr
+verlange (zum Ganzen U‑act. 9.1.06).
+4.
+4.1
+Am 26. Oktober 2018
+erliess die Staatsanwaltschaft gestützt auf Art. 310 StPO eine
+Nichtanhandnahme­verfügung (act. 1).
+4.2
+Mit Eingabe vom
+31. Oktober 2018 erhob A.______ gegen die Nichtan­hand­nahmeverfügung
+der Staatsanwaltschaft beim Obergericht Beschwerde und stellte dabei die
+eingangs wiedergegebenen Anträge (act. 2).
+4.3
+In der Sache sind
+keine Stellungnahmen eingeholt, indes die Akten der Staats­anwaltschaft
+beigezogen worden.
+II.
+1.
+1.1
+Das Obergericht ist
+Rechtsmittelinstanz in Strafsachen für die Behand­lung von Beschwerden
+(Art. 16 Abs. 1 lit. a GOG).
+1.2
+Gegen Verfügungen und
+Verfahrenshandlungen der Staatsanwalt­schaft kann Beschwerde geführt werden
+(Art. 393 Abs. 1 lit. a StPO). Der Be­schwerde zugäng­lich ist
+damit ebenfalls eine von der Staatsanwaltschaft gestützt auf Art. 310
+StPO verfügte Nichtanhandnahme einer Strafuntersuchung (Art. 310
+Abs. 2 in Verbindung mit Art. 322 Abs. 2 StPO; BSK-
+Omlin
+, N 26 ff. zu
+Art. 310 StPO sowie
+Guidon
+,
+Die Beschwerde gemäss Schweizerischer Strafprozessordnung,
+Zürich/St. Gallen 2011, S. 49 f. N 110).
+1.3
+Die vorliegende
+Beschwerde ist innert der dafür vorgegebenen Frist von 10 Tagen
+eingereicht worden (Art. 310 Abs. 2 in Verbindung mit Art. 322
+Abs. 2 StPO; Art. 396 Abs. 1 StPO).
+1.4
+A.______ ist
+durch die der Beschuldigten B.______ vorgewor­fene Nötigungshandlung
+unmittelbar betroffen, dient nämlich die Strafbestimmung von Art. 181
+StGB (Nötigung) dem Schutz der freien Willensbildung und Willensbe­tätigung
+(BGE 134 IV 216 E. 4.4.3 S. 221). A.______ ist daher als
+Geschä­digter zu qualifizieren (Art. 115 Abs. 1 StPO), womit er zur
+Beschwerde gegen die ergangene Einstellungsverfügung legitimiert ist (Art. 382
+Abs. 1 StPO).
+2.
+Die Staatsanwaltschaft eröffnet
+eine Untersuchung, wenn sich aus den Informatio­nen und Berichten der
+Polizei, aus der Strafanzeige oder aus ihren eige­nen Fest­stellungen ein
+hinreichender Tatverdacht ergibt (Art. 309 Abs. 1 lit. a StPO). Die
+Staatsanwaltschaft verzichtet auf die Eröffnung, wenn sie sofort eine Nichtan­handnahmeverfügung
+oder einen Strafbefehl erlässt (Art. 309 Abs. 4 StPO). Die Nichtanhandnahme
+wird verfügt, sobald aufgrund der Strafanzeige oder des Polizei­rapports
+feststeht, dass der konkret in Frage stehende Straftatbestand eindeutig nicht
+erfüllt ist (Art. 310 Abs. 1 lit. a StPO).
+3.
+3.1
+Die Staatsanwaltschaft
+hat in der angefochtenen Verfügung in tatsächlicher Hin­sicht festgehalten,
+A.______ habe am 2. Januar 2014 von B.______ einen Korb mit
+17 Kosmetikprodukten übernommen. Der Preis für diesen Korb habe
+CHF 364.70 bzw. bei Bezahlung innert 7 Tagen CHF 255.25
+betragen. Zudem habe sich A.______ bei B.______ für einen Schulungstag ange­meldet,
+woraus ein Betrag von CHF 20.- resultiere. A.______ habe B.______ am
+2. Januar 2014 seine Certina-Armbanduhr als Faustpfand überge­ben, wobei
+aufgrund der Aussagen der Parteien aber nicht geklärt sei, ob die Arm­banduhr
+als Faustpfand für den Betrag von CHF 20.‑ oder als Faustpfand für
+den Gesamtbetrag von CHF 384.70 (CHF 364.70 + CHF 20.‑)
+übergeben worden sei (act. 1 S. 2).
+3.2
+In Hinsicht auf die
+eben dargelegten Sachverhaltsfeststellungen erhebt A.______ in seiner
+Beschwerde keine Einwendungen im Sinne von Art. 393 Abs. 2
+lit. b StPO, wonach diese unvollständig oder unrichtig sein sollen.
+Tatsächlich trifft die Sachverhaltswürdigung der Staatsanwaltschaft im
+Wesentlichen zu und stimmt mit der Aktenlage, wie sie vorne eingehend
+dargelegt worden ist (oben E. I.1. und I.2.), überein. Was allerdings die mit
+der als Pfand überlassenen Uhr konkret abge­sicherte Forderung anbetrifft, so
+war das Pfand nach übereinstimmender Meinung der Parteien offensichtlich nur
+zur Sicherung des für den Schulungstag geforderten Depots von CHF 20.‑
+bestimmt (siehe dazu oben E. I.1.).
+4.
+4.1
+In rechtlicher
+Hinsicht erwog die Staatsanwaltschaft, A.______ habe die Uhr seinerzeit als
+Faustpfand an B.______ übergeben. Nachdem A.______ in der Folge nie einen
+Geldbetrag an B.______ überwiesen habe, "nicht einmal die CHF 20.‑
+Schulungskosten", habe B.______ die Uhr nicht zu Unrecht zurückbehalten;
+es sei nie eine Tilgung der offenen Forderung erfolgt, unabhängig davon, ob
+das unbestrittene Faustpfand für einen Betrag von CHF 20.‑,
+CHF 364.70 oder CHF 384.70 begründet worden sei. Eine strafbare
+Handlung, insbesondere eine Nötigung, sei daher nicht ersichtlich
+(act. 1 S. 2).
+Hiergegen wendet A.______ in
+seiner Beschwerde ein, es sei nicht nach­vollziehbar, weshalb es rechtens
+gewesen sei, dass B.______ die Uhr als Faustpfand zurückbehalten habe. Sie
+habe nämlich um seine [schlechte] finanzielle Situation gewusst und sich
+mehrmals geweigert, die Uhr auszuhändigen. Sie sei nicht bereit gewesen, ihm
+die Uhr vorgängig zurückzuschicken, sondern habe da­rauf beharrt, dass er
+zunächst die Rechnung begleiche (act. 2 S. 3 Ziff. 4 und
+Ziff. 5). A.______ beruft sich damit im Ergebnis auf eine unrichtige
+Rechts­anwendung im Sinne von Art. 393 Abs. 2 lit. a StPO.
+Sinngemäss ist jedenfalls aus sei­ner Beschwerde der Vorwurf zu entnehmen,
+wonach die Staatsanwaltschaft den Gehalt des strafrechtlichen
+Nötigungstatbestandes von Art. 181 StGB verkannt haben soll; als Folge
+davon sei sie fälschlicherweise davon ausgegangen, der betreffende Tatbestand
+sei eindeutig nicht erfüllt (siehe dazu Art. 310 Abs. 1 lit. a
+StPO) und habe demgemäss auf unzutreffender Grundlage die angefochtene Nicht­anhandnahmeverfügung
+erlassen.
+4.2
+4.2.1
+Eine Nötigung im
+Sinne von Art. 181 StGB begeht und wird mit Freiheitsstrafe bis zu drei
+Jahren oder Geldstrafe bestraft, wer jemanden durch Gewalt oder An­drohung
+ernstlicher Nachteile oder durch andere Beschränkung seiner Handlungs­freiheit
+nötigt, etwa zu tun, zu unterlassen oder zu dulden.
+4.2.2
+Vorliegend liess
+B.______ A.______ wissen, sie werde die Rückgabe der Uhr so lange
+unterlassen, bis die offene Rechnung bezahlt sei. Im Lichte von Art. 181
+StGB besteht daher das von B.______ "angedrohte" Verhalten in einer
+Unterlassung (ich tue nicht, solange Du nicht tust).
+4.2.3
+Als sich A.______ am
+2. Januar 2014 bei B.______ für eine Schulung angemeldet hatte, war ein
+"Depot" von CHF 20.‑ für die Platzreservation zu leisten.
+Weil jedoch A.______ bei der Anmeldung keine CHF 20.‑ aufbrin­gen
+konnte, hinterliess er als Depot seine Armbanduhr. In der Folge hat A.______
+die Schulung nicht besucht.
+Unter "Depot" wird in
+seiner umgangssprachlichen Bedeutung eine Kaution verstan­den. Mit der
+Kaution wird bezweckt, eine geschuldete Leistung abzusichern. Die geschuldete
+Leistung hat vorliegend darin bestanden, dass A.______ an der Schulung, zu
+welcher er sich angemeldet hat, auch tatsächlich teilnimmt (und er diesfalls
+das Depot bzw. die Kaution wieder zurückerhalten hätte). Indem A.______
+jedoch seine Verpflichtung (Teilnahme an der Schulung) nicht erfüllt hat, ist
+das Depot von CHF 20.‑ zugunsten von B.______ verfallen. Infolgedes­sen
+schuldet A.______ ihr die Bezahlung von CHF 20.‑; und just für den
+Fall, dass er die betreffenden CHF 20.‑ sollte bezahlen müssen
+(falls er nicht an der Schulung teilnehmen würde), hat er B.______ seine Uhr
+als Pfand über­lassen.
+4.2.4
+Der Gläubiger einer
+Forderung ist berechtigt, eine bewegliche Sache, die ihm der Schuldner als
+Faustpfand überlassen hat (Art. 884 Abs. 1 ZGB), bis zur Befrie­digung
+für seine Forderung zurückzubehalten (Art. 895 Abs. 1 ZGB). Daraus
+ergibt sich, dass B.______ vorliegend die Uhr rechtmässig einbehalten hat,
+steht doch fest, dass A.______ die fällige Forderung von CHF 20.- nie
+beglichen hat.
+4.2.5
+Bei der Androhung
+ernstlicher Nachteile im Sinne des Nötigungstatbestandes von Art. 181
+StGB stellt der Täter dem Opfer die Zufügung eines Übels in Aussicht, dessen
+Eintritt er als von seinem Willen abhängig erscheinen lässt. Es kommt dabei
+nicht darauf an, ob er die Drohung wirklich wahr machen will, sofern sie nur
+als ernst gemeint erscheinen soll. Ernstlich sind die Nachteile, wenn ihre
+Androhung nach einem objektiven Massstab geeignet ist, auch eine besonnene
+Person in der Lage des Betroffenen gefügig zu machen und so seine freie
+Willensbildung und ‑betätigung zu beschränken. Besteht wie im hier zu
+beurteilenden Fall das "ange­drohte" Verhalten in einer
+Unterlassung [Nichtrückgabe des Pfandes], welche indes rechtmässig ist
+[Forderung nicht befriedigt], so setzt ein tatbestandsmässiger Nach­teil im
+Sinne von Art. 181 StGB voraus, dass sich dadurch die Lage des
+"Bedrohten" verschlechtern würde, gemessen an den rechtlichen
+Ansprüchen oder tatsächlichen Aussichten, die er im Zeitpunkt der Drohung hat
+(
+BGer, Urteil vom 12. Juni 2017, 6B_1257/2016,
+E. 3.2.)
+.
+Wie bereits dargelegt, hatte
+B.______ an der ihr als Faustpfand überlas­senen Uhr ein Retentionsrecht
+(Art. 895 Abs. 1 ZGB). Das Retentionsrecht bewirkt, dass der berechtigte
+Gläubiger die Rückgabe der Pfandsache lediglich anzubieten hat, während der
+Eigentümer und Schuldner die Forderung gegen ihn zu erfüllen oder hinreichend
+Sicherheit hierfür zu leisten hat (Art. 898 Abs. 1 ZGB). Das
+Retentionsrecht besteht ungeachtet der finanziellen und persönlichen
+Situation, in welcher sich der Pfandeigentümer im Zeitpunkt der
+Rechtsausübung befindet (zum Ganzen:
+BGer, Urteil vom
+12. Juni 2017, 6B_1257/2016, E. 5.2. und 5.3). Es ist demzufolge
+unerheblich, wenn B.______ die Uhr trotz A.______s angespannter finanzieller
+Situation zurückbehalten hat. Allein entscheidend ist, dass sie zum
+Einbehalten der Uhr befugt war, so lange A.______ seinerseits die mit dem
+Pfand konkret zusammenhängende offene Forderung von CHF 20.‑ nicht
+beglich. Durch das Zurückbehalten der Uhr hat sich denn auch die Rechtslage
+von A.______ keineswegs verschlechtert; dieser war nach wie vor lediglich
+gehalten, den Betrag von CHF 20.‑ zu bezahlen, um das Pfand
+auszulösen.
+Insoweit B.______
+die Rückgabe der Uhr davon abhängig gemacht haben sollte, dass A.______ nicht
+bloss das Depot von CHF 20.‑ nachbezahlen, son­dern eine weitergehende
+Forderung
+für
+bezogene Kosmetikarti­kel begleichen
+würde, liesse sich auch darin keine
+"Androhung ernstlicher
+Nachtei­le" im Sinne von Art. 181 StGB erkennen. Allein dies konnte
+den Schuldner A.______ nicht in seiner Handlungsfreiheit beschränken,
+wenigstens die Depotzahlung von CHF 20.‑ zu leisten, um dadurch
+einen Herausgabeanspruch in Bezug auf die Uhr zu begrün­den.
+5.
+Aus alldem ergibt sich, dass die
+Staatsanwaltschaft die angefochtene Nichtanhand­nahmeverfügung (act. 1)
+aus den darin konzis dargelegten Überlegungen zu Recht eingestellt hat. Auf
+Grund der Anzeige und der verfügbaren Akten steht fest, dass der
+inkriminierte Tatbestand der Nötigung im Sinne von Art. 181 StGB
+eindeutig nicht erfüllt ist (Art. 310 Abs. 1 lit. a StPO). Der
+in der Beschwerde geltend gemach­te Rügegrund einer Rechtsverletzung
+(Art. 393 Abs. 2 lit. a StPO) ist nicht gegeben. Dies führt
+zur Abweisung der Beschwer­de und Bestätigung der Nichtanhandnahme­verfügung
+der Staatsanwaltschaft vom 26. Oktober 2018.
+III.
+Bei diesem Ausgang wären die
+Kosten des Beschwerdeverfahrens an sich dem Beschwerdeführer aufzuerlegen
+(Art. 428 Abs. 1 StPO), wovon vorliegend aber um­ständehalber
+abzusehen ist; infolgedessen wird das Gesuch des Beschwerdefüh­rers um
+Gewährung unentgeltlicher Rechtspflege für das Beschwerdeverfahren
+gegenstandslos. Den Beschwerdegegnern ist im Beschwerdeverfahren kein Auf­wand
+entstanden, weshalb ihnen keine Entschädigungen zuzusprechen sind, wobei die
+Staatsanwaltschaft so oder anders keine Entschädigung beanspruchen könnte
+(Art. 423 Abs. 1 StPO; siehe dazu auch
+Christen
+, Entschädi­gungsfolgen im kanto­nalen
+Beschwerdeverfahren in Straf­sachen, ZStrR 132/2014, S. 200 f.).
+____________________
+Das
+Gericht erkennt:
+1.
+Die Beschwerde wird abgewiesen.
+2.
+Die Gerichtskosten für das
+Beschwerdeverfahren werden auf die Staatskasse genommen.
+3.
+Für das Beschwerdeverfahren
+wird keine Parteientschädigung zugesprochen.
+4.
+Schriftliche Mitteilung an:
+[...]
