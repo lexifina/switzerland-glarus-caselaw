@@ -1,0 +1,553 @@
+---
+decision_id: "gl_gerichte_OG.2018.00036"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2018.00036"
+docket_2: "OGS.2019.45"
+decided: "2019-01-08"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1080&W10_KEY=218274&nTrefferzeile=1&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-093.md", "switzerland/bund/acts/241/art-023.md", "switzerland/bund/acts/311.0/art-162.md", "switzerland/bund/acts/312.0/art-012.md", "switzerland/bund/acts/312.0/art-101.md", "switzerland/bund/acts/312.0/art-104.md", "switzerland/bund/acts/312.0/art-107.md", "switzerland/bund/acts/312.0/art-108.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-397.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-436.md"]
+---
+
+# GL Gerichte OG.2018.00036
+
+## Regeste
+
+Beschwerde gegen die Verfügung der Staatsanwaltschaft
+
+## Text
+
+Glarus Obergericht 08.01.2019 OG.2018.00036 (OGS.2019.45)
+Glaris Obergericht 08.01.2019 OG.2018.00036 (OGS.2019.45)
+Glarona Obergericht 08.01.2019 OG.2018.00036 (OGS.2019.45)
+
+Beschwerde gegen die Verfügung der Staatsanwaltschaft
+
+Kanton Glarus
+Obergericht
+Beschluss
+vom 8. Januar 2019
+Verfahren
+OG.2018.00036
+A.______
+Beschwerdeführer
+vertreten
+durch C.______
+gegen
+1. Staats- und Jugendanwaltschaft des
+Kantons Glarus
+Beschwerdegegnerin
+2. B.______
+Beschwerdegegnerin
+vertreten
+durch D.______
+betreffend
+Akteneinsicht
+in einer Strafuntersuchung
+über
+die Anträge
+des
+Beschwerdeführers
+(gemäss Eingabe vom 11. Juni 2018,
+act. 2):
+1.
+Es sei die Verfügung der
+Staats- und Jugendanwaltschaft des Kantons Glarus vom 20. September 2016
+[recte: 30. Mai 2018] in Sachen SA.2015.00540 aufzu­heben.
+2.
+Es seien die Pläne für den
+"Multi-Drop Tower Berlin Dungeon" gemäss Beilagen 1 bis 16 zum
+Schreiben vom 12. Januar 2016 an die Staats- und Jugendanwalt­schaft der
+Beschwerdegegnerin 2
+nicht
+zur Akteneinsicht zugänglich zu machen
+oder auszuhändigen.
+3.
+Eventuell sei ausschliesslich
+dem Rechtsvertreter der Beschwerdegegnerin 2, […], die Einsicht in die
+Beilagen 1 bis 16 zum Schreiben vom 12. Januar 2016 unter der Auflage zu
+gewähren, dass die Ein­sichtnahme unter behördlicher Aufsicht in den
+Räumlichkeiten der Staats- und Jugendanwalt­schaft des Kantons Glarus an
+der Postgasse 29 in 8750 Gla­rus erfolgen muss und keine Kopien angefertigt
+werden dürfen.
+4.
+Alles unter Kosten- und
+Entschädigungsfolgen zzgl. der gesetzlichen Mehrwert­steuer zu Lasten des
+Staates bzw. der Beschwerdegegnerin 2.
+der
+Beschwerdegegnerin 2
+(gemäss Eingabe vom 6. Juli 2018, act. 7)
+Abweisung
+der Beschwerde unter Kostenfolge zu Lasten des Beschwerdeführers.
+____________________
+Das
+Gericht zieht in Betracht:
+I.
+1.
+A.______ (nachfolgend
+Beschwerdeführer) arbeitete bis Ende Januar 2015 als Geschäftsführer bei der
+B.______ AG (nachfolgend Beschwerdegegnerin), einem auf die Entwicklung und
+Konstruktion von Freizeitanlagen (Vergnügungsbah­nen) spezialisierten
+Unternehmen mit Sitz damals in […]/SG (U-act. 2.3/2 und 2.3/7).
+Ende Mai 2015 gründete der
+Beschwerdeführer die X-GmbH und war mit die­ser in […] (Glarus Nord)
+domizilierten Firma im gleichen Geschäftsfeld tätig wie die
+Beschwerdegegnerin (U-act. 2.3/3).
+Für den vorliegenden Rechtsfall
+bleibt unbeachtlich und ist lediglich der Vollständig­keit halber anzumerken,
+dass die X-GmbH später umfirmiert wurde ([…]) und ihren Sitz nach […]/SZ
+verlegt hat (act. 17).
+2.
+Am 12. November 2015
+erstattete die B.______ AG gegen A.______ und zwei weitere Personen
+Strafanzeige bzw. Strafantrag wegen unlauteren Wettbe­werbs im Sinne von
+Art. 23 in Verbindung mit Art. 3-5 des Bundesgesetzes über den
+unlauteren Wettbewerb (UWG, SR 241) sowie Verletzung eines Fabrikations-
+oder Geschäftsgeheimnisses im Sinne von Art. 162 StGB (U-act. 2.2).
+Hintergrund der Strafanzeige ist
+dabei insbesondere folgender Umstand:
+Im August/September 2015 erteilte
+die Y.______ (Betreiberin von Ver­gnügungsparks) der X.______ GmbH den
+Auftrag zur Errichtung eines Freifallturmes (nachfolgend "Multi Drop
+Tower") in einer Freizeitanlage in Berlin, was vorliegend unbestritten
+ist (U-act. 17.18 S. 2 Ziff. 1). Nach Angaben der
+Beschwerdegegnerin habe indes die Y.______ bis dahin Aufträge für diesen
+Anlagetyp jeweils ihr [der Beschwerdegegnerin] erteilt. Die
+Beschwerdegegnerin mutmasst daher in ihrer Anzeige, die X.______ GmbH habe
+den fraglichen Auftrag in Berlin mit einem Kostenvolumen von knapp 600'000
+Euro nur dadurch erlangt, dass sie bzw. der Beschwerdeführer als deren
+Gesellschafter eine Konstruktion offeriert habe, welche auf
+"Zeichnungen, Plänen und Berechnungen der Geschädigten [Beschwer­degegnerin]"
+basiere. Anders nämlich wäre die X.______ GmbH allein schon aus zeitlichen
+Gründen überhaupt nicht in der Lage gewesen, nach ihrer Gründung im Mai 2015
+innert "ein bis zwei Monaten Pläne und Know How auf Papier [zu] bringen
+[…], um ein solches komplexes Projekt offerieren zu können", zumal noch
+hinzu komme, dass der Beschwerdeführer "nicht über die fachliche
+Kompetenz verfüg[e], die für ein solches Projekt notwendigen Zeichnungen zu
+erstellen und die notwendi­gen Berechnungen (betreffend Statistik [recte
+wohl: Statik] etc.) durchzuführen" (siehe zum Ganzen U-act. 2.2.
+S. 4 ff. Ziff. 2).
+3.
+3.1
+Die Staatsanwaltschaft
+forderte am 5. Januar 2016 den Beschwerdeführer schriftlich auf, ihr die
+Pläne zum Freifallturm "Multi Drop Tower" einzureichen
+(U-act. 11/1). Am 12. Januar 2016 (U-act. 11/2) stellte der
+Beschwerdeführer der Staatsanwaltschaft Detailpläne, Fotografien und weitere
+Unterlagen zu (U-act. 11/3 Beilagen 1-16); der Beschwerdeführer machte
+dabei allerdings zur Bedingung, dass diese Unterlagen auf keinen Fall an
+Dritte, insbesondere nicht an die Beschwerde­gegnerin zur Einsicht überlassen
+werden dürfen (U-act. 11/2 S. 2); siehe ferner auch
+U-act. 11/10).
+Auch die Beschwerdegegnerin
+ihrerseits reichte der Staatsanwaltschaft spezifische Unterlagen ein. Diese
+sollen das von ihr entwickelte Free-Fall-Tower-Konzept sowie von ihr an
+diversen Orten bereits installierte Anlagen dokumentieren (U-act. 11.5
+und U-act. 2.3/9; siehe zum Ganzen Schreiben der Beschwerdegegnerin vom
+20. Januar 2016 bei U-act. 11.4; siehe ferner auch die später
+eingereichten Doku­mentationen bei U-act. 17.23 Beilagen 19 und 20).
+3.2
+Mit Gesuch vom
+4. März 2016 beantragte die Beschwerdegegnerin Einsicht in die bei der
+Staatsanwaltschaft verfügbaren Akten (U-act. 11/6), was die Staatsan­waltschaft
+am 20. September 2016 bewilligte (U-act. 11/22). Eine dagegen vom
+Beschwerdeführer erhobene Beschwerde hiess das Obergericht am 28. April
+2017 gut (U-act. 17.13). Den Ausschlag für die vom Obergericht gegenüber
+der Beschwerdegegnerin (einstweilen) abgelehnte Akteneinsicht gab, dass zum
+damali­gen Zeitpunkt lediglich erst polizeiliche Ermitt­lungen erfolgt waren
+und die Staats­anwaltschaft noch keine Strafuntersuchung eröffnet hatte. Wenn
+daher, so das Obergericht, noch nicht einmal feststehe, ob überhaupt eine
+Untersuchung eröffnet würde, falle vorliegend eine Abwägung der gegenläufigen
+Interessen zugunsten des Beschwerdeführers aus, indem dessen
+Geheimhaltungsinteresse an den von ihm eingereichten Unterlagen höher zu
+gewichten sei als das Interesse der Beschwer­degegnerin, zwecks Wahrung ihrer
+Verfahrensrechte in die Akten Einsicht nehmen zu können (U-act. 17.13
+S. 8 f. E. 6.).
+4.
+Die Staatsanwaltschaft vernahm in
+der Folge den Beschwerdeführer als Beschuldig­ten und eröffnete eine
+Strafuntersuchung (U-act. 17.18 und U‑act. 17.25).
+Mit Eingabe vom 26. Oktober 2017
+an die Staatsanwaltschaft beantragte die Beschwerdegegnerin erneut, die vom
+Beschwerdeführer eingereichten Akten einse­hen zu können (U-act. 17.23).
+Mit Verfügung vom 30. Mai 2018
+(act. 1) entschied die Staatsanwaltschaft, der Beschwerdegegnerin die
+betreffenden Akten (konkret die vom Beschwerdeführer am 12. Januar 2016
+eingereichten Beilagen 1-16 [U-act. 11.3]) zugänglich zu ma­chen
+.
+Hiergegen erhob der
+Beschwerdeführer mit Eingabe vom 11. Juni 2018 (act. 2) innert
+Frist beim Obergericht Beschwerde, welches Rechtsmittel in der vorliegenden
+Konstellation gegeben ist (Art. 393 Abs. 1 lit. a und
+Art. 396 Abs. 1 StPO sowie Art. 16 Abs. 1 lit. a
+GOG/GL).
+Der Beschwerde ist aufschiebende
+Wirkung erteilt worden (act. 5).
+II.
+Mit Beschwerde an das Obergericht
+können in Bezug auf den angefochtenen Ent­scheid Rechtsverletzungen und eine
+unvollständige oder unrichtige Feststellung des Sachverhalts sowie
+Unangemessenheit gerügt werden (Art. 393 Abs. 2 StPO).
+1.
+1.1
+Der Beschwerdeführer
+stellt sich in der laufenden Strafuntersuchung auf den Standpunkt, dass sich
+der von ihm entwickelte und hier streitgegenständliche "Multi Drop Tower"
+wesentlich unterscheide von den Freifalltürmen, wie sie von der
+Beschwerdegegnerin konzipiert würden. Er hat denn auch selber beantragt,
+hierzu eine Expertise einzuholen (U-act. 17.20). Die Beschwerdegegnerin
+hat sich mit der Anordnung einer Expertise "zum Vergleich der
+Baupläne" umgehend einverstanden erklärt. Indes besteht die
+Beschwerdegegnerin darauf, dass ihr vorgängig Einsicht in die vom
+Beschwerdeführer eingereichten Engineering-Unterlagen zu gewähren sei,
+andernfalls nämlich für sie die Ergebnisse und Konformität der Expertise
+überhaupt nicht überprüfbar wären (U-act. 17.23 S. 3 f.
+Ziff. 5 ff. sowie S. 3 Ziff. 4 i.V.m. U‑act. 17.11
+S. 2 oben).
+1.2
+Die Staatsanwaltschaft
+hat ihren vorliegend angefochtenen Entscheid, der Beschwerdegegnerin vorab
+Einsicht in die vom Beschwerdeführer eingereichten Akten zu gewähren, im
+Wesentlichen wie folgt begründet (siehe act. 1):
+Sie [die Staatsanwaltschaft] sei
+selber nicht in der Lage, anhand der von den Par­teien ins Recht gelegten
+technischen Unterlagen zu beurteilen, ob es sich bei dem vom Beschwerdeführer
+entwickelten "Multi Drop Tower" um eine Neukonstruktion oder um
+eine blosse Nachahmung einer von der Beschwerdegegnerin konzipierten Anlage
+handle; zur Klärung dieser Frage sei sie [die Staatsanwaltschaft] auf eine
+Expertise angewiesen. Damit aber die Beschwerdegegnerin im Nachhinein das
+Gutachten auf seine Stichhaltigkeit hin überprüfen könne, könnten die
+massgebli­chen technischen Dokumente nicht dem Gutachter überlassen werden,
+ohne diese zuvor auch der Beschwerdegegnerin offen zu legen. Einem
+solchermassen transpa­renten Vorgehen stünden keine schützenswerten
+Interessen des Beschwerdefüh­rers ent­gegen. Für sie [die Staatsanwaltschaft]
+sei jedenfalls nicht nachvollziehbar, inwie­fern die vom Beschwerdeführer
+eingereichten Pläne nach wie vor ein Geheim­nis darstellten, sei doch der
+betreffende Freifallturm ("Multi Drop Tower") inzwischen
+vollständig konstruiert und gebaut. Des Beschwerdeführers Befürchtung, die
+Beschwerdegegnerin könnte seine "Neukonstruktion" weiterverwenden,
+sei rein theoretischer Natur. Der Beschwerdeführer habe nämlich anlässlich
+seiner untersu­chungsrichterlichen Befragung selber erwähnt, die Chancen, den
+gleichen "Multi Drop Tower" noch einmal bauen zu können, stünden
+bei 1 zu 99; es wäre dies fast wie ein Lottosechser. Insofern, so folgerte
+die Staatsanwaltschaft daraus, bestehe nur eine sehr geringe
+Wahrscheinlichkeit, dass die vom Beschwerdeführer für den "Multi Drop
+Tower" entworfenen Pläne nun von der Beschwerdegegnerin miss­bräuchlich
+verwendet und zu Geld gemacht werden könnten. Die vom Beschwerde­führer
+vorgebrachten Geheimhaltungsinteressen müssten daher "als redundant an­gesehen
+werden" und vermöchten eine Beschränkung des rechtlichen Gehörs der
+Beschwerdegegnerin im laufenden Strafverfahren nicht zu rechtfertigen.
+1.3
+Der Rechtsvertreter
+des Beschwerdeführers wendet sich in seiner Beschwerde­eingabe (act. 2)
+dezidiert dagegen, dass die von seinem Mandanten eingereichten
+"Multi-Drop-Tower"-Planunterlagen der Beschwerdegegnerin zugänglich
+gemacht werden. Explizit verweist er dabei auf die in Art. 108
+Abs. 1 StPO statuierte Möglich­keit, das rechtliche Gehör und dabei
+konkret das Akteneinsichtsrecht einer Verfah­renspartei einzuschränken, wenn
+der Akteneinsicht berechtigte Geheimhal­tungsinteressen einer anderen
+beteiligten Partei entgegenstehen (a.a.O., Rz. 13). Diese Voraussetzung
+sei vorliegend gegeben. Namentlich handle es sich beim "Multi Drop
+Tower" um eine Neukonstruktion, eine vom Beschwerdeführer stam­mende
+"genuine Erfindung", welche sich in zentralen
+Konstruktionsmerkmalen von den Anlagen der Beschwerdegegnerin unterscheide;
+der "Multi Drop Tower" sei ein Alleinstellungsmerkmal des
+Beschwerdeführers gegenüber der Kundschaft. Erhalte die Beschwerdegegnerin
+Einblick in die detaillierten Pläne, könnte sie dessen Inno­vationen ohne
+weitere Eigenleistung kopieren und diese für ihre eigenen Geschäfts­aktivitäten
+ausbeuten, und dies selbst dann, wenn sich "erwartungsgemäss die
+strafrechtlichen Vorwürfe gegenüber dem Beschwerdeführer als haltlos
+erweisen" (a.a.O., Rz. 3 Bst. e und f sowie
+Rz. 32 f.). Die Argumentation der Staatsanwalt­schaft, wonach die
+Erfindung des Beschwerdeführers nur an einem einzigen Ort einsetzbar sei,
+verfange nicht. Wohl könne ein "ganzer Multi Drop Tower" nicht in
+Serie gebaut werden, da ein entsprechender Freifallturm je nach
+Einsatzbedingun­gen, Umgebung, Budget und Anforderungen unterschiedliche
+Parameter aufweise. Indes sei das Schützenswerte an der Erfindung des
+Beschwerdeführers "nicht das Customizing eines Multi Drop Towers für die
+Anforderungen vor Ort, sondern die Konstruktion dieses Turms an sich und das
+spezielle Dropsystem". Der Beschwer­deführer sei daher in seinen
+Geheimhaltungsinteressen zu schützen, da das Kon­struktionsprinzip als Blaupause
+selbstverständlich in angepasster Form noch mehr­fach Verwendung finden werde
+(a.a.O., Rz. 26 f.).
+Mit den eben dargelegten
+Ausführungen rügt der Beschwerdeführer im Ergebnis eine unzutreffende
+Rechtsanwendung durch die Staatsanwaltschaft, indem sie die Offenlegung der
+Akten gegenüber der Beschwerdegegnerin verfügt hat. Aus Sicht des
+Beschwerdeführers würden nämlich vorliegend die konkreten Umstände erhei­schen,
+dass die Staatsanwaltschaft der Beschwerdegegnerin gestützt auf Art. 108
+Abs. 1 StPO das Akteneinsichtsrecht verweigere.
+1.4
+Dagegen bringt der
+Rechtsvertreter der Beschwerdegegnerin in seiner Stellung­nahme (act. 7)
+im Wesentlichen vor, der Beschwerdeführer selber habe in der Untersuchung die
+Wahrscheinlichkeit der Wiederverwertung der Pläne mit 1 zu 99 angegeben.
+Seine Mandantin und der Beschwerdeführer seien zwar in einem globa­len Markt
+tätig, doch sei dieser überschaubar. Jeder Mitbewerber wisse, wer wo welche
+Anlage gebaut bzw. verkauft habe. Folglich sei es nicht willkürlich, wenn die
+Staatsanwaltschaft in ihrer Verfügung festhalte, es bestehe eine sehr geringe
+Wahr­scheinlichkeit, dass die Unterlagen missbräuchlich verwendet und zu Geld
+gemacht würden (a.a.O., Rz. 4). Ohnehin habe die Staatsanwaltschaft mit
+der Aufnahme der hier interessierenden Pläne in die Strafakten bereits
+entschieden, dass das Strafver­folgungsinteresse dem Berufungsgeheimnis bzw.
+Geheimhaltungsinteresse vorgehe (a.a.O., Rz. 5). Im Übrigen sei bis
+anhin die Begutachtung der Pläne daran geschei­tert, dass der
+Beschwerdeführer die Gewährung der Akteneinsicht blockiert habe. Wenn der
+Beschwerdegegnerin die Einsicht in die fraglichen Akten verwehrt würde, käme
+dies nicht nur einer fundamentalen Einschränkung des rechtlichen Gehörs
+gleich, sondern im Ergebnis einer umfassenden Aussetzung der Parteirechte,
+was offen­sichtlich die Kerngehaltsgarantie des grundrechtlich geschützten
+Rechtsan­spruches der Beschwerdegegnerin als Privatklägerin beträfe und eine
+Verletzung von Art. 29 Abs. 2 BV i.V.m. Art. 6 EMRK darstellte.
+So wäre es der Beschwerde­gegnerin überhaupt nicht möglich, die einem
+Begutachtungsauftrag zu Grunde gelegten Vorakten zu prüfen, was einherginge
+mit einem beschnittenen Fragerecht an den unabhängigen Experten; ebenso wenig
+wäre es der Privatklägerin möglich, die Erkenntnisse der unabhängigen
+Expertise zu validieren und die rechtsrelevanten Rückschlüsse der
+Staatsanwaltschaft einzuord­nen. Insbesondere könnte die Privat­klägerin auch
+zu den Ergebnissen einer derarti­gen Begutachtung keine Stellung nehmen, da
+ihr verborgen bliebe, gestützt auf wel­che Grundlagen der Experte zu diesen
+Schlüssen gekommen ist. Letztlich würde die Privatklägerin in eine Position
+versetzt, in der sie letztlich nur hoffen oder glauben könne, dass schon
+alles ord­nungsgemäss ablaufe (a.a.O., Rz. 6).
+2.
+2.1
+Wie bereits einleitend
+erwähnt, ermittelt die Staatsanwaltschaft gegen den Beschwerdeführer wegen
+möglicher Verletzung eines Fabrikations- oder Geschäfts­geheimnisses im Sinne
+von Art. 162 StGB sowie Zuwiderhandlungen gegen das UWG. Bei den
+inkriminierten Delikten handelt es sich durchwegs um Tat­bestände, die nur
+auf Antrag strafbar sind (vgl. Art. 162 StGB sowie Art. 23
+Abs. 1 UWG).
+Die Beschwerdegegnerin hat die
+erwähnten Tatvorwürfe, welche unmittelbar ihre eigene wirtschaftliche
+Interessensphäre beschlagen, zur Anzeige gebracht und da­bei zugleich
+Strafantrag gestellt (U-act. 2.2). Sie hat somit im Strafverfahren gegen
+den Beschwerdeführer die Stellung einer Privatklägerin inne (Art. 118
+Abs. 1 und 2 StPO) und ist als solche Verfahrenspartei (Art. 104
+Abs. 1 lit. b StPO).
+2.2
+Die Parteien eines
+Strafverfahrens können spätestens nach der ersten Einver­nahme der
+beschuldigten Partei und der Erhebung der übrigen wichtigsten Beweise durch
+die Staatsanwaltschaft die Akten des Strafverfahrens einsehen (Art. 101
+Abs. 1 StPO; siehe auch Art. 107 Abs. 1 lit. a StPO). Das
+Akteneinsichtsrecht ist Teilgehalt des grundrechtlich geschützten rechtlichen
+Gehörs vor Gerichts- und Verwaltungsinstanzen (Art. 29 Abs. 2 BV).
+Das Akteneinsichtsrecht gilt indes nicht vorbehaltlos, verweist nämlich
+bereits die Grundsatzregel von Art. 101 Abs. 1 StPO explizit auf
+Art. 108 StPO, worin Einschränkungen normiert sind.
+Gemäss Art. 108 Abs. 1
+StPO können die Strafbehörden (so auch die Staatsanwalt­schaft; vgl. Art. 12
+lit. b StPO) das rechtliche Gehör einschränken, wenn der begründete
+Verdacht besteht, dass eine Partei ihre Rechte missbraucht (lit. a) oder
+dies für die Sicherheit von Personen oder zur Wahrung öffentlicher oder
+privater Geheimhaltungsinteressen erforderlich ist (lit. b).
+Art. 108 Abs. 1 StPO
+ist als Kann-Bestimmung formuliert, womit es entsprechend dieser inhaltlichen
+Ausgestaltung der Norm anscheinend im Ermessen allein der zuständigen Behörde
+steht, ob und inwieweit sie das Akteneinsichtsrecht beschrän­ken will. Es
+stellt sich daher die Frage, ob in einer Konstellation wie der vorliegen­den,
+wo die Staatsanwaltschaft entschieden hat, das Akteneinsichtsrecht
+nicht
+ein­zuschränken, eine Verfahrenspartei (hier der Beschuldigte) gleichwohl
+einen klagba­ren bzw. beschwerdeweise geltend zu machenden Anspruch darauf
+hat, dass einer anderen Verfahrenspartei (hier der Beschwerdegegnerin als
+Privatklägerin) die Ein­sichtnahme in die Akten verwehrt wird. Diese Frage
+ist zu bejahen. Art. 108 Abs. 1 lit. b StPO sieht als mög­lichen
+Grund zur Einschränkung der Akteneinsicht die Wah­rung privater Geheimhal­tungsinteressen
+vor. Darunter fallen namentlich Fabrikati­ons- und Geschäftsge­heimnisse
+(BSK-
+Vest/Horber
+, N 6 zu
+Art. 108 StPO). Im hier zu beurteilenden Fall beruft sich der
+Beschwerdeführer im Ergebnis darauf, dass eigene Fabrikations- und
+Geschäftsgeheimnisse betroffen wären, wenn die Beschwerdegegnerin Einblick in
+die von ihm eingereichten Dokumente über den "Multi Drop Tower"
+erhielte. Diese Befürchtung des Beschwerdeführers ist aus der Aussensicht
+betrachtet nahelie­gend, macht doch der Beschwerdeführer geltend, der
+"Multi Drop Tower" sei eine eigenentwickelte Anlage und wird just
+dieser Punkt überhaupt erst in der Strafunter­suchung zu klären sein. Unter
+diesen Umständen aber ist dem Beschwer­deführer ein rechtlich schützenswertes
+Interesse insoweit zu attestieren, als dass er legitimiert ist, eine von der
+Staatsanwaltschaft selber nicht veranlasste Einschrän­kung des
+Akteneinsichtsrechts beschwerdeweise einzufor­dern (Art. 382 Abs. 1
+StPO; siehe hierzu auch
+Lieber
+,
+in: Donatsch/Hansjakob/ Lieber, Kommentar zur Schweizerischen
+Strafprozessordnung, 2. Aufl., Zürich 2014, N 6c zu Art. 108
+StPO).
+3.
+3.1
+Das den Parteien eines
+Strafverfahrens grundsätzlich zustehende rechtliche Gehör und dabei
+insbesondere das Akteneinsichtsrecht (vgl. Art. 101 Abs. 1 StPO)
+kann eingeschränkt werden, wenn dies namentlich zur Wahrung privater Geheim­haltungsinteressen
+erforderlich ist (Art. 108 Abs. 1 lit. b StPO).
+3.2
+Der Beschwerdeführer
+behauptet, bei dem von ihm entwickelten "Multi Drop Tower" handle
+es sich um eine "genuine" Eigenerfindung. Im Hinblick auf die hier
+interessierende Streitfrage, ob der Beschwerdegegnerin Einsicht in die
+betreffenden Konstruktionspläne gewährt werden kann, ist die eben dargelegte
+Behauptung des Beschwerdeführers als wahr zu unterstellen (der gegenteilige
+Standpunkt der Beschwerdegegnerin, wonach es sich beim "Multi Drop
+Tower" um eine "kopierte" Anlage handle, lässt sich überhaupt
+erst mit der Strafuntersuchung klären).
+Wird somit davon ausgegangen, der
+"Multi Drop Tower" sei eine originäre Erfindung des
+Beschwerdeführers, so hat dieser ein zentrales Interesse daran, dass die
+betreffenden Planunterlagen nicht der Beschwerdegegnerin als seiner
+Konkurrentin im Markt offengelegt werden. Demgegenüber hat die
+Beschwerdegegnerin ein vor­dringliches Interesse an einer effektiven
+Untersuchung der von ihr behaupte­ten Vorwürfe, wonach der Beschwerdeführer
+mit dem "Multi Drop Tower" in straf­rechtlich relevanter Weise
+einen Anlagetyp von ihr [der Beschwerdegegnerin] kopiert bzw. hierzu von ihr
+entworfene Pläne verwendet habe.
+3.3
+Ob die dem
+Beschwerdeführer angelasteten Tat­vorwürfe zutreffen, wird im Rahmen einer
+Expertise zu klären sein, da die Staats­anwaltschaft selber nicht über das
+hierfür erforderliche fachspezifische Wissen ver­fügt. In einem nächsten
+Schritt wird daher die Staatsanwaltschaft im Rahmen ihrer Untersuchung einen
+entspre­chenden Gutachterauftrag zu erteilen haben.
+Vorliegend weiss die
+Beschwerdegegnerin als branchenkundige Partei und langjäh­rige Erbauerin von
+Freifalltürmen (siehe dazu auch act. 9/1 S. 5 lit. d) selber
+am besten, worauf ein Experte konkret das Augenmerk zu richten hat, um die
+von ihr erhobenen Plagiatsvorwürfe zu verifizieren. Sie selber erwähnt in der
+Strafanzeige beispielsweise, der Beschwerdeführer verfüge nicht über die
+fachliche Kompetenz, die für ein solches Projekt ["Multi Drop
+Tower"] notwendigen Zeichnungen zu erstel­len und die notwendigen
+Berechnungen (betreffend Statik etc.) durchzuführen. Es könne also nur eine
+Offerte abgegeben worden sein, die auf Zeichnungen, Plänen und Berechnungen
+von ihr [der Beschwerdegegnerin] beruhten (U-act. 2.2 S. 5). Bei
+dieser Sachlage aber, genügt es in Hinsicht auf die Expertise, wenn die
+Beschwer­degegnerin dem Experten sämtliche eigenen technischen Unterlagen zu
+Freifalltür­men zugänglich macht. Aufgabe des Experten wird es hierauf sein,
+diese Dokumen­te den Planunterlagen des Beschwerdeführers gegenüberzustellen
+und letztere auf mögliche Plagiate zu untersuchen. Bei dieser Ausgangslage
+ist daher nicht ersicht­lich, inwiefern eine Notwendigkeit dafür besteht,
+dass die Beschwerdegegnerin, noch ehe die Expertise veranlasst worden ist,
+bereits Einblick in die vom Beschwer­deführer eingereichten technischen
+Unterlagen nehmen kann.
+3.4
+Ebenfalls nicht
+gefolgt werden kann der Beschwerdegegnerin darin, dass ihr ohne vorherige
+Einsicht in die Akten das Fragerecht an den Experten beschnitten würde (act. 7
+Rz. 6).
+Aufgrund der von der
+Beschwerdegegnerin eingereichten Strafanzeige (U-act. 2.2) steht der
+Vorwurf im Raum, der Beschwerdeführer habe mit "seiner" X.______
+GmbH den Auftrag zur Errichtung des "Multi Drop Towers" in Berlin
+nur deshalb erlangt, weil er einen Anlagetyp offeriert habe, der massgeblich
+auf Plänen und Berechnun­gen der Beschwerdegegnerin basiere. Es geht mit
+anderen Worten um die Frage, ob der Beschwerdeführer sich unerlaubterweise
+Arbeitsergebnisse und/oder Fabri­kations- oder Geschäftsgeheimnisse der
+Beschwerdegegnerin zu eigen gemacht hat. In Hinsicht darauf aber ist die
+Beschwerdegegnerin ohne weiteres in der Lage, die eigenen Arbeitsergebnisse
+und/oder Fabrikations- oder Geschäftsgeheimnisse, deren Kopie durch den
+Beschwerdeführer sie befürchtet, zu beschreiben und zu dokumentieren und
+dabei auch die aus ihrer Sicht massgeblichen Fragen an den Experten zu
+formulieren. Hierfür ist sie nicht darauf angewiesen, dass sie vorgängig in
+die vom Beschwerdeführer zuhanden der Staatsanwaltschaft eingereichten Unter­lagen
+Einsicht nehmen kann. Dies wird denn auch von der Staatsanwaltschaft über­sehen,
+soweit sie in der angefochtenen Verfügung davon ausgeht, die Unterlagen
+müssten noch vor deren Überlassung an den Experten der Beschwerdegegnerin
+eröffnet werden.
+3.5
+Die Beschwerdegegnerin
+hält dafür, dass die Staatsanwaltschaft die vom Beschwerdeführer
+eingereichten Unterlagen in die Strafakten aufgenommen habe und durch diesen
+Vorgang somit bereits entschieden sei, dass "das Strafverfol­gungsinteresse
+dem Berufungsgeheimnis bzw. Geheimhaltungsinteresse vorgehe"
+(act. 7 Rz. 5). Die Beschwerdegegnerin begründet mit dieser
+Argumentation einen eigenen unmittelbaren Anspruch auf Akteneinsicht, worin
+ihr aber nicht beigepflich­tet werden kann. Festzuhalten ist vorab, dass die
+Strafverfolgung in erster Linie der Staatsanwaltschaft und nicht der
+Privatklägerschaft obliegt, da der Strafanspruch allein dem Staat zusteht
+(BGE 136 IV 29 E. 7.1.2 S. 39). Hinzu kommt sodann, dass
+unmittelbar mit der Aufnahme von Dokumenten in die Strafuntersuchungsakten
+nicht gleichzeitig berechtigte Geheimhaltungsinteressen einer involvierten
+Partei (hier des Beschwerdeführers) ohne weiteres untergehen. Die Offenlegung
+der Akten ist durchgängig im Lichte von Art. 108 Abs.1 StPO zu
+beurteilen. Vorliegend sind, wie zuvor dargelegt, die
+Geheimhaltungsinteressen des Beschwerdeführers berech­tigt und schützenswert
+und tritt demgegenüber das Interesse der Beschwerdegeg­nerin, in die Akten
+Einblick nehmen zu können, jedenfalls im jetzigen Verfahrens­stadium in den
+Hintergrund. Mit Vorliegen der Expertise, welche die Staatsanwalt­schaft
+einzuholen beabsichtigt, wird dann, falls die Beschwerdegegnerin wiederum ein
+Akteneinsichtsgesuch stellt, die Interessenabwägung von neuem vorzunehmen
+sein, dabei auch unter Berücksichtigung der Ergebnisse des Gutachtens. Es
+wird sich dabei auch erst zu diesem Zeitpunkt weisen, ob und inwieweit die
+Beschwer­degegnerin Anspruch darauf hat, die Ergebnisse der Expertise zu
+validieren und hierfür in die Akten Einsicht nehmen zu können.
+4.
+Gegenüber Rechtsbeiständen kann
+die Akteneinsicht nur eingeschränkt werden, wenn der Rechtsbeistand selbst
+Anlass für die Beschränkung gibt (Art. 108 Abs. 3 StPO). Für eine
+Verweigerung der Akteneinsicht gegenüber dem Rechtsvertreter der
+Beschwerdegegnerin besteht vorliegend keine Veranlassung. Ihm ist daher Ein­sicht
+in die vom Beschwerdeführer eingereichten Belege zu gewähren. Hierbei dür­fen
+allerdings durch den Rechtsvertreter keine Kopien oder Aufnahmen angefertigt
+werden, was be­deutet, dass die Akteneinsicht unter Aufsicht der
+Staatsanwaltschaft zu erfolgen hat.
+5.
+Aus alldem ergibt sich, dass die
+Staatsanwaltschaft im Lichte von Art. 108 Abs. 1 lit. b StPO
+der Beschwerdegegnerin zu Unrecht ein Akteneinsichtsrecht eingeräumt hat.
+Vielmehr ist der Beschwerdegegnerin diese Befugnis bei Abwägung der gegen­läufigen
+Interessen der Verfahrensparteien jedenfalls zum jetzigen Zeitpunkt zu
+verwehren. Ausgenommen bleibt lediglich das Einsichtsrecht des Rechtsvertreters
+der Beschwerdegegnerin. In diesem Sinne ist die Beschwerde des Beschwerdefüh­rers
+gutzuheissen und die angefochtene Verfügung der Staatsanwaltschaft vom
+30. Mai 2018 (act. 1) aufzuheben bzw. insofern abzuändern
+(Art. 397 Abs. 2 StPO), dass einzig der Rechtsvertreter der
+Beschwerdegegnerin berechtigt ist, die vom Beschwerdeführer am 12. Januar
+2016 der Staatsanwaltschaft eingereichten Beila­gen 1 bis 16 einzusehen,
+wobei er aber keine Kopien anfertigen darf.
+III.
+1.
+Bei diesem Ausgang sind die
+Kosten des obergerichtlichen Verfahrens auf die Staatskasse zu nehmen
+(Art. 428 Abs. 1 StPO). Sodann ist dem obsiegenden Beschwerdeführer
+für das Beschwerdeverfahren aus der Staatskasse eine Partei­entschädigung von
+CHF 1‘500.– zuzusprechen (Art. 436 Abs. 2 StPO sinngemäss).
+2.
+Beim vorliegenden Entscheid
+handelt es sich um einen Zwischenentscheid im Sinne von Art. 93 BGG
+(BGer, Urteil vom 18.1.2016, 1B_227/2015, E. 2.1; BSK-
+Vest/Horber
+, N 4 zu Art. 108 StPO;
+Schmid/Jositsch
+, Schweizerische
+Strafpro­zess­ordnung, Praxiskommentar, 3. Aufl., Zürich/St. Gallen 2018,
+N 3 zu Art. 108 StPO).
+____________________
+Das Gericht
+beschliesst
+:
+1.
+In Gutheissung der Beschwerde
+wird die Verfügung der Staatsanwaltschaft des Kantons Glarus vom 30. Mai
+2018 im Verfahren SA.2015.00540 aufgehoben bzw. wie folgt modifiziert:
+Die Beschwerdegegnerin erhält
+im derzeitigen Verfahrensstadium keine Ein­sicht in die vom Rechtsvertreter
+des Beschwerdeführers der Staatsanwaltschaft mit Eingabe vom 12. Januar
+2016 eingereichten Beilagen 1 bis 16. Zur Akten­einsicht ist einzig der
+Rechtsvertreter der Beschwerdegegnerin berechtigt; es dürfen dabei keine
+Kopien oder Aufnahmen angefertigt werden, weshalb die Einsichtnahme in die
+Akten unter der Aufsicht der Staatsanwaltschaft zu erfolgen hat.
+2.
+Die Kosten des
+Beschwerdeverfahrens werden auf die Staatskasse genommen.
+3.
+Dem Beschwerdeführer wird für
+das Beschwerdeverfahren aus der Staatskasse eine Parteientschädigung von
+CHF 1‘500.– zugesprochen.
+4.
+Schriftliche Mitteilung an:
+[…]
