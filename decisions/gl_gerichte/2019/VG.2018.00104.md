@@ -1,0 +1,337 @@
+---
+decision_id: "gl_gerichte_VG.2018.00104"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2018.00104"
+docket_2: "VG.2019.746"
+decided: "2019-01-10"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1046&W10_KEY=218274&nTrefferzeile=9&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-021.md", "switzerland/bund/acts/830.1/art-043.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.20/art-001.md", "switzerland/bund/acts/831.20/art-007.md", "switzerland/bund/acts/831.20/art-007a.md", "switzerland/bund/acts/831.20/art-007b.md", "switzerland/bund/acts/831.20/art-069.md"]
+---
+
+# GL Gerichte VG.2018.00104
+
+## Regeste
+
+Sozialversicherung - IV
+
+## Text
+
+Glarus Verwaltungsgericht 10.01.2019 VG.2018.00104 (VG.2019.746)
+Glaris Verwaltungsgericht 10.01.2019 VG.2018.00104 (VG.2019.746)
+Glarona Verwaltungsgericht 10.01.2019 VG.2018.00104 (VG.2019.746)
+
+Sozialversicherung - IV
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+10. Januar 2019
+II. Kammer
+in Sachen
+VG.2018.00104
+A.______
+Beschwerdeführerin
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+IV-Stelle Glarus
+Beschwerdegegnerin
+betreffend
+IV-Leistungen
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Am 21.
+Juni 2016 meldeten die Sozialen Dienste, Stützpunkt Mitte, A.______, geboren
+am […], bei der IV-Stelle Glarus zum Bezug von Leistungen der
+Invalidenversicherung an. Nach medizinischen Abklärungen erteilte ihr die
+IV-Stelle am 8. September 2017 sowie am 10. Oktober 2017
+Kostengutsprache für eine Eingliederungsmassnahme beim C.______. Ferner
+beauftragte die IV-Stelle die berufliche Abklärungsstelle D.______ am 10.
+Oktober 2017 mit einer bidisziplinären Abklärung von A.______, wobei das
+Gutachten am 27. März 2018 erstattet wurde. Überdies richtete ihr die
+IV-Stelle während der Eingliederungsmassnahme und der D.______-Abklärung ein
+Taggeld aus.
+1.2
+Mit
+Vorbescheid vom 11. April 2018 zeigte die IV-Stelle A.______ an, dass
+aufgrund der Verletzung der Schadenminderungspflicht zurzeit keine
+beruflichen Massnahmen möglich seien. Es sei vorgesehen, dass ihr
+Leistungsbegehren abgewiesen werde. Am 14. Juni 2018 erneuerte die IV-Stelle
+ihren Vorbescheid. Sie führte darin aus, dass das Leistungsbegehren von
+A.______ wegen der Verletzung der Mitwirkungspflicht voraussichtlich
+abgewiesen werde, woran sie mit Verfügung vom 27. August 2018 festhielt.
+2.
+In der Folge gelangte
+A.______ mit Beschwerde vom 27. September 2018 ans Verwaltungsgericht und
+beantragte die Aufhebung der Verfügung vom 27. August 2018. Eventualiter sei
+die Sache zur Neubeurteilung, insbesondere betreffend Anspruch auf eine Invalidenrente,
+an die IV-Stelle zurückzuweisen; alles unter Kosten- und Entschädigungsfolgen
+zu Lasten der IV-Stelle. Am 3. Oktober 2018 ersuchte sie zudem um Gewährung
+der unentgeltlichen Prozessführung und der unentgeltlichen
+Rechtsverbeiständung. Die IV-Stelle schloss am 28. November 2018 auf
+Abweisung der Beschwerde.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 69 Abs. 1 lit. a des Bundesgesetzes über die
+Invalidenversicherung vom 19. Juni 1959 (IVG) zur Behandlung der vorliegenden
+Beschwerde zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt
+sind, ist auf die Beschwerde einzutreten.
+2.
+2.1
+Die Beschwerdegegnerin führte in der vorliegend
+angefochtenen Verfügung aus, dass die Beschwerdeführerin ihre Mitwirkungs-
+und Schadenminderungspflicht verletzt habe. Aufgrund ihrer Weigerung habe
+während der vierwöchigen D.______-Abklärung keine vollständige psychiatrische
+Untersuchung stattfinden können. Trotz ausgewiesener Indikation habe sie
+zudem jegliche therapeutische Unterstützung abgelehnt und es bestehe der
+Verdacht auf einen intermittierenden Substanzkonsum. Daher seien zurzeit
+keine beruflichen Massnahmen möglich.
+2.2
+Die Beschwerdeführerin vertritt die Auffassung, sie
+sei ihrer Schadenminderungspflicht rechtsgenüglich nachgekommen, soweit es
+ihr zumutbar gewesen sei. Sodann sei die Verletzung der Mitwirkungspflicht
+auf die vorhandene Persönlichkeitsstörung zurückzuführen. Des Weiteren habe
+die Beschwerdegegnerin verkannt, dass sie als nicht ausbildungsfähig zu
+gelten habe, weshalb Eingliederungsmassnahmen mangels gegebener
+Voraussetzungen nur beschränkt oder gar nicht durchführbar seien. Ferner sei
+falsch, dass während der D.______-Abklärung keine vollständige psychiatrische
+Abklärung habe stattfinden können. Dagegen spreche bereits, dass der
+D.______-Gutachter psychische Diagnosen habe stellen können. Im Übrigen sei
+für die Leistungsüberprüfung nicht massgeblich, dass der D.______-Gutachter
+eine dauerhafte Rentenzusprache nicht habe befürworten können. Vielmehr habe
+die Beschwerdegegnerin aufgrund der Akten zu prüfen, ob die Voraussetzungen
+für eine Leistungszusprache erfüllt seien, wobei eine solche im vorliegenden
+Fall nicht von vornherein ausser Betracht falle.
+3.
+3.1
+Zu den Pflichten einer versicherten Person gehört
+die Pflicht zur Schadenminderung. In aktiver Hinsicht besagt diese, dass die
+versicherte Person alles Zumutbare unternehmen muss, um die Notwendigkeit von
+Sozialversicherungsleistungen abzuwenden oder zu verringern. Einerseits muss
+sie zum Gelingen von Schadenminderungsmassnahmen, die durch die
+Sozialversicherung selber organsiert werden, beispielsweise den gesetzlichen
+Eingliederungsmassnahmen der Invalidenversicherung, beitragen. Diesbezüglich
+besteht eine Mitwirkungspflicht. Andererseits muss sie auch aus eigenem Antrieb
+zumutbare Schadenminderungsmassnahmen treffen, die nicht durch die jeweilige
+Sozialversicherung organisiert oder finanziert werden. Damit trifft sie eine
+Pflicht zur Selbsteingliederung. In passiver Hinsicht besagt der Grundsatz
+der Schadenminderung sodann, dass die versicherte Person alles zu unterlassen
+hat, was zu einer Vergrösserung des Schadens führen könnte. Für den Bereich
+der Invalidenversicherung wird die Schadenminderungspflicht in Art. 21
+Abs. 4 des Bundesgesetzes über den Allgemeinen Teil des
+Sozialversicherungsrechts vom 6. Oktober 2000 (ATSG) und Art. 7 IVG
+konkretisiert. Danach muss die versicherte Person alles Zumutbare
+unternehmen, um die Dauer und das Ausmass der Arbeitsunfähigkeit und den
+Eintritt der Invalidität zu verhindern (Art. 7 Abs. 1 IVG). Weiter ist sie
+verpflichtet, aktiv an allen zumutbaren Eingliederungsmassnahmen
+teilzunehmen, worunter insbesondere medizinische Behandlungen,
+Integrationsmassnahmen, berufliche Massnahmen und Massnahmen zur
+Wiedereingliederung fallen. Art. 43 Abs. 2 ATSG hält weiter fest, dass die
+versicherte Person sich ärztlichen und fachlichen Untersuchungen zu
+unterziehen hat, soweit diese für die Beurteilung notwendig und zumutbar
+sind. Gemäss Art. 7a IVG gilt jene Massnahme als zumutbar, die der Eingliederung
+der versicherten Person dient, wobei Massnahmen, die ihrem Gesundheitszustand
+nicht angemessen sind, auszunehmen sind (vgl. zum Ganzen Patrick
+Fässler, Schadenminderungsauflagen und Leistungsverweigerung im
+Abklärungsverfahren?, in SZS 62/2017 S. 137 ff.,140 ff., mit Hinweisen).
+3.2
+Sofern die versicherte Person den Pflichten gemäss
+Art. 7 IVG oder nach Art. 43 Abs. 2 ATSG nicht nachgekommen ist, können die
+Leistungen nach Art. 21 Abs. 4 ATSG gekürzt oder verweigert werden. Art. 21
+Abs. 4 ATSG sieht dabei vor, dass die Leistungen vorübergehend oder dauernd
+gekürzt oder verweigert werden können, wenn sich eine versicherte Person
+einer zumutbaren Behandlung oder Eingliederung ins Erwerbsleben, die eine
+wesentliche Verbesserung der Erwerbsfähigkeit oder eine neue
+Erwerbsmöglichkeit verspricht, entzieht oder widersetzt. Sie muss jedoch vorher
+schriftlich gemahnt und auf die Rechtsfolgen hingewiesen werden und ihr ist
+eine angemessene Bedenkzeit einzuräumen. Die Einhaltung dieses Mahn- und
+Bedenkzeitverfahrens bei fehlender Mitwirkung an Eingliederungsmassnahmen ist
+zwingend erforderlich. Es ist selbst dann durchzuführen, wenn die versicherte
+Person einen fehlenden Eingliederungswillen zeigt und sich deshalb weitere
+Massnahmen als sinnlos erweisen (vgl. BGer-Urteil 8C_667/2015 E. 5.3).
+Sinn und Zweck des Verfahrens ist es, die versicherte Person in jedem
+Fall auf die möglichen nachteiligen Folgen ihres Widerstands gegen die vorgesehenen
+Massnahmen aufmerksam zu machen und sie so in die Lage zu versetzen, in
+Kenntnis aller wesentlichen Faktoren ihre Entscheidung zu treffen (BGE 122 V
+218 E. 4b).
+Einzige Ausnahmen
+stellen die in Art. 7b Abs. 2 IVG abschliessend aufgezählten Tatbestände dar,
+die, falls erfüllt, die IV-Stelle berechtigen, die Leistungen in Abweichung
+von Art. 21 Abs. 4 ATSG unverzüglich und ohne Mahn- und Bedenkzeitverfahren
+zu kürzen oder zu verweigern. Es sind dies die Verletzung der Auskunfts-,
+Melde- und Anmeldepflicht sowie die unrechtmässige Leistungserwirkung mitsamt
+dem Versuch dazu (vgl. zum Ganzen Ulrich Meyer/Marco Reichmuth, in Erwin
+Murer/Hans-Ulrich Stauffer [Hrsg.], Rechtsprechung des Bundesgerichts zum
+Sozialversicherungsrecht, Bundesgesetz über die Invalidenversicherung,
+3. A., Zürich/Basel/Genf 2014, S. 90 f.).
+3.3
+Bei der Sanktionierung gemäss Art. 7b IVG i.V.m.
+Art. 7 IVG und Art. 21 Abs. 4 ATSG gilt zu beachten, dass eine doppelte
+Schranke einzuhalten ist, nämlich die Zumutbarkeit der
+Schadenminderungsmassnahme einerseits, andererseits die Verhältnismässigkeit
+der Sanktion. Beim Entscheid über die Kürzung und die Verweigerung von
+Leistungen sind gemäss Art. 7b Abs. 3 IVG alle Umstände des Einzelfalls,
+insbesondere das Ausmass des Verschuldens, zu berücksichtigen. So liegt eine
+Verletzung namentlich nur dann vor, wenn das Verhalten der versicherten
+Person unentschuldbar ist. Subjektiv erfordert dies, dass die versicherte
+Person für ihr Handeln verantwortlich gemacht werden kann. Diese
+Voraussetzung fehlt beispielsweise, wenn die versicherte Person wegen
+Geisteskrankheit oder Geistesschwäche nicht in der Lage ist, die Folgen ihres
+Tuns zu erkennen oder sich einsichtsgemäss zu verhalten (Bundesamt für
+Sozialversicherungen, Kreisschreiben über Invalidität und Hilflosigkeit in
+der Invalidenversicherung [KSIH], Rz. 7010, Fassung gültig ab dem 1. Januar
+2015, Stand 1. Januar 2018; vgl. auch Fässler S. 154 f.).
+4.
+4.1
+Die Beschwerdegegnerin teilte der
+Beschwerdeführerin am 7. September 2016 mit, dass eine psychiatrische
+Abklärung notwendig sei. Gleichzeitig wies sie darauf hin, dass aufgrund der
+Akten verfügt oder die Erhebungen eingestellt sowie Nichteintreten
+beschlossen werden könne, sofern sie den Auskunfts- oder Mitwirkungspflichten
+in unentschuldbarer Weise nicht nachkomme. In der Vereinbarung für berufliche
+Eingliederungsmassnahmen vom 5. Oktober 2017 wurde sodann eine
+Schadenminderungs- und Mitwirkungspflicht festgehalten. Danach habe die
+Beschwerdeführerin aus eigenem Antrieb das ihr Zumutbare zur Verbesserung der
+Erwerbsfähigkeit oder zur Erlangung von neuen Erwerbsmöglichkeiten
+vorzukehren. Sie sei zur Mitwirkung verpflichtet und habe sich allen
+angeordneten zumutbaren Abklärungs-, Eingliederungs- und
+Wiedereingliederungsmassnahmen zu unterziehen und aktiv zum Erfolg
+beizutragen. Bei Verletzung dieser Rahmenbedingung könne die
+Beschwerdegegnerin ein Mahn- und Bedenkzeitverfahren durchführen (Art. 7b Abs. 1 IVG).
+Die Mahnung sowie die Einräumung einer angemessenen Bedenkzeit mit Hinweis
+auf die Folgen der Pflichtverletzung habe in der Form einer Mitteilung ohne
+Rechtsmittel zu erfolgen, wobei ausnahmsweise von einem Mahn- und
+Bedenkzeitverfahren abgesehen werden könne (Art. 7b Abs. 2 IVG). Ferner
+führte die Beschwerdegegnerin in der Kostengutsprache für das Aufbautraining
+beim C.______ vom 10. Oktober 2017 u.a. aus, dass ein unentschuldigtes
+Fernbleiben eine Verletzung der Mitwirkungspflicht darstelle. Es gelte das
+Prinzip Eingliederung vor Rente, weshalb oberste Priorität die
+Wiedereingliederung in den Arbeitsmarkt und die Vermeidung einer
+Invalidenrente sei.
+4.2
+Soweit die Beschwerdegegnerin die Abweisung des
+Leistungsbegehrens auf eine Verletzung der Schadenminderungs- und
+Mitwirkungspflicht stützen will, ist sie darauf hinzuweisen, dass sie
+vorgängig zwingend ein Mahn- und Bedenkzeitverfahren durchzuführen hat, da
+kein Ausnahmetatbestand gemäss Art. 7b Abs. 2 IVG vorliegt, weil der
+Beschwerdeführerin keine Verletzung der Auskunfts-, Melde- und Anmeldepflicht
+sowie keine unrechtmässige Leistungserwirkung anzulasten ist (vgl. vorstehende
+E. II/3.2). Dass ein solches Verfahren vorliegend durchgeführt wurde,
+wird von der Beschwerdegegnerin nicht geltend gemacht. Vielmehr unterliess
+sie es gänzlich, die Beschwerdeführerin
+auf die
+möglichen nachteiligen Folgen ihres Widerstands aufmerksam zu machen
+, obschon sie in der Zielvereinbarung vom 5. Oktober
+2017 noch explizit auf das Mahn- und Bedenkzeitverfahren hinwies (vgl. E. II/4.1).
+Erst aus den Vorbescheiden vom 11. April 2018 bzw. vom
+14. Juni 2018 waren für die Beschwerdeführerin die Folgen erkennbar, was
+Art. 21 Abs. 4 ATSG jedoch nicht
+genügt.
+Könnte die Durchführung des Mahn- und Bedenkzeitverfahrens nämlich mittels
+Eröffnung eines Vorbescheids nachgeholt und die Pflichtverletzung geheilt
+werden, würde Art. 21 Abs. 4 ATSG seines Inhalts völlig entleert,
+was nicht Ziel des Gesetzgebers ist.
+Nach dem Gesagten erfüllte
+die Beschwerdegegnerin mit ihrem Vorgehen die strengen Anforderungen an ein
+Mahn- und Bedenkzeitverfahren nach Art. 21 Abs. 4 ATSG nicht. Indem sie ein
+solches nicht ordnungsgemäss durchgeführt hatte, war eine Abweisung des
+Leistungsgesuchs der Beschwerdeführerin aufgrund der ihr vorgeworfenen
+Verletzung der Schadenminderungs- und Mitwirkungspflicht nicht zulässig, was
+zur Aufhebung der angefochtenen Verfügung führt.
+5.
+Hinzuweisen bleibt darauf,
+dass die Beschwerdegegnerin sorgfältig zu prüfen hat, was sie zumutbarerweise
+von der Beschwerdeführerin verlangen kann. Erst wenn Letztere eine zumutbare
+Schadenminderung bzw. Mitwirkung (vgl. vorstehende E. II/3.1) auch nach
+Durchführung des Mahn- und Bedenkzeitverfahrens verweigert, fällt eine
+Leistungsverweigerung gestützt auf Art. 21 Abs. 4 ATSG i.V.m. Art. 7b Abs. 1
+IVG in Betracht.
+Dies führt zur Gutheissung
+der Beschwerde. Die Verfügung vom 27. August 2018 ist aufzuheben und die
+Sache ist im Sinne der Erwägungen an die Beschwerdegegnerin zurückzuweisen.
+III.
+1.
+Nach Art. 134 Abs. 1 lit.
+c des Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986 (VRG)
+i.V.m. Art. 69 Abs. 1bis IVG hat die Partei, welche im Beschwerdeverfahren
+unterliegt, die amtlichen Kosten zu tragen. Entsprechend dem Ausgang des Verfahrens
+sind die Gerichtskosten von pauschal Fr. 600.- der Beschwerdegegnerin
+aufzuerlegen. Sie ist überdies zu verpflichten, der Beschwerdeführerin eine
+Parteientschädigung von Fr. 1'800.- (inkl. Mehrwertsteuer) zu bezahlen
+(Art. 1 Abs. 1 IVG i.V.m. Art. 61 lit. g
+ATSG)
+.
+2.
+2.1
+Gemäss
+Art. 139 Abs. 1
+VRG
+befreit die
+Behörde eine Partei, der die Mittel fehlen, um neben dem Lebensunterhalt für
+sich und ihre Familie die Verfahrenskosten aufzubringen, auf Gesuch hin ganz
+oder teilweise von der Kosten- und Vorschusspflicht, sofern das Verfahren
+nicht aussichtslos ist. Unter denselben Voraussetzungen weist sie der Partei
+auf Gesuch hin oder von Amtes wegen einen Anwalt als Rechtsbeistand zu,
+sofern ein solcher für die gehörige Interessenwahrung erforderlich ist (
+Art. 1 Abs. 1 IVG i.V.m.
+Art. 61 lit. f ATSG
+und Art. 139 Abs. 2 VRG). Der Nachweis der Bedürftigkeit obliegt nach
+Art. 139 Abs. 3 VRG der gesuchstellenden Partei.
+2.2
+Da die Gerichtskosten der Beschwerdegegnerin
+aufzuerlegen sind, ist das Gesuch der Beschwerdeführerin um Gewährung der
+unentgeltlichen Prozessführung als gegenstandslos geworden abzuschreiben.
+2.3
+Die Beschwerdeführerin
+beantragt zudem
+die Gewährung der unentgeltlichen Rechtsverbeiständung
+.
+Als Empfängerin von Sozialhilfe hat sie ohne
+Weiteres als mittellos zu gelten. Da sie vorliegend obsiegt, sind ihre
+Begehren nicht aussichtslos. Daneben erweist sich der Beizug eines
+Rechtsbeistands als erforderlich. Folglich ist ihr Gesuch um Gewährung der
+unentgeltlichen Rechtsverbeiständung gutzuheissen und ihr in der Person von
+Rechtsanwalt B.______ ein unentgeltlicher Rechtsbeistand zu bestellen. Dieser
+ist mit Fr. 1'800.- (inkl. Mehrwertsteuer) zu entschädigen. Daran ist
+die Parteientschädigung seitens der Beschwerdegegnerin in gleicher Höhe
+anzurechnen.
+Demgemäss beschliesst die Kammer
+:
+1.
+Das
+Gesuch der Beschwerdeführerin um Gewährung der unentgeltlichen Prozessführung
+wird als gegenstandslos geworden abgeschrieben.
+2.
+Das
+Gesuch der Beschwerdeführerin um Gewährung der unentgeltlichen Rechtsverbeiständung
+wird gutgeheissen. Ihr wird in der Person von Rechtsanwalt B.______ ein
+unentgeltlicher Rechtsbeistand bestellt.
+3.
+Der Rechtsbeistand wird zu Lasten der
+Gerichtskasse mit Fr. 1'800.- (inkl. Mehrwertsteuer) entschädigt.
+Daran angerechnet wird die Parteientschädigung seitens der
+Beschwerdegegnerin in gleicher Höhe.
+und erkennt sodann:
+1.
+Die
+Beschwerde wird gutgeheissen. Die Verfügung der Beschwerdegegnerin vom 27.
+August 2018 wird aufgehoben und die Sache wird im Sinne der Erwägungen an
+diese zurückgewiesen.
+2.
+Die
+Gerichtskosten von Fr. 600.- werden der Beschwerdegegnerin auferlegt.
+3.
+Die
+Beschwerdegegnerin wird verpflichtet, der Beschwerdeführerin innert
+30 Tagen nach Rechtskraft dieses Entscheids eine Parteientschädigung
+von Fr. 1'800.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
