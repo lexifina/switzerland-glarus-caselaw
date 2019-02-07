@@ -1,0 +1,905 @@
+---
+decision_id: "gl_gerichte_VG.2017.00010"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2017.00010"
+docket_2: "VG.2019.754"
+decided: "2019-02-07"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1055&W10_KEY=218274&nTrefferzeile=7&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/220/art-135.md", "switzerland/bund/acts/220/art-137.md", "switzerland/bund/acts/830.1/art-053.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.10/art-001.md", "switzerland/bund/acts/831.10/art-014.md", "switzerland/bund/acts/831.10/art-052.md"]
+---
+
+# GL Gerichte VG.2017.00010
+
+## Regeste
+
+Sozialversicherung - AHV
+
+## Text
+
+Glarus Verwaltungsgericht 07.02.2019 VG.2017.00010 (VG.2019.754)
+Glaris Verwaltungsgericht 07.02.2019 VG.2017.00010 (VG.2019.754)
+Glarona Verwaltungsgericht 07.02.2019 VG.2017.00010 (VG.2019.754)
+
+Sozialversicherung - AHV
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom 7. Februar 20
+19
+II. Kammer
+in Sachen
+VG.2017.00010
+Nachlass des A.______
+Beschwerdeführer
+vertreten durch
+Notariat
+B.______
+dieses vertreten durch
+Rechtsanwalt
+C.______
+gegen
+Ausgleichskasse […]
+Beschwerdegegnerin
+betreffend
+Schadenersatzforderung nach Art. 52 AHVG
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+A.______
+sel. war einzelzeichnungsberechtigter Verwaltungsrat und Geschäftsführer der
+D.______AG mit Sitz in […]. Über die D.______AG wurde am […] der Konkurs
+eröffnet. Am […] wurde über A.______ sel. der Privatkonkurs eröffnet. Die
+Ausgleichskasse (AK) […] verpflichtete A.______ sel. am 23. Juli 2015
+gestützt auf Art. 52 des Bundesgesetzes über die Alters- und
+Hinterlassenenversicherung vom 20. Dezember 1946 (AHVG) zur Bezahlung
+von Schadenersatz für entgangene Sozialversicherungsbeiträge im Konkurs der
+D.______AG in der Höhe von Fr. 423'488.55. Dagegen erhob A.______ sel.
+am 24. August 2015 Einsprache, welche die AK [...] am 17.
+September 2015 abwies. In der Rechtsmittelbelehrung gab sie die
+Beschwerde ans Sozialversicherungsgericht des Kantons […] an.
+1.2
+A.______
+sel. beantragte dem Sozialversicherungsgericht des Kantons […] mit Beschwerde
+vom 1. Dezember 2015 die Aufhebung des Einspracheentscheids. Das
+Sozialversicherungsgericht des Kantons […] trat am 27. Januar 2016 auf die
+Beschwerde nicht ein und überwies die Akten am 13. April 2016 (Datum des
+Eingangs) zuständigkeitshalber dem hiesigen Verwaltungsgericht.
+1.3
+Mit
+Präsidialverfügung vom 13. April 2016 setzte das Verwaltungsgericht
+A.______ sel. Frist zur Replik an. Innert erstreckter Frist präzisierte
+A.______ sel. am 30. Juni 2016 sein Rechtsbegehren und beantragte, es sei
+festzustellen, dass die Schadenersatzverfügung vom 23. Juli 2015 und der
+Einspracheentscheid vom 17. September 2015 nichtig seien. Eventualiter
+sei der Einspracheentscheid vom 17. September 2015 ersatzlos aufzuheben.
+Innert erstreckter Frist zur Duplik teilte die AK [...] dem
+Verwaltungsgericht am 30. September 2016 mit, dass sie die
+Schadenersatzverfügung vom 23. Juli 2015 zurückziehe. In der Folge schrieb
+das Verwaltungsgericht am 25. Oktober 2016 das Verfahren VG.2016.00045 als
+gegenstandslos geworden ab.
+2.
+2.1
+Am […]
+wurde der über A.______ sel. eröffnete Konkurs widerrufen. Die AK [...]
+erliess am 8. November 2016 gegen A.______ sel. eine neue
+Schadenersatzverfügung, in welcher sie ihn wiederum verpflichtete, Schadenersatz
+in der Höhe von Fr. 423'488.55 zu leisten. Dagegen erhob A.______ sel.
+am 8. Dezember 2016 abermals Einsprache und beantragte die
+Aufhebung der Verfügung. Die AK [...] wies die Einsprache am 12.
+Januar 2017 ab.
+2.2
+Dagegen
+gelangte A.______ sel. mit Beschwerde vom 26. Januar 2017 erneut ans
+Verwaltungsgericht und beantragte die Aufhebung des Einspracheentscheids vom
+12. Januar 2017; unter Kosten- und Entschädigungsfolgen zu Lasten der AK
+[...].
+2.3
+Die AK
+[...] schloss am 28. Februar 2017 sinngemäss auf Abweisung der Beschwerde. Da
+die AK [...] die Akten ohne Aktenverzeichnis eingereicht hatte, sandte das
+Verwaltungsgericht die Akten an sie zurück und forderte sie auf, diese mit
+einem Aktenverzeichnis einzureichen, welcher Forderung die AK [...] am 3.
+April 2017 (Datum des Eingangs) nachkam.
+2.4
+Der
+Rechtsvertreter von A.______ sel. teilte am 28. April 2017 dem
+Verwaltungsgericht mit, dass sein Mandant überraschend verstorben sei und
+ersuchte um eine Sistierung des Verfahrens. Das Verwaltungsgericht sistierte
+das Verfahren am 1. Mai 2017 und verlängerte die Sistierung am 1. September
+2017 und am 19. Dezember 2017.
+2.5
+Am 18.
+Juni 2018 zeigte das Notariat B.______ dem Verwaltungsgericht an, dass es
+durch das Bezirksgericht […] mit der Durchführung der amtlichen Liquidation
+des Nachlasses von A.______ sel. beauftragt worden sei. Ferner wies es darauf
+hin, dass es den bisherigen Rechtsvertreter von A.______ sel. für die
+Rechtsvertretung im vorliegenden Verfahren bevollmächtigt habe.
+2.6
+Daraufhin
+nahm das Verwaltungsgericht das Verfahren am 19. Juni 2018 wieder auf und gab
+dem Nachlass von A.______ sel. Gelegenheit zur Replik. Dieser hielt am
+26. Juni 2018 an den in der Beschwerde gestellten Rechtsbegehren ebenso
+fest wie die AK [...] in der Duplik vom 27. August 2018 an ihren.
+3.
+Das Verwaltungsgericht setzte der AK [...] mit
+Präsidialverfügung vom 25. September 2018 Frist an, um den Schaden zu
+substantiieren und alle sachbezüglich relevanten Unterlagen einzureichen
+sowie darzutun, wie sie den Schadensbetrag ermittelt habe. Am 8. Oktober
+2018 reichte die AK [...] Unterlagen ein und listete ihre Forderungseingabe
+im Konkurs der D.______AG in Liquidation sowie deren Korrektur auf. Mit
+Stellungnahme vom 1. November 2018 hielt der Nachlass von A.______ sel.
+an seinen Rechtsbegehren unverändert fest. Am 2. November 2018 stellte das
+Verwaltungsgericht der AK [...] die vorerwähnte beschwerdeführerische
+Stellungnahme zu.
+II.
+1.
+Gemäss Art. 52 Abs. 5 AHVG ist in
+Abweichung von Art. 58 Abs. 1 des Bundesgesetzes über den Allgemeinen Teil
+des Sozialversicherungsrechts vom 6. Oktober 2000 (ATSG) für Beschwerden
+gegen Schadenersatzverfügungen das Versicherungsgericht des Kantons
+zuständig, in welchem der Arbeitgeber seinen Wohnsitz hat. Da die D.______AG
+ihren Sitz in Glarus Nord hatte und weil sie keine Zweigniederlassung hatte,
+welche einer anderen Ausgleichskasse als jener des Hauptsitzes angeschlossen
+war, ist das hiesige Verwaltungsgericht zur Behandlung der Beschwerde
+zuständig. Weil auch die übrigen Prozessvoraussetzungen erfüllt sind, ist auf
+die Beschwerde einzutreten.
+2.
+2.1
+Nach Art. 52
+Abs. 1 AHVG hat ein Arbeitgeber, der durch absichtliche oder
+grobfahrlässige Missachtung von Vorschriften der Versicherung einen Schaden
+zugefügt hat, ihr diesen zu ersetzen. Ist der Arbeitgeber eine juristische
+Person, so können subsidiär gegebenenfalls die verantwortlichen Organe in
+Anspruch genommen werden (BGE 132 III 523 E. 4.5, 123 V 12 E. 5b).
+Haben mehrere Arbeitgeber oder mehrere Organe einer juristischen Person einen
+Schaden verursacht, haften sie solidarisch (BGE 114 V 213 E. 3;
+vgl. zum Ganzen auch Art. 52 Abs. 2 AHVG in der ab dem
+1. Januar 2012 geltenden Fassung). Gemäss Art. 52 Abs. 3 AHVG verjährt
+der Schadenersatzanspruch zwei Jahre, nachdem die zuständige Ausgleichskasse
+vom Schaden Kenntnis erhalten hat, spätestens aber fünf Jahre nach Eintritt
+des Schadens, wobei diese Fristen unterbrochen werden können.
+2.2
+Die Vorschriften über
+die Arbeitgeberhaftung nach Art. 52 AHVG sowie die dazu entwickelte
+Rechtsprechung des Bundesgerichts finden mangels eigener Bestimmungen
+sinngemäss Anwendung auf die Invalidenversicherungs- (Art. 66 des
+Bundesgesetzes über die Invalidenversicherung vom 19. Juni 1959),
+Erwerbsersatz- (Art. 21 Abs. 2 des Bundesgesetzes über den
+Erwerbsersatz für Dienstleistende und bei Mutterschaft vom 25. September
+1952) und Arbeitslosenversicherungsbeiträge (Art. 6 des Bundesgesetzes
+über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung
+vom 25. Juni 1982) sowie auf jene an die Familienausgleichskasse (FAK)
+gemäss Art. 25 lit. c des Bundesgesetzes über die Familienzulagen vom
+26. März 2006. Ein Schaden, der aus der Nichtbezahlung von Beiträgen an
+Vorsorgeeinrichtungen entstanden ist, kann hingegen nicht nach dem in
+Art. 52 AHVG geregelten Verfahren gedeckt werden (SVR 1997 AHV Nr.
+128). Denn hierfür ist gemäss Art. 73 Abs. 1 lit. c des
+Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und
+Invalidenvorsorge vom 25. Juni 1982 ein Klageverfahren vorgesehen.
+3.
+3.1
+Zunächst ist die
+Einwendung der Beschwerdegegnerin zu prüfen, der geschäftsführende
+Beschwerdeführer habe das Verfahren rechtsmissbräuchlich verzögert, was gegen
+Treu und Glauben verstosse. So bringt die Beschwerdegegnerin vor, der
+geschäftsführende Beschwerdeführer habe die gegen ihren ursprünglichen
+Einspracheentscheid vom 17. September 2015 erhobene Beschwerde erst nach
+deren Fristablauf eingereicht, womit die diesbezügliche
+Schadenersatzverfügung in Rechtskraft erwachsen sei. Dies gründe darin, dass
+durch die vom geschäftsführenden Beschwerdeführer vorgenommene Verlängerung
+der Aufbewahrungsfrist der Sendung bei der Schweizerischen Post die
+Beschwerdefrist nicht verlängert habe werden können, da diese eine
+gesetzliche und damit eine nicht erstreckbare Frist darstelle. Daher habe die
+Sendung sieben Tage nach dem ersten Zustellversuch als zugestellt zu gelten,
+womit die Frist für die Beschwerdeeingabe am 26. Oktober 2015 geendet
+habe, weshalb die Beschwerde vom 1. Dezember 2015 verspätet erhoben worden
+sei.
+3.2
+Der diesbezüglichen
+Argumentation der Beschwerdegegnerin ist zu entgegnen, dass diese selber ihre
+Verfügung vom 23. Juli 2015 am 30. September 2016 aufgehoben hatte.
+Aufgrund der Rücknahme der ursprünglichen Verfügung in Sachen
+Schadenersatzverpflichtung fiel der darauf gestützt ergangene
+Einspracheentscheid und damit das Anfechtungsobjekt im
+verwaltungsgerichtlichen Verfahren VG.2016.00045 dahin, weshalb dieses am 25.
+Oktober 2016 als gegenstandslos abgeschrieben worden war.
+Das von der Beschwerdegegnerin
+gewählte Vorgehen der nachträglichen Rücknahme der ursprünglichen
+Schadenersatzverfügung stellt eine in einem hängigen Verfahren zulässige
+Wiedererwägung dar (Art. 1 Abs. 1 AHVG i.V.m. Art. 53 Abs. 3 ATSG). Hebt nun
+die Beschwerdegegnerin ihre eigene Verfügung auf, kommt dieser betreffend die
+Frage einer allfälligen Fristwahrung einer dagegen erhobenen Beschwerde keine
+Wirkung mehr zu. Dies darum, weil mit dem Wegfall der angefochtenen Verfügung
+auch der darauf gestützt ergangene Einspracheentscheid dahinfällt, womit das
+in diesem Zeitpunkt hängige Beschwerdeverfahren sein Anfechtungsobjekt
+verliert und folglich gegenstandslos wird. Zwar hat die Beschwerdegegnerin
+nach dem Rückzug ihrer ursprünglichen Schadenersatzverfügung am 8. November
+2016 eine neue Schadenersatzverfügung erlassen. Doch auch dagegen hat der
+geschäftsführende Beschwerdeführer am 8. Dezember 2016 eine Einsprache
+und gegen den abschlägigen Einspracheentscheid in der Folge eine Beschwerde
+erhoben. Dabei bestreitet die Beschwerdegegnerin zu Recht nicht, dass diese
+beiden Eingaben innert der jeweiligen Rechtsmittelfrist und damit rechtzeitig
+erhoben worden waren. Somit erübrigen sich weitere Ausführungen zum Verhalten
+des geschäftsführenden Beschwerdeführers, welches zum
+verwaltungsgerichtlichen Verfahren VG.2016.00045 führte, zumal dieses
+Verfahren rechtskräftig abgeschlossen ist und Gegenstand des vorliegenden
+Beschwerdeverfahrens die am 8. November 2016 neu erlassene Verfügung bzw. der
+darauf gestützt ergangene Einspracheentscheid vom 12. Januar 2017
+bildet.
+4.
+Die Beschwerdegegnerin hat nach
+der Rücknahme ihrer ursprünglichen Schadenersatzverfügung vom 30. September
+2016 am 8. November 2016 erneut eine Verfügung in Sachen Schadenersatzpflicht
+gegen den geschäftsführenden Beschwerdeführer erlassen. Diesbezüglich ist in
+grundsätzlicher Hinsicht zu prüfen, ob sie dazu, nach Rücknahme der
+ursprünglichen Schadenersatzverfügung in gleicher Sache, berechtigt war.
+4.1
+4.1.1
+Der Beschwerdeführer
+bringt vor, die Beschwerdegegnerin habe anerkannt, dass ihre ursprüngliche
+Schadenersatzverfügung vom 23. Juli 2015 nichtig gewesen sei, weshalb sie
+diese vorbehaltlos und unwiderruflich zurückgenommen habe. Folglich habe das
+Verwaltungsgericht das Verfahren VG.2016.00045 abgeschrieben, wobei dieser
+Entscheid in Rechtskraft erwachsen sei. Damit liege eine abgeurteilte Sache
+vor, weshalb die Beschwerdegegnerin nicht befugt sei, in gleicher Sache
+erneut zu verfügen. Weiter sei es rechtsmissbräuchlich, wenn die Beschwerdegegnerin
+zuerst die Nichtigkeit der Schadenersatzverfügung anerkenne, sie
+anschliessend jedoch ihre Meinung ändere und mit einer abweichenden
+Begründung eine neue Schadenersatzverfügung erlasse.
+4.1.2
+Die
+Beschwerdegegnerin wendet hingegen ein, die Nichtigkeit der ursprünglichen
+Schadenersatzverfügung zu keinem Zeitpunkt anerkannt gehabt zu haben. Denn ob
+eine nichtige Verfügung vorliege, sei mittels Interessenabwägung zu prüfen,
+wobei eine tatsächliche Irreführung des Betroffenen aufgrund der Falschzustellung
+vorausgesetzt werde. Die aufgrund der privaten Konkurseröffnung des
+geschäftsführenden Beschwerdeführers vorgenommene mangelhafte Zustellung der
+Schadenersatz-verfügung habe nicht zu dessen Irreführung oder Benachteiligung
+geführt. Dies zeige sich dadurch, dass er gegen die genannte Verfügung innert
+Frist in begründeter Weise Einsprache erhoben habe, womit keine Nichtigkeit
+der genannten Verfügung vorliege. Daher sei mangels Vorliegens einer früheren
+Entscheidung in der Sache keine res iudicata gegeben.
+4.2
+Die formelle
+Rechtskraft einer Verfügung oder eines Rechtsmittelentscheids bedeutet, dass
+die Anordnung von den Betroffenen nicht mehr mit einem ordentlichen
+Rechtsmittel angefochten werden kann und somit grundsätzlich nicht mehr
+abänderbar ist. Materielle Rechtskraft bezeichnet die inhaltliche
+Unabänderbarkeit auch in anderen Verfahren; das heisst, das die betreffende
+Sache – als res iudicata – nicht Gegenstand eines neuen Verfahrens werden
+darf und dass die Behörden an die Verfügungen oder Rechtsmittelentscheide
+gebunden sind. Ob und inwieweit der Begriff der materiellen Rechtskraft, der
+aus dem Zivilprozessrecht stammt, im Verwaltungsrecht angewandt werden soll,
+ist umstritten (Martin Bertschi, in Alain Griffel [Hrsg.], Kommentar zum Verwaltungsrechtspflegegesetz
+des Kantons Zürich, 3. A., Zürich/Basel/Genf 2014, Vorbemerkungen zu §§
+86a – 86d N. 6). Es entspricht einer Eigenart des öffentlichen Rechts
+und der Natur des öffentlichen Interesses, dass ein Verwaltungsakt, der dem
+Gesetz nicht oder nicht mehr entspricht, nicht unabänderlich ist (BGE 94 I
+336 E. 4). In diesem Sinne werden Verfügungen in der Regel nicht materiell
+rechtskräftig. Die Änderung einer Verfügung durch die Verwaltungsbehörde ist
+grundsätzlich sowohl vor als auch nach Eintritt der Rechtskraft möglich.
+Allerdings sind die Voraussetzungen für die Neubeurteilung nach Eintritt der
+formellen Rechtskraft strenger (Ulrich Häfelin/Georg Müller/Felix Uhlmann,
+Allgemeines Verwaltungsrecht, 7. A., Zürich/St. Gallen 2016,
+Rz. 1095, 1224; August Mächler, in Christoph Auer/Markus Müller/Benjamin
+Schindler [Hrsg.], Kommentar zum Bundesgesetz über das Verwaltungsverfahren,
+2. A., Zürich/St. Gallen 2019, Art. 58 N. 4).
+4.3
+Soweit der
+Beschwerdeführer in der ursprünglichen Schadenersatzverfügung der
+Beschwerdegegnerin eine abgeurteilte Sache und damit eine res iudicata sieht,
+ist ihm nicht zu folgen. Dies gründet darin, dass kein Gericht über den
+Rücknahmeentscheid der Beschwerdegegnerin vom 30. September 2016 wie auch
+über die Frage der Verjährung der Schadenersatzforderung je in materieller
+Hinsicht entschieden hat. Zwar hat das Verwaltungsgericht am 25. Oktober
+2016 im Verfahren VG.2016.00045 aufgrund des Rücknahmeentscheids einen
+Abschreibungsbeschluss gefällt. Dieser stellt aufgrund des Wegfalls des
+Anfechtungsobjekts im Beschwerdeverfahren jedoch einen prozessrechtlichen
+Entscheid dar, worin keine materielle Prüfung des Rücknahmeentscheids
+vorgenommen worden war. Auch konnte sich das Verwaltungsgericht entgegen den
+Ausführungen des Beschwerdeführers im vorgenannten Abschreibungsentscheid zur
+Frage, ob über die Schadenersatzforderung neu verfügt werden könne, nicht
+äussern, da diese Frage im damaligen Verfahren nicht Verfahrensgegenstand
+bildete und daher nicht zu klären war. Stattdessen bildete Gegenstand des
+damaligen Beschwerdeverfahrens einzig die ursprüngliche
+Schadenersatzverfügung vom 23. Juli 2015 bzw. der in der Folge
+ergangene Einspracheentscheid vom 17. September 2015. Die diesbezüglichen
+Ausführungen des Verwaltungsgerichts im vorerwähnten Abschreibungsentscheid
+sind denn auch in dem Sinne zu verstehen, als dass es nicht zu beanstanden
+sei, die vorerwähnte Verfügung und folglich den vorerwähnten
+Einspracheentscheid als nichtig zu betrachten und in der Folge das
+verwaltungsgerichtliche Verfahren mangels Anfechtungsobjekts als
+gegenstandslos geworden abzuschreiben. Der Beschwerdegegnerin stand es
+grundsätzlich offen, über die Schadenersatzforderung nach der Rücknahme der
+ursprünglichen Schadenersatzverfügung neu zu entscheiden. Dies gilt
+unabhängig davon, aus welchem Grund die Beschwerdegegnerin ihre ursprüngliche
+Schadenersatzverfügung am 30. September 2016 in Wiedererwägung zog. Ob die
+Beschwerdegegnerin jedoch innert den Verjährungsvorgaben von Art. 52
+Abs. 3 AHVG neu verfügte, ist damit noch nicht entschieden (vgl.
+dazu E. II/6 nachfolgend).
+5.
+5.1
+Zu prüfen ist sodann,
+ob die Grundsätze des Vertrauensschutzes der Neuverfügung der
+Schadenersatzpflicht entgegenstehen. Die Beschwerdegegnerin nahm ihre
+Verfügung in der Annahme, sie sei nichtig, zurück. In der Folge erliess sie
+eine neue Verfügung mit einer anderen Begründung. Nach Ansicht des
+Beschwerdeführers widerspricht dieses Vorgehen dem Grundsatz von Treu und
+Glauben.
+5.2
+Der durch Art. 9 der
+Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999
+(BV) garantierte Vertrauensschutz bedeutet, dass Private Anspruch darauf
+haben, in ihrem berechtigten Vertrauen in behördliche Zusicherungen oder in
+anderes, bestimmte Erwartungen begründendes Verhalten der Behörden geschützt
+zu werden. Um sich auf den Vertrauensschutz berufen zu können, müssen unter
+anderem eine Vertrauensgrundlage wie auch eine Vertrauensbetätigung gegeben
+sein. Eine Vertrauensgrundlage bildet das Verhalten eines staatlichen Organs,
+welches beim betroffenen Privaten bestimmte Erwartungen auslöst. Eine
+Vertrauensbetätigung liegt dann vor, wenn gestützt auf das Vertrauen in die
+Vertrauensgrundlage Dispositionen getätigt werden, welche ohne Nachteil nicht
+wieder rückgängig gemacht werden können (Häfelin/Müller/Uhlmann, Rz. 624,
+627, 659).
+5.3
+Der von der
+Beschwerdegegnerin erlassene Rücknahmeentscheid vom 30. September 2016
+stellt einen Entscheid einer Verwaltungsbehörde dar, auf welche sich der
+geschäftsführende Beschwerdeführer als Betroffener grundsätzlich verlassen
+konnte. Vorliegend fehlt es jedoch an einer Vertrauensbetätigung durch den
+geschäftsführenden Beschwerdeführer, womit offengelassen werden kann, ob der
+Rücknahmeentscheid der Beschwerdegegnerin vom 30. September 2016 eine
+Vertrauensgrundlage darstellen kann. Denn es wird vom geschäftsführenden
+Beschwerdeführer nicht vorgebracht und ist aus den vorhandenen Akten überdies
+auch nicht ersichtlich, dass er nach dem Rücknahmeentscheid vom
+30. September 2016 Dispositionen getätigt habe, welche er nicht mehr
+oder aber nur schwer rückgängig machen könne. Dies ist aufgrund des
+zeitlichen Ablaufs auch durchaus verständlich, da die Beschwerdegegnerin
+bereits am 8. November 2016 und damit nur wenige Wochen nach der
+Rücknahme der ursprünglichen Verfügung am 30. September 2016 die neue
+Schadenersatzverfügung erlassen hatte. Folglich steht der Vertrauensschutz
+der neuen Verfügung, mit welcher der geschäftsführende Beschwerdeführer zur
+Leistung von Schadenersatz verpflichtet wurde, nicht entgegen.
+6.
+6.1
+6.1.1
+Weiter stellt sich
+die Frage, ob die neue Schadenersatzverfügung der Beschwerdegegnerin vom 8.
+November 2016 die in Art. 52 Abs. 3 AHVG stipulierten Verjährungsfristen
+einhält. Der Beschwerdeführer stellt sich diesbezüglich auf den Standpunkt,
+dass die Verjährungsfrist mit Auflage des Kollokationsplanes am 14. März 2014
+zu laufen begonnen und damit am 14. März 2016 geendet habe. Da die erste
+Schadenersatzverfügung nichtig sei, sei diese unbeachtlich. Die zweite
+Schadenersatzverfügung datiere hingegen vom 8. November 2016, womit sie nach
+Ablauf der Verjährungsfrist und damit verspätet erlassen worden sei.
+6.1.2
+Die
+Beschwerdegegnerin ist hingegen der Ansicht, dass sie erst mit dem
+Zirkularbeschluss vom 29. April 2015 Kenntnis vom Schaden erlangt habe,
+weshalb ihre Schadenersatzverfügung vom 8. November 2016 innerhalb der
+zweijährigen Verjährungsfrist und damit rechtzeitig gefällt worden sei.
+6.2
+6.2.1
+Art. 52 Abs. 3 AHVG
+statuiert eine relative Verjährungsfrist von zwei Jahren, welche mit
+Kenntnisnahme des Schadens durch die zuständige Ausgleichskasse zu laufen
+beginnt. Kenntnis des Schadens im Sinne von Art. 52 Abs. 3 AHVG ist
+in der Regel von dem Zeitpunkt an gegeben, in welchem die Ausgleichskasse
+unter Beachtung der ihr zumutbaren Aufmerksamkeit erkennen muss, dass es die
+tatsächlichen Gegebenheiten nicht mehr erlauben, die Beiträge einzufordern,
+wohl aber eine Schadenersatzpflicht begründen können (BGE 131 V 425
+E. 3.1). Der Schaden muss in diesem Zeitpunkt noch nicht genau beziffert
+werden können, sondern es genügt, dass die voraussichtliche Höhe aufgrund der
+unbezahlt gebliebenen Beiträge abgeschätzt werden kann. Bei einer Betreibung
+auf Konkurs besteht Kenntnis des Schadens mit der Auflage des
+Kollokationsplanes (BGer-Urteil 9C_407/2011 vom 26. Juli 2011 E. 2.2,
+9C_325/2010 vom 10. Dezember 2010 E. 2.1.1 und 2.1.2).
+6.2.2
+Die absolute
+Verjährungsfrist nach Art. 52 Abs. 3 AHVG endet spätestens fünf Jahre nach
+Eintritt des Schadens. Der Schaden der Ausgleichskasse entsteht in dem
+Zeitpunkt, in welchem anzunehmen ist, dass die geschuldeten Beiträge aus
+rechtlichen oder tatsächlichen Gründen nicht mehr erhoben werden können, sei
+es durch Eintritt der Beitragsverwirkung, sei es durch Zahlungsunfähigkeit
+der Arbeitgeberin (SVR 2002 AHV Nr. 10 E. 4c aa). Von der
+Zahlungsunfähigkeit ist in der Regel im Zeitpunkt der Konkurseröffnung über
+den Arbeitgeber auszugehen (BGE 136 V 268 E. 2.6).
+6.2.3
+Um die vorerwähnten
+Fristen zu wahren, muss die Ausgleichskasse rechtzeitig die Schadenersatzverfügung
+erlassen bzw. eine Fristunterbrechung veranlassen (Ueli Kieser, in Erwin
+Murer/Hans-Ulrich Stauffer [Hrsg.], Rechtsprechung des Bundesgerichts zum
+Sozialversicherungsrecht, Alters- und Hinterlassenenversicherung, 3. A.,
+Zürich/St. Gallen 2012, S. 352). Das Gesetz regelt nicht, mit welchen
+Handlungen die Verjährung unterbrochen wird und wie lange die nach der
+Unterbrechung neu laufende Frist dauert. Sinngemäss gelten daher die
+Bestimmungen von Art. 135 ff. des Obligationenrechts vom 30. März 1911
+(OR). Danach wird die Verjährung durch Klage oder Einrede vor einem
+staatlichen Gericht sowie durch Eingabe im Konkurs unterbrochen. Daneben
+genügen jedoch nebst den in Art. 135 OR genannten Handlungen alle Akte, mit
+denen die Schadenersatzforderung gegenüber dem Schuldner in geeigneter Weise
+geltend gemacht wird. So haben prozesserledigende wie auch prozessleitende
+Entscheide, die der Fortsetzung des Verfahrens dienen, wie beispielsweise
+Fristansetzungen an die Parteien oder die Sistierung des Verfahrens,
+verjährungsunterbrechende Wirkung. Dabei ist nicht erforderlich ist, dass
+diese in Verfügungs- oder Entscheidform gekleidet sind (BGer-Urteil
+9C_903/2008 vom 21. Januar 2009 E. 5.4). Mit der Unterbrechung beginnt
+die Verjährungsfrist von neuem zu laufen (Art. 137 OR), wobei die neue
+Verjährungsfrist der Dauer der unterbrochenen entspricht. Die
+Schadenersatzverfügung ist in der Regel die erste, verjährungsunterbrechende
+Handlung. Mit der Erhebung der Einsprache wird die Frist wieder unterbrochen.
+Während des Einspracheverfahrens bzw. des Beschwerdeverfahrens läuft die
+Verjährungsfrist weiter. Bei einer gerichtlich angeordneten Sistierung des
+Verfahrens steht sie jedoch bis zum Wegfall des Sistierungsgrundes still
+(Felix Frei, in Felix Frei/Hans-Jakob Mosimann/Susanne Bollinger, Kommentar
+zum AHVG und IVG, Zürich 2018, Art. 52 AHVG N. 23, mit Hinweisen).
+6.3
+6.3.1
+Vorliegend
+unbestritten ist, dass der Schaden der Beschwerdegegnerin mit der Eröffnung
+des Konkurses über die D.______AG am […] eintrat. Denn spätestens seit diesem
+Zeitpunkt konnten die geschuldeten Sozialversicherungsbeiträge im
+ordentlichen Verfahren nach Art. 14 ff. AHVG nicht mehr erhoben werden. Mit
+dem Schadenseintritt am […] begann die fünfjährige, absolute Verjährungsfrist
+zu laufen.
+6.3.2
+Uneinig sind sich
+die Parteien darüber, wann die zweijährige, relative Verjährungsfrist begann.
+Zu Recht weist der Beschwerdeführer daraufhin, dass die Auflage des
+Kollokationsplanes im Konkurs der D.______AG in Liquidation das für die
+Auslösung der zweijährigen, relativen Verjährungsfrist massgebende Ereignis
+darstellt. Mit Auflage des Kollokationsplanes kann die Gläubigerin den
+Eintritt des Schadens abschätzen, denn eine ziffernmässig genaue Kenntnis des
+Schadens wird für die Fristauslösung nicht vorausgesetzt. Entsprechend ist es
+ihr nicht erlaubt, die Geltendmachung ihrer Forderung bis zu dem Zeitpunkt,
+in welchem sie sichere Kenntnis ihres ziffernmässig genauen Verlustes hat,
+hinauszuschieben. Kann sie jedoch im Zeitpunkt der Auflegung des Kollokationsplans
+und des Inventars die Schadenshöhe infolge ungewisser Konkursdividende nicht
+bzw. nicht annähernd zuverlässig ermitteln, so rechtfertigt sich deren
+Berücksichtigung in dem Sinne, dass der Schadenersatzpflichtige gegen
+Abtretung einer allfälligen Konkursdividende zur Ersetzung des ganzen, der
+Ausgleichskasse als Geschädigte entzogenen Betrags verpflichtet wird
+(BGE 113 V 180 E. 3b; BGer-Urteil 9C_329/2008 vom 3. April 2009 E. 3.2).
+Daraus folgt, dass es der
+Beschwerdegegnerin oblag, den ganzen, möglicherweise entstehenden Schaden im
+Konkurs der D.______AG in Liquidation einzugeben sowie diesen Betrag als
+Schaden im Rahmen des einschlägigen Verfahrens nach Art. 52 AHVG
+gegenüber dem geschäftsführenden Beschwerdeführer geltend zu machen. Um zu
+verhindern, dass sie aufgrund einer allfälligen, neben dem Schadenersatz
+zusätzlich zugesprochenen Konkursdividende nicht überentschädigt würde, hätte
+sie die Konkursdividende dem geschäftsführenden Beschwerdeführer abtreten
+können. Zweck dieses Vorgehens ist, das Schadenersatzverfahren nach Art. 52 AHVG
+auch während eines hängigen Konkursverfahrens fortzuführen und dabei einen
+allenfalls nach Art. 52 AHVG Schadenersatzpflichtigen einzig für
+den tatsächlich eingetretenen Schaden haftbar zu machen. Folglich begann die
+zweijährige Verjährungsfrist im Zeitpunkt der Auflage des Kollokationsplanes
+am 14. März 2014 (Bf. act. 10/9) zu laufen, wovon die
+Beschwerdegegnerin ursprünglich ebenfalls ausging.
+6.3.3
+Bei einem Beginn der
+zwei Jahre dauernden relativen Verjährungsfrist am 14. März 2014 endete
+diese am 14. März 2016, womit die neue Schadenersatzverfügung vom
+8. November 2016 nach Fristablauf ausgestellt worden wäre. Zu prüfen
+bleibt jedoch, ob die Verjährung innert laufender Frist durch eine verjährungsunterbrechende
+Handlung unterbrochen worden war, was einen Neubeginn der Verjährungsfristen
+zur Folge gehabt hätte.
+Die Beschwerdegegnerin erliess am
+23. Juli 2015 und damit innert laufender Verjährungsfristen ihre
+ursprüngliche Schadenersatzverfügung. Darin verpflichtete sie den
+geschäftsführenden Beschwerdeführer zur Schadenersatzzahlung, womit sie die
+Schadenersatzforderung in geeigneter Weise geltend machte. Daher stellt die
+Schadenersatzverfügung vom 23. Juli 2015 eine verjährungsunterbrechende
+Handlung dar. Zwar hat die Beschwerdegegnerin diese Schadenersatzverfügung am
+30. September 2016 in Wiedererwägung gezogen und diese dabei
+zurückgenommen. Dies ändert jedoch nichts daran, dass die
+Schadenersatzverfügung innert laufender Frist als verjährungsunterbrechende
+Handlung ausgestellt worden ist, denn die Verjährungsfrist wird auch dann
+unterbrochen, wenn sich herausstellt, dass die Verfügung nichtig war (BGE 137
+I 243 E. 3.4.3). Kann aber eine nichtige Verfügung die Verjährung
+unterbrechen, muss dies erst recht für eine im Rahmen einer Wiedererwägung
+zurückgenommenen Verfügung gelten, deren Nichtigkeit nicht
+materiell-rechtlich beurteilt und ausgewiesen worden ist. Folglich begannen
+die Verjährungsfristen am 23. Juli 2015 erneut zu laufen, weshalb die neue
+Schadenersatzverfügung vom 8. November 2016 innerhalb der
+Verjährungsfrist und damit rechtzeitig erfolgte.
+Mit Ausstellung der neuen
+Schadenersatzverfügung vom 8. November 2016 wurde die Verjährung erneut
+unterbrochen, was für alle nachfolgenden Verfahrenshandlungen im Einsprache-
+wie auch im vorliegenden Beschwerdeverfahren gilt. Am 2. November 2018
+schloss das Verwaltungsgericht den Schriftenwechsel im vorliegenden Verfahren
+ab, womit als prozessleitende Handlung vorerst letztmals eine Unterbrechung der
+Verjährungsfristen stattfand. Entsprechend erfolgt auch der vorliegende
+Entscheid innert der laufenden Verjährungsfrist, womit der geltend gemachte
+Schadenersatzanspruch der Beschwerdegegnerin gegen den geschäftsführenden
+Beschwerdeführer noch nicht verjährt ist. Folglich ist nachfolgend zu prüfen,
+ob die materiellen Haftungs-voraussetzungen nach Art. 52 AHVG erfüllt sind.
+7.
+7.1
+7.1.1
+Der
+geschäftsführende Beschwerdeführer macht in materieller Hinsicht geltend,
+dass weder der Bestand noch die Höhe des geltend gemachten Schadens noch
+dessen Zusammensetzung ausgewiesen seien. So sei weder klar, wie sich die im
+Konkurs der D.______AG in Liquidation seitens der Beschwerdegegnerin
+eingegebene Forderung zusammensetze, noch sei nachvollziehbar, wie der gegen
+ihn mittels Schadenersatzverfügung geltend gemachte Schadensbetrag errechnet
+worden sei. Erläuternde Angaben zu den geltend gemachten Schadenpositionen
+seien nicht vorhanden, weshalb nicht nachvollzogen werden könne, wie sich
+diese zusammensetzten. Es sei weder seine noch eine gerichtliche Aufgabe, im
+Sammelsurium der Unterlagen nach sachdienlichen Informationen zu suchen,
+womit die Beschwerdegegnerin der ihr obliegenden Substantiierungspflicht
+nicht nachgekommen sei. Zudem habe er alles unternommen, um die
+Konkurseröffnung über die D.______AG in Liquidation zu verhindern. So habe er
+massgebliche private Mittel in die D.______AG in Liquidation gesteckt. Er
+habe ihm vertraglich zustehende Lohnansprüche nicht bezogen und überdies habe
+er eine private Solidarbürgschaft in der Höhe von Fr. 500'000.-
+abgegeben. Auch sei er dafür besorgt gewesen, dass er der Beschwerdegegnerin
+Teilzahlungen in vertretbarer Höhe habe leisten können. Damit habe er sich
+weder absichtlich noch grobfahrlässig verhalten, sondern es lägen
+verschiedene Exkulpationsgründe vor, weshalb ihm kein Verschulden vorgeworfen
+werden könne.
+7.1.2
+Die
+Beschwerdegegnerin vertritt hingegen die Ansicht, der geschäftsführende
+Beschwerdeführer habe als einziger Verwaltungsrat eine massgebliche Organstellung
+innegehabt, weshalb er dafür hätte besorgt sein müssen, den gesetzlichen
+Abrechnungsvorschriften zu entsprechen. Stattdessen habe er bereits im Jahr
+2012 einen massiven Anstieg der ausstehenden AHV/IV/EO-Beiträge nicht
+verhindern können. Dass dem geschäftsführenden Beschwerdeführer die
+ausstehenden Beiträge bekannt gewesen seien, zeige sich dadurch, dass er beim
+Betreibungsamt einen Verwertungsaufschub veranlasst und einen möglichen
+Beitragsausfall in Kauf genommen habe, was grobfahrlässig sei. Exkulpationsgründe
+wie beispielsweise ein objektivierbarer Glaube an die Unternehmungsrettung
+hätten nicht vorgelegen, woran auch das Einbringen von privaten Mitteln in
+der Höhe von einstelligen Prozentsätzen im Verhältnis zur Konkursmasse nichts
+ändere. Die Schadensumme ergebe sich aus den eingereichten Unterlagen, worin
+jede uneinbringliche und daher abgeschriebene Beitragsforderung der AHV/IV/EO
+nachvollziehbar belegt sei. Die Abschreibungsliste fasse die einzelnen
+Positionen inklusive der nicht bezahlten Pensionskassenbeiträge zusammen. Da
+erst einige Monate nach der Konkurseröffnung über die D.______AG in
+Liquidation eine Revision habe durchgeführt werden können, habe die
+Konkurseingabe korrigiert werden müssen, was sich aus der Aufstellung ergebe.
+7.2
+7.2.1
+Art. 52 AHVG setzt
+neben der rechtzeitigen Geltendmachung des Schadenersatzes das Vorliegen
+eines Schadens, die Organstellung der belangten Person, eine widerrechtliche
+Pflichtverletzung, ein schuldhaftes oder grobfahrlässiges Verhalten der
+belangten Person sowie einen adäquaten Kausalzusammenhang zwischen ihrem
+Verhalten und dem eingetretenen Schaden voraus.
+Ein Schaden nach Art. 52 AHVG
+liegt immer dann vor, wenn der Ausgleichskasse als Organ der AHV ein ihr
+zustehender Betrag entgeht; dabei entspricht die Höhe des Schadens dem
+Betrag, der die Ausgleichskasse verlustig geht. Der Schaden kann sich ergeben
+aus bereits früheren (rechtskräftig) festgesetzten AHV-Beiträgen oder aus
+solchen, die mit Nachzahlungsverfügungen (beispielsweise aufgrund einer
+Arbeitgeberkontrolle im Zusammenhang mit dem Konkursverfahren der
+Arbeitgeberin) festgesetzt worden sind. Neben den entgangenen Arbeitnehmer-
+und Arbeitgeberbeiträgen bilden die Verwaltungskostenbeiträge, die
+Mahngebühren, Veranlagungs- und Betreibungskosten wie auch Verzugszinsen für
+rückständige Beträge Bestandteile des Schadens (Kieser, S. 318 ff., mit
+Hinweisen).
+7.2.2
+Im vorliegenden
+Verfahren gilt der Untersuchungsgrundsatz. Dieser wird aber durch die
+verschiedenen Mitwirkungspflichten der Parteien ergänzt. Dazu gehört auch die
+Substantiierungspflicht. Dabei hat die Beschwerdegegnerin den eingeklagten
+Forderungsbetrag zeitlich und masslich zu spezifizieren, also gestützt auf
+eine Beitragsübersicht zu behaupten, wie sich der eingeklagte Betrag zusammensetzt.
+Mit Blick auf das Verhältnis zwischen Untersuchungsgrundsatz und
+Mitwirkungspflicht genügt ein blosser Verweis auf die Beitragsübersicht nur
+bei Evidenz, wenn also der Gesamtbetrag ohne Weiteres aus der beigelegten
+Beitragsübersicht ersichtlich ist. Ist indessen nicht erkennbar, wie sich der
+Forderungsbetrag zusammensetzt, sei es wegen widersprüchlicher Saldi,
+unterschiedlich datierter Buchungen, schwankender Beiträge, Stornierungen
+oder Verrechnungen, ist es nicht Sache des angerufenen Gerichts, selbst in
+EDV-Ausdrucken und Abrechnungen nach denjenigen Positionen zu forschen,
+welche für die Schadenshöhe von Belang sind, und zu eruieren, wie der
+Forderungsbetrag doch noch ermittelt werden könnte. Vielmehr hat die
+Ausgleichskasse im Rahmen ihrer verfahrensrechtlichen Mitwirkungspflicht,
+durch erläuternde Bezugnahme auf die Beitragsübersicht und andere von ihr
+eingereichte Akten darzutun, wie und gestützt worauf sie den Forderungsbetrag
+ermittelt hat. Andererseits gehört zur Substantiierungspflicht auch, den
+eingeklagten Forderungsbetrag oder Teile davon zu belegen, also durch
+Einreichung von Lohnabrechnungen, Nachzahlungs- oder Veranlagungsverfügungen
+die in der Beitragsübersicht enthaltenen Zahlungsvorgänge zu beweisen. Dies
+ist allerdings nur erforderlich, wenn die Forderung im kantonalen Verfahren
+masslich mit konkreten, nicht ohne Weiteres widerlegbaren Einwendungen
+bestritten wird oder sich aufgrund der Akten greifbare Anhaltspunkte für
+Unrichtigkeiten ergeben (BGer-Urteil H 81/02 vom 10. Juli 2002 E. 4b).
+7.3
+7.3.1
+Zu Recht bleibt
+vorliegend unbestritten, dass dem geschäftsführenden Beschwerdeführer als
+einziges Mitglied des Verwaltungsrats der D.______AG in Liquidation seit dem
+4. November 2011 Organstellung zukam, womit er für einen allenfalls
+eingetretenen Schaden grundsätzlich in Anspruch genommen werden kann.
+7.3.2
+Allerdings lässt
+sich aus den von der Beschwerdegegnerin eingereichten Unterlagen nicht
+nachvollziehbar erklären, wie sich die von ihr geltend gemachte
+Schadenersatzforderung in der Höhe von Fr. 423'488.55 zusammensetzt. Dies
+gründet massgeblich darin, dass die Beschwerdegegnerin zwar eine (undatierte)
+Abschreibungsliste einreichte, die vielen, darin aufgeführten Beträge und
+deren Zusammensetzung bzw. Berechnung jedoch mit keinem Wort erläuterte.
+Ebenso reichte die Beschwerdegegnerin weitere Belege wie Sammelrechnungen,
+Betreibungs-begehren, Verwertungsbegehren, Pfändungsurkunden,
+Computerausdrucke wie auch gerichtliche Anordnungen ein. Allerdings ergibt
+sich insbesondere aus den Sammelrechnungen kein von der Beschwerdegegnerin
+unter dem Titel AHV und ALV in der Abschreibungsliste geltend gemachter
+Teilbetrag. Weiter sind in der Abschreibungsliste monatliche
+Beitragsaufschlüsselungen enthalten, welche sich nicht auf die diesen
+zugrundeliegenden Sammelabrechnungen stützen können. So enthält die
+Abschreibungsliste beispielsweise für den Monat Oktober 2011 einen Betrag von
+Fr. 253.65 unter dem Titel BK, einen Betrag von Fr. 2'329.85 unter
+dem Titel VzZ Rk 2, einen solchen von Fr. 70.80 unter dem Titel FAK-AG,
+einen solchen von Fr. 3.- unter dem Titel VzZ FAK-AG, einen solchen von
+Fr. 2'862.40 unter dem Titel VzZ RK 8, einen solchen von Fr. 497.80
+unter dem Titel VK-LB, einen solchen von Fr. 29.65 unter dem Titel VzZ RK 9,
+einen solchen von Fr. 120.- unter dem Titel MG sowie Fr. 200.- unter dem
+Titel übrige Gebühren. Was die soeben erwähnten Beiträge betreffen und
+gestützt worauf die entsprechende Abschreibung bzw. Geltendmachung als
+Schadenersatz beruht, ist aus den Akten nicht ersichtlich, zumal die
+jeweiligen Forderungsposten nicht auf der Sammelrechnung Oktober 2011
+aufgeführt sind.
+Ferner nimmt die
+Beschwerdegegnerin in der Abschreibungsliste in den verschiedenen Kolonnen
+Teilverrechnungen vor, welche aufgrund der fehlenden Begründung bzw. Aufschlüsselung
+nicht nachvollzogen werden können. Insbesondere helfen die Hinweise in der
+Inhaltsübersicht der Abschreibungsliste mit dem Titel "Verrechnung mit
+Jahresrechnung 2012" diesbezüglich nicht weiter, da diese die für die
+Monate Januar 2012 bis Juni 2012 ausgestellten Sammelrechnungen und gestützt
+darauf betriebene Teilforderungen betreffen. Die Sammelrechnungen wiederum
+setzten sich aus Gutschriften von Familienzulagen, aus Gutschriften für die
+Beiträge der beruflichen Vorsorge, aus Rückforderungen, aus Kosten für
+Fortsetzungsbegehren und Rechtsöffnungen wie aus Lohnbeiträgen akonto
+zusammen. Wo bzw. wie diese Beträge allenfalls ganz oder teilweise verrechnet
+worden sind, ist schleierhaft.
+7.3.3
+Weiter ist nicht
+klar, ob die Beschwerdegegnerin in der geltend gemachten
+Schadenersatzforderung die gemäss ihren Vorbringen unbezahlt gebliebenen
+Pensionskassenbeiträge berücksichtigte oder nicht. Die Aufstellung in der
+Abschreibungsliste erweckt einerseits den Anschein, dass der Betrag von Fr.
+22'694.10 im geltend gemachten Schadenbetrag von Fr. 423'488.55 nicht
+berücksichtigt worden ist. Andererseits werden in der
+"Auflistung/Korrektur der Forderungseingabe vom […] und […]" jedoch
+die Forderungseingabe AHV in der Höhe von Fr. 474'162.20 und die
+Forderungseingabe Pensionskasse in der Höhe von Fr. 72'124.95 addiert,
+wovon ein Betrag von Fr. 22'694.10 als effektiver offener Betrag der
+Pensionskasse und eine Nachtragsberechnung vom 18. Dezember 2013 in der Höhe
+von Fr. 88'529.75 subtrahiert werden. In der Folge werden von der
+korrigierten Forderungseingabe in der Höhe von Fr. 435'063.25 eine
+CO2-Rückverteilung, übrige Gebühren sowie die Abschreibung der
+Insolvenzentschädigung abgezogen, woraus abermals der Schadensbetrag von
+Fr. 423'488.55 resultiert. Dies erweckt, im Gegensatz zur
+Abschreibungsliste, den Anschein, dass allfällige ausstehende
+Pensionskassenbeiträge in die Schadenberechnung miteinbezogen worden sind.
+Dies, obwohl das vorliegende Verfahren nach Art. 52 AHVG die allfällige Nichtbezahlung
+von Beiträgen an Vorsorgeeinrichtungen nicht zum Gegenstand haben kann (vgl.
+E. II/2.2 vorne). Daraus kann einzig folgen, dass sich die Zusammensetzung
+des von der Beschwerdegegnerin geltend gemachte Schadenersatzes nicht
+nachvollziehbar aus den vorhandenen Unterlagen ergibt.
+7.3.4
+Das gleiche Ergebnis
+resultiert bei einem Blick auf die in Bg. act. B23 enthaltenen Unterlagen.
+Darin sind mehrere Listen vorhanden, welche Arbeitnehmer und Lohnangaben
+aufführen. Eine Liste ist handschriftlich mit FAK betitelt, eine Liste
+enthält die Überschrift FAK alt, eine Liste ist Teil des Ergänzungsberichts
+des Revisors vom 30. November 2013 und eine Liste datiert vom 10.
+Dezember 2013 und trägt den Titel "Nachtrag zu Lohnbescheinigung für das
+Jahr 2012". In Bg. act. B23 ebenso enthalten ist eine
+Nachtragsabrechnung vom 18. Dezember 2013, womit die bereits in Rechnung
+gestellten Sozialversicherungsbeiträge für das Jahr 2012 korrigiert werden.
+Da diese Nachtragsabrechnung nicht in der Form einer Verfügung und überdies
+nach Konkurseröffnung ausgestellt worden ist, ist die Höhe der geltend
+gemachten Beiträge im vorliegenden Verfahren frei überprüfbar (BGer-Urteil H
+313/00 vom 28. Januar 2002 E. 5), zumal der Beschwerdeführer dagegen
+substantiiert begründete Einwendungen erhebt (ZAK 1991 S. 126 E. 1b).
+Einleitend festzuhalten ist, dass
+die Beschwerdegegnerin keine Ausführungen dazu macht, wie sich die
+vorerwähnten, in Bg. act. B23 enthaltenen Listen zueinander verhalten.
+Anzunehmen ist dennoch, dass der Revisor im Ergänzungsbericht vom 30. November
+2013 die von der D.______AG in Liquidation im Jahr 2012 ausbezahlten
+Lohnsummen an die jeweiligen Mitarbeiter überprüfte und die nötigen
+Korrekturen im Ergänzungsbericht handschriftlich einfügte. Gestützt darauf
+wurde wohl die Tabelle "Nachtrag zur Lohnbescheinigung für das Jahr
+2012" erstellt, welche wohl die Grundlage der Nachtragsabrechnung des
+Jahres 2012 vom 18. Dezember 2013 darstellt. Ein Vergleich der vorerwähnten
+Tabelle "Nachtrag zur Lohnbescheinigung für das Jahr 2012" und der
+Tabelle im Ergänzungsbericht zeigt jedoch verschiedene Unstimmigkeiten auf,
+worauf der Beschwerdeführer zu Recht hinweist. So ist im Ergänzungsbericht
+E.______ mit einer Tätigkeit von Januar bis Mai und einem Einkommen von
+Fr. 14'350.- aufgeführt, während F.______ handschriftlich
+durchgestrichen ist. In der Tabelle "Nachtrag zur Lohnbescheinigung für
+das Jahr 2012" findet sich hingegen kein E.______, sondern ein F.______
+mit einer Lohnsumme von Fr. 14'350.-. Weiter ist im Ergänzungsbericht G.______
+mit einer Lohnsumme von Fr. 28'500.- handschriftlich durchgestrichen, in
+der Tabelle "Nachtrag zur Lohnbescheinigung für das Jahr 2012"
+erscheint er jedoch mit einer Lohnsumme von Fr. 19'946.- . Ebenso
+ist H.______ mit einer Lohnsumme von Fr. 16'497.- im Ergänzungsbericht
+handschriftlich gestrichen worden, dennoch ist er in der Tabelle
+"Nachtrag zur Lohnbescheinigung für das Jahr 2012" mit einer
+Lohnsumme von Fr. 13'496.- aufgeführt. Auch ist I.______ mit einer
+handschriftlich korrigierten Lohnsumme von Fr. 4'200.- im Ergänzungsbericht
+aufgeführt, während ihm in der Tabelle "Nachtrag zur Lohnbescheinigung
+für das Jahr 2012" eine solche von Fr. 1'200.- zugewiesen wird.
+Weitere Unstimmigkeiten finden sich bei J.______ (Lohnsumme von Fr. 8'900.-
+im Ergänzungsbericht und eine solche von Fr. 3'900.- im "Nachtrag
+zur Lohnbescheinigung für das Jahr 2012"), K.______ (Lohnsumme von
+Fr. 3'560.- im Ergänzungsbericht und eine solche von Fr. 1'000.- im
+"Nachtrag zur Lohnbescheinigung für das Jahr 2012"), L.______ (Lohnsumme
+von Fr. 3'800.- im Ergänzungsbericht und eine solche von Fr. 3'900.- im
+"Nachtrag zur Lohnbescheinigung für das Jahr 2012"), M.______
+(Lohnsumme von Fr. 1'665.- nur im "Nachtrag zur Lohnbescheinigung
+für das Jahr 2012" aufgeführt), N.______ (Lohnsumme von Fr. 5'380.-
+im Ergänzungsbericht und eine solche von Fr. 5'350.- im "Nachtrag
+zur Lohnbescheinigung für das Jahr 2012"), O.______ (Lohnsumme von Fr. 20'557.-
+nur im "Nachtrag zur Lohnbescheinigung für das Jahr 2012"
+aufgeführt) und P.______ (Lohnsumme von Fr. 2'390.- nur im
+"Nachtrag zur Lohnbescheinigung für das Jahr 2012" aufgeführt).
+Damit liegen massgebliche Unstimmigkeiten vor, welche von der
+Beschwerdegegnerin weder erläutert noch nachvollziehbar erklärt werden. Die
+der Berechnung der Sozialversicherungsbeiträge für das Jahr 2012 zu Grunde
+liegenden Lohnangaben sind damit offensichtlich unklar. Da die geschuldeten
+Sozialversicherungsbeiträge die Grundlage der Schadensberechnung bilden,
+müssen diese klar und verständlich ausgewiesen sein und es muss nachvollzogen
+werden können, was unbezahlt geblieben ist und damit einen allenfalls
+vorhandenen Schaden darstellt. Da die im Jahr 2012 ausbezahlte Lohnsumme
+vorliegend unklar ist, sind die für das Jahr 2012 geschuldeten
+Sozialversicherungsbeiträge ebenfalls nicht nachvollziehbar feststellbar,
+womit der von der Beschwerdegegnerin geltend gemachte Schadenersatz als nicht
+substantiiert zu gelten hat.
+7.3.5
+Weiter verweist die
+Beschwerdegegnerin beispielsweise zur Begründung der CO2-Abgabe vom 10. Juni
+2014 in der Höhe von Fr. 2'353.20 in der "Auflistung/Korrektur der
+Forderungseingaben vom […] und […]" auf die Beilage
+Bg. act. B29. Allerdings enthält die Bg. act. B29 einzig
+einen PC-Ausdruck, welcher zwar den genannten Betrag unter dem Titel CO2-Abgabe
+nennt, diesen jedoch aufteilt und den Sammelrechnungen September und Oktober
+2011 zuweist. In der Sammelrechnung Oktober 2011 ist keine Gutschrift einer
+CO2-Abgabe ausgewiesen. Eine diesem PC-Eintrag zugrundeliegende Abrechnung,
+woraus sich die Höhe des CO2-Betrags und dessen Zuweisungsjahr ergibt, ist in
+Bg. act. B29 nicht vorhanden. Ebenso besteht Bg. act. B28 einzig aus
+zwei PC-Ausdrucken, worin verschiedene Beträge unter dem Titel
+Insolvenzentschädigung und Nachtrag Arbeitsamt vom 14. Mai 2013 genannt
+werden. Eine diesen beiden Beträgen zugrundeliegende Rechnung findet sich in
+Bg. act. B28 nicht. Ferner enthält Bg. act. B16 die
+Sammelabrechnung für den Monat November 2012 mit einem Betrag von
+Fr. 53'773.75. Aus welchem Grund die Beschwerdegegnerin im ebenfalls in
+Bg. act. B16 enthaltenen PC-Ausdruck eine Zwischenabrechnung vom
+Juni 2013 im Betrag von Fr. 1'088.10 erwähnt und diesen Betrag von der
+in der Rechnung ausgewiesenen Summe (zuzüglich Verzugszins) subtrahiert,
+bleibt unklar. So enthält auch Bg. act. B21 eine Wegfallanzeige der
+Beschwerdegegnerin im Betrag von Fr. -973.-, wogegen im PC-Ausdruck der
+Beschwerdegegnerin ein Betrag von Fr. -4'648.75 unter dem Titel
+Abschreibung pink markiert ist. Aus welchem Grund die Beschwerdegegnerin laut
+ihrem PC-Ausdruck eine Verbuchung einer Differenzzulage von Fr. 3'675.75
+vornahm und worauf diese gründet, ergibt sich aus der genannten Beilage
+nicht. Ebenso bleibt unklar, aus welchem Grund die Beschwerdegegnerin
+Unterlagen betreffend eine SchKG-Beschwerde einreicht. Sodann ist nicht
+nachvollziehbar, wie die vorerwähnten Teilbeiträge in die Abschreibungsliste
+der Beschwerdegegnerin Eingang gefunden haben und damit Teil der geltend
+gemachten Schadenersatzforderung bilden.
+7.3.6
+Schliesslich ist
+auch die von der Beschwerdegegnerin ursprünglich vorgenommene Konkurseingabe
+betreffend die offenen Sozialversicherungsbeiträge in der Höhe von Fr. 742'948.50
+nicht erklärbar. Denn die Beschwerdegegnerin begnügt sich damit, den
+Gesamtbetrag zu nennen, ohne zu belegen, wie sie diesen berechnet hat. Damit
+kann auch dieser nicht als Hilfestellung für die Substantiierung der
+vorliegend geltend gemachten Schadenersatzforderung dienen. Dies muss ebenso
+für die korrigierte Forderungseingabe vom […] in der Höhe von Fr. 474'162.20 gelten,
+da sich aus den Unterlagen nicht ergibt, wie die Beschwerdegegnerin diesen
+Betrag errechnete, zumal sich dieser nicht aus der Abschreibungsliste
+eruieren lässt.
+7.3.7
+Zusammenfassend
+resultiert aus obigen Ausführungen, dass die Abschreibungsliste zusammen mit
+den eingereichten Beilagen offensichtlich ungenügend ist, um die geltend
+gemachte Schadenersatzforderung für das Gericht wie auch für den
+Beschwerdeführer nachvollziehbar und klar darzulegen. Aufgrund der
+diesbezüglich mangelnden Erläuterungen der Beschwerdegegnerin liegt eine
+ungenügend substantiierte Schadenersatzforderung vor. Dies, obwohl das
+Verwaltungsgericht die Beschwerdegegnerin auf die ihr obliegende Mitwirkungs-
+und Substantiierungspflicht mit Verfügung vom 25. September 2018 hinwies
+und insbesondere um die Erläuterung der Schadenersatzforderung ersuchte. Da
+es nicht die Aufgabe des Gerichts ist, die von der Beschwerdegegnerin dem
+Gericht zugänglich gemachten Akten nach einer möglichen Substantiierung des
+Schadens zu durchforsten (vgl. E. II/7.2.2 vorne), verletzt die
+Beschwerdegegnerin die ihr obliegende Substantiierungs- und damit ihre
+Mitwirkungspflicht, was nach Art. 61 lit. c ATSG frei zu würdigen ist.
+Aufgrund der ungenügenden
+Substantiierung des Schadenersatzbegehrens durch die Beschwerdegegnerin kann
+die Zusammensetzung des geltend gemachten Schadens nicht überprüft werden.
+Die aufgrund dieser Beweislosigkeit entstehenden Folgen hat die
+Beschwerdegegnerin zu tragen (BGer-Urteil H 135/06 vom 10. August 2007 E.
+4.4). Damit ist nicht erstellt, dass ein Schaden vorliegt, womit eine der
+Haftungsvoraussetzungen von Art. 52 Abs. 1 AHVG fehlt. Entsprechend erübrigt
+sich die Prüfung der weiteren Haftungsvoraussetzungen.
+Die Beschwerde ist daher
+gutzuheissen und der Einspracheentscheid vom 12. Januar 2017 ist
+aufzuheben.
+III.
+1.
+Die Gerichtskosten sind von
+Gesetzes wegen auf die Staatskasse zu nehmen (Art. 1 Abs. 1 AHVG i.V.m.
+Art. 61 lit. a ATSG).
+2.
+2.1
+Dem obsiegenden
+Beschwerdeführer steht eine Parteientschädigung zu
+(Art. 1 Abs. 1 AHVG i.V.m. Art. 61 lit. g
+ATSG). Die Höhe der Parteientschädigung wird vom Versicherungsgericht
+festgesetzt und ohne Rücksicht auf den Streitwert nach der Bedeutung der
+Streitsache und der Schwierigkeit des Prozesses bemessen. Bei der Bemessung
+der Parteientschädigung ist dem Einzelfall gerecht zu werden (Ueli Kieser,
+ATSG-Kommentar, 3. A., Zürich/Basel/Genf 2015, Art. 61 N. 122). Der
+(tatsächliche und notwendige) zeitliche Aufwand der Rechtsvertretung wird
+zwar nicht ausdrücklich als Bemessungskriterium aufgeführt, ist aber
+ebenfalls mitzuberücksichtigen, soweit er, was regelmässig der Fall ist, von
+der Schwierigkeit des Prozesses mitbestimmt wird. Im Übrigen ist die
+Bemessung der Parteientschädigung für das erstinstanzliche Beschwerdeverfahren
+in Sozialversicherungsangelegenheiten dem kantonalen Recht überlassen (Art.
+61 Ingress ATSG; BGer-Urteil 9C_787/2014 vom 7. Juli 2015 E. 4).
+Nach welchen Kriterien die
+Parteientschädigung zuzusprechen ist, regelt das anwendbare kantonale
+Verwaltungsprozessrecht nicht. In der Regel dürfte es naheliegen, sinngemäss
+die Regeln über die Bemessung der Spruchgebühren heranzuziehen. Gemäss
+§ 7 Abs. 2 der Verordnung über amtliche Kosten im
+Verwaltungsverfahren und in der Verwaltungsrechtspflege vom 24. Juni 1987
+(KoV) bemisst sich die Spruchgebühr nach dem Arbeits- und Zeitaufwand der
+entscheidenden Behörde (für die Parteientschädigung ist der Arbeits- und
+Zeitaufwand des Rechtsvertreters massgebend), der Bedeutung und Schwierigkeit
+der Sache sowie nach den für die Parteien auf dem Spiele stehenden Vermögens-
+oder sonstigen Interessen an der Angelegenheit (vgl. VGer-Urteil
+VG.2018.00079 vom 8. November 2018 E. III/2.2, mit Hinweisen). Dies
+entspricht den Vorgaben von Art. 61 lit.  g ATSG.
+2.2
+Der Beschwerdeführer
+reichte verschiedene Honorarrechnungen ein, welche die Aufwendungen seines
+Rechtsvertreters von Anfang Januar 2017 bis Ende Juni 2018 beziffern. Die
+Honorarforderung beträgt gesamthaft Fr. 15'867.65 (inklusive Auslagen und
+Mehrwertsteuer). Dabei liegt einzig den beiden Zwischenrechnungen vom 3. Juli
+2018 eine detaillierte Zusammenstellung der Aufwendungen zu Grunde.
+Die geltend gemachte
+Honorarforderung erscheint als deutlich zu hoch. Einerseits hat der
+Beschwerdeführer ein erhebliches Interesse an der Abwehr der
+Schadenersatzforderung und liegt dem Verfahren eine recht umfassende
+Aktenlage zu Grunde. Andererseits sind die sich stellenden Rechtsfragen nicht
+als überdurchschnittlich schwierig zu beurteilen. Dies zeigt sich
+insbesondere darin, dass die Ausführungen des Beschwerdeführers zu einem
+erheblichen Teil das Aufzeigen von Widersprüchen in den
+beschwerdegegnerischen Unterlagen betreffend die Zusammensetzung der geltend
+gemachten Schadenersatzforderung enthalten. Sodann sind die Rechtsschriften
+auch in Anbetracht der Aktenlage nicht als allzu umfangreich zu bezeichnen.
+Weiter liegt der geforderte Stundenansatz des Rechtsvertreters in der Höhe
+von Fr. 350.- deutlich über dem normalerweise gewährten Stundenansatz
+und auch ausserhalb der Bandbreite (zwischen Fr. 180.- und
+Fr. 320.- pro Stunde), in welcher das kantonale Versicherungsgericht die
+Parteientschädigung willkürfrei festlegen kann (vgl. BGE 132 I 201
+E. 8, 131 V 153 E. 7). Entsprechend rechtfertigt es sich, den im
+Kanton Glarus üblichen Stundenansatz von Fr. 240.- zuzüglich Auslagen
+und Mehrwertsteuer anzuwenden (vgl. VGer-Urteil VG.2012.00079 vom 2. Oktober
+2013 E. III/2, nicht publiziert). Unter Berücksichtigung all dieser
+Umstände ist die Parteientschädigung auf pauschal Fr. 6'000.- (inkl.
+Auslagen und Mehrwertsteuer) festzusetzen.
+Demgemäss erkennt die Kammer
+:
+1.
+Die Beschwerde wird gutgeheissen. Der Einspracheentscheid
+der Beschwerdegegnerin vom 12. Januar 2017 wird aufgehoben.
+2.
+Die Gerichtskosten werden auf die Staatskasse genommen.
+3.
+Die Beschwerdegegnerin wird verpflichtet, dem
+Beschwerdeführer innert 30 Tagen nach Rechtskraft dieses Entscheids eine
+Parteientschädigung in der Höhe von Fr. 6'000.- (inkl. Mehrwertsteuer)
+zu bezahlen.
+4.
+Schriftliche Eröffnung und
+Mitteilung an:
+[…]
