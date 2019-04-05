@@ -1,0 +1,118 @@
+---
+decision_id: "gl_gerichte_OG.2019.00026"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2019.00026"
+docket_2: "OGS.2020.66"
+decided: "2019-04-05"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1301&W10_KEY=218274&nTrefferzeile=6&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/311.0/art-285.md", "switzerland/bund/acts/312.0/art-056.md", "switzerland/bund/acts/312.0/art-059.md", "switzerland/bund/acts/312.0/art-105.md", "switzerland/bund/acts/312.0/art-115.md"]
+---
+
+# GL Gerichte OG.2019.00026
+
+## Regeste
+
+Ausstand
+
+## Text
+
+Glarus Obergericht 05.04.2019 OG.2019.00026 (OGS.2020.66)
+Glaris Obergericht 05.04.2019 OG.2019.00026 (OGS.2020.66)
+Glarona Obergericht 05.04.2019 OG.2019.00026 (OGS.2020.66)
+
+Kanton Glarus
+Obergericht
+Entscheid
+vom 5. April 2019
+Verfahren
+OG.2019.00026
+A.______,
+Erster
+Staatsanwalt,
+Gesuchsteller
+betreffend
+Ausstand
+Antrag
+des Gesuchstellers
+(gemäss Eingabe vom 27. März 2019):
+Es sei über den Ausstand des
+Gesuchstellers in der Strafuntersuchung gegen den Beschuldigten B.______ zu
+befinden.
+____________________
+Das
+Gericht zieht in Betracht:
+1.
+Die Staatsanwaltschaft des
+Kantons Glarus führt gegen B.______ eine Strafuntersuchung wegen mehrerer
+Delikte. Am 15. März 2019 erhielt die Staatsanwaltschaft einen
+handgeschriebenen Brief von B.______ zugestellt, worin dieser gegenüber
+A.______, Erster Staatsanwalt, (Todes-)Drohungen äusserte. Die Staatsanwaltschaft
+erwägt als Reaktion auf dieses Schreiben, die Untersuchung gegen B.______ auf
+den Straftatbestand gemäss Art. 285 StGB (Gewalt und Drohung gegen
+Behörden und Beamte) auszudehnen.
+In der Folge gelangte A.______
+mit Eingabe vom 27. März 2019 an das Obergericht und führte darin aus, dass
+er im Lichte von Art. 56 lit. a StPO nicht mehr gegen den
+Beschuldigten B.______ ermitteln könne und daher das Obergericht über seinen
+Ausstand zu entscheiden habe (siehe zum Ganzen act. 1 und act. 2).
+2.
+Das Obergericht als
+Beschwerdeinstanz in Strafsachen ist zuständig zur Behandlung der
+vorliegenden Ausstandsfrage (Art. 59 Abs. 1 lit. b StPO i.V.m.
+Art. 16 Abs. 1 lit. a GOG/GL).
+3.
+Eine in der Strafbehörde tätige
+Person tritt in den Ausstand, wenn sie in der Sache ein persönliches
+Interesse hat (Art. 56 lit. a StPO). Allerdings kann die in der
+Strafbehörde tätige Person in einem solchen Fall nicht einfach von sich aus
+in den Ausstand treten, sondern es obliegt dem Obergericht zu entscheiden, ob
+der betreffende Ausstandsgrund (persönliches Interesse) tatsächlich gegeben
+ist (Art. 59 Abs. 1 StPO; siehe dazu
+Schmid/Jositsch
+, Schweizerische Strafprozessordnung,
+Praxis­kommentar, 3. Aufl., Zürich/St. Gallen 2018, N 3 zu
+Art. 59).
+4.
+Die von B.______ in seinem
+(undatierten) Brief (act. 2) geäusserten Drohungen richten sich gegen
+A.______. In diesem Zusammenhang wird nun zu klären sein, ob B.______ sich
+deliktisch im Sinne von Art. 285 StGB (Gewalt und Drohung gegen Behörden
+und Beamte) verhalten hat. Der Straftatbestand von Art. 285 StGB schützt
+(auch) die körperliche Unversehrtheit des öffentlichen Funktionärs bei der
+Verrichtung seiner amtlichen Aufgaben (OFK/StGB-
+Isenring
+, 20. Aufl., Zürich 2018, N 6 zu
+Art. 285). Demnach ist A.______ als Adressat der brieflichen Drohungen
+geschädigte Person im Sinne von Art. 115 Abs. 1 StPO und gilt nun
+im Untersuchungsverfahren gegen B.______ als Verfahrensbeteiligter
+(Art. 105 Abs. 1 lit. a StPO). Diese Verfahrensstellung
+impliziert ein persönliches Interesse im Sinne der Ausstandsbestimmung von
+Art. 56 lit. a StPO (siehe dazu
+Schmid/Jositsch
+,
+a.a.O., N 3 zu Art. 56 StPO), was ein Mitwirken von A.______ in
+seiner Funktion als Staatsanwalt in der Untersuchung gegen B.______
+ausschliesst.
+Es ist daher festzustellen, dass
+A.______, Erster Staatsanwalt, im Verfahren gegen B.______ nicht mehr amten
+kann.
+5.
+Die Kosten des vorliegenden
+Entscheids sind auf die Staatskasse zu nehmen (Art. 59 Abs. 4
+StPO).
+____________________
+Das
+Gericht erkennt:
+1.
+Im Sinne der vorstehenden
+Erwägungen wird festgestellt, dass A.______, Erster Staatsanwalt, im
+Verfahren gegen B.______ nicht amten kann.
+2.
+Die Kosten dieses Entscheids
+werden auf die Staatskasse genommen.
+3.
+Schriftliche Mitteilung an:
+[...]
