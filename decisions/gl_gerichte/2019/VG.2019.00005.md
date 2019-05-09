@@ -1,0 +1,732 @@
+---
+decision_id: "gl_gerichte_VG.2019.00005"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2019.00005"
+docket_2: "VG.2019.785"
+decided: "2019-05-09"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1089&W10_KEY=218274&nTrefferzeile=8&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-007.md", "switzerland/bund/acts/830.1/art-017.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.20/art-001.md", "switzerland/bund/acts/831.20/art-028.md", "switzerland/bund/acts/831.20/art-069.md", "switzerland/bund/acts/831.201/art-088a.md"]
+---
+
+# GL Gerichte VG.2019.00005
+
+## Regeste
+
+Sozialversicherung - IV
+
+## Text
+
+Glarus Verwaltungsgericht 09.05.2019 VG.2019.00005 (VG.2019.785)
+Glaris Verwaltungsgericht 09.05.2019 VG.2019.00005 (VG.2019.785)
+Glarona Verwaltungsgericht 09.05.2019 VG.2019.00005 (VG.2019.785)
+
+Sozialversicherung - IV
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+9. Mai 2019
+II. Kammer
+in Sachen
+VG.2019.00005
+A.______
+Beschwerdeführerin
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+IV-Stelle Glarus
+Beschwerdegegnerin
+betreffend
+Invalidenrente
+Die Kammer zieht in Erwägung:
+I.
+1.
+Die am […] geborene
+A.______ meldete sich mit Hinweis auf Rückenbeschwerden am 14. März 2013 bei
+der IV-Stelle Glarus zum Bezug von Leistungen der Invalidenversicherung an.
+In der Folge holte die IV-Stelle Berichte der behandelnden Ärzte ein. Weiter
+führte sie zwei Haushaltabklärungen von A.______ durch und holte eine
+medizinische Begutachtung mit einer Evaluation der funktionellen Leistungsfähigkeit
+(EFL) ein. Daneben zog sie das von der Krankentaggeldversicherung von
+A.______ eingeholte Gutachten den Akten bei. Am 28. April 2017 erliess sie
+einen Vorbescheid, worin sie in Aussicht stellte, A.______ eine befristete
+ganze Invalidenrente zuzusprechen. Dagegen erhob A.______ verschiedene
+Einwände, gestützt worauf die IV-Stelle zum Schluss kam, ein Gutachten
+einzuholen.
+2.
+Das
+rheumatologisch-internistische Gutachten datiert vom 19. Dezember 2017.
+In der Folge stellte die IV-Stelle mit Vorbescheid vom 12. Februar 2018
+die Zusprache einer befristeten, ganzen Invalidenrente in Aussicht, wogegen
+A.______ am 5. März 2018 abermals verschiedene Einwände erhob. Diese
+beantwortete die IV-Stelle am 31. Oktober 2018 abschlägig, bevor sie am
+28. November 2018 die entsprechende Verfügung erliess.
+3.
+Dagegen erhob A.______ am
+9. Januar 2019 Beschwerde beim Verwaltungsgericht und beantragte, die
+Verfügung der IV-Stelle vom 28. November 2018 aufzuheben und ihr auch
+mit Wirkung über den 1. März 2017 hinaus eine ganze Invalidenrente
+zuzusprechen. Eventuell sei die Angelegenheit an die IV-Stelle
+zurückzuweisen; alles unter Kosten- und Entschädigungsfolgen zu Lasten der
+IV-Stelle. Die IV-Stelle beantragte am 13. März 2019 die Abweisung der
+Beschwerde.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 69 Abs. 1 lit. a des Bundesgesetzes über die
+Invalidenversicherung vom 19. Juni 1959 (IVG) zur Behandlung der vorliegenden
+Beschwerde zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt sind,
+ist auf die Beschwerde einzutreten.
+2.
+2.1
+Gemäss Art. 8 Abs. 1 des Bundesgesetzes
+über den Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober
+2000
+(ATSG
+) ist Invalidität die voraussichtlich bleibende oder
+längere Zeit dauernde ganze oder teilweise Erwerbsunfähigkeit. Erwerbsunfähigkeit
+ist dabei der durch eine Beeinträchtigung der körperlichen, geistigen oder
+psychischen Gesundheit verursachte und nach zumutbarer Behandlung sowie
+Eingliederung verbleibende ganze oder teilweise Verlust der Erwerbsmöglichkeiten
+auf dem in Betracht kommenden ausgeglichenen Arbeitsmarkt (Art. 7
+Abs. 1 ATSG).
+2.2
+Nach
+Art. 28 Abs. 2 IVG besteht bei einem
+Invaliditätsgrad von mindestens 40 % Anspruch auf eine Viertelsrente,
+bei einem solchen von mindestens 50 % auf eine halbe Rente, bei
+mindestens 60 % auf eine Dreiviertelsrente und ab mindestens 70 %
+auf eine ganze Rente.
+2.3
+Art und Mass dessen, was einer versicherten Person
+an Erwerbstätigkeit noch zugemutet werden kann, richtet sich nach ihren
+besonderen persönlichen Verhältnissen einerseits und nach den allgemein
+herrschenden Anschauungen andererseits. Für die Beurteilung der Zumutbarkeit
+ist letztlich insofern eine objektive Betrachtungsweise massgebend, als es
+nicht auf eine bloss subjektiv ablehnende Bewertung der infrage stehenden
+Erwerbstätigkeit durch die versicherte Person ankommt (Ulrich Meyer/Marco
+Reichmuth, Rechtsprechung des Bundesgerichts zum Sozialversicherungsrecht,
+Bundesgesetz über die Invalidenversicherung, 3. A.,
+Zürich/Basel/Genf 2014, S. 320).
+3.
+3.1
+N
+ach
+dem für das gesamte Verwaltungs- und Verwaltungsgerichts-beschwerdeverfahren
+geltenden Grundsatz der freien Beweiswürdigung haben Versicherungsträger und
+Sozialversicherungsrichter die Beweise frei, d.h. ohne Bindung an förmliche Beweisregeln,
+sowie umfassend und pflichtgemäss zu würdigen. Für das Beschwerdeverfahren
+bedeutet dies, dass das Gericht alle Beweismittel, unabhängig davon, von wem
+sie stammen, objektiv zu prüfen und danach zu entscheiden hat, ob die
+verfügbaren Unterlagen eine zuverlässige Beurteilung des streitigen
+Rechtsanspruchs
+gestatten.
+Insbesondere
+darf es bei einander widersprechenden medizinischen Berichten den Prozess
+nicht erledigen, ohne das gesamte Beweismaterial zu würdigen und die Gründe
+anzugeben, warum es auf die eine und nicht auf die andere medizinische These
+abstellt (BGE 125 V 351 E. 3a).
+3.2
+Es
+ist Aufgabe des Arztes, sämtliche Auswirkungen einer Krankheit oder eines Unfalls
+auf den Gesundheitszustand der versicherten Person zu beurteilen und dazu Stellung
+zu nehmen, bezüglich welcher konkreten Tätigkeiten und in welchem Umfang sie
+arbeitsunfähig ist. Die ärztlichen Auskünfte sind sodann eine wichtige
+Grundlage für die Beurteilung der Frage, welche Arbeitsleistungen der
+versicherten Person im Hinblick auf ihre persönlichen Verhältnisse noch
+zugemutet werden können (BGE 125 V 256 E. 4).
+3.3
+Hinsichtlich des Beweiswerts eines ärztlichen
+Gutachtens ist entscheidend, ob es für die Beantwortung der gestellten Fragen
+umfassend ist, auf allseitigen Untersuchungen beruht, die geklagten
+Beschwerden berücksichtigt und sich mit diesen sowie dem Verhalten der
+untersuchten Person auseinandersetzt, in Kenntnis der und gegebenenfalls in
+Auseinanderset­zung mit den Vorakten (Anamnese) abgegeben worden ist, ob es
+in der Darlegung der medizinischen Zustände und Zusammenhänge einleuchtet, ob
+die Schlussfolgerungen des medizinischen Experten in einer Weise begründet
+sind, dass die rechtsanwendende Person sie prüfend nachvollziehen kann, sowie
+ob der Experte nicht auszuräumende Unsicherheiten und Unklarheiten, welche
+ihm die Beantwortung der Fragen erschweren, gegebenenfalls deutlich macht.
+Ausschlaggebend für den Beweiswert ist grundsätzlich somit weder die Herkunft
+eines Beweismittels noch die Bezeichnung der eingereichten oder in Auftrag
+gegebenen Stellungnahme als Bericht oder Gutachten,
+sondern dessen Inhalt
+(vgl. BGE 125 V 351 E. 3a)
+.
+3.4
+Dennoch hat es die
+Rechtsprechung mit dem Grundsatz der freien Beweiswürdigung als vereinbar
+erachtet, in Bezug auf bestimmte Formen medizinischer Berichte und Gutachten
+Richtlinien für die Beweiswürdigung aufzustellen. Den im Rahmen des
+Verwaltungsverfahrens eingeholten Gutachten von externen Spezialärzten,
+welche aufgrund eingehender Beobachtungen und Untersuchungen sowie nach Einsicht
+in die Akten Bericht erstatten und bei der Erörterung der Befunde zu
+schlüssigen Ergebnissen gelangen, ist bei der Beweiswürdigung volle
+Beweiskraft zuzuerkennen, solange nicht konkrete Indizien gegen die
+Zuverlässigkeit der Expertise sprechen (BGE 137 V 210
+E. 1.3.4).
+3.5
+Die Verwaltung als verfügende Instanz und –
+im Beschwerdefall – der Richter dürfen eine Tatsache nur dann als bewiesen
+annehmen, wenn sie von ihrem Bestehen überzeugt sind. Im
+Sozialversicherungsrecht hat der Richter dabei seinen Entscheid – sofern das
+Gesetz nicht etwas Abweichendes vorsieht – nach dem Beweisgrad der überwiegenden
+Wahrscheinlichkeit zu fällen. Die blosse Möglichkeit eines bestimmten
+Sachverhalts genügt den Beweisanforderungen nicht. Der Richter hat vielmehr
+jener Sachverhaltsdarstellung zu folgen, die er von allen möglichen
+Geschehensabläufen als die wahrscheinlichste würdigt (BGE 119 V 7
+E. 3c/aa, mit Hinweisen).
+4.
+Ändert sich der
+Invaliditätsgrad nach erstmaliger Entstehung des Rentenanspruchs, ist die Rente
+aufgrund von Art. 88a der Verordnung über die Invalidenversicherung vom
+17. Januar 1961 (IVV) anzupassen (Meyer/Reichmuth, S. 304). Nach
+der Rechtsprechung ist bei rückwirkender Zusprechung einer abgestuften oder
+befristeten Invalidenrente nebst der Revisionsbestimmung des Art. 17
+Abs. 1 ATSG die Bestimmung über die Änderung des Leistungsanspruchs bei
+einer Verbesserung der Erwerbsfähigkeit (Art. 88a Abs. 1 IVV)
+analog anzuwenden, weil noch vor Erlass der ersten Rentenverfügung eine
+anspruchsbeeinflussende Änderung eingetreten ist mit der Folge, dass
+gleichzeitig die Änderung mitberücksichtigt wird (BGE 109 V 125
+E. 4a; BGer-Urteil 9C_996/2010 vom 5. Mai 2011 E. 8, mit
+Hinweisen; Meyer/Reichmuth, S. 423). Gemäss Art. 88a Abs. 1
+IVV ist eine Verbesserung der Erwerbsfähigkeit von dem Zeitpunkt an zu berücksichtigen,
+in dem angenommen werden kann, dass sie voraussichtlich längere Zeit dauern
+wird. Sie ist in jedem Fall zu berücksichtigen, nachdem sie ohne wesentliche
+Unterbrechung drei Monate gedauert hat und voraussichtlich andauern wird. Das
+Bundesgericht wendet in solchen Fällen in der Regel den zweiten Satz dieser
+Vorschrift an und gewährt oder bestätigt eine höhere Rente drei Monate über
+die Veränderung des Gesundheitszustandes hinaus (BGer-Urteil 9C_491/2008
+vom 21. April 2009 E. 2, mit Hinweisen).
+5.
+5.1
+Die Beschwerdeführerin macht geltend, dass sich ihr
+Gesundheitszustand entgegen dem von
+Dr. med. und
+Dr. sc. nat. ETH C.______, Innere Medizin FMH spez.
+Rheumaerkrankungen
+, erstatteten Gutachten nicht
+verbessert habe. Daher liege ab dem willkürlich festgelegten Zeitpunkt der
+Gutachtenerstellung keine verbesserte Leistungsfähigkeit ihrerseits vor,
+welche die Einstellung der Invalidenrente rechtfertigen würde.
+Dr. C.______ habe zwar ihre Diagnose in Übereinstimmung mit den übrigen
+Arztberichten gestellt, dann aber die Leistungsfähigkeit für
+leidensangepasste Tätigkeiten entgegen den weiteren ärztlichen Berichten,
+welche ihr seit Jahren eine vollständige Arbeitsunfähigkeit attestierten,
+bejaht, was einen nicht erklärbaren Widerspruch darstelle. Denn
+Dr. C.______ habe nicht dargelegt, ob und inwieweit sich ihr
+funktionelles Leistungsvermögen verbessert habe. Daher sei fraglich, ob die
+Beschwerdegegnerin den Sachverhalt genügend abgeklärt habe, weshalb eine gerichtliche
+Begutachtung im medizinischen und hauswirtschaftlichen Bereich beantragt
+werde. Es falle nämlich auf, dass die Berichte der behandelnden Ärzte, welche
+im gleichen Zeitraum wie das Gutachten von Dr. C.______ erstellt worden
+seien, von einer massgeblich eingeschränkteren Arbeitsfähigkeit in einer
+angepassten Tätigkeit ausgingen. Auch werde die angepasste Tätigkeit
+unterschiedlich eingeschätzt. Ferner wende die Beschwerdegegnerin die
+gemischte Methode der Invaliditätsbemessung an, ohne auf die dagegen im
+Vorbescheidverfahren erhobenen Einwendungen einzugehen. Es verstehe sich von
+selbst, dass sie ihre Arbeitstätigkeit aufgrund des heutigen Alters ihrer
+Kinder hätte ausbauen wollen, wäre sie denn dazu gesundheitlich in der Lage
+gewesen. Auch sei willkürlich, dass die Beschwerdegegnerin von einem höheren
+funktionellen Leistungsvermögen für leidensangepasste Tätigkeiten als für
+Haushaltarbeiten ausgehe. Weiter begründe die Beschwerdegegnerin nicht, wieso
+das mutmassliche Valideneinkommen mit dem zumutbaren Invalideneinkommen
+identisch sei. Ebenso wenig werde eine Parallelisierung thematisiert, obwohl
+ihr Valideneinkommen unterdurchschnittlich gewesen sei. Schliesslich könne
+sie das ihr theoretisch zumutbare, sehr geringfügige funktionelle
+Leistungsvermögen auf dem konkreten Arbeitsmarkt nicht mehr verwerten. Sollte
+dennoch von der Verwertbarkeit ihrer geringfügigen Arbeitsfähigkeit
+ausgegangen werden, sei ein Abzug vom Tabellenlohn von mindestens 20 %
+zu gewähren.
+5.2
+Die Beschwerdegegnerin bringt hingegen vor, den
+Sachverhalt insbesondere aufgrund der Einholung zweier Gutachten genügend
+abgeklärt zu haben, zumal beide Gutachten die einschlägigen
+bundesgerichtlichen Kriterien erfüllten. Auch attestierten beide Gutachten
+der Beschwerdeführerin in einer angepassten Tätigkeit eine vollständige
+Arbeitsfähigkeit, weshalb auf diese abzustellen sei. Dass die Gutachter zu
+einem anderen Ergebnis kämen als die behandelnden Ärzte, stelle keinen
+Widerspruch, sondern eine andere Bewertung des Sachverhalts dar. Nicht zu
+hören sei ferner, dass die Beschwerdeführerin heute in einem höheren
+Arbeitspensum arbeiten würde, habe sie doch selbst angegeben, bei voller
+Gesundheit weiterhin einer 50%igen Arbeitstätigkeit nachgehen zu wollen. Auch
+sei es ihr zumutbar, ihre Resterwerbsfähigkeit zu verwerten, da keine
+relevanten Erschwernisse vorliegen würden, welche sie als nicht vermittelbar
+einstufen würden. Schliesslich bestünden bei der Beschwerdeführerin seit dem
+1. März 2017 keine gesundheitlichen Einschränkungen mehr, weshalb ihr keine
+Leistungen der Invalidenversicherung mehr zustünden und daher kein Abzug vom
+Tabellenlohn zu gewähren sei.
+6.
+6.1
+Dr. med. D.______, FMH für physikalische
+Medizin und Rehabilitation, zertifizierte Gutachterin SIM, untersuchte die
+Beschwerdeführerin am 18. Oktober 2016 und erstattete darüber zuhanden
+der Krankentaggeldversicherung ein Gutachten. Sie diagnostizierte ein
+chronisches lumbovertebrales Schmerzsyndrom mit Status nach Dekompression und
+Spacer-Implantation L4/5 im Januar 2013, mit Status nach Revision und
+Spondylodese L4/5 im September 2013, mit Statuts nach Revision der
+Spondylodese L4/5 mit Stabilisation der Segmente LWK 4 und LWK 5
+mit Cage, Spacer-Implantation L3/4 am 4. Mai 2015, mit Status nach
+Verlängerungsspondylodese L5/S1, Dekompression der Nervenwurzel S1 und
+L5 beidseits am 10. September 2015 und mit Statuts nach
+Verlängerungsspondylodese L3/4 mit Cage und Nervenwurzeldekompression L3
+und L4 beidseits am 20. Juni 2016 bei einer Wirbelsäulenfehlform/-fehlhaltung
+mit sagittaler Dysbalance bei lumbaler Hyperlordose. Ebenso diagnostizierte
+sie Fersenschmerzen links und Adipositas. Aus versicherungsmedizinischer
+Sicht bestehe eine dauerhaft eingeschränkte Belastbarkeit der
+Lendenwirbelsäule. Körperlich mittelschwere und schwere Arbeiten seien nicht
+mehr zumutbar, ebenso Arbeiten in wirbelsäulebelastenden Arbeitshaltungen wie
+statisch vorgeneigte Tätigkeiten, Tätigkeiten mit hohem Anteil an
+Überkopfarbeiten sowie häufige Rumpfrotationen. Rein stehende/gehende
+Tätigkeiten seien ebenfalls nicht mehr zumutbar. Das aktuelle körperliche
+Belastungsprofil liege im Bereich einer leichten, wechselbelasteten Arbeit,
+wobei Positionswechsel durch die Beschwerdeführerin selbst bestimmt werden
+sollten. Eine adaptierte Tätigkeit wäre mittelfristig im angestammten
+50 % Pensum zumutbar. Nicht mehr zumutbar seien die bisher ausgeübten
+Tätigkeiten im Hausdienst eines Altersheims und in der Büroreinigung.
+6.2
+Das Zentrum für Arbeitsmedizin, Ergonomie und
+Hygiene AG (AEH) begutachtete die Beschwerdeführerin am 13./14. Februar
+2017 und führte dabei auch eine EFL durch. Dr. med. E.______, FMH
+physikalische Medizin und Rehabilitation, zertifizierte Gutachterin SIM,
+F.______, Physiotherapeut, und Dr. med. G.______, FMH physikalische
+Medizin und Rehabilitation/Rheumatologie, zertifizierter medizinischer
+Gutachter SIM, diagnostizierten mit Auswirkungen auf die Arbeitsfähigkeit ein
+lumbovertebrales Schmerzsyndrom bei Status nach den vorerwähnten fünf
+Operationen. Ohne Auswirkungen auf die Arbeitsfähigkeit liege ein Verdacht
+auf Borreliose sowie eine Adipositas vor. Die funktionelle Leistungsfähigkeit
+der Beschwerdeführerin liege unter den Belastungsanforderungen der bisherigen
+Arbeit, weshalb die bisherige Tätigkeit aus medizinischer Sicht sowie gemäss
+den Resultaten der EFL nicht mehr zumutbar sei. Aus der EFL ergebe sich
+zudem, dass mittelschwere Tätigkeiten, bei welchen Rotationen im Stehen und
+Sitzen sowie Treppen steigen nur manchmal, das heisse maximal drei Stunden
+pro Tag und über den Tag verteilt, zumutbar seien. Gemäss der medizinischen
+Beurteilung könne die Beschwerdeführerin körperlich leichte bis mittelschwere
+Tätigkeiten, also eine Arbeit mit Heben und Tragen von 5 bis15 kg,
+optimal wechselbelastet, ausüben, wobei das Heben und Tragen von 15 kg
+nur selten vorkommen solle. Dass die Versicherte ganz selten einmal Gewichte
+von 20 bis 25 kg hebe und trage, sei ohne Schädigung ebenfalls möglich.
+Zudem sie diese Tätigkeit ergonomisch durchzuführen.
+6.3
+RAD-Ärztin dipl. med. H.______,
+Fachärztin für innere Medizin/Prävention und Gesundheitswesen, wies am
+6. April 2017 auf die Unvollständigkeit des Gutachtens der AEH hin, da
+darin keine Angaben zum Verlauf der Arbeitsunfähigkeit in der angestammten
+und angepassten Tätigkeit seit dem Jahre 2011 gemacht würden. Auch würden
+keine Angaben zur Arbeitsfähigkeit in Prozent erfolgen. Nachvollzogen werden
+könne, dass die Beschwerdeführerin die bisherige Tätigkeit nicht mehr
+verrichten könne, was nunmehr auch durch die behandelnden Ärzte attestiert
+werde.
+6.4
+Dr. C.______ untersuchte die
+Beschwerdeführerin, worüber sie am 19. Dezember 2017 ein
+rheumatologisch-internistisches Gutachten verfasste. Mit Auswirkungen auf die
+Arbeitsfähigkeit diagnostizierte sie eine verminderte Belastbarkeit der
+Lendenwirbelsäule bei Status nach aktiver hypertropher Spondylarthrose L4/L5
+und kleiner links-mediolateraler Diskusportrusion L4/L5 mit recessaler
+Kompression der Nervenwurzel L5 links und Status nach fünf lumbalen
+Operationen, Status nach bilateraler linksbetonter Spondylarthrosen LWK 2/3
+beidseits mit Verdacht auf minimale Diskusportrusion foraminal links und
+mässigen linksbetonten foraminalen Stenose der Nervenwurzel L2 beidseits ohne
+Kompression mit stationärem Überragen des Cages bei LWK 3/4 über die
+Hinterkante von 6 mm und ohne Instabilität bei elektromyographischem
+Nachweis einer Radikulopathie L2 beidseits sowie eine verminderte
+Belastbarkeit und Beschwerden der Halswirbelsäule bei medianen Diskushernien
+C4/C5 und C5/C6 mit Kontakt zum Myelon. Ohne Auswirkungen auf die Arbeitsfähigkeit
+diagnostizierte sie eine Adipositas Grad II sowie einen Status nach
+Borreliose. Die Beschwerdeführerin könne nicht längere Zeit in
+vornübergebeugter Haltung tätig sein, weshalb es wahrscheinlich sei, dass die
+bisherigen hauswirtschaftlichen Tätigkeiten bzw. die Tätigkeit als
+Raumpflegerin in einem Teilbereich nicht angepasst seien. Eine nicht
+angepasste, rückenbelastende Tätigkeit könne sie seit dem 14. November
+2012 nicht mehr ausüben. Dagegen könne sie beim Essensservice in einem
+Kurhaus oder Altersheim uneingeschränkt tätig sein, da es sich dabei um eine
+wechselbelastende Tätigkeit ohne ungünstige Körperhaltung und ohne häufiges
+Hantieren von Lasten über 15 kg handle. Eine dem Leiden ideal angepasste
+Tätigkeit stelle eine Tätigkeit dar, welche die Lendenwirbel- und die
+Halswirbelsäule schone. Lasten bis 10 kg könne die Beschwerdeführerin
+oft und repetitiv hantieren. Lasten bis 15 kg könne sie selten heben und
+tragen und Lasten von 20 bis 25 kg nur einmalig. In einer angepassten
+Tätigkeit sei sie bezogen auf ein 100 % Pensum voll arbeitsfähig, was
+jeweils spätestens nach einem halben Jahr nach einer lumbalen Operation
+gelte. Im Haushalt sei sie nicht eingeschränkt. Bei besonders
+rückenbelastenden Haushalttätigkeiten werde sie von ihrem Ehemann oder ihren
+Söhnen unterstützt.
+6.5
+Der behandelnde Arzt der Beschwerdeführerin,
+Dr. med. I.______, Facharzt für orthopädische Chirurgie und
+Traumatologie des Bewegungsapparates, diagnostizierte am 17. April 2018
+ein chronisches Schmerzsyndrom im Bereich der mittleren Lendenwirbelsäule mit
+Ausstrahlung gegen den Oberschenkel und die Leisten beidseits, bei einem
+Verdacht auf eine Nervenwurzelsymptomatik L2 und L3 beidseits, bei einem
+Verdacht auf eine neue Anschlusspathologie in konsekutiver Einengung der
+abgehenden Nervenwurzel L2, bei einer chronischen Nervenwurzelschädigung L4
+links und L5 beidseits, bei einem Status nach den vorerwähnten fünf lumbalen
+Operationen. Durch die letzten Operationen habe die Schmerzsituation so
+verbessert werden können, dass die Beschwerdeführerin einigermassen gut damit
+leben könne. Sie habe dennoch weiterhin Schmerzen und sei daher auf die
+Einnahme von Morphinen angewiesen. Der schwere Verlauf dieses Rückenleides
+sei durch eine Hyperlordose der Lendenwirbelsäule mit horizontal gestelltem
+Kreuzbein erklärbar, da es dadurch zu einer Abnützung der dorsalen Elemente
+der Wirbelsäule gekommen sei, mit entsprechender Einengung der Neuroforamen
+respektive der abgehenden Nervenwurzeln. Sobald Segmente stabilisiert worden
+seien, sei es wegen der schweren Hyperlordose unmittelbar wieder zur
+Abnützung des nächsten Bewegungssegments gekommen. Ein Wiedereinstieg in die
+ursprüngliche Arbeit als Reinigungskraft sei der Beschwerdeführerin nicht
+zumutbar. Denn dies würde bedeuten, dass sie innert kürzester Zeit wieder
+operiert werden müsste, das heisse das Segment respektive die
+Bewegungseinheit L2/L3 ebenfalls fusioniert werden müsste. Eine Fusion dieses
+Segments würde dann wahrscheinlich die frühzeitige Abnützung des
+Bewegungssegments L1/L2 zur Folge haben. Zukünftig sei nur noch eine Arbeit
+zumutbar, bei welcher sie keine Lasten von mehr als 5 kg tragen müsse
+und bei der sie den Oberkörper nicht repetitiv beugen und drehen müsse. Im
+Umfang von 50 % sollte die Beschwerdeführerin in der Lage sein, für eine
+Tätigkeit mit den oben beschriebenen Einschränkungen wieder arbeitsfähig zu
+werden. Am 27. November 2018 attestierte Dr. I.______ der
+Beschwerdeführerin jedoch eine erhöhte Arbeitsunfähigkeit von 80 %. Für
+leichte Tätigkeiten ohne Heben von schweren Lasten und ohne repetitives
+Beugen des Oberkörpers sei sie 20 % arbeitsfähig. Dies gründe darin,
+dass sie sich kaum bücken und extendieren könne, ansonsten sie sehr starke
+Schmerzen habe. Am 29. Januar 2019 wies Dr. I.______ daraufhin,
+dass die Beschwerdeführerin wenig Schmerzen habe, wenn sie sich wenig
+körperlich belaste. Sobald sie sich körperlich stärker belaste, würden die
+Schmerzen an Stärke zunehmen. Aufgrund der Schmerzen und der Pathologie im
+Bereich der Wirbelsäule sei sie vollständig arbeitsunfähig. Eine
+Reintegration in den Arbeitsprozess sei mit überwiegender Wahrscheinlichkeit
+nicht mehr möglich, da die Beschwerdeführerin nach jeder Stabilisation eine
+weitere Pathologie entwickle.
+7.
+7.1
+Die ärztlichen Berichte – einschliesslich des
+Gutachtens von Dr. C.______ und des Gutachtens der AEH – sind sich
+darüber einig, dass die Beschwerdeführerin in ihrer bisherigen Tätigkeit
+aufgrund ihres Rückenleidens nicht mehr arbeitsfähig ist. Strittig und zu
+prüfen sind hingegen der Grad der Arbeitsunfähigkeit der Beschwerdeführerin
+in adaptierter Tätigkeit sowie das diesbezügliche Belastungsprofil.
+7.2
+Die Beschwerdegegnerin stützte sich bei ihrem
+Entscheid über den Leistungsanspruch der Beschwerdeführerin massgeblich auf
+das Gutachten von Dr. C.______ ab, weshalb in erster Linie zu prüfen
+ist, ob auf dieses abgestellt werden kann.
+In Bezug auf die von
+Dr. C.______ gestellte Diagnose fällt auf, dass sie im Unterschied zu
+den weiteren, in den Akten vorhandenen unterschiedlichen ärztlichen Diagnosestellungen
+nicht vom Vorliegen eines Schmerzsyndroms ausgeht. Aus welchem Grund sie
+diesbezüglich zu einem anderen Schluss als die behandelnden Ärzte wie auch
+die weiteren Gutachter kommt, begründet sie nicht. In ihrem Gutachten gibt
+Dr. C.______ zwar zum einen kurz wieder, welche Medikamente die
+Beschwerdeführerin mit dem Zweck der Schmerzbekämpfung einnimmt. Zum anderen
+erwähnt sie auch, dass die Beschwerdeführerin das Vorhandensein von Schmerzen
+angebe. Dennoch geht Dr. C.______ weder im Rahmen ihrer medizinischen
+Beurteilung noch in der Einschätzung der Arbeitsfähigkeit der
+Beschwerdeführerin darauf ein, dass diese angibt, an belastungsabhängigen
+Schmerzen zu leiden. Ebenso wenig macht sie Ausführungen dazu, aus welchem
+Grund sie die von der Beschwerdeführerin genannten Beschwerden nicht in ihre
+Beurteilung miteinbezieht oder aber weshalb die angegebenen Schmerzen keine
+Auswirkungen auf die zu stellende Diagnose und die Einschätzung der
+Arbeitsfähigkeit hätten. Stattdessen erscheint die von Dr. C.______
+gestellte Diagnose als ausschliesslich auf die bildgebenden
+Untersuchungsbefunde abgestützt, was einzig den Schluss darauf zulässt, dass
+die von der Beschwerdeführerin beklagten Schmerzen nicht in die ärztliche
+Einschätzung und damit auch nicht in die Diagnosestellung von
+Dr. C.______ miteinbezogen worden waren. Damit werden die von der
+Beschwerdeführerin beklagten Beschwerden seitens der Gutachterin nicht
+sachgerecht berücksichtigt, was den Widerspruch in der Diagnosestellung
+gegenüber den weiteren medizinischen Einschätzungen zu erklären vermag.
+Weiter geht
+Dr. C.______ davon aus, dass die Beschwerdeführerin eine angepasste
+Tätigkeit lang andauernd ausüben könne, womit sie der Beschwerdeführerin eine
+gute Prognose attestiert. Gestützt auf welche Grundlagen Dr. C.______ zu
+diesem Schluss kommt, ergibt sich aus dem Gutachten nicht. Im Gegensatz zu
+der von Dr. C.______ angenommenen positiven Prognose wies
+Dr. I.______ bereits am 5. April 2017 wie auch erneut am
+26. Juni 2017 auf das Vorliegen von Anschlusspathologien hin, welche die
+Notwendigkeit weiterer Operationen begründen könnten. Dies begründete er in
+nachvollziehbarer Weise mit dem Vorliegen einer Hyperlordose und damit einer
+Fehlhaltung der Wirbelsäule, welche für den schweren Krankheitsverlauf
+verantwortlich sei. Ebenso äusserte dipl. Arzt J.______, Fachärztin
+für Neurologie, am 8. Dezember 2017 einen Verdacht auf weitere
+Anschlusssegmentdegenerationen. Ob jedoch ein erneuter chirurgischer Eingriff
+zielführend sei, sei fraglich. Obwohl die soeben genannten ärztlichen
+Einschätzungen Dr. C.______ zur Zeit ihrer Gutachtenerstellung bekannt
+waren, äusserte sie sich mit keinem Wort dazu, weshalb sie entgegen der
+Meinung von Dr. I.______ und dipl. Arzt J.______ keine
+Anschlusspathologien ersehen könne und stattdessen von einer guten Prognose
+betreffend die Arbeitsfähigkeit der Beschwerdeführerin ausgehe. Zugleich
+schätzte Dr. C.______ die Arbeitsfähigkeit der Beschwerdeführerin in
+einer angepassten leichten bis mittelschweren Tätigkeit am 19. Dezember
+2017 als vollständig vorhanden ein, während dipl. Arzt J.______ am
+8. Dezember 2017 und damit nur elf Tage früher von einer 50%igen
+Arbeitsfähigkeit für sehr leichte Tätigkeiten ausging, was sie insbesondere
+mit dem Verdacht auf das Vorliegen von Anschlusspathologien begründete. Auch
+zu dieser abweichenden Einschätzung äusserte sich Dr. C.______ nicht,
+wobei Dr. C.______ insbesondere nicht darlegte, weshalb sie die
+gesundheitliche Situation der Beschwerdeführerin grundlegend anders
+einschätzte als dipl. Arzt J.______. Da sich Dr. C.______ mit
+dieser, ihrer eigenen ärztlichen Einschätzung widersprechenden Beurteilung
+nicht auseinandersetzte, ergibt sich aus dem Gutachten nicht, weshalb
+Dr. C.______ zu einem abweichenden Ergebnis gelangte. Damit sind die von
+ihr gezogenen Schlussfolgerungen als nicht nachvollziehbar einzustufen.
+Im Allgemeinen kommt
+Dr. C.______ sehr pauschal zum Schluss, dass die Beschwerdeführerin
+trotz ihrer eingeschränkten Funktion der LWS und der HWS in der Lage sei,
+eine angepasste Tätigkeit in einem 100 % Pensum auszuüben. Betreffend
+Belastungsprofil erklärt sie sich mit dem Gutachten der AEH einverstanden,
+womit sie die Beschwerdeführerin als arbeitsfähig in einer für die HWS und
+LWS schonenden Tätigkeit ansieht, bei welcher Lasten von 10 kg oft und
+repetitiv, Lasten bis 15 kg selten und Lasten von 20 bis 25 kg
+einmalig zu heben und zu tragen sind. Entgegen dem Gutachten von
+Dr. C.______ ging Dr. D.______ in ihrem Gutachten vom
+22. Oktober 2016 von einer 50%igen Arbeitsfähigkeit für körperlich
+leichte, wechselbelastende Tätigkeiten ohne wirbelsäulenbelastende
+Arbeitspositionen und mit der Möglichkeit, Positionswechsel selber
+einzuteilen, aus. Diesbezüglich führt Dr. C.______ aus, dass sich
+Dr. D.______ nur deswegen nicht zu einer vollen Arbeitsfähigkeit
+geäussert habe, weil die Beschwerdeführerin bereits mehrere Jahre nicht mehr
+vollzeitlich arbeitstätig gewesen sei. Anhaltspunkte, welche diese
+Ausführungen belegen, sind jedoch keine vorhanden, zumal Dr. D.______
+entsprechende Hinweise selber nicht anbringt. Stattdessen attestiert sie der
+Beschwerdeführerin in ihrer angestammten Tätigkeit eine vollständige
+Arbeitsunfähigkeit, unabhängig von der Tatsache, dass Letztere seit geraumer
+Zeit in dieser Tätigkeit nur in einem Teilzeitpensum tätig war. Ferner wies
+Dr. I.______ im Nachgang an die Begutachtung von Dr. D.______ auf
+zunehmende Schmerzen der Beschwerdeführerin hin, welche seit deren
+Wiederaufnahme der Arbeitstätigkeit aufgetreten seien. Dabei hielt
+Dr. I.______ am 26. Juni 2017 ausdrücklich fest, dass die Schmerzen
+der Beschwerdeführerin dann zunehmen würden, wenn sie sich beispielsweise im
+Haushalt körperlich betätige. Damit begründete Dr. I.______ entgegen den
+Ausführungen von Dr. C.______, weshalb er die der Beschwerdeführerin
+attestierte Arbeitsunfähigkeit im vorerwähnten Zeitraum erhöhte. Dennoch ging
+Dr. C.______ im Rahmen der Einschätzung der Arbeitsfähigkeit der
+Beschwerdeführerin in einer angepassten Tätigkeit nicht auf die von
+Dr. I.______ gemachten Ausführungen betreffend die in den der
+Begutachtung vorangehenden Monaten verzeichnete Steigerung der Schmerzen bei
+körperlichen Betätigungen ein. Dies, obwohl entsprechende Beschwerden
+aktenkundig waren. Damit ist für einen medizinischen Laien nicht
+nachvollziehbar, aus welchem Grund bzw. gestützt auf welche Überlegungen
+Dr. C.______ der Einschätzung der Arbeitsfähigkeit in einer angepassten
+Tätigkeit sowie der Umschreibung des Belastungsprofils von Dr. D.______
+nicht folgt, sondern sich der Einschätzung der AEH anschliesst.
+Schliesslich äussert sich
+Dr. C.______ betreffend die Einschränkungen der Beschwerdeführerin in
+Bezug auf die Fähigkeit zur Haushalterledigung abweichend von den beiden
+Haushaltabklärungen. Ihrer Ansicht nach bestünden im Haushalt keine
+Einschränkungen. Für besonders rückenbelastende Tätigkeiten würden der
+Beschwerdeführerin ihr Ehemann und ihre Söhne helfen. Welche Überlegungen von
+Dr. C.______ diesen Ausführungen zu Grunde lagen, ist schleierhaft, da
+eine Begründung derselben schlichtweg fehlt. Im Gegensatz dazu weisen die
+Haushaltabklärungen jeweils in begründeter und nachvollziehbarer Weise
+Einschränkungen im Aufgabenbereich von 17 % bzw. von 26,15 % aus.
+Inwiefern Dr. C.______ diesen beiden Haushaltabklärungen, welche nach
+der zweiten bzw. nach der vierten Rückenoperation eingeholt wurden und
+welche mit fortschreitender operativer Behandlung eine zunehmende
+Einschränkung im Haushalt belegten, nicht folgen konnte, zeigte sie nicht
+auf. Damit leuchten die diesbezüglich gegenteiligen Schlussfolgerungen von Dr. C.______
+nicht ein.
+Im Übrigen besteht das
+Gutachten von Dr. C.______ aus einer seitenweisen Wiedergaben von
+Arztberichten sowie aus massgeblichen Abbildungen von internistischen
+Befunden in Tabellenform. Im Gegensatz dazu fällt die rheumatologische Beurteilung
+insbesondere in Anbetracht der doch recht umfassenden medizinischen Berichte,
+welche insbesondere betreffend die Arbeitsfähigkeit der Beschwerdeführerin in
+einer angepassten Tätigkeit sowie das einschlägige Belastungsprofil von ihren
+Einschätzungen teilweise massgeblich abweichen, äusserst knapp aus. Aufgrund
+der verschiedenen Diskrepanzen zwischen den vorhandenen Unterlagen und
+insbesondere aufgrund der im Gutachten von Dr. C.______ fehlenden
+einleuchtenden Begründungen können die von ihr gezogenen Schlussfolgerungen
+nicht nachvollzogen werden, womit ihr Gutachten als nicht verwertbar
+einzustufen ist.
+7.3
+Weiter weist auch das Gutachten der AEH
+Unvollständigkeiten auf, da es zum einen keine Angaben dazu enthält, in
+welchem Umfang die Beschwerdeführerin in einer angepassten Arbeitstätigkeit
+arbeitsfähig ist. Zum anderen schweigt es sich darüber aus, ab wann der
+Beschwerdeführerin die im Gutachten umschriebene angepasste Tätigkeit
+zumutbar sein sollte. Darauf weist nicht zuletzt auch RAD-Ärztin
+dipl. med. H.______ am 13. Juni 2016 hin. Folglich beantwortet das
+Gutachten der AEH die Arbeitsfähigkeit der Beschwerdeführerin in angepasster
+Tätigkeit nicht abschliessend. Da die Beschwerdegegnerin keine Zusatzfragen
+an die AEH stellte und damit die ihrerseits offenen Fragen von den Gutachtern
+nicht nachträglich beantworten liess, muss das Gutachten als unvollständig
+und lückenhaft eingestuft werden. Entsprechend kann es nicht alleine als
+Grundlage für den Entscheid über das Leistungsbegehren der Beschwerdeführerin
+dienen.
+7.4
+Ferner geben die Berichte des behandelnden Arztes
+Dr. I.______ zwar Auskunft darüber, wie sich der Gesundheitszustand der
+Beschwerdeführerin zwischen den verschiedenen Arztbesuchen seit seiner
+Behandlungsaufnahme Anfang des
+Jahres 2015
+veränderte. Ebenso geben sie seine Einschätzung der
+Arbeitsfähigkeit der Beschwerdeführerin wie auch das seiner Meinung nach
+einschlägige Belastungsprofil wieder. Allerdings erfüllen die verschiedenen
+Berichte die erhöhten Anforderungen an ein Gutachten nicht, da insbesondere
+eine einschlägige Anamnese wie auch eine Auseinandersetzung mit den übrigen,
+in den Akten vorhandenen Arztberichten fehlen. So geht Dr. I.______
+beispielsweise nicht darauf ein, worin die von Dr. D.______ geäusserte
+abweichende Einschätzung der Arbeitsfähigkeit in angepasster Tätigkeit
+gründen könnte. Ebenso geht er nicht auf die von der AEH und von
+Dr. C.______ gemachten Einschätzungen der Arbeitsfähigkeit in
+angepasster Tätigkeit der Beschwerdeführerin sowie auf das unterschiedlich
+ausgewiesene Belastungsprofil ein. Dies gründet darin, dass sich die Berichte
+der behandelnden Ärzte in erster Linie auf die Behandlung konzentrieren und
+daher nicht den Zweck einer den abschliessenden Entscheid über die
+Versicherungsansprüche erlaubenden objektiven Beurteilung des
+Gesundheitszustandes verfolgen. Entsprechend erfüllen sie kaum je die
+materiellen Anforderungen an ein Gutachten. Deswegen sowie aufgrund der
+Erfahrungstatsache, dass Hausärzte mitunter im Hinblick auf ihre
+auftragsrechtliche Vertrauensstellung im Zweifelsfall eher zu Gunsten ihrer
+Patienten aussagen, wird im Streitfall eine direkte Leistungszusprache einzig
+gestützt auf die Angaben der behandelnden Ärzte kaum je in Frage kommen (BGE
+135 V 465 E. 4.5).
+Im Übrigen datiert das von
+Dr. D.______ verfasste Gutachten von Oktober 2016, womit es bereits mehr
+als zweieinhalbjährig ist und folglich nicht den aktuellen Gesundheitszustand
+der Beschwerdeführerin zum Gegenstand hat. Ebenso wurde die zweite
+Haushaltabklärung im November 2015 eingeholt, womit sie den
+Gesundheitszustand der Beschwerdeführerin vor Durchführung der fünften
+Rückenoperation am 16. Juni 2016 betraf.
+7.5
+Aus einer Würdigung der im Recht liegenden
+medizinischen Akten resultieren daher verschiedene Diskrepanzen betreffend
+die Arbeitsfähigkeit der Beschwerdeführerin in einer angepassten Tätigkeit
+sowie das diesbezüglich einschlägige Belastungsprofil. Auch sind die heutigen
+Einschränkungen der Beschwerdeführerin im Aufgabenbereich nicht umfassend
+bekannt. Damit wird es dem Gericht verunmöglicht, den massgebenden
+Sachverhalt ohne weitere Abklärungen mit überwiegender Wahrscheinlichkeit
+festzustellen und einen rechtsgenüglichen Entscheid in der Sache zu fällen.
+Daher bietet es sich an, den aktuellen Gesundheitszustand der
+Beschwerdeführerin mittels einer polydisziplinären Begutachtung mindestens
+internistisch, rheumatologisch und orthopädisch abzuklären.
+7.6
+Ob zudem eine aktuelle Haushaltabklärung der
+Beschwerdeführerin einzuholen ist, entscheidet sich gestützt darauf, nach
+welcher Bemessungsmethode der Invaliditätsgrad der Beschwerdeführerin zu
+bestimmen ist. Denn eine solche ist nur bei Anwendung der gemischten Methode
+der Invaliditätsbemessung von Nöten.
+Für die Bestimmung der
+Bemessungsmethode muss im konkreten Fall geprüft werden, welche Tätigkeiten
+die versicherte Person ausüben würde, wenn sie nicht gesundheitlich
+beeinträchtigt wäre. Dabei sind die Gegebenheiten des Einzelfalls wie
+allfällige Erziehungs- und Betreuungsaufgaben gegenüber Kindern, das Alter,
+die beruflichen Fähigkeiten, die Ausbildung sowie die persönlichen Neigungen
+und Begabungen der versicherten Person nach Massgabe der allgemeinen Lebens-erfahrung
+zu würdigen (BGE 117 V 194; vgl. auch Ziff. 3005 f. des
+Kreisschreibens über Invalidität und Hilflosigkeit in der
+Invalidenversicherung vom 1. Januar 2018 [KSIH]). Die Bemessungsmethode
+beurteilt sich nach den Verhältnissen, wie sie sich bis zum Erlass der
+Verfügung entwickelt haben (ZAK 1989 S. 116 E. 2b). Bis zu
+diesem Zeitpunkt eingetretene wesentliche Veränderungen können einen Wechsel
+der Bemessungsmethode bewirken (vgl. Ziff. 3007 KSIH).
+Die Beschwerdegegnerin
+weist grundsätzlich zu Recht darauf hin, dass die Beschwerdeführerin am 28. März
+2013 ausführte, ohne gesundheitliche Einschränkungen in einem 50 %
+Pensum arbeitstätig zu sein. In diesem Zeitpunkt waren die beiden Kinder der
+Beschwerdeführerin zehn- und zwölfjährig, womit ihr neben der Erledigung der
+Haushaltarbeiten auch die Betreuung der beiden Knaben oblag, zumal ihr Ehemann
+in einem Vollzeitpensum im Schichtbetrieb tätig war. Es ist daher ohne
+Weiteres davon auszugehen, dass sich die von der Beschwerdeführerin
+vorgenommene Bezifferung ihrer prozentualen Arbeitstätigkeit auf die im
+damaligen Zeitpunkt aktuellen Familienumstände bezog. Im Verfügungszeitpunkt
+Ende November 2018 waren die beiden Kinder bereits 16- und 18-jährig,
+woraus folgt, dass sich die der Beschwerdeführerin obliegenden
+Betreuungsaufgaben aufgrund des fortgeschrittenen Kindsalters massgeblich
+verringert hatten. Es erscheint nicht zuletzt auch angesichts des noch jungen
+Alters der Beschwerdeführerin als durchaus verständlich und nachvollziehbar,
+dass diese mit zunehmendem Alter der Kinder und der damit einhergehenden
+Verringerung bzw. dem Wegfall der Betreuungsaufgaben ihre
+Erwerbstätigkeit bei voller Gesundheit ausgebaut hätte. Diese Veränderung im
+tatsächlichen Leben der Beschwerdeführerin im Gesundheitsfall hätte sich vor
+dem Erlass der vorliegend angefochtenen Verfügung der Beschwerdegegnerin
+verwirklicht, womit diese Auswirkungen auf die anzuwendende Invaliditäts-bemessungsmethode
+zeitigen kann. Die Beschwerdegegnerin hat demnach unter Mitwirkung der
+Beschwerdeführerin zu ermitteln, ob und für welchen Zeitraum von einer
+Teilzeit- oder Vollzeiterwerbstätigkeit auszugehen ist. Aufgrund des
+Ergebnisses ergibt sich die anzuwendende Bemessungsmethode. Auch wird so die
+Frage geklärt, ob das Einholen einer aktuellen Haushaltabklärung notwendig
+ist.
+7.7
+7.7.1
+Gemäss neuer bundesgerichtlicher Rechtsprechung
+können die Sozialversicherungsgerichte nicht mehr frei entscheiden, ob sie
+eine Streitsache zur neuen Begutachtung an die Verwaltung zurückweisen. Die
+Beschwerdeinstanz hat vielmehr im Regelfall selbst ein Gerichtsgutachten
+einzuholen, wenn sie einen im Verwaltungsverfahren anderweitig erhobenen
+Sachverhalt überhaupt für gutachterlich abklärungsbedürftig hält oder wenn
+ein Administrativgutachten in einem rechtserheblichen Punkt nicht
+beweiskräftig ist. Eine Rückweisung an die Vorinstanz bleibt hingegen
+möglich, wenn sie allein in der notwendigen Erhebung einer bisher vollständig
+ungeklärten Frage begründet ist oder wenn lediglich eine Klarstellung,
+Präzisierung oder Ergänzung von gutachterlichen Ausführungen erforderlich ist
+(BGE 137 V 210 E. 4.4.1 ff.).
+7.7.2
+Die Beschwerdegegnerin hat es im
+Verwaltungsverfahren unterlassen, den aktuellen Gesundheitszustand der
+Beschwerdeführerin und dessen Auswirkungen auf deren Arbeitsfähigkeit durch
+ein verwertbares Gutachten abzuklären. Ebenso sind die heutigen Einschränkungen
+der Beschwerdeführerin im Aufgabenbereich nicht abschliessend bekannt. Es
+kann nicht Aufgabe des kantonalen Sozialversi-cherungsgerichts sein, im
+Verwaltungsverfahren versäumte Abklärungen zu veranlassen. Daher erweist sich
+die Rückweisung an die Beschwerdegegnerin als zulässig, was überdies auch von
+der Beschwerdegegnerin zumindest in ihrem Eventualbegehren beantragt wird.
+Die Beschwerdegegnerin hat ein polydisziplinäres Gutachten der
+Beschwerdeführerin einzuholen, womit diese mindestens internistisch, rheumatologisch
+und orthopädisch untersucht und begutachtet wird. Dabei hat das Gutachten
+insbesondere darüber Auskunft zu erteilen, inwiefern die Beschwerdeführerin
+in einer angepassten Tätigkeit arbeitsfähig ist, seit wann bzw. für
+welchen Zeitraum eine allfällige Arbeitsfähigkeit in angepasster Tätigkeit
+vorliegt bzw. vorgelegen hat sowie in welchem Umfang eine solche gegeben
+ist bzw. vorhanden war. Ebenso hat das Gutachten das einschlägige
+Belastungsprofil in der angepassten Tätigkeit wiederzugeben.
+8.
+Dies führt zur teilweisen
+Gutheissung der Beschwerde. Die Verfügung der Beschwerdegegnerin vom
+28. November 2018 ist aufzuheben und die Sache ist im Sinne der
+Erwägungen an diese zurückzuweisen.
+III.
+1.
+Nach Art. 134 Abs. 1
+lit. c des Gesetzes über die Verwaltungsrechtspflege vom
+4. Mai 1986 (VRG) i.V.m. Art. 69 Abs. 1bis IVG hat die
+Partei, welche im Beschwerdeverfahren unterliegt, die amtlichen Kosten zu
+tragen. Als Obsiegen gilt hinsichtlich der Kosten- und Entschädigungsfolge
+auch die Rückweisung der Sache an den Versicherungsträger (Ueli Kieser,
+ATSG-Kommentar, 3. A., Zürich/Basel/Genf 2015, Art. 61
+N. 205), weshalb die Gerichtskosten von pauschal Fr. 600.- der
+Beschwerdegegnerin aufzuerlegen sind. Der Beschwerdeführerin ist der von ihr
+in gleicher Höhe geleistete Kostenvorschuss zurückzuerstatten. Überdies ist
+die Beschwerdegegnerin zu verpflichten, der Beschwerdeführerin eine
+Parteientschädigung von Fr. 1'800.- (inkl. Mehrwertsteuer) zu
+bezahlen (Art. 1 Abs. 1 IVG i.V.m. Art. 61 lit. g
+ATSG)
+.
+2.
+Gegen den vorliegenden
+Zwischenentscheid steht die Beschwerde in öffentlich-rechtlichen
+Angelegenheiten ans Bundesgericht nur unter den Voraussetzungen von
+Art. 93 Abs. 1 des Bundesgerichtsgesetzes vom 17. Juni 2005
+(BGG) offen.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird teilweise gutgeheissen. Die Verfügung der
+Beschwerdegegnerin vom 28. November 2018 wird aufgehoben und die Sache wird
+im Sinne der Erwägungen an diese zurückgewiesen.
+2.
+Die
+Gerichtskosten von Fr. 600.- werden der Beschwerdegegnerin auferlegt.
+Der Beschwerdeführerin wird der von ihr bereits in gleicher Höhe geleistete
+Kostenvorschuss zurückerstattet.
+3.
+Die
+Beschwerdegegnerin wird verpflichtet, der Beschwerdeführerin innert
+30 Tagen nach Rechtskraft dieses Entscheids eine Parteientschädigung
+von Fr. 1'800.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
