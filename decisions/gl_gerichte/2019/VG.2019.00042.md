@@ -1,0 +1,327 @@
+---
+decision_id: "gl_gerichte_VG.2019.00042"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2019.00042"
+docket_2: "VG.2019.784"
+decided: "2019-05-09"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1088&W10_KEY=218274&nTrefferzeile=9&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/832.10/art-065.md", "switzerland/bund/acts/832.10/art-097.md"]
+---
+
+# GL Gerichte VG.2019.00042
+
+## Regeste
+
+Sozialversicherung - Krankenversicherung
+
+## Text
+
+Glarus Verwaltungsgericht 09.05.2019 VG.2019.00042 (VG.2019.784)
+Glaris Verwaltungsgericht 09.05.2019 VG.2019.00042 (VG.2019.784)
+Glarona Verwaltungsgericht 09.05.2019 VG.2019.00042 (VG.2019.784)
+
+Sozialversicherung - Krankenversicherung
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+9. Mai 2019
+II. Kammer
+in Sachen
+VG.2019.00042
+A.______
+Beschwerdeführer
+gegen
+Steuerverwaltung des Kantons Glarus
+Beschwerdegegnerin
+betreffend
+individuelle Prämienverbilligung 2019
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+A.______ ersuchte die kantonale Steuerverwaltung am
+13. Februar 2019 um eine Neuberechnung der individuellen Prämienverbilligung
+2018. Seinem Schreiben legte er unter anderem seine
+Krankenversicherungspolicen für das Jahr 2019 bei. Mit formlosem Schreiben
+vom 15. Februar 2019 teilte ihm die Steuerverwaltung unter anderem mit, dass
+eine Neuberechnung der individuellen Prämienverbilligung für das Jahr 2018
+nicht möglich sei. Die Einreichungsfrist für die individuelle
+Prämienverbilligung 2019 sei am 31. Januar 2019 abgelaufen und nicht
+erstreckbar. In einem weiteren Schreiben vom 20. Februar 2019 rügte A.______,
+es sei aus den Merkblättern nicht ersichtlich, dass für jedes Jahr eine neue
+Anmeldung zum Bezug von individueller Prämienverbilligung eingereicht werden
+müsse. Er betrachte seine Anmeldung aus dem Jahr 2018 weiterhin als
+rechtsgültig, weshalb sein Antrag auf individuelle Prämienverbilligung für
+das Jahr 2019 nochmals geprüft werden solle. Die Steuerverwaltung
+entgegnete mit formlosem Schreiben vom 26.  Februar 2019, es gehe sowohl
+aus dem Merkblatt IPV als auch aus der Publikation im Amtsblatt vom
+15. November 2018 hervor, dass der Antrag auf individuelle
+Prämienverbilligung in jedem Anspruchsjahr aufs Neue zu stellen sei. Im
+Übrigen werde der Schriftenwechsel mit A.______ als abgeschlossen erachtet.
+1.2
+In der Folge erhob A.______ am 9. März 2019
+beim Verwaltungsgericht sinngemäss Rechtsverweigerungsbeschwerde, da die
+Steuerverwaltung sein Gesuch um individuelle Prämienverbilligung nicht
+behandelt habe. Die Steuerverwaltung zeigte dem Verwaltungsgericht am 15.
+März 2019 an, dass sie mit gleichentags ergangener Verfügung auf das Gesuch von
+A.______ um individuelle Prämienverbilligung nicht eingetreten sei. A.______
+teilte dem Verwaltungsgericht am 18. März 2019 mit, dass er mit der
+Verfügung der Steuerverwaltung nicht einverstanden sei. Das
+Verwaltungsgericht solle seinen Antrag auf individuelle Prämienverbilligung
+gutheissen und die Verfügung vom 15. März 2019 aufheben. Das
+Verwaltungsgericht schrieb das Verfahren am 1. April 2019 als
+gegenstandslos geworden ab und überwies das Schreiben von A.______ vom 18.
+März 2019 der Steuerverwaltung zur Behandlung als Einsprache (vgl. zum
+Ganzen Verfahren VG.2019.00026). Die Steuerverwaltung wies die Einsprache am
+2. April 2019 ab.
+2.
+Dagegen gelangte A.______
+mit Beschwerde vom 8. April 2019 ans Verwaltungsgericht. Sinngemäss
+beantragte er die Aufhebung des Einspracheentscheids vom 2. April 2019.
+Ihm sei für das Jahr 2019 die individuelle Prämienverbilligung
+auszurichten. Ferner sei ihm die unentgeltliche Prozessführung zu gewähren.
+Die Steuerverwaltung
+schloss am 12. April 2019 auf Abweisung der Beschwerde. Da sie nicht
+sämtliche Akten eingereicht hatte, forderte das Verwaltungsgericht sie am
+16. April 2019 zur Nachreichung der fehlenden Unterlagen auf. Dieser
+Aufforderung kam die Steuerverwaltung am 17. April 2019 nach.
+A.______ nahm am 16. April
+2019 zur Beschwerdeantwort der Steuerverwaltung Stellung.
+II.
+1.
+1.1
+Gemäss Art. 31 Abs. 2 des Einführungsgesetzes zum
+Bundesgesetz über die Krankenversicherung vom 3. Mai 2015 (EG KVG)
+können Einspracheentscheide der Fachstelle IPV beim Verwaltungsgericht
+angefochten werden, weshalb dieses zur Behandlung der vorliegenden Beschwerde
+zuständig ist. Da auch die übrigen Prozessvoraussetzungen erfüllt sind, ist
+auf die Beschwerde einzutreten.
+1.2
+Gegenstand des vorliegenden Beschwerdeverfahrens
+bildet die Frage, ob die Beschwerdegegnerin zu Recht nicht auf den Antrag des
+Beschwerdeführers auf individuelle Prämienverbilligung für das Jahr 2019
+eingetreten ist.
+2.
+2.1
+Der Beschwerdeführer macht im Wesentlichen geltend,
+er habe sich für das Jahr 2018 fristgemäss zum Bezug von individuellen
+Prämienverbilligungen angemeldet. Er sei nie darauf hingewiesen worden, dass
+für das Jahr 2019 eine erneute Anmeldung notwendig sei. Dies gehe auch nicht
+aus dem Merkblatt IPV oder aus der Publikation im Amtsblatt hervor. Im
+Gegensatz zum Merkblatt IPV des Kantons Glarus sei dasjenige des Kantons
+Zürich viel klarer.
+2.2
+Die Beschwerdegegnerin führt aus, dass der Anspruch
+auf individuelle Prämienverbilligung im Kanton Glarus auf Antrag hin
+ermittelt werde. Für jedes Anspruchsjahr sei ein entsprechender Antrag
+erforderlich, welcher bis zum 31. Januar des Anspruchsjahrs einzureichen
+sei. Werde die Frist verpasst, verwirke der Anspruch. Das früheste Schreiben,
+welches man als Antrag des Beschwerdeführers betrachten könne, sei dasjenige
+vom 13. Februar 2019, weshalb sein Anspruch verwirkt sei. Gründe für eine
+Fristwiederherstellung seien nicht ersichtlich. Sodann sei festzuhalten, dass
+das Departement Finanzen und Gesundheit seiner gesetzlichen Informationspflicht
+rechtsgenügend nachgekommen sei.
+3.
+3.1
+Gemäss Art. 65 Abs. 1 des Bundesgesetzes über die
+Krankenversicherung vom 18. März 1994 (KVG) gewähren die Kantone den
+Versicherten in bescheidenen wirtschaftlichen Verhältnissen
+Prämienverbilligungen. Die Kantone informieren die Versicherten dabei
+regelmässig über das Recht auf Prämienverbilligung (Art. 65 Abs. 4
+KVG). Gestützt auf Art. 3 i.V.m. Art. 15 Abs. 1 der Verordnung
+über den Vollzug der Prämienverbilligung vom 23. Dezember 2013 (Prämien-verbilligungsvollzugsverordnung,
+VV PV) ist im Kanton Glarus dafür die Hauptabteilung Steuern als
+Durchführungsstelle zuständig.
+3.2
+3.2.1
+Nach Art. 17 EG KVG wird der Anspruch auf
+Prämienverbilligung im Kanton Glarus auf Antrag hin ermittelt und
+ausgerichtet (Abs. 1), wobei der Regierungsrat das Verfahren regelt
+(Abs. 2). Dieser hat in Art. 5 Abs. 1 VV PV festgelegt, dass
+der Anspruch auf Prämienverbilligung mit dem dafür vorgesehenen Formular
+geltend gemacht werden muss. Das Formular ist mitsamt den in Art. 5 Abs. 2 VV
+PV genannten Unterlagen bis zum 31. Januar des Anspruchsjahrs bei der
+Durchführungsstelle einzureichen (Art. 6 Abs. 1 VV PV). Erfolgt die
+Geltendmachung des Anspruchs nicht innerhalb dieser Frist, ist er verwirkt
+(Art. 13 Abs. 1 lit. a EG KVG).
+3.2.2
+Verwirkungsfristen dienen der geregelten
+Durchsetzung des materiellen Rechts und können im Sinne der Rechtssicherheit
+weder erstreckt noch unterbrochen werden. Mit dem Eintritt der Verwirkung
+geht der Anspruch grundsätzlich unter (BGE 114 V 123 E. 3). Unter
+bestimmten Voraussetzungen kann jedoch um Wiederherstellung einer Frist
+ersucht werden.
+Ist die
+gesuchstellende Person oder ihre Vertretung unverschuldeterweise abgehalten
+worden, binnen Frist zu handeln, so wird diese wieder hergestellt, sofern sie
+unter Angabe des Grundes innert 30 Tagen nach Wegfall des Hindernisses darum
+ersucht und die versäumte Rechtshandlung nachholt
+(Art. 32 Abs. 2 EG KVG i.V.m. Art. 41 des Gesetzes
+über den Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober 2000
+[ATSG]).
+4.
+4.1
+Ein Vergleich unter den Kantonen der Zentral- und
+Ostschweiz zeigt, dass bezüglich der individuellen Prämienverbilligung sehr
+unterschiedliche Verfahren bestehen. In den Kantonen Uri (Art. 14 Abs. 1 des
+Reglements über die Prämienverbilligung für die
+Krankenpflege-Grundversicherung vom 3. Dezember 2013) und Appenzell
+Innerrhoden (Art. 10 des Standeskommissionsbeschlusses über die
+Prämienverbilligung in der Krankenversicherung vom 2. April 1996) ist im
+Regelfall kein Antrag nötig. Die Prüfung und Berechnung des Anspruchs auf
+individuelle Prämienverbilligung erfolgt von Amtes wegen.
+Im Kanton Graubünden berechnet die
+AHV-Ausgleichskasse für Personen, welche sie am 31. Dezember des Vorjahres
+als anspruchsberechtigt führte, von Amtes wegen die Vorschusszahlung und
+stellt ihnen bis Ende März des laufenden Jahres die Mitteilung über die
+Vorschusszahlung zu. Personen, die von Amtes wegen eine Mitteilung über die
+Vorschusszahlung erhalten, gelten als angemeldet. Übrige Ansprecher haben
+sich bis spätestens Ende des anspruchsberechtigten Jahres anzumelden
+(Art. 14 Abs. 1 und 2, Art. 16 Abs. 2 der Verordnung zum
+Gesetz über die Krankenversicherung und die Prämienverbilligung vom 22.
+November 2011).
+Alle anderen Kantone
+verlangen einen Antrag, wobei es wesentliche Unterschiede gibt. So ermitteln
+die Kantone Thurgau (Amt für Gesundheit, Information zur individuellen
+Prämienverbilligung, www.svztg.ch), St. Gallen (Art. 11 Abs. 1 und Art. 22
+Abs. 1 der Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die
+Krankenversicherung vom 12. Dezember 1995), Schaffhausen (§ 11 der
+Verordnung über den Vollzug des Krankenversicherungsgesetzes vom 9. Juli
+1996), Schwyz (§ 12 Abs. 1 der Vollzugsverordnung zum Einführungsgesetz
+zum Bundesgesetz über die Krankenversicherung vom 4. Dezember 2012), Zug (§
+10 Abs. 1 des Gesetzes betreffend individuelle Prämienverbilligung in der
+Krankenpflegeversicherung vom 15. Dezember 1994), Obwalden (Art. 10 Abs.
+1 der Verordnung zum Einführungsgesetz zum Krankenversicherungsgesetz vom
+28. Januar 1999) und Nidwalden (Art. 21 Abs. 1 des
+Einführungsgesetzes zum Bundesgesetz über die Krankenversicherung vom 25.
+Oktober 2006) die mutmasslich Anspruchsberechtigten und stellen diesen eine
+Bescheinigung oder ein Anmeldeformular zu. Dieses Formular haben die
+Personen, welche individuelle Prämienverbilligung beanspruchen, innert einer
+bestimmten Frist bei der zuständigen Stelle einzureichen, wobei die
+Einreichungsfrist im Zeitraum zwischen dem 30. September des Vorjahrs
+(Schwyz) und dem 31. Dezember des Anspruchsjahrs (Thurgau) abläuft. Alle
+genannten Kantone sehen für den Fall des Verpassens der Einreichefrist die
+Verwirkung des Anspruchs vor.
+Im Kanton Luzern werden
+die voraussichtlich Anspruchsberechtigten nicht individuell informiert. Der
+Antrag auf individuelle Prämienverbilligung ist bis spätestens Ende Oktober
+des Vorjahres einzureichen. Eine Besonderheit sieht der Kanton Luzern für ein
+verspätetes Einreichen des Anmeldeformulars vor. Im Gegensatz zu den
+Regelungen in den anderen Kantonen verwirkt nämlich nicht der ganze Anspruch
+auf Prämienverbilligung. Es werden diejenigen Prämien verbilligt, welche nach
+der Gesuchstellung fällig werden (§ 12 des Gesetzes über die Verbilligung von
+Prämien der Krankenversicherung vom 24. Januar 1995).
+Mit der Regelung des
+Kantons Glarus vergleichbar ist diejenige des Kantons Appenzell Ausserrhoden
+(Art. 10 der Verordnung zum Gesetz über die Einführung des Bundesgesetzes
+über die Krankenversicherung vom 5. Januar 2010). In beiden Kantonen werden
+die potentiell Anspruchsberechtigten nicht individuell informiert. Im Kanton
+Appenzell Ausserrhoden ist der Antrag bis am 31. März des Anspruchsjahrs
+einzureichen, während im Kanton Glarus der Antrag bereits bis zum 31. Januar
+eingereicht werden muss. Bei verspäteter Einreichung des Antrags verwirkt der
+Anspruch auf Prämienverbilligung (vgl. zum Ganzen auch Botschaft des
+Bundesrates zur Änderung des Bundesgesetzes über die Krankenversicherung
+[Prämienverbilligung] und zum Bundesbeschluss über die Bundesbeiträge in der
+Krankenversicherung vom 26. Mai 2004, BBl 2004 4327 ff., 4337).
+4.2
+Die Regelung im Kanton Glarus erweist sich im
+interkantonalen Vergleich als wenig bürgerfreundlich. Aus der Gerichtspraxis
+ist denn auch ersichtlich, dass aufgrund der fehlenden individuellen
+Information der voraussichtlich Anspruchsberechtigten und des frühen
+Fristablaufs am 31. Januar des Anspruchsjahrs Personen, welche grundsätzlich
+Anspruch auf individuelle Prämienverbilligung hatten, keine solche
+zugesprochen wurde, weil sie die Frist zur Einreichung des Antrags verpasst
+hatten.
+4.3
+Indessen ist zu berücksichtigen, dass die Kantone
+die Ausführungsbestimmungen zur Gewährung der individuellen
+Prämienverbilligung zu erlassen haben (Art. 97 Abs. 1 KVG). Ihnen kommt
+nicht nur bezüglich der materiell-rechtlichen Anspruchsberechtigung, sondern
+auch hinsichtlich des Verfahrens ein erheblicher Gestaltungsspielraum zu. Bei
+den Ausführungsbestimmungen handelt es sich somit um autonomes kantonales
+Recht (BGE 136 I 220 E. 4.1, 124 V 19 E. 2; BGer-Urteil 8C_228/2018 vom 22.
+Januar 2019 E. 3, zur Publikation vorgesehen).
+4.4
+Bundesrechtlich vorgeschrieben ist aber eine
+regelmässige Information der Versicherten über das Recht auf
+Prämienverbilligung (Art. 65 Abs. 4 KVG). Das Verwaltungsgericht hat bereits
+in einem anderen Fall entschieden, dass der Kanton mit der Information über
+die individuelle Prämienverbilligung im Amtsblatt des Kantons Glarus (vgl.
+Amtsblatt vom 15. November 2018), in der Gratiszeitung Fridolin, auf der
+Homepage des Kantons sowie auf www.glarus24.ch der Informationspflicht genügt
+(VGer-Urteil VG.2015.00045 vom 18. Juni 2015 E. II/4.1). Sodann ist nicht
+ersichtlich, dass das kantonal vorgesehene Verfahren in anderer Weise gegen
+Bundesrecht verstösst.
+5.
+5.1
+Es ist unbestritten, dass der Beschwerdeführer bis
+am 31. Januar 2019 bei der Beschwerdegegnerin keinen Antrag auf individuelle
+Prämienverbilligung für das Jahr 2019 gestellt hatte. Erst in seinem
+Schreiben vom 13. Februar 2019 beantragte er zumindest sinngemäss
+individuelle Prämienverbilligung für das aktuelle Jahr. Damit hat er die
+Antragsfrist verpasst, weshalb sein Anspruch nach dem Dargelegten
+grundsätzlich verwirkt ist.
+5.2
+Der Beschwerdeführer macht aber geltend, er habe
+aufgrund der Ausführungen im Amtsblatt und im kantonalen Merkblatt IPV davon
+ausgehen dürfen, dass sein für das Jahr 2018 gestellter Antrag auch für das
+Jahr 2019 gelte. Dies trifft nicht zu. So wird im Amtsblatt ausdrücklich
+darauf hingewiesen, dass der Antrag in jedem Anspruchsjahr aufs Neue zu
+stellen ist, wobei das Antragsformular bis spätestens am 31. Januar 2019
+einzureichen ist. Im Merkblatt IPV wird hingegen nicht explizit ausgeführt,
+dass der Antrag für jedes Jahr erneut zu stellen ist. Insofern ist die
+Argumentation des Beschwerdeführers bis zu einem gewissen Grad
+nachvollziehbar. Allerdings ergibt sich das Erfordernis der jährlichen
+Antragstellung aus dem Sachzusammenhang. So wird darüber informiert, dass die
+individuelle Prämienverbilligung 2019 (nur) auf Antrag ausgerichtet wird.
+Zudem wird auch hier auf die Einreichungsfrist hingewiesen.
+Die Sichtweise des
+Beschwerdeführers, wonach der für das Jahr 2018 gestellte Antrag auch für das
+Jahr 2019 gültig sei, lässt sich weder aus der Publikation im Amtsblatt noch
+aus dem Merkblatt IPV eindeutig herleiten. Soweit der Beschwerdeführer darauf
+hinweist, dass Personen mit einem Anspruch auf Ergänzungsleistungen die
+individuelle Prämienverbilligung von der Durchführungsstelle von Amtes wegen
+ausgerichtet wird, trifft dies zwar zu (vgl. Art. 20 Abs. 1 VV
+PV). Allerdings kann der Beschwerdeführer, welcher keine Ergänzungsleistungen
+bezieht, daraus nichts zu seinen Gunsten ableiten. Massgebend bleibt, dass
+das Erfordernis eines Antrags für jedes Anspruchsjahr gesetzlich
+vorgeschrieben ist, was aus der kantonalen Information in genügender Weise
+hervorgeht.
+5.3
+Schliesslich macht der Beschwerdeführer keine Gründe
+für eine Wiederherstellung der Antragsfrist geltend. Solche sind auch nicht
+aus den Akten ersichtlich.
+5.4
+Zusammenfassend ergibt sich, dass das Verfahren zum
+Erlangen von individueller Prämienverbilligung im Kanton Glarus streng, aber
+nicht bundesrechtswidrig ist. Der Beschwerdeführer verpasste die Frist zur
+Einreichung seines Antrags auf individuelle Prämienverbilligung für das Jahr
+2019, weshalb sein Anspruch verwirkte. Der angefochtene Entscheid erweist
+sich daher als rechtskonform, was zur Abweisung der Beschwerde führt.
+III.
+1.
+Die Gerichtskosten sind
+von Gesetzes wegen auf die Staatskasse zu nehmen (Art. 32 Abs. 2 EG KVG
+i.V.m. Art. 61 lit. a ATSG).
+2.
+Da dem Beschwerdeführer
+keine Gerichtskosten aufzuerlegen sind, ist sein Gesuch um Gewährung der
+unentgeltlichen Prozessführung als gegenstandslos geworden abzuschreiben.
+Demgemäss beschliesst die Kammer
+:
+Das Gesuch des Beschwerdeführers um Gewährung der
+unentgeltlichen Prozessführung wird als gegenstandslos geworden
+abgeschrieben.
+und erkennt sodann:
+1.
+Die Beschwerde wird abgewiesen.
+2.
+Die Gerichtskosten werden auf die Staatskasse
+genommen.
+3.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
