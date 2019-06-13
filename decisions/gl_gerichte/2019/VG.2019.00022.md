@@ -1,0 +1,684 @@
+---
+decision_id: "gl_gerichte_VG.2019.00022"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2019.00022"
+docket_2: "VG.2019.806"
+decided: "2019-06-13"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1112&W10_KEY=218274&nTrefferzeile=2&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-006.md", "switzerland/bund/acts/830.1/art-017.md", "switzerland/bund/acts/830.1/art-025.md", "switzerland/bund/acts/830.1/art-031.md", "switzerland/bund/acts/830.1/art-043.md", "switzerland/bund/acts/830.1/art-049.md", "switzerland/bund/acts/830.1/art-051.md", "switzerland/bund/acts/830.1/art-053.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/830.11/art-003.md", "switzerland/bund/acts/830.11/art-004.md", "switzerland/bund/acts/832.20/art-001.md", "switzerland/bund/acts/832.20/art-010.md", "switzerland/bund/acts/832.20/art-016.md"]
+---
+
+# GL Gerichte VG.2019.00022
+
+## Regeste
+
+Sozialversicherung - Unallversicherung
+
+## Text
+
+Glarus Verwaltungsgericht 13.06.2019 VG.2019.00022 (VG.2019.806)
+Glaris Verwaltungsgericht 13.06.2019 VG.2019.00022 (VG.2019.806)
+Glarona Verwaltungsgericht 13.06.2019 VG.2019.00022 (VG.2019.806)
+
+Sozialversicherung - Unallversicherung
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+13. Juni 2019
+II. Kammer
+in Sachen
+VG.2019.00022
+A.______
+Beschwerdeführer
+vertreten durch Rechtsanwalt B.______
+gegen
+Schweizerische
+Unfallversicherungsanstalt (Suva)
+Beschwerdegegnerin
+betreffend
+Rückerstattung Taggelder
+Die Kammer zieht in Erwägung:
+1.1
+Der am […] geborene A.______ arbeitete seit dem 22.
+Oktober 2012 als Angestellter Administration bei der C.______AG. Entsprechend
+war er bei der Suva gegen die Folgen von Berufs- und Nichtberufsunfällen
+versichert. Am 23. Januar 2015 stürzte er beim Snowboarden, wobei er
+sich einen Trümmerbruch am oberen linken Sprunggelenk zuzog. Die Suva übernahm
+die Versicherungsleistungen für die Folgen dieses Nichtberufsunfalls.
+1.2
+A.______ begab sich nach dem Unfall umgehend in
+ärztliche Behandlung ins Spital D.______, wo er sich zwecks Durchführung von
+mehreren Operationen bis am 9. Februar 2015 befand. Entsprechend musste er
+seine Arbeitstätigkeit ab dem Unfalldatum zuerst vollständig und ab dem 3.
+August 2015 im Umfang von 80 % aussetzen. Aufgrund einer erneuten
+Operation am 9. September 2016 erfolgte abermals eine 100%ige
+Krankschreibung. In der Folge wurde A.______ am 27. Februar 2017
+kreisärztlich untersucht, während er ab dem 10. April 2017 seine Arbeit in
+einem 25 %-Pensum wieder aufnahm. Am 30. April 2017 endete sein
+Arbeitsverhältnis bei der C.______AG.
+2.
+2.1
+Am 17. August 2017 schloss A.______ mit Wirkung ab
+15. Juli 2017 mit der E.______GmbH einen unbefristeten Arbeitsvertrag
+mit einem Arbeitspensum von vier bis acht Stunden ab. A.______ wurde als
+Hilfsbauführer im Stundenlohn angestellt. Am 5. September 2017 fand ein
+Standortgespräch statt, an welchem A.______, sein Vorgesetzter, ein Vertreter
+der IV-Stelle Glarus wie auch eine Vertreterin der Suva teilnahmen.
+Anlässlich dieses Gesprächs wurde der Abschluss eines Arbeitsvertrags mit
+einem fixen Monatslohn basierend auf einem 25 %-Pensum in Aussicht
+gestellt.
+2.2
+Anlässlich des Standortgesprächs vom 5. Dezember
+2017 übergab A.______ der Suva den neu ausgestellten Arbeitsvertrag, welcher
+ein Arbeitspensum von 25 % und einen monatlichen Fixlohn vorsah.
+2.3
+Am 5. März 2018 reichte A.______ der Suva die
+Stundenrapporte der Monate Oktober 2017 bis Anfang März 2018 ein. Am 27. März
+2018 übermittelte die F.______ AG, für welche A.______ zu jener Zeit im
+Auftrag seiner Arbeitgeberin tätig war, der Suva die der E.______ GmbH
+bezahlten Honorarrechnungen sowie die dazugehörigen Stundenkarten von Ende
+Juni 2017 bis Ende Januar 2018. Nach telefonischer Rücksprache mit Vertretern
+der F.______ AG stellte die Suva am 9. April 2018 die
+Taggeldleistungen von A.______ vorübergehend ein und lud ihn zu einem Gespräch
+ein.
+2.4
+Anlässlich des Gesprächs vom 24. April 2018 gab die
+Suva A.______ die Möglichkeit, sich zum gegen ihn erhobenen Vorwurf, dass
+seine Arbeitsleistung deutlich besser sei als von ihm angegeben, zu äussern.
+Dabei beantwortete A.______ die ihm von der Suva gestellten Fragen und
+reichte Unterlagen ein. Anfang Mai 2018 reichte er zusätzliche Unterlagen
+nach.
+2.5
+Am 16. Mai 2018 forderte die Suva die E.______GmbH
+auf, zu den Abrechnungen und Stundenlisten Stellung zu nehmen. Letztere
+ersuchte am 26. Mai 2018 um ein gemeinsames Gespräch. Am 30. Mai 2018
+forderte die Suva von der E.______GmbH erneut eine Stellungnahme ein.
+Letztere antwortete am 8. Juni 2018. Nachdem die Suva die E.______GmbH am 12.
+Juni 2018 abermals um eine Stellungnahme sowie um die Einreichung von
+Unterlagen gebeten hatte, liess sich diese am 20. Juni 2018 erneut
+vernehmen, ohne Unterlagen einzureichen.
+3.
+Mit Verfügung vom 29. Juni
+2018 forderte die Suva von A.______ die nach dem 26. Juni 2017 bezahlten
+Taggelder im Umfang von Fr. 41'738.40 zurück. Dieser erhob am 2. August
+2018 Einsprache, welche er am 27. September 2018 einlässlich begründete.
+Am 25. Januar 2019 wies die Suva die Einsprache ab.
+4.
+Gegen den abschlägigen
+Einspracheentscheid der Suva gelangte A.______ mit Beschwerde vom 28. Februar
+2019 ans Verwaltungsgericht und beantragte, diesen sowie die Verfügung vom
+29. September 2018 aufzuheben, eventuell sei eine Teilrückzahlung von
+50 % ab dem 8. Februar 2018 anzuordnen; alles unter Kosten- und
+Entschädigungsfolgen zu Lasten der Suva. Letztere ersuchte am 16. Mai 2019 um
+Abweisung der Beschwerde.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 1 Abs. 1 des Bundesgesetzes über die Unfallversicherung vom 20.
+März 1981 (UVG) i.V.m. Art. 56 ff. des Bundesgesetzes über den Allgemeinen
+Teil des Sozialversicherungsrechts vom 6. Oktober 2000 (ATSG) i.V.m.
+Art. 1 des Einführungsgesetzes zum Bundesgesetz über die Unfallversicherung
+vom 3.
+Mai 2009 (EG UVG) zur
+Behandlung der vorliegenden Beschwerde zuständig. Da auch die übrigen
+Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde einzutreten.
+2.
+2
+.1
+Der Versicherte hat gemäss Art. 10 Abs. 1 UVG Anspruch auf die zweckmässige
+Behandlung seiner Unfallfolgen. Ist er infolge des Unfalls voll oder
+teilweise arbeitsunfähig (Art. 6 ATSG), so hat er gemäss Art. 16 Abs. 1 UVG
+Anspruch auf ein Taggeld. Der Anspruch auf ein Taggeld entsteht am dritten
+Tag nach dem Unfalltag. Er erlischt mit der Wiedererlangung der vollen
+Arbeitsfähigkeit, mit dem Beginn einer Rente oder mit dem Tod des
+Versicherten (Art. 16 Abs. 2 UVG).
+2.2
+Nach Art. 25 Abs. 1 ATSG und Art. 2 Abs. 1 lit. a
+der Verordnung über den Allgemeinen Teil des Sozialversicherungsrechts vom
+11. September 2002 (ATSV) sind Bezüger von unrechtmässig gewährten Leistungen
+rückerstattungspflichtig. Über den Umfang dieser Rückforderung wird eine
+Verfügung erlassen (Art. 3 Abs. 1 ATSV). Die Rückerstattung unrechtmässig
+gewährter Leistungen wird bei Vorliegen einer grossen Härte jedoch ganz oder
+teilweise erlassen, sofern der Bezüger diese in gutem Glauben empfangen hat
+(Art. 4 Abs. 1 ATSV).
+Damit erfolgt die
+Festlegung einer (allfälligen) Rückerstattung in einem dreistufigen
+Verfahren. In einem ersten Schritt ist über die Frage der Unrechtsmässigkeit
+des Bezugs der Leistung zu befinden, wobei insbesondere auf Art. 53 ATSG
+bzw. Art. 17 ATSG abzustellen ist. Daran schliesst sich der
+Entscheid über die Rückerstattung an, mit dem insbesondere zu beantworten
+ist, ob im Falle der festgestellten Unrechtmässigkeit des Leistungsbezugs
+eine rückwirkende Korrektur erfolgt. Schliesslich ist in einem dritten
+Schritt gegebenenfalls über den Erlass der zurückzuerstattenden Leistung zu
+entscheiden (
+Ueli Kieser, ATSG-Kommentar, 3. A.,
+Zürich/Basel/Genf 2015,
+Art. 25 N. 9).
+2.3
+Art. 25 Abs.
+1 ATSG knüpft die Rückerstattungspflicht an einen unrechtmässigen Bezug der
+Leistung an. Die Unrechtmässigkeit einer bereits bezogenen Leistung ergibt
+sich aufgrund einer Wiedererwägung der leistungszusprechenden Verfügung (Art.
+53 Abs. 2 ATSG), aufgrund einer prozessualen Revision der leistungszusprechenden
+Verfügung (Art. 53 Abs. 1 ATSG) oder aber aufgrund einer Anpassung der
+leistungszusprechenden Verfügung (Art. 17 Abs. 2 ATSG; vgl.
+VGer-Urteil VG.2016.00091 vom 1. Dezember 2016
+E. II/4.2
+).
+Formell rechtskräftige
+Verfügungen müssen in Revision gezogen werden, wenn die versicherte Person
+oder der Versicherungsträger nach deren Erlass erhebliche neue Tatsachen
+entdeckt oder Beweismittel auffindet, deren Beibringung zuvor nicht möglich
+war (Art. 53 Abs. 1 ATSG). Der Versicherungsträger kann auf formell
+rechtskräftige Verfügungen zurückkommen, wenn diese zweifellos unrichtig sind
+und wenn ihre Berichtigung von erheblicher Bedeutung ist (Art. 53 Abs. 2
+ATSG). Damit betreffen die in Art. 53 ATSG geregelte Revision und
+Wiedererwägung Fälle, in welchen der ursprünglich getroffene Entscheid
+anfänglich unrichtig war. Im Gegensatz dazu bezieht sich die in Art. 17 ATSG
+geregelte Anpassung auf eine nachträgliche Änderung des massgeblichen
+Sachverhalts (
+Kieser,
+Art. 17 N. 4 f., Art. 53
+N. 11). Entsprechend ordnet Art. 17 Abs. 2 ATSG eine Erhöhung,
+Herabsetzung oder Aufhebung einer formell rechtskräftigen Dauerleistung an,
+wenn sich der ihr zu Grunde liegende Sachverhalt nachträglich erheblich
+verändert.
+2.4
+Der
+Entscheid, mit dem eine Leistung zugesprochen wird, ist in der Regel eine
+Verfügung (vgl. Art. 49 Abs. 1 ATSG). Allerdings lässt Art. 51 ATSG auch
+die formlose Zusprache von Leistungen zu. Auch bezüglich eines solchen
+Entscheids ist eine Wiedererwägung bzw. eine Revision möglich, wobei
+bezüglich des Eintritts der Rechtskraft diejenigen Voraussetzungen gelten,
+wie sie für eine formelle Verfügung massgebend sind (Kieser, Art. 25
+N. 15, mit Hinweisen; BGE 129 V 110). Die formlos zugesprochenen
+Leistungen gelten nach Ablauf eines der Rechtsmittelfrist bei formellen
+Verfügungen entsprechenden Zeitraums als rechtsbeständig (SVR 2003 KV
+Nr. 11 E. 4.1 und 4.2), womit für deren Abänderung die
+Voraussetzungen von Art. 53 ATSG oder Art. 17 ATSG erfüllt sein
+müssen.
+2.5
+Gemäss Art. 31 Abs. 1 ATSG ist jede wesentliche
+Änderung in den für eine Leistung massgebenden Verhältnissen von den
+Bezügern, ihren Angehörigen oder Dritten, denen die Leistung zukommt, dem
+Versicherungsträger oder dem jeweils zuständigen Durchführungsorgan zu
+melden. Eine wesentliche Änderung liegt vor, wenn dadurch eine nicht bloss
+geringfügige Auswirkung auf den Leistungsanspruch erfolgt. Sodann kann sich
+die Meldepflicht nur auf Sachverhaltsänderungen beziehen, um welche die
+betreffende Person sowohl bezüglich ihres Vorliegens als auch hinsichtlich
+der Auswirkungen auf den Leistungsanspruch weiss bzw. wissen müsste.
+Insoweit ist ein schuldhaftes Fehlerverhalten erforderlich, wobei bereits
+eine leichte Fahrlässigkeit genügt (Kieser, Art. 31 N. 7 ff.;
+BGE 112 V 97 E. 2a).
+3.
+3.1
+Der Versicherungsträger prüft die Begehren, nimmt
+die notwendigen Abklärungen von Amtes wegen vor und holt die erforderlichen
+Auskünfte ein (Art. 43 Abs. 1 ATSG). Im Rahmen der
+Verfahrensleitung kommt ihm ein grosser Ermessensspielraum bezüglich
+Notwendigkeit, Umfang und Zweckmässigkeit von medizinischen Erhebungen zu.
+Was zu beweisen ist, ergibt sich aus der jeweiligen Sach- und Rechtslage.
+Gestützt auf den Beweisgrad ist der Sachverhalt so weit zu ermitteln, dass über
+den Leistungsanspruch zumindest mit dem Beweisgrad der überwiegenden
+Wahrscheinlichkeit entschieden werden kann (BGer-Urteil 8C_815/2012 vom
+21. Oktober 2013 E. 3.2.1).
+3.2
+Nach dem für das gesamte Verwaltungs- und
+Verwaltungsgerichts-beschwerdeverfahren geltenden Grundsatz der freien
+Beweiswürdigung haben Versicherungsträger und Sozialversicherungsgerichte die
+Beweise frei, d.h. ohne Bindung an förmliche Beweisregeln, sowie
+umfassend und pflichtgemäss zu würdigen. Für das Beschwerdeverfahren bedeutet
+dies, dass das Gericht alle Beweismittel unabhängig davon, von wem sie
+stammen, objektiv zu prüfen und danach zu entscheiden hat, ob die verfügbaren
+Unterlagen eine zuverlässige Beurteilung des streitigen Rechtsanspruchs
+gestatten. Insbesondere darf es bei einander widersprechenden medizinischen
+Berichten den Prozess nicht erledigen, ohne das gesamte Beweismaterial zu
+würdigen und die Gründe anzugeben, warum es auf die eine und nicht auf die
+andere medizinische These abstellt (BGE 125 V 351 E. 3a).
+3.3
+Aufgrund der Untersuchungsmaxime tragen die
+Parteien im Sozialversiche-rungsprozess in der Regel eine Beweislast nur
+insofern, als im Falle der Beweislosigkeit der Entscheid zu Ungunsten jener
+Partei ausfällt, die aus dem unbewiesen gebliebenen Sachverhalt Rechte
+ableiten wollte. Diese Beweisregel greift allerdings erst Platz, wenn es
+unmöglich ist, im Rahmen des Untersuchungsgrundsatzes aufgrund einer Beweiswürdigung
+den Sachverhalt zu ermitteln, der zumindest die Wahrscheinlichkeit für sich
+hat, der Wirklichkeit zu entsprechen (BGer-Urteil I 141/07 vom 19. Juni
+2007 E. 3.4).
+4.
+4.1
+Der Beschwerdeführer macht geltend, dass er seine
+Arbeitsfähigkeit wie auch deren Erhöhung bis auf ein 50%-Pensum stets mit der
+Beschwerdegegnerin besprochen habe. Diese habe sich dahingehend geäussert,
+sie werde weiterhin Leistungen für ein 25%iges Arbeitspensum erbringen,
+Anpassungen würden zu einem späteren Zeitpunkt erfolgen. Entgegen den
+Ausführungen der Beschwerdegegnerin sei er zu keinem Zeitpunkt in einem
+Vollzeitpensum tätig gewesen, entsprechend habe er jeweils nur den mit seiner
+Arbeitgeberin für ein Pensum vom 25 % vereinbarten Lohn von monatlich
+Fr. 1'500.- erhalten. Er sei aufgrund seiner körperlichen
+Einschränkungen am Fuss gar nicht in der Lage, einer Vollzeittätigkeit als
+Bauführer nachzugehen, was die Beschwerdegegnerin nicht berücksichtige. Er
+habe von den von seiner Arbeitgeberin vorgenommenen Abrechnungen gegenüber
+der F.______ AG keine Kenntnis gehabt und auch keine Kenntnis haben
+müssen, da diese Abrechnungen das Auftragsverhältnis der vorerwähnten beiden
+Parteien beträfen, nicht aber sein Arbeitsverhältnis mit der E.______GmbH.
+Zwar habe in der Vergangenheit ein schleppender Informationsfluss
+stattgefunden, doch habe er immer sämtliche geforderten Informationen
+beigebracht, was den Notizen der verschiedenen Standortgespräche zu entnehmen
+sei. Richtig sei, dass er sich für die Erledigung seiner Arbeitstätigkeit
+auch auf der Baustelle in […] befunden habe, was die Vertreter der
+F.______ AG entsprechend ausführten. Allerdings sei er aufgrund des
+lädierten Fusses langsam und pausenanfällig gewesen, weshalb seine
+Anwesenheit auf der Baustelle nicht mit seiner tatsächlichen Arbeitsleistung
+übereingestimmt habe. Zudem habe die Beschwerdegegnerin bzw. die IV-Stelle
+Termine für Standortgespräche fortlaufend verschoben, weshalb er in
+berechtigter Weise davon habe ausgehen dürfen, die vereinbarte Situation
+betreffend die Steigerung seiner Arbeitstätigkeit bis 50 % sei
+weiterzuführen. Schliesslich würde eine Rückerstattung der bezogenen
+Taggelder bedeuten, dass er für die betreffende Zeitspanne weder Lohn noch
+Taggelder von der Beschwerdegegnerin erhalten habe, was dazu führen würde,
+dass er gegen seinen jetzigen Arbeitgeber arbeitsrechtlich vorgehen müsste.
+Dies sei aber nicht zielführend, da er keinen höheren Lohn geltend machen
+könne, weil er die entsprechende Arbeitsleistung nicht erbracht habe. Zudem
+sei er mittellos, womit er eine Rückzahlung nicht bewerkstelligen könne. Im
+Sinne eines Eventualantrags ersuche er um eine Rückzahlung von 50 % der
+erbrachten Taggeldleistungen seit 8. Februar 2018, da das Arbeitspensum
+von 50 % damals der Beschwerdegegnerin kommuniziert worden sei.
+4.2
+Die Beschwerdegegnerin stellt sich hingegen auf den
+Standpunkt, dass für die Festlegung des vom Beschwerdeführer tatsächlich
+ausgeübten Arbeitspensums auf die glaubwürdigen Ausführungen der
+F.______ AG sowie auf die Abrechnungen der E.______GmbH abzustellen sei.
+Es sei irrelevant, ob der Beschwerdeführer von diesen Abrechnungen Kenntnis gehabt
+habe. Zudem erscheine es unglaubwürdig, dass die E.______GmbH der
+F.______ AG vom Beschwerdeführer geleistete Arbeiten in Rechnung
+gestellt habe, ohne ihn dafür zu entschädigen. Weiter sei der
+Beschwerdeführer überwiegend im Büro tätig gewesen, weshalb sich die
+Fussbeschwerden nicht in dem von ihm angegebenen Ausmass auf seine
+Arbeitsfähigkeit hätten auswirken können. Daher sei von einer vollen
+Arbeitsfähigkeit ab 26. Juni 2017 auszugehen. Zwar habe sie
+Standortgespräche verschoben, doch ändere dies nichts an der dem
+Beschwerdeführer obliegenden Meldepflicht, zumal dieser sogar eingestehe,
+davon ausgegangen zu sein, Änderungen betreffend die erhaltenen Taggelder
+würden nachträglich vorgenommen werden müssen. Entsprechend sei dem
+Beschwerdeführer klar gewesen, dass er keinen Anspruch auf die Leistungen im
+empfangenen Umfang habe, weshalb kein gutgläubiger Empfang vorliege.
+Schliesslich belege der Beschwerdeführer nicht, dass die Rückzahlung für ihn
+eine grosse Härte bedeuten würde, womit die Rückerstattung nicht zu erlassen
+sei.
+5.
+5.1
+Im Austrittsbericht des Spitals D.______ vom 9.
+Februar 2015 diagnostizierten Dr. med. G.______, Chefarzt,
+Dr. med. H.______, leitender Arzt, und I.______, Assistenzarzt,
+eine komplexe Pilonfraktur links (AO 43-C3) mit Zerstörung der gesamten
+distalen Gelenkszirkumferenz und massiver Dislokation der Hauptfragmente,
+Einklemmung des Nervus Tibialis zwischen den dorsalen Frakturfragmenten,
+laterozentralem Knorpeldefekt bei mehreren kleinflächigen Knorpelschuppen und
+oberflächlichem, aber ausgedehntem Knorpelschaden am Talus. Am 20. März
+2015 berichtete Dr. H.______ in radiologischer Hinsicht von einem
+erwartungsgemässen Verlauf nach komplexer Verletzung. Die
+Bewegungseinschränkung sei durch Verklebung zu erklären und die Wundheilstörung
+scheine unter Kontrolle zu sein. Schwierig sei jedoch die aktuelle
+Schmerzproblematik. Am 30. April 2015 attestierte Dr. H.______ einen
+langwierigen Verlauf bei äusserst komplexer Fraktur mit deutlicher
+Weichteilproblematik. Die Schmerzen in der Fusssohle würden als weitgehend
+neuropatisch bedingt eingeschätzt, wobei der Nerv intakt erscheine. Der
+Heilungsverlauf werde noch mehrere Monate dauern. Anlässlich der
+Verlaufskontrolle vom 8. Juni 2015 hielt Dr. H.______ eine Veränderung
+der Schmerzen in der Fusssohle fest, wobei weiterhin Schmerzmittel
+verabreicht würden. Die Fusssohle habe sich gut erholt und die Sensibilität
+habe sich auch weitgehend stabilisiert. Die ossären Strukturen seien in
+Heilung, allerdings bestehe eine relativ ausgeprägte Muskelatrophie. Wegen
+den Schmerzen würden sich diesbezüglich in nächster Zeit keine massiven
+Fortschritte ergeben. Die längerfristigen Prognosen seien nicht allzu
+optimistisch, Massnahmen wie eine Sprunggelenksprothese oder eine Arthrodese
+seien wahrscheinlich. Am 13. September 2015 wies Dr. H.______
+insbesondere auf belastungsabhängige Schmerzen im Gelenksbereich bei
+progredienter Arthrose und residueller, teilweise defektbedingter Inkongruenz
+der Gelenksfläche hin. Die CT-Untersuchung vom 9. September 2015 habe
+eine relativ gute Konsolidation der metaphysären Frakturzone mit einer
+Gelenkfläche, welche aufgrund der Defekte und des nicht absolut eingepassten,
+zentralen Restfragments eine relevante Inkongruenz aufweise, gezeigt.
+5.2
+Dr. med. J.______, Oberarzt Orthopädie der Klinik
+K.______, und Dr. med. L.______, Assistenzarzt, stellten nach einer
+CT-Untersuchung am 27. Januar 2016 fest, dass keine effiziente
+Durchbauung der Pilon Tibiale-Fraktur vorhanden sei, weshalb eine Entfernung
+des Osteosynthesematerials noch nicht durchgeführt werden könne. In sechs
+Monaten werde ein neuer CT-Befund erhoben und dann entschieden, ob eine
+Osteosynthesematerialentfernung und eine OSG-Arthroskopie sinnvoll seien oder
+direkt eine OSG-Arthrodese geplant werde. Med. pract. M.______,
+Facharzt Neurochirurgie FMH und Kreisarzt der Beschwerdegegnerin, erklärte
+sich am 9. Februar 2016 mit diesem Vorgehen ein-verstanden. Er wies
+zudem daraufhin, dass davon auszugehen sei, dass eine 80%ige Arbeitsunfähigkeit
+bestehen bleibe.
+5.3
+Am 27. Juli 2016 wies Dr. H.______ auf
+deutliche Fortschritte hin. Der Beschwerdeführer sei seit gut einem Monat
+praktisch ohne Schmerzmittel bei insgesamt erträglichen Beschwerden. Er sei
+weiterhin in einem 20 %-Pensum als Bauführer tätig. Im Alltag trage er
+leichte Schuhe mit orthopädischen Einlagen, womit er relativ gut und sicher
+unterwegs sei. Nach längeren Gehstrecken würden sich jedoch zunehmende
+Beschwerden und eine Schwellung im Sprunggelenkbereich zeigen. Die
+Arbeitsunfähigkeit betrage vorderhand weiterhin 80 %.
+5.4
+Am 9. September 2016 führten
+Dr. med. N.______, Oberarzt i.V. Orthopädie der Klinik
+K.______, und Dr. med. O.______, Assistenzarzt, eine palliative
+OSG-Arthroskopie mit Débridement und Mikrofrakturierung links sowie eine
+partielle Osteosynthesematerialentfernung bei der distalen Tibia links durch.
+Ab dem Operationsdatum sei der Beschwerdeführer zu 100 % arbeitsunfähig,
+wobei eine Arbeitswiederaufnahme als Bauführer gemäss Bericht vom
+7. Dezember 2016 nach der Abgabe von orthopädischen Serienschuhen
+geplant werde.
+5.5
+Med. pract. M.______ untersuchte den
+Beschwerdeführer am 27. Februar 2017 kreisärztlich. Er diagnostizierte eine
+posttraumatische OSG-Arthrose mit deutlich eingeschränkter funktioneller
+Belastbarkeit und chronischem Schmerzsyndrom. Klinisch zeige sich eine
+signifikante Bewegungs- und Belastungseinschränkung für den linken Fuss.
+Bedingt durch die Beschwerden sei der Versicherte beruflich, selbst in einer
+Bürotätigkeit, nur sehr limitiert einsetzbar. Aufgrund der fortgeschrittenen
+Arthrose und dem ausbleibenden Behandlungserfolg sei eine Arthrodese zu
+empfehlen. Beruflich sei unter den aktuell gegebenen Beschwerden eine
+Reintegration nur unter folgendem Zumutbarkeitsprofil möglich: Rein sitzende
+Tätigkeit mit der Möglichkeit, das Bein hochzulegen, zudem seien individuelle
+Pausen bis ca. eine Stunde pro Arbeitstag notwendig. Treppen, Leitern
+und Gerüste seien nicht zu besteigen, ebenso sei kein Knien/Hocken möglich
+wie auch kein Laufen auf unebenem oder glattem Untergrund.
+5.6
+Mit Wirkung ab 10. April 2017 attestierte der
+Hausarzt des Beschwerdeführers, Dr. med. P.______, Facharzt
+allgemeine innere Medizin, dem Beschwerdeführer eine Arbeitsfähigkeit von
+25 %. Dieser Einschätzung schloss sich Dr. med. Q.______,
+Facharzt orthopädische Chirurgie FMH, am 17. Mai 2017 an. Am 20. Juni 2017
+schloss die Klinik K.______ unter dem Hinweis auf die längerfristig notwendig
+werdende OSG-Arthrodese die Behandlung des Beschwerdeführers ab.
+5.7
+Kreisarzt med. pract. R.______, Facharzt
+für Chirurgie, diagnostizierte anlässlich der kreisärztlichen Untersuchung
+des Beschwerdeführers vom 6. Dezember 2018 eine posttraumatische
+OSG-Arthrose mit deutlich eingeschränkter funktioneller Belastbarkeit und
+chronischem Schmerzsyndrom. Beim Beschwerdeführer bestehe nach
+mehrfragmentärer Pilon tibila-Fraktur aus dem Jahr 2015 eine fortgeschrittene
+posttraumatische Arthrose des oberen Sprunggelenks links. Als überwiegend
+wahrscheinliche Unfallfolgen fänden sich objektiv eine signifikante Bewegungseinschränkung
+im Bereich des linken oberen Sprunggelenks, eine deutliche Muskelminderung im
+Bereich des linken Ober- und Unterschenkels, die radiologischen Zeichen einer
+OSG-Arthrose und einer Osteopenie sowie die reizlosen Operationsnarben. Wegen
+einer traumatischen Kompressionsschädigung des Nervus tibialis finde sich
+zusätzlich eine Dysästhesie im Versorgungsgebiet des Nervs, allerdings liege
+keine vollständige Lähmung vor. Aufgrund der Unfallfolgen sei die
+Erheblichkeitsgrenze eines Integritätsschadens erreicht. Dieser sei auf
+20 % zu schätzen.
+6.
+6.1
+Um die allenfalls vom Beschwerdeführer zu leistende
+Rückerstattung von bezogenen Taggeldern festlegen zu können, ist in einem
+ersten Schritt die Frage zu klären, ob dieser von der Beschwerdegegnerin unrechtmässig
+Leistungen bezogen hat.
+Die Beschwerdegegnerin gab
+dem Beschwerdeführer mit formlosem Schreiben vom 9. Februar 2015
+bekannt, für die Unfallfolgen die Versicherungsleistungen zu erbringen. Im
+genannten Schreiben setzte sie unter anderem das dem Beschwerdeführer
+zustehende Taggeld fest und richtete dieses in der Folge aus. Damit eröffnete
+die Beschwerdegegnerin dem Beschwerdeführer eine formlose Leistungszusprache,
+welcher sie bis zur vorübergehenden Leistungseinstellung am 9. April
+2018 und damit über einen Zeitraum von mehr als zwei Jahren – unter Anpassung
+an das jeweils vom Beschwerdeführer als ausgeübt bezeichnete Arbeitspensum –
+unwidersprochen nachkam. Folglich erreichte die formlose Leistungszusprache
+von Anfang Februar 2015 Rechtsbeständigkeit, womit für deren nachträgliche
+und rückwirkende Abänderung die Voraussetzungen von Art. 53 ATSG oder aber
+von Art. 17 ATSG erfüllt sein müssen (vgl. E. II/2.4 vorne).
+Dem Beschwerdeführer steht
+aufgrund des Unfallereignisses von Januar 2015 ein grundsätzlicher Anspruch
+auf Versicherungsleistungen und damit insbesondere auf Taggeldleistungen der
+Beschwerdegegnerin zu, was Letztere nicht in Frage stellt. Daraus folgt, dass
+die formlose Leistungszusprache von Februar 2015 nicht ursprünglich fehlerhaft
+sein kann, womit weder eine Revision noch eine Wiedererwägung nach
+Art. 53 ATSG zu prüfen ist. Stattdessen stellt sich die Frage, ob die
+Voraussetzungen der Anpassung einer Verfügung gemäss Art. 17 ATSG erfüllt
+sind, mithin ob sich eine nachträgliche Veränderung des massgeblichen
+Sachverhalts ergeben hat, welche eine nachträgliche Herabsetzung der formlos
+zugesprochenen Leistungen zulassen würde.
+6.2
+6.2.1
+Ein Tatbestand einer Anpassung nach Art. 17 ATSG
+kann eine Änderung des Gesundheitszustands sein. Massgebend sind dabei jene
+Änderungen, welche die versicherte Gesundheitsschädigung betreffen. Es müssen
+neue Elemente tatsächlicher Natur vorliegen, welche nach der ursprünglichen
+Verfügung eingetreten sind und zu dem damals gegebenen Sachverhalt hinzugekommen
+sind oder diesen verändert haben (Kieser, Art. 17 N. 28). Ob eine Veränderung
+des massgeblichen Sachverhalts eingetreten ist, hat die Beschwerdegegnerin
+aufgrund des ihr obliegenden Untersuchungsgrundsatzes abzuklären (vgl. Art.
+43 Abs. 1 ATSG). Sie hat den Sachverhalt so weit zu ermitteln, dass darüber
+mit dem Beweisgrad der überwiegenden Wahrscheinlichkeit entschieden werden
+kann (vgl. E. II/3.1 vorne).
+6.2.2
+Die Beschwerdegegnerin hat zwecks Eruierung des
+Sachverhalts mündliche Abklärungen mit Vertretern der F.______ AG
+getroffen sowie von dieser Unterlagen eingefordert. Weiter hat sie die
+Arbeitgeberin des Beschwerdeführers, die E.______GmbH, zu einer Stellungnahme
+zu den sich widersprechenden Stundenrapporten des Beschwerdeführers sowie zur
+Einreichung von Unterlagen aufgefordert. Überdies hat sie den
+Beschwerdeführer zu einem Gespräch eingeladen und diesem die Gelegenheit
+gegeben, zu den Resultaten der getroffenen Abklärungen Stellung zu nehmen
+sowie Unterlagen einzureichen. Gestützt auf die Resultate dieser Abklärungen
+kam die Beschwerdegegnerin zum Schluss, dass die vom Beschwerdeführer
+gemachten Aussagen im Gegensatz zu jenen der Vertreter der F.______ AG
+nicht glaubhaft seien, weshalb davon auszugehen sei, dass der Beschwerdeführer
+seit 26. Juni 2017 voll arbeitsfähig gewesen sei.
+6.2.3
+Bei einem Blick auf die von den Vertretern der
+F.______ AG gemachten Ausführungen ergeben sich jedoch einige offene
+Fragen. So bleibt beispielsweise unklar, welche Aufgaben  S.______ als
+dem für das Bauprojekt […] zuständigen Vertreter der F.______ AG, für
+welches der Beschwerdeführer tätig war, zukamen. Es ist nicht klar, weshalb
+dieser zum Schluss kam, dass der Beschwerdeführer für die genannte Baustelle
+in einem Vollzeitpensum tätig gewesen sei. Ebenso ergibt sich aus den Akten
+nicht, welche Arbeiten der Beschwerdeführer während der Zeit seiner
+Arbeitstätigkeit für die F.______ AG erledigt hatte, obwohl daraus
+Rückschlüsse auf das von diesem tatsächlich bewältigte Arbeitspensum gezogen
+werden könnten. Weiter geben die Akten auch keine Auskunft darüber, wie oft
+sich S.______ auf der Baustelle in […] befunden hatte, was jedoch wichtig
+wäre, um die von der F.______ AG geäusserten Vermutungen betreffend das
+vom Beschwerdeführer ausgeübte Arbeitspensum sachgerecht einordnen zu können.
+Diese Information ist zudem von Interesse, weil die F.______ AG aussagte,
+im Sommer 2017 nicht über die personellen Ressourcen verfügt gehabt zu haben,
+um eine eigene Betreuung der Baustelle sicherstellen zu können. Aus diesem
+Grund sei dann die E.______GmbH als Subunternehmerin engagiert worden. Daraus
+könnte geschlossen werden, dass sich S.______ nicht durchgehend auf der
+Baustelle aufhielt, womit er die Anwesenheit des Beschwerdeführers auf der
+Baustelle nur eingeschränkt beurteilen könnte. Ebenso besteht die
+Möglichkeit, dass der Beschwerdeführer zusammen mit seinem Vorgesetzten S.______
+regelmässig an den jeweils am Mittwoch stattfindenden Bausitzungen traf, an
+welchen der Beschwerdeführer unbestrittenermassen teilnahm. Alleine aus einer
+regelmässigen wöchentlichen Sitzungsteilnahme des Beschwerdeführers darf
+jedoch nicht auf dessen Arbeitstätigkeit in einem Vollzeitpensum geschlossen
+werden. Zudem hat weder die F.______ AG noch die E.______GmbH der
+Beschwerdegegnerin den abgeschlossenen Subunternehmervertrag offen gelegt,
+womit die diesbezüglichen Vereinbarungen unbekannt sind. Ebenso ist nicht
+bekannt, wie der Beschwerdeführer und sein Vorgesetzter T.______ die für die
+Baustelle der F.______ AG angefallenen Arbeiten untereinander
+aufteilten, obwohl auch daraus Rückschlüsse auf das vom Beschwerdeführer
+tatsächlich ausgeübte Arbeitspensum gezogen werden könnten.
+Im Gegensatz zu den
+vorstehend genannten offenen Fragen hat der Beschwerdeführer seine mündliche
+Aussage, dass er nur den vertraglich vereinbarten Lohn bezogen habe, durch
+das Einreichen seiner Kontoauszüge belegt. Den Kontoauszügen ist zu
+entnehmen, dass ihm die E.______GmbH im Zeitraum vom 3. Juli 2017 bis am
+24. April 2018 Zahlungen von gesamthaft Fr. 14'250.- leistete, was neun
+(Netto)-Monatslöhnen zu je Fr. 1'500.- zuzüglich Anteil
+13. Monatslohn entspricht. Weiter sind entgegen den Ausführungen der
+Beschwerdegegnerin den Akten keine Anhaltspunkte zu entnehmen, dass der
+Beschwerdeführer eine zusätzliche Entschädigung der E.______GmbH erhalten
+hätte, welche als Mitwissen betreffend die an die F.______ AG gestellten
+Rechnungen gedeutet werden könnte. Stattdessen ist dem Beschwerdeführer
+insofern zuzustimmen, als dass er von den an die F.______ AG gestellten
+Rechnungen und Stundenabrechnungen durch die E.______GmbH nicht zwingend
+Kenntnis haben musste. Der Subunternehmervertrag zwischen der
+F.______ AG und der E.______GmbH wurde von T.______ ausgehandelt, was
+auch S.______ als Vertreter der F.______ AG festhielt. Es obliegt
+T.______ als Geschäftsführer der E.______GmbH, um die Rechnungstellung der
+von ihm als Vertreter der E.______GmbH geschlossenen Verträge besorgt zu
+sein. Diese Aufgabe kommt dem Beschwerdeführer, welcher für die E.______GmbH
+als Hilfsbauleiter tätig war, nicht zu.
+Sodann hält der
+Beschwerdeführer zu Recht fest, dass anlässlich der verschiedenen
+Standortgespräche der Parteien regelmässig über den Umfang der
+Arbeitsfähigkeit sowie über die von ihm ausgeübte Arbeitstätigkeit und das
+erledigte Arbeitspensum gesprochen worden war. Im September 2017 gab der
+Beschwerdeführer an, als Hilfsbauarbeiter grundsätzlich am Morgen eineinhalb
+bis drei Stunden täglich zu arbeiten. Anlässlich des darauffolgenden
+Gesprächs von Anfang Dezember 2017 berichtete er von einer
+ca. halbstündigen täglichen Steigerung seiner Arbeitstätigkeit. Er
+befinde sich an zwei Tagen pro Woche auf der Baustelle in […], während er
+drei Tage von Zuhause aus arbeite. Sein Ziel sei es, ab Anfang des Jahres
+2018 in einem 50 %-Pensum zu arbeiten. Die Beschwerdegegnerin sagte zu,
+dem Beschwerdeführer bis ca. März 2018 Zeit zu geben, seine Leistung auf
+50 % zu erhöhen, weshalb in diesem Zeitpunkt ein Gespräch betreffend
+Abschluss des Falls unter Einstellung der Taggeldleistungen und Prüfung der
+weiteren Versicherungsleistungen stattfinden werde. Am 5. Februar 2018
+teilte der Beschwerdeführer mit, dass er durchschnittlich täglich drei
+Stunden arbeite, wobei es weiterhin sein Ziel sei, bis zum nächsten
+Gesprächstermin ein 50 %-Pensum zu erreichen. Damit hat der
+Beschwerdeführer gegenüber der Beschwerdegegnerin regelmässig kundgetan,
+welches Arbeitspensum er ausgeführt und welche Steigerung er diesbezüglich
+erreicht habe.
+6.2.4
+Völlig ungeklärt liess die Beschwerdegegnerin
+sodann die Frage, wie sich der Gesundheitszustand des Beschwerdeführers
+insbesondere seit Juni 2017 entwickelte, obwohl sich auch daraus
+Anhaltspunkte für die Bestimmung des von ihm bewältigten Arbeitspensums
+ergeben würden. Folglich hat die Beschwerdegegnerin ohne Einholung einer
+aktuellen medizinischen Abklärung des Beschwerdeführers angenommen, dass
+dieser seit 26. Juni 2017 vollständig arbeitsfähig sei. Dies begründet
+sie einzig mit den von der E.______GmbH an die F.______ AG gestellten
+Honorarrechnungen und Stundenblätter, der von dieser gemachten Rückmeldungen
+sowie den ihrer Ansicht nach unglaubwürdigen Aussagen des Beschwerdeführers.
+Im Gegensatz dazu akzeptierte sie seit dem Unfallereignis das vom
+Beschwerdeführer als ausgeübt bezeichnete Arbeitspensum und die von ihm beklagten
+körperlichen Einschränkungen unwidersprochen. Eine kreisärztliche
+Einschätzung vom 4. November 2015 äusserte sich dahingehend, dass eine
+stehend/gehende Tätigkeit auf unebenem Gelände und damit eine Tätigkeit als
+Bauführer nicht optimal sei. Dem Beschwerdeführer sei eine vorwiegend
+sitzende Tätigkeit zu raten. Ebenso ging med. pract. M.______ am
+27. Februar 2017 von einer deutlich eingeschränkten funktionellen
+Belastbarkeit und einem chronischen Schmerzsyndrom aus, weshalb eine berufliche
+Reintegration nur in einem angepassten Zumutbarkeitsprofil mit rein sitzenden
+Tätigkeiten möglich sei. Die massgeblichen unfallbedingt verursachten
+körperlichen Einschränkungen führte auch med. pract. R.______ am
+6. Dezember 2018 auf, wobei sich dieser in seinem Untersuchungsbericht
+einzig zur Integritätsentschädigung und nicht zur Arbeitsfähigkeit des
+Beschwerdeführers äusserte. Neben den Kreisärzten gingen auch die
+behandelnden Ärzte von einer Einschränkung der Arbeitsfähigkeit des
+Beschwerdeführers in seiner angestammten Tätigkeit als Bauführer aus (vgl. E.
+II/5 vorne). Ohne eine Auseinandersetzung mit diesen übereinstimmenden
+ärztlichen Berichten vorzunehmen, hat die Beschwerdegegnerin eine
+vollständige Arbeitsfähigkeit des Beschwerdeführers ab Juni 2017 angenommen,
+was in Bezug auf die in den Akten vorhandenen medizinischen Berichte als
+nicht nachvollziehbar einzustufen ist. Denn in den Akten findet sich kein
+medizinischer Bericht, welcher die vollständige Arbeitsfähigkeit des
+Beschwerdeführers als Bauführer per Ende Juni 2017 ausweist. Damit bleibt aus
+medizinischer Sicht völlig ungeklärt, ob sich im Juni 2017 tatsächlich eine
+massgebliche Veränderung des Gesundheitszustands des Beschwerdeführers
+ereignet hatte, welche dessen volle Arbeitsfähigkeit in seiner angestammten
+Tätigkeit als Bauführer begründen könnte.
+6.2.5
+Betreffend die Frage des vom Beschwerdeführer
+erledigten Arbeitspensums hat die Beschwerdegegnerin Abklärungen bei Dritten
+getätigt sowie den Beschwerdeführer zu den gegen ihn erhobenen Vorwürfen befragt.
+Daraus ergeben sich Indizien, welche dafür sprechen, dass der
+Beschwerdeführer Ende Juni 2017 in einem Vollzeitpensum tätig war. Im
+Gegensatz dazu ergeben sich aus den getätigten Abklärungen aber auch
+sachliche Hinweise darauf, dass dies nicht der Fall war und der
+Beschwerdeführer weiterhin in einem eingeschränkten Arbeitspensum als
+Bauführer tätig war. Da die Beschwerdegegnerin aus dem angeblichen Umstand,
+dass der Beschwerdeführer in einem Vollzeitpensum gearbeitet hat, die
+Rückerstattungsverpflichtung ableiten will, ist sie beweisbelastet (E. II/3.3
+vorne), wobei der Beweisgrad der überwiegenden Wahrscheinlichkeit gilt.
+Entgegen ihren Ausführungen reicht dafür ein Glaubhaftmachen aufgrund
+verschiedener Indizien nicht aus, woran auch die Tatsache nichts ändert, dass
+einige vom Beschwerdeführer gemachte Äusserungen als widersprüchlich
+einzustufen sind. Da die getätigten Abklärungen verschiedene Fragen ungeklärt
+lassen, hat die Beschwerdegegnerin den massgebenden Sachverhalt ungenügend
+erstellt und damit die ihr obliegende Untersuchungspflicht verletzt.
+6.2.6
+Ist nicht klar, ob sich eine nachträgliche
+Veränderung des der formlosen Leistungszusprache von Februar 2015
+zugrundeliegenden Sachverhalts ergeben hat, kann über die Anpassung des
+diesbezüglichen Entscheids nicht nach dem im Unfallversicherungsrecht
+massgebenden Beweisgrad der überwiegenden Wahrscheinlichkeit entschieden
+werden. Entsprechend sind zusätzliche Abklärungen des Sachverhalts von Nöten.
+Diesbezüglich stehen der Beschwerdegegnerin zwei Varianten offen, welche sich
+gegebenenfalls auch kombinieren lassen. So kann die Beschwerdegegnerin zum
+einen weitere Abklärungen in Bezug auf die vom Beschwerdeführer faktisch
+ausgeübte Arbeitstätigkeit ab Juni 2017 tätigen, wozu sie insbesondere die vorstehend
+genannten offenen Fragen betreffend die Ausführungen der Vertreter der
+F.______ AG zu klären sowie allenfalls zusätzliche Unterlagen
+einzuverlangen hat (vgl. E. II/6.2.3 vorne). Weisen diese
+Abklärungen überwiegend wahrscheinlich daraufhin, dass der Beschwerdeführer
+ab Juni 2017 vollzeitlich arbeitstätig war, hat die Beschwerdegegnerin erneut
+über die Rückerstattung von zu Unrecht ausgerichteten Leistungen zu
+entscheiden. Zum anderen kann die Beschwerdegegnerin den Gesundheitszustand
+des Beschwerdeführers ab Juni 2017 sowie dessen Arbeitsfähigkeit medizinisch
+abklären lassen. Die Beschwerdegegnerin hat dazu ein orthopädisches Gutachten
+einzuholen, welches unter anderem darüber Auskunft zu erteilen hat, wie sich
+der Gesundheitszustand des Beschwerdeführers entwickelte und ob im Juni 2017
+eine massgebliche Verbesserung seines Gesundheitszustandes eingetreten ist.
+Zudem hat sich das Gutachten insbesondere zur Arbeitsfähigkeit des
+Beschwerdeführers in der angestammten und in einer angepassten Tätigkeit seit
+Juni 2017 zu äussern. Sollte eine Verbesserung des Gesundheitszustands des
+Beschwerdeführers sowie dessen 100%ige Arbeitsfähigkeit ärztlich ausgewiesen
+werden, hat die Beschwerdegegnerin über die definitive Einstellung der
+Leistungen zu entscheiden, wobei diesfalls fraglich ist, ob eine
+Verpflichtung zur Rückerstattung der bereits entrichteten Taggeldleistungen
+zulässig ist.
+7.
+Dies führt zur Gutheissung
+der Beschwerde. Der Einspracheentscheid der Beschwerdegegnerin vom 25. Januar
+2019 ist aufzuheben und die Sache ist zur Vornahme weiterer Abklärungen sowie
+zur Neuentscheidung an diese zurückzuweisen.
+III.
+1.
+Die Gerichtskosten sind
+von Gesetzes wegen auf die Staatskasse zu nehmen (Art. 1 Abs. 1 UVG
+i.V.m. Art. 61 lit. a ATSG).
+2.
+Als Obsiegen gilt
+hinsichtlich der Kosten- und Entschädigungsfolge auch die Rückweisung der
+Sache an den Versicherungsträger (Kieser, Art. 61 N. 205).
+Die
+Beschwerdegegnerin ist daher ausgangsgemäss zu verpflichten, dem obsiegenden
+Beschwerdeführer eine angemessene Parteientschädigung in der Höhe von
+Fr. 1'000.- (inkl. Mehrwertsteuer) zu bezahlen (Art. 1 Abs. 1 UVG i.V.m.
+Art. 61 lit. g ATSG).
+3.
+Gegen diesen
+Zwischenentscheid steht die Beschwerde in öffentlich-rechtlichen
+Angelegenheiten ans Bundesgericht nur nach Massgabe von Art. 93
+Abs. 1 des Gesetzes über das Bundesgericht vom 17. Juni 2005 (BGG)
+offen.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird gutgeheissen. Der Einspracheentscheid der
+Beschwerdegegnerin vom 25. Januar 2019 wird aufgehoben und die Sache wird
+im Sinne der Erwägungen an diese zurückgewiesen.
+2.
+Die
+Gerichtskosten werden auf die Staatskasse genommen.
+3.
+Die
+Beschwerdegegnerin wird verpflichtet, dem Beschwerdeführer innert 30 Tagen
+nach Rechtskraft dieses Entscheids eine Parteientschädigung in der Höhe von
+Fr. 1'000.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
