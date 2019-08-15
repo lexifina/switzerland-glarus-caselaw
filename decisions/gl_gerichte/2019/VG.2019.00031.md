@@ -1,0 +1,398 @@
+---
+decision_id: "gl_gerichte_VG.2019.00031"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2019.00031"
+docket_2: "VG.2019.820"
+decided: "2019-08-15"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1128&W10_KEY=218274&nTrefferzeile=7&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/210/art-025.md", "switzerland/bund/acts/210/art-327a.md", "switzerland/bund/acts/416.0/art-004.md", "switzerland/bund/acts/416.0/art-005.md"]
+---
+
+# GL Gerichte VG.2019.00031
+
+## Regeste
+
+Erziehungswesen
+
+## Text
+
+Glarus Verwaltungsgericht 15.08.2019 VG.2019.00031 (VG.2019.820)
+Glaris Verwaltungsgericht 15.08.2019 VG.2019.00031 (VG.2019.820)
+Glarona Verwaltungsgericht 15.08.2019 VG.2019.00031 (VG.2019.820)
+
+Erziehungswesen
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom 15. August 2019
+I. Kammer
+in Sachen
+VG.2019.00031
+A.______
+Beschwerdeführerin
+gegen
+1.
+Stipendienstelle
+Beschwerdegegner
+2.
+Departement Bildung und Kultur des Kantons
+Glarus
+betreffend
+Ausbildungsbeiträge
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+A.______ reichte bei der Stipendienstelle am 8. Mai
+2018 ein Gesuch um Ausrichtung von Stipendien ein. Am 1. Juni 2018 zog sie
+von […] nach B.______, Kanton C.______, weshalb sie das Gesuch um Ausrichtung
+von Stipendien mit E-Mail vom 29. Juni 2018 zurückzog.
+1.2
+Am 24. Juli 2018 reichte sie bei der
+Stipendienstelle erneut ein Gesuch um Ausrichtung von Stipendien ein. Am 14.
+August 2018 forderte die Stipendienstelle von A.______ zusätzliche Unterlagen
+und Informationen ein. A.______ beantwortete gleichentags die offenen Fragen
+und reichte Unterlagen nach. Seit August 2018 besucht A.______ die erste
+Klasse des vierjährigen Kurzzeitgymnasiums der Kantonsschule B.______ (Kanton
+C.______). Mit Verfügung vom 25. September 2018 entschied die
+Stipendienstelle, A.______ für das laufende Schuljahr keine Stipendien zu
+entrichten.
+2.
+Gegen diesen ablehnenden
+Entscheid der Stipendienstelle erhob A.______ am 9. Oktober 2018
+Beschwerde beim Departement Bildung und Kultur (DBK). Dieses wies die
+Beschwerde am 6. März 2019 ab.
+3.
+3.1
+Dagegen erhob A.______ am 22. März 2019 Beschwerde
+beim Verwaltungsgericht. Sie beantragte sinngemäss die Aufhebung des
+Beschwerdeentscheids des DBK vom 6. März 2019 sowie die Ausrichtung von
+Stipendien für das laufende Schuljahr. Die Stipendienstelle teilte am 7.
+April 2019 mit, auf eine Beschwerdeantwort zu verzichten. Ebenso äusserte
+sich das DBK am 9. April 2019.
+3.2
+Am 10. April 2019 teilte das Verwaltungsgericht
+A.______ mit, dass fraglich sei, ob und allenfalls für welchen Zeitraum im
+Kanton Glarus ein stipendienrechtlicher Wohnsitz bestehe. Es gewährte
+A.______ die Gelegenheit, diesbezüglich eine schriftliche Stellungnahme zu
+verfassen. A.______ reichte am 5. Mai 2019 eine Stellungnahme ein, welche der
+Stipendienstelle und dem DBK unter Eröffnung einer Frist zur Einreichung
+einer Duplik zugestellt wurde. Die Stipendienstelle teilte am 4. Juni
+2019 mit, auf das Einreichen einer Duplik zu verzichten und am
+Stipendienentscheid vom 25. September 2018 festzuhalten. Das DBK
+äusserte sich nicht.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 105 Abs. 1 lit. b des Verwaltungs-rechtspflegegesetzes vom 4. Mai
+1986 (VRG) zur Behandlung der vorliegenden Beschwerde zuständig. Da auch die
+übrigen Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde
+einzutreten.
+2.
+2.1
+Die Ausbildungsfinanzierung obliegt in erster Linie
+der betroffenen Person und deren Eltern (Art. 3 des Gesetzes über die
+Ausbildungs- und Schulgeldbeiträge vom 6. Mai 2012 [StipG]).
+Beitragsberechtigt können nach Art. 4 Abs. 1 StipG insbesondere Personen mit
+schweizerischem Bürgerrecht und Wohnsitz in der Schweiz, unter Vorbehalt von
+Buchstabe b (lit. a), und Schweizer Bürgerinnen und Bürger, deren Eltern im
+Ausland leben für Ausbildungen in der Schweiz, sofern sie an ihrem
+ausländischen Wohnsitz wegen fehlender Zuständigkeit nicht beitragsberechtigt
+sind (lit. b), sein. Die Beitragsberechtigung setzt voraus, dass sich der
+stipendienrechtliche Wohnsitz im Kanton Glarus befindet und die Ausbildung
+vor Abschluss des 45. Altersjahrs begonnen wird (Art. 4 Abs. 2 StipG).
+Als stipendienrechtlicher Wohnsitz gilt unter Vorbehalt von Buchstabe d
+der zivilrechtliche Wohnsitz der Eltern oder der zuletzt zuständigen
+Vormundschaftsbehörde (lit. a); unter Vorbehalt von Buchstabe d für
+Schweizer Bürgerinnen und Bürger, deren Eltern nicht in der Schweiz Wohnsitz
+haben, der Heimatkanton (lit. b); der Wohnkanton für mündige Personen,
+die nach Abschluss einer ersten berufsbefähigenden Ausbildung und vor Beginn
+der Ausbildung, für die sie Stipendien beanspruchen, während mindestens zwei
+Jahre in diesem Kanton wohnhaft und dort aufgrund eigener Erwerbsfähigkeit
+unabhängig waren (lit. d; Art. 6 Abs. 1 lit. a, b und d der interkantonalen
+Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen vom 18. Juni
+2009 [IVHA]). Ein Gesuch um Gewährung von Ausbildungsbeiträgen ist in
+demjenigen Kanton zu stellen, in welchem die Person in Ausbildung ihren
+stipendienrechtlichen Wohnsitz hat (Art. 5 Abs. 3 IVHA). Der einmal
+begründete stipendienrechtliche Wohnsitz bleibt gemäss Art. 6 Abs. 4 IVHA bis
+zum Erwerb eines neuen bestehen. Art. 6 Abs. 4 IVHA unterstreicht den Zweck
+des stipendien-rechtlichen Wohnsitzes, wonach ein Kanton für jede Person in
+Ausbildung zuständig sein muss. Es soll insbesondere verhindert werden, dass
+eine Person bei einem Kantonswechsel keinen stipendienrechtlichen Wohnsitz
+mehr hat oder mehrere solche erwerben kann (Schweizerische Konferenz der
+kantonalen Erziehungsdirektoren [EDK], IVHA-Kommentar, Bern 2009, Art. 6
+Abs. 4 IVHA).
+2.2
+Die Beitragsberechtigung gilt für Ausbildungen auf
+der Sekundarstufe II und dieser nachgelagerten Stufen (Art. 5 StipG).
+Die Sekundarstufe I umfasst die Oberschule, die Sekundarschule sowie die
+Unterstufe und den ersten Teil der Mittelstufe des Gymnasiums (Art. 18 Abs. 2
+des Gesetzes über Schule und Bildung vom 6. Mai 2001 [BiG]). Entsprechend
+gilt als Sekundarstufe II im Kanton Glarus insbesondere der zweite Teil
+des Mittelstufengymnasiums sowie das Oberstufengymnasium (vgl. Art. 12 Abs. 1
+lit. c BiG). Der Bildungsgang an der Kantonsschule Glarus umfasst drei
+Stufen von je zweijähriger Dauer. Das neunte bis elfte Schuljahr umfasst die
+Unterstufe und den ersten Teil der Mittelstufe des Gymnasiums, während das
+zwölfte Schuljahr bis zum vierzehnten Schuljahr aus dem zweiten Teil der
+Mittelstufe und der Oberstufe bestehen (vgl. https://www.kanti-glarus.ch/gymnasium/stufenprofile.html/3930,
+zuletzt besucht am 15. August 2019; Broschüre der Kantonsschule Glarus
+betreffend Orientierung Gymnasium, S. 8,
+https://www.kanti-glarus.ch/gymnasium/aufnahme.html/3928, zuletzt besucht am
+15. August 2019).
+3.
+Die Beschwerdeführerin
+bringt vor, dass im Kanton C.______ das erste Jahr des vierjährigen
+Kurzzeitgymnasiums nicht zur obligatorischen Schulzeit gehöre, weshalb ihr
+Stipendien zu entrichten seien. Zwar würden viele Schüler direkt von der
+Sekundarstufe I in die Sekundarstufe II wechseln, womit diese bei
+Eintritt ins erste Jahr des Kurzzeitgymnasiums die obligatorische Schulzeit
+von neun Jahren noch nicht ausgeschöpft hätten. Dies sei bei ihr jedoch
+anders, da sie bei Eintritt ins Kurzzeitgymnasium bereits zehn Schuljahre
+absolviert gehabt habe. Zudem hätten es die Beschwerdegegner unterlassen, die
+Einkommensverhältnisse ihres Vaters zu prüfen, obwohl sich daraus ergeben
+würde, dass ihr Stipendien zustehen würden. Zwar sei ihr Vater per Ende
+September 2018 ins Land D.______ gezogen, zuvor sei er jedoch
+18 Jahre lang im Kanton Glarus wohnhaft gewesen. Zudem befinde sich auch
+die zuletzt zuständig gewesene Vormundschaftsbehörde im Kanton Glarus, auch
+wenn sich die vormalige Beistandschaft mit dem Erreichen ihrer Volljährigkeit
+aufgelöst habe. Überdies habe sie auch versucht, im Kanton C.______
+Stipendien zu erhalten, was jedoch abgelehnt worden sei, da sie am dort
+massgebenden Stichtag vom 1. August 2018 nicht im Kanton C.______
+wohnhaft gewesen sei.
+4.
+4.1
+4.1.1
+Da die Beitragsberechtigung für den Bezug von
+Stipendien unter anderem voraussetzt, dass sich der stipendienrechtliche
+Wohnsitz im Kanton Glarus befindet, ist in einem ersten Schritt zu prüfen, ob
+dies vorliegend erfüllt wird. Diesbezüglich ist massgebend, wo sich der
+zivilrechtliche Wohnsitz der Eltern der Beschwerdeführerin befindet (Art. 6
+Abs. 1 lit. a und b IVHA).
+Die Eltern der
+Beschwerdeführerin liessen sich mit Urteil vom 29. August 2006 scheiden. Mit
+dem genannten Urteil entzog ihnen das Kantonsgericht Glarus zudem die
+elterliche Sorge für die Beschwerdeführerin. In der Folge wurde für diese
+eine Vormundschaft angeordnet, welche von der Kindes- und
+Erwachsenenschutzbehörde Glarus (nachfolgend KESB) Anfang August 2015 in
+eine Vormundschaft für Minderjährige gemäss Art. 327a ff. des
+Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907 (ZGB)
+umgewandelt wurde. Mit Entscheid vom 27. September 2016 hob die KESB die
+Vormundschaft auf und ordnete per 1. Oktober 2016 eine Erziehungsbeistandschaft
+an. Zudem stellte sie die Beschwerdeführerin rückwirkend per 17. Juli 2016
+unter die Obhut deren Vaters, E.______. Seit dem Sommer 2016 lebte die
+Beschwerdeführerin bei ihrem Vater in […] im Kanton Glarus. Am 18. Mai
+2018 schloss die Beschwerdeführerin einen Mietvertrag für eine Wohnung in
+B.______ (Kanton C.______) mit Mietbeginn per 1. Juni 2018 ab.
+Entsprechend meldete sie sich am 19. Juni 2018 bei der Gemeinde […]
+unter Hinweis auf ihren Wegzug nach B.______ (Kanton C.______) ab. Der
+Mietvertrag für die Wohnung von E.______ in […] begann am 1. Oktober
+2003 und endete am 30. September 2018. Er meldete sich gleichentags bei der
+Gemeinde […] unter Angabe seines Wegzugs ins Land D.______ ab. Die
+Mutter der Beschwerdeführerin ist seit längerer Zeit im Land F.______
+wohnhaft. Anfang März 2019 teilte E.______ mit, dass die Beschwerdeführerin
+nun in […], Kanton C.______,  wohnhaft sei.
+Aus vorstehend Erwähntem
+folgt, dass der Vater der Beschwerdeführerin seit Anfang Oktober 2003 bis
+Ende September 2018 im Kanton Glarus in […] wohnhaft war, während die Mutter
+der Beschwerdeführerin bereits seit längerer Zeit in der Schweiz keinen
+zivilrechtlichen Wohnsitz innehat. Da die Beschwerdeführerin im Juli 2018 und
+damit im Zeitpunkt der Einreichung des Gesuchs um Ausrichtung von Stipendien
+unter der Obhut ihres Vaters stand, ist gemäss Art. 6 Abs. 2 IVHA dessen
+Wohnsitz massgebend. Damit verfügte die Beschwerdeführerin bis Ende September
+2018 über einen stipendienrechtlichen Wohnsitz gemäss Art. 6 Abs. 1 lit.
+a erster Satzteil IVHA im Kanton Glarus. Mit dem Wegzug von E.______ ins Land
+D.______ endete sein zivilrechtlicher Wohnsitz in […] im Kanton Glarus, womit
+A.______ seither keinen stipendienrechtlichen Wohnsitz entsprechend der
+vorerwähnten Bestimmung im Kanton Glarus mehr hat.
+4.1.2
+Es fragt sich jedoch, ob ein solcher gemäss Art.
+6 Abs. 1 lit. a zweiter Satzteil IVHA am Sitz der zuletzt
+zuständigen Vormundschaftsbehörde weiterbestand. Der Kommentar zur IVHA
+enthält keine Ausführungen zum stipendienrechtlichen Wohnsitz am Sitz der
+zuletzt zuständigen Vormundschaftsbehörde, womit diesem keine Hinweise zur
+Bestimmung des Sinns und Zwecks der betreffenden Regelung zu entnehmen sind.
+Mit der Einführung des
+neuen Erwachsenenschutzrechts am 1. Januar 2013 wurden die Vormundschaftsbehörden
+durch die Kindes- und Erwachsenenschutzbehörden ersetzt. Weiter wurde das
+Institut der Vormundschaft aufgehoben und stattdessen das System der
+Beistandschaften gesetzlich verankert. Beibehalten wurde die Vormundschaft
+jedoch für Minderjährige. Diese wird nach Art. 327a ZGB angeordnet, wenn
+Minderjährige nicht unter elterlicher Sorge stehen. Diesfalls befindet sich
+der Wohnsitz der bevormundeten Kinder am Sitz der zuständigen
+Kindesschutzbehörde (Art. 25 Abs. 2 ZGB), im Kanton Glarus demnach am
+Sitz der KESB (vgl. Art. 9 des Gesetzes über die Einführung des
+Schweizerischen Zivilgesetzbuches im Kanton Glarus vom 7. Mai 1911 [EG
+ZGB]).
+Besteht jedoch keine Vormundschaft und steht ein Kind unter
+elterlicher Sorge, gilt der Wohnsitz der Eltern oder, wenn die Eltern keinen
+gemeinsamen Wohnsitz haben, der Wohnsitz des Elternteils, unter dessen Obhut
+das Kind steht, in den übrigen Fällen sein Aufenthaltsort, als Wohnsitz (Art.
+25 Abs. 1 ZGB). Daraus folgt, dass keine Notwendigkeit besteht, bei Nicht-Vorliegen
+einer Vormundschaft für Minderjährige am Sitz der KESB als der im Kanton
+Glarus zuständigen Kindesschutzbehörde einen stipendienrechtlichen Wohnsitz
+zu begründen, da jeweils ein solcher am zivilrechtlichen Wohnsitz der Eltern
+bzw. eines Elternteils vorhanden ist. Damit ist Art. 6 Abs. 1
+lit. a zweiter Satzteil IVHA einzig zur Begründung eines
+stipendienrechtlichen Wohnsitzes heranzuziehen, wenn eine Vormundschaft für
+Minderjährige besteht. Gegenteilig zu entscheiden und damit die Bestimmung
+eines stipendienrechtlichen Wohnsitzes bei jedem Tätigwerden der KESB gemäss
+Art. 6 Abs. 1 lit. a IVHA am zivilrechtlichen Wohnsitz der Eltern und am
+Sitz der zuletzt zuständigen KESB zuzulassen, würde die parallele Begründung
+verschiedener stipendienrechtlicher Wohnsitze in unterschiedlichen Kantonen
+ermöglichen. Damit würde der Sinn und Zweck von Art. 6 Abs. 4 IVHA,
+wonach immer ein Kanton stipendienrechtlich zuständig sein soll und nicht
+mehrere stipendienrechtliche Wohnsitze sollen erworben werden können, verunmöglicht
+(vgl. Kommentar IVHA, Art. 6 Abs. 4 IVHA).
+Die KESB hat die
+ursprünglich für die Beschwerdeführerin angeordnete Vormundschaft mit Wirkung
+ab 1. Oktober 2016 aufgehoben. Zudem hat sie die Beschwerdeführerin
+rückwirkend per 17. Juli 2016 unter die elterliche Obhut deren Vaters
+gestellt. Damit ist seither der zivilrechtliche Wohnsitz von E.______
+massgebend für die Bestimmung des stipendienrechtlichen Wohnsitzes. Folglich
+begründet Art.  6 Abs. 1 lit. a zweiter Satzteil IVHA keinen
+über den 30. September 2018 hinaus bestehenden stipendienrechtlichen Wohnsitz
+im Kanton Glarus.
+4.1.3
+Hingegen besteht für Schweizer Bürgerinnen
+und Bürger am Heimatort ein stipendienrechtlicher Wohnsitz, wenn deren Eltern
+nicht in der Schweiz wohnen (Art. 6 Abs. 1 lit. b IVHA). Die
+Beschwerdeführerin ist Schweizer Bürgerin und deren Eltern sind mittlerweile
+beide im Ausland wohnhaft. Folglich wurde durch den Wegzug von E.______ aus
+der Schweiz am 30. September 2018 ein stipendienrechtlicher Wohnsitz am
+Heimatort der Beschwerdeführerin, G.______ im Kanton H.______, begründet
+(vgl. Art. 6 Abs. 4 IVHA). Entsprechend besteht im Kanton Glarus ein
+stipendienrechtlicher Wohnsitz nur bis Ende September 2018, womit einzig für
+diesen Zeitraum zu prüfen ist, ob die Beschwerdeführerin für das erste
+Schuljahr am Kurzzeitgymnasium an der Kantonsschule B.______ (Kanton
+C.______) Anspruch auf die Ausrichtung von Stipendien hat.
+4.2
+4.2.1
+Die Beschwerdegegnerin 1 weist in ihrer
+Verfügung vom 25. September 2018 darauf hin, dass das erste Ausbildungsjahr
+am Kurzzeitgymnasium B.______ (Kanton C.______) dem dritten Ausbildungsjahr
+an der Kantonsschule Glarus und damit dem elften obligatorischen Schuljahr
+auf der Sekundarstufe I entspreche. Da die Beitragsberechtigung gemäss
+Art. 5 StipG nur für Ausbildungen auf der Sekundarstufe II und dieser
+nachgelagerten Stufen bestehe, könnten keine Stipendien ausgerichtet werden.
+4.2.2
+Der Beschwerdegegner 2 führt in seinem
+Entscheid vom 6. März 2019 aus, dass weder im kantonalen Stipendiengesetz
+noch in der kantonalen Verordnung über die Ausbildungs- und Schulgeldbeiträge
+vom 16. Juni 2012 (Stipendienverordnung; StipV) definiert werde, wann die
+Sekundarstufe I ende und die Sekundarstufe II beginne.
+Diesbezüglich sei zu beachten, dass das Glarner Stipendienrecht im Jahr 2012
+im Hinblick auf den Beitritt zur IVHA totalrevidiert worden sei. Als Vorlage
+für das heute geltende Recht habe die Regelung im Kanton Graubünden gedient.
+Entsprechend habe Art. 5 StipG einen mit Art. 5 Abs. 1 des Bündner Gesetzes
+über Ausbildungsbeiträge vom 5. Dezember 2006 übereinstimmenden Wortlaut. In
+der Glarner Gesetzesfassung fehle jedoch der in Art. 5 Abs. 2 des Bündner
+Stipendiengesetzes enthaltene Passus, welcher anordne, dass für das Gymnasium
+ebenfalls Ausbildungsbeiträge entrichtet würden. Dies gründe darin, dass die
+alte, mittlerweile ausser Kraft gesetzte Glarner Stipendienverordnung vom
+10. Januar 2001 in dessen Art. 2 Abs. 2 die obligatorische
+Schulzeit explizit von der Stipendiengewährung ausgeschlossen habe. Daher sei
+das Bündner Recht nur soweit übernommen worden, wie dieses mit der vormaligen
+Praxis im Kanton Glarus übereingestimmt habe. Hinweise darauf, dass die
+ursprüngliche Glarner Praxis mit der Totalrevision des Stipendienrechts habe
+geändert werden wollen, seien keine vorhanden. Daher zählten im Kanton Glarus
+nur die letzten drei Jahre des Gymnasiums zur Sekundarstufe II, weshalb
+für das erste Jahr des Kurzzeitgymnasiums keine Stipendien entrichtet werden
+könnten.
+4.3
+Einleitend ist festzuhalten, dass die
+Beschwerdegegner als kantonal zuständige Behörden die Stipendienberechtigung
+nach den im Kanton Glarus geltenden Rechtsgrundlagen zu prüfen haben. Damit
+finden die im Kanton C.______ geltenden Regelungen in Bezug auf die
+Stipendienberechtigung vorliegend keine Anwendung. Hingegen ist eine
+Stipendienberechtigung nach dem im Kanton C.______ geltenden Recht von den
+Behörden des Kantons C.______ zu prüfen, sollte die Beschwerdeführerin ein
+diesbezügliches Gesuch stellen bzw. bereits gestellt haben.
+Der
+Beschwerdegegner 2 weist zu Recht darauf hin, dass das Stipendiengesetz
+wie auch die Stipendienverordnung nicht definieren, wie die
+Sekundarstufe I und II voneinander abzugrenzen sind. Entsprechende
+Anordnungen enthält auch die IVHA nicht, womit es den der IVHA beigetretenen
+Kantonen überlassen ist, dies autonom zu definieren. Im Kanton Glarus findet
+sich die Umschreibung der Sekundarstufe I in Art. 18 Abs. 2 BiG,
+wonach diese insbesondere die Unterstufe und den ersten Teil der Mittelstufe
+des Gymnasiums umfasst. Als Sekundarstufe II gilt sodann der zweite Teil
+des Mittelstufengymnasiums sowie das Oberstufengymnasium (vgl. Art. 12
+Abs. 1 lit. c BiG). Das erste Jahr des Kurzzeitgymnasiums B.______
+(Kanton C.______) entspricht unbestrittenermassen dem ersten Jahr und damit
+dem ersten Teil des Mittelstufengymnasiums im Kanton Glarus, womit dieses der
+Sekundarstufe I angehört. Da nur Ausbildungsgänge der
+Sekundarstufe II stipendienberechtigt sind, stehen der
+Beschwerdeführerin für das erste Schuljahr am Kurzzeitgymnasium B.______
+(Kanton C.______) keine Stipendien zu. Dass die Beschwerdeführerin vor ihrem
+Eintritt in das Kurzzeitgymnasium B.______ (Kanton C.______) ihre
+obligatorische Schulzeit bereits absolviert hatte, ändert diesbezüglich
+nichts, da unabhängig von der vorgängig bereits besuchten Ausbildung das
+erste Schuljahr des Kurzzeitgymnasiums B.______ (Kanton C.______)
+bzw. das erste Jahr der Mittelstufe der Kantonsschule Glarus nach dem
+anwendbaren kantonalen Recht der Sekundarstufe I zuzurechnen ist. Eine
+gesetzliche Grundlage entsprechend jener in Art. 5 Abs. 2 des Bündner
+Stipendiengesetzes, welche eine Stipendienberechtigung für das gesamte
+Gymnasium vorsehen würde, ist im Glarner Recht nicht zu finden. Damit bleibt
+die Zuteilung der Ausbildungsjahre an der Kantonsschule Glarus in die
+jeweilige Sekundarstufe massgebend für die Frage, ob eine
+Stipendienberechtigung besteht. Aufgrund der Zugehörigkeit des ersten Jahres
+der Mittelstufe der Kantonsschule Glarus bzw. des ersten Jahres des
+Kurzzeitgymnasiums B.______ (Kanton C.______) zur Sekundarstufe I ist
+eine Stipendienberechtigung zu verneinen.
+Dies führt zur Abweisung
+der Beschwerde.
+III.
+1.
+1.1
+Die Beschwerdeführerin beantragt die Gewährung der
+unentgeltlichen Prozessführung. Gemäss Art. 139 Abs. 1 VRG befreit
+die Behörde eine Partei, der die Mittel fehlen um neben dem Lebensunterhalt
+für sich und ihre Familie die Verfahrenskosten aufzubringen, auf Gesuch hin
+ganz oder teilweise von der Kosten- und Vorschusspflicht, sofern das Verfahren
+nicht aussichtslos ist.
+1.2
+Die Mittellosigkeit der Beschwerdeführerin erscheint
+aufgrund der Aktenlage als offensichtlich. Zudem kann das vorliegende
+Verfahren nicht als aussichtslos bezeichnet werden
+, womit das Gesuch
+um unentgeltliche Prozessführung gutzuheissen ist
+.
+2.
+Nach Art. 134 Abs. 1 lit.
+c VRG hat die Partei, welche im Beschwerdeverfahren unterliegt, die amtlichen
+Kosten zu tragen. Entsprechend dem Ausgang des Verfahrens sind die
+Gerichtskosten von pauschal Fr. 1'000.- der Beschwerdeführerin aufzuerlegen.
+Auf deren Erhebung ist indessen zufolge Gewährung der unentgeltlichen
+Prozessführung einstweilen zu verzichten. Die Beschwerdeführerin ist darauf
+hinzuweisen, dass eine Partei, der die unentgeltliche Rechtspflege bewilligt
+worden ist, für den Fall, dass sie später in günstige wirtschaftliche
+Verhältnisse gelangt, zur Nachzahlung der Verfahrenskosten verpflichtet
+werden kann (Art. 139a VRG).
+Demgemäss beschliesst die Kammer
+:
+1.
+Das
+Gesuch der Beschwerdeführerin um Gewährung der unentgeltlichen
+Prozessführung wird gutgeheissen.
+2.
+Die Nachzahlungspflicht gemäss
+Art. 139a VRG bleibt vorbehalten.
+3.
+Die
+Gerichtskasse wird beauftragt, spätestens im August 2024 zu prüfen, ob die
+Voraussetzungen für die Nachzahlung erfüllt sind.
+und erkennt sodann
+:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Der
+Beschwerdeführerin werden die Gerichtskosten von Fr. 1'000.- auferlegt, auf
+deren Erhebung einstweilen verzichtet wird.
+3.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
