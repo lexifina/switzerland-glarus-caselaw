@@ -1,0 +1,789 @@
+---
+decision_id: "gl_gerichte_VG.2019.00067"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2019.00067"
+docket_2: "VG.2019.830"
+decided: "2019-09-05"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1139&W10_KEY=218274&nTrefferzeile=10&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/935.61/art-012.md", "switzerland/bund/acts/935.61/art-014.md", "switzerland/bund/acts/935.61/art-017.md", "switzerland/bund/acts/935.61/art-034.md"]
+---
+
+# GL Gerichte VG.2019.00067
+
+## Regeste
+
+Anwaltsrecht und -aufsicht
+
+## Text
+
+Glarus Verwaltungsgericht 05.09.2019 VG.2019.00067 (VG.2019.830)
+Glaris Verwaltungsgericht 05.09.2019 VG.2019.00067 (VG.2019.830)
+Glarona Verwaltungsgericht 05.09.2019 VG.2019.00067 (VG.2019.830)
+
+Anwaltsrecht und -aufsicht
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+5. September 2019
+I. Kammer
+in Sachen
+VG.2019.00067
+A.______
+Beschwerdeführer
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+Anwaltskommission des Kantons Glarus
+Beschwerdegegnerin
+betreffend
+Verletzung von Berufsregeln
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+C.______ wurde im Dezember 2015 wegen einer
+angeblichen […] im Land D.______ verhaftet. Die Eltern von C.______, E.______
+und F.______, wandten sich am 4. Januar 2016 an Rechtsanwalt A.______ und
+baten ihn, C.______ von der Schweiz aus zu unterstützen. C.______
+unterzeichnete die Vertretungsvollmacht am 5. Januar 2016 in […] im Land
+D.______. Am 6. Februar 2016 flog Rechtsanwalt A.______ nach […] im Land
+D.______, von wo aus er am 10. Februar 2016 in die Schweiz zurückreiste.
+C.______ konnte das Land D.______ im April 2016 verlassen und in die Schweiz
+zurückkehren.
+1.2
+Rechtsanwalt A.______ stellte C.______ für seine
+Bemühungen am 21  Juli 2016 Fr. 33'963.85 und am 21. November 2017
+Fr. 3'750.15 in Rechnung. Am 19. Juni 2018 stellte er beim
+Betreibungsamt […] ein Betreibungsbegehren gegen E.______ über die noch
+ausstehende Honorarforderung von Fr. 25'963.85. Der Zahlungsbefehl vom
+20. Juni 2018 wurde E.______ am 6. Juli 2018 zugestellt. Dieser erhob am
+12. Juli 2018 einen Teilrechtsvorschlag, wobei er den bestrittenen
+Betrag auf Fr. 15'000.- bezifferte.
+1.3
+C.______ und E.______ wandten sich mit Anzeige vom
+26. Juni 2018 an die Anwaltskommission des Kantons Glarus und beschwerten
+sich insbesondere über die Höhe des von Rechtsanwalt A.______ verlangten
+Honorars. Dieser ersuchte die Anwaltskommission am 13. August 2018 um
+Entbindung vom Berufsgeheimnis zur Durchsetzung des Anwaltshonorars. Am
+20. September 2018 entband ihn C.______ vom Berufsgeheimnis. Die
+Anwaltskommission erkannte am 19. März 2019, dass Rechtsanwalt A.______ die
+Berufsregeln verletzt habe und auferlegte ihm eine Disziplinarbusse von Fr. 4'000.-
+(Disp.-Ziff. 1). Gleichzeitig schrieb sie das Verfahren um Entbindung
+vom Berufsgeheimnis als gegenstandslos geworden ab (Disp.-Ziff. 2). Die
+Spruchgebühr im Disziplinarverfahren setzte sie auf Fr. 2'000.- und
+diejenige im Verfahren um Entbindung vom Berufsgeheimnis auf Fr. 200.-
+fest (Disp.-Ziff. 3). Die Kosten auferlegte sie Rechtsanwalt A.______
+(Disp.-Ziff. 4). Ferner sprach sie keine Entschädigungen zu
+(Disp.-Ziff. 5).
+2.
+2.1
+Dagegen erhob Rechtsanwalt A.______ am 16. Mai 2019
+Beschwerde beim Verwaltungsgericht und beantragte die Aufhebung der
+Disp.-Ziffn. 1, 3, 4 und 5 des Beschlusses der
+Anwaltskommission vom 19. März 2019. Eventualiter sei ihm eine Verwarnung,
+subeventualiter ein Verweis zu erteilen. Eventualiter sei die Sache zur Neubeurteilung
+mit verbindlichen Weisungen an die Anwaltskommission zurückzuweisen; alles
+unter Kosten- und Entschädigungsfolgen zu Lasten der Anwaltskommission
+bzw. der Staatskasse. Die Anwaltskommission liess sich am 23. Mai
+2019 vernehmen, stellte aber keinen Antrag.
+2.2
+Rechtsanwalt A.______ reichte am 4. Juni 2019
+unaufgefordert eine Stellungnahme zur Beschwerdeantwort der Anwaltskommission
+ein, zu welcher sich die Anwaltskommission am 17. Juni 2019 äusserte.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 34 Abs. 1 des
+Bundesgesetzes über die Freizügigkeit der Anwältinnen und Anwälte vom 23.
+Juni 2000 (BGFA) i.V.m. Art. 16 Abs. 1 des Anwaltsgesetzes des
+Kantons Glarus vom 5. Mai 2002 (AnwG) zur Behandlung der vorliegenden
+Beschwerde zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt
+sind, ist auf die Beschwerde einzutreten.
+1.2
+Mit der Verwaltungsgerichtsbeschwerde können gemäss
+Art. 107 Abs. 1 des Gesetzes über die Verwaltungsrechtspflege vom
+4. Mai 1986 (VRG) Mängel des angefochtenen Entscheids oder des Verfahrens
+geltend gemacht werden, worunter die unrichtige oder unvollständige
+Feststellung des rechtserheblichen Sachverhalts (lit. a) sowie die
+unrichtige Rechtsanwendung einschliesslich eines Missbrauchs des Ermessens (lit. b)
+fallen. Art. 107 Abs. 2 VRG regelt abschliessend, wann dem
+Verwaltungsgericht ausnahmsweise eine Angemessenheitskontrolle zukommt. Ein
+solcher Ausnahmefall liegt nicht vor.
+2.
+2.1
+Gemäss Art. 12 BGFA gelten für Anwältinnen und
+Anwälte verschiedene Berufsregeln. Dabei verpflichtet die Generalklausel von
+Art. 12 lit. a BGFA die Anwältinnen und Anwälte, ihren Beruf
+sorgfältig und gewissenhaft auszuüben. Weiter haben sie nach Art. 12
+Abs. 1 lit. i BGFA ihre Klientschaft bei Übernahme des Mandats über
+die Grundsätze ihrer Rechnungsstellung aufzuklären und sie periodisch oder
+auf Verlangen über die Höhe des geschuldeten Honorars zu informieren.
+2.2
+Im Kanton Glarus beaufsichtigt die
+Beschwerdegegnerin die Anwältinnen und Anwälte (Art. 14 BGFA i.V.m. Art. 7
+Abs. 1 und Art. 13 Abs. 2 AnwG). Die Beschwerdegegnerin führt nach Art. 14
+AnwG Disziplinarverfahren durch. Ergibt sich, dass eine Anwältin oder ein
+Anwalt gegen das BGFA verstossen hat, kann die Beschwerdegegnerin als
+Aufsichtsbehörde eine Disziplinarmassnahme gemäss Art. 17 Abs. 1 BGFA
+anordnen.
+3.
+3.1
+3.1.1
+Die Beschwerdegegnerin wirft dem Beschwerdeführer
+insbesondere vor, C.______ nicht genügend über das zu bezahlende Honorar
+informiert zu haben. Art. 12 Abs. 1 lit. i BGFA verlange eine
+Aufklärung über die Grundsätze der Rechnungsstellung sowie periodische
+Information über die bereits angefallenen Kosten. Der Anwalt müsse sich im
+Rahmen seiner Aufklärungspflicht in der Regel auch zur mutmasslichen
+Honorarhöhe aussprechen. Eine solche Berufsregel folge – wenn nicht aus
+Art. 12 lit. i BGFA – aus Art. 12 lit. a BGFA. Unabhängig
+von konkreten Auskunftsbegehren müssten Anwälte ihre Klienten unaufgefordert
+periodisch über die Höhe des geschuldeten Honorars unterrichten. Dabei seien
+für die Kadenz die Verhältnisse im Einzelfall massgebend. Der
+Beschwerdeführer habe seit der Übernahme des Mandats am 4. Januar 2016
+in den Monaten Januar und Februar 2016 praktisch täglich für C.______
+gearbeitet. Im Januar 2016 sei ein Honorar von insgesamt Fr. 6'972.- und
+im Februar 2016 ein solches von Fr. 18'306.40 aufgelaufen. Er hätte
+aufgrund des für Privatklienten relativ hohen Honorarvolumens bereits Ende
+Januar 2016 C.______ und E.______ eine erste Zwischenrechnung zustellen
+müssen, spätestens aber Ende Februar 2016, als das Honorarvolumen über
+Fr. 25'000.- gelegen habe. C.______ und E.______ hätten auch nicht damit
+rechnen müssen, dass der Beschwerdeführer die gesamte Reisedauer zum Ansatz
+von Fr. 300.- pro Stunde verrechnen werde. Dass der Beschwerdeführer sie
+darüber und über den wichtigen Umstand, dass die Rechtsschutzversicherung an
+diese Reise keinen Beitrag leisten würde, im Vorfeld der Reise konkret
+informiert hätte, sei weder ersichtlich noch werde dies behauptet. Auch habe
+der Beschwerdeführer nicht darüber informiert, mit welchen Kosten bei einer
+solchen Reise in etwa zu rechnen sei. Bei einer solch besonderen und auch für
+einen Rechtsanwalt nicht alltäglichen Leistung hätte er seine Klientschaft
+über die mutmassliche Honorarhöhe informieren müssen. Der Beschwerdeführer
+habe daher gegen seine Pflicht als Rechtsanwalt, wonach er seinen Beruf
+sorgfältig und gewissenhaft auszuüben habe (Art. 12 lit. a BGFA),
+verstossen.
+3.1.2
+Der Beschwerdeführer vertritt hingegen die
+Auffassung, es bestehe keine Pflicht, in einem konkreten Zeitpunkt eine
+Zwischenrechnung zu stellen. Die Auffassung der Beschwerdegegnerin, wonach
+die bis Ende Januar 2016 angefallenen Kosten für Privatklienten relativ hoch
+sein sollten, entbehre jeder Grundlage und sei willkürlich. Sie zeige nicht
+auf, weshalb aufgrund der Umstände bereits nach einer vergleichsweise kurzen
+Mandatsdauer von einem Monat eine Zwischenrechnung angezeigt gewesen sei.
+Weder C.______ noch E.______ hätten nachgefragt. Eine Zwischenabrechnung
+hätte auch keinen Sinn gemacht, da C.______ diese vom Land D.______ aus nicht
+hätte begleichen können. Eine Zwischenabrechnung hätte sodann nichts am
+Mandat geändert. Er habe zudem C.______ und E.______ vor der Reise nach […]
+im Land D.______ über die damit zusammenhängenden Mehrkosten informiert.
+Diese seien sich bewusst gewesen, dass er die in diesem Zusammenhang
+verwendete Zeit, inklusive der Reisezeit, zum vereinbarten Stundenansatz
+verrechnen werde. Er sei Anfang Februar 2016 bei E.______ zum Mittagessen
+eingeladen gewesen, wobei ihm das Flugticket übergeben worden sei. An dieser
+Besprechung habe er nochmals auf die Kostenfolgen hingewiesen. Die
+Beschwerdegegnerin berücksichtige in keiner Weise die Dankbarkeit und
+Zusicherungen von E.______ und seiner Ehefrau, wonach sie für das gesamte
+Honorar aufkommen und zu ihrem Wort stehen würden. Die Auffassung der
+Beschwerdegegnerin, C.______ und E.______ hätten "nach bestem Wissen und
+Gewissen" nicht damit rechnen müssen, dass er die gesamte Reisezeit in
+Rechnung stellen werde, sei unhaltbar. Sodann hätten die Eltern von C.______
+bereits im Januar 2016 gewusst, dass sich keine Rechtsschutzversicherung an
+den Kosten beteiligen werde.
+3.2
+3.2.1
+Die durch Art. 12 lit. i BGFA verlangte Aufklärung
+über die Grundsätze der Rechnungsstellung ist Ausfluss der Pflicht zur
+Schaffung klarer Verhältnisse. Sie dient nicht zuletzt dazu, das
+Vertrauensverhältnis zwischen Anwalt und Klient zu stärken, indem sie
+Streitigkeiten über das Honorar vorbeugt. Der Anwalt hat den Klienten auf
+allfällige gewünschte Vorschüsse, auf den Zeitpunkt der Rechnungsstellung,
+auf die Art des Honorars (Pauschale oder Honorar nach Stundenaufwand), auf
+allfällige Zahlungsfristen und gegebenenfalls auf den Stundenansatz
+hinzuweisen (Walter Fellmann, in Walter Fellmann/Gaudenz G. Zindel [Hrsg.],
+Kommentar zum Anwaltsgesetz, Zürich/Basel/Genf 2011, Art. 12
+N. 157).
+Hingegen sagt Art. 12 lit.
+i BGFA nichts zum Erfordernis einer Prognose über die Höhe des
+voraussichtlichen Honorars. In der Lehre und Rechtsprechung ist jedoch allgemein
+anerkannt, dass sich der Anwalt im Rahmen seiner Aufklärungspflicht auch zur
+mutmasslichen Honorarhöhe aussprechen muss.
+Mehr als die Angabe einer vernünftigen Grössenordnung
+darf vom Anwalt in der Regel allerdings nicht erwartet werden. In den meisten
+Fällen können die Anwälte nämlich bloss den Rahmen abstecken, in welchem sich
+ihr Honorar mutmasslich bewegen wird. Man wird aber vom Anwalt fordern
+dürfen, den Klienten in komplizierten Fällen gerade über die
+Unvorhersehbarkeit des Aufwands zu informieren und auf die absehbaren Risiken
+hinzuweisen, die sich auf die Höhe des Honorars auswirken können.
+Treten während der Führung eines Mandats
+unvorhergesehene Ereignisse ein, die zu einem wesentlichen Anstieg der
+Anwaltskosten führen, hat der Anwalt seinen Klienten davon in Kenntnis zu
+setzen (vgl. etwa Beschluss der Aufsichtskommission über die
+Rechtsanwälte des Kantons Zug AK 2017 10 vom 5. Juni 2018
+E. 3.1, publiziert in Gerichts- und Verwaltungspraxis des Kantons Zug
+(GVP) 2008, S. 197 ff.; Fellmann, Art. 12
+N. 170 f.; Giovanni Andrea Testa, Die zivil- und standesrechtlichen
+Pflichten des Rechtsanwalts gegenüber den Klienten, Zürich 2001,
+S. 235).
+3.2.2
+Es ist unbestritten, dass der Beschwerdeführer bei
+der Annahme des Mandats am 4. Januar 2016 mit E.______, welcher ihm
+zusagte, die Anwaltskosten zu übernehmen, ein Honorar von Fr. 300.- pro
+Stunde vereinbarte. Zu diesem Zeitpunkt zeichnete sich jedoch die Reise des
+Beschwerdeführers nach […] ins Land D.______ noch nicht ab. Soweit der
+Beschwerdeführer die Auffassung vertritt, C.______ und E.______ hätten wissen
+müssen, dass er die ganze Reisedauer zum vereinbarten Stundenansatz
+verrechnen werde, da dies üblich sei, ist ihm nicht zu folgen. Zwar darf der
+Anwalt in der Regel Reisezeiten zu den gleichen Ansätzen in Rechnung stellen,
+soweit er diese Zeit nicht anderweitig nutzen kann (Fellmann, Art. 12
+N. 164). Vorliegend handelt es sich aber nicht um eine im Rahmen eines
+Mandats übliche Reise. Der Beschwerdeführer verrechnete für die Reise nach
+und von […] im Land D.______ 14 bzw. 15 Stunden. Wie die
+Beschwerdegegnerin zutreffend ausführt, fallen während einer solch langen
+Reise auch Zeiten an, in welchen der Anwalt nicht für den Klienten tätig ist.
+Zu denken ist dabei an seine Verpflegung, an Schlafen oder an sonstigen
+Zeitvertrieb. Entgegen der Auffassung des Beschwerdeführers lag es deshalb
+gerade nicht auf der Hand, dass er die volle Reisezeit verrechnen werde. So
+wäre es durchaus denkbar gewesen, analog der Anwesenheit in […] im Land
+D.______ nur die während des Fluges anfallende produktive Arbeitszeit in
+Rechnung zu stellen. Andererseits wäre es auch möglich gewesen, für die
+Flugreise eine Pauschale zu vereinbaren. Jedenfalls war der Beschwerdeführer
+dazu gehalten, vor Reiseantritt klare Verhältnisse zu schaffen und seinen
+Mandanten oder zumindest dessen Vater darüber zu informieren, dass er die
+gesamte Reisedauer zum vereinbarten Stundensatz in Rechnung stellen werde.
+Der Beschwerdeführer
+wendet zwar ein, dass er C.______ und E.______ über die Mehrkosten mehrmals
+persönlich oder telefonisch informiert habe. Dass dies zutrifft, lässt sich
+den Akten indessen nicht entnehmen. Es wäre im Mindesten zu erwarten gewesen,
+dass der Beschwerdeführer in einem E-Mail an C.______ und E.______ die
+aufgrund der Reise nach […] im Land D.______ zu erwartenden Mehrkosten
+auflistet und so für klare Verhältnisse sorgt. Dass er dies unterliess, liegt
+wohl in der unzutreffenden Annahme des Beschwerdeführers begründet, die
+Verrechnung der gesamten Reisedauer zum vereinbarten Stundensatz sei
+selbstverständlich. Letztlich lässt sich auch weder aus den E-Mails von
+E.______, welcher mehrmals für den Einsatz des Beschwerdeführers dankte und
+ihm die Zahlung der Rechnung in Aussicht stellte, noch aus den Teilzahlungen
+schliessen, dass der Beschwerdeführer seiner Aufklärungspflicht vor der
+Flugreise nachkam.
+Damit hat der
+Beschwerdeführer gegen seine Aufklärungspflicht verstossen, wobei nach der
+hier vertretenen Auffassung eine Verletzung von Art. 12 lit. i
+BGFA, nicht jedoch von Art. 12 lit. a BGFA vorliegt.
+3.3
+3.3.1
+Neben der Pflicht zur Aufklärung über die Grundsätze
+der Rechnungsstellung schreibt Art. 12 lit. i BGFA vor, dass die Anwälte ihre
+Klientschaft periodisch oder auf Verlangen über die Höhe des geschuldeten
+Honorars informieren. Auch diese Pflicht dient dazu, Streitigkeiten über die
+Höhe des Honorars zu vermeiden (Botschaft des Bundesrats zum Bundesgesetz
+über die Freizügigkeit der Anwältinnen und Anwälte vom 28. April 1999,
+BBl 1999 6013 ff., 6057 f.). Wie sich aus dem Wortlaut der
+Bestimmung ergibt, hat der Anwalt den Klienten nicht nur auf eine
+entsprechende Frage hin, sondern auch unaufgefordert periodisch über die Höhe
+des geschuldeten Honorars zu unterrichten. In welchen zeitlichen Abständen
+eine Information erforderlich ist, beurteilt sich anhand der konkreten
+Verhältnisse im Einzelfall (Alexander Brunner et al., Anwaltsrecht,
+Zürich/Basel/Genf 2015, S. 175; Fellmann, Art. 12 N. 171 und
+171b). Bei längeren Aufträgen wird eine Periode von vier Monaten bis ein Jahr
+als angemessen erachtet (Brunner, S. 175).
+3.3.2
+Soweit der Beschwerdeführer geltend macht,
+Art. 12 lit. i BGFA schreibe nicht vor, dass Zwischenabrechnungen
+zu erstellen seien, trifft dies zu. Allerdings verkennt er, dass die
+periodische Information über die Höhe des bis zu einem gewissen Zeitpunkt
+geschuldeten Honorars auch durch eine schlichte Mitteilung erfolgen kann.
+Insofern kann er aus dem von ihm geltend gemachten Umstand, dass C.______ vom
+Land D.______ aus ohnehin keine Anwaltsrechnung hätte bezahlen können, nichts
+zu seinen Gunsten ableiten.
+Die Beschwerdegegnerin
+erachtet das ab der Mandatsübernahme vom 4. Januar 2016 bis Ende Januar
+2016 angelaufene Honorar von Fr. 6'972.- (ohne Mehrwertsteuer und
+Spesen) als derart hoch, dass der Beschwerdeführer C.______ und E.______
+bereits Ende Januar 2016 über das aufgelaufene Honorar hätte informieren
+müssen. Es mag zwar zutreffen, dass das bis Ende Januar 2016 angefallene
+Honorar für einen Privatklienten "relativ hoch" war. Indessen
+unterlässt es die Beschwerdegegnerin, die konkreten Umstände des Mandats zu
+berücksichtigen. Wesentliche Bedeutung für die Frage, in welchen Abständen
+über das geschuldete Honorar zu informieren ist, kommt dem Kenntnisstand der
+Klienten zu. Mit anderen Worten ist massgeblich, ob sie den angefallenen
+Aufwand in etwa abschätzen können oder nicht.
+Im Januar 2016 bestand die
+Tätigkeit des Beschwerdeführers im Wesentlichen aus der Besprechung mit
+E.______, verschiedenen telefonischen und schriftlichen Kontakten per E-Mail
+mit C.______ und E.______, mit Vertretern des Eidgenössischen Departements
+für auswärtige Angelegenheiten (EDA) sowie mit dem für C.______ zuständigen Rechtsanwalt
+aus dem Land D.______. Von den im Januar 2016 verrechneten knapp
+25 Stunden entfielen unter anderem eineinhalb Stunden auf die
+Erstbesprechung mit E.______, gut sieben Stunden auf den telefonischen
+Verkehr mit C.______ oder E.______ und knapp neun Stunden auf das Lesen und
+Beantworten von E-Mails. Neben den eigenen Kontakten mit dem Beschwerdeführer
+wurden C.______ und E.______ auch über den weiteren E-Mail-Verkehr des
+Beschwerdeführers informiert, wurde ihnen doch regelmässig eine Kopie der
+E-Mails zugestellt. Damit waren sie fortlaufend über den grössten Teil des
+beim Beschwerdeführer angefallenen Aufwands im Bilde. Anders, als wenn etwa
+langwierige Abklärungen zu tätigen oder komplexe Rechtsschriften zu schreiben
+gewesen wären, für welche der zeitliche Aufwand durch einen juristischen
+Laien nur schwer abzuschätzen ist, bestand vorliegend unter den gegebenen
+Umständen keine Pflicht des Beschwerdeführers, seinen Klienten bereits nach
+knapp einem Monat über das angefallene Honorar zu informieren, war dessen
+Höhe doch für C.______ und E.______ abschätzbar.
+Im Februar 2016 ist ein
+Honorar von Fr. 18'306.40 (ohne Mehrwertsteuer und Spesen) aufgelaufen.
+Von den verrechneten gut 65 Stunden entfielen knapp 55 Stunden auf
+die Reise nach und den Aufenthalt in […] im Land D.______. Der restliche
+Aufwand fiel wiederum vor allem durch verschiedene Telefongespräche und
+E-Mail-Kontakte an. Der Umfang der Tätigkeit des Beschwerdeführers musste
+C.______ und E.______ im Grossen und Ganzen bekannt gewesen sein. Ausnahme
+bildet einzig die volle Verrechnung der Reisedauer (vgl. dazu vorne
+E. II/3.2.2), indessen darf die diesbezügliche ungenügende Information
+nicht doppelt sowohl unter dem Titel der ungenügenden Information über die
+Höhe des mutmasslichen Honorars als auch unter demjenigen der ungenügenden
+periodischen Information über das geschuldete Honorar sanktioniert werden.
+Zwar wäre es durchaus wünschenswert gewesen, wenn der Beschwerdeführer seinen
+Klienten Ende Februar 2016 über das bereits angefallene Honorar informiert
+hätte, allerdings kann ihm in Anbetracht dessen, dass C.______ und E.______
+seinen Aufwand abschätzen konnten, keine Verletzung von Art. 12
+lit. i BGFA vorgeworfen werden. Indem die Beschwerdegegnerin es
+unterliess, die konkreten Umstände des Einzelfalls zu würdigen und auf einen
+Verstoss gegen Art. 12 lit. i BGFA erkannte, verletzte sie Bundesrecht.
+3.4
+3.4.1
+Art. 398 Abs. 2 des Obligationenrechts vom 30. März
+1911 (OR) schreibt dem Beauftragten vor, das ihm übertragene Geschäft getreu
+und sorgfältig auszuüben. Die Verpflichtung zur sorgfältigen und
+gewissenhaften Ausübung des Anwaltberufs im Sinne von Art. 12
+lit. a BGFA beinhaltet auch die Pflicht, die grundlegenden
+(zivilrechtlichen) Treuepflichten zu beachten. In diesem Zusammenhang kommt
+den Benachrichtigungspflichten des Rechtsanwalts wesentliche Bedeutung zu.
+Dieser hat den Klienten nicht nur auf Verlangen zu informieren. Er muss ihn
+vielmehr unaufgefordert und sofort über alle für die Mandatsführung
+wesentlichen Umstände orientieren (Fellmann, Art. 12 N. 26 und
+29 f.; Testa, S. 84 f.).
+3.4.2
+Zu prüfen ist, ob die Beschwerdegegnerin dem
+Beschwerdeführer zu Recht vorwirft, er habe seine Orientierungspflicht
+verletzt, indem er C.______ und E.______ nicht darüber informiert habe, dass
+die Rechtsschutzversicherung keinen Beitrag an die Reise nach […] im Land
+D.______ leisten werde.
+Die Rechtsschutzversicherung
+G.______ teilte dem Beschwerdeführer am 14. Januar 2016 per E-Mail und
+mittels Schreiben mit, das Ereignis sei nicht versichert, da im
+Strafverfahren eine Versicherungsdeckung bei der Verfolgung fahrlässiger
+Verletzungen von Strafvorschriften bestehe, C.______ aber wegen vorsätzlicher
+Verletzungen von Strafvorschriften verfolgt werde. Der Beschwerdeführer
+leitete das E-Mail pflichtgemäss gleichentags C.______ und E.______ weiter.
+Die Rechtsschutzversicherung
+H.______ hatte E.______ bereits mit E-Mail vom 12. Januar 2016 darüber
+orientiert, dass bei Anschuldigung vorsätzlicher Rechtsverletzungen keine
+Versicherungsdeckung bestehe. Der Fall sei somit nicht gedeckt. Bei
+rechtskräftiger vollständiger Einstellung des Verfahrens oder rechtskräftigem
+vollständigem Freispruch würden die Kosten aber trotz Anschuldigung einer
+vorsätzlichen Rechtsverletzung grundsätzlich bis zu einer Versicherungssumme
+von Fr. 75'000.- rückerstattet. E.______ leitete das E-Mail am
+14. Januar 2016 dem Beschwerdeführer weiter. Mit E-Mail vom
+29. Januar 2016 teilte die H.______ dem Beschwerdeführer mit, dass die
+Bemühungen vor Ort im Zusammenhang mit dem Conciliation Meeting im Land
+D.______ auch bei einem Freispruch von C.______ nicht vergütet werden könnten.
+Die Anwesenheit des Beschwerdeführers am Meeting im Land D.______ sei nicht
+zwingend nötig, da womöglich auch juristisch ausgebildete Personen der
+Schweizer Botschaft an diesem Meeting teilnehmen würden und die Anwesenheit
+des für C.______ zuständigen Strafverteidigers aus dem Land D.______
+gewährleistet sei. Der Beschwerdeführer macht zu Recht nicht geltend, dass er
+dieses E-Mail C.______ und/oder E.______ zeitgerecht von sich aus
+weitergeleitet hat. So ergibt sich aus den Akten, dass C.______ die Weiterleitung
+des E-Mails vom Beschwerdeführer verlangen musste, was er am 25. Januar
+2017 und damit knapp ein Jahr nach der Zustellung des E-Mails an den
+Beschwerdeführer denn auch tat.
+Soweit der
+Beschwerdeführer ausführt, die H.______ habe E.______ mit E-Mail vom
+12. Januar 2016 darüber informiert, dass bei vorsätzlicher
+Rechtsverletzung keine Versicherungsdeckung bestehe, weshalb C.______ und
+E.______ sehr wohl gewusst hätten, dass sie für die gesamten Kosten selber
+aufkommen müssten, trifft dies nicht zu. Er unterschlägt den wesentlichen
+Umstand, dass bei einem vollständigen Freispruch oder bei einer vollständigen
+Einstellung des Verfahrens eine Versicherungsdeckung bis zu einem Betrag von
+Fr. 75'000.- bestand, obwohl C.______ wegen eines vorsätzlich verübten
+Delikts verfolgt wurde.
+Da C.______ und E.______
+folglich davon ausgehen durften, dass die H.______ bei einer Einstellung des
+Verfahrens oder bei einem Freispruch die Kosten übernehmen werde, kommt dem
+E-Mail der H.______ vom 29. Januar 2016 wesentliche Bedeutung zu. Für
+den Entscheid, ob der Beschwerdeführer nach […] im Land D.______ reisen
+sollte oder nicht, war die Kenntnis darüber wesentlich, dass die H.______ es
+als nicht notwendig erachtete, dass der Beschwerdeführer ins Land D.______
+reiste, weshalb sie selbst bei einem Freispruch nichts an die Reisekosten und
+die Bemühungen des Beschwerdeführers in […] im Land D.______ zahlen würde.
+Der Beschwerdeführer wäre daher verpflichtet gewesen, das vorerwähnte E-Mail der
+H.______ C.______ und E.______ nach Empfang umgehend weiterzuleiten, so wie
+er es mit demjenigen der G.______ getan hatte. Indem er dies unterliess,
+hielt er für C.______ und E.______ wesentliche Informationen zurück. Dabei
+ist besonders stossend, dass er E.______ mit E-Mail vom 29. Januar 2016,
+um 22.24 Uhr, die Angaben für die Flugreise nach […] im Land D.______
+mitteilte, den gleichentags um 11.18 Uhr empfangenen abschlägigen
+Entscheid der H.______ hingegen mit keinem Wort erwähnte. Daraus ist ohne
+Weiteres zu folgern, dass der Beschwerdeführer seine Reise ins Land D.______
+nicht gefährden wollte und so im eigenen Interesse anstatt in demjenigen
+seines Klienten handelte. Insgesamt erkannte die Beschwerdegegnerin zu Recht,
+dass der Beschwerdeführer seiner Orientierungspflicht nicht nachgekommen war
+und damit gegen die Pflicht zur sorgfältigen und gewissenhaften
+Berufsausübung im Sinne von Art. 12 lit. a BGFA verstossen hat.
+4.
+4.1
+4.1.1
+Die Beschwerdegegnerin ging sodann davon aus, dass
+der Beschwerdeführer gegen Art. 12 lit. a BGFA verstossen habe, indem er für
+die Reise nach […] im Land D.______ ein krass übersetztes Honorar in Rechnung
+gestellt habe. Reisezeiten dürfe der Rechtsanwalt zwar in der Regel zu den
+gleichen Ansätzen wie Arbeitszeiten in Rechnung stellen, soweit er diese Zeit
+nicht anderweitig, etwa zum Aktenstudium nutzen könne. Das Honorar müsse
+jedoch angemessen sein, was sich nach den konkreten Umständen beurteile. Der
+Beschwerdeführer habe eine mehrtägige internationale Reise unternommen, auf
+welche die vorgenannte Kostenregelung nicht zugeschnitten sei. Der
+Beschwerdeführer erkläre zwar, ausschliesslich im Interesse seines Mandanten
+gereist zu sein, auf dem Weg jeweils Akten des Mandats studiert sowie
+E-Mail-Nachrichten und Briefentwürfe vorbereitet zu haben und damit während
+der Reisezeit mit mandatsbezogener Arbeit beschäftigt gewesen zu sein. Dies
+könne aber nicht nachvollzogen werden. Es leuchte nicht ein, welche Akten er
+während der Reise gelesen und studiert haben sollte. Für die Rückreise gebe
+der Beschwerdeführer selber an, nur etwas mehr als vier Stunden mit dem
+Mandat beschäftigt gewesen zu sein. Das E-Mail vom 10. Februar 2016,
+welches er gemäss seinen Angaben während seiner Flugreise geschrieben habe,
+habe er seinem Klienten gar ein zweites Mal in Rechnung gestellt.
+Hinsichtlich der verrechneten Reisezeit sei somit die Honorarrechnung krass
+übersetzt. Die Zeit, welche er aufgewendet habe, um während der Reise Akten
+zu studieren, E-Mails vorzubereiten und Briefe zu entwerfen, habe er seinem
+Klienten in Rechnung stellen dürfen. Den Rest aber nicht.
+4.1.2
+Der Beschwerdeführer rügt, die Beschwerdegegnerin
+berücksichtige zu Unrecht nicht, dass C.______ und E.______ nach Erhalt der
+Honorarrechnungen nicht protestiert hätten, sondern erst reagiert hätten, als
+ihnen klar gewesen sei, dass er den Betreibungsweg beschreiten werde. Die
+vorbehaltlosen und bedingungslosen Anzahlungen bedeuteten nichts anderes als
+eine bedingungslose Anerkennung der Honorarrechnungen. Er habe zudem
+freiwillig seinen Stundenansatz von Fr. 300.- auf Fr. 280.-
+gesenkt. Die Aufsichtsbehörde habe nur einzuschreiten, wenn die Rechnung des
+Anwalts krass übersetzt sei. Dies sei vorliegend nicht der Fall. Die
+Aufsichtskommission begründe nicht, weshalb eine Reise ins Ausland anders zu
+beurteilen sei als eine solche innerhalb der Schweiz. Auf einen allfälligen
+Mehrwert während der Flugzeit komme es nicht an. Unzutreffend sei
+schliesslich die Feststellung der Beschwerdegegnerin, dass er ein E-Mail
+zweimal verrechnet habe. Er habe nämlich während der Reisezeit die
+E-Mail-Nachrichten offline vorbereitet. Eine nachträgliche Überarbeitung oder
+Ergänzung sei üblich.
+4.2
+Die Höhe des Honorars gehört grundsätzlich zur
+Vertragsfreiheit. Zuständig für die Überprüfung der geforderten Vereinbarung
+ist der Zivilrichter. Einzig wenn eine krass übersetzte Honorarforderung
+gestellt wird, kann dies zu einer disziplinarrechtlichen Sanktion durch die
+Aufsichtsbehörde führen (Brunner, S. 92; Fellmann, Art. 12
+N. 169). Es ist dabei im Einzelfall abzuklären, ob das Honorar in einem
+angemessenen Verhältnis zum Aufwand stand. Wann ein Honorar krass übersetzt
+ist, beantwortet die Lehre und Rechtsprechung nicht einheitlich. Teilweise
+wird vertreten, eine Abweichung von über 30 % könne zu einer
+Disziplinierung führen (Brunner, S. 92; vgl. auch Entscheid des
+Kantonsgerichts St. Gallen AW.2017.74, AW.2017.75 vom 22. August
+2018 E. 3a). Teilweise wird ausgeführt, ein krass übersetztes Honorar
+liege etwa vor, wenn der Anwalt das Dreifache des angemessenen Betrags
+fordere (Fellmann, Art. 12 N. 169; vgl. auch Entscheid der
+Anwaltsaufsichtskommission Appenzell Ausserrhoden AAK 16 2 vom
+6. April 2017 E. 6.2.4).
+4.3
+Der Beschwerdegegnerin ist zwar zuzustimmen, dass
+nicht davon ausgegangen werden kann, die Verrechnung der ganzen Reisezeit sei
+bei einem interkontinentalen Flug ohne Weiteres üblich und angemessen
+(vgl. dazu vorne E. II/3.2.2). Daraus folgt aber nicht zwingend,
+dass von einem übersetzten Honorar auszugehen ist. Die Beschwerdegegnerin
+betrachtet die Reisekosten isoliert und schliesst daraus, dass der
+Beschwerdeführer die gesamte Reisezeit verrechnete, auf ein krass übersetztes
+Honorar. Damit verkennt sie aber, dass sich die Frage, ob ein krass
+übersetztes Honorar vorliegt, am gesamten Honorarvolumen misst. Dies zeigt
+sich am folgenden Extrembeispiel: Setzt der Anwalt in einem aufwändigen Fall
+für ein E-Mail einen Aufwand von einer Stunde ein, obwohl dafür nur höchstens
+20 Minuten angemessen wären, wäre bei einer isolierten Betrachtung
+dieser Aufwandposition das Honorar bereits krass übersetzt, obwohl der zu
+viel verlangte Aufwand von 40 Minuten im Verhältnis zur Gesamtrechnung
+kaum ins Gewicht fällt.
+Vorliegend lässt es die
+Beschwerdegegnerin zumindest für den Hinflug offen, welchen zeitlichen
+Aufwand sie für angemessen hält, führt aber aus, dass während des Hinflugs
+nur wenig Aufwand für das Mandat angefallen sei. Für den Rückflug geht sie
+von einem verrechenbaren Aufwand von gut vier Stunden aus. Insgesamt dürfte
+die Beschwerdegegnerin allermindestens die Verrechnung eines Aufwands von
+fünf Stunden für die Hin- und die Rückreise als angemessen erachten. Es ist
+unbestritten, dass der Beschwerdeführer mit seiner Klientschaft einen
+Stundenansatz von Fr. 300.- (ohne Mehrwertsteuer) vereinbarte. Er
+verrechnete insgesamt einen Aufwand von 119,39 Stunden
+(107,35 Stunden plus 12,04 Stunden). Allerdings verwendete er aus
+Kulanzgründen einen reduzierten Stundenansatz von Fr. 280.- (ohne
+Mehrwertsteuer), womit ein Honorar von Fr. 33'429.20 (ohne Mehrwertsteuer
+und Auslagen) resultierte. Für die Reisezeit verrechnete er dabei insgesamt
+29 Stunden. Würde man stattdessen lediglich fünf Stunden als angemessen
+erachten, reduzierte sich der zu entschädigende Aufwand von 119,39 auf
+95,39 Stunden. Unter Berücksichtigung des ursprünglich vereinbarten
+Stundenansatzes von Fr. 300.- (ohne Mehrwertsteuer) verringerte sich das
+geschuldete Honorar auf Fr. 28'617.- (ohne Mehrwertsteuer). Selbst wenn
+man der strengen Ansicht der Beschwerdegegnerin folgt, kann dabei nicht von
+einem krass .ersetzten Honorar ausgegangen werden. Das geforderte Honorar
+liegt nämlich nur knapp 17 % über demjenigen, welches die
+Beschwerdegegnerin im Minimum als angemessen erachtet. Damit wird die
+Erheblichkeitsgrenze, welche ein Einschreiten der Aufsichtsbehörde rechtfertigt,
+deutlich verfehlt. Das würde im Übrigen auch dann gelten, wenn man lediglich
+den Aufwand bis zur ersten Rechnungsstellung vom 21. Juli 2016
+berücksichtigte, läge doch das Honorar dann bloss um gut 20 % über dem
+im Mindesten gerechtfertigten Honorar.
+Sodann ist dem
+Beschwerdeführer entgegen der Ansicht der Beschwerdegegnerin nicht
+vorzuwerfen, dass er für das E-Mail an den für C.______ zuständigen Rechtsanwalt
+aus dem Land D.______ vom 10. Februar 2016 einen Aufwand von
+0,17 Stunden verrechnete, obwohl er es gemäss seinen Angaben während des
+Rückflugs geschrieben hat. Auch wenn das E-Mail sehr kurz ist, erscheint die
+Begründung des Beschwerdeführers nachvollziehbar, dass er das E-Mail vor dem
+Senden nochmals kontrolliert habe, zumal er es auf Englisch und damit in
+einer Fremdsprache verfasste. Damit kann dem Beschwerdeführer auch nicht
+vorgeworfen werden, er habe eine einzelne Leistung doppelt verrechnet.
+Zusammenfassend ist
+nochmals daran zu erinnern, dass die Beurteilung von strittigen Honorarforderungen
+dem Zivilrichter obliegt. Die Aufsichtsbehörde hat nur ausnahmsweise
+einzuschreiten. Da selbst bei einer strengen Sichtweise bei Weitem nicht von
+einem krass übersetzten Honorar ausgegangen werden kann, hat die
+Beschwerdegegnerin zu Unrecht auf eine Verletzung von Art. 12
+lit. a BGFA erkannt.
+5.
+5.1
+5.1.1
+Die Beschwerdegegnerin bemängelt schliesslich die
+Transparenz der Rechnungsstellung durch den Beschwerdeführer, worin sie einen
+Verstoss gegen Art. 12 lit. a BGFA sieht. Die erste Honorarrechnung
+über Fr. 33'963.85 datiere vom 21. Juli 2016. Am 16. September
+2016 sei dem Beschwerdeführer die Kulanzzahlung der H.______ über
+Fr. 5'000.- überwiesen worden. Er habe dann von C.______ mit Schreiben
+vom 21. November 2017 die noch ausstehenden Fr. 26'963.85 verlangt,
+wobei die Zahlung der H.______ nur implizit berücksichtigt worden sei. Unklar
+bleibe, weshalb weitere Fr. 2'000.- in Abzug gebracht worden seien.
+Gleichentags habe er zudem eine weitere Honorarrechnung über
+Fr. 3'750.15 ausgestellt. Der Beschwerdeführer habe es unterlassen, die
+Zahlung der H.______ umgehend seinem Klienten anzuzeigen oder ihm eine
+korrigierte Honorarrechnung zuzustellen. Auch habe er ihm keine detaillierte
+Endabrechnung zugestellt, welche die Kostenbeteiligung der H.______ ausweise.
+Erst als C.______ die Honorarforderung nicht beglichen habe, habe er zwei
+Monate nach dem Eingang der Kostenbeteiligung seine Honorarforderung
+reduziert. Die mit dem Schreiben zugestellte Schuldanerkennung habe aber über
+den vollen Betrag von Fr. 33'963.85 gelautet. Hätte C.______ diese
+unterzeichnet, hätte der Beschwerdeführer über einen provisorischen
+Rechtsöffnungstitel verfügt, welcher ihm gar nicht zugestanden hätte.
+5.1.2
+Der Beschwerdeführer macht geltend, aus dem
+Zahlungsbefehl gehe hervor, dass er die damals noch offene Honorarforderung
+von Fr. 25'963.85 in Betreibung gesetzt habe. Diese ergebe sich aus der
+Differenz der Honorarnote vom 21. Juli 2016 über Fr. 33'963.85
+abzüglich der Zahlung der  H.______ von Fr. 5'000.- sowie den beiden
+Ratenzahlungen von Fr. 2'000.- und Fr. 1'000.-. Erst nach einer Besprechung
+vom 31. August 2016 zwischen ihm und der H.______, an welcher auch
+C.______ anwesend gewesen sei, sei die H.______ bereit gewesen, die
+Kulanzzahlung von Fr. 5'000.- zu leisten. Die Zahlung der H.______ habe
+daher bei der Rechnungsstellung vom 21. Juli 2016 nicht berücksichtigt
+werden können. Er habe C.______ und E.______ mitgeteilt, dass die H.______ Fr. 5'000.-
+zahlen werde. Nach Rücksprache mit C.______ habe er die H.______ angewiesen,
+den Betrag auf sein Bankkonto zu überweisen. Es habe kein Grund für eine
+korrigierte Honorarrechnung bestanden, sei doch für alle Beteiligten klar
+gewesen, dass nach Ausstellung der Honorarrechnung vom 21. Juli 2016
+eingehende Zahlungen in Abzug gebracht würden, was gemäss Zahlungsbefehl auch
+so erfolgt sei. Es sei ihm auch nicht vorzuwerfen, dass er auf der
+Schuldanerkennung, welche er am 21. November 2017 C.______ zugestellt
+habe, den effektiv noch zu bezahlenden Betrag nicht aufgeführt habe. Die
+Schuldanerkennung enthalte richtigerweise die Rechnungsnummer, das
+Rechnungsdatum und den Rechnungsbetrag.
+5.2
+Zur sorgfältigen und gewissenhaften Berufsausübung
+im Sinne von Art. 12 lit. a BGFA gehört auch die Pflicht des
+Anwalts, transparente Rechnungen zu stellen. Für den Klienten muss klar
+erkennbar sein, aus welchem Grund er dem Rechtsanwalt was schuldet.
+5.3
+5.3.1
+Der Beschwerdeführer stellte C.______ am
+21. Juli 2016 eine Honorarrechnung über Fr. 33'963.85 zu. Mit
+E-Mail vom 13. September 2016 wies er die H.______ an, die Kulanzzahlung
+von Fr. 5'000.- auf sein Konto zu überweisen, was diese mit Valuta vom
+16. September 2016 tat. Mit Valuta vom 27. Februar 2017 leistete E.______
+eine Anzahlung von Fr. 2'000.-. Am 21. November 2017 sandte der Beschwerdeführer
+C.______ eine weitere Honorarrechnung über Fr. 3'750.15. Gleichentags
+sandte er ihm ein als "letzte Mahnung" bezeichnetes Schreiben, in
+welchem er C.______ aufforderte, den noch offenen Betrag von
+Fr. 26'963.85 zu bezahlen. Dem Schreiben war eine Schuldanerkennung und
+eine Entbindungserklärung vom Berufsgeheimnis beigefügt, wobei die
+Schuldanerkennung über den Betrag von Fr. 33'963.85 lautete. Mit Valuta
+vom 21. November 2017 leistete E.______ eine erneute Anzahlung von
+Fr. 1'000.-. Am 19. Juni 2018 betrieb der Beschwerdeführer E.______
+über Fr. 25'963.85.
+5.3.2
+Wie die Beschwerdegegnerin zutreffend ausführt, wäre
+vom Beschwerdeführer zu erwarten gewesen, dass er den Eingang der Zahlung der
+H.______ umgehend seinem Klienten mitteilt. Allerdings ist zu beachten, dass
+der Beschwerdeführer das E-Mail vom 13. September 2016, mit welchem er
+die H.______ anwies, die Zahlung von Fr. 5'000.- auf sein Konto zu
+leisten, C.______ weiterleitete. Dieser durfte davon ausgehen, dass die
+Zahlung auch tatsächlich geleistet wird. Sodann ist auch anzunehmen, dass er
+Kenntnis von der Anzahlung seines Vaters vom 27. Februar 2017 in der Höhe von
+Fr. 2'000.- hatte. Zwar wäre es wünschenswert gewesen und hätte der
+Transparenz gedient, wenn der Beschwerdeführer bei seinem als "letzte
+Mahnung" bezeichneten Schreiben die eingegangenen Zahlungen aufgeführt
+hätte. Für C.______ war es aber entgegen der Auffassung der
+Beschwerdegegnerin erklärbar, weshalb der Beschwerdeführer am
+21. November 2017 noch Fr. 26'963.85 (Fr. 33'963.85 –
+Fr. 5'000.- – Fr. 2'000.-) forderte. Es bestand für ihn denn auch
+offenbar kein Anlass zur Nachfrage. Allein deshalb kann nicht auf einen
+Verstoss gegen die Berufsregeln erkannt werden. Unverständlich ist hingegen,
+dass der Beschwerdeführer in der dem Schreiben beigelegten Schuldanerkennung
+den vollen Betrag von Fr. 33'963.85 aufführte. Hätte C.______ die
+Schuldanerkennung tatsächlich unterschrieben, hätte der Beschwerdeführer –
+wie die Beschwerdegegnerin zu Recht ausführt – über einen provisorischen
+Rechtsöffnungstitel verfügt, welcher ihm gar nicht zugestanden hätte.
+Entgegen der Auffassung des Beschwerdeführers oblag es dabei nicht C.______,
+den tatsächlich noch geschuldeten Betrag auf der Schuldanerkennung
+handschriftlich zu vermerken oder eine korrigierte Schuldanerkennung zu
+verlangen. Immerhin ist dem Beschwerdeführer aber zu Gute zu halten, dass er
+am 19. Juni 2018 nur den tatsächlich noch geschuldeten Betrag von
+Fr. 25'963.85 (Fr. 26'963.85 - Fr. 1'000.- [Anzahlung vom
+21. November 2017]) in Betreibung setzte. Daraus kann geschlossen
+werden, dass der Beschwerdeführer zwar bei der Ausfertigung der
+Schuldanerkennung unsorgfältig gearbeitet hatte, von C.______ oder E.______
+aber nicht etwas verlangen wollte, was nicht geschuldet war. Dennoch hat er
+gegen die Pflicht zur sorgfältigen und gewissenhaften Berufsausübung im Sinne
+von Art. 12 lit. a BGFA verstossen.
+6.
+6.1
+Die Beschwerdegegnerin büsste den Beschwerdeführer
+mit Fr. 4'000.-. Dabei ging sie fälschlicherweise davon aus, der
+Beschwerdeführer habe gegen seine Pflicht zur periodischen Information über
+die bereits angefallenen Kosten verstossen und ein krass übersetztes Honorar
+verlangt. Hingegen bemängelte sie zu Recht, dass der Beschwerdeführer seine
+Klientschaft nicht genügend über die Kosten der Flugreise ins Land D.______
+und die Weigerung der H.______, sich an den Kosten des Einsatzes im Land
+D.______ zu beteiligen, informiert hatte. Auch erkannte sie hinsichtlich der
+Schuldanerkennung – nicht aber bezüglich der Honorarrechnung – zutreffend auf
+eine ungenügende Transparenz der Rechnungsstellung. Da ein nicht
+unerheblicher Teil der dem Beschwerdeführer vorgehaltenen Verletzungen von
+Berufsregeln wegfällt, lässt sich die ausgesprochene Disziplinarmassnahme
+nicht aufrechterhalten. Das Verwaltungsgericht hat daher in freiem Ermessen
+über eine angemessene Sanktion zu befinden.
+6.2
+Art. 17 Abs. 1 BGFA sieht als Disziplinarmassnahmen
+eine Verwarnung (lit. a), einen Verweis (lit. b), eine Busse bis zu
+Fr. 20'000.- (lit. c), ein befristetes Berufsausübungsverbot für
+längstens zwei Jahre (lit. d) sowie ein dauerndes Berufsausübungsverbot
+(lit. e) vor.
+Disziplinarische
+Sanktionen gegen Anwälte unterstehen dem Grundsatz der Verhältnismässigkeit.
+Es ist demnach geboten, dass sie zu Art und Schwere der begangenen
+Pflichtwidrigkeit in einem angemessenen Verhältnis stehen und nicht über das
+hinausgehen, was erforderlich ist, um den Schutz des rechtsuchenden Publikums
+zu gewährleisten und Störungen des geordneten Gangs der Rechtspflege zu
+verhindern
+(BGE 106 Ia 100
+E. 13c).
+Eine Verwarnung ist nur
+für erstmalige und leichteste Verfehlungen vorgesehen. Der Verweis ist bei
+leichteren Pflichtverletzungen und Fällen, die sich an der Grenze zu
+mittelschweren Fällen angezeigt, während die Busse das "Mittelfeld"
+der disziplinarischen Sanktionen bildet (Tomas Poledna, in Walter
+Fellmann/Gaudenz G. Zindel [Hrsg.], Kommentar zum Anwaltsgesetz,
+Zürich/Basel/Genf 2011, Art. 17 N. 30 ff.).
+6.3
+Vorliegend fällt ins Gewicht, dass der
+Beschwerdeführer es unterliess, hinsichtlich der Verrechnung der Reisekosten
+Klarheit zu schaffen. Dabei kommt insbesondere dem Umstand besonderes Gewicht
+zu, dass er C.______ und E.______ nicht darüber informierte, dass die
+Rechtsschutzversicherung selbst im Falle eines Freispruchs sich weigerte, an
+die Reise nach und den Aufenthalt in […] im Land D.______ etwas zu zahlen, da
+sie die Anwesenheit des Beschwerdeführers als nicht notwendig erachtete.
+Unabhängig davon, ob C.______ und E.______ selbst bei Kenntnis aller Umstände
+die Reise ins Land D.______ befürwortet hätten oder nicht, ist zu
+beanstanden, dass der Beschwerdeführer ihnen für die Entscheidfindung
+wesentliche Informationen vorenthielt. Dies lässt einzig den Schluss zu, dass
+der Beschwerdeführer selbst an der Reise ins Land D.______ interessiert war
+und diese nicht gefährden wollte. Damit hat der Beschwerdeführer im
+Zusammenhang mit der Reise ins Land D.______ gegen Art. 12 lit. a
+und lit. i BGFA verstossen, wobei die Verfehlungen nicht mehr leicht
+wiegen, sondern im Bereich der mittelschweren Verletzungen von Berufsregeln
+liegen. Die unsorgfältig ausgefertigte Schuldanerkennung ist hingegen als
+geringer Verstoss gegen Art. 12 lit. a BGFA zu werten, da die
+Forderung aus dem Schreiben, welchem die Schuldanerkennung beigelegt war,
+ohne Weiteres erkennbar war, und da der Beschwerdeführer letztlich nur den
+tatsächlich offenen Betrag in Betreibung setzte.
+Da dem Beschwerdeführer
+unter anderem eine mittelschwere Verletzung der Berufsregeln vorzuwerfen ist,
+kommt nach dem Dargelegten weder eine Verwarnung noch ein Verweis in
+Betracht. Folglich ist mit der Beschwerdegegnerin davon auszugehen, dass sich
+eine Busse als notwendig erweist. Bei der Bemessung der Höhe der Busse ist
+zunächst zu berücksichtigen, dass die Beschwerdegegnerin teilweise zu Unrecht
+auf einen Verstoss gegen die Berufsregeln erkannte (vgl. vorne
+E. II/6.1), was bereits nahelegt, die Busse substantiell zu reduzieren.
+Daneben ist zu beachten, dass der Beschwerdeführer noch nie disziplinarisch
+sanktioniert wurde. Schliesslich ist dem Umstand Rechnung zu tragen, dass ihn
+seine Klientschaft auch nach Empfang der Honorarnote lobte und sich dankbar
+zeigte. Die Eltern von C.______ führten denn auch mehrmals aus, die Forderung
+zu begleichen. Mitunter wohl wegen Zahlungsschwierigkeiten rügte E.______
+erstmals in einem E-Mail vom 24. März 2018 und damit mehr als eineinhalb
+Jahre nach der Rechnungsstellung, dass die Reisekosten zu hoch ausgefallen
+seien. Die Anzeige an die Aufsichtskommission erfolgte sodann erst, nachdem
+der Beschwerdeführer das Betreibungsverfahren eingeleitet hatte. Unter
+Berücksichtigung all dieser Umstände erweist sich eine Busse von
+Fr. 1'500.- als angemessen.
+7.
+Da der Beschwerdeführer
+durch die Beschwerdegegnerin zu Recht sanktioniert wurde, sind die Kosten-
+und Entschädigungsfolgen des vorinstanzlichen Verfahrens nicht zu ändern.
+Namentlich bemisst sich der für die Beschwerdegegnerin anfallende Aufwand
+nicht an der Art oder Höhe der zulässigen Sanktion (vgl. auch
+Art. 22 AnwG).
+8.
+Zusammenfassend hat der
+Beschwerdeführer gegen Art. 12 lit. a und lit. i BGFA
+verstossen, wofür er mit einer Busse von Fr. 1'500.- zu sanktionieren
+ist. Demgemäss ist seine Beschwerde teilweise gutzuheissen.
+III.
+1.
+Nach Art. 34 Abs. 1 BGFA
+i.V.m. Art. 14 Abs. 2 AnwG und Art. 134 Abs. 1 lit. c VRG hat
+die Partei, welche im Beschwerdeverfahren unterliegt, die amtlichen Kosten zu
+tragen. Unterliegt eine Partei nur teilweise, werden die amtlichen Kosten
+angemessen herabgesetzt (Art. 136 Abs. 2 VRG). Der Beschwerdeführer dringt
+mit seinem Hauptantrag, wonach gegen ihn keine Disziplinarmassnahme
+auszusprechen sei, nicht durch. Hingegen wird die ausgesprochene Busse
+substantiell reduziert. Ausgangsgemäss sind die pauschalen Gerichtskosten von
+Fr. 2'000.- den Parteien je zur Hälfte aufzuerlegen. Der Kostenanteil
+des Beschwerdeführers von Fr. 1'000.- ist mit dem bereits geleisteten Kostenvorschuss
+von Fr. 2'000.- zu verrechnen. Der restliche Betrag von Fr. 1'000.-
+ist ihm zurückzuerstatten. Der Kostenanteil der Beschwerdegegnerin von
+Fr. 1'000.- ist auf die Staatskasse zu nehmen (Art. 135 Abs. 1
+VRG).
+2.
+Dem anwaltlich vertretenen
+Beschwerdeführer steht aufgrund seines teilweisen Obsiegens gemäss Art. 34
+Abs. 1 BGFA i.V.m. Art. 14 Abs. 2 AnwG und Art. 138 Abs. 3
+lit. a VRG zu Lasten der Beschwerdegegnerin eine reduzierte
+Parteientschädigung von Fr.
+1'750.-
+(inkl. Mehrwertsteuer) zu.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird teilweise gutgeheissen. In Abänderung von
+Disp.-Ziff. 1 des Beschlusses der Beschwerdegegnerin vom 19. März 2019
+wird der Beschwerdeführer mit einer Busse von Fr. 1'500.- bestraft.
+2.
+Die
+Gerichtskosten von Fr. 2'000.- werden zur Hälfte dem Beschwerdeführer
+auferlegt und zur Hälfte auf die Staatskasse genommen. Vom bereits
+geleisteten Kostenvorschuss in der Höhe von Fr. 2'000.- werden dem
+Beschwerdeführer Fr. 1'000.- zurückerstattet.
+3.
+Die
+Beschwerdegegnerin wird verpflichtet, dem Beschwerdeführer innert 30 Tagen
+nach Rechtskraft dieses Entscheids eine Parteientschädigung von Fr. 1'750.-
+(inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
