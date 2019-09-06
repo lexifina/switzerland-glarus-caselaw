@@ -1,0 +1,1560 @@
+---
+decision_id: "gl_gerichte_OG.2018.00040"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2018.00040"
+docket_2: "OGS.2019.50"
+decided: "2019-09-06"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1160&W10_KEY=218274&nTrefferzeile=7&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/101/art-032.md", "switzerland/bund/acts/311.0/art-011.md", "switzerland/bund/acts/311.0/art-012.md", "switzerland/bund/acts/311.0/art-115.md", "switzerland/bund/acts/311.0/art-117.md", "switzerland/bund/acts/311.0/art-229.md", "switzerland/bund/acts/312.0/art-009.md", "switzerland/bund/acts/312.0/art-010.md", "switzerland/bund/acts/312.0/art-030.md", "switzerland/bund/acts/312.0/art-081.md", "switzerland/bund/acts/312.0/art-263.md", "switzerland/bund/acts/312.0/art-267.md", "switzerland/bund/acts/312.0/art-325.md", "switzerland/bund/acts/312.0/art-350.md", "switzerland/bund/acts/312.0/art-356.md", "switzerland/bund/acts/312.0/art-391.md", "switzerland/bund/acts/312.0/art-398.md", "switzerland/bund/acts/312.0/art-404.md", "switzerland/bund/acts/312.0/art-405.md", "switzerland/bund/acts/312.0/art-406.md", "switzerland/bund/acts/312.0/art-408.md", "switzerland/bund/acts/312.0/art-426.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/312.0/art-432.md", "switzerland/bund/acts/312.0/art-436.md", "switzerland/bund/acts/312.0/art-454.md", "switzerland/bund/acts/832.311.141/art-015.md"]
+---
+
+# GL Gerichte OG.2018.00040
+
+## Regeste
+
+Fahrlässige Tötung und Gefährdung durch Verletzung der Regeln der Baukunde
+
+## Text
+
+Glarus Obergericht 06.09.2019 OG.2018.00040 (OGS.2019.50)
+Glaris Obergericht 06.09.2019 OG.2018.00040 (OGS.2019.50)
+Glarona Obergericht 06.09.2019 OG.2018.00040 (OGS.2019.50)
+
+Fahrlässige Tötung und Gefährdung durch Verletzung der Regeln der Baukunde
+
+Kanton Glarus
+Obergericht
+Beschluss
+und Urteil vom 6. September 2019
+Verfahren
+OG.2018.00040/43/44
+A.______
+Beschuldigter,
+Berufungskläger
+(OG.2018.00040)
+und Berufungsbeklagter (OG.2018.00044)
+verteidigt durch F.______
+und
+B.______
+Beschuldigter
+und Berufungsbeklagter (OG.2018.00043)
+verteidigt durch G.______
+gegen
+1.
+Staatsanwaltschaft des Kantons Glarus
+Anklägerin,
+Berufungsbeklagte
+(OG.2018.00040)
+und Berufungsklägerin (OG.2018.00043/44)
+2.
+C.______
+Privatklägerin
+vertreten durch H.______
+betreffend
+Fahrlässige
+Tötung und
+Gefährdung durch Verletzung der Regeln der Baukunde
+Anträge de
+s
+Beschuldigten A.______
+(gemäss Berufungserklärung vom 20. Juli 2018
+[act. 19 im Verfahren OG.2018.00040], Berufungsbegründung vom
+26. Oktober 2018 [act. 31 S. 3 im Verfahren OG.2018.00040] und
+Eingabe vom 1. Februar 2019 [act. 17 S. 2 im Verfahren
+OG.2018.00044], sinngemäss):
+1.
+Es seien die Dispositiv-Ziffern
+1 (Schuldspruch wegen Gefährdung durch fahrlässige Verletzung der Regeln
+der Baukunde im Sinne von Art. 229 Abs. 2 StGB), 3 (Sanktion), 6
+(Kostenauflage) und 7 (Entschädigungsfolgen) des Urteils der
+Strafgerichtskommission des Kantonsgerichts Glarus vom 2. Mai 2018 im
+Verfahren SG.2017.00109 aufzuheben.
+2.
+Der
+Beschuldigte sei vollumfänglich freizusprechen.
+3.
+Die Berufung der
+Staatsanwaltschaft des Kantons Glarus sei vollumfänglich abzuweisen.
+4.
+Alles unter Kosten- und
+Entschädigungsfolgen zu Lasten des Staates.
+Anträge de
+r
+Anklägerin
+(gemäss Berufungserklärungen vom 14. Juli 2018 [act. 49 im
+Verfahren OG.2018.00043 und act. 1 im Verfahren OG.2018.00044],
+Berufungsbegründungen vom 14. November 2018 [act. 60
+S. 1 f. im Verfahren OG.2018.00043 und act. 13
+S. 1 f. im Verfahren OG.2018.00044] und Eingabe vom 1. Februar
+2019 [act. 41 S. 1 f. im Verfahren OG.2018.00040], sinngemäss):
+1.
+Es seien die Dispositiv-Ziffern
+1 (Freispruch von den Vorwürfen der fahrlässigen Tötung im Sinne von
+Art. 117 StGB und der Gefährdung durch fahrlässige Verletzung der
+Regeln der Baukunde im Sinne von Art. 229 Abs. 2 StGB), 4
+(Kostenauflage) und 5 (Entschädigungsfolgen) des Urteils der
+Strafgerichtskommission des Kantonsgerichts Glarus vom 2. Mai 2018 im
+Verfahren SG.2017.00108 (Beschuldigter B.______) aufzuheben.
+2.
+Es seien die Dispositiv-Ziffern
+2 (Freispruch vom Vorwurf der fahrlässigen Tötung im Sinne von
+Art. 117 StGB), 3 (Sanktion), 6 (Kostenauflage) und 7
+(Entschädigungsfolgen) des Urteils der Strafgerichtskommission des
+Kantonsgerichts Glarus vom 2. Mai 2018 im Verfahren SG.2017.00109
+(Beschuldigter A.______) aufzuheben.
+3.
+Die Beschuldigten B.______ und
+A.______ seien der fahrlässigen Tötung im Sinne von Art. 117 StGB und
+der Gefährdung durch fahrlässige Verletzung der Regeln der Baukunde im
+Sinne von Art. 229 Abs. 2 StGB schuldig zu sprechen.
+4.
+Der Beschuldigte B.______ sei
+mit einer Geldstrafe von 120 Tagessätzen zu je CHF 110.–, bedingt
+aufgeschoben bei einer Probezeit von zwei Jahren, zu bestrafen.
+5.
+Der Beschuldigte A.______ sei
+mit einer Geldstrafe von 140 Tagessätzen zu je CHF 380.–, bedingt
+aufgeschoben bei einer Probezeit von zwei Jahren, zu bestrafen.
+6.
+Die Berufung des Beschuldigten
+A.______ sei vollumfänglich abzuweisen.
+7.
+Alles unter Kostenfolgen für
+beide Instanzen zu Lasten des Beschuldigten.
+Anträge
+de
+s Beschuldigten B.______
+(gemäss Eingabe vom 30. Januar
+2019 [act. 64 im Verfahren OG.2018.00043], sinngemäss):
+1.
+Der Beschuldigte sei
+vollumfänglich freizusprechen.
+2.
+Die Berufung der
+Staatsanwaltschaft des Kantons Glarus sei vollumfänglich abzuweisen.
+3.
+Alles
+unter Kosten- und Entschädigungsfolgen zu Lasten des Staates.
+____________________
+Das
+Gericht
+zieht in Betracht:
+I.
+Prozessverlauf
+und Gegenstand der Berufung
+1.
+Die Staatsanwaltschaft des
+Kantons Glarus erliess gegen B.______ und A.______ am 14. August 2017 je
+einen Strafbefehl. In diesen sprach sie B.______ und A.______ im Zusammenhang
+mit einem Unfallereignis vom 12. Juli 2014 in [...] der fahrlässigen
+Tötung im Sinne von Art. 117 StGB und der Gefährdung durch fahrlässige
+Verletzung der Regeln der Baukunde im Sinne von Art. 229 Abs. 2
+StGB schuldig. Hierfür bestrafte sie B.______ mit einer bedingten Geldstrafe
+von 120 Tagessätzen zu je CHF 110.–, und A.______ mit einer bedingten
+Geldstrafe von 140 Tagessätzen zu je CHF 380.–, jeweils bei einer
+Probezeit von zwei Jahren (je act. 2 [SG.2017.00108 und SG.2017.00109] =
+Untersuchungsakten [nachfolgend: "U-act."] act. 19/1-2).
+2.
+Nach Einsprachen von B.______
+(U-act. 20/2) und A.______ (U-act. 20/1) überwies die
+Staatsanwaltschaft in Anwendung von Art. 356 Abs. 1 StPO die
+Angelegenheit zur gerichtlichen Beurteilung an die Strafgerichtskommission
+des Kantonsgerichts Glarus (Art. 11 Abs. 1 GOG/GL; je act. 1
+[SG.2017.00108 und SG.2017.00109]).
+3.
+3.1.
+Die
+Strafgerichtskommission fällte am 2. Mai 2018 ihre Urteile. B.______
+sprach sie vollumfänglich frei. Weiter verwies sie die Privatklägerin mit
+ihrer Zivilforderung auf den Zivilweg, nahm die Verfahrenskosten auf die
+Staatskasse und sprach sie B.______ eine Parteientschädigung im Betrag von
+CHF 10'500.– zu (act. 36 [unbegründet] und act. 45
+[begründet], je im Verfahren SG.2017.00108).
+3.2.
+A.______ sprach die
+Strafgerichtskommission zum einen vom Vorwurf der fahrlässigen Tötung frei
+und zum anderen wegen Gefährdung durch fahrlässige Verletzung der Regeln der
+Baukunde im Sinne von Art. 229 Abs. 2 StGB schuldig. Sie
+verurteilte ihn zu einer bedingten Geldstrafe von 30 Tagessätzen zu je
+CHF 270.–, bei einer Probezeit von zwei Jahren. Die Privatklägerin
+verwies sie mit deren Zivilforderung auf den Zivilweg. Die
+Untersuchungskosten auferlegte sie vollumfänglich, die Gerichtsgebühr im
+Umfang eines Drittels A.______. Schliesslich sprach sie A.______ zulasten der
+Gerichtskasse eine reduzierte Parteientschädigung in der Höhe von
+CHF 5'000.– zu (act. 4 [unbegründet] und act. 15 [begründet],
+je im Verfahren SG.2017.00109).
+4.
+Gegen diese Entscheide erklärten
+sowohl A.______ (Verfahren Nr. OG.2018.00040) als auch die Staatsanwaltschaft
+(Verfahren Nr. OG.2018.00043 [Beschuldigter B.______] und OG.2018.00044
+[Beschuldigter A.______]) beim Obergericht Berufung mit den eingangs
+(S. 3 f.) sinngemäss wiedergegebenen Anträgen (act. 19 im
+Verfahren OG.2018.00040 bzw. act. 49 im Verfahren OG.2018.00043 bzw.
+act. 1 im Verfahren OG.2018.00044). In der Folge teilte das Obergericht
+den Parteien mit, die Berufungen in einem schriftlichen Verfahren behandeln
+zu wollen. Dagegen opponierte keine Partei (act. 23-26; act. 33-37
+[OG.2018.00040]; act. 52-57 [OG.2018.00043]; act. 4-10
+[OG.2018.00044]). Auch Anschlussberufungen gingen keine ein. Die schriftliche
+Berufungsbegründung des Rechtsvertreters von A.______ datiert vom
+26. Oktober 2018 (act. 31 [OG.2018.00040]), die
+Berufungsbegründungen der Staatsanwaltschaft vom 14. November 2018
+(act. 60 [OG.2018.00043]; act. 13 [OG.2018.00044]). Die
+Berufungsantworten des Beschuldigten A.______ und der Staatsanwaltschaft
+ergingen beide am 1. Februar 2019 (act. 41 [OG.2018.00040];
+act. 17 [OG.2018.00044]), jene des Beschuldigten B.______ am
+30. Januar 2019 (act. 64 [OG.2018.00043]). Das Obergericht stellte
+sie den genannten Parteien sowie der Privatklägerin je wechselseitig zur Kenntnisnahme
+zu (act. 42 f. [OG.2018.00040]; act. 66-68 [OG.2018.00043];
+act. 19-21 [OG.2018.00044]).
+II.
+Prozessuales
+1. Teilrechtskraft
+Keine Partei focht den von der
+Vorinstanz angeordneten Verweis der Zivilklage von C.______ auf den Zivilweg
+(Dispositiv-Ziffern 2 bzw. 4 der Urteile der Strafgerichtskommission des
+Kantonsgerichts Glarus vom 2. Mai 2018, act. 36 [SG.2017.00108]
+bzw. act. 15 [SG.2017.00109]) an. Dieser Teil der vorinstanzlichen
+Urteile ist daher rückwirkend per 2. Mai 2018 in Rechtskraft erwachsen
+(Art. 437 Abs. 1 und 2 StPO). Dies ist vorzumerken. Nicht in
+Rechtskraft erwachsen sind hingegen die ebenfalls unangefochten gebliebenen
+Dispositiv-Ziffern 3 bzw. 5 der genannten Urteile, in denen die
+Vorinstanz die Höhe der Verfahrenskosten festsetzte (vgl. Art. 428
+Abs. 3 StPO).
+2. Eintreten
+Die Urteile der
+Strafgerichtskommission vom 2. Mai 2018 (act. 36 [SG.2017.00108]
+bzw. act. 15 [SG.2017.00109]) stellen taugliche Anfechtungsobjekte dar.
+Der Beschuldigte A.______ wie auch die Staatsanwaltschaft sind bezüglich der
+angefochtenen Punkte berufungslegitimiert, haben die Rechtsmittelfrist
+gewahrt und erheben zulässige Rügen. Auf die Berufungen ist ohne Weiteres
+einzutreten (vgl. v.a. Art. 381 und Art. 398 f. StPO i.V.m. act. 19
+und 31 [OG.2018.00040] bzw. act. 49 und 60 [OG.2018.00043] bzw.
+act. 1 und 13 [OG.2018.00044]).
+3. Schriftliches Verfahren
+3.1.
+Das
+Berufungsverfahren ist grundsätzlich mündlich (Art. 405 Abs. 1 StPO).
+Schriftliche Berufungsverfahren sollen nach der Absicht des Gesetzgebers die
+Ausnahme bleiben. Art. 406 StPO regelt abschliessend, wann Ausnahmen zulässig
+sind. Die Berufung kann u.a. im schriftlichen Verfahren behandelt werden,
+wenn ausschliesslich Rechtsfragen zu entscheiden sind (Art. 406 Abs. 1 lit. a
+StPO). Mit dem Einverständnis der Parteien kann die Verfahrensleitung das
+schriftliche Verfahren anordnen, wenn die Anwesenheit der beschuldigten
+Person nicht erforderlich ist oder wenn Urteile eines Einzelgerichts Gegenstand
+der Berufung sind (Art. 406 Abs. 2 lit. a und lit. b StPO). Immer
+dann, wenn dem persönlichen Eindruck entscheidendes Gewicht zukommt, muss
+mindestens ein Teil des Verfahrens mündlich durchgeführt werden (BGE 143 IV
+483, E. 2.1.1 m.w.H.).
+3.2.
+Art. 406 StPO
+entbindet das Berufungsgericht nicht davon, im Einzelfall zu prüfen, ob der
+Verzicht auf eine öffentliche Verhandlung auch mit Art. 6 Ziff. 1 EMRK
+vereinbar ist. Die beschuldigte Person hat im Strafverfahren gemäss Art. 6
+Ziff. 1 EMRK Anspruch auf eine öffentliche Gerichtsverhandlung und Urteilsverkündung.
+Die Art der Anwendung von Art. 6 Ziff. 1 EMRK auf Verfahren vor
+Rechtsmittelinstanzen hängt von den Besonderheiten des konkreten Verfahrens
+ab. Es ist insbesondere unter Beachtung des Verfahrens als Ganzem und der
+Umstände des Einzelfalles zu beurteilen, ob vor einer Berufungsinstanz eine
+mündliche Verhandlung durchzuführen ist. Nach der Rechtsprechung des
+Europäischen Gerichtshofes für Menschenrechte muss selbst ein
+Berufungsgericht mit freier Kognition hinsichtlich Tat- und Rechtsfragen
+nicht in allen Fällen eine Verhandlung durchführen. Von einer Verhandlung vor
+der Rechtsmittelinstanz kann etwa abgesehen werden, soweit die erste Instanz
+öffentlich verhandelt hat, wenn allein die Zulassung eines Rechtsmittels, nur
+Rechtsfragen oder aber Tatfragen zur Diskussion stehen, die sich leicht nach
+den Akten beurteilen lassen, ferner wenn eine reformatio in peius
+ausgeschlossen oder die Sache von geringer Tragweite ist und sich etwa keine
+Fragen zur Person und deren Charakter stellen. Für die Durchführung einer
+mündlichen Verhandlung kann aber der Umstand sprechen, dass die vorgetragenen
+Rügen die eigentliche Substanz des streitigen Verfahrens betreffen.
+Gesamthaft kommt es entscheidend darauf an, ob die Angelegenheit unter
+Beachtung all dieser Gesichtspunkte sachgerecht und angemessen beurteilt
+werden kann (BGE 143 IV 483, E. 2.1.2 m.w.H.).
+3.3.
+Wie aus den
+nachfolgenden Erwägungen hervorgeht, sind die Beschuldigten aus rechtlichen
+Gründen und ohne dass Sach- bzw. Tatfragen zu erörtern wären, die sich nicht
+leicht nach den Akten beurteilen lassen, von den gegen sie erhobenen
+Deliktsvorwürfen freizusprechen. Alsdann fand vor Vorinstanz eine öffentliche
+Verhandlung statt (act. 10 und act. 22-27 [je SG.2017.00108]).
+Unter diesen Umständen und im Lichte der soeben zitierten Rechtsprechung zu
+Art. 6 Ziff. 1 EMRK ist vorliegend ein Verzicht auf die
+Durchführung einer mündlichen Verhandlung sowohl nach Art. 406
+Abs. 1 lit. a StPO als auch im Lichte von Art. 6 Ziff. 1
+EMRK zulässig. Wie bereits erwähnt, hat denn auch keine Partei gegen die
+Durchführung des schriftlichen Verfahrens opponiert (vgl. vorne,
+E. I.4.).
+4. Verfahrensvereinigung
+Die Staatsanwaltschaft und die
+Gerichte können aus sachlichen Gründen Strafverfahren trennen oder vereinen
+(Art. 30 StPO). Wie aufgezeigt (vorne, E. I.) – richten sich die
+vom Beschuldigten A.______ bzw. von der Staatsanwaltschaft erhobenen
+Berufungen gegen dasselbe vorinstanzliche Urteil. Das Urteil betreffend den
+Beschuldigten B.______ betrifft inhaltlich denselben Sachverhalt und
+dieselben Deliktsvorwürfe wie das gegen A.______ ergangene vorinstanzliche
+Urteil. Somit besteht zwischen den Berufungsverfahren OG.2018.00040,
+OG.2018.00043 und OG.2018.00044 ein enger inhaltlicher Zusammenhang. Diese
+drei Berufungsverfahren sind deshalb zu vereinigen.
+5. Überprüfungsbefugnis der
+Berufungsinstanz
+Die Berufung nach Art. 398 ff.
+StPO ist ein reformatorisches Rechtsmittel. Das Berufungsgericht verfügt im
+Umfang der angefochtenen Punkte des erstinstanzlichen Urteils (sog. Dispositionsmaxime,
+Art. 404 Abs. 1 StPO) über umfassende Kognition in tatsächlicher und
+rechtlicher Hinsicht (Art. 398 Abs. 2 und 3 StPO). Es fällt, soweit es auf
+die Berufung eintritt, ein neues, den erstinstanzlichen Entscheid ersetzendes
+Urteil (Art. 408 StPO). Gemäss Art. 391 Abs. 1 StPO ist die
+Rechtsmittelinstanz bei ihrem Entscheid weder an die Begründung (lit. a) noch
+– mit Ausnahme einer vorliegend nicht interessierenden Beurteilung von
+Zivilklagen – an die Anträge (lit. b) der Parteien gebunden (zum Ganzen z.B.
+BGer 6B_853/2016 vom 18. Oktober 2017, E.
+2.1. m.w.H.)
+.
+III.
+Sachverhalt
+1. Anklagesachverhalt
+1.1.
+Die
+Staatsanwaltschaft wirft den Beschuldigten vor, für den am 12. Juli 2014 um
+zirka 15.40 Uhr auf dem bei der [...]strasse in [...] liegenden Wiesland
+geschehenen Unfall mit Todesfolge von X.______ verantwortlich zu sein. Sie
+hätten sich der fahrlässigen Tötung im Sinne von Art. 117 StGB sowie der
+Gefährdung durch fahrlässige Verletzung der Regeln der Baukunde im Sinne von
+Art. 229 Abs. 2 StGB strafbar gemacht. Im Einzelnen umschreibt sie
+den Sachverhalt in den zufolge Einsprache als Anklageschrift geltenden
+Strafbefehlen (Art. 356 Abs. 1 Satz 2 StPO) vom
+14. August 2017 (je act. 2 [SG.2017.00108 und SG.2017.00109]) wie
+folgt:
+1.2.
+Da die
+Zufahrtsstrasse zur Liegenschaft [...] nach starken Niederschlägen jeweils
+unter Wasser gestanden sei, habe der Beschuldigte A.______ als Bauführer der
+Baufirma Y.______ dem ihm unterstellten Arbeitnehmer und Beschuldigten
+B.______ den Auftrag gegeben, mit einem Pneubagger eine Sickergrube zu
+erstellen. Dieser habe am 4. Juli 2014 auftragsgemäss eine Sickergrube von
+zirka 2x2x2 Metern ausgehoben. Da gemäss Aussagen der Beschuldigten zum
+Schluss der Bauarbeiten der Landwirt X.______ vor Ort gewesen sei und
+angegeben habe, er wolle die Absperrung um die neu erstellte Sickergrube
+selber vornehmen, hätten die Beschuldigten auf eine Absperrung derselben
+mittels Absperrlatten verzichtet. Als X.______ am 12. Juli 2014 um
+diese, aufgrund starker Regenfälle inzwischen bis über den Rand mit Wasser
+gefüllte Sickergrube eine Absperrung habe montieren wollen, sei dieser wohl
+ausgerutscht und sei er in der Sickergrube ertrunken.
+1.3.
+Die Beschuldigten
+hätten dadurch, dass sie sich einverstanden erklärten, auf eine Absicherung
+der Sickergrube zu verzichten und es in der Folge auch unterlassen hätten, zu
+kontrollieren, ob X.______ die Absicherung tatsächlich vorgenommen habe, ihre
+sich aus dem allgemeinen Gefahrensatz, aus Art. 15 Abs. 1 der
+Bauarbeitenverordnung sowie aus dem betriebsinternen Pflichtenheft ergebende
+Sorgfaltspflicht (Sicherungs- und Kontrollpflicht) verletzt. Deren Verletzung
+habe schliesslich – für die Beschuldigten voraussehbar – zum genannten Unfall
+mit Todesfolge geführt sowie auch eine Gefährdung für weitere Personen
+geschaffen.
+Die Beschuldigten hätten ihre Verantwortung für die Sicherung der Sickergrube
+nicht an einen unbeteiligten Dritten übertragen sowie sich nicht einmal darum
+kümmern dürfen, wie und wann diese Sicherung erfolgen würde. Selbst wenn
+X.______ die Grube selber habe absichern wollen, hätten sie es nicht zulassen
+dürfen, dass die Baustelle ungesichert verlassen werde. Bei pflichtgemässem
+Verhalten der Beschuldigten hätte – so die Staatsanwaltschaft – der Tod von
+X.______  mit hoher Wahrscheinlichkeit vermieden werden können.
+2. Standpunkt der
+Beschuldigten zum Sachverhalt
+2.1.
+Die Beschuldigten
+stellen diesen ihnen zur Last gelegten Sachverhalt weitestgehend nicht in
+Abrede. So macht der Beschuldigte A.______ in seiner Berufungsbegründung
+diesbezüglich einzig geltend, die Vorinstanz habe den Sachverhalt in Bezug
+auf die Frage, welche Tiefe die Sickergrube aufgewiesen habe, unzureichend
+festgestellt. Die Grubentiefe habe nicht "zirka zwei Meter",
+sondern weniger als zwei Meter betragen (act. 31 [OG.2018.00040]
+Rz. 3 f.). Gleiches brachte auch der Beschuldigte B.______ vor und
+forderte überdies, es sei auch noch zu klären, wer dunkelbraune Holzpfosten
+neben orange Zaunstangen bei der Sickergrube setzte und ob bei X.______
+Lebensversicherungen bestanden (act. 64 [OG.2018.00043] S. 1). Weil
+all diese Punkte (genaue Tiefe der Sickergrube, Setzen von Zaunpfosten,
+Lebensversicherungen) – wie nachfolgend aufgezeigt wird – nicht
+entscheidrelevant sind, brauchen diese Fragen hier nicht weiter vertieft zu
+werden.
+2.2.
+Da der in den
+Strafbefehlen wiedergegebene Sachverhalt im Übrigen auch aufgrund der
+Untersuchungsakten erstellt ist, ist dieser der nun vorzunehmenden
+rechtlichen Würdigung zugrunde zu legen. Dies mit der Ergänzung, dass es sich
+beim verstorbenen Landwirt X.______ um einen Schafbauer handelt, dem die
+Eigentümerschaft des Wieslands, auf dem die Sickergrube ausgehoben wurde,
+seit längerer Zeit gestattet hatte, dort Schafe weiden zu lassen (vgl. u.a.
+U-act. 2/3 S. 5 Fr. 24 f.; U-act. 2/1 S. 4
+Fr. 16; U-act. 2/5 S. 2 Fr. 1 [seit zwei bis drei
+Jahren]). Aufgrund übereinstimmender Aussagen der Auskunftsperson [...]
+(U-act. 2/5 S. 4 Fr. 26, S. 5 Fr. 35) und des
+Beschuldigten A.______ (U-act. 2/1 S. 4 Fr. 16;
+U-act. 2/11 S. 2 f. Fr. 3 ff.), aufgrund bei den
+Akten liegender Fotoaufnahmen (U-act. 2/12/1, 2/12/3-4) sowie mangels
+gegenteiliger Anhaltspunkte ist sodann davon auszugehen, dass X.______ im
+Erstellen von Schafszäunen geübt und erfahren war.
+IV.
+Rechtliche Würdigung: Fahrlässige Tötung (Art. 117 StGB)
+1.
+Erwägungen der Vorinstanz
+Die Vorinstanz erwog, A.______
+habe den Aushub der Sickergrube in Auftrag gegeben und B.______ habe diese
+ausgehoben. Sie beide hätten damit einen gefährlichen Zustand geschaffen.
+Nach der allgemeinen Lebenserfahrung sei ein Sturz in eine ungesicherte
+Baugrube geeignet, den Tod eines Menschen herbeizuführen. Die Beschuldigten
+seien daher grundsätzlich verpflichtet gewesen, für die nötigen
+Sicherungsmassnahmen zu sorgen. Sie hätten das Absichern der Grube jedoch
+unterlassen und A.______ habe dies an einen unbeteiligten Dritten, X.______ ,
+delegiert.
+Diese Delegation an sich sei
+hinsichtlich der Auswahl der Hilfsperson zulässig gewesen, sei doch davon
+auszugehen, dass X.______ aufgrund seiner Erfahrung als Schafbauer gewusst
+habe, wie Absicherungszäune gebaut werden. Ausserdem erscheine dessen
+Interesse an einer genügenden Absicherung als begründet und nachvollziehbar,
+da dessen Schafe regelmässig auf der fraglichen Wiese weideten. Hingegen sei
+A.______ seiner Sorgfaltspflicht nicht nachgekommen, weil er die
+erforderliche Instruktion und Kontrolle von X.______ unterlassen habe. Dies
+zeige sich daran, dass der geplante Zaun am Unfalltag – also neun Tage nach
+Erstellen der Sickergrube – noch nicht fertig gebaut gewesen sei und er
+selber erklärt habe, die Grube lediglich am Tag des Aushubs kontrolliert zu
+haben.
+Indes habe A.______ nicht
+voraussehen können, dass X.______ als kompetente Hilfsperson gerade beim
+Ausführen der Absperrarbeiten tödlich verunglücken würde. Nicht relevant sein
+könne dabei, ob eine zusätzliche (vorgängige) Sicherung durch einen
+Angestellten der Baufirma Y.______ den Unfall verhindert hätte. Dies, da
+X.______ sich dieser Aufgabe angenommen und über die Lage sowie das Ausmass
+der Grube seit deren Aushub Bescheid gewusst habe. Somit habe der
+Erfolgseintritt bei wertender Betrachtung nicht im Verantwortungsbereich von
+A.______ gelegen. Dieser habe sich mithin nicht der fahrlässigen Tötung im
+Sinne von Art. 117 StGB schuldig gemacht (zum Ganzen: act. 15
+[SG.2017.00109], E. III.).
+In Bezug auf B.______ erwog die
+Vorinstanz, es könne diesem nicht angelastet werden, dass er seiner Pflicht,
+die Sickergrube abzusichern, nicht nachgekommen sei. Denn seine
+diesbezügliche Unterlassung sei einzig dadurch bedingt gewesen, dass sein
+Vorgesetzter A.______ an X.______ die Erlaubnis erteilt habe, die Sicherung
+der Grube selber vorzunehmen. Eine B.______ zurechenbare
+Sorgfaltspflichtverletzung liege somit nicht vor, weshalb auch dieser vom
+Vorwurf der fahrlässigen Tötung im Sinne von Art. 117 StGB
+freizusprechen sei (zum Ganzen: act. 45 [SG.2017.00108], E. III.).
+2. Argumentation der
+Staatsanwaltschaft
+Die Staatsanwaltschaft bringt in
+ihren Berufungen vor, entgegen den Erwägungen der Vorinstanz sei die
+Delegation der Absperrarbeiten an X.______ im Wissen um die Wasserproblematik
+nicht zulässig gewesen. Gemäss allfälligem "Auftrag" und der
+Vorstellung des Beschuldigten hätte jener einen massiven Schafszaun um die
+Sickergrube aufstellen sollen. Einem Schafszaun fehle aber im Vergleich zu
+einer Absperrung mit dafür vorgesehenem Absperrmaterial jeglicher
+Warncharakter. Ein Schafszaun als Absperrung erweise sich als unzureichend,
+weil die mit Wasser gefüllte Grube so für Dritte nicht als Gefahr erkennbar gewesen
+wäre, sondern Dritte dort letztlich bloss eine Wiese mit einem Zaun sowie
+eine Pfütze gesehen hätten. Um diese Erkennbarkeit sicherzustellen, wäre
+unter den gegebenen Umständen zumindest eine Absperrung mit rot-weissen
+Baulatten erforderlich gewesen. A.______ habe sich bereits deshalb der
+fahrlässigen Tötung schuldig gemacht, weil er als Bauführer mit mehrjähriger
+Berufserfahrung nicht für die sofortige und fachgerechte Sicherung der
+Sickergrube gesorgt habe, was zum Tod von X.______ geführt habe. Hätte er in
+Beachtung seiner Sorgfaltspflichten für die sofortige Sicherung der Baugrube
+durch den Bauarbeiter B.______ gesorgt respektive diese Sicherungsarbeiten
+selbst ausgeführt, wäre der Tod von X.______ mit hoher Wahrscheinlichkeit
+vermeidbar gewesen.
+Unzutreffend sei ferner die
+vorinstanzliche Erwägung, wonach es für die Beschuldigten nicht voraussehbar
+gewesen sei, dass gerade X.______ als kompetente Hilfsperson beim Ausführen
+der Absperrarbeiten tödlich verunglücken würde. Das Aufstellen von Zäunen auf
+einer ebenen Wiese verlange nicht dieselben Anforderungen wie das Bauen eines
+Zauns direkt neben einer ungesicherten Baugrube. Insofern sei die Auswahl
+eines Landwirts für die Vornahme der Absperrung nicht zulässig gewesen, habe
+diesem doch die nötige Schulung und Erfahrung für die entsprechenden Arbeiten
+um die ungesicherte Baugrube herum gefehlt. Ausserdem habe die Sicherung der
+Grube lediglich von der Weide her im Eigeninteresse von X.______ gelegen,
+nicht hingegen strassenseitig. Voraussehbar sei für die Beschuldigten zudem
+gewesen, dass sich die Sickergrube bald durch Regenfälle mit Wasser füllen
+werde sowie dass bei verspäteter Ausführung der Absperrarbeiten durch
+inzwischen gefallenen Regen der Arbeitsuntergrund glitschig werden könnte und
+so eine zusätzliche Gefahr entstehe. Insofern erweise sich zumindest die
+unterlassene Kontrolle der zeitnahen Ausführung der Absperrarbeiten ebenfalls
+als relevant für den Tod von X.______. Dies, zumal dieser bei einem Sturz in
+die nicht mit Wasser gefüllte Grube mit hoher Wahrscheinlichkeit höchstens
+bloss verletzt worden wäre, nicht aber den Tod gefunden hätte. Durch eine
+sofortige und fachgerechte Absperrung um die Grube durch A.______ oder den
+ihm unterstellten B.______ wäre der Tod von X.______ mit hohem Grad an
+Wahrscheinlichkeit vermeidbar gewesen. Die auch von der Vorinstanz
+festgestellten Sorgfaltspflichtverletzungen der Beschuldigten erwiesen sich
+also als relevant für den Erfolgseintritt.
+Im Übrigen gehe die Vorinstanz zu
+Recht nicht von einer die Tatbestandsmässigkeit ausschliessenden
+eigenverantwortlichen Selbstgefährdung durch X.______ aus. Denn A.______ und
+B.______ hätten gegenüber jenem eine Garantenstellung innegehabt und aufgrund
+ihrer Bau-Sachkompetenz die Gefahren besser gekannt als jener. Damit könnten
+sie sich nicht darauf berufen, X.______ habe sich in Eigenverantwortung
+selbst gefährdet (zum Ganzen: act. 13 [OG.2018.00044]
+Rz. III.3 ff., vgl. auch act. 41 [OG.2018.00040]
+Rz. III.1 ff.).
+Schliesslich verkenne die
+Vorinstanz in ihrem B.______ freisprechenden Urteil, dass A.______ jenen
+nicht explizit angewiesen habe, auf eine Baustellenabsicherung zu verzichten.
+Selbst wenn man aber annehme, eine solche Anweisung sei erfolgt, würde dies
+nichts an der Strafbarkeit von B.______ ändern. Dieser habe tatbestandsmässig
+gehandelt. Insbesondere vermöge die unzulässige Delegation der
+Absperrarbeiten an X.______ durch A.______ auch B.______ nicht zu entlasten.
+Wenn mehrere Personen durch ihr unsorgfältiges Handeln zu einer Gefahr
+beigetragen hätten, auf die der Erfolg zurückgehe, so sei jede von diesen
+Täter des Delikts (zum Ganzen: act. 60 [OG.2018.00043]
+Rz. III.3 ff.).
+3. Standpunkte der
+Beschuldigten
+3.1.
+Der Beschuldigte
+A.______ entgegnet in den Berufungsverfahren, es könne im Hinblick auf eine angebliche
+Sorgfaltspflichtsverletzung von ihm, die zum Tod von X.______  geführt habe,
+nicht auf den Warncharakter der Absperrung ankommen, die nur für Dritte
+relevant gewesen wäre. X.______  habe nicht auf die Grube aufmerksam gemacht
+werden müssen, habe er sich doch gerade angeboten, diese zu sichern. Dieser
+sei als Landwirt zudem die geeignete Person gewesen, um den Schafszaun zu
+errichten. Er, A.______, habe davon ausgehen können, dass X.______  in der
+Lage sei, um die Baugrube herum einen Schafszaun zu errichten und dies auch
+fachgemäss sowie zeitnah tue. Damit, dass ausgerechnet diese erfahrene
+Person, die bereits mehrere solcher Schafszäune errichtet habe, in die Grube
+falle, habe er nicht rechnen müssen. Er sei ferner davon ausgegangen, dass
+X.______  die Sickergrube zeitnah sichere, bevor diese durch Regenfälle mit
+Wasser gefüllt werde. Für ihn sei auch klar gewesen, dass dies anlässlich der
+gemeinsamen Besprechung vor Ort auch X.______  bewusst gewesen sei. Denn an
+einer umgehenden Absicherung der Grube habe dieser, um seine Schafe zu
+schützen, ein Eigeninteresse gehabt und dies auch klar gegenüber ihm
+(A.______) kundgetan. Somit sei nicht voraussehbar gewesen, dass durch
+allfällige Regenfälle eine mögliche weitere Gefahr für X.______  entstehen würde
+bzw. dass dieser den Schafszaun erst errichten würde, nachdem die Grube
+bereits mit Wasser gefüllt gewesen sei.
+Im Übrigen könne von ihm nicht
+verlangt werden, dass er jede delegierte Aufgabe, insbesondere die Ausführung
+der Umzäunung, einzeln überwache. X.______  sei erfahren gewesen und er habe
+bereits zuvor von diesem errichtete Schafszäune gesehen, die massiv gebaut
+gewesen seien. Das Errichten des Schafzaunes zur Sicherung der Baugrube sei
+im Verantwortungsbereich von X.______  gelegen. Da von ihm nicht habe
+erwartet werden können, die Arbeitsausführung zu überwachen, sei der Tod von
+X.______  durch ihn (A.______) auch nicht vermeidbar gewesen. Selbst wenn er
+kontrolliert hätte, ob X.______  die Sicherung vorgenommen habe, hätte er
+damit dessen Tod nicht verhindern können. Es sei von einer den Tatbestand der
+fahrlässigen Tötung ausschliessenden eigenverantwortlichen Selbstgefährdung
+von X.______  auszugehen. Denn X.______  habe die Sicherung der Grube auf
+eigene Verantwortung übernommen und bis zum zu seinem Tod führenden Ereignis
+die Herrschaft über den Geschehensablauf gehabt (zum Ganzen: act. 17
+[OG.2018.00044], vgl. auch act. 31 [OG.2018.00040] Rz. 5 ff.).
+3.2.
+Der Beschuldigte
+B.______ führte im Berufungsverfahren aus, er habe die von ihm anlässlich des
+Aushubs der Sickergrube bereitgestellten Absicherungslatten nicht auf eigenes
+Gutdünken wieder von dort weggebracht, sondern weil ihm dies von A.______ auf
+seine eigene Nachfrage hin ausdrücklich erlaubt worden sei. Dieser habe
+X.______  zugesagt, er könne die Absicherung selber vornehmen. Die Delegation
+der Absicherung der Grube an X.______  durch A.______ bzw. deren Folgen
+könnten nicht ihm (B.______) angelastet werden. Wie auch die Vorinstanz
+festgestellt habe, liege seinerseits keine Sorgfaltspflichtsverletzung vor.
+Ausserdem habe X.______  sehr wohl die nötige Schulung und Erfahrung in der
+Baubranche aufgewiesen. Er sei Gründer der [...] gewesen, die eigene oder
+fremde Grundstücke zur Baureife gebracht habe und sie bebaue. Dadurch habe er
+die Regeln der Baukunde sehr genau gekannt und sei deshalb auch in der Lage
+gewesen, die Sicherung der Sickergrube zu übernehmen. Es liege eine
+eigenverantwortliche Selbstgefährdung vor, da X.______  selber gefragt habe,
+ob er die Sickergrube sichern dürfe und er das damit verbundene Risiko im
+selben Masse überblickt habe wie die Beschuldigten (zum Ganzen: act. 64
+[OG.2018.00043]).
+4. Tatbestandsvoraussetzungen
+4.1.
+Gemäss Art. 117 StGB
+wird bestraft, wer fahrlässig den Tod eines Menschen verursacht. Der Tatbestand
+setzt den Tod einer Person, eine Sorgfaltspflichtverletzung und den
+Kausalzusammenhang zwischen Tod und Sorgfaltswidrigkeit voraus (BGer
+6B_280/2018 vom 24. Oktober 2018, E. 3.3. m.w.H.). Nach Art. 12
+Abs. 3 StGB handelt fahrlässig, wer die Folge seines Verhaltens aus
+pflichtwidriger Unvorsichtigkeit nicht bedenkt oder darauf nicht Rücksicht
+nimmt (Satz 1). Pflichtwidrig ist die Unvorsichtigkeit, wenn die beschuldigte
+Person die Vorsicht nicht beachtet, zu der sie nach den Umständen und nach
+ihren persönlichen Verhältnissen verpflichtet ist (Satz 2). Fahrlässige
+Tötung kann auch durch Unterlassen begangen werden. Es handelt sich um ein
+unechtes Unterlassungsdelikt. Pflichtwidrig untätig bleibt, wer die
+Gefährdung oder Verletzung eines strafrechtlich geschützten Rechtsgutes nicht
+verhindert, obwohl er aufgrund seiner Rechtsstellung dazu verpflichtet ist
+(Art. 11 Abs. 2 StGB).
+4.2.
+Ein Schuldspruch
+wegen fahrlässiger Tötung setzt also voraus, dass der Täter den
+"Erfolg" durch Verletzung einer Sorgfaltspflicht verursacht hat.
+Dies ist der Fall, wenn er im Zeitpunkt der Tat auf Grund der Umstände sowie
+seiner Kenntnisse und Fähigkeiten die Gefährdung der Rechtsgüter des Opfers
+hätte erkennen können und müssen, und wenn er zugleich die Grenzen des erlaubten
+Risikos überschritten hat. Wo besondere, der Unfallverhütung und der
+Sicherheit dienende Normen ein bestimmtes Verhalten gebieten, bestimmt sich
+das Mass der zu beachtenden Sorgfalt in erster Linie nach diesen
+Vorschriften. Fehlen solche, kann auf analoge Regeln privater oder
+halbprivater Vereinigungen abgestellt werden, sofern diese allgemein
+anerkannt sind. Dies schliesst nicht aus, dass der Vorwurf der Fahrlässigkeit
+auch auf allgemeine Rechtsgrundsätze wie etwa den allgemeinen Gefahrensatz
+gestützt werden kann. Denn einerseits begründet nicht jeder Verstoss gegen
+eine gesetzliche oder für bestimmte Tätigkeiten allgemein anerkannte
+Verhaltensnorm den Vorwurf der Fahrlässigkeit, und andererseits kann ein
+Verhalten sorgfaltswidrig sein, auch wenn nicht gegen eine bestimmte
+Verhaltensnorm verstossen wurde. Die Vorsicht, zu der ein Täter verpflichtet
+ist, wird letztlich durch die konkreten Umstände und seine persönlichen
+Verhältnisse bestimmt, weil naturgemäss nicht alle tatsächlichen
+Gegebenheiten in Vorschriften gefasst werden können. Grundsätzlich gilt, dass
+derjenige, der einen Gefahrenbereich schafft, die davon ausgehenden Gefahren
+zu kontrollieren und zu verhindern hat, dass dadurch Schädigungen fremder
+Rechtsgüter entstehen. Grenze dieser Sicherungspflicht bildet insbesondere
+die Zumutbarkeit. Schutzmassnahmen können nur im Rahmen des nach der
+Verkehrsübung Erforderlichen und Möglichen verlangt werden (BGer 6B_261/2018
+vom 28. Januar 2019, E. 5.1. und BGE 135 IV 56, E. 2.1, je
+m.w.H.).
+Grundvoraussetzung einer
+Sorgfaltspflichtverletzung und mithin der Fahrlässigkeitshaftung bildet die
+Vorhersehbarkeit des Erfolgs. Die zum Erfolg führenden Geschehensabläufe
+müssen für den Täter mindestens in ihren wesentlichen Zügen voraussehbar
+sein. Diese Frage beantwortet sich nach dem Massstab der Adäquanz. Danach
+muss das Verhalten geeignet sein, nach dem gewöhnlichen Lauf der Dinge und
+den Erfahrungen des Lebens einen Erfolg wie den eingetretenen herbeizuführen
+oder mindestens zu begünstigen. Die Adäquanz ist nur zu verneinen, wenn ganz
+aussergewöhnliche Umstände, wie beispielsweise das Mitverschulden des Opfers
+beziehungsweise eines Dritten oder Material- oder Konstruktionsfehler, als
+Mitursache hinzutreten, mit denen schlechthin nicht gerechnet werden musste und
+die derart schwer wiegen, dass sie als wahrscheinlichste und unmittelbarste
+Ursache des Erfolgs erscheinen und so alle anderen mitverursachenden Faktoren
+– namentlich das Verhalten des Beschuldigten – in den Hintergrund drängen.
+Mit anderen Worten wird der adäquate Kausalzusammenhang unterbrochen, wenn zu
+einer an sich adäquaten Ursache eine andere Ursache hinzutritt, die einen
+derart hohen Wirkungsgrad aufweist, dass erstere nach wertender
+Betrachtungsweise als rechtlich nicht mehr beachtlich erscheint; entscheidend
+ist die Intensität der beiden Ursachen. Ob ein adäquater Kausalzusammenhang
+vorliegt, beurteilt sich nach einem objektiven Massstab, d.h. aus der
+Perspektive eines neutralen unbeteiligten Beobachters (BGer 6B_280/2018 vom
+24. Oktober 2018, E. 3.7., BGE 135 IV 56, E. 2.1 und BGer
+6S.262/2006 vom 23. Oktober 2006, E. 2.1, je m.w.H.).
+Der Erfolg muss zudem vermeidbar
+gewesen sein. Dabei wird ein hypothetischer Kausalverlauf untersucht und
+geprüft, ob der Erfolg bei pflichtgemässem Verhalten des Täters ausgeblieben
+wäre. Für die Zurechnung des Erfolgs genügt, wenn das Verhalten des Täters
+mindestens mit einem hohen Grad an Wahrscheinlichkeit die Ursache des Erfolgs
+bildete (BGer 6B_280/2018 vom 24. Oktober 2018, E. 3.3. f.
+m.w.H.).
+4.3.
+Die Bemessung der
+Sorgfaltspflicht macht eine Abgrenzung der Verantwortungsbereiche
+erforderlich. Das gilt namentlich dort, wo der Rechtsgutträger bewusst ein
+erhöhtes Risiko eingeht und sich einer Gefährdung aussetzt (BGE 134 IV 149,
+E. 4.3).
+In diesem Zusammenhang
+unterscheiden Rechtsprechung und Lehre zwischen Mitwirkung an fremder
+Selbstgefährdung und einverständlicher Fremdgefährdung. Blosse Mitwirkung an
+fremder Selbstgefährdung liegt vor, wenn der Rechtsgutträger sich bewusst und
+freiverantwortlich einer bestimmten Gefahr für seine Rechtsgüter aussetzt und
+der andere diese Selbstgefährdung lediglich ermöglicht, veranlasst oder
+unterstützt. Einverständliche Fremdgefährdung ist demgegenüber gegeben, wenn
+der Rechtsgutträger sich im Bewusstsein des Risikos durch einen anderen
+gefährden lässt. Die Abgrenzung erfolgt nach dem Kriterium der Tatherrschaft.
+Danach ist zu fragen, ob der Rechtsgutträger das Tatgeschehen derart
+beherrscht, dass er darin jederzeit und bis zuletzt steuernd einzugreifen
+vermag, oder aber das Gefährdungsgeschehen in den Händen des Dritten liegt
+(BGE 134 IV 149, E. 4.4 m.w.H.).
+Die eigenverantwortliche Selbstgefährdung fällt nicht unter den Tatbestand
+eines Körperverletzungs- oder Tötungsdelikts. Wer lediglich eine solche
+Selbstgefährdung veranlasst, ermöglicht oder fördert, macht sich
+grundsätzlich ebenfalls nicht strafbar, wenn das mit der Gefährdung bewusst
+eingegangene Risiko sich realisiert. Solche Erfolge werden nicht vom
+Schutzzweck der Tötungs- und Körperverletzungstatbestände gedeckt. Die
+Straflosigkeit der Mitwirkung an fremder Selbstgefährdung leitet sich ab aus
+der Straflosigkeit des Suizids und – vorbehältlich Art. 115 StGB – der
+Teilnahme hierzu. Wenn schon die Teilnahme an einer Selbsttötung und auch an
+einer vorsätzlichen Selbstverletzung straflos bleibt, kann umso weniger die
+Mitwirkung an fremder Selbstgefährdung strafbar sein. Dahinter steht die
+normative Wertentscheidung, dass kein Grund besteht, die Handlungsfreiheit
+einzuschränken, solange niemand gegen seinen Willen gefährdet wird (BGE 134
+IV 149, E. 4.5 m.w.H.).
+Die Straflosigkeit der Mitwirkung
+an fremder Selbstgefährdung findet ihre Grenze jedoch dort, wo der
+Veranlasser oder Förderer das Risiko kraft überlegenen Sachwissens besser
+erfasst oder erkennt, dass das Opfer die Tragweite seines Entschlusses nicht
+überblickt. In diesem Fall schafft er ein Risiko, das vom Willen des Opfers
+nicht mehr gedeckt und dessen Verwirklichung daher dem Mitwirkenden
+zuzurechnen ist (BGer 6B_221/2009, 6B_222/2009, 6B_223/2009, 6B_231/2009 vom
+2. September 2009, E. 5.3, und BGE 134 IV 149, E. 4.3 ff., je
+m.w.H.).
+4.4.
+Ein fahrlässiges
+Erfolgsdelikt kann auch durch pflichtwidriges Unterlassen (
+Art. 11 StGB
+) verübt werden, wenn
+der Täter einer Rechtspflicht, die sich aus seiner Garantenstellung ergibt,
+nicht nachgekommen ist. Der Unterschied zwischen Unterlassung und Begehung
+einer Handlung ist jedoch nicht immer leicht erkennbar; oft kann man sich
+fragen, ob man dem Täter vorwerfen muss, auf eine Weise gehandelt zu haben,
+wie er nicht hätte handeln dürfen, oder nicht gehandelt zu haben, obwohl er
+hätte handeln müssen. Die Abgrenzung zwischen Handlung und Unterlassung ist
+im Zweifelsfall nach dem Subsidiaritätsprinzip vorzunehmen, und es ist immer
+dann von einem Begehungsdelikt auszugehen, wenn dem Täter ein aktives Tun
+vorgeworfen werden muss. Diese Unterscheidung ist hinsichtlich der besonderen
+Tatbestandsmerkmale des Unterlassungsdelikts, namentlich der Garantenpflicht,
+von Bedeutung (BGer 6B_90/2014 vom 29. Januar 2015, E. 4.2. und BGE 129
+IV 119 = Pra 2003 Nr. 165, E. 2.2 m.w.H.).
+5. Beurteilung
+5.1.
+Den Beschuldigten
+wird in der Anklageschrift vorgeworfen, nach Ausheben der Sickergrube die
+Verantwortung für deren Sicherung unzulässigerweise an X.______ übertragen
+und sich in der Folge auch nicht vergewissert zu haben, ob dieser die
+Absicherung vornahm (vgl. vorne, E. III.1.2. f.). Damit wird den
+Beschuldigten hauptsächlich ein aktives Tun (Ausheben der Sickergrube,
+Delegation der Absicherung) und nur ergänzend eine Unterlassung
+(ausgebliebene Vollzugskontrolle) zur Last gelegt. Am Ursprung des Unfalls
+von X.______ steht die von den Beschuldigten ausgehobene Sickergrube und
+deren Einverständnis, dass jener die Absicherung selber vornimmt. Das den
+Beschuldigten vorgeworfene Verhalten ist daher nach dem für die Abgrenzung
+massgebenden Subsidiaritätsprinzip (vgl. soeben, E. IV.4.4.) als Tun und
+nicht als Unterlassen zu qualifizieren. Es geht hier also um ein fahrlässiges
+Handlungsdelikt und nicht um ein fahrlässiges Unterlassungsdelikt (vgl. auch
+die ähnlichen Fallkonstellationen in BGer 6B_74/2013 vom 19. März 2013,
+E. 3.3, BGer 6B_174/2013 vom 20. Juni 2013, E. 3.3.3., BGer 6B_604/2012
+vom 16. Januar 2014, E. 4.4.4., und BGE 129 IV 119 = Pra 2003 Nr. 165,
+E. 2.2).
+5.2.
+5.2.1.
+Indem X.______
+erklärte, die Absperrung um die von den Beschuldigten erstellte Sickergrube
+selber vorzunehmen und am Nachmittag des 12. Juli 2014 daran war, dies
+mittels Montage eines Schafszaunes umzusetzen, lag die Herrschaft über das
+unmittelbar zu dessen Tod führende Geschehen bei ihm selbst. Er hatte es
+jederzeit und bis zuletzt in der Hand, seine Zusage, die Absicherung der
+Sickergrube auszuführen, zurückzuziehen bzw. die Absicherungsarbeiten nicht
+an die Hand zu nehmen oder abzubrechen sowie zu verlangen, dass die
+Beschuldigten selber eine entsprechende Grubensicherung anbringen. Die
+Beschuldigten haben nicht direkt auf den Verstorbenen eingewirkt, sondern
+waren am Geschehensablauf "nur" insoweit beteiligt, als dass sie
+die Sickergrube ausgehoben und sich damit einverstanden erklärt haben, dass
+X.______ deren Absicherung vornimmt. Dadurch haben sie X.______ nicht
+unmittelbar gefährdet, sondern dessen eigene Selbstgefährdung
+"bloss" unterstützt bzw. ermöglicht (zu den Beteiligungsformen
+"ermöglichen", unterstützen" und "veranlassen" im
+Einzelnen vgl. Jetzer, Einverständliche Fremdgefährdung im Strafrecht –
+Zugleich ein Beitrag zur Mitwirkung an Selbstgefährdung, LBR Nr. 96, Zürich
+2015, N 96 ff.). Demzufolge liegt ein Fall von Mitwirkung (durch
+aktives Tun, vgl. soeben, E. IV.5.1.) an eigenverantwortlicher
+Selbstgefährdung (vgl. vorne, E. IV.4.3.) vor.
+5.2.2.
+Wie vorne
+(E. III.2.2.) erwähnt, handelte es sich bei X.______ um einen
+Schafbauer, der seit längerer Zeit Schafe auf der Wiese, auf der sich die
+Sickergrube befand, weiden liess und im Zäunen geübt sowie erfahren war.
+Ferner war X.______ am Ende der Aushubarbeiten für die Sickergrube vor Ort
+zugegen (vgl. act. 2 S. 3 [SG.2017.00109] Ziff. 1
+Abs. 2). Er sah die Grube und deren Beschaffenheit, Lage sowie Ausmass
+also nicht nur in bis über den Rand mit Wasser gefülltem, sondern auch in
+leerem, frisch ausgehobenem Zustand. Unter diesen Umständen trat X.______ das
+Risiko, beim Zäunen um die rund zwei Meter tiefe Sickergrube herum
+auszugleiten und sich zu verletzen oder (insbesondere angesichts der grossen
+Wassermenge) gar den Tod zu finden, klar und deutlich vor Augen.
+Dennoch ging er von sich aus die
+beiden Beschuldigten mit dem Wunsch an, die Absperrung um die Sickergrube
+selber vornehmen zu wollen (vgl. act. 2 S. 3 [SG.2017.00109]
+Ziff. 1 Abs. 2), und hielt auch noch am 12. Juli 2014, als die
+Grube mit Wasser ge- bzw. überfüllt war, daran fest, indem er an jenem Nachmittag
+bei der Sickergrube mit Zäunen begann (vgl. act. 2 S. 3
+[SG.2017.00109] Ziff. 1 Abs. 3). Bei dieser Sachlage ist nicht zu
+erkennen, inwiefern er die Tragweite seines Entschlusses nicht überblickt
+hätte oder seine Willensbildung sonstwie mangelhaft gewesen wäre. Indem er
+trotz Gefahrenbewusstseins sowie Risikokenntnis und infolge
+zwischenzeitlicher Regenfälle gegenüber dem Tag des Aushubs der Sickergrube
+erhöhter Gefahr das Zäunen in Angriff nahm, setzte er sich willentlich und
+frei verantwortlich einer Selbstgefährdung aus.
+5.3.
+5.3.1.
+Die
+Staatsanwaltschaft macht in ihrer Berufungsbegründung geltend, eine
+Straflosigkeit wegen Mitwirkung an eigenverantwortlicher Selbstgefährdung
+entfalle, weil die Beschuldigten "aufgrund ihrer baukundigen Sachkompetenz"
+die Gefahren besser gekannt hätten als X.______ (act. 13 [OG.2018.00044]
+Rz. III.6 und act. 60 [OG.2018.00043] Rz. III.10).
+5.3.2.
+Dieser Einwand ist
+nicht stichhaltig. Denn entscheidend kann nicht sein, ob die Mitwirkenden
+mehr wissen als der sich selbst Gefährdende, sondern ob Letzterer genug
+weiss, um seine Rechtsgüter eigenverantwortlich gefährden zu können. Solange
+der sich selbst Gefährdende die Gefahr hinreichend erkannt hat, ist die
+Verantwortung für die Verwirklichung des Risiko diesem zuzuschreiben. In
+diesem Fall handelt er eigenverantwortlich und es ist irrelevant, ob der
+Mitwirkende die Gefahr besser erkannt hat. Wenn jedoch der sich selbst
+Gefährdende die Gefahr nicht hinreichend (und nicht bloss schlechter als die
+Mitwirkenden) erkannt hat, so handelt er nicht eigenverantwortlich. Diesfalls
+fällt der Erfolg in den Verantwortungsbereich der Mitwirkenden, sofern diese
+die unzureichenden Kenntnisse des sich selbst Gefährdenden in Bezug auf das
+Risiko erkannt haben und ihre Kenntnisse diejenigen des sich selbst
+Gefährdenden in Bezug auf das Risiko übersteigen. Der Wissensvorsprung der
+Mitwirkenden muss sich also sowohl auf das Wissensdefizit des Opfers als auch
+auf das Risiko beziehen, und zwar auf dasjenige, das sich im tatbestandsmässigen
+Erfolg realisiert hat (zum Ganzen: Jetzer, a.a.O., N 79 ff., v.a.
+N 80 und N 92-94 sowie Schwarzenegger/Gurt, BSK StGB I,
+Art. 117 N 4, je m.w.H.).
+Da X.______ – wie erwähnt (E. IV.5.2.2.) – Lage, Ausmass und
+Beschaffenheit der Sickergrube auch in nicht mit Wasser gefülltem Zustand,
+nämlich unmittelbar nach deren Aushub und somit in gleicher Weise wie die
+Beschuldigten, sah, ist nicht auszumachen, dass und inwiefern er die Gefahr,
+die von der Sickergrube für ihn als die Umzäunung anbringende Person ausgeht,
+nicht hinreichend erkannt hat. Dies, zumal es sich bei ihm um einen im Zäunen
+erfahrenen Schafbauer handelt, der zudem den die Grube umgebenden Untergrund
+– auch in nassem Zustand – kannte, weil er das dortige Wiesland seit längerer
+Zeit mit seinen Schafen bewirtschaftete. Aufgrund ebendieser Erfahrung als
+Schafbauer wusste er zweifellos auch, dass bei nassem Untergrund ein erhöhtes
+Risiko besteht, auszugleiten. Aus all diesen Gründen lässt sich auch nicht
+sagen, dass das Bauwissen der Beschuldigten dem "Schafbauerwissen"
+von X.______ in Bezug auf das beim hier interessierenden Zäunen herrschende
+Absturzrisiko (Lebensgefahr) durch Ausgleiten überlegen war bzw. dass Erstere
+dieses Risiko besser erfasst hatten als Letzterer. Da der sich selbst
+Gefährdende X.______ dieses Risiko also jedenfalls im selben Mass wie die
+mitwirkenden Beschuldigten übersah, bleibt diese Mitwirkung der Beschuldigten
+straflos (vgl. vorne, E. IV.4.3. und z.B. BGE 131 IV 1, E. 3.3).
+5.4.
+5.4.1.
+Weiter bringt die
+Staatsanwaltschaft vor, einer die Strafbarkeit der Beschuldigten
+ausschliessenden eigenverantwortlichen Selbstgefährdung stehe entgegen, dass
+diese gegenüber X.______ gestützt auf Art. 11 Abs. 2 lit. d
+StGB (Ingerenz) ein Garantenstellung innegehabt hätten (act. 13 [OG.2018.00044]
+Rz. III.6 und act. 60 [OG.2018.00043] Rz. III.10).
+5.4.2.
+Indes haben die
+Beschuldigten – wie vorne dargelegt (E. IV.5.1.) – an der
+Selbstgefährdung durch aktives Tun mitgewirkt. Es steht also nicht ein
+Unterlassungsdelikt zur Diskussion. Demzufolge stellt sich die Frage, ob eine
+Garantenpflicht die Straflosigkeit der Mitwirkung an einer
+eigenverantwortlichen Selbstgefährdung zu verdrängen mag, vorliegend gar
+nicht (BGE 134 IV 149, E. 5.1; vgl. auch Jetzer, a.a.O., N 100).
+5.4.3.
+Im Übrigen führte
+das Bundesgericht zwar in der Tat im Jahr 1999 in einem obiter dictum aus,
+dass der Verletzungserfolg dem Mitwirkenden objektiv zuzurechnen sei, wenn er
+eine Garantenstellung zugunsten des sich selbst Gefährdenden innehabe (BGE
+125 IV 189, E. 3.a). In später ergangenen Bundesgerichtsentscheiden zu
+den Grenzen der Mitwirkung an fremder eigenverantwortlicher Selbstgefährdung
+findet sich diese Wendung jedoch nicht mehr (vgl. BGE 131 IV 1, E. 3.3,
+BGE 134 IV 149, E. 4.5, und BGer 6B_221/2009, 6B_222/2009, 6B_223/2009,
+6B_231/2009 vom 2. September 2009, E. 5.3). Vielmehr hielt das Bundesgericht
+in BGE 134 IV 149, E. 5.1, ausdrücklich fest, dass dort, wo die
+Mitwirkung an eigenverantwortlicher Selbstgefährdung nach den dargelegten
+Grundsätzen (vgl. vorne, E. IV.4.3.) straflos bleibt,
+"auch der
+Umweg über ein gefährliches Vorverhalten (Ingerenz) nicht zur
+Erfolgsabwendungspflicht und Unterlassungshaftung des Mitwirkenden führen
+kann, was allgemein anerkannt ist"
+(siehe auch Jetzer, a.a.O.,
+N 106 f., N 126, sowie Donatsch/Tag, Verbrechenslehre,
+9. Aufl., Zürich 2013, S. 320).
+Dem ist auch für den vorliegenden
+Fall beizupflichten. Ausserdem ist in diesem Zusammenhang Folgendes zu
+beachten: Nach dem von der Staatsanwaltschaft angerufenen Art. 11
+Abs. 2 lit. d StGB bzw. nach ständiger Rechtsprechung ist, wer
+einen gefährlichen Zustand schafft, verpflichtet, die durch die Umstände
+gebotenen Vorsichtsmassnahmen zu treffen, um den Eintritt eines Schadens zu
+verhindern. Verlangt sind Massnahmen, die geeignet sind, den voraussehbaren
+Folgen der Untätigkeit, d.h. den Wirkungen bzw. Schäden, die man in Anwendung
+der Theorie der adäquaten Kausalität auf die vorausgehende Handlung
+zurückführen kann, vorzubeugen (BGE 134 IV 255 = Pra 2009 Nr. 25, E. 4.2.2;
+BGer 6B_885/2013 vom 24. März 2014, E. 2.6.). Im vorliegenden Fall
+schufen die Beschuldigten, indem sie die Sickergrube aushoben, eine
+erkennbare Gefahr für das Leben und die körperliche Integrität von sich an
+jener Stelle allenfalls aufhaltenden Personen. Denn nach der allgemeinen
+Erfahrung und dem gewöhnlichen Lauf der Dinge ist eine solche Sickergrube
+geeignet, Unfälle durch Hineinfallen in diese zu verursachen. Die
+Beschuldigten mussten daher die effektiven Massnahmen ergreifen, damit die
+Gefahr von Unfällen, die sie geschaffen hatten, sich nicht verwirklicht. Sie
+waren also insbesondere verpflichtet, die Sickergrube abzusperren. X.______
+gab nun zum Schuss der Aushubarbeiten an der Sickergrube gegenüber den
+Beschuldigten an, diese Absperrung selber vorzunehmen und er verunfallte
+exakt bei Vornahme dieser geforderten Schutzmassnahmen, indem er anlässlich
+der Montage des Zaunes ausglitt und in die Sickergrube fiel (vgl. act. 2
+S. 3 [SG.2017.00109] Ziff. 1 Abs. 2 f.). X.______
+übernahm somit von den Beschuldigten – willentlich, freiwillig und in
+Kenntnis der Risiken (vgl. vorne, E. IV.5.2.1.-5.3.2.) – die Pflicht zur
+Sicherung der Sickergrube und verunfallte just bei Ausführung dieser
+Sicherungsarbeiten. Es lässt sich folglich nicht sagen, dass in dieser
+Situation in Bezug auf X.______ eine Garantenpflicht der Beschuldigten
+wirkte, sondern X.______ übernahm (spätestens) bei Inangriffnahme des Zäunens
+faktisch die Garantenstellung von den Beschuldigten. Sein
+eigenverantwortliches Handeln verdrängt die (vorherige) Garantenstellung der
+Beschuldigten (vgl. auch Jetzer, a.a.O., N 108).
+Nur der Vollständigkeit halber
+anzufügen ist, dass eine solche Übertragung der Sicherung der Gefahrenquelle
+zulässig ist – sei es auf vertraglicher (BGE 141 IV 249, E. 1.4.1
+m.w.H.), sei es sonstwie auf freiwilliger Basis (Donatsch/Tag, a.a.O.,
+S. 317). In einem derartigen Fall von Kompetenzdelegation
+("vertikale" Arbeitsteilung) darf, wer einer Hilfsperson eine
+Aufgabe überträgt, darauf vertrauen, dass diese die Aufgabe korrekt erfüllt.
+Die Sorgfaltspflicht des Delegierenden reduziert sich darauf, eine für die
+Aufgabe geeignete Hilfsperson auszuwählen, dieser die nötigen Instruktionen
+zu erteilen und sie gehörig zu überwachen (cura in eligendo, instruendo et
+custodiendo; BGer 6B_1065/2013 vom 23. Juni 2014, E. 1.1, und BGer
+6B_301/2010 vom 30. November 2010, E. 2.4.1, je m.w.H.).
+Vorliegend durften die
+Beschuldigten davon ausgehen, dass X.______ aufgrund seiner Kenntnisse und
+Erfahrung als Schafbauer (der Beschuldigte A.______ wusste, dass diesem die
+Wiese zur Bewirtschaftung zusteht [U-act. 2/1 S. 7 Fr. 41 und
+S. 4 Fr. 16], kannte ihn vom Sehen her und hatte schon von ihm
+errichtete Zäune gesehen [U-act. 2/1 S. 4 Fr. 16 i.V.m.
+U-act. 2/5 S. 4 Fr. 26 und S. 5 Fr. 35 {Aussagen von
+[...]}, wonach die Wiese jeweils von Frühjahr bis Sommer umzäunt war]; der
+Beschuldigte B.______ hatte gesehen, wie X.______ auf der Wiese Arbeiten
+verrichtete [U-act. 2/2 S. 4 Fr. 22, S. 7 Fr. 51,
+S. 8 Fr. 56]) – nicht schlechter als sie selbst – in der Lage ist,
+die Umzäunung der Sickergrube auf der von ihm seit längerer Zeit
+bewirtschafteten Wiese gebührend sowie verantwortungsbewusst auszuführen,
+auch wenn die Anforderungen ans Zäunen rund um eine Sickergrube verglichen
+mit dem Zäunen auf durchgängigem Wiesland etwas erhöht sein mögen (so die
+Staatsanwaltschaft in act. 60 [OG.2018.00043] Rz. III.9 und
+act. 13 [OG.2018.00044] Rz. III.5). Der in den Strafbefehlen
+erhobene Vorwurf, dass die Beschuldigten die Absicherung der Sickergrube
+nicht an X.______ hätten übertragen dürfen (act. 2 S. 4
+[SG.2017.00109] Abs. 2; vgl. auch act. 13 [OG.2018.00044]
+Rz. III.4), trifft somit – wie auch die Vorinstanz richtig erwog
+(act. 15 [SG.2017.00109], E. III.2. Abs. 1 f.) – nicht
+zu. Angesichts der Kenntnisse und Erfahrung von X.______ erübrigten sich auch
+ausführliche Anweisungen an diesen sowie eine engmaschige Überwachung
+desselben durch die Beschuldigten (zur gebotenen Intensität der Überwachung
+einer – wie X.______ – die anzuwendenden Vorsichtsmassnahmen kennenden Person
+vgl. z.B. BGer 6B_199/2007 vom 13. Mai 2008, E. 5.2.3). Soweit die
+Staatsanwaltschaft den Beschuldigten in den Strafbefehlen vorwirft, sich
+nicht darum gekümmert zu haben, wie und wann die Absicherung erfolgen wird
+(act. 2 S. 4 [SG.2017.00109] Abs. 2; vgl. auch act. 13
+[OG.2018.00044] Rz. III.4 und act. 60 [OG.2018.00043]
+Rz. III.8) sowie nicht kontrolliert zu haben, ob X.______ diese
+Absicherung tatsächlich vornahm (act. 2 S. 4 [SG.2017.00109]
+Abs. 1), mangelt es zum Vornherein an der Kausalität dieser Vorwürfe von
+Sorgfaltspflichtverletzungen für den eingetretenen Erfolg: X.______ ist
+verunfallt, indem er ausglitt, als er daran war, die Absperrung um die
+Sickergrube zu erstellen. Dieser Geschehensablauf hätte sich genau gleich
+auch dann abspielen können, wenn er die Absperrung anstatt mittels eines
+Schafszauns mittels Bau-Abschrankungen sowie anstatt erst acht Tage nach
+Ausheben der Sickergrube zu einem früheren Zeitpunkt zu errichten begonnen
+hätte. Es erübrigt sich daher, hier auf diese Aspekte näher einzugehen.
+5.4.4.
+Ergänzend und
+abschliessend ist festzuhalten, dass es selbst dann, wenn man den
+Beschuldigten Fehler bzw. Sorgfaltspflichtverletzungen anlasten können
+sollte, an einem rechtserheblichen Kausalzusammenhang zwischen diesen und dem
+eingetretenen Erfolg fehlt. Denn dass mit X.______ gerade diejenige – im
+Zäunen erfahrene und kompetente, die örtlichen Verhältnisse sowie die
+Ausmasse der Sickergrube kennende – Person tödlich verunfallt, welche die
+Absicherung um die Sickergrube anbringt, dies durch Ausgleiten während
+ebendieser Absicherungsarbeiten, liegt derart ausserhalb des normalen,
+vorhersehbaren Geschehens sowie der normalen Lebenserfahrung und erscheint
+als derart aussergewöhnlich, dass die Beschuldigten damit schlechthin nicht
+rechnen mussten und konnten. Mit anderen Worten stellt das Ausgleiten von
+X.______ just beim Anbringen der Grubenabsicherung eine Ursache dar, die
+derart schwer wiegt bzw. einen derart hohen Wirkungsgrad aufweist, dass sie
+als unmittelbarste Ursache des tragischen Ereignisses erscheint und ein
+allfälliges mitverursachendes, sorgfaltspflichtwidriges Verhalten der
+Beschuldigten in den Hintergrund drängt (Unterbrechung eines allfälligen
+Kausalzusammenhangs).
+6. Fazit zum Tatbestand der
+fahrlässigen Tötung
+Wie die vorstehenden Ausführungen
+zeigen, erscheint der beim tragischen Unfall vom 12. Juli 2014 in [...]
+eingetretene Verletzungserfolg in strafrechtlicher Hinsicht als
+ausschliesslich durch X.______  in Eigenverantwortung selbst herbeigeführt.
+Es hat sich gerade das mit der Selbstgefährdung eingegangene Risiko
+realisiert. Selbst wenn man aber das Vorliegen einer straflosen Mitwirkung
+der Beschuldigten an eigenverantwortlicher Selbstgefährdung verneinen würde,
+würde dies nicht zu einem Schuldspruch führen. Denn zufolge Unterbrechung des
+Kausalzusammenhangs fehlt es an der Adäquanz einer allfälligen
+Sorgfaltspflichtverletzung der Beschuldigten für den Eintritt des Todes von
+X.______ . Die Beschuldigten sind folglich vom Vorwurf der fahrlässigen
+Tötung im Sinne von Art. 117 StGB freizusprechen.
+V.
+Rechtliche Würdigung: Gefährdung durch fahrlässige
+Verletzung der Regeln der Baukunde (Art. 229 Abs. 2 StGB)
+1. Erwägungen der Vorinstanz
+1.1.
+Die Vorinstanz erwog,
+der Beschuldigte A.______ habe den Aushub der Sickergrube in Auftrag gegeben
+und somit einen gefährlichen Zustand geschaffen, wobei er durch die
+Delegation für die Auswahl, Instruktion und Überwachung der Hilfsperson
+verantwortlich gewesen sei. Es dürfte als allgemein anerkannt gelten und habe
+auch A.______ für selbstverständlich gehalten, dass Baugruben, insbesondere
+solche in unmittelbarer Strassennähe, durch eine Absperrung gesichert werden
+müssen.
+Vom 4. bis am 12. Juli 2014
+sei in Bezug auf völlig unbeteiligte Dritte wie zufällige Passanten, die
+nichts von der Sickergrube gewusst hätten und diese womöglich gar nicht als
+solche hätten wahrnehmen können, eine Gefährdung gegeben gewesen. Dies, weil
+die Sickergrube – abgesehen von einem grossen Stein – zur Strassenseite hin
+ungesichert geblieben sei. Insbesondere aufgrund der Nähe des fraglichen
+Grundstücks zum Bahnhof Nieder- und Oberurnen (recte: [...]) habe A.______
+damit rechnen müssen, dass sich jederzeit jemand der Grube hätte nähern
+könnte. Am Unfalltag sei die Grube sodann nach starken und andauernden
+Regenfällen durch die enorme Wassermenge gar nicht mehr als Grube erkennbar
+gewesen. Um die Gefahr zu verhindern, dass eine beliebige Drittperson hätte
+hineinfallen können, wäre daher eine sofortige Absperrung nötig gewesen.
+Vorliegend habe die Gefährdung während neun Tagen bestanden und diese sei von
+A.______ durch Unterlassen der Instruktion und Überwachung verursacht worden.
+In Bezug auf Dritte, die keine Kenntnis von Bestand, Lage und Ausmass der
+Grube gehabt hätten, entspreche dies einer Sorgfaltspflichtsverletzung. A.______
+sei daher der Gefährdung durch fahrlässige Verletzung der Regeln der Baukunde
+im Sinne von Art. 229 Abs. 2 StGB schuldig zu sprechen (zum Ganzen:
+act. 15 [SG.2017.00109], E. IV.).
+1.2.
+Was den zweiten
+Beschuldigten, B.______, anbelangt, erwog die Vorinstanz – wie bereits in
+Bezug auf den Vorwurf der fahrlässigen Tötung – wiederum, dass aufgrund der
+durch A.______ ausgeübten Delegation der Absperrung an X.______ keine ihm
+(B.______) zurechenbare Sorgfaltspflichtverletzung vorliege. Deshalb sei dieser
+vom Vorwurf der Gefährdung durch fahrlässige Verletzung der Regeln der
+Baukunde im Sinne von Art. 229 Abs. 2 StGB freizusprechen (zum
+Ganzen: act. 45 [SG.2017.00109], E. IV.).
+2. Argumentation des
+Beschuldigten A.______
+Nach Auffassung von A.______ ist
+der Tatbestand von Art. 229 Abs. 2 StGB nicht erfüllt. So habe er
+nicht gegen anerkannte Regeln der Baukunde verstossen. Mass-gebend sei hier
+die Bauarbeitenverordnung (BauAV). Gemäss deren Art. 15 Abs. 1 sei
+bei ungeschützten Stellen mit einer Absturzhöhe von mehr als zwei Metern ein
+Seitenschutz zu verwenden. Vorliegend könne nicht von einer Grubentiefe von
+mehr als zwei Metern ausgegangen werden, womit keine Verletzung anerkannter
+Regeln der Baukunde vorliege.
+Auch habe keine konkrete
+Gemeingefahr bestanden: Das Areal der Firma Y.______ AG, auf dem die
+Sickergrube ausgehoben worden sei, liege in der Industriezone, wo nicht a
+priori mit Fussgängern zu rechnen sei. In Richtung der Strasse seien ein
+grosser Stein vor der Grube und nebenan zwei Kieshaufen deponiert worden. Die
+Sickergrube habe innerhalb der Wiese gelegen und sei erkennbar gewesen, dass
+das Wasser versickern sollte.
+Selbst wenn eine Absperrpflicht
+zu bejahen wäre, habe er (A.______) nicht fahrlässig gehandelt. Für ihn habe
+kein objektiver Grund vorgelegen an der umgehenden Errichtung des Schafszauns
+durch X.______  zu zweifeln und diese Errichtung zu überwachen, da dieser
+dies ausdrücklich zugesichert und er schon mehrere von dessen Schafszäunen
+gesehen habe. Auch habe X.______  einen massiveren Zaun als sonst üblich
+aufbauen wollen. Ihm könne unter diesen Umständen nicht vorgeworfen werden,
+unvorsichtig oder rücksichtslos gehandelt zu haben. Insbesondere habe von ihm
+(A.______) nicht erwartet werden können, dass er jede von ihm erteilte Anordnung
+überwache und kontrolliere. Denn er sei damals überwiegend auf einer
+Baustelle im Kanton Graubünden tätig gewesen und die auf dem Firmengelände
+der Y.______ AG gelegene Sickergrube sei weniger als zwei Meter tief gewesen.
+Sodann müsse er sich als Bauleiter im Rahmen des Üblichen darauf verlassen
+können, dass seine Anordnungen auch umgesetzt werden. Er habe auch nicht
+davon ausgehen müssen, dass X.______  die Absicherung der Grube mehrere Tage
+lang nicht an die Hand nehmen werde und so eine Gefahr schaffe bzw. aufrecht
+erhalte, da dieser selber ein Interesse daran gehabt habe, den Schafszaun zu
+errichten. Für X.______  habe auch deshalb klar sein müssen, dass die
+Absicherung umgehend zu erfolgen habe, weil dieser gesehen habe, dass der
+Bauarbeiter B.______ in seinem (A.______) Auftrag sogleich eine solche
+Absicherung habe vornehmen wollen und er (X.______ ) diesen davon abgehalten
+habe. Insgesamt fehle es an einem adäquaten Kausalzusammenhang zwischen
+seinem (A.______) Verhalten und dem Gefährdungserfolg, da das Verhalten von
+X.______  (während mehrerer Tage ausbleibendes Errichten des Schafzaunes)
+derart aussergewöhnlich gewesen sei, dass er damit nicht habe rechnen müssen
+(zum Ganzen: act. 31 [OG.2018.00040] Rz. 12 ff.).
+3. Standpunkt der Staatsanwaltschaft
+3.1.
+In Beantwortung der
+von A.______ erhobenen Berufung verweist die Staatsanwaltschaft in Bezug auf
+den Tatbestand der Gefährdung durch fahrlässige Verletzung der Regeln der
+Baukunde auf die Erwägungen der Vorinstanz. Zusätzlich zur sich aus Art. 15
+Abs. 1 BauAV ergebenden Pflicht sei der Beschuldigte aufgrund von
+Art. 11 Abs. 2 lit. d StGB (Garantenpflicht aus Ingerenz)
+verpflichtet gewesen, für Sicherungsmassnahmen besorgt zu sein. Denn die
+Sickergrube, die er habe ausheben lassen, habe leer wie auch mit Wasser
+gefüllt eine erhebliche und unnötige Gefahr für Menschen dargestellt. Diese
+Gefahr habe sich mit dem Tod von X.______ realisiert, weil der Beschuldigte
+über einen erheblichen Zeitraum keine geeigneten Absperrmassnahmen
+vorgenommen bzw. veranlasst habe respektive veranlasste Absperrmassnahmen
+nicht zeitnah überprüft habe.
+Alsdann sei die Delegation der
+Absperrarbeiten an X.______ durch den Beschuldigten – wie im Zusammenhang mit
+dem Tatbestand der fahrlässigen Tötung dargelegt – nicht zulässig gewesen. Ob
+er habe davon ausgehen können, dass jener die Arbeiten zeitnah ausführen
+werde, sei irrelevant. So oder anders hätte er zeitnah überprüfen müssen, ob
+die Sicherung erfolgt sei. Dies habe er pflichtwidrig unterlassen.
+Der Beschuldigte könne sich auch nicht durch Ortsabwesenheit von seinen
+Sorgfaltspflichten entbinden. Im Hinblick auf seine Tätigkeit im Kanton
+Graubünden hätte er umso mehr auf einer sofortigen Absperrung beharren und
+diese kontrollieren müssen. Dass eine ihm nicht unterstellte bzw. nicht
+weisungsgebundene Person anderen Arbeiten zeitliche Priorität einräumen
+könnte, wie auch dass die von dieser Person vorgenommenen Absperrungen
+hinsichtlich der Sicherheit von Menschen ungenügend ausfallen könnten, sei
+für den Beschuldigten sehr wohl vorhersehbar gewesen. Ebenfalls sei
+voraussehbar gewesen, dass letztlich X.______ einer konkreten Gefahr
+ausgesetzt werde (zum Ganzen: act. 41 [OG.2018.00040]
+Rz. III.1 ff., vgl. auch die Ausführungen in act. 13
+[OG.2018.00044] Rz. III.1 ff. zum Tatbestand der fahrlässigen
+Tötung, welche die Staatsanwaltschaft als auch für den hier interessierenden
+Straftatbestand zutreffend bezeichnet).
+3.2.
+Zur Begründung ihrer
+Berufung gegen den vorinstanzlichen Freispruch von B.______ vom Vorwurf der
+Gefährdung durch fahrlässige Verletzung der Regeln der Baukunde stützt sich
+die Staatsanwaltschaft auf die bereits im Zusammenhang mit dem Vorwurf der
+fahrlässigen Tötung erwähnten Argumente (vgl. vorne, E. IV.2.).
+4. Tatbestandsvoraussetzungen
+4.1.
+Gemäss Art. 229 Abs.
+2 StGB macht sich eine an einem Bauwerk beteiligte Person der Gefährdung
+durch Verletzung der Regeln der Baukunde strafbar, wenn sie bei der Leitung
+oder Ausführung des Bauwerks oder eines Abbruchs durch eine Handlung oder
+Unterlassung pflichtwidrig anerkannte Regeln der Baukunde ausser Acht lässt
+und dadurch jemanden einer Todes- oder Verletzungsgefahr aussetzt. Dabei
+handelt auch fahrlässig, wer die Gefahr trotz gebotener Sorgfalt nicht
+erkennt. Die Tathandlung gemäss Art. 229 StGB besteht in der Nichtbeachtung
+von anerkannten Regeln der Baukunde bei der Leitung oder Ausführung eines
+Bauwerkes. Der Tatbestand kann sowohl durch aktives unsachgemässes Handeln
+als auch durch Unterlassen gebotener Schutzmassnahmen erfüllt werden (zum
+Ganzen z.B. BGer 6B_516/2009 vom 3. November 2009, E. 3.3.-3.5 und BGE
+90 IV 246, E. 1, je m.w.H.).
+4.2.
+Der Tatbestand von
+Art. 229 StGB ist als Erfolgsdelikt konzipiert. Vorausgesetzt ist damit
+insbesondere, dass durch das Nichteinhalten der Regeln der Baukunde Dritte
+einer konkreten Gemeingefahr ausgesetzt werden. Es handelt sich bei diesem
+Tatbestand also um ein konkretes Gefährdungsdelikt. Für die Vollendung der
+Tat wird folglich keine Verletzung eines Rechtsguts verlangt, sondern es
+genügt, wenn ein solches tatsächlich in Gefahr gebracht wird. Vorausgesetzt
+wird eine konkrete Gefahr, die wirklich eingetreten ist. Massgebend für die
+konkrete Gefahr ist also nicht, was alles hätte geschehen können, sondern
+einzig, was sich tatsächlich ereignet hat. Befand sich niemand (oder nur der
+Täter) in der Gefahrenzone oder waren lediglich Sachen gefährdet, entfällt
+die Anwendung von Art. 229 StGB. Da dieser Tatbestand überdies ein
+gemeingefährliches Delikt darstellt, genügt die konkrete Gefährdung einer
+einzigen Person im Sinne der Repräsentationstheorie nur dann, wenn diese
+nicht von vornherein individuell bestimmt, sondern vom Zufall ausgewählt ist
+(zum Ganzen: Roelli, BSK StGB II, Art. 229 N 41 sowie Vor
+Art. 221 N 8 und BGer 6B_779/2009 vom 12. April 2010,
+E. 2.2.1, je m.w.H.; vgl. z.B. auch BGE 109 IV 125).
+4.3.
+Auch für eine
+Fahrlässigkeitsstrafbarkeit nach Art. 229 StGB ist erforderlich, dass der
+Gefährdungserfolg für den Beschuldigten voraussehbar war. Dies bestimmt sich
+nach den vorne (E. IV.4.2.) zum Tatbestand der fahrlässigen Tötung
+dargelegten Grundsätzen.
+5. Anklagegrundsatz
+5.1.
+Gemäss dem in Art. 9
+Abs. 1 StPO festgeschriebenen Anklagegrundsatz bestimmt die Anklageschrift
+den Gegenstand des Gerichtsverfahrens (Umgrenzungsfunktion; vgl. auch Art. 29
+Abs. 2 und Art. 32 Abs. 2 BV; Art. 6 Ziff. 1 und 3 lit. a und b EMRK). Das
+Gericht ist an den in der Anklage wiedergegebenen Sachverhalt gebunden
+(Immutabilitätsprinzip), nicht aber an dessen rechtliche Würdigung durch die
+Anklagebehörde (vgl. Art. 350 StPO). Die Anklage hat die der beschuldigten
+Person zur Last gelegten Delikte in ihrem Sachverhalt so präzise zu
+umschreiben, dass die Vorwürfe in objektiver und subjektiver Hinsicht
+genügend konkretisiert sind. Zugleich bezweckt das Anklageprinzip den Schutz
+der Verteidigungsrechte der angeschuldigten Person und garantiert den
+Anspruch auf rechtliches Gehör (Informationsfunktion). Diese muss aus der
+Anklage ersehen können, was ihr konkret vorgeworfen wird, damit sie ihre
+Verteidigungsrechte angemessen ausüben kann. Dies bedingt eine zureichende,
+d.h. möglichst kurze, aber genaue (Art. 325 Abs. 1 lit. f StPO) Umschreibung
+der Sachverhaltselemente, die für eine Subsumtion unter die anwendbaren
+Straftatbestände erforderlich sind (Ort, Zeit, Art der Begehung und Form der Mitwirkung,
+angestrebter und verwirklichter Erfolg, weitere Folgen der Tatausführung
+u.ä.). Die Darstellung der tatsächlichen Vorgänge ist auf die gesetzlichen
+Tatbestände auszurichten, die nach Auffassung der Anklage als erfüllt zu
+betrachten sind. Entscheidend ist, dass die betroffene Person genau weiss,
+welcher konkreter Handlungen sie beschuldigt und wie ihr Verhalten rechtlich
+qualifiziert wird, damit sie sich in ihrer Verteidigung richtig vorbereiten
+kann. Sie darf nicht Gefahr laufen, erst an der Gerichtsverhandlung mit neuen
+Anschuldigungen konfrontiert zu werden. Ungenauigkeiten sind solange nicht
+von entscheidender Bedeutung, als für die beschuldigte Person keine Zweifel
+darüber bestehen, welches Verhalten ihr angelastet wird (zum Ganzen statt
+vieler z.B. BGer 6B_278/2018 vom 17. Mai 2019, E. 2.2., BGer
+6B_764/2016 vom 24. November 2016, E. 1.3., und BGer 6B_963/2015
+vom 19. Mai 2016, 1.3.2., je m.w.H.). Demgegenüber ist der
+Anklagegrundsatz verletzt, wenn die Anklage nicht diejenigen Umstände anführt,
+die auf das Vorliegen der Kernelemente eines Tatbestandes schliessen lassen
+(Heimgartner/Niggli, BSK StPO, Art. 325 N 37).
+5.2.
+Die
+Sachverhaltsumschreibung von Strafbefehlen muss den Anforderungen an eine
+Anklage genügen (Art. 353 Abs. 1 lit. c in Verbindung mit Art. 325 Abs. 1
+lit. f StPO). Mit anderen Worten sind an die Anklageschrift nicht geringere
+Anforderungen zu stellen, wenn sie von einem Strafbefehl herrührt (BGer
+6B_910/2017 vom 29. Dezember 2017, E. 2.4. m.w.H.).
+6. Beurteilung
+6.1.
+6.1.1.
+Insoweit die
+Staatsanwaltschaft den Straftatbestand von Art. 229 Abs. 2 StGB
+infolge Gefährdung anderer Personen als den tödlich verunfallten X.______
+erfüllt betrachtet, ist zunächst zu prüfen, ob der Anklagegrundsatz
+(Art. 9 StPO; vgl. soeben, E. V.5.) gewahrt ist:
+6.1.2.
+Wie aufgezeigt
+(soeben, E. V.4.2.), setzt der Tatbestand von Art. 229 Abs. 2
+StGB eine wirklich eingetretene Gefahr voraus, d.h. es müssen sich
+tatsächlich Personen in der Gefahrenzone befunden haben.
+Den als Anklageschrift geltenden
+Strafbefehlen (je act. 2 [SG.2017.00108 und SG.2017.00109];
+Art. 356 Abs. 1 Satz 2 StPO) lässt sich nicht entnehmen, ob
+dem vorliegend so war. Denn es heisst darin einzig (je S. 4 Abs. 4
+bzw. Abs. 3):
+"Durch seine Pflichtverletzungen hat der Beschuldigte
+[B.______/A.______] nicht nur anerkannte Regeln der Baukunde (Unterlassen
+gebotener Schutzmassnahmen) verletzt und dadurch den Tod von X.______
+verursacht, sondern auch eine Gefährdung für weitere Personen geschaffen,
+[…]"
+. Es fehlen folglich im Strafbefehl Angaben dazu, ob und welche
+(Art von) Personen (z.B. Anwohner, Kunden und Belegschaft von in der Umgebung
+gelegenen Betrieben, usw.) effektiv im Zeitraum zwischen dem 4. Juli
+2014 (Tag, an dem die Sickergrube ausgehoben wurde) und dem 13. Juli 2014
+(Tag nach dem Unfall von X.______ – ab dann war die Sickergrube abgesperrt
+[vgl. U-act. 5/1 und U-act. 1/1 S. 12 Mitte]) auf welche Weise
+(z.B. zu Fuss, mit dem Fahrrad, im Auto, usw.) und wie nahe bei der
+Sickergrube zugegen waren.
+Eine Umschreibung mittels solcher
+Angaben im Strafbefehl wäre aber im vorliegenden Fall insbesondere zur
+effektiven Wahrnehmung der Verteidigungsrechte erforderlich gewesen. Denn es
+liegt auf der Hand, dass sich der Beschuldigte nur dann wirksam verteidigen
+kann, wenn ihm vorgehalten wird, wann (ungefähr) sich welche Art von Personen
+auf welche Weise bei der Sickergrube befanden. So versteht sich etwa von
+selbst, dass es für die Verteidigung einen wesentlichen Unterschied bedeutet,
+ob eine erwachsene Person in einem Auto oder Lastwagen auf der Strasse neben
+der Sickergrube vorbeifuhr oder ob z.B. nahe der Sickergrube Kinder spielten.
+Es ist nun aber mit dem Anklageprinzip (Art.9 StPO) wie auch mit der
+Unschuldsvermutung in ihrer Ausprägung als Beweislastregel (Art. 32 Abs. 1 BV,
+Art. 6 Ziff. 2 EMRK und Art. 10 Abs. 3 StPO; vgl. z.B. BGer 1B_19/2019 vom
+4. Februar 2019, E. 3.-3.1.) nicht vereinbar, dass der Beschuldigte
+von sich aus gleichsam alle potenziellen Gefährdungsszenarien erahnen und für
+diese "auf Vorrat" Verteidigungsstrategien erarbeiten muss.
+Nach dem Gesagten ist in Bezug
+auf andere Personen als das Opfer X.______ das objektive Tatbestandselement
+des Gefährdungserfolgs im Strafbefehl nicht genügend umschrieben.
+6.1.3.
+Der
+Anklagegrundsatz gemäss Art. 9 Abs. 1 StPO ist somit – soweit es um
+andere Personen als X.______ geht – in Bezug auf das beim Tatbestand von
+Art. 229 Abs. 2 StGB geltende Tatbestandselement der konkreten
+Gefährdung verletzt (ein dem Anklageprinzip genügendes Beispiel einer Anklage
+bei einem konkreten Gefährdungsdelikt findet sich in BGer 6B_794/2014 vom
+9. Februar 2015, E. 4.2.-4.4.).
+6.2.
+6.2.1.
+Es kann offen
+bleiben, ob der Strafbefehl damit an einem derart erheblichen Mangel leidet,
+dass die Sache an die Vorinstanz bzw. die Staatsanwaltschaft zur
+Vervollständigung der Anklageschrift zurückzuweisen ist (vgl. dazu einerseits
+BGer 6B_910/2017 vom 29. Dezember 2017, E. 2.4. und BGer
+6B_848/2013 vom 3. April 2014, E. 1.4, sowie andererseits BGer
+6B_963/2015 vom 19. Mai 2016, E. 1.5., je m.w.H.). Die
+Beschuldigten wären nämlich selbst dann vom Vorwurf der Gefährdung durch
+fahrlässige Verletzung von Regeln der Baukunde in Bezug auf andere Personen
+als X.______ freizusprechen, wenn man eine Verletzung des Anklagegrundsatzes
+verneinen würde.
+Denn wie aufgezeigt und von der
+Vorinstanz in den angefochtenen Entscheiden ausser Acht gelassen (vgl.
+act. 45 [SG.2017.00108] E. IV. Abs. 3 bzw. act. 15
+[SG.2017.00109] E. IV. Abs. 4, wo sie erwägt, dass
+"insbesondere
+Fussgänger […] jederzeit hätten hineinfallen können"
+bzw.
+"dass
+sich jederzeit jemand der Grube hätte nähern können"
+), müsste den
+Beschuldigten insofern für einen Schuldspruch nachgewiesen werden können,
+dass sich effektiv Personen in der Gefahrenzone befunden haben, also eine
+konkrete Gefährdung im Sinne von Art. 229 Abs. 2 StGB bestand. Ebenfalls
+ungenügend, da eine "bloss" abstrakte Gefährdungssituation
+beschlagend, ist somit das Vorbringen der Staatsanwaltschaft vor Vorinstanz
+(act. 27 [ SG.2017.00108], S. 7 oben), wonach eine Gefährdung von
+Menschen offensichtlich sei, sei doch nicht auszudenken, was hätte passieren
+können, wenn spielende Kinder in die "Riesenpfütze" hätten springen
+wollen. Auch im Berufungsverfahren machte die Staatsanwaltschaft eine
+konkrete Gefährdung (und Verletzung) einzig in Bezug auf X.______, nicht aber
+in Bezug auf andere Personen geltend (vgl. act. 41 [OG.2018.00040],
+S. 5 f. Rz. 14, 19, 21 sowie act. 60 [OG.2018.00043]).
+Der soeben erwähnte Beweis, dass sich effektiv andere Personen als X.______
+in der Gefahrenzone befanden, ist nicht erbracht:
+6.2.2.
+Bezüglich dieses
+Beweisthemas fallen als Beweismittel im Wesentlichen die bei den Akten
+liegenden Protokolle der durchgeführten polizeilichen, staatsanwaltlichen und
+gerichtlichen Einvernahmen des Beschuldigten A.______ (U-act. 2/1 und
+2/11; act. 25 [SG.2017.00108]), des Beschuldigten B.______
+(U-act. 2/2 und 2/9; act. 24 [SG.2017.00108]) sowie der
+Auskunftspersonen [...] (Geschäftsführer und Delegierter des Verwaltungsrats
+der Y.______ AG; U-act. 2/3) und [...] (Anwohner; U-act. 2/5), in
+Betracht. Hindernisse bezüglich deren Verwertbarkeit (auch) zu Lasten des
+Beschuldigten sind keine ersichtlich.
+6.2.3.
+Aufgrund dieser
+Beweismittel ist indes eine konkrete Gefährdung nicht bewiesen.
+So machten die Beschuldigten A.______ und B.______ lediglich Aussagen zu
+Möglichkeiten abstrakter Gefährdung (vgl. U-act. 2/1 S. 8
+Fr. 47 [Antwort von A.______ auf die Frage, ob der fragliche Bereich
+stark durch Fussgänger frequentiert sei: Solche hätten auf diesem Areal der Y.______
+AG eigentlich nichts zu suchen]; U-act. 2/2 S. 5 Fr. 30 und
+U-act. 2/9 S. 3 Fr. 6: Bemerkung von B.______, dass wenn sein
+Sohn dabei gewesen wäre, er bezüglich der Sicherheit Bedenken gehabt hätte,
+da jedes ausgegrabene Loch ein Sicherheitsrisiko darstelle; U-act. 2/2
+S. 6 Fr. 35, wonach die Gefahr, dass jemand in die Grube fallen
+könnte, bestanden habe; U-act. 2/9 S. 3 Fr. 8, wonach sich ein
+Wohnhaus in der Nähe der Sickergrube befinde; vgl. auch U-act. 2/9
+S. 5 Erg.fr. 3).
+Die Auskunftsperson [...]
+äusserte sich als Vorgesetzter der Beschuldigten vor allem zu Aspekten der
+Arbeitsorganisation und der Baustellensicherheit, nicht aber dazu, ob und
+inwiefern sich im Gefahrenbereich jemals Personen befanden vgl.
+U-act. 2/3).
+Anwohner [...] erklärte, als er
+am 12. Juli 2014 um zirka 15:30 Uhr X.______ auf dem Wiesland beim
+Errichten eines Schafzaunes gesehen habe, habe sich abgesehen von diesem
+niemand dort befunden und ausser dessen sowie seinen eigenen Fahrzeugen seien
+um das öffentlich zugängliche Grundstück auch keine Fahrzeuge abgestellt
+gewesen (U-act. 2/5 S. 2 Fr. 4, Fr. 7, Fr. 27).
+Bevor es stark geregnet habe, habe man die Sickergrube von weitem gut
+erkennen können (U-act. 2/5 S. 4 Fr. 22 f.). Für ihn
+persönlich habe keine Gefahr bestanden (U-act. 2/5 S. 4
+Fr. 25). Kinder spielten an dieser Örtlichkeit keine (U-act. 2/5
+S. 5 Fr. 30 f.). Aus all diesen Aussagen von [...] ergeben
+sich keine Hinweise dafür, dass Leib und/oder Leben von Mitmenschen im Sinne
+von Art. 229 StGB konkret gefährdet gewesen wären.
+Dasselbe gilt in Bezug auf die
+weitere Aussage von [...], wonach die angrenzende [...]-strasse normal
+frequentiert sei und – auch nachts – von Fussgängern, Radfahrern und
+Automobilisten benutzt werde (U-act. 2/5 S. 5 Fr. 29).
+Zunächst ist dies Aussage allzu allgemein gehalten, als dass daraus auf eine
+konkrete Gefährdungssituation geschlossen werden könnte. Vor allem aber führt
+die – asphaltierte – [...]-strasse nicht direkt am Wiesland vorbei, an dessen
+Rand die Sickergrube lag. Vielmehr liegt zwischen der [...]-strasse und der
+Sickergrube eine Distanz von deutlich mehr als einer Strassenbreite (vgl.
+U-act. 4/1 S. 1, S. 5 oben und S. 6, U-act. 4/2,
+U-act. 2/6, U-act. 2/12/4 und U-act. 2/12/7). Damit ist
+offenkundig, dass für sich auf der [...]-strasse bewegende Personen von der
+Sickergrube keine Gefahr ausging. Der – nicht asphaltierte, sondern mit Kies
+bedeckte – Bereich zwischen der [...]-strasse und der Sickergrube dient
+vielmehr einzig der Zufahrt zur von [...] bewohnten Liegenschaft
+"[...]" (vgl. U-act. 4/1 S. 1 und S. 5 unten; vgl. auch
+U-act. 2/3 S. 4 Fr. 19). In Bezug auf diesen Zufahrtsweg ist
+aufgrund der bei den Akten liegenden Beweismittel keine stattgefundene
+konkrete Gefährdung von Personen bewiesen. Im Gegenteil ist angesichts der vorhin
+zitierten weiteren Aussagen von [...] erstellt, dass dessen Leib und Leben
+nicht konkret gefährdet war und sich auch nicht etwa spielende Kinder im
+Gefahrenbereich aufhielten.
+6.2.4.
+Nach dem Gesagten
+ist aufgrund der bei den Akten liegenden Beweismittel nicht erstellt, dass
+sich im Zeitraum zwischen dem 4. Juli 2014 (Aushub der Sickergrube) und
+dem 13. Juli 2014 (Absperrung der Sickergrube) – abgesehen von X.______
+– tatsächlich Personen so nahe bei der Sickergrube befanden, dass deren Leib
+und Leben konkret gefährdet wurde. Damit ist in Bezug auf andere Personen als
+X.______ jedenfalls die Tatbestandsvoraussetzung der konkreten Gefährdung
+nicht erfüllt. Die Beschuldigten sind folglich insofern vom Vorwurf der Gefährdung
+durch fahrlässige Verletzung von Regeln der Baukunde im Sinne von Art. 229
+Abs. 2 StGB freizusprechen.
+6.3.
+6.3.1.
+Insoweit sich der
+Gefährdungserfolg auf den tödlich verunfallten X.______ bezieht (die
+Vorinstanz bezog sich bei ihrem Schuldspruch ausschliesslich auf andere
+Personen als X.______, vgl. act. 15 [SG.2017.00109], E. IV.
+Abs. 4: "völlig unbeteiligte Dritte"), kommt eine Strafbarkeit
+der Beschuldigten nach Art. 229 Abs. 2 StGB ebenfalls nicht in Frage:
+6.3.2.
+X.______
+vereinbarte mit den Beschuldigten, die Absperrarbeiten an der Sickergrube
+selber vorzunehmen und insofern gleichsam "im Dienste" der
+Beschuldigten Garantenpflichten zu übernehmen (vgl. vorne,
+E. IV.5.4.3.). Damit handelt es sich bei diesem nicht um einen im Sinne
+der Repräsentationstheorie (vgl. vorne, E. V.4.2.) unbeteiligten
+Dritten, der im Verhältnis zu den Beschuldigten vom Zufall ausgewählt ist und
+als Repräsentant der Allgemeinheit erscheint (vgl. hierzu statt vieler
+Riklin, in Stöckli/Siegenthaler [Hrsg.], Die Planerverträge – Verträge mit
+Architekten und Ingenieuren, Zürich 2013, N 19.37). Vielmehr war
+X.______ eine zum Voraus bestimmte, am Geschehen beteiligte Person. Der
+Straftatbestand von Art. 229 Abs. 2 StGB ist daher mangels
+Gemeingefahr nicht anwendbar. Eine Strafbarkeit wegen Versuchs fällt bei der
+hier einzig interessierenden Tatbestandsvariante der fahrlässigen
+Deliktsbegehung (Art. 229 Abs. 2 StGB) ausser Betracht (vgl. z.B.
+BGer 6B_410/2015 vom 28. Oktober 2015, E. 1.4.1.).
+6.3.3.
+Ausserdem ist aus
+denselben Gründen wie vorne zum Tatbestand der fahrlässigen Tötung dargelegt
+(E. IV.5.4.4.), auch in Bezug auf den Tatbestand der Gefährdung durch
+fahrlässige Verletzung von Regeln der Baukunde kein adäquater
+Kausalzusammenhang zwischen allfälligen Sorgfaltspflichtsverletzungen der
+Beschuldigten bzw. zwischen deren allfälligen Nichtbeachtens anerkannter
+Regeln der Baukunde und dem Tod von X.______ gegeben.
+7. Fazit zum Tatbestand von
+Art. 229 Abs. 2 StGB
+Wie sich aus den vorstehenden
+Erwägungen ergibt, sind die Beschuldigten nicht nur vom Vorwurf der fahrlässigen
+Tötung im Sinne von Art. 117 StGB, sondern auch vom Vorwurf der Gefährdung
+durch fahrlässige Verletzung von Regeln der Baukunde im Sinne von Art. 229
+Abs. 2 StGB freizusprechen.
+VI.
+Beschlagnahmte Gegenstände
+1.
+Im Endentscheid ist über das Schicksal
+beschlagnahmter Gegenstände und Vermögenswerte zu entscheiden, wenn die
+Beschlagnahme nicht bereits vorher aufgehoben worden ist (Art. 267
+Abs. 3 StPO).
+2.
+Gemäss den Akten
+(U-act. 8/1-2 und U-act. 1/1 S. 3 unten und S. 12 Mitte )
+wurden diverse Kleidungsstücke bzw. Effekten des Opfers X.______ durch die
+Polizei sichergestellt (recte: als Beweismittel beschlagnahmt, vgl.
+Art. 263 Abs. 1 lit. a StPO).
+3.
+Während ein Teil der
+sichergestellten Gegenstände am 13. Juli 2014 dem Sohn des Opfers ausgehändigt
+wurde (U-act. 8/1-2 und U-act. 1/1 S. 12), ist aus den Akten
+nicht ersichtlich, dass über das Schicksal der restlichen beschlagnahmten
+Gegenstände bereits entscheiden worden wäre. Jedenfalls hat die Vorinstanz
+hierzu in den angefochtenen Entscheiden (act. 45 [SG.2017.00108] und
+act. 15 [SG.2017.00109]) entgegen Art. 81 Abs. 4 lit. e
+StPO und Art. 267 Abs. 3 i.V.m. Art. 263 Abs. 1
+lit. a StPO keine Anordnung getroffen. Auch in den Strafbefehlen vom
+14. August 2017 (je act. 2 [SG.2017.00108 und SG.2017.00109])
+finden sich keine diesbezüglichen Regelungen.
+4.
+Auch die noch nicht
+zurückgegebenen, beschlagnahmten Gegenstände (Hose, Hemd, Gurt, Unterwäsche,
+Socken, Stiefel, Kopfbedeckung, Baupickel) werden nicht mehr als Beweismittel
+benötigt. Eine Einziehung derselben sowie eine Verwendung zur Kostendeckung
+kommt nicht in Frage. Aus diesen Gründen sind diese Gegenstände der
+Privatklägerin auszuhändigen, sofern sie dies wünscht (Art. 267
+Abs. 3 i.V.m. Abs. 1 StPO).
+VII.
+Kosten- und Entschädigungsfolgen
+1. Kostenfolgen Untersuchung
+und erstinstanzliches Verfahren
+1.1.
+Trifft die
+Rechtsmittelinstanz selber einen neuen Entscheid, so befindet sie darin auch
+über die von der Vorinstanz getroffene Kostenregelung (Art. 428
+Abs. 3 StPO i.V.m. Art. 454 Abs. 1 StPO). Der Beschuldigte
+trägt die erstinstanzlichen Verfahrenskosten, wenn er verurteilt wird
+(Art. 426 Abs. 1 StPO i.V.m. Art. 454 Abs. 1 StPO).
+1.2.
+Die Beschuldigten
+werden mit vorliegendem Urteil in Bezug auf alle in den Strafbefehlen vom 14. August
+2017 (je act. 2 [SG.2017.00108 und SG.2017.00109] = U-act. 19/1-2)
+umschriebenen Sachverhalte bzw. Anklagepunkte freigesprochen. Ein den
+Beschuldigten vorwerfbares Handeln im Sinne von Art. 426 Abs. 2
+StPO liegt nicht vor. Demzufolge sind die Kosten der Untersuchung und der
+erstinstanzlichen Gerichtsverfahren SG.2017.00108/109 vollumfänglich auf die
+Staatskasse zu nehmen.
+2. Kostenfolgen
+Berufungsverfahren
+2.1.
+Im Berufungsverfahren
+tragen die Parteien die Kosten grundsätzlich nach
+Massgabe ihres Unterliegens oder
+Obsiegens (Art. 428 Abs. 1 StPO i.V.m. Art. 454 Abs. 1 StPO).
+2.2.
+Die Beschuldigten
+obsiegen im Berufungsverfahren vollumfänglich. Bei diesem Verfahrensausgang
+sind auch die Gerichtskosten des Berufungsverfahrens vollumfänglich auf die
+Staatskasse zu nehmen.
+3. Entschädigungsfolgen
+3.1.
+Zufolge des
+Freispruchs sind den Beschuldigten die Kosten ihrer erbetenen Verteidigung zu
+ersetzen, zumal angesichts der tatsächlichen und rechtlichen Komplexität des
+Falles eine anwaltliche Verbeiständung geboten war (Art. 429 Abs. 1
+lit. a StPO, für das Berufungsverfahren i.V.m. Art. 436 Abs. 1
+StPO). Da die Beschuldigten infolge der Verweisung der von der Privatklägerin
+erhobenen Zivilklage auf den Zivilweg nicht als obsiegend im Sinne von Art. 432
+Abs. 1 StPO gelten (Wehrenberg/Frank, BSK StPO, Art. 432 N 6),
+gehen diese Entschädigungen zu Lasten der Gerichtskasse.
+3.2.
+Die
+Verteidigerin
+von B.______ reichte im vorinstanzlichen Verfahren sowie im
+Berufungsverfahren zur Bezifferung der Entschädigung für die Kosten der
+erbetenen Verteidigung Honorarnoten über CHF 11'583.85 (Leistungen inkl.
+Auslagen und MwSt. seit Mandatierung bis und mit Abschluss des
+erstinstanzlichen Verfahrens, act. 29 [SG.2017.00108]) sowie über
+CHF 1'422.60 (Leistungen inkl. Auslagen und MwSt. im Berufungsverfahren,
+act. 65 [OG.2018.00043]) ein. Die darin geltend gemachten
+Zeitaufwendungen und Auslagen sind nicht zu beanstanden. Ebenso ist der in
+den Honorarnoten angewendete Stundenansatz von CHF 250.– angemessen.
+Dementsprechend ist dem Beschuldigten B.______ für das gesamte Strafverfahren
+antragsgemäss eine Entschädigung für seine anwaltliche Verteidigung von
+insgesamt CHF 13'006.45 (inkl. MwSt. und Auslagen) aus der Gerichtskasse
+zuzusprechen, praxisgemäss zahlbar an die Verteidigerin.
+3.3.
+In den vom
+Verteidiger von A.______ im vorinstanzlichen Verfahren sowie im
+Berufungsverfahren eingereichten Honorarnoten werden Verteidigungskosten von
+insgesamt CHF 15'213.05 geltend gemacht (Leistungen inkl. Auslagen und
+MwSt. seit Mandatierung bis und mit Abschluss des Berufungsverfahren;
+act. 28 [SG.2017.00108] und act. 18/1-2 [OG.2018.00044, mit Geltung
+auch für das Verfahren OG.2018.00040]). Die in den Honorarnoten aufgeführten
+Zeitaufwendungen und Auslagen sind nicht zu beanstanden. Ebenso ist der in
+der Honorarnote angewendete Stundenansatz von CHF 240.– angemessen.
+Dementsprechend ist dem Beschuldigten für das gesamte Strafverfahren
+antragsgemäss eine Entschädigung für seine anwaltliche Verteidigung von
+insgesamt CHF 15'213.05 (inkl. MwSt. und Auslagen) aus der Gerichtskasse
+zuzusprechen, praxisgemäss zahlbar an den Verteidiger.
+____________________
+Das Gericht
+beschliesst
+:
+1.
+Es wird festgestellt, dass die
+Dispositiv-Ziffer 2 des Urteils der Strafgerichtskommission des
+Kantonsgerichts Glarus vom 2. Mai 2018 im Verfahren SG.2017.00108
+(Verweis der Zivilklage auf den Zivilweg) per 2. Mai 2018 in
+Rechtskraft erwachsen ist.
+2.
+Es wird festgestellt, dass die
+Dispositiv-Ziffer 4 des Urteils der Strafgerichtskommission des
+Kantonsgerichts Glarus vom 2. Mai 2018 im Verfahren SG.2017.00109
+(Verweis der Zivilklage auf den Zivilweg) per 2. Mai 2018 in
+Rechtskraft erwachsen ist.
+3.
+Die Verfahren OG.2018.00040,
+OG.2018.00043 und OG.2018.00044 werden vereinigt.
+4.
+Schriftliche Mitteilung mit
+nachfolgendem Urteil.
+Das Gericht
+erkennt
+:
+1.
+Die
+Beschuldigten
+B.______ und A.______ werden von den Vorwürfen der
+fahrlässigen Tötung im Sinne von Art. 117 StGB und der Gefährdung
+durch fahrlässige Verletzung der Regeln der Baukunde im Sinne von
+Art. 229 Abs. 2 StGB freigesprochen.
+2.
+Die unter der Lager-Nummer SN
+149/14 beschlagnahmten Kleidungsstücke bzw. persönlichen Effekten von
+X.______ (Hose, Hemd, Gurt, Unterwäsche, Socken, Stiefel, Kopfbedeckung,
+Baupickel) werden der Privatklägerin nach Rechtskraft des vorliegenden
+Entscheids nach telefonischer Absprache mit der Kantonspolizei Glarus gegen
+Quittung herausgegeben. Werden diese Gegenstände nicht innert 90 Tagen
+nach Rechtskraft des vorliegenden Entscheids bei der Kantonspolizei Glarus
+abgeholt, werden sie durch diese verwertet bzw. auf Kosten der Staatskasse
+entsorgt.
+3.
+Die Kosten der Untersuchung,
+der vorinstanzlichen Verfahren SG.2017.00108 sowie SG.2017.00109 und des
+Berufungsverfahrens werden vollumfänglich auf die Staatskasse genommen.
+4.
+Dem Beschuldigten B.______ wird
+für das gesamte Verfahren (Berufungsverfahren und vorinstanzliches
+Verfahren inkl. Untersuchung) aus der Gerichtskasse eine Entschädigung für
+anwaltliche Verteidigung von insgesamt CHF 13'006.45 (inkl. MwSt. und
+Auslagen) zugesprochen, zahlbar an Rechtsanwältin G.______.
+5.
+Dem Beschuldigten A.______ wird
+für das gesamte Verfahren (Berufungsverfahren und vorinstanzliches Verfahren
+inkl. Untersuchung) aus der Gerichtskasse eine Entschädigung für
+anwaltliche Verteidigung von insgesamt CHF 15'213.05 (inkl. MwSt. und
+Auslagen) zugesprochen, zahlbar an Rechtsanwalt F.______.
+6.
+Im Übrigen werden keine
+Entschädigungen zugesprochen.
+7.
+Schriftliche Mitteilung an:
+[...]
