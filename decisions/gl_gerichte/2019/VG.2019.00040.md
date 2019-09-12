@@ -1,0 +1,512 @@
+---
+decision_id: "gl_gerichte_VG.2019.00040"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2019.00040"
+docket_2: "VG.2019.834"
+decided: "2019-09-12"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1143&W10_KEY=218274&nTrefferzeile=6&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/210/art-301.md", "switzerland/bund/acts/210/art-307.md", "switzerland/bund/acts/210/art-450.md"]
+---
+
+# GL Gerichte VG.2019.00040
+
+## Regeste
+
+Fürsorge/Vormundschaftswesen
+
+## Text
+
+Glarus Verwaltungsgericht 12.09.2019 VG.2019.00040 (VG.2019.834)
+Glaris Verwaltungsgericht 12.09.2019 VG.2019.00040 (VG.2019.834)
+Glarona Verwaltungsgericht 12.09.2019 VG.2019.00040 (VG.2019.834)
+
+Fürsorge/Vormundschaftswesen
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+12. September 2019
+II. Kammer
+in Sachen
+VG.2019.00040
+A.______
+Beschwerdeführerin
+vertreten durch
+Rechtsanwälti
+n B.______
+gegen
+Kindes- und Erwachsenenschutzbehörde
+Beschwerdegegnerin
+des Kantons Glarus
+betreffend
+Erteilung von
+Weisungen/Anpassung der Beistandschaft
+(C.______)
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+A.______ ist die Mutter von
+C.______,
+geboren im Jahr 2007, und von D.______, geboren im Jahr 2014. Betreffend die
+beiden Mädchen gingen am 10. Oktober 2014 bei der Kindes- und
+Erwachsenenschutzbehörde (KESB) […] und am 14. November 2014 bei der KESB
+Glarus Gefährdungsmeldungen
+ein, worauf Letztere
+Abklärungen vornahm.
+1.2
+Gestützt auf Art. 308 Abs. 1 f.
+des Schweizerischen Zivilgesetzbuchs
+vom 10. Dezember 1907 (
+ZGB) setzte d
+ie KESB Glarus am 15. März 2016 eine Beiständin
+für
+C.______ ein.
+1.3
+Mit Beschluss vom 10. Mai 2016 passte die KESB Glarus den Auftrag der
+Beiständin an. Ferner erteilte sie
+A.______
+Weisungen, wonach sie sich regelmässig psychotherapeutisch unterstützen
+lassen, mit der sozialpädagogischen Familienbegleitung zusammenarbeiten und
+überdies alle drei Monate einen Drogen- und Alkoholtest vorlegen müsse
+(Disp.-Ziff. 5).
+1.4
+Am 16.
+Oktober 2018 hob die KESB Glarus die gegenüber A.______ angeordneten
+Weisungen auf und nahm davon Vormerk, dass für
+C.______ am 15. März
+2016 eine Beistandschaft errichtet worden war. In der Folge nahm die KESB
+Glarus am 5. März 2019 erneut Vormerk von der Beistandschaft
+(Disp.-Ziff. 1) und bestätigte die Beistandsperson in ihrem Amt (Disp.-Ziff.
+2). Zudem erteilte sie
+A.______ gestützt auf
+Art. 307 Abs. 3 ZGB erneut Weisungen, wonach sie einmal pro Woche
+in die Elternberatung zu gehen, einmal pro Woche einen Urintest auf Cannabis
+zu machen und dafür zu sorgen habe, dass
+C.______ einmal wöchentlich
+bei einer noch zu bezeichnenden Therapeutin in die Therapie gehe, wobei sie
+die Finanzierung sicherzustellen habe (Disp.-Ziff. 3). Ferner passte sie die
+Aufgaben der Beiständin an (Disp.-Ziff. 5). Einer allfälligen Beschwerde
+gegen die Verfügung entzog sie die aufschiebende Wirkung (Disp.-Ziff. 8).
+2.
+2.1
+Dagegen gelangte
+A.______ mit Beschwerde
+vom
+8. April 2019 ans Verwaltungsgericht und beantragte die Aufhebung des
+Beschlusses vom 5. März 2019. Ferner sei der Beschwerde die aufschiebende
+Wirkung wieder zu erteilen; alles unter Kosten- und Entschädigungsfolgen zu
+Lasten der KESB Glarus sowie unter Gewährung der unentgeltlichen
+Prozessführung und der unentgeltlichen Rechtsverbeiständung.
+2.2
+Die KESB Glarus beantragte am 12. April 2019 die Abweisung des Gesuchs um
+Wiederherstellung der aufschiebenden Wirkung der Beschwerde. Das
+Verwaltungsgericht stellte mit Präsidialverfügung vom 17. April 2019 die
+aufschiebende Wirkung der Beschwerde wieder her.
+2.3
+Am 30. April 2019 nahm die Beiständin von C.______ unaufgefordert zum
+Sachverhalt Stellung, worauf die KESB Glarus am 24. Mai 2019 auf Abweisung
+der Beschwerde schloss; alles unter Kosten- und Entschädigungsfolgen zu
+Lasten von
+A.______. In der Folge hielt
+Letztere mit Replik vom 17. Juni 2019 an ihren Anträgen fest. Die KESB Glarus
+liess sich innert Frist nicht mehr vernehmen.
+II.
+1.
+Das Verwaltungsgericht ist gemäss Art. 105 Abs. 1 lit. d
+des Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986 (VRG) i.V.m.
+Art. 450 Abs. 1
+ZGB i.V.m.
+Art. 67
+des Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuchs im
+Kanton Glarus vom 7. Mai 1911 (EG ZGB) zur Behandlung der vorliegenden Beschwerde
+zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt sind, ist auf
+die Beschwerde einzutreten.
+2.
+2.1
+Die Beschwerdeführerin bringt vor, bei ihren beiden Töchtern liege keine
+Kindeswohlgefährdung vor, welche die vorliegend strittigen Massnahmen
+rechtfertige. Selbst wenn eine solche bejaht werden würde, seien die von der
+Beschwerdegegnerin angeordneten wöchentlichen Urintests auf Cannabis nicht
+verhältnismässig. Zwischen den von der Beschwerdegegnerin erwähnten
+schulischen Schwierigkeiten von C.______ und ihrem Cannabiskonsum bestehe
+nämlich kein Zusammenhang und überdies stellten eine Rückversetzung oder
+Probleme mit einem Mitschüler nichts Aussergewöhnliches dar. Vielmehr liege
+es an der Schule bzw. an den Lehrpersonen, solchen Problemen mit
+geeigneten Massnahmen zu begegnen. Sodann erweise sich auch die angeordnete
+Elternberatung als unverhältnismässig, da sie dadurch bezüglich ihrer
+Arbeits- und Erziehungstätigkeit zusätzlich belastet werde und ihr im
+Hinblick auf eine erfolgsversprechende Therapie überdies das Recht zustehe,
+bei einem allfälligen Bedarf selbst eine geeignete Fachperson zu wählen.
+Ferner sei nicht erkennbar, weshalb C.______ eine Therapie benötige, da eine
+solche nicht erforderlich und geeignet sei, die schulischen Leistungen zu
+verbessern. Hinzu komme, dass diesbezügliche Probleme seit der Rückversetzung
+kaum mehr vorhanden seien. Schliesslich treffe der Vorwurf, sie habe nur
+mangelhaft kooperiert, nicht zu, weshalb die Voraussetzungen für die
+Anordnung der vorliegend strittigen Massnahmen insgesamt nicht erfüllt seien.
+2.2
+Die Beschwerdegegnerin führt aus, der vorliegend angefochtene Beschluss stehe
+nicht im Widerspruch zum Beschluss vom 16. Oktober 2018, mit welchem sie auf
+die Weiterführung der periodischen Cannabiskontrolle verzichtet habe. Der
+damaligen Aufhebung der Weisungen habe ein anderer Sachverhalt zugrunde
+gelegen, wobei die Beiständin von C.______ zwischenzeitlich neue Hinweise auf
+eine Kindeswohlgefährdung mitgeteilt habe. Dieser Gefährdung sei mittels
+geeigneten Massnahmen zu begegnen. Sodann treffe es nicht zu, dass die
+Beschwerdeführerin im Rahmen ihrer Möglichkeiten alles für ihre Kinder
+unternehme. Vielmehr komme sie ihrer Mitwirkungspflicht nur ungenügend nach,
+indem sie regelmässig professionelle Unterstützung ablehne. Folglich habe die
+gewünschte Hilfe in Art, Intensität und Zeit nicht umgesetzt werden können,
+weshalb die strittigen Massnahmen angezeigt seien.
+3.
+3.1
+Grundsätzlich tragen die Eltern die Hauptverantwortung für das Kind. Als
+Inhaber der elterlichen Sorge sind sie verpflichtet, für die Erhaltung,
+Förderung und Entwicklung des Kindes zu sorgen und es zu einer
+eigenverantwortlichen sowie gemeinschaftsfähigen Persönlichkeit zu erziehen
+(vgl. Art. 301 Abs. 1 ZGB). Erst wenn das Wohl des Kindes gefährdet ist und
+sie nicht selber Abhilfe schaffen, hat die Kindesschutzbehörde Massnahmen zu
+dessen Schutz zu treffen (Art. 307 Abs. 1 ZGB). Dabei kann sie laut Art. 307
+Abs. 3 ZGB insbesondere die Eltern, die Pflegeeltern oder das Kind ermahnen,
+ihnen bestimmte Weisungen für die Pflege, Erziehung oder Ausbildung erteilen
+und eine geeignete Person oder Stelle bestimmen, der Einblick und Auskunft zu
+geben ist.
+3.2
+Eine Gefährdung des Kindeswohls wird dann
+angenommen, wenn nach den Umständen die ernstliche Möglichkeit einer
+Beeinträchtigung des Kindeswohls vorauszusehen ist. Es kann sich dabei um
+körperliche oder psychische Gefährdungen oder Kombinationen zwischen den
+beiden Arten handeln. Ein Verschulden der Eltern ist nicht notwendig und die
+Gefahr muss nicht direkt von ihnen ausgehen. Es genügt, wenn sie das Kind
+nicht ausreichend schützen können. Aus der fehlenden Kooperationsbereitschaft
+der Eltern darf aber nicht direkt und ohne Weiteres auf die Gefährdung des
+Kindes geschlossen werden. Kindesschutzmassnahmen sollen präventiv wirken. Es
+ist deshalb nicht erforderlich, dass sich die ernstliche Möglichkeit einer
+Beeinträchtigung schon verwirklicht hat (Linus Cantieni/Stefan Blum, in
+Christiana Fountoulakis et al. [Hrsg.], Fachhandbuch Kindes- und
+Erwachsenenschutzrecht, Zürich/Basel/Genf 2016, Rz. 15.10 f.).
+3.3
+Die Behörde, die Kindesschutzmassnahmen
+anordnet, verfügt über ein grosses Ermessen. Die Anordnung der geeigneten
+Massnahme setzt in einem gewissen Ausmass eine Prognose über die künftige
+Entwicklung der massgebenden Umstände voraus. Es ist die sachlich richtige
+Massnahme nicht aufgrund bloss juristischer Klassifikation, sondern unter
+Würdigung der im Einzelfall bestimmenden sozialen, medizinischen und
+erziehungswissenschaftlichen Gesichtspunkten anzuordnen. Ob Weisungen
+genügen, hängt von der Intensität der Gefährdung, vor allem aber auch von der
+Kooperationsbereitschaft der Angesprochenen ab (BGer-Urteil 5A_156/2016 vom
+12. Mai 2017 E. 4.2).
+Alle Kindesschutzmassnahmen
+müssen zudem erforderlich sein (Subsidiarität), und es ist immer die mildeste
+Erfolg versprechende Massnahme anzuordnen (Proportionalität); die Kindesschutzmassnahmen
+sollen elterliche Bemühungen nicht ersetzen, sondern ergänzen (Peter
+Breitschmid, in: Peter Honsell/Nedim Peter Vogt/Thomas Geiser [Hrsg.], Basler
+Kommentar, Zivilgesetzbuch I, Art. 1 – 456 ZGB, 5. A., 2014, Art. 307 N.
+4).
+Das Verwaltungsgericht prüft auch die Angemessenheit der
+angeordneten Kindesschutzmassnahme (Art. 107 Abs. 2 lit. f VRG). Es
+setzt aber nicht ohne Not sein Ermessen anstelle desjenigen der
+Beschwerdegegnerin.
+4.
+4.1
+Die Beschwerdegegnerin erteilte am 10. Mai 2016 Weisungen, wonach die
+Beschwerdeführerin regelmässig an psychotherapeutischen Sitzungen teilnehmen
+(Disp.-Ziff. 3), mit der sozialpädagogischen Familienbegleitung
+zusammenarbeiten (Disp.-Ziff. 4) und periodisch einen Drogen- und
+Alkoholtest vorlegen (Disp.-Ziff. 5) müsse. Dies um die alltägliche
+Verantwortung für ihre Kinder zu übernehmen, für eine angemessene
+Tagesstruktur und Freizeitgestaltung zu sorgen, den Kindern eine verlässliche
+Fürsorge zukommen lassen und dafür zu sorgen, dass C.______ weniger Absenzen
+in der Schule aufweist.
+Im Beschluss
+vom 16. Oktober 2018 erwog die Beschwerdegegnerin, es lägen keine
+Anhaltspunkte für eine Kausalität zwischen der Kindeswohlgefährdung und dem
+Cannabiskonsum der Beschwerdeführerin vor, weshalb die Weisung bezüglich die
+periodische Abgabe von Urintests aufzuheben sei. Sodann sei die
+therapeutische Behandlung mangels Bereitschaft der Beschwerdeführerin nicht
+zielführend gewesen. Solange sie sich aber mit den Themen ihrer Kinder und
+ihrer Rolle als Mutter auseinandersetze, könne ihr dies nicht zum Vorwurf
+gemacht werden. Sie gehe einerseits zu 50 % einer Erwerbstätigkeit nach
+und sorge sich alleinerziehend um ihre Kinder, was für mehr Struktur in ihrem
+Alltag spreche. Andererseits nehme sie an einem Elterncoaching teil, wodurch
+ihre Erziehungskompetenz gestärkt werde. Folglich seien die Weisungen
+betreffend die regelmässige therapeutische Behandlung und die
+sozialpädagogische Familienbegleitung ebenfalls nicht mehr erforderlich und
+aufzuheben. Eine Kindeswohlgefährdung sei nicht ersichtlich.
+Am 5. März
+2019 beschloss die Beschwerdegegnerin die vorliegend angefochtenen Weisungen
+und wies darauf hin, dass bei C.______ eine Kindeswohlgefährdung vorliege.
+Zwar pflege die Beschwerdeführerin einen liebevollen Bezug zu ihrer Tochter,
+jedoch könne sie dieser keine genügende Struktur und keine konsequente
+Anleitung geben, um den schulischen Alltag konfliktfrei zu meistern. Trotz
+ihres Potentials sei C.______ nämlich nicht fähig, sich entsprechend zu
+entfalten. Die Beschwerdeführerin ihrerseits könne dieser Gefährdung nicht
+genügend entgegenwirken, weshalb die verfügten Weisungen erforderlich und
+verhältnismässig seien.
+4.2
+Im
+Verlaufsbericht vom 23. Oktober 2018 führte E.______ als Ergotherapeut von
+C.______ aus, der Kontakt mit der Beschwerdeführerin sei gut und
+regelmässig, wobei die Therapie relativ häufig
+ausgefallen sei. Er habe einen Austausch mit der Schulsozialarbeiterin sowie
+mit der Lehrperson gehabt. Dabei habe er in Erfahrung bringen können, dass
+neben den Herausforderungen für die Lehrperson durch das Verhalten von
+C.______ ein Spannungsfeld zwischen der Schule und dem Elternhaus bestehe.
+C.______ habe zudem wiederholt müde und niedergeschlagen gewirkt. Sie habe
+ihm mitgeteilt, dass sie an vier Tagen von 7 Uhr bis 18 Uhr in den Hort
+müsse. Er frage sich, inwieweit dies ihre
+psychische Widerstandsfähigkeit stärke
+oder schwäche und ob dadurch eine Verbesserung ihrer Selbstorganisation in
+der Schule eingetreten sei. Er sei zum Schluss gekommen, dass der
+Ergotherapietermin nochmals ein zusätzlicher sei und mehr belastend als
+unterstützend wirke, weshalb er die regelmässige Begleitung durch den Kinder-
+und Jugendpsychiatrischen Dienst (KJPD) als genügend erachte. Wichtig finde
+er im Übrigen die regelmässige Teilnahme am Aikidotraining, welches
+unterstützend und stärkend wirke.
+Am 16. November
+2018 gab E.______ gegenüber der Beschwerdeführerin an, es gelinge ihr nicht
+genügend, Vereinbarungen und Termine einzuhalten, was sie und ihre Kinder
+darin behindere, den sozialen Verpflichtungen gerecht zu werden. Er nehme sie
+zwar als Mutter wahr, der das Wohl der Kinder ein grosses Anliegen sei. Er
+sei jedoch überzeugt, dass sie in einem wesentlichen Teil des Alltags und in
+der Organisation ihres alltäglichen Handelns durch Unzuverlässigkeit
+behindert sei, woraus wohl auch die behördliche Sorge um das Kindeswohl
+entstanden sei. Er halte den Beizug der Kindesschutzbehörde für gut und
+verstehe es als Chance.
+4.3
+Im E-Mail vom 13.
+November 2018 teilte
+F.______, Fachärztin für Kinder- und
+Jugendpsychiatrie, mit, dass die Beschwerdeführerin sämtliche Termine bei ihr
+abgesagt habe. Es sei wahrscheinlich, dass sie durch eine Suchterkrankung an
+der Bearbeitung der Probleme gehindert werde, weshalb ein quantitativer
+Cannabistest richtungsweisend sei.
+Am 25. Januar
+2019 führte F.______ sodann aus, eine Suchtproblematik könne die
+Erziehungsfähigkeit eines Elternteils beeinträchtigen. Eltern seien diesfalls
+nicht fähig, Hilfe von aussen anzunehmen. Im vorliegenden Fall sei
+diesbezüglich nicht nur festzustellen was, sondern auch wieviel konsumiert
+werde, weshalb die Beschwerdeführerin einmal wöchentlich oder nach den
+therapeutischen Erfordernissen Urinproben abgeben solle, was bei positivem
+Verlauf weniger häufig stattfinden könne. Überdies
+empfehle sie sowohl Beratungsgespräche mit der
+Beschwerdeführerin als auch Therapiesitzungen mit C.______.
+4.4
+Die
+Beiständin von C.______ gab am 15. November 2018 an, dass sie bei jeder
+Intervention mit Widerstand vonseiten der Beschwerdeführerin zu kämpfen habe
+und viele Bemühungen von verschiedenen Fachpersonen bis zum heutigen
+Zeitpunkt erfolglos geblieben seien. Sie könne ihren Auftrag wegen der
+fehlenden Kooperation der Beschwerdeführerin nicht wie gewünscht ausführen.
+Sie sehe das Kindeswohl mangels Bereitschaft der Beschwerdeführerin zur
+Zusammenarbeit als gefährdet und gelange deshalb an die Kindesschutzbehörde.
+Am 30.
+November 2018 führte die Beiständin erneut Probleme betreffend die
+Zuverlässigkeit der Beschwerdeführerin ins Feld und gab an, dass das
+Kindeswohl unter den gegebenen Umständen längerfristig als gefährdet
+einzustufen sei. Sie beantrage weitere Abklärungen durch die
+Beschwerdegegnerin und empfehle die Erteilung von Weisungen, namentlich zur
+Abgabe von Urinproben und zur psychotherapeutischen Behandlung in Kombination
+mit einer Erziehungsberatung.
+Am 30. April
+2019 reichte die Beiständin beim Verwaltungsgericht unaufgefordert eine
+Stellungnahme ein und wies dabei erneut auf die Probleme von C.______ und die
+notwendige Intervention durch die Beschwerdegegnerin hin.
+4.5
+Am
+15. November 2018 berichtete lic. phil. G.______, Psychotherapeutin
+für Kinder und Jugendliche, dass bei ihr nur zwei Sitzungen stattgefunden
+hätten, wobei C.______ beim zweiten Mal mit einer Freundin der
+Beschwerdeführerin gekommen sei, welche ihr mitgeteilt habe, dass C.______
+kein Vertrauen zu ihr habe. Da sie sie den Eindruck gehabt habe, dass es
+C.______ gar nicht gut gehe, unterstütze sie das Vorgehen der Beiständin.
+4.6
+Die Schulleiterin der Schule […], H.______, äusserte sich nach Rücksprache
+mit der Lehrperson, der Leiterin Tagesstruktur sowie der schulinternen
+Schulsozialarbeiterin am 21. November 2018 dahingehend, als dass die
+Entwicklung von C.______ beeinträchtigt und deren Wohl gefährdet sei, weshalb
+das Vorgehen der Beiständin, namentlich die Kontaktaufnahme mit der
+Beschwerdegegnerin, begrüsst werde. Die schulischen Leistungen von C.______
+seien beunruhigend und sie werde ohne eine Leistungssteigerung die vierte
+Klasse wiederholen müssen. Sie bringe kaum Motivation mit, trödle häufig rum
+und fehle oft krankheitshalber. Dies unter anderem, um unangenehmen
+schulischen Tätigkeiten aus dem Weg zu gehen. Des Weiteren werde sie von
+anderen Kindern bei Gruppenarbeiten gemieden, da sie nicht mithelfe.
+Ansonsten sei sie sozial gut integriert und ein kluges Mädchen, welches
+jedoch die falsche Einstellung zum Lernen und zur Schule habe. Ein stabiles
+Umfeld sei wünschenswert, wobei eine klare Struktur zu Hause und verlässliche
+Regeln sowie Abmachungen das Verhalten vermutlich positiv beeinflussen
+würden.
+H.______ wies
+die Beschwerdegegnerin am 12. Februar 2019 auf eine Auseinandersetzung
+zwischen der Beschwerdeführerin und der Mutter eines anderen Kindes hin und
+darauf, dass diesem Streit ein gegenseitiges Mobbing zwischen den beiden
+Kindern zugrunde liege. Sie führte weiter aus, dass C.______ niemanden habe,
+welcher ihr das richtige Verhalten in solchen Situationen aufzeige. Obschon
+sie durchaus lernfähig sei, fehle es ihr an Unterstützung und Motivation
+vonseiten der Beschwerdeführerin und sie werde durch deren Verhalten immer
+wieder blockiert.
+5.
+5.1
+Aus den im Recht liegenden Stellungnahmen der involvierten Fachpersonen
+ergibt sich übereinstimmend, dass C.______ in ihrem schulischen Alltag
+erhebliche Probleme aufweist, welche schliesslich zur Rückversetzung in die
+vierte Klasse geführt haben. Gemäss Schulleitung sind ihre Leistungen
+beunruhigend. Sie bringe kaum Motivation mit, trödle häufig rum, werde bei
+Gruppenarbeiten von ihren Mitschülern gemieden und weise zahlreiche Absenzen
+auf. Der Beschwerdeführerin kann dabei zwar darin gefolgt werden, dass
+schulische Probleme und eine Rückversetzung noch nicht ohne Weiteres auf eine
+Kindeswohlgefährdung hindeuten. Es spricht allerdings für eine solche, wenn
+die mangelnden schulischen Leistungen trotz vorhandenen Potentials überwiegend
+im Verhalten der Eltern begründet sind. Dies ist vorliegend der Fall. So
+ergibt sich aus den Akten, dass die Beschwerdeführerin ihre Tochter im
+Hinblick auf ihre Pflichten kaum unterstützt und dadurch deren schulisches
+Fortkommen gefährdet. Dabei lässt sie offenbar zu, dass Letztere ihren Alltag
+nach dem Lustprinzip gestaltet, wobei zahlreiche Schulabsenzen ebenso wie das
+Fernbleiben an therapeutischen Terminen in Kauf genommen werden. Während
+E.______, auf dessen Bericht sich die Beschwerdeführerin unter anderem
+abstützt, von einer Unzuverlässigkeit der Mutter spricht, welche die Kinder
+in der Ausübung ihrer sozialen Verpflichtungen behindere, hält F.______ eine
+Beeinträchtigung der Erziehungsfähigkeit der Beschwerdeführerin aufgrund
+deren Cannabiskonsums für möglich. Daraus folgt, dass das Verhalten der
+Beschwerdeführerin für die optimale Entwicklung von C.______ nicht förderlich
+ist, was sich auch in der mangelnden Kooperationsbereitschaft der
+Beschwerdeführerin mit der Beiständin und den übrigen Fachpersonen zeigt.
+Folglich ist nicht zu beanstanden, dass die Beschwerdegegnerin von einer
+Kindeswohlgefährdung ausging, wofür im Übrigen auch die von E.______ erwähnte
+wiederholte Müdigkeit und Niedergeschlagenheit sowie der von G.______
+geäusserte Eindruck von C.______, wonach es dieser gar nicht gut gehe,
+spricht.
+Soweit die
+Beschwerdeführerin schliesslich die Einholung eines aktuellen Schulberichts
+beantragt und darauf hinweist, dass nach der Rückversetzung ihrer Tochter in
+die vierte Klasse deren schulische Leistungen nicht mehr mangelhaft seien,
+ist zunächst darauf hinzuweisen, dass weder die Schulleitung am
+12. Februar 2019 noch die Beiständin in der aktuellsten Stellungnahme
+von einer Änderung der schulischen Problematik berichteten, sondern vielmehr
+auf ein nach wie vor bestehendes Hilfebedürfnis von C.______ hinwiesen.
+Selbst wenn sich aber die schulischen Leistungen von C.______ verbessert
+haben sollten, kommt diesem Umstand keine entscheidwesentliche Bedeutung zu.
+C.______ musste die 4. Klasse repetieren, was eine gewisse Verbesserung
+der Leistungen erwarten lässt. Massgebend und wichtig ist nun aber, dass die
+Leistungen und das Verhalten von C.______ in der 5. Klasse nicht
+abfallen. Dazu benötigt sie indessen wie dargelegt nach wie vor ausserschulische
+Unterstützung.
+5.2
+Soweit
+die Beschwerdeführerin vorbringt, die angeordneten Massnahmen seien nicht
+verhältnismässig, kann ihr sodann nicht gefolgt werden. Vielmehr erscheint
+der einmal pro Woche durchzuführende Test auf Cannabis geeignet und
+erforderlich, um den von F.______ genannten Bedenken zu begegnen. So lässt
+sich die Häufigkeit des Konsums und die allenfalls mit einer Suchtproblematik
+verbundene eingeschränkte Erziehungsfähigkeit nicht mit einer weniger
+einschneidenden und gleichzeitig erfolgsversprechenden Massnahme feststellen.
+Dies gilt sodann auch für die Weisungen betreffend die wöchentliche
+Elternberatung und die Therapie von C.______, mit welchen ausserhalb der
+Schule ein geeigneter Rahmen vorgegeben werden soll, damit C.______ ihren
+schulischen und übrigen sozialen Verpflichtungen bestmöglich nachkommen und
+ihre diesbezüglichen Fähigkeiten entfalten kann. Dies stellt entgegen der
+Ansicht der Beschwerdeführerin keine Aufgabe der Lehrpersonen dar. Ferner
+verkennt die Beschwerdeführerin, dass die Wahl der Fachperson und die
+Durchsetzung der Weisung Sache der Beschwerdegegnerin ist. Dies nicht zuletzt
+um sicherzustellen, dass die entsprechende Fachperson geeignet ist und die
+entsprechende Weisung eingehalten wird, was angesichts der fehlenden
+Kooperationsbereitschaft der Beschwerdeführerin notwendig erscheint. Zwar
+haben die beschlossenen Weisungen namentlich durch die Pflicht zur
+regelmässigen Abgabe von Urinproben gewisse Einschränkungen für die
+Beschwerdeführerin zur Folge. Der Wahrung des Kindeswohls ist dabei aber ein
+grösseres Gewicht zuzumessen. Insgesamt erweisen sich die Weisungen und die
+damit verbundene Ausweitung des Aufgabenbereichs der Beiständin daher als
+verhältnismässig, weshalb für das Verwaltungsgericht kein Grund besteht, in
+das Ermessen der Beschwerdegegnerin einzugreifen. Daran ändert im Übrigen
+nichts, dass die Beschwerdegegnerin am 16. Oktober 2018 die fast
+deckungsgleichen Weisungen aufhob. So erhielt sie von verschiedenen
+Fachpersonen erst nach deren Aufhebung Informationen, wonach eine
+Kindeswohlgefährdung vorliege und ein behördliches Einschreiten angezeigt
+sei. Insoweit sind die neu angeordneten Weisungen entgegen der Ansicht der
+Beschwerdeführerin nicht widersprüchlich.
+Dies führt
+zur Abweisung der Beschwerde.
+5.3
+Hinzuweisen
+bleibt immerhin darauf, dass die Beschwerdegegnerin wie in der Vergangenheit
+regelmässig zu prüfen hat, ob die Voraussetzungen für die strittigen
+Weisungen noch erfüllt sind.
+III.
+1.
+1.1
+Die Beschwerdeführerin beantragt die Gewährung der
+unentgeltlichen Prozessführung und der unentgeltlichen Rechtsverbeiständung.
+Gemäss Art. 139 Abs. 1 VRG befreit die Behörde eine Partei, der die Mittel
+fehlen, um neben dem Lebensunterhalt für sich und ihre Familie die
+Verfahrenskosten aufzubringen, auf Gesuch hin ganz oder teilweise von der
+Kosten- und Vorschusspflicht, sofern das Verfahren nicht aussichtslos ist.
+Unter denselben Voraussetzungen weist sie der Partei auf Gesuch hin oder von
+Amtes wegen einen Anwalt als Rechtsbeistand zu, falls ein solcher für die
+gehörige Interessenwahrung erforderlich ist (Art. 139 Abs. 2 VRG). Der
+Nachweis der Bedürftigkeit obliegt nach Art. 139 Abs. 3 VRG der gesuchstellenden
+Partei.
+1.2
+Die
+Mittellosigkeit der Beschwerdeführerin ergibt sich ohne Weiteres aus den
+Akten. Zudem kann das vorliegende Verfahren nicht als aussichtslos bezeichnet
+werden. Folglich ist das Gesuch um unentgeltliche Prozessführung
+gutzuheissen. Da die Beschwerdeführerin für das Verfahren auf eine rechtliche
+Vertretung angewesen war, ist auch ihr Gesuch um unentgeltliche
+Rechtsverbeiständung gutzuheissen und ihr ist in der Person von
+Rechtsanwältin
+B.______
+eine unentgeltliche Rechtsbeiständin zu bestellen.
+Letztere ist mit pauschal Fr. 1'000.- (inkl. Auslagen und Mehrwertsteuer) zu
+entschädigen.
+2.
+Nach Art. 134 Abs. 1 lit.
+c IVG hat die Partei, welche im Beschwerdeverfahren unterliegt, die amtlichen
+Kosten zu tragen. Entsprechend dem Ausgang des Verfahrens sind die
+Gerichtskosten von pauschal Fr. 750.- der Beschwerdeführerin aufzuerlegen.
+Auf deren Erhebung ist indessen zufolge Gewährung der unentgeltlichen
+Prozessführung einstweilen zu verzichten. Die Beschwerdeführerin ist darauf
+hinzuweisen, dass eine Partei, der die unentgeltliche Rechtspflege bewilligt
+worden ist, für den Fall, dass sie später in günstige wirtschaftliche
+Verhältnisse gelangt, zur Nachzahlung der Verfahrenskosten verpflichtet
+werden kann (Art. 139a VRG). Ausgangsgemäss ist der Beschwerdeführerin keine
+Parteientschädigung zuzusprechen (Art. 138 Abs. 3 VRG
+e contrario). Mangels Vorliegens besonderer Umstände steht eine solche
+auch der Beschwerdegegnerin nicht zu (Art. 138 Abs. 4 VRG).
+Demgemäss beschliesst die Kammer
+:
+1.
+Die
+Gesuche der Beschwerdeführerin um Gewährung der unentgeltlichen Prozessführung
+und der unentgeltlichen Rechtsverbeiständung werden gutgeheissen. Ihr wird
+in der Person von Rechtsanwältin
+B.______
+eine
+unentgeltliche Rechtsbeiständin bestellt.
+2.
+Die
+Rechtsbeiständin wird zu Lasten der Gerichtskasse mit Fr. 1'000.-
+(inkl. Auslagen und Mehrwertsteuer) entschädigt.
+3.
+Die
+Nachzahlungspflicht gemäss Art. 139a VRG bleibt vorbehalten.
+4.
+Die
+Gerichtskasse wird beauftragt, spätestens im September 2024 zu prüfen, ob
+die Voraussetzungen für die Nachzahlung erfüllt sind.
+und erkennt sodann:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Der
+Beschwerdeführerin werden die Gerichtskosten von Fr. 750.- auferlegt, auf deren
+Erhebung einstweilen verzichtet wird.
+3.
+Es
+werden keine Parteientschädigungen zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
