@@ -1,0 +1,314 @@
+---
+decision_id: "gl_gerichte_VG.2019.00071"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2019.00071"
+docket_2: "VG.2019.835"
+decided: "2019-09-12"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1144&W10_KEY=218274&nTrefferzeile=5&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.30/art-001.md", "switzerland/bund/acts/831.30/art-009.md", "switzerland/bund/acts/831.30/art-011.md", "switzerland/bund/acts/831.301/art-017.md", "switzerland/bund/acts/831.301/art-017a.md"]
+---
+
+# GL Gerichte VG.2019.00071
+
+## Regeste
+
+Sozialversicherung - Ergänzungsleistungen
+
+## Text
+
+Glarus Verwaltungsgericht 12.09.2019 VG.2019.00071 (VG.2019.835)
+Glaris Verwaltungsgericht 12.09.2019 VG.2019.00071 (VG.2019.835)
+Glarona Verwaltungsgericht 12.09.2019 VG.2019.00071 (VG.2019.835)
+
+Sozialversicherung - Ergänzungsleistungen
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+12. September 2019
+II. Kammer
+in Sachen
+VG.2019.00071
+A.______
+Beschwerdeführerin
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+Ausgleichskasse Glarus
+Beschwerdegegnerin
+betreffend
+Ergänzungsleistungen
+Die Kammer zieht in Erwägung:
+I.
+1.
+A.______ meldete sich am
+22. Oktober 2018 bei der Ausgleichskasse Glarus zum Bezug von
+Ergänzungsleistungen zu ihrer AHV-Rente an. Nachdem A.______ die von der
+Ausgleichskasse zusätzlich verlangten Unterlagen nachgereicht hatte, verfügte
+die Ausgleichskasse am 11. Dezember 2018, A.______ habe bei einem
+Einnahmenüberschuss von Fr. 21'323.- keinen Anspruch auf Ergänzungsleistungen.
+Dagegen erhob A.______ am 10. Januar 2019 Einsprache und beantragte, die
+Verfügung der Ausgleichskasse aufzuheben und ihr ab dem Anmeldedatum
+Ergänzungsleitungen zuzusprechen. Die Ausgleichskasse wies die Einsprache am
+2. Mai 2019 ab.
+2.
+In der Folge gelangte
+A.______ mit Beschwerde vom 27. Mai 2019 ans Verwaltungsgericht und
+beantragte, der Einspracheentscheid vom 2. Mai 2019 und die Verfügung vom 11.
+Dezember 2018 seien aufzuheben, ihr seien Ergänzungsleistungen ab dem
+Anmeldedatum zuzusprechen, eventualiter sei die Sache an die Ausgleichskasse
+zur Neuberechnung der Ergänzungsleistungen zurückzuweisen; alles unter
+Kosten- und Entschädigungsfolgen zu Lasten der Ausgleichskasse. Die
+Ausgleichskasse schloss am 25. Juni 2019 auf Abweisung der Beschwerde.
+II.
+1.
+Das Verwaltungsgericht ist als kantonales
+Versicherungsgericht gemäss Art. 1 Abs. 1 des
+Bundesgesetzes über Ergänzungsleistungen zur
+Alters-, Hinterlassenen- und Invalidenversicherung vom 6. Oktober 2006
+(ELG)
+i.V.m. Art. 57 des Bundesgesetzes über den Allgemeinen Teil
+des Sozialversicherungsrechts vom 6. Oktober 2000 (ATSG) zur Behandlung
+der vorliegenden Beschwerde zuständig. Da auch die übrigen Prozessvoraussetzungen
+erfüllt sind, ist auf die Beschwerde einzutreten.
+2.
+2.1
+Gemäss Art. 9 Abs. 1 ELG entspricht die
+jährliche Ergänzungsleistung dem Betrag, um den die anerkannten Ausgaben die
+anrechenbaren Einnahmen übersteigen. Als Einnahmen werden gemäss Art. 11 Abs.
+1 lit. b ELG unter anderem Einkünfte aus beweglichem und unbeweglichem
+Vermögen angerechnet. Ebenfalls angerechnet wird ein Fünfzehntel, bei
+Altersrentnerinnen und Altersrentnern ein Zehntel des Reinvermögens, soweit
+es bei alleinstehenden Personen Fr. 37'500.-, bei Ehepaaren Fr. 60'000.-
+und bei rentenberechtigten Waisen sowie bei Kindern, die einen Anspruch auf
+eine Kinderrente der AHV oder IV begründen, Fr. 15'000.- übersteigt (Art. 11
+Abs. 1 lit. c ELG). Für in Heimen lebende Personen beträgt der
+Vermögensverzehr 20 Prozent des Reinvermögens (Art. 11 Abs. 2 ELG i.V.m. Art.
+5 des Einführungsgesetzes zum Bundesgesetz über Ergänzungsleistungen zur
+Alters-, Hinterlassenen- und Invalidenversicherung vom 6. Mai 2007
+[EG ELG]).
+2.2
+Nach Art. 11 Abs. 1 lit. g ELG sind Vermögenswerte,
+auf die verzichtet worden ist, als Einnahmen anzurechnen. Diese
+Vermögenswerte bilden als so genanntes hypothetisches Vermögen Teil des
+gemäss Art. 11 Abs. 1 lit. c ELG anrechenbaren Vermögens. Ein Verzicht liegt
+nur vor, wenn die versicherte Person ohne rechtliche Verpflichtung oder ohne
+adäquate Gegenleistung auf Vermögen verzichtet hat (Urs Müller, Rechtsprechung
+des Bundesgerichts zum ELG, 3. A., Zürich/Basel/Genf 2015, S. 168).
+Die Anrechnung eines Verzichtsvermögens bezweckt die Verhinderung von
+Missbräuchen, wobei eine einheitliche und gerechte Lösung ermöglicht werden
+soll, indem sich die schwierige Prüfung der Frage erübrigt, ob beim Verzicht
+auf Einkommen und Vermögen der Gedanke an eine Ergänzungsleistung tatsächlich
+eine Rolle gespielt hat oder nicht (BGE 131 V 329 E. 4.4). Der
+anzurechnende Betrag von Vermögenswerten, auf die verzichtet worden ist, wird
+gemäss Art. 17a Abs. 1 der Verordnung über die Ergänzungsleistungen
+zur Alters-, Hinterlassenen- und Invalidenversicherung vom 15. Januar
+1971 (ELV) jährlich um Fr. 10'000.- vermindert.
+2.3
+Bei der entgeltlichen oder unentgeltlichen
+Entäusserung eines Grundstücks ist gemäss Art. 17 Abs. 5 Satz 1 ELV der
+Verkehrswert für die Prüfung, ob ein Vermögensverzicht im Sinne von Art. 11
+Abs. 1 lit. g ELG vorliegt, massgebend. Für die Bewertung des entäusserten
+Vermögens und einer allfälligen Gegenleistung ist der Zeitpunkt des Verzichts
+massgebend (Wegleitung über die Ergänzungsleistungen zur AHV und IV vom 1.
+April 2011, Stand 1. Januar 2019 [WEL], Ziff. 3483.01). Erfolgt die
+Abtretung einer Liegenschaft gegen ein Wohnrecht, so stellt der
+kapitalisierte Jahreswert des Wohnrechts einen Teil der Gegenleistung dar.
+Der Jahreswert entspricht dem Mietwert abzüglich jener Kosten, die vom
+EL-Bezüger im Zusammenhang mit dem Wohnrecht tatsächlich übernommen werden.
+Für die Bemessung des Mietwerts ist von demjenigen Ertrag auszugehen, der bei
+der Vermietung der Liegenschaft tatsächlich erzielt werden kann, das heisst
+vom marktkonformen Mietzins (Ziff. 3483.04 WEL, mit Hinweisen).
+3.
+3.1
+Die Beschwerdeführerin macht geltend, ihr sei es
+seit dem Jahr 2007 aus gesundheitlichen Gründen nicht mehr möglich gewesen,
+das ihr zustehende Wohnrecht auszuüben, was sie mit dem Einreichen eines
+ärztlichen Zeugnisses belegt habe. In einem solchen Fall sehe Ziff. 3433.05
+WEL vor, dass ihr das Wohnrecht nicht als Einkommen angerechnet werden dürfe.
+Diesbezüglich halte Art. 736 Abs. 1 des Schweizerischen Zivilgesetzbuchs
+vom 10. Dezember 1907 (ZGB) fest, dass eine Dienstbarkeit vom
+Dienstbarkeitsbelasteten gelöscht werden könne, sofern das berechtigte
+Grundstück an der Ausübung der Dienstbarkeit jedes Interesse verloren habe.
+Daher habe das Wohnrecht aufgrund der Unmöglichkeit von dessen Ausübung
+geendet, weshalb kein Vermögensverzicht vorliege, welcher ihr als Einkommen angerechnet
+werden könne. Zudem könne die Verteuerung der Mietpreise nicht von der Hand
+gewiesen werden, ergebe sich doch aus dem Mietpreisindex des Bundesamtes für
+Statistik für die Jahre 2006 bis 2018 eine Mietpreissteigerung von
+13,9 %. Sollte das Verwaltungsgericht entgegen ihren Ausführungen
+dennoch das Wohnrecht kapitalisieren und dabei vom Eigenmietwert der
+Liegenschaft ausgehen, sei die angerechnete Miete um 13,9 % zu erhöhen.
+Hinzukomme, dass die Mietpreise in [...] überproportional gestiegen seien,
+was in der guten Anbindung von [...] an den öffentlichen Verkehr wie auch an
+das Strassennetz gründe.
+3.2
+Die Beschwerdegegnerin weist hingegen darauf hin,
+dass die Anrechnung des kapitalisierten Wohnrechts zu Gunsten der
+Beschwerdeführerin erfolgt sei, da sich damit ihr Vermögensverzicht
+verringere. Unabhängig von der von der Beschwerdeführerin zitierten
+Ziff. 3433.05 WEL sei ihr kein Einkommen angerechnet worden, sondern die
+Kapitalisierung des Wohnrechts sei nur zum Zwecke der Berechnung des Vermögensverzichts
+erfolgt. Aus den vorhandenen Unterlagen zeige sich sodann, dass entgegen den
+Ausführungen der Beschwerdeführerin im Einspracheverfahren eine Erbteilung
+durchgeführt worden sei, hätten doch die drei Söhne den Empfang von je
+Fr. 40'000.- aus dem Nachlass deren Vaters unterschriftlich bestätigt
+und habe die Beschwerdeführerin in ihrer Steuererklärung keine unverteilte
+Erbschaft angegeben. Für die Kapitalisierung des Wohnrechts sei der
+Eigenmietwert, welcher notorisch tiefer sei als der marktkonforme Mietzins,
+daher anzuwenden, weil die betroffene Liegenschaft Eigenheim darstelle. Ein
+gegenteiliges Vorgehen würde keine Gleichbehandlung mit anderen
+EL-Ansprechern und Eigenheimbewohnern sicherstellen.
+4.
+4.1
+Gemäss dem Schenkungs- und Dienstbarkeitsvertrag
+vom 12. August 2006 schenkte die Beschwerdeführerin die damals in ihrem
+Alleineigentum stehende Liegenschaft Parz.-Nr. 01, Grundbuch […], ihren
+Söhnen. Im Gegenzug gewährten die Söhne der Beschwerdeführerin ein
+lebenslängliches Wohnrecht an der genannten Liegenschaft. Aus dieser
+vertraglichen Vereinbarung kann ein Vermögensverzicht resultieren, welcher im
+Rahmen der Berechnung der Ergänzungsleistungen als Einnahme anzurechnen wäre,
+was die Beschwerdeführerin in grundsätzlicher Hinsicht nicht bestreitet.
+Allerdings ist sie der Ansicht, das im genannten Vertrag vereinbarte
+Wohnrecht könne sie aus gesundheitlichen Gründen nicht mehr ausüben, weshalb
+ihr dieses nicht als Einnahme angerechnet werden dürfe.
+Diesbezüglich verkennt die
+Beschwerdeführerin, dass ihr die Beschwerdegegnerin das kapitalisierte
+Wohnrecht nicht als Einnahme angerechnet hat. Stattdessen hat die
+Beschwerdegegnerin das kapitalisierte Wohnrecht als Gegenleistung der Söhne
+an die von der Beschwerdeführerin vorgenommene Liegenschaftsschenkung
+angesehen. Mit diesem Vorgehen reduzierte sich der Wert der Schenkung der
+Beschwerdeführerin an ihre Söhne um den kapitalisierten Wert des Wohnrechts.
+Folglich minimierte sich der ihr im Rahmen der Berechnung der
+Ergänzungsleistungen aus der Liegenschaftsschenkung als Einnahme
+anzurechnende Vermögensverzicht um den Wert des kapitalisierten Wohnrechts,
+was sich somit zu Gunsten der Beschwerdeführerin auswirkte. Da das Wohnrecht
+eine Gegenleistung der von der Beschwerdeführerin an ihre Söhne vorgenommenen
+Liegenschaftsschenkung darstellt, hat die Beschwerdegegnerin dieses zu Recht
+im Rahmen der Bestimmung der Höhe des Vermögensverzichts berücksichtigt. Zu
+prüfen bleibt nachfolgend jedoch, ob die Beschwerdegegnerin die
+Kapitalisierung des Wohnrechts rechtmässig vornahm.
+4.2
+Während die Beschwerdegegnerin zur Kapitalisierung
+des Wohnrechts den Eigenmietwert anwendet, stellt sich die Beschwerdeführerin
+auf den Standpunkt, Grundlage der Kapitalisierung stelle der marktkonforme
+Mietwert dar.
+Diesbezüglich ist Ziff.
+3483.04 WEL (vgl. E. II/2.3 vorne) ausdrücklich zu entnehmen, dass
+für die Bemessung des Mietwerts von demjenigen Ertrag auszugehen ist, welcher
+bei der Vermietung der Liegenschaft erzielt werden kann, also vom
+marktkonformen Mietzins. Dies gründet darin, dass sich der zu
+kapitalisierende Mietwert nach Art. 17 Abs. 5 ELV
+grundsätzlich nach dem Verkehrswert der Liegenschaft richtet. Damit haben die
+Bewertung der Liegenschaft, welche die Leistung der Beschwerdeführerin an ihr
+Söhne darstellt, wie auch die Bewertung des Wohnrechts, welches die
+Gegenleistung der Söhne an die Beschwerdeführerin darstellt, gestützt auf
+dieselbe Grundlage zu erfolgen (Müller, S. 182). Denn nur wenn für die
+Bewertung der beiden vertraglich vereinbarten und in einem Austauschverhältnis
+stehenden Leistungen auf dieselbe Grundlage abgestellt wird, können die
+betreffenden Leistungen sachgerecht zueinander in Beziehung gesetzt werden.
+Würde hingegen für die Bewertung der Liegenschaft und damit für die Leistung
+der Beschwerdeführerin auf den Verkehrswert und für die Kapitalisierung des
+Wohnrechts und damit für die Leistung der Söhne auf den Eigenmietwert
+abgestellt, würde sich dies unrechtmässig zu Lasten der Beschwerdeführerin
+als EL-Ansprecherin auswirken.
+4.3
+4.3.1
+In den Akten findet sich eine Schätzungsverfügung
+der Kantonalen Steuerverwaltung vom 20. September 2006. Daraus ist zu
+entnehmen, dass der Mietwert der von der Beschwerdeführerin ursprünglich
+bewohnten Liegenschaft Parz.-Nr. 01, Grundbuch [...], im Schätzungszeitpunkt
+Fr. 19'560.- betrug. Gemäss Art. 18 Abs. 1 GstBV gilt als
+Mietwert der gesamte jährliche Ertrag des Grundstücks ohne die Zahlung für
+Heizkosten. Damit umschreibt Art. 18 GstBV den Mietwert, welcher bei einer
+Vermietung an Dritte erzielt wird (vgl. Art. 18 Abs. 2 GstBV),
+respektive den marktkonform erzielbaren Mietzins (BGE 138 V 17
+E. 4.2.4). Folglich ist für die Kapitalisierung des Wohnrechts darauf
+abzustellen. Da der Schenkungs- und Dienstbarkeitsvertrag vom 12. August
+2006 datiert und der Besitzesantritt der Söhne der Beschwerdeführerin per
+31. Juli 2006 vereinbart worden war, umschreibt die vorerwähnte
+Schätzungsverfügung vom 20. September 2006 den im Zeitpunkt der
+Vertragsabwicklung und damit den im Zeitpunkt der Verzichtshandlung aktuellen
+marktkonformen Mietwert. Entsprechend bildet dieser die Grundlage der
+Berechnung der Kapitalisierung des Wohnrechts (vgl. E. II/2.3
+vorne).
+4.3.2
+Ausgangspunkt der Kapitalisierung des Wohnrechts
+bildet die Ermittlung des Kapitalisierungsfaktors, welcher unter Anwendung
+der "Tabelle zur Umrechnung von Kapitalleistungen in lebenslängliche
+Renten" der eidgenössischen Steuerverwaltung zu erfolgen hat (Ziff.
+3483.05 WEL, mit Verweis auf ein Berechnungsbeispiel im Anhang 9.3). Die
+Beschwerdeführerin war im Zeitpunkt des Abschlusses des Dienstbarkeits- und
+Schenkungsvertrags 75-jährig, womit der Wert der Jahresrente der
+Beschwerdeführerin gemäss der genannten Tabelle Fr. 68.34 beträgt.
+Daraus resultiert der Wert des kapitalisierten Wohnrechts von Fr. 286'216.-
+(Fr. 1'000.- : Fr. 68.34 x Fr. 19'560.-).
+Lediglich der
+Vollständigkeit anzufügen bleibt, dass sich bei der Kapitalisierung des
+Wohnrechts unter Anwendung des von der Beschwerdeführerin vorgeschlagenen
+Faktors von 10,74 ein kapitalisierter Wert von Fr. 210'074.-
+(10,74 x Fr. 19'560.-) ergäbe. Damit wäre der Wert des
+kapitalisierten Wohnrechts geringer als unter Anwendung der in der WEL
+genannten Kapitalisierungsmethode. Entsprechend würde sich der
+Vermögensverzicht erhöhen, was sich im Rahmen der Berechnung der
+Ergänzungsleistungen nachteilig für die Beschwerdeführerin auswirken würde.
+4.3.3
+Als Marktwert der Liegenschaft Parz.-Nr. 01,
+Grundbuch [...], verwendete die Beschwerdegegnerin den von den Söhnen der
+Beschwerdeführerin im Jahr 2008 tatsächlich erzielten Verkaufspreis von
+Fr. 460'000.-. Dies ist nicht weiter zu beanstanden, da davon auszugehen
+ist, dass sich eine allfällige Wertsteigerung aufgrund gestiegener
+Immobilienpreise in den Jahren 2006 bis 2008 einerseits und die in diesem Zeitrahmen
+eingetretene Altersentwertung andererseits in etwa die Waage halten. Überdies
+erhebt die Beschwerdeführerin keine Einwendungen gegen das Abstellen auf den
+tatsächlich erzielten Kaufpreis von Fr. 460'000.-, womit dieser für die
+Berechnung des Vermögensverzichts zu verwenden ist. Vom Marktwert der
+Liegenschaft Parz.-Nr. 01, Grundbuch [...], in der Höhe von
+Fr. 460'000.- ist das kapitalisierte Wohnrecht von Fr. 286'216.-
+abzuziehen, woraus ein Vermögensverzicht der Beschwerdeführerin von Fr. 173'784.-
+resultiert. Diesbezüglich ist zu beachten, dass sich der im Rahmen der
+Berechnung der Ergänzungsleistungen anrechenbare Vermögensverzicht um
+jährlich Fr. 10'000.- vermindert (vgl. Art. 17a Abs. 1
+ELV). Entsprechend ist der Vermögensverzicht um Fr. 110'000.- (11 Jahre;
+von Anfang des Jahres 2007 bis Anfang des Jahres 2018) zu reduzieren, woraus
+sich ein anrechenbarer Vermögensverzicht von Fr. 63'784.- ergibt.
+4.3.4
+Somit resultiert ein Bruttovermögen von
+Fr. 101'990.- (Fr. 38'206.- Sparguthaben/Wertschriften + Fr. 63'784.-
+Vermögensverzicht), wovon der Freibetrag von Fr. 37'500.- abzuziehen
+ist. Entsprechend beträgt das der Beschwerdeführerin im Rahmen der Berechnung
+der Ergänzungsleistungen als Einnahme anrechenbare Vermögen Fr. 12'898.-
+(1/5 von Fr. 64'490.-). Als Einnahmen sind der Beschwerdeführerin
+ebenfalls die ihr zustehende Rente in der Höhe von Fr. 53'021.-, die
+Erträge aus Sparguthaben/Wertschriften von Fr. 242.- sowie die Erträge
+aus Vermögensverzicht von Fr. 127.- (0,2 % von Fr. 63'784.-)
+anzurechnen. Daraus resultiert ein Total von der Beschwerdeführerin
+anrechenbaren Einnahmen in der Höhe von Fr. 66'288.-. Diesen Einnahmen
+stehen unbestrittene Ausgaben von gesamthaft Fr. 63'763.- gegenüber,
+woraus sich ein Einnahmenüberschuss von Fr. 2'525.- ergibt. Da folglich die
+anerkannten Ausgaben die anerkannten Einnahmen nicht übersteigen, kommt der
+Beschwerdeführerin für das Jahr 2018 kein Anspruch auf Ergänzungsleistungen
+zu.
+Dies führt zur Abweisung
+der Beschwerde.
+III.
+Die Gerichtskosten sind
+ausgangsgemäss auf die Staatskasse zu nehmen (Art. 1 Abs. 1 ELG
+i.V.m. Art. 61 lit. a ATSG). Aufgrund des Unterliegens der
+Beschwerdeführerin steht ihr überdies keine Parteientschädigung zu
+(Art. 61 lit. g ATSG e contrario).
+Demgemäss erkennt die Kammer
+:
+1.
+Die Beschwerde wird abgewiesen.
+2.
+Die Gerichtskosten werden auf die Staatskasse
+genommen.
+3.
+Es wird keine Parteientschädig zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
