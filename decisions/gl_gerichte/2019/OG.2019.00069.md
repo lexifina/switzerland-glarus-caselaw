@@ -1,0 +1,826 @@
+---
+decision_id: "gl_gerichte_OG.2019.00069"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2019.00069"
+docket_2: "OGS.2020.92"
+decided: "2019-09-20"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1355&W10_KEY=218274&nTrefferzeile=7&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/311.0/art-022.md", "switzerland/bund/acts/311.0/art-111.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-222.md", "switzerland/bund/acts/312.0/art-228.md", "switzerland/bund/acts/312.0/art-229.md", "switzerland/bund/acts/312.0/art-237.md", "switzerland/bund/acts/312.0/art-326.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-421.md", "switzerland/bund/acts/312.0/art-423.md"]
+---
+
+# GL Gerichte OG.2019.00069
+
+## Regeste
+
+Haftverlängerungsgesuch
+
+## Text
+
+Glarus Obergericht 20.09.2019 OG.2019.00069 (OGS.2020.92)
+Glaris Obergericht 20.09.2019 OG.2019.00069 (OGS.2020.92)
+Glarona Obergericht 20.09.2019 OG.2019.00069 (OGS.2020.92)
+
+Kanton Glarus
+Obergericht
+Beschluss
+vom 20. September 2019
+Verfahren
+OG.2019.00069
+A.______
+Beschuldigter
+und
+Beschwerdeführer
+vertreten
+durch Rechtsanwalt B.______
+gegen
+Staatsanwaltschaft des Kantons Glarus
+Anklägerin
+und
+Beschwerdegegnerin
+vertreten
+durch den Staatsanwalt
+betreffend
+Verlängerung
+der Untersuchungshaft
+Anträge
+des
+Beschwerdeführers
+(gemäss Eingabe seines Rechtsvertreters
+vom 4. September 2019, act. 18):
+1.
+Die Verfügung des
+Kantonsgerichtspräsidenten vom 23. August 2019 sei vollumfänglich
+aufzuheben.
+2.
+Der Beschwerdeführer sei
+unverzüglich aus der Untersuchungshaft zu entlassen.
+3.
+Alles unter Kosten- und
+Entschädigungsfolge zu Lasten der Beschwerdegegnerin, wobei die
+Entschädigung der amtlichen Verteidigung im Verfahren bei der
+Staatsanwaltschaft zu belassen sei.
+Anträge
+de
+r
+Beschwerde
+gegner
+in
+(gemäss Eingabe vom 13. September 2019, act. 22):
+1.
+Die Beschwerde sei abzuweisen
+und die Verfügung des Zwangsmassnahmengerichts des Kantons Glarus vom
+23. August 2019 (Verfahren SG.2019.00087) sei zu bestätigen.
+2.
+Die Kosten des
+Beschwerdeverfahrens seien dem Beschuldigten aufzuerlegen.
+____________________
+Das Gericht
+zieht in Betracht:
+I.
+1.
+Die
+Staats- und Jugendanwaltschaft des Kantons Glarus (nachfolgend
+Staatsanwaltschaft) verdächtigt A.______ (nachfolgend Beschuldigter), an
+einer versuchten Tötung (i.S.v. Art. 111 StGB i.V.m. Art. 22
+Abs. 1 StGB) zum Nachteil von D.______, begangen in [...] am 25.
+September 2018, beteiligt gewesen zu sein (act. 1). Der Beschuldigte
+wurde am 15. November 2018 verhaftet und befindet sich seither in
+Untersuchungshaft (SG.2018.00093 Anordnung Untersuchungshaft, SG.2019.00020
+Haftverlängerung, SG.2019.00035 Ablehnung Haftentlassungsgesuch,
+SG.2019.00055 Haftverlängerung, OG.2019.00046 Beschwerde gegen
+Haftverlängerung).
+Mit Verfügung vom 23. August 2019 hiess
+das Zwangsmassnahmengericht auch das dritte Haftverlängerungsgesuch der
+Staatsanwaltschaft gut und verlängerte die Untersuchungshaft für den
+Beschuldigten einstweilen längstens bis am 19. November 2019
+(SG.2019.00087 act. 13 S. 6 Disp.-Ziff. 1).
+Dagegen liess der Beschuldigte am
+4. September 2019 Beschwerde beim Obergericht erheben (act. 18).
+Die Staatsanwaltschaft beantragt Abweisung der Beschwerde (act. 22).
+II.
+1.
+Der angefochtene
+Haftentscheid ist der Beschwerde zugänglich (Art. 393 Abs. 1
+lit. c StPO i.V.m. Art. 222 StPO). Der durch die Haft unmittelbar
+betroffene Beschuldigte ist beschwerdelegitimiert (Art. 382 Abs. 1
+StPO); die Anfechtungsfrist ist eingehalten (Art. 396 Abs. 1 StPO).
+Die übrigen Rechtsmittelvoraussetzungen geben zu keinen Bemerkungen Anlass.
+Auf die Beschwerde des Beschuldigten ist einzutreten. Mit Beschwerde an das
+Obergericht können in Bezug auf den angefochtenen Entscheid
+Rechtsverletzungen und eine unvollständige oder unrichtige Feststellung des
+Sachverhalts sowie Unangemessenheit gerügt werden (Art. 393 Abs. 2
+StPO).
+2.
+Der Beschuldigte
+beantragt, die vollständigen Akten resp. mindestens sämtliche in seiner
+Beschwerde zitierten Beweismittel bei der Staatsanwaltschaft einzuholen
+(act. 18 S. 2 Ziff. I.4.). Die Staatsanwaltschaft stellte dem
+Beschuldigten bereits Anfang August 2019 zahlreiche Unterlagen zu (act. 2/2)
+und reichte diese dem Obergericht aufforderungsgemäss zusammen mit der
+Beschwerdeantwort ein (act. 19, act. 23). Die Akten der bisherigen
+Haftverfahren
+wurden beigezogen.
+Die Zitate der
+vorinstanzlichen Akten (SG.2019.00087 act. 1-17) erfolgen unter dem
+Aktenzeichen des vorliegenden Beschwerdeverfahrens.
+III.
+1.
+1.1.
+Gemäss Art. 221
+Abs. 1 StPO ist Untersuchungshaft zulässig, wenn die beschuldigte Person
+eines Verbrechens oder Vergehens dringend verdächtig ist und zudem ernsthaft
+zu befürchten ist, dass sie sich entweder durch Flucht dem Strafverfahren
+oder der zu erwartenden Sanktion entzieht (Fluchtgefahr; lit. a), dass
+sie Personen beeinflusst oder auf Beweismittel einwirkt, um so die
+Wahrheitsfindung zu beeinträchtigen (Kollusionsgefahr; lit. b), oder
+dass sie durch schwere Verbrechen oder Vergehen die Sicherheit anderer
+erheblich gefährdet, nachdem sie bereits früher gleichartige Straftaten
+begangen hat (Wiederholungsgefahr; lit. c).
+1.2.
+Der Haftgrund des
+dringenden Tatverdachts setzt voraus, dass genügend konkrete Anhaltspunkte
+für eine Straftat und eine Beteiligung des Beschuldigten daran vorliegen und
+die Untersuchungsbehörden somit das Bestehen eines dringenden Tatverdachts
+mit vertretbaren Gründen bejahen durften. Im Haftprüfungsverfahren genügt der
+Nachweis von konkreten Verdachtsmomenten, wonach das inkriminierte Verhalten
+mit erheblicher Wahrscheinlichkeit die fraglichen Tatbestandsmerkmale
+erfüllen könnte. Das Beschleunigungsgebot in Haftsachen lässt keinen Raum für
+ausgedehnte Beweismassnahmen. Zur Frage des dringenden Tatverdachts hat das
+Haftgericht weder ein eigentliches Beweisverfahren durchzuführen noch dem
+erkennenden Strafgericht vorzugreifen (BGE 137 IV 122 E. 3.2). Am Verfahrensanfang
+sind an den Tatverdacht noch weniger strenge Anforderungen zu stellen. Wird
+die Haft jedoch über einen längeren Zeitraum fortgesetzt, ist erforderlich,
+dass sich der dringende Tatverdacht verdichtet (
+Schmid/Jositsch
+, Schweizerische Strafprozessordnung,
+Praxiskommentar, 3. Aufl., N 4 zu Art. 221) resp. ausreichend hoch verbleibt
+(BGer 1B_197/2019 E. 2.1 Urteil vom 27. Mai 2019).
+1.3.
+Weiter hat die
+Untersuchungshaft verhältnismässig zu sein (Art. 197 Abs. 1
+lit. c und lit. d StPO). Konkretisiert wird der Verhältnismässigkeitsgrundsatz
+in Art. 237 Abs. 1 StPO. Gemäss dieser Norm ordnet das
+zuständige Gericht an Stelle der Untersuchungs- oder der Sicherheitshaft eine
+oder mehrere mildere Massnahmen (Ersatzmassnahmen) an, wenn sie den gleichen
+Zweck wie die Haft erfüllen.
+2.
+2.1.
+Gestützt auf die bisherigen Ermittlungsergebnisse ist aus
+Sicht der Staatsanwaltschaft davon auszugehen, dass der
+Beschuldigte
+am
+25. September 2018 in [...] an einer versuchten Tötung zum Nachteil
+von D.______ (nachfolgend auch Geschädigter) beteiligt gewesen sei. Der
+Beschuldigte habe den Geschädigten in eine Sackgasse gelotst und ihn so in
+eine Falle gelockt. In der Folge sei es zu einer körperlichen
+Auseinandersetzung gekommen und sei auf den Geschädigten mehrfach geschossen
+worden. Der Beschuldigte gehöre zu jener Gruppierung, welche den Geschädigten
+angegriffen und auf ihn geschossen habe (act. 1 S. 2).
+2.2.
+Aus den verfügbaren
+Akten ergeben sich folgende Anhaltspunkte für eine mögliche Tatbeteiligung
+des Beschuldigten am Gewaltdelikt verübt an D.______:
+2.2.1.
+D.______ sagte aus, er habe, bevor er nach [...] gefahren sei, am
+Walensee Kollegen besucht. Dort sei er gefragt worden, ob er jemand nach
+[...] mitnehmen könne. Er habe diese Person [den Beschuldigten] nach [...]
+mitgenommen. Er habe im Glarnerland einen Kollegen besuchen wollen
+(SG.2019.00020 act. 2/3 S. 3 f. Fragen 6 ff., SG.2018.00093
+act. 2/9 S. 4 Fragen 14 ff., SG.2019.00035 act. 18 S. 3
+Frage 6).
+Der [spätere] Schütze habe ihn mit dem Auto vor dem Bahnübergang [in
+...] überholt, ihm Handzeichen zum Folgen gegeben und immer wieder den
+rechten Blinker gesetzt, obwohl keine Strasse nach rechts weggegangen sei.
+Der [spätere] Schütze sei also vor ihm gefahren und dann in diese Sackgasse
+eingebogen. Er sei ihm gefolgt und habe neben dessen Fahrzeug versetzt
+parkiert. Er habe am Tatort aber mehrere Stimmen gehört, so dass er weitere
+anwesende Personen vermutet habe (SG.2018.00093 act. 2/10 S. 2 f.
+Fragen 40, 47).
+Der [spätere] Schütze sei vor ihm ausgestiegen. Danach sei er aus dem
+Auto ausgestiegen und auf den Unbekannten zugegangen. Dann seien Schüsse
+gefallen. Er glaube, er sei zuerst in den Bauch getroffen worden, er habe das
+Blut auf seinem Bauch gesehen. Er habe eine Kugel an seiner linken Kopfseite
+vorbeizischen hören. Er sei auf den Unbekannten zugegangen, habe den
+Pistolenlauf ergriffen und den Unbekannten geschlagen, worauf sie beide auf
+den Boden gefallen seien. Er sei wieder auf die Beine gekommen, habe es ins
+Auto geschafft und sei sofort ins Spital Glarus gefahren. Der Schütze habe
+sicher 10 Mal geschossen, wobei ihn nicht jeder Schuss getroffen habe
+(SG.2018.00093 act. 2/9 S. 3 f. Fragen 8, 11, 14 ff., act. 2/11 S.
+3, 5 Fragen 71, 87). Es seien sicher zwei [Angreifer] gewesen, vielleicht
+auch drei oder vier. Diejenigen, die auf ihn geschossen hätten, seien
+maskiert gewesen (SG.2019.00035 act. 18 S. 4 Fragen 11-13). Er habe
+seinem Beifahrer [dem Beschuldigten] eine geschlagen (SG.2019.00020
+act. 2/3 S. 4 Fragen 16-18).
+Weiter gab D.______ zu Protokoll, dass er beim Kampf mit dem
+Unbekannten mit einem Messer hantiert habe und der Angreifer habe, so glaube
+er, auch ein Messer gehabt (SG.2018.00093 act. 2/11 S. 2 Frage 68).
+Eine Auskunftsperson berichtete, dass der Geschädigte am 25. September
+2018, um ca. 19.30 Uhr, mit dem Fahrzeug in der Notfallstation des
+Kantonsspitals Glarus eingetroffen und alleine im Auto gesessen sei (act.
+23/32).
+Dem Operationsbericht vom 25. September 2018 ist u.a. zu
+entnehmen, dass D.______ beim Angriff mehrfach angeschossen wurde
+(SG.2019.00035 act. 2/3).
+2.2.2.
+Der Geschädigte
+sagte anlässlich der Konfrontationseinvernahme vom 20. März 2019
+aus, dass sein Beifahrer zum Fabrikareal in [...] habe gefahren werden
+wollen. Schliesslich identifizierte der Geschädigte den Beschuldigten, als
+diejenige Person, welche er am 25. September 2018 nach [...]
+mitgenommen habe. Weiter gab der Geschädigte zu Protokoll, dass der
+Beschuldigte nicht auf ihn geschossen habe (SG.2019.00035 act. 18
+S. 3 f. Fragen 2 ff.).
+2.2.3.
+Eine Auskunftsperson berichtete der Polizei, am 25. September 2018, um
+ca. 19.00 Uhr [mutmassliche Tatzeit], ein mehrmaliges Zischen gehört und sich
+deshalb auf den Balkon begeben zu haben. Sie habe beobachtet, wie drei Männer
+auf der Strasse "[...]" in Richtung [...] davongerannt seien. Es
+habe ausgesehen, als ob einer der Männer an der Hand verletzt gewesen sei.
+Sie habe die Männer in einer fremden Sprache reden hören (SG.2018.00093
+act. 2/12).
+Eine weitere Auskunftsperson berichtete der Polizei, dass sie am
+25. September 2018, zwischen 19.00 Uhr und 19.30 Uhr, drei Männer
+gesehen habe, welche zu Fuss von der [...]strasse in Richtung [...] [auch
+diese Örtlichkeit befindet sich unweit vom Tatort] gegangen seien. Speziell
+sei gewesen, dass einer der drei Männer einem anderen die Jacke zugemacht
+habe. Also dieser Mann habe an der Jacke des anderen Mannes den
+Reissverschluss hochgezogen (act. 23/37).
+2.2.4.
+Der Beschuldigte sagte am 27. Februar 2019 aus, dass er nach
+dem Vorfall in [...] von E.______ und dessen Frau abgeholt worden sei und
+diese ihn nach Unterterzen gefahren hätten. Zu Hause habe er bemerkt, dass
+sein Daumen nicht mehr funktioniere. E.______ sei schlecht geworden, als er
+das viele Blut gesehen habe (SG.2019.00035 act. 6/4 S. 6 Fragen 66
+ff.).
+Im Bereich des Tatorts und des Fluchtwegs, am vom Geschädigten
+gelenkten Fahrzeug sowie an dessen Jacke konnte anhand von Blutspuren die DNA
+des Beschuldigten identifiziert werden (SG.2018.00093 act. 2/14).
+2.2.5.
+Der Beschuldigte
+versuchte während der Untersuchungshaft zu kolludieren. So wurden am Morgen
+des 25. März 2019 im Spazierhof des Gefängnisses Glarus Kassiber
+gefunden, bei welchen der Beschuldigte als Urheber gelten muss. Der
+übersetzte Text der Kassiber weist eindeutig auf Kollusionshandlungen hin
+(SG.2019.00035 act. 17). Die eine Nachricht ist an "[...]"
+gerichtet. Es ist davon auszugehen, dass es sich hierbei um E.______ handelt,
+welcher mit Verfügung vom 9. Februar 2019 des
+Zwangsmassnahmengerichts für drei Monate in Untersuchungshaft versetzt worden
+war (SG.2019.00016 act. 11 Disp.-Ziff. 1).
+2.3.
+Die
+Vorinstanz verwies hinsichtlich des dringenden Tatverdachts zunächst auf ihre
+Ausführungen in der Verfügung vom 21. Mai 2019 (act. 13 S. 4 Erw. 2.3.),
+wonach e
+s unstrittig sei, dass der Beschuldigte zusammen mit dem
+Geschädigten zum Tatort gefahren sei und sich zur Tatzeit dort aufgehalten
+habe. Aufgrund der Schnittverletzungen des Beschuldigten dürfe klar sein,
+dass auch er in den Kampf, bei welchem D.______ mehrfach angeschossen worden
+sei, verwickelt gewesen sei. Es bestehe immer noch der dringende Verdacht,
+dass der Beschuldigte zu der betreffenden Gruppierung gehöre. Dafür spreche
+u.a. auch der Umstand, dass der Beschuldigte nach dem Vorfall zusammen mit
+mindestens zwei weiteren Personen den Tatort fluchtartig verlassen habe.
+D.______ habe ausgesagt, dass der Beschuldigte gewollt habe, dass er
+[D.______] zum Fabrikareal in [...] fahre (SG.2019.00035 act. 18
+S. 3). Der Beschuldigte habe D.______ in die Falle gelockt. D.______
+habe zu Protokoll gegeben, den Beschuldigten geschlagen sowie selber
+mit einem Messer hantiert zu haben (SG.2018.00093 act. 2/11
+S. 2 f., SG.2019.00020 act. 2/3 S. 4, SG.2019.00035
+act. 18 S. 4), was die Schnittverletzungen des Beschuldigten
+erklären könnte. Es habe bereits in den letzten Haftverfahren ein
+erdrückender Tatverdacht gegen den Beschuldigten bestanden, dass er am
+Angriff auf D.______ beteiligt gewesen sei. Dieser erdrückende Tatverdacht
+würde auch nicht dadurch ausgeräumt, falls der Beschuldigte selber nicht auf
+D.______ geschossen habe (SG.2019.00055 act. 9 S. 4 f.
+Erw. 3.4.).
+Weiter erwog die Vorinstanz
+, dass es zum jetzigen Zeitpunkt irrelevant sei, ob die Täter
+tatsächlich von D.______ Geld erbeutet hätten. Das Geld [EUR 15'000.—] im
+Fahrzeug des Beschuldigten [recte: Geschädigten] habe bei der Tat mit
+erheblicher Wahrscheinlichkeit eine Rolle gespielt. Weiter entlaste der
+Umstand, dass D.______ bereits zu Beginn der Fahrt sein Zielort gekannt haben
+könnte, den Beschuldigten nicht. Es bestehe dennoch die sehr wahrscheinliche
+Möglichkeit, dass der Beschuldigte D.______ den genauen Ort genannt und ihn
+so in die Falle gelockt habe. Damit sei ein genügender Tatbeitrag des
+Beschuldigten gegeben. Auch wenn der genaue Tatablauf noch nicht klar sei,
+sei das vom Verteidiger thematisierte Fehlen eines (Eventual-)Vorsatzes beim
+Beschuldigten betreffend die versuchte Tötung vom Sachrichter zu prüfen.
+Immerhin könne davon ausgegangen werden, dass der Beschuldigte gewusst habe,
+dass die anderen Täter eine Waffe mitführten. Der dringende Tatverdacht im
+Sinne von Art. 221 Abs. 1 StPO gegen den Beschuldigten liege immer noch vor
+(act. 13 S. 3 f. Erw. 2.3.).
+2.4.
+Der Beschuldigte
+lässt durch seinen Verteidiger in seiner Beschwerde (act. 18) hinsichtlich
+des dringenden Tatverdachts Folgendes ausführen:
+2.4.1.
+Die Vorinstanz habe
+es unterlassen, die von der Staatsanwaltschaft der Verteidigung Anfang August
+2019 übergebenen Beweismittel beizuziehen. Sie habe das Vorliegen des
+dringenden Tatverdachts lediglich über eine halbe Seite, ohne die bisherigen
+und neuen Beweismittel zu zitieren, begründet. Stattdessen habe sie lediglich
+mehrfach festgehalten, es bestehe eine erhebliche oder grosse
+Wahrscheinlichkeit, dass dies oder jenes vorgefallen sei (act. 18 S. 3 Rz 2
+f.).
+2.4.2.
+Die Begründung der
+Staatsanwaltschaft in Bezug auf den dringenden Tatverdacht habe sich stets
+verändert. Zuerst sei er verdächtigt worden, auf D.______ geschossen zu haben
+und nun werde ihm vorgehalten, er habe D.______ in eine Falle gelockt, was den
+Angriff durch die Täter erst ermöglicht habe. Damit habe er sich vom
+Haupttäter zum Gehilfen "entwickelt" und der Tatverdacht habe sich
+seit der Verhaftung abgeschwächt (act. 18 S. 3 f. Rz 4).
+2.4.3.
+Bezüglich dem
+angeblich gestohlenen Geld lägen (nicht glaubhafte) Aussagen von D.______ und
+F.______ im Recht, wonach sich in dem von D.______ gelenkten Fahrzeug vor der
+Tat EUR 65'000.— befunden hätten. Die Kantonspolizei habe nur
+EUR 15'000.— sicherstellen können und gehe davon aus, dass es sich
+hierbei um Drogengeld handle. Es sei offensichtlich, dass D.______ und
+F.______ das angebliche Vorhandensein der EUR 65'000.— vorgegaukelt
+hätten, um den Fokus der Strafbehörden von sich wegzulenken. Die Vorinstanz
+habe hierzu lediglich festgehalten, ob das Geld aus dem Fahrzeug von D.______
+gestohlen worden sei, sei derzeit irrelevant; das Vorhandensein von
+EUR 15'000.— im Fahrzeug lege nahe, dass das Geld bei der Tat mit
+erheblicher Wahrscheinlichkeit eine Rolle gespielt habe. Für ihn [den
+Beschuldigten] sei nun unklar, ob das Vorliegen des Geldes als ein im
+Zusammenhang mit dem dringenden Tatverdacht belastendes Indiz gewertet worden
+sei (act. 18 S. 4-7 Rz 5-10).
+2.4.4.
+Der Beschuldigte
+will auch in den Aussagen von D.______, welche dieser hinsichtlich seiner
+Fahrt nach [...] resp. zum Tatort getätigt hatte, Widersprüche erkannt haben.
+D.______ habe erstmals am 20. März 2019 angegeben, er sei von einem
+Kollegen gebeten worden, ihn [den Beschuldigten] mitzunehmen, da er selber
+nach [...] habe fahren wollen und schliesslich habe der Beschuldigte ihn zu
+einem Fabrikareal in [...] dirigiert. In den ersten Aussagen habe D.______
+kein Beifahrer erwähnt und ausgesagt, dass er von einem anderen Fahrzeug in
+das Fabrikareal in [...] abgedrängt und anschliessend angegriffen worden sei.
+Auch G.______ habe erst am 9. März 2019 angegeben, er könne sich an eine
+weitere Person erinnern, die D.______ wohl wegen dem Geld in eine Falle habe
+locken wollen. In den Einvernahmen vom September 2018 habe G.______ nichts
+dergleichen gesagt. Eine Zeugin habe beobachtet, wie kurz nach 19.00 Uhr ein
+dunkler Mercedes in die Sackgasse [in ...] gefahren sei und diesem Fahrzeug
+sei weder ein anderes Fahrzeug gefolgt noch vorausgefahren. Folglich müsse
+davon ausgegangen werden, dass D.______ von Beginn weg sein Zielort gekannt
+habe. Aufgrund dieser Beweismittel dürfe nicht davon ausgegangen werden, dass
+er D.______ mit an Sicherheit grenzender Wahrscheinlichkeit in eine Falle
+gelockt habe. Die Vorinstanz habe den Sachverhalt nicht richtig festgestellt
+und geltendes Recht verletzt (act. 18 S. 6 ff. Rz 10-17).
+2.4.5.
+Hinsichtlich des
+Tatablaufs führt der Beschuldigte aus, dass für die Untersuchungsbehörden
+auch nach neun Monaten unklar sei, was sich am Tatort abgespielt habe.
+Fakt sei, dass D.______ und er dort gewesen seien und D.______
+angeschossen worden sei. Dies belege nicht, dass er [der Beschuldigte] eine
+Straftat begangen habe. D.______ habe auch bezüglich des Tatablaufs
+widersprüchlich ausgesagt. I
+n seiner ersten Einvernahme vom
+27. September 2018 habe D.______ ausgesagt, er sei aus dem Fahrzeug
+gestiegen und zum Täter gelaufen. Einen Tag später habe er ausgesagt, dass er
+sich zuerst in Richtung Beifahrertür bewegt habe; den Beifahrer habe er
+jedoch noch verheimlicht (act. 18 S. 8 Rz 19). D.______ habe angegeben, er
+sei nach der Auseinandersetzung mit dem maskierten Täter zu seinem Fahrzeug
+gelaufen und eingestiegen. Es sei unwahrscheinlich, dass D.______ bei dieser
+Fluchtaktion – im angeschossenen Zustand – ihn [den Beschuldigten] verletzt habe.
+D.______ habe bestätigt, dass er [der Beschuldigte] nicht derjenige gewesen
+sei, welcher auf ihn [D.______] geschossen habe (act. 18 S. 9 Rz 21). Der
+Beschuldigte resp. sein Verteidiger kommt zum Schluss, dass D.______ mit
+grösster Wahrscheinlichkeit, bevor er angeschossen worden sei, auf ihn [den
+Beschuldigten] zugegangen sei und körperlich eingewirkt habe. Er [der
+Beschuldigte] sei in der Folge körperlich gar nicht mehr in der Lage gewesen,
+sich in die anschliessende Auseinandersetzung einzumischen (act. 18 S. 9 Rz
+22).
+2.4.6.
+Die
+Staatsanwaltschaft gehe wohl davon aus, dass er an der versuchten
+vorsätzlichen Tötung zum Nachteil von D.______ als Gehilfe beteiligt gewesen
+sei. Selbst wenn man dieser Annahme, wonach er mit den Angreifern gemeinsame Sache
+gemacht habe, folgen wolle, brauche es mindestens Indizien dafür, dass der
+Schütze im Vorfeld den Entschluss gefasst habe, auf D.______ zu schiessen,
+dies ihm [dem Beschuldigten] mitgeteilt habe und er [der Beschuldigte] eine
+mögliche Tötung von D.______ vorausgesehen und in Kauf genommen habe. Die
+Vorinstanz habe hiezu einzig festgestellt, es sei Sache des Sachrichters, das
+Vorliegen des Vorsatzes zu prüfen. Der Beschuldigte ist der Auffassung, dass
+sich der Vorsatz auch vom Sachrichter nicht erstellen lasse. Auch damit habe
+die Vorinstanz den Sachverhalt nicht richtig festgestellt (act. 18 S. 11 f.
+Rz 31 ff.).
+2.4.7.
+Die Ermittlungen
+seien fast abgeschlossen und die Staatsanwaltschaft plane nur noch einzelne
+Einvernahmen. Damit sei bezüglich des dringenden Tatverdachts derselbe
+Massstab anzuwenden, wie bei Abschluss der gebotenen Untersuchungshandlungen.
+Es müsse zu diesem Zeitpunkt des Verfahrens eine Verurteilung als
+wahrscheinlich erscheinen (BGE 143 IV 316 E. 3.2). Es reiche nicht mehr aus,
+wenn bloss (einzelne) konkrete Verdachtsmomente vorlägen (act. 18 S. 3 Rz 1).
+2.5.
+Zur Beschwerde des
+Beschuldigten nimmt die Staatsanwaltschaft unter Hinweis auf ihr
+Haftverlängerungsgesuch (act. 1) wie folgt Stellung (act. 22):
+Es werde nicht bestritten, dass
+die Aussagen von D.______ teils widersprüchlich seien. Gegen D.______ sei
+bereits Anfang Oktober 2018 ein verdecktes Strafverfahren wegen Verdachts auf
+Verstoss gegen das Betäubungsmittelgesetz eröffnet worden. Mit grosser
+Wahrscheinlichkeit sei es am 25. September 2018 um ein
+Drogengeschäft gegangen. D.______ habe den mutmasslich zweifelhaften Grund
+für seine Fahrt nach [...] nicht offenlegen wollen, weil er sich selbst nicht
+habe belasten wollen oder aus Angst vor der täterischen Gruppierung um den
+Beschuldigten. D.______ habe deshalb ein Interesse daran, nicht die
+vollständige Wahrheit zu sagen und seine widersprüchlichen Aussagen
+vermöchten den Beschuldigten daher nicht zu entlasten (act. 22 S. 2 f.).
+Der Beschuldigte versuche durch
+die Suche nach Widersprüchen in den Aussagen von anderen Personen sich selber
+zu entlasten. Trotz seiner konstanten Aussageverweigerung lasse er aber durch
+seinen Rechtsvertreter in der Beschwerde vortragen, D.______ habe mit
+grösster Wahrscheinlichkeit, bevor er angeschossen worden sei, auf ihn
+körperlich eingewirkt und damit sei er [der Beschuldigte] gar nicht mehr in
+der Lage gewesen, sich in die anschliessende Auseinandersetzung einzumischen.
+Dieses Konstrukt des Beschuldigten sei nicht glaubhaft und überdies sei auch
+fraglich, weshalb der Beschuldigte diese Version nicht bereits vor neun
+Monaten zu Protokoll gegeben habe.
+Die Staatsanwaltschaft ist weiter
+der Auffassung, dass der Beschuldigte in seiner Beschwerde in unzulässiger
+Weise dem Sachgericht vorgreife. Dabei habe er aber nur die ihn angeblich
+entlastenden Elemente herausgesucht. Selbst das Sachgericht ziehe bei der
+Anwendung des Grundsatzes
+in dubio pro reo
+sämtliche Beweise und
+Indizien bei und suche nicht lediglich entlastende Momente (act. 22 S. 3).
+2.6.
+2.6.1.
+Der Beschuldigte
+verweist in seiner Beschwerde (act. 18) und im vorinstanzlichen Verfahren
+(act. 10) auf die Einvernahmen von D.______ vom 27. September 2018, 28.
+September 2018, 2. Oktober 2018 (SG.2018.00093 act. 2/9, act. 2/10,
+act. 2/11), 3. Dezember 2018 (SG.2019.00020 act. 2/3) und vom  20. März
+2019 (SG.2019.00035 act. 18), den Polizeirapport vom 17. Juni 2019 (act.
+2/1), die Aussagen von F.______, H.______, I.______ sowie von G.______ (act.
+23/38, act. 23/39, act. 23/12-16, act. 2/1 S. 33).
+Sämtliche vom Beschuldigten
+zitierten Einvernahmen von D.______ befanden sich bereits in den
+vorinstanzlichen Akten der bisherigen Haftverfahren. Den ebenfalls vom
+Beschuldigten zitierten Polizeirapport reichte die Staatsanwaltschaft bereits
+im vorinstanzlichen Verfahren ein. In diesem Polizeirapport wurden die
+Aussagen der weiteren Personen mit ihren Kernaussagen zusammengefasst
+dargestellt, insbesondere die vom Beschuldigten zitierten Aussagen von
+F.______ (act. 2/1 S. 32), die Aussage von I.______ (act. 2/1 S. 33)
+sowie die Aussage von H.______ (act. 2/1 S. 32). Einzig die vom Beschuldigten
+zitierte Aussage von G.______ [vom 9. März 2019; act. 23/16] ist nicht
+im Polizeirapport widergegeben (act. 2/1 S. 28 f.). Diese Aussage ist
+jedoch nicht entscheidrelevant. Damit kann der Ansicht des Beschuldigten, die
+Vorinstanz habe es unterlassen, die von ihm genannten Beweismittel
+anzufordern und sich lediglich auf die wenigen vorhandenen Beweismittel
+abgestützt, nicht gefolgt werden. Im Übrigen hat die Vorinstanz unter Hinweis
+auf die vorstehenden Erwägungen III.2.3. die Beweismittel sehr wohl zitiert.
+2.6.2.
+Dass die
+Staatsanwaltschaft ihre Begründung in Bezug auf den dringenden Tatverdacht im
+Verlaufe der durchaus aufwändigen Strafuntersuchung gestützt auf die jeweils
+erlangten Erkenntnisse ändert, ist nicht zu beanstanden.
+2.6.3.
+Hinsichtlich der
+Ausführungen des Beschuldigten zur These des versuchten Raubes von
+(teilweise) EUR 65'000.— ist festzuhalten, dass im Fahrzeug, mit welchem
+D.______ am 25. September 2018 nach [...] fuhr, EUR 15'000.— sichergestellt
+und beschlagnahmt wurden. Das Wageninnere sowie die Geldscheine wiesen eine
+relevante Kontamination von Kokain aus (SG.2018.00093 act. 2/13). Wie die
+Staatsanwaltschaft in ihrer Beschwerdeantwort ausführt, wurde gegen D.______
+kurz nach dem Vorfall in [...] ein verdecktes Strafverfahren wegen Verdachts
+auf Verstoss gegen das Betäubungsmittelgesetz eröffnet (act. 22). Vor diesem
+Hintergrund ist mit den Parteien davon auszugehen, dass die Aussagen von
+D.______ kritisch zu würdigen sind. Im vorliegenden Haftverfahren ist jedoch
+zu prüfen, ob die Voraussetzungen für eine Verlängerung der Untersuchungshaft
+für den Beschuldigten erfüllt sind. Die Staatsanwaltschaft hat den
+Beschuldigten stets verdächtigt, an der versuchten Tötung vom 25. September
+2018 zum Nachteil von D.______ beteiligt zu sein und dies auch in ihren
+Anträgen auf Anordnung resp. Verlängerung von Untersuchungshaft so dargelegt.
+Der Vorwurf, der Beschuldigte sei an einem versuchten Raub zum Nachteil von
+D.______ beteiligt gewesen, wurde in den bisherigen Haftverfahren indes nicht
+erhoben (act. 1, SG.2018.00093 act. 1, SG.2019.00020 act. 1,
+SG.2019.00035 act. 1, SG.2019.00055 act. 1).
+Dass der Beschuldigte über das
+Vorhandensein dieses Geldes in dem von D.______ gelenkten Fahrzeug mit
+Sicherheit Bescheid wusste, geht aus den Akten nicht hervor und wurde auch
+nie behauptet. Nach dem Gesagten ist mit der Vorinstanz zu konstatieren, dass
+es für die Beurteilung dieses Haftverfahrens irrelevant ist, ob die Täter
+tatsächlich von D.______ Geld erbeuteten.
+2.6.4.
+Entgegen der
+Darstellung des Beschuldigten sagte D.______ nicht erst am
+20. März 2019 (erstmals) aus, dass er am 25. September 2018 ein
+Beifahrer nach [...] mitgenommen habe. D.______ tätigte bereits in seiner
+Einvernahme vom 3. Dezember 2018 die Aussage, dass er am Walensee
+Kollegen getroffen habe und dort sei er gefragt worden, ob er jemand, den er
+nicht gekannt habe, mitnehmen könne (
+SG.2019.00020
+act. 2/3 S. 3 f. Fragen 6 ff.)
+. Zutreffend ist, dass D.______ den
+Beifahrer in seinen Aussagen vom 27. September 2018,
+28. September 2018 sowie vom 2. Oktober 2018
+(SG.2018.00093 act. 2/9-2/11) nicht erwähnt hatte und erst in der
+Konfrontationseinvernahme vom 20. März 2019 den Beschuldigten als
+diejenige Person identifizierte, welche er nach [...] mitgenommen habe
+(SG.2019.00035 act. 18 S. 3 Fragen 2 ff.).
+Der Beschuldigte liess durch
+seinen Rechtsvertreter in seinem Haftentlassungsgesuch vom 13. März 2019 an
+die Staatsanwaltschaft ausführen, dass es sich bei diesem Beifahrer um ihn
+handle und diese Tatsache könne sich auch durch die auf der Autobahn zwischen
+Unterterzen und Weesen stationierten Kameras belegen lassen (SG.2019.00035
+act. 2/1 S. 2). Dem Beschuldigten wurde in der Einvernahme vom 13. März 2019
+ein Foto einer Verkehrskamera gezeigt, worauf das Fahrzeug, welches D.______
+am 25. September 2018, 19.09.47 Uhr, vermutlich lenkte, ersichtlich ist. Auf
+dem Bild ist deutlich erkennbar, dass neben dem Lenker ein Beifahrer sitzt.
+Der Beschuldigte wurde gefragt, wer dieser Beifahrer sei, worauf dieser
+jedoch die Aussage verweigerte (SG.2019.00035 act. 2/2 S. 2 f. Fragen 3 ff.).
+Im Übrigen hat bisher einzig D.______ Aussagen zur Fahrt nach [...] getätigt,
+wobei diese Aussagen kritisch zu würdigen sind.
+Nach dem Gesagten ist gestützt
+auf die verfügbaren Beweismittel derzeit immer noch davon auszugehen, dass
+der Beschuldigte mit D.______ vom Walensee nach [...] gefahren ist sowie dass
+der Beschuldigte zum Fabrikareal in [...] wollte gefahren werden. Die
+Mutmassung des Beschuldigten, D.______ wisse vermutlich mehr als er zugegeben
+habe, zielt vor dem Hintergrund, dass der Beschuldigte bezüglich seinem Motiv
+mit D.______ nach [...] zu fahren, jegliche Aussage verweigert, völlig ins
+Leere
+(SG.2018.00093 act. 2/2,
+act. 2/4, act. 2/5, SG.2019.00020 act. 2/1, SG.2019.00035
+act. 2/2, act. 6/4, act. 18 S. 3)
+.
+2.6.5.
+Hinsichtlich des
+Tatablaufs ist erstellt, dass auf D.______ mehrfach geschossen und dieser
+dabei sehr schwer verletzt wurde (
+SG.2019.00035
+act. 2/3
+). Aufgrund der Beobachtung einer Auskunftsperson
+verliessen drei Männer fluchtartig den Tatort
+(SG.2018.00093 act. 2/12)
+. Dass sich der Beschuldigte am
+Tatort schwere Schnittverletzungen an den Händen zugezogen hatte, muss
+aufgrund seiner DNA-Spuren am Tatort (SG.2018.00093 act. 2/14) ebenfalls als
+erstellt gelten. Sodann ist aufgrund der Beobachtungen von gerade zwei
+Auskunftspersonen mit sehr hoher Wahrscheinlichkeit davon auszugehen, dass es
+sich bei einem der drei flüchtenden Männer um den an den Händen blutenden
+Beschuldigten handelte (act. 23/37,
+SG.2018.00093 act. 2/12 [
+die eine Auskunftsperson hatte den
+Eindruck, dass einer der Männer an den Händen verletzt sei und die andere
+Auskunftsperson berichtete, dass einer der Männer einem anderen Mann den
+Reissverschluss hochgezogen hatte]
+).
+Weiter liegen hinsichtlich des Tatablaufs nur die Aussagen von D.______ im
+Recht.
+D.______ wurde gemäss seiner
+Darstellung von einem Angreifer mit einer Schusswaffe bedroht, worauf sich
+D.______ auf diesen stürzte und nach dem Pistolenlauf griff (vgl. hiezu Erw.
+III.2.2.1. vorstehend). Bei diesem Sachverhalt ist nicht anzunehmen, dass
+D.______ zuerst auf den Beschuldigten körperlich eingewirkt hat und erst
+danach versucht hat, den Angreifer mit der Pistole abzuwehren. Für diese vom
+Verteidiger des Beschuldigten vorgetragene Variante eines möglichen
+Tatablaufs (vgl. act. 18 S. 9 Rz 22) spricht derzeit nichts.
+Das Obergericht hatte im
+Beschluss vom 27. Juni 2019 ausgeführt, dass aus heutiger Sicht als erstellt
+gelten müsse, dass der Beschuldigte in die körperliche Auseinandersetzung mit
+dem Geschädigten derart involviert gewesen sei, dass auch er schwere
+Verletzungen am Daumen davongetragen habe [vgl. hiezu auch SG.2019.00035 act.
+6/4 S. 8 Frage 89]. Es müsse davon ausgegangen werden, dass der Beschuldigte
+zusammen mit den maskierten Angreifern, welche auf den Geschädigten schossen,
+kooperiert habe (OG.2019.00046 act. 26 S. 8 f. Erw. III.3).
+Entgegen der Ansicht der
+Verteidigung (act. 18 S. 10 Rz 25) ist nicht ersichtlich, inwiefern
+diese Erwägung einer Vorverurteilung gleichkommt. Schliesslich ist (immer
+noch) davon auszugehen, dass es mutmasslich der an den Händen blutende
+Beschuldigte war, welcher sich
+zusammen
+mit den Angreifern vom Tatort
+fluchtartig entfernte. So ist nach wie vor davon auszugehen, dass der
+Beschuldigte mit den Angreifern, die auf D.______ schossen, kooperierte.
+Dafür sprechen derzeit auch die Beobachtungen der erwähnten zwei
+Auskunftspersonen.
+Zutreffend sind die
+vorinstanzlichen Erwägungen, wonach die Frage des Vorsatzes beim
+Beschuldigten vom Sachrichter zu prüfen sein wird.
+2.6.6.
+Gestützt auf die
+derzeit erlangten Erkenntnisse [die Verletzungen an den Händen des
+Beschuldigten, seine Anwesenheit zur tatrelevanten Zeit am Tatort, sein Blut
+am Tatort sowie seine mutmassliche Flucht mit den Angreifern] lassen zur Zeit
+keine Zweifel aufkommen, dass der Beschuldigte an der versuchten Tötung,
+verübt an D.______, beteiligt war. Eine diesbezügliche Verurteilung des
+Beschuldigten ist sehr wahrscheinlich. Nach dem Gesagten liegt nach wie vor
+ein geradezu erdrückender Tatverdacht (i.S.v. Art. 229 Abs. 1 StPO) vor, dass
+der Beschuldigte am Angriff auf den Geschädigten beteiligt war. Dieser
+erdrückende Tatverdacht gegen den Beschuldigten hat sich im Verlauf der
+Strafuntersuchung auch nicht abgeschwächt. Es ist nicht ersichtlich,
+inwiefern die Vorinstanz den diesbezüglichen Sachverhalt unrichtig
+festgestellt haben soll.
+3.
+3.1.
+Die Vorinstanz erwog
+unter Hinweis auf ihre bisherigen Verfügungen betreffend Fluchtgefahr
+Folgendes:
+Der Beschuldigte
+habe anlässlich seiner Verhaftung am 15. November 2018 beim
+Eintreffen der Polizei die Flucht ergreifen wollen und sei aus dem ersten
+Stock eines Wohnhauses vom Balkon gesprungen (SG.2018.00093 act. 2/2
+S. 2). Gemäss Rapport der Kantonspolizei Zürich vom
+10. November 2018 sei dem Beschuldigten im Jahr 2016 die
+italienische Aufenthaltsbewilligung entzogen worden und es sei davon
+auszugehen, dass er seinen Namen absichtlich geändert habe [der richtige Name
+von A.______, alias [...], lautet: [...]], um das Einreiseverbot zu umgehen
+(SG.2018.00093 act. 2/8 S. 2). Weiter sei bekannt, dass das
+Heimatland des Beschuldigten, Albanien, seine Auslieferung verlangt habe.
+Daher bestehe – auch mangels Schweizer Aufenthaltsbewilligung – die konkrete
+Gefahr, dass der Beschuldigte im In- oder Ausland untertauchen werde, wenn er
+auf freiem Fuss sei. Die Flucht lasse sich insbesondere durch die von der
+Verteidigung vorgeschlagene Kaution oder elektronische Fussfessel nicht verhindern.
+Der Verteidiger habe bezüglich Fluchtgefahr keine neuen Argumente
+vorgebracht, welche nicht bereits berücksichtigt worden seien. Die Vorinstanz
+ging zusammen mit der Staatsanwaltschaft (act. 1 S. 2) davon aus, dass beim
+Beschuldigten immer noch von Fluchtgefahr i.S.v. Art. 221 Abs. 1
+lit. a StPO auszugehen sei
+(
+act. 13 S. 4
+Erw. 3
+, OG.2019.00046 act. 9 S. 5 f.
+Erw. 4).
+3.2.
+Der Beschuldigte
+führt hinsichtlich Fluchtgefahr unter Hinweis auf seine früheren
+Stellungnahmen an das Zwangsmassnahmengericht (insbesondere seine
+Stellungnahme an das Zwangsmassnahmengericht vom 20. Mai 2019 [OG.2019.00046
+act. 8 S. 3 Rz 6 ff.]) aus, dass er in den Wochen vor seiner Verhaftung
+mehrere Male die Polizei wegen einem lautstarken Nachbarn kontaktiert habe und
+wirft diesbezüglich die Frage auf, welcher Verdächtige schon Kontakt zur
+Polizei suche, wenn er schuldig wäre (act. 10 S. 9 Rz 29). Er habe, als
+die Polizei bei seiner Verhaftung die Wohnungstüre mit einem wahnsinnigen
+Lärm gerammt habe, instinktiv befürchtet, es handle sich um den Nachbarn,
+welcher sich bei ihm für das Polizeiaufgebot habe rächen wollen
+(OG.2019.00046 act. 14 S. 4 Rz 7). Zudem sei seine Mutter, welche in [...]
+wohne, für ihn eine wichtige Bezugsperson. Als im November 2018 sein
+DNA-Profil aufgenommen worden sei, sei ihm bewusst gewesen, dass die Polizei
+ihn aufgrund seiner Blutspuren in [...] suchen werde. Er habe auch gegenüber
+seinen Kollegen per WhatsApp die Vermutung geäussert, dass er bald von der
+Polizei vernommen werde. Die Staatsanwaltschaft habe diese ausgewerteten
+WhatsApp-Nachrichten vom November 2018 offen zu legen. Dennoch sei er bei
+seiner Mutter geblieben. Dies, wie auch die Tatsache, dass er überhaupt
+wieder in die Schweiz zurückgekehrt sei, widerlege die Behauptung der Staatsanwaltschaft,
+er werde sich der Strafuntersuchung entziehen (OG.2019.00046 act. 8 S. 3 Rz 6
+ff.).
+3.3.
+Das Obergericht
+qualifizierte im Beschluss vom 27. Juni 2019 die Geschichte
+der befürchteten Revanche des Nachbarn als Schutzbehauptung mit der
+Begründung, dass der Beschuldigte vor der Polizei ausgesagt habe, er habe
+anlässlich der Festnahme nur "Polizei, Polizei" gehört, er habe
+Angst gehabt und darum habe er so [der Beschuldigte sprang aus dem Fenster]
+reagiert (SG.2018.00093 act. 2/4 S. 2). Weiter vertrat das
+Obergericht die Auffassung, dass der Beschuldigte vollständig ausblende, dass
+sein Heimatland, Albanien, seine Auslieferung verlangt, Italien ihm die
+Aufenthaltsbewilligung entzogen und er in der Schweiz mehrfach gegen das
+Ausländergesetz verstossen habe (SG.2018.00093 act. 2/8). Nach dem
+Gesagten sei höchst wahrscheinlich, dass der Beschuldigte untertauchen werde,
+sobald er auf freiem Fuss sei. Damit sei beim Beschuldigten zweifelsfrei von
+Fluchtgefahr auszugehen
+(OG.2019.00046 act. 26 S. 9 Erw. III.3.3.).
+An diesen Feststellungen ist
+festzuhalten. Die Vorbringen des Beschuldigten, wonach er mit seiner Mutter,
+welche in [...] lebe, eine Bezugsperson habe und er trotz Vorahnung, dass die
+Polizei ihn suchen werde, bei seiner Mutter geblieben sei, lassen die
+Fluchtgefahr beim Beschuldigten in keiner Weise als geringer erscheinen.
+4.
+4.1.
+Nachdem die
+Vorinstanz den dringenden Tatverdacht gegen den Beschuldigten sowie auch die
+Fluchtgefahr bejaht hatte, prüfte sie keine weiteren Haftgründe, insbesondere
+auch nicht die Kollusionsgefahr (act. 13 S. 5 oben).
+4.2.
+Der Beschuldigte
+verweist in seiner Beschwerde bezüglich Kollusionsgefahr auf seine
+Ausführungen im vorinstanzlichen Verfahren (act. 18 S. 12 Rz 36). In seiner
+Stellungnahme an das Zwangsmassnahmengericht vom 21. August 2019
+(act. 10 S. 9 Rz 30) führt der Beschuldigte aus, dass er sich mit
+den Angreifern in den zwei Monaten nach der Tat bereits hätte absprechen
+können, falls er dies gewollt hätte. Zudem habe er in dieser Zeit mehrere Male
+E.______ kontaktiert. Angesichts seiner Aussageverweigerung sei nicht
+ersichtlich, wie er die Wahrheitsfindung erschweren könne. Die
+Kollusionsgefahr zu bejahen, solange die zwei weiteren Personen nicht gefasst
+seien, sei gleichbedeutend mit der Legitimierung einer abstrakten
+Kollusionsgefahr.
+4.3.
+Das Obergericht
+bejahte in seinem Beschluss vom 27. Juni 2019 auch die Kollisionsgefahr und
+stützte sich dabei zusammengefasst auf die folgenden Erwägungen:
+Beim zu klärenden Delikt sei aufgrund der Aussagen des Geschädigten
+und den Beobachtungen einer Auskunftsperson davon auszugehen, dass am Tatort
+mindestens drei (teils maskierte) Personen zum Nachteil des Geschädigten
+agiert hätten. Der Beschuldigte verweigere die Aussage auf konkrete Fragen
+zum Delikt konsequent.
+Im jetzigen Untersuchungsstadium gehe es nicht
+nur darum, den Tatbeitrag des Beschuldigten zu eruieren, sondern auch darum,
+überhaupt erst einmal alle weiteren Tatbeteiligten zu ermitteln. Der
+Beschuldigte habe bereits während der Untersuchungshaft versucht zu
+kolludieren. Aus heutiger Sicht müsse als erstellt gelten, dass der
+Beschuldigte zu der Gruppe der Angreifer gehöre. Damit bestehe beim
+Beschuldigten die konkrete Gefahr, dass er sich mit den weiteren noch nicht
+identifizierten Tatbeteiligten absprechen oder auf Beweismittel einwirken
+könnte. Es sei beim Beschuldigten zweifelsfrei von konkreter Kollusionsgefahr
+auszugehen (OG.2019.00046 act. 26 S. 11 f. Erw. III.5.).
+Diesen Erwägungen ist
+hinzuzufügen, dass aufgrund der Beobachtung einer weiteren Auskunftsperson
+[diese Aussage war im Verfahren OG.2019.00046 noch nicht belegt] die
+Vermutung bekräftigt wurde, dass am Tatort drei Personen zum Nachteil von
+D.______ agierten, zusammen flüchteten und einer davon [mutmasslich handelt
+es sich hier um den Beschuldigten] an den Händen verletzt war. Es ist daher
+anzunehmen, dass der Beschuldigte die zwei Angreifer kennt. Somit ist auch
+gestützt auf diese neusten Erkenntnisse beim Beschuldigten nach wie vor von
+konkreter Kollusionsgefahr auszugehen.
+5.
+5.1.
+Nachdem der konkrete dringende Tatverdacht gegen den
+Beschuldigten vorliegt und auch die Haftgründe der Flucht- und der
+Kollusionsgefahr zu bejahen sind, gilt zu prüfen, ob die Untersuchungshaft
+verhältnismässig ist (Art. 197 Abs. 1 lit. c und d StPO) oder ob an Stelle
+der Untersuchungshaft eine oder mehrere mildere Massnahmen (Ersatzmassnahmen)
+treten können, die den gleichen Zweck wie die Haft erfüllen (Art. 237
+Abs. 1 StPO; BGE 140 IV 19 E. 2.1.2).
+5.2.
+Der Beschuldigte führt bezüglich Verhältnismässigkeit aus, dass von
+allen beschuldigten Personen – trotz gleich lautenden Vorwürfen – nur er in
+Untersuchungshaft sitze, was einer Beugehaft gleichkomme, welche gleichzeitig
+eine Strafmassnahme für seine Aussageverweigerung darstelle. Er sitze nur
+aufgrund von Vermutungen seit neun Monaten in Untersuchungshaft. Die
+Haftvoraussetzungen seien nicht erfüllt (act. 18 S. 12 Rz 37, act. 10 S.
+9 f. Rz 31)
+5.3.
+Der Ansicht des
+Beschuldigten, er sitze nur aufgrund von Vermutungen in Untersuchungshaft,
+kann nicht gefolgt werden. Wie bereits dargelegt, wurde seine DNA am Tatort
+gefunden und wurde von einer Auskunftsperson beobachtet, wie drei Männer den
+Tatort fluchtartig verlassen hatten, wobei einer der drei Männer an den
+Händen verletzt gewesen sei. Eine weitere Auskunftsperson beobachtete in der
+Nähe des Tatorts [und zur ungefähren Tatzeit zwischen 19.00 Uhr und 19.30
+Uhr] drei Männer, wobei einer dieser Männer die Jacke eines anderen Mannes
+zumachte. Der Beschuldigte erlitt bei der Auseinandersetzung mit D.______
+schwere Schnittverletzungen an den Händen (vgl. Erw. III.2.2.3. f.
+vorstehend). Damit liegen keinesfalls nur Vermutungen vor. Die Fortführung
+der Untersuchungshaft um drei Monate erweist sich auch mit Blick auf das dem
+Beschuldigten vorgeworfene Delikt sowie die Beteiligung von mindestens zwei
+weiteren noch nicht identifizierten Personen an der versuchten Tötung vom
+25. September 2018 zum Nachteil von D.______ als verhältnismässig.
+Andere Ersatzmassnahmen sind keine ersichtlich.
+Aufgrund der dargelegten Umstände
+ist von einer sehr komplexen und umfassenden Strafuntersuchung auszugehen.
+Der implizite Vorwurf des Beschuldigten an die Staatsanwaltschaft, dass von
+allen beschuldigten Personen nur er in Untersuchungshaft sitze und dies trotz
+gleich lautenden Vorwürfen, fällt vor dem Hintergrund, dass der Beschuldigte
+mit seiner Aussageverweigerung wohl die weiteren Tatbeteiligten schützen
+will, geradezu in sich zusammen. Es ist Sache der Staatsanwaltschaft, diese
+Untersuchung beförderlich zu behandeln und es ist derzeit davon abzusehen,
+der Staatsanwaltschaft Weisungen betreffend Edition von WhatsApp-Nachrichten
+zu erteilen oder eine zeitliche Befristung der Untersuchungshaft anzuordnen,
+zumal die Schwere des dem Beschuldigten vorgeworfenen Delikts und die sehr
+wahrscheinliche diesbezügliche Verurteilung auch keine Überhaft nahelegen.
+6.
+Damit ist die
+Beschwerde des Beschuldigten gegen den Haftverlängerungsentscheid des
+Zwangsmassnahmengerichts vom 23. August 2019 (act. 13) abzuweisen.
+Den vorstehenden Erwägungen gemäss ist die vorinstanzlich angeordnete
+Haftverlängerung um drei Monate rechtskonform und nach heutigem Kenntnisstand
+sachgerecht. Im Übrigen kann der Beschuldigte jederzeit bei der
+Staatsanwaltschaft ein Entlassungsgesuch stellen (Art. 228 Abs. 1
+StPO).
+IV.
+1.
+Die Regelung der
+Kostenfolgen hat im Endentscheid zu erfolgen (Art. 421 Abs. 1
+StPO). Die Gerichtsgebühr für das Beschwerdeverfahren ist zuhanden der das
+Strafverfahren abschliessenden Behörde auf CHF 1'000.— festzulegen
+(Art. 8 Abs. 2 lit. b i.V.m. Art. 6 der
+Zivil- und
+Strafprozesskostenverordnung [GS III A/5]) und zu den Untersuchungskosten im
+Sinne von Art. 326 Abs. 1 lit. d StPO zu schlagen.
+Parteientschädigungen sind keine zuzusprechen
+(Art. 423
+Abs. 1 StPO).
+2.
+Die Entschädigung des
+amtlichen Verteidigers des Beschuldigten für seine im Beschwerdeverfahren
+getätigten Aufwendungen wird durch die Staatsanwaltschaft oder das urteilende
+Gericht bei Abschluss des Strafverfahrens festzusetzen sein (Art. 135 Abs. 2
+StPO).
+____________________
+Das Gericht
+beschliesst
+:
+1.
+Die Beschwerde wird abgewiesen.
+2.
+Die Gerichtsgebühr für das
+Beschwerdeverfahren wird zuhanden der das Strafverfahren abschliessenden
+Behörde auf CHF 1'000.— festgelegt.
+3.
+Schriftliche Mitteilung an:
+[...]
