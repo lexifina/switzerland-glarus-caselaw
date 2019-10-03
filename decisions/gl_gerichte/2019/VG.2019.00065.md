@@ -1,0 +1,532 @@
+---
+decision_id: "gl_gerichte_VG.2019.00065"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2019.00065"
+docket_2: "VG.2019.842"
+decided: "2019-10-03"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1151&W10_KEY=218274&nTrefferzeile=5&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/700/art-009.md", "switzerland/bund/acts/700/art-015.md", "switzerland/bund/acts/700/art-021.md", "switzerland/bund/acts/747.201.7/art-003.md"]
+---
+
+# GL Gerichte VG.2019.00065
+
+## Regeste
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+## Text
+
+Glarus Verwaltungsgericht 03.10.2019 VG.2019.00065 (VG.2019.842)
+Glaris Verwaltungsgericht 03.10.2019 VG.2019.00065 (VG.2019.842)
+Glarona Verwaltungsgericht 03.10.2019 VG.2019.00065 (VG.2019.842)
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+3. Oktober 2019
+I. Kammer
+VG.2019.00065/66
+1.
+A.______
+Beschwerdeführer
+2.
+B.______
+beide vertreten durch
+Rechtsanwältin
+C.______
+gegen
+1.
+Gemeinde Glarus
+Beschwerdegegner
+2.
+Departement Bau und Umwelt des Kantons
+Glarus
+betreffend
+Baulinienanpassung/Genehmigung
+Baulinien
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+D.______ und E.______ reichten am 7. September 2016 bei der Gemeinde Glarus
+ein Gesuch für den
+Abbruch der bestehenden
+Baute sowie einen Ersatzneubau auf der Parz.-Nr. 01, Grundbuch Glarus,
+ein. In der Folge eröffnete die Gemeinde Glarus zur Festlegung und Definition
+der rückwärtigen Baulinien ein Bauermittlungsverfahren und gab in diesem
+Rahmen bei der F.______AG eine Volumenstudie in Auftrag, welche am 26. April
+2017 erstattet wurde. Darin gab Letztere die Empfehlung ab, dass mit Blick
+auf das Bauvorhaben von
+D.______ und E.______
+eine
+Anpassung bzw. eine Neufestlegung der Baulinien vorzunehmen sei.
+1.2
+Gestützt auf die Volumenstudie der F.______AG
+publizierte die Gemeinde Glarus im Amtsblatt des Kantons Glarus vom […]
+Baulinienänderungen auf den Parz.-Nrn. 01 - 06, alle Grundbuch Glarus,
+und wies dabei daraufhin, dass dies für die Entstehung einer neuen
+Wohnüberbauung auf der Parz.-Nr. 01 notwendig sei. Sie legte das Gesuch
+für die Baulinienänderung gestützt auf Art. 25 und 29 des Raumentwicklungs-
+und Baugesetzes vom 2. Mai 2010 (RBG) während 30 Tagen öffentlich auf.
+1.3
+Nachdem A.______ und B.______ am 8. Februar 2018 Einsprache gegen das
+Gesuch um Änderung der Baulinien erhoben hatten, teilte ihnen die Gemeinde
+Glarus am 25. April 2018 mit, dass die Baulinienanpassung in abgeänderter
+Form nochmals im Amtsblatt publiziert werde. Dies erfolgte am […], wogegen
+A.______ und B.______ neben weiteren Personen am 22. Mai 2018 erneut
+Einsprache erhoben.
+1.4
+In der Folge wies die Gemeinde Glarus sämtliche gegen die Baulinienänderungen
+gerichteten Einsprachen am 13. Juni 2018 ab, soweit sie darauf eintrat
+(Disp.-Ziff. 1), legte die Baulinien gemäss der öffentlichen Auflage vom
+26. April 2018 fest (Disp.-Ziff. 2) und unterbreitete das Gesuch
+für die Baulinienänderung dem Departement Bau und Umwelt des Kantons Glarus
+(DBU) zur Genehmigung (Disp.-Ziff. 3).
+2.
+Gegen
+die Verfügung der Gemeinde Glarus vom 13. Juni 2018 erhoben A.______ und
+B.______ am 13. August 2018 Beschwerde beim DBU, welches die Beschwerde am
+27. März 2019 abwies und die von der Gemeinde Glarus beantragte Änderung
+der Baulinien gleichentags genehmigte.
+3.
+3.1
+Sowohl gegen den Beschwerdeentscheid des DBU vom 27. März 2019
+betreffend Baulinienanpassung (Verfahren VG.2019.00065) als auch gegen den
+gleichentags ergangenen Genehmigungsentscheid des DBU (Verfahren
+VG.2019.00066) erhoben A.______ und B.______ am 13. Mai 2019 Beschwerde beim
+Verwaltungsgericht und beantragten in der Hauptsache deren Aufhebung;
+unter Kosten- und Entschädigungsfolgen zu Lasten der
+Gemeinde Glarus und des DBU.
+3.2
+Das Verwaltungsgericht vereinigte die beiden
+Beschwerdeverfahren mit Präsidialverfügung vom 15. Mai 2019. Das DBU schloss
+am 12. Juni 2019 auf Abweisung der Beschwerden; unter Kostenfolge. Die
+Gemeinde Glarus beantragte am 13. Juni 2019 ebenfalls die Abweisung der
+Beschwerden.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 79 Abs.
+1 RBG i.V.m. Art. 105 Abs. 1 lit. b des Gesetzes über die
+Verwaltungsrechtspflege vom 4. Mai 1986 (VRG) zur Behandlung der Beschwerde
+gegen den Beschwerdeentscheid des Beschwerdegegners 2 betreffend
+Baulinienanpassung zuständig. Dies ist es gemäss Art. 28 Abs. 3 RBG
+auch für die Beschwerde, welche gegen den Genehmigungsentscheid des
+Beschwerdegegners 2 gerichtet ist.
+Da
+auch die übrigen Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerden
+der Beschwerdeführer einzutreten.
+1.2
+Gemäss Art. 107 Abs. 1 VRG können mit der
+Verwaltungsgerichtsbeschwerde die unrichtige oder unvollständige Feststellung
+des rechtserheblichen Sachverhalts (lit. a) und die unrichtige
+Rechtsanwendung einschliesslich eines Missbrauchs des Ermessens (lit. b)
+gerügt werden. Die Unangemessenheit des Entscheids kann gemäss
+abschliessender Aufzählung in Art. 107 Abs. 2 VRG nur ausnahmsweise geltend
+gemacht werden, wobei ein solcher Ausnahmefall nicht vorliegt.
+1.3
+Soweit die Beschwerdeführer die Durchführung eines
+Augenscheins vor Ort beantragen, sind sie darauf hinzuweisen, dass sich der
+rechtserhebliche Sachverhalt genügend aus den Akten ergibt. Zudem stellen
+sich vorliegend hauptsächlich Rechtsfragen, wozu ein Augenschein wenig
+Entscheidrelevantes beitragen kann. Folglich kann auf einen Augenschein
+verzichtet werden.
+2.
+2.1
+Die Beschwerdegegnerin 1 änderte die
+strittigen Baulinien im Hinblick auf den geplanten Abbruch der bestehenden
+Baute sowie einen Ersatzneubau auf der Parz.-Nr. 01. Diese liegt ebenso
+in der Kernzone Altquartierzone Glarus und innerhalb der Ortsbildschutzzone,
+wie die von den Baulinienänderungen ebenfalls betroffenen
+Nachbarparz.-Nrn. 02 - 06. Die Parz.-Nr. 01 grenzt im Norden an die
+W-Strasse, im Westen an die X-Gasse und im Osten an die Y-Gasse. Ferner
+gehört der südliche und in der Grünzone liegende Teil der Parzelle zum
+angrenzenden Hügel G.______.
+2.2
+Im aktuell rechtskräftigen Baulinienplan des Ortsteils
+Glarus besteht längs der X-Gasse eine Hauptbaulinie, welche sich entlang der
+W-Strasse über die Y-Gasse bis hin zur Z-Strasse erstreckt. Diese wurde von
+der Beschwerdegegnerin 1 mit Verfügung vom 13. Juni 2018 dahingehend
+abgeändert, als dass sie in der X-Gasse von der Parz.-Nr. 01 über eine
+Distanz von 8,44 Metern bis hin zur Parz.-Nr. 07 unterbrochen
+wurde. Ferner wurde der über die Y-Gasse verlaufende Teil der Hauptbaulinie
+aufgehoben und westlich entlang der Y-Gasse wurde eine neue Hauptbaulinie im
+Abstand von einem Meter zur Y-Gasse über eine Länge von 12,20 Metern
+festgelegt. Überdies wurde auf der Parz.-Nr. 01 parallel zur
+Hauptbaulinie entlang der X-Gasse und der W-Strasse eine neue rückwärtige
+Nebenbaulinie in einer Tiefe von 12,20 Metern und über eine Länge von
+20,80 Metern bestimmt. Schliesslich verfügte die
+Beschwerdegegnerin 1 am westlichen Ende dieser Nebenbaulinie eine im
+rechten Winkel dazu stehende und über eine Länge von 12,20 Metern bis
+zur X-Gasse hin verlaufende neue Hauptbaulinie.
+3.
+3.1
+Die Beschwerdeführer bringen vor, die
+Beschwerdegegnerin 1 habe den Sachverhalt nicht richtig festgestellt und
+beim Entscheid das ihr zustehende Ermessen missbraucht. Die strittige
+Baulinienanpassung beruhe weder auf veränderten Verhältnissen noch liege ein
+Fehler in der Planung vor, weshalb die Voraussetzungen für eine Änderung der
+Baulinien im Sinne von Art. 29 Abs. 1 RBG nicht gegeben seien. Sodann seien
+in der Volumenstudie der F.______AG nicht sämtliche betroffenen Parzellen
+berücksichtigt worden, weshalb keine ganzheitliche Betrachtungsweise
+vorliege. Ferner gebe es ähnliche Situationen in Glarus bei welchen die
+Hauptbaulinie über eine kleine Gasse hinweg beibehalten worden sei. Dies sei
+von der Beschwerdegegnerin 1 in ihrem Entscheid, mit welchem sie einen
+Unterbruch der Hauptbaulinie über die Y-Gasse vorsehe, nicht berücksichtigt
+worden. Schliesslich habe die Beschwerdegegnerin 1 die
+Interessenabwägung falsch vorgenommen, weshalb ihr Entscheid insgesamt
+aufzuheben und die Hauptbaulinie an der Y-Gasse wie bestehend zu belassen
+sei.
+3.2
+Der Beschwerdegegner 2 führt aus, die
+Beschwerdegegnerin 1 habe kein Recht verletzt, indem sie wegen einer
+städtebaulichen Fehlerhaftigkeit eine Baulinienanpassung vorgenommen habe.
+Sodann sei es zumindest nicht unhaltbar, dass entlang der Y-Gasse nur
+einseitig eine Hauptbaulinie festgelegt worden sei. Dies liege im Rahmen des
+weiten Ermessens der Beschwerdegegnerin 1. Sodann sei keine fehlerhafte
+Interessenabwägung ersichtlich. Vielmehr überwiege das öffentliche Interesse
+an der Änderung der Baulinien das private Interesse der Beschwerdeführer.
+4.
+4.1
+4.1.1
+Gemäss Art. 55 der Bauverordnung vom
+23. Februar 2011 (BauV) begrenzen Baulinien die Bebauung und dienen
+insbesondere der Sicherung bestehender und geplanter Anlagen und Flächen
+sowie der baulichen Gestaltung. Sie dienen nicht nur der Erschliessung,
+sondern auch der Freihaltung von Flächen aus Gründen der Ökologie, der
+Ästhetik oder der Sicherheit. Mit ihnen können gestalterische Elemente
+gesichert werden wie Freiräume, Räume zur Bepflanzung oder die gestalterische
+Integration von Gebäuden im Strassenraum, zum Beispiel durch gestaffelte
+Bauweise und Pflichtbaulinien (Christian Häuptli, in Andreas Baumann et al.,
+Kommentar zum Baugesetz des Kantons Aargau, Bern 2013, § 17 N. 11;
+vgl. auch
+Heinz Aemisegger/Samuel Kissling, in Heinz Aemisegger
+et al. [Hrsg.], Praxiskommentar RPG: Nutzungsplanung, Zürich/Basel/Genf 2016,
+Vorbemerkungen zur Nutzungsplanung N. 71 ff.
+).
+4.1.2
+Baulinien bezeichnen die Mindestabstände von Bauten
+und Anlagen gegenüber Strassen, Wegen, Plätzen und anderen öffentlichen
+Verkehrsanlagen sowie gegenüber Wäldern, Gewässern und schützenswerten
+Landschaften (vgl. Peter Hettich/Lukas Mathis, in Alain Griffel et al.
+[Hrsg.], Fachhandbuch Öffentliches Baurecht, Zürich/Basel/Genf
+2016,
+Rz. 1.121 und 1.86). Diesbezüglich lässt sich den
+Erläuterungen zu Art. 55 im Anhang der BauV entnehmen, dass die
+Baulinien an die Stelle der generellen Abstandsvorschriften treten, sich auf
+die projizierten Fassadenlinien beziehen und in der Regel im öffentlichen
+Interesse festgelegt werden. Die Abgrenzungen können sich je nach Zweck der
+Baulinien auf alle Bauten und Anlagen oder lediglich auf Gebäude oder
+Gebäudeteile mit bestimmten Nutzungen oder auf bestimmte Geschosse beziehen.
+4.2
+In Baulinienplänen werden die einzelnen Baulinien
+kartographisch exakt festgelegt. Sie gelten als Sondernutzungspläne (Art. 21
+Abs. 2 lit. a RBG), welche für jedermann verbindlich sind (Art. 21
+Abs. 1 des Bundesgesetzes über die Raumplanung vom 2. Juni 1979 [RPG]
+und Art. 30 RBG) und regeln die Überbaubarkeit, die Erneuerung oder
+Verdichtung von Teilgebieten der Gemeinde in Ergänzung oder Verfeinerung der
+ortsplanerischen Grundordnung (Art. 21 Abs. 1 RBG). Der Baulinienplan hat
+sich als Sondernutzungsplan grundsätzlich am Rahmennutzungsplan zu
+orientieren bzw. hat diesen zu präzisieren und zu ergänzen. Dabei darf
+er die im Rahmennutzungsplan enthaltene Grundordnung nicht in wesentlichen
+Teilen ausser Kraft setzen, da ansonsten das Prinzip der Einheit und der
+Widerspruchfreiheit der Planung in Gefahr wäre. Dennoch erscheint eine
+gewisse Abweichung möglich, wobei zur Prüfung der Zulässigkeit eine
+Einzelfallprüfung gestützt auf das kantonale Recht vorzunehmen ist
+(vgl. Aemisegger/Kissling, Vorbemerkung zur Nutzungsplanung N. 76
+ff.).
+4.3
+Gemäss Art. 22 Abs. 1 RBG kann die Gemeinde
+insbesondere zur Sicherung des Raumes bestehender oder geplanter
+Verkehrsanlagen und Leitungen (lit. a), zur Gestaltung von Ortsbildern,
+Quartieren oder Aussenräumen (lit. b), zur Freihaltung von Räumen innerhalb
+des Baugebietes (lit. c), entlang von Gewässern, Wäldern und Ufergehölzen
+(lit. d) sowie zum Schutz von Personen und Sachen gegen Naturgefahren und
+gegen schädliche oder lästige Einwirkungen (lit. e) Baulinien festlegen. Nach
+Art. 47 der Bauordnung der Gemeinde Glarus vom 23. September 2016 (BO
+Glarus) erlässt der Gemeinderat für den Schutz und die Erneuerung des
+historischen Ortsteils Glarus einen Baulinienplan. Diesem Auftrag ist er mit
+Erlass des am 8. Januar 2018 in Kraft getretenen Baulinienplans für den
+Ortsteil Glarus einschliesslich der Sonderbauvorschriften (nachfolgend: SBV)
+nachgekommen. Gemäss Art. 3 SBV dienen der Baulinienplan und die
+Sonderbauvorschriften Ortsteil Glarus dem Schutz, der eingepassten
+Erweiterung und Erneuerung des historischen Ortsteils Glarus
+4.4
+Bei der Festsetzung eines Plans gilt es umfassend
+zu berücksichtigen und abzuwägen, ob das mit der Baulinie zu sichernde
+Projekt in bestmöglicher Weise allen zu berücksichtigenden Interessen
+Rechnung trägt und es ist zu prüfen, ob die Baulinie verhältnismässig ist.
+Die Verhältnismässigkeit der geplanten Baulinie setzt dabei voraus, dass
+sie zur Erreichung des geplanten Ziels geeignet, erforderlich und zumutbar
+ist. Zudem muss im Rahmen der Verhältnismässigkeitsprüfung untersucht werden,
+ob es Varianten gibt, die zu weniger schwerwiegenden Eingriffen führen. Damit
+kann allerdings keine detaillierte Prüfung sämtlicher Ausführungsvarianten
+verlangt werden. Vielmehr genügt es, wenn prima facie keine wesentlichen
+vorteilhafteren Varianten ersichtlich sind (Christoph Fritzsche/Peter
+Bösch/Thomas Wipf/Daniel Kunz, Zürcher Planungs- und Baurecht, Bd. 1, 6.
+A., Wädenswil 2019, S. 220 ff. und Bd. 2, 6. A.,
+Wädenswil 2019, S. 1033).
+4.5
+Bundesrechtlich sieht Art. 21 Abs. 2 RPG sodann vor,
+dass Nutzungspläne überprüft und nötigenfalls angepasst werden, sofern sich
+die Verhältnisse erheblich geändert haben. Im kantonalen Baurecht wird in
+Art. 29 Abs. 1 RBG geregelt, dass Sondernutzungspläne zu überprüfen und
+allenfalls zu ändern sind, sofern sich die tatsächlichen oder rechtlichen
+Verhältnisse wesentlich geändert haben, wenn sich neue Aufgaben stellen oder
+es aus wichtigen öffentlichen Interessen geboten erscheint. Sowohl Art. 21
+Abs. 2 RPG als auch Art. 29 Abs. 1 RBG enthalten damit gleichzeitig ein
+Verbot und einen Auftrag. Einerseits darf der Plan nicht geändert werden,
+wenn die Voraussetzungen gemäss diesen Bestimmungen nicht erfüllt sind. Sind
+sie andererseits jedoch erfüllt, müssen die notwendigen Anpassungen
+vorgenommen werden (vgl. Thierry Tanquerel
+, in Heinz Aemisegger
+et al. [Hrsg.], Praxiskommentar RPG: Nutzungsplanung, Zürich/Basel/Genf 2016,
+Art. 21 N. 13
+).
+Stellt sich die Frage
+einer Anpassung eines Plans, so hat die zuständige Behörde zwei
+aufeinanderfolgende Interessenabwägungen vorzunehmen. Bei der ersten geht es
+um die Frage, ob auf eine Plananpassung einzutreten ist. Die zweite wägt den
+Inhalt der vorgesehenen Anpassungen gegenüber den Folgen für die betroffenen
+Grundeigentümer ab. Im Sinne der Rechtssicherheit muss der Plan jedoch eine
+gewisse Beständigkeit aufweisen und eine Änderung darf nicht leichthin
+erfolgen. Es gilt, dass je neuer ein Plan ist und je umfangreicher die
+vorgesehenen Anpassungen sind oder je detaillierter der geltende Plan
+ausgestaltet ist, desto gewichtiger die Gründe sein müssen, um ihn anzupassen
+(vgl. statt vieler: BGer-Urteil 1C_513/2014 vom 13. Mai 2016
+E. 4.2; vgl. auch Memorial für die Landsgemeinde des Kantons Glarus
+2010, S. 149). Bei Sondernutzungsplänen, welche die baulichen
+Möglichkeiten in einem bestimmten Perimeter im Detail bestimmen und damit
+einer Verfügung nahe kommen können, ist dem Bedürfnis nach Rechtssicherheit
+der betroffenen Grundeigentümer stärkere Bedeutung beizumessen als bei
+Rahmennutzungsplänen. Diesem Anliegen kann bei der erststufigen
+Interessenabwägung nach Art. 21 Abs. 2 RPG und Art. 29 Abs. 1 RBG Rechnung
+getragen werden, indem die Schwelle der Erheblichkeit der Veränderung höher
+angesetzt wird (vgl. zum Ganzen: Tanquerel
+, Art. 21 N. 36
+ff.)
+.
+5.
+5.1
+Vorliegend geht es um die Abänderung
+bzw. Neufestsetzung einzelner Baulinien des Baulinienplans, welcher im
+Rahmen der Totalrevision der Nutzungsplanung für das Gemeindegebiet Glarus am
+23. März 2017 vom Gemeinderat Glarus beschlossen und am 8. Januar 2018
+vom Beschwerdegegner 2 genehmigt wurde. Die strittigen Änderungen am
+Baulinienplan wurden von der Beschwerdegegnerin 1 sodann am 7. Juni
+2018 verfügt und vom Beschwerdegegner 2 am 27. März 2019 genehmigt.
+Demgemäss liegen sowohl zwischen den beiden Verfügungen der
+Beschwerdegegnerin 1 als auch zwischen den beiden
+Genehmigungsentscheiden des Beschwerdegegners 2 etwa je 14 Monate,
+was mit Blick auf den Planungshorizont von Nutzungsplanungen (15 Jahre
+für Bauzonen gemäss Art. 15 Abs. 1 RPG; 10 Jahre für Richtpläne gemäss
+Art. 9 Abs. 3 RPG) eine äusserst kurze Zeit darstellt. Hinzu kommt,
+dass es sich beim streitbetroffenen Baulinienplan um einen Sondernutzungsplan
+handelt, bei welchen gegenüber Rahmennutzungsplänen ein erhöhtes Bedürfnis
+nach Rechtssicherheit besteht (vgl. vorstehende E. II/4.5). Daraus
+folgt, dass das öffentliche Interesse an der Planbeständigkeit hoch ist und
+die Gründe für Änderungen am Plan umso gewichtiger sein müssen, worauf der
+Beschwerdegegner 2 im vorliegend angefochtenen Entscheid zu Recht
+hinweist.
+5.2
+Von den Parteien wird weiter zu Recht nicht geltend
+gemacht, dass sich zwischen der Revision des Baulinienplans für den Ortsteil Glarus
+und den vorliegend strittigen Änderungen die Verhältnisse erheblich geändert
+hätten, sodass die entsprechenden Anpassungen der Baulinien gerechtfertigt
+wären. Einerseits liegen nämlich keine Änderungen der rechtlichen
+Gegebenheiten vor, da die massgebende Gesetzgebung, Rechtsprechung und die
+kantonale sowie kommunale Raumplanung keine nennenswerten Neuerungen erfahren
+haben. Andererseits sind keine geänderten Verhältnisse faktischer Natur
+ersichtlich, welche bei der Revision des Baulinienplans noch nicht bekannt
+waren. So stellt das geplante Bauprojekt auf der Parz.-Nr. 01 und der
+damit verbundene Baubedarf der Grundeigentümer ein hauptsächlich privates
+Interesse dar, welches im Übrigen bereits vor Erlass und Genehmigung des
+revidierten Baulinienplans bekannt war. Ferner haben sich auch die sonstigen
+faktischen Umstände nicht derart geändert
+, dass sie nicht bereits in
+die Revision des Baulinienplan hätten miteinfliessen können, da sowohl die
+landschaftlichen Voraussetzungen (demographische Entwicklung, topographische
+Veränderung) als auch die sonstigen Rahmenbedingungen
+(Verhaltensveränderungen, wirtschaftliche Entwicklung, Mobilitätsbedürfnisse,
+etc.) gleichgeblieben sind (vgl. dazu
+Tanquerel
+,
+Art. 21 N. 44). Schliesslich dienen die Baulinien nach wie vor dem
+Schutz, der eingepassten Erweiterung und Erneuerung des historischen
+Ortsteils Glarus (vgl. Art. 3 SBV), weshalb sich die Anforderungen
+an den Baulinienplan seit dessen Erlass nicht verändert haben. Aus dem
+Gesagten ergibt sich, dass die Voraussetzungen zur Anpassung eines
+Sondernutzungsplans gemäss Art. 21 Abs. 2 RPG bzw. Art.
+29 Abs. 1 RBG vorliegend nicht erfüllt sind, weshalb
+gestützt darauf grundsätzlich keine Änderung am bestehenden Baulinienplan
+erfolgen durfte.
+6.
+6.1
+Der Beschwerdegegner 2 führt im vorliegend
+angefochtenen Entscheid zu Recht aus, dass eine Anpassung des Baulinienplans
+selbst dann möglich ist, wenn keine erheblich veränderten Verhältnisse
+gegeben sind. Dies ist namentlich dann der Fall, wenn in einer eben
+abgeschlossenen Planung ein schwerwiegender Fehler entdeckt worden ist (vgl. dazu
+BGer-Urteil 1P.425/2002 vom 14. Januar 2003 E. 3.7.1). Dabei ist
+die Zulässigkeit einer Planänderung aufgrund einer allfälligen
+Fehlerhaftigkeit gleich zu prüfen, wie die Rechtsmässigkeit eines Widerrufs
+von Verfügungen, weil ein Sondernutzungsplan verfahrensrechtlich im
+Wesentlichen einer Verfügung gleichgestellt wird (vgl. BGer-Urteil
+1C_444/2014 vom 27. Januar 2015 E. 3.5).
+6.2
+Eine Änderung einer Verfügung durch die
+Verwaltungsbehörde, die sie erlassen hat, ist dabei grundsätzlich sowohl vor
+als auch nach Eintritt der formellen Rechtskraft möglich. Liegt keine
+gesetzliche Regelung vor, so muss die Widerrufbarkeit einer Verfügung
+aufgrund allgemeiner Kriterien beurteilt werden. Es ist eine
+Interessenabwägung erforderlich. Dabei ist zwischen dem Interesse an der
+richtigen Anwendung des objektiven Rechts einerseits und dem Interesse an der
+Rechtssicherheit bzw. dem Vertrauensschutz andererseits abzuwägen.
+Grundlage des Vertrauens ist die Verfügung, also eine qualifizierte
+Vertrauensgrundlage. Dies hat zur Folge, dass der Private nicht zwingend
+Dispositionen getroffen haben muss, um sich gegen den Widerruf der
+begünstigenden Verfügung zur Wehr zu setzen; der Schutz der Verfügung besitzt
+gewissermassen einen "Selbstwert". Dispositionen des Privaten haben
+allerdings einen erheblichen Einfluss auf die Interessenabwägung zu seinen
+Gunsten. Nach Eintritt der formellen Rechtskraft sind die Voraussetzungen für
+eine Neubeurteilung der Verfügung strenger als bei formell nicht
+rechtskräftigen Verfügungen. Dies erklärt sich damit, dass dem Gebot der
+Rechtssicherheit und dem Vertrauensschutz dann grössere Bedeutung zukommt als
+vorher (vgl. VGer-Urteil VG.2018.00112 vom 20. Dezember 2018
+E. II/4.1).
+6.3
+Grundvoraussetzung für den Widerruf einer Verfügung
+ist deren Fehlerhaftigkeit, wobei sowohl eine ursprüngliche als auch eine
+nachträgliche Fehlerhaftigkeit in Frage kommt (VGer-Urteil VG.2018.00112 vom
+20. Dezember 2018 E. II/4.2).
+6.3.1
+Die Beschwerdegegnerin 1 begründete die
+strittige Baulinienanpassung gestützt auf die Volumenstudie der F.______AG
+vom 26. April 2017 ausschliesslich mit städtebaulichen Gründen. Weil die
+an die W-Strasse stossenden Nebenbauten der bestehenden Bebauung an der
+Y-Gasse im Stadtkörper von Glarus untypisch seien, die bestehende Nebenbaulinie
+an der Ostecke W-Strasse/Y-Gasse sich ortsbaulich nicht begründen lasse und
+Hofzugänge sowie Eingangssituationen zu Dienstgassen im Stadtgefüge fast
+ausnahmslos durch Hauptbaulinien gesichert seien, stelle die geplante
+Hauptbaulinie entlang der Y-Gasse das geeignete Mittel zur Sicherstellung
+einer ortsbaulich angemessenen Bebauung der Ecke W-Strasse/Y-Gasse dar
+(vgl. dazu im angefochtenen Entscheid E. 4.4.3.3).
+6.3.2
+Vorliegend ist fraglich, ob der am 8. Januar 2018
+vom Beschwerdegegner 2 genehmigte Baulinienplan überhaupt als fehlerhaft
+zu qualifizieren ist. So wurden die strittigen Anpassungen daran erst im
+Hinblick auf das Bauvorhaben auf der Parz.-Nr. 01 notwendig und dienen
+überdies primär den Interessen der Bauherrschaft, worauf selbst die F.______AG
+in ihrer Stellungnahme vom 3. April 2018 hinwies. Für diesen Umstand
+spricht zusätzlich, dass anstelle der Nebenbaulinie, welche östlich entlang
+der Y-Gasse bzw. entlang der Parzelle der Beschwerdeführer verläuft,
+nicht entsprechend der gegenüberliegenden Seite der Y-Gasse eine
+Hauptbaulinie verfügt werden soll, obschon die F.______AG dies in der
+Volumenstudie als widersprüchlich taxierte. Demgemäss nahm die
+Beschwerdegegnerin 1 mit den strittigen Baulinienänderungen einzig eine
+Anpassung im Hinblick auf das Bauvorhaben auf der Parz.-Nr. 01 vor,
+wobei sie die umliegenden Parzellen nicht im Sinne einer ganzheitlichen
+Betrachtungsweise miteinbezog. Damit kann zumindest nicht von einer schweren
+städtebaulichen Fehlerhaftigkeit des Baulinienplans gesprochen werden,
+andernfalls auch die umliegenden (widersprüchlichen) Baulinien bei der
+Überprüfung hätten mitberücksichtigt werden müssen. Ferner hat die
+Beschwerdegegnerin 1 mit Blick auf das Bauvorhaben auf der
+Parz.-Nr. 01 zwar ein Bauermittlungsverfahren eingeleitet und in diesem
+Rahmen eine Volumenstudie in Auftrag gegeben. Sie erachtete es trotz
+frühzeitiger Kenntnis des Bauvorhabens jedoch nicht für angezeigt, allfällige
+Anpassungen des Baulinienplans im Rahmen der Revision des Baulinienplans
+vorzunehmen, was ebenfalls gegen eine schwerwiegende Fehlerhaftigkeit
+spricht. Soweit die Beschwerdegegnerin 1 hinsichtlich der Y-Gasse
+gestützt auf die Volumenstudie des Weiteren implizit davon ausgeht, dass im
+Ortsteil Glarus vergleichbare Gassen in gleicher Weise durch Hauptbaulinien
+gesichert werden, verkennt sie, dass einerseits mehrere Beispiele bestehen,
+bei denen kein Unterbruch der Hauptbaulinie über die Gasse vorgenommen wurde
+(vgl. beispielsweise Burgstrasse/An der Burg; Am
+Bach/Oswald-Heer-Strasse; Am Bach/Hauptstrasse; Eingang bei der Apotheke Moor
+in die Dienstgasse) und andererseits kaum Beispiele existieren, bei welchen
+eine Hauptbaulinie entlang der Gasse zur Sicherung des Gasseneingangs
+festgelegt wurden, worauf die Beschwerdeführer zu Recht hinweisen. Dies
+spricht ebenfalls gegen eine schwerwiegende Fehlerhaftigkeit des
+Baulinienplans. Aus dem Gesagten folgt, dass höchstens von einem leichten
+städtebaulichen Fehler des Baulinienplans auszugehen ist.
+6.4.
+6.4.1
+Wenn man den geltenden Baulinienplan als fehlerhaft
+qualifizieren will, so ist ein Widerruf bzw. eine Anpassung des
+Baulinienplans jedoch nur zulässig, wenn das öffentliche Interesse an der
+richtigen Rechtsanwendung das Interesse des Privaten an der Rechtssicherheit
+bzw. am Schutz seines Vertrauens überwiegt (VGer-Urteil VG.2018.00112
+vom 20. Dezember 2018 E. II/4.2).
+6.4.2
+Vorliegend wiegt der allfällige Fehler des
+bestehenden Baulinienplans nicht dermassen schwer, als dass eine Bereinigung
+wegen des öffentlichen Interesses an einer städtebaulich und raumplanerisch
+guten Lösung zwingend angezeigt gewesen wäre. Das Interesse der
+Beschwerdeführer am Erhalt des geltenden Rechtszustands überwiegt das
+öffentliche Interesse, welches sich mit Blick auf den gesamten Baulinienplan
+auf ein sehr kleines Teilgebiet und hauptsächlich auf ein privates Bauprojekt
+bezieht. Darüber hinaus vermag das hauptsächlich private Interesse der
+Bauherrschaft auf der Parz.-Nr. 01 an der Änderung des Baulinienplans
+das Interesse der Nachbarn an der Beständigkeit des eben abgeschlossenen
+Baulinienplans ebenfalls nicht aufzuwiegen (vgl. dazu BGer-Urteil
+1A.167/2002 vom 14. Januar 2003 E. 3.7.3). Ohnehin wäre es der
+Bauherrschaft auf der Parz.-Nr. 01 in frühzeitiger Kenntnis des
+Bauvorhabens möglich und zumutbar gewesen, ihr Anliegen in die Revision des
+Baulinienplans miteinzubringen. Daraus folgt, dass das Interesse an der
+Planbeständigkeit höher zu gewichten ist und die vorliegend strittige
+Baulinienanpassung zu Unrecht erfolgt ist.
+6.5
+Mit dem Beschwerdegegner 2 ist schliesslich
+zwar darin einig zu gehen, dass der Gemeindeautonomie bei der Ortsplanung
+herausragende Bedeutung zukommt, weshalb die kantonalen Rechtsmittelinstanzen
+nicht ohne Not in das weite Ermessen der Gemeinde als Planungsbehörde
+eingreifen (vgl. statt vieler VGer-Urteil VG.2019.00077 vom 5. September
+2019 E. II/3.1). Sind aber die Voraussetzungen für eine Änderung eines
+Sondernutzungsplans wie vorliegend nicht erfüllt, handelt es sich um einen
+Rechtsfehler, welcher durch die Rechtsmittelbehörde zu korrigieren ist.
+Dies führt zur Gutheissung der Beschwerden. Der
+Entscheid des Beschwerdegegners 2 vom 27. März 2019 und die
+Genehmigungsverfügung des Beschwerdegegners 2 vom 27. März 2019
+sind aufzuheben.
+7.
+Da die Beschwerden gutzuheissen sind, ist die Sache
+zum Neuentscheid hinsichtlich der Kosten- und Entschädigungsfolgen des
+vorinstanzlichen Verfahrens an den Beschwerdegegner 2 zurückzuweisen.
+III.
+1.
+Die Gerichtskosten sind
+ausgangsgemäss auf die Staatskasse zu nehmen (Art. 134 Abs. 1 lit. c VRG i.V.m.
+Art. 135 Abs. 1 und Art. 135 Abs. 3 e contrario VRG). Den
+Beschwerdeführern ist der bereits geleistete Kostenvorschuss in der Höhe von
+Fr. 3'000.- zurückzuerstatten.
+2.
+Der Beschwerdegegner 2 ist
+gemäss Art. 138 Abs. 3 lit. a VRG zu verpflichten, den Beschwerdeführern eine
+Parteientschädigung in der Höhe von Fr. 3'000.- zu bezahlen.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerden werden gutgeheissen. Der Entscheid des Beschwerdegegners 2
+vom 27. März 2019 sowie die Genehmigungsverfügung des Beschwerdegegners 2
+vom 27. März 2019 werden aufgehoben. Die Sache wird zum Neuentscheid
+hinsichtlich der Kosten- und Entschädigungsfolgen des vorinstanzlichen
+Verfahrens an den Beschwerdegegner 2 zurückgewiesen.
+2.
+Die
+Gerichtskosten werden auf die Staatskasse genommen. Den Beschwerdeführern
+wird der von ihnen geleistete Kostenvorschuss in der Höhe von
+Fr. 3'000.- zurückerstattet.
+3.
+Der
+Beschwerdegegner 2 wird verpflichtet, den Beschwerdeführern innert 30 Tagen
+nach Rechtskraft dieses Entscheids eine Parteientschädigung von
+Fr. 3'000.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
