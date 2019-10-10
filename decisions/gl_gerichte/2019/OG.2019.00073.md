@@ -1,0 +1,838 @@
+---
+decision_id: "gl_gerichte_OG.2019.00073"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2019.00073"
+docket_2: "OGS.2021.105"
+decided: "2019-10-10"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1399&W10_KEY=218274&nTrefferzeile=2&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/311.0/art-010.md", "switzerland/bund/acts/311.0/art-022.md", "switzerland/bund/acts/311.0/art-112.md", "switzerland/bund/acts/311.0/art-134.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-214.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-222.md", "switzerland/bund/acts/312.0/art-224.md", "switzerland/bund/acts/312.0/art-226.md", "switzerland/bund/acts/312.0/art-228.md", "switzerland/bund/acts/312.0/art-237.md", "switzerland/bund/acts/312.0/art-326.md", "switzerland/bund/acts/312.0/art-388.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-421.md", "switzerland/bund/acts/312.0/art-423.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# GL Gerichte OG.2019.00073
+
+## Regeste
+
+Anordnung von Untersuchungshaft
+
+## Text
+
+Glarus Obergericht 10.10.2019 OG.2019.00073 (OGS.2021.105)
+Glaris Obergericht 10.10.2019 OG.2019.00073 (OGS.2021.105)
+Glarona Obergericht 10.10.2019 OG.2019.00073 (OGS.2021.105)
+
+Kanton Glarus
+Obergericht
+Beschluss
+vom 10. Oktober 2019
+Verfahren
+OG.2019.00073
+Staats- und Jugendanwaltschaft des
+Kantons Glarus
+Anklägerin und
+Beschwerdeführerin
+vertreten
+durch die Staatsanwältin
+gegen
+A.______
+Beschuldigter
+und
+Beschwerdegegner
+verteidigt
+durch Rechtsanwalt B.______
+betreffend
+Anordnung
+von Untersuchungshaft
+Anträge
+der
+Beschwerdeführerin
+(gemäss Eingabe vom
+27. September 2019, act. 26):
+1.
+Die Akten des Verfahrens des
+Zwangsmassnahmengerichts (SG.2019.00098) seien vollumfänglich beizuziehen.
+2.
+Die Dispositiv Ziffern 1, 2
+und 3 der Verfügung vom 27. September 2019, 05.08 Uhr, [recte:
+vom 26. September 2019, eröffnet im Dispositiv am 27. September 2019, um
+5.08 Uhr] des Zwangsmassnahmengerichts seien vollständig aufzuheben.
+3.
+Es sei über A.______, geb.
+11. Juli 1977, Untersuchungshaft auf die vorläufige Dauer von
+einem Monat anzuordnen.
+4.
+Es sei bis zum Vorliegen
+eines Entscheids des Obergerichts Glarus superprovisorisch die
+Aufrechterhaltung der Untersuchungshaft über A.______ anzuordnen.
+5.
+Die Kosten des Verfahrens vor
+dem Zwangsmassnahmengericht seien dem Beschuldigten aufzuerlegen.
+Anträge
+de
+s
+Beschwerdegegners
+(gemäss
+Eingabe vom 1. Oktober 2019, act. 38):
+1.
+Die Beschwerde sei
+abzuweisen.
+2.
+Es sei festzustellen, dass
+die Haft seit dem 27. September 2019, 5.30 Uhr, rechtswidrig ist.
+3.
+A.______ sei sofort auf
+freien Fuss zu setzen.
+4.
+Falls und solange nötig sei
+gegenüber A.______ ein Kontaktverbot zu K.______ und J.______ alias
+JJ.______ anzuordnen.
+5.
+Falls und solange nötig sei
+gegenüber A.______ eine Ausweis- und Schriftensperre anzuordnen sowie die
+Auflage zu machen, sich täglich bei der Kantonspolizei Glarus zu melden.
+6.
+Alles unter Kosten- und
+Entschädigungsfolgen zu Lasten des Staates, wobei diese vorläufig bei der
+Hauptsache zu belassen sei.
+____________________
+Das Gericht
+zieht in Betracht:
+I.
+1.
+Die Staats- und Jugendanwaltschaft
+des Kantons Glarus (nachfolgend Staatsanwaltschaft oder auch
+Beschwerdeführerin) verdächtigt A.______ (nachfolgend auch Beschuldigter),
+sich in der Nacht vom 19./20. Mai 2017 des Angriffs (i.S.v.
+Art. 134 StGB) zum Nachteil von H.______ und I.______ schuldig gemacht
+zu haben (act. 1 S. 2). Der Beschuldigte wurde am
+23. September 2019 festgenommen (act. 2/3).
+2.
+Mit einlässlich
+begründeter Eingabe vom 24. September 2019 an das
+Zwangsmassnahmengericht des Kantons Glarus beantragte die Staatsanwaltschaft,
+es sei gegen den Beschuldigten Untersuchungshaft für vorläufig einen Monat
+anzuordnen (act. 1). Am 26. September 2019, um 8.00 Uhr, fand vor dem
+Zwangsmassnahmengericht die mündliche Haftverhandlung statt. Die
+Staatsanwaltschaft war an der Haftverhandlung nicht vertreten (act. 13).
+Mit Verfügung vom 26. September
+2019 wies das Zwangsmassnahmengericht den Antrag der Staatsanwaltschaft auf
+Anordnung von Untersuchungshaft ab und ordnete stattdessen an, den
+Beschuldigten bis spätestens 27. September 2019, um 12.00 Uhr, aus der Haft
+zu entlassen (act. 17). Das Zwangsmassnahmengericht eröffnete den Parteien
+mit E-Mail vom 27. September 2019, 5.08 Uhr, das Dispositiv
+dieser Verfügung und stellte die Zustellung des begründeten Entscheids bis
+8.30 Uhr in Aussicht (act. 18). Gegen diese Eröffnung des
+Dispositivs meldete die fallzuständige Staatsanwältin gleichentags per
+E-Mail, um 5.24 Uhr, beim Zwangsmassnahmengericht Beschwerde an
+(act. 20). Das Zwangsmassnahmengericht leitete die Beschwerdeanmeldung sowie
+die Akten dem Obergericht weiter (act. 21). In der Folge reichte die
+Staatsanwaltschaft um 8.01 Uhr beim Obergericht Beschwerde gegen den
+Haftentlassungsentscheid des Zwangsmassnahmengerichts ein und erneuerte darin
+ihren bereits vorinstanzlich gestellten Antrag auf Anordnung von
+Untersuchungshaft für vorläufig einen Monat. Zugleich beantragte sie, es sei
+der Beschuldigte für die Dauer des Beschwerdeverfahrens vorderhand in Haft zu
+belassen (act. 26 S. 2). Der begründete Entscheid des Zwangsmassnahmengerichts
+vom 26. September 2019 (act. 23) wurde der Staatsanwaltschaft am
+27. September 2019, um 8.31 Uhr, von einer Botin überbracht (act. 25).
+Gegen diese Eröffnung des begründeten Entscheids meldete die zuständige
+Staatsanwältin sogleich auf der Empfangsbestätigung schriftlich und um 8.38
+Uhr bei der Gerichtsschreiberin des Obergerichts auch telefonisch (nochmals)
+die Erhebung einer Beschwerde an (act. 25, act. 28). Das
+Zwangsmassnahmengericht versandte den begründeten Entscheid am 27. September
+2019, um 8.57 Uhr, per E-Mail an die Parteien (act. 24).
+3.
+Das Obergericht
+verfügte daraufhin am 27. September 2019 superprovisorisch, dass
+der Beschuldigte vorläufig in Untersuchungshaft verbleibt. Dem Verteidiger
+des Beschuldigten wurde sodann Frist bis 3. Oktober 2019, 17.00
+Uhr, angesetzt, um zur Beschwerde der Staatsanwaltschaft sowie zur vorläufig
+angeordneten Untersuchungshaft Stellung zu nehmen (act. 29). Diese
+superprovisorische Verfügung wurde den Parteien vorab telefonisch, um 11.20
+Uhr resp. 11.22 Uhr, und per E-Mail, um 11.39 Uhr, mitgeteilt (act. 30, act.
+31).
+Die Staatsanwaltschaft reichte am
+27. September 2019, um 11.23 Uhr, beim Obergericht noch eine
+Ergänzung, samt Beilage, zur bereits eingereichten Beschwerde ein
+(act. 32, act. 33). Die Beschwerde und die Beschwerdeergänzung der
+Staatsanwaltschaft wurden dem Verteidiger zugestellt (act. 34, act. 35).
+Die Beschwerdeantwort des Beschuldigten datiert vom 1. Oktober 2019 (act. 38;
+vorab auch per E-Mail [act. 36, act. 37]) und wurde der Staatsanwaltschaft
+zugestellt (act. 41).
+II.
+1.
+1.1.
+Beide Parteien
+beanstanden die vorinstanzliche Eröffnung des Entscheids per E-Mail und im
+Dispositiv vom 27. September 2019, um 5.08 Uhr. Die Staatsanwaltschaft macht
+geltend, dass diese Mitteilung per E-Mail ausserhalb der Bürozeiten
+unzulässig sei. Das Zwangsmassnahmengericht habe ihr entgegen des mehrfachen
+ausdrücklichen Ersuchens keine Gelegenheit gegeben, die Beschwerde
+telefonisch durch die pikettdienstleistende Staatsanwältin anzumelden (act.
+26 S. 1, act. 16).
+Der Beschuldigte ist der
+Auffassung, dass das vom Kantonsgerichtspräsidenten mit unsignierter E-Mail
+vom 27. September 2019, um 5.08 Uhr, versandte Dispositiv eine
+formungültige Eröffnung gewesen sei, was auch für die unsignierte E-Mail vom
+27. September 2019 gelte, mit welcher die Gerichtsschreiberin die
+begründete Verfügung versandt habe. Er sei am 23. September 2019,
+um 5.30 Uhr, festgenommen worden. Die 96-Stunden Frist habe am
+27. September 2019, um 5.30 Uhr, geendet. Damit sei die Eröffnung nicht
+innerhalb der gesetzlichen Frist erfolgt und die Haft sei ab 5.30 Uhr
+rechtswidrig gewesen, was im Dispositiv festzustellen sei (act. 38 S. 3 Rz
+3.2. ff.).
+1.2.
+Gestützt auf Art. 224 Abs. 2 StPO und
+Art. 226 Abs. 1 StPO muss der Entscheid des Zwangsmassnahmengerichts
+maximal 96 Stunden nach der Festnahme des Beschuldigten gefällt sein.
+Nach
+Art. 226 Abs. 2 StPO eröffnet das Zwangsmassnahmengericht
+seinen Entscheid der Staatsanwaltschaft, der beschuldigten Person und ihrer
+Verteidigung unverzüglich mündlich oder, falls sie abwesend sind,
+schriftlich. Anschliessend stellt es ihnen eine kurze schriftliche Begründung
+zu.
+Die schriftliche Begründung ist
+ohne Verzögerung (im Regelfall spätestens nach drei bis vier Tagen)
+nachlieferbar (
+Schmid/Jositsch
+,
+Praxiskommentar StPO, 3. Aufl., N 5 zu Art. 226, BGer 1B_564/2011 E.
+3.1. Urteil vom 27. Oktober 2011).
+Nimmt
+die Staatsanwaltschaft [wie vorliegend] an der mündlichen Haftverhandlung vor
+dem Zwangsmassnahmengericht nicht teil, hat sie keinen gesetzlichen Anspruch
+darauf, dass ihr das Zwangsmassnahmengericht den Haftentlassungsentscheid
+vorab telefonisch mitteilt. Dies schliesst jedoch nicht aus, dass sich die
+beteiligten Behörden hinsichtlich des Vorgehens in solchen Fällen
+untereinander absprechen, was es der Staatsanwaltschaft ermöglicht, ihre
+Beschwerde sofort anzukünden, selbst wenn sie nicht persönlich an der
+Verhandlung vor dem Zwangsmassnahmengericht vertreten war.
+Die Ankündigung der Beschwerde hat zur
+Folge, dass die Haft nach dem Freilassungsentscheid des
+Zwangsmassnahmengerichts fortbesteht, bis die Beschwerdeinstanz
+(superprovisorisch) über weitere Massnahmen im Sinne von Art. 388 StPO
+entscheidet
+(BGE 138 IV 148 E. 3).
+1.3.
+Der Beschuldigte wurde am
+23. September 2019, um 5.30 Uhr, verhaftet (act. 2/3) und die
+96-Stunden-Frist (vgl. Art. 224 Abs. 2 StPO i.V.m. Art. 226
+Abs. 1 StPO)
+endete am
+27. September 2019, um 5.30 Uhr. D
+ie Gerichtsschreiberin informierte die Parteien am 26. September
+2019, um 18.16 Uhr, per E-Mail, dass der Entscheid im Dispositiv am 27.
+September 2019, zwischen 5.00 Uhr und 5.15 Uhr, per E-Mail eröffnet werde
+(act. 16 Seite 2 unten). Die Eröffnung des Dispositivs erfolgte
+ankündigungsgemäss
+mit E-Mail
+vom 27. September 2019, um 5.08 Uhr (act. 18), und damit
+innert der Frist von 96 Stunden.
+Wie dargelegt, sieht das
+Gesetz
+eine unverzügliche mündliche Mitteilung eines Haftentscheids oder, bei
+Abwesenheit der Parteien, eine schriftliche Mitteilung vor
+(Art. 226 Abs. 2 StPO). Gestützt auf die zitierte
+bundesgerichtliche Rechtsprechung ist auch eine telefonische Mitteilung nicht
+zu beanstanden. Damit ist gerade keine bestimmte Form der Mitteilung des
+Haftentscheids festgelegt und es ist vor diesem Hintergrund nicht einzusehen,
+weshalb eine Mitteilung per E-Mail "formungültig" sein sollte.
+Massgebend ist, dass sich das Zwangsmassnahmengericht hinsichtlich der
+Eröffnung seines Haftentscheids
+in
+geeigneter Weise mit den Parteien verständigt, damit auch das Beschwerderecht
+der an der Haftverhandlung nicht persönlich vertretenen Staatsanwaltschaft
+gewahrt werden kann. Diese Verständigung ist vorliegend zweifelsfrei erfolgt
+(act. 16). Dass ein Entscheid des Zwangsmassnahmengerichts in Nachachtung der
+96-Stunden-Frist mündlich, telefonisch (oder auch per E-Mail) ausserhalb der
+Büroöffnungszeiten erfolgt, ist von den Parteien hinzunehmen. Die an der
+Haftverhandlung nicht persönlich vertretene Staatsanwaltschaft hat indes
+keinen Anspruch darauf, dass ihr der Entscheid des Zwangsmassnahmengerichts
+telefonisch mitgeteilt wird.
+Nach dem Gesagten sind die
+Beanstandungen der Parteien hinsichtlich der Eröffnung des Entscheids des
+Zwangsmassnahmengerichts per E-Mail unbegründet. Wie bereits dargelegt,
+kündigte die Staatsanwaltschaft umgehend nach Erhalt des E-Mails vom 27.
+September 2019, 5.08 Uhr, ihre Beschwerde an, was zur Folge hatte, dass die
+Haft bis zur superprovisorischen Anordnung der Untersuchungshaft durch das
+Obergericht (Art. 388 lit. b StPO [act. 29]) fortdauerte. Demnach befand sich
+der Beschuldigte nicht rechtswidrig in Untersuchungshaft.
+2.
+Gemäss
+Art. 222 StPO kann die verhaftete Person Entscheide über die
+Anordnung oder Verlängerung der Untersuchungshaft mit Beschwerde anfechten.
+Nach Rechtsprechung des Bundesgerichts steht ein gleiches Beschwerderecht
+auch der Staatsanwaltschaft zu, wenn das Zwangsmassnahmengericht einen
+Haftentlassungsentscheid fällt. Die Beschwerde ist dabei innert drei Stunden
+seit Eröffnung des angefochtenen Entscheids zu erheben (BGer 1B_121/2019 E.
+2.4. ff. Urteil vom 8. April 2019). Diese Frist ist vorliegend eingehalten
+(act. 20).
+Die übrigen
+Eintretensvoraussetzungen geben zu keinen Bemerkungen Anlass. Auf die
+Beschwerde der Staatsanwaltschaft ist einzutreten.
+Mit Beschwerde an das Obergericht
+können in Bezug auf den angefochtenen Entscheid Rechtsverletzungen und eine
+unvollständige oder unrichtige Feststellung des Sachverhalts sowie
+Unangemessenheit gerügt werden (Art. 393 Abs. 2 StPO).
+Die Akten des vorinstanzlichen
+Verfahrens SG.2019.00098 (act. 1-25) wurden beigezogen.
+III.
+1.
+1.1.
+Untersuchungshaft ist
+nur zulässig, wenn die beschuldigte Person eines Verbrechens oder eines
+Vergehens dringend verdächtig ist und ernsthaft namentlich zu befürchten ist,
+dass sie sich entweder durch Flucht dem Strafverfahren oder der zu
+erwartenden Sanktion entzieht, dass sie Personen beeinflusst oder auf
+Beweismittel einwirkt, um so die Wahrheitsfindung zu beeinträchtigen
+(Art. 221 Abs. 1 lit. a und b StPO).
+Der Haftgrund des dringenden
+Tatverdachts setzt voraus, dass genügend konkrete Anhaltspunkte für eine
+Straftat und eine Beteiligung des Beschuldigten daran vorliegen und die
+Untersuchungsbehörden somit das Bestehen eines dringenden Tatverdachts mit
+vertretbaren Gründen bejahen durften. Im Haftprüfungsverfahren genügt der
+Nachweis von konkreten Verdachtsmomenten, wonach das inkriminierte Verhalten
+mit erheblicher Wahrscheinlichkeit die fraglichen Tatbestandsmerkmale
+erfüllen könnte. Das Beschleunigungsgebot in Haftsachen lässt keinen Raum für
+ausgedehnte Beweismassnahmen. Zur Frage des dringenden Tatverdachts hat das
+Haftgericht weder ein eigentliches Beweisverfahren durchzuführen noch dem
+erkennenden Strafgericht vorzugreifen (BGE 143 IV 316 E. 3.1).
+1.2.
+Der
+Beschuldigte wird eines Angriffs im Sinne von Art. 134 StGB
+dringend verdächtigt (act. 1). Dabei handelt es sich um ein Verbrechen
+im Sinne von Art. 10 Abs. 2 StGB, was die Voraussetzung von
+Art. 221 Abs. 1 erster Satzteil StPO erfüllt.
+1.3.
+Die Staatsanwaltschaft führt in Bezug auf einen versuchten
+Auftragsmord vom 3. Oktober 2018, verübt in [...] zum Nachteil von
+A.______ [der Beschuldigte], eine umfassende Strafuntersuchung. Im Rahmen
+dieser Strafuntersuchung wurden bereits mehrere beschuldigte Personen in
+Untersuchungshaft versetzt, u.a. auch H.______. H.______ gab in der
+Einvernahme vom 19. September 2019 an, er und I.______ seien in der
+Nacht vom 19. auf den 20. Mai 2019 [recte: 2017] im Club Y.______ in [...]
+von A.______, K.______ und J.______ zusammengeschlagen worden (act. 2, act.
+2/4).
+1.4.
+1.4.1.
+Gestützt auf die Aussage von H.______ verdächtigt die
+Staatsanwaltschaft den Beschuldigten, in der Nacht vom 19./20. Mai 2017 mit
+einem Baseballschläger zuerst auf I.______ eingeschlagen zu haben. In der
+Folge hätten K.______ und J.______ H.______ festgehalten, während der
+Beschuldigte mit dem Baseballschläger auf den Kopf, den Rücken, die Hände und
+die Beine von H.______ eingeschlagen habe.
+Der Beschuldigte habe anlässlich seiner Hafteröffnung vom
+23. September 2019 bestritten, am Angriff auf H.______ und I.______
+beteiligt gewesen zu sein. Stattdessen habe er angegeben, H.______ und
+I.______ in der Nacht vom 19./20. Mai 2017 aus seinem Club Y.______
+rausgeworfen und ihnen verboten zu haben, den Club wieder zu betreten [der
+Beschuldigte war zu dieser Zeit der Inhaber des Clubs Y.______; vgl. act. 2/1
+S. 5 Frage 7, act. 2/4 S. 8 Frage 5, act. 2/1]. Weiter habe der
+Beschuldigte behauptet, er sei in der Nacht vom 19./ 20. Mai 2017
+von I.______ beschimpft und von H.______ mit einem "Spickmesser"
+angegriffen worden und es habe vor dem Club eine Schlägerei stattgefunden.
+Der Beschuldigte habe angegeben, dass H.______ und I.______ an [...]
+[Anmerkung der Staatsanwaltschaft: gemeint sei wohl G.______, welcher einer
+der mutmasslichen Täter des versuchten Mordes vom 3. Oktober 2018 zum
+Nachteil des Beschuldigten sei] CHF 20'000.— bezahlt hätten, um die Tat
+vom 3. Oktober 2018 zu seinem Nachteil auszuführen. Jedoch habe der
+Beschuldigte sich nicht erklären können, weshalb H.______ und I.______ eine
+solche Summe hätten bezahlen sollen, weil er nach seinem Dafürhalten mit
+H.______ keine Probleme gehabt habe.
+Gemäss Staatsanwaltschaft habe sich H.______ mit seinen Aussagen [in
+der Straf-untersuchung bezüglich des Auftragsmordes] zwar selber schwer
+belastet, jedoch stimmten seine Aussagen mit den bisherigen
+Ermittlungserkenntnissen überein. Die Aussagen des Beschuldigten hingegen,
+wonach dieser mit H.______ keine Probleme gehabt habe und er nicht wisse,
+weshalb dieser eine fünfstellige Summe bezahlt habe, um ihn zu ermorden,
+seien nicht glaubhaft. Die Staatsanwaltschaft geht davon aus, dass der
+Angriff auf H.______ und I.______ in der Nacht vom 19./20. Mai 2017
+im Club Y.______ das Tatmotiv für den versuchten Mord zum Nachteil des
+Beschuldigten vom 3. Oktober 2018 gewesen war (act. 1 S. 2 f.).
+1.4.2.
+Der Beschuldigte brachte im vorinstanzlichen Verfahren hinsichtlich
+des dringenden Tatverdachts Folgendes vor:
+Der Tatverdacht betreffend den (angeblichen) Angriff fusse einzig auf
+der wenig detaillierten und deshalb auch unglaubhaften Anschuldigung von
+H.______. Diese seien auch deshalb unglaubhaft, weil gegen H.______ derzeit
+wegen des versuchten Mordes [Delikt vom 3. Oktober 2019, verübt am
+Beschuldigten] ermittelt werde (act. 14 S. 2 ff.). Weiter berichtete der
+Beschuldigte anlässlich der Haftverhandlung vor dem Zwangsmassnahmengericht,
+dass H.______ am angeblichen Angriffstag [in der Nacht vom
+19./20. Mai 2017] seinen Laden [Club Y.______] demoliert habe. Er
+habe Stühle runtergeschmissen und Streit verursacht. Ein Freund sei zu ihm
+gekommen und habe gesagt: "Geh und sage Gute Nacht zur stärksten Person
+in Zürich". Wenn jemand in Zürich einen Club eröffnen wolle, dann müsse
+er zuerst mit ihm [gemeint wohl H.______] sprechen. H.______ habe ihn
+geohrfeigt und dann das Messer gezückt. Jemand habe H.______ auf den Kopf
+geschlagen. Schliesslich habe er [der Beschuldigte] das Licht ausgeschaltet
+und H.______ rausgeworfen. Er [der Beschuldigte] habe H.______ aber nie mit
+einem Baseballschläger geschlagen. H.______ habe ihn [den Beschuldigten]
+gebeten, auf Anzeigeerstattung zu verzichten (act. 13 S. 3 f., act. 2/1 S. 4
+unten).
+Der Beschuldigte vermutet, dass sich H.______ an ihm habe rächen
+wollen, weil er ihn aus seinem Club geworfen habe. Deshalb habe H.______ den
+Auftrag erteilt, ihn [den Beschuldigten] zu ermorden. Die falschen
+Anschuldigungen von H.______ seien eine Rache, weil er [H.______] in
+Untersuchungshaft sitze, und ergäben keinen dringenden Tatverdacht
+(act. 14 S. 2 ff.).
+1.4.3.
+Die Vorinstanz zog
+in Erwägung, dass derzeit noch unklar sei, in welchem Verhältnis der
+Beschuldigte zu I.______ und H.______ stehe und was sein Tatbeitrag gewesen
+sei bzw. ob er überhaupt einen solchen geleistet habe. Fest stehe, dass sich
+der Beschuldigte zum Zeitpunkt der in Frage stehenden Tat im Club Y.______
+aufgehalten habe. Fakt sei auch, dass sich der Tatverdacht offenbar allein
+auf die Aussagen von H.______ beziehe und dieser werde in einem anderen
+Verfahren eines äusserst schweren Gewaltdelikts [versuchter Mord] dringend
+verdächtigt (act. 14 S. 4). Nicht zu vernachlässigen sei, dass H.______ trotz
+seiner angeblich schweren Verletzungen den Beschuldigten nie angezeigt habe.
+Der Vorwand, er habe I.______ schützen wollen, sei nicht nachvollziehbar.
+Weiter habe sich H.______ die Ursache des mutmasslich an ihm verübten Angriffs
+nicht erklären können (act. 2/4 S. 11 Frage 30), was weitere Fragen zum
+Geschehen aufwerfe. Inwiefern also die Aussagen von H.______ glaubhafter
+seien als diejenigen des Beschuldigten und damit eine objektive
+Tatsachengrundlage für die Begründung des dringenden Tatverdachts stellen
+sollten, sei derzeit fraglich.
+Das Argument der
+Staatsanwaltschaft, H.______ und I.______ hätten ohne Tatmotiv keine
+fünfstellige Summe für eine Auftragstat bezahlt, sei nicht stichhaltig.
+Dennoch könne davon ausgegangen werden, dass in der Nacht vom
+19./20. Mai 2017 H.______ und I.______ in eine Auseinandersetzung
+involviert gewesen seien. Es sei nicht auszuschliessen, dass es sich beim
+Vorfall vom 3. Oktober 2018, bei welchem der Beschuldigte schwer
+verletzt worden sei, um einen damit zusammenhängenden Racheakt gehandelt
+habe. Damit liege ein gewichtiges Indiz gegen den Beschuldigten vor und der
+dringende Tatverdacht (i.S.v. Art. 221 Abs. 1 StPO) könne aus
+heutiger Sicht gerade noch bejaht werden (act. 23 S. 5
+Erw. 5.3.).
+1.5.
+1.5.1.
+Die
+Staatsanwaltschaft verweist hinsichtlich des dringenden Tatverdachts in ihrer
+Beschwerde (act. 26) auf ihren Haftantrag vom
+24. September 2019 (act. 1) und legt mit Beschwerdeergänzung
+(act. 32) einen Bericht der Neurochirurgie des Kantonsspitals Winterthur
+vom 16. Juni 2017 über die Verlaufskontrolle einer
+Magnetresonanztomographie des Schädels von H.______ ins Recht (act. 33).
+1.5.2.
+Der Beschuldigte
+verweist in seiner Beschwerdeantwort (act. 38) auf seine Ausführungen vor dem
+Zwangsmassnahmengericht (act. 14). Hinsichtlich des von der
+Staatsanwaltschaft mit Beschwerdeergänzung eingereichten Arztberichts trägt
+der Beschuldigte u.a. vor, dass aus diesem Bericht nicht hervorgehe, wie
+diese Verletzungen verursacht worden seien und gestützt auf diesen Bericht
+könne nicht auf ihn zurückgeschlossen werden (act. 38 S. 4 f. Rz 9).
+1.6.
+1.6.1.
+Wie der
+Beschuldigte und die Vorinstanz zutreffend feststellten, gründet der
+dringende Tatverdacht hauptsächlich auf den Aussagen von H.______ vom 19. September 2019
+(act. 2, act. 2/4). Diesen Aussagen ist zu entnehmen, dass sich H.______ an
+das genaue Datum des Vorfalls im Club Y.______ erinnern konnte. Weiter konnte
+H.______ die mutmasslich am Angriff beteiligten Personen beim Namen nennen
+[A.______, J.______, K.______] und er konnte überdies den jeweiligen
+Tatbeitrag sowie die Tatwaffe der Angreifer beschreiben. H.______ konnte
+angeben, wo er vom Baseballschläger getroffen wurde ["der erste Schlag
+ging gegen mein Stirnbein und der zweite gegen meinen Hinterkopf. Ich weiss
+aber nicht, wie oft sie auf mich eingeschlagen haben, da ich die Kontrolle
+verloren habe. (…) Die Verletzungen an meinem Kopf waren fatal"] (act.
+2/4 Fragen 6 ff., Fragen 19 f.). Damit weisen die Aussagen von H.______
+entgegen dem Dafürhalten des Beschuldigten keinen sehr geringen
+Detaillierungsgrad auf.
+Auch der Beschuldigte gab bei der
+Polizei zu Protokoll, dass sich H.______ und I.______ in der Nacht vom
+19./20. Mai 2017 in seinem Club Y.______ aufgehalten und randaliert
+hätten. Nach seinen Darstellungen der Ereignisse am besagten Abend habe er
+die Randalierer aus dem Club geworfen und danach habe draussen eine
+Schlägerei stattgefunden, an der er jedoch nicht beteiligt gewesen sei. Er
+wisse auch nicht, wer in diese Schlägerei involviert gewesen sei (act. 2/1
+S. 4, act. 2/2 S. 2 Frage 1).
+Nach dem Gesagten ist
+festzuhalten, dass sich der Beschuldigte wie auch H.______ erstaunlicherweise
+[immerhin liegt dieser Zeitpunkt rund 2.5 Jahre zurück] sehr genau an die
+Nacht vom 19./20. Mai 2017 erinnern können. Sie wussten, wo sie sich damals
+aufgehalten hatten [im Club Y.______] und was nach ihrer Ansicht an diesem
+Abend passiert sein soll. Dies ist ein gewichtiges Indiz dafür, dass an jenem
+Abend im Club Y.______ etwas Bedeutsames vorgefallen ist.
+1.6.2.
+Im Bericht der
+Neurochirurgie des Kantonsspitals Winterthur vom 16. Juni 2017 (act. 33)
+wird der Befund einer Magnetresonanztomographie vom Schädel von H.______ vom
+15. Juni 2017 festgehalten und u.a. ausgeführt, dass H.______ eine Fraktur
+des Os frontale [Stirnbein] erlitten hatte. Damit ist in Übereinstimmung mit
+den Aussagen von H.______ davon auszugehen, dass H.______ einen heftigen
+Schlag aufs Stirnbein erhalten hatte. Ebenfalls geht aus diesem Bericht
+hervor, dass bereits am 20. resp. am 29. Mai 2017 eine
+Voruntersuchung mittels Computertomographie stattgefunden hatte. Damit ist
+derzeit davon auszugehen, dass H.______s Aussagen, wonach er sich diese
+Verletzungen in der Nacht vom 19./20. Mai 2017 zugezogen hatte, glaubhaft
+sind. Bei diesem Sachverhalt zielen die Mutmassungen des Beschuldigten, wie
+stark die Verletzung von H.______ geblutet haben könnte und in welchem Spital
+er medizinische Hilfe hätte in Anspruch nehmen sollen (act. 38 S. 4 f. Rz 9),
+völlig ins Leere.
+1.6.3.
+Aufgrund der Akten
+ist derzeit davon auszugehen, dass H.______ und I.______ für eine
+fünfstellige Summe jemanden beauftragt hatten, den Beschuldigten
+"zusammenzuschlagen" [Strafuntersuchung wegen versuchten Mordes,
+Delikt vom 3. Oktober 2018], was selbst dem Beschuldigten bekannt
+war (act. 1, act. 2/2 S. 2) und es ist der Staatsanwaltschaft
+beizupflichten, dass es hiefür ein Tatmotiv braucht. Derzeit scheint eher
+unwahrscheinlich, dass der vom Beschuldigten behauptete Rausschmiss von
+H.______ aus dem Club Y.______ das Tatmotiv für ein derart schweres
+Gewaltdelikt [versuchter Mord] war.
+1.6.4.
+H.______ gab in
+seiner Einvernahme an, dass er diesen Vorfall in [...] der Polizei nicht
+gemeldet habe, weil sich I.______ illegal in der Schweiz aufgehalten habe und
+sich vor einer Verhaftung gefürchtet habe (act. 2/4 S. 10 Frage 25). Der
+Beschuldigte verzichtete ebenfalls auf Anzeigeerstattung, weil H.______ ihn
+darum gebeten habe (act. 2/1 S. 4 unten). Gestützt auf diese Aussagen ist
+davon auszugehen, dass der Beschuldigte und H.______ ihren Konflikt
+"unter sich" regeln wollten, indem offensichtlich im gegenseitigen
+Einverständnis auf Anzeigeerstattung verzichtet wurde. Eine derartige
+Absprache ist schon aus rechtsstaatlicher Sicht unhaltbar. Im vorliegenden
+Fall geht es um ein sehr schweres Gewaltdelikt [Angriff i.S.v. Art. 134
+StGB], welches mutmasslich das Tatmotiv für ein noch schwereres Gewaltdelikt
+[versuchter Mord i.S.v. Art. 112 StGB i.V.m. Art. 22 Abs. 1
+StGB] war. Die Strafuntersuchung hinsichtlich des dem Beschuldigten
+vorgeworfenen Angriffs auf H.______ und I.______ befindet sich wohl noch am
+Anfang und fusst mutmasslich erst auf den Aussagen von H.______ vom
+19. September 2019 (act. 2), welche jedoch im Hinblick auf den gemäss
+Arztbericht dokumentierten Bruch am Stirnbein (act. 33) glaubhaft sind.
+1.6.5.
+Zusammenfassend ist
+mit der Vorinstanz und gestützt auf den dargelegten Sachverhalt
+festzustellen, dass derzeit genügend Indizien für eine mögliche Beteiligung
+des Beschuldigten am behaupteten Angriff auf H.______ und I.______ in der
+Nacht vom 19./20. Mai 2017 im Club Y.______ vorliegen. Damit ist der
+dringende Tatverdacht im Sinne von Art. 221 Abs. 1 StPO zu bejahen.
+2.
+2.1.
+Weiter gilt zu
+prüfen, ob beim Beschuldigten auch von Kollusionsgefahr (i.S.v. Art. 221 Abs.
+1 lit. b StPO) auszugehen ist. Kollusionsgefahr liegt vor, wenn ernsthaft zu
+befürchten ist, dass der Beschuldigte Personen beeinflusst oder auf
+Beweismittel einwirkt, um so die Wahrheitsfindung zu beeinträchtigen. Dies
+kann insbesondere in der Weise erfolgen, dass sich der Beschuldigte mit
+Zeugen, Auskunftspersonen, Sachverständigen oder Mitbeschuldigten ins
+Einvernehmen setzt oder sie zu wahrheitswidrigen Aussagen veranlasst, oder
+dass er Spuren und Beweismittel beseitigt. Strafprozessuale Haft wegen
+Kollusionsgefahr soll verhindern, dass der Beschuldigte die wahrheitsgetreue
+Abklärung des Sachverhalts vereitelt oder gefährdet. Konkrete Anhaltspunkte
+für Kollusionsgefahr können sich namentlich ergeben aus dem bisherigen
+Verhalten des Beschuldigten im Strafprozess, aus seinen persönlichen
+Merkmalen, aus seiner Stellung und seinen Tatbeiträgen im Rahmen des
+untersuchten Sachverhalts sowie aus den persönlichen Beziehungen zwischen ihm
+und den beteiligten Personen. Bei der Frage, ob im konkreten Fall eine
+massgebliche Beeinträchtigung des Strafverfahrens wegen Kollusion droht, ist
+auch der Art und Bedeutung der von Beeinflussung bedrohten Aussagen bzw.
+Beweismittel, der Schwere der untersuchten Straftaten sowie dem Stand des
+Verfahrens Rechnung zu tragen (BGE 132 I 21 E. 3.2).
+2.2.
+2.2.1.
+Die
+Staatsanwaltschaft geht beim Beschuldigten von Kollusionsgefahr aus.
+Es bestehe die Gefahr, dass der Beschuldigte mit den weiteren
+Tatbeteiligten Kontakt aufnehmen könnte, was die Ermittlungen der Strafverfolgungsbehörde
+behindern oder verunmöglichen könnte. Die genaue Rollenverteilung und der
+genaue Tathergang seien nicht geklärt. Zwei mutmassliche Täter befänden sich
+in Untersuchungshaft und eine weitere Person sei flüchtig (act. 1 S. 3 f.).
+2.2.2.
+Das
+Zwangsmassnahmengericht verneinte die Kollusionsgefahr mit der Begründung,
+dass das Risiko einer Kollusion stetig sinke, je weiter die Straftat
+zurückliege. Seit der in Frage stehenden Tat seien zweieinhalb Jahre
+vergangen. Es sei gerichtsnotorisch, dass bereits kurz nach dem Vorfall in
+[...] festgestanden habe, dass es sich dabei um Rache handeln könnte. Es sei
+daher nicht davon auszugehen, dass sich die Strafuntersuchung betreffend den
+Vorfall vom 19./20. Mai 2017 noch ganz am Anfang befinde. Der Beschuldigte
+sei als Opfer vor einigen Monaten über die Haftanordnung von H.______
+benachrichtigt worden (Art. 214 Abs. 4 StPO) und habe andere
+Personen, welche am Vorfall in [...] beteiligt gewesen seien, bereits warnen
+können. Zum jetzigen Zeitpunkt könne nicht (mehr) von Kollusionsgefahr
+ausgegangen werden (act. 23 S. 6 f. Erw. 6.1.).
+2.2.3.
+In ihrer Beschwerde
+sowie in der Ergänzung derselben führt die Staatsanwaltschaft aus, die
+Vorinstanz verkenne, dass der Beschuldigte bis anhin gar keinen Grund gehabt
+habe, Kollusionshandlungen vorzunehmen. Der Beschuldigte sei erst am
+24. September 2019 mit den Tatvorwürfen des Angriffs vom
+19./20. Mai 2017 konfrontiert worden und davor habe er nicht
+gewusst, dass diesbezüglich gegen ihn ermittelt werde. Überdies gehe die
+Vorinstanz fehl in der Annahme, dass sich die Kollusionsgefahr lediglich auf
+Absprachen vor einer allfälligen Festnahme beziehe. Die Kollusionsgefahr
+umfasse auch Kollusionshandlungen in Bezug auf Absprachen unter
+Berücksichtigung der aktuellen Aktenlage und konkreten Tatvorwürfe. Die
+Kollusionsgefahr falle bei mehreren Tatbeteiligten eines Verbrechens
+grundsätzlich auch nicht einfach durch Zeitablauf dahin. Würde man den
+Ausführungen der Vorinstanz folgen, so wäre Untersuchungshaft aufgrund
+mangelnder Haftgründe bei einer Vielzahl von Ermittlungen ausgeschlossen,
+welche erst nach Monaten oder Jahren aufgeklärt werden könnten (act. 26, act.
+31).
+2.3.
+2.3.1.
+Das Argument der
+Vorinstanz, es könne zum jetzigen Zeitpunkt nicht mehr von Kollusionsgefahr
+ausgegangen werden, da in den zweieinhalb Jahren nach dem Vorfall im Club
+Y.______ bereits Kollusionshandlungen stattgefunden hätten, ist nicht
+stichhaltig. Wie die Staatsanwaltschaft zutreffend ausführt, müsste bei
+dieser Argumentation bei den wohl meisten Delikten die Kollusionsgefahr
+verneint werden, da grundsätzlich immer unmittelbar nach Tatbegehung die
+Möglichkeit besteht, kollusive Handlungen vorzunehmen, ausser die Täterschaft
+wird in flagranti erwischt. In den meisten Fällen ist es vielmehr so, dass in
+einer Strafuntersuchung die hinreichenden Verdachtsmomente für die
+Beantragung von Untersuchungshaft erst zu einem späteren Zeitpunkt ermittelt
+werden können.
+2.3.2.
+Beim vorliegend zu
+untersuchenden (schweren) Gewaltdelikt ist derzeit von drei Angreifern
+auszugehen, wobei gemäss den Darstellungen der Staatsanwaltschaft noch ein
+Angreifer flüchtig ist. Hierbei handelt es sich mutmasslich um J.______ (act.
+2/1 S. 9 Fragen 37, 40). Der Beschuldigte gibt in seiner Einvernahme vom
+24. September 2019 an, J.______ sowie K.______ zu kennen und
+überdies wusste er zu berichten, dass sie [wohl gemeint die Gebrüder …] mit
+der Familie H.______ Probleme gehabt hätten (act. 2/1 S. 8 Frage
+30). Damit ist davon auszugehen, dass sich der Beschuldigte mit dem noch flüchtigen
+J.______ absprechen könnte, wenn er auf freiem Fuss wäre.
+2.3.3.
+Entgegen den
+vorinstanzlichen Erwägungen ist davon auszugehen, dass sich die
+Strafuntersuchung betreffend den Angriff im Club Y.______ vom
+19./20. Mai 2017 noch am Anfang befindet. Aus den Akten geht
+hervor, dass H.______ seine den Beschuldigten belastenden Aussagen am
+19. September 2019 tätigte (act. 2). Zudem legt die
+Staatsanwaltschaft plausibel dar, dass der Beschuldigte erst am
+24. September 2019 mit den Tatvorwürfen des Angriffs in [...]
+konfrontiert wurde und er bis anhin nicht wusste, dass diesbezüglich gegen
+ihn ermittelt wird. Davon musste er aufgrund seiner eigenen Angaben auch
+nicht ausgehen, denn schliesslich willigte er auf Geheiss von H.______ dazu
+ein, auf eine Strafanzeige zu verzichten (act. 2/1 S. 4 unten und S. 5
+insbesondere Frage 11: "Seit ich gesagt habe, dass ich keine Anzeige
+mache, kam er auch nicht mehr in meinen Club", S. 9 Frage 39). Es ist
+mit der Staatsanwaltschaft davon auszugehen, dass sich der Beschuldigte in
+Sicherheit wähnte und bis anhin keinen Grund hatte, Kollusionshandlungen
+vorzunehmen. Dies ist insbesondere auch deshalb bedeutsam, weil der
+mutmassliche Angriff vom 19./20. Mai 2017 [resp. die Schlägerei gemäss
+Darstellung des Beschuldigten]
+vor
+dem Club Y.______ stattfand (act.
+2/1 S. 4). Demnach ist davon auszugehen, dass noch weitere Personen die
+Geschehnisse beobachteten und auch auf diese Personen eingewirkt werden
+könnte.
+2.3.4.
+Daran vermag auch
+der Umstand nichts zu ändern, dass der Beschuldigte in der Strafuntersuchung
+betreffend den versuchten Mord vom 3. Oktober 2018 – laut Vorinstanz –
+bereits vor einigen Monaten über die Haftanordnung von H.______ informiert
+wurde. Denn wie bereits dargelegt, ist gestützt auf die verfügbaren Akten
+davon auszugehen, dass die Beteiligten diese Angelegenheit "unter
+sich" haben regeln wollen. Dass H.______ in der Strafuntersuchung
+betreffend den versuchten Mord vom 3. Oktober 2018 aussagt und
+damit nicht nur den Beschuldigten im vorliegenden Verfahren sondern vielmehr
+auch sich selber schwer belastet, musste der Beschuldigte bis zu seiner
+Festnahme nicht einmal vermuten (vgl. act. 2/1 S. 10 Frage 44
+["H.______ ist intelligent, dass er dies nun so macht (…)"]).
+Nach dem Gesagten ist aus
+heutiger Sicht und entgegen den vorinstanzlichen Erwägungen beim
+Beschuldigten von Kollusionsgefahr (i.S.v. Art. 221 Abs. 1
+lit. b StPO) auszugehen. Die Vorinstanz hat bezüglich der konkreten
+Kollusionsgefahr beim Beschuldigten den Sachverhalt unvollständig festgestellt
+und infolgedessen auch das Recht unrichtig angewendet.
+3.
+3.1.
+Weiter ist zu prüfen, ob beim Beschuldigten auch
+von Fluchtgefahr (Art. 221 Abs. 1 lit. a. StPO) auszugehen ist.
+Nach der Rechtsprechung des Bundesgerichts
+braucht es für die Annahme der Fluchtgefahr eine gewisse Wahrscheinlichkeit,
+dass sich der Beschuldigte, wenn er in Freiheit wäre, der Strafverfolgung und
+dem Vollzug der Strafe durch Flucht entziehen würde. Die Schwere der
+drohenden Strafe darf als ein Indiz für Fluchtgefahr gewertet werden; sie
+genügt jedoch für sich allein nicht, um den Haftgrund zu bejahen. Vielmehr
+müssen die konkreten Umstände des betreffenden Falles, insbesondere die
+gesamten Verhältnisse des Beschuldigten, in Betracht gezogen werden (BGE 117
+Ia 69 E. 4a,
+BGE 108 Ia 67
+E. 3).
+3.2.
+3.2.1.
+Die
+Staatsanwaltschaft geht beim Beschuldigten auch von Fluchtgefahr aus. Der
+Beschuldigte sei kosovarischer Staatsangehöriger, im Kosovo aufgewachsen und
+verfüge gemäss eigenen Angaben im Kosovo auch über enge familiäre Beziehungen
+(Eltern, Geschwistern [act. 2/2]). Weiter gehe der Beschuldigte keiner
+geregelten Arbeitstätigkeit in der Schweiz nach. Gemäss seinen eigenen
+Angaben gehe er einer selbständigen Tätigkeit nach, welche er allerdings je
+nach gesundheitlichem Zustand nur in einem Teilzeitpensum von ungefähr 50 %
+ausübe (act. 26). Der Umstand, Inhaber eines Baugeschäfts zu sein, ohne über
+eine entsprechende Stellvertretung zu verfügen, genüge nicht, um von einer
+geregelten Arbeitstätigkeit auszugehen (act. 32). Dem Beschuldigten werde die
+Beteiligung an einem schweren Verbrechen vorgeworfen. Aus den dargelegten
+Gründen lägen konkrete Indizien vor, dass sich der Beschuldigte, sollte er
+auf freien Fuss gesetzt werden, dem Strafverfahren oder der zu erwartenden
+Sanktion durch Flucht entziehe (act. 26).
+3.2.2.
+Die Vorinstanz
+verneinte auch die Fluchtgefahr mit der Begründung, dass die kosovarische
+Herkunft des Beschuldigten und seine familiären Beziehungen zum Kosovo keine
+Fluchtgefahr zu begründen vermöchten. Überdies sei er bereit, seine
+Ausweisdokumente zu deponieren und sich regelmässig bei den
+Strafverfolgungsbehörden zu melden (act. 23 S. 7 Erw. 6.2.).
+3.3.
+3.3.1.
+Aus den Akten geht
+hervor, dass der Beschuldigte über intakte familiäre Beziehungen im Kosovo
+verfügt. Der Beschuldigte gab weiter an, dass er seit 20 Jahren in der
+Schweiz lebe. Seine Frau und seine Kinder seien auch hier. Es gehe ihm
+gesundheitlich nicht gut. Er arbeite 50 % auf dem Bau (selbständig
+erwerbend) und habe keinen Stellvertreter (act. 2/2 S. 3 insbesondere
+Fragen 2-5, S. 5). Seine Frau arbeite 100 %. Eine Tochter sei 17 Jahre
+alt und die Zwillinge seien 13 Jahre alt. Er werde aktuell von der Suva
+unterstützt. Ab 1. Oktober habe er einen Mitarbeiter (act. 13 S. 2 f.).
+Im vorinstanzlichen Verfahren liess der Beschuldigte durch seinen Verteidiger
+noch vortragen, bei einer Flucht müsse er seine Familie und sein mühsam
+aufgebautes KMU aufgeben, was er nicht wolle (act. 14 S. 7 Rz 23).
+3.3.2.
+Nach dem Gesagten
+ist mit der Staatsanwaltschaft davon auszugehen, dass der Beschuldigte in der
+Schweiz über keine geregelte Anstellung verfügt. Offenbar betrieb der
+Beschuldigte in der Vergangenheit den Club Y.______ in [...] sowie ein
+weiteres Nachtlokal in […] (act. 2/1 S. 4 oben). Aktuell aber arbeitet der
+Beschuldigte 50 % auf dem Bau (ohne Stellvertreter). Bei diesem
+Sachverhalt kann von einem "mühsam aufgebauten KMU" nicht die Rede
+sein.
+Erstaunlich ist, dass der
+Beschuldigte, obwohl er bereits seit 20 Jahren in der Schweiz lebt, kein oder
+nur wenig Deutsch spricht und für alle Einvernahmen sowie auch für die
+Verhandlung vor dem Zwangsmassnahmengericht auf eine Übersetzung in Albanisch
+angewiesen war. Ein grosser Teil seiner Familie lebt im Kosovo. Dem
+Beschuldigten wird die Beteiligung an einem schweren Gewaltdelikt
+vorgeworfen. Damit liegen konkrete Indizien vor, dass sich der Beschuldigte,
+sollte er auf freien Fuss gesetzt werden, der Strafuntersuchung durch Flucht
+in den Kosovo, wo er über ein intaktes Familiennetz verfügt und sich dort
+auch verständigen kann, entziehen könnte. Beim Beschuldigten ist derzeit –
+entgegen den vorinstanzlichen Erwägungen (act. 23 S. 7 Erw. 6.2.) –
+auch von Fluchtgefahr (i.S.v. Art. 221 Abs. 1 lit. a StPO)
+auszugehen.
+4.
+4.1.
+Weiter hat die
+Untersuchungshaft verhältnismässig zu sein (Art. 197 Abs. 1
+lit. c und lit. d StPO). Konkretisiert wird der Verhältnismässigkeitsgrundsatz
+in Art. 237 Abs. 1 StPO. Gemäss dieser Norm ordnet das
+zuständige Gericht an Stelle der Untersuchungs- oder der Sicherheitshaft eine
+oder mehrere mildere Massnahmen (Ersatzmassnahmen) an, wenn sie den gleichen
+Zweck wie die Haft erfüllen (BGE 140 IV 19 E. 2.1.2).
+4.2.
+Seitens des
+Beschuldigten wird diesbezüglich beantragt, der Kollusionsgefahr, soweit sie
+überhaupt vorliege, mit einem Kontaktverbot zu begegnen, was das mildere und
+gleichermassen wirksame Mittel sei. Überdies könne gegenüber ihm eine
+Ausweis- und Schriftensperre angeordnet werden und er könne sich täglich bei
+der Kantonspolizei Glarus melden (act. 38 S. 8 Rz 25 ff.).
+Die Staatsanwaltschaft beantragt
+die Anordnung von Untersuchungshaft für einstweilen einen Monat. Sie brauche
+genügend Zeit, um die ersten Ermittlungshandlungen durchzuführen,
+insbesondere müsse das Mobiltelefon sowie der Laptop des Beschuldigten
+ausgewertet werden und der Beschuldigte müsse mit diesen
+Ermittlungsergebnissen konfrontiert werden. Danach seien mehrere weitere
+Einvernahmen (auch Konfrontationseinvernahmen) durchzuführen (act. 1
+S. 4 f.).
+4.3.
+Der Fluchtgefahr
+könnte vermutlich aufgrund der Umstände [der Beschuldigte lebt mit seiner
+Familie in [...] und geht derzeit immerhin einer reduzierten Arbeitstätigkeit
+nach] mit den vom Beschuldigten vorgeschlagenen Ersatzmassnahmen wirksam
+begegnet werden.
+Jedoch ist beim Beschuldigten
+auch von konkreter Kollusionsgefahr auszugehen. Um diese Kollusionsgefahr zu
+bannen, schlägt der Beschuldigte ein Kontaktverbot vor. Diesbezüglich ist
+festzuhalten, dass sich K.______ derzeit ebenfalls in Untersuchungshaft
+befindet (act. 2/1 S. 9 Fragen 37, 40) und daher bezüglich ihm nicht von
+Kollusionsgefahr auszugehen ist. Anders verhält es sich mit dem noch
+flüchtigen J.______. Selbst wenn dem Beschuldigten verboten würde, J.______
+zu kontaktieren, ist es dennoch möglich, dass der Beschuldigte mit J.______
+kollusive Handlungen vornimmt oder gar auch auf weitere Personen, welche
+möglicherweise in der Nacht vom 19./20. Mai 2017 vor dem Club Y.______ die
+Geschehnisse beobachteten, einwirkt. So kann ein Kontaktverbot zulasten des
+Beschuldigten nur gegenüber bestimmten Personen angeordnet werden
+(
+Art. 237 Abs. 2 lit. g
+StPO
+). Derzeit ist keine weitere Ersatzmassnahme ersichtlich, welche
+geeignet wäre, der konkreten Kollusionsgefahr wirksam zu begegnen.
+Nach dem Gesagten ist für den
+Beschuldigten Untersuchungshaft anzuordnen. Die von der Staatsanwaltschaft
+beantragte Frist von einem Monat ist unter Berücksichtigung der
+vorzunehmenden Ermittlungshandlungen [Auswertung Mobiltelefon und Laptop des
+Beschuldigten, Durchführung (Konfrontations-)Einvernahmen] verhältnismässig.
+5.
+Nach diesen
+Ausführungen ist die Beschwerde der Staatsanwaltschaft gutzuheissen und ist
+für den Beschuldigten Untersuchungshaft einstweilen bis
+Mittwoch,
+23. Oktober 2019
+, anzuordnen.
+Der Beschuldigte ist darauf
+hinzuweisen, dass er bei der Staatsanwaltschaft des Kantons Glarus jederzeit
+ein Haftentlassungsgesuch stellen kann (Art. 226 Abs. 3 StPO;
+Art. 228 StPO). Die Staatsanwaltschaft hat während dieser Haftdauer
+laufend zu überprüfen, ob nach wie vor Haftgründe bestehen.
+IV.
+1.
+Die Regelung der Kosten-
+und Entschädigungsfolgen hat im Endentscheid zu erfolgen (Art. 421 Abs. 1
+StPO). Die Gerichtsgebühren sind zuhanden der das Strafverfahren
+abschliessenden Strafbehörde in Beachtung der Bemessungskriterien von
+Art. 6 der Zivil- und Strafprozesskostenverordnung festzusetzen und
+zu den Untersuchungskosten im Sinne von Art. 326 Abs. 1
+lit. d StPO zu schlagen.
+Nachdem der Beschuldigte
+einstweilen bis am 23. Oktober 2019 in Untersuchungshaft versetzt
+wird, ist auch über die vorinstanzlich getroffene Kostenregelung zu befinden
+(Art. 428 Abs. 3 StPO). Die Gerichtsgebühr für das Verfahren vor
+dem Zwangsmassnahmengericht ist gestützt auf Art. 8 Abs. 1
+lit. b Ziff. 1 i.V.m. Art. 8 Abs. 3 der Zivil- und
+Strafprozesskostenverordnung auf CHF 300.— sowie für das Beschwerdeverfahren
+auf CHF 800.— festzusetzen (Art. 8 Abs. 2 lit. b der Zivil-
+und Strafprozesskostenverordnung).
+Parteientschädigungen sind
+keine zuzusprechen
+(Art. 423 Abs. 1 StPO).
+2.
+Die Entschädigung des
+amtlichen Verteidigers des Beschuldigten für seine im Beschwerdeverfahren
+getätigten Aufwendungen wird durch die Staatsanwaltschaft oder das urteilende
+Gericht bei Abschluss des Strafverfahrens festzusetzen sein (Art. 135 Abs. 2
+StPO).
+____________________
+Das Gericht
+beschliesst
+:
+1.
+Die Beschwerde wird
+gutgeheissen und es werden die Dispositiv-Ziffern 1 bis 3 der
+Verfügung des Zwangsmassnahmengerichts des Kantons Glarus vom
+26. September 2019 im Verfahren SG.2019.00098 aufgehoben.
+2.
+A.______ wird in Untersuchungshaft
+versetzt, dies einstweilen längstens bis am
+Mittwoch, 23. Oktober 2019
+.
+3.
+A.______ wird darauf
+hingewiesen, dass er bei der Staatsanwaltschaft des Kantons Glarus
+jederzeit ein Haftentlassungsgesuch stellen kann.
+4.
+Die Gerichtsgebühr für das
+Beschwerdeverfahren wird auf CHF 800.— festgesetzt.
+Die Gerichtsgebühr für das
+Verfahren vor dem Zwangsmassnahmengericht wird auf CHF 300.—
+festgesetzt.
+5.
+Die Regelung der Kostenauflage
+und allfälliger Entschädigungen wird dem End-entscheid vorbehalten.
+6.
+Schriftliche Mitteilung an:
