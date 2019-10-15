@@ -1,0 +1,99 @@
+---
+decision_id: "gl_gerichte_OG.2019.00062"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2019.00062"
+docket_2: "OGS.2020.91"
+decided: "2019-10-15"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1354&W10_KEY=218274&nTrefferzeile=1&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/312.0/art-090.md", "switzerland/bund/acts/312.0/art-383.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# GL Gerichte OG.2019.00062
+
+## Regeste
+
+Nichtanhandnahme einer Strafuntersuchung
+
+## Text
+
+Glarus Obergericht 15.10.2019 OG.2019.00062 (OGS.2020.91)
+Glaris Obergericht 15.10.2019 OG.2019.00062 (OGS.2020.91)
+Glarona Obergericht 15.10.2019 OG.2019.00062 (OGS.2020.91)
+
+Nichtanhandnahme einer Strafuntersuchung
+
+Kanton Glarus
+Obergericht
+Die Präsidentin
+Verfügung
+vom 15. Oktober 2019
+Verfahren
+OG.2019.00062
+A.______
+Beschwerdeführerin
+vertreten
+durch Rechtsanwalt B.______
+gegen
+Staats- und Jugendanwaltschaft des
+Kantons Glarus
+Beschwerdegegnerin
+betreffend
+Nichtanhandnahme
+einer Strafuntersuchung
+Die
+Präsidentin zieht in Betracht:
+1.
+Gestützt auf die
+Anzeige von A.______ führte die Staatsanwaltschaft des Kantons Glarus gegen
+D.______ eine Strafuntersuchung. Mit Verfügung vom 23. Juli 2019
+stellte die Staatsanwaltschaft das Verfahren ein (SA.2019.00271
+act. 12/1/01). Gegen die Einstellungsverfügung liess A.______ durch
+ihren Rechtsvertreter mit Eingabe vom 5. August 2019 Beschwerde
+erheben und beantragt die Aufhebung der angefochtenen Verfügung (act. 2).
+2.
+Mit Schreiben des
+Obergerichts vom 20. August 2019 (act. 9) wurde A.______ in
+Anwendung von Art. 383 Abs. 1 StPO aufgefordert, innert
+20 Tagen nach Erhalt der Aufforderung einen Kostenvorschuss von
+CHF 600.— einzuzahlen, andernfalls auf ihre Beschwerde nicht eingetreten
+werde.
+3.
+Die
+Beschwerdeführerin hat in der Folge den verlangten Kostenvorschuss innert
+Frist nicht überwiesen (vgl. act. 11 und Art. 90 Abs. 1 StPO).
+4.
+Das Nichtleisten
+des Kostenvorschusses hat zur Folge, dass auf die Beschwerde von A.______ vom
+5. August 2019 nicht einzutreten ist (Art. 383 Abs. 2 StPO). Das
+vorliegende Verfahren ist durch Präsidialentscheid zu erledigen (Art. 31
+Abs. 2 GOG;
+Amtsbericht 2011 S. 230)
+.
+5.
+Bei diesem Ausgang
+des obergerichtlichen Verfahrens ist die Beschwerdeführerin kostenpflichtig
+(Art. 428 Abs. 1 StPO). Die Gerichtsgebühr wird auf CHF 300.— festgesetzt
+(Art. 8 Abs. 2 lit. a
+Verordnung zu den Kosten im Zivil- und Strafprozess)
+.
+____________________
+Die
+Präsidentin verfügt:
+1.
+Auf die Beschwerde von A.______
+vom 5. August 2019 gegen die Einstellungsverfügung der Staatsanwaltschaft
+des Kantons Glarus vom
+23. Juli 2019
+im
+Verfahren
+SA.2019.00271
+wird nicht eingetreten.
+2.
+Die Gerichtsgebühr wird auf
+CHF 300.— festgesetzt und A.______ auferlegt.
+3.
+Schriftliche Mitteilung an:
+[...]
