@@ -1,0 +1,259 @@
+---
+decision_id: "gl_gerichte_VG.2019.00100"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2019.00100"
+docket_2: "VG.2019.856"
+decided: "2019-11-14"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1168&W10_KEY=218274&nTrefferzeile=6&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/837.0/art-001.md", "switzerland/bund/acts/837.0/art-017.md", "switzerland/bund/acts/837.0/art-030.md"]
+---
+
+# GL Gerichte VG.2019.00100
+
+## Regeste
+
+Sozialversicherung - Arbeitslosenversicherung
+
+## Text
+
+Glarus Verwaltungsgericht 14.11.2019 VG.2019.00100 (VG.2019.856)
+Glaris Verwaltungsgericht 14.11.2019 VG.2019.00100 (VG.2019.856)
+Glarona Verwaltungsgericht 14.11.2019 VG.2019.00100 (VG.2019.856)
+
+Sozialversicherung - Arbeitslosenversicherung
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+14. November 2019
+II. Kammer
+in Sachen
+VG.2019.00100
+A.______
+Beschwerdeführerin
+gegen
+Amt für Wirtschaft und
+Arbeit des Kantons Glarus
+Beschwerdegegner
+betreffend
+Einstellung in der Anspruchsberechtigung
+Die Kammer zieht in Erwägung:
+I.
+1.
+A.______ bezieht
+Leistungen der Arbeitslosenversicherung. Am 10. Mai 2019 wurde sie zu einem
+obligatorischen Beratungsgespräch eingeladen. Mit E-Mail vom
+15. Mai 2019 bat sie um eine Terminverschiebung und begründete dies
+damit, am besagten Tag bei der B.______ AG tätig zu sein. Aufgrund
+dessen forderte die zuständige Personalberaterin des Regionalen Arbeitsvermittlungszentrums
+(RAV) A.______ mit E-Mails vom 15. Mai 2019 und vom
+16. Mai 2019 auf, umgehend Auskunft über das Arbeitsverhältnis mit
+der B.______ AG zu erteilen und den schriftlichen Arbeitsvertrag
+einzureichen. Da A.______ dieser Aufforderung nicht nachgekommen war, stellte
+das Amt für Wirtschaft und Arbeit sie am 11. Juni 2019 für die
+Dauer von acht Tagen in der Anspruchsberechtigung ein.
+2.
+Am 19. Juni 2019
+erhob A.______ gegen die Verfügung vom 11. Juni 2019 beim Amt für
+Wirtschaft und Arbeit Einsprache. Dieses hiess die Einsprache am
+26. August 2019 teilweise gut und änderte die Verfügung insofern
+ab, als es die Dauer der Einstellung in der Anspruchsberechtigung von acht
+auf fünf Tage reduzierte.
+3.
+In der Folge gelangte
+A.______ mit Beschwerde vom 20. September 2019 ans
+Verwaltungsgericht und beantragte sinngemäss die Aufhebung der Einstellung in
+der Anspruchsberechtigung für die Dauer von fünf Tagen. Das Amt für
+Wirtschaft und Arbeit schloss am 10. Oktober 2019 auf Abweisung der
+Beschwerde; unter Kosten- und Entschädigungsfolgen zu Lasten von A.______.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 1 Abs. 1 des Bundesgesetzes über die obligatorische
+Arbeitslosenversicherung und die Insolvenzentschädigung vom 25. Juni
+1982 (AVIG) i.V.m. Art. 56 und Art. 57 des Bundesgesetzes über den
+Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober 2000
+(ATSG) i.V.m. Art. 12 Abs. 2 des Einführungsgesetzes zum
+Bundesgesetz über die obligatorische Arbeitslosenversicherung und die
+Insolvenzentschädigung vom 6. Mai 1984 (EG AVIG) zur
+Behandlung der vorliegenden Beschwerde zuständig. Da auch die übrigen
+Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde einzutreten.
+2.
+2.1
+Die Beschwerdeführerin machte in ihrer Einsprache
+geltend, sie habe die E-Mails, in welchen sie zur Auskunftserteilung und
+Einreichung eines schriftlichen Arbeitsvertrags aufgefordert worden sei,
+nicht gesehen. Abgesehen davon sei es zwischen ihr und der B.______ AG
+lediglich zu Vertragsverhandlungen gekommen. Die Vertragsunterzeichnung und
+der Arbeitsbeginn seien von der B.______ AG bis dato hinausgezögert
+worden. Entsprechend habe sie auch weder über arbeitsvertragliche
+Informationen noch über einen schriftlichen Vertrag verfügen können. Dies
+habe die Avoi­-Bereichsleiterin der zuständigen RAV-Personalberaterin
+schriftlich mitgeteilt, weshalb sie gutgläubig davon ausgegangen sei, dass
+Letztere über die vorherrschende Situation bereits in Kenntnis gesetzt worden
+sei. Insgesamt könne ihr daher kein einstellungswürdiges Verhalten angelastet
+werden.
+2.2
+Der Beschwerdegegner brachte dagegen im
+Einspracheentscheid vor, die Beschwerdeführerin sei mehrfach zur
+Auskunftserteilung und zur Einreichung eines schriftlichen Arbeitsvertrags
+aufgefordert worden. Überdies habe er ihr unter Beifügung der Broschüre
+"Arbeitslosigkeit – Ein Leitfaden für Versicherte" die Konsequenzen
+der allfälligen Verletzung der Auskunftspflicht aufgezeigt. Ausserdem habe
+die Beschwerdeführerin mit Antwortschreiben vom 17. Mai 2019 zum
+Ausdruck gebracht, dass sie dieser Aufforderung keine Folge leisten werde.
+Soweit sie demnach vorbringe, sie habe die Aufforderung zur
+Auskunftserteilung nicht gesehen, sei ihr nicht zu folgen. Die
+Beschwerdeführerin habe eine Weisung somit nicht nur versehentlich nicht
+befolgt, sondern geradezu verweigert. Allerdings sei vorliegend zu Gunsten
+der Beschwerdeführerin zu berücksichtigen, dass diese am
+27. Mai 2019 der zuständigen RAV-Personalberaterin unaufgefordert
+mitgeteilt habe, dass es bis anhin noch nicht zur Vertragsunterzeichnung
+gekommen sei und sich auch der Arbeitsbeginn auf unbestimmte Zeit
+hinauszögern werde. Somit sei es gerechtfertigt, das beschwerdeführerische
+Fehlverhalten mit fünf Einstelltagen zu sanktionieren, da es sich vorliegend
+lediglich um einen leichten Verstoss gegen die Kontrollvorschriften und
+Weisungen gemäss Art. 30 Abs. 1 lit. d AVIG gehandelt habe.
+3.
+Nach Art. 17 Abs. 1 AVIG
+muss die versicherte Person, welche Versicherungs-leistungen beanspruchen
+will, mit Unterstützung des zuständigen Arbeitsamtes alles Zumutbare
+unternehmen, um Arbeitslosigkeit zu vermeiden oder zu verkürzen. Die
+versicherte Person ist gemäss Art. 30 Abs. 1 AVIG in der
+Anspruchsberechtigung unter anderem dann einzustellen, wenn sie die
+Kontrollvorschriften oder die Weisungen der zuständigen Amtsstelle nicht
+befolgt, namentlich eine zumutbare Arbeit nicht annimmt oder eine
+arbeitsmarktliche Massnahme ohne entschuldbaren Grund nicht antritt, abbricht
+oder deren Durchführung oder Zweck durch ihr Verhalten beeinträchtigt oder
+verunmöglicht (lit. d) oder wenn sie unwahre oder unvollständige Angaben
+gemacht oder in anderer Weise die Auskunfts- oder Meldepflicht verletzt hat
+(lit. e). Im Bereich der Arbeitslosenversicherung ist im Unterschied zu
+anderen Sozialversicherungszweigen eine Leistungskürzung bereits bei leichter
+Fahrlässigkeit vorgesehen (Barbara Kupfer Bucher, Rechtsprechung des
+Bundesgerichts zum Sozialversicherungsrecht, Rechtsprechung des
+Bundesgerichts zum AVIG, 5. A., Zürich/Basel/Genf 2019, S. 233).
+4.
+4.1
+Es ist unbestritten, dass die Beschwerdeführerin
+der Aufforderung ihrer RAV-Personalberaterin, Auskunft über das bestehende
+Arbeitsverhältnis zu erteilen, nicht umgehend nachgekommen ist. Zu prüfen
+bleibt allerdings, ob es sich beim Versäumnis um ein einstellungswürdiges
+Fehlverhalten handelt. Der Beschwerde-gegner stützt die Einstellung in der
+Anspruchsberechtigung sowohl auf lit. d (Nichtbefolgen von Weisungen)
+als auch auf lit. e (Verletzung der Auskunft- oder Meldepflicht) von
+Art. 30 Abs. 1 AVIG.
+4.2
+Macht die versicherte Person unwahre oder
+unvollständige Angaben oder verletzt sie in anderer Weise die Auskunfts- oder
+Meldepflicht, ist sie gemäss Art. 30 Abs. 1 lit. e AVIG in der
+Anspruchsberechtigung einzustellen. Dieser Einstellungstatbestand ist stets
+erfüllt, wenn die versicherte Person die der zuständigen Behörde
+einzureichenden Formulare nicht wahrheitsgemäss oder unvollständig ausfüllt
+oder leistungsrelevante Tatsachen nicht meldet (BGer-Urteil C 288/06 vom
+27. März 2007 E. 2). Unerheblich ist, aus welchen Gründen die
+Pflichtverletzung erfolgte (BGer-Urteil vom 19. Januar 2010 8C_658/2009
+E. 4.4.1). Ebenfalls irrelevant ist, ob die falschen oder unvollständigen
+Angaben für die Ausrichtung der Versicherungsleistungen oder deren Bemessung
+kausal sind (BGE 130 V 385 E. 3.1.2). Für den Einstellgrund keine
+Bedeutung hat sodann, ob die versicherte Person explizit aufgefordert wurde,
+bestimmte Auskünfte zu erteilen. Kommt sie dieser Aufforderung nicht nach,
+liegt eine Verletzung der Auskunftspflicht vor, hingegen ist das Verhalten
+nicht kumulativ als Nichtbefolgen von Weisungen im Sinne von Art. 30 Abs. 1
+lit. e AVIG zu sanktionieren.
+4.3
+. Nachdem die Beschwerdeführerin ihrer
+RAV-Personalberaterin mitgeteilt hatte, dass sie am 17. Juni (recte: Mai)
+2019 bei der B.______ AG arbeiten werde, forderte die Personalberaterin
+sie mit E-Mails vom 15. Mai 2019 und vom 16. Mai 2019 auf, umgehend Auskünfte
+über das Arbeitsverhältnis zu erteilen und den Arbeitsvertrag einzureichen.
+Die Beschwerdeführerin blieb die Antwort schuldig und schrieb mit E-Mail vom
+17. Mai 2019 lediglich, dass sie nicht mehr diskutieren möge. Erst mit E-Mail
+vom 27. Mai 2019 teilte sie der Personalberaterin mit, dass sich der
+Arbeitsstart verzögere. Damit verletzte die Beschwerdeführerin ihre Auskunftspflicht,
+weshalb der Beschwerdegegner zu Recht von einem Einstellgrund im Sinne von
+Art. 30 Abs. 1 lit. e AVIG ausging. Hingegen kann nicht
+zusätzlich darauf geschlossen werden, die Beschwerdeführerin habe eine
+Weisung nicht befolgt (Art. 30 Abs. 1 lit. d AVIG). Namentlich konnte
+sie nicht einen schriftlichen Arbeitsvertrag beschaffen bzw. einreichen,
+da ein solcher noch nicht abgeschlossen worden war. Vorzuwerfen ist ihr
+einzig, dass sie die Beschwerdegegnerin darüber nicht informierte, was wie
+dargelegt unter Art. 30 Abs. 1 lit. d AVIG fällt.
+5.
+5.1
+Die Dauer der Einstellung in der
+Anspruchsberechtigung bemisst sich nach dem Grad des Verschuldens (Art. 30
+Abs. 3 AVIG). Die Sanktionsdauer beträgt bei leichtem Verschulden 1 bis 15
+Tage, bei mittelschwerem Verschulden 16 bis 30 Tage und bei schwerem
+Verschulden 31 bis 60 Tage (Art. 45 Abs. 3
+der Verordnung über
+die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung
+vom 31. August 1983 [AVIV]
+).
+Gestützt
+darauf hat das SECO ein Einstellraster für die kantonale Amtsstelle erlassen
+(
+AVIG-Praxis, ALE, Oktober 2011,
+Rz. D72
+). Dieses entbindet die verfügende Stelle jedoch nicht von
+der Pflicht, das Verhalten der versicherten Person unter Berücksichtigung
+aller wesentlichen Umstände des Einzelfalls, d.h. der objektiven und
+subjektiven Gegebenheiten, zu würdigen und eine dem Verschulden angemessene
+Sanktion festzusetzen (BGer-Urteil vom 22. August 2011 8C_285/2011 E.
+3.2.1). Gemäss Einstellraster ist die Dauer der Einstelltage bei Verletzung der
+Auskunfts- und Meldepflicht anhand des Verschulden im Einzelfall angemessen
+festzusetzen
+(AVIG-Praxis, ALE,
+Oktober 2011, Rz. D79 Ziff. 4)
+.
+5.2
+Vorliegend ist einerseits zu berücksichtigen,
+dass die Beschwerdeführerin durch ihre RAV-Personalberaterin aufgefordert
+wurde, die Angaben zum Arbeitsverhältnis mit der B.______ AG zu liefern.
+Sie antwortete auf die E-Mails, weshalb entgegen ihrer Darstellung
+offensichtlich ist, dass sie um ihre Pflicht wusste, diese aber nicht
+erfüllte. Andererseits ging der Beschwerdegegner nach dem Dargelegten zu
+Unrecht davon aus, dass sich eine Sanktion nicht nur nach Art. 30 Abs. 1 lit.
+e AVIG, sondern auch nach Art. 30 Abs. 1 lit. d AVIG rechtfertige, was
+bereits eine Reduktion der verfügten Einstelltage rechtfertigt. Sodann ist
+dem Umstand Rechnung zu tragen, dass die Beschwerdeführerin selbst nicht über
+die angeforderten Informationen verfügte und darüber hinaus am 27. Mai 2019
+die zuständige RAV-Personalberaterin ohne erneute Aufforderung über die
+aktuelle Sachlage informierte, wovon auch der Beschwerdegegner ausging.
+Schliesslich spricht zu Gunsten der Beschwerdeführerin, dass sie ihren
+Pflichten in der Vergangenheit stets nachgekommen ist und ihr bis dato kein
+Fehlverhalten angelastet werden konnte. Unter Berücksichtigung all dieser
+Umstände erscheint deshalb eine Sanktionierung im unteren Bereich des für
+leichtes Verschulden vorgesehenen Sanktionsrahmens als angemessen.
+Demgemäss ist die Beschwerde teilweise gutgeheissen.
+Disp.-Ziff. 2 des Einspracheentscheids vom 26. August 2019 ist
+dahingehend abzuändern, dass die Beschwerdeführerin für drei Tage in der
+Anspruchsberechtigung eingestellt wird.
+III.
+Die Gerichtskosten sind
+von Gesetzes wegen auf die Staatskasse zu nehmen (Art. 1 Abs. 1 AVIG i.V.m.
+Art. 61 lit. a ATSG).
+Da Parteientschädigungen nur der obsiegenden
+Beschwerde führenden Person zuzusprechen sind (Art. 1 Abs. 1 AVIG i.V.m.
+Art. 61 lit. g ATSG), steht der Beschwerdegegnerin keine solche zu.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird teilweise gutgeheissen. Disp.-Ziff. 2 des
+Einspracheentscheids vom 26.
+August
+2019 wird dahingehend abgeändert, dass die
+Beschwerdeführerin für drei Tage in der Anspruchsberechtigung eingestellt
+wird.
+2.
+Die
+Gerichtskosten werden auf die Staatskasse genommen.
+3.
+Es
+wird keine Parteientschädigung zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
