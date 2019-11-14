@@ -1,0 +1,477 @@
+---
+decision_id: "gl_gerichte_VG.2019.00082"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2019.00082"
+docket_2: "VG.2019.854"
+decided: "2019-11-14"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1166&W10_KEY=218274&nTrefferzeile=7&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-007.md", "switzerland/bund/acts/830.1/art-016.md", "switzerland/bund/acts/830.1/art-017.md", "switzerland/bund/acts/831.20/art-028.md", "switzerland/bund/acts/831.20/art-069.md"]
+---
+
+# GL Gerichte VG.2019.00082
+
+## Regeste
+
+Sozialversicherung - IV
+
+## Text
+
+Glarus Verwaltungsgericht 14.11.2019 VG.2019.00082 (VG.2019.854)
+Glaris Verwaltungsgericht 14.11.2019 VG.2019.00082 (VG.2019.854)
+Glarona Verwaltungsgericht 14.11.2019 VG.2019.00082 (VG.2019.854)
+
+Sozialversicherung - IV
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+14. November 2019
+II. Kammer
+in Sachen
+VG.2019.00082
+A.______
+Beschwerdeführerin
+vertreten durch
+B.______
+gegen
+IV-Stelle Glarus
+Beschwerdegegnerin
+betreffend
+Invalidenrente
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+A.______, geboren am […], meldete sich am
+27. Mai 2005 unter Hinweis auf eine Krebserkrankung (Brusttumor) bei der
+IV-Stelle Glarus zum Bezug von Leistungen der Invalidenversicherung an. Am
+27. November 2007 bzw. 21. Januar 2008 meldete sie sich unter
+zusätzlichem Hinweis auf psychische Beeinträchtigungen erneut zum Bezug von
+Leistungen der Invalidenversicherung an, insbesondere zum Bezug einer
+rückwirkend auszurichtenden Invalidenrente. Am 13. Januar 2010 sprach
+ihr die IV-Stelle ab dem 1. November 2006 eine halbe Invalidenrente und
+ab 1. Januar 2008 befristet bis 31. Juli 2009 eine
+Dreiviertelsrente zu.
+1.2
+Am 10. Januar 2014 meldete sich A.______ unter
+Hinweis auf eine Depression und ein Krebsleiden erneut bei der IV-Stelle zum
+Bezug von Leistungen der Invalidenversicherung an. Die IV-Stelle führte ein
+Rentenrevisionsverfahren durch und sprach ihr am 5. November 2015 eine
+ganze Invalidenrente ab dem 1. November 2014 zu.
+1.3
+In der Folge führte die IV-Stelle von Amtes wegen
+erneut ein Revisionsverfahren durch. Mit Vorbescheid vom 23. April 2019
+teilte sie A.______ mit, sie werde die Invalidenrente auf eine Viertelsrente
+herabsetzen. Am 11. Juni 2019 reduzierte die IV-Stelle in Bestätigung
+des Vorbescheids die bisherige ganze Rente mit Wirkung ab 1. August 2019
+auf eine Viertelsrente.
+2.
+Dagegen gelangte A.______
+mit Beschwerde vom 4. Juli 2019 ans Verwaltungsgericht und beantragte
+sinngemäss die Aufhebung der Verfügung vom 11. Juni 2019 sowie die
+Weiterausrichtung der ganzen Invalidenrente. Die IV-Stelle schloss am
+27. August 2019 auf Abweisung der Beschwerde.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 69 Abs. 1 lit. a des Bundesgesetzes über die
+Invalidenversicherung vom 19. Juni 1959 (IVG) zur Behandlung der
+vorliegenden Beschwerde zuständig. Da auch die übrigen Prozessvoraussetzungen
+erfüllt sind, ist auf die Beschwerde einzutreten.
+2.
+2.1
+Gemäss Art. 8 Abs. 1 des Bundesgesetzes über den
+Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober 2000
+(ATSG) ist Invalidität die voraussichtlich bleibende oder längere Zeit
+dauernde ganze oder teilweise Erwerbsunfähigkeit. Erwerbsunfähigkeit ist
+dabei der durch eine Beeinträchtigung der körperlichen, geistigen oder
+psychischen Gesundheit verursachte und nach zumutbarer Behandlung sowie
+Eingliederung verbleibende ganze oder teilweise Verlust der
+Erwerbsmöglichkeiten auf dem in Betracht kommenden ausgeglichenen
+Arbeitsmarkt (Art. 7 Abs. 1 ATSG).
+2.2
+Nach Art. 28 Abs. 2 IVG besteht bei einem
+Invaliditätsgrad von mindestens 40 % Anspruch auf eine Viertelsrente,
+bei einem solchen von mindestens 50 % auf eine halbe Rente, bei
+mindestens 60 % auf eine Dreiviertelsrente und ab mindestens 70 %
+auf eine ganze Rente. Für die Bestimmung des Invaliditätsgrads wird das
+Erwerbseinkommen, das die versicherte Person nach Eintritt der Invalidität
+und nach Durchführung der medizinischen Behandlung und allfälliger
+Eingliederungs-massnahmen durch eine ihr zumutbare Tätigkeit bei
+ausgeglichener Arbeitsmarktlage erzielen könnte, in Beziehung zum
+Erwerbseinkommen gesetzt, welches sie erzielen könnte, wenn sie nicht invalid
+geworden wäre (Art. 16 ATSG).
+2.3
+Wie körperliche können auch geistige Gesundheitsschäden
+eine Invalidität im gesetzlichen Sinn bewirken. Zu Letzteren zählen neben den
+eigentlichen Geisteskrankheiten auch seelische Abwegigkeiten mit
+Krankheitswert (BGE 130 V 352 E. 2.2.1). Von einer
+invalidisierenden psychischen Störung kann indessen nur bei Vorliegen eines
+medizinischen Substrats gesprochen werden, das durch einen Facharzt schlüssig
+festgestellt wird und nachgewiesenermassen die Arbeits- und Erwerbsfähigkeit
+wesentlich beeinträchtigt. Namentlich darf das klinische Beschwerdebild nicht
+einzig in Beeinträchtigungen bestehen, welche von belastenden psychosozialen
+oder soziokulturellen Faktoren herrühren, sondern hat davon psychiatrisch zu
+unterscheidende Befunde zu umfassen, wie etwa eine von depressiven
+Verstimmungszuständen klar unterscheidbare andauernde Depression im
+fachmedizinischen Sinn oder einen damit vergleichbaren psychischen
+Leidenszustand
+(BGE 127 V 294 E. 5a)
+.
+2.4
+Gemäss Art. 17 Abs. 1 ATSG ist eine Rente von Amtes
+wegen oder auf Gesuch hin für die Zukunft zu erhöhen, herabzusetzen oder
+aufzuheben, wenn sich der Invaliditätsgrad eines Rentenbezügers erheblich
+ändert. Ebenso wird eine formell rechtskräftige Dauerleistung erhöht,
+herabgesetzt oder aufgehoben, wenn sich der ihr zu Grunde liegende
+Sachverhalt nachträglich erheblich verändert (Art. 17 Abs. 2 ATSG).
+Eine Revision wird von Amtes wegen durchgeführt, wenn sie im Hinblick auf
+eine mögliche erhebliche Änderung des Invaliditätsgrads bei der Festsetzung
+der Rente auf einen bestimmten Termin in Aussicht genommen worden ist oder
+wenn Tatsachen bekannt oder Massnahmen angeordnet werden, die eine erhebliche
+Änderung des Invaliditätsgrads als möglich erscheinen lassen (Art. 87
+Abs. 1 der Verordnung über die Invalidenversicherung vom 17. Januar
+1961 [IVV]).
+2.5
+Anlass
+zur Revision von Invalidenrenten gibt jede Änderung in den tatsächlichen
+Verhältnissen, die geeignet ist, den Invaliditätsgrad und damit den
+Rentenanspruch zu beeinflussen. Die Invalidenrente ist daher nicht nur bei
+einer wesentlichen Veränderung des Gesundheitszustands, sondern auch dann
+revidierbar, wenn sich die erwerblichen Auswirkungen des an sich gleich
+gebliebenen Gesundheitszustands erheblich verändert haben oder eine andere
+Art der Bemessung der Invalidität zur Anwendung gelangt
+(BGE 130 V 343 E. 3.5; BGer-Urteil
+9C_604/2016 vom 1. Februar 2017 E. 2.2). Auch die deutliche
+Veränderung der Verhältnisse im Aufgabenbereich stellt einen Revisionsgrund
+dar (BGer-Urteil 9C_410/2015 vom 13. November 2015 E. 4.1 f.).
+Keinen Revisionsgrund bildet hingegen eine nur vorübergehende Änderung des
+Gesundheitszustands oder die unterschiedliche Beurteilung eines im
+Wesentlichen unveränderten (medizinischen) Sachverhalts (BGE 141
+V 9 E. 2.3).
+2.6
+Identisch gebliebene Diagnosen schliessen eine
+revisionsrechtlich erhebliche Steigerung des tatsächlichen Leistungsvermögens
+(Arbeitsfähigkeit) – sei es aufgrund eines objektiv geminderten Schweregrads
+desselben Leidens, sei es aufgrund verbesserter Leidensanpassung der
+versicherten Person – nicht aus. Ob eine derartige tatsächliche Änderung oder
+aber eine revisionsrechtlich unbeachtliche abweichende ärztliche Einschätzung
+eines im Wesentlichen gleich gebliebenen Gesundheitszustands vorliegt, bedarf
+– auch mit Blick auf die mitunter einschneidenden Folgen für die versicherte
+Person – einer sorgfältigen Prüfung. Dabei gilt der Beweisgrad der
+überwiegenden Wahrscheinlichkeit, wobei die blosse Möglichkeit einer
+Verbesserung tatsächlicher Art nicht genügt (BGer-Urteil 8C_458/2009 vom
+2. November 2009 E. 3.2).
+2.7
+Zur Ermittlung der Revisionsvoraussetzungen ist
+grundsätzlich der Sachverhalt der ursprünglichen Rentenverfügung mit den
+aktuellen Verhältnissen im Zeitpunkt der Neubeurteilung zu vergleichen.
+Zeitlicher Ausgangspunkt für die Beurteilung einer anspruchserheblichen Änderung
+bildet die letzte (der versicherten Person eröffnete) rechtskräftige
+Verfügung, welche auf einer materiellen Prüfung des Rentenanspruchs mit
+rechtskonformer Sachverhaltsabklärung, Beweiswürdigung und Durchführung eines
+Einkommensvergleichs (bei Anhaltspunkten für eine Änderung in den
+erwerblichen Auswirkungen des Gesundheitszustands) beruht (BGE 133 V 108
+E. 5.4).
+3.
+3.1
+N
+ach
+dem für das gesamte Verwaltungs- und Verwaltungsgerichtsbeschwerde-verfahren
+geltenden Grundsatz der freien Beweiswürdigung haben Versicherungsträger und
+Sozialversicherungsrichter die Beweise frei, d.h. ohne Bindung an
+förmliche Beweisregeln, sowie umfassend und pflichtgemäss zu würdigen. Für
+das Beschwerdeverfahren bedeutet dies, dass das Gericht alle Beweismittel,
+unabhängig davon, von wem sie stammen, objektiv zu prüfen und danach zu
+entscheiden hat, ob die verfügbaren Unterlagen eine zuverlässige Beurteilung
+des streitigen Rechtsanspruchs
+gestatten.
+Insbesondere
+darf es bei einander widersprechenden medizinischen Berichten den Prozess
+nicht erledigen, ohne das gesamte Beweismaterial zu würdigen und die Gründe
+anzugeben, warum es auf die eine und nicht auf die andere medizinische These
+abstellt (BGE 125 V 351 E. 3a).
+3.2
+Es
+ist Aufgabe des Arztes, sämtliche Auswirkungen einer Krankheit oder eines Unfalls
+auf den Gesundheitszustand der versicherten Person zu beurteilen und dazu Stellung
+zu nehmen, bezüglich welcher konkreten Tätigkeiten und in welchem Umfang sie
+arbeitsunfähig ist. Die ärztlichen Auskünfte sind sodann eine wichtige
+Grundlage für die Beurteilung der Frage, welche Arbeitsleistungen der
+versicherten Person im Hinblick auf ihre persönlichen Verhältnisse noch
+zugemutet werden können (BGE 125 V 256 E. 4).
+3.3
+Die Verwaltung als verfügende Instanz und –
+im Beschwerdefall – der Richter dürfen eine Tatsache nur dann als bewiesen
+annehmen, wenn sie von ihrem Bestehen überzeugt sind. Im
+Sozialversicherungsrecht hat der Richter dabei seinen Entscheid – sofern das
+Gesetz nicht etwas Abweichendes vorsieht – nach dem Beweisgrad der überwiegenden
+Wahrscheinlichkeit zu fällen. Die blosse Möglichkeit eines bestimmten
+Sachverhalts genügt den Beweisanforderungen nicht. Der Richter hat vielmehr
+jener Sachverhaltsdarstellung zu folgen, die er von allen möglichen
+Geschehensabläufen als die wahrscheinlichste würdigt (BGE 119 V 7
+E. 3c/aa, mit Hinweisen).
+4.
+4.1
+Die Beschwerdeführerin bringt vor, die
+Beschwerdegegnerin habe den Sachverhalt nur ungenügend abgeklärt. Anlässlich
+der Befragung vom 13. März 2019 sei nicht bemerkt worden, in welchem
+gesundheitlichen Zustand sie sich befinde. Sie sei seit Jahren in
+psychiatrischer Behandlung und könne nur mit Psychopharmaka ihre Aufgaben und
+Tätigkeiten einigermassen überstehen. Ihr Ehemann sei im August 2018
+vorzeitig in den Ruhestand getreten, da sie ihre Aufgaben als Hausfrau nicht
+bzw. nur an einzelnen wenigen Tagen erledigen könne. Die von der
+IV-Stelle errechnete Einschränkung im Haushalt von 16,5 % entspreche
+nicht den Tatsachen. Sie gehe einer ausserhäuslichen Tätigkeit von 20 %
+nach, welche als reine Therapie anzusehen sei und unbedingt beibehalten
+werden müsse. Dies bestätige auch ihre Arbeitgeberin. Aufgrund ihrer
+Einschränkungen habe die […] ihren Arbeitseinsatz vom Reinigen der Büroräume
+auf das Reinigen der Treppe reduziert.
+4.2
+Die Beschwerdegegnerin wendet ein, sie sei ihren
+Abklärungspflichten rechts-genüglich nachgekommen. Am 13. März 2019 habe
+die Haushaltsabklärung vor Ort stattgefunden und das rechtliche Gehör sei
+gewährt worden. Anzumerken bleibe, dass es sich um eine ordentliche
+Rentenrevision handle und kein Einwand auf den Vorbescheid vom 23. April
+2019 eingegangen sei. Aus versicherungsmedizinscher Sicht könne die
+Beschwerdeführerin mit Pausen den Haushalt selbständig erledigen, was sie
+auch tue. Zusätzlich dazu sei sie in der Lage, ca. drei mal zwei Stunden
+pro Woche als Reinigungskraft ausser Haus und bei drei Arbeitgebern tätig zu
+sein. Dabei könne sie Staubsaugen, Abstauben, den Boden feucht aufnehmen,
+Tische putzen und das Treppenhaus sowie die Türen reinigen. Daher könne keine
+wesentliche Beeinträchtigung der Arbeitsfähigkeit zu Hause nachvollzogen
+werden. Zudem sei davon auszugehen, dass ihr Gesundheitszustand unverändert
+geblieben sei, was sich in einem Invaliditätsgrad von 40 % äussere.
+5.
+5.1
+RAD-Arzt Dr. med. C.______, FMH für
+Rheumatologie, FMH für Physikalische Medizin und Rehabilitation, beurteilte
+am 31. März 2014 die Arbeitsfähigkeit der Beschwerdeführerin. Er führte
+aus, es werde von einer chronifizierten depressiven Störung ausgegangen.
+Spätestens seit dem 1. November 2013 sei von einer Arbeitsunfähigkeit
+für sämtliche Tätigkeiten von mindestens 80 % auszugehen.
+5.2
+Dr. med. D.______,
+Facharzt für Psychiatrie und Psychotherapie,
+teilte
+der IV-Stelle am 2. Mai 2018 mit, die störungsspezifische psychiatrische
+Behandlung sei gewissenhaft durchgeführt worden. Der Gesundheitszustand sei
+aber stationär geblieben und sei therapierefraktär.
+5.3
+Die behandelnde Ärztin Dr. med. E.______,
+FMH Onkologie und Innere Medizin, Leitende Ärztin am Spital F.______,
+berichtete am 25. September 2018 über die bereits bekannten Diagnosen
+des invasiven duktalen Mamma-Karzinoms links, der schweren depressiven
+Störung mit somatischen Symptomen, der kleineren medialateralen Diskushernie
+sowie der rezidivierenden Harnwegsinfekte. Seit Dezember 2013
+bzw. September 2013 sei die Beschwerdeführerin bis auf Weiteres zu
+100 % arbeitsunfähig geschrieben. Die Beschwerdeführerin wäre
+Raumpflegerin, werde aber nie mehr arbeitsfähig sein. Aktuell seien ihr die
+bisherige Tätigkeit sowie angepasste Tätigkeiten nicht zumutbar. Eine
+Eingliederung sei nicht möglich. Die Kinder resp. der Ehemann täten
+Staubsaugen und alle schweren Arbeiten im Haushalt erledigen.
+5.4
+Am 25. September 2018 diagnostizierte
+Dr. D.______ eine chronische, schwere depressive Episode (ICD 10
+F 32.2) und akzentuierte Persönlichkeitszüge mit dependenten und leicht
+histrionischen Anteilen (ICD 10 Z 73.1). Die Beschwerdeführerin sei
+chronisch depressiv, was sich nach dem Krebsleiden entwickelt habe.
+Funktionseinschränkungen entständen einerseits durch die massive und
+sichtliche Antriebs- und Leblosigkeit. Andererseits weise die
+Beschwerdeführerin in den Sitzungen deutliche Konzentrationsschwierigkeiten
+auf. Dadurch habe sie ein reduziertes Arbeitsgedächtnis sowie Stimmungseinbrüche,
+was eine längerdauernde Tätigkeit verunmögliche. Seit die Beschwerdeführerin
+bei ihm in Behandlung sei, sei das Zustandsbild chronisch schlecht geblieben
+mit anhaltender depressiver Gefühlslage, sichtlicher Erschöpfung und
+Antriebslosigkeit sowie reduzierter Schwingungsfähigkeit. Trotz verschiedener
+medikamentöser Versuche und zum Teil intensiver supportiver Therapie habe gar
+nichts erreicht werden können. Die Beschwerdeführerin sei seit dem
+9. Dezember 2013 bis auf Weiteres in allen beruflichen Tätigkeiten
+100 % arbeitsunfähig. Alle zwei Tage arbeite sie maximal ca. eine
+bis zwei Stunden. Wenn es ihr gut gehe, dann arbeite sie maximal sechs
+Stunden pro Woche, jedoch nur zwei Stunden am Stück. Anschliessend sei sie
+extrem erschöpft und müsse liegen. Je nach Zustand könne sie nicht
+regelmässig arbeiten. Mit der nötigen Zeit und Pausen schaffe sie
+grundsätzlich den Haushalt, teilweise schaffe sie ihn aber kaum. Je nach
+Zustand werde der Haushalt auch einmal etwas vernachlässigt oder es brauche
+zeitweilig etwas Unterstützung durch den Ehemann oder durch die Töchter.
+5.5
+Der behandelnde Arzt Dr. med. G.______,
+FMH Allgemeine Medizin, diagnostizierte am 3. Oktober 2018 ein
+Fibromyalgiesyndrom. Zudem wies er darauf hin, dass die Beschwerdeführerin
+keinerlei Stresstoleranz zeige. Sie könne psychischen Stress nicht
+verarbeiten. Körperliche Belastungen seien aufgrund der Fibromyalgie nicht
+möglich. Seit dem 1. Januar 2005 sei sie 100 % arbeitsunfähig. Sie
+arbeite nur zwei bis drei Stunden pro Woche als Putzfrau. Aktuell sei hier
+keine regelmässige Tätigkeit zumutbar. Nur im geschützten Rahmen könne sie
+für ein bis zwei Stunden am Tag einer angepassten Tätigkeit nachgehen. Wegen
+des Fibromyalgiesyndroms könne sie schwere Tätigkeiten im Haushalt nicht
+durchführen. Eine Eingliederung sei aufgrund der ausgeprägten Symptomatik
+nicht angezeigt.
+5.6
+RAD-Arzt med. pract. H.______, FMH für
+Arbeitsmedizin, beurteilte am 12. Oktober 2018 den Gesundheitszustand
+der Beschwerdeführerin. Dieser habe sich im Vergleich zu 2014 nicht
+verändert. Sie könne den Haushalt mit Pausen selbständig erledigen, benötige
+jedoch bei schweren Tätigkeiten Hilfe durch Familienangehörige. Auffällig
+sei, dass sie zusätzlich zum eigenen Haushalt in der Lage zu sein scheine,
+ca. drei Mal pro Woche für zwei Stunden als Reinigungskraft ausser Haus
+tätig zu sein. Somit könne aus arbeitsmedizinischer Sicht keine wesentliche
+Beeinträchtigung der Arbeitsfähigkeit im Haushalt nachvollzogen werden.
+5.7
+Die SVA Zürich führte am 13. März 2019 eine
+Haushaltsabklärung durch. Gemäss dem Bericht vom 25. März 2019 ist die
+Beschwerdeführerin im Aufgabenbereich zu 16,5 % eingeschränkt.
+6.
+6.1
+Wenn geprüft wird, ob sich der Invaliditätsgrad in
+für den Rentenanspruch relevanter Weise geändert hat, ist auf die letzte der
+versicherten Person eröffnete rechtskräftige Verfügung abzustellen.
+Vorliegend ist dies die Verfügung vom 5. November 2015. Mit dieser
+Verfügung sprach die Beschwerdegegnerin der Beschwerdeführerin eine ganze
+Invalidenrente ab dem 1. November 2014 zu. Es stellt sich die Frage, ob
+sich die tatsächlichen Verhältnisse derart geändert haben, dass die der
+Beschwerdeführerin zugesprochene Invalidenrente revidiert werden muss. Diese
+Frage ist aufgrund eines Vergleichs des Sachverhalts, wie er mit Verfügung
+vom 5. November 2015 festgestellt wurde, mit demjenigen Sachverhalt im
+Zeitpunkt der vorliegend angefochtenen Verfügung vom 11. Juni 2019 zu
+beantworten.
+6.2
+Die Beschwerdegegnerin ging am 16. September
+2015 bzw. 5. November 2015 gestützt auf die Stellungnahme des RAD
+vom 31. März 2014 davon aus, die Beschwerdeführerin sei aufgrund einer
+chronifizierten depressiven Störung sowohl in der Erwerbstätigkeit als auch
+im Aufgabenbereich (Haushalt) zu 80 % eingeschränkt. Dementsprechend
+sprach sie ihr eine ganze Rente ab dem 1. November 2014 zu. Aufgrund der
+dargelegten Arztberichte und der Einschätzung des RAD vom 12. Oktober
+2018 ist offensichtlich, dass sich der Gesundheitszustand der
+Beschwerdeführerin insbesondere in psychischer Hinsicht nicht verbessert,
+sondern sich sogar etwas verschlechtert hat. Hingegen ist der Ehemann der
+Beschwerdeführerin seit August 2018 vorzeitig pensioniert. Dies bedeutet,
+dass seine berufliche Tätigkeit wegfällt. Als Ehegatte ist der Ehemann der
+Beschwerdeführerin aufgrund der in Art. 159 Abs. 2 i.V.m.
+Art. 163 Abs. 1 des Schweizerischen Zivilgesetzbuches vom
+10. Dezember 1907 (ZGB) verankerten Beistandspflicht verpflichtet, die
+Beschwerdeführerin dabei zu unterstützten, der ihr obliegenden
+Schadenminderungspflicht nachzukommen. Insofern kann ihm zugemutet werden,
+die aufgrund der aufgegebenen beruflichen Tätigkeit freigewordene Zeit
+zumindest teilweise für die im Haushalt anfallenden Hausarbeiten einzusetzen.
+Dadurch kommt eine grössere Mithilfe einer im selben Haushalt wohnenden
+Person hinzu. Durch seinen Einsatz entfällt weniger Arbeit auf die
+Beschwerdeführerin. Die Änderung der Wohnsituation der Beschwerdeführerin
+stellt einen Revisionsgrund im Sinne von Art. 17 Abs. 1 ATSG dar,
+weil sich dies selbst bei einem unveränderten erwerblichen Invaliditätsgrad
+auf das Ausmass der Einschränkung im Aufgabenbereich auswirken kann. Zu
+erwähnen ist jedoch auch, dass die beiden Kinder der Beschwerdeführerin
+mittlerweile nach […] bzw. […] gezogen sind, weshalb deren Mithilfe im
+Haushalt weggefallen ist.
+6.3
+Gestützt auf die Haushaltsabklärung der SVA Zürich
+vom 25. März 2019 ging die Beschwerdegegnerin von einer Einschränkung
+von 16,5 % im Aufgabenbereich aus. Die von der Abklärungsperson
+ermittelten Einschränkungen erscheinen plausibel und stehen mit den von der
+Versicherten am 5. September 2018 gemachten Angaben im Einklang. Zudem
+berücksichtigte die Abklärungsperson, dass der Ehegatte nun vermehrt Aufgaben
+im Aufgabenbereich übernehmen kann. Dieser übernimmt gemäss der Haushaltsabklärung
+sodann auch diejenigen Hausarbeiten, welche durch die Beschwerdeführerin
+invaliditätsbedingt nicht mehr verrichtet werden können. Insbesondere kocht
+er häufiger, übernimmt das Staubsaugen, holt Feuerholz, reinigt die Fenster,
+faltet und verstaut die Wäsche und hängt diese zum Trocknen auf. Bei Bedarf
+nimmt er auch den Boden feucht auf und übernimmt weitere Aufgaben. Dennoch
+ist insbesondere im Lichte der Angaben von Dr. D.______ auffällig, dass
+in der Haushaltsabklärung die Einschränkungen der Beschwerdeführerin eher
+streng beurteilt wurden. So beschreibt Dr. D.______ zwar, dass der
+Haushalt möglich sei, jedoch werde dieser je nach Zustand gelegentlich
+vernachlässigt. Dies ist aufgrund der von ihm beschriebenen Antriebslosigkeit
+und der sichtlichen Erschöpfung der Beschwerdeführerin auch gut
+nachvollziehbar. Aus dem Bericht der Abklärungsperson ist nicht ersichtlich,
+wie häufig die Beschwerdeführerin den Haushalt vernachlässigt oder wie genau
+dieser Umstand berücksichtigt wurde. Erfahrungsgemäss wirkt sich dies mehr
+auf regelmässig anfallende Tätigkeiten aus. In Anbetracht dessen könnte bei
+der Ernährung auch von einer Einschränkung von 20 % ausgegangen werden,
+was einer Behinderung von 8 % entspricht. Aus demselben Grund könnte bei
+der Wäsche und Kleiderpflege von einer Einschränkung von 30 %
+ausgegangen werden, was einer Behinderung von 6 % entspricht. Hingegen
+erscheint die Einschätzung bezüglich des Einkaufs sowie weiterer Besorgungen
+als zutreffend. Zuzüglich der übrigen Einschränkungen ergibt sich bei
+grosszügiger Betrachtung eine Einschränkung von 21,5 %.
+6.4
+Somit hat sich der Invaliditätsgrad der
+Beschwerdeführerin im Aufgabenbereich von 80 % auf maximal 10,25 %
+reduziert. Im Weiteren ist darauf hinzuweisen, dass der Invaliditätsgrad der
+Beschwerdeführerin in der Erwerbstätigkeit unzutreffend ermittelt wurde.
+Der RAD ging am
+12. Oktober 2018 übereinstimmend mit
+Dr. D.______ davon aus, die Beschwerdeführerin sei in der Lage,
+ca. drei Mal pro Woche für zwei Stunden als Reinigungskraft ausser Haus
+tätig zu sein. In Bezug auf ein wöchentliches Arbeitspensum von
+40 Stunden ergibt dies ein Arbeitspensum von lediglich 15 %.
+Gestützt auf die LSE 2014, TA 1, Kompetenzniveau 1, Frauen,
+indexiert auf das Jahr 2017 und bei einem Pensum von 100 % ist von einem
+Validenlohn von Fr. 54'603.50 auszugehen. Bei einem Arbeitspensum von
+15 % ist unter Anwendung der gleichen Tabelle von einem Invalidenlohn
+von rund Fr. 8'190.50 (Fr. 54'603.50 / 100 x 15)
+auszugehen. Demgemäss ergibt sich hinsichtlich der Erwerbstätigkeit ein
+Invaliditätsgrad von 85 %.
+7.
+Gefragt nach ihrer
+heutigen, theoretischen Arbeitstätigkeit ohne Gesundheitsschaden gab die
+Beschwerdeführerin an, sie würde im Umfang von wöchentlich 20 Stunden
+einer Erwerbstätigkeit nachgehen. Es ist unbestritten, dass die
+Beschwerdeführerin ohne Einschränkung zu 50 % einer Erwerbstätigkeit
+nachgehen würde und 50 % im Haushalt tätig wäre. Wie dargelegt ist die
+Beschwerdeführerin im Erwerb und im Haushalt weiterhin eingeschränkt. Daher
+kommt die gemischte Methode zur Anwendung. Da die Beschwerdeführerin im
+Erwerb zu 42,5 % (85 % / 2) und im Haushalt (bei einer grosszügigen
+Betrachtung) zu 10,25 % (21,5 % / 2) eingeschränkt ist, ergibt sich
+ein Invaliditätsgrad von gerundet 53 %. Wenn hingegen vollumfänglich auf
+die Haushaltsabklärung vom 25. März 2019 und damit auf eine
+Einschränkung von 8,25 % (16,5 % / 2) abgestellt wird, ergibt sich
+ein Invaliditätsgrad von gerundet 51 %. Dies berechtigt die
+Beschwerdeführerin im einen wie im andern Fall zum Bezug einer halben
+Invalidenrente, wobei die Reduktion der Invalidenrente einzig in der
+Möglichkeit ihres Ehemanns zu vermehrter Mithilfe im Haushalt begründet ist.
+Dies führt zur teilweise
+Gutheissung der Beschwerde.
+Die Verfügung der Beschwerdegegnerin vom
+11. Juni 2019
+ist
+dahingehend abzuändern, als der Beschwerdeführerin
+ab dem 1. August 2019 eine unbefristete halbe Invalidenrente
+zuzusprechen ist.
+III.
+Nach Art. 134
+Abs. 1 lit. c des Gesetzes über die Verwaltungsrechtspflege vom
+4. Mai 1986 (VRG) i.V.m. Art. 69 Abs. 1bis IVG hat die Partei,
+welche im Beschwerdeverfahren unterliegt, die amtlichen Kosten zu tragen.
+Obsiegt die Beschwerde führende Person teilweise, ist sie dann nicht
+kostenpflichtig, wenn sie im Grundsatz obsiegt und lediglich im Masslichen
+teilweise unterliegt, was beispielsweise bei der Zusprechung einer halben
+statt der beantragten ganzen Invalidenrente der Fall ist
+(vgl. VGer-Urteil VG.2018.00128/129 vom 11. April 2019
+E. III/1).
+Dies ist vorliegend der
+Fall. Die Beschwerdeführerin beantragte, dass ihr weiterhin eine ganze
+Invalidenrente ausgerichtet werden. Abweichend von der ihr von der IV-Stelle
+zugesprochenen Viertelsrente ist ihr eine halbe Invalidenrente zuzusprechen.
+Dementsprechend sind die Gerichtskosten von pauschal Fr. 600.- der
+Beschwerdegegnerin aufzuerlegen. Der Beschwerdeführerin ist der von ihr in
+gleicher Höhe geleistete Kostenvorschuss zurückzuerstatten.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird teilweise gutgeheissen. Die Verfügung vom 11. Juni
+2019 wird dahingehend abgeändert, als der Beschwerdeführerin ab dem
+1. August 2019 eine halbe Invalidenrente zugesprochen wird.
+2.
+Die
+Gerichtskosten von Fr. 600.- werden der Beschwerdegegnerin auferlegt.
+Der Beschwerdeführerin wird der von ihr in gleicher Höhe geleistete
+Kostenvorschuss zurückerstattet.
+3.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
