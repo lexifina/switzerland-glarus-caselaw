@@ -1,0 +1,301 @@
+---
+decision_id: "gl_gerichte_VG.2019.00093"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2019.00093"
+docket_2: "VG.2019.859"
+decided: "2019-12-05"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1176&W10_KEY=218274&nTrefferzeile=8&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/172.021/art-001.md", "switzerland/bund/acts/173.110/art-086.md", "switzerland/bund/acts/173.110/art-093.md", "switzerland/bund/acts/173.110/art-111.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.20/art-001.md", "switzerland/bund/acts/831.20/art-069.md"]
+---
+
+# GL Gerichte VG.2019.00093
+
+## Regeste
+
+Sozialversicherung - IV
+
+## Text
+
+Glarus Verwaltungsgericht 05.12.2019 VG.2019.00093 (VG.2019.859)
+Glaris Verwaltungsgericht 05.12.2019 VG.2019.00093 (VG.2019.859)
+Glarona Verwaltungsgericht 05.12.2019 VG.2019.00093 (VG.2019.859)
+
+Sozialversicherung - IV
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+5. Dezember 2019
+II. Kammer
+in Sachen
+VG.2019.00093
+A.______
+Beschwerdeführerin
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+IV-Stelle Glarus
+Beschwerdegegnerin
+betreffend
+Invalidenrente
+Die Kammer zieht in Erwägung:
+I.
+1.
+A.______,
+geboren am […], stürzte am 18. August 2014 in den Bergen aus einer Höhe von
+ca. 30 Metern. Als Folge zeigte sich unter anderem eine komplette
+Paraplegie. Am 22. September 2014 meldete sie sich bei der IV-Stelle
+Glarus zum Bezug von Leistungen der Invalidenversicherung an. In der Folge
+richtete die IV-Stelle die gesetzlichen Leistungen aus.
+2.
+Vom
+1. September 2015 bis am 31. März 2016 fand ein Arbeitsversuch bei C.______
+statt. A.______ wurde dabei mit bis am 30. September 2016 befristetem
+Arbeitsvertrag als Sachbearbeiterin Kursorganisation/Administration
+Ausbildungen für D.______ mit einem Pensum von 50 % angestellt. Der monatliche
+Bruttolohn betrug Fr. 2'200.- und wurde dreizehnmal ausgerichtet.
+C.______ teilte der Eingliederungsfachfrau am 5. April 2016 mit, dass
+der Arbeitsversuch gut gelungen und A.______ in die Arbeitswelt eingegliedert
+sei. Die Eingliederungsfachfrau teilte diese Auffassung am 9. April 2016
+und empfahl den Abschluss der beruflichen Massnahme.
+3.
+Am
+6. Dezember 2016 schloss A.______ per 1. Oktober 2016 einen Arbeitsvertrag
+mit D.______ als Sekretärin Ausbildung mit einem Pensum von 50 %. Als
+Bruttolohn wurden basierend auf einem Pensum von 100 % Fr. 59'800.-
+pro Jahr vereinbart.
+4.
+Im
+Arztbericht vom 18. Juli teilte Dr. med. E.______, Fachärztin
+Paraplegiologie, Fachärztin Allgemeine Innere Medizin, der IV-Stelle mit,
+dass A.______ ab Oktober 2015 bis auf Weiteres eine Bürotätigkeit mit
+einem Pensum von 50 % zumutbar sei. Aufgrund der eingeschränkten
+Mobilität und des Schmerzsyndroms bestehe eine um 15 % verminderte
+Leistungsfähigkeit.
+5.
+5.1
+Die IV-Stelle stellte A.______ mit Vorbescheid vom 20. März 2018 die
+Zusprache einer Dreiviertelsrente ab dem 1. April 2016 in Aussicht. Dabei
+stützte sie sich sowohl bei der Bemessung des Valideneinkommens als auch des
+Invalideneinkommens auf den Tabellenlohn gemäss der Lohnstrukturerhebung
+(LSE) des Bundesamts für Statistik, wobei sie bei beiden Einkommen vom
+Kompetenzniveau 1 ausging. Bei einem Invalideneinkommen von Fr.
+18'902.86 und einem Valideneinkommen von Fr. 54'008.17 betrug der
+Invaliditätsgrad 65 %.
+5.2
+A.______ teilte der IV-Stelle am 12. April 2018 mit, dass sie aktuell ein
+Einkommen von Fr. 24'100.- erziele. Ferner führte sie aus, dass sie als
+Gesunde mit überwiegender Wahrscheinlichkeit mehr verdient hätte als den von
+der IV-Stelle angenommenen Tabellenlohn.
+5.3
+Die IV-Stelle korrigierte in ihrer Verfügung vom 12. Juni 2018 das
+Invalideneinkommen, indem es von den durch die Beschwerdeführerin angegebenen
+Fr. 24'100.- ausging, zusätzlich aber einen Abzug von 15 % vornahm.
+Aufgrund des so ermittelten Invalideneinkommens von Fr. 20'485.- ergab sich
+bei einem unveränderten Valideneinkommen von Fr. 54'008.17 ein
+Invaliditätsgrad von 62 %. Folgerichtig hielt die IV-Stelle an der
+Zusprache einer Dreiviertelsrente fest.
+5.4
+Dagegen gelangte A.______ mit Beschwerde vom 22. Juni 2018 ans Verwaltungsgericht.
+Dieses zeigte ihr mit Präsidialverfügung vom 21. November 2018 an, dass
+der Referent dem Gesamtgericht eine Rückweisung der Sache zur Neuberechnung
+des Invaliditätsgrads beantragen werde. Es bestehe die naheliegende
+Möglichkeit, dass ihr eine Viertels- oder eine halbe anstatt der
+Dreiviertelsrente zugesprochen werde. A.______ wurde die Gelegenheit gegeben,
+sich dazu zu äussern und allenfalls die Beschwerde zurückzuziehen. Am
+3. Dezember 2018 zog A.______ ihre Beschwerde zurück.
+6.
+6.1
+Am 5. Juli 2019 hob die IV-Stelle den Vorbescheid vom 20. März 2018
+und die Verfügung vom 12. Juni 2018 wiedererwägungsweise auf. Mit
+gleichentags ergangenem Vorbescheid stellte sie A.______ eine Viertelsrente
+ab dem 1. April 2016 in Aussicht. A.______ erhob am 30. August 2019
+Einwand dagegen.
+6.2
+Gegen die Verfügung der IV-Stelle vom 5. Juli 2019 betreffend
+Wiedererwägung des Vorbescheids vom 20. März 2018 und der Verfügung vom
+12. Juni 2018 gelangte A.______ mit Beschwerde vom 30. August 2019
+ans Verwaltungsgericht. Sie beantragte, die Verfügung der IV-Stelle vom
+5. Juli 2019 sei aufzuheben und es sei festzustellen, dass die
+Beschwerdeführerin Anspruch auf die mit Verfügung vom 12. Juni 2018
+rechtskräftig festgesetzte Invalidenrente habe. Eventualiter sei die
+Verfügung der IV-Stelle vom 5. Juli 2019 aufzuheben und die Sache an
+diese zurückzuweisen; unter Kosten- und Entschädigungsfolgen zu Lasten der
+IV-Stelle
+und unter Gewährung
+der unentgeltlichen Prozessführung und Rechtsverbeiständung.
+Am
+9. Oktober 2019 zog sie das Gesuch um unentgeltliche Prozessführung und
+Rechtsverbeiständung zurück. Die IV-Stelle schloss am 4. November 2019
+auf Abweisung der Beschwerde. Die Beschwerdeführerin reichte am
+28. November 2019 eine weitere Stellungnahme sowie weitere Akten ein.
+II.
+1.
+1.1
+Gemäss
+Art. 69 Abs. 1 lit. a des Bundesgesetzes über die Invalidenversicherung
+vom 19. Juni 1959 (IVG) ist das Verwaltungsgericht zur Behandlung der
+vorliegenden Beschwerde zuständig.
+1.2
+Nach Art. 1
+Abs. 1 IVG sind die
+Bestimmungen
+des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts
+vom 6. Oktober 2000 (ATSG) auf die Invalidenversicherung anwendbar,
+soweit das IVG nicht ausdrücklich eine Abweichung vom ATSG vorsieht.
+1.3
+Die vorliegend angefochtene Verfügung vom
+5. Juli 2019 betreffend
+Wiedererwägung der Verfügung vom
+12. Juni 2018 stellt einen Zwischenschritt auf dem Weg zum Endentscheid
+betreffend Zusprache bzw. Anpassung einer Invalidenrente dar. Demnach
+handelt es sich um einen Zwischenentscheid. Art. 61 ATSG sieht vor, dass
+sich das Verfahren vor dem kantonalen Versicherungsgericht unter Vorbehalt
+von Art. 1 Abs. 3 des Bundesgesetzes über das Verwaltungsverfahren
+vom 20. Dezember 1968 (VwVG) nach kantonalem Recht bestimmt.
+1.4
+Gemäss Art. 1 Abs. 3 VwVG finden
+auf das Verfahren vor letzten kantonalen Instanzen, die gestützt auf
+öffentliches Recht des Bundes nicht endgültig verfügen, lediglich die
+Artikel 34-38 und 61 Absätze 2 und 3 über die Eröffnung von
+Verfügungen und Artikel 55 Absätze 2 und 4 über den Entzug der aufschiebenden
+Wirkung Anwendung. Damit erweist sich das VwVG als vorliegend nicht
+anwendbar. Da zudem kein Anwendungsfall im Sinne von Art. 69
+Abs. 1bis IVG vorliegt, ist das kantonale Verfahrensrecht auf den
+vorliegenden Fall anzuwenden.
+2.
+2.1
+2.1.1
+Nach
+Art. 86 Abs. 1 des Gesetzes über die Verwaltungsrechtspflege vom
+4. Mai 1986 (VRG) können mit einer Verwaltungsbeschwerde oder einer
+Verwaltungsgerichtsbeschwerde grundsätzlich nur Endentscheide angefochten werden.
+Verfahrensleitende und andere Zwischenentscheide sind gemäss Art. 86
+Abs. 2 VRG selbstständig nur anfechtbar, wenn sie einen nicht wieder
+gutzumachenden Nachteil bewirken können. Nach Art. 93 Abs. 1
+lit. b des Bundesgesetzes über das Bundesgericht vom 17. Juni 2005
+(BGG) sind Zwischenentscheide aber auch dann anfechtbar, wenn die Gutheissung
+der Beschwerde sofort einen Endentscheid herbeiführen und damit einen
+bedeutenden Aufwand an Zeit oder Kosten für ein weitläufiges Beweisverfahren
+ersparen würde. Da gemäss Art. 111 Abs. 1 BGG die zur Beschwerde an
+das Bundesgericht Berechtigten sich am Verfahren vor allen kantonalen
+Vorinstanzen als Partei beteiligen können müssen und da gemäss Art. 86
+Abs. 2 BGG die Kantone als unmittelbare Vor-instanzen des Bundesgerichts
+obere Gerichte einzusetzen haben, müssen beim Bundesgericht anfechtbare
+Zwischenentscheide auch vor dem kantonalen Verwaltungsgericht angefochten
+werden können (vgl. VGer-Urteil VG.2018.00044 vom 28. Juni 2018
+E. II/1.2.3 f.).
+2.1.2
+Das Verwaltungsgericht orientiert sich bei der
+Auslegung des Begriffes "nicht wieder gutzumachender Nachteil" an
+der Praxis des Bundesgerichts zu Art. 93 Abs. 1 lit. a BGG.
+Ein solcher Nachteil muss grundsätzlich rechtlicher Natur sein,
+d.h. auch durch einen günstigen Endentscheid nicht mehr behoben werden
+können; eine rein tatsächliche oder wirtschaftliche Erschwernis genügt in der
+Regel nicht (BGE 134 I 83 E. 3.1). Soweit es das materielle
+Verwaltungsrecht gebietet, können jedoch auch rein tatsächliche Nachteile
+nicht wieder gutzumachende Nachteile im Sinne von Art. 86 Abs. 2
+VRG bzw. Art. 93 Abs. 1 lit. a BGG darstellen. Kein nicht
+wieder gutzumachender Nachteil liegt aber jedenfalls dann vor, wenn es einer
+Partei bloss darum geht, eine Verlängerung oder Verteuerung des Verfahrens zu
+verhindern (BGE 140 V 282 E. 4.2.2, 135 II 30
+E. 1.3.4). Unter diesen Voraussetzungen sind namentlich auch
+Zwischenentscheide betreffend Wiedererwägung einer Verfügung anfechtbar. Der
+Beschwerdeführer hat darzulegen, inwiefern die angefochtene Zwischenverfügung
+einen nicht wiedergutzumachenden Nachteil nach sich ziehen könnte (Urteil des
+Bundesverwaltungsgerichts A-142/2017 vom 5. September 2017
+E. 6.1.3).
+2.1.3
+Dass Zwischenentscheide nur ausnahmsweise
+angefochten werden können, liegt darin begründet, dass sich das Gericht nur
+einmal mit einer bestimmten Frage zu befassen hat (Martin Kayser et al., in
+Christoph Auer et al. [Hrsg.], VwVG-Kommentar, 2. A., Zürich/St. Gallen
+2019; Felix Uhlmann, in Marcel Alexander Niggli et al. [Hrsg.], Basler
+BGG-Kommentar, 3. A., 2018).
+2.2
+Wenn eine Verfügung wiedererwogen wird, entsteht
+dem Adressaten oder der Adressatin der Verfügung regelmässig noch kein nicht
+wieder gutzumachender Nachteil. Ein solcher Nachteil entsteht erst dann, wenn
+die Invalidenrente mittels Verfügung reduziert oder aufgehoben wird.
+Diesbezüglich liegt aber erst ein Vorbescheid (
+Bg. act. 222)
+vor. Wird die Invalidenrente mittels Verfügung
+herabgesetzt, so steht dem Adressaten oder der Adressatin der Verfügung das
+Rechtsmittelverfahren offen. Im Rahmen dieses Verfahrens kann gerügt werden,
+die Verfügung sei zu Unrecht in Wiedererwägung gezogen worden. Die
+Beschwerdeführerin zeigt denn auch nicht auf, inwiefern die Wiedererwägung
+der Verfügung für sie einen nicht wieder gutzumachenden Nachteil bewirkt.
+2.3
+Die Gutheissung der vorliegenden Beschwerde würde
+nur dann das Verfahren sofort beenden, wenn das Verwaltungsgericht die
+Wiedererwägung der Verfügung als unzulässig erachten und die Beschwerde
+gutheissen würde. Doch selbst wenn dies der Fall wäre, würde dieser Entscheid
+keine bedeutende Ersparnis an Zeit oder Kosten bewirken. Denn die
+Beantwortung der Frage, ob die Rente aufzuheben oder zu kürzen ist, hat kein
+langes und kostenaufwendiges Verfahren zu erwarten. Nach dem Gesagten sind
+die Prozessvoraussetzungen nicht erfüllt, weshalb nicht auf die Beschwerde
+einzutreten ist.
+3.
+Der Beschwerdegegnerin ist zu empfehlen, künftig in
+einem einzigen Endentscheid die Verfügung wiederzuerwägen und die
+Invalidenrente neu festzulegen. Der Grund dafür liegt darin, dass eine
+Verfügung nur wiedererwogen werden kann, wenn ein erhebliches Interesse an
+deren Berichtigung besteht. Ein solches ist nur dann vorhanden, wenn die
+Rente auch tatsächlich angepasst wird. Demnach hängt die Frage nach der
+Zulässigkeit der Wiedererwägung einer Verfügung derart eng mit diejenigen
+nach der Reduktion oder Aufhebung einer Invalidenrente zusammen, dass mit dem
+Entscheid über eine der beiden Fragen grundsätzlich auch über die andere
+Frage entschieden wird. Nach dem Dargelegten macht es wenig Sinn, zunächst
+die Wiedererwägung einer rentenzusprechenden Verfügung zu verfügen und erst
+in einer zweiten Verfügung die Rente anzupassen.
+4.
+Der vorliegende Entscheid
+ist ein Zwischenentscheid und präjudiziert den neu zu treffenden Entscheid
+nicht. Er ist nur unter den Voraussetzungen von Art. 93 des
+Bundesgerichtsgesetzes vom 17. Juni 2005 (BGG) anfechtbar.
+III.
+1.
+Die Beschwerdeführerin
+beantragte sowohl die unentgeltliche Prozessführung als auch die
+unentgeltliche Rechtsverbeiständung. Sie hat die Gesuche jedoch am
+9. Oktober 2019 zurückgezogen, weshalb diese als durch Rückzug erledigt
+abzuschreiben sind.
+2.
+Nach Art. 134 Abs. 1 lit.
+c VRG i.V.m. Art. 69 Abs. 1bis IVG hat die Partei, welche im
+Beschwerdeverfahren unterliegt, grundsätzlich die amtlichen Kosten zu tragen.
+Da auf die Beschwerde nicht eingetreten wird, gilt die Beschwerdeführerin
+grundsätzlich als unterliegend. Die Beschwerdegegnerin hat zwar in der
+Rechtsmittelbelehrung die Beschwerde ans Verwaltungsgericht angegeben, ohne
+auf die Besonderheiten bei der Anfechtung von Zwischenverfügungen
+hinzuweisen. Die Beschwerdeführerin war indessen anwaltlich vertreten.
+Demnach hätte sie erkennen können, dass die Rechtsmittelbelehrung
+unvollständig ist und das Eintreten auf die Beschwerde besonderer Gründe
+bedarf. Entsprechend dem Ausgang des Verfahrens sind die Gerichtskosten von
+pauschal Fr. 200.- daher der Beschwerdeführerin aufzuerlegen.
+Mangels
+Obsiegens steht ihr keine Parteientschädigung zu
+(Art. 1
+Abs. 1 IVG i.V.m. Art. 61 lit. g ATSG e contrario).
+Demgemäss beschliesst die Kammer
+:
+Die Gesuche der Beschwerdeführerin um Gewährung der
+unentgeltlichen Prozessführung und der unentgeltlichen Rechtsverbeiständung
+werden als durch Rückzug erledigt abgeschrieben.
+und erkennt sodann:
+1.
+Auf
+Beschwerde wird nicht eingetreten.
+2.
+Die
+Gerichtskosten von Fr. 200.- werden der Beschwerdeführerin auferlegt.
+3.
+Es
+wird keine Parteientschädigung zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
