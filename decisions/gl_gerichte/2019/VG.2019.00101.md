@@ -1,0 +1,333 @@
+---
+decision_id: "gl_gerichte_VG.2019.00101"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2019.00101"
+docket_2: "VG.2019.868"
+decided: "2019-12-12"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1185&W10_KEY=218274&nTrefferzeile=3&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/741.51/art-029.md", "switzerland/bund/acts/741.51/art-044.md", "switzerland/bund/acts/741.51/art-150.md"]
+---
+
+# GL Gerichte VG.2019.00101
+
+## Regeste
+
+Administrativmassnahmen Strassenverkehr
+
+## Text
+
+Glarus Verwaltungsgericht 12.12.2019 VG.2019.00101 (VG.2019.868)
+Glaris Verwaltungsgericht 12.12.2019 VG.2019.00101 (VG.2019.868)
+Glarona Verwaltungsgericht 12.12.2019 VG.2019.00101 (VG.2019.868)
+
+Administrativmassnahmen Strassenverkehr
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+12. Dezember 2019
+I. Kammer
+in Sachen
+VG.2019.00101
+A.______
+Beschwerdeführerin
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+1.
+Strassenverkehrs- und
+Schifffahrtsamt
+Beschwerdegegner
+des Kantons Glarus
+2.
+Departement Sicherheit und Justiz
+des Kantons Glarus
+betreffend
+Kontrollfahrt
+Die Kammer zieht in Erwägung:
+I.
+1.
+A.______ stellte am 18. August
+2018 beim Strassenverkehrs- und Schifffahrtsamt des Kantons Glarus ein Gesuch
+um Umtausch ihres serbischen Führerausweises der Kategorie B in einen
+schweizerischen Führerausweis und absolvierte am 28. November 2018 in
+diesem Rahmen eine Kontrollfahrt. Diese bestand sie allerdings nicht, was das
+Strassenverkehrs- und Schifffahrtsamt am 28. November 2018 verfügte.
+2.
+Gegen den Entscheid des
+Strassenverkehrs- und Schifffahrtsamts vom 28. November 2018 erhob
+A.______ am 17. Dezember 2018 Beschwerde beim
+Departement Sicherheit und Justiz (DSJ), welches die Beschwerde am 27. August
+2019 abwies.
+3.
+A.______ gelangte am 23.
+September 2019 mit Beschwerde ans Verwaltungsgericht und beantragte die
+Aufhebung des Entscheids des DSJ vom 27. August 2019. Die Kontrollfahrt sei
+als bestanden zu beurteilen. Eventualiter sei die Kontrollfahrt zu
+wiederholen; alles unter Kosten- und Entschädigungsfolgen zu Lasten des
+Strassenverkehrs- und Schifffahrtsamts sowie des DSJ. Das Strassenverkehrs-
+und Schifffahrtsamt liess sich am 3. Oktober 2019 vernehmen und schloss auf
+Abweisung der Beschwerde; unter Kostenfolge. Am 15. Oktober 2019 beantragte
+das DSJ ebenfalls die Abweisung der Beschwerde.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 5 Abs. 3 des Einführungsgesetzes zum Bundesgesetz über den
+Strassenverkehr vom 5. Mai 1985 (EG SVG) i.V.m. Art. 105 Abs. 1 lit. b
+des Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986 (VRG) zur
+Behandlung der vorliegenden Beschwerde zuständig. Da auch die übrigen
+Prozessvor-aussetzungen erfüllt sind, ist auf die Beschwerde einzutreten.
+2.
+2.1
+Die Beschwerdeführerin stellt sich auf den
+Standpunkt, die am 28. November 2018 durchgeführte Kontrollfahrt habe als
+bestanden zu gelten. Die diesbezüglichen Beanstandungen seien unzutreffend
+und in mehrfacher Hinsicht willkürlich. So hätten sich die Beschwerdegegner
+bei ihren Entscheiden insbesondere auf nachträglich vorgebrachte Begründungen
+und Ausführungen abgestützt, welche noch keinen Eingang in den
+Prüfungsbericht gefunden hätten. Sodann sei der Sachverhalt nur ungenügend
+abgeklärt worden, indem die Beschwerdegegner auf mehrere Beweisanträge nicht
+eingegangen seien. Ferner seien deren Entscheide nur ungenügend begründet,
+was eine Verletzung des rechtlichen Gehörs darstelle. Schliesslich sei die
+Kontrollfahrt mangelhaft durchgeführt worden, indem sie beispielsweise von
+den beiden zuständigen Experten abgelenkt und nervös gemacht worden sei.
+2.2
+Die Beschwerdegegner bringen insbesondere vor, dass
+vollumfänglich auf die Einschätzung der beiden Verkehrsexperten abgestellt
+werden könne. Diese seien sehr erfahren und hätten ihren negativen Entscheid
+bezüglich der Kontrollfahrt unabhängig voneinander gefällt. Es gelte damit
+als erstellt, dass die Kontrollfahrt der Beschwerdeführerin in mehrfacher
+Hinsicht mangelhaft gewesen sei, wobei die Begründung der Verkehrsexperten
+weder offensichtlich falsch noch unhaltbar sei. Sodann habe auf die von der
+Beschwerdeführerin beantragten Beweise verzichtet werden können, da sich die
+involvierten Personen bereits rechtsgenüglich zur Sache geäussert hätten. Der
+Entscheid über das Nichtbestehen der Kontrollfahrt sei objektiv vertretbar,
+nachvollziehbar und weder willkürlich noch anderweitig offensichtlich
+unhaltbar.
+3.
+3.1
+Gemäss Art. 42 Abs. 3bis lit. a der Verordnung über
+die Zulassung von Personen und Fahrzeugen zum Strassenverkehr
+vom 27.
+Oktober 1976 (VZV) benötigt ein Fahrzeugführer aus dem Ausland, der seit
+zwölf Monaten in der Schweiz wohnt und sich in dieser Zeit nicht länger als
+drei Monate ununterbrochen im Ausland aufgehalten hat, einen schweizerischen
+Führerausweis. Nach Art. 44 Abs. 1 VZV wird dem Inhaber eines gültigen
+ausländischen Führerausweises der schweizerische Führerausweis der
+entsprechenden Kategorie erteilt, wenn er auf einer Kontrollfahrt nachweist,
+dass er die Verkehrsregeln kennt und Fahrzeuge der Kategorien, für die der
+Ausweis gelten soll, sicher zu führen versteht. Art. 150 Abs. 5 lit. e VZV
+gibt dem Bundesamt für Strassen (ASTRA) sodann die Möglichkeit, auf die
+Kontrollfahrt gegenüber Führern aus Staaten zu verzichten, welche in Bezug
+auf die Ausbildung und Prüfung der Schweiz entsprechende Anforderungen
+stellen. Von dieser Befugnis hat das ASTRA Gebrauch gemacht und das
+Kreisschreiben betreffend Führerausweise von Personen mit Wohnsitz im Ausland
+(Version vom 30. September 2013) sowie die dabei im Anhang 2 aufgeführte
+Länderliste erlassen, wobei Serbien nicht bei den Ausnahmestaaten aufgeführt
+ist.
+3.2
+Als Mittel zur Sachverhaltsfeststellung dient
+die Kontrollfahrt der Überprüfung, ob die erforderlichen Kenntnisse,
+Fähigkeiten und Fertigkeiten vorhanden sind (
+René
+Schaffhauser, Grundriss des schweizerischen Strassenverkehrsrechts, Band III:
+Die Administrativmassnahmen, Bern 1995, Rz. 2665 f.). Die Kontrollfahrt wird
+in den Richtlinien Nr. 19b der Vereinigung der Strassenverkehrsämter vom
+19. Mai 2017 (online abrufbar auf:
+https://asa.ch/online-bibliothek/richtlinien/ [nachfolgend: Richtlinien
+19b]), welche eine einheitliche Durchführung der Kontrollfahrten bezwecken
+(vgl. Ziff. 1 Richtlinien 19b), konkretisiert. Dabei handelt es sich um
+eine interne Dienstanweisung, welche
+sich
+an die Durchführungsstellen richtet und für diese, nicht aber für das Gericht
+verbindlich ist (vgl. dazu
+vgl. VGer-Urteil
+VG.2018.00128 und VG.2018.00129 vom 11. April 2019 E. II/4.2.1).
+3.3
+Besteht die
+betroffene Person die Kontrollfahrt nicht, wird ihr der Führerausweis
+entzogen oder der ausländische Führerausweis aberkannt (Art. 29 Abs. 2 lit. a
+VZV). Daraus folgt, dass die Behörde nach einer absolvierten Kontrollfahrt
+praktisch über kein Ermessen mehr verfügt. Entweder hat sie dem betroffenen
+Lenker nach einer nicht bestandenen Kontrollfahrt den Führerausweis zu
+entziehen bzw. abzuerkennen, oder aber bei bestandener Prüfung den
+Führerausweis zu belassen bzw. die schweizerische Fahrberechtigung zu
+erteilen. Entsprechend diesem fehlenden Ermessen kann die Kontrollfahrt auch
+nicht wiederholt werden (Art. 29 Abs. 3 VZV).
+3.4
+Die
+Kontrollfahrt ist von einem Verkehrsexperten durchzuführen (vgl. Art. 29 Abs. 1
+VZV). Dieser hat aufgrund der Kontrollfahrt zu entscheiden, ob der
+Fahrzeugführer in der Lage ist, ein Fahrzeug verkehrsgerecht und sicher zu
+führen. Dabei kommt dem Gesamteindruck, den er durch seine unmittelbare
+Wahrnehmung während der Fahrt gewinnt, entscheidende Bedeutung zu. Ein
+Prüfungsprotokoll kann diesen nur beschränkt wiedergeben und eine
+detaillierte Rekonstruktion der Fahrt ist im Nachhinein nicht möglich. Damit
+ist einer nachträglichen Überprüfung aufgrund der Akten von vornherein enge
+Grenzen gesetzt. Hinzu kommt, dass ein Verkehrsexperte über spezifische
+Erfahrung und Vergleichsmöglichkeiten verfügt, die dem Gericht in der Regel
+abgehen. Unter diesen Umständen ist die Bewertung der Kontrollfahrt im
+Rechtsmittelverfahren nur sehr beschränkt, nämlich auf offensichtliche Fehler
+hin überprüfbar (vgl. BGE 136 II 61 E. 1.1.1; BGer-Urteil 6A.121/2001
+vom 14. März 2002 E. 3a).
+4.
+Die Kontrollfahrt vom 28.
+November 2018 wurde von zwei Verkehrsexperten durchgeführt, welche das
+Fahrverhalten der Beschwerdeführerin mittels eines Standardprüfberichts
+bewerteten. Diesem lassen sich verschiedene Beanstandungen in den Kategorien
+Verkehrssehen, Verkehrsdynamik sowie Verkehrsvorgängen entnehmen. Namentlich
+bemängelten die Experten die Positionen Nr. 25
+(Verkehrsauffassung/Fahreinteilung), Nr. 30 (Geschwindigkeit mithalten/ differenzieren),
+Nr. 40 (Befahren von Verzweigungen zu langsam und zu zögerlich), Nr. 43
+(Abstand beim Kolonnenfahren) sowie Nr. 46 (Markierungen). Ergänzend hielten
+sie zu Position Nr. 40 fest, dass die Beschwerdeführerin ein nachfolgendes
+Fahrzeug behindert habe. Zur Position Nr. 43 führten die Verkehrsexperten
+sodann eine abstrakte Gefährdung an, weil die Beschwerdeführerin einen zu
+kleinen Abstand zum vorderen Verkehrsteilnehmer gehabt habe, welcher generell
+kleiner als zwei Sekunden gewesen sei. Betreffend Position Nr. 46
+führten sie weiter einen Rollstop ins Feld. Schliesslich wiesen sie darauf
+hin, dass der Abbruch der Kontrollfahrt in der mangelhaften Notbremsung begründet
+sei, da die Beschwerdeführerin die Bremse bereits nach kurzem Ansprechen des
+ABS gelöst habe.
+5.
+5.1
+Soweit die Beschwerdeführerin vorbringt, die von den
+Verkehrsexperten und dem Beschwerdegegner 1 angeführte Kritik an ihrer
+Fahrweise sei unzutreffend, weshalb die Kontrollfahrt als bestanden zu gelten
+habe, ist ihr nicht zu folgen. So ist vorliegend einzig entscheidend, dass
+zwei befähigte Verkehrsexperten anhand ihrer eigenen Beobachtungen die
+Kontrollfahrt übereinstimmend als nicht bestanden bewertet haben und keine
+Anhaltspunkte ersichtlich sind, welche die im Prüfbericht beanstandeten
+Kriterien als offensichtlich fehlerhaft erscheinen lassen. Daran vermögen
+auch die Vorbringen der Beschwerdeführerin nichts zu ändern.
+So erscheint es zunächst
+irrelevant, ob die Verkehrsexperten gravierende oder erhebliche Fehler gemäss
+Ziff. 10 der Richtlinien 19b feststellen mussten. Vielmehr genügt es, dass
+Letztere die Kontrollfahrt im Sinne einer Gesamtwürdigung als nicht bestanden
+beurteilt haben. Sodann bringt die Beschwerdeführerin zwar zu Recht vor, dass
+der Beschwerdegegner 1 auf Probleme in der Handhabung des
+Schaltgetriebes hingewiesen habe. Im massgebenden Prüfbericht wurde dies
+allerdings nicht als mangelhafte Fahrzeugbedienung qualifiziert, weshalb die
+Bewertung der Position Nr. 13 offensichtlich auch keine Auswirkungen auf
+den Entscheid der Verkehrsexperten zeitigte. Insofern waren die
+diesbezüglichen Ausführungen des Beschwerdegegners 1 nicht
+entscheidrelevant, auch wenn es naheliegend ist, dass sich Schwierigkeiten
+mit der Gangschaltung in einer mangelhaften Verkehrsauffassung oder einer
+mangelhaften Fahreinteilung niederschlagen können.
+Bezüglich des
+Prüffahrzeugs ist weiter darauf hinzuweisen, dass die Beschwerdeführerin vor
+der Durchführung der Kontrollfahrt mit Schreiben vom 22. August 2018
+explizit darüber informiert wurde, dass die Kontrollfahrt mit dem eigenen
+Motorfahrzeug oder einem Fahrschulwagen zu absolvieren sei. Folglich hatte
+sie keinen Grund zur Annahme, dass die Kontrollfahrt zwingend mit einem
+manuell geschalteten Fahrzeug stattfinden müsse. Anderweitiges ergibt sich
+denn auch nicht aus dem Aufgebot zur Kontrollfahrt vom 14. September 2018.
+Darin wurde vielmehr auf Anhang 12 VZV verwiesen, welcher eine Kontrollfahrt
+mit einem Fahrzeug mit Automatikgetriebe ebenfalls nicht ausschliesst. Soweit
+die Beschwerdeführerin nun im vorliegenden Verfahren diesbezügliche Rügen
+vorbringt, kann sie nichts zu ihren Gunsten ableiten.
+Des Weiteren geht die
+Beschwerdeführerin fehl damit, wenn sie ihre Fahrpraxis beim Entscheid über
+das Bestehen der Kontrollfahrt berücksichtigt haben will. Diese betrifft
+nämlich wie der automobilistische Leumund einer Person die Vergangenheit, was
+bei der hier zur Diskussion stehenden aktuellen und zukünftigen Fahreignung
+der Beschwerdeführerin ausser Acht zu lassen ist (vgl. BGer-Urteil
+1C_225/2009 vom 4. November 2009 E. 2).
+Ferner erweist sich die
+Bewertung der Kriterien Nrn. 31 und 43 durch die Verkehrsexperten nicht als
+offensichtlich falsch. Vielmehr verkennt die Beschwerdeführerin dabei, dass
+das Bestehen von Kriterium Nr. 31 nicht ohne Weiteres gegen den zu gering
+festgestellten Abstand im Kolonnenverkehr gemäss Position Nr. 43 spricht,
+zumal sich die beiden Kriterien auf ganz unterschiedliche Eigenschaften
+beziehen. Während mittels Position Nr. 31 nämlich die Verkehrsdynamik
+erfasst werden soll, werden mit Kriterium Nr. 43 einzelne
+Verkehrsvorgänge bewertet. Folglich führt eine einwandfreie Verkehrsdynamik
+im Sinne von Position Nr. 31 nicht zwingend zu einem bestandenen
+Kolonnenfahren, weshalb die diesbezügliche Rüge ebenfalls ins Leere zielt.
+Dies trifft sodann auch
+auf die Vorbringen der Beschwerdeführerin, die Kontrollfahrt habe sich anders
+als von den Verkehrsexperten berichtet zugetragen, zu, da es sich dabei um
+unbelegte Tatsachenbehauptungen handelt, welche den übereinstimmenden
+Feststellungen der Verkehrsexperten entgegenstehen. Hieran vermögen auch die
+von der Beschwerdeführerin beantragten Beweisabnahmen nichts zu ändern. Weil
+nämlich keine unbefangenen und ausserhalb des Verfahrens stehenden Personen
+Auskünfte erteilen können und die involvierten Personen sich bereits
+rechtsgenüglich äussern konnten, ist aus den beantragten Befragungen nichts
+Entscheidrelevantes zu erwarten, weshalb darauf verzichtet werden kann.
+Schliesslich kann der
+Beschwerdeführerin nicht darin gefolgt werden, dass die Durchführung der
+Kontrollfahrt mangelhaft gewesen sei. Einerseits ergeben sich keine Indizien
+dafür, dass nicht gebührend Rücksicht auf ihre sprachlichen Schwierigkeiten
+genommen wurde. Andererseits bestehen keine Hinweise dafür, dass sie
+erheblich abgelenkt wurde, weshalb davon auszugehen ist, dass die
+Prüfungsbedingungen so ausgestaltet waren, dass sie eine realistische Chance
+zum Bestehen der Prüfung hatte.
+5.2
+Im Übrigen ist darauf hinzuweisen, dass dem
+Beschwerdegegner 1 keine Verletzung des rechtlichen Gehörs anzulasten ist. So
+hielten die Verkehrsexperten zunächst zwar rudimentär die Ergebnisse der
+Kontrollfahrt im Prüfbericht fest, was verfassungsrechtlich nicht zu
+beanstanden ist (BGer-Urteil 1C_600/2012 vom 16. April 2013
+E. 2.1). Alsdann eröffneten sie der Beschwerdeführerin den negativen
+Bescheid unter Beisein ihres Übersetzers und brachten die dafür relevanten
+Punkte vor, was für die Erfüllung der verfassungsmässigen Begründungspflicht
+selbst dann genügt, wenn die Begründung sehr kurz ausgefallen ist,
+beispielsweise weil der Entscheid bei der Beschwerdeführerin auf
+Unverständnis gestossen ist (BGer-Urteil 1C_522/2011 vom 20. Juni 2012
+E. 4). Sodann hatte die Beschwerdeführerin wie bereits dargelegt im
+anschliessenden Verfahren vor der Vorinstanz rechtsgenüglich die Möglichkeit
+erhalten, sich zur Sache zu äussern, weshalb die geltend gemachte Verletzung
+ihres rechtlichen Gehörs unbegründet ist.
+Schliesslich vermag die
+Beschwerdeführerin aus dem Umstand, dass sie den Prüfbericht erst später
+erhalten hat, nichts zu ihren Gunsten abzuleiten. So war ihr der negative
+Entscheid aufgrund der Nachbesprechung bewusst, weshalb sie (oder ihr
+Rechtsvertreter) Anlass und Gelegenheit gehabt hätten, umgehend Akteneinsicht
+zu verlangen (vgl. BGer-Urteil 1C_225/2009 vom 4. November 2009 E. 1.6).
+6.
+Aufgrund der tatsächlichen
+Feststellungen im Prüfbericht der beiden Verkehrsexperten ist der Schluss,
+die Kontrollfahrt habe als nicht bestanden zu gelten, nicht zu beanstanden
+und schon gar nicht als offensichtlich falsch zu qualifizieren. Da der
+Beschwerdeführerin dieser Entscheid zudem rechtsgenüglich eröffnet wurde und
+weitere Beweisabnahmen nichts Entscheidrelevantes beitragen würden, erweist
+sich die Beschwerde als unbegründet.
+Dies führt zur Abweisung
+der Beschwerde.
+III.
+1.
+Nach Art. 5 Abs. 1 EG SVG
+i.V.m. Art. 134 Abs. 1 lit. c VRG hat die Partei, welche im Beschwerde-,
+Klage- oder Revisionsverfahren unterliegt, die amtlichen Kosten zu tragen.
+Die Gerichtskosten von pauschal Fr. 1'000.- sind demnach der unterliegenden
+Beschwerdeführerin aufzuerlegen und mit dem von ihr bereits geleisteten
+Kostenvorschuss in gleicher Höhe zu verrechnen. Mangels Obsiegens steht ihr
+sodann keine Parteientschädigung zu (Art. 138 Abs. 3 lit. a VRG e
+contrario).
+2.
+Weil
+es sich bei einer Kontrollfahrt um eine Fähigkeitsprüfung im Sinne von Art.
+83 lit. t des Bundesgesetzes über das Bundesgericht vom 17. Juni 2005
+(BGG) handelt, steht gegen das vorliegende Urteil einzig die subsidiäre
+Verfassungsbeschwerde gemäss Art. 113 ff. BGG ans Bundesgericht offen (vgl.
+BGE 138 II 501 E. 1.1, 136 II 61 E. 1.1.1).
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Die
+Gerichtskosten von Fr. 1'000.- werden der Beschwerdeführerin auferlegt und
+mit dem von ihr bereits geleisteten Kostenvorschuss in gleicher Höhe
+verrechnet.
+3.
+Es
+wird keine Parteientschädigung zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
