@@ -1,0 +1,330 @@
+---
+decision_id: "gl_gerichte_OG.2019.00054"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2019.00054"
+docket_2: "OGS.2020.69"
+decided: "2019-12-20"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1305&W10_KEY=218274&nTrefferzeile=9&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/311.0/art-069.md", "switzerland/bund/acts/312.0/art-090.md", "switzerland/bund/acts/312.0/art-215.md", "switzerland/bund/acts/312.0/art-376.md", "switzerland/bund/acts/312.0/art-377.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/812.121/art-008.md", "switzerland/bund/acts/812.121/art-019.md", "switzerland/bund/acts/812.121/art-019a.md", "switzerland/bund/acts/812.121/art-019b.md"]
+---
+
+# GL Gerichte OG.2019.00054
+
+## Regeste
+
+Beschlagnahme
+
+## Text
+
+Glarus Obergericht 20.12.2019 OG.2019.00054 (OGS.2020.69)
+Glaris Obergericht 20.12.2019 OG.2019.00054 (OGS.2020.69)
+Glarona Obergericht 20.12.2019 OG.2019.00054 (OGS.2020.69)
+
+Kanton Glarus
+Obergericht
+Beschluss
+vom 20. Dezember 2019
+Verfahren
+OG.2019.00054
+A.______
+Beschwerdeführer
+gegen
+Staats- und Jugendanwaltschaft des
+Kantons Glarus
+Beschwerdegegnerin
+betreffend
+Beschlagnahme
+Rechtsbegehren
+de
+s Beschwerdeführers
+(gemäss Eingabe vom
+1. Juli 2019, [act. 1, sinngemäss]):
+1.
+Es sei der Beschlagnahmebefehl
+der Staats- und Jugendanwaltschaft vom 19. Juni 2019
+(UB.2019.00703) aufzuheben und dem Beschwerdeführer das sichergestellte
+Cannabis zurückzugeben.
+2.
+Es sei die Rechtmässigkeit der
+am 15. Juni 2019 erfolgten polizeilichen Personenkontrolle sowie die dabei
+erfolgte Sicherstellung (Wegnahme) der mitgeführten geringen Menge Cannabis
+(unter 10 Gramm) zu beurteilen.
+Antrag
+de
+r
+Beschwerde
+gegner
+in
+(gemäss Eingabe vom 21. August 2019, [act. 6, sinngemäss]):
+1.
+Die Beschwerde sei abzuweisen.
+2.
+Unter Kosten- und Entschädigungsfolgen
+zulasten des Beschwerdeführers.
+____________________
+Das Gericht
+zieht in Betracht:
+I.
+1.
+Am 15. Juni 2019
+unterzog die Kantonspolizei Glarus im Volksgarten in Glarus A.______ einer
+Personenkontrolle und stellte dabei ca. 2.5 Gramm Marihuana bzw.
+Cannabis sicher, dessen THC-Gehalt gemäss den Angaben von A.______ selber
+mindestens 1.0 Prozent betrug (siehe zum Ganzen act. 3).
+A.______
+war mit der umgehenden Vernichtung des konfiszierten Marihuanas durch die
+Polizei nicht einverstanden, worauf die Sache zur Entscheidung an die
+Staatsanwaltschaft übermittelt wurde (siehe act. 3
+"Ermittlungen/Ergänzungen").
+2.
+Mit Verfügung vom
+19. Juni 2019 (act. 2) ordnete die Staatsanwaltschaft an, dass
+das sichergestellte Marihuana beschlagnahmt werde; zugleich stellte die
+Staatsanwaltschaft in Aussicht, dass das Marihuana voraussichtlich definitiv
+eingezogen werde und räumte A.______ in Hinsicht darauf eine Frist von zehn
+Tagen ein für eine allfällige Stellungnahme.
+3.
+Am 1. Juli 2019 erhob
+A.______ beim Obergericht Beschwerde mit den oben sinngemäss wiedergegebenen
+Anträgen (act. 1).
+Die Staatsanwaltschaft beantragt
+in ihrer Stellungnahme vom 21. August 2019 (act. 6) die kostenfällige
+Abweisung der Beschwerde, soweit darauf überhaupt einzutreten sei.
+II.
+1.
+1.1
+Der Beschwerdeführer
+wendet sich in seiner Beschwerde vom 1. Juli 2019 zunächst gegen den
+Beschlagnahmebefehl der Staatsanwaltschaft vom 19. Juni 2019 und
+verlangt dabei dessen Aufhebung sowie die Rückgabe des sichergestellten
+Cannabis.
+1.2
+Der angefochtene
+Beschlagnahmebefehl ist der Beschwerde zugänglich (Art. 393 Abs. 1
+lit. a StPO). Die Beschwerdefrist von 10 Tagen (Art.
+396
+Abs. 1 StPO) ist eingehalten: der strittige Beschlagnahmebefehl vom 19.
+Juni 2019 (act. 2) konnte dem Beschwerdeführer frühestens am 20. Juni
+2019 zugegangen sein, womit die Beschwerdefrist auf jeden Fall bis Montag, 1.
+Juli 2019 dauerte (Art. 90 StPO)
+2.
+2.1
+Mit Beschwerde kann
+eine Rechtsverletzung und/oder eine unvollständige oder unrichtige
+Feststellung des Sachverhalts sowie Unangemessenheit gerügt werden
+(Art. 393 Abs. 2 StPO). Vorliegend zweifelt der Beschwerdeführer in
+seiner Beschwerde (act. 1) die Rechtmässigkeit des Beschlagnahmebefehls
+an.
+2.2
+Der Beschwerdeführer wurde
+von Polizei anlässlich der Personenkontrolle vom 15. Juni 2019 mit einer
+Menge von ca. 2.5 Gramm Cannabis angetroffen (act. 3).
+Der
+Besitz
+von bis zu 10
+Gramm Cannabis zum eigenen Konsum ist nicht strafbar (Art. 19b BetmG;
+siehe dazu Urteil BGer 6B_1273/2016 vom 6. September 2017
+E. 1.5.2.). Vorliegend gehen Polizei und Staatsanwaltschaft davon aus,
+das beim Beschwerdeführer sichergestellte Cannabis sei für den Eigenkonsum
+bestimmt gewesen und ist darum gegen ihn
+kein
+Strafverfahren eröffnet
+worden. Der vorliegend angefochtene Beschlagnahmebefehl (act. 2) ist
+denn auch folgerichtig nicht im Rahmen eines laufenden Strafverfahrens
+ergangen, sondern im sogenannt selbstständigen Einziehungsverfahren im Sinne
+von Art. 376 ff. StPO (dazu nachfolgend mehr).
+Der Beschwerdeführer führt in
+seiner Beschwerde zwar aus, er sei von der Polizei zum Verwendungszweck des
+sichergestellten Cannabis überhaupt nicht befragt worden (act. 1
+S. 1 unten und S. 2 oben). Soweit aber der Beschwerdeführer damit
+andeuten sollte, er habe das Cannabis nicht zwecks Eigenkonsum in seinem
+Besitz gehabt, so müsste gegen ihn geradewegs ein Strafverfahren eröffnet
+werden. Denn der Besitz von Cannabis zu jedem anderen Zweck als Eigenkonsum
+stellt eine Straftat dar (Art. 19 Abs. 1 lit. d BetmG; siehe
+dazu auch
+Fingerhuth/Schlegel/ Jucker
+,
+OFK-BetmG, Art. 19b N 3). Indes ist aufgrund der vorliegenden
+Gesamtumstände ohne weiteres davon auszugehen, dass der Beschwerdeführer das
+bei ihm am 15. Juni 2019 sichergestellte Cannabis zu Konsumzwecken bei sich
+hatte. Diese Betrachtungsweise liegt nachgerade auch im Interesse des
+Beschwerdeführers selber (andernfalls wäre gegen ihn ein Strafverfahren zu
+eröffnen), weshalb er durch die betreffende Feststellung überhaupt nicht
+beschwert ist und sich daher weitere Ausführungen hierzu von vornherein
+erübrigen.
+2.3
+Zu klären bleibt als
+nächstes, ob das beim Beschwerdeführer sichergestellte Cannabis zu Recht
+beschlagnahmt worden ist, was der Beschwerdeführer in seiner Beschwerde
+konkret bestreitet.
+2.3.1
+Gegenstände
+(körperliche Sachen) oder Vermögenswerte können auch ausserhalb eines
+Strafverfahrens eingezogen werden. Das entsprechende Prozedere ist in der
+Strafprozessordnung in einem eigenständigen Abschnitt geregelt
+("Selbständiges Einziehungsverfahren"; Art. 376 – 378 StPO);
+die materiellen Einziehungsvoraussetzungen selber ergeben sich aus
+Art. 69 – 72 StGB (siehe BSK StPO-
+Baumann
+,
+Art. 376 N 1 und Art. 377 N 3).
+2.3.2
+Gegenstände
+oder Vermögenswerte, die ausserhalb eines Strafprozesses in einem selbständigen
+Verfahren voraussichtlich einzuziehen sind, werden vorerst einmal
+beschlagnahmt (Art. 377 Abs. 1 StPO). Erst in einem nachfolgenden
+zweiten Schritt ist zu klären ‑ wobei dem Betroffene vorgängig
+Gelegenheit zur Stellungnahme zu geben ist ‑, ob die materiellen
+Voraussetzungen einer endgültigen Einziehung erfüllt sind, worauf
+gegebenenfalls die Staatsanwaltschaft einen Einziehungsbefehl erlässt
+(Art. 377 Abs. 2 StPO). Bei der vorliegend angefochtenen
+Beschlagnahme handelt es sich somit um eine einstweilige (vorsorgliche)
+Prozessvorkehr (siehe dazu Urteile BGer 1B_26/2012 vom 23. Mai 2012 E. 5.2
+und 1B_527/2011 vom 21. Oktober 2011 E 3.). In diesem frühen
+Verfahrensstadium muss daher noch nicht verbindlich feststehen, ob ein
+beschlagnahmter Gegenstand dereinst auch effektiv eingezogen wird; vielmehr
+genügt zur Anordnung einer Beschlagnahme, wenn es aufgrund der bis dahin
+bekannten Umstände als bloss wahrscheinlich erscheint (im Sinne von
+"möglich", "denkbar" oder "in Frage kommt"),
+dass später eine definitive Einziehung erfolgen könnte (vgl. dazu BSK StPO-
+Bommer/Gold­schmid
+, Art. 263
+N 37 mit Hinweisen).
+2.3.3
+Gemäss Art. 69 Abs. 1 StGB wird ohne Rücksicht auf die Strafbarkeit
+einer bestimmten Person die Einziehung eines Gegenstandes verfügt, wenn
+dieser namentlich
+zur Begehung einer Straftat
+bestimmt ist und wenn
+dieser Gegenstand die Sicherheit von Menschen, die Sittlichkeit oder die
+öffentliche Ordnung gefährdet.
+Oben wurde
+dargelegt, dass eine Person, die bis zu 10 Gramm Cannabis
+besitzt
+in
+der Absicht, dieses zu konsumieren, straflos bleibt. Demgegenüber aber ist
+der (unbefugte)
+Konsum
+von Betäubungsmitteln selber strafbar
+(Art. 19a Ziff. 1 BetmG; siehe dazu auch
+Fingerhuth/Schlegel/Jucker
+, OFK-BetmG, Art. 19b
+N 4). Cannabis mit einem THC-Gehalt von mindestens 1 % (ein
+entsprechender THC-Anteil ist vorliegend unbestritten; siehe oben
+E. I. 1.) gilt als verbotenes Betäubungsmittel im Sinne von
+Art. 2 lit. a und Art. 8 Abs. 1 lit. d BetmG (siehe dazu
+Art. 3 Abs. 2 lit. d der Betäubungsmittelkontrollverordnung
+[SR 812.121.1] in Verbindung mit Art. 2 Abs. 1 inklusive
+Anhang 1 und Anhang 5 der Betäubungsmittelverzeichnisverord­nung
+[SR 812.121.11]; zum Ganzen:
+Fingerhuth/Schlegel/Jucker
+,
+OFK-BetmG, Art. 2 N 38 und Art. 8 N 23 und N 24).
+Vorliegend hat der Beschuldigte
+am 15. Juni 2019 das fragliche Cannabis mit sich geführt, um diese
+Substanz mutmasslich zu konsumieren und dadurch [Konsum] eine strafba­re
+Handlung zu begehen. Weil daher das Cannabis zur Begehung einer Straftat
+bestimmt war, erscheint eine (spätere) Einziehung als wahrscheinlich und
+konnte daher das Cannabis beschlagnahmt werden. Ob allenfalls noch ein
+weiterer Beschlagnahme- bzw. Einziehungsgrund indiziert war – dass nämlich
+das sichergestellte Cannabis aus einer Straftat hervorgebracht worden war –,
+kann an dieser Stelle offenbleiben. Von Cannabis mit einem THC-Gehalt von wie
+hier mindestens 1 % geht sodann eine Gefährdung für die Sicherheit von
+Menschen und die öffentliche Ordnung aus. Dies erhellt bereits daraus, dass
+es sich bei Cannabis mit einem THC-Gehalt von mindestens 1 % um eine vom
+Betäubungsmittelgesetz erfasste (kontrollierte und verbotene) Substanz
+handelt. Die Anforderungen an eine (einstweilige) Beschlagnahme des Cannabis
+sind damit allesamt erfüllt; erst in einem nächsten Schritt wird die
+Staatsanwaltschaft zu klären haben, ob das Cannabis endgültig einzuziehen und
+zu vernichten ist. Der Beschwerdeführer verkennt diese Zweistufigkeit im
+Verfahren, argumentiert er nämlich in seiner Beschwerde so, als habe die
+Staatsanwaltschaft bereits definitiv über die Einziehung des Cannabis
+entschieden.
+2.3.4
+Aus alldem ergibt
+sich, dass die von der Staatsanwaltschaft angeordnete Beschlagnahme des
+Cannabis (act. 2) im Lichte von Art. 377 Abs. 1 StPO zu Recht
+erfolgt ist. Demnach ist die Beschwerde in diesem Punkt abzuweisen.
+3.
+3.1
+Der Beschwerdeführer
+bestreitet in seiner Beschwerde (act. 1) ferner die Rechtmässigkeit der
+von der Polizei am 15. Juni 2019 an ihm vorgenommenen Personenkontrolle
+(Anhaltung) und der dabei durchgeführten Durchsuchung seines Rucksackes sowie
+der anschliessend erfolgten Sicherstellung des darin gefundenen Cannabis.
+3.2
+Die vom
+Beschwerdeführer beanstandete Anhaltung und Durchsuchung und die dabei
+erfolgte Sicherstellung des im Rucksack gefundenen Cannabis haben sich am
+15. Juni 2019 zugetragen (act. 3). Die betreffenden polizeilichen
+Massnahmen, die rechtlich auf Art. 12, Art 20 und Art. 21 PolG/GL
+(GS V A/11/1) sowie ferner auf Art. 215, Art. 249, Art. 250,
+Art. 263 und Art. 241 Abs. 3 und Abs. 4 StPO gründen,
+werden gegen aussen unmittelbar durch deren Vornahme offenbar und wirksam.
+Diese entsprechenden hoheitlichen Handlungen, die nicht in der besonderen
+Form eines Beschlusses oder Verfügung zutage treten (siehe dazu BSK StPO-
+Guidon
+, Art. 393 N 6), sind
+ebenfalls mit Beschwerde anfechtbar (Art. 393 Abs. 1 lit. a
+StPO). Die zehntägige Beschwerdefrist (Art. 396 Abs. 1 StPO)
+beginnt dabei unmittelbar mit der Kenntnisnahme durch den Adressaten zu
+laufen (Art. 384 lit. c StPO). Im Übrigen hat der Beschwerdeführer
+unmittelbar im Anschluss an die Anhaltung und Durchsuchung am 15. Juni
+2019 von der Polizei ein Formular ("Betäubungsmittel-Sicherstellung
+anlässlich Personenkontrolle") ausgehändigt erhalten, welches er
+überdies selber unterzeichnet hat (act. 3).
+Vorliegend ist somit die
+Beschwerdefrist am 25. Juni 2019 abgelaufen (Art. 90 Abs. 1
+StPO). Die vom Beschwerdeführer erst am 1. Juli 2019 erhobene Beschwerde
+(act. 1 sowie act. 1/1 [Briefkuvert mit Aufgabestempel]) ist daher
+in Hinsicht auf die darin beanstandeten polizeilichen Handlungen vom 15. Juni
+2019 verspätet, weshalb insoweit auf die Beschwerde nicht einzutreten ist.
+3.3
+Aber auch wenn die
+Beschwerde nicht verspätet wäre, müsste sie abgewiesen werden.
+Vorliegend erfolgte die
+polizeiliche Personenkontrolle und Durchsuchung im Volksgarten in Glarus
+(act. 3). Es ist gerichtsnotorisch, dass sich an dieser Örtlichkeit
+insbesondere in den Sommermonaten Personen zum Drogenkonsum und auch ‑handel
+zusammenfinden. Wenn daher die Polizei im Volksgarten bei dort verweilenden
+Personen gelegentlich Kontrollen durchführt, ist dies nicht zu beanstanden
+(Art. 20 Abs. 2 lit. d und Art. 21 Abs. 1
+lit. d PolG/GL sowie Art. 215 StPO). Dass konkret im Fall des
+Beschwerdeführers ein hinreichender Verdacht auf das Vorhandensein möglicher
+Betäubungsmittel bestand, bestätigte sich darin, dass bei ihm tatsächlich
+Cannabis gefunden wurde. Sodann erscheint das Vorgehen der Polizei, welche
+den Rucksack des Beschwerdeführers unmittelbar an Ort und Stelle durchsucht hat,
+nicht als unverhältnismässig. Der Beschwerdeführer schreibt im Übrigen in
+seiner Beschwerde selber, dass vor Juni 2019 "über Monate hinweg […]
+geringfügige Mengen Cannabis dem Besitzer nicht weggenommen" worden
+seien; plötzlich sei diese Praxis geändert worden, "ohne eine
+Ankündigung und ohne die Öffentlichkeit davon zu orientieren"
+(act. 1 S. 3). Mit diesen Ausführungen gibt sich der
+Beschwerdeführer selber als Insider im Umgang mit geringfügigen Mengen
+Cannabis zu erkennen. Es ist daher ohne weiteres einsichtig, wenn erfahrene
+und mit dem spezifischen Milieu vertraute Polizeibeamte ihn einer Kontrolle
+unterziehen.
+III.
+Die Beschwerde ist abzuweisen,
+soweit darauf einzutreten ist. Bei diesem Ausgang hat der Beschwerdeführer
+die Kosten des Beschwerdeverfahrens zu tragen (Art. 428 Abs. 1
+StPO). Die Gerichtsgebühr für das Beschwerdeverfahren ist auf CHF 400.-
+zu bemessen (Art. 8 Abs. 2 lit. b der Zivil- und
+Strafprozesskostenverordnung; GS III A/5).
+____________________
+Das Gericht
+beschliesst
+:
+1.
+Die Beschwerde wird abgewiesen,
+soweit darauf einzutreten ist.
+2.
+Die Gerichtsgebühr für das
+Beschwerdeverfahren wird festgesetzt auf CHF 400.-; sie wird dem
+Beschwerdeführer auferlegt und von ihm bezogen.
+3.
+Schriftliche Mitteilung an:
+[...]
