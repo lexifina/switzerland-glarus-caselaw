@@ -1,0 +1,741 @@
+---
+decision_id: "gl_gerichte_OG.2019.00101"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2019.00101"
+docket_2: "OGS.2021.113"
+decided: "2020-01-16"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1416&W10_KEY=218274&nTrefferzeile=5&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/311.0/art-022.md", "switzerland/bund/acts/311.0/art-112.md", "switzerland/bund/acts/312.0/art-101.md", "switzerland/bund/acts/312.0/art-102.md", "switzerland/bund/acts/312.0/art-132.md", "switzerland/bund/acts/312.0/art-133.md", "switzerland/bund/acts/312.0/art-134.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-222.md", "switzerland/bund/acts/312.0/art-226.md", "switzerland/bund/acts/312.0/art-237.md", "switzerland/bund/acts/312.0/art-326.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-421.md", "switzerland/bund/acts/312.0/art-423.md"]
+---
+
+# GL Gerichte OG.2019.00101
+
+## Regeste
+
+Haftverlängerung
+
+## Text
+
+Glarus Obergericht 16.01.2020 OG.2019.00101 (OGS.2021.113)
+Glaris Obergericht 16.01.2020 OG.2019.00101 (OGS.2021.113)
+Glarona Obergericht 16.01.2020 OG.2019.00101 (OGS.2021.113)
+
+Kanton Glarus
+Obergericht
+Beschluss
+vom 16. Januar 2020
+Verfahren
+OG.2019.00101
+A.______
+Beschuldigte und
+Beschwerdeführerin
+vertreten
+durch Rechtsanwalt B.______
+gegen
+Staats- und Jugendanwaltschaft des
+Kantons Glarus
+Anklägerin
+und
+Beschwerdegegnerin
+vertreten
+durch die Staatsanwältin
+betreffend
+Haftverlängerung
+Anträge
+der Beschwerdeführerin
+(gemäss Eingabe vom
+27. Dezember 2019, act. 34):
+1.
+Es sei die Verfügung des
+Zwangsmassnahmengerichts des Kantons Glarus vom 19. Dezember 2019
+aufzuheben und die Beschwerdeführerin unverzüglich aus der
+Untersuchungshaft zu entlassen.
+2.
+Es sei der Unterzeichnete für
+das vorliegende Beschwerdeverfahren als notwendiger amtlicher Verteidiger
+oder eventualiter als unentgeltlicher amtlicher Verteidiger einzusetzen und
+der mittellosen Beschwerdeführerin die integrale unentgeltliche
+Rechtspflege zu gewähren.
+3.
+Alles unter Kosten- und
+Entschädigungsfolgen zu Lasten des Staates.
+Verfahrensanträge:
+4.
+Es seien vom
+Zwangsmassnahmengericht (SG.2019.00022, SG.2019.00122, SG.2019.00054,
+SG.2019.00086, SG.2019.00114) und von der Beschwerdegegnerin
+(SA.2019.00121) die vollständigen Verfahrensakten zu edieren.
+5.
+Es seien die Akten der Verfahren
+OG.2019.00067 und OG.2019.00086 beizuziehen.
+Anträge
+der Beschwerdegegnerin
+(gemäss Eingabe vom 7. Januar 2020,
+act. 38):
+1.
+Die Beschwerde sei
+abzuweisen, soweit darauf einzutreten ist.
+2.
+Die Akten der Verfahren
+SG.2019.00022, SG.2019.00034, SG.2019.00054, SG.2019.00086, SG.2019.00114,
+SG.2019.00122, SG.2019.00142, OG.2019.00067 und OG.2019.00086 des
+Zwangsmassnahmengerichts sowie des Obergerichts Glarus seien beizuziehen.
+3.
+Die Kosten des Verfahrens
+seien der Beschuldigten aufzuerlegen.
+____________________
+Das Gericht
+zieht in Betracht:
+I.
+1.
+Am
+3. Oktober 2018, kurz nach 18.00 Uhr, wurde in [...] E.______ von
+zwei Personen zusammengeschlagen. Dieser erlitt dabei schwere Kopf- und
+Gesichtsverletzungen sowie diverse weitere Knochenbrüche an den Extremitäten
+(SG.2019.00022 act.1, act. 2/1). Hinsichtlich dieses Delikts führt die
+Staats- und Jugendanwaltschaft des Kantons Glarus (nachfolgend
+Staatsanwaltschaft) eine umfassende Strafuntersuchung und ermittelt gegen
+mehrere Personen wegen versuchten Mordes (i.S.v. Art. 112 StGB
+i.V.m. Art. 22 Abs. 1 StGB).
+2.
+A.______ (nachfolgend
+Beschuldigte) wird von der Staatsanwaltschaft dringend verdächtigt, am
+Gewaltdelikt zum Nachteil von E.______ in irgendeiner Form beteiligt gewesen
+zu sein (sei es als Mittäterin, Anstifterin oder Gehilfin). Die Beschuldigte
+wurde am 19. Februar 2019 aus der ausländerrechtlichen Haft in
+Zürich an die Kantonspolizei Glarus überführt und befindet sich seither in
+Untersuchungshaft (SG.2019.00022, SG.2019.00034, SG.2019.00054,
+SG.2019.00086, OG.2019.00067, SG.2019.00114, SG.2019.00122, OG.2019.00086).
+Mit Schreiben vom
+18. Oktober 2019 informierte Rechtsanwalt B.______ die
+Staatsanwaltschaft, dass die Beschuldigte ihn mit der Wahrung ihrer
+Interessen beauftragt habe und ersuchte um Einsetzung als amtlichen
+Verteidiger der Beschuldigten (SG.2019.00114, act. 2/1). Die
+Staatsanwaltschaft widerrief die bis anhin bestehende amtliche Verteidigung
+(Art. 134 Abs. 1 StPO i.V.m. Art. 133 StPO) mit Verfügung
+vom 24. Oktober 2019 (SG.2019.00114 act. 2/2 S. 1 f.) und
+informierte Rechtsanwalt B.______ gleichentags, dass sein Antrag auf Wechsel
+der amtlichen Verteidigung abgewiesen werde und er somit der Wahlverteidiger
+der Beschuldigten sei (OG.2019.00086 act. 2/3). Mit Verfügung vom
+29. November 2019 setzte die Staatsanwaltschaft die vormalige
+amtliche Verteidigerin wiederum als amtliche Verteidigerin der Beschuldigten
+ein (act. 17/2). Die Staatsanwaltschaft stellte mit Eingabe vom 12. Dezember 2019
+ein Gesuch um Verlängerung der Untersuchungshaft bis
+31. Januar 2020 (act. 1 S. 1). Mit Verfügung vom
+19. Dezember 2019 hiess das Zwangsmassnahmengericht dieses
+Haftverlängerungsgesuch gut (act. 29 Disp.-Ziff. 1). Im vorliegenden
+Haftverfahren wird die Beschuldigte durch Rechtsanwalt B.______ vertreten
+(act. 22).
+3.
+Der begründete
+Entscheid des Zwangsmassnahmengerichts vom 19. Dezember 2019
+(act. 29) wurde der Verteidigung mit E-Mail vom
+19. Dezember 2019, um 13.54 Uhr, zugestellt (act. 31). Dagegen
+liess die Beschuldigte am 27. Dezember 2019 Beschwerde beim Obergericht
+erheben (act. 34). Die Staatsanwaltschaft beantragte mit
+Beschwerdeantwort vom 7. Januar 2020 die Abweisung der Beschwerde
+(act. 38). Der Verteidiger liess dem Obergericht am
+7. Januar 2019 (unaufgefordert) ein Schreiben zukommen
+(act. 39-41 vorab per E-Mail). Die Beschwerdeantwort der
+Staatsanwaltschaft sowie das Schreiben der Verteidigung wurden der jeweiligen
+Gegenseite zur Kenntnis zugestellt (act. 43).
+II.
+1.
+Der angefochtene
+Haftentscheid ist der Beschwerde zugänglich (Art. 393 Abs. 1
+lit. c StPO i.V.m. Art. 222 StPO). Die durch die Haft unmittelbar
+betroffene Beschuldigte ist beschwerdelegitimiert (Art. 382 Abs. 1
+StPO); die Anfechtungsfrist ist eingehalten (Art. 396 Abs. 1 StPO).
+Die übrigen Rechtsmittelvoraussetzungen geben zu keinen Bemerkungen Anlass.
+Auf die Beschwerde der Beschuldigten ist einzutreten. Mit Beschwerde an das
+Obergericht können in Bezug auf den angefochtenen Entscheid
+Rechtsverletzungen und eine unvollständige oder unrichtige Feststellung des
+Sachverhalts sowie Unangemessenheit gerügt werden (Art. 393 Abs. 2
+StPO).
+2.
+Die Parteien beantragen
+den Beizug der bisherigen Haftakten (act. 34 S. 2 Ziff. 4 und 5,
+act. 38 S. 1 Ziff. 2). Diese Akten (SG.2019.00022, SG.2019.00034,
+SG.2019.00054, SG.2019.00086, OG.2019.00067, SG.2019.00114, SG.2019.00122,
+OG.2019.00086) wurden bereits im vorinstanzlichen Verfahren beigezogen. Die
+Zitate der vorinstanzlichen Akten (SG.2019.00142 act. 1-33) erfolgen
+unter dem Aktenzeichen des vorliegenden Beschwerdeverfahrens. Der Antrag der
+Beschuldigten, es seien von der Staatsanwaltschaft die vollständigen Akten
+der Strafuntersuchung SA.2019.00121 zu edieren (act. 34 S. 2
+Ziff. 4), ist mit Hinweis auf Art. 102 Abs. 1 StPO i.V.m.
+Art. 101 Abs. 1 StPO abzuweisen, soweit darauf einzutreten ist.
+III.
+1.
+1.1.
+Gemäss Art. 221
+Abs. 1 StPO ist Untersuchungshaft zulässig, wenn die beschuldigte Person
+eines Verbrechens oder Vergehens dringend verdächtig ist und zudem ernsthaft
+zu befürchten ist, dass sie sich entweder durch Flucht dem Strafverfahren
+oder der zu erwartenden Sanktion entzieht (Fluchtgefahr; lit. a), dass
+sie Personen beeinflusst oder auf Beweismittel einwirkt, um so die
+Wahrheitsfindung zu beeinträchtigen (Kollusionsgefahr; lit. b), oder
+dass sie durch schwere Verbrechen oder Vergehen die Sicherheit anderer
+erheblich gefährdet, nachdem sie bereits früher gleichartige Straftaten
+begangen hat (Wiederholungsgefahr; lit. c).
+Der Haftgrund des dringenden
+Tatverdachts setzt voraus, dass genügend konkrete Anhaltspunkte für eine
+Straftat und eine Beteiligung des Beschuldigten daran vorliegen und die
+Untersuchungsbehörden somit das Bestehen eines dringenden Tatverdachts mit
+vertretbaren Gründen bejahen durften. Im Haftprüfungsverfahren genügt der
+Nachweis von konkreten Verdachtsmomenten, wonach das inkriminierte Verhalten
+mit erheblicher Wahrscheinlichkeit die fraglichen Tatbestandsmerkmale
+erfüllen könnte. Das Beschleunigungsgebot in Haftsachen lässt keinen Raum für
+ausgedehnte Beweismassnahmen. Zur Frage des dringenden Tatverdachts hat das
+Haftgericht weder ein eigentliches Beweisverfahren durchzuführen noch dem
+erkennenden Strafgericht vorzugreifen. Im Laufe des Strafverfahrens ist ein
+immer strengerer Massstab an die Erheblichkeit und Konkretheit des
+Tatverdachts zu stellen. Nach Durchführung der in Betracht kommenden
+Untersuchungshandlungen muss eine Verurteilung als wahrscheinlich erscheinen
+(
+BGE 143 IV 316
+E. 3.1, 3.2).
+1.2.
+Der dringende
+Tatverdacht gegenüber der Beschuldigten stützt sich auf die folgenden
+Anhaltspunkte:
+F.______ und G.______ haben
+gestanden, am 3. Oktober 2018 E.______ mit Stöcken zusammengeschlagen zu
+haben (OG.2019.00067 act. 13/1, act. 13/2). Die Staatsanwaltschaft
+geht davon aus, dass F.______ und G.______ von H.______ und J.______
+angeheuert wurden, um gegen ein hohes Entgelt E.______ zu töten, und vermutet
+weiter, dass der Gewaltakt gegen E.______ aus Rache verübt wurde (act. 1,
+OG.2019.00067 act. 1 S. 3 f., act. 13/4, act. 25/3,
+SG.2019.00022 act. 2/2 S. 6 Fragen 42 ff.). F.______ und
+G.______ befinden sich im vorzeitigen Strafvollzug; H.______ und J.______
+wurden in Untersuchungshaft versetzt, wobei Letzterer gemäss
+Staatsanwaltschaft erst am 10. Dezember 2019 verhaftet wurde
+(act. 1 S. 2, act. 2/4 S. 1).
+Die Beschuldigte ist die
+Schwester von F.______ und die Cousine von G.______. Nach Angaben der
+Beschuldigten ist G.______ für sie wie ein Bruder (OG.2019.00067
+act. 13/1, act. 13/2 je S. 3 Frage 3, act. 13/3 S. 3
+Frage 4).
+Im Verlauf der Ermittlungen hat sich
+herausgestellt, dass die Beschuldigte mit H.______ eine Art Liebesbeziehung
+führt. In der Einvernahme vom 12. April 2019 bestritt die
+Beschuldigte die Liebesbeziehung mit H.______ (SG.2019.00054 act. 2/2
+S. 12 f. Fragen 119 ff.). Erst in der Einvernahme vom
+21. Juni 2019 präzisierte sie, dass sie mit H.______ eine engere
+Beziehung "als ein Freund" führe, dass sie erst seit kurzem mit ihm
+zusammen sei und sich ab und zu in seiner Wohnung in […] aufgehalten habe
+(OG.2019.00067 act. 13/3 S. 6 Fragen 31 ff.).
+Bei der Beschuldigten wurden
+anlässlich ihrer Verhaftung zwei Mobiltelefone sichergestellt und die
+Beschuldigte gab zunächst an, beide Mobiltelefone würden ihr gehören
+(SG.2019.00022 act. 2/5 S. 7 Frage 39). Im Zuge der
+Ermittlungen gab die Beschuldigte zu, das Mobiltelefon von H.______ an sich
+genommen zu haben (SG.2019.00054 act. 2/2 S. 13 Frage 133).
+Weiter sagte die Beschuldigte am
+19. Februar 2019 zunächst aus, sie habe sich im Zeitraum
+September bis Oktober 2018 in Italien aufgehalten und mit G.______
+schon seit Ewigkeiten keinen Kontakt mehr gehabt (SG.2019.00022 act. 2/5
+S. 3, 5 Fragen 11, 23). Die Auswertung der rückwirkenden Randdaten der
+durch die Beschuldigte benutzten Rufnummer […] (SG.2019.00022 act. 2/6
+S. 5 Frage 26 f., act. 2/12) ergab jedoch, dass über diese
+Rufnummer am 9.9.2018, 10.9.2018, 16.9.2018 und 5.10.2018 über diverse
+Antennenstandorte in der Schweiz Verbindungen zum Mobiltelefon von G.______
+generiert wurden (SG.2019.00022 act. 2/13, SG.2019.00034 act. 2/1).
+Aus den Akten geht hervor, dass
+im Spazierhof des Gefängnisses in Glarus die folgenden Mitteilungen
+hinterlassen wurden [übersetzt auf Deutsch]: "Dass ich nicht mit euch
+war", "uns (…) ging das Geld aus, deshalb sind wir zurückgekehrt.
+Unsere gemeinsame Reise war ein Zufall", "du warst unterwegs nach
+Albanien, aber du hast keine Verbindung zu uns", "für dich, deshalb
+gingst du nach Albanien", "wir haben dich sehr lieb
+Schwester", "sie haben den Grenzübergang in Morine überprüft. Sie
+haben gesehen, dass du warst" (
+OG.2019.00067
+act. 13/5,
+SG.2019.00054
+act. 2/2 Beilagen 2 und 3
+). Gemäss E-Mail Korrespondenz zwischen
+der Kantonspolizei Glarus und der albanischen Polizei (SG.2019.00022
+act. 2/11) verliessen die Beschuldigte, F.______ und G.______ am
+30. November 2018 Albanien und am 7. Oktober 2018 sind alle
+drei wieder nach Albanien eingereist; beide Male passierten sie den
+Grenzübergang in Morine. In der Einvernahme vom 21. Juni 2019 sagte
+die Beschuldigte jedoch aus, dass sie F.______ und G.______ im September und
+Oktober 2018 in der Schweiz 2-3 Mal getroffen habe und die Schweiz am 5., 6.
+oder 7. Oktober 2018 mit F.______ und G.______ mit dem Bus in
+Richtung Albanien verlassen habe (OG.2019.00067 act. 13/3 S. 8 f. Fragen
+48 ff.).
+In der Einvernahme vom
+5. September 2019 sagte G.______ aus, dass er H.______ durch die
+Beschuldigte kennengelernt habe und sie [F.______ und G.______] diesen für
+eine saubere Arbeit angefragt hätten. H.______ habe ihnen gesagt, dass sie
+für J.______ einen Auftrag erledigen könnten (act. 2/1 S. 2 f.
+Fragen 2 ff., S. 4 ff. Fragen 32 ff., 35, 47, 53). F.______ beschreibt in
+seiner Einvernahme vom 5. September 2019 (act. 2/3)
+detailliert (und in Übereinstimmung mit G.______s Aussagen), wie es zur
+Auftragserteilung gekommen sei (act. 2/3 S. 2 ff.). G.______ und F.______
+sagten aus, dass sie den Auftrag von J.______ erhalten hätten (act. 2/1 S. 2
+Frage 3, act. 2/3 S. 9 Frage 78). H.______ berichtete in der Einvernahme vom
+11. Juli 2019, dass J.______ an G.______ und F.______ den Auftrag
+erteilt habe, E.______ zusammenzuschlagen. Bei der Auftragserteilung sei er
+[H.______] jedoch auf der Toilette gewesen (act. 2/2 S. 9 f.
+Fragen 146 ff.).
+F.______ und G.______ sagten aus,
+dass eine Cousine [deren Namen sie nicht nennen wollten] für E.______ in
+einer Bar gearbeitet habe und von diesem sexuell belästigt worden sei
+(OG.2019.00067 act. 13/1 S. 4 ff. Fragen 4, 49, 52 ff., act. 13/2
+S. 7 ff. Fragen 55, 64 und 71 ff.). Die Beschuldigte gab zu Protokoll, dass
+es noch eine dritte in die Tat involvierte Person gäbe, welche sie auf
+Anweisung von F.______ im November 2018 zweimal in Zürich getroffen habe
+(SG.2019.00054 act. 2/2 S. 2 f. Fragen 46 ff.).
+Hinsichtlich der Übergabe des
+Entgelts für die Auftragstat vom 3. Oktober 2018 sagte G.______ am
+22. August 2019 aus, dass er dieses Geld in Tranchen erhalten habe.
+Beim zweiten Mal sei das Geld "über" H.______ gekommen und am Tag,
+an welchem sie abgefahren seien [per Bus von Zürich nach Albanien], hätten
+sie von der Beschuldigten, welche das Geld ihrerseits von H.______ erhalten
+habe, nochmals CHF 7'500.— erhalten (OG.2019.00067 act. 25/3). Am
+5. September 2019 präzisierte G.______ seine Aussagen dahingehend, dass
+sie den Preis für die Auftragstat mit H.______ vereinbart hätten und zuerst
+habe man sich auf CHF 8'000.— geeinigt. H.______ habe J.______ dann
+gesagt, dass sie [G.______ und F.______] CHF 10'000.— wollten. Überdies
+schilderte G.______ detailliert, dass er als Entgelt für die Auftragstat von
+der Beschuldigten einmal CHF 1'500.— und einmal CHF 7'500.— erhalten
+habe. H.______ habe der Beschuldigten das Geld für "diese Sache"
+übergeben; sie habe aber nicht gewusst, wofür das Geld gewesen sei. J.______
+habe ihm CHF 1'000.— persönlich übergeben (act. 2/1 S. 5 Frage 38,
+S 8 f. Fragen 70 ff., Fragen 77, 82 ff.).
+F.______ bestätigte in seiner
+Einvernahme vom 5. September 2019 (act. 2/3), dass ihnen in
+drei Tranchen insgesamt ca. CHF 10'000.— für die Auftragstat bezahlt
+worden sei (S. 7 Fragen 59-62). Hingegen verweigerte F.______ zunächst die Aussagen
+zu den Fragen, wer ihnen dieses Bargeld ausbezahlt habe (S. 7 f.
+Fragen 63 ff.). Schliesslich aber sagte F.______ implizit aus, dass
+die Beschuldigte ihnen CHF 9'000.— übergeben habe und gab an, dass die
+Beschuldigte mit der Angelegenheit nichts zu tun habe (S. 8 f. Fragen
+67-69, 76 und 80 f.).
+H.______ sagte am
+11. Juli 2019 aus, dass F.______ und G.______ von J.______ Geld für
+die Auftragstat erhalten hätten; das Geld sei ihnen in einem Couvert
+übergeben worden (act. 2/2 S. 9 f. Fragen 150 und 156).
+Die Beschuldigte bestritt
+anlässlich ihrer Einvernahme vom 29. August 2019, an dieser Sache
+beteiligt zu sein und vom Entgelt in Höhe von CHF 10'000.— für diese
+Auftragstat gewusst zu haben. Weiter bestritt sie, CHF 7'500.— an
+G.______ übergeben zu haben (act. 2/5 S. 2 Frage 150, S. 6 f. Fragen 174
+ff.).
+Gemäss Meldeformular des
+Gefängnisses Glarus vom 16. November 2019 konnten die Mitgefangenen
+"jeden Abend" zuhören, wie H.______ und die Beschuldigte
+miteinander betreffend Geldübergaben in Höhe von insgesamt CHF 10'000.—
+gesprochen hätten (act. 2/4 S. 13). In der am 30. November 2019
+(act. 2/4) durchgeführten Konfrontationseinvernahme (zwischen F.______,
+G.______, H.______ und der Beschuldigten [act. 2/4]) bestritt die
+Beschuldigte, solche Absprachen getroffen zu haben (S. 4 Frage 11). Die
+mitbeschuldigten Personen G.______ und F.______ äusserten sich in dieser
+Konfrontationseinvernahme (erneut) unterschiedlich hinsichtlich der Übergabe
+des Entgelts für die Auftragstat. G.______ bleibt dabei, Bargeld von der
+Beschuldigten erhalten zu haben. F.______ behauptet nun, er habe die Summe
+persönlich von J.______ erhalten und weiter, dass er [F.______] der
+Beschuldigten Bargeld zur Aufbewahrung übergeben habe und sie ihm dieses dann
+später (u.a. am Tag ihrer Rückreise nach Albanien) wieder zurückgegeben habe
+(S. 5 f. Fragen 17 ff., 22). Die Beschuldigte bestätigte nun auch, von
+F.______ Bargeld zur Aufbewahrung erhalten zu haben (S. 8 Frage 34).
+1.3.
+1.3.1.
+In seiner Verfügung
+vom 19. Dezember 2019 bejahte das Zwangsmassnahmengericht den
+dringenden Tatverdacht (act. 29 S. 3 f. Erw. 4.1.1). Es erwog,
+dass die (geänderte) Aussage von F.______ anlässlich der
+Konfrontationseinvernahme vom 30. November 2019 hinsichtlich der
+angeblichen Übergabe und der Herkunft des Entgelts für die Tat vom
+3. Oktober 2018 den Tatverdacht ebenso wenig zu erhärten vermöge,
+wie die alleinige Tatsache, dass J.______ verhaftet worden sei. Der dringende
+Tatverdacht sei seit dem Beschluss des Obergerichts mangels weiterer
+(bekannter) Ermittlungsergebnisse nicht entkräftet worden.
+1.3.2.
+Die Beschuldigte
+äussert sich in ihrer Beschwerde (act. 34) zum dringenden Tatverdacht wie
+folgt: Die Staatsanwaltschaft behaupte losgelöst von den Fakten, F.______ und
+G.______ seien von ihr, J.______ sowie von H.______ mit dem versuchten Mord
+beauftragt worden (act. 34 S. 3 f. Rz 8, S. 8 Rz 25 ff.). Seit der
+Konfrontationseinvernahme vom 30. November 2019 habe sich der
+dringende Tatverdacht gegen sie entkräftet. Die Rollen der inhaftierten
+Personen in dieser Straftat seien nach rund einjähriger Untersuchung geklärt
+(act. 34 S. 5 f. Rz 15 ff.). Die Aufbewahrung von deliktisch erlangtem
+Geld mache sie nicht zur Mittäterin zu versuchtem Mord. Die Herkunft des
+Geldes sei ihr gemäss übereinstimmenden Aussagen von F.______ und G.______
+nicht bekannt gewesen. Das Geld stamme von J.______. Selbst wenn ihr durch
+die Aufbewahrung des Geldes ein Rechtspflegedelikt zur Last gelegt werden
+könnte, so vermöge dies eine Verlängerung der Untersuchungshaft nicht zu
+rechtfertigen. Eine Verurteilung aufgrund eines Tatbeitrages zum versuchten
+Mord könne ausgeschlossen werden, da keinerlei Beweise gegen sie vorlägen
+(act. 34 S. 9 Rz 29).
+1.3.3.
+Die
+Staatsanwaltschaft führt in der Beschwerdeantwort (act. 38) unter Hinweis auf
+den Haftverlängerungsantrag vom 12. Dezember 2019 aus, dass
+F.______ und die Beschuldigte anlässlich der Konfrontationseinvernahme vom
+30. November 2019 ihre Aussagen hinsichtlich der Übergabe und der
+Herkunft des Entgelts für die Tat vom 3. Oktober 2018 in [...] im
+Betrag von insgesamt CHF 9'000.— geändert hätten. Die Aussagen von
+F.______ [er habe das Entgelt von J.______ erhalten und der Beschuldigten
+übergeben, ohne dass G.______ involviert gewesen sei; die Beschuldigte habe
+das Entgelt aufbewahrt und ihm später wieder zurückgegeben] belasteten die
+Beschuldigte betreffend die Aufbewahrung von Deliktserlös schwer und
+widersprächen den vorherigen übereinstimmenden Aussagen von F.______ und
+G.______. Sie machten in zeitlicher Hinsicht keinen Sinn und stünden den
+bisherigen Aussagen der Beschuldigten entgegen (act. 1 S. 2-5).
+1.4.
+Zunächst ist die
+Beschuldigte darauf hinzuweisen, dass die Staatsanwaltschaft in ihrem
+Haftverlängerungsgesuch vom 12. Dezember 2019 bei der Beschuldigten
+von Gehilfenschaft ausgeht (act. 1). Aufgrund des dargelegten
+Sachverhalts und den aktuellsten Ermittlungsergebnissen ist diese Annahme
+plausibel und der Vorwurf der Beschuldigten, die Staatsanwaltschaft behaupte
+losgelöst von den Fakten, F.______ und G.______ seien von J.______, H.______
+und der Beschuldigten mit dem versuchten Mord beauftragt worden (act. 34 S. 3
+f. Rz 8), ist unzutreffend. Die Beschuldigte blendet nach wie vor vollständig
+aus, dass sie von G.______ schwer belastet wurde. Gestützt auf die Aussagen
+von G.______ ist derzeit davon auszugehen, dass die Beschuldigte bei der
+Übergabe des Entgelts für die Auftragstat an die beiden Haupttäter
+mutmasslich eine aktive Rolle gespielt hat, indem sie den grössten Teil des
+Entgelts (in zwei Tranchen) persönlich an G.______ übergeben haben soll.
+Bezüglich dieser von G.______ berichteten Geldübergaben ist erstaunlich, dass
+die Beschuldigte am 30. November 2019 die Version von F.______ [er habe
+an die Beschuldigte CHF 9'000.— zur Aufbewahrung übergeben und sie habe
+ihm dieses Geld später wieder zurückgegeben] bestätigte (act. 2/4
+S. 8 Frage 34). In zeitlicher Hinsicht erfolgte diese Bestätigung
+nachdem die Beschuldigte diesbezüglich mit H.______ im Gefängnis Glarus
+mutmasslich Absprachen getätigt hatte (act. 2/4 S. 13). In der
+Einvernahme vom 29. August 2019 schilderte die Beschuldigte noch
+detailliert, dass F.______ und G.______ Geldprobleme gehabt hätten und sie
+F.______ CHF 200.— gegeben habe (act. 2/5 S. 4 ff.
+Fragen 162, 174 ff.). Damals erwähnte sie die erst später von
+F.______ vorgetragene Version, wonach er an die Beschuldigte CHF 9'000.— zur
+Aufbewahrung übergeben habe, nicht (act. 2/5).
+Die inhaftierten mitbeschuldigten
+Personen belasteten in ihren Aussagen J.______ schwer: H.______ will bei der
+Auftragserteilung gar auf der Toilette gewesen sein und nichts gehört haben
+(act. 2/2 S. 9 f. Fragen 146 ff.); F.______ änderte seine
+Aussagen dahingehend, dass er die gesamten CHF 10'000.— angeblich von
+J.______ direkt erhalten haben will (act. 2/4 S. 5 f.
+Fragen 17, 20 f.) und die Beschuldigte behauptet wiederholt, dass sie
+J.______ gar nicht kenne (act. 2/4 S. 4 Fragen 12 f.,
+S. 10 Frage 48, act. 2/5 S. 5 Fragen 166 ff.). Bei diesem
+Sachverhalt ist die genaue Rollenverteilung, insbesondere hinsichtlich der
+Geldübergaben, nicht geklärt. Dass F.______, G.______ und H.______ die
+Beschuldigte mit mutmasslichen Schutzbehauptungen zu entlasten versuchen, ist
+auch vor dem Hintergrund der engen Beziehung zwischen der Beschuldigten und
+diesen Personen zu würdigen. Mit der Staatsanwaltschaft (act. 1 S. 3) ist
+davon auszugehen, dass die Beschuldigte im Laufe der Strafuntersuchung ihre
+nachweislich falschen Aussagen anpasste, sobald ihr entsprechende Beweise
+vorgelegt wurden (vgl. Erwägung III.1.2. S. 5 ff.). Hinsichtlich der
+gemeinsamen Reise der Beschuldigte mit den beiden Haupttätern nach Albanien
+wurden, wie dargelegt, im Spazierhof des Gefängnisses Glarus konkrete
+Kollusionshandlungen vorgenommen.
+Bei der Frage, ob der dringende
+Tatverdacht zu bejahen ist, sind die gesamten Umstände zu würdigen und es ist
+zu prüfen, ob konkrete Verdachtsmomente vorliegen, wonach das inkriminierte
+Verhalten mit erheblicher Wahrscheinlichkeit die fraglichen
+Tatbestandsmerkmale erfüllen könnte (BGE 143 IV 316 E. 3.1). Es geht nicht
+darum, einzelne Indizien für sich alleine zu betrachten (z.B. die
+Liebesbeziehung zu H.______, die gemeinsame Ausreise, die aufgefundenen
+Kassiber, die Verhaftung von J.______, die geänderte Aussage von F.______)
+und gestützt darauf, eine mögliche Tatbeteiligung zu verneinen oder im
+Haftprüfungsverfahren eine Beweiswürdigung dieser Indizien vorzunehmen.
+Insgesamt betrachtet hat sich aus heutiger Sicht der dringende Tatverdacht
+gegenüber der Beschuldigten, insbesondere aufgrund ihres Aussageverhaltens
+und der Aussagen von G.______, durchaus erhärtet. Gestützt auf die
+dargelegten Anhaltspunkte (welche für eine mögliche Tatbeteiligung der
+Beschuldigten sprechen) ist zu konstatieren, dass die Beschuldigte immer noch
+dringend tatverdächtig ist (i.S.v. Art. 221 Abs. 1 StPO), am versuchten Mord [verübt
+an E.______] beteiligt zu sein (vgl. OG.2019.00086 act. 39 S. 10
+Erw. III.2.3).
+2.
+2.1.
+Neben dem dringenden
+Tatverdacht verlangt Art. 221 Abs. 1 StPO auch einen
+besonderen Haftgrund. Kollusionsgefahr liegt vor, wenn ernsthaft zu
+befürchten ist, dass der Beschuldigte Personen beeinflusst oder auf
+Beweismittel einwirkt, um so die Wahrheitsfindung zu beeinträchtigen
+(Art. 221 Abs. 1 lit. b StPO).
+Dies kann insbesondere in der
+Weise erfolgen, dass sich der Beschuldigte mit Zeugen, Auskunftspersonen, Sachverständigen
+oder Mitbeschuldigten ins Einvernehmen setzt oder sie zu wahrheitswidrigen
+Aussagen veranlasst, oder dass er Spuren und Beweismittel beseitigt.
+Strafprozessuale Haft wegen Kollusionsgefahr soll verhindern, dass der
+Beschuldigte die wahrheitsgetreue Abklärung des Sachverhaltes vereitelt oder
+gefährdet. Es müssen konkrete Indizien für die Annahme von
+Verdunkelungsgefahr sprechen. Konkrete Anhaltspunkte für Kollusionsgefahr
+können sich namentlich ergeben aus dem bisherigen Verhalten des Beschuldigten
+im Strafprozess, aus seinen persönlichen Merkmalen, aus seiner Stellung und
+seinen Tatbeiträgen im Rahmen des untersuchten Sachverhalts sowie aus den
+persönlichen Beziehungen zwischen ihm und den beteiligten Personen. Bei der
+Frage, ob im konkreten Fall eine massgebliche Beeinträchtigung des
+Strafverfahrens wegen Verdunkelung droht, ist auch der Art und Bedeutung der
+von Beeinflussung bedrohten Aussagen bzw. Beweismitteln, der Schwere der
+untersuchten Straftaten sowie dem Stand des Verfahrens Rechnung zu tragen
+(BGE 132 I 21 E. 3.2).
+2.2.
+2.2.1.
+Die Vorinstanz geht
+bei der Beschuldigten weiterhin von einer gewissen Kollusionsgefahr aus.
+Diese sei aber durch den Umstand, dass sich F.______ und G.______ im
+vorzeitigen Strafvollzug befänden (act. 2/4 S. 1) und damit in der Lage
+seien, frei mit der Aussenwelt zu kommunizieren, der Verhaftung des gemäss
+heutiger Erkenntnislage letzten flüchtigen Tatbeteiligten sowie durch den
+Zeitablauf seit der Tat vom 3. Oktober 2018 erheblich relativiert (act.
+29 S. 4 Erw. 4.2).
+2.2.2.
+Die
+Staatsanwaltschaft geht weiterhin von Kollusionsgefahr aus und verweist
+diesbezüglich auf ihre bisherigen Ausführungen in den diversen Haftverfahren
+sowie auf die bereits getätigten Kollusionshandlungen der Beschuldigten. Die
+Beschuldigte habe jede Gelegenheit genutzt, um mit den mitbeschuldigten
+Personen Aussagen abzustimmen und sie zu Schutzbehauptungen zu bewegen. Die
+Beschuldigte sei deshalb in die Strafanstalt Gmünden verlegt worden (act. 1
+S. 6, act. 38 S. 4).
+2.2.3.
+Die Beschuldigte
+bestreitet in ihrer Beschwerde (act. 34 S. 10 f. Rz 35 ff.) das Vorliegen der
+Kollusionsgefahr. Da sie nicht mit der Straftat in Verbindung gebracht werden
+könne, habe sie nachweislich auch kein Interesse an einer Verdunkelung. Es
+seien sämtliche Mitbeschuldigten in Haft, weshalb Kollusionsgefahr von
+vornherein auszuschliessen sei. Die Untersuchungshandlungen seien
+abgeschlossen und es sei nicht ersichtlich, welche Beweise die
+Staatsanwaltschaft noch erheben wolle.
+2.3.
+In das zu
+untersuchende (sehr schwere) Gewaltdelikt sind mehrere Personen involviert,
+die
+in einer engen familiären Beziehung oder
+in einer Art Liebesbeziehung zueinander stehen. Zudem sind mutmasslich noch
+weitere Familienmitglieder in die Tat involviert (z.B. die von E.______
+angeblich sexuell belästigte Cousine). Weiter hat die Beschuldigte gemäss
+ihren Aussagen auf Geheiss von F.______ eine weitere mutmasslich involvierte
+Person mehrere Male getroffen. Die beiden Haupttäter, welche sich
+hinsichtlich der Geldübergabe nun widersprechen, befinden sich im vorzeitigen
+Strafvollzug und können mit der Aussenwelt kommunizieren. Das strenge Regime
+der Untersuchungshaft konnte die Beschuldigte nicht davon abhalten, mehrfach
+Kollusionshandlungen vorzunehmen
+(act. 2/4 S. 13,
+SG.2019.00054 act. 2/2 Beilage 2 und 3). Überdies versuchte die
+Beschuldigte aus dem Gefängnis Glarus heraus schriftlich Anweisung zu
+erteilen, ein Tagebuch, welches sich oberhalb des Kühlschranks [in der
+Wohnung von H.______] befand, wegzuwerfen (OG.2019.00067 act. 2/1).
+Tatsächlich konnte die Polizei in der Wohnung von H.______ an der von der
+Beschuldigten bezeichneten Stelle ein solches Heft sicherstellen
+(OG.2019.00067 act. 2/2 S. 3).
+Bei diesem
+Sachverhalt ist bei der Beschuldigten zweifelsfrei von erheblicher konkreter
+Kollusionsgefahr auszugehen.
+3.
+Im Übrigen besteht bei
+der Beschuldigten auch Fluchtgefahr (i.S.v. Art. 221 Abs. 1
+lit. a StPO). Die Beschuldigte lebt mit ihrer Familie in Albanien
+und besitzt für die Schweiz keine Anwesenheitsberechtigung. Die Staatsanwaltschaft
+Winterthur / Unterland erliess gegen die Beschuldigte einen Strafbefehl wegen
+rechtswidrigen Aufenthaltes in der Schweiz. Weiter wurde eine Einreisesperre
+für die Schweiz, Liechtenstein und den Schengenraum vom
+19. Februar 2019 bis 18. Februar 2022 verfügt
+(SG.2019.00022 act. 2/9, 2/10). Die Beschuldigte sagte überdies aus,
+dass sie einen gefälschten Pass gehabt habe (act. 2/5 S. 9 Frage 186) und gab
+weiter zu Protokoll, dass sie sich bei einer Haftentlassung sofort nach Albanien
+begeben würde (SG.2019.00022 act. 2/6 S. 7 Frage 9). Damit
+liegen genügend konkrete Indizien vor, dass sich die Beschuldigte der
+Strafuntersuchung durch Flucht entziehen würde, wenn sie in Freiheit wäre.
+4.
+4.1.
+Nachdem der konkrete
+dringende Tatverdacht gegen die Beschuldigte vorliegt und auch die weiteren
+Haftgründe der Kollusionsgefahr sowie der Fluchtgefahr zu bejahen sind, gilt
+zu prüfen, ob die Untersuchungshaft verhältnismässig ist (Art. 197
+Abs. 1 lit. c und d StPO) oder ob an Stelle der
+Untersuchungshaft eine oder mehrere mildere Massnahmen (Ersatzmassnahmen)
+treten könnten, die den gleichen Zweck wie die Haft erfüllen (Art. 237
+Abs. 1 StPO).
+4.2.
+4.2.1.
+Die Vorinstanz
+erachtete die Verlängerung der Untersuchungshaft bis Ende Januar 2020 als
+verhältnismässig. Der Staatsanwaltschaft werde mit dieser Verlängerung
+ermöglicht, weitere Einvernahmen bzw. allfällige letzte Ermittlungshandlungen
+vorzunehmen, also die Untersuchung abzuschliessen. Ersatzmassnahmen, welche
+geeignet wären, der bestehenden Flucht- und Kollusionsgefahr wirksam zu
+begegnen, seien keine ersichtlich (act. 29 S. 5 Erw. 5.2. f.).
+4.2.2.
+Die Beschuldigte
+vertritt in ihrer Beschwerde die Auffassung, dass die Verlängerung der
+Untersuchungshaft bis am 31. Januar 2020 nicht mehr verhältnismässig
+sei. Die Staatsanwaltschaft begründe die Verlängerung der Untersuchungshaft
+mit der Verhaftung von J.______ (act. 34 S. 4 Rz 11). Die
+Verhaftung von J.______ vermöge die Verlängerung der Untersuchungshaft nicht
+zu rechtfertigen. Sie kenne J.______ nicht und es bestehe (unter Hinweis auf
+BGE 140 IV 172) auch kein Konfrontationsanspruch mit ihm (act. 34
+S. 7 Rz 20).
+Die Beschuldigte vertritt die
+Ansicht, dass die Staatsanwaltschaft J.______ schon längst hätte befragen
+können und verlangt die Herausgabe der Protokolle von allfälligen bereits
+durchgeführten Einvernahmen mit J.______ (act. 34 S. 11 f.).
+Weiter wirft die Beschuldigte der Staatsanwaltschaft hinsichtlich der erst am
+30. November 2019 durchgeführten Konfrontationseinvernahme
+monatelange Untätigkeit vor (act. 34 S. 11 Rz 41). Mit
+Schreiben vom 7. Januar 2020 mutmasst die Beschuldigte, die
+Staatsanwaltschaft habe J.______ auch rund einen Monat nach seiner Verhaftung
+noch immer nicht zu seiner vermeintlichen Beziehung zur Beschuldigten
+befragt. Weiter vertritt die Beschuldigte die Auffassung, dass eine ohne
+Wissen von Rechtsanwalt B.______ [welcher in der Strafuntersuchung als
+Wahlverteidiger fungiert] durchgeführte Befragung von J.______ zwingend eine
+Verletzung ihrer Teilnahmerechte darstelle und zur Unverwertbarkeit der
+Beweise resp. einer Wiederholung der Einvernahme führe (act. 40).
+4.2.3.
+Die
+Staatsanwaltschaft beantragt die Verlängerung der Untersuchungshaft für die
+Beschuldigte bis am 31. Januar 2020. Aufgrund der Verhaftung von
+J.______ am 10. Dezember 2019 seien weitere Ermittlungen und
+Einvernahmen, insbesondere auch Konfrontationseinvernahmen, unabdingbar. Dem
+Wahlverteidiger sei bekannt, dass den jeweiligen Rechtsvertretern bereits
+Terminvorschläge für eine Konfrontationseinvernahme mit J.______ unterbreitet
+worden seien. Der Tatverdacht gegenüber der Beschuldigten habe sich weiter
+erhärtet. Ihr werde die Beteiligung an einem versuchten Mord vorgeworfen,
+womit die Untersuchungshaft als verhältnismässig erscheine. Angesichts des der
+Beschuldigten vorgeworfenen Verbrechens habe sie mit einer längeren
+Freiheitsstrafe zu rechnen, sodass keine Überhaft drohe (act. 1 S. 7 f., act.
+38).
+4.3.
+Vorliegend handelt es
+sich um eine umfassende Strafuntersuchung und um die Aufklärung eines sehr schweren
+Delikts (versuchter Mord) mit mehreren Tatbeteiligten, verschiedenen
+Täterformen, die sorgfältig ermittelt werden müssen (auch die Rolle der
+Beschuldigten), sowie mehreren Sachverhaltskomplexen (Beauftragung,
+Durchführung und Bezahlung des versuchten Auftragsmordes). Es muss eingeräumt
+werden, dass durch die bereits getätigten Kollusionshandlungen der
+Beschuldigten die Ermittlungen möglicherweise erschwert wurden. In Bezug auf
+die Beschuldigte scheint der Fokus derzeit auf der Übergabe des Entgelts für
+die Auftragstat an die Haupttäter zu liegen, bei der die Beschuldigte
+mutmasslich eine aktive Rolle gespielt hat.
+Die Staatsanwaltschaft konnte
+zwischenzeitlich fünf mutmasslich Tatbeteiligte in Untersuchungshaft resp. in
+den vorzeitigen Strafvollzug versetzen und von diesen liegen teilweise
+Geständnisse vor. Dies
+führt
+hinsichtlich der Planung und Durchführung von Konfrontationseinvernahmen (mit
+Gewährung von umfassenden Teilnahmerechten) zu unvermeidbaren Verzögerungen.
+Festzuhalten
+ist, dass der in der Strafuntersuchung als Wahlverteidiger agierende
+Rechtsanwalt B.______ bei der Terminfindung für die Konfrontationseinvernahme
+vom 30. November 2019 nicht kooperierte und nicht einmal die
+Bereitschaft signalisiert hatte, eine Stellvertretung zu organisieren. Das
+Obergericht erachtete in seinem Beschluss vom 15. November 2019 die
+Verlängerung der Untersuchungshaft [damals wurde seitens der
+Staatsanwaltschaft eine Haftverlängerung von einem Monat beantragt] als
+verhältnismässig, um damit die Durchführung dieser Konfrontationseinvernahme
+zu gewährleisten (OG.2019.00086 act. 39). Nun ergibt sich aus den Akten,
+dass die Staatsanwaltschaft die vormalige amtliche Verteidigerin mit
+Verfügung vom 29. November 2019 wieder einsetzen musste (act. 17/2),
+um schliesslich die Konfrontationseinvernahme am 30. November 2019
+durchführen zu können. Vor diesem Hintergrund bricht der Vorwurf der
+Beschuldigten, die Staatsanwaltschaft sei monatelang untätig gewesen,
+geradezu in sich zusammen.
+Da derzeit weder die Hafteinvernahme
+noch weitere Einvernahmen mit J.______ im Recht liegen, kann nicht gemutmasst
+werden, wer gegenüber wem ein Konfrontationsanspruch haben könnte. Entgegen
+der Auffassung der Beschuldigten (act. 34 S. 5 Rz 14) besteht im
+jetzigen Zeitpunkt der Strafuntersuchung kein Anspruch auf uneingeschränkte
+und sofortige Einsicht in die Untersuchungsakten (Art. 101 Abs. 1
+StPO). Entsprechend hat die Staatsanwaltschaft im vorliegenden
+Haftbeschwerdeverfahren die Haftakten von J.______ nicht zu edieren. Bei
+einer kursorischen Prüfung ist auch nicht ersichtlich, weshalb die
+Einvernahmen von J.______ nicht verwertbar sein sollten; deren Verwertbarkeit
+scheint von vornherein jedenfalls nicht ausgeschlossen (BGer
+1B_179/2012 vom 13. April 2012 E. 2.4), zumal gemäss
+Staatsanwaltschaft die Beschuldigte damit zu konfrontieren sein wird. D
+ie
+Staatsanwaltschaft unterbreitete den jeweiligen Rechtsvertretern [also auch
+der amtlichen Verteidigerin der Beschuldigten] bereits Terminvorschläge für
+eine Konfrontationseinvernahme mit J.______ und Rechtsanwalt B.______
+[welcher in der Strafuntersuchung als Wahlverteidiger fungiert] werde die
+Teilnahme an der Konfrontationseinvernahme, welche voraussichtlich am 14.
+Januar 2020 stattfinde, nicht verwehrt (act. 38 S. 2). Insgesamt
+betrachtet,
+ist – entgegen der Ansicht
+der Beschuldigten (act. 40) – keine "dem Beschleunigungsgebot in
+krasser Weise widersprechende Arbeitshaltung" der Staatsanwaltschaft zu
+erblicken. Ohnehin können im Haftverfahren nur solche Verfahrensmängel geltend
+gemacht werden, die sich unmittelbar auf die Haftfrage beziehen bzw. in
+direktem Zusammenhang mit den Voraussetzungen der Untersuchungshaft stehen
+(BGer 1B_179/2012 vom 13. April 2012 E. 2.7).
+Die Schwere des der
+Beschuldigten vorgeworfenen Delikts und die
+sehr wahrscheinliche diesbezügliche Verurteilung legen derzeit keine Überhaft
+nahe. Es besteht ein gewichtiges öffentliches Interesse an der Aufklärung
+dieses Verbrechens. Nach dem Gesagten erscheint die beantragte Verlängerung
+der Untersuchungshaft bis am 31. Januar 2020 als angemessen. Da
+aktuell von der Beschuldigten eine hohe Kollusions- und Fluchtgefahr ausgeht,
+sind die von der Beschuldigten vorgeschlagenen Ersatzmassnahmen (Rechtshilfe,
+Gewährung freies Geleit, Konfrontationseinvernahme mittels Videoübertragung
+[act. 34 S. 7 Rz 20 f.]) unwirksam. Diese implizieren gerade,
+dass sich die Beschuldigte nach Entlassung aus der Untersuchungshaft sofort
+nach Albanien begeben und für die Strafuntersuchungsbehörde – wie von der
+Staatsanwaltschaft befürchtet (act. 1) – nicht mehr greifbar sein wird.
+5.
+Damit ist die
+Beschwerde der Beschuldigten gegen die Verfügung des Zwangsmassnahmengerichts
+vom 19. Dezember 2019 (act. 29) abzuweisen. Den vorstehenden
+Erwägungen gemäss ist die vorinstanzlich angeordnete Haftverlängerung bis am
+31. Januar 2020 rechtskonform und sachgerecht. Die Beschuldigte ist
+darauf hinzuweisen, dass sie bei der Staatsanwaltschaft jederzeit ein
+Haftentlassungsgesuch stellen kann (Art. 226 Abs. 3 StPO). Die
+Staatsanwaltschaft hat während der Haftdauer laufend zu prüfen, ob nach wie
+vor Haftgründe bestehen.
+IV.
+1.
+Die Regelung der
+Kostenfolgen hat im Endentscheid zu erfolgen (Art. 421 Abs. 1
+StPO). Die Gerichtsgebühr für das Beschwerdeverfahren ist zuhanden der das
+Strafverfahren abschliessenden Behörde auf CHF 800.— festzulegen
+(Art. 8 Abs. 2 lit. b i.V.m. Art. 6 der
+Zivil- und
+Strafprozesskostenverordnung [GS III A/5]) und zu den Untersuchungskosten im
+Sinne von Art. 326 Abs. 1 lit. d StPO zu schlagen.
+Parteientschädigungen sind keine zuzusprechen
+(Art. 423
+Abs. 1 StPO).
+2.
+Rechtsanwalt B.______
+ist antragsgemäss (act. 34 S. 2 Ziff. 2) für das vorliegende
+Beschwerdeverfahren als unentgeltlicher amtlicher Verteidiger (Art. 132 Abs.
+1 lit. b StPO) einzusetzen (BGer 1B_364/2019 vom 28. August 2019 E. 3.4, BGer
+1B_732/2011 vom 19. Januar 2012 E. 7.2, BGer 1B_705/2011 vom
+9. Mai 2012 E. 2). Für die Staatsanwaltschaft ist die Bedürftigkeit
+der Beschuldigten fraglich (act. 38 S. 3 f.). Die Beschuldigte ist 1993
+geboren und gibt als Beruf Stylistin an (act. 2/5 S. 1). Es ist davon
+auszugehen, dass sie selbständig erwerbend war. Das Obergericht geht von der
+Mittellosigkeit der Beschuldigten aus und verzichtet derzeit darauf, von der
+sich seit Februar 2019 in Untersuchungshaft befindenden Beschuldigten den
+Nachweis der Mittellosigkeit zu verlangen. Überdies war die Beschwerde der
+Beschuldigten nicht aussichtslos. Rechtsanwalt B.______ ist für seine
+Bemühungen im Haftbeschwerdeverfahren aus der Gerichtskasse mit
+CHF 1'747.15 (act. 45) zu entschädigen.
+____________________
+Das Gericht
+beschliesst
+:
+1.
+Die Beschwerde wird abgewiesen.
+2.
+Die Gerichtsgebühr für das
+Beschwerdeverfahren wird auf CHF 800.— festgelegt.
+3.
+Rechtsanwalt B.______ wird für
+seine Bemühungen im Beschwerdeverfahren als unentgeltlicher amtlicher
+Verteidiger mit CHF 1'747.15 aus der Gerichtskasse entschädigt.
+4.
+Die Regelung der Kostenauflage
+wird dem Endentscheid vorbehalten.
+5.
+Schriftliche Mitteilung an:
+[…]
