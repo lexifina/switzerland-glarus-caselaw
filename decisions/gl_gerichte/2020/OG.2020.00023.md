@@ -1,0 +1,875 @@
+---
+decision_id: "gl_gerichte_OG.2020.00023"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2020.00023"
+docket_2: "OGS.2021.115"
+decided: "2020-05-11"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1418&W10_KEY=218274&nTrefferzeile=2&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/311.0/art-010.md", "switzerland/bund/acts/311.0/art-133.md", "switzerland/bund/acts/311.0/art-134.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-149.md", "switzerland/bund/acts/312.0/art-196.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-222.md", "switzerland/bund/acts/312.0/art-226.md", "switzerland/bund/acts/312.0/art-228.md", "switzerland/bund/acts/312.0/art-237.md", "switzerland/bund/acts/312.0/art-240.md", "switzerland/bund/acts/312.0/art-326.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-421.md", "switzerland/bund/acts/312.0/art-423.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# GL Gerichte OG.2020.00023
+
+## Regeste
+
+Haftverlängerung
+
+## Text
+
+Glarus Obergericht 11.05.2020 OG.2020.00023 (OGS.2021.115)
+Glaris Obergericht 11.05.2020 OG.2020.00023 (OGS.2021.115)
+Glarona Obergericht 11.05.2020 OG.2020.00023 (OGS.2021.115)
+
+Kanton Glarus
+Obergericht
+Beschluss
+vom 11. Mai 2020
+Verfahren
+OG.2020.00023
+A.______
+Beschuldigter und
+Beschwerdeführer
+vertreten durch
+Rechtsanwältin B.______
+gegen
+Staats- und Jugendanwaltschaft des Kantons Glarus
+Anklägerin und
+Beschwerdegegnerin
+vertreten durch die
+Staatsanwältin
+betreffend
+Haftverlängerung
+Anträge de
+s Beschwerdeführers
+(gemäss
+Eingabe vom 20. April 2020, act. 20):
+1.
+Es sei die
+Dispositiv Ziffer 1 der Verfügung des Zwangsmassnahmengerichts des
+Kantons Glarus vom 9. April 2020 im Verfahren SG.2020.00037 aufzuheben und
+es sei A.______ unverzüglich auf freien Fuss zu setzen.
+2.
+Eventualiter
+sei die Dispositiv Ziffer 1 der Verfügung des Zwangsmassnahmengerichts
+des Kantons Glarus vom 9. April 2020 im Verfahren SG.2020.00037 aufzuheben
+und A.______ gegen Leistung einer Kaution von CHF 30'000.— aus der
+Untersuchungshaft zu entlassen.
+3.
+Subeventualiter
+sei die Dispositiv Ziffer 1 der Verfügung des Zwangsmassnahmengerichts
+des Kantons Glarus vom 9. April 2020 im Verfahren SG.2020.00037 aufzuheben
+und A.______ gegen Leistung einer Kaution von CHF 30'000.— aus der
+Untersuchungshaft zu entlassen und es sei ein Hausarrest (Eingrenzung) am
+[…], anzuordnen, welcher mittels Electronic Monitoring zu überwachen sei.
+Die Ersatzmassnahmen (mit Ausnahme der Kaution) seien auf drei Monate zu
+befristen.
+4.
+Alles unter Kosten- und
+Entschädigungsfolgen zu Lasten der Staatskasse.
+Anträge de
+r
+Beschwerde
+gegnerin
+(gemäss Eingabe vom
+27. April 2020, act. 24):
+1.
+Die
+Beschwerde sei vollumfänglich abzuweisen, soweit darauf einzutreten sei.
+2.
+Die Akten
+der Verfahren SG.2019.00105, SG.2019.00123, SG.2019.00130, SG.2020.00023,
+SG.2020.00037, OG.2019.00098, OG.2020.00012 sowie das Urteil des Bundesgerichts
+1B_58/2020 vom 24. Februar 2020 seien vollumfänglich beizuziehen.
+3.
+Alles unter Kosten- und
+Entschädigungsfolgen zu Lasten des Beschwerdeführers.
+____________________
+Das
+Gericht zieht in Betracht:
+I.
+1.
+Die Staats- und
+Jugendanwaltschaft des Kantons Glarus (nachfolgend «Staatsanwaltschaft»)
+verdächtigt A.______ (nachfolgend «Beschuldigter»), sich in der Nacht vom
+19./20. Mai 2017 des Angriffs (i.S.v. Art. 134 StGB) zum
+Nachteil von H.______ sowie von J.______ schuldig gemacht zu haben. Der
+Beschuldigte wurde am 9. Oktober 2019 festgenommen (SG.2019.00105,
+act. 1, S. 2 und act. 2/3).
+2.
+Mit Eingabe vom
+11. Oktober 2019 an das Zwangsmassnahmengericht des Kantons Glarus
+beantragte die Staatsanwaltschaft, es sei gegen den Beschuldigten Untersuchungshaft
+für vorläufig einen Monat anzuordnen. Das Zwangsmassnahmengericht hiess
+diesen Antrag gut und ordnete die Untersuchungshaft längstens bis
+11. November 2019 an (SG.2019.00105, act. 1 und act. 12,
+Disp. Ziff. 1).
+Am 6. November 2019
+beantragte die Staatsanwaltschaft beim Zwangsmassnahmengericht die
+Verlängerung der Untersuchungshaft um drei Monate. Antragsgemäss verlängerte
+das Zwangsmassnahmengericht die Untersuchungshaft bis längstens am
+11. Februar 2020 (SG.2019.00123, act. 1 und act. 9, Disp.
+Ziff. 1).
+Der Beschuldigte stellte am
+21. November 2019 bei der Staatsanwaltschaft ein
+Haftentlassungsgesuch, welches die Staatsanwaltschaft mit dem Antrag auf
+Abweisung an das Zwangsmassnahmengericht weiterleitete. Das
+Zwangsmassnahmengericht bewilligte das Haftentlassungsgesuch des
+Beschuldigten und ordnete seine Freilassung bis spätestens am
+2. Dezember 2019, 14.00 Uhr, an. Die gegen diese Verfügung erhobene
+Beschwerde der Staatsanwaltschaft hiess das Obergericht mit Beschluss vom 23. Dezember 2019
+gut. Die dagegen erhobene Beschwerde des Beschuldigten an das Bundesgericht
+wurde abgewiesen, soweit darauf eingetreten wurde (OG.2019.00098,
+act. 1, act. 2/1, act. 25, act. 48, act. 54).
+Am 7. Februar 2020
+beantragte die Staatsanwaltschaft die Verlängerung der Untersuchungshaft für
+drei Monate. Das Zwangsmassnahmengericht wies das Haftverlängerungsgesuch ab.
+Die gegen diese Verfügung erhobene Beschwerde der Staatsanwaltschaft hiess
+das Obergericht mit Beschluss vom 20. Februar 2020 gut und
+verlängerte die Untersuchungshaft bis 10. April 2020 (OG.2020.00012,
+act. 1, act. 8, act. 25, Disp. Ziff. 1, 2).
+3.
+Mit Eingabe vom
+6. April 2020 beantragte die Staatsanwaltschaft erneut die
+Verlängerung der Untersuchungshaft für drei Monate (act. 1). Das Zwangsmassnahmengericht
+hiess diesen Antrag mit Verfügung vom 9. April 2020 gut und
+verlängerte die Untersuchungshaft des Beschuldigten einstweilen längstens bis
+9. Juli 2020 (act. 15, S. 7, Disp. Ziff. 1). Dagegen
+erhob der Beschuldigte am 20. April 2020 Beschwerde (act. 20). Die
+Staatsanwaltschaft beantragt Abweisung der Beschwerde (act. 24;
+act. 25/1-7). Die Stellungnahme des Beschuldigten zur Beschwerdeantwort
+der Staatsanwaltschaft datiert vom 29. April 2020 (act. 27)
+und wurde der Staatsanwaltschaft zur Kenntnisnahme zugestellt (act. 28).
+II.
+1.
+Der vorliegend
+angefochtene Haftentscheid ist der Beschwerde zugänglich (Art. 393
+Abs. 1 lit. c StPO i.V.m. Art. 222 StPO). Der durch
+die Haft unmittelbar betroffene Beschuldigte ist beschwerdelegitimiert
+(Art. 382 Abs. 1 StPO); die Anfechtungsfrist ist vorliegend
+eingehalten (Art. 396 Abs. 1 StPO; act. 19-20). Die
+übrigen Rechtsmittelvoraussetzungen geben zu keinen Bemerkungen Anlass. Auf
+die Beschwerde des Beschuldigten ist einzutreten.
+2.
+Mit Beschwerde an das
+Obergericht können in Bezug auf den angefochtenen Entscheid
+Rechtsverletzungen und eine unvollständige oder unrichtige Feststellung des
+Sachverhalts sowie Unangemessenheit gerügt werden (Art. 393
+Abs. 2 StPO).
+3.
+Die Akten des
+vorinstanzlichen Verfahrens SG.2020.00037 (act. 1-19) sowie der früheren
+Haftverfahren (SG.2019.00105, SG.2019.00123, SG.2019.00130, SG.2020.00023,
+OG.2019.00098, OG.2020.00012) wurden beigezogen. Die Aktenzitate des
+vorinstanzlichen Verfahrens erfolgen unter der Verfahrensnummer des
+Beschwerdeverfahrens.
+III.
+1.
+1.1
+Untersuchungshaft ist
+nur zulässig, wenn die beschuldigte Person eines Verbrechens oder eines
+Vergehens dringend verdächtig ist und ernsthaft namentlich zu befürchten ist,
+dass sie sich entweder durch Flucht dem Strafverfahren oder der zu
+erwartenden Sanktion entzieht, dass sie Personen beeinflusst oder auf
+Beweismittel einwirkt, um so die Wahrheitsfindung zu beeinträchtigen
+(Art. 221 Abs. 1 lit. a und b StPO). Der Haftgrund des dringenden
+Tatverdachts setzt voraus, dass genügend konkrete Anhaltspunkte für eine
+Straftat und eine Beteiligung des Beschuldigten daran vorliegen und die
+Untersuchungsbehörden somit das Bestehen eines dringenden Tatverdachts mit
+vertretbaren Gründen bejahen durften. Im Haftprüfungsverfahren genügt der
+Nachweis von konkreten Verdachtsmomenten, wonach das inkriminierte Verhalten
+mit erheblicher Wahrscheinlichkeit die fraglichen Tatbestandsmerkmale
+erfüllen könnte. Das Beschleunigungsgebot in Haftsachen lässt keinen Raum für
+ausgedehnte Beweismassnahmen (BGE 143 IV 316, E. 3.1).
+1.2.
+1.2.1
+Der Beschuldigte
+wird eines Angriffs im Sinne von Art. 134 StGB dringend
+verdächtigt. Dabei handelt es sich um ein Verbrechen im Sinne von
+Art. 10 Abs. 2 StGB, was die Voraussetzung von Art. 221 Abs. 1
+erster Satzteil StPO erfüllt.
+1.2.2
+Die Staatsanwaltschaft führt in Bezug auf einen
+versuchten Auftragsmord vom 3. Oktober 2018, verübt in [...] zum
+Nachteil von E.______ (Mitbeschuldigter des Angriffs vom
+19./20. Mai 2017), eine umfassende Strafuntersuchung (nachfolgend
+«Delikt [...]»). Im Rahmen dieser Strafuntersuchung wurden mehrere
+beschuldigte Personen in Untersuchungshaft versetzt, u.a. auch die
+mutmasslichen Auftraggeber H.______ und J.______, wobei Letzterer erst im
+Dezember 2019 verhaftet werden konnte. H.______ gab in der Einvernahme
+vom 19. September 2019 an, er und J.______ seien in der Nacht vom
+19./20. Mai 2019 (recte: 2017) im Club [...] in [...] von E.______,
+K.______ und M.______ (der Beschuldigte, welcher seit der Heirat den Nachnamen
+M.______ trägt; SG.2019.00105, act. 2/2, S. 3, Frage 16) mit
+einem Baseballschläger zusammengeschlagen worden
+(SG.2019.00105, act.
+1, act. 2/5, S. 8, Fragen 6 ff.).
+1.2.3
+Gestützt auf die
+Aussagen von H.______ verdächtigt die Staatsanwaltschaft E.______, in der
+Nacht vom 19./20. Mai 2017 mit einem Baseballschläger zuerst auf
+J.______ eingeschlagen zu haben. In der Folge hätten der Beschuldigte und
+dessen Bruder (K.______) H.______ festgehalten, während E.______ mit dem
+Baseballschläger auf den Kopf, den Rücken, die Hände und die Beine von
+H.______ eingeschlagen habe. Der Beschuldigte habe bestritten, am Angriff auf
+H.______ und J.______ beteiligt gewesen zu sein und geltend gemacht, er sei
+zur Tatzeit im Kosovo gewesen. Aufgrund der aktuellen Ermittlungen sei jedoch
+davon auszugehen, dass sich der Beschuldigte zur Tatzeit im Club [...]
+aufgehalten habe und in eine Auseinandersetzung mit H.______ und J.______
+involviert gewesen sei (SG.2019.00105, act. 1, act. 2/2, act. 2/4, act.
+2/7; OG.2020.00012, act. 2/1 und act. 2/3; vgl. im Detail auch
+OG.2019.00098, act. 48, S. 5, E. III.1.2.3). Die Aussagen von zwei
+anonym einvernommenen Personen stützten die bisherigen
+Ermittlungserkenntnisse. Der dringende Tatverdacht gegenüber dem
+Beschuldigten sei erdrückend (act. 1, S. 3 f.; act. 24,
+S. 2).
+1.2.4
+Im vorliegenden Beschwerdeverfahren bestreitet der
+Beschuldigte pauschal weiterhin das Vorliegen eines dringenden Tatverdachts
+(act. 20, S. 4 oben; act. 27, S. 1, Ziff. 1).
+1.2.5
+Das
+Zwangsmassnahmengericht bejahte in der angefochtenen Verfügung vom
+9. April 2020 den dringenden Tatverdacht unter Hinweis auf die
+Ausführungen des Obergerichts in seinem Beschluss vom
+20. Februar 2020 (act. 15, S. 3, E. 3).
+1.3
+1.3.1
+Das Obergericht hat
+sich in seinem Beschluss vom 20. Februar 2020 ausführlich zum
+dringenden Tatverdacht geäussert und diesen bestätigt. Um Wiederholungen zu
+vermeiden, wird auf diese Erwägungen verwiesen (vgl. OG.2020.00012,
+act. 25, S. 7 ff., E. III.1.3-1.4). Ebenso wird auf die
+diesbezüglichen Ausführungen des Bundesgerichts verwiesen, welches den
+dringenden Tatverdacht ebenfalls bestätigte (BGer 1B_58/2020 Urteil vom
+24. Februar 2020, E. 6.5).
+1.3.2
+Es ist vorliegend
+nicht ersichtlich, inwiefern sich der dringende Tatverdacht zwischenzeitlich
+relativiert haben soll. Auch der Beschuldigte macht vor Obergericht keine
+diesbezüglichen Ausführungen (act. 20 und 27). Wie nachfolgend zu zeigen
+sein wird, hat sich der dringende Tatverdacht aus nachfolgenden Gründen
+weiter erhärtet. Aus den von der Staatsanwaltschaft im Beschwerdeverfahren
+eingereichten Protokollen der Einvernahmen von zwei anonymen Personen, welche
+sich in der Tatnacht beide im Club [...] aufhielten (act. 25/4,
+Frage 16; act. 25/6, Frage 20), geht hervor, dass der Beschuldigte
+in der Tatnacht im besagten Club anwesend und in eine Auseinandersetzung mit
+H.______ und J.______ involviert war (act. 25/4, Fragen 10 f.
+und 24; act. 25/5, Fragen 1, 9 und 11; act. 25/6, Fragen
+5 f., 8, 14, 28 und 30; act. 25/7, Fragen 1 f., 8 und
+13). So sagte Person 2 aus, als der Beschuldigte dazu gekommen sei, sei es
+zur Schlägerei gekommen und die involvierten Personen hätten
+«alle Fäuste
+ausgeteilt»
+(act. 25/6, Fragen 5 f. und 8; act. 25/7,
+Fragen 1 f., 13, 22). Bei dieser Auseinandersetzung sei auch ein
+Holzstiel verwendet worden (ein Besenstiel oder Ähnliches). Sie (Person 2)
+habe aber nicht gesehen, wer mit diesem Stiel zugeschlagen habe. Jedoch habe
+sie gesehen, wie E.______ den Holzstiel vom Boden aufgehoben habe als alles
+vorbei gewesen sei. Anschliessend habe E.______ zu ihr (Person 2)
+gesagt,
+«dass es nun zu Ende sei»
+(act. 25/6, Fragen 5, 7, 8,
+13 f. und 21; act. 25/7, Fragen 1, 13, 15, 17).
+1.3.3
+Nach der Darstellung
+von E.______ und der anonym einvernommenen Person 2 soll sich H.______
+in der Tatnacht eines Messers behändigt haben, was dann auch die
+Auseinandersetzung ausgelöst habe (OG.2019.00098, act. 32/2,
+Frage 5; SG.2019.00123, act. 2/1, Frage 3; act. 25/6,
+Fragen 5 f.; act. 25/7, Fragen 1, 13 und 20). E.______
+berichtete aber nicht, dass er an jenem Abend irgendwelche Verletzungen
+erlitten hätte. Die anonym einvernommene Person 2 sagte aus, sie habe
+nach der Auseinandersetzung sowohl im Eingangsbereich des Clubs [...] als
+auch auf dem Holzstiel Blut gesehen. Jedoch hätten weder der Beschuldigte
+noch E.______ nach der Auseinandersetzung geblutet. Deswegen sei sie davon
+ausgegangen, dass dieses Blut von J.______ und H.______ stamme
+(act. 25/6, Fragen 6, 8, 14 und 21 f.; act. 25/7,
+Fragen 1, 13, 15, 18 und 21). Es muss als erstellt gelten, dass H.______
+am 19./20 Mai 2017 sehr schwer am Kopf verletzt wurde (SG.2019.00105,
+act. 2/1; SG.2019.00123, act. 2/1, S. 5). Gemäss der Konfronta­tionseinvernahme
+vom 4. Februar 2020 wurde auch J.______ an jenem Abend verletzt
+(OG.2020.00012, act. 2/3, S. 4 f.). Zwar sagte die Person 2 aus, es habe
+sich beim mutmasslich verwendeten «Schläger» nicht – wie von H.______
+angegebenen (SG.2019.00105, act. 2/5, Fragen 6 ff.) – um einen
+Baseballschläger gehandelt (act. 25/6, Frage 7 und 23). Jedoch
+stimmt die Aussage der Person 2 mit derjenigen von H.______ immerhin
+dahingehend überein, dass in der Tatnacht mutmasslich mit einer Art
+Holzschläger auf H.______ und J.______ eingeschlagen wurde.
+1.3.4
+Nach dem Gesagten
+liegen somit – neben den Aussagen von H.______ und J.______ – Aussagen von
+zwei weiteren Personen vor, wonach der Beschuldigte am besagten Abend im Club
+[...] gewesen sei (act. 25/4-7). Vorliegend ist nicht ersichtlich,
+inwiefern die Aussagen der anonym einvernommenen Personen, wie vom
+Beschuldigten vorgebracht (act. 27, S. 1, Ziff. 1), von
+Vornherein unverwertbar sein sollen (vgl. BGer 1B_58/2020 Urteil vom 24.
+Februar 2020, E. 4.2 m.w.H.). Der vom Beschuldigten angeführte
+Alibibeweis, wonach er sich zur Tatzeit im Kosovo aufgehalten habe, muss
+aufgrund der aktuellen Ermittlungsergebnisse als gescheitert gelten. Es ist
+derzeit davon auszugehen, dass H.______ und J.______ am
+19./20. Mai 2017 von mindestens zwei Angreifern attackiert und
+verletzt wurden. Weiter ist aufgrund der inhaltlich übereinstimmenden Aussagen
+von H.______ und J.______, den Aussagen der beiden anonymen Zeugen sowie auch
+aufgrund des Aussageverhaltens des Beschuldigten anzunehmen, dass der
+Beschuldigte an diesem Angriff beteiligt war. Die Annahme des Beschuldigten,
+wonach sich der Vorwurf des Angriffs aufgrund der Aussagen der anonym
+einvernommenen Personen nicht aufrechterhalten lasse, zielt ins Leere. Der
+Beschuldigte blendet vollständig aus, dass die anonym einvernommenen Personen
+übereinstimmend aussagten, der Beschuldige habe sich zur Tatzeit am Tatort
+aufgehalten und sei in eine Auseinandersetzung mit H.______ und J.______
+involviert gewesen. Die rechtliche Qualifikation der Tat (Angriff oder
+Raufhandel) obliegt sodann dem Sachrichter. Weiter erscheint es derzeit
+unwahrscheinlich, dass eine Person
+alleine
+auf H.______ und J.______
+(gemäss Akten beides sehr kräftige Männer; SG.2019.00123, act. 2/1,
+Fragen 2 f.; OG.2019.00098, act. 32/2, S. 4) losgegangen ist und
+diese derart schwer verletzen konnte, ohne dabei selber irgendwelche
+Verletzungen davonzutragen. Dies umso mehr, als H.______ sich eines Messers
+behändigt haben soll und K.______ gemäss den Aussagen der anonym
+einvernommenen Personen die Situation lediglich habe schlichten wollen und in
+die Auseinandersetzung nicht involviert gewesen sei (act. 25/6,
+Fragen 5, 6, 8 und 14; act. 25/4, Frage 24).
+Somit hat sich der bereits im
+Beschluss des Obergerichts vom 20. Februar 2020 bejahte und vom
+Bundesgericht bestätigte dringende Tatverdacht weiter verdichtet und ist
+aufgrund der Aussagen der anonym einvernommenen Personen geradezu erdrückend.
+Damit ist der dringende Tatverdacht in Übereinstimmung mit der Vorinstanz zu
+bejahen (i.S.v. Art. 221 Abs. 1 StPO).
+2.
+2.1
+Neben dem dringenden
+Tatverdacht verlangt Art. 221 Abs. 1 StPO auch einen
+besonderen Haftgrund. Kollusionsgefahr liegt vor, wenn ernsthaft zu
+befürchten ist, dass der Beschuldigte Personen beeinflusst oder auf
+Beweismittel einwirkt, um so die Wahrheitsfindung zu beeinträchtigen
+(Art. 221 Abs. 1 lit. b StPO). Dies kann insbesondere in
+der Weise erfolgen, dass sich der Beschuldigte mit Zeugen, Auskunftspersonen,
+Sachverständigen oder Mitbeschuldigten ins Einvernehmen setzt oder sie zu
+wahrheitswidrigen Aussagen veranlasst, oder dass er Spuren und Beweismittel
+beseitigt. Strafprozessuale Haft wegen Kollusionsgefahr soll verhindern, dass
+der Beschuldigte die wahrheitsgetreue Abklärung des Sachverhalts vereitelt
+oder gefährdet. Konkrete Anhaltspunkte für Kollusionsgefahr können sich
+namentlich ergeben aus dem bisherigen Verhalten des Beschuldigten im
+Strafprozess, aus seinen persönlichen Merkmalen, aus seiner Stellung und
+seinen Tatbeiträgen im Rahmen des untersuchten Sachverhalts sowie aus den
+persönlichen Beziehungen zwischen ihm und den beteiligten Personen. Bei der
+Frage, ob im konkreten Fall eine massgebliche Beeinträchtigung des
+Strafverfahrens wegen Kollusion droht, ist auch der Art und Bedeutung der von
+Beeinflussung bedrohten Aussagen bzw. Beweismittel, der Schwere der
+untersuchten Straftaten sowie dem Stand des Verfahrens Rechnung zu tragen
+(BGE 132 I 21, E. 3.2).
+2.2
+2.2.1
+Das
+Zwangsmassnahmengericht führte in der angefochtenen Verfügung aus, die
+Staatsanwaltschaft zeige in ihrem Gesuch keinen weiteren Einvernahme- oder
+Ermittlungsbedarf mehr auf, weshalb die Kollusionsgefahr nicht mehr bejaht
+werden könne (act. 15, S. 4, E. 4).
+2.2.2
+Der Beschuldigte
+bestreitet das Vorliegen von Kollusionsgefahr und verweist diesbezüglich auf
+die vorinstanzlichen Ausführungen (act. 20, S. 4 oben).
+2.2.3
+Die
+Staatsanwaltschaft geht weiter von Kollusionsgefahr aus (act. 24, S. 2
+oben; act. 1, S. 5).
+2.3
+2.3.1
+Das Obergericht
+bejahte in seinem Beschluss vom 20. Februar 2020 das Vorliegen
+einer konkreten Kollusionsgefahr beim Beschuldigten. Um Wiederholungen zu
+vermeiden, wird auf die diesbezüglichen Erwägungen verwiesen (OG.2020.00012,
+act. 25, S. 15 ff., E. III.2.3). An diesen Erwägungen ist
+festzuhalten. So ist zwar nach wie vor davon auszugehen, dass sich mit den
+zwischenzeitlich getätigten Einvernahmen die Kollusionsgefahr hinsichtlich
+der Aussagen der Mitbeschuldigten und mutmasslich Geschädigten relativiert
+hat. Es ist aber auch daran festzuhalten, dass es aufgrund der Aussagen der
+anonym einvernommenen Personen (act. 25/4-7) als erstellt gelten muss,
+dass weitere Personen in der Nähe waren als die Tat geschah und das
+Tatgeschehen beobachteten. Es ist derzeit davon auszugehen, dass der
+Beschuldige am Angriff vom 19./20. Mai 2017 beteiligt war, weshalb ihm auch
+die Personen, welche das Tatgeschehen beobachteten, bekannt sein könnten;
+zumal zur Tatzeit mutmasslich nur noch ca. 20-30 Personen anwesend waren
+(act 25/4, Frage 17; act. 25/7, Frage 10). Weiter wurde die anonym
+befragte Person 2 als beschuldigte Person einvernommen, da sie am
+Angriff vom 19./20. Mai 2017 mutmasslich beteiligt gewesen sein soll. So habe
+Person 2 E.______ das Tathilfsmittel (Holzstiel o.ä.) gereicht, damit
+dieser auf H.______ und J.______ habe einschlagen können, was Person 2 jedoch
+bestritt (act. 25/6, S. 1 und S. 5, Frage 19). Sollte Person 2 am
+Angriff tatsächlich beteiligt gewesen sein, könnte sie dem Beschuldigten
+bekannt sein. Wenn der Beschuldigte auf freiem Fuss wäre, könnte er aus den
+eben dargelegten Gründen auf die bereits anonym einvernommenen Personen und
+möglicherweise weitere (dem Beschuldigten bekannte) Personen, die das
+Tatgeschehen beobachtet hatten, einwirken, was dem Zweck der
+Strafuntersuchung völlig zuwiderlaufen würde. So dient die Untersuchungshaft
+dann u.a. auch dazu, dass keine Kollusionshandlungen auf die im Rahmen der
+Strafuntersuchung getätigten Aussagen vorgenommen werden können. Schliesslich
+deuten auch die vielen geschwärzten Stellen im Protokoll der Einvernahme von
+Person 2 vom 3. Dezember 2019 (act. 25/6) auf weiteren
+Ermittlungsbedarf hin. Auch diese Ermittlungen muss die Staatsanwaltschaft
+ungestört durchführen können.
+2.3.2
+Derzeit ist davon
+auszugehen, dass die Furcht um das eigene Leben der anonym einvernommenen
+Personen der Grund für die Zusicherung der Anonymität war. So gab die anonym
+einvernommene Person 1 zu Protokoll, dass ihre Sicherheit und die ihrer
+Familie gefährdet sei, wenn
+«diese Informationen nach Aussen gelangen
+»
+würden. Sie habe in der Tatnacht aus Angst nicht geschlafen und
+«noch nie
+so etwas erlebt»
+. Man habe gemerkt,
+«dass etwas Schlimmes passiert»
+sei (act. 25/4, Fragen 18, 31). Diese Aussagen widersprechen den
+Behauptungen des Beschuldigten, wonach es sich in der Tatnacht lediglich um
+ein «Gerangel» gehandelt habe (act. 27, S. 2, Ziff. 1).
+Person 1 gab weiter an, sie habe Angst, dass die in den Angriff vom
+19./20. Mai 2017 involvierten Personen sie aufsuchen und ihr vorhalten
+könnten, was sie bei der Polizei ausgesagt habe (act. 25/4,
+Fragen 1, 33). Auch die anonym einvernommene Person 2 gab an, dass
+sie ihre Familie nicht in Gefahr bringen wolle und sie Angst habe, dass sie
+«Probleme
+von beiden Seiten erhalte»
+(act. 25/6, Fragen 33 f.).
+2.3.3
+Die Furcht um das
+eigene Leben scheint angesichts der vollzogenen archaischen Selbstjustiz
+(Delikt [...]) und mit Hinweis auf die Vorstrafen des Beschuldigten (u.a.
+falsche Anschuldigung, Vergehen gegen das Waffengesetz, mehrfache Nötigung,
+mehrfache Gefährdung des Lebens, Drohung; SG.2019.00105, act. 2/7) nicht
+von der Hand zu weisen. Aus den im Recht liegenden Haftakten geht
+zweifelsfrei hervor, dass die Staatsanwaltschaft mehrfach Schutzmassnahmen
+(i.S.v. Art. 149 ff. StPO) vorkehren musste. So beispielsweise die
+Abschirmung der Geschädigten mittels Trennwänden anlässlich der
+Konfrontationseinvernahme vom 4. Februar 2020 (OG.2020.00012, act. 2/3,
+S. 4), die anonyme Einvernahme von Person 1 und 2 (act. 25/4-7)
+oder etwa die Einvernahme von G.______ in Abwesenheit der beschuldigten
+Personen, da G.______ dies zum Schutze seiner Familie für erforderlich hielt
+(OG.2019.00098, act. 17/6, Frage 1). Angesichts der vermutlich seit Jahren
+bestehenden Fehde zwischen den Familien G./H.______ und K./M.______
+(OG.2019.00098, act. 48, E. III.1.3.4; OG.2020.00012, act. 25,
+E. III.1.3.7) muss von einer umfangreichen, komplexen und viel Zeit
+beanspruchenden Strafuntersuchung ausgegangen werden. Überdies ist nicht
+auszuschliessen, dass auch der vorliegend zu untersuchende Angriff in
+Fortsetzung der Familienfehde eine Vergeltungstat war. Schliesslich nahm der
+Beschuldigte in der vorliegenden Strafuntersuchung bereits Kollusionshandlungen
+vor (OG.2019.00098, act. 48, S. 14, E. III.2.4 und
+act. 33). Aus all diesen Gründen ist beim Beschuldigten immer noch von
+einer konkreten Kollusionsgefahr i.S.v. Art. 221 Abs. 1
+lit. b StPO auszugehen.
+3.
+3.1
+Weiter ist zu prüfen, ob beim Beschuldigten auch von
+Fluchtgefahr (Art. 221 Abs. 1 lit. a StPO) auszugehen ist.
+Nach der Rechtsprechung des Bundesgerichts braucht
+es für die Annahme von Fluchtgefahr eine gewisse Wahrscheinlichkeit, dass
+sich der Beschuldigte, wenn er in Freiheit wäre, der Strafverfolgung und dem
+Strafvollzug durch Flucht entziehen würde. Die Schwere der drohenden Strafe
+darf als ein Indiz für Fluchtgefahr gewertet werden; sie genügt jedoch für
+sich allein nicht, um den Haftgrund zu bejahen. Vielmehr müssen die konkreten
+Umstände des betreffenden Falles, insbesondere die gesamten Verhältnisse des
+Beschuldigten, in Betracht gezogen werden (BGE 117 Ia 69, E. 4a).
+3.2
+3.2.1
+Das Zwangsmassnahmengericht ging in
+seiner Verfügung vom 9. April 2020 unter Hinweis auf die Ausführungen des
+obergerichtlichen Beschlusses vom 20. Februar 2020 (OG.2020.00012,
+act. 25) und des Urteils des Bundesgerichts (BGer 1B_58/2020 Urteil vom
+24. Februar 2020) beim Beschuldigten von Fluchtgefahr aus. Auch
+wenn durch die aktuelle Pandemie eine ausserordentliche Lage mit
+entsprechenden Grenzkontrollen bestehe, könne nicht abgeschätzt werden, wie
+lange diese Massnahmen aufrechterhalten würden, weshalb dies die Fluchtgefahr
+nicht zu beseitigen vermöge. Es bestehe auch die Gefahr des Untertauchens in
+der Schweiz oder im nahen Ausland. Gemäss Art. 196 StPO würden die
+Zwangsmassnahmen auch dazu dienen, die Anwesenheit von Personen im Verfahren,
+insbesondere der beschuldigten Person, sicherzustellen sowie die
+Vollstreckung des Entscheides zu gewährleisten; dies stehe zurzeit im
+Vordergrund (act. 15, S. 4-6, E. 5).
+3.2.2
+Nach dem Dafürhalten des
+Beschuldigten liege keine Fluchtgefahr vor. Der Beschuldigte wiederholt im
+Beschwerdeverfahren mehrheitlich seine Vorbringen vor Vorinstanz und in den
+bisherigen Haftverfahren oder verweist darauf. Die Vor-instanz habe ausser
+Betracht gelassen, dass der Zeitablauf zur Verringerung der Fluchtgefahr
+führe. Es sei vorliegend sehr unwahrscheinlich, dass er zu einer
+Freiheitsstrafe von über drei Jahren verurteilt würde. Aufgrund der Aussagen
+der beiden anonym einvernommenen Personen könne der Verdacht auf Angriff
+(Art. 134 StGB) nicht mehr aufrechterhalten werden; so hätten doch
+beide Personen keine durch ihn (Beschuldigten) begangenen strafbaren
+Handlungen geschildert. Somit sei höchstens ein Schuldspruch wegen
+Raufhandels denkbar (Art. 133 StGB), womit eine Freiheitsstrafe
+über drei Jahre gar nicht möglich sei. Zudem sei eine Verurteilung und eine
+Strafe, deren unbedingt zu vollziehender Teil die bereits erlittene Haft von
+über sechs Monaten übersteige, derart unwahrscheinlich, dass er
+(Beschuldigter) damit nicht ernsthaft rechnen müsse. Der Anreiz für eine
+Flucht sinke damit erheblich (act. 20, S. 5 f.,
+Rz. III.2.1). Zudem habe er sich bisher nie einem Verfahren durch Flucht
+entzogen. Bereits in der Vergangenheit sei er gegen Kaution aus der
+Untersuchungshaft entlassen worden und sei nicht geflüchtet. Weiter habe er
+sich den Strafbehörden im vorliegenden Strafverfahren freiwillig gestellt.
+Schliesslich verfüge er in der Schweiz über eine geregelte Wohn- und
+Arbeitssituation. So könne er nach seiner Entlassung bei seinem Sohn in [...]
+wohnen (act. 21/3) und auch seine alte Arbeitsstelle wieder antreten;
+der anfänglich Verdacht, es könnte sich beim früheren Arbeitgeber um eine Scheinfirma
+handeln, sei zerstreut worden (act. 20, S. 7, Rz. III.2.2).
+3.2.3
+Demgegenüber geht die Staatsanwaltschaft in ihrer
+Beschwerdeantwort unter Hinweis auf ihren Haftverlängerungsantrag vom
+6. April 2020 und die vorinstanzlichen Erwägungen beim Beschuldigten
+weiterhin von Fluchtgefahr aus. Insbesondere wohne die Ehefrau des
+Beschuldigten in Italien und es bestehe nach wie vor der Verdacht, dass sich
+der Beschuldigte zu keinem Zeitpunkt in [...] aufgehalten habe (act. 1,
+S. 5 ff.; act. 24, S. 3). Darüber hinaus führt die Staatsanwaltschaft
+aus, dass aufgrund der konkreten Umstände vorliegend Ersatzmassnahmen nicht
+in Frage kämen. Zumal die Fluchtgefahr mit fortschreitender Untersuchung auch
+nicht wegfallen werde. Aus dem Strafregisterauszug sei dann auch ersichtlich,
+dass sich der Beschuldigte in der Vergangenheit nicht an die Rechtsordnung
+gehalten habe und keinesfalls nur von einer unterschwelligen Fluchtgefahr
+ausgegangen werden könne. Vielmehr sei in Anbetracht der dem Beschuldigten
+drohenden längeren Freiheitsstrafe, dem drohenden obligatorischen
+Landesverweis und seinem intensiven Auslandsbezug von einer ausgeprägten
+Fluchtgefahr auszugehen (act. 24, S. 2
+f.)
+.
+3.3
+3.3.1
+Das Obergericht
+bejahte in seinem Beschluss vom 20. Februar 2020 das Vorliegen
+einer konkreten Fluchtgefahr beim Beschuldigten. Um Wiederholungen zu
+vermeiden, wird auf diese Erwägungen verwiesen (OG.2020.00012, act. 25,
+S. 18, E. III.3.3 i.V.m. OG.2019.00098, act. 48,
+S. 16-19, E. III.3.3 ff.). Ebenso wird auf die diesbezüglichen
+Ausführungen des Bundesgerichts verwiesen, welches beim Beschuldigten
+ebenfalls von Fluchtgefahr ausging (BGer 1B_58/2020 Urteil vom
+24. Februar 2020, E. 7.4). Zur Fluchtgefahr haben sich
+zwischenzeitlich keine wesentlichen Änderungen ergeben, weshalb an diesen
+Erwägungen aktuell festzuhalten ist; was auch die Vorinstanz zutreffend
+annahm (act. 15, S. 5, E. 5).
+3.3.2
+Die Ausführungen des
+Beschuldigten, dass eine Verurteilung angesichts der aktuellen Beweislage
+höchst unwahrscheinlich sei und daher zur Verringerung der Fluchtgefahr
+beitrage, zielen gemäss obigen Erwägungen ins Leere (vgl. oben
+E. III.1.3). Wie die Vorinstanz zu Recht festhielt, obliegt die
+Strafzumessung dem Strafgericht. Vorliegend kann aber in Übereinstimmung mit
+dem Bundesgericht festgehalten werden, dass dem Beschuldigten die Beteiligung
+an einem schweren Gewaltdelikt vorgeworfen wird und ihm eine mehrjährige
+Freiheitsstrafe droht (BGer 1B_58/2020 Urteil vom 24. Februar 2020,
+E. 7.4). Der Beschuldigte verkennt zudem (act. 27, S. 2,
+Ziff. 2), dass ihm neben der Landesverweisung auch eine mehrjährige
+Freiheitsstrafe droht.
+3.3.3
+Wie in früheren
+Haftverfahren festgehalten, liegen gleich mehrere konkrete Indizien für eine
+Fluchtgefahr vor: Seine sozialen Bindungen pflegt er im Ausland (Mutter im
+Kosovo und Ehefrau in Italien; zum Ganzen OG.2019.00098, act. 48,
+S. 16, E. III.3.4). Offenbar ist er auch in Deutschland angemeldet
+(OG.2020.00012, act. 2/2). In der Schweiz ist er an einer Adresse
+gemeldet (Hotel [...] in [...]), wo er nie gesehen wurde (OG.2019.00098,
+act. 48, S. 17 ff., E. 3.5 f.; act. 2/1;
+act. 2/3, Frage 42; act. 2/3, S. 13). Anlässlich der
+Hausdurchsuchung im angeblichen Hotelzimmer des Beschuldigten wurden dann
+auch ausschliesslich Effekten von […] aufgefunden und der Suchlauf im
+Buchungsprogramm des Hotels [...] auf den Namen des Beschuldigten lieferte
+keinen Treffer (act. 2/3, S. 13). Diesbezüglich erstaunt es zudem, dass
+der Besitzer des Hotels [...] in [...], N.______, zunächst in seinem
+Schreiben an die Kantonspolizei Glarus vom 17. März 2020 mit
+Bestimmtheit angab, der Beschuldigte sei nie im Hotel aufgetaucht und habe
+auch das Zimmer nicht bezahlt, weshalb dieses für andere Hotelgäste
+freigegeben wurde (act. 2/1). Anlässlich seiner Befragung vom 26. März 2020
+als beschuldigte Person betreffend Täuschung der Behörden legte N.______ dann
+aber einen Mietvertrag für ein Hotelzimmer vor, welcher jedoch weder von ihm
+noch vom Beschuldigten unterzeichnet wurde (act. 2/3,
+Fragen 1 ff. und 41; act. 2/3, S. 11; der vom Beschuldigten
+in einem früheren Haftverfahren eingereichte Mietvertrag weist lediglich die
+Unterschrift von N.______ auf [SG.2019.00123 act. 8/2]). Zudem gab N.______
+anlässlich seiner Einvernahme – entgegen seinem früheren Schreiben – an, er
+wisse nicht, ob der Beschuldigte noch Mietschulden habe (act. 2/3,
+Fragen 6). Vorliegend ist aufgrund alledem immer noch fraglich, ob der
+Beschuldigte tatsächlich im Hotel [...] in [...] gewohnt hat. Da der
+Beschuldigte angibt, angeblich drei Monate bei der XY.______ GmbH gearbeitet
+zu haben (vgl. nachfolgend E. III.3.3.4), ist es umso erstaunlicher,
+dass er nicht plausibel darlegen kann, wo er während dieser Zeit gewohnt hat.
+Schliesslich vermag auch der Umstand, dass der Beschuldigte nach seiner
+Entlassung angeblich bei seinem Sohn in [...] wohnen könnte (act. 21/3),
+an der vorliegend hohen Fluchtgefahr nichts zu ändern.
+3.3.4
+Auch gegen O.______,
+den Inhaber der mutmasslich ehemaligen Arbeitgeberin des Beschuldigten
+(XY.______ GmbH), läuft eine Strafuntersuchung wegen Täuschung der Behörden
+(act. 2/2). O.______ sagte anlässlich der Einvernahme vom 26. März 2020
+aus, der Beschuldigte habe bei ihm gearbeitet (act. 2/2, Frage 1).
+Jedoch versäumte es O.______ trotz Aufforderungen seit
+17. Februar 2020 den Strafuntersuchungsbehörden die entsprechenden
+Arbeitsjournale und Abrechnungen des Beschuldigten zukommen zu lassen
+(act. 2/2, Frage 26). Zudem gab O.______ an, den Beschuldigten seit
+mehreren Jahren zu kennen (act. 2/2, Frage 20 f.), weshalb
+nicht auszuschliessen ist, dass es sich beim Abschluss des Arbeitsvertrages
+um eine Gefälligkeit handelte. Dies umso mehr, da aus den Vorbringen des
+Beschuldigten hervorgeht, dass dieser bestrebt war, in der Schweiz zu
+arbeiten und wegen seines Knies über eine Krankenversicherung (resp. auch
+über eine Kranken- und Unfalltaggeldversicherung) zu verfügen (zum Ganzen
+OG.2019.00098, act. 48, S.18 f., E. 3.6). Vorliegend ist daher
+entgegen den Ausführungen des Beschuldigten immer noch fraglich, ob der
+Beschuldigte in der Schweiz über eine geregelte Arbeitsstelle verfügt. So
+handelt es sich gemäss Kantonspolizei Zürich bei der Firma XY.______ GmbH um
+eine Scheinfirma. An der angegebenen Adresse existiere nicht einmal ein
+Briefkasten des Unternehmens und es würde auch kein Mietverhältnis mit der dortigen
+Immobilienbesitzerin bestehen (act. 2/3, S.
+13 unten).
+3.3.5
+Darüber hinaus hielt
+sich der Beschuldigte in der Vergangenheit nicht an die Rechtsordnung der
+Schweiz und es wurde über ihn eine Einreisesperre verfügt (SG.2019.00105,
+act. 2/7; SG.2019.00123, act. 8/1). Der Umstand, dass sich der
+Beschuldigte in der laufenden Strafuntersuchung freiwillig gestellt hat, kann
+entgegen seinen Ausführungen nicht als starkes Indiz gegen eine Fluchtgefahr
+gewertet werden. So könnte der Beschuldigte, wie bereits ausgeführt (vgl.
+oben E. III.3.3.4), in die Schweiz zurückgekehrt sein, um die
+medizinische Behandlung seines Knies von der staatlichen Krankenkasse
+bezahlen zu lassen (BGer 1B_58/2020 Urteil vom 24. Februar 2020,
+E. 7.4; OG.2019.00098, act. 48, S.18 f., E. 3.6).
+Schliesslich vermag der Beschuldigte aus dem Umstand, dass sich E.______ und
+K.______ derzeit nicht in Untersuchungshaft befinden, nichts für sich
+hinsichtlich der Fluchtgefahr abzuleiten (act. 27, S. 5,
+Ziff. 6).
+3.3.6
+Aufgrund des oben Ausgeführten
+liegen vorliegend gleich mehrere konkrete Indizien vor, dass sich der
+Beschuldigte, sollte er auf freien Fuss gesetzt werden, der Strafuntersuchung
+durch Untertauchen (in der Schweiz oder in Deutschland), Flucht nach Italien
+oder in den Kosovo, wo er über ein Familiennetz verfügt, entziehen könnte.
+Beim Beschuldigten ist immer noch von Fluchtgefahr (i.S.v. Art. 221
+Abs. 1 lit. a StPO) auszugehen.
+4.
+4.1.
+Weiter hat die
+Untersuchungshaft verhältnismässig zu sein (Art. 197 Abs. 1
+lit. c und lit. d StPO). Konkretisiert wird der Verhältnismässigkeitsgrundsatz
+in Art. 237 Abs. 1 StPO. Gemäss dieser Norm ordnet das
+zuständige Gericht an Stelle der Untersuchungshaft eine oder mehrere mildere
+Massnahmen (Ersatzmassnahmen) an, wenn sie den gleichen Zweck wie die Haft
+erfüllen (BGE 140 IV 19, E. 2.1.2).
+4.2
+4.2.1
+Das
+Zwangsmassnahmengericht bejahte in der angefochtenen Verfügung
+unter Hinweis auf die Ausführungen des
+obergerichtlichen Beschlusses vom 20. Februar 2020 die
+Verhältnismässigkeit einer weiteren Untersuchungshaft. Für die beim
+Beschuldigten bestehende Fluchtgefahr seien – mit Verweis auf die bisherigen
+Beschlüsse des Obergerichts (OG.2019.00098 und OG.2020.00012) –
+Ersatzmassnahmen vorliegend nicht adäquat (act. 15, S. 6, E. 6).
+4.2.2
+Der Beschuldigte ist demgegenüber
+der Ansicht, dass eine Fortführung der Untersuchungshaft nicht mehr
+verhältnismässig sei. Die pauschale Ablehnung der Ersatzmassnahmen durch die
+Vorinstanz verletze Art. 237 StPO, das Verhältnismässigkeitsgebot und
+im Ergebnis die persönliche Freiheit des Beschuldigten. Wie bereits vor
+Vorinstanz führte der Beschuldigte auch vor Obergericht aus, mit einer
+erhöhten Kautionszahlung von CHF 30'000.— durch die Schwester des
+Beschuldigten und deren Ehemann könne einer allfälligen Fluchtgefahr begegnet
+werden. Dies stelle für die in knappen finanziellen Verhältnissen lebenden
+Familienangehörigen des Beschuldigten eine grosse Belastung dar.
+Diesbezüglich reicht der Beschuldigte im Beschwerdeverfahren u.a.
+Kontoauszüge und Lohnabrechnungen seiner Schwester und deren Ehemann ein
+(act. 21/4-6). Sollte das Gericht diese Kautionszahlung als nicht
+ausreichend ansehen, beantragt der Beschuldigte eventualiter zusätzlich zur
+Kaution die Anordnung von Hausarrest, welcher mittels Electronic Monitoring
+überprüft werden könne. Wie bereits vor Vorinstanz vorgetragen sei zudem zu
+beachten, dass aufgrund der aktuellen Lage der COVID-19-Pandemie eine Flucht
+ins Ausland kaum möglich sei und sich die Fluchtmöglichkeit damit auf ein
+Untertauchen innerhalb der Schweiz reduziere (act. 20, S. 7-10,
+Rz. III.3).
+4.2.3
+Die Staatsanwaltschaft führt in ihrer
+Beschwerdeantwort zusammengefasst hinsichtlich der Verhältnismässigkeit
+Folgendes aus: Dem Beschuldigten drohe im Falle einer Verurteilung nebst
+einer mehrjährigen Freiheitsstrafe auch ein obligatorischer Landesverweis.
+Aufgrund der zahlreichen Vorstrafen des Beschuldigten erscheine die Gewährung
+des bedingten Strafvollzugs ausgeschlossen. Eine Überhaft drohe nicht. Zudem
+sei vorliegend die Vielzahl der beteiligten Personen als Beschuldigte und die
+entsprechende Koordination der jeweiligen Verteidigungen sowie insbesondere
+die Komplexität der Strafsache zu berücksichtigen. Die Staatsanwaltschaft
+treibe die komplexe Strafuntersuchung (inkl. Nebendelikten) betreffend zwei
+Tatorte in zwei Kantonen mit einer Beteiligung von über zehn beschuldigten
+Personen unter Beachtung des Beschleunigungsgebotes voran. Aufgrund der beim
+Beschuldigten vorliegenden ausgeprägten Fluchtgefahr erscheine weder
+Electronic Monitoring noch eine Sicherheitsleitung tauglich, den
+Beschuldigten von einer Flucht abzuhalten. Zudem bestehe bei schweren
+Straftaten dann auch ein gesteigertes öffentliches Interesse an der
+Anwesenheit der beschuldigten Person (act. 24, S. 2 f.).
+4.3
+4.3.1
+Der Beschuldigte ist
+dringend tatverdächtig, am Angriff vom 19./20. Mai 2017 auf H.______ und
+J.______ beteiligt gewesen zu sein. Im Falle einer Verurteilung wegen
+Angriffs (i.S.v. Art. 134 StGB) droht dem Beschuldigten eine mehrjährige
+Freiheitsstrafe. Der Beschuldigte befindet sich seit dem
+9. Oktober 2019 in Untersuchungshaft (SG.2019.00105,
+act. 2/3). Weiter ist der Vorinstanz und der Staatsanwaltschaft darin
+beizupflichten, dass das öffentliche Interesse an der Aufklärung dieses
+Gewaltverbrechens und an der Anwesenheit des Beschuldigten als hoch
+einzustufen ist (vgl. BGer 1B_388/2015 Urteil vom 3. Dezember 2015,
+E. 2.4.3). Vorliegend handelt es sich um eine grosse und komplexe
+Strafuntersuchung, in die zahlreiche Personen involviert sind, und die in
+zwei Kantonen geführt wird. Die Ermittlungen im Delikt von [...] führten die
+Strafuntersuchungsbehörden zum Vorfall in [...]. Hinsichtlich dieses Delikts
+ist aufgrund der Akten noch einiges unklar (konkreter Tatbeitrag des
+Beschuldigten, Drahtzieher, Sühneverhandlung, Sühnegeld; zum Ganzen
+OG.2020.00012, act. 25, S. 7 ff., E. III.1.3). Weiter
+deuten auch die vielen geschwärzten Stellen im Protokoll der Einvernahme von
+Person 2 vom 3. Dezember 2019 (act. 25/6) auf weiteren Ermittlungsbedarf
+hin; zumal Person 2 als beschuldigte Person einvernommen wurde.
+Schliesslich ist derzeit nicht auszuschliessen, dass vom Beschuldigten eine
+gewisse Gefahr ausgeht. Der Beschuldigte wurde in der Vergangenheit mehrfach
+wegen teils schweren Verbrechen verurteilt und es ist ersichtlich, dass sich
+der Beschuldigte in der Vergangenheit weder an die Rechtsordnung in der
+Schweiz noch an verfügte Einreisesperren hielt (SG.2019.00105, act. 2/7;
+SG.2019.00123, act. 8/1).
+4.3.2
+Die Mutter des
+Beschuldigten lebt im Kosovo, seine Ehefrau in Italien, sein Sohn in der
+Schweiz, angemeldet ist er auch in Deutschland. In der Schweiz ist er an
+einer Adresse angemeldet, wo er nie gesehen wurde. Zudem ist vorliegend
+fraglich, ob er in der Schweiz über eine Arbeit verfügt. Weiter ist mit der
+Vorinstanz davon auszugehen, dass die aktuelle COVID-19-Pandemie die hohe
+Fluchtgefahr, insbesondere auch das Untertauchen in der Schweiz, nicht zu
+bannen vermag (act. 15, S. 5 unten, E. 5).
+4.4
+Sodann ist zu prüfen,
+ob die vom Beschuldigten thematisierten Ersatzmassnahmen (i.S.v. Art. 237
+StPO), welche nach seinem Dafürhalten geeignet wären, die konkrete
+Fluchtgefahr zu bannen, anstelle der Untersuchungshaft treten könnten.
+Ersatzmassnahmen für Untersuchungshaft können zwar geeignet sein, einer
+gewissen (niederschwelligen) Fluchtneigung Rechnung zu tragen. Bei
+ausgeprägter Fluchtgefahr erweisen sie sich nach der einschlägigen Praxis des
+Bundesgerichts jedoch in der Regel als nicht ausreichend (BGer 1B_378/2018
+Urteil vom 21. September 2019, E. 6.2 m.w.H.).
+4.4.1
+Die vorliegend
+angebotene Fluchtkaution (i.S.v. Art. 237 Abs. 2
+lit. a StPO) über CHF 30'000.— soll von der Schwester des
+Beschuldigten und deren Ehemann bezahlt werden (act. 21/2).
+Drittpersonen, wie u.a. Verwandte, können grundsätzlich anstelle einer
+mittellosen beschuldigten Person eine Sicherheit leisten (Art. 240
+Abs. 2 StPO; BGer 1B_388/2015 Urteil vom
+3. Dezember 2015, E. 2.5). Die Höhe der vorliegend angebotenen
+Kaution ist gemessen an den finanziellen Verhältnissen der Schwester und
+ihres Ehemannes beträchtlich (act. 21/5-6). Bei Kautionen von
+Drittpersonen ist jedoch auch zu prüfen, ob diese die dargebotene Hilfe
+überhaupt vom Beschuldigten zurückfordern würden (BGer 1B_378/2018 Urteil vom
+21. September 2018, E. 6.4 m.w.H.). Dies erscheint vorliegend
+unklar und offen. Die angebotene Kaution bietet deshalb angesichts der hohen
+Fluchtgefahr keine ausreichende Sicherheit für einen Verbleib des
+Beschuldigten in der Schweiz, zumal dieser durch den Verfall der
+Sicherheitsleistung nur indirekt betroffen wäre (BGer 1B_358/2019 Urteil vom
+5. August 2019, E. 4). Daran ändern auch die vom Beschuldigten
+geltend gemachten finanziellen Folgen eines solchen Verfalls für seine
+Schwester und deren Ehemann nichts. Zwar wären die finanziellen Folgen eines
+Verfalls der Kaution für seine Schwester und deren Ehemann sicher
+einschneidend. Jedoch wäre ein Verfall aufgrund deren regelmässigen
+Einkommen, insbesondere dasjenige des Ehemannes, nicht existenzbedrohend.
+Zumal angenommen werden muss, dass die Schwester des Beschuldigten und deren
+Ehemann noch über weitere Vermögenswerte verfügen, mit welchen die angebotene
+Kaution über CHF 30'000.— bezahlt werden soll (so weist das Konto der
+Schwester per 17. April 2020 einen Saldo von CHF 3'236.55
+[act. 21/5b] und dasjenige ihres Ehemannes per 7. April 2020 einen
+Saldo von CHF 392.68 auf und ist aufgrund des unvollständigen
+Kontoauszuges des Ehemannes nicht ersichtlich, wohin rund CHF 26'500
+geflossen sind [act. 21/6c]).
+Aufgrund des eben Ausgeführten
+vermag die angebotene Kaution vorliegend den Fluchtanreiz nicht ausreichend
+abzuschwächen. Hinzu kommt, dass der Tatvorwurf vorliegend schwer wiegt und
+in Anbetracht der dem Beschuldigten drohenden mehrjährigen Freiheitsstrafe
+und seiner sozialen Kontakte im Ausland auf eine ausgeprägte Fluchtgefahr zu
+schliessen ist. Daher erweist sich der Rechtsprechung des Bundesgerichts
+folgend die angebotene Sicherheitsleistung vorliegend als nicht tauglich, den
+Beschuldigten von einer Flucht abzuhalten (BGer 1B_388/2015 Urteil vom
+3. Dezember 2015, E. 2.4.3 f.).
+4.4.2
+Schliesslich würde
+auch eine Eingrenzung (Hausarrest
+)
+verbunden mit einer
+elektronischen Überwachung (sog. Electronic Monitoring; Art. 237
+Abs. 2 lit. c i.V.m. Abs. 3 StPO) die vorliegend hohe Fluchtgefahr
+nicht hinreichend reduzieren, sondern lediglich bewirken, dass Alarm
+ausgelöst und eine Flucht damit rascher entdeckt würde (BGer 1B_358/2019
+Urteil vom 5. August 2019, E. 4; vgl. Merkblatt des Ostschweizer
+Strafvollzugskonkordats zur elektronischen Überwachung im Front-Door-Vollzug,
+wonach Electronic Monitoring weder Delikte noch Fluchten verhindern und es
+deshalb nur als Kontroll- und nicht als Sicherungsinstrument eingesetzt
+werden kann; vgl. https://www.osk-web.ch/assets/files/pdf/rechtserlasse/
+MB+Eletro-nic+Monitoring+EM+2017.pdf,
+zuletzt besucht am 30. April 2020). Der Vollständigkeit halber ist
+noch zu erwähnen, dass auch eine Ausweis- und Schriftensperre angesichts der
+italienischen und kosovarischen Staatsangehörigkeit des Beschuldigten
+vorliegend nur von beschränkter Wirkung wäre, da die Schweiz ausländischen
+Behörden nicht verbieten kann, neue Ausweise auszustellen und somit eine
+Einreise nach Italien oder in den Kosovo nicht verlässlich unterbunden werden
+könnte (BGer 1B_348/2018 Urteil vom 9. August 2018, E. 6.2.5 m.w.H.).
+4.4.3
+Damit durfte die
+Vorinstanz unter den vorliegenden Umständen die Möglichkeit geeigneter
+Ersatzmassnahmen (einzeln oder in Kombination) verneinen, zumal auch keine
+weiteren gegenüber der Haft milderen Massnahmen ersichtlich sind. Dem Beschuldigten
+droht auch keine Überhaft. Der Beschuldigte vermag aus dem Umstand, dass das
+Obergericht in seinem Beschluss vom 20. Februar 2020
+(OG.2020.00012, act. 25), die Haft «nur» um zwei Monate verlängerte,
+dann auch nichts zu seinen Gunsten abzuleiten. Damals lagen die Protokolle
+der Einvernahmen der anonym befragten Personen noch nicht vor (Art. 149
+Abs. 2 lit. e StPO). Zwischenzeitlich liegen diese aber im
+Recht und insbesondere Person 2 belastet den Beschuldigten stark (vgl. oben
+E. III.1.3.2), weshalb sich die Verlängerung der Untersuchungshaft von
+drei Monaten vorliegend unter Beachtung sämtlicher Umstände als
+verhältnismässig erweist. Der Beschuldigte ist darauf hinzuweisen, dass er
+bei der Staatsanwaltschaft des Kantons Glarus jederzeit ein Haftentlassungsgesuch
+stellen kann (Art. 226 Abs. 3 StPO; Art. 228 StPO).
+5.
+Nach diesen
+Ausführungen ist die Beschwerde des Beschuldigten vollumfänglich abzuweisen
+und die angefochtene Verfügung zu bestätigen.
+IV.
+1.
+Die Regelung der
+Kosten- und Entschädigungsfolgen hat im Endentscheid zu erfolgen
+(Art. 421 Abs. 1 StPO). Die Gerichtsgebühren sind zuhanden der
+das Strafverfahren abschliessenden Strafbehörde in Beachtung der
+Bemessungskriterien von Art. 6 der Zivil- und Strafprozesskostenverordnung
+des Kantons Glarus (GS III A/5) festzusetzen und zu den Untersuchungskosten
+im Sinne von Art. 326 Abs. 1 lit. d StPO zu schlagen. Die
+Gerichtsgebühr für das Beschwerdeverfahren ist gestützt auf Art. 8
+Abs. 2 lit. b der Zivil- und Strafprozesskostenverordnung des Kantons
+Glarus auf CHF 800.— festzusetzen. Ausgangsgemäss bleibt es bei der
+Kostenregelung der Vorinstanz (Art. 428 Abs. 3 StPO e contrario;
+act. 15, S. 7, Disp. Ziff. 4 f.). Parteientschädigungen
+sind keine zuzusprechen (Art. 423 Abs. 1 StPO).
+2.
+Die
+Entschädigung der amtlichen Verteidigerin des Beschuldigten für ihre im
+Beschwerdeverfahren getätigten Aufwendungen wird durch die Staatsanwaltschaft
+oder das urteilende Gericht bei Abschluss des Strafverfahrens festzusetzen
+sein (Art. 135 Abs. 2 StPO).
+____________________
+Das Gericht beschliesst:
+1.
+Die Beschwerde wird
+vollumfänglich abgewiesen und die Verfügung des Zwangsmassnahmengerichts
+des Kantons Glarus vom 9. April 2020 im Verfahren SG.2020.00037 wird
+bestätigt.
+2.
+Die Gerichtsgebühr für das
+Beschwerdeverfahren wird zuhanden der das Strafverfahren abschliessenden
+Behörde auf CHF 800.— festgesetzt.
+3.
+Die Regelung der Kostenauflage
+und allfälliger Entschädigungen wird dem Endent­scheid vorbehalten.
+4.
+Schriftliche Mitteilung an:
+[…]
