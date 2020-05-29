@@ -1,0 +1,503 @@
+---
+decision_id: "gl_gerichte_VG.2019.00135"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2019.00135"
+docket_2: "VG.2020.934"
+decided: "2020-05-29"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1257&W10_KEY=218274&nTrefferzeile=8&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/142.20/art-043.md", "switzerland/bund/acts/142.20/art-050.md", "switzerland/bund/acts/142.20/art-058a.md"]
+---
+
+# GL Gerichte VG.2019.00135
+
+## Regeste
+
+Fremdenpolizei
+
+## Text
+
+Glarus Verwaltungsgericht 29.05.2020 VG.2019.00135 (VG.2020.934)
+Glaris Verwaltungsgericht 29.05.2020 VG.2019.00135 (VG.2020.934)
+Glarona Verwaltungsgericht 29.05.2020 VG.2019.00135 (VG.2020.934)
+
+Fremdenpolizei
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+29. Mai 2020
+I. Kammer
+in Sachen
+VG.2019.00135
+A.______
+Beschwerdeführerin
+vertreten durch
+Rechtsanwältin
+B.______
+gegen
+1.
+Abteilung Migration des Kantons Glarus
+Beschwerdegegner
+2.
+Departement Sicherheit und Justiz
+des Kantons Glarus
+betreffend
+Nichtverlängerung der Aufenthaltsbewilligung /
+Ordentliche Wegweisung
+Die Kammer zieht in Erwägung:
+I.
+1.
+Die am […] geborene
+A.______,
+Staatsangehörige des Landes
+C.______, heiratete am 3. August 2015 D.______, welcher das schweizerische
+Bürgerrecht besitzt. Am 28. November 2015 reiste sie im Rahmen des
+Familiennachzugverfahrens in die Schweiz ein, wo sie eine bis am 27. November
+2017 gültige Aufenthaltsbewilligung B erhielt. Nachdem die Eheleute
+ihren Wohnsitz Ende November 2016 von […] nach […] verlegt hatten, wurde die
+Aufenthaltsbewilligung von A.______ bis am 27. November 2018 verlängert.
+2.
+Am 29. März 2018 erstattete
+der Onkel von A.______ bei der Kantonspolizei Glarus eine Meldung, wonach
+D.______ gegenüber seiner Frau gewalttätig geworden sei. Nachdem eine
+polizeiliche Intervention stattgefunden und A.______ einen Strafantrag gegen
+ihren Ehemann gestellt hatte, wies ihn die Kantonpolizei Glarus bis zum 5. April
+2018 von der gemeinsamen Wohnung weg, was vom Zwangsmassnahmengericht des
+Kantons Glarus am 4. April 2018 bis am 15. April 2018 verlängert wurde. In
+der Folge berechtigte der Präsident des Kantonsgerichts Glarus A.______ und
+D.______ am 19. April 2018 zum Getrenntleben und merkte überdies vor,
+dass sie seit dem 1. April 2018 getrennt leben.
+3.
+Am 21. September 2018
+stellte A.______ erneut ein Gesuch um Verlängerung ihrer
+Aufenthaltsbewilligung, welches die Abteilung Migration nach Gewährung des
+rechtlichen Gehörs am 27. Dezember 2018 abwies und sie anwies, innert
+90 Tagen nach Rechtskraft der Verfügung die Schweiz zu verlassen. Die
+von A.______ am 8. Januar 2019 dagegen erhobene Beschwerde wies das
+Departement Sicherheit und Justiz (DSJ) am 29. Oktober 2019 ab.
+4.
+4.1
+A.______ gelangte in der Folge mit Beschwerde vom
+29. November 2019 ans Verwaltungsgericht und beantragte die Aufhebung der
+Verfügung der Abteilung Migration vom 27. Dezember 2018 sowie des
+Beschwerdeentscheids des DSJ vom 29. Oktober 2019. Es sei ihr die
+Aufenthaltsbewilligung zu verlängern, eventualiter sei die Sache zur weiteren
+Abklärung an die Abteilung Migration zurückzuweisen; alles unter Kosten- und
+Entschädigungsfolgen zu Lasten der Abteilung Migration und des DSJ sowie
+unter Gewährung der unentgeltlichen Rechtsverbeiständung und der
+unentgeltlichen Prozessführung.
+4.2
+Das DSJ beantragte am 13. Januar 2020
+die Abweisung der Beschwerde, soweit darauf
+einzutreten sei; unter Kostenfolgen zu Lasten von A.______. Die Abteilung
+Migration liess sich am 14. Januar 2020 vernehmen und beantragte ebenfalls
+die Abweisung der Beschwerde; unter Kostenfolgen zu Lasten von A.______.
+4.3
+Das Verwaltungsgericht führte am 29. Mai 2020 eine
+mündliche Verhandlung mit Parteieinvernahme durch, wobei auf das
+handschriftliche Protokoll des Gerichtsschreibers zu verweisen ist.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 16 des Einführungsgesetzes zum Bundesgesetz über die
+Ausländerinnen und Ausländer und zum Asylgesetz vom 4. Mai 2008 (EG AuG)
+i.V.m. Art. 105 Abs. 1 lit. b des Gesetzes über die Verwaltungsrechtspflege
+vom 4. Mai 1986 (VRG) zur Behandlung der vorliegenden Beschwerde
+zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt sind, ist auf
+die Beschwerde einzutreten.
+2.
+Mit der
+Verwaltungsgerichtsbeschwerde können die unrichtige oder unvollständige
+Feststellung des rechtserheblichen Sachverhalts sowie die unrichtige
+Rechtsanwendung einschliesslich eines Missbrauchs des Ermessens geltend
+gemacht werden (Art. 107 Abs. 1 VRG). Die Unangemessenheit des
+Entscheids kann nur ausnahmsweise geltend gemacht werden (vgl. Art. 107 Abs.
+2 VRG). Ein solcher Ausnahmetatbestand liegt nicht vor.
+3.
+3.1
+Die Beschwerdeführerin rügt im Wesentlichen, sie
+habe während des ehelichen Zusammenlebens von ihrem Ehepartner systematisch
+physische und psychische Gewalt erfahren, was von den Beschwerdegegnern zu
+Unrecht verneint worden sei. Insbesondere sei die Tatsache, dass es zu
+tätlichen Übergriffen gekommen sei und entsprechende Verletzungen gesehen
+worden seien, trotz stimmiger Aussagen von ihr, ihrer damaligen Nachbarin und
+ihrer Chefin zu Unrecht als unglaubhaft eingestuft worden. Sodann seien für
+die geltend gemachten Einschränkungen, Kontrollen, Drohungen und
+Beleidigungen durch ihren Ehemann vermeintliche Rechtfertigungsgründe gesucht
+worden, welche nicht aktenkundig seien. Dementsprechend hätten die
+Beschwerdegegner die im Recht liegenden Beweise nicht nach pflichtgemässem
+Ermessen gewürdigt und es insbesondere unterlassen, eine Gesamtbetrachtung
+des Sachverhalts vorzunehmen. Vielmehr hätten sie sich darauf beschränkt,
+ihre Aussagen aufgrund nicht nachvollziehbarer und unsachlicher Gründe zu
+würdigen. Insgesamt seien wichtige persönliche Gründe für eine Verlängerung
+der Aufenthaltsbewilligung gegeben, wobei eine Nichtverlängerung in
+Anbetracht der Umstände, in welchen sie sich über Jahre befunden habe, nicht
+verhältnismässig sei. Dies nicht zuletzt mit Blick darauf, dass sie sich
+innert kürzester Zeit in der Schweiz aus eigener Kraft ein neues Leben mit
+einer eigenen Wohnung sowie einem festen Arbeitsplatz aufgebaut habe.
+3.2
+Die Beschwerdegegnerin bringt vor, der Sachverhalt
+sei rechtsgenüglich erstellt worden. Es seien sämtliche involvierten Personen
+durch fachlich befähigtes Personal befragt worden und die Beschwerdeführerin
+habe mehrfach die Möglichkeit erhalten, sich frei und offen in ihrer
+Muttersprache zur Sache zu äussern. Dabei habe sie sich bereits nach den
+ersten Befragungen in entscheidenden Fragen widersprochen oder habe zu
+relevanten Ereignissen keine Aussagen machen können, wobei sie den
+Sachverhalt immer weiter ausgebaut und sich dadurch in immer häufigere
+Widersprüche verwickelt habe. Dabei habe sie ihr angeblich erlittenes Martyrium
+nie glaubhaft schildern können. Hinzu komme, dass ihre Aussagen von
+denjenigen der befragten Zeuginnen massgeblich abwichen, weshalb keine
+kongruenten Schilderungen vorlägen. Damit habe anlässlich der umfassenden
+fremdenpolizeilichen Befragungen nicht erstellt werden können, dass die
+Beschwerdeführerin je Opfer von häuslicher Gewalt durch ihren Ehemann
+geworden sei, weshalb keine wichtigen persönlichen Gründe für eine
+Verlängerung der Aufenthaltsbewilligung vorlägen.
+3.3
+Der Beschwerdegegner 2 stellt sich auf den
+Standpunkt, der Sachverhalt sei entgegen der Ansicht der Beschwerdeführerin
+nicht stets zu ihren Ungunsten ausgelegt worden. Vielmehr seien auch ihre
+Darstellungen vereinzelt als glaubhaft taxiert worden. Sodann habe er sich
+keineswegs nur auf Einzelheiten fokussiert, sondern seinem Entscheid ein
+Gesamtbild der geschilderten Vorfälle zugrunde gelegt. Dennoch sei er wegen
+der Inkonsistenz der verschiedenen Aussagen der befragten Personen zum
+Schluss gelangt, dass die Systematik, Konstanz und Intensität der ehelichen
+Gewalt insgesamt nicht glaubhaft dargestellt worden seien, wobei er nicht in
+Abrede stelle, dass es sich vorliegend um eine belastende und unglückliche
+Beziehung gehandelt habe.
+4.
+4.1
+A
+usländische
+Ehegatten und ledige Kinder unter 18 Jahren von Schweizerinnen und
+Schweizern haben Anspruch auf Erteilung und Verlängerung der
+Aufenthaltsbewilligung, wenn sie mit diesen zusammenwohnen (Art. 42 Abs. 1
+des
+Bundesgesetzes über die Ausländerinnen und Ausländer und über die
+Integration vom 16. Dezember 2005 [Ausländer- und Integrationsgesetz, AIG])
+. Gemäss Art. 50 Abs. 1 AIG besteht der Anspruch des
+Ehegatten und der Kinder auf Erteilung und Verlängerung der
+Aufenthaltsbewilligung nach Art. 42 f. AIG nach Auflösung der Ehe oder der
+Familiengemeinschaft weiter, wenn die Ehegemeinschaft mindestens drei Jahre
+bestanden hat und die Integrationskriterien nach Art. 58a AIG erfüllt sind
+(lit. a); oder wichtige persönliche Gründe einen weiteren Aufenthalt in der
+Schweiz erforderlich machen (lit. b). Wichtige persönliche Gründe nach Art.
+50 Abs. 1 lit. b AIG können namentlich vorliegen, wenn die Ehegattin oder der
+Ehegatte Opfer ehelicher Gewalt wurde oder die Ehe nicht aus freiem Willen
+geschlossen hat oder die soziale Wiedereingliederung im Herkunftsland stark
+gefährdet erscheint (Art. 50 Abs. 2 AIG).
+4.2
+4.2.1
+Im
+Rahmen von Art. 50 Abs. 1 lit. b i.V.m. Art. 50 Abs. 2 AIG ist jede Form
+ehelicher bzw. häuslicher Gewalt, sei sie körperlicher oder psychischer
+Natur, ernst zu nehmen. Häusliche Gewalt bedeutet
+systematische Misshandlung mit dem Ziel, Macht und Kontrolle auszuüben und
+nicht eine einmalige Ohrfeige oder eine verbale Beschimpfung im Verlauf eines
+eskalierenden Streits. Die physische oder psychische Zwangsausübung und deren
+Auswirkungen müssen vielmehr von einer gewissen Konstanz bzw. Intensität
+sein (BGE 138 II 229 E. 3.2.1).
+4.2.2
+Auch psychische bzw. sozioökonomische Druckausübung
+wie dauerndes Beschimpfen, Erniedrigen, Drohen und Einsperren kann einen für
+die Annahme eines nachehelichen Härtefalls relevanten Grad an unzulässiger
+Oppression erreichen. Dies ist der Fall, wenn die psychische Integrität des
+Opfers bei einer Aufrechterhaltung der ehelichen Gemeinschaft schwer
+beeinträchtigt würde. Demgegenüber begründet nicht jede unglückliche,
+belastende und nicht den eigenen Vorstellungen entsprechende Entwicklung
+einer Beziehung bereits einen nachehelichen Härtefall und ein weiteres
+Anwesenheitsrecht
+in der Schweiz. Häusliche Oppression
+bedeutet systematische Misshandlung mit dem Ziel, Macht und Kontrolle
+auszuüben. Die anhaltende, erniedrigende Behandlung muss derart schwerwiegen,
+dass von der betroffenen Person bei Berücksichtigung sämtlicher Umstände
+vernünftigerweise nicht erwartet werden kann, dass sie einzig aus
+bewilligungsrechtlichen Gründen die Ehe aufrechterhält und in einer ihre
+Menschenwürde und Persönlichkeit verneinenden Beziehung verharrt. Eine
+glaubhaft gemachte oppressionsbedingte Aufhebung der Hausgemeinschaft soll
+für die betroffene Person keine ausländerrechtlichen Nachteile zur Folge
+haben, wenn sie durch das Zusammenleben in ihrer Persönlichkeit ernsthaft
+gefährdet wäre und ihr eine Fortführung der ehelichen Gemeinschaft bei
+objektiver Betrachtungsweise nicht mehr zugemutet werden kann. Es handelt
+sich hierbei um einen Ausfluss der sich aus dem Verfassungs- und
+Konventionsrecht ergebenden staatlichen Schutzpflichten. Beeinträchtigt ein
+Gatte in schwerwiegender Weise andauernd grundlegende, verfassungs- und
+menschenrechtlich relevante Positionen des andern, hat der Staat dessen
+Recht, sich dem entsprechenden oppressiven privaten Verhalten zu entziehen,
+im Migrationszusammenhang insofern Rechnung zu tragen, als er keine
+unzumutbar hohen Anforderungen an einen möglichen Verbleib im Land stellen
+darf. Hierzu dient die ein selbständiges Anwesenheitsrecht begründende
+Regelung von Art. 50 Abs. 1 lit. b i.V.m. Abs. 2 AIG,
+wobei sie den verfassungs- und konventionsrechtlichen Schutzpflichten
+entsprechend auszulegen ist. Die Abhängigkeit des Opfers häuslicher Gewalt
+bzw. psychischer Oppression vom Täter soll durch die Bewilligungsfrage
+nicht verstärkt und die gewaltbetroffene nachgezogene Person nicht vor das
+Dilemma gestellt werden, in der Zwangssituation verbleiben oder den Verlust
+des Aufenthaltsrechts hinnehmen zu müssen. Dabei ist eine Gesamtbetrachtung
+vorzunehmen. Zwar können die eheliche Gewalt einerseits und die starke
+Gefährdung der
+sozialen Wiedereingliederung im
+Herkunftsland andererseits praxisgemäss je für sich allein einen wichtigen
+persönlichen Grund im Sinne von Art. 50 Abs. 1 lit. b AIG
+darstellen, wobei die beiden Elemente nicht kumulativ zu verstehen sind. Dies
+schliesst indessen nicht aus, im Einzelfall beide Elemente zu berücksichtigen
+und den Härtefall auch zu bejahen, wenn diese je für sich selber hierzu nicht
+genügen würden, ihre Kombination aber wertungsmässig einem wichtigen
+persönlichen Grund im Sinne von Art. 50 Abs. 1 lit. b
+AIG gleichkommt (BGE 138 II 229 E. 3.2.2).
+4.2.3
+Die ausländische Person trifft bei den
+Feststellungen des entsprechenden Sachverhalts eine weitreichende
+Mitwirkungspflicht. Sie muss die eheliche Gewalt bzw. häusliche
+Oppression in geeigneter Weise glaubhaft machen (Arztberichte oder
+psychiatrische Gutachten, Polizeirapporte, Berichte/Einschätzungen von
+Fachstellen, glaubwürdige Zeugenaussagen von weiteren Angehörigen oder
+Nachbarn etc.). Allgemein gehaltene Behauptungen oder Hinweise auf punktuelle
+Spannungen genügen nicht. Wird häusliche Gewalt in Form psychischer
+Oppression behauptet, muss vielmehr die Systematik der Misshandlung bzw. deren
+zeitliches Andauern und die daraus entstehende subjektive Belastung objektiv
+nachvollziehbar konkretisiert und beweismässig unterlegt werden. Dasselbe
+gilt, soweit damit verbunden geltend gemacht werden soll, bei einer Rückkehr
+erweise sich die soziale Wiedereingliederung als stark gefährdet. Auch hier
+genügen allgemeine Hinweise nicht. Die befürchtete Beeinträchtigung muss im
+Einzelfall aufgrund der konkreten Umstände glaubhaft erscheinen. Nur in
+diesem Fall und beim Bestehen entsprechender Beweisanträge, die nicht in
+antizipierter Beweiswürdigung abgewiesen werden können, wobei aber
+allfälligen sachinhärenten besonderen Beweisschwierigkeiten Rechnung zu
+tragen ist, rechtfertigt es sich, ein ausländerrechtliches Beweisverfahren
+durchzuführen (BGE 138 II 229 E. 3.2.3).
+5.
+Die Beschwerdeführerin und ihr Ehemann heirateten am
+3. August 2015 und leben seit dem 1. April 2018 gerichtlich getrennt.
+Demgemäss dauerte die Ehegemeinschaft weniger als drei Jahre, weshalb sich
+aus Art. 50 Abs. 1 lit. a AIG kein Anspruch auf die Verlängerung der
+Aufenthaltsbewilligung ergibt. Eine solche fällt auch gestützt auf
+Art. 43 Abs. 1 AIG ausser Betracht, da die Beschwerdeführerin nicht mehr
+mit ihrem Ehemann zusammenwohnt. Ferner stützt sich die Beschwerdeführerin zu
+Recht nicht auf Art. 8 Ziff. 1 der Europäischen Menschenrechtskonvention vom
+4. November 1950 (EMRK) oder Art. 13 Abs. 1 der Bundesverfassung der
+Schweizerischen Eidgenossenschaft vom 18. April 1999 (BV), da sie keine
+besonders intensiven privaten Bindungen bzw. sozialen Beziehungen in der
+Schweiz pflegt, welche einen Anspruch auf Aufenthalt ergeben könnten
+(vgl. dazu BGE 130 II 281 E. 3.2.1). Demgegenüber macht die
+Beschwerdeführerin geltend, sie sei Opfer physischer und psychischer häuslicher
+Gewalt gewesen, weshalb ein Anspruch auf Verlängerung der
+Aufenthaltsbewilligung gestützt auf Art. 50 Abs. 1 lit. b i.V.m. Abs. 2
+AIG bestehe.
+6.
+6.1
+Z
+unächst ist festzuhalten, dass sich eheliche Gewalt
+ihrer Natur nach regelmässig in den eigenen vier Wänden und ohne Zeugen
+ereignet. Insofern dürfen an den Nachweis der Gewaltanwendung keine
+überhöhten Anforderungen gestellt werden (VGer-Urteil VG.2014.00057 vom 2.
+Oktober 2014 E. II/6.1). Diesem Umstand trug der Gesetzgeber damit Rechnung,
+dass bei der Geltendmachung eines persönlichen Härtefalls im Sinne von Art.
+50 Abs. 1 lit. b i.V.m. Abs. 2 AIG nicht ein strikter Beweis verlangt
+wird oder das in sozialversicherungsrechtlichen Streitigkeiten geltende
+Beweismass der überwiegenden Wahrscheinlichkeit gilt, sondern bereits ein
+Glaubhaftmachen genügt. Glaubhaft gemacht ist eine Tatsache schon dann, wenn
+für deren Vorhandensein gewisse Elemente sprechen, selbst wenn das Gericht
+noch mit der Möglichkeit rechnet, dass sie sich nicht verwirklicht haben
+könnte (BGE 130 III 321 E. 3.3).
+6.2
+Vorliegend
+erweisen sich die Vorbringen der Beschwerdeführerin hinsichtlich eines
+Härtefalls im Sinne
+Art. 50 Abs. 1
+lit. b i.V.m. Abs. 2 AIG als glaubhaft. So gelang es ihr insbesondere
+vor den Schranken des Gerichts rechtsgenüglich darzulegen, dass sie während
+ihrer Ehe Opfer von häuslicher Gewalt war. Dies findet einerseits in den im
+Recht liegenden Akten seine Stütze, andererseits erscheint es nicht
+nachvollziehbar, dass die Beschwerdeführerin kurz bevor die Ehegemeinschaft
+mit D.______ drei Jahre gedauert hat, was ihr ohne Weiteres ein Anspruch auf
+Verlängerung der Aufenthaltsbewilligung gestützt auf Art. 50 Abs. 1 lit. a
+AIG verliehen hätte, diese aus anderen Gründen als die von ihr vorgebrachten
+aufgegeben hat.
+Obschon die Beschwerdeführerin anlässlich der
+Befragungen teilweise inkonsistente Angaben machte und folglich gewisse
+Zweifel an manchen Schilderungen verständlich sind, lässt sich aus diesen
+ableiten, dass es am 29. März 2018 zu einem heftigen Streit zwischen ihr
+und ihrem Ehemann gekommen war, wobei sie sich am 30. März 2018 notfallmässig
+ins Spital E.______ begab und sich dort einer ärztlichen Kontrolle unterzog.
+Die dort festgestellten Diagnosen stimmen mit den Vorkommnissen, wie sie von
+der Beschwerdeführerin vorgetragen wurden, weitgehend überein und es
+erscheint nicht plausibel, dass sie sich die Verletzungen selbst zugefügt
+hat, was ihr Ehemann gegenüber der Polizei zu Protokoll gab. Des Weiteren
+erweisen sich die Vorbringen der Beschwerdeführerin betreffend weiterer
+erlittener physischer und psychischer Gewalt während der Ehe in den
+wesentlichen Punkten als stimmig und lassen sich mit den Aussagen ihrer
+ehemaligen Chefin und ihrer ehemaligen Nachbarin vereinbaren. So berichteten
+Letztere übereinstimmend von gesichteten Blessuren und deuteten darauf hin,
+dass die Beschwerdeführerin während der Arbeit bzw. zu Hause von ihrem
+Ehemann über das übliche Mass hinaus eingeschränkt und kontrolliert wurde,
+wobei keine Indizien ersichtlich sind, dass diese Aussagen reine Gefälligkeitshandlungen
+zu Gunsten der Beschwerdeführerin waren. Zwar trifft es zu, dass zwischen den
+Aussagen der Beschwerdeführerin und denjenigen der Auskunftspersonen
+teilweise Widersprüche bestehen, was insbesondere auf die zeitlichen Angaben
+zutrifft. Im Ergebnis schilderten sie jedoch übereinstimmend von
+verschiedenen Vorfällen, welche in ihrer Gesamtheit für das Vorliegen von
+häuslicher Gewalt im Sinne eines persönlichen Härtefalls sprechen.
+Demgemäss erscheint es glaubhaft, dass D.______
+mehrfach Gewalt gegen die Beschwerdeführerin anwendete und dabei auch Waffen
+benutzte, wofür auch die von der Polizei bei D.______ sichergestellten und
+von der Beschwerdeführerin erwähnten Gegenstände (z.B. Schlagring)
+sprechen. Sodann wurde Letztere offenbar erheblich in ihrem sonstigen
+finanziellen und sozialen Fortkommen eingeschränkt. Diesbezüglich lässt sich
+beispielsweise den Akten entnehmen, dass sie sich mehrfach von dritter Seite
+her finanzielle Mittel beschaffen musste. Des Weiteren legte die
+Beschwerdeführerin anlässlich der diversen Befragungen konsistent dar, dass
+ihr Ehemann sich gegenüber ihr selbst und gegenüber ihrer Familie
+beleidigend, bedrohlich und herabsetzend verhielt. Ferner ergibt sich aus den
+Akten und gestützt auf die Aussagen der Beschwerdeführerin, dass ihr Ehemann
+die gesamten finanziellen Angelegenheiten während der Ehegemeinschaft in
+Eigenregie erledigte. Zusammen mit dem Umstand, dass er ihr beispielsweise
+bereits einen Deutschkurs verwehren wollte, erscheint es damit insgesamt
+stimmig, soweit die Beschwerdeführerin darauf hinweist, dass er ihre soziale
+Integration habe verhindern und über sie nach seinem Ermessen habe verfügen
+wollen. Im Übrigen kann ihr der Umstand, dass sie sich nicht bereits früher
+Hilfe gesucht hat, nicht zum Nachteil gereichen. Vielmehr erscheint es
+nachvollziehbar, dass sie sich schämte, sich mit Blick auf ihre häuslichen
+Probleme gegenüber aussenstehenden Personen oder auch gegenüber
+Familienangehörigen zu öffnen.
+6.3
+Unter Würdigung der gesamten Umstände
+gelingt es der Beschwerdeführerin, nicht zuletzt
+anlässlich der persönlichen Befragung vor dem Verwaltungsgericht, das
+Vorliegen eines persönlichen Härtefalls glaubhaft darzulegen. Den
+Beschwerdegegnern kann zwar insoweit gefolgt werden, als dass sich die Aussagen
+der Beschwerdeführerin anlässlich der polizeilichen Einvernahme und den
+Befragungen durch die Beschwerdegegnerin 1 als teilweise inkonsistent
+erweisen, was beispielsweise auf den Ablauf der Vorkommnisse vom 29. März
+2018, namentlich von welchem Raum aus die Beschwerdeführerin ihren Onkel
+anrief, oder etwa was die Anzahl der erlittenen Übergriffe sowie die
+Messerattacken, die jeweils benutzten Waffen oder Gegenstände, den Zeitpunkt,
+in welchem ihre ehemalige Nachbarin erstmals blaue Flecken an ihrem Körper
+entdeckt hat und auf einige Ausführungen zur Kontennutzung zutrifft. Diese
+Widersprüche betreffen weitgehend aber nur Details, wobei insbesondere zu
+beachten ist, dass die Beschwerdeführerin bei der polizeilichen Befragung im
+Nachgang an den Vorfall vom 29. März 2018 emotional stark aufgewühlt war.
+Sodann sind die Widersprüche vor dem Hintergrund zu sehen, dass die
+Beschwerdeführerin aufgrund der erlittenen Vorfälle auch später emotional
+stark belastet war und sichtlich nach wie vor erheblich unter der Situation
+leidet. Ferner ist mit Blick auf ihre mangelhaften Deutschkenntnisse nicht
+auzuschliessen, dass es bei den Befragungen trotz Vorhandenseins von
+Übersetzern gewisse Verständigungsschwierigkeiten gab.
+Insgesamt kann zwar nicht gänzlich ausgeschlossen
+werden, dass die Beschwerdeführerin nicht in einem für die Verlängerung der
+Aufenthaltsbewilligung notwendigen Mass häusliche Gewalt erlitt. Dies ändert
+aber nichts daran, dass zahlreiche Elemente dafür sprechen, dass sie Opfer
+ehelicher physischer und psychischer Gewalt war, womit dies glaubhaft gemacht
+ist.
+6.4
+Schliesslich ist darauf hinzuweisen, dass sich die
+Beschwerdeführerin im Rahmen ihrer Möglichkeiten bereits gut in der Schweiz
+integriert hat und bei einer allfälligen Rückkehr ins Land C.______ auf ihre
+dortige Familie angewiesen bzw. in ihrem wirtschaftlichen und sozialen
+Fortkommen erheblich beeinträchtigt wäre. So lebt sie in […] in einer eigenen
+Wohnung und führte gegenüber dem Gericht glaubhaft aus, dass sie aktuell zwar
+keine Arbeitsstelle habe, jedoch eine solche in Aussicht habe. Zudem ist
+anhand ihrer Aussagen und der im Recht liegenden Akten erstellt, dass sie in
+der Schweiz soziale Bindungen pflegt und bereit ist, sich weiter zu
+integrieren, womit insgesamt ein erhebliches Interesse an der Verlängerung
+der Aufenthaltsbewilligung besteht.
+6.5
+Zusammenfassend war der Beschwerdeführerin wegen
+der erlittenen physischen und psychischen Gewalt während der Ehegemeinschaft
+mit D.______ ein weiterer Verbleib in der ehelichen Gemeinschaft nicht mehr
+zumutbar, weshalb von einem persönlichen Härtefall im Sinne von Art. 50
+Abs. 1 lit. b i.V.m. Abs. 2 AIG auszugehen ist. Dieser wurde von der
+Beschwerdeführerin zumindest in den wesentlichen Punkten glaubhaft dargelegt,
+wobei die von den Beschwerdegegnern erwähnten Inkonsistenzen bei den
+Befragungen im Lichte der Belastungssituation der Beschwerdeführerin zu
+würdigen sind. Da die wichtigen persönlichen Gründe der Beschwerdeführerin
+einen weiteren Aufenthalt in der Schweiz erforderlich machen, erweist sich
+ihr Anspruch auf eine Verlängerung ihrer Aufenthaltsbewilligung als
+begründet.
+Demgemäss ist die Beschwerde gutzuheissen. Der
+Entscheid des Beschwerdegegners 2 vom 29. Oktober 2019 ist aufzuheben
+und die Beschwerdegegnerin 1 ist einzuladen, die Aufenthaltsbewilligung
+der Beschwerdeführerin zu verlängern.
+III.
+1.
+1.1
+Nach Art. 134 Abs. 1 lit. c VRG hat die Partei,
+welche im Beschwerdeverfahren unterliegt, die amtlichen Kosten zu tragen. Der
+Kanton ist für seine Behörden gemäss Art. 135 Abs. 1 VRG nicht
+kostenpflichtig. Folglich sind die Gerichtskosten auf die Staatskasse zu
+nehmen.
+1.2
+Nach Art. 138 Abs. 3 lit. a VRG erhalten die
+Parteien zu Lasten der Vorinstanz eine Parteientschädigung, wenn sie im
+Verwaltungsgerichtsbeschwerdeverfahren obsiegen. Ausgangsgemäss ist der
+Beschwerdegegner 2 daher zu verpflichten, der Beschwerdeführerin eine
+Parteientschädigung von Fr. 3'500.- (inkl. Mehrwertsteuer) zu bezahlen.
+2.
+2.1
+Gemäss
+Art. 139 Abs. 1
+VRG
+befreit die
+Behörde eine Partei, der die Mittel fehlen, um neben dem Lebensunterhalt für
+sich und ihre Familie die Verfahrenskosten aufzubringen, auf Gesuch hin ganz
+oder teilweise von der Kosten- und Vorschusspflicht, sofern das Verfahren
+nicht aussichtslos ist. Unter denselben Voraussetzungen weist sie der Partei
+auf Gesuch hin oder von Amtes wegen einen Anwalt als Rechtsbeistand zu,
+sofern ein solcher für die gehörige Interessenwahrung erforderlich ist
+(Art. 139 Abs. 2 VRG). Der Nachweis der Bedürftigkeit obliegt nach
+Art. 139 Abs. 3 VRG der gesuchstellenden Partei.
+2.2
+Da die Gerichtskosten auf die Staatskasse zu nehmen
+sind, ist das Gesuch der Beschwerdeführerin um Gewährung der unentgeltlichen
+Prozessführung als gegenstandslos geworden abzuschreiben.
+2.3
+Die Beschwerdeführerin
+beantragt zudem
+die Gewährung der unentgeltlichen
+Rechtsverbeiständung
+. Dabei ergibt sich ihre Mittellosigkeit ohne
+Weiteres aus den Akten.
+Da sie vorliegend
+obsiegt, sind ihre Begehren zudem nicht aussichtslos. Daneben erweist sich
+der Beizug eines Rechtsbeistands als erforderlich. Folglich ist ihr Gesuch um
+Gewährung der unentgeltlichen Rechtsverbeiständung gutzuheissen und ihr ist
+in der Person von Rechtsanwältin B.______ eine unentgeltliche
+Rechtsbeiständin zu bestellen. Diese ist mit Fr. 3'500.- (inkl. Auslagen
+und Mehrwertsteuer) zu entschädigen. Daran anzurechnen ist die
+Parteientschädigung seitens des Beschwerdegegners 2 in gleicher Höhe.
+Demgemäss beschliesst die Kammer
+:
+1.
+Das
+Gesuch der Beschwerdeführerin um Gewährung der unentgeltlichen Prozessführung
+wird als gegenstandslos geworden abgeschrieben.
+2.
+Das
+Gesuch der Beschwerdeführerin um Gewährung der unentgeltlichen Rechtsverbeiständung
+wird gutgeheissen. Ihr wird in der Person von Rechtsanwältin B.______ eine
+unentgeltliche Rechtsbeiständin bestellt.
+3.
+Die Rechtsbeiständin wird zu Lasten der
+Gerichtskasse mit Fr. 3'500.- (inkl. Auslagen und Mehrwertsteuer)
+entschädigt. Daran angerechnet wird die Parteientschädigung seitens des
+Beschwerdegegners 2 in gleicher Höhe.
+und erkennt sodann:
+1.
+Die
+Beschwerde wird gutgeheissen. Der Entscheid des Beschwerdegegners 2
+vom 29. Oktober 2019 wird aufgehoben. Die Beschwerdegegnerin 1 wird
+eingeladen, die Aufenthaltsbewilligung der Beschwerdeführerin zu
+verlängern.
+2.
+Die
+Gerichtskosten werden auf die Staatskasse genommen.
+3.
+Der
+Beschwerdegegner 2 wird verpflichtet, der Beschwerdeführerin innert
+30 Tagen nach Rechtskraft dieses Entscheids eine Parteientschädigung
+von Fr. 3'500.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
