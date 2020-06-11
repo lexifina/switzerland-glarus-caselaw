@@ -1,0 +1,614 @@
+---
+decision_id: "gl_gerichte_VG.2019.00079"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2019.00079"
+docket_2: "VG.2020.940"
+decided: "2020-06-11"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1263&W10_KEY=218274&nTrefferzeile=6&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/172.021/art-012.md", "switzerland/bund/acts/172.021/art-026.md", "switzerland/bund/acts/830.1/art-017.md", "switzerland/bund/acts/830.1/art-019.md", "switzerland/bund/acts/830.1/art-043.md", "switzerland/bund/acts/830.1/art-046.md", "switzerland/bund/acts/830.1/art-053.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/832.20/art-001.md", "switzerland/bund/acts/832.20/art-096.md"]
+---
+
+# GL Gerichte VG.2019.00079
+
+## Regeste
+
+Sozialversicherung - Unfallversicherung
+
+## Text
+
+Glarus Verwaltungsgericht 11.06.2020 VG.2019.00079 (VG.2020.940)
+Glaris Verwaltungsgericht 11.06.2020 VG.2019.00079 (VG.2020.940)
+Glarona Verwaltungsgericht 11.06.2020 VG.2019.00079 (VG.2020.940)
+
+Sozialversicherung - Unfallversicherung
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+11. Juni 2020
+II. Kammer
+in Sachen
+VG.2019.00079
+A.______
+Beschwerdeführer
+vertreten durch
+Rechtsanwältin
+B.______
+gegen
+Zürich Versicherungs-Gesellschaft AG
+Beschwerdegegnerin
+betreffend
+UVG-Leistungen
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Die am […] geborene C.______sel. war seit dem
+10. Oktober 1989 bei der D.______AG arbeitstätig und daher bei der
+Zürich Versicherungs-Gesellschaft AG gegen die Folgen von Berufs- und
+Nichtberufsunfällen versichert. Am 4. Dezember 1990 stürzte sie mit
+ihrem Fahrrad.
+1.2
+Am 6. Dezember 1990 begab sich C.______sel.
+erstmals in ärztliche Behandlung, anlässlich welcher eine Distorsion der HWS
+diagnostiziert wurde. C.______sel. wurde ab dem 5. Dezember 1990 vollständig
+krankgeschrieben. Die Zürich Versicherungs-Gesellschaft AG teilte am 20.
+Dezember 1990 mit, für die Folgen des Nichtberufsunfalls die gesetzlichen
+Leistungen zu erbringen. Die Zürich Versicherungs-Gesellschaft AG kam in
+der Folge für die Heilbehandlung auf und leistete Taggeldzahlungen. Am 21.
+Juli 1992 schloss sie den Fall ab.
+2.
+Am 3. Januar 1997 stürzte
+C.______sel. beim Skifahren, wobei sie sich eine Redistorsion der
+Halswirbelsäule zuzog. Die Zürich Versicherungs-Gesellschaft AG kam für
+die Kosten der unfallbedingten Therapie auf.
+3.
+3.1
+Am 27. Dezember 1999 wurde der Zürich
+Versicherungs-Gesellschaft AG ein Rückfall zum Unfall vom 4. Dezember
+1990 gemeldet. Die Zürich Versicherungs-Gesellschaft AG übernahm die
+dafür angefallenen Versicherungsleistungen. Mit Verfügung vom 25. Oktober
+2000 sprach sie C.______sel. mit Wirkung ab Januar 1997 eine Invalidenrente
+von monatlich Fr. 568.-, basierend auf einem Invaliditätsgrad von
+20 %, sowie eine Integritätsentschädigung von Fr. 34'856.- zu.
+3.2
+Die Zürich Versicherungs-Gesellschaft AG sagte
+am 26. April 2001 zu, zur Linderung der weiterhin bestehenden Schmerzen ein
+bis zwei Serien Physiotherapie pro Jahr zu übernehmen. Am 9. Januar 2003
+bestätigte sie erneut, die Kosten von jährlich einer Sitzung Physiotherapie
+zu tragen. Am 19. Januar 2006 bekräftigte sie abermals, jährlich für die
+Kosten von zwei bis drei Serien Physiotherapie aufzukommen.
+4.
+Mit Schreiben vom 10.
+Februar 2017 leitete die Zürich Versicherungs-Gesellschaft AG ein
+Revisionsverfahren ein. Nach dem Einholen verschiedener ärztlicher Berichte
+kam die Zürich Versicherungs-Gesellschaft AG zum Schluss, dass sich
+keine Änderung des Invaliditätsgrads ergeben habe, weshalb C.______sel. die
+bisherige Invalidenrente weiterhin zustehe.
+5.
+5.1
+Gestützt auf eine versicherungsinterne Beurteilung
+teilte die Zürich Versicherungs-Gesellschaft AG C.______sel. am 4. Mai
+2018 mit, dass die noch vorhandenen Beschwerden nicht mehr auf das
+Unfallereignis vom 4. Dezember 1990 zurückzuführen seien. Sie stellte in
+Aussicht, keine Leistungen für Heilbehandlungen mehr zu erbringen.
+C.______sel. äusserte sich dazu am 13. August 2018, wobei sie weiterhin
+um Ausrichtung der gesetzlichen Leistungen ersuchte und eventualiter die
+Ausstellung einer einsprachefähigen Verfügung verlangte.
+5.2
+Mit Verfügung vom 30. November 2018 stellte die
+Zürich Versicherungs-Gesellschaft AG die Heilbehandlungen wie auch die
+Ausrichtung der Invalidenrente per Ende Dezember 2018 ein. Dagegen erhob
+C.______sel. am 16. Januar 2019 Einsprache, welche die Zürich
+Versicherungs-Gesellschaft AG am 23. Mai 2019 abwies.
+6.
+6.1
+Dagegen gelangte C.______sel. mit Beschwerde vom
+24. Juni 2019 ans Verwaltungsgericht. Sie beantragte, den Einspracheentscheid
+vom 23. Mai 2019 und die Verfügung vom 30. November 2018 aufzuheben. Ihr
+seien weiterhin die gesetzlichen Leistungen, insbesondere die Invalidenrente
+und die Kosten der Physiotherapie, zu entrichten; unter Entschädigungsfolge
+zu Lasten der Zürich Versicherungs-Gesellschaft AG. Letztere beantragte
+am 7. August 2019 die Abweisung der Beschwerde.
+6.2
+Am 28. September 2019 verstarb C.______sel.
+A.______ als einziger Erbe von C.______sel. teilte dem Verwaltungsgericht am
+17. Dezember 2019 mit, das Verfahren fortzuführen.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 1 Abs. 1 des
+Bundesgesetzes über die Unfallversicherung vom 20. März 1981 (UVG) i.V.m.
+Art. 56 ff. des Bundesgesetzes über den Allgemeinen Teil des
+Sozialversicherungsrechts vom 6. Oktober 2000 (ATSG) i.V.m. Art. 1 des
+Einführungsgesetzes zum Bundesgesetz über die Unfallversicherung vom 3.
+Mai 2009 (EG UVG) zur Behandlung der vorliegenden
+Beschwerde zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt
+sind, ist auf die Beschwerde einzutreten.
+1.2
+Die Beschwerdegegnerin stellte ihre Leistungen per
+31. Dezember 2018 ein. Verfahrensgegenstand bildet damit vorliegend die
+Frage der Leistungspflicht der Beschwerdegegnerin vom 1. Januar 2019 bis zum
+Todestag von C.______sel. am 28. September 2019 bzw. bis Ende
+September 2019 (vgl. Art. 19 Abs. 3 ATSG).
+2.
+2.1
+Die Wiedererwägung einer
+formell rechtskräftigen Verfügung hat zu erfolgen, wenn diese zweifellos unrichtig
+ist und ihre Berichtigung von erheblicher Bedeutung ist (Art. 53 Abs. 2
+ATSG). Das Erfordernis der zweifellosen Unrichtigkeit ist in der Regel
+erfüllt, wenn eine Leistungszusprache aufgrund falsch oder unzutreffend
+verstandener Rechtsregeln erfolgt ist oder wenn massgebliche Bestimmungen
+nicht oder unrichtig angewandt wurden. Zweifellos ist die Unrichtigkeit, wenn
+kein vernünftiger Zweifel daran möglich ist, dass die Verfügung unrichtig
+war. Es ist nur ein einziger Schluss, derjenige auf die Unrichtigkeit der
+Verfügung, denkbar. Anders verhält es sich, wenn der Wiedererwägungsgrund im
+Bereich materieller Anspruchsvoraussetzungen – beispielsweise des
+Kausalzusammenhangs – liegt, deren Beurteilung in Bezug auf gewisse Schritte
+und Elemente notwendigerweise Ermessenszüge aufweist. Erscheint die
+Beurteilung einzelner Schritte bei der Feststellung solcher
+Anspruchsvoraussetzungen vor dem Hintergrund der Sach- und Rechtslage, wie
+sie sich im Zeitpunkt der rechtskräftigen Leistungszusprechung darboten, als vertretbar,
+scheidet die Annahme zweifelloser Unrichtigkeit aus. Es genügt für das
+Zurückkommen auf eine formell rechtskräftige Verfügung über
+sozialversicherungsrechtliche Leistungsansprüche und insbesondere auf die
+Beurteilung des adäquaten Kausalzusammenhangs sowie der diesbezüglich
+massgeblichen Kriterien nicht, dass der Sozialversicherungsträger oder das
+Gericht einfach sein Ermessen an die Stelle desjenigen der ursprünglich
+verfügenden oder urteilenden Behörde setzt, sofern die damalige Ermessensausübung
+vertretbar war. Vielmehr muss die neue Ermessensausübung als die klarerweise
+einzig richtige erscheinen (BGer-Urteil 8C_73/2015 vom 15. April 2015
+E. 2, mit Hinweisen; 8C_171/2011 vom 1. September 2011 E. 3,
+mit Hinweisen). Eine Rentenzusprache für ein Schleudertrauma nach einem
+Verkehrsunfall erweist sich nicht als zweifellos unrichtig, wenn bei der
+Zusprechung die nach der damaligen Praxis erforderlichen Abklärungen
+getroffen wurden (
+Thomas Flückiger, in
+Ghislaine Frésard-Fellay/Barbara Klett/Susanne Leuzinger [Hrsg.], Basler
+Kommentar, Allgemeiner Teil des Sozialversicherungsrechts, 2020, Art. 53
+N. 68, mit Hinweisen).
+2.2
+Von der
+Wiedererwägung ist die prozessuale Revision von Verwaltungsverfügungen im
+Sinne von Art. 53 Abs. 1 ATSG zu unterscheiden. Danach ist die
+Verwaltung verpflichtet, auf eine formell rechtskräftige Verfügung
+zurückzukommen, wenn neue Tatsachen oder neue Beweismittel entdeckt werden,
+die geeignet sind, zu einer anderen rechtlichen Beurteilung zu führen (vgl.
+BGE 138 V 63 E. 4.1
+).
+2.3
+Die in Art. 53 ATSG geregelte Revision sowie
+die darin umschriebene Wiedererwägung betreffen Fälle, in welchen der
+ursprünglich getroffene Entscheid anfänglich unrichtig war. Im Gegensatz dazu
+bezieht sich die in Art. 17 ATSG geregelte Anpassung auf eine nachträgliche
+Änderung des massgeblichen Sachverhalts (Ueli Kieser, ATSG-Kommentar, 3. A.,
+Zürich/Basel/Genf 2020, Art. 17 N. 5 f.). Entsprechend ordnet
+Art. 17 Abs. 2 ATSG eine Erhöhung, Herabsetzung oder Aufhebung einer formell
+rechtskräftigen Dauerleistung an, wenn sich der ihr zu Grunde liegende
+Sachverhalt nachträglich erheblich verändert.
+3.
+3.1
+Der Versicherungsträger prüft die Begehren, nimmt
+die notwendigen Abklärungen von Amtes wegen vor und holt die erforderlichen
+Auskünfte ein (Art. 43 Abs. 1 ATSG). Im Rahmen der
+Verfahrensleitung kommt ihm ein grosser Ermessensspielraum bezüglich
+Notwendigkeit, Umfang und Zweckmässigkeit von medizinischen Erhebungen zu.
+Was zu beweisen ist, ergibt sich aus der jeweiligen Sach- und Rechtslage.
+Gestützt auf den Untersuchungsgrundsatz ist der Sachverhalt so weit zu
+ermitteln, dass über den Leistungsanspruch zumindest mit dem Beweisgrad der
+überwiegenden Wahrscheinlichkeit entschieden werden kann (BGer-Urteil
+8C_815/2012 vom 21. Oktober 2013 E. 3.2.1).
+3.2
+Bei anspruchsaufhebenden Tatfragen liegt die
+Beweislast nicht beim Versicherten, sondern beim Unfallversicherer
+(BGer-Urteil 8C_847/2008 vom 29. Januar 2009
+E. 2, U 290/06 vom 11. Juni 2007 E. 3.3). Allerdings tragen
+die Parteien im Sozialversicherungsrecht in der Regel eine Beweislast nur
+insofern, als im Falle der Beweislosigkeit der Entscheid zu Ungunsten jener
+Partei ausfällt, die aus dem unbewiesen gebliebenen Sachverhalt Rechte
+ableiten wollte. Diese Beweisregel greift erst Platz, wenn es sich als
+unmöglich erweist, im Rahmen des Untersuchungsgrundsatzes aufgrund einer
+Beweiswürdigung einen Sachverhalt zu ermitteln, der zumindest die
+Wahrscheinlichkeit für sich hat, der Wirklichkeit zu entsprechen (BGer-Urteil
+8C_295/2016 vom 6. September 2016 E. 2.3, mit Hinweisen).
+4.
+4.1
+Der Beschwerdeführer ist der Ansicht, es obliege
+der Beschwerdegegnerin, zu beweisen, dass zur Zeit des Verfügungserlasses im
+Jahr 2000 keine Prüfung der Adäquanz vorgenommen worden sei. Da sie
+diesen Beweis nicht erbringe, habe sie die Folgen der Beweislosigkeit zu
+tragen, handle es sich doch um eine anspruchsaufhebende Tatsache. Die
+Beschwerdegegnerin argumentiere damit, dass kein schriftlicher Beleg
+vorhanden sei, welcher eine Adäquanzprüfung beinhalte. Damit suggeriere sie,
+dass im Jahr 2000 standardmässig eine explizite schriftliche Prüfung der
+Adäquanz vorgenommen worden sei, was sie jedoch nicht mit entsprechenden
+Schriftstücken, beispielsweise aus Vergleichsfällen, belege. Nur aus dem
+Fehlen eines schriftlichen Belegs betreffend die Prüfung der Adäquanz könne
+nicht der Schluss gezogen werden, dass eine Prüfung der Adäquanz nicht
+stattgefunden habe. Sodann werde im Einspracheentscheid der massgebliche
+Sachverhalt nur unvollständig wiedergegeben. Insbesondere seien keine
+Ausführungen zu den Rückfällen von C.______sel. enthalten, obwohl dadurch
+belegt werde, dass sie seit dem Unfallereignis nicht mehr beschwerdefrei
+gewesen sei. Auch würden keine Ausführungen dazu gemacht, dass die
+Beschwerdegegnerin mehrmals die ihr obliegende Leistungspflicht überprüft
+habe, ohne ihre Leistungen abzuändern. Werde heute geltend gemacht, eine
+Adäquanzprüfung sei bei der Leistungszusprache unterblieben, müsste daraus
+folgen, dass diese auch in den nachfolgenden Leistungsüberprüfungen jeweils
+unterlassen worden sei, was nicht glaubhaft sei. Überdies sei gemäss den
+Akten im Jahr 2005 eine Prüfung der Kausalität ausdrücklich vorgenommen
+worden. Werde im Übrigen die Adäquanz geprüft, sei deren Vorliegen zu
+bejahen. Denn anlässlich des Unfallereignisses hätten grosse Kräfte auf
+C.______sel. eingewirkt, weshalb von einem mittelschweren bis schweren Unfall
+auszugehen sei. Seit dem Unfall habe C.______sel. konstant unter dessen
+Folgen gelitten und sei deshalb seither immer wieder ärztlich behandelt worden,
+womit die Kriterien der Dauerbeschwerden und der ungewöhnlich langen
+ärztlichen Behandlung erfüllt seien. Ebenso seien ein schwieriger
+Heilungsverlauf wie auch erhebliche Komplikationen zu bejahen. Dabei sei zu
+beachten, dass C.______sel. ihr Arbeitspensum aufgrund der verbliebenen
+gesundheitlichen Einschränkungen und nicht aus wirtschaftlichen Gründen
+reduziert habe.
+4.2
+Die Beschwerdegegnerin bringt hingegen vor, beim
+Erlass der Verfügung vom Oktober 2000 keine explizite oder zumindest
+implizite Adäquanzprüfung vorgenommen zu haben, was sich daraus ergebe, dass
+im gesamten Dossier keine Ausführungen zur Adäquanz zu finden seien. Insofern
+ein Sachbearbeiter gemäss den vorliegenden Unterlagen ein Gutachten zwecks
+Kausalitätsprüfung eingeholt habe, beziehe sich dies einzig auf die
+natürliche Kausalität. Hätte eine Adäquanzprüfung stattgefunden, hätte der
+zuständige Sachbearbeiter dies im Dossier vermerkt. Somit habe sie Leistungen
+zugesprochen, ohne sämtliche rechtlichen Voraussetzungen einzeln geprüft zu
+haben, weshalb die damalige Verfügung rechtsfehlerhaft sei. Da eine korrekte
+Rechtsanwendung dazu führe, dass sämtliche Leistungen eingestellt werden
+müssten, erübrige sich die Prüfung eines Revisionsgrunds nach Art. 17 ATSG.
+Daraus folge jedoch nicht, dass die versicherungsinterne Stellungnahme von
+Dr. med. E.______, Fachärztin FMH für Innere Medizin und
+Rheumatologie, nicht haltbar sei. Stattdessen habe sich Dr. E.______ mit
+den Vorakten auseinandergesetzt und die degenerativen Veränderungen nachvollziehbar
+und schlüssig dargelegt. Im Übrigen sei das Unfallereignis als mittelschwer
+im Grenzbereich zu leicht einzustufen, denn ein direktes Trauma der HWS und
+des Genicks habe nicht stattgefunden. Dass C.______sel. an erheblichen
+Beschwerden gelitten habe, ergebe sich aus den Akten nicht, zudem zeigten die
+von ihr ausgeübten Freizeitbeschäftigungen wie Skifahren und Baden im
+Alpamare, dass ihre Beschwerden nicht hätten erheblich sein können. Auch
+werde bestritten, dass C.______sel. ihr Arbeitspensum aus gesundheitlichen
+Gründen reduziert habe, da diesbezüglich echtzeitliche Arbeitsunfähigkeits-bescheinigungen
+in den Akten nicht zu finden seien. Somit seien vorliegend höchstens zwei
+Adäquanzkriterien erfüllt, woraus folge, dass der adäquate Kausalzusammenhang
+nicht gegeben sei. Hinzuweisen sei schliesslich darauf, dass die
+Unfallversicherung verpflichtet sei, vorgenommene Abklärungen und
+Überlegungen schriftlich im Dossier festzuhalten, was auch für eine
+vorgenommene Adäquanzprüfung gelte. Liege kein Vermerk vor, sei erstellt,
+dass eine entsprechende Prüfung nicht stattgefunden habe, womit ein weiterer
+Beweis nicht nötig sei, zumal ein solcher auch nicht erbracht werden könne.
+5.
+5.1
+Die Beschwerdegegnerin stellt sich auf den
+Standpunkt, die leistungszusprechende Verfügung von Oktober 2000 sei
+fehlerhaft ergangen, da die adäquate Kausalität als Leistungsvoraussetzung
+nicht geprüft worden sei. Damit ist nachfolgend zu klären, ob eine
+ursprüngliche Fehlerhaftigkeit der genannten Verfügung, welche allenfalls die
+Voraussetzungen der Wiedererwägung nach Art. 53 Abs. 2 ATSG zu erfüllen
+vermag, vorliegt. Nicht zu prüfen ist hingegen eine prozessuale Revision nach
+Art. 53 Abs. 1 ATSG, da von der Beschwerdegegnerin keine nachträglich
+aufgefundenen, erhebliche neuen Tatsachen oder Beweismittel angerufen werden,
+welche die ursprüngliche leistungszusprechende Verfügung als fehlerhaft
+erscheinen lassen.
+5.2
+5.2.1
+Die leistungszusprechende Verfügung der
+Beschwerdegegnerin datiert vom 25. Oktober 2000. Im Zeitpunkt des
+Verfügungserlasses lagen mehrere Berichte von behandelnden, begutachtenden
+wie auch von versicherungsinternen Ärzten vor. So führte der behandelnde
+Hausarzt, Dr. med. F.______, am 3. Januar 1997 aus, C.______sel.
+sei aufgrund des anlässlich des Unfallereignisses im Jahr 1990
+erlittenen Schleudertraumas in Bezug auf die Hals- und Nackenmuskulatur nie
+mehr ganz beschwerdefrei gewesen. Er habe C.______sel. seither mehrmals wegen
+Unfallbeschwerden behandeln müssen. Dr. med. G.______, Spezialarzt
+für Physikalische Medizin, spez. Rheumatologie, begutachtete
+C.______sel. am 2. Dezember 1999. Dabei kam er zum Schluss, dass das
+noch bestehende Beschwerdebild und die gesundheitlichen Störungen dem
+Unfallereignis vom 4. Dezember 1990 anzulasten seien. Zum gleichen Ergebnis
+kam Dr. med. H.______, Facharzt für Neurologie und Psychiatrie, am
+24. September 2000. Dr. med. I.______, beratender Arzt der
+Beschwerdegegnerin, war am 12. Oktober 2000 ebenfalls davon überzeugt, dass
+für die damaligen Beschwerden das Unfallereignis aus dem Jahre 1990
+verantwortlich war. Folglich hat die Beschwerdegegnerin im Zeitpunkt des
+Verfügungserlasses über ein umfangreiches medizinisches Dossier verfügt,
+welches sich ausführlich mit der Frage der Beschwerdeursache und damit der
+Kausalität auseinandersetzte. Die berichtenden Ärzte umschrieben die
+damaligen Beschwerden von C.______sel. und sahen deren Ursache
+übereinstimmend im Unfallereignis aus dem Jahre 1990. Gestützt auf diese
+verschiedenen ärztlichen Einschätzungen liess sich der Gesundheitszustand von
+C.______sel. zuverlässig beurteilen. Dies sah auch die Beschwerdegegnerin so,
+schloss sie doch den Fall mit Verfügung vom 25. Oktober 2000, mit
+welcher sie C.______sel. unter Hinweis auf die einschlägigen Rechtsgrundlagen
+eine Invalidenrente wie auch eine Integritätsentschädigung zusprach, ab.
+Entsprechend anerkannte sie in Kenntnis des damaligen Gesundheitszustandes
+von C.______sel. die ihr obliegende Leistungspflicht (vgl. BGer-Urteil
+8C_425/2016 vom 16. Dezember 2016 E. 4.3.1, mit Hinweisen). Zwar machte
+die Beschwerdegegnerin in der leistungszusprechenden Verfügung keine
+Ausführungen zur Adäquanz, worauf die Beschwerdegegnerin sachrichtig
+hinweist. Daraus kann jedoch nicht geschlossen werden, die Beschwerdegegnerin
+habe die Adäquanz nicht geprüft, da sie nicht gehalten war, ihre Verfügung
+weiter zu begründen. Vielmehr umfasste die Anerkennung der Leistungspflicht
+implizit auch die dafür vorausgesetzte Bejahung der Adäquanz der geklagten
+Beschwerden (vgl. BGer-Urteil 8C_618/2014 vom 19. Dezember 2014 E.
+4.2, 8C_171/2011 vom 1. September 2011
+E. 4.3).
+5.2.2
+Die Argumentation der Beschwerdegegnerin, sie habe
+die Adäquanz nicht geprüft, was sich daraus ergebe, dass diese im gesamten
+Dossier nicht erwähnt sei, verfängt im Übrigen wegen den nachfolgenden
+Überlegungen nicht. So sind in der leistungszusprechenden Verfügung vom
+25. Oktober 2000 neben der Adäquanz ein Grossteil der für eine
+Leistungszusprache zu erfüllenden Voraussetzungen nicht erwähnt. Es sind
+darin beispielsweise keine Ausführungen zur Definition des Unfallereignisses
+enthalten, ebenso finden sich darin keine Erwägungen zur natürlichen
+Kausalität oder aber zur Einschränkung der Arbeitsfähigkeit. Dennoch stellt
+sich die Beschwerdegegnerin nicht auf den Standpunkt, diese Leistungsvoraussetzungen
+nicht geprüft zu haben, obwohl sich diesbezüglich zu einem grossen Teil auch
+keine schriftlichen Hinweise für deren Prüfung in der Verfügung bzw. in
+den Akten finden. Entsprechend kann aus dem Umstand, dass keine schriftliche
+Erwähnung der vorgenommenen Adäquanzprüfung im Dossier zu finden ist, nicht
+pauschal geschlossen werden, dass keine solche vorgenommen worden war.
+Würde der Argumentation
+der Beschwerdegegnerin gefolgt, könnte dies sodann dazu führen, dass
+C.______sel. aus allfälligen Unterlassungen der Beschwerdegegnerin bei der
+ihr obliegenden Aktenführung Nachteile entstehen könnten. Dies gründet
+massgeblich darin, dass Art. 46 ATSG, welcher den Versicherungsträger
+verpflichtet, alle massgeblichen Unterlagen systematisch zu erfassen, zur
+Zeit der Ausstellung der rentenzusprechenden Verfügung im Oktober 2000
+noch nicht in Kraft war. Das damalig in Kraft stehende UVG enthielt keine
+Regelungen in Bezug auf eine systematische und vollständige Aktenführung.
+Eine solche war im damaligen Zeitpunkt auch im Bereich der Unfallversicherung
+anwendbaren Bundesgesetz über das Verwaltungsverfahren vom 20. Dezember
+1968 nicht enthalten (vgl. Art. 96 UVG i.V.m. Art. 26 ff.
+VwVG, jeweils in der im Oktober 2000 geltenden Fassung). Hätte nun die
+Beschwerdegegnerin eine ihrerseits vorgenommene Adäquanzprüfung nicht im
+Dossier vermerkt, ihre Leistungspflicht jedoch gestützt auf die implizit
+vorgenommene Adäquanzprüfung bejaht, wäre dies aus den Akten nicht erkennbar.
+In einem späteren Zeitpunkt könnte sich die Beschwerdegegnerin jedoch auf den
+Standpunkt stellen, sie habe es unterlassen, im Verfügungszeitpunkt die
+Adäquanz zu prüfen, weshalb die Verfügung ursprünglich fehlerhaft sei, was
+sie zu einer Wiedererwägung und damit zu einer Neuprüfung ihrer Leistungspflicht
+berechtige. Dies würde sich massgeblich zu Lasten von C.______sel. als
+unfallversicherte Person auswirken, da sie jederzeit einer allfälligen
+Aufhebung der Leistungspflicht der Beschwerdegegnerin ausgesetzt wäre. Ein
+solches Vorgehen würde dem Gebot der Rechtssicherheit diametral
+widersprechen. Zudem müssten die unfallversicherten Personen für allfällige
+Verfehlungen der Unfallversicherungsanstalten einstehen, obliegt doch
+Letzteren die Pflicht, den Sachverhalt von Amtes wegen abzuklären (Art. 12
+VwVG in der im Oktober 2000 geltenden Fassung; Art. 43 Abs. 1
+ATSG).
+5.2.3
+Ausserdem fällt ins Gewicht, dass die
+Beschwerdegegnerin auch nach dem Erlass der Verfügung vom 25. Oktober 2000
+Leistungen für die Heilbehandlung von C.______sel. übernahm und überdies die
+Voraussetzungen der Rentenzusprache anlässlich eines Revisionsverfahrens
+überprüfte, worauf der Beschwerdeführer zu Recht hinweist. Dabei kam die
+Beschwerdegegnerin insbesondere im Rahmen des Revisionsverfahrens zum
+Schluss, dass sich die Anspruchsvoraussetzungen nicht geändert hätten,
+weshalb die bisherige Invalidenrente weiterhin ausgerichtet wurde. Es oblag
+der Beschwerdegegnerin, im Rahmen des Revisionsverfahrens die
+Leistungsvoraussetzungen zu überprüfen. Hätten sich diese verändert, wäre die
+Beschwerdegegnerin berechtigt und verpflichtet gewesen, die ursprünglich
+zugesprochenen Leistungen anzupassen. Stattdessen kam die Beschwerdegegnerin
+zum Ergebnis, dass sich keine Veränderung ergeben hatte, weshalb C.______sel.
+die bisherigen Leistungen unverändert zustanden. Auch daraus kann einzig der
+Schluss gezogen werden, dass die Beschwerdegegnerin zumindest eine implizite
+Prüfung der Leistungsvoraussetzungen, wozu auch der adäquate
+Kausalzusammenhang zählt, vorgenommen hatte. Schliesslich ist es wenig
+wahrscheinlich, dass die Beschwerdegegnerin sowohl im ursprünglichen,
+rentenzusprechenden Verfahren, im Rahmen der nachträglichen Zusprache von
+Leistungen für Physiotherapien wie auch im Revisionsverfahren alle
+Leistungsvoraussetzungen mit Ausnahme der Adäquanz prüfte.
+Folglich ist davon
+auszugehen, dass die Beschwerdegegnerin ihre Leistungspflicht anerkannte und
+dabei eine implizite Adäquanzprüfung vornahm. Eine zweifellos unrichtige
+Verfügung, welche die Beschwerdegegnerin zu einer Wiedererwägung ermächtigen
+würde, liegt nicht vor. Demnach ist die von der Beschwerdegegnerin angeführte
+bundesgerichtliche Rechtsprechung (BGer-Urteil 8C_117/2019 vom 21. Mai
+2019 E. 6.1, 8C_525/2017 vom 30. August 2018 E. 7.3)
+vorliegend nicht einschlägig.
+5.3
+5.3.1
+Zu prüfen bleibt, ob die Bejahung der Adäquanz zur
+Zeit der ursprünglichen Leistungszusprache im Rahmen des bei sämtlichen
+Kriterien bestehenden Beurteilungsspielraums vertretbar war
+(vgl. BGer-Urteil 8C_425/2016 vom 16. Dezember 2016 E. 4.3.1).
+Ein Ereignis hat
+dann als adäquate Ursache eines Erfolges zu gelten, wenn es nach dem
+gewöhnlichen Lauf der Dinge und nach der allgemeinen Lebenserfahrung an sich
+geeignet ist, einen Erfolg von der Art des eingetretenen herbeizuführen, der
+Eintritt dieses Erfolges also durch das Ereignis allgemein als begünstigt
+erscheint (BGE 117 V 359 E. 5a).
+Die Bejahung des adäquaten
+Kausalzusammenhangs bei einem Unfall mit einem Schleudertrauma ohne organisch
+nachweisbare Funktionsausfälle setzt grundsätzlich voraus, dass dem
+Unfallereignis für die Entstehung der Erwerbsunfähigkeit eine massgebende
+Bedeutung zukommt. Dies trifft dann zu, wenn es objektiv eine gewisse Schwere
+aufweist oder mit anderen Worten ernsthaft ins Gewicht fällt. Für die
+Beurteilung dieser Frage ist an das Unfallereignis anzuknüpfen, wobei –
+ausgehend vom augenfälligen Geschehensablauf – eine Katalogisierung der
+Unfälle in leichte (banale), im mittleren Bereich liegende und schwere
+Unfälle vorzunehmen ist. Bei leichten Unfällen kann der adäquate Kausalzusammenhang
+zwischen Unfall und nachfolgenden Gesundheitsstörungen in der Regel ohne
+Weiteres verneint, bei schweren Unfällen hingegen bejaht werden. Bei Unfällen
+aus dem mittleren Bereich lässt sich die Frage nicht auf Grund des Unfalls
+allein beantworten. Weitere, objektiv erfassbare Umstände, welche unmittelbar
+mit dem Unfall im Zusammenhang stehen oder als direkte bzw. indirekte
+Folgen davon erscheinen, sind in eine
+Gesamtwürdigung
+einzubeziehen. Als adäquanzrelevant im Zusammenhang mit einem Schleudertrauma
+der Halswirbelsäule gelten dabei folgende Kriterien: besonders dramatische
+Begleitumstände oder die besondere Eindrücklichkeit des Unfalls; die Schwere
+oder besondere Art der erlittenen Verletzungen; die ungewöhnlich lange Dauer
+der ärztlichen Behandlung; Dauerschmerzen; eine ärztliche Fehlbehandlung,
+welche die Unfallfolgen erheblich verschlimmert; ein schwieriger
+Heilungsverlauf und erhebliche Komplikationen; sowie der Grad und die Dauer
+der (physisch) bedingten Arbeitsunfähigkeit (vgl. BGE 117 V 359
+E. 6a, 115 V 133 E. 6 f.).
+5.3.2
+Um das vorliegende
+Unfallereignis entsprechend seiner Schwere einzuordnen, ist ein Blick auf die
+bundesgerichtliche Rechtsprechung zu werfen. So wurde den mittelschweren
+Unfällen im Grenzbereich zu einem leichten Unfall ein Ereignis zugeteilt, bei
+welchem eine Fahrradfahrerin von einem überholenden Personenwagen an der
+Lenkstange touchiert wurde und deshalb stürzte, wobei sie mit dem
+helmgeschützten Kopf aufschlug (BGer-Urteil 8C_768/2008 vom 3. Juni 2009
+E. 4.1). Ein mittelschwerer Unfall lag vor, als ein Fahrradfahrer einem
+überholenden Auto ausweichen musste, dabei in eine Wasserrinne geriet, auf
+die linke Schulter stürzte und den Kopf am Boden aufschlug (BGE 117 V 369 E.
+5a). Das vorliegende Unfallereignis ist mit den beiden vorstehend genannten
+mittelschweren Unfallereignissen vergleichbar. So stürzte C.______sel.
+aufgrund eines vor ihr unverhofft abbremsenden Lastwagens von ihrem Fahrrad
+auf das Trottoir, wobei sie mit dem rechten Ellbogen und Knie aufprallte und
+sich dabei ein Schleudertrauma der HWS zuzog. Hinweise auf übermässig grosse
+Krafteinwirkungen auf C.______sel., welche über das bei einem Fahrradsturz
+übliche Mass hinausragen würden, sind keine vorhanden, womit keine
+Anhaltspunkte für das Vorliegen eines schweren Unfallereignisses vorhanden
+sind. Stattdessen ist von einem mittelschweren Unfall auszugehen.
+Bei
+einem mittelschweren Unfallereignis ist die Adäquanz zu bejahen, wenn ein
+einzelnes der unfallbezogenen Kriterien in besonders ausgeprägter Weise
+gegeben ist oder die zu berücksichtigenden Kriterien insgesamt in gehäufter
+oder auffallender Weise erfüllt sind (BGE 117 V 359 E. 6b).
+5.3.3
+Bezüglich der
+ungewöhnlich langen Dauer der ärztlichen Behandlung zeigt sich, dass
+C.______sel. seit dem Unfallereignis im Dezember 1990 immer wieder in
+ärztlicher Behandlung stand. Zur Bewältigung ihrer Beschwerden war sie auf
+medikamentöse wie auch auf physiotherapeutische Behandlungen angewiesen.
+Überdies befand sie sich auch in stationärer Rehabilitation mit dem Ziel,
+ihre Beschwerden zu lindern. Entsprechend durfte das Kriterium der
+ungewöhnlich langen Dauer der ärztlichen Behandlung bejaht werden
+(vgl. BGer-Urteil U 286/2006 vom 31. August 2007 E. 6.2.3).
+Weiter ergibt sich aus den
+medizinischen Unterlagen, dass C.______sel. seit dem Unfallereignis unter
+teilweise erheblichen Kopf- und Nackenschmerzen, Schmerzen an der
+Brustwirbelsäule wie auch an Schwindel litt. Die Kopfschmerzen waren dauernd
+vorhanden. Diese Beschwerden erschwerten ihren Arbeitsalltag, womit auch ihre
+Lebensqualität glaubhaft beeinträchtigt wurde. Entsprechend durfte das
+Kriterium der Dauerbeschwerden als erfüllt angesehen werden
+(vgl. BGer-Urteil 8C_571/2011 vom 23. Dezember 2011 E. 6.2.4).
+Dies gilt ebenso für das Kriterium des schwierigen Heilungsverlaufs, war doch
+C.______sel. bis zum Zeitpunkt des Verfügungserlasses im Oktober 2000
+seit zehn Jahren regelmässig in ärztlicher und physiotherapeutischer
+Behandlung, ohne dass sich ihre Beschwerden langanhaltend verbessert hätten.
+Schliesslich war
+C.______sel. seit dem Unfallereignis in ihrer Arbeitsfähigkeit eingeschränkt.
+Zwar hatte sie nach der erstmaligen vollständigen Krankschreibung ihre
+Arbeitstätigkeit wieder aufgenommen, doch musste sie diese in einem späteren
+Schritt aufgrund ihrer Unfallbeschwerden reduzieren. Entsprechend
+attestierten ihr die begutachtenden Ärzte eine Arbeitsunfähigkeit von 40 –
+50 % bzw. von 20 %, womit eine langandauernde physisch
+bedingte Arbeitsunfähigkeit im Zeitpunkt des Verfügungserlasses im Oktober 2000
+vorlag.
+Aus
+obigen Erwägungen folgt, dass zumindest vier der vorstehend umschriebenen
+Adäquanzkriterien erfüllt waren, womit sich eine Prüfung der restlichen
+Kriterien erübrigt. Stattdessen ist festzuhalten, dass die Adäquanzkriterien
+als in gehäufter Weise vorkommend angesehen werden durften, weshalb die im
+Oktober 2000 vorgenommene Rentenzusprache an C.______sel. im Lichte der
+damaligen Rechtsprechung gemäss BGE 117 V 359 zumindest als
+vertretbar einzustufen ist. Eine zweifellose Unrichtigkeit der damaligen
+Verfügung ist damit zu verneinen.
+5.4
+5.4.1
+Zu prüfen bleibt, ob allenfalls ein Revisionsgrund
+gegeben ist, welcher eine nachträgliche Anpassung der leistungszusprechenden
+Verfügung von Oktober 2000 gestützt auf Art. 17 ATSG rechtfertigen
+würde.
+Ein Revisionsgrund,
+d.h. eine für den Rentenanspruch massgebliche Veränderung der
+Verhältnisse, ist unter anderem bei einer Besserung oder Verschlechterung des
+Gesundheitszustands gegeben, aber auch bei einer Erhöhung oder Verminderung
+des massgeblichen Validen- oder Invalideneinkommens sowie bei einer Änderung
+der spezifischen Arbeitsfähigkeit. Keinen Revisionsgrund stellt hingegen eine
+nur vorübergehende Änderung des Gesundheitszustands oder die unterschiedliche
+Beurteilung eines im Wesentlichen unveränderten (medizinischen) Sachverhalts
+dar (BGer-Urteil 9C_767/2008 vom 3. Oktober 2008 E. 1.2). Bei
+gleich gebliebenen tatsächlichen Verhältnissen muss ein Revisionsgrund,
+welcher zur Herabsetzung oder zur Aufhebung der Invalidenrente führt, somit
+aktenmässig zuverlässig ausgewiesen sein (BGer-Urteil 9C_552/2007 vom
+17. Januar 2008 E. 3.1.2).
+5.4.2
+Dr. E.______ und J.______, dipl. Pflegefachfrau
+HF, führten im Rahmen einer versicherungsmedizinischen Beurteilung vom 13.
+März 2018 aus, dass das Szinti-SPECT-CT vom 12. Mai 2016 eine aktivierte
+Arthrose auf der Höhe C0/1 links, C6/7 links, Th1/Th2 und Th3/Th4 links sowie
+eine aktivierte Unkarthrose der HWK 5/6 links zeige. Diese Befunde seien
+nicht mehr überwiegend wahrscheinlich auf das Unfallereignis vom 4. Dezember
+1990 zurückzuführen, stattdessen würden degenerative Veränderungen deren
+Ursache bilden.
+5.4.3
+Entgegen den Ausführungen der Beschwerdegegnerin
+findet sich in den Akten kein ärztlicher Beleg, welcher eine Verbesserung des
+Gesundheitszustands der Beschwerdeführerin und damit einen Revisionsgrund
+belegen würde. Soweit sich die Beschwerdegegnerin diesbezüglich auf den
+ärztlichen Bericht von Dr. E.______ beruft, ist sie darauf hinzuweisen,
+dass sich der genannte Bericht einzig auf das Szinti-SPECT-CT vom
+12. Mai 2016 stützt. Dieser bildgebende Befund fand jedoch bereits
+Eingang in die ärztlichen Stellungnahmen vom Dr. med. K.______,
+Innere Medizin FMH, vom 14. März 2017 sowie den ärztlichen Bericht von
+Dr. med. L.______, Chefärztin Rheumatologie und Rehabilitation der
+Klinik M.______, vom 13. März 2017. Die beiden ärztlichen Berichte wurden von
+der Beschwerdegegnerin aufgrund eines von ihr eingeleiteten
+Revisionsverfahren eingeholt. In Kenntnis dieser beiden Berichte kam die
+Beschwerdegegnerin am 22. März 2017 zum Schluss, dass sich keine
+rentenrelevante Änderung des Gesundheitszustands ergeben habe, weshalb
+C.______sel. weiterhin Anspruch auf die bisherige Invalidenrente habe. Die
+Beschwerdegegnerin erkannte damals, dass kein Revisionsgrund vorhanden war.
+Indem nun Dr. E.______ gut ein Jahr später dasselbe Bildmaterial ihrer
+versicherungsmedizinischen Beurteilung zugrunde legt und dieses abweichend
+von den beiden behandelnden Ärzten würdigt, liegt eine unterschiedliche
+Beurteilung des gleich gebliebenen Sachverhalts vor, womit eben kein
+Revisionsgrund gegeben ist. Nicht weiter einzugehen ist folglich auf die
+Frage, ob der versicherungsinterne Bericht von Dr. E.______ verwertbar
+ist oder ob daran zumindest geringe Zweifel bestehen, welche weitere Abklärungen
+nötig machen würden
+(vgl. BGE 135 V 465 E. 4.4,
+125 V 351 E. 3b/ee, 122 V 157 E. 1c)
+. Der Vollständigkeit halber hinzuweisen bleibt
+einzig darauf, dass das Vorliegen von degenerativen Veränderungen die
+Unfallkausalität der noch bestehenden Beschwerden nicht generell
+ausschliesst. Stattdessen können durch die zusätzlichen degenerativen
+Veränderungen beispielsweise neue Beschwerden verursacht oder die bestehenden
+Beschwerden verschlimmert werden. Folglich hätte Dr. E.______
+nachvollziehbar begründen müssen, weshalb die noch bestehenden Beschwerden
+nicht mehr vom Unfall stammten, sondern in den degenerativen Veränderungen
+gründeten, was sie jedoch nicht macht.
+6.
+Zusammenfassend zeigt
+sich, dass die Beschwerdegegnerin ihre Leistungspflicht anerkannte, wobei
+keine zweifellos unrichtige Verfügung vorliegt, welche zu einer
+Leistungseinstellung im Rahmen einer Wiedererwägung ermächtigen würde.
+Die Beschwerde ist daher
+gutzuheissen.
+III.
+Die Gerichtskosten sind
+auf die Staatskasse zu nehmen (Art. 1 Abs. 1 UVG i.V.m.
+Art. 61 lit. a ATSG). Da der Beschwerdeführer obsiegt, steht ihm
+eine angemessene Parteientschädigung zu, welche auf pauschal Fr. 2'000.-
+(inkl. Mehrwertsteuer) festzusetzen ist (Art. 1 Abs. 1 UVG
+i.V.m. Art. 61 lit. g ATSG).
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird gutgeheissen und der Einspracheentscheid der
+Beschwerdegegnerin vom 23. Mai 2019 wird aufgehoben.
+2.
+Die
+Gerichtskosten werden auf die Staatskasse genommen.
+3.
+Die
+Beschwerdegegnerin wird verpflichtet, dem Beschwerdeführer innert
+30 Tagen nach Rechtskraft dieses Entscheids eine Parteientschädigung
+in der Höhe von Fr. 2'000.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
