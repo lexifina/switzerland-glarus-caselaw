@@ -1,0 +1,2254 @@
+---
+decision_id: "gl_gerichte_OG.2019.00001"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2019.00001"
+docket_2: "OGS.2020.58"
+decided: "2020-06-26"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1278&W10_KEY=218274&nTrefferzeile=3&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/220/art-041.md", "switzerland/bund/acts/220/art-049.md", "switzerland/bund/acts/311.0/art-042.md", "switzerland/bund/acts/311.0/art-043.md", "switzerland/bund/acts/311.0/art-044.md", "switzerland/bund/acts/311.0/art-047.md", "switzerland/bund/acts/311.0/art-048.md", "switzerland/bund/acts/311.0/art-049.md", "switzerland/bund/acts/311.0/art-051.md", "switzerland/bund/acts/311.0/art-067.md", "switzerland/bund/acts/311.0/art-094.md", "switzerland/bund/acts/311.0/art-097.md", "switzerland/bund/acts/311.0/art-123.md", "switzerland/bund/acts/311.0/art-187.md", "switzerland/bund/acts/311.0/art-189.md", "switzerland/bund/acts/312.0/art-010.md", "switzerland/bund/acts/312.0/art-082.md", "switzerland/bund/acts/312.0/art-084.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-138.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-398.md", "switzerland/bund/acts/312.0/art-404.md", "switzerland/bund/acts/312.0/art-408.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-426.md", "switzerland/bund/acts/312.0/art-427.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-433.md", "switzerland/bund/acts/514.54/art-004.md", "switzerland/bund/acts/514.54/art-005.md", "switzerland/bund/acts/514.54/art-026.md", "switzerland/bund/acts/514.54/art-033.md", "switzerland/bund/acts/514.54/art-034.md", "switzerland/bund/acts/741.01/art-034.md", "switzerland/bund/acts/741.01/art-039.md", "switzerland/bund/acts/741.01/art-090.md", "switzerland/bund/acts/741.11/art-012.md", "switzerland/bund/acts/741.11/art-028.md", "switzerland/bund/acts/812.121/art-002b.md", "switzerland/bund/acts/812.121/art-019a.md"]
+---
+
+# GL Gerichte OG.2019.00001
+
+## Regeste
+
+mehrfache sexuelle Handlungen mit Kindern etc.
+
+## Text
+
+Glarus Obergericht 26.06.2020 OG.2019.00001 (OGS.2020.58)
+Glaris Obergericht 26.06.2020 OG.2019.00001 (OGS.2020.58)
+Glarona Obergericht 26.06.2020 OG.2019.00001 (OGS.2020.58)
+
+mehrfache sexuelle Handlungen mit Kindern etc.
+
+Kanton Glarus
+Obergericht
+Urteil
+vom
+26. Juni 2020
+Verfahren
+OG.2018.00074 und OG.2019.00001
+A.______                                                       Beschuldigter,
+Berufungskläger
+und Anschluss-
+berufungsbeklagter
+(OG.2019.00001)
+Berufungsbeklagter
+(OG.2018.00074)
+privat verteidigt durch L.______
+gegen
+1.
+Staatsanwaltschaft
+des Kts. Glarus,
+Anklägerin
+Berufungsbeklagte
+und Anschluss-
+berufungsklägerin
+(OG.2019.00001)
+2. C.______                                                   Privatklägerin
+Berufungsbeklagte und Anschluss-
+berufungsklägerin
+(OG.2019.00001)
+vertreten durch M.______
+3. D.______                                                   Privatklägerin
+Berufungsbeklagte
+(OG.2019.00001)
+Berufungsklägerin
+(OG.2018.00074)
+vertreten durch N.______
+4. E.______                                                   Privatklägerin
+Berufungsbeklagte und Anschluss-
+berufungsklägerin
+(OG.2019.00001)
+vertreten durch O.______
+5.
+Kanton Zürich,
+Privatkläger
+Berufungsbeklagter
+(OG.2019.00001)
+vertreten durch
+Kantonale Opferhilfestelle,
+6.
+Kanton Glarus,
+Privatkläger
+Berufungsbeklagter
+(OG.2019.00001)
+vertreten durch
+Departement Volkswirtschaft und Inneres,
+Opferhilfe,
+Gegenstand
+mehrfache
+sexuelle Nötigung etc.
+über die
+Anträge:
+A. des
+Beschuldigten
+(gemäss Berufungserklärung vom
+3. Januar 2019 [act. 138] und Präzisierung vom 23. Januar 2019
+[act. 141] sowie den an der Berufungsver­handlung vom 16. August 2019
+gestellten Anträgen [act. 179 S. 36]):
+1.
+Die Ziffer 1
+(teilweise) sowie die Ziffern 3 – 7 und 9 – 20 des Urteils der Straf­kammer
+des Kantonsgerichts vom 25. April 2018 seien aufzuheben.
+2.
+Der
+Beschuldigte sei hinsichtlich der Sachverhalte von D.______, E.______ und
+C.______ freizusprechen.
+3.
+Es sei der
+Beschuldigte [für die unbestrittenen Verstösse gegen das Waffenge­setz und
+das Strassenverkehrsgesetz] mit einer bedingten Geldstrafe in der Höhe von
+30 Tagessätzen in angemessener Höhe und einer Busse von CHF 500.-
+zu bestrafen, unter Anrechnung der erstandenen Untersuchungshaft.
+4.
+Es sei eine
+Probezeit von zwei Jahren anzusetzen.
+5.
+Es seien die
+Zivilforderungen abzuweisen, eventualiter auf den Zivilweg zu ver­weisen.
+6.
+Alles unter
+Kosten- und Entschädigungsfolgen zu Lasten des Staates.
+B. der
+Staatsanwaltschaft
+(gemäss
+Anschlussberufungserklärung vom 11. Februar 2019 [act. 155] sowie
+den an der Berufungsverhandlung vom 16. August 2019 gestellten Anträgen
+[act. 179 S. 54]):
+1.
+Es sei in
+Abänderung von Dispositiv-Ziff. 3 des Urteils der Strafkammer des Kan­tonsgerichts
+vom 25. April 2018 der Beschuldigte zu einer unbedingten Frei­heitsstrafe
+von 28 Monaten zu verurteilen, dies unter Anrechnung der erstande­nen
+Polizei- und Untersuchungshaft.
+2.
+Im Übrigen sei
+das Urteil der Strafkammer des Kantonsgerichts vom 25. April 2018 in allen
+Punkte zu bestätigen.
+3.
+Alles unter
+entsprechender Kostenfolge zu Lasten des Beschuldigten.
+C. der
+Privatklägerin C.______
+(gemäss
+Anschlussberufungserklärung vom 25. Februar 2019 [act. 156] sowie
+den an der Berufungsverhandlung vom 16. Au­gust 2019 gestellten Anträgen
+[act. 179 S. 79]):
+1.
+Es sei in
+Abänderung von Dispositiv-Ziff. 12 des Urteils der Strafkammer des
+Kantonsgerichts vom 25. April 2018 der Beschuldigte zu verpflichten, der
+Privat­klägerin eine Genugtuung von CHF 20'000.- zuzüglich Zins von
+5 % seit 1. Januar 2010 zu bezahlen.
+2.
+Es sei der
+Beschuldigte zu verpflichten, der Privatklägerin eine angemessene
+Parteientschädigung zu bezahlen.
+3.
+Es sei der
+Privatklägerin für das obergerichtliche Verfahren die unentgeltliche
+Rechtspflege zu gewähren.
+4.
+Alles unter
+Kosten- und Entschädigungsfolgen, zzgl. 7.7 % Mehrwertsteuer.
+D. der
+Privatklägerin D.______
+(gemäss Berufungserklärung
+vom 19. Dezember 2018 [act. 137] sowie den an der
+Berufungsverhandlung vom 16. August 2019 gestellten Anträgen
+[act. 179 S. 62]):
+1.
+Es sei in
+Abänderung von Dispositiv-Ziff. 13 des Urteils der Strafkammer des
+Kantonsgerichts vom 25. April 2018 der Beschuldigte zu verpflichten, der
+Privat­klägerin eine Genugtuung von CHF 12'000.- zuzüglich Zins von
+5 % seit 6. April 2012 zu bezahlen.
+2.
+Die Berufung
+des Beschuldigten sei vollumfänglich abzuweisen.
+3.
+Es sei der
+Beschuldigte zu verpflichten, der Privatklägerin eine angemessene
+Prozessentschädigung für das obergerichtliche Verfahren zu bezahlen.
+4.
+Es sei der
+Privatklägerin für das obergerichtliche Verfahren die unentgeltliche
+Rechtspflege zu gewähren.
+5.
+Alles unter
+Kosten- und Entschädigungsfolgen zzgl. 7.7 % Mehrwertsteuer zu­lasten
+des Beschuldigten, eventualiter der Staatskasse.
+E. der
+Privatklägerin E.______
+(gemäss
+Anschlussberufungserklä­rung vom 11. Februar 2019 [act. 154] sowie
+den an der Berufungsverhandlung vom 16. August 2019 gestellten Anträgen
+[act. 179 S. 74):
+1.
+Die Berufung
+des Beschuldigten sei vollumfänglich abzuweisen und es sei das Urteil der
+Strafkammer des Kantonsgerichts vom 25. April 2018 zu bestätigen bezüglich
+der an der Privatklägerin verübten Delikte (sexuelle Nötigung, einfache
+Körperverletzung) sowie bezüglich der übrigen in Zusammenhang mit der
+Geschädigten und der an ihr verübten Delikte stehenden Bestimmungen,
+insbesondere Ziff. 5, 11, 16 und 19.
+2.
+Es sei in
+Abänderung von Dispositiv-Ziff. 14 des Urteils der Strafkammer des
+Kantonsgerichts vom 25. April 2018 der Beschuldigte zu verpflichten, der
+Privat­klägerin eine Genugtuung von CHF 12'000.- zuzüglich Zins von
+5 % seit 28. Februar 2015 zu bezahlen.
+3.
+Es sei der
+Beschuldigte zu verpflichten, der Privatklägerin eine angemessene
+Prozessentschädigung für das obergerichtliche Verfahren zu bezahlen.
+4.
+Es sei der
+Privatklägerin für das obergerichtliche Verfahren die unentgeltliche
+Rechtspflege zu gewähren.
+5.
+Die
+Verfahrenskosten seien dem Beschuldigten aufzuerlegen.
+_____________________________
+Das
+Gericht zieht in Betracht:
+I.
+(Prozessgeschichte)
+1.
+Die Staatsanwaltschaft des Kantons Glarus erhob am 30. April
+2017 Anklage gegen A.______ wegen mehrerer Sexualdelikte zum Nachteil von
+C.______, D.______ und E.______ sowie wegen Widerhandlungen gegen das Waffen-
+und Strassenverkehrsgesetz (act. 1).
+Konkret werden dem Beschuldigten in der Anklageschrift die folgenden
+strafbaren Handlungen angelastet:
+a)
+Mehrfache sexuelle Handlungen mit Kindern im Sinne von
+Art. 187 Ziff. 1 StGB zum Nachteil von C.______ im Zeitraum ab
+etwa 2006 bis 2009 (act. 1 S. 2 f. und S. 9);
+b)
+sexuelle Nötigung im Sinne von Art. 189 StGB zum Nachteil von
+D.______, begangen am 6. April 2012; zudem Widerhandlung gegen das
+Betäubungs­mittelgesetz im Sinne von Art. 19a Ziff. 1 BetmG wegen
+unerlaubtem Erwerb, Besitz und Konsum von Benzodiazepinen, hier konkret
+Schlaf- und Beruhi­gungstabletten (act. 1 S. 3-5 und S. 10);
+c)
+sexuelle Nötigung im Sinne von Art. 189 StGB und einfache
+Körperverletzung im Sinne von Art. 123 StGB zum Nachteil von E.______,
+begangen am 28. Februar 2015 (act. 1 S. 5-8 und S. 9);
+d)
+Widerhandlung gegen das Waffengesetz im Sinne von Art. 33
+Abs. 1 lit. a WG und Art. 34 Abs. 1 lit. e WG
+(verbotene Einfuhr und unerlaubter Besitz eines Elektroschockgeräts sowie
+unsorgfältige Aufbewahrung desselben) (act. 1 S. 8 und S. 9 f.);
+e)
+einfache und grobe Verletzung der Verkehrsregeln im Sinne von Art.
+90 Abs. 1 und Abs. 2 SVG, begangen am 15. Februar 2015 auf
+der A52 bei Hinwil (ungenügender Abstand beim Hintereinanderfahren;
+Nichtanzeige der Richtungsänderung bei Spurwechsel) (act. 1
+S. 8 f.).
+2.
+Die Strafkammer des Kantonsgerichts Glarus fällte am 25. April
+2018 nachstehen­des Urteil (act. 128 S. 88 ff.).
+1.
+A.______ ist schuldig
+der mehrfachen sexuellen Handlungen mit Kindern im
+Sinne von Art. 187 Ziff. 1 Abs. 1 StGB (C.______),
+der mehrfachen sexuellen Nötigung im Sinne von
+Art. 189 Abs. 1 StGB (D.______, E.______),
+der mehrfachen einfachen Körperverletzung im Sinne von
+Art. 123 Ziff. 2 al. 1 und al. 2 StGB (D.______,
+E.______),
+der Widerhandlung gegen das Waffengesetz im Sinne von
+Art. 33 Abs. 1 lit. a WG in Verbindung mit Art. 4
+Abs. 1 lit. e WG und Art. 5 Abs. 1 lit. e WG
+(Verbringen eines Elektroschockgeräts in das schweizerische Staatsgebiet
+und unerlaubter Besitz desselben),
+der groben Verletzung von Verkehrsregeln gemäss
+Art. 90 Abs. 2 SVG in Verbindung mit Art. 34 Abs. 4 SVG
+und Art. 12 Abs. 1 VRV (ungenügender Abstand beim
+Hintereinanderfahren).
+2.
+Das Verfahren gegen A.______ wird eingestellt
+hinsichtlich
+des unsorgfältigen Aufbewahrens einer Waffe gemäss
+Art. 34 Abs. 1 lit. e WG in Verbindung mit Art. 26
+Abs. 1 WG,
+der einfachen Verletzung von Verkehrsregeln gemäss
+Art. 90 Abs. 1 SVG in Verbindung mit Art. 39 Abs. 1 SVG
+und Art. 28 Abs. 1 VRV,
+des Erwerbs, Besitzes und Konsums von Benzodiazepinen
+im Sin­ne von Art. 19a Ziff. 1 BetmG in Verbindung mit
+Art. 19 lit. d, Art. 1 lit. b und Art. 2b BetmG.
+3.
+A.______ wird zu einer teilbedingten Freiheitsstrafe
+von 28 Monaten verurteilt. Der unbedingt vollziehbare Teil der
+Freiheitstrafe beträgt, unter Anrechnung der erstandenen Polizei- und
+Untersuchungshaft von 5 Tagen, 8 Monate. Die Probezeit beträgt 4 Jahre. Sie
+beginnt nach Vollzug des unbedingten Teils der Freiheitsstrafe.
+4.
+A.______ werden in Anwendung von Art. 44
+Abs. 2 StGB in Verbindung mit Art. 94 StGB für die Dauer der
+Probezeit folgende Weisungen erteilt:
+A.______ wird für die Dauer des Strafvollzuges und der
+Probezeit verboten, telefonisch, schriftlich oder auf elektronischem Weg
+Kontakt mit C.______ aufzunehmen oder sie in einer anderen Weise zu
+belästigen.
+A.______ wird für die Dauer der Probezeit verboten,
+sich dem jeweiligen Wohnort von C.______ auf weniger als 100 Meter zu
+nähern.
+5.
+A.______ wird in Anwendung von alt Art. 67 Abs. 1
+aStGB (Fas­sung vom 1. Januar 2013) jedwede Art von Heilbehandlung an
+Frauen für 5 Jahre verboten.
+A.______ wird in Anwendung Art. 67 Abs. 1 StGB
+jedwede Art von Heilbehandlung an Frauen für 5 Jahre verboten.
+A.______ wird in Anwendung Art. 67 Abs. 3 StGB
+jedwede Art von Heilbehandlung an Kindern für 10 Jahre verboten.
+6.
+Es werden keine weiteren Weisungen ausgesprochen oder
+Massnahmen angeordnet.
+7.
+Die folgenden bei A.______ beschlagnahmten
+Gegenstände
+(
+act. 2/III/4-6, act. 2/III/10,
+Lagernummer SN 168/12
+)
+werden eingezogen und vernichtet:
+A1 (Flaschenöffner in Penisform)
+A3 (Omezol)
+A4 (36 Mogadon Schlaftabletten)
+A8 (Elektroschocker inkl. zwei Batterien)
+A10 (Stilnox Tabletten)
+B2 (Agenda 2012 schwarz)
+B3 (Mogadon Schachtel und lose)
+B4 (ein Co-Amoxi-Mepha 1000)
+B5 (ein Temesta 1.0 mg)
+B6 (leere Packung Zolpidom)
+B7 (Plastikbecher mit 4.5 Mogadon)
+B8 (Notizzettel "ganz locker")
+B9 (Flasche Ethanol)
+B10 (zwei DVD Libosan)
+B11 (Holzschachtel aus Persien)
+B12 (acht CDs/DVDs)
+8.
+Die folgenden bei A.______ beschlagnahmten
+Gegenstände
+(
+act. 2/III/4-6,
+act. 2/III/10, Lagernummer SN 168/12
+)
+werden diesem auf erstes Verlangen
+herausgegeben:
+A2 (Fotoapparat Sony)
+A5 (Buch weisse und schwarze Magie)
+A6 (PC Maxdata)
+A7 (iMac silber inkl. Maus und Tastatur samt zwei
+Wolldecken)
+A9 (zwei USB-Sticks)
+B1 (Laptop Lenovo samt Netzteil)
+Effekte 01 (iPhone 4S, schwarz)
+9.
+A.______ wird verpflichtet, dem Privatkläger Kanton
+Zürich CHF 6'000.— als Schadenersatz zu bezahlen.
+10.
+A.______ wird verpflichtet, dem Privatkläger Kanton
+Glarus CHF 273.75 als Schadenersatz zu bezahlen.
+11.
+Im Übrigen wird festgestellt, dass die beschuldigte
+Person dem Grundsatz nach für den noch nicht bezifferbaren, verursachten
+Schaden haftbar und entschädigungspflichtig ist. Bezüglich Höhe des
+Anspruchs werden die Privatklägerinnen auf den Zivilweg verwiesen.
+E.______ wird mit ihrer Klage auf Herausgabe von Swarovsky-Ohrringen
+auf den Zivilweg verwiesen.
+12.
+A.______ wird verpflichtet, der Privatklägerin C.______
+CHF 10'000.— nebst Zins zu fünf Prozent seit 1. Januar 2010 als
+Genugtuung zu bezahlen.
+13.
+A.______ wird verpflichtet, der Privatklägerin D.______
+CHF 10'000.— nebst Zins zu fünf Prozent seit 6. April 2012 als
+Genugtuung zu bezahlen.
+14.
+A.______ wird verpflichtet, der Privatklägerin E.______
+CHF 7'000.— nebst Zins zu fünf Prozent seit 28. Februar 2015 als
+Genugtuung zu bezahlen.
+15.          Die Gerichtsgebühr
+wird festgesetzt auf CHF 6'000.—.
+Die weiteren Verfahrenskosten
+betragen:
+CHF 300.—
+Rechnung Schulpsychologischer Dienst
+CHF 400.—
+SG.2012.00278 Gerichtsgebühr
+CHF 80.—
+Dr. med. [...]
+CHF 202.60
+KG Glarus, Untersuch der beschuldigten Person
+CHF 1'169.75
+IRM Zürich, Analysen betreffend beschuldigte Person
+CHF 3'960.—
+IRM Zürich, Gutachten betreffend beschuldigte Person
+CHF 1'024.80
+IRM Zürich, Gutachten betreffend E.______
+CHF 1'376.10
+IRM Zürich, Analysen betreffend E.______
+CHF 3'463.80
+Zwischenabrechnung
+unentgeltliche Verbeiständung C.______
+CHF 48.—
+IRM Zürich (Verfahren E.______)
+CHF 4'308.50
+IRM Zürich (Verfahren E.______)
+CHF 517.—
+IRM Zürich, DNA-Analysen beschuldigte Person
+CHF 3'500.—
+Kosten Anklage
+CHF 13'296.35
+unentgeltliche Verbeiständung C.______
+CHF 11'605.70
+unentgeltliche Verbeiständung D.______
+CHF 16'890.10
+unentgeltliche Verbeiständung E.______
+16.
+Die Kosten werden A.______ vollumfänglich auferlegt und
+von ihm bezogen.
+17.
+Rechtsanwältin MLaw P.______ wird als unentgeltliche
+Rechtsvertretung mit CHF 13'296.35 (inkl. Auslagen und MwSt.) aus der
+Gerichtskasse entschädigt.
+18.
+Rechtsanwältin lic. iur. N.______ wird als
+unentgeltliche Rechtsvertretung mit CHF 14'000.— (inkl. Auslagen und
+MwSt.) aus der Gerichtskasse entschädigt.
+19.
+Rechtsanwältin Dr. iur. O.______ wird als
+unentgeltliche Rechtsvertretung mit CHF 16'890.10 (inkl. Auslagen und
+MwSt.) aus der Gerichtskasse entschädigt.
+20.
+A.______ wird verpflichtet, der Privatklägerin D.______
+eine Parteientschädigung in der Höhe von CHF 3'400.— (inkl. Auslagen
+und MwSt.) zu bezahlen.
+21.
+Im Übrigen werden keine Parteientschädigungen
+zugesprochen.
+Das
+den Parteien zunächst nur im Dispositiv mitgeteilte Urteil der Strafkammer
+des Kantongerichts (act. 109) wurde schliesslich im Dezember 2018 mit
+vollständiger Urteilsbegründung eröffnet (act. 128).
+3.
+3.1
+Am 3. Januar 2019 erhob der Beschuldigte A.______ rechtzeitig
+Beru­fung beim Oberge­richt; darin beantragt er einen vollumfänglichen
+Freispruch von den ihm angelasteten Übergriffen auf die Privatklägerinnen
+C.______, D.______ und E.______ (act. 138 und act. 141).
+3.2
+Die Privatklägerin D.______ reichte ebenfalls innert Frist Berufung
+ein und fordert darin eine im Vergleich zum vorinstanzlichen Entscheid höhere
+Genugtuung (act. 137).
+In Reaktion auf die
+Berufung des Beschuldigten machen die beiden Privatklägerin­nen C.______ und
+E.______ je mit rechtzeitig eingereichter Anschlussbe­rufung ebenfalls höhere
+Genugtuungsansprüche geltend (act. 154 und act. 156).
+3.3
+Ebenso hat die Staatsanwaltschaft auf die Berufung des Beschuldigten
+innert Frist mit einer Anschlussberufung reagiert und beantragt darin, den
+Beschuldigten zu einer gänzlich unbedingten Freiheitsstrafe von
+28 Monaten zu verurteilen (act. 155).
+4.
+Am 16. August 2019
+fand vor dem Obergericht die mündliche Berufungs­verhand­lung
+statt
+(act. 179).
+Am 26. Juni 2020
+fällte das Obergericht seinen Entscheid (act. 197). Der Entscheid wird
+schriftlich eröffnet, nachdem die Parteien auf eine mündliche Urteilsbekannt­gabe
+ausdrücklich verzichtet haben (Art. 84 Abs. 3 StPO; act. 179
+S. 96).
+II.
+Formelle Erwägungen
+1.
+1.1
+Das hier angefochtene
+Strafurteil der Strafkammer des Kantonsge­richts (act. 128) ist der Berufung
+zu­gänglich (Art. 398 Abs. 1 StPO). Die Berufungs­instanz überprüft
+das Urteil nur in den angefochtenen Punkten (Art. 404 Abs. 1 StPO).
+1.2
+Der Beschuldigte
+A.______ beantragt in seiner Berufung, es sei das ange­fochtene Urteil in
+Hinsicht auf die ihm darin angelasteten sexuellen Übergriffe zum Nachteil der
+Privatklägerinnen
+D.______, E.______ und C.______
+aufzuheben und sei er von den entsprechenden Tatvorwürfen freizuspre­chen;
+dem­gemäss verlangt er auch die Aufhebung aller damit in Zusammenhang
+stehenden Anordnungen (Zivilforderungen, Tätigkeitsverbot etc.). Für die
+demgegenüber nicht bestrittenen Widerhandlungen gegen das Waffen- und das
+Strassenverkehrsgesetz sei eine bedingte Geldstrafe von 30 Tagessätzen
+und eine Busse von CHF 500.- festzulegen.
+1.3
+Die Privatklägerinnen
+D.______,
+E.______ und C.______ beantra­gen höhere
+Genugtuungen.
+1.4
+Die Staatsanwaltschaft spricht sich gegen die Gewährung des
+teilbedingten Strafvollzuges aus.
+2.
+Bei dieser
+Ausgangslage hat somit das Obergericht nahezu alle Ziffern des erstin­stanzlichen
+Strafurteils zu überprüfen.
+Nicht angefochten
+sind einzig Dispositiv-Ziff. 1 Abs. 4 und Abs. 5 (Schuldspruch
+wegen Widerhandlung gegen das Waffengesetz sowie wegen grober Verletzung der
+Verkehrsregeln), ferner Dispositiv-Ziff. 2 (Verfahrenseinstellung wegen
+einzelner Übertretungen) sowie Dispositiv-Ziff. 8 (Herausgabe einzelner
+beschlagnahmter Gegenstände).
+Der Beschuldigte
+hat unter anderem auch Dispositiv-Ziff. 6 des erstinstanzlichen Urteils
+angefochten. In dieser Urteilsziffer hat die Vorinstanz auf die Anordnung von
+"weiteren Weisungen" verzichtet; demnach ist der Beschuldigte durch
+diese Urteils­ziffer nicht beschwert und hat er daher kein
+Rechtschutzinteresse an deren Ände­rung oder Aufhebung (Art. 382
+Abs. 1 StPO), sodass in diesem Punkt auf die Berufung nicht einzutreten
+ist.
+3.
+Mit Berufung kann gemäss
+Art. 398 Abs. 3 StPO geltend gemacht werden, die Vor­instanz habe
+das Recht verletzt (einschliesslich Unangemessenheit) und/oder habe den
+Sachverhalt unvollständig oder unrichtig festgestellt.
+III.
+Materielle Erwägungen
+1.
+1.1
+Der
+Beschuldigte bestreitet in seiner Berufung jegliche Tatschuld hinsichtlich
+der ihm angelasteten Übergriffe auf die Privatklägerinnen C.______, D.______
+und E.______. Die Verteidigung warf anlässlich der Berufungsverhandlung der
+Vorinstanz vor, sie habe auf einer insgesamt mangelhaften Beweislage ein
+tendenziöses Urteil verfasst und dabei mehrfach den Grundsatz in dubio pro
+reo ("im Zweifel für den Angeklagten") verletzt (act. 179
+S. 37 Ziff. 2).
+Angesichts dieser Einwendungen sind vorweg
+in gebotener Kürze die Grundsätze der richterlichen Beweiswürdigung im
+Strafprozess darzulegen:
+1.2
+Jede Person
+gilt bis zu ihrer rechtskräftigen Verurteilung als unschuldig (Art. 10
+Abs. 1 StPO). Nach Art. 10 Abs. 2 StPO würdigt das Gericht die
+Beweise frei nach seiner aus dem gesamten Verfahren gewonnenen Überzeugung.
+Bestehen unüber­windliche Zweifel an der Erfüllung der tatsächlichen
+Voraussetzungen der angeklag­ten Tat, so geht das Gericht von der für die
+beschuldigte Person günstigeren Sach­lage aus [in dubio pro reo]
+(Art. 10 Abs. 3 StPO).
+1.3
+Soweit für
+einen eingeklagten Sachverhalt keine direkten Beweise vorliegen, ist nach der
+Rechtsprechung auch ein indirekter Beweis zulässig. Beim Indizienbe­weis wird
+aus bestimmten Tatsachen, die nicht unmittelbar rechtserheblich, aber bewie­sen
+sind (Indizien), auf die zu beweisende, unmittelbar rechtserhebliche Tat­sache
+geschlossen. Eine Mehrzahl von Indizien, welche für sich alleine nur mit
+einer gewissen Wahrscheinlichkeit auf die Täterschaft oder die Tat hinweisen
+und einzeln betrachtet die Möglichkeit des Andersseins offenlassen, können in
+ihrer Gesamtheit ein Bild erzeugen, das bei objektiver Betrachtung keine
+Zweifel bestehen lässt, dass sich der Sachverhalt so verwirklicht hat. Der
+Indizienbeweis ist dem direkten Beweis gleichwertig (Urteil BGer 6B_1427/2016
+vom 27. April 2017 E. 3. mit Hinweisen).
+1.4
+Die
+Feststellung des tatbestandserheblichen Sachverhalts verläuft näher bese­hen
+in mehreren Schritten (siehe zum Ganzen sinngemäss: BGE 144 IV 345
+E. 2.2.3.1. – E. 2.2.3.3. mit zahlreichen Hinweisen).
+In einem ersten Schritt sind sämtliche
+prozessual zulässigen Beweismittel zu erfas­sen und ist das so erlangte
+Beweismaterial auf seine grundsätzliche Eignung und Qualität hin zu
+beurteilen: Einerseits müssen die einzelnen Beweismittel ihrer Natur und
+ihrer Aussage nach tatsächlich zur Klärung der konkreten Tatfragen beitragen
+können (Beweiseignung). Andererseits muss ihr grundsätzlicher Beweiswert fest­stehen
+(z.B. anhand von Glaubhaftigkeitskriterien für Zeugenaussagen oder von
+methodischen Anforderungen an forensische Gutachten).
+Sodann hat das Gericht in einem nächsten
+Schritt die als relevant erkannten Bewei­se
+frei
+zu würdigen. Dabei
+sind einzelne Beweismittel nicht isoliert zu beurteilen und können daher
+einzelne Beweismittel auch nicht quasi in dubio pro reo ausgeblendet werden.
+Ergibt sich dem Gericht im Rahmen dieser
+Beweis­würdigung ein zwiespältiges, widersprüchliches, unkla­res und/oder
+höchst diffuses und nebu­löses Gesamtbild, so ist ein Freispruch
+unumgänglich.
+Erscheint jedoch das Beweisergebnis
+(Gesamtbild) in Hinsicht auf den Anklage­sachverhalt einschlägig, so ist
+dieses
+Resultat der Beweisauswertung
+dahinge­hend zu beurteilen, ob
+sich auf dessen Grund­lage diejenigen Tatsachen erstellen lassen, aus denen
+sich das Tatsachenfunda­ment eines Schuldspruchs zusammen­setzt. Erst jetzt,
+in diesem letzten Stadium der Sachverhaltsfeststellung, gelangt die Regel
+in
+dubio pro reo
+zur Anwendung. Der In-dubio-Grundsatz betrifft dabei kon­kret
+die Frage des erforderlichen Beweismasses, indem nämlich der Grundsatz ver­langt,
+dass ein Sachverhalt nach Überzeugung des Gerichts mit an Sicherheit gren­zender
+Wahrscheinlichkeit erstellt sein muss, damit er dem Beschuldigten zur Last
+gelegt werden kann. Eine entsprechende Wahr­scheinlichkeit liegt vor, wenn
+die rich­terliche Überzeugung, dass sich ein Sach­verhalt in bestimmter Weise
+verwirk­licht hat, auf einem jeden vernünftigen Zweifel ausschliessenden
+Urteil eines besonne­nen und lebenserfahrenen Beobachters beruht. Bloss
+abstrakte und theore­tische Zweifel sind hingegen nicht massgebend, weil
+solche immer möglich sind und abso­lute Gewissheit nicht verlangt werden kann
+(siehe zu Letzterem: Urteil BGer 6B_812/2011 vom 19. April 2012 E. 1.3.1).
+2.
+Anklagesachverhalt
+betreffend E.______
+2.1
+Der
+Rechtsvertreter des Beschuldigten trug an der Berufungsverhandlung vor, das
+angefochtene Urteil der Strafkammer des Kantonsgerichts sei "wie ein
+Urteil im Zivilrecht" aufgebaut; anders lasse es sich nämlich nicht
+erklären, dass der Beschuldigte "trotz mangelnder Beweise und einem
+unklaren, nicht erstellten Sach­verhalt in allen Anklagepunkten schuldig
+gesprochen worden" sei (act. 179 S. 37 Ziff. 2
+2. Aufzählungspunkt). In Bezug auf den Sachverhalt betreffend E.______
+warf der Rechtsvertreter der Vorinstanz vor, "im Wesentlichen in zwei
+Punk­ten" geirrt zu haben: "einerseits in Bezug auf die Medikamente
+im Likör und ande­rerseits betreffend dem DNA Hit". Die Vorinstanz – so
+die konkret vorgebrachte Kri­tik – führe zwar über mehrere Seiten hinweg aus,
+weshalb die Aussagen des Beschuldigten nicht zutreffend seien, doch vergesse
+sie dabei dreierlei: Hätte näm­lich – erstens – die Staatsanwaltschaft die
+Ermittlungen schnell vorangetrieben, hät­te der Likör noch sichergestellt und
+untersucht werden können. Dass dies unterblie­ben sei, dürfe nun nicht dem
+Beschuldigten zum Nachteil gereichen. Zweitens sei der Beschuldigte über
+längere Zeit von Schlaftabletten abhängig gewesen, jedoch seit 2012 nicht
+mehr. Der ungewollte Konsum von Schlafmitteln habe bei ihm sicher­lich andere
+Symptome als bei E.______ hervorgerufen, "so dass die von ihr
+beschriebene Reaktion durchaus mit jener beim Beschuldigten kompatibel"
+sei. Drit­tens schliesslich habe der Beschuldigte glaubhaft darlegen können,
+warum seine DNA bei E.______ gefunden worden sei. Aus all diesen Umständen
+sei der Beschuldigte im Anklagepunkt betreffend E.______ freizusprechen
+(act. 179 S. 44 Ziff. 35-37).
+2.2
+Mit diesen
+Vorbringen macht der Beschuldigte geltend, die Vorinstanz habe den
+Sachverhalt unrichtig festgestellt (Art. 398 Abs. 3 lit. b
+StPO).
+Die Rüge erweist sich aus den nachstehenden
+Gründen als ungerechtfertigt:
+2.2.1
+Gemäss
+Anklage der Staatsanwaltschaft vom 30. April 2017 wird dem Beschuldigten, der
+sich in seiner Freizeit als "Handaufleger" bzw.
+"Geistheiler" betä­tigt (siehe dazu act. 2/I/19 S. 9
+Ziff. 51 ff.), zur Last gelegt, am Samstagnach­mittag,
+28. Februar 2015, bei sich daheim an der [...] die damals nicht ganz
+18-jährige und somit noch minderjährige E.______ mut­masslich mit Nitrazepam
+[Schlafmittel] betäubt zu haben, um sich anschliessend an ihr sexu­ell zu
+vergehen. In der Tatnacht vom Samstag, 28. Februar 2015 auf Sonntag,
+1. März 2015 sei der Beschuldigte, nachdem er E.______ durch Handaufle­gen
+(ohne Berührungen) therapeutisch behandelt habe, mehrmals in deren Zimmer
+gekommen, um sich zu vergewissern, ob sie schlafe. Sie habe sich schlafend
+gestellt, worauf um etwa 23 Uhr der Beschuldigte zu ihr aufs Bett gekommen
+sei, die Decke zur Seite gelegt und ihre Beine auseinandergeschoben habe.
+Daraufhin habe er ihr die Hose (Hotpants) und die Unterhosen heruntergezogen,
+habe ihre Vagina mit einer Taschenlampe beleuchtet und habe anschliessend mit
+seinen Fin­gern Rauf- und Runter-Bewegungen an ihrer Scheide vollzogen, sei
+dabei aber nicht eingedrungen. Danach sei er mit seinen Knien aufs Bett
+gestiegen und habe sich zwischen ihre Beine gekniet, wobei sie kurz seinen
+Penis unter ihren Kleidern bei ihren Schamlippen gespürt habe, es dabei aber
+zu keinen weiteren Bewegungen gekommen sei. Sie habe sich in der Folge
+bewusst weggedreht, worauf der Beschuldigte recht schnell aus dem Zimmer
+gegangen sei (act. 1 S. 6).
+2.2.2
+Nachdem
+E.______ bzw. ihre Mutter noch in der Nacht vom 28. Februar auf den
+1. März 2015 die Polizei verständigt hatte, konnte E.______ noch
+gleichentags zur Sache befragt werden, wobei die Anhörung auf Video
+aufgezeich­net wurde (siehe act. 3/III/4 und act. 3/III/13).
+E.______ führte aus, sie habe sich am 28. Februar 2015 ab ca. 15 Uhr in
+der Wohnung des Beschuldigten in [...] aufgehalten, wo sie zunächst einen
+Film geschaut hätten. Am späteren Nachmittag hätten sie sich Pizza bringen lassen
+und gegessen; dabei habe der Beschuldigte ihr ein Glas Cola angeboten, wobei
+er das Glas von ihr unbemerkt eingeschenkt habe. Das Cola habe bitter
+geschmeckt, was sie ihm auch gesagt habe, worauf er gemeint habe, das liege
+vermutlich an der Pizza (act. 3/III/4 S. 4 bei
+"00:42:40:00"). In der Folge habe der Beschuldigte mit der
+Behandlung begonnen, dabei sei sie rasch eingeschlafen. Der Beschuldigte sei
+dann wiederholt ins Zimmer gekommen, erneut um etwa 23 Uhr und habe
+jetzt die Decke zur Seite getan und dann bei ihr zwischen den Beinen
+"rumgelangt" (a.a.O., S. 4 bei "00:46:30:00"). Sie
+selber sei im Bett auf dem Rücken gelegen. Der Beschuldigte sei an der
+Bettkante gesessen und habe ihre Beine auseinandergeschoben und ihr die
+Shorts und die Unterhose zur Seite geschoben und habe sie im Scheidenbereich
+ausgegriffen; er habe mit seinen Fingern "Rauf- und
+Runterbewegungen" gemacht. Er habe mit einem Licht ihre Scheide
+beleuchtet (a.a.O., S. 4 bei "00:48:50:00" und
+"00:50:30:00"). Anschliessend sei der Beschuldigte mit den Knien
+aufs Bett gekom­men, habe seine Knie zwischen ihre Beine geschoben und sie
+habe seinen Penis kurz gespürt; sie habe sich dann abgedreht, worauf der
+Beschuldigte rasch aus dem Zimmer gegangen sei (a.a.O., S. 4 f. bei
+"00:50:30:00" und "00:55:20:00").
+Die in der Anklage beschriebenen Handlungen
+des Beschuldigten folgen akkurat den eben dargelegten Aussagen von E.______,
+bis auf ein kleines, aber nicht entscheidendes Detail: so zog der
+Beschuldigte der (halb)schlafenden E.______ die Shorts und Unterhosen nicht
+herunter, sondern schob sie zur Seite, als er mit seinen Fingern zur Scheide
+vordrang.
+2.2.3
+Nach dem
+nächtlichen Ereignis in der Wohnung des Beschuldigten wurde E.______ am
+Vormittag, 1. März 2015 ärztlich untersucht und wurde ihr dabei auch
+eine Blut- und Urinprobe entnommen (act. 3/III/16+17). Die Auswertung
+der Blutprobe ergab Rückstände des Arzneistoffes Nitrazepam; gemäss Gutachten
+des Instituts für Rechtsmedizin (IRM) der Universität Zürich vom
+23. Juni 2015 stand E.______ am 28. Februar 2015 spätabends unter
+dem Einfluss von Nitra­zepam, "d.h. aufgrund der schlaffördernden
+Wirkung ist die körperliche und geistige Leistungsfähigkeit im
+Ereigniszeitpunkt vermindert gewesen" (act. 3/III/24 S. 1
+unten).
+Gemäss IRM-Gutachten gehört Nitrazepam zur
+Wirkstoffklasse der Benzodiazepine und ist im Präparat Mogadon enthalten.
+Nitrazepam ist indiziert bei behandlungsbe­dürftigen Schlafstörungen, wobei
+es durch seine schlaffördernde Wirkung die kör­perliche und geistige
+Leistungsfähigkeit vermindert (act. 3/III/24 S. 2 unten). Auf­grund
+der Untersuchungsergebnisse steht fest, dass der Beschuldigte zumin­dest bis
+2012 ausgerechnet das Schlafmittel Mogadon konsumiert und privat über entspre­chende
+Tabletten verfügt hatte (siehe dazu act. 3/VIII/5 S. 3;
+act. 2/V/4 und act. 2/V/10 S. 3 Ziff. 2.2;
+act. 3/III/2 S. 8 Ziff. 77 f.; siehe ferner auch act.
+2/I/19 S. 3 Ziff. 8 f.).
+2.2.4
+Anlässlich
+der ärztlichen Untersuchung am 1. März 2015 wurden ab den bei­den
+grossen Schamlippen von E.______ Abstriche genommen (act. 3/III/19+20).
+Im Abstrich ab den Schamlippen konnte männliche DNA nachge­wiesen werden,
+wobei gemäss IRM-Gutachten die betreffende DNA mit einer Wahrscheinlichkeit
+von 26'107 zu 1 (sprich: sozusagen vollkommen sicher) dem Beschuldigten zuzuordnen
+ist (act. 3/III/25 S. 3 unten sowie act. 3/III/32).
+2.2.5
+Die eben
+dargelegten Indizien (nämlich:
+1.)
+Schilderungen von E.______ nur wenige
+Stunden nach dem Ereignis;
+2.)
+Nitrazepam-Rückstände im Blut von E.______,
+wobei dieser Arzneistoff ausgerechnet in dem vom Beschuldigten früher selber
+konsumierten Schafmittel Mogadon enthalten ist;
+3.)
+DNA-Spur
+des Beschuldigten auf den Schamlippen von E.______) sind insgesamt erdrü­ckend
+und lassen schlicht keinen Raum für irgendwelche in-dubio-pro-reo-Überle­gungen.
+Es bleiben nicht die geringsten Zweifel zurück, dass sich der Sachverhalt
+betreffend E.______ tatsächlich so zutrug wie in der Anklage geschildert und
+dem Beschuldigten angelastet (act. 1 S. 5 ff.). Die Vorinstanz
+ist demnach in zutref­fender Würdigung des Sachverhalts der Anklage gefolgt;
+gestützt auf Art. 82 Abs. 4 StPO wird ergänzend auf die
+entsprechenden Erwägungen im angefochtenen Ent­scheid verwiesen
+(act. 128 S. 9 bis S. 32 E. III.).
+Die vom Beschuldigten in der Berufung
+vorgetragenen Einwendungen (oben E. 2.1) erschöpfen sich in
+verschwommener Kritik am vorinstanzlichen Entscheid. Die
+"Likörgeschichte" (angeblich versehentlicher Schlafmittelkonsum),
+worüber der Beschuldigte auch anlässlich seiner Befragung vor Obergericht
+ausführlich berich­tete (act. 183 S. 3 sowie S. 6 f. und
+S. 10), ist als reine Schutzbehauptung einzustu­fen; bereits die
+Vorinstanz hat zutreffend erkannt, dass diese Erzählung einer ver­tieften
+Prüfung nicht standhält (act. 128 S. 29). Dass der Beschuldigte
+seit 2012 kei­ne Schlafmittel mehr konsumiert, mag zutreffen; dies ändert
+aber nichts daran, dass im Körper von E.______ Rückstände des Schlafmittels
+Mogadon nachgewie­sen werden konnten, wobei der Beschuldigte (früher)
+nachweislich Konsument die­ses Schlafmittels war und er vom Hausarzt ganze
+Packungen davon nach Hause verabreicht erhielt. Schliesslich sind auch die
+Erklärungen des Beschuldigten, wie seine DNA auf die Schamlippe von E.______
+gelangen konnte (siehe dazu act. 183 S. 4), nur hilflose Ausflüchte.
+Es wäre geradezu sach- und lebensfremd, die DNA-Spur auf der Schamlippe
+darauf zurückzuführen, dass E.______ in einem Bett mit angeblich nicht frisch
+angezogener Bettwäsche geschlafen hatte oder dass E.______ die Toilette in
+der Wohnung des Beschuldigten benutzt hatte.
+2.2.6
+Anzufügen
+bleibt noch Folgendes: E.______ erwähnte bei ihren Erst­aussagen am 1. März
+2015, dass sie "zirka vor einem Monat" (act. 3/III/4 S. 3
+bei "00:19:40:00" [also Ende Januar/Anfang Februar 2015]) bereits
+einmal beim Beschuldigten in dessen Wohnung in einer Behandlung gewesen sei
+und anschlies­send dort übernachtet habe [im ganzen Ablauf handelte es sich
+dabei um die zweite Behandlung; die allererste Behandlung fand ein paar
+Wochen davor damals noch im Beisein von Bruder und Vater von E.______ im
+(externen) Behandlungsraum des Beschuldigten in [...] statt, siehe a.a.O.,
+S. 2 bei "00:14:30:00"]. Der Beschuldigte habe ihr damals
+einen Fruchtsaft gegeben, wobei er darin mit einem Löffel umgerührt habe. Sie
+könne zwar nicht sagen, ob er etwas in den Saft reingetan habe; allerdings
+habe sie sich etwa eine halbe Stunde nach dem Trinken gefühlt, als sei sie
+benebelt (a.a.O., S. 3 bei "00:26:50:00"). Der Beschuldigte
+wurde erstmals am 16. September 2015 zu den Ausführungen von E.______
+befragt, also fast acht Monate nach der von ihr berichteten Begebenheit mit
+dem Fruchtsaft. Von der Polizei danach gefragt, was er E.______ bei der
+zweiten Behandlung [Ende Januar/Anfang Februar 2015] zu trinken gegeben habe,
+erwähn­te er, dass er "einen verschlossenen Orangensaft aus dem
+Kühlschrank genommen […] und beide Gläser (ihres und meines) vor ihren Augen
+aufgefüllt [habe], das hat sie gesehen". Auf die anschliessende Frage,
+wozu er den Orangensaft mit einem Löffel umgerührt habe, antwortete er, dass
+er die Flasche vor dem Öffnen nicht geschüttelt habe und sich daher der
+"Satz vom Orangensaft am Glasboden befand" (zum Ganzen:
+act. 3/III/2 S. 6 Fragen 52 und 53). Es mutet nur schon eigenartig
+an, dass sich der Beschuldigte mehr als ein halbes Jahr später überhaupt noch
+an einen solch banalen Vorgang wie die Konsumation eines Getränks zu erinnern
+ver­mag. Umso überraschender ist es, dass er noch derart detailliert zu
+berichten weiss. Er erinnert sich nicht bloss daran, dass er E.______ ein
+Getränk angeboten hatte, sondern weiss gar noch welches; und schliess­lich
+berichtet er sogar, ohne konkret danach gefragt worden zu sein, wie er das
+Getränk damals eingeschenkt hatte ("vor ihren Augen"). Gerade weil
+der Beschul­digte eine solchermassen detail­genaue Schilderung zu Protokoll
+gegeben hat, entlarvt er sich selbst. Ganz offen­sichtlich glaubte er
+nämlich, möglichst präzise Angaben würden ihn von jeglichem Verdacht
+befreien. Indes aber ist genau das Gegenteil der Fall, wenn – wie hier – die
+vorgeblich detaillierten Angaben eine vollkommen belanglose Begebenheit
+betreffen, an die man sich Monate später normalerweise schlicht nicht mehr
+erin­nert, es sei denn, es habe sich dabei etwas Aussergewöhnliches
+zugetragen, was nun hinterher mit einer bildhaft erzählten Geschichte
+vertuscht werden soll. Genau deswegen macht sich der Beschuldigte mit seiner
+"exakten" Erzählung verdächtig und ist ihm darin nicht zu glauben.
+In Übereinstimmung mit der Vorinstanz ist des­halb davon auszugehen, dass der
+Beschuldigte bereits anlässlich der Behandlung von Ende Januar/Anfang Februar
+2015 E.______ eine möglicherweise betäu­bende Substanz verabreicht hatte
+(siehe dazu act. 128 S. 19 unten) und indiziert dies zusätzlich,
+dass sich gleiches anlässlich der Behandlung vom 28. Februar 2015 wiederholt
+hat. Vor allem aber ist damit die erstinstanzlich vorgetragene Behauptung des
+Verteidigers des Beschul­digten widerlegt, wonach die zweite Behandlung [Ende
+Januar / Anfang Februar 2015] "erfolgreich" gewesen sei (siehe dazu
+act. 128 S. 18 unten mit Hin­weis auf act. 79 S. 6).
+3.
+Anklagesachverhalt betreffend D.______
+3.1
+Der
+Rechtsvertreter des Beschuldigten vertrat an der Berufungsverhandlung den
+Standpunkt, dass auch im Fall D.______ die Staatsanwaltschaft keine Beweise
+vorlege, wonach der Beschuldigte die ihm angelastete Tat auch tatsächlich
+begangen habe; die Staatsanwaltschaft stütze sich lediglich auf die Aussagen
+von D.______ sowie ein unnötig teures und unnützes Gutachten über die Wirkung
+von Schlafmitteln. Entscheidend für die Frage der Glaubwürdigkeit sei
+"die Darstellung betreffend dem mit dem Schlafmittel versetzten
+Saft". Die Vorinstanz gehe mit einer gewissen Leichtfertigkeit einfach
+davon aus, dass sich im Saft Schlafmittel befunden haben müssen. Doch alleine
+die Tatsache, "dass der Beschuldigte zu diesem Zeit­punkt Tabletten
+verschrieben und auch zu Hause hatte", reiche als Indiz nicht aus, dass
+er diese Tabletten auch tatsächlich verwendet habe. Auch in diesem Punkt sei
+die tendenziöse Richtung, welche die Vorinstanz eingeschlagen habe, klar
+ersicht­lich, nämlich nach dem Motto: wenn es in anderen Fällen vielleicht
+passiert sei, dann sicherlich auch hier. Sodann sei nochmals auf die vom
+Beschuldigten bereits vor Vorinstanz geltend gemachte Heilungskrise
+verwiesen, welche nach Behand­lungen durchaus auftreten könne. Mit diesem
+Thema habe sich die Vorinstanz überhaupt nicht auseinandergesetzt; dabei sei
+dies für die Erklärung, weshalb D.______ den Beschuldigten belaste, von
+entscheidender Relevanz. In Hinsicht darauf sei denn auch der Beweisantrag
+gestellt, diese Frage durch eine fachkundige Person beantworten zu lassen.
+Denn ohne Fachwissen dürfe nicht einfach bestimmt werden, dass bei D.______
+keine Heilungskrise vorgelegen habe. Auch die Staatsanwaltschaft, obschon
+verpflichtet, belastende und entlastende Beweise zu erheben, habe sich damit
+nur ungenügend auseinander­gesetzt. So gesehen sei der Beschuldigte die
+einzige fachkundige Person und sei daher auf seine Aussagen abzustellen;
+unter diesen Umständen sei "der Beschuldigte in diesem Sachverhalt
+betreffend den Handlungen zum Nachteil von D.______ freizusprechen"
+(act. 179 S. 41 f. Ziff. 21-27).
+3.2
+Der
+Beschuldigte wirft somit auch hier der Vorinstanz vor, den Sachverhalt nicht
+richtig festgestellt zu haben (Art. 398 Abs. 3 lit. b StPO).
+Auch hier stösst die Rüge ins Leere:
+3.2.1
+Am
+Karfreitag, 6. April 2012, empfing der Beschuldigte um 18.30 Uhr die
+damals 46-jährige D.______ in seinem Behandlungsraum in [...] (Glarus Nord).
+Die in Basel lebende D.______ leidet an schmerzhafter Fibromyalgie, weshalb
+ihre im Kanton Glarus wohnhafte Lebenspartnerin den Kon­takt zum
+Beschuldigten vermittelt hatte und sie damals auch zur Behandlung nach [...]
+hingefahren hatte (siehe dazu act. 2/I/6 S. 2; act. 2/I/20
+S. 2 f. Ziff. 1-10, S. 4 Ziff. 14 und S. 7
+Ziff. 32-34). Laut Anklage soll am besagten Abend der Beschuldigte
+D.______ vor der Behandlung zunächst einen [mit Schlafmittel versetzten]
+Frucht­saft in einem Plastikbecher verabreicht haben. In der Folge habe
+D.______ die Hosen ausgezogen, damit der Beschuldigte sie besser behandeln
+könne. Während der Behandlung seien ihr dann die Augen zugefallen; sie habe
+zwar gehört und ver­spürt, was um sie herum geschah, habe jedoch die Augen
+nicht mehr öffnen und sich auch nicht wehren können. Der Beschuldigte habe
+sie zur Seite gedreht, ihr den Slip heruntergezogen und sie am Po und an der
+Scheide ausgegriffen. Danach habe er ihr seine Finger und später auch
+irgendwelche Gegenstände vaginal und anal eingeführt. Ausserdem habe sie das
+Gefühl gehabt, dass der Beschuldigte irgendwelche Handlungen an sich selber
+vorgenommen und ihr allenfalls den Penis eingeführt habe. Nach einiger Zeit
+habe er ihr den Slip wieder angezogen und sie auf den Rücken zurückgedreht.
+Danach habe er den Behandlungsraum für eine Weile verlassen, sei dann
+zurückgekehrt und habe sie geweckt, wobei sie die Augen habe öffnen können,
+aber noch liegen geblieben sei. Später sei sie von der Freundin abgeholt
+worden und habe sie ihr von den Übergriffen des Beschuldigten erzählt (act. 1
+S. 4).
+3.2.2
+Die
+Anklage beruht im Wesentlichen unmittelbar auf den Aussagen von D.______
+(siehe insbesondere act. 2/I/6 S. 4 f.; act. 2/I/12
+S. 3 ff.). Die Vorinstanz stufte im angefochtenen Entscheid die
+betreffenden belasten­den Schilderungen von D.______ als glaubhaft ein (siehe
+act. 128 S. 37 f. E. 1.8. sowie S. 48
+E. 3.10.). Sie stützte dabei ihre Einschätzung auf mehrere Erkenntnis­se:
+3.2.2.1
+Zunächst
+einmal erachtete die Vorinstanz die von D.______ über das gan­ze Verfahren
+hinweg gemachten Aussagen als inhaltlich konsistent (act. 128 S. 38
+E. 1.8. am Ende).
+D.______ wurde in der Untersuchung sowie im
+vorinstanzlichen Verfahren insge­samt vier Mal zum inkriminierten Sachverhalt
+befragt (act. 2/I/6; act. 2/I/12; act. 2/VIII/15;
+act. 47). Dabei schilderte sie das Geschehen vom 6. April 2012 in sei­nem
+Ablauf immer gleich und ohne sich in Widersprüche zu verstricken. Der
+Rechtsvertreter des Beschuldigten brachte anlässlich der Berufungsverhandlung
+nichts vor, woraus sich eine andere Erkenntnis ergeben würde; überhaupt
+setzte er sich mit den Aussagen von D.______ im Einzelnen bzw. ihrem
+widerspruchsfreien Aussageverhalten nicht näher auseinander und unternahm
+insofern gar nicht erst den Versuch, die (zutreffende) Einschätzung der
+Vorinstanz, wonach die Aussagen von D.______ "inhaltlich konsistent und
+glaubhaft" seien, zu widerlegen.
+3.2.2.2
+Aus
+Sicht der Vorinstanz manifestiert sich die Glaubhaftigkeit der Aussagen von
+D.______ namentlich im Umstand, dass sie in der Untersuchung detailliert schilderte,
+wie der Beschuldigte ihr damals zu Beginn der Behandlung am 6. April
+2012 ein Getränk verabreicht hatte. So beschreibe D.______ detailliert, wie
+der Beschuldigte den einen Becher frisch aufgefüllt und den anderen ihr
+gegeben habe (wobei ihr das sonderbar vorgekommen sei), dass sie solchen
+Fruchtsaft eigentlich nicht möge und ausserdem auch keine bereits
+eingefüllten Getränke annehme so­wie dass sie gar nicht habe trinken wollen,
+aber der Beschuldigte darauf bestan­den habe. Bei einem solchen Detaillierungsgrad,
+so folgerte die Vorinstanz, sei davon auszugehen, dass die Aussage von
+D.______ der Wahrheit entspreche, zumal demgegenüber die Angaben des
+Beschuldigten widersprüchlich seien. Die Vorin­stanz folgerte daraus, dass in
+Hinsicht auf die Begebenheit mit dem Multivitaminsaft die Aussage von
+D.______ als glaubhafter ein­zustufen sei [als die bestreitenden Ausführungen
+des Beschuldigten] und es daher als erstellt gelte, dass der Beschul­digte
+D.______ einen bereits eingegossenen Becher mit Multivitaminsaft darge­reicht
+und darauf bestanden habe, dass sie diesen austrinke (act. 128
+S. S. 41 f. E. 3.2.).
+D.______ berichtete bei der ersten
+Einvernahme am 14. Juni 2012, dass am 6. April 2012 im
+Behandlungsraum des Beschuldigten auf dem Fenstersims ein Tetrapack
+Multivitaminsaft gestanden habe. Sie sei zu Beginn auf der Couch geses­sen,
+als der Beschuldigte aufgestanden sei und einen Becher [von diesem Frucht­saft]
+eingeschenkt habe; ihr [D.______] habe er dann allerdings nicht den frisch
+eingeschenkten Becher gegeben, sondern einen anderen Becher mit Fruchtsaft,
+bei dem sie nicht gesehen habe, wie er eingeschenkt worden sei; der
+Beschuldigte habe ihr gesagt, sie beide müssten dies nun zur Stärkung
+trinken, damit sie wäh­rend der bevorstehenden langen Behandlung nicht
+austrocknen würden (act. 2/I/6 S. 4). Diese Erstaussage hat sie in
+den späteren Befragungen jeweils gleichblei­bend bestätigt (act. 2/I/12
+S. 3 unten und S. 4; act. 2/VIII/15 S. 7 und S. 10;
+act. 47 S. 4). Besonders bemerkenswert ist dabei, dass D.______
+explizit einen Tetra­pack [Getränkekarton] Multivitaminsaft benennt und die
+Polizei später bei der Durchsuchung des Behandlungsraums prompt solche
+Getränkepackungen mit Multivi­taminsaft vorfindet (act. 2/I/1
+S. 13). Dieser Umstand ist daher ein zentraler und entscheidender
+Anhaltspunkt, der für die Glaubhaftigkeit der von D.______ gemachten Aussagen
+spricht. Es erscheint daher tatsächlich, und darin ist der Vorinstanz
+beizupflichten, als höchst unwahrscheinlich, dass D.______ ihre Schilderung
+über das ihr vom Beschuldigten verabreichte Getränk erfunden haben könnte.
+3.2.2.3.
+Für die
+Vorinstanz ist sodann erstellt, dass der Fruchtsaft, den D.______ am
+6. April 2012 vom Beschuldigten zum Trinken verabreicht erhielt, mit
+einem Schlafmittel versetzt war (act. 128 S. 43 E. 3.3. am
+Ende). Auch in diesem Punkt ist der Vorinstanz ohne weiteres zu folgen,
+drängt sich nämlich diese Erkenntnis auf­grund der hier vorhandenen Indizien
+klarerweise auf:
+Zunächst einmal konnte die Polizei bei der
+Durchsuchung des vom Beschuldigten für seine "Therapien" benutzten
+Behandlungsraumes in [...] effektiv diverse Schlafmittel und Psychopharmaka
+sicherstellen, dabei sogar aufge­brochene und zerstückelte Tabletten in einem
+Plastikbecher (act. 2/III/5 S. 2). Die betreffende Durchsuchung
+fand zwar erst im August 2012 statt und damit vier Monate nachdem der
+Beschuldigte D.______ behandelt hatte; allein aber der Umstand, dass der
+Beschuldigte im Behandlungsraum Schlaftabletten verfügbar hatte, ist im
+vorliegen­den Gesamtzusammenhang ein augenscheinliches Indiz dafür, dass der
+Beschul­digte D.______ ein Schlafmittel verabreicht und sie so zum Widerstand
+unfähig gemacht haben könnte.
+Eine wesentliche Bedeutung erlangt das Indiz
+der sichergestellten Medikamente zudem durch folgenden Umstand: Gemäss der in
+der Untersuchung eingeholten Expertise vermögen die betreffenden Medikamente,
+wenn sie in einem Fruchtsaft verabreicht werden, den Konsumenten oder die
+Konsumentin durchaus in den von D.______ geschilderten Zustand einer
+eigenartigen Benommenheit zu versetzen [D.______ berichtete, dass ihr die
+Augen zugefallen seien und sie nicht mehr habe sprechen und sich bewegen
+können, jedoch alles mitbekommen habe; siehe dazu act. 2/I/6 S. 5]
+(act. 2/V/11 S. 2 sowie insbesondere S. 5 Ziff. 3). Kommt
+hinzu, dass namentlich das Schlafmittel Mogadon sich innert weniger Sekunden
+in einem Fruchtsaft auflösen lässt und sich dabei der Geschmack des Getränks
+nicht merk­lich verändert (act. 2/V/11 S. 10 Ziff. 17 und
+S. 13).
+Die Verteidigung bezeichnete an der
+Berufungsverhandlung die eben zitierte Exper­tise als "teures und
+unnützes Gutachten über die Wirkung von Schlafmitteln" und merkte an,
+"dies hätte auch Google können" (act. 179 S. 41
+Ziff. 21). Dieser Vorbe­halt der Verteidigung ist polemisch und ohne
+inhaltliche Substanz. Darauf ist daher nicht einzugehen, zumal es sich beim
+kritisierten Fachbericht um ein pharmakolo­gisch-toxikologisches Gutachten
+des Instituts für Rechtsmedizin der Universität Zü­rich handelt
+(act. 2/V/11), welches formal einwandfrei verfasst sowie inhaltlich
+fundiert und schlüssig begründet ist.
+3.2.2.4
+Aus
+Sicht der Vorinstanz liegt ein weiteres Indiz für die Glaubhaftigkeit der
+Aussagen von D.______ darin, dass der Beschuldigte auch bei der Behandlung
+von E.______ ihr ein Schlafmittel in einem Getränk verabreicht und sie auf
+derlei Weise sediert hatte (act. 128 S. 42 E. 3.2. und
+S. 43 E. 3.4.). Der Rechts­vertreter des Beschuldigten erblickt
+darin eine unzulässige und nicht sachgerechte Verknüpfung verschiedener Fälle
+(act. 179 S. 39 Ziff. 10). Dieser Einwand geht fehl. Schildern
+nämlich wie im vorliegenden Verfahren zwei Personen, die sich gegensei­tig
+nicht kennen, unabhängig voneinander ähnliche Begebenheiten mit dem Be­schuldigten,
+so ist dies beweisrechtlich sehr wohl von Bedeutung und unter­streicht hier
+geradezu die Glaubhaftigkeit der einzelnen Berichte, zumal im Fall von
+E.______ in deren Blut dank zeitnaher Untersuchung tatsächlich Schlaf­mittel
+nach­gewiesen werden konnten. Die von mehreren Betroffenen glaubhaft
+geschilder­ten Erlebnisse sind sodann zu einem Gesamtbild zusammenzufügen;
+dieses beweis­relevante Bild lässt vorliegend geradewegs ein eigentliches
+Handlungsmus­ter (Modus Operandi) des Beschuldigten erkennen, nämlich
+dahingehend, dass er seine Opfer vor den sexuellen Übergriffen mit
+Schlafmitteln betäubt hat.
+3.2.2.5
+Ein
+weiteres Indiz für die Glaubhaftigkeit der Schilderung von D.______ über eine
+ihr vom Beschuldigten mutmasslich verabreichte narkotisierende Sub­stanz sah
+die Vorinstanz darin (siehe act. 128 S. 43 f. E. 3.4.),
+dass der Beschuldig­te wenige Wochen vor der Behandlung von D.______
+nachweislich im Internet Nachforschungen zu den Begriffen
+"nakortikum", "hypnotika und sedativa" und "ko
+tropfen" vorgenommen hatte (act. 2/III/6).
+Tatsächlich belegt die vom Beschuldigten
+angestellte Google-Recherche, dass er sich konkret mit der narkotisierenden
+Wirkung von K.-o.-Tropfen bzw. Psychophar­maka befasst hat. Dieser Umstand
+ist daher in Hinsicht auf den Anklagesachverhalt (Betäubung von Personen, um
+sich dann an ihnen zu vergehen) als einschlägiger Anhaltspunkt zu werten;
+dies gilt erst recht im Kontext mit den zuvor dargelegten weiteren Indizien.
+Die Verteidigung geht in ihrer Berufung auf das Indiz der besag­ten
+Internet-Nachforschungen mit keinem Wort ein, wie sie überhaupt das Zusam­mentreffen
+mehrerer eindeutig belastender Indizien praktisch komplett ausblendet.
+3.2.2.6
+Die
+Verteidigung machte an der Berufungsverhandlung gleich wie schon vor
+Vorinstanz geltend, D.______ habe im Zuge der Behandlung durch den Beschul­digten
+mutmasslich eine Heilungskrise erfahren. Im Kern macht die Verteidigung bzw.
+der Beschuldigte damit geltend, bei D.______ seien während der Behand­lung
+eigene Erinnerungen an früher erlebte "schlimme Sachen" [sexuelle
+Misshand­lungen] hochgekommen, was zur Folge habe, dass sie das früher
+Erlebte nun auf ihn [den Beschuldigten] projiziere (siehe dazu
+act. 2/V/11 S. 12, dort die damals vom Rechtsvertreter des
+Beschuldigten gestellte Ergänzungsfrage 2.2.; act. 77/01 [von der
+Verteidigung vor Vorinstanz eingereichte Stellungnahme eines anderen
+Heilpraktikers]; act. 170 S. 1 unten und S. 2 oben;
+act. 183 S. 14 unten und S. 15 oben). Vor Obergericht
+präsentierte der Verteidiger zum Thema "Heilungs­krise" einen
+Auszug aus dem Internet und verlangte vom Obergericht dessen Berücksich­tigung
+bei der Entscheidfindung (act. 171 sowie act. 170 Antrag
+Ziff. 1). Die betref­fende Publikation ist jedoch vollkommen unbeschwert
+von empirisch-wissenschaft­licher Substanz; laut Impressum der Website
+handelt es sich hierbei um nicht mehr und nicht weniger als eine blosse
+Kundgabe einer beliebigen Einzel­person. Darauf ist schlicht nicht weiter
+einzugehen. Ebenso wenig ist der in diesem Sachzusam­menhang von der
+Verteidigung als Experte angerufene Q.______ anzuhören (act. 170 Antrag
+Ziff. 2). Bei Q.______ handelt es sich um einen im Kanton Glarus tätigen
+Akupunkteur (act. 77/01); inwiefern er dazu prädestiniert sein soll, um
+dem behaupteten Phänomen der Heilungskrise ein Mass an Plausibili­tät zu
+verlei­hen, ist unerfindlich und wird von der Verteidigung nicht dargelegt.
+Ins­gesamt erweist sich die von der Verteidigung vertretene
+"Theorie", wonach D.______ anlässlich der Behandlung durch den
+Beschuldigten massiv aus ihrem seeli­schen Gleichgewicht geraten sei und ihr
+dabei Erinnerungen an frühere schlimme Erlebnisse hochgekommen seien, welche
+sie nun unmittelbar mit dem Beschul­digten als Täter asso­ziiere, als
+eigenartiger und zugleich hilfloser Versuch einer Ausflucht. Zu Recht ist
+daher die Vorinstanz darauf nicht weiter eingegangen.
+3.2.3
+Zusammenfassend ergibt sich, dass die Vorinstanz im angefochtenen Ent­scheid
+in zutreffender Würdigung aller Indizien zu Recht zur Ansicht gelangte, dass
+im Fall von D.______ der Anklagesachverhalt erstellt sei (act. 128
+S. 48 E. 3.10). Die dagegen vorgebrachten Einwendungen der
+Verteidigung sind allesamt unbe­gründet. Zur Ergänzung der vorstehend
+gemachten Ausführungen wird im Übrigen in Anwendung von Art. 82
+Abs. 4 StPO explizit auch auf die beweis­rechtlichen Erwägungen der
+Vorinstanz verwiesen (act. 128 S. 41-48, E. 3.1. ff.).
+4.
+Anklagesachverhalt
+betreffend C.______
+4.1
+Von Dezember
+2004 bis Ende 2010 lebte der Beschuldigte mit R.______ und deren beiden
+Zwillingskindern in [...] (Glarus Nord) zusammen. Für die Vorinstanz steht
+fest, dass ab circa Sommer 2009 bis ungefähr Ende 2010 der Beschuldigte sich
+nachts wiederholt ins Schlafzimmer von C.______ begab (vorgeblich um dort mit
+Räu­cherstäbchen schlechte Energien zu vertreiben), sich dabei jeweils zu
+C.______ ins Bett legte und mit dem Finger in ihre Scheide eindrang; vor dem
+Zubettgehen soll der Beschuldigte dem Mädchen jeweils ein Glas Wasser mit
+darin aufgelöstem Schlaf­mittel verabreicht haben (act. 128
+S. 50 ff. insbes. S.59 f. E. 4.3. und S. 61
+E. 5.1. und 5.2.).
+4.2
+Die
+Verteidigung beanstandet zunächst, dass die Vorinstanz (auch) im Anklage­sachverhalt
+betreffend C.______ den Grundsatz in dubio pro reo verletzt habe
+(act. 179 S. 37 Ziff. 2 3. Spiegelpunkt). Konkret lege
+nämlich die Staatsanwaltschaft ausser den Aussagen von C.______ selber keinen
+einzigen Beweis vor, welcher den Tatverdacht stützen würde. Die Vorinstanz
+habe in der Folge "im Rahmen der Begründung des Urteils in Verlinkung
+mit den anderen Fällen Parallelen gezogen", die es so nicht gebe. Dies
+betreffe insbesondere die Frage, ob der Beschuldigte Schlaftabletten an
+C.______ verabreicht habe; gerade dies treffe hier nicht zu, weil es nämlich
+die Mutter von C.______ gewesen sei, die ihr jeweils Schlaftabletten
+verabreicht habe (act. 179 S. 42 Ziff. 28 f.). Ausserdem
+habe der Beschuldigte bereits vor Vorinstanz erklärt, "dass es sich bei
+der Strafanzeige um eine instruierte Abrechnung der Familie [...] mit dem
+Beschuldigten handelte". Die Familie [...] habe den Beschuldigten bereits
+einige Zeit vor dessen Verhaftung im August 2012 angezeigt, dabei aber nur
+wegen Stalking. Indes mache es über­haupt keinen Sinn, dass die Familie [...]
+den Beschuldigten zunächst nur wegen Stalking anzeige, wenn er tatsächlich
+die Tochter sexuell misshandelt hätte. Das Argument der Vorinstanz, die
+Familie [...] habe zunächst einfach mal Abstand vom Beschuldigten wollen,
+greife da zu kurz. Denn gerade wenn es der Familie [...] um Abstand gegangen
+wäre, so wäre es nur logisch und konsequent gewe­sen, gleich von Beginn an
+"alle Faktoren in die Waagschale [zu] legen", damit die
+Staatsanwaltschaft sogleich sicherstelle, dass es zu keinem Kontakt mehr
+komme. Weil aber genau das [Offenlegung aller Vorwürfe gleich am Anfang]
+nicht gesche­hen sei, bedeute dies, dass "die Geschichte" erst
+später, als der Beschul­digte in Haft kam, "erfunden wurde, um ihm zu
+schaden und Rache an ihm zu nehmen". Dieses Verhaltensmuster [der
+Familie] sei offensichtlich, "passt aber offen­bar nicht in das
+tendenzöse Bild der Vorinstanz über den Beschuldigten". Demge­genüber
+seien die Aussagen des Beschuldigten von Anfang an schlüssig und stim­mig
+gewesen; darauf sei daher abzustellen und habe das Obergericht den Beschul­digten
+nach dem Grundsatz in dubio pro reo freizusprechen (act. 179 S. 43
+Ziff. 30-34).
+4.3
+Der
+Beschuldigte rügt damit ebenso in diesem Anklagepunkt eine unrichtige
+Feststellung des Sachverhalts durch die Vorinstanz; allerdings auch hier zu
+Unrecht:
+4.3.1
+Die
+eingeklagten Tathandlungen trugen sich allein zwischen dem Beschul­digten und
+der davon betroffenen C.______ zu. Die Vorfälle wurden von nie­mandem
+gesehen, und es sind auch keine Tatspuren dokumentiert. In einer solchen
+Konstellation sind die Aussagen des Opfers zwangsläufig der zentrale,
+massgebli­che Beweis, sofern das Opfer als glaubwürdig und seine Angaben als
+glaubhaft qualifiziert werden.
+Vorliegend hat die Vorinstanz den
+Schilderungen von C.______ Glauben geschenkt; dabei vor allem auch deswegen,
+weil der Beschuldigte seinerseits sich in den Augen der Vorinstanz in
+Widersprüche bzw. in Ausflüchte verstrickt hatte (siehe dazu etwa
+act. 128 S. 58 ff. E. 4.1.-4.3.). C.______ führte bei ihrer
+ersten Befragung bei der Polizei aus, der Beschuldigte sei nachts regelmässig
+in ihr Schlafzimmer gekommen und oft habe es am Morgen in ihrem Zimmer nach
+Räu­cherstäbchen gerochen (act. 3/I/5 S. 2). Vom Beschuldigten
+selber ist zugestanden, dass er sich nachts wiederholt ins Schlafzimmer von
+C.______ begab, um nachzuse­hen, ob sie schlafe sowie um das Fenster zu öffnen,
+habe nämlich C.______ eine stark Ausdünstung gehabt; ferner räumte der
+Beschuldigte ein, dass er jedenfalls einmal nächtens im Zimmer von C.______
+ein Ritual mit Räucherstäbchen ausgeführt habe; die Räucherstäbchen
+"sollten die schlechte Energie säubern, damit der Raum neutrali­siert
+wird" und sollte dadurch "C.______ besser schlafen können und keine
+Alpträume mehr haben" (act. 3/I/11 S. 6 f.
+Ziff. 30-33 sowie Ziff. 34-36 und Ziff. 40). Die Un­stimmigkeit
+in den Angaben des Beschuldigten erkannte die Vorinstanz dabei nicht in der
+Schilderung des konkreten Handlungs­rahmens, sondern in dem vom Beschuldigten
+hierzu vorgebrachten Handlungs­
+motiv
+. Nach Ansicht der Vorinstanz
+haben Kinder im Teenageralter keine merkliche Ausdünstung und ist daher
+dieser Umstand nichts anders als vorgeschoben; tatsächlich – dies die damit
+implizit ver­bundene Aussage der Vorinstanz – begab sich der Beschuldigte
+nicht deshalb ins Zimmer von C.______, um dort das Fenster zu öffnen, sondern
+um an C.______ die von ihr berichteten sexuellen Handlungen vorzunehmen (act.
+128 S. 58 E. 4.1.). Genauso diente in der Sicht der Vorinstanz auch
+das Räucherritual dem Beschuldigten bloss als Vorwand, um sich ungestört und
+ohne Argwohn zu erwecken, im Schlafzimmer von C.______ aufhalten und sie
+sexuell missbrauchen zu können (a.a.O., S. 60 E. 4.3. in fine).
+Wenn daher im Licht der eben erörterten
+Ausgangslage (C.______ sagt aus, der Beschuldigte sei viele Male zu ihr ins
+Zimmer gekommen und habe sich an ihr ver­griffen; der Beschuldigte anderseits
+bestätigt immerhin, nachts wiederholt ins Schlafzimmer von C.______ gegangen
+zu sein, verstrickt sich dabei aber in Ungereimt­heiten) die Vorinstanz
+erwog, dass die Schilderungen von C.______ glaubhaft seien, so ist ihr darin
+ohne weiteres beizupflichten. Der Rechtsvertreter des Beschuldigten bringt
+denn auch in seiner Berufung nichts vor, woraus sich hier eine andere
+Einschätzung aufdrängen würde. Auch ist nicht erkennbar, wie diese
+Einschätzung von den beantragten beiden Zeugen (siehe act. 170 S. 2
+Ziff. 2 f.) sollte erschüttert werden können, zumal im Übrigen auch
+die Verteidigung selber an der Berufungsverhandlung darauf nicht mehr
+eingegangen ist.
+4.3.2
+Die von
+der Verteidigung in der Berufung kritisierte "Verlinkung" mit den
+bei­den anderen eingeklagten Fällen "D.______" und
+"E.______" ist nicht zu beanstanden; im Gegenteil: eine
+entsprechende Gesamtsicht drängt sich vorliegend unweigerlich auf. In den
+vorstehenden Erwägungen zu den Fällen "E.______" und "D.______"
+wurde nämlich aufgezeigt, dass es zum erkennbaren Handlungs­muster (Modus
+Operandi) des Beschuldigten gehörte, seine Opfer vor den sexuellen
+Übergriffen mit Schlafmitteln zu betäuben (siehe dazu oben E. 3.2.2.4).
+Und in eine ähnliche Richtung weisen ebenso die Aussagen von C.______. Sie
+berichtete bei ihrer Befragung am 24. August 2012 gegenüber der Polizei,
+der Beschuldigte habe ihr abends wiederholt ein Glas Wasser gereicht und sie
+aufgefordert, das Wasser zu trinken, weil sie, wie ihr der Beschuldigte
+gesagt habe, generell zu wenig trinken würde. Dieses Wasser habe jeweils
+komisch geschmeckt, worauf ihr schwindelig geworden und sie auch ermüdet sei;
+danach habe sie jeweils bemerkt, wie jemand zu ihr ins Schlafzimmer gekommen
+sei und sich neben sie ins Bett gelegt und sie mit den Fingern an der Vagina
+ausgegriffen habe (act. 3/I/5 S. 2; sie­he ferner auch act. 44
+S. 4 Dep. 7). Gerade der Umstand, dass die Angaben von C.______ auf
+das nämliche Muster hinweisen wie die Berichte von E.______ und D.______, ist
+ein untrügliches Indiz für die Wahrhaftigkeit der Schilde­rungen von
+C.______. Dass die damals knapp 16-jährige C.______ bloss eine Geschichte
+erfunden haben könnte und sie dabei rein zufällig passende Ele­mente in ihre
+Erzählungen eingebaut hätte, ist vollkommen unwahrscheinlich.
+4.3.3
+Der
+Rechtsvertreter des Beschuldigten argwöhnte an der Berufungsverhand­lung,
+C.______ habe "die Geschichte später, als der Beschuldigte in Haft kam,
+erfunden um ihm zu schaden und Rache an ihm zu nehmen"; konkret meint
+der Ver­teidiger damit, wie er an der Verhandlung vor der Vorinstanz näher
+ausgeführt hatte, dass es sich um
+eine von R.______ [der früheren
+Lebenspartnerin des Beschuldigten und Mutter von C.______] orchestrierte
+Racheaktion und ein abgekar­tetes Spiel handle, indem sie, nachdem sie Akteneinsicht
+gehabt habe, plötzlich auf denselben Zug aufgesprungen sei (dazu
+act. 128 S. 57 E. 3.4.). Darin ist der Vertei­digung von
+vornherein nicht zu folgen. Das zeitliche Zusammentreffen der Verhaf­tung des
+Beschuldigten und der Anzeige von C.______ ist rein zufällig, wie
+nachfolgende Chronologie zeigt:
+Der Beschuldigte wurde am 21. August
+2012 aufgrund der Anzeige von D.______ an seinem Wohnort in [...] verhaftet
+(act. 2/I/1 S. 5 Mitte; act. 2/IV/1 S. 2 oben). D.______
+hatte ihre Anzeige gegen den Beschuldigten im Mai 2012 im Kanton Baselland
+eingeleitet (act. 2/I/4) und wurde in der Folge von der dortigen Staats­anwaltschaft
+zur Sache einvernommen (act. 2/I/6 und 2/I/12). In der zweiten Julihälf­te
+2012 übernahm die hiesige Staatsanwaltschaft das Verfahren gegen den
+Beschuldigten (act. 2/II/2) und veranlasste in der Folge die Verhaftung
+samt Durch­suchung der Wohnräumlichkeiten des Beschuldigten
+(act. 2/III/1 ff.). Am 22. August 2012 erfuhr die
+fallzuständige Glarner Staatsanwältin erstmals von einer Mitarbeite­rin der
+Opferberatungsstelle Glarus von einem möglicherweise weiteren Opfer des
+Beschuldigten (act. 2/I/14). Es handelte sich hierbei um C.______, die
+hierauf am 24. August 2012 von der Polizei zu ihren Erlebnissen mit dem
+Beschuldigten befragt wurde (act. 3/I/5). Aus den Akten ergeben sich
+keine Hinweise darauf, dass C.______ bzw. ihre Mutter R.______ die im Kanton
+Baselland wohnhafte D.______ kennen würden und zu ihr je einmal direkt oder
+auch nur indirekt Kon­takt gehabt hätten. Ebenso ausgeschlossen ist, dass
+C.______ vor ihren Erst­aussagen bereits Einsicht in die zuvor angelaufene
+Untersuchung gegen den Beschuldigten gehabt hätte, war sie bis dahin noch
+nicht Verfahrenspartei.
+4.3.4
+Nachdem
+R.______ Ende Dezember 2010 ihre Paarbeziehung mit dem Beschuldigten beendet
+hatte und zusammen mit ihren Zwillingen aus der gemeinsame Wohnung in [...]
+ausgezogen war (act. 3/I/8 S. 5 f. Ziff. 12), erstattete sie
+im Oktober 2011 gegen den Beschuldigten Anzeige wegen Nötigung und Verletzung
+des Geheim- oder Privatbereichs (Stal­king), wobei in der Folge dieses
+Verfahren von der hiesigen Staatsanwaltschaft im Januar 2012 eingestellt
+wurde (siehe zum Ganzen Dossier SA.2011.02204).
+Gleich wie schon im Verfahren vor Vorinstanz
+(siehe dazu act. 128 S. 57 E. 3.4. und S. 60 f.
+E. 4.4.) macht die Verteidigung im Berufungsverfahren sinngemäss erneut
+geltend, dass die dem Beschuldigten nun angelasteten sexuellen Verfehlungen
+erfunden seien, andernfalls diese Übergriffe doch bereits zusammen mit den
+Stalking-Vorwürfen zur Anzeige gebracht worden wären.
+Auch in diesem Punkt kann der Verteidigung
+nicht gefolgt werden. Ob ein sexueller Übergriff zeitnah oder erst später zur
+Anzeige gebracht wird, ist für die Glaub­haftig­keit der Tatvorwürfe nicht
+ausschlaggebend. Dies gilt namentlich auch vor dem Hin­tergrund, dass
+sexuelle Handlungen zum Nachteil von Kindern ohnehin erst mit Ab­lauf des
+vollendeten 25. Lebensjahr des Opfers verjähren (Art. 97
+Abs. 2 StGB), was damit begründet ist, dass Kinder häufig überhaupt erst
+später in der Lage sind, gegen den Täter vorzugehen, insbesondere wenn dieser
+– wie auch im vorliegen­den Fall – aus dem näheren sozialen Umfeld stammt
+(siehe dazu OFK/StGB-
+Heimgartner
+,
+20. Aufl., Zürich 2018, StGB 97 N 5). Im hier zu beurteilenden Fall
+verhielt es sich zudem so, dass C.______ sich anfänglich gar von ihrer Mutter
+nicht verstanden fühlte und sie daher die Übergriffe fortan mit sich
+geschehen liess (siehe act. 3/I/5 S. 8 bei "09.23.53 –
+09.24.38" sowie S. 11 bei "09.31.52 – 09.32.03"); erst
+als sich die Mutter im August 2012 an die Opferstelle wandte, da sie vom
+Beschuldigten noch immer gestalkt wurde (siehe dazu act. 2/IV/9f, 9g und
+10), liess sich jetzt mit Unterstützung der Opferhilfe ebenso C.______ dazu
+ermuti­gen, über das von ihr Erlebte zu berichten (siehe act. 3/I/5
+S. 15 bei "09.44.02 – 09.44.51"; act. 2/I/14).
+4.4
+Damit ist
+als Ergebnis festzuhalten, dass die Vorinstanz auch im Fall von C.______ in
+korrekter Würdigung sämtlicher verfügbarer Indizien entgegen der Ansicht der Verteidigung
+von der Richtigkeit der Anklage ausging (act. 1 S. 2 f.).
+Ergänzend zu den vorstehenden Ausführungen kann daher ebenso an dieser Stelle
+in Anwen­dung von Art. 82 Abs. 4 StPO explizit auch auf die
+beweisrechtlichen Erwägungen der Vorinstanz verwiesen werden (act. 128
+S. 50-61). Was die konkrete Anzahl der Übergriffe anbelangt, blieb die
+Anklage unbestimmt (act. 1: "mehrfach in der Nacht" über einen
+mehrjährigen Zeitraum hinweg), während die Vorinstanz von bis zu zwei Übergriffen
+pro Woche während rund eines Jahres ausging (act. 128 S. 61
+E. 5.1.). In Hinsicht auf die nachfolgende Strafzumessung geht das
+Obergericht von insge­samt drei Übergriffen aus.
+5.
+Rechtliche
+Würdigung der eingeklagten Sachverhalte
+Die Vorinstanz beurteilte in Übereinstimmung
+mit der Anklage (act. 1) die erstellten Übergriffe des Beschuldigten zum
+Nachteil von E.______, D.______ und C.______ als mehrfache sexuelle
+Handlungen mit Kindern im Sinne von Art. 187 Ziff. 1 Abs. 1 StGB
+(Fall C.______), als mehrfache sexuelle Nötigung im Sinne von Art. 189
+Abs. 1 StGB (Fälle D.______ und E.______) sowie als einfa­che
+Körperverletzung im Sinne von Art. 123 Ziff. 2 al. 1 und
+al. 2 StGB (Fall E.______) (zum Ganzen: act. 128 S. 29 f.
+E. 4.1. und 4.2, S. 48 f. E. 4.1., S. 61 E. 5.1
+sowie S. 88 Dispositiv Ziff. 1 Abs. 1 bis 3).
+Im Berufungsverfahren blieb die von der
+Vorinstanz vorgenommene rechtliche Wür­digung der mehreren Tatgeschehen
+vollkommen unbestritten. Tatsächlich sind die rechtlichen Ausführungen im
+erstinstanzlichen Entscheid zutreffend, weshalb hier in Anwendung von
+Art. 82 Abs. 4 StPO integral darauf (op. cit.) verwiesen werden
+kann. In keinem der mehreren Fälle ist sodann ein Schuldausschliessungs- oder
+Rechtfertigungsgrund ersichtlich, weshalb der erstinstanzlich ergangene
+Schuld­spruch (soweit überhaupt angefochten) in allen Teilen zu bestätigen
+ist (act. 128 S. 88 Dispositiv-Ziff. 1).
+6.
+Strafzumessung
+6.1
+Die
+Vorinstanz verurteilte den Beschuldigten für die von ihm begangenen Sexual­taten
+und die einfache Körperverletzung sowie die im Berufungsverfahren nicht mehr
+bestrittenen weiteren Delikte (Wiederhandlung gegen das Waffengesetz und
+grobe Verletzung der Verkehrsregeln; siehe act. 128 S. 88
+Dispositiv-Ziff. 1 Abs. 4 und 5) zu einer Freiheitsstrafe von
+28 Monaten, wobei hiervon 8 Monate zu vollziehen sind, während die
+restlichen 20 Monate auf Bewährung ausgesetzt wur­den, dies bei einer
+Probezeit von vier Jahren (a.a.O., Dispositiv-Ziff. 3).
+Die Verteidigung kritisiert in ihrer
+Berufung (eventualiter) ebenso die erstinstanzliche Strafzumessung und
+bezeichnet diese aus mehreren Gründen als nicht haltbar (sie­he act. 179
+S. 44 ff. Ziff. 38-63).
+Die Staatsanwaltschaft wendet sich in ihrer
+Anschlussberufung ebenfalls gegen den Sanktionsentscheid der Vorinstanz; sie
+bemängelt dabei allerdings nicht die Straf­zumessung, sondern wendet sich
+gegen den von der Vorinstanz gewährten teilbe­dingten Vollzug und beantragt,
+dass der Beschuldigte die gesamte Freiheitsstrafe zu verbüssen habe
+(act. 155 und act. 179 S. 54). Weil somit die
+Staatsanwaltschaft nicht die
+Bemes­sung
+der Strafe als solche
+beanstandet, ist im Berufungsverfahren eine Erhöhung der Strafe
+ausgeschlossen (act. 391 Abs. 2 StPO).
+6.2
+Vorliegend
+sind neben den zuvor behandelten mehreren Sexualdelikten und der einfachen
+Körperverletzung zusätzlich auch die beiden bereits von der Vorinstanz
+rechtskräftig beurteilten weiteren Vergehen (grobe Verletzung der
+Verkehrsregeln und Widerhandlung gegen das Waffengesetz; siehe act. 128
+S. 88 Dispositiv-Ziff. 1 Abs. 4 und 5) zu sanktionieren.
+Hat der Täter durch eine oder mehrere
+Handlungen die Voraussetzungen für mehre­re gleichartige Strafen erfüllt, so
+verurteilt ihn das Gericht zu der Strafe der schwers­ten Straftat und erhöht
+sie angemessen. Das Gericht darf dabei jedoch das Höchst­mass der angedrohten
+Strafe nicht um mehr als die Hälfte erhöhen und ist an das gesetzliche
+Höchstmass der Strafart gebunden (Art. 49 Abs.1 StGB).
+Der Tatbestand der sexuellen Nötigung im
+Sinne von Art. 189 Abs. 1 StGB – das hier schwerste der vom
+Beschuldigten verübten Delikte – ist mit Freiheitsstrafe bis zu zehn Jahren
+bedroht; gestützt auf Art. 49 Abs. 1 StGB erweitert sich dieser
+Straf­rahmen abstrakt nun auf 15 Jahre.
+6.3
+Innerhalb
+des soeben aufgezeigten Strafrahmens ist die Strafe nach dem Ver­schulden des
+Täters zu bemessen. Zu berücksichtigen sind dabei das Vorleben und die
+persönlichen Verhältnisse sowie die Wirkung der Strafe auf das Leben des
+Täters (Art. 47 Abs. 1 StGB). Das Verschulden wird nach der Schwere
+der Verlet­zung oder Gefährdung des betroffenen Rechtsgutes, nach der
+Verwerflichkeit des Handelns, den Beweggründen und Zielen des Täters sowie
+danach bestimmt, wie weit der Täter nach den inneren und äusseren Umständen
+in der Lage war, die Gefährdung oder Verletzung zu vermeiden (Abs. 2).
+6.3.1
+Vom
+inzwischen 64-jährigen Beschuldigten ist in persönlicher Hinsicht bekannt,
+dass er in Glarus Süd im Kreis von vier Geschwistern auf­wuchs, nach der
+ordentlichen Schulzeit eine Schlosserlehre absolvierte und mittler­weile seit
+mehreren Jahren als Logistiker in einem Betrieb in Zürich arbeitet, wo er
+einen monatlichen Bruttolohn von CHF [...] (x 13) erzielt. In seiner Freizeit
+betä­tigte er sich über Jahre hinweg als Handaufleger, wobei er diese
+Beschäftigung als sein Hobby bezeichnet. Der Beschuldigte ist geschieden, hat
+eine erwachsene Tochter und stand im Zeitpunkt der Berufungsverhandlung
+(August 2019) in keiner Beziehung. Der Beschuldigte weist keine Vorstrafen
+auf (siehe zum Ganzen: act. 183 S. 1 f. sowie act. 2/IX/1).
+6.3.2
+Entgegen
+der Ansicht der Vorinstanz im angefochtenen Entscheid (act. 128
+S. 72 E. 8.) wiegt das Verschulden des Beschuldigten nicht nur
+erheblich, sondern nachgerade schwer. Der Tatbestand der sexuellen Nötigung
+im Sinn von Art. 189 Abs. 1 StGB gilt bereits per se als
+gravierendes Verbrechen, reicht doch der dafür angedrohte Strafrahmen bis zu
+zehn Jahren Freiheitsentzug.
+In den beiden Fällen sexueller Nötigung
+gegenüber D.______ und E.______ missachtete der Beschuldigte das sexuelle
+Selbstbestimmungsrecht seiner beiden Opfer massiv; seine Handlungen waren
+eindeutige Gewaltakte (siehe dazu OFK/StGB-
+Weder
+,
+20. Aufl., Zürich 2018, StGB 189 N 1 und 2 mit Hinweisen). Kommt
+hinzu, dass der Beschuldigte seine Opfer vorgängig noch medikamentös ruhiggestellt
+hatte, so dass sie sich in einem Zustand einer sozusagen fühlenden Ohnmacht
+befanden, als der Beschuldigte sich an ihnen verging; unfähig zum Widerstand,
+mussten sie die Misshandlungen über sich ergehen lassen.
+D.______ war Anfang April 2012 in einer
+physisch und psychisch äusserst schlechten Verfassung, dies einerseits wegen
+belastender Ereignisse aus der Ver­gangenheit und andererseits aufgrund
+anhaltender Schmerzen (Fibromyalgie), die trotz vorangegangenem
+Spitalaufenthalt nicht abgeklungen waren (siehe dazu act. 2/VI/6
+S. 1; act. 2/VI/7; act. 2/VI/11). In ihrer schieren Not
+vertraute sich D.______ dann dem Beschuldigten für eine Behandlung an; den
+Kontakt zu dem ihr bis dahin unbekannten Beschuldigten hatte ihre Freundin
+vermittelt (siehe dazu act. 2/I/6 S. 2). Der Beschuldigte wusste am
+Tag der Behandlung (Karfreitag, 6. April 2012) umfassend Bescheid von
+der desolaten körperlichen und seelischen Lage von D.______, fand nämlich
+drei Tage zuvor bereits ein Vorgespräch statt und wies der Beschuldigte dabei
+auf die Notwendigkeit einer längeren intensiven Behandlung hin
+(act. 2/1/6 S. 2 f.; act. 2/I/19 S. 11
+Ziff. 66). Indes vollzog der Beschuldigte dann nicht die versprochene
+Heilbehandlung, sondern nutzte die offenkundige Notlage und Verzweiflung der
+Patientin schamlos und niederträchtig zur Befriedigung seiner sexuellen
+Begierden aus.
+Im Fall von E.______ handelte der
+Beschuldigte ebenfalls äusserst verwerf­lich, indem er die sexuelle
+Integrität des damals knapp 18-jährigen Opfers massiv beeinträchtigte.
+Wiederum hat der Beschuldigte schamlos das Vertrauen ausge­nutzt, welches das
+Opfer (und ebenso dessen Familie) in ihn als Heiler gesetzt hatte (bei
+E.______ sollte der Beschuldigte Konzentrationsstörungen wegtherapieren)
+(siehe zum Ganzen: act. 180/2; act. 183 S. 4 unten). Sodann
+befand sich E.______ zum Tatzeitpunk mitten in der Adoleszenz (siehe
+act. 3/III/6 Ziff. 3.1) und hat der Beschuldigte diese Entwicklung
+mit seinem ruchlosen Verhalten mutwillig erschüt­tert und gefährdet.
+Die sexuellen Übergriffe zum Nachteil von
+C.______ schliesslich wiegen ver­schuldensmässig allein schon daher
+gravierend, weil der Beschuldigte unverfroren seine Rolle als Stiefvater
+ausnützte; kommt hinzu, dass er durch die krass egois­tisch motivierten
+sexuellen Handlungen die seelische Entwicklung von C.______ massiv
+gefährdete.
+Erheblich straferhöhend fällt vorliegend ins
+Gewicht, dass Ende Februar 2015, als bereits die Untersuchungen wegen der
+Vorfälle "D.______" und "C.______" im Gang waren, der
+Beschuldigte mit E.______ schon das nächste Opfer miss­brauchte. Darin
+offenbart sich ein enorm gefühlskaltes und skrupelloses Vorgehen ohne
+jegliches Unrechtsbewusstsein. Letzteres äussert sich zudem auch darin, dass
+der Beschuldigte schlicht keine Einsicht und Reue zeigt, sondern seine
+Missetaten über alle Instanzen hinweg mit mannigfachen "Märchen" zu
+kaschieren versucht.
+Äusserst rücksichtslos verhielt sich der
+Beschuldigte sodann auch bei der hier eben­falls zu sanktionierenden groben
+Verletzung der Verkehrsregeln, als er am 15. Februar 2015 auf der A52
+bei Hinwil über mehrere Kilometer hinweg mit Tem­po 100 permanent viel
+zu nahe auf einen vorausfahrenden Personenwagen auf­schloss und drängelte
+(siehe dazu act. 3/IV/6 und act. 3/IV/8 [Videoaufnahme]).
+6.3.3
+Werden die bis dahin dargelegten Strafzumessungsfaktoren miteinander
+gewichtet, so erscheint eine Freiheitsstrafe von mindestens vier Jahren bzw.
+48 Monaten als angemessen.
+6.3.4
+Strafmindernd
+wirkt sich nun allerdings die zu lange Dauer des Strafverfahrens aus; das
+Beschleunigungsgebot (Art. 29 Abs. 1 BV) ist vorliegend in allen
+Verfah­rensabschnitten verletzt, was entsprechend im nachfolgenden Dispositiv
+festzu­halten ist (Urteil BGer 6B_176/2017 vom 24. April 2017
+E. 2.1). Es bleibt aber doch anzufügen, dass der Beschuldigte selber mit
+seinen neuerlichen Straftaten im Jahr 2015 (erneuter sexueller Übergriff und
+grobe Verletzung der Verkehrsregeln) die Verfahrensverlängerung letztlich
+mitverursacht hat. Der mit der zu langen Ver­fahrensdauer verbundenen
+Belastung des Beschuldigten ist aufgrund des nicht zureichend gewahrten
+Beschleunigungsgebotes sowie im Lichte auch von Art. 48 lit. e
+StGB mit einer Strafminderung von 20 Monaten Rechnung zu tragen. Damit
+ist den von der Verteidigung in diesem Kontext vorgetragenen Überlegungen
+(act. 179 S. 46 f. Ziff. 50 – 54) genügend Rechnung
+getragen.
+Weitere Umstände, die eine Strafminderung
+rechtfertigen würden, sind nicht er­sichtlich. Namentlich sind entgegen der
+Ansicht der Verteidigung (act. 179 S. 47 Ziff. 57) auch keine
+Aspekte erkennbar, die beim Beschuldigten auf eine be­sondere
+Strafempfindlichkeit hindeuten würden. Insoweit ihm durch den Strafvollzug
+der Ver­lust seiner Arbeitsstelle droht, verhält es sich bei ihm gleich wie
+bei jedem anderen berufstätigen Verurteilten bzw. es scheint diese Konsequenz
+hier gar weniger gra­vierend, steht doch beim Beschuldigten in etwas mehr als
+einem halben Jahr die Pensionierung bevor.
+6.4
+Aus alldem
+folgt, dass die erstinstanzlich festgelegte Freiheitsstrafe von 28 Monaten
+zu bestätigen und insofern die Berufung des Beschuldigten auch in die­sem
+Punkt abzuweisen ist.
+Es ist an dieser Stelle nicht näher auf die
+vom Beschuldigten vorgetragenen Rügen gegenüber der vorinstanzlichen
+Strafzumessung einzugehen. Da nämlich das Obergericht als Berufungsinstanz
+ein neues Urteil fällt (Art. 408 StPO) ist es berech­tigt, die Strafe unter
+dem Vorbehalt der "reformatio in peius" nach eigenem Ermes­sen
+festzusetzen; das Obergericht muss sich nicht daran orientieren, wie die ers­te
+Instanz die einzelnen Strafzumessungsfaktoren gewichtet hat (Urteil BGer
+6B_783/2018 vom 6. März 2019 E. 3.4). In diesem Sinne hat das
+Obergericht vor­liegend die Strafzumessung eigenständig und nicht in
+Anlehnung an die vorinstanz­lichen Erwägungen vorgenommen.
+7.
+Unbedingter
+oder teilbedingter Strafvollzug
+7.1
+Die
+Vorinstanz hat im angefochtenen Entscheid den teilbedingten Strafvollzug
+angeordnet; konkret hat sie bestimmt, dass acht Monate Freiheitsstrafe
+vollzogen werden, während die restlichen 20 Monate unter Ansetzung einer
+Probezeit von vier Jahren auf Bewährung ausgesetzt wurden (act. 128
+S. 88 Dispositiv-Ziff. 3 sowie S. 73 ff. E. 10-12).
+Die Staatsanwaltschaft beantragt in ihrer
+Anschlussberufung, es sei die gesamte Freiheitsstrafe von 28 Monaten zu
+vollziehen, da aus ihrer Sicht die Voraussetzun­gen für einen teilbedingten
+Vollzug gemäss Art. 43 Abs. 1 StGB nicht gegeben seien
+(act. 179 S. 55 ff.).
+7.2
+Bei einer
+Freiheitsstrafe von mindestens einem Jahr und höchstens drei Jahren kann das
+Gericht den Vollzug der Strafe teilweise aufschieben, wenn dies notwen­dig
+ist, um dem Verschulden des Täters genügend Rechnung zu tragen (Art. 43
+Abs. 1 StGB). Dabei darf der unbedingt vollziehbare Teil die Hälfte der
+Strafe nicht übersteigen, muss jedoch mindestens sechs Monate betragen
+(Art. 43 Abs. 2 und Abs. 3 StGB).
+In der Rechtsprechung ist unbestritten, dass
+die Verhängung einer bloss teil­bedingten Strafe gemäss Art. 43 StGB
+analog zur Gewährung einer vollbeding­ten Strafe gemäss Art. 42 Abs. 1
+StGB jeweils in Frage kommt, wenn nicht zu be­fürch­ten ist, der Täter werde
+in Zukunft erneut straffällig. Sofern die Legalprognose des Täters nicht
+schlecht ausfällt, verlangt Art. 43 StGB, dass zumindest ein Teil der
+Strafe auf Bewährung ausgesetzt wird. Umgekehrt gilt, dass bei einer
+Schlechtprog­nose auch ein bloss teilweiser Aufschub der Strafe nicht
+gerechtfertigt ist. Denn wo keinerlei Aussicht besteht, der Täter werde sich
+in irgend­einer Weise durch den gewährten Strafaufschub beeinflussen lassen,
+muss die Strafe in voller Länge voll­zogen werden (BGE 134 IV 1
+E. 5.3.1 S. 10; siehe dazu auch BSK-
+Schneider/
+Carré
+, N 11-13 zu Art. 43 StGB). Bei Strafen zwischen 24 und 36
+Monaten ist für die Entscheidung über die Gewährung des teilbedingten Vollzugs
+der Schuldaus­gleich wegleitend und treten insoweit spezialpräventive
+Überlegungen in den Hinter­grund (BGE 134 IV 1 E. 5.4.3 S. 13;
+Urteil BGer 6B_1005/2017 vom 9. Mai 2018 E. 4.2.3).
+7.3
+Der
+Beschuldigte ist nicht vorbestraft. Als Ersttäter ist ihm daher grundsätzlich
+eine günstige Legalprognose zu attestieren. Im hier zu beurteilenden Fall
+wird nun allerdings die Erwartung, dass der Beschuldigte sich in Zukunft
+bewähren würde, massiv und entscheidend getrübt durch den Umstand, dass der
+Beschuldigte kon­kret die hier sanktionierten sexuellen Übergriffe über
+mehrere Jahre hinweg beging und er seine letzte Sexualstraftat zudem zu einem
+Zeitpunkt verübte (Vorfall vom 28. Februar 2015 zum Nachteil von
+E.______), als gegen ihn bereits eine Strafuntersu­chung wegen sexueller
+Handlungen lief. Dass der Beschuldigte trotz laufender Strafuntersuchung
+nicht vor einem erneuten sexuellen Übergriff zurück­schreckte, fällt
+prognostisch stark negativ ins Gewicht. Kommt hinzu, dass der Beschuldigte
+bis anhin nie auch nur die geringste Einsicht in das Unrecht seiner Taten
+gezeigt hat, sondern im Gegenteil seine Übergriffe trotz erdrückender Beweis­last
+hartnäckig und mit teils sogar noch einfallsreichen Schutzbehauptungen über
+alle Instanzen hinweg abstreitet. All dies lässt vorliegend nicht erwarten,
+der Beschuldigte werde durch den Vollzug nur eines Teils der Strafe (und
+wären es sogar die bei einem teilbedingten Vollzug hier maximal möglichen 14
+Monate) derart beeindruckt, dass er sich danach wohlverhalten würde. Bei
+alledem wiegt ferner auch die Tatschuld des Beschuldigten bei den von ihm
+begangenen Sexual­delikten nachgerade schwer. Es ist daher in Übereinstimmung
+mit der Staatsanwaltschaft und damit in Gutheissung der von dieser
+eingereichten Anschlussberufung der teil­bedingte Strafvollzug zu verweigern,
+was bedeutet, dass die hier ausgesprochene Freiheitsstrafe von
+28 Monaten in ihrer gesamten Länge zu vollziehen ist.
+Der Beschuldigte befand sich fünf Tage in
+Polizei- bzw. Untersuchungshaft (act. 2/IV/2 und act. 2/IV/7
+S. 5 Dispositiv-Ziff. 1). Diese fünf Hafttage sind auf die
+Freiheitsstrafe anzurechnen (Art. 51 StGB).
+8.
+Kontaktverbot
+Die Vorinstanz hat im angefochtenen
+Entscheid dem Beschuldigten per Weisung verboten, sich während der Dauer der
+Probezeit dem jeweiligen Wohnort von C.______ auf weniger als 100 Meter
+anzunähern sowie zu ihr auf irgendeine Art Kontakt aufzunehmen (act. 128
+S. 89 Dispositiv-Ziff. 4 und S. 75 f.).
+Da hier im Unterschied zum vorinstanzlichen
+Entscheid die gesamte Freiheitsstrafe für vollziehbar erklärt wird, besteht
+kein Raum mehr für die Ansetzung einer Probe­zeit und können dem
+Beschuldigten daher auch keine Weisungen mehr erteilt wer­den (Art. 44
+Abs. 2 StGB e contrario).
+9.
+Berufsverbot/Tätigkeitsverbot
+Die Vorinstanz untersagte dem Beschuldigten,
+für die Dauer von fünf Jahren irgendwelche Heilbehandlungen an Frauen bzw.
+für die Dauer von zehn Jahren irgendwelche Heilbehandlungen an Kindern
+vorzunehmen (act. 128 S. 89 Dispositiv-Ziff. 5 und S. 76 ff.).
+In seiner Berufungserklärung wandte sich der Beschuldigte ebenso gegen dieses
+Betätigungsverbot; anlässlich der Berufungsverhandlung erklärte allerdings
+der Verteidiger, der Beschuldigte wehre sich nicht gegen diese Massnahme,
+sollte er vom Vorwurf der sexuellen Übergriffe nicht freigesprochen werden
+(act. 179 S. 49 Ziff. 65 f.). Insofern liegt auch hier
+ein Rückzug der Berufung vor.
+Das erstinstanzlich verhängte
+Tätigkeitsverbot erfolgte im Lichte von Art. 67 StGB aus insgesamt
+überzeugenden Gründen; es kann vollumfänglich auf die bezügli­chen Erwägungen
+im angefochtenen Entscheid (op. cit.) verwiesen werden (Art. 82
+Abs. 4 StPO). Das Verbot gilt ab Rechtskraft des vorliegenden
+Strafurteils, wobei die Dauer des Vollzugs der Freiheitsstrafe nicht auf die
+Dauer des Verbots ange­rechnet wird (Art. 67c Abs. 1 und 2 StGB).
+10.
+Zivilforderungen
+10.1
+Der
+Beschuldigte richtet seine Berufung (act. 138) ferner gegen sämtliche
+Ziffern des angefochtenen Urteils, in denen er von der Vorinstanz zur
+Bezahlung von Schadenersatz und Genugtuung verpflichtet wurde. Er bestreitet
+die ihm aufer­legten Zahlungsverpflichtungen mit der Begründung, gegenüber
+den Privatklägerin­nen kei­ne strafbaren Handlungen vorgenommen zu haben
+(act. 179 S. 49 Ziff. 67 f.). Diese Auffassung des Beschuldigten
+wurde in den vorstehenden Erwä­gungen nachdrück­lich widerlegt; die vom
+Beschuldigten bestrittene Haftungsgrund­lage (strafbare und damit unerlaubte,
+widerrechtliche Handlungen im Sinne von Art. 41 OR) ist dem­nach
+erstellt.
+Zwar angefochten aber nicht inhaltlich
+beanstandet hat der Beschuldigte die Ersatz­ansprüche, welche die Vorinstanz
+den als Privatkläger auftretenden Opfer­hilfe­stellen der Kantone Zürich und
+Glarus zuerkannt hat (siehe dazu act. 128 S. 90 Dispositiv-Ziff. 9
+und Ziff. 10); die Verteidigung hat sich hierzu anlässlich der Beru­fungsverhandlung
+mit keinem Wort geäussert, weshalb insoweit gar von einem Berufungsrückzug
+auszugehen wäre. Dies kann aber offenbleiben, hat nämlich die Vorinstanz die
+geltend gemachten
+Schadenersatz
+forderungen in betraglicher Hinsicht
+zutreffend beurteilt; es kann vollumfänglich auf die entsprechenden
+Erwägungen im vorinstanzlichen Entscheid (act. 128 S. 83
+E. 6. f.) verwiesen werden (Art. 82 Abs. 4 StPO). Im
+Übrigen hat die Vorinstanz die zivilrechtliche Haftbarkeit des Beschuldigten
+gegenüber den drei Pri­vatklägerinnen E.______, D.______ und C.______ im
+Grundsatz fest­gehalten, hat jedoch die Privatklägerinnen zur konkreten
+Bezifferung ihrer Ansprü­che auf den Zivilweg verwiesen (act. 128
+S. 90 Dispositiv-Ziff. 11). Obwohl vom Beschuldigten in der
+Berufung (act. 138) ebenfalls angefochten, machte er auch da­zu an der
+Berufungsverhandlung keine Ausführungen, was einem Berufungsrückzug
+gleichkommt. Aber selbst wenn darauf einzugehen wäre, müsste die Berufung
+unter Hinweis auf die auch in diesem Punkt zutreffenden Erwägungen im
+angefochtenen Entscheid (act. 128 S. 81 ff. E. 1.-5.)
+abgewiesen werden.
+10.2
+Genugtuungsansprüche
+10.2.1
+Genugtuung für D.______
+Die Vorinstanz hat im angefochtenen Entscheid
+den Beschuldigten verpflichtet, der Privatklägerin D.______ eine Genugtuung
+in der Höhe von CHF 10'000.- zuzüg­lich 5 % Zins seit 6. April 2012 zu
+bezahlen (act. 128 S. 91 Dispositiv-Ziff. 13 sowie
+S. 85 f. E. 10.).
+D.______ macht mit eigenständiger Berufung
+geltend, es sei der Beschuldigte zur Bezahlung einer Genugtuung von CHF
+12'000.- zuzüglich Zins zu verurteilen (act. 137 und act. 179
+S. 62 und S. 67 f.).
+Wer in seiner Persönlichkeit widerrechtlich
+verletzt wird, hat Anspruch auf Leistung einer Geldsumme als Genugtuung,
+sofern die Schwere der Verletzung es rechtfer­tigt und diese nicht anders
+wiedergutgemacht worden ist (Art. 49 Abs. 1 OR). Diese Haftungsnorm
+ist einschlägig auch bei einer Verletzung der sexuellen Integrität, wie sie
+vorliegend der Privatklägerin D.______ (wie im Übrigen auch den Privatklä­gerinnen
+E.______ und C.______) durch den sexuellen Übergriff des Beschuldigten
+widerfuhr (siehe dazu ZK-
+Landolt
+,
+N 465 ff. zu Art. 49 OR).
+Die von D.______ aufgrund der Untat des
+Beschuldigten erlittene seelische Unbill wiegt erheblich. Als sich D.______
+im April 2012 zum Beschuldigten in die Behandlung begab, erhoffte sie sich
+davon eine Linderung ihrer anhaltend starken Schmerzen; ein vorheriger
+Spitalaufenthalt brachte keine Besserung und sie war dementsprechend
+verzweifelt (siehe dazu oben E. 6.3.2). Der Beschuldigte nutzte diese
+Notlage von D.______ schamlos aus zur Befriedigung seiner Gelüs­te. Als
+besonders perfid zu werten ist dabei der Umstand, dass er sein körperlich und
+see­lisch ohnehin schon massiv angeschlagenes Opfer durch die Verabreichung
+von Sedativa gefügig machte. Das Opfer leidet denn noch heute unter den
+Folgen der ihr damals widerfahrenen schweren Erniedrigung und Ausbeutung
+(siehe dazu den Arztbericht bei act. 173, worin eine posttraumatische
+Belastungsstörung beschrie­ben ist). Die Rechtsvertreterin von D.______ wies
+denn auch an der Berufungs­verhandlung zutreffend auf all diese
+genugtuungsbegründenden bzw. ‑erhöhenden Umstände hin (act. 179
+S. 65 ff.). Die Vorinstanz bezog sich bei der Bemessung der
+Genugtuung zum Vergleich auf einen Vergewaltigungsfall, bei dem eine Genug­tuung
+von CHF 12'000.- festgelegt wurde; sie folgerte daraus auf eine hier
+vertret­bare Genug­tuung von CHF 10'000.-. Indes erscheint, und darin ist
+der Rechtsvertre­terin von D.______ beizupflichten, die hier zu beurteilende
+Missetat des Beschul­digten in ihrer ganzen Auswirkung nicht minder schwer
+als die erwähnte Vergewal­tigung. Insofern ist auch vorliegend eine
+Genugtuung von CHF 12'000.- gerechtfer­tigt, zumal dies auch im Kontext
+mit der Rechtslehre und der herrschen­den Praxis ver­tretbar ist (siehe dazu
+ZK-
+Landolt
+, N 467 f.
+zu Art. 49 OR).
+Daraus ergibt sich, dass die Berufung von
+D.______ gutzuheissen und ihr eine Genugtuung in beantragter Höhe von CHF
+12'000.- zuzuerkennen ist. Die Genugtu­ung ist ab dem 6. April 2012, dem
+Tag des schädigenden Ereignisses, verzinslich zu 5 % (siehe dazu ZK-
+Landolt
+, Vorbem. zu Art. 47/49
+OR, N 201).
+10.2.2
+Genugtuung für E.______
+Die Privatklägerin E.______ erhielt
+erstinstanzlich eine Genugtuung von CHF 7'000.- nebst 5 % Zins seit
+28. Februar 2015 zugesprochen (act. 128 S. 91
+Dispositiv-Ziff. 14 sowie S. 86 E. 11.). Mit Anschlussberufung
+beantragt sie eine Erhöhung der Genugtuung auf CHF 12'000.- (act. 154).
+Die Vorinstanz hielt zur Bemessung der
+Genugtuung fest, E.______ sei im Zeitpunkt des Übergriffs fast volljährig
+gewesen; es habe sich zudem um einen "relativ geringen Übergriff"
+gehandelt. Insofern sei daher eine im Vergleich zu D.______ tiefere
+Genugtuung festzusetzen (act. 128 S. 86 E. 11).
+Die Argumentation der Vorinstanz greift zu
+kurz, wie die Rechtsvertreterin von E.______ an der Berufungsverhandlung
+zutreffend aufgezeigt hat (act. 179 S. 76 f.). Ganz ähnlich
+wie D.______ wurde auch E.______ durch die Untat des Beschuldigten nachhaltig
+traumatisiert und wurde sie zudem in ihrer sexuellen Entwicklung massiv
+beeinträchtigt (siehe act. 180/1 und 2). Genugtuungserhöhend fällt neben
+dem sexuellen Übergriff die vorangegangene medikamentöse Betäubung ins
+Gewicht, ebenso der Umstand, dass der Beschuldigte eine Vertrauensstellung
+ausgenutzt hat. Bei alldem drängt sich eine gegenüber dem vorinstanzlichen
+Ent­scheid klar höhere Genugtuung auf; diese ist hier auf CHF 10'000.- zu
+bemessen. Soweit die Rechtsvertreterin von E.______ eine noch höhere Summe
+fordert, kann ihr nicht gefolgt werden. Dies nicht zuletzt auch darum, weil
+die Rechtsvertre­te­rin zur Begründung der höheren Forderung zugleich noch
+einen Vorfall heranzieht, der sich wenige Wochen zuvor zugetragen hatte.
+Diese Begebenheit ist indes nicht Gegenstand der Anklage und darf daher auch
+bei der Bemessung der Genugtuung keine Rolle spielen.
+Damit ist in teilweiser Gutheissung der
+Anschlussberufung von E.______ die Genugtuung auf CHF 10'000.- zu bemessen,
+zuzüglich 5 % Zins ab 28. Februar 2015, dem Datum des hier beurteilten
+sexuellen Übergriffs.
+10.2.3
+Genugtuung für C.______
+Die Privatklägerin C.______ hatte
+erstinstanzlich eine Genugtuung in Höhe von CHF 20'000.- geltend gemacht; zugesprochen
+erhielt sie CHF 10'000.- nebst 5 % Zins seit 1. Januar 2010
+(act. 128 S. 90 Dispositiv-Ziff. 12 sowie S. 84 f.
+E. 9). In ihrer Anschlussberufung fordert die Privatklägerin wiederum
+den ursprünglich ein­geklagten Betrag von CHF 20'000.- (act. 156
+und act. 179 S. 85 f.).
+Die Anschlussberufung ist weitgehend
+begründet. Bei sexuellen Übergriffen an Kin­dern liegen die Genugtuungssummen
+in der Regel zwischen CHF 10'000.- und CHF 50'000.- (siehe dazu ZK-
+Landolt
+, N 469 zu Art. 49 OR
+mit Hinweisen). Vor diesem Hintergrund ist vorliegend die Genugtuung für
+C.______ im erstinstanzli­chen Entscheid zu tief ausgefallen. Denn vorab die
+Schutzwürdigkeit des Opfers ist der Spiegel des Unrechtsgehaltes; je
+schutzbedürftiger das Opfer ist, desto gravie­render erscheint das ihm
+angetane Unrecht. Schutzwürdig ist das Opfer vor allem, wenn es nicht fähig
+ist, sich aus eigener Kraft den Handlungen des Täters zu ent­ziehen. Diese
+Kraft fehlt dem Opfer, solange es unselbständig ist und/oder vom Täter
+abhängt (siehe dazu
+Hütte/Landolt
+,
+Genugtuungsrecht, Band I, S. 160 ff. Ziff. 1.4.1.1. und
+1.4.1.2.). Vorliegend war C.______ in diesem Sinne schutzbe­dürftig, als sie
+damals als Kind vom Beschuldigten missbraucht wurde; da es sich beim
+Beschuldigten sodann um den Partner der Mutter handelte, war sie ihm ausge­liefert,
+zumal die Mutter ihr keine Hilfestellung bot (siehe dazu oben E. III. 4.3.4).
+Wie die Rechtsvertreterin der Privatklägerin anlässlich der
+Berufungsverhandlung zutreffend ausführte (act. 179 S. 86),
+verletzte der Beschuldigte die Persönlichkeit der Privatklägerin auf das
+Schändlichste, indem er über längere Zeit hinweg das Abhängigkeitsverhältnis
+("Stiefvater" – Kind) mehrmals skrupellos aus­nutzte und insofern
+sein Verschulden besonders schwer wiegt. Die erfolgten Übergrif­fe haben die
+Geschädigte in ihrer (kindlichen) Entwick­lung nachhaltig beeinträchtigt
+(siehe dazu auch act. 181). All dies hat die Vorinstanz bei der
+Bemessung der Genugtuung unzureichend gewichtet.
+Unter Berücksichtigung aller massgeblichen
+Umstände erscheint eine Genugtuung von CHF 17'000.- als angemessen
+(zuzüglich 5 % Zins antragsgemäss ab 1. Januar 2010) und ist in
+diesem Sinne die Anschlussberufung von C.______ teilweise gutzuheissen.
+11.
+Einziehung
+von beschlagnahmten Gegenständen
+Der Rechtsvertreter des Beschuldigten hat in
+seiner Berufungserklärung (act. 138) ferner auch Dispositiv-Ziff. 7
+und damit die darin angeordnete Vernichtung von beschlagnahmten Gegenständen
+angefochten. Anlässlich der Berufungsverhand­lungen erfolgten hierzu jedoch
+keinerlei Ausführungen der Verteidigung, weshalb von einem Berufungsrückzug
+auszugehen ist, zumal sich die Verteidigung vor Vor­instanz mit dem Einzug
+von beschlagnahmten Gegenständen teilweise ein­verstanden erklärt hatte.
+Ohnehin ist die verfügte Einziehung nicht zu beanstanden; es kann hierzu auf
+die zutreffenden Ausführungen im vorinstanzlichen Entscheid verwiesen werden
+(act. 128 S. 80 f.).
+IV.
+Zusammenfassung und Kostenregelung
+1.
+Als Ergebnis des
+obergerichtlichen Verfahrens ist festzuhalten:
+Die Berufung des
+Beschuldigten ist vollumfänglich abzuweisen;
+die Berufung der
+Privatklägerin D.______ ist gutzuheissen (Erhöhung der Genug­tuung von CHF
+10'000.- auf antragsgemäss CHF 12'000.-);
+die
+Anschlussberufung der Staatsanwaltschaft ist gutzuheissen (Vollzug der gesam­ten
+Freiheitsstrafe von 28 Monaten);
+die
+Anschlussberufung der Privatklägerin C.______ ist teilweise gutzuheissen
+(Erhöhung der Genugtuung von CHF 10'000.- auf CHF 17'000.-, wobei
+insgesamt CHF 20'000.- beantragt waren);
+die
+Anschlussberufung der Privatklägerin E.______ ist teilweise gutzuheissen
+(Erhöhung der Genugtuung von CHF 7'000.- auf CHF 10'000.-, wobei
+insgesamt CHF 12'000.- beantragt waren).
+2.
+In forma­ler
+Hinsicht fällt das Obergericht ein neues Urteil, welches das erstin­stanz­liche
+Urteil ersetzt (Art. 408 StPO).
+3.
+Die Gerichtsgebühr für das
+Berufungsverfahren ist auf CHF 6'000.- festzusetzen (Art. 6 und
+Art. 8 Abs. 1 lit. b Ziff. 2 der Zivil- und
+Strafprozesskostenverordnung; GS III A/5). Die betreffende Gebühr ist
+beim vorliegenden Ausgang des Berufungs­verfah­rens dem Beschuldigten
+aufzuerlegen (Art. 428 Abs. 1 StPO).
+4.
+Da das Obergericht
+als Rechtsmittelinstanz vorliegend einen neuen Entscheid fällt, ist auch über
+die von der Vorinstanz getroffene Kostenregelung zu befinden. Es ist kein
+Grund ersichtlich, welcher eine Änderung des vorinstanzlichen Kostenspruchs
+nahelegen würde, zu­mal auch der Beschuldigte hiergegen keine konkreten
+Einwen­dungen vorgebracht hat. Die entsprechende Kostenregelung
+(act. 128 S. 91 Dispos­itiv-Ziff. 15 - 21) ist daher zu
+bestätigen, wobei im nach­fol­genden Dispositiv unter Ziffer 14 die
+Gerichtsgebühr beider Instanzen (Vorinstanz: CHF 6'000.-; Ober­ge­richt:
+CHF 6'000.-) als Gesamtbetrag festgehalten wird.
+5.
+5.1
+Den Privatklägerinnen C.______, D.______ und E.______ wurde auch für
+das Berufungsverfahren die unentgeltliche Rechtsvertretung gewährt (siehe
+act. 160 – 162). Damit sind ihre Rechtsvertreterinnen vorab vom Staat zu
+entschädi­gen und fällt die Entscheidung über die Höhe der Vergütung in die
+Zuständigkeit des erkennenden Sachgerichts (Art. 138 Abs. 1 in
+Verbindung mit Art. 135 Abs. 1 und 2 StPO).
+Die unentgeltlichen
+Rechtsvertreterinnen sind aus der Gerichtskasse zu einem reduzierten
+Stundenansatz von CHF 180.- zu entschädigen (Art. 6 des Tarifs für die
+Entschädigung der öffentlichen Verteidigung und der unentgeltlichen Rechtsver­tretung;
+GS III I/5). Die von den Rechtsvertreterinnen eingereichten Honorarnoten
+basieren auf dem genannten Stundenansatz und sind zudem die darin aufge­listeten
+Bemühungen sachbezogen und angemessen; infolgedessen sind den Rechtsver­treterinnen
+für das Berufungsverfahren aus der Gerichtskasse die folgen­den Vergütungen
+zu entrichten (jeweils inkl. Barauslagen und Mehrwert­steuer): an
+Rechtsanwältin lic. iur. M.______ CHF 5'156.15 (siehe act. 182/4),
+an Advokatin lic. iur. N.______ CHF 5'482.- (siehe act. 182/2)
+sowie an Rechtsanwältin Dr. iur. O.______ CHF 5'439.05 (siehe
+act. 180/3).
+5.2
+Die eben besprochenen Auslagen für die Entschädigung der
+unentgeltlichen Rechtsvertreterinnen gelten als Verfahrenskosten
+(Art. 422 Abs. 2 lit. a StPO; siehe dazu
+Schmid/Jositsch
+, StPO Praxiskommentar,
+3. Aufl., Zürich 2018, N 1 zu Art. 138 StPO), die vorliegend
+vom Beschuldigten zu tragen sind (Art. 428 Abs. 1 und 3 sowie
+Art. 426 Abs. 1 StPO).
+Indes hat der
+Beschuldigte konkret die Kosten für die unentgeltliche Rechtsvertre­tung der
+Privatklägerschaft nur zu bezahlen, wenn er sich in günstigen Verhältnis­sen
+befindet (Art. 426 Abs. 4 StPO). Hiervon ist die Vorinstanz für die
+in der Unter­suchung und im erstinstanzlichen Verfahren angefallenen
+Anwaltskosten der Privat­klägerschaft ausgegangen und hat die entsprechenden
+Kosten (inkl. in einem Fall eine Nachzahlungspflicht für die Differenz
+zwischen amtlichem und vollem Honorar) im ganzen Umfang dem Beschuldigten
+überbunden (act. 128 S. 91 f. Dispositiv-Ziff. 15 und
+Ziff. 16 sowie Ziff. 20, siehe ferner S. 87 E. 4.).
+Dagegen trug der Beschuldigte im Berufungsverfahren keine Einwendungen vor,
+weshalb darauf nicht mehr zurückzukommen ist.
+Für die im
+Berufungsverfahren angefallenen Kosten der Rechtsvertretung der
+Privatklägerinnen drängt sich nun allerdings eine von der Vorinstanz
+abweichende Beurteilung auf. Mit dem vorliegenden Berufungsentscheid
+erwachsen dem Beschuldigten ohnehin schon über CHF 70'000.-
+Verfahrenskosten (siehe nach­folgend Dispositiv-Ziff. 14), hat er sodann
+für das vorinstanzliche Verfahren eine Parteientschädigung von
+CHF 3'400.- an die Privatklägerin D.______ zu entrich­ten (nachfolgend
+Dispositiv Ziff. 19), schuldet er zudem Genugtuungs­zahlungen von
+insgesamt CHF 39'000.- zuzüglich Zinsen (nachfolgend
+Dispositiv-Ziff. 11-13) und betragen die Kosten seiner Wahlverteidigung
+knapp CHF 32'000.- (act. 182/1). Angesichts dieser bestehenden
+Zahlungsverpflichtungen lassen sich die wirtschaft­lichen Verhältnisse des
+Beschuldigten nicht mehr als günstig bezeichnen. Von güns­tigen
+wirtschaftlichen Verhältnissen im Sinne von Art. 426 Abs. 4 StPO
+kann nämlich nur die Rede sein, wenn aufgrund der konkreten finanziellen
+Situation des Beschuldigten eine Kostenübernahme durch den Staat als stossend
+erscheint (siehe dazu BSK-
+Domeisen
+,
+N 19 zu Art. 426 StPO); dies ist vorliegend jedoch nicht der Fall,
+verfügt der Beschuldigte nämlich weder über ein beachtliches Einkommen noch
+über ein relevantes Vermögen (siehe dazu act. 2/IX/4 sowie
+act. 196/1+2). Eine Überwälzung der hier vom Staat finanzierten
+Anwaltskosten der unentgeltli­chen Rechtsvertreterinnen auf den Beschuldigten
+ist damit ausgeschlossen, wobei auch kein nachträglicher Bezug dieser Kosten
+beim Beschuldigten vorbehalten werden kann (siehe dazu
+Schmid/Jositsch
+, a.a.O., N 12 zu
+Art. 426 StPO; mut­masslich a.M. bezüglich nachträglicher Einforderung
+BSK-
+Domeisen
+, N 19 zu
+Art. 426 StPO).
+6.
+6.1
+Die Privatklägerinnen C.______, D.______ und E.______ verlangen
+sodann vom Beschuldigten als Parteientschädigung für das Berufungsverfahren
+den Differenzbetrag zwischen dem aus der Staatskasse finanzierten amtlichen
+(redu­zierten) Anwaltshonorar und dem vollen Anwaltshonorar (siehe oben die
+Rechtsbe­gehren der Privatklägerinnen, dort je Antrag Ziff. 3).
+6.2
+Die Privatklägerschaft hat gegenüber der beschuldigten Person
+Anspruch auf angemessene Entschädigung für notwendige Aufwendungen, wenn sie
+obsiegt (Art. 433 Abs. 1 lit. a StPO). Diese Voraussetzung einer
+Entschädigungspflicht des Beschuldigten ist vorliegend gegeben, haben sich
+nämlich die Privatklägerinnen als Straf- und Zivilklägerinnen konstituiert
+und wird vorliegend der Beschuldige verurteilt und zur Bezahlung von
+Genugtuung verpflichtet (siehe dazu
+Schmid/Jositsch
+,
+a.a.O., N 6 zu Art. 433 StPO).
+Die Ersatzansprüche
+der Privatklägerschaft unter dem vorliegenden Titel beschränken sich
+grundsätzlich auf die Anwaltskosten (siehe
+Schmid/Jositsch
+,
+a.a.O., N 3 zu Art. 433 StPO;
+BSK-Wehrenberg/Frank
+,
+N 19 zu Art. 433 StPO). Vorliegend wurde den drei Privatklägerinnen
+für das Berufungsverfahren die unent­geltliche Rechtspflege gewährt und
+erhalten deren Rechtsvertreterinnen aus der Gerichtskasse ein (reduziertes)
+amtliches Honorar ausbezahlt. Nach früherer Praxis unter der Herrschaft des
+bis Ende 2010 in Kraft gestandenen kantonalen Prozess­rechts war es bei
+dieser Konstellation ausgeschlossen, dass gegenüber einem Beschuldig­ten noch
+hätte die Differenz zwischen dem amtlichen und dem vollen Honorar geltend
+gemacht werden können. Im Lichte von Art. 138 Abs. 1 in Verbin­dung
+mit Art. 135 Abs. 4 lit. b StPO ist es indes heute möglich,
+den entspre­chenden Differenzbetrag als Entschädigung im Sinne von
+Art. 433 StPO einzufor­dern. Diese scheint im Übrigen nicht zuletzt auch
+aus folgender Überlegung vertret­bar: Bei Obsiegen der Privatklägerschaft
+liesse sich nämlich argumentieren, dass die unent­geltliche Rechtspflege
+gegenstandslos wird, weil die Privatklägerschaft von der beschuldigten Person
+schadlos zu halten ist (Art. 433 StPO; siehe dazu
+Schmid/ Jositsch
+, a.a.O., N 3 zu
+Art. 138 StPO); in dieser Situation könnte dann die Privat­klägerschaft
+gegenüber dem Beschuldigten von vornherein nicht bloss eine redu­zierte
+amtliche, sondern die volle Anwaltsentschädigung geltend machen.
+Bei der Berechnung
+der vollen Anwaltsentschädigung ist antragsgemäss von einem hier als
+vertretbar zu bezeichnenden Stundenansatz von CHF 220.- auszugehen. Der Differenzbetrag
+gegenüber der amtlichen Entschädigung von CHF 180.- pro Stunde beträgt
+folglich CHF 40.-. Auf der Basis der von den Rechtsvertreterinnen im
+Berufungsverfahren gerechtfertigterweise geleisteten Arbeitsstunden sind
+somit die folgenden Entschädigungszahlungen (je inkl. Mehrwertsteuer)
+geschuldet (siehe dazu act. 180/4, act. 182/3 und act. 182/4):
+An C.______:
+CHF 1'134.70;
+an D.______:
+CHF 1'134.40;
+an E.______:
+CHF 1'214.60.
+Der Beschuldigte schuldet diese
+Entschädigungen allerdings nur unter der Voraus­setzung, dass es seine
+wirtschaftlichen Verhältnisse erlauben (Art. 135 Abs. 4 StPO); es
+kann hierzu auf die vorstehenden Ausführungen in E. 5.2 verwiesen
+werden.
+7.
+Die Privatklägerin C.______ hat
+nach durchgeführter Berufungsverhandlung mit Eingabe vom 17. Oktober 2017
+(act. 187) beantragt, es sei das für den Beschul­digten erstinstanzlich
+angeordnete Kontakt- und Rayonverbot nicht nur auf den Wohnort der
+Privatklägerin zu beschränken, sondern auf deren Arbeitsort auszuwei­ten.
+Vorliegend besteht nun allerdings keine Rechtsgrundlage mehr dafür, dem
+Beschuldigten Weisungen aufzuerlegen; dies deshalb, weil der Beschuldigte die
+ganze Freiheitsstrafe zu verbüssen hat und daher auch kein Raum mehr für eine
+Probezeit besteht (siehe oben E. III. 8).
+Der Rechtsvertreter des
+Beschuldigten hat zu dem von der Privatklägerin C.______ erst hinterher
+gestellten Gesuch innert der ihm vom Obergericht angesetzten Frist (siehe
+act. 188) nachträglich Stellung bezogen (act. 189). Für diese
+nachträg­lich verfasste Stellungnahme ist der Beschuldigte antragsgemäss zu
+entschädigen (analog Art. 428 Abs. 1 und Art. 427 Abs. 1
+StPO). Dies deshalb, weil dem hinterher gestellten Gesuch der Privatklägerin
+so oder anders nicht hätte gefolgt werden können.
+Der Arbeitsort
+der Privatklägerin, auf den sie das Rayonverbot ausgedehnt haben wollte,
+befindet sich nämlich in einem Einkaufszentrum und wäre es daher nicht mehr
+verhältnismässig gewesen, dem Beschuldigten sozusagen das Betreten dieses
+Zentrums zu verbieten.
+____________________
+Das
+Gericht erkennt:
+1.
+Der
+Beschuldigte
+A.______ ist schuldig
+-
+der mehrfachen sexuellen
+Nötigung im Sinne von Art. 189 Abs. 1 StGB (D.______, E.______);
+-
+der mehrfachen sexuellen
+Handlungen mit Kindern im Sinne von Art. 187 Ziff. 1 Abs. 1
+StGB (C.______);
+-
+der einfachen Körperverletzung
+im Sinne von Art. 123 Ziff. 2 al. 1 und al. 2 StGB
+(E.______);
+-
+der Widerhandlung gegen das
+Waffengesetz im Sinne von Art. 33 Abs. 1 lit. a WG in
+Verbindung mit Art. 4 Abs. 1 lit. e WG und Art. 5
+Abs. 1 lit. e WG (Ver­bringen eines Elektroschockgeräts in das
+schweizerische Staatsgebiet und un­erlaubter Besitz desselben);
+-
+der groben Verletzung von
+Verkehrsregeln gemäss Art. 90 Abs. 2 SVG in Ver­bindung mit
+Art. 34 Abs. 4 SVG und Art. 12 Abs. 1 VRV (ungenügender
+Ab­stand beim Hintereinanderfahren).
+2.
+Das Verfahren gegen den
+Beschuldigten wird eingestellt hinsichtlich
+des unsorgfältigen Aufbewahrens
+einer Waffe gemäss Art. 34 Abs. 1 lit. e WG in Verbindung
+mit Art. 26 Abs. 1 WG;
+der einfachen Verletzung von
+Verkehrsregeln gemäss Art. 90 Abs. 1 SVG in Verbindung mit
+Art. 39 Abs. 1 SVG und Art. 28 Abs. 1 VRV;
+des Erwerbs, Besitzes und
+Konsums von Benzodiazepinen im Sinne von Art. 19a Ziff. 1 BetmG
+in Verbindung mit Art. 19 lit. d, Art. 1 lit. b und
+Art. 2b BetmG.
+3.
+Der
+Beschuldigte
+wird verurteilt zu einer Freiheitsstrafe von 28 Monaten.
+Die Strafe ist in ihrer gesamten Länge zu vollziehen, wobei die erstandene
+Polizei- und Untersuchungshaft von 5 Tagen angerechnet wird.
+4.
+Es wird festgestellt, dass im
+vorliegenden Strafprozess das Beschleunigungs­gebot verletzt wurde.
+5.
+Dem Beschuldigten wird in
+Anwendung von Art. 67 Abs. 1 StGB jedwede Art von Heilbehandlung an
+Frauen für 5 Jahre verboten.
+Dem Beschuldigten wird in
+Anwendung von aArt. 67 Abs. 3 StGB in der bis Ende 2018 geltenden
+Fassung jedwede Art von Heilbehandlung an Kindern für 10 Jahre verboten.
+6.
+Die folgenden beim
+Beschuldigten beschlagnahmten Gegenstände und Medikamente
+(act. 2/III/4-6, act. 2/III/10, Lagernummer SN 168/12) werden ein­gezogen
+und vernichtet:
+A1 (Flaschenöffner in
+Penisform)
+A3 (Omezol)
+A4 (36 Mogadon Schlaftabletten)
+A8 (Elektroschocker inkl. zwei
+Batterien)
+A10 (Stilnox Tabletten)
+B2 (Agenda 2012 schwarz)
+B3 (Mogadon Schachtel und lose)
+B4 (ein
+Co-Amoxi-Mepha 1000)
+B5 (ein Temesta 1.0 mg)
+B6 (leere Packung Zolpidom)
+B7 (Plastikbecher mit 4.5
+Mogadon)
+B8 (Notizzettel "ganz
+locker")
+B9 (Flasche Ethanol)
+B10 (zwei DVD Libosan)
+B11 (Holzschachtel aus Persien)
+B12 (acht CDs/DVDs)
+7.
+Die folgenden beim
+Beschuldigten beschlagnahmten Gegenstände (act. 2/III/4-6,
+act. 2/III/10, Lagernummer SN 168/12) werden diesem auf erstes
+Verlangen herausgegeben:
+A2 (Fotoapparat Sony)
+A5 (Buch weisse und schwarze
+Magie)
+A6 (PC Maxdata)
+A7 (iMac silber inkl. Maus und
+Tastatur samt zwei Wolldecken)
+A9 (zwei USB-Sticks)
+B1 (Laptop Lenovo samt
+Netzteil)
+Effekte 01 (iPhone 4S, schwarz)
+8.
+Der Beschuldigte wird
+verpflichtet, dem Privatkläger Kanton Zürich CHF 6'000.- als
+Schadenersatz zu bezahlen.
+9.
+Der Beschuldigte wird
+verpflichtet, dem Privatkläger Kanton Glarus CHF 273.75 als
+Schadenersatz zu bezahlen.
+10.
+Im Übrigen wird festgestellt,
+dass der Beschuldigte dem Grundsatz nach für den noch nicht bezifferbaren,
+verursachten Schaden haftbar und entschädigungs­pflichtig ist. Bezüglich
+Höhe des Anspruchs werden die Privatklägerinnen auf den Zivilweg verwiesen.
+Die Privatklägerin E.______
+wird mit ihrer Klage auf Herausgabe von Swarovsky-Ohrringern auf den
+Zivilweg verwiesen.
+11.
+Der Beschuldigte wird
+verpflichtet, der Privatklägerin C.______ als Genug­tuung CHF 17'000.-
+nebst 5 % Zins seit 1. Januar 2010 zu bezahlen.
+12.
+Der Beschuldigte wird
+verpflichtet, der Privatklägerin D.______ als Genug­tuung CHF 12'000.-
+nebst 5 % Zins seit 6. April 2012 zu bezahlen.
+13.
+Der Beschuldigte wird
+verpflichtet, der Privatklägerin E.______ als Genugtuung CHF 10'000.-
+nebst 5 % Zins seit 28. Februar 2015 zu bezah­len.
+14.
+Die Gerichtsgebühr für das
+erstinstanzliche Verfahren SG.2017.00047 und das Berufungsverfahren wird
+auf insgesamt CHF 12'000.- festgesetzt.
+Die weiteren Kosten der
+Untersuchung und des erstinstanzlichen
+Verfahrens betragen:
+CHF
+300.-
+Rechnung Schulpsychologischer
+Dienst;
+CHF
+400.-
+SG.2012.00278 Gerichtsgebühr;
+CHF
+80.-
+Dr. med. [...];
+CHF
+202.60
+KG Glarus, Untersuch der
+beschuldigten Person;
+CHF
+1'169.75
+IRM Zürich, Analysen betreffend
+beschuldigte Person;
+CHF
+3'960.-
+IRM Zürich, Gutachten
+betreffend beschuldigte Person;
+CHF
+1'024.80
+IRM Zürich, Gutachten
+betreffend E.______;
+CHF
+1'376.10
+IRM Zürich, Analysen betreffend
+E.______;
+CHF
+3'463.80
+Zwischenabrechnung
+unentgeltliche Verbeiständung C.______
+CHF
+48.-
+IRM Zürich (E.______);
+CHF
+4'308.50
+IRM Zürich (E.______);
+CHF
+517.-
+IRM
+Zürich, DNA-Analysen beschuldigte Person;
+CHF
+3'500.-
+Kosten Anklage;
+CHF
+13'296.35
+unentgeltliche
+Verbeiständung C.______;
+CHF
+11'605.70
+unentgeltliche
+Verbeiständung D.______;
+CHF
+16'890.10
+unentgeltliche
+Verbeiständung E.______.
+15.
+Die Kosten gemäss Ziffer 14
+hiervor werden vollumfänglich dem Beschuldigten auferlegt und von ihm
+bezogen.
+16.
+Rechtsanwältin lic. iur M.______ bzw. Rechtsanwältin
+MLaw P.______ werden als unentgeltliche Rechtsvertretung für das Untersuchungs-
+und erstin­stanzliche Verfahren SG.2017.00047 mit CHF 13'296.35 (inkl.
+Auslagen und MwSt.) aus der Gerichtskasse entschädigt. Es wird vorgemerkt,
+dass die Gerichtskasse inzwischen bereits CHF 9'000.- ausbezahlt hat.
+Rechtsanwältin lic. iur M.______
+wird als
+unentgeltliche Rechtsvertretung für das Berufungsverfahren mit
+CHF 5'156.15 (inkl. Auslagen und MwSt.) aus der Gerichtskasse
+entschädigt.
+17.
+Advokatin
+lic. iur. N.______ wird als
+unentgeltliche Rechtsvertretung für das Untersuchungs- und erstinstanzliche
+Verfahren SG.2017.00047 mit CHF 14'000.- (inkl. Auslagen und MwSt.)
+aus der Gerichtskasse entschädigt. Es wird vorgemerkt, dass die
+Gerichtskasse inzwischen bereits CHF 10'000.- aus­bezahlt hat.
+Advokatin
+lic. iur. N.______ wird als
+unentgeltliche Rechtsvertretung für das Berufungsverfahren mit
+CHF 5'482.- (inkl. Auslagen und MwSt.) aus der Gerichtskasse
+entschädigt.
+18.
+Rechtsanwältin
+Dr. iur. O.______ wird als
+unentgeltliche Rechtsver­tretung für das Untersuchungs- und erstinstanzliche
+Verfahren SG.2017.00047 mit CHF 16'890.10 (inkl. Auslagen und MwSt.)
+aus der Gerichtskasse entschä­digt. Es wird vorgemerkt, dass die
+Gerichtskasse inzwischen bereits CHF 12'000.- ausbezahlt hat.
+Rechtsanwältin
+Dr.
+iur. O.______ wird als unentgeltliche Rechtsver­tretung für das
+Berufungsverfahren mit CHF 5'439.05 (inkl. Auslagen und MwSt.) aus der
+Gerichtskasse entschädigt.
+19.
+Der Beschuldigte wird
+verpflichtet, der Privatklägerin D.______ für das
+Unter­suchungs-
+und erstinstanzliche Verfahren SG.2017.00047
+eine Parteientschä­digung
+in der Höhe von CHF 3'400.- (inkl. Auslagen und MwSt.) zu bezahlen.
+20.
+Der Beschuldigte wird
+verpflichtet, sobald es seine wirtschaftlichen Verhältnisse erlauben, der
+Privatklägerin D.______ für das Berufungsverfahren eine Par­teientschädigung
+in der Höhe von CHF 1'134.40 (inkl. MwSt.) zu bezahlen.
+21.
+Der Beschuldigte wird
+verpflichtet, sobald es seine wirtschaftlichen Verhältnisse erlauben, der
+Privatklägerin C.______ für das Berufungsverfahren eine Par­teientschädigung
+in der Höhe von CHF 1'134.70 (inkl. MwSt.) zu bezahlen.
+22.
+Der Beschuldigte wird
+verpflichtet, sobald es seine wirtschaftlichen Verhältnisse erlauben, der
+Privatklägerin E.______ für das Berufungsverfahren eine Parteientschädigung
+in der Höhe von CHF 1'214.60 (inkl. MwSt.) zu bezahlen.
+23.
+Die Privatklägerin C.______
+wird verpflichtet, dem Beschuldigten für das Berufungsverfahren eine
+Parteientschädigung in der Höhe von CHF 600.- (inkl. MwSt.) zu
+bezahlen.
+24.
+Schriftliche Mitteilung an:
+[...]
