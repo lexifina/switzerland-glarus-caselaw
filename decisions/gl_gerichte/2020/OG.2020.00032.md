@@ -1,0 +1,244 @@
+---
+decision_id: "gl_gerichte_OG.2020.00032"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2020.00032"
+docket_2: "OGS.2020.87"
+decided: "2020-07-03"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1348&W10_KEY=218274&nTrefferzeile=10&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/311.0/art-070.md", "switzerland/bund/acts/312.0/art-006.md", "switzerland/bund/acts/312.0/art-056.md", "switzerland/bund/acts/312.0/art-058.md", "switzerland/bund/acts/312.0/art-059.md", "switzerland/bund/acts/312.0/art-355.md", "switzerland/bund/acts/312.0/art-356.md"]
+---
+
+# GL Gerichte OG.2020.00032
+
+## Regeste
+
+Ausstand
+
+## Text
+
+Glarus Obergericht 03.07.2020 OG.2020.00032 (OGS.2020.87)
+Glaris Obergericht 03.07.2020 OG.2020.00032 (OGS.2020.87)
+Glarona Obergericht 03.07.2020 OG.2020.00032 (OGS.2020.87)
+
+Kanton Glarus
+Obergericht
+Beschluss
+vom 3. Juli 2020
+Verfahren
+OG.2020.00032
+A.______
+Gesuchsteller
+betreffend
+Ausstand
+Antrag
+des Gesuchstellers
+(gemäss Eingabe seiner vormaligen Rechtsvertreterin
+vom 12. Juni 2020 [act. 1 S. 2]):
+1.
+Staatsanwalt
+B.______ sei zu verpflichten, in den Ausstand zu tre­ten.
+2.
+Unter
+Kosten- und Entschädigungsfolgen zulasten des Staates evtl. zulasten des
+Gesuchsgegners.
+____________________
+Das
+Gericht zieht in Betracht:
+1.
+Folgender Sachverhalt lässt sich
+aus dem Ausstandsbegehren vom 12. Juni 2020 sowie den beiden vom betroffenen
+Staatsanwalt verfassten Stellungnahmen vom 15. Juni 2020 entnehmen
+(siehe act. 1 S. 2 f. Ziff. 3 sowie act. 2 und act. 3/1):
+Die hiesige Staatsanwaltschaft
+führte gegen den Gesuchsteller eine Strafuntersu­chung wegen Übertretung des
+Bundesgesetzes betreffend die Lotterien und gewerbsmässigen Wetten
+(SR 935.51; in Kraft bis Ende 2018). Dabei erliess sie am 14. Mai
+2020 einen Strafbefehl, wogegen der Beschuldigte am 25. Mai 2020 Ein­sprache
+erhob. Darauf­hin überwies der fallführende Staatsanwalt B.______ am
+29. Mai 2020 die Akten dem Kantonsgericht zur Durchführung des
+Hauptverfahrens und gilt hier­bei der (beanstandete) Strafbefehl als
+Anklageschrift (siehe dazu Art. 356 Abs. 1 StPO). Am 3. Juni
+2020 kontaktierte das Kantonsgericht die (damalige) Rechtsver­treterin des
+Gesuchstellers zwecks Vereinbarung eines Termins für die Hauptver­handlung.
+2.
+2.1.
+Mit Eingabe vom 12.
+Juni 2020 gelangte die (damalige) Rechtsvertreterin des Gesuchstellers an die
+Staatsanwaltschaft und verlangte darin den Ausstand von Staatsanwalt B.______
+(act. 1).
+2.2
+Mit Schreiben vom
+15. Juni 2020 überwies Staatsanwalt B.______ das Ausstandsgesuch zur
+Behandlung an das Obergericht und beantragt dabei dessen Abweisung, soweit
+überhaupt darauf einzutreten sei (act. 2).
+2.3
+Der Gesuchsteller ist
+inzwischen nicht mehr anwaltlich vertreten (act. 5).
+3.
+Das Obergericht als
+Beschwerdeinstanz in Strafsachen ist zuständig zur Behand­lung von
+Ausstandsbegehren gegen die Staatsanwaltschaft (Art. 59 Abs. 1
+lit. b StPO i.V.m Art. 16 Abs. 1 lit. a GOG/GL [GS III
+A/2]).
+4.
+4.1
+Will eine Partei den
+Ausstand einer in einer Strafbehörde tätigen Person verlan­gen, so hat sie
+der Verfahrensleitung
+ohne Verzug
+ein entsprechendes Gesuch zu
+stellen, sobald sie vom Ausstandsgrund Kenntnis hat; die den Ausstand
+begründen­den Tatsachen sind glaubhaft zu machen (Art. 58 Abs. 1 StPO).
+Gemäss dem klaren
+Gesetzeswortlaut hat die gesuchstellende Partei ihr Aus­standsbegehren
+ungesäumt («ohne Verzug») vorzubringen und ist daher nach gefes­tigter
+Rechtsprechung der Ausstand in den nächsten Tagen nach Kenntnis­nahme zu
+verlangen; andernfalls verwirkt der Anspruch. Ein Gesuch, das sechs bis
+sieben Tage nach Kenntnis des Ausstandsgrunds eingereicht wird, gilt als
+rechtzei­tig. Unzulässig ist demgegenüber ein Zuwarten während zwei Wochen
+(zum Gan­zen: BGer 1B_18/2020 Urteil vom 3. März 2020, E. 3.1. mit
+Hinweisen).
+4.2
+Der Gesuchsteller
+wirft dem fallführenden Staatsanwalt eine mangelhafte Verfahrensführung vor,
+da er trotz einlässlich begründeter Einsprache gegen den Strafbefehl keine
+weiteren möglicherweise entlastenden Abklä­rungen mehr unter­nommen und
+stattdessen die Sache sogleich dem Kantonsgericht zur Beurteilung überwiesen
+habe; diese Unterlassung erwecke den Anschein von Voreingenom­menheit,
+weshalb der fallführende Staatsanwalt in den Ausstand zu treten habe
+(act. 1 S. 6 f. Ziff. 4).
+4.3
+Das auf der eben
+dargelegten Begründung basierende Ausstandsbegehren ist verspätet:
+Seit Dienstag, 3. Juni 2020,
+als das Kantonsgericht bei der damaligen Rechtsvertre­terin des
+Gesuchstellers wegen eines Termins für die Hauptverhandlung nachfragte (sie­he
+act. 1 S. 2 Ziff. 3), wusste der Gesuchsteller, dass der
+fallführende Staatsan­walt keine Notwendigkeit mehr für weitere
+Beweisabnahmen sah und stattdessen die Sache dem Gericht zur Beurteilung
+überwiesen hatte. Es dauerte in der Folge dann aber bis Freitag, 12. Juni
+2020, ehe der Gesuchsteller gegen den zuständigen Staatsanwalt wegen der
+nicht mehr durchgeführten zusätzlichen Beweiserhebungen ein Ausstandsbegehren
+erhob. Es vergingen somit neun Tage, bis der Gesuchstel­ler nach Kenntnis des
+vermeintlichen Ausstandsgrundes reagierte.
+Diese Zeitspanne ist mit Blick
+auf die zuvor aufgezeigte Rechtsprechung (oben E. 4.1) zu lange und hat
+daher der Gesuchsteller sein Ausstandsbegehren verspätet eingereicht, weshalb
+darauf nicht einzutreten ist.
+5.
+Aber selbst wenn auf das Gesuch
+einzutreten wäre, müsste dieses aus nachfolgen­den Überlegungen abgewiesen
+werden:
+5.1
+Der Gesuchsteller
+macht geltend, dass es Aufgabe des fallzuständigen Staats­anwaltes B.______
+gewesen wäre, zusätzliche Beweise zu erheben, nachdem er (der Gesuchsteller) gegen
+den Strafbefehl vom 14. Mai 2020 Einspra­che erhoben habe. Diese
+Unterlassung – so der Standpunkt des Gesuchstellers – lasse den Staatsanwalt
+als befangen erscheinen (act. 1 S. 6 f. Ziff. 4).
+5.2
+5.2.1
+Fehlerhafte
+Verfügungen und Verfahrenshandlungen des Staatsanwalts begründen für sich
+keinen Anschein der Voreingenommenheit. Anders verhält es sich jedoch, wenn
+besonders krasse oder wiederholte Irrtümer vorliegen, die eine schwere
+Verletzung der Amtspflichten darstellen; in diesem Fall ist auf Voreinge­nommenheit
+zu schliessen und hat der betreffende Staatsanwalt oder die betreffen­de
+Staatsanwältin gestützt auf Art. 56 lit. f StPO in den Ausstand zu
+treten (siehe dazu BGE 141 IV 178 E. 3.2.3 S. 180 mit Hinweisen).
+5.2.2
+Wird gegen einen
+Strafbefehl Einsprache erhoben, so nimmt die Staatsan­waltschaft die weiteren
+Beweise ab, die zur Beurteilung der Einsprache erforderlich sind
+(Art. 355 Abs. 1 StPO). Hält danach die Staatsanwaltschaft an ihrem
+Strafbe­fehl fest, so überweist sie die Akten unverzüglich dem
+erstinstanzlichen Gericht zur Durchführung des Hauptverfahrens (Art. 355
+Abs. 3 lit. a und Art. 356 Abs. 1 StPO). Der Sinn von
+Art. 355 Abs. 1 StPO [weitere Beweisabnahme nach Einsprache] geht
+dahin, dass das vor Erlass des Strafbefehls zumeist nur lückenhaft
+durchgeführte Vorverfahren und vor allem die erforderlichen Beweisabnahmen
+nachgeholt werden; dazu gehört primär eine Einvernahme der beschuldigten
+Person, es sei denn, jene vor dem Strafbefehl sei umfassend (
+Schmid/Jositsch
+, StPO Praxiskommentar,
+3. Aufl., Zürich/St. Gallen 2018, Art. 355 N 1; siehe
+auch BSK StPO-
+Riklin
+,
+Art. 355 N 1).
+5.2.3
+Vorliegend ergibt
+sich aus dem Gesamtzusammenhang, dass die Staatsan­waltschaft in ihrem
+Strafbefehl vom 14. Mai 2020 den Gesuchsteller zu einer finan­ziellen
+Ersatzabgabe an den Staat in hier nicht näher bekannten Höhe verpflichtet
+hatte. Daraufhin machte der Gesuchsteller in seiner Einsprache geltend, der
+fallzu­ständige Staatsanwalt habe bei der Bemessung der Ersatzabgabe auf
+Angaben aus einer unzutreffenden Website abgestellt. Weil in der Folge der
+fallzuständige Staats­anwalt dennoch keine nochmaligen Abklärungen mehr traf,
+sondern die Sache sogleich dem Kantonsgericht zur Durchführung des
+Hauptverfahrens über­wies, schliesst nun der Gesuchsteller daraus auf eine
+eklatante Verletzung von Art. 6 Abs. 2 StPO, indem es der
+Staatsanwalt unterlassen habe, entlastende Beweise abzunehmen (siehe zum
+Ganzen act. 1 S. 6 f. Ziff. 4 und act. 3/1).
+Dieser Rüge kann nicht gefolgt
+werden. Gemäss Art. 70 Abs. 1 StGB verfügt das Gericht die
+Einziehung von Vermögenswerten, die durch eine Straftat erlangt wor­den sind
+oder dazu bestimmt waren, eine Straftat zu veranlassen. Lässt sich der Umfang
+der einzuziehenden Vermögenswerte nicht oder nur mit unverhältnismässi­gem
+Aufwand ermitteln, so kann das Gericht ihn schätzen (Art. 70 Abs. 5
+StGB). Vorliegend ist die Höhe der Provision umstritten, welche der
+Gesuchsteller im Zuge der ihm angelas­teten Übertretung des Bundesgesetzes
+betreffend die Lotterien und die gewerbsmässi­gen Wetten bezogen haben soll
+(act. 1 S. 6 unten). Hierüber dürfte indes eine Schätzung so oder
+anders unumgänglich sein, da bei einem wie hier in­ternationalen Wettsystem
+(sie­he dazu act. 3/2 und act. 3/3) verlässliche Angaben, wenn
+überhaupt, nur mit unver­hältnismässig hohem Aufwand zu beschaf­fen sind.
+Insofern bedeutet es keinen gra­vierenden Verfahrensfehler, wenn vorlie­gend
+der zuständige Staatsanwalt keine weiteren Abklärungen mehr unternahm,
+sondern den Schätzentscheid gleich dem nunmehr zuständigen Kantonsgericht
+überlässt. Kommt im Übrigen dazu, dass die in der Einsprache gegen den
+Strafbe­fehl kritisierte Verwechslung zweier Websites mit hoher
+Wahrscheinlichkeit sowieso ohne Rele­vanz ist, da beide Websites vom gleichen
+Wettanbieter betrieben werden und daher, wie der Staatsanwalt in seiner
+Stellungnahme plausibel argumentiert, die Preis­systeme übereinstimmen
+dürften (act. 3/1) und insofern von vornherein keine zusätzlichen
+Abklärungen mehr notwendig sind.
+Daraus ergibt sich, dass im soeben
+behandelten Kontext dem fallführenden Staats­anwalt kein Pflichtversäumnis
+vorzuwerfen ist, welches den Anschein einer Befan­genheit erwecken würde.
+5.2.4
+Ebenso wenig
+bedeutet die vom Gesuchsteller in seinem Ausstandsgesuch des Weiteren
+erwähnte Untätigkeit des Staatsanwaltes während mehr als zwei Jah­ren eine
+schwere Amtspflichtverletzung, welche den hier verlangten Ausstand nach sich
+ziehen würde (act. 1 S. 7 f. Ziff. 5). Insoweit das
+Beschleunigungsgebot verletzt sein sollte, wäre diesem Umstand bei der
+Strafzumessung Rechnung zu tragen. Es kann dieser Aspekt aber weder für sich
+allein noch "in Kumulation" mit der unter­lassenen weiteren
+(Internet)Abklärung (siehe act. 1 S. 8 oben) zur Absetzung des fall­zuständigen
+Staatsanwaltes führen, zumal der Gesuchsteller auch nicht geltend macht, dass
+er sich bis anhin je einmal über die behauptete lange Verfahrensdauer
+beschwert hätte.
+6.
+Diesen Erwägungen zufolge ist das
+Ausstandsbegehren des Gesuchstellers gegen Staatsanwalt B.______ abzuweisen,
+soweit darauf einzutreten ist. Die Kosten für das vorliegende Verfahren sind
+auf CHF 400.- festzulegen (analog Art. 8 Abs. 2 lit. b
+der Zivil- und Strafprozesskostenverordnung [GS III A/5]) und sind aus­gangsgemäss
+dem Gesuchsteller zu überbinden (Art. 59 Abs. 4 StPO).
+____________________
+Das Gericht beschliesst:
+1.
+Das vom Gesuchsteller mit
+Eingabe vom 12. Juni 2020 erhobene Aus­standsbegeh­ren gegen Staatsanwalt
+B.______ wird abgewie­sen, soweit da­rauf einzutreten ist.
+2.
+Die Pauschalgerichtsgebühr für
+das vorliegende Ausstandsverfahren von CHF 400.- wird dem Gesuchsteller
+auferlegt und von ihm bezogen.
+3.
+Schriftliche Mitteilung an:
+[...]
