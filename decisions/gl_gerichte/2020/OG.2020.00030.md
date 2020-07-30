@@ -1,0 +1,363 @@
+---
+decision_id: "gl_gerichte_OG.2020.00030"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2020.00030"
+docket_2: "OGS.2020.61"
+decided: "2020-07-30"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1285&W10_KEY=218274&nTrefferzeile=8&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/311.0/art-069.md", "switzerland/bund/acts/312.0/art-197.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-421.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/741.01/art-090.md", "switzerland/bund/acts/741.01/art-090a.md"]
+---
+
+# GL Gerichte OG.2020.00030
+
+## Regeste
+
+Beschlagnahme eines Motorfahrzeuges
+
+## Text
+
+Glarus Obergericht 30.07.2020 OG.2020.00030 (OGS.2020.61)
+Glaris Obergericht 30.07.2020 OG.2020.00030 (OGS.2020.61)
+Glarona Obergericht 30.07.2020 OG.2020.00030 (OGS.2020.61)
+
+Beschlagnahme eines Motorfahrzeuges
+
+Kanton Glarus
+Obergericht
+Beschluss
+vom 30. Juli 2020
+Verfahren
+OG.2020.00030
+A.______
+Beschwerdeführer
+vertreten
+durch B.______
+gegen
+Staats- und Jugendanwaltschaft des
+Kantons Glarus
+Beschwerdegegnerin
+vertreten
+durch D.______
+betreffend
+Beschlagnahme
+eines Motorfahrzeuges
+über
+die Anträge
+A.
+de
+s Beschwerdeführers
+(gemäss Eingabe seines Rechtsvertreters
+vom 29. Mai 2020 [act. 2, S. 2]):
+Der
+Beschlagnahmebefehl vom 20. Mai 2020 [der Staatsanwaltschaft des Kantons
+Glarus] sei aufzuheben.
+Unter Kosten- und
+Entschädigungsfolgen (zzgl. MwSt.) zulasten der Beschwerde­gegnerin.
+B.
+de
+r
+Beschwerde
+gegner
+in
+(gemäss Eingabe vom 9. Juni 2020 [act. 7]):
+Die Beschwerde sei
+vollumfänglich abzuweisen und der Beschlagnahmebefehl vom 20. Mai 2020
+der Staatsanwaltschaft sei zu bestätigen, unter Kostenfolge zu Lasten des
+Beschwerdeführers.
+____________________
+Das
+Gericht
+zieht in Betracht:
+I.
+1.
+Die Staatsanwaltschaft des
+Kantons Glarus führt eine Strafuntersuchung gegen A.______ wegen des
+Verdachts der qualifiziert groben Verletzung von Verkehrsregeln (Art. 90
+Abs. 3 und Abs. 4 lit. c des Strassenverkehrsgesetzes, SVG).
+Dem Beschuldigten wird vorgeworfen, er habe am 15. Mai 2020 als Lenker des
+Personenwagens "Subaru WRX" mit dem Kontrollschild [...] auf der
+Landstrasse [Hauptstrasse] in Mitlödi (Gemeinde Glarus Süd) die zulässige
+Höchstgeschwindig­keit von 80 km/h um mindestens 66 km/h (nach Abzug der
+Messtole­ranz) überschrit­ten (siehe dazu act. 1 sowie act. 8/4
+S. 3 Ziff. 9-13). Mit Verfügung vom 20. Mai 2020 (act. 1)
+beschlagnahmte die Staatsanwaltschaft den verwendeten Personen­wagen im
+Hinblick auf eine mögliche spätere richterliche Einziehung (Art. 90a
+SVG).
+2.
+Am 29. Mai 2020 liess
+A.______ durch seinen Rechtsvertreter gegen den Beschlagnahmebefehl beim
+Obergericht Beschwerde erheben, wobei er kon­kret die Aufhebung der
+Beschlagnahme verlangt (act. 2).
+Die Staatsanwaltschaft beantragt
+in ihrer Stellungnahme vom 9. Juni 2020 (act. 7) die kostenfällige
+Abweisung der Beschwerde.
+Am 10. Juli 2020 reichte der
+Rechtsvertreter des Beschwerde­führers dem Ober­gericht unaufgefordert eine
+schriftliche Stellungnahme der Mutter des Beschwerde­führers ein
+(act. 10 und 11).
+II.
+1.
+Der angefochtene
+Beschlagnahmebefehl ist der Beschwerde zugänglich (Art. 393 Abs. 1
+lit. a Strafprozessordnung, StPO). Die Beschwerdefrist von zehn
+Tagen (Art. 396 Abs. 1 StPO) ist vorliegend eingehalten
+(act. 1 und act. 2). Die übrigen Prozessvoraussetzungen geben zu
+keinen Bemerkungen Anlass. Auf die Beschwerde ist einzutreten.
+2.
+Mit Beschwerde kann eine
+Rechtsverletzung und/oder eine unvollständige oder un­richtige Feststellung
+des Sachverhalts sowie Unangemessenheit gerügt werden (Art. 393
+Abs. 2 StPO). Vorliegend macht der Beschwerdeführer im Ergebnis gel­tend,
+der angefochtene Beschlagnahmebefehl sei unverhältnismässig und damit nicht
+rechtskonform. Ihm [dem Beschwerdeführer] sei nämlich inzwischen bereits der
+Führer­ausweis vorsorglich abgenommen worden und ihm drohe, sollte der hier
+im Raum stehende Tatbestand erfüllt sein, "ein Führerausweisentzug für
+immer". Weil sodann seine Mutter als faktische Halterin des beschlagnahmten
+Fahrzeuges sich schriftlich dazu verpflichtet habe, den betreffenden Wagen in
+Zukunft von ihm [dem Beschwerdeführer] fernzuhalten, ist in den Worten des
+Rechtsvertreters des Beschwerdeführers sichergestellt, "dass das
+leistungsstarke, sportliche Tatfahrzeug keine weiteren […] grobe
+Verkehrsregelverletzungen des Beschwerdeführers mehr begünstigt". Bei
+dieser Sachlage fehle es "der Einziehung und damit der Beschlag­nahme an
+der Geeignetheit, den Beschwerdeführer von weiteren groben Verkehrs­regelverletzungen
+mit dem Subaru WRX abzuhalten" und erweise sich insofern die
+Beschlagnahme als unnötig bzw. unverhältnismässig (siehe zum Ganzen
+act. 2 S. 2 ff.).
+Die Beschwerde ist, wie
+nachstehend dargelegt wird, in der Sache unbegründet und daher abzuweisen.
+3.
+3.1
+Gestützt auf
+Art. 90a Abs. 1 SVG kann das Gericht die Einziehung eines Motor­fahrzeuges
+anordnen, wenn damit eine grobe Verkehrsregelverletzung in skrupello­ser
+Weise begangen wurde und der Täter durch die Einziehung von weiteren gro­ben
+Verkehrsregelverletzungen abgehalten werden kann (sog. Sicherungsein­ziehung).
+Der Entscheid über die Einziehung
+eines Motorfahrzeuges nach Massgabe von Art. 90a Abs.
+1 SVG
+fällt allerdings erst mit dem abschliessenden Strafurteil. Damit zu
+diesem späteren Zeitpunkt das bezügliche Motorfahrzeug für die Behörde aber
+effektiv noch greifbar ist, sieht das Gesetz einen Sicherungsbehelf vor. So
+können gemäss Art. 263 Abs. 1 Ingress und lit. d StPO
+Gegenstände und Vermögenswerte einer beschuldigten Person oder einer
+Drittperson beschlagnahmt werden, wenn die Gegenstände und Vermögenswerte
+voraussichtlich einzuziehen sind. Das Instru­ment der Beschlagnahmung stellt
+somit eine strafprozessuale Mass­nahme bzw. eine sichernde (vorsorgliche)
+Prozessvorkehr dar (siehe dazu Urteil BGer 1B_26/ 2012 vom 23. Mai 2012 E.
+5.2). In diesem frühen Verfahrensstadium muss daher noch nicht verbindlich
+feststehen, ob ein beschlagnahmtes Motorfahr­zeug dereinst auch effektiv
+eingezogen wird; vielmehr genügt zur Anordnung einer Beschlag­nahme, wenn es
+aufgrund der bis dahin bekannten Umstände als bloss wahrschein­lich erscheint
+(im Sinne von "möglich", "denkbar" oder "in Frage
+kommt"), dass später eine definitive Einziehung erfolgen könnte. Der
+Beschlagnah­merichter hat mit anderen Worten die materiellen Voraussetzungen
+einer Siche­rungseinziehung noch nicht abschliessend zu beurteilen, dies
+bleibt dem Straf- und Einziehungsrichter vorbehalten. Insbesondere ist nach
+der Rechtsprechung bei qua­lifiziert groben Verletzungen der Verkehrsregeln
+nach Art. 90 Abs. 3 SVG nicht schon vom Beschlagnah­merichter im
+Untersuchungsverfahren abschliessend zu beurteilen, ob der Straf- und
+Einziehungsrichter das untersuchte Verhalten darüber hinaus auch noch als
+"skrupellos" einstufen könnte. Für eine Beschlagnahme genügt daher,
+dass ein begründeter konkreter Tatverdacht besteht, sie verhältnismässig ist
+und eine späte­re Einziehung nicht bereits aus materiellrechtlichen Gründen
+als offensichtlich unzu­lässig erscheint (Art. 197 Abs. 1 StPO). Im
+Hinblick auf eine mögliche Siche­rungs­einziehung eines beschlagnahmten
+Motorfahrzeuges hat der Beschlag­nahme­richter demnach (im Sinne einer
+Gefährdungsprognose) zu prüfen, ob das Fahrzeug in der Hand des Beschuldigten
+künftig die Verkehrssicherheit gefährdet bzw. ob die Beschlagnahme geeignet
+ist, ihn vor weiteren groben Verkehrsregelverletzungen abzuhalten (vgl. zum
+Ganzen: BGE 139 IV 250 E. 2.1 S. 252 f. und E. 2.3.3
+S. 254; BGE 140 IV 133 E. 3.4 S. 137; BSK SVG-
+Husmann
+, Art. 90a N 152;
+Weissenber­ger
+, Kommentar SVG und OBG,
+2. Aufl., Zürich/St. Gallen 2015, Art. 90a SVG N 10; BSK
+StPO-
+Bommer/Gold­schmid
+,
+Art. 263 N 37).
+3.2
+3.2.1
+Der Beschwerdeführer
+wird dringend verdächtigt, am Abend des 15. Mai 2020 auf der
+Kantonsstrasse zwischen Glarus und Mitlödi (Glarus Süd) die gesetzlich
+erlaubte Höchstgeschwindigkeit ausserorts um netto 66 km/h überschritten zu
+haben (act. 8/4 S. 3 Ziff. 9 ff.). Die entsprechende
+Sachverhaltsfeststellung im hier angefochtenen Beschlagnahmebefehl
+(act. 1) wird vom Beschwerdeführer nicht in Abrede gestellt. Folglich
+besteht vorliegend der Tatver­dacht einer
+qualifiziert groben
+Verkehrsregelverletzung bzw. Geschwindigkeitsüber­schreitung im Sinne von
+Art. 90 Abs. 3 und Abs. 4 lit. c SVG (sog.
+"Raserdelikt").
+3.2.2
+Bei einem Raserdelikt
+sind die Voraussetzungen zur (späteren) richterlichen Einziehung eines
+Motorfahrzeuges nach Massgabe von Art. 90a Abs. 1 lit. a SVG
+in der Regel erfüllt (BGE 139 IV 250 E. 2.3.3 S. 254; BSK SVG-
+Husmann
+, Art. 90a N 75).
+Weil demnach im jetzigen Verfahrensstadium eine Einziehung des vom Beschwer­deführer
+am 15. Mai 2020 gelenkten "Subaru WRX" als wahrscheinlich
+erscheint, ist insofern im Lichte von Art. 263 Abs. 1 Ingress und
+lit. d StPO die erfolgte strafpro­zessuale Beschlagnahmung dieses Fahrzeuges
+gerechtfertigt (siehe dazu auch BGE 140 IV 133 E. 4.2 und E. 4.2.1
+S. 138 f.).
+3.2.3
+Sodann bestehen
+vorliegend ausreichend konkrete Anhaltspunkte im Sinne von Art. 90a
+Abs. 1 lit. b SVG, wonach der beschlagnahmte "Subaru WRX"
+in der Hand des Beschwerdeführers künftig die Verkehrssicherheit gefährden
+bzw. dass die Einziehungsbeschlagnahme geeignet sein könnte, ihn vor weiteren
+groben bzw. qualifiziert groben Verkehrsregelverletzungen abzuhalten.
+Zunächst ist festzuhalten, dass
+es sich beim beschlagnahmten "Subaru WRX" um ein äusserst
+leistungsstarkes Auto handelt (300 PS; siehe im Internet die techni­schen
+Angaben zu "Subaru WRX STI"; siehe ferner die Bilder des
+sportlichen Wagens bei act. 8/6). Das Fahrzeug ist daher als solches
+besonders geeignet für die Begehung weiterer Geschwindigkeitsexzesse und ist
+insofern im Sinne einer allfälligen Sicherungs-Einziehung von einem letztlich
+gefährlichen Gegenstand auszugehen (dies hier in Anlehnung an Art. 69
+Abs. 1 StGB; siehe dazu
+Weissen­berger
+,
+a.a.O., Art. 90a SVG N 17).
+Sodann kann in Übereinstimmung
+mit der Staatsanwaltschaft (siehe act. 1 S. 2) dem 26‑jährigen
+Beschwerdeführer als Lenker eines Motorfahrzeuges keine güns­tige
+Legalprognose gestellt werden. Im Gegenteil: Am 18. Juni 2014 wurde er
+vom Untersuchungsamt Gossau wegen grober Verletzung der Verkehrsregeln (Tempo­überschreitung)
+zu einer bedingt vollziehbaren Geldstrafe von 30 Tagessätzen zu je
+CHF 100.- und einer Busse von CHF 800.- verurteilt und ent­zog die
+Behörde für Administrativmassnahmen im Strassenverkehr ihm deswegen den
+Führerausweis für vier Monate (act. 8/1 Ziff. 1 und act. 8/2
+S. 2). Am 11. Mai 2017 verurteilte das Kreisgericht Toggenburg den
+Beschwerdeführer wegen einer diesmal gar qualifiziert groben Tempoüberschreitung
+bzw. Verkehrsregelverletzung ("Raser­delikt") zu einer bedingten
+Freiheitsstrafe von 18 Monaten unter Ansetzung einer Probezeit von vier
+Jahren sowie einer Busse von CHF 1'500.-, wobei er nunmehr den
+Führerausweis für die Dauer von zwei Jahren abgeben musste (act. 8/1 Ziff. 2
+und act. 8/2 S. 1). Ferner ist seit September 2018 bei der
+Staatsanwalt­schaft Bischofszell eine Straf­untersuchung wiederum wegen
+grober Verkehrsregel­verletzung im Gange. Trotz bestehender Probezeit und
+einem noch laufenden Straf­verfahren sowie eben­so unbeeindruckt von den
+bisherigen Führerausweis­entzügen beging der Beschwer­deführer am
+15. Mai 2020 mit der hier in Frage stehenden Anlasstat mutmasslich
+abermals ein Raserdelikt und damit eine qualifiziert grobe
+Verkehrsregelverletzung. Beim aktuellen Verfahrensstand erscheint es deshalb
+hinreichend wahrscheinlich, dass der Beschwerdeführer mit dem beschlagnahmten
+Personenwagen "Subaru WRX" die Sicherheit von Menschen erneut
+gefährden könnte.
+3.2.4
+An den bis dahin
+aufgezeigten Umständen, welche allesamt die angefochtene Beschlagnahmung des
+"Subaru WRX" rechtfertigen, vermag auch die Tatsache nichts zu
+ändern, dass der Beschwerdeführer selber nicht offiziell Halter des betref­fenden
+Autos ist. Tatsächlich ist das Fahrzeug auf [...], den Vater des Beschwerde-führers,
+eingetragen (act. 1 S. 2).
+Eine provisorische
+Sicherungs-Beschlagnahme kann auch bei Motorfahrzeugen im Eigentum von
+Drittpersonen (Art. 263 Abs. 1 Ingress und lit. d StPO) grundsätzlich
+zulässig sein, wenn das verwendete Fahrzeug weiterhin für den Lenker
+verfügbar ist und die Beschlagnahme geeignet erscheint, weitere grobe
+Verkehrsregelverletzun­gen zu verhindern bzw. zumindest zu verzögern oder zu
+erschweren (BGE 140 IV 133 E. 3.5 S. 137 und E. 4.4
+S. 140).
+Der Vater des Beschwerdeführers
+ist seit März 2016 aufgrund einer Hirnblutung nicht mehr urteilsfähig und
+fungiert daher seine Ehegattin [...] als seine gesetzliche Vertreterin (siehe
+act. 3/4). Der Rechtsvertreter des Beschwerde­führers hat in der
+Beschwerdeeingabe die Ehegattin [...] als "fak­tische
+Fahrzeughalterin" bezeichnet (act. 2 S. 4). Diese hat im vor­liegenden
+Beschwerdeverfahren eine schriftliche Erklärung eingereicht (act. 3/3).
+Darin verpflichtet sie sich "als faktische Halterin des Fahrzeugs Subaru
+WRX", dem Beschwerdeführer ab Aufhebung des Beschlagnahmebefehls
+jeglichen Zugriff auf das "von unserer Familie genutzte" Fahrzeug
+zu verwehren, wobei sie hierzu sämt­liche Fahrzeugschlüssel permanent auf
+sich tragen oder wegschliessen wer­de. Aus Sicht des Beschwerdeführers ist
+mit der entsprechenden Verpflichtungser­klärung der Mutter
+"sichergestellt, dass das leistungsstarke, sportliche Tatfahrzeug keine
+weiteren […] Verkehrsre­gelverletzungen […] mehr begünstigt". Folglich
+fehle es der Einziehung und damit der Beschlagnahme an der Geeignetheit, ihn
+[den Beschwer­deführer] von weiteren groben Verkehrsregelverletzungen mit dem
+Subaru WRX abzuhalten, zumal ihm der Führerausweis bereits vorsorglich
+entzogen sei und er während eines früheren längeren Ausweisentzugs auch nie
+ein Fahrzeug gelenkt habe, obwohl er damals ebenso Zugriff auf ein
+Familienfahrzeug gehabt hätte (act. 2 S. 3 unten und S. 4).
+Dem Beschwerdeführer kann nicht
+gefolgt werden. Dieser wohnt mit seinen Eltern im gleichen Haushalt an der
+[...]/SG. Die Frage, wer Halter eines Motorfahrzeuges ist, beurteilt sich
+nach den tatsächlichen Verhältnis­sen; als Halter gilt namentlich, wer die
+tatsächliche und dauernde Verfügungsgewalt über das Fahrzeug besitzt und es
+in seinem Interesse oder auf seine Kosten gebraucht oder gebrauchen lässt
+(Art. 78 Abs. 1 der Verkehrszulassungsverord­nung, VZV). Obgleich
+der Vater des Beschuldigten als Halter des beschlagnahm­ten "Subaru
+WRX" registriert ist, trifft diese Qualifikation aufgrund seiner
+Invalidität nicht zu. Dies wird denn auch vom Beschwerdeführer nicht anders
+beurteilt, bezeichnet er selber doch seine Mutter als "faktische"
+Halterin. Indes erscheint auf­grund der ver­fügbaren Akten auch dies als
+unzutreffend. Der Beschwerdeführer schrieb unlängst den fraglichen
+"Subaru WRX" auf seiner eigenen Facebook-Seite zum Verkauf aus
+(act. 8/6), wobei die Fahrzeugbeschreibung mit Details versehen ist,
+wofür sich vor allem Liebhaber von leistungsstarken Fahrzeugen interessieren,
+weit weniger aber Personen, die auf der Suche nach einem Familienauto sind.
+Zudem schreibt er auf Facebook wörtlich: "
+Ich
+verkaufe
+meinen
+Subaru, da
+ich
+auf ein anderes Fahrzeug umsteigen möchte"
+(Hervorhebungen durch das Gericht). Es ist daher als Schutz­behauptung zu
+werten, wenn der Beschwerdeführer zusammen mit seiner Mutter im vorliegenden
+Beschwerdeverfahren geltend machen will, beim beschlagnahmten "Subaru
+WRX" handle es sich um deren Familienauto und man habe die Aus­schrei­bung
+auf Facebook nur gemacht, um den Marktwert des Fahrzeuges auszu­loten (siehe
+dazu act. 2 S. 4 und act. 11/1). Vielmehr ist bei der vorliegenden
+Akten­lage davon auszugehen, dass der betreffende Wagen sich unter der
+ausschliessli­chen Verfügungsgewalt des Beschwerdeführers befun­den hat bzw.
+die Mutter ihm das Fahrzeug zur freien Verfügung überlassen hat und er daher
+zum Fahrzeughalter geworden ist (siehe dazu BSK SVG-
+Probst
+, Art. 58 N 235). Mithin ist die Beschlag­nahme
+des Fahrzeugs geeignet, weitere grobe Ver­kehrsregelverlet­zungen durch den
+Beschwerdeführer zu verhindern bzw. zumindest zu verzögern. Die Massnah­me
+ist zudem auch verhältnismässig, denn aufgrund einer offenkun­digen Affinität
+des Beschwerdeführers, mit Motorfahrzeugen durch die Gegend zu rasen, lässt
+sich nicht ausschliessen, dass diese Leidenschaft trotz ent­zogenem
+Führerausweis jederzeit durchbrechen könnte, wenn er ungehinderten Zugang zum
+"Subaru WRX" hätte.
+Aber selbst wenn die Mutter des
+Beschwerdeführers als Fahrzeughalterin gälte, lässt sich aufgrund des doch
+ausgeprägten Hangs des Beschwerdeführers zu Tempofahrten nicht ausschliessen,
+dass er auch gegen den Willen der Mutter den "Subaru WRX"
+behändigen könnte, würde der Wagen nun nicht beschlagnahmt. Auch in der
+Botschaft des Bundesrates ("Via sicura") ist denn erwähnt, dass ein
+Fahrzeug, welches im Eigentum einer Drittperson steht, eingezogen werden
+kann, wenn es für den Täter weiterhin verfügbar ist, was zum Beispiel
+zutreffen kann, wenn das Fahrzeug im Eigentum eines Familienmitglieds ist
+(BBl 2010 8447, 8485).
+III.
+Aus alldem ergibt sich, dass die
+Beschwerde abzuweisen ist. Bei diesem Ausgang hat der Beschwerdeführer die
+Kosten des Beschwerdeverfahrens zu tragen (Art. 428 Abs. 1 StPO in
+Verbindung mit Art. 421 Abs. 2 StPO). Die Gerichtsgebühr für das
+Beschwerdeverfahren ist auf CHF 800.- festzulegen (Art. 8 Abs. 2
+lit. b der Zivil- und Strafprozesskostenverord­nung; GS III A/5).
+____________________
+Das Gericht
+beschliesst
+:
+1.
+Die Beschwerde wird abgewiesen.
+2.
+Die Gerichtsgebühr für das
+Beschwerdeverfahren wird festgesetzt auf CHF 800.-; sie wird dem
+Beschwerdeführer auferlegt und von ihm bezogen.
+3.
+Schriftliche Mitteilung an:
+[...]
