@@ -1,0 +1,562 @@
+---
+decision_id: "gl_gerichte_VG.2020.00032"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2020.00032"
+docket_2: "VG.2020.962"
+decided: "2020-08-13"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1290&W10_KEY=218274&nTrefferzeile=2&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/817.02/art-024.md", "switzerland/bund/acts/817.02/art-034.md", "switzerland/bund/acts/817.02/art-038.md", "switzerland/bund/acts/817.02/art-050.md", "switzerland/bund/acts/817.02/art-060.md", "switzerland/bund/acts/830.1/art-006.md", "switzerland/bund/acts/830.1/art-043.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.10/art-005.md", "switzerland/bund/acts/831.101/art-009.md", "switzerland/bund/acts/832.20/art-001.md", "switzerland/bund/acts/832.20/art-010.md", "switzerland/bund/acts/832.20/art-016.md", "switzerland/bund/acts/832.20/art-019.md"]
+---
+
+# GL Gerichte VG.2020.00032
+
+## Regeste
+
+Sozialversicherung - Unfallversicherung
+
+## Text
+
+Glarus Verwaltungsgericht 13.08.2020 VG.2020.00032 (VG.2020.962)
+Glaris Verwaltungsgericht 13.08.2020 VG.2020.00032 (VG.2020.962)
+Glarona Verwaltungsgericht 13.08.2020 VG.2020.00032 (VG.2020.962)
+
+Sozialversicherung - Unfallversicherung
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+13. August 2020
+II. Kammer
+in Sachen
+VG.2020.00032
+A.______
+Beschwerdeführer
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+Schweizerische Unfallversicherungsanstalt
+(Suva)
+Beschwerdegegnerin
+betreffend
+UVG-Leistungen
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+A.______, geboren im Jahr 1986, war seit dem 1.
+März 2013 im Vollzeitpensum bei der C.______GmbH als Bauarbeiter
+arbeitstätig. Dabei war er bei der Schweizerischen Unfallversicherungsanstalt
+(Suva) gegen die Folgen von Berufs- und Nichtberufsunfällen versichert. Am
+14. April 2016 fielen Elemente einer Betonschalung auf A.______, was bei ihm
+eine offene Unterschenkelfraktur am linken Bein verursachte.
+1.2
+Die Suva erbrachte die gesetzlichen
+Versicherungsleistungen für die Folgen dieses Berufsunfalls. Das
+Arbeitsverhältnis mit der C.______GmbH wurde im Sommer 2019 aufgelöst. Am 24.
+Juni 2019 fand die kreisärztliche Abschlussuntersuchung statt, gestützt
+worauf die Suva A.______ am 26. Juni 2019 eine Integritätsentschädigung von
+Fr. 14'820.- bei einer Integritätseinbusse von 10 % zusprach.
+Dagegen erhob A.______ am 26. August 2019 Einsprache. Nachdem die Suva am
+28. August 2019 schriftlich bestätigt hatte, dass eine künftige
+Verschlechterung des Gesundheitszustandes nicht in die Beurteilung der
+Integritätsentschädigung eingeflossen sei, zog Letzterer seine Einsprache am
+26. September 2019 zurück.
+1.3
+Am 12. September 2019 schloss die Suva den Fall ab.
+Mit Verfügung vom 4. Oktober 2019 entschied sie, A.______ bei einem
+Invaliditätsgrad von 4 % keine Invalidenrente auszurichten. Dagegen
+erhob A.______ am 4. November 2019 Einsprache, welche die Suva mit Einspracheentscheid
+vom 26. Februar 2020 abwies, wobei sie den Invaliditätsgrad auf 8 %
+festsetzte.
+2.
+A.______ gelangte in der
+Folge mit Beschwerde vom 23. März 2020 ans Verwaltungsgericht. Er
+beantragte die Aufhebung des Einspracheentscheids der Suva vom
+26. Februar 2020 und die Ausrichtung der gesetzlichen Leistungen sowie
+die Gewährung der unentgeltlichen Prozessführung und der unentgeltlichen
+Rechtsverbeiständung; alles unter Kosten- und Entschädigungsfolgen zu Lasten
+der Suva. Die Suva beantragte am 27. April 2020 die Abweisung der Beschwerde.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 1 Abs. 1 des
+Bundesgesetzes über die Unfallversicherung vom 20. März 1981 (UVG) i.V.m.
+Art. 56 ff. des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts
+vom 6. Oktober 2000 (ATSG) i.V.m. Art. 1 des Einführungsgesetzes zum
+Bundesgesetz über die Unfallversicherung vom 3.
+Mai 2009 (EG UVG) zur Behandlung der vorliegenden
+Beschwerde zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt
+sind, ist auf die Beschwerde einzutreten.
+1.2
+Soweit der Beschwerdeführer in seiner
+Beschwerdeschrift die Durchführung eines zweiten Schriftenwechsels beantragt,
+ist er darauf hinzuweisen, dass aufgrund der gesetzlich vorgesehenen
+Raschheit des Verfahrens kein Anspruch auf einen solchen besteht. Vielmehr
+liegt die Anordnung eines zweiten Schriftenwechsels im Ermessen des Gerichts.
+Die Parteien haben jedoch Anspruch darauf, von allen beim Gericht
+eingereichten Stellungnahmen Kenntnis zu erhalten und sich dazu zu äussern,
+weshalb das Gericht alle Eingaben den Parteien wenigstens zur Kenntnisnahme
+zustellen muss. Die Zustellung zur Kenntnisnahme ist insbesondere dann nicht
+zu beanstanden, wenn von den Parteien erwartet werden kann, dass sie
+unaufgefordert dazu Stellung nehmen, wovon bei rechtskundig vertretenen
+Personen ausgegangen werden darf (Susanne Bollinger, in Ghislaine
+Frésard-Fellay/Barbara Klett/Susanne Leuzinger [Hrsg.], Basler Kommentar,
+Allgemeiner Teil des Sozialversicherungsrechts, 2020, Art. 61 N. 7, mit
+Hinweisen).
+Die Beschwerdeantwort der
+Beschwerdegegnerin wurde nach deren Erhalt umgehend dem rechtskundig
+vertretenen Beschwerdeführer zur Kenntnisnahme zugestellt. In der Folge hat
+dieser darauf verzichtet, eine Stellungnahme dazu abzugeben. Ebenso wenig hat
+er um Ansetzung einer Frist zum Einreichen einer Stellungnahme ersucht.
+Folglich ist davon auszugehen, dass er sich im vorliegenden Verfahren in
+genügender Weise äussern konnte, weshalb kein zweiter Schriftenwechsel
+anzuordnen ist.
+1.3
+Ferner beantragt der Beschwerdeführer die Edition
+der Akten der Invalidenversicherung. Da sich das vorliegende Verfahren auf
+die Berechnung des Invaliditätsgrads beschränkt (vgl. E. II/6
+nachfolgend), ist nicht ersichtlich, was den IV-Akten an verfahrensrelevanten
+Informationen zu entnehmen wäre, zumal der Beschwerdeführer seinen Antrag
+nicht entsprechend begründet. Folglich ist auf den Beizug der IV-Akten zu
+verzichten.
+2.
+2.1
+Der Versicherte hat gemäss Art. 10 Abs. 1 UVG
+Anspruch auf die zweckmässige Behandlung seiner Unfallfolgen. Ist er infolge
+des Unfalls voll oder teilweise arbeitsunfähig (Art. 6 ATSG), so hat er
+gemäss Art. 16 Abs. 1 UVG Anspruch auf ein Taggeld. Der Anspruch auf ein
+Taggeld entsteht am dritten Tag nach dem Unfalltag. Er erlischt mit der
+Wiedererlangung der vollen Arbeitsfähigkeit, mit dem Beginn einer Rente oder
+mit dem Tod des Versicherten (Art. 16 Abs. 2 UVG).
+2.2
+Kann von der Fortsetzung der
+ärztlichen Behandlung keine namhafte Besserung des Gesundheitszustands
+erwartet werden und laufen keine Eingliederungsmassnahmen der
+Invalidenversicherung, hat der Versicherer den Fall unter Einstellung der vor-übergehenden
+Leistungen abzuschliessen und den Anspruch auf eine Invalidenrente und auf
+eine Integritätsentschädigung zu prüfen (Art. 19 Abs. 1 UVG;
+BGE 137 V 199 E. 2.1).
+2.3
+Ein Rückfall liegt vor, wenn eine scheinbar geheilte
+Schädigung erneut eine ärztliche Behandlung erforderlich macht und
+gegebenenfalls sogar eine Arbeitsunfähigkeit verursacht. Als Spätfolge gilt,
+wenn eine scheinbar geheilte Verletzung im Verlauf der Zeit zu einem oftmals
+völlig anders gearteten Krankheitsbild führt, das eine ärztliche Behandlung
+erforderlich macht und möglicherweise die Arbeits- oder Erwerbsfähigkeit
+beeinträchtigt. Rückfälle und Spätfolgen können eine Leistungspflicht des
+Unfallversicherers nur dann auslösen, wenn zwischen den erneut geltend
+gemachten Beschwerden und der seinerzeit unfallbedingten
+Gesundheitsschädigung ein natürlicher und adäquater Kausalzusammenhang
+besteht (BGE 118 V 293 E. 2c).
+3.
+Der
+Versicherungsträger prüft die Begehren, nimmt die notwendigen Abklärungen von
+Amtes wegen vor und holt die erforderlichen Auskünfte ein (Art. 43
+Abs. 1 ATSG). Im Rahmen der Verfahrensleitung kommt ihm ein grosser
+Ermessensspielraum bezüglich Notwendigkeit, Umfang und Zweckmässigkeit von
+medizinischen Erhebungen zu. Was zu beweisen ist, ergibt sich aus der
+jeweiligen Sach- und Rechtslage. Gestützt auf den Beweisgrad ist der
+Sachverhalt so weit zu ermitteln, dass über den Leistungsanspruch zumindest
+mit dem Beweisgrad der überwiegenden Wahrscheinlichkeit entschieden werden
+kann (BGer-Urteil 8C_815/2012 vom 21. Oktober 2013 E. 3.2.1).
+4.
+4.1
+Der Beschwerdeführer macht geltend, sein
+Gesundheitszustand habe sich seit der ärztlichen Abschlussuntersuchung
+verschlechtert, weshalb er seit Dezember 2019 wieder teilweise
+krankgeschrieben sei. Das ärztlich umschriebene Leistungsprofil sei nicht
+mehr aktuell, stattdessen sei davon auszugehen, dass er auch in einer
+leidensangepassten Tätigkeit nur eingeschränkt arbeitsfähig sei, was sich
+nicht zuletzt aus der zugesprochenen Integritätsentschädigung ergebe. In
+Bezug auf das Valideneinkommen sei nicht ersichtlich, aus welchem Grund sein
+Ferien- und Feiertagsentgelt nicht berücksichtigt worden sei, würden diese
+doch AHV-pflichtige Lohnbestandteile darstellen. Auch hätte die
+Beschwerdegegnerin prüfen müssen, ob er überhaupt Ferien bezogen und
+Mehrstunden geleistet habe. Sodann sei zu beachten, dass der
+13. Monatslohn auf den ganzen Jahreslohn auszurichten sei, wozu auch die
+geleisteten Zulagen zählen würden. In Bezug auf das Invalideneinkommen sei es
+nicht sachgerecht, die LSE 2016 heranzuziehen. Stattdessen sei auf das
+statistische Durchschnittseinkommen der Branche abzustellen, da er insbesondere
+sämtliche schweren oder kognitiv anspruchsvollen Tätigkeiten nicht mehr
+ausüben könne. Sodann sei vorliegend ein leidensbedingter Abzug von
+mindestens 15 % angemessen, da sein Leistungsprofil beachtlich
+eingeschränkt sei, weshalb ihm insbesondere seine angestammte Tätigkeit auf
+dem Bau nicht mehr zumutbar sei.
+4.2
+Die Beschwerdegegnerin hält fest, dass anlässlich
+der kreisärztlichen Abschlussuntersuchung ein ausgezeichneter medizinischer
+Endzustand vorgelegen habe. Folglich sei der Fall zu Recht abgeschlossen
+worden. Im vorliegenden Beschwerdeverfahren sei der Gesundheitszustand des
+Beschwerdeführers zur Zeit der Rentenverfügung Ende September 2019
+massgebend. Einwendungen des Beschwerdeführers, welche sich auf seinen
+Gesundheitszustand nach dem vorerwähnten Zeitpunkt beziehen würden, seien als
+Rückfallmeldung entgegengenommen worden und würden von ihr nun abgeklärt.
+Entsprechend bildeten diese vorliegend nicht Verfahrensgegenstand. Ferner
+habe bei der Festsetzung des Validenlohns die Ferien- wie auch die
+Feiertagsentschädigung unberücksichtigt zu bleiben, was ebenso für die
+Mittagszulage gelte. Aus den Akten ergebe sich zudem kein Hinweis auf eine
+Mehrarbeit, weshalb ein entsprechender Zuschlag nicht zur Diskussion stehe.
+Was das Invalideneinkommen betreffe, sei praxisgemäss auf die LSE 2016
+abzustellen, zumal der Beschwerdeführer noch jung sei und ihm eine
+vielfältige Palette an Berufen im Sektor Produktion zur Verfügung stehe. Ein
+leidensbedingter Abzug sei sodann nicht vorzunehmen, da keine Anhaltspunkte
+dafür vorhanden seien, dass der Beschwerdeführer seine volle Arbeitsfähigkeit
+in einer leidensangepassten Tätigkeit auf dem ausgeglichenen Arbeitsmarkt nur
+mit unterdurchschnittlichem Einkommen verwerten könne, umfasse doch das
+Kompetenzniveau 1 eine Vielzahl an leichten Tätigkeiten und zudem auch
+Nischenarbeitsplätze mit einem sozialen Entgegenkommen des Arbeitgebers.
+5.
+Einleitend ist
+festzuhalten, dass im vorliegenden Verfahren jener Sachverhalt
+rechtserheblich ist, welcher sich bis zum massgeblichen Zeitpunkt der
+angefochtenen Verfügung bzw. des angefochtenen Einspracheentscheids
+entwickelt hat (vgl. BGE 131 V 362 E. 1b). Tatsachen, die
+sich nach dem Verfügungserlass ereignet haben, sollen grundsätzlich
+Gegenstand einer neuen Verfügung bilden (Bollinger, Art. 61 N. 39).
+Daher bildet vorliegend die Verfügung der Beschwerdegegnerin vom
+4. Oktober 2019 bzw. deren Einspracheentscheid vom 26. Februar
+2020 Verfahrens-gegenstand. Die vom Beschwerdeführer nach dem Erlass der
+vorerwähnten Verfügung von Anfang Oktober 2019 geltend gemachte
+Verschlechterung seines Gesundheitszustands stellt eine Rückfallmeldung dar,
+welche von der Beschwerdegegnerin gemäss deren Ausführungen in der
+Beschwerdeantwort als solche entgegengenommen wurde. Somit obliegt es der Beschwerdegegnerin,
+den geltend gemachten Rückfall abzuklären, hat sie doch den diesbezüglichen
+Sachverhalt von Amtes wegen festzustellen (Art. 43 Abs. 1 ATSG).
+Anschliessend wird sie über die vom Beschwerdeführer im Rahmen des Rückfalls
+geltend gemachten Ansprüche mittels separater, anfechtbarer Verfügung
+entscheiden. Folglich ist auf die diesbezüglichen Ausführungen des
+Beschwerdeführers im vorliegenden Verfahren nicht weiter einzugehen.
+Stattdessen ist auf das Leistungsprofil des Beschwerdeführers gemäss der kreisärztlichen
+Abschlussuntersuchung vom 24. Juni 2019 abzustellen, gegen welches der
+Beschwerdeführer keine Einwendungen erhebt.
+Da der Beschwerdeführer
+den von der Beschwerdegegnerin vorgenommenen Einkommensvergleich beanstandet,
+sind nachfolgend das Validen- und das Invalideneinkommen zu bestimmen und
+gestützt darauf ist der Invaliditätsgrad zu berechnen.
+6.
+6.1
+6.1.1
+Für
+die Ermittlung des Valideneinkommens ist entscheidend, was der Versicherte im
+Zeitpunkt des Rentenbeginns nach dem Beweisgrad der überwiegenden Wahrscheinlichkeit
+als Gesunder tatsächlich verdient hätte
+.
+Dabei wird in
+der Regel beim zuletzt erzielten, nötigenfalls der Teuerung und der realen
+Einkommensentwicklung angepassten Verdienst angeknüpft, da es einer
+empirischen Erfahrung entspricht, dass die bisherige Tätigkeit ohne
+Gesundheitsschaden fortgesetzt worden wäre. Grundsätzlich ist dabei auf die
+konkreten Lohnangaben des ehemaligen Arbeitgebers abzustellen, wenn
+angenommen werden kann, der Beschwerdeführer wäre, wäre er nicht invalid geworden,
+mit überwiegender Wahrscheinlichkeit weiterhin beim selben Arbeitgeber tätig
+(vgl. dazu BGE 134 V 322 E. 4.1; 129 V 222
+E. 4.3.1).
+Für
+die Ermittlung des hypothetischen Valideneinkommens ist relevant, was
+grundsätzlich zum massgebenden Lohn gemäss dem Bundesgesetz über die Alters-
+und Hinterlassenenversicherung vom 20. Dezember 1946 (AHVG) zu zählen ist
+(BGer-Urteil 8C_465/2009 vom 12. Februar 2010 E. 2.1, mit
+Hinweisen). Als massgebender Lohn nach Art. 5 Abs. 2 AHVG gilt jedes Entgelt
+für in unselbständiger Stellung auf bestimmte oder unbestimmte Zeit
+geleistete Arbeit. Er umfasst unter anderem auch Teuerungs- und andere
+Lohnzulagen sowie Ferien- und Feiertagsentschädigungen (vgl. Art. 7
+der Verordnung über die Alters- und Hinterlassenenversicherung vom
+31. Oktober 1947 [AHVV]).
+6.1.2
+Der Beschwerdeführer erhebt zu Recht keine
+Einwendungen dagegen, dass die Beschwerdegegnerin zur Bestimmung des
+Valideneinkommens die Lohnangaben seiner früheren Arbeitgeberin heranzog. Aus
+den Akten zeigt sich, dass der Beschwerdeführer im Jahr 2019 einen
+Stundenlohn von Fr. 28.- erzielt hätte. Darauf ist abzustellen, wird
+doch damit der Mindestlohn für Bauarbeiter ohne Fachkenntnisse gemäss
+Art. 41 Abs. 2 des Landesmantelvertrages des Schweizerischen
+Bauhaupt-gewerbes der Jahre 2019 – 2022 (LMV) nicht unterschritten.
+6.1.3
+Für die Berechnung des Valideneinkommens ist die
+jährliche Arbeitszeit von 2'112 Stunden ausschlaggebend
+(vgl. Art. 24 Abs. 2 LMV sowie den Bundesrats-beschluss über
+die Allgemeinverbindlicherklärung des Landesmantelvertrages für das
+Bauhauptgewerbe vom 6. Februar 2019). Dabei handelt es sich um die
+Bruttoarbeitszeit vor Abzug von Ferien und Feiertagen, da in Art. 24
+Abs. 1 LMV die jährliche Arbeitszeit explizit als Bruttosollarbeitszeit
+vor Abzug der allgemeinen Nichtleistungsstunden definiert wird. Damit sind
+von der Jahresarbeitszeit von 2'112 Stunden die Ferien (5 Wochen à
+40.5 Stunden = 202.5 Stunden; vgl. Art. 34 Abs. 1
+LMV) abzuziehen. Die acht Feiertage nach Art. 38 Abs. 1 LMV sind hingegen
+nicht zu subtrahieren, da sie wie normale Arbeitszeit zu entschädigen sind
+(Art. 38 Abs. 2 LMV; vgl. BGer-Urteil 8C_61/2012 vom 25. April 2012
+E. 2.6, 9C_232/2010 vom 13. Oktober 2010 E. 3.2, 8C_1028/2009
+vom 21. Mai 2010 E. 9.3). Zu berücksichtigen bleibt die
+Ferienentschädigung von 10,6 % gemäss Art. 34 Abs. 1 LMV, woraus
+folglich ein Jahreseinkommen von Fr. 59'133.40 (1'909.5 x Fr. 28.-
+x 1.106) resultiert. Würde hingegen der Argumentation des Beschwerdeführers
+gefolgt und die Ferien- sowie die Feiertagsentschädigung ausgehend von der
+Bruttosollarbeitszeit von 2'112 Stunden berechnet, würden die Feiertage
+wie auch die Ferientage doppelt berücksichtigt, was nicht sachgerecht wäre.
+Insofern der Beschwerdeführer überdies der Ansicht ist, die
+Beschwerdegegnerin hätte abzuklären, ob er die Ferien auch tatsächlich
+bezogen hatte, ist er darauf hinzuweisen, dass der Bezug von Ferien während
+der Dauer des Arbeitsverhältnisses nicht durch Geldleistungen oder andere
+Vergünstigungen abgegolten werden darf (vgl. Art. 329d Abs. 3
+i.V.m. Art. 362 Abs. 1 des Obligationenrechts vom 30. März
+1911 [OR]). Daraus darf geschlossen werden, dass der Beschwerdeführer die
+Ferien auch tatsächlich bezogen hat, zumal er keine gegenteiligen
+Ausführungen macht. Sodann zeigt sich aus den Lohnabrechnungen des
+Beschwerdeführers, dass er von April 2015 bis und mit April 2016
+weniger als die Nettoarbeitszeit von 1'909.5 Stunden arbeitete, was zum
+einen auf einen tatsächlichen Bezug der Ferien hindeutet. Zum anderen kann daraus
+ebenfalls geschlossen werden, dass der Beschwerdeführer keine Mehrstunden
+leistete, woraus folgt, dass entgegen dessen Ansicht nicht zu prüfen ist, ob
+ein Mehrstundenzuschlag zu gewähren ist.
+6.1.4
+Weiter ist der 13. Monatslohn in der Höhe von
+8,33 % gemäss Art. 50 Abs. 1 LMV anzurechnen. Dabei ist zu
+beachten, dass auch der während den Ferien bezogene Lohn in die Berechnung
+des 13. Monatslohns miteinzubeziehen ist, was sich explizit aus Ziffer
+301 Anhang 8 des LMV ergibt (vgl. BGer-Urteil 8C_61/2012 vom 25.
+April 2012 E. 2.6). Nicht zu berücksichtigen
+ist bei der Berechnung des 13. Monatslohns der entrichtete Zuschlag für
+die Reisezeit, sofern deren Abrechnung aufgrund von vereinbarten pauschalen
+Frankenbeiträgen erfolgt (vgl. Anhang 8 Ziffer 503 LMV). Da
+der Beschwerdeführer mit seinem ehemaligen Arbeitgeber eine tägliche
+Entschädigung für Reisezeit von pauschal Fr. 11.- vereinbarte, entfällt
+deren Berücksichtigung bei der Berechnung des 13. Monatslohns. Folglich
+ergibt sich ein Jahreseinkommen von Fr. 64'059.20 (Fr. 59'133.40 +
+8,33%).
+6.1.5
+Dass die vereinbarte und entrichtete
+Reisezeitentschädigung einen Lohnbestandteil darstellt, ist unbestritten.
+Dabei ist zu beachten, dass während den Ferien wie auch während den
+Feiertagen keine Reisezeitentschädigung ausgerichtet wird, weshalb die
+Ferientage und die Feiertage diesbezüglich unberücksichtigt zu bleiben haben.
+Folglich ist eine Reisezeitentschädigung für 227.4 Arbeitstage
+([2'112 Stunden Jahresarbeitszeit – 202.5 Ferienstunden] /
+[40.5 Wochenstunden / 5 Arbeitstage pro Woche] – 8 Feiertage =
+227.74 Arbeitstage pro Jahr) in die Berechnung miteinzubeziehen, womit
+Fr. 2'505.15 (227.74 x Fr. 11.-) dem Valideneinkommen
+hinzuzurechnen sind.
+6.1.6
+Soweit die Beschwerdegegnerin bei der Festsetzung des
+Valideneinkommens die dem Beschwerdeführer entrichtete Mittagszulage von
+jeweils Fr. 15.- nicht berücksichtigte, ist ihr nicht zu folgen. Denn ob
+die Mittagszulage in die Berechnung des versicherten Verdienstes und des
+Valideneinkommens einzubeziehen ist, hängt davon ab, ob sie eine regelmässige
+Entschädigung für die übliche Verpflegung am Wohnort oder am gewöhnlichen
+Arbeitsort war, welche zum massgebenden Lohn gehört (Art. 9 Abs. 2
+AHVV; BGer-Urteil 8C_430/2010 vom 28. September 2010 E. 6.3). Aus
+den Lohnabrechnungen der Monate April 2015 bis April 2016 zeigt
+sich, dass dem Beschwerdeführer allmonatlich eine Mittagszulage entrichtet
+wurde. Deren Anzahl stimmt zudem jeweils mit der Anzahl der ausbezahlten
+Reisezeitentschädigungen überein, woraus einzig folgen kann, dass sich der
+gewöhnliche Arbeitsort des Beschwerdeführers auf auswärtigen Baustellen
+befand. Entsprechend stellte die Mittagszulage eine Abgeltung für
+Verpflegungskosten dar, womit es sich bei der Mittagszulage um der
+AHV-Beitragspflicht unterliegenden massgeblichen Lohn handelt (vgl. auch
+Art. 60 Abs. 2 LMV). Da die Mittagszulage während den Ferien und
+den Feiertagen nicht entrichtet wird, rechtfertigt es sich, eine jährliche
+Mittagszulage von Fr. 3'416.10 (227.74 Arbeitstage pro Jahr x Fr. 15.-)
+bei der Festsetzung des Valideneinkommens zu berücksichtigen. Diese ist
+jedoch bei der Berechnung des 13. Monatslohns ausser Acht zu lassen
+(vgl. Anhang 8 Ziffer 601 LMV).
+Zusammenfassend beträgt
+das gesamte Jahreseinkommen und damit das Valideneinkommen des
+Beschwerdeführers Fr. 69'980.45 ([Fr. 59'133.40 + 8,33 %] +
+Fr. 2'505.15 Reisezeitentschädigung + Fr. 3'416.10 Mittagszulage).
+6.2
+6.2.1
+Für die Ermittlung des Invalideneinkommens ist
+primär von der beruflich-erwerblichen Situation auszugehen, in welcher die
+versicherte Person konkret steht. Übt sie nach Eintritt der Invalidität keine
+Erwerbstätigkeit aus, namentlich weil die versicherte Person nach Eintritt
+des Gesundheitsschadens keine oder jedenfalls keine an sich zumutbare neue
+Erwerbstätigkeit aufgenommen hat, so ist auf Erwerbstätigkeiten abzustellen,
+die der versicherten Person angesichts ihrer Ausbildung und ihrer physischen
+sowie intellektuellen Eignung zugänglich wären. Rechtsprechungsgemäss werden
+hierzu die Tabellenlöhne der Lohnstrukturerhebung des Bundesamts für
+Statistik (LSE) herangezogen (BGE 129 V 472 E. 4.2.1).
+Ausnahmsweise kann bei
+Personen, welche vor der Gesundheitsschädigung lange Zeit in diesem Bereich
+tätig waren und bei denen eine Arbeit in anderen Bereichen kaum in Frage
+kommt, auf das statistische Durchschnittseinkommen einzelner Branchen
+abgestellt werden, wenn dies sachgerecht erscheint, um der im Einzelfall
+zumutbaren erwerblichen Verwertung der verbleibenden Arbeitsfähigkeit
+Rechnung zu tragen (vgl. BGer-Urteil 8C_457/2017 vom 11. Oktober
+2017 E. 6.2, mit Hinweisen).
+6.2.2
+Dem Beschwerdeführer ist gemäss dem ärztlich
+umschriebenen Leistungsprofil eine bis knapp mittelschwere (regelmässig bis
+15 kg, ausnahmsweise auch 20 bis 25 kg), wechselbelastende Tätigkeit
+vollschichtig und vollzeitig zumutbar. Nicht zumutbar sind Tätigkeiten in der
+Höhe mit Absturzgefahr sowie Tätigkeiten auf unebenem Boden oder in
+abschüssigem Gelände, kniende Tätigkeiten sowie Tätigkeiten, die zu heftigen
+Erschütterungen und Vibrationen des linken Beins führen. Entsprechend ist
+auch die früher ausgeübte Tätigkeit als Bauhilfsarbeiter andauernd nicht mehr
+möglich. Hingegen gibt es insbesondere im Bereich der Produktion verschiedene
+Tätigkeiten, welche er mit dem soeben umschriebenen Leistungsprofil ausüben
+kann. Zwar war der Beschwerdeführer seit seiner Einreise in die Schweiz bis
+zu seinem Unfall sieben Jahre auf dem Bau tätig. Daraus kann jedoch nicht
+geschlossen werden, dass für ihn keine andere Tätigkeit in einem anderen
+Bereich in Frage kommen würde, zumal er erst 34 Jahre alt ist.
+Entsprechend liegt kein Ausnahmefall vor, welcher das Abstellen auf das
+statistische Durchschnitts-einkommen der Baubranche rechtfertigen würde.
+Stattdessen ist die LSE 2016 für die Festsetzung des Invalideneinkommens
+heranzuziehen.
+Auszugzugehen ist von
+Tabelle TA1, Kompetenzniveau 1, Total Männer, welche ein monatliches
+Einkommen von Fr. 5'340.- für Männer ausweist. Aufgerechnet auf ein Jahr
+und die übliche Arbeitszeit von 41,7 Stunden resultiert so ein Einkommen
+von Fr. 66'803.40 (Fr. 5'340.- x 12 x 41,7 / 40). Indexiert auf das
+Jahr 2019 ergibt sich ein Invalideneinkommen von Fr. 68'012.60
+(Fr. 66'803.40 x 1.004 x 1.005 x 1.009).
+6.3
+6.3.1
+Wird das Invalideneinkommen wie vorliegend auf der
+Grundlage von statistischen Durchschnittswerten ermittelt, ist der
+entsprechende Ausgangswert allenfalls zu kürzen. Praxisgemäss können
+persönliche und berufliche Merkmale der versicherten Person wie Alter, Dauer
+der Betriebszugehörigkeit, Nationalität oder Aufenthaltskategorie sowie
+Beschäftigungsgrad einen Abzug von dem nach den Tabellenlöhnen der LSE zu
+ermittelnden Invalideneinkommen rechtfertigen, soweit anzunehmen ist, dass
+die trotz des Gesundheitsschadens verbleibende Leistungsfähigkeit infolge
+eines oder mehrerer dieser Merkmale auf dem allgemeinen Arbeitsmarkt nur mit
+unterdurchschnittlichem Einkommen verwertet werden kann
+(BGE 134 V 322 E. 5.2, mit Hinweis). Ein Abzug soll aber
+nicht automatisch, sondern nur dann erfolgen, wenn im Einzelfall Anhaltspunkte
+dafür bestehen, dass die versicherte Person wegen eines oder mehrerer dieser
+Merkmale ihre gesundheitlich bedingte (Rest-)Arbeitsfähigkeit auf dem
+allgemeinen Arbeitsmarkt nur mit unterdurchschnittlichem Einkommen verwerten
+kann. Bei der Bestimmung der Höhe des Abzugs ist der Einfluss aller in
+Betracht fallenden Merkmale auf das Invalideneinkommen unter Würdigung der
+Umstände im Einzelfall gesamthaft zu schätzen und insgesamt auf höchstens
+25 % des Tabellenlohns zu begrenzen (vgl. zum Ganzen BGE 126 V 75).
+Die Frage, ob ein Abzug nach
+Massgabe der Grundsätze von
+BGE 126 V 75
+vorzunehmen sei, ist rechtlicher Natur, die
+Bestimmung der Höhe eines solchen Abzugs dagegen Ermessensfrage (BGer-Urteil
+8C_530/2015, 8C_563/2015 vom 6. Januar 2016 E. 6.1.2).
+6.3.2
+Vorliegend
+ist mit Blick auf das von Dr. D.______ umschriebene Zumutbarkeitsprofil
+von einem genügend breiten Spektrum
+an zumutbaren Verweisungstätigkeiten auszugehen, welche keine besondere
+Beanspruchung des linken Unterschenkels erfordern. So stehen dem
+Beschwerdeführer beispielsweise in stehender wie auch in sitzender Position
+auszuführende Hilfsarbeiten in der Produktion offen, welche auf dem ausgeglichenen
+Arbeitsmarkt grundsätzlich altersunabhängig nachgefragt werden.
+Ferner ist der Beschwerdeführer im Rahmen eines
+Vollzeitpensums arbeitsfähig, wobei es die ihm auferlegten Einschränkungen
+der angepassten Arbeitstätigkeit nicht als unrealistisch erscheinen lassen,
+eine Arbeitsstelle zu finden (vgl. BGer-Urteil I 69/07 vom 2. November
+2007 E. 5.1 f). Sodann rechtfertigt allein der Umstand, dass ihm
+höchstens nur noch bis knapp mittelschwere Erwerbstätigkeiten zumutbar sind,
+keinen Abzug vom Tabellenlohn (vgl. BGer-Urteil 8C_82/2019 vom
+19. September 2019 E. 6.3.2). Die eingeschränkte Belastbarkeit des
+Beschwerdeführers sowie seine Schmerzen sind überdies bereits bei der
+Umschreibung des ihm zumutbaren Leistungsprofils berücksichtigt worden. Dies
+kann unter dem Titel des Tabellenlohnabzugs nicht erneut und damit doppelt
+beachtet werden. Weitere Gründe für einen allfälligen Abzug sind schliesslich
+nicht ersichtlich und werden vom Beschwerdeführer auch nicht substantiiert
+dargelegt. Der pauschale Hinweis darauf, dass er aufgrund seines bereits
+erlittenen Unfalls mit einem unterdurchschnittlichen Einkommen rechnen müsse,
+genügt zumindest nicht für die Gewährung eines Abzugs vom Tabellenlohn.
+Der Vollständigkeit halber
+hinzuweisen bleibt darauf, dass die Beschwerdegegnerin im vorinstanzlichen
+Verfahren einen Abzug vom Tabellenlohn von 5 % gewährte. Diesbezüglich
+ist festzuhalten, dass das Verwaltungsgericht nach Art. 61 lit. d
+ATSG an die Begehren der Parteien nicht gebunden ist und daher die Beschwerde
+gestützt auf einen anderen Grund als die Vorinstanz abweisen darf
+(BGE 140 V 136 E. 1.1). Da auch die Beschwerdegegnerin im
+Dispositiv des Einspracheentscheids zum Schluss kam, dass kein
+rentenbegründender Invaliditätsgrad gegeben ist, liegt keine Schlechterstellung
+des Beschwerdeführers vor, welche die Gewährung einer vorgängigen Gelegenheit
+zur Stellungnahme nötig gemacht hätte (vgl. Art. 61 lit. d
+ATSG; Bollinger, Art. 61 N. 51).
+6.4
+Stellt man unter Anwendung des Einkommensvergleichs
+das Invalideneinkommen von
+Fr.
+68'012.60 dem jährlichen Valideneinkommen von
+Fr. 69'980.45 gegenüber, resultiert ein unfallversicherungsrechtlicher
+Invaliditätsgrad von gerundet 3 %, was keinen Anspruch des
+Beschwerdeführers auf eine Invalidenrente der Unfallversicherung begründet.
+Dies führt zur Abweisung
+der Beschwerde.
+III.
+1.
+Die Gerichtskosten sind
+von Gesetzes wegen auf die Staatskasse zu nehmen (Art. 1 Abs. 1 UVG
+i.V.m. Art. 61 lit. a ATSG).
+Da der Beschwerdeführer unterliegt, steht ihm keine
+Parteientschädigung zu (Art. 1 Abs. 1 UVG i.V.m. Art. 61 lit. g
+ATSG e contrario).
+2.
+2.1
+Der Beschwerdeführer beantragt die Gewährung der
+unentgeltlichen Prozessführung und der unentgeltlichen Rechtsverbeiständung.
+Gemäss Art. 139 Abs. 1 des Gesetzes über die Verwaltungsrechtspflege
+vom 4. Mai 1986 (VRG) befreit die Behörde eine Partei, der die Mittel
+fehlen um neben dem Lebensunterhalt für sich und ihre Familie die
+Verfahrenskosten aufzubringen, auf Gesuch hin ganz oder teilweise von der
+Kosten- und Vorschusspflicht, sofern das Verfahren nicht aussichtslos ist.
+Der
+Nachweis der Bedürftigkeit obliegt nach Art. 139 Abs. 3 VRG der
+gesuchstellenden Partei.
+2.2
+Da die Gerichtskosten auf die Staatskasse zu nehmen
+sind, ist das
+Gesuch um Gewährung der unentgeltlichen Prozessführung
+als gegenstandslos geworden abzuschreiben.
+2.3
+Die Mittellosigkeit des Beschwerdeführers erscheint
+aufgrund der Aktenlage als offensichtlich. Zudem kann das
+vorliegende
+Verfahren nicht als aussichtslos bezeichnet werden. Da der Beschwerdeführer
+auf eine rechtliche Vertretung angewiesen war, ist das Gesuch um
+unentgeltliche Rechtsverbeiständung gutzuheissen und ihm ist in der Person
+von Rechtsanwalt B.______
+ein
+unentgeltlicher Rechtsbeistand zu bestellen. Dieser ist mit Fr. 2'000.-
+(inkl. Mehrwertsteuer) zu entschädigen. Der Beschwerdeführer ist darauf
+hinzuweisen, dass eine Partei, der die unentgeltliche Rechtspflege bewilligt
+worden ist, für den Fall, dass sie später in günstige wirtschaftliche
+Verhältnisse gelangt, zur Nachzahlung der Verfahrenskosten verpflichtet
+werden kann (Art. 139a VRG).
+Demgemäss beschliesst die Kammer
+:
+1.
+Das
+Gesuch des Beschwerdeführers um Gewährung der unentgeltlichen
+Prozessführung wird als gegenstandslos geworden abgeschrieben.
+2.
+Das
+Gesuch des Beschwerdeführers um Gewährung der unentgeltlichen
+Rechtsverbeiständung wird gutgeheissen. Ihm wird in der Person von
+Rechtsanwalt B.______ ein unentgeltlicher Rechtsbeistand bestellt.
+3.
+Der Rechtsbeistand wird zu
+Lasten der Gerichtskasse mit Fr. 2'000.- (inkl. Auslagen und
+Mehrwertsteuer) entschädigt.
+4.
+Die Nachzahlungspflicht gemäss
+Art. 139a VRG bleibt vorbehalten.
+5.
+Die
+Gerichtskasse wird beauftragt, spätestens im August 2025 zu prüfen, ob die
+Voraussetzungen für die Nachzahlung erfüllt sind.
+und erkennt sodann
+:
+1.
+Die Beschwerde wird abgewiesen.
+2.
+Die Gerichtskosten werden auf die Staatskasse
+genommen.
+3.
+Eine Parteientschädigung wird nicht zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
