@@ -1,0 +1,708 @@
+---
+decision_id: "gl_gerichte_VG.2018.00114"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2018.00114"
+docket_2: "VG.2020.969"
+decided: "2020-08-27"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1303&W10_KEY=218274&nTrefferzeile=10&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/451/art-018.md", "switzerland/bund/acts/814.01/art-007.md", "switzerland/bund/acts/814.01/art-008.md", "switzerland/bund/acts/814.01/art-010.md", "switzerland/bund/acts/814.20/art-004.md", "switzerland/bund/acts/814.20/art-009.md", "switzerland/bund/acts/814.20/art-029.md", "switzerland/bund/acts/814.20/art-030.md", "switzerland/bund/acts/814.20/art-031.md", "switzerland/bund/acts/814.201/art-033.md", "switzerland/bund/acts/923.0/art-008.md", "switzerland/bund/acts/923.0/art-009.md"]
+---
+
+# GL Gerichte VG.2018.00114
+
+## Regeste
+
+Anderes
+
+## Text
+
+Glarus Verwaltungsgericht 27.08.2020 VG.2018.00114 (VG.2020.969)
+Glaris Verwaltungsgericht 27.08.2020 VG.2018.00114 (VG.2020.969)
+Glarona Verwaltungsgericht 27.08.2020 VG.2018.00114 (VG.2020.969)
+
+Anderes
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+27. August 2020
+I. Kammer
+in Sachen
+VG.2018.00114
+1.
+Pro Natura, Schweizerischer Bund für
+Naturschutz
+Beschwerdeführer
+2.
+Pro Natura Glarus
+3.
+WWF Schweiz
+4.
+WWF Sektion Glarus
+5.
+Schweizerischer Fischerei-Verband (SVF)
+6.
+Kantonaler Fischereiverband Glarus
+alle vertreten durch
+Rechtsanwalt
+A.______
+gegen
+Landrat des Kantons Glarus
+Beschwerdegegner
+vertreten durch
+Rechtsanwalt
+B.______
+und
+Hefti Hätzingen AG
+Beigeladene
+vertreten durch
+Rechtsanwalt
+C.______
+betreffend
+Wasserrechtskonzession
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Die Hefti Hätzingen AG stellte beim Regierungsrat am
+21. Dezember 2015 ein Konzessionsgesuch für die Nutzung des Brummbachs auf
+dem Gebiet der ehemaligen Gemeinde Braunwald (heute: Gemeinde Glarus Süd)
+zwischen den Koten 1'268 m ü. M. und 1'076 m ü. M. Dabei soll unterhalb der
+Zentrale des bestehenden Kraftwerks (KW) Brummbach ein Übergabebecken
+errichtet werden. Das durch das KW Brummbach genutzte Wasser, welches bisher
+dem Brummbach zurückgegeben wird, soll neu mittels Druckleitung abgeleitet
+und in einer neuen Zentrale bei der Fassung des KW der Kraftwerke Linthal AG
+(früher: Spinnerei Linthal AG) verarbeitet werden. Geplant war, dass das
+turbinierte Wasser in den Entsander des KW der Kraftwerke Linthal AG
+eingeleitet wird. Gemäss Schreiben der Hefti Hätzingen AG vom 6. März 2020
+soll neu aus verschiedenen Gründen das Triebwasser direkt in den Brummbach
+ausgeleitet werden.
+1.2
+Der Landrat erteilte der Hefti Hätzingen AG am 29.
+August 2018 die Konzession für die Ausnützung der Wasserkraft des Brummbachs
+zwischen der Höhe 1'268 m ü. M. und der Höhe 1'076 m ü. M.
+2.
+2.1
+Dagegen gelangten die Pro Natura, Schweizerischer
+Bund für Naturschutz, die Pro Natura Glarus, der WWF Schweiz, der WWF Glarus,
+der Schweizerische Fischerei-Verband sowie der kantonale Fischereiverband mit
+Beschwerde vom 22. Oktober 2018 ans Verwaltungsgericht. Sie beantragten
+die Aufhebung des Genehmigungsentscheids bzw. der Konzession; unter Kosten-
+und Entschädigungsfolgen.
+2.2
+Das Verwaltungsgericht lud am 23. Oktober 2018 die
+Hefti Hätzingen AG ins Verfahren bei. Diese beantragte am 21. Januar 2019 die
+Abweisung der Beschwerde; unter Kosten- und Entschädigungsfolgen. Der Landrat
+beantragte gleichentags ebenfalls die Abweisung der Beschwerde, soweit darauf
+einzutreten sei; unter Kosten- und Entschädigungsfolgen.
+2.3
+Das Verwaltungsgericht führte am 28. Oktober 2019 in
+Anwesenheit der Parteien einen Augenschein vor Ort durch.
+2.4
+Die Pro Natura, Schweizerischer Bund für
+Naturschutz, die Pro Natura Glarus, der WWF Schweiz, der WWF Glarus, der
+Schweizerische Fischerei-Verband sowie der kantonale Fischereiverband hielten
+in ihrer Replik vom 17. Januar 2020 an ihren Rechtsbegehren fest.
+2.5
+Der Landrat schloss in seiner Duplik vom 10. März
+2020 weiterhin auf Abweisung der Beschwerde, soweit darauf einzutreten sei.
+Ferner beantragte er verschiedene Korrekturen des Augenscheinprotokolls. Die
+Hefti Hätzingen AG hielt in ihrer Duplik vom 19. März 2020 ebenfalls am
+Antrag auf Abweisung der Beschwerde fest.
+2.6
+Das Verwaltungsgericht stellte den Parteien am 20.
+März 2020 eine berichtigte Version des Augenscheinprotokolls zu.
+II.
+1.
+Beim vorliegend
+angefochtenen Konzessionsentscheid handelt es sich nicht um einen Entscheid
+mit vorwiegend politischem Charakter im Sinne von Art. 86 Abs. 3 des Gesetzes
+über das Bundesgericht vom 17. Juni 2005 (BGG), weshalb nicht der Landrat
+anstelle eines Gerichts als unmittelbare Vorinstanz des Bundesgerichts
+eingesetzt werden kann (BGE 136 II 436 E. 1.3). Daher ist das
+Verwaltungsgericht zur Behandlung der vorliegenden Beschwerde zuständig,
+obwohl Entscheide des Landrats im Grundsatz nicht beim Verwaltungsgericht
+anfechtbar sind (vgl. Art. 105 Abs. 1 des Gesetzes über die
+Verwaltungsrechtspflege vom 4. Mai 1986 [VRG]). Da auch die übrigen
+Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde einzutreten.
+2.
+2.1
+Angefochten ist vorliegend die Konzessionserteilung
+durch den Landrat. Nach Art. 170 Abs. 1 des
+Gesetzes über die Einführung des Schweizerischen
+Zivilgesetzbuches im Kanton Glarus vom 7. Mai 1911 (EG ZGB) ist bei Flüssen
+und Bächen, die an ihren beiden Ufern die Liegenschaften verschiedener
+Eigentümer bespülen, jeder Ufereigentümer berechtigt, für gewerbliche Zwecke
+die vorhandene Wasserkraft zur Hälfte zu benützen, sofern nicht wohlerworbene
+Rechte eine andere Verteilung begründen. Ein Ufereigentümer kann über das ihm
+von Gesetzes wegen zustehende Wasserrecht als selbstständiges Recht verfügen.
+Das Wasserrecht steht im Kanton Glarus demnach den Grund-
+bzw. Ufereigentümern zu. Dies hat zur Folge, dass das kantonale Recht
+aufgrund eines entsprechenden Vorbehalts in Art. 2 Abs. 2 des
+Bundesgesetzes vom 22. Dezember 1916 über die Nutzbarmachung der Wasserkräfte
+(Wasserrechtsgesetz, WRG) weiterhin anwendbar bleibt und das
+Wasserrechtsgesetz des Bundes nur sehr beschränkt gilt. Nicht anwendbar ist
+insbesondere der gesamte dritte Teil des Wasserrechtsgesetzes betreffend die
+Verleihung von Wasserrechten durch Konzession.
+Nach Art. 178 Abs.
+1 i.V.m. Art. 177 Abs. 1 lit. a EG ZGB hat der Kanton das Recht, Wasserkräfte
+gegen volle Entschädigung zu enteignen. Von diesem Vorrecht hat er mit dem
+Beschluss über Verwertung von Wasserkräften im Kanton Glarus vom 5. Mai
+1918 Gebrauch gemacht.
+Die Konzession des
+Landrats ist folglich nicht eine Konzession nach dem Wasserrechtsgesetz des
+Bundes, da dem Uferanstösser das Recht auf Wasserkraftnutzung ja bereits von
+Gesetzes wegen zusteht. Sie beinhaltet vielmehr einerseits den Verzicht des
+Kantons auf Ausübung seines Enteignungsrechts und andererseits die aus den
+verschiedenen Spezialgesetzen resultierenden Anforderungen zur Nutzbarmachung
+der Wasserkraft (vgl. zum Ganzen BGer-Urteil 2C_812/2011 vom
+18. Januar 2012 E. 2.2, 2E_3/2009 vom 11. Juli 2011 E. 3;
+Romana Kronenberg Müller, Der Heimfall im Glarner Wasserrecht, in ZBl 2012/113,
+S. 283 ff., 295 ff.).
+2.2
+Das Verfahren gestaltet sich im Kanton
+Glarus zweistufig. Die Konzession wird durch den Landrat erteilt. Die
+Konzessionserteilung ist nur dann zulässig, wenn das Vorhaben in Einklang mit
+den wasserpolizeilichen und umweltschutzrechtlichen Vorgaben des Bundes und
+des Kantons steht. Dabei werden bereits in der Konzession die wesentlichen
+Rechte und Pflichten festgeschrieben. Die erforderlichen Bewilligungen mit
+den detaillierten Auflagen werden hingegen in einer zweiten Stufe koordiniert
+eröffnet (vgl. Art. 4 der Konzession). Zu denken ist dabei etwa an
+die Baubewilligung, die Bewilligung zur Wasserentnahme nach
+Art. 29 des Bundesgesetzes über den Schutz der
+Gewässer vom 24. Januar 1991 (Gewässerschutzgesetz, GSchG), die Bewilligung
+zur Wasserentnahme nach Art. 13 Abs. 1 des Einführungsgesetzes zum
+Bundesgesetz über den Schutz der Gewässer vom 7. Mai 1995 (EG GSchG),
+die Bewilligung nach Art. 5 Abs. 1 des
+Energiegesetzes vom 5. Mai 2000 (EnG) oder die Bewilligung nach Art. 8 des
+Bundesgesetzes über die Fischerei vom 21. Juni 1991 (BGF).
+3.
+3.1
+In Art. 7 der angefochtenen Konzession wurde eine
+Restwassermenge von 20 l/s (1. November bis 30. April)
+bzw. 50 l/s (1. Mai bis 31. Oktober) im Brummbach
+(Bezugsort Höhe 1'250 m ü. M.) festgelegt, solange das
+Brummbachwerk Wasser führt. Zwischen den Parteien ist strittig, ob das
+Vorhaben der Beigeladenen einer Bewilligung nach Art. 29 lit. a GSchG bedarf.
+Sollte dies der Fall sein, bestünde ein Konflikt zwischen Art. 7 der Konzession
+und den Vorgaben von Art. 30 ff. GSchG.
+3.2
+3.2.1
+Die Beschwerdeführer machen geltend, dem
+Rechtskonstrukt, wonach eine Kraftwerkserweiterung vorliegen soll, könne
+nicht gefolgt werden. Die Konzession des Oberliegerwerks sage nichts zu einer
+möglichen Kraftwerkserweiterung. Die hier strittige Konzession sei zudem als
+neue Konzession mit eigenen Fristen ausgestaltet. Die Bewilligungspflicht
+nach Art. 29 GSchG diene in erster Linie der Sicherung angemessener
+Restwassermengen. Die Ansicht, wonach die "Nicht-Rückgabe" des
+Wassers des Oberliegerwerks nicht als Wasserentnahme am Ort der
+"Nicht-Rückgabe" zu qualifizieren sei, laufe dem Gesetzeszweck
+diametral entgegen. Die Anwendung von Art. 31 ff. GSchG würde damit
+umgangen, was keinen Rechtsschutz verdiene. Von einer Wasserentnahme werde
+gesprochen, wenn einem Fliessgewässer Wasser entnommen werde, so dass dieses
+Wasser unterhalb der Entnahmestelle in der Restwasserstrecke fehle und eine
+Restwassersituation bzw. eine Reduktion der Abflüsse entstehe. Die
+"Nicht-Rückgabe" des Wassers habe genau diese Auswirkungen. Es
+entstehe eine neue Restwasserstrecke bzw. eine neue Restwassersituation
+mit (stark) reduzierten Abflüssen. Folglich sei die Ableitung des in der
+Zentrale des KW Brummbachs genutzten und bisher dem Brummbach zurückgegebenen
+Wassers als Wasserentnahme im Sinne von Art. 29 lit. a GSchG zu
+qualifizieren.
+3.2.2
+Der Beschwerdegegner und die Beigeladene vertreten
+hingegen die Auffassung, massgebender Ort für die Bestimmung der
+Wasserentnahme sei die Fassung des Oberliegerwerks KW Brummbach auf
+1'435 m ü. M. Dabei handle es sich unbestrittenermassen um ein
+Fliessgewässer mit nicht ständiger Wasserführung. Das strittige KW Walchen
+übernehme das Betriebswasser des Oberliegerwerks. Es werde keine neue Fassung
+erstellt und nicht zusätzlich Wasser aus einem Fliessgewässer entnommen. Das
+Zwischeneinzugsgebiet zwischen der Fassung auf 1'435 m ü. M.
+und dem Überleitungsbecken auf 1'268 m ü. M. bleibe ungenutzt. Selbst wenn
+man aber den Standort auf 1'268 m ü. M. als massgebend erachte, sei keine
+Bewilligung nach Art. 29 lit. a GSchG notwendig, da der Brummbach
+auch hier nicht ständig Wasser führe.
+3.3
+Nach Art. 29 lit. a GSchG braucht eine Bewilligung,
+wer über den Gemeingebrauch hinaus einem Fliessgewässer mit ständiger
+Wasserführung Wasser entnimmt. Eine ständige Wasserführung bedeutet, dass die
+Abflussmenge Q
+347
+grösser als Null ist (Art. 4 lit. i
+GSchG). Q
+347
+ist dabei die Abflussmenge, die gemittelt über zehn
+Jahre, durchschnittlich während 347 Tagen des Jahres erreicht oder
+überschritten wird und die durch Stauung, Entnahme oder Zuleitung von Wasser
+nicht wesentlich beeinflusst ist (Art. 4 lit. h GSchG). Art. 33 Abs. 1 der
+Gewässerschutzverordnung vom 28. Oktober 1998 (GSchV) bestimmt, dass für
+Wasserentnahmen von Fliessgewässern, die Abschnitte mit und Abschnitte ohne
+ständige Wasserführung aufweisen, eine Bewilligung erforderlich ist, wenn das
+Fliessgewässer am Ort der Wasserentnahme eine ständige Wasserführung
+aufweist. Nach Art. 33 Abs. 2 GSchV sorgt die Behörde dafür, dass die nach
+den Bundesgesetzen vom 1. Juli 1966 über den Natur- und Heimatschutz (NHG)
+und vom 21. Juli 1991 über die Fischerei (BGF) erforderlichen Massnahmen
+getroffen werden, wenn das Gewässer am Ort der Wasserentnahme keine ständige
+Wasserführung aufweist. Der Begriff der Wasserentnahme ist dabei wörtlich zu
+verstehen: Damit eine Wasserentnahme vorliegt, muss Wasser einem Gewässer
+entnommen und an einen anderen Ort geleitet werden (Veronika Huber-Wälchli,
+in Peter Hettich et al. [Hrsg.], Kommentar zum Gewässerschutzgesetz und zum
+Wasserbaugesetz, Zürich/Basel/Genf 2016, Art. 29 N. 26).
+3.4
+Der Landrat erteilte die Konzession für die
+Ausnützung der Wasserkraft des Brummbachs zwischen den Höhenkoten 1'450 m ü.
+M. und 1'250 m ü. M. am 24. April 2013. Dabei war unbestritten, dass der
+Brummbach am Ort der Wasserfassung auf 1'435 m ü. M. nicht ständig Wasser
+führt (vgl. etwa den Bericht des Bundesamts für Umwelt [BAFU] vom 13.
+November 2012), weshalb keine Bewilligung nach Art. 29 GSchG erforderlich
+war. Im Gegensatz zur vorliegend strittigen Konzession
+(vgl. Art. 7) sah die Konzession für das KW Brummbach keine
+Restwassermenge vor.
+3.5
+Aus gewässerschutzrechtlicher Sicht besteht
+grundsätzlich keine Pflicht, das durch das KW Brummbach verarbeitete Wasser
+in den Brummbach zurückzuleiten. Durch das geplante KW Walchen wird nun
+dem Brummbach nicht zusätzliches Wasser entzogen, sondern das durch das
+KW Brummbach verarbeitete Wasser erneut verarbeitet, anstatt es dem
+Brummbach zurückzugeben. Besteht nun aber keine Pflicht zur Wasserrückgabe am
+Standort des neuen KW Walchen, kann im Lichte der
+gewässerschutzrechtlichen Bestimmungen nicht von einer neuen Wasserentnahme
+gesprochen werden, nur weil das Wasser auf der Höhe des Standorts des neuen Kraftwerks
+nicht mehr in den Brummbach zurückgeleitet wird. Mit anderen Worten erfolgt
+die Wasserentnahme im Sinne von Art. 29 lit. a GSchG und Art. 33
+GSchV bei der Fassung des bestehenden KW Brummbach auf 1'435 m ü. M.
+Deutlich wird dies, wenn
+man dem Beispiel der Beigeladenen folgt und davon ausgeht, beide Kraftwerke
+wären gleichzeitig erstellt worden. Es ist offensichtlich, dass in einem
+solchen Fall der Ort der Wasserentnahme beim Oberliegerwerk angenommen würde.
+Schliesslich ist auch das BAFU dieser Ansicht. In seinem Bericht vom
+19. September 2016 führt es zutreffend aus, beim Brummbach handle es
+sich auf 1'435 m ü. M. um ein Fliessgewässer ohne ständige
+Wasserführung. Da das KW Walchen das Betriebswasser des Oberliegers
+direkt übernehme und das Zwischeneinzugsgebiet des Brummbachs weiterhin
+ungenutzt bleibe, sei auch hierfür keine Bewilligung nach Art. 29 GSchG
+erforderlich.
+3.6
+Sodann besteht entgegen der Auffassung der
+Beschwerdeführer auch kein Widerspruch, weil keine Bewilligung nach Art. 29
+GSchG, hingegen eine solche nach Art. 13 EG GSchG verlangt wird. Im
+Gegensatz zu Art. 29 GSchG ist eine Bewilligung nach Art. 13 EG GSchG auch
+dann erforderlich, wenn Wasser aus Gewässern entnommen wird, die nicht
+ständig Wasser führen. Das geplante Vorhaben der Beigeladenen hat demnach zur
+Folge, dass die für das KW Brummbach am 12. Oktober 2012 nach
+Art. 13 EG GSchG erteilte Bewilligung für die Wasserentnahme durch eine
+neue Bewilligung ersetzt werden muss.
+3.7
+Im Übrigen legen der Augenschein und die
+verschiedenen Begehungen nahe, dass der Brummbach auch beim Standort, an
+welchem bisher das Wasser zurückgegeben wurde, nicht ständig Wasser führt. Da
+dieser Standort für die Frage der Bewilligungspflicht nach Art. 29 GSchG nach
+dem Gesagten nicht massgebend ist, kann dies jedoch offengelassen werden.
+4.
+4.1
+Dass das Vorhaben der Beigeladenen nicht nach
+Art. 29 GSchG bewilligungspflichtig ist und demzufolge aus dem
+Gewässerschutzgesetz keine Pflicht zur Restwasserabgabe besteht, hat aber
+nicht zur Folge, dass die Konzession ohne Weiteres erteilt werden durfte.
+4.2
+4.2.1
+Die Beschwerdeführer vertreten diesbezüglich die
+Auffassung, dass vorliegend Interessen der Fischerei betroffen seien, da es
+sich beim Brummbach im fraglichen Abschnitt um ein Fischgewässer handle. Die
+gewässerökologischen Abklärungen reichten als Grundlage für eine Konzession
+keinesfalls aus. Szenarien mit unterschiedlicher Dotierung fehlten
+vollständig. Ohne Belege werde im Mitbericht der Abteilung Umweltschutz und
+Energie behauptet, dass die Fischwanderung in der neuen Restwasserstrecke
+auch weiterhin problemlos gewährleistet sein werde. Eine ständige
+Wasserführung bedeute jedoch noch lange nicht, dass auch die freie
+Fischwanderung gewährleistet sei. Es sei auch nicht untersucht worden, ob
+unter den geplanten Restwasserverhältnissen weiterhin eine natürliche
+Reproduktion der Forelle stattfinden könne. Ferner sei nicht untersucht
+worden, ob die beiden Zoobenthos Arten (Siphonoperla montana und Metanoea
+flavipennis) bei geringerer Wasserführung überhaupt überleben könnten. Dies
+sei mit Art. 9 BGF nicht vereinbar. Die Gesamtbeurteilung der Rechtmässigkeit
+einer Konzession bedürfe überdies einer genauen Prüfung der
+Wirtschaftlichkeit der Anlage. Eine solche sei vorliegend nicht vorgenommen
+worden. Die Auswirkungen wie auch der Umfang des Nutzungsrechts und der
+Wirtschaftlichkeit der Nutzung seien nur ungenügend vorgenommen worden, was
+eine genügende Interessenabwägung verunmögliche. Die Bewilligung nach Art. 8
+BGF hätte überdies aus koordinationsrechtlichen Gründen bereits bei
+Konzessionserteilung vorliegen müssen. Auch müsste die Realisierbarkeit der
+Ersatzmassnahmen bereits beim Konzessionsentscheid nachgewiesen sein, was
+vorliegend nicht der Fall sei.
+4.2.2
+Der Beschwerdegegner und die Beigeladene führen
+hingegen aus, der Brummbach sei frühestens ab der Alp "Unter
+Stafel" ein fischgängiges Gewässer. Erst oberhalb des Zuflusses des
+Tschudibergbachs und des Zillibachs, etwas unterhalb der grossen
+Quellaufstösse, werde der Brummbach als Fischgewässer mit geringer Produktion
+klassiert. Der Gewässerabschnitt sei jedoch zunächst sehr steil und weise
+hohe Abstürze auf. Als bedeutenderes Fischgewässer sei lediglich der unterste
+Abschnitt des Brummbachs ab Wasserfassung des KW der Kraftwerke Linthal AG zu
+beurteilen. Dieser Abschnitt werde vom vorliegend strittigen Kraftwerk aber
+nicht tangiert. Ab der Alp "Unter Stafel" weise der Brummbach zudem
+unabhängig von den Wassermengen im Oberlauf wegen mehrerer Quellaufstösse
+eine ständige Wasserführung auf. Insgesamt werde das geplante Kraftwerk in
+einem Gebiet realisiert, welches weder aus landschaftlichen noch aus
+ökologischen Gesichtspunkten von besonderer Bedeutung sei. Es liege weder in
+einem Natur- oder Landschaftsgebiet noch in einem inventarisierten Gebiet.
+Hinsichtlich der Nutzung sei festzuhalten, dass das Bundesamt für Energie
+(BFE) das Projekt als sinnvoll bezeichnet habe. Die erteilte Konzession
+beruhe auf einer umfassenden Abwägung der Interessen für bzw. gegen die
+Nutzung der Wasserkraft. Schliesslich entspreche es den glarnerischen
+Besonderheiten, dass die erforderlichen Bewilligungen erst in einer zweiten
+Stufe erteilt würden. Auch die Detailplanung der Ersatzmassnahmen erfolge
+erst auf dieser Stufe. Dies widerspreche nicht dem bundesrechtlichen
+Koordinationsprinzip, wonach ein Konzessionsentscheid die Bewilligungen nicht
+präjudizieren dürfe und widersprüchliche Entscheide vermieden werden müssten.
+Mit den vom Kanton im Konzessionsverfahren verlangten Untersuchungen und
+Abklärungen und den vorgenommenen Abwägungen würden solche widersprüchliche
+Entscheide vermieden, wenn auch die formelle Bewilligungserteilung erst in
+einer zweiten Stufe erfolge.
+4.3
+4.3.1
+Zunächst ist zu prüfen, ob die Konzessionserteilung
+gegen die bundesrechtliche Koordinationspflicht verstösst, lagen die
+erforderlichen Bewilligungen doch im Zeitpunkt der Konzessionserteilung nicht
+vor. Bei einem Verstoss gegen die Koordinationspflicht wäre die Beschwerde
+ohne Weiteres gutzuheissen, was weitere Ausführungen erübrigen würde.
+4.3.2
+Wie dargelegt (E. II/2.2), gestaltet sich das
+Verfahren im Kanton Glarus zweistufig. Erst nach der Konzessionserteilung
+durch den Landrat werden die notwendigen Bewilligungen koordiniert eröffnet.
+Art. 4 der strittigen
+Konzession sieht demzufolge in Abs. 1 vor, dass es für den Bau und
+Betrieb der für die Ausübung der Wasserrechte notwendigen Werkanlagen
+verschiedener Spezialbewilligungen gestützt auf Gesetze des Kantons und des
+Bundes bedarf, insbesondere auch einer Baubewilligung. Art. 4
+Abs. 2 der Konzession führt aus, dass den Anforderungen, die sich aus
+der Anwendung dieser Gesetze ergeben, mit den nachfolgenden
+Konzessionsvorschriften Rechnung getragen wird. Art. 4 Abs. 3
+regelt, dass der Entscheid gemäss kantonalem Energiegesetz (Plangenehmigung)
+koordiniert mit den übrigen notwendigen Bewilligungen zu eröffnen ist. Bei
+der Bestimmung von Art. 4 handelt es sich um eine Regel, die so wörtlich
+stets in den jüngeren Konzessionen zu finden ist.
+4.3.3
+Es entspricht der besonderen Rechtsnatur der Glarner
+Konzession, mit welcher der Kanton in erster Linie auf die Ausübung seines
+Enteignungsrechts verzichtet, dass der zweiten Verfahrensstufe eine grössere
+Bedeutung zukommt als in anderen Kantonen. Dies ist jedoch hinsichtlich der
+Koordinationspflicht nicht zu beanstanden, da bei der Konzessionserteilung
+die Vereinbarkeit des Vorhabens mit dem kantonalen und dem Bundesrecht
+geprüft wird und die wesentlichen Anforderungen in die
+Konzessionsvorschriften aufgenommen werden. Dass die erforderlichen
+Bewilligungen formell erst nach der Konzessionserteilung erteilt und
+allenfalls hinsichtlich der Auflagen präzisiert werden, steht unter diesen
+Umständen dem Koordinationsprinzip nicht entgegen. Nachfolgend ist daher zu
+prüfen, ob die Konzession die Anforderungen des kantonalen und des
+Bundesrechts einhält.
+4.4
+4.4.1
+So muss die kantonale Behörde unter anderem nach
+Art. 33 Abs. 2 GSchV dafür sorgen, dass die nach dem NHG und dem
+BGF notwendigen Massnahmen getroffen werden, wenn das Gewässer am Ort der
+Wasserentnahme wie vorliegend keine ständige Wasserführung aufweist.
+Nach Art. 8 Abs. 1 BGF
+brauchen Eingriffe in die Gewässer, ihren Wasserhaushalt oder ihren Verlauf
+sowie Eingriffe in die Ufer und den Grund von Gewässern eine Bewilligung der
+für die Fischerei zuständigen kantonalen Behörde (fischereirechtliche
+Bewilligung), soweit sie die Interessen der Fischerei berühren können. Eine
+Bewilligung braucht insbesondere auch die Nutzung der Wasserkräfte
+(Art. 8 Abs. 3 lit. a BGF). Die zur Erteilung der
+fischereirechtlichen Bewilligung zuständigen Behörden haben nach Art. 9 Abs.
+1 BGF unter Berücksichtigung der natürlichen Gegebenheiten und allfälliger
+anderer Interessen alle Massnahmen vorzuschreiben, die geeignet sind günstige
+Lebensbedingungen für die Wassertiere zu schaffen unter anderem hinsichtlich
+der Mindestabflussmengen bei Wasserentnahmen (lit. a Ziff. 1); die freie
+Fischwanderung sicherzustellen (lit. b); die natürliche Fortpflanzung zu
+ermöglichen (lit. c); zu verhindern, dass Fische und Krebse durch bauliche
+Anlagen oder Maschinen getötet oder verletzt werden (lit. d). Lassen sich bei
+den vorgesehenen Eingriffen in die Gewässer, ihren Wasserhaushalt oder ihren
+Verlauf sowie bei Eingriffen in die Ufer und den Grund von Gewässern keine
+Massnahmen finden, die schwerwiegende Beeinträchtigungen von Interessen der
+Fischerei in Sinne von Art. 1 verhindern können, so muss nach der
+Abwägung der Gesamtinteressenlage entschieden werden (Art. 9 Abs. 2
+BGF). Massnahmen nach Abs. 1 müssen bereits bei der Projektierung der
+technischen Eingriffe vorgesehen werden (Art. 9 Abs. 3 BGF).
+4.4.2
+Auf dem ersten Abschnitt ab dem geplanten
+KW Walchen weist der Brummbach über ca. 300 m ein relativ grosses
+Gefälle mit grösseren Abstürzen und Überfällen aus. Dieser Abschnitt ist
+aufgrund der Steilheit nicht fischgängig. Im zweiten, ca. 800 m
+langen Abschnitt ist die Strecke etwas flacher. Dieser Abschnitt führt
+unbestritten ganzjährig Wasser. Gemäss dem Bericht der WFN – Wasser Fisch
+Natur AG (nachfolgend: WFN) vom 12. Mai 2016 ist der obere Abschnitt
+kein Fischgewässer. Der untere Abschnitt wird hingegen als Fischgewässer mit
+geringer Produktion eingeschätzt. Aufgrund der Topographie ist der
+Fischaufstieg von den unteren Gewässerstrecken jedoch praktisch unmöglich. Der
+vorhandene etablierte Fischbestand stammt laut dem Bericht mit grösster
+Wahrscheinlichkeit aus früheren Besatzmassnahmen. Das ökologische Potential
+des zweiten Abschnitts wird als klein bis mittel eingestuft.
+4.4.3
+Wie dargelegt hat das strittige Vorhaben der
+Beigeladenen zur Folge, dass das durch das KW Brummbach gefasste und
+verarbeitete Wasser nicht mehr auf der Höhe von ca. 1'265 m ü. M. in den
+Brummbach zurückgegeben wird, sondern erst beim Kraftwerk der Kraftwerke
+Linthal AG auf der Höhe von 1'076 m ü. M. Art. 7 der Konzession sieht
+dabei eine Restwassermenge von 20 l/s (1. November bis 30. April)
+bzw. 50 l/s (1. Mai bis 31. Oktober) vor, solange das
+KW Brummbach Wasser führt. Das Restwasser soll etwas oberhalb der oberen
+Brücke Richtung Nussbüel in den Brummbach eingeleitet werden.
+Es ist erneut darauf
+hinzuweisen, dass die Wasserentnahme aus dem Brummbach an einer Stelle
+erfolgt, wo der Brummbach im Winter während drei bis vier Monaten kein Wasser
+führt. Sodann ist davon auszugehen, dass die Ausbauwassermenge des geplanten
+KW Walchen von 700 l/s im Sommer unter den natürlichen
+Abflussmengen liegt. Dies relativiert aus fischereirechtlicher Sicht die
+Schwere des Eingriffs, da der Fischbestand weder davon abhängt, ob dem
+Brummbach beim KW Brummbach Wasser entnommen wird, noch ob und wo dieses
+Wasser in den Brummbach zurückgeleitet wird.
+Aus dem Bericht der WFN
+geht denn auch nicht hervor, dass die Nichtrückgabe des Wassers den
+Fischbestand gefährden würde, wobei das ökologische Potential des Gewässers
+als gering (oberer Abschnitt) bzw. klein bis mittel (unterer Abschnitt)
+eingeschätzt wird. Der Verfasser stellt vielmehr in Frage, ob die
+Restwasserdotierung ausreiche, um der landschaftlichen Bedeutung des
+Gewässers gerecht zu werden. Die Abteilung Jagd und Fischerei stellt sich dem
+Projekt vor allem entgegen, weil sie den Eingriff in das Gewässer im
+Vergleich zum Nutzen des Projekts als zu erheblich erachtet. Das BAFU als im
+Bereich des BGF zuständige Bundesbehörde unterstützt das Vorhaben inklusive
+der geplanten Restwassermenge, wobei es sich zu den fischereirechtlichen
+Belangen nicht äussert. Daraus lässt sich einzig der Schluss ziehen, dass es
+das Vorhaben als aus fischereirechtlicher Sicht unproblematisch ansieht. Die
+Abteilung und Umwelt führt in ihrem Mitbericht schliesslich aus, dass sich
+die Fischpopulation im genutzten Abschnitt des Brummbachs auf den untersten,
+flachen Abschnitt konzentriere, der durch Zuflüsse und Quellen ständig Wasser
+führe und in dem die Fischwanderung kein Problem darstelle.
+Das vorliegend strittige
+Projekt bedarf nach dem Dargelegten (vgl. E. II/3) keiner
+Bewilligung nach Art. 29 lit. a GSchG. Es widerspricht nun der
+gesetzlichen Konzeption, wenn die Beschwerdeführer auf dem Umweg über
+Art. 9 BGF dennoch die Restwassermengen im Sinne von
+Art. 30 ff. GSchG anwenden wollen. Die Bedeutung der Dotierung des
+Brummbachs mit Restwasser liegt denn auch in erster Linie nicht in
+fischereirechtlichen Gründen, sondern in der Absicht, den Eingriff in die
+Landschaft zu minimieren. Insgesamt bestehen keine überzeugenden Gründe
+dafür, dass die Bewilligung nach Art. 8 BGF zu verweigern wäre. Hingegen
+sind die fischereirechtlichen Belange in die Gesamtinteressenabwägung
+miteinzubeziehen.
+4.5
+4.5.1
+Eine solche Gesamtinteressenabwägung hat die
+federführende kantonale Abteilung Umwelt und Energie im Hinblick auf die
+Bewilligungserteilung nach Art. 13 EG GSchG vorgenommen. Dabei kam sie
+zum Schluss, dass die Interessen für die Wasserentnahme knapp überwiegen
+würden.
+4.5.2
+Ob die Interessen vollständig erfasst wurden, ist
+Rechtsfrage. Die relative Gewichtung der potentiell widerstreitenden
+Interessen ist hingegen weitgehend Ermessensfrage (BGer- Urteil 1C_270/2019
+vom 27. Februar 2020 E. 3.2). Das Verwaltungsgericht greift dabei
+nicht ohne Not in das Ermessen seiner Vorinstanzen ein.
+4.5.3
+Die durch die kantonale Fachbehörde nach der
+Methodik der Interessen für und gegen eine Wasserentnahme vorgenommene
+Interessenabwägung, welche dazu führte, dass die Bewilligungserteilung nach
+Art. 13 EG GSchG in Aussicht gestellt wurde, hält vor Verwaltungsgericht aus
+den nachfolgenden Gründen stand:
+Zentral ist in erster
+Linie, dass das Vorhaben zur Energiestrategie 2050 des Bundesrats beiträgt.
+Die Anlage nützt noch vorhandenes Wasserkraftpotential und ist zweckmässig
+konzipiert (vgl. dazu den Bericht des Bundesamts für Energie vom
+2. August 2016). Entgegen der Annahme der Abteilung Jagd und Fischerei
+kann der voraussichtliche Energieertrag von rund 3,5 GWh nicht als
+gering bezeichnet werden, entspricht dies doch etwa dem durchschnittlichen
+jährlichen Energieverbrauch von rund 1'000 Haushalten. Daneben sprechen
+weitere öffentliche Interessen für das Projekt wie etwa die Einnahmen durch
+die Wasserzinse oder die Bereitstellung von Löschwasser in einem schlecht
+erschlossenen Gebiet. Im Gegenzug greift das Vorhaben auf einer Strecke von
+gut 1'100 m in den Brummbach ein. Dabei gilt es aber zu berücksichtigen,
+dass der Brummbach weder in einem Naturschutzgebiet noch in einem
+Landschaftsschutzgebiet liegt. Er ist auch in keinem Inventar verzeichnet.
+Eine stärkere landschaftliche Bedeutung hat er einzig im oberen Teil der
+betroffenen Strecke bei den durch Wanderer stark frequentierten beiden
+Brücken zum Nussbüel. Hier trägt aber der Umstand, dass das Restwasser neu
+oberhalb der oberen Brücke in den Brummbach eingeleitet wird, eher zur
+Verbesserung der Situation bei, was beim Augenschein gut erkennbar war.
+Sodann handelt es sich beim Brummbach im hier interessierenden Bereich um ein
+Gewässer mit höchstens kleinem bis mittlerem ökologischen Potential, wobei
+die Schwere des Eingriffs dadurch, dass er an einer Stelle ohne ständige
+Wasserführung erfolgt, für die Fische und die Makrozoobenthen zu relativieren
+ist. Überdies wird im Anhang zur Konzession als Ausgleichsmassnahme in
+Anwendung von Art. 8 des kantonalen Gesetzes über den Natur- und
+Heimatschutz vom 2. Mai 1971 (kNHG) i.V.m. Art. 18 NHG ein
+wasserberührter Lebensraum im Umfang von 1'000 m2 verlangt. Dass die
+Ausgleichsmassnahme in der Konzession nicht detaillierter ausgeführt wird,
+schadet entgegen der Auffassung der Beschwerdeführer dabei nicht, da die
+detaillierte Ausgestaltung im Baubewilligungsverfahren erfolgen kann und
+keine Hinweise dafür bestehen, dass die Ausgleichsmassnahme nicht realisiert
+werden kann.
+5.
+5.1
+5.1.1
+Die Beschwerdeführer vertreten in ihrer Replik die
+Auffassung, dass für das Vorhaben eine Umweltverträglichkeitsprüfung (UVP)
+notwendig sei. Das geplante KW Walchen werde zusammen mit dem
+KW Brummbach und dem KW der Kraftwerke Linthal AG eine installierte
+Leistung von deutlich mehr als dem Schwellenwert von 3 MW aufweisen, was
+eine UVP-Pflicht begründe. Dabei entstehe mit dem Bau des KW Walchen
+zusammen mit dem Ober- und dem Unterliegerwerk eine Gesamtanlage.
+5.1.2
+Der Beschwerdegegner schliesst aus Art. 92 Abs. 2
+VRG, dass auf die erst in der Replik aufgeworfene Frage der UVP-Pflicht nicht
+einzugehen sei. Dennoch weise er darauf hin, dass zwischen dem
+KW Walchen und dem Unterliegerwerk keine betriebliche Einheit bestehe,
+weshalb die Anlagen nicht als Gesamtanlage betrachtet werden könnten.
+Derselben Auffassung ist die Beigeladene.
+5.2
+Nach Art. 92 Abs. 1 VRG kann der Beschwerdeführer
+nur innert der Beschwerdefrist und innert einer allfälligen Nachfrist neue
+Tatsachen, Beweisanträge und rechtliche Begründungen vorbringen. Dies ändert
+aber nichts daran, dass das Verwaltungsgericht den Sachverhalt von Amtes
+wegen feststellt (Art. 37 Abs. 1 VRG) und das Recht von Amtes wegen
+anwendet (Art. 9 Abs. 1 VRG). Insofern ist nachfolgend zu prüfen, ob die
+Konzession ohne Durchführung einer UVP erteilt werden durfte.
+5.3
+Gemäss Art. 10a Abs. 2 des Bundesgesetzes über den
+Umweltschutz vom 7. Oktober 1983 (USG) sind Anlagen, welche
+Umweltbereiche erheblich belasten können, so dass die Einhaltung der
+Vorschriften über den Schutz der Umwelt voraussichtlich nur mit projekt- und
+standortspezifischen Massnahmen sichergestellt werden kann, der
+Umweltverträglichkeitsprüfung unterstellt. Der Bundesrat bezeichnet nach
+Art. 10 Abs. 3 USG die Anlagetypen, die der
+Umweltverträglichkeitsprüfung unterstehen; er kann Schwellenwerte festlegen,
+ab denen die Prüfung durchzuführen ist. Dies hat er in Ziff. 21.3 des
+Anhangs zur Verordnung über die Umweltverträglichkeitsprüfung vom
+19. Oktober 1988 (UVPV) für
+Speicher- und Laufkraftwerke sowie
+Pumpspeicherwerke getan. Dabei unterliegen solche Kraftwerke einer
+UVP-Pflicht, wenn deren installierte Leistung mehr
+als
+3 MW beträgt.
+5.4
+Der Begriff der Anlage wird in Art. 7 Abs. 7 USG
+definiert und in zahlreichen Bestimmungen des Umweltrechts vorausgesetzt.
+Darunter kann – je nach Regelungszusammenhang – eine Gesamtanlage oder eine
+räumlich und funktional zusammenhängende Mehrzahl von Anlagen zu verstehen
+sein. Art. 8 USG und das darin zugrundeliegende Prinzip der ganzheitlichen
+Betrachtungsweise verlangen eine gesamthafte Beurteilung aller Anlagen, die
+aufgrund ihres räumlichen, zeitlichen und funktionalen Zusammenhangs als
+Gesamtanlage erscheinen. Daraus wird gefolgert, dass die UVP-Pflicht sich auf
+alle Teile erstrecken muss, die zusammen eine Gesamtanlage in diesem Sinne
+bilden. Eine betriebliche Einheit verschiedener Anlage(teile) setzt
+praxisgemäss neben der räumlichen Nähe einen engen funktionalen Zusammenhang
+voraus: Die einzelnen Teile müssen sich derart ergänzen, dass sie gemeinsam
+eine betriebliche Einheit bilden oder bilden können. Der Einheitscharakter
+von verschiedenen Vorhaben, die von unterschiedlichen Bauherrschaften
+errichtet werden, kann aber nicht leichthin angenommen werden, da das
+Umweltschutzgesetz keine planerische, sondern nur eine projektbezogene UVP
+kennt. Gemeinsame umwelt- und planungsrechtliche Vorgaben der Behörden
+genügen nicht. Sofern es sich nicht um die gleiche Bauherrschaft handelt,
+müssen zumindest eine gemeinsame Organisation oder Zwecksetzung der
+verschiedenen Bauherrschaften existieren (BGE 142 II 20
+E. 3.1 f., mit Hinweisen).
+5.5
+Es ist unbestritten, dass zwischen dem
+KW Brummbach (Oberliegerwerk) und dem geplanten KW Walchen ein
+enger funktionaler Zusammenhang besteht, da letzteres das verarbeitete Wasser
+des Oberliegerwerks zur erneuten Verarbeitung übernimmt. Überdies wurde die
+Konzession für das KW Brummbach D.______ erteilt, die Konzession für das
+KW Walchen hingegen der Hefti Hätzingen AG, an welcher D.______ beteiligt
+ist.
+Unbestritten ist aber
+auch, dass die installierte Leistung des KW Brummbach und des
+KW Walchen zusammen unter 3 MW liegt, und die Schwelle zur
+UVP-Pflicht nur überschritten wird, wenn das KW der Kraftwerke
+Linthal AG (Unterliegerwerk) ebenfalls Teil der Anlage betrachtet wird.
+Dagegen spricht jedoch Verschiedenes: Einerseits sieht das Vorhaben in seiner
+ursprünglichen Form lediglich vor, dass das turbinierte Wasser in den
+Entsander des KW Kraftwerke Linthal AG eingeleitet wird. Ob dies
+bereits für den geforderten engen funktionalen Zusammenhang genügt, erscheint
+fraglich. So hat der Betrieb des KW Walchen keinen Einfluss auf
+denjenigen des KW der Kraftwerke Linthal AG. Zudem zeigt sich darin,
+dass neu geplant ist, das turbinierte Wasser bereits oberhalb des
+Unterliegerwerks in den Brummbach zu leiten, dass das geplante
+KW Walchen unabhängig von demjenigen der Kraftwerke Linthal AG ist
+(vgl. dazu aber auch E. II/7). Zum andern sind die Betreiber des
+geplanten KW Walchen und des Unterliegerwerks (Kraftwerke
+Linthal AG) nicht identisch, auch besteht keine gemeinsame Organisation.
+Im Lichte der bundesgerichtlichen Rechtsprechung kann daher beim KW der
+Kraftwerke Linthal AG und dem KW Brummbach bzw. dem geplanten
+KW Walchen nicht von einer betrieblichen Einheit ausgegangen werden,
+weshalb das KW der Kraftwerke Linthal AG nicht Teil der neu zu
+erstellenden Anlage ist. Damit wird aber der Schwellenwert für eine
+UVP-Pflicht nicht erreicht.
+6.
+6.1
+Die Beschwerdeführer rügen schliesslich eine
+Verletzung ihres Anspruchs auf rechtliches Gehör, da in den Auflageakten
+keine stichhaltige Begründung zu finden sei, weshalb die neue Anlage nicht
+einer Bewilligung nach Art. 9 lit. a GSchG bedürfe.
+Aus dem durch Art. 29 Abs.
+2 der Bundesverfassung der Schweizerischen Eidgenossenschaft vom
+18. April 1999 (BV) garantierten Anspruch auf rechtliches Gehör fliesst
+unter anderem die Pflicht einer Behörde, ihren Entscheid zu begründen. Die
+Begründung muss dabei zumindest kurz die wesentlichen Überlegungen nennen,
+von denen sich die Behörde hat leiten lassen. Massgebend ist, dass die
+Betroffenen durch die Begründung in die Lage versetzt werden, die Tragweite
+der Entscheidung zu beurteilen und sie in voller Kenntnis der Umstände an
+eine höhere Instanz weiterzuziehen (vgl. BGE 142 I 135
+E. 2.1; Ulrich Häfelin/Georg Müller/Felix Uhlmann, Allgemeines
+Verwaltungsrecht, 7. A., Zürich/St. Gallen 2016, Rz. 1071).
+6.2
+Aus dem Antrag an den Landrat und dem Mitbericht der
+Abteilung Umweltschutz und Energie geht hervor, dass der Standort beim
+Oberliegerwerk als für die Wasserentnahme massgebender Standort erachtet
+wurde. Dass keine Bewilligung nach Art. 29 lit. a GSchG
+erforderlich ist, wurde damit begründet, dass der Brummbach an diesem
+Standort nicht ständig Wasser führt. Damit war für die Beschwerdeführer
+erkennbar, auf welchen Überlegungen der angefochtene Entscheid beruhte. Dass
+sie diesen sachgerecht anfechten konnten, zeigt die von ihnen eingereichte
+Beschwerde. Eine Gehörsverletzung ist daher nicht ersichtlich.
+7.
+7.1
+Zusammenfassend ergibt sich, dass die Erteilung der
+Konzession für das geplante KW Walchen weder Bundes- noch kantonales
+Recht verletzt. Dies führt zur Abweisung der Beschwerde.
+7.2
+Hinzuweisen bleibt indessen darauf, dass die
+Beigeladene offenbar plant, das Triebwasser nicht mehr in den Entsander des
+Kraftwerks Linthal AG einzuleiten. Die Ausleitung soll weiter oben
+direkt in den Brummbach erfolgen. Diese Projektänderung lässt sich zwar im
+Grundsatz mit der erteilten Konzession vereinbaren. Hat sie jedoch eine geringere
+Energieproduktion und tiefere Wasserzinsen zur Folge, erweist sich vor
+Erteilung der notwendigen Bewilligungen eine erneute Interessenabwägung als
+unumgänglich. Dies ist vorliegend besonders wichtig, da die vorgenommene
+Interessenabwägung nur knapp zu Gunsten der Wasserentnahme ausfiel und die
+Energieproduktion sowie die Wasserzinsen einen wesentlichen Teil der
+öffentlichen Interessen ausmachen.
+III.
+Nach Art. 134 Abs. 1 lit.
+c VRG hat die Partei, welche im Beschwerde-, Klage- oder Revisionsverfahren
+unterliegt, die amtlichen Kosten zu tragen. Ausgangsgemäss sind die
+Gerichtskosten von pauschal Fr. 3'000.- den Beschwerdeführern
+aufzuerlegen und mit dem von ihnen bereits geleisteten Kostenvorschuss zu
+verrechnen. Überdies sind die Beschwerdeführer nach Art. 138 Abs. 2
+VRG zu verpflichten, der Beigeladenen eine Parteientschädigung von
+Fr. 3'500.- (inkl. Mehrwertsteuer) zu bezahlen. Dem Beschwerdegegner
+steht mangels Vorliegens besonderer Umstände eine solche hingegen nicht zu
+(Art. 138 Abs. 4 VRG e contrario).
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Die
+Gerichtskosten von Fr. 3'000.- werden den Beschwerdeführern auferlegt und
+mit dem von ihnen in gleicher Höhe geleisteten Kostenvorschuss verrechnet.
+3.
+Die
+Beschwerdeführer werden verpflichtet, der Beigeladenen innert 30 Tagen
+nach Rechtskraft dieses Entscheids eine Parteientschädigung von
+Fr. 3'500.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
