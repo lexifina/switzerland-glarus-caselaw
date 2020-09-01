@@ -1,0 +1,406 @@
+---
+decision_id: "gl_gerichte_OG.2019.00074"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2019.00074"
+docket_2: "OGS.2021.102"
+decided: "2020-09-01"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1396&W10_KEY=218274&nTrefferzeile=8&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/311.0/art-070.md", "switzerland/bund/acts/311.0/art-102.md", "switzerland/bund/acts/312.0/art-132.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-197.md", "switzerland/bund/acts/312.0/art-263.md", "switzerland/bund/acts/312.0/art-266.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-421.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# GL Gerichte OG.2019.00074
+
+## Regeste
+
+Beschlagnahme
+
+## Text
+
+Glarus Obergericht 01.09.2020 OG.2019.00074 (OGS.2021.102)
+Glaris Obergericht 01.09.2020 OG.2019.00074 (OGS.2021.102)
+Glarona Obergericht 01.09.2020 OG.2019.00074 (OGS.2021.102)
+
+Kanton Glarus
+Obergericht
+Beschluss
+vom 1. September 2020
+Verfahren
+OG.2019.00074
+A______
+Beschwerdeführer
+vertreten
+durch Rechtsanwalt B.______
+gegen
+Staats- und Jugendanwaltschaft des
+Kantons Glarus
+Beschwerdegegner
+vertreten
+durch die Staatsanwältin
+betreffend
+Beschlagnahme
+über
+die Anträge
+A.
+de
+s Beschwerdeführers
+(gemäss Eingabe vom
+24. September 2019 [act. 2 S. 2]):
+1.
+Der Beschlagnahmebefehl vom
+18. September 2019 der Staats- und Jugend­anwaltschaft des Kantons
+Glarus (Verfahren SA.2018.329) sei aufzuheben.
+2.
+Die Staatsanwältin […] sei in
+den Ausstand zu versetzen.
+3.
+Die Geltendmachung eines
+Schadenersatzes des Beschuldigten bleibt vorbe­halten.
+4.
+Dem Beschuldigten sei die
+amtliche Verteidigung durch Rechtsanwalt B.______ zu gewähren.
+5.
+Die Verfahrens- und
+Entschädigungskosten (zuzüglich Mehrwertsteuer) seien auf die Staatskasse
+zu nehmen.
+B.
+de
+r
+Beschwerde
+gegnerin
+(gemäss Eingabe vom 31. Oktober 2019 [act. 7]):
+1.
+Die Beschwerde sei abzuweisen,
+soweit darauf einzutreten ist.
+2.
+Die Akten aus dem Verfahren
+betreffend Anordnung von Untersuchungshaft vor dem Zwangsmassnahmengericht
+(SG.2019.00107) seien beizuziehen.
+3.
+Unter Kostenfolgen zulasten des
+Beschwerdeführers.
+____________________
+Das Gericht
+zieht in Betracht:
+I.
+1.
+Die Staatsanwaltschaft des
+Kantons Glarus führt eine Strafuntersuchung gegen A.______ wegen
+verschiedener Vermögensdelikte (u.a. gewerbsmässiger Betrug, mehrfache
+Veruntreuung, betrügerischer Konkurs) sowie wegen Nötigung und
+Widerhandlungen gegen das Strassenverkehrsrecht. Konkret wird der Beschul­digte
+dabei insbesondere verdächtigt, in seiner Funktion als Gesellschafter und
+Geschäftsführer der […] GmbH, später umgewandelt in die H.______ AG, im
+Zeitraum von November 2017 bis Juli 2019 auf verschiedenen
+Internetplattformen, anlässlich von Messen und Ausstel­lungen sowie auf
+andere Weise Wohn- und Campingwagen und diverses Zubehör angeboten und von Käufern
+entsprechende Zahlungen entgegengenommen zu haben, obschon er gewusst habe,
+dass er die betreffenden Gegenstände nicht liefern werde. Er wird zudem ver­däch­tigt,
+diesen Handel mit Gegenständen, im Eigentum der H.______ AG stehend,
+fortgesetzt zu haben, obwohl am 19. August 2019 der Konkurs über die
+H.______ AG eröffnet worden war (siehe zum Ganzen: act. 1 sowie im
+Verfahren SG.2019.00107, act. 1 S. 1 und S. 2 Ziff. 2).
+2.
+Mit Verfügung vom
+18. September 2019 (act. 1) beschlagnahmte die Staatsanwalt­schaft
+mittels einer Grundbuchsperre die in […] (Gemeinde Glarus Nord) gelegene und
+im Eigentum des Beschuldigten A.______ befindliche Liegen­schaft Nr.[…]; dies
+einerseits zur Sicherstellung von Verfahrenskosten, Geld­strafen, Bussen und
+Entschädigungen, andererseits deshalb, weil aus Sicht der Staatsan­waltschaft
+der Verdacht besteht, dass der Beschuldigte A.______ die betref­fende
+Liegenschaft aus deliktischen Mitteln erworben haben könnte.
+3.
+Am 24. September 2019 liess
+der Beschuldigte A.______ durch seinen Rechts­vertreter gegen den
+Beschlagnahmebefehl beim Obergericht Beschwerde erheben, wobei er die
+Aufhebung der Beschlagnahme verlangt und zudem beantragt, dass die
+fallführende Staatsanwältin in den Ausstand zu treten habe; ferner ersucht der
+Rechtsvertreter des Beschwerdeführers um Einsetzung als amtlicher Verteidiger
+(act. 2).
+Die Staatsanwaltschaft beantragt
+in ihrer Stellungnahme vom 31. Oktober 2019 (act. 7) die
+kostenfällige Abweisung der Beschwerde, soweit darauf einzutreten sei.
+Am 18. November 2019 reichte
+der Rechtsvertreter des Beschwerdeführers unauf­gefordert eine Replik ein
+(act. 9); die Staatsanwaltschaft hat hierauf mit Eingabe vom
+16. Januar 2020 dupliziert (act. 15).
+II.
+1.
+Der angefochtene
+Beschlagnahmebefehl ist der Beschwerde zugänglich (Art. 393 Abs. 1
+lit. a Strafprozessordnung, StPO). Die Beschwerdefrist von zehn Tagen
+(Art. 396 Abs. 1 StPO) ist vorliegend eingehalten (act. 1 und
+act. 2). Die übrigen Prozessvoraussetzungen geben zu keinen Bemerkungen
+Anlass. Auf die Beschwerde ist einzutreten.
+Das vom Beschwerdeführer
+gegenüber der fallzuständigen Staatsanwältin gestellte Ausstandsbegehren
+(oben Rechtsbegehren Ziff. 2) ist hier nicht mehr verfahrensge­genständlich;
+das Obergericht hat diesen Antrag in einem separaten Verfahren
+(OG.2019.00075) mit Entscheid vom 15. April 2020 abgewiesen.
+2.
+Mit Beschwerde kann eine
+Rechtsverletzung und/oder eine unvollständige oder un­richtige Feststellung
+des Sachverhalts sowie Unangemessenheit gerügt werden (Art. 393 Abs. 2 StPO).
+3.
+3.1
+Das Gericht kann die
+Einziehung von Vermögenswerten anordnen, namentlich wenn diese durch eine
+Straftat erlangt worden sind (Art. 70 Abs. 1 StGB).
+Der Entscheid über die Einziehung
+von Vermögenswerten nach Massgabe der eben zitierten Bestimmung von
+Art. 70 Abs. 1 StGB fällt allerdings erst mit dem abschlies­senden
+Strafurteil. Damit zu diesem späteren Zeitpunkt die betreffenden Vermö­genswerte
+für die Behörde aber effektiv noch greifbar sind, sieht das Gesetz einen
+Sicherungsbehelf vor. So können gemäss Art. 263 Abs. 1 Ingress und
+lit. d sowie lit. b StPO Gegenstände und Vermögenswerte einer
+beschuldigten Person oder einer Drittperson beschlagnahmt werden, wenn die
+Gegenstände und Vermögens­werte voraussichtlich einzuziehen sind [weil sie
+durch eine Straftat erlangt worden sind] oder zur Sicherstellung von
+Verfahrenskosten, Geldstrafen, Bussen und Ent­schädigungen gebraucht werden.
+Die Beschlagnahme stellt somit eine strafpro­zessuale Mass­nahme bzw. eine
+sichernde (vorsorgliche) Prozessvorkehr dar (siehe dazu Urteil BGer 1B_26/
+2012 vom 23. Mai 2012 E. 5.2). In diesem frühen Verfah­rensstadium muss daher
+noch nicht verbindlich feststehen, ob ein beschlagnahmter Vermögenswert
+dereinst auch effektiv eingezogen wird; vielmehr genügt zur Anord­nung einer
+Beschlag­nahme, wenn es aufgrund der bis dahin bekannten Umstände als bloss
+wahrschein­lich erscheint (im Sinne von "möglich",
+"denkbar" oder "in Frage kommt"), dass später eine
+definitive Einziehung erfolgen könnte. Der Beschlagnah­merichter hat mit
+anderen Worten die materiellen Voraussetzungen einer Einzie­hung noch nicht
+abschliessend zu beurteilen, dies bleibt dem Straf- und Einzie­hungsrichter
+vorbehalten (siehe dazu BSK StPO-
+Bommer/Gold­schmid
+,
+Art. 263 N 37).
+3.2
+Der Rechtsvertreter
+des Beschwerdeführers macht in der Beschwerde im Ergebnis geltend, der
+angefochtene Beschlagnahmebefehl sei vor dem Hintergrund erfolgt, dass bloss
+zwei Strafanzeigen vorgelegen hätten und die potentielle Delikts­summe dabei
+nicht einmal CHF 15'000.- betragen habe; überdies habe auch kein
+hinreichender Tatverdacht gegen den Beschwerdeführer bestanden, zumal er nie
+in eigenem Namen gehandelt habe, sondern als Geschäftsführer der H.______ AG,
+wobei er in dieser Funktion ohnehin nur kollektivzeichnungsberech­tigt
+gewesen sei und er insofern alleine gar keine Verträge rechtsgültig habe ab­schliessen
+können und wobei auch nicht erstellt sei, dass die Kaufverträge von den
+Käufern überhaupt erfüllt worden seien (act. 2 S. 3 Ziff. 3
+und Ziff. 4; siehe zum feh­lenden Tatverdacht auch S. 5 f.
+Ziff. 6). Demgegenüber stehe die beschlagnahmte Liegenschaft im
+alleinigen Eigentum des Beschwerdeführers, wobei es die Staats­anwaltschaft
+in der Untersuchung unterlassen habe, konkret abzuklären, inwieweit der
+Beschwerdeführer beim Erwerb dieser Liegenschaft im April 2019 überhaupt
+Eigenkapital zur Finanzierung des Kaufpreises von CHF [...] aufgebracht habe,
+nachdem die Glarner Kantonalbank immerhin Hypotheken in Höhe von CHF [...]
+Mio. finanziert habe und zudem eine Bürgschaft der Bürgschaftsgenossenschaft
+für KMU in Höhe von CHF [...] bestehe. Überhaupt vermöge die Staatsanwalt­schaft
+keine Indizien zu nennen, wonach potentielle (bestrittene) Deliktsgelder in
+Höhe der vorerwähnten CHF [...] in den Kauf der Liegenschaft eingeflossen
+seien; insofern liege denn auch kein einziehbares Surrogat vor. Vor dem
+Hinter­grund all dieser Aspekte sowie in Anbetracht auch des Umstandes, dass
+der Beschwerdeführer überhaupt nicht persönlich Vertragspartner der
+inkriminierten Rechtsgeschäfte war [sondern die H.______ AG], erweise sich
+die Beschlagnahme der Privatliegenschaft des Beschwerdeführers im Lichte von
+Art. 196 und Art. 197 StPO als von vornherein nicht zulässig bzw.
+zumindest als un­verhältnismässig (act. 2 S. 5 ff.
+Ziff. 6 – Ziff. 9).
+Die Beschwerde ist, wie sogleich
+darzulegen ist, in der Sache unbegründet und daher abzuweisen.
+3.3.
+3.3.1
+Der vorliegend
+angefochtene Beschlagnahmebefehl datiert vom 18. September 2019
+(act. 1). Zu diesem Zeitpunkt lagen den Strafverfolgungsorga­nen, soweit
+aus den hier verfügbaren Akten ersichtlich, bereits mindestens
+11 Strafanzeigen gegen den Beschwerdeführer wegen verschiedenster Vermö­gensdelikte
+mit einem mutmasslichen Deliktsbetrag von über CHF 480‘000.- vor, wobei
+sich die inkriminierten Handlungen von Herbst 2017 bis Sommer 2019 zutru­gen,
+überwiegend aber von Herbst 2018 bis Frühjahr 2019 (siehe im Einzelnen im
+Verfahren SG.2019.00107: act. 2/3/2 S. 2 Ziff. 1 und S. 4
+Ziff. 2 [CHF 6‘350.-, Sommer 2018]; act. 2/3/4 S. 2
+Ziff. 1 [CHF 8‘200.-, Herbst 2017]; act. 2/3/6
+[CHF 22‘500.-, September 2018]; act. 2/3/7 [CHF 86‘000.-,
+Herbst 2018 und Mai 2019]; act. 2/3/9 S. 3 [CHF 33‘000.-,
+Herbst 2018 und Februar 2019]; act. 2/3/10 [CHF 23‘500.-, Herbst
+2018]; act. 2/3/12 [CHF 35‘000.-, Februar 2019]; act. 2/3/13
+[CHF 32‘900.-, Februar 2019]; act. 2/3/16 [CHF 29‘900.-,
+Sommer 2019]; act. 2/3/21 [CHF 50‘000.-, Januar 2019];
+act. 2/3/22 S. 3 f. Ziff. 3 und S. 7
+Ziff. 10-12 [CHF 157‘500.-, März 2019]). Bei den in­kriminierten
+Taten handelte der Beschwer­deführer überwiegend in seiner Funktion als
+Geschäftsführer der H.______ AG, wobei das Tatmuster ge­mäss den Anzeigen –
+summarisch beschrieben – darin bestand, dass der Beschwerdeführer sich von
+den Kunden den Kaufpreis für Wohnmobile vorausbe­zahlen liess, in der Folge
+jedoch die Wohnmo­bile nicht auslieferte. Bei einem Ver­kaufsgeschäft soll
+der Beschwerdeführer den Vertrag explizit in eigenem Namen eingegangen sein
+(Verfahren SG.2019.00107, act. 2/3/22 S. 3 Ziff. 3). Insofern
+der Rechtsvertreter des Beschwerdeführers insbe­sondere in seiner
+Replikeingabe argumentiert, die Untersuchungen hinsichtlich mehrerer
+geschädigten Personen mit Wohnsitz ausserhalb des Kantons Glarus seien von
+der hiesigen Staatsanwaltschaft zeitlich erst nach Erlass des Beschlag­nahmebefehls
+übernommen worden und sei­en der Staatsanwaltschaft bis dahin noch gar nicht
+bekannt gewesen (act. 9 S. 2 Ziff. 2), kann ihm nicht gefolgt
+werden. Eine Verfügung betreffend die Übernahme eines ausserkantonal
+eröffneten Straf­verfahrens (siehe dazu act. 10/15 ff.) stellt
+einen rein formalen Vorgang dar und be­inhaltet keine Aussage darüber, wann
+die hiesige Staatsanwaltschaft erstmals von den inkriminierten Straftaten
+Kenntnis erlangt hat. Aber selbst wenn die Staats­an­waltschaft von einzelnen
+inkriminierten Taten erst nach Erlass der Beschlag­nah­meverfügung erfahren
+hätte, so wären die­se Sachverhalte als im vorliegenden Be­schwerdeverfahren
+zulässige Noven gleich­wohl zu berücksichtigen (siehe Urteil BGer 1B_458/2016
+vom 19.12.2016 E. 2.3., ferner
+Guidon
+,
+Die Beschwerde gemäss Schweizerischer Strafprozessordnung,
+Zürich/St. Gallen 2011, N 367 ff.).
+Im April/Mai 2019
+(act. 3/11; das genaue Datum ist aus den vorliegenden Akten nicht
+bekannt) erwarb der Beschwerdeführer in seinem Namen die gemäss hier an­gefochtenem
+Beschlagnahmebefehl mit einer Grundbuchsperre belegte Liegen­schaft Nr. […]
+in […]. Die zeitliche Nähe dieses Grundstückerwerbs zu den inkriminierten
+Vermögensdelikten ist evident. Es ist daher dem von der Staats­anwaltschaft
+im Beschlagnahmebefehl geäusserten Verdacht beizupflichten, wo­nach „der
+Beschuldigte die Liegenschaft Nr. […], Plan Nr. […] Gemeinde Glarus
+Nord, mit deliktischen Mitteln erworben hat“ (act. 1 S. 1 unten).
+Im Lichte von Art. 70 Abs. 1 StGB erscheint beim derzeitigen
+Kenntnisstand eine Einziehung dieser Vermögenswerte in einem allfälligen
+(späte­ren) Strafurteil als wahrscheinlich. Daran ändert auch nichts, dass
+die beschlag­nahmte Liegenschaft selber nicht unmittelbar „durch eine
+Straftat erlangt worden“ ist (Art. 70 Abs. 1 StGB), sondern die
+mutmasslich deliktisch erlangten Mittel womög­lich zur Finanzierung des
+betreffenden Grundstückerwerbs verwendet wurden. In einer solchen
+Konstellation ist das mit Deliktgeldern erworbene Surrogat (hier die
+Liegenschaft) ebenfalls der Einziehung bzw. Beschlagnahme zugänglich (BSK
+StPO-
+Bommer/Gold­schmid
+,
+Art. 263 N 44).
+Insofern der Rechtsvertreter des
+Beschwerdeführers geltend macht, es sei nicht erstellt, dass die vom
+Beschwerdeführer angeblich geprellten Käufer ihren vertrag­lichen Pflichten
+nachgekommen seien (sprich: den Kaufpreis bezahlt hätten; act. 2
+S. 6 Ziff. 6), so ist dies eine hilflose Ausflucht. Vorliegend sind
+Strafanzeigen aus der halben Deutschschweiz aktenkundig; darin schildern alle
+potentiell Geschädigten weitgehend den gleichen Ablauf, konkret nämlich, dass
+sie den Kaufpreis bezahlt hätten und ihnen hernach das gekaufte Wohnmobil
+aber nicht geliefert worden sei. Im Übrigen liegen dem Obergericht vorliegend
+die ersten Aussagen des Beschwer­deführers aus dem Anfangsstadium der
+Untersuchung vor. Darin bestreitet der Beschwerdeführer nicht, von der
+Käuferschaft den vereinbarten Kaufpreis erhalten zu haben (Verfahren
+SG.2019.00107, act. 2/3/1 S. 3 Ziff. 15 und S. 5
+Ziff. 32-34).
+3.3.2
+Aufgrund der eben
+gemachten Ausführungen ist erstellt, dass die fragliche Liegenschaft des
+Beschwerdeführers in […] aus heutiger Sicht voraussicht­lich einzuziehen sein
+wird und daher von der Staatsanwaltschaft zu Recht be­schlag­nahmt wurde
+(Art. 263 Ingress und lit. d StPO). Die Beschlagnahme ist dabei
+zutref­fend in Form der Grundbuchsperre erfolgt, wird damit nämlich jegliche
+Verfü­gung über das Grundstück bis auf weiteres verhindert und der Status Quo
+gesichert (Art. 266 Abs. 3 StPO; dazu BSK StPO-
+Bommer/Gold­schmid
+, Art. 263
+N 63 und Art. 266 N 8).
+Die angeordnete Zwangsmassnahme
+der Beschlagnahme der Liegenschaft erweist sich eingedenk der hier
+diskutierten möglichen Deliktssumme von mehr als CHF 480‘000.- (siehe
+dazu oben E. 3.3.1) ohne weiteres als gerechtfertigt und verhält­nismässig
+(Art. 197 StPO). Kommt hinzu, dass kurz nach Erlass des Beschlagnah­mebefehls
+noch weitere mutmassliche Vermögensdelikte mit einer Deliktssumme von noch
+einmal rund CHF 100‘000.- bekannt geworden sind (siehe dazu Verfahren
+SG.2019.00107: act. 2/3/11 [CHF 40‘000.-, Januar/Februar 2019];
+act. 2/3/17 [CHF 28‘000.-, Mai 2019]; act. 2/3/19
+[CHF 24‘500.-, Herbst 2018]; act. 2/3/20 [CHF 20‘000.-, Herbst
+2018]). Diese erst nachträglich bekannt gewor­denen Sach­verhalte sind als
+Noven im vorliegenden Beschwerdeverfahren zu berücksichtigen (siehe dazu
+bereits oben E. 3.3.1).
+3.3.3
+Am hinreichenden
+Tatverdacht (Art. 197 Abs. 1 lit. b StPO) gegen den
+Beschwerdeführer ändert entgegen der Ansicht seines Rechtsvertreters auch
+nichts, soweit der Beschwerdeführer bei den inkriminierten Rechtsgeschäften
+als Geschäftsführer der H.______ AG handelte; wenn immer dabei Dritte durch
+ein strafrechtlich relevantes Verhalten des Beschwerdeführers zu Schaden
+gekommen sind, so hat sich der Beschwerdeführer dafür persönlich zu
+verantworten und kann sich nicht hinter der Firma verstecken (siehe dazu auch
+Art. 102 Abs. 1 StGB e contrario). Im Übrigen macht der
+Rechtsvertreter des Beschwerdeführers ohnehin unzutreffend geltend, sein
+Mandant sei bei der H.______ AG bloss kollektivzeichnungsberechtigt gewesen.
+Tatsache ist vielmehr, dass der Beschwerdeführer als Geschäftsführer bis zum
+7. Mai 2019 Einzelunterschrift besass (act. 3/9). Im Übrigen
+agierte der Beschwerdeführer bei einzelnen inkriminierten Rechtsgeschäften
+sowieso nicht namens der H.______ AG, sondern in eigenem Namen bzw. als
+Gesellschafter und Geschäftsführer der vormaligen […] GmbH (siehe dazu
+Verfahren SG.2019.00107: act. 2/3/3 Blatt 1; act. 2/3/22
+S. 3 Ziff. 3; act. 2/3/19 S. 5 Ziff. 20).
+4.
+4.1
+Die Staatsanwaltschaft
+hat die Liegenschaft Nr. […] des Beschwerdeführers nicht nur in Hinsicht auf
+eine spätere Einziehung derselben nach Massgabe von Art. 70 Abs. 1
+StGB beschlagnahmt, sondern gestützt auf Art. 263 Abs. 1
+lit. b StPO ebenso zur Sicherstellung von Verfahrenskosten, Geldstrafen,
+Bussen und Entschädigungen (act. 1 S. 2 oben).
+4.2
+Auch dieser
+Beschlagnahmegrund ist hier gegeben. Aufgrund der sehr zahlreichen Anzeigen
+und der im Raum stehenden Tatvorwürfe ist ein aufwendiges Strafverfahren mit
+entsprechend hohen Kosten absehbar und erscheint zum heutigen Zeitpunkt eine
+Verurteilung des Beschwerdeführers als wahrscheinlich (siehe dazu BSK StPO-
+Bommer/Gold­schmid
+, Art. 268
+N 3).
+III.
+Aus alldem ergibt sich, dass die
+Beschwerde abzuweisen ist. Bei diesem Ausgang hat der Beschwerdeführer die
+Kosten des Beschwerdeverfahrens zu tragen (Art. 428 Abs. 1 StPO in
+Verbindung mit Art. 421 Abs. 2 StPO). Die Gerichtsgebühr für das
+Beschwerdeverfahren ist auf CHF 800.- festzulegen (Art. 8 Abs. 2
+lit. b der Zivil- und Strafprozesskostenverord­nung; GS III A/5). Dem
+Beschwerdeführer ist für das vorliegende Beschwerdeverfahren antragsgemäss
+(siehe dazu act. 2 S. 8 Ziff. 10) die amtliche Verteidigung zu
+gewähren (Art. 132 Abs. 1 lit. b StPO) und ist mit dieser
+Funktion sein derzeitiger Vertreter Rechtsanwalt B._____ zu betrauen. Der
+amtliche Rechtsvertreter ist in Anwendung von Art. 3 und Art. 6 des
+Tarifs für die Entschädigung der öffentlichen Verteidigung und der
+unentgeltlichen Rechtsvertretung (GS III I/5) für das Beschwerdeverfahren mit
+hier angemessenen CHF 1‘200.
+- (inkl. Auslagen und MwSt.)
+zu entschädigen. Bei der Bemessung der Entschädigung fällt vorliegend ins
+Gewicht, dass die Beschwerde nachgerade aus­sichtslos war, was insofern die
+Erforderlichkeit des getätigten anwaltlichen Auf­wands erheblich relativiert.
+Der Beschwerdeführer hat die (einstweilen) vom Staat finanzierten
+Anwaltskosten (amt­liche Entschädigung) zurückzubezahlen und dem
+Rechtsvertreter die Differenz zwi­schen der amtlichen Entschädigung und dem
+vollen Honorar zu erstatten, sobald es seine wirtschaftlichen Verhältnisse
+erlauben (Art. 135 Abs. 4 StPO).
+____________________
+Das Gericht
+beschliesst
+:
+1.
+Die Beschwerde wird abgewiesen.
+2.
+Die Gerichtsgebühr für das
+Beschwerdeverfahren wird festgesetzt auf CHF 800.-; sie wird dem
+Beschwerdeführer auferlegt und von ihm bezogen.
+3.
+Dem Beschwerdeführer wird für
+das vorliegende Beschwerdeverfahren die amt­liche Verteidigung gewährt; als
+amtlicher Verteidiger wird Rechtsanwalt
+B.______ eingesetzt.
+4.
+Rechtsanwalt
+B.______ wird für das Beschwerdeverfahren aus der Gerichtskasse mit
+CHF 1‘200.- entschädigt.
+5.
+Der
+Beschwerdeführer hat der Gerichtskasse die von ihr finanzierte Entschädi­gung
+für die amtliche Verteidigung zurückzuerstatten, sobald es seine wirt­schaftlichen
+Verhältnisse erlauben. Ebenso hat er unter derselben Vorausset­zung seinem
+amtlichen Verteidiger die Differenz zwischen der amtlichen Ent­schädigung
+von CHF 1‘200.- und dem vollen Honorar zu erstatten.
+6.
+Schriftliche Mitteilung an:
+[…]
