@@ -1,0 +1,449 @@
+---
+decision_id: "gl_gerichte_VG.2020.00051"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2020.00051"
+docket_2: "VG.2020.970"
+decided: "2020-09-03"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1311&W10_KEY=218274&nTrefferzeile=7&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-043.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.30/art-001.md", "switzerland/bund/acts/831.30/art-004.md", "switzerland/bund/acts/831.30/art-009.md", "switzerland/bund/acts/831.30/art-011.md", "switzerland/bund/acts/831.301/art-014a.md"]
+---
+
+# GL Gerichte VG.2020.00051
+
+## Regeste
+
+Sozialversicherung - Ergänzungsleistungen
+
+## Text
+
+Glarus Verwaltungsgericht 03.09.2020 VG.2020.00051 (VG.2020.970)
+Glaris Verwaltungsgericht 03.09.2020 VG.2020.00051 (VG.2020.970)
+Glarona Verwaltungsgericht 03.09.2020 VG.2020.00051 (VG.2020.970)
+
+Sozialversicherung - Ergänzungsleistungen
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+3. September 2020
+II. Kammer
+in Sachen
+VG.2020.00051
+A.______
+Beschwerdeführer
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+Ausgleichskasse Glarus
+Beschwerdegegnerin
+betreffend
+Ergänzungsleistungen
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Die IV-Stelle Glarus sprach dem im Jahr 1958
+geborenen A.______ mit Verfügung vom 10. April 2018 rückwirkend ab 1. November
+2014 eine Dreiviertelsrente der Invalidenversicherung zu. Ausgehend davon,
+dass er seit Mai 2009 in einer angepassten Tätigkeit zu 50 %
+arbeitsfähig ist, ermittelte sie einen Invaliditätsgrad von 65 %.
+1.2
+A.______ meldete sich in der Folge am 24. April
+2018 bei der Ausgleichskasse zum Bezug von Ergänzungsleistungen zu seiner
+Invalidenrente an. Nachdem die Ausgleichskasse verschiedene Abklärungen
+vorgenommen hatte, sprach sie A.______ mit Verfügung vom 19. Juli 2019
+folgende monatlichen Ergänzungs-leistungen (jeweils
+inkl. Prämienpauschale Krankenversicherung) zu: November und Dezember
+2014 Fr. 2'777.-; Jahr 2015 Fr. 2'808.-; Jahr 2016
+Fr. 2'834.-; Jahr 2017 Fr. 2'886.-; Januar bis April 2018
+Fr. 2'900.-; Mai bis November 2018 Fr. 2'898.-; Dezember 2018
+Fr. 3'529.-; Januar bis Juni 2019 Fr. 3'565.-; ab Juli 2019
+Fr. 3'561.-.
+Mit Schreiben vom gleichen
+Tag teilte sie ihm mit, dass ab dem 1. Februar 2020 bei der Berechnung
+der Ergänzungsleistungen ein hypothetisches Erwerbseinkommen seiner Ehefrau C.______
+angerechnet werde.
+1.3
+Dagegen erhob A.______ am 29. Juli 2019 vorsorglich
+und am 26. August 2019 begründet Einsprache. Er beantragte, dass bei der
+Berechnung der Ergänzungsleistungen weder ein hypothetisches Erwerbseinkommen
+von ihm noch von seiner Ehefrau anzurechnen sei.
+1.4
+Die Ausgleichskasse sprach A.______ mit Verfügung
+vom 18. Dezember 2019 ab Januar 2020 monatliche Ergänzungsleistungen von
+Fr. 3'568.- (inkl. Prämienpauschale Krankenversicherung) zu. Am
+7. April 2020 wies sie die Einsprache von A.______ ab. Am 4. Mai 2020
+verfügte sie eine Reduktion der Ergänzungsleistungen ab dem 1. Februar
+2020 auf monatlich Fr. 2'251.- (inkl. Prämienpauschale
+Krankenversicherung), wobei sie ein hypothetisches Erwerbseinkommen von C.______
+von jährlich Fr. 25'200.- anrechnete.
+2.
+2.1
+A.______ erhob am 18. Mai 2020 beim
+Verwaltungsgericht Beschwerde gegen den Einspracheentscheid vom 7. April 2020
+und beantragte dessen Aufhebung. Ihm seien die gesetzlich geschuldeten
+Ergänzungsleistungen auszurichten. Eventuell sei die Sache an die
+Ausgleichskasse zurückzuweisen; alles unter gesetzlicher Kosten- und
+Entschädigungsfolge zu Lasten der Ausgleichskasse und unter Gewährung der
+unentgeltlichen Prozessführung und der unentgeltlichen Rechtsverbeiständung. Am
+28. Mai 2020 und am 8. Juni 2020 reichte er je ein
+Arbeitsunfähigkeitszeugnis seiner Ehefrau ein. Am 11. Juni 2020 stellte er
+die vom Verwaltungsgericht angeforderten Unterlagen zu seinen Gesuchen um
+Gewährung der unentgeltlichen Prozessführung und der unentgeltlichen
+Rechtsverbeiständung zu.
+2.2
+Die Ausgleichskasse reichte innert erstreckter Frist
+am 5. August 2020 ihre Beschwerdeantwort ein. Sie beantragte die Abweisung
+der Beschwerde.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 1 Abs. 1 des
+Bundesgesetzes über Ergänzungsleistungen zur Alters-, Hinterlassenen- und
+Invalidenversicherung vom 6. Oktober 2006 (ELG) i.V.m. Art. 56 des
+Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts vom
+6. Oktober 2000 (ATSG) zur Behandlung der vorliegenden Beschwerde
+zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt sind, ist auf
+die Beschwerde einzutreten.
+1.2
+Weil sich der rechtserhebliche Sachverhalt genügend
+aus den vorliegenden Akten ergibt, ist auf den Beizug der Akten der
+Invalidenversicherung und der Arbeitslosenversicherung zu verzichten.
+1.3
+Die im Einspracheverfahren angefochtene Verfügung
+vom 19. Juli 2019 hatte die Ergänzungsleistungen für den Zeitraum von
+November 2014 bis Ende des Jahres 2019 zum Gegenstand. Der Beschwerdeführer
+wandte sich zwar in seiner Einsprache sowohl dagegen, dass ihm bis zur
+Vollendung seines 60. Altersjahrs ein hypothetisches Erwerbseinkommen
+angerechnet worden war, als auch dagegen, dass mit ebenfalls am 19. Juli
+2019 ergangenem Schreiben die Anrechnung eines hypothetischen
+Erwerbseinkommens seiner Ehefrau ab dem 1. Februar 2020 angekündigt
+worden war. Die Beschwerdegegnerin hätte sich in ihrem Einspracheentscheid
+grundsätzlich auf die Prüfung der Rechtmässigkeit der Verfügung vom 19. Juli
+2019 beschränken müssen. Dem Beschwerdeführer wäre gegen die Anrechnung des
+hypothetischen Erwerbseinkommens seiner Ehefrau erst dann die Einsprache
+offengestanden, nachdem die Anrechnung verfügt worden war. Da die
+Beschwerdegegnerin im Einspracheentscheid aber auch die Rechtmässigkeit der
+Anrechnung eines hypothetischen Erwerbseinkommens der Ehefrau des
+Beschwerdeführers ab dem 1. Februar 2020 prüfte, rechtfertigt es sich
+aus prozessökonomischen Gründen, im vorliegenden Verfahren ebenfalls darauf
+einzugehen.
+2.
+2.1
+Der Beschwerdeführer macht geltend, die IV-Stelle
+habe den Invaliditätsgrad auf 65 % festgelegt, wobei sie keinen Abzug
+vom Tabellenlohn gewährt habe. Dem Vergleichseinkommen liege eine
+Erwerbsunfähigkeit in jeder Verweistätigkeit von 50 % zugrunde. Die
+Feststellungen der IV-Stelle könnten jedoch nicht bedeuten, dass das
+hypothetische Einkommen im EL-Verfahren der 50%igen Resterwerbsfähigkeit im
+IV-Verfahren entspreche. Sodann sei bei der Bestimmung des hypothetischen
+Einkommens ein schwankender Krankheitsverlauf zu berücksichtigen. So könne
+eine versicherte Person, welche etwa schwankend krankgeschrieben sei, ihre
+Restarbeitskraft im konkreten Arbeitsmarkt nicht oder nur ungenügend
+verwerten. Mit anderen Worten seien nicht nur invaliditätsfremde Gründe,
+sondern auch der vergangene und der aktuelle Gesundheitszustand bei der
+Bestimmung des hypothetischen Erwerbseinkommens in die Entscheidfindung
+miteinzubeziehen. Aus den zahlreichen medizinischen Berichten werde
+verständlich, dass er seine Arbeitskraft nur unregelmässig habe anbieten
+können. Zu berücksichtigen sei sodann sein Alter. Mit 55 Jahren seien
+heute viele Menschen von Arbeitslosigkeit betroffen und würden nur schwer
+oder gar keinen Einstieg in den Arbeitsmarkt mehr finden. Weiter verfüge er
+aufgrund seiner sehr langen Anstellung bei der D.______AG  über keine breite
+Berufsausbildung oder andere Berufserfahrung. Ausserdem spreche er nur
+rudimentär Deutsch, was ihm bei der Verwertung seiner Restarbeitsfähigkeit
+hinderlich sein werde. Sodann habe das Abklärungsverfahren betreffend
+Invalidenrente mehrere Jahre in Anspruch genommen und es hätten
+unterschiedliche Arbeitsunfähigkeitsbescheinigungen vorgelegen. Es könne
+daher nicht rückwirkend von ihm verlangt werden, dass er eine geeignete Arbeit
+hätte suchen müssen, da die Arbeitsfähigkeit gerade unklar gewesen sei.
+Ausserdem habe er sich in den Jahren 2006 und 2007 sowie 2009 und 2010 im
+Rahmen seiner Vermittlungsfähigkeit zum Leistungsbezug bei der
+Arbeitslosenkasse angemeldet und Leistungen erhalten. Daraus sei zu
+schliessen, dass er sich sehr wohl im Rahmen seiner Möglichkeiten um Arbeit
+bemüht habe. Erst die wohlwollende leidensangepasste Anstellung bei seinen
+Söhnen bei der E.______GmbH habe ihm bis zum Unfallereignis im Jahr 2013 eine
+Arbeitstätigkeit in einem Teilzeitpensum ermöglicht. Schliesslich sei auch
+die Arbeitsmarktsituation zu berücksichtigen. Er wohne in […], weshalb ihm
+primär der Arbeitsmarkt in […] und in […] offenstehe. In diesem lokalen
+Arbeitsmarkt gebe es aber nur wenig Industrie und Fluktuation im Personal. Es
+sei daher davon auszugehen, dass er nur erschwert zu einer neuen Anstellung
+finden werde. Bezüglich des hypothetischen Erwerbseinkommens seiner Ehefrau
+habe die Beschwerdegegnerin weder die medizinische Seite noch die
+invaliditätsfremden Gründe genügend abgeklärt.
+2.2
+Die Beschwerdegegnerin führt aus, der
+Beschwerdeführer habe seine letzte Stelle im März 2014 aufgegeben. Er hätte
+bis zum vollendeten 60. Altersjahr seine Resterwerbsfähigkeit mit
+überwiegender Wahrscheinlichkeit noch gut nutzen können, was er jedoch in
+Verletzung seiner Schadenminderungspflicht nicht getan habe. Die Ehefrau
+schöpfe ihre Arbeitsfähigkeit seit Beginn des Anspruchs auf
+Ergänzungsleistungen nicht aus, weshalb ihr ein hypothetisches Erwerbseinkommen
+anzurechnen sei. Soweit ihr von ihrem Hausarzt Arbeitsunfähigkeiten
+attestiert würden, handle es sich dabei um Gefälligkeitsatteste. Dabei sei zu
+berücksichtigen, dass sie in der Zeit vom 1. September 2019 bis zum
+25. Mai 2020 über kein Arztzeugnis verfüge, was bedeute, dass sie in
+dieser Zeit ununterbrochen zu 100 % arbeitsfähig gewesen sei.
+3.
+3.1
+Die jährliche Ergänzungsleistung entspricht gemäss
+Art. 9 Abs. 1 ELG dem Betrag, um den die anerkannten Ausgaben die
+anrechenbaren Ausnahmen übersteigen. Als Einnahmen angerechnet werden zwei
+Drittel der Erwerbseinkünfte in Geld oder Naturalien, soweit sie bei
+alleinstehenden Personen jährlich Fr. 1'000.- und bei Ehepaaren und
+Personen mit rentenberechtigten Waisen oder mit Kindern, die einen Anspruch
+auf eine Kinderrente der AHV oder IV begründen, Fr. 1'500.- übersteigen
+(Art. 11 Abs. 1 lit. a ELG). Angerechnet werden nach Art. 11
+Abs. 1 lit. g ELG auch Einkünfte und Vermögenswerte, auf die verzichtet
+worden ist.
+3.2
+3.2.1
+Nach Art. 14a Abs. 1 der Verordnung über die
+Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung
+vom 15. Januar 1971 (ELV) wird Invaliden als Erwerbseinkommen
+grundsätzlich der Betrag angerechnet, den sie im massgebenden Zeitabschnitt
+tatsächlich verdient haben. Invaliden unter 60 Jahren ist als
+Erwerbseinkommen jedoch gemäss Art. 14a Abs. 2 ELV mindestens anzurechnen:
+der um einen Drittel erhöhte Höchstbetrag für den Lebensbedarf von
+Alleinstehenden nach Art. 10 Abs. 1 lit. a Ziff. 1 ELG bei einem
+Invaliditätsgrad von 40 bis unter 50 %; der Höchstbetrag für den
+Lebensbedarf nach lit. a bei einem Invaliditätsgrad von 50 bis unter
+60 %; zwei Drittel des Höchstbetrags für den Lebensbedarf nach
+lit. a bei einem Invaliditätsgrad von 60 bis unter 70 %.
+3.2.2
+Wird der Grenzbetrag in Art. 14a Abs. 2 lit. a-c ELV
+nicht erreicht, insbesondere wenn keine Erwerbstätigkeit ausgeübt wird, gilt
+die Vermutung des Verzichts auf Einkünfte im Sinne von Art. 11 lit. g ELG.
+Diese Vermutung kann durch den Nachweis, dass invaliditätsfremde Gründe wie
+Alter, mangelhafte Ausbildung und Sprachkenntnisse, persönliche Umstände oder
+die Arbeitsmarktsituation übermässig erschweren oder verunmöglichen,
+widerlegt werden. Massgebend für die Berechnung der Ergänzungsleistungen ist
+daher das hypothetische Erwerbseinkommen, das die versicherte Person
+tatsächlich realisieren könnte (BGE 141 V 343 E. 3.3; BGer-Urteil 9C_251/2019
+vom 9. Januar 2020 E. 5.2).
+3.2.3
+Die EL-Organe und die Sozialversicherungsgerichte
+haben in Bezug auf die invaliditätsbedingte Beeinträchtigung der
+Erwerbsfähigkeit grundsätzlich die Invaliditätsbemessung der
+Invalidenversicherung zu übernehmen (BGE 141 V 343 E. 5.7).
+Diese Bindung ist deshalb angezeigt, weil die EL-Durchführungsorgane zum einen
+nicht über die fachlichen Voraussetzungen für eine selbständige Beurteilung
+der Invalidität verfügen und es zum andern zu vermeiden gilt, dass der
+gleiche Sachverhalt unter denselben Gesichtspunkten von verschiedenen
+Instanzen unterschiedlich beurteilt wird (BGE 140 V 267 E. 5.1). Die
+Bindung an den invalidenversicherungsrechtlichen Entscheid ist zudem auch
+gerechtfertigt, weil zwischen Leistungsberechtigung in der
+Invalidenversicherung und dem Anspruch auf Ergänzungsleistungen ein enger
+Zusammenhang besteht (Art. 4 Abs. 1 lit. c ELG; BGE 140 V 267 E. 5.2.2;
+BGer-Urteil 9C_251/2019 vom 9. Januar 2020 E. 5.3).
+4.
+4.1
+Die IV-Stelle setzte den Invaliditätsgrad des
+Beschwerdeführers auf 65 % fest. Die Beschwerdegegnerin rechnete daher
+bei den Ergänzungsleistungen dem Beschwerdeführer bis zur Vollendung seines
+60. Altersjahrs ein hypothetisches Erwerbseinkommen von zwei Dritteln
+des Höchstbetrags für den Lebensbedarf von Alleinstehenden an (Art. 14a
+Abs. 2 lit. c ELV), was im Jahr Fr. 12'806.- (2014) bis Fr. 12'860.-
+(2015 bis 2018) entspricht (vgl. Art. 10 Abs. 1 lit. a Ziff. 1 ELG).
+4.2
+Zu prüfen ist, ob der Beschwerdeführer die
+gesetzliche Vermutung des Verzichts auf Erwerbseinkommen umzustossen vermag.
+Soweit er dies mit medizinischen Gründen versucht, ist ihm nicht zu folgen.
+Wie dargelegt sind die EL-Organe und die Sozialversicherungsgerichte mit
+Bezug auf die invaliditätsbedingte Beeinträchtigung der Erwerbsfähigkeit an
+die Invaliditätsbemessung der Invalidenversicherung gebunden, weshalb die
+gesetzliche Vermutung nur durch invaliditätsfremde Gründe umgestossen werden
+kann (vgl. auch BGer-Urteil 9C_255/2013 vom 12. September 2013
+E. 4.2). Daran ändert auch eine allenfalls schwankende Arbeitsfähigkeit
+nichts, denn kurzfristige gesundheitliche Beeinträchtigungen, die keine
+höheren Leistungen der Invalidenversicherung auszulösen vermögen, sind nicht
+zu berücksichtigen (BGer-Urteil 9C_108/2019 vom 22. August 2019 E. 4.1).
+Ferner ist nicht ersichtlich, dass sich der Gesundheitszustand des
+Beschwerdeführers seit Erstellung des Gutachtens der asim Basel
+verschlechtert hat, was hinsichtlich der Ergänzungsleistungen für das Jahr
+2018 zu einer von der IV-Stelle abweichenden Beurteilung führen könnte.
+Damit ist davon
+auszugehen, dass der Beschwerdeführer in seiner zuletzt ausgeführten leichten
+körperlichen Tätigkeit im Geschäft seiner Söhne zu 50 % arbeitsfähig war
+und ist. Allgemein besteht für wechselbelastende, leichte Tätigkeiten mit
+klarer Aufgabenstellung, ohne zu hohe kognitive Anforderungen, ohne zu hohe
+Anforderungen an körperliche Fähigkeiten und ohne zu hohe Anforderungen an
+kreative Fertigkeiten sowie ohne Konflikte mit dem Arbeitgeber eine 50%ige
+Arbeitsfähigkeit, sofern die Möglichkeit besteht, sich zurückzuziehen und
+regelmässig Pausen einzulegen.
+4.3
+Unerheblich ist sodann der Umstand, dass die
+rückwirkend ab dem 1. November 2014 laufende Invalidenrente dem
+Beschwerdeführer erst am 10. April 2018 zugesprochen wurde. Aufgrund der
+dem gesamten Sozialversicherungsrecht zugrundeliegenden Schadenminderungspflicht
+wäre der Beschwerdeführer gehalten gewesen, alles ihm Zumutbare zu tun, um
+seine Resterwerbsfähigkeit auch während des laufenden IV-Verfahrens
+auszuschöpfen. Von dieser Pflicht entbinden selbst ärztliche
+Arbeitsunfähigkeitszeugnisse nicht (BGer-Urteil 9C_108/2019 vom 22. August
+2019 E. 4.2).
+4.4
+Entgegen der Auffassung des Beschwerdeführers sind
+bei Hilfsarbeiten grundsätzlich weder gute Deutschkenntnisse noch eine Schul-
+oder andere Ausbildung erforderlich. Daher steht die Häufung der für die
+Verwertung einer verbleibenden Arbeitsfähigkeit ungünstigen Faktoren wie die
+fehlende Schul- und Ausbildung, mangelnde Deutschkenntnisse und fehlende
+Berufserfahrung einer Anrechnung eines hypothetischen Erwerbseinkommens nicht
+entgegen (BGer-Urteil 9C_717/2010 vom 26. Januar 2011 E. 5.1).
+Ergänzend ist darauf hinzuweisen, dass der Beschwerdeführer entgegen der
+Darstellung in seiner Beschwerde nicht über bloss rudimentäre
+Deutschkenntnisse verfügt, konnte doch die Begutachtung des Beschwerdeführers
+durch das asim Basel zu einem erheblichen Teil in deutscher Sprache
+durchgeführt werden.
+4.5
+Schliesslich ist es auch nicht unrealistisch, dass
+der Beschwerdeführer eine seinem Anforderungsprofil entsprechende leichte
+Tätigkeit (vgl. dazu E. II/4.2) hätte finden können. Zwar dürfte es
+zutreffen, dass sein Alter von 56 Jahren im Jahr 2014 die Stellensuche
+erschwerte. Indessen ist aus den Akten nicht ersichtlich, dass er sich nach
+der Aufgabe seiner Tätigkeit in der Firma seiner Söhne im Jahr 2013 ernsthaft
+um eine Arbeitsstelle bemüht hat. Insofern fehlt es am rechtsgenüglichen
+Beweis, dass es ihm trotz Aufbietung allen guten Willens praktisch unmöglich
+war, das ihm angerechnete hypothetische Erwerbseinkommen zu erzielen
+(vgl. BGer-Urteil P 6/04 vom 4. April 2005 E. 3.1.3).
+Daran ändert nichts, dass er in den Jahren 2006 und 2007 sowie 2009 und 2010
+bei der Arbeitslosenkasse zum Bezug von Leistungen der
+Arbeitslosenversicherung angemeldet war.
+Damit ist es nicht zu
+beanstanden, dass die Beschwerdegegnerin ihm bis zur Vollendung seines
+60. Altersjahrs ein hypothetisches Erwerbseinkommen von
+Fr. 12'806.- bzw. Fr. 12'860.- pro Jahr anrechnete.
+5.
+5.1
+Unter dem Titel des Verzichtseinkommens ist auch ein
+hypothetisches Einkommen des Ehegatten eines EL-Ansprechers anzurechnen,
+sofern auf eine zumutbare Erwerbstätigkeit oder deren zumutbare Ausdehnung
+verzichtet wird. Die hypothetische Frage, ob der Ehefrau eines Bezügers von
+Ergänzungsleistungen eine Erwerbstätigkeit zugemutet werden kann, lässt ohne
+vorgängige Abklärungen zum Einzelfall ein schematisches Abstellen auf
+statistische Durchschnittswerte oder mehr oder weniger gesicherte
+Erfahrungsannahmen, die zwar für einen Grossteil der Versicherten zutreffen,
+aber nichts über das beruflich-erwerbliche Leistungsvermögen im konkreten
+Fall aussagen, nicht zu. Dabei muss in jedem Einzelfall geprüft werden, ob
+von der Ehefrau unter den gegebenen Umständen verlangt werden kann, von nun
+an einem Arbeitserwerb nachzugehen, und wie hoch der Lohn wäre, den sie bei
+gutem Willen erzielen könnte. Anhaltspunkte dafür sind etwa ihre familiären
+Verpflichtungen, ihr Alter, ihr Gesundheitszustand, ihre Ausbildung,
+gegebenenfalls die Zeitdauer, während der sie nicht mehr im Berufsleben
+gestanden ist, sowie die konkrete Arbeitsmarktlage. Sodann sind hinsichtlich
+des Angebots an offenen geeigneten Stellen für Personen, welche die
+persönlichen und beruflichen Voraussetzungen der Ehefrau des
+Beschwerdeführers aufweisen, sowie die Zahl der Arbeit suchenden Personen die
+lokal massgebenden Verhältnisse zu ermitteln. Der Untersuchungsgrundsatz
+(Art. 43 Abs. 1 ATSG) dürfte daher eine persönliche Befragung der Ehefrau des
+Beschwerdeführers erfordern. Die Ermittlung der lokalen Verhältnisse auf dem
+Arbeitsmarkt kann sodann beispielsweise durch Befragung der kantonalen
+Arbeitsmarktbehörde erfolgen (BGE 142 V 12 E. 3.2; BGer-Urteil
+8C_172/2007 vom 6. Februar 2008 E. 9.2, P 6/04 vom 4. April 2005 E. 3.2.2,
+P 69/99 vom 13. August 2001 E. 4a).
+5.2
+Die Beschwerdegegnerin rechnete ab dem 1. Februar
+2020 ein hypothetisches Erwerbseinkommen der Ehefrau von Fr. 25'200.- an,
+wobei sie von einer vollen Arbeitstätigkeit in der Reinigungsbranche ausging
+und den Mindestlohn gemäss Gesamtarbeitsvertrag um 30 % reduzierte.
+Dieses Vorgehen genügt den oben beschriebenen Anforderungen nicht. Vielmehr
+hat die Beschwerdeführerin sich vor dem Entscheid über die Anrechnung eines
+hypothetischen Erwerbseinkommens der Ehefrau des Beschwerdeführers
+rechtsgenügend mit ihrer gesundheitlichen Situation sowie den weiteren
+wesentlichen Umständen des konkreten Einzelfalls auseinanderzusetzen. Dabei
+sind sowohl der Beschwerdeführer als auch seine Ehefrau bei der
+Sachverhaltsabklärung zur Mitwirkung verpflichtet.
+5.3
+Demgemäss ist die Beschwerde teilweise gutzuheissen.
+Der Einspracheentscheid vom 7. April 2020 ist insofern aufzuheben, als der
+Ehefrau des Beschwerdeführers ab dem 1. Februar 2020 ein hypothetisches
+Erwerbseinkommen angerechnet wurde. Diesbezüglich ist die Sache im Sinne der
+Erwägungen an die Beschwerdegegnerin zu ergänzenden Abklärungen und zum
+Neuentscheid zurückzuweisen.
+III.
+1.
+Die Gerichtskosten sind
+von Gesetzes wegen auf die Staatskasse zu nehmen (Art. 1 Abs. 1 ELG
+i.V.m. Art. 61 lit. a ATSG). Ausgangsgemäss steht dem teilweise obsiegenden
+Beschwerdeführer eine um die Hälfte reduzierte Parteientschädigung von
+Fr. 1'000.- (inkl. Mehrwertsteuer) zu, welche durch die
+Beschwerdegegnerin zu bezahlen ist.
+2.
+2.1
+Der Beschwerdeführer beantragt die Gewährung der
+unentgeltlichen Prozessführung und der unentgeltlichen Rechtsverbeiständung.
+Gemäss Art. 139 Abs. 1 des Gesetzes über die
+Verwaltungsrechtspflege vom 4. Mai 1986 (VRG) befreit die Behörde eine
+Partei, der die Mittel fehlen, um neben dem Lebensunterhalt für sich und ihre
+Familie die Verfahrenskosten aufzubringen, auf Gesuch hin ganz oder teilweise
+von der Kosten- und Vorschusspflicht, sofern das Verfahren nicht aussichtslos
+ist. Unter denselben Voraussetzungen weist sie der Partei auf Gesuch hin oder
+von Amtes wegen einen Anwalt als Rechtsbeistand zu, sofern ein solcher für
+die gehörige Interessenwahrung erforderlich ist (Art. 61 lit. f ATSG und Art.
+139 Abs. 2 VRG). Der Nachweis der Bedürftigkeit obliegt nach Art. 139
+Abs. 3 VRG der gesuchstellenden Partei.
+2.2
+Da die Gerichtskosten auf die Staatskasse zu nehmen
+sind, ist das Gesuch des Beschwerdeführers um Gewährung der unentgeltlichen
+Prozessführung als gegenstandslos geworden abzuschreiben.
+2.3
+Aufgrund der Aktenlage erscheint die
+Mittellosigkeit des Beschwerdeführers als offensichtlich. Zudem kann das vorliegende
+Verfahren nicht als aussichtslos bezeichnet werden. Da der Beschwerdeführer
+ausserdem für das Verfahren auf eine rechtliche Vertretung angewiesen war,
+ist sein Gesuch um unentgeltliche Rechtsverbeiständung in der Person von
+Rechtsanwalt B.______ gutzuheissen. Letzterer ist zu Lasten der Gerichtskasse
+mit pauschal Fr. 2'000.- (inkl. Auslagen und Mehrwertsteuer) zu entschädigen,
+wobei die Parteientschädigung von Fr. 1'000.- seitens der Beschwerdegegnerin
+anzurechnen ist.
+2.4
+Der Beschwerdeführer ist darauf hinzuweisen, dass
+eine Partei, der die unentgeltliche Rechtspflege bewilligt worden ist, für
+den Fall, dass sie später in günstige wirtschaftliche Verhältnisse gelangt,
+zur Nachzahlung der Verfahrenskosten verpflichtet werden kann (Art. 139a VRG).
+Demgemäss beschliesst die Kammer
+:
+1.
+Das
+Gesuch des Beschwerdeführers um Gewährung der unentgeltlichen
+Prozessführung wird als gegenstandslos geworden abgeschrieben.
+2.
+Das
+Gesuch des Beschwerdeführers um Gewährung der unentgeltlichen
+Rechtsverbeiständung wird gutgeheissen. Ihm wird in der Person von
+Rechtsanwalt B.______ ein unentgeltlicher Rechtsbeistand bestellt.
+3.
+Der
+Rechtsbeistand wird zu Lasten der Gerichtskasse mit Fr. 2'000.-
+(inkl. Auslagen und Mehrwertsteuer) entschädigt. Daran angerechnet wird
+die durch die Beschwerdegegnerin auszurichtende Parteientschädigung von
+Fr. 1'000.-.
+4.
+Die
+Nachzahlungspflicht gemäss Art. 139a VRG bleibt vorbehalten.
+5.
+Die Gerichtskasse wird beauftragt, spätestens im
+September 2025 zu prüfen, ob die Voraussetzungen für die Nachzahlung
+erfüllt sind.
+und erkennt sodann:
+1.
+Die
+Beschwerde wird teilweise gutgeheissen. Der Einspracheentscheid vom
+7. April 2020 wird insofern aufgehoben, als der Ehefrau des
+Beschwerdeführers ab dem 1. Februar 2020 ein hypothetisches Erwerbseinkommen
+angerechnet wurde. Diesbezüglich wird die Sache im Sinne der Erwägungen an
+die Beschwerdegegnerin zu ergänzenden Abklärungen und zum Neuentscheid
+zurückgewiesen.
+2.
+Die
+Gerichtskosten werden auf die Staatskasse genommen.
+3.
+Die
+Beschwerdegegnerin wird verpflichtet, dem Beschwerdeführer innert
+30 Tagen nach Rechtskraft dieses Entscheids eine Parteientschädigung
+von Fr. 1'000.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
