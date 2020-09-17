@@ -1,0 +1,488 @@
+---
+decision_id: "gl_gerichte_VG.2020.00053"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2020.00053"
+docket_2: "VG.2020.975"
+decided: "2020-09-17"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1319&W10_KEY=218274&nTrefferzeile=5&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/173.110/art-113.md"]
+---
+
+# GL Gerichte VG.2020.00053
+
+## Regeste
+
+Fremdenpolizei
+
+## Text
+
+Glarus Verwaltungsgericht 17.09.2020 VG.2020.00053 (VG.2020.975)
+Glaris Verwaltungsgericht 17.09.2020 VG.2020.00053 (VG.2020.975)
+Glarona Verwaltungsgericht 17.09.2020 VG.2020.00053 (VG.2020.975)
+
+Fremdenpolizei
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+17. September 2020
+I. Kammer
+in Sachen
+VG.2020.00053
+A.______
+Beschwerdeführer
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+1.
+Gemeinde Glarus Nord
+Beschwerdegegner
+vertreten durch
+Rechtsanwältin
+C.______
+2.
+Regierungsrat des Kantons Glarus
+betreffend
+Nichterteilung der Einbürgerung
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Der […] Staatsangehörige
+A.______ stellte am
+4. Januar 2016 bei der Gemeinde Glarus Nord ein Gesuch um Erteilung der
+eidgenössischen Einbürgerungsbewilligung. Am 30. Juni 2016 ersuchte er um
+Einbezug seiner minderjährigen Kinder D.______ (geboren […]), E.______
+(geboren […]) und F.______ (geboren […]).
+1.2
+In ihrer Sitzung vom 21. Februar 2017 führte die
+Einbürgerungskommission der Gemeinde Glarus Nord ein Gespräch mit A.______
+und beschloss, ihr Mitspracherecht betreffend ihn und seine Kinder gegenüber
+dem Zivilstands- und Bürgerrechtsdienst im negativen Sinne auszuüben. Der
+Beschluss wurde A.______ nicht eröffnet. In der Folge entschied die
+Einbürgerungskommission am 4. Juli 2018, dass das Einbürgerungsgesuch infolge
+mangelnder sozialer Integration sowie der vorhandenen fundamentalistischen
+Ansätze abgelehnt werde, was sie A.______ am 5. Juli 2018 mitteilte.
+1.3
+Dagegen erhob A.______ am 5. September 2018
+Beschwerde beim Regierungsrat. Er beantragte die Aufhebung des Entscheids der
+Einbürgerungskommission und die Genehmigung des Einbürgerungsgesuchs. Der
+Regierungsrat trat am 12. März 2019 auf die Beschwerde nicht ein, stellte
+aber fest, dass die angefochtene Verfügung der Einbürgerungskommission
+nichtig sei. Dies begründete er im Wesentlichen damit, dass der Entscheid erhebliche
+Mängel aufweise, wobei er insbesondere durch eine unvollständig und
+unrechtmässig zusammengesetzte Behörde getroffen worden sei.
+2.
+2.1
+Die Einbürgerungskommission führte am 24. Mai 2019
+ein weiteres Einbürgerungsgespräch mit A.______. Gleichentags lehnte sie sein
+Einbürgerungsgesuch erneut ab, was sie ihm am 14. Juni 2019 mitteilte.
+2.2
+Dagegen erhob A.______ am 16. August 2019 Beschwerde
+beim Regierungsrat und beantragte die Aufhebung des Entscheids der
+Einbürgerungskommission. Der Regierungsrat wies die Beschwerde am 21. April
+2020 ab.
+3.
+3.1
+A.______ gelangte am 21. Mai 2020 mit Beschwerde ans
+Verwaltungsgericht und beantragte die Aufhebung des Entscheids des
+Regierungsrats vom 21. April 2020 und desjenigen der Einbürgerungskommission
+vom 24. Mai 2019. Das Einbürgerungsgesuch von ihm und seinen Kindern sei zu
+genehmigen und es sei ihnen das Schweizer Bürgerrecht zu erteilen; alles
+unter Kosten- und Entschädigungsfolgen zu Lasten des Regierungsrats und der
+Gemeinde Glarus Nord für das vorliegende Verfahren wie auch für das Verfahren
+vor dem Regierungsrat. In prozessualer Hinsicht beantragte er eine mündliche
+Verhandlung, allenfalls eine persönliche Anhörung durch ein Mitglied des
+Verwaltungsgerichts. Sodann sei auch seine Ehefrau persönlich anzuhören. Am
+18. Juni 2020 beantragte er ergänzend, das Verfahren sei im Sinne von
+Art. 136 Abs. 1 lit. b des Gesetzes über die
+Verwaltungsrechtspflege vom 4. Mai 1986 (VRG) kostenlos zu führen.
+3.2
+Der Regierungsrat schloss am 22. Juni 2020 auf Abweisung
+der Beschwerde; unter Kostenfolgen zu Lasten von A.______. Die Gemeinde
+Glarus Nord beantragte am 24. Juni 2020 die Beschwerde sei abzuweisen,
+soweit überhaupt darauf einzutreten sei; unter Kosten- und
+Entschädigungsfolgen zu Lasten von A.______.
+3.3
+Am 3. September 2020 teilte A.______ dem
+Verwaltungsgericht mit, dass er von […] nach […] gezogen sei, und wies
+gleichzeitig auf einen Entscheid des Verwaltungsgerichts des Kantons Zürich
+hin.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 105 Abs. 1
+lit. b VRG zur Behandlung der vorliegenden Beschwerde zuständig. Da auch die
+weiteren Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde
+einzutreten.
+1.2
+1.2.1
+Das Verfahren vor dem Verwaltungsgericht wird
+grundsätzlich schriftlich geführt. Nach Bedarf kann das Verwaltungsgericht
+aber zu einer mündlichen Verhandlung vorladen (Art. 96 Abs. 3 VRG). Gemäss
+Art. 47 Abs. 1 VRG kann es zudem eine Partei zum Beweis einer Tatsache
+einvernehmen und weitere Personen befragen (Art. 51 VRG). Ob eine mündliche
+Verhandlung durchzuführen ist oder zusätzliche Beweise abzunehmen sind, liegt
+im pflichtgemässen Ermessen des Gerichts.
+1.2.2
+Vorliegend ergibt sich der rechtserhebliche
+Sachverhalt aus den Akten. Der Beschwerdeführer hatte zudem die Gelegenheit,
+sich vor der Beschwerdegegnerin 1 mündlich zu äussern. Sodann ist nicht
+ersichtlich, wie die Befragung seiner Ehefrau etwas am angefochtenen
+Entscheid ändern könnte, zumal die Vorinstanz die angeblich mangelhafte
+Unterstützung des Beschwerdeführers bei der Integration seiner Ehefrau nicht
+als entscheidwesentlich erachtete.
+1.2.3
+Sodann lässt sich auch aus der Europäischen
+Menschenrechtskonvention vom 4. November 1950 (EMRK) kein Anspruch auf
+eine mündliche Verhandlung ableiten, da Streitigkeiten über
+Einbürgerungsentscheide nicht in den Anwendungsfall von Art. 6
+Ziff. 1 EMRK fallen (Andreas Kley, Art. 6 EMRK als Rechtsschutzgarantie
+gegen die öffentliche Gewalt, Zürich 1993, S. 57). Von einer mündlichen
+Verhandlung kann daher abgesehen werden.
+2.
+2.1
+Der Beschwerdeführer macht geltend, der
+Beschwerdegegner 2 habe in seinem Beschwerdeentscheid integral alle
+Abweisungsgründe der Beschwerdegegnerin 1 unkritisch übernommen. Die
+gegen ihn erhobenen Vorwürfe und sämtliche Ablehnungsgründe entsprächen nicht
+der Wahrheit, seien teils frei erfunden und würden sowohl das Ermessen der
+Entscheidbehörde überschreiten als auch das Willkürverbot verletzen. Das
+Einbürgerungsverfahren sei ein behördliches Trauerspiel. Es sei kein
+Verfahren mit ihm, sondern ein solches gegen ihn. Er habe sich Dinge gefallen
+lassen müssen, die in einem integren, rechtsstaatlichen Verfahren keinen
+Platz hätten. Er führe zusammen mit seiner Familie ein vorbildliches Leben.
+Seine gesamte Familie lebe nach Recht und Ordnung in der Schweiz. Wenn dem
+nicht so wäre, dann wäre dies aufgefallen, doch seine Familie habe nur
+ausgezeichnete Referenzen. Er sei überall willkommen, werde als Schweizer
+wahrgenommen, sei umgänglich, arbeitsam, sparsam, anständig, hilfsbereit und
+konfliktfrei. Durch die vorinstanzlichen Entscheide werde hingegen der
+Integrationsbegriff bis zur Unkenntlichkeit entstellt. Entgegen der
+Auffassung der Vorinstanzen sei er gut integriert.
+2.2
+Die Beschwerdegegnerin 1 führt aus, nur, weil die
+Familie des Beschwerdeführers die in der Schweiz geltenden Regeln akzeptiere
+und nicht negativ auffalle, heisse das nicht, dass sie die
+Integrationsvoraussetzungen erfülle, welche für eine Einbürgerung notwendig
+seien. Sie habe gestützt auf die Akten festgestellt, dass die Vermögensangabe
+des Beschwerdeführers in seinem Einbürgerungsgesuch wesentlich über dem in
+der Steuererklärung deklarierten Vermögen gelegen habe. Der Beschwerdeführer
+habe dies mit Nichtwissen bezüglich des zu deklarierenden Vermögens in der
+Steuererklärung erklärt, wobei er die Angelegenheit mittels einer straflosen
+Selbstanzeige inzwischen bereinigt habe. Sodann habe seine Angabe im
+Einbürgerungsgesuch, Mitglied einer Wandergruppe zu sein, nicht der Wahrheit
+entsprochen. Ebenso wenig sei gestützt auf die Beobachtungen anlässlich des
+Einbürgerungsgesprächs seine Aussage glaubhaft, dass er mit den Kindern immer
+deutsch spreche und dass auch die Kinder untereinander deutsch sprechen
+würden. Alles in allem scheine es der Beschwerdeführer mit der Wahrheit nicht
+so genau zu nehmen. Fragen werfe auch die Angabe der Referenzpersonen auf, da
+eine in der Vergangenheit schon negativ aufgefallen sei und eine andere den
+Beschwerdeführer nur vom Sehen und Grüssen her kenne. Das Wissen des
+Beschwerdeführers über die lokalen und kantonalen Verhältnisse sei
+bescheiden, auch habe er im Einbürgerungsgespräch nicht authentisch gewirkt.
+Der Beschwerdeführer übersehe, dass die Integration insbesondere auch
+voraussetze, dass die Gesuch stellende Person mit den Lebensgewohnheiten,
+Sitten und Gebräuchen im Kanton vertraut und in die Gesellschaft
+eingegliedert ist.
+2.3
+Der Beschwerdegegner 2 führt aus, er habe sich
+einlässlich und differenziert mit dem erstinstanzlichen Entscheid und der ihm
+zugrundeliegenden Begründung auseinandergesetzt. Dabei sei er zum Schluss
+gekommen, dass die Beschwerdegegnerin 1 das Erfordernis einer genügenden
+Eignung und Integration des Beschwerdeführers für die Einbürgerung zu Recht
+verneint habe. Weder aus dem Bundesrecht noch aus dem kantonalen Recht gebe
+es einen Rechtsanspruch auf Einbürgerung. Vielmehr verfügten die
+Einbürgerungsbehörden über einen gewissen, von den Rechtsmittelinstanzen zu
+beachtenden Beurteilungsspielraum. Es bestehe sodann keine gesetzliche oder
+natürliche Vermutung, dass wer die obligatorische Schule vollständig in der
+Schweiz und zumindest teilweise im Kanton besucht habe, als vertraut mit den
+schweizerischen und örtlichen Gegebenheiten gelte und deshalb seine
+Kenntnisse der geographischen, historischen, politischen und
+gesellschaftlichen Verhältnisse in Bund, Kanton und Gemeinde nicht mehr
+nachweisen müsse. Die Beschwerdegegnerin 1 habe ihren Entscheid überdies
+nicht nur einseitig auf die mangelhaften Kenntnisse des Beschwerdeführers
+gestützt, sondern im Rahmen einer Gesamtbeurteilung auch mit dem fehlenden
+Integrationswillen des Beschwerdeführers begründet.
+3.
+3.1
+Am 1. Januar 2018 trat das Bundesgesetz über das
+Schweizer Bürgerrecht vom 20. Juni 2014 (BüG) in Kraft. Dieses sieht in der
+Übergangsbestimmung von Art. 50 Abs. 2 vor, dass vor dem
+Inkrafttreten des Gesetzes eingereichte Gesuche bis zum Entscheid über das
+Gesuch nach den Bestimmungen des bisherigen Rechts behandelt werden.
+Ebenfalls am 1. Januar 2018 trat das kantonale Gesetz über das Kantons- und
+Gemeindebürgerrecht vom 1. Mai 2016 (KBüG) in Kraft. Wie das Bundesgesetz
+sieht es in Art. 24 vor, dass bei Inkrafttreten des Gesetzes bereits
+eingereichte Einbürgerungsgesuche nach dem bisherigen Recht beurteilt werden.
+3.2
+Der Beschwerdeführer reichte sein
+Einbürgerungsgesuch am 4. Januar 2016 und damit vor Inkrafttreten der neuen
+Gesetze ein. Damit sind vorliegend das Bundesgesetz über Erwerb und Verlust
+des Schweizer Bürgerrechts vom 29. September 1952 (aBüG) und das Gesetz
+über das Kantons- und Gemeindebürgerrecht vom 2. Mai 1993 anwendbar
+(aKBüG).
+3.3
+3.3.1
+Für die ordentliche Einbürgerung muss der
+Gesuchsteller die gesetzlichen Wohnsitzerfordernisse erfüllen (Art. 15 aBüG).
+Überdies ist gemäss Art. 14 aBüG vor Erteilung der Bewilligung zu
+prüfen, ob der Bewerber zur Einbürgerung geeignet ist, insbesondere ob er in
+die schweizerischen Verhältnisse eingegliedert ist (lit. a), mit den
+schweizerischen Lebensgewohnheiten, Sitten und Gebräuchen vertraut ist
+(lit. b), die schweizerische Rechtsordnung beachtet (lit. c) und die
+innere oder äussere Sicherheit der Schweiz nicht gefährdet (lit. d). Die
+Kantone sind in der Ausgestaltung der Einbürgerungsvoraussetzungen insoweit
+frei, als sie hinsichtlich der Wohnsitzerfordernisse oder der Eignung
+Konkretisierungen des bundesgesetzlich vorgeschriebenen Rahmens vornehmen
+können, solange ihre Anforderungen selbst verfassungskonform sind und eine
+Einbürgerung nicht übermässig erschweren (BGE 146 I 49 E. 2.2,
+mit Hinweisen).
+3.3.2
+Nach Art. 20 Abs. 1 aKBüG kann um Aufnahme in das
+Gemeinde- und Kantonsbürgerrecht nachsuchen, wer zur Einbürgerung geeignet
+und integriert ist. Eignung und Integration sind nach Art. 20 Abs. 2 aKBüG
+insbesondere gegeben, wenn die Gesuch stellende ausländische Person im Besitz
+der eidgenössischen Einbürgerungsbewilligung ist (lit. a); mit den
+Lebensgewohnheiten, Sitten und Gebräuchen im Kanton vertraut und in die
+Gesellschaft eingegliedert ist (lit. b); über ausreichende Kenntnisse der
+deutschen Sprache zur Verständigung mit den Behörden und der einheimischen
+Bevölkerung verfügt (lit. c); die Rechtsordnung, insbesondere Verfassung und
+Gesetze, beachtet (lit. d); den Lebensunterhalt für sich und die im gleichen
+Haushalt lebenden Familienangehörigen, für die sie zu sorgen hat, aus eigenen
+Mitteln zu bestreiten vermag (lit. e); bei der Einreichung des Gesuchs
+gesamthaft während sechs Jahren im Kanton gewohnt hat, wovon die letzten drei
+Jahre ohne Unterbruch in der Gemeinde, in der das Bürgerrecht beantragt wird
+(lit. f).
+4.
+4.1
+Nach Art. 50 Abs. 1 der Bundesverfassung der
+Schweizerischen Eidgenossenschaft vom 18. April 1999 (BV) ist die
+Gemeindeautonomie nach Massgabe des kantonalen Rechts gewährleistet. Die
+Gemeinden sind in einem Sachbereich autonom, wenn das kantonale Recht diesen
+nicht abschliessend ordnet, sondern ihn ganz oder teilweise der Gemeinde zur
+Regelung überlässt und ihnen dabei eine relativ erhebliche
+Entscheidungsfreiheit einräumt. Der geschützte Autonomiebereich kann sich auf
+die Befugnis zum Erlass oder Vollzug eigener kommunaler Vorschriften beziehen
+oder einen entsprechenden Spielraum bei der Anwendung kantonalen oder
+eidgenössischen Rechts betreffen. Der Schutz der Gemeindeautonomie setzt eine
+solche nicht in einem ganzen Aufgabengebiet,
+sondern
+lediglich im streitigen Bereich voraus. Im Einzelnen ergibt sich der Umfang
+der kommunalen Autonomie aus dem für den entsprechenden Bereich anwendbaren
+kantonalen Verfassungs- und Gesetzesrecht (BGE 144 I 193
+E. 7.4.1, 139 I 169 E. 6.1, 137 I 235 E. 2.2).
+4.2
+Gemäss Art. 115 Abs. 2 der Verfassung des Kantons
+Glarus vom 1. Mai 1988 (KV) sind den Gemeinden in den Schranken von
+Verfassung und Gesetz ihr Bestand und das Recht, ihre Angelegenheiten
+selbständig zu regeln, gewährleistet. Sie besorgen alle örtlichen
+Angelegenheiten, für die weder der Bund noch der Kanton ausschliesslich
+zuständig sind (Art. 119 Abs. 1 KV).
+4.3
+Art. 21 Abs. 2 aKBüG überlässt den Entscheid über
+Einbürgerungsgesuche den Gemeinden. Diese haben bei ihrem Entscheid zwar
+Bundes- und kantonales Recht anzuwenden, verfügen aber über einen durch die
+Gemeindeautonomie geschützten Spielraum bei der Rechtsanwendung. Diesen
+Ermessensspielraum haben sämtliche Rechtsmittelinstanzen zu beachten. Sie
+dürfen erst dann eingreifen, wenn die Gemeinde ihr Ermessen nicht
+pflichtgemäss, das heisst in Widerspruch zum Sinn und Zweck der
+Bürgerrechtsgesetzgebung ausübt (vgl. BGE 137 I 235
+E. 2.4).
+5.
+5.1
+Es ist unbestritten, dass der im Jahr […] geborene
+Beschwerdeführer, welcher im Kleinkindalter in die Schweiz einreiste und –
+mit einem Unterbruch von zwei Jahren […] – in der Schweiz wohnte, die bundes-
+und kantonalrechtlichen Wohnsitzerfordernisse erfüllt. Nicht strittig ist
+sodann, dass der Beschwerdeführer einwandfrei deutsch spricht und den
+Lebensunterhalt für sich und seine Familienmitglieder aus eigenen Mitteln
+bestreiten kann. Ferner ist der Beschwerdeführer nicht im Strafregister
+verzeichnet, was darauf schliessen lässt, dass er die Rechtsordnung beachtet.
+5.2
+Die Beschwerdegegnerin 1 lehnte das
+Einbürgerungsgesuch des Beschwerdeführers dennoch aus folgenden Gründen ab:
+Er verfüge nicht über ausreichende Kenntnisse der lokalen Geographie und sei
+über aktuelle politische und kulturelle Themen der Gemeinde nicht genügend
+informiert. Die Kenntnisse über die kantonale Politik und die kantonalen Spezialitäten
+seien nicht genügend. Hinsichtlich des in den Akten befindlichen
+Integrationsberichts stelle er sich als Opfer einer Lüge dar, was sie
+befremdlich finde. Die Aussage, dass er mit seinen Kindern deutsch spreche,
+werde stark angezweifelt, da er während des Einbürgerungsgesprächs mit seinen
+Kindern nur […] gesprochen habe. Es sei sodann fraglich, ob er die
+Integration seiner Ehefrau fördere, da es ihm gleichgültig sei, ob sie
+Schweizerin werden möchte oder nicht. Es sei zudem unklar, was seine Ehefrau dazu
+bewege, einerseits das Kopftuch als solches und andererseits dieses in einer
+Weise, wie sie es trage, zu tragen. Seine Nachbarin, welche er als
+Referenzperson angegeben habe, habe gar keine Referenz erteilen können, da
+sie ihn nur vom Sehen und Grüssen her kenne. Er wisse weder, wie die
+Kindergartenlehrperson seines Sohnes heisse, noch wisse er, welchen
+Kindergarten der Sohn besuche. Er kenne die Namen der Kameraden seiner Kinder
+nicht, obwohl er angebe, seine Freizeit mit seiner Familie zu verbringen. Im
+Erhebungsbericht habe er angegeben, dass "Wandern" eines seiner
+Hobbys sei und er in einer Wandergruppe sei. Im Einbürgerungsgespräch habe er
+hingegen ausgeführt, dass er noch nie auf einem Berg gewesen sei, aber
+letzthin gedacht gehabt habe, er könnte mal wandern gehen. Im Gespräch sei er
+sehr fordernd aufgetreten und habe mehrfach mit Nachdruck die Auffassung
+vertreten, er habe einen Anspruch auf seine Einbürgerung. Sodann habe er ihr
+ihre Fehler vorgehalten und sich lange bei dieser Thematik aufgehalten. Er
+habe zudem nicht als offene, ehrliche und authentische Person wahrgenommen
+werden können. Zusammenfassend halte sie ihn als nicht genügend integriert.
+5.3
+Dem Erfordernis der Eingliederung in die hiesigen
+Verhältnisse und des Vertrautseins mit den schweizerischen und lokalen
+Lebensumständen liegen unbestimmte und auslegungsbedürftige Rechtsbegriffe
+zugrunde. Gemeint sind einerseits die wirtschaftliche und soziale
+Eingliederung und andererseits Grundlagenkenntnisse der Staatskunde und
+Geschichte, der Geographie sowie von kulturellen Sitten und Gebräuchen. Eine
+genügende Integration setzt nicht die Mitgliedschaft in Vereinen oder anderen
+Gemeindeorganisationen voraus. Die soziale Eingliederung kann auch über die
+Arbeit erfolgen. Selbst ein zurückgezogenes Leben schliesst eine Integration
+je nach den konkreten Umständen nicht von vornherein aus. Zwar kann eine
+gewisse Anpassung verlangt werden, die Aufgabe der eigenen kulturellen
+Herkunft und Identität aber nicht. Überdies müssen die Anforderungen insgesamt
+verhältnismässig und diskriminierungsfrei sein und sie dürfen nicht überzogen
+erscheinen. Insbesondere handelt es sich bei der Prüfung der
+Einbürgerungsvoraussetzungen nicht um ein Fachexamen, bei der sich
+Kandidierende über Spezialkenntnisse und -begriffe auszuweisen haben.
+Vielmehr geht es um die Beurteilung von Lebenssachverhalten und um
+Grundkenntnisse des Allgemeinwissens. Spitzfindigkeiten haben im
+Einbürgerungsverfahren keinen Platz und die Ansprüche an das Wissen der
+Gesuchsteller dürfen nicht überhöht werden. Es darf nicht mehr verlangt
+werden, als auch von einem durchschnittlichen Schweizer mit Wohnsitz in der
+Gemeinde vernünftigerweise erwartet werden dürfte. Schliesslich dürfen bei
+der Beurteilung der Integration als Ganzes die kantonalen und kommunalen
+Behörden zwar den einzelnen Kriterien eine gewisse Gewichtung beimessen.
+Insgesamt muss die Beurteilung aber ausgewogen bleiben und darf nicht auf
+einem klaren Missverhältnis der Würdigung aller massgeblichen Gesichtspunkte
+beruhen. Die Fokussierung auf ein einziges Kriterium ist unzulässig, es sei
+denn, dieses falle, wie etwa eine erhebliche Straffälligkeit, bereits für
+sich allein entscheidend ins Gewicht. Erforderlich ist eine Gesamtwürdigung
+aller massgeblichen Aspekte im Einzelfall. Ein Manko bei einem Gesichtspunkt
+kann, so lange dieser nicht für sich allein den Ausschlag gibt, durch Stärken
+bei anderen Kriterien ausgeglichen werden (BGE 146 I 49
+E. 4.3 f.).
+5.4
+5.4.1
+Die Beschwerdegegnerin 1 stellte dem
+Beschwerdeführer anlässlich des Einbürgerungsgesprächs vom 24. Mai 2019
+verschiedene Fragen zur Staatskunde, zur Politik, zur Geographie und zu
+kantonalen Spezialitäten. Allen Fragen gemein war, dass sie fair und eher
+einfach zu beantworten waren. Der Beschwerdeführer konnte dabei beispielsweise
+verschiedene Grundrechte der Bundesverfassung aufzählen und wusste das Datum
+der National- und Ständeratswahlen, ohne dass er Letzteres aber gefragt
+worden wäre. Richtig waren auch seine Ausführungen zu Aufgaben von Gemeinde,
+Kanton und Bund. Ferner konnte er das Landsgemeindemenu fast korrekt
+benennen; er verwechselte lediglich eine Kalbsbratwurst mit der für den
+Kanton typischen Kalberwurst. Hingegen scheiterte er teilweise bei der
+Abfrage von geographischen Kenntnissen bereits bei einfachsten Fragen. Obwohl
+die Linth den gesamten Kanton durchfliesst und für den Kanton eminente
+Bedeutung hat, konnte er beispielsweise die Frage nach dem wichtigsten Fluss
+im Kanton nicht beantworten.
+Alleine aufgrund der
+mangelhaften geographischen Kenntnisse durfte die Beschwerdegegnerin 1
+aber nicht auf eine nur ungenügende Eignung des Beschwerdeführers zur
+Einbürgerung schliessen.
+5.4.2
+Analysiert man das Gespräch etwas genauer, fällt
+auf, dass der Beschwerdeführer immer dann Mühe hatte, wenn Fragen zu aktuellen
+Themen gestellt wurden. Obwohl das Gespräch nicht einmal drei Wochen nach der
+Landsgemeinde durchgeführt worden war, konnte der Beschwerdeführer nicht
+beantworten, wie das Wetter am Landsgemeindesonntag war. Dabei war das
+garstige Wetter mit Schneefall an der Landsgemeinde über Wochen das
+Hauptthema im Kanton. Er konnte auch kein Geschäft benennen, über welches an
+der Landsgemeinde abgestimmt worden war. Sodann kannte er keine wichtigen
+kommunalen Projekte und wusste nicht, dass die Lintharena saniert und
+umgebaut werden muss, obwohl es sich dabei um eine Thematik handelt, welche
+nicht nur die Gemeinde, sondern den ganzen Kanton beschäftigt. Ebenso wenig
+konnte er die Erweiterung des Schulhauses […] nennen, obwohl er unmittelbar
+in der Nähe des Schulhauses wohnte.
+Dass der Beschwerdeführer
+die Fragen zu den aktuellen Themen nicht beantworten konnte, wiegt schwerer
+als seine mangelhaften geographischen Kenntnisse, lässt sich doch daraus
+willkürfrei der Schluss ziehen, dass er am aktuellen Geschehen in der
+Gemeinde und im Kanton nicht interessiert ist.
+5.4.3
+Der Beschwerdeführer hat über seinen Beruf als […]
+Kontakt mit Schweizer Kunden. Ihm wird zudem von den von ihm angegebenen
+Referenzpersonen bescheinigt, ein freundlicher und angenehmer Nachbar und
+Arbeitnehmer zu sein. Auch nahm er gemäss den im verwaltungsgerichtlichen
+Verfahren eingereichten Schreiben an den Elternabenden im Kindergarten und
+der Schule teil, wusste aber am Einbürgerungsgespräch nicht, wo sein Sohn
+E.______ in den Kindergarten geht. Obwohl der Beschwerdeführer mehrfach die
+Gelegenheit hatte, entsprechende Nachweise ins Verfahren einzubringen, fehlt
+indessen jeder Beleg, dass er freiwillig einen engeren Kontakt zur
+einheimischen Bevölkerung pflegt bzw. am sozialen Leben in seiner
+Wohngemeinde teilnimmt. Ins Bild, dass er den Kontakt zu Schweizerinnen und
+Schweizern ausserhalb seiner beruflichen Tätigkeit nicht sucht oder gar
+meidet, passt dabei einerseits seine Aussage, dass er seine Freizeit im Kreis
+seiner Familie verbringe. Anderseits fügt sich darin ein, dass er zu
+aktuellen Themen, die schnell zum Gegenstand von Gesprächen mit der
+einheimischen Bevölkerung werden können, keinerlei Auskunft erteilen konnte.
+5.4.4
+Die Beschwerdegegnerin 1 berücksichtigte sodann bei
+ihrer Beurteilung des Gesuchs, dass der Beschwerdeführer in verschiedener
+Hinsicht nicht ehrlich gewesen war. Dies ist nicht zu beanstanden. So gab er
+im Erhebungsbericht an, dass Wandern ein Hobby von ihm und dass er Mitglied
+einer Wandergruppe sei, während sich im Gespräch mit der
+Beschwerdegegnerin 1 herausstellte, dass er letztmals in der Schule
+wandern war und höchstens schon daran gedacht hat, künftig einmal wandern zu
+gehen. Weiter gab er im Einbürgerungsgespräch an, dass er mit seiner Frau […]
+und seinen Kindern deutsch spreche, sprach mit Letzteren aber just an diesem
+Gespräch […].
+5.5
+Zusammenfassend begründete die
+Beschwerdegegnerin 1 die Ablehnung des Einbürgerungsgesuchs nicht
+alleine mit einzelnen Wissenslücken des Beschwerdeführers. Vielmehr zeichnete
+sie das Gesamtbild eines Gesuchstellers, der erhebliche geographische Lücken
+aufweist, weder am aktuellen Geschehen noch am Kontakt mit der einheimischen
+Bevölkerung interessiert ist und gegenüber den Behörden unehrlich auftritt.
+Zwar gibt es durchaus Punkte, die zu Gunsten des Beschwerdeführers zu werten
+sind. Das Verwaltungsgericht hat indessen den grossen Ermessensspielraum der
+Beschwerdegegnerin 1 zu respektieren. Diese durfte aufgrund ihrer
+Gesamtbeurteilung willkürfrei zum Schluss kommen, der Beschwerdeführer sei
+nur ungenügend integriert, und folglich sein Einbürgerungsgesuch abweisen.
+Anders zu entscheiden hiesse, die Gemeindeautonomie zu verletzen. Daran
+ändern auch die vom Beschwerdeführer ins Recht gelegte Entscheide anderer
+kantonaler Verwaltungsgerichte nichts, kommt diesen doch für das vorliegende
+Verfahren keinerlei Verbindlichkeit zu.
+Demgemäss ist die
+Beschwerde abzuweisen.
+III.
+1.
+Die Gerichtskosten von
+pauschal Fr. 1'500.- sind ausgangsgemäss dem Beschwerdeführer
+aufzuerlegen und mit dem von ihm bereits in gleicher Höhe geleisteten
+Kostenvorschuss zu verrechnen (Art. 134 Abs. 1 lit. c VRG). Entgegen seiner
+Auffassung bestehen keine besonderen Gründe im Sinne von Art. 136 Abs. 1 lit.
+b VRG, die eine Ermässigung der Kosten oder gar einen Verzicht auf die
+Kostenauflage rechtfertigen würden. Mangels Obsiegens steht ihm keine
+Parteientschädigung zu (Art. 138 Abs. 3 lit. a VRG e
+contrario). Eine solche ist auch der Beschwerdegegnerin 1 nicht
+zuzusprechen, da keine besonderen Umstände im Sinne von Art. 138
+Abs. 4 VRG vorliegen, welche die Zusprache einer Parteientschädigung an
+Behörden rechtfertigen würden.
+2.
+Gemäss Art. 83 lit. b des
+Bundesgesetzes über das Bundesgericht vom 17. Juni 2005 ist gegen diesen
+Entscheid die Beschwerde in öffentlich-rechtlichen Angelegenheiten ans
+Bundesgericht unzulässig. Dem Beschwerdeführer steht einzig die subsidiäre
+Verfassungsbeschwerde gemäss Art. 113 ff. BGG offen.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Die
+Gerichtkosten von Fr. 1'500.- werden dem Beschwerdeführer auferlegt und mit
+dem von ihm in gleicher Höhe geleisteten Kostenvorschuss verrechnet.
+3.
+Es
+werden keine Parteientschädigungen zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
