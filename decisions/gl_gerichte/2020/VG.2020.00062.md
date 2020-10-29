@@ -1,0 +1,719 @@
+---
+decision_id: "gl_gerichte_VG.2020.00062"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2020.00062"
+docket_2: "VG.2020.992"
+decided: "2020-10-29"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1349&W10_KEY=218274&nTrefferzeile=10&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-006.md", "switzerland/bund/acts/830.1/art-043.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/832.20/art-001.md", "switzerland/bund/acts/832.20/art-006.md", "switzerland/bund/acts/832.20/art-010.md", "switzerland/bund/acts/832.20/art-016.md", "switzerland/bund/acts/832.20/art-019.md"]
+---
+
+# GL Gerichte VG.2020.00062
+
+## Regeste
+
+Sozialversicherung - Unfallversicherung
+
+## Text
+
+Glarus Verwaltungsgericht 29.10.2020 VG.2020.00062 (VG.2020.992)
+Glaris Verwaltungsgericht 29.10.2020 VG.2020.00062 (VG.2020.992)
+Glarona Verwaltungsgericht 29.10.2020 VG.2020.00062 (VG.2020.992)
+
+Sozialversicherung - Unfallversicherung
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom 29. Oktober 2020
+II. Kammer
+in Sachen
+VG.2020.00062
+A.______
+Beschwerdeführer
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+Schweizerische
+Unfallversicherungsanstalt (Suva)
+Beschwerdegegnerin
+betreffend
+UVG-Leistungen
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Der am […] geborene A.______ war seit dem
+1. April 2011 im Vollzeitpensum bei der C.______ als Chauffeur
+tätig. Dabei war er bei der Schweizerischen Unfallversicherungsanstalt (Suva)
+für die Folgen von Berufs- und Nichtberufsunfällen versichert. Am
+22. Januar 2019 erlitt er als Fahrzeuglenker einen Verkehrsunfall.
+Bei stockendem Verkehr auf der Autobahn kollidierte ein Sattelmotorfahrzeug
+mit dem Heck des von A.______ gesteuerten Lieferwagens, wodurch dieser in das
+vorfahrende Fahrzeug gestossen wurde. Dabei verletzten sich A.______ und sein
+Beifahrer. Die beiden Fahrzeuginsassen konnten sich nicht selber aus dem
+Fahrzeug befreien.
+1.2
+Die Suva erbrachte die gesetzlichen
+Versicherungsleistungen für die Folgen dieses Berufsunfalls. Das
+Arbeitsverhältnis mit der C.______ wurde auf den 31. März 2019 aufgelöst.
+1.3
+Mit Verfügung vom 27. Januar 2020 verneinte die
+Suva einen weitergehenden Leistungsanspruch und schloss den Fall per 31.
+Januar 2020 ab. Die dagegen erhobene Einsprache wies sie am 7. Mai 2020 ab.
+2.
+A.______ gelangte in der
+Folge mit Beschwerde vom 4. Juni 2020 ans Verwaltungsgericht und beantragte,
+der Einspracheentscheid vom 7. Mai 2020 sei aufzuheben und ihm seien die
+gesetzlichen Leistungen ab dem 31. Januar 2020 zuzusprechen. Eventualiter sei
+der Einspracheentscheid an die Suva zurückzuweisen; alles unter Kosten- und
+Entschädigungsfolgen zu Lasten der Suva. Die Suva beantragte am 28. Juli 2020
+die Abweisung der Beschwerde.
+II.
+1.
+Das Verwaltungsgericht ist gemäss
+Art. 1 Abs. 1 des Bundesgesetzes über die Unfallversicherung vom 20. März
+1981 (UVG) i.V.m. Art. 56 ff. des Bundesgesetzes über den Allgemeinen Teil
+des Sozialversicherungsrechts vom 6. Oktober 2000 (ATSG) i.V.m. Art. 1 des
+Einführungsgesetzes zum Bundesgesetz über die Unfallversicherung vom
+3. Mai 2009 (EG UVG) zur Behandlung der vorliegenden Beschwerde zuständig.
+Da auch die übrigen Prozessvoraussetzungen erfüllt sind, ist auf die
+Beschwerde einzutreten.
+2.
+2.1
+Der Versicherte hat gemäss Art. 10 Abs. 1 UVG
+Anspruch auf die zweckmässige Behandlung seiner Unfallfolgen. Ist er infolge
+des Unfalls voll oder teilweise arbeitsunfähig (Art. 6 ATSG), so hat er
+gemäss Art. 16 Abs. 1 UVG Anspruch auf ein Taggeld. Der Anspruch auf ein
+Taggeld entsteht am dritten Tag nach dem Unfalltag. Er erlischt mit der
+Wiedererlangung der vollen Arbeitsfähigkeit, mit dem Beginn einer Rente oder
+mit dem Tod des Versicherten (Art. 16 Abs. 2 UVG).
+2.2
+Die Leistungspflicht des Unfallversicherers setzt
+gemäss Art. 6 Abs. 1 UVG voraus, dass zwischen dem Unfallereignis und dem
+eingetretenen Schaden ein natürlicher Kausalzusammenhang besteht. Ursachen im
+Sinne des natürlichen Kausalzusammenhangs sind alle Umstände, ohne deren
+Vorhandensein der eingetretene Erfolg nicht als eingetreten oder nicht als in
+der gleichen Weise bzw. nicht zur gleichen Zeit eingetreten gedacht
+werden kann. Entsprechend dieser Umschreibung ist für die Bejahung des
+natürlichen Kausalzusammenhangs nicht erforderlich, dass ein Unfall die
+alleinige und unmittelbare Ursache gesundheitlicher Störungen ist; es genügt,
+dass das schädigende Ereignis zusammen mit anderen Bedingungen die
+körperliche oder geistige Integrität der versicherten Person beeinträchtigt
+hat, der Unfall mit anderen Worten nicht hinweggedacht werden kann, ohne dass
+auch die eingetretene gesundheitliche Störung entfiele. Ob zwischen einem
+schädigenden Ereignis und einer gesundheitlichen Störung ein natürlicher
+Kausalzusammenhang besteht, ist eine Tatfrage, worüber die Verwaltung bzw. im
+Beschwerdefall der Richter im Rahmen der ihm obliegenden Beweiswürdigung nach
+dem im Sozialversicherungsrecht üblichen Beweisgrad der überwiegenden
+Wahrscheinlichkeit zu befinden hat. Die blosse Möglichkeit eines
+Zusammenhangs genügt für die Begründung eines Leistungsanspruchs nicht
+(BGE 129 V 177 E. 3.1, 117 V 359 E. 4a).
+Es ist
+daher unerlässlich, dass die geklagten Beschwerden nicht lediglich den von
+der versicherten Person subjektiv umschriebenen Leiden entsprechen, sondern
+medizinisch einer fassbaren gesundheitlichen Beeinträchtigung zugeschrieben
+werden können und diese Gesundheitsschädigung mit überwiegender Wahrscheinlichkeit
+in einem ursächlichen Zusammenhang mit dem versicherten Unfallereignis steht
+(BGE 119 V 335 E. 2b f.). Entscheidend ist dabei die Würdigung der
+in den Akten liegenden medizinischen Berichte, wobei
+der
+Richter bei der Beurteilung des natürlichen Kausalzusammenhangs nicht ohne
+zwingenden Grund von der Einschätzung der medizinischen Experten abweicht
+(BGE 118 V 286 E. 1b)
+.
+2.3
+Die
+Leistungspflicht der Unfallversicherung setzt im Weiteren voraus, dass zwischen
+dem Unfall und der dadurch verursachten Arbeits- bzw. Erwerbsunfähigkeit ein
+adäquater Kausalzusammenhang besteht. Ein Ereignis hat dann als adäquate
+Ursache eines Erfolgs zu gelten, wenn es nach dem gewöhnlichen Lauf der Dinge
+und nach der allgemeinen Lebenserfahrung an sich geeignet ist, einen Erfolg
+von der Art des eingetretenen herbeizuführen, der Eintritt dieses Erfolgs
+also durch das Ereignis allgemein als begünstigt erscheint (BGE 117 V
+359 E. 5a). Die Adäquanz spielt im Bereich organisch objektiv
+ausgewiesener Unfallfolgen praktisch keine Rolle, da sich hier die adäquate
+weitgehend mit der natürlichen Kausalität deckt (Alexandra
+Rumo-Jungo/André Pierre Holzer,
+Rechtsprechung des Bundesgerichts
+zum Sozialversicherungsrecht,
+Bundesgesetz
+über die Unfallversicherung, 4. A., Zürich/Basel/Genf 2012,
+S. 58 f.).
+Als objektivierbar gelten
+Untersuchungsergebnisse, die reproduzierbar und von der Person des Untersuchenden
+und den Angaben des Patienten unabhängig sind. Nach ständiger bundesgerichtlicher
+Rechtsprechung kann von organisch objektiv ausgewiesenen Unfallfolgen erst
+dann gesprochen werden, wenn die erhobenen Befunde mit apparativen/bildgebenden
+Abklärungen bestätigt werden (vgl. etwa BGE 138 V 248 E. 5.1).
+3.
+3.1
+Der Versicherungsträger prüft die Begehren, nimmt
+die notwendigen Abklärungen von Amtes wegen vor und holt die erforderlichen
+Auskünfte ein (Art. 43 Abs. 1 ATSG). Im Rahmen der Verfahrensleitung kommt
+ihm ein grosser Ermessensspielraum bezüglich Notwendigkeit, Umfang und
+Zweckmässigkeit von medizinischen Erhebungen zu. Was zu beweisen ist, ergibt
+sich aus der jeweiligen Sach- und Rechtslage. Der Sachverhalt ist so weit zu
+ermitteln, dass über den Leistungsanspruch zumindest mit dem Beweisgrad der
+überwiegenden Wahrscheinlichkeit entschieden werden kann (BGer-Urteil
+8C_815/2012 vom 21. Oktober 2013 E. 3.2.1).
+3.2
+Zur Abklärung medizinischer Sachverhalte – wie der
+Beurteilung des Gesundheitszustands sowie der Feststellung des natürlichen
+Kausalzusammenhangs im Bereich der Medizin – ist die rechtsanwendende Behörde
+regelmässig auf Unterlagen angewiesen, die ihr vorab von Ärztinnen und Ärzten
+zur Verfügung zu stellen sind (BGE 122 V 157 E. 1b, mit Hinweisen). Nach
+dem für das gesamte Verwaltungs- und Verwaltungsgerichtsbeschwerdeverfahren
+geltenden Grundsatz der freien Beweiswürdigung haben Versicherungsträger und
+Sozialversicherungsrichter die Beweise frei, d.h. ohne Bindung an förmliche
+Beweisregeln, sowie umfassend und pflichtgemäss zu würdigen. Für das
+Beschwerdeverfahren bedeutet dies, dass der Richter alle Beweismittel, unabhängig
+davon, von wem sie stammen, objektiv zu prüfen und danach zu entscheiden hat,
+ob die verfügbaren Unterlagen eine zuverlässige Beurteilung des streitigen
+Rechtsanspruchs gestatten. Insbesondere darf es bei einander widersprechenden
+medizinischen Berichten den Prozess nicht erledigen, ohne das gesamte
+Beweismaterial zu würdigen und die Gründe anzugeben, warum es auf die eine
+und nicht auf die andere medizinische These abstellt. Hinsichtlich des
+Beweiswerts eines Arztberichts ist demnach entscheidend, ob der Bericht für
+die streitigen Belange umfassend ist, auf allseitigen Untersuchungen beruht,
+die geklagten Beschwerden berücksichtigt, in Kenntnis der Vorakten (Anamnese)
+abgegeben worden ist, in der Beurteilung der medizinischen Zusammenhänge und
+Situation des Patienten einleuchtet und ob die Schlussfolgerungen begründet
+sind. Ausschlaggebend für den Beweiswert ist grundsätzlich weder die Herkunft
+eines Beweismittels noch die Bezeichnung der eingereichten oder in Auftrag
+gegebenen Stellungnahme als Bericht oder Gutachten (BGE 125 V 351
+E. 3a).
+3.3
+Weil die
+Beschwerdegegnerin in beweisrechtlicher Hinsicht ein zur Objektivität
+verpflichtetes gesetzesvollziehendes Organ ist, kann auch den Berichten und
+Gutachten versicherungsinterner Ärzte Beweiswert beigemessen werden
+,
+sofern sie als schlüssig erscheinen, nachvollziehbar begründet sowie in sich
+widerspruchsfrei sind und keine Indizien gegen ihre Zuverlässigkeit bestehen.
+Die Tatsache allein, dass der befragte Arzt in einem Anstellungsverhältnis
+zum Versicherungsträger steht, lässt nicht schon auf mangelnde Objektivität
+und auf Befangenheit schliessen. Es bedarf vielmehr besonderer Umstände,
+welche das Misstrauen in die Unparteilichkeit der Beurteilung objektiv als
+begründet erscheinen lassen. Im Hinblick auf die erhebliche Bedeutung, welche
+den Arztberichten im Sozialversicherungsrecht zukommt, ist an die
+Unparteilichkeit des Gutachters allerdings ein strenger Massstab anzulegen.
+Bestehen auch nur geringe Zweifel an der Zuverlässigkeit und Schlüssigkeit
+der versicherungsinternen ärztlichen Feststellungen, so sind ergänzende
+Abklärungen vorzunehmen (BGE 135 V 465 E. 4.4).
+4.
+4.1
+Der Beschwerdeführer macht geltend, seit dem
+Unfallereignis an einem kraniozervikalen Distorsionstrauma bzw. einem
+posttraumatischen migräniformen Kopfschmerz-Syndrom zu leiden. Diesbezüglich
+habe die Beschwerdegegnerin nicht das Vorliegen eines natürlichen, sondern
+eines adäquaten Kausalzusammenhangs zwischen den gesundheitlichen
+Beeinträchtigungen und dem Unfall bestritten. Sodann sei es nicht
+sachgerecht, dass bei der Beurteilung der rechtserheblichen Kausalität von
+einer psychischen Fehlentwicklung ausgegangen und die dafür entwickelten
+Adäquanzkriterien herangezogen würden. Vielmehr sei die zum Schleudertrauma
+und gleichwertigen Beschwerdebildern ergangene Rechtsprechung anzuwenden.
+Insofern die Adäquanzprüfung nach der für psychische Fehlentwicklungen
+massgeblichen Kriterien zu erfolgen habe, sei der Unfall als schwer zu
+qualifizieren. In den Medien sei von einem Horrorcrash berichtet worden.
+Selbst wenn dieser als bloss mittelschweres Unfallereignis qualifiziert
+werde, seien die massgebenden Kriterien mehrheitlich erfüllt. Ferner seien
+die angedachten weiterführenden Untersuchungen nicht vollständig durchgeführt
+worden. Daher habe die Beschwerdegegnerin eine umfassende, polydisziplinäre
+Begutachtung in Auftrag zu geben.
+4.2
+Die Beschwerdegegnerin weist hingegen darauf hin,
+dass der Beschwerdeführer gemäss den Unterlagen des erstbehandelnden Spitals
+nicht bewusstlos gewesen sei und nicht unter Kopfschmerzen gelitten habe. Die
+Kopfschmerzen seien erst im April 2019 und lediglich intermittierend
+aufgetreten. Sodann seien weder äussere noch innere Verletzungen des
+Kopfbereichs aktenkundig. Es sei somit nicht überwiegend wahrscheinlich, dass
+er den Kopf an der Frontscheibe angeschlagen habe. Ferner sei für die
+Kopfschmerzen kein bildgebendes/apparatives Substrat erstellt. Somit seien
+sie organisch nicht hinreichend nachweisbar. Für die Adäquanzprüfung sei die
+Psycho-Praxis anzuwenden, da nie ein Schleudertrauma der HWS diagnostiziert
+worden sei und ein für diese Verletzung typisches Beschwerdebild nicht
+aktenkundig sei. Dabei sei der Unfall höchstens als mittelschwer zu
+qualifizieren. Da kein weiteres Adäquanzkriterium vorliege, sei der adäquate
+Kausalzusammenhang zwischen dem Unfall und den organisch nicht hinreichend
+ausgewiesenen Beschwerden zu verneinen.
+5.
+5.1
+5.1.1
+Dr. med. D.______ und Dr. med. E.______
+hielten am 22. Januar 2019 fest, die Untersuchung des Schädels ergebe
+keinen Hinweis auf eine Fraktur. Eine intrakranielle Blutung könne ebenfalls
+nicht festgestellt werden. Sodann zeigten die Thoraxaufnahmen keinen
+Hämatothorax, Pneumothorax oder eine Rippenfraktur. Ferner sei keine akute
+Traumafolge des Abdomens ersichtlich. Bei der HWS sei ein regelrechtes
+Alignement erkennbar. Eine Fraktur bestehe nicht. Die BWS und die LWS würden
+eine geringe ISG-Arthrose beidseits aufweisen. Ein Frakturnachweis bestehe
+jedoch nicht. Schliesslich könnten geringe osteodegenerative Veränderungen
+des AC-Gelenks festgestellt werden. Eine Fraktur sei auch hier nicht gegeben.
+5.1.2
+Dr. med. F.______ erkannte am 23. Januar 2019 keine
+Fraktur der Klavikula. Die linken Schultergelenkbezirke seien ebenfalls
+unauffällig. Hingegen imponiere der akromioklavikulare Raum mit ca.
+9-10 mm auffallend weit.
+5.1.3
+Dr. med. G.______ und Dr. med. H.______
+diagnostizierten am 24. Januar 2019 ein ganz geringes Ödem interspinös
+HWK5/6 und geringer HWK6/7. Die Ligamenta flava seien intakt.
+Differenzialdiagnostisch komme eine geringe Stauchung oder Zerrung der
+Ligamenta infrage. Ansonsten sei die Darstellung der ligamentären Strukturen
+regelrecht. Ferner sei im Bereich der HWS und der BWS kein Nachweis einer
+wesentlichen osteodiskogenen Pathologie erbracht. Es bestehe keine spinale
+Enge oder ein Hinweis auf eine Nervenwurzelaffektion. Ebenfalls könne keine
+Raumforderung intraspinal wie auch keine Einblutung festgestellt werden.
+5.1.4
+Den Austrittsberichten des Spitals I.______ vom 28.
+Januar 2019 ist zu entnehmen, dass eine Gelenksluxation links Typ 1 nach
+Tossy diagnostiziert wurde. Der Beschwerdeführer sei nicht bewusstlos
+gewesen. Kopfschmerzen, Nausea sowie Erbrechen hätten ebenfalls nicht
+nachgewiesen werden können. Ferner habe er unmittelbar Schmerzen im HWS- und
+BWS-Bereich, der linken Schulter sowie im rechten Kiefergelenk angegeben. Er
+sei seit dem Unfalldatum bis zum 5. Februar 2019 vollständig
+arbeitsunfähig. Zudem sei am 15. Februar 2019 eine Zahnfraktur
+festgehalten worden.
+5.2
+Dr. med. J.______, Chefarzt Radiologie am Spital
+K.______, diagnostizierte am 23. März 2019 eine flache lumbale
+Protrusion der Bandscheiben L4/5 und L5/S1 ohne ossäre Reaktion oder
+Neurokompression.
+5.3
+Dr. med. L.______ röntgte den Beschwerdeführer am 6.
+Juni 2019. Beim Beschwerdeführer sei eine AC-Arthrose erkennbar, die bereits
+in der Voruntersuchung vom 22. Mai 2018 bestanden habe. Ausserdem könnten
+Signalveränderungen an den ossären Strukturen im Bereich des AC-Gelenks
+passend zu den Veränderungen nach AC-Gelenksluxation im Januar 2019 erblickt
+werden.
+5.4
+Kreisärztin Dr. med. M.______, Fachärztin
+Allgemeinchirurgie und Traumatologie, merkte am 2. Juli 2019 an, dass eine
+Tossy-I-Verletzung normalerweise nach maximal sechs bis acht Wochen abheile.
+5.5
+Dr. med. N.______, Facharzt Neurologie FMH,
+untersuchte den Beschwerdeführer am 5. September 2019. Dabei habe
+der Beschwerdeführer angegeben, den Kopf an der Frontscheibe angeschlagen zu
+haben. Er könne nicht mit Sicherheit sagen, ob er bewusstlos gewesen sei.
+Seine erste Erinnerung sei, dass er Leute um sich herum rufen gehört habe.
+Daher ging Dr. N.______ vom Vorhandensein einer Erinnerungslücke aus.
+Eine stattgehabte Commotio cerebri sei somit wahrscheinlich. Aufgrund der
+unauffälligen Vorgeschichte sei eine posttraumatische Migräne zu postulieren.
+Sodann ergebe die klinisch-neurologische Untersuchung unauffällige Befunde.
+Ein fokal-neurologisches Defizit könne nicht nachgewiesen werden.
+Insbesondere gebe es keine Anhaltspunkte für eine zerviko- oder lumboradikuläre
+Symptomatik. Dr. N.______ empfahl ein Schädel-MRI durchzuführen, damit
+eine traumatische Hirnverletzung ausgeschlossen werden könne.
+5.6
+Dr. L.______ hielt im Radiologiebefund vom 11.
+Oktober 2019 fest, dass im Schädel-MRI keine Raumforderung und keine
+Blutungsreste erkennbar seien. Ferner habe das MRI der HWS keinen fassbaren
+pathologischen Befund ergeben.
+5.7
+Kreisarzt Dr. med. univ. O.______,
+Arzt für Allgemeinmedizin, beurteilte am 28. November 2019 den
+Gesundheitszustand des Beschwerdeführers. Die Diagnose einer
+acromioclaviculären Gelenksluxation Typ I nach Tossy sei nicht
+nachvollziehbar, denn ein Druckschmerz über dem AC-Gelenk sei nicht angegeben
+worden. Sodann lasse sich im MRI der HWS vom 24. Januar 2019 kein Hinweis auf
+eine unfallkausale strukturelle Verletzung finden. Vielmehr zeige sich ein
+minimales Ödem intraspongiös zwischen HWK 5/6 und HWK 6/7 bei intakter
+Ligamenta flava. Im MRI der LWS vom 26. März 2019 würden sich ebenfalls
+ausschliesslich degenerative Befunde mit Protrusionen der Bandscheibe zeigen.
+Ferner könne er nicht nachvollziehen, weshalb im Radiologiebefund vom 6. Juni
+2019 die vorbestehende bekannte Arthrose als Folge einer möglichen
+AC-Gelenksluxation eingestuft worden sei. Der Bandapparat stelle sich
+unauffällig dar. Zudem sei im MRI des Schädels vom 11. Oktober 2019
+der Befund unauffällig gewesen. Bei der neurologischen Untersuchung vom 5.
+September 2019 sei sodann festgehalten worden, der Beschwerdeführer habe
+sich den Kopf an der Frontscheibe angeschlagen. Ein derartiger Vorgang hätte
+allerdings in einer massiven Kontusion des Brustbeins, des Thorax oder des
+Abdomens resultieren müssen. Anlässlich der Erstuntersuchung seien keine
+Hinweise auf Kontusionsmarken gefunden worden. Zudem seien beim Kopf keine
+Verletzungsfolgen oder Hinweise auf Verletzungen dokumentiert worden.
+Schliesslich habe der Unfall zu keinen objektivierbaren strukturellen
+Verletzungen geführt, weswegen keine Unfallfolgen vorliegen würden. Folglich
+sei der Beschwerdeführer seit März 2019 wieder voll erwerbfähig, weswegen
+spätestens zum jetzigen Zeitpunkt, d.h. zehn Monate nach dem Unfallereignis,
+von einer ganztätigen uneingeschränkten Arbeitsfähigkeit auszugehen sei.
+5.8
+P.______, FMH Allgemeine Innere Medizin, berichtete
+am 10. Februar 2020, dass im Verlauf des Jahres 2019 unter fortgesetzter
+Therapie die lumbalen Rückenschmerzen und auch die Nacken- und
+Schulterbeschwerden sistiert hätten. Allerdings leide der Beschwerdeführer
+unter starken Kopfschmerzen. Er sehe einen wahrscheinlichen Zusammenhang der
+aktuellen Kopfschmerzen zum Unfall und insbesondere vermute er die
+langwierigen Nackenbeschwerden als Mitauslöser. Der Beschwerdeführer habe
+seit dem 1. Dezember 2019 sein Arbeitspensum auf 50 % erhöht. Eine
+weitere Steigerung sei seither nicht möglich gewesen. Vor allem könne er die
+körperlich anstrengenden Tätigkeiten seines Berufes wie Personen- oder
+Türschutz derzeit nicht mehr ausführen. Deshalb beschränke er sich auf
+Büroarbeit oder leichtere sonstige Tätigkeiten.
+5.9
+Dr. med. Q.______, FMH Neurologie,
+untersuchte den Beschwerdeführer am 7. Juli 2020. Er bestätigte, dass
+sich in den vorliegenden bildgebenden Untersuchungen sowie in den
+Verlaufskontrolluntersuchungen neurologisch und auch allgemein-medizinisch
+keine eindeutigen Traumafolgen gezeigt hätten. Zudem seien in den
+Folgeuntersuchungen die geringen Ödeme in Höhe HWK 5-6 und HWK 6-7 wie auch
+eine mögliche Stauchung oder Zerrung im Bereich der Ligamenta flava nicht
+erneut bestätigt oder erhoben worden. Anhand des ausgeprägten Unfallgeschehens
+mit einer hohen Belastung auf die HWS und den Kopf im Sinne des Aufpralls an
+der Windschutzscheibe sei es jedoch denkbar, dass es zu kurzfristigen
+Traumafolgen im Bereich der HWS und des oberen Myelons gekommen sei. Denkbar
+sei zudem, dass die beschriebenen ödematösen Veränderungen im unteren
+HWS-Bereich auch als Traumafolge zu werten seien. Sodann gehe er insbesondere
+bei den Zervikozephalgien, den Muskeltonuserhöhungen zervikal und den
+gemischten Kopfschmerzanteilen von einer direkten Kausalität aus.
+6.
+Es ist zunächst zu prüfen,
+ob die Beschwerdegegnerin den Fall zu Recht am 31. Januar 2020
+abschloss.
+6.1
+Kann von der Fortsetzung der ärztlichen
+Behandlung keine namhafte Besserung des Gesundheitszustands erwartet werden
+und laufen keine Eingliederungsmassnahmen der Invalidenversicherung, hat der
+Versicherer den Fall unter Einstellung der vor-übergehenden Leistungen
+abzuschliessen und den Anspruch auf eine Invalidenrente und auf eine
+Integritätsentschädigung zu prüfen (Art. 19 Abs. 1 UVG; BGE 137
+V 199 E. 2.1).
+6.2
+Der Beschwerdeführer erhebt zu
+Recht keine Einwendungen gegen die kreisärztliche Einschätzung, wonach eine
+AC-Gelenksluxation nach Tossy I in der Regel nach sechs bis acht Wochen
+abheilt. Spätestens beim Fallabschluss, der ein Jahr nach dem Unfall
+erfolgte, war die AC-Gelenksluxation in der linken Schulter ausgeheilt. Es
+kann daher offen bleiben, ob beim Beschwerdeführer eine AC-Gelenksluxation
+vorlag, die auf den Unfall vom 22. Januar 2019 zurückzuführen war.
+Sodann wies Kreisarzt Dr. O.______ in berechtigter Weise darauf hin,
+dass eine AC-Gelenkarthrose bereits vor dem Unfallereignis am 22. Mai 2018
+festgestellt worden sei. Es ist somit nicht zu beanstanden, wenn er die
+AC-Gelenkarthrose als Folge einer möglichen AC-Gelenksluxation verneinte. Der
+Beschwerdegegnerin ist sodann zuzustimmen, wenn sie gestützt auf das MRI vom
+11. Oktober 2019 ein geringes Ödem interspinös zwischen HWK 5/6 und HWK
+6/7 als nicht mehr ausgewiesen hielt. Die Darstellung der HWS war
+unauffällig. Es ist deshalb anzunehmen, dass die Ödeme spätestens ab diesem
+Zeitpunkt auskurierten. Sodann gab der Hausarzt P.______ an, dass die
+lumbalen Rückenschmerzen und auch die Nacken- und Schulterbeschwerden
+im Verlauf des Jahres 2019
+sistiert hätten. Die Beschwerden in
+der LWS sind somit ausgeheilt.
+6.3
+6.3.1
+Hinsichtlich der geklagten Kopfschmerzen legte
+Dr. O.______ ausführlich und schlüssig dar, dass der Beschwerdeführer
+den Kopf nicht an der Windschutzscheibe angeschlagen habe. Ein derartiger
+Vorgang würde eine massive Kontusion des Brustbeins, des Thorax oder des
+Abdomens bedingen. Bei der Erstuntersuchung seien jedoch keine Hinweise auf
+Kontusionsmarken gefunden worden. Sodann sei der Thorax insgesamt stabil
+gewesen. Ausserdem sei die Bauchdecke weich und ohne Druckschmerz oder
+Resistenz gewesen. Schliesslich seien keine Verletzungen des Kopfs
+dokumentiert worden. Sodann ergibt sich aus den Akten, dass verschiedene
+Angaben darüber bestehen, ob der Beschwerdeführer angegurtet gewesen war oder
+nicht. In der biomechanischen Kurzbeurteilung vom 6. August 2019 wurde
+erkannt, dass der Fahrerairbag und die vorderen Gurtstraffer beim Aufprall
+ausgelöst worden waren. Ferner sei die Luxation des AC-Gelenks mit der
+Rückhaltewirkung der Sicherheitsgurte zu erklären. Der Beschwerdeführer war
+somit mit überwiegender Wahrscheinlichkeit angegurtet. Es ist aus diesen
+Gründen nicht zu beanstanden, wenn Dr. O.______ ein Aufprall des Kopfes
+an der Windschutzscheibe verneinte.
+6.3.2
+Dr. N.______ diagnostizierte eine mutmassliche Migräne.
+Sodann hielt er eine stattgehabte Commotio cerebri für wahrscheinlich. Die
+klinisch-neurologische Untersuchung ergab jedoch unauffällige Befunde.
+Nachdem die geklagten Kopfschmerzen in der klinischen Untersuchung nicht
+nachgewiesen werden konnten und trotz des Fehlens eines objektiv
+ausgewiesenen organischen Substrats eine mutmassliche Migräne sowie eine
+Commotio cerebri diagnostiziert worden waren, sind überzeugende Aussagen
+erforderlich, damit diese Beschwerden mit überwiegender Wahrscheinlichkeit als
+Unfallfolge qualifiziert werden können. Alleine auf die subjektiven Angaben
+des Beschwerdeführer ist jedoch nicht abzustellen, da sich diese einer
+medizinischen Feststellung und Überprüfung entziehen. Des Weiteren gab er
+gegenüber den Ärzten des erstbehandelnden Spitals keine Kopfschmerzen an.
+Ebenso wenig diagnostizierten diese eine Commotio cerebri. Somit fehlt es an
+überzeugenden Aussagen, wonach die Kopfschmerzen infolge des Unfalls
+eingetreten sind. Wie die Beschwerdegegnerin sodann zu Recht vorbringt,
+genügt die blosse Möglichkeit einer Diagnose nicht, um den erforderlichen
+Beweisgrad der überwiegenden Wahrscheinlichkeit zu erreichen.
+6.3.3
+Dr. Q.______ diagnostizierte beim Beschwerdeführer
+einen anhaltenden Kopfschmerz, der auf eine leichte Verletzung des Kopfes und
+der HWS zurückzuführen sei. Insofern sich die Diagnose von Dr. Q.______
+auf die Anamnese und insbesondere auf den möglichen Aufprall des Kopfes an
+der Windschutzscheibe stützte, kann ihm nicht gefolgt werden. Es wurde
+nachvollziehbar und schlüssig dargelegt, dass sich der Beschwerdeführer den
+Kopf nicht an der Windschutzscheibe angeschlagen hatte
+(vgl. E. II/6.3.1). Überdies genügt für die Begründung eines
+Leistungsanspruchs nicht, eine Diagnose für denkbar zu halten. Vielmehr
+werden gewichtige Gründe verlangt, weshalb einer Sachverhaltsdarstellung
+gefolgt werden soll. Diesbezüglich hielt Dr. Q.______ eigens fest, dass
+die Bildgebungen sowie die Verlaufskontrolluntersuchungen keine eindeutigen
+Traumafolgen gezeigt hätten. Zudem wies er darauf hin, dass in den
+Folgeuntersuchungen die Ödeme in der HWS sowie die Differenzialdiagnose einer
+Stauchung oder Zerrung im Bereich der Ligamenta flava nicht erneut bestätigt
+worden seien. Somit fehlt es beim Untersuchungsergebnis an einem hinreichend objektivierten
+Korrelat. Die von Dr. Q.______ gestellte Diagnose erreicht den
+Beweisgrad der überwiegenden Wahrscheinlichkeit nicht. Ferner stellte er eine
+diskret eingeschränkte HWS-Beweglichkeit und hochzervikale Druckschmerzpunkte
+links fest. Diese können jedoch nicht als klar ausgewiesenes organisches
+Substrat der Beschwerden qualifiziert werden (vgl. BGer-Urteil
+8C_744/2008 vom 26. November 2008 E. 4).
+Folglich liegt für die
+über den 31. Januar 2020 hinaus persistierenden Kopfbeschwerden
+kein unfallbedingtes, organisch objektiv ausgewiesenes Substrat vor.
+7.
+Nachfolgend ist zu prüfen,
+ob der Beschwerdeführer an Beschwerden leidet, welche in einem kausalen
+Zusammenhang zum Unfallereignis vom 22. Januar 2019 stehen.
+7.1
+7.1.1
+Hat die versicherte Person einen Unfall erlitten,
+welcher die Anwendung der Schleudertrauma-Rechtsprechung rechtfertigt, sind
+die durch BGE 134 V 109 E. 10 präzisierten Kriterien im
+Rahmen der Adäquanzprüfung massgebend. Die Anwendung dieser Schleudertrauma-Praxis
+setzt voraus, dass ein Schleudertrauma der Halswirbelsäule oder eine
+äquivalente Verletzung diagnostiziert wurde. Als adäquanzrechtlich gleich wie
+ein Schleudertrauma zu behandelnde Diagnose gelten neben der HWS-Distorsion
+ähnliche Verletzungen der Halswirbelsäule, insbesondere auch
+Schädel-Hirn-Traumata, sofern diese zumindest den Schweregrad einer Contusio
+cerebri erreichen. Ist diese Schleudertrauma-Rechtsprechung mangels
+Vorliegens von einschlägigen Verletzungen nicht anwendbar, sind grundsätzlich
+die Adäquanzkriterien, welche für psychische Fehlentwicklungen nach einem
+Unfall entwickelt wurden (sog. Psycho-Praxis), anzuwenden (Irene Hofer,
+in Ghislaine Frésard-Fellay/Susanne Leuzinger/Kurt Pärli [Hrsg.], Basler
+Kommentar, Unfallversicherungsgesetz, 2020, Art. 6 N. 83;
+Rumo-Jungo/Holzer, S. 59 f., mit Hinweisen).
+7.1.2
+Um die Adäquanzprüfung nach der für den
+Beschwerdeführer günstigeren Schleudertrauma-Praxis vorzunehmen, wird
+insbesondere vorausgesetzt, dass ärztlicherseits ein Schleudertrauma oder
+eine diesem äquivalente Verletzung diagnostiziert worden ist. Aus den im
+Recht liegenden Akten geht hervor, dass zwei verschiedene Versionen des
+Austrittsberichts vom 28. Januar 2019 vorliegen. Die erstbehandelnden Ärzte
+am Spital I.______ diagnostizierten einerseits eine HWS-Distorsion.
+Andererseits geht aus dem Austrittsbericht, der handschriftlich als
+provisorische Version gekennzeichnet wurde und welcher in den Akten der
+Beschwerdegegnerin zu finden ist, eine entsprechende Diagnose nicht hervor.
+Sodann ist nicht zu erkennen, von wem die Handschrift stammt, weshalb der
+Beschwerdegegnerin eine solche Markierung entging und weshalb der
+Beschwerdeführer die definitive Fassung des Austrittsberichts der
+Beschwerdegegnerin nicht einreichte. Abgesehen von den Diagnosen
+unterscheiden sich die Austrittsberichte geringfügig in der Anamnese. In der
+Endfassung wurde die Angabe entfernt, dass die Windschutzscheibe des
+Unfallfahrzeugs Risse hatte. Sodann sprachen die erstbehandelnden Ärzte dem
+Beschwerdeführer in der Statusbeurteilung der definitiven Version einen
+reduzierten Allgemeinzustand zu, dies im Gegensatz zur provisorischen
+Version, wonach sich der Beschwerdeführer in einem guten Allgemeinzustand
+befunden habe. Demgegenüber haben die Austrittsberichte gemeinsam, dass die
+Befunde aus den Zusatzuntersuchungen unverändert Eingang in die beiden
+Versionen der Austrittsberichte fanden.
+7.1.3
+Sofern auf den definitiven Austrittsbericht vom 28.
+Januar 2019 abzustellen wäre, ist ärztlicherseits eine HWS-Distorsion
+diagnostiziert worden. Für die Anwendung der Schleudertrauma-Praxis ist
+weiter erforderlich, dass sich innert der Latenzzeit von 24 bis
+72 Stunden Beschwerden in der Halsregion und der HWS manifestieren
+(BGer-Urteil 8C_413/2008 vom 5. Januar 2009 E. 5.2). Aus den im
+Recht liegenden Akten geht nicht hervor, dass sich der Beschwerdeführer
+innert den 72 Stunden über ein für diese Verletzung typisches
+Beschwerdebild wie diffuse Kopfschmerzen, Schwindel, Konzentrations- und
+Gedächtnisstörungen, Übelkeit, rasche Ermüdbarkeit, Visusstörungen,
+Reizbarkeit, Affektlabilität, Depression, Wesensveränderung
+usw. beklagte (vgl. BGE 117 V 359 E. 4b). Es wurde
+stattdessen ausdrücklich festgehalten, dass der Beschwerdeführer nicht
+bewusstlos gewesen sei. Kopfschmerzen, Nausea sowie Erbrechen hätten
+ebenfalls nicht nachgewiesen werden können. Eine dem Schleudertrauma
+äquivalente Verletzung ist von den behandelnden Ärzten ebenfalls nicht
+diagnostiziert worden.
+7.1.4
+Daraus folgt, dass die Schleudertrauma-Praxis
+infolge der fehlenden Beschwerden innerhalb der Latenzzeit von
+72 Stunden nicht anzuwenden wäre. Aufgrund der widersprüchlichen
+Austrittsberichte des Spitals I.______ rechtfertigt es sich jedoch, in
+einem ersten Schritt anhand der für den Beschwerdeführer günstigeren
+Schleudertrauma-Praxis zu prüfen, ob seine Beschwerden adäquat kausal zum
+Unfallereignis sind.
+7.2
+7.2.1
+Für die Bejahung des adäquaten Kausalzusammenhangs
+ist im Einzelfall zu verlangen, dass dem Unfall eine massgebende Bedeutung
+für die Entstehung der Arbeits- bzw. Erwerbsunfähigkeit zukommt. Dies
+trifft dann zu, wenn er eine gewisse Schwere aufweist oder mit anderen Worten
+ernsthaft ins Gewicht fällt. Für die Beurteilung dieser Frage ist an das
+Unfallereignis anzuknüpfen, wobei ausgehend vom augenfälligen Geschehensablauf
+zwischen banalen bzw. leichten Unfällen einerseits, schweren Unfällen
+anderseits und schliesslich dem dazwischen liegenden mittleren Bereich
+unterschieden wird. Während der adäquate Kausalzusammenhang in der Regel bei
+schweren Unfällen ohne Weiteres bejaht und bei leichten Unfällen verneint
+werden kann, lässt sich die Frage der Adäquanz bei Unfällen aus dem mittleren
+Bereich nicht aufgrund des Unfallgeschehens allein schlüssig beantworten. Es
+sind weitere, objektiv erfassbare Umstände, welche unmittelbar mit dem Unfall
+in Zusammenhang stehen oder als direkte bzw. indirekte Folgen davon
+erscheinen, in eine Gesamtwürdigung einzubeziehen. Je nachdem, wo im
+mittleren Bereich der Unfall einzuordnen ist und abhängig davon, ob einzelne
+dieser Kriterien in besonders ausgeprägter Weise erfüllt sind, genügt zur
+Bejahung des adäquaten
+Kausalzusammenhangs ein Kriterium
+oder müssen mehrere herangezogen werden (BGE 134 V 109
+E. 10.1).
+Als
+adäquanzrelevant gelten dabei folgende Kriterien:
+besonders
+dramatische Begleitumstände oder besondere Eindrücklichkeit des Unfalls; die
+Schwere oder besondere Art der erlittenen Verletzungen; fortgesetzt
+spezifische, belastende ärztliche Behandlung; erhebliche Beschwerden;
+ärztliche Fehlbehandlung, welche die Unfallfolgen erheblich verschlimmert;
+schwieriger Heilungsverlauf und erhebliche Komplikationen sowie erhebliche
+Arbeitsunfähigkeit trotz ausgewiesener Anstrengungen
+(BGE 134 V 109 E. 10.3).
+7.2.2
+Der Beschwerdeführer gab an, dass er den
+Lieferwagen hinunter gebremst und danach still gestanden habe, als es zur
+Kollision kam. Praxisgemäss werden Auffahrkollisionen auf ein haltendes
+Fahrzeug in die Kategorie der mittelschweren Ereignisse im Grenzbereich zu
+den leichten Unfällen eingereiht, sofern sie sich im Stadtverkehr ereignen
+(vgl. BGer-Urteil U 380/04 vom 15. März 2005 E. 5.1.2). Im
+hier zu beurteilenden Sachverhalt trug sich der Unfall auf der Autobahn mit
+einer relativ hohen Fahrgeschwindigkeit zu. Aus dem Polizeirapport ergibt
+sich eine Geschwindigkeit von 79 km/h. Das Fahrzeug wurde dabei stark
+beschädigt. Dieser Geschehensablauf ist offensichtlich schwerwiegender als
+eine blosse Auffahrkollision in ein stehendes Fahrzeug. Damit ist das
+Ereignis vom 22. Januar 2019 nicht als mittelschwerer Unfall im Grenzbereich
+zu den leichten Fällen zu qualifizieren. Gemäss
+Dr. sc. techn. R.______, […], lag die durch den Heckanprall
+bedingte Geschwindigkeitsänderung des Fahrzeugs des Beschwerdeführers
+deutlich oberhalb eines Bereichs von 10 – 15 km/h. Durch den nachfolgenden
+Frontanprall erfuhr das Fahrzeug eine Geschwindigkeitsänderung innerhalb des
+Bereichs von 20 – 30 km/h. Diese Geschwindigkeitsänderungen rechtfertigen es
+nicht, das Ereignis als mittelschwer im Grenzbereich zu den schweren Unfällen
+zu qualifizieren. Eine solche Qualifikation käme erst bei höheren
+einwirkenden Kräften in Frage (vgl. BGer-Urteil 8C_629/2012 vom 20. Februar
+2013 E. 5.1, 8C_633/2007 vom 7. Mai 2008 E. 6.2.2). Entgegen der Ansicht
+des Beschwerdeführers ist das Unfallereignis vom 22. Januar 2019 nicht
+als schwer, sondern als im engeren Sinne mittelschwer zu qualifizieren (vgl.
+BGer-Urteil U 330/03 vom 19. Mai 2004 E. 2.3). Der adäquate
+Kausalzusammenhang ist somit nur dann zu bejahen, wenn drei der massgeblichen
+Adäquanzkriterien oder eines in ausgeprägter Weise erfüllt sind (BGer-Urteil
+8C_897/2009 vom 29. Januar 2010 E. 4.5).
+7.2.3
+7.2.3.1
+Ob besonders dramatische Begleitumstände oder eine
+besondere Eindrücklichkeit des Unfalls vorliegen, beurteilt sich objektiv und
+nicht aufgrund des subjektiven Empfindens bzw. Angstgefühls der versicherten
+Person. Zu beachten ist, dass jedem mindestens mittelschweren Unfall eine
+gewisse Eindrücklichkeit eigen ist, welche somit noch nicht für eine Bejahung
+des Kriteriums ausreichen kann (BGer-Urteil 8C_398/2012 vom 6. November 2012
+E. 6.1). Gemäss dem Polizeirapport vom 22. März 2019 kam es am Tag
+des Unfallereignisses zu einem Auffahrunfall mit sechs Fahrzeugen. Der
+Beschwerdeführer erlitt als Lenker eines Lieferwagens auf der Autobahn einen
+Heck-Auffahrunfall, der wiederum eine Kollision mit dem voranfahrenden
+Fahrzeug nach sich zog. Daraufhin ereigneten sich weitere Kollisionen, bis
+anschliessend sämtliche involvierten Fahrzeuge zum Stillstand kamen. Aufgrund
+der Massenkarambolage rückten verschiedene Rettungskräfte aus. Sie brachten
+die verletzten Unfallbeteiligten in die umliegenden Spitäler. Zudem waren der
+Beschwerdeführer und sein Beifahrer im stark demolierten Fahrzeug eingeklemmt
+und mussten durch die Feuerwehr befreit werden. Eine gewisse Eindrücklichkeit
+kann unter diesen Umständen bejaht werden. Dieses Kriterium ist jedoch nicht
+in besonders ausgeprägter Weise erfüllt (vgl. BGer-Urteil 8C_398/2012 vom 6.
+November 2012 E. 6.1.1; 8C_623/2007 vom 22. August 2008 E. 8.1).
+7.2.3.2
+Die Diagnose einer HWS-Distorsion genügt für sich
+allein nicht, um das Kriterium der Schwere oder der besonderen Art der
+erlittenen Verletzungen zu bejahen. Sodann liegen keine Anhaltspunkte vor,
+die auf eine besondere Schwere der für das Schleudertrauma typischen Beschwerden
+hinweisen. Radiologisch liess sich eine Schädigung nicht nachweisen. Zudem
+sind keine besonderen Umstände erkennbar, welche das Beschwerdebild
+beeinflussen könnten (vgl. BGE 134 V 109 E. 10.2.2).
+7.2.3.3
+Zur Bejahung des Kriteriums der fortgesetzten,
+belastenden ärztlichen Behandlung genügen manualtherapeutische Behandlungen
+wie Physiotherapie nicht (BGer-Urteil 8C_724/2008 vom 18. Dezember 2007 E.
+4.2.2). Ebenso sind Abklärungsmassnahmen und blosse ärztliche Kontrollen
+dabei nicht zu berücksichtigen (BGer-Urteil 8C_57/2008 vom 16. Mai 2008 E.
+9.3.3). Mit Ausnahme der Kontrolltermine und der medikamentösen Behandlung
+fanden beim Beschwerdeführer nur manualtherapeutische Behandlungen statt.
+Diese sind nicht als schwer belastend einzustufen, womit dieses Kriterium
+nicht erfüllt wird.
+7.2.3.4
+Sodann ist das Kriterium der erheblichen
+Beschwerden zu verneinen. Die üblicherweise mit Schleudertraumen verbundenen
+Beschwerden können nicht genügen, ansonsten das Kriterium bei jeder solchen
+Verletzung bejaht werden müsste und damit keine Bedeutung als
+Differenzierungsmerkmal mehr hätte (BGer-Urteil
+8C_730/2011 vom 9. Dezember 2011 E. 6.2.2). Ferner
+war es dem Beschwerdeführer möglich, trotz angegebener Schmerzen ein
+Teilerwerbspensum und das Autofahren wieder aufzunehmen, wobei er nur noch
+bei Bedarf auf Medikamente angewiesen ist. Sodann genügen die Schmerzen aus
+der Zahnfraktur nicht für die Annahme erheblicher Beschwerden (BGer-Urteil
+8C_46/2011 vom 18. April 2011 E. 5.2.2).
+Schliesslich
+haben sich die Schulter-, Rücken- sowie Nackenbeschwerden verbessert. Es
+liegen somit keine
+erhebliche
+Beschwerden vor, wodurch er eine hohe Beeinträchtigung in seinem Lebensalltag
+erfahren hätte.
+7.2.3.5
+Daneben bestehen keine Anzeichen für eine ärztliche
+Fehlbehandlung, welche die Unfallfolgen erheblich verschlimmert hätte. Sodann
+sind auch keine Anzeichen für einen schwierigen Heilungsverlauf und
+erhebliche Komplikationen ersichtlich.
+7.2.3.6
+Der Beschwerdeführer war seit dem Unfallereignis
+bis zum 5. Mai 2019 zu 100 % arbeitsunfähig. Bei der C.______ war
+er bis zum 31. März 2019 angestellt. Danach wollte er im eigenen
+Unternehmen, welche Dienstleistungen wie Personen oder Veranstaltungsschutz
+anbietet, arbeiten. Die körperlich anstrengenden Tätigkeiten seines Berufs
+kann er gemäss seinen Angaben derzeit nicht ausführen, weshalb er sich auf
+Büroarbeit oder leichtere sonstige Tätigkeiten beschränke. Seit dem
+6. Mai 2019 arbeitete er in einem 20 %-Pensum. Er konnte
+seither
+seine Arbeitsfähigkeit stetig steigern, weshalb
+er seit dem 1. Oktober 2019 seinen Beruf zu 40 % ausübte. Sodann
+hält sich d
+er Beschwerdeführer ab
+Dezember 2019 lediglich in einem 50 %-Pensum für arbeitsfähig.
+Demgegenüber ging Kreisarzt Dr. O.______ davon aus, dass der
+Beschwerdeführer einer vollen Erwerbstätigkeit nachgehen könnte. Selbst wenn
+von einer Arbeitsfähigkeit von 50 % ausgegangen wird, ist das Kriterium
+der erheblichen Arbeitsunfähigkeit trotz ausgewiesener Anstrengungen nicht
+besonders ausgeprägt erfüllt (vgl. BGer-Urteil 8C_217/2008 vom 20. März
+2009 E. 10.7).
+7.3
+Nach dem Gesagten sind höchstens zwei
+Adäquanzkriterien in jeweils nicht besonders ausgeprägter Weise erfüllt.
+Selbst wenn man die für den Beschwerdeführer günstigere
+Schleudertrauma-Praxis anwendet, ergibt sich, dass die Beschwerdegegnerin den
+adäquaten Kausalzusammenhang zu Recht verneint hat. Damit kann die Frage nach
+dem natürlichen Kausalzusammenhang offen bleiben (BGer-Urteil
+8C_498/2011 vom 3. Mai 2012 E. 6).
+Sodann kann offengelassen werden, ob
+weitere fachärztliche Beurteilungen angezeigt gewesen wären. Bei dieser
+Ausgangslage fehlt es an der wesentlichen Leistungsvoraussetzung der
+adäquaten Kausalität. Es besteht somit kein Bedarf zur Bemühung eines
+strukturierten Beweisverfahrens (vgl. BGer-Urteil 8C_261/2019 vom 8. Juli
+2019 E. 4.3.1).
+Die Verfügung der
+Beschwerdegegnerin vom 27. Januar 2020 ist nicht zu beanstanden, was zur
+Abweisung der Beschwerde führt.
+III.
+Die Gerichtskosten sind von
+Gesetzes wegen auf die Staatskasse zu nehmen (Art. 1 Abs. 1 UVG i.V.m.
+Art. 61 lit. a ATSG). Bei diesem Verfahrensausgang ist dem Beschwerdeführer
+keine Parteientschädigung zuzusprechen (Abs. 1 Abs. 1 UVG i.V.m. Art. 61
+lit. g ATSG e contrario).
+Demgemäss erkennt die Kammer
+:
+1.
+Die Beschwerde wird abgewiesen.
+2.
+Die Gerichtskosten werden auf die Staatskasse
+genommen.
+3.
+Es wird keine Parteientschädigung zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
