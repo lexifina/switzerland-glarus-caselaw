@@ -1,0 +1,429 @@
+---
+decision_id: "gl_gerichte_VG.2020.00068"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2020.00068"
+docket_2: "VG.2020.988"
+decided: "2020-10-29"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1340&W10_KEY=218274&nTrefferzeile=2&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/0.101/art-008.md", "switzerland/bund/acts/101/art-008.md", "switzerland/bund/acts/101/art-010.md", "switzerland/bund/acts/101/art-024.md", "switzerland/bund/acts/101/art-190.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.20/art-001.md", "switzerland/bund/acts/831.20/art-042sexies.md", "switzerland/bund/acts/831.20/art-069.md", "switzerland/bund/acts/831.201/art-039e.md", "switzerland/bund/acts/831.201/art-039g.md", "switzerland/bund/acts/832.10/art-025a.md"]
+---
+
+# GL Gerichte VG.2020.00068
+
+## Regeste
+
+Sozialversicherung - IV
+
+## Text
+
+Glarus Verwaltungsgericht 29.10.2020 VG.2020.00068 (VG.2020.988)
+Glaris Verwaltungsgericht 29.10.2020 VG.2020.00068 (VG.2020.988)
+Glarona Verwaltungsgericht 29.10.2020 VG.2020.00068 (VG.2020.988)
+
+Sozialversicherung - IV
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom 29. Oktober 2020
+II. Kammer
+in Sachen
+VG.2020.00068/69
+A.______
+Beschwerdeführerin
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+IV-Stelle Glarus
+Beschwerdegegnerin
+betreffend
+Assistenzbeitrag
+(Oktober bis Dezember 2018 und ab Januar 2019)
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+A.______, geboren am […], leidet an einer Nemalinen
+Myopathie Typ II (Geburtsgebrechen Nr. 184 gemäss dem Anhang zur
+Verordnung über Geburtsgebrechen vom 9. Dezember 1985 [GgV]). Sie
+bezieht Leistungen der Invalidenversicherung, darunter eine
+Hilflosenentschädigung für Hilflosigkeit schweren Grades. Am 29. September 2018
+meldete sie sich bei der IV-Stelle Glarus zum Bezug eines Assistenzbeitrags
+an.
+1.2
+Nachdem die IV-Stelle verschiedene Abklärungen
+getätigt hatte, sprach sie A.______ mit Vorbescheiden vom 18. Dezember 2019
+für die Monate Oktober bis Dezember 2018 einen Assistenzbeitrag von
+durchschnittlich Fr. 12'155.- pro Monat bzw. maximal
+Fr. 133'705.- pro Jahr zu. Ab Januar 2019 setzte sie den
+Assistenzbeitrag auf durchschnittlich Fr. 8'455.25 pro Monat bzw. maximal Fr. 93'007.75
+pro Jahr fest. Dagegen erhob A.______ am 24. Januar 2020 und am
+21. Februar 2020 verschiedene Einwände. Die IV-Stelle hielt indessen in
+ihren Verfügungen vom 18. Juni 2020 an ihren Vorbescheiden fest.
+2.
+2.1
+A.______ erhob in der Folge am 29. Juni 2020 beim
+Verwaltungsgericht Beschwerde gegen die beiden Verfügungen vom 18. Juni 2020
+und beantragte deren Aufhebung. Die Sache sei an die IV-Stelle
+zurückzuweisen; alles unter Kosten- und Entschädigungsfolgen zu Lasten der
+IV-Stelle.
+2.2
+Die IV-Stelle schloss innert erstreckter Frist am
+29. September 2020 auf Abweisung der Beschwerden.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 69 Abs. 1
+lit. a des Bundesgesetzes über die Invalidenversicherung vom 19. Juni 1959
+(IVG) zur Behandlung der vorliegenden Beschwerden zuständig. Da auch die weiteren
+Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerden einzutreten.
+1.2
+Die Beschwerdeführerin wendet sich sowohl gegen die
+Festlegung des Assistenzbeitrags für die Monate Oktober bis Dezember 2018 als
+auch gegen diejenige ab Januar 2019. Da die Beschwerden im Wesentlichen den
+gleichen Sachverhalt betreffen und da sich dieselben Rechtsfragen stellen,
+rechtfertigt es sich, sie in Anwendung von Art. 23 Abs. 2 des Gesetzes über
+die Verwaltungsrechtspflege vom 4. Mai 1986 (VRG) zu vereinigen.
+1.3
+1.3.1
+Die Beschwerdeführerin beantragt eine mündliche
+Verhandlung, anlässlich welcher sie, ihre Eltern und die angestellten
+Assistenzpersonen persönlich zu befragen seien.
+Das Verfahren vor dem
+Verwaltungsgericht ist grundsätzlich schriftlich. Das Verwaltungsgericht kann
+auf Antrag der Parteien oder von Amtes wegen eine mündliche Verhandlung
+anordnen (Art. 96 Abs. 3 VRG). Nach Art. 6 Ziff. 1 Satz 1 der
+Konvention zum Schutze der Menschenrechte und Grundfreiheiten vom
+4. November 1950 (EMRK) hat jedoch jede Person ein Recht darauf, dass
+über Streitigkeiten in Bezug auf ihre zivilrechtlichen Ansprüche und
+Verpflichtungen oder über eine gegen sie erhobene strafrechtliche Anklage von
+einem unabhängigen und unparteiischen, auf Gesetz beruhenden Gericht in einem
+fairen Verfahren, öffentlich und innerhalb angemessener Frist verhandelt
+wird. Art. 6 Ziff. 1 EMRK ist auf sozialversicherungsrechtliche
+Streitigkeiten anwendbar (BGE 122 V 47 E. 2a). Damit hat die
+Beschwerdeführerin grundsätzlich Anspruch auf eine öffentliche Verhandlung.
+Der Grundsatz der
+Öffentlichkeit bezieht sich sowohl auf die Parteiöffentlichkeit als auch auf
+die Publikums- und Presseöffentlichkeit. Der Öffentlichkeitsgrundsatz
+beinhaltet hingegen keinen Anspruch darauf, dass bestimmte Beweismittel
+öffentlich und in Anwesenheit der Parteien abgenommen werden.
+Die Durchführung einer öffentlichen Verhandlung setzt daher im
+Sozialversicherungsprozess einen Parteiantrag voraus, aus dem klar und
+unmissverständlich hervorgehen muss, dass eine konventionskonforme
+Verhandlung mit Publikums- und Presseanwesenheit durchgeführt werden soll.
+1.3.2
+Die
+Beschwerdeführerin beantragt keine konventionskonforme öffentliche
+Verhandlung, sondern eine Parteibefragung als Beweismassnahme. Darauf hat sie
+nach dem Dargelegten keinen Anspruch. Da sich vorliegend einzig Rechtsfragen
+stellen, ist der Antrag auf Parteibefragung abzuweisen.
+1.4
+Die
+Beschwerdeführerin führt in ihrer Beschwerde nicht aus, ihr Hilfsbedarf sei
+unzutreffend ermittelt worden. Es erschliesst sich daher dem Gericht nicht,
+weshalb dieser im Rahmen einer gerichtlichen Begutachtung festgestellt werden
+soll, nachdem er bereits durch das anerkannte Abklärungsinstrument
+FAKT 2 (vgl. BGE
+140
+V 543 E. 3.2.2) ermittelt worden ist. Der Antrag auf Einholung
+eines Gerichtsgutachtens ist folglich ebenfalls abzuweisen.
+2
+2.1
+Die Beschwerdeführerin macht geltend, sie habe
+gemäss dem Übereinkommen über die Rechte von Menschen mit Behinderungen vom
+13. November 2006 (UN-BRK, für die Schweiz am 15. Mai 2014 in Kraft getreten)
+und Art. 8 der Bundesverfassung der Schweizerischen Eidgenossenschaft vom
+18. April 1999 (BV) einen Anspruch darauf, selbstbestimmt zu leben.
+Damit dies möglich sei, sei sie darauf angewiesen, sämtliche
+Versicherungsleistungen, welche im Zusammenhang mit dem benötigten
+Hilfebedarf erbracht würden, kumulieren zu können. Nur so verfüge sie über
+genügend finanzielle Mittel, um das benötigte Hilfspersonal zu entlöhnen und
+nicht mehr auf die unentgeltliche Mithilfe ihrer Eltern angewiesen zu sein.
+Seit sie das Mündigkeitsalter erreicht habe, seien Letztere nicht mehr
+unterhaltspflichtig und könnten die bis anhin erbrachte unentgeltliche Hilfe
+auf Dauer nicht mehr leisten. Der Abzug der Hilflosenentschädigung und der
+Grundpflege-stunden habe im Rahmen einer verfassungskonformen Auslegung von
+Art. 42sexies Abs. 1 IVG ausnahmsweise zu unterbleiben, wenn der tatsächlich
+benötigte Hilfebedarf über den Zeitbedarf hinaus bestehe, der durch den
+gekürzten Assistenzbeitrag, die Hilflosenentschädigung sowie die
+Grundpflegestunden, welche vom Krankenversicherer vergütet würden, abgedeckt
+werde. Die derzeitige Ausgestaltung des Assistenzbeitrags diskriminiere
+schwerstbehinderte Personen, bei welchen ein hoher Betreuungs-, Pflege- und
+Überwachungsbedarf bestehe. Obwohl sie darauf angewiesen sei, 24
+Arbeitsstunden pro Tag finanzieren zu können, deckten der nach oben begrenzte
+und zusätzlich gekürzte Assistenzbeitrag, die Hilflosenentschädigung und die
+Grundpflegeentschädigung des Krankenversicherers den benötigten Zeitbedarf
+bei weitem nicht ab. Schwerstbehinderte Personen würden letztlich vor die
+Wahl gestellt, den nicht durch Sozialversicherungsleistungen abgedeckten
+Zeitbedarf durch private finanzielle Mittel abzudecken oder sich in ein Heim
+oder eine Institution zu begeben, wo eine 24-stündige Betreuung durch
+Sozialversicherungsleistungen und Subventionen des Gemeinwesens finanziert
+werde. Dieser Heimzwang verletze faktisch die verfassungsmässigen Garantien
+der Niederlassungsfreiheit und der persönlichen Freiheit im Sinne der
+geschützten Selbstbestimmung, welche letztlich auch durch das
+Invalidenversicherungsgesetz und die UN-BRK garantiert werde. Eine
+verfassungskonforme, teleologische, systematische und staatsvertragskonforme
+Auslegung von Art. 42sexies Abs. 1 IVG gebiete es, bei Personen, bei welchen
+der tatsächlich benötigte Hilfebedarf durch den Assistenzbeitrag nicht
+gedeckt werde, auf einen Abzug der Hilflosenentschädigung und der vom
+Krankenversicherer vergüteten Grundpflegeleistungen abzusehen. Schliesslich
+sei es auch unzulässig, den Assistenzbeitrag lediglich während elf Monaten
+zuzusprechen. Ihren Eltern könne weder objektiv noch subjektiv zugemutet
+werden, während eines gesamten Monats rund um die Uhr die von ihr benötigte
+Betreuung, Pflege und Überwachung zu leisten. Sie seien bereits mit dem
+aktuellen Pensum bis an ihre Leistungsgrenze gefordert.
+2.2
+Die Beschwerdegegnerin führt aus, angesichts der
+klaren Rechtslage und der gefestigten bundesgerichtlichen Rechtsprechung
+seien die Hilflosenentschädigung und die durch den Krankenversicherer
+übernommene Grundpflege nicht vom Gesamtbedarf, sondern vom anerkannten
+Hilfebedarf abzuziehen. Sodann sei eine schadensmindernde Mithilfe der Eltern
+der Beschwerdeführerin objektiv möglich und zumutbar. Es seien daher bei der
+Berechnung des jährlichen Assistenzbeitrags nur elf Monate anzurechnen.
+3.
+3.1
+Die Beschwerdegegnerin ermittelte für die Bereiche
+alltägliche Lebens-verrichtungen, Haushalt sowie gesellschaftliche Teilhabe
+und Freizeitgestaltung einen Hilfebedarf der Beschwerdeführerin von 339,65
+Stunden pro Monat, wovon sie 240 Stunden anerkannte. Für die Aus- und
+Weiterbildung bezifferte sie den Hilfebedarf auf 22,81 Stunden pro
+Monat, was sie vollumfänglich anerkannte. Für die persönliche Überwachung am
+Tag ermittelte sie einen Hilfebedarf von 121,67 Stunden pro Monat,
+welchen sie im Umfang von 120 Stunden anerkannte. Vom anerkannten Hilfebedarf
+(ohne Assistenz in der Nacht) von 382,81 Stunden zog sie für die Monate
+Oktober bis Dezember 2018 die Hilflosenentschädigung im Umfang von
+umgerechnet 57,14 Stunden im Monat, die vom Krankenversicherer
+übernommene Grundpflege im Umfang von 32,33 Stunden pro Monat sowie unter dem
+Titel "Leistung aus IVG für Dienstleistung Dritter" 5,07 Stunden
+pro Monat ab. Insgesamt sprach sie einen Assistenzbeitrag am Tag für 288,27
+Stunden pro Monat zu. Ab dem Januar 2019 sprach sie noch einen
+Assistenzbedarf am Tag für 173,54 Stunden monatlich zu, da sie neben der
+Hilflosenentschädigung von umgerechnet 57,11 Stunden pro Monat zusätzlich die
+vom Krankenversicherer im Umfang von 152,16 Stunden pro Monat übernommene
+Grundpflege in Abzug brachte. Den Assistenzbeitrag pro Jahr setzte sie auf
+das Elffache des monatlichen Assistenzbeitrags fest.
+3.2
+Die erbrachten und abgezogenen Leistungen sind in
+ihrem Umfang nicht umstritten. Strittig und nachfolgend zu prüfen ist jedoch,
+ob und allenfalls inwieweit der Assistenzbeitrag gekürzt werden darf. Ferner
+ist zu prüfen, ob der Assistenzbeitrag für elf oder für zwölf Monate auszurichten
+ist. Unbestritten ist hingegen die der Beschwerdeführerin in vollem Umfang
+zugesprochene Nachtpauschale.
+4.
+4.1
+Nach Art. 42sexies Abs. 1 IVG ist Grundlage für die
+Berechnung des Assistenzbeitrags die für die Hilfeleistungen benötigte Zeit.
+Davon abgezogen wird die Zeit, die folgenden Leistungen entspricht: der
+Hilflosenentschädigung nach den Art. 42-42ter, mit Ausnahme des
+Intensivpflegezuschlags nach Art. 42ter Abs. 3 (lit. a); den Beiträgen
+für Dienstleistungen Dritter anstelle eines Hilfsmittels nach Art. 21ter
+Abs. 2 (lit. b) sowie dem für die Grundpflege ausgerichteten Beitrag der
+obligatorischen Krankenpflegeversicherung an Pflegeleistungen nach Art. 25a
+des Bundesgesetzes über die Krankenversicherung vom 18. März 1994 (KVG).
+Gemäss Art. 42sexies Abs.
+4 IVG i.V.m. Art. 39e Abs. 2 der Verordnung über die Invalidenversicherung
+vom 17. Januar 1961 (IVV) gelten für den anerkannten monatlichen Hilfebedarf
+die folgenden monatlichen Höchstansätze: für Hilfeleistungen in den Bereichen
+nach Art. 39c lit. a-c pro alltägliche Lebensverrichtung, die bei der
+Festsetzung der Hilflosenentschädigung festgehalten wurde: bei leichter
+Hilflosigkeit 20 Stunden, bei mittlerer Hilflosigkeit 30 Stunden und bei
+schwerer Hilflosigkeit 40 Stunden (lit. a); für Hilfeleistungen in den
+Bereichen nach Art. 39c lit. d-g insgesamt 60 Stunden (lit. b) sowie für die
+Überwachung nach Art. 39c lit. h 120 Stunden.
+4.2
+Gemäss Ziff. 4111 des Kreisschreibens des Bundesamts
+für Sozial-versicherungen über den Assistenzbeitrag (KSAB) werden die
+Hilflosenentschädigung, die Leistungen Dritter und der für die Grundpflege
+ausgerichtete Beitrag der obligatorischen Krankenversicherung nach Art. 25a
+KVG nicht vom ermittelten Gesamtbedarf, sondern vom anerkannten Hilfebedarf
+abgezogen. Das Bundesgericht hat mehrmals bestätigt, dass dies
+verfassungskonform sei (BGE 141 V 642 E. 3.2.1, 140 V 543 E. 3.6, BGer-Urteil
+8C_57/2020 vom 18. Juni 2020 E. 4.3.1).
+4.3
+Soweit die Beschwerdeführerin einen Abzug vom
+Assistenzbeitrag für gänzlich unzulässig erachtet, setzt sie sich in
+Widerspruch zum klaren Wortlaut von Art. 42sexies Abs. 1 IVG, welcher
+vorschreibt, dass die Hilflosenentschädigung, die Dienstleistungen Dritter
+und die Grundpflege nach KVG von der für die Hilfeleistungen benötigten Zeit
+abzuziehen sind. Ein gänzlicher Verzicht auf den Abzug kommt daher nicht in
+Frage, würde dies doch offensichtlich gegen Art. 190 BV, wonach Bundesgesetze
+für das Bundesgericht und die anderen rechtsanwendenden Behörden massgebend
+sind, verstossen.
+4.4
+4.4.1
+Einer näheren Prüfung bedarf hingegen, ob die
+erbrachten Leistungen vom ermittelten Gesamtbedarf anstatt vom anerkannten
+Hilfebedarf abzuziehen sind.
+Soweit sich die
+Beschwerdeführerin diesbezüglich auf die persönlichen Freiheit (Art. 10
+Abs. 2 BV) und die Niederlassungsfreiheit (Art. 24 BV) beruft, ist daran
+zu erinnern, dass es sich dabei um Freiheitsrechte handelt. Freiheitsrechte
+sind in erster Linie Abwehrrechte, die den Staat zu einem Dulden oder
+Unterlassen verpflichten (Ulrich Häfelin et al., Schweizerisches
+Bundesstaatsrecht, 10. A., Zürich/Basel/ Genf 2020, Rz. 210). Nur
+ausnahmsweise und punktuell geben sie verfassungs-unmittelbare
+Leistungsansprüche. In der Regel kann aus ihnen kein direkter Anspruch auf
+positive staatliche Leistungen abgeleitet werden. Namentlich liegt keine
+Verletzung von Grundrechten darin, dass die Sozialversicherung nicht alle
+durch die Behinderung verursachten Kosten übernimmt. Bei der Auslegung
+sozialversicherungsrechtlicher Leistungsnormen sowie bei der Ermessenshandhabung
+ist jedoch den Grundrechten und verfassungsmässigen Grundsätzen Rechnung zu
+tragen, soweit dies im Rahmen von Art. 190 BV möglich ist (BGE 138
+I 225 E. 3.5, mit Hinweisen).
+Vorliegend gilt es zu
+beachten, dass der Gesetzgeber den Assistenzbeitrag kostenneutral einführen
+wollte (Botschaft des Bundesrats zur Änderung des Bundesgesetzes über die
+Invalidenversicherung [6. IV-Revision, erstes Massnahmenpaket] vom
+24. Februar 2010, BBl 2010 1817 ff., 1872). Damit entspricht die
+Auslegung von Art. 42sexies Abs. 1 IVG, wonach die
+Hilflosenentschädigung, die Dienstleistung Dritter und die Grundpflege nach
+KVG vom (vorliegend tieferen) anerkannten Hilfebedarf abzuziehen sind, dem
+gesetzgeberischen Willen, wobei die Vorgaben des KSAB auf den Erfahrungen aus
+dem Pilotversuch entsprechen (BGE 140 V 543 E. 3.6.3). Andererseits
+erweist sie sich durchaus als verfassungskonform, da – wie dargelegt – aus
+den Freiheitsrechten regelmässig und auch vorliegend  kein Anspruch auf
+staatliche Leistungen ableitbar ist.
+4.4.2
+Dasselbe gilt, soweit sich die Beschwerdeführerin
+auf die EMRK und die UN-BRK beruft. Art. 8 EMRK schützt das Recht auf Achtung
+des Privat- und Familienlebens. Aus dieser Bestimmung lässt sich aber kein
+Anspruch auf finanzielle Leistungen zu Gunsten von Familien ableiten. Sie
+begründet jedoch ein Recht auf Zusammenleben und auf persönliche Kontakte
+unter den Familienmitgliedern. Durch die angefochtene Verfügung wird die
+Beschwerdeführerin nicht dazu gezwungen, sich in institutionelle Pflege zu
+begeben. Auch bedeutet sie keine Pflicht, die Familie auseinanderzureissen.
+Die Verfügung besagt nur, dass nicht sämtliche behinderungsbedingten Kosten
+von der Sozialversicherung gedeckt werden, worauf die Grundrechte auch keinen
+Anspruch geben (vgl. BGE 138 I 225 E. 3.8).
+Sodann verleiht auch Art.
+19 lit. a UN-BRK keinen weitergehenden Anspruch. Gemäss dieser Bestimmung
+gewährleisten die Vertragsstaaten, dass Menschen mit Behinderungen
+gleichberechtigt die Möglichkeit haben, ihren Aufenthaltsort zu wählen und zu
+entscheiden, wo und mit wem sie leben, und nicht verpflichtet sind, in
+besonderen Wohnformen zu leben. Mit der Einführung des Assistenzbeitrags ist
+der Gesetzgeber dieser Forderung nachgekommen, wobei er die begrenzten Mittel
+des Staates berücksichtigen durfte. Überdies können versicherte Personen
+nicht gestützt auf diese Norm einen Anspruch auf
+sozialversicherungsrechtliche Leistungen geltend machen (vgl. Botschaft
+des Bundesrats vom 19. Dezember 2012 zur Genehmigung des Übereinkommens vom
+13. Dezember 2006 über die Rechte von Menschen mit Behinderungen,
+BBl 2012 661 ff., 662 f. und 695).
+4.4.3
+Schliesslich verletzt die angefochtene Verfügung
+bzw. die dieser zugrundeliegende Gesetzesauslegung entgegen der Auffassung
+der Beschwerde-führerin auch nicht das Diskriminierungsverbot gemäss Art. 8
+Abs. 2 BV. Es trifft zwar zu, dass schwerstbehinderte Personen mit
+tendenziell höherem Hilfebedarf gegenüber solchen mit leichteren
+Einschränkungen und geringerem Bedarf in Bezug auf die Höchstgrenzen – wie
+grundsätzlich bei allen limitierten Leistungen – benachteiligt sein können.
+Dabei wird aber nicht an ein verpöntes Kriterium angeknüpft. Sodann wird den
+Unterschieden im Behinderungsgrad mit abgestuften Höchstbeträgen durchaus
+Rechnung getragen. Würde man dem Ansinnen der Beschwerdeführerin folgen,
+gälte es überdies zu berücksichtigen, dass dies dem Gleichbehandlungsgebot
+nicht besser Rechnung tragen würde. So ist wesentlich, dass neben der
+Hilflosenentschädigung auch Dienstleistungen Dritter und die Grundpflege nach
+KVG abzuziehen sind. Würden sie vom Gesamtbedarf abgezogen, liesse sich die
+Höhe des Assistenzbeitrags durch entsprechende externe Organisation der Hilfe
+steigern. Erfolgt der Abzug hingegen beim anerkannten Hilfebedarf, ist der
+gesamte Hilfebedarf, unbesehen wodurch er gedeckt wird, gleichmässig
+limitiert, was dem Gleichbehandlungsgebot viel eher entspricht (BGE 140
+V 543 E. 3.6.3).
+4.5
+Zusammenfassend erweist es sich als
+verfassungskonform, die Hilflosenentschädigung, die Dienstleistungen Dritter und
+die Grundpflege nach KVG vom anerkannten Hilfebedarf und nicht vom
+Gesamtbedarf abzuziehen. Damit bestehen keine überzeugenden Gründe, um von
+der gefestigten Rechtsprechung des Bundesgerichts abzuweichen.
+5.
+5.1
+Zu prüfen bleibt, ob der Beschwerdeführerin der
+Assistenzbeitrag elfmal oder zwölfmal im Jahr auszurichten ist. Nach Art. 39g
+Abs. 2 lit. a IVV beträgt der Assistenzbeitrag pro Jahr das Zwölffache des
+Assistenzbeitrags pro Monat. Lediglich das Elffache des Assistenzbeitrags pro
+Monat beträgt er gemäss Art. 39g Abs. 2 lit. b IVV, wenn die versicherte
+Person mit der Person, mit der sie verheiratet ist oder in eingetragener
+Partnerschaft lebt oder eine faktische Lebensgemeinschaft führt oder in
+gerader Linie verwandt ist, im selben Haushalt lebt (Ziff. 1), und die
+Person, mit der sie im selben Haushalt lebt, volljährig ist und selber keine
+Hilflosenentschädigung bezieht (Ziff. 2). Mit dieser Bestimmung wird der
+Grundsatz der Schaden-minderungspflicht konkretisiert. Bei der
+Schadenminderungspflicht der versicherten Person handelt es sich um einen im
+Sozialversicherungsrecht allgemein geltenden Grundsatz (statt vieler: BGE 145
+V 2 E. 4.2.2).
+5.2
+Die Beschwerdeführerin lebt im gleichen Haushalt wie
+ihre Eltern, welche keine Hilflosenentschädigung beziehen. Daher ist Art. 39g
+Abs. 2 lit. b IVV grundsätzlich anwendbar.
+Das Verwaltungsgericht hat
+die Anwendung von Art. 39g Abs. 2 lit. b IVV in einem Fall bejaht, in welchem
+die versicherte Person im gleichen Haushalt wie ihre teilzeitlich erwerbstätige
+Mutter lebte. Dabei führte es aus, dass die Mutter die Ferienabwesenheiten
+der Assistenzperson(en) nicht zwingend am Stück abdecken müsse und dass von
+ihr nicht verlangt werde, ihre eigenen Ferien dafür einzusetzen. Leiste sie
+nämlich während des ganzen Jahrs einen Teil der von der versicherten Person
+benötigten Hilfe selber, könne mit dem dadurch eingesparten Anteil des
+Assistenzbeitrags (der nicht in Rechnung gestellt werde) während der
+Ferienabwesenheit der Assistenzperson(en) eine Ferienvertretung angestellt
+werden (VGer-Urteil VG.2018.00128/129 vom 11. April 2019 E. II/5.3, bestätigt
+durch BGer-Urteil 9C_354/2019 vom 1. Juli 2019).
+Der vorliegende
+Sachverhalt ist jedoch damit nicht zu vergleichen. Der durch den FAKT 2
+ermittelte Gesamtbedarf der Beschwerdeführerin am Tag beträgt monatlich
+484,13 Stunden (339,65 Stunden + 22,81 Stunden + 121,67 Stunden).
+Aufgrund der Höchstgrenzen von Art. 42sexies Abs. 4 IVG i.V.m. Art. 39e Abs.
+2 IVV anerkannte die Beschwerdegegnerin einen Hilfebedarf (ohne Abzug der
+Hilflosenentschädigung, Dienstleistungen Dritter und der Grundpflege nach
+KVG) von 382,81 Stunden. Damit bleiben von vornherein gut 100 Stunden im
+Monat ungedeckt. Dabei ist es naheliegend, dass solange die
+Beschwerdeführerin bei ihren Eltern lebt, diese den ungedeckten Hilfebedarf
+abdecken. Unter diesen Umständen kann von ihnen unter dem Titel der
+Schadenminderungspflicht nicht verlangt werden, zusätzlich einen Monat der
+Leistungen der Assistenzperson(en), sei es am Stück oder sei es verteilt auf
+das ganze Jahr, zu übernehmen. Übersteigt der gesamte ermittelte Hilfebedarf
+die gesetzlichen Höchstgrenzen und wird er daher gekürzt, kann zumindest in
+Fällen, bei welchen eine deutliche Unterdeckung besteht, keine (weitere)
+Schadens-minderung eingefordert werden. Folglich ist bei der vorliegenden
+Streitigkeit Art 39g Abs. 2 lit. b IVV die Anwendung zu versagen.
+Dies führt zur teilweisen
+Gutheissung der Beschwerde. Die Verfügungen der Beschwerdegegnerin vom 18.
+Juni 2020 sind dahingehend abzuändern, als der Assistenzbeitrag pro Jahr das
+Zwölffache des Assistenzbeitrags pro Monat beträgt.
+III.
+1.
+Nach Art. 134 Abs. 1 lit.
+c VRG i.V.m. Art. 69 Abs. 1bis IVG hat die Partei, welche im
+Beschwerdeverfahren unterliegt, die amtlichen Kosten zu tragen. Die Gerichtskosten
+von pauschal Fr. 800.- sind den Parteien ausgangsgemäss je zur Hälfte
+aufzuerlegen. Vom bereits geleisteten Kostenvorschuss von Fr. 800.- sind der
+Beschwerdeführerin Fr. 400.- zurückzuerstatten.
+2.
+Aufgrund ihres teilweisen
+Obsiegens hat die Beschwerdeführerin gemäss Art. 1 Abs. 1 IVG i.V.m.
+Art. 61 lit. g ATSG Anspruch auf eine reduzierte Parteientschädigung von
+Fr. 1'000.- (inkl. Mehrwertsteuer) zu Lasten der Beschwerdegegnerin.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Verfahren VG.2020.00068 und VG.2020.00069 werden vereinigt.
+2.
+Die
+Beschwerden werden teilweise gutgeheissen. Die Verfügungen vom 18. Juni
+2020 werden dahingehend abgeändert, als der Assistenzbeitrag pro Jahr das
+Zwölffache des Assistenzbeitrags pro Monat beträgt.
+3.
+Die
+Gerichtskosten von Fr. 800.- werden den Parteien je zur Hälfte auferlegt.
+Vom bereits geleisteten Kostenvorschuss in der Höhe von Fr. 800.- werden
+der Beschwerdeführerin Fr. 400.- zurückerstattet.
+4.
+Die
+Beschwerdegegnerin wird verpflichtet, der Beschwerdeführerin innert 30 Tagen
+nach Rechtskraft dieses Entscheids eine Parteientschädigung von
+Fr. 1'000.- (inkl. Mehrwertsteuer) zu bezahlen.
+5.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
