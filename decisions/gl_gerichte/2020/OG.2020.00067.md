@@ -1,0 +1,187 @@
+---
+decision_id: "gl_gerichte_OG.2020.00067"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2020.00067"
+docket_2: "OGS.2021.124"
+decided: "2020-11-13"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1441&W10_KEY=218274&nTrefferzeile=5&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/173.110/art-093.md", "switzerland/bund/acts/312.0/art-242.md", "switzerland/bund/acts/312.0/art-244.md", "switzerland/bund/acts/312.0/art-245.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# GL Gerichte OG.2020.00067
+
+## Regeste
+
+Hausdurchsuchung
+
+## Text
+
+Glarus Obergericht 13.11.2020 OG.2020.00067 (OGS.2021.124)
+Glaris Obergericht 13.11.2020 OG.2020.00067 (OGS.2021.124)
+Glarona Obergericht 13.11.2020 OG.2020.00067 (OGS.2021.124)
+
+Kanton Glarus
+Obergericht
+Beschluss
+vom 13. November 2020
+Verfahren
+OG.2020.00067
+A.______
+Beschwerdeführer
+gegen
+Staats- und Jugendanwaltschaft des
+Kantons Glarus
+Beschwerdegegnerin
+vertreten
+durch die Staatsanwältin
+betreffend
+Hausdurchsuchung
+Rechtsbegehren
+de
+s Beschwerdeführers
+(gemäss Eingabe vom
+8. Oktober 2020, [act. 1, sinngemäss]):
+Es sei festzustellen, dass die am
+6. Oktober 2020 an der […] durchgeführte Hausdurchsuchung nicht
+rechtmässig war, soweit dabei auch ein vom Beschwerdeführer genutztes Zimmer
+durchsucht wurde.
+____________________
+Das Gericht
+zieht in Betracht:
+I.
+1.
+Die Staatsanwaltschaft des
+Kantons Glarus führt gegen […] eine Strafun­tersuchung wegen Verdachts auf
+qualifizierte Sachbeschädigung (act. 3/2). Im Rahmen dieser Ermittlungen
+fand am 6. Oktober 2020 am Wohndomizil des Beschuldigten an der […] eine
+Hausdurchsuchung statt (siehe dazu act. 3/4); dies gestützt auf einen
+entsprechenden Durchsuchungs- und Beschlagnahmebefehl der Staatsanwaltschaft
+Glarus vom 18. August 2020 (act. 3/3).
+Anlässlich der Durchsuchung in
+der Wohnung des Beschuldigten wurde auch das Zimmer des Mitbewohners A.______
+durchforscht und daraus Gegenstände sichergestellt (act. 3/4, dort
+insbesondere auch Fotobogen).
+2.
+Mit Eingabe vom 8. Oktober
+2020 wandte sich A.______ an die hiesige Staats­anwaltschaft und vertritt
+darin den Standpunkt, die Durchsuchung seines Zimmers sei nicht rechtmässig
+gewesen (act. 1). Die Staatsanwaltschaft hat die Eingabe an das
+Obergericht zur Behandlung als Beschwerde weitergeleitet (act. 2).
+II.
+1.
+Jede Partei, die ein rechtlich
+geschütztes Interesse an der Aufhebung oder Ände­rung eines Entscheides hat,
+kann ein Rechtsmittel nach der StPO ergreifen (Art. 382 Abs. 1 StPO). Die
+Beschwerdebefugnis nach Art. 382 Abs. 1 StPO verlangt dem­nach eine
+unmittelbare persönliche Betroffenheit der rechtsuchenden Person in den
+eigenen rechtlich geschützten Interessen (Urteil BGer 1B_339/2016 vom
+17. November 2016 E. 2.1., 2.4.). Das Rechtsschutzinteresse muss
+ein praktisches und im Zeitpunkt des Entscheids über die Beschwerde noch
+aktuell sein. An einem solchen aktuellen Rechtsschutzinteresse fehlt es, wenn
+die angefochtene hoheitliche Verfah­renshandlung im konkreten Prozessstadium
+nicht mehr korrigiert werden kann. Dies ist beispielsweise der Fall, wenn
+sich die Beschwerde gegen die Anordnung und Durchführung einer bereits
+abgeschlossenen Hausdurchsuchung richtet (
+Guidon
+,
+Die Beschwerde gemäss Schweizerischer Strafprozessordnung,
+Zürich/St. Gallen 2011, N 244).
+Nach der Rechtsprechung ist
+jedoch ausnahmsweise auf das Erfordernis des aktuellen und praktischen
+Rechtsschutzinteresses zu verzichten, wenn sich die aufgeworfenen Fragen bzw.
+gerügten Rechtsverletzungen jederzeit unter gleichen oder ähnlichen Umständen
+wieder stellen könnten, eine rechtzeitige gerichtliche Überprüfung derselben
+im Einzelfall kaum je möglich wäre und an deren Beantwortung wegen deren grundsätzlichen
+Bedeutung ein hinreichendes öffentliches Interesse besteht (Urteil BGer
+1B_351/2012 vom 20.
+September 2012 E. 2.3.3;
+Guidon
+, a.a.O., N 245).
+2.
+Indem sich der Beschwerdeführer
+in seiner Beschwerde (act. 1) ausschliesslich gegen die durchgeführte
+Durchsuchung
+seines Zimmers wendet, ist eine daraus resultierende anhaltende Beschwer und
+somit ein aktuelles Rechtsschutzinteresse an der Behandlung seiner Beschwerde
+nicht mehr erkennbar. Es liegt im vorlie­genden Sachzusammenhang auch keine
+essenzielle Fragestellung vor, deren Beantwortung nachgerade im öffentlichen
+Interesse läge. Auf die Beschwerde ist daher nicht einzutreten.
+III.
+Aber selbst wenn auf die
+Beschwerde einzutreten wäre, müsste diese aus den nachfolgenden Überlegungen
+ohne weiteres abgewiesen werden:
+1.
+Hausdurchsuchungen werden in
+einem schriftlichen Befehl angeordnet und sind darin insbe­sondere die zu
+durchsuchenden Räumlichkeiten zu bezeichnen (Art. 241 Abs. 1 und
+Abs. 2 lit. a StPO). Eine Einwilligung zur Durchsuchung von Häusern und
+Wohnun­gen (seitens der Inhaberin oder des Inhabers des Hausrechts) ist nicht
+erforderlich, wenn zu vermuten ist, dass in den zu durchsuchenden Räumen zu
+beschlagnah­mende Gegenstände oder Vermögenswerte vorhanden sind
+(Art. 244 Abs. 2 lit. b StPO). Die durchführenden Behörden
+oder Personen treffen geeignete Sicherheits­vorkehren, um das Ziel der
+Massnahme zu erreichen (Art. 242 Abs. 1 StPO). Sie weisen zu Beginn
+der Massnahme den Hausdurchsuchungsbefehl vor (Art. 245 Abs. 1 StPO).
+Anwesende Inhaberinnen oder Inhaber der zu durch­suchenden Räu­me haben der
+Hausdurchsuchung beizuwohnen (Art. 245 Abs. 2 StPO) (siehe dazu Urteil
+BGer 1B_215/2015 vom 24. November 2015 E. 4.1).
+2.
+Für die am 6. Oktober 2020
+in der Wohnung des Beschuldigten durchgeführte Haus­durchsuchung bestand ein
+rechtsgenüglicher Durchsuchungsbefehl der hiesigen Staatsanwaltschaft
+(act. 3/3). Bei der Durchsuchung traf die Polizei in der Wohnung den
+Beschuldigten und einen spanischen Touristen an (act. 3/4).
+Beim inspizierten
+3½-Zimmer-Domizil des Beschuldigten an der […] handelt es sich um eine
+klassische WG-Wohnung, belegt von meh­reren Personen, darunter auch der
+anlässlich der Durchsuchung abwesende Beschwerdeführer. Der bei der
+Durchsuchung anwesende Beschuldigte hatte Zugang zu allen Räumlichkeiten der
+Wohnung (act. 3/4), was durchaus allgemeiner Gepflogenheit bei solchen
+Wohnsituationen entspricht. Exemplarisch dafür ist gerade im konkreten Fall,
+dass am Tag der Durchsuchung das angeblich von einem weiteren Mitbewohner
+(Beschwerdeführer im Parallelverfahren) benutzte Zimmer von einem spani­schen
+Touristen belegt war (act.3/4, Fotobogen Blatt 4). Es ist daher nicht zu
+beanstanden, wenn bei der Durchsuchung
+sämtli­che
+Wohnräume nach den
+im Durchsuchungsbefehl (act. 3/3) konkret aufgeführten Gegenständen
+(inkl. allfällige Datenträger) durchsucht wurden. Es liegt somit keine
+beschwerde­relevante Rechtsverletzung vor (Art. 393 Abs. 2
+lit. a StPO).
+3.
+Bei alldem kommt hinzu, dass
+gemäss Durchsuchungsbefehl der Staatsanwalt­schaft die Polizei insbesondere
+nach "Sprayerutensilien und weitere Hinweise auf die Tat vom
+1. Juni 2020 sowie allfällige weitere Beteiligte" zu suchen hatte;
+diese Anordnung erfolgte im Lichte namentlich von Art. 424 Abs. 2 lit. a
+sowie Art. 244 und Art. 245 StPO rechtmässig. Effektiv konnten dann
+bei der Durchsuchung im Zimmer von A.______ möglicherweise tatrelevantes
+Material gefunden werden (siehe act. 3/4, insbesondere
+Fotodokumentation).
+IV.
+Die Beschwerde ist abzuweisen,
+soweit darauf überhaupt einzutreten ist. Bei die­sem Ausgang hat der
+Beschwerdeführer die Kosten des Beschwerdeverfahrens zu tragen (Art. 428
+Abs. 1 StPO). Die Gerichtsgebühr für das Beschwerdeverfahren ist auf
+CHF 400.- zu bemessen (Art. 8 Abs. 2 lit. b der Zivil- und Strafprozesskosten­verord­nung;
+GS III A/5). Der vorliegende Entscheid schliesst das hängige Straf­verfahren
+nicht ab, weshalb es sich um einen Zwischenentscheid im Sinne von
+Art. 93 BGG handelt (siehe Urteil BGer 1B_98/2013 vom 25. April 2013
+E. 1).
+____________________
+Das Gericht
+beschliesst
+:
+1.
+Die Beschwerde wird abgewiesen,
+soweit darauf überhaupt einzutreten ist.
+2.
+Die Gerichtsgebühr für das
+Beschwerdeverfahren wird festgesetzt auf CHF 400.-; sie wird dem
+Beschwerdeführer auferlegt und von ihm bezogen.
+3.
+Schriftliche Mitteilung an:
+[…]
