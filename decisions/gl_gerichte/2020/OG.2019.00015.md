@@ -1,0 +1,2052 @@
+---
+decision_id: "gl_gerichte_OG.2019.00015"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2019.00015"
+docket_2: "OGS.2021.101"
+decided: "2020-11-16"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1389&W10_KEY=218274&nTrefferzeile=4&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/210/art-014.md", "switzerland/bund/acts/311.0/art-019.md", "switzerland/bund/acts/311.0/art-022.md", "switzerland/bund/acts/311.0/art-034.md", "switzerland/bund/acts/311.0/art-041.md", "switzerland/bund/acts/311.0/art-042.md", "switzerland/bund/acts/311.0/art-043.md", "switzerland/bund/acts/311.0/art-046.md", "switzerland/bund/acts/311.0/art-047.md", "switzerland/bund/acts/311.0/art-049.md", "switzerland/bund/acts/311.0/art-051.md", "switzerland/bund/acts/311.0/art-056.md", "switzerland/bund/acts/311.0/art-057.md", "switzerland/bund/acts/311.0/art-059.md", "switzerland/bund/acts/311.0/art-061.md", "switzerland/bund/acts/311.0/art-063.md", "switzerland/bund/acts/311.0/art-097.md", "switzerland/bund/acts/311.0/art-103.md", "switzerland/bund/acts/311.0/art-106.md", "switzerland/bund/acts/311.0/art-147.md", "switzerland/bund/acts/311.0/art-187.md", "switzerland/bund/acts/311.0/art-188.md", "switzerland/bund/acts/311.0/art-197.md", "switzerland/bund/acts/311.0/art-198.md", "switzerland/bund/acts/311.0/art-333.md", "switzerland/bund/acts/312.0/art-005.md", "switzerland/bund/acts/312.0/art-082.md", "switzerland/bund/acts/312.0/art-084.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-183.md", "switzerland/bund/acts/312.0/art-298a.md", "switzerland/bund/acts/312.0/art-391.md", "switzerland/bund/acts/312.0/art-398.md", "switzerland/bund/acts/312.0/art-404.md", "switzerland/bund/acts/312.0/art-408.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/514.54/art-011.md", "switzerland/bund/acts/514.54/art-034.md"]
+---
+
+# GL Gerichte OG.2019.00015
+
+## Regeste
+
+Versuchte sexuelle Handlungen mit Kindern, Pornografie etc.
+
+## Text
+
+Glarus Obergericht 16.11.2020 OG.2019.00015 (OGS.2021.101)
+Glaris Obergericht 16.11.2020 OG.2019.00015 (OGS.2021.101)
+Glarona Obergericht 16.11.2020 OG.2019.00015 (OGS.2021.101)
+
+Versuchte sexuelle Handlungen mit Kindern, Pornografie etc.
+
+Kanton Glarus
+Obergericht
+Urteil
+vom
+16. November 2020
+Verfahren
+OG.2019.00015
+A.______                                                            Beschuldigter,
+Berufungskläger
+und
+Anschlussberufungsbeklagter
+amtlich
+verteidigt durch B
+.______
+gegen
+Staats- und Jugendanwaltschaft des
+Kantons Glarus
+Anklägerin,
+Berufungsbeklagte
+und
+Anschlussberufungsklägerin
+vertreten
+durch den Staatsanwalt
+Gegenstand
+versuchte
+sexuelle Handlungen mit einem Kind etc.
+über die Anträge:
+A. des
+Beschuldigten, Berufungsklägers und Anschlussberufungsbeklagten
+(gemäss Berufungserklärung vom 11. Februar 2019 [act. 50]
+sowie den Aus­füh­rungen des Verteidigers an der Beru­fungs­verhandlung vom
+17. Januar 2020 [act. 80 S. 3, S. 3
+a
+und
+S. 44
+f
+]):
+1.
+Es seien Dispositiv-Ziffer 1
+Absatz 1 (Schuldspruch wegen versuchter sexueller Handlungen mit einem
+Kind), Ziffer 3 (Strafmass), Ziffer 4 (stationäre Massnah­me)
+sowie die Ziffern 9 und 10 (Kostenregelung) des Urteils der Strafkammer des
+Kantonsgerichts vom 16. Januar 2019 aufzuheben.
+2.
+Es sei der Beschuldigte vom
+Vorwurf der versuchten sexuellen Handlungen mit einem Kind im Sinne von
+Art. 187 Ziff. 1 StGB i.V.m. Art. 22 Abs. 1 StGB freizu­sprechen.
+3.
+Es sei der Beschuldigte für
+das Vergehen der mehrfachen Pornografie zu einer Geldstrafe von
+50 Tagessätzen zu je CHF 30.-, unter Anrechnung der Polizei- und
+Untersuchungshaft von 39 Tagen, zu verurteilen. Die Geldstrafe sei
+bedingt aufzuschieben bei einer Probezeit von 2 Jahren.
+4.
+Für den Fall einer
+Verurteilung wegen versuchten sexuellen Handlungen mit einem Kind sei der
+Beschuldigte wie folgt zu bestrafen, jeweils unter Anrechnung der Polizei-
+und Untersuchungshaft von 39 Tagen:
+Geldstrafe von
+120 Tagessätzen zu CHF 30.-, bedingt aufgeschoben bei einer
+Probezeit von drei Jahren;
+sollte eine unbedingte
+Freiheitsstrafe ausgesprochen werden, sei diese zuguns­ten einer ambulanten
+Massnahme im Sinne von Art. 63 StGB aufzuschieben;
+eventualiter sei eine
+unbedingte Freiheitsstrafe von 4 Monaten auszusprechen.
+5.
+Die Gerichts- und
+Verfahrenskosten des erstinstanzlichen Verfahrens (inkl.
+Untersuchungsverfahren) seien vom Staat zu übernehmen.
+6.
+Es sei dem Beschuldigten aus
+der Staatskasse eine Genugtuung in der Höhe von CHF 7'800.-
+auszurichten.
+7.
+Es sei die Anschlussberufung
+der Staatsanwaltschaft abzuweisen und sei dabei insbesondere auch die Busse
+für die Übertretung des Waffengesetzes beim vor­instanzlich festgesetzten
+Betrag von CHF 300.- zu belassen.
+8.
+Alles unter gesetzlicher
+Kostenfolge.
+B. der
+Staatsanwaltschaft
+(gemäss den Ausführungen des
+Staatsanwaltes an der Berufungsver­handlung vom 17. Januar 2020
+[act. 80 S. 3
+b
+]):
+1.
+Es sei in Abänderung von
+Dispositiv-Ziffer 3 des Urteils der Strafkammer des Kantonsgerichts
+vom 16. Januar 2019 der Beschuldigte mit einer Freiheitsstrafe von
+24 Monaten, unter Anrechnung von 38 Tagen Haft, zu bestrafen; dies als
+Zusatzstrafe zum Strafbefehl der Staatanwaltschaft Winterthur/Unterland vom
+31. Oktober 2018.
+Der vom Untersuchungsamt
+Uznach am 6. Mai 2015 gewährte bedingte Vollzug einer Geldstrafe von
+10 Tagessätzen zu je CHF 20.- sei zu wiederrufen.
+2.
+Es sei in Abänderung von
+Dispositiv-Ziffer 4 des vorinstanzlichen Urteils anstelle der
+stationäre Massnahme für junge Erwachsene im Sinne von Art. 61 StGB
+eine stationäre Massnahme im Sinne von Art. 59 StGB anzuordnen.
+3.
+Es sei in Abänderung von
+Dispositiv-Ziffer 5 des vorinstanzlichen Urteils die Bus­se für die
+Übertretung des Waffengesetzes auf CHF 500.- festzusetzen, bei
+Nichtbezahlung umwandelbar in eine Ersatzfreiheitsstrafe von 5 Tagen.
+4.
+Die Kosten des
+Berufungsverfahrens seien dem Beschuldigten aufzuerlegen.
+____________________
+Das Gericht
+zieht in Betracht:
+I.
+Sachverhalt und Prozessgeschichte
+1.
+1.1
+Am 10. August
+2017 trat der Beschuldigte A.______ über eine online Chat-Unterhaltung mit
+dem fiktiven 13-jährigen Mädchen «XY.______» in Kontakt. Bei «XY.______»
+handelte es sich in Wirklichkeit um verdeckte Fahnder der Koordinations­stelle
+zur Bekämpfung der Internetkriminalität (KOBIK). Der Beschuldigte bot dem
+Mädchen per Chat Geld an, wenn es sich mit ihm für einen «blowjob» treffen
+würde. Nachdem sich des Beschuldigte wiederholt vergewissert hatte, dass
+«XY.______» 13 Jahre alt ist, vereinbarte er mit ihr ein Treffen am
+Bahnhof in Nieder- und Ober­urnen (Gemeinde Glarus Nord; im Folgenden:
+Bahnhof Niederurnen). Der Beschul­digte erschien am 16. August 2017
+kurz nach 18 Uhr am vereinbarten Treffpunkt, wo er von der Polizei umgehend
+festgenommen wurde (siehe dazu act. 1 S. 2 f. Bst. A.).
+1.2
+Im Rahmen einer
+bereits zuvor gegen den Beschuldigten eröffneten Strafun­tersuchung entdeckte
+die Polizei auf dessen Mobiltelefon pornografische Bilder sowie eine
+Filmaufnahme von zwei minderjährigen Mädchen, wobei der Beschul­digte die
+Filmaufnahme per WhatsApp an unbekannte Drittperso­nen gesendet hatte
+(act. 1 S. 4 Bst. B.).
+1.3
+Sodann soll der
+Beschuldigte am 22. Februar 2016 der damals knapp 11‑jäh­rigen […]
+auf ihrem Heimweg von der Schule gefolgt sein und sie gefragt haben, ob sie
+das Wort "Blasen" kennen würde und ob er ihr im Zusammen­hang mit
+"Blasen" einmal etwas Lustiges zeigen solle (act. 1 S. 5
+Bst. C.).
+1.4
+Ferner erwarb der
+Beschuldigte im Jahr 2015 eine Softair-Waffe, konnte dazu aber später keinen
+schriftlichen Kaufvertrag vorweisen (act. 1 S. 5 f. Bst. D.).
+2.
+Am 21. Juni 2018 erhob die
+Staatsanwaltschaft gegen den Beschuldigten bei der Strafkammer des
+Kantonsgerichts wegen der zuvor dargelegten Sachverhalte Anklage
+(act. 1); konkret legte sie ihm darin die folgenden strafbaren
+Handlungen zur Last:
+a)
+versuchte sexuelle Handlungen mit einem
+Kind im Sinne von Art. 187 Ziff. 1 StGB in Verbindung mit
+Art. 22 Abs. 1 StGB (Sachverhalt oben Ziff. 1.1);
+b)
+mehrfache (qualifizierte) Pornografie im Sinne
+von Art. 197 Abs. 4 Satz 2 StGB (Sachverhalt oben
+Ziff. 1.2);
+c)
+sexuelle Belästigung im Sinne von
+Art. 198 StGB (Sachverhalt oben Ziff. 1.3);
+d)
+Übertretung des Waffengesetzes im Sinne von
+Art. 34 Abs. 1 lit. d WG in Verbindung mit Art. 11
+Abs. 1 und Abs. 2 WG (Sachverhalt oben Ziff. 1.4).
+3.
+Die Strafkammer des Kantonsgerichts Glarus fällte am 16. Januar
+2019 nachste­hen­des Urteil (act. 45 S. 34 ff.).
+1.
+A.______ ist schuldig
+der versuchten sexuellen Handlungen mit Kindern im
+Sinne von Art. 187 Ziff. 1 StGB in Verbindung mit Art. 22 Abs. 1 StGB;
+der mehrfachen Pornografie im Sinne von Art. 197 Abs. 4
+Satz 2 StGB;
+der Übertretung des Waffengesetzes im Sinne von Art. 34
+Abs. 1 lit. d WG.
+2.
+E wird freigesprochen vom Vorwurf der sexuellen
+Belästigung im Sinne von Art. 198 StGB.
+3.
+A.______ wird, teilweise als Zusatzstrafe zum
+Strafbefehl der Staats­anwaltschaft Winterthur / Unterland vom 31. Oktober
+2018, unter Anrech­nung der erstandenen Polizei- und Untersuchungshaft von
+insgesamt 39 Tagen zu einer unbedingten Freiheitsstrafe von 17 Monaten
+verurteilt.
+4.
+Der Vollzug der Freiheitsstrafe wird zu Gunsten einer
+stationären Mass­nahme für junge Erwachsene im Sinne von Art. 61 StGB in
+Verbindung mit Art. 57 Abs. 2 StGB aufgeschoben.
+5.
+A.______ wird zu einer Busse von CHF 300.— verurteilt.
+Bei Nichtbe­zahlung wird die Busse in eine Ersatzfreiheitsstrafe von drei
+Tagen umge­wandelt.
+6.
+Die folgenden bei A.______ beschlagnahmten Gegenstände
+werden eingezogen und vernichtet:
+-Mobiltelefon HUAWEI (…) (Ordner 3, Regis­ter 11, act.
+11/24);
+-Mobiltelefon Samsung, Galaxy S5, schwarz, inkl.
+Ladekabel (Ord­ner 3, Register 11, act. 11/25).
+7.
+Die Kantonspolizei Glarus wird ersucht, über die
+Beschlagnahme und all­fällige Einziehung der Langwaffe, Special Purpose
+Rifle, Cal. 6 mm x 45, Seriennummer 13F32692 (Ordner 3, Register 11, act.
+11/26) oder deren Rückgabe an den Beschuldigten zu entscheiden.
+8.
+Es wird davon Vormerk genommen, dass keine konkreten
+Zivilforderungen geltend gemacht wurden.
+9.
+[Gerichtsgebühr und Untersuchungskosten]
+10.
+[Kostenauflage zu Lasten von A.______]
+11.
+[Entschädigung der amtlichen Verteidigung]
+4.
+4.1
+Am 11. Februar 2019 erhob der Verteidiger des Beschuldigten
+rechtzeitig Beru­fung beim Oberge­richt (act. 50). Darin beantragt er
+einen Freispruch vom Vorwurf der versuchten sexuellen Handlungen mit einem
+Kind. Im Übrigen sei der Beschuldigte mit einer Geldstrafe von
+50 Tagessätzen zu je CHF 30.- zu bestrafen [gemeint für die mehrfache
+Pornografie], dies bedingt bei einer Probezeit von zwei Jahren; sodann seien
+die Kosten des erst­instanzlichen Verfahrens sowie der Untersuchung auf die
+Staatskasse zu nehmen und sei dem Beschuldigten eine Genugtuung in Höhe von
+CHF 7'600.- zu entrichten. An der Berufungsverhandlung beantragte der
+Verteidiger sodann ergänzend, dass die erstinstanzlich für die Übertretung
+des Waffengesetzes festgesetzte Busse von CHF 300.- in diesem Betrag zu
+bestätigen sei (act. 80 S. 44f).
+4.2
+Hierauf legte die Staatsanwaltschaft am 20. Februar 2019 rechtzeitig
+Anschluss­berufung ein und verlangt dabei, es sei der Beschuldigte zu einer
+Freiheits­strafe von 24 Monaten (unter Anrechnung von 38 Tagen Haft) und
+einer Busse von CHF 1'000.- (Ersatz­freiheitsstrafe von 10 Tagen) zu
+verurteilen; im Gegensatz zur Vorinstanz sei sodann nicht eine stationäre
+Mass­nahme für junge Erwachsene im Sinne von Art. 61 StGB anzuordnen,
+sondern eine stationäre Massnahme im Sinne von Art. 59 StGB
+(act. 55). Anlässlich der Berufungs­verhandlung beantragte der
+Staatsanwalt eine Busse von noch CHF 500.- (act. 80 S. 3
+b
+).
+5.
+Der Verteidiger des Beschuldigten
+stellte in der Berufungserklärung den Beweis­antrag, es sei über den
+Beschuldigten ein Obergutachten einzuholen (act. 50 S. 2). Am
+5. Juli 2019 beauftrage das Obergerichtspräsidium den Erstgutachter Dr.
+med. G.______, Facharzt für Psychiatrie und Psychothe­rapie, ein Ergän­zungs­gutsachten
+über den Beschuldigten zu erstatten (act. 64).
+Am 10. Oktober 2019
+unterbreitete Dr. med. G.______ dem Obergericht das Zusatzgut­achten
+(act. 71).
+6.
+Am 17. Januar 2020
+fand die mündliche Berufungs­verhand­lung
+statt
+(act. 80).
+Am 16. November
+2020 fällte das Obergericht seinen Entscheid (act. 85). Der Entscheid
+wird schriftlich eröffnet, nachdem die Parteien auf eine mündliche
+Urteilsbekannt­gabe ausdrücklich verzichtet haben (Art. 84 Abs. 3
+StPO; act. 80 S. 57).
+II.
+Formelle Erwägungen
+1.
+Das hier angefochtene Strafurteil
+der Strafkammer des Kantonsge­richts (act. 45) ist der Berufung zu­gänglich
+(Art. 398 Abs. 1 StPO). Die Berufungs­instanz überprüft das Urteil
+nur in den angefochtenen Punkten (Art. 404 Abs. 1 StPO).
+2.
+In Bezug auf den vorinstanzlichen
+Schuldspruch (act. 45 S. 34 Dispositiv-Ziff. 1) ficht der
+Beschuldigte in seiner Berufung einzig die Verurteilung wegen versuchter
+sexueller Handlungen mit einem Kind an; die weiteren Schuldpunkte (mehrfache
+[qualifizierte] Pornografie im Sinne von Art. 197 Abs. 4
+Satz 2 StGB und Übertretung des Waffengesetzes im Sinne von 34
+Abs. 1 lit. d WG) werden von ihm nicht bestritten. Von ihm
+unbeanstandet blieben ferner die Disposi­tiv-Ziffern 6-8 des vorinstanzlichen
+Urteils. Die nicht angefochtenen Urteilspunkte sind somit in Rechtskraft
+erwachsen und nicht mehr Gegenstand des Berufungsverfahrens. Dies gilt ebenso
+für den in Dispositiv-Ziff. 2 erfolg­ten Freispruch vom Vorwurf der
+sexuellen Belästigung im Sinne von Art. 188 StGB, hat nämlich die
+Staatsan­waltschaft diesen Punkt in ihrer Anschlussberufung nicht mehr
+aufgegriffen.
+3.
+Mit Berufung kann gemäss
+Art. 398 Abs. 3 StPO geltend gemacht werden, die Vor­instanz habe
+das Recht verletzt (einschliesslich Unangemessenheit) und/oder habe den
+Sachverhalt unvollständig oder unrichtig festgestellt.
+III.
+Vorwurf
+der versuchten sexuellen Handlungen mit einem Kind
+(vom
+Beschuldigten bestritten)
+1.
+1.1
+Mit Verfügung vom 8.
+August 2017 ordnete die hiesige Staatsanwaltschaft eine verdeckte Fahndung
+gegen den Beschuldigten an (Ordner 3, Register 6, act. 6/9). Zur
+Begründung dieses Schrittes führte die Staatsanwaltschaft Folgendes aus
+(a.a.O., act. 6/9 S. 2):
+«
+Der Beschuldigte
+sprach im Februar 2016 ein 10-jähriges Mäd­chen auf der Strasse an und fragte
+es nach kurzem Gespräch, ob er ihm "etwas Lustiges zeigen solle, was mit
+blasen zu tun hätte" [siehe zu diesem Sachverhalt auch oben E. I.1.3].
+Weiter sprach der Beschuldigte im Februar 2016 ein 9-jähriges Mädchen auf der
+Strasse an und fragte es nach der Mobiltelefonnummer, welche das Mädchen ihm
+dann auch gab. Im Zuge der polizeilichen Ermittlungen, insbe­sondere der
+Auswertung des Mobiltelefons des Beschuldigten, wurden zahlreiche
+Chatverläufe sichergestellt, welche der Beschuldigte mit minderjährigen
+Mädchen führte. An den Chats ist auffällig, dass der Beschuldigte deren
+Verlauf jeweils zügig auf sexuelle Handlungen, insbesondere das Thema
+'Blowjob', lenkte. Im Herbst/ Winter 2016 chattete der Beschuldigte mit zwei
+minderjährigen Mädchen und versuchte mit ihnen ein Treffen für einen
+'Blowjob' zu vereinbaren. Der Beschuldigte bot den Mädchen dafür Geld an. Zu
+einem Treffen kam es aufgrund der Anzeigeer­stattung durch die Mutter eines
+der Mädchen jedoch nicht. die Ermittlungen bzw. die Durchsicht der
+rapportierten Tatbestände haben erkennbar eine Steigerung im Verhalten des
+Beschuldigten gezeigt. Durch die verdeckte Fahndung soll insbesondere geklärt
+werden, wie weit der Beschuldigte geht bzw. bereit ist zu gehen – wenn sich
+ein Mädchen vermeintlich auf ihn einlässt – und wel­che konkreten Absichten
+er mit den Mädchen in sexueller Hinsicht hegt.
+»
+1.2
+Im erstinstanzlichen
+Verfahren bestritt der Verteidiger des Beschuldigten die Rechtmässigkeit der
+durchgeführten verdeckten Fahndung (siehe dazu act. 45 S. 7 f.
+E. 1.4.1.). Die Vorinstanz legte indes im angefochtenen Entscheid zutreffend
+dar, dass vorliegend die Anordnung einer verdeckten Fahndung im Lichte sowohl
+von Art. 298a ff. StPO als auch Art. 26b PolG/GL (GS V A/11/1)
+gerechtfertigt war (act. 45 S. 8 ff. E. 1.4.2.-1.4.4.).
+Darauf kann hier in Anwendung von Art. 82 Abs. 4 StPO integral
+verwiesen werden, zumal der Verteidiger des Beschuldigten im Beru­fungsverfahren
+konkret gegen die
+Anordnung
+der verdeckten Fahndung keine Ein­wendungen
+mehr erhoben hat.
+2.
+2.1
+Im Rahmen der
+verdeckten Fahndung wurde der Beschuldigte vom 10. bis 16. August 2017
+von der Bundeskriminalpolizei, Kommissariat KOBIK, via WhatsApp überwacht
+(Ordner 2, Register 6, act. 6/6 S. 2 oben). Am 10. August 2017
+trat der Beschuldigte per WhatsApp mit XY.______ in Kontakt, wobei es sich
+bei XY.______ in Tat und Wahrheit um ein fiktives Mädchen im Alter von 13
+Jahren handelte, für welches sich die verdeckten Fahnder der
+Bundeskriminalpolizei ausgaben.
+2.2
+In der Anklage ist der
+Chatverlauf zwischen dem Beschuldigten und XY.______ (siehe dazu die
+Aufzeichnung in Ordner 3, Register 6, act. 6/13) folgen­dermassen
+wiedergegeben (act. 1 S. 2 f.):
+"Der Beschuldigte führte im Zeitraum von Juli 2015 bis 16.08.2017
+über Facebook-Messenger und Whatsapp zahlreiche Chat-Gespräche mit u.a.
+minderjährigen Mäd­chen, wobei der Chatinhalt vom Beschuldigten jeweils
+schnell auf die Thematik "blowjob" (englische Bezeichnung für eine
+Form des Oralverkehrs, bei der der Penis durch Mund, Zunge und Lippen des
+Sexualpartners stimuliert wird) gelenkt wurde. Dabei trat der Beschuldigte am
+10.08.2017 in Kontakt mit dem fiktiven Mädchen "XY.______" (im
+Folgenden "XY.______" genannt). Bei "XY.______" handelte
+es sich um zwei verdeckte Fahnder der Koordinationsstelle zur Bekämpfung der
+Internetkriminalität (KOBIK), welche den Beschuldigten am 10.08.2017, 12.20 Uhr,
+per Whatsapp mit der alltäglichen und unverfänglichen Nachricht
+"hooooiiiii
+und? guet gange? gwun­ne?"
+kontakierten. Der Beschuldigte konnte die
+Rufnummer des Absenders nicht einordnen. Der Beschuldigte anwortete sofort
+und begann eine Chat-Unterhaltung mit "XY.______", die ihm nicht
+bekannt war und in der Annahme, dass sie irrtümlich an ihn gelangt war.
+Bereits nach wenigen Minuten (10.08.2017, 12.25 Uhr) erkundigte sich der
+Beschuldigte nach dem Alter von "XY.______", welche ihr Alter als
+13 bezeichnete. Wenige Minuten später (10.08.2017, 12.42 Uhr) erkundigte sich
+der Beschuldigte bei "XY.______", ob diese Geld brauchen könne. In
+der Folge bot der Beschuldigte "XY.______" an, dass er ihr Schuhe
+kaufen würde und vergewisserte sich erneut, ob "XY.______" tat­sächlich
+13 Jahre alt sei (10.08.2017, 12.54 Uhr). Kurz darauf (10.08.2017, 13.01 Uhr)
+lenkte der Beschuldigte den Chat-Inhalt auf sexuelle Themen, indem er
+"XY.______" fragte
+"Weisch was bj isch"
+.
+Anschliessend erkundigte sich der Beschuldigte über die Erfahrungen von
+"XY.______" mit dieser sexuellen Praktik: Der Beschuldigte fragte
+"XY.______", ob sie schon einmal einen "blowjob" gemacht
+habe. Als sie verneinte, fragte der Beschuldigte, warum sie dies noch nie
+gemacht habe und wie sie sich das vor­stelle. Zudem fragte er
+"XY.______" nach ihrem Wohnort (10.08.2017, 13.04 - 14.45 Uhr). Am
+nächsten Tag kontaktierte der Beschuldigte "XY.______" erneut
+(11.08.2017, 07.58 Uhr) und lenkte den Chat-Inhalt erneut gezielt auf die
+Thematik "blowjob" und bot "XY.______" Geld an, wenn sie
+sich mit ihm für einen "blowjob" treffen würde
+("das söll
+heissä dass ich dir alles kaufää oder alles gibe was du wilsch wänn du mir
+kurz eis blasä Würsch"
+, 11.08.2017, 11.30 Uhr). In der Folge
+versuchte der Beschuldigte in zahlreichen weiteren Chatnachrichten
+"XY.______" davon zu überzeugen, dass diese ihm einen
+"blowjob" gegen Geld mache, wobei der Beschuldigte
+"XY.______" mehrfach erklär­te, wie sie dann vorzugehen habe und
+den Geldbetrag für den "blowjob" mehrmals erhöhte (11.08.2017,
+11.30 - 11.53 Uhr; 13.08.2017, 10.53 Uhr - 11.23 Uhr, 15.08.2017, 10.38 Uhr –
+21.49 Uhr). Am 15.08.2017 versuchte der Beschuldigte "XY.______" zu
+einem Treffen am gleichen Tag zu bewegen, welches jedoch aufgrund eines
+behaupteten Termins von "XY.______" scheiterte. In der Folge
+vereinbarte der Beschuldigte mit "XY.______" ein Treffen für den
+Folgetag beim Bahnhof Niederurnen (15.08.2017, 13.08 Uhr - 14.39 Uhr). Zudem
+erkundigte sich der Beschuldigte bei "XY.______" nach deren
+weiteren sexuellen Erfahrungen (
+"Anderi Frag..hätt schomal Einä dini
+Muschi gleckt
+?", 15.08.2017, 14.33 Uhr) und teilte ihr mit, dass er
+sie am Folge­tag zusätzlich zum "blowjob" auch "lecken"
+wolle (15.08.2017, 15.25 Uhr). In weite­ren Chat-Nachrichten fragte der
+Beschuldigte mehrmals nach einem Foto von "XY.______", worauf
+"XY.______" dem Beschuldigten ein Foto schickte, auf welchem der
+untere Teil eines Gesichtes mit vorgehaltenem Finger zu erkennen war
+(15.08.2017, 15.27 - 21.49 Uhr). Am Folgetag, 16.08.2017, bat der Beschuldigte,
+welcher in derselben Woche eine Lehrstelle begonnen hatte, darum das Treffen
+von 14.00 Uhr auf 18.00 Uhr zu verschieben, da er am Nachmittag arbeiten
+müsse. Damit "XY.______" sich auf die Verschiebung des Treffens
+einliess, bot er ihr erneut mehr Geld als Gegenleistung an (
+"Bitte
+Hüt abig am 6ii dafüür Gib ich dir au mee geld EHREWORT; BITTE XY.______
+Bitte!; dafür gib ich dir 800'000fr",
+16.08.2017, 13.59 Uhr). Kurz
+vor dem Treffen versicherte sich der Beschuldigte, ob "XY.______"
+tatsächlich am Bahnhof Niederurnen warte und verlangte ein Foto als Beweis
+(16.08.2017, 17.45 Uhr). Zudem fragte der Beschuldigte "XY.______"
+kurz vor dem vereinbarten Treffen am Bahnhof Niederurnen mehrmals, ob sie
+rasiert sei (16.08.2017, 17.48, 17.50 und 17.59 Uhr) und versi­cherte sich
+erneut, ob "XY.______" tatsächlich 13 Jahre alt sei (16.08.2017,
+17.51 Uhr). Am 16.08.2017, 18.03 Uhr, erschien der Beschuldigte am
+vereinbarten Treffpunkt am Bahnhof in Niederurnen, dies in der Absicht, mit
+"XY.______" Oralverkehr in der Form eines "blowjobs"
+(Oralverkehr, bei dem der Penis durch Mund, Zunge und Lippen stimuliert
+wird), oder anderen Oralverkehr wie Lecken der Vagina vorzunehmen. Der
+Beschuldigte konnte am 16.08.2017, 18.05 Uhr, am Bahnhof Ober- und Niederur­nen
+von der Polizei festgenommen werden.
+2.3
+Die Vorinstanz
+erkannte im angefochtenen Entscheid, die Sachverhaltsdarstel­lung der
+Staatsanwaltschaft gemäss Anklage entspreche dem tatsächlichen Chat-Verlauf,
+stimme also mit den betreffenden Aufzeichnungen in den Untersuchungsak­ten
+überein (act. 45 S. 6 E. 1.2.). Diese (zutreffende) Feststellung
+der Vorinstanz blieb im Berufungsverfahren unbestritten; mit keinem Wort
+machte die Verteidigung an der Berufungsverhandlung geltend, in der Anklage
+sei der Chatver­lauf zwischen dem Beschuldigten und "XY.______"
+nicht korrekt aufgezeichnet.
+3.
+3.1
+In den Chat-Gesprächen
+mit "XY.______" war der Beschuldigte unverkennbar und beharrlich,
+ja sogar flehentlich, darauf aus, "XY.______" dazu zu verleiten,
+mit ihm sexuel­le Handlungen vorzunehmen; dem Beschuldigten war dabei von
+Anfang an bewusst, dass "XY.______" erst 13 Jahre alt war. All das
+hat bereits die Vorinstanz im angefochtenen Entscheid zutreffend festgehalten
+(act. 45 S. 6 E. 1.2. 2. Abschnitt sowie S. 11
+E. 1.4.6.); es und kann daher darauf verwiesen werden (Art. 82
+Abs. 4 StPO), ohne dass dazu noch weitergehende Ausführungen
+erforderlich sind.
+3.2
+Der Verteidiger des
+Beschuldigten machte an der Berufungsverhandlung sinn­gemäss geltend, der
+Chat-Verlauf sei realitätsfremd gewesen. Der Beschuldigte habe im Verlauf der
+Chat-Unterhaltung "XY.______" ganz unvermittelt mit der Frage kon­frontiert,
+ob sie wisse, was ein "BJ" bzw. "Blowjob" sei und habe
+ihr in der Folge absurd hohe Geldsummen angeboten, wenn sie mit ihm diese
+sexuelle Handlung praktiziere. Auf eine solche Chat-Kommunikation aber, so
+der Verteidiger weiter, hätte sich ein reales 13-jähriges Mädchen gar nicht
+weiter eingelassen, hätte deren offensichtliche Absurdität erkannt und wäre
+auf keinen Fall zum vereinbarten Treffpunkt hingegangen. Zudem hätte ein
+reales 13-jähriges Mädchen auch nicht wieder per SMS Kontakt zum
+Beschuldigten aufgenommen und ihm mitgeteilt, er sei "ein cooler
+Typ", nachdem dieser ihr zuvor geschrieben habe "verpiss dich"
+und sie danach auf WhatsApp geblockt habe. Der ganze Chat-Verlauf sei daher
+nicht verwertbar (act. 80 S. 36 ff.).
+Diese Einwendungen sind allesamt
+unbehelflich. Zunächst ist festzuhalten, dass "XY.______" sich in
+der Chat-Unterhaltung weder provokativ noch sonstwie ausserge­wöhnlich
+verhielt, was bereits die Vorinstanz im angefochtenen Entscheid zutreffend
+erwogen hat, worauf denn auch verwiesen werden kann (act. 45 S. 11
+E. 1.4.6. [Art. 82 Abs. 4 StPO]). Es war ausschliesslich der
+Beschuldigte, der die Kommu­ni­kation im Chat sexualisierte, wobei
+"XY.______" sich im Gespräch über die ihr vorgeschla­genen
+sexuellen Praktiken ganz altersgemäss unerfahren und zurückhal­tend gab
+(Ordner 3, Register 6, act. 6/13, dort insbesondere S. 3,
+S. 7 -9, S. 11). Auf das Angebot des Beschuldigten, er werde
+ihr alles kaufen, was sie nur wolle, wenn sie ihn oral befriedige, ging
+"XY.______" mit keinem Wort ein (a.a.O., S. 5); auch im späte­ren
+Chat-Verlauf, als der Beschuldigte ihr zunächst CHF 500'000.- und danach
+gar CHF 800'000.- anbot (a.a.O., S. 9 und S. 14), liess sie
+sich davon nicht beeindru­cken bzw. merkte bloss lapidar an, ob er sie
+"verarsche", denn so viel Geld habe er ja gar nicht (a.a.O.,
+S. 14). Zu keinem Zeitpunkt vermittelte "XY.______" gegen­über
+dem Beschuldigten den Eindruck, als würde ihre Bereitschaft zur Vor­nahme von
+sexuel­len Handlungen davon abhängen, dass er ihr dafür etwas bezah­len oder
+kaufen würde. "XY.______" verhielt sich auch nicht
+aussergewöhnlich, als sie dem Beschuldigten eine SMS zuschickte, nachdem er
+sie kurzzeitig auf WhatsApp kurz­zeitig blockiert hatte. Bevor nämlich der
+Beschuldigte die Chat-Unterhaltung mit den Worten "Ah chum piss
+dich" beendete, hatte er von "XY.______" sozusagen ultimativ
+wissen wollen ("Nur ja oder neiiiii"), ob sie ihn nun oral befriedi­ge,
+und war dann offensichtlich frus­triert darüber, weil "XY.______"
+sich nicht festlegte (a.a.O., S. 7). Wenn daher "XY.______"
+sich in der Folge bei ihm per SMS wieder meldete und kindlich-naiv nach­fragte,
+warum er ihr gegenüber derart brüsk gewesen sei (a.a.O., S. 8), so
+erscheint dies als eine Reaktion, wie sie bei einem realen 13-jährigen
+Mädchen als durchaus altersadäquat zu bezeichnen wäre.
+Bei alledem ist indes jegliche
+Diskussion darüber, ob "XY.______" sich während der Chat-Unterhaltung
+wie ein durchschnittliches 13-jähriges Mädchen verhielt, von vornhe­rein
+vollkommen müssig. Entscheidend ist einzig und allein, dass der Beschuldigte
+davon ausging, dass er sich im Chat mit einem 13-jährigen Mädchen unterhalte
+und er
+dieses
+Mädchen zu sexuellen Handlungen animieren wollte.
+4.
+4.1
+Die Vorinstanz
+subsumierte das eingeklagte Ver­halten des Beschuldigten unter den Tatbestand
+der versuchten sexuellen Handlungen mit einem Kind im Sinne von Art. 187
+Ziff. 1 StGB in Verbindung mit Art. 22 Abs. 1 StGB
+(act. 45 S. 17 E. 1.8. in fine). Sie erwog hierzu, der
+Beschuldigte habe dadurch, dass er mit "XY.______" im Chat ein
+Treffen zur Vornahme sexueller Handlun­gen vereinbart und sich in der Folge
+tatsächlich zur festgelegten Zeit [16. August 2017 um 18 Uhr] am
+abgesprochenen Treffpunkt beim Bahnhof Niederurnen einge­funden habe, die
+Schwelle zum straf­baren Versuch überschritten.
+Dieses von der Vorinstanz im
+angefochtenen Entscheid einlässlich begründete Fazit ist auf der ganzen Linie
+zutreffend; es kann daher in Anwendung von Art. 82 Abs. 4 StPO
+integral auf die entsprechenden Erwägungen verwiesen werden (act. 45
+S. 13 ff. E. 1.5.-1.8.).
+4.2
+Der Verteidiger wandte
+an der Berufungsverhandlung ein, alleine nur das Ein­treffen am vereinbarten
+Ort besage noch nicht, dass es auch zu sexuellen Handlun­gen gekommen wäre;
+es müsse schliesslich auch noch die Chemie zwischen den sich bis dahin
+unbekannten Personen stimmen. Ausserdem sei der Beschuldigte ein gehemmter
+Typ, und zwar auch in sexuellen Belangen, und habe sich zuvor noch nie mit
+einem 13-jährigen Mädchen getroffen (act. 80 S. 39 f.). Diese
+Einwendungen stossen ins Leere.
+Der Beschuldigte war
+richtiggehend besessen vom Gedanken und der Lust auf die vereinbarte sexuelle
+Handlung mit "XY.______". Noch auf dem Hinweg zum Bahnhof Nie­derurnen
+schrieb er ihr nur wenige Minuten vor dem vermeintlichen Treffen, ob sie sich
+freue und auch wirklich rasiert sei (Ordner 3, Register 6,
+act. 6/13 S. 16). Der Beschuldigte war zweifelsfrei entschlossen,
+sich mit "XY.______" sexuell zu betätigen, zumal er sich ihres
+Einverständnisses zu den im Chat vorberedeten sexuellen Handlungen sicher
+sein konnte, da sie sich noch vor ihm am festgelegten Treffpunkt eingefunden
+und ihm dies per WhatsApp mit einem Foto von der Örtlichkeit am Bahnhof
+Niederurnen bestätigt hatte (a.a.O., S. 15). Die Bahnstation liegt
+übrigens abseits vom Wohngebiet am Rande eines Industriegeländes; sie ist,
+ohne Schalter und Kiosk, generell schwach frequentiert, denn die Dörfer Oberurnen
+und Nieder­urnen sind durch eine Buslinie (die nicht am Bahnhof vorbeiführt)
+an den nahegele­ge­nen Bahnhof Ziegelbrücke angebunden. Auf dem weitläufigen
+Industrieareal mit seinen verwinkelten Gebäulichkeiten, den dort an mehreren
+Orten offen aufge­stapelten Paletten und Fertigteilen, gesäumt zudem von
+vereinzelten Grünflächen mit niedrigen Bäumen und Büschen, lässt sich sodann
+ganz leicht ein versteckter Ort finden, um ungestört sexuelle Handlungen
+vorzunehmen. Dessen war sich denn auch der Beschuldigte schon im Voraus
+vollauf bewusst, schrieb er doch "XY.______" am Mittag vor dem
+vereinbarten Treffen: "Ich weiss au wo Häre mir dänn Chönd"
+(a.a.O., S. 13).
+4.3
+Aus alldem ergibt
+sich, dass die Vorinstanz den Beschuldigten zu Recht wegen versuchter sexueller
+Handlungen mit einem Kind im Sinne von Art. 187 Ziff. 1 StGB in
+Verbindung mit Art. 22 Abs. 1 StGB schuldig gesprochen hat. Die
+Berufung des Beschuldigten ist daher in diesem Punkt abzuweisen.
+IV.
+Ist
+vorliegend eine Zusatzstrafe auszusprechen?
+1.
+1.1
+Die Vorinstanz
+verhängte gegen den Beschuldigten eine unbedingte Freiheits­strafe von 17
+Monaten (unter Anrechnung von 39 Tagen erstandene Polizei- und
+Untersuchungshaft) und bezeichnete diese Sanktion "teilweise als
+Zusatzstrafe" zu einem Strafbefehl der Staatsanwaltschaft Winterthur /
+Unterland vom 31. Oktober 2018 (act. 45 S. 34
+Dispositiv-Ziff. 3). Zudem auferlegte die Vorinstanz dem Beschuldigten
+eine Busse von CHF 300.-, bei schuldhafter Nichtbezahlung umwan­delbar
+in eine Ersatzfreiheitsstrafe von 3 Tagen (Dispositiv-Ziff. 5).
+1.2
+Der Beschuldigte wurde
+mit Strafbefehl der Staatsanwaltschaft Winterthur / Unterland vom
+31. Oktober 2018 wegen mehrfachen betrügerischen Missbrauchs einer
+Datenverarbeitungsanlage im Sinne von Art. 147 Abs. 1 StGB zu einer
+beding­ten Geldstrafe von 120 Tagessätzen zu je CHF 50.- und einer
+Busse von CHF 1'500.- verurteilt (siehe act. 25
+S. 3 ff.).
+2.
+Die dem Beschuldigten im
+vorliegenden Prozess angelasteten Delikte gemäss Anklageschrift vom
+21. Juni 2018 (act. 1) liegen zeitlich weiter zurück als der eben
+erwähnte Strafbefehl der Staatsanwaltschaft Winterthur / Unterland. Bei der
+Bemes­sung der Strafe für die hier nun zur Diskussion stehenden Delikte ist
+daher zu beachten, dass der Beschuldigte insgesamt nicht schwerer bestraft
+wird, als wenn alle strafbaren Handlungen (also einerseits die vorliegenden
+Taten
+und
+andererseits die Delikte, welche zum Winterthurer
+Strafbefehl geführt haben) gemeinsam beur­teilt worden wären (Art. 49
+Abs. 2 StGB). Die soeben zitierte Bestimmung zielt im Wesentlichen
+darauf ab, das sogenannte Asperationsprinzip im Sinne von Art. 49
+Abs. 1 StGB [moderate Strafschär­fung bei mehreren Straftaten anstelle
+einer Kumulation von Einzelstrafen] auch bei retrospektiver Konkurrenz zu
+gewährleisten, also wenn die jetzt zu beurtei­lenden Straftaten vor einer
+früheren Verurteilung begangen wurden (OFK/StGB-
+Heimgartner
+, StGB 49 N 8; BGE 142 IV 265
+E. 2.3.1 S. 267). Dazu aber sogleich folgende Einschränkung: Sind
+mehrere Straftaten zu sanktionieren, so ist die Strafzumessungsregel von
+Art. 49 Abs. 1 StGB [Asperation statt Kumulation] nur anwendbar,
+soweit das Gericht für die einzelnen Straf­taten effektiv auch auf die
+gleiche Strafart erkennt (Freiheitsstrafe bzw. Geldstra­fe oder Busse); dies
+gilt ebenso bei retrospektiver Konkurrenz (BGE 142 IV 265
+E. 2.3.2 S. 267 f.). Wurde daher ein Täter im ersten Urteil zu
+einer Geldstrafe verurteilt (so wie hier der Beschuldigte im Strafbefehl der
+Staats­anwaltschaft Winterthur / Unterland vom 31. Oktober 2018), ist er
+dagegen für die neu zu beurteilenden Delikte mit einer Freiheitsstrafe zu
+belegen, ist folglich – losge­löst vom ersten Urteil – auf eine neue Strafe
+[und nicht eine Zusatzstrafe] zu erken­nen (siehe dazu OFK/StGB-
+Heimgartner
+, StGB 49 N 10a mit
+Hinweis auf BGE 137 IV 58, 138 IV 122 f).
+3.
+3.1
+Vorliegend hat sich
+der Beschuldigte der versuchten sexuellen Handlungen mit einem Kind
+(Art. 187 Ziff. 1 StGB in Verbindung mit Art. 22 Abs. 1
+StGB) und der mehrfachen [qualifizierten] Pornografie (Art. 197
+Abs. 4 Satz 2 StGB) sowie der Übertretung des Waffengesetzes
+(Art. 34 Abs. 1 lit. d WG) schuldig gemacht. Die beiden
+letztgenannten Schuldpunkte waren im Berufungsverfahren nicht bestritten.
+3.2
+Bei sexuellen
+Handlungen mit einem Kind im Sinne von Art. 187 Ziff. 1 StGB sieht
+das Gesetz eine Freiheitsstrafe bis zu fünf Jahren oder eine Geldstrafe vor.
+Die gleiche Strafandrohung gilt für qualifizierte Pornografie im Sinne von
+Art. 197 Abs. 4 Satz 2 StGB.
+Im angefochtenen Entscheid
+erkannte die Vorinstanz hinsichtlich der Sexualdelikte auf eine
+Freiheitsstrafe (und nicht bloss auf eine Geldstrafe). Der Verteidiger des
+Beschuldigten beantragte in seiner Berufungserklärung eine Geldstrafe von
+50 Tagessätzen (act. 50 S. 2). Dieser Antrag erfolgte
+allerdings vor dem Hinter­grund, dass der Verteidiger in Hinsicht auf den
+Vorwurf der versuchten sexuellen Handlungen mit einem Kind einen Freispruch
+forderte und daher, wäre das Obergericht dieser Position gefolgt, allein noch
+für die mehrfache Pornografie eine Sanktion auszu­sprechen wäre. An dieser
+Stelle ist bereits vorwegzunehmen, dass sowohl in Bezug auf die versuchte
+sexuelle Handlung mit einem Kind als auch in Hinsicht auf die mehrfache
+qualifizierte Pornografie einzig eine Freiheitsstrafe schuldangemessen ist
+(siehe zur konkreten Strafzumessung weiter unten).
+3.3
+Beim Verstoss des
+Beschuldigten gegen das Waffengesetz im Sinne von Art. 34 Abs. 1
+lit. d WG handelt es sich um einen Übertretungstatbestand, der mit Busse
+zu sanktionieren ist.
+4.
+Die Staatsanwaltschaft Winterthur
+/ Unterland verhängte in ihrem Strafbefehl vom 31. Oktober 2018
+(act. 25) gegen den Beschuldigten eine Geldstrafe sowie eine Busse. Im
+Vergleich zu dieser Sanktion ist die vorliegend für die Sexualdelikte aus­zusprechende
+Freiheitsstrafe andersartig; die Freiheitsstrafe ist daher als eigen­ständige
+Strafe ohne Beachtung der Vorstrafe zu bemessen. Es ist diesbezüglich also
+nicht eine Zusatzstrafe zum früheren Strafbefehl zu bestimmen.
+Nicht anders verhält es sich bei
+der Busse, welche für die Widerhandlung gegen das Waffengesetz auszufällen
+ist; auch diese Sanktion ist andersartig im Vergleich zu der im Strafbefehl
+verfügten Strafe. Zwar verhängte damals die Staatsan­waltschaft Winterthur /
+Unterland zusätzlich zur Geldstrafe noch eine Busse. Doch die betref­fende
+Busse ist nur ihrer Bezeichnung nach gleich wie die hier für die Übertretung
+des Waffengesetzes fällige Busse. Bei der im Strafbefehl festgelegten Busse
+handelt es sich um eine sogenannte Verbindungsbusse im Sinne von Art. 42
+Abs. 4 StGB (und somit nicht um eine Busse, wie sie bei Übertretungen im
+Sinne von Art. 103 StGB als einzig mögliche Sanktion vorgesehen ist).
+Dies erhellt daraus, dass der im Strafbefehl konkret sanktionierte
+Straftatbestand des betrügerischen Missbrauchs einer Datenverarbeitungsanlage
+im Sinne von Art. 147 Abs. 1 StGB mit Freiheits­strafe oder
+Geldstrafe bedroht ist; in einem solchen Fall ist daher eine Busse origi­när
+gar nicht möglich, sondern lediglich in der Konstellation, dass die an sich
+einzig mögliche Strafe (Freiheits- oder Geldstrafe) bedingt aufgeschoben wird
+(Art. 42 Abs. 4 StGB).
+5.
+Demzufolge sind die
+Freiheitsstrafe (für die Sexualdelikte) sowie die Busse (für die Übertretung
+des Waffengesetzes), die nachstehend der Höhe nach zu bestimmen sind, im
+Gegensatz zum angefochtenen Entscheid
+nicht
+als Zusatzstrafe zum Straf­befehl
+der Staatsanwaltschaft Winterthur / Unterland vom 31. Oktober 2018 zu
+qualifizieren.
+V.
+Strafzumessung
+1.
+Busse für die
+Übertretung des Waffengesetzes
+1.1
+Die hier in Frage
+stehende Übertretung des Waffengesetzes im Sinne von Art. 34 Abs. 1
+lit. d WG ist mit einer Busse zu ahnden (BGE 137 IV 57 E. 4.3.1
+S. 58), wobei der abstrakt mögliche Höchstbetrag CHF 10'000.-
+beträgt (Art. 333 Abs. 1 StGB in Verbindung mit Art. 106
+Abs. 1 StGB). Das Gericht bemisst die Busse (sowie die Ersatzstrafe bei
+schuldhaf­ter Nichtbezahlung) je nach den Verhältnisse des Täters so, dass
+dieser die Strafe erleidet, die seinem Verschulden angemessen ist
+(Art. 106 Abs. 3 StGB).
+1.2
+Bei einer
+Hausdurchsuchung am 6. März 2016 am damaligen Wohndo­mizil des
+Beschuldigten in Glarus Nord stiess die Polizei auf zahlreiche
+Soft-Air-Waffen im Eigentum des Beschuldigten (Ordner 2, Register 4,
+act. 4/1, act. 4/3 und act. 4/4). Unbestritten ist, dass der
+Beschuldigte für eine dieser Waffen keinen Kaufvertrag beibringen konnte
+(act. 1 S. 5 f. Bst. D.); damit verstiess er gegen das
+Waffengesetz im Sinne von Art. 34 Abs. 1 lit. d WG in
+Verbindung mit Art. 11 Abs. 1 WG, ist nämlich diesen Bestimmungen
+zufolge beim Erwerb einer Waffe ein schriftlicher Vertrag abzuschliessen und
+hat jede Ver­tragspartei den Vertrag mindestens zehn Jahre aufzubewahren.
+Die Vorinstanz sanktionierte
+diese Übertretung des Waffengesetzes mit einer Busse von CHF 300.- (act. 45
+S. 35 Dispositiv-Ziff. 5). Die Staatsanwaltschaft beantragt in
+ihrer Anschlussberufung eine Erhöhung dieser Busse auf CHF 500.-
+(act. 80 S. 3
+b
+).
+Das Verschulden des Beschuldigten
+ist in diesem Anklagepunkt als geringfügig ein­zustufen. Insofern ist die
+erstinstanzlich verhängte Busse ihrer Höhe nach dem Ver­schulden angemessen.
+Der erwerblose Beschuldigte ist finanziell nicht auf Rosen gebettet und
+trifft ihn daher eine Busse von CHF 300.- merklich. Kommt hinzu, dass
+beim hier praxisgemäss anwendbaren Umwandlungsbetrag (CHF 100.- = 1 Tag
+Haft) der Beschuldigte bei schuldhafter Nichtbezahlung der Busse eine
+Ersatzfrei­heitsstrafe von immerhin drei Tagen zu verbüssen hätte; bei einer
+höheren Busse würde sich demzufolge auch die entsprechende Ersatzfreiheitsstrafe
+erhöhen, was angesichts der geringen Tatschwere nicht mehr schuldangemessen
+wäre. Die Staatsanwaltschaft legte anlässlich der Berufungsverhandlung nicht
+näher dar, inwiefern der Vorinstanz bei der Bemessung der Busse eine
+Rechtsverletzung unterlaufen sein soll; sie führte lediglich aus, dass der
+Beschuldigte als Waffen­samm­ler die Gesetzeslage genau gekannt habe
+(act. 80 S. 51 unten und S. 52 oben), womit die
+Staatsanwaltschaft implizit auf ein höheres Verschulden zu schliessen
+scheint. Dem lässt sich aber entgegenhalten, dass beim Beschuldigten
+insgesamt 17 Soft-Air-Waffen vorgefunden wurden und er für 16 dieser
+Waffen einen Vertrag vorweisen konnte (Ordner 2, Register 4, act. 4/1
+und act. 4/4); dass ein Vertrag fehlte, ist hier möglicherweise auf eine
+Schlampigkeit zurückzuführen (siehe da­zu a.a.O., act. 4/2 S. 4
+Ziff. 19) und ist das darin liegende Verschulden mit einer Busse von
+CHF 300.- gebührend sanktioniert.
+1.3
+Damit ist die
+erstinstanzlich ausgefällte Busse in der Höhe von CHF 300.- (umwandelbar
+in eine Ersatzfreiheitsstrafe von 3 Tagen bei schuldhafter Nichtbe­zahlung)
+zu bestätigen und ist insoweit die Anschlussberufung der Staatsanwalt­schaft
+abzuweisen.
+2.
+Bemessung
+der Freiheitsstrafe für die versuchten sexuellen Handlungen mit einem Kind
+und die mehrfache qualifizierte Pornografie
+2.1
+Ausgangslage
+Die Vorinstanz sanktionierte die
+vom Beschuldigten begangenen Sexualdelikte (versuchte sexuelle Handlungen mit
+einem Kind sowie mehrfache qualifizierte Por­nografie) mit einer
+Freiheitsstrafe von 17 Monaten (act. 45 S. 34 f.
+Dispositiv-Ziff. 3). Der Rechtsvertreter des Beschuldigte plädierte an
+der Berufungsverhandlung für den Fall einer Verurteilung auch wegen
+versuchter sexueller Handlungen mit einem Kind für eine Geldstrafe von 120
+Tagessätzen, eventualiter eine Freiheitsstrafe von vier Monaten (act. 80
+S. 3
+a
+Antrag Ziff. 4), derweil die Staatsanwaltschaft in
+ihrer Anschlussberufung eine Freiheitsstrafe von 24 Monaten fordert
+(act. 80 S. 3
+b
+Antrag Ziff. 2).
+Vorliegend hat nicht nur der
+Beschuldigte, sondern ebenso die Staatsanwaltschaft den vorinstanzlichen
+Entscheid im Strafpunkt angefochten. Demzufolge kann das Obergericht das
+Strafmass gegebenenfalls höher als die Vorinstanz festlegen (Art. 391
+Abs. 2 StPO) und ist zudem nicht an die Anträge der Parteien gebunden
+(Art. 391 Abs. 1 lit. b StPO).
+2.2
+Summarische
+Gewichtung der verübten Sexualdelikte
+Der Tatbestand der sexuellen
+Handlungen mit einem Kind im Sinne von Art. 187 Ziff. 1 StGB und
+der Tatbestand der (hier mehrfach begangenen) qualifizierten Por­nografie im
+Sinne von Art. 197 Abs. 4 Satz 2 StGB sind beide mit
+Freiheitsstrafe bis zu 5 Jahre bedroht (die bei beiden Tatbeständen
+alternativ angedrohte Geldstrafe steht vorliegend aufgrund des konkreten
+Tatverschuldens bzw. der desolaten finan­ziellen Lage des Beschuldigten [dazu
+nachfolgend mehr] ausser Frage und ist daher von vornherein auszublenden).
+Bei mehreren Delikten mit gleichartigen Strafen hat der Richter den Täter zur
+Strafe der schwersten Tat zu verurteilen und diese anschliessend angemessen
+zu erhöhen (Art. 49 Abs. 1 Satz 1 StGB). Die vom Beschuldigten
+versuchte sexuelle Handlung mit einem Kind wiegt im hier zu beurtei­lenden
+Fall wesentlich schwerer als die verübte Pornografie. Es ist daher bei der
+nachfolgenden Strafzumessung die versuchte sexuelle Handlung mit einem Kind
+als Hauptdelikt zu behandeln, während die mehrfache Pornografie als
+Nebendelikte gel­ten.
+2.3
+Erläuterung zum
+methodischen Vorgehen bei der Strafzumessung
+Nachfolgend ist als erstes die
+hypothetische Freiheitsstrafe für die versuchten sexu­ellen Handlungen mit
+einem Kind (Hauptdelikt) zu bestimmen; neben den konkreten Tatkomponenten
+sind bereits an dieser Stelle auch diejenigen Täterkomponenten zu
+berücksichtigen, welche nur bei diesem Hauptdelikt relevant sind. Im zweiten
+Schritt ist auf die genau gleiche Weise die hypothetische Strafe in Bezug auf
+die mehrfache Pornografie (Nebendelikte) festzulegen. Mit anderen Worten
+ausgedrückt, sind für Haupt- und Nebendelikte je einzeln die hypothetischen
+Strafen festzustellen. Hierauf sind – dritter Schritt – in Anwendung von
+Art. 49 Abs. 1 Satz 1 StGB die für Haupt- und Nebendelikte
+ermittelten hypothetischen Strafen zu einer provisorischen Gesamtstrafe
+zusammenzuführen. Aufgabe des letzten Schrittes ist es, die für Haupt-
+und
+Nebendelikt gemeinsamen Täterkomponenten zu würdigen und die endgültige
+Gesamtstrafe festzulegen (siehe dazu kurzgefasst Urteil BGer 6B_466/2013 vom
+25. Juli 2013 E. 2.3.2).
+2.4
+Strafzumessung für
+das Hauptdelikt
+2.4.1
+Sexuelle Handlungen
+mit einem Kind unter 16 Jahren sind mit einer Freiheits­strafe von bis
+zu fünf Jahren bedroht (Art. 187 Abs. 1 StGB). Innerhalb dieses Rah­mens
+ist die Strafe
+nach dem Ver­schulden des Täters zu bemessen;
+hierbei sind die Beweg­gründe, das Vor­leben und die persön­lichen Ver­hältnisse
+sowie die Wirkung der Strafe auf das Leben des Täters zu berück­sichtigen. D
+ie Bewertung des Ver­schuldens richtet sich
+nach der Schwere der Ver­letzung oder Gefährdung des betroffenen Rechtsguts,
+nach der Verwerflichkeit des Handelns, den Beweggründen und Zielen des Täters
+sowie danach, wie weit der Täter nach den inneren und äusseren Umständen in
+der Lage war, die Gefährdung oder Verletzung zu vermei­den
+(Art. 47 Abs. 1 und Abs. 2 StGB).
+Beim hier zu beurteilenden Hauptdelikt handelt es sich um
+einen untauglichen Ver­such; denn der Beschuldigte verabredete sich im Chat
+entgegen seiner Vorstellung nicht mit einem realen 13-jährigen Mädchen, denn
+hinter "XY.______" verbargen sich polizeiliche Ermittler. Dem
+Beschuldigten war es daher objektiv nicht möglich, mit "XY.______"
+die von ihm gewollten – und mit "XY.______" im Chat vereinbarten –
+sexuellen Handlungen vorzunehmen. Darauf ist weiter unten zurückzukommen.
+2.4.2
+Die
+Strafnorm von Art. 187 StGB mit dem Randtitel "Gefährdung der
+Entwick­lung von Minderjährigen. Sexuelle Handlungen mit Kindern"
+schützt als Rechtsgut die ungestörte sexuelle, aber auch die seelische
+Entwicklung von Minderjährigen, die das sexuelle Schutzalter, nämlich 16 Jahre,
+noch nicht erreicht haben. Der Stel­lenwert dieses Rechtsguts wiegt sehr hoch
+(BGE 143 IV 9 E. 3.1 S. 18;
+OFK/StGB-
+Weder
+, StGB 187 N 7b).
+Der Beschuldigte war entschlossen, sich von
+"XY.______" oral befriedigen zu lassen; zudem beabsichtigte er, sich
+an "XY.______" selber ebenfalls oral zu vergehen. Auch wenn der
+Beschuldigte (immerhin) nicht vorhatte, "XY.______" vaginal zu
+penetrieren, so wiegen die von ihm beabsichtigten Handlungen nur unwesentlich
+weniger schwer. Das Einführen des männlichen Glieds eines Erwachsenen in den
+Mund eines erst 13-jährigen Mädchens vermag dieses tiefgreifend zu
+traumatisieren und in seiner sexuellen Entwicklung nachhaltig zu
+beeinträchtigen. Traumatische Erleb­nisse dieser Art begleiten das Opfer
+teilweise sogar ihr ganzes Leben lang und haben häufig auch stark negativen
+Einfluss auf deren spätere Paar-Beziehungsfähigkeit. Hätte daher der
+Beschuldigte vorliegend den von ihm ange­strebten sexuellen Übergriff auf
+"XY.______" ausgeführt, so wäre die Tatschwere eines entsprechend
+vollendeten Delikts gemessen am Unrechtsgehalt von Art. 187 Ziff. 1
+StGB im mittleren bis oberen Bereich anzusiedeln; es liegt mit anderen Worten
+ein mittlerer bis schwerer Fall von sexuellen Handlungen mit einem Kind vor
+(siehe zur Quali­fizierung der Tatschwere bei einem versuchten Delikt:
+Mathys
+, Leitfaden Strafzu­messung, 2.
+Aufl. 2019, N 119 ff.). Rein von der objekti­ven Tatschwere her
+gesehen, die sich am Unrechtsgehalt des hypothetisch vollendeten Delikts
+orientiert, sind daher die hier in Frage stehenden (versuchten) sexuellen
+Handlungen mit einem Kind innerhalb des verfügbaren Strafrahmens (siehe dazu
+E. 2.4.1) bei 2½ bis 3½ Jahre Freiheitsstrafe zu verorten. Dieses
+Strafmass bildet die Ausgangsbasis für die weiteren Schritte der Strafzumessung.
+2.4.3
+Als nächstes ist zu beurteilen, inwieweit die
+eben festgestellte objektive Tat­schwere dem Beschuldigten vorzuwerfen, d.h.
+ihm konkret anzurechnen ist; hierin angesprochen ist die subjektive
+Tatschwere bzw. das subjektive Verschulden.
+2.4.3.1
+Zentrales Element bei der Beurteilung der
+subjektiven Tatschwere und damit der Vorwerfbarkeit einer Tat sind die
+Beweggründe und Ziele des Täters (Art. 47 Abs. 2 StGB). Vorliegend
+handelte der Beschuldigte bei seiner (versuchten) sexuel­len Straftat aus
+einem äusserst verwerflichen Beweggrund, alleine darauf fixiert, seine
+sexuellen Gelüste zu befriedigen. Das hier erkennbare niederträchtige Tatmo­tiv
+seitens des Täters ist indes beim Tatbestand der sexuellen Handlungen mit Kin­dern
+sozusagen deliktsimmanent. Eine derartige sexuelle Untat lässt sich anders
+überhaupt nicht denken. Demzufolge ist das einem solchen Tun anhaftende
+verwerfliche Tatmotiv bereits bei der objektiven Tatschwere mitgedacht und
+darin berücksichtigt; es wirkt sich deshalb bei der Bemessung des subjektiven
+Verschul­dens nicht zusätzlich straferhöhend aus. Es sind sodann keine ander­weitigen
+Umstände ersichtlich, welche sich straferhöhend auf das in der objektiven Tat­schwere
+abgebildete Ausgangsverschulden auswirken würden.
+2.4.3.2
+Die Schuldfähigkeit des Täters wirkt sich
+unmittelbar auf dessen Verschul­den aus; ist der Täter in seiner
+Schuldfähigkeit herabgesetzt, trifft ihn ein geringerer Schuldvorwurf und er
+ist mit einer demgemäss geringeren Strafe zu belegen (Art. 19
+Abs. 2 StGB; siehe dazu sowie auch zum Folgenden:
+Mathys
+, a.a.O., N 167 ff.).
+Der Beschuldigte wurde in der Untersuchung psychiatrisch begutachtet (Ordner
+3, Register 10, act. 10/5). Der Gutachter gelangte dabei zur
+schlüssig begründeten und im vorinstanzlichen sowie im Berufungsverfahren
+unbestritten gebliebenen Erkenntnis, dass der Beschuldigte sich der
+Unrechtmässigkeit seines Tuns durch­aus bewusst gewesen sei; er leide an
+keiner Störung, welche die Einsichtsfähigkeit in das Unrecht seines Tuns in
+irgendeiner Weise eingeschränkt hätte. Ebenso sei die Fähigkeit, gemäss
+dieser Einsicht zu handeln, grundsätzlich auch vorhanden gewesen. Allerdings
+sei es dem Beschuldigten aufgrund seines starken Verlangens, seine sexuellen
+Wünsche umzusetzen, nur eingeschränkt möglich gewesen, gemäss dieser Einsicht
+zu handeln (hier damit konkret gemeint: seine sexuellen Begierden zu
+unterdrücken und sich
+nicht
+mit einem minderjährigen Kind einzulas­sen).
+Insgesamt gesehen, sei die Steuerungsfähigkeit aus gutachterlicher Sicht nur
+leichtgradig vermindert gewesen (a.a.O., S. 46 Ziff. 4.3 und
+S. 52 Ziff. 5.2.2). Bei dieser Diagnose ist in rechtlicher Hinsicht
+von einer nur geringfügigen Verminderung der Schuldfähigkeit auszugehen.
+Diese nur in leichtem Mass eingeschränkte Schuldfähigkeit wirkt sich
+vorliegend lediglich minimal reduzierend auf das subjekti­ve Verschulden des
+Beschuldigten aus. Gemessen an dem objektiv erheblichen bis schweren
+Verschulden (siehe davor E. 2.4.2) verbleibt unter Berücksichtigung der
+leichtgradig verminderten Schuldfähigkeit subjektiv noch immer ein
+erhebliches bis nahezu schweres Verschulden (siehe zur Berücksichtigung der
+eingeschränkten Schuldfähigkeit als
+verschuldens
+mindernden Umstand BGE
+136 IV 55 E. 5.5. S. 59 f.).
+2.4.3.3
+Der Beschuldigte konnte die von ihm
+beabsichtigten sexuellen Handlungen mit "XY.______" nicht
+vornehmen, da "XY.______" nur ein fiktives Mädchen war. Bei seinem
+Tatvorgehen handelte es sich demnach um einen untauglichen Versuch im Sinne
+von Art. 22 Abs. 1 StGB. Dieser Umstand schmälert allerdings das
+Verschulden des Beschuldigten keineswegs. Er unternahm nämlich alles, was
+nach seiner Vorstel­lung notwendig war, um den Deliktserfolg [sexuelle
+Handlungen mit einem Mäd­chen] herbeizuführen; dass sein Vorhaben scheiterte,
+war rein nur auf äussere Um­stände zurückzuführen, die ihm nicht bekannt
+waren (siehe dazu
+Mathys
+,
+a.a.O., N 185). Im allgemeinen Teil des StGB ist ein Schuldstrafrecht
+kodifiziert (Urteil BGer 6B_627/2018 vom 22. März 2019 E. 1.3.4); es ist
+daher das Verschulden des Täters beim untauglichen Versuch gestützt auf
+Art. 47 StGB danach zu bemessen, wel­chen Tatplan er konkret umsetzen
+wollte. Anders verhält es sich nur, wo das Täter­verhalten objektiv kein
+ernsthaftes Stör- und Gefährdungspotenzial aufweist und somit nicht einmal
+eine objektiv minimale Gefährlichkeit (Risiko) besteht (BGE 140 IV 150
+E. 3.6 S. 153). Vorliegend aber stellt das beabsichtigte Tatvorhaben des
+Beschuldigten einen ernstlichen Angriff auf die rechtlich geschützte Ordnung
+dar; der Beschuldigte war inständig darauf fixiert, eine Sexualstraftat mit
+grossem Unrechtsgehalt zu begehen. Von daher wirkt sich, bezogen nur auf die
+Frage des subjektiven Verschuldens, der untaugli­che Versuch nicht entlastend
+aus (siehe aber nachstehend E. 2.4.4, wonach gleichwohl eine
+Strafminderung zu erfolgen hat).
+2.4.3.4
+Aus Sicht der Verteidigung liegt ein
+Strafminderungsgrund darin, dass der Beschuldigte aufgrund einer "nicht
+realen" verdeckten Fahndung überführt worden sei (act. 80
+S. 41). Insoweit der Verteidiger damit sinngemäss argumentiert, der Chat
+des Beschuldigten mit "XY.______" sei realitätsfremd verlaufen,
+kann ihm nicht gefolgt werden; dies wurde bereits vorstehend ausführlich
+dargelegt (siehe oben E. III. 3.2). Der Umstand, dass eine (beabsichtigte)
+Straftat mit Hilfe einer wie hier korrekt abgelaufenen verdeckten Fahndung
+ans Licht gelangt, indiziert grundsätzlich kein geringeres Verschulden des
+Beschuldigten (siehe dazu
+Mathys
+,
+a.a.O., N 260). Im Chat zwischen dem Beschuldigten und
+"XY.______" war es ausschliesslich der Beschuldigte, der das
+Gespräch konstant auf das Sexuelle leitete und "XY.______"
+inbrünstig bat, sich mit ihm zu treffen und ihn oral zu befriedigen;
+"XY.______" verhielt sich während des ganzen Chat-Verlaufs
+passiv-zurückhaltend und hielt die Kommunika­tion einzig nur innerhalb der
+vom Beschuldigten vorgegebenen Thematik aufrecht. Eine minime
+Verschuldensverminderung ist lediglich darin zu erkennen, dass
+"XY.______" zum Beschuldigten mit einer unverfänglichen SMS wieder
+Kontakt aufnahm, als dieser sie auf WhatsApp kurzzeitig gesperrt hatte, weil
+er über ihr zögerliches Verhalten entnervt war (der Beschuldigte wollte von
+"XY.______" ultimativ wissen ["Nur ja oder neiiii"], ob
+sie ihn oral befriedigen würde) (Ordner 3, Register 6, act. 6/13,
+S. 7 f.).
+2.4.3.5
+Straferhöhend fällt ins Gewicht, dass der
+Beschuldigte die hier angeklagten sexuellen Handlungen mit einem Kind zu
+einem Zeitpunkt [16. August 2017] beabsichtigte, als gegen ihn bereits
+Ermittlungen wegen mehrfacher qualifi­zierter Pornografie am Laufen waren.
+Diesbezüglich wurde der Beschuldigte am 20. Dezember 2016 von der
+Polizei befragt, wobei damals der Beschuldigte zugleich auch mit seinen
+zahlreichen sexualbezogenen Chatunterhaltungen mit möglicher­weise
+minderjährigen Mädchen konfrontiert wurde (Ordner 1, Register 1, act.1/2
+und Register 2, act. 2/2). Anfang Juni 2017 zeigte die
+Staatsanwaltschaft dem Beschul­digten an, dass gegen ihn mehrere Anzeigen
+eingegangen seien, worauf der Beschuldigte in Kenntnis des
+Untersuchungsgegenstandes (sexuelle Handlungen mit Kindern, Pornografie etc.)
+seinen nunmehrigen Rechtsvertreter mit seiner Ver­teidigung betraute (siehe
+dazu Ordner 4, Register 13, act. 13/2-4). Wenn daher der
+Beschuldigte nur kurze Zeit später im August 2017 erneut einschlägig delinquierte
+(Versuch), so offenbart sich darin eine offenkundige Uneinsichtigkeit und
+Unverfro­renheit.
+2.4.4
+Fazit betreffend die
+(hypothetische) Strafe für die versuchten sexuellen
+Handlungen mit einem
+Kind
+In den vorstehenden Abschnitten sind alle im hier zu
+beurteilenden Fall relevanten objektiven und subjektiven
+Verschuldenskomponenten (E. 2.4.2 und E. 2.4.3.1 – 2.4.3.4) sowie
+eine spezifische Täterkomponente (E. 2.4.3.5) in Bezug auf die dem
+Beschuldigten angelasteten versuchten sexuellen Handlung mit einem Kind darge­legt.
+Demnach wird vorliegend das objektiv mittel bis schwer wiegende Tatverschul­den
+(oben E. 2.4.2) auf subjektiver Seite durch die beiden (geringfügigen)
+Verschul­densminderungsgründe (oben E. 2.4.3.2 [leichtgradig verminderte
+Schuldfähigkeit] und E. 2.4.3.4 [verdeckte Fahndung]) herabgesetzt; im
+Gegenzug aber wird diese Herabsetzung aufgrund der Delinquenz während
+laufender Strafuntersuchung (soeben E. 2.4.3.5) nahezu wieder
+aufgewogen. Daraus folgt, dass dem Beschuldig­ten insgesamt ein mittleres ‑
+d.h. erhebliches ‑ Verschulden anzulasten ist. Die die­sem Verschulden
+entsprechende Strafe ist auf 30 Monate Freiheitsstrafe zu bemes­sen.
+Weil der Beschuldigte die beabsichtigten sexuellen
+Handlungen an der nur fiktiven "XY.______" (was er aber nicht
+wusste) schlussendlich nicht ausüben konnte und das geschützte Rechtsgut
+letzten Endes unverletzt blieb, ist nach allgemeinem Ver­ständnis das
+Strafbedürfnis per se geringer. Es ist deshalb die an sich schuldange­messene
+Strafe aufgrund des ausgebliebenen Taterfolgs zu reduzieren. Die Reduk­tion
+hängt dabei aber doch immerhin wesentlich davon ab, wie naheliegend der
+Erfolgseintritt war (siehe dazu
+Mathys
+,
+a.a.O., N 301). Vorliegend wäre es unwei­gerlich zu sexuellen Handlungen
+mit einem Kind gekommen, wenn anstelle der fiktiven "XY.______" ein
+reales Mädchen am Bahnhof in Niederurnen auf den Beschul­digten gewartet
+hätte. Insofern ist hier mit einer Reduktion der Strafe um sechs Monate dem
+Umstand, dass es sich "nur" um einen untauglichen Ver­such
+gehandelt hat, zureichend Rechnung getragen.
+All dies führt mit Bezug auf die versuchten sexuellen
+Handlungen mit einem Kind (Hauptdelikt) zu einer Einsatzstrafe von 24 Monaten
+Freiheitsstrafe. Es handelt sich hierbei um ein erstes Zwischenergebnis auf
+dem Entscheidungsweg zur endgültigen Strafe.
+2.5
+Strafzumessung für
+die mehrfache Pornografie (Nebendelikte)
+2.5.1
+Pornografische
+Filmaufnahme (einer Minderjährigen) und deren Weiterleitung
+2.5.1.1
+Im Sommer 2015 filmte der Beschuldigte mit
+seinem Mobiltelefon im Einver­ständnis mit seiner damals 17-jährigen und
+damit noch minderjährigen (Art. 14 ZGB) Freundin Z.______ (geb.
+2. Juli 1998), wie diese ihn oral befriedigte. Am 26. Juli 2015
+sendete der Beschuldigte diese Aufnahme über WhatsApp an zwei unbe­kann­te
+Personen (act. 1 S. 4 Ziff. 2; siehe sodann Ordner 1,
+Register 2, act. 2/1 - act. 2/4). Dieser Sachverhalt war
+bereit im vorinstanzlichen Verfahren unbestrit­ten. Ebenso blieb die
+rechtliche Würdigung dieser Handlungen als (qualifizierte) Pornografie im
+Sinne von Art. 197 Abs. 4 Satz 2 StGB zu Recht unangefochten.
+Genau besehen, liegen bei diesem Sachverhalt zwei
+Tathandlungen vor, begangen in Realkonkurrenz: zum einen die Filmaufnahme an
+sich ("Herstellung" einer porno­grafischen Vorführung mit einer
+Minderjährigen), zum anderen das spätere Versen­den ("in Verkehr
+bringen") dieser Aufnahme an Dritte (siehe zu den unterschiedli­chen
+strafbaren Handlungsformen Art. 197 Abs. 4 Satz 1 StGB). Bei
+der nachfol­genden Strafzumessung werden die beiden Taten allerdings als
+Einheit behandelt.
+2.5.1.2
+Qualifizierte Pornografie wird mit
+Freiheitsstrafe bis zu fünf Jahren geahndet (Art. 197 Abs. 4
+Satz 2 StGB). Die eben zitierte Bestimmung bezweckt vorweg den Schutz
+der ungestörten Entwicklung Jugendlicher, mittelbar auch der Bewahrung
+potenzieller "Darsteller" vor sexueller Ausbeutung (siehe OFK/StGB-
+Weder
+, StGB 197 N 12).
+Zur Bewertung der Schwere der hier geschehenen Verletzung
+des strafrechtlich geschützten Rechtsguts (Art. 47 Abs. 2 StGB) ist
+Folgendes festzuhalten: Der Um­stand, dass der Beschuldigte seine damals noch
+minderjährige Freundin bei der Vornahme einer sexuellen Handlung gefilmt hat,
+wiegt keineswegs geringfü­gig; andererseits erreicht er noch nicht die Stufe
+"erheblich", denn immerhin war die Freundin bereits 17 Jahre alt
+und mit der Aufnahme ausdrücklich einverstanden (Ordner 1,
+Register 2, act. 2/7 S. 4 Ziff. 14 ff.). Graduell
+klar erschwerend wirkt sich allerdings das Versenden der Filmaufnahmen an
+Drittpersonen aus. Ent­gegen der Abmachung mit seiner Freundin (siehe dazu
+Ordner 1, Register 2, act. 2/7 S. 3 Ziff. 12) hatte
+der Beschuldigte diese Aufnahme auf seinem Handy nicht wieder gelöscht,
+sondern gab das Bildmaterial unkontrolliert frei. Auf diese Weise stellte er
+seine Freundin als Sexobjekt bloss, was einer sexuellen Ausbeu­tung
+gleichkommt. Insgesamt ist daher die Tatschwere der Handlungen des
+Beschuldigten (Filmaufnahme und dessen Verbreitung) im unteren Bereich einzu­ordnen;
+dem entspricht ein Strafmass von 6 Monaten bis zu einem Jahr Freiheits­strafe.
+2.5.1.3
+Unter dem Aspekt des Handlungsmotivs des
+Beschuldigten (Beweggründe und Ziele; Art. 47 Abs. 2 StGB) ist dem
+Beschuldigten die soeben festgestellte ob­jektive Tatschwere in ihrem ganzen
+Umfang anzulasten; denn seinem Handeln lag ein boshaftes und ebenso
+gewissenloses Motiv zugrunde. Insbesondere mit dem Weiterversenden der
+Filmaufnahme hat er die sexuelle Intimität seiner minderjähri­gen Freundin
+wissentlich und willentlich aufs Schwerste verletzt, und zwar aus offen­sichtlicher
+Geringschätzung und/oder deswegen, weil er damit in sexuell ähnlich ab­norm
+orientieren Kreisen grosstun wollte.
+2.5.1.4
+Leicht
+verschuldensvermindernd ist die leichtgradig eingeschränkte Schuld­fähigkeit
+des Beschuldigten zu berücksichtigen (siehe dazu bereits oben
+E. 2.4.3.2).
+2.5.1.5
+Fazit betreffend die (hypothetische) Strafe
+für die qualifizierte Pornografie (Herstellung und Verbreitung eines Films)
+In Würdigung der soeben aufgezeigten
+Verschuldenskomponenten ist das Tat­verschulden im Zusammenhang mit dem
+Filmen einer sexuellen Handlung mit einer Minderjährigen und dem
+anschliessenden Verbreiten dieses Films als nicht mehr leicht zu
+qualifizieren. Diesem Verschuldensgrad entsprechend erscheint eine Frei­heitsstrafe
+von neun Monaten als angemessen.
+2.5.2
+Besitz pornografischer Aufnahmen von einer
+Minderjährigen
+2.5.2.1
+Am 24. Juli 2015 animierte der Beschuldigte
+eine 17-jährige Jugendliche dazu, ihm per Mobiltelefon Fotos davon zu
+schicken, wie sie sich selber befriedigt. Auf dem einen der zwei erhaltenen
+Fotos ist der Unterleib von der auf dem Bett liegenden Jugendlichen
+ersichtlich, wobei diese eine Unterhose trägt und die Hand unter dieser an
+der Vagina hat. Auf dem zweiten Foto ist die Vagina der Jugendlichen
+ersichtlich (act. 1 S. 4 Ziff. 2; sie­he sodann Ordner 1,
+Register 1, act. 1/1 und act. 1/4 letztes Blatt). Dieser
+Sachverhalt war im vorliegenden Verfahren von Anfang an zugestanden; die von
+der Vorinstanz vorgenommene rechtliche Würdigung des Vorgangs als
+(qualifizierte) Pornografie im Sinne von Art. 197 Abs. 4
+Satz 2 StGB ist zutreffend und unbestritten.
+2.5.2.2
+Die objektive Tatschwere dieses
+Anklagepunktes ist als noch geringfügig zu bezeichnen, zumal das Opfer
+immerhin bereits 17 Jahre alt war. Das dieser Qualifi­zierung adäquate
+Strafmass ist im Bereich einer Geldstrafe (möglich bis 180 Tages­sätze;
+siehe Art. 197 Abs.
+4 Satz 2 in Verbindung mit Art. 34
+Abs. 1 StGB
+) zu verorten, konkret bei ungefähr 90 Tagessätzen.
+Eine Geldstrafe steht vorliegend jedoch ausser Frage, kann nämlich eine solch
+angesichts der offensichtlichen Mittellosigkeit des Beschuldigten (dazu
+weiter unten mehr) aller Voraussicht nach nicht vollzogen werden.
+Infolgedessen ist die (virtuelle) Geldstrafe in Anwendung von Art. 41 Abs.
+1 lit. b StGB in eine Freiheitsstrafe von drei Monaten
+umzudenken.
+2
+.5.2.3
+Was den
+Beweggrund des Beschuldigten anbetrifft (Art. 47 Abs. 2 StGB), hat
+er sich den Unrechtsgehalt seines Tuns im eben festgestellten Umfang anrech­nen
+zu lassen. Es liegt auch hier eine rein egoistisch motivierte verwerfliche
+Miss­achtung des gebotenen Schutzes von Jugendlichen in sexuellen Belangen
+vor.
+2.5.2.4
+Leicht verschuldensvermindernd ist ebenso
+bei dieser Tathandlung die leichtgradig eingeschränkte Schuldfähigkeit des
+Beschuldigten zu berücksichtigen (siehe dazu bereits oben E. 2.4.3.2).
+2.5.2.5
+Fazit betreffend die (hypothetische) Strafe
+für die qualifizierte Pornografie (Besitz pornografischer Aufnahmen von einer
+Minderjährigen)
+Mit Blick auf die soeben dargelegten
+Verschuldenskomponenten ist das Tatver­schulden im Zusammenhang mit dem
+Besitz pornografischer Aufnahmen von einer Minderjährigen als geringfügig zu
+qualifizieren. Es erscheint dafür eine Freiheitsstra­fe von zweieinhalb
+Monaten als angemessen.
+2.6
+Festlegung der (provisorischen) Gesamtstrafe
+2.6.1
+Nachdem bis dahin für die verschiedenen
+Delikte die jeweiligen Einzelstrafen ermittelt wurden, sind diese jetzt zu
+einer Gesamtstrafe zusammenzuführen. Nach der gesetzlich vorgesehenen Methode
+(Art. 49 Abs. 1 Satz 1 StGB) ist bei der Bil­dung einer
+Gesamtstrafe von der Einsatzstrafe für das schwerste Delikt auszugehen und
+diese anschliessend im Rahmen einer Gesamtwürdigung angemessen zu erhöhen.
+Konkret bedeutet dies, dass die Einzelstrafen sich nicht eins zu eins in der
+Gesamtstrafe niederschlagen; erlaubt ist nicht eine Kumulation der
+Einzelstrafen, sondern es gilt das sogenannte Asperationsprinzip. Die ratio
+legis des Asperations­prinzips im Sinne von Art. 49 Abs. 1 StGB
+besagt, dass die verwirkten Einzelstrafen nicht einfach kumuliert werden
+dürfen; die Deliktsmehrheit wirkt sich nur unpro­portional straferhöhend aus.
+Auf keinen Fall darf die Gesamtstrafe die Summe der Ein­zelstrafen erreichen
+(BGE 144 IV 217 E. 3.5.2 S. 233; siehe auch
+Mathys
+, a.a.O., N 496). Vielmehr
+hat das Gericht die erforderliche Gesamtstrafzumessung unter spezieller
+Gewichtung von Zahl und Schwere der Einzeltaten und ihres Verhältnis­ses
+zueinander sowie unter Einbezug einer zusammenfassenden Würdigung der Person
+des Täters festzusetzen. Denn bei der Bemessung der Gesamtstrafe müs­sen die
+einzelnen Straftaten in einem selbständigen Schritt innerhalb des (allenfalls
+erweiterten; siehe dazu Art. 49 Abs.
+1 Satz2 StGB
+)
+Strafrahmens gesamthaft gewürdigt werden. Dabei sind namentlich das
+Verhältnis der einzelnen Taten unter­einander, ihr Zusammenhang, ihre
+grössere oder geringere Selbstständigkeit sowie die Gleichheit oder
+Verschiedenheit der verletzten Rechtsgüter und Begehenswei­sen zu
+berücksichtigen. Der Gesamtschuldbeitrag des einzelnen Delikts wird dabei
+geringer zu veranschlagen sein, wenn die Delikte zeitlich, sachlich und
+situativ in einem engen Zusammenhang stehen (Urteil BGer 6B_466/2013 vom 25.
+Juli 2013 E. 2.3.4; siehe auch
+Mathys
+,
+a.a.O., N 500).
+2.6.2
+Die vom Beschuldigten begangenen
+Pornografie-Taten (Nebendelikte) richten sich gegen das gleiche geschützte
+Rechtsgut wie das Hauptdelikt (versuchte sexuelle Handlungen mit einem Kind),
+nämlich die ungestörte sexuelle und seeli­sche Ent­wicklung von Kindern bzw.
+Jugendlichen. Das Haupt- und die Neben­delikte lassen sich insofern mit einer
+Klammer umschliessen. Die Neben­delikte fallen daher bei der
+Gesamtstrafenbildung weniger ins Gewicht, als wenn unterschiedliche
+Rechtsgüter betroffen wären.
+Vor diesem Hintergrund ist die provisorische Gesamtstrafe
+für das Haupt- und die Nebendelikte bei 30 Monaten Freiheits­strafe
+anzusetzen.
+2.7
+Würdigung der
+Täterkomponenten und Festlegung der endgültigen Gesamtstrafe
+Die soeben unter dem Gesichtspunkt des Verschuldens ermittelte
+(provisorische) Gesamtstrafe kann aufgrund von Umständen, die mit der
+Tatbegehung direkt nichts zu tun haben, herabgesetzt oder erhöht werden. Es
+geht um Faktoren, die beim Täter liegen und geeignet sind, ihn im Hinblick
+auf die Höhe der Strafe zu belasten oder zu entlasten: die sogenannten
+Täterkomponenten (siehe dazu
+Mathys
+,
+a.a.O., N 311). In den vorstehenden Erwägungen wurde bei der Strafzu­messung
+zum Hauptdelikt bereits eine Täterkomponente berücksichtigt (erneute
+Straffälligkeit trotz laufender Strafuntersuchung; oben E. V. 2.4.3.5).
+Diese eine Täterkomponente betraf einzig das Hauptdelikt, während die nachfol­gend
+zu erörternden Täterkomponenten für das Haupt- und die Nebendelikte Gültig­keit
+haben.
+2.7.1
+Vorstrafe
+Der Beschuldigte weist eine Vorstrafe vom 6. Mai 2015
+auf, als er vom Untersu­chungsamt Uznach wegen eines Vergehens gegen das
+Sprengstoffgesetz zu einer auf zwei Jahre Bewährung ausgesetzten bedingten
+Geldstrafe von 10 Tagessätzen sowie einer Busse von CHF 200.- verurteilt
+wurde (act. 25). Weist ein Täter Vorstra­fen auf, wird dies
+grundsätzlich straferhöhend gewichtet. Denn mit einer früheren Verurteilung
+wurde dem Beschuldigte die Verbindlichkeit der Rechtsnormen immer­hin bereits
+einmal deutlich vor Augen geführt (siehe dazu Urteil BGer 6B_325/2013 vom 13.
+Juni 2013 E. 3.2.3). Vorliegend kommt erschwerend hinzu, dass der
+Beschuldigte die Pornografie-Delikte im Sommer 2015 beging, kaum dass die
+Probe­zeit bezüglich der Vorstrafe zu laufen begonnen hatte. Darin zeigt sich
+eine klar zu missbilligende Gleichgültig­keit des Beschuldigten gegenüber der
+Rechts­ordnung. Andererseits ist zu Gunsten des Beschuldigten zu werten, dass
+die Vor­strafe im Verhältnis zu den neuen Delik­ten wenigstens nicht
+einschlägig war. Insgesamt wirkt sich vorliegend die Vorstrafe auf das Mass
+der Straferhöhung geringfügig aus, d.h. konkret in der Grössenord­nung von
+einem bis eineinhalb Monate Freiheitsstrafe.
+2.7.2
+Vorleben des Beschuldigten
+2.7.2.1
+Vom inzwischen 26-jährigen
+Beschuldigten ist in persönlicher Hinsicht bekannt, dass er die ersten
+Lebensjahre in prekären Verhältnissen aufwuchs (Mutter drogensüchtig; Vater
+gewalttätig). In der Folge kam er in eine kin­derreiche Pflegefamilie nach
+[…], wo er seine Primarschulzeit verbrachte; die drei letz­ten Schuljahre
+besuchte er aufgrund seiner Lernschwierigkei­ten eine Spezial­schule in […].
+Danach fand er Aufnahme in einer Institu­tion zur Berufsvorbereitung in […];
+dort lebte er drei Jahre in einer Wohngruppe und arbeitete intern im Logistikbereich.
+Von 2012 bis 2014 absolvierte er in einer Firma in […] eine Anlehre (Berufs­attest
+EBA) zum Logistiker. Gegen Ende dieser Ausbildung lernte er seine nach­malige
+Freundin kennen, die in Glarus Nord wohnte; daher zog er ebenfalls in den
+Kanton Glarus, wo er sich zunächst in Glarus Süd eine Wohnung nahm und ein
+Jahr später Untermieter in der Familienwohnung sei­ner Freundin wurde. Beruf­lich
+verdingte er sich mit gelegentlichen Teilzeitjobs und rutschte schliesslich
+in die Sozialhilfe ab. Im August 2017 – damals wenige Tage vor seiner
+Verhaftung – begann er in Glarus Nord eine Lehre als [...]. Als ein Jahr
+später das Lehrverhältnis aufgelöst wurde und davor auch schon seine
+Beziehung nach drei Jahren in die Brüche gegangen war, lebte er, abhängig von
+der Sozialhilfe, vorüber­gehend in einer Wohnung in Glarus Nord; seit 2019
+wohnt er an wechseln­den Orten im Raum [...]. Anlässlich der
+Berufungsverhandlung im Januar 2020 berichtete er, dass er bis dahin noch
+keine neue Arbeitsstelle gefunden habe und nach wie vor vom Sozialamt
+unterstützt werde. Zwar habe er in [...] eine Lehrstelle als [...] in Aus­sicht
+gehabt, doch habe es letzten Endes doch nicht geklappt. Seit kurzem habe er
+eine Freundin, mit der er in [...] zusammenlebe. Inzwischen treibe er regelmäs­sig
+Sport, habe seinen Alkoholkon­sum reduziert und versuche, "das Beste aus
+dem Tag zu machen"; zudem sei er leidenschaftlicher Fan des [...]
+Eishockey­clubs. Als seine Bezugspersonen bezeichnete er seine jetzige
+Freundin, seine Pfle­geeltern, die Mutter seiner früheren langjährigen
+Freundin sowie einen Kollegen aus gemeinsamer Schulzeit in […] (siehe zum
+Ganzen act. 80 S. 4-10 und act. 71 S. 8 ff. sowie
+Ordner
+3, Register 10, act. 10/5 S. 14-18; siehe ferner auch Ordner
+2, Register 3, act. 3/2 S. 24 Ziff. 171).
+2.7.2.2
+Es lässt sich nicht von der Hand weisen,
+dass der Beschuldigte jedenfalls in den ersten Lebensjahren keine einfache
+Kindheit hatte. Eine fehlende stabile sozial-familiäre Verwurzelung kann
+(muss aber nicht) nach allgemeiner Lebenserfahrung dazu beitragen, dass
+später gebotene Grenzen überschritten werden. Dem ist aller­dings sogleich
+beizufügen, dass damit das Verschulden des Beschuldigten hinsicht­lich der
+von ihm begangenen Taten keinesfalls bagatellisiert werden soll; die schwierige
+Kindheit des Beschuldigten erklärt aber immerhin bis zu einem gewissen Grad
+dessen offensichtlich eingeschränkte Empathie gegenüber Minderjährigen.
+Dieser Umstand ist in leichtem Masse strafmindernd zu würdigen, dies in der
+Grös­senordnung von hier höchstens drei Monaten Freiheitsstrafe.
+2.7.3
+Verletzung des Beschleunigungsgebotes
+Das vorliegende Strafverfahren hat insofern zu lange
+gedauert, als sich die Urteils­fällung am Obergericht über Gebühr verzögert
+hat, nachdem die Berufungsverhand­lung bereits im Januar 2020 stattfand
+(siehe dazu auch
+Mathys
+, a.a.O.,
+N 376). Damit ist das
+Beschleunigungsgebot (Art. 29
+Abs. 1 BV sowie Art. 5 Abs. 1 StPO) verletzt. Dieser Umstand
+wirkt sich strafmindernd aus; der durch die zu lange Ver­fahrensdauer bedingten
+Belastung des Beschuldigten ist hier mit einer Strafreduk­tion von vier
+Monaten Freiheitsstrafe Rechnung zu tragen.
+2.8
+Definitive
+Gesamtstrafe
+Als Ergebnis der vorstehenden Erwägungen zur
+Strafzumessung (E. 2.1. – 2.7.) ist die Gesamtstrafe für die vom
+Beschuldigten begangenen Sexualdelikte schliesslich auf 24 Monate
+Freiheitsstrafe festzusetzen. Diese Strafe ist höher als die von der
+Vorinstanz im angefochtenen Entscheid ausgesprochene Freiheitsstrafe von
+17 Monaten. Insofern ist daher die Berufung des Beschuldigten, worin
+dieser eine wesentlich tiefere Strafe beantragt hat, abzuweisen, während im
+Gegenzug die auf eine höhere Freiheitsstrafe ausgerichtete Anschlussberufung
+der Staatsanwaltschaft gutzuheissen ist.
+VI.
+Verweigerung des
+bedingten und teilbedingten Strafvollzugs
+1.
+Das Gericht schiebt den Vollzug einer Freiheitsstrafe von
+höchstens zwei Jahren in der Regel auf, wenn eine unbe­dingte Strafe nicht
+notwendig erscheint, um den Täter von der Begehung weiterer Verbrechen oder
+Vergehen abzuhalten (Art. 42 Abs. 1 StGB). Nach dem Wortlaut dieser
+Bestimmung wird eine günstige Prognose vermu­tet und ist daher im Regelfall
+die Strafe aufzuschieben; diese gesetzliche Vermutung ist indes widerlegbar
+(BGE 134 IV 1 E. 4.2.2 S.
+5 f.).
+Vorliegend erkannte die Vor­instanz im angefochtenen Entscheid auf eine
+unbedingte Strafe, wogegen der Ver­teidiger des Beschuldigten an der
+Berufungsverhandlung dafür plädierte, den Voll­zug der Strafe auf Bewährung
+auszusetzen, seien nämlich zwischenzeitlich keine gravierenden Vorfälle mehr
+passiert (act. 80 S. 42).
+2.
+Dem Beschuldigten kann in Übereinstimmung
+mit der Vorinstanz (siehe dazu act. 45 S. 32 E. 10.) keine
+günstige Prognose gestellt werden. Vorab fällt negativ ins Gewicht, dass er
+während des vorliegenden Strafverfahrens wegen er hier einge­klagten
+Sexualdelikte im August 2018 abermals straffällig geworden ist (siehe
+act. 25 S. 3 ff.). Damit zeigt er sich als offensichtlich
+unbelehrbar, was die Einhal­tung der Rechtsordnung anbelangt. Ganz abgesehen
+davon ist ein Aufschub der Strafe insbesondere auch deshalb undenk­bar, weil
+beim Beschuldigten eine gut­achterlich fundiert festgestellte "deutlich
+erhöh­te" Wahrscheinlichkeit besteht, dass er erneut Sexualstraftaten an
+Minderjährigen begehen würde (siehe dazu Ordner 3, Regis­ter 10,
+act. 10/5 S. 46 ff. Ziff. 4.4 sowie S. 53
+Ziff. 5.3). Ferner sind auch die Lebens­umstände des Beschuldigten alles
+andere als günstig. Seit längerem erwerbslos und kaum moti­viert, eine Stelle
+zu finden, sowie ohne klare Tages­struktur und effektiv tragfähige Bindungen
+(siehe dazu act. 80 S. 5 f.), ist der Beschuldigte höchst
+gefährdet für neuerliche Straftaten.
+3.
+Gemäss Art. 43 Abs. 1 StGB kann
+das Gericht den Vollzug einer Freiheitsstrafe von mindestens einem Jahr und
+höchstens drei Jahren teilweise aufschieben, wenn dies notwen­dig ist, um dem
+Verschulden des Täters genügend Rechnung zu tragen. Bezogen auf die
+zuallererst zu prüfende Frage, ob ein teilweiser Strafaufschub denkbar ist,
+bildet das Verschulden kein relevantes Kriterium; erst wenn ein teilwei­ser
+Strafaufschub möglich erscheint, ist dem Verschulden bei der Bemessung des
+vollziehbaren Teils der Strafe Rechnung zu tragen
+(BGE 134 IV 1 E. 5.4.3 S. 13 sowie E. 5.6
+S. 15). Indem vorliegend eine schuldangemessene Freiheitsstrafe von
+24 Monaten auszufällen ist, liegt diese Strafe im überschneidenden
+Anwendungsbe­reich von Art. 42/43 StGB. In diesem Bereich gilt
+Folgendes: Der vollständige Straf­aufschub nach Art. 42 StGB ist die Regel,
+die grundsätzlich vorgeht. Der teilbeding­te Vollzug bildet dazu die
+Ausnahme. Eine solche Ausnahme ist zu bejahen, wenn der Aufschub wenigstens
+eines Teils der Strafe aus spezialpräventiver Sicht erfor­dert, dass der
+andere Strafteil unbedingt ausgesprochen wird. Damit verhält es sich ähn­lich
+wie bei der Beurteilung der Bewährungsaussichten im Fall eines Widerrufs
+einer bedingt ausgesprochenen Freiheitsstrafe. Ergeben sich – insbesondere
+auf­grund früherer Verurteilungen – ganz erhebliche Bedenken an der
+Legalbewährung des Täters, die bei einer Gesamtwürdigung aller Umstände eine
+eigentliche Schlecht­prognose noch nicht zu begründen vermögen, so kann das
+Gericht an Stelle des vollständigen Strafaufschubs (Art. 42 StGB) den
+teilbedingten Vollzug gewähren. Auf diesem Wege kann es im Bereich höchst
+ungewisser Prognosen dem Dilemma "Alles oder Nichts" entgehen.
+Art. 43 StGB hat die Bedeutung, dass die Warnwirkung des Teilaufschubes
+ange­sichts des gleichzeitig angeordneten Teil­vollzuges für die Zukunft eine
+weitaus bes­sere Prognose erlaubt (BGE 134 IV 1 E. 5.5.2
+S. 14 f.).
+Vorliegend ist die Legalprognose beim
+Beschuldigten offensichtlich schlecht und eine Rückfallgefahr ganz erheblich
+(siehe vorstehende E. 2). Es ist daher selbst beim Vollzug nur eines
+Teils der Freiheitsstrafe (minimal wären dies vorliegend 6 Monate,
+maximal 12 Monate; siehe dazu Art. 43 Abs. 2 und Abs. 3 StGB) nicht
+zu erwarten, dass dadurch der Beschuldigte zureichend beeindruckt würde, dass
+er sich in Zukunft wohlverhielte.
+4.
+Demnach ist dem Beschuldigten der bedingte
+sowie auch der teilbedingte Strafvoll­zug zu verweigern.
+An die hier ausgesprochene Freiheitsstrafe
+von 24 Monaten sind in Anwendung von Art. 51 StGB insgesamt
+38 Tage erstandene Untersuchungshaft anzurechnen. Ent­gegen der
+Vorinstanz (siehe act. 45 S. 32 E. 10. und S. 34 f.
+Dispositiv-Ziff. 3) sind es nicht 39 Tage, wie die
+Staatsanwaltschaft in ihrer Berufung zu Recht geltend macht. Der Beschuldigte
+befand sich vom 16. August 2017 (18.05 Uhr) bis 22. September 2017
+(13.45 Uhr) in Haft (Ordner 4 Register 12 act. 12/3 und
+act. 12/40; dies entspricht 38 Tagen, zählt man den ersten und
+letzten Tag voll mit (wobei streng genommen hier nicht beide Tage zu zählen
+wären, da der Beschuldig­te am Tag der Verhaftung und an jenem der Entlassung
+zusammen weniger als 24 Stunden in Haft verbracht hat, sodass die
+anrechenbare Haftdauer sogar nur 37 Tage betrüge; siehe dazu
+OFK/StGB-
+Heimgartner
+, StGB 51 N 4).
+Im Unter­schied zur Vorinstanz aber nicht anzurechnen ist der lediglich
+zweistün­dige Polizeigewahrsam vom 6. März 2016 (
+Ordner 4,
+Register 12, act. 12/2).
+VII.
+Kein Widerruf der
+bedingten Strafe vom 6. Mai 2015
+1.
+Wie auch schon in den vorstehenden Erwägungen erwähnt,
+verurteilte das Unter­suchungsamt Uznach mit Strafbefehl vom 6. Mai 2015
+den Beschuldigten wegen eines Verstosses gegen das Sprengstoffgesetz zu einer
+bedingt vollziehbaren Geldstrafe von 10 Tagessätzen zu je CHF 20.- und
+legte die Probezeit auf zwei Jahre fest (act. 25). Die Staatsanwalt­schaft
+beantragte im vorinstanzlichen Verfahren, es sei die betreffende Geldstrafe
+für vollziehbar zu erklären (act. 1 S. 7 Ziff. 7). In ihren
+Begehren zur Anschlussberu­fung erneuerte sie diesen Antrag (act. 80
+S. 3
+b
+), nachdem die Vorinstanz sich damit nicht befasst hatte.
+2.
+2.1
+Begeht der Verurteilte während der Probezeit
+ein Verbrechen oder Vergehen und ist deshalb zu erwarten, dass er weitere
+Straftaten verüben wird, so widerruft das Gericht den bedingt gewährten
+Strafvollzug (Art. 46 Abs. 1 StGB). Der Widerruf darf allerdings
+nicht mehr angeordnet werden, wenn seit dem Ablauf der Probezeit drei Jahre
+vergangen sind (Art. 46 Abs. 5 StGB).
+2.2
+Vorliegend ist die zweijährige Probezeit gemäss
+Strafbefehl des Untersu­chungsamtes Uznach vom 6. Mai 2015 im Mai 2017
+abgelaufen. Ein Widerruf des bedingten Strafvollzugs wäre somit bis längstens
+Mai 2020 möglich gewesen. Er kann daher vom Obergericht zum jetzigen
+Zeitpunkt nicht mehr angeordnet werden; demzufolge ist die Anschlussberufung
+der Staatsanwaltschaft in diesem Punkt ab­zuweisen.
+Der Entscheid fiele im Übrigen nicht anders aus, selbst
+wenn die Vorinstanz in ihrem Urteil vom 16. Januar 2019 (act. 45) –
+und damit noch innerhalb der Dreijah­resfrist von Art. 46 Abs. 5
+StGB – über den Antrag der Staatsanwaltschaft auf Widerruf des bedingt gewährten
+Strafvollzugs
+befunden
+hätte; denn massgebend für die Einhaltung der
+Frist ist so oder anders das Urteil der Berufungsinstanz
+(BGE 143 IV 441 E. 2.2 S. 443). Einer analogen Anwendung
+von Art. 97 Abs. 3 StGB, wonach dann bereits ein erstinstanzlicher Entscheid
+den Fristenlauf gemäss Art. 46 Abs. 5 StGB hemmen würde, hat das
+Bundesgericht eine Absage erteilt (Urteil BGer 6B_733/2019 vom 15. November
+2019 E. 1.4).
+VIII.
+Anordnung einer
+stationären Massnahme
+1.
+Die Vorinstanz ordnete über den Beschuldigten
+eine stationäre therapeutische Mass­nahme für junge Erwachsene im Sinne von
+Art. 61 StGB an und schob gestützt auf Art. 57 Abs. 2 StGB den
+Vollzug der Freiheitsstrafe zu Gunsten dieser Massnahme auf (act. 45
+S. 35 Dispositiv-Ziff. 4).
+Der Beschuldigte stellt in seiner Berufung das Begehren,
+es sei (wenn überhaupt) lediglich eine ambulante Massnahme im Sinne von
+Art. 63 StGB anzuordnen und sei hierzu die Freiheitsstrafe aufzuschieben
+(act. 80 S. 3
+a
+Ziff. 4). Die Staatsanwalt­schaft
+ihrerseits fordert mit Anschlussberufung die Anordnung einer stationären the­rapeutischen
+Massnahme im Sinne von Art. 59 StGB (act. 80 S. 3
+b
+).
+2.
+Ist wie im vorliegenden Fall die Frage zu beurteilen, ob
+eine therapeutische Mass­nahme angezeigt ist und gegebenenfalls welche, so
+hat das Gericht zwingend auf eine sachverständige Begutachtung abzustellen
+(Art. 56 Abs. 3 StGB; BGE 144 IV 176 E. 4.2.1
+S. 179).
+Der Beschuldigte wurde im Herbst 2017 von Dr. med.
+G.______, Facharzt für Psychiatrie und Psychotherapie FMH mit Spezialisierung
+in forensischer Psychiatrie, psychiatrisch und testpsychologisch untersucht;
+das in der Folge von Dr. med. G.______ erstellte Gutachten datiert vom
+26. Oktober 2017 (Ordner 3, Register 10, act. 10/5; im
+Folgenden "Gutachten"). Im erstinstanzlichen Verfahren hat Dr. med.
+G.______ die von den Parteien zum Gutachten eingereichten Erläuterungsfragen
+(siehe dazu act. 13 und act. 14) mit Schreiben vom
+16. November 2018 einlässlich beantwortet (act. 19) und in der Folge die
+Ergebnisse der Begutachtung anlässlich der Hauptver­handlung am
+5. Dezember 2018 auch noch mündlich erörtert (act. 22 f.). Das
+Ober­gericht beauf­tragte im Berufungsverfahren Dr. med. G.______ mit einer
+ergänzenden Begutachtung des Beschuldigten (act. 64); am
+16. Oktober 2019 erstattete Dr. med. G.______ dem Obergericht
+den Bericht über diese zusätzliche Exploration (act. 71; im Folgenden
+"Ergänzungsgutachten"). Aufgrund seiner beruflichen Qualifikation
+ist Dr. med. G.______ zweifelsfrei prädestiniert, sich als sachverständige Person
+(Art. 183 Abs. 1 StPO) zu den relevanten Entscheidungskriterien bei
+der Anordnung einer therapeutischen Massnahme (Art. 56 Abs. 3
+lit. a-c StGB) kompetent zu äussern.
+3.
+3.1
+Dr. med. G.______ diagnostizierte bei der
+Begutachtung des Beschuldigten, dieser habe im Zeitpunkt seiner Straftaten an
+einer sogenannten unreifen Persönlichkeits­störung, ICD-10 F60.88, und einer
+einfachen Aktivitäts- und Aufmerksamkeitsstö­rung [ADHS], ICD-10 F90.0,
+gelitten, wobei die psychische Störung andaure (Gut­achten S. 52
+Ziff. 5.1.1 und S. 53 Ziff. 5.4.1). Im Ergänzungsgutachten
+hielt Dr. med. G.______ fest, dass sich beim Beschuldigten seit der
+Erstbegutachtung zusätzlich eine ausgeprägte Alkoholproblematik eingestellt
+habe und diesbezüglich die Diagnose einer Alkoholabhängigkeit, ICD-10
+F 10.2, indiziert sei. Was die unreife Persönlich­keitsstörung
+anbelange, so liesse sich differentialdiagnostisch auch eine kombinierte
+Persönlichkeitsstörung mit unreifen und dissozialen Zügen, ICD-10 F61.0, in
+Erwä­gung ziehen, wobei jedoch eine solche Unterscheidung in Bezug auf die
+therapeuti­schen Konsequenzen zweitrangig sei (Ergänzungsgutachten S. 31
+Ziff. 6.1.1 und 6.1.2).
+3.2
+3.2.1
+Der Rechtsvertreter des Beschuldigten
+kritisierte an der Berufungsverhand­lung – wie schon vor Vorinstanz –, dass
+die von Dr. med. G.______ vorgenommene Begutachtung sowohl in
+methodischer als auch inhaltlicher Hinsicht mangelhaft sei. Zum einen wären
+mehr Interviews mit dem Beschuldigten notwendig gewesen; auch habe der
+Gutachter keine Fremdberichte (Alltagsbeobachtungen) eingeholt, um die beim
+Beschuldigten im Vorderrund stehende ADHS-Problematik zureichend abzu­klären.
+Zum anderen seien die Gutachterberichte in der Sache widersprüchlich und
+nicht nachvollziehbar (act. 80 S. 21 ff. und S. 35
+a
+ff.).
+3.2.2
+Der Gutachter führte im Rahmen der ersten
+Begutachtung am 22. September 2017 ein dreistündiges Interview mit dem
+Beschuldigten durch (Gutachten, S. 3). Dass diese unmittelbare
+psychiatrische Exploration nicht ausreichend gewesen wäre, ist nicht
+ersichtlich. Der Gutachter hat in seiner Eingabe vom 16. November 2018
+klargemacht, dass in der Psychiatrie keine verbindlichen Vorgaben zur konkre­ten
+Dauer einer Begutachtung bestünden (und solche sind auch dem Gericht keine
+bekannt). Das einzig entscheidende Kriterium für den Umfang einer
+Begutachtung liege darin, alle erforderlichen Informationen zu erlangen,
+welche für die Expertise notwendig seien (act. 19 S. 1 und
+S. 2 oben). Diesem Standpunkt ist aus Sicht des Gerichts nichts entgegenzuhalten.
+Verfügt ein Gutachter nach einem – wie hier – mehrstündigen Einzelgespräch
+über die erforderlichen Erkenntnisse, zumal ihm ebenso die umfangreichen
+Untersuchungsakten sowie testpsychologische Untersu­chungsergebnisse
+vorlagen, so drängen sich keine wiederholten Besprechungen bzw. Befragungen
+auf. Anders verhielte es sich allenfalls, wenn sich aus dem Ein­zelgespräch
+offensichtlich Widersprüche zu den Akten ergäben; derlei ist hier aber nicht
+erkennbar und wurde von der Verteidigung auch nicht geltend gemacht.
+Hinzu kommt noch Folgendes: Vom Obergericht beauftragt mit
+der Erstattung eines Ergänzungsgutachtens führte Dr. med. G.______ am
+20. September 2019 abermals ein Explorationsgespräch mit dem
+Beschuldigten, diesmal von zweieinhalb Stunden Dauer (Ergänzungsgutachten,
+S. 2). Damit hat der Gutachter den Beschuldigten insgesamt zweimal in
+eingehenden Gesprächen exploriert. Indem sich bei der zwei­ten Begutachtung
+keine Widersprüchlichkeiten gegenüber der ersten Exploration ergeben haben,
+lässt sich daraus retrospektiv durchaus folgern, dass schon der bei der
+ersten psychiatrischen Abklärung getätigte Prüfaufwand zurei­chend war.
+3.2.3
+Die gutachterliche diagnostizierte
+Persönlichkeitsstörung (ICD-10 F60.88) ist beim Beschuldigten gepaart mit
+einer ADHS-Problematik (ICD-10 F90.0) (siehe zuvor E. 3.1). Der
+Rechtsvertreter des Beschuldigten machte bereits vor Vorinstanz und erneut
+vor Obergericht geltend, eine ADHS-Störung schliesse eine Persönlich­keitsstörung
+von vornherein aus und sei daher Letztere fälschlicherweise diagnosti­ziert
+worden, womit das Gutachten inhaltlich einen qualifizierten Mangel aufweise
+(act. 80 S. 22 ff. sowie S. 35
+a
+ff.; siehe auch
+act. 50 S. 3 ff.).
+All dem kann nicht gefolgt werden. Der Gutachter hat
+bereits im vorinstanzlichen Verfahren sowie erneut im Berufungsverfahren
+schlüssig und nachvollziehbar dar­gelegt, dass – erstens – die
+Eingangskriterien für die Diagnose "Persönlichkeitsstö­rung"
+erfüllt sind und dass – zweitens – die Persönlichkeitsstörung beim Beschuldig­ten,
+vereinfacht ausgedrückt, einem krankhaften und vorliegend deliktsrelevanten
+Grundzustand entspricht, während die ADHS-Störung diese Grundproblematik teil­weise
+zwar überlappt, aber für die Deliktsbegehung nicht ursächlich war
+(act. 19 S. 6; act. 71 S. 20 ff. Ziff. 5.1).
+Die in diesem Zusammenhang aus Sicht des Gerichts zentralen und vom Gutachter
+anhand der gesamten Aktenlage plausibel und widerspruchsfrei erörterten
+Erkenntnisse sind die folgenden (Interpunktion teil­weise modifiziert):
+1.)
+"[Es] zeigt sich in der Biografie des Exploranden,
+dass er in der Wahrneh­mung und Interpretation von Dingen, Menschen und
+Ereignissen und auch in Einstellungen und Vorstellungen von sich selbst und
+anderen deutliche Auf­fälligkeiten zeigt. Es zeigt sich auch, dass er immer
+wieder Probleme mit der Impulskontrolle und der Bedürfnisbefriedigung hatte
+und es so immer wieder zu zwischenmenschlichen Problemen gekommen ist. Dies
+zeigte sich auch in Bezug auf die ihm vorgeworfenen Delikte. Er kann – wie
+im Vorgutachten ausgeführt – eigene Gefühle nur vermindert wahrnehmen;
+diesbezüglich wurde der Begriff der Alexithymie [Gefühlsblindheit,
+Gefühlskälte; Anm. des Gerichts] erwähnt, das heisst, der Explorand hat
+Mühe, die Empfindungen, die er bei seinem Gegenüber auslöst oder die Gefühle
+seines Gegenübers "zu lesen". Das Verhalten ist andauernd und
+gleichförmig und nicht auf Epi­soden einer psychischen Krankheit, wie zum
+Beispiel einer ADHS, begrenzt. Dies wäre sonst in Phasen, in denen er
+mediziert und damit kompensiert war, anders gewesen. […]. Das hier
+Beschriebene ist aus gutachterlicher Sicht zu unterscheiden von Symptomen,
+die durch ein ADHS erklärt werden können. Dabei zeigt sich, dass sein
+zwischenmenschliches Verhalten eben auch in Phasen, in denen er Medikamente
+genommen hat, auffällig war. […] Selbst wenn man davon ausgeht, dass ein
+ADHS mit einer Minderung der Impulskontrolle und Unaufmerksamkeit
+einhergeht, so mag das zwar die Hemmschwelle für bestimmte Handlungen
+senken, gleichzeitig erklärt das aber nicht zum Beispiel seine Handlungen
+gegenüber B.I. [siehe zu dieser Begebenheit act. 25
+S. 3 ff.; Anm. des Gerichts] oder aber auch in Bezug auf die
+verfahrensgegenständlichen Tatvorwürfe. Zusammengefasst sind somit – wie
+bereits im Vorgutachten festgehalten – die Eingangsvoraussetzungen für die
+Diagnose einer Persönlichkeitsstörung zweifelsohne gegeben" (zum
+Ganzen: Ergänzungsgutachten, S. 21).
+2.)
+"Darüber hinaus leidet der Explorand unter einem
+ADHS, ICD-10 F90.0. Im Vorgutachten wurde festgehalten, dass dieses ADHS
+zwar noch feststellbar sei, es hat sich aber weder in er klinischen
+Beobachtung noch in der test­psychologischen Untersuchung als ausgeprägt
+gezeigt. […] Insoweit wurde auch die Diagnose des ADHS im Vorgutachten
+nicht verworfen oder ausge­schlossen. Diese Diagnose liegt zweifelsohne
+seit Kindheit vor, dazu benö­tigt es auch keine weitere Fremdanamnese. Die
+Frage stellt sich nach dem Ausmass der Diagnose
+in Bezug auf die dem
+Exploranden vorgeworfenen Taten
+. Hier mag es zu einer Vermischung der
+ADHS-Problematik, welche nur noch ein vergleichsweise geringes Ausmass
+annimmt, und der Persön­lich­keitsstörung kommen. Das heisst, der Explorand
+hat eine verminderte Im­pulskontrolle und Frustrationstoleranz aufgrund
+seiner Persönlichkeitsstö­rung und diese wird dann – je nach Situation –
+noch durch die ADHS-Symptomatik verstärkt. Auch wenn die wiederholten
+Angaben des Exploran­den von einem "anderen A.______" selten
+vorgekommen sind, so zeigt das doch das Gefühl von Ich-Fremdheit, was die
+Persönlichkeitskomponente beinhal­tet und nicht das ADHS. Aufgrund des ADHS
+kann der Explorand schlechter mit Langeweile umgehen, was ihn dann
+teilweise frustriert. Dass er aber zum Beispiel angab, Gleichaltrige eher
+nicht anzuschreiben, weil er glaube, dass diese ihn zurückweisen würden, spiegelt
+seine unreife Persönlichkeit wider und nicht seine ADHS-Problematik.
+Betrachtet man die verschiedenen Tat­vorwürfe, so wäre zum Beispiel der
+Vorwurf der Tätlichkeit anlässlich eines Eishockey-Spiels eventuell der
+ADHS-Symptomatik zuzuschreiben. Die sexuell motivierten Taten jedoch seinen
+fehlenden Problemlösungsstrategien und dem fehlenden Umgang mit
+Frustrationserlebnissen, was persönlich­keitsbedingt ist. Zusammenfassend
+ist somit die ADHS-Symptomatik zwar nicht völlig unbedeutend in Bezug auf
+die dem Exploranden vorgeworfenen Taten (und die Behandlung), sie ist aber
+sicherlich zweitrangig im Vergleich zu den ausgeprägten
+Persönlichkeitsauffälligkeiten" (zum Ganzen: Ergän­zungsgutachten,
+S. 23 f.).
+Steht somit gemäss der vom Gutachter schlüssig erörterten
+Diagnose fest, dass die ADHS-Symptomatik von lediglich nachrangiger Bedeutung
+ist, so bestand für den Gutachter in methodischer Hinsicht – entgegen der
+Auffassung des Verteidigers (siehe dazu act. 50 S. 5, act. 80
+S. 23) – auch keine Veranlassung, diesbezüglich noch weitergehende
+Abklärungen zu treffen. Dies, weil zur Beantwortung der mass­nahmenrechtlich
+relevanten Fragestellungen die Hauptdiagnose "unreife Persön­lichkeitsstörung,
+ICD-10 F60.88" bzw. "kombinierte Persönlichkeitsstörung mit unrei­fen
+und dissozialen Zügen, ICD-10 F61.0" ausschlaggebend ist.
+3.3
+Zusammenfassend ist somit festzuhalten, dass die von Dr.
+med. G.______ durch­geführte (zweimalige) Begutachtung des Beschuldigten
+weder in methodischer noch in qualitativer Hinsicht zu beanstanden ist. Für
+die von der Verteidigung beantragte Einholung eines weiteren Gutachtens bzw.
+eines Obergutachtens (act. 50 sowie act. 80 S. 21 ff. und
+S. 35
+a
+) besteht daher keine Notwendigkeit. In Anwendung von
+Art. 82 Abs. 4 StPO kann sodann ergänzend auf die Erwägungen im
+angefochtenen Entscheid verwiesen werde, worin bereits die Vorinstanz mit
+einlässlicher und zutreffender Begründung die von Dr. med. G.______
+durchgeführte Exploration des Beschuldigten als fachlich-korrekt und die
+schriftliche Expertise als inhaltlich schlüs­sig beurteilt hat (act. 45
+S. 29 ff. E. 9.5. und E. 9.6.).
+4.
+4.1
+Ist ein Täter psychisch schwer gestört, so
+ordnet das Gericht gestützt auf Art. 59 Abs. 1 StGB eine stationäre
+Behandlung an, wenn der Täter ein Verbrechen oder Vergehen begangen hat, das
+mit seiner psychischen Störung im Zusammen­hang steht (lit. a) und
+zugleich zu erwarten ist, durch die stationäre Therapie lasse sich der Gefahr
+weiterer mit seiner psychischen Störung in Zusammenhang stehen­der Taten
+begegnen (lit. b). Sind diese Eingangsvoraussetzungen für eine
+stationäre Behandlung erfüllt, so ist eine solche vorzusehen, wenn eine
+Strafe allein nicht ge­eignet ist, der Gefahr weiterer Straftaten des Täters
+zu begegnen und zudem ein Behandlungsbedürfnis des Täters besteht oder die
+öffentliche Sicherheit dies erfor­dert (Art. 56 Abs. 1 lit. a
+und lit. b StGB). Die Anordnung der Massnahme darf aller­dings nur
+erfolgen, wenn der mit ihr verbundene Eingriff in die Persönlichkeitsrechte
+des Täters im Hinblick auf die Wahrscheinlichkeit und Schwere weiterer
+Straftaten nicht unverhältnismässig ist (Art. 56 Abs. 2 StGB);
+überdies hat grundsätzlich eine geeignete Einrichtung für den Vollzug der
+Massnahme zur Verfügung zu stehen (Art. 56 Abs. 5 in Verbindung mit
+Art. 59 Abs. 2 und Abs. 3 StGB). Das Gericht hat sich bei
+seinem Entscheid über die Anordnung einer Massnahme auf ein forensisch-psy­chiatrisches
+Gutachten abzustützen (Art. 56 Abs. 3 StGB).
+War der Täter zur Zeit der Tat noch nicht 25 Jahre alt und
+ist er in der Persönlich­keitsentwicklung erheblich gestört, so kann ihn das
+Gericht unter den gleichen Voraussetzungen, wie sie in Art. 59 Abs. 1
+StGB festgehalten sind, in eine Einrich­tung für junge Erwachsene einweisen
+(Art. 61 Abs. 1 StGB). Mit einer Massnahme im Sinne von Art.
+61 Abs. 1 StGB soll eine erheblich gestörte oder gefährdete Ent­wicklung
+mit erzieherischen Mitteln behoben werden. Diese Massnahmen sollen bei jungen
+Erwachsenen Anwendung finden, deren Entwicklung sich noch wesentlich
+beeinflussen lässt und die einer derartigen Erziehung zugänglich erscheinen.
+Sie sind mit ihren aus dem Jugendstrafrecht hereinwirkenden Gesichtspunkten
+auf Per­sonen zugeschnitten, die sich nach Persönlichkeitsstruktur und
+Begehungsweise noch in den weiteren Umkreis der Adoleszenzkriminalität
+einordnen lassen (
+Jann Schaub
+,
+Art. 61 N 1, in
+Damian Graf
+[Hrsg.], Annotierter Kommentar StGB, 1. Aufl., Bern 2020). Der mit einer
+Massnahme für junge Erwachsene verbundene Freiheits­entzug beträgt höchstens
+vier Jahre, wobei die Massnahme spätestens dann aufzu­heben ist, wenn der
+Täter das 30. Altersjahr vollendet hat (Art. 61 Abs. 4 StGB).
+Die Vorinstanz ordnete im angefochtenen Entscheid über den
+Beschuldigten eine Massnahme für junge Erwachsene im Sinne von Art. 61
+StGB an. Die Staatsanwalt­schaft beantragt in ihrer Anschlussberufung, es sei
+eine stationäre Massnahme nach Massgabe von Art. 59 StGB vorzusehen,
+derweil die Verteidigung (wenn über­haupt) für eine lediglich ambulante
+Therapie im Sinne von Art. 63 StGB unter Auf­schub der Strafe plädiert
+(siehe dazu bereits oben E. VIII. 1.).
+4.2
+Die beim Beschuldigten gutachterlich fundiert
+und schlüssig erkannte "unreife Persönlichkeitsstörung, ICD-10
+F60.88" bzw. "kombinierte Persönlichkeitsstörung mit unreifen und
+dissozialen Zügen, ICD-10 F61.0" (Gutachten, S. 41 ff.
+Ziff. 4.1 und S. 52 Ziff. 5.1.1 sowie Ergänzungsgutachten,
+S. 20 ff. Ziff. 5.1 und S. 31 Ziff. 6.1.2) stellt
+eine psychische Störung im Sinne von Art. 59 Abs. 1 StGB dar (AK
+StGB-
+Schaub
+, Art. 59
+N 5). Sodann ist der Zusammenhang zwischen der psychischen Störung und
+den vom Beschuldigten begangenen schwerwiegenden Sexualtaten evident
+(Gutachten, S. 53 Ziff. 5.4.1; siehe zudem act. 19 S. 2
+unten und S. 3); die psychische Störung ist daher in rechtlicher
+Hinsicht als schwer einzustufen (AK StGB-
+Schaub
+,
+Art. 59 N 6).
+4.3
+Der Gutachter bejaht ferner mit ausführlicher
+und stichhaltiger Begründung eine vom Beschuldigten ausgehende Gefahr
+neuerlicher Sexualstraftaten, sollte er nicht einer stationären
+therapeutischen Massnahme zugeführt werden; hierauf kann voll­umfänglich
+verwiesen werden (Gutachten, S. 46 ff. Ziff. 4.4 und
+Ziff. 4.5 sowie S. 53 f. Ziff. 5.4.2, Ziff. 5.4.4
+und Ziff. 5.4.5; Ergänzungsgutachten, S. 25 ff. Ziff. 5.2
+und Ziff. 5.3 sowie S. 31 Ziff. 6.1.3). Entgegen der Ansicht
+der Verteidigung (act. 80 S. 30 f.) weist der Umstand, dass
+der Beschuldigte seit dem Vorfall vom August 2017 in Bezug auf
+Sexualstraftaten nicht mehr auffällig geworden ist, keineswegs auf eine
+geringer gewordene Rückfallgefahr hin. Wie der Gutachter überzeugend darlegt,
+bestehen die (unbehandelten) Risikofaktoren in der Persönlichkeit des
+Beschuldigten nach wie vor; das Thema Sexualität ist beim Beschuldigten immer
+noch sehr konflikthaft besetzt und sind Neigungen zu Frauen in der Nähe des Schutzalters
+weiterhin erkennbar. Hinzu kommt die in der Persönlichkeit des Beschuldigten
+angelegte Dissozialität, welche sich zwischenzeitlich in einem Ver­mögensdelikt
+(siehe act. 25 S. 3 ff.) erneut offenbart hat. Dass es nicht
+ebenso im Sexual­bereich zu einem Rückfall kam, ist denn auch in erster Linie
+dem Druck des vorlie­genden Strafverfahrens geschuldet und nicht auf eine
+nachhaltig verinnerlichte Ver­haltensänderung zurückzuführen
+(Ergänzungsgutachten, S. 29 und S. 32 Ziff. 6.3).
+Eine lediglich ambulante Massnahme im Sinne von
+Art. 63 StGB unter Aufschub der Strafe, wie von der Verteidigung
+beantragt, wird vom Gutachter zu Recht verworfen (Gutachten, S. 54
+Ziff. 5.4.4; Ergänzungsgutachten, S. 30). Der Beschuldigte befand
+sich von 2002 bis 2011 bei Dr. med. H.______, Facharzt FMH Kinder- und
+Jugendpsychiatrie, in jugendpsychiatrischer Behandlung seiner ADHS-Sympto­matik.
+Als der Beschuldigte im August/September 2017 in Untersuchungs­haft war,
+führte Dr. med. H.______ mit ihm im Gefängnis zwei Therapiesitzungen durch
+(siehe dazu Ordner 4, Register 12, act. 12/34). Nach der
+Entlassung des Beschuldigten aus der Untersuchungshaft war es dann allerdings
+Dr. med. H.______ nicht möglich, die psychiatrisch-psychotherapeutischen
+Behandlung des Beschuldigten ambulant weiterzuführen. Obwohl Dr. med.
+H.______ dem Beschuldigten flexibel Termine anbot, blieb dieser
+unentschuldigt fern oder liess die Termine kurzfristig ausfallen (siehe dazu
+Ergänzungsgutachten [act. 71], dort im Anhang das Schreiben von Dr. med.
+H.______ vom 29. September 2019). Anlässlich der Berufungsverhandlung
+bestätigte der Beschuldigte diese Angabe; es treffe zu, dass er Probleme mit
+der Einhaltung von Terminen habe. Sodann erklärte er, dass er nach seinem
+Wegzug aus dem Glarnerland am (damals) neuen Wohnort in [...] zwar einmal bei
+einem Psychiater einen Termin abgemacht habe, dann aber nicht hingegangen
+sei; nach wie vor sei er in keiner Behandlung (act. 80
+S. 10 f.). Der erwerbslose Beschuldigte lebt seit längerem ohne
+jegliche Struktur einfach so in den Tag hinein und es ist auch perspektivisch
+keine Veränderung abzusehen (act. 80 S. 5 f.). In einer
+solchermassen desolaten Situation vermöchte eine nur ambulante psychia­trische
+Behandlung des Beschuldigten – soweit er denn entsprechende Termine überhaupt
+wahrnähme – keine nachhaltige positive Persönlichkeitsentwicklung zu
+bewirken. Kommt hinzu, dass bei einer ambulanten Therapie in Freiheit keine
+zureichenden Kontrollmöglichkeiten bestehen, und daher eingedenk der gänzlich
+fehlenden Lebens- und Tagesstruktur eine erhebliche Gefahr für neuerliche
+Sexual­straftaten bestünde (siehe dazu auch Gutachten, S. 54
+Ziff. 5.4.4; siehe auch Ergänzungsgutachten, S. 28 unten und
+S. 29 oben).
+Ebenfalls nicht in Frage kommt eine ambulante Massnahme
+begleitend zum Vollzug der Freiheitsstrafe. Der Beschuldigte bedarf einer
+engmaschigen Therapie, und zwar sowohl in Einzel- wie auch in Gruppensettings
+(Gutachten, S. 50 unten und S. 51 oben). Eine solche tiefgreifende
+Therapie ist im Zuge des ordentlichen Straf­vollzugs nicht möglich.
+4.4
+Mit einer stationären therapeutischen Massnahme
+lässt sich, wie im Gutachten überzeugend dargelegt, die Gefahr weiterer mit
+der psychischen Störung in Zusammenhang stehen­der Sexualstraftaten mit
+grosser Wahrscheinlichkeit minimie­ren; zur Durchführung der entsprechenden
+Massnahme stehen auch geeignete Institutionen zur Verfügung (Gutachten,
+S. 50 f. Ziff. 4.5 und S. 54 Ziff. 5.4.5; Ergän­zungsgutachten,
+S. 28 ff. Ziff. 5.3 und S. 33 Ziff. 6.5).
+An der Berufungsverhandlung von der
+Obergerichtspräsidentin auf eine denkbare stationäre Behandlung angesprochen,
+meinte der Beschuldigte, das sei "natürlich nicht sein Wunsch"; er
+könnte nicht damit umgehen, irgendwo zu sein, ohne dabei zu wissen für wie
+lange Zeit; unter solchen Umständen könnte er sich denn auch nicht auf eine
+Behandlung einlassen (act. 80 S. 12). Auf die beim Beschuldigten
+(noch) fehlende Therapiebereitschaft ist auch im Gutachten hingewiesen. Dies
+sei aber – so ist im Gutachten weiter zu lesen – keineswegs aussergewöhnlich;
+bei vie­len stationären Massnahmen müsse erst einmal die nötige Motivation
+aufgebaut werden, weshalb eine entsprechende Massnahme auch gegen
+anfänglichen Wider­stand durchaus erfolgversprechend durchgeführt werden
+könne (Gutachten, S. 55 Ziff. 5.4.9). Für das Gericht ist
+offensichtlich, dass der Beschuldigte sich bis jetzt schlicht noch nie
+ernsthaft mit der Option einer stationären therapeutischen Behand­lung
+auseinandergesetzt hat, wozu aus seiner Sicht wohl auch keine Veranlassung
+bestand, nachdem sein Verteidiger während des ganzen Verfahrens mit Nachdruck
+die Notwendigkeit einer solchen Behandlung in Abrede gestellt hat. Der
+Beschuldig­te wandelt nun schon seit mehreren Jahren sozusagen gleichgültig
+durchs Leben; mal meldet er sich beim RAV, mal beim Sozialamt, treibt ein
+wenig Sport, begibt sich hin und wieder mit dem Velo in die Natur und besucht
+Eishockeyspiele (act. 80 S. 6 f.). Das erklärt letztlich auch
+seinen "Widerstand" gegen eine von ihm bis dahin nur als reine
+Hypothese gesehene stationäre Therapie; er möchte einfach nicht aus seinem
+liebgewonnenen Alltagstrott herausgerissen werden. Das Gericht ist daher
+überzeugt, dass er sich in die Massnahme durchaus schicken wird, wenn ihm
+deren Unausweichlichkeit nun bewusst wird.
+4.5
+Würde vorliegend alleine nur die Strafe
+vollzogen und erfolgte keine stationäre therapeutische Behandlung, so ist
+aufgrund der diesfalls unbehandelt fortdauernden schweren
+Persönlichkeitsstörung des Beschuldigten nicht zu erwarten, dass er in
+Zukunft keine Sexualstraftaten mehr begehen würde. Mit Blick auf die Gefahr
+weite­rer solcher Straftaten ist eine stationäre therapeutische Massnahme
+ohne weiteres verhältnismässig und liegt deren Anordnung nachgerade im
+öffentlichen Interesse.
+5.
+Aus alldem folgt, dass vorliegend eine stationäre
+therapeutische Behandlung im Sinne von Art. 59 Abs. 1 StGB
+anzuordnen ist. In diesem Punkt ist daher die gegen jegliche Anordnung einer
+Massnahme gerichtete Berufung des Beschuldigten ab­zuweisen, während die
+Anschlussberufung der Staatsanwaltschaft, worin genau eine solche Massnahme
+beantragt, gutzuheissen ist. Der Gutachter sprach sich be­reits in seinem
+ersten Gutachten primär für eine stationäre Massnahme nach Art. 59
+Abs. 1 StGB aus; eine Massnahme für junge Erwachsene nach Art. 61
+Abs.
+1 StGB hat er lediglich alternativ diskutiert,
+und zwar insofern, als der Beschuldigte in einer entsprechenden Institution
+noch zusätzlich eine Lehre absolvieren könnte (Gutach­ten, S. 54
+Ziff. 5.4.4 und S. 55 Ziff. 5.4.9). Im Ergänzungsgutachten
+wird eine Mass­nahme für junge Erwachsene aufgrund des Alters des
+Beschuldigten (inzwischen bereits im 27. Altersjahr) explizit nicht mehr
+empfohlen (act. 71 S. 30). Dies aus Sicht des Gerichts vollkommen
+zu Recht. Bei einer Massnahme nach Art. 61 StGB soll eine erheblich
+gestörte oder gefährliche Entwicklung mit erzieherischen Mitteln behoben
+werden; diese Massnahme soll bei jungen Erwachsenen Anwendung fin­den, deren
+Entwicklung sich noch wesentlich beeinflussen lässt und die einer derar­tigen
+Erziehung zugänglich erscheinen (siehe dazu bereits oben E. VIII. 4.1).
+Vorlie­gend ist indes aufgrund der Begutachtung offenkundig, dass die beim
+Beschuldigten festgestellte Persönlichkeitsstörung mittlerweile chronifiziert
+ist und somit einer in erster Linie erzieherischen Therapie nicht mehr
+zugänglich.
+Der Vollzug der vorstehend ausgefällten Freiheitsstrafe
+von 24 Monaten ist zuguns­ten der stationären therapeutischen Massnahme
+aufzuschieben (Art. 57 Abs. 2 StGB).
+IX.
+Fazit und
+Kostenregelung
+1.
+Als Ergebnis des vorliegenden Verfahrens ist
+festzuhalten, dass die Berufung des Beschuldigten in allen Punkten abzuweisen
+ist. Demgegenüber ist die Anschlussbe­rufung der Staatsanwaltschaft in den
+zentralen Anträgen gutzuheissen (höhere Freiheitsstrafe und stationäre
+Massnahme nach Art. 59 StGB); einzig in zwei margi­nalen Nebenpunkten
+(Höhe der Übertretungsbusse; kein Widerruf der Vorstrafe) hat die
+Anschlussberufung keinen Erfolg.
+2.
+2.1
+Die Gerichtsgebühr für das Berufungsverfahren
+ist auf CHF 3'000.- festzusetzen (Art. 8 Abs. 1 lit. b
+Ziff. 2 der Zivil- und Strafprozesskostenverordnung; GS III A/5).
+Die betreffende Gebühr ist beim vorliegenden Ausgang des Berufungsverfahrens
+dem Beschuldigten im Umfang von CHF 2'800.-
+aufzuerlegen;
+der Restbetrag von CHF 200.- ist auf die Staatskasse zu nehmen
+(Art. 428 Abs. 1 StPO).
+2.2
+Rechtsanwalt
+B.______ ist als amtlicher Verteidiger für seine Bemühungen im
+Berufungsverfahren aus der Gerichtskasse mit CHF 8'069.35 (inkl. MwSt.)
+zu entschädigen (act. 82). Der Beschuldigte hat der Gerichtskasse diese
+Auslagen zurück­zuerstatten, wenn es seine wirtschaftlichen Verhältnisse
+erlauben (Art. 428 Abs. 1 StPO in Verbindung mit Art. 422
+Abs. 2 lit. a StPO und Art. 135 Abs. 4 lit. a StPO).
+Grundsätzlich liesse sich zwar erwägen, dem Beschuldigten nicht die gesamten
+Kosten seines Verteidigers für das Berufungsverfahren zu über­binden, nachdem
+die Staatsanwaltschaft mit ihrer Anschlussberufung nicht in allen Punkten
+Recht bekommen hat. Allerdings hat der Verteidiger selber in seinem Plä­doyer
+vor Obergericht zur Frage der hier unverändert belassenen Höhe der Busse
+sowie zur Frage des Widerrufs der Vorstrafe keine substantiellen Ausführungen
+gemacht und ist ihm diesbezüglich denn auch kein Vorbereitungsaufwand erwach­sen,
+welcher sich in seiner Honorarnote niedergeschlagen hätte.
+2.3
+Da das
+Obergericht als Rechtsmittelinstanz vorliegend einen neuen Entscheid fällt
+(Art. 408 StPO), ist auch über die von der Vorinstanz getroffene
+Kostenregelung zu befinden. Es ist kein sachlicher Grund ersichtlich, welcher
+eine Änderung an der vorinstanzlichen Kostenregelung nahelegen würde, zu­mal
+auch der Rechtsvertreter des Beschuldig­ten hiergegen keine konkreten
+Einwendungen vorgebracht hat. Die entsprechende Kostenregelung (act. 45
+S. 35 f. Dispositiv-Ziff. 9-11) ist daher zu bestätigen.
+____________________
+Das
+Gericht erkennt:
+1.
+Der Beschuldigte A.______ ist
+schuldig
+der versuchten
+sexuellen Handlungen mit einem Kind im Sinne von Art. 187 Ziff. 1 StGB in
+Verbindung mit Art. 22 Abs. 1 StGB;
+der mehrfachen
+Pornografie im Sinne von Art. 197 Abs. 4 Satz 2 StGB;
+der Übertretung
+des Waffengesetzes im Sinne von Art. 34 Abs. 1 lit. d WG.
+2.
+Der Beschuldigte
+wird freigesprochen vom Vorwurf der sexuellen Belästigung im Sinne von Art.
+198 StGB.
+3.
+Der Beschuldigte wird bestraft
+mit einer unbedingten Freiheitsstrafe von 24 Monaten sowie mit einer
+Busse von CHF 300.‑. Die vom Beschuldigten erstandene Untersu­chungshaft
+von 38 Tagen wird an die Freiheitsstra­fe ange­rechnet.
+Die Busse ist zu bezahlen;
+bezahlt der Beschuldigte die Busse schuldhaft nicht, so tritt an deren
+Stelle eine unbedingt vollziehbare Ersatzfreiheitsstrafe von 3 Tagen.
+4.
+Über den Beschuldigten wird
+eine stationäre therapeutische Massnahme im Sinne von Art. 59
+Abs. 1 StGB angeordnet. Der Vollzug der Freiheitsstrafe (Ziff. 3
+hiervor) wird zugunsten dieser Massnahme aufgeschoben.
+5.
+Der bedingte Strafvollzug
+hinsichtlich der vom Untersuchungsamt Uznach mit Strafbefehl vom
+6. Mai 2015 ausgesprochenen Geldstrafe von 10 Tagessätzen zu je
+CHF 20.- wird nicht widerrufen.
+6.
+Die beim Beschuldigten
+beschlagnahmten Gegenstände werden eingezogen und vernichtet,
+konkret:
+-
+Mobiltelefon
+HUAWEI (IMEI: [...]) (Ordner 3, Register 11, act. 11/24);
+-
+Mobiltelefon
+Samsung, Galaxy S5, schwarz, inkl. Ladekabel (Ordner 3, Register 11, act.
+11/25).
+7.
+Die Kantonspolizei Glarus wird ersucht, über
+die Beschlagnahme und allfällige Einziehung der
+Langwaffe, Special Purpose Rifle, Cal. 6 mm x 45, Seriennum­mer 13F32692
+(Ordner 3, Register 11, act. 11/26) oder
+deren Rückgabe an den Beschuldigten zu
+entscheiden.
+8.
+Es wird davon
+Vormerk genommen, dass keine konkreten Zivilforderungen gel­tend gemacht
+wurden.
+9.
+Die Gerichtsgebühr für das
+erstinstanzliche Verfahren SG.2018.0056 und das Berufungsverfahren wird auf
+insgesamt CHF 8'000.- festgesetzt.
+Die weiteren
+Verfahrenskosten betragen:
+[...]
+10.
+Die Kosten gemäss
+Dispositiv-Ziff. 9 hiervor werden abzüg­lich eines Gebührenanteils von
+CHF 200.- vollumfänglich auferlegt und von ihm bezogen. Die Kosten der
+amtlichen Verteidigung werden vom Beschuldigten erst bezogen, wenn es seine
+wirtschaftlichen Verhältnisse erlauben. Die wirt­schaftlichen Verhältnisse
+des Beschuldigten werden spätestens im Januar 2025 überprüft.
+11.
+Der amtliche Verteidiger,
+Rechtsanwalt B.______, wird aus der Gerichtskasse für sei­ne Bemühungen im
+vorinstanzlichen Verfahren SG.2018.00056 mit
+CHF 8'715.75
+(inkl. MwSt. und Auslagen) sowie im Berufungsverfahren mit
+CHF 8'069.35 (inkl. MwSt.)
+entschädigt.
+Es wird vorgemerkt, dass dem
+amtlichen Verteidiger die Entschädigung für sei­ne Bemühungen bis 21.
+Dezember 2017 (Untersuchungsverfahren) bereits ausbezahlt worden ist.
+12.
+Schriftliche Mitteilung an:
+[…]
