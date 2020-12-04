@@ -1,0 +1,1462 @@
+---
+decision_id: "gl_gerichte_OG.2019.00021"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2019.00021"
+docket_2: "OGS.2021.107"
+decided: "2020-12-04"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1401&W10_KEY=218274&nTrefferzeile=8&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/101/art-036.md", "switzerland/bund/acts/311.0/art-001.md", "switzerland/bund/acts/311.0/art-012.md", "switzerland/bund/acts/311.0/art-042.md", "switzerland/bund/acts/311.0/art-043.md", "switzerland/bund/acts/311.0/art-046.md", "switzerland/bund/acts/311.0/art-047.md", "switzerland/bund/acts/311.0/art-049.md", "switzerland/bund/acts/311.0/art-069.md", "switzerland/bund/acts/311.0/art-070.md", "switzerland/bund/acts/311.0/art-097.md", "switzerland/bund/acts/311.0/art-103.md", "switzerland/bund/acts/311.0/art-104.md", "switzerland/bund/acts/311.0/art-105.md", "switzerland/bund/acts/311.0/art-106.md", "switzerland/bund/acts/311.0/art-109.md", "switzerland/bund/acts/312.0/art-010.md", "switzerland/bund/acts/312.0/art-084.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-141.md", "switzerland/bund/acts/312.0/art-350.md", "switzerland/bund/acts/312.0/art-381.md", "switzerland/bund/acts/312.0/art-398.md", "switzerland/bund/acts/312.0/art-399.md", "switzerland/bund/acts/312.0/art-402.md", "switzerland/bund/acts/312.0/art-404.md", "switzerland/bund/acts/312.0/art-408.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-426.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/514.54/art-001.md", "switzerland/bund/acts/514.54/art-004.md", "switzerland/bund/acts/514.54/art-008.md", "switzerland/bund/acts/514.54/art-011.md", "switzerland/bund/acts/514.54/art-027.md", "switzerland/bund/acts/514.54/art-028.md", "switzerland/bund/acts/514.54/art-031.md", "switzerland/bund/acts/514.54/art-033.md", "switzerland/bund/acts/514.54/art-034.md", "switzerland/bund/acts/514.541/art-006.md", "switzerland/bund/acts/514.541/art-051.md", "switzerland/bund/acts/741.01/art-091.md", "switzerland/bund/acts/741.01/art-093.md", "switzerland/bund/acts/741.11/art-096.md", "switzerland/bund/acts/812.121/art-019a.md"]
+---
+
+# GL Gerichte OG.2019.00021
+
+## Regeste
+
+Widerhandlungen gegen das Waffengesetz
+
+## Text
+
+Glarus Obergericht 04.12.2020 OG.2019.00021 (OGS.2021.107)
+Glaris Obergericht 04.12.2020 OG.2019.00021 (OGS.2021.107)
+Glarona Obergericht 04.12.2020 OG.2019.00021 (OGS.2021.107)
+
+Kanton Glarus
+Obergericht
+Urteil
+vom 4. Dezember 2020
+Verfahren
+OG.2019.00021
+Staats- und
+Jugendanwaltschaft des Kantons Glarus
+Anklägerin und
+Berufungsklägerin
+vertreten durch die Staatsanwältin
+gegen
+A.______
+Beschuldigter und
+Berufungsbeklagter
+verteidigt durch Rechtsanwalt B.______
+betreffend
+Widerhandlungen
+gegen das Waffengesetz
+Anträge de
+r Anklägerin und
+Berufungsklägerin
+(gemäss Berufungserklärung vom 7. März 2019 [act. 23 S.
+1 f.] sowie gestellt anlässlich der Berufungsverhandlung vom 28. August
+2020 [act. 65 S. 3, act. 71 S. 1 f.], sinngemäss):
+1.
+Die
+Dispositivziffern 1-6 des Urteils der Strafgerichtskommission des
+Kantonsgerichts Glarus vom 27. Februar 2019 im Verfahren SG.2018.00003
+seien aufzuheben.
+2.
+Eventualiter
+sei das Verfahren an die Strafgerichtskommission des Kantonsgerichts Glarus
+zur Neubeurteilung zurückzuweisen.
+3.
+A.______
+sei wie folgt zu verurteilen:
+3.1
+Er sei
+schuldig zu sprechen der Widerhandlung gegen das Waffengesetz durch
+verbotenes Mitführen einer Waffe im Sinne von Art. 33 Abs. 1 lit. a WG
+i.V.m. Art. 4 Abs. 1 lit. g WG, Art. 27 Abs. 1 WG und Art. 6 WV.
+3.2
+Das
+Verfahren gegen A.______ wegen Widerhandlung gegen das Waffengesetz durch
+Erwerben einer Waffe ohne das Abschliessen eines schriftlichen Vertrages im
+Sinne von Art. 34 Abs. 1 lit. d WG i.V.m. Art. 4 Abs. 1 lit. g WG, Art. 6
+WV und Art. 11 Abs. 1 und 2 WG sei infolge Verjährung einzustellen.
+3.3
+A.______
+sei mit einer Geldstrafe von 25 Tagessätzen zu je CHF 70.—, bedingt
+aufgeschoben bei einer Probezeit von 3 Jahren, zu bestrafen.
+3.4
+A.______
+sei mit einer Busse von CHF 300.— zu bestrafen. Bei schuldhafter
+Nichtbezahlung habe an Stelle der Busse eine Ersatzfreiheitsstrafe von 3
+Tagen zu treten.
+3.5
+Die durch
+die Staatsanwaltschaft des Kantons Glarus am 2. November 2015 bedingt
+ausgesprochene Geldstrafe von 30 Tagessätzen zu je CHF 90.—,
+entsprechend CHF 2'700.—, sei zu widerrufen.
+3.6
+Folgende
+unter der Lagernummer SN 181-16 bei der Kantonspolizei Glarus
+sichergestellten Gegenstände seien gestützt auf Art. 69 StGB einzuziehen
+und zu vernichten:
+-
+Pos. 1: 1 Softairgun, Marke:
+Taurus Replicas, Typ: PT92, Farbe: schwarz, Seriennummer: 00808474;
+-
+Pos. 2: 1 Softairgun, Marke:
+Hop up System, Typ: Heckler&Koch USP, Farbe: schwarz, Seriennummer:
+28-2657, Art.-Nr.: 593907;
+-
+Pos. 3: 1 Behältnis mit
+Munition, Marke: ICS, Gewicht: 0.25 Gramm, Farbe: weiss.
+3.7
+Die Kosten
+des Verfahrens seien von A.______ zu tragen.
+4.
+Die Kosten
+des Rechtsmittelverfahrens seien A.______ aufzuerlegen.
+5.
+Im Sinne eines Beweisantrages
+seien, soweit überhaupt notwendig, die Polizeifunktionäre Pol L.______ und
+Pol M.______ zur Sache als Zeugen zu befragen und die entsprechenden Fotos,
+welche von den Funktionären bei der Tatbestandsaufnahme gemacht wurden,
+beizuziehen.
+Anträge de
+s Beschuldigten und
+Berufungsbeklagten
+(gestellt an der
+Berufungsverhandlung vom 28. August 2020 [act. 65, S. 3, act. 72 S. 2,
+5], sinngemäss):
+1.
+A.______
+sei von Schuld und Strafe freizusprechen.
+2.
+Auf die
+Anklage gegen A.______ wegen Widerhandlung gegen das Waffengesetz durch
+Erwerben einer Waffe ohne das Abschliessen eines schriftlichen Vertrages im
+Sinne von Art. 34 Abs. 1 lit. d WG i.V.m. Art. 4 Abs. 1 lit. g WG, Art. 6
+WV und Art. 11 Abs. 1 und 2 WG sei infolge Verjährung nicht einzutreten.
+3.
+Auf einen
+Widerruf der durch die Staatsanwaltschaft des Kantons Glarus am
+2. November 2015 bedingt ausgesprochenen Geldstrafe von 30
+Tagessätzen zu je CHF 90.—, entsprechend CHF 2'700.—, sei zu verzichten.
+4.
+Die
+beschlagnahmten Gegenstände (Verfahrensnummer SA.2016.00546) seien A.______
+herauszugeben.
+5.
+Die
+Verfahrens- und Anklagekosten, inklusive diejenigen der amtlichen
+Verteidigung, seien auf die Staatskasse zu nehmen.
+____________________
+Das
+Gericht zieht in Betracht:
+I.
+Prozessgeschichte
+1.
+Die Kantonspolizei
+Glarus entdeckte anlässlich einer Verkehrskontrolle am 6. Oktober 2016, um
+ca. 21.10 Uhr, in [...], im Kofferraum des Fahrzeugs von A.______
+(nachfolgend «Beschuldigter»), Kontrollschild [...], zwei Soft-Air-Waffen
+sowie ein Behältnis mit Munition (act. 3 S. 3 Rz. 1, act. 2/2/1
+S. 2).
+2.
+Am 7. Dezember 2016
+erliess die Staats- und Jugendanwaltschaft des Kantons Glarus (nachfolgend
+«Staatsanwaltschaft») daraufhin einen Strafbefehl gegen den Beschuldigten
+wegen Widerhandlungen gegen das Waffengesetz (act. 3). Nachdem der
+Beschuldigte am 16. Dezember 2016 Einsprache gegen den Strafbefehl erhoben
+hatten (act. 2/1/3), hielt die Staatsanwaltschaft an diesem fest und
+überwies die Strafsache dem Kantonsgericht Glarus zur weiteren Behandlung
+(act. 1, act. 2).
+3.
+Mit Urteil vom 27.
+Februar 2019 (act. 19) sprach die Strafgerichtskommission des Kantonsgerichts
+Glarus den Beschuldigten sowohl vom Vorwurf der Widerhandlung gegen das Waffengesetz
+durch verbotenes Mitführen einer Waffe (i.S.v. Art. 33 Abs. 1 lit. a WG
+i.V.m. Art. 4 Abs. 1 lit. g WG, Art. 27 Abs. 1 WG und Art. 6 WV) als auch
+durch Erwerben einer Waffe ohne das Abschliessen eines schriftlichen
+Vertrages (i.S.v. Art. 34 Abs. 1 lit. d WG i.V.m. Art. 4 Abs. 1 lit. g WG,
+Art. 6 WV und Art. 11 Abs. 1 und 2 WG) frei (S. 8 Disp. Ziff. 1). Die
+beim Beschuldigten beschlagnahmten Gegenstände wurden der Kantonspolizei
+Glarus übergeben (S. 8 Disp. Ziff. 2). Die Gerichtsgebühr setzte die Strafgerichtskommission
+auf CHF 2'600.— fest und nahm diese zusammen mit der
+Strafuntersuchungsgebühr von CHF 600.— auf die Staatskasse. Zudem sprach sie
+dem Beschuldigten eine Entschädigung über CHF 2'500.— zu (S. 8 Dips. Ziff.
+3-5).
+4.
+4.1
+Gegen dieses Urteil
+erhob die Staatsanwaltschaft mit Eingabe vom 7. März 2019 Berufung beim
+Obergericht des Kantons Glarus mit den eingangs wiedergegebenen Anträgen
+(act. 23).
+4.2
+Da es der Beschuldigte
+unterliess, innert gesetzter Frist eine Wahlverteidigung zu bezeichnen,
+setzte das Obergericht B.______ für das Berufungsverfahren als amtlichen
+Verteidiger des Beschuldigten ein (vgl. act. 24, act. 26, act. 28,
+act. 30 und act. 31).
+4.3
+Mit Eingabe vom 11.
+Februar 2020 stellte der Beschuldigte einen Beweisantrag auf Durchführung
+eines parteiöffentlichen Augenscheins an seinem Fahrzeug […] (act. 37). Die
+Staatsanwaltschaft beantragte die Abweisung dieses Beweisantrags (act. 40).
+4.4
+Mit Schreiben vom 27.
+Februar 2020 (act. 41) verfügte die Obergerichtspräsidentin die
+Zeugeneinvernahme der Polizeifunktionäre L.______ und M.______ und forderte
+die Staatsanwaltschaft auf, die anlässlich der Verkehrskontrolle vom 6.
+Oktober 2016 erstellten Fotos einzureichen. Weiter hielt die
+Obergerichtspräsidentin fest, dass betreffend den Beweisantrag des
+Beschuldigten (vgl. act. 37) an der Berufungsverhandlung entschieden werde.
+Mit Schreiben vom 4. März 2020 reichte die Staatsanwaltschaft die eben
+genannten Fotos ein (act. 47, 48 und 48/1-17), welche dem Beschuldigten zugestellt
+wurden (act. 49).
+4.5
+Die auf den 27. März
+2020 angesetzte Berufungsverhandlung (act. 42) wurde aufgrund der
+COVID-19-Pandemie am 28. August 2020 durchgeführt (act. 52, act. 65-72).
+Anlässlich der Berufungsverhandlung reichte die Staatsanwaltschaft die
+Untersuchungsakten eines im Jahr 2015 gegen den Beschuldigten geführten
+Strafverfahrens ein (SA.2015.000492; act. 67, act. 65 S. 2). Zudem wurden die
+beiden Polizeifunktionäre L.______ und M.______ als Zeugen einvernommen (act.
+69 f.). Der Beweisantrag des Beschuldigten um Augenschein an dessen Fahrzeug
+wurde abgelehnt (vgl. dazu act. 65 S. 6 f.).
+4.6
+Am 4. Dezember 2020
+fällte das Obergericht seinen Entscheid (act. 79 und 80). Der Entscheid
+wird schriftlich eröffnet, nachdem die Parteien auf eine mündliche
+Urteilseröffnung ausdrücklich verzichtet haben (Art. 84 Abs. 3
+StPO, act. 65 S. 17).
+II.
+Formelle Ausführungen
+1.
+Das Urteil der
+Strafgerichtskommission vom 27. Februar 2019 stellt ein taugliches
+Anfechtungsobjekt dar (Art. 398 Abs. 1 StPO). Die Staatsanwaltschaft ist zur
+Berufung legitimiert (Art. 381 Abs. 1 StPO), hat die Rechtsmittelfrist
+gewahrt (Art. 399 Abs. 3 StPO; act. 20 und 23) und erhebt zulässige
+Rügen (i.S.v. Art. 398 Abs. 3 StPO; act. 23 S. 1 f.). Das Obergericht ist
+Rechtsmittelinstanz in Strafsachen für die Behandlung von Berufungen (Art. 16
+Abs. 1 lit. a GOG [GS III A/2]). Auf die Berufung ist einzutreten
+(Art. 398 ff. StPO).
+2.
+Nach Art. 398 Abs. 3
+StPO können mit der Berufung Rechtsverletzungen, einschliesslich Überschreitung
+und Missbrauch des Ermessens, Rechtsverweigerungen und Rechtsverzögerungen
+(lit. a), die unvollständige oder unrichtige Feststellung des Sachverhalts
+(lit. b) sowie Unangemessenheit (lit. c) gerügt werden.
+3.
+Die Berufung hat im
+Umfang der Anfechtung des vorinstanzlichen Entscheids aufschiebende Wirkung
+(Art. 402 StPO). Vorliegend wendet sich die Staatsanwaltschaft
+vollumfänglich gegen das Urteil der Strafgerichtskommission vom 27.
+Februar 2019 (act. 23 S. 1 Ziff. 1). Somit hat das Obergericht
+den erstinstanzlich erfolgten Freispruch und die vorinstanzliche
+Kostenverlegung zu überprüfen (Art. 404 Abs. 1 StPO), wobei es am
+Ende ein neues Urteil fällt (Art. 408 StPO).
+4.
+Die
+Anklageschrift bestimmt den Gegenstand des erstinstanzlichen Gerichtsverfahrens
+wie auch des Berufungsverfahrens. Das Gericht ist an den in der
+Anklageschrift wiedergegebenen Sachverhalt, nicht aber an die darin
+vorgenommene rechtliche Würdigung gebunden (Art. 350 Abs. 1 StPO).
+Die rechtliche Würdigung des durch die Anklageschrift bestimmten
+Prozessgegenstandes ist ausschliesslich Aufgabe des Gerichts. Es kann daher
+von den Anträgen der Parteien abweichen. Eine allfällige abweichende
+Beurteilung des Anklagesachverhalts durch das Gericht zieht dabei keinen
+Freispruch oder Teilfreispruch hinsichtlich des angeklagten Tatbestandes nach
+sich, sondern es hat lediglich eine Verurteilung wegen des vom Gericht
+bejahten Tatbestandes zu ergehen (BGer 6B_254/2015 Urteil vom 27. August
+2015, E. 3.1 f. m.w.H.).
+5.
+Die Akten des
+vorinstanzlichen Verfahrens SG.2018.00003 (act. 1-22/4) wurden beigezogen,
+wobei die Strafuntersuchungsakten (SA.2016.00546) integrierender Bestandteil
+derselben bilden (act. 2). Die Aktenzitate des vorinstanzlichen
+Verfahrens erfolgen unter der Verfahrensnummer des Berufungsverfahrens.
+III.
+Vorinstanzliches Urteil und Parteivorbringen im Berufungsverfahren
+1.
+Vorinstanzliches Urteil
+1.1
+Die
+Strafgerichtskommission des Kantonsgerichts Glarus sprach den Beschuldigten
+mit hier angefochtenem Urteil vom 27. Februar 2019 vom Vorwurf der
+Widerhandlungen gegen das Waffengesetz durch verbotenes Mitführen einer Waffe
+sowie durch Erwerben einer Waffe ohne Abschliessen eines schriftlichen
+Vertrages frei (act. 19 S. 8 Disp. Ziff. 1). Die Vorinstanz erwog, der
+Beschuldigte sei mangels verwertbarer Beweise vollständig freizusprechen, da
+die vorliegende Durchsuchung des Kofferraumes des Fahrzeugs des Beschuldigten
+nicht zulässig gewesen sei. So könnten verkehrspolizeiliche Kontrollen zwar
+verdachtsunabhängig erfolgen und würden unter anderem auch Sichtkontrollen
+des Fahrzeugs umfassen (bspw. Prüfung, ob sich der Kofferraumdeckel leise
+schliessen lasse oder ob das Pannendreieck vorhanden sei; zum Ganzen act. 19
+S. 4 f. E. II.1.1 f.). Eine weitergehende Durchsuchung des Kofferraums sei jedoch
+vorliegend nicht zulässig gewesen, da nicht ersichtlich sei, dass eine solche
+aus verkehrspolizeilichen Gründen gerechtfertigt gewesen wäre; zumal davon
+auszugehen sei, dass sich das Pannendreieck im Kofferraumdeckel befand.
+Ebenso wenig sei ein polizeilicher oder strafprozessualer Verdacht geltend
+gemacht worden, noch sei ein solcher ersichtlich. Dasselbe gelte für eine
+Einwilligung des Beschuldigten. Damit fehle es an einer Rechtsgrundlage für
+die Durchsuchung des Kofferraums (act. 19 S. 5 E. II.1.3 f.).
+1.2
+Weiter erwog die
+Vorinstanz, die Erhebung weiterer Beweise würde keine Klärung der Frage
+bringen, ob die zwei Soft-Air-Waffen sowie die dazugehörende Munition offen
+im Kofferraum lagen oder nicht. So fänden sich in der Strafanzeige nur ein Hinweis
+auf Fotografien der sichergestellten Soft-Air-Waffen, nicht aber des
+Kofferraums und sei die Verkehrskontrolle vor über zwei Jahren erfolgt. In
+freier Beweiswürdigung (Art. 10 Abs. 2 StPO) und unter analoger Anwendung von
+Art. 10 Abs. 3 StPO ging die Vorinstanz daher davon aus, dass die zwei
+Soft-Air Waffen sowie das Behältnis mit Munition nicht offen im Kofferraum
+gelegen hätten und in der Folge aufgrund einer rechtswidrigen Durchsuchung
+des Kofferraums entdeckt worden seien (act. 19 S. 5 E. II.1.3 f.).
+1.3
+Bei den in Art. 36 BV
+zu entnehmenden Voraussetzungen für die Einschränkung von Grundrechten handle
+es sich um Gültigkeitsvorschriften im Sinne von Art. 141 Abs. 2 StPO.
+Die vorliegende Durchsuchung des Kofferraumes stelle einen Grundrechtseingriff
+dar und sei ohne Rechtsgrundlage (i.S.v. Art. 36 Abs. 1 BV) erfolgt. Da es
+sich bei den angeklagten Straftaten um keine schweren Verbrechen im Sinne von
+Art. 141 Abs. 2 StPO handle, dürfe der Fund der Soft-Air-Waffen sowie der
+dazugehörenden Munition nicht verwertet werden (Art. 141 Abs. 2 StPO).
+Gleiches gelte aufgrund von Art. 141 Abs. 4 StPO für das Geständnis des
+Beschuldigten. Mangels verwertbarer Beweise sei der Beschuldigte somit
+vollständig freizusprechen (act. 19 S. 6 E. II. 2 f. und S. 8 Disp. Ziff. 1).
+2.
+Standpunkt der Staatsanwaltschaft im Berufungsverfahren
+2.1
+Die Staatsanwaltschaft
+führt in ihrer Berufung aus, entgegen der vorinstanzlichen Auffassung sei die
+Durchsuchung des Kofferraumes nicht rechtswidrig erfolgt, weshalb der Fund der
+beiden Soft-Air-Waffen sowie der Munition verwertbar sei. Die Kontrolle des
+Beschuldigten sei von der Kantonspolizei innerhalb einer allgemeinen
+Verkehrsüberwachung ohne speziellen Auftrag im Rahmen der Erfüllung ihrer
+polizeilichen Aufgaben durchgeführt worden. Gemäss Art. 21 des
+Polizeigesetzes des Kantons Glarus (nachfolgend «PolG») dürfe die
+Kantonspolizei Fahrzeuge, Behältnisse und andere Gegenstände öffnen und
+durchsuchen, wenn insbesondere der Verdacht bestehe, dass sich in ihnen
+Gegenstände befinden, die sicherzustellen seien (lit. d) bzw. wenn sie sich
+bei einer Person befinden, die gemäss Art. 20 PolG durchsucht werden
+dürfe (lit. a). Die Durchsuchung von Sachen solle zum Auffinden von
+Gegenständen führen. Die Polizei dürfe eine Sache durchsuchen, wenn Tatsachen
+die Annahme rechtfertigen, dass Gegenstände mitgeführt werden, die
+sichergestellt werden müssen. Insbesondere Verhaltensweisen des Betroffenen
+könnten diese Annahme rechtfertigen. Auch eigene Wahrnehmungen der Polizei
+könnten als Indizientatsachen eine Durchsuchung rechtfertigen. Typisch für
+Durchsuchungshandlungen sei unter anderem die Durchsuchung nach
+Betäubungsmitteln, Waffen oder anderen gefährlichen Gegenständen (act. 71 S.
+3 f.).
+2.2
+Die beiden
+Polizeifunktionäre L.______ und M.______ hätten anlässlich ihrer
+Zeugeneinvernahme angegeben, dass sie den Personenwagen des Beschuldigten
+kontrollierten, da dieser mit einem Händlerschild versehen war und von einem
+jungen Mann zu einem Zeitpunkt, nämlich abends um 21.10 Uhr, gefahren worden
+sei, an welchem Autobetriebe üblicherweise geschlossen seien. Dies habe dazu
+geführt, dass sie einen Blick in das Fahrzeuginnere geworfen hätten. Im
+Kofferraum sei dann auch weit mehr enthalten gewesen, als angenommen. Dieser
+sei mit Waren diverser Art vollgestopft gewesen (act. 48/3). Nach Abklärung
+der Personalien des Beschuldigten, welcher bereits eine Vorstrafe wegen
+Fahrens in fahrunfähigem Zustand aufgrund Drogeneinflusses aufwies, und
+aufgrund der Tatsache, dass nach Aussage des Beschuldigten ein Polizist im
+Fahrzeug Cannabis-Geruch wahrgenommen habe, musste bei den Polizisten der
+Verdacht aufgekommen sein, der Beschuldigte führe allenfalls Betäubungsmittel
+mit sich. Die Polizisten hätten sich betreffend die Durchsuchung des
+Kofferraumes, was eine übliche Handlung nach Art. 21 PolG darstelle, auf den
+Gesamteindruck, auf eigenes Wissen und eigene Eindrücke sowie ihre
+Berufserfahrung verlassen. Das Vorhandensein eines Verdachtes bei beiden
+Polizeifunktionären im Sinne von Art. 21 PolG dürfe und müsse bejaht werden.
+Würde der Vorinstanz gefolgt werden, müssten Verkehrskontrollen nicht mehr
+durchgeführt werden (act. 65 S. 7-8 und S. 12 f., act. 71 S. 5 f.).
+2.3
+Die beim Beschuldigten
+beschlagnahmten Soft-Air-Waffen samt dazugehöriger Munition fielen gemäss
+Art. 4 Abs. 1 lit. g WG unter die Bestimmungen des Waffengesetzes. Beim
+Tragen einer Waffe an öffentlich zugänglichen Orten sei eine
+Waffentragbewilligung notwendig (Art. 27 WG); eine Ausnahme gemäss Art. 28 WG
+liege vorliegend nicht vor. So habe der Beschuldigte angegeben, die beiden
+Soft-Air-Waffen einfach noch im Fahrzeug gehabt zu haben, über keine
+Bewilligung zu verfügen und die Waffen zu besitzen, um auf einem Parkplatz
+oder in der Autolackiererei seines Vaters auf Büchsen zu schiessen. Da keine Ausnahme
+nach Art. 28 WG vorliege sei der Beschuldigte wegen Art. 33 Abs. 1 lit.
+a WG antragsgemäss zu verurteilen. Mit Bezug auf das Mitführen einer
+Soft-Air-Waffe spiele zudem weder deren Griffnähe noch deren
+Schussbereitschaft eine Rolle. Relevant sei einzig, dass solche Waffen an
+einem öffentlich zugänglichen Ort, was der Ort der Verkehrskontrolle
+vorliegend eben gewesen sei, mitgeführt werden. Irrelevant sei dabei, ob sich
+die Soft-Air-Waffen in einem Koffer im Kofferraum unter anderen Gegenständen
+befanden und ob diese geladen waren oder nicht. Dies ergebe sich ohne
+weiteres aus dem Gesetz. Entgegen den Ausführungen der Verteidigung sei das
+Transportieren dem Tragen gleichgestellt. Verboten sei alles, das Mitführen,
+das Transportieren und das Tragen. Ansonsten würden die Ausnahmen nach
+Art. 28 und Art. 27 WG absolut keinen Sinn ergeben (act. 65, S. 8 und S.
+13-15, act. 71 S. 6-7).
+2.4
+Schliesslich führt die
+Staatsanwaltschaft aus, der Beschuldigte habe eventualvorsätzlich gehandelt.
+Einen Grund zur Annahme von Fahrlässigkeit liege vorliegend nicht vor. So
+habe der Beschuldigte gewusst, dass sich die Soft-Air-Waffen samt Munition in
+seinem Fahrzeug befanden und sei damit seit längerem herumgefahren. Der
+Beschuldigte habe sich nicht darum gekümmert, diese endlich aus dem Fahrzeug
+zu entfernen. Denn so hatte er diese schnell zur Hand, wenn sich wieder
+einmal eine Gelegenheit zum Schiessen bieten sollte. Dies sei nicht nur
+sorgfaltswidrig, sondern eventualvorsätzlich (act. 65 S. 14).
+3.
+Standpunkt des Beschuldigten im Berufungsverfahren
+3.1
+Dem hält der
+Verteidiger des Beschuldigten an der Berufungsverhandlung entgegen, es sei
+mit der Vorinstanz davon auszugehen, dass sowohl das Geständnis des
+Beschuldigten wie auch die übrigen Beweise vorliegend nicht verwertbar seien.
+Es habe sich damals um eine Verkehrskontrolle gehandelt und es habe kein
+Verdacht auf eine strafbare Handlung des Beschuldigten oder auf
+sicherzustellende Gegenstände vorgelegen. Die beiden Polizisten hätten sich
+nicht mehr an «Cannabis-Geruch» erinnern können und eine Kontrolle aus dem
+Bauchgefühl heraus gemacht. Es könne sein, dass der Beschuldigte mit seiner
+Aussage betreffend «Cannabis-Geruch» eine frühere Kontrolle meinte. Es habe
+jedenfalls bei der vorliegenden Verkehrskontrolle kein Verdacht vorgelegen,
+welcher eine Durchsuchung des Kofferraumes rechtfertigen würde (act. 65 S. 9
+f., act. 72 S. 2 und S. 3 unten).
+3.2
+Für den Fall, dass das
+Obergericht von einer rechtmässigen Durchsuchung ausgehen sollte, macht der
+Beschuldigte Nachfolgendes geltend: Entscheidend sei vorliegend die Frage, ob
+ein «Waffentragen» im Sinne des Gesetzes vorliege. Hierfür sei zwischen
+Tragen und Transportieren zu unterscheiden. Das unrechtmässige Transportieren
+von Waffen (Art. 27 Abs. 1 WG) werde in den Strafbestimmungen des
+Waffengesetzes nicht explizit aufgeführt, weshalb ein Verstoss mangels
+gesetzlicher Grundlage (Art. 1 StGB) zu keiner Bestrafung führen könne. Zudem
+liege in casu kein «Tragen» im Sinne des Gesetzes vor. Gemäss verschiedenen
+Rechtsauffassungen sei von Tragen auszugehen, wenn das Magazin bereits
+abgefüllt sei, wenn sich die Waffe in Griffnähe befinde oder – wenn sich die
+Waffe nicht in Griffnähe befinde – diese schnellstens schussbereit sei.
+Keines dieser Kriterien sei vorliegend gegeben, da sich die Soft-Air-Waffen
+zuunterst im Kofferraum befunden hätten, verdeckt durch allerlei Gegenstände,
+in der Originalverpackung, das Magazin daneben und mit einem Verschlussstück
+im Lauf. Weiter sei ein Privatfahrzeug kein öffentlich zugänglicher Ort im
+Sinne von Art. 27 Abs. 1 WG. Somit fehle es vorliegend bereits am
+objektiven Tatbestandsmerkmal des Tragens an öffentlich zugänglichen Orten
+(act. 65 S. 9-12, act. 72 S. 3-4). Schliesslich habe der Beschuldigte nicht
+mit Wissen und Willen gehandelt, er habe die Soft-Air-Waffen schlicht im Auto
+vergessen und wollte diese nicht ständig mit sich führen. Dies sei auch
+nachvollziehbar, denn der Kofferraum sei ja zum Bersten voll mit diversen
+Gegenständen gewesen (act. 48/3) und die Soft-Air-Waffen hätten zuunterst,
+verdeckt durch diverse Gegenstände gelegen (act. 65 S. 11,
+act. 72 S. 4).
+3.3
+Aufgrund all dieser
+Umstände sei der Beschuldigte freizusprechen. Die Vorstrafe aus dem Jahr 2015
+sei nicht zu widerrufen, da selbst wenn es heute zu einer Verurteilung käme,
+es sich vorliegend um ein absolutes Bagatelldelikt handle. Es liege ein
+einmaliger Verstoss vor. Zudem handle es sich um einen leichten Fall, da es
+lediglich um zwei Soft-Air-Waffen ginge, die keine lebensgefährlichen
+Verletzungen verursachen könnten. Die Gefährlichkeit von Soft-Air-Waffen
+bestünde in der Verwechslungsgefahr mit echten Waffen. Hierzu habe der
+Beschuldigte die Soft-Air-Waffen aber gar nicht gebraucht und er habe mit
+diesen auch nicht auf die beiden Polizeifunktionäre gezielt oder ähnliches.
+Die Soft-Air-Waffen hätten zuunterst im Kofferraum in der Originalverpackung
+gelegen. Zudem habe der Beschuldigte nicht böswillig gehandelt (act. 65 S.
+12, act. 72 S. 5 f.).
+4.
+Es kann festgehalten
+werden, dass im vorliegenden Berufungsverfahren zunächst strittig ist, ob die
+beiden Polizeifunktionäre zur Durchsuchung des Kofferraumes des Fahrzeugs des
+Beschuldigten berechtigt waren. Daher ist nachfolgend zunächst auf die Frage
+der Rechtmässigkeit der Durchsuchung und der damit zusammenhängenden Frage
+der Verwertbarkeit der daraus erlangten Beweismittel einzugehen.
+IV.
+Rechtmässigkeit der Durchsuchung
+1.
+Nach Art. 21
+Abs. 1 lit. d PolG darf die Kantonspolizei Fahrzeuge, Behältnisse und andere
+Gegenstände unter anderem öffnen und durchsuchen, wenn der Verdacht besteht,
+dass sich darin Tiere oder Gegenstände befinden, die sicherzustellen sind.
+Die Durchsuchung von Sachen soll zum Auffinden von Gegenständen führen. Die
+Polizei darf eine Sache durchsuchen, wenn Tatsachen die Annahme rechtfertigen,
+dass Gegenstände mitgeführt werden, die sichergestellt werden dürfen. Die
+Polizei kann eine Sache sicherstellen, um eine unmittelbar drohende Gefahr
+abzuwehren. Das aufgrund öffentlich-rechtlicher Vorschriften unbefugte Tragen
+bzw. Mitführen von Waffen stellt bspw. eine gegenwärtige Gefahr dar (
+Baumann
+, Aargauisches Polizeigesetz,
+Praxiskommentar, Zürich/Basel/Genf 2006, S. 212 Rz. 507). Der Verdacht
+im Sinne von Art. 21 Abs. 1 lit. d PolG ist nicht als konkreter Tatverdacht
+zu verstehen. Gemeint ist vielmehr, dass die Durchsuchung nicht anlassfrei
+erfolgen soll. Es genügt eine minimale Verdachtslage. Insbesondere
+Bemerkungen oder Verhaltensweisen des Betroffenen können die Annahme, dass
+sicherzustellende Gegenstände mitgeführt werden, rechtfertigen. Auch eigene
+Wahrnehmungen der Polizei können als Indizientatsachen eine Durchsuchung
+rechtfertigen. Typisch für Durchsuchungshandlungen ist unter anderem die
+Durchsuchung nach Waffen oder anderen gefährlichen Gegenständen (
+Maurer
+, in: Donatsch/Jaag/Zimmerlin [Hrsg.],
+Kommentar zum Polizeigesetz des Kantons Zürich, Zürich/Basel/Genf 2018,
+S. 459 Rz. 10, S. 462 Rz. 15 und S. 470 Rz. 6;
+Baumann
+, a.a.O., S. 207 Rz. 489 und S. 208 f.
+Rz. 494;
+Albertini
+,
+Polizeigesetz und Polizeiverordnung des Kantons Graubünden, Zürich/Basel/Genf
+2013, S. 109 Rz. 8 und Rz. 11, S. 111 Rz. 4).
+2.
+2.1
+Der Beschuldigte sagte
+vor Vorinstanz aus, anlässlich der besagten Verkehrskontrolle hätten die
+Polizisten die Fahrzeugpapiere kontrolliert, den Zustand der Reifen
+kritisiert und dann das Fahrzeuginnere durchsucht. Das Fehlen der
+Autoapotheke hätten die beiden Polizisten nicht bemängelt und das
+Pannendreieck sei an der Heckklappe des Kofferraumes befestigt gewesen (act.
+13 S. 5 Fragen 18-21). Vor Obergericht gab der Beschuldigte an, er sei
+am besagten Abend von der Polizei angehalten worden. Die beiden Polizisten
+hätten ihm mitgeteilt, dass er mit diesem Auto nicht fahren dürfe, da die
+Reifen abgefahren seien. Da er «vom Fach» sei, habe er jedoch gewusst, dass
+dies nicht stimme. Der Polizist habe dann die Reaktion seiner Pupillen
+mittels Taschenlampe getestet; es sei alles in Ordnung gewesen. Dennoch habe
+der Polizist noch ins Autoinnere schauen wollen. Nachdem der Kofferraumdeckel
+geöffnet worden sei, habe der Polizist – nachdem er die zuoberst liegenden
+Badeshorts mit Cannabis-Muster entdeckt habe – gesagt, es rieche im
+Kofferraum nach Cannabis. Daraufhin sei die Durchsuchung erst richtig
+losgegangen. Er habe aber weder im Kofferraum noch sonst wo je Cannabis oder
+ähnliches gelagert (act. 68 S. 5 f. Frage 17).
+2.2
+Anlässlich seiner
+Befragung in der Berufungsverhandlung (act. 69) gab der Polizeifunktionär
+M.______ zu Protokoll, am besagten Tag habe er mit seinem Kollegen L.______
+eine allgemeine Verkehrskontrolle durchgeführt. Der Standort an der
+Verzweigung […] in [...] sei deshalb gewählt worden, da bekannt sei, dass der
+Weg über den […] immer wieder als «Schleichweg», d.h. zur Umfahrung der
+Hauptstrasse, gewählt werde, wenn jemand beispielsweise unter Alkoholeinfluss
+ein Fahrzeug lenke oder sonst etwas zu verbergen habe (S. 3 Fragen 7-8). Es
+komme zudem öfters vor, dass ein Fahrzeug einer Kontrolle unterzogen werde,
+wenn es bereits am «Eindunkeln» sei und die Kontrolle an einem bekannten
+«Schleichweg» stattfinde (S. 5 Frage 13).
+Er (M.______) und sein Kollege
+hätten sich am besagten Abend an der Strasse positioniert und dann das erste
+sich nähernde Fahrzeug stichprobenmässig angehalten, wobei es sich um das
+Fahrzeug des Beschuldigten gehandelt habe. Er habe dann den Führausweis des Beschuldigten
+kontrolliert, der in Ordnung gewesen sei. Aufgrund des Verhaltens des
+Beschuldigten anlässlich der Kontrolle, der gesamten Umstände, insbesondere
+auch wegen des Standorts der Kontrolle, sowie seines Bauchgefühls habe er
+eine Kontrolle des Fahrzeuges gestützt auf das Polizeigesetz durchgeführt;
+wobei denn auch zwei Soft-Air-Waffen entdeckt worden seien (S. 3 Fragen 7-8).
+Diese beiden Soft-Air-Waffen hätten sich im Kofferraum des Fahrzeugs des
+Beschuldigten, verdeckt unter anderen Gegenständen (Kleidung etc.) befunden
+(S. 5 f. Fragen 15-17). Er wisse nicht mehr, ob die Kiste, in welcher sich
+die beiden Soft-Air-Waffen befanden, erst durch die Durchsuchung des
+Kofferraums zu Tage getreten oder ob diese bereits zuvor (zumindest
+teilweise) zu sehen gewesen sei (S. 4 Frage 10). Ob es – wie vom
+Beschuldigten anlässlich der Berufungsverhandlung vorgetragen (vgl. oben
+E. IV.2.1) – im Fahrzeug desselben damals nach Cannabis gerochen habe, wisse
+er nicht mehr (S. 6 Frage 18).
+2.3
+Auch der als Zeuge in
+der Berufungsverhandlung befragte Polizeifunktionär L.______ gab zu Protokoll
+(act. 70), am besagten Tag habe es sich bei der Kontrolle des Beschuldigten
+um eine allgemeine Verkehrskontrolle, d.h. um eine Stichkontrolle, gehandelt
+(S. 3 Fragen 7-8). Er sei bei der hier interessierenden Kontrolle in der
+«sichernden Position» gewesen, d.h. sein Kollege M.______ habe diese
+durchgeführt und entschieden, wie weit die Kontrolle auszudehnen sei. Er
+(L.______) habe lediglich «gesichert». Er wisse nicht mehr, wie es dazu
+gekommen sei, dass der Kofferraum geöffnet und durchsucht wurde. Er nehme
+aber an, dies sei aufgrund der Uhrzeit, der Tatsache, dass das Fahrzeug des
+Beschuldigten mit einem Händlerschild versehen war, und aufgrund des
+Verhaltens des Lenkers geschehen. Ein Anfangsverdacht habe aber sicher
+bestanden, ansonsten hätte keine Durchsuchung des Kofferraumes stattgefunden.
+Er (L.______) meine, dass sein Kollege M.______ die Durchsuchung des
+Kofferraumes aufgrund eines Verdachts in Richtung Betäubungsmittel veranlasst
+habe (S. 4 Frage 10 und S. 7 Frage 21). Er könne sich weiter nicht
+mehr daran erinnern, ob der Koffer mit den Soft-Air-Waffen zu sehen gewesen
+war, als der Kofferraumdeckel geöffnet wurde oder ob zuerst die Decke bzw.
+Kleidungsstücke auf die Seite geräumt werden mussten (S. 6 Frage 18).
+Gestützt auf das Polizeigesetz
+und einen Anfangsverdacht, dass sich sicherzustellende Gegenstände bei einer
+Person oder in einem Fahrzeug befinden, sei es zulässig, ein Fahrzeug zu
+durchsuchen. Präventiv zu wirken sei ein grosser Teil des Polizeiberufes (S.
+3 f. Frage 9). Damit die Polizei Straftaten verhindern könne seien
+Fahrzeugkontrollen notwendig. Schliesslich seien denn beim Beschuldigten ja
+auch Soft-Air-Waffen gefunden worden, deren Tragen aufgrund ihrer Verwechslungsgefahr
+mit echten Waffen verboten sei (S. 5 f. Frage 16).
+3.
+3.1
+Es sind vorliegend
+keine Umstände ersichtlich, welche an der Glaubwürdigkeit des Beschuldigten
+oder der beiden Polizeifunktionäre respektive der Glaubhaftigkeit ihrer
+Aussagen Zweifel aufkommen lassen würden.
+Da die besagte
+Verkehrskontrolle vom 6. Oktober 2016 bereits mehr als vier Jahre
+zurückliegt ist es nachvollziehbar, dass sich die beiden Polizisten nicht
+mehr in jedem Detail an diese erinnern können. Die beiden Polizeifunktionäre
+haben sich betreffend die Durchsuchung des Kofferraumes auf ihren auf den
+konkreten Umständen basierenden Gesamteindruck, insbesondere der Kontrollort
+als bekannter «Schleichweg», die Tatsache, dass das Fahrzeug des
+Beschuldigten mit einem Händlerschild versehen war und um 21.10 Uhr – und
+somit zu einem Zeitpunkt, in welchem Autogaragen geschlossen haben –
+angehalten wurde, der Umstand, dass sich im Kofferraum des mit einem
+Händlerschild versehenen Fahrzeugs des Beschuldigten etliche private Gegenstände
+befanden (act. 48/3), das Verhalten des Beschuldigten sowie den Verdacht in
+Richtung Betäubungsmittel, und ihre Berufserfahrung gestützt. Angesichts der
+geschilderten Umstände hatten die beiden Polizeifunktionäre das Gefühl, dass
+etwas «nicht in Ordnung» war (vgl. oben E. IV.2.2 f.). Dieses subjektive
+Empfinden zusammen mit den objektiven Anhaltspunkten (Standort und Uhrzeit
+der Kontrolle, Händlerschild, Kofferraum voll mit privaten Gegenständen,
+angeblicher Cannabis-Geruch gemäss Aussagen des Beschuldigten) führten zur
+Durchsuchung des Kofferraumes des Fahrzeugs des Beschuldigten. Dies ist nicht
+zu beanstanden. Schliesslich wurden denn ja auch zwei sicherzustellende
+Soft-Air-Waffen im Kofferraum des Beschuldigten aufgefunden. Die Durchsuchung
+von Sachen bzw. Fahrzeugen nach Waffen oder Betäubungsmittel ist sodann eine
+übliche Handlung nach Art. 21 PolG (vgl. oben E. IV.1). Eine
+wirksame Kontrolle der Einhaltung des Waffen- bzw. Betäubungsmittelgesetzes
+bedingt denn auch das Recht, derartige Durchsuchungen vorzunehmen. Ohne diese
+könnte bspw. der Schutz vor missbräuchlicher Verwendung von Waffen nicht
+gewährleistet werden (vgl. Art. 1 Abs. 1 WG).
+3.2
+Schliesslich verlangt
+das Verhältnismässigkeitsprinzip (Art. 36 Abs. 3 BV), dass eine Massnahme für
+das Erreichen des im öffentlichen oder privaten Interesse liegenden Zieles
+geeignet und erforderlich ist und sich für die Betroffenen in Anbetracht der
+Schwere der Grundrechtseinschränkung als zumutbar erweist. Es muss eine
+vernünftige Zweck-Mittel-Relation vorliegen. Eine Massnahme ist
+unverhältnismässig, wenn das angestrebte Ziel mit einem weniger schweren
+Grundrechtseingriff erreicht werden kann (BGE 140 I 2, E. 9.2.2 mit
+Hinweisen). Die Durchsuchung des Kofferraumes des Fahrzeugs des Beschuldigten
+erscheint für die im öffentlichen Interesse liegende Kontrolle betreffend
+Einhaltung des Waffen- bzw. des Betäubungsmittelgesetzes ohne Weiteres
+geeignet. Schliesslich war es dem Beschuldigten auch zumutbar, die
+Durchsuchung des Kofferraumes zu dulden. Die Prüfung der Einhaltung des
+Waffen- bzw. Betäubungsmittelgesetzes ist für die öffentliche Sicherheit von
+grosser Bedeutung, weshalb die Durchsuchung auch erforderlich war.
+3.3
+Aufgrund des soeben
+Ausgeführten bestand bei den beiden Polizeifunktionären in nachvollziehbarer
+Weise die (minimale) Verdachtslage, dass sich ein sicherzustellender
+Gegenstand im Fahrzeug des Beschuldigten befand, vielleicht eine Waffe oder
+Betäubungsmittel. Dies ist – entgegen der Vorinstanz – für die Erfüllung des
+Tatbestandsmerkmals eines Verdachts nach Art. 21 Abs. 1 lit. d PolG als
+hinreichend zu betrachten. Zudem war die Durchsuchung verhältnismässig. Somit
+waren die beiden Polizeifunktionäre zur Durchsuchungshandlung berechtigt und
+erfolgte diese damit rechtmässig. Somit sind auch die dadurch erlangten
+Beweismittel (Fund der beiden Soft-Air-Waffen samt Munition und Geständnis
+des Beschuldigten) entgegen der vorinstanzlichen Auffassung verwertbar.
+Nachfolgend ist deshalb auf die dem Beschuldigten in der Anklageschrift
+vorgeworfenen Widerhandlungen gegen das Waffengesetz einzugehen.
+V.
+Sachverhalt Widerhandlungen gegen das Waffengesetz
+1.
+Anklagevorwurf
+Gemäss Anklagesachverhalt (act.
+3) führte der Beschuldigte am Dienstag, 6. Oktober 2016, ca. um
+21.10 Uhr, im Kofferraum des Personenwagens, Kontrollschild […], zwei
+Soft-Air-Pistolen sowie die dazugehörende Munition mit, als er anlässlich
+einer allgemeinen Verkehrskontrolle in [...], Verzweigung […], von
+Polizeifunktionären angehalten und kontrolliert wurde (S. 3 Rz. 1). Der
+Beschuldigte erwarb und besass die beiden vorgenannten Soft-Air-Waffen ca.
+seit 2014. Er hatte diese Waffen von einer Privatperson namens […] erhalten,
+wobei kein Waffenübertragungsvertrag im Sinne von Art. 11 WG erstellt und
+unterzeichnet worden ist. Der Beschuldigte ist grundsätzlich geständig, sich
+in den vorgenannten Punkten strafbar gemacht zu haben (S. 3 Rz. 2).
+2.
+Standpunkte des Beschuldigten
+Der Beschuldigte bestreitet auch
+vor Obergericht nicht, dass sich die beiden ihm gehörenden Soft-Air-Waffen
+samt Munition anlässlich der besagten Verkehrskontrolle in seinem Fahrzeug
+befanden und dass er über keine Waffentragbewilligung bzw. über keinen
+schriftlichen Kaufvertrag verfügt. Er macht lediglich rechtliche
+Ausführungen, weshalb der Anklagesachverhalt keine Widerhandlungen gegen das
+Waffengesetz darstellen solle (vgl. zum Ganzen E. III.3 vorstehend).
+3.
+Beweisgrundsätze
+3.1
+Jede Person gilt bis
+zu ihrer rechtskräftigen Verurteilung als unschuldig (Art. 10
+Abs. 1 StPO). Nach Art. 10 Abs. 2 StPO würdigt das Gericht die
+Beweise frei nach seiner aus dem gesamten Verfahren gewonnenen Überzeugung.
+Bestehen unüber­windliche Zweifel an der Erfüllung der tatsächlichen
+Voraussetzungen der angeklag­ten Tat, so geht das Gericht von der für die
+beschuldigte Person günstigeren Sach­lage aus (
+in dubio pro reo
+;
+Art. 10 Abs. 3 StPO).
+3.2
+Die Feststellung des
+tatbestandserheblichen Sachverhalts verläuft in mehreren Schritten (siehe zum
+Ganzen sinngemäss: BGE 144 IV 345, E. 2.2.3.1 – E. 2.2.3.3 mit
+zahlreichen Hinweisen). In einem ersten Schritt sind sämtliche prozessual
+zulässigen Beweismittel zu erfas­sen und ist das so erlangte Beweismaterial
+auf seine grundsätzliche Eignung und Qualität hin zu beurteilen: Einerseits
+müssen die einzelnen Beweismittel ihrer Natur und ihrer Aussage nach
+tatsächlich zur Klärung der konkreten Tatfragen beitragen können
+(Beweiseignung). Andererseits muss ihr grundsätzlicher Beweiswert fest­stehen
+(z.B. anhand von Glaubhaftigkeitskriterien für Zeugenaussagen oder von
+methodischen Anforderungen an forensische Gutachten). Sodann hat das Gericht
+in einem nächsten Schritt die als relevant erkannten Bewei­se
+frei
+zu
+würdigen. Dabei sind einzelne Beweismittel nicht isoliert zu beurteilen und
+können daher einzelne Beweismittel auch nicht quasi in dubio pro reo
+ausgeblendet werden. Ergibt sich dem Gericht im Rahmen dieser Beweis­würdigung
+ein zwiespältiges, widersprüchliches, unkla­res und/oder höchst diffuses und
+nebu­löses Gesamtbild, so ist ein Freispruch unumgänglich. Erscheint jedoch
+das Beweisergebnis (Gesamtbild) in Hinsicht auf den Anklage­sachverhalt
+einschlägig, so ist dieses
+Resultat der Beweisauswertung
+dahinge­hend
+zu beurteilen, ob sich auf dessen Grund­lage diejenigen Tatsachen erstellen
+lassen, aus denen sich das Tatsachenfunda­ment eines Schuldspruchs zusammen­setzt.
+Erst jetzt, in diesem letzten Stadium der Sachverhaltsfeststellung, gelangt
+die Regel
+in dubio pro reo
+zur Anwendung. Der In-dubio-Grundsatz
+betrifft dabei kon­kret die Frage des erforderlichen Beweismasses, indem
+nämlich der Grundsatz ver­langt, dass ein Sachverhalt nach Überzeugung des
+Gerichts mit an Sicherheit gren­zender Wahrscheinlichkeit erstellt sein muss,
+damit er dem Beschuldigten zur Last gelegt werden kann. Eine entsprechende
+Wahr­scheinlichkeit liegt vor, wenn die rich­terliche Überzeugung, dass sich
+ein Sach­verhalt in bestimmter Weise verwirk­licht hat, auf einem jeden
+vernünftigen Zweifel ausschliessenden Urteil eines besonne­nen und
+lebenserfahrenen Beobachters beruht. Bloss abstrakte und theore­tische Zweifel
+sind hingegen nicht massgebend, weil solche immer möglich sind und abso­lute
+Gewissheit nicht verlangt werden kann (
+BGE 144 IV
+345, E. 2.2.1
+).
+4.
+Beweismittel
+4.1
+Einvernahmen des Beschuldigten
+4.1.1
+Der Beschuldigte war
+bei der polizeilichen Einvernahme vom 23. Oktober 2016 (act. 2/2/2)
+geständig betreffend den unrechtmässigen Erwerb und Transport der beiden bei
+ihm anlässlich der Verkehrskontrolle vom 6. Oktober 2016 gefundenen
+Soft-Air-Waffen (S. 5 Fragen 27-31). Er gab an, die beiden gefundenen
+Soft-Air-Waffen samt dazugehörender Munition würden ihm gehören. Er habe
+diese vor ungefähr zwei Jahren von einem Arbeitskollegen erworben, um auf
+einem Parkplatz auf Büchsen zu schiessen. Er sei davon ausgegangen, dass es
+sich um Spielzeuge handelt. Er sei sich nicht bewusst gewesen, dass solche
+Waffen unter das Waffengesetz fielen. Man erkenne ja auf den ersten Blick,
+dass es sich um Plastikwaffen handle; echte Waffen seien aus Metall und
+hätten daher einen leichten Metallschimmer (S. 2 f. Fragen 1-16 und S. 4
+Fragen 18-19). Er verfüge weder über eine Bewilligung zum Erwerb solcher
+Waffen noch eine Tragebewilligung. Er sei sich auch nicht bewusst gewesen,
+dass eine solche Bewilligung nötig gewesen wäre (S. 3 Frage 17 und S. 4
+Fragen 20 und 23). Die Soft-Air-Waffen hätten sich einfach noch im Fahrzeug
+befunden, da er damit vor ungefähr drei Monaten auf einem Parkplatz auf
+Büchsen geschossen habe (S. 4 Fragen 21-22).
+4.1.2
+Anlässlich der
+vorinstanzlichen Hauptverhandlung vom 16. Mai 2018 führte der Beschuldigte
+aus, er habe die beiden Soft-Air-Waffen ca. 1.5 Jahren vor der besagten
+Verkehrskontrolle von einem Arbeitskollegen erworben und dann einfach im
+Kofferraum seines Fahrzeuges verstaut und nie mehr rausgenommen. Sein
+Fahrzeug würde er nicht oft benutzen, daher auch das Händlerschild; für die
+Fahrten zum Arbeitsplatz nehme er jeweils das Fahrzeug seines Vaters. Er sei
+bei der Verkehrskontrolle selber erschrocken, dass sich die Soft-Air-Waffen
+noch im Kofferraum befunden hätten. Er habe nicht gewusst, dass deren Besitz
+strafbar sei; für ihn handle es sich um Spielzeuge (act. 13 S. 3 ff.
+Fragen 9, 10, 13, 25; act. 12, 6’57’’-7’26’’ CD). Das letzte Mal habe er die
+Soft-Air-Waffen ca. 2-3 Monate vor der Verkehrskontrolle in der […] des
+Vaters benutzt (act. 13 S. 4 Frage 14). Schliesslich gab er an, die
+beiden Soft-Air-Waffen seien nicht offen im Kofferraum gelegen, sondern seien
+durch andere Sachen verdeckt gewesen (act. 13 S. 6 Fragen 23-24).
+4.1.3
+Vor Obergericht gab
+der Beschuldigte an, er habe die beiden Soft-Air-Waffen gekauft, um «zum
+Spass» auf dem Parkplatz auf Büchsen zu schiessen. Er habe diese Waffen nie
+als richtige Waffen wahrgenommen, man habe diese ja früher an jeder «Chilbi»
+kaufen können und es sei nie ein Problem gewesen. Für ihn seien die Waffen
+einfach ein Spielzeug. Er habe die Waffen in einem Korb zuunterst im
+Kofferraum, verdeckt durch andere Gegenstände, in der Originalverpackung, mit
+einem Verschlussstöpsel im Lauf und ohne abgefüllte Munition gelagert und sie
+eigentlich gar nie gebraucht (act. 68 S. 6 f. Fragen 18-21).
+4.2
+Einvernahme der beiden Polizeifunktionäre
+4.2.1
+Der
+Polizeifunktionär L.______ sagte vor Obergericht aus, er habe zusammen mit
+einem Kollegen die besagte Verkehrskontrolle durchgeführt und dabei nach
+einer Durchsuchung des Kofferraumes des Fahrzeugs des Beschuldigten die
+beiden Soft-Air-Waffen samt Munition entdeckt (vgl. zum Ganzen oben E.
+IV.2.3). Er könne sich nicht mehr genau daran erinnern, ob der Koffer mit den
+Soft-Air-Waffen zumindest teilweise zu sehen gewesen war, als der
+Kofferraumdeckel geöffnet wurde, oder ob zuerst die Decke bzw.
+Kleidungsstücke auf die Seite geräumt werden mussten (act. 70 S. 6 Frage 18).
+Die Soft-Air-Waffen hätten sich aber mutmasslich irgendwo im linken hinteren
+Bereich unter den Gegenständen im Kofferraum befunden (act. 70 S. 4
+Frage 11).
+4.2.2
+Auch der
+Polizeifunktionär M.______ gab anlässlich der Berufungsverhandlung an, bei
+der besagten Verkehrskontrolle hätten er und sein Kollege im Fahrzeug des
+Beschuldigten zwei Soft-Air-Waffen samt Munition entdeckt (act. 69 S. 3 Frage
+7). Diese beiden Soft-Air-Waffen hätten sich im Kofferraum des Fahrzeugs des
+Beschuldigten, verdeckt unter anderen Gegenständen (Kleidung etc.) befunden
+(S. 5 f. Fragen 15-17). Er wisse nicht mehr, ob die Kiste, in welcher sich
+die beiden Soft-Air-Waffen befanden, erst durch die Durchsuchung des
+Kofferraums zu Tage getreten oder ob diese bereits zuvor (zumindest
+teilweise) zu sehen gewesen sei (S. 4 Frage 10; vgl. zum Ganzen oben E.
+IV.2.2).
+4.3
+Weitere im Recht liegende Beweismittel
+Des Weiteren liegen die von den
+beiden Polizeifunktionären anlässlich der besagten Verkehrskontrolle
+erstellten Fotoaufnahmen im Recht (act. 48/1-17).
+5.
+Würdigung der Beweismittel
+5.1
+Der Beschuldigte hat von Beginn weg
+anerkannt, dass sich anlässlich der Verkehrskontrolle vom 6. Oktober 2016
+zwei ihm gehörende Soft-Air-Waffen samt Munition in seinem Fahrzeug befanden
+(act. 2/2/2 S. 2 ff. Fragen 1 ff.). Er scheint davon ausgegangen zu
+sein, dass es sich lediglich um Spielzeuge handelt, welche nicht unter das
+Waffengesetz fallen. Entsprechend habe er auch nicht gewusst, dass er eine
+Waffentragbewilligung bzw. einen schriftlichen Vertrag zum Erwerb benötigt
+hätte. Nachdem ihm aufgrund der besagten Verkehrskontrolle und der
+polizeilichen Einvernahme klar wurde, dass die beiden Soft-Air-Waffen unter
+das Waffengesetz fallen und eine entsprechende Waffentragbewilligung bzw. ein
+schriftlicher Vertrag zum Erwerb notwendig wäre, zeigte sich der Beschuldigte
+geständig,
+diese Gegenstände unrechtmässig erworben und transportiert
+zu haben (act. 2/2/2 S. 5 Fragen 27-31).
+5.2
+Es sind vorliegend
+keine Umstände ersichtlich, welche an der Glaubwürdigkeit des Beschuldigten
+bzw. der Glaubhaftigkeit seiner Aussagen Zweifel aufkommen lassen würden. Es
+ist davon auszugehen, dass er die beiden Soft-Air-Waffen samt Munition nach
+Erwerb von seinem Arbeitskollegen (ohne Abschluss eines schriftlichen
+Vertrags) in das am 6. Oktober 2016 kontrollierte Fahrzeug gelegt und dieses
+danach nur noch wenig gefahren hat, deshalb auch das Händlerschild und die
+Fahrten zur Arbeit mit dem Auto des Vaters. Es muss weiter als erstellt
+gelten, dass im Kofferraum des Fahrzeugs des Beschuldigten ein Chaos
+herrschte (act. 48/3) und sich darin etliche Gegenstände, darunter auch die
+beiden Soft-Air-Waffen samt Munition, befanden. Zudem ist aufgrund der
+Aussagen des Beschuldigten, der beiden Polizisten sowie der im Recht
+liegenden Fotoaufnahmen des Kofferraums des Beschuldigten (act. 48/3)
+unbestritten, dass die beiden Soft-Air-Waffen (zumindest teilweise) durch
+andere Gegenstände verdeckt im Kofferraum lagen. Schliesslich ist aufgrund
+der von der Kantonspolizei anlässlich der Verkehrskontrolle erstellten
+Fotoaufnahmen davon auszugehen, dass sich die beiden Soft-Air-Waffen, wie vom
+Beschuldigten angeben, in der Originalverpackung befanden (act. 48/1, 48/4-5,
+48/10-11) und zumindest in einer der beiden sogar noch ein roter Verschluss
+steckte (act. 48/1, 48/5, 48/6). All dies lässt darauf schliessen, dass der
+Beschuldigte die beiden Soft-Air-Waffen tatsächlich nur selten benutzte
+(gemäss Aussagen des Beschuldigten zuletzt ca. 2-3 Monate vor der besagten
+Verkehrskontrolle).
+5.3
+Aufgrund der soeben
+erwähnten Umstände (Fahrzeug mit Händlerschild und selten benutzt, Chaos im Kofferraum,
+Soft-Air-Waffen durch diverse andere Gegenstände verdeckt, in
+Originalverpackung ohne eingesetztes Magazin und mit Bezug auf eine
+Soft-Air-Waffe mit rotem Verschlussstöpsel) ist zugunsten des Beschuldigten
+davon auszugehen, dass er – wie von ihm vorgetragen – die beiden
+Soft-Air-Waffen selten benutzt und im Kofferraum vergessen hatte. Dies ist
+nachfolgend bei der rechtlichen Würdigung zu beachten (vgl. E. VI.2.2.2
+nachstehend).
+5.4
+Der in der
+Anklageschrift (act. 3) dargestellte Sachverhalt kann gemäss den obigen
+Ausführungen somit als erstellt gelten, weshalb davon auszugehen ist, dass
+der Beschuldigte die beiden Soft-Air-Waffen ohne Abschluss eines
+schriftlichen Vertrags erwarb und diese ohne Waffentragbewilligung in seinem
+Fahrzeug mitführte.
+VI.
+Rechtliche Würdigung
+1.
+Vorbemerkungen
+1.1
+Mit Freiheitsstrafe bis zu drei
+Jahren oder Geldstrafe wird unter anderem bestraft, wer
+(eventual-)vorsätzlich ohne Berechtigung Waffen trägt (
+Art. 33
+Abs. 1 lit. a WG;
+Bundesstrafgericht
+SK.2018.13 Urteil vom 5. September 2018, E. 12.1.7
+). Handelt der Täter fahrlässig, so ist die Strafe
+Busse. In leichten Fällen kann von einer Bestrafung abgesehen werden
+(Art. 33 Abs. 2 WG).
+1.2
+Als Waffen gelten gemäss
+Art. 4 Abs. 1 WG
+unter anderem Imitations-, Schreckschuss
+und Soft-Air-Waffen, die aufgrund ihres Aussehens mit echten Feuerwaffen
+verwechselt werden können (lit. g). Nach
+Art. 6 WV
+sind Druckluft-, CO2-, Imitations-, Schreckschuss- und Soft-Air-Waffen mit
+Feuerwaffen verwechselbar, wenn sie auf den ersten Blick echten Feuerwaffen
+gleichen, und zwar unabhängig davon, ob eine Fachperson oder sonst jemand
+nach kurzer Prüfung die Verwechselbarkeit erkennt. Als Munition gilt
+Schiessmaterial mit einer Treibladung, deren Energie durch Zündung in einer
+Feuerwaffe auf ein Geschoss übertragen wird (
+Art. 4
+Abs. 5 WG
+). Für die Strafbarkeit nach Art. 33 Abs. 1 lit. a WG ist die
+Funktionsbereitschaft oder -tauglichkeit einer Waffe unerheblich. Selbst mit
+einer objektiv betrachtet harmlosen Soft-Air-Waffe können Menschen bedroht
+bzw. zu gefährlichen Abwehr- oder Fluchtreaktionen veranlasst werden. Deshalb
+werden auch solche Gegenstände sowie echte Waffen, die nicht geladen oder
+nicht funktionsfähig sind, vom Tragverbot erfasst (BBl 2006, S. 2713 ff., S.
+2741 f.).
+1.3
+Die beim Beschuldigten anlässlich der besagten
+Verkehrskontrolle gefundenen Soft-Air-Waffen fallen unstrittig unter das
+Waffengesetz (Art. 4 Abs. 1 lit. g WG i.V.m. Art. 6 WV).
+Strittig
+ist vorliegend, ob das «Mit-sich-führen» solcher Soft-Air-Waffen im Fahrzeug
+unter das «Waffentragen» im Sinne des Gesetzes fällt und damit strafbar im
+Sinne von Art. 33 Abs. 1 lit. a WG ist, oder ob es sich dabei um straffreies
+Mitführen bzw. Transportieren handelt, wie dies der Beschuldigte vor
+Obergericht vorbringt (act. 65 S. 11, act. 72 S. 4 Rz. 2.b; vgl. oben
+E. III.3.2).
+2. Tragen einer Waffe ohne Waffentragbewilligung
+2.1 Objektiver Tatbestand
+2.1.1
+Wer eine Waffe an öffentlich
+zugänglichen Orten tragen oder sie transportieren will, benötigt eine
+Waffentragbewilligung (
+Art. 27 Abs. 1 WG
+). Unter den
+Begriff «öffentlich zugängliche Orte» fallen beispielsweise Fahrzeuge auf
+öffentlichen Strassen oder Parkplätzen (BGE 141 IV 132, E. 3.2.3; BGer
+6B_336/2012 Urteil vom 29. Oktober 2012, E. 3.3). Die Erteilung der Waffentragbewilligung
+ist an drei kumulative Voraussetzungen geknüpft (Art. 27 Abs. 2 WG): Erstens
+darf kein Hindernisgrund nach Art. 8 Abs. 2 WG bestehen (lit. a), zweitens
+muss der Gesuchsteller glaubhaft machen, dass er eine Waffe benötigt, um sich
+selbst, andere Personen oder Sachen vor einer tatsächlichen Gefahr zu
+schützen (lit. b), und drittens die erfolgreiche Absolvierung einer Prüfung
+über die Handhabung von Waffen und über die Kenntnis der rechtlichen
+Voraussetzungen des Waffengebrauchs (lit. c). Das Mitführen bzw.
+Transportieren von Waffen zu bestimmten Zwecken bedarf keiner Bewilligung
+(Art. 28 Abs. 1 WG): Keine Waffentragbewilligung ist erforderlich für
+den Transport von Waffen, insbesondere für Kurse, Übungen und Veranstaltungen
+von Schiess-, Jagd- oder Soft-Air-Waffen-Vereinen sowie von militärischen
+Vereinigungen oder Verbänden (lit. a), von und zu einem Zeughaus
+(lit. b), von und zu einem Inhaber einer Waffenhandelsbewilligung (lit.
+c), von und zu Fachveranstaltungen (lit. d) sowie bei einem Wohnsitzwechsel
+(lit. e). Der Betreffende muss dartun können, dass er die Waffe für solche
+Zwecke benötigt; nur dann darf er sie ohne Waffentragbewilligung
+transportieren. Schliesslich muss der bewilligungsfreie Transport in einem
+angemessenen zeitlichen Verhältnis zur Ausübung der Tätigkeit stehen. Eine
+Waffe darf nur so lange ohne Waffentragbewilligung mitgeführt werden, als es
+für die Tätigkeit, die dazu berechtigt, angemessen erscheint (Art. 51 Abs. 1
+WV).
+2.1.2
+Der Gesetzeswortlaut ist klar und
+eindeutig. Grundsätzlich ist für das Tragen oder Transportieren einer Waffe
+eine Waffentragbewilligung erforderlich (Art. 27 Abs. 1 WG). Nur wenn
+einer der klar umschriebenen Transportzwecke von Art. 28 Abs. 1 WG
+vorliegt, ist keine Waffentragbewilligung erforderlich (vorbehältlich des
+vorliegend nicht einschlägigen Art. 27 Abs. 4 WG). Zudem muss dieser
+Transportzweck (i.S.v. Art. 28 Abs. 1 WG) in einem angemessen zeitlichen
+Verhältnis stehen (vgl. soeben E. VI.2.1.1 und Art. 51 Abs. 1 WV). Aus dem
+Gesetzeswortlaut kann nicht herausgelesen werden, dass die Waffe unmittelbar
+am Körper getragen werden muss, damit eine Waffentragbewilligung erforderlich
+ist. Mit der Einführung des Begriffs «Transportieren» in Art. 27 Abs. 1 WG
+(in Kraft seit 12. Dezember 2008) hat der Gesetzgeber vielmehr
+klargestellt, dass auch das Mitführen einer Waffe in einem Fahrzeug als
+«Tragen» erfasst wird und demnach bewilligungspflichtig ist. Als
+bewilligungsfreie Ausnahme gilt nur der vorübergehende Transport einer Waffe
+zu einem legitimen Zweck nach Art. 28 Abs. 1 WG (BBl 2006, S. 2713 ff., S.
+2741; BGer 6B_336/2012 Urteil vom 29. Oktober 2012, E. 3.3;
+Bopp/Jendis
+, in: Facincani/Sutter
+[Hrsg.], Waffengesetz (WG), Stämpflis Handkommentar, Bern 2017, N 19 f.
+zu Art. 27 WG). Die vom Beschuldigten angesprochene Kontroverse um die Frage,
+ob das Tragen einer Waffe nur dann bewilligungspflichtig sei, wenn die Waffe
+einsatzbereit gehalten werde (vgl. E. III.3.2 vorstehend), fand noch unter
+altem Recht statt und hat sich gemäss obigen Ausführungen seit Hinzufügung
+des Begriffs «transportieren» in Art. 27 Abs. 1 WG stark entschärft (
+Bopp/Jendis
+, a.a.O., N 13 und 20 zu
+Art. 27 WG).
+2.1.3
+Mit der Änderung des Begriffs
+«Mitführen» zu «Transport» in Art. 28 WG (in Kraft seit 12. Dezember 2008)
+hat der Gesetzgeber verdeutlicht, dass lediglich der ziel- und
+zweckgerichtete vorübergehende Transport von Waffen bewilligungsfrei ist.
+Somit unterscheidet der Gesetzgeber zwischen bewilligungspflichtigem
+Tragen
+(Art. 27 WG) und bewilligungsfreiem
+Transport
+(Art. 28 WG; BBl
+2006, S. 2713 ff., S. 2742). Das Mitführen einer Waffe in einem Fahrzeug ohne
+Vorliegen einer bewilligungsfreien Ausnahme im Sinne von Art. 28 WG gilt als
+«Tragen» einer Waffe (BBl 2006, S. 2713 ff., S. 2741). Somit ist es
+einzig sinnrichtig, dass ein solcher Transport, der wie soeben erwähnt im
+Sinne des Gesetzes als «Tragen» zu qualifizieren ist, gemäss Art. 33
+Abs. 1 lit. a WG strafbar ist. Alles andere würde dem Sinn und Zweck des
+Gesetzes sowie dem Willen des Gesetzgebers widersprechen. Daran vermögen auch
+die Vorbringen des Beschuldigten, wonach in der Strafbestimmung von Art. 33
+Abs. 1 lit. a WG einzig von «tragen» nicht jedoch von «transportieren» die
+Rede sei (act. 72 S. 4 Rz. 2.b), nichts zu ändern.
+2.1.4
+Wie oben ausgeführt (vgl. E.
+VI.2.1.1), ist das Tatbestandsmerkmal der «öffentlich zugänglichen Orte» beim
+wie vorliegenden Mitführen von Soft-Air-Waffen in einem Fahrzeug auf
+öffentlichen Strassen gemäss bundesgerichtlicher Rechtsprechung erfüllt.
+Gemäss vorstehenden Ausführungen ist erstellt (vgl. E. V.5.1 f.), dass sich
+die beiden dem Beschuldigten gehörenden Soft-Air-Waffen anlässlich der
+besagten Verkehrskontrolle, welche auf einer öffentlichen Strasse in [...]
+stattfand,
+im Fahrzeug des Beschuldigten befanden (unbestritten, vgl. z.B. act. 13
+S. 3 f. Fragen 9 und 12-13, act. 2/2/2 S. 2 ff. Fragen 1, 3-5, 21,
+28 und 30).
+Weiter ist erstellt, dass sich die
+beiden Soft-Air-Waffen samt Munition seit längerer Zeit im Kofferraum des
+Fahrzeugs des Beschuldigten befanden (vgl. oben E. V.5.2). Ebenfalls ist
+unstrittig, dass der Beschuldigte über keine Waffentragbewilligung im Sinne
+von Art. 27 Abs. 1 WG verfügte (vgl. act. 2/2/2 S. 4 Frage 20) und
+vorliegend keine Ausnahme für einen bewilligungsfreien Transport im Sinne von
+Art. 28 Abs. 1 WG vorlag; was der Beschuldigte auch nicht geltend machte. Wie
+oben ausgeführt (vgl. E. VI.2.1.2), ist für die Strafbarkeit nach
+Art. 33 Abs. 1 lit. a WG – entgegen den Ausführungen des
+Beschuldigten – die Funktionsbereitschaft oder -tauglichkeit einer Waffe
+unerheblich, ebenso wie der Ort, an welchem sich die Waffen im Fahrzeug
+befinden.
+2.1.5
+Zusammenfassend kann festgehalten
+werden, dass das Mitführen der beiden Soft-Air-Waffen im Kofferraum des
+Fahrzeugs des Beschuldigten auf einer öffentlichen Strasse – ohne Vorliegen
+eines Ausnahmetatbestandes gemäss Art. 28 Abs. 1 WG – als Waffentragen
+im Sinne des Waffengesetzes zu qualifizieren ist. Der objektive Tatbestand
+des Waffentragens ohne Bewilligung (Art. 33 Abs. 1 lit. a WG) ist somit
+vorliegend erfüllt.
+2.2 Subjektiver Tatbestand
+2.2.1
+Der subjektive Tatbestand setzt bei
+Art. 33 Abs. 1 lit. a WG Vorsatz im Sinne von Art. 12 Abs. 2 StGB voraus,
+wobei Eventualvorsatz genügt. Handelt der Täter Fahrlässig, so ist die Strafe
+Busse (Art. 33 Abs. 2 WG).
+2.2.2
+Wie vorne ausgeführt (vgl. E. V.5.3) ist zugunsten des
+Beschuldigten davon auszugehen, dass er die beiden Soft-Air-Waffen im Auto
+vergessen hatte. Es ist daher von einer fahrlässigen Tatbegehung auszugehen.
+2.3 Fazit
+Mangels
+Vorliegens von Rechtfertigungs- oder Schuldausschlussgründen und aufgrund des
+oben Ausgeführten hat sich der Beschuldigte wegen fahrlässiger Widerhandlung
+gegen das Waffengesetz durch verbotenes Mitführen einer Waffe im Sinne von
+Art. 33 Abs. 1 lit. a und Abs. 2 WG in Verbindung mit Art. 4 Abs. 1 lit. g
+WG, Art. 27 Abs. 1 WG und Art. 6 WV strafbar gemacht. Die Berufung der
+Staatsanwaltschaft ist folglich bezüglich des Schuldpunkts insofern
+gutzuheissen, als dass der Beschuldigte wegen einer fahrlässigen
+Widerhandlung gegen das Waffengesetz schuldig zu sprechen ist.
+3. Erwerben einer Waffe ohne schriftlichen Vertrag
+3.1
+Sowohl die Staatsanwaltschaft als
+auch der Beschuldigte beantragen vor Obergericht infolge eingetretener
+Verjährung die Einstellung des Strafverfahrens
+gegen den Beschuldigten
+wegen Widerhandlung gegen das Waffengesetz durch Erwerben einer Waffe ohne
+das Abschliessen eines schriftlichen Vertrages im Sinne von Art. 34 Abs.
+1 lit. d WG i.V.m. Art. 4 Abs. 1 lit. g WG, Art. 6 WV und Art. 11 Abs. 1 und
+2 WG (act. 65 S. 3, act. 71 S. 1 Ziff. 2.2, act. 72 S. 2 i.V.m.
+act. 65 S. 9).
+3.2
+Wer eine Waffe
+erwirbt, ohne einen schriftlichen Vertrag im Sinne von Art. 11 WG
+abzuschliessen, wird mit Busse bestraft (Art. 34 Abs. 1 lit. d WG). Dabei
+handelt es sich um eine Übertretung (Art. 103 StGB), wobei die
+Strafverfolgung und die Strafe nach drei Jahren verjähren (Art. 109
+StGB). Die Verfolgungsverjährung endet mit Ausfällung eines erstinstanzlichen
+Urteils (Art. 97 Abs. 3 StGB i.V.m. Art. 104 StGB). Unter erstinstanzlichen
+Urteilen im Sinne von Art. 97 Abs. 3 StGB sind nicht nur verurteilende,
+sondern auch freisprechende Erkenntnisse zu verstehen (BGE 139 IV 62, E.
+1.5).
+3.3
+Der Beschuldigte gab
+an, die Waffe ca. 1.5 – 2 Jahre vor der Verkehrskontrolle vom 6. Oktober 2016
+von einem Mitarbeiter ohne Abschluss eines schriftlichen Vertrages erworben
+zu haben (act. 2/2/2 S. 3 f. Fragen 9 und 24, act. 13 S. 4
+Fragen 10-11). Somit fand die vorliegend interessierende Übertretung
+gegen das Waffengesetz ca. im Zeitraum vom 6. Oktober 2014 bis 6. April 2015
+statt. Die dreijährige Verjährungsfrist gemäss Art. 109 StGB endete somit
+spätestens am 6. April 2018 (Art. 97 Abs. 3 StGB i.V.m. Art. 104 StGB). Somit
+war die dreijährige Verjährungsfrist im Zeitpunkt des den Beschuldigten freisprechenden
+Urteils der Vorinstanz, d.h. am 27. Februar 2019, bereits abgelaufen
+gewesen, weshalb die Strafverfolgung schon damals verjährt war. Folglich ist
+das Strafverfahren gegen den Beschuldigten wegen Widerhandlung gegen das
+Waffengesetz durch Erwerben einer Waffe ohne das Abschliessen eines
+schriftlichen Vertrages im Sinne von Art. 34 Abs. 1 lit. d WG in Verbindung
+mit Art. 4 Abs. 1 lit. g WG, Art. 6 WV und Art. 11 Abs. 1 und 2 WG
+infolge eingetretener Verjährung antragsgemäss einzustellen.
+VII. Keine
+Fällung einer Zusatzstrafe
+1.
+Der Beschuldigte wurde
+mit Strafbefehl der
+Staatsanwaltschaft
+See
+/Oberland, Uster vom 17. Juli 2018 wegen Fahrens in
+fahrunfähigem Zustand (Art. 91 Abs. 2 lit. a SVG) zu einer bedingten
+Geldstrafe von 30 Tagessätzen zu je CHF 130.— sowie einer Busse von CHF 600.—
+rechtskräftig verurteilt (act. 77 S. 2 Ziff. 2). Die vorliegend zu
+sanktionierende Widerhandlung gegen das Waffengesetz beging der Beschuldigte
+vor dieser Verurteilung. Damit liegt ein Fall der sog. retrospektiven
+Konkurrenz gemäss Art. 49 Abs. 2 StGB vor. Demnach ist zu prüfen, ob
+vorliegend die Voraussetzungen für eine Zusatzstrafe gemäss Art. 49
+Abs. 2 StGB gegeben sind.
+2.
+Hat das Gericht eine Tat zu beurteilen, die der Täter begangen
+hat, bevor er wegen einer anderen Tat verurteilt worden ist, so bestimmt es
+die Zusatzstrafe in der Weise, dass der Täter nicht schwerer bestraft wird,
+als wenn die strafbaren Handlungen gleichzeitig beurteilt worden wären (
+Art. 49 Abs. 2 StGB; BGE 142 IV 265, E. 2.3.1).
+Die soeben zitierte Bestimmung zielt im Wesentlichen drauf ab, das
+sogenannte Asperationsprinzip (moderate Strafschärfung bei mehreren
+Straftaten anstelle einer Kumulation von Einzelstrafen) im Sinne von
+Art. 49 Abs. 1 StGB auch bei retrospektiver Konkurrenz (die erst
+jetzt zu beurteilenden Straftaten wurden vor einer früheren anderweitigen
+Verurteilung begangen) zu gewährleisten (BGE 142 IV 265,
+E. 2.3.1). Sogleich ist aber Folgendes anzufügen: Sofern der Täter
+mehrere strafbare Handlungen verübt hat, ist die hierfür konzipierte
+spezielle Strafzumessungsregel von Art. 49 Abs. 1 StGB nur
+anwendbar, soweit das Gericht für die einzelnen Straftaten auch tatsächlich
+auf die gleiche Strafart erkennt (Freiheitsstrafe bzw. Geldstrafe oder
+Busse); dies gilt auch für die Strafzumessung bei retrospektiver Konkurrenz
+(BGE 142 IV 265, E. 2.3.2). Wurde zum Beispiel der Täter im
+ersten Urteil mit einer Geldstrafe bestraft (so wie hier der Beschuldigte im
+Strafbefehl der Staats­anwaltschaft See/Oberland, Uster vom 17. Juli 2018),
+ist er dagegen für das neu zu beurteilende Delikt mit einer Busse zu belegen,
+ist folglich – losge­löst vom ersten Urteil – auf eine neue Strafe (und nicht
+eine Zusatzstrafe) zu erken­nen (siehe dazu BGE 137 IV 57, E. 4.3.1
+f. und BGE 138 IV 120, E. 5.2).
+3.
+Bei der vorliegend zu
+beurteilenden fahrlässigen Widerhandlung des Beschuldigten gegen das
+Waffengesetz (
+Art. 33 Abs. 1 lit. a und Abs. 2
+WG in Verbindung mit Art. 4 Abs. 1 lit. g WG, Art. 27 Abs. 1 WG und Art.
+6 WV)
+handelt es sich um einen Übertretungstatbestand, der mit Busse
+zu sanktionieren ist.
+4.
+Die Staatsanwaltschaft
+See/Oberland, Uster verhängte in ihrem Strafbefehl vom 17. Juli 2018 (act. 77
+S. 2 Ziff. 2) gegen den Beschuldigten eine Geldstrafe sowie eine Busse. Die
+Busse, welche vorliegend für die Widerhandlung gegen das Waffengesetz
+auszufällen sein wird, ist andersartig im Vergleich zu der im früheren
+Strafbefehl verfügten Strafe. Zwar verhängte damals die Staatsan­waltschaft
+See/Oberland, Uster eine Geldstrafe sowie eine Busse. Doch die betref­fende
+Busse ist nur ihrer Bezeichnung nach gleich wie die hier für die Übertretung
+des Waffengesetzes fällige Busse. Bei der im Strafbefehl erwähnten Busse
+handelt es sich um eine sogenannte Verbindungsbusse im Sinne von Art. 42
+Abs. 4 StGB und somit nicht um eine Busse, wie sie bei Übertretungen im
+Sinne von Art. 103 StGB als einzig mögliche Sanktion vorgesehen ist.
+Dies erhellt daraus, dass der im Strafbefehl konkret sanktionierte
+Straftatbestand des Fahrens in fahrunfähigem Zustand im Sinne von Art. 91
+Abs. 2 lit. a SVG mit Freiheits­strafe oder Geldstrafe bedroht ist; in einem
+solchen Fall ist daher eine Busse origi­när gar nicht möglich, sondern
+lediglich in der Konstellation, dass die an sich einzig mögliche Strafe
+(Freiheits- oder Geldstrafe) bedingt aufgeschoben wird (Art. 42
+Abs. 4 StGB).
+5.
+Demzufolge ist die
+Busse für die vorliegende Übertretung des Waffengesetzes, welche nachstehend
+der Höhe nach zu bestimmen ist,
+nicht
+als Zusatzstrafe zum Straf­befehl
+der Staatsanwaltschaft See/Oberland vom 17. Juli 2018 zu bezeichnen.
+VIII.
+Strafzumessung
+1.
+Der Beschuldigte verlangt vor Obergericht einen
+Freispruch von (Schuld und) Strafe, insbesondere liege ein Bagatelldelikt
+bzw. ein leichter Fall im Sinne des Gesetzes vor (vgl. zum Ganzen E. III.3.2
+f. vorstehend). Die Staatsanwaltschaft verlangt hingegen, dass der
+Beschuldigte wegen einer vorsätzlichen
+Widerhandlung gegen das
+Waffengesetz mit einer bedingten Geldstrafe von 25 Tagessätzen zu je
+CHF 70.—, bei einer Probezeit von drei Jahren, sowie einer Busse von CHF
+300.— zu bestrafen sei (act. 71 S. 1 f. Ziff. 2.3 f., vgl. auch E.
+III.2.4 vorstehend).
+2.
+2.1
+Die hier in Frage stehende Übertretung des Waffengesetzes im Sinne
+von Art. 33 Abs. 1 lit. a und Abs. 2 WG ist mit einer Busse zu
+ahnden, wobei der abstrakt mögliche Höchstbetrag CHF 10'000.— beträgt
+(Art. 106 Abs. 1 StGB). Das Gericht bemisst die Busse (sowie die
+Ersatzstrafe bei schuldhaf­ter Nichtbezahlung) je nach den Verhältnisse des
+Täters so, dass dieser die Strafe erleidet, die seinem Verschulden angemessen
+ist (Art. 106 Abs. 3 StGB). Eine Busse kann nicht bedingt
+vollziehbar ausgesprochen werden (Art. 105 Abs. 1 StGB i.V.m. Art. 42 und
+Art. 43 StGB). Ferner ist sie für den Fall, dass sie nicht bezahlt wird, in
+eine unbedingt vollziehbare Ersatzfreiheitsstrafe umzuwandeln (Art. 106 Abs.
+2 StGB).
+2.2
+Für die Festsetzung
+der Bussenhöhe ist primär das Verschulden und sind sekundär die finanziellen
+Verhältnisse des Täters massgebend. Für die Bussenbemessung ist wie bei Verbrechen
+und Vergehen das Verschulden gemäss Art. 47 StGB zu bestimmen (
+Heimgartner
+, in Niggli/Wiprächtiger
+[Hrsg.], Basler Kommentar, Strafrecht I, Art. 1-136 StGB, 4. Aufl., Basel
+2019, N 19 f. zu Art. 106 StGB m.w.H.). Innerhalb des Strafrahmens
+bemisst das Gericht die Strafe nach dem Verschulden des Täters, wobei es
+dessen Vorleben und persönliche Verhältnisse sowie die Wirkung der Strafe auf
+sein Leben berücksichtigt (Art. 47 Abs. 1 StGB). Das Verschulden
+bestimmt sich nach der Schwere der Verletzung oder Gefährdung des betroffenen
+Rechtsguts, der Verwerflichkeit des Handelns, den Beweggründen und Zielen des
+Täters sowie dem Grad, zu dem der Täter nach den inneren und äusseren
+Umständen in der Lage war, die Gefährdung oder Verletzung zu vermeiden
+(Art. 47 Abs. 2 StGB). Zu unterscheiden ist bei der Strafzumessung
+zwischen einer Tatkomponente, welche die Modalitäten des zu beurteilenden
+Delikts berücksichtigt, und einer Täterkomponente, die das Vorleben, die
+persönlichen Verhältnisse des Täters und das Verhalten des Täters nach der
+Tat sowie im Strafverfahren umfasst (BGE 141 IV 61, E. 6.1.1 und BGE 136 IV
+55, E. 5.4 ff., je m.w.H.).
+3.
+3.1
+Anlässlich der Verkehrskontrolle vom 6. Oktober
+2016 in [...] stiess die Kantonspolizei im Fahrzeug des Beschuldigten auf
+zwei Soft-Air-Waffen samt dazugehöriger Munition (act. 2/2/1 S. 2).
+Unbestritten ist, dass diese dem Beschuldigten gehören und dass er diese ohne
+Waffentragbewilligung im Sinne von Art. 27 Abs. 1 WG mit sich führte, womit
+er, wie oben ausgeführt (vgl. E. VI.2), gegen das Waffengesetz verstiess (
+Art. 33 Abs. 1 lit. a und Abs. 2 WG in Verbindung
+mit Art. 4 Abs. 1 lit. g WG, Art. 27 Abs. 1 WG und Art. 6 WV).
+3.2
+3.2.1
+Zum Tatverschulden des
+Beschuldigten ist anzumerken, dass der Beschuldigte gleich zwei Waffen ohne
+Waffentragbewilligung in seinem Fahrzeug mit sich führte. Diese befanden sich
+denn auch eine relativ lange Zeit, ca. seit 2014, in seinem Fahrzeug, welches
+er jedoch nur gelegentlich benutzte. All dies ist leicht verschuldenserhöhend
+zu gewichten. Bei diesen Waffen handelt es sich jedoch «nur» um
+Soft-Air-Waffen und nicht um echte Feuerwaffen. Deshalb wiegt die Gefährdung
+nicht besonders schwer. Der Beschuldigte bewahrte die beiden Soft-Air-Waffen
+im Kofferraum seines Fahrzeugs in der Originalverpackung, ohne eingesetztes
+Magazin und zumindest mit Bezug auf eine Soft-Air-Waffe mit Verschlussstöpsel
+im Lauf auf. Zudem waren die beiden Soft-Air-Waffen im Kofferraum durch
+diverse andere Gegenstände verdeckt. Er trug die Waffen weder an öffentlichen
+Orten direkt auf sich noch gefährdete er damit auf eine andere Art und Weise.
+So verwendete der Beschuldigte die beiden Waffen insbesondere auch nicht im
+Sinne einer Täuschung als echte Feuerwaffen und beabsichtigte dies auch
+nicht; so wollte er damit lediglich auf Büchsen schiessen. All diese Umstände
+wirken sich verschuldensmindernd aus.
+3.2.2
+Weiter ist festzuhalten, dass der
+Beschuldigte gemäss eigenen Angaben davon ausgegangen sei, es handle sich bei
+den beiden Soft-Air-Waffen lediglich um Spielzeuge. Es sei ihm nicht in den
+Sinn gekommen, dass diese unter das Waffengesetz fallen und entsprechende
+Bewilligungen notwendig sein könnten. Die durch die Tat offenbarte kriminelle
+Energie ist somit als gering einzustufen. Verschuldensmindern ist ebenfalls
+zu berücksichtigen, dass der Beschuldigte lediglich fahrlässig handelte. Das
+Tatverschulden des Beschuldigten ist bei dieser Ausgangslage somit insgesamt
+als leicht zu qualifizieren. Es darf aber nicht bagatellisiert werden. Ein
+leichter Fall im Sinne von Art. 33 Abs. 2 WG liegt vorliegend nicht vor.
+3.3
+Zum Vorleben und den persönlichen Verhältnissen des
+Beschuldigten ist bekannt, dass er am […] geboren und bis 1996 in […] und
+danach in […] aufgewachsen ist. Er besuchte die Primar- und Sekundarschule
+und machte eine Lehre als […] und eine Zusatzlehre als […]. Während zehn
+Jahren arbeitete er im Kanton Glarus, war dann fünf bis sechs Jahre
+ausserkantonal tätig und arbeitet nun wieder im Kanton Glarus bei der […], wo
+er ca. CHF 5'700.— brutto bzw. CHF 5’000.— netto verdient. Schulden hat er
+gemäss eigenen Aussagen keine. Im Jahr 2019 verfügte er über ein steuerbares
+Jahreseinkommen von CHF 59'300.— und er wies kein steuerbares Vermögen
+auf. Er ist zurzeit ledig und wohnt alleine (act. 13 S. 2 f. Fragen 4-7, act.
+68 S. 3 f. Fragen 5-11, act. 78 S. 2). Aus der Biografie und den
+Lebensumständen des Beschuldigten ergibt sich nichts für die Strafzumessung
+Relevantes. Strafmindernd ist zu berücksichtigen, dass sich der Beschuldigte
+hinsichtlich des vorliegenden Delikts von Anfang an kooperativ zeigte und
+Einsicht und Reue an den Tag legt (z.B. act. 65 S. 16 unten:
+«Hätte
+ich gewusst, dass ich solche Spielzeuge [gemeint Soft-Air-Waffen] nicht
+mitführen darf, hätte ich das nicht gemacht.»
+). Ebenso war er von Beginn
+weg geständig (act. 2/2/1 S. 2, 2/2/2), was sich grundsätzlich strafmindern
+auswirkt. Jedoch blieb ihm auch nicht viel anderes übrig. Denn er wurde
+anlässlich einer Verkehrskontrolle angehalten und dabei konnten die
+Soft-Air-Waffen im Kofferraum seines Fahrzeugs gefunden werden. Daher wirkt
+sich sein Geständnis nur leicht strafmindernd aus. In Bezug auf die
+vorliegende Widerhandlung gegen das Waffengesetz liegen keine einschlägigen
+Vorstrafen des Beschuldigten vor (act. 77). Leicht straferhöhend wirkt sich
+hingegen der Umstand aus, dass der Beschuldigte die vorliegende Widerhandlung
+gegen das Waffengesetz innert der gemäss Strafbefehl der Staatsanwaltschaft
+Glarus vom 2. November 2015 zweijährigen Probezeit beging (act. 77).
+Auch nach Begehung der vorliegend zu beurteilenden Widerhandlung delinquierte
+der Beschuldigte erneut (zwei Strassenverkehrsdelikte aus dem Jahr 2018; act.
+77). Insgesamt halten sich die strafmindernden und die straferhöhenden
+täterbezogenen Strafzumessungsgründe ungefähr die Waage.
+3.4
+Zusammenfassend kann festgehalten werden, dass das
+Tatverschulden des Beschuldigten leicht ist und sich die strafmindernden und
+die straferhöhenden täterbezogenen Strafzumessungsgründe ungefähr die Waage
+halten. Aufgrund dessen sowie im Hinblick auf die finanzielle Situation des
+Beschuldigten erscheint vorliegend eine Busse in der Höhe von CHF 600.— unter
+Würdigung aller relevanten Strafzumessungsgründe als angemessen. Schliesslich
+ist auch zu bedenken, dass beim hier praxisgemäss anwendbaren Umwandlungsbetrag
+(CHF 100.— = 1 Tag Haft) der Beschuldigte bei schuldhafter Nichtbezahlung der
+Busse eine Ersatzfreiheitsstrafe von immerhin sechs Tagen zu verbüssen hätte.
+Bei einer höheren Busse würde sich daher auch die entsprechende
+Ersatzfreiheitsstrafe erhöhen, was vorliegend angesichts der geringen
+Tatschwere nicht mehr schuldangemessen wäre.
+4.
+Für die fahrlässige Widerhandlung gegen das
+Waffengesetz
+durch verbotenes Tragen einer Waffe im Sinne von
+Art. 33 Abs. 1 lit. a und Abs. 2 WG in Verbindung
+mit Art. 4 Abs. 1 lit. g WG, Art. 27 Abs. 1 WG und Art. 6 WV
+ist
+der Beschuldigte vorliegend daher mit einer Busse
+von CHF 600.— zu bestrafen. Bei schuldhafter Nichtbezahlung der Busse
+ist diese praxisgemäss in eine Ersatzfreiheitsstrafe von sechs Tagen umzuwandeln.
+IX. Kein Widerruf der
+bedingten Gelstrafe vom 2. November 2015
+1.
+Die Staats- und Jugendanwaltschaft des Kantons
+Glarus verurteilte den Beschuldigten mit Strafbefehl vom 2. November 2015
+wegen Fahrens in fahrunfähigem Zustand (Art. 91 Abs. 2 lit. b SVG),
+Übertretung des Betäubungsmittelgesetzes (Art. 19a Ziff. 1 BetmG),
+Führens eines nicht betriebssicheren Fahrzeuges (Art. 93 Abs. 2 lit. a
+SVG) und Übertretung der Verkehrsregelverordnung (Art. 96 VRV) zu einer
+bedingt vollziehbaren Geldstrafe von 30 Tagessätzen zu je CHF 90.— und
+legte die Probezeit auf zwei Jahre fest (act. 77, act. 67). Die
+Staatsanwaltschaft beantragte im vorinstanzlichen Verfahren, es sei die
+betreffende Geldstrafe zu widerrufen (act. 3 S. 2 Ziff. 4). In ihrer
+Berufungserklärung erneuerte sie diesen Antrag (act. 23 S. 2 Ziff. 2.4),
+nachdem die Vorinstanz sich damit infolge Freispruchs nicht befasst hatte.
+Der Beschuldigte beantragt vor Obergericht, auf den Widerruf dieser bedingten
+Geldstrafe sei zu verzichten (act. 72 S. 5 Ziff. 3; vgl. auch oben E.
+III.3.3)
+2.
+2.1
+Begeht der Verurteilte während der Probezeit
+ein Verbrechen oder Vergehen und ist deshalb zu erwarten, dass er weitere
+Straftaten verüben wird, so widerruft das Gericht den bedingt gewährten
+Strafvollzug (Art. 46 Abs. 1 StGB). Der Widerruf darf allerdings
+nicht mehr angeordnet werden, wenn seit dem Ablauf der Probezeit drei Jahre
+vergangen sind (Art. 46 Abs. 5 StGB).
+2.2
+Vorliegend ist die zweijährige Probezeit gemäss
+Strafbefehl der Staatsanwaltschaft Glarus vom 2. November 2015 am 2. November
+2017 abgelaufen. Ein Widerruf des bedingten Strafvollzuges wäre somit bis
+längstens 2. November 2020 möglich gewesen. Er kann daher vom Obergericht zum
+jetzigen Zeitpunkt nicht mehr angeordnet werden. Zumal es sich vorliegend nur
+um eine Übertretung und nicht um ein Verbrechen oder Vergehen gemäss Art. 46
+Abs. 1 StGB handelt und aus dem Strafregisterauszug des Beschuldigten
+ersichtlich ist, dass die bedingt ausgesprochene Geldstrafe vom 2. November
+2015 mit Strafbefehl der Staatsanwaltschaft See/Ober-land, Uster vom 17. Juli
+2018 bereits widerrufen wurde (act. 77 S. 2).
+2.3
+Der Entscheid fiele im Übrigen selbst dann
+nicht anders aus, wenn das Kantonsgericht Glarus in seinem Urteil vom
+27. Februar 2019 (act. 19) – und damit noch innerhalb der
+Dreijahresfrist von Art. 46 Abs. 5 StGB – über den Antrag der
+Staatsanwaltschaft auf Widerruf des bedingt gewährten Strafvollzugs
+befunden
+hätte; denn massgebend für die Einhaltung der Frist ist so oder anders das
+Urteil der Berufungsinstanz (BGE 143 IV 441, E. 2.2). Einer
+analogen Anwendung von Art. 97 Abs. 3 StGB, wonach bereits ein
+erstinstanzlicher Entscheid den Fristenlauf gemäss Art. 46 Abs. 5
+StGB hemmen würde, hat das Bundesgericht verneint (BGer 6B_733/2019 Urteil
+vom 15. November 2019, E. 1.4). Aufgrund alldem ist die Berufung der
+Staatsanwaltschaft in diesem Punkt abzuweisen.
+X.
+Beschlagnahmte Soft-Air-Waffen samt dazugehöriger Munition
+1.
+Der Beschuldigte
+verlangt die Herausgabe der bei ihm beschlagnahmten Gegenstände (Soft-Air-Waffen
+und Munition, vgl. act. 2/2/3, Lagernummer 181-16). Eine Einziehung nach Art.
+69 StGB und Art. 70 StGB sei nicht nötig und die Voraussetzungen für eine
+Einziehung nach Art. 31 WG seien nicht gegeben (act. 72 S. 2
+Ziff. 2 und S. 6, act. 65 S. 3 unten). Die Staatsanwaltschaft
+verlangt hingegen die Einziehung dieser Gegenstände (act. 23 S. 2 Ziff. 2.5,
+act. 71 S. 2 Ziff. 2.6).
+2.
+Wie die Vorinstanz
+zutreffend festhielt (act. 19 S. 6 E. II.4) ist die Kantonspolizei
+Glarus gemäss Art. 3 Abs. 5 Verordnung über den Vollzug des
+Bundesgesetzes über Waffen, Waffenzubehör und Munition (GS IX B/25/5) die
+nach Waffengesetz zuständige Behörde, um über eine Beschlagnahme und
+allfällige Einziehung von Waffen nach Waffengesetz (Art. 31 WG) oder deren
+Rückgabe an den Beschuldigten zu befinden (vgl. dazu BGE 129 IV 81,
+E. 4.1 f. m.w.H. sowie z.B. Bundesstrafgericht BB.2011.87/89 Urteil vom
+23. Januar 2012, E. 2.2 f.).
+3.
+Somit
+sind die unter der Lagernummer SN 181-16 bei der Kantonspolizei
+beschlagnahmten Gegenstände (act. 2/2/3) der Kantonspolizei Glarus zu
+übergeben zwecks Entscheids betreffend Beschlagnahme und Einziehung nach Art.
+31 WG oder Rückgabe an den Beschuldigten.
+XI.
+Kosten- und Entschädigungsfolgen
+1.
+In formaler Hinsicht
+fällt das Obergericht ein neues Urteil, welches das erstinstanzliche Urteil
+ersetzt (Art. 408 StPO). Trifft die Rechtsmittelinstanz selber
+einen neuen Entscheid, so befindet sie darin auch über die von der Vorinstanz
+getroffene Kostenregelung (Art. 428 Abs. 3 StPO). Die Gerichtskosten für
+das vorinstanzliche Verfahren wie auch das Berufungsverfahren sind auf
+insgesamt CHF 3'000.— festzusetzen (Art. 6 Abs. 1 und Art. 8
+Abs. 1 lit. b Ziff. 2 der Zivil- und Strafprozesskostenverordnung
+[GS III A/5]) und ausgangsgemäss dem Beschuldigten aufzuerlegen und von
+ihm zu beziehen (Art. 428 Abs. 1 StPO). Dasselbe gilt mit Bezug auf
+die die Strafuntersuchungskosten über CHF 600.— (act. 3 S. 2 Ziff. 7).
+2.
+Zu
+den Kosten des Berufungsverfahrens zählen auch die Kosten für die amtliche Verteidigung
+(Art. 422 Abs. 2 lit. a StPO). Der Beschuldigte wurde im
+Berufungsverfahren durch seinen amtlichen Verteidiger vertreten. Die vom
+Rechtsvertreter des Beschuldigten für das Berufungsverfahren geltend
+gemachten Aufwendungen in Höhe von CHF 3'230.— (
+inkl. Auslagen und 7.7 % MwSt.)
+erscheinen als angemessen
+(act. 76/1; Art. 3 Abs. 1 i.V.m. Art. 6 Abs. 1 des
+Tarifs für die Entschädigung der öffentlichen Verteidigung und der
+unentgeltlichen Rechtsvertretung [GS III I/5]). Die Entschädigung der amtlichen
+Verteidigung erfolgt vorab durch die Gerichtskasse (Art. 426
+Abs. 1 StPO). Die Kosten der amtlichen Verteidigung sind aber vom
+Beschuldigten im vollen Umfang zu beziehen, sobald es seine wirtschaftlichen
+Verhältnisse erlauben (Art. 426 Abs. 1 i.V.m. Art. 135 Abs. 4
+StPO).
+____________________
+Das
+Gericht erkennt:
+1.
+A.______ ist schuldig der
+fahrlässigen Widerhandlung gegen das Waffengesetz durch verbotenes Tragen
+einer Waffe im Sinne von Art. 33 Abs. 1 lit. a und Abs. 2 WG i.V.m.
+Art. 4 Abs. 1 lit. g WG, Art. 27 Abs. 1 WG und Art. 6 WV.
+2.
+Das Strafverfahren gegen
+A.______ wegen Widerhandlung gegen das Waffengesetz durch Erwerben einer
+Waffe ohne das Abschliessen eines schriftlichen Vertrages im Sinne von Art.
+34 Abs. 1 lit. d WG in Verbindung mit Art. 4 Abs. 1 lit. g WG, Art. 6 WV
+und Art. 11 Abs. 1 und 2 WG wird infolge eingetretener Verjährung
+eingestellt.
+3.
+A.______ wird zu einer Busse
+von CHF 600.— verurteilt. Bei Nichtbezahlung wird die Busse in eine
+Ersatzfreiheitsstrafe von sechs Tagen umgewandelt.
+4.
+Es wird festgehalten, dass die
+am 2. November 2015 von der Staats- und Jugendanwaltschaft des Kantons
+Glarus gegen A.______ bedingt mit einer Probezeit von zwei Jahren
+ausgesprochene Geldstrafe von 30 Tagessätzen zu je CHF 90.— nicht mehr
+vollzogen wird.
+5.
+Die
+Kantonspolizei Glarus wird ersucht, über die Beschlagnahme und allfällige
+Einziehung der Softairgun, Marke: Taurus Replicas, Typ: PT92, Farbe:
+schwarz, Seriennummer: 00808474 (act. 2/2/3, Pos. 1, Lagernummer
+181-16), der Softairgun, Marke: Hop up System, Typ: Heckler&Koch USP,
+Farbe: schwarz, Seriennummer: 28-2657, Art.-Nr.: 593907 (act. 2/2/3,
+Pos. 2, Lagernummer 181-16) sowie des Behältnisses mit Munition, Marke:
+ICS, Gewicht: 0.25 Gramm, Farbe: weiss (act. 2/2/3, Pos. 3,
+Lagernummer 181-16) oder deren Rückgabe an den Beschuldigten zu
+entscheiden.
+6.
+Die Kosten
+des vorinstanzlichen Verfahrens und des Berufungsverfahrens werden
+festgesetzt auf insgesamt CHF 3'000.—.
+Die
+weiteren Verfahrenskosten betragen:
+CHF
+600.— Untersuchungsgebühr (SA.2016.00546).
+7.
+Die gemäss Dispositiv Ziffer 6
+vorgenannten Kosten werden A.______ auferlegt und von ihm bezogen.
+8.
+Rechtsanwalt B.______ wird als
+amtlicher Verteidiger von A.______ vorab aus der Gerichtskasse mit insgesamt
+CHF 3'230.— (inkl. Auslagen und 7.7 % MwSt.) entschädigt. Die
+Nachzahlungspflicht von A.______ nach Art. 135 Abs. 4 StPO bleibt
+vorbehalten.
+9.
+Schriftliche Mitteilung an:
+[…]
