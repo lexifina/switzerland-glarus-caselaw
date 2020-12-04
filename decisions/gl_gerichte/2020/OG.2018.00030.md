@@ -1,0 +1,1434 @@
+---
+decision_id: "gl_gerichte_OG.2018.00030"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2018.00030"
+docket_2: "OGS.2021.127"
+decided: "2020-12-04"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1445&W10_KEY=218274&nTrefferzeile=7&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/311.0/art-040.md", "switzerland/bund/acts/311.0/art-138.md", "switzerland/bund/acts/311.0/art-146.md", "switzerland/bund/acts/311.0/art-251.md", "switzerland/bund/acts/311.0/art-303.md", "switzerland/bund/acts/312.0/art-006.md", "switzerland/bund/acts/312.0/art-010.md", "switzerland/bund/acts/312.0/art-103.md", "switzerland/bund/acts/312.0/art-126.md", "switzerland/bund/acts/312.0/art-192.md", "switzerland/bund/acts/312.0/art-194.md", "switzerland/bund/acts/312.0/art-263.md", "switzerland/bund/acts/312.0/art-267.md", "switzerland/bund/acts/312.0/art-302.md", "switzerland/bund/acts/312.0/art-398.md", "switzerland/bund/acts/312.0/art-404.md", "switzerland/bund/acts/312.0/art-408.md", "switzerland/bund/acts/312.0/art-423.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/312.0/art-437.md"]
+---
+
+# GL Gerichte OG.2018.00030
+
+## Regeste
+
+Veruntreuung
+
+## Text
+
+Glarus Obergericht 04.12.2020 OG.2018.00030 (OGS.2021.127)
+Glaris Obergericht 04.12.2020 OG.2018.00030 (OGS.2021.127)
+Glarona Obergericht 04.12.2020 OG.2018.00030 (OGS.2021.127)
+
+Kanton Glarus
+Obergericht
+Urteil
+vom 4. Dezember 2020
+Verfahren
+OG.2018.00030
+A.______
+Beschuldigte
+und Berufungsklägerin
+amtlich verteidigt durch Rechtsanwalt B.______
+gegen
+1.
+Staats- und
+Jugendanwaltschaft des Kantons Glarus
+Anklägerin und
+Berufungsbeklagte
+vertreten durch die
+Staatsanwältin
+2. C.______
+Privatkläger und Berufungsbeklagter
+betreffend
+Veruntreuung
+Schlussanträge der
+Beschuldigten und
+Berufungsklägerin
+(gemäss Berufungserklärung vom
+22. Mai 2018 [act. 54] und schriftlicher Berufungsbegründung vom 31.
+August 2018 [act. 66]):
+1.
+Das Urteil des Kantonsgerichts
+vom 21. März 2018 sei vollumfänglich aufzuheben.
+2.
+Es sei die beschuldigte Person
+vom Vorwurf der Veruntreuung freizusprechen.
+3.
+Die Zivilforderung von C.______
+sei abzuweisen.
+4.
+Alles unter Kosten- und
+Entschädigungsfolge zu Lasten der Staatskasse.
+Schlussanträge de
+r
+Staatsanwaltschaft
+und gleichzeitig Berufungsbeklagten
+(gemäss schriftlicher
+Berufungsantwort vom 30. Oktober 2018 [act. 78]):
+1.
+Es sei die Berufung der
+Beschuldigten abzuweisen und das Urteil des Kantonsgerichts vom 21. März
+2018 in allen Punkten zu bestätigen.
+2.
+Alles unter Kosten- und
+Entschädigungsfolge zu Lasten der Beschuldigten.
+Schlussantrag des
+Privatklägers und Berufungsbeklagten
+C.______
+(gemäss Eingabe vom
+13. September 2018 [act. 75], sinngemäss):
+Es sei die Berufung
+der Beschuldigten abzuweisen und das Urteil des Kantonsgerichts vom 21. März
+2018 namentlich betreffend den ihm zugesprochenen Schadenersatz in Höhe von
+CHF 27‘000.— zu bestätigen.
+____________________
+Das
+Gericht zieht in Betracht:
+I.
+1.
+Die Staats- und
+Jugendanwaltschaft des Kantons Glarus
+(nachfolgend
+Staatsanwaltschaft)
+erhob am 6. Juni 2017 Anklage (act. 1)
+gegen die Beschuldig­te A.______ wegen:
+Veruntreuung i.S.v.
+Art. 138 Ziff. 1 StGB;
+eventualiter Betrug
+i.S.v. Art. 146 Abs. 1 StGB.
+2.
+Mit Urteil vom 21.
+März 2018 erkannte das Kantonsgericht Glarus (nachfolgend Kantonsgericht) die
+Beschuldigte der Veruntreuung i.S.v. Art. 138 Ziff. 1 StGB für schuldig (act.
+49 Dispositiv Ziff. 1).
+Das Kantonsgericht
+verurteilte die Beschuldigte zu einer Freiheitsstrafe von 8 Monaten, bedingt
+aufgeschoben bei einer Probezeit von 2 Jahren (act. 49 Dispositiv
+Ziff. 2).
+Betreffend die im
+Vorverfahren beschlagnahmten Akten
+verfügte das
+Kantonsgericht, dass diese der Staatsanwaltschaft zur Durchführung des
+Verfahrens gegen E.______ (alias EE.______, vgl. act. 2/7/5 und act. 13)
+überlassen werden (act. 49 Dispositiv Ziff. 3).
+Zudem verpflichtete
+das Kantonsgericht die Beschuldigte, dem Privatkläger C.______
+CHF 27'000.— Schadenersatz zu bezahlen; im Übrigen (im Umfang von
+CHF 80.—, vgl. act. 49 E. VII.) wurde die Zivilforderung von C.______
+abgewiesen (act. 49 Dispositiv Ziff. 4 und 5).
+Die Zivilforderung
+des zweiten Privatklägers D.______ wurde vollumfänglich abgewiesen (act. 49
+Dispositiv Ziff. 6).
+Die
+Verfahrenskosten auferlegte das Kantonsgericht vollumfänglich der
+Beschuldigten (act. 49 Dispositiv Ziff. 7-9).
+Das Kantonsgericht
+sprach keine Parteientschädigungen zu (act. 49 Dispositiv Ziff. 10).
+3.
+Mit Schreiben vom
+22. Mai 2018 erhob die Beschuldigte beim Obergericht innert Frist Berufung
+mit dem Antrag auf Freispruch von Schuld und Strafe
+sowie Abweisung der Zivilforderung von C.______ (act. 54).
+4.
+Der Privatkläger D.______, dessen
+Zivilforderung wie bereits erwähnt erstinstanzlich vollumfänglich abgewiesen
+wurde, hat keine Berufung erhoben und ist somit im Berufungsverfahren nicht
+mehr Partei (siehe dazu act. 58).
+5.
+Weder die Staatsanwaltschaft noch
+der Privatkläger C.______ erklärten Berufung oder
+Anschluss­berufung
+(vgl. act. 56, 57, 59 und 63).
+6.
+Das
+Berufungsverfahren erfolgte schriftlich (act. 63). Der Schriftenwechsel
+wurde nach Eingang der Berufungsantworten des Privatklägers C.______
+(act. 75) und der Staatsanwaltschaft (act. 78) abgeschlossen
+(act. 79).
+II.
+1.
+Das hier angefochtene Strafurteil
+des Kantonsge­richts (act. 49) ist der Berufung zu­gänglich
+(Art. 398 Abs. 1 StPO). Die Berufungs­instanz überprüft das Urteil
+nur in den angefochtenen Punkten (Art. 404 Abs. 1 StPO).
+2.
+Vorliegend beantragt die
+Beschuldigte in ihrer Berufung, es sei das angefochtene Urteil "vollumfänglich"
+aufzuheben (act. 54 und 66, jeweils S. 2). Impli­zit ficht sie
+damit auch Dispositiv Ziff. 5 und 6 an. In diesen Punkten ist die
+Beschuldigte aber gar nicht beschwert, hat doch darin die Vorinstanz die
+Zivilforderungen der Privatkläger C.______ und D.______ teilweise bzw.
+vollumfänglich abgewiesen (act. 49).
+Insofern ist daher auf ihre
+Berufung nicht einzutreten und sind diese beiden Urteils­zif­fern in
+Rechtskraft erwachsen, nachdem die Privatkläger selber keine Berufung bzw.
+keine Anschlussberufung erhoben haben (Art. 404 Abs. 1 i.V.m. Art. 437
+Abs. 1 Bst. a StPO).
+Somit ergibt sich, dass das
+Obergericht im Rahmen des Berufungsverfahrens die erstinstanzlich erfolgte
+Verurteilung (Schuld- und Strafpunkt), den Entscheid über die beschlagnahmten
+Akten, die Zivilforderung von C.______ und die Kostenverlegung zu überprüfen
+hat (Art. 404 Abs. 1 StPO).
+Das Obergericht wird, nachdem auf
+die Berufung einzutreten ist, ein neues Urteil fällen (Art. 408 StPO).
+3.
+Die amtliche Verteidigung der
+Beschuldigten wird im Berufungsverfahren gleich wie bereits im
+vorinstanzlichen Verfahren von Rechtsanwalt B.______ wahrgenommen; die
+formelle Einsetzung erfolgt im Berufungsentscheid.
+4.
+Mit Berufung kann gemäss Art. 398
+Abs. 3 StPO geltend gemacht werden, die Vorinstanz habe das Recht verletzt,
+habe den Sachverhalt unvollständig oder unrichtig festgestellt und/oder habe
+unangemessen gehandelt.
+Die Beschuldigte macht vorliegend
+eine unrichtige Feststellung des Sachverhalts geltend (siehe unten E. III.
+Ziff. 2).
+III.
+1.
+Die
+Staatsanwaltschaft wirft der Beschuldigten vor, dass sie am 12. Januar 2015
+in [...] von C.______ CHF 27'080.— erhalten, diesen Betrag in der Folge aber
+nicht zum vorgesehenen Zweck der Gründung einer Firma für D.______, sondern
+für sich selber verwendet habe (vgl. act. 1 S. 2-4).
+2.
+Die Vorinstanz
+sieht diesen Sachverhalt als erstellt an (vgl. act. 49 S. 16 f.
+E. II. Ziff. 4.5.4).
+Die Beschuldigte
+hat von Anfang an stets bestritten, vom Privatkläger C.______ jemals Geld
+erhalten zu haben (vgl. act. 2/2/2 S. 3 f. Ziff. 3 und 11; act. 2/2/3
+S. 3 Ziff. 7; act. 2/8/6 S. 3 Ziff. 1; act. 27 S. 4
+Ziff. 9 und S. 8 Ziff. 30), und macht in der Berufung entsprechend
+geltend, dass die Vorinstanz den Sachverhalt unrichtig festgestellt hat
+(act. 66 S. 2 ff. insbesondere S. 10 Ziff. 26).
+3.
+3.1
+3.1.1
+In der Strafanzeige
+vom 17. Februar 2015 steht, C.______ habe am 12. Januar 2015 CHF 27'080.— an
+E.______ alias EE.______ – und nicht an die Beschuldigte – übergeben (act.
+2/1/2 S. 4).
+C.______, F.______
+und D.______ sind im Vorverfahren mehrmals befragt worden (act. 2/2/5; act.
+2/2/7; act. 2/2/9; act. 2/8/6; act. 2/8/7; act. 2/8/8). Ihre Aussagen stimmen
+insbesondere darin überein, dass C.______ am 12. Januar 2015 in seiner
+Wohnung in [...] in Anwesenheit von F.______ und D.______ CHF 27'080.— in bar
+an die Beschuldigte – und entgegen der Strafanzeige vom 17. Februar 2015 (act. 2/1/2
+S. 4) nicht an E.______ alias EE.______ – übergeben habe. Weiter sei diese
+Geldübergabe mit der Vorgabe erfolgt, dass die Beschuldigte dieses Geld dafür
+verwende, Zahlungen zu Gunsten von D.______ zu leisten, welche für die
+Aufnahme einer selbständigen Erwerbstätigkeit durch D.______ entsprechend dem
+Dokument "Benötigte Summe" (act. 2/1/12 und 67; siehe unten E. III.
+3.3) notwendig seien (vgl. act. 2/2/5 S. 2 Ziff. 2; act. 2/2/7
+S. 2 f. Ziff. 1 und S. 3 f. Ziff. 8; act. 2/2/9 S. 2 ff. Ziff. 1, 3, 4 und 8;
+act. 2/8/7 S. 3 f. Ziff. 3, 4 und 9; act. 2/8/8 S. 3 f. Ziff. 1, 2 und
+7).
+Sowohl C.______,
+F.______ sowie D.______ als auch die Beschuldigte und E.______ alias
+EE.______ sagten übereinstimmend aus, dass am 12. Januar 2015 in [...] in der
+Wohnung von C.______ ein Treffen zwischen der Beschuldigten, D.______,
+C.______ und F.______ stattfand und die Beschuldigte und C.______ dabei das
+Dokument "Benötigte Summe" (
+act. 2/1/12 und
+67
+) unterzeichneten (vgl. act. 2/2/1 S. 2 f.
+Ziff.
+2-4;
+act. 2/2/2 S. 3 Ziff. 3; act. 2/2/5 S. 2 Ziff. 4; act. 2/2/7
+S. 2 ff. Ziff. 1 f., 4 und 8; act. 2/2/9 S. 2 f. Ziff. 1).
+Somit ist
+unbestritten, dass die Beschuldigte, nicht aber E.______ alias EE.______ am
+12. Januar 2015 in [...] in der Wohnung von C.______ war.
+Daran ändert weder
+der insoweit bestehende Widerspruch zur Strafanzeige vom 17. Februar
+2015 (act. 2/1/2 S. 4) etwas, noch der Umstand, dass D.______, dessen
+Rechtsvertretung diese Strafanzeige einreichte (vgl. act. 2/1/2 S.
+1), auf entsprechende Nachfrage hin die betreffende Angabe in der
+Strafanzeige nicht erklären konnte (act. 2/2/5 S. 3 Ziff. 5).
+3.1.2
+D.______ ist der
+Schwiegersohn von F.______ (act. 2/2/9 S. 3 Ziff. 2). C.______ ist der
+Lebenspartner von F.______ (act. 2/2/5 S. 2 Ziff. 2; act. 2/2/7 S.
+3 Ziff. 6).
+C.______ hat
+ausgesagt, dass er und F.______ D.______ vor dem 12. Januar 2015
+insgesamt bereits mit ca. CHF 60'000.— unterstützt hätten (act. 2/2/7 S.
+3 Ziff. 7; vgl. auch die Aussage von D.______, act. 2/2/5 S. 4 Ziff. 17;
+vgl. ferner act. 2/2/6). Zudem sagte C.______ aus, dass er eine
+selbständige Erwerbstätigkeit von D.______, der arbeitslos gewesen sei,
+"für eine gute Sache [hielt]" (act. 2/8/7 S. 3 Ziff. 3).
+Schliesslich führte C.______ aus, die Meinung sei die gewesen, dass er das
+Geld später wieder zurückbekommen sollte, wenn die Firma gut laufe
+(act. 2/8/7 S. 5 Ziff. 2).
+3.1.3
+Die Beschuldigte
+und E.______ alias EE.______, ihr damaliger Lebensgefährte und Mitarbeiter
+(vgl. act. 2/2/1 S. 2 f. Ziff. 3 und 5), waren Nachbarn von D.______ (act.
+2/2/2 S. 1 und S. 3 Ziff. 8 sowie act. 2/2/5 S. 1).
+Unbestritten ist,
+dass D.______ für die X.______ GmbH, deren einzige Gesellschafterin und
+Geschäftsführerin
+die Beschuldigte war (act. 2/1/10 S. 2; vgl. auch
+act. 2/2/2 S. 3 Ziff. 4), Aufträge resp. Malerarbeiten erfüllte (vgl. act.
+2/2/1 S. 4 Ziff. 10, act. 2/2/2 S. 4 Ziff. 12 und act. 2/2/5 S. 3 f. Ziff.
+12 ff.).
+D.______ macht gegenüber der
+X.______ GmbH einen Anspruch auf Entlöhnung für die von ihm im Zeitraum von
+18. Dezember 2014 bis 2. Februar 2015 geleisteten 89 Arbeitsstunden zu einem
+Stundenansatz von CHF 45.— geltend, wobei er anlässlich der polizeilichen
+Befragung vom 23. Februar 2015 ergänzte, dass E.______ alias EE.______ ihm
+zusätzlich noch ca. CHF 15'000.— für diverse Arbeiten schulde. Auf der
+eingereichten Stundenzusammenstellung seien nicht alle Arbeiten aufgeführt
+(vgl. act. 2/1/2 S. 5, act. 2/1/14 und act. 2/2/5 S. 3 f.
+Ziff. 12 ff.). Den Ausführungen von D.______ ist zu entnehmen, dass
+er sich deswegen betrogen fühlte. So antwortete er auf die Frage, weshalb er
+und nicht C.______ die Strafanzeige gestellt hat, u.a., dass er drei Monate
+gearbeitet und kein Geld erhalten habe. Auch führte er auf die Frage, weshalb
+die Geldforderung nicht via Betreibungsamt eingefordert werde, an, dass er
+finde, es sei Betrug, was die hier machen. Leider gebe es immer Sachen, wo
+sie Dich betrügen könnten, weil E.______ alias EE.______ geschult sei, wie
+man Leute "verarsche". Es sei abgemacht gewesen, dass er 80% kriege
+und E.______ alias EE.______ 20% für alle Arbeiten, die er, D.______,
+erledige. Dies sei jedoch nicht so geschehen (act. 2/2/5 S. 4 Ziff. 17 f.).
+Diese von D.______ geltend gemachten offenen Forderungen werden von E.______
+alias EE.______ und der Beschuldigten mindestens teilweise bestritten (vgl.
+act. 2/2/1 S. 4 Ziff. 10 und act. 2/2/2 S. 4 Ziff. 12 f.).
+Den Aussagen von
+C.______ und F.______ ist zu entnehmen, dass D.______ ihnen gegenüber
+geäussert habe, dass die X.______ GmbH ihm zu wenig bezahlt habe für
+geleistete Malerarbeiten (vgl. act. 2/2/7 S. 5 Ziff. 17;
+act. 2/2/9 S. 2 Ziff. 1). C.______ hat ausgesagt, dass er D.______ von
+Dezember 2014 bis Februar 2015 finanziell mit ca. CHF 15‘000.— unterstützen
+musste, weil D.______ zu wenig Lohn von der X.______ GmbH erhalten habe
+(act. 2/2/7 S. 5 Ziff. 17).
+3.1.4
+F.______ sagte aus,
+dass sie der Beschuldigten im Zeitpunkt des Treffens am 12. Januar 2015
+vertraute (vgl. act. 2/2/9 S. 2 Ziff. 1 und act. 2/8/8 S. 3 Ziff. 2),
+wobei sie aber auch aussagte, dass D.______ C.______ mitgeteilt habe, er habe
+nur sehr wenig Geld für durch die Firma X.______ GmbH erhaltene Aufträge
+bekommen, und dass dies ihnen sehr komisch vorgekommen sei (vgl. act. 2/2/9
+S. 2 Ziff. 1; siehe auch schon oben E. III. Ziff. 3.1.3). Die
+Beschuldigte selbst sagte aus, dass sie F.______ und C.______ oft gesehen
+habe, weil diese ihre Tochter und ihren Schwiegersohn (die Nachbarn der
+Beschuldigten, siehe oben E. III. 3.1.3) oft besuchen gekommen seien
+(act. 2/8/8 S. 4 Ziff. 2). C.______ und F.______ sagten aus, dass sie
+sich ab und zu mit der Beschuldigten getroffen und sich gut mit ihr
+verstanden haben (vgl. act. 2/8/7 S. 3 oben und act. 2/8/8 S. 3
+Ziff. 2). Es ist somit davon auszugehen, dass C.______ und F.______ die
+Beschuldigte vor dem Treffen am 12. Januar 2015, entgegen dem nicht
+s[...]tantiierten Vorbringen der Verteidigung (act. 66 S. 6  Ziff. 11),
+nicht nur dreimal angetroffen haben.
+3.1.5
+Die Aussagen von
+E.______ alias EE.______ decken sich mit den Angaben der Beschuldigten darin,
+dass die Beschuldigte von C.______ kein Geld erhalten habe (vgl. act. 2/2/1
+S. 2 f. Ziff. 1, 2 und 3).
+Gemäss
+Anklageschrift läuft gegen E.______ alias EE.______ in der vorliegenden
+Angelegenheit ein separates Strafverfahren (act. 1 S. 2 Ziff. 1.2).
+3.2
+3.2.1
+Die jeweils ersten
+Aussagen von C.______, F.______ und D.______ weisen Widersprüche auf.
+So dauerte das
+Treffen nach den Aussagen von D.______, C.______ und F.______ anlässlich der
+jeweiligen polizeilichen Einvernahme ca. 15 Minuten (Aussage von D.______,
+act. 2/2/5 S. 2 Ziff. 3); resp. vielleicht eine Stunde (Aussage von C.______,
+act. 2/2/7 S. 4 Ziff. 10); resp. 30 Minuten bis eine Stunde (Aussage von
+F.______, act. 2/2/9 S. 3 Ziff. 5).
+D.______ hat bei
+der polizeilichen Einvernahme ausgesagt, dass C.______ der Beschuldigten 27
+1000er-Noten sowie eine 100er-Note übergeben und sie ihm CHF 20.—
+zurückgegeben habe (act. 2/2/5 S. 2 Ziff. 2). Anlässlich der polizeilichen
+Einvernahme vom 28. Februar 2015 sagte C.______ aus, dass er der
+Beschuldigten 28 mal CHF 1'000.— übergeben und sie ihm im Gegenzug
+CHF 920.— zurückgegeben habe (act. 2/2/7 S. 3 Ziff. 4). F.______ sagte bei
+der polizeilichen Einvernahme vom 28. Februar 2015 aus, dass C.______ der
+Beschuldigten CHF 27'080.— übergeben habe, wobei 27 1'000er-Noten aus
+dem Vermögen von C.______ und CHF 80.— aus dem Vermögen von F.______ gestammt
+hätten (act. 2/2/9 S. 3 Ziff. 4). Im Hinblick auf diese Antwort ist
+davon auszugehen, dass es sich bei den abweichenden Angaben von CHF 27'000.—
+(act. 2/2/9 S. 2 Ziff. 1) resp. CHF 27'800.— (act. 2/2/9 S. 3 Ziff.
+4) durch F.______ im Rahmen derselben Einvernahme, entgegen der Ansicht der
+Vorinstanz (act. 49 E. II Ziff. 4.1.1 und 4.5.2), nicht um
+widersprüchliche Aussagen, sondern um eine gerundete Zahl resp. einen
+Schreibfehler im Protokoll handelt. Den polizeilichen Einvernahmen von
+C.______, F.______ und D.______ sind folglich drei Versionen des
+Geldübergabevorgangs zu entnehmen. In der jeweiligen Einvernahme vor der
+Staatsanwaltschaft haben D.______ und C.______ dann den Geldübergabevorgang
+wie F.______ geschildert (act. 2/8/6 S. 4 Ziff. 14 resp. act. 2/8/7
+S. 4 Ziff. 9) und F.______ hat ihre entsprechende Aussage wiederholt
+(act. 2/8/8 S. 3 Ziff. 1 und S. 4 Ziff. 3).
+3.2.2
+D.______
+behauptete, die Beschuldigte habe ihm eine SMS gesendet, welche bestätige,
+dass sie das betreffende Geld von C.______ erhalten habe. Diese angebliche
+SMS hat D.______ dann aber nicht vorgezeigt (vgl. act. 2/2/5 S. 5
+Ziff. 21 und dazugehörige Protokollnotiz sowie act. 2/8/6 S. 5 Ziff. 1).
+3.2.3
+Objektiv falsch ist
+die Aussage von C.______ im Rahmen der polizeilichen Einvernahme vom 28.
+Februar 2015, dass auf dem "Papier (später Quittung)", welches die
+Beschuldigte unterschrieben habe, an einem Ort "[...]" und an einem
+anderen Ort "[...]" stehe (act. 2/2/7 S. 3 f. Ziff. 8), ist doch
+auf den betreffenden in den Akten liegenden Dokumenten "Benötigte
+Summe" (act. 2/1/12 und 67) die Ortsangabe "[...]" nicht zu
+finden (siehe auch unten E. III. Ziff. 3.3.1).
+3.2.4
+Die
+Sachverhaltsangaben
+von C.______ und F.______ sind beispielsweise auch betreffend die
+Aufenthaltsorte der Personen während des Treffens am 12. Januar 2015
+widersprüchlich. So sagte C.______ bei der polizeilichen Einvernahme vom 28.
+Februar 2015 aus, dass am 12. Januar 2015 alle, d.h. D.______, C.______,
+F.______ und die Beschuldigte (vgl. act. 2/2/7 S. 2 f. Ziff. 1 und 3) immer
+beieinander waren in der Wohnung von C.______ und F.______ (act. 2/2/7 S. 3
+Ziff. 8). Im Rahmen der polizeilichen Einvernahme vom 28. Februar 2015 sagte
+F.______ ebenfalls aus, dass sich alle der gerade genannten Personen immer
+zusammen in den gleichen Räumen aufhielten (act. 2/2/9 S. 3 Ziff. 6 und 7).
+Anlässlich der Konfrontationseinvernahme sagte C.______ hingegen, dass
+F.______ kurz den gemeinsamen Aufenthaltsort verliess, um CHF 80.— zu holen
+(vgl. act. 2/8/7 S. 5 Ziff. 4). F.______ sagte im Rahmen der
+Konfrontationseinvernahme aus, dass die Beschuldigte am 12. Januar 2015 nie
+alleine in einem Raum gewesen sei (act. 2/8/8 S. 3 Ziff. 5), sie,
+F.______, aber von den anderen drei Personen getrennt gewesen sei, als sie in
+der Stube aufgeräumt habe (act. 2/8/8 S. 3 Ziff. 1).
+3.2.5
+C.______ sagte im
+Rahmen der Konfrontationseinvernahme vom 23. Mai 2016 aus, dass die Polizei
+seine Angaben anlässlich der polizeilichen Einvernahme vom 28. Februar 2015
+betreffend den Geldübergabevorgang falsch verstanden (und protokolliert) habe
+(act. 2/8/7 S. 5 Ziff. 3).
+Entgegen der ohne
+Beleg erfolgten Angabe der Verteidigung (act. 66 S. 7 f.  Ziff. 16) ist
+nicht ersichtlich, dass neben C.______ auch F.______ geltend machte, im
+Rahmen des Strafverfahrens falsch zitiert resp. verstanden worden zu sein.
+Anlässlich der Konfrontationseinvernahme vom 23. Mai 2016 hat F.______ sich
+vielmehr betreffend ein von ihr vorher genanntes Datum auf Nachfrage der
+Staatsanwaltschaft korrigiert und nicht etwa behauptet, sie sei falsch
+zitiert resp. verstanden worden (act. 2/8/8 S. 3 Ziff. 4).
+Dem nicht
+substantiierten Vorbringen der Verteidigung, den Aussagen von D.______,
+C.______ und F.______ mangle es an einem detaillierten Bericht über das
+Kerngeschehen (act. 66 S. 7 Ziff. 13), kann ebenfalls nicht gefolgt werden,
+betreffen doch gerade bestehende Widersprüche bei den Sachverhaltsangaben von
+D.______, C.______ und F.______ Detailfragen u.a. zu den Aufenthaltsorten der
+Personen während des Treffens sowie zum Geldübergabevorgang (siehe oben E.
+III. Ziff. 3.2.1 und 3.2.4).
+Unzutreffend ist
+auch das Vorbringen der Verteidigung, dass D.______, C.______ und F.______
+die Geldübergabe stets in chronologischer Weise geschildert hätten (vgl. act.
+66 S. 7 Ziff. 13). Namentlich sagte D.______ in der polizeilichen Einvernahme
+vom 23. Februar 2015 zunächst aus, dass die Beschuldigte und er am Abend in
+[...] angekommen seien, und führte dann an, dass C.______ am Nachmittag das
+Geld geholt habe (act. 2/2/5 S. 2 Ziff. 2). F.______ sagte im Rahmen der
+polizeilichen Einvernahme vom 28. Februar 2015 zunächst aus, dass der
+Beschuldigten das Geld übergeben worden sei, und erwähnte anschliessend, dass
+sie vorgängig Kaffee getrunken hätten (act. 2/2/9 S. 2 Ziff. 1).
+3.2.6
+D.______ sagte aus,
+er habe am 3. Dezember 2014 von E.______ alias EE.______ Informationen
+darüber erhalten, wie er sich im Rahmen eines eigenen Unternehmens für
+Malerarbeiten selbständig machen könne; dabei habe D.______ erfahren, dass
+hierfür Investitionen in Höhe von CHF 26'000.— notwendig seien
+(vgl. act. 2/8/6 S. 4 Ziff. 9; vgl. auch act. 2/2/1 S. 3 Ziff. 4
+sowie act. 2/2/2 S. 2 Ziff. 2).
+Nach ihren
+übereinstimmenden Aussagen habe D.______ mit C.______ darüber gesprochen,
+dass er, D.______, sich selbständig machen wolle und dafür Geld benötige
+(vgl. act. 2/8/6 S. 4 Ziff. 12 sowie act. 2/8/7 S. 4 Ziff. 12). C.______ und
+F.______ sagten aus, D.______ habe C.______ am 11. Januar 2015 per SMS
+mitgeteilt, dass er, D.______, am 12. Januar 2015 zusammen mit der
+Beschuldigten nach [...] zu ihm, C.______, kommen und dann CHF 27'000.—
+zur Übergabe an die Beschuldigte benötigen werde (vgl. act. 2/8/7 S. 3 f.
+Ziff. 4 sowie act. 2/8/8 S. 3 Ziff. 1 und 2 sowie S. 4 f. Ziff. 4). D.______
+sagte hingegen aus, dass er C.______ die betreffende SMS am Morgen des
+12. Januars 2015 geschrieben habe (vgl. act. 2/8/6 S. 4 Ziff.
+12).
+C.______ sagte aus,
+er habe sich mit F.______ beraten, nachdem er von D.______ die Nachricht
+erhalten habe, dass D.______ CHF 27‘080.— brauche, „um die Firma zu eröffnen“
+(act. 2/2/7 S. 4 Ziff. 11). Er, C.______, habe sich dann am 12. Januar 2015
+entschieden, dieses Geld zur Verfügung zu stellen, um D.______ zu
+unterstützen (act. 2/2/7 S. 4 Ziff. 11 und act. 2/8/7 S. 4 Ziff. 7). Daher
+sei er, C.______, am 12. Januar 2015 nachmittags zusammen mit seiner Lebenspartnerin,
+F.______, zur Bank nach [...] gefahren und habe dort das Geld von seinem
+Konto abgehoben (vgl. act. 2/2/7 S. 4 Ziff. 11 sowie act. 2/8/7 S.
+4 Ziff. 6 und 8).
+Nach dem von
+C.______ am 23. Februar 2015 eingereichten Bankbeleg wurden am
+12. Januar 2015 in [...] um 16.25 Uhr von C.______s [...] Privatkonto
+CHF 28'000.— in 28 Tausendernoten ausgezahlt (vgl. act. 2/2/8).
+3.3
+3.3.1
+D.______ hat,
+zusammen mit der Strafanzeige vom 17. Februar 2015 (act. 2/1/2), ein
+Dokument (act. 2/1/12) eingereicht (vgl. act. 2/1/3), auf welchem unter der
+Bezeichnung "Benötigte Summe: Zum starten einer Firma von Malerarbeiten
+wird folgende Kapital benötige:" verschiedene Posten ("BVG
+Jahresvorauszahlung", "Krankentaggeld", "UVG",
+"Suva / AHV Beitrag", "Firmen Haftpflicht", "Sach-
+und Material Haftpflicht- Versicherung", "Betriebs
+Rechtsschutz" und "Material") jeweils mit zugehörigen
+Geldbeträgen, im Total CHF 27'080.—, aufgelistet sind. Zudem befindet sich
+auf diesem Dokument "Benötigte Summe" die Bezeichnung "X.______"
+zusammen mit einem Logo in der Kopfzeile und steht oben links "X.______
+gmbH, [...], Tel. [...]" (act. 2/1/12). Daneben ist auf diesem
+Dokument "Benötigte Summe" Folgendes jeweils handschriftlich
+geschrieben: links unten der Name "C.______" mit einer Unterschrift
+darunter und unter der Unterschrift "[...], 12. Jan. 2015"
+sowie rechts unten die Firma "X.______ GmbH" ebenfalls mit einer
+Unterschrift darunter (act. 2/1/12).
+Die Aussagen der
+Beschuldigten und von C.______ stimmen darin überein, dass die Beschuldigte,
+welche eben (auch am 12. Januar 2015) einzige Gesellschafterin und
+Geschäftsführerin der X.______ GmbH war (siehe oben E. III.
+Ziff. 3.1.3), und C.______ das Dokument "Benötigte Summe"
+(act. 2/1/12) unterschrieben haben und zwar anlässlich eines Treffens am 12.
+Januar 2015 in der Wohnung von C.______ in [...] (siehe oben E. III. Ziff.
+3.1.1).
+C.______ sagte aus,
+er habe die Beschuldigte dazu aufgefordert, das Dokument "Benötigte
+Summe" (act. 2/1/12) zu unterzeichnen (vgl. act. 2/2/7 S. 3 Ziff. 4).
+Mit der
+Berufungsbegründung vom 31. August 2018 (act. 66) reichte die Verteidigung
+als Beilage ein Dokument (act. 67) ein, welches mit dem gerade erwähnten
+Dokument "Benötigte Summe" (act. 2/1/12) übereinstimmt, mit
+Ausnahme der handschriftlichen Vermerke.
+So fehlen auf dem
+von der Verteidigung eingereichten Dokument "Benötigte Summe" (act.
+67) im Vergleich mit dem von D.______ eingereichten Dokument "Benötigte
+Summe" (act. 2/1/12) die handschriftliche Orts- und Datumsangabe.
+C.______ hat bei der
+polizeilichen Einvernahme vom 28. Februar 2015 ausgesagt, dass er der
+Beschuldigten während des Treffens am 12. Januar 2015 eine Kopie des
+(unterzeichneten) Dokuments "Benötigte Summe" übergeben habe (vgl.
+act. 2/2/7 S. 3 Ziff. 5).
+Die Beschuldigte
+sagte aus, sie glaube, dass C.______ das Dokument "Benötigte Summe"
+am 12. Januar 2015 kopiert habe, sie wisse das aber nicht mehr (act. 27
+S. 10 Ziff. 40 und 41).
+In der
+Berufungsbegründung argumentiert die Verteidigung
+, dass
+es sich bei dem von ihr eingereichten Dokument "Benötigte Summe"
+(act. 67) ohne handschriftliche Orts- und Datumsangabe um eine Kopie des
+Dokuments "Benötigte Summe" mit handschriftlicher Orts- und
+Datumsangabe (act. 2/1/12) zu einem Zeitpunkt handle, in welchem die
+Unterschriften geleistet worden seien, aber bevor die handschriftliche Orts-
+und Datumsangabe von C.______ angebracht worden sei (act. 66 S. 5 f.
+Ziff. 10).
+Diese
+Schlussfolgerung der Verteidigung trifft nicht zu. Der Vergleich der beiden
+Dokumente "Benötigte Summe" (act. 2/1/12 und 67) ergibt, dass die
+jeweils vorhanden handschriftlichen Angaben und Unterschriften nicht
+deckungsgleich sind. Besonders augenfällig ist dies bei der Unterschrift von
+C.______.
+Die C.______
+zuzuordnenden handschriftlichen Angaben und Unterschriften ähneln sich auf
+beiden Dokumenten "Benötigte Summe" (act. 2/1/12 und 67) aber
+stark. Dasselbe gilt im Vergleich mit anderen den vorliegenden Akten zu
+entnehmenden handschriftlichen Angaben und Unterschriften von C.______
+(vgl. act. 2/2/6 S. 1, act. 2/2/7, 2/2/8, 2/3/1 S. 2 und act.
+2/8/7 S. 6).
+Folglich ist davon
+auszugehen, dass C.______ und die Beschuldigte am 12. Januar 2015 je zwei
+Dokumente "Benötigte Summe" (act. 2/1/12 und 67) unterzeichnet
+haben, obwohl weder die Beschuldigte noch C.______ oder eine andere befragte
+Person dies so aussagten.
+Ein Anfangsverdacht
+auf eine Urkundenfälschung i.S.v. Art. 251 StGB durch die Beschuldigte,
+welcher die Anzeigepflicht nach Art. 302 Abs. 1 StPO auslösen würde, besteht
+somit aus jetziger Sicht nicht. Genauso wenig ist davon auszugehen, dass
+C.______ die betreffende Orts- und Datumsangabe nachträglich handschriftlich
+angebracht hat, um sich i.S.v. Art. 251 StGB einen unrechtmässigen Vorteil zu
+verschaffen.
+3.3.2
+Den beiden
+Dokumenten „Benötigte Summe“ (act. 2/1/12 und 67) selbst kann nach dem gerade
+Ausgeführten nicht entnommen werden, dass eine Geldübergabe von C.______ an
+die Beschuldigte erfolgt ist.
+Entgegen der von
+C.______ geäusserten Ansicht (vgl. act. 2/2/7 S. 3 Ziff. 5) stellen
+die von ihm und der Beschuldigten unterzeichneten Dokumente "Benötigte
+Summe" (act. 2/1/12 und 67) somit keine Quittung für eine erfolgte
+Geldübergabe von C.______ an die Beschuldigte dar.
+3.3.3
+In den Akten liegt keine der Beschuldigten oder sonst jemandem durch
+D.______ erteilte Ermächtigung, in dessen Namen die Rechtshandlungen
+vorzunehmen, welche zur Gründung einer GmbH oder für den Abschluss der nach
+den Angaben auf dem Dokument „Benötigte Summe“ (act. 2/1/12 und 67)
+notwendigen Versicherungen erforderlich sind.
+Auf die Frage der
+Verteidigung, ob D.______ E.______ alias EE.______ entsprechend ermächtigt
+habe, antwortete D.______, er „sehe keine diesbezüglichen Papiere“ (act.
+2/8/6 S. 5 Ziff. 3).
+3.3.4
+In den Akten liegt
+eine von der Beschuldigten am 9. März 2015 eingereichte Abbildung einer
+elektronischen Textkommunikation vom 12. Januar 2015 (act. 2/2/4 S. 1).
+Danach schrieb eine Person um 12.57 und 12.58 Uhr ununterbrochen
+aufeinanderfolgend: "Nimsch a4blatt vor dir und schriebsch uf z.b. das
+5'000fr. Isch fur das das betrag isch das", "Fur de markus",
+Schriebsch so uf das 26'000und chli meh isch", "Wen nod drus
+chunsch komsch abe churz" (act. 2/2/4 S. 1).
+Den Aussagen der
+Beschuldigten und von D.______ ist übereinstimmend zu entnehmen, dass D.______
+den gerade wiedergegebenen Text an die Beschuldigte sendete. Damit habe er
+die Beschuldigte resp. E.______ alias EE.______ aufgefordert, die Kosten,
+welche bei Aufnahme einer selbständigen Erwerbstätigkeit durch ihn, D.______,
+anfallen werden, für C.______ aufzuschreiben, so dass ein Gesamtbetrag von
+etwas mehr als CHF 26'000.— resultiere (vgl. act. 2/2/3 S. 4
+Ziff. 12 und act. 2/8/6 S. 4 Ziff. 8 und 9).
+3.4
+3.4.1
+Nicht nur in den
+Sachverhaltsangaben von D.______, C.______ und F.______ finden sich Widersprüche
+(siehe oben E. III. Ziff. 3.2), sondern auch in denjenigen der Beschuldigten
+und von E.______ alias EE.______, wie nachfolgend aufgezeigt wird.
+3.4.2
+E.______ alias
+EE.______ sagte bei der polizeilichen Einvernahme vom 19. Februar 2015 aus,
+dass die Beschuldigte das Dokument "Benötigte Summe" (act. 2/1/12
+und 67) unterschrieben habe, "um zu zeigen, was es zu einer
+Firmengründung braucht" (act. 2/2/1 S. 3 Ziff. 4).
+Im Rahmen der
+polizeilichen Einvernahmen vom 19. Februar 2015 und 9. März 2015 sagte
+die Beschuldigte, dass sie das Dokument "Benötigte Summe"
+(act. 2/1/12 und 67) unterschrieben habe, "weil C.______ es so
+wollte". Sie habe nicht gewusst, wieso sie dieses Papier unterschreiben
+sollte, habe es aber getan, weil D.______ ihr gesagt habe, dass C.______ das
+so wolle (act. 2/2/2 S. 3 Ziff. 3 sowie act. 2/2/3 S. 3 Ziff. 9).
+Bei der
+Konfrontationseinvernahme vom 23. Mai 2016 sowie der Befragung im Rahmen des
+erstinstanzlichen Hauptverfahrens vom 29. November 2017 sagte die
+Beschuldigte dann aus, dass auf dem Dokument "Benötigte Summe" die
+Kosten aufgezeigt werden, "die wir für Versicherungen aufzuwenden
+haben" und die D.______ anfallen würden, wenn er eine eigene GmbH haben
+würde. Sie habe mit der betreffenden Unterschrift die Richtigkeit dieser
+Angaben bestätigen wollen (vgl. act. 2/8/6 S. 6 f. Ziff. 16 und 20
+sowie act. 27 S. 4 Ziff. 10 und S. 5 Ziff. 12).
+3.4.3
+Bei der Befragung
+im Rahmen des erstinstanzlichen Hauptverfahrens hat die Beschuldigte auf die
+Frage nach dem Zweck der Unterschrift von C.______ auf dem Dokument
+"Benötigte Summe" (act. 2/1/12 und 67) unterschiedliche Antworten
+gegeben. Zunächst sagte sie, dass C.______ unterschrieben habe, um
+festzuhalten, dass er D.______ mit dem Geld aushelfen wolle (act. 27 S. 5
+Ziff. 15). Auf die später gestellte Frage, warum C.______ unterzeichnen
+sollte, antwortete sie hingegen, dass sie es nicht wisse (act. 27 S. 7 Ziff.
+26).
+3.4.4
+Sowohl E.______
+alias EE.______ als auch die Beschuldigte sagten aus, dass sie D.______ bei
+der Unternehmensgründung unterstützen wollten, insbesondere mit dem Dokument
+"Benötigte Summe" (act. 2/1/12 und 67), welchem die Kosten für eine
+Unternehmensgründung zu entnehmen seien (vgl. act. 2/2/1 S. 2-4
+Ziff. 3, 4 und 13, act. 2/2/2 S. 2-4 Ziff. 2, 8 und 10 sowie act. 2/2/3 S. 4
+Ziff. 12).
+Auf die Frage der
+Verteidigung, wie lange E.______ alias EE.______ für die Budgetaufstellung
+gebraucht habe, antwortete die Beschuldigte: "Dies ging nicht lange. Wir
+haben uns damit nicht so richtig befasst und es war unrelevant. Wir haben
+aufgrund unserer Erfahrung bezüglich eigener Firmengründung die
+Zusammenstellung gemacht." (act. 2/2/3 S. 5 Ziff. 25).
+Der Widerspruch
+zwischen dem angeblichen Unterstützungsvorhaben der Beschuldigten sowie von
+E.______ alias EE.______ einerseits und der fehlenden Ernsthaftigkeit bei
+dessen Ausführung andererseits wird in der Berufungsbegründung bestätigt.
+Dort ist zu lesen, dass eine summarische Prüfung des Dokuments
+"Benötigte Summe" (act. 2/1/12 und 67) "hätte […] erwartet
+werden dürfen" und "[d]iesfalls […] sofort klar geworden
+[wäre], dass die Aufstellung nicht geeignet war, erwartete Kosten einer
+zukünftigen Firma von D.______ darzustellen" (act. 66 S. 6 f. Ziff.
+11).
+Damit argumentiert
+die Verteidigung sinngemäss, C.______ hätte das betreffende Dokument zunächst
+summarisch geprüft, wenn er vorgehabt hätte, Geld an die Beschuldigte zu
+übergeben, wobei aufgrund der erkennbaren Mangelhaftigkeit des betreffenden
+Dokuments auszuschliessen sei, dass C.______ der Beschuldigten nach einer
+solchen summarischen Prüfung tatsächlich Geld übergeben hätte.
+3.4.5
+Am 9. März 2015
+sagte die Beschuldigte anlässlich der polizeilichen Einvernahme aus, dass sie
+am 12. Januar 2015 in der Wohnung von C.______ und F.______ ca. 30 Minuten
+alleine in einem Raum war, während C.______, F.______ und D.______ in einem
+anderen Raum miteinander kommunizierten. Als sie zwischendurch einmal
+nachschauen gegangen sei, habe D.______ gestikuliert, dass sie weggehen solle
+(act. 2/2/3 S. 2 f. Ziff. 2, 3, 4 und 5).
+Auch anlässlich der
+Konfrontationseinvernahme vom 23. Mai 2016 sagte die Beschuldigte, dass sie
+am 12. Januar 2015 in der Wohnung von C.______ und F.______ ca. 30 Minuten
+alleine in einem Raum war (act. 2/8/8 S. 4 Ziff. 6).
+Im Rahmen des
+erstinstanzlichen Hauptverfahrens vor dem Kantonsgericht sagte die
+Beschuldigte hingegen aus, sie sei nur 10 Minuten alleine im Wohnzimmer
+gewesen (act. 27 S. 6 Ziff. 20).
+3.5
+Nach den Akten fand
+am 19. Februar 2015 in der damaligen Wohnung der Beschuldigten und von E.______
+alias EE.______ in [...] (vgl. act. 2/4/2 resp. 2/4/3 jeweils S. 1) eine
+Hausdurchsuchung statt (act. 2/4/4). Dabei wurde insbesondere nach
+Gegenständen gesucht, die auf Delikte gegen das Vermögen hinweisen
+(act. 2/4/2 resp. 2/4/3 jeweils S. 1 f.). Bargeld in Höhe von CHF
+27'000.— wurde nicht aufgefunden (act. 2/2/1 S. 4 Ziff. 16), wohl aber
+in einer Geldkassette CHF 800.— in bar (act. 2/2/3 S. 5 Ziff. 19),
+welche allerdings nicht sichergestellt wurden (vgl. act. 2/4/4 S. 2 f.).
+Die Beschuldigte hat ausgesagt, dass sie und E.______ alias EE.______ eine
+Vase ("goldene Gans") hatten, in welche sie zu Sparzwecken
+monatlich Geld legten (act. 2/2/3 S. 4 Ziff. 15). Die betreffenden
+CHF 800.— stammten nach Aussage der Beschuldigten vielleicht aus dieser
+Vase (act. 2/2/3 S. 5 Ziff. 19).
+E.______ alias
+EE.______ äusserte sich betreffend den Umstand, dass bei der Durchsuchung
+seiner Wohnung am 19. Februar 2015 nicht Geld in Höhe von ca. CHF
+27'000.— gefunden wurde, wie folgt: "Wir haben ja nichts, das ist für mich
+keine Überraschung" (act. 2/2/1 S. 4 Ziff. 16).
+Den Akten ist zu
+entnehmen, dass bei der betreffenden Hausdurchsuchung verschiedene Unterlagen
+aus einem schwarzen Ordner beschlagnahmt wurden (act. 2/4/4 S. 2 und
+act. 2/5/I 089-114). Als Inhaber dieser beschlagnahmten Gegenstände ist
+im Durchsuchungsprotokoll E.______ alias EE.______ aufgeführt (act. 2/4/4 S.
+2).
+3.6
+Die Verteidigung
+reichte mit Schreiben vom 13. November 2015 (act. 2/7/5) einen Kontoauszug
+betreffend das [...] Privatkonto der Beschuldigten mit den Kontobewegungen
+vom 1. Januar 2015 bis 28. Februar 2015 (act. 2/7/6) sowie einen Kontoauszug
+betreffend ein Konto der X.______ GmbH bei der [...] mit den Buchungsdaten
+vom 1. Januar 2015 bis 28. Februar 2015 (act. 2/7/7) ein.
+Am 5. Januar 2015
+wies das [...]-Konto einen Saldo von minus CHF 820.28 auf (act. 2/7/6
+S. 1).
+Der Saldo auf dem
+[...]-Konto betrug am 6. Januar 2015 CHF 215.35 (act. 2/7/7).
+Am 9.
+Januar 2015
+wurden dem [...]-Konto durch die Gemeinde [...] EUR 16‘800.— resp. CHF
+19'847.07 gutgeschrieben (act.  2/7/6 S. 1). Die Beschuldigte begründet
+diese Gutschrift mit einem Hausverkauf in [...] (vgl. act. 2/2/3 S. 4
+Ziff. 14 und act. 2/4 S. 2 ff.). Der von der Beschuldigten eingereichten
+Kopie eines Kaufvertrages vom 27. November 2014 ist zu entnehmen, dass die
+Gemeinde [...] von der Beschuldigten ein Grundstück kaufte für den Kaufpreis
+von EUR 16‘800.— (act. 2/2/4 S. 2 ff.).
+Die Beschuldigte
+sagte aus, ihre finanzielle Situation im Januar 2015 sei "nicht gut und
+nicht schlecht" gewesen, es habe aber angefangen, besser zu werden, da
+in [...] eine von mehreren Wohnungen habe verkauft werden können
+(vgl. act. 2/8/6 S. 7 Ziff. 21).
+Am 12. Januar 2015
+wurden CHF 2'700.— in bar auf das [...]-Konto der X.______ GmbH einbezahlt
+(act. 2/7/7). Am 15. Januar 2015 wurden CHF 10'000.— und am 26. Januar
+2015 CHF 5'000.— jeweils an einem Bancomaten auf das [...]-Konto der
+Beschuldigten eingezahlt (act. 2/7/6 S. 3 und 4). Die Beschuldigte hat
+bestätigt, dass sie oder E.______ alias EE.______ diese Einzahlungen getätigt
+hat (vgl. act. 2/8/6 S. 7 Ziff. 28 f. und act. 27 S. 7 f. Ziff. 27).
+Nach Aussage der Beschuldigten stammten die CHF 10'000.— aus Erspartem
+(act. 2/8/6 S. 7 Ziff. 28; vgl. auch act. 27 S. 7 Ziff. 27). Die
+Kunden der X.______ GmbH hätten für Reinigungsarbeiten teilweise bar bezahlt
+(vgl. act. 2/8/6 S. 7 Ziff. 24 und act. 27 S. 7 Ziff. 27). Die
+Einzahlungen der CHF 5'000.— sowie der CHF 2'700.— seien darauf
+zurückzuführen, dass wiederholt beim einen Konto Bargeldbezüge erfolgt seien
+und diese Barbeträge wieder auf das andere Konto einbezahlt worden seien, um
+den Umsatz auf den Konten zu steigern, in der Hoffnung, dadurch die
+Kreditwürdigkeit zu erhöhen (act. 2/8/6 S. 7 Ziff. 29, vgl. auch
+act. 2/7/5 S. 1 und act. 27 S. 8 Ziff. 28).
+Mindestens seit dem
+1. Januar 2015 wurden bis zum 26. Januar 2015 vom [...]-Konto Barbeträge in
+Höhe von insgesamt CHF 1'330.— bezogen (vgl. act. 2/7/7). Am
+12. Januar 2015 wurden vom [...]-Konto insgesamt CHF 4'640.—
+abgehoben (act. 2/7/6 S. 2). Am 13. Januar 2015 wurden CHF 1'200.—
+vom [...]-Konto bezogen, am 14. Januar 2015 fand kein Bargeldbezug von diesem
+Konto statt (act. 2/7/6 S. 3). Insgesamt wurden somit am 12. und 13.
+Januar 2015 CHF 5'840.— vom [...]-Konto bezogen.
+Beim [...]-Konto
+sank der Saldo bis zur Einzahlung der CHF 5'000.— am 26. Januar 2015 nicht
+unter CHF 11'721.93 (vgl. act. 2/7/6 S. 3 f.) und nach dieser Einzahlung erst
+Anfang Februar 2015 unter CHF 15'000.— (act. 2/7/6 S. 4-7).
+Das [...]-Konto der
+Beschuldigten weist vom 1. Januar bis 28. Februar 2015 Belastungen in Höhe
+von insgesamt CHF 33'831.94 auf, davon Barbezüge von
+ca. CHF 14'000.— (vgl. act. 2/7/6). Die Belastungen auf dem
+[...]-Konto der X.______ GmbH vom 1. Januar bis 28. Februar 2015 belaufen
+sich auf insgesamt CHF 8'051.90, davon Barbezüge von
+ca. CHF 3'400.— (vgl. act. 2/7/7).
+Die Beschuldigte
+bestätigte, dass sie am 14. Januar 2015 CHF 5'500.— für ein Auto bezahlte
+(vgl. act. 2/2/3 S. 4 Ziff. 13). Weitere Ausgaben sind auf Ferien in
+Frankreich im Januar 2015 zurückzuführen (vgl. act. 2/2/3 S. 4
+Ziff. 17; vgl. auch act. 2/7/6 S. 4 ff.). Im betreffenden Zeitraum hat die
+Beschuldigte auch eine in Betreibung gesetzte Forderung in Höhe von
+CHF 1'106.05 bezahlt (vgl. act. 2/9/3 S. 2). Den beschlagnahmten
+Aufzeichnungen sind mindestens zwei von der X.______ GmbH im Januar und
+Februar 2015 geleistete Zahlungen in Höhe von insgesamt CHF 712.65 zu
+entnehmen (act. 2/5/I 092 und 098).
+3.7
+Dem in den Akten
+liegenden Auszug aus dem Strafregister ist zu entnehmen, dass gegen die
+Beschuldigte seit dem 22. Mai 2017 eine weitere Strafuntersuchung wegen
+Betrugs und Veruntreuung läuft (act. 78).
+3.8
+E.______ alias
+EE.______ sagte aus, dass er in [...] wegen einer strafbaren Handlung gegen
+das Vermögen verurteilt worden sei. In der Schweiz sei er zwar auch in
+Strafverfahren wegen Vermögensdelikten verwickelt gewesen, hier sei er aber
+freigesprochen worden (vgl. act. 2/2/1 S. 5 Ziff. 17).
+Dem Antrag der
+Kantonspolizei des Kantons Glarus an die Staatsanwaltschaft auf Durchsuchungs-
+und Beschlagnahmebefehl vom 19. Februar 2015 ist zu entnehmen, dass E.______
+alias EE.______ bei verschiedenen schweizerischen Polizeikorps Vorakten
+aufweise, wobei er 2011 durch die Kantonspolizei Appenzell Ausserhoden
+betreffend einen Darlehensbetrug erfasst worden sei (act. 2/4/1 S. 3).
+Die Beschuldigte
+bestätigte auf Nachfrage der Staatsanwaltschaft, ihr sei bekannt, dass
+E.______ alias EE.______ mehrfach im „Saldo“ und im „K-Tipp“ erwähnt worden
+sei und die EE.______ AG, dessen Firma, auf der Warnliste der FINMA gestanden
+sei (act. 27 S. 11 Ziff. 45).
+Auf die Frage, ob
+die Beschuldigte damit einverstanden gewesen sei, dass E.______ alias
+EE.______, als er noch der Lebenspartner der Beschuldigten war, alle
+Mitarbeitenden und Kunden der Beschuldigten zu sich übernommen habe
+(vgl. act. 27 S. 13 Ziff. 55), antwortete die Beschuldigte, dass sie mit
+allem einfach einverstanden gewesen sei (act. 27 S. 13 Ziff. 56).
+4.
+4.1
+Das Gericht würdigt
+die Beweise frei nach seiner aus dem gesamten Verfahren gewonnenen
+Überzeugung (Art. 10 Abs. 2 StPO).
+Bestehen
+unüberwindliche Zweifel an der Erfüllung der tatsächlichen Voraussetzungen
+der angeklagten Tat, so geht das Gericht von der für die beschuldigte Person
+günstigeren Sachlage aus (Art. 10 Abs. 3 StPO; "in dubio pro reo").
+Beim Indizienbeweis
+wird aus bestimmten Tatsachen, die nicht unmittelbar rechtserheblich, aber
+bewiesen sind (Indizien), auf die zu beweisende, unmittelbar rechtserhebliche
+Tatsache geschlossen (Urteil des Bundesgerichts 6B_1427/2016 vom 27. April
+2017 E. 3).
+Ergehen
+Strafurteile auf der Grundlage von Indizien, verletzt dies weder die
+Unschuldsvermutung noch die aus ihr abgeleiteten Teilrechte. Dabei findet der
+Grundsatz "in dubio pro reo" nicht auf einzelne Indizien Anwendung,
+sondern entfaltet seine Wirkung bei der Beweiswürdigung als Ganzes.
+Massgebend ist nicht eine isolierte Betrachtung der einzelnen Beweise, welche
+für sich allein genommen nur eine gewisse Wahrscheinlichkeit begründen und
+insofern Zweifel offenlassen, sondern deren gesamthafte Würdigung (Urteil des
+Bundesgerichts 6B_291/2016 vom 4. August 2016 E. 2.1 m.w.N.).
+4.2
+4.2.1
+Entsprechend der Argumentation
+der Verteidigung (vgl. act. 66 S. 7 Ziff. 14) können Widersprüche und
+Ungereimtheiten in den Angaben von D.______, C.______ und F.______ (siehe
+oben E. III. Ziff. 3.2) Anzeichen für fehlende Glaubhaftigkeit der Aussagen
+dieser Personen sein.
+4.2.2
+Die Vorinstanz
+erklärt Widersprüche bei den Sachverhaltsangaben von C.______ und F.______,
+welche beide hörgeschädigt sind (vgl. z.B. act. 2/1/1 S. 1, 4 und 7), damit,
+dass bei entsprechenden Übersetzungen Ungenauigkeiten unvermeidlich seien
+(act. 49 S. 15 f. E. II. Ziff. 4.5.3).
+Die Verteidigung
+macht geltend (act. 66 S. 4 Ziff. 7 und S. 7 f. Ziff. 16), dass diese
+Erklärung nicht überzeugt, soweit C.______ und F.______ die Richtigkeit der
+Aussageprotokolle unterschriftlich bestätigt haben.
+Der Verteidigung
+ist hierbei zuzustimmen, mindestens soweit den Aussageprotokol-len zu
+entnehmen ist, dass sie von C.______ und F.______ vor der unter-schriftlichen
+Bestätigung durchgelesen wurden, was bei den Protokollen der
+staats-anwaltschaftlichen Einvernahmen der Fall ist (vgl. act. 2/8/7 S. 6 und
+act. 2/8/8 S. 5, wo vor der jeweiligen Unterschrift "Gelesen und bestätigt"
+steht).
+In den Protokollen
+der polizeilichen Einvernahmen steht hingegen, dass C.______ und F.______ das
+Protokoll "übersetzt erhalten" resp. "vorgelesen
+erhalten" haben (act. 2/2/7 S. 5 Ziff. 16 und 17 sowie Protokollnotiz;
+act. 2/2/9 S. 4 f. Ziff. 13 und 14 sowie Protokollnotiz). Immerhin haben
+C.______ und F.______ aber auf jeder Seite des jeweiligen Protokolls der
+polizeilichen Einvernahme unterschrieben (vgl. act. 2/2/7 und act. 2/2/9).
+Vor diesem
+Hintergrund ist – vorbehalten bleibt auch die Möglichkeit, dass C.______ das
+Protokoll unsorgfältig durchlas – mindestens fraglich, ob die Aussage von
+C.______ im Rahmen der Konfrontationseinvernahme vom 23. Mai 2016 zutrifft,
+wonach die Polizei seine Angaben anlässlich der polizeilichen Einvernahme vom
+28. Februar 2015 betreffend den Geldübergabevorgang falsch verstanden
+(und protokolliert) habe (siehe oben E. III. Ziff. 3.2.5). Dies gilt umso
+mehr, weil sich die Version des Geldübergabevorgangs nach dem Protokoll der
+polizeilichen Einvernahme von C.______ (act. 2/2/7 S. 3 Ziff. 4) deutlich von
+derjenigen nach dem Protokoll der staatsanwaltschaftlichen Einvernahme von
+C.______ (act. 2/8/7 S. 4 Ziff. 9) unterscheidet, insbesondere auch
+betreffend ein allfälliges Mitwirken von F.______ (siehe oben E. III. Ziff.
+3.2.1).
+4.2.3
+Soweit die Angaben von D.______,
+C.______ und F.______ Widersprüche und Ungereimtheiten aufweisen, kann darin
+aber auch ein Hinweis auf eine fehlende Absprache zwischen den betreffenden
+Personen gesehen werden.
+Prozessbetrug ist
+nach Art. 146 StGB (vgl. BGE 122 IV 197) und falsche Anschuldigung
+ist nach Art. 303 StGB strafbar. Betrug nach Art. 146 StGB ist im
+Grundtatbestand (Abs. 1) mit Freiheitsstrafe bis zu fünf Jahren oder
+Geldstrafe bedroht. Falsche Anschuldigungen i.S.v. Art. 303 Ziff. 1 StGB
+sind sogar mit Freiheitsstrafe bis zu 20 Jahren (vgl. Art. 40 Abs. 2 StGB)
+oder Geldstrafe bedroht.
+Im Hinblick auf
+diese hohen Strafandrohungen liegt nach der allgemeinen Lebenserfahrung und
+dem gewöhnlichen Lauf der Dinge der Schluss nahe, dass sich C.______,
+F.______ und D.______ betreffend vorhersehbare Fragen der Strafbehörden
+abgesprochen hätten. Dabei wäre zu erwarten, dass eine entsprechende
+Absprache stattgefunden hätte, bevor D.______ gegen die Beschuldigte
+Strafanzeige erstattete und dabei C.______ sowie F.______ als Zeugen nannte
+(vgl. act. 2/1/2 S. 4), falls es sich um eine falsche Anschuldigung
+handeln würde. In diesem Fall hätte sich auch aufgedrängt, dass D.______ sich
+zusätzlich nach seiner polizeilichen Einvernahme am 23. Februar 2015 (vgl.
+act. 2/2/5 S. 1) mit C.______ und F.______ abgesprochen hätte, bevor diese am
+28. Februar 2015 polizeilich einvernommen wurden (vgl. act. 2/2/7 und
+2/2/9 jeweils S. 1). Insbesondere mussten C.______, F.______ und D.______
+nach der allgemeinen Lebenserfahrung und dem gewöhnlichen Lauf der Dinge
+vorliegend damit rechnen, dass die Strafbehörden danach fragen werden, wie
+das Treffen am 12. Januar 2015 abgelaufen ist. Zum Ablauf dieses Treffens
+gehören u.a. auch dessen Dauer und der allfällige Geldübergabevorgang. Gerade
+in diesen Punkten weisen die Angaben von D.______, C.______ und F.______ eben
+Widersprüche auf (siehe oben E. III. Ziff. 3.2.1).
+Falls diese Widersprüche auf eine
+fehlende Absprache zwischen D.______, C.______ und F.______ zurückzuführen
+sind, bestünde darin somit im Hinblick auf die aufgezeigten Strafdrohungen
+ein Hinweis darauf, dass die Angaben von D.______, C.______ und F.______ der
+Wahrheit entsprechen.
+Als Erklärung für
+die verschiedenen Angaben zur Dauer des Treffens wäre eine unterschiedliche
+Zeitwahrnehmung durch die betreffenden Personen denkbar. Die voneinander
+abweichenden Angaben zur Geldübergabe könnten daher rühren, dass die
+betreffenden Varianten allenfalls anlässlich des Treffens am 12. Januar 2015
+diskutiert wurden. Entsprechend könnten die Erinnerungen von C.______,
+F.______ und D.______ beeinflusst worden sein. Ausserdem fanden die
+polizeilichen Einvernahmen mehr als einen Monat nach dem Treffen am
+12. Januar 2015 statt, was einen Einfluss auf das Erinnerungsvermögen
+von C.______, F.______ und D.______ gehabt haben könnte.
+4.2.4
+Möglich ist aber auch, dass
+C.______, F.______ und D.______ sich trotz falscher Anschuldigung und den
+damit vorliegend verbundenen Strafdrohungen nach Art. 146 StGB und Art. 303
+StGB nicht abgesprochen haben resp. eine allfällige Absprache und/oder deren
+Umsetzung nur unzureichend erfolgt ist/sind.
+Es waren denn auch keine
+unabhängigen Dritten beim Treffen zwischen der Beschuldigten, D.______,
+C.______ und F.______ am 12. Januar 2015 in [...] in der Wohnung von C.______
+anwesend, welche gegebenenfalls hätten bezeugen können, dass der
+Beschuldigten kein Geld übergeben worden ist.
+D.______, C.______
+und F.______ haben namentlich aufgrund der persönlichen Beziehungen
+zueinander und aus finanziellen Gründen (siehe oben E. III. Ziff. 3.1.2) ein
+gemeinsames Interesse daran, dass die Beschuldigte schuldig gesprochen und
+daran anknüpfend verpflichtet wird, C.______ den von ihm geforderten Betrag
+von CHF 27'000.— (vgl. Act. 75 i.V.m. act. 49 Dispositiv Ziff. 4) zu
+bezahlen.
+Die Beschuldigte
+und E.______ alias EE.______, gegen welchen in der vorliegenden Sache eben
+auch ein Strafverfahren läuft (siehe oben E. III. Ziff. 3.1.5), haben
+ein Interesse daran, dass die Beschuldigte freigesprochen wird und nichts an
+C.______ zu bezahlen hat.
+Das Fehlen von
+unabhängigen Zeugen könnte
+für die Einschätzung des Risikos, wegen
+einer Straftat tatsächlich bestraft zu werden, eine Rolle gespielt haben,
+sowohl auf Seiten von D.______, C.______ und F.______ aber auch auf Seiten
+der Beschuldigten und von E.______ alias EE.______.
+So wird auch die
+Situation, dass der Aussage der Beschuldigten widersprechende Angaben von
+drei Personen, also von D.______, C.______ und F.______, gegenüberstehen, auf
+Grund des gemeinsamen Interesses der Letzteren relativiert. Damit könnte die
+Beschuldigte im Fall, dass sie die ihr vorgeworfene Straftat begangen hat,
+gerade gerechnet haben.
+4.2.5
+Widersprüche in den
+Angaben der Beschuldigten und von E.______ alias EE.______ (siehe oben E.
+III. Ziff. 3.4) können einerseits als Anzeichen für fehlende Glaubhaftigkeit
+ihrer Aussagen angesehen werden.
+Andererseits sind
+widersprüchliche Angaben der Beschuldigten und von E.______ alias EE.______
+auch möglich, wenn die Beschuldigte die ihr vorgeworfene Straftat nicht
+begangen hat. So können Angaben der Beschuldigten, welche früheren
+Äusserungen von ihr oder von E.______ alias EE.______ widersprechen, trotzdem
+wahr und/oder zulässige Verteidigungsmittel sein.
+4.2.6
+Da und soweit D.______, C.______
+und F.______ der Ansicht waren, dass die X.______ GmbH D.______ für
+Malerarbeiten zu wenig bezahlt hatte, kann auf einen Beweggrund von D.______,
+C.______ und F.______ für eine allfällige vorliegend in Frage stehende
+falsche Anschuldigung gegenüber der Beschuldigten geschlossen werden.
+Insbesondere sagte C.______ aus, dass er D.______ auch deshalb finanziell
+unterstützt habe, weil Zahlungen von der X.______ GmbH resp. der
+Beschuldigten an D.______ ausgeblieben seien (siehe oben E. III. Ziff. 3.1.3).
+Zudem sind D.______, C.______ und F.______, wie bereits ausgeführt, durch
+persönliche Beziehungen miteinander verbunden (siehe oben E. III.
+Ziff. 3.1.3). Zusammen damit, dass D.______ die Beschuldigte
+aufforderte, das Dokument «Benötigte Summe» (act. 2/1/12 und 67) zu
+erstellen, dass C.______ die Beschuldigte aufforderte, dieses Dokument zu
+unterzeichnen, und dass es keine Quittung für eine erfolgte Geldübergabe von
+C.______ an die Beschuldigte darstellt (siehe oben E. III. Ziff. 3.3.2),
+bestehen somit Anzeichen für eine mögliche falsche Anschuldigung gegenüber
+der Beschuldigten durch D.______, C.______ und F.______.
+Die Verteidigung macht geltend,
+es hätte eine Abneigung von C.______ und F.______ gegenüber der Beschuldigten
+bestanden, wodurch eine Geldübergabe von C.______ an die Beschuldigte
+realitätsfern sei (vgl. act. 66 S. 6 Ziff. 11 i.V.m. S. 8
+Ziff. 18). D.______ fühlte sich nach eigenen Angaben wegen der ausgebliebenen
+Bezahlung der von ihm geltend gemachten Forderungen von der Beschuldigten und
+von E.______ alias EE.______ betrogen (vgl. act. 2/2/5 S. 4 Ziff.
+17 f.; siehe auch schon oben E. III. Ziff. 3.1.3). F.______ sagte immerhin
+aus, es sei ihnen sehr komisch vorgekommen, dass D.______ C.______ gemeldet
+hatte, er erhalte zu wenig Geld für seine Arbeit (act. 2/2/9 S. 2
+Ziff. 1; siehe auch schon oben E. III. Ziff. 3.1.4). Es ist daher tatsächlich
+schwer nachzuvollziehen, dass C.______ der Beschuldigten einen Betrag in der
+Höhe von CHF 27'080.— resp. CHF 27'000.— gegeben haben soll, obwohl sich
+D.______ von ihr und E.______ alias EE.______ übervorteilt fühlte.
+Auch wenn C.______ am 12. Januar
+2015 von seinem [...] Privatkonto CHF 28'000.— in 28 Tausendernoten
+abgehoben hat (siehe oben E. III. Ziff. 3.2.6), folgt daraus nicht
+zwingend, dass er der Beschuldigten gleichentags CHF 27'080.— resp. CHF
+27'000.— (siehe oben E. III. Ziff. 3.2.1) übergeben hat.
+4.2.7
+Es ist aber auch möglich, dass
+D.______, C.______ und F.______ trotz der von D.______ gegenüber der X.______
+GmbH resp. der Beschuldigten geltend gemachten Forderungen darauf vertrauten,
+dass die Beschuldigte und E.______ alias EE.______ entsprechend ihren
+Aussagen (siehe oben E. III. Ziff. 3.4.4) D.______ tatsächlich bei der
+Aufnahme einer selbständigen Erwerbstätigkeit unterstützen wollten. Wie
+bereits erwähnt, sagte F.______ einerseits aus, dass sie der Beschuldigten im
+Zeitpunkt des Treffens am 12. Januar 2015 vertraute, wobei persönliche
+Kontakte zwischen D.______, C.______, F.______ und der Beschuldigten
+bestanden (siehe oben E. III. Ziff. 3.1.2-3.1.4). Andererseits sagte sie eben
+aus, es sei ihr und C.______ sehr komisch vorgekommen, dass D.______ C.______
+gemeldet habe, D.______ habe zu wenig Geld für seine Arbeit erhalten (siehe
+oben E. III. Ziff. 3.1.4 und Ziff. 4.2.6 sowie act. 2/2/9 S. 2
+Ziff. 1). Diese Aussagen können auch so verstanden werden, dass F.______ und
+C.______ gegenüber D.______ und seinem Projekt der beruflichen
+Selbständigkeit gewisse Vorbehalte hatten. Nach Aussage von C.______ hatte er
+zum Zeitpunkt der polizeilichen Einvernahme am 28. Februar 2015 D.______
+und dessen Ehefrau, die Tochter von F.______, mit insgesamt ca. CHF 60'000.—
+unterstützt gehabt (act. 2/2/7 S. 3 Ziff. 7; siehe auch schon oben E. III.
+Ziff. 3.1.2). Zu dieser Annahme würde auch passen, dass sich C.______ von der
+Beschuldigten, die damals als Geschäftsfrau auftrat, bestätigen lassen
+wollte, dass der Betrag für eine Unternehmensgründung, wie D.______ ihm
+vorher mitgeteilt hatte (act. 2/2/7 S. 4 Ziff.11; siehe auch schon oben E.
+III. Ziff. 3.2.6), auch realistisch ist und dass C.______ darum das Geld
+der Beschuldigten aushändigte. Naheliegend wäre es nämlich gewesen, dass
+C.______ das Geld D.______ ausgehändigt hätte, war es doch für dessen
+Unternehmensgründung gedacht. Selbst wenn abgemacht gewesen wäre, dass die
+Beschuldigte die im Dokument "benötigte Summe" aufgeführten
+Versicherungen für D.______ abgeschlossen hätte bzw. die Anmeldung bei den
+Sozialversicherungen vorgenommen hätte, so ergibt sich daraus nicht die
+Notwendigkeit, ihr das Geld dafür – noch dazu in bar – zu geben. Auch wenig
+geschäftserfahrene Personen wissen in der Regel, dass man bei Abschluss von
+Versicherungen eine Rechnung mit einem Einzahlungsschein oder zumindest die
+erforderlichen Kontoangaben erhält, um die Zahlung vornehmen zu können. Das
+gleiche gilt auch für staatliche Stellen (Steuerrechnungen,
+Gebührenrechnungen etc.). Hätte die Beschuldigte die Geschäftsgründung für
+D.______ vornehmen sollen, so entspräche es eher dem üblichen Vorgehen, dass
+sie D.______ die eintreffenden Rechnungen weitergegeben hätte, zumal er und
+die Beschuldigte Nachbarn im gleichen Haus waren. Hingegen kann es Sinn
+gemacht haben, das Geld der Beschuldigten zur Vornahme der Einzahlungen zu
+geben, wenn C.______ und F.______ einen Vorbehalt dagegen hatten, das Geld
+direkt D.______ zu geben, ihn aufgrund der familiären Beziehungen jedoch
+trotzdem unterstützen wollten.
+Entgegen der Auffassung der
+Verteidigung (vgl. act. 66 S. 7 Ziff. 12) schliesst die elektronische
+Textkommunikation vom 12. Januar 2015 (act. 2/2/4 S. 1) nicht aus, dass
+D.______ ernsthaft beabsichtigte, sich selbständig zu machen. Wenn D.______,
+wie er aussagte (siehe oben E. III. Ziff. 3.2.6), anlässlich eines Gespräches
+mit E.______ alias EE.______ am 3. Dezember 2014 die Information erhalten
+hatte, für die Aufnahme einer selbständigen Erwerbstätigkeit seien
+Investitionen in Höhe von etwa CHF 26'000.— erforderlich, so hätte er
+davon ausgehen können, dass die Beschuldigte resp. E.______ alias EE.______
+die betreffenden Angaben relativ schnell auch schriftlich festhalten konnte.
+D.______ und C.______ sagten aus, sie hätten darüber gesprochen,
+dass D.______ sich selbständig machen wolle und dafür Geld benötige. Nach den
+Aussagen von D.______, C.______ und F.______
+habe D.______ C.______ am
+11. oder morgens am 12. Januar 2015 per SMS mitgeteilt, dass er, D.______, am
+12. Januar 2015 zusammen mit der Beschuldigten nach [...] zu ihm,
+C.______, kommen und dann CHF 27'000.— benötigen werde (siehe oben E.
+III. Ziff. 3.2.6). In diesem Fall wäre nachvollziehbar, dass D.______ am
+12. Januar 2015, insbesondere auch für C.______, noch eine entsprechende
+schriftliche Kostenaufstellung von der Beschuldigten wollte.
+Die allfällige Bereitschaft von
+C.______, den relativ hohen Betrag von CHF 27'000.— zur Verfügung zu
+stellen, um eine selbständige Erwerbstätigkeit von D.______ zu ermöglichen,
+kann mit der persönlichen Beziehung zwischen C.______ und D.______ erklärt
+werden. Zudem liegt es im eigenen Interesse von C.______, dass D.______, den
+er auch vorher schon finanziell unterstützte (siehe oben E. III. Ziff. 3.1.2
+und 3.1.3), von ihm finanziell unabhängig wird und darüber hinaus
+Rückzahlungen an ihn leisten kann.
+Die Verteidigung macht sinngemäss
+geltend, das Dokument "Benötigte Summe" (act. 2/1/12 und 67) sei
+erkennbar so mangelhaft, dass die Geldübergabe nach summarischer Prüfung
+dieses Dokuments durch C.______ realitätsfern sei
+(siehe
+oben E. III. Ziff. 3.4.4)
+. Dieser Argumentation kann entgegnet werden,
+dass eine allfällige Übergabe des Geldes durch C.______ an die Beschuldigte
+durch ein auf persönlichen Beziehungen beruhendes Vertrauensverhältnis
+insbesondere zwischen C.______, F.______ und D.______ erklärbar wäre. Dies
+gilt insbesondere auch im Hinblick darauf, dass C.______ und F.______ übereinstimmend
+aussagten, D.______ – und nicht etwa die Beschuldigte – habe C.______ darum
+gebeten, der Beschuldigten das Geld zu übergeben
+(
+siehe
+oben E. III. Ziff. 3.2.6). Zudem war D.______ am 12. Januar 2015 beim
+Treffen in [...] eben unstrittig auch anwesend (siehe oben E. III. Ziff.
+3.1.1). Ausserdem waren C.______ und F.______ mit der Beschuldigten vor dem
+12. Januar 2015 persönlich bekannt (siehe oben E. III.
+Ziff. 3.1.4).
+Das Fehlen einer
+Quittung für eine erfolgte Geldübergabe von C.______ an die Beschuldigte
+schliesst nicht aus, dass C.______ der Beschuldigten das Geld übergeben hat.
+Die Aussage von C.______, er sei davon ausgegangen, das von ihm und der
+Beschuldigten unterzeichnete Dokument "Benötigte Summe"
+(act. 2/1/12 und 67) genüge als solche Quittung (siehe oben E. III.
+Ziff. 3.3.2) könnte der Wahrheit entsprechen. Hinzu kommt, dass eben mehrere,
+wenn auch nicht unabhängige Personen
+am Treffen als mögliche Zeugen
+für eine allfällige Geldübergabe anwesend waren.
+4.2.8
+Wie bereits ausgeführt, wäre es
+naheliegend gewesen, wenn C.______ die Geldsumme direkt D.______ gegeben
+hätte. Eine weitere mögliche Sachverhaltsvariante ist daher, dass C.______ am
+12. Januar 2015 CHF 27'000.— an D.______ –
+und
+nicht an die Beschuldigte
+– übergeben hat. Dagegen spricht auch nicht,
+dass selbst die Beschuldigte keine entsprechende Aussage gemacht hat. Falls
+die Beschuldigte gemäss ihrer Aussage während des Treffens am 12. Januar 2015
+tatsächlich zeitweise alleine in einem Raum war und D.______ gestikuliert
+hatte, sie solle weggehen, als sie zwischendurch einmal nachschauen gegangen
+war (siehe oben E. III. Ziff. 3.4.5), könnte mindestens D.______ damit
+bezweckt haben, dass dann die allfällige Geldübergabe an ihn für die
+Beschuldigte unbemerkt erfolgte.
+C.______ könnte von D.______ eine
+Kostenaufstellung durch eine Drittperson, vorliegend das Dokument
+"Benötigte Summe" (act. 2/1/12 und 67), verlangt haben, um
+sicherzustellen, dass die Zahlung von CHF 27'000.— resp. 27'080.— an D.______
+erforderlich ist, um ihm eine selbständige Erwerbstätigkeit zu ermöglichen.
+Das Fehlen einer Ermächtigung der
+Beschuldigten oder von sonst jemandem durch D.______, in dessen Namen die
+Rechtshandlungen vorzunehmen, welche nach den Angaben auf dem Dokument
+„Benötigte Summe“ (act. 2/1/12 und 67) erforderlich sind (siehe oben E. III.
+Ziff. 3.3.3), ist ein Anhaltspunkt dafür, dass C.______ am 12. Januar 2015
+CHF 27'000.— an D.______ übergeben haben könnte. Einen Hinweis auf diese
+Sachverhaltsvariante ist die Reaktion von D.______ auf die Aussage der
+Beschuldigten, sie habe D.______ am 12. Januar 2015 CHF 400.— gegeben.
+D.______ sagte hierzu aus (act. 2/8/6 S. 4 f. Ziff. 15 f.): "Wieso soll
+ich diese CHF 400.— nehmen, wenn ich quasi CHF 27'080.— für die Firma
+bekomme". Diese Aussage macht keinen Sinn, wenn die CHF 27'080.— der
+Beschuldigten ausgehändigt wurden und für die Bezahlung von Aufwendungen für
+die Gründung einer GmbH gedacht waren. In diesem Fall hätte D.______ dieses
+Geld nicht zu seiner persönlichen Verfügung gehabt. Für diese Sachverhaltsvariante
+kann auch sprechen, dass zwar ein Schreiben vorliegt, welches als
+Einschreiben bezeichnet ist und mit welchem D.______ die Zustellung
+sämtlicher Unterlagen und "auch alle Quittungen der bezahlten CHF
+27'080.70" verlangte (act. 2/1/13), sich jedoch in den
+Untersuchungsakten keine Hinweise darauf finden lassen, dass D.______ zuerst
+auf eine weniger formelle Weise nach dem Stand der Unternehmensgründung und
+einer Abrechnung der entstandenen Kosten gefragt hätte, z.B. per WhatsApp
+oder mündlich, waren D.______ und die Beschuldigte doch zum damaligen
+Zeitpunkt Nachbarn. Jedoch schliesst dies auch nicht aus, dass C.______ das
+Geld doch der Beschuldigten übergeben hatte. Es ist auch plausibel, dass
+D.______ sogleich zu diesem formellen Vorgehen geschritten ist, weil er
+gemäss seiner Aussage bereits schlechte Erfahrungen mit der Beschuldigten und
+E.______ alias EE.______ gemacht hatte (siehe oben E. III. Ziff. 3.1.3
+und 4.2.6) und darum schneller misstrauisch wurde, als er keine Unterlagen
+zur Unternehmensgründung erhielt.
+4.2.9
+Es scheint möglich, dass die
+Beschuldigte die CHF 10'000.—, welche am 15. Januar 2015 in bar auf das
+[...]-Konto einbezahlt wurden, entsprechend ihrer Aussage (siehe oben E. III.
+Ziff. 3.6) angespart hat, insbesondere aus Barzahlungen von Kunden der
+X.______ GmbH. So entspricht es auch der allgemeinen Lebenserfahrung und dem
+gewöhnlichen Lauf der Dinge, dass Reinigungsarbeiten regelmässig in bar
+bezahlt werden.
+Aus den Belastungen, welche den
+betreffenden Kontoauszügen entnommen werden können, ergeben sich, unter
+Vorbehalt von erfolgten Geldverschiebungen vom einen auf das andere Konto,
+Ausgaben der Beschuldigten resp. der X.______ GmbH im Januar und Februar 2015
+in Höhe von insgesamt über CHF 40'000.— resp. ohne Barbezüge über
+CHF 20'000.— (siehe oben E. III. Ziff. 3.6). Auch im Hinblick darauf ist
+das Ansparen von CHF 10'000.— vor dem 15. Januar 2015 mit der Aussage
+der Beschuldigten, ihre finanzielle Situation im Januar 2015 sei "nicht
+gut und nicht schlecht" gewesen (siehe oben E. III. Ziff. 3.6)
+vereinbar.
+Die Aussage der Beschuldigten,
+die am 15. Januar 2015 auf das [...]-Konto einbezahlten CHF 10'000.— seien
+angespart worden, steht aber in einem gewissen Widerspruch dazu, dass
+die Beschuldigte nach eigener Angabe um ihre Kreditwürdigkeit besorgt
+war (siehe oben E. III. Ziff. 3.6). Entsprechend wäre zu erwarten, dass die
+Beschuldigte früher aus dann bereits Angespartem Bareinzahlungen auf das
+[...]-Konto geleistet hätte, um den tatsächlich eingetretenen Negativsaldo (siehe
+oben E. III. Ziff. 3.6) zu verhindern. Die nach Aussage der Beschuldigten
+gewollte Umsatzsteigerung (siehe oben E. III. Ziff. 3.6) hätte auch erreicht
+werden können, wenn vor dem 15. Januar 2015 schrittweise unter
+CHF 10'000.— liegende Barbeträge eingezahlt worden wären.
+Allgemein erscheint es
+allerdings, nach der allgemeinen Lebenserfahrung und dem gewöhnlichen Lauf
+der Dinge, eher als unwahrscheinlich, dass jemand, der bestreitet resp.
+bestreiten wird, Bargeld erhalten zu haben, dieses Geld kurz nach Erhalt auf
+ein Bankkonto einbezahlt (hat), das auf den eigenen Namen lautet.
+Im Übrigen bestand auch keine Notwendigkeit, gerade am 15. Januar
+2015 CHF 10'000.— auf das [...]-Konto einzubezahlen. Dieser Betrag wurde
+damals nicht für eine Überweisung vom [...]-Konto aus benötigt, sank doch der
+Saldo bis zur Einzahlung der CHF 5'000.— am 26. Januar 2015 nicht unter CHF
+11'721.93 und nach dieser Einzahlung erst Anfang Februar 2015 unter
+CHF 15'000.— (siehe oben E. III. Ziff. 3.6).
+Die Verteidigung argumentiert
+(sinngemäss), es ergebe keinen Sinn, dass die Beschuldigte am 12. Januar 2015
+vor dem Treffen CHF 3'300.— und danach CHF 1'340.— abgehoben habe, wenn
+sie damit gerechnet hätte, CHF 27'080.— zu erhalten resp. nachdem sie diesen
+Betrag erhalten hätte (vgl. act. 66 S. 10 Ziff. 24).
+Die Beschuldigte hätte einen
+allfälligen Veruntreuungsvorsatz auch erst fassen können, nachdem ihr
+gegebenenfalls das Geld übergeben worden war. Schon deswegen schliesst der
+Umstand, dass am 12. Januar 2015 insgesamt CHF 4'640.— vom [...]-Konto
+abgehoben wurden (siehe oben E. III. Ziff. 3.6), nicht aus, dass die
+Beschuldigte gleichentags CHF 27'000.— von C.______ erhielt und diesen
+Betrag zweckwidrig verwendete.
+Die Angabe der
+Beschuldigten, dass die CHF 5'000.—, welche am 26. Januar 2015 auf das
+[...]-Konto und die CHF 2'700.—, welche am 12. Januar 2015 auf das
+[...]-Konto eingezahlt wurden, aus dem jeweiligen anderen Konto stammten
+(siehe oben E. III. Ziff. 3.6), bedeutet nicht zwingend, dass das Geld nach
+Abhebung beim einen Konto sofort wieder beim anderen Konto einbezahlt wurde.
+Somit muss kein Widerspruch zur gerade erwähnten Aussage der Beschuldigten
+bestehen, nur weil seit dem 1. Januar 2015 bis zum 26. Januar 2015 vom
+[...]-Konto lediglich Barbezüge in Höhe von insgesamt CHF 1'330.— und
+nicht CHF 5'000.— erfolgten (siehe oben E. III. Ziff. 3.6). Entsprechendes
+gilt im Hinblick darauf, dass am 12. Januar 2015 zwar vom [...]-Konto
+insgesamt CHF 4'640.— abgehoben wurden, dieser Betrag aber auch zusammen
+mit den am 13. Januar 2015 vom [...]-Konto bezogenen CHF 1'200.— nicht
+ausreichte, um am 12. Januar 2015 CHF 2'700.— auf das [...]-Konto
+einzuzahlen und am 14. Januar 2015 noch CHF 5'500.— im Rahmen eines
+Autokaufs zu bezahlen (siehe oben E. III. Ziff. 3.6).
+Davon abgesehen
+sind auch keine (grösseren) Ausgaben der Beschuldigten resp. der X.______
+GmbH ersichtlich, welche darauf hinweisen würden, dass die Beschuldigte über
+den aus den betreffenden Kontoauszügen ersichtlichen Barbezug im Januar und
+Februar 2015 in Höhe von insgesamt über CHF 17‘000.— (siehe oben E. III.
+Ziff. 3.6) hinaus Bargeld ausgegeben hätte.
+4.2.10
+Betreffend die seit dem 22. Mai
+2017 laufende Strafuntersuchung gegen die Beschuldigte (siehe oben
+E. III. Ziff. 3.7) gilt die Unschuldsvermutung (vgl. Art. 10
+Abs. 1 StPO).
+4.2.11
+Die nach eigener
+Aussage von E.______ alias EE.______ erfolgte Verurteilung von ihm in [...]
+wegen einer strafbaren Handlung gegen das Vermögen, der den Akten zu
+entnehmende Hinweis auf das Bestehen einschlägiger polizeilicher Vorakten zu
+ihm sowie die Bestätigung der Beschuldigten, ihr sei bekannt, dass E.______
+alias EE.______ mehrfach im „Saldo“ und im „K-Tipp“ erwähnt worden sei und
+die EE.______ AG auf der Warnliste der FINMA gestanden sei, (siehe oben E.
+III. Ziff. 3.8), lassen auf eine gewisse Bereitschaft von E.______ alias
+EE.______ schliessen, strafbare Handlungen gegen das Vermögen zu begehen.
+Die Aussage der
+Beschuldigten, dass sie betreffend die Übernahme aller ihrer Mitarbeitenden
+und Kunden durch E.______ alias EE.______, als er noch ihr Lebenspartner war,
+mit allem einfach einverstanden gewesen sei (siehe oben E. III. Ziff. 3.8)
+lassen den Schluss auf eine gewisse Bereitschaft der Beschuldigten zu, auch
+für sie allenfalls nachteiligen Ansinnen von E.______ alias EE.______
+entsprochen zu haben, als er noch ihr Lebenspartner war.
+Hierbei ist allerdings auch zu
+beachten, dass schon in der Strafanzeige vom 17. Februar 2015 auf für
+die Beschuldigte und insbesondere auch für E.______ alias EE.______
+nachteilige Gegebenheiten (z.B. betreffend "zahlreiche Konkurse bzw.
+Firmenlöschungen" und einen "Bericht im Kassensturz")
+hingewiesen wurde (act. 2/1/2 S. 2 f.).
+Falls D.______, C.______ und
+F.______ von entsprechenden für die Beschuldigte und E.______ alias EE.______
+nachteiligen Informationen im Zeitpunkt des Treffens mit der Beschuldigten am
+12. Januar 2015 Kenntnis hatten, würde dies gerade gegen eine Geldübergabe an
+die Beschuldigte sprechen.
+Darüber hinaus ist auch möglich,
+dass D.______, C.______ und F.______ von Anfang an von solchen Informationen
+Kenntnis hatten und diese gerade zu ihren Gunsten im Rahmen eine allfälligen
+falschen Anschuldigung gegenüber der Beschuldigten ausnutzen wollten.
+5.
+5.1
+Die Beschuldigte kann sich
+vorliegend nur strafbar gemacht haben, wenn C.______ ihr Bargeld übergeben
+hat und sie dieses in der Folge zweckwidrig verwendet hat.
+5.2
+5.2.1
+Aus den vorstehenden Ausführungen
+(siehe oben E. III. Ziff. 4) folgt, dass auch für eine auf einer
+Gesamtwürdigung von Indizien beruhende Sachverhaltsfeststellung zu viele
+Unsicherheiten vorliegen und mehrere Sachverhaltsvarianten möglich
+erscheinen. Damit bestehen unüberwindliche Zweifel daran, dass C.______ der
+Beschuldigten (am 12. Januar 2015) Bargeld (in Höhe von CHF 27'080.—)
+übergeben hat.
+5.2.2
+Zwar liegen
+Tonaufnahmen der Einvernahmen von C.______ und F.______ im erstinstanzlichen
+Hauptverfahren (act. 26) vor, C.______ und F.______ sind aber hörgeschädigt
+und ihre Einvernahmen erfolgten mittels Dolmetscherinnen (vgl. act. 28 und
+29, jeweils S. 1 f.).
+Die Protokolle der
+Einvernahmen von C.______ und F.______ im erstinstanzlichen Hauptverfahren
+sind von C.______ und F.______ nicht unterzeichnet worden (vgl. act. 28 und
+29).
+Die sich vor diesem
+Hintergrund stellende Frage nach der Verwertbarkeit kann vorliegend aber
+offen bleiben, da die betreffenden protokollierten Aussagen von C.______ und
+F.______ im Vergleich mit den früheren Angaben keine neuen
+verfahrensrelevanten Erkenntnisse liefern.
+Im Übrigen ist
+nicht ersichtlich, dass erneute Befragungen oder andere zusätzliche
+Beweiserhebungen zur Wahrheitsfindung geeignet und erforderlich wären.
+5.3
+Folglich ist entsprechend Art. 10
+Abs. 3 StPO, wonach eben bei Bestehen von unüberwindlichen Zweifeln an der
+Erfüllung der tatsächlichen Voraussetzungen der angeklagten Tat von der für
+die beschuldigte Person günstigeren Sachlage auszugehen ist, davon
+auszugehen, dass C.______ der Beschuldigten kein Bargeld übergeben hat.
+Die Beschuldigte ist somit
+vollumfänglich freizusprechen.
+IV.
+1.
+Die Vorinstanz hat
+entschieden, dass die anlässlich der Hausdurchsuchung vom 19. Februar
+2015 aufgefundenen und anschliessend beschlagnahmten Aufzeichnungen
+(act. 2/5/I 089-114) der Staatsanwaltschaft zur Durchführung des
+Verfahrens gegen E.______ alias EE.______ gestützt auf Art. 194 StPO
+herauszugeben sind (act. 49 S. 21 E. VI. und S. 24 Dispositiv Ziff. 3).
+Die
+Staatsanwaltschaft beantragt in der Berufungsantwort vom 30. Oktober 2018,
+dass das vorinstanzliche Urteil vom 21. März 2018 in allen Punkten zu
+bestätigen sei (act. 78 S. 1). Während die Staatsanwaltschaft im
+vorinstanzlichen Verfahren beantragte, dass die beschlagnahmten
+Aufzeichnungen nach Rechtskraft E.______ alias EE.______ herauszugeben seien
+(act. 1 S. 5 und act. 49 S. 3), beantragt sie im vorliegenden
+Berufungsverfahren somit implizit die Aufrechterhaltung der Beschlagnahme
+dieser Aufzeichnungen sowie deren Herausgabe an die Staatsanwaltschaft.
+Nach Art. 192 Abs.
+1 StPO nehmen die Strafbehörden die Beweisgegenstände vollständig und im
+Original zu den Akten. In Art. 194 Abs. 1 StPO ist festgehalten, dass die
+Staatsanwaltschaft und die Gerichte Akten anderer Verfahren beiziehen, wenn
+dies für den Nachweis des Sachverhalts oder die Beurteilung der beschuldigten
+Person erforderlich ist.
+Nach Art. 103 Abs.
+2 StPO sind Originaldokumente, die zu den Akten genommen wurden, den
+berechtigten Personen gegen Empfangsschein zurückzugeben, sobald die
+Strafsache rechtskräftig entschieden ist. Wurden Originaldokumente
+beschlagnahmt, ist Art. 267 Abs. 3 StPO einschlägig. Danach ist im Fall, dass
+die Beschlagnahme eines Gegenstandes oder Vermögenswertes nicht vorher
+aufgehoben worden ist, über seine Rückgabe an die berechtigte Person, seine
+Verwendung zur Kostendeckung oder über seine Einziehung im Endentscheid zu
+befinden. Die Herausgabe von beschlagnahmten Gegenständen zwecks Verwendung
+in einem anderen Verfahren ist hier nicht ausdrücklich geregelt.
+2.
+Vorliegend ist nicht ersichtlich,
+dass der Beizug der beschlagnahmten Aufzeichnungen (act. 2/5/I 089-114)
+im Verfahren gegen E.______ alias EE.______ i.S.v. Art. 194 Abs. 1 StPO
+erforderlich sein könnte. Eine entsprechende Begründung der
+Staatsanwaltschaft liegt denn auch nicht vor.
+Damit ist auch kein Grund mehr
+gegeben für die Beschlagnahme (vgl. Art. 263 Abs. 1 StPO) dieser
+Aufzeichnungen (act. 2/5/I 089-114).
+Die beschlagnahmten
+Aufzeichnungen (act. 2/5/I 089-114) sind somit nach Rechtskraft an E.______
+alias EE.______, der eben im Durchsuchungsprotokoll als deren Inhaber
+aufgeführt ist (siehe oben E. III. Ziff. 3.5), herauszugeben, zumal auch die
+Beschuldigte soweit ersichtlich nie etwas anderes beantragte.
+Der Staatsanwaltschaft steht es
+frei, vor Rechtskraft Kopien der beschlagnahmten Aufzeichnungen (act. 2/5/I
+089-114) anzufertigen (vgl. Art. 192 Abs. 2 StPO), diese zu den
+Untersuchungsakten im Verfahren GE.2017.00007 (SA.2015.00083) zu nehmen und
+dann im Verfahren gegen E.______ alias EE.______ beizuziehen, falls die
+Voraussetzungen von Art. 194 Abs. 1 StPO (allenfalls später) erfüllt sind.
+Ebenso kann die
+Staatsanwaltschaft die betreffenden Original-Aufzeichnungen (act. 2/5/I
+089-114) erneut beschlagnahmen (im Verfahren gegen E.______ alias EE.______),
+wenn die Voraussetzungen dafür erfüllt sind (gegebenenfalls auch vor der Herausgabe
+an E.______ alias EE.______).
+V.
+Nach Art. 126 Abs.
+1 Bst. b StPO
+entscheidet das Gericht über die anhängig gemachte
+Zivilklage, wenn es die beschuldigte Person freispricht und der Sachverhalt
+spruchreif ist.
+Ein spruchreifer Sachverhalt
+liegt vor, wenn über den Zivilanspruch ohne Weiterungen auf Grund der im
+bisherigen Verfahren gesammelten Beweise entschieden werden kann (Botschaft
+StPO, BBl 2006 1085, 1174).
+Die von C.______ gegenüber der
+Beschuldigten geltend gemachte Forderung in Höhe von CHF 27'000.— beruht
+darauf, dass er ihr Geld in Höhe dieses Betrages übergeben und die
+Beschuldigte dieses Geld in der Folge zweckwidrig verwendet habe.
+Die Frage danach, ob C.______ der
+Beschuldigten CHF 27'000.— übergeben hat, war vorliegend nach dem
+Untersuchungsgrundsatz von Amtes wegen abzuklären (vgl. Art. 6 Abs. 1 StPO
+und oben E. III. Ziff. 5.1).
+Diese Abklärungen haben unter
+Ausschöpfung der ersichtlich geeigneten und erforderlichen Beweiserhebungen
+ergeben, dass unüberwindliche Zweifel daran bestehen, dass C.______ der
+Beschuldigten Geld (in Höhe von CHF 27'000.—) übergeben hat (siehe oben E.
+III. Ziff. 5.2).
+Damit ist (auch) nicht
+(zivil-)rechtsgenügend bewiesen, dass C.______ der Beschuldigten Geld (in
+Höhe von CHF 27'000.—) übergeben hat.
+Folglich ist die von C.______
+gegenüber der Beschuldigten geltend gemachte Forderung abzuweisen.
+VI.
+1.
+Die Kosten des gesamten
+Strafverfahrens sind beim vorliegenden Ausgang vom Staat zu tragen (vgl. Art.
+423 Abs. 1 StPO und Art. 428 Abs. 1 StPO).
+2.
+Rechtsanwalt
+B.______ ist als amtlicher Verteidiger für seine Bemühungen im
+Berufungsverfahren aus der Gerichtskasse mit CHF 2'424.05
+(inkl. MwSt.) zu entschädigen.
+Die Entschädigung
+ist beim vorliegenden Ausgang des Berufungsverfahrens dem Staat aufzuerlegen
+(vgl.
+Art. 429 Abs. 1 Bst. a StPO).
+____________________
+Das
+Gericht erkennt:
+1.
+Es wird vorgemerkt, dass
+Dispositiv Ziff. 5 und 6 des Urteils des Kantonsgerichts des Kantons Glarus
+vom 21. März 2018 im Verfahren SG.2017.00068 in Rechtskraft erwachsen sind.
+2.
+A.______ wird vollumfänglich
+freigesprochen.
+3.
+Die beschlagnahmten
+Aufzeichnungen, GE.2017.00007 / SA.2015.00083, Register 5, I 089 bis
+I 114, werden E.______ alias EE.______ herausgegeben.
+4.
+Die Zivilforderung von C.______
+wird abgewiesen.
+5.
+Die Kosten der Untersuchung
+(GE.2017.00007 / SA.2015.00083), des erstinstanzlichen Verfahrens
+(SG.2017.00068) sowie des Berufungsverfahrens werden auf die Staatskasse
+genommen.
+6.
+Rechtsanwalt B.______ wird als
+amtliche Verteidigung für seine Bemühungen im erstinstanzlichen Verfahren
+(entsprechend Dispositiv Ziff. 9 des erstinstanzlichen Entscheides) mit
+CHF 3'629.60 (inkl. MwSt.) aus der Gerichtskasse entschädigt.
+7.
+Rechtsanwalt B.______ wird auch
+im Berufungsverfahren als amtliche Verteidigung bestellt und für seine
+Bemühungen im Berufungsverfahren mit CHF 2'424.05 (inkl. MwSt.) aus
+der Gerichtskasse entschädigt.
+8.
+Die Kosten der amtlichen
+Verteidigung sind von der Beschuldigten nicht zurückzuerstatten.
+9.
+Schriftliche Mitteilung an:
+[...]
