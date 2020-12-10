@@ -1,0 +1,317 @@
+---
+decision_id: "gl_gerichte_VG.2020.00090"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2020.00090"
+docket_2: "VG.2020.1011"
+decided: "2020-12-10"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1379&W10_KEY=218274&nTrefferzeile=5&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.20/art-001.md", "switzerland/bund/acts/831.20/art-069.md", "switzerland/bund/acts/831.201/art-026.md"]
+---
+
+# GL Gerichte VG.2020.00090
+
+## Regeste
+
+Sozialversicherung - IV
+
+## Text
+
+Glarus Verwaltungsgericht 10.12.2020 VG.2020.00090 (VG.2020.1011)
+Glaris Verwaltungsgericht 10.12.2020 VG.2020.00090 (VG.2020.1011)
+Glarona Verwaltungsgericht 10.12.2020 VG.2020.00090 (VG.2020.1011)
+
+Sozialversicherung - IV
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+10. Dezember 2020
+II. Kammer
+in Sachen
+VG.2020.00090
+A.______
+Beschwerdeführer
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+IV-Stelle Glarus
+Beschwerdegegnerin
+betreffend
+Invalidenrente
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Der im Jahr […] geborene A.______ leidet an einer
+Aufmerksamkeitsdefizit-Hyperaktivitätsstörung (ADHS) sowie an Beschwerden an
+der Hüfte und den Beinen. Er absolvierte zunächst ab August 2015 eine
+zweijährige Lehre als Büroassistent EBA. Nachdem er das entsprechende Diplom
+erlangt hatte, liess er sich bis Ende Juni 2020 in einer dreijährigen Lehre
+erfolgreich zum Kaufmann EFZ ausbilden. Während der Ausbildung zum Kaufmann
+EFZ erhielt er bis zum 31. Juli 2020 ein Taggeld der Invalidenversicherung.
+1.2
+Nachdem A.______ seine Lehre absolviert hatte,
+teilte die IV-Stelle Glarus seiner Mutter mit Vorbescheid vom 14. Juli 2020
+mit, dass er keinen Anspruch auf eine Invalidenrente habe. Damit erklärte
+sich A.______ nicht einverstanden und führte in seinem Einwand vom 6. August
+2020 aus, dass er mindestens eine halbe Invalidenrente zugute habe. Die
+IV-Stelle hielt jedoch in ihrer Verfügung vom 19. August 2020 an ihrem
+Vorbescheid fest.
+2.
+2.1
+In der Folge erhob A.______ am 21. September 2020
+Beschwerde beim Verwaltungsgericht und beantragte die Aufhebung der Verfügung
+vom 19. August 2020. Ihm seien die gesetzlichen Leistungen zu erbringen.
+Überdies seien ihm die unentgeltliche Prozessführung und die unentgeltliche
+Rechtsverbeiständung zu gewähren; alles unter Kosten- und
+Entschädigungsfolgen zu Lasten der IV-Stelle.
+2.2
+Die IV-Stelle schloss innert erstreckter Frist am
+28. Oktober 2020 auf Abweisung der Beschwerde.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 69 Abs. 1 lit. a des Bundesgesetzes über die
+Invalidenversicherung vom 19. Juni 1959 (IVG) zur Behandlung der vorliegenden
+Beschwerde zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt
+sind, ist auf die Beschwerde einzutreten.
+2.
+2.1
+Der Beschwerdeführer macht geltend, vorliegend sei
+einzig die Berechnung des Invaliditätsgrads strittig. Gemäss
+übereinstimmender Meinung der IV-Stelle Graubünden, der Beschwerdegegnerin
+und des Regionalen Ärztlichen Dienstes sei von einer Erwerbsfähigkeit von
+75 % auszugehen. Die orthopädischen Beschwerden an der Hüfte und an den
+Beinen schränkten ihn sehr ein. Er könne die Einschränkungen nur dank
+regelmässiger Physiotherapie gerade noch kompensieren. Vorliegend sei
+Art. 26 Abs. 1 der Verordnung über die Invalidenversicherung vom
+17. Januar 1961 (IVV) anwendbar. Er verstehe diese Bestimmung so, dass
+das Valideneinkommen gemäss dem Alter aufgerechnet werden müsse. Bis zum 21. Altersjahr
+betrage das massgebende Einkommen 70 % gemäss der Lohnstrukturerhebung
+(LSE) des Bundesamts für Statistik, also Fr. 58'450.-. Danach erhöhe es
+sich auf Fr. 66'800.-. Der Invaliditätsgrad betrage bis zum 21.
+Altersjahr 30 % und danach aufgerundet 40 %. Er erfülle daher
+spätestens mit Erreichung des 21. Lebensjahrs die Kriterien für die
+Ausrichtung einer Viertelsrente der Invalidenversicherung. Zusätzlich sei
+jedoch ein leidensbedingter Abzug anzubringen. Dabei sei die
+Invalidenkarriere zu beachten, welche zur Prognose führe, dass er künftig
+unterdurchschnittlich verdienen werde. Dem sei mit einem leidensbedingten
+Abzug von mindestens 25 % Rechnung zu tragen. Damit resultiere ein
+Invaliditätsgrad von mindestens 60 %.
+2.2
+Die Beschwerdegegnerin führt aus, massgebend sei der
+Sachverhalt im Zeitpunkt des Erlasses der angefochtenen Verfügung vom 19.
+August 2020. Daher könne nicht berücksichtigt werden, dass der
+Beschwerdeführer am 28. November 2020 21 Jahre alt geworden sei. Der
+Vollständigkeit halber sei aber klarzustellen, dass der Beschwerdeführer nach
+Vollendung des 21. Altersjahrs einen rentenausschliessenden Invaliditätsgrad
+von 39 % aufweise. Richtig sei, dass bei der Berechnung des
+Valideneinkommens Art. 26 Abs. 1 IVV, nicht Art. 26 Abs. 2 IVV anzuwenden
+sei. Damit ergebe sich ein Valideneinkommen von Fr. 58'450.-. Im Übrigen
+könne den Ausführungen des Beschwerdeführers aber nicht gefolgt werden.
+Aufgrund der medizinischen Einschätzungen müsste bei richtiger Betrachtung
+eigentlich festgestellt werden, dass er in einer behinderungsgeeigneten
+Tätigkeit wie beispielsweise im erlernten Beruf als Kaufmann EFZ trotz
+seiner gesundheitlichen Beschwerden 100 % arbeitsfähig sei. Insofern
+wirke es sich stark zu seinen Gunsten aus, dass bei der Ermittlung des
+Invalideneinkommens auf die berufspraktische Einschätzung des [...]
+abgestellt werde. Ein leidensbedingter Abzug komme nur in Frage, wenn auf die
+LSE-Tabellenlöhne abgestellt werde. Dies sei vorliegend nicht der Fall. Im
+Übrigen seien die geltend gemachten gesundheitlichen Beschwerden bereits im
+Rahmen der Arbeitsunfähigkeitsberechnung berücksichtigt worden.
+3.
+3.1
+3.1.1
+Dr. med. C.______, Allgemeinmedizin FMH, führte
+am 6. August 2019 aus, der Beschwerdeführer leide an einem femoroacetabulären
+Impingement beider Hüftgelenke und einer ADHS. Aufgrund des bisherigen
+Verlaufs sei weiterhin mit häufigen, kurzen Arbeitsunfähigkeiten zu rechnen.
+Eine Dauerarbeitsunfähigkeit im Sinne einer Invalidität sei jedoch nicht zu
+erwarten.
+3.1.2
+D.______, Fachärztin Psychiatrie und Psychotherapie
+FMH, gab am 17. September 2019 an, aus psychiatrischer Sicht sei der
+Beschwerdeführer voll arbeitsfähig.
+3.2
+Das [...] erstattete am 30. April 2020 den
+Schlussbericht über die beruflichen Massnahmen. Der Beschwerdeführer habe durch
+die abgeschlossene EBA-Ausbildung bereits über fortgeschrittene Fachkompetenz
+verfügt. Er habe motiviert gewirkt und bis auf das Fach Englisch in der
+Berufsschule genügende bis gute Noten erzielt. Er verfüge über die nötigen
+Kompetenzen und Fähigkeiten, um auf dem ersten Arbeitsmarkt zu bestehen. Um
+die Anstellungschancen nach der Ausbildung zu steigern, sei eine deutliche
+Reduktion der Absenzen wichtig. Hilfreich wäre bei Bedarf eine Unterstützung
+durch die Invalidenversicherung in Form von Einarbeitungszuschüssen. Die
+Leistungsfähigkeit des Beschwerdeführers betrage bezogen auf den ersten
+Arbeitsmarkt 75 %. Bei einem marktüblichen Lohn von Fr. 4'195.- pro
+Monat (Mindestlohn gemäss Gesamtarbeitsvertrag im Schweizer Gastgewerbe für
+Mitarbeitende mit einer beruflichen Grundbildung mit eidgenössischem
+Fähigkeitszeugnis oder gleichwertiger Ausbildung) betrage der Leistungslohn
+Fr. 3'146.25 pro Monat bzw. Fr. 40'901.25 (13 x
+Fr. 3'146.25) pro Jahr.
+4.
+4.1
+4.1.1
+Konnte die versicherte Person wegen der Invalidität
+keine zureichenden beruflichen Kenntnisse erwerben, so entspricht laut
+Art. 26 Abs. 1 IVV das Erwerbseinkommen, das sie als Nichtinvalide
+erzielen könnte, den folgenden nach Alter abgestuften Prozentsätzen des
+jährlich aktualisierten Medianwerts gemäss LSE: vor Vollendung von 21
+Altersjahren 70 %; nach Vollendung von 21 Altersjahren und vor
+Vollendung von 25 Altersjahren 80 %; nach Vollendung von 25
+Altersjahren und vor Vollendung von 30 Altersjahren 90 %; danach
+100 %.
+4.1.2
+Geburts- und Frühinvalide im Sinne von Art. 26
+Abs. 1 IVV sind Versicherte, die seit ihrer Geburt oder Kindheit an
+einem Gesundheitsschaden leiden und deshalb keine zureichenden beruflichen
+Kenntnisse erwerben konnten. Darunter fallen all jene Personen, die wegen
+ihrer Invalidität überhaupt keine Berufsausbildung absolvieren können. Ebenso
+dazu gehören aber auch Versicherte, die zwar eine Berufsausbildung
+abschliessen, zu deren Beginn jedoch bereits invalid waren und die
+absolvierte Ausbildung wegen ihrer Invalidität auf dem ausgeglichenen
+Arbeitsmarkt nicht in gleicher Weise "ummünzen" können wie
+nichtbehinderte Personen mit derselben (ordentlichen) Ausbildung (BGer-Urteil
+9C_233/2018 vom 11. April 2019 E. 1.2; Kreisschreiben des Bundesamts für
+Sozialversicherungen über Invalidität und Hilflosigkeit in der
+Invalidenversicherung [KSHI], gültig ab 1. Januar 2015, Rz. 3035).
+4.1.3
+Es ist zwischen den Parteien nunmehr zu Recht
+unbestritten, dass vorliegend für die Bemessung des Invalideneinkommens Art.
+26 Abs. 1 IVV zur Anwendung gelangt. Damit wird dem Umstand Rechnung
+getragen, dass der Beschwerdeführer die Berufslehre zum Kaufmann EFZ zwar
+abschliessen konnte, seine Fachkenntnisse aufgrund seiner ADHS aber
+wirtschaftlich nicht gleichermassen verwerten kann wie seine Berufskollegen.
+4.1.4
+Entgegen der Auffassung des Beschwerdeführers ist
+nach ständiger Rechtsprechung der Zeitraum bis zum Abschluss des
+Verwaltungsverfahrens Bezugsgrösse für den entscheidungsrelevanten
+Sachverhalt (BGE 143 V 409 E. 2.1). Bei Erlass der Verfügung
+vom 19. August 2020 hatte der Beschwerdeführer das 21. Altersjahr noch
+nicht beendet. Demzufolge ist es nicht zu beanstanden, dass die
+Beschwerdegegnerin in Anwendung von Art. 26 Abs. 1 IVV das Valideneinkommen
+auf 70 % des Medianwerts der LSE festlegen will, was Fr. 58'450.-
+entspricht (vgl. IV-Rundschreiben Nr. 393 vom 15. November 2019).
+4.2
+4.2.1
+Bezüglich des Invalideneinkommens ging die
+Beschwerdegegnerin zu Gunsten des Beschwerdeführers von den Angaben des [...]
+aus. Dieses gab einen Einsteiger-Lohn von Fr. 4'195.- pro Monat an,
+welchen es aufgrund der Leistungsfähigkeit des Beschwerdeführers um einen
+Viertel auf Fr. 3'146.25 reduzierte.
+4.2.2
+Der Beschwerdeführer macht zu Recht nicht geltend,
+dass seine Leistungsfähigkeit mit 75 % zu hoch eingeschätzt worden sei.
+Eine tiefere Einschätzung liesse sich denn auch mit Blick auf die im Recht
+liegenden Arztberichte, welche dem Beschwerdeführer eine volle
+Arbeitsfähigkeit attestieren, nicht vertreten. Allerdings geht er fehl, wenn
+er zusätzlich einen leidensbedingten Abzug verlangt. Mit einem solchen Abzug
+wird dem Umstand begegnet, dass eine versicherte Person aus bestimmten
+Gründen ihre gesundheitlich bedingte Restarbeitsfähigkeit auf dem allgemeinen
+Arbeitsmarkt nur mit unterdurchschnittlichem erwerblichen Erfolg verwerten
+kann (BGE 126 V 75 E. 5b). Dies ist aber nur dann angezeigt,
+wenn auf statistische Durchschnittslöhne abgestellt wird.
+Die Lohnschätzung des
+[...] geht hingegen auf die konkrete Situation des Beschwerdeführers ein. So
+wird einerseits nicht der Durchschnittslohn eines Kaufmanns EFZ als
+Ausgangsbasis genommen, sondern der Mindestlohn für Mitarbeitende mit einer
+beruflichen Grundbildung mit eidgenössischem Fähigkeitszeugnis im
+Gastgewerbe, also in der Branche, in welcher sich der Beschwerdeführer zum
+Kaufmann ausbilden liess. Anderseits berücksichtigt das [...] bei seiner
+Schätzung bereits die behinderungsbedingten Einschränkungen des
+Beschwerdeführers, indem es trotz der ärztlich attestierten vollen
+Arbeitsfähigkeit die Leistungsfähigkeit auf lediglich 75 % schätzt.
+Überdies geht der Beschwerdeführer offensichtlich selbst davon aus, dass er
+voll arbeitsfähig ist, hat er sich doch bei der Arbeitslosenversicherung als
+uneingeschränkt vermittlungsfähig gemeldet. Damit ist das Invalideneinkommen
+von Fr. 3'146.25 pro Monat bzw. Fr. 40'901.25 pro Jahr (13 x Fr. 3'146.25)
+nicht nur nicht zu beanstanden, sondern erscheint eher wohlwollend tief
+angesetzt zu sein. Bei einem Valideneinkommen von Fr. 58'450.- und einem
+Invalideneinkommen von Fr. 40'901.25 resultiert ein Invaliditätsgrad von
+gerundet 30 %, welcher nicht zum Bezug einer Invalidenrente berechtigt.
+4.3
+Hinzuweisen bleibt darauf, dass der Beschwerdeführer
+auch nach Vollendung des 21. Altersjahrs keinen rentenbegründenden
+Invaliditätsgrad aufweist. Das Valideneinkommen beträgt zwar neu
+Fr. 66'800.-, mit gerundet 39 % liegt der Invaliditätsgrad aber
+immer noch unter 40 %.
+Demgemäss ist die
+Beschwerde abzuweisen.
+III.
+1.
+1.1
+Der Beschwerdeführer beantragt die Gewährung der unentgeltlichen
+Prozessführung und der unentgeltlichen Rechtsverbeiständung. Gemäss
+Art. 139 Abs. 1 des Gesetzes über die Verwaltungsrechtspflege vom
+4. Mai 1986 (VRG) befreit die Behörde eine Partei, der die Mittel fehlen um
+neben dem Lebensunterhalt für sich und ihre Familie die Verfahrenskosten
+aufzubringen, auf Gesuch hin ganz oder teilweise von der Kosten- und
+Vorschusspflicht, sofern das Verfahren nicht aussichtslos ist.
+1.2
+Aus den Akten ergibt sich, dass der
+Beschwerdeführer mittellos ist. Zudem kann das
+vorliegende Verfahren
+nicht als aussichtslos bezeichnet werden. Das Gesuch um Gewährung der
+unentgeltlichen Prozessführung ist deshalb gutzuheissen. Da der
+Beschwerdeführer auf eine rechtliche Vertretung angewiesen war, ist auch sein
+Gesuch um Gewährung der unentgeltlichen Rechtsverbeiständung gutzuheissen und
+ihm ist in der Person von Rechtsanwalt B.______
+ein
+unentgeltlicher Rechtsbeistand zu bestellen. Dieser ist mit Fr. 1'500.-
+(inkl. Mehrwertsteuer) zu entschädigen.
+2.
+Nach Art. 134 Abs. 1 lit.
+c VRG i.V.m. Art. 69 Abs. 1
+bis
+IVG hat die Partei, welche im
+Beschwerdeverfahren unterliegt, die amtlichen Kosten zu tragen. Entsprechend
+dem Ausgang des Verfahrens sind die Gerichtskosten von pauschal
+Fr. 600.- dem Beschwerdeführer aufzuerlegen. Auf deren Erhebung ist
+indessen zufolge Gewährung der unentgeltlichen Prozessführung einstweilen zu
+verzichten. Der Beschwerdeführer ist darauf hinzuweisen, dass eine Partei,
+der die unentgeltliche Rechtspflege bewilligt worden ist, für den Fall, dass
+sie später in günstige wirtschaftliche Verhältnisse gelangt, zur Nachzahlung
+der Verfahrenskosten verpflichtet werden kann (Art. 139a VRG).
+Ausgangsgemäss ist ihm schliesslich keine Parteientschädigung zuzusprechen
+(Art. 1 Abs. 1 IVG i.V.m. Art. 61 lit. g ATSG e contrario).
+Demgemäss beschliesst die Kammer
+:
+1.
+Die
+Gesuche des Beschwerdeführers um Gewährung der unentgeltlichen Prozessführung
+und der unentgeltlichen Rechtsverbeiständung werden gutgeheissen. Ihm wird
+in der Person von Rechtsanwalt B.______ ein unentgeltlicher Rechtsbeistand
+bestellt.
+2.
+Der Rechtsbeistand wird zu
+Lasten der Gerichtskasse mit Fr.
+1'500
+.-
+(inkl. Auslagen und Mehrwertsteuer) entschädigt
+.
+3
+.
+Die Nachzahlungspflicht gemäss
+Art. 139a VRG bleibt vorbehalten.
+4.
+Die Gerichtskasse wird beauftragt,
+spätestens im Dezember 2025 zu prüfen, ob die Voraussetzungen für die
+Nachzahlung erfüllt sind.
+und erkennt sodann:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Dem
+Beschwerdeführer werden die Gerichtskosten von Fr. 600.- auferlegt,
+auf deren Erhebung einstweilen verzichtet wird.
+3.
+Eine
+Parteientschädigung wird nicht zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
