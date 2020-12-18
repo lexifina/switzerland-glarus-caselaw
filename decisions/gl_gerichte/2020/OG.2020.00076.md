@@ -1,0 +1,303 @@
+---
+decision_id: "gl_gerichte_OG.2020.00076"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2020.00076"
+docket_2: "OGZ.2021.118"
+decided: "2020-12-18"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1387&W10_KEY=218274&nTrefferzeile=1&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/272/art-059.md", "switzerland/bund/acts/272/art-060.md", "switzerland/bund/acts/272/art-090.md", "switzerland/bund/acts/272/art-093.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-117.md", "switzerland/bund/acts/272/art-197.md", "switzerland/bund/acts/272/art-209.md", "switzerland/bund/acts/272/art-227.md", "switzerland/bund/acts/272/art-243.md", "switzerland/bund/acts/272/art-310.md", "switzerland/bund/acts/272/art-311.md", "switzerland/bund/acts/272/art-312.md"]
+---
+
+# GL Gerichte OG.2020.00076
+
+## Regeste
+
+Wertersatz bzw. Schadenersatz infolge Auflösung der einfachen Gesellschaft
+
+## Text
+
+Glarus Obergericht 18.12.2020 OG.2020.00076 (OGZ.2021.118)
+Glaris Obergericht 18.12.2020 OG.2020.00076 (OGZ.2021.118)
+Glarona Obergericht 18.12.2020 OG.2020.00076 (OGZ.2021.118)
+
+Wertersatz bzw. Schadenersatz infolge Auflösung der einfachen Gesellschaft
+
+Kanton Glarus
+Obergericht
+Urteil
+vom 18. Dezember 2020
+Verfahren
+OG.2020.00076
+A.______
+Berufungsklägerin
+gegen
+B.______
+Berufungsbeklagter
+betreffend
+Wertersatz
+bzw. Schadenersatz infolge Auflösung der einfachen Gesellschaft
+Anträge
+der Berufungsklägerin
+(gemäss Eingaben vom 29. November 2020
+[act. 10 S. 2 oben und act. 11], sinngemäss):
+1.
+Auf die Klage von A.______ vom
+1. September 2020 sei einzutreten und die Sache sei an die Vorinstanz zur
+Sachentscheidung zurückzuweisen.
+2.
+Es sei A.______ die
+unentgeltliche Rechtspflege zu gewähren.
+3.
+Unter Kosten- und
+Entschädigungsfolge zuzüglich Mehrwertsteuer zu Lasten von B.______.
+____________________
+Das Gericht zieht in Betracht:
+I.
+1.
+Mit Eingabe vom 24. Juni 2020 reichte A.______
+beim Kantonsgericht Glarus Klage gegen B.______ ein (Verfahren
+ZG.2020.00473). Sie verlangte, Letzterer sei zu verpflichten, ihr
+CHF 5'100.— (zzgl. Zins von 5 % seit 3. Oktober 2017) sowie CHF 129.80
+(zzgl. Zins von 5 % seit 8. März 2018) zu bezahlen. Zudem sei B.______
+zu verpflichten, ihr die Kosten des Betreibungsverfahrens Nr. 21807167
+des Betreibungs- und Konkursamtes des Kantons Glarus von CHF 33.30
+zurückzuerstatten (Verfahren ZG.2020.00473 act. 5).
+2.
+Mit Schreiben vom 1. September 2020 wandte sich
+A.______ erneut an das Kantonsgericht Glarus (vorliegendes Verfahren
+ZG.2020.00634/OG.2020.00076) und verlangte, B.______ sei zu verpflichten, ihr
+für diverse Gegenstände, welche sich bis Januar 2017 oder derzeit noch in der
+ehemals gemeinsam bewohnten Liegenschaft in [...] befanden oder befinden,
+Schadenersatz basierend auf dem Zeitwert zu leisten (zzgl. Zins seit 6.
+September 2018). Eventualiter sei der Schadenersatz nach Ermessen des
+Gerichts zu bestimmen. Zudem sei B.______ zu verpflichten, ihr
+CHF 34'500.— (zzgl. Zins zu 5 %) aus der Übernahme von
+Hypothekarzinsen zu bezahlen (act. 1 S. 2 oben).
+3.
+Am 6.
+Oktober 2020 stellte A.______ vor Vorinstanz ein Gesuch um unentgeltliche
+Rechtspflege (Verfahren ZG.2020.00769 act. 1).
+4.
+Am 26.
+Oktober 2020 verfügte der Kantonsgerichtspräsident, auf die Klage von
+A.______ vom 1. September 2020 werde nicht eingetreten (act. 8 S. 4 Disp.
+Ziff. 1); zugleich wies er deren Gesuch um unentgeltliche Rechtspflege ab (S.
+5 Disp. Ziff. 4) und auferlegte A.______ eine Gerichtsgebühr von CHF 500.—
+(S. 4 Disp. Ziff. 2-3). Parteientschädigungen wurden keine zugesprochen
+(S. 5 Disp. Ziff. 6).
+5.
+Gegen
+diesen Entscheid erhob A.______ mit Eingabe vom 29. November 2020
+Berufung beim Obergericht des Kantons Glarus mit den eingangs wiedergegebenen
+Anträgen (act. 10, 11 und 12). Aufgrund offensichtlicher Unbegründetheit
+der Berufung wurde davon abge­sehen, von B.______ eine Stellungnahme
+einzuholen (Art. 312 Abs. 1 ZPO).
+II.
+1.
+Erstinstanzliche
+Endentscheide in vermögensrechtlichen Angelegenheiten mit einem Streitwert
+von mindestens CHF 10'000.— können mit Berufung angefochten werden
+(Art. 308 Abs. 1 lit. a und Abs. 2 ZPO). Diese
+Streitwertgrenze ist vorliegend offenkundig überschritten (vgl. E. I.2 oben).
+Die Berufung ist gemäss Art. 311 Abs. 1 ZPO bei der
+Rechtsmittelinstanz innert 30 Tagen seit Zustellung des begründeten
+vorinstanzlichen Entscheides schriftlich und begründet einzureichen. Die
+vorliegende Berufung vom 29. November 2020 erfolgte fristgerecht (act. 9 und
+act. 10). Die übrigen Prozessvoraussetzungen geben zu keinen Bemerkungen
+Anlass. Das Obergericht des Kantons Glarus ist für die Beurteilung der
+Berufung zuständig (Art. 16 Abs. 1 lit. c GOG [GS III
+A/2]). Auf die Berufung ist einzutreten.
+2.
+Mit der
+Berufung kann die unrichtige Rechtsanwendung und/oder eine unrichtige
+Feststellung des Sachverhaltes geltend gemacht werden (Art. 310 ZPO).
+III.
+1.
+Der
+Kantonsgerichtspräsident erwog im vorliegend angefochtenen Entscheid, mit
+Blick auf die Klage vom 1. September 2020 seien die Voraussetzung der
+Klageänderung gemäss Art. 227 ZPO zu beachten, wenn bei einer Klagenhäufung
+die zu häufenden Ansprüche nicht gleichzeitig mit der ersten Klage (hier vom
+24. Juni 2020), sondern zu einem späteren Zeitpunkt geltend gemacht
+würden. Eine Klageänderung sei unter anderem dann zulässig, wenn der
+geänderte oder neue Anspruch nach der gleichen Verfahrensart zu beurteilen
+sei wie der bereits früher geltend gemachte. Wenn der Streitwert der
+geänderten Klage, welcher sich durch Zusammenrechnung der verschiedenen
+Hauptbegehren ermitteln lasse (Art. 93 ZPO), die Streitwertgrenze für das
+vereinfachte Verfahren von CHF 30'000.— übersteige, sei die Klageänderung
+unzulässig und die ursprüngliche Klage sei im vereinfachten Verfahren zu
+behandeln (act. 8 S. 3 E. 2.1).
+Zwischen den Parteien sei vorliegend bereits eine Klage
+beim Kantonsgericht hängig (Verfahren ZG.2020.00473; vgl. E. I.1 oben). Diese werde im vereinfachten Verfahren behandelt. Bei den mit der zweiten
+Klage (vom 1. September 2020) geltend gemachten Rechtsbegehren (vgl. E. I.2 oben) werde der Streitwert für das vereinfachte Verfahren gemäss Art. 243
+Abs. 1 ZPO deutlich überschritten. Die Voraussetzung der gleichen
+Verfahrensart der Ansprüche gemäss Art. 227 Abs. 1 ZPO sei demnach nicht
+erfüllt, womit eine Klageänderung unzulässig sei. Daher sei die bereits
+hängige (erste) Klage weiter im vereinfachten Verfahren zu behandeln und auf
+die zweite Klage sei nicht einzutreten, da in dieser Konstellation eine
+Klagenhäufung nicht möglich sei (Art. 59 Abs. 1 ZPO; act. 8 S. 4 E. 2.2).
+2.
+A.______
+bringt im Berufungsverfahren vor, die Vorinstanz sei zu Unrecht der Frage nachgegangen,
+ob die Klage vom 1. September 2020 im Verhältnis zur Klage vom 24. Juni 2020
+eine Klagenhäufung darstelle. Sinngemäss führt sie (A.______) aus, die Klage
+vom 1. September 2020 sei eine eigenständige Klage und die darin geltend
+gemachten Ansprüche (vgl. E. I.2 oben) hätten nichts mit denjenigen des
+Verfahrens ZG.2020.00473 (vgl. E. I.1 oben) zu tun. Vorliegend habe sie mit
+Eingabe vom 1. September 2020 verschiedene Ansprüche eingeklagt (act. 1)
+und es sei einzig zu prüfen, ob eine Klagenhäufung mit Bezug auf
+diese
+Ansprüche zulässig sei. Dies sei der Fall, da betreffend die am
+1. September 2020 eingeklagten Ansprüche die gleiche Verfahrensart zur
+Anwendung gelange. So übersteige bereits ihre Forderung betreffend die
+Hypothekarzinsen die Streitwertgrenze von CHF 30'000.—; zudem liege auch der
+für die erwähnten Gegenstände geltend gemachte Schadenersatz darüber.
+Abgesehen davon müssten die eingeklagten Ansprüche für die Streitwertberechnung
+sowieso addiert werden, weshalb bereits deshalb die gleiche Verfahrensart
+gegeben sei. Schliesslich, so A.______, wäre aber aufgrund der Addition der
+Streitwerte auch eine Klagenhäufung der mit zweiter Klage geltend gemachten
+Ansprüche (vgl. E. I.2 oben) mit denjenigen im Verfahren ZG.2020.00473 (vgl.
+E. I.1 oben) möglich (act. 10 S. 2 f. Rz. 2.1-2.9).
+3.
+3.1.
+Die
+Vorinstanz prüfte, ob mit Bezug auf die von A.______ mit Eingabe vom
+1. September 2020 (act. 1) vorliegend geltend gemachten Ansprüche eine
+Klagenhäufung zu den Ansprüchen im Verfahren ZG.2020.00473 möglich sei, was
+sie aufgrund nachfolgender Ausführungen zu Recht verneinte.
+3.1.1.
+Bei
+der Klagenhäufung im Sinne von Art. 90 ZPO geht es um die Häufung mehrerer
+Ansprüche bzw. Streitgegenstände. Die zu häufenden Ansprüche müssen gegen
+dieselbe(n) Partei(en) gerichtet sein. Sie müssen nicht in einem einzigen
+Schriftsatz vorgebracht werden, sondern können auch erst zu einem späteren
+Zeitpunkt (z.B. im Rahmen des Schriftenwechsels) vorgebracht werden (
+Klaus
+, in: Spühler/Tenchio/Infanger
+[Hrsg.] Basler Kommentar, Schweizerische Zivilprozessordnung, 3. Aufl., Basel
+2017, N 14 zu Art. 90 ZPO). Wenn bei einer Klagenhäufung die zu häufenden
+Ansprüche nicht gleichzeitig bei Klageerhebung geltend gemacht werden, sind
+die Voraussetzungen der Klageänderung gemäss Art. 227 ZPO zu beachten (
+Klaus
+, a.a.O., N 14 zu Art. 90 ZPO).
+Eine Klageänderung ist unter anderem zulässig, wenn der neu geltend gemachte
+Anspruch nach der gleichen Verfahrensart wie der bisherige zu behandeln ist
+(Art. 227 Abs. 1 Ingress). Für die Streitwertberechnung wird das
+ursprüngliche und das neu erhobene Hauptbegehren gemäss Art. 93 ZPO
+zusammengerechnet, sofern sich die Ansprüche nicht gegenseitig ausschliessen.
+Beträgt der so berechnete Streitwert mehr als CHF 30'000.— und gilt dann
+nicht mehr das vereinfachte Verfahren (wie für die erste Klage vom 24.
+Juni 2020 mit einem Streitwert von rund CHF 5'000.—), sondern das
+ordentliche Verfahren (vgl. Art. 243 Abs. 1 ZPO), ist die Klageänderung
+unzulässig. Das ursprüngliche Verfahren ist im vereinfachten Verfahren
+fortzuführen. Bei den Zulässigkeitsvoraussetzungen der Klageänderung handelt
+es sich um Prozessvoraussetzungen nach Art. 59 ZPO (
+Willisegger
+, in: Spühler/Tenchio/Infanger [Hrsg.], Basler
+Kommentar, Schweizerische Zivilprozessordnung, 3. Aufl., Basel 2017, N 38 f.
+und N 55 zu Art. 227 ZPO).
+3.1.2.
+Das
+mit Klage vom 24. Juni 2020 von A.______ beim Kantonsgericht Glarus
+eingeleitete Verfahren ZG.2020.00473 wird aufgrund eines Streitwerts von
+unter CHF 30'000.— im vereinfachten Verfahren behandelt (vgl. E. I.1 oben und act. 8 S. 4 E. 2.2). Die im vorliegenden Verfahren geltend
+gemachten Rechtsbegehren (vgl. E. I.2 oben) übersteigen schon für sich
+alleine betrachtet die für das vereinfachte Verfahren geltende
+Streitwertgrenze von CHF 30'000.— (Art. 243 Abs. 1 ZPO); alleine bereits
+die Forderung betreffend Hypothekarzinsen übersteigt diese Streitwertgrenze.
+Bei Addition der ursprünglichen und der neu eingeklagten Ansprüche im Sinne
+von Art. 93 Abs. 1 ZPO, würde damit offenkundig ein Streitwert von über
+CHF 30'000.— resultieren, weshalb das ordentliche und eben nicht das
+vereinfachte Verfahren zur Anwendung gelangen würde. Damit ist der neue
+Anspruch (Anträge im vorliegenden Verfahren, vgl. E. I.2
+oben) nicht im Sinne von Art. 227 Abs. 1 ZPO nach der gleichen
+Verfahrensart wie der bisherige (Anträge im Verfahren ZG.2020.00473, vgl. E. I.1 oben) zu behandeln. Demnach ist die vorliegende Klageänderung (bzw.
+Klagenhäufung) unzulässig, was die Vorinstanz zutreffend festhielt (act. 8 S.
+4 E. 2.2). Somit trat die Vorinstanz zu Recht nicht auf die im vorliegenden
+Verfahren geltend gemachten Rechtsbegehren ein (Art. 59 Abs. 1 ZPO). Die
+Berufung von A.______ ist in diesem Punkt abzuweisen.
+3.2.
+Die
+Vorinstanz hätte aber entgegen den Vorbringen von A.______ auch dann einen
+Nichteintretensentscheid fällen müssen, wenn sie die Klageeingabe vom
+1. September 2020 als eigenständige Klage und damit losgelöst vom
+Verfahren ZG.2020.00473 behandelt hätte. Das Gericht tritt auf eine Klage
+ein, sofern die Prozessvoraussetzungen erfüllt sind (Art. 59 Abs. 1 ZPO). Wo
+dem Prozess ein Schlichtungsversuch vorauszugehen hat, ist das Vorliegen
+einer gültigen Klagebewilligung der Schlichtungsbehörde nach Art. 209
+ZPO eine Prozessvoraussetzung, die das Gericht gemäss Art. 60 ZPO von Amtes
+wegen zu prüfen hat (BGE 139 III 273, E. 2.1 und BGer 4A_135/2018 Urteil vom
+27. April 2018, E. 2.2, je mit Hinweisen). Betrachtet man die Eingabe von
+A.______ vom 1. September 2020 (act. 1) losgelöst vom damals bereits
+hängigen Verfahren ZG.2020.00473, so wäre für die neue Klage ein dem
+Gerichtsverfahren vorangehendes Schlichtungsverfahren notwendig gewesen (Art.
+197 ZPO; eine Ausnahme i.S.v. Art. 198 f. ZPO liegt nicht vor). Ein
+solches ist vorliegend jedoch, soweit ersichtlich, nicht durchlaufen worden.
+Somit hätte die Vorinstanz – auch bei isolierter Betrachtung der vorliegend
+geltend gemachten Ansprüche – aufgrund Fehlens einer Prozessvoraussetzung
+(Art. 59 Abs. 1 ZPO) einen Nichteintretensentscheid fällen müssen. Die
+Berufung von A.______ ist somit auch in diesem Punkt abzuweisen. Bei dieser
+Ausgangslage erübrigt sich die Klärung der Frage, ob mit Bezug auf die im
+vorliegenden Verfahren geltend gemachten unterschiedlichen Ansprüche eine
+Klagenhäufung zulässig ist.
+4.
+Aufgrund
+der vorstehenden Ausführungen ist die Berufung von A.______ vollumfänglich
+abzuweisen und ist der Entscheid des Kantonsgerichtspräsidenten vom 26. Oktober
+2020 im Verfahren ZG.2020.00634 (act. 8) zu bestätigen.
+IV.
+1.
+Die
+Gerichtskosten des vorliegenden Berufungsverfahrens sind auf CHF 800.—
+festzusetzen (Art. 8 Abs. 1 lit. b Ziff. 2 der Zivil- und
+Strafprozesskostenverordnung [GS III A/5]), ausgangsgemäss A.______
+aufzuerlegen und von ihr zu beziehen (Art. 106 Abs. 1 ZPO).
+2.
+A.______
+hat mit Eingabe vom 29. November 2020 beim Obergericht ein Gesuch um
+Gewährung der unentgeltlichen Rechtspflege gestellt (act. 11 und
+act. 12). Nach Art. 117 ZPO hat eine Person Anspruch auf
+unentgeltliche Rechtspflege (Befreiung von Vorschuss- und
+Sicherheitsleistungen sowie von den Gerichtskosten), wenn sie nicht über die
+erforderlichen Mittel verfügt (lit. a) und ihr Rechtsbegehren nicht
+aussichtslos erscheint (lit. b).
+Aussichtslos
+in diesem Sinne sind Rechtsbegehren, deren Gewinnaussichten ex ante
+betrachtet beträchtlich geringer sind als die Verlustgefahren und daher nicht
+mehr als ernsthaft bezeichnet werden können. Dagegen gilt ein Begehren nicht
+als aussichtslos, wenn sich Gewinnaussichten und Verlustgefahren ungefähr die
+Waage halten oder jene nur wenig geringer sind als diese (BGE 138 III
+217, E. 2.2.4).
+Die Berufung von A.______
+ist vollumfänglich abzuweisen; sie war gemäss vorstehender Ausführungen von
+Anfang an aussichtslos (vgl. E.
+III.3 oben
+).
+Entsprechend ist das Gesuch von A.______ um Gewährung der unentgeltlichen
+Rechtspflege ebenfalls abzuweisen.
+3.
+Ausgangsgemäss werden keine
+Parteientschädigungen zugesprochen.
+____________________
+Das Gericht erkennt:
+1.
+Die Berufung von A.______ wird
+vollumfänglich abgewiesen und der Entscheid des Kantonsgerichtspräsidenten
+vom 26. Oktober 2020 im Verfahren ZG.2020.00634 wird bestätigt.
+2.
+Die
+Gerichtsgebühr wird festgesetzt auf CHF
+800.—.
+3.
+Die Gerichtskosten werden
+A.______ auferlegt und von ihr bezogen.
+4.
+Es
+werden keine Parteientschädigungen zugesprochen.
+5.
+Schriftliche
+Mitteilung an:
+[...]
