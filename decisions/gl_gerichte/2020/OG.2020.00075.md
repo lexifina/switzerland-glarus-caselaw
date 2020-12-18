@@ -1,0 +1,220 @@
+---
+decision_id: "gl_gerichte_OG.2020.00075"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2020.00075"
+docket_2: "OGS.2021.136"
+decided: "2020-12-18"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1462&W10_KEY=218274&nTrefferzeile=8&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/272/art-258.md", "switzerland/bund/acts/311.0/art-181.md", "switzerland/bund/acts/312.0/art-082.md", "switzerland/bund/acts/312.0/art-090.md", "switzerland/bund/acts/312.0/art-091.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# GL Gerichte OG.2020.00075
+
+## Regeste
+
+Beschwerde gegen Nichtanhandnahme einer Strafuntersuchung
+
+## Text
+
+Glarus Obergericht 18.12.2020 OG.2020.00075 (OGS.2021.136)
+Glaris Obergericht 18.12.2020 OG.2020.00075 (OGS.2021.136)
+Glarona Obergericht 18.12.2020 OG.2020.00075 (OGS.2021.136)
+
+Beschwerde gegen Nichtanhandnahme einer Strafuntersuchung
+
+Kanton Glarus
+Obergericht
+Beschluss
+vom 18. Dezember 2020
+Verfahren
+OG.2020.00075
+A.______
+Beschwerdeführer
+vertreten
+durch Rechtsanwalt B.______
+gegen
+Staats- und Jugendanwaltschaft des
+Kantons Glarus
+Beschwerdegegnerin
+vertreten
+durch den Staatsanwalt
+betreffend
+Beschwerde
+gegen Nichtanhandnahmeverfügung
+Anträge
+des Beschwerdeführers
+(gemäss Eingabe vom 23. November 2020,
+act. 3 S. 2):
+1.
+Es sei die
+Nichtanhandnahmeverfügung der Staatsanwaltschaft Glarus vom
+6. November 2020 aufzuheben, und es sei die Staatsanwaltschaft
+anzuweisen, einen Strafbefehl gegen den Betreiber des Winterdienstes in der
+Gemeinde Gla­rus Nord bzw. gegen Unbekannt zu erlassen.
+2.
+Unter
+praxisgemässen Kosten- und Entschädigungsfolgen.
+____________________
+Das
+Gericht zieht in Betracht:
+I.
+1.
+A.______ (nachfolgend
+Beschwerdeführer) ist Eigentümer der beiden benachbar­ten Liegenschaften […]
+(Gemeinde Glarus Nord). Es handelt sich hierbei um zwei Mehrfamili­enhäuser,
+welche beide zur Strasse hin asphaltierte Vorplätze (Parkplätze sowie Haus-
+und Garagenzugang) aufweisen (siehe zur örtlichen Situation die Aus­führungen
+in der angefochtenen Nichtanhandnahmeverfügung der Staatsan­waltschaft [act. 1
+S. 3]; siehe ferner die Planauszüge aus dem Geoportal des Kan­tons
+Glarus [act. 8] sowie die Fotos in den Vorakten). Am 29. März 2006
+erliess der Kantonsge­richtspräsident auf Gesuch des Beschwerdeführers für
+die beiden Lie­genschaften ein Rechtbot (heute gerichtliches Verbot im Sinne
+von Art. 258 ZPO); darnach ist es jedermann bei Busse verboten, die
+beiden Grundstü­cke zu betreten und zu befah­ren, darauf Fahrzeuge
+abzustellen
+sowie Schnee ab­zulagern
+; von die­ser Anweisung
+ausgenommen sind einzig die Mieter der beiden Liegenschaften (siehe Vorakten,
+act. 3.1.01 Beilage 1 und Beilage 2).
+2.
+Am 10. sowie am 17. Dezember
+2017 sowie ein weiteres Mal am 29. Januar 2019 soll der
+Strassenunterhaltsdienst der Gemeinde beim Schneepflügen entgegen dem soeben
+erwähnten gerichtlichen Verbot (vormals Rechtbot) Schnee auf die beiden
+Grundstücke geschoben haben. Der Beschwerdeführer erstattete deswegen am
+17. Dezember 2017 und erneut am 3.  bzw. am 7. Februar 2019
+Strafanzeige gegen "die Betrei­ber des Winterdienstes" bzw. gegen
+Unbekannt wegen Missachtung des gerichtli­chen Verbots sowie wegen Nötigung
+im Sinne von Art. 181 StGB (Vorakten, act. 3.1.01 sowie
+act. 3.1.02 und act. 3.1.03).
+3.
+3.1
+Am 6. November 2020
+erliess die Staatsanwaltschaft gestützt auf Art. 310 StPO eine
+Nichtanhandnahme­verfügung und hielt darin fest, dass keine Strafuntersu­chung
+eingeleitet werde (act. 1).
+3.2
+Mit Eingabe vom
+23. November 2020 erhob der Beschwerdeführer gegen die Nichtan­hand­nahmeverfügung
+der Staatsanwaltschaft beim Obergericht Beschwerde und stellte dabei die
+eingangs wiedergegebenen Anträge (act. 3).
+3.3
+In der Sache sind
+keine Stellungnahmen eingeholt, indes die Vorakten der Staats­anwaltschaft
+beigezogen worden.
+II.
+1.
+1.1
+Das Obergericht ist
+als Rechtsmittelinstanz zuständig zur Behandlung von Beschwerden in
+Strafsachen (Art. 16 Abs. 1 lit. a GOG).
+1.2
+Gegen eine
+Nichtanhandnahmeverfügung der Staatsanwaltschaft kann Beschwerde erhoben
+werden und ist der Beschwerdeführer als Privatkläger dazu legitimiert
+(Art. 310 Abs. 2 SPO in Verbindung mit Art. 322 Abs. 2
+StPO sowie Art. 118 Abs. 1 und Abs. 2 StPO; BSK-
+Omlin
+, N 26 ff. zu
+Art. 310 StPO sowie
+Guidon
+,
+Die Beschwerde gemäss Schweizerischer Strafprozessordnung,
+Zürich/St. Gallen 2011, S. 49 f. N 110).
+1.3
+Die angefochtene
+Nichtanhandnahmeverfügung ging dem Beschwerdeführer am 12. November 2020
+zu (act. 4/4); die Postaufgabe der Beschwerde erfolgte am Montag,
+23. November 2020 (act. 3). Die Beschwerde wurde somit innert der
+dafür vorgegebenen Frist von 10 Tagen erhoben (Art. 310 Abs. 2
+StPO in Verbindung mit Art. 322 Abs. 2 StPO sowie Art. 90
+Abs. 2 StPO und Art. 91 Abs. 2 StPO).
+2.
+2.1
+Am Ursprung des
+vorliegenden Beschwerdeverfahrens steht der Winterdienst auf einer
+Gemeindestrasse, um dabei genau zu sein: drei Schneeräumungen bin­nen zweier
+Winter (zwei im Dezember 2017, eine im Januar 2019). Bei der Beseiti­gung von
+Schnee auf einer Strasse handelt es sich um einen Vorgang, wie er im
+Winterhalbjahr in der Schweiz in höher gelegenen Wohnsiedlungen sehr oft, in
+mitt­leren Lagen regelmässig und in tieferen Lagen ab und an vorkommt. Die
+Ortschaft Niederurnen, in deren Gebiet die beiden Grundstücke des
+Beschwerdeführers ein­gebettet sind, liegt auf einer Meereshöhe von 420 m
+(siehe dazu act. 8 S. 3); es ist dies eine für die Schweiz
+vergleichsweise tiefe Höhenlage und sind daher daselbst Schneeräumun­gen ein
+eher seltenes Ereignis (redensartlich liesse sich, eingedenk auch der Klima­erwärmung,
+schon beinahe sagen "alle Schaltjahre mal"). Gleichviel, ob häufig
+oder nur hin und wieder, die Schneeräumung läuft in der Schweiz, wie
+überhaupt im gan­zen Alpenraum, allerorten auf dieselbe Art ab: Ein
+Motorfahrzeug stösst mit vorge­hängtem Pflug den Schnee von der
+Strassenfläche zur Seite hin weg (ausgeblendet sei an dieser Stelle der
+Sonderfall von Alpenpassstrassen, die jeweils im Frühjahr mit Fräsen vom
+gewöhnlich meterhohen Schnee freigelegt wer­den). Wo immer eine Strasse in
+der zuvor beschriebenen Weise vom Schnee gesäubert wird, entsteht seitlich
+eine Schneemade oder – insbesondere in tieferen Lagen häufig – bloss ein
+"Mädli"; dabei kann es durchaus geschehen – bedingt auch durch die
+Dynamik des ganzen Vorgangs –, dass weggeschobener Schnee auf eine
+strassenseitig gelege­ne Parzelle kullert, ausser das Grundstück ist entlang
+der Grenze mit einer Mauer gesäumt.
+2.2
+Die vorliegend
+inkriminierten Schneeräumungen, die sich am 10. und 17. Dezember 2017
+sowie am 29. Januar 2019 auf der […]-strasse in Nieder­urnen zutrugen,
+sind in den Vorakten der Staatsanwaltschaft reich bebildert. Anhand dieser
+Fotografien ist unschwer zu erkennen, dass die Räumung der Strasse vom
+(jeweils wenigen) Schnee in jeder Hinsicht korrekt erfolgte. Es ist
+augenfällig, dass der Schnee stets gleichmässig und zu gleichen Teilen auf jede
+Seite der Strasse gepflügt wurde. Wenn dabei die Schneemade bzw. das
+"Mädli" (teilweise) auf den asphaltieren Vor­platz der beiden
+Liegenschaften des Beschwerdeführers gelangte, so ist dies einer
+strafrechtlichen Sanktion nicht zugänglich. Daran ändert auch der Umstand
+nichts, dass beide Grundstücke mit einem gerichtlichen Verbot belegt sind,
+wonach darauf kein Schnee abgelagert werden darf. Von einer Schneeablagerung
+im Sinne der Bedeutung des Wortes (Anhäufung, Deponierung von Schnee) kann
+hier nicht im Ansatz die Rede sein (siehe ein – wenn auch drastisches –
+Anschau­ungsbeispiel einer Schneeablagerung: Urteil BGer
+1C_505/2017
+vom 15. Mai 2018). Bei den vom Beschwerdeführer zur Anzeige
+gebrachten Schneeräumungen ist ein deliktisches Verhalten nicht im Ansatz
+erkennbar und sind demzufolge strafrechtliche Konsequenzen undenkbar; die
+Staatsanwaltschaft hat daher zu Recht auf die Eröff­nung einer
+Strafuntersuchung verzichtet. Es kann an die­ser Stelle in Anwendung von
+Art. 82 Abs. 4 StPO auf die einlässlich und sorgfältig verfasste
+Begründung in der angefochtenen Verfügung (act. 1) verwiesen werden. Der
+Beschwerdeführer bringt in seiner Beschwerdeeingabe (act. 3) nichts vor,
+woraus sich eine gegenteili­ge Sichtweise aufdrängen würde. Die Argu­mentation
+des Beschwerdeführers ist derart weit hergeholt und letztlich querulatorisch
+motiviert, dass auf deren Wiedergabe hier verzichtet wird.
+2.3
+Bloss der Vollständigkeit halber bleibt anzufügen, dass der Entscheid
+allenfalls anders ausfiele, wenn der Schnee von der […]-strasse grossflächig
+und aus­schliesslich oder grösstenteils auf oder auch nur schon unmittelbar
+an die Parzellen des Beschwerdeführers geschoben worden wäre. Darin wäre dann
+möglicherweise eine boshafte Mutwilligkeit zu erblicken, die im Lichte von
+Art. 258 ZPO (Missach­tung eines gerichtlichen Verbots) und/oder
+Art. 181 StGB (Nötigung) strafbar sein dürfte.
+3.
+[...]
+III.
+Aus alldem ergibt sich, dass die
+Staatsanwaltschaft in zutreffender Anwendung von Art. 310 StPO keine
+Strafuntersuchung eröffnet hat, womit die Beschwerde abzu­weisen ist. Bei
+diesem Ausgang sind die Kosten des Beschwerdeverfahrens dem Beschwerdeführer
+aufzuerlegen (Art. 428 Abs. 1 StPO); die Gerichtsgebühr ist dabei
+auf CHF 1'200.- festzusetzen (Art. 8 Abs. 2 lit. b der Zivil-
+und Strafprozess­kostenverordnung; GS III A/5).
+____________________
+Das
+Gericht beschliesst:
+1.
+Die Beschwerde wird abgewiesen.
+2.
+Die Gerichtskosten für das
+Beschwerdeverfahren im Betrag von CHF 1'200.- werden dem Beschwerdeführer
+auferlegt und vom geleisteten Kostenvorschuss bezogen.
+3.
+Schriftliche Mitteilung an:
+[…]
