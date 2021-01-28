@@ -1,0 +1,1010 @@
+---
+decision_id: "gl_gerichte_OG.2018.00072"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2018.00072"
+docket_2: "OGS.2021.128"
+decided: "2021-01-28"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1446&W10_KEY=218274&nTrefferzeile=8&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/101/art-032.md", "switzerland/bund/acts/311.0/art-252.md", "switzerland/bund/acts/311.0/art-285.md", "switzerland/bund/acts/311.0/art-286.md", "switzerland/bund/acts/312.0/art-087.md", "switzerland/bund/acts/312.0/art-088.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-366.md", "switzerland/bund/acts/312.0/art-368.md", "switzerland/bund/acts/312.0/art-386.md", "switzerland/bund/acts/312.0/art-400.md", "switzerland/bund/acts/312.0/art-403.md", "switzerland/bund/acts/312.0/art-406.md", "switzerland/bund/acts/312.0/art-407.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-426.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-437.md", "switzerland/bund/acts/741.01/art-010.md", "switzerland/bund/acts/741.01/art-031.md", "switzerland/bund/acts/741.01/art-063.md", "switzerland/bund/acts/741.01/art-091.md", "switzerland/bund/acts/741.01/art-095.md", "switzerland/bund/acts/741.01/art-096.md", "switzerland/bund/acts/741.01/art-097.md", "switzerland/bund/acts/741.11/art-002.md", "switzerland/bund/acts/741.41/art-096.md", "switzerland/bund/acts/812.121/art-019.md"]
+---
+
+# GL Gerichte OG.2018.00072
+
+## Regeste
+
+Mehrfache Widerhandlungen gegen das Strassenverkehrsgesetz etc.
+
+## Text
+
+Glarus Obergericht 28.01.2021 OG.2018.00072 (OGS.2021.128)
+Glaris Obergericht 28.01.2021 OG.2018.00072 (OGS.2021.128)
+Glarona Obergericht 28.01.2021 OG.2018.00072 (OGS.2021.128)
+
+Mehrfache Widerhandlungen gegen das Strassenverkehrsgesetz etc.
+
+Kanton Glarus
+Obergericht
+Urteil
+vom 28. Januar 2021
+Verfahren
+OG.2018.00072
+A.______
+Angeklagter und
+Berufungskläger
+verteidigt durch
+Rechtsanwältin B.______
+gegen
+Staats- und
+Jugendanwaltschaft des Kantons Glarus
+Anklägerin und
+Berufungsbeklagte
+vertreten durch die
+Staatsanwältin
+betreffend
+Mehrfache
+Widerhandlungen gegen das Strassenverkehrsgesetz etc.
+Anträge de
+s Angeklagten und Berufungsklägers
+(gemäss Berufungserklärung vom 19. Oktober 2018
+[act. 75 S. 2] und gestellt anlässlich der Berufungsverhandlung vom
+14.
+August 2020
+[act. 87 S. 3 und act. 89 S. 2 lit. e Ziff. 1-7],
+sinngemäss):
+1.
+Es seien die Dispositivziffern 1, 17, 18 und
+19 des Urteils des Kantonsgerichts Glarus vom 26. September 2018
+im Verfahren SG.2017.00139 aufzuheben und an die Vorinstanz zurückzuweisen.
+2.
+Es sei die Anklageschrift an die
+Staatsanwaltschaft zur Verbesserung zurückzuweisen.
+3.
+Es sei der Berufung die aufschiebende Wirkung zu
+erteilen.
+4.
+Es sei der Berufungskläger vom Vorwurf
+-   der Fälschung von
+Ausweisen im Sinne von Art. 252 StGB (Sachverhalt 10), der
+mehrfachen Widerhandlung gegen das Betäubungsmittelgesetz im Sinne von
+Art. 19 Abs. 1 lit. b und lit. d BetmG
+(Sachverhalte 14 und 16),
+-   des mehrfachen Fahrens
+ohne Berechtigung im Sinne von Art. 95 Abs. 1 lit. b SVG
+(Sachverhalte 10, 18-20 und 25),
+-   des Überlassens eines
+Motorfahrzeuges an einen nicht fahrberechtigten Führer im Sinne von
+Art. 95 Abs. 1 lit. e SVG (Sachverhalt 24),
+-   der Gewalt und Drohung gegen Behörden und Beamte
+im Sinne von Art. 285 Ziff. 1 StGB (Sachverhalt 21)
+freizusprechen.
+5.
+Es sei durch die Rechtsmittelinstanz abzuklären,
+ob die formellen Prozessvoraussetzungen durch die Vorinstanz geprüft und eingehalten
+wurden.
+6.
+Es sei dem Berufungskläger Schadenersatz
+zuzusprechen.
+7.
+Alles unter Kosten- und Entschädigungsfolge zu
+Lasten des Staates.
+Anträge de
+r
+Anklägerin und
+Berufungsbeklagten
+(gestellt anlässlich der Berufungsverhandlung vom 14. August 2020
+[act. 87 S. 3 und act. 91 S. 1], sinngemäss):
+1.
+Die Berufung des Berufungsklägers sei
+vollumfänglich abzuweisen und das Urteil des Kantonsgerichts Glarus vom
+26. September 2018 im Verfahren SG.2017.00139 sei zu bestätigen.
+2.
+Alles
+unter Kosten- und Entschädigungsfolge zu Lasten des Berufungsklägers.
+____________________
+Das Gericht zieht in Betracht:
+I.
+1.
+Die
+Staats- und Jugendanwaltschaft des Kantons Glarus (nachfolgend
+«Staatsanwaltschaft») führt seit längerem eine umfangreiche Strafuntersuchung
+gegen A.______ (nachfolgend «Beschuldigter») unter anderem wegen
+Widerhandlungen gegen das Strassenverkehrs-, das Betäubungsmittel- und das
+Heilmittelgesetz sowie wegen Gewalt und Drohung gegen Behörden und Beamte
+(vgl. die umfangreichen Untersuchungsakten [act. 2-6]).
+2.
+Die Staatsanwaltschaft
+erhob am 12. Dezember 2017 bei der Strafgerichtskommission des Kantonsgerichts
+Glarus Anklage gegen den Beschuldigten (act. 1). Sie beantragte eine unbedingte
+Freiheitsstrafe von 15 Monaten, unter Anrechnung der erstandenen
+Polizei- und Untersuchungshaft, sowie eine unbedingte Geldstrafe von
+20 Tagessätzen zu je CHF 50.— und zudem eine Busse von
+CHF 1'000.— (act. 1 S. 18 Ziff. 2 i.V.m. act. 54
+S. 3 f. Ziff. 3-4 und S. 13 f.).
+3.
+Der Beschuldigte wurde aufgrund unbekannten
+Aufenthalts (vgl. die Adressangabe in act. 1 S. 1; vgl. dazu auch
+hinten E.
+II.5.2
+) für
+die Hauptverhandlung vor Vorinstanz vom 2. Mai 2018 per Amtsblatt
+datierend vom […] vorgeladen (act. 10 und 18). Er erschien jedoch nicht
+zur Verhandlung (act. 30 S. 1) und kündigte sein Fernbleiben mit
+Schreiben vom 30. April 2018 an. Dieses Schreiben (mit Absendeort
+[…]) ging dem Kantonsgericht am 2. Mai 2018 und somit am
+Verhandlungstag zu. Einen erheblichen Entschuldigungsgrund enthielt das
+Schreiben nicht (act. 29). Auch der neu angesetzten Hauptverhandlung vom
+7. August 2018 (act. 33 und act. 50) blieb der
+Beschuldigte fern (act. 53 S. 1). Dies, obwohl ihm die entsprechende
+Vorladung zum einen am 31. Mai 2018 durch die Kantonspolizei Glarus
+persönlich zugestellt worden war (act. 39-40 und act. 44) und zum
+anderen am 29. Mai 2018 (vgl. Versandstemple gem. act. 33) und
+am 19. Juli 2018 (Vorladung auf den 7. August 2018,
+ergänzt durch Unfallversicherung […] als Privatklägerin; vgl. Versandstempel
+gem. act. 50 S. 2) an die von ihm mit Schreiben vom 30. April
+2018 (act. 29 letzter Absatz) genannte Zustelladresse […] per
+Einschreiben zugesandt wurde. Diese Schreiben holte der Beschuldigte jedoch
+nicht ab (act. 44 und act. 52), weshalb die Vorladung am
+2. August 2018 an den Beschuldigten an die von ihm angegebene
+Adresse erneut per A-Post Plus versandt wurde (act. 52). Der
+Beschuldigte leistete auch der zweiten Vorladung – nach erfolgloser,
+mehrfacher postalischer Zustellung und trotz erfolgter persönlicher
+Zustellung durch die Kantonspolizei Glarus – keine Folge, weshalb die
+Strafgerichtskommission ein Abwesenheitsverfahren (i.S.v. Art. 366 Abs. 2
+StPO) durchführte (act. 53).
+4.
+4.1.
+Die Strafgerichtskommission
+des Kantonsgerichts Glarus sprach den Beschuldigten mit hier angefochtenem
+Urteil vom 26. September 2018 folgender Delikte schuldig
+(act. 61 S. 39 Disp. Ziff. 1):
+-
+Fälschung
+von Ausweisen (i.S.v. Art. 252 StGB, Sachverhalt 10 der Anklage);
+-
+mehrfache
+Widerhandlungen gegen das Betäubungsmittelgesetz (i.S.v. Art. 19
+Abs. 1 lit. b und d BetmG, Sachverhalte 14 und 16 Teil 2
+der Anklage);
+-
+mehrfaches
+Fahren ohne Berechtigung (i.S.v. Art. 95 Abs. 1 lit. b SVG,
+Sachverhalte 10, 18-20 und 25 der Anklage);
+-
+Überlassen
+eines Motorfahrzeuges an einen nicht fahrberechtigten Führer (i.S.v.
+Art. 95 Abs. 1 lit. e SVG, Sachverhalt 24 der Anklage);
+-
+Gewalt
+und Drohung gegen Behörden und Beamte (i.S.v. Art. 285 Ziff. 1
+StGB, Sachverhalt 21 der Anklage).
+4.2.
+In
+Dispositivziffer 2 (act. 61 S. 39 f.) sprach die
+Vorinstanz den Beschuldigten von folgenden Vorwürfen frei:
+-
+Widerhandlungen
+gegen das Heilmittelgesetz (i.S.v. Art. 86 Abs. 1 lit. a, b,
+c oder e HMG, Sachverhalt 15 der Anklage);
+-
+Widerhandlung
+gegen das Betäubungsmittelgesetz (i.S.v. Art. 19 Abs. 1
+lit. d BetmG, Sachverhalt 17 der Anklage);
+-
+Missbrauch
+von Ausweisen und Schildern (i.S.v. Art. 97 Abs. 1 lit. a
+und c SVG, Sachverhalte 10 und 22 der Anklage).
+4.3.
+Bezüglich der nachfolgenden
+Tatvorwürfe stellte die Strafgerichtskommission das Strafverfahren gegen den
+Beschuldigten infolge eingetretener Verjährung ein (act. 61
+S. 40 f. Disp. Ziff. 3):
+-
+Widerhandlung
+gegen das Tierschutzgesetz (i.S.v. Art. 26 Ziff. 1 lit. a
+TSchG i.V.m. Art. 3 Abs. 1-3 TSchV sowie Art. 71 Abs. 1
+und 2 TSchV, Sachverhalt 3 der Anklage);
+-
+Fahren
+in angetrunkenem Zustand (i.S.v. Art. 91 Abs. 1 SVG i.V.m.
+Art. 31 Abs. 2 SVG sowie Art. 2 Abs. 1 VRV,
+Sachverhalt 2 der Anklage);
+-
+Hinderung
+einer Amtshandlung (i.S.v. Art. 286 StGB, Sachverhalt 2 der
+Anklage);
+-
+Lenken
+eines Motorfahrzeuges ohne die vorgeschriebene Haftpflichtversicherung
+(i.S.v. Art. 96 Abs. 2 SVG i.V.m. Art. 63 Abs. 1 SVG,
+Sachverhalt 1 der Anklage);
+-
+Widerhandlungen
+gegen das Heilmittelgesetz (i.S.v. Art. 86 Abs. 1 lit. a, b,
+c und e HMG, Sachverhalte 2 und 15 Teil 1 der Anklage);
+-
+mehrfaches
+Fahren ohne Berechtigung (i.S.v. Art. 95 Abs. 1 lit. b SVG
+i.V.m. Art. 10 Abs. 2 SVG, Sachverhalte 1, 2 und 4-9 der
+Anklage);
+-
+missbräuchliches
+Verwenden von Ausweisen und Kontrollschildern (i.S.v. Art. 97
+Abs. 1 lit. a SVG i.V.m. Art. 10 Abs. 1 SVG,
+Sachverhalt 1 der Anklage);
+-
+mehrfache
+Widerhandlung gegen das Betäubungsmittelgesetz (i.S.v. Art. 19
+Abs. 1 lit. b und d BetmG, Sachverhalte 11, 12, 13, 16
+Teil 1 und 17 Teil 2 der Anklage);
+-
+Fahren
+ohne Fahrzeugausweis, Bewilligung oder Haftpflichtversicherung (i.S.v.
+Art. 96 Abs. 3 SVG i.V.m. Art. 96 Abs. 1 lit. a
+SVG und Art. 96 VTS, Sachverhalt 23 der Anklage).
+4.4.
+Unter
+Anrechnung der erstandenen Polizei- und Untersuchungshaft von 187 Tagen
+verurteilte das Kantonsgericht den Beschuldigten zu einer unbedingten
+Freiheitsstrafe von zwölf Monaten und einer Ordnungsbusse von CHF 100.—
+(act. 61 S. 41 Disp. Ziff. 5-6). Die beim Beschuldigten
+beschlagnahmte Barschaft wurde mit den Verfahrenskosten verrechnet
+(act. 61 S. 41 Disp. Ziff. 7). In den
+Dispositivziffern 8-14 befand die Strafgerichtskommission über die
+Herausgabe bzw. die Vernichtung der beim Beschuldigten (bzw. …) beschlagnahmten
+Gegenstände (act. 61 S. 41-45). Die Zivilforderung verwies die
+Strafgerichtskommission auf den Zivilweg (act. 61 S. 45 Disp.
+Ziff. 15). Die Gerichtsgebühr wurde auf CHF 6'000.— festgesetzt und
+zusammen mit den weiteren Verfahrenskosten von rund CHF 20'000.—
+vollumfänglich dem Beschuldigten auferlegt (act. 61 S. 45 f.
+Disp. Ziff. 17-19).
+5.
+Mit
+Eingabe vom 19. Oktober 2016 (recte: 2018) stellte der Beschuldigte
+beim Kantonsgericht Glarus sinngemäss ein Gesuch um Neubeurteilung (i.S.v.
+Art. 368 StPO) des Strafurteils vom 26. September 2018
+(act. 75 sowie SG.2018.00089 act. 1). Als Adresse gibt der
+Beschuldigte wiederum […] an, wobei bei der Absendeadresse die Angabe […]
+aufgeführt ist. Die Strafgerichtskommission des Kantonsgerichts wies den
+Antrag des Beschuldigten um Neubeurteilung mit Beschluss vom
+31. Oktober 2018 ab und leitete die Eingabe des Beschuldigten zur
+Behandlung als Berufung an das Obergericht des Kantons Glarus weiter (vgl.
+act. 76; SG.2018.00089 act. 8 S. 4 E. I.4). Dieser
+Entscheid des Kantonsgerichts konnte dem Beschuldigten abermals nicht an der
+vom ihm angegebenen Adresse zugestellt werden, da dieser das Einschreiben
+erneut nicht – auch nicht innert der durch ihn bei der Post bis am
+4. Dezember 2018 verlängerten Abholfrist (SG.2018.00089 act. 11,
+12 und 13) – abholte. Der Beschluss der Strafgerichtskommission vom
+12. Dezember 2018 wurde dem Beschuldigten sodann nochmals per
+A-Post an die Adresse […] zugestellt (SG.2018.00089 act. 14).
+6.
+Mit Schreiben
+vom 8. Januar 2019 setzte das Obergericht der Staatsanwaltschaft
+Frist, um einen begründeten Nichteintretensantrag zu stellen oder Anschlussberufung
+zu erheben (act. 76). Die Staatsanwaltschaft verzichtete im
+Berufungsverfahren auf Anträge im Sinne von Art. 400 Abs. 3 StPO
+und erhob weder eine Berufung noch eine Anschlussberufung (vgl. act. 76,
+act. 77 und act. 79 S. 1 erster Absatz). Dieses Schreiben
+wurden dem Beschuldigten per Einschreiben an die Adresse […] gesendet, jedoch
+von ihm nicht abgeholt (act. 76 und 78). Die Sendungsverfolgung der Post
+vermerkt hierzu «Einschreiben (R) wurde gemäss Vorverfügung des Absenders
+zurückgesandt: Nicht abgeholt».
+7.
+Mit Schreiben vom 14. Oktober 2019
+forderte das Obergericht den Beschuldigten auf, bis 15. November 2019
+eine Wahlverteidigung zu benennen; ansonsten würde er weiterhin durch
+Rechtsanwältin B.______ verteidigt (nachfolgend «amtliche Verteidigerin»),
+welche ihn bereits vor Vorinstanz vertreten hatte (act. 79). Dieses
+Schreiben konnte dem Beschuldigten – wie bereits das vorhergehende Schreiben
+des Obergerichts (vgl. act. 76 und 78) – nicht zugestellt werden. Dieses
+Mal scheiterte die Zustellung gemäss Post daran, dass der Empfänger an der
+[…], d.h. unter der vom Beschuldigten in seiner Berufung angegebenen Adresse
+(vgl. die Adressangabe in act. 75 S. 1), nicht ermittelt werden
+konnte (act. 80). Auch die Vorladung für die Berufungsverhandlung vom
+14. August 2020 (act. 81) konnte dem Beschuldigten mit dem
+Hinweis
+«Empfänger konnte unter der angegebenen Adresse nicht ermittelt
+werden»
+(act. 84) nicht zugestellt werden. Eine neue Adresse oder
+Zustelladresse teilte der Beschuldigte dem Obergericht bis zum
+Urteilszeitpunkt nicht mit. Mangels Zustelladresse und bekannten
+Aufenthaltsortes wurde die Vorladung an den Beschuldigten am […] im Amtsblatt
+des Kantons Glarus publiziert; mit dem zusätzlichen Hinweis, dass das an ihn
+gerichtete Schreiben des Obergerichts vom 14. Oktober 2019 für ihn
+zur Abholung bei der Kanzlei des Obergerichts hinterlegt sei (act. 85, act.
+86). Dennoch blieb der Beschuldigte der mündlichen Berufungsverhandlung vom
+14. August 2020 unentschuldigt fern (act. 87 S. 1 ff.).
+Anlässlich der Berufungsverhandlung reichten sowohl die Staatsanwaltschaft
+als auch die amtliche Verteidigerin Plädoyernotizen ein (act. 89,
+act. 90/1-3 und act. 91).
+8.
+In der
+Folge stellte das Obergericht nochmals weitere Nachforschungen betreffend den
+Aufenthaltsort des Beschuldigten an (act. 93 und act. 94). Die
+Staatsanwaltschaft und die amtliche Verteidigerin wurden aufgefordert, dem
+Obergericht bei entsprechender Kenntnis Informationen betreffend den
+aktuellen Aufenthaltsort
+oder die aktuelle Adresse des Beschuldigten mitzuteilen (act. 96-99).
+Weder die Staatsanwaltschaft noch die amtliche Verteidigerin konnten
+entsprechende Auskünfte erteilen (act. 100 und act. 101).
+II.
+1.
+Angesichts
+der oben erwähnten Unerreichbarkeit des Beschuldigten, namentlich die
+gescheiterte Zustellung der Vorladung, sowie seines Nichterscheinens an der
+Berufungsverhandlung prüft das Obergericht von Amtes wegen die Frage, ob die
+Berufung materiell zu behandeln ist oder ob sie als konkludent zurückgezogen
+gilt. Eine Berufung gilt gemäss Art. 407 Abs. 1 StPO als
+zurückgezogen, wenn der Beschuldigte der mündlichen Berufungsverhandlung
+unentschuldigt fernbleibt und sich auch nicht vertreten lässt (lit. a),
+im Falle eines schriftlichen Verfahrens keine schriftliche Berufungsbegründung
+einreicht (lit. b) oder der Beschuldigte im mündlichen Verfahren nicht
+vorgeladen werden kann (lit. c).
+2.
+Es ist
+vorweg festzuhalten, dass die Durchführung eines schriftlichen Verfahrens mit
+Blick auf Art. 406 StPO ausgeschlossen ist. Da dem Beschuldigten die
+Vorladung für die Berufungsverhandlung nicht zugestellt werden konnte und da
+er nach Publikation der Vorladung im Amtsblatt unentschuldigt der
+Berufungsverhandlung fernblieb, ist daher zu prüfen, ob eine Rückzugsfiktion
+im Sinne von Art. 407 Abs. 1 lit. a oder lit. c StPO
+vorliegt.
+3.
+3.1.
+Der
+Teilsatz «nicht vorgeladen werden kann» (i.S.v. Art. 407 Abs. 1
+lit. c StPO) stellt eine Spezialbestimmung des Berufungsverfahrens dar
+und ist auszulegen. Das Bundesgericht hat sich bis anhin, soweit ersichtlich,
+noch nicht mit dieser Bestimmung befasst und sich einzig zu lit. a dieser
+Norm geäussert (vgl. BGE 133 I 12 [mit Verweis auf Art. 414
+Abs. 1 lit. a E-StPO, welcher identisch mit dem heutigen
+Art. 407 Abs. 1 lit. a StPO ist], BGer 6B_876/2013 Urteil vom
+6. März 2014 und BGer 6B_652/2013 Urteil vom 26. November 2013).
+Vertiefte Auseinandersetzungen in der Lehre, die über eine wörtliche
+Wiedergabe von Art. 407 Abs. 1 lit. c StPO hinausgehen, sind
+ebenfalls nicht zu finden.
+3.2.
+Der
+Teilsatz «nicht vorgeladen werden kann» ist nicht eng auf die Frage zu begrenzen,
+ob eine Person rechtlich vorgeladen werden kann, da derlei jedenfalls durch
+eine Publikation im Amtsblatt (Art. 88 Abs. 1 StPO) immer möglich
+ist. Die Zustellfiktion mittels Veröffentlichung im Amtsblatt greift im
+Berufungsverfahren richtigerweise nicht, da hier der Gesetzgeber spezielle
+Säumnisfolgen vorgesehen hat (so Art. 407 Abs. 1 lit. c StPO).
+Würde man eine Publikation der Vorladung im Amtsblatt genügen lassen, träte
+die Unmöglichkeit, den Berufungskläger vorladen zu können, nie ein (KG St. Gallen
+ST.2016.7/8 Urteil vom 2. Juli 2019, E. 2.b, in SJZ 116/2020
+Nr. 14, S. 507 ff.; KG Wallis TCV P1 17 49 Urteil vom
+8. Januar 2019, E. 2.1.2; OG Bern SK 17 138-141 Urteil vom
+23. Februar 2018, E. 6.2 f., in: CAN 2018/2 Nr. 39,
+S. 120 ff.; OG Bern SK 17 192 Urteil vom 5. Februar 2018,
+E. 5.3; OG Aargau SST.2015.147 Urteil vom 20. August 2015,
+E. 1.3, in: CAN 2016/2 Nr. 46, S. 123 ff.; OG Obwalden
+AS 14/002, AS 14/006 Urteil vom 9. Januar 2015, in: CAN
+2015/2 Nr. 44, S. 123 ff. mit Kommentierung von Stefan
+Keller). Davon ausgehend, dass jede Norm eine eigenständige Bedeutung hat,
+andernfalls sie der Gesetzgeber nicht erlassen hätte, ist Art. 407
+Abs. 1 lit. c StPO daher bei einer systematischen Auslegung der
+Strafprozessordnung so zu verstehen, dass das Tatbestandselement «nicht
+vorgeladen werden kann» erfüllt ist, wenn dem Beschuldigten die Vorladung
+nicht zugestellt werden kann.
+3.3.
+Wendet
+man die teleologische Auslegungsmethode an und prüft, welchen Zweck der
+Gesetzgeber mit Art. 407 Abs. 1 lit. c StPO verfolgt, ist
+dieser darin zu sehen, dass der Beschuldigte in Anwendung einer gesetzlichen
+Fiktion nicht zur Berufung zuzulassen ist, wenn er erkennbar kein Interesse
+an einer Partizipation am Berufungsverfahren (mehr) hat. Es bedarf keiner
+weiteren Ausführungen, dass ein solches Interesse für ein von privater Seite
+angestossenes staatliches Handeln vorausgesetzt wird. Manifestiert wird das
+Desinteresse an einer Berufung gemäss dem Wortlaut von Art. 407
+Abs. 1 lit. c StPO dadurch, dass – wegen Abwesenheit bzw. fehlenden
+Zustellungsdomizils – ein Berufungsführer nicht vorgeladen werden kann.
+3.4.
+Es reicht daher z.B. nicht aus, wenn der
+Beschuldigte seinem amtlichen Verteidiger nach Kenntnisnahme des
+erstinstanzlichen Urteils mitteilt, dass er mit dem Entscheid nicht
+einverstanden sei und gegen diesen vorgehen wolle. Vielmehr muss der Wille,
+eine Berufung zu führen, also das Urteil von der nächsthöheren Instanz
+überprüfen zu lassen, während des Rechtsmittelverfahrens fortlaufend gegeben
+sein. Das Rechtsmittelverfahren unterscheidet sich mithin wesentlich vom
+erstinstanzlichen Prozess, weil Letzterer die Zielsetzung hat, ein
+materielles Urteil auszufällen (KG St. Gallen ST.2016.7/8 Urteil vom
+2. Juli 2019, E. 2.b, in SJZ 116/2020 Nr. 14,
+S. 507 ff.; KG Wallis TCV P1 17 49 Urteil vom 8. Januar 2019,
+E. 2.1.2; OG Bern SK 17 138-141 Urteil vom
+23. Februar 2018, E. 6.2, in: CAN 2018/2 Nr. 39,
+S. 120 ff.; OG Bern SK 17 192 Urteil vom
+5. Februar 2018, E. 5.2; OG Obwalden AS 14/002,
+AS 14/006 Urteil vom 9. Januar 2015, E. 1.4, in: CAN
+2015/2 Nr. 44, S. 123 ff.). Auf ein Rechtsmittel kann
+verzichtet werden oder dieses kann (bis kurz vor dem zweitinstanzlichen
+Urteil) zurückgezogen werden (vgl. Art. 386 Abs. 2 StPO; sog.
+Parteidisposition). Dementsprechend bloss konsequent ist Art. 407
+Abs. 1 lit. c StPO, indem die Norm bestimmt, dass wenn sich ein
+(konkludentes) Desinteresse an einer Berufung manifestiert, das Rechtsmittel
+als zurückgezogen gilt (OG Bern SK 17 138-141 Urteil vom 23. Februar 2018,
+E. 6.2, in: CAN 2018/2 Nr. 39, S. 120 ff.). Entsprechend
+reicht es für den Nachweis des Interesses am Berufungsverfahrens für dessen
+ganze Dauer auch nicht, dass der Beschuldigte im vorliegenden Verfahren
+eigenständig eine begründete Berufung einreichte.
+3.5.
+Diese
+Strenge rechtfertigt sich, weil diejenige Partei, welche mit dem
+angefochtenen Urteil nicht einverstanden ist und ein Rechtsmittel ergreift,
+ihren Standpunkt im Berufungsverfahren darzulegen hat und vom Gericht dazu
+befragt werden können soll. Es stellt ein widersprüchliches Verhalten dar,
+wenn eine Partei zunächst ein Rechtsmittel einlegt, dann jedoch nicht an den
+dadurch ausgelösten Verfahrensschritten teilnimmt. Derlei verdient keinen
+Rechtsschutz; eine solche Verhaltensweise wird weder durch Art. 32
+Abs. 3 BV noch Art. 6 Ziff. 3 lit. c EMRK geschützt (KG
+St. Gallen ST.2016.7/8 Urteil vom 2. Juli 2019, E. 2.b, in SJZ
+116/2020 Nr. 14, S. 507 ff.; KG Wallis TCV P1 17 49 Urteil vom
+8. Januar 2019, E. 2.1.2; OG Bern SK 17 138-141 Urteil
+vom 23. Februar 2018, E. 6.2, in: CAN 2018/2 Nr. 39,
+S. 120 ff.; OG Bern SK 17 192 Urteil vom 5. Februar 2018,
+E. 5.2; OG Obwalden AS 14/002, AS 14/006 Urteil vom
+9. Januar 2015, E. 1.4, in: CAN 2015/2 Nr. 44,
+S. 123 ff.).
+3.6.
+Ein
+Rechtsmittel gilt, zusammengefasst, gemäss Art. 407 Abs. 1 lit. c
+StPO als zurückgezogen, wenn sich ein (konkludentes) Desinteresse an einer
+Berufung manifestiert (KG St. Gallen ST.2016.7/8 Urteil vom
+2. Juli 2019, E. 2.b, in SJZ 116/2020 Nr. 14, S. 507 ff.;
+KG Wallis TCV P1 17 49 Urteil vom 8. Januar 2019, E. 2.1.2; OG
+Bern SK 17 138-141 Urteil vom 23. Februar 2018, E. 6.2,
+in: CAN 2018/2 Nr. 39, S. 120 ff.). Ein konkludenter Rückzug
+des Rechtsmittels muss gemäss Bundesgericht angenommen werden, wenn sich aus
+dem gesamten Verhalten des Betroffenen der Schluss aufdrängt, er verzichte
+mit seinem Desinteresse am weiteren Gang des Verfahrens bewusst auf den ihm
+zustehenden Rechtsschutz (in Bezug auf eine Einsprache: BGer 6B_1201/2018
+Urteil vom 15. Oktober 2019, E. 4.3.1, BGer 6B_1143/2017
+Urteil vom 1. Juni 2018, E. 1.2, BGE 142 IV 158,
+E. 3.1 ff. = Pra 2016 Nr. 94 und BGE 140 IV 86, E. 2.6).
+4.
+4.1.
+Ein
+manifestiertes Desinteresse am Verfahren, welches zur Anwendung von
+Art. 407 Abs. 1 lit. c StPO führt, besteht somit dann, wenn
+vom Beschuldigten wie vorliegend weder eine (aktuelle) Adressangabe noch ein
+(aktuelles) Zustellungsdomizil (z.B. beim entsprechenden Verteidiger) gemäss
+Art. 87 StPO vorliegt, d.h. er unbekannten Aufenthaltes ist (vgl. dazu
+auch OG Obwalden AS 14/002, AS 14/006 Urteil vom
+9. Januar 2015, E. 1.4 f., in: CAN 2015/2 Nr. 44,
+S. 123 ff.; OG Aargau SST.2015.147 Urteil vom
+20. August 2015, E. 1.3, in: CAN 2016/2 Nr. 46, S. 127
+ff.). In diesem Fall kann der Beschuldigte nicht persönlich (i.S.v.
+Art. 87 Abs. 4 StPO) vorgeladen werden. Kann jene Partei, welche
+die Berufung erklärt hat, nicht vorgeladen werden, weil ihr Aufenthaltsort
+unbekannt ist und trotz zumutbarer Nachforschungen nicht ermittelt werden
+kann, so tritt die Rückzugsfiktion nach dem klaren Wortlaut gemäss
+Art. 407 Abs. 1 lit. c StPO sofort ein (so auch OG Aargau
+SST.2015.147 Urteil vom 20. August 2015, E. 1.3, in CAN 2016/2
+Nr. 46, S. 127 ff.). Dass vorliegend die Vorladung dennoch im
+Amtsblatt publiziert wurde ändert nichts an der Anwendbarkeit von
+Art. 407 Abs. 1 lit. c StPO. Ganz im Gegenteil, wurde doch
+alles unternommen, um den Beschuldigten zu einer Teilnahme am Verfahren zu
+bewegen.
+4.2.
+Der
+Beschuldigte schien bereits während des vorinstanzlichen Verfahrens
+untergetaucht zu sein. Zum Zeitpunkt der Anklageerhebung war der Beschuldigte
+unbekannten Aufenthalts (act. 1). Vor Vorinstanz gab die
+Staatsanwaltschaft an, der Beschuldigte sei verschwunden und habe ausgeschrieben
+werden müssen (act. 54 S. 12 unten). Trotz mehrfacher, öffentlicher
+und teils erfolgreicher persönlicher Vorladung erschien der Beschuldigte
+unentschuldigt auch nicht zu den vorinstanzlichen Gerichtsverhandlungen vom
+2. Mai 2018 und 7. August 2018. Aufgrund des
+Nichterscheinens des Beschuldigten an der ersten vorinstanzlichen
+Hauptverhandlung musste diese verschoben werden, was zur Verjährung weiterer
+Vorhalte führte (act. 54 S. 4 unten). An der zweiten
+vorinstanzlichen Hauptverhandlung wurde der Beschuldigte schliesslich im
+Abwesenheitsverfahren verurteilt (zum Ganzen: E.
+I.3
+f.
+vorstehend).
+4.3.
+Wie
+vorstehend ausgeführt (vgl. E.
+I.7
+), konnte
+auch das Obergericht dem Beschuldigten im Berufungsverfahren aufgrund dessen
+unbekannten Aufenthalts keine einzige Postsendung zustellen. Die vom
+Obergericht getätigten Nachforschungen betreffend den Aufenthaltsort des
+Beschuldigten waren erfolglos. Der Beschuldigte verzog am 25. April 2017
+von […] nach unbekannt (act. 94). An der von ihm sowohl vor Vorinstanz
+als auch vor Obergericht mehrfach genannten Adresse an der […] (vgl.
+act. 29, act. 75 S. 1, SG.2018.00089 act. 5 und
+act. 6 je S. 1 oben) war der Beschuldigte gemäss Auskunft des
+zuständigen Einwohneramtes nie angemeldet (act. 93). An dieser Adresse
+konnten auch keine Zustellungen vorgenommen werden (beispielhaft act. 44,
+80, 84, 90/2). Ebenso wenig ist an dieser Adresse (oder einer anderen) eine
+X.______ Ltd. im Zefix eingetragen (act. 95; vgl. die Adressangabe des
+Beschuldigten in act. 29 letzter Absatz). Ausserdem ist der Beschuldigte
+an der vom Einwohneramt […] mitgeteilten möglichen Adresse in […] nicht
+bekannt (act. 93). Zudem ist es nicht auszuschliessen, dass sich der
+Beschuldigte im Ausland, genauer gesagt in […], aufhält. Diese
+Schlussfolgerung drängt sich auf, da er als Beilage zu seiner Berufung bzw.
+seinem Gesuch um Neubeurteilung (act. 75) zwei Strafanzeigen als
+Beilagen einreichte, auf welchen er als Adresse
+[…]
+angab (als
+Korrespondenzadresse gab er die
+[…]
+an, vgl. SG.2018.00089 act. 5
+und act. 6 je S. 1 oben). Er scheint sich damit zumindest in der
+Vergangenheit in […], woher auch seine Ehefrau stammt […], aufgehalten zu
+haben (die beiden erwähnten Strafanzeigen weisen kein Ausstellungsdatum auf,
+vgl. SG.2018.00089 act. 5 und act. 6).
+4.4.
+Ebenso wenig ist die amtliche Verteidigerin über den
+Aufenthaltsort des Beschuldigten informiert (act. 101). Anlässlich der
+Berufungsverhandlung vom 14. August 2020 gab sie an, der
+«Aufenthalts-
+und/oder Wohnort des Beschuldigten [könne] nicht wirklich fixiert werden»
+(act. 89 S. 1 lit. a). Auch die amtliche Verteidigerin hatte Probleme,
+den Beschuldigten zu erreichen. So versucht sie, dem Beschuldigten das
+vorinstanzliche Urteil auf verschiedenen Kanälen zuzustellen (act. 89
+S. 1 lit. a). Die postalische Zustellung scheiterte jedoch, da der
+Beschuldigte die eingeschriebenen Sendungen abermals nicht abholte
+(act. 90/2). Daher versuchte es die amtliche Verteidigerin in der Folge per
+A-Post und per E-Mail (act. 90/1 und act. 90/3). Es ist davon
+auszugehen, dass der Beschuldigte auf die eine oder andere Weise Kenntnis des
+vorinstanzlichen Urteils erlangte, da er selbständig Berufung gegen dagegen
+erhob; dies bestätigte vor Obergericht auch die amtliche Verteidigerin (
+«Die
+Berufung legte der Beschuldigte jedoch in eigenem Namen ein»
+,
+act. 89 S. 1 lit. a). Der Beschuldigte meldete sich daraufhin
+jedoch nicht bei seiner Verteidigerin. Diese gab anlässlich der
+Berufungsverhandlung an, der Beschuldigte habe die Berufung
+«in eigenem
+Namen»
+, d.h. ohne vorherige Rücksprache mit ihr, eingelegt (act. 89
+S. 1 lit. a). Die amtliche Verteidigung konnte nach eigenen Angaben
+somit nur versuchen, die Berufung des Beschuldigten
+«nach bestem Wissen
+und Gewissen […] in eine rechtlich korrekte Form zu bringen»
+(act. 89 S. 1 lit. a). Eine Instruktion durch den
+Beschuldigten war gemäss Angaben der amtlichen Verteidigerin nicht möglich
+(act. 89 S. 1 lit. a); dies ergibt sich zudem auch aus der von
+der amtlichen Verteidigerin eingereichten Honorarnote (act. 92), gemäss
+welcher im Berufungsverfahren keine einzige Besprechung mit dem Beschuldigten
+stattfand oder sich der Beschuldigte sonst wie bei ihr meldete.
+Auch die Staatsanwaltschaft gab an, über keine
+weiteren Informationen betreffend den Aufenthaltsort des Beschuldigten zu
+verfügen und ihn gar zur Verhaftung ausgeschrieben zu haben (act. 100).
+4.5.
+Aufgrund
+der oben geschilderten Umstände ist davon auszugehen, dass der Beschuldigte
+im In- oder Ausland untergetaucht ist. Bei dieser Ausgangslage, d.h.
+keinerlei Anhaltspunkte darüber, wo sich der Beschuldigte aufhält, wäre eine
+erneute Vorladung des Beschuldigten für eine zweite Berufungsverhandlung kaum
+erfolgversprechend, weshalb sich eine solche vorliegend erübrigt.
+5.
+5.1.
+Mit
+der Rechtshängigkeit entsteht ein Prozessrechtsverhältnis, das die Parteien
+verpflichtet, sich nach Treu und Glauben zu verhalten. Diese haben unter
+anderem dafür zu sorgen, dass ihnen Sendungen, die das Verfahren betreffen,
+zugestellt werden können (BGE 138 III 225, E. 3.1). Aufgrund der
+selbständigen Einleitung des Berufungsverfahrens wusste der Beschuldigte,
+dass er Partei des vorliegenden Verfahrens ist und musste erwarten, eine
+Gerichtsurkunde zu erhalten bzw. für die Berufungsverhandlung vorgeladen zu
+werden. Indem er keine nützliche Vorkehr traf, um seine Post zu erhalten, hat
+er klar sein Desinteresse am Verfahren offenbart.
+5.2.
+Der Beschuldigte hat es jedoch nicht einfach
+unterlassen, seiner sich aus Treu und Glauben ergebenden Pflicht
+nachzukommen, dem Obergericht eine aktuelle Zustelladresse mitzuteilen.
+Vielmehr kann die Verhaltensweise des Beschuldigten nicht anders verstanden werden,
+als dass er bewusst seinen wahren Aufenthaltsort verschleiert, um auf diese
+Weise Zustellungen an ihn zu erschweren, wenn nicht sogar zu verunmöglichen.
+Ein solches Verhalten ist rechtsmissbräuchlich und verdient keinen Schutz.
+Diese Verhaltensweise legte der Beschuldigte jedoch nicht nur im vorliegenden
+Verfahren an den Tag, sondern auch in anderen Behördenverfahren, in welchen
+er beteiligt war. Aus den Akten ergibt sich folgendes Bild:
+5.2.1.
+Bei
+der Einvernahme durch die Stadtpolizei Zürich am 14. Dezember 2010
+gab der Beschuldigte an, nicht angemeldet in der «Fabrikantenwohnung» an der
+[…] zu wohnen und sich in […] nicht abgemeldet zu haben (act. 2/I/1/7
+S. 1 Frage 2). Dies bestätigte der Beschuldigte anlässlich der
+Einvernahme durch die Stadtpolizei Zürich vom 8. April 2011
+nochmals (act. 2/I/4/3 S. 8 Frage 61). Auf ein entsprechendes
+Auskunftsersuchen der Staatsanwaltschaft Zürich-Sihl vom 13. Juli 2011
+an die Einwohnerkontrolle […], bestätigte die kantonale Steuerverwaltung
+Glarus, dass der Beschuldigte unbekannt und in der Gemeinde [...] nicht
+gemeldet sei (act. 2/I/1/9c). Als der Beschuldigte anlässlich der
+polizeilichen Einvernahme als beschuldigte Person durch die Kantonspolizei
+Glarus am 14. Juli 2011 nochmals befragt wurde, verweigerte er die Aussagen
+zur Frage, wo er wohne, weshalb er noch bei der Gemeinde […] gemeldet sei und
+seine Schriften deponiert seien und weshalb er sich nicht bei der
+Einwohnerkontrolle [...] gemeldet habe, bestehe doch die Vermutung, dass der
+Beschuldigte bei seinem Vater [...] wohnhaft sei (act. 2/I/6/6
+S. 4 f. Fragen 15-17).
+5.2.2.
+Der
+Beschuldigte war auch früher bereits im Ripol aktiv zur
+Aufenthaltsausforschung wegen Zustellung einer Verfügung des
+Strassenverkehrsamtes Zürich, Amt für Administrativmassnahmen, ausgeschrieben
+gewesen. Die entsprechende Verfügung konnte dem Beschuldigten dann im Zuge
+der protokollarischen Befragung durch die Glarner Kantonspolizei vom
+14. Juli 2011 übergeben werden (act. 2/I/6/9 S. 1).
+5.2.3.
+Im
+Rapport der Stadtpolizei Zürich vom 3. Juli 2011 wurde zu «Wohnort/Wohnsitzsituation»
+des Beschuldigten Folgendes festgehalten (act. 2/I710/2 S. 6
+Mitte):
+«In der Gemeinde […], Wohnort von A.______ gemäss StVA Zürich, ist
+A.______ am 31. Mai 2011 abgemeldet worden. Gemäss Auskunft hält er
+sich nun an der Adresse [...] auf. Gemäss SGV-Set gab A.______ die Adresse
+[…] an. Bei dieser Wohnung handelt es sich um eine Wohnung eines Ehepaares
+mit Kindern (4-Zimmerwohnung). Diese haben soweit eruierbar mit der Familie
+A.______ nichts zu tun. Die Adresse […] ist A.______ bekannt. Vor längerer
+Zeit hatte A.______ einen Mietvertrag für diese Liegenschaft. Er zog dort
+jedoch nie ein und der Mietvertrag wurde aufgelöst. Den Behörden in […] ist
+bekannt, dass A.______ diese Adresse bei Kontrollen gegenüber der Polizei
+angibt.»
+5.2.4.
+In
+den Akten findet sich für den gleichen Zeitraum auch als Meldeadresse […],
+wobei teils als Aufenthaltsort c/o Firma X.______ Ltd., [...] angegeben wird
+(z.B. im Ersuchen auf Verfahrensübernahme der Staatsanwaltschaft
+Zürich-Limmat an die Staatsanwaltschaft Glarus vom 9. April 2011
+[act. 3/II/4/2/VII]; im Antrag auf Entsiegelung und Durchsuchung der Staatsanwaltschaft
+Glarus vom 28. April 2011 [act. 3/II/4/1]). Hingegen erging
+der Strafbefehl der Staatsanwaltschaft Glarus vom 18. Januar 2011
+an die Adresse […] (act. 3/II/4/2/IX).
+5.2.5.
+Im
+Antrag der Kantonspolizei an die Staatsanwaltschaft betreffend Beantragung
+von Untersuchungshaft vom 2. Oktober 2011 (act. 4/III/11/5)
+wird bei der Adresse des Beschuldigten «Unbekannt, ohne festen Wohnsitz»
+angegeben. Im dazugehörigen Rapport über die vorläufige Festnahme ist zwar
+noch die [...] als Adresse angegeben (act. 4/III/11/5 S. 3), jedoch
+sagte der Beschuldigte anlässlich der polizeilichen Einvernahme am
+1. Oktober 2011 unter Hinweis auf den auf ihn ausgestellten
+bulgarischen Führerausweis aus, dass er seit ca. 2004 in Bulgarien lebe;
+zwischenzeitlich habe er aber auch in der Slowakei gelebt resp. seine
+Schriften dort gehabt. Er werden demnächst in der Slowakei eine neue Firma
+gründen und dann seinen Wohnsitz wieder in die Slowakei verlegen. Zusätzlich
+werde er ab dann einen zweiten Wohnsitz im Fürstentum Liechtenstein bekommen.
+Damals sagte er auch aus, dass er sich nie länger als ein Jahr in der Schweiz
+aufhalte, weshalb er keinen Schweizer Führerausweis brauche
+(act. 4/III/11/5 S. 9 Fragen 1-2). Entsprechend wurde in der
+Empfangsbescheinigung betreffend Sicherstellung vom 1. Oktober 2011
+bei Adresse «unbekannt» und bei PLZ/Wohnort «Bulgarien Ort unbekannt» eingetragen
+(act. 4/III/11/5 S. 7). Bei der Befragung anlässlich der Eröffnung
+der Festnahme am 2. Oktober 2011 gab der Beschuldige wiederum an,
+er wohne in der Schweiz bei den Eltern [...] (act. 4/III/11/6 S. 3
+oben).
+5.2.6.
+Die
+Zustellungen an den Beschuldigten scheiterten sodann auch in weiteren
+Verfahren. So versuchte der Vollzugs- und Bewährungsdienst des Kantons Luzern
+dem Beschuldigten mit Schreiben vom 4. Mai 2011 das rechtliche
+Gehör zu gewähren, nachdem der Bewährungsdienst des Kantons Zürich, welchem
+die Bewährungshilfe übertragen war, feststellte, dass lediglich drei
+Gespräche mit dem Beschuldigten stattgefunden hätten; den Einladungen per
+E-Mail und per Post sei der Beschuldigte nicht nachgekommen. Der
+Bewährungsdienst des Kantons Zürich habe festgehalten, dass gemäss
+Informationen der Einwohnerkontrolle […] vom 8. April 2011 der
+Beschuldigte noch mit einer Amtsadresse dort gemeldet sei, jedoch habe er
+keinen Wohnsitz in […] mehr. Sein Aufenthaltsort sei unbekannt. Das Schreiben
+des Vollzugs- und Bewährungsdienstes des Kantons Luzern gelangte infolge
+Unzustellbarkeit wieder an diese Behörde zurück. Auf die anschliessende
+Publikation im Luzerner Amtsblatt reagierte der Beschuldigte ebenfalls nicht,
+weshalb sodann aufgrund der Akten entschieden wurde. Im Mitteilungssatz des
+entsprechenden Entscheids war festgehalten, dass falls nicht zustellbar wegen
+unbekannten Aufenthaltes die Publikation des Entscheides im Luzerner
+Kantonsblatt erfolge (act. 4/III/11/8 S. 24-26).
+5.2.7.
+Gemäss
+Auszug des Einwohneramts [...] vom 20. Januar 2012 war der Beschuldigte
+am 1. April 2010 nach [...] zugezogen und am 31. Mai 2011
+von [...] weggezogen. Sowohl beim Zuzugsort wie auch beim Wegzugsort findet
+sich die Angabe «unbekannt» (act. 6/IV/9/3).
+5.2.8.
+Anlässlich
+der polizeilichen Einvernahme durch die Kantonspolizei Glarus vom 23. Oktober 2011
+wurde der Beschuldigte nochmals zu seinem von ihm in einer früheren Befragung
+geltend gemachten Wohnsitz in Bulgarien befragt (Wohnadresse, Meldeadresse,
+Datum der Anmeldung, aktuelle Anmeldung in Bulgarien). Diesbezüglich verweigerte
+der Beschuldigte die Aussage, bestätigte jedoch, dass sein Lebensmittelpunkt
+in [...] sei. In der selben Einvernahme führte der Beschuldigte aus, dass er
+in Bulgarien angemeldet sei und dort einen Wohnsitz habe, jedoch heisse das
+nicht, dass er dort lebe (act. 4/III/11/12/3 S. 4 f. und
+S. 9 f.).
+5.2.9.
+Der
+Beschuldigte verfügte auch über einen bulgarischen Führerschein und eine
+bulgarische Aufenthaltsbewilligung (ID-Karte), welche jedoch gemäss dem
+kriminaltechnischen Dienst des Kantons Glarus Inhaltsfälschungen sind
+(act. 6/IV/8/1-10).
+5.2.10.
+Anlässlich
+der polizeilichen Einvernahme durch die Kantonspolizei Glarus vom 8. Dezember 2012
+führte der Beschuldigte aus, dass er nicht immer in der Schweiz lebe, sondern
+«minimum 2-3 Monate nicht in der Schweiz»
+sei (act. 6/IV/13/7
+S. 4 Frage 17). Anlässlich der gleichen Einvernahme führte der
+Beschuldigte aus, dass er einen Zweitwohnsitz habe, jedoch nicht sagen müsse,
+wo dieser sei (act. 6/IV/13/7 S. 5 Frage 22). Die
+Wohnsitzabklärung bei den bulgarischen Behörden ergab, dass der Beschuldigte
+bei diesen unbekannt ist (act. 6/IV/13/10).
+5.2.11.
+Das
+Zwangsmassnahmengericht genehmigte sodann mit Entscheid vom
+7. November 2011 die Untersuchungshaft, unter anderem weil es als
+glaubhaft erachtet wurde, dass sich der Beschuldigte hauptsächlich im Ausland
+aufhalte (act. 4/III/11/15 S. 4 E. 3.2).
+5.2.12.
+Zu
+einem späteren Zeitpunkt findet sich […] als Adresse des Beschuldigten in den
+Akten (z.B. SVG-Strafanzeige vom 10. September 2014;
+act. 6/IV/14/1 S. 1). An diese Adresse sendete die Staatsanwaltschaft
+sodann am 9. September 2015 eingeschrieben eine Vorladung für eine
+Einvernahme, welche jedoch nicht zugestellt werden konnte (act. 6/IV/22/34).
+5.2.13.
+In
+Bezug auf das Führen eines Fahrzeugs mit dem Kontrollschild FL […] erging von
+der Stadtpolizei Winterthur ein Rechtshilfeersuchen an die Landespolizei des
+Fürstentum Liechtenstein betreffend Lenkerermittlung. Im entsprechenden
+Bericht ist festgehalten, dass es sich beim Geschäftsführer bzw.
+Fahrzeugverantwortlichen der Firma «Y.______» um A.______ handle, welcher
+nicht im Fürstentum Liechtenstein wohnhaft sei. Am Geschäftssitz dieser Firma
+in […] (FL) könne nie jemand angetroffen werden. Der Landespolizei sei es
+aber bekannt, dass diese Firma einen weiteren Geschäftssitz in […] habe
+(act. 6/IV/21/6 S. 1 f.).
+5.2.14.
+Zudem
+folgte der Beschuldigte den an ihn ergangenen Vorladungen auch in früheren
+Verfahren nicht. So wurde er für eine Einvernahme durch die Kantonspolizei am
+7. Juni 2011 unterschriftlich als beschuldigte Person vorgeladen.
+Diesem Vorladungstermin leistete er ohne Reaktion keine Folge. In der Folge
+konnte der Beschuldigte schliesslich telefonisch erreicht werden und wurde
+mündlich auf den 14. Juli 2011 vorgeladen. Dieser mündlichen
+Vorladung leistet der Beschuldigte damals Folge und er konnte
+unterschriftlich zum Sachverhalt befragt werden (act. 2/I/7/2 S. 2
+oben).
+5.3.
+Insgesamt
+ergibt sich daraus ein Bild, wonach es der Beschuldigte generell darauf
+anlegt, seinen Aufenthaltsort zu verschleiern, um auf diese Weise für
+Behörden nicht erreichbar zu sein, und wonach der Beschuldigte in jenen
+Fällen, in denen die Zustellung einer Vorladung dann doch erfolgen konnte,
+dieser nur teilweise nachkommt. Eine solche Verhaltensweise ist
+rechtsmissbräuchlich.
+6.
+6.1.
+Der
+Umstand, dass der Beschuldigte vorliegend eine amtliche Verteidigung hat und
+dieser die Vorladung zugestellt werden konnte, ändert an der Anwendbarkeit
+von Art. 407 Abs. 1 lit. c StPO nichts. Eine systematische und
+teleologische Auslegung dieser Norm (vgl. dazu E.
+II.3
+vorstehend)
+führt auch im Zusammenhang mit einer notwendigen Verteidigung zum Schluss,
+dass ein konkludenter Rückzug des Rechtsmittels angenommen werden muss, wenn
+sich aus dem gesamten Verhalten des Betroffenen der Schluss aufdrängt, er
+verzichte mit seinem Desinteresse am weiteren Gang des Verfahrens bewusst auf
+den ihm zustehenden Rechtsschutz. Unabhängig von der mit der notwendigen
+Verteidigung einhergehenden rechtsstaatlichen Funktion, verfolgt diese keinen
+Selbstzweck (vgl. dazu E.
+II.8.2.2
+nachstehend), sie ist letztlich einzig dem Schutzinteresse des Beschuldigten
+verpflichtet (KG St. Gallen ST.2016.7/8 Urteil vom 2. Juli 2019,
+E. 3.e).
+6.2.
+Das
+fehlende Interesse des Beschuldigten am Berufungsverfahren manifestiert sich
+ausser durch den Umstand, dass ihm keine Vorladung zugestellt werden konnte,
+auch gerade darin, dass der Beschuldigte während des ganzen
+Berufungsverfahrens, also seit fast zwei Jahren, weder das Gericht noch seine
+Anwältin kontaktierte und auch auf die öffentliche Vorladung nicht reagierte.
+Namentlich erschien der Beschuldigte nicht zur Berufungsverhandlung. Ebenso
+vermochte es die amtliche Verteidigerin nicht, ihn zu kontaktieren, um das
+weitere Vorgehen zu besprechen und weitere Instruktionen einzuholen.
+6.3.
+Eine
+Kontaktaufnahme sowohl zum Gericht als auch zur amtlichen Verteidigerin wäre
+einfach gewesen, weil auf jeder gerichtlichen bzw. anwaltlichen
+Korrespondenz, Adresse, Telefonnummer und mit Bezug auf die amtliche
+Verteidigerin E-Mail-Adresse genannt sind (vgl. z.B. act. 79 oder
+act. 48). Ebenfalls wären die betreffenden Kontaktdaten per Internetsuche
+leicht auffindbar gewesen. Ein Minimum an gutem Willen vorausgesetzt, hätte
+sich der Beschuldigte beim Gericht bzw. seiner Anwältin melden können.
+6.4.
+Das
+oben aufgezeigte Verhalten des Beschuldigten ist widersprüchlich und verdient
+keinen Rechtsschutz. Es geht nicht an, eigenständig Berufung einzulegen und
+dann aufgrund unbekannten Aufenthaltes weder für das Gericht noch für die
+amtliche Verteidigung erreichbar zu sein. Da der Beschuldigte selbständig
+Berufung erhoben hat, muss er seinen Standpunkt im Berufungsverfahren –
+zumindest durch Instruktion seiner amtlichen Verteidigerin – darlegen und vom
+Gericht befragt werden können (vgl. dazu oben E.
+II.3.4
+f.).
+Dadurch, dass all dies nicht möglich war, bekundet der Beschuldigte sein
+Desinteresse am vorliegenden Berufungsverfahren.
+6.5.
+Da
+die amtliche Verteidigerin vorliegend weder Kontakt mit ihrem Klienten hatte
+und auch keine aktuelle Adressangabe besitzt, kann sie auch nicht als
+Zustellungsdomizil dienen. Der Beschuldigte kann im vorliegenden
+Berufungsverfahren also aufgrund unbekannten Aufenthalts nicht persönlich
+(i.S.v. Art. 87 Abs. 4 StPO) vorgeladen werden bzw. es kann ihm
+keine Vorladung zugestellt werden.
+7.
+Es kann
+somit festgehalten werden, dass es dem Obergericht nicht möglich war, trotz
+eigener Nachforschungen dem Beschuldigten die Vorladung für die
+Berufungsverhandlung zuzustellen. Bereits daraus ergibt sich das Desinteresse
+des Beschuldigten am vorliegenden Berufungsverfahren. Der Beschuldigte hat
+jedoch nicht nur gegen Treu und Glauben verstossen, indem er es unterliess,
+dem Obergericht eine aktuelle Zustelladresse zu nennen. Vielmehr hat er
+seinen eigentlichen Aufenthaltsort geradezu verschleiert und sich damit
+rechtsmissbräuchlich verhalten. Schliesslich hat der Beschuldigte auch durch
+sein weiteres Verhalten, namentlich durch den nichtexistenten Kontakt zur
+amtlichen Verteidigerin, sein Desinteresse am Berufungsverfahren zum Ausdruck
+gebracht. Entsprechend ist das Berufungsverfahren gestützt auf Art. 407
+Abs. 1 lit. c StGB als durch Rückzug erledigt abzuschreiben.
+8.
+8.1.
+Selbst
+wenn man entgegen den obigen Ausführungen davon ausgehen würde, dass der
+Beschuldigte aufgrund der Publikation der Vorladung im Amtsblatt ordentlich
+vorgeladen wurde und damit die Rückzugsfiktion von Art. 407 Abs. 1
+lit. c StPO nicht zur Anwendung käme, ist vorliegend aufgrund der
+nachfolgenden Gründe dennoch von einem (fingierten) Rückzug der Berufung
+auszugehen.
+8.2.
+8.2.1.
+Gemäss
+Art. 407 Abs. 1 lit. a StPO gilt eine Berufung als
+zurückgezogen, wenn diejenige Partei, welche sie erklärt hat, der
+Berufungsverhandlung unentschuldigt fernbleibt und sich auch nicht vertreten
+lässt. Eine im Sinne von Art. 407 Abs. 1 lit. a StPO zu
+berücksichtigende Vertretung durch die amtliche Verteidigung setzt voraus,
+dass überhaupt noch eine wirksame Vertretung vorliegt (OG Aargau SST.2015.147
+Urteil vom 20. August 2015, E. 1.2, in: CAN 2016/2
+Nr. 46, S. 127 ff.). Eine Vertretung durch die amtliche
+Verteidigung ist jedoch – auch wenn sie, wie vorliegend, vor Gericht
+erscheint – nicht möglich, wenn der Berufungskläger weder eine korrekte
+Adresse noch ein Zustelldomizil bezeichnet und in keinem Zeitpunkt seit dem
+angefochtenen Urteil schriftlich oder mündlich Kontakt mit seiner Anwältin
+hatte (vgl. OG Obwalden AS 14/002, AS 14/006 Urteil vom 9. Januar 2015,
+in: CAN 2015/2 Nr. 44, S. 123 ff. mit Kommentierung von Stefan
+Keller).
+8.2.2.
+Die amtliche Verteidigung hat nicht bloss als
+unkritisches «Sprachrohr» ihrer Klientschaft zu agieren. Mithin gehört es
+nicht zu den Sorgfaltspflichten eines amtlichen Verteidigers, in Ermangelung
+eines aktuellen Kontakts und somit insbesondere ohne Besprechung des
+vorinstanzlichen Urteils an einer Berufung festzuhalten bzw. diese allein und
+ohne aktuelle Besprechung und Instruktion aufgrund eines bloss hypothetischen
+Willens mündlich oder schriftlich zu begründen (KG St. Gallen
+ST.2016.7/8 Urteil vom 2. Juli 2019, E. 2.a, in SJZ 116/2020
+Nr. 14, S. 507 ff.; KG Wallis TCV P1 17 49 Urteil vom
+8. Januar 2019, E. 2.1.1; OG Aargau SST.2015.147 Urteil vom
+20. August 2015, E. 1.2, in: CAN 2016/2 Nr. 46,
+S. 127 ff.). Die Instruktion des amtlichen Verteidigers durch den
+Berufungskläger bildet mithin eine Prozessvoraussetzung im Sinne von
+Art. 403 Abs. 1 lit. c StPO (KG St. Gallen ST.2016.7/8
+Urteil vom 2. Juli 2019, E. 2.a, in SJZ 116/2020 Nr. 14,
+S. 507 ff.; KG Wallis TCV P1 17 49 Urteil vom
+8. Januar 2019, E. 2.1.1; Appellationsgericht Basel-Stadt
+SB.2012.73 Urteil vom 13. November 2014, Abs. 9 der
+Erwägungen).
+8.3.
+Wie
+oben ausgeführt (vgl. E.
+II.4.4
+),
+konnte die amtliche Verteidigerin während des gesamten Berufungsverfahrens
+keinen Kontakt zum Beschuldigten herstellen und erhielt von demselben auch
+keine Instruktionen. Die Berufung erhob der Beschuldigte ohne zuvor
+Rücksprache mit seiner Verteidigung genommen zu haben, indem er mehrheitlich
+das Plädoyer, welches seine amtliche Verteidigerin vor Vorinstanz vortrug,
+wörtlich in seiner Berufung wiederholte (vgl. act. 58 und act. 75;
+vgl. auch act. 89 S. 6 Rz. 8). Eine Auseinandersetzung mit den
+vorinstanzlichen Erwägungen fehlt in der Berufung, was auch die amtliche
+Verteidigerin anlässlich der Berufungsverhandlung festhielt (act. 89
+S. 6 Rz. 8). Entsprechend konnte die amtliche Verteidigerin
+anlässlich der Berufungsverhandlung vorliegend nur dem hypothetischen Willen
+des Beschuldigten entsprechend eine Begründung der Berufung vornehmen (vgl.
+act. 89 S. 1 lit. a,
+«nach bestem Wissen und Gewissen»
+),
+dies gehört nicht zu ihren Sorgfaltspflichten (vgl. E.
+II.8.2.2
+vorstehend).
+Hinzu kommt, dass die amtliche Verteidigerin aufgrund fehlender Instruktion
+seitens des Beschuldigten bspw. mit Bezug auf den vom Beschuldigten
+geforderten Schadenersatz anlässlich der Berufungsverhandlung nicht viel
+sagen konnte und selber darauf hinwies, dem Beschuldigten würde der Nachweis
+eines Schadens und dessen Höhe obliegen (vgl. act. 89 S. 7
+Rz. 10).
+8.4.
+Unter
+diesen Umständen liegt keine im Sinne von Art. 407 Abs. 1
+lit. a StPO zu berücksichtigende Vertretung vor, da aufgrund fehlender Instruktion
+keine wirksame Vertretung mehr gegeben ist (vgl. E.
+II.8.2
+vorstehend). Demnach wäre auch aufgrund Art. 407 Abs. 1 lit. a
+StPO von einem (fingierten) Rückzug der Berufung auszugehen.
+9.
+Das
+Berufungsverfahren wird zufolge (fingierten) Rückzugs als erledigt
+abgeschrieben (Art. 407 Abs. 1 StPO). Das Urteil der
+Strafgerichtskommission des Kantonsgerichts Glarus vom
+26. September 2018 im Verfahren SG.2017.00139 erwächst damit in
+Rechtskraft (Art. 437 Abs. 1 lit. b StPO).
+III.
+1.
+Die
+Gerichtsgebühr für das Berufungsverfahren ist auf CHF 1’000.—
+festzusetzen (Art. 6 Abs. 1 und Art. 8 Abs. 1 lit. a
+der Zivil- und Strafprozesskostenverordnung [GS III A/5]) und
+ausgangsgemäss dem Beschuldigten aufzuerlegen und von ihm zu beziehen
+(Art. 428 Abs. 1 StPO).
+2.
+2.1.
+Zu
+den Kosten des Berufungsverfahrens zählen auch die Kosten für die amtliche
+Verteidigung (Art. 422 Abs. 2 lit. a StPO). Die amtliche
+Verteidigerin des Beschuldigten macht für das Berufungsverfahren Aufwendungen
+in der Höhe von CHF 3'812.70 (inkl. Auslagen und 7.7 % MwSt.)
+geltend (act. 92). Darin enthalten sind auch die Kosten der Vertretung
+des Beschuldigten an der Berufungsverhandlung vom 14. August 2020.
+Da diese jedoch entgegen der in der Honorarnote angegeben 2.75 Stunden
+nur 0.5 Stunden gedauert hat (vgl. act. 87, act.  88), ist die
+Honorarnote entsprechend um CHF 405.— zu kürzen (CHF 495.—
+[CHF 180.— x 2.75 h; gem. Honorarnote] minus CHF 90.— [CHF 180.—
+x 0.5 h]). Entsprechend beläuft sich das gekürzte Honorar der amtlichen
+Verteidigerin auf CHF 3'000.60 (CHF 3'405.60 [Honorar gem.
+act. 92 S. 2, exkl. Auslagen und MwSt.] minus CHF 405.—).
+Hinzukommen Auslagen in der Höhe von CHF 134.50 (act. 92 S. 2)
+und CHF 241.40 Mehrwertsteuer (7.7 % MwSt. von CHF 3’135.10
+[CHF 3'000.60 + CHF 134.50]). Somit ist die amtliche Verteidigerin
+für das Berufungsverfahren mit total CHF 3'376.50 (CHF 3'000.60
+[Honorar] + CHF 134.50 [Auslagen] + CHF 241.40 [7.7 % MwSt.])
+zu entschädigen, was als angemessen erscheint (Art. 3 Abs. 1 i.V.m.
+Art. 6 Abs. 1 des Tarifs für die Entschädigung der öffentlichen
+Verteidigung und der unentgeltlichen Rechtsvertretung [GS III I/5]).
+2.2.
+Die Entschädigung der amtlichen Verteidigung erfolgt
+vorab durch die Gerichtskasse (Art. 426 Abs. 1 StPO). Die
+Kosten der amtlichen Verteidigung sind aber vom Beschwerdeführer in vollem
+Umfang zu beziehen, sobald es seine wirtschaftlichen Verhältnisse erlauben
+(Art. 426 Abs. 1 i.V.m. Art. 135 Abs. 4 StPO).
+____________________
+Das Gericht erkennt:
+1.
+Das
+Berufungsverfahren wird zufolge Rückzugs der Berufung als erledigt
+abgeschrieben.
+Das
+Urteil der Strafgerichtskommission des Kantonsgerichts Glarus vom
+26. September 2018 im Verfahren SG.2017.00139 erwächst in
+Rechtskraft.
+2.
+Die
+Gerichtsgebühr für das Berufungsverfahren wird festgesetzt auf
+CHF 1'000.— und wird A.______ auferlegt und von ihm bezogen.
+3.
+Rechtsanwältin
+B.______ wird als amtliche Verteidigerin von A.______ vorab aus der
+Gerichtskasse mit insgesamt
+CHF 3'376.50
+(inkl. Auslagen und 7.7 % MwSt.)
+entschädigt. Die Nachzahlungspflicht von A.______ gemäss Art. 135
+Abs. 4 StPO bleibt vorbehalten.
+4.
+Schriftliche
+Mitteilung an:
+[…]
