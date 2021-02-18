@@ -1,0 +1,462 @@
+---
+decision_id: "gl_gerichte_VG.2020.00107"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2020.00107"
+docket_2: "VG.2021.1030"
+decided: "2021-02-18"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1412&W10_KEY=218274&nTrefferzeile=1&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/101/art-010.md", "switzerland/bund/acts/210/art-301.md", "switzerland/bund/acts/210/art-307.md", "switzerland/bund/acts/311.0/art-123.md", "switzerland/bund/acts/311.0/art-126.md"]
+---
+
+# GL Gerichte VG.2020.00107
+
+## Regeste
+
+Fürsorge/Vormundschaftswesen
+
+## Text
+
+Glarus Verwaltungsgericht 18.02.2021 VG.2020.00107 (VG.2021.1030)
+Glaris Verwaltungsgericht 18.02.2021 VG.2020.00107 (VG.2021.1030)
+Glarona Verwaltungsgericht 18.02.2021 VG.2020.00107 (VG.2021.1030)
+
+Fürsorge/Vormundschaftswesen
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom 18.
+Februar 2021
+II. Kammer
+in Sachen
+VG.2020.00107
+A.______
+Beschwerdeführer
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+Kindes- und Erwachsenenschutzbehörde
+Beschwerdegegnerin
+des Kantons Glarus
+betreffend
+Erteilung einer
+Weisung
+Die Kammer zieht
+in Erwägung:
+I.
+1.
+1.1
+A.______ ist der Vater von C.______, geboren am
+[…], von D.______, geboren am […], und von E.______, geboren am […].
+Betreffend C.______ ging am 18. August 2020 bei der Kindes- und
+Erwachsenenschutzbehörde (KESB) Glarus eine Gefährdungsmeldung ein, worauf
+Letztere Abklärungen vornahm.
+1.2
+Am 24. August 2020 fand eine Anhörung mit A.______
+und seiner Ehefrau statt. Gemäss ihren Schilderungen holte C.______ ihren
+Freund nach Hause, als sie beide nicht zu Hause waren. Dabei habe C.______
+mit ihrem Freund Fotos gemacht, auf denen er C.______ die Hose
+heruntergezogen habe. A.______ bejahte, C.______ eine Ohrfeige gegeben zu
+haben. Den Freund habe er angewiesen, die Fotos zu löschen, was dieser
+gemacht habe.
+1.3
+In der Anhörung vom 24. August 2020 bestätigte
+C.______, ihr Vater habe ihr eine Ohrfeige versetzt, die aber ihrer Meinung
+nach verdient gewesen sei.
+1.4
+Mit Beschlüssen vom 27. Oktober 2020 erteilte die
+KESB A.______ die Weisung, eine Therapie betreffend Gewalt im Umfang von zehn
+bis zwölf Sitzungen zu absolvieren (Disp.-Ziff. 1).
+2.
+2.1
+Dagegen gelangte A.______ mit Beschwerde vom 27. November 2020 ans
+Verwaltungsgericht und beantragte die Aufhebung der Beschlüsse vom
+27. Oktober 2020; alles unter Kosten- und Entschädigungsfolgen zu Lasten
+der KESB.
+2.2
+Die
+KESB schloss am 6. Januar 2021 auf Abweisung der Beschwerde; alles unter
+Kosten- und Entschädigungsfolgen zu Lasten von A.______.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 105 Abs. 1
+lit. d des Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986
+(VRG) i.V.m. Art. 450 Abs. 1
+des Schweizerischen Zivilgesetzbuches
+vom 10. Dezember 1907 (ZGB)
+i.V.m.
+Art. 67 des Gesetzes über die Einführung des Schweizerischen
+Zivilgesetzbuchs im Kanton Glarus vom 7. Mai 1911 (EG ZGB) zur
+Behandlung der vorliegenden Beschwerde zuständig. Da auch die übrigen
+Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde einzutreten.
+1.2
+Das Verwaltungsgericht prüft auch die
+Angemessenheit der angeordneten Kindesschutzmassnahme (Art. 107 Abs. 2
+lit. f VRG).
+2.
+2.1
+Der Beschwerdeführer bringt vor, Auslöser für die
+Intervention der Beschwerdegegnerin sei der Vorfall vom 18. August 2020
+gewesen. Er und seine Ehefrau seien abwesend gewesen, als C.______ ihren
+Freund in die elterliche Wohnung eingeladen habe. Dabei hätten sie zusammen
+Fotos erstellt. In einem Foto sei die Hose von C.______ heruntergezogen
+worden, den Slip habe sie jedoch getragen. Er habe C.______ eine Ohrfeige
+erteilt und ihr Hausarrest verordnet. Beide Massnahmen seien von ihr
+akzeptiert worden. Der zweite Vorfall betreffe den 18. Mai 2020, als
+C.______ aufgrund der Stundenplanumstellung irrtümlicherweise eine Lektion zu
+früh zur Schule gegangen sei. Die Schilderungen der Lehrerin seien
+diesbezüglich nicht nachvollziehbar, wonach er C.______ ins Gesicht
+geschlagen und ihr dabei mit den Worten gedroht habe: "Warte nur, bis du
+am Mittag wieder zu Hause bist." Die Lehrerin könne diese Feststellungen
+nicht gemacht haben, da sie nicht vor Ort gewesen sei. Sodann decke sich die
+Aussage von C.______ mit seiner Aussage, wonach sie eine Ohrfeige kassiert
+habe, die sie ihrer Meinung nach auch verdient gehabt habe. C.______ sage
+überdies nicht aus, sie werde von ihm auch sonst geschlagen. Sodann zeugten
+die wörtlich wie auch sinngemäss wiedergegebenen Aussagen aus dem
+Anhörungsprotokoll vom 24. August 2020 von einer Voreingenommenheit der
+Beschwerdegegnerin, […]. Es sei unzutreffend, dass er Schläge als probates
+Erziehungsmittel betrachte. Ob im damaligen Moment die Ohrfeige die richtige
+Massnahme gewesen sei, darüber lasse sich streiten. Ferner sei das Wohl der
+Kinder in keiner Art und Weise gefährdet. Gerade die Berichte der Lehrer und
+insbesondere die SMS des Lehrers F.______ zeigten, dass keine
+Kindeswohlgefährdung vorliege. Der Vorfall mit der Ohrfeige vermöge die
+Gefährdung noch nicht zu beweisen. Schliesslich bringe die Therapie nichts,
+da er sich bewusst sei, wie er mit seinen Kindern umzugehen habe und durch
+die Anordnung einer Therapie nur Kosten verursacht würden.
+2.2
+Die Beschwerdegegnerin führt aus, das Argument des
+Beschwerdeführers greife nicht, wonach sie nicht nur ihn, sondern die ganze
+Familie überrollt habe und er daher wolle, dass seine Familie aus dem
+Verfahren rausgehalten werde. Die vom Beschwerdeführer gegen seine Tochter
+angewendete Gewalt betreffe nicht nur ihn, sondern auch die ganze Familie, da
+sie diese Gewalt mitansehen müsse bzw. selbst direkt davon betroffen
+sei. Sodann sei C.______ im Verfahren involviert gewesen und bereits 15 Jahre
+alt, weshalb sie ein Recht habe, über den Entscheid informiert zu werden.
+Nicht nachvollziehbar sei, weshalb sich der Beschwerdeführer daran stosse,
+dass der Beschluss ihr direkt zugestellt worden sei. Er bestreite zudem den
+Punkt im Gesprächsprotokoll von C.______, wonach sie nur einen Freund aus dem
+Land G.______ haben dürfe. Er sei am Gespräch nicht anwesend gewesen und
+dessen Vertreter habe keinen Kontakt zu C.______ gehabt. Daher sei eine
+Bestreitung des Protokolls nicht angezeigt. Überdies würden gemäss Art. 19
+des Übereinkommens über die Rechte des Kindes vom 20. November 1989
+(UN-KRK, für die Schweiz am 26. März 1997 in Kraft getreten) Ohrfeigen
+als Körperstrafen gelten, welche nicht zulässig seien und klar eine
+Gefährdung des Kindeswohls darstellten. Ferner verkenne der Beschwerdeführer,
+dass die angewiesene Therapie ihm nicht nur helfe, neue Erziehungsmethoden zu
+erlernen, sondern seine Kinder vor weiteren Gewaltanwendungen schütze und
+dadurch der bestehenden Kindeswohlgefährdung entgegenwirke.
+3.
+3.1
+Grundsätzlich tragen die Eltern die
+Hauptverantwortung für das Kind. Als Inhaber der elterlichen Sorge sind sie
+verpflichtet, für die Erhaltung, Förderung und Entwicklung des Kindes zu
+sorgen und es zu einer eigenverantwortlichen sowie gemeinschaftsfähigen
+Persönlichkeit zu erziehen (vgl. Art. 301 Abs. 1 ZGB). Erst
+wenn das Wohl des Kindes gefährdet ist und sie nicht selber Abhilfe schaffen,
+hat die Kindesschutzbehörde Massnahmen zu dessen Schutz zu treffen (Art. 307
+Abs. 1 ZGB). Dabei kann sie laut Art. 307 Abs. 3 ZGB insbesondere die Eltern,
+die Pflegeeltern oder das Kind ermahnen, ihnen bestimmte Weisungen für die
+Pflege, Erziehung oder Ausbildung erteilen und eine geeignete Person oder
+Stelle bestimmen, der Einblick und Auskunft zu geben ist.
+3.2
+Eine Gefährdung des Kindeswohls wird dann
+angenommen, wenn nach den Umständen die ernstliche Möglichkeit einer
+Beeinträchtigung des Kindeswohls vorauszusehen ist. Es kann sich dabei um
+körperliche oder psychische Gefährdungen oder Kombinationen zwischen den
+beiden Arten handeln. Ein Verschulden der Eltern ist nicht notwendig und die
+Gefahr muss nicht direkt von ihnen ausgehen. Es genügt, wenn sie das Kind
+nicht ausreichend schützen können. Aus der fehlenden Kooperationsbereitschaft
+der Eltern darf aber nicht direkt und ohne Weiteres auf die Gefährdung des
+Kindes geschlossen werden. Kindesschutzmassnahmen sollen präventiv wirken. Es
+ist deshalb nicht erforderlich, dass sich die ernstliche Möglichkeit einer
+Beeinträchtigung schon verwirklicht hat (Linus Cantieni/Stefan Blum, in
+Christiana Fountoulakis et al. [Hrsg.], Fachhandbuch Kindes- und
+Erwachsenenschutzrecht, Zürich/Basel/Genf 2016, Rz. 5.10 f.).
+3.3
+Alle Kindesschutzmassnahmen müssen erforderlich
+sein (Subsidiarität), und es ist immer die mildeste Erfolg versprechende
+Massnahme anzuordnen (Proportionalität); die Kindesschutzmassnahmen sollen
+elterliche Bemühungen nicht ersetzen, sondern ergänzen (Peter Breitschmid, in
+Peter Honsell/Nedim Peter Vogt/Thomas Geiser [Hrsg.], Basler Kommentar,
+Zivilgesetzbuch I, Art. 1 – 456 ZGB, 5. A., 2014, Art. 307 N. 4).
+3.4
+3.4.1
+Nach Art. 19 UN-KRK haben die Vertragsstaaten alle
+geeigneten Massnahmen zu treffen, um das Kind vor jeder Form körperlicher
+oder geistiger Gewaltanwendung zu schützen, solange es sich in der Obhut der
+Eltern oder eines Elternteils befindet. Den Körperstrafen zugeordnet sind
+alle Strafen, die mit Kraft ausgeübt werden und zum Ziel haben, dem Kind
+Schmerzen zuzufügen, seien es auch nur leichte Schmerzen. Darunter fallen
+namentlich Schläge, Ohrfeigen oder Tritte (UN Committee on the Rights of
+the Child [CRC], General comment No. 8 [2006], The Right of the Child to
+Protection from Corporal Punishment and Other Cruel or Degrading Forms of
+Punishment [Arts. 19; 28, Para. 2; and 37, inter alia],
+2 March 2007, CRC/C/GC/8, abrufbar unter:
+https://www.refworld.org).
+3.4.2
+Die Frage der gewaltfreien Erziehung war Thema der
+jüngeren politischen Debatte. Der Bundesrat brachte dazu vor, das neue
+Kindesrecht enthalte zwar kein explizites Züchtigungsverbot, allerdings
+entspreche es der heutigen Auffassung, dass ein Züchtigungsrecht der Eltern
+mit dem Kindeswohl nicht zu vereinbaren sei. Daher sei eine gesetzliche
+Bestimmung nicht notwendig, die diesen Grundsatz im ZGB ausdrücklich
+festhalte. Ferner sei in Art. 11 Abs. 1 der Bundesverfassung der
+Schweizerischen Eidgenossenschaft vom 18. April 1999 (BV) der Anspruch von
+Kindern und Jugendlichen auf besonderen Schutz ihrer Unversehrtheit verankert
+und nach Art. 126 des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937
+(StGB) sowie nach Art. 123 StGB seien Tätlichkeiten und einfache
+Körperverletzungen strafbar. Die Anforderungen aus der UN-KRK in Bezug auf
+den Schutz des Kindes vor körperlicher oder geistiger Gewaltanwendung seien
+dadurch erfüllt (vgl. etwa die von Yvonne Feri am 20. März 2013
+eingereichte Motion [13.3156] oder die am 18. Juni 2015 von Chantal
+Galladé eingereichte Motion [Nr. 15.3639], abrufbar unter:
+https:/www.parlament.ch).
+3.4.3
+Aus Art. 10 BV wird das Verbot der Körperstrafe
+abgeleitet. Mit Blick auf diese Bestimmung dürfen nur körperliche
+Erziehungsmittel eingesetzt werden, die dem Kind keinen physischen oder
+psychischen Schaden zufügen und nicht entwürdigend sind. Die
+Erziehungsmassregel darf sich höchstens im Bereich von harmlosen, nicht
+wiederholten und nicht strafrechtlich relevanten, Tätlichkeiten bewegen,
+wobei entscheidend ist, dass sie einer erzieherischen Absicht folgt. Eine
+enge Vertrauensbasis, ein für das Kind verständliches Motiv für das
+eingesetzte Erziehungsmittel sowie deren Verhältnismässigkeit sind
+Grundvoraussetzung dafür, dass die Erziehungsmassnahme wirksam ist. Diesbezüglich
+fallen als zulässiges Erziehungsmittel gegenüber Kleinkindern physische
+Übergriffe jeglicher Art und gegenüber heranwachsenden Kindern insbesondere
+regelmässige Ohrfeigen oder Fusstritte ausser Betracht (vgl. zum Ganzen
+Bettina Lienhard/Kurt Affolter, in Thomas Geiser/Christiana Fountoulakis
+[Hrsg.], Basler Kommentar Zivilgesetzbuch I, 6. A., 2018, Art. 327c
+N. 55).
+3.4.4
+Ein Täter handelt dann wiederholt, wenn er die
+Tätlichkeiten im Sinne von Art. 126 StGB mehrmals am gleichen Opfer
+verübt und dadurch eine gewisse Regelmässigkeit entsteht. Ein Täter begeht
+jedoch nicht schon dann eine Tätlichkeit, wenn er seinem Kind zwei Ohrfeigen
+verabreicht. Die Bestimmung soll vielmehr dann zur Anwendung kommen
+,
+wenn die Schläge sehr zahlreich und systematisch, und sei es auch nur während
+weniger Stunden oder Tage, verabreicht wurden
+(vgl. Botschaft
+des Bundesrats über die Änderung des Schweizerischen Strafgesetzbuchs und des
+Militärstrafgesetzes [Strafbare Handlungen gegen Leib und Leben, gegen die
+Sittlichkeit und gegen die Familie] vom 26. Juni 1985, BBl 1985 II 1009
+ff., 1032 f.). Gemäss bundesgerichtlicher Rechtsprechung überschreiten zehn
+Ohrfeigen und Fusstritte innerhalb eines Zeitraums von drei Jahren das
+zulässige Mass von Erziehungshilfen (vgl. BGE 129 IV 216
+E. 2.5 und E. 3.2).
+4.
+4.1
+Am 18. August 2020 erhielt die Beschwerdegegnerin
+eine Gefährdungsmeldung bezüglich C.______. Das Mädchen mit Wurzeln aus dem
+Land G.______ habe sehr strenge Eltern. Diese würden keinen Kontakt zu
+Personen mit einer anderen Nationalität erlauben. Am Wochenende habe der
+Beschwerdeführer C.______ mit ihrem Freund abgepasst und beide ins Auto
+gesperrt. Darin habe der Beschwerdeführer den Freund mit einer Faust
+geschlagen. Danach sei er mit beiden zum Obersee gefahren und habe seine
+Tochter verprügelt. Anschliessend sei er mit beiden zurückgefahren. Seit
+Samstag sei C.______ in ihrem Zimmer eingesperrt. Da sie sichtbare Blessuren
+am Körper aufweise, hätten die Eltern sie von der Schule in […] abgemeldet.
+4.2
+In der Anhörung vom 24. August 2020 erläuterten der
+Beschwerdeführer und seine Ehefrau, sie seien an jenem Samstag beide nicht zu
+Hause gewesen, da sie aktuell ein Haus bauten und dort beschäftigt gewesen
+seien. C.______ sei mit ihrer Schwester alleine zu Hause gewesen. Ohne ihr
+Wissen habe sie ihren Freund ins Haus geholt und dabei schlimme Fotos
+gemacht, auf denen der Freund C.______ die Hose heruntergezogen habe. Er, der
+Beschwerdeführer, sei mit C.______ und ihrem Freund mit dem Auto in Richtung
+Wald gefahren, da sie dort niemand sehen könne und er der Familie zuliebe die
+Probleme nicht habe aufbauschen wollen. Den Jungen habe er nicht geschlagen,
+sondern ihn angewiesen, die Fotos zu löschen, was dieser gemacht habe. Zur
+Strafe habe er C.______ das Handy weggenommen und ihr Zimmerarrest gegeben.
+Ausserdem habe er nach einem Vorfall, bei dem er ihr auf dem Schulweg eine
+Ohrfeige gegeben habe, C.______ zur Schulsozialarbeiterin geschickt. Er setze
+manchmal Ohrfeigen als Erziehungsmittel ein. Für ihn seien jedoch Ohrfeigen
+nicht das Gleiche wie Schläge. Schlagen würde er seine Kinder nicht.
+4.3
+Am 24. August 2020 berichtete C.______, sie habe an
+diesem Tag ausnahmsweise nicht rausgehen dürfen, da sie auf einen Möbelumzug
+habe warten müssen. Sie sei dann auf die Idee gekommen, ihren Freund zu sich
+einzuladen. Ihren Eltern habe sie nichts von ihm erzählt, da sie nur einen
+Freund aus dem Land G.______ haben dürfe. Sie habe Angst gehabt, ihr Vater
+wäre von ihr enttäuscht und habe sich daher nicht getraut, etwas zu sagen.
+Ihrer Mutter habe sie ebenfalls nichts gesagt, obwohl diese das eher
+verstehen würde als der Vater. Nach dem Vorfall habe sie eine Ohrfeige von
+ihrem Vater kassiert, welche sie sich jedoch verdient habe. Danach habe der
+Vater ganz normal mit ihr reden wollen. Sodann sei sie Anfang der Woche nicht
+zur Schule gegangen, da sie sich geschämt und schlecht gefühlt habe, ihre
+Eltern enttäuscht zu haben. Sie habe zu Hause alles, was sie brauche. Sie
+habe eine sehr gute, perfekte Beziehung zu ihren Eltern. Mit ihrem Verhalten
+habe sie allerdings das Vertrauen ihrer Eltern kaputt gemacht. Künftig werde
+sie auf ihre Eltern hören und nichts mehr mit Jungs zu tun haben, bis sie 16
+Jahre alt sei. Ab dann sei es erlaubt.
+4.4
+H.______, Schulleiterin […], teilte am 26. August
+2020 mit, C.______ habe am 18. Mai 2020 nach dem neuen Stundenplan erst in
+der 2. Lektion Sport gehabt. C.______ und zwei Knaben seien irrtümlicherweise
+bereits auf die 1. Lektion gemäss altem Stundenplan gekommen und hätten
+ihre Klasse in der Turnhalle […] gesucht. Da dort niemand gewesen sei, hätten
+sie gedacht, die Sportlektion sei in der […]-Turnhalle. Auf dem Weg zur
+anderen Turnhalle habe C.______ ihren Vater getroffen, der im Auto unterwegs
+zur Arbeit gewesen sei. Der Vater habe geflucht und habe wissen wollen, wieso
+C.______ sich während der Schulzeit mit zwei Jungs rumtreibe. C.______ habe
+ins Auto einsteigen müssen und sei von ihrem Vater ins Gesicht geschlagen
+worden. Er habe ihr gedroht: "Warte nur, bis du am Mittag wieder zu Hause
+bist." C.______ habe Angst gehabt, überhaupt wieder nach Hause zu gehen.
+Auf die Frage hin, ob sie schon öfters von ihrem Vater geschlagen worden sei,
+sei ein Schweigen gefolgt.
+4.5
+Anlässlich der Anhörung vom 19. Oktober 2020
+erklärte der Beschwerdeführer, er würde seine Kinder nicht regelmässig
+ohrfeigen. Er habe C.______ wegen des Vorfalls mit dem Jungen zum ersten Mal
+geschlagen. Er bestreite, Ohrfeigen manchmal als Erziehungsmittel einzusetzen
+und C.______ auf dem Schulweg geohrfeigt zu haben. Er habe in der ersten
+Anhörung vielleicht etwas gesagt, jedoch nicht so gemeint.
+5.
+5.1
+Aus den vorliegenden Akten ergibt sich, dass der
+Beschwerdeführer C.______ in zwei Vorfällen geohrfeigt hat. Beim ersten
+Vorfall berichtete H.______, C.______ sei auf dem Schulweg geohrfeigt worden
+und sie habe danach die Sportlehrperson aufgesucht, um ihr darüber zu
+erzählen. Zwar ist dem Beschwerdeführer zuzustimmen, wonach die
+Sportlehrperson nicht vor Ort war, als sich der Vorfall ereignete. Letztere
+konnte aber aus den Erzählungen von C.______ schliessen, dass der
+Beschwerdeführer ihr eine Ohrfeige versetzt hatte. Sodann gab der
+Beschwerdeführer in der ersten Anhörung vom 24. August 2020 zu, C.______ auf
+dem Schulweg eine Ohrfeige gegeben zu haben. Diesbezüglich ist festzuhalten,
+dass der Bericht von H.______ bei der Beschwerdegegnerin am 27. August
+2020 eingegangen ist. Die Beschwerdegegnerin hatte somit bereits bei der
+ersten Anhörung des Beschwerdeführers Kenntnis vom Vorfall, wobei dieser
+durch den Bericht von H.______ bestätigt wurde. Die Aussagen des
+Beschwerdeführers und der Sportlehrperson stimmen sodann zumindest in Bezug
+auf die Ohrfeige überein, weshalb darauf abzustellen ist. Demgegenüber
+erweist sich die spätere Äusserung des Beschwerdeführers in der zweiten
+Anhörung nicht ohne Widersprüche, gibt er doch zu Protokoll, dass er C.______
+zum ersten Mal wegen des Vorfalls mit dem Jungen geschlagen habe und er den
+Vorfall auf dem Schulweg bestreite. Die Beschwerdegegnerin hat daher zu Recht
+den Beschwerdeführer auf seine widersprüchlichen Äusserungen hingewiesen.
+Sodann ist unbestritten, dass C.______ wegen des Vorfalls vom 18. August 2020
+eine Ohrfeige vom Beschwerdeführer erhalten hat. Sowohl C.______ als auch der
+Beschwerdeführer geben in den jeweiligen Anhörungen zu Protokoll, dass es zu
+einer Ohrfeige gekommen sei.
+5.2
+Der Beschwerdeführer ist der Ansicht, er schlage
+seine Kinder nicht, da Ohrfeigen nicht dasselbe seien wie Schläge. Er
+verkennt jedoch, dass für die Qualifikation, ob Gewalt gegenüber einem Kind
+angewendet wird, nicht die Intensität des Schlags massgebend ist. Selbst eine
+leichte Ohrfeige, die nur geringfügige Schmerzen verursacht, wird gemäss Art.
+19 UN-KRK den Körperstrafen zugeordnet. Ferner trug der Beschwerdeführer vor,
+er setze Ohrfeigen manchmal als Erziehungsmittel ein, wobei er auch diese
+Äusserung in der zweiten Anhörung bestritt. Er würde seine Kinder nicht
+regelmässig ohrfeigen. Er erziehe seine Kinder sehr gut ohne Gewalt. Die
+Aussagen des Beschwerdeführers erweisen sich auch in diesem Punkt als
+widersprüchlich. Dennoch lässt sich aus den vorliegenden Akten nicht
+entnehmen, ob der Beschwerdeführer Ohrfeigen regelmässig als Erziehungsmittel
+einsetzt. Entgegen der Ansicht der Beschwerdegegnerin lässt sich aus der
+Reaktion von C.______, wonach sie ihrer Meinung nach die Ohrfeige verdient
+habe, nicht zweifelsfrei ableiten, Ohrfeigen gehören zu den
+Erziehungsmethoden der Eltern. Dies umso mehr, als der Beschwerdeführer nach
+der Ohrfeige mit C.______ normal habe reden wollen. Es ist genauso gut
+möglich, dass durch die anschliessende Unterhaltung C.______ das Motiv für
+das eingesetzte Erziehungsmittel verstanden hat und sie deswegen die Ohrfeige
+als verdient ansah. An dieser Stelle ist mit Nachdruck festzuhalten, dass
+Körperstrafen immer und ausnahmslos unangebracht sind. Es kam aber offenbar
+nur vereinzelt vor, dass der Beschwerdeführer Ohrfeigen versetzte, wobei
+lediglich zwei Vorfälle aktenkundig sind. Die zwei Ohrfeigen lassen jedoch
+noch nicht den Rückschluss zu, dass der Beschwerdeführer seine Kinder
+regelmässig ohrfeigt und
+seine
+Erziehungsmethode auf physischer Gewalt beruht.
+5.3
+Die Beschwerdegegnerin konnte in den Anhörungen
+den Eindruck gewinnen, dem Beschwerdeführer und
+seiner Ehefrau seien die Kinder wichtig und die Liebe zu ihnen sei sicht- und
+spürbar. Daneben erwähnte C.______ mehrfach in der Anhörung, sie habe eine
+sehr gute Beziehung zu ihren Eltern. Wenn sie mit ihrer Familie zusammen sei,
+habe sie alles, was sie brauche. Zudem gehe es ihr perfekt. Sodann äusserte
+sich der ehemalige Lehrer von C.______ über die familiäre Beziehung zwischen
+C.______ und ihren Eltern. Nach seiner Einschätzung hat C.______ wunderbare
+Eltern, die immer für sie da seien, was nicht bei allen Kindern
+selbstverständlich sei. Die Aussagen des Beschwerdeführers sind daher
+glaubhaft, wonach er seine Kinder liebe und nur das Beste für seine Kinder
+möchte, weshalb er hart arbeite, um ihnen alles zu ermöglichen. Ferner
+zeichnen sowohl H.______ wie auch I.______, Schulleiter […], ein
+grundsätzlich positives Bild betreffend die schulischen Leistungen und das
+Verhalten von D.______ und E.______. Hierauf Bezug nehmend beschreibt
+I.______, bei E.______ seien keine Auffälligkeiten festzustellen, weder
+körperlich noch auf das Verhalten bezogen. Ihre Leistungen seien in den
+letzten Jahren wie auch aktuell gut und positiv. Weiter hält H.______ fest,
+dass D.______ gut mitarbeite und sehr höflich sei. Sein Verhalten sei
+unauffällig. In Bezug auf C.______ bleibt anzumerken, dass H.______ in ihrem
+Bericht vom 26. August 2020 den Vorfall vom 18. Mai 2020 erwähnte,
+eine Meldung bei der Beschwerdegegnerin jedoch nicht erfolgte. Stattdessen
+veranlasste die Sportlehrperson, dass C.______ den Vorfall mit der
+Schulsozialarbeiterin besprechen konnte. Nach der Besprechung mit der Schulsozialarbeiterin
+scheint die vom Beschwerdeführer ausgehende Gefahr von physischer Gewalt
+gegenüber seinen Kindern als vernachlässigbar beurteilt worden zu sein. Zu
+berücksichtigen ist zudem, dass C.______ aufgrund ihrer Reife und ihres
+Alters fähig ist, Hilfe zu beantragen, wenn sie unter der familiären
+Situation leiden würde. Aus den vorliegenden Akten ist nicht zu entnehmen,
+dass sie sich jemandem anvertraut hätte. Auch in der Anhörung äusserte sich
+C.______ nicht dahingehend, dass sie regelmässig geschlagen werde, vielmehr
+drückte sie wiederholt aus, wie wohl sie sich zu Hause fühle.
+5.4
+Dem Beschwerdeführer scheint es wichtig zu sein,
+was seine Kinder und Eltern über ihn denken. In der Anhörung führte er aus,
+dass er Angst habe, den Respekt seiner Kinder zu verlieren und vor den
+eigenen Eltern als Versager dazustehen, der seine eigenen Probleme nicht
+selber regeln könne. Daher sollten sie vom Verfahren bei der
+Beschwerdegegnerin nichts erfahren. Positiv zu werten ist dabei, dass in der
+Familie Gespräche wegen des Vorfalls mit der Ohrfeige geführt wurden und
+C.______ den Eindruck erweckt, alles mit ihren Eltern geklärt zu haben. Der
+Beschwerdeführer wird allerdings in Zukunft aufzeigen müssen, dass er im
+eigenen Interesse, will er den Respekt seiner Familie nicht verlieren,
+insbesondere aber im Interesse der Familie seine Kinder ohne Gewalt erziehen
+kann.
+5.5
+Die Beschwerdegegnerin hält zutreffend fest, der
+Beschwerdeführer bagatellisiere die Ohrfeigen, indem er Ohrfeigen nicht mit
+Schlägen gleichsetze. Damit zeigt der Beschwerdeführer Schwächen in seiner
+Erziehung auf. Insgesamt scheinen die Kinder des Beschwerdeführers jedoch gut
+versorgt zu sein, sich gut zu entwickeln und in einem liebevollen Umfeld
+aufzuwachsen. Belegt sind lediglich zwei Ohrfeigen, die der Beschwerdeführer
+C.______ gab. Eine relevante Kindeswohlgefährdung ist insofern nicht
+ersichtlich, weshalb eine Kindesschutzmassnahme ausser Betracht fällt. Es ist
+somit nicht weiter zu prüfen, ob die angeordnete Massnahme erforderlich und geeignet
+ist.
+Dies führt zur Gutheissung
+der Beschwerde und zur Aufhebung der Beschlüsse der Beschwerdegegnerin vom
+27. Oktober 2020.
+III.
+1.
+Die Gerichtskosten sind
+ausgangsgemäss auf die Staatskasse zu nehmen (Art. 134 Abs. 1 lit. c VRG
+i.V.m. Art. 135 Abs. 1 VRG). Dem Beschwerdeführer ist der von ihm geleistete
+Kostenvorschuss in der Höhe von Fr. 1'000.- zurückzuerstatten.
+2.
+Die Beschwerdegegnerin ist
+gemäss Art. 138 Abs. 3 lit. a VRG zu verpflichten, dem obsiegenden
+Beschwerdeführer eine Parteientschädigung von Fr. 1'500.- (inkl. Mehrwertsteuer)
+zu bezahlen.
+Demgemäss erkennt die Kammer:
+1.
+Die
+Beschwerde wird gutgeheissen. Die Beschlüsse der Beschwerdegegnerin vom 27.
+Oktober 2020 werden aufgehoben.
+2.
+Die
+Gerichtskosten werden auf die Staatskasse genommen.
+Dem Beschwerdeführer wird der von ihm geleistete
+Kostenvorschuss in der Höhe von Fr. 1'000.- zurückerstattet.
+3.
+Die
+Beschwerdegegnerin wird verpflichtet, dem Beschwerdeführer innert
+30 Tagen nach Rechtskraft dieses Entscheids eine Parteientschädigung
+in der Höhe von Fr. 1'500.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
