@@ -1,0 +1,485 @@
+---
+decision_id: "gl_gerichte_VG.2020.00097"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2020.00097"
+docket_2: "VG.2021.1029"
+decided: "2021-02-18"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1411&W10_KEY=218274&nTrefferzeile=2&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-007.md", "switzerland/bund/acts/830.1/art-016.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.20/art-001.md", "switzerland/bund/acts/831.20/art-028.md", "switzerland/bund/acts/831.20/art-029.md", "switzerland/bund/acts/831.20/art-069.md", "switzerland/bund/acts/831.201/art-026.md"]
+---
+
+# GL Gerichte VG.2020.00097
+
+## Regeste
+
+Sozialversicherung - IV
+
+## Text
+
+Glarus Verwaltungsgericht 18.02.2021 VG.2020.00097 (VG.2021.1029)
+Glaris Verwaltungsgericht 18.02.2021 VG.2020.00097 (VG.2021.1029)
+Glarona Verwaltungsgericht 18.02.2021 VG.2020.00097 (VG.2021.1029)
+
+Sozialversicherung - IV
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+18. Februar 2021
+II. Kammer
+in Sachen
+VG.2020.00097
+A.______
+Beschwerdeführerin
+vertreten durch
+Rechtsanwalt
+B.______
+gegen
+IV-Stelle Glarus
+Beschwerdegegnerin
+betreffend
+Invalidenrente
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+A.______ wurde am […] als C.______ geboren. Die
+IV-Stelle Glarus anerkannte die Geburtsgebrechen Nr. 208 (
+Micrognathia
+inferior congenita), Nr. 395 (hypotoner Entwicklungsrückstand,
+vorwiegend im lokomotorischen Bereich) und Nr. 404 (
+Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung
+[ADHS])
+gemäss Anhang zur Verordnung
+über Geburtsgebrechen vom 9. Dezember 1985 (GgV)
+. Sie leistete Kostengutsprache für
+die notwendigen medizinischen Massnahmen. Nachdem A.______ die obligatorische
+Schulzeit beendet hatte, gewährte ihr die IV-Stelle berufliche Massnahmen.
+Vom 1. August 2017 bis zum 31. Juli 2018 liess sie sich zur
+Industriepraktikerin ausbilden, wofür die IV-Stelle die Mehrkosten übernahm
+und ihr ein Taggeld ausrichtete.
+1.2
+Mit Vorbescheid vom 11. Oktober 2019 teilte die
+IV-Stelle A.______ mit, dass sie bei einem Invaliditätsgrad von 30 %
+keinen Anspruch auf eine Invalidenrente habe. Dagegen erhob A.______ am
+4. November 2019 vorsorglichen Einwand, welchen sie am
+16. Dezember 2019 begründete. Die IV-Stelle hielt in der Verfügung
+vom 17. September 2020 an der Abweisung des Leistungsbegehrens
+fest.
+2.
+2.1
+A.______ gelangte mit Beschwerde vom 14. Oktober
+2020 ans Verwaltungsgericht und beantragte die Aufhebung der Verfügung vom
+17. September 2020. Ihr sei mit Wirkung ab dem 10. September 2013 (unter
+Berücksichtigung allfälliger Wartefristen) eine ganze Invalidenrente
+zuzusprechen, eventuell sei die Sache an die IV-Stelle zurückzuweisen; alles
+unter Kosten- und Entschädigungsfolgen zu Lasten der IV-Stelle sowie unter
+Gewährung der unentgeltlichen Prozessführung und der unentgeltlichen
+Rechtsverbeiständung.
+2.2
+Die IV-Stelle schloss innert erstreckter Frist am
+17. Dezember 2020 auf Abweisung der Beschwerde.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 69 Abs. 1 lit. a des Bundesgesetzes über die
+Invalidenversicherung vom 19. Juni 1959 (IVG) zur Behandlung der vorliegenden
+Beschwerde zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt
+sind, ist auf die Beschwerde einzutreten.
+2.
+2.1
+Gemäss Art. 8 Abs. 1 des Bundesgesetzes
+über den Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober
+2000
+(ATSG
+) ist Invalidität die voraussichtlich bleibende oder
+längere Zeit dauernde ganze oder teilweise Erwerbsunfähigkeit.
+Erwerbsunfähigkeit ist dabei der durch eine Beeinträchtigung der
+körperlichen, geistigen oder psychischen Gesundheit verursachte und nach
+zumutbarer Behandlung sowie Eingliederung verbleibende ganze oder teilweise
+Verlust der Erwerbsmöglichkeiten auf dem in Betracht kommenden ausgeglichenen
+Arbeitsmarkt (Art. 7 Abs. 1 ATSG).
+2.2
+Nach
+Art. 28 Abs. 2 IVG besteht bei einem
+Invaliditätsgrad von mindestens 40 % Anspruch auf eine Viertelsrente,
+bei einem solchen von mindestens 50 % auf eine halbe Rente, bei
+mindestens 60 % auf eine Dreiviertelsrente und ab mindestens 70 %
+auf eine ganze Rente.
+Für die Bestimmung des
+Invaliditätsgrads wird das Erwerbseinkommen, das die versicherte Person nach
+Eintritt der Invalidität und nach Durchführung der medizinischen Behandlung
+und allfälliger Eingliederungsmassnahmen durch eine ihr zumutbare Tätigkeit
+bei ausgeglichener Arbeitsmarktlage erzielen könnte, in Beziehung zum Erwerbseinkommen
+gesetzt, welches sie erzielen könnte, wenn sie nicht invalid geworden wäre
+(Art. 16 ATSG).
+3.
+3.1
+Nach dem für das gesamte Verwaltungs- und
+Verwaltungsgerichtsbeschwerdeverfahren geltenden Grundsatz der freien
+Beweiswürdigung haben Versicherungsträger und Sozialversicherungsrichter die
+Beweise frei, d.h. ohne Bindung an förmliche Beweisregeln, sowie
+umfassend und pflichtgemäss zu würdigen. Für das Beschwerdeverfahren bedeutet
+dies, dass das Gericht alle Beweismittel, unabhängig davon, von wem sie
+stammen, objektiv zu prüfen und danach zu entscheiden hat, ob die verfügbaren
+Unterlagen eine zuverlässige Beurteilung des streitigen Rechtsanspruchs
+gestatten. Insbesondere darf es bei einander widersprechenden medizinischen
+Berichten den Prozess nicht erledigen, ohne das gesamte Beweismaterial zu
+würdigen und die Gründe anzugeben, warum es auf die eine und nicht auf die
+andere medizinische These abstellt (BGE 125 V 351 E. 3a).
+3.2
+Es ist Aufgabe des Arztes, sämtliche
+Auswirkungen einer Krankheit oder eines Unfalls auf den Gesundheitszustand
+der versicherten Person zu beurteilen und dazu Stellung zu nehmen, bezüglich
+welcher konkreten Tätigkeiten und in welchem Umfang sie arbeitsunfähig ist.
+Die ärztlichen Auskünfte sind sodann eine wichtige Grundlage für die
+Beurteilung der Frage, welche Arbeitsleistungen der versicherten Person im
+Hinblick auf ihre persönlichen Verhältnisse noch zugemutet werden können
+(vgl. BGE 125 V 256
+E. 4).
+3.3
+Hinsichtlich des Beweiswerts eines ärztlichen
+Gutachtens ist entscheidend, ob es für die Beantwortung der gestellten Fragen
+umfassend ist, auf allseitigen Untersuchungen beruht, die geklagten
+Beschwerden berücksichtigt und sich mit diesen sowie dem Verhalten der
+untersuchten Person auseinandersetzt, in Kenntnis der und gegebenenfalls in
+Auseinandersetzung mit den Vorakten (Anamnese) abgegeben worden ist, ob es in
+der Darlegung der medizinischen Zustände und Zusammenhänge einleuchtet, ob
+die Schlussfolgerungen des medizinischen Experten in einer Weise begründet
+sind, dass die rechtsanwendende Person sie prüfend nachvollziehen kann, sowie
+ob der Experte nicht auszuräumende Unsicherheiten und Unklarheiten, welche
+ihm die Beantwortung der Fragen erschweren, gegebenenfalls deutlich macht.
+Ausschlaggebend für den Beweiswert ist grundsätzlich somit weder die Herkunft
+eines Beweismittels noch die Bezeichnung der eingereichten oder in Auftrag
+gegebenen Stellungnahme als Bericht oder Gutachten,
+sondern dessen Inhalt
+(vgl. BGE 125 V 351 E. 3a)
+.
+4.
+4.1
+Die Beschwerdeführerin macht
+geltend, gemäss der Stiftung D.______ sei bei ihr lediglich eine
+Eingliederung in einem geschützten Rahmen vorstellbar. Eine Tätigkeit auf dem
+ersten Arbeitsmarkt sei von den Eingliederungsverantwortlichen ausgeschlossen
+worden. Sie sei nicht damit einverstanden, dass ihr in den eingeholten
+Gutachten lediglich eine Erwerbsunfähigkeit von 30 % attestiert werde.
+Die Ärzte der Klinik für Neurologie des Spitals E.______ gingen davon
+aus, dass zusätzlich zu den in den Gutachten gestellten Diagnosen auch eine ADHS-Störung
+sowie ein atypischer Autismus vorlägen, welche die Arbeitsfähigkeit
+einschränkten. Die behandelnde Therapeutin vertrete zudem die Auffassung,
+dass die Gender-Dysphorie die Arbeitsfähigkeit zusätzlich beeinträchtige. Es
+sei nicht nachvollziehbar, weshalb nicht ein weiteres Gutachten in den
+Fachrichtungen Psychiatrie/Orthopädie und Rheumatologie eingeholt worden sei,
+obwohl die Gutachter dies empfohlen hätten und der Regionale Ärztliche Dienst
+(RAD) diese Empfehlung aufgenommen habe. Sie habe überdies keine berufliche
+Ausbildung abgeschlossen, sondern lediglich eine Anlehre in einem geschützten
+Rahmen absolviert. Selbst wenn davon auszugehen wäre, dass sie auf dem
+Arbeitsmarkt eine geeignete Verweisungstätigkeit auszuführen imstande wäre,
+bestünde offensichtlich keine Arbeitsfähigkeit von 70 %. Beim
+Einkommensvergleich wäre schliesslich zu berücksichtigen, dass sie nicht auch
+nur ansatzweise den Tabellenlohn erzielen könnte, wobei zusätzlich ein
+leidensbedingter Abzug von 25 % vorgenommen werden müsste.
+4.2
+Die Beschwerdegegnerin führt aus, sie habe das vom
+RAD empfohlene Gutachten eingeholt. Die Beschwerdeführerin sei psychiatrisch,
+neuropsychologisch und orthopädisch begutachtet worden. Das Gutachten erfülle
+die Qualitätskriterien. Der psychiatrische Gutachter begründe eingehend,
+weshalb er der Auffassung des Integrationscoaches der Stiftung D.______ nicht
+folgen könne, wonach die Beschwerdeführerin lediglich zu 30 %
+arbeitsfähig sei. Schliesslich sei auch die Bemessung des Invaliditätsgrads
+rechtskonform erfolgt. Entgegen ihren Ausführungen benötige die
+Beschwerdeführerin bei einer Einschränkung der Arbeitsfähigkeit von maximal
+30 % keinen geschützten Arbeitsplatz.
+5.
+5.1
+Der RAD empfahl der Beschwerdegegnerin am 23. Juli
+2018 ein bidisziplinäres Gutachten mit den Fachrichtungen Psychiatrie und
+Orthopädie oder Rheumatologie in Auftrag zu geben. Entgegen den Darlegungen
+der Beschwerdeführerin folgte die Beschwerdegegnerin dieser Empfehlung und
+teilte der Beschwerdeführerin am 24. Juli 2018 mit, dass ein
+bidisziplinäres Gutachten notwendig sei.
+5.2
+Das psychiatrische Gutachten wurde durch
+Dr. med. F.______, Facharzt für Psychiatrie und Psychotherapie FMH,
+Facharzt für Neurologie FMH, am 22. Januar 2019 erstattet. Nach
+Rücksprache mit der Beschwerdegegnerin holte er zusätzlich ein
+neuropsychologisches Teilgutachten bei
+Dr. sc. hum. Dipl. Psych. G.______, Neuropsychologin
+PVK anerkannt, ein. Gestützt auf seine eigenen Untersuchungen und das
+Teilgutachten von Dr. G.______ kam er zum Schluss, dass die
+Beschwerdeführerin an einer einfachen Aktivitäts- und Aufmerksamkeitsstörung
+(ICD-10: F90.0) leide, welche Auswirkungen auf die Arbeitsfähigkeit habe.
+Ferner stellte er folgende Diagnosen ohne Auswirkungen auf die
+Arbeitsfähigkeit: Probleme, verbunden mit Schwierigkeiten bei der
+Lebensbewältigung im Sinne von ängstlich-vermeidend (=
+vermeidend-selbstunsicher) und abhängig (asthenisch) akzentuierten
+Persönlichkeitszügen (ICD-10: F73.1); kombinierte Störung schulischer
+Fertigkeiten (ICD-10: F81.3); Geschlechtsidentitätsstörung
+"Transsexualismus" (ICD-10: F64.0). Er attestierte der
+Beschwerdeführerin in der bisherigen Tätigkeit wie auch in adaptierten
+Tätigkeiten eine Einschränkung der Leistungsfähigkeit von 30 % bei einem
+zumutbaren vollen Arbeitspensum.
+Dr. F.______
+untersuchte die Beschwerdeführerin eingehend und setzte sich sorgfältig mit
+den vorhandenen medizinischen Berichten und der Einschätzung der Stiftung D.______
+auseinander. Dabei führte er überzeugend aus, dass die Beschwerdeführerin
+keine Autismus-Symptome zeige, weshalb die im Jahr 2012 gestellte
+Diagnose eines atypischen Autismus mit überwiegender Wahrscheinlichkeit nicht
+bestätigt werden könne. Ebenso vermögen die Ausführungen zu überzeugen, dass
+die Gender-Dysphorie keine Auswirkungen auf die Arbeitsfähigkeit der
+Beschwerdeführerin hat. Eingehend setzte sich Dr. F.______ sodann mit
+dem Abschlussbericht der Stiftung D.______ vom 9. Mai 2018 auseinander,
+in welchem eine Leistungsfähigkeit von lediglich 30 % postuliert wurde.
+Dabei wies er zum einen auf den Widerspruch zwischen der im Abschlussbericht
+dargestellten schwerwiegenden psychiatrischen Störung und der fehlenden
+Behandlung hin. Sodann stützte er sich auf seine eigenen Untersuchungen und
+zeigte deutlich auf, dass die Beschwerdeführerin über zahlreiche positive
+Ressourcen verfügt. Dabei ist darauf hinzuweisen, dass die Beschwerdeführerin
+selbst ihre Arbeitsfähigkeit auf 80 % schätzte.
+Die durch
+Dr. F.______ attestierte Einschränkung der Leistungsfähigkeit von
+30 % lässt sich auf das neuropsychologische Teilgutachten und die
+diagnostizierte einfache Aktivitäts- und Aufmerksamkeitsstörung zurückführen.
+So legte Dr. G.______ anhand der durchgeführten Tests nachvollziehbar
+dar, weshalb die Beschwerdeführerin in diesem Ausmass in der Arbeitsfähigkeit
+eingeschränkt ist.
+5.3
+Das orthopädische Gutachten wurde durch
+Dr. med. H.______, Spezialarzt Chirurgie/Orthopädie FMH, am
+6. September 2019 erstattet. Er diagnostizierte eine hypotone
+Muskelschwäche des Schultergürtels beidseits bei ungeklärter Ätiologie. Diese
+habe Auswirkungen auf die Arbeitsfähigkeit. Die Beschwerdeführerin sei in der
+Lage, leichte und mittelschwere Arbeiten, möglichst wechselbelastend und ohne
+Zwangshaltung für die Wirbelsäule, auszuüben. Zu meiden seien Arbeiten in Zwangshaltung
+wie vornübergebeugtes Stehen. Langfristiges Stehen und Sitzen sollte mit
+maximal 60 Minuten limitiert bleiben. Zu meiden seien Arbeiten mit
+repetitiven Bewegungsanforderungen an den Rumpf sowie Arbeiten mit dauerndem
+Vorhalten der Arme und Hände vor dem Körper. Auch Überkopfarbeiten sollten
+der Beschwerdeführerin nicht dauerhaft zugemutet werden. Tätigkeiten, welche
+mit eventueller Unfallgefährdung einhergingen, sollten ebenfalls nicht
+eingefordert werden. Das Heben, Tragen und Bewegen von Lasten sei mit maximal
+15 kg limitiert. In einer solchen Tätigkeit, welche der zum aktuellen
+Zeitpunkt ausgeführten Tätigkeit in der Stiftung I.______ als Monteurin
+entspreche, resultiere aus rein orthopädisch-somatischer Sicht eine
+Arbeitsfähigkeit von 100 %. Das gewählte Pensum von 80 % sei nicht
+aufgrund erkennbarer körperlicher Deformitäten gewählt worden, sondern
+aufgrund einer Leistungsbeschränkung auf psychiatrischem Fachgebiet.
+Die Diagnose und die
+Beurteilung der Arbeitsfähigkeit beruhen auf einer eingehenden Untersuchung
+der Beschwerdeführerin. Dr. H.______ führte insbesondere aus, dass die
+Muskelverschmächtigungen, welche hauptsächlich den Oberkörper beträfen, bei
+seitengleicher, freier und schmerzloser Beweglichkeit sämtlicher Gelenke der oberen
+Extremität und einer ausreichenden Muskelmasse an den Ober- und Unterarmen
+nicht als eine wesentliche Behinderung aus orthopädischer Sicht mit
+Krankheitswert aufzufassen seien. Dabei ist es nachvollziehbar, dass der
+Gutachter die Hauptproblematik nicht auf dem orthopädischen, sondern auf dem
+psychiatrischen und auf dem neuropsychologischen Gebiet sieht.
+5.4
+In der Konsensbeurteilung vom 13. September 2019
+gelangten Dr. F.______ und Dr. H.______ zum Schluss, die
+Beschwerdeführerin könne in der zuletzt ausgeübten wie in jeder anderen
+angepassten Arbeitstätigkeit mit einer Einschränkung der Leistungsfähigkeit
+von 30 % in einem vollen Pensum arbeiten. Diese Einschätzung stimmt mit
+den einzelnen Gutachten überein.
+Das bidisziplinäre
+Gutachten überzeugt und erfüllt die von der Rechtsprechung aufgestellten
+Kriterien (vgl. E. II/3.3), wovon auch der RAD ausgeht. Insbesondere wird
+schlüssig dargelegt, weshalb nicht der Einschätzung der Arbeitsfähigkeit
+durch die Stiftung D.______ gefolgt werden kann. Auch werden die Ressourcen
+der Beschwerdeführerin aufgezeigt, was es nachvollziehbar erscheinen lässt,
+dass die Gender-Dysphorie keinen Einfluss auf die Arbeitsfähigkeit hat. Da
+die weiteren medizinischen Berichte durch das bidisziplinäre Gutachten
+entweder widerlegt werden oder sich aber nicht zur Arbeitsfähigkeit der
+Beschwerdeführerin äussern, werden durch diese keine Zweifel am Gutachten
+geweckt. Mit der Beschwerdegegnerin ist daher davon auszugehen, dass die
+Beschwerdeführerin in einer Tätigkeit, welche dem orthopädisch festgelegten
+Zumutbarkeitsprofil entspricht, bei einem vollen Arbeitspensum eine
+Arbeitsfähigkeit von 70 % aufweist.
+6.
+6.1
+Die Beschwerdegegnerin stützte sich sowohl bei der
+Ermittlung des Valideneinkommens als auch bei derjenigen des Invalideneinkommens
+auf die Lohnstrukturerhebung (LSE) des Bundesamts für Statistik. Wie sich aus
+dem Nachfolgenden ergibt, erweist sich dieses Vorgehen als nicht korrekt.
+6.2
+6.2.1
+Konnte die versicherte Person wegen der Invalidität
+keine zureichenden beruflichen Erkenntnisse erwerben, so entspricht laut Art.
+26 Abs. 1 der Verordnung über die Invalidenversicherung vom 17. Januar
+1961 (IVV) das Erwerbseinkommen, das sie als Nichtinvalide erzielen könnte,
+den folgenden nach Alter abgestuften Prozentsätzen des jährlich
+aktualisierten Medianwerts gemäss LSE: vor Vollendung von
+21 Altersjahren 70 %; nach Vollendung von 21 Altersjahren und
+vor Vollendung von 25 Altersjahren 80 %; nach Vollendung von
+25 Altersjahren und vor Vollendung von 30 Altersjahren 90 %;
+danach 100 %.
+6.2.2
+Geburts- und Frühinvalide im Sinne von Art. 26
+Abs. 1 IVV sind Versicherte, die seit ihrer Geburt oder Kindheit an
+einem Gesundheitsschaden leiden und deshalb keine zureichenden beruflichen
+Kenntnisse erwerben konnten. Darunter fallen all jene Personen, die wegen
+ihrer Invalidität überhaupt keine Berufsausbildung absolvieren können. Ebenso
+dazu gehören aber auch Versicherte, die zwar eine Berufsausbildung
+abschliessen, zu deren Beginn jedoch bereits invalid waren und die
+absolvierte Ausbildung wegen ihrer Invalidität auf dem ausgeglichenen
+Arbeitsmarkt nicht in gleicher Weise "ummünzen" können wie
+nichtbehinderte Personen mit derselben (ordentlichen) Ausbildung (BGer-Urteil
+9C_233/2018 vom 11. April 2019 E. 1.2; Kreisschreiben des Bundesamts für
+Sozialversicherungen über Invalidität und Hilflosigkeit in der
+Invalidenversicherung [KSIH], gültig ab 1. Januar 2015, Rz. 3035).
+6.2.3
+Die Beschwerdegegnerin anerkannte bereits im
+Jahr 2004, dass die Beschwerdeführerin an einem ADHS leidet und leistete
+entsprechende medizinische Massnahmen. Die Beschwerdeführerin absolvierte
+eine INSOS (Nationaler Branchenverband der Institutionen für Menschen mit
+Behinderung)-Ausbildung als Industriepraktikerin. Bei der Praktischen
+Ausbildung handelt es um ein Angebot für Jugendliche und junge Erwachsene mit
+Lernschwierigkeiten, denen es (noch) nicht möglich ist, eine Ausbildung mit
+einem anerkannten Berufsabschluss zu absolvieren
+(https://insos.ch/ausbildung-pra/die-pra-in-kuerze/, zuletzt besucht am
+18. Februar 2021).
+6.2.4
+Die Beschwerdeführerin konnte invaliditätsbedingt
+lediglich im geschützten Rahmen eine berufliche Ausbildung als
+Industriepraktikerin absolvieren. Diese vermittelte nicht die gleichen
+Kenntnisse wie eine eigentliche Lehre oder eine andere ordentliche Ausbildung
+(vgl. dazu BGer-Urteil 9C_611/2014 vom 19. Februar 2015
+E. 4.3). Sie hat daher als Frühinvalide im Sinne von Art. 26 Abs. 1
+IVV zu gelten (vgl. BGer-Urteil I 108/05 vom 7. Juni 2005
+E. 5.1.1).
+6.3
+6.3.1
+Die Beschwerdeführerin erhielt während ihrer
+Ausbildung bis zum 31. Juli 2018 Taggelder der Invalidenversicherung.
+Art. 29 Abs. 2 IVG sieht vor, dass der Rentenanspruch nicht entsteht, solange
+die versicherte Person ein Taggeld beanspruchen kann. Damit entstand ein
+allfälliger Rentenanspruch frühestens am 1. August 2018.
+6.3.2
+Die Beschwerdeführerin war am 1. August 2018 noch
+nicht 21 Jahre alt, weshalb nach Art. 26 Abs. 1 IVV das Valideneinkommen
+70 % des Medianwerts gemäss LSE betrug, was Fr. 57'400.- entspricht
+(vgl. IV-Rundschreiben Nr. 369). Im März 2019 vollendete die
+Beschwerdeführerin das 21. Altersjahr, weshalb das Valideneinkommen ab
+März 2019 80 % des Medianwerts gemäss LSE betrug, was
+Fr. 66'400.- entspricht (vgl. IV-Rundschreiben Nr. 378).
+6.4
+6.4.1
+Entgegen der Auffassung der Beschwerdegegnerin kann
+für die Bestimmung des Invalideneinkommens nicht auf die Tabellenlöhne der
+LSE abgestellt werden. Dies zeigt sich darin, dass der verwendete
+Tabellenlohn, zumindest solange die Beschwerdeführerin noch nicht 21 Jahre
+alt war, deutlich über dem nach Art. 26 Abs. 1 IVV berechneten
+Valideneinkommen liegt. Wird bei der Ermittlung des Valideneinkommens nach
+Art. 26 Abs. 1 IVV dem Umstand Rechnung getragen, dass im
+jugendlichen Alter im Allgemeinen noch nicht die Löhne erzielt werden, die
+erfahrene Berufsleute erzielen, muss dies auch bei der Ermittlung des
+Invalideneinkommens berücksichtigt werden. Dabei ist auf die konkrete
+Situation der versicherten Person einzugehen (vgl. als
+Anwendungsbeispiel VGer-Urteil VG.2020.00090 vom 10. Dezember 2020
+E. II/4.2).
+6.4.2
+Die Stiftung D.______ ging gestützt auf das Lohnbuch
+des Kantons Zürich von einem auf ein Pensum von 100 % bezogenen
+Grundlohn von Fr. 3'800.- pro Monat aus. Dies scheint realistisch zu
+sein. Bei einer Einschränkung der Leistungsfähigkeit um 30 % ergibt sich
+ein Valideneinkommen von Fr. 34'580.-
+(13 x 3'800 x 0,7). Da nicht auf den Tabellenlohn
+abgestellt wird, kommt ein leidensbedingter Abzug nicht in Betracht. Der
+Invaliditätsgrad der Beschwerdeführerin beträgt folglich vom 1. August
+2018 bis zum 28. Februar 2019 gerundet 40 % (vgl. BGE 130
+V 121 zur Rundungsregel) und ab dem 1. März 2019 48 %, was zum
+Bezug einer Viertelsrente ab dem 1. August 2018 berechtigt.
+Demgemäss ist die
+Beschwerde teilweise gutzuheissen. Die Verfügung der Beschwerdegegnerin vom
+17. September 2020 ist aufzuheben und der Beschwerdeführerin ist ab dem 1.
+August 2018 eine Viertelsrente der Invalidenversicherung zuzusprechen.
+III.
+1.
+1.1
+Nach Art. 134 Abs. 1 lit. c des
+Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986 (VRG) i.V.m.
+Art. 69 Abs. 1bis IVG hat die Partei, welche im Beschwerdeverfahren
+unterliegt, die amtlichen Kosten zu tragen. Obsiegt die Beschwerde führende
+Person teilweise, ist sie dann nicht kostenpflichtig und erhält eine
+ungekürzte Parteientschädigung, wenn sie im Grundsatz obsiegt und lediglich
+im Masslichen teilweise unterliegt, was beispielsweise bei der Zusprechung
+einer halben statt der beantragten ganzen Invalidenrente der Fall ist. In
+einer solchen Konstellation bedingt das effektiv Erhaltene nämlich
+grundsätzlich den selben Aufwand wie das Beantragte (BGE 117 V 401
+E. 2c; BGer-Urteil 9C_995/2012 vom 17. Januar 2013 E. 3).
+So verhält es sich auch
+vorliegend, weshalb die Gerichtskosten von pauschal Fr. 600.- der
+Beschwerdegegnerin aufzuerlegen sind.
+1.2
+Aus denselben Gründen ist der Beschwerdeführerin
+gemäss Art. 1 Abs. 1 IVG i.V.m. Art. 61 lit. g ATSG zu
+Lasten der Beschwerdegegnerin eine Parteientschädigung in der Höhe von
+Fr. 1'800.- (inkl. Mehrwertsteuer) zuzusprechen.
+2.
+2.1
+Die Beschwerdeführerin beantragt die Gewährung der
+unentgeltlichen Prozessführung und der unentgeltlichen Rechtsverbeiständung.
+Gemäss Art. 139 Abs. 1 VRG befreit die Behörde eine Partei, der die Mittel
+fehlen, um neben dem Lebensunterhalt für sich und ihre Familie die
+Verfahrenskosten aufzubringen, auf Gesuch hin ganz oder teilweise von der
+Kosten- und Vorschusspflicht, sofern das Verfahren nicht aussichtslos ist.
+Unter denselben Voraussetzungen weist sie der Partei auf Gesuch hin oder von
+Amtes wegen einen Anwalt als Rechtsbeistand zu, falls ein solcher für die
+gehörige Interessenwahrung erforderlich ist (Art. 61 lit. f ATSG und
+Art. 139 Abs. 2 VRG). Der Nachweis der Bedürftigkeit obliegt nach
+Art. 139 Abs. 3 VRG der gesuchstellenden Partei.
+2.2
+Da die Gerichtskosten der Beschwerdegegnerin
+aufzuerlegen sind, ist das Gesuch der Beschwerdeführerin um Gewährung der
+unentgeltlichen Prozessführung als gegenstandslos geworden abzuschreiben.
+2.3
+Die Mittellosigkeit der Beschwerdeführerin erscheint
+aufgrund der Aktenlage als offensichtlich, bezieht sie doch Sozialhilfe.
+Zudem obsiegt sie im vorliegenden Verfahren teilweise, womit dieses
+nicht als aussichtslos bezeichnet werden kann. Da die Beschwerdeführerin auf
+eine rechtliche Vertretung angewiesen war, ist das Gesuch um unentgeltliche
+Rechtsverbeiständung gutzuheissen und ihr ist in der Person von Rechtsanwalt
+B.______
+ein unentgeltlicher Rechtsbeistand zu
+bestellen. Dieser ist mit Fr. 1'800.- (inkl. Mehrwertsteuer) zu
+entschädigen, woran die Parteientschädigung in gleicher Höhe anzurechnen ist.
+Demgemäss beschliesst die Kammer
+:
+1.
+Das
+Gesuch der Beschwerdeführerin um Gewährung der unentgeltlichen
+Prozessführung wird als gegenstandslos geworden abgeschrieben.
+2.
+Das
+Gesuch der Beschwerdeführerin um Gewährung der unentgeltlichen
+Rechtsverbeiständung wird gutgeheissen. Ihr wird in der Person von
+Rechtsanwalt B.______ ein unentgeltlicher Rechtsbeistand bestellt.
+3.
+Der
+Rechtsbeistand wird zu Lasten der Gerichtskasse mit Fr. 1'800.- (inkl. Auslagen
+und Mehrwertsteuer) entschädigt.
+Daran
+angerechnet wird die Parteientschädigung seitens der Beschwerdegegnerin in
+gleicher Höhe.
+und erkennt sodann
+:
+1.
+Die
+Beschwerde wird teilweise gutgeheissen. Die Verfügung der
+Beschwerdegegnerin vom 17. September 2020 wird aufgehoben und der
+Beschwerdeführerin wird ab dem 1. August 2018 eine Viertelsrente der
+Invalidenversicherung zugesprochen.
+2.
+Die
+Gerichtskosten von Fr. 600.- werden der Beschwerdegegnerin auferlegt.
+3.
+Die
+Beschwerdegegnerin wird verpflichtet, der Beschwerdeführerin innert
+30 Tagen nach Rechtskraft dieses Entscheids eine Parteientschädigung
+von Fr. 1'800.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
