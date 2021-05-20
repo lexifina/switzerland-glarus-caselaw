@@ -1,0 +1,647 @@
+---
+decision_id: "gl_gerichte_VG.2018.00095"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2018.00095"
+docket_2: "VG.2021.1050"
+decided: "2021-05-20"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1459&W10_KEY=218274&nTrefferzeile=7&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/220/art-104.md", "switzerland/bund/acts/220/art-105.md", "switzerland/bund/acts/831.40/art-001.md", "switzerland/bund/acts/831.40/art-010.md", "switzerland/bund/acts/831.40/art-023.md"]
+---
+
+# GL Gerichte VG.2018.00095
+
+## Regeste
+
+Sozialversicherung - Berufliche Vorsorge (Klage)
+
+## Text
+
+Glarus Verwaltungsgericht 20.05.2021 VG.2018.00095 (VG.2021.1050)
+Glaris Verwaltungsgericht 20.05.2021 VG.2018.00095 (VG.2021.1050)
+Glarona Verwaltungsgericht 20.05.2021 VG.2018.00095 (VG.2021.1050)
+
+Sozialversicherung - Berufliche Vorsorge (Klage)
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+20. Mai 2021
+II. Kammer
+in Sachen
+VG.2018.00095
+A.______
+Klägerin
+vertreten durch
+Rechtsanwältin
+B.______
+gegen
+1.
+Previs Vorsorge (vormals Comunitas)
+Beklagte
+vertreten durch
+Rechtsanwalt
+C.______
+2.
+Glarner Pensionskasse
+vertreten durch
+Rechtsanwalt
+D.______
+betreffend
+Invalidenrente aus BVG
+(Wiederaufnahme des Verfahrens VG.2016.00060)
+Die Kammer zieht in Erwägung:
+I.
+1.
+A.______, geboren am […],
+beantragte am 25. April 2013 Leistungen der Invalidenversicherung, da sie an
+einer Borderline-Persönlichkeitsstörung, an einer rezidivierenden depressiven
+Störung sowie an einer Aufmerksamkeitsdefizit-Hyperaktivitätsstörung (ADHS)
+leide. Am 20. März 2014 sprach die IV-Stelle A.______ ab dem 1. April
+2012 eine halbe Invalidenrente zu.
+2.
+2.1
+A.______ reichte am 19. Mai 2016 beim
+Verwaltungsgericht Klage gegen die Comunitas und gegen die Pensionskasse des
+Kantons Glarus ein. Sie beantragte, die Comunitas sei zu verpflichten, ihr
+entweder über den Anschlussvertrag Nr. 1603, Arbeitgeber E.______, oder
+über den Anschlussvertrag Nr. 7273, Arbeitgeber F.______, rückwirkend eine
+Invalidenrente aus der obligatorischen und überobligatorischen beruflichen
+Vorsorge auszurichten, zuzüglich Verzugszinsen ab Klageerhebung. Eventualiter
+sei die Pensionskasse des Kantons Glarus zu verpflichten, ihr rückwirkend
+eine Invalidenrente aus der obligatorischen und überobligatorischen beruflichen
+Vorsorge auszurichten, zuzüglich Verzugszinsen ab Klageerhebung; alles unter
+Entschädigungsfolgen zu Lasten der unterliegenden Partei.
+Am 12. September 2016
+reichte die Pensionskasse des Kantons Glarus ihre Klageantwort ein und
+beantragte, die Klage gegen sie abzuweisen. Am 14. September 2016
+schloss die Comunitas ebenfalls auf Abweisung der gegen sie erhobenen Klage.
+2.2
+Nach Durchführung eines zweiten Schriftenwechsels
+sowie nach mehrmaligen Sistierungen hiess das Verwaltungsgericht am 26.
+Oktober 2017 (Verfahren VG.2016.00060) die Klage gegen die Comunitas gut und
+verpflichtete diese, A.______ ab dem 1. April 2012 eine halbe
+Invalidenrente, zuzüglich Zins von 5 % seit 19. Mai 2016, zu
+bezahlen. Am 2. November 2017 beantragte die Pensionskasse des Kantons
+Glarus in einem Erläuterungsbegehren, das Dispositiv des
+verwaltungsgerichtlichen Urteils vom 26. Oktober 2017 damit zu ergänzen, dass
+die Klage gegen sie abgewiesen werde. Am 6. November 2017 hiess das
+Verwaltungsgericht das Erläuterungsbegehren teilweise gut und ergänzte sein
+Urteil vom 26. Oktober 2017 mit einer neuen Disp.-Ziff. 2, wonach die
+Klage gegen die Pensionskasse des Kantons Glarus als gegenstandslos geworden
+abgeschrieben werde.
+2.3
+Die Comunitas gelangte in der Folge mit Beschwerde
+in öffentlich-rechtlichen Angelegenheiten vom 30. November 2017 ans
+Bundesgericht und beantragte die Aufhebung des Urteils und des
+Erläuterungsbeschlusses des Verwaltungsgerichts. Die gegen sie erhobene Klage
+sei abzuweisen. Das Bundesgericht hiess die Beschwerde am 7. September 2018
+gut, hob den Entscheid des Verwaltungsgerichts vom 26. Oktober 2017 und
+dessen Beschluss vom 6. November 2017 auf und wies die Sache zur
+Neuentscheidung ans Verwaltungsgericht zurück (BGer-Urteil 9C_856/2017).
+3.
+3.1
+Das Verwaltungsgericht nahm das Verfahren am 17.
+September 2018 unter der Verfahrensnummer VG.2018.00095 wieder auf und gab
+A.______ die Gelegenheit, sich zu äussern. Diese beantragte am
+13. Dezember 2018, das Verfahren zu sistieren, bis rechtskräftig über
+ihren Anspruch auf Entrichtung einer ganzen Invalidenrente entschieden worden
+sei. Eventualiter sei festzustellen, dass ihre relevante bleibende
+Arbeitsunfähigkeit, welche zur Invalidität geführt habe, am 1. Oktober
+2012 eingetreten sei, also zu einer Zeit, als sie bei der Pensionskasse des
+Kantons Glarus versichert gewesen sei. Subeventualiter sei Letztere zu
+verpflichten, ihr ab dem 1. Oktober 2016 eine Invalidenrente aus der
+obligatorischen und überobligatorischen beruflichen Vorsorge auszurichten,
+zuzüglich Verzugszinsen ab Klageerhebung. Mit Präsidialverfügung vom 17.
+Dezember 2018 sistierte das Verwaltungsgericht das Verfahren bis zum
+Vorliegen eines rechtskräftigen invalidenversicherungsrechtlichen Entscheids.
+3.2
+Am 13. Mai 2020 sprach die IV-Stelle A.______ ab 1.
+Oktober 2016 eine ganze Invalidenrente zu, da sie seither in sämtlichen
+Tätigkeiten des ersten Arbeitsmarkts vollständig arbeitsunfähig sei. Gestützt
+darauf beantragte A.______ am 30. Juni 2020, die Pensionskasse des Kantons
+Glarus sei zu verpflichten, ihr ab dem 1. Oktober 2016 eine
+Invalidenrente aus der obligatorischen und der überobligatorischen Vorsorge,
+zuzüglich Zinsen ab Klageerhebung, auszurichten. Letztere schloss am
+2. November 2020 auf Abweisung der Klage.
+3.3
+Mit Replik vom 10. Dezember 2020 hielt A.______ an
+den bereits gestellten Klagebegehren fest und beantragte zudem die Gewährung
+der unentgeltlichen Prozessführung und der unentgeltlichen
+Rechtsverbeiständung. Die Pensionskasse des Kantons Glarus hielt in ihrer
+Duplik vom 10. März 2021 ebenfalls an ihrem Antrag auf Klageabweisung fest.
+Das Verwaltungsgericht schloss am 11. März 2021 den Schriftenwechsel ab.
+3.4
+Am 11. März 2021 edierte das Verwaltungsgericht von
+der IV-Stelle die Akten des IV-Verfahrens von A.______, woraufhin diese beim
+Verwaltungsgericht am 16. März 2021 eingingen.
+3.5
+In der Folge reichte A.______ am 18. März 2021
+unaufgefordert eine Triplik ein, wobei sie an den bereits gestellten
+Rechtsbegehren festhielt. Sodann zog sie am 29. März 2021 ihr Gesuch um
+Gewährung der unentgeltlichen Prozessführung und unentgeltlichen
+Rechtsverbeiständung zurück. Mit Stellungnahme vom 13. April 2021
+äusserte sich die Pensionskasse des Kantons Glarus erneut und hielt an ihrem
+Antrag auf Klageabweisung fest. Anschliessend schloss das Verwaltungsgericht
+am 15. April 2021 den Schriftenwechsel abermals ab.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 109 lit. e des Gesetzes über die Verwaltungsrechtspflege vom 4.
+Mai 1986 (VRG) i.V.m. Art. 73 Abs. 1 und 3 des Bundesgesetzes über die
+berufliche Alters-, Hinterlassenen- und Invalidenvorsorge vom 25. Juni
+1982 (BVG) zur Behandlung der vorliegenden Klage zuständig. Da auch die
+übrigen Prozessvoraussetzungen erfüllt sind, ist auf die Klage einzutreten.
+2.
+2.1
+Die obligatorische b
+erufliche Vorsorge
+umfasst alle Massnahmen auf kollektiver Basis, die den Invaliden bei Eintritt
+des Versicherungsfalls (Alter, Tod oder Invalidität) zusammen mit den
+Leistungen der eidgenössischen Alters-, Hinterlassenen- und Invalidenversicherung
+(AHV/IV) die Fortsetzung der gewohnten Lebenshaltung in angemessener Weise
+erlauben (Art. 1 Abs. 1 BVG).
+Die
+obligatorische Versicherung beginnt mit Stellenantritt und endet
+grundsätzlich im Zeitpunkt der Auflösung des Arbeitsverhältnisses (Art. 10
+Abs. 1 und Abs. 2 lit. b BVG). Für das Risiko der Invalidität bleibt der
+Arbeitnehmer aber noch zusätzlich während eines Monats nach Auflösung des
+Vorsorgeverhältnisses bei der bisherigen Vorsorgeeinrichtung versichert,
+sofern nicht vorher ein neues Vorsorgeverhältnis begründet wird (Art. 10 Abs.
+3 BVG).
+2.2
+Anspruch auf Invalidenleistungen der obligatorischen
+beruflichen Vorsorge haben Versicherte, die im Sinn der IV zu mindestens
+40 % invalid sind und bei Eintritt der Arbeitsunfähigkeit, deren Ursache
+zur Invalidität geführt hat, versichert waren (Art. 23 lit. a BVG).
+Versicherte sind in ihrer Arbeitsfähigkeit eingeschränkt, wenn sie ihr funktionelles
+Leistungsvermögen im bisherigen Beruf oder Aufgabenbereich eingebüsst haben.
+Kann vom einzelnen Versicherten
+vernünftigerweise verlangt werden, dass er die ihm verbliebene
+Arbeitsfähigkeit in einem anderen Berufszweig verwertet, ist er unter Berücksichtigung
+der Arbeitsmarktlage und gegebenenfalls nach einer bestimmten Anpassungszeit
+nach der beruflichen Tätigkeit zu beurteilen, die er bei gutem Willen ausüben
+könnte (BGE 134 V 20 E. 3.2.2).
+2.3
+In berufsvorsorgerechtlicher Hinsicht ist
+die Arbeitsunfähigkeit relevant, wenn sie mindestens 20 % beträgt und
+sich auf das Arbeitsverhältnis sinnfällig auswirkt oder ausgewirkt hat. Es
+muss arbeitsrechtlich in Erscheinung treten, dass der Versicherte an
+Leistungsvermögen eingebüsst hat (BGer-Urteil 9C_91/2013, 9C_110/2013 vom
+17. Juni 2013 E. 4.1.2). Dabei sind die gesamten Umstände des
+konkreten Einzelfalls zu berücksichtigen, namentlich die Art des
+Gesundheitsschadens, dessen prognostische Beurteilung durch die Ärzte sowie
+die Beweggründe, welche den Versicherten zur Wiederaufnahme oder
+Nichtwiederaufnahme einer Arbeit veranlasst haben (BGer-
+Urteil 9C
+_420/2015 vom 26. Januar 2016 E. 4.1).
+2.4
+Der Zeitpunkt des Eintritts der
+berufsvorsorgerechtlich relevanten Arbeitsunfähigkeit muss mit dem im
+Sozialversicherungsrecht üblichen Beweisgrad der überwiegenden
+Wahrscheinlichkeit nachgewiesen sein (BGer-Urteil 9C_91/2013, 9C_110/2013 vom
+17. Juni 2013 E. 4.1.2). Dabei gilt der Grundsatz der freien Beweiswürdigung,
+d.h. die Beweise sind frei, ohne Bindung an förmliche Beweisregeln,
+sowie umfassend und pflichtgemäss vom Gericht zu würdigen (vgl. dazu
+BGE 125 V 351 E. 3a).
+2.5
+Ein Entscheid einer IV-Stelle ist für eine
+Einrichtung der beruflichen Vorsorge verbindlich, sofern sie in das
+invalidenversicherungsrechtliche Verfahren einbezogen wurde, die konkrete
+Fragestellung für die Beurteilung des Rentenanspruchs gegenüber der
+Invalidenversicherung entscheidend war und sich die
+invalidenversicherungsrechtliche Betrachtungsweise auf Grund einer
+gesamthaften Prüfung der Akten nicht als offensichtlich unhaltbar erweist.
+Die Bindungswirkung vermag sich indessen nicht auf Feststellungen erstrecken,
+welche für die Festlegung des Anspruchs auf eine Rente der
+Invalidenversicherung nicht entscheidend waren. Eine Bindungswirkung entfällt
+unter anderem dann, wenn die Rente der Invalidenversicherung aufgrund einer
+verspäteten Anmeldung ausgerichtet wird. Diesfalls besteht kein Anlass für
+die IV-Stelle, den Verlauf der Arbeitsunfähigkeit vor dem Zeitpunkt der
+Anmeldung zu prüfen, womit hinsichtlich weiter zurückliegender Zeiten eine
+Verbindlichkeit allfälliger Feststellungen und Beurteilungen der IV-Stelle
+für die Vorsorgeeinrichtung von vornherein ausser Betracht fällt (BGer-Urteil
+9C_464/2015 vom 31. Mai 2016 E. 2.4.1 f., mit Hinweisen).
+3.
+3.1
+Die Klägerin bringt vor, dass sie vom 1. Mai 2010
+bis zum 31. Januar 2013 in einem schwankenden Arbeitspensum arbeitstätig
+und damit bei der Beklagten 2 vorsorgeversichert gewesen sei. Sie habe
+ihre Arbeitstätigkeit als vollständig Arbeitsfähige aufgenommen, was aufgrund
+des in vorliegender Sache ergangenen Bundesgerichtsurteils erstellt sei. Das
+Bundesgericht habe verbindlich festgestellt, dass zu der Zeit, als sie bei
+der Beklagten 1 versichert gewesen sei, keine Arbeitsunfähigkeit
+arbeitsrechtlich in Erscheinung getreten sei. Nichts Anderes ergebe sich aus der
+Tatsache, dass sie von der Beklagten 2 vorbehaltlos in die
+BVG-Versicherung aufgenommen worden sei. In der Folge sei sie jedoch am 2.
+Oktober 2012 erkrankt, weswegen sie von ihren behandelnden Ärzten in
+unterschiedlichem Umfang krankgeschrieben worden sei. Damit seien ihre
+gesundheitlichen Einschränkungen aufgrund ihrer psychischen Erkrankung
+während ihrer Versicherungszeit bei der Beklagten 2 erstmals
+arbeitsrechtlich in Erscheinung getreten, sodass diese leistungspflichtig
+sei. Dies ergebe sich ebenso aus der damaligen Konfliktsituation am
+Arbeitsplatz, deren Ursache in ihrer psychischen Erkrankung gründe. Folglich
+sei die Beklagte 2 für die Ausrichtung der vollen Invalidenrente
+leistungspflichtig, denn ihre schliesslich zur Invalidität führende Arbeitsunfähigkeit
+sei erstmals arbeitsrechtlich in Erscheinung getreten, als sie bei der
+Beklagten 2 vorsorgeversichert gewesen sei.
+3.2
+Die Beklagte 2 wendet hingegen ein, die
+Klägerin sei zur Zeit der Aufnahme ihrer Arbeitstätigkeit bei G.______ und
+damit zu Beginn ihrer Versicherungszeit aufgrund der gesundheitlichen
+Beeinträchtigungen eingeschränkt arbeitsfähig gewesen, was sich aus dem von
+der IV-Stelle eingeholten Gutachten von Dr. med. H.______, Facharzt
+für Psychiatrie und Psychotherapie FMH, ergebe. Aus den vorhandenen
+Arztberichten zeige sich, dass sie spätestens seit dem Jahr 2007 nur noch in
+einem 50 %-Pensum arbeitsfähig gewesen sei. Dieses habe sie während der
+Zeit, als sie bei ihr BVG-versichert gewesen sei, konstant bewältigen können.
+Folglich sei die Arbeitsunfähigkeit, welche zur Teilinvalidität geführt habe,
+vor ihrer Versicherungszeit eingetreten. Auch habe sich die Teilinvalidität
+während ihrer Versicherungszeit nicht vergrössert, sei die Klägerin doch auch
+danach weiterhin zumindest in einem 50 %-Pensum arbeitstätig gewesen. Da
+sie ihre Erwerbstätigkeit seit dem Jahr 2005 nur noch in jenem Teil
+ausgeübt habe, welchen sie erwerblich noch habe verwerten können, sei die
+Teilinvalidität in dem Bereich eingetreten, welcher von keiner Vorsorgeversicherung
+versichert gewesen sei. Daher sei sie nicht leistungspflichtig.
+4.
+4.1
+Bei der Klägerin wurden in ihren Jugendjahren eine
+mittelschwere Depression und eine Borderline-Persönlichkeitsstörung
+diagnostiziert. Beide Diagnosen (
+oder zumindest
+der Verdacht auf diese Krankheitsbilder) wurden
+über die Jahre immer wieder gestellt. So diagnostizierte auch Dr. H.______
+in seinem im invalidenversicherungsrechtlichen Verfahren erstellten
+psychiatrischen Teilgutachten vom 23. Dezember 2019 eine emotional
+instabile Persönlichkeitsstörung vom Borderline Typus nach stattgehabtem
+sexuellen Missbrauchserleben in der Kindheit (ICD-10: F60.31), eine
+rezidivierende depressive Störung, gegenwärtig schwere Episode ohne
+psychotische Symptome (ICD-10: F33.2), eine Aktivitäts- und
+Aufmerksamkeitsstörung im Sinne einer ADHS mit Persistenz im Erwachsenenalter
+(ICD-10: F90.0) und eine Agoraphobie ohne Angabe einer Panikstörung (ICD-10:
+F40.0). Seit mindestens 2002 bestehe eine 50%ige Arbeitsunfähigkeit als
+kaufmännische Angestellte und als Fachfrau Betreuung. Eine vollständige
+Arbeitsunfähigkeit sei in ihrer angestammten Tätigkeit und in sämtlichen
+Verweistätigkeiten seit Anfang 2016 vorhanden. Aktuell sei sie maximal acht
+Stunden pro Woche als Putzfrau einsetzbar, wobei eine Erhöhung dieses Pensums
+nicht möglich sei. Eine optimal angepasste Tätigkeit sei einzig in einem
+50 %-Pensum in einem geschützten Rahmen möglich. Der Regionalärztliche
+Dienst im invalidenversicherungsrechtlichen Verfahren stufte dieses Gutachten
+am 12. März 2020 als verwertbar ein und anerkannte gestützt darauf eine
+Verschlechterung des Gesundheitszustands der Klägerin spätestens per Juli
+2016.
+4.2
+Trotz der oben genannten Krankheitsbilder war die
+Klägerin vom 1. September 1994 bis zum 31. August 2001 bei verschiedenen
+Arbeitgebern im Rahmen eines Vollzeitpensums arbeitstätig. Am
+18. Dezember 2001 nahm sie ihre Vollzeit-Tätigkeit für E.______ auf,
+welche sie bis zum 30. September 2002 ausübte. Während dieser Zeit war sie
+bei der Beklagten 1 vorsorgeversichert. Vom 1. Januar 2003 bis zum
+1. Januar 2006 war die Klägerin in einem 80 % Pensum, anschliessend
+bis zum 1. Januar 2007 in einem 65 % Pensum sowie danach bis am
+31. Dezember 2009 in einem 50 % Pensum beim F.______ arbeitstätig.
+Auch während dieser Zeit war sie bei der Beklagten 1 vorsorgeversichert.
+4.3
+In der Folge nahm die Klägerin am 1. Mai 2010 ihre
+Teilzeit-Arbeitstätigkeit als Sachbearbeiterin bei G.______ auf. Im Anschluss
+daran war sie wiederum in einem 60 % Pensum bei der I.______ als
+Sekretärin tätig, wobei dieses Arbeitsverhältnis im gegenseitigen
+Einvernehmen per 31. Mai 2013 beendet wurde. Während ihrer
+Anstellungszeit bei G.______ und I.______ war die Klägerin bei der
+Beklagten 2 vorsorgeversichert.
+4.4
+Aus den Akten ergibt sich weiter, dass die Klägerin
+ab August 2014 bis Ende Januar 2016 bei der J.______ und der K.______ im
+Umfang von 50 – 60 % arbeitstätig war. Im August 2016 nahm sie
+eine neue Arbeitstätigkeit als Betreuerin im L.______ in […] auf, welche sie
+jedoch nach zwei Wochen wieder beendete. In der Folge war sie ab dem 14.
+September 2016 zu 100 % bzw. ab dem 28. September 2016 zu 80 %
+krankgeschrieben, was auch der Regionalärztliche Dienst im
+invalidenversicherungsrechtlichen Verfahren am 2. März 2017 als nachvollziehbar
+einstufte. Sodann war sie vom 11. März 2018 bis zum 4. Mai 2018 zwecks
+stationärem Aufenthalt in der Klinik M.______ vollständig arbeitsunfähig. Am
+1. September 2018 nahm die Klägerin eine Tätigkeit als Assistenzperson
+in einem 10 %-Pensum auf, welche sie per 24. November 2019
+beendete. Seit dem 7. März 2019 arbeitet sie nun als Putzhilfe für vier
+Stunden pro Woche, wobei sie diese Tätigkeit ab dem 12. September 2019
+um zusätzliche zwei Wochenstunden erhöhte. Am 12. September 2019 attestierte
+Dr. med. N.______, Psychiatrie und Psychotherapie FMH, der Klägerin
+eine Arbeitsfähigkeit in ihrer angestammten Tätigkeit von vier bis acht
+Stunden pro Woche.
+5.
+Das Bundesgericht kam in
+seinem Urteil vom 7. September 2018 (Verfahren 9C_856/2017) zum Schluss, dass
+während der Versicherungszeit bei der Beklagten 1, mithin in der Zeit
+vom 1. Januar 2003 bis zum 31. Dezember 2009, bei der Klägerin keine Einbusse
+des funktionellen Leistungsvermögens arbeitsrechtlich in Erscheinung getreten
+sei. Dies ergebe sich unter anderem daraus, dass sie sich selber gemäss
+Gesundheitserklärung vom 8. Januar 2003 als vollständig arbeitsfähig
+angesehen habe. Zwar habe sie im Jahr 2005 ihr Pensum zuerst auf 65 %
+und anschliessend auf 50 % reduziert, was jedoch in familiären Veränderungen
+(Geburt ihrer Tochter) gegründet habe. Ein anderweitiger Leistungsabfall,
+welcher etwa durch entsprechende Feststellungen oder gar Ermahnungen des
+Arbeitgebers der Klägerin ausgewiesen wäre, ergebe sich aus den Akten nicht.
+Daher sei die Beklagte 1 mangels zeitlicher Konnexität nicht
+leistungspflichtig.
+6.
+6.1
+Die Klägerin leidet an psychischen Beschwerden,
+welche dazu führten, dass ihr ab dem 1. April 2012 eine halbe und ab dem 1.
+Oktober 2016 eine ganze Rente der Invalidenversicherung zugesprochen wurde.
+Im vorliegenden Klageverfahren ist unbestritten, dass die ursprüngliche
+Zusprache der halben Invalidenrente wie auch die Erhöhung auf eine ganze
+Invalidenrente in derselben Erkrankung der Klägerin gründen. Folglich beruht
+die Erhöhung der Invalidenrente der Invalidenversicherung in einer
+Verschlimmerung der vorbestandenen psychischen Beschwerden der Klägerin und
+ist nicht auf neue gesundheitliche Beschwerden zurückzuführen. Dabei ist
+aufgrund des Urteils des Bundesgerichts vom 7. September 2018 in vorliegender
+Angelegenheit erstellt, dass die psychische Erkrankung der Klägerin, welche
+zur Invalidität führte, nicht in der Zeit, in welcher diese bei der
+Beklagten 1 vorsorgeversichert war, arbeitsrechtlich in Erscheinung
+getreten ist. Im vorliegenden Klageverfahren bleibt zu prüfen, ob dies
+während der Versicherungszeit der Klägerin bei der Beklagten 2 eintraf
+und bejahendenfalls, ob diese dadurch leistungspflichtig wird.
+6.2
+6.2.1
+Wie bereits erwähnt, ist i
+n berufsvorsorgerechtlicher Hinsicht die
+Arbeitsunfähigkeit relevant, wenn sie mindestens 20 % beträgt und sich
+auf das Arbeitsverhältnis sinnfällig auswirkt oder ausgewirkt hat. Es muss
+arbeitsrechtlich in Erscheinung treten, dass der Versicherte an
+Leistungsvermögen eingebüsst hat
+(vgl. E. II/2.3
+vorne).
+Aus den Akten
+ergibt sich, dass die Klägerin während ihrer Anstellungszeit bei G.______ ab
+Anfang Oktober 2012 bis zum 30. November 2012 vollständig krankgeschrieben
+war. Anschliessend war sie ab dem 1. Dezember 2012 bis zur Beendigung des
+Arbeitsverhältnisses Ende Januar 2013 im Umfang von 70 % arbeitsunfähig.
+Das Arbeitsverhältnis mit G.______ beendete die Klägerin. Grund dafür war
+eine Auseinandersetzung am Arbeitsplatz, welche dazu führte, dass G.______
+der Klägerin am 24. September 2012 einen Verweis erteilte. Dieser wurde damit
+begründet, dass die Klägerin einen Entscheid der Teamleitung nicht akzeptiert
+und sich an einer Teamsitzung unfreundlich und respektlos gegenüber
+Mitarbeitern verhalten habe, indem sie eine Teamsitzung vorzeitig verlassen
+habe. Nach Beendigung des Arbeitsverhältnisses mit G.______ nahm die Klägerin
+am 1. Februar 2013 eine neue Tätigkeit bei der I.______ in einem
+60 % Pensum auf. Dabei war sie am 27. und 28. März 2013
+vollständig und ab dem 8. April 2013 bis zum 31. Mai 2013 zu 50 – 100 %
+krankgeschrieben. Dieses Arbeitsverhältnis hoben die Klägerin und I.______
+Mitte Mai 2013 im gegenseitigen Einvernehmen während der verlängerten
+Probezeit per 31. Mai 2013 auf.
+Am 25. April 2013
+und somit noch während des Arbeitsverhältnisses mit I.______ meldete sich die
+Klägerin bei der Invalidenversicherung zum Bezug von IV-Leistungen an
+. Im Rahmen des invalidenversicherungsrechtlichen
+Verfahrens diagnostizierten l
+ic. phil. O.______,
+Fachpsychologin für Psychotherapie FSP, und P.______, leitender Arzt
+Psychiatrie im Spital Q.______, am 11. Juli 2013 eine
+Persönlichkeitsstörung mit emotional instabilen Zügen (ICD-10: F60.31), eine
+rezidivierende mittelgradige depressive Störung (ICD-10: F33.1) sowie eine
+ADHS (ICD-10: F90.0). Die Klägerin sei bei ihnen seit Februar 2007 in
+Behandlung, wobei verschiedene Behandlungsunterbrüche zu verzeichnen seien.
+Die letzte Kontrolle habe am 5. Juli 2013 bzw. am 31. Mai 2013
+stattgefunden. Die psychischen Leiden der Klägerin würden sich auf ihre Arbeit
+insbesondere in dem Sinne auswirken, als dass interpersonale Interaktionen
+erschwert seien, da sich die Klägerin schnell angegriffen und entwertet
+fühle. Ihre Teamfähigkeit sei eingeschränkt, denn es seien ein erhöhtes
+Konfliktpotential und eine Angriffigkeit gegenüber Vorgesetzten und Kollegen
+zum Selbstschutz vorhanden. In ihrer angestammten Tätigkeit sei die Klägerin
+zu 50 % arbeitsunfähig. Entsprechend attestierte
+Dr. med. R.______, RAD-Arzt, der Klägerin am 20. August 2013 eine
+50%ige Arbeitsunfähigkeit in der angestammten wie auch in einer angepassten
+Tätigkeit. Vom 10. September 2013 bis am 30. September 2013 war die
+Klägerin vollständig arbeitsunfähig.
+6.2.2
+Aus vorstehenden Ausführungen folgt, dass
+die Klägerin während ihrer Anstellungszeit bei G.______ zunächst während
+zweier Monate vollständig und während weiterer zweier Monate zu 70 %
+krankgeschrieben war. Sodann ist mit überwiegender Wahrscheinlichkeit davon
+auszugehen, dass die am Arbeitsplatz bei G.______ entstandene
+Konfliktsituation, welche zur Auflösung des Arbeitsverhältnisses führte, in
+der psychischen Erkrankung der Klägerin gründete. Denn es kann ohne Weiteres
+davon ausgegangen werden, dass die der Klägerin von deren behandelnden
+Therapeuten O.______ und P.______ attestierte eingeschränkte Teamfähigkeit,
+das erhöhte Konfliktpotential und die Angriffigkeit gegenüber Vorgesetzen und
+Kollegen Einfluss auf deren Verhalten am Arbeitsplatz zeigten und sich
+schliesslich in der dortigen Konfliktsituation realisierten. Zwar war die
+Klägerin im direkt anschliessend bei der I.______ eingegangenen
+Arbeitsverhältnis im Februar 2013 wie auch grösstenteils im März 2013 im
+Rahmen des vereinbarten Arbeitspensums von 60 % arbeitsfähig. Allerdings
+änderte sich dies Ende März 2013, als die Klägerin zunächst für zwei Tage
+vollständig und ab dem 8. April 2013 bis zur Beendigung des
+Arbeitsverhältnisses Ende Mai 2013 zu 50 bis 100 % krankgeschrieben war.
+Dass das Arbeitsverhältnis mit I.______ in der Folge während der Probezeit im
+gegenseitigen Einvernehmen aufgelöst worden war, ist ebenso auf die
+psychischen Beschwerden und die deswegen erfolgte Krankschreibung der
+Klägerin zurückzuführen. Denn es ist mit überwiegender Wahrscheinlichkeit
+davon auszugehen, dass es die psychischen Beschwerden der Klägerin im
+damaligen Zeitpunkt verunmöglichten, einer Arbeitstätigkeit nachzugehen.
+Nichts Anderes ergibt sich aus der Tatsache, dass die Klägerin ihre Anmeldung
+bei der Invalidenversicherung Ende April 2013 und damit während der
+Anstellungszeit bei I.______ vornahm. Daraus kann einzig geschlossen werden,
+dass die Klägerin einsehen musste, dass es ihr aufgrund ihres
+Gesundheitszustands nicht mehr möglich war, eine Arbeitstätigkeit im bisher
+gewohnten Umfang auszuüben. Damit übereinstimmend attestierten der
+behandelnde Arzt und der RAD-Arzt der IV-Stelle der Klägerin auch nach
+Beendigung ihres Arbeitsverhältnisses mit der I.______ im Sommer 2013 eine
+50%ige Arbeitsunfähigkeit insbesondere in ihrer angestammten Tätigkeit.
+Folglich ist eine
+Arbeitsunfähigkeit der Klägerin von mindestens 20 % zu der Zeit in
+Erscheinung getreten, als diese bei der Beklagten 2 vorsorgeversichert
+war. Daran ändert im Übrigen nichts, dass die IV-Stelle davon ausging, die
+Arbeitsunfähigkeit der Klägerin sei bereits im Jahr 2002 eingetreten. Denn
+die diesbezüglichen Ausführungen der IV-Stelle beziehen sich auf die Frage
+des Beginns des Wartejahres aufgrund der verspätet eingereichten IV-Anmeldung
+der Klägerin, weshalb diese für die Festlegung des Anspruchs auf eine Rente
+durch die IV-Stelle nicht entscheidend waren. Demnach besteht diesbezüglich
+keine Bindungswirkung (vgl. E. II/2.5 vorne).
+6.3
+6.3.1
+Der Anspruch auf Invalidenleistungen der
+beruflichen Vorsorge setzt weiter einen engen sachlichen und zeitlichen
+Zusammenhang zwischen der während der Dauer des Vorsorgeverhältnisses
+(einschliesslich der Nachdeckungsfrist nach Art. 10 Abs. 3 BVG)
+bestandenen Arbeitsunfähigkeit und der allenfalls erst später eingetretenen
+Invalidität voraus. Der Gesundheitsschaden, der zur Arbeitsunfähigkeit geführt
+hat, muss daher von der Art her im Wesentlichen derselbe sein, der der
+Erwerbsunfähigkeit zu Grunde liegt (BGE 134 V 20 E. 3.2).
+6.3.2
+Sowohl die Krankschreibung der Klägerin ab Oktober
+2012 bis im Frühjahr 2013 wie auch die später teilweise bzw. ganz
+eingetretene Invalidität der Klägerin gründen in ihrer psychischen
+Erkrankung, womit der sachliche Zusammenhang gegeben ist. Daran ändert
+nichts, dass der sachliche Zusammenhang auch zu der Zeit vorhanden war, als
+die Klägerin bei der Beklagten 1 vorsorgeversichert war. Denn es ist
+entscheidend, dass sich die Arbeitsunfähigkeit effektiv und konkret auf das
+Arbeitsverhältnis auswirkt, sich mit anderen Worten arbeitsrechtlich
+offenbart (vgl. BGer-Urteil B 7/06 vom 9. März 2007
+E. 4.2). Dies ist während der Versicherungszeit bei der Beklagten 2
+eingetreten (vgl. E. II/6.2.2 vorne), nicht jedoch zur Versicherungszeit bei
+der Beklagten 1, was das Bundesgericht in seinem Urteil vom
+7. September 2018 in vorliegender Sache einlässlich begründet hat und
+woran das Verwaltungsgericht gebunden ist.
+Es ist folglich mit
+überwiegender Wahrscheinlichkeit von einem engen sachlichen Zusammenhang
+zwischen der Arbeitsunfähigkeit der Klägerin ab Oktober 2012 und der heutigen
+Invalidität der Klägerin auszugehen. Zu prüfen bleibt, ob der zeitliche
+Zusammenhang zur Versicherungszeit bei der Beklagten 2 ebenfalls zu
+bejahen ist.
+6.4
+6.4.1
+Zwischen der während der Dauer des
+Vorsorgeverhältnisses bestandenen Arbeitsunfähigkeit und der später
+eingetretenen Invalidität wird auch ein zeitlicher Zusammenhang
+vorausgesetzt. Der Versicherte darf daher nach Eintritt der Arbeitsunfähigkeit,
+deren Ursache zur Invalidität geführt hat, nicht während längerer Zeit wieder
+voll arbeitsfähig gewesen sein. Bei der Prüfung dieser Frage sind die
+gesamten Umstände des konkreten Einzelfalls zu berücksichtigen, namentlich
+die Art des Gesundheitsschadens, dessen prognostische Beurteilung durch den
+Arzt sowie die Beweggründe, welche den Versicherten zur Wiederaufnahme oder
+Nichtwiederaufnahme der Arbeit veranlasst haben (BGer-Urteil 9C_340/2016 vom
+21. November 2016 E. 4.1). Der zeitliche Konnex zwischen der
+während des Vorsorgeverhältnisses eingetretenen Arbeitsunfähigkeit und der
+späteren Invalidität wird unterbrochen, wenn während mehr als drei Monaten
+eine Arbeitsfähigkeit von über 80 % in einer angepassten
+Erwerbstätigkeit gegeben ist (BGE 144 V 58 E. 4.4 f.).
+6.4.2
+Die Klägerin meldete sich erst am 25. April 2013
+und damit nach Beendigung des Arbeitsverhältnisses mit G.______ bei der
+Invalidenversicherung zum Leistungsbezug an. Somit bezog die Klägerin während
+ihrer Versicherungszeit bei der Beklagten 2 und damit insbesondere beim
+Eintritt in die Beklagte 2 im Mai 2010 noch keine Teilrente der
+Invalidenversicherung. Daher ist die bundesgerichtliche Rechtsprechung zum
+Beitritt Teilinvalider zu einer beruflichen Vorsorgeeinrichtung
+(vgl. BGE 123 V 262) vorliegend nicht einschlägig.
+Stattdessen liegt kein echtzeitliches Arztzeugnis bei den Akten, welches der
+Klägerin im Mai 2010 eine Arbeitsunfähigkeit attestieren würde, womit davon
+auszugehen ist, dass die Klägerin bei Aufnahme ihrer Arbeitstätigkeit für G.______
+vollständig erwerbsfähig war. Zwar hat die Klägerin auf dem
+Gesundheitsfragebogen der Beklagten 2 angegeben, in der Vergangenheit
+bereits an psychischen Problemen gelitten gehabt zu haben, was die
+Beklagte 2 dann auch dazu veranlasste, Abklärungen über den
+Gesundheitszustand der Klägerin zu treffen. Dabei stufte die leitende Ärztin
+Psychiatrie des Spitals Q.______, S.______, den psychischen Gesundheitszustand
+der Klägerin als stabil ein und verneinte die Frage nach der vorzeitigen
+Invalidität. Daher nahm die Beklagte 2 die Klägerin in der Folge
+vorbehaltlos in ihre Versicherung auf, was sie ihr entsprechend schriftlich
+zusicherte. Eine solche, in schriftlicher Form ergangene Aufnahmebestätigung
+einer Pensionskasse ist geeignet, zwischen den Parteien vorsorgerechtliche
+Wirkungen zu entfalten (vgl. BGer-Urteil B 101/02 vom
+22. August 2003 E. 4.4). Denn eine solche Bestätigung kann seitens
+der Klägerin nur so verstanden werden, dass die Beklagte 2 zusicherte,
+der Klägerin die bei ihr versicherten Leistungen bei Eintritt eines
+Versicherungsfalls zu entrichten, wozu eben auch Leistungen aus Invalidität
+gehören.
+6.4.3
+Nachdem die Klägerin während der Dauer des
+Arbeitsverhältnisses mit G.______ von Anfang Oktober 2012 bis Ende Januar
+2013 vollständig bzw. zu 70 % krankgeschrieben war, arbeitete sie
+für I.______ fast zwei Monate im vereinbarten 60 %-Pensum. Anschliessend
+wurde dieses Arbeitsverhältnis indessen von Krankschreibungen von
+50 – 100 % überlagert. Im Anschluss daran ist keine
+Wiederaufnahme einer neuen Erwerbstätigkeit im Jahr 2013 aktenkundig.
+Stattdessen ergibt sich aus den Akten, dass die Klägerin im Verlauf des
+Jahres 2013 abermals krankgeschrieben werden und sich aufgrund ihrer
+psychischen Probleme behandeln lassen musste. Überdies bezog sie ab Juni 2013
+Taggeldleistungen der Arbeitslosenversicherung, welchen ihr versicherter
+Verdienst im zuvor ausgeübten 60 %-Arbeitspensum zugrunde lag. Mitte August
+2014 nahm die Klägerin sodann eine neue, befristete Arbeitstätigkeit mit
+einem Arbeitspensum von 50 % auf, welche sie bis Ende Januar 2016
+ausübte. Parallel dazu wurde sie im August 2014 in einem kleinen Pensum von
+der K.______ angestellt. Seit Juli 2016 besteht jedoch eine vollständige
+Arbeitsunfähigkeit der Klägerin in der angestammten wie auch in einer
+angepassten Tätigkeit, weshalb ihr seit 1. Oktober 2016 eine volle
+Invalidenrente der Invalidenversicherung zusteht.
+Aus obigen Ausführungen
+ergibt sich, dass die Klägerin nach dem Eintritt ihrer Arbeitsunfähigkeit
+zwar kurzzeitig Leistungen der Arbeitslosenversicherung bezogen sowie im
+August 2014 eine Arbeitsstelle in einem 50%-Pensum aufgenommen hat. Doch
+haben sich im Verlaufe dieser Zeit die psychischen Beschwerden der Klägerin
+verschlechtert, was zu deren Erwerbsunfähigkeit ab Juli 2016 führte. Die
+Klägerin war seit dem Eintritt ihrer Arbeitsunfähigkeit im Oktober 2012 zu
+keinem Zeitpunkt mehr voll bzw. in einem Umfang von mehr als 80 %
+erwerbstätig gewesen, sodass die zeitliche Konnexität zwischen der
+Arbeitsunfähigkeit und der daraus resultierenden Invalidität jedenfalls nicht
+unterbrochen wurde.
+6.5
+Zusammenfassend ist die Arbeitsunfähigkeit der
+Klägerin aufgrund ihrer psychischen Beschwerden während der bei der
+Beklagten 2 bestehenden Versicherungszeit arbeitsrechtlich in
+Erscheinung getreten. Da überdies der sachliche wie auch der zeitliche
+Zusammenhang zwischen der Erwerbsunfähigkeit und der daraus resultierenden
+Invalidität zu bejahen sind, steht der Klägerin ab 1. Oktober 2016 eine
+Invalidenrente, basierend auf einem Invaliditätsgrad von 100 %, der
+Beklagten  2 zu.
+7.
+Im Bereich der beruflichen
+Vorsorge anerkennt die bundesgerichtliche Rechtsprechung die Pflicht zur
+Entrichtung von Verzugszinsen bei einer verspäteten Überweisung von
+Freizügigkeitsleistungen sowie bei verspäteter Auszahlung eines
+Alterskapitals oder bei Invalidenrenten. Enthalten die Statuten keine
+Bestimmungen über die Höhe des Verzugszinses, beträgt dieser 5 % gemäss
+Art. 104 Abs. 1 des Obligationenrechts vom 30. März 1911 (OR). Der
+Beginn der Zinspflicht richtet sich nach Art. 105 Abs. 1 OR,
+wonach ein Schuldner, der mit der Entrichtung von Renten im Verzug ist, erst
+vom Tag der Anhebung der Betreibung oder der gerichtlichen Klage an
+Verzugszinsen zu bezahlen hat (BGE 119 V 131 E. 4a;
+Hans-Ulrich Stauffer, in Hans-Ulrich Stauffer/Basile Cardinaux [Hrsg.],
+Rechtsprechung des Bundesgerichts zur beruflichen Vorsorge, 4. A.,
+Zürich/Basel/Genf 2019, S. 108). Die Klägerin reichte die vorliegend zu
+beurteilende Klage am 20. Mai 2016 (Datum der Postaufgabe) ein. Allerdings
+besteht der Anspruch der Klägerin gegen die Beklagte 2 auf Ausrichtung
+einer ganzen Rente erst seit dem 1. Oktober 2016, weshalb von diesem
+Zeitpunkt an Verzugszinsen in der Höhe von 5 % (Art. 104
+Abs. 1 OR) geschuldet sind.
+8.
+Dies führt zur Abweisung
+der gegen die Beklagte 1 erhobenen Klage. Die Klage gegen die
+Beklagte 2 ist hingegen gutzuheissen und der Klägerin ist ab 1. Oktober
+2016 eine Invalidenrente basierend auf einem Invaliditätsgrad von 100 %,
+zuzüglich Zins zu 5 % seit 1. Oktober 2016, zuzusprechen. Die Sache ist
+an die Beklagte 2 zur betragsmässigen Festsetzung der Invalidenrente zu
+überweisen.
+III.
+1.
+Die Klägerin hat die von
+ihr gestellten Gesuche um Gewährung der unentgeltlichen Prozessführung und
+der unentgeltlichen Rechtsverbeiständung zurückgezogen, weshalb diese als
+durch Rückzug erledigt abzuschreiben sind.
+2.
+Die Gerichtskosten sind
+von Gesetzes wegen auf die Staatskasse zu nehmen (Art. 73 Abs.
+BVG). Sodann hat die obsiegende Klägerin gemäss Art. 138 Abs. 3 lit. a VRG zu
+Lasten der Beklagten 2 einen Anspruch auf eine angemessene
+Parteientschädigung in der Höhe von Fr. 3'000.-
+(inkl. Mehrwertsteuer).
+Demgemäss beschliesst die Kammer:
+Die
+Gesuche der Klägerin um Gewährung der unentgeltlichen Prozessführung und
+unentgeltlichen Rechtsverbeiständung werden als durch Rückzug erledigt
+abgeschrieben.
+und erkennt sodann
+:
+1.
+Die
+Klage gegen die Beklagte 1 wird abgewiesen.
+2.
+Die
+Klage gegen die Beklagte 2 wird gutgeheissen. Die Beklagte 2 wird
+verpflichtet, der Klägerin ab 1. Oktober 2016 eine Invalidenrente basierend
+auf einem Invaliditätsgrad von 100 %, zuzüglich Zins zu 5 % seit
+1. Oktober 2016, zu bezahlen. Zur betragsmässigen Festsetzung der
+Invalidenrente wird die Sache an die Beklagte 2 überwiesen.
+3.
+Die
+Gerichtskosten werden auf die Staatskasse genommen.
+4.
+Die
+Beklagte 2 wird verpflichtet, der Klägerin innert 30 Tagen nach
+Rechtskraft dieses Entscheids eine Parteientschädigung von Fr. 3'000.-
+(inkl. Mehrwertsteuer) zu bezahlen.
+5.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
