@@ -1,0 +1,800 @@
+---
+decision_id: "gl_gerichte_VG.2020.00061"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2020.00061"
+docket_2: "VG.2021.1057"
+decided: "2021-06-24"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1471&W10_KEY=218274&nTrefferzeile=3&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/700/art-001.md", "switzerland/bund/acts/700/art-002.md", "switzerland/bund/acts/700/art-006.md", "switzerland/bund/acts/700/art-018.md", "switzerland/bund/acts/700/art-024.md", "switzerland/bund/acts/814.01/art-010a.md", "switzerland/bund/acts/814.011/art-004.md", "switzerland/bund/acts/814.011/art-005.md", "switzerland/bund/acts/922.31/art-003.md", "switzerland/bund/acts/922.31/art-005.md", "switzerland/bund/acts/922.31/art-006.md"]
+---
+
+# GL Gerichte VG.2020.00061
+
+## Regeste
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+## Text
+
+Glarus Verwaltungsgericht 24.06.2021 VG.2020.00061 (VG.2021.1057)
+Glaris Verwaltungsgericht 24.06.2021 VG.2020.00061 (VG.2021.1057)
+Glarona Verwaltungsgericht 24.06.2021 VG.2020.00061 (VG.2021.1057)
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+24. Juni 2021
+I. Kammer
+in Sachen
+VG.2020.00061
+1.
+WWF Schweiz
+Beschwerdeführer
+2.
+WWF Sektion Glarus
+3.
+Pro Natura -
+Schweizerischer Bund für Naturschutz
+4.
+Pro Natura Glarus
+5.
+Schweizerischer
+Vogelschutz SVS/BirdLife Schweiz
+6.
+BirdLife Glarnerland
+alle vertreten durch Rechtsanwalt A.______
+gegen
+1.
+Sportbahnen Elm AG
+Beschwerdegegner
+vertreten durch Rechtsanwältin B.______
+2.
+Gemeinde Glarus Süd
+3.
+Departement Bau und
+Umwelt des Kantons Glarus
+und
+Regierungsrat des Kantons
+Glarus
+Beigeladener
+betreffend
+Ausbau Beschneiungsanlagen "Futuro"
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Die Sportbahnen Elm AG plant, die im Skigebiet Elm
+bereits bestehenden Beschneiungsanlagen auszubauen. Dazu sollen im Rahmen des
+Bauprojekts "Futuro" in den beiden Pistenbereichen Pleus und
+Empächli sowie im Bereich der Talabfahrt Beschneiungsaggregate installiert
+und am Sernf eine Wasserfassung samt dazugehöriger Wasser- und Stromleitungen
+sowie Pumpstationen erstellt werden. Sodann sollen verschiedene
+Pistenkorrekturen umgesetzt werden. Zu diesem Zweck reichte die Sportbahnen
+Elm AG bei der Gemeinde Glarus Süd am 13. September 2019 das entsprechende
+Baugesuch ein. Ebenso stellte sie gleichentags das Gesuch um Erteilung einer
+Ausnahmebewilligung für Bauten ausserhalb der Bauzone, das Gesuch um
+Erteilung eines Näherbaurechts an den Wald, das Gesuch um Eingriffe in die
+Ufervegetation oder Biotope, das Gesuch für die Verbauung von Fliessgewässern
+und das Gesuch für Bauten im Gewässerabstandsbereich oder innerhalb der
+Gewässerbaulinie.
+1.2
+Im Amtsblatt des Kantons Glarus vom 7. November
+2019 wurden das Baugesuch sowie das dazugehörige Rodungsgesuch öffentlich
+aufgelegt. Dagegen erhoben am 9. Dezember 2019 unter anderem der WWF
+Schweiz, der WWF Glarus, Pro Natura - Schweizerischer Bund für Naturschutz,
+Pro Natura Glarus, der Schweizerische Vogelschutz SVS/BirdLife Schweiz sowie
+BirdLife Glarnerland Einsprache.
+1.3
+Das Departement Bau und Umwelt erteilte am 13.
+Januar 2020 die Ausnahmebewilligung zur Unterschreitung des Strassenabstandes
+für bauliche Anlagen, am 6. Februar 2020 die Bewilligung für den Betrieb
+einer Beschneiungsanlage nach Art. 26 des Energiegesetzes vom 7. Mai
+2020 (EnG), die Bewilligung für eine Wasserentnahme sowie die
+Rodungsbewilligung und am 10. Februar 2020 die Bewilligung für ein
+Bauvorhaben ausserhalb der Bauzone und die Zustimmung zur Erteilung einer
+Ausnahmebewilligung nach Art. 60 des Raumentwicklungs- und Baugesetzes vom
+2. Mai 2010 (RBG), jeweils unter Auflagen. Am 28. Januar 2020 erteilte
+die Abteilung Jagd und Fischerei die Bewilligung nach Art. 8 des
+Bundesgesetzes über die Fischerei vom 21. Juni 1991 (BGF), ebenfalls
+unter Auflagen. Die Abteilung Umweltschutz und Energie erteilte sodann am 6.
+Februar 2020 die Ausnahmebewilligung für die Gewässerüberdeckung, die
+Bewilligung für die Entfernung von Ufervegetation, für Eingriffe in Biotope
+und die Verlegung eines Gewässers, die Bewilligung für Eingriffe in
+Grundwasserschutzzonen und in den besonders gefährdeten Gewässerschutzbereich
+Au sowie die Bewilligung zur Erstellung von Bauten im Grundwasser, jeweils
+unter Auflagen. Die Zustimmung nach Art. 16 Abs. 3 des Einführungsgesetzes
+zum Bundesgesetz über den Wald vom 7. Mai 1995 (EG WaG) erteilte die
+Abteilung Wald und Naturgefahren am 16. Januar 2020 unter Auflagen, während
+die Bewilligung für die Erstellung von Bauten und Anlagen im Wald vom
+7. Februar 2020 datiert. In der Folge wies die Gemeinde Glarus Süd am 5.
+März 2020 die erhobenen Einsprachen ab und erteilte die Baubewilligung unter
+Bedingungen und Auflagen.
+2.
+2.1
+Gegen den Baubewilligungsbeschluss des Gemeinderats
+Glarus Süd vom 5. März 2020 gelangten der WWF Schweiz, der WWF Glarus,
+Pro Natura - Schweizerischer Bund für Naturschutz, Pro Natura Glarus, der
+Schweizerische Vogelschutz SVS/BirdLife Schweiz sowie BirdLife Glarnerland
+mit Beschwerde vom 11. Mai 2020 an den Regierungsrat und beantragten die
+Aufhebung des Baubewilligungsentscheids; unter Kosten- und
+Entschädigungsfolgen. Dieser überwies die Angelegenheit am 3. Juni 2020
+dem Verwaltungsgericht zur Behandlung als Sprungbeschwerde.
+2.2
+Am 23. Juni 2020 verzichtete der Regierungsrat auf
+eine Stellungnahme, beantragte indessen die Abweisung der Beschwerde. Ebenso
+schloss die Gemeinde Glarus Süd am 3. Juli 2020 auf Beschwerdeabweisung;
+unter Kosten- und Entschädigungsfolgen. Gleichentags ersuchte das Departement
+Bau und Umwelt des Kantons Glarus ebenfalls um Abweisung der Beschwerde;
+unter Kostenfolge. Die Sportbahnen Elm AG beantragte am 17. August 2020
+die Abweisung der Beschwerde, soweit darauf einzutreten sei, sowie die
+Durchführung eines Augenscheins; unter Kosten- und Entschädigungsfolgen.
+2.3
+Mit Replik vom 26. Oktober 2020 hielten der WWF
+Schweiz, der WWF Glarus, Pro Natura - Schweizerischer Bund für Naturschutz,
+Pro Natura Glarus, der Schweizerische Vogelschutz SVS/BirdLife Schweiz sowie
+BirdLife Glarnerland an ihrer Beschwerde fest. Die Gemeinde Glarus Süd
+verzichtete am 16. November 2020 auf eine Duplik, während sich das
+Departement Bau und Umwelt am 27. November 2020 und die Sportbahnen
+Elm AG am 30. November 2020 erneut äusserten. Dabei hielten diese an
+ihren Rechtsbegehren fest, wobei die Sportbahnen Elm AG auf die
+Durchführung des beantragten Augenscheins ausdrücklich verzichtete.
+2.4
+Mit Eingabe vom 24. Dezember 2020 reichten der WWF
+Schweiz, der WWF Glarus, Pro Natura - Schweizerischer Bund für Naturschutz,
+Pro Natura Glarus, der Schweizerische Vogelschutz SVS/BirdLife Schweiz sowie
+BirdLife Glarnerland ihre Kostennote ein. Gleiches tat die Sportbahnen
+Elm AG am 6. Januar 2021, wozu sich der WWF Schweiz, der WWF
+Glarus, Pro Natura - Schweizerischer Bund für Naturschutz, Pro Natura Glarus,
+der Schweizerische Vogelschutz SVS/BirdLife Schweiz sowie BirdLife
+Glarnerland am 12. Januar 2021 erneut äusserten.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 79 Abs. 1
+RBG i.V.m. Art. 105 Abs. 1 lit. a des Gesetzes über die
+Verwaltungsrechtspflege vom 4. Mai 1986 (VRG) i.V.m. Art. 105 Abs.
+2 VRG zur Behandlung der vorliegenden Beschwerde zuständig. Da auch die
+übrigen Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde
+einzutreten.
+1.2
+1.2.1
+Mit der Verwaltungsgerichtsbeschwerde können gemäss
+Art. 107 Abs. 1 VRG Mängel des angefochtenen Entscheids oder des
+Verfahrens geltend gemacht werden: die unrichtige oder unvollständige
+Feststellung des rechtserheblichen Sachverhalts (lit. a) und die
+unrichtige Rechtsanwendung einschliesslich eines Missbrauchs des Ermessens
+(lit. b). Die Unangemessenheit des Entscheids kann gemäss Art. 107
+Abs.
+2 VRG
+nur ausnahmsweise
+geltend gemacht werden. Baurechtsstreitigkeiten, über welche das
+Verwaltungsgericht als zweite Beschwerdeinstanz entscheidet, fallen nicht
+unter die in Art. 107 Abs. 2 VRG aufgezählten Ausnahmefälle.
+1.2.2
+Vorliegend handelt es sich indessen um eine
+Sprungbeschwerde. Dabei hat der vorinstanzlich zuständige Regierungsrat
+(vgl. Art. 79 Abs. 2 lit. b RBG) im Einverständnis mit
+den Parteien darauf verzichtet, über die bei ihm anhängig gemachte
+Verwaltungsbeschwerde zu entscheiden und die Sache stattdessen zur Behandlung
+an das Verwaltungsgericht überwiesen. Dabei fällt für das Verwaltungsgericht
+ins Gewicht, dass der Regierungsrat die Sache mit voller Kognition überprüft
+hätte (Art. 104 Abs. 1 VRG). Im gleichen Sinne hält Art. 33
+Abs. 3 lit. b des Bundesgesetzes über die Raumplanung vom 22. Juni 1979 (RPG)
+fest, dass bei Verfügungen, welche sich auf das RPG oder dessen kantonalen
+und eidgenössischen Ausführungsbestimmungen stützen, die volle Überprüfung
+durch wenigstens eine (kantonale) Beschwerdebehörde gewährleistet sein muss.
+Da vorliegend insbesondere die Erteilung einer Ausnahmebewilligung gestützt
+auf Art. 24 RPG Verfahrensgegenstand bildet und überdies keine andere
+kantonale Beschwerdeinstanz die vorliegende Streitsache beurteilt, kommt dem
+Verwaltungsgericht ausnahmsweise volle Kognition zu. Folglich darf es auch die
+Unangemessenheit des vorliegenden Entscheids überprüfen (Bernhard
+Waldmann/Peter Hänni, Kommentar zum Raumplanungsgesetz des Bundes, Bern 2006,
+Art. 33 N. 64; vgl. auch BGer-Urteil 1C_278/2018 vom
+20. Februar 2019 E. 3.5).
+2.
+2.1
+Der Beschwerdegegner 3 erteilte für die
+Umsetzung des Bauvorhabens "Futuro" eine Ausnahmebewilligung
+gestützt auf Art. 24 RPG. Diesbezüglich ist zwischen den Parteien strittig,
+ob der Beschwerdegegner 3 zu Recht eine Ausnahmebewilligung erteilte,
+oder ob das vorliegende Bauvorhaben ein separates Sondernutzungsplanverfahren
+benötigt hätte. Wäre dies zu bejahen, würde dies ohne Weiteres zur
+Gutheissung der vorliegenden Beschwerde führen, ohne dass die restlichen
+Beschwerdepunkte weiter zu prüfen wären. Folglich ist in einem ersten Schritt
+näher darauf einzugehen.
+2.2
+2.2.1
+Die Beschwerdeführer machen geltend, in
+Skisportzonen seien höchstens punktuelle Beschneiungsanlagen zonenkonform.
+Für gross dimensionierte Bauprojekte wie das vorliegende sei hingegen eine
+projektbezogene Nutzungsplanung unumgänglich. Für das vorliegende Projekt
+bestehe eine Umweltverträglichkeitsprüfungspflicht, was ein gewichtiges Indiz
+dafür sei, dass dieses nur über den Weg der Nutzungsplanung realisiert werden
+könne. Damit übereinstimmend habe der Regierungsrat Luzern in einem ähnlich
+gelagerten Fall entschieden, dass Anlagen zur Beschneiung von mehr als
+5 Hektaren der Planungspflicht unterliegen würden. Dies müsse auch
+vorliegend gelten, sei doch vorgesehen, eine Fläche von 13,1 Hektaren zu
+beschneien. Überdies liege das Skigebiet Elm im Jagdbanngebiet Kärpf, dessen
+Schutzgedanken mit dem Ausbau des Skigebiets widersprochen werde. Damit
+würden Konflikte mit den dort lebenden störungsempfindlichen Tierarten
+hervorgerufen, welche auf planerischer Ebene zu lösen seien. Die
+Notwendigkeit des Nutzungsplanverfahrens ergebe sich sodann bereits daraus,
+dass vorgesehen sei, das Skigebiet aus dem Jagdbanngebiet Kärpf zu entlassen.
+2.2.2
+Die Beschwerdegegner 2 und 3 sind hingegen der
+Ansicht, das Bauvorhaben sei zonenkonform, liege es doch in der im
+Nutzungsplan festgelegten Skisportzone und im touristischen
+Intensiverholungsgebiet gemäss kantonalem Richtplan. Zwar bestehe eine
+Pflicht zum Einholen einer Umweltverträglichkeitsprüfung, doch obliege es dem
+Kanton, das für die Bewilligung des Projekts vorgesehene Verfahren zu
+bestimmen. Der Kanton Glarus habe das Baubewilligungsverfahren als
+massgebliches Verfahren festgelegt, was in seinem Ermessen liege. Sodann
+bestehe in anderen Kantonen wie beispielsweise im Kanton Graubünden eine
+Nutzungsplanpflicht erst bei einer Beschneiungsfläche von 15 bis
+20 Hektaren, sodass für das vorliegende Projekt zu Recht das
+Ausnahmebewilligungsverfahren durchgeführt worden sei.
+3.
+3.1
+Für die Errichtung von Bauten und Anlagen ausserhalb
+der Bauzone kann eine Ausnahmebewilligung erteilt werden, wenn der Zweck der
+Bauten oder Anlagen einen Standort ausserhalb der Bauzone erfordert (lit. a)
+und wenn keine überwiegenden Interessen entgegenstehen (lit. b; vgl. Art. 24
+RPG). Eine Ausnahmebewilligung benötigen sodann einzig Bauten ausserhalb der
+Bauzone, welche in der jeweils zugeteilten Zone nicht zonenkonform erstellt
+werden können (Rudolf Muggli, in Aemisegger et al., Praxiskommentar RPG:
+Bauen ausserhalb der Bauzone, Zürich/Basel/Genf 2017, Vorbemerkungen zu den
+Art. 24 ff. N. 30). Zuständig für die Erteilung von
+Ausnahmebewilligungen für Bauten ausserhalb der Bauzone ist der
+Beschwerdegegner 3 (Art. 24 RPG i.V.m. Art. 62 Abs. 2 RBG
+i.V.m. Art. 3 der Verordnung über den Vollzug der Raumentwicklungs- und
+Baugesetzgebung vom 7. Juni 2011).
+3.2
+Die Ausnahmebewilligung hat sich auf die vom
+Gesetzgeber umschriebenen Sonderfälle zu beschränken und darf weder
+Normenkorrektur betreiben noch die raumplanerische Ordnung des
+Nichtbaugebiets unterlaufen (Muggli, Vorbemerkungen zu den
+Art. 24 ff. N. 21). Denn für Bauten und Anlagen, welche ihrer
+Natur nach nur in einem Planungsverfahren angemessen erfasst werden können,
+darf keine Ausnahmebewilligung erteilt werden. Wann ein nicht zonenkonformes
+Vorhaben hinsichtlich seines Ausmasses und seiner Auswirkungen auf die
+Nutzungsordnung so gewichtig ist, dass es erst nach einer Änderung oder
+Schaffung eines Nutzungsplans bewilligt werden darf, ergibt sich aus der
+Planungspflicht (Art. 2 RPG), den Planungsgrundsätzen und -zielen (Art. 1 und
+3 RPG), dem kantonalen Richtplan (Art. 6 ff. RPG) sowie der Bedeutung des
+Projekts im Lichte der in Art. 4 und 33 f. RPG festgelegten
+Verfahrensordnung. Dabei fällt insbesondere ins Gewicht, dass einerseits das
+Planungsverfahren eine bessere und umfassendere Koordination aller
+raumbedeutsamen Interessen ermöglicht und dass sich andererseits die
+Standortauswahl aus einer bewussten Wahl der Planungsbehörde ergibt, die eine
+hinreichende Mitwirkung der Bevölkerung gewährleistet (Waldmann/Hänni, Art. 2
+N. 27).
+3.3
+In der Regel sind Anlagen, für welche eine
+Umweltverträglichkeitsprüfung nach Art. 10a ff. des Bundesgesetzes über
+den Umweltschutz vom 7. Oktober 1983 (USG) vorgeschrieben ist, nur auf dem
+Wege der Nutzungsplanung realisierbar (BGer-Urteil 1C_7/2012 vom 11. Juni
+2012 E. 2.4, mit Hinweisen). Weitere Indizien für eine Planungspflicht sind
+eine räumliche Ausdehnung von mehr als 5'000 m2; die Intensität der
+geplanten Nutzung und das Konfliktpotential bzw. der Abstimmungs- und
+Regelungsbedarf gegenüber anderen Nutzungen; oder der Bedarf nach einer
+aufwendigen Erschliessung (Christoph Jäger, in Alain Griffel et al.,
+Fachhandbuch öffentliches Baurecht, Zürich/Basel/Genf 2016, Rz. 3.107).
+Generell ausgeschlossen ist die Erteilung einer Ausnahmebewilligung für
+standortgebundene Bauten und Anlagen mit erheblichen Auswirkungen auf Raum,
+Erschliessung und Umwelt. Auch die Anpassung oder Erweiterung einer Baute
+oder Anlage muss diesfalls auf dem Planungsweg erfolgen (Muggli, Art. 24
+N. 46).
+3.4
+In Grenzfällen kommt den kommunalen und kantonalen
+Behörden bei der Beurteilung, ob ein Ausnahmebewilligungs- oder ein
+Nutzungsplanverfahren durchzuführen ist, indessen ein gewisses Ermessen zu
+(vgl. BGer-Urteil 1C_561/2016 vom 14. November 2017 E. 4.3). So hat das
+Bundesgericht in BGE 113 Ib 371 E. 5 erwogen, es habe zwar in einem
+früheren Urteil in der gleichen Sache nicht ausgeschlossen, dass das im
+Streit liegende Bauprojekt auch ohne Nutzungsplanverfahren gestattet werden könne.
+Wenn sich aber die zuständigen kommunalen und kantonalen Behörden für die
+Nutzungsplanrevision und nicht für das Ausnahmebewilligungsverfahren
+entschieden hätten, sei dies mit Blick auf das Ausmass und die Auswirkungen
+der Anlage auf die Nutzungsordnung zu begrüssen (vgl. BGer-Urteil 1C_7/2012
+vom 11. Juni 2012 E. 2.3).
+3.5
+3.5.1
+Der Umweltverträglichkeitsprüfung unterstellt sind
+Anlagen, welche Umweltbereiche erheblich belasten können, so dass die
+Einhaltung der Vorschriften über den Schutz der Umwelt voraussichtlich nur
+mit projekt- oder standortspezifischen Massnahmen sichergestellt werden kann
+(Art. 10a Abs. 2 USG). Terrainveränderungen von mehr als 5'000 m2
+für Sportanlagen und Beschneiungsanlagen mit einer beschneibaren Fläche von
+mehr als 50'000 m2 unterliegen der Umweltverträglichkeitsprüfung
+(Art. 10a Abs. 3 USG i.V.m. Art. 4 der Verordnung über die
+Umweltverträglichkeitsprüfung vom 19. Oktober 1988 [UVPV] i.V.m.
+Ziffn. 60.3 f. Anhang UVPV). Das für die Prüfung massgebliche Verfahren
+bestimmt das kantonale Recht (Art. 5 Abs. 2 UVPV i.V.m.
+Ziffn. 60.3 Anhang UVPV). Die Kantone wählen dasjenige Verfahren, das
+eine frühzeitige und umfassende Prüfung ermöglicht (Art. 5 Abs. 3 Satz 2
+UVPV). Dabei ist jedoch die bundesgerichtliche Rechtsprechung, wonach für
+UVP-pflichtige Anlagen ausserhalb der Bauzone ein Sondernutzungsplanverfahren
+gewöhnlich zwingend ist, also unabhängig davon stattzufinden hat, ob das
+kantonale Recht für Anlagen des fraglichen Typs dieses Verfahren vorsieht, zu
+beachten (Alain Griffel/Heribert Rausch, Kommentar zum Umweltschutzgesetz,
+Ergänzungsband zur 2. Auflage, Zürich/Basel/Genf 2011, Art. 10a
+N. 15).
+3.5.2
+Gemäss Art. 11 des Einführungsgesetzes zum
+Bundesgesetz über den Umweltschutz vom 7. Mai 1989 (EG USG) i.V.m.
+Ziffn. 60.3 f. des Anhangs der Verordnung über die Durchführung der
+Umweltverträglichkeitsprüfung vom 25. März 1996 (kUVPV) ist das im
+Kanton Glarus massgebliche Verfahren für Terrainveränderungen von mehr als
+5'000 m2 für Sportanlagen und für Beschneiungsanlagen mit einer
+beschneibaren Fläche von mehr als 50'000 m2 das Baubewilligungsverfahren
+nach Art. 66 und 67 RBG.
+3.6
+3.6.1
+Skisportzonen (Wintersportzonen) dienen den
+Bedürfnissen des Skisports (Freihaltung des Geländes, spezifische
+Infrastrukturen). Sie verfolgen keine auf Siedlungszwecke ausgerichtete
+Nutzung, weshalb sie als Nichtbauzone einzustufen sind. Daher sind in
+Skisportzonen nach Bundesrecht ausschliesslich Bauten und Anlagen
+zonenkonform, welche unmittelbar dem Skisport dienen, beispielsweise eine Skipiste
+ohne grössere Geländeeingriffe, lokal begrenzte Terrainveränderungen, kleine
+Kunstbauten oder punktuelle Beschneiungsanlagen. Für gross dimensionierte
+Bauten und Anlagen ist in Skisportzonen eine projektbezogene
+Sondernutzungsplanung wohl unumgänglich; für kleinere Bauten genügt eine
+spezielle Prüfung der Voraussetzungen nach Art. 24 RPG.
+Sondernutzungszonen nach Art. 18 Abs. 1 RPG können auch ausserhalb von
+Bauzonen für die Verwirklichung konkreter Bauvorhaben erlassen werden und die
+Rahmennutzungsordnung abändern (projektbezogene Sondernutzungsplanung mit
+Verfügungscharakter). Sondernutzungspläne sollten – im Unterschied zur
+Rahmennutzungsplanung – detailliert aufzeigen, wo im erfassten Gebiet welche
+Nutzung vorgesehen ist (Standort, konkrete Ausgestaltung, Erschliessung).
+Zudem ist eine umfassende Koordination und Abwägung aller räumlichen
+bzw. entgegenstehenden Interessen (vor allem des Landschafts- und des
+Naturschutzes) nötig. Ein Detailnutzungsplan ist für neue Skipisten, Bauten
+und Anlagen (beispielsweise Gipfelrestaurant, Aussichtsturm,
+Beschneiungsanlagen) angezeigt, falls deren Errichtung weiträumige
+Geländeeingriffe, grossdimensionierte Kunstbauten oder umfangreiche
+Lawinenschutzverbauungen bedingt. Dasselbe gilt für grossflächige Terraineingriffe
+und Beschneiungsanlagen bei bestehenden Skipisten. Es handelt sich um
+Vorhaben, welche in (Rahmennutzungs-) Skisportzonen nicht zonenkonform sind
+(Michael Bütler, Erschliessung und Ausbau von Skigebieten aus rechtlicher
+Sicht, in URP 2010, S. 417 ff.). Folglich genügt die Schaffung einer
+Skisportzone in einem Rahmennutzungsplan nicht, um gestützt darauf wichtige
+neue Beschneiungsanlagen zu bewilligen. Solche Anlagen können bedeutende
+Auswirkungen auf die Raumplanung und die Umwelt haben. Für diesen Fall
+erfordert die Planungspflicht gemäss Art. 2 RPG, die Interessenabwägung im
+Rahmen einer Sondernutzungsplanung vorzunehmen (URP 2005 S. 696 ff.
+mit Verweis auf BGer-Urteil 1A.185/2004 vom 25. Juli 2005 E. 2.4,
+siehe auch Waldmann/Hänni, Art. 18 N. 31).
+3.6.2
+Nach Art. 20 lit. f RBG können die
+Grundnutzungszonen nach Art. 19 RBG mit Zonen für Skiabfahrt- und
+Skiübungsgelände überlagert werden. Diese dienen der Freihaltung von Gelände
+für die Ausübung des Skisports (Art. 29 der Bauverordnung vom 23. Februar
+2011 [BauV]). Gemäss Art. 5 der Bauordnung Elm vom 27. November
+1998 (BO) dient die Zone 10 der Freihaltung des für Skipisten und Loipen
+geeigneten Geländes gegen Verbauung. Die Gebiete sind von jeglichen
+Überbauungen oder Vorrichtungen, die die Sicherheit und flüssige Führung der
+Skipisten beeinträchtigen können, freizuhalten. Die Loipen sind möglichen
+Überbauungen und Wegen anzupassen. Ebenso sind Ersatzbauten und neue
+standortgebundene Bauten und Anlagen gestattet.
+4.
+4.1
+Gemäss dem vom Bundesrat
+genehmigten kantonalen Richtplan 2004 liegt das Skigebiet Elm wie auch das
+vorliegend zu beurteilende Bauvorhaben im touristischen
+Winter-Intensivgebiet. Darin wird eine intensive Erholungsnutzung mit den
+notwendigen touristischen Anlagen angestrebt. Innerhalb dieser Gebiete
+scheiden die Gemeinden in Abwägung der lokal vorhandenen Raumansprüche Zonen
+aus, in denen touristische Bauten und Anlagen erstellt werden können (L2-1
+kantonaler Richtplan 2004). Überdies sind in diesen touristischen
+Winter-Intensivgebieten insbesondere Pistenskifahren und -snowboarden,
+touristische Transportanlagen und Betriebsgebäude sowie Skilanglauf auf
+Loipen erwünscht (L2-1/1 kantonaler Richtplan 2004). Der kantonale Richtplan
+2004 wurde in der Zwischenzeit überarbeitet und es wurde der kantonale
+Richtplan 2018 erstellt. Dieser liegt zur Zeit zur Genehmigung beim Bund.
+Nicht Teil dieser Genehmigungseingabe bildet jedoch der Teil "T
+Tourismus und Freizeit". Darin wird das Skigebiet Elm weiterhin als
+touristisches Intensiverholungsgebiet ausgewiesen. Gemäss den Ausführungen im
+nicht in der Genehmigungseingabe enthaltenen kantonalen Richtplan 2018 im
+Bereich T2, Abschnitt A, Ausgangslage, sind die Intensiverholungsgebiete
+bezüglich Angebot, Betrieb und Komfort auf die sich verändernden
+Gästebedürfnisse auszurichten und laufend zu optimieren (Bereitstellung
+zeitgemässer Anlagen, beschneite Pisten, optimierte Einstiegsmöglichkeiten,
+Infrastrukturen für Sommer).
+4.2
+Die Ortsgemeinde Elm hat das Skigebiet Elm in ihrem
+Nutzungsplan grösstenteils der Landwirtschafts- und der Waldwirtschaftszone
+zugeteilt. Diese wird in den allermeisten Pisten-Bereichen durch die
+Zone 10, Skipisten, Skirennpisten, Loipen gemäss Art. 5 BO
+überlagert. Sodann befindet sich das Skigebiet Elm, mit Ausnahme von ungefähr
+einem Viertel des untersten Bereichs der Talabfahrt, im Jagdbanngebiet Kärpf.
+5.
+5.1
+Der Beschwerdegegner 3 stufte das vorliegende
+Bauvorhaben in seiner Bewilligung für ein Bauvorhaben ausserhalb der Bauzone
+vom 10. Februar 2020 als nicht zonenkonform ein. Dies begründete er
+insbesondere damit, dass in Art. 5 der BO keine Ausführungen zu den in
+der Zone 10 zulässigen und damit zonenkonformen Bauten zu finden seien.
+Daher könne für die in der Zone 10 geplanten Beschneiungsanlagen keine
+Zonenkonformität abgeleitet werden. Im Rahmen der Beschwerdeantwort vom
+3. Juli 2020 im vorliegenden Beschwerdeverfahren änderte er indessen
+seine Meinung und stellte sich auf den Standpunkt, in der im Nutzungsplan
+ausgewiesenen Skisportzone und dem im Richtplan festgelegten touristischen
+Intensiverholungsgebiet sei die Erstellung der geplanten Beschneiungsanlagen
+zonenkonform. Ebenso geht die Beschwerdegegnerin 1 von der
+Zonenkonformität des geplanten Bauvorhabens in der Zone 10 gemäss
+Art. 5 BO aus.
+5.2
+Das Bauvorhaben umfasst insbesondere die Erstellung
+von rund 150 neuen Beschneiungsschächten, an welche 110 bis 130 neue
+Beschneiungsaggregate angeschlossen werden sollen. Damit soll das bereits
+heute vorhandene Beschneiungssystem mit 70 Beschneiungsschächten und 23
+Schneeaggregaten ergänzt werden. Das für die geplante zusätzliche Beschneiung
+benötigte Wasser und der dafür notwendige Strom sollen mittels neu zu
+verlegender Leitungen, welche eine Gesamtlänge von rund 9,5 km ausmachen
+sollen, vom Tal ins Skigebiet gepumpt und zwischen den Beschneiungsschächten
+verteilt werden. Die Beschneiungsschächte und die Leitungen sind mehrheitlich
+entlang der bereits bestehenden Pisten im Skigebiet, entlang der Talabfahrt
+sowie im oberen Bereich der Schlittelbahn geplant. Für die Wasserversorgung
+der Beschneiungsanlage ist die Erstellung einer Wasserpumpe mit Pumpstation
+am Sernf sowie die Errichtung dreier weiterer Pumpstationen im Skigebiet
+vorgesehen. Sodann sollen Pistenkorrekturen von gesamthaft 18'928 m2
+sowie Rodungen von total 2'941 m2 umgesetzt werden.
+5.3
+Zwar befindet sich das Skigebiet Elm und damit auch
+die Umsetzung des geplanten Bauvorhabens gemäss Nutzungsplan Elm
+grossmehrheitlich in der überlagernden Zone 10, Skipiste, Skirennpiste,
+Loipen, und damit in einer (überlagernden) Skisportzone. Diese dient der
+Freihaltung des für die Ausübung des Skisports benötigten Geländes, sodass
+darin jegliche Überbauungen und Vorrichtungen, welche die sichere Führung der
+Skipisten beeinträchtigen können, unzulässig sind (vgl. Art. 5 BO
+und Art. 29 BauV). Daraus kann indessen nicht im Umkehrschluss
+geschlossen werden, jede der Sicherstellung des Pistenbestandes und damit der
+Sicherstellung des Skibetriebs dienende bauliche Anlage sei in der
+Zone 10 als zonenkonform einzustufen, zumal weder Art. 5 BO noch
+Art. 29 BauV die Erstellung von Beschneiungsanlagen samt aller
+dazugehöriger Einrichtungen als in der Zone 10 zonenkonforme Bauten
+umschreiben. Kein anderer Schluss lässt sich mit Blick auf den heute im
+Skigebiet Elm noch massgebenden kantonalen Richtplan 2004 ziehen, welcher
+zwar eine intensive Erholung mit den notwendigen touristischen Anlagen
+anstrebt. Darin sind gemäss den ausdrücklichen Ausführungen im Richtplantext
+Pistenskifahren und -snowboarden erwünscht, ebenso touristische
+Transportanlagen und Betriebsgebäude. Nicht erwähnt werden hingegen
+Beschneiungsanlagen und die dafür benötigte Infrastruktur (dies im Gegensatz
+zum für den Bereich Tourismus erst im Entwurf vorliegenden Richtplan 2018).
+Jedenfalls kann beim vorliegend geplanten Bauvorhaben nicht vom Errichten von
+punktuellen Beschneiungsanlagen oder lokal begrenzten Terrainveränderungen
+ausgegangen werden, sollen doch die bereits vorhandenen Beschneiungsaggregate
+ungefähr versechsfacht und die Beschneiungsschächte mehr als verdoppelt
+werden, wozu insbesondere eine umfassende Wasser- und Stromversorgung mit
+einem mehrere Kilometer langen Leitungssystem zu erstellen ist. Entsprechend
+hält auch die Beschwerdegegnerin 1 im Rahmen des Projektbeschriebs
+"Futuro" ausdrücklich fest, dass mit dem geplanten Bauvorhaben ihre
+Weiterexistenz gesichert werden solle, welche ohne dessen Umsetzung akut
+gefährdet sei. Daraus kann einzig der Schluss gezogen werden, dass es sich
+beim vorliegenden Bauvorhaben auch aus Sicht der Beschwerdegegnerin 1 um
+wichtige Beschneiungsanlagen handelt, wofür eine (überlagernde) Skisportzone
+im Rahmen einer Rahmennutzungsplanung ungenügend ist
+(vgl. E. II/3.6.1).
+5.4
+Sodann handelt es sich beim geplanten Bauvorhaben um
+einen umfassenden Ausbau eines Beschneiungssystems, welches die Beschneiung
+von zusätzlich 13,1 Hektaren Pistenfläche bezweckt. Weiter sollen
+Pistenkorrekturen von 18'928 m2 umgesetzt werden, sodass dieses
+unbestrittenermassen der UVP-Pflicht untersteht (Art. 10a Abs. 3
+USG i.V.m. Art. 4 UVPV i.V.m. Ziffn. 60.3 f. Anhang UVPV). Ferner
+ist es offensichtlich, dass bei der Umsetzung des geplanten Bauvorhabens
+umfangreiche Geländeeingriffe in einem Grossteil des Skigebiets Elm
+unumgänglich sind. So ist beispielsweise am Sernf eine Wasserfassung neu zu
+erstellen, wofür umfassende Bauarbeiten anfallen werden, wodurch der
+Wasserfluss wie auch die Bachumgebung am Sernf betroffen sein werden. Ebenso
+werden für die Erstellung der drei Pumpstationen, der bis zu 150
+Beschneiungsschächte und der dazugehörigen Leitungen umfangreiche
+Grabarbeiten nötig, wovon die gesamte Landschaft und die dort lebenden Tiere
+unweigerlich tangiert sein werden. Sodann liegt es in der Natur des
+vorliegenden Bauvorhabens, dass dieses grossmehrheitlich in unwegsamem
+Gelände umgesetzt werden soll, sodass die Bauplätze nicht über eine bereits
+bestehende Strassenerschliessung verfügen. Dementsprechend soll ein Grossteil
+der zu verlegenden Materialien auf dem Luftweg ins Baugebiet transportiert
+werden, was zu ungefähr 390 Helikopterrotationen führen soll. Ebenso werden
+die geplanten Pistenkorrekturen und Rodungen zu Geländeeingriffen führen.
+Schliesslich erfordert die Stromversorgung der geplanten Beschneiungsanlagen
+Ausbauten am Stromnetz zwischen Schwanden und Elm sowie die Erstellung neuer
+Transformatorenstationen in Elm, wozu weitere Bauarbeiten nötig sind.
+Diesbezüglich weisen die Technischen Betriebe Glarus Süd sogar daraufhin,
+dass bei den Beschneiungsanlagen zwischenzeitlich mit Leistungsreduktionen zu
+rechnen ist, um die Stromversorgung im Sernftal gewährleisten zu können.
+Ist das Bauvorhaben einmal
+umgesetzt, ist ebenfalls mit zusätzlichen Einwirkungen auf die Umgebung zu
+rechnen. So müssen die zu erstellenden Anlagen, Schächte und Leitungen
+unterhalten werden, wozu Personen die Anlagen, mehrheitlich mit den
+notwendigen Transportmitteln und den benötigten Unterhaltsmaterialien,
+aufsuchen werden. Ferner wird der Betrieb der Schneeaggregate unter anderem
+zu Lärmemissionen führen, welche insbesondere von den im Skigebiet Elm lebenden
+Wildtieren wahrgenommen werden. Schliesslich müssen die Schneeaggregate im
+Herbst installiert und im Frühling abtransportiert werden, was entsprechende
+Transporte auf dem Land- oder allenfalls auf dem Luftweg nötig machen wird.
+5.5
+5.5.1
+Weiter fällt ins Gewicht, dass sich das Skigebiet
+Elm und damit auch ein Grossteil des Bauvorhabens "Futuro" im
+Jagdbanngebiet Kärpf befinden. Die Zielsetzung des Jagdbanngebiets Kärpf
+besteht gemäss dessen Objektbeschreibung im Inventar der eidgenössischen Jagdbanngebiete
+in der Erhaltung des Gebiets als vielfältigen Lebensraum für wildlebende
+Säugetiere und Vögel, in der Regulierung der Rothirsch-, Gems- und
+Rehbestände zur Wildschadenverhütung in den Schutzwäldern, in der Erhaltung
+der Rauhfusshuhnbestände und im Schutz der wildlebenden Tiere vor Störung
+(vgl. Art. 2 der Verordnung über die eidgenössischen
+Jagdbanngebiete vom 30. September 1991 [VEJ]). Tiere dürfen im
+Banngebiet nicht gestört, vertrieben oder aus dem Banngebiet herausgelockt werden
+(Art. 5 Abs. 1 lit. b VEJ). In Jagdbanngebieten ist
+insbesondere das Skifahren ausserhalb der markierten Pisten, Routen und
+Loipen verboten (Art. 5 Abs. 1 lit. g VEJ).
+5.5.2
+5.5.2.1
+Das Bundesamt für Umwelt (BAFU) führte dazu in
+seiner Stellungnahme vom 12. Dezember 2019 einerseits aus, dass
+Helikopterflüge während der Bauphase aufgrund der damit einhergehenden
+Störung der Wildtiere so zurückhaltend wie möglich einzusetzen seien.
+Andererseits wies es daraufhin, dass die künstliche Beschneiung zu einer
+Intensivierung des Skibetriebs führe, indem sämtliche beschneiten Pisten von
+Saisonbeginn bis Saisonende zur Verfügung stehen und befahren würden (höhere
+Nutzungsfrequenz). Sodann würden durch die Beschneiung die ruhigen Zeiten im
+Spätherbst durch verstärkte menschliche Präsenz verkürzt. Weiter bleibe der
+Kunstschnee zwei bis drei Wochen länger liegen, wodurch sich der Beginn des
+Pflanzenwachstums verzögere. Daher werde die Intensivierung des Skibetriebs
+zu einer weiteren Beeinträchtigung der Winter-Kernlebensräume von
+störungsempfindlichen Arten führen. Es sei absehbar, dass es dadurch zu einer
+zusätzlichen Beeinträchtigung schutzwürdiger Lebensräume in einem
+Schutzgebiet von nationaler Bedeutung kommen werde, weshalb der Bau der
+Beschneiungsanlagen nicht vereinbar sei mit den Zielsetzungen des
+eidgenössischen Jagdbanngebiets Kärpf. Somit werde zum Projekt negativ
+Stellung genommen.
+5.5.2.2
+Die Abteilung Jagd und Fischerei des Kantons Glarus
+hielt am 29. Januar 2020 ebenfalls fest, die negativen Auswirkungen der mit
+dem geplanten Bauvorhaben angestrebten Intensivierung des Skibetriebs könnten
+nicht auf ein Niveau reduziert werden, welche mit den Schutzzielen des
+Jagdbanngebiets und damit mit der VEJ vereinbar seien. Dies gründe
+insbesondere in der zusätzlichen Störung der Wildtiere durch die verlängerte
+Saison wie auch in der latenten Gefahr von Variantenskifahrern abseits der
+Piste. Daran würden auch die verschiedenen Auflagen nichts ändern. Die Lage
+des Skigebiets Elm im Jagdbanngebiet Kärpf stelle auch für künftig notwendige
+Ausbauschritte des Tourismusgebiets rund um Elm einen kaum lösbaren Konflikt
+dar, weshalb eine Anpassung des Perimeters des Jagdbanngebiets unumgänglich
+sei.
+5.5.3
+Soweit sich die Beschwerdegegnerin 1 dennoch auf
+den Standpunkt stellt, das geplante Bauvorhaben werde zu keinen zusätzlichen
+Auswirkungen auf die Flora und Fauna im Jagdbanngebiet führen, ist ihr nicht
+zu folgen. Denn es erhellt sich dem Gericht nicht, aus welchen Gründen den
+vorstehenden, übereinstimmenden Ausführungen von sachverständigen
+Fachbehörden nicht zu folgen wäre, zumal diese ihre Ausführungen zu der zu
+erwartenden Nutzungsintensivierung nachvollziehbar begründen. Überdies weist
+auch der Umweltverträglichkeitsbericht verschiedentlich darauf hin, dass mit
+dem Bauprojekt "Futuro" dem Schutzgedanken des Jagdbanngebiets
+widersprochen werde. Zwar hält die Beschwerdegegnerin 1 im Grundsatz zu
+Recht fest, dass bereits mit dem heutigen Betrieb des Skigebiets Elm ein
+Konflikt mit den Interessen und den Zielsetzungen des eidgenössischen
+Jagdbanngebiets, insbesondere mit dem Schutz der wildlebenden Tiere vor
+Störungen, besteht. Denn bereits heute sind im Skigebiet Elm in den
+Wintermonaten unzählige Menschen zum Zwecke der Ausübung des Skisports und
+zum Zwecke des Unterhalts der verschiedenen Sportanlagen stark präsent und
+bereits heute besteht die latente Gefahr von Variantenskifahrern. Allerdings
+vermögen diese Tatsachen keine Intensivierung der bereits vorhandenen
+Störungen der Wildtiere im Jagdbanngebiet ohne Weiteres zu rechtfertigen, da
+sich nichts daran ändert, dass Störungen der Wildtiere im Jagdbanngebiet
+grundsätzlich zu unterlassen sind (BVGer-Urteil A-5459/2015 vom
+27. Dezember 2016 E. 6.3.3).
+5.5.4
+Sodann obliegt es dem Bund und den Kantonen, bei
+der Erfüllung ihrer Aufgaben dafür zu sorgen, dass die Schutzziele der
+Banngebiete nicht durch andere Nutzungen beeinträchtigt werden (Art. 6 Abs. 1
+VEJ). Dabei ist zu beachten, dass durch die Aufnahme eines Gebiets in ein
+Jagdbanngebiet und damit in ein Inventar des Bundes von nationaler Bedeutung
+dieses unter Einbezug von Wiederherstellungs- oder angemessener
+Ersatzmassnahmen die grösstmögliche Schonung verdient
+(BGE 134 II 97 E. 3.5.2).
+In diesem Zusammenhang
+haben sowohl der Beigeladene wie auch die Beschwerdegegner 2 und 3 erkannt,
+dass der Schutzgedanke des Jagdbanngebiets mit dem Betrieb des Skigebiets Elm
+nicht vereinbar ist. Daher sind sie in Zusammenarbeit mit dem BAFU darum
+bemüht, das Skigebiet Elm aus dem Jagdbanngebiet Kärpf zu entlassen. Im
+Rahmen dieser Abklärungen hat sich ergeben, dass das Skigebiet Elm eine
+Gesamtfläche von fast 10 % des Jagdbanngebiets Kärpf umfasst, womit eine
+Entlassung nur unter gleichzeitiger Aufnahme einer gleich grossen
+Ersatzfläche möglich ist (vgl. Art. 3 lit. b VEJ). Zurzeit ist
+die allenfalls neu ins Jagdbanngebiet aufzunehmende Ersatzfläche noch nicht
+bestimmt, sodass im jetzigen Zeitpunkt eine Entlassung des Skigebiets Elm
+unter gleichzeitiger Neuaufnahme einer Ersatzfläche nicht absehbar ist.
+Dennoch erteilte der Beschwerdegegner 3 die Ausnahmebewilligung für die
+Umsetzung des Bauvorhabens "Futuro", was dazu führen würde, dass
+die im Jagdbanngebiet lebenden Wildtiere auf unbestimmte Zeit in ihren
+Lebensräumen gestört würden. Dies steht dem Schutzgedanken des Jagdbanngebiets
+Kärpf diametral entgegen, worauf der Beschwerdegegner 3 selber hinweist.
+Somit würde mit diesem Vorgehen der bestehende Konflikt zwischen den
+Zielsetzungen des Jagdbanngebiets und der touristischen Nutzung weiter
+verschärft, ohne dass eine Lösung dieses Konflikts bereitstehen und umgesetzt
+werden könnte. Zusammenfassend bleibt festzuhalten, dass auch die Interessen
+des Tier- und Jagdschutzes vom vorliegend geplanten Bauvorhaben betroffen
+sind.
+5.6
+Ferner ergibt sich aus dem
+Umweltverträglichkeitsbericht, dass verschiedene schützenswerte Lebensräume
+im Baugebiet liegen, womit der Naturschutz tangiert wird. Darüber hinaus
+werden durch die Erstellung der Wasserfassung am Sernf und das Pumpen des
+Sernfwassers in das Skigebiet Eingriffe in Gewässer und Gewässerschutzzonen
+nötig werden, womit die Interessen des Gewässerschutzes betroffen sind.
+Gleiches zeigen die verschiedenen, für die Umsetzung des Bauprojekts
+benötigten Ausnahmebewilligungen und die darin festgelegten umfassenden
+Auflagen. Daraus kann einzig der Schluss gezogen werden, dass die Umsetzung
+des vorliegenden Bauvorhabens wie auch der daran anschliessende Betrieb des
+Skigebiets Elm bedeutende Auswirkungen auf die Umwelt und die Raumplanung
+haben.
+Folglich ist das
+Bauvorhaben in der (überlagernden) Zone 10 gemäss Art. 5 BO als
+nicht zonenkonform einzustufen, weshalb es eine projektbezogene
+Sondernutzungsplanung benötigt, in welcher alle aus dem Bauprojekt
+resultierenden Auswirkungen zu erfassen und gegeneinander abzuwägen sind
+(vgl. E. II/3.6.1 vorne). Daran ändert auch die Tatsache nichts,
+dass für die Neuerstellung der Gondelbahn ins Ämpächli im Jahr 2002 eine
+Konzession des eidgenössischen Departements Umwelt, Verkehr, Energie und
+Kommunikation erteilt worden war, kommt doch der seilbahnrechtlichen Plangenehmigung
+der Charakter eines Sondernutzungsplans zu (Bütler, S. 419).
+5.7
+Im Übrigen weisen die Beschwerdegegner schliesslich
+zwar zu Recht darauf hin, dass Art. 11 EG USG i.V.m. Ziffn. 60.3 f.
+Anhang kUVPV das Baubewilligungsverfahren als massgebendes Verfahren
+bezeichnet. Allerdings müssen dabei die im Bundesrecht verankerten
+Raumplanungsgrundsätze beachtet werden. Denn gestützt auf diese im kantonalen
+Verordnungsrecht vorgesehene Bestimmung kann die im RPG gründende
+Notwendigkeit einer Sondernutzungsplanung für das vorliegende Bauvorhaben
+nicht umgangen werden (vgl. Art. 49 der Bundesverfassung der
+Schweizerischen Eidgenossenschaft vom 18. April 1999 [BV];
+vgl. E. II/3.5.1 vorne).
+5.8
+Der Beschwerdegegner 3 hat mit dem von ihm
+gewählten Vorgehen der Erteilung einer Ausnahmebewilligung im
+Baubewilligungsverfahren für das Bauvorhaben "Futuro" ein Verfahren
+gewählt, welches den raumplanerischen Grundsätzen von Art. 1 ff.
+RPG und insbesondere der Planungspflicht gemäss Art. 2 RPG widerspricht.
+Ist aufgrund der einschlägigen Gesetzesgrundlagen im RPG erstellt, dass ein
+Sondernutzungsplanverfahren durchzuführen ist, steht es dem
+Beschwerdegegner 3 nicht zu, ein anderes Verfahren zu wählen, da er
+damit Bundesrecht verletzt. Somit hat der Beschwerdegegner 3 Ermessen
+ausgeübt, obwohl ihm keines zukam, was eine Rechtsverletzung darstellt, zu
+deren Überprüfung das Verwaltungsgericht berechtigt ist (
+vgl. Ulrich Häfelin/Georg Müller/Felix Uhlmann,
+Allgemeines Verwaltungsrecht, 8. A., Zürich/St. Gallen 2020, Rz. 437,
+442).
+5.9
+Dies führt zur Gutheissung der Beschwerde. Der
+Baubewilligungsentscheid der Beschwerdegegnerin 2 vom 5. März 2020
+sowie alle damit koordiniert eröffneten Bewilligungen sind aufzuheben. Das
+Projekt "Futuro" ist zu überarbeiten und im Rahmen eines
+projektbezogenen Sondernutzungsplanverfahrens unter Mitwirkung der
+Bevölkerung zu erlassen.
+III.
+1.
+Nach Art. 134 Abs. 1 lit.
+c VRG hat die Partei, welche im Beschwerde-, Klage- oder Revisionsverfahren
+unterliegt, die amtlichen Kosten zu tragen. Da weder der
+Beschwerdegegnerin 2 noch dem Beschwerdegegner 3 Kosten auferlegt
+werden können und der Beigeladene sich am vorliegenden Verfahren überdies
+nicht beteiligt hat (Art. 135 Abs. 1 und Abs. 2 VRG, Art. 16 Abs. 3
+VRG), sind die Gerichtskosten von pauschal Fr. 2'500.- ausgangsgemäss
+der Beschwerdegegnerin 1 aufzuerlegen. Den Beschwerdeführern ist der von
+ihnen geleistete Kostenvorschuss in der Höhe von Fr. 2'500.-
+zurückzuerstatten.
+2.
+2.1
+Soweit in einem Beschwerdeverfahren Parteien mit
+gegensätzlichen Interessen beteiligt sind, kann gemäss Art. 138 Abs. 2 VRG
+der obsiegenden Partei zu Lasten jener, die unterliegt oder ihr Begehren
+zurückzieht, eine angemessene Parteientschädigung zugesprochen werden. Sodann
+erhalten Parteien zu Lasten der Vorinstanz eine angemessene
+Parteientschädigung, wenn sie im Verwaltungsgerichtsbeschwerdeverfahren
+obsiegen (Art. 138 Abs. 3 lit. a VRG). Die Aufteilung unter mehreren
+entschädigungspflichtigen Parteien geschieht nach Art. 137 Abs. 1
+VRG (Art. 138 Abs. 2 Satz 2 VRG).
+2.2
+Aus dem Umstand, dass nur eine "angemessene
+"
+Parteientschädigung zuzusprechen
+ist, leitet das Verwaltungsgericht in ständiger Praxis ab, dass die
+Parteientschädigung in der Regel nicht sämtliche erforderlichen Kosten
+umfasst, die einer Partei entstanden sind, sondern nur einen Teil des nötigen
+Prozessaufwands. Im Übrigen hat die entschädigungsberechtigte Partei ihren
+notwendigen Aufwand selber zu tragen. Dabei wird davon ausgegangen, dass es
+der entschädigungsberechtigten Partei grundsätzlich zuzumuten ist, für einen
+Teil ihrer erforderlichen Kosten selber aufzukommen (zur vergleichbaren Rechtslage
+im Kanton Zürich: Kaspar Plüss, in Alain Griffel [Hrsg.], Kommentar zum
+Verwaltungsrechtspflegegesetz des Kantons Zürich, 3. A.,
+Zürich/Basel/Genf 2014, § 17 N. 80).
+Nach welchen Kriterien die
+Parteientschädigung zuzusprechen ist, regelt das anwendbare
+Verwaltungsprozessrecht nicht. In der Regel dürfte es naheliegen, sinngemäss
+die Regeln über die Bemessung der Spruchgebühren heranzuziehen. Gemäss
+§ 7 Abs. 2 der Verordnung über amtliche Kosten im
+Verwaltungsverfahren und in der Verwaltungsrechtspflege vom 24. Juni
+1987 (KoV)
+bemisst sich die
+Spruchgebühr nach dem Arbeits- und Zeitaufwand der entscheidenden Behörde
+(für die Parteientschädigung ist der Arbeits- und Zeitaufwand des
+Rechtsvertreters massgebend), der Bedeutung und Schwierigkeit der Sache sowie
+nach den für die Parteien auf dem Spiele stehenden Vermögens- oder sonstigen
+Interessen an der Angelegenheit
+(VGer-Urteil VG.2010.00105 vom 27. Februar 2020 E. III/2, nicht
+publiziert; VG.2018.00079 vom 8. November 2018 E. III/2.2,
+VG.2016.00111 vom 29. Juni 2017 E. III/2.1, VG.2016.00039 vom
+26. Januar 2017 E. III/1.2).
+2.3
+Der
+Rechtsvertreter der Beschwerdeführer reichte dem Verwaltungsgericht seine
+Honorarnote im Gesamtbetrag von Fr. 20'292.06 ein.
+Reicht
+ein Rechtsvertreter eine Honorarnote ein oder legt er anderswie dar, wie hoch
+sein Aufwand war, folgt aus dem Anspruch auf rechtliches Gehör gemäss
+Art. 29 Abs. 2 BV, dass die Behörde verpflichtet ist, zu begründen,
+weshalb sie die Höhe der zugesprochenen Parteientschädigung als angemessen erachtet.
+Mit anderen Worten darf sie sich in einem derartigen Fall nicht damit
+begnügen, ohne nähere Begründung eine "angemessene
+Parteientschädigung" zuzusprechen (Plüss, § 17 N. 87). Im
+Gegensatz zur Bemessung der Entschädigung des unentgeltlichen Rechtsbeistands
+müssen aber weder der Zeitaufwand noch der Stundenansatz genau beziffert
+werden, sondern es genügt, wenn die Parteientschädigung unter
+Berücksichtigung der dargelegten Kriterien in pflichtgemässer
+Ermessensausübung festgesetzt wird (
+VGer-Urteil
+VG.2018.00079 vom 8. November 2018 E. III/5.2;
+vgl. Urteil
+des Verwaltungsgerichts des Kantons Zürich VB.2009.00126 vom 8. Juli
+2009 E. 5.2.2, www.vgr.zh.ch).
+Die Streitsache ist für die Parteien nicht unerheblich,
+kommt doch den Beschwerdeführern im Rahmen deren ideellen Zwecks ein nicht
+unwesentliches Interesse zu, welches jedoch nicht vermögensrechtlicher Natur
+ist. Indessen beschränkte sich das Verfahren auf die Frage der Notwendigkeit
+einer Sondernutzungsplanung, welche nicht als überaus komplexe Frage
+einzustufen ist.
+Sodann ist zu
+berücksichtigen, dass ein doppelter Schriftenwechsel durchgeführt wurde,
+wobei die Replik der Beschwerdeführer einige Wiederholungen enthält.
+Angesichts all dieser Umstände erscheint eine Parteientschädigung in der Höhe
+von Fr. 6'000.- (inkl. Mehrwertsteuer) als angemessen. Diese ist
+von den unterliegenden Beschwerdegegnern 1 bis 3 zu gleichen Teilen in
+der Höhe von je Fr. 2'000.- zu tragen. Da sich der Beigeladene am
+Verfahren nicht beteiligte, wird er nicht entschädigungspflichtig
+(Art. 16 Abs. 3 VRG).
+2.4
+Den Beschwerdegegnern 2 und 3 ist mangels Obsiegens
+keine Parteientschädigung zuzusprechen, zumal auch keine besonderen Umstände
+ersichtlich sind, welche dies rechtfertigen würden (Art. 138 Abs. 2 VRG und
+138 Abs. 4 VRG e contrario).
+Demgemäss erkennt die Kammer
+:
+1.
+Die Beschwerde wird im Sinne der Erwägungen
+gutgeheissen. Der Baubewilligungsentscheid der Beschwerdegegnerin 2 vom
+5. März 2020 sowie
+alle damit
+koordiniert eröffneten Bewilligungen
+werden
+aufgehoben.
+2.
+Die Gerichtskosten von Fr. 2'500.- werden der
+Beschwerdegegnerin 1 auferlegt und von ihr bezogen. Der von den
+Beschwerdeführern geleistete Kostenvorschuss von Fr. 2'500.- wird ihnen
+zurückerstattet.
+3.
+Die Beschwerdegegner 1 bis 3 werden verpflichtet, den
+Beschwerdeführern innert 30 Tagen nach Rechtskraft des vorliegenden
+Entscheids eine Parteientschädigung von je Fr. 2'000.- (inkl.
+Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
