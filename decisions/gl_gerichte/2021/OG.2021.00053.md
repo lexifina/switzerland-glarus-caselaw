@@ -1,0 +1,768 @@
+---
+decision_id: "gl_gerichte_OG.2021.00053"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2021.00053"
+docket_2: "OGS.2021.140"
+decided: "2021-08-03"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1500&W10_KEY=218274&nTrefferzeile=10&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/101/art-005.md", "switzerland/bund/acts/101/art-009.md", "switzerland/bund/acts/101/art-010.md", "switzerland/bund/acts/101/art-035.md", "switzerland/bund/acts/101/art-036.md", "switzerland/bund/acts/101/art-057.md", "switzerland/bund/acts/101/art-185.md", "switzerland/bund/acts/311.0/art-001.md", "switzerland/bund/acts/312.0/art-003.md", "switzerland/bund/acts/312.0/art-061.md", "switzerland/bund/acts/312.0/art-062.md", "switzerland/bund/acts/312.0/art-063.md", "switzerland/bund/acts/312.0/art-064.md", "switzerland/bund/acts/312.0/art-149.md", "switzerland/bund/acts/312.0/art-154.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-397.md", "switzerland/bund/acts/312.0/art-417.md", "switzerland/bund/acts/312.0/art-421.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/818.101/art-001.md", "switzerland/bund/acts/818.101/art-003.md", "switzerland/bund/acts/818.101/art-006.md", "switzerland/bund/acts/818.101/art-007.md", "switzerland/bund/acts/818.101/art-040.md", "switzerland/bund/acts/818.101/art-081.md", "switzerland/bund/acts/822.11/art-003a.md", "switzerland/bund/acts/822.11/art-006.md", "switzerland/bund/acts/822.11/art-040.md"]
+---
+
+# GL Gerichte OG.2021.00053
+
+## Regeste
+
+Ordnungsbusse nach Art. 64 StPO
+
+## Text
+
+Glarus Obergericht 03.08.2021 OG.2021.00053 (OGS.2021.140)
+Glaris Obergericht 03.08.2021 OG.2021.00053 (OGS.2021.140)
+Glarona Obergericht 03.08.2021 OG.2021.00053 (OGS.2021.140)
+
+Ordnungsbusse nach Art. 64 StPO
+
+Kanton Glarus
+Obergericht
+Beschluss
+vom
+3. August 2021
+Verfahren
+OG.2021.00053
+A.______
+Beschwerdeführer
+gegen
+Staats- und Jugendanwaltschaft des
+Kantons Glarus
+Beschwerdegegnerin
+vertreten
+durch die ausserordentliche Staatsanwältin
+betreffend
+Ordnungsbusse
+nach Art. 64 StPO
+Rechtsbegehren
+de
+s Beschwerdeführers
+(gemäss Eingabe vom 1. Juli 2021,
+act. 2, sinngemäss):
+1.
+Die Ordnungsbussenverfügung der
+Staats- und Jugendanwaltschaft des Kantons Glarus vom 23. Juni 2021 im
+Verfahren UB.2021.00754 sei aufzuheben.
+2.
+Unter Kostenfolge zu Lasten des
+Staates.
+____________________
+Das
+Gericht zieht in Betracht:
+I.
+1.
+Die Staats- und
+Jugendanwaltschaft des Kantons Glarus (nachfolgend Staatsanwaltschaft)
+auferlegte dem Beschwerdeführer mit Verfügung vom 23. Juni 2021 gestützt auf
+Art. 64 Abs. 1 StPO eine Ordnungsbusse in Höhe von CHF 250.— sowie Kosten in
+Höhe von CHF 100.— (act. 1).
+2.
+Dagegen erhob der
+Beschwerdeführer mit Schreiben vom 1. Juli 2021 Beschwerde, wobei er
+beantragt,
+die
+Ordnungsbussenverfügung der
+Staatsanwaltschaft vom 23. Juni 2021 sei aufzuheben (act. 2).
+Die Beschwerdeeingabe vom 1. Juli
+2021 enthält eine Begründung (act. 2) und umfasst mehrere Beilagen (act.
+3/1-3/4).
+Es wurden keine Stellungnahmen
+eingeholt (vgl. Art. 390 Abs. 2 StPO).
+II.
+1.
+Die angefochtene
+Ordnungsbussenverfügung ist der Beschwerde zugänglich (Art. 64 Abs. 2
+StPO).
+Die Beschwerdefrist von zehn
+Tagen (Art. 64 Abs. 2 StPO) ist vorliegend eingehalten (vgl. act. 1 und 2).
+Die übrigen
+Prozessvoraussetzungen geben zu keinen Bemerkungen Anlass.
+Auf die Beschwerde ist
+einzutreten.
+2.
+Vorliegend geht es nicht um einen
+strafrechtlichen Vorwurf resp. den Sachverhalt, wegen dem gegen den
+Beschwerdeführer ein Strafverfahren geführt wird, sondern um eine
+Disziplinarbusse nach Art. 64 Abs. 1 StPO, welche einen anderen Sachverhalt
+(Einvernahme vom 22. Juni 2021) betrifft. Insoweit gehen der Hinweis des
+Beschwerdeführers auf Art. 1 StGB sowie sein Vorbringen, es erscheine
+befremdlich, wenn in einem Strafverfahren eine Disziplinarmassnahme aufgrund
+eines Sachverhalts ausgesprochen werde, welcher im Hauptverfahren überhaupt
+erst gerichtlich festzustellen sei (vgl. act. 2 S. 2; siehe auch unten E. II
+Ziff. 4.2), an der Sache vorbei.
+Die vorliegende Beschwerde ist
+nach Art. 397 Abs. 1 StPO in einem schriftlichen Verfahren zu behandeln. Es
+besteht vorliegend kein Anspruch auf ein öffentliches Verfahren nach Art. 6
+Abs. 1 EMRK (vgl. Urteil des Bundesgerichts 1B_321/2015 vom 8. Juni 2016 E.
+3.9; BGE 135 I 313 E. 2).
+3.
+Mit Beschwerde können
+Rechtsverletzungen und/oder eine unvollständige oder unrichtige Feststellung
+des Sachverhalts sowie Unangemessenheit gerügt werden (Art. 393 Abs. 2 StPO).
+Vorliegend macht der
+Beschwerdeführer Rechtsverletzungen geltend (vgl. act. 2; siehe auch unten E.
+II Ziff. 4.2).
+4.
+4.1
+Die Staatsanwaltschaft
+begründet die dem Beschwerdeführer mit Verfügung vom 23. Juni 2021 auferlegte
+Ordnungsbusse wie folgt:
+Der Beschwerdeführer sei als
+beschuldigte Person in einem Verfahren betreffend  Missachtung der
+Maskenpflicht zur Einvernahme durch die Staatsanwaltschaft am 22. Juni
+2021 vorgeladen gewesen und zu diesem Termin erschienen, ohne eine Maske zu
+tragen.
+Eine Kanzleimitarbeiterin und die
+verfahrensleitende Staatsanwältin hätten den Beschwerdeführer anlässlich des
+Einvernahmetermins am 22. Juni 2021 darauf hingewiesen, dass eine
+Maskentragepflicht gelte. Sowohl die Kanzleimitarbeiterin als auch die
+verfahrensleitende Staatsanwältin hätten dem Beschwerdeführer dabei eine
+Maske angeboten.
+Die verfahrensleitende
+Staatsanwältin habe schliesslich gegenüber dem Beschwerdeführer, nachdem
+dieser das Tragen einer Maske abgelehnt habe, ausdrücklich angeordnet, dass
+er eine Maske tragen müsse. Dabei habe die  verfahrensleitende Staatsanwältin
+den Beschwerdeführer darauf aufmerksam gemacht, dass er eine
+verfahrensleitende Anordnung missachten und gebüsst werden würde, wenn er
+sich der Anordnung weiterhin widersetze.
+Der Beschwerdeführer habe dennoch
+keine Maske angezogen. Er habe geltend gemacht, dass er gestützt auf
+Art. 3b Abs. 2 Bst. b der Covid-19-Verordnung besondere Lage von der
+Maskentragepflicht ausgenommen sei, da er «aus besonderen Gründen» keine Maske
+trage. Der Beschwerdeführer habe aber nicht nachweisen können, dass er aus
+besonderen Gründen i.S.v. Art. 3b Abs. 2 Bst. b der Covid-19-Verordnung
+besondere Lage keine Maske tragen müsse. Ein ärztliches Attest habe der
+Beschwerdeführer nicht vorgewiesen. Durch die vom Beschwerdeführer
+eingereichten Dokumente, mit welchen er habe aufzeigen wollen, inwiefern die
+vom Bund gegen die Ausbreitung des Covid-19-Virus ergriffenen Massnahmen
+unwirksam (gewesen) seien, sowie die erfolgte Geltendmachung von
+gesundheitlichen, physikalischen sowie weltanschaulichen Gründen sei dieser
+Nachweis nicht erbracht worden.
+Da der Beschwerdeführer sich der
+direkten Anordnung der verfahrensleitenden Staatsanwältin, während der
+Einvernahme eine Maske zu tragen, widersetzt habe, habe er eine
+verfahrensleitende Anordnung missachtet und sei er in Anwendung von Art. 64
+Abs. 1 StPO mit einer Ordnungsbusse zu bestrafen (zum Ganzen act. 1 S. 1 f.
+Ziff. 1 und 3 f.).
+4.2
+Der Beschwerdeführer
+begründet die Beschwerde wie folgt:
+In der Ordnungsbussenverfügung
+vom 23. Juni 2021 sei nicht dargelegt, auf welche gesetzliche Grundlage sich
+die Maskenpflicht stütze. Jedenfalls sehe Art. 64 StPO keinen Zwang für das
+Tragen einer Gesichtsmaske während einer Einvernahme vor.
+Er habe gegenüber der Staatsanwältin
+glaubhaft gemacht (Art. 3 Abs. 2 Bst. a StPO), dass er aus besonderen
+Gründen gemäss Art. 3b der Covid-19-Verordnung besondere Lage keine
+Gesichtsmaske tragen könne. Dabei berufe er sich u.a. auf seine körperliche
+und seelische Unversehrtheit (Art. 10 BV). Es sei bereits durch viele
+wissenschaftliche Studien bestätigt worden, dass Gesichtsmasken
+gesundheitsschädlich seien. Hierzu verweist der Beschwerdeführer auf eine
+beigelegte Metastudie (act. 3/3).
+Im «K-Tipp» vom 16. Juni 2021
+(act. 3/2) sei auf Ergebnisse solcher Studien hingewiesen und seien sowohl
+ein Nutzen des Maskentragens verneint als auch die Risiken und Gefahren
+hervorgehoben worden. Dabei seien Schadstoffe in Masken und die Gefahr des
+Einatmens der Fasern mit Ablagerungen auf der Lunge nicht einmal erwähnt
+worden.
+Die Staatsanwältin habe nicht
+dargelegt, inwiefern die von ihm vorgebrachten Gründe für den nach Art. 3b
+Abs. 2 der Covid-19-Verordnung besondere Lage erforderlichen Nachweis des
+Vorliegens besonderer Gründe nicht genügten. Sie habe die
+Disziplinarmassnahme ausgesprochen, ohne seine vorgebrachten Gründe vertieft
+geprüft zu haben, was als Willkür (Art. 9 BV) zu betrachten sei. Die
+entsprechend zulässigen Gründe seien nirgends abschliessend genannt. Da
+sowohl das Schalterpersonal als auch die Staatsanwältin mehrfach nach einem
+ärztlichen Attest gefragt hätten, gehe er davon aus, dass sie sämtliche
+nicht-medizinischen Gründe generell ablehnen würde, was der Verordnung klar
+widerspreche.
+Da die Anwendung von Masken in
+der breiten Bevölkerung kein signifikanter und somit kein erwiesener Nutzen
+zur Eindämmung des Corona-Virus darstelle (Art. 81 EpG) und das
+Einvernahmezimmer zudem über eine Plexiglas-Trennwand als Infektionsschutz
+verfügt habe, wäre eine Disziplinarmassnahme sowieso unverhältnismässig (Art.
+5 BV). Von einer Störung des Verfahrens könne unter diesen Umständen keine
+Rede sein.
+Zudem erlaube Art. 1 StGB keine
+Strafe ohne Gesetz. Da weder in der Covid-19-Verordnung besondere Lage noch
+im Epidemiengesetz die Bestrafung wegen des Nichttragens von Gesichtsmasken
+explizit erwähnt werde, könne ein solches Verhalten auch gar nicht
+sanktioniert werden. Zudem sei eine Bestrafung aufgrund einer Verordnung
+nicht zulässig.
+Der Bundesrat müsse eine
+unmittelbar drohende schwere Störung i.S.v. Art. 185 BV beweisen, was
+sinngemäss auch bei auf das Epidemiengesetz gestützten Verordnungen gelte,
+bis heute nicht geschehen sei und aufgrund nicht vorhandener
+Übersterblichkeit auch nicht möglich sei. Hierbei verweist der Beschwerdeführer
+auf act. 3/4.
+Weiter fordert der
+Beschwerdeführer, das Gericht solle feststellen, dass Art. 3b der
+Covid-19-Verordnung besondere Lage Gültigkeit habe, und ob Art. 1 EpG sowie
+Art. 3 EpG erfüllt seien.
+Zudem führt der Beschwerdeführer
+aus, es erscheine doch recht befremdlich, wenn im Zuge eines Verfahrens eine
+Disziplinarmassnahme aufgrund eines Sachverhalts ausgesprochen werde, welchen
+es im Hauptverfahren überhaupt erst gerichtlich festzustellen gelte (zum
+Ganzen act. 2).
+5.
+Staatliches Handeln setzt eine
+gesetzliche Grundlage voraus (Art. 5 Abs. 1 BV) und muss im öffentlichen
+Interesse liegen sowie verhältnismässig sein (Art. 5 Abs. 2 BV). Dies gilt
+insbesondere auch bei Einschränkungen von Grundrechten, wobei schwerwiegende
+Grundrechtseinschränkungen grundsätzlich im Gesetz selbst vorgesehen sein
+müssen (Art. 36 BV).
+Im Interesse der Rechtssicherheit
+und der rechtsgleichen Rechtsanwendung müssen die anzuwendenden Rechtssätze
+eine hinreichende und angemessene Bestimmtheit aufweisen. Je gewichtiger ein
+Grundrechtseingriff ist, desto höher sind die Anforderungen an Normstufe und
+Normdichte. Schwere Grundrechtseingriffe benötigen eine klare und genaue
+Grundlage im Gesetz selbst. Das Gebot der Bestimmtheit rechtlicher Normen
+darf allerdings nicht absolut verstanden werden. Der Gesetzgeber kann nicht
+darauf verzichten, allgemeine und mehr oder minder vage Begriffe zu
+verwenden, deren Auslegung und Anwendung der Praxis überlassen werden muss. Bei
+polizeilichen Massnahmen, die gegen schwer vorhersehbare Gefährdungen
+angeordnet werden und situativ den konkreten Verhältnissen anzupassen sind,
+müssen der Natur der Sache nach Abstriche an der Genauigkeit der gesetzlichen
+Grundlage akzeptiert werden. Bei unbestimmten Normen kommt dafür dem
+Verhältnismässigkeitsprinzip besondere Bedeutung zu: Wo die Unbestimmtheit
+von Rechtssätzen zu einem Verlust an Rechtssicherheit führt, muss die
+Verhältnismässigkeit umso strenger geprüft werden (zum Ganzen Urteil des
+Bundesgerichts 2C_8/2021 vom 25. Juni 2021 E. 3.1.2 m.w.H.).
+6.
+6.1
+Nach Art. 10 Abs. 1
+bis
+der bis am 25. Juni 2021 in Kraft gewesenen Covid-19-Verordnung
+besondere Lage vom 19. Juni 2020 (SR 818.101.26; nachfolgend «
+Covid-19-Verordnung besondere Lage 2020
+») in der am
+22. Juni 2021 in Kraft gewesenen Fassung musste zum Schutz von
+Arbeitnehmerinnen in Innenräumen, einschliesslich Fahrzeugen, in denen sich
+mehr als eine Person aufhielt, jede Person eine Gesichtsmaske tragen. Diese
+Pflicht galt nicht für Tätigkeiten, bei denen aus Sicherheitsgründen oder
+aufgrund der Art der Tätigkeit keine Maske getragen werden kann (Bst. b);
+sowie für Personen, die nach Art. 3b Abs. 2 der betreffenden Verordnung von
+der Pflicht, eine Gesichtsmaske zu tragen, ausgenommen waren (Bst. c; siehe
+auch unten E. II Ziff. 7.5).
+Im Ingress der
+Covid-19-Verordnung besondere Lage 2020 ist zwar nur Art. 6 Abs. 2 Bst.
+a und b Epidemiengesetz (EpG, SR 818.101) genannt. Dies ändert aber nichts
+daran, dass der Bundesrat auch gestützt auf das Arbeitsgesetz (ArG,
+SR 822.11) befugt ist zur Anordnung von Massnahmen zum Schutz von
+Arbeitnehmern (vgl. auch Botschaft zum Covid-19-Gesetz, BBl 2020 6563, 6599).
+Nach Art. 6 Abs. 4 i.V.m. Art. 40
+Abs. 1 Bst. a ArG ist der Bundesrat zuständig, durch Verordnung zu bestimmen,
+welche Massnahmen für den Gesundheitsschutz in den Betrieben zu treffen sind.
+In Art. 3a Bst. a ArG ist festgelegt, dass die Vorschriften des ArG über den
+Gesundheitsschutz, u.a. Art. 6 ArG, auf die Verwaltungen des Bundes, der
+Kantone und Gemeinden anwendbar sind.
+Entsprechend wird auch in den
+Erläuterungen des Bundesamtes für Gesundheit (BAG) zur Covid-19-Verordnung
+besondere Lage 2020 darauf hingewiesen, dass die Verschärfung der
+Maskenpflicht im Arbeitsbereich Auswirkungen auf Ver-sammlungen der
+Legislativen auf eidgenössischer, kantonaler und kommunaler Ebene sowie die
+Sitzungen der Exekutive (inkl. Bundesrat) habe. Sofern an diesen
+Versammlungen sowie Sitzungen Arbeitnehmerinnen und Arbeitnehmer anwesend
+seien (z.B. Übersetzer, Sekretariat, Verwaltung), gelte eine Maskenpflicht für
+alle anwesenden Personen (Erläuterungen des BAG zur Covid-19-Verordnung
+besondere Lage, Version vom 3. Juni 2021, S. 39; abrufbar unter
+https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html,
+zuletzt besucht am 28. Juli 2021).
+Ausserordentliche
+Staatsanwältinnen (vgl. Art. 10 Abs. 4 EG StPO, GS III F/1) sind Angestellte
+der kantonalen Verwaltung (vgl. Art. 9 EG StPO; Art. 7 Bst. a
+Personalgesetz, GS II A/6/1; und Anhang II Art. A2-6 Bst. e der Regierungs-
+und Verwaltungsorganisationsverordnung, GS II A/3/3).
+Vom Anwendungsbereich her stellte
+die Bestimmung von Art. 10 Abs. 1
+bis
+der Covid-19-Verordnung
+besondere Lage 2020 somit eine gesetzliche Grundlage dafür dar, dass der
+Beschwerdeführer verpflichtet war, anlässlich der Einvernahme am 22. Juni
+2021 durch die ausserordentliche Staatsanwältin eine Gesichtsmaske zu tragen.
+6.2
+Es stellt sich nun die
+Frage, ob der Bundesrat zur Anordnung der Maskentragepflicht nach Art. 10
+Abs. 1
+bis
+der Covid-19-Verordnung besondere Lage 2020 befugt war
+resp. das Bestimmtheitsgebot (siehe oben E. II Ziff. 5) eingehalten war.
+6.2.1
+Nach Art. 6 Abs. 2
+Bst. b EpG kann der Bundesrat bei Vorliegen einer besonderen Lage nach Art. 6
+Abs. 1 EpG Massnahmen gegenüber der Bevölkerung anordnen. Eine besondere Lage
+nach Art. 6 Abs. 1 EpG ist bei einer epidemiologischen Notlage gegeben. Sie
+liegt vor, wenn die ordentlichen Vollzugsorgane nicht in der Lage sind, den
+Ausbruch und die Verbreitung übertragbarer Krankheiten zu verhüten und zu
+bekämpfen, und eine bestimmte Gefahr (erhöhte Ansteckungs- und
+Ausbreitungsgefahr; besondere Gefährdung der öffentlichen Gesundheit; oder
+schwerwiegende Auswirkungen auf die Wirtschaft oder auf andere Lebensbereiche)
+besteht (Art. 6 Abs. 1 Bst. a EpG) oder wenn die Weltgesundheitsorganisation
+(WHO) festgestellt hat, dass eine gesundheitliche Notlage von internationaler
+Tragweite besteht und durch diese in der Schweiz eine Gefährdung der
+öffentlichen Gesundheit droht (Art. 6 Abs. 1 Bst. b EpG). Im Gegensatz zur
+ausserordentlichen Lage nach Art. 7 EpG erfordert eine besondere Lage
+keine nationale Bedrohungslage resp. Bedrohung der äusseren und inneren
+Sicherheit i.S.v. Art. 185 Abs. 3 BV (vgl. Botschaft Epidemiengesetz,
+BBl 2011 311, 363).
+Die WHO hat am 30. Januar 2020
+den Ausbruch des Coronavirus (Covid-19) als gesundheitliche Notlage von
+internationaler Tragweite und am 11. März 2020 die Covid-19-Epidemie zur
+Pandemie erklärt
+(vgl. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/interactive-timeline#!,
+zuletzt besucht am 28. Juli 2021; vgl. auch Urteil des Bundesgerichts
+2C_793/2020 vom 8. Juli 2021 E. 5.2). Im Vergleich zu einer saisonalen Grippe
+ist die Sterblichkeit bei der Covid-19-Epidemie signifikant höher (Urteil des
+Bundesgerichts 2C_941/2020 vom 8. Juli 2021 E. 3.2.3; Urteil des
+Bundesgerichts 2C_793/2020 vom 8. Juli 2021 E. 5.2 m.w.H.). Soweit die
+Übersterblichkeit in früheren Jahren mit starker Grippewelle in
+vergleichbarer Höhe lag wie diejenige im Jahr 2019/2020 ist entscheidend,
+dass die Übersterblichkeit in den früheren Jahren ohne jegliche Massnahmen
+eintrat, im Jahr 2019/2020 hingegen trotz der im Frühjahr 2020 ergriffenen
+Massnahmen, wobei plausibel ist, dass ohne angeordnete Massnahmen die
+(Über-)Sterblichkeit und die Belastungen der Spitäler höher gewesen wären
+(vgl. Urteil des Bundesgerichts 2C_941/2020 vom 8. Juli 2021
+E. 3.3.4).
+Entgegen der Ansicht des
+Beschwerdeführers (siehe oben E. II Ziff. 4.2) liegt folglich aufgrund
+der Covid-19-Epidemie eine epidemiologische Notlage und somit eine besondere
+Lage nach Art. 6 Abs. 1 EpG vor. Entsprechend war und ist der Bundesrat
+befugt, gestützt auf Art. 6 EpG Massnahmen zur Bekämpfung der
+Covid-19-Epidemie anzuordnen (ohne dass eine Bedrohung der äusseren und
+inneren Sicherheit i.S.v. Art. 185 Abs. 3 BV vorliegen muss).
+6.2.2
+Der
+Handlungsspielraum des Bundesrates betreffend Anordnung von Massnahmen
+gegenüber der Bevölkerung nach Art. 6 Abs. 2 Bst. b EpG beschränkt sich auf
+die in Art. 40 EpG festgelegten Massnahmen (vgl. Botschaft Epidemiengesetz,
+BBl 2011 311, 364 f.).
+Die Anordnung einer
+Maskentragepflicht wird in Art. 40 Abs. 2 EpG zwar nicht ausdrücklich
+genannt. In der Botschaft zum Epidemiengesetz wird aber ausgeführt, dass
+durch das Tragen einer Maske resp. eines Mundschutzes das Risiko einer
+Übertragung bzw. Erkrankung bei einer Grippe weitgehend ausgeschlossen oder
+minimiert werden kann
+(
+Botschaft Epidemiengesetz, BBl
+2011 311, 324). Die in Art. 40 Abs. 2 EpG aufgeführten Massnahmen sind
+denn auch nach dem Wortlaut («insbesondere folgende Massnahmen») nicht
+abschliessend. In Art. 40 Abs. 2 EpG sind u.a. das Verbieten von
+Veranstaltungen (Bst. a) sowie die Schliessung von Schulen, anderen
+öffentlichen Institutionen und privaten Unternehmen (Bst. b) als mögliche
+Massnahmen genannt. Nach dem Grundsatz «in maiore minus» muss auch die
+Anordnung von im Vergleich dazu weniger einschneidenden Massnahmen, z.B.
+einer Maskentragepflicht, gestützt auf Art. 40 Abs. 2 EpG zulässig sein
+können (zum Ganzen Urteil des Bundesgerichts 2C_793/2020 vom 8. Juli 2021 E.
+5.1.3 sowie Urteil des Bundesgerichts 2C_8/2021 vom 25. Juni 2021 E. 3.7.2
+und 3.8.1).
+Die Bestimmung von Art. 40 EpG
+stellt entsprechend eine hinreichend bestimmte formell-gesetzliche
+Rechtsgrundlage dar für die Anordnung einer Maskentragepflicht in einer
+kantonalen Verordnung (vgl. Urteil des Bundesgerichts 2C_793/2020 vom
+8. Juli 2021 E. 5.1.3 sowie Urteil des Bundesgerichts 2C_8/2021 vom 25.
+Juni 2021 E. 3.8) und ebenso in einer auf Art. 6 Abs. 2 i.V.m. Art. 40
+EpG gestützten Verordnung des Bundesrates.
+6.2.3
+Die
+Maskentragepflicht nach Art. 10 Abs. 1
+bis
+der Covid-19-Verordnung
+besondere Lage 2020 wurde somit vom Bundesrat befugt erlassen (siehe oben E.
+II Ziff. 6.2.1) und beruhte auf einer hinreichend bestimmten
+formell-gesetzlichen Rechtsgrundlage (siehe oben E. II Ziff. 6.2.2), womit
+das Bestimmtheitsgebot (siehe oben E. II Ziff. 5) eingehalten war.
+6.3
+6.3.1
+Nach Art. 62 Abs. 1
+StPO trifft die Verfahrensleitung die Anordnungen, die eine gesetzmässige und
+geordnete Durchführung des Verfahrens gewährleisten. Bis zur Einstellung oder
+Anklageerhebung leitet die Staatsanwaltschaft das Verfahren (Art. 61 Bst. a
+StPO).
+Eine gesetzmässige Durchführung
+des Verfahrens erforderte aufgrund von Art. 10 Abs. 1
+bis
+der
+Covid-19-Verordnung besondere Lage 2020, dass anlässlich einer Einvernahme am
+22. Juni 2021 grundsätzlich allen anwesenden Personen, zum Schutz der
+anwesenden Arbeitnehmer (vorliegend namentlich der verfahrensleitenden
+Staatsanwältin, der erwähnten Kanzleimitarbeiterin sowie allfälliger weiterer
+Personen) eine Maske trugen (siehe oben E. II Ziff. 6.1).
+Folglich war vorliegend die
+ausserordentliche Staatsanwältin als Verfahrensleiterin gestützt auf Art. 62
+Abs. 1 StPO i.V.m. Art. 10 Abs. 1
+bis
+der Covid-19-Verordnung
+besondere Lage 2020 befugt, gegenüber dem Beschwerdeführer anlässlich der
+Einvernahme am 22. Juni 2021 anzuordnen, er müsse eine Maske tragen.
+6.3.2
+In Art. 63 StPO
+werden sitzungspolizeiliche Massnahmen geregelt. Nach Art. 63 Abs. 1
+StPO sorgt die Verfahrensleitung für Sicherheit, Ruhe und Ordnung während der
+Verhandlungen. Diese Bestimmung ist weit zu verstehen. Die
+sitzungspolizeilichen Kompetenzen sollen es der Verfahrensleitung ermöglichen,
+die nötigen Massnahmen zu treffen, um Sicherheit, Ruhe und Ordnung «während
+der fraglichen Verfahrenshandlung, namentlich während der Verhandlungen», zu
+gewährleisten (vgl. Botschaft StPO, BBl 2006 1085, 1150). Die
+Verfahrensleitung kann denn nach Art. 63 Abs. 3 StPO die Unterstützung der am
+Orte der «Verfahrenshandlung» zuständigen Polizei verlangen. Zudem wird nach
+Art. 64 Abs. 4 StPO die «Verfahrenshandlung» gleichwohl fortgesetzt, wenn
+eine Partei ausgeschlossen wird.
+Wer staatliche Aufgaben
+wahrnimmt, ist an die Grundrechte gebunden und verpflichtet, zu ihrer
+Verwirklichung beizutragen (Art. 35 Abs. 2 BV). Daraus folgt, dass der Staat
+auch bei der Durchführung von Strafverfahren verpflichtet ist, die
+Grundrechte davon betroffener Personen zu schützen. Durch einen solchen
+Schutz wird gerade Sicherheit (vgl. auch Art. 57 Abs. 1 BV) und insoweit eine
+verfassungs-resp. gesetzmässige Durchführung des Strafverfahrens (vgl. Art.
+62 Abs. 1 StPO) gewährleistet. Die körperliche und geistige Unversehrtheit
+jedes Menschen ist grundrechtlich garantiert (vgl. Art. 10 Abs. 2 BV).
+Folglich hat die Verfahrensleitung gestützt auf Art. 62 Abs. 1 und Art.
+63 Abs. 1 StPO auch Massnahmen vorzunehmen zur Verhinderung, dass
+Verfahrenshandlungen zu Gesundheitsschäden führen. Miterfasst ist hierbei der
+Schutz der staatlichen Organe vor Beeinträchtigungen ihrer grundrechtlich
+garantierten Gesundheit, zumal dadurch auch die effektive staatliche
+Aufgabenerfüllung geschützt wird. So sind denn in Art. 2 Abs. 1 Bst. c und
+Abs. 2 Bst. c sowie Art. 3 Bst. c der Covid-19-Verordnung Justiz und
+Verfahrensrecht (SR
+272.81) gerade Massnahmen zum
+Schutz von durch das Coronavirus besonders gefährdeten Gerichtsmitgliedern
+vorgesehen.
+Nach Art. 149 Abs. 1 StPO hat die
+Verfahrensleitung Schutzmassnahmen zur Abwehr von erheblichen Gefahren für
+Leib und Leben zu treffen, die auf die Mitwirkung im Strafverfahren
+zurückzuführen sind. Auch diese Bestimmung spricht somit dafür, dass der
+Schutz vor Grundrechtsverletzungen im Rahmen von Verfahrenshandlungen
+gestützt auf Art. 62 Abs. 1 und Art. 63 Abs. 1 StPO eine allgemeine Aufgabe
+der Verfahrensleitung ist.
+Die in Art. 149 Abs. 2 StPO
+genannten Schutzmassnahmen sind nicht abschliessend (vgl. Botschaft StPO, BBl
+2006 1085, 1189). Ebenso wenig enthält Art. 63 Abs. 2 StPO eine
+abschliessende Nennung möglicher (sitzungspolizeilicher) Massnahmen zur
+Gewährleistung von Sicherheit resp. zum Grundrechtsschutz während
+Verfahrenshandlungen. Beispielsweise sind denn in Art. 154 Abs. 4 StPO
+spezielle Regeln zum Schutz von Kindern vor einer schweren psychischen
+Belastung durch eine Einvernahme oder Gegenüberstellung vorgesehen, wobei die
+Verfahrensleitung für die Anordnung entsprechender Schutzmassnahmen zuständig
+ist (Art. 149 Abs. 4 StPO).
+Die Verpflichtung einer zu befragenden
+Person, anlässlich eines Einvernahmetermins bei der Staatsanwaltschaft eine
+Maske zu tragen, ist namentlich im Hinblick auf die normalerweise
+überschaubare Dauer einer Einvernahme als leichter Eingriff in die
+persönliche Freiheit der betroffenen Person zu qualifizieren. Somit wäre
+dafür, mangels einer schwerwiegenden Grundrechtseinschränkung, gar keine
+formell-gesetzliche Rechtsgrundlage erforderlich (Art. 36 Abs. 1 Satz 2 BV e
+contrario; vgl. auch Urteil des Bundesgerichts 2C_793/2020 vom 8. Juli 2021
+E. 4.3 und 5.1.3, wo die Verpflichtung von Personen, die älter als 12 Jahre
+waren, in Geschäften und Supermärkten im Kanton Freiburg eine Maske zu
+tragen, als leichte Grundrechtseinschränkung qualifiziert wurde).
+Umso mehr sind Art. 62 Abs. 1 und
+Art. 63 Abs. 1 StPO hinreichend bestimmte Rechtsgrundlagen für die Anordnung
+einer Maskentragepflicht während Verfahrenshandlungen durch die
+Verfahrensleitung zum Schutz vor der Weiterverbreitung von Krankheiten resp.
+zum damit bezweckten Gesundheitsschutz.
+Somit war vorliegend die
+ausserordentliche Staatsanwältin als Verfahrensleiterin auch gestützt auf
+Art. 62 Abs. 1 StPO i.V.m. Art. 63 Abs. 1 StPO befugt, gegenüber dem
+Beschwerdeführer anlässlich des Einvernahmetermins am 22. Juni 2021
+anzuordnen, er müsse eine Maske tragen.
+6.4
+Entgegen der Ansicht
+des Beschwerdeführers (siehe oben E. II Ziff. 4.2) bestanden somit vorliegend
+sogar mehrere befugt erlassene resp. hinreichend bestimmte Rechtsgrundlagen
+für eine Maskentragepflicht des Beschwerdeführers resp. für die Anordnung der
+ausserordentlichen Staatsanwältin, er müsse eine Maske tragen (siehe oben E.
+II Ziff. 6.1 ff.).
+7.
+7.1
+Es stellt sich noch
+die Frage, ob die betreffende Maskentragepflicht verhältnismässig war.
+Der Grundsatz der Verhältnismässigkeit
+verlangt, dass eine Massnahme für das Erreichen des im öffentlichen oder
+privaten Interesse liegenden Ziels geeignet und erforderlich ist und sich für
+die Betroffenen in Anbetracht der Schwere der Grundrechtseinschränkung als
+zumutbar erweist. Es muss eine vernünftige Zweck-Mittel-Relation vorliegen
+(vgl. Urteil des Bundesgerichts 2C_941/2020 vom 8. Juli 2021 E.
+3.2.3 m.w.H.).
+Die angeordneten Massnahmen
+müssen in einem angemessenen Verhältnis zu den Risiken stehen, die mit diesen
+Massnahmen vermieden werden. Betreffend die im Gefolge der Corona-Krise
+angeordneten Massnahmen muss geprüft werden, wie hoch Schwere und
+Eintretenswahrscheinlichkeit der drohenden Krankheiten sind, ob die
+angeordneten Massnahmen geeignet sind, um die Verbreitung zu verhindern, und
+wie die Relation der negativen Konsequenzen der Krankheiten zu denjenigen der
+angeordneten Massnahmen ist; dabei ist der aktuelle Stand der Wissenschaft zu
+berücksichtigen (vgl. Urteil des Bundesgerichts 2C_941/2020 vom 8. Juli 2021
+E. 3.2.4 m.w.H.).
+Solange in keiner Rechtsnorm
+festgelegt ist, wie hoch das akzeptable Risiko bzw. das erforderliche
+Sicherheitsniveau ist, steht auch nicht fest, wo die Grenze zwischen
+zulässigen und unzulässigen Risiken liegt. Es ist alsdann nicht in erster
+Linie Sache der Gerichte, sondern des Verordnungsgebers oder der zuständigen
+Fachbehörden, das akzeptable Risiko festzulegen (Urteil des Bundesgerichts
+2C_941/2020 vom 8. Juli 2021 E. 3.2.5 m.w.H.).
+Hinzu kommt, dass der Natur der
+Sache nach eine gewisse Unsicherheit besteht bezüglich der zukünftigen
+Wirkung einer bestimmten Massnahme. Namentlich besteht bei neu auftretenden
+Infektionskrankheiten typischerweise eine hohe Unsicherheit über Ursachen,
+Folgen und geeignete Bekämpfungsmassnahmen. Die zu treffenden Massnahmen
+können daher nicht im Voraus mit Bestimmtheit gesetzlich festgelegt werden,
+sondern müssen aufgrund des jeweils aktuellen, in der Regel unvollständigen
+Kenntnisstandes getroffen werden, was einen gewissen Spielraum der
+zuständigen Behörden voraussetzt. Jedenfalls wenn es um möglicherweise
+gewichtige Risiken geht, können Abwehrmassnahmen nicht erst dann getroffen
+werden, wenn wissenschaftliche Klarheit vorliegt, sondern bereits dann, wenn
+eine erhebliche Plausibilität besteht (Urteil des Bundesgerichts 2C_941/2020
+vom 8. Juli 2021 E. 3.2.6 m.w.H.).
+Mit fortschreitendem Wissen sind
+die Massnahmen anzupassen. Widerlegen neue Erkenntnisse die bisherige
+Risikobeurteilung, müssen die Regelungen überprüft und gegebenenfalls
+entsprechend überarbeitet werden. Massnahmen, die in einem bestimmten
+Zeitpunkt aufgrund des damaligen Kenntnisstandes als gerechtfertigt
+betrachtet wurden, können mit besserem Wissen später als unnötig erscheinen;
+umgekehrt ist denkbar, dass mit verbesserter Erkenntnis Massnahmen als
+geeignet oder erforderlich erscheinen, welche früher nicht in Betracht
+gezogen oder getroffen wurden oder es kann sich erweisen, dass die früher
+getroffenen Massnahmen nicht ausreichen, um eine drohende Ausbreitung einer
+gefährlichen Krankheit zu verhindern, und deshalb strengere Massnahmen
+getroffen werden müssen. In diesem Sinne ist jede Beurteilung, die zu einem
+bestimmten Zeitpunkt vorgenommen wird, zwangsläufig provisorisch, beruhend
+auf dem aktuellen Stand des Wissens. Dies bedingt allerdings, dass die
+Behörden ihren Wissensstand laufend erweitern. Mit zunehmender Dauer der
+Freiheitsbeschränkungen steigen auch die Anforderungen an die empirische
+Abstützung der Risikoabschätzung, namentlich weil die erwähnten
+Unsicherheiten abnehmen. Vor diesem Hintergrund kann eine Massnahme nicht
+schon deshalb als unrechtmässig betrachtet werden, weil sie bei besserer
+Kenntnis aus der Retrospektive allenfalls nicht als optimal erscheint. Dies
+wäre ein unzulässiger Rückschaufehler. Sodann kann es angezeigt sein, rigorose
+Massnahmen bereits zu ergreifen, bevor es zu schweren Beeinträchtigungen
+kommt, um zu verhindern, dass später noch strengere Massnahmen getroffen
+werden müssen (Urteil des Bundesgerichts 2C_941/2020 vom 8. Juli 2021 E.
+3.2.7 m.w.H.).
+Insgesamt muss aus all diesen
+Gründen den fachlich zuständigen und politisch verantwortlichen Behörden ein
+relativ bedeutender Beurteilungsspielraum zugestanden werden
+(
+Urteil
+des Bundesgerichts 2C_941/2020 vom 8. Juli 2021 E. 3.2.8 m.w.H.).
+7.2
+Nach dem aktuellen
+Wissensstand ist davon auszugehen, dass das Tragen einer Maske dazu geeignet
+ist, die Verbreitung des Corona-Virus zu reduzieren (vgl. Urteil des
+Bundesgerichts 2C_793/2020 vom 8. Juli 2021 E. 5.3.3).
+Insbesondere hat die WHO in einer
+Orientierungshilfe vom 1. Dezember 2020 festgehalten, dass ein möglicher
+Vorteil des Tragens von Masken darin besteht, dass die Verbreitung von
+infektiöse Viruspartikel enthaltenden Atemtröpfchen durch infizierte
+Personen, die (noch) keine Symptome aufweisen, reduziert werden kann
+(vgl. Mask use in the context of COVID-19, Interim
+guidance, WHO, 1 December 2020, S. 10 und S. 3; abrufbar unter
+https://www.who.int/publications/i/item/advice-on-the-use-of-masks-in-the-community-during-home-care-and-in-healthcare-settings-in-the-context-of-the-novel-coronavirus-(2019-ncov)-outbreak,
+zuletzt besucht am 28. Juli 2021,
+nachfolgend «WHO Mask guidance»).
+Auch in dem vom Beschwerdeführer
+eingereichten Beitrag aus dem «K-Tipp» ist erwähnt, es sei aufgrund der
+aktuellen Studienlage klar, dass eine Gesichtsmaske einen Teil der
+infektiösen, grösseren Virentröpfchen zurückhalte (act. 3/2).
+Vorliegend wäre das Tragen einer
+Maske durch den Beschwerdeführer anlässlich des Einvernahmetermins am 22.
+Juni 2021 somit geeignet gewesen, mindestens dazu beizutragen, eine
+Verbreitung des Corona-Virus durch den Beschwerdeführer zu verhindern, falls
+er infiziert gewesen wäre. Entsprechend wäre das Tragen einer Maske eine
+geeignete Massnahme zum Schutz vor der Weiterverbreitung des Corona-Virus
+resp. zum damit bezweckten Schutz der Gesundheit insbesondere der
+verfahrensleitenden Staatsanwältin und anderer anwesenden Personen gewesen.
+Wie bereits erwähnt, liegt aufgrund der Covid-19-Epidemie eine
+epidemiologische Notlage vor (siehe oben E. II Ziff. 6.2.1). Folglich
+besteht an der Bekämpfung dieser Epidemie durch Verhinderung der Verbreitung
+des Coronavirus resp. am damit bezweckten Gesundheitsschutz ein öffentliches
+Interesse (vgl. Urteil des Bundesgerichts 2C_793/2020 vom 8. Juli 2021 E.
+5.2).
+Die Verpflichtung des
+Beschwerdeführers, anlässlich des Einvernahmetermins am 22. Juni 2021 eine
+Maske zu tragen, war somit zum Erreichen des im öffentlichen Interesse
+liegenden Ziels der Bekämpfung der Covid-19-Epidemie und des damit bezweckten
+Gesundheitsschutzes geeignet.
+7.3
+Der Orientierungshilfe
+der WHO ist zu entnehmen, dass das Tragen einer Maske ein Teil eines Pakets
+von Massnahmen ist, die alle nötig sind und sich resp. ihre Wirkung
+gegenseitig verstärken (vgl. WHO Mask guidance S. 11 und S. 1 f.).
+Auch wenn das Einvernahmezimmer
+vorliegend über eine Plexiglas-Trennwand verfügte, wie der Beschwerdeführer
+geltend macht (siehe oben E. II Ziff. 4.2), ändert dies somit nichts daran,
+dass für einen möglichst umfassenden Schutz, wie er im öffentlichen Interesse
+liegt, zusätzlich das Tragen einer Maske erforderlich war.
+Zudem konnte eine
+Plexiglas-Trennwand im Einvernahmezimmer keinen Schutz bieten, soweit der
+Beschwerdeführer sich in übrigen Räumlichkeiten der Staatsanwaltschaft
+bewegte.
+Die Verpflichtung des Beschwerdeführers,
+anlässlich des Einvernahmetermins am 22. Juni 2021 eine Maske zu tragen, war
+somit zum Erreichen des im öffentlichen Interesse liegenden Ziels der
+Bekämpfung der Covid-19-Epidemie und des damit bezweckten Gesundheitsschutzes
+erforderlich.
+7.4
+Die Verpflichtung,
+anlässlich eines Einvernahmetermins bei der Staatsanwaltschaft eine Maske zu
+tragen, ist als leichter Eingriff in die persönliche Freiheit der betroffenen
+Person zu qualifizieren, zumal die Dauer einer Einvernahme normalerweise überschaubar
+ist (siehe oben E. II Ziff. 6.3.2).
+Gemäss der
+Ordnungsbussenverfügung wurden dem Beschwerdeführer von der
+Staatsanwaltschaft Masken angeboten (siehe oben E. II Ziff. 4.1). Insoweit
+ist die im betreffenden Beitrag aus dem «K-Tipp» erwähnte Möglichkeit, dass
+eine gebrauchte Maske, wegen unsachgemässen Umgangs, mit Bakterien oder
+Pilzen kontaminiert sein kann (vgl. act. 3/2), vorliegend nicht relevant.
+In der Orientierungshilfe der WHO
+wird auf mögliche Nachteile des Tragens einer Maske hingewiesen. Weiter ist
+dort festgehalten, dass die WHO unter Berücksichtigung dieser möglichen
+Nachteile zum Schluss gelangte, das Tragen einer Maske als Teil eines
+Massnahmenpakets zur Bekämpfung des Corona-Virus zu empfehlen (vgl. WHO Mask
+guidance, S. 1 f., 6, 8 und 10).
+Wie bereits erwähnt, kommt den
+fachlich zuständigen und politisch verantwortlichen Behörden ein relativ
+bedeutender Beurteilungsspielraum zu (siehe oben E. II Ziff. 7.1). Dabei
+muss sich auch die Verfahrensleitung in Wahrnehmung ihrer Aufgaben nach Art.
+62 Abs. 1 und Art. 63 Abs. 1 StPO, eine gesetzmässige Durchführung des
+Verfahrens zu gewährleisten und während der Verfahrenshandlungen für
+Sicherheit zu sorgen, auf die Grundsatzentscheide der entsprechend
+zuständigen Behörden stützen können.
+Nach dem gerade Ausgeführten
+stand die Verpflichtung des Beschwerdeführers,  anlässlich des
+Einvernahmetermins am 22. Juni 2021 eine Maske zu tragen, allgemein in einem
+angemessenen Verhältnis zur Erreichung des Ziels der Bekämpfung der
+Covid-19-Epidemie und des damit bezweckten Gesundheitsschutzes.
+7.5
+Der Beschwerdeführer
+erklärt, dass er persönlich nicht bereit ist, die Risiken zu tragen, die mit
+dem Tragen einer Mund-Nasen-Bedeckung verbunden seien. Dies seien für ihn
+gesundheitliche oder sonstige zwingende Gründe. Er lehne das Tragen einer
+Mund-Nasen-Bedeckung ab, um mögliche Schäden für seine Gesundheit abzuwenden
+und um «Haftungsrisken für Dritte (Verordnungsgeber, Ladenbetreiber, …)
+auszuschliessen» (vgl. act. 3/1).
+Mit dieser Erklärung macht der
+Beschwerdeführer nichts anderes geltend, als dass er keine Maske tragen will,
+weil er mit dem objektiv verhältnismässigen allgemeinen Wertungsentscheid,
+welcher der Verpflichtung zum Tragen einer Maske zwecks Bekämpfung des
+Corona-Virus zugrunde liegt (siehe oben E. II Ziff. 7.4), nicht einverstanden
+ist.
+Es ist gerade ein Merkmal von
+Rechtspflichten, dass sie unabhängig davon verbindlich sind, ob die
+verpflichtete Person sich daran halten will und mit den ihnen zugrunde
+liegenden objektiv verhältnismässigen Wertungsentscheiden einverstanden ist.
+Der Beschwerdeführer macht
+zusätzlich zu den Vorbringen gegen die objektiv gegebene allgemeine
+Verhältnismässigkeit der Maskentragepflicht zur Bekämpfung des Corona-Virus
+(vgl. act. 2 und 3/1; siehe auch oben E. II Ziff. 4.2) keine besonderen
+Gründe geltend, warum gerade ihm im Gegensatz zu anderen eine
+Maskentragepflicht zwecks Bekämpfung des Corona-Virus nicht zugemutet werden
+konnte und kann. Ein solcher besonderer Grund war aber gerade Voraussetzung
+dafür, dass jemand nach Art. 3b Abs. 2 Bst. b (i.V.m. Art. 10
+Abs. 1
+bis
+Bst. c) der Covid-19-Verordnung besondere Lage 2020
+von der Maskentragepflicht ausgenommen war.
+Folglich war der Beschuldigte,
+mangels Geltendmachung resp. Nachweises eines Ausnahmegrundes, anlässlich des
+Einvernahmetermins am 22. Juni 2021 vor der Staatsanwaltschaft verpflichtet,
+eine Maske zu tragen.
+8.
+8.1
+Nach Art. 64 Abs. 1
+StPO kann die Verfahrensleitung Personen, die den Geschäftsgang stören, den
+Anstand verletzen oder verfahrensleitende Anordnungen missachten, mit
+Ordnungsbusse bis zu CHF 1000.— bestrafen.
+8.2
+Der Beschwerdeführer
+bestreitet den in der Ordnungsbussenverfügung vom 23. Juni 2021
+umschriebenen Sachverhalt (siehe oben E. II Ziff. 4.1) nicht; vielmehr
+enthält seine Beschwerdebegründung Angaben, die diesen Sachverhalt gerade
+bestätigen (siehe oben E. II Ziff. 4.2).
+Es besteht somit kein Zweifel
+daran, dass der in der Ordnungsbussenverfügung vom 23. Juni 2021 dargestellte
+Sachverhalt richtig festgestellt wurde, zumal auch keine gegenteiligen
+Anhaltpunkte ersichtlich sind.
+Folglich wurde der
+Beschwerdeführer anlässlich des Einvernahmetermins am 22. Juni 2021 vor
+der Staatsanwaltschaft auf die Maskentragepflicht hingewiesen und ordnete die
+ausserordentliche Staatsanwältin ihm gegenüber an, er müsse eine Maske
+tragen. Ebenso ist erstellt, dass der Beschwerdeführer diese Anordnung
+missachtete, indem er sich weigerte, eine Maske zu tragen.
+Die Verpflichtung des
+Beschwerdeführers, anlässlich des Einvernahmetermins am 22. Juni 2021 vor der
+Staatsanwaltschaft eine Maske zu tragen, beruhte auf mehreren befugt
+erlassenen resp. hinreichend bestimmten Rechtsgrundlagen (siehe oben E. II
+Ziff. 6) und war verhältnismässig (siehe oben E. II Ziff. 7).
+Die ausserordentliche Staatsanwältin
+war als Verfahrensleiterin befugt, anlässlich des Einvernahmetermins am 22.
+Juni 2021 gegenüber dem Beschwerdeführer anzuordnen, dass er eine Maske
+tragen muss (siehe oben E. II Ziff. 6.3).
+Die Voraussetzungen dafür, den
+Beschwerdeführer nach Art. 64 Abs. 1 StPO mit einer Ordnungsbusse bis zu CHF
+1'000.— zu bestrafen, sind vorliegend somit erfüllt, weil er anlässlich des
+Einvernahmetermins am 22. Juni 2021 die ihm gegenüber befugt erlassene
+verfahrensleitende Anordnung missachtete, eine Maske tragen zu müssen.
+Im Übrigen hat der
+Beschwerdeführer durch seine Weigerung, anlässlich des Einvernahmetermins am
+22. Juni 2021 eine Maske zu tragen, eine Massnahme zum Schutz der Gesundheit
+insbesondere der anwesenden Personen vereitelt. Damit hat er die verfassungs-
+resp. gesetzmässig vorgesehene sichere Durchführung einer Verfahrenshandlung
+gestört (siehe oben E. II Ziff. 6.3). Folglich sind die Voraussetzungen
+für eine Ordnungsbusse auch deshalb erfüllt, weil der Beschwerdeführer i.S.v.
+Art. 64 Abs. 1 StPO den Geschäftsgang störte.
+Die Bestimmung von Art. 10 Abs. 1
+bis
+der Covid-19-Verordnung besondere Lage 2020 (resp. die betreffende Verordnung
+selbst) wurde zwar am 26. Juni 2021 aufgehoben (AS 2021 379). Dies ändert
+aber nichts daran, dass der Beschwerdeführer anlässlich des
+Einvernahmetermins am 22. Juni 2021 eine verfahrensleitende Anordnung
+missachtete und den Geschäftsgang störte, indem er keine Maske trug und
+dadurch eine Massnahme zum Schutz der Gesundheit insbesondere der anwesenden
+Personen, namentlich der verfahrensleitenden Staatsanwältin vereitelte.
+Hinzu kommt, dass Zeitgesetze,
+d.h. Erlasse mit von vornherein zeitlich beschränkter Geltungsdauer,
+auf die unter ihrer Herrschaft begangenen Verfehlungen
+auch
+dann anzuwenden sind, wenn sie ausser Kraft getreten sind (BGE 105 IV 1 E.
+1). Im Übrigen ist auch in der geltenden Covid-19-Verordnung besondere Lage
+vom 23. Juni 2021 (SR 818.101.26) in Art. 25 Abs. 2 das Tragen von Masken als
+mögliche Präventionsmassnahme zum Schutz von Arbeitnehmern vorgesehen.
+Die Höhe der
+vorliegend auferlegten Ordnungsbusse (CHF 250.—) ist nicht zu beanstanden,
+zumal sie sich im unteren Bereich des maximal Möglichen (CHF 1'000.—)
+befindet und es vorliegend (mittelbar) auch um den Gesundheitsschutz und
+damit den Schutz einer wichtigen Grundrechtsposition geht (siehe oben E. II
+Ziff. 6.3).
+Ebenfalls nicht zu
+beanstanden ist die Auferlegung von Kosten in Höhe von CHF 100.— (vgl.
+Art. 417 StPO).
+Im Ergebnis ist die
+Ordnungsbussenverfügung der Staatsanwaltschaft vom 23. Juni 2021 im Verfahren
+UB.2021.00754 zu Recht erfolgt und die Beschwerde daher abzuweisen.
+III.
+Bei diesem Ausgang hat der
+Beschwerdeführer die Kosten des Beschwerdeverfahrens zu tragen (Art. 428
+Abs. 1 StPO in Verbindung mit Art. 421 StPO). Die Gerichtsgebühr
+für das Beschwerdeverfahren ist auf CHF 800.— festzulegen (Art. 8
+Abs. 2 Bst. b der Zivil- und Strafprozesskostenverord­nung, GS III A/5).
+____________________
+Das
+Gericht beschliesst:
+1.
+Die Beschwerde wird abgewiesen.
+2.
+Die Gerichtsgebühr für das
+Beschwerdeverfahren wird festgesetzt auf CHF 800.—; sie wird dem
+Beschwerdeführer auferlegt und von ihm bezogen.
+3.
+Mitteilung an:
+[...]
