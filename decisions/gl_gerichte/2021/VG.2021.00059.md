@@ -1,0 +1,399 @@
+---
+decision_id: "gl_gerichte_VG.2021.00059"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2021.00059"
+docket_2: "VG.2021.1099"
+decided: "2021-12-09"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1520&W10_KEY=218274&nTrefferzeile=9&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/837.0/art-001.md", "switzerland/bund/acts/837.0/art-008.md", "switzerland/bund/acts/837.0/art-009.md", "switzerland/bund/acts/837.0/art-013.md", "switzerland/bund/acts/837.0/art-014.md", "switzerland/bund/acts/837.0/art-023.md", "switzerland/bund/acts/837.0/art-051.md", "switzerland/bund/acts/837.02/art-011.md", "switzerland/bund/acts/837.02/art-040.md"]
+---
+
+# GL Gerichte VG.2021.00059
+
+## Regeste
+
+Sozialversicherung - Arbeitslosenversicherung
+
+## Text
+
+Glarus Verwaltungsgericht 09.12.2021 VG.2021.00059 (VG.2021.1099)
+Glaris Verwaltungsgericht 09.12.2021 VG.2021.00059 (VG.2021.1099)
+Glarona Verwaltungsgericht 09.12.2021 VG.2021.00059 (VG.2021.1099)
+
+Sozialversicherung - Arbeitslosenversicherung
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+9. Dezember 2021
+II. Kammer
+Besetzung:
+Gerichtspräsident MLaw Colin Braun, Verwaltungsrichter Walter Salvadori,
+Verwaltungsrichter Samuel Bisig und Gerichtsschreiberin i.V. MLaw Leonora
+Muji
+in Sachen
+VG.2021.00059
+A.______
+Beschwerdeführer
+vertreten durch
+lic.
+iur.
+Philipp
+Langlotz,
+Rechtsanwalt
+gegen
+Amt für Wirtschaft und Arbeit des Kantons
+Glarus
+Beschwerdegegner
+betreffend
+Anspruchsberechtigung
+Die Kammer zieht in Erwägung:
+I.
+1.
+A.______ meldete sich am
+24. Juli 2020
+beim Regionalen Arbeitsvermittlungszentrum
+(RAV) in Glarus an und stellte einen Antrag auf Arbeitslosenentschädigung.
+Das Amt für Wirtschaft und Arbeit lehnte seine Anspruchsberechtigung am
+9. Dezember 2020 ab, woran es am 14. Juni 2021 trotz der dagegen
+erhobenen Einwände festhielt.
+2.
+A.______ gelangte am 16.
+August 2021 mit
+Beschwerde ans
+Verwaltungsgericht und beantragte die Aufhebung des
+Einspracheentscheids des
+Amts für Wirtschaft und Arbeit vom 14. Juni 2021
+sowie die Ausrichtung der gesetzlichen Leistungen. Eventualiter sei die Sache
+zur Neubeurteilung an das Amt für Wirtschaft und Arbeit zurückzuweisen. In
+prozessualer Hinsicht seien die Akten des Strafverfahrens gegen seine
+ehemalige Arbeitgeberin zu edieren und ihm sei die unentgeltliche
+Prozessführung sowie die unentgeltliche Rechtsverbeiständung zu gewähren. Das
+Amt für Wirtschaft und Arbeit schloss am 16. September 2021 auf Abweisung der
+Beschwerde; alles unter Kosten- und Entschädigungsfolgen zu Lasten von
+A.______.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 1 Abs. 1 des Bundesgesetzes über die obligatorische
+Arbeitslosenversicherung und die Insolvenzentschädigung vom 25. Juni
+1982 (AVIG) i.V.m. Art. 56 ff. des Bundesgesetzes über den
+Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober 2000
+(ATSG) i.V.m. Art. 12 Abs. 2 des Einführungsgesetzes zum
+Bundesgesetz über die obligatorische Arbeitslosenversicherung und die
+Insolvenzentschädigung vom 6. Mai 1984 (EG AVIG) zur Behandlung der
+vorliegenden Beschwerde zuständig. Da auch die übrigen Prozessvoraussetzungen
+erfüllt sind, ist auf die Beschwerde einzutreten.
+2.
+2.1
+Gemäss Art. 8 Abs. 1 AVIG hat der Versicherte
+Anspruch auf Arbeitslosenentschädigung, wenn er ganz oder teilweise
+arbeitslos ist (lit. a); einen anrechenbaren Arbeitsausfall erlitten hat
+(lit. b); in der Schweiz wohnt (lit. c); die obligatorische
+Schulzeit zurückgelegt und weder das Rentenalter der AHV erreicht hat noch
+eine Altersrente der AHV bezieht (lit. d); die Beitragszeit erfüllt hat
+oder von der Erfüllung der Beitragszeit befreit ist (lit. e);
+vermittlungsfähig ist (lit. f) und die Kontrollvorschriften erfüllt
+(lit. g).
+2.2
+Nach Art. 13 Abs. 1 AVIG erfüllt die Beitragszeit,
+wer innerhalb der dafür vorgesehenen Rahmenfrist während mindestens zwölf
+Monaten eine beitragspflichtige Beschäftigung ausgeübt hat. Für den
+Leistungsbezug und für die Beitragszeiten gelten, sofern dieses Gesetz nichts
+anderes vorsieht, zweijährige Rahmenfristen (Art. 9
+Abs. 1 AVIG). Die Rahmenfrist für den Leistungsbezug beginnt mit
+dem ersten Tag, für den sämtliche Anspruchsvoraussetzungen erfüllt sind
+(Art. 9 Abs. 2 AVIG). Die Rahmenfrist für die Beitragszeit beginnt
+zwei Jahre vor dem Tag, für den sämtliche Anspruchsvoraussetzungen erfüllt
+sind (Art. 9 Abs. 3 AVIG). Gemäss Art. 11 Abs. 1 der Verordnung
+über die obligatorische Arbeitslosenversicherung und die
+Insolvenzentschädigung vom 31. August 1983 (AVIV) zählt als Beitragsmonat
+jeder volle Kalendermonat, in dem der Versicherte beitragspflichtig ist. Nach
+Art. 11 Abs. 2 AVIV werden Beitragszeiten, die nicht einen
+vollen Kalendermonat umfassen, zusammengezählt, wobei je 30 Kalendertage
+als ein Beitragsmonat gelten.
+3.
+3.1
+Der Beschwerdeführer bringt vor, der
+Beschwerdegegner habe sich bei der Prüfung der beitragspflichtigen
+Beschäftigung zu Unrecht einzig am Lohnfluss orientiert. Es sei vollständig
+ausser Acht gelassen worden, ob er innerhalb der Rahmenfrist tatsächlich
+gearbeitet habe. Dies sei denn auch nicht ausreichend überprüft worden, was
+eine Verletzung des Untersuchungsgrundsatzes darstelle. Mit Blick auf die im
+Recht liegenden Akten werde überdies deutlich, dass eine genügend
+anrechenbare Beschäftigung vorliege und er folglich die
+Anspruchsvoraussetzungen für den streitbetroffenen Leistungsbezug erfülle. So
+sei er vom 1. Juni 2018 bis zum 30. November 2018 und im Februar 2019
+bis März 2019 bei der B.______AG tätig gewesen. Dadurch sei ihm eine Beitragszeit
+von sieben Monaten anzurechnen, zumal unerheblich sei, dass die B.______AG
+einzelne seiner Lohnansprüche mit Gegenforderungen verrechnet habe. Sodann
+habe er vom 1. April 2019 bis zum 17. Juni 2020 für die C.______GmbH
+gearbeitet. Dabei habe der Beschwerdegegner fälschlicherweise lediglich die
+Monate April und Mai 2019 als Beitragszeit berücksichtigt. Ferner habe er ab
+August 2019 aufgrund von Zahlungsschwierigkeiten der damaligen Arbeitgeberin
+zwar keine oder kaum Lohnzahlungen mehr erhalten. Hingegen ergebe sich unter
+anderem gestützt auf die im Recht liegenden Stundenrapporte, die
+Lohnabrechnungen, die einzelnen Akontozahlungen vonseiten der ehemaligen
+Arbeitgeberin sowie die sonstigen Umstände, dass er von April 2019 bis zum
+17. Juni 2020 für die C.______GmbH tätig gewesen sei, was als
+Beitragszeit anzurechnen sei. Im Übrigen sei darauf hinzuweisen, dass ihm
+wegen der Insolvenz der C.______GmbH gestützt auf Art. 51 Abs.
+1 AVIG ohnehin drei bis vier Monate als Beitragszeit
+gutzuschreiben seien, was der Beschwerdegegner verkannt habe. Damit erfülle
+er im Ergebnis die erforderliche Mindestbeitragszeit, weshalb er Anspruch auf
+Arbeitslosenentschädigung habe.
+3.2
+Der Beschwerdegegner stellt sich auf den
+Standpunkt, während der Rahmenfrist vom 17. Juli 2018 bis zum 16. Juli 2020
+sei die erforderliche Mindestbeitragszeit von zwölf Monaten nicht
+nachgewiesen. So sei nämlich erforderlich, dass eine beitragspflichtige
+Beschäftigung ausgeübt worden sei und der Versicherte hierfür auch effektiv
+Lohn erhalten habe. Ein solcher Lohnfluss sei in Bezug auf die Tätigkeiten
+für die B.______AG und die C.______GmbH lediglich für sechs Monate,
+namentlich für Juli bis September 2018 und für Juni bis August 2019
+nachgewiesen, weshalb der Beschwerdeführer im Ergebnis keinen Anspruch auf
+Arbeitslosenentschädigung habe.
+4.
+4.1
+Vorliegend ist unbestritten, dass die
+Rahmenfrist für die Beitragszeit vom 17. Juli 2018 bis zum 16. Juli 2020
+angedauert hat und die Rahmenfrist für den Leistungsbezug frühestens am 17.
+Juli 2020 eröffnet worden ist. Ebenso ergibt sich weder aus den Akten noch
+wird geltend gemacht, dass der Beschwerdeführer gestützt auf Gründe im Sinne
+von Art. 14 AVIG von der Erfüllung der Beitragszeit befreit wäre. Strittig
+und zu prüfen ist indessen, ob Letzterer die erforderliche
+Mindestbeitragszeit von zwölf Monaten innerhalb der Rahmenfrist mit dem Grad
+der überwiegenden Wahrscheinlichkeit erfüllt hat.
+4.2
+Indem der Beschwerdegegner die Erfüllung der
+Mindestbeitragszeit mit der Begründung verneint hat, ein tatsächlicher
+Lohnbezug sei nur für maximal sechs Monate ausgewiesen, hat er den Nachweis
+der Lohnzahlung zur Anspruchsvoraussetzung erklärt, was sowohl der
+bundesgerichtlichen Rechtsprechung als auch der von ihm selbst angeführten
+Praxis (AVIG-Praxis, ALE, Oktober 2012, Rz. B144) zuwiderläuft.
+So ist Voraussetzung für den Anspruch auf
+Arbeitslosenentschädigung unter dem Gesichtspunkt der erfüllten Beitragszeit
+gemäss Art. 8 Abs. 1 lit. e AVIG i.V.m. Art. 13 Abs. 1 AVIG
+grundsätzlich einzig die Ausübung einer beitragspflichtigen Beschäftigung
+während der geforderten Dauer von mindestens zwölf Beitragsmonaten. Diese
+Tätigkeit muss genügend überprüfbar sein. Dem Nachweis tatsächlicher
+Lohnzahlungen kommt dabei nicht der Sinn einer selbstständigen Anspruchsvoraussetzung
+zu. Gleichwohl handelt es sich dabei aber um ein bedeutsames und in
+kritischen Fällen unter Umständen ausschlaggebendes Indiz für die Ausübung
+einer beitragspflichtigen Beschäftigung. Soweit eine solche Beschäftigung
+nachgewiesen, der exakte Lohn jedoch unklar geblieben ist, hat eine Korrektur
+über den versicherten Verdienst zu erfolgen (vgl. BGE 131
+V 444 E. 3.2.3 f.; BGer-Urteil 8C_297/2019 vom 29. August
+2019 E. 5, 8C_749/2018 vom 28. Februar 2019 E. 3.2).
+Nach dem oben Dargelegten sind anders als bei der
+Bemessung des versicherten Verdienstes (Art. 23 Abs. 1 AVIG i.V.m. Art. 40
+AVIV) die vom Beschwerdeführer vorgebrachten fehlenden Lohnzahlungen bei der
+Beurteilung der erfüllten Beitragszeit einzig als Indizien zu betrachten,
+welche im Rahmen einer Würdigung aller Umstände mitzuberücksichtigen sind.
+4.3
+4.3.1
+Aus den Akten ergibt sich, dass der
+Beschwerdeführer vom 1. Juni 2018 bis zum 31. März 2019 mit Ausnahme der
+Monate Dezember 2018 sowie Januar 2019 bei der B.______AG arbeitstätig war
+(vgl. hierzu den diesbezüglichen Arbeitsvertrag vom 30. Mai 2018
+sowie die im Recht liegenden Lohnabrechnungen). Dies wird vom
+Beschwerdegegner nicht in Abrede gestellt. Mit Blick auf diese Tätigkeit und
+gestützt auf die bei den Akten liegenden Bankbelege bzw. die darin
+ersichtlichen Lohnzahlungen ging Letzterer sodann richtigerweise von einer
+beitragspflichtigen Beschäftigung während den Monaten Juli 2018 bis September
+2018 aus. Damit ergeben sich für die Monate August und September 2018 zwei
+volle Beitragsmonate. Für den Monat Juli 2018 ist demgegenüber zu
+berücksichtigen, dass die Rahmenfrist für die Beitragszeit erst am 17. Juli
+2018 begann, weshalb lediglich elf Werktage bzw. mit Blick auf die
+Regeln zur Ermittlung der Beitragszeit (vgl. AVIG-Praxis, ALE, Oktober
+2012, Rz. B150) 15,4 Kalendertage (11 x 1,4) anzurechnen sind.
+4.3.2
+Soweit der Beschwerdegegner für die Monate
+Oktober 2018, November 2018, Februar 2019 und März 2019 aufgrund fehlender
+Lohnzahlungen davon ausgeht, dem Beschwerdeführer seien keine diesbezüglichen
+Beitragszeiten anzurechnen, ist ihm nicht zu folgen. So führt er gestützt auf
+die Aussagen der Arbeitgeberin (vgl. Klageantwort der B.______AG vom 20.
+August 2020) zunächst richtigerweise ins Feld, dass die B.______AG eine Arbeitstätigkeit
+für diese Monate bejaht hatte. Hingegen verkennt er alsdann, dass diese
+Monate selbst dann Beitragszeiten darstellen, wenn der Beschwerdeführer
+effektiv keinen Lohn erhalten hat. Vielmehr ist nach dem oben Dargelegten
+(vgl. vorstehende E. II/4.2) einzig relevant, dass der
+Beschwerdeführer in dieser Zeit eine beitragspflichtige Beschäftigung
+ausgeübt hat, wobei unerheblich ist, ob seine Lohnforderungen ausbezahlt oder
+mit den von der Arbeitgeberin geltend gemachten Gegenforderungen verrechnet wurden.
+Darüber hinaus ist zu berücksichtigen, dass die B.______AG die
+Lohnforderungen anerkannt hat, womit erstellt ist, dass der Beschwerdeführer
+eine beitragspflichtige Tätigkeit ausgeübt hat. Demgemäss sind die Monate
+Oktober 2018, November 2018, Februar 2019 und März 2019 ebenfalls als
+Beitragszeiten anzurechnen.
+4.3.3
+Somit ist festzuhalten, dass aus dem
+Arbeitsverhältnis zwischen der B.______AG und dem Beschwerdeführer eine
+anrechenbare Beitragszeit von sechs vollen Monaten und
+15,4 Kalendertagen resultiert.
+4.4
+4.4.1
+Weiter liegt ein Arbeitsvertrag zwischen der
+C.______GmbH und dem Beschwerdeführer vom 1.
+April 2019 im Recht, wonach Letzterer ab dem 1. April 2019 für die
+C.______GmbH
+als Gipser tätig war. Dieses Arbeitsverhältnis kündigte
+ihm die
+C.______GmbH
+am 7. Juli 2020
+per 30. August 2020. Hierzu ist festzuhalten, dass selbst der
+Beschwerdegegner nicht in Frage stellt, dass ein entsprechendes
+Arbeitsverhältnis begründet worden war. So weist er im vorliegend
+angefochtenen Entscheid nämlich explizit auf einen diesbezüglichen Lohnfluss
+für die Monate April sowie Mai 2019 hin und anerkennt eine Anrechnung dieser
+Beitragszeit. Demgemäss ist zumindest für die Monate April sowie Mai 2019 von
+einer unbestritten gebliebenen beitragspflichtigen Tätigkeit des
+Beschwerdeführers auszugehen und ihm sind hierfür zwei volle Beitragsmonate
+anzurechnen.
+4.4.2
+Sodann ergibt sich aus dem
+Handelsregisterauszug der
+C.______GmbH vom
+[…], dass die Firma mit Registereintrag vom […] von Amtes wegen als aufgelöst
+erklärt wurde. Der Registerauszug des Betreibungsamts […] vom […] erhellt
+überdies, dass die C.______GmbH offensichtlich überschuldet war. Folglich ist
+ohne Weiteres von einem Ereignis im Sinne von Art. 51 Abs. 1 AVIG
+auszugehen. Weil darüber hinaus nicht ersichtlich ist, dass der
+Beschwerdeführer
+der
+C.______GmbH seine
+Arbeitsleistung nicht gehörig angeboten hatte bzw. ihm erst am
+7. Juli 2020 per 30. August 2020 gekündigt worden war, ist die Zeit
+ab der Liquidation des Unternehmens bis zum Ende der Rahmenfrist am 17. Juli
+2020 ebenfalls als Beitragszeit anzurechnen (vgl. AVIG- Praxis, ALE,
+Oktober 2012, Rz. B144). Folglich sind der volle Monat Juni 2020 und im
+Juli 13 Werktage bzw. 18,2 Kalendertage (13 x 1,4
+[vgl. AVIG-Praxis, ALE, Oktober 2012, Rz. B150]) bei der
+Beitragszeit zu berücksichtigen.
+4.4.3
+Gestützt auf das oben Dargelegte ist beim
+Beschwerdeführer für die Monate Juli 2018 bis November 2018, Februar 2019 bis
+Mai 2019 sowie Juni 2020 und Juli 2020 bereits von einer Beitragszeit von
+zehn Monaten und 3,6 Tagen auszugehen. Dadurch fehlen ihm innerhalb der
+verbleibenden Rahmenfrist, namentlich während der Monate Juni 2019 bis Mai
+2020, lediglich noch eine beitragspflichtige Tätigkeit von
+56,4 Kalendertagen oder 40,3 Werktagen zur Erfüllung der erforderlichen
+Mindestbeitragszeit. Zwar kann dem Beschwerdegegner diesbezüglich darin
+gefolgt werden, dass für diese Monate kein effektiver Lohnfluss nachgewiesen
+werden konnte. Wie bereits dargelegt, ist dieser Umstand jedoch lediglich als
+Indiz in eine Gesamtwürdigung miteinzubeziehen. Sodann ist festzuhalten, dass
+die im Recht liegenden Quellensteuer- und IK‑Auszüge sowie die
+fehlenden Sozialversicherungsabgaben ebenfalls nicht hinreichend darauf
+hinweisen, dass der Beschwerdeführer in der entsprechenden Zeit keiner
+beitragspflichtigen Arbeitstätigkeit nachging, zumal offensichtlich kein Lohn
+ausbezahlt wurde und entsprechend hätte besteuert oder beitragspflichtig
+abgerechnet werden müssen. Vielmehr ist gestützt auf die bei den Akten
+liegenden Arbeitsrapporte, die vom Beschwerdeführer geltend gemachten
+Akontozahlungen, dem gegenüber der
+C.______GmbH
+eingeklagten Forderungsbetrag, welcher im Übrigen betrieben und wogegen kein
+Rechtsvorschlag erhoben wurde, sowie den vom Beschwerdeführer zusätzlich ins
+Recht gelegten Belegen (beispielsweise der Screenshot der Nachricht, wonach
+die C.______GmbH ausführt, dass noch Zahlungen ausstehend seien) mit
+überwiegender Wahrscheinlichkeit davon auszugehen, dass er innerhalb der
+verbleibenden zwölf Monate die zusätzlich erforderlichen beitragspflichtigen
+Tage (40,3 Werktage) gearbeitet hat. Hierfür spricht insbesondere auch,
+dass sich der Beschwerdeführer bei einer Nichterwerbstätigkeit von rund einem
+Jahr offensichtlich um Arbeit bemüht hätte oder sich zumindest gegenüber der
+damaligen Arbeitgeberin zu Wehr gesetzt hätte, wobei sich diesbezüglich keine
+Hinweise bei den Akten finden lassen. Ferner hätte bei einer einjährigen
+Nichterwerbstätigkeit für die C.______GmbH wohl bereits früher ein Grund
+dafür bestanden, das Arbeitsverhältnis zu kündigen. Dies war nachweislich
+jedoch erst im Juli 2020 der Fall. Schliesslich ist darauf hinzuweisen, dass
+der Beschwerdegegner hinsichtlich der Tätigkeit bei der C.______GmbH in der
+Verfügung vom 9. Dezember 2020 selbst noch von einem Lohnfluss in den Monaten
+Juni 2019 bis August 2019 ausging, womit er gegenüber dem vorliegend
+angefochtenen Entscheid noch mehr als zwei Beitragsmonate im Rahmen des
+Arbeitsverhältnisses mit der C.______GmbH anerkannte. Es erscheint somit
+selbst bei nicht nachgewiesenen Lohnzahlungen überwiegend wahrscheinlich,
+dass der Beschwerdeführer zwischen Juni 2019 und Mai 2020 während mindestens
+40,3 Werktagen für die C.______GmbH einer beitragspflichtigen Tätigkeit
+nachging.
+5.
+Zusammenfassend ergibt
+sich, dass der Beschwerdeführer die erforderliche Mindestbeitragszeit während
+der Rahmenfrist vom 17. Juli 2018 bis zum 16. Juli 2020 mit
+überwiegender Wahrscheinlichkeit erfüllt hat. Folglich hat der
+Beschwerdegegner die übrigen Anspruchsvoraussetzungen zu prüfen bzw. insbesondere
+den versicherten Verdienst festzulegen, wozu er unter Umständen weitergehende
+Abklärungen (beispielsweise die Edition der vom Beschwerdeführer erwähnten
+Strafakten, die Einholung der Unterlagen des Treuhänders der C.______GmbH
+oder dessen Befragung) vorzunehmen hat.
+Dies führt zur Gutheissung der Beschwerde. Der
+Einspracheentscheid des Beschwerdegegners vom 14. Juni 2021 sowie dessen
+Verfügung vom 9. Dezember 2020 sind aufzuheben und die Sache ist zur Prüfung
+der weiteren Anspruchsvoraussetzungen an diesen zurückzuweisen.
+III.
+1.
+Die Gerichtskosten sind
+von Gesetzes wegen auf die Staatskasse zu nehmen (Art. 1 Abs. 1 AVIG
+i.V.m. Art. 61 lit. fbis ATSG). Dem obsiegenden Beschwerdeführer steht gemäss
+Art. 1 Abs. 1 AVIG i.V.m. Art. 61 lit. g ATSG zu Lasten des Beschwerdegegners
+eine Parteientschädigung zu. Diese ist ohne Rücksicht auf den Streitwert nach
+der Bedeutung der Streitsache und nach der Schwierigkeit des Prozesses zu
+bemessen und vorliegend auf Fr. 1'500.- (inkl. Mehrwertsteuer) festzusetzen.
+2.
+2.1
+Der Beschwerdeführer beantragt die
+Gewährung der unentgeltlichen Prozessführung und der unentgeltlichen
+Rechtsverbeiständung. Gemäss Art. 139 Abs. 1 des Verwaltungsrechtspflegegesetzes
+vom 4. Mai 1986 (VRG) befreit die Behörde eine Partei, der die Mittel fehlen,
+um neben dem Lebensunterhalt für sich und ihre Familie die Verfahrenskosten
+aufzubringen, auf Gesuch hin ganz oder teilweise von der Kosten- und
+Vorschusspflicht, sofern das Verfahren nicht aussichtslos ist.
+2.2
+Da dem Beschwerdeführer keine
+Gerichtskosten aufzuerlegen sind, ist sein Gesuch um unentgeltliche
+Prozessführung als gegenstandslos geworden abzuschreiben.
+2.3
+Die
+Mittellosigkeit des Beschwerdeführers ergibt sich ohne Weiteres aus den
+Akten. Da seine Beschwerde gutzuheissen ist, kann das Verfahren auch nicht
+als aussichtslos bezeichnet werden. Sodann war der Beschwerdeführer auf eine
+rechtliche Vertretung angewiesen, weshalb sein Gesuch um unentgeltliche
+Rechtsverbeiständung gutzuheissen und ihm in der Person von Rechtsanwalt
+lic. iur. Philipp Langlotz ein unentgeltlicher Rechtsbeistand zu
+bestellen ist. Dieser ist mit pauschal Fr. 1'500.- (inkl. Mehrwertsteuer)
+zu entschädigen. Daran ist die Parteientschädigung seitens des
+Beschwerdegegners in gleicher Höhe anzurechnen.
+Demgemäss beschliesst die Kammer
+:
+1.
+Das
+Gesuch des Beschwerdeführers um Gewährung der unentgeltlichen Prozessführung
+wird als gegenstandslos geworden abgeschrieben.
+2.
+Das
+Gesuch des Beschwerdeführers um Gewährung der unentgeltlichen Rechtsverbeiständung
+wird gutgeheissen. Ihm wird in der Person von lic. iur. Philipp
+Langlotz ein unentgeltlicher Rechtsbeistand bestellt.
+3.
+Der Rechtsbeistand wird zu Lasten der
+Gerichtskasse mit Fr. 1'500.- (inkl. Mehrwertsteuer) entschädigt.
+Daran angerechnet wird die Parteientschädigung seitens des
+Beschwerdegegners in gleicher Höhe.
+und erkennt sodann:
+1.
+Die
+Beschwerde wird gutgeheissen. Der Einspracheentscheid des Beschwerdegegners
+vom 14. Juni 2021 sowie dessen Verfügung vom 9. Dezember 2020 werden
+aufgehoben und die Sache wird im Sinne der Erwägungen an diesen zurückgewiesen.
+2.
+Die
+Gerichtskosten werden auf die Staatskasse genommen.
+3.
+Der
+Beschwerdegegner wird verpflichtet, dem Beschwerdeführer innert
+30 Tagen nach Rechtskraft dieses Entscheids eine Parteientschädigung
+von Fr. 1'500.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
