@@ -1,0 +1,289 @@
+---
+decision_id: "gl_gerichte_VG.2021.00075"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2021.00075"
+docket_2: "VG.2022.1120"
+decided: "2022-02-10"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1545&W10_KEY=218274&nTrefferzeile=9&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/837.0/art-001.md", "switzerland/bund/acts/837.0/art-030.md"]
+---
+
+# GL Gerichte VG.2021.00075
+
+## Regeste
+
+Sozialversicherung - Arbeitslosenversicherung
+
+## Text
+
+Glarus Verwaltungsgericht 10.02.2022 VG.2021.00075 (VG.2022.1120)
+Glaris Verwaltungsgericht 10.02.2022 VG.2021.00075 (VG.2022.1120)
+Glarona Verwaltungsgericht 10.02.2022 VG.2021.00075 (VG.2022.1120)
+
+Sozialversicherung - Arbeitslosenversicherung
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+10. Februar 2022
+II. Kammer
+Besetzung:
+Gerichtspräsident MLaw Colin Braun, Verwaltungsrichter Walter Salvadori,
+Verwaltungsrichter Samuel Bisig und Gerichtsschreiberin i.V. MLaw Valentina
+Flückiger
+in Sachen
+VG.2021.00075
+A.______
+Beschwerdeführer
+gegen
+Amt für Wirtschaft und Arbeit des
+Kantons Glarus
+Beschwerdegegner
+betreffend
+Einstellung in der Anspruchsberechtigung
+Die Kammer zieht in Erwägung:
+I.
+1.
+Nachdem sich A.______ am
+12. Juni 2019 beim Regionalen Arbeitsvermittlungszentrum (RAV) Glarus
+angemeldet hatte, trat er am 1. Februar 2021 eine Arbeitsstelle im
+Zwischenverdienst bei der B.______AG an. Das Arbeitsverhältnis endete am
+16. April 2021.
+2.
+Das Amt für Wirtschaft und
+Arbeit des Kantons Glarus stellte A.______ am 28. Mai 2021 wegen
+selbstverschuldeter Arbeitslosigkeit für 33.3 Tage in der
+Anspruchsberechtigung ein. Die von ihm am 31. Mai 2021 hiergegen
+erhobene Einsprache wies das Amt für Wirtschaft und Arbeit am 28. Juli
+2021 ab.
+3.
+A.______ gelangte mit
+Beschwerde vom 13. September 2021 ans Verwaltungsgericht und beantragte
+sinngemäss die Aufhebung des Einspracheentscheids sowie den Verzicht auf die
+Einstellung in seiner Anspruchsberechtigung. Das Amt für Wirtschaft und
+Arbeit liess sich am 6. Oktober 2021 vernehmen und schloss auf Abweisung
+der Beschwerde; unter Kosten- und Entschädigungsfolge zu Lasten von A.______.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 1 Abs. 1 des Bundesgesetzes über die obligatorische
+Arbeitslosenversicherung und die Insolvenzentschädigung vom 25. Juni
+1982 (AVIG) i.V.m. Art. 56 f. des Bundesgesetzes über den
+Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober 2000 (ATSG)
+i.V.m. Art. 12 Abs. 2 des Einführungsgesetzes zum Bundesgesetz über
+die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung
+vom 6. Mai 1984 (EG AVIG) zur Behandlung der vorliegenden Beschwerde
+zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt sind, ist auf
+die Beschwerde einzutreten.
+2.
+2.1
+Gemäss
+Art. 30 Abs. 1 lit. a AVIG ist eine versicherte Person in der
+Anspruchsberechtigung einzustellen, wenn sie durch eigenes Verschulden
+arbeitslos geworden ist.
+Zweck der Einstellung
+als
+versicherungsrechtliche Sanktion ist die angemessene
+Mitbeteiligung des Versicherten am Schaden, den er durch sein pflichtwidriges
+Verhalten der Arbeitslosenversicherung natürlich und adäquat kausal
+verursacht hat (BGE 122 V 34 E. 4c/aa, mit Hinweis). Eine
+Einstellung in der Anspruchsberechtigung gemäss Art. 30 Abs. 1 lit. a
+AVIG kann nur verfügt werden, wenn der Eintritt der Arbeitslosigkeit nicht
+auf objektive Faktoren zurückzuführen ist, sondern in einem vermeidbaren Verhalten
+der versicherten Person liegt. Dieses Verhalten muss beweismässig klar
+feststehen (BGer-Urteil 8C_22/2016 vom 3. März 2016 E. 4.2, mit
+Hinweisen).
+2.2
+2.2.1
+Gemäss Art. 18 Abs. 1 des Obligationenrechts vom 30. März 1911 (OR)
+ist bei der Beurteilung eines Vertrags sowohl nach Form als auch nach Inhalt
+der übereinstimmende wirkliche Wille und nicht die unrichtige Bezeichnung
+oder Ausdrucksweise zu beachten, die von den Parteien aus Irrtum oder in der
+Absicht gebraucht wird, die wahre Beschaffenheit des Vertrags zu verbergen.
+2.2.2
+Im
+schweizerischen Vertragsrecht gilt bei Fragen des Konsenses und der Auslegung
+der Grundsatz des Primats des subjektiv übereinstimmend Gewollten vor dem
+objektiv Erklärten, subjektiv aber unterschiedlich Verstandenen. Im Konsens-
+wie im Auslegungsstreit hat das Sachgericht vorab zu prüfen, ob sich die
+Parteien tatsächlich übereinstimmend geäussert, verstanden und in diesem
+Verständnis geeinigt haben (subjektive Auslegung). Ist dies zu bejahen, liegt
+ein tatsächlicher Konsens vor (BGer-Urteil 4A_409/2017 vom 17. Januar 2018
+E. 3.1, mit Hinweisen).
+2.2.3
+Bei
+der Ermittlung des Parteiwillens spielt der Vertragszweck eine entscheidende
+Rolle. Er entspricht der teleologischen Auslegung bei der Interpretation von
+Gesetzen. Analog dazu muss der Zweck vielfach selbst durch Auslegung
+ermittelt werden. Dies geschieht insbesondere durch einen Rückgriff auf die
+Interessenlage der Parteien und weitere erkennbare Motive, die für den
+Abschluss des Vertrags massgebend waren. Das Verhalten nach Vertragsschluss
+ist nur insofern zu berücksichtigen, als daraus Rückschlüsse auf den Willen
+bei Vertragsschluss zu ziehen sind. In diesem Zusammenhang sind vor allem
+Erfüllungshandlungen der Parteien, Geltenlassen des Vertrags sowie die
+gesamte Art und Weise der Vertragsabwicklung zu beachten (
+Wolfgang
+Wiegand
+, in Corinne Widmer Lüchinger/David
+Oser [Hrsg.], Basler Kommentar Obligationenrecht I, 7. A., Basel/Zürich
+2020,
+Art. 18 N. 29 f., mit Hinweisen)
+.
+2.2.4
+Wichtigster Grundsatz bei der Vertragsauslegung ist
+die Interpretation des Vertrags nach dem Prinzip von Treu und Glauben. Die
+Auslegung erfolgt ex tunc. Das heisst, es ist auf den Zeitpunkt des
+Vertragsschlusses abzustellen. Bei der Ermittlung des wirklichen
+Parteiwillens darf sich das Gericht nicht nur auf den Wortlaut stützen und es
+darf die Worte nicht formalistisch oder rein grammatikalisch interpretieren.
+In diesem Zusammenhang gilt ein Verbot der Buchstabenauslegung (
+Wiegand, Art. 18 N. 35 ff., mit
+Hinweisen
+).
+3.
+3.1
+Der Beschwerdeführer rügt, er habe die
+Arbeitslosigkeit nicht selbst verschuldet. Die B.______AG habe ihm mündlich
+gekündigt, was er "wohl oder übel" habe akzeptieren müssen. Es habe
+bei der B.______AG keine Arbeit mehr für ihn gegeben. Ohnehin sei Letztere
+der Auffassung gewesen, dass die Arbeit für ihn zu anspruchsvoll sei. Einen
+Hausarzt habe er nicht aufgesucht, da er der Ansicht sei, alle anderen
+körperlichen Arbeiten bewältigen zu können.
+3.2
+Der Beschwerdegegner bringt demgegenüber vor,
+aufgrund der mehrmaligen mündlichen Verlängerung des (wöchentlichen)
+Arbeitsvertrags sei von einem unbefristeten Arbeitsvertrag
+(Kettenarbeitsvertrag) auszugehen. Die B.______AG habe denn auch
+korrekterweise eine Probezeit von drei Monaten mit einer Kündigungsfrist von
+einer Woche angegeben. Auch der Beschwerdeführer habe geäussert, dass die
+Kündigung gegenseitig und mündlich erfolgt und er nicht vor die Wahl gestellt
+worden sei, selbst zu kündigen oder die Kündigung entgegenzunehmen. Ein
+temporäres Arbeitsverhältnis könne folglich nicht bejaht werden, womit im
+Ergebnis eine selbstverschuldete Arbeitslosigkeit und folglich ein
+einstellungswürdiges Fehlverhalten vorliege.
+4.
+4.1
+Streitig und zu prüfen ist, ob und gegebenenfalls
+für welche Dauer der Beschwerdeführer in der Anspruchsberechtigung
+einzustellen ist. Hierzu ist zunächst zu klären, ob dem vorliegenden
+Sachverhalt ein befristetes oder unbefristetes Arbeitsverhältnis zugrunde
+liegt. Aus den Akten ergibt sich diesbezüglich, dass kein schriftlicher
+Arbeitsvertrag existiert. Da die Auskünfte der Vertragsparteien sodann
+teilweise inkonsistent sind, ist zu beurteilen, ob ein übereinstimmender
+Wille hinsichtlich der Natur des Arbeitsverhältnisses vorlag. Beweismittel
+hierfür sind die Auskünfte sowie die eingereichten Urkunden der B.______AG
+und die Angaben des Beschwerdeführers, wobei als Auslegungsmittel der
+Vertragszweck sowie das Verhalten der Vertragsparteien nach Vertragsschluss
+zu berücksichtigen sind (vgl. vorstehende E. II/2.2).
+4.2
+4.2.1
+Der Beschwerdeführer war vom 1. bis 3. und am
+5. Februar 2021, vom 15. bis 31. März 2021 sowie vom 1. bis
+16. April 2021 für die B.______AG als Hilfsmonteur tätig. Die B.______AG
+bezeichnete dieses Arbeitsverhältnis unter anderem als "Praktikum"
+bzw. als Arbeitsverhältnis "ohne Arbeitsvertrag". Es seien mehrere
+aufeinanderfolgende "Probewochen" vereinbart worden und der
+Arbeitseinsatz sei jeweils am Freitag der Vorwoche besprochen worden. Auf der
+Lohnabrechnung des Monats April 2021 ist sodann ersichtlich, dass der Beschwerdeführer
+keiner beruflichen Vorsorge angeschlossen war, was gemäss Art. 1j Abs. 1
+lit. b der Verordnung über die berufliche Alters-, Hinterlassenen- und
+Invalidenvorsorge vom 18. April 1984 (BVV 2) lediglich bei befristeten
+Arbeitsverhältnissen von höchstens drei Monaten, nicht jedoch bei einem
+unbefristeten Arbeitsverhältnis mit einer Probezeit von drei Monaten möglich
+ist. Die vorgenannten Indizien deuten dabei darauf hin, dass die B.______AG
+kein unbefristetes Arbeitsverhältnis mit dem Beschwerdeführer eingehen wollte.
+Entsprechend war auch der Beschwerdeführer der Auffassung, lediglich temporär
+bei der B.______AG angestellt gewesen zu sein. Er bringt hierzu unter anderem
+vor, dass er nur vorübergehend einen unfallbedingt ausgefallenen Arbeitnehmer
+ersetzt habe. Schliesslich ist auf den Rahmenvertrag Personalverleih
+hinzuweisen, wonach die Arbeit grundsätzlich als befristet zu gelten hat,
+andernfalls das Arbeitsverhältnis explizit als unbefristet bezeichnet werden
+müsse.
+4.2.2
+Aus den Akten lassen sich indessen auch Indizien
+für ein unbefristetes Arbeitsverhältnis entnehmen, indem die Parteien
+offenbar eine Probezeit von drei Monaten und eine Kündigungsfrist von einer
+Woche vereinbaren wollten. Überdies erwähnte die B.______AG in der
+Bescheinigung über den Zwischenverdienst des Monats März 2021, dass der
+Beschwerdeführer nun auf "unbestimmte Zeit" angestellt sei. Beide
+Vertragsparteien führen sodann aus, dass das Arbeitsverhältnis in
+gegenseitigem Einvernehmen aufgelöst worden sei, was in der Bescheinigung
+über den Zwischenverdienst des Monats April 2021 entsprechend deklariert
+wurde.
+4.2.3
+Trotz der sich widersprechenden
+Indizien kann im vorliegenden Fall allerdings ein übereinstimmender Wille der
+Vertragsparteien bei Vertragsschluss festgestellt werden. Aus den Aussagen
+der B.______AG lässt sich nämlich folgern, dass sie den Beschwerdeführer bei
+Vertragsschluss nicht unbefristet anstellte, sondern dessen Eignung anhand
+mehrerer Arbeitseinsätze beurteilen wollte. Dass der Beschwerdeführer eine
+andere Vorstellung von dieser Vereinbarung hatte, geht aus den Akten nicht
+hervor. Vielmehr bestätigte er mehrfach, lediglich temporär für die
+B.______AG tätig gewesen zu sein. Die Interessenlage der Vertragsparteien bei
+Vertragsschluss war dementsprechend deckungsgleich. Daran vermag schliesslich
+auch der Umstand nichts zu ändern, dass die Vertragsparteien an gewissen
+Stellen von einer einvernehmlichen Kündigung sprechen. Vielmehr ist die von
+den Vertragsparteien als Kündigung bezeichnete Aufhebung des
+Arbeitsverhältnisses dahingehend zu verstehen, als dass der Arbeitsversuch
+bzw. die Prüfung der Eignung des Beschwerdeführers im Hinblick auf eine
+Festanstellung von beiden Seiten als gescheitert betrachtet wurde.
+4.2.4.
+Als Zwischenfazit ist
+festzuhalten, dass die Indizien für ein befristetes Arbeitsverhältnis
+diejenigen für ein unbefristetes Arbeitsverhältnis überwiegen. Nach Treu und
+Glauben bestand ein dahingehender Konsens zwischen den Vertragsparteien, als
+dass der Beschwerdeführer einige befristete Arbeitseinsätze, vordergründig
+zwecks Eignungsabklärung, leistet und hernach über eine unbefristete
+Anstellung befunden werden soll.
+4.3
+Der Tatbestand der selbstverschuldeten
+Arbeitslosigkeit setzt ein (eventual-) vorsätzliches Herbeiführen der
+Entlassung voraus (vgl. AVIG-Praxis ALE, Oktober 2011, D2). Ein solches
+Verhalten kann dem Beschwerdeführer nicht vorgeworfen werden. Wie dargelegt,
+liegt nämlich lediglich ein zeitlich begrenzter Arbeitsversuch vor, wobei den
+Beschwerdeführer kein Verschulden daran trifft, dass es nicht zu einer
+Festanstellung kam, wovon im Übrigen auch die B.______AG ausgeht. Diese weist
+ausdrücklich darauf hin,
+dass die
+auszuführenden Arbeiten für den Beschwerdeführer fachlich und körperlich zu
+anspruchsvoll gewesen seien, wodurch unter anderem eine erhöhte Unfallgefahr
+bestanden habe. Im Umstand, dass es wegen den körperlichen Möglichkeiten des
+Beschwerdeführers zu keiner Festanstellung kam, ist somit kein Fehlverhalten
+zu erblicken, welches überdies kausal zur eingetreten Arbeitslosigkeit ist. Ein
+darüberhinausgehendes vermeidbares Fehlverhalten des Beschwerdeführers wird
+sodann weder von der B.______AG dargetan noch ergibt sich ein solches aus den
+Akten.
+4.4
+Zusammenfassend ergibt sich, dass der
+Beschwerdeführer die Arbeitslosigkeit nicht selbst verschuldet hat, womit ihm
+kein einstellungswürdiges Verhalten vorzuwerfen ist. Dies führt zur
+Gutheissung der Beschwerde und zur Aufhebung des Einspracheentscheids des
+Beschwerdegegners vom 28. Juli 2021.
+III.
+Die amtlichen Kosten des Beschwerdeverfahrens sind von
+Gesetzes wegen auf die Staatskasse zu nehmen (Art. 1 Abs. 1
+AVIG i.V.m. Art. 61 lit. fbis ATSG e contrario
+)
+. Die Beschwerdegegnerin hat keinen Anspruch
+auf eine Parteientschädigung. Einerseits unterliegt sie im vorliegenden
+Verfahren. Andererseits hätte gemäss Art. 1 Abs. 1 AVIG i.V.m.
+Art. 61 lit. g ATSG ohnehin nur die obsiegende Beschwerde führende
+Partei einen solchen Anspruch.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird gutgeheissen und der Einspracheentscheid des Beschwerdegegners
+vom 28. Juli 2021 wird aufgehoben.
+2.
+Die
+Gerichtskosten werden auf die Staatskasse genommen.
+3.
+Es
+wird keine Parteientschädigung zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
