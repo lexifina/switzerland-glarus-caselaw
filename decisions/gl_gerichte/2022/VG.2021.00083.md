@@ -1,0 +1,457 @@
+---
+decision_id: "gl_gerichte_VG.2021.00083"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2021.00083"
+docket_2: "VG.2022.1119"
+decided: "2022-02-24"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1544&W10_KEY=218274&nTrefferzeile=5&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/700.1/art-042b.md", "switzerland/bund/acts/700/art-019.md", "switzerland/bund/acts/700/art-022.md", "switzerland/bund/acts/700/art-024e.md", "switzerland/bund/acts/814.41/art-040.md"]
+---
+
+# GL Gerichte VG.2021.00083
+
+## Regeste
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+## Text
+
+Glarus Verwaltungsgericht 24.02.2022 VG.2021.00083 (VG.2022.1119)
+Glaris Verwaltungsgericht 24.02.2022 VG.2021.00083 (VG.2022.1119)
+Glarona Verwaltungsgericht 24.02.2022 VG.2021.00083 (VG.2022.1119)
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+24. Februar 2022
+I. Kammer
+Besetzung:
+Gerichtspräsident
+MLaw Colin Braun, Verwaltungsrichter Ernst Luchsinger, Verwaltungsrichterin
+Katia Weibel und Gerichtsschreiberin MLaw Paula Brändli
+in Sachen
+VG.2021.00083
+A.______
+Beschwerdeführerin
+vertreten durch
+lic.
+iur.
+Hansjürg
+Rhyner, Rechtsanwalt
+gegen
+1.
+B.______
+Beschwerdegegner
+vertreten durch
+Dr.
+iur.
+Romana
+Kronenberg Müller,
+Rechtsanwältin
+2.
+Gemeinde Glarus Süd
+3.
+Departement Bau und Umwelt des Kantons
+Glarus
+betreffend
+Baubewilligung
+Die Kammer zieht in Erwägung:
+I.
+1.
+B.______ ist Eigentümerin
+der Liegenschaft Parz.-Nr. 01 (Grundbuch […]), welche teilweise in der
+Wohnzone […] und teilweise in der Landwirtschaftszone liegt. Am
+5. Februar 2020 reichte sie bei der Gemeinde Glarus Süd ein Gesuch
+für den Bau einer Remise bzw. eines Ziegenstalls auf dem in der Wohnzone
+[…] gelegenen Teil der Parz.-Nr. 01 ein,
+nachdem sie ein bereits
+früher eingereichtes Baugesuch zurückgezogen hatte. Das Bauvorhaben wurde im
+Amtsblatt vom […] publiziert und lag bis zum […]
+öffentlich bei der Gemeinde Glarus Süd auf. Dagegen erhob unter anderem
+A.______ am 11. März 2020 Einsprache. Am 11. Juni 2020
+erteilte die Gemeinde Glarus Süd die Baubewilligung unter verschiedenen Auflagen
+und wies die dagegen erhobenen Einsprachen ab.
+2.
+Gegen die Verfügung der
+Gemeinde Glarus Süd vom 11. Juni 2020 erhob A.______ am
+18. August 2020 Beschwerde beim Departement Bau und Umwelt des
+Kantons Glarus (DBU) und beantragte deren Aufhebung. Das DBU wies die
+Beschwerde am 10. September 2021 ab (Disp.-Ziff. 1), auferlegte
+A.______ eine Spruchgebühr in der Höhe von Fr. 1'600.- (Disp.-Ziff. 2 f.) und
+verpflichtete sie, B.______ innert 30 Tagen ab Rechtskraft des
+Entscheids eine Parteientschädigung in der Höhe von Fr. 700.-
+(inkl. Mehrwertsteuer und Auslagen) zu bezahlen (Disp.-Ziff. 4).
+3.
+A.______ gelangte am 13.
+Oktober 2021 mit Beschwerde ans Verwaltungsgericht und beantragte die
+Aufhebung des Entscheids des DBU vom 10. September 2021. Das
+Baugesuch vom 5. Februar 2020 sei nicht zu bewilligen; alles unter
+Kosten- und Entschädigungsfolgen zu Lasten von B.______, der Gemeinde Glarus
+Süd sowie des DBU.
+B.______ beantragte am
+12. November 2021, auf die Beschwerde sei nicht einzutreten,
+eventualiter sei sie abzuweisen; unter Kosten- und Entschädigungsfolgen zu
+Lasten von A.______. Die Gemeinde Glarus Süd teilte am 18. November 2021
+telefonisch mit, dass sie auf die Einreichung einer Beschwerdeantwort
+verzichte. Das DBU liess sich am 24. November 2021 vernehmen und
+beantragte die Abweisung der Beschwerde, soweit darauf eingetreten werden
+könne; unter Kostenfolge zu Lasten von A.______.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 79
+Abs. 1 des Raumentwicklungs- und Baugesetzes vom 2. Mai 2010
+(RBG) i.V.m. Art. 105 Abs. 1 lit. b des Gesetzes über die
+Verwaltungsrechtspflege vom 4. Mai 1986 (VRG) zur Behandlung der
+vorliegenden Beschwerde zuständig.
+1.2
+Soweit die Beschwerdegegnerin 1 die vorliegende
+Beschwerde als querulatorisch bezeichnet und beantragt, auf diese sei nicht
+einzutreten, ist zunächst Folgendes festzuhalten: Es erscheint durchaus
+denkbar und möglich, dass die Rechtsmittelerhebung durch die
+Beschwerdeführerin in einem nachbarschaftlichen Streit begründet ist.
+Indessen genügt es nicht, lediglich anhand ihres Vorgehens und gestützt auf
+die Rügen der Beschwerdegegnerin 1 auf eine querulatorische Eingabe zu
+schliessen, zumal eine solche nicht offensichtlich ist. Sodann trifft es zwar
+zu, dass die Beschwerdeschrift der Beschwerdeführerin in weiten Teilen mit
+den Eingaben in den vorinstanzlichen Verfahren übereinstimmt. Dennoch setzt
+sie sich, wenn auch nur teilweise und lediglich rudimentär, mit den
+Erwägungen des angefochtenen Entscheids des Beschwerdegegners 3
+auseinander, weshalb nicht unbesehen auf eine mangelhafte Begründungs- oder
+Rügepflicht und ein diesbezügliches Nichteintreten geschlossen werden darf.
+Dies nicht zuletzt, weil das Verwaltungsgericht das Recht von Amtes wegen
+anzuwenden hat (Art. 9 Abs. 1 VRG; vgl. hierzu VGer-Urteil VG.2019.00023
+vom 15. August 2019 E. II/1.3.3). Da auch die übrigen
+Prozessvoraussetzungen erfüllt sind, ist entgegen der Ansicht der
+Beschwerdegegnerin 1 auf die Beschwerde somit einzutreten.
+1.3
+Gemäss Art. 107 Abs. 1 VRG können mit der
+Verwaltungsgerichtsbeschwerde die unrichtige oder unvollständige Feststellung
+des rechtserheblichen Sachverhalts (lit. a) und die unrichtige
+Rechtsanwendung einschliesslich eines Missbrauchs des Ermessens (lit. b)
+gerügt werden. Die Unangemessenheit des Entscheids kann gemäss
+abschliessender Aufzählung in Art. 107 Abs. 2 VRG nur ausnahmsweise geltend
+gemacht werden, wobei ein solcher Ausnahmefall nicht vorliegt.
+2.
+2.1
+Um ein Baugesuch bewilligen zu können, muss dieses
+zonenkonform sein (Art. 22 Abs. 2 lit. a des Bundesgesetzes
+über die Raumplanung vom 22. Juni 1979
+[RPG]
+). In
+einer Wohnzone bedeutet dies die Widmung der Wohnnutzung, worunter auch eine
+Freizeitbeschäftigung einschliesslich der privaten Tierhaltung fällt. Für die
+Zonenkonformität derselben dürfen jedoch keine übermässigen Immissionen von
+den Tieren ausgehen, wobei auf die konkreten Umstände, die Lage und den
+Charakter der Umgebung abgestellt werden muss. Dagegen sind Gewerbebetriebe
+in der Wohnzone nur zulässig, wenn sie nicht störend sind, sich nahtlos in
+die Wohnumgebung einfügen und eine funktionale Bindung an die Bedürfnisse
+dieser Zone aufweisen. Ob bei einer Tierhaltung eine gewerbliche oder private
+Nutzung vorliegt, hängt von der Zweckbestimmung der Tiere ab (Peter
+Hettich/Lukas Mathis, in Alain Griffel et al.
+[Hrsg.]
+, Fachhandbuch Öffentliches Baurecht,
+Zürich/Basel/Genf 2016, Rz. 3.19 ff.; Urteil des Verwaltungsgerichts des
+Kantons Zürich VB.2020.00304 vom 12. November 2020 E. 4.1).
+2.2
+Sowohl bei gewerblicher als auch bei privater
+Tierhaltung dürfen keine übermässigen Immissionen entstehen. Zur
+Qualifikation von Lärmimmissionen ist regelmässig auf die Empfindlichkeitsstufen
+der Lärmschutz-Verordnung vom 15. Dezember 1986 (LSV) abzustellen.
+Fehlen konkrete Grenzwerte (Art. 40 LSV), findet Art. 15 des
+Bundesgesetzes über den Umweltschutz vom 7. Oktober 1983 (USG)
+Anwendung. Danach sind sie so festzulegen, dass nach dem Stand der
+Wissenschaft oder der Erfahrung Immissionen unterhalb dieser Werte die
+Bevölkerung in ihrem Wohlbefinden nicht erheblich stören. Bei
+Geruchsimmissionen liegt Übermässigkeit sodann vor, wenn aufgrund einer
+Erhebung feststeht, dass sie einen wesentlichen Teil der Bevölkerung in ihrem
+Wohlbefinden erheblich stören (Art. 2 Abs. 5 lit. b der
+Luftreinhalte-Verordnung vom 16. Dezember 1985 [LRV]).
+2.3
+Weitere Voraussetzung einer Baubewilligung ist
+gemäss Art. 22 Abs. 2 lit. b RPG, dass das zu bebauende Land
+erschlossen ist. Das bedeutet unter anderem, dass eine für die betreffende
+Nutzung hinreichende Zufahrt besteht (Art. 19 Abs. 1 RPG), welche
+nicht zwingend in Form einer Strasse sein muss. Was als hinreichend gilt,
+hängt von der beanspruchten Nutzung des Grundstücks sowie von den
+massgeblichen (namentlich örtlichen) Umständen des Einzelfalls ab (Bernhard
+Waldmann/Peter Hänni, Handkommentar zum Raumplanungsgesetz, Bern 2006,
+Art. 19 N. 20 f.).
+2.4
+Sodann muss das Bauvorhaben den Grenzabstand nach
+Art. 51 RBG einhalten. Bei eingeschossigen Nebenbauten mit einer
+Grundfläche von maximal 50 Quadratmetern muss dieser mindestens
+1,5 Meter betragen, wenn die Fassadenhöhe im Bereich dieser Grenze nicht
+mehr als 3,3 Meter beträgt (Art. 51 Abs. 4 RBG). Der Begriff
+der Nebenbaute wird in Art. 33 der Bauverordnung vom
+23. Februar 2011 (BauV) insofern konkretisiert, als dass es sich um
+ein freistehendes Gebäude handeln muss und es die im kommunalen Baureglement
+festgelegten Masse nicht überschreiten sowie nur Nebennutzflächen enthalten
+darf. Im Anhang der BauV ist zusätzlich festgehalten, dass zur Definition der
+Nebennutzflächen die SIA Norm 416 heranzuziehen ist. Demgemäss ist
+die
+Nebennutzfläche derjenige Teil, welcher die Hauptnutzfläche zur Nutzfläche ergänzt.
+Die Hauptnutzfläche dient der Zweckbestimmung und Nutzung des Gebäudes im
+engeren Sinn. Unter Nebennutzfläche sind bei Wohnbauten unter anderem die
+Waschküche, Estrich- und Kellerräume zu verstehen (BGer-Urteil 2C_1033/2020
+vom 9. Dezember 2021 E. 4.6.1).
+In
+Anhang 2 der Bauordnung […] vom 24. November 2006 (BO […]) wird
+schliesslich statuiert, dass der
+Grenzabstand von 1,5 Metern bei
+niedrigen Nebenbauten, namentlich bei
+Bauten,
+deren
+Gebäudehöhe nicht mehr als 3,3 Meter, deren Firsthöhe oder deren
+Anschluss an den Hauptbau nicht mehr als 5 Meter und deren
+Gebäudegrundfläche nicht mehr als 50 Quadratmeter aufweisen, gilt.
+3.
+Gemäss Art. 115
+Abs. 2 der Verfassung des Kantons Glarus vom 1. Mai 1988 (KV)
+sind den Gemeinden in den Schranken von Verfassung und Gesetz ihr Bestand und
+das Recht, ihre Angelegenheiten selbständig zu regeln, gewährleistet. Sie
+besorgen alle örtlichen Angelegenheiten, für die weder der Bund noch der
+Kanton ausschliesslich zuständig sind (Art. 119 Abs. 1 KV). Die
+Ortsplanung ist gemäss Art. 15 Abs. 1 RBG Aufgabe der Gemeinde und
+umfasst nach Art. 15 Abs. 2 RBG das kommunale Entwicklungskonzept,
+den kommunalen Richtplan, den Zonenplan und das Baureglement.
+Bei der Anwendung der
+nutzungsplanerischen Vorschriften kommt der kommunalen Baubehörde ein
+besonderer Ermessensspielraum zu, der im Rechtsmittelverfahren zu beachten
+ist. Die Autonomie der Gemeindebehörde hat dort ihre Grenzen, wo sich eine
+Auslegung mit dem Wortlaut sowie mit dem Sinn und Zweck der Bestimmung nicht
+mehr vereinbaren lässt (Christian Häuptli, in Andreas Baumann et
+al. [Hrsg.], Kommentar zum Baugesetz des Kantons Aargau, Bern 2013,
+§ 13 N. 23; VGer-Urteil VG.2021.00025 vom
+25. November 2021 E. II/3.2).
+4.
+4.1
+Die Beschwerdeführerin rügt, das von der Beschwerdegegnerin 1
+eingereichte Baugesuch sei unvollständig. Das Amt für Lebensmittelsicherheit
+und Tiergesundheit des Kantons Graubünden (ALT GR) habe in seiner
+Stellungnahme klar festgehalten, dass Unterlagen zur Beurteilung einer
+gesetzeskonformen Tierhaltung fehlten. Sodann liege keine hobbymässige,
+sondern eine gewerbliche Tierhaltung vor. Dies aufgrund der Anzahl Ziegen
+sowie der Tatsache, dass die Beschwerdegegnerin 1 diese Tiere nicht
+selbst versorgen könne, was nach Art. 42b Abs. 3 der Raumplanungsverordnung
+vom 28. Juni 2000 (RPV) aber Voraussetzung für eine Bewilligung
+sei. Der geplante Stall sei sodann nicht zonenkonform. Gemäss der BO […]
+gelte für die umstrittene Parzelle die Empfindlichkeitsstufe II gemäss
+LSV. Damit sei lediglich nicht störendes Gewerbe oder eine hobbymässige
+Tierhaltung, welche keine unerwünschten Immissionen zeitige, zugelassen. Die
+Haltung von zehn Ziegen sprenge das zu tolerierende Mass und es sei nicht
+dargelegt worden, mit welchen Massnahmen Lärm vermieden würde. Der geplante
+Stall widerspreche ferner den Vorgaben der inneren Verdichtung. Es sei nicht
+ersichtlich, weshalb die klar landwirtschaftliche Baute in der Wohnzone und
+nicht auf dem angrenzenden Teil der streitbetroffenen Parzelle, welcher in
+der Landwirtschaftszone liege, gebaut werde. Die Beschwerdegegnerin 2
+habe sodann ihr Ermessen überschritten, indem sie ohne sachliche Begründung
+entschieden habe, dass in Bezug auf die Nutzung des Bauvorhabens als
+Ziegenstall keine eigene hinreichende Zufahrt erforderlich sei. Sie habe es
+auch unterlassen, hierzu Auflagen zu machen. Schliesslich handle es sich beim
+geplanten Gebäude um ein Hauptgebäude, weshalb ein Grenzabstand von vier
+Metern einzuhalten sei.
+4.2
+Die Beschwerdegegnerin 1 bringt vor, das ALT GR sei
+mit der Bewilligung einverstanden gewesen und es sei nicht von
+unvollständigen Unterlagen auszugehen. Die Beschwerdeführerin begründe die
+fehlende Hobbymässigkeit der Tierhaltung sodann lediglich mit der pauschalen
+Argumentation, dass die Milchproduktion ein lukratives Geschäft sei. Es gebe
+aber keine Hinweise, dass sie, die Beschwerdegegnerin 1, die Tiere
+kommerziell nutze. Vielmehr sei deren Haltung ihr Hobby. Es sei sodann keine
+Voraussetzung, dass die Halter die Tiere selbst versorgten, sondern
+lediglich, dass sie diese selbst betreuten, was vorliegend gegeben sei. Die
+Beschwerdeführerin widerspreche sich darüber hinaus selbst, indem sie die
+Tierhaltung als "Hobby eines Nachbars" bezeichne. Das Bauvorhaben
+sei ferner zonenkonform. Die aus der Tierhaltung entstehenden Belastungen
+seien begrenzt und verträglich. Die Beschwerdeführerin habe die Berechnungen
+zu den Lärm- und Geruchsimmissionen denn auch nie bemängelt. Das Argument der
+inneren Verdichtung sei nicht zu hören, da auf der umstrittenen Parzelle kaum
+genügend Fläche für eine zusätzliche Wohnbaute vorhanden sei. Bezüglich der
+Erschliessung sei im Übrigen keine Ermessensüberschreitung ersichtlich.
+4.3
+Die Beschwerdegegnerin 3 hält fest, die Unterlagen
+zur Prüfung des Baugesuchs seien vollständig gewesen. Das ALT GR habe
+lediglich Auflagen statuiert und den Vorbehalt angebracht, die Stallungen in
+Bezug auf die Einhaltung der Tierschutzvorschriften nach dem Bau zu
+kontrollieren. Sodann gelte zwar die Untersuchungsmaxime. Diese werde jedoch
+insofern eingeschränkt, als dass die Parteien im eigenen Interesse bei der
+Beweisbeschaffung mitwirken und die Behörden nicht von Amtes wegen nach nicht
+aktenkundigen Tatsachen forschen müssten, wenn von der Partei nach den
+Umständen ein entsprechender Beleg erwartet werden dürfe. Sie habe deshalb
+mangels konkreter Hinweise in freier Beweiswürdigung davon ausgehen dürfen,
+dass im vorliegenden Fall nicht von einem Gewerbe, sondern von hobbymässiger
+Tierhaltung auszugehen sei. Die weiteren Ausführungen der Beschwerdeführerin
+bezüglich der Selbstversorgung seien nicht zu hören, da diese Voraussetzung
+nur bei einer landwirtschaftlichen Bewirtschaftung gelte, was bei der
+Beschwerdeführerin nicht der Fall sei. Aus demselben Grund komme der Bau des
+Stalles in der Landwirtschaftszone denn auch nicht in Betracht. Sodann sei
+hobbymässige Tierhaltung in einer Wohnzone grundsätzlich zonenkonform. Die
+Beschwerdegegnerin 2 habe die diesbezüglichen Vorgaben geprüft und sei
+zum Schluss gekommen, dass die Lärm- und Geruchsimmissionen mit vier zusätzlichen
+Ziegen nicht übermässig seien. Sie habe auch geklärt und dargelegt, weshalb
+für die Nutzung des Bauvorhabens als Ziegenstall keine eigene hinreichende
+Zufahrt erforderlich sei. Auf die Rüge des ungenügenden Grenzabstands sei
+schliesslich nicht einzutreten, da die Beschwerdeführerin diesen zwar bei der
+Beschwerdegegnerin 2, jedoch nicht mehr im Beschwerdeverfahren bei der
+Beschwerdegegnerin 3 vorgebracht habe. Damit sei sie der Rügepflicht nur
+ungenügend nachgekommen.
+5.
+5.1
+Die Beschwerdeführerin macht zunächst die
+Unvollständigkeit der Baugesuchsunterlagen geltend. Hierzu ist festzuhalten,
+dass das ALT GR dem Bauvorhaben explizit zugestimmt hat. Es erteilte
+lediglich Auflagen und behielt sich vor, im Rahmen des Vollzugs die Baute
+bzw. die Stallung im Hinblick auf die Einhaltung der Tierschutzvorschriften
+zu kontrollieren. Damit war die Stellungnahme aber zweifellos ausreichend für
+die Erteilung der streitbetroffenen Bewilligung und die Baugesuchsunterlagen
+folglich insgesamt vollständig. Einen diesbezüglichen Ermessensmissbrauch
+oder eine willkürliche Rechtsanwendung durch die Beschwerdegegnerin 2
+lässt sich hierbei nicht erkennen.
+5.2
+5.2.1
+Die Beschwerdeführerin rügt alsdann, mit der
+Tierhaltung der Beschwerdegegnerin 1 liege eine gewerbliche Nutzung und
+nicht mehr nur eine hobbymässige Tierhaltung vor. Dies insbesondere wegen der
+Anzahl der Tiere und weil die Beschwerdegegnerin 1 diese nicht selbst
+versorgen könne.
+Dem ist zunächst
+entgegenzuhalten, dass sowohl Art. 24e RPG als auch Art. 42b RPV
+lediglich für Bauvorhaben ausserhalb der Bauzone anwendbar sind
+(vgl. Rudolf Muggli, in Heinz Aemisegger et al.
+[Hrsg.], Praxiskommentar RPG: Bauen ausserhalb der
+Bauzone, Zürich/Basel/Genf 2017, Vorbem. zu den Art. 24 bis 24e und 37a,
+N. 30). Eine solche Konstellation liegt unbestrittenermassen nicht vor,
+weshalb die diesbezügliche Rüge der Beschwerdeführerin ins Leere zielt.
+Fraglich und zu prüfen ist weiter
+, ob
+der Stall und die damit einhergehende bzw. geplante Tierhaltung zonenkonform
+ist. Hierfür ist zunächst zu klären, ob eine private oder eine gewerbliche
+Tierhaltung vorliegt. Mit der Beschwerdegegnerin 1 und 3 ist dabei darin
+einigzugehen, dass keine Anhaltspunkte für eine gewerbliche Nutzung der Tiere
+ersichtlich sind.
+Vielmehr erscheint es
+glaubhaft, dass die Beschwerdegegnerin 1 eine Liebhaberei bzw. eine
+hobbymässige Tierhaltung ausübt, woran die pauschalen und unbelegten
+Behauptungen der Beschwerdeführerin nichts zu ändern vermögen.
+Indessen ist die Tierhaltung nach dem oben
+Dargelegten aber nur dann zonenkonform, wenn daraus keine übermässigen
+Immissionen resultieren, was aufgrund der konkreten Umstände des Einzelfalls
+zu prüfen ist. Dabei ist unter anderem der Charakter der Siedlungsstruktur
+relevant und, weil für Tierimmissionen keine festgelegten Grenzwerte
+bestehen, sind diese nach den allgemeinen Grundsätzen zu beurteilen
+(vgl. vorstehende E. II/2.2).
+5.2.2
+Der zu bebauende Teil der streitbetroffenen
+Parzelle liegt in der Wohnzone 2b. Es handelt sich um ein Gebiet mit
+ländlichem Charakter, welches direkt an die Landwirtschaftszone angrenzt. Die
+Beschwerdegegnerin 1 hielt bereits seit längerem auf der angrenzenden
+Parzelle bis zu sechs Ziegen. Eine Tierhaltung in diesem Umfang wurde ihr
+denn auch rechtskräftig bewilligt. Vor diesem Hintergrund ist somit lediglich
+zu prüfen, ob von der Erhöhung des Bestands um vier weitere Ziegen ein
+unverträglicher Anstieg an Geruchs- oder Lärmimmissionen zu erwarten ist. Mit
+Blick auf die von der Beschwerdegegnerin 1 eingereichten Unterlagen ist
+dies jedoch zu verneinen. Die vier weiteren Tiere verursachen keine
+massgebliche Erhöhung der Lärmimmissionen. Alle Tiere verbringen die Nacht
+innerhalb des Stalls und die Sommermonate an einem anderen Ort. Bezüglich des
+Geruchs ist ebenfalls kein wesentlicher Anstieg von Immissionen zu erwarten,
+zumal die Beschwerdegegnerin 1 die hierbei empfohlenen Mindestabstände
+offensichtlich einhält (vgl. Beschluss des Gemeinderats Glarus Süd vom
+[…]). Im Ergebnis ist das Bauvorhaben somit zu Recht als zonenkonform qualifiziert
+worden.
+5.3
+Eine weitere Voraussetzung für die Erteilung einer
+Baubewilligung ist die rechtsgenügliche Erschliessung des zu bebauenden Lands
+(Art. 22 Abs. 2 lit. b RPG). Diese ist erfüllt, wenn eine
+für die betreffende Nutzung hinreichende Zufahrt besteht (Art. 19
+Abs. 1 RPG). Für die vorliegend geplante Nutzung erscheint eine Zufahrt
+im Sinne einer befahrbaren Strasse nicht erforderlich. Der Zugang ist sowohl
+für die Tiere als auch für deren Versorgung sowie das Umsorgen ausreichend,
+was die Beschwerdegegnerin 2 im Rahmen des ihr zustehenden Ermessens
+willkürfrei überprüft hat.
+5.4
+Bei Neubauten muss schliesslich der Grenzabstand
+gemäss Art. 51 RBG eingehalten werden. Aufgrund der Masse des geplanten
+Stalls und der Tatsache, dass er als freistehendes Gebäude geplant ist, ist
+er sowohl nach kommunalem als auch nach kantonalem Recht als Nebenbaute zu
+qualifizieren (Art. 51 Abs. 4 RBG i.V.m. Art. 33 BauV
+i.V.m. Anhang 2 BO […]). Fraglich ist indessen, ob er nur aus Nebennutzflächen
+besteht (Art. 33 BauV). Hierfür ist gemäss dem Anhang der BauV
+grundsätzlich die SIA Norm 416 heranzuziehen. Diese ist jedoch einzig
+für die Berechnung der Gesamtfläche von Wohngebäuden geeignet, bzw. für
+Bauten, bei welchen Wohnflächen (Wohn-/Schlafzimmer) als Hauptnutzungsflächen
+und gleichzeitig auch Nebennutzungsflächen (z.B. Keller/Estrich)
+vorhanden sind. Weil die streitbetroffene Parzelle diese Eigenschaften nicht
+aufweist, erscheint die Anwendung der SIA Norm 416 im vorliegenden Fall
+verfehlt. Hinzu kommt, dass die Grenzabstände gemäss Art. 51 RBG die
+Wahrung der Privatsphäre der Bewohner von Wohngebäuden bezwecken (VGer-Urteil
+VG.2018.00051 vom 23. August 2018 E. 4.2.1; Häuptli, § 47
+N. 11). Entsprechend sind für Wohngebäude und damit Wohnflächen denn
+auch grössere Abstände vorgesehen als für Nebengebäude, in denen sich weit
+weniger häufig Personen aufhalten und dies auch für kürzere Zeit. In diesem
+Lichte ist die SIA Norm 416 somit einzig auf Grundstücke ausgelegt, auf
+denen sowohl ein Hauptgebäude im Sinne eines Wohnhauses als auch Nebengebäude
+(z.B. Garage, Gartenhaus) geplant sind. Dies ist auf der
+streitbetroffenen Parzelle offensichtlich nicht der Fall. Es erscheint
+widersprüchlich und mit dem Zweck von Art. 51 RBG nicht vereinbar, den
+geplanten Stall aufgrund der Unterschreitung des Grenzabstands von vier
+Metern lediglich deshalb nicht zu bewilligen, weil auf dem betroffenen
+Grundstück kein Wohnhauptgebäude steht. Schliesslich wurde der
+Beschwerdegegnerin 1 bereits ihr früheres Baugesuch mit demselben Grenzabstand
+rechtskräftig bewilligt. Es ist nicht ersichtlich, weshalb aufgrund der
+Mehrbelastung durch vier Ziegen nun davon abgewichen werden sollte, zumal bei
+der vorliegenden Beurteilung keine neuen Rechtsgrundlagen Anwendung finden
+und keine diesbezügliche neue Praxis besteht. Beim vorliegend geplanten Stall
+ist demnach von einer Nebenbaute nach Art. 51 Abs. 4 RBG
+auszugehen, womit der Grenzabstand als eingehalten gilt.
+6.
+Zusammenfassend ist die
+Erteilung der Baubewilligung durch die Beschwerdegegnerin 2 nicht zu
+beanstanden. Die geplante Baute ist zonenkonform, da von der privaten und
+hobbymässigen Tierhaltung der Beschwerdegegnerin 1 keine übermässigen
+Immissionen zu erwarten sind. Sie ist sodann genügend erschlossen und hält
+den notwendigen Grenzabstand ein. Die Beschwerdegegnerin 2 hat das
+Baugesuch willkürfrei und im Rahmen ihres grossen Ermessens, in welches das
+Gericht nicht ohne Not eingreift, zu Recht bewilligt.
+Dies führt zur Abweisung
+der Beschwerde.
+III.
+1.
+Nach Art. 134
+Abs. 1 lit. c VRG hat die Partei, welche im Beschwerde-, Klage-
+oder Revisionsverfahren unterliegt, die amtlichen Kosten zu tragen. Die
+Gerichtskosten von pauschal Fr. 1'000.- sind der unterliegenden
+Beschwerdeführerin aufzuerlegen. Vom bereits geleisteten Kostenvorschuss in
+der Höhe von Fr. 2'000.- sind ihr Fr. 1'000.- zurückzuerstatten.
+2.
+Soweit an einem
+Beschwerdeverfahren Parteien mit gegensätzlichen Interessen beteiligt sind,
+kann gemäss Art. 138 Abs. 2 VRG der obsiegenden Partei zu Lasten
+jener, die unterliegt, eine angemessene Parteientschädigung zugesprochen
+werden (vgl. Art. 138 Abs. 1 VRG). Ausgangsgemäss steht der
+Beschwerdeführerin keine Parteientschädigung zu. Hingegen ist sie zu
+verpflichten, der Beschwerdegegnerin 1 eine solche von Fr. 1'800.-
+(inkl. Mehrwertsteuer) zu bezahlen.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Die
+Gerichtskosten von Fr. 1'000.- werden der Beschwerdeführerin
+auferlegt. Vom bereits geleisteten Kostenvorschuss in der Höhe von
+Fr. 2'000.- werden ihr Fr. 1'000.- zurückerstattet.
+3.
+Die
+Beschwerdeführerin wird verpflichtet, der Beschwerdegegnerin 1 innert
+30 Tagen nach Rechtskraft dieses Entscheids eine Parteientschädigung
+von Fr. 1'800.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
