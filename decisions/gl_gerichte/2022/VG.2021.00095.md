@@ -1,0 +1,391 @@
+---
+decision_id: "gl_gerichte_VG.2021.00095"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2021.00095"
+docket_2: "VG.2022.1121"
+decided: "2022-02-24"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1546&W10_KEY=218274&nTrefferzeile=4&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/741.01/art-015d.md", "switzerland/bund/acts/741.01/art-031.md", "switzerland/bund/acts/741.01/art-091.md", "switzerland/bund/acts/741.51/art-030.md"]
+---
+
+# GL Gerichte VG.2021.00095
+
+## Regeste
+
+Administrativmassnahmen Strassenverkehr
+
+## Text
+
+Glarus Verwaltungsgericht 24.02.2022 VG.2021.00095 (VG.2022.1121)
+Glaris Verwaltungsgericht 24.02.2022 VG.2021.00095 (VG.2022.1121)
+Glarona Verwaltungsgericht 24.02.2022 VG.2021.00095 (VG.2022.1121)
+
+Administrativmassnahmen Strassenverkehr
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+24. Februar 2022
+I. Kammer
+Besetzung:
+Gerichtspräsident
+MLaw Colin Braun, Verwaltungsrichter Ernst Luchsinger, Verwaltungsrichterin
+Katia Weibel und Gerichtsschreiberin i.V. MLaw Valentina Flückiger
+in Sachen
+VG.2021.00095
+A.______
+Beschwerdeführer
+vertreten
+durch
+lic. iur.
+Erich
+Leuzinger,
+Rechtsanwalt,
+gegen
+Staats- und Jugendanwaltschaft des Kantons
+Glarus
+Beschwerdegegnerin
+betreffend
+vorsorglicher Sicherungsentzug/
+Überprüfung der Fahreignung
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Am 5. Oktober 2021 konnte bei A.______ anlässlich
+einer Verkehrskontrolle 0.8 Gramm Kokain sichergestellt werden. Der
+Führerausweis wurde ihm auf der Stelle entzogen.
+1.2
+Das in Auftrag gegebene
+pharmakologisch-toxikologische Gutachten des Instituts für Rechtsmedizin
+Zürich (IRMZ) vom 20. Oktober 2021 ergab in der Folge keine Fahrunfähigkeit
+im relevanten Zeitpunkt, weshalb das diesbezügliche Strafverfahren am
+10. November 2021 eingestellt wurde. Das IRMZ-Gutachten attestierte ihm
+allerdings einen länger zurückliegenden Kokainkonsum. A.______ wurde mit
+Strafbefehl vom 5. November 2021 der mehrfachen Übertretung gegen das
+Betäubungsmittelgesetz verurteilt.
+1.3
+Mit Verfügung vom 10. November 2021 entzog die
+Abteilung Administrativmassnahmen der Staats- und Jugendanwaltschaft des
+Kantons Glarus (nachfolgend: Abteilung Administrativmassnahmen) A.______ den
+Führerausweis vorsorglich auf unbestimmte Zeit rückwirkend ab dem 5. Oktober
+2021 und ordnete eine Überprüfung der Fahreignung an. Einer allfälligen
+Beschwerde dagegen entzog sie die aufschiebende Wirkung.
+2.
+2.1
+A.______ gelangte mit Beschwerde vom 22. November
+2021 ans Verwaltungsgericht und beantragte die Aufhebung der Verfügung vom
+10. November 2021; unter Kosten- und Entschädigungsfolgen zu Lasten der
+Abteilung Administrativmassnahmen bzw. des Staates. In prozessualer
+Hinsicht ersuchte er um Wiederherstellung der aufschiebenden Wirkung der
+Beschwerde.
+Die
+Abteilung Administrativmassnahmen liess sich am 10. Dezember 2021 vernehmen
+und beantragte sowohl die Abweisung des Gesuchs um Wiederherstellung der
+aufschiebenden Wirkung der Beschwerde als auch deren Abweisung; unter
+Kostenfolge zu Lasten von A.______.
+2.2
+Am 20. Januar 2022 wies das Verwaltungsgericht das
+Gesuch um Wiederherstellung der aufschiebenden Wirkung ab.
+II.
+1.
+1.1
+Verfügungen über
+Administrativmassnahmen im Strassenverkehr unterliegen gemäss Art. 5 Abs. 3
+des Einführungsgesetzes zum Bundesgesetz über den Strassenverkehr vom 5. Mai
+1985 (EG SVG) unmittelbar der Beschwerde ans Verwaltungsgericht. Das
+Verwaltungsgericht ist daher zur Behandlung der vorliegenden Beschwerde
+zuständig.
+1.2
+Bei der Anordnung eines
+vorsorglichen Sicherungsentzugs und einer verkehrsmedizinischen Begutachtung
+handelt es sich um eine Zwischenverfügung.
+Verfahrensleitende und
+andere Zwischenentscheide sind gemäss
+Art. 86 Abs. 2 lit. b
+des
+Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986 (VRG)
+nur mit Verwaltungsgerichtsbeschwerde anfechtbar, wenn sie einen nicht
+wiedergutzumachenden Nachteil bewirken können.
+Der
+vorliegende Zwischenentscheid kann für den Beschwerdeführer wegen des
+vorläufigen Entzugs der Fahrberechtigung sowie des mit der
+verkehrsmedizinischen Begutachtung verbundenen Eingriffs in seine persönliche
+Freiheit einen nicht wiedergutzumachenden Nachteil bewirken (BGer-Urteil
+1C_328/2013 vom 18. September 2013 E. 1.1, mit Hinweisen), weshalb
+er anfechtbar ist. Da auch die übrigen Prozessvoraussetzungen erfüllt sind,
+ist auf die Beschwerde einzutreten.
+1.3
+Gemäss Art. 107 Abs. 2 lit. g VRG
+i.V.m. Art. 5 Abs. 3 EG SVG überprüft das Verwaltungsgericht
+Administrativmassnahmen im Strassenverkehr vollumfänglich, d.h. auch
+bezüglich deren Angemessenheit.
+2.
+2.1
+Der Beschwerdeführer bringt vor,
+das IRMZ-Gutachten weise für den Zeitpunkt des hier relevanten Ereignisses
+keine Fahrunfähigkeit aus, da ihm weder ein Alkohol- noch ein Drogenkonsum
+habe nachgewiesen werden können. Auch im Protokoll der ärztlichen
+Untersuchung vom 5. Oktober 2021 seien keine Auffälligkeiten festgehalten
+worden. Das IRMZ-Gutachten dokumentiere lediglich einen länger
+zurückliegenden Kokainkonsum, was sich mit seinen eigenen Aussagen decke. Es
+lägen allerdings keine Hinweise vor, welche auf eine Suchterkrankung
+schliessen lassen würden. Aus einem einmaligen Kokainkonsum dürfe nicht
+unbesehen auf eine Sucht geschlossen werden.
+2.2
+Die Beschwerdegegnerin stellt sich
+auf den Standpunkt, das vom Beschwerdeführer mitgeführte Kokain weise ein
+hohes Abhängigkeitspotential auf und könne die Fahrfähigkeit stark
+beeinträchtigen. Bereits das Mitführen von Kokain ohne eine Beeinträchtigung
+der Fahrfähigkeit führe nach dem Willen des Gesetzgebers dazu, dass an der
+Fahreignung einer Person zu zweifeln und dementsprechend eine
+Fahreignungsuntersuchung anzuordnen sei. Hinzu komme, dass der
+Beschwerdeführer mit einer gewissen Regelmässigkeit und nicht bloss einmalig
+Kokain konsumiert habe. Unter diesen Umständen erfordere das öffentliche
+Interesse an der Verkehrssicherheit einen vorsorglichen Entzug des
+Führerausweises.
+3.
+3.1
+Gemäss Art. 16d Abs. 1 lit. b des
+Strassenverkehrsgesetzes vom 19. Dezember 1958 (SVG) wird der Lernfahr-
+oder Führerausweis einer Person auf unbestimmte Zeit entzogen, wenn sie an
+einer Sucht leidet, welche die Fahreignung ausschliesst. Auf fehlende
+Fahreignung wegen Drogensucht darf geschlossen werden, wenn eine Person nicht
+(mehr) in der Lage ist, Drogenkonsum und Strassenverkehr ausreichend
+auseinanderzuhalten, oder wenn die naheliegende Gefahr besteht, dass sie im
+akuten Rauschzustand am motorisierten Strassenverkehr teilnimmt (BGer-Urteil
+1C_446/2012 vom 26. April 2013 E. 3.1).
+3.2
+Bestehen Zweifel an der Fahreignung einer Person, so wird diese einer
+Fahreignungsuntersuchung unterzogen, namentlich bei Fahren unter dem Einfluss
+von Betäubungsmitteln oder bei Mitführen von Betäubungsmitteln, welche die
+Fahrfähigkeit stark beeinträchtigen oder ein hohes Abhängigkeitspotenzial
+aufweisen (Art. 15d Abs. 1 lit. b SVG). Zur
+Fahreignungsuntersuchung ist bei verkehrsmedizinischen Fragestellungen eine
+Untersuchung durch einen Arzt anzuordnen (Art. 28a Abs. 1 lit. a
+der Verkehrszulassungsverordnung vom 27. Oktober 1976 [VZV]). Die Anordnung
+einer verkehrsmedizinischen Untersuchung setzt dabei nicht zwingend voraus,
+dass die betroffene Person unter dem Einfluss von Betäubungsmitteln gefahren
+ist oder solche im Fahrzeug mitgeführt hat. Es genügt, dass hinreichende
+Anhaltspunkte die Fahreignung in Frage stellen. Ob dies zutrifft, hat die
+zuständige Behörde unter Berücksichtigung der Umstände des Einzelfalls nach
+pflichtgemässem Ermessen zu entscheiden (BGer-Urteil 1C_458/2019 vom 25. März
+2020 E. 2.1, 1C_282/2007 vom 13. Februar 2008 E. 2.2).
+3.3
+Da der
+Konsum von Kokain rasch zu einer ausgeprägten psychischen Abhängigkeit führt,
+kann eine medizinische Begutachtung der Fahreignung bereits bei vereinzeltem
+bzw. gelegentlichem Kokainkonsum angezeigt sein, auch wenn daraus nicht
+zwingend auf eine Abhängigkeit geschlossen werden kann. So wurde die
+Fahreignungsabklärung einer Person geschützt, die gemäss eigenen Angaben seit
+drei Jahren gelegentlich Kokain konsumierte und sich innerhalb eines halben
+Jahres mindestens 30 Gramm davon beschaffte (BGer-Urteil 1C_282/2007 vom
+13. Februar 2008 E. 2.4; vgl. auch BGer-Urteil 1C_434/2016 vom 1.
+Februar 2017 betreffend eine Person, die über einen Zeitraum von rund
+1 ½ Jahren rund 25-mal Kokain in nicht unerheblicher Menge konsumierte).
+Dagegen wurden ernsthafte Bedenken an der Fahreignung einer Person, die
+lediglich einmal und nicht im Zusammenhang mit dem Führen eines
+Motorfahrzeugs Kokain konsumierte und einen ungetrübten automobilistischen
+und bürgerlichen Leumund hatte, verneint (BGer-Urteil 6A.72/2006 vom 7.
+Februar 2007 E. 3.2). Sodann wurde die Fahreignungsabklärung einer
+Person als nicht erforderlich erachtet, welche gelegentlich Marihuana und
+zumindest einmal auch Kokain konsumiert hatte, ohne dass die zeitnahe
+Kombination von Kokain und Marihuana zur Steigerung der Rauschwirkung belegt
+war (BGer-Urteil 1C_618/2015 vom 7. März 2016 E. 3; zum Ganzen:
+BGer-Urteil 1C_458/2019 vom 25. März 2020 E. 2.1, mit Hinweisen).
+Ferner ist mit Blick auf die kantonale Rechtsprechung auf den Entscheid der
+St. Galler Verwaltungsrekurskommission vom 29. November 2018 (Verfahren
+IV-2018/57) hinzuweisen, worin die Anordnung einer Fahreignungsüberprüfung
+des Betroffenen, bei welchem ein einige Tage zurückliegender Kokainkonsum
+festgestellt werden konnte und der gemäss eigenen Aussagen seit rund achtzehn
+Jahren gelegentlich alle paar Monate zu Hause Kokain konsumiere, geschützt
+wurde.
+3.4
+Gemäss Art. 31 Abs. 2 SVG gilt als fahrunfähig und darf kein
+Fahrzeug führen, wer wegen Alkohol-, Betäubungsmittel- oder Arzneimitteleinfluss
+oder aus anderen Gründen nicht über die erforderliche körperliche und
+geistige Leistungsfähigkeit verfügt. Eine solche Fahrunfähigkeit gilt
+grundsätzlich als erwiesen, wenn im Blut des Fahrzeuglenkers namentlich
+Tetrahydrocannabinol (THC/Cannabis); freies Morphin (Heroin/Morphin) oder
+Kokain nachgewiesen wird (Art. 2 Abs. 2 lit. a-c der
+Verkehrsregelnverordnung vom 13. November 1962 [VRV]). Ein solcher
+Nachweis ist gemäss den Richtwerten des Bundesamts für Strassen (ASTRA) zu
+bejahen, wenn die Messwerte im Blut die folgenden Grenzwerte erreichen oder
+überschreiten: THC: 1,5 µg/L; freies Morphin: 15 µg/L;
+Kokain: 15 µg/L (Art. 34 lit. a-c der Verordnung des ASTRA zur
+Strassenverkehrskontrollverordnung vom 22. Mai 2008 [VSKV-ASTRA]). Diese
+Grenzwerte dienen in erster Linie als Richtwerte für die Feststellung der
+Fahrunfähigkeit im Sinne von Art. 31 Abs. 2 und Art. 91 Abs. 2 SVG
+und damit verbundene Strafsanktionen bzw. administrative Warnungsentzüge
+von Führerausweisen. Für die Prüfung der generellen Fahreignung bzw. eines
+vorsorglichen Sicherungsentzugs haben sie nur beschränkte Bedeutung, zumal
+als Anzeichen einer die Fahreignung ausschliessenden Sucht genügen kann, dass
+der Test positiv ausfiel (BGer-Urteil 1C_458/2019 vom 25. März 2020 E. 2.1,
+mit Hinweisen).
+4.
+4.1
+Entgegen den Vorbringen des Beschwerdeführers und mit Blick auf das
+oben Dargelegte (vgl. E. II/3.2) setzt die Anordnung einer
+Fahreignungsabklärung nicht voraus, dass der Beschwerdeführer im Zeitpunkt
+der Verkehrskontrolle unter dem Einfluss von Kokain stand. Bereits beim
+Mitführen eines Betäubungsmittels, welches
+die Fahrfähigkeit stark beeinträchtigt oder ein hohes
+Abhängigkeitspotenzial aufweist, was bei Kokain der Fall ist, kann eine
+Abklärung der Fahreignung angezeigt sein.
+Diesbezüglich ergibt sich unbestrittenermassen aus den Akten, dass der
+Beschwerdeführer am 5. Oktober 2021 0.8 Gramm Kokain mit sich
+führte, während er ein Fahrzeug lenkte. Damit besteht bereits ein gewichtiges
+Indiz für eine Fahreignungsabklärung.
+4.2
+Für eine Abklärung der Fahreignung des
+Beschwerdeführers spricht weiter, dass er nicht bloss Kokain mit sich führte,
+sondern überdies zu Protokoll gab, er konsumiere zwei- bis dreimal im Jahr
+Kokain. Ein solches Konsumverhalten reicht angesichts der oben wiedergegebenen
+Rechtsprechung (vgl. E. II/3.3) und mit Blick auf den
+unverbindlichen Leitfaden Fahreignung vom 27. November 2020 (abrufbar unter:
+http://www.astra2.admin.ch/
+[zuletzt besucht am 24. Februar 2022])
+für die
+Anordnung einer Fahreignungsüberprüfung aus. Darüber hinaus ist festzuhalten,
+dass an der Glaubwürdigkeit der Aussage des Beschwerdeführers über die
+Häufigkeit seines Konsums gewisse Zweifel bestehen. So gab er zwar selber an,
+dass er am 2. Oktober 2021 zuletzt Kokain konsumiert habe. Indem er
+jedoch bereits drei Tage später mit Kokain angetroffen wurde, liegt
+angesichts dieser zeitlichen Nähe die Vermutung nahe, dass er möglicherweise
+häufiger als zwei- bis dreimal im Jahr Kokain konsumiert.
+4.3
+Sodann erscheinen auch weitere Angaben des
+Beschwerdeführers nicht ohne Weiteres glaubhaft. Zunächst führte er
+anlässlich der ersten polizeilichen Befragung nämlich aus, er wisse nicht, um
+welche Substanz es sich bei der Vorgefundenen handle. Kurze Zeit später
+äusserte er sich jedoch dahingehend, dass es sich um Kokain handle. Weiter
+gab er anfänglich zu Protokoll, zwei- bis dreimal im Jahr Kokain zu
+konsumieren. Einige Stunden später führte er aus, am 2. Oktober 2021 das
+erste Mal Kokain konsumiert zu haben. Die Aussagen des Beschwerdeführers zu seinem
+Konsumverhalten erweisen sich damit zumindest teilweise als widersprüchlich.
+Dies ist ebenfalls als Indiz für die Notwendigkeit einer Abklärung seines
+Konsumverhaltens zu werten.
+4.4
+Aus der Tatsache, dass anlässlich der ärztlichen Untersuchung vom 5.
+Oktober 2021 keine besonderen Auffälligkeiten festgestellt wurden, kann der
+Beschwerdeführer ferner nichts zu seinen Gunsten ableiten. So war er zu
+diesem Zeitpunkt nachweislich nicht mehr in einer die Fahreignung
+beeinträchtigenden Weise intoxikiert. Folglich war zu erwarten, dass keine
+medizinischen Auffälligkeiten festgestellt werden konnten. In diesem
+Zusammenhang ist ebenfalls irrelevant, dass das IRMZ-Gutachten dem
+Beschwerdeführer die Fahreignung nicht abgesprochen hat
+. Für die Prüfung der Fahreignung bzw. für die
+Anordnung eines vorsorglichen Sicherungsentzugs reicht nämlich aus, dass der
+Betäubungsmitteltest positiv ausfällt (vgl. E. II/3.4).
+Dem Beschwerdeführer ist hingegen insofern
+zuzustimmen, als dass ein gelegentlicher Kokainkonsum nicht zwingend zu einer
+Suchterkrankung führen muss. Eine solche wird dem Beschwerdeführer denn auch
+nicht unterstellt. Zur Anordnung einer Fahreignungsüberprüfung genügen jedoch
+hinreichend verdichtete Indizien, welche darauf hindeuten, dass der
+Betroffene von einer Substanz abhängig sein könnte. Unter Berücksichtigung
+aller Umstände bestehen vorliegend nicht unerhebliche Hinweise, welche
+Zweifel an seiner Fahreignung hervorrufen, weshalb eine Abklärung seiner
+Fahreignung angezeigt ist.
+5.
+5.1
+Bestehen ernsthafte
+Zweifel an der Fahreignung einer Person, so kann der Führerausweis bis zur
+Abklärung von Ausschlussgründen vorsorglich entzogen werden (Art. 30
+VZV).
+Trotz der Kann-Formulierung muss die Behörde bei solchen Zweifeln in der
+Regel den Führerausweis für die Dauer des Sicherungsentzugsverfahrens
+vorsorglich entziehen (vgl. Philippe Weissenberger, Kommentar zum
+Strassenverkehrs- und Ordnungsbussengesetz, 2. A., Zürich/St. Gallen
+2015, Art. 15d N. 12, mit Hinweisen).
+5.2
+Diese Regelung trägt der besonderen Interessenlage
+Rechnung, welche bei der Zulassung von Fahrzeugführern zum Strassenverkehr zu
+berücksichtigen ist. Angesichts des grossen Gefährdungspotenzials, welches
+dem Führen eines Motorfahrzeuges eigen ist, erlauben schon Anhaltspunkte, die
+den Fahrzeugführer als besonderes Risiko für die anderen
+Verkehrsteilnehmenden erscheinen lassen und ernsthafte Zweifel an seiner
+Fahreignung erwecken, den vorsorglichen Ausweisentzug(BGE 125 II 492
+E. 2, 122 II 359 E. 3a; BGer-Urteil 1C_35/2014 vom
+28. März 2014 E. 5.2; Weissenberger, Art. 16d N. 14). Der
+strikte Beweis für die Fahreignung ausschliessende Umstände ist nicht
+erforderlich. Wäre dieser erbracht, müsste nicht ein vorsorglicher Entzug,
+sondern unmittelbar der Sicherungsentzug selbst verfügt werden. Können die
+notwendigen Abklärungen nicht rasch und abschliessend vorgenommen werden,
+soll der Ausweis schon vor dem Sachentscheid provisorisch entzogen werden
+können. In diesem Fall braucht eine umfassende Auseinandersetzung mit
+sämtlichen Gesichtspunkten, die für oder gegen einen Sicherungsentzug
+sprechen, erst im anschliessenden Hauptverfahren zu erfolgen (vgl. VGer-Urteil
+VG.2015.00033 vom 6. August 2015 E. II/4.2, nicht publiziert). Der
+vorsorgliche Entzug während eines Sicherungsentzugsverfahrens bildet die
+Regel (BGE 127 II 122 E. 5, 125 II 396
+E. 3), von der nur bei Vorliegen besonderer Umstände abgewichen werden
+darf (BGer-Urteil 6A.106/2001 vom 26. November 2001 E. 3c/dd).
+5.3
+Wie sich aus dem
+Dargelegten ergibt, bestehen konkrete Anhaltspunkte dafür, welche den
+Beschwerdeführer als besonderes Risiko für andere Verkehrsteilnehmer
+erscheinen lassen und ernsthafte Zweifel an seiner Fahreignung wecken.
+Folglich sind nicht nur die Voraussetzungen für die Anordnung einer
+Fahreignungsabklärung, sondern auch für den vorsorglichen Entzug seines
+Führerausweises erfüllt. Dabei überwiegt d
+as gewichtige öffentliche Interesse an der
+Verkehrssicherheit das private Interesse des Beschwerdeführers, seinen
+Führerausweis bis zum definitiven Entscheid über den Sicherungsentzug
+behalten zu dürfen.
+Dies
+führt zur Abweisung der Beschwerde.
+III.
+1.
+1.1
+Da die
+Beschwerde abzuweisen ist, wären die Gerichtskosten grundsätzlich dem
+Beschwerdeführer aufzuerlegen (Art. 134 Abs. 1 lit. c VRG). Wie das
+Verwaltungsgericht jedoch bereits in seinem Zwischenentscheid vom
+20. Januar 2022 betreffend Wiederherstellung der aufschiebenden Wirkung
+der Beschwerde festgehalten hat, hat die Beschwerdegegnerin das rechtliche
+Gehör verletzt, indem sie dem Beschwerdeführer vor Erlass der vorliegend
+angefochtenen Verfügung keine Möglichkeit zur Stellungnahme eingeräumt hatte.
+1.2
+Ein
+Entscheid, der unter Verletzung des Gehörsanspruchs des Beschwerdeführers
+erging, ist stets rechtsfehlerhaft, weshalb die Anfechtung grundsätzlich zu
+Recht erfolgt. Wenn das Verwaltungsgericht diesen Mangel ausnahmsweise heilt,
+entscheidet es im Grunde anstelle der ersten Instanz. Erst durch seinen
+Entscheid erfüllt sich der Anspruch auf eine formell korrekte
+Streitentscheidung. Erweist sich das Rechtsmittel in der Sache als
+unbegründet und entscheidet das Verwaltungsgericht neu, sind allfällige
+Kosten des vorinstanzlichen Verfahrens dem Beschwerdeführer als unterliegende
+Partei aufzuerlegen. Die Kosten des gerichtlichen Verfahrens sind
+demgegenüber grundsätzlich auf die Staatskasse zu nehmen, da die
+Gehörsverletzung, die Anlass zur Beschwerdeführung gab, durch die Vorinstanz
+zu verantworten ist (vgl. VGer-Urteil VG.2019.00104/105 vom 25. Juni
+2020 E. III/1).
+1.3
+Aus
+dem Gesagten folgt, dass die Gerichtskosten auf die Staatskasse zu nehmen
+sind. Dem Beschwerdeführer ist der bereits geleistete Kostenvorschuss in der
+Höhe von Fr. 1'000.- zurückzuerstatten. Aus denselben Gründen hat der
+Beschwerdeführer zu Lasten der Beschwerdegegnerin Anspruch auf eine angemessene
+Parteientschädigung in der Höhe von Fr. 1'500.-
+(inkl. Mehrwertsteuer).
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Die
+Gerichtskosten werden auf die Staatskasse genommen. Dem Beschwerdeführer
+wird der von ihm bereits geleistete Kostenvorschuss in der Höhe von
+Fr. 1'000.- zurückerstattet.
+3.
+Die
+Beschwerdegegnerin wird verpflichtet, dem Beschwerdeführer innert
+30 Tagen nach Rechtskraft dieses Entscheids eine Parteientschädigung
+von Fr. 1'500.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
