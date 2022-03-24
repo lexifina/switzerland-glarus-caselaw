@@ -1,0 +1,587 @@
+---
+decision_id: "gl_gerichte_VG.2021.00074"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2021.00074"
+docket_2: "VG.2022.1133"
+decided: "2022-03-24"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1561&W10_KEY=218274&nTrefferzeile=2&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/101/art-075.md", "switzerland/bund/acts/101/art-078.md", "switzerland/bund/acts/173.110/art-089.md", "switzerland/bund/acts/451/art-002.md", "switzerland/bund/acts/451/art-012.md"]
+---
+
+# GL Gerichte VG.2021.00074
+
+## Regeste
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+## Text
+
+Glarus Verwaltungsgericht 24.03.2022 VG.2021.00074 (VG.2022.1133)
+Glaris Verwaltungsgericht 24.03.2022 VG.2021.00074 (VG.2022.1133)
+Glarona Verwaltungsgericht 24.03.2022 VG.2021.00074 (VG.2022.1133)
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+24. März 2022
+I. Kammer
+Besetzung:
+Gerichtspräsident
+MLaw Colin Braun, Verwaltungsrichter Ernst Luchsinger, Verwaltungsrichterin
+Jolanda Hager und Gerichtsschreiberin MLaw Paula Brändli
+in Sachen
+VG.2021.00074
+Glarner Heimatschutz
+Beschwerdeführer
+gegen
+1.
+A.______Gmb
+H
+Beschwerdegegner
+vertreten durch
+lic.
+iur.
+Werner
+Marti, Rechtsanwalt,
+2.
+Gemeinde Glarus Nord
+3.
+Departement Bau und Umwelt des Kantons
+Glarus
+betreffend
+Baubewilligung
+Die Kammer zieht in Erwägung:
+I.
+1.
+Am 26. November 2019
+reichte die A.______GmbH als Bauherrin und Projektverfasserin bei der
+Gemeinde Glarus Nord ein Gesuch für den Neubau eines Mehrfamilienhauses auf
+der im Eigentum der B.______AG stehenden Parz.-Nr. 01, Grundbuch […],
+ein.
+Das Bauvorhaben wurde erstmals im
+Amtsblatt
+vom […] publiziert. Wegen einer Projektänderung erfolgte eine zweite
+Publikation am […]. Gegen das Bauvorhaben erhob unter anderem der Glarner
+Heimatschutz am 24. Dezember 2019 Einsprache. Am 29. April 2020
+erteilte die Gemeinde Glarus Nord die Baubewilligung unter Auflagen und wies
+die dagegen erhobenen Einsprachen ab.
+2.
+Dagegen erhob der Glarner
+Heimatschutz am 29. Mai 2020 Beschwerde beim DBU und beantragte die
+Aufhebung der Baubewilligung. Das DBU trat am 16. August 2021 nicht auf
+die Beschwerde ein, weil der Glarner Heimatschutz nicht zur Beschwerde
+legitimiert sei (Disp.-Ziff. 1). Es auferlegte ihm die amtlichen Kosten
+des Beschwerdeverfahrens in der Höhe von Fr. 1'000.-
+(Disp.-Ziff. 2) und verpflichtete ihn, der A.______GmbH innert
+30 Tagen ab Rechtskraft des Entscheids eine Parteientschädigung in der
+Höhe von Fr. 1'260.- (inklusive Mehrwertsteuer und Auslagen) zu bezahlen
+(Disp.-Ziff. 3).
+3.
+3.1
+In der Folge gelangte der Glarner Heimatschutz mit
+Beschwerde vom 13. September 2021 ans Verwaltungsgericht und beantragte
+die Aufhebung des Entscheids des DBU vom 16. August 2021. Das DBU sei
+anzuweisen, die gegen den Baubewilligungsentscheid der Gemeinde Glarus Nord
+vom 29. April 2020 eingereichte Verwaltungsbeschwerde materiell zu
+behandeln; unter Kosten- und Entschädigungsfolgen.
+3.2
+Die A.______GmbH schloss am 13. Oktober 2021 auf Abweisung
+der Beschwerde; alles unter Kosten- und Entschädigungsfolgen zu Lasten des
+Glarner Heimatschutzes für das Verwaltungsbeschwerde- sowie das
+Verwaltungsgerichtsbeschwerdeverfahren. Das DBU liess sich am 20. Oktober
+2021 vernehmen und beantragte die Abweisung der Beschwerde, soweit darauf
+einzutreten sei; unter Kostenfolge. Die Gemeinde Glarus Nord schloss am
+3. November 2021 ebenfalls auf Abweisung der Beschwerde; unter Kosten-
+und Entschädigungsfolgen zu Lasten des Glarner Heimatschutzes.
+3.3
+Am 25. November 2021 reichte der Glarner
+Heimatschutz unaufgefordert eine Stellungnahme ein, wobei er an seinen
+Anträgen festhielt. Während die A.______GmbH mit Eingabe vom 2. Dezember 2021
+ebenfalls an ihren Anträgen festhielt, erklärten das DBU und die Gemeinde
+Glarus Nord am 29. November 2021 bzw. am 13. Dezember 2021 Verzicht auf
+eine erneute Vernehmlassung.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 79 Abs. 1 des
+Raumentwicklungs- und Baugesetzes vom 2. Mai 2010 (RBG) i.V.m. Art. 105 Abs.
+1 lit. b des Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986 (VRG)
+zur Behandlung der vorliegenden Beschwerde zuständig.
+1.2
+Angefochten ist ein Nichteintretensentscheid. Der
+Beschwerdeführer als Adressat, auf dessen Eingabe nicht eingetreten wurde,
+ist grundsätzlich legitimiert, den Nichteintretensentscheid anzufechten.
+Streitgegenstand kann indessen nur die Frage sein, ob der
+Beschwerdegegner 3 zu Recht auf die Eingabe des Beschwerdeführers nicht
+eingetreten ist (
+vgl. Martin Bertschi, in Alain Griffel [Hrsg.],
+Kommentar zum Verwaltungsrechtspflegegesetz des Kantons Zürich, 3. A.,
+Zürich/Basel/Genf 2014, § 19a N. 14).
+1.3
+Da auch die übrigen Prozessvoraussetzungen erfüllt
+sind, ist auf die Beschwerde einzutreten.
+2.
+2.1
+Der Beschwerdeführer rügt, der
+Beschwerdegegner 3 habe sich bei der Beurteilung der
+Beschwerdelegitimation nur ansatzweise mit einer grammatikalischen und vor
+allem historischen Auslegung von Art. 5 des kantonalen Gesetzes über den
+Natur- und Heimatschutz vom 2. Mai 1971 (kNHG) begnügt, was unzureichend
+sei. Die historische Auslegung beruhe lediglich auf Annahmen und bei der
+grammatikalischen Auslegung werde einzig auf das in Art. 5 kNHG
+enthaltene Wort "auch" abgestellt. Demgegenüber würden das
+teleologische und systematische Element gänzlich ausgeblendet. Insgesamt
+führe die Auslegung des Beschwerdegegners 3 im Ergebnis dazu, dass
+Art. 5 kNHG als obsolet betrachtet werden müsste, was nicht angehen
+könne. In historischer Hinsicht weise kein Beleg in den Gesetzesmaterialien
+darauf hin, dass der Gesetzgeber sein Beschwerderecht auf die Erfüllung von
+Bundesaufgaben habe beschränken wollen. Entsprechendes gehe auch nicht aus
+dem Wortlaut von Art. 5 kNHG hervor. Wäre dies gewollt, so hätte
+der Gesetzgeber dies entweder in der betroffenen Bestimmung selbst oder in
+den Gesetzesmaterialien festgehalten. Ferner sei im Rahmen der teleologischen
+Auslegung darauf hinzuweisen, dass Art. 5 kNHG bezwecke, die
+Verschandelung der Landschaft und die Zerstörung von Kulturgütern zu
+erschweren. Dabei sei das streitbetroffene Beschwerderecht die einzige
+Möglichkeit, um gewisse Minimalbaustandards bei der baulichen Entwicklung zu
+sichern. Im Übrigen sei kein Fall der kommunalen und kantonalen Behörden oder
+des Verwaltungsgerichts bekannt, in welchem die Beschwerdebefugnis verneint
+oder auf Bundesaufgaben beschränkt worden sei. Schliesslich sei es bei seinem
+Vorgehen einzig darum gegangen, die Verschandelung des […] zu verhindern,
+wobei die Einhaltung der guten Gesamtwirkung des Bauprojekts erheblichen Einfluss
+darauf habe. Insgesamt erfasse Art. 5 kNHG den gesamten
+Anwendungsbereich des kNHG und somit auch den Natur- und Heimatschutz bei der
+kantonalen Aufgabenerfüllung. Eine Beschränkung auf die Bundesaufgaben
+beziehe sich indessen einzig auf Art. 12 des Bundesgesetzes über den
+Natur- und Heimatschutz vom 1. Juli 1966 (NHG).
+2.2
+Die Beschwerdegegnerin 1 stellt sich auf den
+Standpunkt, der Beschwerdeführer habe einzig eine Verletzung von kantonalem
+Baurecht, nicht aber einer Bestimmung des Natur- und Heimatschutzes gerügt.
+Sein Vorgehen ziele auf ein generelles Einspracherecht in baurechtlichen
+Angelegenheiten ab, welches gesetzlich nicht vorgesehen sei. Es handle sich
+beim Beschwerdeführer um keine Oberbaubehörde oder Oberkontrollinstanz und
+das Verbandsbeschwerderecht stehe einzig dann offen, wenn eine Bundesaufgabe
+im Sinne von Art. 78 Abs. 2 der Bundesverfassung der Schweizerischen
+Eidgenossenschaft vom 18. April 1999 (BV) oder Art. 2 NHG betroffen sei,
+wobei sich die angefochtene Verfügung zusätzlich auf hinreichend
+detailliertes und direkt anwendbares Bundesrecht stützen müsse. Diese
+Voraussetzungen seien vorliegend nicht erfüllt und würden vom
+Beschwerdeführer weder dargetan noch bewiesen. Sodann gehe Art. 5 kNHG
+nicht über Art. 12 NHG hinaus, was der Beschwerdegegner 3 im Rahmen
+seiner Auslegung zu Recht erkannt habe. Diese lasse einzig den Schluss zu,
+dass Art. 5 kNHG die Beschwerdelegitimation im Sinne von Art. 12
+NHG auf kantonale Sektionen schweizerischer Vereinigungen erweitere, nicht
+aber ein generelles Beschwerderecht statuiere. Gegenteiliges wäre widersinnig
+und es wäre nicht einzusehen, weshalb ein solch generelles Beschwerderecht
+nur im Baurecht, nicht aber in weiteren Rechtsgebieten zugestanden würde.
+Ferner sei eine Klärung des Anwendungsbereichs von Art. 5 kNHG noch
+nicht notwendig gewesen, nicht zuletzt, weil sich der Beschwerdeführer bis
+anhin auf die ihm zugewiesenen Aufgaben, namentlich die Interessen des Natur-
+und Heimatschutzes zu vertreten, konzentriert habe.
+2.3
+Die Beschwerdegegnerin 2 führt aus, sie habe im
+Einspracheverfahren keine Prüfung der Legitimationsvoraussetzungen
+vorgenommen, sondern die Einsprache des Beschwerdeführers nach baurechtlichen
+Gesetzesvorgaben beantwortet. Der Beschwerdegegner 3 habe diese Prüfung nun
+eingehend und rechtsgenüglich vorgenommen. Das entsprechende Ergebnis werde
+bei künftigen Bauverfahren berücksichtigt.
+2.4
+Der Beschwerdegegner 3 bringt vor, entgegen der
+Ansicht des Beschwerdeführers sei er auf den Zweck von Art. 5 kNHG und
+auf dessen systematische Stellung eingegangen. Er sei nicht nur gestützt auf
+das Wort "auch" zu seinem Auslegungsergebnis gelangt. Vielmehr sei
+der Wortlaut der Bestimmung Ausgangspunkt und weitere Auslegungselemente
+ausschlaggebend gewesen. Der Gesetzgeber habe die kantonale Gesetzgebung
+lediglich an das Bundesrecht anlehnen und nicht über dieses hinausgehen
+wollen. Daran ändere im Übrigen nichts, dass die kantonale Bestimmung durch
+das Inkrafttreten von Art. 12 Abs. 5 NHG an Bedeutung verloren habe und führe
+nicht dazu, dass dessen Tragweite nun weiter gefasst werden dürfe. Im
+Ergebnis sei in Art. 5 kNHG lediglich eine Erweiterung des
+Beschwerderechts auf kantonale Sektionen zu sehen und nicht eine Ausweitung
+der möglichen Anfechtungsobjekte. Bestünde demgegenüber das vom
+Beschwerdeführer anbegehrte Beschwerderecht bei sämtlichen Bauvorhaben, so
+wäre fraglich, weshalb dieses nicht auch gesamtschweizerischen Verbänden
+zukommen würde. Ferner könne der Beschwerdeführer aus der bisherigen
+kantonalen Verwaltungs- und Verwaltungsgerichtspraxis nichts zu seinen
+Gunsten ableiten.
+3.
+Verbände und andere
+juristische Personen des Privatrechts sind nach den allgemeinen Regeln
+beschwerdebefugt, soweit sie Adressaten oder Drittbetroffene einer
+angefochtenen Verfügung oder eines Entscheids sind (Ulrich Häfelin/Georg
+Müller/Felix Uhlmann, Allgemeines Verwaltungsrecht, 8. A.,
+Zürich/St. Gallen 2020, Rz. 1149 ff.). Ideelle Organisationen wie
+beispielsweise Umwelt-, Natur- und Heimatschutzverbände sind in bestimmten
+Fällen berechtigt, ein Rechtsmittel zu ergreifen, um die richtige Anwendung
+des objektiven Rechts durchzusetzen (ideelle Verbandsbeschwerde; Laura
+Bucher, in Jürg Bereuter/Jörg Frei/Werner Ritter [Hrsg.], Kommentar zum
+Planungs- und Baugesetz des Kantons St. Gallen, Basel 2020,
+Einleitung N. 75). Die ideelle Verbandsbeschwerde kommt allerdings nur
+zum Tragen, wo sie gesetzlich vorgesehen ist, und ihr Anwendungsbereich ist
+so weit bzw. so eng, wie ihn der Gesetzgeber ausgestaltet hat. Im Rahmen
+der ideellen Verbandsbeschwerde handelt eine juristische Person in eigenem
+Namen, aber zur Wahrung ideeller Interessen, wobei ihr ebenfalls
+Parteistellung zukommt. Das Beschwerderecht besteht abstrakt, ohne Nachweis
+eines Rechtsschutzinteresses (Alain Griffel, Das Verbandsbeschwerderecht im
+Brennpunkt zwischen Nutz- und Schutzinteressen, in URP 2006,
+S. 95 ff., 98). Dem kantonalen Verfahrensrecht lässt sich hierzu
+überdies entnehmen, dass zur Beschwerde andere Personen, Organisationen und
+Behörden legitimiert sind, sofern sie durch Gesetz hierzu ermächtigt sind
+(Art. 88 Abs. 1 lit. d VRG).
+4.
+4.1
+Bundesrechtlich steht Organisationen, die sich dem
+Naturschutz, dem Heimatschutz, der Denkmalpflege oder verwandten Zielen
+widmen, das Beschwerderecht gegen Verfügungen der kantonalen Behörden oder
+der Bundesbehörden zu, wenn sie gesamtschweizerisch tätig sind und rein
+ideelle Zwecke verfolgen (Art. 12 Abs. 1 lit. b NHG). Das
+Beschwerderecht steht ihnen nur für Rügen in Rechtsbereichen zu, die seit
+mindestens zehn Jahren Gegenstand ihres statuarischen Zwecks bilden
+(Art. 12 Abs. 2 NHG). Der Bundesrat bezeichnet die zur Beschwerde
+berechtigten Organisationen (Art. 12 Abs. 3 NHG). Diese können ihre rechtlich
+selbständigen kantonalen und überkantonalen Unterorganisationen für deren
+örtliches Tätigkeitsgebiet generell zur Erhebung von Einsprachen und im
+Einzelfall zur Erhebung von Beschwerden ermächtigen (Art. 12 Abs. 5
+NHG).
+Die Verbandsbeschwerde
+nach Art. 12 NHG steht nur offen, soweit der angefochtene Entscheid die
+Erfüllung einer Bundesaufgabe im Sinne von Art. 78 Abs. 2 BV und Art. 2
+NHG betrifft. Voraussetzung hierfür ist insbesondere, dass sich die
+angefochtene Verfügung auf hinreichend detailliertes, direkt anwendbares
+Bundesrecht stützt. Weiter wird ein Bezug der Aufgabe zum Natur- und Heimatschutz
+verlangt, sei es, weil die bundesrechtliche Regelung (zumindest auch) dem
+Schutz von Natur, Landschaft oder Heimat dient, oder aber der
+bundesrechtliche Auftrag die Gefahr der Beeinträchtigung schützenswerter
+Natur, Ortsbilder oder Landschaften in sich birgt und deshalb die
+Rücksichtnahme auf die Anliegen des Natur- und Heimatschutzes sichergestellt
+werden muss (vgl. zum Ganzen: BGE 144 II 218 E. 3.1 f.;
+BGer-Urteil 1C_179/2015, 1C_180/2015 vom 11. Mai 2016 E. 2.2, mit
+Hinweisen).
+4.2
+Der Beschwerdeführer setzt sich im vorliegenden Fall
+gegen ein Bauvorhaben innerhalb der Bauzone zur Wehr, wobei er in den
+vorinstanzlichen Verfahren vor der Beschwerdegegnerin 2 und dem
+Beschwerdegegner 3 hauptsächlich die unrichtige Anwendung von materiellem,
+kommunalem sowie kantonalem Baurecht rügte. Darin liegt offensichtlich keine
+Bundesaufgabe im Sinne von Art. 78 Abs. 2 BV und Art. 2 NHG,
+zumal im Bereich der Raumplanung grundsätzlich die Kantone zuständig sind und
+dem Bund lediglich eine Grundsatz-Gesetzgebungskompetenz zusteht
+(Art. 75 Abs. 1 BV).
+Wo sich das Bundesgesetz
+über die Raumplanung vom 22. Juni 1979 (RPG) auf Rahmenbestimmungen
+beschränkt, was etwa bei der Nutzungsplanung oder bei Bewilligungen von
+Bauten innerhalb der Bauzone der Fall ist, liegt regelmässig keine
+Bundesaufgabe i.S.v. Art. 2 NHG vor (vgl. BGE 139 II 271 E. 10.1).
+Dementsprechend ist vorliegend keine Bundesaufgabe betroffen, weshalb dem
+Beschwerdeführer gestützt auf Art. 12 NHG keine Beschwerdebefugnis
+zukommt. Zu prüfen bleibt indessen, ob er eine Beschwerdelegitimation aus dem
+kantonalen Recht ableiten kann.
+5.
+5.1
+Gemäss Art. 5 kNHG steht, soweit gegen Verfügungen
+oder Erlasse von Behörden des Kantons oder der Gemeinden Rechtsmittel
+zulässig sind, das Beschwerderecht auch den kantonalen Sektionen
+schweizerischer Vereinigungen zu, die sich statutengemäss dem Natur- und
+Heimatschutz widmen. Während der Beschwerdeführer gestützt darauf eine
+Beschwerdelegitimation in der vorliegenden Streitsache ableiten will, sind
+die Beschwerdegegner der Ansicht, Art. 5 kNHG berechtige ihn nicht zur
+Rechtsmittelerhebung, da die Regelung gegenüber Art. 12 NHG lediglich den
+Adressatenkreis auf kantonale Sektionen schweizerischer Vereinigungen, nicht
+aber das Anfechtungsobjekt ausweite.
+5.2
+Nach den üblichen Regeln der Gesetzesauslegung ist
+eine Bestimmung in erster Linie nach ihrem Wortlaut auszulegen. Ist der Text
+nicht ganz klar und sind verschiedene Auslegungen möglich, so muss nach
+seiner wahren Tragweite gesucht werden unter Berücksichtigung aller
+Auslegungselemente, namentlich von Sinn und Zweck sowie der dem Text
+zugrundeliegenden Wertung. Vom klaren, d.h. eindeutigen und
+unmissverständlichen Wortlaut darf nur ausnahmsweise abgewichen werden, unter
+anderem dann, wenn triftige Gründe dafür vorliegen, dass der Wortlaut nicht
+den wahren Sinn der Bestimmung wiedergibt. Solche Gründe können sich aus der
+Entstehungsgeschichte der Bestimmung, aus ihrem Grund und Zweck oder aus dem
+Zusammenhang mit anderen Vorschriften ergeben (BGE 141 V 674 E. 2.2, 139 V 148
+E. 5.1, je mit Hinweisen).
+5.2.1
+Eine grammatikalische Auslegung von Art. 5 kNHG
+ergibt, dass das Beschwerderecht "auch" und damit
+"zusätzlich" zu weiteren Berechtigten den kantonalen Sektionen
+schweizerischer Vereinigungen zukommt. Aus dem Wort "auch" kann
+indessen nicht unbesehen darauf geschlossen werden, dass damit das
+Beschwerderecht gemäss Art. 12 NHG auch auf kantonale Sektionen
+gesamtschweizerischer Organisationen ausgeweitet wird. Vielmehr ist dieser
+Passus zusammen mit dem ersten Satzteil von Art. 5 kNHG zu sehen, wonach als
+mögliche Anfechtungsobjekte Verfügungen und Erlasse von kantonalen oder
+kommunalen Behörden in Frage kommen. Dementsprechend unterscheidet sich die
+kantonale Bestimmung von der bundesrechtlichen Regelung in einem wesentlichen
+Punkt. So sieht das Bundesrecht nämlich weder in der aktuellen noch in
+früheren Fassungen ein Beschwerderecht gegen kommunale Anordnungen vor. In
+diesem Lichte weist der Bundesrat in seiner Botschaft zum Entwurf eines
+Bundesgesetzes über den Natur- und Heimatschutz vom 12. November 1965
+(BBl 1965, III, 89 ff., 97) mit Blick auf das bundesrechtliche
+Beschwerderecht gesamtschweizerischer Organisationen denn auch darauf hin,
+dass sich die Rechtsschutzmittel nur ausnahmsweise auch gegen kantonale Entscheide
+richten könnten, nämlich dann, wenn die Kantone aufgrund gesetzlicher
+Delegation als blosse Vollzugsorgane des Bundes Aufgaben erfüllten, welche
+grundsätzlich in die Zuständigkeit des Bundes fallen würden. Aus dem Gesagten
+folgt, dass mit den weiteren Beschwerdeberechtigten, bzw. mit den "auch
+Legitimierten" gemäss Art. 5 kNHG nicht die schweizerischen
+Vereinigungen im Sinne von Art. 12 Abs. 1 lit. b NHG gemeint sein
+können, da diesen kein über Art. 12 Abs. 1 NHG hinausgehendes Beschwerderecht
+bzw. kein solches gegen kommunale Verfügungen und Erlasse zusteht.
+Vielmehr muss es sich bei diesen um weitere Parteien handeln, welche aufgrund
+eines rechtlich geschützten Interesses zur Erhebung eines Rechtmittels gegen
+kommunale sowie kantonale Verfügungen und Erlasse berechtigt sind. Ferner
+beschränkt Art. 5 kNHG das Beschwerderecht dem Wortlaut nach auf diejenigen
+Sektionen, welche sich gemäss ihren Statuten dem Natur- und Heimatschutz
+widmen. Dies impliziert einerseits, dass der zentrale Zweck dieser Organisation
+der Natur- und Heimatschutz sein muss. Andererseits deutet dies darauf hin,
+dass die Ausübung des Beschwerderechts in einem konkreten und sachlich engen
+Zusammenhang mit dem statuarischen Zweck stehen muss. Unbeantwortet lässt der
+Gesetzestext hingegen die Frage, ob das Beschwerderecht analog zu
+Art. 12 NHG lediglich auf die Erfüllung von Bundesaufgaben beschränkt
+ist, weshalb weitere Auslegungselemente heranzuziehen sind.
+5.2.2
+Das historische Auslegungselement stützt sich auf
+die Materialien der Gesetzgebung. Dabei ist zunächst auf den Bericht des
+Regierungsrats an den Landrat vom 2. November 1970 hinzuweisen, wonach
+die kantonalen Organisationen für Natur- und Heimatschutz mit einem
+Beschwerderecht ein Wächteramt erhielten, das sie gleichsam stellvertretend
+für jeden einzelnen Bürger auszuüben hätten (vgl. dazu auch das Memorial
+zur Landsgemeinde 1971 S. 49). Dies erhellt, dass die betroffenen
+Institutionen ihr Beschwerderecht dann wahrnehmen können, wenn Interessen des
+Natur- und Heimatschutzes bedroht sind und dieser Bedrohung stellvertretend
+für die Bürger des Kantons Glarus begegnet werden muss. Überdies weist der
+Regierungsrat darauf hin, dass das geplante Gesetz die vom Bundesgesetz den
+Kantonen zum Entscheid überlassenen Bestimmungen enthalte, oder den Erlass
+solcher Bestimmungen auf dem Verordnungsweg ermögliche. Damit macht er
+deutlich, dass es sich beim kNHG um eine Ausführungsgesetzgebung handelt,
+wobei die Gesetzesvorlage lediglich eine Rahmenordnung sei, welche durch
+Vollziehungsbestimmungen zu ergänzen sei. Sodann ist der Bericht der
+landrätlichen Kommission an den Landrat vom 8. Januar 1971 zu erwähnen,
+worauf sich der Beschwerdegegner 3 im vorliegend angefochtenen Entscheid
+massgeblich abstützt. Darin wird darauf hingewiesen, dass der Bund den
+gesamtschweizerischen Vereinigungen, welche sich dem Natur- und Heimatschutz
+widmen, das Beschwerderecht einräumt. Es sei deshalb entsprechend auch eine
+Regelung für Vereinigungen von kantonaler Bedeutung gerechtfertigt. Aus
+dieser Darlegung kann jedoch nicht ohne Weiteres darauf geschlossen werden,
+dass das Beschwerderecht kantonaler Sektionen lediglich auf die Erfüllung von
+Bundesaufgaben abzielt oder ob die landrätliche Kommission damit ein
+Beschwerderecht zur generellen Wahrung der Natur- und Heimatschutzinteressen
+umschreiben wollte. Schliesslich ist zu erwähnen, dass Dr. Alfred Heer
+in der Detailberatung erfolgreich beantragte, dass das Beschwerderecht
+ausschliesslich den kantonalen Sektionen schweizerischer Vereinigungen
+zugestanden werde, welche sich statutengemäss dem Natur- und Heimatschutz
+widmen. Dies unterstreicht, dass das Beschwerderecht hinreichend mit dem
+Statutenzweck bzw. dem Natur- und Heimatschutz in Verbindung stehen
+muss.
+5.2.3
+Im Rahmen der systematischen Auslegung ist unter
+anderem die Stellung einer gesetzlichen Regelung in der Rechtsordnung zu
+berücksichtigen. Art. 5 kNHG wurde im Rahmen einer
+Ausführungsgesetzgebung in das kantonale Natur- und Heimatschutzgesetz
+eingefügt. Es versteht sich dabei von selbst, dass das Beschwerderecht der
+kantonalen Sektionen schweizerischer Vereinigungen aufgrund der gesetzlichen
+Einordnung einzig zur Wahrung von Natur- und Heimatschutzinteressen geltend
+gemacht werden kann und es unmittelbar mit dem Zweck des kNHG sowie dem damit
+verbundenen sowie übergeordneten Bundes- und Verfassungsrecht vereinbar sein
+muss. Dies folgt auch aus dem Umstand, dass die Begriffe Natur- und
+Heimatschutz in der Gesetzgebung des Bundes eng gekoppelt sind. Sowohl die
+Bundesverfassung als auch das NHG verwenden sie als Einheit. Natur- und
+Heimatschutz ist überwiegend raumbezogen und die Schutzgegenstände sind
+Elemente der Landschaft (Josef Rohrer in: Peter M. Keller/Jean-Baptiste
+Zufferey/Karl Ludwig Fahrländer [Hrsg.],
+Kommentar NHG,
+Zürich 1997, Art. 12 N 8). Der
+Heimatschutz im Sinne des NHG widmet sich dem Schutz und der Pflege des
+baulichen Erbes und der historisch bedeutsamen Orte. Da es ein Rechtsbegriff
+auf Verfassungsstufe ist, kommt ihm in der ganzen Schweiz dieselbe Bedeutung
+zu. Wenn also Art. 5 kNHG die Formulierung "Natur- und
+Heimatschutz" wählt, ist zwingend davon auszugehen, dass diese
+Formulierung inhaltlich (mindestens) dem entsprechenden bundesrechtlichen
+Begriff des Art. 78 BV und des NHG entspricht, nicht zuletzt weil für den
+ganzen Bereich des Natur- und Heimatschutzes von einer Verbundaufgabe von
+Bund und Kantonen auszugehen ist (Arnold Marti in: Bernhard Ehrenzeller et
+al. [Hrsg.], St. Galler Kommentar zur schweizerischen Bundesverfassung,
+3. A., Zürich/St. Gallen 2014, Art. 78 N. 4 f.). Aus dem Umstand, dass
+der Schutzgedanke des Natur- und Heimatschutzes bzw. die Begrifflichkeit
+sowohl bundesrechtlich als auch in Art. 5 kNHG dieselbe ist, folgt nun aber
+auch nicht, dass das Beschwerderecht gemäss Art. 5 kNHG auch auf die
+Erfüllung von Bundesaufgaben zu beschränken wäre. So ergibt sich bereits aus
+dem Grundsatz in Art. 1 kNHG, dass der Schutzgedanke der kantonalen
+Gesetzgebung nicht nur auf die Bundesaufgaben abzielt, sondern auch die dem
+Kanton sowie den Gemeinden zugewiesenen Kompetenzen im Zusammenhang mit dem
+Natur- und Heimatschutz erfasst. Mit Blick auf diese Grundsatzbestimmung und
+den vom kantonalen Gesetz erfassten Bereich ist denn auch davon auszugehen,
+dass mit dem Beschwerderecht gemäss Art. 5 kNHG nicht nur die Erfüllung
+von Bundesaufgaben gerügt werden kann.
+5.2.4
+Letztlich ist auf den Zweck von Art. 5 kNHG
+einzugehen. Indem die Bestimmung auf ein Beschwerderecht gegen kommunale und
+kantonale Anfechtungsobjekte hinweist, folgt, dass damit nicht lediglich der
+Adressatenkreis von gesamtschweizerischen Vereinigungen auf kantonale
+Sektionen ausgeweitet werden soll. Vielmehr wollte der Gesetzgeber den
+kantonalen Sektionen die Möglichkeit geben – wohl aufgrund ihrer räumlichen
+Nähe und ihrem engeren Bezug zur Streitsache – die Interessen des Natur- und
+Heimatschutzes bereits in frühen Verfahrensstadien wahrzunehmen. Dieses
+Beschwerderecht ist indessen nicht nur auf die Erfüllung von Bundesaufgaben
+begrenzt. Vielmehr bezweckt Art. 5 kNHG, mit Blick auf den Grundsatz in Art.
+1 kNHG sowie die weiteren kantonalen Bestimmungen mit einem unmittelbaren
+Bezug zum Natur- und Heimatschutz, das Beschwerderecht auch auf die Erfüllung
+von kommunalen und kantonalen Aufgaben auszuweiten. So soll damit auch in
+Prozessen auf dieser Ebene gewährleistet werden, dass eine Art
+Waffengleichheit hergestellt wird, so dass die Interessen der
+"sprachlosen" Natur sowie der "sprachlosen" Umwelt
+gebührend berücksichtigt und in die Interessenabwägung miteinbezogen werden
+(vgl. Griffel, a.a.O., S. 105). Diesem Interesse wird lediglich
+dann genügend entsprochen, wenn das Beschwerderecht der kantonalen Sektionen
+gemäss Art. 5 kNHG über die Erfüllung von Bundesaufgaben hinausgeht.
+5.2.5
+Zusammenfassend gewährt Art. 5 kNHG den kantonalen
+Sektionen schweizerischer Vereinigungen sowohl gegen kommunale als auch gegen
+kantonale Anfechtungsobjekte ein Verbandsbeschwerderecht. Dieses ist entgegen
+der Ansicht des Beschwerdegegners 3 nicht zwingend auf die Erfüllung von
+Bundesaufgaben beschränkt, womit sich allfällige Ausführungen zu den von den
+Parteien angeführten Entscheiden des Verwaltungsgerichts und dessen
+Vorinstanzen erübrigen. Indessen beinhaltet Art. 5 kNHG aber kein
+generelles Beschwerderecht gegen kommunale oder kantonale Bauentscheide.
+Vielmehr ist den oben erwähnten Auslegungselementen gemeinsam, dass die
+Ausübung des Beschwerderechts einen engen Zusammenhang zum statuarischen
+Zweck der betroffenen kantonalen Sektionen bzw. einen sachlich
+hinreichenden Kontext zu Natur- und Heimatschutzinteressen aufweisen muss. Dies
+lässt sich im Übrigen auch anhand der gesetzlichen Einordnung von Art. 5
+kNHG herleiten. So ist die Beschwerdelegitimation einerseits im kNHG
+verankert, welches als Grundsatz in Art. 1 kNHG die Natur- und
+Heimatschutzinteressen und keine darüber hinausgehenden (baurechtlichen)
+Anliegen nennt. Andererseits ist der streitbetroffenen
+Legitimationsbestimmung die Bestellung einer kantonalen Natur- und
+Heimatschutzkommission vorgelagert (Art. 4 kNHG), welche nur dann
+beigezogen wird, wenn eine Beratung zu Fragen des Natur- und Heimatschutzes
+notwendig erscheint. Dies weist insgesamt darauf hin, dass im Rahmen von
+Art. 5 kNHG nur gerügt werden kann, dass Bestimmungen des Natur- und
+Heimatschutzrechts, diese ausführende Anordnungen und Erlasse, oder Bestimmungen,
+die im Hinblick auf den Natur- und Heimatschutz eine qualifizierte
+Gestaltungsvorschrift beinhalten, verletzt worden sind. Normen, die nicht
+unmittelbar dem Natur- und Heimatschutz dienen, können demgegenüber nicht als
+verletzt gerügt werden, womit es einer kantonalen Sektion gestützt auf Art. 5
+kNHG beispielsweise etwa verwehrt ist, eine ungenügende Erschliessung des
+Baugrundstücks oder die unrichtige Festlegung eines Niveaupunkts zu rügen.
+Insofern unterscheidet sich das in Art. 5 kNHG verankerte Recht denn
+auch grundlegend von dem für Private geltenden Legitimationsrecht, mit
+welchem diese grundsätzlich alle Argumente und Rechtssätze anführen können,
+die im Ergebnis zu einer Gutheissung des Rechtsmittels führen können.
+5.3
+Im vorliegenden Fall besteht kein genügend enger
+Bezug zu den gesetzlich verankerten sowie statuarisch festgelegten Natur- und
+Heimatschutzinteressen des Beschwerdeführers. Zwar lässt sich dem
+streitbetroffenen Bauprojekt eine prominente Lage und eine mögliche
+Fernwirkung nicht absprechen, da es an einer topografisch exponierten Lage […]
+geplant ist. Indessen liegt die streitbetroffene Parzelle weder ausserhalb
+der Wohn- und Gewerbezone noch wird es durch eine Ortsbildschutzzone
+überlagert. Sodann stellen sich beim Bauvorhaben keine Fragen im Zusammenhang
+mit einer qualifizierten Gestaltungsvorschrift, waren in den vorinstanzlichen
+Verfahren doch hauptsächlich Bestimmungen des materiellen Baurechts sowie die
+Frage einer nicht über das übliche Mass hinausgehenden Prüfung der guten Gesamtwirkung
+im Sinne von Art. 47 Abs. 1 RBG strittig. Diesbezüglich kam denn auch die
+Fachstelle Denkmalpflege und Ortsbildschutz in ihrer Stellungnahme vom
+3. September 2020 zum Schluss, dass kein Beizug der kantonalen Natur-
+und Heimatschutzkommission angezeigt sei, was ebenfalls darauf hindeutet,
+dass keine Fragen in einem hinreichend engen Zusammenhang mit dem Natur- und
+Heimatschutz zu klären waren. Sodann ist mit der Beschwerdegegnerin 1
+darin einig zu gehen, dass es der Beschwerdeführer in den vorinstanzlichen
+Verfahren insbesondere unterlassen hat, eine Verletzung von Bestimmungen des
+Natur- und Heimatschutzrechts, diese ausführende Anordnungen und Erlasse,
+oder Bestimmungen, die im Hinblick auf den Natur- und Heimatschutz eine
+qualifizierte Gestaltungsvorschrift beinhalten, geltend zu machen. Einzig
+seine Hinweise auf eine Verschandelung der Landschaft und eine mangelhafte
+Gesamtwirkung im Rahmen von Art. 47 Abs. 1 RBG vermögen dabei noch keine
+Beschwerdelegitimation im Sinne von Art. 5 kNHG zu begründen. Andernfalls
+müsste ihm mit einer solch pauschalen Rüge wohl bei den meisten Bauvorhaben
+eine Beschwerdelegitimation zuerkannt werden, was nicht im Sinne des
+Gesetzgebers und mit Blick auf die gesetzliche Konzeption nur bei Privaten
+der Fall ist. Daraus folgt, dass mangels eines engen Zusammenhangs zum Natur-
+und Heimatschutz eine Beschwerdelegitimation des Beschwerdeführers vorliegend
+zu verneinen ist.
+6.
+Zusammenfassend ist
+festzuhalten, dass Art. 5 kNHG den kantonalen Sektionen schweizerischer Vereinigungen
+ein Beschwerderecht gegen kommunale oder kantonale Anordnungen zugesteht,
+wobei dieses aufgrund der Gesetzesauslegung und mit Blick auf die weiteren
+Bestimmungen des kantonalen Natur- und Heimatschutzrechts nicht zwingend auf
+die Erfüllung von Bundesaufgaben beschränkt ist. Damit kommt den kantonalen
+Sektionen aber keinesfalls ein generelles Beschwerderecht gegen kommunale
+oder kantonale Bauentscheide zu, da deren Vorbringen einen unmittelbaren
+Zusammenhang zum Natur- und Heimatschutz aufweisen müssen. Dementsprechend
+kann der Beschwerdeführer im Rahmen von Art. 5 kNHG denn auch nur rügen, dass
+Bestimmungen des Natur- und Heimatschutzrechts, diese ausführende Anordnungen
+und Erlasse, oder Bestimmungen, die im Hinblick auf den Natur- und Heimatschutz
+eine qualifizierte Gestaltungsvorschrift beinhalten, verletzt wurden. Weil im
+vorliegenden Fall kein unmittelbarer Zusammenhang zu Natur- und
+Heimatschutzinteressen, welcher über das übliche Mass hinausgeht, ersichtlich
+ist und der Beschwerdeführer in der Hauptsache lediglich die Verletzung von
+Bestimmungen des materiellen kommunalen sowie kantonalen Baurechts rügt, hat
+der Beschwerdegegner 3 dessen Beschwerdelegitimation zu Recht verneint.
+Dies führt zur Abweisung
+der Beschwerde.
+7.
+Hinzuweisen bleibt
+schliesslich darauf, dass das Verbandsbeschwerderecht gemäss Art. 5 kNHG nur
+für die kommunale und kantonale Ebene gilt, nicht aber vor Bundesgericht.
+Daher vermögen sich bloss kantonal tätige Vereinigungen mit ideellen Zwecken
+nicht auf das bundesrechtlich determinierte Verbandsbeschwerderecht gemäss
+Art. 89 Abs. 2 lit. d
+des Bundesgerichtsgesetzes vom
+17. Juni 2005 (BGG) zu berufen, sondern nur auf die allgemeine
+Legitimationsbestimmung von Art. 89 Abs. 1 BGG. Verbände, denen auf
+kantonaler Ebene ein Verbandsbeschwerderecht zusteht, können vor
+Bundesgericht dementsprechend nur geltend machen, im kantonalen Verfahren in
+ihren Parteirechten verletzt worden zu sein
+.
+III.
+1.
+Soweit die
+Beschwerdegegnerin 1 beantragt, ihr sei für das vorinstanzliche Verfahren
+eine höhere Parteientschädigung zuzusprechen, ist sie darauf hinzuweisen,
+dass das kantonale Verwaltungsprozessrecht das Institut einer
+Anschlussbeschwerde nicht kennt (vgl. VGer-Urteil VG.2018.00019 vom 31. Mai
+2014 E. II/1.2). Überdies läuft ihr Antrag auf eine reformatio in peius
+hinaus, welche gemäss Art. 100 Abs. 3 VRG nur in den dort
+aufgeführten Ausnahmefällen zulässig ist, worunter Streitigkeiten in
+Baurechtssachen nicht fallen. Demgemäss ist mangels selbständiger Anfechtung
+des vorinstanzlichen Entscheids durch die Beschwerdegegnerin 1 innert
+Beschwerdefrist nicht weiter auf ihren Antrag einzugehen (vgl. dazu auch
+BGer-Urteil 2C_162/2017, 2C_163/2017 vom 24. August 2017 E. 2.2).
+2.
+Nach Art. 134 Abs. 1 lit.
+c VRG hat die Partei, welche im Beschwerde-, Klage- oder Revisionsverfahren
+unterliegt, die amtlichen Kosten zu tragen. Ausgangsgemäss sind die
+Gerichtskosten von pauschal Fr. 2'000.- daher dem Beschwerdeführer
+aufzuerlegen und mit dem von ihm bereits geleisteten Kostenvorschuss in gleicher
+Höhe zu verrechnen. Überdies ist er nach Art. 138 Abs. 2 VRG zu verpflichten,
+der Beschwerdegegnerin 1 eine Parteientschädigung von Fr. 2'500.-
+(inkl. Mehrwertsteuer) zu bezahlen. Da die Beantwortung von
+Rechtsmitteln zum angestammten Aufgabenbereich der Beschwerdegegnerin 2
+gehört und weil keine besonderen Umstände vorliegen, steht dieser keine
+Parteientschädigung zu (Art. 138 Abs. 4 VRG).
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Die
+Gerichtskosten von Fr. 2'000.- werden dem Beschwerdeführer auferlegt und
+mit dem von ihm bereits geleisteten Kostenvorschuss in gleicher Höhe
+verrechnet.
+3.
+Der
+Beschwerdeführer wird verpflichtet, der Beschwerdegegnerin 1 innert
+30 Tagen nach Rechtskraft dieses Entscheids eine Parteientschädigung
+von Fr. 2'500.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
