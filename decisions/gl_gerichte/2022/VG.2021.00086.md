@@ -1,0 +1,666 @@
+---
+decision_id: "gl_gerichte_VG.2021.00086"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2021.00086"
+docket_2: "VG.2022.1145"
+decided: "2022-04-28"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1579&W10_KEY=218274&nTrefferzeile=9&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-017.md", "switzerland/bund/acts/830.1/art-025.md", "switzerland/bund/acts/830.1/art-053.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/830.11/art-003.md", "switzerland/bund/acts/830.11/art-004.md", "switzerland/bund/acts/837.0/art-001.md", "switzerland/bund/acts/837.0/art-031.md", "switzerland/bund/acts/837.0/art-032.md", "switzerland/bund/acts/837.0/art-033.md", "switzerland/bund/acts/837.0/art-036.md", "switzerland/bund/acts/837.02/art-051.md", "switzerland/bund/acts/837.02/art-052.md"]
+---
+
+# GL Gerichte VG.2021.00086
+
+## Regeste
+
+Sozialversicherung - Arbeitslosenversicherung
+
+## Text
+
+Glarus Verwaltungsgericht 28.04.2022 VG.2021.00086 (VG.2022.1145)
+Glaris Verwaltungsgericht 28.04.2022 VG.2021.00086 (VG.2022.1145)
+Glarona Verwaltungsgericht 28.04.2022 VG.2021.00086 (VG.2022.1145)
+
+Sozialversicherung - Arbeitslosenversicherung
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+28. April 2022
+I. Kammer
+Besetzung:
+Gerichtspräsident MLaw Colin Braun, Verwaltungsrichter Michael Schlegel,
+Verwaltungsrichterin Katia Weibel und Gerichtsschreiberin MLaw Leonora Muji
+in Sachen
+VG.2021.00086
+A.______GmbH
+Beschwerdeführerin
+vertreten durch
+MLaw
+Yannik
+Müller,
+Rechtsanwalt,
+gegen
+Amt für Wirtschaft und Arbeit des Kantons
+Glarus
+Beschwerdegegner
+betreffend
+Kurzarbeitsentschädigung
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Die A.______GmbH ist ein in B.______
+domiziliertes Unternehmen, welches den Betrieb eines Hotels, eines
+Restaurants, einer Bar oder eines Pubs bezweckt. Am 7. Februar 2021
+reichte sie beim Amt für Wirtschaft und Arbeit des Kantons Glarus eine
+Voranmeldung von Kurzarbeit für die Zeit vom 1. März 2021 bis auf Weiteres
+ein. Von der Kurzarbeit seien sämtliche vier Arbeitnehmerinnen und
+Arbeitnehmer betroffen.
+1.2
+Gegen die Auszahlung von Kurzarbeitsentschädigung für die Zeit vom 1.
+März 2021 bis zum 31. Mai 2021 erhob das Amt für Wirtschaft und Arbeit am 8.
+Februar 2021 teilweise Einspruch. Dies mit der Begründung, dass Personen,
+welche in ihrer Eigenschaft als Gesellschafter die Entscheidungen der
+Arbeitgeberin bestimmen oder massgeblich beeinflussen könnten, keinen
+Anspruch auf Kurzarbeitsentschädigung hätten. In der Folge leistete es für
+die Abrechnungsperioden März bis Mai 2021 Kurzarbeitsentschädigungen in der
+Höhe von insgesamt Fr. 22'465.05.
+1.3
+Am 12. Mai 2021 reichte die
+A.______GmbH erneut eine Voranmeldung von Kurzarbeit ein. Mit Entscheid vom
+17. Mai 2021 bewilligte das Amt für Wirtschaft und Arbeit die Kurzarbeit für
+die Zeit vom 1. Juni 2021 bis zum 30. November 2021. Am 28. Juli 2021
+forderte es infolge gekündigter Arbeitsverhältnisse und Betriebsaufgabe die
+für die Monate April und Mai 2021 bereits ausbezahlten Beträge im Umfang von
+Fr. 14'038.15 zurück und wies den Anspruch für den Monat Juni 2021 ab.
+Die von der A.______GmbH dagegen erhobene Einsprache vom 27. August 2021
+wies es am 1. Oktober 2021 ab.
+2.
+2.1
+Am 25. Oktober 2021 gelangte die
+A.______GmbH mit Beschwerde ans Verwaltungsgericht und beantragte sinngemäss
+die Aufhebung des Einspracheentscheids vom 1. Oktober 2021. Das Amt für
+Wirtschaft und Arbeit schloss am 25. November 2021 auf Abweisung der
+Beschwerde; unter Kosten- und Entschädigungsfolgen zu Lasten der
+A.______GmbH.
+2.2
+Am 3. Januar 2022 reichte die
+A.______GmbH eine Replik ein, mit welcher sie die Zusprache einer
+Kurzarbeitsentschädigung von Fr. 8'261.- für den Monat Juni 2021 beantragte.
+Sodann sei von einer Rückforderung der entrichteten
+Kurzarbeitsentschädigungen für die Monate April und Mai 2021 abzusehen.
+Eventualiter sei der Einspracheentscheid vom 1. Oktober 2021 betreffend die
+Abweisung der Abrechnungsperiode Juni 2021 aufzuheben und an die Vorinstanz
+zurückzuweisen; unter Kosten- und Entschädigungsfolgen zu Lasten des Amts für
+Wirtschaft und Arbeit. Das Amt für Wirtschaft und Arbeit hielt am 3. Februar
+2022 an ihren Rechtsbegehren fest. Am 10. Februar 2022 reichte die
+A.______GmbH unaufgefordert eine Stellungnahme ein, womit sie ihre
+Rechtsbegehren erneuerte.
+II.
+1.
+Das
+Verwaltungsgericht ist gemäss Art. 1 Abs. 1 des Bundesgesetzes über die obligatorische
+Arbeitslosenversicherung und die Insolvenzentschädigung vom 25. Juni
+1982 (AVIG) i.V.m. Art. 56 und Art. 57 des Bundesgesetzes über den
+Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober 2000
+(ATSG) i.V.m. Art. 12 Abs. 2 des Einführungsgesetzes zum
+Bundesgesetz über die obligatorische Arbeitslosenversicherung und die
+Insolvenzentschädigung vom 6. Mai 1984 (EG AVIG) zur
+Behandlung der vorliegenden Beschwerde zuständig. Da auch die übrigen
+Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde einzutreten.
+2.
+2.1
+Die Beschwerdeführerin macht
+geltend, der Beschwerdegegner habe den Begriff des Betriebs unzutreffend
+ausgelegt. Soweit das AVIG von einer Betriebsschliessung spreche, sei nicht
+die Schliessung eines Lokals gemeint, sondern die Veränderung bei der
+juristischen Person durch Konkurseröffnung oder Nachlassliquidation.
+Vorliegend sei der Arbeitsausfall auf die Covid-19-Pandemie zurückzuführen.
+Aufgrund diverser Auflagen hätten Restaurationsbetriebe ab dem 19. April 2021
+die Aussenterrassen und ab dem 31. Mai 2021 die Innenräume öffnen können. Ihr
+Lokal in B.______ verfüge über keine Aussenterrasse und habe daher nicht
+öffnen dürfen. Dementsprechend sei die Schliessung für den Monat April 2021
+auf wirtschaftliche Gründe zurückzuführen, womit die Kurzarbeitsentschädigung
+zu Recht ausbezahlt worden sei. Ferner sei das Lokal in B.______ wegen der
+Nichtverlängerung des befristeten Mietvertrags und der Ausweisung zu Beginn
+des Monats Mai 2021 überraschend geschlossen worden. Dennoch habe sie alle
+zumutbaren Vorkehrungen zur Abwendung des Arbeitsausfalls getroffen. Sie habe
+daher ihre Arbeitnehmer in C.______ beschäftigt, weil im Arbeitsvertrag kein
+Arbeitsort vorgegeben sei. Der Arbeitsausfall im Monat Mai 2021 sei nicht
+vorherseh- und kalkulierbar gewesen, weshalb er anzurechnen sei. Überdies
+habe das Lokal in C.______ im Monat Juni 2021 wegen der Verordnungen des
+Bundes und der damit ausgebliebenen Kundschaft nicht betrieben werden können.
+Der Arbeitsausfall habe 95.8 % betragen, weshalb eine
+Kurzarbeitsentschädigung hätte zugesprochen werden müssen. Sodann
+beschränkten sich die Sachverhaltsabklärungen auf eine E-Mail, woraus der
+Beschwerdegegner ohne einen Gesellschafterbeschluss zur Auflösung, eine Konkurseröffnung
+oder dergleichen eine Betriebsschliessung ableite. Damit habe er den
+Sachverhalt nicht bzw. unrichtig festgestellt. Ferner sei ihr rechtliches
+Gehör verletzt worden, indem er ihre Vorbringen nicht gewürdigt und eine
+Abweichung davon nicht begründet habe. Weiter habe er die bisherigen
+Kurzarbeitsentscheide nicht aufgehoben, was für eine Rückforderung
+Voraussetzung sei. Die Rückforderung sei damit zu Unrecht erfolgt. Überdies
+bringe der Beschwerdegegner erstmals in der Duplik vor, dass keine Betriebsschliessung
+vorliege und die Rückforderung wegen des nicht wirtschaftlich bedingten
+Arbeitsausfalls erfolgt sei. Dieser Umstand sei bei der Kostenverlegung zu
+berücksichtigen.
+2.2
+Der Beschwerdegegner bringt vor,
+die Beschwerdeführerin habe mit Schreiben vom 23. Juli 2021 mitgeteilt, das
+Lokal in B.______ sei per 4. Mai 2021 geschlossen worden und der neue Betrieb
+in C.______ werde im September 2021 eröffnet. Daraufhin sei die
+Kurzarbeitsentschädigung für den Monat Juni 2021 abgewiesen worden, weil bei
+Kenntnis einer Betriebsschliessung ein Zahlungsstopp zu erfolgen habe. Sodann
+bestehe kein Anspruch auf Kurzarbeitsentschädigung in einem gekündigten
+Arbeitsverhältnis. Es sei davon auszugehen, dass den betroffenen
+Arbeitnehmern unter Berücksichtigung des geltenden Arbeitsrechts spätestens
+auf Ende April 2021 hätte gekündigt werden müssen. Unter Annahme einer
+einmonatigen Kündigungsfrist bestehe somit kein Anspruch auf eine
+Kurzarbeitsentschädigung für den Monat April 2021. Infolge der
+Betriebsschliessung bestehe darüber hinaus ebenfalls kein Anspruch auf eine
+Kurzarbeitsentschädigung für den Monat Mai 2021. Die Anspruchsvoraussetzungen
+seien damit nicht mehr erfüllt, weshalb die Rückforderung der zu viel
+bezahlten Kurzarbeitsentschädigungen rechtmässig sei. Sodann sei
+festzuhalten, dass das summarische Abrechnungsverfahren im Frühjahr 2020
+eingeführt worden sei, wodurch die Betriebe weniger Informationen hätten
+abgeben müssen. Mit der kurzen Begründung der Beschwerdeführerin habe der
+Sacherhalt korrekt festgestellt und über die Abrechnungsperiode Mai 2021 bis
+Juni 2021 verfügt werden können. Ferner sei zu bezweifeln, dass die
+Ausweisung aus dem Lokal in B.______ vollkommend überraschend gewesen sei,
+zumal die Kündigung mindestens drei bzw. sechs Monate im Voraus schriftlich
+einzugehen habe. Der Arbeitsausfall sei damit vorherseh- und kalkulierbar
+gewesen. Schliesslich sei ein Aufbau eines neuen Lokals kein wirtschaftlich
+bedingter Arbeitsausfall, weshalb dieser nicht anrechenbar sei.
+3.
+3.1
+Arbeitnehmerinnen und Arbeitnehmer,
+deren normale Arbeitszeit verkürzt oder deren Arbeit ganz eingestellt ist,
+haben Anspruch auf Kurzarbeitsentschädigung, wenn der Arbeitsausfall
+anrechenbar, voraussichtlich vorübergehend ist und erwartet werden darf, dass
+durch Kurzarbeit die Arbeitsplätze erhalten werden können (Art. 31
+Abs. 1 lit. b und d AVIG). Diesbezüglich ist von der Vermutung
+auszugehen, dass die in Art. 31 Abs. 1 AVIG genannten
+Voraussetzungen erfüllt sind, sofern nicht konkrete Anhaltspunkte zum
+gegenteiligen Schluss führen (vgl. BGE 111 V 379 E. 2b;
+Barbara Kupfer Bucher, in Hans-Ulrich
+Stauffer/Basile Cardinaux [Hrsg.], Rechtsprechung des Bundesgerichts zum
+Sozialversicherungsrecht, AVIG, 5. A., Zürich/Basel/Genf 2019,
+S. 257).
+3.2
+Mit der Kurzarbeit zu entschädigen
+sind die wirtschaftlich bedingten Ausfallstunden, welche mindestens 10 %
+der von den Arbeitnehmerinnen und Arbeitnehmern normalerweise insgesamt
+geleisteten Arbeitsstunden ausmachen (vgl. Art. 32 Abs. 1 AVIG)
+bzw. die Arbeitsausfälle, die auf behördliche Massnahmen oder auf andere von
+der Arbeitgeberin nicht zu vertretende Umstände zurückzuführen sind (vgl.
+Art. 32 Abs. 3 AVIG i.V.m. Art. 51 Abs. 1 der Verordnung über die
+obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung vom
+31. August 1983 [AVIV]).
+3.3
+Ein Arbeitsausfall ist
+insbesondere dann nicht anrechenbar, wenn er durch betriebsorganisatorische
+Massnahmen wie Reinigungs
+‑
+, Reparatur- oder Unterhaltsarbeiten sowie andere
+übliche und wiederkehrende Betriebsunterbrechungen oder durch Umstände
+verursacht wird, die zum normalen Betriebsrisiko des Arbeitgebers gehören
+(Art. 33 Abs. 1 lit. a AVIG).
+3.4
+Nach Art. 32 Abs. 4 AVIG bestimmt
+der Bundesrat, unter welchen Voraussetzungen eine Betriebsabteilung einem
+Betrieb gleichgestellt ist. Gemäss Art. 52 Abs. 1 AVIV ist eine
+Betriebsabteilung einem Betrieb gleichgestellt, wenn sie eine mit eigenen
+personellen und technischen Mitteln ausgestattete organisatorische Einheit
+bildet, die einer eigenen innerbetrieblichen Leitung untersteht oder
+Leistungen erbringt, die auch von selbständigen Betrieben erbracht und auf
+dem Markt angeboten werden könnten.
+4.
+4.1
+Nach Art. 25 Abs. 1 ATSG und Art.
+2 Abs. 1 lit. a der Verordnung über den Allgemeinen Teil des
+Sozialversicherungsrechts vom 11. September 2002 (ATSV) sind Bezüger von
+unrechtmässig gewährten Leistungen rückerstattungspflichtig. Über den Umfang
+dieser Rückforderung wird eine Verfügung erlassen (Art. 3 Abs. 1 ATSV). Die
+Rückerstattung unrechtmässig gewährter Leistungen wird bei Vorliegen einer
+grossen Härte jedoch ganz oder teilweise erlassen, sofern der Bezüger diese
+in gutem Glauben empfangen hat (Art. 4 Abs. 1 ATSV).
+Die Festlegung
+einer (allfälligen) Rückerstattung erfolgt in einem mehrstufigen Verfahren.
+In einem ersten Schritt ist über die Frage der Unrechtsmässigkeit des Bezugs
+der Leistung zu befinden, wobei auf Art. 53 ATSG bzw. Art. 17 ATSG
+abzustellen ist. Daran schliesst sich der Entscheid über die Rückerstattung
+an, mit dem insbesondere zu beantworten ist, ob im Falle der festgestellten
+Unrechtmässigkeit des Leitungsbezugs eine rückwirkende Korrektur erfolgt oder
+nicht. Schliesslich ist gegebenenfalls über den Erlass der
+zurückzuerstattenden Leistung zu entscheiden (
+Ueli Kieser, ATSG-Kommentar, 4. A., Zürich/Basel/Genf
+2020,
+Art. 25 N. 17 ff.).
+4.2
+Art. 25 Abs. 1 ATSG knüpft die Rückerstattungspflicht an
+einen unrechtmässigen Bezug der Leistung an. Die Unrechtmässigkeit einer
+bereits bezogenen Leistung ergibt sich aufgrund einer Wiedererwägung (Art. 53
+Abs. 2 ATSG), aufgrund einer prozessualen Revision (Art. 53 Abs. 1 ATSG) oder
+aber aufgrund einer Anpassung der leistungszusprechenden Verfügung (Art. 17
+Abs. 2 ATSG; vgl.
+VGer-Urteil
+VG.2019.00022 vom 13. Juni 2019 E. II/2.3
+).
+Formell
+rechtskräftige Verfügungen müssen in Revision gezogen werden, wenn die
+versicherte Person oder der Versicherungsträger nach deren Erlass erhebliche
+neue Tatsachen entdeckt oder Beweismittel auffindet, deren Beibringung zuvor
+nicht möglich war (Art. 53 Abs. 1 ATSG). Der Versicherungsträger kann auf
+formell rechtskräftige Verfügungen zurückkommen, wenn diese zweifellos
+unrichtig sind und wenn ihre Berichtigung von erheblicher Bedeutung ist (Art.
+53 Abs. 2 ATSG). Damit betreffen die in Art. 53 ATSG geregelte Revision
+und Wiedererwägung Fälle, in welchen der ursprünglich getroffene Entscheid
+anfänglich unrichtig war. Im Gegensatz dazu bezieht sich die in Art. 17 ATSG
+geregelte Anpassung auf eine nachträgliche Änderung des massgeblichen
+Sachverhalts (
+Kieser,
+Art. 17 N. 4 f., Art. 53
+N. 11). Entsprechend ordnet Art. 17 Abs. 2 ATSG eine Erhöhung,
+Herabsetzung oder Aufhebung einer formell rechtskräftigen Dauerleistung an,
+wenn sich der ihr zugrunde liegende Sachverhalt nachträglich erheblich
+verändert.
+5.
+5.1
+Soweit die Beschwerdeführerin eine Verletzung des
+Anspruchs auf rechtliches Gehör beanstandet, indem der Beschwerdegegner auf
+ihre Vorbringen nicht eingegangen sei und ein Abweichen davon nicht begründet
+habe, ist ihr nicht zu folgen. Zwar verpflichtet der Gehörsanspruch die
+Behörden, die Vorbringen tatsächlich zu hören, ernsthaft zu prüfen und in
+ihrer Entscheidfindung angemessen zu berücksichtigen. Dagegen wird nicht
+verlangt, dass sich die Begründung mit allen Parteistandpunkten einlässlich
+auseinandersetzt und jedes einzelne Vorbringen ausdrücklich widerlegt
+(BGer-Urteil 8C_555/2021 vom 24. November 2021 E. 5.2.2, mit Hinweisen;
+Kaspar
+Plüss, in Alain Griffel [Hrsg.], Kommentar zum Verwaltungsrechtspflegegesetz
+des Kantons Zürich, 3. A., Zürich/Basel/Genf 2014,
+§ 10 N. 24 ff.)
+. Der
+angefochtene Einspracheentscheid enthält sodann die
+relevanten Gesichtspunkte, womit
+die Beschwerdeführerin ohne Weiteres
+in der Lage war, sich
+über dessen Tragweite
+ein Bild zu machen und diesen sachgerecht anzufechten.
+Dies zeigt sich
+insbesondere darin, dass sie ausführliche Eingaben einreichen und auf die
+zentralen Elemente eingehen konnte.
+5.2
+In Bezug auf die Rüge der
+Beschwerdeführerin, wonach der Beschwerdegegner die
+Rückforderungsverfügung vom 28. Juli 2021 trotz der diesbezüglichen
+Einsprache lediglich in den Erwägungen (E. 7) und nicht im Dispositiv
+des angefochtenen Entscheids erwähnt habe, ist
+sodann darauf
+hinzuweisen, dass g
+rundsätzlich nur das
+Dispositiv in Rechtskraft erwächst. Daher muss es das Ergebnis der Erwägungen
+im Rahmen der Parteivorbringen, des Streitgegenstands und der
+Entscheidkompetenz des Beschwerdegegners korrekt und vollständig enthalten
+(vgl. Marco Donatsch
+, in Alain Griffel [Hrsg.], Kommentar zum
+Verwaltungsrechtspflegegesetz des Kantons Zürich, 3. A.,
+Zürich/Basel/Genf 2014,
+§ 65 N. 15)
+.
+Immerhin
+können Erwägungen an der Rechtskraft
+teilhaben, wenn das Dispositiv ausdrücklich auf sie verweist. Bei fehlendem
+Hinweis im Dispositiv haben die Erwägungen an der Rechtskraftwirkung insoweit
+teil, als dies für das Verständnis des Dispositivs erforderlich ist (vgl.
+Alain Griffel
+, in Alain Griffel [Hrsg.], Kommentar zum
+Verwaltungsrechtspflegegesetz des Kantons Zürich, 3. A., Zürich/Basel/Genf
+2014,
+§ 28 N. 7)
+.
+Obschon sich die Rückforderung in der Höhe von
+Fr. 14'038.15 bloss aus den Erwägungen (E. 7) des streitbetroffenen
+Entscheids ergibt, wird die Einsprache in Disp.-Ziff. 1 des
+Einspracheentscheids insgesamt abgewiesen. Damit bezweckte der
+Beschwerdegegner offensichtlich, dass er an der Rückforderungsverfügung vom
+28. Juli 2021 festhalten will. Vor diesem Hintergrund entfaltet
+E. 7 des angefochtenen Entscheids trotz fehlendem Hinweis im Dispositiv
+Rechtskraftwirkung, da deren Beizug für das bessere Verständnis des
+Dispositivs erforderlich ist. Eine Gehörsverletzung liegt somit insgesamt
+nicht vor.
+6.
+Vorliegend bleibt zu Recht
+unbestritten, dass die Verfügungen vom 28. Juli 2021 in formelle Rechtskraft
+erwachsen sind, weshalb ein allfälliges Zurückkommen auf diese im Rahmen
+einer Revision oder einer Wiedererwägung eine anfängliche Unrichtigkeit der
+Verfügungen voraussetzt (vgl. dazu vorstehende E. II/4.2). Vorliegend
+ist darauf hinzuweisen, dass sowohl eine Revision gestützt auf Art. 53
+Abs. 1 ATSG als auch eine Wiedererwägung gestützt auf Art. 53 Abs. 2
+ATSG offensichtlich ausser Betracht fallen, da kein Fall vorliegt, bei
+welchem der ursprünglich getroffene Entscheid anfänglich unrichtig war. So
+ist nämlich weder ersichtlich, dass sich der Beschwerdegegner auf neue
+Tatsachen oder Beweismittel beruft, deren Beibringung vor Erlass der
+Verfügungen nicht möglich gewesen wäre (Art. 53 Abs. 1 ATSG), noch ist
+erkennbar, dass die Zusprache von Kurzarbeitsentschädigungen zweifellos unrichtig
+war und deren Berichtigung von erheblicher Bedeutung ist (Art. 53 Abs. 2
+ATSG). Vielmehr liegt mit Blick auf die Schliessung des Lokals in
+B.______
+zu Beginn des Monats Mai 2021 eine allfällige
+nachträgliche Unrichtigkeit vor, womit einzig eine Revision im Sinne von
+Art. 17 Abs. 2 ATSG in Betracht fällt und dementsprechend
+nachfolgend einzig zu prüfen ist, ob sich der den streitbetroffenen
+Verfügungen zugrunde liegende Sachverhalt nachträglich in relevanter Weise
+geändert hat. Die Anpassung einer zugesprochenen Leistung muss dabei immer
+dann möglich sein, wenn sich der leistungsbegründende Sachverhalt während der
+laufenden Leistung verändert. Eine Dauerleistung im Sinne von Art. 17
+Abs. 2 ATSG stellt dabei eine Leistung dar, die für die Zukunft
+und damit notwendigerweise unter
+Annahme einer bestimmten künftigen Entwicklung des zugrundeliegenden
+Sachverhalts verfügt wird. Die "Dauer" in absoluter Hinsicht bzw.
+der Zeitraum, für den die Ausrichtung einer Leistung verfügt wird, ist für
+die Qualifikation als Dauerleistung irrelevant (vgl. Entscheid des
+Versicherungsgerichts des Kantons St. Gallen AVI 2020/64 vom 20. Oktober
+2021 E. 1.3, AVI 2009/54 vom 16. März 2010 E. 4.1, jeweils mit
+Hinweisen).
+7.
+7.1
+Der Sinn und Zweck der
+Kurzarbeitsentschädigung besteht nicht in der Existenzsicherung des Betriebs
+bzw. der Deckung von Umsatz- oder Betriebseinbussen, sondern im Erhalt von
+Arbeitsplätzen. Es soll verhindert werden, dass aufgrund des Arbeitsausfalls
+kurzfristig Kündigungen ausgesprochen werden müssen (vgl. Botschaft des
+Bundesrats zum Bundesgesetz über die gesetzlichen Grundlagen für Verordnungen
+des Bundesrats zur Bewältigung der Covid-19-Epidemie [Covid-19-Gesetz] vom
+12. August 2020, BBI 2020 6563 ff., 6585). Nach den laufend
+aktualisierten Weisungen des
+Staatssekretariats
+für Wirtschaft (SECO)
+"Sonderregelungen
+aufgrund der Pandemie" kann eine Pandemie aufgrund des jähen Auftretens,
+des Ausmasses und der Schwere nicht als normales, vom Arbeitgeber zu
+tragendes Betriebsrisiko im Sinne von Art. 33 Abs. 1 lit. a AVIG
+betrachtet werden. Demnach sind Arbeitsausfälle aufgrund rückläufiger
+Nachfragen nach Gütern und Dienstleistungen gestützt auf Art. 32
+Abs. 1 lit. a AVIG anrechenbar, wenn sie auf die Pandemie
+zurückzuführen sind. Sodann sind durch die Behörden ergriffenen Massnahmen im
+Zusammenhang mit der Pandemie als aussergewöhnliche Umstände zu betrachten.
+Die Arbeitsausfälle aufgrund solcher Massnahmen fallen unter die
+Sonderregelung nach Art. 32 Abs. 3 AVIG und Art. 51 AVIV
+(vgl. BGer-Urteil 8C_555/2021 vom 24. November 2021 E. 3.3.1,
+mit Hinweisen).
+7.2
+Der Bundesrat beschloss die
+Terrassen ab dem 19. April 2021 (Medienmitteilung des Bundesrats vom 14.
+April 2021) und die Innenräume der Restaurants ab dem 31. Mai 2021
+(Medienmitteilung des Bundesrats vom 26. Mai 2021) wieder zu öffnen. Die
+Beschwerdeführerin macht diesbezüglich geltend, ihr Lokal in B.______ verfüge
+über keine Aussenterrasse. Folglich konnte sie ihren Restaurationsbetrieb im
+Monat April 2021 aufgrund der behördlich angeordneten Betriebsschliessung
+nicht öffnen. Der Arbeitsausfall war damit auf wirtschaftliche Gründe
+zurückzuführen und unvermeidbar (vgl. Art. 32 Abs. 1 lit. a AVIG). Sodann
+standen die beiden Arbeitnehmer im Monat April 2021 in einem ungekündigten
+Arbeitsverhältnis. Dieses wurde im gegenseitigen Einvernehmen und unter
+Einhaltung der einmonatigen Kündigungsfrist per Ende September 2021
+aufgelöst. Soweit der Beschwerdegegner aufgrund der Betriebsaufgabe ab Mai
+2021 davon ausgeht, den betroffenen Arbeitnehmern hätte per Ende April 2021
+gekündigt werden sollen, ist ihm nicht zu folgen. Vorliegend fand keine
+Betriebsschliessung statt (vgl. nachfolgende E. II/8), weshalb die
+Rückforderung in der Höhe von Fr. 6'799.20 für den Monat April zu
+Unrecht erfolgte.
+8.
+8.1
+Für den Monat Mai 2021 liegt die
+Rückforderung der Kurzarbeitsentschädigung in einer Betriebsaufgabe
+begründet, weshalb nachfolgend zu prüfen ist, ob von der Beschwerdeführerin
+eine Betriebsschliessung beabsichtigt war und damit keine Aussicht bestand,
+durch Kurzarbeit Arbeitsplätze zu erhalten. Dies würde einen Anspruch gemäss
+Art. 31 Abs. 1 lit. d AVIG ausschliessen.
+8.2
+Die Anwendbarkeit der Weisungen
+des SECO wird von keiner Seite bestritten, weshalb sie für die Auslegung des
+Begriffs der Betriebsschliessung ohne Weiteres herangezogen werden können.
+Bestehen konkrete Anhaltspunkte,
+dass die Arbeitgeberin die Kurzarbeit als Vorstufe einer geplanten
+Betriebsschliessung (Konkurseröffnung, Nachlassliquidation) einführt, ist die
+Anspruchsvoraussetzung des vorübergehenden Arbeitsausfalls und der
+Arbeitsplatzerhaltung nicht (mehr) erfüllt. Diesfalls sind trotz der
+bewilligten Kurzarbeit die Zahlungen einzustellen, wobei eindeutige Hinweise
+wie Protokolle von Verwaltungsratssitzungen oder Beschlüsse der Geschäftsleitung
+vorliegen müssen, aus welchen ersichtlich ist, dass eine Beendigung der
+Geschäftstätigkeit vorgesehen ist. Ist jedoch weder eine Betriebsschliessung
+vorgesehen noch bereits erfolgt, ist der Arbeitsausfall weiterhin als
+vorübergehend zu erachten und der Zahlungsstopp aufzuheben
+(vgl. AVIG-Praxis, KAE, Januar 2014, Rz. B23).
+8.3
+Am 23. Juli 2021 führte die
+Beschwerdeführerin aus, das Lokal in B.______ sei seit etwa Mitte oder Ende
+Mai 2021 nicht mehr in Betrieb. Derzeit seien die Vorbereitungen für den
+neuen Betrieb im Gange und das Personal werde übernommen. Wenn es mit der
+Kurzarbeit nicht funktioniere, müsse sie den Arbeitnehmern kündigen. Dies sei
+zu verhindern, da sie die Arbeitnehmer am neuen Ort benötige. Damit erklärte
+die Beschwerdeführerin, ihre Geschäftstätigkeit in B.______ eingestellt zu
+haben, womit
+konkrete Anhaltspunkte für
+eine Betriebsschliessung vorlagen.
+Dem Beschwerdegegner oblag es nun, eine allfällige
+Betriebsschliessung abzuklären (vgl.
+hierzu
+die Weisung Nr. 13 des SECO vom 30. Juni 2021 Ziff. 2.26). Gemäss
+den Ausführungen des Beschwerdegegners habe der Sachverhalt mit der kurzen,
+aber sachlich vollständigen Nachricht der Beschwerdeführerin richtig
+festgestellt werden können. Dies auch vor dem Hintergrund, dass die Betriebe
+im summarischen Abrechnungsverfahren weniger Informationen hätten abgeben
+müssen. Damit gibt der Beschwerdegegner zu erkennen, dass er keine weiteren
+Abklärungen vorgenommen hat, obschon solche vorliegend angezeigt gewesen
+wären. Zwar bezweckt das summarische Verfahren eine rasche und
+unbürokratische Auszahlung von Kurzarbeitsentschädigungen (vgl.
+BGer-Urteil 8C_272/2021 vom
+17. November 2021 E. 5.2.2, mit Hinweisen;
+8C_463/2021 vom 9. November 2021 E. 3.4),
+womit der Beschwerdegegner denn auch nicht gehalten war, in jedem einzelnen
+Fall zu prüfen, ab welchem Zeitpunkt aufgrund der behördlichen Massnahmen ein
+rentabler Betrieb nicht mehr möglich und infolgedessen von einer
+Betriebsschliessung auszugehen ist (vgl. BGer-Urteil 8C_463/2021 vom
+9. November 2021 E. 6.5). Vorliegend bestanden jedoch konkrete
+Hinweise für eine Betriebsschliessung, weshalb der
+Beschwerdegegner die nötigen
+Unterlagen für die Prüfung der
+Anspruchsvoraussetzungen hätte einverlangen können (vgl. Art. 36
+Abs. 3 AVIG). Aus den im Recht liegenden Akten ergibt sich aber
+weder ein Beschluss der Geschäftsleitung, aus welchem die Beendigung der
+Geschäftstätigkeit ersichtlich ist, noch weisen diese auf eine
+Konkurseröffnung oder Nachlassliquidation hin (vgl.
+AVIG-Praxis, KAE, Januar
+2014, Rz. B23), wovon im Übrigen auch der Beschwerdegegner ausging.
+Letzterer
+kam damit seiner
+Abklärungspflicht nur ungenügend nach, zumal
+es der Beschwerdeführerin aufgrund des Eintrags im
+Handelsregister des Kantons Glarus weiterhin möglich bleibt, ihren Betrieb
+trotz der Ausweisung an einem anderen Ort zu eröffnen oder andere
+Geschäftsentscheidungen zu treffen. Eine Betriebsschliessung liegt somit
+insgesamt nicht vor.
+8.4
+Gemäss der Beschwerdeführerin
+liegt der Grund für die Schliessung des Lokals in der Nichtverlängerung des
+Mietvertrags und der anschliessenden Ausweisung aus den
+Geschäftsräumlichkeiten. Dies stellt jedoch kein wirtschaftlicher Grund im
+Sinne von Art. 32 Abs. 1 lit. a AVIG dar. Vielmehr gehört eine mit Räumungs-
+und Umzugsarbeiten verbundene Betriebsaufgabe zum normalen Betriebsrisiko
+(Entscheid des Kantonsgerichts des Kantons Basel-Landschaft 715 21 32 / 234
+vom 2. September 2021 E. 5.2). Folglich fiel die Nichtverlängerung
+des befristeten Mietvertrags und der dadurch entstandene Arbeitsausfall in
+die Risikosphäre der Beschwerdeführerin. Sodann war entgegen ihren
+Ausführungen das Ende der vereinbarten Mietdauer vorhersehbar. So sah der
+Mietvertrag vom 22. Februar 2018 eine befristete Mietdauer vom
+1. März 2018 bis zum 31. März 2020 vor, welche bis zum 31. März
+2021 verlängert wurde. Aus der einmaligen Verlängerung des Mietvertrags
+konnte die Beschwerdeführerin jedoch nicht unbesehen auf eine weitere
+Verlängerung des Mietverhältnisses schliessen. So lässt sich entgegen ihrer
+Ansicht aus dem Umstand, dass sie die Geschäftsräumlichkeiten bis im Monat
+Mai 2021 benutzen konnte, kein konkludenter Wille des Vermieters zu einer
+Mietverlängerung ableiten, zumal das beim Kantonsgericht des Kantons Glarus
+gestellte Ausweisungsbegehren dem entgegensteht. Der geltend gemachte
+Arbeitsausfall für die Abrechnungsperiode Mai 2021 ist damit nicht auf die
+Pandemie, sondern einzig auf die Nichtverlängerung des Mietvertrags
+zurückzuführen, womit die Schliessung des Betriebs in B.______ objektiv
+vermeidbar war. Aus dem Dargelegten folgt, dass sich der
+den streitbetroffenen Verfügungen zugrunde liegende
+Sachverhalt nachträglich geändert hat, weshalb die Voraussetzungen einer
+Revision im Sinne von Art. 17 Abs. 2 ATSG erfüllt sind.
+8.5
+8.5.1
+Die Beschwerdeführerin führt weiter
+aus, sie habe ihre Arbeitnehmer für die Monate Mai bis Juni 2021 im Lokal
+D.______ in C.______ eingesetzt und alle zumutbaren Vorkehrungen zur
+Abwendung des Arbeitsausfalls getroffen. Da Kurzarbeit für den gesamten
+Betrieb bzw. für einzelne Betriebsabteilungen eingeführt werden kann und die
+Beschwerdeführerin für den Monat Mai 2021 keinen Anspruch auf
+Kurzarbeitsentschädigung für das Lokal in B.______ hat (vgl. vorstehende
+E. II/8.4), ist nachfolgend zu prüfen, ob sie einen solchen für das
+Lokal in C.______ geltend machen kann.
+8.5.2
+Die Beschwerdeführerin hat gemäss
+eigenen Angaben das Lokal in C.______ übernommen, wobei diesbezüglich kein
+Gesellschaftsbeschluss bei den Akten liegt. Ferner fehlen weiterführende
+Belege (Kauf- bzw. Mietvertrag des Lokals, Lieferantenrechnungen, Fahrspesen
+oder das Gesuch für die Erteilung der Betriebsbewilligung), welche auf eine
+Geschäftstätigkeit in C.______ schliessen lassen würden. Die
+Betriebsbewilligung wurde ihr bis im Monat August 2021 zumindest noch nicht
+erteilt. Zwar ist der Mitteilung vom 23. Juli 2021 sowie der Einsprache vom
+27. August 2021 zu entnehmen, dass sie die beiden Arbeitnehmer im neuen
+Betrieb einsetzen möchte. Aufgrund der Akten lässt sich auch erkennen, dass
+diese in den Monaten Mai bis Juni 2021 in einem ungekündigten
+Arbeitsverhältnis mit der Beschwerdeführerin standen und in diesem Zeitraum
+ihre Arbeitszeit dokumentierten. Diesbezüglich weist die Beschwerdeführerin
+zu Recht darauf hin, dass sie ihre Arbeitnehmer gemäss Ziff. 1 des
+Arbeitsvertrags vorübergehend an einen anderen Arbeitsort versetzen könne,
+womit es möglich erscheint, dass die Arbeitnehmer in C.______ gearbeitet
+haben. Dies erhellt jedoch nicht, dass das Lokal in C.______ eine
+Betriebsabteilung der Beschwerdeführerin darstellt. Daran ändert im Übrigen
+nichts, dass die Beschwerdeführerin jeweils für den gesamten Betrieb
+Kurzarbeit beantragte, zumal Betriebe ohne Betriebsabteilungen ohnehin nur
+für den gesamten Betrieb Kurzarbeit anmelden können. Ferner kann sie aus
+ihrem Eintrag im Handelsregister des Kantons Glarus nichts zu ihren Gunsten
+ableiten.
+8.5.3
+Mit der Voranmeldung von
+Kurzarbeit vom 7. Februar 2021 legte die Beschwerdeführerin ein Organigramm
+ihres Gesamtbetriebs vor (vgl. Art. 52 Abs. 2 AVIV).
+Darin sind
+keine Betriebsabteilungen ersichtlich und es lässt sich dementsprechend nicht
+daraus entnehmen,
+in welchen
+Abteilungen die jeweiligen Arbeitnehmer angestellt sind. Weiter ist an dieser
+Stelle darauf hinzuweisen, dass ohnehin
+keine
+Betriebsabteilung vorliegt, wenn die Gruppe nur wenige Arbeitnehmerinnen und
+Arbeitnehmer oder gar nur eine einzelne Person umfasst (BGE 147 V 225 E. 5.2;
+AVIG-Praxis, KAE,
+Januar 2014, Rz. C34).
+Vorliegend
+stellte die Beschwerdeführerin im besagten Zeitraum den Antrag auf
+Kurzarbeitsentschädigung für den gesamten Betrieb. Von der Kurzarbeit seien
+zwei Arbeitnehmer betroffen. Einen Anspruch auf Kurzarbeitsentschädigung
+haben die Arbeitnehmer allerdings nur, wenn auch die betriebsbezogenen
+Voraussetzungen erfüllt sind und das Lokal in C.______ als Betriebsabteilung
+anerkannt ist. Dies ist mit lediglich zwei beschäftigten Arbeitnehmern nicht
+der Fall (vgl. hierzu das Urteil des Sozialversicherungsgerichts des Kantons
+Zürich AL.2021.00157 vom 28. September 2021 E. 3.3). Es besteht
+deshalb von vornherein kein Anspruch auf Kurzarbeitsentschädigung für diese
+beiden Arbeitnehmer, weshalb sich allfällige
+weitere
+Abklärungen in Bezug auf die relevanten Umstände der Betriebsübernahme in
+C.______
+erübrigen (vgl. vorstehende E. II/8.5.2), da
+diese an diesem Ergebnis nichts zu ändern vermögen
+. Der Beschwerdegegner hat für den
+Monat Mai 2021 die zu viel ausbezahlten Kurzarbeitsentschädigungen somit zu
+Recht zurückgefordert und den Anspruch auf Kurzarbeitsentschädigung für den
+Monat Juni 2021 richtigerweise abgewiesen
+.
+9.
+Die Beschwerdeführerin
+legt zutreffend dar, dass bei einer Betriebsschliessung der bisherige
+Entscheid des Beschwerdegegners auf den Zeitpunkt aufzuheben ist, in dem die
+Betriebsschliessung beschlossen wurde und eine Rückforderung nur für die Zeit
+ab der Aufhebung des Entscheids vorgenommen werden kann (
+Weisung Nr. 13 des SECO vom 30. Juni 2021
+Ziff. 2.26). Ferner ist mit ihr einig zu gehen, dass vorliegend keine
+Betriebsschliessung vorliegt, weshalb die obigen Ausführungen für die zu
+Unrecht ausbezahlte Kurzarbeitsentschädigung nicht relevant sind. Vielmehr
+haben sich die tatsächlichen Verhältnisse seit der
+Verfügung vom
+8. Februar 2021
+nachträglich erheblich verändert, weshalb sich die Rückforderung der zu viel
+ausbezahlten Kurzarbeitsentschädigung für den Monat Mai 2021 als richtig
+erweist.
+Der Vollständigkeit halber bleibt darauf hinzuweisen,
+dass das Verwaltungsgericht das Recht von Amtes wegen anwendet (Art. 9 Abs. 1
+des Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986 [VRG]) und
+folglich weder an die in der Beschwerde vorgebrachten Argumente noch an die
+Erwägungen der Vorinstanz gebunden ist (vgl. BGE 141 V 234
+E. 1, mit Hinweisen; BGer-Urteil 8C_584/2020 vom 17. Dezember 2020
+E. 1).
+10.
+Zusammenfassend
+konnte die Beschwerdeführerin ihren
+Betrieb im Monat April 2021 aufgrund behördlich angeordneter Massnahmen nicht
+öffnen. Der Arbeitsausfall war damit auf wirtschaftliche Gründe
+zurückzuführen, weshalb die Rückforderung im Monat April 2021 zu Unrecht
+erfolgte.
+Ferner bestanden keine
+konkreten Anhaltspunkte, dass die
+Beschwerdeführerin die Kurzarbeit als Vorstufe einer geplanten
+Betriebsschliessung (Konkurseröffnung, Nachlassliquidation) einführte. Eine
+Betriebsschliessung des Lokals in B.______ lag nicht vor.
+Demgegenüber stellte die Nichtverlängerung des
+befristeten Mietvertrags und folglich die Ausweisung aus den
+Geschäftsräumlichkeiten ein übliches Betriebsrisiko dar, weshalb die
+Arbeitnehmer für die Abrechnungsperiode Mai 2021 keinen Anspruch auf
+Kurzarbeitsentschädigung haben. Darüber hinaus erfüllt das Lokal in
+C.______
+mit nur zwei Arbeitnehmern die Voraussetzungen einer
+Betriebsabteilung nicht.
+Damit
+erfolgte die Rückforderung der Kurzarbeitsentschädigung für die
+Abrechnungsperiode Mai 2021 sowie die Abweisung des Anspruchs auf
+Kurzarbeitsentschädigung für die Abrechnungsperiode Juni 2021 zu Recht.
+Dies führt zur teilweisen Gutheissung der Beschwerde. Der
+Einspracheentscheid des Beschwerdegegners vom 1. Oktober 2021 sowie dessen
+Verfügung vom 28. Juli 2021 sind dahingehend abzuändern, als dass die
+verfügte Rückforderung auf Fr. 7'238.95 zu reduzieren ist.
+III.
+1.
+Die
+Gerichtskosten sind von Gesetzes wegen auf die Staatskasse zu nehmen
+(Art. 1 Abs. 1 AVIG i.V.m. Art. 61 lit. fbis e contrario
+ATSG).
+2.
+Gemäss Art. 1 Abs. 1 AVIG
+i.V.m. Art. 61 lit. g ATSG steht der teilweise obsiegenden Beschwerdeführerin
+zu Lasten des Beschwerdegegners eine reduzierte Parteientschädigung von Fr.
+1'000.- (inkl. Mehrwertsteuer) zu.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird teilweise gutgeheissen. Der Entscheid des Beschwerdegegners
+vom 1. Oktober 2021
+sowie dessen Verfügung vom 28. Juli 2021
+werden dahingehend abgeändert, als dass die
+verfügte
+Rückforderung auf Fr. 7'238.95 reduziert wird.
+2.
+Die
+Gerichtskosten werden auf die Staatskasse genommen.
+3.
+Der
+Beschwerdegegner wird verpflichtet, der Beschwerdeführerin innert 30 Tagen
+nach Rechtskraft dieses Entscheids eine Parteientschädigung in der Höhe von
+Fr. 1'000.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche Eröffnung und Mitteilung an:
+[…]
