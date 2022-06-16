@@ -1,0 +1,655 @@
+---
+decision_id: "gl_gerichte_VG.2020.00057"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2020.00057"
+docket_2: "VG.2022.1157"
+decided: "2022-06-16"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1591&W10_KEY=218274&nTrefferzeile=4&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/220/art-102.md", "switzerland/bund/acts/220/art-104.md", "switzerland/bund/acts/220/art-105.md", "switzerland/bund/acts/831.20/art-008.md", "switzerland/bund/acts/831.20/art-008a.md", "switzerland/bund/acts/831.20/art-028.md", "switzerland/bund/acts/831.201/art-029bis.md", "switzerland/bund/acts/831.40/art-001.md", "switzerland/bund/acts/831.40/art-010.md", "switzerland/bund/acts/831.40/art-023.md", "switzerland/bund/acts/831.40/art-026a.md", "switzerland/bund/acts/831.40/art-034b.md", "switzerland/bund/acts/831.40/art-073.md", "switzerland/bund/acts/831.425/art-007.md", "switzerland/bund/acts/831.441.1/art-001j.md"]
+---
+
+# GL Gerichte VG.2020.00057
+
+## Regeste
+
+Sozialversicherung - Berufliche Vorsorge (Klage)
+
+## Text
+
+Glarus Verwaltungsgericht 16.06.2022 VG.2020.00057 (VG.2022.1157)
+Glaris Verwaltungsgericht 16.06.2022 VG.2020.00057 (VG.2022.1157)
+Glarona Verwaltungsgericht 16.06.2022 VG.2020.00057 (VG.2022.1157)
+
+Sozialversicherung - Berufliche Vorsorge (Klage)
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+16. Juni 2022
+II. Kammer
+Besetzung:
+Gerichtspräsident MLaw Colin Braun, Verwaltungsrichterin Sally Leuzinger,
+Verwaltungsrichter Samuel Bisig und Gerichtsschreiberin MLaw Sibylle Lehner
+in Sachen
+VG.2020.00057
+A.______
+Klägerin
+vertreten durch Prof. Dr. Hardy Landolt,
+Rechtsanwalt
+gegen
+Glarner Pensionskasse
+Beklagte
+vertreten durch lic. iur. Peter Rösler, Rechtsanwalt
+und
+Pensionskasse Graubünden
+Beigeladene
+betreffend
+BVG-Leistungen
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Die am […] geborene A.______ meldete sich am 30.
+September 2016 bei der IV-Stelle St. Gallen zum Bezug von Leistungen der Invalidenversicherung
+an. Am 20. Januar 2017 erfolgte ein operativer Eingriff aufgrund eines
+Meningeoms. Die IV-Stelle sprach ihr ab dem 25. August 2017 berufliche
+Massnahmen zu und wies das Begehren betreffend weitere berufliche Massnahmen
+am 27. September 2018 ab. Am 10. Dezember 2018 erfolgte eine weitere
+Operation wegen eines Rezidiv-Meningeoms, anlässlich derer die Arteria
+basilaris verletzt wurde. In der Folge stellte die IV-Stelle A.______ mit
+Vorbescheid vom 19. August 2019 die Zusprache einer ganzen Rente ab dem
+1. Juli 2018 in Aussicht, woran sie mit Verfügung vom 12. November
+2019 festhielt.
+1.2
+Dagegen erhob A.______ am 6. Dezember 2019
+Beschwerde beim Versicherungsgericht des Kantons St. Gallen und beantragte
+die Zusprache einer ganzen Invalidenrente bereits ab dem 1. September 2017.
+Letzteres lud sowohl die Pensionskasse Graubünden als auch die Glarner
+Pensionskasse ins Verfahren bei und hiess die Beschwerde am 16. August 2021
+(Verfahren IV 2019/325) gut. Es sprach A.______ vom 1. Juli 2017 bis 30.
+September 2018 sowie ab dem 1. Dezember 2018 eine ganze Rente zu. Der
+Entscheid erwuchs unangefochten in Rechtskraft.
+2.
+2.1
+A.______ reichte am 28. Mai 2020 beim
+Verwaltungsgericht Klage gegen die Glarner Pensionskasse ein. Sie beantragte,
+die Glarner Pensionskasse sei zu verpflichten, ihr mit Wirkung ab dem 10.
+Dezember 2018 eine jährliche Invalidenrente in der Höhe von Fr. 15
+'
+684.-
+zuzüglich einer Kinderrente von Fr. 3
+'
+137.- pro Kind, zuzüglich Zins zu 5 % bis zum
+Urteilszeitpunkt nach mittlerem Verfall, zu bezahlen; alles unter Kosten- und
+Entschädigungsfolge zu Lasten der Glarner Pensionskasse sowie unter Gewährung
+der unentgeltlichen Prozessführung und der unentgeltlichen
+Rechtsverbeiständung.
+2.2
+Die Glarner Pensionskasse beantragte am 14. Juli
+2020 die Sistierung des Verfahrens, bis ein rechtskräftiger Entscheid im
+invalidenversicherungsrechtlichen Verfahren vorliege. Das Verwaltungsgericht
+sistierte das Verfahren am 28. August 2020 und nahm es am 15. November 2021
+wieder auf.
+2.3
+Am 10. Dezember 2021 schloss die Glarner
+Pensionskasse auf Abweisung der Klage. Nachdem das Verwaltungsgericht die
+Pensionskasse Graubünden ins Verfahren beigeladen hatte, nahm diese am 1.
+April 2022 Stellung und beantragte die Gutheissung der Klage, soweit als dass
+die Glarner Pensionskasse zu Leistungen der beruflichen Vorsorge zu
+verpflichten sei; ohne Kosten- und Entschädigungsfolgen zu ihren Lasten.
+2.4
+Das Verwaltungsgericht edierte am 21. April 2022 bei
+der IV-Stelle St. Gallen die invalidenversicherungsrechtlichen Akten. Diese
+wurden am 26. April 2022 zugestellt.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 109 lit. e des Gesetzes über die Verwaltungsrechtspflege vom 4.
+Mai 1986 (VRG) i.V.m. Art. 73 Abs. 1 und 3 des Bundesgesetzes über die
+berufliche Alters-, Hinterlassenen- und Invalidenvorsorge vom 25. Juni
+1982 (BVG) zur Behandlung der vorliegenden Klage zuständig. Da auch die
+übrigen Prozessvoraussetzungen erfüllt sind, ist auf die Klage einzutreten.
+2.
+2.1
+2.1.1
+Die obligatorische b
+erufliche
+Vorsorge umfasst alle Massnahmen auf kollektiver Basis, die älteren Menschen,
+den Hinterbliebenen und Invaliden beim Eintreten eines Versicherungsfalls
+(Alter, Tod oder Invalidität) zusammen mit den Leistungen der eidgenössischen
+Alters-, Hinterlassenen- und Invalidenversicherung die Fortsetzung der
+gewohnten Lebenshaltung in angemessener Weise erlauben (Art. 1
+Abs. 1 BVG).
+Die obligatorische
+Versicherung beginnt mit Stellenantritt (Art. 10 Abs. 1 BVG). Davon
+ausgenommen sind unter anderem Personen, die im Sinne der
+Invalidenversicherung zu mindestens 70 % invalid sind, sowie Personen,
+die nach Art. 26a BVG provisorisch weiterversichert werden (Art. 1j Abs. 1
+lit. d der Verordnung über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge
+vom 18. April 1984
+[
+BVV 2
+]
+). Wird die Rente der Invalidenversicherung nach
+Verminderung des Invaliditätsgrads herabgesetzt oder aufgehoben, so bleibt
+die versicherte Person während drei Jahren zu den gleichen Bedingungen bei
+der leistungspflichtigen Vorsorgeeinrichtung versichert, sofern sie vor der
+Herabsetzung oder Aufhebung der Rente an Massnahmen zur Wiedereingliederung
+nach Art. 8a des Bundesgesetzes über die Invalidenversicherung vom 19. Juni
+1959 (IVG) teilgenommen hat oder die Rente wegen der Wiederaufnahme einer
+Erwerbstätigkeit oder Erhöhung des Beschäftigungsgrads herabgesetzt oder
+aufgehoben wurde (Art. 26a BVG). Obligatorisch Versicherte bleiben für
+das Risiko der Invalidität zusätzlich während eines Monats nach Auflösung des
+Vorsorgeverhältnisses bei der bisherigen Vorsorgeeinrichtung versichert,
+sofern nicht vorher ein neues Vorsorgeverhältnis begründet wird (Art. 10 Abs.
+3 BVG).
+2.1.2
+Anspruch auf Invalidenleistungen der obligatorischen
+beruflichen Vorsorge haben Versicherte, die im Sinne der
+Invalidenversicherung
+zu mindestens 40 % invalid sind und bei Eintritt
+der Arbeitsunfähigkeit, deren Ursache zur Invalidität geführt hat, versichert
+waren (Art. 23 lit. a BVG). Versicherte sind in ihrer
+Arbeitsfähigkeit eingeschränkt, wenn sie ihr funktionelles Leistungsvermögen
+im bisherigen Beruf oder Aufgabenbereich eingebüsst haben.
+Die Arbeitsunfähigkeit nach Art. 23 lit. a
+BVG muss erheblich und dauerhaft sein. Als erheblich gilt eine Einbusse an
+funktionellem Leistungsvermögen im Umfang von mindestens 20 %. Als dauerhaft
+gilt sie, wenn es sich nicht bloss um kurzfristige Arbeitsplatzabsenzen von
+wenigen Tagen oder Wochen handelt (Marc Hürzeler/Jürg Brühwiler, in Ulrich
+Meyer [Hrsg.], Schweizerisches Bundesverwaltungsrecht, Bd. XIV, Sozialversicherung,
+3. A., Basel 2016, L. Rz. 148). Es muss arbeitsrechtlich in Erscheinung
+treten, dass die versicherte Person an Leistungsvermögen eingebüsst hat
+(BGer-Urteil 9C_517/2020 vom 28. Januar 2021 E. 3.2, mit Hinweisen).
+Dabei sind die gesamten Umstände des konkreten Einzelfalls zu
+berücksichtigen, namentlich die Art des Gesundheitsschadens, dessen
+prognostische Beurteilung durch die Ärztinnen und Ärzte sowie die
+Beweggründe, welche die versicherte Person zur Wiederaufnahme oder
+Nichtwiederaufnahme einer Arbeit veranlasst haben (BGer-
+Urteil
+9C_570/2021
+vom 20. Dezember 2021
+E. 4.3, mit Hinweis).
+2.1.3
+Ein Anspruch auf Invalidenleistungen der beruflichen
+Vorsorge setzt einen engen sachlichen und zeitlichen Zusammenhang zwischen
+der während der Dauer des Vorsorgeverhältnisses (einschliesslich der
+Nachdeckungsfrist nach Art. 10 Abs. 3 BVG) bestandenen Arbeitsunfähigkeit und
+der allenfalls erst später eingetretenen Invalidität voraus. Der
+Gesundheitsschaden, der zur Arbeitsunfähigkeit geführt hat, muss daher von
+der Art her im Wesentlichen derselbe sein, der der Erwerbsunfähigkeit zu
+Grunde liegt (BGer-Urteil 9C_570/2021 vom 20. Dezember 2021 E. 2.1.2,
+mit Hinweisen).
+2.2
+Ein Entscheid einer IV-Stelle ist für eine
+Einrichtung der beruflichen Vorsorge verbindlich, sofern sie in das
+invalidenversicherungsrechtliche Verfahren einbezogen wurde, die konkrete
+Fragestellung für die Beurteilung des Rentenanspruchs gegenüber der
+Invalidenversicherung entscheidend war und sich die
+invalidenversicherungsrechtliche Betrachtungsweise aufgrund einer
+gesamthaften Prüfung der Akten nicht als offensichtlich unhaltbar erweist.
+Die Bindungswirkung vermag sich indessen nicht auf Feststellungen zu
+erstrecken, welche für die Festlegung des Anspruchs auf eine Rente der Invalidenversicherung
+nicht entscheidend waren. Eine Bindungswirkung entfällt unter anderem dann,
+wenn die Rente der Invalidenversicherung aufgrund einer verspäteten Anmeldung
+ausgerichtet wird. Diesfalls besteht kein Anlass für die IV-Stelle, den
+Verlauf der Arbeitsunfähigkeit vor dem Zeitpunkt der Anmeldung zu prüfen,
+womit hinsichtlich weiter zurückliegender Zeiten eine Verbindlichkeit
+allfälliger Feststellungen und Beurteilungen der IV-Stelle für die
+Vorsorgeeinrichtung von vornherein ausser Betracht fällt (BGE 133 V 67 E. 4.3.2;
+BGer-Urteil 9C_464/2015 vom 31. Mai 2016 E. 2.4.1 f., mit Hinweisen).
+2.3
+Der Zeitpunkt des Eintritts der
+berufsvorsorgerechtlich relevanten Arbeitsunfähigkeit muss mit dem im
+Sozialversicherungsrecht üblichen Beweisgrad der überwiegenden
+Wahrscheinlichkeit nachgewiesen sein (BGer-Urteil 9C_388/2021 vom
+17. November 2021 E. 4.3, mit Hinweisen). Dabei gilt der Grundsatz
+der freien Beweiswürdigung, d.h. die Beweise sind frei, ohne Bindung an
+förmliche Beweisregeln, sowie umfassend und pflichtgemäss vom Gericht zu
+würdigen (vgl. BGE 125 V 351 E. 3a).
+3.
+3.1
+Die Klägerin macht geltend, die rückwirkende
+Stornierung des Vorsorgeverhältnisses durch die Beklagte sei unrechtmässig
+erfolgt. Sie sei während des streitbetroffenen Arbeitsverhältnisses bei der B.______
+zu mindestens 70 % arbeitstätig gewesen, womit sie nicht als
+Vollinvalide habe gelten können. Damit sei der Anschluss an die Beklagte
+folgerichtig gewesen und sie habe, da der Leistungsfall während der
+Versicherungsdauer bei der Beklagten eingetreten sei, Anspruch auf Leistungen
+aus beruflicher Vorsorge. Sofern sie nicht dem Versichertenkreis unterstellt
+werden könne, erhalte sie nur eine BVG-Rente der Beigeladenen aufgrund ihrer
+Tätigkeit als […]. Der dort versicherte Lohn decke jedoch lediglich das
+Pensum von 20 % und nicht das zusätzlich ab Oktober 2018 bestehende
+Pensum von 40 % ab. Da erst der Operationsunfall im Dezember 2018 zu einer
+vollständigen Arbeits- und Erwerbsunfähigkeit geführt habe, müsse sie von der
+Beklagten für den bei ihr versicherten Lohn eine Invalidenrente aus BVG
+erhalten. Die Beigeladene werde für eine allfällige Invalidität vor der
+Anstellung bei der B.______ einstehen müssen. Diese Invalidität könne aber
+nicht höher als 20 % sein. Weil sie, die Klägerin, ab dem 15. Oktober
+2018 im Umfang von 40 % erwerbstätig und zudem im Haushalt tätig gewesen sei,
+sei die 70 %-Klausel gemäss Art. 1j Abs. 1 lit. d BVV 2 nicht anwendbar und
+müsste ohnehin auf die einzelnen Vorsorgeverhältnisse aufgeteilt werden. Diesfalls
+komme Art. 1j Abs. 1 lit. d BVV 2 nicht im vollem Umfang zum
+Tragen, was ebenfalls zur Leistungspflicht der Beklagten führe. Sodann sei
+Letztere zwar nicht an die Erkenntnisse aus dem IV-Verfahren gebunden. Es
+mute allerdings widersprüchlich an, wenn sich die Beklagte dabei gleichzeitig
+auf den Ausschlussgrund gemäss Art. 1j Abs. 1 lit. d BVV 2 berufe.
+3.2
+Die Beklagte stellt sich auf den Standpunkt, das
+invalidenversicherungsrechtliche Urteil des Versicherungsgerichts St. Gallen
+sei für sie und die Beigeladene bindend. Darin sei festgehalten worden, dass
+die Arbeitsunfähigkeit der Klägerin, deren Ursache zur Invalidität geführt
+habe, am 8. Juli 2016 eingetreten sei und die im Dezember 2018 erneut
+aufgetretene Arbeitsunfähigkeit und Invalidität auf die gleiche Ursache
+zurückzuführen sei. Folglich sei bereits verbindlich festgehalten worden,
+dass die berufsvorsorgerechtlich relevante Arbeitsunfähigkeit während jener
+Zeit eingetreten sei, als die Klägerin bei der Beigeladenen versichert
+gewesen sei, und dass die im Dezember 2018 erneut aufgetretene Invalidität
+auf keine neue Ursache zurückzuführen sei. Nach Eintritt der ersten
+Arbeitsunfähigkeit habe die Klägerin von zahlreichen Massnahmen der IV-Stelle
+St. Gallen zur Wiedereingliederung nach Art. 8a IVG profitieren
+dürfen. Dies bewirke für die Klägerin das Privileg einer dreijährigen
+Weiterversicherung bei der bisherigen Vorsorgeeinrichtung zu den gleichen
+Konditionen (Art. 26a Abs. 1 BVG). Sie sei deshalb trotz der
+Herabsetzung des Invaliditätsgrads von Gesetzes wegen weiterhin bei der
+Beigeladenen zu den bisherigen Konditionen versichert geblieben und nicht bei
+ihr, der Beklagten, der obligatorischen Versicherung unterstellt gewesen
+(Art. 1j Abs. 1 lit. d BVV 2). Aus diesem Grund habe sie die Aufnahme
+der Klägerin rückwirkend aufheben und die für Oktober 2018 geleisteten
+Beiträge zurückfordern müssen. Es sei weder der enge zeitliche noch der
+sachliche Zusammenhang unterbrochen worden, da die Klägerin beim Eintritt in
+die Beklagte bereits zu 35 % invalid
+gewesen
+und
+die IV-Rente nur gerade während zwei Monaten ausgesetzt worden sei. Soweit
+dennoch von einer Leistungspflicht der Beklagten für die im Dezember 2018
+eingetretene Invalidität ausgegangen werde, sei einerseits die Subrogation
+und Zession der weiteren Ansprüche an die Beklagte zu beachten, da abgeklärt
+werden müsse, ob die Unfallversicherung leistungspflichtig sei oder ob ein
+Dritter für den Vorsorgefall hafte. Andererseits sei die Höhe der beantragten
+Kinderrenten zu überprüfen. Schliesslich richte sich die Verzinsung von
+allfälligen Rentenzahlungen nach Art. 105 Abs. 1 des Obligationenrechts vom
+30. März 1911 (OR), weshalb erst vom Tag der Klageanhebung an bzw. noch
+gar keine Verzugszinsen zu bezahlen seien, da die Beklagte bis zur Abtretung
+der Forderung gegen den haftpflichtigen Dritten nicht in Verzug geraten
+könne.
+3.3
+Die Beigeladene bringt vor, vorliegend handle es
+sich nicht um einen Fall von Art. 26a BVG. Art. 8a IVG und Art. 26a BVG
+seien im Rahmen der 6a-Revision eingeführt worden. Diese habe zum Ziel
+gehabt, auch bereits länger Rente beziehende Personen wiedereinzugliedern und
+sie hierbei bei Rückfällen zu schützen. Die Normen griffen lediglich dann,
+wenn jemand aus einer laufenden Rente wiedereingegliedert werden könne,
+worauf bereits der Titel von Art. 8a IVG hinweise. Dies sei vorliegend nicht
+der Fall. Vielmehr gehe es um den Normalfall gemäss Art. 8 IVG, womit Art.
+26a BVG nicht anwendbar und sie, die Beigeladene, dementsprechend nicht
+leistungspflichtig sei. Der zeitliche Zusammenhang zwischen der bei ihr
+eingetretenen Arbeitsunfähigkeit und der Invalidität sei sodann unterbrochen
+worden. Ein solcher Unterbruch sei mit Blick auf die Rechtsprechung gegeben,
+wenn während mehr als drei Monaten eine Arbeitsfähigkeit von über 80 % in
+einer angepassten Erwerbstätigkeit gegeben sei und die Tätigkeit bezogen auf
+die angestammte Tätigkeit die Erzielung eines rentenausschliessenden
+Einkommens erlaube. Vorliegend habe ab 1. Juli 2018 bis 9. Dezember
+2018 eine Arbeitsfähigkeit von 100 % bestanden, was der Arbeitgeber der
+Klägerin bestätigt habe. Überdies sei sie als […] voll leistungsfähig und an
+der Gründung einer Firma als Verwaltungsrätin massgeblich beteiligt gewesen.
+Die IV-Rente sei nur aufgrund der Dreimonatsfrist gemäss Art. 88a der
+Verordnung über die Invalidenversicherung vom 17. Januar 1961 (IVV) per
+30. September 2018 eingestellt worden. Demgemäss sei die Klägerin während
+mehr als fünf Monaten in einer angepassten Tätigkeit zu 100 %
+arbeitsfähig gewesen, womit der zeitliche Konnex unterbrochen worden sei. Man
+habe auch aufgrund der Aufnahme des Masterstudiums von einer dauerhaften
+Wiederaufnahme der Arbeit ausgehen können und letztlich sei ein Arztfehler
+das invalidisierende Ereignis gewesen. Die Versicherte habe gemäss dem Urteil
+des Versicherungsgerichts St. Gallen bei der neuen Tätigkeit zudem ein
+rentenausschliessendes Einkommen generieren können. Bei dieser Ausganglage
+komme eine Leistungspflicht ihrerseits nicht in Frage.
+4.
+Im vorliegenden Fall wurde die Beklagte in das
+Verwaltungsverfahren bei der Invalidenversicherung nicht miteinbezogen. Ihr
+wurden weder der Vorbescheid noch die daraufhin ergangene Verfügung
+zugestellt. In das Verfahren vor dem Versicherungsgericht St. Gallen wurde
+sie demgegenüber beigeladen und der Entscheid vom 16. August 2021 wurde ihr
+mit einer Rechtsmittelbelehrung versehen gehörig eröffnet. Damit war ihr
+dessen Anfechtung ohne Weiteres möglich, weshalb das darin Enthaltene
+grundsätzlich Bindungswirkung entfaltet (vgl. aber nachstehende
+E. II/6.4 f.).
+5.
+5.1
+Zunächst ist zu prüfen, ob die Beklagte die Klägerin
+am 22. November 2019 zu Recht rückwirkend von der obligatorischen
+Versicherung ausschloss. Die Klägerin begann ihre Anstellung bei der B.______
+am 15. Oktober 2018, womit ab diesem Zeitpunkt ein diesbezügliches
+Versicherungsverhältnis zur Diskussion steht (Art. 10 Abs. 1 BVG).
+Dabei sind gemäss Art. 1j Abs. 1 lit. d BVV 2 diejenigen Arbeitnehmerinnen
+nicht obligatorisch versichert, welche im Sinne der Invalidenversicherung
+entweder zu 70 % invalid sind, oder nach Art. 26a BVG bei einer anderen
+Vorsorgeeinrichtung provisorisch weiterversichert sind.
+5.2
+Am 16. August 2021 hielt das Versicherungsgericht
+St. Gallen verbindlich fest, dass ab dem 1. Oktober 2018 (und damit vor
+Stellenantritt bei der B.______) ein rentenausschliessender Invaliditätsgrad
+von 35 % bestanden habe. Folglich fällt die Ausschlussvariante gemäss Art. 1j
+Abs. 1 lit. d BVV 2 von vornherein ausser Betracht.
+5.3
+Sodann handelt es sich vorliegend auch um keine
+Konstellation im Sinne von Art. 26a BVG. Diese Bestimmung wurde im
+Rahmen der IV-Revision 6a eingeführt und betrifft Personen, deren
+IV-Rentenanspruch revisionsweise reduziert oder aufgehoben wurde (Markus
+Moser, in Marc Hürzeler/Hans-Ulrich Stauffer
+[Hrsg.],
+Basler Kommentar zur beruflichen Vorsorge, Basel 2021
+, Art. 26a BVG N. 18). Dies ist bei der Klägerin
+nicht der Fall, zumal sie von der IV-Stelle eine durchgehende Rente und vom
+Versicherungsgericht St. Gallen eine befristete sowie nach einem kurzen
+Unterbruch eine unbefristete ganze Rente zugesprochen erhalten hat. Ihr
+wurden überdies auch keine Wiedereingliederungsmassnahmen gemäss Art. 8a IVG
+zugesprochen. Solche gelten nämlich, worauf bereits der Titel der Bestimmung
+hinweist, für Rentenbezügerinnen mit Eingliederungspotenzial, was die
+Klägerin zum massgebenden Zeitpunkt nicht war. Sinn und Zweck von Art. 26a
+BVG ist überdies die Unterstützung der Wiedereingliederung von
+Rentenbezügerinnen auch aus berufsvorsorgerechtlicher Sicht. Die Klägerin
+wurde nicht wiedereingegliedert aus einer Rentensituation. Vielmehr wurde
+versucht, sie auf dem Arbeitsmarkt zu unterstützen, damit gar nicht erst oder
+lediglich ein reduzierter Rentenanspruch entsteht.
+Damit findet Art. 1j Abs.
+1 lit. d BVV 2 i.V.m. Art. 26a BVG vorliegend keine Anwendung, weshalb die
+Beklagte die Klägerin im Ergebnis zu Unrecht ausgeschlossen hat. Die Beklagte
+ist somit verpflichtet, die Klägerin ab Stellenantritt bzw. am 15. Oktober
+2018 obligatorisch zu versichern (vgl. Esther Amstutz/Aline Kratz-Ulmer, in Marc
+Hürzeler/Hans-Ulrich Stauffer
+[Hrsg.],
+Basler Kommentar zur beruflichen Vorsorge, Basel 2021, Art. 10 BVG N. 10 ff.)
+.
+6.
+6.1
+Weiter ist unbestritten und wurde vom
+Versicherungsgericht St. Gallen für das vorliegende Verfahren verbindlich
+festgestellt, dass bei der Klägerin eine andauernde Invalidität besteht.
+Sodann bestand ab der Operation vom 10. Dezember 2018 eine 100%ige
+Arbeitsunfähigkeit, was von den Parteien zu Recht nicht bestritten wird. Da
+im vorliegenden Fall Arbeitsunfähigkeit und Invalidität zeitgleich
+eingetreten sind, erweist sich der enge sachliche und zeitliche Zusammenhang
+überdies als offensichtlich. Fraglich und zu prüfen bleibt jedoch, ob die
+Invalidität – wie von der Beklagten geltend gemacht – auf eine frühere
+Arbeitsunfähigkeit zurückzuführen bzw. vorbestehend ist.
+6.2
+6.2.1
+Die Operation der Klägerin vom 10. Dezember 2018 war
+in einem erneuten Hirntumor begründet, wobei es sich gemäss medizinischen
+Unterlagen um einen Rückfall handelte. Vor diesem Hintergrund erscheint ein Zusammenhang
+des erneut aufgetretenen Tumors mit den 2017 bestehenden Beschwerden und der
+damit zusammenhängenden Arbeitsunfähigkeit überwiegend wahrscheinlich.
+Indessen ist die Arbeitsunfähigkeit ab der Operation vom 10. Dezember 2018
+entgegen der Ansicht der Beklagten nicht auf den Hirntumor zurückzuführen.
+Die im Recht liegenden medizinischen Akten erhellen nämlich, dass die
+Arbeitsunfähigkeit bzw. die Invalidität auf die während der Operation
+eingetretene Verletzung der Arteria basilaris zurückzuführen ist. Dies stellt
+einen neuen, separaten Gesundheitsschaden dar, welcher losgelöst von der
+Tumorerkrankung und den daraus folgenden Sehbeschwerden zu betrachten ist.
+Die Verletzung hat dabei eigenständige, völlig neue Beschwerden (u.a. Lähmung,
+fehlende Kommunikationsfähigkeiten) und letztlich eine intensive
+Pflegebedürftigkeit hervorgerufen. Dies ist keine reguläre oder ohne Weiteres
+vorhersehbare Folge einer solchen Operation und damit vom zu operierenden
+Gesundheitsschaden unabhängig, worauf letztlich zusätzlich hinweist, dass die
+erste, ähnliche Operation komplikationslos verlaufen ist.
+6.2.2
+Im Ergebnis bestand ab dem 10. Dezember 2018 somit
+ein neuer Gesundheitsschaden, welcher zu einer neuen Arbeitsunfähigkeit und
+Invalidität geführt hat. Entgegen der Ansicht der Beklagten ist darin keine
+Verschlechterung einer bei Versicherungsbeginn vorbestandenen
+Beeinträchtigung der Arbeits- bzw. Erwerbsfähigkeit zu sehen. Vielmehr ist
+die Arbeitsunfähigkeit und die Invalidität auf eine neu hinzutretende
+medizinische Schadensursache zurückzuführen (vgl. Moser
+,
+Art. 23 BVG
+N. 7). Schliesslich erwähnt die Beklagte in ihrer Klageantwort selbst, dass
+die im Dezember 2018 erneut eingetretene Invalidität der Klägerin gemäss
+medizinischer Unterlagen auf eine Läsion der Arteria basilaris während der
+erneuten Operation des Hirntumors zurückzuführen sei. Sie hält überdies fest,
+dass eine schwerwiegende Abweichung zwischen dem gewünschten und dem
+erreichten Ergebnis der Operation bestehe. Insgesamt wurde der sachliche
+Zusammenhang der Invalidität mit dem vorbestehenden Gesundheitsschaden des
+früheren Hirntumors und der Sehbeschwerden unterbrochen.
+6.3
+Des Weiteren wurde aber auch der zeitliche
+Zusammenhang durch den Operationsvorfall am 10. Dezember 2018 unterbrochen,
+wobei diesbezüglich die Arbeitsfähigkeit und nicht die Invalidität massgebend
+ist (vgl. Hürzeler/Brühwiler, L. Rz. 156). Die Unterbrechung des
+zeitlichen Zusammenhangs ist gegeben, wenn die versicherte Person während
+mindestens drei Monaten zu mindestens 80 % arbeitsfähig ist und eine
+dauerhafte Wiedererlangung der Erwerbsfähigkeit als objektiv wahrscheinlich
+erscheint (vgl. BGE 144 V 58 E. 4.4, mit Hinweisen; Moser, Art. 23
+BVG N. 64). Die Klägerin war vom 1. August 2018 bis zum 9. Dezember
+2018 zu 100 % arbeitsfähig, was das Versicherungsgericht St. Gallen
+verbindlich festgehalten hat. Mit einer mehr als viermonatigen vollen
+Arbeitsfähigkeit ist damit eine Unterbrechung des zeitlichen Zusammenhangs
+überwiegend wahrscheinlich. Sowohl die IV-Stelle, die verschiedenen
+Arbeitgeber als auch die Hochschule, bei welcher die Klägerin eine
+Weiterbildung begonnen hatte, gingen von einer hohen oder gar vollen
+Leistungsfähigkeit vor der Operation aus, was ebenfalls für eine zeitweise
+Arbeitsfähigkeit von über 80 % und objektiv für eine dauerhafte
+Wiedererlangung der Erwerbsfähigkeit spricht.
+6.4
+6.4.1
+Die Beklagte macht schliesslich sinngemäss geltend,
+der sachliche Zusammenhang des vorbestehenden Gesundheitsschadens mit der
+später eingetretenen Invalidität sei vom Versicherungsgericht St. Gallen im
+IV-Verfahren verbindlich festgehalten worden. Letzteres erwog, dass die
+Klägerin gestützt auf Art. 29bis IVV trotz zwischenzeitlicher
+Renteneinstellung das Wartejahr im Sinne von Art. 28 Abs. 1 lit. b
+IVG nicht erneut zu erfüllen habe. Die im Dezember 2018 aufgrund des
+Tumor-Rezidivs bzw. dessen operativer Entfernung erneut eingetretene
+Arbeitsunfähigkeit sei ausreichend auf dasselbe Leiden wie die vorher
+eingetretenen Arbeitsunfähigkeiten zurückzuführen.
+6.4.2
+Hierbei ist zunächst auf den unterschiedlichen Zweck
+von Art. 29bis IVV und Art. 23 BVG hinzuweisen. Im Rahmen des
+Invalidenversicherungsrechts ist zu prüfen, ob die versicherte Person
+Anspruch auf eine Invalidenrente hat. Zweck von Art. 29bis IVV ist dabei
+unter anderem, erneute Wartezeiten zu vermeiden und zumindest indirekt die
+Wiedereingliederung zu fördern. Im Rahmen der beruflichen Vorsorge ist
+demgegenüber nicht nur zu prüfen, ob jemand ein Anrecht auf eine Rente hat,
+sondern auch gegenüber welcher Vorsorgeeinrichtung ein solcher Anspruch
+besteht. Art. 23 BVG bildet damit die Abgrenzung der Zuständigkeit bei
+mehreren Vorsorgeeinrichtungen. Dies bedeutet, dass auch wenn das
+Versicherungsgericht im IV-Verfahren einen sachlichen Zusammenhang zwischen
+den vorbestehenden und den danach eingetretenen Arbeitsunfähigkeiten annahm,
+dies nicht ohne Weiteres auf die berufliche Vorsorge übertragen werden kann,
+wobei im vorliegenden Fall aufgrund des oben Dargelegten weiterhin von einer
+Unterbrechung des sachlichen Zusammenhangs auszugehen ist. Hinzuweisen ist
+immerhin darauf, dass in der beruflichen Vorsorge der sachliche und zeitliche
+Zusammenhang kumulativ vorliegen müssen, weshalb selbst bei verbindlichen
+Feststellungen des Versicherungsgerichts zum sachlichen Zusammenhang der
+dargelegte fehlende zeitliche Zusammenhang des vorbestehenden
+Gesundheitsschadens zu einer Zuständigkeit der Beklagten führen würde (vgl.
+Moser, Art. 23 BVG N. 49 ff.).
+6.5
+Als Zwischenfazit ist festzuhalten, dass die
+Beklagte die ab dem 15. Oktober 2018 zuständige Vorsorgeeinrichtung war und
+nicht berechtigt war, das Vorsorgeverhältnis rückwirkend aufzulösen. Während
+des streitbetroffenen Vorsorgeverhältnisses entstand sodann der relevante
+Gesundheitsschaden, die entsprechende Arbeitsunfähigkeit und somit auch die
+vorliegend massgebende Invalidität. Die Arbeitsunfähigkeit steht mit der
+Invalidität in einem engen sachlichen und zeitlichen Zusammenhang. Der
+vorbestehende Gesundheitsschaden und die dazugehörige Arbeitsunfähigkeit
+stehen demgegenüber nicht überwiegend wahrscheinlich in einem engen
+zeitlichen und sachlichen Zusammenhang mit der im Dezember 2018 eingetretenen
+Invalidität. Da der Beklagten das Urteil des Versicherungsgerichts
+St. Gallen gehörig eröffnet wurde, ist sie an das darin Enthaltene grundsätzlich
+gebunden (vgl. vorstehende E. II/4). Demgemäss hat die Klägerin
+gegenüber der Beklagten einen Anspruch auf eine BVG-Rente in gleichem Umfang
+zur IV-Rente, bzw. auf eine ganze Invalidenrente ab dem 10. Dezember
+2018. Auf die weiteren Vorbringen der Beklagten ist sodann nicht weiter
+einzugehen, da diese nicht durch das Verwaltungsgericht als
+Berufsvorsorgegericht zu klären sind. Darüber hinaus ist ein allfälliger
+Rentenanspruch gegenüber der Beigeladenen für die Invalidität vom 1. Juli
+2017 bis zum 30. September 2018 nicht Gegenstand des vorliegenden Verfahrens.
+Die Beklagte hat die Klägerin somit rückwirkend ab dem 15. Oktober 2018
+in die Versicherung aufzunehmen, die Berechnung der Renten inklusive
+Kinderrenten vorzunehmen und allfällige Abtretungen und Regressansprüche zu
+prüfen (vgl. auch nachstehende E. II/7).
+7.
+7.1
+Im Bereich der beruflichen Vorsorge ist die Pflicht
+zur Entrichtung von Verzugszinsen bei einer verspäteten Überweisung von
+Freizügigkeitsleistungen sowie bei verspäteter Auszahlung eines
+Alterskapitals oder bei Invalidenrenten anerkannt (BGer-Urteil 9C_588/2020
+vom 18. Mai 2021 E. 5.1.1 f., mit Hinweis). Die Beklagte macht geltend,
+aufgrund der fehlenden Abtretungserklärung der Klägerin habe sie mit ihrer
+Leistungspflicht noch nicht in Verzug geraten können. Dem ist nicht zu
+folgen. Zunächst müsste die Klägerin eine allfällige Abtretungserklärung
+gemäss Art. 18 Abs. 2 des Basisreglements der Beklagten vom
+25.
+September 2014
+(BR) bloss betreffend der
+Leistungen aus Überobligatorium abgeben, da bezüglich der obligatorischen
+Leistungen mit Art. 34b BVG eine gesetzliche Subrogation im Zeitpunkt des
+haftpflichtauslösenden Ereignisses eintritt (Max B. Berger, in Marc Hürzeler/Hans-Ulrich
+Stauffer
+[Hrsg.], Basler Kommentar zur
+beruflichen Vorsorge, Basel 2021,
+Art.
+34b BVG N. 23, 29). Da der Klägerin keine fehlende Handlung vorgeworfen
+werden kann, ist die Beklagte bezüglich der obligatorischen Leistungen in
+Verzug geraten.
+7.2
+Des Weiteren ist die Beklagte aber auch bezüglich
+der Leistungen aus Überobligatorium in Verzug geraten. Art. 18 Abs. 2 BR
+sieht vor, dass eine Abtretung nur insoweit verlangt wird,
+als dass
+die Leistungen der Pensionskasse zusammen mit dem vom Dritten für den
+gleichen Zeitpunkt geschuldeten Ersatz den entsprechenden Schaden
+übersteigen. Wenn noch gar keine Leistungen der Pensionskasse existieren,
+beispielsweise, weil diese wie im vorliegenden Fall ihre Leistungspflicht
+bestreitet, ist eine Abtretungserklärung noch nicht möglich. Die Klägerin
+muss ihre Forderung nur insoweit abtreten, als sie überentschädigt würde.
+Solange nicht klar ist, welche Entschädigung bzw. welche Leistung sie
+überhaupt erhält, ist sie nicht zur Abtretung verpflichtet und ihr kann dies
+nicht zum Nachteil gereichen. Damit ist die Beklagte mit ihrer Leistung in
+Verzug geraten und hat entsprechend Verzugszins zu leisten.
+7.3
+Enthält das Basisreglement keine Bestimmungen über
+die Höhe des Verzugszinses, beträgt dieser 5 % gemäss Art. 104 Abs.
+1 OR. Damit
+richtet sich der Beginn der Zinspflicht nach Art. 105
+Abs. 1 OR, wonach ein Schuldner, der mit der Entrichtung von Renten
+im Verzug ist, vom Tag der Anhebung der Betreibung oder der gerichtlichen
+Klage an Verzugszins zu bezahlen hat (Hans-Ulrich Stauffer, in Hans-Ulrich
+Stauffer/Basile Cardinaux [Hrsg.], Rechtsprechung des Bundesgerichts zur
+beruflichen Vorsorge, 4. A., Zürich/Basel/Genf 2019, S. 108).
+Mangels einer Bestimmung im Basisreglement der Beklagten richtet sich die
+Verzugszinspflicht für fällige Invalidenrenten vorliegend nach Art. 102 ff.
+OR. Die Klägerin reichte die zu beurteilende Klage am 28. Mai 2020 ein,
+weshalb von diesem Zeitpunkt an Zinsen von 5 % geschuldet sind.
+Im vorliegenden Fall gilt
+seit dem 1. Januar 2021 indessen eine neue Regelung im Basisreglement der
+Beklagten, wonach
+nachzuzahlende Vorsorgeleistungen ab dem Tag der
+gerichtlichen Klage mit Verzugszins gemäss Art. 7 der Verordnung über
+die Freizügigkeit in der beruflichen Alters-, Hinterlassenen- und
+Invalidenvorsorge vom 3. Oktober 1994 (FZV) verzinst werden. Gemäss
+Art. 7 FZV entspricht der Verzugszinssatz dem BVG-Mindestzinssatz plus
+einem Prozent. Für das Jahr 2021 und 2022 entspricht der BVG-Mindestzinssatz
+jeweils 1 %. Damit sind ab dem 1. Januar 2021 Zins von 2 %
+geschuldet.
+Dies führt zur teilweisen
+Gutheissung der Klage. Die Klägerin hat zu Lasten der Beklagten ab dem 10.
+Dezember 2018 Anspruch auf eine auf einem Invaliditätsgrad von 100 %
+basierende Invalidenrente, zuzüglich Zins von 5 % ab dem 28. Mai 2020
+bis zum 31. Dezember 2020, zuzüglich
+Zins von 2 %
+ab dem
+1. Januar 2021
+. Die Sache ist an die Beklagte zur betragsmässigen
+Festsetzung der Invalidenrente aus BVG sowie allfälliger Kinderrenten zu
+überweisen.
+III.
+1.
+Die Gerichtskosten sind
+von Gesetzes wegen auf die Staatskasse zu nehmen (Art. 73 Abs. 2 BVG).
+Ausgangsgemäss hat die Klägerin gemäss Art. 138 Abs. 2 VRG zu
+Lasten der Beklagten Anspruch auf eine Parteientschädigung in der Höhe von
+pauschal Fr. 2
+'
+000.- (inkl. Mehrwertsteuer).
+2.
+2.1
+Die Klägerin beantragt die Gewährung der unentgeltlichen
+Prozessführung sowie der unentgeltlichen Rechtsverbeiständung. Gemäss
+Art. 139 Abs. 1 VRG befreit die Behörde eine Partei, der die Mittel
+fehlen, um neben dem Lebensunterhalt für sich und ihre Familie die
+Verfahrenskosten aufzubringen, auf Gesuch hin ganz oder teilweise von der
+Kosten- und Vorschusspflicht, sofern das Verfahren nicht aussichtslos ist.
+Unter denselben Voraussetzungen weisen die kantonalen Behörden der Partei auf
+Gesuch hin oder von Amtes wegen einen Anwalt als Rechtsbeistand zu, sofern
+ein solcher für die gehörige Interessenwahrung erforderlich ist (Art. 139
+Abs. 2 VRG). Der Nachweis der Bedürftigkeit obliegt der gesuchstellenden
+Partei (Art. 139 Abs. 3 VRG).
+2.2
+Da die Gerichtskosten auf die Staatskasse zunehmen
+sind, ist das Gesuch der Klägerin um Gewährung der unentgeltlichen
+Prozessführung als gegenstandslos geworden abzuschreiben.
+2.3
+Die Mittellosigkeit der Klägerin erscheint aufgrund
+der Aktenlage als gegeben. Zudem obsiegt sie teilweise im vorliegenden
+Verfahren, womit dieses
+nicht als aussichtslos bezeichnet werden kann.
+Da die Klägerin auf eine rechtliche Vertretung angewiesen war, ist das Gesuch
+um unentgeltliche Rechtsverbeiständung gutzuheissen und ihr ist in der Person
+von Rechtsanwalt Prof. Dr. Hardy Landolt
+ein
+unentgeltlicher Rechtsbeistand zu bestellen. Dieser ist mit Fr. 2
+'
+000.- (inkl.
+Auslagen und Mehrwertsteuer) zu entschädigen, woran die Parteientschädigung
+seitens der Beklagten anzurechnen ist.
+Demgemäss beschliesst die Kammer:
+1.
+Das
+Gesuch der Klägerin um Gewährung der unentgeltlichen Prozessführung wird
+als gegenstandslos geworden abgeschrieben.
+2.
+Das
+Gesuch der Klägerin um Gewährung der unentgeltlichen Rechtsverbeiständung
+wird gutgeheissen. Ihr wird in der Person von Rechtsanwalt Prof. Dr.
+Hardy Landolt ein unentgeltlicher Rechtsbeistand bestellt.
+3.
+Der
+Rechtsbeistand wird zu Lasten der Gerichtskasse mit Fr. 2'000.- (inkl. Auslagen
+und Mehrwertsteuer) entschädigt.
+Daran
+angerechnet wird die Parteientschädigung seitens der Beklagten in gleicher
+Höhe.
+und erkennt sodann
+:
+1.
+Die
+Klage wird teilweise gutgeheissen. Die Beklagte wird verpflichtet, der
+Klägerin ab dem 10. Dezember 2018 eine auf einem Invaliditätsgrad von
+100 % basierende Invalidenrente aus BVG, zuzüglich Zins von 5 % seit
+dem 28. Mai 2020 bis zum 31. Dezember 2020, zuzüglich
+Zins
+von 2 %
+ab dem
+1. Januar
+2021
+zu bezahlen. Zur betragsmässigen
+Festsetzung der Invalidenrente aus BVG sowie der Kinderrenten wird die
+Sache an die Beklagte überwiesen.
+2.
+Die
+Gerichtskosten werden auf die Staatskasse genommen.
+3.
+Die
+Beklagte wird verpflichtet, der Klägerin innert 30 Tagen nach Rechtskraft
+dieses Entscheids eine Parteientschädigung von Fr. 2
+'
+000.-
+(inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
