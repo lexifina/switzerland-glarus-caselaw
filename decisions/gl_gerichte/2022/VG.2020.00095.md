@@ -1,0 +1,569 @@
+---
+decision_id: "gl_gerichte_VG.2020.00095"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2020.00095"
+docket_2: "VG.2022.1158"
+decided: "2022-06-30"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1592&W10_KEY=218274&nTrefferzeile=2&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/220/art-322.md", "switzerland/bund/acts/220/art-322d.md", "switzerland/bund/acts/831.40/art-001.md", "switzerland/bund/acts/831.40/art-008.md", "switzerland/bund/acts/831.40/art-019.md", "switzerland/bund/acts/831.40/art-049.md", "switzerland/bund/acts/831.40/art-073.md"]
+---
+
+# GL Gerichte VG.2020.00095
+
+## Regeste
+
+Sozialversicherung - Berufliche Vorsorge
+
+## Text
+
+Glarus Verwaltungsgericht 30.06.2022 VG.2020.00095 (VG.2022.1158)
+Glaris Verwaltungsgericht 30.06.2022 VG.2020.00095 (VG.2022.1158)
+Glarona Verwaltungsgericht 30.06.2022 VG.2020.00095 (VG.2022.1158)
+
+Sozialversicherung - Berufliche Vorsorge
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+30. Juni 2022
+I. Kammer
+Besetzung:
+Gerichtspräsident MLaw Colin Braun, Verwaltungsrichter Ernst Luchsinger,
+Verwaltungsrichterin Katia Weibel und Gerichtsschreiberin MLaw Leonora Muji
+in Sachen
+VG.2020.00095
+A.______
+Klägerin
+vertreten durch lic. iur. Werner Marti,
+Rechtsanwalt
+gegen
+B.______AG
+Beklagte
+vertreten durch Dr. Alfred Blesi, Rechtsanwalt
+und
+BVG-Sammelstiftung Swiss
+Life
+Beigeladene
+betreffend
+Witwenrente aus BVG
+Die Kammer zieht in Erwägung:
+I.
+1.
+A.______
+ist die Witwe des am […] verstorbenen C.______ sel. Am 7. Oktober
+2020 reichte sie beim Verwaltungsgericht Klage gegen die B.______AG, die
+ehemalige Arbeitgeberin von C.______ sel., ein, woraufhin Letztere am 8.
+Dezember 2020 Stellung nahm. In der Folge äusserte sich A.______ am
+30. Dezember 2020 zu den Anträgen der B.______AG und änderte zugleich
+ihre Klage ab. Mit Verfügung vom 27. Januar 2021 liess das
+Verwaltungsgericht die Klageänderung zu und lud die BVG-Sammelstiftung Swiss
+Life (nachfolgend: Swiss Life) ins Verfahren bei. Gleichzeitig setzte es der
+B.______AG sowie der Swiss Life Frist zur Stellungnahme an. Dem kamen sie am
+26. März 2021 bzw. am 29. März 2021 nach.
+2.
+2.1
+A.______ liess sich am 15. Juni 2021 vernehmen und beantragte, die
+B.______AG sei zu verpflichten, reglementskonform abzurechnen und den
+anrechenbaren Jahreslohn zu versichern. Sodann sei die Swiss Life anzuweisen,
+ihr die bereits im Jahr 2016 anerkannte Witwenrente auszuzahlen.
+2.2
+Die B.______AG schloss am 16. September 2021 auf Abweisung des
+Rechtsbegehrens, wonach sie zu verpflichten sei, reglementskonform
+abzurechnen und den anrechenbaren Jahreslohn zu versichern. Sodann sei auf
+das Rechtsbegehren, wonach die Swiss Life zu verpflichten sei, A.______ die
+seit dem Jahr 2016 ausbezahlte Witwenrente weiter auszuzahlen, nicht
+einzutreten, eventualiter abzuweisen; unter Kosten- und Entschädigungsfolgen
+zu Lasten von A.______. In prozessualer Hinsicht sei das Verfahren vorerst
+auf die Fragen zu beschränken, ob die Swiss Life Beigeladene oder Beklagte
+sei und ob der Streitgegenstand auf die Frage der Berechnung der Höhe der
+Witwenrente ausgeweitet werde.
+2.3
+Die Swiss Life beantragte am 16. September 2021, dass vorfrageweise
+darüber zu entscheiden sei, ob ihr im Verfahren neu die Stellung einer
+Beklagten zukomme und ob das Prozessthema auf die Frage der korrekten
+Leistungsbemessung erweitert werde.
+3.
+3.1
+Das Verwaltungsgericht setzte A.______ am 19. September 2021 Frist an, um zu
+den prozessualen Anträgen der B.______AG sowie der Swiss Life Stellung zu
+nehmen. Innert Frist liess sie sich nicht vernehmen. In der Folge verweigerte
+das Verwaltungsgericht am 13. Dezember 2021 die erneute Klageänderung sowie
+die Änderung bei der Parteienordnung.
+3.2
+Mit Duplik vom 25. Februar 2022 hielt die B.______AG an ihren Rechtsbegehren
+fest. Am 28. Februar 2022 erneuerte die Swiss Life
+ihre Rechtsbegehren.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 109 lit. e des Gesetzes über die Verwaltungsrechtspflege vom 4.
+Mai 1986 (VRG) i.V.m. Art. 73 Abs. 1 und 3 des Bundesgesetzes über die
+berufliche Alters-, Hinterlassenen- und Invalidenvorsorge vom 25. Juni
+1982 (BVG) zur Behandlung der vorliegenden Klage zuständig. Da auch die
+übrigen Prozessvoraussetzungen erfüllt sind, ist auf die Klage einzutreten.
+2.
+2.1
+Die Klägerin macht geltend, die Beklagte habe den
+Lohn ihres Ehemanns zu tief versichert, weshalb sie nach dessen Tod eine zu
+tiefe Witwenrente erhalte. Für die Bemessung der Witwenrente sei der
+versicherte Lohn von C.______ sel. massgebend. Nach dem anwendbaren
+Reglement gelte als versicherter Verdienst zwar der anrechenbare Jahreslohn
+abzüglich des Koordinationsabzugs (Art. 3 Abs. 1 Reglement), wobei
+dieser dem dreizehnfachen Monatslohn des Vorjahres unter Berücksichtigung der
+für das neue Kalenderjahr bereits vereinbarten Änderungen entspreche
+(Art. 2 Abs. 2 Reglement). Jedoch habe die Beklagte vor mehreren
+Jahren ein neues Lohnsystem eingeführt. Die Arbeitnehmerinnen und
+Arbeitnehmer würden dadurch keinen fixierten Monatslohn erhalten, welcher
+dreizehnmal ausbezahlt werde. Vielmehr sei mit ihnen eine Jahreszielvergütung
+vereinbart worden, welche sich aus einem Grundgehalt und einem
+Jahreszielbonus zusammensetze. Art. 2 Abs. 2 des Reglements sei
+vorliegend somit nicht anwendbar. Sodann handle es sich beim vereinbarten
+Zielbonus nicht um eine Erfolgsbeteiligung oder Gratifikation, da eine vereinbarte
+Jahreszielvergütung keine gelegentlich anfallende Entschädigung, sondern ein
+variabler Lohnanspruch darstelle. Sofern die Ziele erreicht worden seien,
+habe keine Freiwilligkeit mehr bestanden und die Beklagte sei folglich zur
+Auszahlung des Bonus verpflichtet gewesen. Ferner sei die Jahreszielvergütung
+von den zuständigen Organen der Beklagten unterschriftlich anerkannt worden.
+Überdies sei es Aufgabe der Beklagten klarzustellen, welche Lohnbestandteile
+nicht versichert seien. Mit dem Wechsel zum System der Jahreszielvergütung
+habe sie dies aber gerade nicht getan, was ihr zum Nachteil zu gereichen
+habe.
+2.2
+Die Beklagte bringt vor, der Arbeitsvertrag (inkl.
+Zusätze) regle die arbeitsvertraglichen Abreden zwischen ihr und
+C.______ sel. Darin seien keine Ansprüche auf Boni oder
+Erfolgsbeteiligungen vorgesehen, weshalb die Ausrichtung solcher Zahlungen
+auf freiwilliger Basis erfolgt sei. Sodann sei die invalidisierende
+Arbeitsunfähigkeit bei C.______ sel. am 30. Oktober 2014 eingetreten,
+womit die Lohndaten im Jahr 2014 massgebend seien. Zu Beginn des Jahres
+2014 habe er einen Monatslohn von Fr. 8'469.- erhalten, welcher ab
+Mai 2014 auf Fr. 8'629.60 erhöht worden sei. Da ab diesem Zeitpunkt
+ein dreizehnfacher Monatslohn vereinbart gewesen sei, entspreche dieser dem
+anrechenbaren Jahreslohn. Des Weiteren werde im Reglement festgehalten,
+welche Entschädigungen und Lohnteile bei der Berechnung des anrechenbaren
+Jahreslohns nicht zu berücksichtigen seien. Dazu gehörten gelegentlich
+anfallende Entschädigungen und Lohnteile, wie Erfolgsbeteiligungen und
+Gratifikationen. Sodann habe sie bei der Ausrichtung der Zahlungen die
+entsprechenden Vorbehalte in den Mitteilungen angebracht, wodurch mit
+C.______ sel. im Ergebnis kein Bonus vereinbart worden sei. Vielmehr sei
+ihm lediglich ein Zielbonus in Aussicht gestellt worden. Im Mai 2014 sei
+diesbezüglich ein solcher von Fr. 12'000.- angekündigt worden, worauf
+C.______ sel. einen Betrag von Fr. 18'268.- erhalten habe. Wie und nach
+welchen Kriterien sie diesen berechnet habe, habe in ihrem freien Ermessen
+gestanden. Sie sei weder bei der Festsetzung des Zielbonus noch bei der
+Festlegung des ausbezahlten Bonusbetrags in irgendeiner Weise gebunden
+gewesen. Die an C.______ sel. ausgerichteten Boni seien somit freiwillige
+Gratifikationen gemäss Art. 322d Abs. 1 des Obligationenrechts vom
+30. März 1911 (OR) gewesen. Zu berücksichtigen sei überdies, dass der
+anrechenbare Jahreslohn im Jahr 2014 über dem obligatorischen Bereich der
+beruflichen Vorsorge gelegen habe. Im überobligatorischen Bereich sei eine
+Vorsorgeeinrichtung grundsätzlich frei zu bestimmen, welche Lohnbestandteile
+versichert würden. Dementsprechend sei im Reglement festgehalten worden, dass
+nur der regelmässig ausgerichtete Fixlohn, jedoch keine variablen Vergütungsbestandteile
+versichert würden. Damit habe sie die Bonuszahlungen richtigerweise nicht als
+Lohn angerechnet.
+2.3
+Die Beigeladene hält fest, der von
+C.______ sel. zuletzt erzielte AHV-Jahreslohn habe im Bereich der
+überobligatorischen Vorsorge gelegen. Diesbezüglich könne die
+Vorsorgeeinrichtung grundsätzlich frei darüber entscheiden, welche
+Lohnbestandteile versichert würden. Demzufolge sei es möglich, lediglich den
+Grundlohn zu versichern und variable Vergütungselemente von der Versicherung
+auszuklammern. Die Personalfürsorgestiftung der Beklagten habe von dieser
+Möglichkeit Gebrauch gemacht und reglementarisch festgehalten, dass einzig
+der dreizehnfache Monatslohn zu versichern sei. Das Reglement schliesse
+sodann zusätzliche Vergütungselemente explizit aus. Angesichts der klaren
+reglementarischen Ordnung sowie unter Berücksichtigung der Tatsache, dass die
+im Streit liegenden Zahlungen einen überobligatorischen Lohnbereich beträfen,
+erweise sich die Klage als unbegründet.
+3.
+3.1
+Die obligatorische b
+erufliche Vorsorge
+umfasst alle Massnahmen auf kollektiver Basis, die den Hinterbliebenen bei
+Eintritt des Versicherungsfalls (Alter, Tod oder Invalidität) zusammen mit
+den Leistungen der eidgenössischen Alters-, Hinterlassenen- und
+Invalidenversicherung (AHV/IV) die Fortsetzung der gewohnten Lebenshaltung in
+angemessener Weise erlauben (Art. 1 Abs. 1 BVG).
+Die obligatorische Versicherung beginnt mit
+Stellenantritt und endet grundsätzlich im Zeitpunkt der Auflösung des
+Arbeitsverhältnisses (Art. 10 Abs. 1 und Abs. 2 lit. b BVG).
+3.2
+Anspruch auf eine Witwen- oder Witwerrente hat der
+überlebende Ehegatte, wenn er beim Tod des Ehegatten für den Unterhalt
+mindestens eines Kindes aufkommen muss oder älter als 45 Jahre ist und
+die Ehe mindestens fünf Jahre gedauert hat (Art. 19 Abs. 1 BVG). Der
+überlebende Ehegatte, der keine dieser Voraussetzungen erfüllt, hat Anspruch
+auf eine einmalige Abfindung in Höhe von drei Jahresrenten (Art. 19 Abs.
+2 BVG).
+3.3
+3.3.1
+Die Vorsorgeeinrichtungen sind im Rahmen des BVG in
+der Gestaltung ihrer Leistungen, in deren Finanzierung und in ihrer
+Organisation frei (Art. 49 Abs. 1 BVG). Gewährt eine
+Vorsorgeeinrichtung mehr als die Mindestleistungen, so gelten für die
+weitergehende Vorsorge nur die in Art. 49 Abs. 2 BVG aufgeführten
+Vorschriften.
+3.3.2
+Im Bereich der weitergehenden
+Vorsorge wird das Rechtsverhältnis zwischen der Vorsorgeeinrichtung und dem
+Vorsorgenehmer durch einen privatrechtlichen Vorsorgevertrag begründet, der
+rechtsdogmatisch den Innominatverträgen zuzuordnen ist
+(BGE 130 V 103 E. 3.3, mit Hinweisen). Als solcher
+untersteht er in erster Linie den allgemeinen Bestimmungen des OR. Das
+Basisreglement stellt den vorformulierten Inhalt des Vorsorgevertrags bzw.
+dessen Allgemeine Versicherungsbedingungen (AVB) dar, denen sich die
+versicherte Person ausdrücklich oder durch konkludentes Verhalten unterzieht
+(BGE 132 V 149 E. 5). Dies schliesst allerdings nicht aus, dass im Einzelfall
+vom Reglement abweichende Abreden getroffen werden können. Allerdings bedarf
+es hierfür einer entsprechenden Vereinbarung zwischen der Vorsorgeeinrichtung
+und dem versicherten Arbeitnehmer (BGE 131 V 27 E. 2.1).
+4.
+4.1
+Eine
+Gratifikation ist eine Sondervergütung, welche die Arbeitgeberin neben dem
+Lohn bei bestimmten Anlässen, wie Weihnachten oder Abschluss des
+Geschäftsjahrs, ausrichtet (Art. 322d Abs. 1 OR). Sie zeichnet sich gegenüber
+dem Lohn dadurch aus, dass sie zum Lohn hinzutritt und immer in einem
+gewissen Masse vom Willen der Arbeitgeberin abhängt. Die Gratifikation wird damit
+ganz oder zumindest teilweise freiwillig ausgerichtet. Davon ist auszugehen,
+wenn der Arbeitgeberin zumindest bei der Festsetzung der Höhe des Bonus ein
+Ermessen zusteht. Ein solches Ermessen ist zu bejahen, wenn die Höhe des
+Bonus nicht nur vom Erreichen eines bestimmten Geschäftsergebnisses, sondern
+überdies von der subjektiven Einschätzung der persönlichen Arbeitsleistung
+durch die Arbeitgeberin abhängig gemacht wird. Ein im Voraus festgesetzter
+und fest vereinbarter Betrag kann daher keine Gratifikation sein
+(BGE 139 III 155 E. 3.1, mit Hinweisen).
+4.2
+Sofern die Höhe des versprochenen Bonus
+bestimmt oder aufgrund objektiver Kriterien
+bestimmbar ist und die Ausrichtung nicht vom Ermessen der Arbeitgeberin
+abhängt, liegt ein (variabler) Lohnbestandteil vor (vgl. BGer-Urteil
+4A_463/2017 vom 4. Mai 2018 E. 3.1.2, mit Hinweisen).
+4.3
+Ein Vorbehalt der Freiwilligkeit ist unbehelflich,
+wenn er als nicht ernst gemeinte, leere Floskel angebracht wird und die
+Arbeitgeberin durch ihr ganzes Verhalten zeigt, dass sie sich zur Auszahlung
+einer Gratifikation verpflichtet fühlt. Deshalb kann die Gratifikation auch
+dann als vereinbart gelten, wenn jahrzehntelang eine Gratifikation mit dem
+Vermerk der Freiwilligkeit ausbezahlt wird, dieser Vorbehalt aber nie in Anspruch
+genommen wird. Indessen rechtfertigt sich dies aber nur, wenn die
+Arbeitgeberin in dieser Zeit auch Grund dafür gehabt hätte, die Gratifikation
+nicht auszurichten, wie beispielsweise bei einem schlechten Geschäftsgang
+oder einer schlechten Arbeitsleistung einzelner Arbeitnehmerinnen oder
+Arbeitnehmer (BGE 129 III 276 E. 2.3, mit Hinweisen).
+5.
+5.1
+Streitgegenstand im vorliegenden Verfahren bildet
+die Frage, ob die von der Beklagten an C.______ sel. geleisteten
+Bonuszahlungen berufsvorsorgerechtlich zum versicherten Verdienst
+hinzuzurechnen sind. Hierzu sind die Erklärungen zwischen der Beklagten und
+C.______ sel. nach dem Vertrauensprinzip auszulegen, da sich ein
+übereinstimmender wirklicher Wille nicht mehr ermitteln lässt (vgl. zum Ganzen
+BGE 140 V 145 E. 3.3,132 V 149 E. 5, 130 V 80 E. 3.2.2, 122 V
+142 E. 4c).
+5.2
+5.2.1
+Gemäss Ziff. 5 des Arbeitsvertrags vom 14. bzw. 19.
+September 2000 betrug der Jahreslohn (brutto) 13 x Fr. 6'500.-. Ferner
+waren die Arbeitnehmerinnen und Arbeitnehmer bei der Personalfürsorgestiftung
+der Beklagten angeschlossen und erklärten, das entsprechende Reglement
+erhalten und davon Kenntnis genommen zu haben. Am 9. November 2011
+informierte die Beklagte C.______ sel. über die Änderung seines
+Arbeitsvertrags. Dieser willigte am 15. November 2011 ein, ab dem
+1. Januar 2012 weiterhin in einem Arbeitsverhältnis mit der Beklagten zu
+stehen. In Abänderung des bisherigen Vorgehens zur jährlichen Lohnerhöhung
+würden die Mitarbeiterförderungsgespräche erst ab Anfang Jahr 2012 geführt
+werden können. Die Lohnanpassungen für alle Arbeitnehmerinnen und
+Arbeitnehmer erfolgten sodann jeweils ab dem 1. Mai des Kalenderjahres.
+Im Falle einer Übertragung des Arbeitsverhältnisses auf eine andere Firma
+innerhalb der Unternehmen des […] Konzerns würden die bestehenden Konditionen
+(wie Entlöhnung, Funktion, Anrechnung Dienstjahre, Allgemeine
+Arbeitsbedingungen und bisherige allgemeine Regelungen) aufrechterhalten.
+5.2.2
+Die Klägerin rügt, dass die Arbeitnehmerinnen und
+Arbeitnehmer mit der
+Änderung des
+Arbeitsvertrags vom 15. November 2011 nicht mehr einen dreizehnfachen
+Monatslohn erhalten hätten, sondern einen Jahreslohn, der sich anhand des
+Grundgehalts und des Jahreszielbonus ermitteln lasse.
+Soweit sie damit geltend macht, mit
+der Änderung des Arbeitsvertrags sei ein neues Entschädigungssystem
+eingeführt worden, ist ihr jedoch nicht zu folgen. So nannte die Beklagte im
+Schreiben vom 9. November 2011 lediglich
+den neuen Zeitpunkt für die Durchführung der Mitarbeiterförderungsgespräche
+sowie denjenigen für die Lohnanpassungen. Dies erhellt jedoch nicht, dass die
+Beklagte vom bisherigen Entschädigungssystem abweichen wollte und mit Blick
+auf die Auslegung nach dem Vertrauensprinzip (
+vgl. dazu vorstehende E. II/5.1)
+ist nicht davon auszugehen, dass die Beklagte
+C.______ sel. mit der Vertragsänderung vorbehaltlos einen
+Jahreszielbonus hat zusichern wollen. Vielmehr wies sie darauf hin, dass bei
+einer Übertragung des Arbeitsverhältnisses auf ein anderes Unternehmen
+innerhalb des […] Konzerns sämtliche bestehenden Konditionen aufrechterhalten
+würden, was insbesondere die Entlöhnung und die bisherigen allgemeinen
+Regelungen umfasse. Dies hat bei objektiver Betrachtung auch für diejenigen
+Arbeitnehmerinnen und Arbeitnehmer zu gelten, deren Arbeitsverhältnisse nicht
+auf ein anderes Unternehmen innerhalb des […] Konzerns übertragen werden,
+zumal die Vertragsänderung vom 15. November 2011 keinen entsprechenden
+Verweis enthält, wonach diese Vereinbarung sämtliche früheren Vereinbarungen
+zwischen der Beklagten und den Arbeitnehmerinnen und Arbeitnehmern bezüglich
+Beschäftigung und Entlöhnung ersetzt. Eine grundlegende Abkehr vom bisherigen
+Lohnsystem lag somit nicht vor. Dementsprechend sehen sowohl der
+Arbeitsvertrag in Ziff. 5 als auch Art. 2 Abs. 2 des Reglements
+einen dreizehnfachen Monatslohn als Jahreslohn vor. Ferner ist d
+en Lohnjournalen zu entnehmen, dass die Beklagte
+C.______ sel. auch nach der Vertragsänderung vom 15. November 2011
+einen dreizehnfachen Monatslohn ausrichtete und sie eine allfällige
+Lohnerhöhung jeweils im Monat Mai des laufenden Jahres vornahm, was ebenfalls
+gegen die Einführung eines neuen Lohnsystems spricht. Zwar ergibt sich aus
+den Schreiben der Beklagten, dass sie C.______ sel. jeweils über dessen
+Jahreszielvergütung informierte. Die sehr allgemein gehaltene Formulierung
+deutet jedoch nicht auf einen Wechsel zu einem neuen Entschädigungssystem
+hin. Dies nicht zuletzt, weil die Bonusmitteilungen regelmässig mit einem
+Freiwilligkeitsvorbehalt versehen waren.
+5.2.3
+Als Zwischenfazit ist festzuhalten, dass sich ein
+Wechsel zu einem neuen Lohnsystem weder aus dem Arbeitsvertrag noch aus den
+Vertragszusätzen ergibt. Darüber hinaus liegt keine schriftliche Vereinbarung
+zwischen der Beklagten und C.______ sel. vor, wonach beim Lohn die
+variablen Lohnkomponenten zu berücksichtigen wären. Eine
+Auslegung
+nach dem Vertrauensprinzip ergibt zudem, dass aus objektiver Sicht ein
+Empfänger des Schreibens über die Änderung des Arbeitsvertrags
+ohne
+Weiteres in die Lage versetzt wird, zu erkennen, welche Vertragspunkte
+geändert wurden und welche weiterhin bestehen.
+5.3
+5.3.1
+Der Jahreslohn von C.______ sel. überstieg im
+relevanten Zeitraum den oberen Grenzbetrag des in Art. 8 Abs. 1 BVG
+festgelegten koordinierten Lohns. Die Personalfürsorgestiftung der Beklagten
+erbrachte gestützt auf die eigenen reglementarischen Bestimmungen
+infolgedessen zu Recht Leistungen im Bereich des Überobligatoriums, wobei sie
+diesbezüglich vom Begriff des massgebenden Lohns im Sinne von Art. 5
+Abs. 2 des Bundesgesetzes über die Alters- und
+Hinterlassenenversicherung vom 20. Dezember 1946 (AHVG) abwich. Diese
+Abweichung muss sich indessen genügend klar aus dem Vorsorgereglement
+ergeben. Nicht massgebend ist dabei, ob das Reglement die versicherten
+Bestandteile positiv oder die nicht versicherten Bestandteile negativ
+festlegt (vgl. zum Ganzen BGE 140 V 145 E. 3.2; BGer-Urteil
+B 115/05 vom 10. April 2006 E. 4.3 f.). Mit Blick darauf kann
+die Vorsorgeeinrichtung den Bonus, Provisionen sowie Erfolgsbeteiligungen
+(variable Vergütungselemente) vom versicherten Lohn ganz oder teilweise
+ausnehmen und nur den Grundlohn versichern (vgl. Hanspeter
+Konrad/Michael Lauener, Variable Vergütungen in der beruflichen Vorsorge, in
+SZS 2020, S. 384 ff., S. 392, mit Hinweisen).
+5.3.2
+Ab dem 1. Januar 2015 waren die Arbeitnehmerinnen
+und Arbeitnehmer bei der Beigeladenen versichert. Die Parteien bestreiten zu
+Recht nicht, dass C.______ sel. seit dem 30. Oktober 2014 erheblich in
+seiner Arbeitsfähigkeit eingeschränkt war und die invalidisierende
+Arbeitsunfähigkeit das Vorsorgeverhältnis bei der damaligen
+Personalfürsorgestiftung der Beklagten betraf, womit im Ergebnis das
+Reglement vom 1. Mai 2014 anwendbar ist. Demgemäss wird der anrechenbare
+Jahreslohn von der Arbeitgeberin festgelegt und der Pensionskasse jeweils per
+1. Januar bzw. beim Eintritt gemeldet (Art. 2 Abs. 1
+Reglement). Der Jahreslohn entspricht in der Regel dem dreizehnfachen
+Monatslohn des Vorjahres unter Berücksichtigung der für das neue Kalenderjahr
+bereits vereinbarten Änderungen (Art. 2 Abs. 2 Reglement).
+Unterjährige Lohnveränderungen werden sofort berücksichtigt, sofern die
+Änderungen Fr. 5'000.- pro Jahr übersteigen. Ansonsten folgt die
+Anpassung auf den 1. Januar (Art. 2 Abs. 3 Reglement). Bei der
+Berechnung des Jahreslohns bleiben nur gelegentlich anfallende
+Entschädigungen und Lohnteile unberücksichtigt. Als solche gelten
+vorübergehende Zulagen und Nebenbezüge wie Kinder- und Familienzulagen,
+Überstunden- und Überzeitentschädigungen, Erfolgsbeteiligungen und Gratifikationen
+sowie Berufsauslagen aller Art (Art. 2 Abs. 4 Reglement). Der
+versicherte Lohn entspricht dem anrechenbaren Jahreslohn abzüglich des
+Koordinationsabzugs (Art. 3 Abs. 1 Reglement).
+5.3.3
+Die Beklagte weist zu Recht darauf hin, dass das
+Reglement den anrechenbaren Jahreslohn sowohl positiv wie auch negativ
+definiert. Einerseits sieht Art. 2 Abs. 2 des Reglements vor, dass
+der anrechenbare Jahreslohn in der Regel dem dreizehnfachen Monatslohn unter
+Berücksichtigung der vereinbarten Änderungen entspricht. Diesfalls bezieht
+sich die Verpflichtung, wonach die für das neue Kalenderjahr bereits
+vereinbarten Änderungen zu berücksichtigen sind, nur auf die im Zeitpunkt der
+Festsetzung des koordinierten Lohns bereits abgesprochenen und bekannten
+Änderungen (vgl. hierzu BGer-Urteil B 20/05 vom 15. Februar 2007 E.
+4.2). Die jährlichen Lohnanpassungen ab dem 1. Mai des Kalenderjahres waren
+vereinbart und folglich bekannt, weswegen sie zu Recht beim versicherten Lohn
+berücksichtigt wurden. Fraglich ist indessen, ob darunter auch die
+ausgerichteten Boni fallen. Die massgebende Bestimmung des Reglements
+schliesst nämlich lediglich Lohnbestandteile
+vom
+anrechenbaren Jahreslohn aus, welche "gelegentlich" und
+"vorübergehend" anfallen. Vor dem Hintergrund, dass der Begriff des
+Bonus gesetzlich nicht definiert wird, bleibt nachfolgend zu prüfen, ob der
+streitbetroffene Bonus als
+Gratifikation
+im Sinne von
+Art. 322d OR
+oder als variabler
+Lohnbestandteil
+im
+Sinne von Art. 322 OR zu qualifizieren ist (vgl. BGE 142
+III 381 E. 2, mit Hinweis)
+.
+Hierbei ist unbestritten, dass C.______ sel. in
+den letzten Jahren Boni bzw. Erfolgsprämien erhalten hat (Fr. 2
+'
+057.85 im
+Jahr 2013, Fr. 11'258.- im Jahr 2014, Fr. 18'268.- im Jahr 2015
+sowie Fr. 18'480.- im Jahr 2016).
+5.3.4
+Die Beklagte informierte C.______ sel. jeweils
+im Mai des entsprechenden Kalenderjahres über die Anpassung der
+Jahreszielvergütung und stellte ihm jährlich einen Zielbonus in Aussicht.
+Wird der Bonus an das Erreichen gewisser Ziele geknüpft, sind diese naturgemäss
+für eine bestimmte Periode vorgängig genügend konkret festzulegen. Den im
+Recht liegenden Akten ist jedoch keine mit C.______ sel. abgeschlossene
+Zielvereinbarung zu entnehmen, anhand derer die individuelle Leistung hätte
+beurteilt und der Bonus bemessen werden können. Es wurde vorgängig lediglich
+die Höhe des Zielbonus mitgeteilt. Aus diesem Umstand lässt sich allerdings
+nicht unbesehen auf eine Gratifikation schliessen, zumal auch denkbar ist,
+dass die Beklagte die Festlegung der Ziele versäumt oder zwischen den
+Parteien eine stillschweigende Abrede über den geschuldeten Lohn bestanden
+hat. Indessen liegen aber, wie nachfolgend aufgezeigt wird, konkrete
+Anhaltspunkte vor, dass der Entscheid darüber, ob und in welcher Höhe ein
+Bonus auszurichten war, im Ermessen der Beklagten lag.
+5.3.4.1
+Zunächst ist darauf hinzuweisen, dass die Beklagte
+in der Mitteilung vom 11.
+April
+2013 einen Freiwilligkeitsvorbehalt angebracht hat, wonach der Bonus eine
+freiwillige Leistung der Arbeitgeberin sei und kein Rechtsanspruch darauf
+bestehe. Am 10. April 2014 wiederholte die Beklagte diesen Hinweis und
+führte weiter aus, dass schwerwiegende Verstösse gegen den Code of Conduct
+des Unternehmens und gegen Compliance-Grundsätze dazu führen würden, dass
+kein Anspruch auf den Zielbonus bestehe. Des Weiteren lässt sich dieser
+Vorbehalt auch in der Bonusmitteilung vom 10. April 2015 finden. Die
+Ausrichtung des Bonus unter dem Vorbehalt der Freiwilligkeit schliesst die
+Entstehung einer konkludenten Gratifikationsvereinbarung grundsätzlich aus.
+Bezogen auf die vorliegenden Verhältnisse ist überdies erstellt, dass der
+Bonus seit der Änderung des Arbeitsvertrags vom 15. November 2011 stets
+und dies auch während der Arbeitsunfähigkeit von C.______ sel.
+ausgerichtet wurde, obwohl die Beklagte mit der Arbeitsunfähigkeit von
+C.______ sel. einen Grund gehabt hätte, auf eine Ausrichtung zu
+verzichten (vgl. BGE 129 III 276 E. 2.3). Daraus kann die Klägerin
+aber nichts zu ihren Gunsten ableiten, da die streitbetroffenen Leistungen
+nicht während mehr als zehn Jahren mit dem ausdrücklichen Hinweis auf ihren
+freiwilligen Charakter ausbezahlt wurden. Eine Verpflichtung zur Ausrichtung
+des Bonus durch konkludentes Verhalten entstand somit (noch) nicht, weshalb
+der Freiwilligkeitsvorbehalt nicht als leere Floskel verstanden werden kann
+(vgl. zum Ganzen Wolfgang Portmann / Roger Rudolph, in Corinne
+Widmer Lüchinger/David Oser
+[Hrsg.],
+Basler Kommentar, Obligationenrecht I, Art. 1-529 OR, 7. A., 2020, Art.
+322d N. 10 f.). Darüber hinaus wies die
+Beklagte in den Bonusmitteilungen ausdrücklich auf die Einhaltung von Compliancestandards
+hin. Damit scheint es in der Verantwortung von C.______ sel. gelegen zu
+haben, die seiner Tätigkeit inhärenten Risiken zu kontrollieren, andernfalls
+er Gefahr liefe, bei schwerwiegenden Verstössen keinen Bonus zu erhalten. Die
+Erfüllung dieser Bedingung basierte somit nicht (nur) auf objektiven
+Kriterien, sondern sie bedurfte auch einer subjektiven Beurteilung durch die
+Beklagte (vgl. BGer-Urteil 4A_513/2017 vom 5. September 2018
+E. 7.2.2).
+5.3.4.2
+Sodann lassen sich die konkreten Berechnungsgrundlagen
+für den Bonus nicht ermitteln. Zwar berücksichtigte die Beklagte hierbei
+jeweils einen "Corporate Factor", dessen Höhe offenbar einen
+Zusammenhang zum jährlichen Geschäftsergebnis aufwies und womit wohl eine
+gewisse Objektivität bei der Berechnung des Bonus angestrebt wurde.
+Allerdings verblieb der Beklagten bei der Festlegung der Unternehmensziele
+und deren Gewichtung ein gewisser Ermessenspielraum. Dies nicht zuletzt
+dadurch, dass die genauen Berechnungsgrundlagen des "Corporate Factors"
+offenbar einzig der Beklagten bekannt waren und sie diesen entsprechend ihren
+Zielen anpassen konnte. Sodann wies die Klägerin zu Recht darauf hin, dass
+C.______ sel. für das Jahr 2014 einen Bonus in der Höhe von
+Fr. 18'268.- erhalten habe und dieser auch nach Abzug des
+"Corporate Factors" über dem am 9. Mai 2014 mitgeteilten Bonus
+von Fr. 12'000.- lag. Damit stand der Beklagten bei der Festsetzung der
+Höhe des Bonus offensichtlich ein Ermessen zu. Die Höhe der variablen
+Vergütung war somit nicht nur vom Erreichen eines bestimmten
+Geschäftsergebnisses abhängig und wurde folglich nicht allein aufgrund
+vorbestimmter bzw. objektiv bestimmbarer Berechnungsrundlagen ermittelt.
+Soweit die Klägerin alsdann geltend macht, es sei mindestens der Zielbonus
+von Fr. 12'000.- beim versicherten Verdienst anzurechnen, verkennt sie,
+dass die Beklagte mit dem Bonus von Fr. 12'000.- nicht eine starre
+Untergrenze festgelegt hat. Vielmehr stellt der Bonus in der Höhe von Fr.
+12'000.- eine Zielgrösse dar, die abhängig vom Geschäftserfolg und der
+subjektiven Leistung nicht nur über-, sondern auch unterschritten werden
+kann. Dies ergibt sich letztlich aus der Höhe der ausgerichteten
+Bonusauszahlungen. Im Übrigen erweisen sich die tatsächlich ausgerichteten
+Boni gegenüber dem Jahresgrundgehalt als zweitrangig bzw. als akzessorisch
+(vgl. zum Ganzen BGE 139 III 155 E. 5.3).
+Nach dem Gesagten
+verfügte die Beklagte b
+ei der Berechnung des
+Bonus über ein relativ weites Ermessen.
+5.3.5
+Im Ergebnis sind die streitbetroffenen Boni als
+(echte) Gratifikationen zu qualifizieren. Auf diese besteht kein Anspruch, da
+der Beklagten sowohl bezüglich der Ausrichtung als auch der Höhe ein Ermessen
+zukam. Demgemäss handelt es sich bei den Leistungen nicht um vereinbarte
+Änderungen, welche im Zeitpunkt der Festsetzung des koordinierten Lohns
+bereits zugesichert und bekannt waren (vgl. Art. 2 Abs. 2
+Reglement). Vielmehr sind sie im Sinne von Art. 2 Abs. 4 des Reglements als "gelegentlich"
+und "vorübergehend" zu qualifizieren. Insgesamt nimmt Art. 2
+des Reglements damit in genügend klar umschriebener Weise die gelegentlich
+bzw. vorübergehend anfallenden Lohnbestandteile vom versicherten Lohn
+aus, womit die Beklagte die ausgerichteten Boni zu Recht nicht beim
+versicherten Lohn berücksichtigt hat. Bei diesem Verfahrensausgang erübrigt
+sich eine Prüfung der Verjährung der Bonuszahlungen.
+6.
+Zusammenfassend ergibt
+sich, dass mit der Änderung des Arbeitsvertrags vom 9. November 2011
+keine grundlegende Abkehr vom bisherigen Lohnsystem erfolgte. Sodann sind die
+an C.______ sel. ausbezahlten Boni als (echte) Gratifikationen zu
+qualifizieren, die gemäss den anwendbaren reglementarischen Regeln beim
+versicherten Lohn unberücksichtigt zu bleiben haben.
+Dies führt zur Abweisung
+der Klage.
+III.
+1.
+Gemäss Art. 73 Abs. 2 BVG
+sind die Gerichtskosten von Gesetzes wegen auf die Staatskasse zu nehmen.
+2.
+Mangels Obsiegens steht
+der Klägerin keine Parteientschädigung zu (Art. 138 Abs. 2 VRG).
+Eine solche ist aber der obsiegenden Beklagten zuzusprechen, weshalb die Klägerin
+gestützt auf Art. 138 Abs. 2 VRG zu verpflichten ist, dieser eine
+Parteientschädigung von pauschal Fr. 2'000.- (inkl. Mehrwertsteuer) zu
+bezahlen (vgl. Urteil des Verwaltungsgerichts des Kantons Bern 200 20
+839 BV vom 3. Juni 2021 E. 4.2). Sodann darf
+i
+m verwaltungsgerichtlichen Verfahren der obsiegenden
+Behörden oder mit öffentlich-rechtlichen Aufgaben betrauten Organisationen in
+der Regel keine Parteientschädigung zugesprochen werden. In Anwendung dieser
+Bestimmung hat das Eidgenössische Versicherungsgericht der SUVA und den
+privaten UVG-Versicherern sowie - von Sonderfällen abgesehen - den
+Krankenkassen keine Parteientschädigungen zugesprochen, weil sie als
+Organisationen mit öffentlich-rechtlichen Aufgaben zu qualifizieren sind. Das
+hat grundsätzlich auch für die Trägerinnen oder Versicherer der beruflichen
+Vorsorge gemäss BVG zu gelten (
+BGE 126 V 143 E. 4a, mit
+Hinweisen).
+Die
+Beigeladene hat somit
+als Vorsorgeeinrichtung keinen Anspruch auf eine Parteientschädigung.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Klage wird abgewiesen.
+2.
+Die
+Gerichtskosten werden auf die Staatskasse genommen.
+3.
+Die
+Klägerin wird verpflichtet, der Beklagten innert 30 Tagen nach
+Rechtskraft dieses Entscheids eine Parteientschädigung von Fr. 2'000.-
+(inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
