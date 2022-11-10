@@ -1,0 +1,543 @@
+---
+decision_id: "gl_gerichte_VG.2022.00037"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2022.00037"
+docket_2: "VG.2022.1183"
+decided: "2022-11-10"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1618&W10_KEY=218274&nTrefferzeile=2&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-007.md", "switzerland/bund/acts/830.1/art-016.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.20/art-001.md", "switzerland/bund/acts/831.20/art-028.md", "switzerland/bund/acts/831.20/art-028a.md", "switzerland/bund/acts/831.20/art-069.md", "switzerland/bund/acts/831.201/art-026.md"]
+---
+
+# GL Gerichte VG.2022.00037
+
+## Regeste
+
+Sozialversicherung - IV
+
+## Text
+
+Glarus Verwaltungsgericht 10.11.2022 VG.2022.00037 (VG.2022.1183)
+Glaris Verwaltungsgericht 10.11.2022 VG.2022.00037 (VG.2022.1183)
+Glarona Verwaltungsgericht 10.11.2022 VG.2022.00037 (VG.2022.1183)
+
+Sozialversicherung - IV
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+10. November 2022
+II. Kammer
+Besetzung:
+Gerichtspräsident MLaw Colin Braun, Verwaltungsrichter Walter Salvadori,
+Verwaltungsrichter Samuel Bisig und Gerichtsschreiberin MLaw Paula Brändli
+in Sachen
+VG.2022.00037
+A.______
+Beschwerdeführer
+vertreten durch
+Prof.
+Dr.
+Hardy
+Landolt,
+Rechtsanwalt
+gegen
+IV-Stelle Glarus
+Beschwerdegegnerin
+betreffend
+Invalidenrente
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+A.______, geboren am […], meldete sich am 14.
+Oktober 2013 zum Bezug von Leistungen der Invalidenversicherung an. Daraufhin
+gewährte ihm die IV-Stelle Glarus in den Jahren 2015 bis 2017 berufliche
+Massnahmen. Am 16. September 2016 ersuchte er erneut um Leistungen der
+Invalidenversicherung. Am 21. Dezember 2017 zeigte die IV-Stelle den
+Abschluss der beruflichen Massnahmen und eine Rentenprüfung an.
+1.2
+In der Folge klärte die IV-Stelle den medizinischen
+Sachverhalt ab und gab insbesondere ein polydisziplinäres Gutachten bei der
+B.______GmbH in Auftrag, welches am 18. November 2020 erstattet wurde.
+Gestützt darauf stellte sie A.______ mit Vorbescheid vom 11. August 2021 die
+Zusprache einer halben Invalidenrente ab dem 1. Januar 2018 in Aussicht,
+woran sie trotz der von ihm dagegen erhobenen Einwände mit Verfügung vom
+17. Mai 2022 festhielt.
+2.
+A.______ gelangte mit
+Beschwerde vom 16. Juni 2022 ans Verwaltungsgericht und beantragte die
+Zusprache einer ganzen Invalidenrente ab dem 1. Januar 2018.
+Eventualiter sei die Sache an die IV-Stelle zurückzuweisen; alles unter
+Kosten- und Entschädigungsfolgen zu Lasten der IV-Stelle sowie unter
+Gewährung der unentgeltlichen Prozessführung und der unentgeltlichen Rechtsverbeiständung.
+Die IV-Stelle schloss am 13. September 2022 auf Abweisung der Beschwerde.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 69
+Abs. 1 lit. a des Bundesgesetzes über die Invalidenversicherung vom
+19. Juni 1959 (IVG) zur Behandlung der vorliegenden Beschwerde
+zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt sind, ist auf
+die Beschwerde einzutreten.
+1.2
+Am 1. Januar 2022 trat die Änderung des IVG vom 19.
+Juni 2020 (Weiterentwicklung der IV; AS 2021 705) in Kraft.
+Erfolgt
+die Verfügung über die erstmalige Rentenzusprache nach diesem Inkrafttreten
+und begründet gleichzeitig aber einen Rentenanspruch vor diesem Zeitpunkt,
+sind die Bestimmungen des IVG und diejenigen der
+Verordnung
+über die Invalidenversicherung vom 17. Januar 1961 (IVV) indessen
+in
+der bis zum 31. Dezember 2021 gültigen Fassung massgebend (Kreisschreiben
+über Invalidität und Rente in der Invalidenversicherung [KSIR]) vom
+1. Januar 2022, Rz. 9101). Vorliegend ist ein Rentenanspruch ab dem
+1. Januar 2018 zu beurteilen, weshalb nach dem oben Dargelegten die
+Bestimmungen des IVG und der IVV in der Fassung bis zum 31. Dezember
+2021 zur Anwendung gelangen.
+2.
+2.1
+Gemäss
+Art. 8 Abs. 1 des Bundesgesetzes über den Allgemeinen Teil des
+Sozialversicherungsrechts vom 6. Oktober 2000
+(ATSG
+) ist
+Invalidität die voraussichtlich bleibende oder längere Zeit dauernde ganze
+oder teilweise Erwerbsunfähigkeit. Erwerbsunfähigkeit ist dabei der durch
+eine Beeinträchtigung der körperlichen, geistigen oder psychischen Gesundheit
+verursachte und nach zumutbarer Behandlung sowie Eingliederung verbleibende
+ganze oder teilweise Verlust der Erwerbsmöglichkeiten auf dem in Betracht
+kommenden ausgeglichenen Arbeitsmarkt (Art. 7 Abs. 1 ATSG).
+2.2
+Nach
+Art. 28 Abs. 2 IVG besteht bei einem Invaliditätsgrad
+von mindestens 40 % Anspruch auf eine Viertelsrente, bei einem solchen
+von mindestens 50 % auf eine halbe Rente, bei mindestens 60 % auf
+eine Dreiviertelsrente und ab mindestens 70 % auf eine ganze Rente.
+Gemäss Art. 28a Abs. 1 IVG i.V.m. Art. 16 ATSG ist für
+die Bestimmung des Invaliditätsgrads
+bei erwerbstätigen Versicherten das Erwerbseinkommen, das die versicherte
+Person nach Eintritt der Invalidität und nach Durchführung der medizinischen
+Behandlung und allfälligen Eingliederungsmassnahmen durch eine ihr zumutbare
+Tätigkeit bei ausgeglichener Arbeitsmarktlage erzielen könnte, dem
+Erwerbseinkommen gegenüberzustellen, das sie erzielen könnte, wenn sie nicht
+invalid geworden wäre.
+2.3
+Konnte die versicherte Person wegen der Invalidität
+keine zureichenden beruflichen Kenntnisse erwerben, so entspricht gemäss Art.
+26 Abs. 1 IVV das Erwerbseinkommen, das sie als Nichtinvalide erzielen
+könnte, den folgenden nach Alter abgestuften Prozentsätzen des jährlich
+aktualisierten Medianwerts gemäss Lohnstrukturerhebung des Bundesamts für
+Statistik (LSE): vor Vollendung von 21 Altersjahren 70 %; nach
+Vollendung von 21 Altersjahren und vor Vollendung von
+25 Altersjahren 80 %; nach Vollendung von 25 Altersjahren und
+vor Vollendung von 30 Altersjahren 90 %; danach 100 %.
+Geburts- und Frühinvalide im Sinne von Art. 26 Abs. 1 IVV sind
+Versicherte, die seit ihrer Geburt oder Kindheit an einem Gesundheitsschaden
+leiden und deshalb keine zureichenden beruflichen Kenntnisse erwerben
+konnten. Darunter fallen all jene Personen, die wegen ihrer Invalidität
+überhaupt keine Berufsausbildung absolvieren können
+. Ebenso gehören
+dazu Versicherte, welche zwar eine Berufsausbildung beginnen und allenfalls
+auch abschliessen, zu Beginn der Ausbildung jedoch bereits invalid sind und
+mit dieser Ausbildung nicht dieselben Verdienstmöglichkeiten realisieren
+können wie eine nichtbehinderte Person mit derselben Ausbildung
+(BGer-Urteil 9C_233/2018 vom 11. April 2019
+E. 1.2; Kreisschreiben des Bundesamts für Sozialversicherungen über Invalidität
+und Hilflosigkeit in der Invalidenversicherung [KSIH], gültig ab
+1. Januar 2015, Rz. 3035).
+3.
+3.1
+N
+ach
+dem für das gesamte Verwaltungs- und Verwaltungsgerichtsbeschwerdeverfahren
+geltenden Grundsatz der freien Beweiswürdigung haben Versicherungsträger und
+Sozialversicherungsgerichte die Beweise frei, d.h. ohne Bindung an
+förmliche Beweisregeln, sowie umfassend und pflichtgemäss zu würdigen. Für
+das Beschwerdeverfahren bedeutet dies, dass das Gericht alle Beweismittel,
+unabhängig davon, von wem sie stammen, objektiv zu prüfen und danach zu
+entscheiden hat, ob die verfügbaren Unterlagen eine zuverlässige Beurteilung
+des streitigen Rechtsanspruchs
+gestatten.
+Insbesondere
+darf es bei einander widersprechenden medizinischen Berichten den Prozess
+nicht erledigen, ohne das gesamte Beweismaterial zu würdigen und die Gründe
+anzugeben, warum es auf die eine und nicht auf die andere medizinische These
+abstellt (BGE 125 V 351 E. 3a). Im
+Sozialversicherungsrecht hat das Gericht seinen Entscheid nach dem Beweisgrad
+der überwiegenden Wahrscheinlichkeit zu fällen. Die blosse Möglichkeit eines
+bestimmten Sachverhalts genügt den Beweisanforderungen nicht. Das Gericht hat
+vielmehr jener Sachverhaltsdarstellung zu folgen, die es von allen möglichen
+Geschehensabläufen als die Wahrscheinlichste würdigt
+(BGE 119 V 7 E. 3c/aa, mit Hinweisen).
+3.2
+Es ist Aufgabe des Arztes oder der
+Ärztin, sämtliche Auswirkungen einer Krankheit oder eines Unfalls auf den
+Gesundheitszustand der versicherten Person zu beurteilen und dazu Stellung zu
+nehmen, bezüglich welcher konkreten Tätigkeiten und in welchem Umfang sie
+arbeitsunfähig ist. Die ärztlichen Auskünfte sind sodann eine wichtige
+Grundlage für die Beurteilung der Frage, welche Arbeitsleistungen der
+versicherten Person im Hinblick auf ihre persönlichen Verhältnisse noch
+zugemutet werden können (vgl. BGE 132
+V 93
+E. 4).
+3.3
+Hinsichtlich des Beweiswerts eines
+ärztlichen Gutachtens ist entscheidend, ob es für die Beantwortung der
+gestellten Fragen umfassend ist, auf allseitigen Untersuchungen beruht, die
+geklagten Beschwerden berücksichtigt, in Kenntnis der Vorakten (Anamnese)
+abgegeben worden ist, in der Darlegung der medizinischen Zustände und
+Zusammenhänge einleuchtet, ob die Schlussfolgerungen in einer Weise begründet
+sind, dass die rechtsanwendende Person sie prüfend nachvollziehen kann, sowie
+ob nicht auszuräumende Unsicherheiten und Unklarheiten, welche die
+Beantwortung der Fragen erschweren, gegebenenfalls deutlich gemacht werden.
+Ausschlaggebend für den Beweiswert ist grundsätzlich
+somit weder die Herkunft eines Beweismittels noch die Bezeichnung der
+eingereichten oder in Auftrag gegebenen Stellungnahme als Bericht oder
+Gutachten,
+sondern
+dessen Inhalt
+(vgl. BGE 125 V 351
+E. 3a)
+.
+Dennoch
+hat es die Rechtsprechung mit dem Grundsatz der freien Beweiswürdigung als
+vereinbar erachtet, in Bezug auf bestimmte Formen medizinischer Berichte und
+Gutachten Richtlinien für die Beweiswürdigung aufzustellen. Den im Rahmen des
+Verwaltungsverfahrens eingeholten Gutachten von externen Spezialärztinnen und
+-ärzten, welche aufgrund eingehender Beobachtungen und Untersuchungen sowie
+nach Einsicht in die Akten Bericht erstatten und bei der Erörterung der
+Befunde zu schlüssigen Ergebnissen gelangen, ist bei der Beweiswürdigung
+volle Beweiskraft zuzuerkennen, solange nicht konkrete Indizien gegen die
+Zuverlässigkeit der Expertise sprechen (BGE 137 V 210
+E. 1.3.4).
+4.
+4.1
+Der Beschwerdeführer macht geltend, er habe
+aufgrund der seit Geburt bestehenden gesundheitlichen Beeinträchtigungen
+keine ordentliche schulische Ausbildung absolvieren und nur mit grosser Mühe,
+Unterstützung und dank dem grossen Entgegenkommen der Vorgesetzten die
+Anlehre abschliessen können. Danach sei es ihm aufgrund der
+Entwicklungsstörung und der stark eingeschränkten Intelligenz nicht möglich
+gewesen, auf dem ersten Arbeitsmarkt eine Hilfsarbeitertätigkeit auszuführen
+bzw. eine solche Stelle zu finden. Die im B.______-Gutachten
+festgehaltene Arbeitsfähigkeit in angepasster Tätigkeit mit einem Rendement
+von 50 % sei nicht korrekt. Einerseits hätten die Gutachter diese
+lediglich daraus abgeleitet, dass er die Anlehre im Detailhandel absolviert
+habe. Andererseits seien sie davon ausgegangen, dass er in angestammter
+Tätigkeit weiterhin arbeitsfähig sei. Dies obschon eine solche nicht
+vorhanden sei, da er nach der Anlehre beruflich nicht tätig gewesen sei.
+Folglich könne auf diese Einschätzungen nicht abgestellt werden. Sodann
+hätten sich die Gutachter weder mit dem Umstand, dass die Berufsberater der
+Beschwerdegegnerin seine Arbeitsleistung auf dem konkreten Arbeitsmarkt als
+wirtschaftlich nicht verwertbar taxiert hätten noch mit seinen gescheiterten
+Arbeitsbemühungen auseinandergesetzt. Ferner hätten sie nicht näher
+begründet, weshalb von einem Rendement von 50 % auszugehen sei. Schliesslich
+sei ihm bei der Invaliditätsbemessung der maximale Abzug vom Tabellenlohn zu
+gewähren. Da er aber ohnehin keine Tätigkeit auf dem ersten Arbeitsmarkt
+verwerten könne, sei ihm im Ergebnis eine ganze Invalidenrente zu gewähren.
+4.2
+Die Beschwerdegegnerin macht geltend, dem
+B.______-Gutachten könne aus versicherungsmedizinischer Sicht gefolgt werden.
+Insbesondere sei die darin festgelegte Arbeitsfähigkeit verwertbar, zumal für
+Hilfsarbeiten auf dem ausgeglichenen Arbeitsmarkt keine Ausbildung erforderlich
+sei. Ein soziales Entgegenkommen des Arbeitgebers führe sodann nicht zur
+Verneinung der Verwertbarkeit der Restarbeitsfähigkeit. Diverse Berichte
+zeigten zudem, dass der Beschwerdeführer gute Arbeitsleistungen mit der
+notwendigen Motivation habe erbringen können. So sei es ihm auch in Hinblick
+auf seine Schadenminderungs- und Mitwirkungspflicht zuzumuten, eine
+vollzeitliche Tätigkeit auf dem ersten Arbeitsmarkt zu suchen und auszuüben.
+5.
+5.1
+5.1.1
+Die B.______-Gutachter
+Dr.
+med
+. C.______
+und
+Dr. med. D.______
+stellten in den
+rheumatologischen sowie allgemeininternistischen Teilgutachten keine
+Diagnosen mit Auswirkung auf die Arbeitsfähigkeit.
+Aus rheumatologischer Sicht bestünden keine
+funktionellen Einschränkungen.
+5.1.2
+Dr. med. E.______ stellte im
+psychiatrischen
+Teilgutachten
+als Diagnosen mit Auswirkung auf
+die Arbeitsfähigkeit einen verminderten IQ und eine Entwicklungsstörung mit
+mangelnder Strukturierungsfähigkeit, Probleme in Verbindung mit Ausbildung
+und Bildung, mangelnde schulische Fertigkeiten mit Status nach Problemen in
+Verbindung mit Ausbildung und Bildung sowie einen Status nach Herauslösen aus
+dem Elternhaus in der Kindheit und Jugend mit Heimaufenthalt
+. Es bestehe eine komplexe
+Entwicklungsbeeinträchtigung. Der Versicherte funktioniere nicht auf dem
+Niveau eines […]-jährigen Mannes, sondern zeige eine verminderte kognitive
+sowie intellektuelle Leistungsfähigkeit. Ausserdem bestünden
+Beeinträchtigungen in der Sozialkompetenz und in der Fähigkeit zu Anpassungen
+an Regeln und Routinen. Er sei vermindert belastbar, brauche häufig
+Anweisungen sowie Überwachung und sei auf repetitive Tätigkeiten sowie
+wohlwollende Führung angewiesen.
+5.1.3
+Lic. phil. F.______ diagnostizierte im
+neuropsychologischen Teilgutachten eine leichte bis mittelschwere
+neuropsychologische Funktionsstörung. Im Vordergrund stünden Defizite im
+Bereich Lernen/Gedächtnis, in schulischen Fertigkeiten und in exekutiven
+Funktionen.
+5.1.4
+In der Konsensbeurteilung
+kamen die B.______-Gutachter zum
+Schluss, der Beschwerdeführer sei in der bisherigen Tätigkeit als
+Hilfsarbeiter oder als PRA-Praktiker zu 50 % arbeitsfähig, wobei er
+ganztags mit einem um 50 % verminderten Rendement eingesetzt werden
+könne.
+5.2
+5.2.1
+Das polydisziplinäre Gutachten erweist sich als
+nachvollziehbar und in sich schlüssig. Die Gutachter haben sich mit der
+gesamten medizinischen Aktenlage befasst und diese bei ihrer Würdigung,
+welche sich als überzeugend erweist, miteinbezogen. Das Gutachten beruht auf
+allseitigen Untersuchungen, berücksichtigt die beklagten Beschwerden, setzt
+sich mit dem Verhalten des Beschwerdeführers auseinander, ist in der
+Darlegung der medizinischen Zusammenhänge und Schlussfolgerungen begründet
+und lässt sich von der Rechtsanwenderin nachvollziehen. Gestützt werden die
+Ergebnisse vom Regionalen Ärztlichen Dienst (RAD). Die Gutachter haben die
+Rückfragen der Beschwerdegegnerin betreffend Suchtmittelproblematik sodann
+zwar nicht abschliessend beantwortet. Indessen ergibt sich aus den im Recht
+liegenden Unterlagen kein Verdacht auf einen wiederholten und für die
+Arbeitsfähigkeit relevanten Konsum. Die Gutachter haben die psychischen und
+neurologischen Einschränkungen darüber hinaus vertieft dargelegt, womit die
+Beurteilung der Arbeitsfähigkeit auch in Bezug auf diesen Aspekt ohne
+Weiteres möglich ist, was vom Beschwerdeführer nicht bestritten wird.
+Schliesslich ist entgegen seinen Ausführungen verständlich und
+nachvollziehbar, dass die Gutachter als angestammte Tätigkeit die
+Ausbildungsstelle im Detailhandel sowie die Hilfsstelle im […] zugrunde
+legten.
+5.2.2
+Dementsprechend erfüllt das
+B.______-Gutachten im Ergebnis die Anforderungen an den Beweiswert eines
+Gutachtens. Ein Abweichen von den darin enthaltenen Ausführungen ist folglich
+nur angezeigt, wenn konkrete
+Indizien gegen die Zuverlässigkeit der
+Expertise sprechen (BGE 137 V 210 E. 1.3.4)
+. Lediglich vollständigkeitshalber ist darauf
+hinzuweisen, dass dem Antrag des Beschwerdeführers auf weitere medizinische
+Abklärungen nicht gefolgt werden kann, da das im Recht liegende Gutachten
+bereits eine genügende Auseinandersetzung hinsichtlich seines
+Gesundheitszustands sowie dessen Auswirkungen enthält und von weiteren
+Abklärungen keine entscheidwesentlichen Erkenntnisse zu erwarten sind. Die
+weiteren im Recht liegenden Unterlagen vermögen den erhöhten Beweiswert des
+B.______-Gutachtens schliesslich nicht in Zweifel zu ziehen. Der
+Beschwerdeführer bezieht sich denn auch nicht auf weitere medizinische
+Berichte, sondern bietet Unterlagen aus der beruflichen Ausbildung und Beratung
+als Beweis dafür an, dass bei ihm keine Resterwerbsfähigkeit von 50 %
+vorliege. Letztere geben jedoch lediglich ihre Einschätzungen zur
+Verwertbarkeit der Resterwerbsfähigkeit ab und äussern sich nicht zur
+medizinisch-theoretischen Arbeitsfähigkeit. Damit sind ihre Ausführungen als
+Einschätzung von medizinischen Laien anzusehen, welche nicht geeignet sind,
+Zweifel an der Einschätzung der Gutachter zu erwecken (vgl. aber
+untenstehende E. II/6.3). Als Zwischenfazit ist damit festzuhalten, dass
+der Beschwerdeführer im Rahmen des gutachterlich festgelegten
+Tätigkeitsprofils mit überwiegender Wahrscheinlichkeit mit einem Rendement
+von 50 % arbeitsfähig ist.
+6.
+6.1
+Gestützt auf die Einschätzung der
+Arbeitsfähigkeit gemäss B.______-Gutachten ist sodann die
+Invaliditätsbemessung vorzunehmen, wobei zunächst die Verwertbarkeit dieser
+Arbeitsfähigkeit auf dem ausgeglichenen Arbeitsmarkt zu prüfen ist. Während
+der
+Beschwerdeführer eine solche
+verneint, erachtet die Beschwerdegegnerin diese aus versicherungsmedizinischer
+Sicht als gegeben.
+6.2
+6.2.1
+Der für die Bestimmung des Invalideneinkommens
+massgebliche ausgeglichene Arbeitsmarkt ist durch ein gewisses Gleichgewicht
+zwischen Angebot und Nachfrage nach Arbeitskräften gekennzeichnet und weist
+einen Fächer verschiedenster Tätigkeiten auf. Das gilt sowohl bezüglich der
+dafür verlangten beruflichen und intellektuellen Voraussetzungen als auch
+hinsichtlich des körperlichen Einsatzes. Dabei ist nicht von realitätsfremden
+Einsatzmöglichkeiten auszugehen. Es können nur Vorkehren verlangt werden, die
+unter Berücksichtigung der gesamten objektiven und subjektiven Gegebenheiten
+des Einzelfalls zumutbar sind. Der ausgeglichene Arbeitsmarkt umfasst auch
+sogenannte Nischenarbeitsplätze, also Stellen- und Arbeitsangebote, bei
+welchen Versicherte mit einem sozialen Entgegenkommen von Seiten des
+Arbeitgebers rechnen können. Von einer Arbeitsgelegenheit kann indessen nicht
+mehr gesprochen werden, wenn die zumutbare Tätigkeit nur noch in so
+eingeschränkter Form möglich ist, dass sie der ausgeglichene Arbeitsmarkt
+praktisch nicht kennt oder sie nur unter nicht realistischem Entgegenkommen
+eines durchschnittlichen Arbeitgebers möglich wäre und das Finden einer
+entsprechenden Stelle daher von vornherein ausgeschlossen erscheint (BGer-Urteil
+9C_277/2016 vom 15. März 2017 E. 4.1, mit Hinweisen).
+6.2.2
+Im vorliegenden Fall stehen sich widersprechende
+Einschätzungen zur Verwertbarkeit der Restarbeitsfähigkeit gegenüber. So ging
+der RAD im Jahr 2014 einerseits davon aus, dass eine Ausbildung für den
+Beschwerdeführer nur im geschützten Rahmen umsetzbar sei. Letzterer konnte
+die praktische Ausbildung nach INSOS sodann nur mit Unterstützung bei der
+Arbeit und im Rahmen eines betreuten Wohnens absolvieren. Nach seinem
+Abschluss konnte er im ersten Arbeitsmarkt aufgrund seiner Einschränkungen
+bislang nicht Fuss fassen. Es wurde ihm für die Arbeitssuche und
+Tagesstruktur überdies ein Beistand zur Seite gestellt. Der letzte
+Einsatzbetrieb des Beschwerdeführers sowie die IV-Berufsberatung nahmen an,
+dass der Beschwerdeführer auf einen geschützten Arbeitsplatz angewiesen sei.
+Die Gutachter und die Beschwerdegegnerin sahen ebenfalls Bedarf nach
+beruflicher Unterstützung und Vermittlungsdiensten. Schliesslich weisen die
+beschriebenen Einschränkungen gemäss neuropsychologischem und psychiatrischem
+Teilgutachten ebenfalls auf einen hohen Unterstützungsbedarf hin, da der
+Beschwerdeführer im Lernprozess erheblich verlangsamt und in der
+Sozialkompetenz sowie der Anpassungsfähigkeit bei Regeln/Routinen massgeblich
+beeinträchtigt sei.
+Andererseits wurden dem Beschwerdeführer im Rahmen
+seiner Ausbildung und der Arbeitsversuche wiederholt positive Rückmeldungen
+ausgestellt und es scheint weiterhin trotz der gesundheitlichen
+Einschränkungen noch Potential bei der beruflichen Eingliederung zu bestehen.
+Der Beschwerdeführer äusserte selbst mehrfach seinen
+Wiedereingliederungswillen und die Beschwerdegegnerin stellte in ihrer
+Rentenverfügung diesbezügliche Massnahmen in Aussicht.
+6.3
+Im Ergebnis verbleiben damit erhebliche Zweifel, ob
+bzw. inwiefern der Beschwerdeführer seine Restarbeitsfähigkeit von
+50 % auf dem ausgeglichenen Arbeitsmarkt verwerten kann. Die
+Beschwerdegegnerin hat die sich aus den verschiedenen Unterlagen ergebenden
+Widersprüche nicht aufgelöst und sich mit der Frage der Verwertbarkeit der
+Restarbeitsfähigkeit nicht rechtsgenüglich auseinandergesetzt, sondern
+hierfür einzig auf die medizinische Einschätzung verwiesen. Diese ist jedoch
+zur Klärung der Frage der Verwertbarkeit nicht geeignet. Dementsprechend
+beantwortete RAD-Arzt
+pract. med. G.______
+diese Frage denn auch nicht explizit, sondern
+verwies hierfür auf den Rechtsanwender. Da der Beschwerdeführer auf
+spezifische unterstützende Rahmenbedingungen angewiesen scheint, wäre
+aufgrund der oben dargelegten Widersprüche vertieft abzuklären gewesen, ob
+seine Restarbeitsfähigkeit noch verwertbar ist oder nicht.
+7.
+7.1
+Gemäss bundesgerichtlicher
+Rechtsprechung können die Sozialversicherungsgerichte nicht mehr frei
+entscheiden, ob sie eine Streitsache zur neuen Begutachtung an die Verwaltung
+zurückweisen. Die Beschwerdeinstanz hat vielmehr im Regelfall selbst ein
+Gerichtsgutachten einzuholen, wenn sie einen im Verwaltungsverfahren
+anderweitig erhobenen Sachverhalt überhaupt für gutachterlich abklärungsbedürftig
+hält oder wenn ein Administrativgutachten in einem rechtserheblichen Punkt
+nicht beweiskräftig ist. Eine Rückweisung an die Vorinstanz bleibt hingegen
+möglich, wenn sie allein in der notwendigen Erhebung einer bisher vollständig
+ungeklärten Frage begründet ist oder, wenn lediglich eine Klarstellung,
+Präzisierung oder Ergänzung von gutachterlichen Ausführungen erforderlich ist
+(BGE 137 V 210 E. 4.4.1).
+7.2
+Die Beschwerdegegnerin hat es im
+Verwaltungsverfahren unterlassen, die Verwertbarkeit der Restarbeitsfähigkeit
+des Beschwerdeführers abzuklären. Sie hat hierfür lediglich pauschal auf die
+medizinischen Unterlagen verwiesen, welche diese Frage jedoch nicht
+beantworten. Da es nicht Aufgabe des kantonalen Sozialversicherungsgerichts
+sein kann, im Verwaltungsverfahren versäumte Abklärungen zu veranlassen,
+erweist sich eine Rückweisung an die Beschwerdegegnerin als zulässig.
+Damit
+erübrigen sich weitere Ausführungen betreffend Invaliditätsbemessung und
+einem allfälligen Abzug vom Tabellenlohn (vgl. zum Ganzen: BGer-Urteil
+9C_277/2016 vom 15. März 2017 E. 4.3, mit Hinweisen).
+Dies führt zur teilweisen
+Gutheissung der Beschwerde. Die Verfügung der Beschwerdegegnerin vom
+17. Mai 2022 ist aufzuheben und die Sache im Sinne der Erwägungen an
+diese zurückzuweisen.
+III
+.
+1.
+Nach Art. 134 Abs. 1 lit.
+c VRG i.V.m. Art. 69 Abs. 1bis IVG hat die Partei, welche im
+Beschwerdeverfahren unterliegt, die amtlichen Kosten zu tragen. Als Obsiegen
+gilt hinsichtlich der Kosten- und Entschädigungsfolge auch die Rückweisung
+der Sache an den Versicherungsträger mit offenem Ausgang (Ueli Kieser,
+ATSG-Kommentar, 4. A., Zürich/Basel/Genf 2020, Art. 61
+N. 224), weshalb die Gerichtskosten von pauschal Fr. 600.- der
+Beschwerdegegnerin aufzuerlegen sind. Sie ist überdies zu verpflichten, dem
+Beschwerdeführer eine angemessene Parteientschädigung in der Höhe von
+pauschal Fr. 1
+'
+500.- (inkl. Mehrwertsteuer) zu bezahlen
+(Art. 1 Abs. 1 IVG i.V.m. Art. 61 lit. g ATSG e
+contrario).
+2.
+2.1
+Der Beschwerdeführer beantragt die Gewährung der
+unentgeltlichen Prozessführung. Gemäss Art. 139 Abs. 1 VRG befreit
+die Behörde eine Partei, der die Mittel fehlen, um neben dem Lebensunterhalt
+für sich und ihre Familie die Verfahrenskosten aufzubringen, auf Gesuch hin
+ganz oder teilweise von der Kosten- und Vorschusspflicht, sofern das
+Verfahren nicht aussichtslos ist. Unter denselben Voraussetzungen weisen die
+kantonalen Behörden der Partei auf Gesuch hin oder von Amtes wegen einen
+Anwalt als Rechtsbeistand zu, sofern ein solcher für die gehörige
+Interessenwahrung erforderlich ist (Art. 139 Abs. 2 VRG). Der
+Nachweis der Bedürftigkeit obliegt der gesuchstellenden Partei (Art. 139
+Abs. 3 VRG).
+2.2
+Da die Gerichtskosten der Beschwerdegegnerin
+aufzuerlegen sind, ist das Gesuch des Beschwerdeführers um Gewährung der
+unentgeltlichen Prozessführung als gegenstandslos geworden abzuschreiben.
+2.3
+Der Beschwerdeführer beantragt zudem die Gewährung
+der unentgeltlichen Rechtsverbeiständung. Die Mittellosigkeit des
+Beschwerdeführers erscheint aufgrund der Aktenlage als gegeben und seine
+Begehren sind nicht als aussichtslos zu qualifizieren. Daneben erweist sich
+der Beizug eines Rechtsbeistands als erforderlich. Folglich ist sein Gesuch
+gutzuheissen und es ist ihm
+in der Person von Rechtsanwalt
+Prof. Dr. Hardy Landolt
+ein
+unentgeltlicher Rechtsbeistand zu bestellen. Dieser ist mit Fr. 1
+'
+500.- (inkl.
+Auslagen und Mehrwertsteuer) zu entschädigen. Daran anzurechnen ist die
+Parteientschädigung seitens der Beschwerdegegnerin in gleicher Höhe.
+3.
+Gegen diesen Entscheid
+steht die Beschwerde in öffentlich-rechtlichen Angelegenheiten ans
+Bundesgericht nur nach Massgabe von Art. 93 Abs. 1 des
+Bundesgerichtsgesetzes vom 17. Juni 2005 (BGG) offen.
+Demgemäss
+beschliesst die Kammer
+:
+1.
+Das
+Gesuch des Beschwerdeführers um Gewährung der unentgeltlichen
+Prozessführung wird als gegenstandslos geworden abgeschrieben.
+2.
+Das
+Gesuch des Beschwerdeführers um Gewährung der unentgeltlichen
+Rechtsverbeiständung wird gutgeheissen. Ihm wird in der Person von
+Rechtsanwalt Prof. Dr. Hardy Landolt ein unentgeltlicher
+Rechtsbeistand bestellt.
+3.
+Der
+Rechtsbeistand
+wird zu Lasten der
+Gerichtskasse mit Fr. 1'500.- (inkl. Auslagen und Mehrwertsteuer)
+entschädigt. Daran angerechnet wird die Parteientschädigung seitens der
+Beschwerdegegnerin in gleicher Höhe.
+und
+erkennt sodann
+:
+1.
+Die
+Beschwerde wird teilweise gutgeheissen. Die Verfügung der
+Beschwerdegegnerin vom 17. Mai 2022 wird aufgehoben und die Sache im Sinne
+der Erwägungen an diese zurückgewiesen.
+2.
+Die
+Gerichtskosten von Fr. 600.- werden der Beschwerdegegnerin auferlegt.
+3.
+Die
+Beschwerdegegnerin wird verpflichtet, dem Beschwerdeführer innert
+30 Tagen nach Rechtskraft dieses Entscheids eine Parteientschädigung
+von Fr. 1
+'
+500.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
