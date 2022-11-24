@@ -1,0 +1,360 @@
+---
+decision_id: "gl_gerichte_VG.2022.00051"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2022.00051"
+docket_2: "VG.2022.1199"
+decided: "2022-11-24"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1634&W10_KEY=218274&nTrefferzeile=9&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/741.01/art-016.md", "switzerland/bund/acts/741.01/art-016a.md", "switzerland/bund/acts/741.01/art-016b.md", "switzerland/bund/acts/741.01/art-016c.md", "switzerland/bund/acts/741.01/art-090.md"]
+---
+
+# GL Gerichte VG.2022.00051
+
+## Regeste
+
+Administrativmassnahmen Strassenverkehr
+
+## Text
+
+Glarus Verwaltungsgericht 24.11.2022 VG.2022.00051 (VG.2022.1199)
+Glaris Verwaltungsgericht 24.11.2022 VG.2022.00051 (VG.2022.1199)
+Glarona Verwaltungsgericht 24.11.2022 VG.2022.00051 (VG.2022.1199)
+
+Administrativmassnahmen Strassenverkehr
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+24. November 2022
+I. Kammer
+Besetzung:
+Gerichtspräsident MLaw Colin Braun, Verwaltungsrichter Ernst Luchsinger,
+Verwaltungsrichterin Katia Weibel und Gerichtsschreiberin i.V. MLaw Tina
+Schneider
+in Sachen
+VG.2022.00051
+A.______
+Beschwerdeführer
+vertreten durch
+lic.
+iur.
+Werner
+Marti, Rechtsanwalt,
+gegen
+Staats- und Jugendanwaltschaft des Kantons
+Glarus
+Beschwerdegegnerin
+betreffend
+Entzug des Führerausweises
+Die Kammer zieht in Erwägung:
+I.
+1.
+Gemäss Rapport der Polizei
+B.______ vom 25. Januar 2021 verunfallte A.______ am […] um […] mit
+einem Lieferwagen in […] kurz nach der Einfahrt auf die Autobahn […] in
+Fahrtrichtung […].
+2.
+Mit Strafbefehl vom
+8. Juli 2021 sprach die Staats- und Jugendanwaltschaft des Kantons
+Glarus A.______ der Verletzung der Verkehrsregeln durch Nichtbeherrschen des
+Fahrzeugs infolge Nichtanpassens der Geschwindigkeit an die
+Strassenverhältnisse schuldig (Disp.-Ziff. 1). Sie verurteilte ihn zu
+einer Busse in der Höhe von Fr. 400.- und auferlegte ihm die Gebühren
+von Fr. 500.- (Disp.-Ziff. 2 ff.). Der Strafbefehl erwuchs in
+Rechtskraft, nachdem A.______ seine Einsprache zurückgezogen hatte.
+3.
+Am 28. April 2022
+zeigte die Abteilung Administrativmassnahmen der Staats- und
+Jugendanwaltschaft des Kantons Glarus A.______ die Durchführung einer
+administrativen Untersuchung an. Trotz der von ihm eingereichten
+Stellungnahme vom 8. Mai 2021, verfügte die Abteilung
+Administrativmassnahmen am 28. Juni 2022 gestützt auf Art. 16b
+Abs. 1 lit. a des Strassenverkehrsgesetzes vom 19. Dezember
+1958 (SVG) den Entzug des Führerausweises für einen Monat.
+4.
+Dagegen erhob A.______ am
+29. August 2022 Beschwerde beim Verwaltungsgericht. Die Verfügung vom
+28. Juni 2022 sei aufzuheben und es sei stattdessen eine Verwarnung
+gegen ihn auszusprechen; unter Kosten- und Entschädigungsfolge zu Lasten der
+Abteilung Administrativmassnahmen. Die Abteilung Administrativmassnahmen
+schloss am 5. September 2022 auf Abweisung der Beschwerde; unter
+Kostenfolge zu Lasten von A.______.
+II.
+1.
+1.1
+Verfügungen über Administrativmassnahmen im
+Strassenverkehr unterliegen gemäss Art. 5 Abs. 3 des
+Einführungsgesetzes zum Bundesgesetz über den Strassenverkehr vom 5. Mai
+1985 (EG SVG) unmittelbar der Beschwerde ans Verwaltungsgericht. Es ist daher
+zur Behandlung der vorliegenden Beschwerde zuständig. Da auch die übrigen
+Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde einzutreten.
+1.2
+Gemäss Art. 107 Abs. 2 lit. g des
+Gesetzes über die Verwaltungsrechtspflege vom 4.
+Mai 1986 (VRG)
+i.V.m.
+Art. 5
+Abs. 3 EG SVG überprüft das Verwaltungsgericht
+Administrativmassnahmen im Strassenverkehr vollumfänglich, d.h. auch auf
+Angemessenheit hin. Dennoch kommt der Beschwerdegegnerin bei der Anordnung
+von Administrativmassnahmen ein gewisses Ermessen zu, in welches das
+Verwaltungsgericht nicht ohne Not eingreift.
+2.
+2.1
+Nach Widerhandlungen gegen die Strassenverkehrsvorschriften,
+bei denen das Verfahren nach dem Ordnungsbussengesetz vom 24. Juni 1970 (OBG)
+ausgeschlossen ist, wird gemäss Art. 16 Abs. 2 SVG der Lernfahr- oder
+Führerausweis entzogen oder eine Verwarnung ausgesprochen.
+2.2
+2.2.1
+Das Gesetz unterscheidet zwischen leichter,
+mittelschwerer und schwerer Widerhandlung (Art. 16a-16c SVG). Gemäss
+Art. 16a Abs. 1 lit. a SVG begeht eine leichte
+Widerhandlung, wer durch die Verletzung von Verkehrsregeln eine geringe
+Gefahr für die Sicherheit anderer hervorruft, sofern ihn dabei nur ein leichtes
+Verschulden trifft. Nach der bundesgerichtlichen Rechtsprechung müssen eine
+geringe Gefahr und ein leichtes Verschulden kumulativ gegeben sein (statt
+vieler: BGer-Urteil 1C_656/2015 vom 8. April 2016 E. 2.2).
+2.2.2
+Bei einer mittelschweren Widerhandlung wird durch
+die Verletzung von Verkehrsregeln eine Gefahr für die Sicherheit anderer
+hervorgerufen oder in Kauf genommen (Art. 16b Abs. 1 lit.
+a
+SVG). Sie stellt einen
+Auffangtatbestand dar
+und liegt vor, wenn nicht alle privilegierenden Elemente einer leichten
+Widerhandlung nach Art. 16a SVG und nicht alle qualifizierenden Elemente
+einer schweren Widerhandlung nach Art. 16c SVG gegeben sind
+(vgl. BGer-Urteil 1C_364/2019 vom 4. Februar 2020 E. 2.3). Ist
+die Gefährdung gering, aber das Verschulden hoch, oder umgekehrt die
+Gefährdung hoch und das Verschulden gering, handelt es sich mithin um eine
+mittelschwere Widerhandlung (VGer-Urteil VG.2016.00018 vom 17. März 2016,
+E. II/2.3, nicht publiziert).
+2.3
+Bei der Festsetzung der Dauer des Lernfahr- oder
+Führerausweisentzugs sind die Umstände des Einzelfalls zu berücksichtigen.
+Die Verwaltungsbehörde hat einerseits zu prüfen, ob besondere Umstände
+vorliegen, die die Verkehrsregelverletzung weniger gravierend erscheinen
+lassen. Andererseits sind die konkreten Umstände des Einzelfalls bei der
+Bemessung der Entzugsdauer zu berücksichtigen. Gemäss Art. 16
+Abs. 3 Satz 1 SVG sind dabei namentlich die Gefährdung der
+Verkehrssicherheit, das Verschulden, der Leumund als Motorfahrzeugführer
+sowie die berufliche Notwendigkeit, ein Motorfahrzeug zu führen, zu
+berücksichtigen, wobei jedoch die Mindestentzugsdauer im Sinne von
+Art. 16 Abs. 3 SVG nicht unterschritten werden darf (BGer-Urteil
+1C_210/2020 vom 30. November 2020 E. 2.2 und 2.4).
+2.4
+Bei einem ungetrübten automobilistischen Leumund
+der beschuldigten Person wird bei einer leichten Widerhandlung eine
+Verwarnung ausgesprochen (Art. 16a Abs. 3 SVG) und bei einer
+mittelschweren Widerhandlung der Führerausweis für mindestens einen Monat entzogen
+(Art. 16b Abs. 2 lit. a SVG).
+3.
+3.1
+Die Verwaltungsbehörde, die über einen
+Führerausweisentzug zu befinden hat, ist grundsätzlich an die Feststellung
+des Sachverhalts durch den Strafrichter gebunden. Eine Abweichung ist nur
+dann zulässig, wenn die Behörde ihrem Entscheid Tatsachen zugrunde legt, die
+dem Strafrichter unbekannt waren, sich die Erhebung zusätzlicher Beweise
+aufdrängt, die Beweiswürdigung des Strafrichters eindeutig im Widerspruch zur
+Tatsachenlage stand oder wenn der Strafrichter nicht alle sich mit dem
+Sachverhalt stellenden Rechtsfragen abklärte (BGE 124 II 103
+E. 1c/aa, mit Hinweis). In der rechtlichen Würdigung des Sachverhalts –
+namentlich auch des Verschuldens – ist die Verwaltungsbehörde demgegenüber frei,
+ausser die rechtliche Qualifikation hängt stark von der Würdigung von
+Tatsachen ab, die der Strafrichter besser kennt, etwa weil er die
+beschuldigte Person persönlich einvernommen hat (BGer-Urteil 1C_184/2020 vom
+9. Juli 2020 E. 3.2, mit Hinweisen).
+3.2
+Die Verwaltungsbehörde ist grundsätzlich auch an
+einen Strafentscheid gebunden, der nicht im ordentlichen Verfahren, sondern
+im Strafbefehlsverfahren gefällt wurde, sofern der Beschwerdeführer wusste
+oder angesichts der Schwere der ihm vorgeworfenen Delikte voraussehen musste,
+dass gegen ihn ein Führerausweisentzugsverfahren eröffnet würde, und er es
+trotzdem unterlässt oder darauf verzichtet, im Rahmen des (summarischen)
+Strafverfahrens die ihm garantierten Verteidigungsrechte geltend zu machen.
+Unter diesen Umständen darf die betroffene Person nicht das
+Verwaltungsverfahren abwarten, um allfällige Rügen vorzubringen und
+Beweisanträge zu stellen, sondern ist nach Treu und Glauben verpflichtet,
+dies bereits im Rahmen des (summarischen) Strafverfahrens zu tun, sowie
+allenfalls die nötigen Rechtsmittel zu ergreifen
+(BGE 123 II 97 E. 3c/aa; zum Ganzen: BGer-Urteil
+1C_263/2011 vom 22. August 2011 E. 2.3, je mit Hinweisen).
+4.
+4.1
+Der Beschwerdeführer führt aus, um sich
+ordnungskonform in den damals herrschenden geringen Verkehr auf der Autobahn
+eingliedern zu können, habe er auf der Einspurstrecke auf etwa 60 km/h
+beschleunigt. Trotz dieses vorsichtigen Beschleunigungsmanövers sei sein
+Fahrzeug ins Schleudern geraten und zuerst leicht mit der Mittelleitplanke
+und anschliessend mit der rechtsseitigen Leitplanke kollidiert. Das
+Beschleunigen auf der Einspurstrecke sei verkehrsregelkonform erfolgt, was
+auch von der Auskunftsperson bestätigt worden sei. Seine Aussage, wonach er
+mit 60 km/h gefahren sei, sei realistisch und plausibel. So habe die
+Auskunftsperson ausgesagt, sie und ihr Mann seien selbst mit einer
+Geschwindigkeit von 70 km/h gefahren. Sodann sei unbestritten, dass er
+nur eine geringe Gefahr verursacht habe. So habe diese nicht an ihm oder bei
+anderen Verkehrsteilnehmern gelegen, sondern an den schwierigen Witterungs-
+und Strassenverhältnissen. Auch habe der Anzeigeerstatter als nachfolgendes
+Fahrzeug keine Gefährdung geltend gemacht. Selbst bei halb so schnellem Tempo
+wie der angegebenen Höchstgeschwindigkeit bestünde unter diesen Umständen
+eine gewisse Gefahrensituation. Diese sei jedoch nicht gleichbedeutend mit
+einer leichten Gefährdung. Ferner sei ihm unbestrittenermassen nur ein
+leichtes Verschulden vorzuwerfen. So sei die Verkehrsregelverletzung,
+namentlich die Nichtbeherrschung des Fahrzeugs, als Folge eines
+Zusammenspiels unglücklicher Umstände zu beurteilen. Er habe die
+Geschwindigkeit gleich eingeschätzt wie der Anzeigeerstatter und
+dementsprechend angepasst. Aufgrund der leichten Rechtskurve und der mit
+Schneematsch bedeckten Strasse habe er die Geschwindigkeit falsch
+eingeschätzt, woraufhin er kurzfristig die Herrschaft über sein Fahrzeug
+verloren habe und infolgedessen mit der Leitplanke kollidiert sei. Im
+Ergebnis sei ihm lediglich eine leichte Widerhandlung gegen die
+Strassenverkehrsvorschriften vorzuwerfen.
+4.2
+Die Beschwerdegegnerin bringt vor, es sei nicht
+ersichtlich inwiefern der Beschwerdeführer die Sachverhaltsdarstellung in der
+angefochtenen Verfügung rüge. Folglich könne auf diese abgestellt werden.
+Entgegen den Ausführungen des Beschwerdeführers könne die durch sein
+Verhalten geschaffene Gefahr sodann nicht mehr nur als geringfügige
+Gefährdung für sich und die übrigen Verkehrsteilnehmer qualifiziert werden.
+So habe das Bundesgericht bei einem vergleichbaren Unfall auf der Autobahn
+bei winterlichen Strassenverhältnissen eine bloss leichte Widerhandlung
+ausgeschlossen. Vor diesem Hintergrund sei selbst bei der Annahme eines
+leichten Verschuldens von keiner leichten Widerhandlung auszugehen.
+5.
+Zunächst ist
+darauf
+hinzuweisen, dass die Reihenfolge der durch die Kollision betroffenen
+Leitplanken vorliegend nicht ins Gewicht fällt, da dieser Aspekt nichts an
+der Beurteilung der Schwere der Widerhandlung ändert. Im Sinne der
+Strafrechtsbindung in Administrativmassnahmeverfahren kann daher ohne
+Weiteres auf den Sachverhalt gemäss Strafbefehl vom 8. Juli 2021 mit
+sachverhaltlicher Ergänzung vom 30. Dezember 2021 abgestellt werden.
+Demgemäss geriet der Beschwerdeführer am Abend des […] mit einem Lieferwagen
+in […] auf der Autobahn […] in Richtung […] bei Schneefall und
+schneebedeckter Fahrbahn mit etwa 60 km/h ins Schleudern. In der Folge
+kollidierte er mit der rechtsseitigen Leitplanke, rutschte über die Fahrbahn,
+drehte sich zweimal um die eigene Achse und kollidierte dann mit der
+Mittelleitplanke, wo er zum Stillstand kam. Aufgrund dieses Vorfalls sprach
+ihn die Staats- und Jugendanwaltschaft des Kantons Glarus am 8. Juli
+2021 der Verletzung von Verkehrsregeln schuldig.
+6.
+Strittig und zu prüfen ist
+vorliegend, ob der Beschwerdeführer aufgrund des Vorfalls vom […] eine
+leichte (Art. 16a Abs. 1 lit. a SVG) oder eine
+mittelschwere Widerhandlung (Art. 16b Abs. 1 lit. a SVG) gegen
+die Strassenverkehrsvorschriften begangen hat.
+6.1
+Eine Gefahr für
+die Sicherheit anderer im Sinne von Art. 16a-c SVG ist bei einer
+konkreten oder auch bei einer erhöhten abstrakten Gefährdung zu bejahen. Eine
+erhöhte abstrakte Gefahr besteht, wenn die Möglichkeit einer konkreten
+Gefährdung oder Verletzung naheliegt. Ob eine solche Gefährdung vorliegt, ist
+anhand der jeweiligen Verhältnisse im Einzelfall zu beurteilen (BGer-Urteil
+vom 1C_491/2021 vom 17. Februar 2021, mit Hinweisen).
+6.2
+Mit dem Beschwerdeführer ist darin
+einig zu gehen, dass er durch sein Verhalten keine konkrete Gefahr für andere
+Verkehrsteilnehmer geschaffen hat, was von der Beschwerdegegnerin nicht in
+Abrede gestellt wird. Indessen schuf er durch sein Verhalten eine Gefährdung,
+bei der eine Kollision mit anderen Verkehrsteilnehmern nahelag. Dabei fallen
+insbesondere die ungünstigen Witterungsverhältnisse, die schneebedeckte
+Fahrbahn sowie die damit verbundene Erschwernis für ein Bremsmanöver und die
+Schwere des Lieferwagens des Beschwerdeführers ins Gewicht. Zwar erweist sich
+die von ihm angegebene Geschwindigkeit von 60 km/h zumindest nicht als
+krass übersetzt. Es erscheint jedoch notorisch, dass die Schleudergefahr und
+somit Unfallgefahr auf verschneiten Strassen erheblich ist und sich bei
+zunehmender Geschwindigkeit und insbesondere bei Richtungswechseln drastisch
+erhöht (vgl. BGE 126 II 192 E. 2.b). Vor diesem
+Hintergrund und mit Blick auf die damals herrschenden Strassenverhältnisse
+sowie die leichte Biegung im streitbetroffenen Autobahnabschnitt scheint es
+überwiegend wahrscheinlich, dass die Geschwindigkeit zu hoch angesetzt war.
+So kam das Bundesgericht in einem ähnlich gelagerten Fall denn auch zum
+Schluss, dass ein Fahrzeuglenker eine nicht mehr als gering zu beurteilende
+Gefahr geschaffen hat, indem er mit 40 bis 50 km/h auf einer mit Schneematsch
+bedeckten Strasse ausserorts in einer Linkskurve ins Schleudern geriet und in
+der Folge die Kontrolle über sein Fahrzeug verlor (vgl. dazu BGer-Urteil
+1C_592/2018 vom 27. Juni 2019). Zu einem ähnlichen Ergebnis mit einem
+vergleichbaren Sachverhalt kam es in einem Fall, bei welchem ein
+Fahrzeuglenker abends bei durch Schneeregen eingeschränkter Sicht und wegen
+einer mit Schneematsch bedeckten Autobahn die Herrschaft über sein Fahrzeug
+verlor, ins Schleudern geriet, sich um die eigene Achse drehte und wiederholt
+gegen die Mittelleitplanke prallte. Dabei habe der Fahrzeuglenker mit seinem
+Verhalten - unabhängig vom herrschenden Verkehrsaufkommen - eine nicht
+unerhebliche Gefahr für sich und die übrigen Verkehrsteilnehmer geschaffen,
+weshalb auch bei einem leichten Verschulden die Annahme einer bloss leichten
+Widerhandlung ausgeschlossen und das Verhalten als mittelschwer einzustufen
+sei (BGer-Urteil 1C_95/2014 vom 13. Juni 2014 E. 4.2). Mit Blick
+auf das oben Dargelegte und vor dem Hintergrund, dass der Beschwerdeführer
+sein Fahrzeug immer so zu beherrschen hat, dass er seinen
+Vorschriftspflichten nachkommen kann und jederzeit in der Lage sein muss, auf
+die jeweils erforderliche Weise auf das Fahrzeug einzuwirken bzw. auf
+jede Gefahr zweckmässig zu reagieren, hat der Beschwerdeführer gesamthaft
+betrachtet eine Gefahr für die Sicherheit anderer geschaffen, die nicht mehr
+als gering im Sinne von Art. 16a Abs. 1 lit. a SVG beurteilt
+werden kann.
+Der
+gegenteiligen Auffassung des Beschwerdeführers kann demgegenüber nicht
+gefolgt werden. So wurde in dem von ihm zitierten Entscheid (BGer-Urteil
+1C_3/2008 vom 18. Juli 2008) die Widerhandlung gerade nicht als leicht,
+sondern als mittelschwer eingestuft (E. 5.4). Soweit sich der
+Beschwerdeführer darüber hinaus auf den amtlich publizierten Entscheid des
+Bundesgerichts BGE 127 II 302 abstützen will, bestehen
+gegenüber dem vorliegenden Sachverhalt entscheidwesentliche Unterschiede. So
+qualifizierte das Bundesgericht das damalige Verhalten des Beschwerdeführers
+lediglich darum als leicht, weil das ihm zur Last gelegte Verhalten auf einer
+Fehlinterpretation der Situation am Strassenrand basiert hat, womit ihm im
+Ergebnis kein Vorwurf gemacht werden könne. Der hier zu beurteilende
+Sachverhalt ist demgegenüber gänzlich anders gelagert. So ist vorliegend
+nicht davon auszugehen, dass der Unfall auf ein Zusammenspiel mehrerer
+unglücklicher Umstände zurückzuführen ist. Vielmehr gründet er darin, dass
+der Beschwerdeführer aufgrund der leichten Kurve auf dem Autobahnabschnitt,
+der schlechten Witterungsverhältnisse, dem vorgenommenen Manöver sowie der
+hierfür mutmasslich zu hohen Geschwindigkeit die Beherrschung über sein
+Fahrzeug verloren hat. Eine Fehleinschätzung eines ungewöhnlichen Ereignisses
+am Strassenrand oder dergleichen liegt somit nicht vor. Im Übrigen ist darauf
+hinzuweisen, dass mit der Einstufung als mittelschwere Widerhandlung kein
+Widerspruch zum Ausgang des Strafverfahrens geschaffen wird, da eine einfache
+Verkehrsregelverletzung im Sinne von Art. 90 Abs. 1 SVG sowohl einer
+leichten als auch einer mittelschweren Widerhandlung entspricht
+(vgl. BGer-Urteil 1C_491/2021 vom 17. Februar 2022 E. 6.3).
+6.3
+Zusammenfassend ist im vorliegenden Fall von einer
+erhöhten abstrakten Gefährdung auszugehen, womit eine leichte Widerhandlung
+im Sinne von Art. 16a Abs. 1 lit. a SVG ausser Betracht fällt.
+Dementsprechend ging die Beschwerdegegnerin zu Recht von einer mittelschweren
+Widerhandlung gemäss Art. 16b Abs. 1 lit. a SVG aus und entzog
+den Führerausweis wegen des ungetrübten automobilistischen Leumunds des
+Beschwerdeführers richtigerweise für nur einen Monat (vgl.
+Art. 16b
+Abs. 2 lit. a SVG).
+Dies führt zur Abweisung der Beschwerde.
+III.
+Gemäss Art. 5 Abs. 1 EG
+SVG i.V.m. Art. 134 Abs. 1 lit. c
+des Gesetzes über die Verwaltungsrechtspflege
+vom 4. Mai 1986 (VRG)
+hat die Partei,
+welche im Beschwerdeverfahren unterliegt, die amtlichen Kosten zu tragen.
+Entsprechend dem Ausgang des Verfahrens sind die Gerichtskosten von pauschal
+Fr. 800.- dem Beschwerdeführer aufzuerlegen und mit dem bereits
+geleisteten Kostenvorschuss in gleicher Höhe zu verrechnen.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Die
+Gerichtskosten von Fr. 800.- werden dem Beschwerdeführer auferlegt und mit
+dem von ihm bereits geleisteten Kostenvorschuss in gleicher Höhe
+verrechnet.
+3.
+Es
+wird keine Parteientschädigung ausgesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
