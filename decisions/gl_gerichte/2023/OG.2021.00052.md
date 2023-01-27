@@ -1,0 +1,1549 @@
+---
+decision_id: "gl_gerichte_OG.2021.00052"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2021.00052"
+docket_2: "OGS.2023.146"
+decided: "2023-01-27"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1648&W10_KEY=218274&nTrefferzeile=6&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-034.md", "switzerland/bund/acts/311.0/art-022.md", "switzerland/bund/acts/311.0/art-034.md", "switzerland/bund/acts/311.0/art-042.md", "switzerland/bund/acts/311.0/art-047.md", "switzerland/bund/acts/311.0/art-048.md", "switzerland/bund/acts/311.0/art-048a.md", "switzerland/bund/acts/311.0/art-105.md", "switzerland/bund/acts/311.0/art-106.md", "switzerland/bund/acts/311.0/art-181.md", "switzerland/bund/acts/311.0/art-285.md", "switzerland/bund/acts/312.0/art-005.md", "switzerland/bund/acts/312.0/art-010.md", "switzerland/bund/acts/312.0/art-056.md", "switzerland/bund/acts/312.0/art-076.md", "switzerland/bund/acts/312.0/art-082.md", "switzerland/bund/acts/312.0/art-084.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-335.md", "switzerland/bund/acts/312.0/art-343.md", "switzerland/bund/acts/312.0/art-348.md", "switzerland/bund/acts/312.0/art-379.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-391.md", "switzerland/bund/acts/312.0/art-398.md", "switzerland/bund/acts/312.0/art-404.md", "switzerland/bund/acts/312.0/art-409.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-426.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# GL Gerichte OG.2021.00052
+
+## Regeste
+
+Gewalt und Drohung gegen Behörden und Beamte
+
+## Text
+
+Glarus Obergericht 27.01.2023 OG.2021.00052 (OGS.2023.146)
+Glaris Obergericht 27.01.2023 OG.2021.00052 (OGS.2023.146)
+Glarona Obergericht 27.01.2023 OG.2021.00052 (OGS.2023.146)
+
+Kanton Glarus
+Obergericht
+Es wirken mit:
+Obergerichtsvizepräsidentin MLaw Sarina Dreyer, Oberrichterin Monika Trümpi,
+Oberrichter Roger Feuz, Oberrichterin Ruth Hefti und Oberrichter Martin Ilg
+sowie
+Gerichtsschreiber Dr. iur. Alfonso Hophan
+.
+Urteil
+vom 27. Januar 2023
+Verfahren
+OG.2021.
+00052
+A.______
+Beschuldigter
+und
+Berufungskläger
+amtlich
+verteidigt durch
+lic. iur.
+Erich
+Leuzinger,
+Rechtsanwalt,
+Hauptstrasse 47,
+Postfach 532,
+8750
+Glarus
+gegen
+1.
+Staats-
+und Jugendanwaltschaft des Kantons Glarus
+Postgasse 29,
+8750
+Glarus
+Berufungsbeklagte
+vertreten
+durch
+den Staatsanwalt
+2. B.______
+c/o
+Arbeitslosenkasse,
+Zwinglistrasse 6,
+8750
+Glarus
+Privatklägerin und
+Berufungsbeklagte
+angeklagt der
+Gewalt
+und Drohung gegen Behörden und Beamte
+Rechtsbegehren de
+s Berufungsklägers
+(gemäss
+Eingabe vom 29. Juni 2021 [act. 27] und mündlicher Ergänzung
+anlässlich der Berufungsverhandlung vom 11. November 2022 [act. 40,
+S. 2], sinngemäss):
+1.
+Es sei das Urteil der
+Strafgerichtskommission des Kantonsgerichts Glarus vom 31. März 2021
+vollumfänglich aufzuheben und der Beschuldigte von Schuld und Strafe
+freizusprechen.
+2.
+Eventualiter sei die Sache zur
+Neuverhandlung an die Vorinstanz zurückzuweisen.
+3.
+Es seien sämtliche
+Verfahrenskosten auf die Staatskasse zu nehmen; dem Beschuldigten sei eine
+angemessene Parteientschädigung zuzusprechen und sei ferner festzustellen,
+dass die Privatklägerin keine Zivilforderung gestellt hat.
+4.
+Es sei lic. iur. Erich
+Leuzinger als amtlicher Verteidiger für das Verfahren vor Obergericht
+einzusetzen.
+Antrag de
+r
+Staatsanwaltschaft
+(act. 32, sinngemäss):
+1.
+Es sei die Berufung abzuweisen.
+2.
+Unter
+Kostenfolge zulasten des Beschuldigten.
+____________________
+Das Gericht
+zieht in Betracht:
+I.
+Prozessgeschichte
+1.
+Die Staats- und
+Jugendanwaltschaft des Kantons Glarus (nachfolgend: Staatsanwaltschaft)
+stellte gegen A.______ (nachfolgend: Beschuldigter) am 27. Juli 2017
+einen Strafbefehl wegen Gewalt und Drohung gegen Behörden und Beamte aus
+(act. 3). Der Beschuldigte erhob am 8. August 2017 gegen diesen
+Strafbefehl Einsprache (Vorakten act. 14.1.03). Die Staatsanwaltschaft
+hielt am Strafbefehl fest und überwies am 23. Dezember 2020 die
+Angelegenheit zur gerichtlichen Beurteilung an das Kantonsgericht
+(act. 1).
+2.
+Mit Urteil vom 31. März 2021
+(act. 23; Versand: 8. Juni 2021) sprach die Strafgerichtskommission
+des Kantonsgerichts den Beschuldigten der Gewalt und Drohung gegen Behörden
+und Beamte im Sinne von Art. 285 Ziff. 1 StGB schuldig
+(Dispositivziffer 1) und verurteilte ihn hierfür zu einer bedingten
+Geldstrafe von 30 Tagessätzen zu je CHF 30.– sowie zu einer Busse
+von CHF 300.–, wobei die Busse bei Nichtbezahlung in eine unbedingt
+vollziehbare Ersatzfreiheitsstrafe von drei Tagen umgewandelt würde
+(Dispositivziffer 2). Weiter nahm die Strafgerichtskommission davon
+Vormerk, dass die Privatklägerin keine Zivilforderungen gestellt hat
+(Dispositivziffer 3); sodann auferlegte sie dem Beschuldigten die Kosten
+(Dispositivziffern 4–5).
+3.
+Gegen dieses Urteil erhob der
+Beschuldigte mit Schreiben vom 29. Juni 2021 fristgerecht Berufung beim
+Obergericht des Kantons Glarus und stellte die eingangs wiedergegebenen Anträge
+(act. 27), welche anlässlich der Berufungsverhandlung vom
+11. November 2022 dahingehend ergänzt wurden, dass eventualiter die
+Sache zur nochmaligen Behandlung an die Vorinstanz zurückzuweisen sei
+(act. 40, S. 2). Die Staatsanwaltschaft beantragt Abweisung der
+Berufung; die Privatklägerin reichte vor Obergericht keine Stellungnahme ein
+(act. 30).
+4.
+Die
+mündliche Berufungsverhandlung fand am 18. November 2022 statt
+(act. 40–46). Am 27. Januar 2023 fällte das Obergericht seinen
+Entscheid (act. 50). Der Entscheid wird schriftlich eröffnet, nachdem
+die Parteien auf eine mündliche Urteilseröffnung ausdrücklich verzichtet
+haben (Art. 84 Abs. 3 StPO
+i.V.m. Art. 379 StPO;
+vgl. act. 40, S. 12–13).
+II.
+Prozessuales
+1.
+Das angefochtene Strafurteil der
+Vorinstanz (act. 23) ist der Berufung zugänglich. Der Beschuldigte ist
+zur Berufung legitimiert (Art. 382 Abs. 1 StPO), hat die
+Rechtsmittelfrist gewahrt und erhebt zulässige Rügen (Art. 398
+Abs. 3 StPO). Das Obergericht ist als Rechtsmittelinstanz zuständig für
+die Behandlung der vorliegenden Berufung (Art. 17 Abs. 1
+lit. a GOG GL [GS III A/2]). Auf die Berufung ist einzutreten
+(Art. 398 ff. StPO).
+2.
+Mit Berufung kann
+gemäss Art. 398 Abs. 3 StPO geltend gemacht werden, die Vorinstanz
+habe das Recht verletzt, den Sachverhalt unvollständig oder unrichtig
+festgestellt oder unangemessen gehandelt. Im vorliegenden Fall macht der
+Beschuldigte geltend, dass die Vorinstanz den Sachverhalt falsch dargestellt
+und die Beweise falsch gewürdigt habe (act. 40, S. 7–9). Da der
+Anklagesachverhalt nicht mit an Sicherheit grenzender Wahrscheinlichkeit
+erstellt sei, müsse der Beschuldigte von Schuld und Strafe freigesprochen
+werden (act. 40, S. 4 ff.).
+3.
+Die
+Berufungsinstanz überprüft das Urteil nur in den angefochtenen Punkten
+(Art. 404 Abs. 1 StPO). Der Beschuldigte ficht den Schuldspruch,
+die Sanktion sowie den Entscheid über die Kostenauflage an und beantragt die
+amtliche Verteidigung (act. 27, S. 2; act. 40, S. 2).
+III.
+Rückweisungsantrag
+1.
+Der Beschuldigte stellte
+anlässlich der Hauptverhandlung vom 18. November 2022 den Antrag, es sei
+die Sache gestützt auf Art. 409 Abs. 1 StPO zur nochmaligen
+Behandlung an die Vorinstanz zurückzuweisen (act. 40, S. 2). Dies,
+weil dem vorinstanzlichen Verfahren ein wesentlicher und im
+Berufungsverfahren nicht mehr zu heilender Verfahrensmangel anhafte, indem
+damals der Gerichtsschreiber ausgewechselt wurde, was die Vorinstanz mit
+einer Standardformulierung offenlegte (vgl. act. 23, S. 3,
+Ziff. I.: "Der am Entscheid mitwirkende Gerichtsschreiber i.V. [...]
+amtet nicht mehr am Kantonsgericht Glarus, weshalb der begründete Entscheid
+von Gerichtsschreiber i.V. [...] unterzeichnet wird"). Der Beschuldigte
+macht geltend, dass die Vorinstanz damit gegen Art. 33 GOG GL verstossen
+habe, da der Gerichtsschreiber Teil des Spruchkörpers und damit auch des
+Gerichts sei (act. 40, S. 4). Anders als bei Richtern (Art. 30
+ff. GOG GL) sehe das GOG GL für Gerichtsschreiber keine Stellvertretung vor.
+Dies sei umso gravierender, als dem Gerichtsschreiber in der Glarnerischen
+Gerichtsorganisation eine bedeutsame Stellung zukomme, indem er über ein
+Antragsrecht und über beratende Stimme verfüge (Art. 37 Abs. 1 GOG
+GL) und überdies als Ersatzrichter amten könne (Art. 30 Abs. 3 GOG
+GL).
+2.
+Gemäss
+Art. 335 Abs. 1 StPO tagt das Gericht während der gesamten
+Hauptverhandlung in seiner gesetzmässigen Zusammensetzung und im Beisein
+einer Gerichtsschreiberin oder eines Gerichtsschreibers. Während also die
+Anwesenheit eines Gerichtsschreibers im Strafverfahren eine bundesrechtliche
+Vorgabe darstellt (was implizit bereits aus Art. 76 Abs. 1 StPO
+hervorgeht), muss es sich dabei nicht zwingend um ein und denselben handeln.
+Dies ergibt sich aus Art. 335 Abs. 2 StPO
+e contrario
+,
+wonach nämlich die gesamte Hauptverhandlung in der Regel nur dann wiederholt
+werden muss, wenn während der Hauptverhandlung eine Richterin oder ein
+Richter ausfällt. Der Grund, weshalb ein Gerichtsschreiber ohne Weiteres
+ersetzt werden kann, liegt darin, dass ihm "lediglich" beratende
+Stimme zukommt (Art. 348 Abs. 2 StPO; BSK StPO-
+Stephenson/Zalunardo-Walser,
+N 5
+zu Art. 335 StPO).
+3.
+3.1.
+Eine Auslegung des
+GOG GL zeigt, dass das kantonale Recht in der hier interessierenden Thematik
+nicht über die Vorgaben des Bundesrechts hinausgeht und somit die
+Stellvertretung bei einem Gerichtsschreiber ebenfalls nicht ausschliesst.
+Gemäss Art. 33 Abs. 1 GOG GL müssen Gerichte stets vollständig und
+in derselben Sache gleich besetzt sein; dass dies indes nicht absolut gilt,
+zeigt bereits Art. 33 Abs. 2 GOG GL, wonach in Fällen, in denen
+dies nicht möglich ist, die Bestimmungen über die Stellvertretung und
+Ergänzung gemäss Art. 30–32 GOG GL gelten. Der Beschuldigte behauptet,
+dass diese Artikel nicht auf Gerichtsschreiber anwendbar seien, ohne dies
+weiter zu begründen. Dieser Ansicht kann nicht gefolgt werden. Zwar stimmt
+es, dass sich keine Regelung findet, die explizit die Stellvertretung von
+Gerichtsschreibern zum Inhalt hat. Nach gängiger Auslegungsmethodik ist indes
+weder von einer Gesetzeslücke auszugehen (immerhin wird der Gerichtsschreiber
+im Wortlaut von Art. 30 Abs. 3 GOG GL erwähnt) noch von einem
+qualifizierenden Schweigen: Art. 30 GOG GL steht unter dem Titel
+"Gerichtsergänzung und Entscheid über den Ausstand" und ist damit
+insbesondere der gerichtsorganisatorischen Umsetzung der
+Ausstandsbestimmungen nach Art. 56 ff. StPO gewidmet. Die detaillierte
+Kaskadenordnung für Stellvertretungen und Ergänzungen von Art. 30 GOG GL
+– wie sie in kleinräumigen Verhältnissen wie dem Kanton Glarus notwendig ist
+– verdeutlicht dies. Somit gewährleistet Art. 30 GOG GL indirekt den
+Anspruch auf ein unparteiisches, unbefangenes und unvoreingenommenes Gericht
+im Sinne von Art. 30 Abs. 1 BV (SGK BV-
+Steinmann
+, N 16 zu Art. 30 BV). Da die Anforderungen
+von Art. 30 Abs. 1 BV ohne Weiteres auch für Gerichtsschreiber
+gelten (vgl. SGK BV-
+Steinmann
+,
+N 10 zu Art. 30 BV) und sich Ausstandsbegehren auch gegen
+Gerichtsschreiber richten können (BSK StPO-
+Boog
+,
+N 12 zu Art. 56 StPO mit Verweis auf Art. 34 Abs. 1 BGG),
+muss es im Sinne des GOG GL sein, dass auch Gerichtsschreiber vertreten
+werden können. Nichts anderes legt auch der Grundsatz
+a maiore ad minus
+("vom
+Grösseren auf das Kleine") nahe: Wenn Stellvertretungen bei den immerhin
+von der Glarner Landsgemeinde gewählten Richterinnen und Richter
+(Art. 68 Abs. 1 lit. b KV GL) möglich sind, muss dies
+erst recht auch für Gerichtsschreiber in einem Anstellungsverhältnis gelten.
+3.2.
+An diesem
+Auslegungsergebnis ändert auch die behauptete Stellung des Gerichtsschreibers
+in der Glarner Gerichtsorganisation nichts (Art. 37 GOG GL). Zum einen,
+weil dieser sich – bezüglich Antragsrecht und beratender Stimme – kaum
+wesentlich von Gerichtsschreibern anderer Kantone unterscheidet (vgl. bspw.
+§ 133 Abs. 1 GOG ZH [LS 211.1] oder Art. 4 Abs. 3
+GOG UR [RB 2.3221];
+vgl. ferner
+BGE 115 Ia 224
+E. 7.b.aa S.
+228–229). Diesem nicht spezifisch
+Glarnerischen "nicht zu unterschätzenden Einfluss auf die Willensbildung
+der richterlichen Behörde oder auf den Inhalt der Urteilsbegründungen"
+(Urteil BGer 2P.301/2005 vom 23. Juni 2006 E. 4.1; Urteil BGer
+6P.126/2000 vom 20. Februar 2001 E. 1.c; BGE 115 Ia 224
+E. 7.b.aa S. 229–230, je m.w.H.) wird bereits dadurch Rechnung
+getragen, dass für die Gerichtsschreiber bezüglich Neutralität im Sinne von
+Art. 30 Abs. 1 BV die gleichen Anforderungen wie für die
+richterliche Behörde gelten (SGK BV-
+Steinmann
+,
+N 10 zu Art. 30 BV). Da im vorliegenden Fall aber nicht beanstandet
+wird, die Stellvertretung des Gerichtsschreibers habe zu einer Verletzung von
+Art. 30 Abs. 1 BV geführt, läuft dieses Argument des Beschuldigten
+ins Leere. Dasselbe gilt sodann für den Hinweis auf Art. 30 Abs. 3
+GOG GL: Insofern keiner der erwähnten Gerichtsschreiber konkret als
+Ersatzrichter hat amten müssen, ist nicht ersichtlich, weshalb die abstrakte
+Möglichkeit dazu eine Stellvertretung von Gerichtsschreiber verunmöglichen
+sollte.
+4.
+Damit ist das
+Rückweisungsbegehren abzuweisen und hat nachfolgend das Obergericht in der
+Sache zu entscheiden.
+IV.
+Sachverhalt
+1.
+Dem Beschuldigten wird vorgeworfen,
+der Privatklägerin als Mitarbeiterin der Arbeitslosenkasse des Kantons
+Glarus, Zwinglistrasse 6, Glarus, anlässlich eines Telefongesprächs vom
+12. August 2016, ca. 11.30 Uhr, bei welchem es um die
+Einreichung von Unterlagen des Beschuldigten an die Arbeitslosenkasse des
+Kantons Glarus ging, mit den Worten "Wenn ich Sie gseh uf de Strass,
+denn erschüss ich Sie" gedroht zu haben. Nach dieser Aussage habe der
+Beschuldigte das Telefongespräch abrupt beendet. Durch diese Aussage sei die
+Privatklägerin in Angst versetzt und in ihrem Sicherheitsgefühl
+beeinträchtigt worden, was der Beschuldigte zumindest in Kauf genommen habe
+(act. 3, S. 2).
+Die Vorinstanz gelangte nach
+Würdigung der vorhandenen Indizien zum Schluss, dass der eingeklagte
+Sachverhalt erstellt sei und der Beschuldigte gegenüber der Privatklägerin
+tatsächlich besagte Drohung ausgesprochen habe (act. 23, S. 5–6,
+Ziff. II./3.). Der Beschuldigte wendet sich gegen diesen Schuldspruch
+und bestreitet den eingeklagten Sachverhalt (act. 40, S. 7–9).
+Damit ist die Sachverhaltswürdigung der Vorinstanz zu überprüfen.
+2.
+2.1.
+Zur Feststellung des
+massgeblichen Sachverhalts hat das Gericht zunächst sämtliche prozessual
+zulässigen Beweismittel zu erfassen, welche zur Feststellung des
+tatbestandserheblichen Sachverhalts beitragen können. Anschliessend hat das
+Gericht die als relevant erkannten Beweise frei und umfassend zu würdigen
+(Art. 10 Abs. 2 StPO) und seine Erkenntnis als Beweisergebnis
+festzustellen. Dieses Beweisergebnis kann je nach Würdigung als gesichert
+erscheinen, sofern vorhandene Widersprüche bereinigt werden konnten, oder
+aber mit Unsicherheiten behaftet bleiben (BGE 144 IV 345 E. 2.2.3.2
+S. 350–351).
+2.2.
+Bestehen nach der
+Feststellung des Beweisergebnisses unüberwindliche Zweifel an der Erfüllung
+der tatsächlichen Voraussetzungen der angeklagten Tat, geht das Gericht in
+Anwendung des Grundsatzes
+in dubio pro reo
+("im Zweifel für den
+Angeklagten") von der für die beschuldigte Person günstigere Sachlage
+aus (Art. 10 Abs. 3 StPO). Denn der angeklagte Sachverhalt kann der
+beschuldigten Person nur dann zur Last gelegt werden, wenn er nach
+Überzeugung des Gerichts mit an Sicherheit grenzender Wahrscheinlichkeit
+erstellt ist. Eine entsprechende Wahrscheinlichkeit liegt vor, wenn die
+richterliche Überzeugung, dass sich ein Sachverhalt in bestimmter Weise
+verwirklicht hat, auf einem jeden vernünftigen Zweifel ausschliessenden
+Urteil eines besonnenen und lebenserfahrenen Beobachters beruht. Abstrakte
+und theoretische Zweifel sind nicht massgebend, weil solche immer möglich
+sind; absolute Gewissheit kann nicht verlangt werden (BGE 144 345
+E. 2.2.1 S. 347 ff. und E. 2.2.3.2–3 S. 351 ff.).
+2.3.
+Liegen für einen
+eingeklagten Sachverhalt keine direkten Beweise vor, so ist auch der
+sogenannte indirekte Beweis gestützt auf Indizien zulässig. Hierbei wird aus
+bestimmten Tatsachen, die nicht unmittelbar rechtserheblich, aber bewiesen
+sind (sog. Indizien), auf die zu beweisende, unmittelbar rechtserhebliche
+Tatsache geschlossen. Eine Mehrzahl von Indizien, welche für sich alleine nur
+mit einer gewissen Wahrscheinlichkeit auf die Täterschaft oder die Tat
+hinweisen und einzeln betrachtet die Möglichkeit des Andersseins offenlassen,
+können einen Anfangsverdacht verstärken und in ihrer Gesamtheit ein Bild erzeugen,
+das bei objektiver Betrachtung keine Zweifel bestehen lässt, dass sich der
+Sachverhalt so verwirklicht hat. Beim Indizienbeweis gelangt der Grundsatz
+in
+dubio pro reo
+nicht bereits bei der Würdigung der einzelnen Indizien zur
+Anwendung, sondern kommt erst zum Tragen, wenn das von den Indizien geprägte
+Gesamtbild steht (BGE 144 IV 345 E. 2.2.3.4 S. 352–353; Urteil
+BGer 6B_1302/2020 vom 3. Februar 2021 E. 1.2.3, je m.w.H.).
+2.4.
+Steht zudem Aussage
+gegen Aussage, ist anhand sämtlicher Umstände, die sich aus den Akten
+ergeben, zu untersuchen, welche Sachverhaltsdarstellung überzeugend ist,
+wobei es vorwiegend auf den inneren Gehalt der Aussagen ankommt, verbunden
+mit der Art und Weise, wie die Angaben erfolgen. Es zählt dabei nicht primär
+die Persönlichkeit oder die allgemeine Glaubwürdigkeit der aussagenden
+Person, sondern die Glaubhaftigkeit der konkreten, im Prozess relevanten
+Aussage. Diese sind einer kritischen Würdigung zu unterziehen, wobei auf das
+Vorhandensein von sogenannten Realitätskriterien wie etwa die logische
+Konsistenz, Konstanz und Folgerichtigkeit in der Darstellung des
+Geschehensablaufes, die konkrete und anschauliche Wiedergabe des Erlebnisses
+sowie eine unvorteilhafte Darstellung der eigenen Rolle Gewicht zu legen ist.
+Als Hinweis für unglaubhafte Aussagen gelten hingegen etwa Strukturbrüche in
+den Schilderungen, laufende Anpassungen der Aussagen oder wenn Aussagen
+unstimmig oder widersprüchlich sind (BGE 133 I 33 E. 4.3
+S. 45; BGE 129 I 49 E. 5 S. 58; BGE 128 I 81
+E. 2 S. 85–86, je m.w.H.; BSK StPO-
+Hauri/Venetz
+,
+N 22 zu Art. 343 StPO).
+3.
+3.1.
+Durch die Akten
+erwiesen
+ist vorliegend, dass der Beschuldigte in einer
+verwaltungsrechtlichen Auseinandersetzung um Arbeitslosentaggelder mit der
+Hauptabteilung Wirtschaft und Arbeit stand. Dieses Verfahren, welches mit
+Einsprache des Beschuldigten vom 11. Mai 2016 gegen die Verfügung
+Nr. 4.692 vom 10. Mai 2016 der Arbeitslosenkasse begann (vgl.
+Vorakten act. 8.1.05, S. 1), dauerte offensichtlich lange. Mit
+E-Mail vom 16. August 2016, 11.26 Uhr, bestätigte X.______, Leiter
+Wirtschaft und Arbeit, dem Beschuldigten, dass die Anspruchsabklärungen
+"in der Tat überdurchschnittlich lange" dauern würden und dass dies
+"nicht der Normalfall" sei und äusserte Verständnis über den
+"Unmut über die Dauer unserer Abklärungen". In der gleichen
+Nachricht wurde aber gleichzeitig sachlich dargelegt, weshalb diese
+Anspruchsabklärungen so lange dauerten und wurde der vom Beschuldigten
+geäusserte Vorwurf der "Verzögerungstaktik" zurückgewiesen (Vorakten
+act. 8.1.05, S. 1–2). Auch die Privatklägerin anerkennt, dass die
+Anspruchsabklärung sehr lange dauerte (Vorakten act. 10.2.02,
+F. 14).
+3.2.
+Folgende
+Sachverhaltselemente sind
+unstrittig
+:
+3.2.1.
+Gesichert ist, dass
+der Beschuldigte am 12. August 2016, um ca. 11.30 Uhr, telefonisch
+die Arbeitslosenkasse des Kantons Glarus kontaktierte und dabei mit der
+Privatklägerin als dort tätige Sekretariatsmitarbeiterin verbunden war. Das
+Gespräch dauerte nach Angaben des Beschuldigten "2–3 Minuten
+Maximum" (Vorakten act. 8.1.02, F. 7), gemäss der
+Privatklägerin "vielleicht zehn Minuten" (Vorakten
+act. 8.1.03, F. 5). Weitgehend übereinstimmend sagen beide Parteien
+aus, das Telefongespräch sei hitzig geworden und habe damit geendet, dass der
+Beschuldigte abrupt aufgehängt habe. Bei den Aussagen des Beschuldigten ist
+chronologisch eine graduelle Milderung auszumachen: Zunächst gab er gegenüber
+der Kantonspolizei am 12. August 2016 an, er sei etwas wütend geworden
+und habe in "sehr lautem Ton" gesprochen (Vorakten
+act. 8.1.02, F. 4), dann sagte er vor der Vorinstanz am 10. März
+2021 aus, zunächst "sehr anständig mit ihr verhandelt" zu haben und
+erst nachher "laut" geworden zu sein (act. 9, F. 10),
+schliesslich sagte er wiederum vor der Vorinstanz am 31. März 2021, er
+sei "aufgewühlt" gewesen, habe ziemlich laut gesprochen und danach
+das Telefon einfach abgehängt (act. 13, S. 3 und 5 sowie
+Aufnahmestellen 20.34 und 25.45 in act. 16; act. 42, F. 17,
+28). Mit Bezug auf seine Reaktion auf den Hinweis der fehlenden Dokumente ist
+ebenfalls eine Veränderung erkennbar, diesmal jedoch graduell verschärfend:
+Vor der Vorinstanz am 10. März 2021 sagte der Beschuldigte aus, er habe
+ruhig geantwortet "Dann haben Sie irgendwo eine Sauerei auf Ihrem Tisch.
+Das liegt nicht bei mir. Aber gerne werde ich das nochmals wiederbringen
+[…]" (act. 9, F. 10), während er an der Berufungsverhandlung
+vom 18. November 2022 dieselbe Gesprächssequenz wesentlich schärfer mit
+"Dann habt ihr halt eine verdammte Schweinerei" (act. 42,
+F. 17) und nachher sogar "verdammte, elende Sauerei bei euch drin
+[…]" (act. 42, F. 28) wiedergab. Demgegenüber beschrieb die
+Privatklägerin den Beschuldigten als bereits von Beginn an gereizt (Vorakten
+act. 8.1.03, F. 6) und bestätigte, dass der Beschuldigte unmittelbar
+nach seiner (umstrittenen) Aussage das Telefon aufgehängt habe, sodass sie
+selber nichts mehr habe sagen können (Vorakten act. 8.1.03, F. 4,
+7).
+3.2.2.
+Fest steht sodann,
+dass sich der Beschuldigte und die Privatklägerin vorher nicht kannten. Die
+Privatklägerin sagte aus, dass sie den Beschuldigten nur von der Arbeit her
+kenne (Vorakten act. 8.1.03, F. 11). Der Beschuldigte sagte
+seinerseits aus, er habe nur schriftlichen Kontakt mit ihr gehabt, habe sie
+noch nie gesehen und wisse nicht, wie sie aussehe (Vorakten act. 8.1.02,
+F. 9; act. 9, F. 11; act. 14). Zum ersten Mal gesehen
+habe er sie an der erstinstanzlichen Hauptverhandlung vom 31. März 2021
+(act. 14), würde sie aber nicht wiedererkennen (act. 42,
+F. 24–25).
+3.3.
+Folgende
+Sachverhaltselemente sind
+strittig
+und zu klären:
+3.3.1.
+Der genaue Wortlaut
+der hier inkriminierten Äusserung
+3.3.1.1.
+In zeitlicher
+Abfolge wurde der Wortlaut erstmals von Y.______, Leiter Arbeitslosenkasse,
+am 12. August 2016 um 12.23 Uhr wiedergegeben: "Konkret drohte er,
+dass er sie erschiessen werde, falls er sie auf der Strasse sehen würde"
+(Vorakten act. 8.1.04). Am 12. August 2016 um 13.51 Uhr gab
+die Privatklägerin auf dem Polizeistützpunkt Näfels die Drohung mündlich zu
+Protokoll: "Ich erschiesse dich auf der Strasse, wenn ich dich sehe"
+(Vorakten act. 8.1.03, F. 4). Als sie am 6. Oktober 2016 durch
+die Staatsanwaltschaft einvernommen wurde, war sie sich nicht mehr ganz
+sicher: "Wenn ich Sie gseh uf de Strass, denn erschüss ich Sie"
+(Vorakten act. 10.2.01, F. 1–2). Anlässlich der erneuten
+Einvernahme durch die Staatsanwaltschaft am 27. November 2020 gab sie
+zwei Versionen zu Protokoll: einerseits "wenn er mich sieht auf der
+Strasse, dass er mich dann erschiesst" und andererseits, "dass er
+mich erschiesst, wenn er mich auf der Strasse sieht" (Vorakten
+act. 10.2.02, F. 1–2). An der Einvernahme durch das Kantonsgericht
+vom 31. März 2021 wurde sie vom Kantonsgerichtspräsidenten mehrfach
+vergebens dazu aufgefordert, den Wortlaut in direkter Rede wiederzugeben,
+wobei sie immer in der indirekten Form blieb: "Wenn er mich gseht uf dr
+Strass, erschüsst er mich" (vgl. Aufnahmestelle ab 09.11 in
+act. 16; nur sinngemäss protokolliert in act. 15, F. 9, 12).
+Obwohl sich mit Bezug auf die Reihenfolge der Teilsätze über die verschiedenen
+Einvernahmen hinweg zwei Varianten feststellen lassen – welche aber nicht
+sinnverändernd sind und über einen mehrere Jahre langen Zeitraum im Übrigen
+nicht weiter verwundern –, so ist doch die Kernaussage mit Bezug auf die zwei
+Teilsätze und ihren jeweiligen Signalwörtern der "Strasse" und des
+"Erschiessens" konstant gleich geblieben. Diese Aussage stimmt auch
+überein mit der Schilderung ihres Vorgesetzten Y.______, an den sich die
+Privatklägerin unmittelbar nach dem Telefongespräch mit dem Beschuldigten
+gewandt hatte.
+3.3.1.2.
+Der Beschuldigte
+bestreitet die von der Privatklägerin behauptete Aussage. Am 12. August
+2016, 14.45 Uhr, gab er auf dem Polizeistützpunkt Biäsche folgenden
+Wortlaut zu Protokoll: "Frau B.______, Sie kommen dran! Ich werde vor
+die Presse treten mit dieser Sache" und "dass ich Sie fertig mache
+und an die Presse gehe" (Vorakten act. 8.1.02, F. 4, 14). In
+seinem Schreiben vom 8. August 2017 erwähnte er, sein letzter Satz habe
+"ich mache sie fertig" gelautet, wobei dem die Worte vorangegangen
+seien, "dass ich zur Presse gehe und die Inkompetenz von Frau B.______
+zu Tage führe" (act. 6/1, S. 1). In der Einvernahme durch die
+Staatsanwaltschaft am 20. September 2017 gab er als Wortlaut an
+"Ich mache Sie fertig", wobei es möglich sei, dass er noch angehängt
+habe, dass sie sich nicht mehr auf der Strasse blicken lassen könne (Vorakten
+act. 10.1.01, F. 5), auf alle Fälle "etwas mit 'fertig
+machen'" (Vorakten act. 10.1.01, F. 6). In seinem Schreiben
+vom 12. Januar 2021 gab er an: "Ich machä si fertig"
+(act. 5, S. 2). An seiner Einvernahme vor Kantonsgericht am
+10. März 2021, sagte er aus: "[I]ch gehe zur Presse und ich mach
+sie [recte: Sie] fertig" (act. 9, F. 10) und anschliessend, er
+habe gesagt, er mache sie fertig, wobei er vielleicht höchstens noch hinzugefügt
+habe, dass sie sich nicht mehr auf der Strasse blicken lassen könne
+(act. 8, S. 4 und Aufnahmestelle 19.57 in act. 10). In einer
+von ihm eingereichten Beilage an der Hauptverhandlung vom 31. März 2021
+gab er den Wortlaut schriftlich mit "ich gu vor Press und machä si
+fertig" wieder (act. 14). Anlässlich der Berufungsverhandlung vom
+11. November 2022 sagte der Beschuldigte aus, er habe gesagt: "Ich
+mache Sie fertig!" (act. 42, F. 17, 27; act. 40,
+S. 12), er wisse nicht, ob er "die Presse" gesagt habe (act. 42,
+F. 17), vielleicht habe er gesagt, dass sie nicht mehr auf die Strasse
+gehen könne (act. 42, F. 27), die genaue Form und Reihenfolge könne
+er aber nicht mehr sagen, obwohl er dann doch "sicher etwas wie, dass
+sie nicht mehr auf die Strasse gehen könne" auch noch gesagt habe
+(act. 40, S. 12). An einer anderen Stelle sagte er wörtlich aus:
+"[I]ch habe gesagt: 'Ich gehe an die Presse und ich
+ersch-' – von erschiessen keine Rede, 'ich gehe an die Presse und mache Sie
+fertig, sodass Sie nicht mehr auf die Strasse können.' Es ist möglich, dass
+ich gesagt habe: 'Sie können nicht mehr auf die Strasse, ich mache Sie
+fertig. Wie der Wortlaut genau gelautet hat, ob ich zuerst gesagt habe, Sie
+können nicht mehr auf die Strasse oder zuerst gesagt habe, ich mache Sie
+fertig, Sie können nicht mehr auf die Strasse, weiss ich nicht mehr"
+(act. 42, F. 28 mit Transkription auf Mundart in Fn. 1).
+Selbst wenn man auch hier lange
+Zeitspanne seit dem Vorfall in Betracht zieht, so fällt doch auf, dass die
+Schilderung des Beschuldigten über seine am Telefon gegenüber der
+Privatklägerin gemachten Äusserungen eine inhaltliche Veränderung durchlief;
+zunächst beinhaltete sie ein "Drankommen", dann grundsätzlich das
+"Fertigmachen", wobei später teilweise auch noch das
+"Vor-die-Presse-Gehen" und das
+"Sich-nicht-mehr-auf-der-Strasse-blicken-lassen-können"
+uneinheitlich und in unterschiedlicher Reihenfolge und Kombination genannt
+sind. Da bekanntermassen das mehrmalige Befragen einer Person zum selben
+Thema im Rahmen eines Gerichtsverfahrens zu einer Veränderung des
+Erinnerungsbildes führen kann, geht man grundsätzlich davon aus, dass die
+Erstaussage die zuverlässigste ist (
+Peter
+Schumacher,
+Die Würdigung von Zeugen- und Parteiaussagen insbesondere
+im Zivilprozess, AJP/PJA 12/2000, S. 1457–1458). Vorliegend kontrastiert
+die Erstaussage des Beschuldigten, welche dieser nur rund drei Stunden nach
+dem inkriminierten Telefongespräch bei der Kantonspolizei zu Protokoll gab,
+am stärksten mit der ein Jahr später gemachten und seither stetig verfestigten
+Aussage, zu welcher auch dann erst ab dem 20. September 2017 das
+"Sich-nicht-mehr-auf-der-Strasse-blicken-lassen-Können" hinzukam,
+wohl um damit das von der Privatklägerin konstant verwendete Element der
+"Strasse" aufzunehmen.
+3.3.2.
+Das aufbrausende
+Temperament
+Nach Angaben der Privatklägerin
+sei vom Beschuldigten bekannt, dass er schon mehrmals ausgerufen und sich
+über Amtsstellen beschwert habe (Vorakten act. 8.1.03, F. 12). Dem
+widerspricht der Beschuldigte; er sagt von sich, er sei generell ein
+gutmütiger Mensch (Vorakten act. 8.1.02, F. 10), was sich an seinen
+langjährigen, teilweise ehrenamtlichen Tätigkeiten zeige, welche immerzu
+einen Umgang mit Menschen erfordert hätten (vgl. Vorakten act. 10.1.01,
+F. 5; act. 13, S. 5; act. 42, F. 7; vgl. insb. die
+Auflistung in act. 43). Er bestreitet konkret, ein "Ausrufer"
+zu sein, aber er lasse sich gleichwohl "nüd uf Kappä schissä" und
+es habe ihn die Aussage der Privatklägerin am Telefon, wonach sie keine
+Dokumente von ihm erhalten habe, "emotionell glupft" (Vorakten
+act. 10.1.01, F. 5). Aus manchen Äusserungen ergibt sich, dass der
+Beschuldigte gerade diese Aussage seinerseits als Drohung wahrnahm
+(vgl. Vorakten act. 10.1.01, F. 5: "Sie antwortete dann,
+wenn sie diese Formulare nicht erhalte, dann kriege ich kein Geld. Und sagen
+Sie das jemandem, der kein Geld hat. […] Das ist ja eigentlich eine schwere
+Drohung, es geht ja ums Überleben. Das ist schlimmer als erschiessen").
+Das für die darauffolgende Reaktion oftmals benutzte sprachliche Bild des
+"Lupfens" durchzog auch die gesamte Berufungsverhandlung vom
+18. November 2022 (act. 42, F. 17: "Das lüpft einen! […]
+Also das lüpft jedem Menschen den Hut", F. 22: "Dann lupft es
+einem […] eben doch den Hut", F. 30: "Das hat mir den Hut
+gelüpft"). Insofern sind beim Beschuldigten durchaus Muster erkennbar,
+die auf ein aufbrausendes Temperament hindeuten. Die ersichtliche Neigung zu
+erhöhter Emotionalität deckt sich letztlich mit der Selbsteinschätzung des
+Beschuldigten als "unbequemer Kunde", der sich "zur Wehr
+setzt" (act. 40, S. 6); sie schlug sich im Übrigen ebenso in
+der Kundgabe seines Ärgers nieder, als der Beschuldigte vor Obergericht die
+von ihm empfundene Situation spontan und lebhaft schilderte (vgl.
+act. 42, F. 17: "Latsch" und "verdammte Schweinerei",
+F. 22: "Gopferteggel" und "Hergottnochämal",
+F. 28: "verdammti eländi Sauerei", F. 33:
+"gopfertelli, du Babe", F. 34: "Schafseggel").
+3.4.
+Vom Beschuldigten zu
+seiner Entlastung vorgebrachte Argumente:
+3.4.1.
+In seiner Eingabe
+vom 12. Januar 2021 an die Vorinstanz brachte der Beschuldigte erstmals
+vor, dass ein aufgewühlter Glarner nie "erschüss ich sie" sagen
+würde, sondern "knall si abe" (act. 5, S. 2). An der
+erstinstanzlichen Befragung vom 10. März 2021 wiederholte er, ein
+"urchiger" (urwüchsiger, echter) Glarner würde nie sagen "Ich
+schüsse Sie abe", sondern "Ich knall Sie abe" (act. 9,
+F. 10); an der Hauptverhandlung vom 31. März 2021 meinte er
+schliesslich, dass ein Glarner nicht sagen würde "Ich erschüsse
+Sie", sondern "Ich verschüsse Sie", was einen riesigen
+Unterschied darstelle (act. 13, S. 4 und Aufnahmestelle 22.41 in
+act. 16). Auch an der Berufungsverhandlung wiederholte er noch einmal,
+dass er als Glarner in der Wut sagen würde: "Ich verschüss di, du Latsch!"
+(act. 42, F. 17), in jedem Fall "verschüsse" statt
+"erschüssä" (act. 42, F. 27, act. 40, S. 8).
+Diese Behauptung ist in verschiedener Hinsicht zumindest fraglich. Während
+nämlich in der Hochsprache ein klarer semantischer Unterschied zwischen
+"erschiessen" (mit einer Schusswaffe töten) und
+"verschiessen" (u.a. etwa [1.] als Munition beim Schiessen
+verwenden, [2.] durch Schiessen verbrauchen, [3.] ungenaues, verfehltes
+Schiessen) besteht, werden im Schweizerdeutschen die beiden Begriffe
+"erschüsse" und "verschüsse" synonym verwendet, wobei
+gewisse geographische Unterschiede bestehen (vgl. Schweizerisches Idiotikon,
+Bd. VIII, erschiessen, Sp. 1395–1396, 2.a.α [ausdrücklich
+genannt werden Bern, Freiburg und Graubünden] und Bd. VIII,
+Sp. 1407–08, verschiessen, 2.c.ε [ausdrücklich genannt werden
+Aargau, Appenzell, erneut Graubünden, St. Gallen, Schwyz und die
+Schwyzer March, Thurgau, Uri und Zürich], digital einsehbar unter:
+www.idiotikon.ch). Für den Kanton Glarus ist also von vornherein keine klare
+Präferenz für "verschüsse" ersichtlich und kann auch von dem
+behaupteten riesigen Unterschied nicht die Rede sein; beide Begriffe können
+benutzt werden. Nach Auffassung und Sprachgefühl des Gerichtes fällt die
+Präferenz sogar eher zugunsten "erschiessen" aus. Vielsagend ist in
+diesem Zusammenhang sodann, dass aus den Tonaufnahmen der
+Gerichtsverhandlungen an verschiedenen Stellen zu hören ist, wie der
+Beschuldigte selber quasi instinktiv zunächst das als so unglarnerisch
+abgelehnte "erschüsse" ausspricht und sich gleich danach jeweils
+korrigiert (vgl. etwa Aufnahmestelle 25.30 in act. 16: "Ich bin
+öpper wo für d'Lüüt da isch, für d'Mänschä da isch und sehr sozial und nüd
+öpper, wo öpper
+erschüsst
+– und das heisst verschüssä, uf
+Glarnerdeutsch, und nüd erschüssä, das isch ä riesä Underschied" oder
+act. 42, S. 11, F. 28 und Fn. 1: "[…] ha gseit ich
+gu i d'Press und ich
+ersch
+- und ich-
+erschüssä
+kä Red, ich gu a
+d'Press und mach Sie fertig, […]"; vgl. auch Vorakten act. 10.1.01,
+F. 5: "Das ist schlimmer als
+erschiessen
+", wobei es
+sich hier um eine nachträgliche Anpassung an die Hochsprache handeln könnte).
+In jedwedem Falle aber ist der Auffassung der Vorinstanz zuzustimmen, dass
+von einer zusehenden Vermischung des Glarnerdeutschen mit anderen Dialekten
+ebenso wie mit der Hochsprache ausgegangen werden kann (act. 23,
+S. 6, Ziff. II./3.; vgl. bereits
+Heinrich
+Bäbler
+, Glarner Sprachschuel, Glarus 1949, S. VI: "[…]
+Vermischung und Verplattung unserer Glarnermundart […]"). Insofern kann
+dem Beschuldigten nicht gefolgt werden, wenn er geltend macht, dass der
+Anklagesachverhalt nicht zutreffen könne, weil er als Glarner das darin
+inkriminierte Wort "erschüsse" gar nicht verwenden würde.
+3.4.2.
+Erstmals an der
+Einvernahme durch die Staatsanwaltschaft am 20. September 2017 brachte
+der Beschuldigte eine angebliche schwere psychische Voreingenommenheit gegen
+jegliche Schusswaffen und das Schiessen im Allgemeinen vor. Er erklärte diese
+mit der Tatsache, dass sein Vater im Zweiten Weltkrieg als Soldat in
+Kampfhandlungen involviert gewesen sei und dabei auch Leute erschossen habe.
+Er habe dies als Kind von seinem Vater vernommen und es habe ihn derart
+geprägt, dass er sich im Militär immer davor gedrückt habe, zu schiessen und
+sich nicht auf dem Schiessplatz gemeldet habe (Vorakten act. 10.1.01, F. 5;
+act. 6/1, S. 1; act. 9, F. 10; act. 42, F. 17).
+Aus diesem Grund fehle das Wort schiessen in seinem Wortschatz (Vorakten
+act. 10.1.01, F. 5) oder er nehme es nur ungerne in den Mund
+(act. 13, S. 4 und Aufnahmestelle 23.00 in act. 16;
+act. 42, F. 17). Ein Mensch, der über Jahre derart traumatisiert
+vom Schiessen und Erschiessen sei, spreche selber nicht davon (act. 8,
+S. 3–4 und Aufnahmestelle 20.10 in act. 10). Sodann besitze er
+selber gar keine Waffen und würde daher auch nicht eine solche Drohung
+aussprechen (Vorakten act. 10.1.01, F. 5; act. 5, S. 2;
+act. 40, S. 8; act. 42, F. 17: "[…] dann gehe ich
+nicht 'pistölelen', wenn ich überhaupt nicht mit Pistolen zu tun habe").
+Auch dieses Argument vermag den Beschuldigten nicht zu entlasten. Vielmehr
+ist der Vorinstanz darin zuzustimmen, dass zum Aussprechen einer Drohung
+nicht eine unmittelbare Umsetzungsmöglichkeit (über welche das Opfer der
+Drohung ja im Unklaren ist) gegeben sein muss, zumal für die
+Tatbestandsmässigkeit einer Drohung bereits ein diesbezüglicher "Bluff"
+(solange er dem Opfer der Drohung realistisch genug erscheint) ausreichen
+kann. Lediglich der Vollständigkeit halber bleibt noch Folgendes anzufügen,
+was die vom Beschuldigten behauptete Waffenaversion relativiert: In der
+Untersuchung erwähnte er, vor Jahren als Betreiber eines Fitnesscenters eine
+Pistole gekauft zu haben, weil seine damalige Frau sich unsicher gefühlt
+habe, wobei die Pistole jeweils (ungeladen) bei der Kasse gelegen habe
+(Vorakten act. 10.1.01, F. 5).
+3.4.3.
+Der Beschuldigte
+stellt seine behauptete Aussage des "Fertigmachens" in einen
+grösseren Kontext zur Presse. Dies, indem er zum einen generell auf seine
+Affinität zur Presse (act. 13, S. 3: "Pressemensch",
+S. 4: "Pressefreak") und zum Schreiben hinweist (act. 42,
+F. 12: "Schreiberling", F. 17: "[…] ich war eine
+Zeit lang der Politiker des Glarnerlandes, der mit Abstand am meisten in der
+Presse war, weil ich so viele Sachen mache und selber schreibe"), zum
+anderen, indem er konkret auf seine Mithilfe zur Aufdeckung behördlicher Vergehen
+durch das Fernsehmagazin "Kassensturz" im Jahre 1994 verweist
+(Vorakten act. 10.1.01, F. 5; act. 9, F. 10;
+act. 40, S. 12). Diese Punkte sind zu allgemein gehalten und weisen
+schlicht auch keinen konkreten Bezug zum eingeklagten Sachverhalt auf, als dass
+sie vorliegend als Indizien zur Entlastung des Beschuldigten in Betracht
+kämen.
+3.4.4.
+An der Einvernahme
+vom 10. März 2021 stellte der Beschuldigte erstmals die These einer
+gezielten "Racheaktion" gegen ihn in den Raum (act. 9,
+F. 12). Mit Eingabe vom 31. März 2021 schrieb der Beschuldigte, die
+Privatklägerin forme "ein Konstrukt, um ihre Haut zu retten" und
+merkte anlässlich der Einvernahme desselbigen Tages an, dass sie kurz vor
+einer "Ehrung" respektive eines Jubiläums stehe und daher ein
+gewisser Druck auf ihr liege (act. 14; act. 13, S. 5). Nachdem
+sich der Beschuldigte wegen des langen Verfahrens zudem beim Landammann
+beschwert habe, "um das Ganze zu klären, dass endlich mal was
+geht", sei "von oben hinab" Druck auf die Privatklägerin
+ausgeübt worden (act. 9, F. 12); der Druck, der auf der gesamten
+Amtsstelle gelastet habe, sei "riesengross" geworden (act. 42,
+F. 29; act. 14; act. 40, S. 6). Zu diesem Zeitpunkt habe
+man seine Schwäche erkannt und ausgenutzt (act. 9, F. 12:
+"'[J]aja, jetzt kann man den Herr A.______ packen"), weswegen der
+Vorgesetzte der Privatklägerin sie auch "zur Anzeige angestachelt"
+habe, wobei es sich hierbei gar um eine "Strategie" handle, wie die
+Arbeitslosenkasse wohl generell mit Telefonaten der Enthüllungspresse umgehe
+(act. 40, S. 7). Ziel der Anzeige als "Gegenangriff" sei
+es gewesen, über die Versäumnisse der Privatklägerin oder der
+Arbeitslosenkasse hinwegzutäuschen (act. 40, S. 7). Es habe daher
+der Privatklägerin nur recht sein können, wenn der Beschuldigte "ins Visier
+der Justiz" gerate (act. 40, S. 8). Da die Aussage "Ich mach
+dich fertig" für eine Anzeige nicht ausgereicht habe, seien sie schlau
+genug gewesen, um entsprechend zu lügen und einen anderen Wortlaut zu
+erfinden (act. 42, F. 17). An der erstinstanzlichen
+Hauptverhandlung vom 31. März 2021 sei ihm klargeworden, dass die
+inkriminierten Worte der Privatklägerin eingegeben worden seien, sie diese
+auswendig gelernt und dann wiederholt habe (act. 42, F. 27:
+"Du musst dann sagen, der Herr A.______ habe gesagt, dass er dich
+erschiesse").
+Es liegen keine Hinweise vor,
+welche diesen massiven Vorwurf eines behördlichen Komplotts gegen den
+Beschuldigten auch nur im Entferntesten stützen würden. Mehr noch:
+Verschiedene Versatzstücke dieser Behauptung sind nachweislich falsch. Der
+Vorgesetzte meldete den ihm von der Privatklägerin mitgeteilten Wortlaut der
+Drohung unverzüglich per E-Mail der Polizei und die Privatklägerin bestätigte
+ihn wenige Stunden später bei ihrer polizeilichen Befragung. Auch schilderte
+die Privatklägerin die telefonisch erlebte Drohung über das ganze Verfahren
+hinweg jeweils stringent und glaubhaft; vor Kantonsgericht verstand sie
+lediglich die Frage des Präsidenten nicht, welcher den Wortlaut in direkter
+Rede hören wollte, während sie diesen in indirekter Rede wiedergab (vgl.
+vorne Ziff. IV./3.3.1.1). Nicht ersichtlich ist ferner, wie überhaupt
+eine Anzeige über amtliche Versäumnisse hinwegtäuschen soll, wenn dadurch
+gleichzeitig (auch) justizkundig wird, dass ein konkretes Verfahren zu lange gedauert
+hat (vgl. vorne Ziff. IV./3.1.).
+3.5.
+Der Nachgang zum
+Telefongespräch
+3.5.1.
+Unmittelbar nach
+der Drohung informierte die Privatklägerin ihre Kollegin am Schalter über den
+Vorfall und wies sie an, den Schalterbereich nicht zu verlassen, da sie nicht
+wusste, "ob er kommt oder nicht" (Vorakten act. 8.1.03,
+F. 7). Sie habe sogleich ihren Vorgesetzten, Y.______, informieren
+wollen, doch sei dieser an einer Sitzung gewesen. Dann habe sie sich
+überlegt, dass sie selber aktiv werden und die Polizei alarmieren müsse, wenn
+der Beschuldigte wirklich komme. Sie entschied sich aber, auf ihren
+Vorgesetzten zu warten (Vorakten act. 8.1.03, F. 7). Dieser
+Entschluss nahm der Beschuldigte als Indiz auf die fehlende Todesangst der
+Privatklägerin auf, welche in wirklicher Todesangst keinesfalls gezögert
+hätte (act. 40, S. 6–7; act. 42, F. 17).
+3.5.2.
+Der weitere
+Nachgang der Tat weist zeitlich keine Auffälligkeiten auf, insofern es sich
+um eine rasch gestaffelte Abfolge klarer Ereignisse handelte: Die Privatklägerin
+sprach mit Y.______ kurz nach 12.00 Uhr, welcher mit E-Mail vom
+12. August 2016, 12.23 Uhr, die Mitarbeitenden der
+Arbeitslosenkasse, verschiedene weitere Mitglieder der Glarner Behörden sowie
+die Kantonspolizei informierte, dass der Beschuldigte explizite
+Todesdrohungen gegen die Privatklägerin geäussert habe (Vorakten
+act. 8.1.04). Er informierte weiter, dass die Privatklägerin die Drohung
+am Nachmittag bei der Polizei zur Anzeige bringen würde. Im Anschluss habe
+die Privatklägerin den Mittag im Gebäude an der Zwinglistrasse 6 in
+Glarus verbracht, welches sie erst nach dem dort eingenommenen Mittagessen
+verlassen habe. Dabei habe sie das Gebäude nicht wie üblicherweise über den
+Vorderausgang, sondern über den Hinterausgang verlassen und sich dabei vergewissert,
+dass der Beschuldigte nicht in der Nähe sei. Sie sei nervös gewesen. Sodann
+sei sie die rund 200 Meter bis zur Bäckerei
+Gabriel
+gegangen und
+habe noch eine kleine Runde um die Kirche gemacht, welche sich direkt vor der
+Arbeitslosenkasse befindet (Vorakten act. 8.1.03, F. 10;
+act. 15, F. 13). Am Nachmittag erhob sie Anzeige gegen den
+Beschuldigten bei der Kantonspolizei (act. 15, F. 13), wobei die
+polizeiliche Einvernahme um 13.51 Uhr erfolge (Vorakten act. 8.1.03).
+Der Beschuldigte wurde um 14.30 Uhr an seiner Wohnadresse festgenommen
+(Vorakten act. 4.1.01), um 14.45 Uhr einvernommen (Vorakten
+act. 8.1.02) und um 16.40 Uhr entlassen (Vorakten
+act. 4.1.03).
+4.
+In einer Gesamtwürdigung ist in
+Übereinstimmung mit der Vorinstanz davon auszugehen, dass der Beschuldigte
+der Privatklägerin am Telefon damit drohte, sie zu erschiessen, wenn er sie
+auf der Strasse sehe.
+4.1.
+Hierfür sprechen
+insbesondere die mit der Aussage ihres Vorgesetzten übereinstimmende und
+konstante bleibende Wiedergabe des Wortlautes durch die Privatklägerin.
+Glaubhaft wirkt, dass sie jeweils Unsicherheiten und Gedächtnislücken offen
+zugab (act. 15, F. 8, 11) und den Beschuldigten nicht übermässig
+beschuldigte. So zeigte sie teilweise sogar Verständnis für dessen Situation
+(Vorakten act. 8.1.03, F. 14). Die Sachverhaltsdarstellung der
+Privatklägerin ist auch im Nachgang an die Drohung überzeugend und lebensnah;
+so schilderte sie namentlich ihre Gefühle der Verunsicherung, ihre Sorge um
+die Sicherheit ihrer Mitarbeitenden, ihre Unsicherheit mit Bezug auf das
+weitere Vorgehen sowie ihre Nervosität beim Verlassen des Gebäudes über den
+Hinterausgang zur nächstgelegenen Bäckerei (vgl. vorne Ziff. IV./3.5.).
+Ihre Aussagen weisen keine Widersprüche auf. Zudem ist mit der Vorinstanz übereinstimmend
+festzustellen, dass keine Gründe ersichtlich sind, weshalb sie eine Drohung
+hätte erfinden und eine ihr gänzlich unbekannte Person anzeigen sollen.
+4.2.
+Demgegenüber wirft
+der vom Beschuldigten behauptete Wortlaut in seiner sich ändernden Form
+verschiedene Zweifel auf. Zwar stellt die unvorteilhafte Darstellung der
+eigenen Rolle innerhalb der Sachverhaltsdarstellung des Beschuldigten ein
+bedeutendes Realitätskriterium dar, doch verliert es durch die ständigen
+Anpassungen bedeutend an Glaubhaftigkeit. Der Beschuldigte vermag zwar
+detailreich und sehr charakteristisch zu schildern, jedoch nur mit Bezug auf
+die Dauer des verwaltungsrechtlichen Verfahrens als unmittelbare
+Vorgeschichte und die Verhaftung als unmittelbare Folge des Vorfalls. Die geltend
+gemachte Erinnerungslücke zum Kerngeschehen und die Unsicherheit mit Bezug
+auf den Wortlaut – wobei es im Laufe des gesamten Verfahrens zu bedeutenden
+Anpassungen und Strukturbrüchen gekommen ist – sind als Lügensignale zu
+werten. Aus den Akten sowie der Fremd- und Eigeneinschätzung des
+Beschuldigten ergibt sich, dass dieser eine temperamentvolle Veranlagung
+besitzt und sein Herz auf der Zunge trägt (vgl. vorne Ziff. IV./3.3.2).
+In Anbetracht des vom Beschuldigten selber anschaulich und lebensnah geschilderten
+Drucks und der Verzweiflung erachtet es das Gericht als mit an Sicherheit
+grenzender Wahrscheinlichkeit für erstellt, dass es dem Beschuldigten – wie
+er selber sagt – den Hut lupfte und er die Drohung des Erschiessens
+aussprach. Dies umso mehr, als die vom Beschuldigten vorgebrachten Einwände,
+welche auf einen anderen Wortlaut hindeuten könnten, erst verhältnismässig
+spät in das Verfahren eingebracht wurden und überdies nicht überzeugen (wie
+seine Ausführungen zum Glarnerdeutsch sowie zu seiner behaupteten
+Waffenaversion), wenn nicht sogar gänzlich lebensfremd anmuten (wie bei der
+behaupteten Verschwörung). Sie sind als Schutzbehauptungen zu werten.
+4.3.
+Im Berufungsverfahren
+wurden Zeugenbegehren gestellt (act. 27, S. 2 und act. 40,
+S. 3). Da die Einvernahme der genannten Zeugen, soweit sie denn
+überhaupt unmittelbar zum Tatgeschehen etwas sagen könnten, an der
+Beurteilung des Gerichts nichts mehr zu ändern vermöchten, ist das
+Zeugenbegehren abzuweisen.
+4.4.
+Das soeben dargelegte
+Beweismass (an Sicherheit grenzende Wahrscheinlichkeit; keine
+zurückbleibenden, ernsthaften Zweifel) ist für eine Verurteilung ausreichend.
+Eine absolute Gewissheit kann vorliegend nicht erlangt werden und wird auch
+nicht verlangt, da theoretische Zweifel immer möglich sind (BGE 144 IV
+345 E. 2.2.1 S. 348). Die Ausführungen des Beschuldigten zur
+Unschuldsvermutung verfangen daher nicht (act. 40, S. 4–6). Nachdem
+bereits die Vorinstanz die Tatschuld des Beschuldigten aus insgesamt
+zutreffenden Überlegungen bejaht hat, kann hier zur Ergänzung der
+vorstehenden Ausführungen auf die entsprechenden Erwägungen im angefochtenen
+Entscheid (act. 23, S. 5–6, E. Ziff. II/3.) verwiesen
+werden (Art. 82 Abs. 4 StPO).
+V.
+Rechtliche Würdigung
+1.
+Die Vorinstanz qualifizierte das
+eingeklagte Tatgeschehen als Gewalt und Drohung gegen Beamte im Sinne von
+Art. 285 Abs. 1 StGB (act. 23, S. 6–7, E. III.).
+Diese Qualifikation wurde im Berufungsverfahren mit Bezug auf den Taterfolg
+gerügt (act. 40, S. 7, 10).
+2.
+2.1.
+Wer einen Beamten durch
+Drohung zu einer Amtshandlung nötigt, die innerhalb seiner Amtsbefugnisse
+liegt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft
+(Art. 285 StGB). Gemäss herrschender Lehre liegt eine Drohung vor, wenn
+– analog zum Tatbestand der Nötigung (Art. 181 StGB) – ein
+"ernstlicher Nachteil" angedroht wird (BSK StGB-
+Heimgartner
+, N 10 zu
+Art. 285 StGB; PK StGB-
+Trechsel/Vest
+,
+N 6 zu Art. 285 StGB). Eine solche Androhung ernstlicher Nachteile
+liegt vor, wenn nach der Darstellung des Täters der Eintritt des Nachteils
+als von seinem Willen abhängig erscheint und wenn die Androhung geeignet ist,
+den Betroffenen in seiner Entscheidungsfreiheit einzuschränken (BSK StGB-
+Delnon/Rüdy
+, N 25 zu
+Art. 181 StGB). Dabei reichen grundsätzlich nur Androhungen, die auch
+eine besonnene Person in der Lage des Betroffenen gefügig machen würden (BSK
+StGB-
+Delnon/Rüdy
+, N 34 zu
+Art. 181 StGB). Das Opfer muss dabei die Verwirklichung des Übels
+befürchten (BSK StGB-
+Delnon/Rüdy
+,
+N 36 zu Art. 181 StGB), wobei unwesentlich ist, ob der Täter die
+Verwirklichung des angedrohten Übels überhaupt anstrebt oder dazu in der Lage
+wäre (BSK StGB-
+Delnon/Rüdy
+,
+N 30 zu Art. 181 StGB). Bei besonders exponierten Amtsträgern (wie
+etwa Polizeibeamte, Betreibungsbeamte, Migrationsbeamte) ist zudem zu
+beachten, dass diese oftmals im Umgang mit renitenten Personen besonders
+geschult sind, weshalb auch die Anforderungen hinsichtlich der Intensität der
+Drohung relativ hoch sind. Bei dieser Kategorie von Beamten ist entsprechend
+ein gewichtiger Nachteil vorauszusetzen, der eine Willensbeeinflussung des
+Beamten als verständlich erscheinen liesse. Bei Todesdrohungen ist eine
+Androhung eines ernstlichen Nachteils auf jeden Fall gegeben (BSK StGB-
+Heimgartner
+, N 11 zu
+Art. 285 StGB; PK StGB-
+Trechsel/Vest
+,
+N 3 und 6 zu Art. 285 StGB je m.w.H.), ebenso wie die
+Rechtswidrigkeit, welche durch die Tatbestandsmässigkeit der Beamtennötigung
+per se noch nicht indiziert wird und daher zusätzlich positiv begründet
+werden muss (BSK StGB-
+Heimgartner
+,
+N 13 zu Art. 285 StGB).
+2.2.
+Bei der
+Tatbestandsvariante der sog. Beamtennötigung zwingt der Täter die Amtsperson
+durch das Nötigungsmittel der Drohung zur Vornahme einer Amtshandlung, d. h.
+er bewirkt diese durch den Amtsträger, gegen dessen Willen. Bei der
+Beamtennötigung handelt es sich wie bei der einfachen Nötigung um ein
+Erfolgsdelikt (BSK StGB-
+Delnon/Rüdy
+,
+N 53 zu Art. 181 StGB), bei welchem der Erfolg erst dann eintritt,
+wenn sich das Opfer (wenigstens teilweise) nach dem Willen des Täters
+verhält; misslingt die Bestimmung von Willensbildung oder -betätigung, so
+bleibt es beim Versuch (PK StGB-
+Trechsel/Mona
+,
+N 9 zu Art. 181 mit Verweis auf BGE 96 IV 58 E. 4
+S. 62–63; BGE 106 IV 125 E. 2.b S. 128–129). Für die
+Beamtennötigung liegt der tatbestandsmässige Erfolg somit in der Vornahme der
+Amtshandlung durch den Amtsträger, wobei teilweise schon der Beginn der
+Amtshandlung als Erfolg betrachtet wird (BSK StGB-
+Heimgartner
+, N 12 zu Art. 285 StGB).
+2.3.
+In subjektiver
+Hinsicht muss die Handlung mit Vorsatz erfolgen, wobei Eventualvorsatz
+ausreicht. Bei der Tatbestandsvariante der Beamtennötigung muss die Handlung
+des Täters zudem mit Wissen und Willen um die möglicherweise nötigende
+Wirkung erfolgen (BSK StGB-
+Heimgartner
+,
+N 23 zu Art. 285 StGB).
+3.
+3.1.
+Der Beschuldigte
+sagte der Privatklägerin am 12. August 2016, ca. 11.30 Uhr,
+dass er sie erschiessen werde, wenn er sie das nächste Mal auf der Strasse
+sehe und beendete danach das Telefongespräch abrupt, womit er sie in Leib und
+Leben bedrohte. Damit ist die Androhung eines ernstlichen Nachteils erstellt
+und es liegt damit eine Drohung im Sinne von Art. 285 Ziff. 1
+Abs. 1 StGB vor. Eine Todesdrohung stellt nach herrschender Lehre eine
+rechtswidrige Androhung eines derart ernstlichen Nachteils dar (BSK StGB-
+Heimgartner
+, N 11 zu
+Art. 285 StGB m.w.H.), dass sie geeignet ist, nicht nur einen besonnenen
+Beamten, sondern auch einen besonders geschulten Beamten in der Kategorie der
+Privatklägerin als Mitarbeitende der Arbeitslosenkasse – welche nach eigener
+Aussage routinemässig Kontakt zu schwierigen Personen hat (Vorakten
+act. 8.1.03, F. 8) – gefügig zu machen. Die Privatklägerin selber
+führte denn auch glaubhaft aus, wie sie in Angst versetzt wurde und sich
+weder in den Räumlichkeiten der Arbeitslosenkasse noch auf der Strasse sicher
+fühlte (vgl. Vorakten act. 8.1.03, F. 9–10). Der Beschuldigte hat
+die Privatklägerin durch seine Aussage und den anschliessenden Abbruch des
+Telefongesprächs mit Wissen und Willen um deren drohende, möglicherweise
+hindernde bzw. nötigende Wirkung in ihrem Sicherheitsgefühl beeinträchtigt.
+Vorsätzlich (oder zumindest eventualvorsätzlich) wollte er mit seiner Aussage
+erreichen, dass die Privatklägerin oder andere Mitarbeitende der
+Arbeitslosenkasse seine Einsprache vom 11. Mai 2016 gegen die Verfügung
+der Arbeitslosenkasse vom 10. Mai 2016 umgehend bearbeiten würden, wie
+dies auch aus seiner tags darauf verfassten E-Mail vom 13. August 2016
+(Vorakten act. 8.1.05, S. 2–3) sowie verschiedenen Aussagen (vgl.
+bspw. Vorakten act. 8.1.02, F. 4: "Ich werde immer wieder
+gebeten Sachen einzureichen und es geht einfach nicht vorwärts. Da ich dann
+etwas wütend wurde, dass mein Verfahren nicht weiter geht habe ich heute in
+sehr lautem Ton am Telefon gesagt […]"; act. 9, F. 10:
+"[…] und ich war da laut, das gebe ich zu, nach so langer Zeit, es war
+so ein grosser Kampf" und F. 12: "Denken Sie mal,
+14 Monate immer der gleiche Stapel vor sich, man kommt nicht
+weiter") und eingereichten Beilagen (act. 5, S. 2;
+act. 6/7) ersichtlich ist. Unmassgeblich für den Vorsatz (oder
+Eventualvorsatz) ist, ob der Beschuldigte die Verwirklichung der Drohung
+effektiv anstrebte bzw. ob er, da er keine Schusswaffen mehr besitzt,
+unmittelbar dazu überhaupt in der Lage war.
+3.2.
+Die Vorinstanz ging
+davon aus, dass der Beschuldigte durch seine Drohung eine zügigere Behandlung
+seines Gesuchs um Arbeitslosengeld erreichte (vgl. act. 23, S. 7,
+Ziff. III.) und verweist dabei auf die Antwort von X.______ vom
+16. August 2016 auf die E-Mail des Beschuldigten vom 13. August
+2016 (Vorakten act. 8.1.05) sowie die Antwort der Privatklägerin auf die
+Frage, was der Beschuldigte mit der Drohung habe erreichen wollen (vgl.
+Vorakten act. 10.2.02, F. 13: "Schlussendlich denke ich schon,
+dass er wollte, dass wir seinen Forderungen nachkommen bzw. entsprechen"
+und F. 14: "Ich denke schon, dass er sagen wollte, jetzt müssten
+wir dem mal endlich entsprechen und den Anspruch gewähren"). Der
+Beschuldigte stellt dies in Abrede und verweist darauf, dass eine durch die
+Drohung ausgelöste Amtshandlung nicht nachgewiesen sei (act. 40,
+S. 10); sodann seien ihm in der Folge Arbeitslosengelder nicht aufgrund
+seines Telefons, sondern aufgrund seines gesetzlichen Anspruchs ausbezahlt
+worden (act. 9, F. 12: "'aufgrund des Telefons hätte ich die Ausbezahlung
+gekriegt', das stimmt doch nicht! Des Amtes wegen mussten sie endlich zahlen,
+nicht wegen meinem Telefonat"). Dem ist zuzustimmen. Aus den Akten
+ergibt sich lediglich der subjektive Wille des Beschuldigten, das langwierige
+Verfahren zu beschleunigen (vgl. vorne Ziff. V./3.1), nicht aber auf
+eine objektiv erfolgte Beschleunigung desselben. Die Privatklägerin gibt an,
+durch die Drohung zwar in Angst versetzt worden zu sein, nicht aber als Folge
+der Drohung eine bestimmte Amtshandlung vorgenommen zu haben (Vorakten act. 10.2.02,
+F. 16: "Ich wurde ja eigentlich nicht genötigt"). Auch aus den
+restlichen Akten lässt sich kein Hinweis darauf entnehmen, dass der
+Beschuldigte mit seiner Drohung tatsächlich eine konkrete Amtshandlung zu
+erwirken vermochte. Damit ist der für die Beamtennötigung erforderliche
+Erfolg nicht eingetreten. Indes aber ist offensichtlich, dass seine Drohung
+darauf ausgerichtet war, die Privatklägerin dazu zu verhalten, sein pendentes
+Gesuch um Arbeitslosengeld nun umgehend an die Hand zu nehmen. Es liegt somit
+ein vollendeter Versuch im Sinne von Art. 22 Abs. 1 StGB vor. Der
+Beschuldigte ist damit schuldig der versuchten Gewalt und Drohung gegen
+Behörden und Beamten im Sinne von Art. 285 Ziff. 1 StGB in
+Verbindung mit Art. 22 Abs. 1 StGB.
+VI. Strafzumessung und Vollzug
+1.
+Die
+Vorinstanz verurteilte den Beschuldigten wegen Gewalt und Drohung gegen
+Beamte im Sinne von Art. 285 Ziff. 1 StGB zu einer Geldstrafe von
+30 Tagessätzen zu je CHF 30.–, bedingt aufgeschoben bei einer
+Probezeit von zwei Jahren, sowie zu einer Busse von CHF 300.–, wobei die
+Busse, falls sie nicht bezahlt wird, in eine unbedingt vollziehbare
+Ersatzfreiheitsstrafe von drei Tagen umgewandelt würde (act. 23,
+S. 10, Dispositivziffer 2). Weil vorliegend einzig der Beschuldigte
+Berufung erhoben hat, kann das Obergericht von vornherein nicht über dieses
+Strafmass hinausgehen (Art. 391 Abs. 2 StPO).
+2.
+Die Verteidigung bringt vor, dass
+die vorinstanzliche Strafzumessung im Falle einer Verurteilung angemessen zu
+korrigieren sei. So müsse das Ausbleiben des Erfolges als
+Strafmilderungsgrund im Sinne von Art. 22 Abs. 1 StGB genommen
+werden. Überdies könne aufgrund der Dauer des Verfahrens und dem Umstand,
+dass es dem Beschuldigten nicht um einen persönlichen Vorteil, sondern um
+Gelder für die Sozialhilfe ging, von einem sehr geringen Verschulden des
+Beschuldigten ausgegangen werden. Zudem sei zu berücksichtigen, dass der
+Vorfall mittlerweile über sechs Jahre zurückliege und dass der Beschuldigte
+altershalber sowie aufgrund seines Vorlebens und seiner nicht einschlägigen
+Vorstrafen milder zu bestrafen sei (act. 40, S. 10–11)
+3.
+3.1.
+Die Gewalt und
+Drohung gegen Behörden und Beamte im Sinne von Art. 285 Ziff. 1
+StGB wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+Bei der vorliegend als Sanktionsart zur Debatte stehende Geldstrafe (siehe
+dazu BGE 144 IV 217 E. 3.3.3 S. 227–229) reicht der abstrakt
+mögliche Strafrahmen von drei bis zu höchstens 180 Tagessätzen (Art. 34
+Abs. 1 StGB).
+3.2.
+Innerhalb des
+Strafrahmens bemisst das Gericht die Strafe nach dem Verschulden des Täters,
+wobei es dessen Vorleben und persönliche Verhältnisse sowie die Wirkung der
+Strafe auf sein Leben berücksichtigt (Art. 34 Abs. 1 i.V.m.
+Art. 47 Abs. 1 StGB). Das Verschulden bestimmt sich nach der Schwere
+der Verletzung oder Gefährdung des betroffenen Rechtsguts, der
+Verwerflichkeit des Handelns, den Beweggründen und Zielen des Täters sowie
+danach, wie weit der Täter nach den inneren und äusseren Umständen in der
+Lage war, die Gefährdung oder Verletzung zu vermeiden (Art. 47
+Abs. 2 StGB). Zu unterscheiden ist dabei zwischen der Tat- und der
+Täterkomponente (BGE 141 IV 61 E. 6.1.1 S. 66–67 m.w.H.).
+3.2.1.
+Bei der
+Tatkomponente
+bildet die objektive
+Tatschwere, d.h. das Ausmass der Verletzung und
+der Gefährdung des Rechtsguts sowie die Art und Weise des Tatvorgehens, den
+Ausgangspunkt (
+Hans Mathys,
+Leitfaden
+zur Strafzumessung, 2. Aufl., Basel 2019, Rz. 77 ff.;
+Günter Stratenwerth/Felix Bommer,
+Schweizerisches
+Strafrecht, Allgemeiner Teil II: Strafen und Massnahmen, 3. Aufl.,
+Bern 2020, § 5 Rz. 19 ff.). Sodann ist zu beurteilen, wie dem Täter
+die objektive Tatschwere
+subjektiv
+anzurechnen ist (
+Hans Mathys,
+a.a.O., Rz. 142 ff.;
+Günter Stratenwerth/Felix Bommer,
+a.a.O.,
+§ 5 Rz. 25 ff.).
+3.2.2.
+Die
+Täterkomponente
+umfasst die persönlichen Verhältnisse, das Vorleben, die Strafempfindlichkeit
+sowie das Nachtatverhalten des Täters (
+Günter
+Stratenwerth/Felix Bommer,
+a.a.O., § 5 Rz. 36).
+3.3.
+Die Festsetzung der
+Strafe erfolgt dabei in zwei Schritten: Zunächst ist die dem Verschulden des
+Täters angemessene
+Anzahl
+Tagessätze zu bestimmen (Art. 34
+Abs. 1 StGB; vgl. nachfolgend Ziff. VI./4.). Danach ist die
+Höhe
+des Tagessatzes entsprechend den finanziellen Verhältnissen des Beschuldigten
+im Zeitpunkt des Urteils betraglich festzulegen (Art. 34 Abs. 2
+StGB; vgl. nachfolgend Ziff. VI./5.).
+4.
+4.1.
+Zur Bewertung der
+objektiven
+Tatschwere
+ist vorliegend zunächst zu beachten, dass Art. 285
+Ziff. 1 StGB als Rechtsgut das Funktionieren der staatlichen Organe und
+damit recht eigentlich die staatliche Autorität schützt (BSK StGB-
+Heimgartner, N 2
+zu
+Vor Art. 285 StGB). Zu diesem
+Zweck muss (sekundär) auch die physische und psychische Integrität der
+Amtsträger mitgeschützt werden. Der Beschuldigte äusserte eine Todesdrohung,
+die sich gegen die Privatklägerin richtete, sie in Angst versetzte und in
+ihrem Sicherheitsgefühl beeinträchtigte; dadurch verletzte er das durch
+Art. 285 Ziff. 1 StGB geschützte Rechtsgut indirekt. Das Ausmass
+der Verletzung des Rechtsgutes ist bei einer wie hier telefonischen
+Todesdrohung vergleichsweise gering, dies gemessen an den möglichen
+Tatbestandsvarianten von Art. 285 Ziff. 1 StGB, die bis hin zu
+physischer Gewalt reichen. Weitere Kriterien für die Bewertung der objektiven
+Tatschwere fehlen naturgemäss, da es sich vorliegend um einen vollendeten
+Versuch handelt. Aus diesem Grund muss das Gericht in einem ersten Schritt
+vom hypothetisch vollendeten Delikt ausgehen (
+Mathys,
+a.a.O., Rz. 121): Wenn die Beamtennötigung entsprechend dem
+Vorsatz des Beschuldigten vollendet worden wäre, hätte dies mutmasslich zu
+einer Beschleunigung des verwaltungsrechtlichen Verfahrens geführt, d.h. die
+später effektiv erfolgte Auszahlung durch die Arbeitslosenkasse wäre als
+Amtshandlung zeitlich früher erfolgt. Da der Beschuldigte durch seine
+Todesdrohung also auf den Willen der Behörde nicht inhaltlich Einfluss nahm,
+sondern vielmehr eine ohnehin zu erfolgende Amtshandlung beschleunigen
+wollte, ist der Unrechtsgehalt des hypothetisch vollendeten Delikts als
+gering einzustufen. Dem entspricht die Einordnung der Tatschwere noch im
+unteren Bereich der Geldstrafe und hier konkret bei 60 Tagessätzen.
+4.2.
+In Hinsicht auf die
+subjektive
+Tatschwere
+ist zunächst festzuhalten, dass der Beschuldigte vorsätzlich
+mit Bezug auf die Drohung und zumindest eventualvorsätzlich mit Bezug auf die
+Beamtennötigung handelte. Verschuldensmindernd ist zu werten, dass der
+Beschuldigte unter grosser seelischer Belastung und in einer heftigen
+Gemütsbewegung gehandelt hat (Art. 48 lit. c StGB). Der psychische
+Druck, der während des langen Zeitraums des verwaltungsrechtlichen Verfahrens
+stetig anwuchs und beim Beschuldigten zu einer Verzweiflung führte
+(act. 9, F. 10: "[…] so gedrängt über die Jahre und emotional
+geladen"), ist letztlich der Grund dafür, dass der Beschuldigte keinen
+anderen Ausweg als die Drohung mehr sah (
+Mathys,
+a.a.O., Rz. 246). Nach Art. 48 lit. c StGB muss die
+Belastung ebenso wie die heftige Gemütsbewegung entschuldbar sein (
+Mathys,
+a.a.O., Rz. 244, 247).
+Vorliegend ist davon auszugehen, dass ein vernünftiger Mensch unter denselben
+äusseren Bedingungen fähig gewesen wäre, die Situation richtig einzuschätzen
+und zu meistern. Denn immerhin wurde der Beschuldigte damals bereits von der
+Sozialhilfe unterstützt und befand sich demnach nicht in einer unmittelbaren
+finanziellen Notlage. Auch bei der Aussage der Privatklägerin – welcher der
+Beschuldigte als "schwere Drohung" auffasste (Vorakten
+act. 10.1.01, F. 5) – darf nicht angenommen werden, dass ein
+durchschnittlicher Mensch mit vergleichbarer Herkunft, Erziehung sowie
+täglicher Lebensführung wie der Beschuldigte in derselben Situation leicht in
+einen solchen Affekt geraten wäre.
+Insgesamt vermögen die
+subjektiven Elemente die objektive Tatschwere nur leicht zu vermindern. Das
+Verschulden des Beschuldigten ist somit nicht wie von der Verteidigung
+vorgebracht als sehr leicht (act. 40, S. 10), sondern gerade noch
+als leicht zu erachten. Im Ergebnis rechtfertigt sich eine Einsatzstrafe von
+55 Tagessätzen.
+4.3.
+4.3.1.
+Gemäss
+Art. 22 Abs. 1 StGB kann das Gericht die Strafe mildern, wenn der
+zur Vollendung der Tat gehörende Erfolg nicht eintritt (BSK StGB-
+Niggli/Maeder
+, N 28 zu
+Art. 22 StGB; BSK StGB-
+Wiprächtiger/Keller
+,
+N 4 zu Art. 48a StGB). Es handelt sich dabei um einen vom Verschulden
+unabhängigen Milderungsgrund, hat doch der Täter aus seiner Sicht alles
+Nötige für den Taterfolg getan. Obwohl sich nichts am Unrechtsgehalt der Tat
+ändert, gehört die Berücksichtigung des vollendeten Versuchs und des in der
+Folge geringeren Strafbedürfnisses – wie vom Beschuldigten richtig
+vorgebracht (act. 40, S. 10–11) – zur Tatkomponente und wirkt sich
+auf die tatbezogene Strafzumessung aus: Konkret ist eine tiefere Strafe
+auszufällen, wenn der Taterfolg nicht eingetreten ist (
+Mathys,
+a.a.O., Rz. 298, 301).
+Das Mass der zulässigen Reduktion der Strafe hängt nach bundesgerichtlicher
+Rechtsprechung unter anderem von der Nähe des tatbestandsmässigen Erfolgs und
+den tatsächlichen Folgen der Tat ab; es wird mit andern Worten umso geringer
+sein, je näher der tatbestandsmässige Erfolg und je schwerwiegender die
+tatsächliche Folge der Tat war (
+Mathys,
+a.a.O., Rz. 300; BSK StGB-
+Wiprächtiger/Keller
+,
+N 24 zu Art. 48a StGB; BGE 121 IV 49 E. 1.b S. 54).
+4.3.2.
+Vorliegend handelt
+es sich aber immerhin um einen vollendeten Versuch, indem der Beschuldigte
+eine Todesdrohung ausstiess, welche bei einem anderen Adressaten durchaus
+geeignet gewesen wäre, ihn zu einer Amtshandlung zu nötigen. Insofern ist mit
+einer Reduktion der Strafe um 15 Tagessätze dem Umstand, dass es sich
+"nur" um einen vollendeten Versuch gehandelt hat, zureichend
+Rechnung getragen. Demnach beläuft sich die hier schuldangemessene Geldstrafe
+auf 40 Tagessätze.
+4.4.
+4.4.1.
+Im Sinne von
+Art. 47 Abs. 1 StGB kann die verschuldensangemessene Strafe
+aufgrund verschiedener
+Täterkomponenten
+, d.h. Faktoren, die beim Täter
+liegen und geeignet sind, ihn zu belasten oder zu entlasten und dazu führen,
+dass die Höhe der Strafe entsprechend herabgesetzt oder erhöht wird (
+Mathys,
+a.a.O., Rz. 311).
+4.4.2.
+Das Vorleben und
+die persönlichen Verhältnisse des Beschuldigten erweisen sich für die
+Strafzumessung als neutral. Der Beschuldigte ist heute 68-jährig
+(act. 42, F. 4). Das Alter hat jedoch – entgegen der Ansicht des
+Beschuldigten (act. 40, S. 11) – keinen Einfluss auf die
+Strafzumessung (
+Mathys,
+a.a.O.,
+Rz. 311; vgl. hierzu auch Urteil BGer 6B_1299/2016
+vom 27. September 2017 E. 2.3.3 und Urteil BGer 6S.2/2006
+vom 7. März 2006 E. 1.2). Es sind auch sonst keine weiteren
+Täterkomponenten ersichtlich, welche sich auf die Strafzumessung auswirken
+könnten.
+4.5.
+4.5.1.
+Das
+Beschleunigungsgebot
+verpflichtet die Behörden, Strafverfahren unverzüglich an die Hand zu nehmen
+und sie ohne unbegründete Verzögerung zum Abschluss zu bringen (Art. 5
+Abs. 1 StPO), denn jede Person hat in Verfahren vor Gerichts- und
+Verwaltungsinstanzen Anspruch auf Beurteilung innert angemessener Frist
+(Art. 29 Abs. 1 BV). Welche Verfahrensdauer angemessen ist, hängt von
+den konkreten Umständen des Einzelfalls ab, welche in ihrer Gesamtheit zu
+würdigen sind (
+Mathys,
+a.a.O.,
+Rz. 367).
+4.5.2.
+Das vorliegende Strafverfahren dauerte
+insgesamt erheblich zu lange, was entsprechend auch im nachfolgenden
+Dispositiv festzuhalten ist (BGE 143 IV 373 E. 1.4.2
+S. 379–380; Urteil BGer 6B_790/2017 vom 18. Dezember 2017
+E. 2.3.2 m.w.H.). Als Folge der langen Verfahrensdauer sowie im Lichte
+auch von Art. 48 lit. e StGB ist die schuldangemessene Strafe von
+40 Tagessätzen hier deutlich um 20 Tagessätze herabzusetzen, womit
+die auszufällende Strafe noch 20 Tagessätze beträgt.
+5.
+Festlegung der
+Tagessatzhöhe
+5.1.
+Ein Tagessatz beträgt
+in der Regel mindestens CHF 30.– und höchstens CHF 3'000.–. Das
+Gericht bestimmt die Höhe des Tagessatzes nach den persönlichen und
+wirtschaftlichen Verhältnissen des Täters im Zeitpunkt des Urteils,
+namentlich nach Einkommen und Vermögen, Lebensaufwand, allfälligen Familien-
+und Unterstützungspflichten sowie nach dem Existenzminimum (Art. 34
+Abs. 2 StGB). Hierbei bleibt zu erwähnen, dass auch bei einkommensschwachen
+Personen dem Zweck der Geldstrafe und ihrer Bedeutung im strafrechtlichen
+Sanktionensystem Rechnung zu tragen ist; bei Verurteilten, die nahe oder
+unter dem Existenzminimum leben, ist daher der Tagessatz lediglich in dem
+Masse herabzusetzen, dass einerseits die Ernsthaftigkeit der Sanktion durch
+den Eingriff in die gewohnte Lebensführung erkennbar ist und andererseits der
+Eingriff nach den persönlichen und wirtschaftlichen Verhältnissen als
+zumutbar erscheint (
+Mathys,
+a.a.O.,
+Rz. 449).
+5.2.
+Der Beschuldigte verfügt
+gemäss eigenen Angaben aufgrund seiner Rente und Ergänzungsleistungen über
+monatliche Einkünfte von CHF 2'780.– (act. 9, F. 6;
+act. 42, F. 12). Hinweise auf weitere Einnahmen oder Vermögen sind
+aus den vorhandenen Akten nicht ersichtlich (act. 33–34, act. 42,
+F. 13).
+Der Beschuldigte ist geschieden
+und hat gegenüber seinen volljährigen Kindern keine Unterstützungspflichten
+(act. 9, F. 5; act. 42 F. 8–9, 14). Andere
+Unterstützungspflichten wurden ebenfalls nicht geltend gemacht.
+Der Beschuldigte ist damit als
+einkommensschwach einzustufen.
+5.3.
+Für
+einkommensschwache Personen rechtfertigt sich eine Herabsetzung des
+Nettoeinkommens um mindestens die Hälfte (
+Mathys,
+a.a.O., Rz. 450), wobei vorliegend eine Reduktion um die Hälfte
+als angemessen erscheint. Wird der Tagessatz basierend auf diesen Angaben
+nach dem von der Schweizerischen Staatsanwälte-Konferenz empfohlenen
+Berechnungsformular ausgerechnet, ergibt sich auch mit dem aktuellen
+Einkommen des Beschuldigten ein Tagessatz von CHF 36.–. Eine Abrundung
+in Übereinstimmung mit der Tagessatzhöhe der Vorinstanz auf das gesetzliche
+Minimum von CHF 30.– erscheint unter den vorliegenden finanziellen
+Verhältnissen als angemessen.
+5.4.
+Gesamthaft ergibt
+sich damit, dass dem Beschuldigten vorliegend eine Geldstrafe von
+20 Tagessätzen zu je CHF 30.– aufzuerlegen ist. Diese ist in
+Übereinstimmung mit der Vorinstanz (act.  23, S. 8–9,
+Ziff. V.1.) bedingt auszusprechen (vgl. Art. 391 Abs. 2 StPO).
+6.
+6.1.
+Zu prüfen bleibt, ob
+die bedingte Geldstrafe vorliegend in Anwendung von Art. 42 Abs. 4
+StGB mit einer Busse nach Art. 106 StGB zu verbinden ist. Eine
+Verbindungsbusse kommt insbesondere dann in Betracht, wenn das Gericht dem
+Täter den bedingten Vollzug einer Geld- oder Freiheitsstrafe gewähren, ihm
+aber dennoch mit der Auferlegung einer zu bezahlenden Geldbusse den Ernst der
+Lage vor Augen führen möchte. Die Verbindungsbusse soll damit nicht zu einer
+Straferhöhung führen oder eine zusätzliche Strafe ermöglichen; sie erlaubt
+lediglich innerhalb der schuldangemessenen Strafe eine täter- und
+tatangemessene Sanktion, wobei die an sich verwirkte Geldstrafe und die damit
+verbundene Busse in ihrer Summe schuldangemessen sein müssen. Um den
+akzessorischen Charakter der Verbindungsstrafe gerecht zu werden, ist gemäss bundesgerichtlicher
+Rechtsprechung die Obergrenze grundsätzlich auf einen Fünftel der konkret
+auszufällenden Strafe festzusetzen (BGE 146 IV 145 E. 2.2.
+S. 147–148; BGE 135 IV 188 E. 3.3 S. 189–190 und
+E. 3.4.4 S. 190–191, je m.w.H.).
+6.2.
+Vorliegend rechtfertigt
+es sich aufgrund der zu beurteilenden Tat und insbesondere im Hinblick auf
+die spezialpräventiven Gesichtspunkte den Beschuldigten mit einer (spürbaren)
+Verbindungsbusse zu belegen. Unter Beachtung der bundesgerichtlichen
+Rechtsprechung (vgl. vorstehende Ziff. VI./6.1.) ist die oben erwähnte
+Geldstrafe von 20 Tagessätzen zu je CHF 30.– (entsprechend
+CHF 600.–) mit einer Busse von CHF 120. – (entsprechend 20 %
+der Geldstrafe) zu verbinden.
+6.3.
+Da ein Teil der
+Sanktion mit der akzessorischen Busse abzugelten ist (vgl. vorstehende
+Ziff. V./6.1.), rechtfertigt es sich, entsprechend den Ausführungen der
+Vorinstanz (act. 23, S. 9, Ziff. V.2.), die Geldstrafe des
+Beschuldigten in einem der Bussenhöhe gleichkommenden Umfang zu reduzieren.
+Die oben festgelegte Geldstrafe von 20 Tagessätzen zu je CHF 30.–
+(vgl. vorne Ziff. VI./5.4.) ist entsprechend um 4 Tagessätze
+(entsprechend der Bussenhöhe von CHF 120.– [4 x CHF 30.–]) zu
+reduzieren.
+6.4.
+Demnach ist der
+Beschuldigte mit einer bedingten Geldstrafe von 16 Tagessätzen zu je
+CHF 30.– (entsprechend CHF 480.–) und einer Verbindungbusse von
+CHF 120.– zu bestrafen. Der Beschuldigte hat die Busse zu bezahlen
+(Art. 105 Abs. 1 StGB). Für den Fall, dass der Beschuldigte die Busse
+schuldhaft nicht bezahlt, ist eine Ersatzfreiheitsstrafe festzulegen
+(Art. 42 Abs. 4 StGB i.V.m. Art. 106 Abs. 2 StGB). Als
+Umrechnungsschlüssel für die Bemessung der Ersatzfreiheitsstrafe ist die Höhe
+des Tagessatzes einer parallel ausgefällten Geldstrafe heranzuziehen, indem
+die Busse durch den betreffenden Tagessatz zu dividieren ist (BGE 134 IV
+60 E. 7.3.3 S. 77 m.w.H.). Somit würde vorliegend grundsätzlich
+eine Ersatzfreiheitsstrafe von vier Tagen resultieren
+(CHF 120.– : 30.–).
+VII.
+Kosten- und Entschädigungsfolgen
+1.
+1.1.
+Die Kosten des
+Rechtsmittelverfahrens tragen die Parteien nach Massgabe ihres Obsiegens oder
+Unterliegens (Art. 428 Abs. 1 StPO). Erwirkt eine Partei, die ein
+Rechtsmittel ergriffen hat, einen für sie günstigeren Entscheid, so können
+ihr die Verfahrenskosten auferlegt werden, wenn der angefochtene Entscheid
+nur unwesentlich abgeändert wird (Art. 428 Abs. 2 lit. b
+StPO).
+1.2.
+Im vorliegenden
+Berufungsverfahren waren Sachverhalt und Schuldpunkt strittig. Die Berufung
+des Beschuldigten ist im Wesentlichen abzuweisen.
+Während die
+von der Vorinstanz ausgesprochene Sanktion weitgehend bestätigt wird, ist die
+Anzahl Tagessätze jedoch zu Gunsten des Beschuldigten herabgesetzt worden.
+Bei diesem Ausgang sind die Gebühren für das obergerichtliche Verfahren dem
+Beschuldigten im Umfang von drei Vierteln aufzuerlegen.
+1.3.
+Die (volle)
+Gerichtsgebühr für das Berufungsverfahren ist auf CHF 2'000.–
+festzusetzen (Art. 8 Abs. 1 lit. b Ziff. 2 der Verordnung
+zu den Kosten im Zivil- und Strafprozess vom 22. Dezember 2010 [GS III
+A/5]).
+Der Beschuldigte hat davon CHF 1'500.— als
+reduzierte Gerichtsgebühr zu bezahlen. Die restliche Gebühr wird auf die
+Staatskasse genommen.
+2.
+2.1.
+Zu den
+Kosten des Berufungsverfahrens zählen auch die Kosten der amtlichen
+Verteidigung (Art. 422 Abs. 2 lit. a StPO).
+2.2.
+Der amtliche Verteidiger des Beschuldigten
+macht für das Berufungsverfahren Aufwendungen in der Höhe von
+CHF 4'522.30 (inkl. Auslagen und 7.7.% Mehrwertsteuer) geltend
+(act. 49/1). Darin enthalten sind auch die voraussichtlichen Kosten für
+die Nachbesprechung des Urteils des Obergerichts. Veranschlagt ist ein
+Stundensatz von CHF 250.– (act. 49/1).
+2.3.
+Wie sich aus Art. 6 des Tarifs für die
+Entschädigung der öffentlichen Verteidigung und der unentgeltlichen
+Rechtsvertretung des Kantons Glarus vom 12. März 2004 (GS III I/5;
+nachfolgend: Entschädigungstarif) ergibt, wird der notwendige Zeitaufwand
+einer amtlichen Verteidigung mit CHF 180.– pro Stunde entschädigt. Zudem
+ist der in Rechnung gestellte Zeitaufwand des amtlichen Verteidigers mit
+Bezug auf die in ihrer Dauer geschätzten Berufungsverhandlung als zu hoch zu
+bezeichnen, da diese statt 120 Minuten (act. 49/1) lediglich deren
+105 gedauert hat (act. 40, S. 13). Der in Rechnung gestellte
+Zeitaufwand ist somit auf 990 Minuten respektive 16.5 Stunden zu
+reduzieren. Zusammen mit den Auslagen und der Mehrwertsteuer ergibt sich
+somit ein Rechnungstotal von CHF 3'211.– (CHF 2'970.— [Honorar für
+Stundenaufwand] + 11.50 [Auslagen] + 0.077 * 2'981.50 [Mehrwertsteuer]).
+Dieser Betrag erscheint als angemessen (vgl. Art. 3 Abs. 1 i.V.m.
+Art. 6 Abs. 1 Entschädigungstarif).
+2.4.
+Die
+Entschädigung der amtlichen Verteidigung erfolgt vorab durch die
+Gerichtskasse (Art. 426 Abs. 1 StPO). Soweit der Beschuldigte zu
+den Verfahrenskosten verurteilt wird, so hat er die Kosten der amtlichen
+Verteidigung der Gerichtskasse zurückzuerstatten, wenn es seine
+wirtschaftlichen Verhältnisse erlauben (Art. 135 Abs. 4 lit. a
+StPO). Angesichts des im Vergleich zum vorinstanzlichen Entscheid milderen
+Urteils hat der Beschuldigte vorliegend nicht die gesamten Kosten des
+Berufungsverfahrens zu tragen (siehe dazu oben Ziff. V./2.). Demgemäss
+können ihm auch die Verteidigungskosten des Berufungsverfahrens nur zu drei
+Vierteln auferlegt werden. Insofern hat der Beschuldigte, sobald es seine
+wirtschaftlichen Verhältnisse erlauben, dem Staat CHF 2'408.25
+zurückzuerstatten. Der amtliche Verteidiger kann zudem die Differenz zu
+seinem vollen Honorar (von ihm berechnet mit einem Stundenansatz von CHF
+250.—) vom Beschuldigten einfordern, sobald es dessen wirtschaftlichen
+Verhältnisse erlauben (Art. 135 Abs. 4 lit. b StPO).
+3.
+Beim vorliegenden Ausgang des
+Berufungsverfahrens hat der Beschuldigte keinen Anspruch auf Entschädigung
+(Art. 429 Abs. 1 StPO
+e contrario
+). Der Privatklägerin ist
+im Berufungsverfahren ebenfalls keine Entschädigung zuzusprechen, da weder
+ein entsprechender Antrag gestellt wurde, noch notwendige Aufwendungen
+ersichtlich sind (Art. 433 StPO
+e contrario
+).
+4.
+Da das Obergericht als
+Rechtsmittelinstanz vorliegend einen neuen Entscheid fällt, ist auch über die
+von der Vorinstanz getroffene Kostenregelung betreffend die Gerichtsgebühr in
+Höhe von CHF 1'600.– und die weiteren Verfahrenskosten in Höhe von
+insgesamt CHF 1'600.– (vgl. act. 23, S. 10, Dispositivziffer 4)
+zu befinden.
+Es ist im Lichte von Art. 6 Abs. 1 sowie
+Art. 7 Abs. 1 lit. b Ziff. 3 und Art. 8 Abs. 1
+lit. b Ziff. 2 der Verordnung zu den Kosten im Zivil- und
+Strafprozess vom 22. Dezember 2010 (GS III A/5) kein Grund
+ersichtlich, welcher eine Änderung des vorinstanzlichen Kostenentscheids
+nahelegen würde, zumal auch der Beschuldigte hiergegen keine konkreten
+Einwände vorgebracht hat. Der Beschuldigte wurde im erstinstanzlichen
+Verfahren im Anklagepunkt schuldig gesprochen (act. 23, S. 10,
+Dispositivziffer 1). Die vorinstanzliche Kostenregelung (act. 23,
+S. 10, Dispositivziffer 4–5) ist daher unverändert zu bestätigen.
+____________________
+Das Gericht
+erkennt
+:
+1.
+A.______ ist schuldig
+der versuchten Gewalt und
+Drohung gegen Behörden und Beamte im Sinne von Art. 285 Ziff. 1
+StGB in Verbindung mit Art. 22 Abs. 1 StGB.
+2.
+Es wird festgestellt, dass im
+vorliegenden Verfahren das Beschleunigungsgebot verletzt wurde.
+3.
+A.______ wird bestraft mit einer
+bedingten Geldstrafe von 16 Tagessätzen zu je CHF 30.– sowie zu einer
+Busse von CHF 120.–.
+Der Vollzug der Geldstrafe wird
+aufgeschoben und die Probezeit wird auf zwei Jahre festgesetzt.
+Die Busse von CHF 120.–
+ist zu bezahlen. Bezahlt A.______ die Busse schuldhaft nicht, so tritt an
+deren Stelle eine Ersatzfreiheitsstrafe von vier Tagen.
+4.
+Die Gerichtsgebühr und die
+weiteren Kosten für das erstinstanzliche Verfahren SG.2020.00152 und das
+Untersuchungsverfahren SA.2016.00424 von insgesamt CHF 3'200.– (exkl.
+Kosten der amtlichen Verteidigung) werden A.______ vollumfänglich auferlegt
+und von ihm bezogen.
+5.
+Für das Berufungsverfahren wird
+eine Gerichtsgebühr im Betrag von CHF 2'000.—festgesetzt. Diese Gebühr
+wird im Umfang von CHF 1'500.--  A.______ auferlegt und von ihm
+bezogen. Im Mehrbetrag wird die Gebühr auf die Staatskasse genommen.
+6.
+Rechtsanwalt lic. iur. Erich
+Leuzinger wird für das Berufungsverfahren als amtlicher Verteidiger von
+A.______ aus der Gerichtskasse mit insgesamt
+CHF 3'211.–
+(inkl. Auslagen und Mehrwertsteuer) entschädigt. A.______ wird
+verpflichtet, der Gerichtskasse die Kosten der amtlichen Verteidigung für
+das Berufungsverfahren im Umfang von
+CHF 2'408.25
+zurückzuerstatten,
+wenn es seine wirtschaftlichen Verhältnisse erlauben. Die wirtschaftlichen
+Verhältnisse von A.______ werden spätestens im Januar 2024 überprüft.
+7.
+Es werden keine
+Parteientschädigungen zugesprochen.
+8.
+Schriftliche Mitteilung an:
+[...]
