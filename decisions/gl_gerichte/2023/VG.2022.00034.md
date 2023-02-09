@@ -1,0 +1,743 @@
+---
+decision_id: "gl_gerichte_VG.2022.00034"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2022.00034"
+docket_2: "VG.2023.1215"
+decided: "2023-02-09"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1651&W10_KEY=218274&nTrefferzeile=5&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-007.md", "switzerland/bund/acts/830.1/art-016.md", "switzerland/bund/acts/830.1/art-017.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.20/art-028.md", "switzerland/bund/acts/831.20/art-069.md", "switzerland/bund/acts/831.201/art-087.md", "switzerland/bund/acts/831.201/art-088a.md"]
+---
+
+# GL Gerichte VG.2022.00034
+
+## Regeste
+
+Sozialversicherung - IV
+
+## Text
+
+Glarus Verwaltungsgericht 09.02.2023 VG.2022.00034 (VG.2023.1215)
+Glaris Verwaltungsgericht 09.02.2023 VG.2022.00034 (VG.2023.1215)
+Glarona Verwaltungsgericht 09.02.2023 VG.2022.00034 (VG.2023.1215)
+
+Sozialversicherung - IV
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom 9. Februar 2023
+II. Kammer
+Besetzung:
+Gerichtspräsident MLaw Colin Braun, Verwaltungsrichterin Sally Leuzinger,
+Verwaltungsrichter Walter Salvadori und Gerichtsschreiber MLaw Keivan
+Mohasseb
+in Sachen
+VG.2022.00034
+A.______
+Beschwerdeführer
+vertreten durch
+Prof.
+Dr.
+Hardy
+Landolt,
+Rechtsanwalt
+gegen
+IV-Stelle Glarus
+Beschwerdegegnerin
+betreffend
+Invalidenrente
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Der am […] geborene A.______ meldete sich am 2.
+April 2013 unter Hinweis auf Rückenschmerzen zum Bezug von Leistungen der
+Invalidenversicherung an. Nach Einholung verschiedener Berichte sprach ihm
+die IV-Stelle ab dem 1. Februar 2014 eine ganze Invalidenrente zu.
+1.2
+Am 14. September 2016 eröffnete die IV-Stelle von
+Amtes wegen ein Revisionsverfahren. Sie holte Berichte der behandelnden
+Ärztinnen und Ärzte ein und beauftragte die Neurologie Toggenburg AG mit
+einer polydisziplinären Begutachtung. Das Gutachten mit den Fachdisziplinen
+Allgemeine Innere Medizin, Rheumatologie und Psychiatrie wurde am 29.
+Dezember 2020 erstattet. Am 19. Januar 2021 stellte die IV-Stelle der
+Neurologie Toggenburg AG verschiedene Ergänzungsfragen, welche am
+3. Februar 2021 beantwortet wurden.
+1.3
+Gestützt auf das Gutachten der Neurologie
+Toggenburg AG stellte die IV-Stelle mit Vorbescheid vom 3. August 2021 in
+Aussicht, die Invalidenrente von A.______ aufzuheben und einer allfälligen
+Beschwerde die aufschiebende Wirkung zu entziehen. Gleichentags forderte sie
+A.______ zur Mitwirkung und zur Befolgung einer Alkoholabstinenz auf. Die von
+ihm dagegen erhobenen Einwände beantwortete sie abschlägig und erliess am
+10. Mai 2022 die rentenaufhebende Verfügung.
+2.
+2.1
+Dagegen gelangte A.______ mit Beschwerde vom 9. Juni
+2022 ans Verwaltungsgericht und beantragte die Aufhebung der Verfügung vom
+10. Mai 2022. Die IV-Stelle sei zu verpflichten, ihm weiterhin eine ganze
+Rente auszurichten; eventualiter sei die Angelegenheit an die IV-Stelle
+zurückzuweisen. In prozessualer Hinsicht sei der Beschwerde die aufschiebende
+Wirkung zu erteilen; alles unter Kosten- und Entschädigungsfolgen zu Lasten
+der IV-Stelle sowie unter Gewährung der unentgeltlichen Prozessführung und
+der unentgeltlichen Rechtsverbeiständung. Die IV-Stelle beantragte am 20.
+Juni 2022 die Abweisung des Gesuchs um Wiederherstellung der aufschiebenden
+Wirkung der Beschwerde.
+2.2
+Das
+Verwaltungsgericht wies das Gesuch um Wiederherstellung der aufschiebenden
+Wirkung am 6. Juli 2022 ab und hiess die Gesuche um Gewährung der
+unentgeltlichen Prozessführung sowie der unentgeltlichen Rechtsverbeiständung
+gut. Es bestellte A.______ in der Person von Rechtsanwalt Prof. Dr. Hardy Landolt
+einen unentgeltlichen Rechtsbeistand.
+2.3
+Nachdem A.______ am 22. September 2022 und am
+26. September 2022 weitere Arztberichte ins Recht gelegt hatte, schloss die
+IV-Stelle am 30. September 2022 bzw. am 24. Oktober 2022 auf
+Abweisung der Beschwerde. In der Folge hielt A.______ am 31. Oktober 2022
+ebenso an seinen Anträgen fest, wie die IV-Stelle am 1. Dezember 2022 an
+den ihrigen.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 69
+Abs. 1 lit. a des Bundesgesetzes über die Invalidenversicherung vom 19.
+Juni 1959 (IVG) zur Behandlung der vorliegenden Beschwerde zuständig. Da auch
+die übrigen Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde
+einzutreten.
+1.2
+Am 1. Januar
+2022 trat die Änderung vom 19. Juni 2020 des IVG (Weiterentwicklung der IV;
+AS 2021 705) in Kraft.
+Soweit in Revisionsfällen die massgebende
+Änderung jedoch vor dem 1. Januar 2022 liegt, finden nach wie vor die
+Bestimmungen des IVG und diejenigen der
+Verordnung
+über die Invalidenversicherung vom 17. Januar 1961 (IVV)
+in der
+bis zum 31. Dezember 2021 gültigen Fassung Anwendung. Der Zeitpunkt der
+massgebenden Änderung bestimmt sich dabei nach Art. 88a IVV
+(Kreisschreiben über Invalidität und Rente in der Invalidenversicherung [KSIR]
+vom 1. Januar 2022, Rz. 9102). Die im vorliegenden Verfahren
+massgebenden Änderungen datieren vor dem 1. Januar 2022, weshalb nach dem
+soeben Dargelegten die Bestimmungen des IVG und der IVV in der Fassung bis
+zum 31. Dezember 2021 anwendbar sind.
+2.
+2.1
+Der Beschwerdeführer macht geltend, auf das
+eingeholte Gutachten könne nicht abgestellt werden, weshalb eine gerichtliche
+Begutachtung zu erfolgen habe. Beim begutachtenden Rheumatologen handle es
+sich um einen vorbefassten Arzt, da dieser früher beim Regionalen Ärztlichen
+Dienst (RAD) massgeblich für seine medizinische Beurteilung verantwortlich
+gewesen sei. Sofern von der Verwertbarkeit des Gutachtens ausgegangen werde,
+enthalte dieses mehrere unzutreffende Annahmen. So sei ihm lediglich eine
+Arbeitsleistung von zwei bis drei Stunden für körperlich sehr leichte
+Tätigkeiten zumutbar, welche vom behandelnden Facharzt jedoch als rein
+theoretisch qualifiziert worden sei. Seine Hausärztin habe am 15. Juli
+2019 überdies darauf hingewiesen, dass sich die medizinische Situation seit
+der Rentenzusprache nicht wesentlich verbessert habe. Unrichtig sei sodann
+die abweichende Beurteilung der Gutachter, wonach von einer dauerhaften und
+stabilen Verbesserung der Arbeitsfähigkeit auszugehen und er für leichte bis
+selten mittelschwere Tätigkeiten als voll arbeitsfähig zu qualifizieren sei.
+Seine gesundheitliche Situation habe sich seit dem 27. Oktober 2020
+nachhaltig und wesentlich verschlechtert, weshalb das Gutachten überholt sei.
+Zwischenzeitlich seien mehrere Operationen erforderlich gewesen, wobei sich
+auch die onkologische Problematik wieder verstärkt habe. Es sei deshalb
+tatsachenwidrig und rechtsfehlerhaft, von einer dauerhaften und wesentlichen
+Verbesserung des Gesundheitszustands auszugehen. Ferner hätte die
+Beschwerdegegnerin den maximalen Abzug vom Tabellenlohn gewähren müssen,
+sofern überhaupt von der Verwertbarkeit einer allenfalls noch vorhandenen
+Resterwerbstätigkeit ausgegangen werden könne.
+Unzutreffend sei
+letztlich auch die Auffassung der Beschwerdegegnerin betreffend
+Alkoholkonsum. So sei zwar richtig, dass die behandelnden Ärztinnen und Ärzte
+eine diesbezügliche Abstinenz empfehlen würden. Allerdings hätten die
+Gutachter keine Beeinträchtigung der Arbeitsfähigkeit im Zusammenhang mit dem
+regelmässigen Alkoholkonsum festgestellt. Mit Blick auf die medizinischen
+Unterlagen sei die rentenbegründende Invalidität nicht mit überwiegender
+Wahrscheinlichkeit ab dem 1. Juli 2022 weggefallen. Sie habe sich auch nicht
+wesentlich reduziert bzw. 70 % unterschritten.
+2.2
+Die Beschwerdegegnerin vertritt die
+Auffassung, indem sie eine eingehende versicherungsmedizinische Abklärung und
+eine polydisziplinäre Begutachtung durchgeführt habe, sei sie ihren
+Abklärungspflichten rechtsgenüglich nachgekommen. Sodann erfülle das
+Gutachten die Qualitätskriterien und sei verwertbar, womit eine Verbesserung
+des Gesundheitszustands des Beschwerdeführers ausgewiesen sei. Letzterer sei
+seit spätestens Februar 2021 in einer angepassten Tätigkeit arbeitsfähig,
+sodass ein Invaliditätsgrad von weniger als 40 % vorliege und daher kein
+Anspruch auf eine Invalidenrente mehr bestehe. Auch sei es ihm zumutbar,
+seine Restarbeitsfähigkeit zu verwerten, da keine relevanten Erschwernisse
+vorlägen, die ihn als nicht vermittelbar einstuften. Überdies sei kein Abzug
+vom Tabellenlohn geschuldet. Mit Blick auf den Alkoholkonsum des
+Beschwerdeführers sei weiter darauf hinzuweisen, dass sich dieser gemäss
+Gutachten und RAD-Stellungnahme durchaus auf seinen Gesundheitszustand
+auswirke. Aufgrund der Schadenminderungspflicht sei eine Abstinenz daher
+geboten. Ab August 2022 müsse schliesslich von einer mutmasslich neuen
+gesundheitlichen Situation ausgegangen werden. Aufgrund der Fixierung des
+Verfahrensgegenstands mit der Verfügung vom 10. Mai 2022 sei dies jedoch im
+Rahmen einer Neuanmeldung geltend zu machen.
+3.
+3.1
+Gemäss Art. 8 Abs. 1 des Bundesgesetzes
+über den Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober
+2000
+(ATSG
+) ist Invalidität die voraussichtlich bleibende oder
+längere Zeit dauernde ganze oder teilweise Erwerbsunfähigkeit. Erwerbsunfähigkeit
+ist dabei der durch eine Beeinträchtigung der körperlichen, geistigen oder
+psychischen Gesundheit verursachte und nach zumutbarer Behandlung sowie
+Eingliederung verbleibende ganze oder teilweise Verlust der
+Erwerbsmöglichkeiten auf dem in Betracht kommenden ausgeglichenen Arbeitsmarkt
+(Art. 7 Abs. 1 ATSG).
+3.2
+Nach
+Art. 28 Abs. 2
+IVG besteht bei einem Invaliditätsgrad von mindestens 40 % Anspruch auf
+eine Viertelsrente, bei einem solchen von mindestens 50 % auf eine halbe
+Rente, bei mindestens 60 % auf eine Dreiviertelsrente und ab mindestens
+70 % auf eine ganze Rente.
+Für die Bestimmung des
+Invaliditätsgrads wird das Erwerbseinkommen, das die versicherte Person nach
+Eintritt der Invalidität und nach Durchführung der medizinischen Behandlung
+und allfälliger Eingliederungsmassnahmen durch eine ihr zumutbare Tätigkeit
+bei ausgeglichener Arbeitsmarktlage erzielen könnte, in Beziehung zum
+Erwerbseinkommen gesetzt, welches sie erzielen könnte, wenn sie nicht invalid
+geworden wäre (Art. 16 ATSG).
+4.
+4.1
+Gemäss Art. 17 Abs. 1 ATSG ist eine Rente
+von Amtes wegen oder auf Gesuch hin für die Zukunft zu erhöhen, herabzusetzen
+oder aufzuheben, wenn sich der Invaliditätsgrad eines Rentenbezügers
+erheblich ändert
+. Eine Revision wird von Amtes wegen durchgeführt,
+wenn sie im Hinblick auf eine mögliche erhebliche Änderung des Invaliditätsgrads
+bei der Festsetzung der Rente auf einen bestimmten Termin in Aussicht genommen
+worden ist oder wenn Tatsachen bekannt oder Massnahmen angeordnet werden, die
+eine erhebliche Änderung des Invaliditätsgrads als möglich erscheinen lassen
+(Art. 87 Abs. 1
+IVV
+).
+4.2
+Ein Revisionsgrund, d.h. eine für den Rentenanspruch
+massgebliche Veränderung der Verhältnisse, ist unter anderem bei einer
+Besserung oder Verschlechterung des Gesundheitszustands gegeben, aber auch
+bei einer Erhöhung oder Verminderung des massgeblichen Validen- oder
+Invalideneinkommens sowie bei einer Änderung der spezifischen
+Arbeitsfähigkeit. Keinen Revisionsgrund stellt hingegen eine nur vorübergehende
+Änderung des Gesundheitszustands oder die unterschiedliche Beurteilung eines
+im Wesentlichen unveränderten (medizinischen) Sachverhalts dar (BGer-Urteil
+9C_767/2008 vom 3. Oktober 2008 E. 1.2). Bei gleich gebliebenen
+tatsächlichen Verhältnissen muss ein Revisionsgrund, welcher zur Herabsetzung
+oder zur Aufhebung der Invalidenrente führt, somit aktenmässig zuverlässig
+ausgewiesen sein (BGer-Urteil 9C_552/2007 vom 17. Januar 2008
+E. 3.1.2).
+4.3
+Identisch gebliebene Diagnosen schliessen eine
+revisionsrechtlich erhebliche Steigerung des tatsächlichen Leistungsvermögens
+(Arbeitsfähigkeit) – sei es aufgrund eines objektiv geminderten Schweregrads
+desselben Leidens, sei es aufgrund verbesserter Leidensanpassung der
+versicherten Person – nicht aus. Ob eine derartige tatsächliche Änderung oder
+aber eine revisionsrechtlich unbeachtliche abweichende ärztliche Einschätzung
+eines im Wesentlichen gleich gebliebenen Gesundheitszustands vorliegt, bedarf
+– auch mit Blick auf die mitunter einschneidenden Folgen für die versicherte
+Person – einer sorgfältigen Prüfung. Dabei gilt der Beweisgrad der
+überwiegenden Wahrscheinlichkeit, wobei die blosse Möglichkeit einer
+Verbesserung tatsächlicher Art nicht genügt (BGer-Urteil 8C_666/2013 vom
+25. März 2014 E. 2.3).
+4.4
+Zur
+Ermittlung der Revisionsvoraussetzungen ist grundsätzlich der Sachverhalt der
+ursprünglichen Rentenverfügung mit den aktuellen Verhältnissen im Zeitpunkt
+der Neubeurteilung zu vergleichen.
+Zeitlicher
+Ausgangspunkt für die Beurteilung einer anspruchserheblichen Änderung bildet
+rechtsprechungsgemäss die letzte (der versicherten Person eröffnete)
+rechtskräftige Verfügung, welche auf einer materiellen Prüfung des
+Rentenanspruchs mit rechtskonformer Sachverhaltsabklärung, Beweiswürdigung
+und Durchführung eines Einkommensvergleichs (bei Anhaltspunkten für eine
+Änderung in den erwerblichen Auswirkungen des Gesundheitszustands) beruht
+(BGE 133 V 108 E. 5.4).
+5.
+5.1
+N
+ach dem für das gesamte Verwaltungs- und
+Verwaltungsgerichtsbeschwerdeverfahren geltenden Grundsatz der freien
+Beweiswürdigung haben Versicherungsträger und Sozialversicherungsrichter die
+Beweise frei, d.h. ohne Bindung an förmliche Beweisregeln, sowie
+umfassend und pflichtgemäss zu würdigen. Für das Beschwerdeverfahren bedeutet
+dies, dass das Gericht alle Beweismittel, unabhängig davon, von wem sie
+stammen, objektiv zu prüfen und danach zu entscheiden hat, ob die verfügbaren
+Unterlagen eine zuverlässige Beurteilung des streitigen Rechtsanspruchs
+gestatten.
+Insbesondere darf es bei einander
+widersprechenden medizinischen Berichten den Prozess nicht erledigen, ohne
+das gesamte Beweismaterial zu würdigen und die Gründe anzugeben, warum es auf
+die eine und nicht auf die andere medizinische These abstellt
+(BGE 125 V 351 E. 3a).
+5.2
+Es
+ist Aufgabe der Ärztin oder des Arztes, sämtliche Auswirkungen einer
+Krankheit oder eines Unfalls auf den Gesundheitszustand der versicherten
+Person zu beurteilen und dazu Stellung zu nehmen, bezüglich welcher konkreten
+Tätigkeiten und in welchem Umfang sie arbeitsunfähig ist. Die ärztlichen
+Auskünfte sind sodann eine wichtige Grundlage für die Beurteilung der Frage,
+welche Arbeitsleistungen der versicherten Person im Hinblick auf ihre
+persönlichen Verhältnisse noch zugemutet werden können
+(vgl. BGE 132
+V 93
+E. 4).
+5.3
+Hinsichtlich
+des Beweiswerts eines ärztlichen Gutachtens ist entscheidend, ob es für die
+Beantwortung der gestellten Fragen umfassend ist, auf allseitigen
+Untersuchungen beruht, die geklagten Beschwerden berücksichtigt, in Kenntnis
+der Vorakten (Anamnese) abgegeben worden ist, in der Darlegung der
+medizinischen Zustände und Zusammenhänge einleuchtet, ob die
+Schlussfolgerungen in einer Weise begründet sind, dass die rechtsanwendende
+Person sie prüfend nachvollziehen kann, sowie ob nicht auszuräumende Unsicherheiten
+und Unklarheiten, welche die Beantwortung der Fragen erschweren,
+gegebenenfalls deutlich gemacht werden.
+Ausschlaggebend
+für den Beweiswert ist grundsätzlich somit weder die Herkunft eines
+Beweismittels noch die Bezeichnung der eingereichten oder in Auftrag
+gegebenen Stellungnahme als Bericht oder Gutachten,
+sondern dessen Inhalt
+(vgl. BGE 125 V 351 E. 3a)
+.
+Dennoch hat es die
+Rechtsprechung mit dem Grundsatz der freien Beweiswürdigung als vereinbar
+erachtet, in Bezug auf bestimmte Formen medizinischer Berichte und Gutachten
+Richtlinien für die Beweiswürdigung aufzustellen. Den im Rahmen des
+Verwaltungsverfahrens eingeholten Gutachten von externen Spezialärztinnen und
+-Ärzten, welche aufgrund eingehender Beobachtungen und Untersuchungen sowie
+nach Einsicht in die Akten Bericht erstatten und bei der Erörterung der
+Befunde zu schlüssigen Ergebnissen gelangen, ist bei der Beweiswürdigung
+volle Beweiskraft zuzuerkennen, solange nicht konkrete Indizien gegen die
+Zuverlässigkeit der Expertise sprechen (BGE 137 V 210
+E. 1.3.4).
+6.
+Strittig und zu prüfen
+ist, ob sich der Gesundheitszustand des Beschwerdeführers im
+Verfügungszeitpunkt vom 10. Mai 2022 (rentenaufhebende Verfügung) im
+Vergleich zu demjenigen vom 6. Mai 2015 (rentenzusprechende Verfügung) in rentenbeeinflussender
+Weise verändert hat und welche Tätigkeiten dem Beschwerdeführer (noch)
+zugemutet werden können.
+6.1
+Beim Beschwerdeführer besteht seit 2013 ein Thymom
+im Stadium II nach Masoaka, was regelmässige Behandlungen zur Folge
+hatte. Auch im Zeitraum vor Erlass der rentenzusprechenden Verfügung kam es
+zu einer Tumorrezidiv-Behandlung. Dem Austrittsbericht des Spitals B.______
+vom 17. Januar 2015 lässt sich entnehmen, dass der Beschwerdeführer zur
+thorakospischen Biopsiegewinnung am 14. Januar 2015 operiert worden sei.
+Dabei seien pleurale Metastasen festgestellt worden. Von Februar bis April
+2015 fand eine neoadjuvante Chemotherapie am Spital B.______ statt. Im Juni
+2015 folgte eine Resektion des Rezidivs mit linksseitiger Pleuropneumonektomie
+und radikaler mediastinaler Lymphadenektomie.
+6.2
+6.2.1
+Die behandelnde Hausärztin
+Dr. med. C.______, Fachärztin für Allgemeine Medizin FMH, führte am
+15. Juli 2019 aus, in den letzten Jahren sei von keiner wesentlichen
+Verbesserung des Gesundheitszustands des Beschwerdeführers auszugehen.
+Sitzende Tätigkeiten seien ihm seit Januar 2013 nicht mehr zumutbar, womit
+die Restarbeitsfähigkeit maximal 10 % betrage. Aufgrund der Schmerzen im
+Thoraxbereich sei durch medizinische Massnahmen keine Arbeitsfähigkeitssteigerung
+möglich.
+6.2.2
+Am 29. Juli 2019 ersuchte die Beschwerdegegnerin bei
+der Abteilung Thoraxchirurgie des Spitals B.______ um die Beantwortung
+verschiedener Fragen. Prof. Dr. med. D.______ leitender Arzt
+für Gefäss- und Thoraxchirurgie, hielt im Arztbericht vom 26. September 2019
+fest, dass sich der klinische Zustand des Beschwerdeführers in der Zeit seit
+2015 deutlich verbessert habe. Körperlich leichte und sitzende Tätigkeiten
+seien ihm derzeit sicherlich zuzumuten. Seit wann dies der Fall sei, könne er
+nicht sicher beantworten. Diesbezüglich erscheine es sinnvoll, bei der
+Hausärztin nachzufragen.
+6.3
+Am 27. Oktober 2020 wurde der Beschwerdeführer
+durch die Neurologie Toggenburg AG polydisziplinär begutachtet.
+6.3.1
+Dr. med. E.______, Facharzt für Rheumatologie,
+Physikalische Medizin und Rehabilitation, stellte am 13. November 2020
+folgende Diagnosen mit Auswirkung auf die Arbeitsfähigkeit: chronisch
+lumbo-vertebrales, chronisch cerviko-vertebrales und chronisches
+Postthoraktomie Schmerzsyndrom links. Daneben stellte er eine ausgedehnte
+Suprascapularis- und Supraspinatussehnen-Ruptur rechts fest. Die
+objektivierbaren degenerativen Veränderungen im Bereich der Hals- und
+Lendenwirbelsäule sowie die Postthorakotomie-Beschwerden seien geeignet, beim
+Beschwerdeführer die statische und dynamische Belastbarkeit des Rumpfes
+sowohl in quantitativer als auch in qualitativer Hinsicht einzuschränken.
+Spätestens seit der zweiten Operation an der Lendenwirbelsäule vom 5. März
+2013 würden die tätigkeitsspezifischen Belastbarkeitsanforderungen die beim
+Beschwerdeführer verbliebenen körperlichen Ressourcen deutlich übersteigen,
+weshalb seit diesem Zeitpunkt eine bleibende Arbeitsunfähigkeit von
+100 % in Bezug auf die angestammte Tätigkeit als […] bestehe. Zumutbar
+seien ihm leichte, selten mittelschwere, wechselbelastende Tätigkeiten. Dies
+unter der Voraussetzung, dass die qualitativen Einschränkungen in Bezug auf
+Zwangshaltungen, statische und dynamische Belastungen und hinsichtlich der
+Exposition gegenüber Vibrationen eingehalten würden. Aus rheumatologischer
+Sicht habe sich der Gesundheitszustand des Beschwerdeführers seit 2015 nicht
+verbessert.
+6.3.2
+Dr. med. F.______, Facharzt für Psychiatrie und
+Psychotherapie, zertifizierter medizinischer Gutachter SIM, verfasste das
+psychiatrische Teilgutachten. Darin stellte er lediglich Diagnosen ohne
+Auswirkung auf die Arbeitsfähigkeit, namentlich eine Agoraphobie
+(ICD-10 F40.0), ein schädlicher Gebrauch von Alkohol (ICD-10 F10.1)
+sowie ein Verdacht auf Legasthenie bei Verdacht auf Lernbehinderung. Seit
+2015 sei keine Verbesserung eingetreten und es bleibe unklar, ob die
+agoraphobische Symptomatik bereits 2015 vorgelegen habe. Der schädliche
+Gebrauch von Alkohol habe bereits 2015 bestanden.
+6.3.3
+Dr. med. G.______, Facharzt für Allgemeine
+Innere Medizin und Kardiologie, diagnostizierte im internistischen
+Teilgutachten ein Thymom im Stadium II nach Masoaka ED 07/2013. Den
+schädlichen Alkoholkonsum, die arterielle Hypertonie und das Übergewicht
+ordne er den internistischen Diagnosen ohne Auswirkungen auf die
+Arbeitsfähigkeit zu. Aufgrund des thorakalen Tumorleidens und seiner
+Behandlungsfolgen sei für körperlich schwere und mittelschwere Tätigkeiten
+keine Leistungsfähigkeit mehr gegeben. Dementsprechend bestehe eine
+vollständige Arbeitsunfähigkeit in der bisherigen Tätigkeit als […]. Als
+angepasste Tätigkeiten seien ihm körperlich sehr leichte bis leichte
+wechselbelastende Tätigkeiten mit gelegentlichem Heben und Tragen von Lasten
+bis maximal zehn Kilogramm zumutbar. In einer solchen sei eine Präsenz von
+acht bis neun Stunden mit einer Leistungseinschränkung von 20 % aufgrund
+eines leicht erhöhten Pausenbedarfs und eines leicht verminderten
+Arbeitstempos möglich. Daraus ergebe sich eine Arbeitsfähigkeit von 80 %.
+Überwiegend wahrscheinlich bestehe retrospektiv seit September 2015 nach
+Behandlung des Tumorrezidives durch neoadjuvante Chemotherapie,
+thoraxchirurgische Rezidivsektion mit Pleuropneumektonie und mediastinaler
+Lymphadenektomie ein weitgehend stabiler Gesundheitszustand.
+6.3.4
+Im Rahmen der interdisziplinären Gesamtbeurteilung
+hielten die Gutachter fest, der Beschwerdeführer sei in der bisherigen
+Tätigkeit als […] aus allgemeininternistischer und rheumatologischer Seite
+seit dem 5. März 2013 zu 100 % arbeitsunfähig. Psychiatrischerseits
+bestehe weder für eine angepasste noch für die zuletzt ausgeübte Tätigkeit
+eine Einschränkung in der Arbeitsfähigkeit. Für eine angepasste Tätigkeit
+bestehe allgemein-internistisch noch eine Arbeitsfähigkeit von 80 %.
+Seit September 2015 bestehe internistisch ein weitgehend stabiler
+Gesundheitszustand. Aus rheumatologischer und psychiatrischer Sicht seien
+keine Verbesserungen eingetreten. Insgesamt habe sich der Gesundheitszustand
+seit 2015 nicht verbessert.
+6.3.5
+Die Gutachter hielten am 3. Februar 2021 ergänzend
+fest, bei der Konsensabfassung sei in Bezug auf die Arbeitsunfähigkeit seit
+September 2015 ein Fehler unterlaufen. Die 80%ige Arbeitsfähigkeit in einer
+angepassten Tätigkeit bestehe tatsächlich seit September 2015. Von Februar
+bis und mit Juni 2015 habe sich der Beschwerdeführer einer
+Tumorrezidiv-Behandlung mit neoadjuvanter Chemotherapie unterzogen, wobei von
+einer dreimonatigen Rekonvaleszenz nach dieser eingreifenden und umfassenden
+Behandlung auszugehen sei. Im September 2015 könne von einem gegenüber Januar
+2015 verbesserten und seither überwiegend stabilen Gesundheitszustand
+ausgegangen werden. Auch der Bericht von Prof. Dr. D.______ nehme auf
+diese Behandlung im Jahr 2015 Bezug, welche eine Verbesserung des
+Gesundheitszustands im Vergleich zur Situation vor der Behandlung ermöglicht
+habe.
+6.4
+6.4.1
+Im Bericht vom 11. November 2021 stellte
+Prof. Dr. D.______ ein erneutes Rezidiv des Thymoms fest. Vom 17.
+Dezember 2021 bis am 23. Dezember 2021 wurde der Beschwerdeführer zur
+Resektion der Tumorrezidive im Bereich der linken Thoraxwand und der
+Bauchhöhle sodann am Spital B.______ hospitalisiert. Gemäss dem
+Austrittsbericht vom 22. Dezember 2021 hätten sich intraoperativ
+sechs Rezidivherde (ohne histologischen Malignitätsnachweis) gezeigt. Am
+23. Dezember 2021 sei der Beschwerdeführer in gutem Allgemeinzustand
+nach Hause entlassen worden.
+6.4.2
+In der Stellungnahme vom 20. Januar 2022 hielt
+pract. med. H.______ fest, dass die Operation vom Dezember 2021
+nicht zu neuen, bisher unberücksichtigten, dauerhaften gesundheitlichen
+Einschränkungen geführt habe. Zwar sei bis zum Abschluss der postoperativen
+Heilungs- und Erholungsphase eine erneute Arbeitsunfähigkeit von 100 %
+für einen begrenzten Zeitraum (drei bis sechs Monate) plausibel. Danach könne
+aus arbeitsmedizinischer Hinsicht aber wieder von der gutachterlich
+festgelegten Arbeitsfähigkeit von 80 % in einer angepassten Tätigkeit
+ausgegangen werden.
+6.4.3
+Gemäss dem Austrittsbericht der Klinik für Chirurgie
+vom 17. Mai 2022 befand sich der Beschwerdeführer zur Kyroablation einer
+Läsion im 7. ICR links vom 28. April 2022 bis am 29. April 2022
+erneut im Spital B.______.
+6.5
+Am 1. Juni 2022 wiederholte Prof. Dr. D._____
+den Verlauf der Krankengeschichte im Zusammenhang mit dem im Jahr 2013
+erstdiagnostizierten Thymom und wies auf die regelmässig wiederauftretenden
+Tumorrezidive hin. Im Jahresverlauf sei mit der Notwendigkeit weiterer
+Tumorbehandlungen zu rechnen. Zudem seien bei dem vergleichsweise jungen Patienten
+auch grössere chirurgische Folgeeingriffe nicht auszuschliessen. Überdies
+äusserte er Zweifel an der Aktualität des polydisziplinären Gutachtens und
+forderte, dass die Beurteilung an die aktuelle Situation des
+Beschwerdeführers mit mehreren Folgeinterventionen angepasst werde.
+6.6
+Dem Bericht von Dr. phil. I.______ und
+med. pract. J.______ vom 20. September 2022 lässt sich
+entnehmen, dass der Beschwerdeführer am 31. Mai 2022 der Beratungs- und
+Therapiestelle K.______ zugewiesen worden sei. Dabei seien eine
+rezidivierende depressive Störung (ICD-10 F 33.2), eine Störung durch
+Alkohol/Abhängigkeitssyndrom (ICD-10 F 10.2) sowie eine Anpassungsstörung mit
+Angst und depressiver Reaktion gemischt (ICD-10 F 43.22) diagnostiziert
+worden. Der Beschwerdeführer sei vom 8. August bis am 11. August
+2022 wegen akuter Alkoholintoxikation notfallmässig nach […] eingewiesen
+worden. Zur Stabilisierung der Situation und für einen Alkoholentzug sei ab
+dem 26. September 2022 ein stationärer Eintritt in das Spital L.______
+vorgesehen.
+6.7
+Pract. med.
+H.______ hielt am 29. September 2022 fest, dass eine gewisse
+Diskrepanz zwischen der Notwendigkeit einer notfallmässigen stationären
+Behandlung und den Ausführungen des Spitals B.______ bestünde. Im
+Bericht betreffend die ambulante Vorstellung vom 11. August 2022 sei von
+einem guten Allgemeinzustand die Rede gewesen. Dennoch müsse ab August 2022
+von einer neuen gesundheitlichen Situation des Beschwerdeführers ausgegangen
+werden, die wahrscheinlich zu einer Arbeitsunfähigkeit von 100 % auch in
+einer angepassten Tätigkeit führe. Aus versicherungsmedizinischer Sicht
+dränge sich deshalb ein Fallabschluss per August 2022 auf. Aufgrund des
+instabilen Gesundheitszustands könne derzeit keine Prognose zur weiteren
+Entwicklung des Gesundheitszustands und der Arbeitsfähigkeit ab diesem
+Zeitpunkt abgegeben werden.
+7.
+7.1
+In zeitlicher Hinsicht ist zunächst zu klären, ob
+und inwieweit diejenigen ärztlichen Berichte zu berücksichtigen sind, die
+nach Erlass der rentenaufhebenden Verfügung vom 10. Mai 2022 ergangen
+sind, wobei grundsätzlich auf den Sachverhalt abzustellen ist, wie er sich
+bis zum Erlass der angefochtenen Verfügung entwickelt hat. Später
+eingereichte Arztberichte können dabei ausnahmsweise berücksichtigt werden,
+soweit sie Rückschlüsse auf den Gesundheitszustand im Zeitpunkt des Erlasses
+der Verfügung erlauben (BGE 130 V 138 E. 2.1;
+121 V 362 E. 1b).
+7.2
+Die Berichte des Spitals B.______ vom 17. Mai
+2022, vom 1. Juni 2022 und vom 11. August 2022 wurden nach Erlass
+der vorliegend angefochtenen Verfügung eingereicht. Sie beziehen sich auf die
+Behandlung des seit Jahren bekannten Thymoms und stehen damit im Zusammenhang
+mit einem vorbestehenden Leiden. Da die Berichte Rückschlüsse auf den
+Gesundheitszustand des Beschwerdeführers im Verfügungszeitpunkt zulassen,
+sind sie im vorliegenden Verfahren zu berücksichtigen (vgl. auch das
+Urteil des Versicherungsgerichts des Kantons St. Gallen IV 2009/272
+vom 5. Dezember 2011 E. 3).
+7.3
+Anders verhält es sich mit dem Bericht von Dr. I.______
+und med. pract. J.______ vom 20. September 2022 bzw. den
+darin gestellten psychiatrischen Diagnosen. Zwar wird darin festgehalten,
+dass der Beschwerdeführer seit 30 Jahren an depressiven Episoden leide.
+In den im Verfügungszeitpunkt vorhandenen Akten lassen sich jedoch keine
+Anhaltspunkte für eine rezidivierende depressive Störung finden. Vielmehr
+verneinte Dr. F.______ im Rahmen der polydisziplinären Begutachtung das
+Vorliegen einer depressiven Störung. Auch die Anpassungsstörung (mit Angst
+und depressiver Reaktion gemischt) ist bis am 10. Mai 2022 nicht
+aktenkundig. Der Beschwerdeführer gelangte erst am 31. Mai 2022 (und damit
+nach Verfügungserlass) an die Beratungs- und Therapiestelle K.______. Vor
+diesem Zeitpunkt sind keine Hinweise auf eine fachärztliche psychiatrische
+Behandlung ersichtlich. Der Bericht von Dr. I.______ und
+med. pract. J.______ vom 20. September 2022, in welchem
+aufgrund einer rezidivierenden depressiven Störung von einer
+Arbeitsunfähigkeit von 100 % ausgegangen wird, hat im vorliegenden
+Verfahren deshalb unberücksichtigt zu bleiben.
+8.
+8.1
+Die Beschwerdegegnerin stützte sich bei ihrem
+Entscheid hauptsächlich auf das Gutachten der Neurologie Toggenburg AG,
+weshalb zu prüfen ist, ob darauf abgestellt werden kann bzw. diesem
+erhöhter Beweiswert zukommt.
+8.2
+8.2.1
+In Bezug auf den Einwand des Beschwerdeführers,
+wonach Dr. E.______ sowohl als RAD-Arzt als auch als Gutachter mit
+seinem Fall befasst gewesen sei, wurde bereits in der Präsidialverfügung vom
+6. Juli 2022 darauf hingewiesen, dass verfahrensrechtliche Mängel aufgrund
+des Grundsatzes von Treu und Glauben und des Rechtsmissbrauchsverbots so früh
+wie möglich vorgebracht werden müssen. Wer sich auf ein Verfahren einlässt,
+ohne einen Verfahrensmangel bei erster Gelegenheit vorzubringen, verwirkt in
+der Regel den Anspruch auf spätere Anrufung der vermeintlich verletzten
+Verfahrensvorschrift (BGer-Urteil 8C_909/2018 vom 26. Juni 2018
+E. 5.2).
+8.2.2
+Die Beschwerdegegnerin gab dem Beschwerdeführer die
+begutachtenden Ärzte bereits am 4. Februar 2020 bekannt, wobei sie auch
+Dr. E.______ ausdrücklich als Gutachter nannte. Dagegen hat der
+Beschwerdeführer keine Einwendungen erhoben, obwohl er von der
+Beschwerdegegnerin im vorerwähnten Schreiben ausdrücklich auf diese Möglichkeit
+hingewiesen wurde. Sodann wurden dem Rechtsvertreter des Beschwerdeführers
+auf dessen Verlangen hin am 3. September 2021 die Akten zugestellt.
+Daraus war ohne Weiteres erkennbar, dass Dr. E.______ sowohl als
+RAD-Arzt als auch als Gutachter tätig war. Im Einwandverfahren wurde dies vom
+nunmehr anwaltlich vertretenen Beschwerdeführer aber nicht bemängelt.
+Vielmehr verzichtete er stattdessen sogar darauf, den nur vorsorglich
+erhobenen Einwand weiter zu begründen. Indem die Einwendungen gegen
+Dr. E.______ als Gutachter erst im Beschwerdeverfahren erhoben wurden,
+können diese nun nicht als bei erster Gelegenheit gerügt gelten. Dies nicht
+zuletzt deshalb, weil der Beschwerdeführer seit dem 27. August 2021
+anwaltlich vertreten war. Die Rüge der Vorbefassung erfolgte damit verspätet.
+8.3
+8.3.1
+Bei der Frage, ob sich der Gesundheitszustand des
+Beschwerdeführers möglicherweise verbessert habe, handelt es sich in erster
+Linie um eine medizinische Fragestellung, weshalb an die entsprechenden
+Abklärungen besonders hohe Anforderungen zu stellen sind. Namentlich wird
+verlangt, dass die Untersuchungen im Zeitpunkt der Revision aktuell sind und
+sich mit den massgeblichen Fragestellungen auseinandersetzen (vgl. dazu
+BGE 139 V 547 E. 10.2; BGer-Urteil 8C_505/2013 vom 8. Januar 2014
+E. 4.2). Wie lange ein Gutachten aktuell ist, lässt sich nicht abstrakt
+beziffern, sondern ist anhand der Umstände des Einzelfalls zu bestimmen,
+wobei der Dynamik des Gesundheitszustands des Betroffenen angemessen Rechnung
+zu tragen ist.
+8.3.2
+Der Beschwerdeführer wurde am 27. Oktober 2020
+durch die Neurologie Toggenburg AG begutachtet. Die Rentenaufhebung erfolgte
+am 10. Mai 2022 und damit mehr als eineinhalb Jahre später. Angesichts
+der Instabilität des Gesundheitszustands des Beschwerdeführers, sind
+vorliegend erhöhte Anforderungen an die Aktualität des Gutachtens zu stellen.
+Dies hat gerade vor dem Hintergrund, dass seit der Untersuchung des
+Beschwerdeführers durch die Gutachter im Jahr 2020 mehrere Spitalaufenthalte
+erforderlich waren, zu gelten. So fand im Dezember 2021 ein ausgedehnter
+chirurgischer Eingriff zur Tumorresektion statt. Auch im April 2022 kam es zu
+einer erneuten Hospitalisation. Die Auswirkungen dieser jüngsten Eingriffe
+auf den Gesundheitszustand des Beschwerdeführers konnten im polydisziplinären
+Gutachten noch nicht berücksichtigt werden. Mit Blick auf die Komplexität der
+Krankheitsgeschichte und die mit jedem zusätzlichen Eingriff potentiell
+zunehmende Belastung, ist ungewiss, ob vorliegend noch von einer
+unveränderten gesundheitlichen Ausgangslage oder von einem verbesserten
+Gesundheitszustand seit Rentenzusprache gesprochen werden kann. Deshalb
+erweist sich eine aktuellere Einschätzung als unumgänglich.
+8.4
+Selbst wenn von einer hinreichenden Aktualität des
+Gutachtens ausgegangen würde, ist fraglich, ob sich die Verbesserung des
+Gesundheitszustands des Beschwerdeführers daraus rechtsgenüglich ergibt. In
+Bezug auf die von der Beschwerdegegnerin gestellte Frage, ob eine
+Verbesserung des Gesundheitszustandes seit 2015 eingetreten sei, äussern sich
+die Gutachter nämlich nicht genügend deutlich und teilweise sogar
+widersprüchlich. Dr. G.______ verneinte im internistischen Teilgutachten
+zunächst eine Verbesserung des Gesundheitszustands und spricht von einem seit
+September 2015 weitgehend stabilen Gesundheitszustand nach der
+Tumorrezidivbehandlung. Auch im rheumatologischen Teilgutachten verneinte
+Dr. E.______ eine Verbesserung des Gesundheitszustands des
+Beschwerdeführers seit 2015. Erst im Rahmen der Rückfragen der Beschwerdegegnerin
+wird präzisiert, dass die umfassende und tiefgreifende Tumorrezidivbehandlung
+von Februar bis Juni 2015 zu einer Verbesserung des Gesundheitszustands
+gegenüber Januar 2015 geführt habe. Dieser lediglich pauschalen Feststellung
+der Gutachter fehlt es aber an einer vertieften Auseinandersetzung.
+Insbesondere wird die Frage, inwiefern sich der Gesundheitszustand vor und
+nach der Behandlung im Jahr 2015 unterscheidet, nicht beantwortet. Damit kann
+auch nicht beurteilt werden, ob es sich bei den gutachterlichen Ausführungen
+nur um eine andere Würdigung eines im Wesentlichen unveränderten Sachverhalts
+oder um eine tatsächliche Verbesserung des Gesundheitszustands handelt. Diese
+Aspekte sind im Rahmen einer vorliegend angezeigten Neuabklärung ebenso zu berücksichtigen,
+wie die Prüfung der Arbeitsfähigkeit des Beschwerdeführers in angepasster
+Tätigkeit.
+9.
+9.1
+Gemäss bundesgerichtlicher Rechtsprechung können
+die Sozialversicherungsgerichte nicht mehr frei entscheiden, ob sie eine
+Streitsache zur neuen Begutachtung an die Verwaltung zurückweisen. Die
+Beschwerdeinstanz hat vielmehr im Regelfall selbst ein Gerichtsgutachten
+einzuholen, wenn sie einen im Verwaltungsverfahren anderweitig erhobenen
+Sachverhalt überhaupt für gutachterlich abklärungsbedürftig hält oder wenn
+ein Administrativgutachten in einem rechtserheblichen Punkt nicht
+beweiskräftig ist. Eine Rückweisung an die Vorinstanz bleibt hingegen
+möglich, wenn sie allein in der notwendigen Erhebung einer bisher vollständig
+ungeklärten Frage begründet ist oder wenn lediglich eine Klarstellung,
+Präzisierung oder Ergänzung von gutachterlichen Ausführungen erforderlich ist
+(BGE 137 V 210 E. 4.4.1 ff.).
+9.2
+Die Beschwerdegegnerin hat es unterlassen, den
+aktuellen Gesundheitszustand des Beschwerdeführers im Zeitpunkt der
+rentenaufhebenden Verfügung rechtsgenüglich abzuklären. Sie hätte zusätzliche
+Abklärungen veranlassen müssen, nicht zuletzt, weil sich der Beschwerdeführer
+in einem instabilen Gesundheitszustand befindet und nach Erstattung des
+Gutachtens von erneuten Tumorbehandlungen berichtet wird. Hierbei genügt der
+lediglich pauschal gehaltene Hinweis des RAD, wonach aus den jeweiligen
+Behandlungen eine nur kurze Arbeitsunfähigkeit resultiere, nicht, um mit
+überwiegender Wahrscheinlichkeit auf eine Verbesserung des
+Gesundheitszustands zu schliessen. Die zentrale Frage, ob sich der
+Gesundheitszustand des Beschwerdeführers seit Erlass der rentenzusprechenden
+Verfügung in einer erheblichen Weise verändert hat, kann gestützt auf die
+vorhandenen Akten somit nicht ohne Weiteres beantwortet werden. Diese
+Unzulänglichkeiten lassen sich auch durch die weiteren im Recht liegenden
+ärztlichen Berichte nicht ausgleichen, da sich diese einerseits nur
+ungenügend mit den anderen ärztlichen Meinungen auseinandersetzen und sich
+andererseits nicht rechtsgenüglich zur Resterwerbsfähigkeit äussern. Da es
+nicht Aufgabe des kantonalen Sozialversicherungsgerichts sein kann, im
+Verwaltungsverfahren versäumte Abklärungen zu veranlassen, hat die
+Beschwerdegegnerin neue Abklärungen vorzunehmen, um Klarheit über den
+massgebenden Gesundheitszustand zu erhalten. Mit Blick auf die vorliegenden
+Umstände erweist sich die Rückweisung an die Beschwerdegegnerin somit als
+zulässig, nicht zuletzt weil der Beschwerdeführer selbst die Rückweisung der
+Sache beantragt.
+Dies führt zur teilweisen
+Gutheissung der Beschwerde. Die Verfügung der Beschwerdegegnerin vom 10. Mai
+2022 ist aufzuheben und die Sache ist im Sinne der Erwägungen an diese
+zurückzuweisen.
+III.
+1.
+Nach Art. 134 Abs. 1 lit.
+c VRG i.V.m. Art. 69 Abs. 1bis IVG hat die Partei, welche im
+Beschwerdeverfahren unterliegt, die amtlichen Kosten zu tragen. Als Obsiegen
+gilt hinsichtlich der Kosten- und Entschädigungsfolgen auch die Rückweisung
+der Sache zur ergänzenden Sachverhaltsabklärung und zum Neuentscheid an den
+Versicherungsträger (Ueli Kieser, ATSG-Kommentar, 4. A., Zürich/Basel/Genf
+2020, Art. 61 N. 224), weshalb die Gerichtskosten von pauschal Fr.
+600.- der Beschwerdegegnerin aufzuerlegen sind. Da die Gerichtskosten der
+Beschwerdegegnerin aufzuerlegen sind, ist das am 6. Juli 2022 bereits
+gutgeheissene Gesuch des Beschwerdeführers um Gewährung der unentgeltlichen
+Prozessführung als gegenstandslos geworden abzuschreiben.
+2.
+2.1
+Der obsiegende und berufsmässig vertretene Beschwerdeführer
+hat gemäss Art. 61 lit. g ATSG Anspruch auf eine angemessene
+Parteientschädigung zu Lasten der Beschwerdegegnerin. Diese ist ohne
+Rücksicht auf den Streitwert nach der Bedeutung der Streitsache und der
+Schwierigkeit des Prozesses zu bemessen und vorliegend auf Fr. 1'800.-
+(inkl. Mehrwertsteuer) festzusetzen.
+2.2
+Das
+Gesuch des Beschwerdeführers um Gewährung der unentgeltlichen
+Rechtsverbeiständung wurde ebenfalls bereits am 6. Juli 2022 gutgeheissen und
+ihm wurde in der Person von Rechtsanwalt Prof. Dr. Hardy Landolt
+ein unentgeltlicher Rechtsbeistand bestellt. Dieser
+ist mit Fr. 1'800.- (inkl. Mehrwertsteuer und Auslagen) zu entschädigen.
+Daran anzurechnen ist die Parteientschädigung seitens der Beschwerdegegnerin
+in gleicher Höhe.
+3.
+Gegen diesen
+Zwischenentscheid steht die Beschwerde in öffentlich-rechtlichen
+Angelegenheiten ans Bundesgericht nur nach Massgabe von Art. 93 Abs. 1
+des Gesetzes über das Bundesgericht vom 17. Juni 2005 (BGG) offen.
+Demgemäss beschliesst die Kammer
+:
+1.
+Das
+Gesuch des Beschwerdeführers um Gewährung der unentgeltlichen
+Prozessführung wird als gegenstandslos geworden abgeschrieben.
+2.
+Der Rechtsbeistand des
+Beschwerdeführers wird zu Lasten der Gerichtskasse mit Fr. 1'800.-
+(inkl. Mehrwertsteuer und Auslagen) entschädigt.
+Daran
+angerechnet wird die Parteientschädigung seitens der Beschwerdegegnerin in
+gleicher Höhe.
+und erkennt sodann
+:
+1.
+Die
+Beschwerde wird teilweise gutgeheissen. Die Verfügung der
+Beschwerdegegnerin vom 10. Mai 2022 wird aufgehoben und die Sache wird im
+Sinne der Erwägungen an diese zurückgewiesen.
+2.
+Die
+Gerichtskosten von Fr. 600.- werden der Beschwerdegegnerin auferlegt.
+3.
+Die
+Beschwerdegegnerin wird verpflichtet, dem Beschwerdeführer innert
+30 Tagen nach Rechtskraft dieses Entscheids eine Parteientschädigung
+von Fr. 1
+'
+800.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
