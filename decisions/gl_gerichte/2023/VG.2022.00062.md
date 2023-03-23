@@ -1,0 +1,648 @@
+---
+decision_id: "gl_gerichte_VG.2022.00062"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2022.00062"
+docket_2: "VG.2023.1228"
+decided: "2023-03-23"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1664&W10_KEY=218274&nTrefferzeile=8&Template=simple/search_result_document.html"
+---
+
+# GL Gerichte VG.2022.00062
+
+## Regeste
+
+Beschaffungswesen/Submissionswesen
+
+## Text
+
+Glarus Verwaltungsgericht 23.03.2023 VG.2022.00062 (VG.2023.1228)
+Glaris Verwaltungsgericht 23.03.2023 VG.2022.00062 (VG.2023.1228)
+Glarona Verwaltungsgericht 23.03.2023 VG.2022.00062 (VG.2023.1228)
+
+Beschaffungswesen/Submissionswesen
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+23. März 2023
+I. Kammer
+Besetzung:
+Gerichtspräsident MLaw Colin Braun, Verwaltungsrichter Ernst Luchsinger,
+Verwaltungsrichterin Katia Weibel und Gerichtsschreiberin MLaw Paula Brändli
+in Sachen
+VG.2022.00062
+A.______AG
+Beschwerdeführerin
+vertreten durch
+Dr. iur.
+Remo
+Dolf,
+Rechtsanwalt,
+gegen
+Gemeinde Glarus Nord
+Beschwerdegegnerin
+vertreten durch
+MLaw
+Eva-Maria
+Brücker,
+Rechtsanwältin,
+und
+B.______AG
+Beigeladene
+vertreten durch
+lic.
+iur.
+Werner
+Marti, Rechtsanwalt,
+betreffend
+Vergabe Lüftungsanlagen
+(Neubau Schulhaus Obererlen)
+Die Kammer zieht in Erwägung:
+I.
+1.
+Die
+Gemeinde Glarus Nord schrieb das Projekt "Schulhaus Obererlen Näfels BKP
+244 Lüftungsanlagen" am […] im Amtsblatt und auf simap.ch aus. Die
+Offertöffnung erfolgte am 16. August 2022, wobei insgesamt vier Anbieter
+eine Offerte einreichten.
+Am 5. Oktober
+2022 vergab die Gemeinde Glarus Nord den Auftrag an die B.______AG. Dies
+zeigte sie dieser am 6. Oktober 2022 an und erteilte den übrigen
+Offertstellern,
+unter anderem der
+A.______AG
+gleichentags eine Absage.
+2.
+2.1
+Die
+A.______AG
+gelangte mit
+Beschwerde vom 20. Oktober 2022 ans Verwaltungsgericht und beantragte
+die Aufhebung der Zuschlagsverfügung der Gemeinde Glarus Nord vom 6. Oktober
+2022. Die B.______AG sei vom Vergabeverfahren auszuschliessen und der
+Zuschlag sei ihr, der A.______AG, zu erteilen. Eventualiter sei die Gemeinde
+Glarus Nord entsprechend anzuweisen, den Zuschlag ihr zu erteilen.
+Subeventualiter sei die Gemeinde Glarus Nord anzuweisen, die Ausschreibung zu
+wiederholen; alles unter Kosten- und Entschädigungsfolgen zu Lasten der
+Gemeinde Glarus Nord. In prozessualer Hinsicht ersuchte sie um Erteilung der
+aufschiebenden Wirkung der Beschwerde, um Gewährung einer umfassenden
+Akteneinsicht sowie um Durchführung eines zweiten Schriftenwechsels.
+2.2
+Die am 24. Oktober 2022 von Amtes wegen ins Verfahren beigeladene
+B.______AG beantragte am 31. Oktober 2022 die Abweisung der Beschwerde;
+alles unter Kosten- und Entschädigungsfolgen zu Lasten der A.______AG.
+Überdies sei der Beschwerde keine aufschiebende Wirkung zu gewähren. Die
+Gemeinde Glarus Nord schloss am 3. November 2022 ebenfalls auf Abweisung
+der Beschwerde, soweit darauf einzutreten sei; alles unter Kosten- und
+Entschädigungsfolgen zu Lasten der A.______AG. Das Gesuch um Erteilung der
+aufschiebenden Wirkung sei abzuweisen und der A.______AG sei lediglich eine
+beschränkte Akteneinsicht zu gewähren.
+2.3
+Das Verwaltungsgericht hiess das Gesuch um Erteilung der aufschiebenden
+Wirkung am 21. November 2022 gut und gewährte der A.______AG eine beschränkte
+Akteneinsicht. In der Folge hielt die A.______AG am 30. November 2022 an
+ihren Anträgen ebenso fest wie die Gemeinde Glarus Nord am 22. Dezember
+2022 und die B.______AG am 23. Dezember 2022 an den ihrigen. Die
+A.______AG und die Gemeinde Glarus Nord erneuerten am 3. Januar 2023
+bzw. am 12. Januar 2023 ihre Rechtsbegehren, während sich die
+B.______AG nicht erneut vernehmen liess.
+2.4
+Am 25. Januar 2023 ersuchte das
+Verwaltungsgericht die
+C.______AG
+um
+Beantwortung einiger Fragen. Dem kam sie am 15. Februar 2023 nach. In
+der Folge hielt die B.______AG am 22. Februar 2023 ebenso an ihren
+Anträgen fest, wie die Gemeinde Glarus Nord am 23. Februar 2023 und die
+A.______AG am 24. Februar 2023 an den ihrigen.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 105 Abs. 1 lit. c
+des Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986 (VRG)
+i.V.m. Art. 35 f. des kantonalen Submissionsgesetzes vom
+4. Mai 1997 (SubmG) zur Behandlung der vorliegenden Beschwerde
+zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt sind, ist auf
+die Beschwerde einzutreten.
+1.2
+Gemäss
+Art. 37 Abs. 1 SubmG können mit der Beschwerde Rechtsverletzungen,
+einschliesslich Überschreitung und Missbrauch des Ermessens sowie die
+unrichtige oder unvollständige Feststellung des rechtserheblichen
+Sachverhalts gerügt werden. Eine Angemessenheitskontrolle bleibt dem
+Verwaltungsgericht demgegenüber verwehrt (Art. 37 Abs. 2 SubmG).
+2.
+2.1
+Die Beschwerdeführerin macht geltend, die Zuschlagsverfügung sei
+ungenügend begründet, da die Beschwerdegegnerin nicht ausgeführt habe,
+weshalb die B.______AG trotz Angabe von nur einer Schlüsselperson und
+fehlendem Nachweis der Einhaltung der Terminvorgaben nicht vom Verfahren
+ausgeschlossen worden sei. In der Ausschreibung seien ausserdem keine Angaben
+zur Preisbewertungsmethode bekannt gegeben worden, woraufhin sich im
+Vergabeverfahren eine Preisspanne von 133 % ergeben habe. Gemäss dem
+Offertvergleich habe die Vergabestelle ohne Angabe von Gründen aber eine
+solche mit 125 % angegeben und bei Überschreitung dieser Hürde null
+Punkte vergeben. Dies erscheine willkürlich bzw. die Preisspanne sei
+viel zu steil angesetzt, zumal das Kriterium Preis dadurch eine tatsächliche
+Gewichtung von beinahe 100 % erreiche. Wolle die Vergabestelle an ihrer
+Preisspanne von 125 % festhalten, müsse sie den Beweis erbringen, dass
+diese im Voraus festgelegt worden sei. Darüber hinaus müsse sie begründen,
+warum diese Bewertungsmethode den Anbietern nicht bekannt gegeben worden sei.
+Sie, die Beschwerdeführerin, habe in guten Treuen davon ausgehen dürfen, dass
+das tiefste Angebot mit der vollen Punktzahl und das höchste Angebot mit null
+Punkten bewertet würden, womit sie den Zuschlag hätte erhalten müssen.
+Bezüglich der Position "Schlüsselpersonen" erscheine die Behauptung
+der Beschwerdegegnerin, wonach eine Punkteskala von null bis zehn Punkten
+gegolten habe und aufgrund des Fehlens von Schulhäusern als Referenzobjekt
+keinem Offertsteller die volle Punktzahl erteilt worden sei, sodann
+konstruiert. Diese Begründung vermöge einen Abzug von fünf Punkten nicht zu
+rechtfertigen. Dementsprechend sei von einer falschen Bewertung auszugehen,
+mit der das Kriterium der Referenzen unzulässig geschwächt worden sei. Mit
+einer höheren Punktzahl bei diesem Kriterium wäre der Zuschlag zu ihren
+Gunsten ausgefallen. Überdies sei festzuhalten, dass die Vergabebehörde und
+die beauftragte C.______AG widersprüchliche Positionen einnähmen, womit
+entweder die Ausführungen der Vergabebehörde unwahr oder diejenigen der
+C.______AG nachträglich angepasst worden seien. Welche Aussagen zutreffend
+seien, bleibe unklar, wobei sich die Vergabebehörde als Auftraggeberin das
+Verhalten der ausführenden Stelle auch anrechnen lassen müsse. Die C.______AG
+gestehe denn auch mehrere Fehler ein, womit das Vergabeverfahren nicht
+sorgfältig und nicht nach den geltenden Vergabegrundsätzen durchgeführt
+worden sei. Unabhängig von der Punkteskala sei mit den Angaben der C.______AG
+ferner davon auszugehen, dass die Referenzen nicht vertieft geprüft worden
+seien. Dass diesbezüglich keine inhaltliche Bewertung stattgefunden habe, führe
+zu einer verstärkten Gewichtung des Preiskriteriums und zu einer unzulässigen
+Verzerrung der Bewertung. Aus der angeführten Bewertungsmethode bei den
+Schlüsselpersonen resultiere schliesslich eine Ungleichbehandlung. Die
+Bewertung der Referenzprojekte im Verhältnis zur offerierten Auftragssumme
+diskriminiere nämlich Anbieter mit einem höheren Angebotspreis, da die
+Referenzobjekte in diesem Fall ebenfalls höher sein müssten. Aus Gründen der
+Gleichbehandlung sei bei allen Angeboten von derselben Summe, nämlich dem von
+der Beschwerdegegnerin angenommenen Kostenvoranschlag, auszugehen. Damit
+erreiche das erste Referenzobjekt der zweiten Schlüsselperson der B.______AG
+die notwendige Schwelle nicht und Letztere sei vom Verfahren auszuschliessen.
+Dies führe zum Zuschlag an sie, die Beschwerdeführerin.
+2.2
+Die Beschwerdegegnerin bringt vor, sie habe den Vergabeentscheid genügend
+und den Vorgaben im Vergaberecht entsprechend begründet. Zur
+Plausibilisierung habe sie dem Entscheid die Entscheidmatrix bzw. den Offertvergleich
+beigelegt. Es sei sodann zwischen den Referenzobjekten, welche im Rahmen der
+Eignungskriterien und denjenigen, welche im Rahmen des Zuschlagskriteriums
+verlangt worden seien, zu unterscheiden. Entsprechend könne aus der
+Entscheidmatrix bzw. dem Offertvergleich nicht darauf geschlossen
+werden, dass die B.______AG die Eignungskriterien nicht erfüllt habe. Die
+B.______AG habe zwei passende Referenzobjekte aufgeführt und das
+Eignungskriterium somit erfüllt. Sie habe zudem zwei Schlüsselpersonen mit
+Referenzobjekten angegeben, womit auch dieses Zuschlagskriterium erfüllt sei.
+In Bezug auf die Preisspanne sei zu beachten, dass einer Vergabestelle bei
+der Beurteilung der Wirtschaftlichkeit der einzelnen Angebote ein erheblicher
+Ermessensspielraum zustehe. Entsprechend der Gewichtung des Preiskriteriums
+sei es vorliegend angemessen, eine steile Preiskurve bzw. eine reduzierte
+Preisspanne vorzusehen, womit sie ihren Ermessensspielraum weder
+überschritten noch missbraucht habe. Das Verwaltungsgericht habe denn auch
+bereits zu Recht festgehalten, die Beschwerdeführerin habe nicht geltend
+gemacht, dass sie ihr Angebot angepasst hätte, wenn sie um die steile
+Preiskurve bzw. reduzierte Preisspanne gewusst hätte. Zur Bewertung der
+Referenzen sei ferner festzuhalten, dass entgegen den Ausführungen der
+Beschwerdeführerin beim Kriterium Referenzen dieselbe Bewertungsskala
+angewendet worden sei wie bei den übrigen Kriterien, namentlich eine Skala
+von null bis zehn Punkten. Die Bewertung der einzelnen Anbieter habe sie von
+der Arbeitserfahrung der Schlüsselpersonen, der Aktualität und der Art der
+Referenzobjekte sowie der Auftragssumme der Referenzobjekte abhängig gemacht.
+Dass kein Anbieter die volle Punktzahl erreicht habe, liege insbesondere
+daran, dass niemand als Referenzobjekt ein Schulhaus habe vorweisen können.
+Aufgrund dessen entspreche die tatsächlich vorgenommene Gewichtung jener,
+welche in den Ausschreibungsunterlagen publiziert worden sei. Im Übrigen
+hätten die Anbieter anhand der Ausschreibungsunterlagen davon ausgehen
+müssen, dass eine Beurteilung der Referenzobjekte im Verhältnis zum
+eingereichten Preis erfolgen würde. Die von der C.______AG ursprünglich
+angewandte Kostengrenze gestützt auf Kosten, welche unter Umständen deutlich
+höher gewesen seien, hätten die Anbieter demgegenüber nicht erwarten dürfen.
+Der diesbezügliche Fehler und die falsch vergebene Maximalpunktzahl bei den
+Schlüsselpersonen verletzten zwar den Transparenzgrundsatz. Dies führe jedoch
+nicht zwingend zur Aufhebung des Zuschlags. Vielmehr sei massgebend, ob die
+Verletzung kausal zum Vergabeentscheid sei. Dies sei vorliegend nicht der
+Fall, da das Angebot der B.______AG weiterhin das günstigste sei und der
+Zuschlag entsprechend an sie erfolgen müsse.
+2.3
+Die
+B.______AG führt aus, die Beschwerdeführerin müsse darauf
+behaftet
+werden
+, dass sie die Ausschreibung nicht
+angefochten habe. Dementsprechend habe sie das darin Enthaltene akzeptiert,
+was auch für die fehlende Publikation der Preiskurve gelte. Sodann genüge die
+Zustellung der Entscheidmatrix zusammen mit dem Entscheid zur Erfüllung der
+Begründungspflicht. Sie, die B.______AG, habe zwei Schlüsselpersonen
+mit jeweils
+zwei Referenzobjekten sowie ein Terminprogramm
+eingereicht. Des Weiteren erhelle die Stellungnahme der C.______AG, dass die
+schlechte Benotung in Bezug auf die zweite Schlüsselperson falsch gewesen sei
+und sie hierbei richtigerweise die Maximalnote erhalten müsse. Schliesslich
+sei davon auszugehen, dass die Vergabebehörde die Preiskurve im Voraus
+festgelegt habe. Dabei komme ihr ein Ermessensspielraum zu, wobei der
+Nachweis für die vorgängige Festlegung der Preiskurve von ihr zu erbringen
+sei.
+3.
+3.1
+Die massgeblichen Zuschlagskriterien und deren Gewichtung sind in den
+Ausschreibungsunterlagen in der Reihenfolge ihrer Bedeutung bekanntzugeben
+(Art. 30 Abs. 3 SubmG i.V.m.
+Art. 11
+Abs. 1 lit. k der Submissionsverordnung vom 17. Dezember 1997
+[SubmV]
+).
+Unterkriterien oder
+Kategorien, welche bloss der Konkretisierung der publizierten
+Zuschlagskriterien dienen, müssen vorgängig nicht bekannt gegeben werden
+(Peter Galli et al., Praxis des öffentlichen Beschaffungsrechts, 3. A.,
+Zürich/Basel/Genf 2013, Rz. 849). Eine Ausnahme davon besteht dann, wenn
+die Behörde gewichtete Unterkriterien bereits im Zeitpunkt der Ausschreibung konkret
+formuliert und ein Schema mit festen prozentualen Gewichtungen festgelegt
+hat, welches sie für die Bewertung der Offerten auch anzuwenden gedenkt
+(BGer-Urteil 2P.111/2003 vom 21. Januar 2004 E. 2.1.2, mit
+Hinweis). Ob die Unterkriterien den publizierten Zuschlagskriterien inhärent
+sind, ergibt sich aus den gesamten Umständen des Einzelfalls (BGer-Urteil
+2P.172/2002 vom 10. März 2003 E. 2.3, mit Hinweis).
+3.2
+Eine Bewertung der
+Angebote anhand eines anders strukturierten und stärker differenzierten
+Kriterienkatalogs ist zulässig, solange darin keine substantielle materielle
+Änderung des Ausschreibungsinhalts liegt und kein Anbieter darzutun vermag,
+dass sich die Divergenz auf die Ausgestaltung seiner Offerte ausgewirkt hat
+und kausal für den Nichterhalt des Zuschlags war (BGer-Urteil 2P.4/2000 vom
+26. Juni 2000 E. 4d). Die Prinzipien der Transparenz sowie der
+Nichtdiskriminierung der Anbieterinnen gebieten, dass im Laufe des
+Submissionsverfahrens und nach Abgabe der Angebote die Zuschlagskriterien oder
+ihre relative Gewichtung nicht oder nur ausnahmsweise und unter Einhaltung
+der soeben genannten Grundsätze geändert werden dürfen (Galli et al.,
+Rz. 914 ff.). Die Bewertung der Angebote soll nach einem
+generell-abstrakten Schema vorgenommen werden, das den bekannt gegebenen
+Zuschlagskriterien entspricht, die Kriterien der Punkteverteilung im
+Einzelnen umfassend und nachvollziehbar regelt und auf alle Angebote gleich
+angewandt wird (VGer-Urteil VG.2016.00107 vom 10. November 2016
+E. II/4.4).
+3.3
+Grundsätzlich gilt das Regelbeweismass der vollen
+Überzeugung. Demnach gilt ein Beweis dann als erbracht, wenn die
+Entscheidinstanz nach objektiven Gesichtspunkten von der Richtigkeit eines
+Sachverhaltselements überzeugt ist. Absolute Gewissheit kann dabei nicht
+verlangt werden. Es genügt, wenn die Entscheidbehörde am Vorliegen der
+behaupteten Tatsache keine ernsthaften Zweifel mehr hat oder allenfalls
+verbleibende Zweifel als leicht erscheinen bzw. wenn die Überzeugung von der
+Lebensvernunft getragen und auf sachliche Gründe abgestützt ist (Kaspar
+Plüss, in Alain Griffel [Hrsg.], Kommentar zum Verwaltungsrechtspflegegesetz
+des Kantons Zürich, 3. A., Zürich/Basel/Genf 2014, § 7 N. 26).
+Bei der Rechts- und Sachverhaltskontrolle der Angebotsbewertung
+auferlegt sich das Gericht Zurückhaltung, da die Vergabebehörde einerseits
+mit den tatsächlichen Verhältnissen der Ausschreibung besser vertraut ist und
+andererseits über mehr Fachwissen verfügt
+(vgl. BGE 125 II 86 E. 6; BGer-Urteil 2C_680/2020
+vom 10. März 2021 E. 6.2, mit Hinweisen).
+4.
+Zunächst
+ist zu prüfen, ob der Vergabeentscheid genügend begründet wurde. Die
+Beschwerdeführerin macht geltend, dass darin nicht aufgezeigt werde, weshalb
+die B.______AG vom Verfahren nicht ausgeschlossen worden sei, da Letztere keine
+zweite Schlüsselperson und keinen Terminplan eingereicht habe. Dieses
+Vorbringen findet in den Akten jedoch keine Stütze. Vielmehr lässt sich dem
+Angebot der B.______AG entnehmen, dass diese sowohl eine zweite
+Schlüsselperson als auch einen Terminplan eingereicht hat. Damit gab es
+keinen Anlass für einen Ausschluss der B.______AG aus dem Vergabeverfahren,
+womit sich Weiterungen hierzu erübrigen. Der Vergabeentscheid wurde zudem
+durch die Zustellung mitsamt der Entscheidmatrix rechtsgenüglich begründet und
+ermöglichte der Beschwerdeführerin eine substantiierte Beschwerde. Die
+Beschwerdegegnerin war nicht gehalten, hierbei weitergehende Ausführungen zu
+tätigen, wobei ein allfälliger Begründungsmangel im Rahmen des vorliegenden
+Rechtsmittelverfahrens ohnehin als geheilt betrachtet werden müsste (vgl.
+VGer-Urteil VG.2022.00040 vom 27. Oktober 2022 E. II/3).
+5.
+5.1
+Die Beschwerdeführerin macht weiter geltend, die von der
+Beschwerdegegnerin gewählte Preisbewertungsmethode sei willkürlich und zu
+steil angesetzt. Dabei ist v
+orliegend davon
+auszugehen, dass Letztere die Bewertungsmethode nicht im Voraus festgelegt
+hat, wobei sie denn auch nicht zu deren vorgängigen Publikation verpflichtet
+war (vgl. E. II/3.1). Sodann kommt ihr beim Entscheid darüber, welches
+Angebot das wirtschaftlich günstigste ist, ein erheblicher Ermessensspielraum
+zu (vgl. BGE 125 II 86 E. 6; BGer-Urteil 2C_549/2011
+vom 27. März 2012 E. 2.4; VGer-Urteil VG.2014.00034 vom
+14. August 2014 E. II/3.1). In diesen kann das Gericht jedoch
+unabhängig von einer allfälligen vorgängigen Publikation eingreifen, da die
+Bekanntgabe der Gewichtung noch nicht ausreicht, um sicherzustellen, dass die
+Angebotspreise im Verhältnis zu den anderen Zuschlagskriterien in
+vergaberechtskonformer Weise bewertet werden. Mit anderen Worten kann durch
+die Art der Bewertung der Offerten bzw. der Preiskurve ein tatsächliches
+Gewicht resultieren, welches nicht der publizierten Gewichtung des
+Zuschlagskriteriums "Preis" entspricht. Trägt die gewählte
+Preisbewertungsmethode der publizierten Gewichtung nicht genügend Rechnung,
+liegt ein rechtswidriger Verstoss gegen das Transparenzgebot vor (vgl.
+BVGer-Urteil B-4387/2017 vom 8. Februar 2018 E. 7.3; vgl. auch
+Urteil des
+Verwaltungsgerichts
+Zug
+V 2020
+14 vom
+1. Juli
+2020 E. 3).
+5.2
+Die
+von der Beschwerdegegnerin gewählte Bemessungsmethode erweist sich vorliegend
+nicht als willkürlich. Sie hat der hohen Gewichtung von 60 %
+entsprechend eine steile Preiskurve bzw. eine reduzierte Preisspanne von
+25 % gewählt. Damit kann nicht gesagt werden, dass die gewählte
+Preisspanne die publizierte Gewichtung verfälschen und damit das
+Transparenzgebot verletzen würde. Vielmehr stellt sie eine Konkretisierung
+der hohen Gewichtung dieses Kriteriums dar. Die Beschwerdeführerin macht denn
+auch nicht geltend, dass sich dies auf die Ausgestaltung ihrer Offerte
+ausgewirkt habe und sie im Wissen darum ihr Angebot preislich angepasst hätte
+(vgl. E. II/3.2). Demgemäss sind
+keine Hinweise für eine
+unrechtmässige Ermessensausübung bei der Preisbewertung ersichtlich.
+6.
+Die Beschwerdeführerin bringt schliesslich vor, das
+Zuschlagskriterium "Schlüsselpersonen" sei in diverser Hinsicht
+falsch bewertet worden.
+6.1
+6.1.1
+Dem
+Offertvergleich lässt sich entnehmen, dass die Beschwerdegegnerin das
+Kriterium "Termine" bei einer Gewichtung von 15 % mit
+150 Punkten und dasjenige "Auftragsverständnis" bei einer
+Gewichtung von 5 % mit 50 Punkten bewertet hat. Beim Kriterium
+"Schlüsselpersonen" mit einer Gewichtung von 20 % (je
+10 % für die beiden anzugebenden Schlüsselpersonen) haben die im
+vorliegenden Verfahren beteiligten Offertsteller maximal 100 bzw. je
+50 Punkte erreicht. Die Beschwerdeführerin kritisiert, dass dies zwar
+die Maximalpunktzahl darstellen müsse. Jedoch entspreche dies nicht der
+Gewichtung. Die Beschwerdegegnerin macht demgegenüber geltend, dass dies
+nicht die Maximalpunktzahl sei, sondern diese ausschreibungsgemäss bei 200
+bzw. je 100 Punkten liege. Dass keine der Anbietenden die volle
+Punktzahl erreicht habe, liege insbesondere daran, dass niemand ein Schulhaus
+als Referenzobjekt habe vorweisen können. Die C.______AG erklärte
+demgegenüber, es seien je zehn Maximalpunkte vorgesehen gewesen, was
+hochgerechnet je 100 Punkten bzw. total 200 Punkten
+entspreche.
+6.1.2
+Damit
+sind sich die Parteien und die C.______AG betreffend die Maximalpunktzahl
+beim Zuschlagskriterium "Schlüsselpersonen" einig, welche auch der
+ausgeschriebenen Gewichtung entspricht. Darauf ist abzustellen. Die
+C.______AG führt aber aus, dass sowohl der Beschwerdeführerin als auch der B.______AG
+die Maximalpunktzahl von je zehn Punkten hätte vergeben werden müssen. Ihr
+sei hierbei ein Fehler unterlaufen. Die B.______AG habe in der Kategorie
+"Schlüsselperson 2 Referenzobjekte" zudem ebenfalls die
+Maximalpunktzahl erreicht. Die Rangfolge der eingereichten Angebote bleibe
+durch diese Korrektur aber unverändert.
+6.1.3
+Entgegen
+der Ansicht der Beschwerdeführerin ist nicht ersichtlich, weshalb auf die
+Aussagen der C.______AG nicht abgestellt werden dürfte. Ihre Befragung
+erfolgte nämlich nicht zuletzt
+unter Strafandrohung, weshalb ihr im
+Ergebnis ein höherer Beweiswert als einer reinen Parteiaussage wie derjenigen
+der Beschwerdegegnerin zukommt
+. Überdies hat
+sie der Beschwerdegegnerin als Auftraggeberin widersprochen, was gegen eine
+Beeinflussung spricht. Ihre Argumentation, dass die Parteien ihre bisherige
+Rangierung beibehielten, aber höhere Punktzahlen erhalten müssten, erscheint
+ebenfalls nachvollziehbar und schlüssig. Demgegenüber vermag die
+ursprüngliche Argumentation der Beschwerdegegnerin, die fehlende Erfahrung
+mit dem Bau von Schulhäusern habe zu einer reduzierten Punktzahl geführt,
+nicht zu überzeugen und wurde in nachvollziehbarer Weise von der C.______AG
+widerlegt. Letzterer ist im Ergebnis somit zu folgen, was dazu führt, dass die
+Beschwerdeführerin und die B.______AG unter der Position
+"Schlüsselpersonen" statt der vergebenen fünf bzw. fünfzig
+Punkte jeweils zehn bzw. hundert Punkte erhalten. Diese fehlende Beurteilung
+bzw. Bepunktung bei der Vergabe führt nun aber nicht zur Aufhebung der
+vorliegend angefochtenen Verfügung, da daraus nicht gleichzeitig auch eine
+Neurangierung resultiert. Indessen ist es nachvollziehbar, dass die
+Beschwerdeführerin unter anderem aufgrund dieses Verfahrensmangels Beschwerde
+erhob, bzw. sich zur Erhebung der Beschwerde veranlasst sah. Dies ist
+indessen aber lediglich bei den Kosten- und Entschädigungsfolgen zu
+berücksichtigen (vgl. untenstehende E. III).
+6.2
+6.2.1
+Die
+C.______AG
+führte weiter aus, die Bewertung der Referenzobjekte in Bezug auf den Preis
+sei falsch vorgenommen worden. Sie habe diese ins Verhältnis zum
+Kostenvoranschlag, der lediglich intern bekannt gewesen sei, gesetzt, anstatt
+ins
+Verhältnis zum jeweiligen Angebotspreis.
+In Anwendung der ersten, falschen Methode habe
+sie die zweite
+Schlüsselperson der B.______AG zu tief bewertet. Diese Position sei
+korrekterweise
+ebenfalls höher (nämlich mit
+zehn bzw. hundert statt null Punkten) zu bewerten. Die Beschwerdeführerin
+macht hiergegen geltend, die von der C.______AG vorgebrachte neue Bewertungsmethode
+führe zu einer unzulässigen Ungleichbehandlung, da Anbieter mit einem höheren
+Angebotspreis teurere Projekte nachweisen müssten. Die Beschwerdegegnerin
+stellt sich auf den Standpunkt, dass die Anbietenden davon hätten ausgehen
+dürfen, dass ihre Referenzobjekte im Verhältnis zum von ihnen eingereichten
+Preis bewertet würden. Die von der C.______AG ursprünglich angewandte
+Bewertungsart verletze das Transparenzgebot.
+6.2.2
+Zunächst
+ist festzuhalten, dass sowohl die von der C.______AG vorgebrachte
+ursprüngliche als auch die darauffolgende Bewertungsmethode grundsätzlich auf
+alle Anbieter gleich angewandt wurde, womit keine offensichtliche
+Ungleichbehandlung besteht. Es erscheint überdies weder sachlogisch noch für
+die Anbietenden aus den Unterlagen erkennbar, dass diese ihre einzureichenden
+Referenzobjekte an einem ihnen unbekannten Preis, namentlich dem von der
+Beschwerdegegnerin angegebenen Kostenvoranschlag, ausrichten sollten. So
+wurde in den Ausschreibungsunterlagen an keiner Stelle auf den
+Kostenvoranschlag Bezug genommen, sondern lediglich die Auftragssummen bzw.
+die Gesamtkosten genannt. Würde auf einen nur intern bekannten Wert
+abgestellt, würde dies darüber hinaus gegen den Transparenzgrundsatz
+verstossen, zumal der Anbieter dabei nicht wüsste, welches Auftragsvolumen
+seine Referenzobjekte mindestens haben müssten. Sodann wird mit einer
+Bewertung anhand des Offertpreises entgegen der Ansicht der
+Beschwerdeführerin nicht bezweckt, denjenigen mit höheren Angebotspreisen
+höhere Hürden bei den Referenzobjekten aufzuerlegen. Vielmehr soll bei einem
+potentiell höheren Gewinn vorausgesetzt bzw. sichergestellt werden, dass der
+Offertsteller über die hierfür notwendige Erfahrung verfügt. Dementsprechend
+ist die neue Bewertungsmethode der C.______AG ohne Weiteres nachvollziehbar
+und mit dem in der Ausschreibung Wiedergegebenen vereinbar. Der Wert der von
+der B.______AG genannten Referenzobjekte der zweiten Schlüsselperson
+übersteigt im Ergebnis somit den notwendigen Schwellenwert. Damit steht ihr bei
+diesem Zuschlagskriterium die volle Punktzahl zu (vgl. aber die nachstehende
+E. II/6.3), während die Beschwerdeführerin bei beiden
+Berechnungsmethoden die volle Punktzahl erreicht.
+6.3
+6.3.1
+Die
+Beschwerdeführerin macht schliesslich geltend, die C.______AG habe die
+Referenzen lediglich in Bezug auf den Auftragswert und nicht inhaltlich
+geprüft. Weil damit dem Preis auch unter dem Punkt "Referenzen"
+Gewicht verliehen werde, werde die Bewertung dadurch verzerrt.
+6.3.2
+Die
+C.______AG bestätigte, dass keine Referenzauskünfte eingeholt wurden, womit
+die Referenzen und Schlüsselpersonen inhaltlich nicht vertieft überprüft
+wurden. Daraus folgt nun aber nicht, dass die Qualität der Referenzen keinen
+Einfluss auf die Bewertung zeitigte. Der Beschwerdeführerin ist zwar darin
+beizupflichten, dass eine vertiefte Prüfung dieser Zuschlagskriterien
+wünschenswert ist. Hierauf besteht jedoch kein Anspruch bzw. keine
+diesbezügliche Verpflichtung seitens der Beschwerdegegnerin oder der
+C.______AG. Vielmehr verfügt die Vergabebehörde nicht zuletzt aufgrund ihrer
+Fachkenntnis über ein gewisses Ermessen bei der Bewertung der Offerten, in
+welches das Gericht nicht ohne Not eingreift (vgl. obenstehende
+E. II/3.3). Die Bausumme der angegebenen Referenzobjekte stellt überdies
+ein bereits geeignetes Kriterium zur Bewertung der Schlüsselpersonen dar
+(vgl. VGer-Urteil VG.2016.000107 vom 10. November 2016, E. II/5.2)
+und solange der Grundsatz der Gleichbehandlung eingehalten wird, ist der
+Verzicht auf eine vertiefte Prüfung bzw. Kontrolle der Referenzen zulässig
+(vgl. Galli et al., Rz. 565). Da im vorliegenden Fall bei keinem
+Anbieter eine vertiefte Überprüfung vorgenommen wurde, ist das Vorgehen der
+Beschwerdegegnerin bzw. der von ihr beauftragen C.______AG nicht zu beanstanden.
+Darüber hinaus liegt auch keine Verletzung des Transparenzgrundsatzes vor, da
+entgegen der Ansicht der Beschwerdeführerin die verlangte Angabe von
+Kontaktdaten der Schlüsselpersonen der Beschwerdegegnerin eine vertiefte
+Prüfung lediglich ermöglicht, sie hierzu jedoch nicht verpflichtet. Dass eine
+solche auf den Zuschlag bzw. bereits auf ihre Offertgestaltung einen Einfluss
+gehabt hätte, macht die Beschwerdeführerin schliesslich denn auch nicht
+geltend. Dementsprechend ist die Bewertung der zweiten Schlüsselperson der
+B.______AG mit der vollen Punktzahl nicht zu beanstanden.
+7.
+Zusammenfassend präsentiert sich die Bewertung der
+Zuschlagskriterien zwar in manchen Punkten als fehlerhaft. Dies hat jedoch
+keine Auswirkungen auf die Rangierung und damit auch nicht auf den Zuschlag.
+Der Vergabeentscheid war genügend begründet und die B.______AG hat alle
+notwendigen Unterlagen einschliesslich eines Terminplans eingereicht. Darüber
+hinaus hat die Beschwerdegegnerin die Bewertung der Preise sowie der
+Schlüsselpersonen korrekt bzw. im Rahmen des ihr zustehenden Ermessens
+willkürfrei vorgenommen. Die B.______AG hat damit insgesamt zu Recht die
+höchste Punktzahl und daraufhin den Zuschlag erhalten, was zur Abweisung der
+Beschwerde führt.
+III.
+1.
+Nach Art. 134
+Abs. 1 lit. c VRG hat die Partei, welche im Beschwerde-, Klage-
+oder Revisionsverfahren unterliegt, die amtlichen Kosten zu tragen.
+Dementsprechend hat grundsätzlich die Beschwerdeführerin die Kostenfolgen zu
+tragen. Zu berücksichtigen ist jedoch, dass sich die Beschwerdeführerin wegen
+der falschen Bewertung bzw. der falschen Benotung zur Erhebung der
+vorliegenden Beschwerde veranlasst sah. Dieser Fehler ist der
+Beschwerdegegnerin anzulasten, womit es sich rechtfertigt, auch ihr einen
+Teil der Kosten aufzuerlegen. Vor diesem Hintergrund
+erscheint es
+angemessen, die Gerichtskosten von pauschal Fr. 7'000.- der
+Beschwerdeführerin und der Beschwerdegegnerin je hälftig aufzuerlegen
+(Art. 134 Abs. 2 VRG i.V.m. Art. 135 Abs. 3 VRG)
+. Vom bereits geleisteten Kostenvorschuss in der
+Höhe von Fr. 7
+'
+000.- sind der Beschwerdeführerin Fr. 3
+'500.-
+zurückzuerstatten.
+2.
+2.1
+Der unterliegenden Beschwerdeführerin steht
+sodann grundsätzlich keine Parteientschädigung zu (Art. 138 Abs. 1
+und Abs. 3 lit. a VRG e contrario)
+.
+Aufgrund des oben Dargelegten (vgl. E. III/1) rechtfertigt es sich aber,
+die Beschwerdegegnerin zu verpflichten, der Beschwerdeführerin innert 30
+Tagen nach Rechtskraft dieses Entscheids eine reduzierte Parteientschädigung
+in der Höhe von Fr. 1
+'
+000.- (inkl. Mehrwertsteuer) zu bezahlen
+(Art. 138 Abs. 3 lit. b VRG). Der Beschwerdegegnerin als
+Behörde ist aufgrund fehlender besonderer Umstände keine Entschädigung
+auszurichten (Art. 138 Abs. 4 VRG).
+2.2
+2.2.1
+Der anwaltlich vertretenen, obsiegenden
+B.______AG
+steht schliesslich eine angemessene Parteientschädigung zu (Art. 138
+Abs. 2 VRG). Dies nicht zuletzt, weil sie als Zuschlagsempfängerin im
+vorliegenden Verfahren ein erhebliches Interesse am Ausgang des Verfahrens
+hat, was letztendlich auch den Beizug einer externen Vertretung rechtfertigt.
+Aus dem Umstand, dass nur eine
+"angemessene" Parteientschädigung zuzusprechen ist, leitet das
+Verwaltungsgericht
+in ständiger Praxis
+aber ab, dass die Parteientschädigung in der Regel nicht sämtliche
+erforderlichen Kosten umfasst, die einer Partei entstanden sind, sondern nur
+einen Teil des nötigen Prozessaufwands. Im Übrigen hat die
+entschädigungsberechtigte Partei ihren notwendigen Aufwand selber zu tragen.
+Dabei wird davon ausgegangen, dass es der entschädigungsberechtigten Partei
+grundsätzlich zuzumuten ist, für einen Teil ihrer erforderlichen Kosten
+selber aufzukommen (zur vergleichbaren Rechtslage im Kanton Zürich:
+Plüss,
+§ 17
+N. 80).
+2.2.2
+Nach welchen Kriterien die Parteientschädigung
+zuzusprechen ist, regelt das anwendbare Verwaltungsprozessrecht nicht. In der
+Regel dürfte es naheliegen, sinngemäss die Regeln über die Bemessung der
+Spruchgebühren heranzuziehen. Gemäss Art. 7 Abs. 2 der Verordnung
+über amtliche Kosten im Verwaltungsverfahren und in der Verwaltungsrechtspflege
+vom 24. Juni 1987 (KoV)
+bemisst
+sich die Spruchgebühr nach dem Arbeits- und Zeitaufwand der entscheidenden
+Behörde (für die Parteientschädigung ist der Arbeits- und Zeitaufwand des
+Rechtsvertreters massgebend), der Bedeutung und Schwierigkeit der Sache sowie
+nach den für die Parteien auf dem Spiel stehenden Vermögens- oder sonstigen
+Interessen an der Angelegenheit. Im Einzelfall können auch weitere Kriterien
+massgebend für die Höhe der Parteientschädigung sein (statt vieler:
+VGer-Urteil VG.2020.00061 vom 24. Juni 2021 E. III/2.2).
+2.2.3
+Vorliegend präsentiert sich der
+massgebliche Sachverhalt als illiquide und die Rechtsfragen erweisen sich für
+ein Submissionsverfahren als durchschnittlich komplex. Sodann war die
+B.______AG gehalten, sich mehrmals zu verschiedenen Fragen zu äussern, wobei
+sie jedoch auch auf die Eingaben der Gegenparteien und ihre bisherigen
+Eingaben zurückgreifen konnte. Darüber hinaus beschränkten sich ihre
+Ausführungen auf insgesamt etwa zehn Seiten. Unter all diesen Umständen erweist
+sich eine Parteientschädigung von Fr. 1'800.- (inkl. Mehrwertsteuer) als
+angemessen. Aus den obgenannten Gründen sind die
+Beschwerdeführerin und die Beschwerdegegnerin zu
+verpflichten, der B.______AG innert 30 Tagen nach Rechtskraft dieses
+Entscheids je eine Parteientschädigung von Fr.
+900.
+- (inkl. Mehrwertsteuer) zu bezahlen.
+3.
+Gegen diesen Entscheid
+steht die Beschwerde in öffentlich-rechtlichen Angelegenheiten ans
+Bundesgericht nur nach Massgabe von Art. 83 lit. f des Bundesgesetzes
+über das Bundesgericht vom 17. Juni 2005 (BGG) offen.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Die
+Gerichtskosten von insgesamt Fr. 7
+'
+000.- werden der Beschwerdeführerin und der
+Beschwerdegegnerin je hälftig auferlegt. Vom bereits geleisteten
+Kostenvorschuss in der Höhe von Fr. 7
+'
+000.- werden der Beschwerdeführerin Fr. 3
+'
+500.-
+zurückerstattet.
+3.
+Die
+Beschwerdegegnerin wird verpflichtet, der Beschwerdeführerin innert
+30 Tagen nach Rechtskraft dieses Entscheids eine reduzierte Parteientschädigung
+von Fr. 1
+'
+000.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Die
+Beschwerdeführerin und die Beschwerdegegnerin werden verpflichtet, der
+B.______AG innert 30 Tagen nach Rechtskraft dieses Entscheids eine
+Parteientschädigung von je Fr.
+900
+.- (inkl. Mehrwertsteuer) zu bezahlen.
+5.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
