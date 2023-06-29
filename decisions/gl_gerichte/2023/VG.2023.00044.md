@@ -1,0 +1,437 @@
+---
+decision_id: "gl_gerichte_VG.2023.00044"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2023.00044"
+docket_2: "VG.2023.1259"
+decided: "2023-06-29"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1706&W10_KEY=218274&nTrefferzeile=6&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/741.01/art-014.md", "switzerland/bund/acts/741.01/art-016.md", "switzerland/bund/acts/741.01/art-016d.md", "switzerland/bund/acts/741.01/art-017.md"]
+---
+
+# GL Gerichte VG.2023.00044
+
+## Regeste
+
+Administrativmassnahmen Strassenverkehr
+
+## Text
+
+Glarus Verwaltungsgericht 29.06.2023 VG.2023.00044 (VG.2023.1259)
+Glaris Verwaltungsgericht 29.06.2023 VG.2023.00044 (VG.2023.1259)
+Glarona Verwaltungsgericht 29.06.2023 VG.2023.00044 (VG.2023.1259)
+
+Administrativmassnahmen Strassenverkehr
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+29. Juni 2023
+I. Kammer
+Besetzung:
+Gerichtspräsident MLaw Colin Braun, Verwaltungsrichter Ernst Luchsinger,
+Verwaltungsrichterin Katia Weibel und Gerichtsschreiberin MLaw Paula Brändli
+in Sachen
+VG.2023.00044
+A.______
+Beschwerdeführer
+vertreten durch
+MLaw
+Sinan
+Stäheli,
+Rechtsanwalt
+gegen
+Staats- und Jugendanwaltschaft des Kantons
+Glarus
+Beschwerdegegnerin
+betreffend
+Sicherungsentzug
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+A.______, geboren am […], wurde am
+23. September 2021 von der Polizei B.______ einer Fahrzeug- und
+Personenkontrolle unterzogen, nachdem Letztere Meldungen erhalten hatte,
+wonach ein Personenwagen Schlangenlinien gefahren und beinahe mit anderen
+Fahrzeugen kollidiert sei.
+Sie nahm
+A.______
+wegen
+des Verdachts auf Fahren in fahrunfähigem Zustand den Führerausweis vorläufig
+ab.
+1.2
+In der Folge stellte das Institut für Rechtsmedizin
+Zürich (IRMZ) im Blut von
+A.______
+Kokain, Gammahydroxybuttersäure (GHB) sowie Medikamente fest. Aufgrund dessen
+entzog ihm d
+ie Fachstelle Administrativmassnahmen der Staats- und
+Jugendanwaltschaft des Kantons Glarus am 21. Oktober 2021 den
+Führerausweis vorsorglich auf unbestimmte Zeit. Sie wies ihn an, sich zur
+Abklärung seiner Fahreignung einer verkehrsmedizinischen Untersuchung zu
+unterziehen.
+Die
+Staatsanwaltschaft […] verurteilte
+ihn daraufhin mit Strafbefehl vom 16. November
+2021 aufgrund Fahrens in fahrunfähigem Zustand, vorsätzlicher Verletzung der
+Verkehrsregeln und Übertretung des Bundesgesetzes über die Betäubungsmittel
+vom 3. Oktober 1951 (BetmG) zu einer bedingten Geldstrafe sowie einer
+Busse.
+1.3
+Dr. med. C.______ und Dr. med. D.______ vom IRMZ
+erstatteten
+am
+14. März 2023 ein verkehrsmedizinisches
+Gutachten. Darin hielten sie fest, dass die Fahreignung von
+A.______ aus verkehrsmedizinischer Sicht zu
+verneinen sei.
+Die Fachstelle
+Administrativmassnahmen stellte
+A.______
+dieses Gutachten am
+16. März 2023
+zu und gab ihm Gelegenheit zur Stellungnahme. Nachdem er sich innert Frist
+nicht vernehmen liess, entzog ihm d
+ie Fachstelle
+Administrativmassnahmen am 6. April 2023 den Führerausweis definitiv auf
+unbestimmte Zeit (Disp.-Ziff. 1). Die Wiedererteilung des Führerausweises
+machte sie vom Vorliegen eines günstig lautenden verkehrsmedizinischen Gutachtens
+abhängig (Disp.-Ziff. 3). Einer allfälligen Beschwerde entzog sie die
+aufschiebende Wirkung (Disp.-Ziff. 6).
+2.
+A.______ gelangte mit
+Beschwerde vom 25. April 2023 ans Verwaltungsgericht und beantragte die
+Aufhebung der Verfügung der Fachstelle Administrativmassnahmen vom
+6. April 2023. Der Führerausweis sei ihm umgehend wieder zu erteilen;
+alles unter Kosten- und Entschädigungsfolge zu Lasten des Staats. In
+prozessualer Hinsicht beantragte er sinngemäss die Wiederherstellung der
+aufschiebenden Wirkung.
+Die Fachstelle Administrativmassnahmen schloss
+am 31. Mai 2023 sowohl auf Abweisung der Beschwerde als auch auf
+Abweisung des sinngemässen Gesuchs um Wiederherstellung der aufschiebenden
+Wirkung; alles unter Kosten- und Entschädigungsfolge zu Lasten von
+A.______.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist zur Behandlung von
+Beschwerden gegen Verfügungen der kantonalen Strassenverkehrsbehörde über Administrativmassnahmen
+im Strassenverkehr zuständig (Art. 105 Abs. 1 lit. d des
+Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986 (VRG) i.V.m.
+Art. 5 Abs. 3 des Einführungsgesetzes zum Bundesgesetz über den
+Strassenverkehr vom 5. Mai 1985 [EG SVG]).
+Da
+auch die übrigen Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde
+einzutreten.
+1.2
+Da vorliegend
+der Entscheid in der Sache ergeht, muss über das sinngemässe Gesuch des
+Beschwerdeführers um Wiederherstellung der aufschiebenden Wirkung der
+Beschwerde nicht mehr entschieden werden.
+1.3
+Gemäss Art. 5 Abs. 3 EG SVG überprüft das
+Verwaltungsgericht Administrativ-massnahmen im Strassenverkehr
+vollumfänglich, d.h. auch auf Angemessenheit hin. Dennoch kommt der
+Beschwerdegegnerin bei der Verfügung von Administrativmassnahmen ein gewisses
+Ermessen zu, in welches das Verwaltungsgericht nicht ohne Not eingreift.
+2.
+2.1
+Der Beschwerdeführer macht geltend, die
+Beschwerdegegnerin habe den Sachverhalt falsch und unvollständig abgeklärt.
+Aufgrund seiner im Gutachten festgestellten Einsicht, Motivation und der
+nachgewiesenen klaren Verhaltensänderung im Sinne einer längerfristigen
+Abstinenz, welche zudem mittels Haaranalyse für die letzten Monate
+dokumentiert worden sei, wäre die Fahreignung zu bejahen gewesen. Die
+Beschwerdegegnerin habe ihm jedoch unterstellt, dass er sie über seine
+psychiatrische Behandlung nicht informiert und erst nach Konfrontation mit
+der bewiesenen Einnahme eine Behandlung mit Psychopharmaka bestätigt habe.
+Dies habe sie jedoch nicht belegen können. Er sei denn auch nie in
+psychiatrischer, sondern lediglich in psychologischer Behandlung gewesen. Da
+er gemäss Laboranalyse keine Psychopharmaka mehr eingenommen habe, habe er
+überdies als abstinent zu gelten, weshalb er eine entsprechende Behandlung
+auch nicht habe erwähnen müssen. Ihm sei von seinem Hausarzt sodann
+mitgeteilt worden, dass eine Entbindung seiner Therapeutin nicht notwendig
+sei, da die entsprechende Behandlung bereits abgeschlossen sei. Diese habe
+überdies einzig wegen einem Burnout stattgefunden und habe in keinem
+Zusammenhang mit dem Betäubungsmittelkonsum oder sonstigen verkehrsrelevanten
+Themen gestanden. Dementsprechend habe er hierzu auch keine Angaben machen
+müssen. Die Behauptung, wonach das Verkehrsereignis vom September 2021 nach
+Abschluss der psychologischen Behandlung als Rückfall zu werten sei, werde
+ebenfalls nicht weiter begründet. Für die Beurteilung seiner Fahreignung sei
+es diesbezüglich irrelevant, ob er in der Vergangenheit in psychologischer
+Behandlung gewesen sei. Er nehme seit Längerem keine Medikamente mehr ein und
+habe trotz fehlender Berufstätigkeit bewiesen, dass er über soziale Kontrolle
+und eine Tagesstruktur verfüge. Es sei schliesslich widersprüchlich, ihm
+einerseits eine Bagatellisierungstendenz und eine nur oberflächliche
+Auseinandersetzung mit dem vergangenen Suchtmittelmissbrauch zu unterstellen
+und ihn andererseits als problemeinsichtig und abstinenzmotiviert zu
+qualifizieren.
+2.2
+Die Beschwerdegegnerin weist darauf hin, dass die Gutachter
+vom Hausarzt des Beschwerdeführers auf die Behandlung der psychiatrischen
+Erkrankung und Suchtproblematik durch eine Psychotherapeutin hingewiesen
+worden seien. Der Beschwerdeführer habe diese aber ausdrücklich nicht von der
+Schweigepflicht entbinden wollen. Gemäss Hausarzt habe in den letzten beiden
+Jahren sodann keine psychologische Betreuung mehr stattgefunden und er könne
+zur Suchtmittelproblematik keine Angaben machen. Die Abstinenz sei ferner
+zwar dokumentiert. Aktuell erscheine es nach Ansicht der Gutachter jedoch
+noch nicht klar, wie der Beschwerdeführer aufgrund der fehlenden
+Tagesstruktur diese aufrechterhalten könne. Mangels Angaben zur
+psychiatrischen Behandlung und zur Einnahme von Psychopharmaka sei
+anzunehmen, dass er gezielt versucht habe, diese Informationen zu
+unterschlagen. Daraus könne überdies abgeleitet werden, dass das
+Verkehrsereignis im September 2021 einen Rückfall nach Abschluss der
+psychotherapeutischen Behandlung darstelle. Insgesamt liege eine
+Bagatellisierungstendenz vor und der Beschwerdeführer zeige lediglich eine
+oberflächlich stattgefundene Auseinandersetzung mit dem vergangenen
+Suchtmittelmissbrauch. Ohne längerfristige Stabilisierung der Abstinenz und
+ohne echte Auseinandersetzung bestehe ein erhöhtes Risiko, dass er künftig
+wieder ein Fahrzeug unter Substanz- und/oder Medikamenteneinfluss lenke.
+3.
+3.1
+Gemäss Art. 14 Abs. 1 des
+Strassenverkehrsgesetzes vom 19. Dezember 1958 (SVG) müssen
+Motorfahrzeugführer über Fahreignung und Fahrkompetenz verfügen. Über Fahreignung
+verfügt unter anderem, wer die erforderliche körperliche und psychische
+Leistungsfähigkeit zum sicheren Führen von Motorfahrzeugen hat (Art. 14
+Abs. 2 lit. b SVG). Führerausweise sind zu entziehen, wenn
+festgestellt wird, dass die gesetzlichen Voraussetzungen zur Erteilung nicht
+oder nicht mehr bestehen (Art. 16 Abs. 1 SVG). Der Führerausweis
+wird einer Person gemäss Art. 16d Abs. 1 SVG auf unbestimmte Zeit
+entzogen, wenn ihre körperliche oder geistige Leistungsfähigkeit nicht oder
+nicht mehr ausreicht, ein Motorfahrzeug sicher zu führen (lit. a); sie
+an einer Sucht leidet, welche die Fahreignung ausschliesst (lit. b);
+oder sie aufgrund ihres bisherigen Verhaltens nicht Gewähr bietet, dass sie
+künftig beim Führen eines Motorfahrzeugs die Vorschriften beachten und auf
+Mitmenschen Rücksicht nehmen wird (lit. c). Mit dem Begriff der
+Fahreignung umschreiben alle betroffenen wissenschaftlichen Disziplinen die
+körperlichen und geistigen Voraussetzungen einer Person, ein Fahrzeug im
+Strassenverkehr sicher lenken zu können. Die Fahreignung muss grundsätzlich
+dauernd vorliegen (vgl. Botschaft des Bundesrats zur Änderung des
+Strassenverkehrsgesetzes vom 31. März 1999, BBl 1999
+IV 4462 ff., 4483 f.).
+3.2
+Durch den Sicherungsentzug soll die zu befürchtende
+Gefährdung der Verkehrssicherheit durch einen ungeeigneten Fahrzeugführer
+künftig verhindert werden. Dabei ist nicht von Bedeutung, ob eine Person eine
+Verkehrsregel verletzt hat oder ob ein Verschulden vorliegt. Als
+schwerwiegender Eingriff in den Persönlichkeitsbereich des Betroffenen setzt
+er eine sorgfältige Abklärung aller wesentlichen Gesichtspunkte voraus. Der
+Umfang der Nachforschungen richtet sich nach den Umständen des Einzelfalls
+und liegt im pflichtgemässen Ermessen der Entzugsbehörde (vgl. zum Ganzen
+BGer-Urteil 1C_264/2018 vom 5. Oktober 2018 E. 3.2, mit Hinweisen).
+3.3
+O
+b
+ein Gericht die in einem Gutachten
+im Rahmen von
+Fahreignungsuntersuchungen
+enthaltenen
+Erörterungen für überzeugend hält oder nicht und ob es dementsprechend den
+Schlussfolgerungen der Experten folgen soll, unterliegt seiner freien
+Beweiswürdigung. Dasselbe gilt für die Frage, ob ein Gutachten in sich
+schlüssig ist, wobei das Gericht in Fachfragen nicht ohne triftige Gründe von
+Gutachten abweichen darf und Abweichungen begründen muss. Auf ein nicht
+schlüssiges Gutachten darf es nicht abstellen, wenn gewichtige, zuverlässig
+begründete Tatsachen oder Indizien die Überzeugungskraft des Gutachtens
+ernstlich erschüttern. Das trifft etwa zu, wenn an die Begutachtenden
+gestellte Fragen nicht beantwortet wurden, wenn ihre Schlussfolgerungen in
+sich widersprüchlich sind oder wenn die Expertise sonst wie an Mängeln
+krankt, die offensichtlich und auch ohne spezielles Fachwissen erkennbar sind
+(vgl. BGer-Urteil 1C_763/2021 vom 9. Dezember 2022 E. 3.3, mit
+Hinweisen; VGer-Urteil VG.2016.00062 vom 15. September 2016
+E. II/3.5, nicht publiziert).
+4.
+Die Beschwerdegegnerin stützte den vorliegend
+angefochtenen Sicherungsentzug auf das verkehrsmedizinische Gutachten von
+Dr. C.______ und Dr. D.______ vom 14. März 2023. Diese führten
+aus, dem Vorfall vom September 2021 sei
+ein
+langjähriger Gelegenheitskonsum von Kokain, GHB und verschreibungspflichtigen
+Psychopharmaka ohne ärztliche Verordnung vorausgegangen. Damit sei von einem
+verkehrsrelevanten Missbrauch in der Vergangenheit auszugehen. Im Zeitraum
+von etwa Anfang September 2022 bis Anfang Januar 2023 sei keine nennenswerte
+Einnahme oder Applikation von Opioiden, Stimulanzien, Ketamin oder GHB
+erfolgt.
+Der
+Beschwerdeführer zeige sich darüber hinaus problemeinsichtig und
+abstinenzmotiviert. Er könne eine klare Verhaltensänderung im Sinne einer
+längerfristigen, aus Einsicht eingeleiteten Abstinenz nachweisen und habe
+angegeben, sich vom konsumierenden Umfeld distanziert zu haben, was aus
+verkehrsmedizinischer Sicht prognostisch günstig zu werten sei. Dass der
+Beschwerdeführer seinen langfristig angegebenen Abstinenzwillen durch seine
+Willenskraft aufrechterhalten wolle, scheine als alleinige Strategie für die
+Zukunft noch etwas unkonkret und die fehlende Berufstätigkeit könne im Sinne
+einer fehlenden Tagesstruktur und sozialen Kontrolle als Risikofaktor für
+einen möglichen Rückfall gewertet werden.
+Die
+Gutachter kritisieren sodann, der Beschwerdeführer habe angegeben, nie in
+psychiatrischer Behandlung gewesen zu sein. Auf Konfrontation hin habe er in
+der Folge eine Behandlung mit Psychopharmaka jedoch bestätigt. Sein Hausarzt
+habe diesbezüglich angegeben, dass er wegen einer psychischen Erkrankung und
+Suchtproblematik in psychologischer Behandlung gewesen sei. Er, der
+Beschwerdeführer, habe die Therapeutin jedoch nicht von der Schweigepflicht
+entbinden wollen. Mit Blick darauf müsse davon ausgegangen werden, dass er
+gezielt versucht habe, Informationen bezüglich seiner früheren Behandlung
+wegen einer Suchtmittel- und/oder Medikamentenproblematik zu unterschlagen.
+Zudem sei anzunehmen, dass es nach Abschluss der psychotherapeutischen
+Behandlung zum Verkehrsereignis im September 2021 gekommen sei, was als
+Rückfall gewertet werden könne.
+Zusammenfassend
+könne anhand der vorliegenden Informationen nicht beurteilt werden, welche
+psychische Erkrankung und Suchtmittel- und/oder Medikamentenproblematik beim
+Beschwerdeführer vorgelegen habe. Wegen der in der Vergangenheit
+vorgefallenen Ereignisse unter teils multiplem Substanzeinfluss, den
+Hinweisen auf eine Bagatellisierungstendenz und der offensichtlich nur
+oberflächlich stattgefundenen Auseinandersetzung mit dem vergangenen
+Suchtmittelmissbrauch müsse davon ausgegangen werden, dass ohne
+längerfristige Stabilisierung der Abstinenz und echter Auseinandersetzung ein
+erhöhtes Risiko bestehe, dass er künftig wieder ein Fahrzeug unter Substanz-
+und/oder Medikamenteneinfluss lenken könnte. Die Fahreignung müsse zum
+jetzigen Zeitpunkt deshalb negativ beurteilt werden.
+5.
+5.1
+Vorliegend stützte die Beschwerdegegnerin den
+Führerausweisentzug auf Art. 16d Abs. 1 lit. b SVG. Dabei wird
+verlangt, dass die betroffene Person an einer Sucht leidet, welche die
+Fahreignung ausschliesst, wobei die Sucht im verkehrsrechtlichen Sinne für
+die Anordnung des Sicherungsentzugs nachgewiesen sein muss (Bernhard
+Rütsche/Nadja D
+'
+Amico, in Marcel Alexander Niggli/Thomas
+Probst/Bernhard Waldmann
+[
+Hrsg.
+]
+, Basler Kommentar zum Strassenverkehrsgesetz, Basel
+2014, Art. 16d N. 48). Vorliegend war dies im Rahmen der
+verkehrsmedizinischen Begutachtung aber offensichtlich nicht der Fall.
+Vielmehr wird im Gutachten darauf hingewiesen, dass anhand der Unterlagen
+nicht beurteilt werden könne, um was für eine psychische Erkrankung und
+Suchtmittel- und/oder Medikamentenproblematik es sich beim Beschwerdeführer
+handle. Die Erkenntnisse der Gutachter bezogen sich zudem auf eine
+Erkrankung, aufgrund derer der Beschwerdeführer offenbar zu einem früheren
+Zeitpunkt in Behandlung gewesen war. Ob demgegenüber im Zeitpunkt des
+strassenverkehrsrechtlich relevanten Vorfalls bzw. im Begutachtungszeitpunkt
+überhaupt eine entsprechend relevante Erkrankung vorlag, ist somit nicht
+erstellt.
+Weiter gilt zu beachten,
+dass selbst im Falle einer Suchterkrankung zu prüfen gewesen wäre, ob diese
+auch in verkehrsmedizinischer Sicht relevant ist bzw. ob und inwiefern
+sie mit dem Lenken eines Fahrzeugs in Verbindung steht (vgl. Rütsche/D
+'
+Amico
+Art. 16d N. 48). Hierbei ist darauf hinzuweisen, dass entgegen den
+Angaben der Gutachter aufgrund der vorhandenen Akten davon auszugehen ist,
+dass es sich beim Vorfall im September 2021 um den einzigen dieser Art
+gehandelt hat. Ein Missbrauch ist überdies erst dann verkehrsrelevant, wenn
+eine hohe Wahrscheinlichkeit besteht, dass der Konsum der jeweiligen Substanz
+und das Fahren künftig nicht voneinander getrennt werden können (Noah Grand,
+Der Führerausweis und sein Entzug in der schweizerischen Rechtsordnung,
+Zürich/Genf 2023, S. 399).
+5.2
+Die Gutachter bzw. die Beschwerdegegnerin stellten
+vorliegend fest, dass beim Beschwerdeführer ohne längerfristige
+Stabilisierung der Abstinenz und echter Auseinandersetzung ein erhöhtes
+Risiko bestehe, dass er künftig wieder ein Fahrzeug unter Substanz- und/oder
+Medikamenteneinfluss lenken könnte, weshalb seine Fahreignung zu diesem
+Zeitpunkt negativ beurteilt werde. Dies erscheint widersprüchlich. Da im
+Zeitpunkt der verkehrsmedizinischen Beurteilung nachgewiesenermassen eine
+mehrmonatige Abstinenz bestand, hat die Fahreignung in diesem Moment mangels
+gegenteiliger Hinweise als erfüllt zu gelten. Die Aussage der Gutachter,
+wonach der Vorfall vom September 2021 einen Rückfall nach der Beendigung
+einer nicht näher bekannten Behandlung darstellt, wurde denn auch nicht
+weiter begründet und erscheint aufgrund des zeitlichen Abstands von einem
+halben Jahr zwischen dem streitbetroffenen Vorfall und dem Behandlungsende
+zumindest nicht offensichtlich.
+5.3
+Im Ergebnis stellen die Gutachter eine negative bzw.
+ungewisse Zukunftsprognose betreffend die Fahreignung des Beschwerdeführers.
+Dies mit Verweis auf eine Rückfallgefahr in Bezug auf den Suchtmittelkonsum
+sowie das Risiko, in einem fahrunfähigen Zustand ein Fahrzeug zu lenken.
+Vorliegend bestehen jedoch nicht genügend Indizien, um einen Sicherungsentzug
+gestützt auf Art. 16d Abs. 1 lit. b SVG zu rechtfertigen. Die
+Beschwerdegegnerin durfte mangels eines nachgewiesenen und aktuellen
+Substanzmissbrauchs zumindest nicht unbesehen und ohne weitere Abklärungen
+auf eine fehlende Fahreignung des Beschwerdeführers schliessen.
+6.
+Aufgrund des oben
+Dargelegten besteht für einen Sicherungsentzug nach Art. 16d Abs. 1
+lit. b SVG, wie ihn die Beschwerdegegnerin verfügt hat, keine genügende
+Grundlage, weshalb der Führerausweis grundsätzlich wieder zu erteilen ist (vgl. VGer-Urteil
+VG.2018.00063 vom 13. September 2018 E. II/5, nicht publiziert).
+Wenn die Behörde jedoch davon ausgeht, dass zwar der Nachweis der
+Mangelbehebung erbracht ist, sie jedoch Zweifel hat, ob die Fahreignung auch
+künftig nachhaltig sichergestellt ist, kann sie gemäss Art. 17
+Abs. 3 SVG den Führerausweis im Interesse der Verkehrssicherheit bedingt
+und unter Auflagen wiedererteilen (Bernhard Rütsche/Denise Weber, in Marcel
+Alexander Niggli/Thomas Probst/Bernhard Waldmann
+[Hrsg.],
+Basler Kommentar zum Strassenverkehrsgesetz, Basel 2014, Art. 17
+N. 28). Mit dem länger dauernden Gelegenheitskonsum sowie der Schwere
+des Vorfalls liegen genügend Gründe vor, welche die Anordnung von Auflagen
+zur Kontrolle der Fahreignung rechtfertigen. Aufgrund der Hinweise der
+Gutachter in Bezug auf ein gewisses Risiko für die Verkehrssicherheit
+erscheint es sodann geeignet und angemessen, den Beschwerdeführer im Rahmen
+einer Auflage zu einer sechsmonatigen Betäubungsmittelabstinenz zu
+verpflichten, wie es die Beschwerdegegnerin im Rahmen des Sicherungsentzugs
+ebenfalls vorgesehen hat (vgl. VGer-Urteil VG.2020.00103 vom 3. Dezember
+2020 E. II/5.4.2, nicht publiziert; Grand, S. 396 ff.).
+7.
+Zusammenfassend sind die
+Voraussetzungen für die Anordnung eines Sicherungsentzugs nicht erfüllt, da
+ein sicheres Führen des Motorfahrzeugs durch den Beschwerdeführer mit einer
+milderen Massnahme sichergestellt werden kann. Folglich ist ihm der
+Führerausweis unter der Auflage einer sechsmonatigen
+Betäubungsmittelabstinenz wiederzuerteilen, wobei es der Beschwerdegegnerin
+obliegt, die Periodizität und den Umfang der Kontrollen festzulegen.
+Demgemäss ist die
+Beschwerde teilweise gutzuheissen. Die Verfügung der Beschwerdegegnerin vom
+6. April 2023 ist aufzuheben und die Sache im Sinne der Erwägungen an
+die Beschwerdegegnerin zurückzuweisen.
+III.
+1.
+Gemäss Art. 5
+Abs. 1 EG SVG i.V.m. Art. 134 Abs. 1 lit. c VRG hat die
+Partei, welche im Beschwerdeverfahren unterliegt, die amtlichen Kosten zu
+tragen. Unterliegt sie nur teilweise, werden die amtlichen Kosten angemessen
+reduziert (Art. 136 Abs. 2 VRG)
+. Die Gerichtskosten von
+pauschal Fr. 1'000.- sind ausgangsgemäss zur Hälfte dem Beschwerdeführer
+aufzuerlegen und zur Hälfte auf die Staatskasse zu nehmen
+(vgl. Art. 135 Abs. 1 VRG). Vom bereits geleisteten
+Kostenvorschuss in der Höhe von Fr. 1'000.- sind dem Beschwerdeführer
+Fr. 500.- zurückzuerstatten.
+2.
+Der teilweise obsiegende
+und berufsmässig vertretene Beschwerdeführer hat gemäss Art. 138
+Abs. 1 und 3 lit. a VRG Anspruch auf eine reduzierte
+Parteientschädigung zu Lasten der Beschwerdegegnerin. Diese ist auf
+Fr. 800.- (inkl. Mehrwertsteuer) festzusetzen. Der Beschwerdegegnerin
+steht mangels besonderer Umstände schliesslich keine Parteientschädigung zu
+(Art. 138 Abs. 4 VRG).
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird teilweise gutgeheissen. Die Verfügung der
+Beschwerdegegnerin vom 6. April 2023 wird aufgehoben und die Sache im
+Sinne der Erwägungen an diese zurückgewiesen.
+2.
+Die
+Gerichtskosten von Fr. 1'000.- werden zur Hälfte dem Beschwerdeführer
+auferlegt und zur Hälfte auf die Staatskasse genommen. Vom bereits
+geleisteten Kostenvorschuss in der Höhe von Fr. 1'000.- werden dem
+Beschwerdeführer Fr. 500.- zurückerstattet.
+3.
+Die
+Beschwerdegegnerin wird verpflichtet, dem Beschwerdeführer innert
+30 Tagen nach Rechtskraft dieses Entscheids eine reduzierte
+Parteientschädigung von Fr. 800.- (inkl. Mehrwertsteuer) zu
+bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
