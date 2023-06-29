@@ -1,0 +1,346 @@
+---
+decision_id: "gl_gerichte_VG.2023.00015"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2023.00015"
+docket_2: "VG.2023.1258"
+decided: "2023-06-29"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1705&W10_KEY=218274&nTrefferzeile=7&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/221.213.2/art-011.md", "switzerland/bund/acts/221.213.2/art-036.md", "switzerland/bund/acts/221.213.2/art-037.md", "switzerland/bund/acts/221.213.2/art-042.md"]
+---
+
+# GL Gerichte VG.2023.00015
+
+## Regeste
+
+Landwirtschaft/Forstwesen
+
+## Text
+
+Glarus Verwaltungsgericht 29.06.2023 VG.2023.00015 (VG.2023.1258)
+Glaris Verwaltungsgericht 29.06.2023 VG.2023.00015 (VG.2023.1258)
+Glarona Verwaltungsgericht 29.06.2023 VG.2023.00015 (VG.2023.1258)
+
+Landwirtschaft/Forstwesen
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+29. Juni 2023
+I. Kammer
+Besetzung:
+Gerichtspräsident MLaw Colin Braun, Verwaltungsrichter Ernst Luchsinger,
+Verwaltungsrichterin Katia Weibel und Gerichtsschreiberin MLaw Paula Brändli
+in Sachen
+VG.2023.00015
+A.______
+Beschwerdeführer
+gegen
+1.
+Gemeinde Glarus Süd
+Beschwerdegegnerinnen
+2.
+Abteilung Landwirtschaft des Kantons
+Glarus
+betreffend
+höchstzulässiger Pachtzins
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+A.______ schloss mit der Gemeinde Glarus Süd am 26.
+Januar 2015 bzw. am 19. Februar 2015 einen Pachtvertrag, welcher die
+Bewirtschaftung (Milchkuhalp mit Milchverarbeitung und Jungvieh) der
+Alp B.______ in […], Glarus Süd, zum Gegenstand hat.
+1.2
+Nachdem die Gemeindeversammlung Glarus Süd für die
+Sanierung der Alp B.______ am […] einen Verpflichtungskredit in der Höhe
+von Fr. 1'032'000.- genehmigt hatte, wurde diese entsprechend saniert.
+1.3
+Am 23. November 2021 ersuchte die Gemeinde Glarus
+Süd die Abteilung Landwirtschaft des Kantons Glarus um Festlegung des
+höchstzulässigen Pachtzinses für die Alp B.______. In der Folge setzte
+diese den Ertragswert des Grundstücks Nr. 01, Grundbuch […], Gebiet
+Alp B.______, am 27. Dezember 2022 auf Fr. 146'942.- fest und
+verfügte gleichentags einen höchstzulässigen jährlichen Pachtzins
+(einschliesslich Pachtzinszuschlag) in der Höhe von Fr. 20'442.-.
+2.
+A.______ gelangte am 1.
+Februar 2023 (Eingangsdatum) an die Abteilung Landwirtschaft und beantragte
+sinngemäss die Aufhebung der Verfügung vom 27. Dezember 2022 sowie die
+Reduktion des höchstzulässigen Pachtzinses für die Alp B.______. Die
+Abteilung Landwirtschaft überwies die Sache am 7. Februar 2023 zuständigkeitshalber
+dem hiesigen Verwaltungsgericht zur Behandlung, welches das vorliegende
+Beschwerdeverfahren eröffnete. Die Gemeinde Glarus Süd schloss am
+29. März 2023 auf Abweisung der Beschwerde; unter Kostenfolge zu Lasten
+von A.______. Die Abteilung Landwirtschaft liess sich am 20. April 2023
+vernehmen und beantragte die teilweise Gutheissung der Beschwerde; unter
+anteiliger Kostenfolge zu Lasten von A.______.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 50 Abs. 1 des
+Bundesgesetzes über die landwirtschaftliche Pacht vom 4. Oktober 1985 (LPG)
+i.V.m. Art. 17 Abs. 1 des Einführungsgesetzes zu den Bundesgesetzen über die
+Landwirtschaft, über das bäuerliche Bodenrecht und über die
+landwirtschaftliche Pacht vom 4. Mai 2014 (EG LwG) zur Behandlung der
+vorliegenden Beschwerde zuständig. Da auch die übrigen Prozess-voraussetzungen
+erfüllt sind, ist auf die Beschwerde einzutreten.
+1.2
+Gemäss Art. 19 Abs. 1 EG LwG i.V.m. Art. 107 Abs. 1
+des Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986 (VRG)
+können mit Verwaltungsgerichtsbeschwerde die unrichtige oder unvollständige
+Feststellung des rechtserheblichen Sachverhalts (lit. a) und die unrichtige
+Rechtsanwendung (lit. b) gerügt werden. Eine Ermessenskontrolle steht dem
+Verwaltungsgericht gemäss der abschliessenden Aufzählung in Art. 107 Abs. 2
+VRG nur ausnahmsweise zu. Eine solche Ausnahme liegt nicht vor.
+2.
+2.1
+Der Beschwerdeführer rügt, die Erhöhung des neu
+berechneten Pachtzinses betrage knapp Fr. 7'000.- pro Sommer
+bzw. Fr. 233.- pro Stoss, was unverhältnismässig sei. Die
+Beschwerdegegnerin 1 schreibe ihm nämlich vor, dass er drei
+Vollzeitangestellte beschäftigen müsse, was er bislang eingehalten habe. Eine
+Lohnsumme von Fr. 50'000.- pro Saison (ohne einen Lohnbezug seinerseits)
+sowie ein derart hoher Pachtzins seien mit dem Ertrag nicht mehr vereinbar.
+Überdies könne er die Fehlschätzung der Gebäude einschliesslich der
+Milchleitung, welche er im Übrigen selbst erstellt und bezahlt habe, nicht
+akzeptieren.
+2.2
+Die Beschwerdegegnerin 1 führt aus, sie habe die
+Alp B.______ in den Jahren 2019 bis 2021 bzw. während der
+Pachtdauer mit dem Beschwerdeführer für mehr als Fr. 1'000'000.-
+umfassend saniert, wodurch sowohl der Wert der Liegenschaft als auch der
+Wohnkomfort massgeblich gestiegen sei. Darüber hinaus sei eine neue
+Alpkäserei eingerichtet worden, welche die Arbeit des Beschwerdeführers
+erheblich erleichtere. Diese Investitionen wirkten sich auf den Ertragswert
+wertvermehrend aus, weshalb auch der höchstzulässige Pachtzins ansteige. Soweit
+der Beschwerdeführer sodann festhalte, sie habe ihm vorgeschrieben, dass er
+genügend Personal zu beschäftigen habe, habe dies keine Auswirkungen auf den
+höchstzulässigen Pachtzins. Es sei aber darauf hinzuweisen, dass eine solche
+Vorschrift und eine Ermahnung unter Androhung einer Kündigung des
+Pachtverhältnisses notwendig gewesen sei, weil er die ihm obliegenden
+Unterhalts- und Reparaturarbeiten vernachlässigt habe. Ferner mache er keine
+substantiierten Einwendungen gegen die Ertragswertschätzung geltend. Er
+begründe insbesondere nicht, worin die geltend gemachte Fehlschätzung der
+Gebäude und der Milchleitung bestehen solle. Vielmehr ergebe sich aus dem
+Schätzungsbericht, dass die angeblich selbst erstellte Milchleitung vom
+Ertragswert abgezogen worden sei. Damit sei dem Umstand, dass er die Kosten
+der Milchleitung selber getragen habe, beim Ertragswert und schliesslich auch
+beim höchstzulässigen Pachtzins genügend Rechnung getragen worden.
+2.3
+Die Beschwerdegegnerin 2 stellt sich auf den
+Standpunkt, ihre Berechnung werde vom Beschwerdeführer nicht substantiiert
+bestritten. Letzterer behaupte nämlich lediglich eine Fehlschätzung der
+Gebäude, ohne hierzu nähere Angaben zu machen. Diesbezüglich sei aber auf die
+Fachkompetenz der Schätzer hinzuweisen, welche über langjährige Erfahrung
+verfügten und mit den örtlichen Verhältnissen bestens vertraut seien. Soweit
+der Beschwerdeführer die markante Erhöhung des Pachtzinses bemängle, ziele
+seine Rüge sodann ins Leere. Diese resultiere im Wesentlichen aus dem gestiegenen
+Ertrags- bzw. Mietwert der Gebäude, welcher wiederum darin begründet sei,
+dass die gesetzlichen Bestimmungen angepasst worden seien und die
+Alp B.______ durch die Beschwerdegegnerin 1 umfassend saniert
+worden sei. Im Ergebnis seien die Höhe des Ertragswerts und der daraus
+resultierende höchstzulässige Pachtzins korrekt festgesetzt worden, wobei die
+vom Beschwerdeführer geltend gemachte Milchleitung bei der
+Pachtzinsberechnung für landwirtschaftliche Grundstücke im Rahmen einer
+Reduktion von Fr. 116.- bereits vorschriftsgemäss gewürdigt worden sei.
+Eine anderweitige Berechnung als nach den geltenden gesetzlichen Bestimmungen
+sei ferner nicht angezeigt, da entgegen der Ansicht des Beschwerdeführers
+kein unbilliges Ergebnis vorliege. Es sei unzutreffend, dass die Alp nunmehr
+nicht mehr rentabel bewirtschaftet werden könne, da einerseits die
+Bundesbeiträge, welche ein Pächter für die Alpwirtschaft beziehen könne,
+laufend angepasst worden seien. Andererseits habe der Beschwerdeführer von
+den verbesserten Strukturen auf der Alp B.______ bereits während zwei
+Jahren zum alten Pachtzins profitieren können. Immerhin sei ihr Entscheid
+aber dahingehend zu korrigieren, als dass der Pachtzins nur gestaffelt (im
+ersten Jahr auf maximal Fr. 16'287.60, im zweiten Jahr auf maximal
+Fr. 19'545.10 und im dritten Jahr auf die maximal zulässige Höhe
+bzw. auf Fr. 20'442.-) erhöht werden dürfe, da die anwendbare
+Verordnung bei bestehenden Pachtverhältnissen landwirtschaftlicher Gewerbe
+eine maximal zulässige Erhöhung im Umfang von 20 % pro Jahr vorsehe.
+Dementsprechend sei die Beschwerde teilweise gutzuheissen und die
+angefochtene Verfügung in diesem Punkt zu korrigieren.
+3.
+3.1
+Der Zins für die Pacht von Grundstücken zur
+landwirtschaftlichen Nutzung unterliegt gemäss Art. 1 Abs. 1 lit. a i.V.m.
+Art. 36 Abs. 1 LPG der behördlichen Kontrolle; er darf das zulässige Mass
+nicht übersteigen. Der Pachtzins für Gewerbe bedarf der Bewilligung (Art. 42
+Abs. 1 LPG). Wird der Wert eines verpachteten Gewerbes oder Grundstücks
+infolge eines Naturereignisses, von Bodenverbesserungen, Vergrösserungen oder
+Verminderung der Fläche, Neu- und Umbauten, Abbruch oder Stilllegung eines
+Gebäudes oder anderer Umstände dauernd verändert, so kann jede Partei
+verlangen, dass der Ertragswert neu festgesetzt und der Pachtzins auf Beginn
+des folgenden Pachtjahres angepasst wird. Dies kann auch verlangt werden,
+wenn die allgemeinen Grundlagen für die Schätzung des Ertragswerts ändern
+(Art. 11 LPG).
+3.2
+Gemäss Art. 37 LPG setzt sich der Pachtzins für
+landwirtschaftliche Gewerbe aus einer angemessenen Verzinsung des
+Ertragswerts nach Art. 10 des Bundesgesetzes über das bäuerliche
+Bodenrecht vom 4. Oktober 1991 (BGBB) sowie der Abgeltung der mittleren
+Aufwendungen der Verpächter für Anlagen und Einrichtungen (Verpächterlasten)
+zusammen. Die Sätze für die Verzinsung des Ertragswerts (Art. 37
+lit. a LPG) und die Abgeltung der Verpächterlasten (Art. 37 lit. b LPG)
+setzt der Bundesrat fest und er bestimmt den Zuschlag für die allgemeinen
+Vorteile (Art. 36 Abs. 2 LPG). Dem ist er mit Erlass der Verordnung
+über die Bemessung des landwirtschaftlichen Pachtzinses vom 11. Februar
+1987 (PZV) nachgekommen. Der höchstzulässige Pachtzins für Sömmerungsbetriebe
+setzt sich gemäss Art. 11 Abs. 1 PZV aus dem Pachtzins für die Weiden (lit.
+a); dem Pachtzins für die Ökonomiegebäude und die Einrichtungen (lit. b)
+sowie dem Pachtzins für den Wohnraum (lit. c) zusammen. Der Pachtzins für
+Weiden setzt sich aus dem Basispachtzins von 6,5 % des Ertragswerts der
+Weiden, bereinigt aufgrund der örtlichen Verhältnisse im Sinne von Art. 7
+Abs. 3 PZV und allfälligen betriebsbezogenen Zuschlägen im Sinne von
+Art. 7 Abs. 4 PZV zusammen (Art. 11 Abs. 2 PZV). Demgegenüber
+berechnet sich der Pachtzins für Ökonomiegebäude und die Einrichtungen nach
+Art. 10 Abs. 1 PZV und der Pachtzins für Wohngebäude für den Wohnraum nach
+Art. 3 und 4 Abs. 1 lit. d PZV (Art. 11 Abs. 3 PZV). Ferner kann
+für Sömmerungsbetriebe auf den höchstzulässigen Pachtzins für
+Sömmerungsweiden nach Bundesrecht ein Zuschlag erhoben werden, wenn dies für
+den Erhalt des Sömmerungsbetriebs notwendig ist (Art. 11 Abs. 1 EG LwG). Der
+Landrat regelt die Voraussetzungen und die Bemessung dieses Zuschlags (Art. 11
+Abs. 2 EG LwG). Als Übergangsbestimmung wird in Art. 14a PZV schliesslich
+festgehalten, dass für bestehende Pachtverhältnisse landwirtschaftlicher
+Gewerbe sich der Pachtzins gegenüber demjenigen vor dem Inkrafttreten (1.
+April 2018) um maximal 20 % pro Jahr erhöht, bis der zulässige Pachtzins
+nach Art. 42 LPG erreicht ist.
+3.3
+Ist die Berechnung des Pachtzinses nach Art. 2-12
+PZV nicht möglich, weil allgemeine Grundlagen für die Schätzung des
+Ertragswerts fehlen oder führt diese Berechnung in Anbetracht der besonderen
+sachlichen Verhältnisse zu einem unbilligen Ergebnis, so kann der Pachtzins
+anders berechnet bzw. der berechnete Pachtzins angemessen erhöht oder
+vermindert werden, wobei die Grundsätze nach Art. 36-40 LPG in jedem
+Fall anwendbar bleiben (Art. 14 PZV).
+4.
+4.1
+4.1.1
+Es ist weder ersichtlich noch wird vom Beschwerdeführer
+substantiiert dargelegt, dass die Beschwerdegegnerin 2 die Berechnung
+des höchstzulässigen Pachtzinses für die Alp B.______ falsch vorgenommen
+hätte. Seine pauschale Rüge, der errechnete Pachtzins sei nicht mit dem
+Ertrag vereinbar, genügt zumindest nicht, um die fachkundige und vor Ort
+erfolgte Einschätzung sowie die gestützt darauf ergangene Berechnung vom 23.
+Dezember 2022 in Zweifel zu ziehen. Die Beschwerdegegnerin 2 legt denn
+auch korrekt und nachvollziehbar dar, dass aus einem Vergleich zwischen der
+alten und der neuen Schätzung beim Ertragswert bzw. beim Pachtzins der
+Weiden eine Abnahme und beim Pachtzinszuschlag sowie beim Mietwert der
+Gebäude bzw. beim diesbezüglichen Pachtzins eine Zunahme resultiert.
+4.1.2
+Der Berechnung des Pachtzinszuschlags wurde sodann
+richtigerweise Art. 2 Abs. 1a der Verordnung über die Bemessung des
+höchstzulässigen Pachtzinszuschlags für Sömmerungsbetriebe vom 24. Juni 2015
+(Pachtzins-Verordnung) zu Grunde gelegt, wonach der Zuschlag je Normalstoss für
+Schafe höchstens Fr. 25.- (lit. a); für Milchkühe, -schafe, ‑ziegen
+Fr. 75.- (lit. b) und für die übrigen Tiere Fr. 52.50 (lit. c)
+beträgt. Dadurch resultiert richtigerweise ein Zuschlag in der Höhe von
+Fr. 5'825.-. Hiervon zog die Fachbehörde einen Betrag in der Höhe von
+Fr. 160.- ab und trug damit dem Umstand Rechnung, dass der
+Beschwerdeführer eine Milchleitung selbst erstellt hat, womit seine Rüge, die
+selbst erworbene Milchleitung sei nicht berücksichtigt worden, ins Leere
+zielt. Im Ergebnis ist der Pachtzuschlag in der Höhe von Fr. 5'665.-
+damit nicht zu beanstanden. Daran ändert im Übrigen nichts, dass die
+Beschwerdegegnerin 2 in der vorliegend angefochtenen Verfügung und in
+ihrer Beschwerdeantwort von einem totalen Zuschlag in der Höhe von Fr. 5'825.-
+ausging. Hierbei handelt es sich offensichtlich nur um einen Schreib- und
+keinen Rechnungsfehler, da das korrekte Endergebnis, namentlich der
+höchstzulässige Pachtzins von Fr. 20'442.-, dadurch nicht verändert
+wird.
+4.1.3
+Weiter kann den Beschwerdegegnerinnen ohne Weiteres
+darin gefolgt werden, dass der gestiegene Ertrags- bzw. Mietwert der Gebäude
+einerseits in den geänderten Rechtsgrundlagen und andererseits im Umbau der
+Alp begründet ist. So erscheint es nicht zuletzt mit Blick auf die
+erheblichen Investitionen der Beschwerdegegnerin 1 im Umfang von mehr
+als einer Million Franken, welche im Übrigen Anlass zur Neuberechnung des
+höchstzulässigen Pachtzinses gegeben haben (vgl. Art. 11 LPG), ohne
+Weiteres als nachvollziehbar, dass der höchstzulässige Pachtzins angestiegen
+ist. Hierdurch profitiert nämlich letztlich der Beschwerdeführer als Pächter
+mit einem erhöhten Komfort sowie einer Optimierung bei der Produktion, wofür
+er einen angemessenen Beitrag zu leisten hat. Da weder aus den Akten
+ersichtlich ist noch vom Beschwerdeführer dargetan wird, dass diese Erhöhung
+falsch berechnet wurde, erweist sich der höchstzulässige Pachtzins für die
+landwirtschaftlichen Bestandteile im Umfang von Fr. 14'777.- als
+rechtmässig.
+4.2
+Soweit der Beschwerdeführer alsdann vorbringt, das
+Ergebnis der Berechnung bzw. der höchstzulässige Pachtzins führe zu
+einem unbilligen Ergebnis, beantragt er sinngemäss die Anwendung von Art. 14
+PZV als Ausnahmeregelung. Dabei ergibt sich jedoch weder aus den Akten noch
+bringt er selbst vor, weshalb ausserordentliche Verhältnisse bestehen bzw.
+weshalb im vorliegenden Fall besondere sachliche Verhältnisse gegeben sind.
+Vielmehr wird durch die angewendeten Berechnungsgrundlagen sichergestellt,
+dass keine Ungleichheiten gegenüber anderen Alppächtern bestehen, wobei die
+Beschwerdegegnerin 2 richtigerweise ins Feld führt, dass der
+höchstzulässige Pachtzins für die streitbetroffene und relativ grosse Alp
+auch gegenüber denjenigen für andere kantonale Alpen standhält. An diesem
+Ergebnis ändert sodann auch die Abmahnung der Beschwerdegegnerin 1 vom
+25. August 2020 bzw. die dabei gemachten Auflagen nichts. So war
+die Beschwerdegegnerin 1 einerseits hierzu ohne Weiteres befugt.
+Andererseits erscheinen die Auflagen ohne Weiteres geeignet und erforderlich,
+um eine optimale Bewirtschaftung der Alp zu gewährleisten. Vor diesem
+Hintergrund erscheint dabei insbesondere ein Bedarf an genügend Personal als
+betriebsüblich und im vorliegenden Fall auch angezeigt. Im Ergebnis liegt
+damit kein Ausnahmefall gemäss Art. 14 PZV vor, womit es an dieser Stelle
+sein Bewenden hat.
+4.3
+Schliesslich weist die Beschwerdegegnerin 2 zu
+Recht darauf hin, dass eine Anpassung des höchstzulässigen Pachtzinses nicht
+in einem Schritt, sondern nur stufenweise erfolgen darf. So handelt es sich
+beim angepassten Pachtzins um einen solchen, welcher vor dem Inkrafttreten
+von Art. 14a PZV, namentlich vor dem 1. April 2018 vereinbart und nach
+diesem Datum angepasst wurde. Dementsprechend darf er pro Jahr maximal um
+20 % bzw. ausgehend vom ursprünglichen Zins von Fr. 13'573.-
+(vgl. hierzu den Pachtvertrag 26. Januar 2015 bzw. 19. Februar 2015]) im
+ersten Jahr auf maximal Fr. 16'287.60, im zweiten Jahr auf maximal
+Fr. 19'545.10 und erst im dritten Jahr auf den höchstzulässigen Pachtzins
+erhöht werden.
+4.4
+Im Ergebnis ist die Berechnung des höchstzulässigen
+Pachtzinses für die Alp B.______ in der Höhe von Fr. 20'442.- nicht
+zu beanstanden. Sie wurde gestützt auf die korrekten Rechtsgrundlagen sowie
+unter Berücksichtigung der Umstände des Einzelfalls richtig vorgenommen.
+Sodann sind keine besonderen Verhältnisse ersichtlich, die eine Anwendung von
+Art. 14a PZV gebieten würden. Ferner weist die Beschwerdegegnerin 2
+zutreffend darauf hin, dass die maximal zulässige Pachtzinserhöhung pro Jahr
+nur 20 % betragen darf, bis der zulässige Pachtzins nach Art. 42
+LPG erreicht ist.
+Dies führt zur teilweisen
+Gutheissung der Beschwerde. Disp.-Ziff. 1 der Verfügung der
+Beschwerdegegnerin 2 vom 27. Dezember 2022 ist dahingehend
+abzuändern, als dass der streitbetroffene Pachtzins im ersten Jahr auf
+maximal Fr. 16'287.60, im zweiten Jahr auf maximal Fr. 19'545.10
+und im dritten Jahr auf maximal Fr. 20'442.- erhöht werden darf.
+III.
+Da der Beschwerdeführer
+lediglich in einem Nebenpunkt obsiegt, sind die Gerichtskosten von pauschal
+Fr. 1'000.- zu drei Vierteln ihm aufzuerlegen und zu einem Viertel auf
+die Staatskasse zu nehmen (Art. 134 Abs. 1 lit. c VRG i.V.m.
+Art. 135 Abs. 1 VRG). Vom bereits geleisteten Kostenvorschuss in
+der Höhe von Fr. 2'000.- sind dem Beschwerdeführer Fr. 1'250.-
+zurückzuerstatten.
+Demgemäss erkennt die Kammer
+:
+1.
+Die Beschwerde
+wird teilweise gutgeheissen. Disp.-Ziff. 1 der Verfügung der
+Beschwerdegegnerin 2 vom 27. Dezember 2022 wird dahingehend
+abgeändert, als dass der höchstzulässige Pachtzins für die
+Alp B.______ Fr. 20'442.- beträgt und der Pachtzins im ersten
+Jahr auf maximal Fr. 16'287.60, im zweiten Jahr auf maximal
+Fr. 19'545.10 und im dritten Jahr auf maximal Fr. 20'442.- erhöht
+werden darf.
+2.
+Die
+Gerichtskosten in der Höhe von Fr. 1'000.- werden zu drei Vierteln dem
+Beschwerdeführer auferlegt und zu einem Viertel auf die Staatskasse
+genommen. Vom bereits geleisteten Kostenvorschuss in der Höhe von
+Fr. 2'000.- werden dem Beschwerdeführer Fr. 1'250.-
+zurückerstattet.
+3.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
