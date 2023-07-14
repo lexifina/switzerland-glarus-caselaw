@@ -1,0 +1,688 @@
+---
+decision_id: "gl_gerichte_OG.2023.00040"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2023.00040"
+docket_2: "OGS.2023.152"
+decided: "2023-07-14"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1718&W10_KEY=218274&nTrefferzeile=3&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/142.20/art-061.md", "switzerland/bund/acts/142.20/art-063.md", "switzerland/bund/acts/311.0/art-010.md", "switzerland/bund/acts/311.0/art-042.md", "switzerland/bund/acts/311.0/art-064.md", "switzerland/bund/acts/311.0/art-066a.md", "switzerland/bund/acts/311.0/art-103.md", "switzerland/bund/acts/311.0/art-122.md", "switzerland/bund/acts/311.0/art-126.md", "switzerland/bund/acts/311.0/art-129.md", "switzerland/bund/acts/311.0/art-135.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-222.md", "switzerland/bund/acts/312.0/art-226.md", "switzerland/bund/acts/312.0/art-228.md", "switzerland/bund/acts/312.0/art-326.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-421.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/514.54/art-033.md", "switzerland/bund/acts/812.121/art-019.md"]
+---
+
+# GL Gerichte OG.2023.00040
+
+## Regeste
+
+Haftverlängerung
+
+## Text
+
+Glarus Obergericht 14.07.2023 OG.2023.00040 (OGS.2023.152)
+Glaris Obergericht 14.07.2023 OG.2023.00040 (OGS.2023.152)
+Glarona Obergericht 14.07.2023 OG.2023.00040 (OGS.2023.152)
+
+Kanton Glarus
+Obergericht
+Es wirken mit:
+Obergerichtsvizepräsidentin lic. iur. Marianne Dürst
+Benedetti, Oberrichterin Monika Trümpi
+und
+Oberrichterin Ruth Hefti
+sowie
+Gerichtsschreiber lic. iur. Sebastian
+Micheroli.
+Beschluss
+vom 14. Juli 2023
+Verfahren
+OG.2023.00040
+A.______
+Beschwerdeführer
+und Beschuldigter
+verteidigt
+durch
+lic. iur.
+Gregor
+Münch,
+Münch Singh Rechtsanwälte
+Dufourstrasse 32,
+Postfach 2024,
+8024
+Zürich
+gegen
+Staats-
+und Jugendanwaltschaft des Kantons Glarus
+Postgasse 29,
+8750
+Glarus
+Beschwerdegegnerin
+vertreten
+durch den
+Staatsanwalt
+betreffend
+Haftverlängerung
+Rechtsbegehren
+de
+s Beschwerdeführers und Beschuldigten
+(gemäss Eingabe vom 26.
+Juni 2023, act. 13):
+Es sei die Verfügung des
+Kantonsgerichts Glarus vom 15. Juni 2023 aufzuheben und es sei der
+Beschwerdeführer – eventuell unter gleichzeitiger Anordnung von
+Ersatzmassnahmen – umgehend aus der Haft zu entlassen.
+Subeventuell sei die Verfügung
+des Kantonsgerichts Glarus vom 15. Juni 2023 aufzuheben, es sei die Haft
+stattdessen bis Ende Juli 2023 zu befristen und es sei die
+Staatsanwaltschaft im Sinne von Art. 226 Abs. 4 Bst. b StPO anzuweisen,
+umgehend die behauptete Gefährlichkeit des Beschwerdeführers gutachterlich
+abklären zu lassen.
+Unter Kosten- und
+Entschädigungsfolgen zulasten der Staatskasse.
+____________________
+Das
+Gericht zieht in Betracht:
+I.
+Mit Entscheid vom 15. Juni 2023
+im Verfahren SG.2023.00048 hiess das Zwangsmassnahmengericht das Gesuch der
+Staatsanwaltschaft vom 8. Juni 2023 um Verlängerung der
+Untersuchungshaft von A.______ um drei Monate, bis am 12. September 2023
+(act. 1), gut (act. 8 S. 8 Dispositiv-Ziff. 1).
+Dagegen erhob die Verteidigung
+mit Eingabe vom 26. Juni 2023 beim Obergericht Beschwerde mit den oben
+genannten Anträgen (vgl. act. 13).
+Die Staatsanwaltschaft nahm mit
+Schreiben vom 3. Juli 2023 Stellung (vgl. act. 16).
+Die Verteidigung reichte dem
+Obergericht am 4. Juli 2023 unaufgefordert eine Eingabe ein (act. 18 f.).
+II.
+1.
+Der angefochtene Haftentscheid
+ist der Beschwerde zugänglich und der Beschuldigte A.______ ist als
+verhaftete Person beschwerdelegitimiert (vgl. Art. 222 StPO). Die
+Beschwerdefrist ist eingehalten (vgl. Art. 396 Abs. 1 StPO).
+Die übrigen
+Rechtsmittelvoraussetzungen geben zu keinen Bemerkungen Anlass.
+Das Obergericht ist für die
+Behandlung der Beschwerde zuständig (vgl. Art. 17 Abs. 2 Bst. a GOG, GS
+III A/2).
+Auf die Beschwerde ist
+einzutreten.
+2.
+2.1
+Mit Beschwerde können
+in Bezug auf den angefochtenen Entscheid Rechtsverletzungen und eine
+unvollständige oder unrichtige Feststellung des Sachverhalts sowie
+Unangemessenheit gerügt werden (Art. 393 Abs. 2 StPO).
+2.2
+Die Verteidigung macht
+betreffend die vorinstanzliche Bejahung (der Verhältnismässigkeit) von (Haft
+wegen) Wiederholungsgefahr (und Fluchtgefahr) unrichtige
+Sachverhaltsfeststellung und unrichtige Rechtsanwendung geltend
+(vgl. act. 13 Ziff. 6 ff.).
+3.
+Die Akten der Verfahren
+SG.2023.00020 und SG.2023.00048 wurden beigezogen.
+III.
+1.
+Untersuchungshaft ist nach Art.
+221 Abs. 1 StPO zulässig, wenn die beschuldigte Person eines Verbrechens oder
+Vergehens dringend verdächtig ist und ernsthaft zu befürchten ist, dass
+Fluchtgefahr (Bst. a), Kollusionsgefahr (Bst. b) oder Wiederholungsgefahr
+(Bst. c) besteht.
+1.1
+1.1.1
+Nach der
+Rechtsprechung des Bundesgerichts liegt ein dringender Tatverdacht i.S.v.
+Art. 221 Abs. 1 StPO vor, wenn das untersuchte Verhalten mit erheblicher
+Wahrscheinlichkeit die Tatbestandsmerkmale eines Verbrechens oder Vergehens
+erfüllen könnte, was mit konkreten Verdachtsmomenten nachzuweisen ist
+(vgl. z.B. BGE 143 IV 330 E. 2.1).
+1.1.2
+Die
+Staatsanwaltschaft verdächtigt den Beschuldigten, am 12. März 2023 um ca.
+11.00 Uhr beim Bahnhof [...] B.______ (nachfolgend als Opfer bezeichnet)
+verbal und nonverbal provoziert und ihn schliesslich mehrfach gezielt mit
+einer beschädigten Glasflasche ins Gesicht gestochen und dadurch schwer
+verletzt zu haben (act. 1 S. 2).
+1.1.3
+Die Verletzungen im
+Gesicht und am Kopf des Opfers sind dokumentiert (vgl. act. 2/11 und im
+Verfahren SG.2023.00020 act. 2/4).
+Der Beschuldigte gab am 13. März
+2023 resp. am 14. März 2023 gegenüber der Polizei resp. der
+Staatsanwaltschaft zu, dass er zweimal mit einer (zerbrochenen) Glasflasche
+auf den Kopf des ihm unbekannten Opfers geschlagen resp. gestochen habe.
+Dabei machte der Beschuldigte sinngemäss geltend, dass er in Notwehr
+gehandelt habe, da das Opfer ihn mit Fäusten geschlagen habe und ihn vor den einfahrenden
+Zug auf das Gleis habe werfen wollen (vgl. jeweils im Verfahren SG.2023.00020
+act. 2/1 Ziff. 31 ff., 159 ff. und 209 ff.; sowie act. 2/3 Ziff. 3,
+11, 14 ff., 24 f., 27 f., 30, 32 ff., 36 ff. und 67 ff.).
+Dem gegenüber stehen namentlich
+die jeweils kurze Zeit nach dem Vorfall bei der Polizei gemachten Aussagen
+des Opfers; von C.______, der beim Vorfall ebenfalls anwesend war und ein
+Kollege des Beschuldigten ist (vgl. im Verfahren SG.2023.00020 act. 2/3
+Ziff. 5 f.); sowie von zwei unbeteiligten Personen, die den betreffenden
+Vorfall von einem stehenden Zug aus (teilweise) beobachteten. Nach diesen
+Aussagen hat der Beschuldigte das Opfer – nach einer vorangegangenen, durch
+den Beschuldigten provozierten, tätlichen Auseinandersetzung zwischen ihnen –
+mit einer (zerbrochenen) Flasche angegriffen und dabei gezielt im Gesicht und
+am Kopf verletzt (vgl. jeweils im Verfahren SG.2023.00020 act. 2/5 Ziff. 5
+ff., 12 f., 17 und 25 ff.; act. 2/6 Ziff. 1 ff., 5 ff., 10 ff., 18 und
+21; act. 2/7 Ziff. 7, 16, 18, 21 ff., 37, 39, 43, 46 und 48; sowie act.
+2/8 Ziff. 7, 16 f., 21 ff., 33, 36 und 49).
+Folglich liegen konkrete
+Verdachtsmomente dafür vor, dass der Beschuldigte das Opfer mit erheblicher
+Wahrscheinlichkeit vorsätzlich und rechtswidrig schwer verletzt hat.
+Entsprechend besteht ein
+dringender Tatverdacht, dass der Beschuldigte sich der schweren
+Körperverletzung i.S.v. Art. 122 StGB strafbar gemacht hat, was die
+Verteidigung ausdrücklich nicht bestreitet (vgl. act. 13 Ziff. 5).
+1.2
+1.2.1
+Nach Art. 221 Abs. 1
+Bst. c StPO ist Untersuchungshaft zulässig, wenn die beschuldigte Person
+eines Verbrechens oder Vergehens dringend verdächtig ist und ernsthaft zu
+befürchten ist, dass sie durch schwere Verbrechen oder Vergehen die
+Sicherheit anderer erheblich gefährdet, nachdem sie bereits früher
+gleichartige Straftaten verübt hat.
+Bei diesen früheren gleichartigen
+Straftaten muss es sich um Verbrechen oder schwere Vergehen gegen gleiche
+oder gleichartige Rechtsgüter gehandelt haben, wie sie im hängigen Strafverfahren
+massgeblich sind. Die Voraussetzung, dass die tatverdächtige Person früher
+gleichartige Straftaten verübt hat, ist nach der bundesgerichtlichen
+Rechtsprechung erfüllt, wenn mit an Sicherheit grenzender Wahrscheinlichkeit
+feststeht, dass die tatverdächtige Person solche Straftaten begangen hat. Den
+betreffenden Nachweis erachtet das Bundesgericht nicht nur bei
+rechtskräftigen Verurteilungen als erbracht, sondern auch bei einem
+glaubhaften Geständnis oder einer erdrückenden Beweislage bezogen auf Straftaten,
+die Gegenstand eines noch hängigen Strafverfahrens sind (zum Ganzen
+BGE 143 IV 9 E. 2.3.1 m.H.).
+Über den Wortlaut von Art. 221
+Abs. 1 Bst. c StPO hinaus kann nach der Rechtsprechung des Bundesgerichts
+strafprozessuale Haft wegen Wiederholungsgefahr auch zulässig sein, wenn die
+tatverdächtige Person früher nur eine einzige gleichartige Straftat verübt
+hat (vgl. Urteil BGer 1B_50/2013 vom 25. Februar 2013 E. 4.2).
+Das Bundesgericht lässt
+strafprozessuale Haft wegen Wiederholungsgefahr gestützt auf Art. 221 Abs. 1
+Bst. c StPO ausnahmsweise sogar zu, wenn die tatverdächtige Person keine
+frühere (gleichartige) Straftat (mit an Sicherheit grenzender
+Wahrscheinlichkeit) verübt hat. Bei dieser qualifizierten Wiederholungsgefahr
+setzt das Bundesgericht voraus, dass sich die Risiken als untragbar hoch erweisen
+(vgl. BGE 137 IV 13 E. 3 und 4; BGE 143 IV 9 E. 2.3.1).
+Für strafprozessuale Haft wegen
+Wiederholungsgefahr ist eine ungünstige Rückfallprognose erforderlich, aber
+insofern auch ausreichend. Hierbei stellen sich ähnliche Fragen wie im
+Zusammenhang mit der Gewährung des bedingten Strafvollzugs nach Art. 42 Abs.
+1 StGB. Massgebliche Kriterien bei der Beurteilung der Rückfallgefahr sind
+insbesondere die Häufigkeit und Intensität der untersuchten Delikte sowie die
+einschlägigen Vorstrafen. Bei dieser Bewertung sind allfällige
+Aggravationstendenzen, wie eine zunehmende Eskalation respektive
+Gewaltintensität oder eine raschere Kadenz der Taten, zu berücksichtigen. Zu
+würdigen sind des Weiteren die persönlichen Verhältnisse der beschuldigten
+Person, d.h. insbesondere ihre psychische Verfassung, ihre familiäre
+Verankerung, die Möglichkeiten einer Berufstätigkeit und ihre finanzielle
+Situation. Die Einholung eines psychiatrischen Gutachtens ist zur Beurteilung
+der Rückfallgefahr nicht in jedem Fall notwendig. Erscheint ein solches im
+konkreten Fall erforderlich oder wurde es bereits in Auftrag gegeben,
+rechtfertigt sich die Aufrechterhaltung der Haft bei gemäss Aktenlage
+ungünstiger Prognose jedenfalls so lange, bis die Wiederholungsgefahr
+gutachterlich abgeklärt ist (zum Ganzen BGE 143 IV 9 E. 2.8 und 2.10).
+Die nach Art. 221 Abs. 1 Bst. c
+StPO vorausgesetzte erhebliche Gefährdung der Sicherheit anderer durch
+drohende Verbrechen oder schwere Vergehen kann sich grundsätzlich auf
+Rechtsgüter jeder Art beziehen; im Vordergrund stehen Delikte gegen die
+körperliche und sexuelle Integrität. Voraussetzung für die Einstufung als
+schweres Vergehen ist, dass (abstrakt) eine Freiheitsstrafe (bis zu drei
+Jahren) droht (vgl. zum Ganzen BGE 143 IV 9 E. 2.3.1, 2.6 und 2.7).
+In der Regel gilt, je schwerer
+die drohende Tat ist, desto höher ist auch die Gefährdung der Sicherheit
+anderer. Betreffend die Anforderungen an die Rückfallgefahr gilt hingegen
+eine umgekehrte Proportionalität. Dies bedeutet, je schwerer die drohenden
+Taten sind und je höher die Gefährdung der Sicherheit anderer ist, desto
+geringere Anforderungen sind an die Rückfallgefahr zu stellen. Liegen die
+Tatschwere und die Sicherheitsrelevanz am oberen Ende der Skala, so ist die
+Messlatte zur Annahme einer rechtserheblichen Rückfallgefahr tiefer
+anzusetzen (zum Ganzen BGE 143 IV 9 E. 2.9).
+1.2.2
+Die
+Bundesversammlung hat am 17. Juni 2022 beschlossen, den Haftgrund der
+qualifizierten Wiederholungsgefahr ausdrücklich zu regeln durch Schaffung eines
+neuen Absatzes 1
+bis
+bei Art. 221 StPO. Diese Bestimmung lautet wie
+folgt (BBl 2022 1560, 7):
+«Untersuchungs- und
+Sicherheitshaft sind ausnahmsweise zulässig, wenn:
+a. die beschuldigte Person
+dringend verdächtig ist, durch ein Verbrechen oder ein schweres Vergehen die
+physische, psychische oder sexuelle Integrität einer Person schwer
+beeinträchtigt zu haben; und
+b. die ernsthafte und
+unmittelbare Gefahr besteht, die beschuldigte Person werde ein gleichartiges,
+schweres Verbrechen verüben.»
+Nachdem
+die Referendumsfrist am 6. Oktober 2022 unbenutzt abgelaufen ist, sind die
+Änderungen der Strafprozessordnung vom 17. Juni 2022 bisher noch nicht
+in Kraft gesetzt worden (vgl. unter
+https://www.bj.admin.ch/bj/de/home/sicherheit/gesetzgebung/aenderungstpo.html,
+besucht am 3. Juli 2023).
+Das Bundesgericht hat mit Urteil
+vom 10. Januar 2023 in anderem Sachzusammenhang dennoch entschieden, aufgrund
+der Revision der Strafprozessordnung vom 17. Juni 2022 seine Rechtsprechung
+ab sofort dahingehend zu ändern, dass der Staatsanwaltschaft in Haftsachen
+kein (StPO-)Beschwerderecht mehr zukommt. Dieser Entscheid beruht auf der
+folgenden Begründung: Im geltenden Recht bestehe keine ausdrückliche
+gesetzliche Grundlage für das Haftbeschwerderecht der Staatsanwaltschaft. Das
+Bundesgericht habe diese Beschwerdemöglichkeit der Staatsanwaltschaft in
+Ergänzung zum gesetzlichen Wortlaut von Art. 222 StPO durch Richterrecht
+geschaffen. Der Gesetzgeber habe sich in Kenntnis der bundesgerichtlichen Praxis
+klar gegen ein solches Beschwerderecht der Staatsanwaltschaft ausgesprochen
+und damit die bundesgerichtliche Rechtsprechung nicht übernommen (vgl. zum
+Ganzen Urteil BGer 1B_614/2022, 1B_628/2022 vom 10. Januar 2023 E. 2.4).
+Vor diesem Hintergrund stellt
+sich die Frage, ob ebenso die im künftigen Art. 221 Abs. 1
+bis
+StPO
+festgelegten Voraussetzungen bereits jetzt massgebend sind beim Haftgrund der
+qualifizierten Wiederholungsgefahr, welcher in Ergänzung zum gesetzlichen
+Wortlaut von Art. 221 Abs. 1 Bst. c StPO ebenfalls durch Richterrecht
+geschaffen wurde (vgl. BGE 137 IV 13 E. 3 und 4; BGE 143 IV 9 E. 2.3.1).
+Dabei fragt sich namentlich, ob der Umstand, dass die qualifizierte
+Wiederholungsgefahr nach dem Wortlaut des künftigen Art. 221 Abs. 1
+bis
+Bst. b StPO nicht nur eine «ernsthafte», sondern zudem eine «unmittelbare»
+sein muss, eine Einschränkung des bisherigen Anwendungsbereichs dieses
+Haftgrundes zur Folge hat. Dies ist aus den nachfolgenden Gründen zu
+verneinen.
+Strafprozessuale Haft wegen
+Wiederholungsgefahr ist eine vorsorgliche strafprozessuale Massnahme zur
+Gewährleistung des strafrechtlichen Rechtsgüterschutzes. Sie dient dazu, eine
+dringend tatverdächtige Person davon abzuhalten, Straftaten zu verüben, bis
+eine konkret in Aussicht stehende strafrechtliche Sanktion gegebenenfalls
+diese spezialpräventive Funktion übernimmt. Entsprechend diesem Zweck sowie
+im Einklang mit der Rechtsprechung des Bundesgerichts und des EGMR kann
+strafprozessuale Haft wegen Wiederholungsgefahr verhältnismässig sein, wenn –
+gestützt auf eine Rückfallprognose – eine plausible, sanktionenrechtliche
+Gefahr künftiger Straftaten der tatverdächtigen Person besteht. Die
+Verhältnismässigkeit von strafprozessualer Haft wegen Wiederholungsgefahr
+setzt daher nicht voraus, dass eine konkrete und spezifische Straftat der
+dringend tatverdächtigen Person in naher Zukunft droht. Entsprechend ist der
+Begriff der Unmittelbarkeit im künftigen Art. 221 Abs. 1
+bis
+StPO
+(sowie im künftigen Art. 221 Abs. 1 Bst. c StPO in der Fassung der
+Änderung vom 17. Juni 2022; BBl 2022 1560, 7) weit auszulegen, zur
+Gewährleistung des strafrechtlichen Rechtsgüterschutzes. Folglich sind
+plausible, sanktionenrechtliche Gefahren, die von dringend tatverdächtigen
+Personen ausgehen, (als Dauergefahren, die jederzeit akut werden können) auch
+vom künftigen Art. 221 Abs. 1
+bis
+(und Abs. 1 Bst. c) StPO
+erfasst (zum Ganzen
+Micheroli/Tag
+,
+Anmerkungen zu aktuellen Entwicklungen im Haftrecht, in: Jusletter 16. Mai
+2022, Ziff. 64 ff. m.H. und Ziff. 93 ff.).
+Nach dem Ausgeführten erfordert
+der strafprozessuale Haftgrund der (qualifizierten) Wiederholungsgefahr –
+auch künftig – keine konkrete und spezifische Gefahr, wie sie beispielsweise
+beim Straftatbestand der Gefährdung des Lebens nach Art. 129 StGB im Hinblick
+auf eine «unmittelbare Lebensgefahr» vorausgesetzt ist.
+Das Bundesgericht hat denn nach
+Ablauf der Referendumsfrist für die Änderung der Strafprozessordnung vom 17.
+Juni 2022 daran festgehalten, dass beim Haftgrund (auch) der qualifizierten
+Wiederholungsgefahr eine ungünstige Rückfallprognose notwendig, aber insoweit
+auch ausreichend ist (vgl. Urteile BGer 1B_195/2023 vom 27. April 2023
+E. 2.1 f. und 1B_293/2023 vom 19. Juni 2023 E. 3.1). Zudem führte
+es aus, dass in der erfolgten Revision von Art. 221 Abs. 1 Bst. c StPO
+am Erfordernis einer «erheblichen unmittelbaren Sicherheitsgefährdung»
+festgehalten wurde (vgl. Urteil BGer 1B_22/2023 vom 13. Februar
+2023 E. 2.3). Der Umstand, dass die (qualifizierte) Wiederholungsgefahr
+gemäss dem künftigen Art. 221 Abs. 1 Bst. c und Abs. 1
+bis
+StPO (BBl 2022 1560, 7) ausdrücklich «unmittelbar» sein muss,
+ändert somit auch nach Ansicht des Bundesgerichts nichts daran, dass
+weiterhin – dann auch nach Inkrafttreten der betreffenden Bestimmungen – eine
+ungünstige Rückfallprognose genügt.
+1.2.3
+Der Beschuldigte
+wurde zwischen Oktober 2012 und Oktober 2017 wegen zahlreicher zwischen
+Februar 2012 und April 2017 begangener Straftaten, u.a. wegen Nötigung,
+Drohung, Tätlichkeiten, Diebstahl, Sachbeschädigung, Hausfriedensbruch,
+Gewaltdarstellungen (i.S.v. Art. 135 Abs. 1 StGB), Vergehens gegen das
+Betäubungsmittelgesetz (i.S.v. Art. 19 Abs. 1 BetmG), (mehrerer) Vergehen
+gegen das Waffengesetz (i.S.v. Art. 33 Abs. 1 WG) und (mehrerer)
+Übertretungen des Betäubungsmittelgesetzes verurteilt (vgl. act. 17).
+Zudem liegen viele Strafanzeigen
+gegen den Beschuldigten betreffend Vorfälle zwischen November 2017 und
+September 2022 vor (vgl. im Verfahren SG.2023.00020 act. 2/9 ff.).
+Dabei machen zwei Personen
+unabhängig voneinander geltend, dass sie am 19. November 2017 nachts, zu
+jeweils unterschiedlichen Zeiten, von dem ihnen damals unbekannten
+Beschuldigten ohne Grund mit der Faust ins Gesicht geschlagen wurden. In
+einem dieser Fälle habe der Beschuldigte noch CHF 200.— gefordert. In den
+betreffenden Strafanzeigen ist festgehalten, in der Nacht vom 19. November
+2017 habe der Chef eines Sicherheitsdienstes der Polizei gemeldet, dass der
+Beschuldigte Personen angepöbelt und Geld von ihnen gewollt habe. Zudem ist
+vermerkt, dass die Polizei in der vergangenen Zeit wegen des Beschuldigten
+vermehrt ausrücken musste, wobei in den meisten Fällen auf eine
+Anzeigeerstattung verzichtet wurde (vgl. zum Ganzen im Verfahren
+SG.2023.00020 act. 2/9 f.).
+Eine andere Person wirft dem
+Beschuldigten vor, sie am 1. Januar 2018 mit einer Glasscherbe in der Hand
+mehrmals gegen den Kopf geschlagen zu haben. In dieser Strafanzeige sind
+Aussagen von Auskunftspersonen wiedergegeben, wonach der Beschuldigte diverse
+Personen angepöbelt, angerempelt und provoziert habe, aggressiv gewesen sei
+und jemandem mit einer Glasscherbe auf den Kopf geschlagen habe (vgl. zum
+Ganzen im Verfahren SG.2023.00020 act. 2/11).
+Wieder eine andere Person macht
+geltend, vom Beschuldigten am 5. März 2019 bedroht und mit einem gefährlichen
+Gegenstand angegriffen worden zu sein (vgl. im Verfahren SG.2023.00020 act.
+2/12).
+Die Ehefrau des Beschuldigten
+wirft ihm vor, ihr gegenüber im Zeitraum von Dezember 2018 bis Juli 2021
+mehrere Straftaten begangen zu haben, namentlich Vergewaltigung, Nötigung, Drohung
+und Körperverletzung (vgl. im Verfahren SG.2023.00020 act. 2/13 ff.).
+Weiter werden dem Beschuldigten
+in mehreren Fällen von verschiedenen Personen im Zeitraum zwischen März 2019
+und September 2021 Diebstahl und Hausfriedensbruch vorgeworfen (vgl. im
+Verfahren SG.2023.00020 act. 2/20 ff.); in einer Strafanzeige ist
+festgehalten, dass der Beschuldigte geständig sei, am 25. September 2021 aus
+einem Wohnhaus in [...] eine Schusswaffe gestohlen und dann mit dieser in
+[...] im Dorf herumgefuchtelt zu haben (vgl. im Verfahren SG.2023.00020 act.
+2/23 S. 2).
+Gegen den Beschuldigten liegen
+auch Anzeigen wegen Wiederhandlung gegen das Betäubungsmittelgesetz im April
+2022 und Juni 2022 vor (vgl. im Verfahren SG.2023.00020 act. 2/27 f.).
+Mehrere Personen werfen dem
+Beschuldigten vor, dass er sie im Zeitraum zwischen März 2019 und September
+2022 (teilweise mit dem Tod) bedroht habe (vgl. im Verfahren SG.2023.00020
+act. 2/20, 2/25 und 2/29 f.). Dabei wirft eine Person dem Beschuldigten vor,
+dass er sie am 11. April 2022 und am 12. September 2022 bedroht habe; bei der
+Drohung am 11. April 2022 habe der Beschuldigte ihr ein Messer gegen die
+Brust gehalten (vgl. im Verfahren SG.2023.00020 act. 2/29); gemäss den
+Angaben in der Strafanzeige bestätigte ein Kollege der betroffenen Person
+aufgrund eigener Wahrnehmung des Vorfalls, dass diese am 12. September 2022
+vom Beschuldigten mit dem Tod bedroht wurde (vgl. im Verfahren
+SG.2023.00020 act. 2/30).
+C.______, der beim Vorfall am 12.
+März 2023 anwesende Kollege des Beschuldigten (siehe oben E. III Ziff. 1.1.3),
+äusserte sich bei der Polizei folgendermassen: Es sei ja klar gewesen, dass
+ein Abend mit dem Beschuldigten bei der Polizei endet. Er sollte in Sibirien
+Steine klopfen. Er sollte ausgeschafft werden. Zudem sagte C.______ aus, der
+Beschuldigte habe angeboten, ihm für Geld Kokain zu besorgen (vgl. zum Ganzen
+im Verfahren SG.2023.00020 act. 2/6 Ziff. 3, 16 und 21).
+Bei der polizeilichen Einvernahme
+am 13. März 2023 gab der Beschuldigte an, dass er viel Alkohol trinke und
+etwa einmal pro Woche Cannabis konsumiere (vgl. im Verfahren SG.2023.00020
+act. 2/3 Ziff. 59 ff.).
+Gegenüber der Staatsanwaltschaft
+machte der Beschuldigte am 14. März 2023 folgende Angaben: In der letzten
+Zeit habe er ein Alkoholproblem. Seit der Trennung von seiner Frau trinke er
+sehr viel. Er habe ein Drogenproblem, er nehme Kokain. Seine Mutter habe er
+seit Ewigkeiten nicht mehr gesehen. Er dürfe eigentlich gar nicht wissen, wo
+seine Ex-Frau wohne. Er wisse die Geburtsjahrgänge seiner Kinder nicht genau.
+Er habe gesundheitliche Probleme wegen Drogen- und Alkoholentzugs; er kriege
+Paranoia in den Gefängnisräumen; er sehe Sachen in seinem Kopf und höre
+Stimmen; eine solche Krankheit sei bei ihm bereits diagnostiziert worden. Er
+sei arbeitslos und habe kein Geld. Sein Vater zahle alles. Im Moment habe er
+gerade mit seinem Vater ein Problem, weil sie gestritten haben. Er möchte
+weiterhin mit seinem Vater zusammenarbeiten, aber dies gehe im Moment nicht.
+Mit den Kindern habe es auch nicht funktioniert, da sei es nicht besser
+geworden. Die KESB habe ihn und seinen Vater angelogen (vgl. zum Ganzen
+im Verfahren SG.2023.00020 act. 2/1 Ziff. 49 ff., 109 ff., 189 ff. und 253
+ff.).
+Gemäss
+pharmakologisch-toxikologischem Gutachten des Instituts für Rechtsmedizin der
+Universität Zürich vom 20. April 2023 konnte beim Beschuldigten der Konsum
+von Kokain und Cannabis nachgewiesen werden (vgl. act. 2/7).
+In einer Strafanzeige gegen den
+Beschuldigten vom 6. Juli 2021 ist vermerkt, dass der Beschuldigte seit längerer
+Zeit an Depressionen und Schizophrenie leide (vgl. im Verfahren
+SG.2023.00020 act. 2/18 S. 9).
+1.2.4
+Der Beschuldigte
+wird dringend verdächtigt, am 12. März 2023 beim Bahnhof [...] eine schwere
+Körperverletzung und damit ein schweres Verbrechen (vgl. Art. 122 StGB i.V.m.
+Art. 10 Abs. 2 StGB; vgl. auch Art. 64 Abs. 1 StGB) gegen das Rechtsgut der
+körperlichen Unversehrtheit begangen zu haben (siehe oben E. III Ziff.
+1.1.3).
+Er weist auch eine Verurteilung
+wegen einer Straftat gegen das Rechtsgut der körperlichen Integrität auf,
+wobei es sich allerdings (nur) um eine Tätlichkeit und damit um eine
+Übertretung (vgl. Art. 126 StGB i.V.m. Art. 103 StGB) handelte. Der
+Beschuldigte wurde aber auch verurteilt, weil er Straftatbestände erfüllte,
+die mittelbar dem Schutz des Rechtsguts der körperlichen Unversehrtheit
+dienen. Angesprochen sind die Verurteilungen wegen Gewaltdarstellungen
+(i.S.v. Art. 135 Abs. 1 StGB), Vergehens gegen das Betäubungsmittelgesetz
+(i.S.v. Art. 19 Abs. 1 BetmG) und (mehrerer) Vergehen gegen das Waffengesetz
+(i.S.v. Art. 33 Abs. 1 WG) (siehe oben E. III Ziff. 1.2.3). Bei all diesen
+Straftaten ist resp. war Freiheitsstrafe bis zu drei Jahren angedroht (für
+Gewaltdarstellungen i.S.v. Art. 135 Abs. 1 StGB droht seit dem 1. Juli 2023
+sogar Freiheitsstrafe bis zu fünf Jahren), womit es sich um schwere Vergehen
+handelt(e) (siehe oben E. III Ziff. 1.2.1).
+Viele verschiedene Personen
+werfen dem Beschuldigten in vielen verschiedenen Fällen zwischen November
+2017 und September 2022 gleichartige Straftaten vor. Zum Teil liegen gemäss
+den betreffenden Strafanzeigen, wie im vorliegenden Fall vom 12. März 2023
+(siehe oben E. III Ziff. 1.1.3), auch Aussagen von Drittpersonen vor, welche
+die Vorwürfe gegen den Beschuldigten stützen, sowie ein Geständnis des
+Beschuldigten (siehe oben E. III Ziff. 1.2.3).
+Ferner sagte C.______ (als
+Kollege des Beschuldigten) sinngemäss aus, dass der Beschuldigte immer wieder
+bereit war und ist, Straftaten zu begehen (siehe oben E. III Ziff.
+1.2.3).
+Unter Berücksichtigung der
+genannten Umstände besteht der dringende Verdacht, dass der Beschuldigte
+nicht nur eine schwere Körperverletzung am 12. März 2023 sondern auch die ihm
+in den erwähnten Strafanzeigen vorgeworfenen Straftaten (siehe oben E. III
+Ziff. 1.2.3) begangen hat.
+Folglich besteht eine hohe
+Wahrscheinlichkeit, dass der Beschuldigte sich ab November 2017 viele Male
+ohne Grund auch gegenüber ihm unbekannten Personen aggressiv verhalten hat,
+sie provoziert und teilweise mit gefährlichen Gegenständen angegriffen und
+insbesondere im Bereich des Gesichts und Kopfs verletzt hat. Zudem ist sehr
+wahrscheinlich, dass der Beschuldigte im September 2021 eine Schusswaffe
+gestohlen und diese dann öffentlich getragen resp. zur Schau gestellt hat.
+Ausserdem ist mit hoher Wahrscheinlichkeit davon auszugehen, dass der
+Beschuldigte im Zeitraum zwischen März 2019 und September 2022 mehrere
+Personen (teilweise mit dem Tod) bedroht hat.
+Es ergibt sich das Bild einer
+zunehmenden Eskalation und Intensität der Unberechenbarkeit, Aggressivität
+und Gewaltbereitschaft des Beschuldigten sowie der von ihm (sehr
+wahrscheinlich) tatsächlich ausgeübten Gewalt gegen Personen.
+Hinzu kommen beim Beschuldigten,
+wie er selber sagte, ein Alkohol- und Drogenproblem, eine (mögliche)
+psychische Erkrankung, Arbeitslosigkeit und Geldprobleme sowie allgemein
+ungeordnete persönliche Verhältnisse, namentlich Probleme mit (der Trennung
+von) seiner Frau, (dem Kontakt zu) seinen Kindern und seinem Vater (siehe
+oben E. III Ziff. 1.2.3).
+Nach dem Ausgeführten ist im
+Lichte der bundesgerichtlichen Rechtsprechung (siehe oben E. III Ziff. 1.2.1)
+darauf zu schliessen, dass vom Beschuldigten eine untragbar hohe
+(Dauer-)Gefahr ausgeht, dass er (wieder) ein schweres Verbrechen gegen die
+körperliche Unversehrtheit (irgend-)einer Personen verüben wird.
+Somit ist – wie bereits das
+Zwangsmassnahmengericht (sinngemäss) feststellte (vgl. act. 8 S. 3 ff.
+Ziff. 4); entgegen der Ansicht der Verteidigung (vgl. act. 13
+Ziff. 6 ff.) – der Haftgrund der qualifizierten Wiederholungsgefahr
+(auch i.S. des künftigen Art. 221 Abs. 1
+bis
+StPO) gegeben
+(siehe oben E. III Ziff. 1.2.1 f.).
+Ob der Beschuldigte vorliegend
+zudem entsprechende Vortaten verübt hat, wie es ansonsten für den Haftgrund
+der Wiederholungsgefahr vorausgesetzt ist (siehe oben E. III Ziff. 1.2.1),
+kann offengelassen werden.
+1.3
+1.3.1
+Die Annahme von
+Fluchtgefahr setzt ernsthafte Anhaltspunkte dafür voraus, dass die
+beschuldigte Person sich durch Flucht dem Strafverfahren oder der zu
+erwartenden Sanktion entziehen könnte (Art. 221 Abs. 1 Bst. a StPO). Im
+Vordergrund steht dabei eine mögliche Flucht ins Ausland, denkbar ist jedoch
+auch ein Untertauchen im Inland. Bei der Beurteilung der Fluchtgefahr sind
+die gesamten konkreten Verhältnisse zu berücksichtigen. Es müssen Gründe
+bestehen, die eine Flucht nicht nur als möglich, sondern als wahrscheinlich
+erscheinen lassen. Die Schwere der drohenden Strafe ist zwar ein Indiz für
+Fluchtgefahr, genügt jedoch für sich allein nicht, um den Haftgrund zu
+bejahen. Miteinzubeziehen sind die familiären und sozialen Bindungen, die
+berufliche und finanzielle Situation und die Kontakte zum Ausland (zum Ganzen
+BGE 143 IV 160 E. 4.3 m.H.).
+1.3.2
+Der Beschuldigte ist
+Staatsangehöriger des Kosovos. Er gab bei der Hafteinvernahme am 14. März
+2023 an, er sei kurz nach der Geburt in der Schweiz gewesen und hier
+aufgewachsen. «In der zweiten Klasse» sei er zwei Jahre weg gewesen. Dann sei
+er bis zur siebten Klasse wieder in der Schweiz gewesen. Nach der
+siebten Klasse, als er etwa dreizehn Jahre alt gewesen sei, habe er für
+zehn Monate im Kosovo gelebt. Er sei jetzt drei bis vier Jahre nicht mehr im
+Kosovo gewesen und habe niemanden dort. Gleichzeitig erwähnte der
+Beschuldigte aber auch, dass er auf Seiten seiner Mutter Familienangehörige
+im Kosovo habe, die er seit 21 Jahren nicht mehr gesehen habe. Zudem sagte
+der Beschuldigte, es sei geplant gewesen, dass er im Dezember 2023 nach Mekka
+gehe und dort länger bleibe, nachdem er bereits in letzter Zeit einmal in
+Mekka gewesen sei, um mit Gott in Kontakt zu treten resp. zu beten (vgl. zum
+Ganzen im Verfahren SG.2023.00020 act. 2/1 S. 1 und S. 3 f.
+Ziff. 69 ff.).
+Schwere Körperverletzung wurde
+nach Art. 122 StGB in der Fassung vor dem 1. Juli 2023 mit Freiheitsstrafe
+von sechs Monaten bis zu zehn Jahren bestraft (seit dem 1. Juli 2023
+droht Freiheitsstrafe von einem Jahr bis zu zehn Jahren). Hinzu kommen die
+Strafdrohungen für die Straftaten, welche dem Beschuldigten in den anderen
+hängigen Straffällen vorgeworfen werden. Mithin steht eine mehrjährige
+Freiheitsstrafe konkret in Aussicht und droht zudem eine Landesverweisung
+(vgl. Art. 66a Abs. 1 Bst. b StGB), wie das Zwangsmassnahmengericht
+ausführte (vgl. act. 8 S. 6 Ziff. 5).
+Es erscheint sehr zweifelhaft, ob
+persönliche Beziehungen des Beschuldigten in der Schweiz ihn von einer Flucht
+abhalten würden, zumal eben insbesondere Probleme beim Kontakt mit seinen
+Kindern bestehen (siehe oben E. III Ziff. 1.2.3 f.; vgl. auch die
+betreffenden Ausführungen des Zwangsmassnahmengerichts, act. 8 S. 6 Ziff. 5).
+So fragte sich am 12. März 2023 bei der polizeilichen Einvernahme auch
+C.______ (als Kollege des Beschuldigten), was den Beschuldigten in der
+Schweiz halte (vgl. im Verfahren SG.2023.00020 act. 2/6 Ziff. 21).
+Die Verteidigung bringt vor, dass
+der Beschuldigte nicht flüchten und damit seine Niederlassungsbewilligung
+riskieren werde; der Beschuldigte habe sich den Behörden in der Vergangenheit
+immer zur Verfügung gehalten und unmittelbar nach dem Vorfall am 12. März
+2023 versucht, beim Polizeiposten in [...] vorstellig zu werden (vgl. act. 13
+Ziff. 16 sowie act. 18 f.).
+Diese Vorbringen der Verteidigung
+ändern nichts daran, dass eine mehrjährige Freiheitsstrafe konkret in
+Aussicht steht und zudem eine Landesverweisung droht. Folglich droht auch das
+Erlöschen oder der Widerruf der Niederlassungsbewilligung (vgl. Art. 61 Abs.
+1 Bst. e AIG und Art. 63 Abs. 1 Bst. a AIG). Weiter ist davon auszugehen,
+dass der Beschuldigte sich – namentlich aufgrund der Aktenlage und auch der
+bisherigen Untersuchungshaft – dem Ernst der Lage bewusst ist. Seiner
+Sachverhaltsdarstellung, wonach er in Notwehr gehandelt habe, steht eben der
+dringende Tatverdacht entgegen, dass er sich der schweren Körperverletzung
+i.S.v. Art. 122 StGB strafbar gemacht hat (siehe oben E. III Ziff. 1.1.3).
+Es erscheint durchaus möglich, dass der Beschuldigte gleich nach dem Vorfall
+am 12. März 2023 von etwas anderem ausging. Im Übrigen ist darauf
+hinzuweisen, dass der Beschuldigte nach dem betreffenden Vorfall sowieso
+damit rechnen musste, bald von der Polizei aufgesucht zu werden, war doch
+sein Kollege C.______ anwesend, der ihn identifizieren konnte. Der
+Beschuldigte selber sagte aus, er sei zu einer Kollegin gegangen und habe auf
+die Polizei gewartet, nachdem er beim Polizeiposten niemanden angetroffen
+habe (vgl. im Verfahren SG.2023.00020 act. 2/3 Ziff. 3, 5 und 54).
+Nach dem Ausgeführten liegen
+ernsthafte Anhaltspunkte dafür vor, dass der Beschuldigte sich durch Flucht
+dem Strafverfahren resp. der zu erwartenden Sanktion entziehen könnte.
+Folglich ist Fluchtgefahr i.S.v.
+Art. 221 Abs. 1 Bst. a StPO – entgegen der Ansicht der Verteidigung (vgl.
+act. 13 Ziff. 14 ff.) – zu bejahen.
+2.
+2.1
+Untersuchungshaft ist
+eine Zwangsmassnahme und darf nur angeordnet werden, wenn sie
+verhältnismässig ist, namentlich wenn das damit angestrebte Ziel nicht durch
+ein milderes Mittel erreicht werden kann und wenn die Bedeutung der Straftat
+die Haft rechtfertigt (vgl. Art. 197 Abs. 1 Bst. c und d StPO).
+2.2
+Vorliegend können die
+mit der Untersuchungshaft angestrebten Ziele – Verhinderung von (weiteren)
+schweren Straftaten des Beschuldigten; sowie Sicherung dessen Anwesenheit im
+Strafverfahren und der zu erwartenden Sanktion – nicht mit milderen Mitteln
+erreicht werden.
+Eine Abstinenzkontrolle, wie von
+der Verteidigung vorgeschlagen (vgl. act. 13 Ziff. 12 f.), kann die
+bestehende Wiederholungsgefahr nicht genügend sicher abwenden, zumal gar
+nicht klar ist, ob und gegebenenfalls inwieweit diese Gefahr mit dem Konsum
+von Alkohol und Drogen in Zusammenhang steht.
+Zudem besteht Fluchtgefahr.
+Ersatzmassnahmen, namentlich die Sperre resp. der Rückbehalt von Schriften
+und Ausweisen, bieten keine zureichende Sicherheit für die weitere
+Anwesenheit des Beschuldigten.
+2.3
+Der Beschuldigte
+befindet sich seit dem 12. März 2023 in Haft (vgl. im Verfahren SG.2023.00020
+act. 2/2). Ausgehend vom vorliegenden dringenden Tatverdacht, der sich (u.a.)
+auf ein schweres Verbrechen bezieht, steht eine längere Freiheitsstrafe
+konkret in Aussicht (siehe oben E. III Ziff. 1.2.4 und 1.3.2). Folglich droht
+keine Überhaft, wenn die Untersuchungshaft bis am 12. September 2023
+verlängert wird.
+Die Strafverfolgungsbehörden
+waren nach der Verhaftung des Beschuldigten am 12. März 2023 nicht untätig.
+Vielmehr erfolgten verschieden Einvernahmen und Abklärungen (vgl. act. 2/1
+bis 2/11 und 2/17 sowie im Verfahren SG.2023.00020 act. 2/1 und 2/3 bis
+2/8).
+Die Staatsanwaltschaft teilte im
+Haftverlängerungsgesuch vom 8. Juni 2023 mit, dass für den Abschluss der
+Untersuchung noch Zeit benötigt werde. Der Polizeirapport zum Vorfall vom 12.
+März 2023 werde in den kommenden Tagen bei der Staatsanwaltschaft eingehen.
+Anschliessend sei die Durchführung verschiedener parteiöffentlicher
+Einvernahmen geplant. Zudem werde die Staatsanwaltschaft die Wiederholungsgefahr
+resp. die Gefährlichkeit des Beschuldigten gutachterlich abklären lassen
+(vgl. zum Ganzen act. 1 S. 3).
+Unter diesen Umständen ist es –
+entgegen dem Antrag der Verteidigung – nicht angezeigt, die
+Staatsanwaltschaft noch anzuweisen, ein entsprechendes Gutachten einzuholen;
+und/oder die Haftverlängerung zu verkürzen.
+Es sind keine Anhaltspunkte dafür
+ersichtlich, dass dem Beschuldigten die momentanen Haftbedingungen im
+Gefängnis Glarus (vgl. act. 2/16) nicht zugemutet werden können, zumal
+auch die Verteidigung nichts Gegenteiliges vorbringt.
+Nach dem Ausgeführten
+rechtfertigt die Bedeutung der Straftat(en), welcher der Beschuldigte
+verdächtigt wird, die Verlängerung der Untersuchungshaft bis am
+12. September 2023.
+3.
+Im Ergebnis sind vorliegend beim
+Beschuldigten die Voraussetzungen für Untersuchungshaft bis am 12. September
+2023 erfüllt.
+Die Beschwerde des Beschuldigten
+ist vollumfänglich abzuweisen.
+Der Beschuldigte kann bei der
+Staatsanwaltschaft jederzeit ein Gesuch um Haftentlassung stellen (vgl. Art.
+228 Abs. 1 StPO).
+IV.
+Die Regelung der Kosten- und
+Entschädigungsfolgen hat im Endentscheid zu er-folgen (vgl. Art. 421 Abs. 1
+StPO). Die Gerichtsgebühren sind zuhanden der das Strafverfahren
+abschliessenden Strafbehörde in Beachtung der Bemessungskriterien von Art. 6
+der Zivil- und Strafprozesskostenverordnung des Kantons Glarus (GS III
+A/5) festzusetzen und zu den Untersuchungskosten im Sinne von Art. 326 Abs. 1
+Bst. d StPO zu schlagen. Die Gerichtsgebühr für das Beschwerdeverfahren ist
+gestützt auf Art. 8 Abs. 2 Bst. b der Zivil- und Strafprozesskostenverordnung
+des Kantons Glarus auf CHF 800.— festzusetzen. Es bleibt bei der von der
+Vorinstanz getroffenen Kostenregelung (vgl. Art. 428 Abs. 3 StPO e
+contrario).
+____________________
+Das
+Gericht beschliesst:
+1.
+Die Beschwerde gegen die
+Verfügung des Zwangsmassnahmengerichts des Kantons Glarus vom 15. Juni 2023
+im Verfahren SG.2023.00048 wird vollumfänglich abgewiesen.
+2.
+Die Gerichtsgebühr für das
+Beschwerdeverfahren wird zuhanden der das Strafverfahren abschliessenden
+Behörde auf CHF 800.— festgesetzt.
+3.
+Die Regelung der Kostenauflage
+und allfälliger Entschädigung wird dem Endentscheid vorbehalten.
+4.
+Schriftliche Mitteilung an:
+[...]
