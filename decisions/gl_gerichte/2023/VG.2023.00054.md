@@ -1,0 +1,259 @@
+---
+decision_id: "gl_gerichte_VG.2023.00054"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2023.00054"
+docket_2: "VG.2023.1285"
+decided: "2023-09-21"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1734&W10_KEY=218274&nTrefferzeile=8&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-049.md", "switzerland/bund/acts/830.1/art-051.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/832.10/art-001.md"]
+---
+
+# GL Gerichte VG.2023.00054
+
+## Regeste
+
+Sozialversicherung - Krankenversicherung
+
+## Text
+
+Glarus Verwaltungsgericht 21.09.2023 VG.2023.00054 (VG.2023.1285)
+Glaris Verwaltungsgericht 21.09.2023 VG.2023.00054 (VG.2023.1285)
+Glarona Verwaltungsgericht 21.09.2023 VG.2023.00054 (VG.2023.1285)
+
+Sozialversicherung - Krankenversicherung
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom 21. September 2023
+II. Kammer
+Besetzung:
+Gerichtspräsident MLaw Colin Braun, Verwaltungsrichterin Petra Feusi Bissig,
+Verwaltungsrichter Fritz Jnglin und Gerichtsschreiberin MLaw Valentina
+Flückiger
+in Sachen
+VG.2023.00054
+A.______
+Beschwerdeführer
+gegen
+Helsana Versicherungen AG
+Beschwerdegegnerin
+betreffend
+Kostenübernahme
+(B.______ sel.)
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+B.______sel. war bei der Helsana
+Versicherungen AG (Helsana) obligatorisch krankenversichert. Am 11.
+Dezember 2020 stellte Dr. med. C.______ bei der Helsana ein
+Kostenübernahmegesuch für eine Herdsanierung bei B.______sel. Dies unter
+Beilage einer Rechnung für die bereits erfolgte erste Phase (Extraktionen,
+Implantationen, Sofortversorgung) in der Höhe von Fr. 14'951.- und des
+Kostenvoranschlags für die definitive zahnärztliche Versorgung in der Höhe
+von Fr. 16'970.20. Die Helsana teilte am 23. Dezember 2020 daraufhin
+formlos mit, dass die Grunderkrankung von B.______sel. nicht im
+Leistungskatalog aufgeführt sei, weshalb sie die Behandlungskosten nicht
+übernehmen könne.
+1.2
+In der Folge ersuchte Dr. C.______ die Helsana
+am 11. Januar 2021 um Neuüberprüfung der abgelehnten Kostengutsprache.
+Nachdem der Helsana verschiedene Unterlagen eingereicht worden waren, teilte
+diese am 23. März 2021 mit, dass sie ohne Anerkennung einer Restpflicht
+die Kosten für die Zahnextraktion im Unterkiefer und diejenigen für eine
+Wiederherstellung mittels Totalprothese im Sinne von Art. 19 lit. b
+der Verordnung des EDI über Leistungen in der obligatorischen
+Krankenpflegeversicherung vom 29. September 1995 (KLV) übernehme.
+1.3
+Am 5. Mai 2021 teilte Dr. C.______ der Helsana
+erneut mit, dass die am 23. März 2021 erteilte Kostengutsprache für eine
+Totalprothese nicht akzeptabel sei und die Kosten für eine festsitzende
+Variante zu übernehmen seien. Am 19. Mai 2021 wies die Helsana die diesbezügliche
+Kostenübernahme formlos ab. Trotz des am 10. September 2021 dagegen
+erhobenen Einwands und des Hinweises, dass B.______sel. zwischenzeitlich
+verstorben sei, hielt die Helsana am 8. Oktober 2021 formlos an ihrem
+Entscheid fest.
+1.4
+Am 3. Februar 2023 ersuchte A.______, der Sohn von
+B.______sel., um Zustellung einer anfechtbaren Verfügung. Mit Schreiben vom
+16. Februar 2023 teilte die Helsana daraufhin mit, dass sie die Sache
+weder neu beurteile noch eine Verfügung erlasse, da die formlose Ablehnung
+der Kostengutsprache in Rechtskraft erwachsen und kein Wiedererwägungsgrund
+gegeben sei. Nachdem A.______ die Helsana um Erlass einer
+Feststellungsverfügung gebeten hatte, erliess diese am 28. April 2023
+einen Nichteintretensentscheid.
+2.
+Gegen den Nichteintretensentscheid
+der Helsana vom 28. April 2023 gelangte A.______ mit Beschwerde vom 26. Mai
+2023 ans Verwaltungsgericht und beantragte dessen Aufhebung. Es sei auf den
+Antrag auf Erlass einer anfechtbaren Verfügung einzutreten; alles unter
+Kosten- und Entschädigungsfolge zu Lasten der Helsana. Die Helsana schloss am
+27. Juni 2023 auf Abweisung der Beschwerde.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 1
+Abs. 1 des Bundesgesetzes über die Krankenversicherung vom
+18. März 1994 (KVG) i.V.m. Art. 56 ff. des Bundesgesetzes
+über den Allgemeinen Teil des Sozialversicherungsrechts vom
+6. Oktober 2000 (ATSG) i.V.m. Art. 32 Abs. 1 des
+Einführungsgesetzes zum Bundesgesetz über die Krankenversicherung vom
+3. Mai 2015 (EG KVG) zur Behandlung der vorliegenden Beschwerde
+zuständig.
+1.2
+Vorliegend angefochten ist ein
+Nichteintretensentscheid. Der Beschwerdeführer als Adressat, auf dessen
+Gesuch um Erlass einer anfechtbaren Verfügung nicht eingetreten wurde, ist
+legitimiert, diesen anzufechten. Streitgegenstand kann indessen nur die Frage
+sein, ob die Vorinstanz zu Recht nicht auf das Gesuch des Beschwerdeführers
+eingetreten ist bzw. dazu verpflichtet war, eine anfechtbare Verfügung
+betreffend Ablehnung der streitbetroffenen Kostengutsprache zu erlassen
+(vgl. VGer-Urteil VG.2019.00032 vom 22. August 2019 E. II/1.2). Da
+auch die übrigen Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde
+somit einzutreten.
+2.
+2.1
+Der Beschwerdeführer macht geltend, trotz mehrfacher
+Aufforderung habe es die Beschwerdegegnerin unterlassen, eine anfechtbare
+Verfügung zu erlassen. Dabei habe Letztere nicht darauf hingewiesen, dass die
+formlose Ablehnung der Kostengutsprache innerhalb eines Jahres in Rechtskraft
+erwachse und innerhalb dieser Zeit eine anfechtbare Verfügung verlangt werden
+müsse, wenn man mit der Ablehnung der Kostengutsprache nicht einverstanden
+sei. Dies obschon die Beschwerdegegnerin eine umfassende Beratungspflicht
+treffe. Sodann sei ihm, dem Beschwerdeführer, am 28. März 2022 von der
+Beschwerdegegnerin mitgeteilt worden, dass er Leistungen während fünf Jahren
+geltend machen könne. Vor diesem Hintergrund habe er in guten Treuen davon
+ausgehen dürfen, dass der Entscheid über die Kostengutsprache noch nicht in
+Rechtskraft erwachsen sei. Die Unrichtigkeit dieser Auskunft sei dabei nicht
+ohne Weiteres erkennbar gewesen und er habe im Vertrauen auf die Richtigkeit
+dieser Angaben Dispositionen getroffen, welche nicht mehr leicht wieder
+rückgängig zu machen seien.
+2.2
+Die Beschwerdegegnerin bringt vor,
+trotz einer allfälligen Aufklärungspflicht über den Anspruch auf Erlass einer
+Verfügung sei die formlose Ablehnung des Leistungsanspruchs nach einem Jahr
+in Rechtskraft erwachsen. Es spiele dabei keine Rolle, ob die betroffene
+Person auf die Möglichkeit eine Verfügung zu verlangen hingewiesen worden sei
+oder nicht. Sodann habe die Auskunft am 28. März 2022 im Zusammenhang mit
+einer Rechnung aus dem Jahr 2018 bzw. mit der Verwirkung einer noch
+ausstehenden sowie noch nicht geltend gemachten Forderung und nicht mit der
+streitbetroffenen Ablehnung der Kostengutsprache für die Herdsanierung
+gestanden. Dementsprechend könne der Beschwerdeführer hieraus nichts zu
+seinen Gunsten ableiten und sich insbesondere nicht auf den Vertrauensschutz
+berufen, da es sich um einen anderen Sachverhalt gehandelt habe.
+3.
+Die
+Bestimmungen des ATSG sind auf die Krankenversicherung anwendbar, soweit das
+KVG nicht ausdrücklich eine Abweichung vorsieht (Art. 1 KVG). Gemäss
+Art. 49 Abs. 1 ATSG hat der Versicherungsträger über Leistungen,
+Forderungen und Anordnungen, die erheblich sind oder mit denen die betroffene
+Person nicht einverstanden ist, eine schriftliche Verfügung zu erlassen. Die
+Verfügungen werden mit einer Rechtsmittelbelehrung versehen und sind zu
+begründen, wenn sie den Begehren der Parteien nicht voll entsprechen (Art. 49
+Abs. 3 ATSG). Leistungen, Forderungen und Anordnungen, die nicht unter Art.
+49 Abs. 1 ATSG fallen, können in Anwendung von Art. 51 Abs. 1 ATSG in
+einem formlosen Verfahren behandelt werden. Die betroffene Person kann nach
+Art. 51 Abs. 2 ATSG den Erlass einer Verfügung verlangen. Zwar bezieht
+sich Art. 51 ATSG ausdrücklich nur auf das zulässige formlose Verfahren,
+doch erachtet es die Rechtsprechung – in Analogie zu Art. 51 Abs. 2 ATSG
+– auch dann als angezeigt, dass die versicherte Person einen Entscheid in
+Form einer Verfügung verlangen kann, wenn der Versicherungsträger zu Unrecht
+formlos und nicht mittels Verfügung entschieden hat (BGE 134 V 145 E. 5.1).
+Die Frist für eine Intervention der betroffenen Person gegen den
+unzulässigerweise formlos mitgeteilten Entscheid beträgt im Regelfall ein
+Jahr seit der Mitteilung. Eine längere Frist kommt allenfalls dann in Frage,
+wenn die betroffene Person – insbesondere wenn sie rechtsunkundig und nicht
+anwaltlich vertreten ist – in guten Treuen annehmen durfte, der Versicherer
+habe noch keinen abschliessenden Entscheid fällen wollen und sei mit weiteren
+Abklärungen befasst (BGE 134 V 145 E. 5.3). Ohne
+fristgerechte Intervention erlangt der Entscheid rechtliche Wirksamkeit, wie
+wenn er zulässigerweise im Rahmen von Art. 51 Abs. 1 ATSG ergangen
+wäre (BGE 134 V 145 E. 5.4; BGer-Urteil 8C_536/2017 vom
+5. März 2018 E. 3.4).
+4.
+4.1
+Die Schreiben der Beschwerdegegnerin vom 23.
+Dezember 2020, 23. März 2021, 19. Mai 2021 sowie 8. Oktober 2021
+entsprechen weder den Anforderungen an eine formelle Verfügung im Sinne von
+Art. 49 Abs. 1 ATSG noch jenen des formlosen Verfahrens gemäss Art. 51 ATSG.
+Einerseits fehlt in sämtlichen Dokumenten eine Rechtsmittelbelehrung.
+Andererseits mangelt es diesen an einem Hinweis auf die Möglichkeit, eine
+formelle Verfügung zu verlangen (vgl. Art. 51 ATSG). Sodann
+ist mit dem Beschwerdeführer darin einig zu gehen, dass die
+Beschwerdegegnerin die Leistungsablehnung grundsätzlich hätte formell verfügen
+müssen, zumal sie damit über erhebliche Leistungen oder zumindest über
+Leistungen entschieden hat, mit welchen die betroffene Person bzw. deren
+Rechtsnachfolger nicht einverstanden sind (Art. 49 Abs. 1 ATSG).
+Aufgrund des Nachfolgenden (E. II/4.2) ist dieser Umstand aber
+unbeachtlich.
+4.2
+Nach der zuletzt unzulässigerweise formlos
+mitgeteilten Leistungsablehnung durch die Beschwerdegegnerin am
+8. Oktober 2021 intervenierte der Beschwerdeführer erst am 9. Januar
+2023 telefonisch und ersuchte am 3. Februar 2023 schriftlich um Erlass einer
+anfechtbaren Verfügung. Zwar lässt sich den Akten entnehmen, dass die
+Beschwerdegegnerin bereits am 28. März 2022 eine telefonische Auskunft
+erteilt hat. Dabei wurde sie aber lediglich angefragt, weshalb eine
+Rechnungsstellung für eine Leistung des Spitals D.______ aus dem Jahre 2018
+erst jetzt erfolgt sei, womit dieses Telefonat offensichtlich einen anderen
+Sachverhalt betraf bzw. nicht im Zusammenhang mit der abgelehnten
+Kostenübernahme stand. Folglich wurde die einjährige Frist für die
+Intervention (vgl. vorstehende E. II/3) vorliegend nicht
+eingehalten, woran der Hinweis des Beschwerdeführers auf die umfassende
+Beratungspflicht der Beschwerdegegnerin im Übrigen nichts ändert. So würde
+sich die Beratungspflicht im vorliegenden Fall gerade darin erschöpfen, den
+Beschwerdeführer auf den Anspruch auf Erlass einer anfechtbaren Verfügung
+hinzuweisen. Dieser Hinweis ist für den einjährigen Fristenlauf nach dem oben
+Dargelegten (vgl. vorstehende E. II/3) aber irrelevant, da dieser auch bei
+einer unzulässigerweise formlos mitgeteilten Leistungsablehnung gilt. Ferner
+geht die Berufung des Beschwerdeführers auf den Vertrauensschutz fehl. Die
+Beschwerdegegnerin weist nämlich zu Recht darauf hin, dass die Auskunft vom
+28. März 2022 einen anderen Sachverhalt, namentlich die Verjährungsfrist
+für die Rechnungsstellung eines Leistungserbringers, betraf und daraus nicht
+geschlossen werden durfte, dass für den Anspruch auf Erlass einer
+anfechtbaren Verfügung dieselbe (fünfjährige) Frist gilt. Schliesslich geht
+aus den Schreiben der Beschwerdegegnerin selbst für eine rechtsunkundige
+Person mit genügender Klarheit hervor, dass sie einen abschliessenden
+Entscheid gefällt hat und keine weiteren Abklärungen mehr tätigt, indem sie
+explizit darauf hinwies, dass sie an ihrem Entscheid festhalte. Folglich
+fällt eine allfällige Verlängerung der einjährigen Frist ausser Betracht,
+weshalb der falsch eröffnete Entscheid über die Leistungsablehnung nach einem
+Jahr dieselben Rechtswirkungen entfaltet hat, wie wenn er rechtsgenüglich
+eröffnet worden wäre (vgl. BGE 134 V 145 E. 5.3.2
+und 5.4; BGer-Urteil 8C_738/2016 vom 28. März 2017 E. 3.3 und 3.5,
+8C_738/2007 vom 26. März 2008 E. 6.3.2 und 6.4; vgl. auch
+Susanne Genner, in Ghislaine
+Frésard-Fellay/Barbara Klett/Susanne Leuzinger
+[Hrsg.], Basler Kommentar zum a
+llgemeinen Teil des
+Sozialversicherungsrechts, Basel 2020, Art. 49 N. 37;
+Ueli
+Kieser, Kommentar zum ATSG, 4. A., Zürich/Basel/Genf 2020, Art. 49
+N. 15).
+4.3
+Zusammenfassend erweist sich die Intervention
+des Beschwerdeführers bzw. das Gesuch um Erlass einer anfechtbaren
+Verfügung über die streitbetroffene Kostenübernahme als verspätet, weshalb
+die Beschwerdegegnerin zu Recht auf ein Nichteintreten geschlossen hat.
+Dies führt zur Abweisung der Beschwerde.
+III.
+Die Gerichtskosten sind
+von Gesetzes wegen auf die Staatskasse zu nehmen (Art. 1 Abs. 1 KVG
+i.V.m. Art. 61 lit. fbis ATSG). Ausgangsgemäss ist dem Beschwerdeführer keine
+Parteientschädigung zuzusprechen (Art. 1 Abs. 1 KVG i.V.m. Art. 61 lit. g
+ATSG).
+Demgemäss erkennt die Kammer
+:
+1.
+Die Beschwerde wird abgewiesen.
+2.
+Die Gerichtskosten werden auf die Staatskasse
+genommen.
+3.
+Es wird keine Parteientschädigung zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
