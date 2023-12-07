@@ -1,0 +1,410 @@
+---
+decision_id: "gl_gerichte_VG.2023.00042"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2023.00042"
+docket_2: "VG.2024.1315"
+decided: "2023-12-07"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1772&W10_KEY=218274&nTrefferzeile=4&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/220/art-105.md", "switzerland/bund/acts/831.40/art-034a.md", "switzerland/bund/acts/831.40/art-073.md", "switzerland/bund/acts/831.425/art-007.md"]
+---
+
+# GL Gerichte VG.2023.00042
+
+## Regeste
+
+Sozialversicherung - Berufliche Vorsorge (Klage)
+
+## Text
+
+Glarus Verwaltungsgericht 07.12.2023 VG.2023.00042 (VG.2024.1315)
+Glaris Verwaltungsgericht 07.12.2023 VG.2023.00042 (VG.2024.1315)
+Glarona Verwaltungsgericht 07.12.2023 VG.2023.00042 (VG.2024.1315)
+
+Sozialversicherung - Berufliche Vorsorge (Klage)
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom 7. Dezember 2023
+I. Kammer
+Besetzung:
+Gerichtspräsident MLaw Colin Braun, Verwaltungsrichterin Jolanda Hager,
+Verwaltungsrichterin Katia Weibel und Gerichtsschreiberin MLaw Valentina
+Flückiger
+in Sachen
+VG.2023.00042
+A.______
+Klägerin
+vertreten durch
+lic.
+iur.
+Sibylle
+Käser Fromm, Rechtsanwältin,
+gegen
+Pensionskasse
+B.______
+Beklagte
+vertreten durch
+lic.
+iur.
+Peter
+Rösler,
+Rechtsanwalt,
+betreffend
+Invalidenrente aus BVG
+Die Kammer zieht in Erwägung:
+I.
+1.
+A.______, geboren am […],
+beantragte am 25. April 2013 Leistungen der Invalidenversicherung. Am 20.
+März 2014 sprach ihr die IV-Stelle […] ab dem 1. April 2012 eine halbe
+Invalidenrente zu, wobei sie bei der Statusfrage von einer hypothetischen
+Vollerwerbstätigkeit ausging. Infolge einer Verschlechterung des
+Gesundheitszustands sprach sie ihr am 13. Mai 2020 sodann rückwirkend ab dem
+1. Oktober 2016 eine ganze Invalidenrente zu. Dabei ging sie von einem
+unveränderten Status aus.
+2.
+2.1
+A.______ erhob am 20. April 2023 Klage beim
+Verwaltungsgericht und beantragte insbesondere, dass ihr die Invalidenrente
+aus der beruflichen Vorsorge (obligatorische und überobligatorische Vorsorge)
+einschliesslich der Kinderrente vom 1. Oktober 2016 bis zum
+31. Dezember 2022 ungekürzt auszurichten sei, zuzüglich Zins zu 5 %
+seit dem 1. Oktober 2016; unter Kosten- und Entschädigungsfolgen zu Lasten
+der Pensionskasse B.______. Letztere schloss am 23. Juni 2023 auf
+Abweisung der Klage.
+2.2
+A.______ hielt am 24. August 2023 ebenso an ihrem
+Rechtsbegehren fest wie die Pensionskasse B.______ am 27. Oktober 2023
+an dem ihrigen.
+2.3
+Das Verwaltungsgericht edierte die Akten bei der
+IV-Stelle […], welche am 27. Oktober 2023 eingingen.
+II.
+1.
+Das Verwaltungsgericht ist
+gemäss Art. 109 lit. e des Gesetzes über die Verwaltungsrechtspflege vom 4.
+Mai 1986 (VRG) i.V.m. Art. 73 Abs. 1 und 3 des Bundesgesetzes über die
+berufliche Alters-, Hinterlassenen- und Invalidenvorsorge vom
+25. Juni 1982 (BVG) zur Behandlung der vorliegenden Klage
+zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt sind, ist auf
+die Klage einzutreten.
+2.
+2.1
+Die Klägerin stellt sich auf den Standpunkt, die
+Beklagte sei bei der Festsetzung des mutmasslich entgangenen Verdiensts im
+Zusammenhang mit der Überentschädigungsberechnung zu Unrecht von einer
+hypothetischen Erwerbstätigkeit von 60 % ausgegangen. Gestützt auf die
+Feststellung der IV-Stelle […] betrage diese nämlich richtigerweise
+100 %. Der mutmasslich entgangene Verdienst liege dementsprechend bei
+Fr. 74'789.- pro Jahr. Ihre Invalidenrente und die Kinderrente sei
+folglich nicht bzw. nicht in dem von der Beklagten beabsichtigten Umfang
+zu kürzen.
+2.2
+Die Beklagte führt demgegenüber aus, infolge
+fehlender Bindungswirkung und offensichtlicher Unrichtigkeit der IV-Verfügung
+vom 13. Mai 2020 in Bezug auf die 100%ige hypothetische Erwerbstätigkeit
+dürfe sie von den diesbezüglichen Feststellungen abweichen. Vor diesem
+Hintergrund sei sie zu Recht von einer hypothetischen Erwerbstätigkeit von
+60 % ausgegangen. Der mutmasslich entgangene Verdienst liege demgemäss
+bei Fr. 47'242.- pro Jahr, weshalb die Invalidenrente der Klägerin sowie
+die Kinderrente wie vorgesehen zu kürzen seien.
+3.
+Es
+ist unbestritten und wurde rechtskräftig entschieden, dass die Klägerin
+gegenüber der Beklagten ab dem 1. Oktober 2016 Anspruch auf eine
+Invalidenrente basierend auf einem Invaliditätsgrad von 100 %, zuzüglich
+Zins zu 5 % seit dem 1. Oktober 2016, hat (vgl. VGer-Urteil
+VG.2018.00095 vom 20. Mai 2021). Unbestritten ist sodann die Höhe der
+Invalidenrenten aus beruflicher Vorsorge für die Klägerin (Fr. 18'056.-
+pro Jahr) sowie für ihre Tochter (Fr. 3'611.30 pro Jahr) vor
+Berücksichtigung einer allfälligen Überentschädigung im Sinne von
+Art. 34a Abs. 1 BVG. Unbestritten sind ferner die anrechenbaren
+Einkünfte bei der Berechnung der Überentschädigung. Darüber hinaus wird
+schliesslich zu Recht nicht bestritten, dass sowohl im Obligatorium als auch
+im Überobligatorium die Invalidenleistungen entsprechend Art. 34a
+Abs. 1 BVG gekürzt werden können, soweit die anrechenbaren Einkünfte
+90 % des mutmasslich entgangenen Verdienstes übersteigen (vgl. Art. 15
+Abs. 1
+des Basisreglements
+der Beklagten vom 25. September 2014, Stand am 14. Dezember Kl.
+2016
+). Strittig und zu prüfen bleibt
+damit einzig die Festsetzung des mutmasslich entgangenen Verdienstes.
+4.
+Entscheide der Invalidenversicherung über den
+erwerblichen Status einer invaliden Person (voll erwerbstätig,
+teilerwerbstätig, nicht erwerbstätig) sind für Vorsorgeeinrichtungen, sofern
+sie im invalidenversicherungsrechtlichen Verfahren einbezogen waren,
+grundsätzlich bindend. Dies gilt sowohl im obligatorischen als auch,
+vorbehaltlich einer abweichenden Bestimmung im Vorsorgereglement, im
+weitergehenden Bereich. Denn der Status einer versicherten Person ist
+hinsichtlich der Überentschädigung für die Pensionskassen von Bedeutung
+(BGE 141 V 127 E. 5.1, 129 V 150 E. 2.5). Die
+Bindungswirkung entfällt dann, wen
+n die Betrachtungsweise der Invalidenversicherung aufgrund
+einer gesamthaften Prüfung der Akten als offensichtlich unhaltbar erscheint
+(BGE
+143 V 434
+E. 2.2, mit Hinweisen).
+5.
+5.1
+Die IV-Stelle […] hat die Klägerin zuletzt am
+13. Mai 2020 als hypothetisch vollerwerbstätig eingestuft. Somit ist
+nach dem oben Dargelegten nachfolgend
+zu
+beurteilen, ob diese Festlegung des Status gegenüber der Beklagten
+Bindungswirkung entfaltet und, falls dies zu bejahen ist, ob diese nicht
+offensichtlich unhaltbar ist.
+5.2
+Die Beklagte hat gemäss dem
+vorliegend anwendbaren Basisreglement vom 25. September 2014 (Stand am
+14. Dezember 2016; vgl. zum intertemporal anwendbaren Recht in
+BGE 122
+V 316 E. 3c)
+die
+Statusfestsetzung im Überobligatorium nicht separat reglementiert. Das
+Nachfolgende gilt dementsprechend sowohl für den obligatorischen als auch für
+den überobligatorischen Bereich.
+5.3
+Es ist aktenkundig und wird von der Beklagten nicht
+bestritten, dass sie in das invalidenversicherungsrechtliche Verfahren
+miteinbezogen wurde. Der Vorbescheid vom 17. März 2020 sowie die Verfügung
+vom 13. Mai 2020, welche im Vergleich zur ersten rentenzusprechenden
+Verfügung vom 20. März 2014 unverändert von einer hypothetischen Vollerwerbstätigkeit
+ausgingen, wurden der Beklagten denn auch zugestellt. Die Beklagte hat gegen
+diese Verfügungen indessen kein Rechtsmittel ergriffen und die Verfügung der
+IV-Stelle […] vom 13. Mai 2020 erwuchs unangefochten in Rechtskraft
+.
+Aus dem Dargelegten folgt,
+dass die IV-Verfügung vom 13. Mai 2020 hinsichtlich der Statusfestlegung
+gegenüber der Beklagten grundsätzlich Bindungswirkung entfaltet. Daran ändert
+das Vorbringen der Beklagten, sie habe die Verfügung in Ermangelung eines
+schutzwürdigen Interesses nicht anfechten können, nichts. Die Statusfrage hat
+im Bereich der Überentschädigung nämlich regelmässig Auswirkungen auf die
+Höhe der Invalidenrente aus der beruflichen Vorsorge, weshalb die Beklagte
+allfällige Einwände gegen den Vorbescheid oder die Verfügung hätte erheben
+können und müssen.
+5.4
+Sodann wurde die Statusfestsetzung erstmals mit der
+rentenzusprechenden Verfügung vom 20. März 2014 vorgenommen. Indessen lässt
+sich dieser nicht entnehmen, aus welchen Gründen die IV-Stelle auf eine
+hypothetische Vollerwerbstätigkeit geschlossen hat. Folglich ist anhand der
+invalidenversicherungsrechtlichen Akten zu beurteilen, ob der Schluss auf
+eine hypothetische Vollerwerbstätigkeit nicht offensichtlich unhaltbar ist.
+5.4.1
+Die Statusfrage ist mit Rücksicht auf die gesamten
+persönlichen, familiären, sozialen und erwerblichen Verhältnisse zu
+beurteilen. Bei deren Beantwortung handelt es sich zwangsläufig um eine
+Beurteilung, die auch hypothetische Willensentscheidungen der versicherten
+Person zu berücksichtigen hat. Diese sind als innere Tatsachen einer direkten
+Beweisführung nicht zugänglich und müssen in aller Regel aus äusseren
+Indizien erschlossen werden (BGer-Urteil 8C_735/2020 vom 26. Januar 2021
+E. 5.1, mit Hinweisen). Eine Beweiswürdigung ist nicht bereits dann
+offensichtlich unrichtig, bzw. willkürlich, wenn eine andere Lösung
+ebenfalls vertretbar erscheint oder gar vorzuziehen wäre, sondern erst dann,
+wenn der Entscheid im Ergebnis offensichtlich unhaltbar ist, zur
+tatsächlichen Situation in klarem Widerspruch steht oder auf einem
+offenkundigen Fehler beruht (BGE 144 I 28 E. 2.4, mit
+Hinweisen).
+5.4.2
+Die Klägerin absolvierte in den Jahren 1995-1997
+eine Lehre als kaufmännische Angestellte. Vom 28. Juli 1997 bis
+30. September 2002 arbeitete sie Vollzeit für verschiedene Arbeitgeber.
+Vom 1. Januar 2003 bis zum 31. Dezember 2005 war sie in einem
+80 % Pensum für die C.______ tätig. Am 19. Dezember 2005 gebar sie
+eine Tochter. Anschliessend reduzierte sie ihr Arbeitspensum bei C.______ auf
+65 % bis zum 31. Dezember 2006 und hernach bis am 31. Dezember
+2009 auf 50 % (vgl. Urteil des Verwaltungsgerichts des Kantons
+Glarus vom 20. Mai 2021, VG.2018.00095, E. 4.2). Vom 1. Mai 2010
+bis 31. Januar 2013 war sie ferner als kaufmännische Sachbearbeiterin bei der
+D.______ mit einem Pensum zwischen 50 und 60 % tätig. Am 20. März
+2014 sprach ihr die IV-Stelle […] schliesslich rückwirkend ab dem
+1. April 2012 eine halbe Invalidenrente bei einem Invaliditätsgrad von
+50 % zu.
+5.4.3
+In der IV-Anmeldung vom 25. April 2013 hielt die
+Klägerin fest, sie würde im Gesundheitsfall vollzeitig als kaufmännische
+Angestellte oder Sachbearbeiterin tätig sein. Anlässlich des Erstgesprächs im
+Rahmen der Frühintervention vom 25. Juni 2013 wiederholte sie diese
+Aussage. Darüber hinaus erklärte sie am 12. August 2013 gegenüber der
+IV-Stelle […], dass sie den Kindsvater sowie die gemeinsame Tochter am
+1. Januar 2011 räumlich verlassen und eine eigene Wohnung bezogen habe,
+wobei sie spätestens in diesem Zeitpunkt bei voller Gesundheit versucht
+hätte, 100 % zu arbeiten.
+5.4.4
+Der
+Beklagten ist darin beizupflichten, dass die Klägerin bereits ab dem
+1. Januar 2003 bzw. drei Jahre vor der Geburt ihrer Tochter und
+über neun Jahre vor Eintritt der Teilinvalidität nicht mehr vollerwerbstätig
+war. Zutreffend ist darüber hinaus, dass das Bundesgericht in einem Entscheid
+festgehalten hat, dass die vorinstanzliche Betrachtungsweise, die Versicherte
+sei seit Oktober 2002 durchgehend zu mindestens 20 % in ihrer
+Arbeitsfähigkeit eingeschränkt gewesen und bis heute zu mindestens 50 %
+invalid, Bundesrecht verletze (BGer-Urteil 9C_856/2017 vom
+7. September 2018 E. 4.3). Dementsprechend lässt sich die
+Pensumsreduktion vor Geburt der Tochter bzw. vor Eintritt der
+Teilinvalidität nicht ohne Weiteres mit gesundheitlichen Gründen erklären,
+worauf die Beklagte zu Recht hinweist.
+Die Einwände der Beklagten
+lassen die Statusfestsetzung der IV-Stelle […] jedoch nicht als
+offensichtlich unhaltbar erscheinen. So war die Klägerin nach Abschluss der
+Lehre während etwa fünf Jahren für verschiedene Arbeitgeber vollzeitig
+erwerbstätig. Darüber hinaus hat sie bereits zu Beginn des IV-Verfahrens zu
+drei verschiedenen Zeitpunkten übereinstimmend geäussert, dass sie im
+Gesundheitsfall voll erwerbstätig wäre. Vor dem Hintergrund, dass
+sogenannte
+spontane "Aussagen der ersten Stunde" in der Regel unbefangener und
+zuverlässiger sind als spätere Darstellungen, die bewusst oder unbewusst von
+nachträglichen Überlegungen versicherungsrechtlicher oder anderer Art
+beeinflusst sein können (BGE 143 V 168 E. 5.2.2), kommt
+diesen Aussagen der Klägerin besonderes Gewicht zu. Schliesslich hat die
+Klägerin am 19. Dezember 2005 eine Tochter geboren. Es ist überwiegend
+wahrscheinlich, dass dies zumindest mitursächlich für die darauffolgende Pensumsreduktion
+war. Offenbleiben kann demgegenüber, ob mit Blick auf sämtliche
+Sachverhaltselemente
+eine Statusfestsetzung
+auf teilerwerbstätig ebenfalls vertretbar oder der Festsetzung auf
+Vollerwerbstätigkeit gar vorzuziehen gewesen wäre. Die mehrjährige Vollzeiterwerbstätigkeit,
+die übereinstimmenden Aussagen der Klägerin zu Beginn des IV-Verfahrens sowie
+die Geburt der Tochter lassen den Schluss der IV-Stelle […] auf eine
+hypothetische Vollerwerbstätigkeit zumindest nicht als unhaltbar oder
+willkürlich erscheinen.
+Im Übrigen ist
+auch keine Willkür im invalidenversicherungsrechtlichen Revisionsverfahren
+auszumachen, indem die IV-Stelle […] den Status der Klägerin am 13. Mai
+2020 bei einer hypothetischen Vollerwerbstätigkeit belassen hat. So sind
+keine Tatsachen ersichtlich, welche eine Änderung des Status nahegelegt
+hätten. Etwas anderes ergibt sich weder aus den Akten noch bringt die
+Beklagte Entsprechendes vor. Die IV-Verfügung vom 13. Mai 2020 ist
+hinsichtlich des invalidenversicherungsrechtlichen Status für die Beklagte
+damit verbindlich. Demgemäss ist bei der Festsetzung des mutmasslich
+entgangenen Verdienstes i.S.v. Art. 34a Abs. 1 BVG auf eine
+(hypothetische) Vollerwerbstätigkeit abzustellen.
+5.5
+5.5.1
+Gemäss höchstrichterlicher Rechtsprechung ist von
+einer grundsätzlichen Kongruenz von Valideneinkommen und mutmasslich
+entgangenem Verdienst auszugehen (BGE 143 V 91 E. 4.2,
+mit Hinweisen). Da vorliegend keine Gründe ersichtlich sind, welche ein
+Abweichen von diesem Grundsatz gebieten, ist der mutmasslich entgangene
+Verdienst entsprechend dem der IV-Verfügung vom 13. Mai 2020
+zugrundeliegenden Valideneinkommen festzulegen.
+5.5.2
+Das Jahreseinkommen ist für jedes Jahr einzeln zu
+indexieren (BGer-Urteil 8C_193/2013 vom 4. Juni 2013 E. 3.2). Für
+das Jahr 2015 betrug es dementsprechend Fr. 75'767.-. Angepasst an den
+Nominallohnindex gemäss der Tabelle T1.2.10 des Bundesamts für Statistik
+(Frauen, 2011-2022, Indexbasis 2010=100, Total aller Wirtschaftszweige)
+ergibt sich für das Jahr 2016 (Rentenbeginn: 1. Oktober 2016) sodann ein
+mutmasslich entgangener Verdienst von Fr. 76'373.15 (+ 0.8 %),
+für das Jahr 2017 Fr. 76'678.65 (+ 0.4 %), für das Jahr 2018
+Fr. 77'062.05 (+ 0.5 %), für das Jahr 2019 Fr. 77'832.65
+(+ 1 %), für das Jahr 2020 Fr. 78'533.15 (+ 0.9 %),
+für das Jahr 2021 Fr. 79'004.35 (+ 0.6 %) und für das Jahr
+2022 Fr. 79'636.40 (+ 0.8 %).
+5.6
+Die Klägerin beantragt in der Hauptsache, der
+mutmasslich entgangene Verdienst sei für die Jahre 2016-2022 auf
+Fr. 74'789.- festzusetzen. Im Klageverfahren nach Art. 73 BVG
+herrscht die Dispositionsmaxime, womit die Parteien den Streitgegenstand
+definieren. Dieser bestimmt sich einzig nach Massgabe der Rechtsbegehren der
+Klage sowie einer allfälligen Widerklage. Indessen ist das
+Berufsvorsorgegericht innerhalb des Streitgegenstands in Durchbrechung der
+Dispositionsmaxime an die Begehren der Parteien nicht gebunden
+(BGE 135 V 23 E. 3.1; Marc Hürzeler/Barbara
+Bättig-Lischer, in: Basler Kommentar, Berufliche Vorsorge, 2020, N. 67
+zu Art. 73 BVG). Streitgegenstand ist vorliegend der mutmasslich
+entgangene Verdienst der Jahre 2016-2022. Dem Verwaltungsgericht steht es
+folglich frei, betragsmässig auf einen höheren mutmasslich entgangenen
+Verdienst zu erkennen als von der Klägerin beantragt wurde.
+5.7
+Hinzuweisen ist weiter darauf, dass der mutmasslich
+entgangene Verdienst (anders als beispielsweise der Maximalbetrag des
+koordinierten Lohns) keiner oberen Grenze unterliegt (Marc Hürzeler, in:
+Jacques-André Schneider/Thomas Geiser/Thomas Gächter [Hrsg.], BVG und FZG,
+2. A. 2019, N. 20 zu Art. 34a BVG). Auch aus dem von der
+Beklagten angeführten Urteil des Bundesgerichts kann nichts Anderes
+abgeleitet werden. Der dem Entscheid zugrundeliegende Sachverhalt
+unterscheidet sich nämlich diametral vom Vorliegenden. So erwies sich die
+dortige IV-Verfügung aus verschiedenen Gründen als nicht verbindlich.
+Dementsprechend konnte im Verfahren betreffend IV-Rente aus beruflicher
+Vorsorge von der Statusfestsetzung der IV-Stelle denn auch abgewichen werden
+(BGer-Urteil 9C_91/2013, 9C_110/2013 vom
+17. Juni 2013
+E. 4.3.1,
+5.3.3 und 5.4).
+6.
+6.1
+Im Bereich der beruflichen Vorsorge ist die Pflicht
+zur Entrichtung von Verzugszinsen bei einer verspäteten Überweisung von
+Freizügigkeitsleistungen sowie bei verspäteter Auszahlung eines Alterskapitals
+oder bei Invalidenrenten anerkannt (BGer-Urteil 9C_588/2020 vom 18. Mai
+2021 E. 5.1.1 f., mit Hinweis). Enthält das Basisreglement eine
+Bestimmung über die Höhe des Verzugszinses, gelangt diese zur Anwendung. Der
+Beginn der Zinspflicht richtet sich nach Art. 105 Abs. 1 OR,
+wonach ein Schuldner, der mit der Entrichtung von Renten im Verzug ist, erst
+vom Tag der Anhebung der Betreibung oder der gerichtlichen Klage an
+Verzugszinsen zu bezahlen hat (BGE 149 V 106 E. 7.1,
+119 V 131 E. 4a; Hans-Ulrich Stauffer, in Hans-Ulrich
+Stauffer/Basile Cardinaux [Hrsg.], Rechtsprechung des Bundesgerichts zur
+beruflichen Vorsorge, 4. A., Zürich/Basel/Genf 2019, S. 108).
+6.2
+Die Klägerin reichte die vorliegend zu beurteilende
+Klage am 21. April 2023 (Datum der Postaufgabe) ein. Das am
+21. April 2023 gültige Basisreglement der Beklagten verweist
+hinsichtlich des Verzugszinses auf
+Art. 7 der Verordnung über die
+Freizügigkeit in der beruflichen Alters-, Hinterlassenen- und
+Invalidenvorsorge vom 3. Oktober 1994 (FZV). Gemäss Art. 7 FZV
+entspricht dieser dem BVG-Mindestzinssatz plus einem Prozent. Im Jahr 2023
+betrug der BVG-Mindestzinssatz 1 %. Daraus ergibt sich, dass die aus der
+Anhebung der Überentschädigungsgrenze resultierenden Nachzahlungen zu 2 %
+zu verzinsen sind.
+7.
+Zusammenfassend entfaltet
+die Verfügung der IV-Stelle […] vom 13. Mai 2020 für die Beklagte
+hinsichtlich des invalidenversicherungsrechtlichen Status der Klägerin
+Bindungswirkung. Der mutmasslich entgangene Verdienst beträgt im Jahr 2016
+Fr. 76'373.15 und ist im Sinne der vorstehenden Erwägung (vgl. E.
+II/5.5.2) fortlaufend zu indexieren. Mit Blick darauf, dass die Klägerin in
+ihrem Rechtsbegehren keine konkret bezifferten Nachzahlungen formulierte,
+bleibt die Festsetzung des Leistungsanspruchs der Klägerin in masslicher
+Hinsicht der Beklagten überlassen. Gleiches gilt für die geforderten
+Kinderrenten (vgl. BGE 129 V 450 E. 3.2 f.). Die
+Beklagte ist dementsprechend zu verpflichten, allfällige Nachzahlungen unter
+Berücksichtigung des mutmasslich entgangenen Verdienstes, der
+Überentschädigungsgrenzen und der Nominallohnindexierung festzulegen und
+auszubezahlen. Die Nachzahlungen sind ab Klageeinleitung mit 2 % zu
+verzinsen.
+Dies führt zur Gutheissung
+der Klage. Die Sache ist an die Beklagte zur betragsmässigen Festsetzung der
+Invalidenrenten und zur Festlegung allfälliger Nachzahlungen zu überweisen.
+III.
+1.
+Die Gerichtskosten sind
+von Gesetzes wegen auf die Staatskasse zu nehmen (Art. 73 Abs. 2
+BVG).
+2.
+Die obsiegende Klägerin
+hat gemäss Art. 138 Abs. 3 lit. a VRG zu Lasten der Beklagten Anspruch auf
+eine angemessene Parteientschädigung in der Höhe von Fr. 1'800.- (inkl. Mehrwertsteuer).
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Klage wird im Sinne der Erwägungen gutgeheissen.
+2.
+Die
+Gerichtskosten werden auf die Staatskasse genommen.
+3.
+Die
+Beklagte wird verpflichtet, der Klägerin innert 30 Tagen nach Rechtskraft
+dieses Entscheids eine Parteientschädigung von Fr. 1
+'8
+00.-
+(inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche Eröffnung und Mitteilung an:
+[…]
