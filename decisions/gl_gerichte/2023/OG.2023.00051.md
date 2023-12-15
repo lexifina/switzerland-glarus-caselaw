@@ -1,0 +1,493 @@
+---
+decision_id: "gl_gerichte_OG.2023.00051"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2023.00051"
+docket_2: "OGS.2024.163"
+decided: "2023-12-15"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1794&W10_KEY=218274&nTrefferzeile=1&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/220/art-055.md", "switzerland/bund/acts/221.112.944/art-004.md", "switzerland/bund/acts/311.0/art-012.md", "switzerland/bund/acts/311.0/art-102.md", "switzerland/bund/acts/311.0/art-125.md", "switzerland/bund/acts/312.0/art-006.md", "switzerland/bund/acts/312.0/art-104.md", "switzerland/bund/acts/312.0/art-118.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-436.md"]
+---
+
+# GL Gerichte OG.2023.00051
+
+## Regeste
+
+Nichtanhandnahme einer Strafuntersuchung
+
+## Text
+
+Glarus Obergericht 15.12.2023 OG.2023.00051 (OGS.2024.163)
+Glaris Obergericht 15.12.2023 OG.2023.00051 (OGS.2024.163)
+Glarona Obergericht 15.12.2023 OG.2023.00051 (OGS.2024.163)
+
+Nichtanhandnahme einer Strafuntersuchung
+
+Kanton Glarus
+Obergericht
+Es wirken mit:
+Obergerichtsvizepräsidentin lic. iur. Marianne Dürst
+Benedetti, Oberrichterin Monika Trümpi und Oberrichterin Brigitte Müller
+sowie
+Gerichtsschreiberin MLaw Jennifer Zbinden.
+Beschluss
+vom 15. Dezember 2023
+Verfahren
+OG.2023.00051
+A.______
+Privatkläger
+und
+Beschwerdeführer
+vertreten
+durch
+MLaw
+Sarah
+Eichenberger Caballero,
+Rechtsanwältin
+Vertreterin,
+gegen
+Staats-
+und Jugendanwaltschaft des Kantons Glarus
+Beschwerdegegnerin
+vertreten
+durch den
+Staatsanwalt
+lic. iur.
+Patrick Fluri
+Vertreter,
+betreffend
+Nichtanhandnahme
+einer Strafuntersuchung
+Rechtsbegehren
+de
+s Beschwerdeführers
+(gemäss Eingabe vom 28. August 2023,
+act. 2):
+1.
+Die Nichtanhandnahmeverfügung
+vom 15. August 2023 betreffend unbekannte Täterschaft sei aufzuheben
+und es sei die Beschwerdegegnerin anzuweisen, eine Strafuntersuchung wegen
+fahrlässiger Körperverletzung gegen die unbekannte Täterschaft zu eröffnen.
+2.
+Die Beschwerdegegnerin sei
+anzuweisen, ein Gutachten über die Beschaffenheit des geborstenen Rads vom
+Typ "Safety Wheel" sowie über die Pressluftpistole mit
+integriertem Manometer der Marke "Walmec/Typ: PG/8" einzuholen.
+3.
+Unter Kosten- und Entschädigungsfolgen
+zuzüglich 7.7 % Mehrwertsteuer zu Lasten des Staates.
+____________________
+Das Gericht
+zieht in Betracht:
+I. Prozessgeschichte
+1.
+1.1.
+Am
+20. April 2023 fand im Feuerwehrdepot [...] eine Feuerwehrübung statt
+(act. 9/8.1.01 S. 2; act. 9/8.1.03 Frage 1). Im Vorfeld dieser
+stellte der für die Feuer­wehrübung anwesende B.______ fest, dass das Rad der
+Motorspritze platt war (act. 9/8.1.04 Frage 5). Da die Motorspritze für
+die Feuerwehrübung benötigt wurde, beschlossen er und sein Feuerwehrkollege
+C.______, das Rad aufzupumpen (act. 9/8.1.02 Frage 2; act. 9/8.1.03
+Frage 5; act. 9/8.1.04 Fragen 1 und 6). Während des Pumpvorgangs
+zersprang plötzlich dessen Felge (act. 9/8.1.03 Frage 1). Dabei
+wurden einzelne Teile der Felge weggeschleudert und trafen den ca. zwei Meter
+davon entfernt stehenden Materialwart der Feuerwehr A.______ (nachfolgend
+Privatkläger) am Kopf und insbesondere am linken Auge (act. 9/8.1.02
+Frage 2; act. 9/8.1.03 Frage 2; act. 9/8.1.04 Fragen 1 und 3).
+1.2.
+Die
+Polizei erlangte auf einer allgemeinen Patrouillenfahrt zufälligerweise
+Kenntnis von diesem Vorfall und leitete in der Folge die Tatbestandsaufnahme
+ein (act. 9/8.1.01 S. 2). Insbesondere befragte sie die am Unfall
+beteiligten Personen, erstellte einen Fotobogen und holte ergänzende
+Unterlagen ein (act. 9/8.1.02-9/8.1.05; act. 9/8.1.07-9/8.1.08;
+act. 9/3.1.01). Mit Rapport vom 16. Juni 2023 leitete sie das
+Ergebnis ihrer Ermittlungen der Staatsanwaltschaft des Kantons Glarus weiter
+(act. 9/8.1.01).
+2.
+Mit Verfügung vom 15. August 2023 entschied die
+Staatsanwaltschaft, keine Untersuchung anhand zu nehmen. Daneben verfügte
+sie, dass die am 20. April 2023 durch die Kantonspolizei Glarus bei der
+Feuerwehr [...] sichergestellten Gegenstände (Reifen der Motorspritze,
+geborstene Kunststofffelge, Pressluftpistole mit integriertem Manometer; Dok
+GL 64334-69728) der Gemeinde [...], Feuerwehr [...], ausgehändigt werden
+(vgl. zum Ganzen act. 1).
+3.
+Gegen diese
+Nichtanhandnahmeverfügung der Staatsanwaltschaft erhob der Privatkläger mit
+Eingabe vom 28. August 2023 Beschwerde beim Obergericht des Kantons
+Glarus (act. 2).
+Den geforderten Kostenvorschuss zahlte er
+innert Frist ein (act. 7). Das Obergericht holte zur Beschwerde keine
+Stellungnahmen ein (vgl. Art. 390 Abs. 2 StPO), zog aber die Akten
+der Staatsanwaltschaft im Verfahren SA.2023.00524 (nachfolgend
+act. 9/0.1.01 ff.) bei.
+II. Prozessuales
+1.
+1.1.
+Das
+Obergericht ist als Rechtsmittelinstanz in Strafsachen für die Behandlung von
+Beschwerden zuständig (Art. 17 Abs. 2 lit. a GOG GL
+[GS III A/2]).
+1.2.
+Vorliegend
+angefochten ist eine Nichtanhandnahmeverfügung der Staatsanwaltschaft
+(act. 1). Die betreffende Verfügung ist der Beschwerde zugänglich
+(Art. 310 Abs. 2 i.V.m. Art. 322 Abs. 2 und Art. 393 Abs. 1 lit. a
+StPO). Die
+Beschwerdefrist von zehn Tagen (Art. 310 Abs. 2 i.V.m. Art. 322 Abs. 2 und
+Art. 396 Abs. 1 StPO) ist vorliegend eingehalten (act. 1-2).
+1.3.
+Der
+Geschädigte konstituierte sich mit Schreiben vom 25. August 2023 als
+Privat- und Strafkläger (act. 9/3.1.02). Dadurch erlangte er im
+vorliegenden Strafverfahren Parteistellung (Art. 118 Abs. 1 StPO
+sowie Art. 104 Abs. 1 lit. b StPO). Der Privatkläger ist somit
+zur Beschwerde gegen die verfügte Nichtanhandnahme der Strafuntersuchung
+legitimiert (Art. 310 Abs. 2 StPO i.V.m. Art. 322 Abs. 2
+StPO;
+Patrick
+Guidon
+, Die Beschwerde gemäss
+Schweizerischer Strafprozessordnung, Zürich/St. Gallen 2011,
+N. 110).
+2.
+2.1.
+Mit
+Beschwerde können in Bezug auf den angefochtenen Entscheid
+Rechtsverletzungen, eine unvollständige oder unrichtige Feststellung des
+Sachverhalts sowie Unangemessenheit gerügt werden (Art. 393 Abs. 2
+StPO).
+2.2.
+Vorliegend
+macht der Privatkläger sowohl Rechtsverletzungen als auch eine unvollständige
+Sachverhaltsfeststellung geltend (act. 2 N. 8 ff.).
+III. Beurteilung
+1.
+1.1.
+Die
+Staatsanwaltschaft hielt in ihrer Nichtanhandnahmeverfügung fest, dass der
+Privatkläger am 20. April 2023 unzweifelhaft eine schwere
+Augenverletzung erlitten habe und insofern der objektive Tatbestand von
+Art. 125 StGB (fahrlässige Körperverletzung) erfüllt sei. Aufgrund der
+Ergebnisse des polizeilichen Ermittlungsverfahrens sei jedoch nicht
+ersichtlich, wer welche Sorgfaltspflichten verletzt haben könnte. So
+bestünden keine Hinweise darauf, dass eine der beteiligten Personen die
+verwendeten Geräte falsch bedient oder gegen Sicherheitsbestimmungen
+verstossen hätte. Auch die von der Kantonspolizei angeregte Expertise
+betreffend die Funktionstüchtigkeit des Manometers sowie der Kunststofffelge
+könnten keine hinreichenden Hinweise auf ein strafbares Verhalten ergeben. So
+hätten sich im polizeilichen Ermittlungsverfahren keine Hinweise auf
+äusserliche und damit erkennbare Defekte des Manometers oder der
+Kunststofffelge ergeben. Der Herstellerfirma seien bislang keine
+vergleichbaren Fälle bekannt gewesen. Auch wenn möglich erscheine, dass
+allenfalls ein nicht erkennbarer Defekt der Felge Ursache für deren Bersten
+gewesen sei, könnte ein solcher niemandem strafrechtlich vorgeworfen werden,
+weil dieser eben gerade nicht hätte erkannt und damit die Verletzungen des
+Privatklägers nicht hätten vermieden werden können (vgl. zum Ganzen
+act. 1 N. 5).
+1.2.
+Insbesondere
+entfalle eine Strafbarkeit von C.______, welcher gemeinsam mit B.______ das
+Rad aufpumpte. So hätten sie zunächst das Rad auf 0.6 bar aufgepumpt, ohne
+dass es zu Problemen gekommen sei. Anschliessend hätten sie das Rad geprüft
+und festgestellt, dass dieses noch nicht ausreichend aufgepumpt gewesen sei.
+Auf der Felge sei ein maximaler Reifendruck von 2.0 bar angegeben gewesen.
+Ihre Beobachtungen hätten sich somit mit den vorhandenen Informationen
+gedeckt, weshalb es für sie keine Anhaltspunkte gegeben habe, dass der
+erreichte Druck von 0.6 bar nicht den Tatsachen entsprechen sollte. Da die
+Felge unmittelbar nach der Wiederaufnahme des Pumpvorgangs geborsten sei,
+seien der Unfall sowie die Verletzung des Privatklägers nicht vorhersehbar
+gewesen (vgl. zum Ganzen act. 1 N. 5).
+2.
+2.1.
+Der
+Privatkläger argumentiert dagegen, dass die Staatsanwaltschaft es unterlassen
+habe, die strafrechtliche Verantwortlichkeit im Hinblick auf einen
+allfälligen Mangel am Manometer und/oder an der Kunststofffelge abzuklären
+(act. 2 N. 10). Dies obwohl die Kantonspolizei Glarus in ihrem
+Rapport ausdrücklich um Erstellung einer Expertise über das Manometer sowie
+die Kunststofffelge ersucht habe (act. 2 N. 9). Die
+Staatsanwaltschaft habe damit den Sachverhalt ungenügend abgeklärt und den
+Untersuchungsgrundsatz (Art. 6 StPO) verletzt (act. 2 N. 10).
+Entgegen der Staatsanwaltschaft könne nicht mit Sicherheit festgestellt
+werden, dass, falls C.______ und B.______ kein strafrechtliches Verschulden
+am Ereignis vom 20. April 2023 träfe, nicht eine andere natürliche oder
+juristische Person für das Bersten der Kunststofffelge und somit für die
+Körperverletzung des Beschwerdeführers strafrechtlich verantwortlich sei
+(act. 2 N. 11).
+2.2.
+Der
+Privatkläger habe während des Pumpvorganges eine Wölbung am Manometer
+feststellen können (act. 2 N. 13). Er sei jedoch nicht mehr
+rechtzeitig dazu gekommen, die anderen Beteiligten zu warnen (act. 2
+N. 13). Wenn nun also die Felge zerborsten sei, obwohl der Maximaldruck
+von 2.0 bar vermeintlich nicht erreicht wurde, müsse dies auf einen
+technischen Mangel zurückzuführen sein (act. 2 N. 13). Es könne
+sein, dass C.______ tatsächlich nicht habe erkennen können, ob ein technischer
+Defekt am Manometer vorgelegen habe. Allerdings könne daraus nicht abgeleitet
+werden, ob ein Mangel an der Druckluftpumpe bzw. dem Manometer vorgelegen
+habe, für welchen sich der Hersteller, der Vertreiber und/oder eine
+natürliche Person sowohl straf- als auch zivilrechtlich zu verantworten habe
+(act. 2 N. 15).
+2.3.
+Auch
+habe die Staatsanwaltschaft nicht hinreichend abgeklärt, ob die
+Kunststofffelge selbst einen Mangel aufgewiesen habe (act. 2
+N. 16 f.). Falls C.______ nicht habe erkennen können, ob ein
+technischer Defekt an der Felge vorgelegen haben, könne daraus nicht
+geschlossen werden, dass mit Sicherheit kein Mangel an der Felge vorgelegen
+habe, für welchen sich der Hersteller der Felgen [...], die Wartungsfirma der
+Motorspritze [...] oder der Hersteller der Motorspritze [...] sowohl straf-
+als auch zivilrechtlich zu verantworten habe (act. 2 N 18). Es
+genüge hierfür nicht, dass sich der Offizier der Feuerwehr [...] bei der
+Herstellerfirma erkundigt habe, ob ähnliche Vorfälle bekannt seien (act. 2
+N. 19). Unzureichend sei auch, dass eine Servicerechnung der [...] AG
+vorliege, welche ausweise, dass die Laufräder kontrolliert seien (act. 2
+N. 19).
+3.
+Die Staatsanwaltschaft verfügt gemäss Art. 310 Abs. 1
+lit. a StPO die Nichtanhandnahme, sobald aufgrund der Strafanzeige oder
+des Polizeirapports feststeht, dass die fraglichen Straftatbestände oder die
+Prozessvoraussetzungen eindeutig nicht erfüllt sind. Sie eröffnet
+demgegenüber eine Strafuntersuchung, wenn sich aus den Informationen und
+Berichten der Polizei, aus der Strafanzeige oder aus ihren eigenen
+Feststellungen ein hinreichender Tatverdacht ergibt (Art. 309 Abs. 1 lit. a
+StPO). Die Frage, ob ein Strafverfahren über eine Nichtanhandnahme erledigt
+werden kann, beurteilt sich nach dem aus dem Legalitätsprinzip abgeleiteten
+Grundsatz "in dubio pro duriore" (lat. für "im Zweifel für das
+Härtere"). Danach darf die Nichtanhandnahme gestützt auf Art. 310 Abs. 1
+lit. a StPO nur in sachverhaltsmässig und rechtlich klaren Fällen ergehen
+(vgl. zum Ganzen Urteil des Bundesgerichts 6B_258/2022 vom 12. Januar
+2023 E. 3.2.3, m.w.H.; Urteil des Bundesgerichts 6B_1104/2017 vom
+13. April 2018 E. 2.3.1, beide m.w.H.).
+4.
+4.1.
+Der
+fahrlässigen Körperverletzung macht sich strafbar, wer fahrlässig einen
+Menschen am Körper oder an der Gesundheit schädigt (Art. 125 Abs. 1
+StGB). Fahrlässig begeht ein Verbrechen oder Vergehen, wer die Folge seines
+Verhaltens aus pflichtwidriger Unvorsichtigkeit nicht bedenkt oder darauf
+nicht Rücksicht nimmt. Pflichtwidrig ist die Unvorsichtigkeit, wenn der Täter
+die Vorsicht nicht beachtet, zu der er nach den Umständen und nach seinen
+persönlichen Verhältnissen verpflichtet ist (Art. 12 Abs. 3 StGB).
+4.2.
+Ein
+Schuldspruch wegen fahrlässiger Körperverletzung setzt somit voraus, dass der
+Täter den Erfolg durch Verletzung einer Sorgfaltspflicht verursacht hat. Dies
+ist der Fall, wenn der Täter im Zeitpunkt der Tat auf Grund der Umstände
+sowie seiner Kenntnisse und Fähigkeiten die Gefährdung der Rechtsgüter des
+Opfers hätte erkennen können und müssen und wenn er zugleich die Grenzen des
+erlaubten Risikos überschritten hat. Daneben ist erforderlich, dass die zum
+Erfolg führenden Geschehensabläufe für den konkreten Täter mindestens in
+ihren wesentlichen Zügen voraussehbar sowie vermeidbar waren. Demgemäss muss
+das Verhalten geeignet sein, nach dem gewöhnlichen Lauf der Dinge und den
+Erfahrungen des Lebens einen Erfolg wie den eingetretenen herbeizuführen oder
+mindestens zu begünstigen (vgl. zum Ganzen BGE 135 IV 56 E. 2.1; Urteil
+des Bundesgerichts 6B_735/2020 vom 18. August 2021 E. 3.2.1; Urteil
+des Bundesgerichts 6B_606/2017 vom 13. November 2017 E. 2.2, je
+m.w.H.).
+5.
+5.1.
+Der
+Privatkläger erlitt am 20. April 2023 im Vorfeld einer Feuerwehrübung
+aufgrund einer berstenden Kunststofffelge eine schwere Augapfelprellung, ein
+leichtes Schädel-Hirn-Trauma sowie eine Rissquetschwunde über dem linken
+Augenlid (act. 9/3.1.01; act. 9/8.1.01 S. 4;
+act. 9/8.1.02 Frage 22). Es ist unter den Parteien deshalb unbestritten,
+dass der Tatbestand der fahrlässigen Körperverletzung nach Art. 125 StGB
+aus objektiver Sicht erfüllt ist (vgl. act. 1 N. 5; act. 2
+N. 9). Umstritten ist dagegen, ob die Staatsanwaltschaft zu Recht davon
+ausging, dass die Verletzung des Privatklägers eindeutig niemandem subjektiv
+angelastet werden könne (vgl. hierzu act. 1 N. 5 und act. 2
+N. 8 ff.).
+5.2.
+Die
+Staatsanwaltschaft prüfte in ihrer Nichtanhandnahmeverfügung diesbezüglich
+zunächst eine mögliche Strafbarkeit von C.______ (vgl. act. 1
+N. 5), welcher gemeinsam mit B.______ das Laufrad aufpumpte. Dabei ist
+unstrittig, dass C.______ und B.______ das Rad der Motorspritze zunächst auf
+0.5 bis 0.6 bar aufpumpten, ohne dass es zu Problemen kam (act. 9/8.1.02
+Frage 2; act. 9/8.1.03 Frage 6; act. 9/8.1.04 Frage 1).
+Anschliessend prüften sie das Rad und entschieden sich, dieses weiter
+aufzupumpen, da dieses noch nicht ausreichend aufgepumpt war (act. 9/8.1.02
+Frage 2; act. 9/8.1.03 Frage 6; act. 9/8.1.04 Frage 1). Auf der
+Felge war ein maximaler Reifendruck von 2.0 bar angegeben (act. 9/8.1.02
+Frage 2; act. 9/8.1.03 Frage 6; act. 9/8.1.04 Frage 1). Die
+Felge barst dabei kurz nach Wiederaufnahme des Pumpvorgangs
+(act. 9/8.1.02 Frage 2; act. 9/8.1.03 Frage 6; act. 9/8.1.04
+Frage 1).
+5.3.
+C.______
+und B.______ gaben übereinstimmend an, dass die Kunststofffelge, das
+Manometer und die Druckluftpumpe – soweit von ihnen beurteilbar – vor dem
+Unfall in einwandfreiem Zustand waren (vgl. act. 9/8.1.03 Fragen 10-13,
+21-22 und 24; act. 9/8.1.04 Fragen 11-14, 22, 24-25 und 27; vgl. auch
+act. 9/8.1.01 S. 4). Der Privatkläger als zuständiger Materialwart der
+Feuerwehr bestätigte, dass die Druckluftschläuche sowie die zum Aufpumpen
+verwendete Pressluftpistole mit integriertem Manometer seines Wissens nach
+einwandfrei funktionierten (act. 9/8.1.02 Fragen 14-15). Ihm fiel einzig
+auf, dass der plastifizierte Karton mit der "Bar" Skala des
+Manometers vor dem Bersten der Felge eine leichte Wölbung aufgewiesen habe
+(act. 9/8.1.02 Frage 4 im Vergleich zu act. 9/8.1.03 Frage 15;
+act. 9/8.1.04 Fragen 16-17). Auf den entsprechenden Hinweis des
+Privatklägers konnten C.______ und B.______ jedoch nicht mehr reagieren, da
+die Felge bereits in diesem Moment barst (act. 9/8.1.04 Frage 1).
+5.4.
+Die am
+Unfall Beteiligten führten übereinstimmend aus, dass es sich beim Aufpumpen
+des Rades um das übliche Vorgehen gehandelt habe und sie nicht wissen, was
+sie falsch gemacht hätten (act. 9/8.1.02 Frage 7; act. 9/8.1.03
+Fragen 7-8; act. 9/8.1.04 Fragen 8-9). Der Privatkläger ging zudem
+selbst davon aus, dass soweit er das beurteilen könne, es zu keiner Fehlmanipulation
+durch C.______ und B.______ gekommen sei (act. 9/8.1.02 Frage 9). Es ist
+somit nicht ersichtlich, dass C.______ bzw. B.______ sorgfaltswidrig
+gehandelt haben sollten; zumal sie das Rad wie üblich aufpumpten, sich an den
+maximalen Reifendruck hielten und keine äusserlichen Materialschwächen
+erkannten. Der Unfall sowie die Verletzung des Privatklägers waren für sie
+deshalb nicht vorhersehbar und somit auch nicht vermeidbar. Es ist somit der
+Staatsanwaltschaft zuzustimmen (act. 1 N. 5), dass sich aus dem
+polizeilichen Ermittlungsverfahren keine Hinweise auf eine Strafbarkeit von
+C.______ bzw. B.______ ergeben hat (act. 1 N. 5). Insofern hat die
+Staatsanwaltschaft ihnen gegenüber zu Recht kein Strafverfahren anhand
+genommen. Dies wurde vom Privatkläger in seiner Beschwerde denn auch nicht
+beanstandet (vgl. act. 2 N. 8 ff.).
+6.
+6.1.
+Der
+Privatkläger rügt jedoch, dass die Staatsanwaltschaft ein Gutachten zur
+Funktionsfähigkeit des Manometers bzw. der Kunststofffelge hätte einholen
+müssen (act. 2 N. 9 f.). Ohne ein solches könne eine Strafbarkeit
+des Herstellers der Felgen [...], der Wartungsfirma der Motorspritze [...],
+des Herstellers der Motorspritze [...] und des Herstellers und Vertreibers
+der Druckluftpumpe bzw. des Manometers nicht mit Sicherheit ausgeschlossen
+werden (act. 2 N. 15 und N. 18).
+6.2.
+Bei den
+vom Privatkläger aufgeführten möglichen Tätern handelt es sich allesamt um
+juristische Personen bzw. Unternehmen. Ein Verbrechen oder Vergehen kann nach
+Art. 102 Abs. 1 StGB nur dann einem Unternehmen zugerechnet werden, wenn in
+einem Unternehmen in Ausübung geschäftlicher Verrichtung im Rahmen des
+Unternehmenszwecks ein Verbrechen oder Vergehen begangen wird und dieses
+aufgrund mangelhafter Organisation des Unternehmens keiner bestimmten
+natürlichen Person zugerechnet werden kann (subsidiäre Verantwortlichkeit des
+Unternehmens). Eine originäre Verantwortlichkeit eines Unternehmens fällt
+vorliegend schon ausser Betracht, weil Körperverletzungsdelikte keine
+Anlasstaten nach Art. 102 Abs. 2 StGB sind.
+6.3.
+Voraussetzung
+für die Verantwortlichkeit eines Unternehmens ist, dass im Unternehmen in
+Ausübung geschäftlicher Verrichtung im Rahmen des Unternehmenszwecks eine
+Straftat begangen wurde. Die Bestimmung knüpft mithin an ein begangenes
+Vergehen oder Verbrechen an. Dabei muss nachgewiesen sein, dass die
+objektiven und subjektiven Tatbestandsmerkmale erfüllt sind. Gelingt dieser
+Nachweis nicht, entfällt die Strafbarkeit des Unternehmens. Andernfalls
+ergäbe sich eine reine Kausalhaftung, welche vom Gesetzgeber ausdrücklich
+nicht gewollt war (vgl. zum Ganzen BGE 142 IV 333 E. 4.1, m.w.H.).
+6.4.
+Mit dem
+Privatkläger ist davon auszugehen, dass ein Gutachten über die
+Funktionsfähigkeit des Manometers bzw. der Kunststofffelge allenfalls
+Klarheit schaffen könnte, ob die Verletzung des Privatklägers auf einen
+Defekt in der Kunststofffelge, in der Druckluftpumpe oder am Manometer
+zurückgeführt werden kann oder eine andere (ungeklärte) Ursache hat. Der
+Privatkläger übersieht jedoch, dass es für die strafrechtliche Verantwortlichkeit
+der aufgeführten Unternehmen nicht ausreichen würde, wenn nachgewiesen würde,
+dass sie ein mangelhaftes Produkt vertrieben bzw. hergestellt hätten. Für
+eine Verurteilung wäre vielmehr zusätzlich der Nachweis erforderlich, dass
+ein Organ bzw. Mitarbeiter des Unternehmens sorgfaltswidrig die
+Körperverletzung des Privatklägers verursacht hat. Hierfür müsste diese
+Person bei der Herstellung, beim Vertrieb oder bei der Wartung des Produktes
+einen allfälligen Defekt sorgfaltswidrig nicht bemerkt oder zwar bemerkt,
+dann aber sorgfaltswidrig darauf verzichtet haben diesen zu beheben, obwohl
+sie hätte vorausahnen können, dass der Defekt einen Unfall wie den
+vorliegenden verursachen könnte.
+6.5.
+Wie die
+Staatsanwaltschaft zu Recht festhielt (act. 1 N. 5), kann dies
+vorliegend unabhängig von der Einholung eines Gutachtens ausgeschlossen
+werden. So waren gemäss übereinstimmender Aussage der am Unfall beteiligten
+Personen die Kunststofffelge, das Manometer und die Druckluftpumpe – soweit
+von ihnen beurteilbar – vor dem Unfall in einwandfreiem Zustand (vgl. act.
+9/8.1.02 Frage 15; act. 9/8.1.03 Fragen 10-13, 21-22 und 24;
+act. 9/8.1.04 Fragen 11-14, 22, 24-25 und 27; vgl. auch
+act. 9/8.1.01 S. 4). Weder für den Privatkläger als Materialwart der
+Feuerwehr noch für die am Unfall beteiligten C.______ und B.______ war der
+Unfall mit den Verletzungsfolgen für den Privatkläger voraussehbar (vgl.
+vorne E. III.5.4.). Es ist deshalb davon auszugehen, dass auch die
+Vertreiber der Kunststofffelge, des Manometers und der Druckluftpumpe den
+Unfall mit Verletzungsfolgen nicht voraussehen konnten. Ihnen kann somit
+unabhängig vom Ergebnis eines Gutachtens keine Sorgfaltspflichtverletzung
+angelastet werden. Dasselbe gilt auch für die Hersteller der Felge, der
+Druckluftpumpe, des Manometers und der Motorspritze. Aufgrund der vorhandenen
+Akten kann ausgeschlossen werden, dass die für die Herstellung
+verantwortliche Person bereits bei der Herstellung der Felge, der
+Druckluftpumpe, des Manometers bzw. der Motorspritze einen allfälligen Defekt
+erkannte resp. hätte erkennen müssen und die Folgen des Defekts (schwerer
+Unfall bei der Benutzung) voraussah resp. hätte voraussehen müssen. So waren
+die Geräte und namentlich das Manometer bei der Feuerwehr bereits mehrere
+Jahre im Einsatz (act. 9/8.1.02 Frage 4; vgl. auch act. 9/8.1.01
+S. 5; act. 9/8.1.04 Frage 5; act. 9/8.1.05) und funktionierten
+zuvor einwandfrei. Da das Gutachten nur über die Funktionstüchtigkeit des
+Manometers sowie der Kunststofffelge eingeholt werden soll (act. 2
+S. 2 und N. 9), ist auch nicht ersichtlich, wie sich daraus eine
+Sorgfaltspflichtverletzung der Wartungsfirma der Motorspritzen ergeben soll.
+6.6.
+Insgesamt
+ging die Staatsanwaltschaft somit zutreffend davon aus, dass sich vorliegend
+keine Hinweise auf eine sorgfaltswidrige bzw. strafbare Handlung einer Person
+ergeben haben und somit die Körperverletzung des Privatklägers auch nicht
+einem Unternehmen zugerechnet werden kann. Die Strafbarkeit der Vertreiber
+bzw. Hersteller der Kunststofffelge, der Druckluftpumpe, des Manometers und
+der Motorspritze kann unabhängig vom Resultat eines Gutachtens eindeutig
+ausgeschlossen werden (vgl. act. 1 N. 5). Allein die Tatsache, dass
+sich aus einem allfälligen Gutachten Hinweise auf eine haftungsrechtliche
+Verantwortlichkeit des Herstellers bzw. des Vertreibers ergeben könnten (vgl.
+Art. 55 OR und Art. 4 PrHG), rechtfertigt es nicht, eine
+Strafuntersuchung an Hand zu nehmen (vgl. hierzu BGE 137 IV 285 E. 2.3;
+Urteil des Bundesgerichts 6B_364/2013 vom 29. August 2013 E. 2;
+vgl. auch
+Christof Riedo/Gerhard
+Fiolka,
+in: Basler Kommentar Strafprozessordnung/Jugendstrafprozessordnung,
+3. Aufl., Basel 2023, N. 34 f. zu Art. 6 StPO). Etwas
+anderes kann der Privatkläger auch nicht aus Art. 6 StPO
+(Untersuchungsgrundsatz) ableiten. So werden die Strafbehörden im Falle einer
+Nichtanhandnahme von ihrer Verpflichtung zur Sachverhaltsfeststellung nach
+Art. 6 StPO gerade entbunden (
+Christof
+Riedo/Gerhard Fiolka
+, a.a.O., N. 36 zu Art. 6 StPO). Die
+Staatsanwaltschaft hat somit zu Recht davon abgesehen, eine Strafuntersuchung
+zu eröffnen.
+IV. Kosten- und Entschädigungsfolgen
+Die Kosten des Beschwerdeverfahrens sind dem
+Verfahrensausgang entsprechend dem Privatkläger aufzuerlegen (Art. 428
+Abs. 1 StPO). Die Gerichtsgebühr ist dabei auf CHF 800.–
+festzulegen und vom geleisteten Kostenvorschuss zu beziehen (Art. 8
+Abs. 2 lit. b der Verordnung zu den Kosten im Zivil- und
+Strafprozess vom 22. Dezember 2010 [GS III A/5]).
+Parteientschädigungen sind keine zuzusprechen (Art. 436 Abs. 1 StPO
+i.V.m. 433 Abs. 1 StPO e contrario).
+____________________
+Das Gericht
+beschliesst
+:
+1.
+Die Beschwerde gegen die
+Nichtanhandnahmeverfügung der Staatsanwaltschaft vom 15. August 2023
+im Verfahren SA.2023.00524 wird abgewiesen.
+2.
+Die Gerichtskosten für das
+Beschwerdeverfahren werden auf CHF 800.— festgesetzt. Die
+Gerichtskosten werden dem Beschwerdeführer auferlegt und von dem von ihm
+geleisteten Kostenvorschuss bezogen.
+3.
+Es werden keine
+Parteientschädigungen zugesprochen.
+4.
+Schriftliche Mitteilung an:
+[...]
