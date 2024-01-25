@@ -1,0 +1,383 @@
+---
+decision_id: "gl_gerichte_VG.2023.00100"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2023.00100"
+docket_2: "VG.2024.1326"
+decided: "2024-01-25"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1784&W10_KEY=218274&nTrefferzeile=7&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/311.0/art-067.md", "switzerland/bund/acts/311.0/art-067c.md", "switzerland/bund/acts/311.0/art-093.md", "switzerland/bund/acts/311.0/art-388.md"]
+---
+
+# GL Gerichte VG.2023.00100
+
+## Regeste
+
+Strafvollzug
+
+## Text
+
+Glarus Verwaltungsgericht 25.01.2024 VG.2023.00100 (VG.2024.1326)
+Glaris Verwaltungsgericht 25.01.2024 VG.2023.00100 (VG.2024.1326)
+Glarona Verwaltungsgericht 25.01.2024 VG.2023.00100 (VG.2024.1326)
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+25. Januar 2024
+I. Kammer
+Besetzung:
+Gerichtspräsident MLaw Colin Braun, Verwaltungsrichterin Jolanda Hager,
+Ersatzrichter Samuel Bisig und Gerichtsschreiberin MLaw Paula Brändli
+in Sachen
+VG.2023.00100
+A.______
+Beschwerdeführer
+vertreten
+durch
+MLaw
+Jacques
+Marti, Rechtsanwalt
+gegen
+1.
+Amt für Justizvollzug
+Beschwerdegegner
+2.
+Departement Sicherheit und Justiz
+des Kantons Glarus
+betreffend
+Bewährungshilfe
+Die Kammer zieht in Erwägung:
+I.
+1.
+Das
+Kantonsgericht Glarus verurteilte A.______ am 25. April 2018 der
+mehrfachen sexuellen Handlungen mit Kindern, der mehrfachen sexuellen
+Nötigung, der mehrfachen einfachen Körperverletzung, der Widerhandlung gegen
+das Waffengesetz und der groben Verletzung von Verkehrsregeln zu einer
+teilbedingten Freiheitsstrafe von 28 Monaten. Darüber hinaus ordnete es
+ein Tätigkeitsverbot für jegliche Heilbehandlungen an Frauen für fünf Jahre
+und an Kindern für zehn Jahre an. Nachdem A.______ beim Obergericht Glarus
+dagegen erfolgslos Berufung eingelegt und beim Bundesgericht Beschwerde in
+Strafsachen erhoben hatte, wies Letzteres die Sache an das Obergericht zurück
+(vgl. BGer-Urteil 6B_986/2020 vom 6. Januar 2021). Dieses verurteilte
+ihn am 1. März 2021 zu 27 Monaten Freiheitsstrafe und bestätigte
+das Tätigkeitsverbot gemäss dem Urteil des Kantonsgerichts.
+2.
+Am
+2. August 2023 teilte das Amt für Justizvollzug des Kantons Glarus
+A.______ mit, dass es begleitend zu den Tätigkeitsverboten die Anordnung
+einer Bewährungshilfe in Betracht ziehe. Nachdem Letzterer hierzu am
+10. August 2023 Stellung genommen hatte, ordnete es am 18. August
+2023 für die gesamte Dauer der Tätigkeitsverbote eine Bewährungshilfe an. Die
+hiergegen von A.______ am 31. August 2023 erhobene Beschwerde beim
+Departement Sicherheit und Justiz des Kantons Glarus (DSJ) wies Letzteres am
+5. Oktober 2023 ab.
+3.
+A.______
+gelangte mit Beschwerde vom 8. November 2023 ans Verwaltungsgericht und
+beantragte die Aufhebung des Entscheids des DSJ vom 5. Oktober 2023
+sowie der Verfügung des Amts für Justizvollzug vom 18. August 2023;
+unter Kosten- und Entschädigungsfolge zu Lasten des Amts für Justizvollzug
+und des DSJ. Letzteres schloss am 28. November 2023 auf Abweisung der
+Beschwerde; unter Kosten- und Entschädigungsfolge zu Lasten von A.______. Das
+Amt für Justizvollzug beantragte am 30. November 2023 ebenfalls die
+Abweisung der Beschwerde.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 32
+Abs. 3b des Gesetzes über die Einführung des Schweizerischen
+Strafgesetzbuchs im Kanton Glarus vom 2. Mai 1965 (EG StGB) und
+Art. 105 Abs. 1 lit. b des Gesetzes über die Verwaltungsrechtspflege vom 4.
+Mai 1986 (VRG) zur Behandlung der vorliegenden Beschwerde zuständig. Da auch
+die übrigen Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde
+einzutreten.
+1.2
+Das Verwaltungsgericht überprüft
+Entscheide
+des zuständigen Departements zwar vollumfänglich, d.h. auch auf Angemessenheit
+hin (Art. 32 Abs. 3b EG StGB). Dennoch kommt der
+Vollzugsbehörde bei der Frage, ob Bewährungshilfe angeordnet werden soll,
+ein
+weites Ermessen zu (Martino Imperatori, in: Marcel Alexander Niggli/Hans
+Wiprächtiger [Hrsg.], Basler Kommentar Strafrecht, 4. A., Basel 2019,
+Art. 93 N. 9).
+In dieses greift das
+Verwaltungsgericht nicht ohne Not ein.
+2.
+2.1
+Der Beschwerdeführer macht geltend,
+die Anordnung einer Bewährungshilfe für die Durchsetzung des
+Tätigkeitsverbots sei unverhältnismässig. Ihm seien Tätigkeitsverbote
+gegenüber Frauen und Kindern auferlegt worden. Er habe bereits in den
+Gerichtsverfahren erklärt, dass er keine entsprechenden Behandlungen mehr
+durchführen werde. Folglich sei davon auszugehen, dass er die Verbote
+respektieren werde. Die Dauer der Bewährungshilfe gehe sodann über das
+ordentliche Mass hinaus. Darüber hinaus sei deren Umfang nicht aus der
+Verfügung ersichtlich. Gesamthaft stelle die Massnahme eine erhebliche
+Einschränkung seiner persönlichen Freiheit dar. Die Beschwerdegegner hätten
+sich hiermit nicht auseinandergesetzt, sondern lediglich darauf verwiesen,
+dass er, der Beschwerdeführer, nach zwei und fünf Jahren einen Antrag auf
+Aufhebung stellen könne. Da er gleichzeitig als erhöht rückfallgefährdet
+eingestuft worden sei, würden aber zwangsläufig jegliche Gesuche abgelehnt
+und weil das Tätigkeitsverbot lediglich eine passive Auflage darstelle,
+bleibe unklar, weshalb eine Bewährungshilfe überhaupt notwendig sei
+bzw. wie die Durchsetzung des Tätigkeitsverbots überprüft werden könne.
+Er unterliege schliesslich bereits der Strafandrohung bei Zuwiderhandlung,
+was genügend sei. Die angeordnete Bewährungshilfe sei dementsprechend
+aufzuheben.
+2.2
+Der Beschwerdegegner 1 bringt vor,
+das Obergericht habe neben dem Tätigkeitsverbot von zehn Jahren keine
+Bewährungshilfe angeordnet, obwohl es hierzu verpflichtet gewesen sei. Dies
+könne indessen korrigiert werden, da die neu bestehende Kompetenz der zur
+Anordnung einer Bewährungshilfe gemäss den Übergangsbestimmungen auch bei Tätern
+gelte, die nach bisherigem Recht verurteilt worden seien. Die vorliegend nach
+neuem Recht angeordnete Bewährungshilfe im altrechtlich abgeurteilten Fall
+sei als zusätzliche Auflage somit rechtmässig und mit Blick auf die
+mutmasslich hohe Rückfallgefahr sowie den Interventionsbedarf notwendig.
+Angesichts der langjährigen, massiven Delinquenz des Beschwerdeführers und
+des Fortbestehens seiner deliktfördernden Persönlichkeitsaspekte könne nicht
+davon ausgegangen werden, dass er dem Tätigkeitsverbot ohne Bewährungshilfe
+längerfristig Folge leisten werde. Deren Dauer orientiere sich im
+vorliegenden Fall am rechtskräftig für zehn Jahre ausgesprochenen
+Tätigkeitsverbot. Innerhalb dieser Zeit sei zu eruieren, ob und inwiefern ein
+Betreuungsbedarf bestehe, wobei der Kontakt zur Bewährungshilfe je nach
+Verlauf engmaschiger oder loser ausgestaltet bzw. die Begleitung auch
+vorzeitig eingestellt werden könne. Die Pflicht des Beschwerdeführers zur
+Wahrung von Gesprächsterminen wiege vorliegend weniger schwer als das massive
+Leid der Opfer. Aufgrund der Abhängigkeit zwischen Interventionsbedarf und
+-stärke könne noch nicht gesagt werden, wie die Bewährungshilfe über die
+nächsten Jahre ausgestaltet werden müsse, da dies wesentlich von der
+Entwicklung und der Kooperationsbereitschaft des Beschwerdeführers abhänge.
+Das Tätigkeitsverbot verpflichte zu einem Unterlassen und stelle
+grundsätzlich eine passive Auflage dar. Gleichwohl könne aber eine aktive
+Unterstützung und Begleitung nötig sein. Es sei denkbar, dass es auch in Zukunft
+im Umfeld des Beschwerdeführers zu Situationen komme, in denen er angefragt
+werde, Behandlungen durchzuführen oder er eine Behandlung als opportun
+erachte. Es werde Aufgabe der Bewährungshilfe sein, als Begleitungs- und
+Kontrollorgan zu fungieren, kritische Situation mit dem Beschwerdeführer zu
+reflektieren und mit ihm alternative Freizeitstrategien zu erarbeiten. Sodann
+gehe es vorliegend nicht nur darum, dass er keine bezahlte Tätigkeit als
+Heiler mehr ausübe. Vielmehr solle er dadurch auch im privaten Umfeld von
+solchen Tätigkeiten absehen. Diesbezüglich stellten die Liebesbeziehung und
+das soziale Umfeld wesentliche Komponenten dar und seien von der
+Bewährungshilfe in der deliktpräventiven Arbeit in geeigneter Form
+einzubeziehen. Die Strafandrohung sei mit Blick auf das hohe Risiko für
+weitere Sexualdelikte unzureichend. Dasselbe gelte für die Beschränkung der
+Kontrolle auf die polizeilichen Organe, zumal deren spezialpräventive
+Funktion begrenzt sei.
+3.
+3.1
+Hat jemand in Ausübung einer
+beruflichen oder einer organisierten ausserberuflichen Tätigkeit ein
+Verbrechen oder Vergehen begangen, für das er zu einer Freiheitsstrafe von
+über sechs Monaten verurteilt worden ist, und besteht die Gefahr, dass er
+seine Tätigkeit zur Begehung weiterer Verbrechen oder Vergehen missbrauchen
+wird, so kann ihm das Gericht die betreffende oder vergleichbare Tätigkeiten
+für sechs Monate bis zu fünf Jahren ganz oder teilweise verbieten
+(Art. 67 Abs. 1 StGB). Im Fall eines Verbrechens oder Vergehens
+gegen Minderjährige oder andere besonders schutzbedürftige Personen kann das
+Gericht die betreffende Tätigkeit für ein Jahr bis zehn Jahre verbieten
+(Art. 67 Abs. 2 StGB).
+3.2
+Das Gericht kann für die Dauer der
+Verbote Bewährungshilfe anordnen (Art. 67 Abs. 6 StGB). Missachtet
+der Verurteilte ein Tätigkeitsverbot oder ein Kontakt- und Rayonverbot oder
+entzieht er sich der damit verbundenen Bewährungshilfe oder ist diese nicht
+durchführbar oder nicht mehr erforderlich, so erstattet die zuständige
+Behörde dem Gericht oder den Vollzugsbehörden Bericht. Das Gericht oder die
+Vollzugsbehörde kann die Bewährungshilfe aufheben oder neu anordnen
+(Art. 67c Abs. 7 StGB). Die Vollzugsbehörde kann für die gesamte
+Dauer des Tätigkeitsverbotes oder des Kontakt- und Rayonverbots Bewährungshilfe
+anordnen (Art. 67c Abs. 7bis StGB). Mit der Bewährungshilfe sollen
+die betreuten Personen vor Rückfälligkeit bewahrt und sozial integriert
+werden. Die für die Bewährungshilfe zuständige Behörde leistet und vermittelt
+die hierfür erforderliche Sozial- und Fachhilfe (Art. 93 Abs. 1
+StGB).
+4.
+4.1
+Zunächst ist
+festzuhalten, dass der Beschwerdegegner 1 Art. 67c Abs. 7bis
+StGB berechtigterweise auf den vorliegenden altrechtlichen Fall angewendet
+hat (Art. 388 Abs. 3 StGB; vgl. Benjamin F. Brägger, in:
+Marcel Alexander Niggli/Hans Wiprächtiger [Hrsg.], Basler Kommentar
+Strafrecht, 4. A., Basel 2019, Art. 388 N. 4 ff.). Diese
+Bestimmung erteilt ihm die Kompetenz zur Anordnung einer Bewährungshilfe,
+legt hierfür jedoch keine weiteren Vorgaben fest. Die Bewährungshilfe bei
+einem Tätigkeitsverbot stellt sodann ein neueres Instrument des Strafvollzugs
+dar, weshalb hierzu noch nicht viele Erfahrungswerte bestehen. Grundsätzlich
+kann jedoch auf die Praxis und die Materialien zur Bewährungshilfe im
+Allgemeinen (Art. 93 StGB) zurückgegriffen werden. Danach soll die
+Bewährungshilfe einerseits nicht an enge Voraussetzungen geknüpft,
+andererseits nur bei nachgewiesenem Bedarf angeordnet werden (Imperatori,
+a.a.O., Art. 93 N. 9). Die Bewährungshilfe soll sodann nicht primär
+eine Kontrollfunktion haben. Vielmehr soll sie die betreuten Personen vor
+Rückfällen schützen. Sie verfolgt spezialpräventive Ziele und leistet
+Unterstützung bei der sozialen Wiederintegration in die Gesellschaft.
+Grundsätzlich dauert sie so lange wie das Verbot anhält. Zu den verbreiteten
+Instrumenten gehören das Gespräch mit der betroffenen Person, das Einholen
+eines Strafregisterauszugs, die Kontrolle von Arbeitsverträgen und weiteren
+Dokumenten, die Selbstdeklaration der betroffenen Person sowie der Einbezug
+des Täterumfelds (vgl. zum Ganzen: Schweizerisches Kompetenzzentrum für
+den Justizvollzug [SKJV], Analyse des Vollzugs der Tätigkeitsverbote und des
+Kontakt- und Rayonverbots nach Art. 67 ff. StGB, 2022,
+S. 13 ff., 41).
+4.2
+4.2.1
+Der Beschwerdegegner
+1 war zur Anordnung der streitbetroffenen Bewährungshilfe berechtigt, wobei
+bereits das Strafgericht aufgrund des intertemporalen Rechts hierzu
+verpflichtet gewesen wäre (Art. 67 Abs. 7 Satz 2 aStGB in
+der Fassung vom 1. Januar 2015). Zu prüfen bleibt somit, ob die
+Massnahme verhältnismässig ist. Dabei ist zunächst die Notwendigkeit
+derselben und in diesem Rahmen insbesondere die Rückfallgefahr bzw. der
+Eingliederungsbedarf zu beleuchten.
+4.2.2
+Das Obergericht gab bei der Prüfung
+einer bedingten gegenüber einer unbedingten Strafe eine negative
+Legalprognose ab. Gemäss der Justizvollzuganstalt […] wolle der
+Beschwerdeführer sodann lediglich seine Strafe absitzen und weder eine
+Deliktaufarbeitung noch eine Therapie machen. Er sei gefährlich, verhalte
+sich manipulativ und fühle sich unschuldig bzw. als Opfer. Die
+psychiatrischen Sitzungen bezüglich Vollzugsöffnung hätten abgebrochen werden
+müssen, da er nicht mitgemacht habe. Es wurde jedoch auch festgehalten, dass
+sein Verhalten abgesehen von der fehlenden Kooperation tadellos sei. Er habe
+nicht diszipliniert werden müssen, der Werkmeister sei mit seiner
+Arbeitsleistung zufrieden und er habe sich im Kollektiv gut integrieren
+können. Auch der begleitete Ausgang habe ohne Beanstandungen stattfinden können.
+4.2.3
+Die von der
+Abteilung für forensisch-psychologische Abklärungen der Direktion der Justiz
+und des Innern des Kantons […] am 30. Juni 2021 durchgeführte
+Risikoabklärung ergab die Delikthypothese, wonach der Beschwerdeführer das
+Vertrauen seiner Patientinnen in seine Behandlungsfähigkeit als Handaufleger
+missbraucht habe, indem er Patientinnen manipuliert und ihnen vorgegeben
+habe, dass Geschlechtsverkehr mit ihm eine heilende Wirkung habe. Er habe
+auch das Familiensystem seiner ehemaligen Partnerin, einer vormaligen
+Patientin sowie deren Kinder manipuliert. Er schaffe es offenbar seit knapp
+20 Jahren, wiederholt Menschen dazu zu bringen, ihm zu vertrauen, ihm
+über ihre Ängste und Nöte zu berichten und sich in seine Abhängigkeit zu
+begeben, um sie anschliessend zu missbrauchen. Dies spreche für eine bei ihm
+vorhandene ausgeprägte manipulative Fähigkeit. Da er sämtliche Vorwürfe
+abstreite, lägen keine Angaben über seine Sexualanamnese vor, was zur Klärung
+der Delikthypothese notwendig wäre. Bezüglich Sexualdelikten sei das
+Delinquenzrisiko zum Tatzeitraum im Vergleich zur Normalbevölkerung erhöht
+gewesen. Aktuell sei das Risikopotenzial moderat bis und mit hoch. Sollten
+sich seine Lebensumstände wieder den früheren annähern, sei mit einem
+kurzfristigen Anstieg des Delinquenzrisikos zu rechnen. Die risikorelevante
+Beeinflussbarkeit sei eher ungünstig. Es sei indiziert, im Rahmen von
+sozialarbeiterischen Gesprächen in einem ersten Schritt zu versuchen, seine
+Problemeinsicht und Veränderungsmotivation zu fördern. Aufgrund seines
+bisherigen Verhaltens seien die diesbezüglichen Erfolgschancen aktuell als
+gering einzuschätzen. Sollte dies dennoch gelingen, könnte er in einem
+zweiten Schritt zur Aufnahme einer freiwilligen Psychotherapie motiviert
+werden. Sollte er rückfällig werden, würde dringend eine psychiatrische
+Begutachtung empfohlen.
+4.2.4
+Gemäss dem Sozialdienst des Amts
+für Justizvollzug […] übernehme der Beschwerdeführer keine Verantwortung für
+seine Delikte. Er sehe sich nicht als Verursacher, erkenne die Folgen nicht
+an und trage seine Rationalisierungen vehement vor. Gegenwärtig sei keine
+Grundlage für eine deliktspezifische Arbeit gegeben.
+4.2.5
+Der Beschwerdegegner 1 hielt am
+4. Juli 2022 fest, sämtliche Motivationsversuche für eine Teilnahme an
+Therapiesitzungen seien ins Leere gelaufen. Der Beschwerdeführer negiere und
+bagatellisiere die von ihm begangenen Delikte hartnäckig. Aufgrund fehlender
+Kooperation und der daraus resultierenden Risikoeinschätzung würden
+Vollzugsöffnungen abgelehnt. Am 25. August 2022 berichtete der
+Beschwerdegegner 1 weiter, ohne Tataufarbeitung und Auseinandersetzung
+mit den Delikten und ohne Einsicht des Beschwerdeführers in dessen begangene
+Delikte, namentlich ohne jegliche Veränderungsmotivation, könne von einer
+Minimierung der Rückfallgefahr nicht die Rede sein. Deshalb seien
+Vollzugsöffnungen aktuell unverantwortlich und abzulehnen. Am 30. Juni
+2023 führte der Beschwerdegegner 1 weiter aus, der Beschwerdeführer sei
+nicht einsichtig, dass er nach Beendigung seiner Strafe jährlich bei der
+Vollzugsbehörde für die Abgabe der Selbstdeklaration vorbeikommen müsse. Er
+werde gemäss eigenen Angaben bei seiner kinderlosen Partnerin leben. Diese
+wisse Bescheid und glaube nicht, was in den Akten stehe. Er werde keine Delikte
+mehr begehen, da die Haft keine einfache Zeit gewesen sei. Die im
+Gerichtsurteil aufgeführten Delikte seien ein Komplott seiner Ex-Partnerin.
+Er wolle nach seiner Entlassung die Pensionierung geniessen und werde nicht
+gegen das Tätigkeitsverbot verstossen. Er habe mit seiner Tätigkeit als
+Heiler abgeschlossen und benötige keine Therapie.
+4.2.6
+Die Abteilung Verwaltungspolizei
+des Kantons Glarus lehnte eine bedingte Entlassung am 15. November 2022
+unter anderem mit der Begründung ab, dass das Vollzugsverhalten des
+Beschwerdeführers zwar als korrekt bezeichnet werden könne, jedoch im
+Widerspruch zur permanenten Verweigerungshaltung stehe, sich mit seinen Taten
+und problematischen Persönlichkeitsmerkmalen auseinanderzusetzen. Damit habe
+er weder den Vollzugsplan eingehalten noch aktiv an der Erreichung der
+Vollzugsziele mitgearbeitet. Die Rückfallgefahr bleibe unverändert auf hohem
+Niveau. An seiner problematischen und uneinsichtigen Einstellung gegenüber
+seinen Taten habe sich seit Eintritt in den Strafvollzug nichts geändert und
+er zeige weder Einsicht in das Unrecht seiner Taten noch übernehme er
+Verantwortung. Alle Therapieversuche seien gescheitert. Der Beschwerdeführer
+zeige kein Interesse an einer Zusammenarbeit mit einer Bewährungshelferin
+oder einem Bewährungshelfer.
+4.3
+Aus den im Recht
+liegenden Akten ergibt sich damit übereinstimmend und ausdrücklich, dass der
+Beschwerdeführer allseitig als rückfallgefährdet einzustufen ist. Die
+Notwendigkeit einer Massnahme im Sinne einer Bewährungshilfe erweist sich
+damit ohne Weiteres als gegeben.
+4.4
+Zusätzlich zur
+Notwendigkeit einer Intervention im Rahmen der streitbetroffenen
+Bewährungshilfe muss die Massnahme zur Verbesserung der Situation und damit
+zur Verminderung der Rückfallgefahr geeignet sein. Die Möglichkeiten der
+Bewährungshilfe erscheinen dabei nicht zuletzt wegen der drohenden
+mangelhaften Kooperationsbereitschaft des Beschwerdeführers zwar
+eingeschränkt. Dies kann jedoch angesichts der allseitig festgehaltenen hohen
+Rückfallgefahr und der Tatsache, dass im vorliegenden Fall von Beginn an
+gerichtlich eine Bewährungshilfe anzuordnen gewesen wäre, nicht dazu führen,
+dass auf eine Bewährungshilfe verzichtet wird. Mit Blick auf die drohende
+fehlende Kooperation ist die vom Beschwerdeführer vorgebrachte
+Selbstdeklaration nämlich als ungenügend einzustufen. Eine Verletzung der
+persönlichen Freiheit des Beschwerdeführers durch die streitbetroffene
+Anordnung ist darüber hinaus nicht ersichtlich und erscheint angesichts der
+eingeschränkten Mittel der Bewährungshilfe auch nicht wahrscheinlich, wobei
+eine derartige Verletzung mit Blick auf das öffentliche Interesse an der
+Verhinderung eines Rückfalls vorliegend denn auch hinzunehmen wäre.
+Schliesslich ist auch die Anordnung der Bewährungshilfe bezüglich der Dauer
+nicht zu beanstanden, zumal das Tätigkeitsverbot zehn Jahre besteht
+(vgl. obenstehende E. II/4.1).
+5.
+Zusammenfassend
+erweist sich die vom Beschwerdegegner 1 angeordnete Bewährungshilfe als
+verhältnis- und insgesamt als rechtmässig, was zur Abweisung der Beschwerde
+führt.
+III.
+Nach
+Art. 134 Abs. 1 lit. c VRG hat die Partei, welche im
+Beschwerde-, Klage- oder Revisionsverfahren unterliegt, die amtlichen Kosten
+zu tragen. Die Gerichtskosten in der Höhe von Fr. 1'000.- sind
+ausgangsgemäss dem Beschwerdeführer aufzuerlegen und mit dem von ihm bereits
+geleisteten Kostenvorschuss in gleicher Höhe zu verrechnen. Ausgangsgemäss
+steht ihm sodann keine Parteientschädigung zu (Art. 138 Abs. 3
+lit. a VRG e contrario). Eine solche ist schliesslich auch dem
+Beschwerdegegner 2 nicht zuzusprechen, da keine Umstände vorliegen,
+welche ein Abweichen vom Grundsatz, wonach Behörden in der Regel keine
+Parteientschädigung zugesprochen werden (Art. 138 Abs. 4 VRG),
+rechtfertigen würden.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Die
+Gerichtskosten in der Höhe von Fr. 1'000.- werden dem Beschwerdeführer
+auferlegt und mit dem von ihm bereits geleisteten Kostenvorschuss in
+gleicher Höhe verrechnet.
+3.
+Es
+werden keine Parteientschädigung zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
