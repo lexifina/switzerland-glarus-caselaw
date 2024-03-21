@@ -1,0 +1,440 @@
+---
+decision_id: "gl_gerichte_VG.2023.00070"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2023.00070"
+docket_2: "VG.2024.1341"
+decided: "2024-03-21"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1807&W10_KEY=218274&nTrefferzeile=5&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/700.1/art-034.md", "switzerland/bund/acts/700.1/art-034b.md", "switzerland/bund/acts/700/art-016a.md"]
+---
+
+# GL Gerichte VG.2023.00070
+
+## Regeste
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+## Text
+
+Glarus Verwaltungsgericht 21.03.2024 VG.2023.00070 (VG.2024.1341)
+Glaris Verwaltungsgericht 21.03.2024 VG.2023.00070 (VG.2024.1341)
+Glarona Verwaltungsgericht 21.03.2024 VG.2023.00070 (VG.2024.1341)
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+21. März 2024
+I. Kammer
+Besetzung:
+Gerichtspräsident MLaw Colin Braun, Verwaltungsrichterin Jolanda Hager,
+Verwaltungsrichter Patrik Noser und Gerichtsschreiberin MLaw Valentina
+Flückiger
+in Sachen
+VG.2023.00070
+A.______
+Beschwerdeführer
+vertreten durch
+lic.
+iur.
+Werner
+Marti, Rechtsanwalt,
+gegen
+1.
+Gemeinde Glarus Süd
+Beschwerdegegner
+2.
+Departement Bau und Umwelt des Kantons
+Glarus
+3.
+Regierungsrat des Kantons Glarus
+betreffend
+Baubewilligung
+Die Kammer zieht in Erwägung:
+I.
+1.
+A.______
+reichte am […] ein Gesuch für den Neubau eines Einfamilienhauses auf den in
+der Landwirtschaftszone gelegenen Parz.-Nrn. 01 und 02, Grundbuch […],
+ein, wobei dieses seinem Landwirtschaftsbetrieb als Betriebsleiterwohnhaus
+dienen solle.
+2.
+Nachdem
+das Departement Bau und Umwelt des Kantons Glarus (DBU) seine Zustimmung zum
+Bauvorhaben von A.______ am 4. April 2022 verweigert hatte, wies die
+Gemeinde Glarus Süd sein Baugesuch am 17. Mai 2022 ab.
+3.
+Gegen
+die Teilverfügung des DBU vom 4. April 2022 und gegen den Entscheid der
+Gemeinde Glarus Süd vom 17. Mai 2022 erhob A.______ am 15. Juni 2022
+Beschwerde beim Regierungsrat des Kantons Glarus. Letzterer wies die
+Beschwerde am 6. Juni 2023 ab.
+4.
+4.1
+A.______ gelangte mit Beschwerde vom 10. Juli 2023 ans Verwaltungsgericht
+und beantragte die Aufhebung des Entscheids des Regierungsrats vom
+6. Juni 2023. Die Sache sei an die Gemeinde Glarus Süd bzw. an das DBU
+zurückzuweisen, damit diese das Baugesuch unter Berücksichtigung der Auflagen
+der kantonalen Amtsstellen und im Hinblick auf eine Überarbeitung des
+Baugesuchs bewilligten; unter Kosten- und Entschädigungsfolge zu Lasten des
+Regierungsrats. In prozessualer Hinsicht beantragte er die Einholung eines
+Amtsberichts beim kantonalen Amt für Landwirtschaft. Dieses solle beurteilen,
+ob der aktuell zur Verfügung stehende Wohnraum den Anforderungen an seinen Betrieb
+genüge.
+4.2
+Das DBU und der Regierungsrat schlossen am 8. August 2023 bzw. am
+30. August 2023 auf Abweisung der Beschwerde. Auf die Einholung eines
+Amtsberichts sei zu verzichten; unter Kostenfolge. Die Gemeinde Glarus Süd
+liess sich am 11. September 2023 vernehmen und beantragte ebenfalls die
+Abweisung der Beschwerde; unter Kostenfolge zu Lasten von A.______.
+4.3
+Am 13. September 2023 ersuchte das Verwaltungsgericht das Amt für
+Landwirtschaft des Kantons Glarus um Einreichung eines Amtsberichts, welcher
+am 6. Dezember 2023 erstattet wurde.
+4.4
+Der Regierungsrat verzichtete am 12. Dezember 2023 auf eine Stellungnahme zum
+Amtsbericht. Das DBU hielt am 19. Dezember 2023 an seinen Anträgen fest. Die
+Gemeinde Glarus Süd liess sich am 5. Januar 2024 vernehmen und erneuerte ihre
+Anträge. Der Beschwerdeführer reichte innert Frist keine Stellungnahme ein.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss
+Art. 79 Abs. 1 des Raumentwicklungs- und Baugesetzes vom
+2. Mai 2010 (RBG) i.V.m. Art. 105 Abs. 1 lit. a des
+Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986 (VRG) zur
+Behandlung der vorliegenden Beschwerde zuständig. Da auch die übrigen
+Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde einzutreten.
+1.2
+Gemäss Art. 107 Abs. 1 VRG können mit der
+Verwaltungsgerichtsbeschwerde die unrichtige oder unvollständige Feststellung
+des rechtserheblichen Sachverhalts (lit. a) sowie die unrichtige
+Rechtsanwendung einschliesslich eines Missbrauchs des Ermessens (lit. b)
+gerügt werden. Die Unangemessenheit des Entscheids kann gemäss
+abschliessender Aufzählung in Art. 107 Abs. 2 VRG nur ausnahmsweise geltend
+gemacht werden, wobei ein solcher Ausnahmefall nicht vorliegt.
+2.
+2.1
+Unbestritten und aktenkundig ist, dass der
+Beschwerdeführer einen Landwirtschaftsbetrieb mit einer Grösse von fast 39
+Hektaren bewirtschaftet. Er ist Meisterlandwirt und darf in dieser
+Eigenschaft Lehrlinge ausbilden. Gemäss dem vom Verwaltungsgericht
+eingeholten Bericht des Amts für Landwirtschaft vom 6. Dezember 2023 hält er
+auf seinem Betrieb 34 Mutterkühe, vier Stiere, 14 Rinder, 180 Legehennen
+und drei Pensionspferde, wobei ein Betrieb dieser Grösse 2.97 Standardarbeitskräften
+(SAK) entspricht. Sodann befindet sich das Wohnhaus des Beschwerdeführers
+aktuell in der Bauzone auf der Parz.-Nr. 03, Grundbuch […]. Es verfügt
+über ein Wohnzimmer mit Küche, ein Schlafzimmer, ein Kinderzimmer sowie ein
+Bad. Ferner hat der Beschwerdeführer eine fünfjährige Tochter, ist jedoch
+nicht verheiratet. Die Distanz zwischen dem Hauptstall auf der Parz.- Nr. 02,
+Grundbuch […], und dem Wohnhaus beträgt schliesslich etwa 350 m, wobei
+die Zufahrt zum Hauptstall über die […]gasse erfolgt.
+2.2
+Der Beschwerdeführer will ein Betriebsleiterhaus
+auf den in der Landwirtschaftszone gelegenen Parz.-Nrn. 01 und 02, Grundbuch
+[…], erstellen. Dabei beabsichtigt er den Bau eines zweistöckigen Holzhauses
+mit Giebeldach und einem massiven Sockelgeschoss. Im Untergeschoss ist eine
+Garage, ein Keller, ein Technikraum sowie eine Eierfabrik vorgesehen. Im
+Erdgeschoss soll ein Dusch- und Waschraum, ein separates Tages-WC, eine
+Garderobe, ein Wohn- und Esszimmer, ein separates Büro sowie eine Terrasse
+gebaut werden. Im Obergeschoss sind vier Zimmer sowie ein weiteres Bad
+geplant. Das Dachgeschoss soll derzeit noch nicht ausgebaut werden. Er, der
+Beschwerdeführer, möchte das Betriebsleiterhaus inskünftig mit seiner Familie
+bewohnen. Soweit er einen Lehrling ausbildet, soll dieser ebenfalls im
+Betriebsleiterhaus wohnen können. Das bereits bestehende Wohnhaus in der Bauzone
+soll dabei den Angestellten des Betriebs zur Verfügung stehen und als Stöckli
+für die Betriebsnachfolge dienen.
+2.3
+Die Beschwerdegegner 2 und 3 haben das Bauvorhaben
+insbesondere mit der Begründung nicht bewilligt, dass die vom
+Beschwerdeführer schwerpunktmässig betriebene Mutterkuhhaltung keine ständige
+Anwesenheit auf dem Betrieb erfordere. Darüber hinaus betrage der Arbeitsweg
+zwischen dem Wohnhaus und dem Betrieb weniger als einen Kilometer, was
+zumutbar sei. Des Weiteren sei die vom Beschwerdeführer vorgesehene
+personelle und familiäre Entwicklung des Betriebs vage, weshalb aktuell kein
+Bedarf nach zusätzlichem Wohnraum bestehe. Schliesslich sei das Bauvorhaben
+auch unter dem Blickwinkel der Gleichbehandlung im Unrecht nicht
+bewilligungsfähig. Die Beschwerdegegnerin 1 wies im Übrigen darauf hin,
+dass ihr betreffend Bauvorhaben ausserhalb der Bauzone keine
+Entscheidkompetenz zukomme.
+3.
+3.1
+Streitgegenstand bildet die Zonenkonformität des vom
+Beschwerdeführer geplanten Betriebsleiterwohnhauses. Hierbei ist zunächst auf
+seine Vorbringen hinsichtlich des fehlenden Wohnraums einzugehen.
+3.1.1
+Unbestrittenermassen verfügt der Beschwerdeführer
+in der Liegenschaft auf der Parz.-Nr. 03, Grundbuch […], gegenwärtig
+über genügend Wohnraum für sich und seine Tochter. Er beabsichtigt jedoch,
+inskünftig mit seiner Partnerin und weiteren Kindern zusammenzuleben. Vor
+diesem Hintergrund ist nicht in Abrede zu stellen, dass diesfalls womöglich
+ein Bedarf an zusätzlichem Wohnraum entstehen würde. Indessen ist die
+angestrebte Familienvergrösserung für die Beurteilung der
+Bewilligungsfähigkeit des geplanten Betriebsleiterwohnhauses unbeachtlich.
+Denn bei der Frage, ob eine geplante Baute den Bedürfnissen des Betriebs
+entspricht, ist primär auf die bestehenden Verhältnisse abzustellen. Künftige
+Bedürfnisse können zwar ebenfalls berücksichtigt werden. Diesfalls müssen sie
+aber mit einiger Sicherheit feststehen (vgl. BGer-Urteil 1C_647/2012 vom
+3. September 2014 E. 9, mit Hinweis). Die Entwicklung der familiären Verhältnisse
+in ferner Zukunft ist naturgemäß nicht mit der erforderlichen Sicherheit
+voraussehbar. Dementsprechend hat die vorgesehene Vergrösserung der Familie
+bei der Beurteilung des Bauprojekts unberücksichtigt zu bleiben. Dasselbe
+gilt für die Absicht des Beschwerdeführers, im Wohnhaus ein Stöckli für die
+abtretende Generation – mithin für sich selbst nach Erreichen des
+Pensionsalters – einzurichten. Dies nicht zuletzt weil der Beschwerdeführer
+erst 33 Jahre alt ist.
+3.1.2
+Sodann vermag der Umstand, dass der
+Beschwerdeführer inskünftig Lehrlinge ausbilden möchte, ebenfalls keinen
+Anspruch auf zusätzlichen Wohnraum zu begründen. Es besteht nämlich keine
+rechtliche Pflicht, Landwirtlehrlinge auf dem Betrieb oder im nahegelegenen
+Wohnhaus unterzubringen (vgl. auch das Merkblatt des landwirtschaftlichen
+Lehrbetriebverbunds Graubünden und Glarus zum vertraglichen Teil des
+Lehrverhältnisses, vom Januar 2024, S. 11). Vorliegend sind denn auch
+keine Umstände ersichtlich, die deren Unterbringung im Wohnhaus des Beschwerdeführers
+oder im geplanten Betriebsleiterhaus ausnahmsweise erfordern würden. Soweit
+Letzterer einen Lehrling ausbilden sollte, welcher nicht bereits in
+unmittelbarer Nähe des Landwirtschaftsbetriebs wohnt, ist davon auszugehen,
+dass im nahen Umkreis des Betriebs eine Unterkunft (beispielsweise in Form
+eines Zimmers bei einer Gastfamilie oder in einer Wohngemeinschaft) gefunden
+werden kann. Der B.______ "Im […]", in welchem sich das Wohnhaus
+des Beschwerdeführers befindet, liegt etwa 300 Meter, der Dorfkern von
+[…] etwa einen Kilometer, vom Hauptstall entfernt. Vor diesem Hintergrund ist
+festzuhalten, dass selbst ein Arbeitsweg von einem Kilometer, welcher
+aufgrund der hier vorliegenden topografischen Verhältnisse einer Fahrzeit mit
+dem Fahrrad von drei bis zehn Minuten oder einem Fußweg von 15 bis 20 Minuten
+entspricht, einem Auszubildenden zuzumuten ist.
+3.1.3
+Der Bedarf des Beschwerdeführers nach zusätzlichen
+Arbeitskräften wird bei einem SAK-Wert von 2.97 ferner nicht in Abrede
+gestellt. Soweit er allerdings vorsieht, Angestellte im frei gewordenen
+Wohnhaus unterzubringen, ist darauf hinzuweisen, dass diesen weder auf dem
+Betrieb noch in unmittelbarer Nähe des Betriebs zwingend Wohnraum
+bereitgestellt werden muss. Rechtsprechungsgemäss ist es ihnen nämlich
+zuzumuten, zwischen dem Hof und deren Wohnungen mit dem Auto oder dem Fahrrad
+hin- und herzupendeln, sofern die Wohnzone in einer Entfernung von 1,4
+bzw. 1,5 Kilometer liegt (BGer-Urteil 1C_631/2021, 1C_639/2021 vom
+16. Oktober 2023 E. 5.4). Zumutbar ist überdies auch ein Fussmarsch
+von 20 bis 30 Minuten, um an den Betriebsstandort zu gelangen
+(BGE 121 II 67 E. 3a, mit Hinweis). Vorliegend befindet
+sich die nächstgelegene Wohnzone, wie bereits dargelegt, lediglich etwa
+300 Meter und der Dorfkern von […] etwa einen Kilometer vom Hauptstall
+entfernt. Preiswerte Wohngelegenheiten sind dabei im und um den Dorfkern von
+[…] und damit in zumutbarer Distanz genügend vorhanden (vgl. bspw. die
+Inserate auf der Immobilienplattform "Homegate"). Folglich ist auch
+mit Blick auf die Anstellung von Mitarbeitern kein zusätzlicher Wohnraum
+erforderlich.
+3.1.4
+Als Zwischenfazit ist festzuhalten, dass der
+Beschwerdeführer derzeit über ausreichend Wohnraum verfügt, weshalb das
+Bauvorhaben unter dem Blickwinkel der Notwendigkeit von zusätzlichem Wohnraum
+nicht weiter zu prüfen ist. Daran vermögen auch die Schlussfolgerungen des
+Amts für Landwirtschaft im Amtsbericht vom 6. Dezember 2023, wonach der
+Beschwerdeführer sowohl für seine Familie als auch für Lehrlinge und Angestellte
+zusätzlichen Wohnraum benötige, nichts zu ändern. Denn bei der Beurteilung,
+ob unter den gegebenen Umständen ein Bedarf an zusätzlichem Wohnraum besteht,
+handelt es sich grundsätzlich um eine Rechtsfrage, die das Gericht frei
+überprüfen kann. Insofern ist das Verwaltungsgericht nicht an die
+Ausführungen des Amts für Landwirtschaft gebunden.
+3.2
+Es bleibt damit zu beurteilen, ob sich das
+streitbetroffene Bauvorhaben wegen einer Vereinfachung der Arbeitsabläufe
+oder wegen einer verkürzten Distanz zwischen Wohnhaus und Betrieb als
+zonenkonform qualifizieren lässt.
+3.2.1
+Die seit dem 1. September 2000 in Kraft stehenden
+Regelungen zur Zonenkonformität von Wohnbauten in der Landwirtschaftszone
+gemäss Art. 16a Abs. 1 des Bundesgesetzes über die Raumplanung vom 22.
+Juni 1979 (RPG) sowie Art. 34 Abs. 3 der Raumplanungsverordnung vom 28.
+Juni 2000 (RPV) knüpfen an die bundesgerichtliche Rechtsprechung an, wonach
+Wohnraum in der Landwirtschaftszone nur dann zonenkonform ist, wenn er in
+einer unmittelbaren funktionellen Beziehung zu einem Landwirtschaftsbetrieb
+steht und für die bodenabhängige Nutzung des Landes unentbehrlich erscheint.
+Dies ist dann der Fall, wenn für die zonenkonforme Bewirtschaftung des Bodens
+eine lange Anwesenheit vor Ort erforderlich ist und die nächstgelegene
+Wohnzone weit entfernt liegt. Das Recht, ausserhalb der Bauzone zu wohnen,
+ist einem relativ engen Personenkreis vorbehalten. Hierzu zählen nur Leute,
+die als Betriebsinhaber oder als Hilfskraft unmittelbar in der Landwirtschaft
+tätig sind, sowie ihre Familienangehörigen und die abtretende Generation, die
+ein Leben lang in der Landwirtschaft tätig war. Im Interesse, die
+Zersiedelung des Landes zu verhindern, stellt die Rechtsprechung an die
+Zonenkonformität von Wohnraum in der Landwirtschaftszone strenge
+Anforderungen und bejaht sie nur zurückhaltend. Die Unentbehrlichkeit von
+Wohnraum beurteilt sich allein nach objektiven Kriterien. Subjektive
+Vorstellungen und Wünsche sind ebenso wenig massgebend wie die persönliche
+Zweckmässigkeit und Bequemlichkeit (BGer-Urteil 1C_227/2014 vom 11. Mai
+2016 E. 3.1 f., mit Hinweisen). Hinzuweisen bleibt schliesslich
+darauf, dass der Ständerat diesbezügliche Lockerungen der
+raumplanungsrechtlichen Vorschriften in der Sommersession 2022 deutlich
+abgelehnt hat (vgl. Antrag von Ständerat Peter Hegglin auf eine Änderung von
+Art. 16a RPG bei der Beratung der RPG 2-Revision, AB 2022
+S. 473 ff., ferner die Motion Nr. 15.3397 von Nationalrat Leo
+Müller "Landwirtschaftliche Tierhalter müssen beim Stall wohnen
+dürfen" vom 24. September 2015, vom Ständerat abgelehnt am
+16. Juni 2022 [AB 2022 S. 619 f.]). Entsprechend sind
+solche gesetzgeberischen Lockerungen nicht zeitnah zu erwarten.
+3.2.2
+Das Bundesgericht hatte den Wohnbedarf im
+Zusammenhang mit der Haltung von Grossvieh bereits mehrfach zu prüfen. In
+einem Fall betreffend ein Bauermittlungsgesuch, wo das bisherige, in der
+Bauzone gelegene Wohnhaus je nach Projekt 250 bzw. 500 Meter vom
+neu zu erstellenden Ökonomiegebäude entfernt lag und keine Sichtverbindung
+bestand, verneinte es die Erforderlichkeit von Wohnraum in der
+Landwirtschaftszone. Es hielt insbesondere fest, die vom Bauherrn ins Auge
+gefasste Milch- und Muttertierhaltung sowie Schweinemast und -zucht könnten
+bei solch kurzen Anfahrtswegen auch von der Bauzone aus wirksam überwacht
+werden (BGer-Urteil 1A.120/1998 vom 21. Juni 1999 E. 2, mit
+Hinweisen). Verneint wurde die Zonenkonformität sodann bei einer Distanz von
+1.2 Kilometern zwischen Wohnort und Hof, wobei der Viehbestand zwischen
+14 und 20 Grossvieheinheiten betrug und zusätzlich die unmittelbare Nähe
+von 50 Metern zur Bauzone berücksichtigt wurde (BGer-Urteil 1C_169/2012
+vom 19. März 2013 E. 5.2). Ebenfalls verneint wurde die
+Zonenkonformität bei einer Distanz von 450 Metern zwischen dem
+bestehenden Wohnhaus und dem Ökonomiegebäude bei einem Betrieb mit
+Mutterkuhhaltung. Das Bundesgericht hielt fest, bei einem derart kurzen
+Anfahrtsweg sei eine wirksame Überwachung des Betriebs ohne nennenswerten
+Zeitverlust auch von der Bauzone aus möglich. Die Anzahl der notwendigen
+Kontrollgänge lasse sich allenfalls mit technischen Überwachungseinrichtungen
+mit geringem Aufwand vermindern (BGer-Urteil 1C_67/2007 vom
+20. September 2007 E. 3.4, mit Hinweisen, vgl. zum Ganzen:
+BGer-Urteil 1C_227/2014 vom 11. Mai 2016 E. 3.4). Verneint wurde die
+Zonenkonformität weiter in einem Fall, in welchem das neue
+Betriebsleiterwohnhaus eines Milchwirtschaftsbetriebs mit 51 Milchkühen,
+32 Mastkälbern und acht Aufzuchtrindern etwa 450 Meter vom bereits
+bestehenden Wohnhaus erstellt werden sollte. Das Bundesgericht erwog, die
+Strassen seien gut und wiesen wenig Gefälle auf. Gehe man für die Dauer der
+Velofahrt zwischen bestehendem Wohnhaus und Stall von zwei bis drei Minuten
+sowie im Normalfall von vier Hin- und Rückfahrten pro Tag aus, so nähmen die
+Transfers mit dem Fahrrad gesamthaft 16 bis 24 Minuten in Anspruch, mit dem
+Auto noch weniger. Dies erscheine zumutbar, auch bei einer Sieben-Tage-Woche
+und langen Arbeitstagen. Abermals wies das Bundesgericht schliesslich darauf
+hin, dass die aufgrund der Distanz erschwerte Überwachung mit technischen
+Einrichtungen (Kameras und Mikrofone) teilweise kompensiert werden könne.
+Ausserdem sei es dem Betriebsleiter unbenommen, im Stallgebäude einen
+Ruheraum einzurichten, um ermüdende nächtliche Transfers in besonderen
+Situationen zu vermeiden, etwa wenn Kühe krank seien oder kalbten
+(BGer-Urteil 1C_227/2014 vom 11. Mai 2016 E. 4.5).
+3.2.3
+Der Beschwerdeführer betreibt primär
+Mutterkuhhaltung mit aktuell 34 Kühen. Daneben hält er 14 Rinder, vier
+Stiere, 180 Legehennen und drei Pensionspferde. Die Distanz zwischen dem
+Wohnhaus und dem Betrieb beträgt etwa 350 Meter. Mit dem Auto ist der Betrieb
+dementsprechend in weniger als einer Minute erreichbar. Zu Fuss ist mit etwa
+fünf Minuten zu rechnen (vgl. Google Maps). Vor diesem Hintergrund und mit
+Blick auf die oben zitierte Rechtsprechung liegt damit keine Notwendigkeit
+eines Betriebsleiterwohnhauses in der Landwirtschaftszone vor. So ist
+insbesondere auf das höchstrichterliche Urteil zu verweisen, wonach auf einem
+Betrieb mit 51 Milchkühen, 32 Mastkälbern und acht Aufzuchtrindern
+keine dauernde Anwesenheit erforderlich und ein Arbeitsweg von etwa
+450 Meter zumutbar sei. Der Arbeitsweg des Beschwerdeführers ist
+demgegenüber um rund 100 Meter kürzer und sein Tierbestand wesentlich
+geringer. Folglich bedarf auch der Betrieb des Beschwerdeführers
+grundsätzlich keiner dauernden Anwesenheit und sein Arbeitsweg von etwa 350
+Meter mit dem Auto, dem Fahrrad oder zu Fuss ist ihm zuzumuten. Besondere
+Umstände, welche vorliegend ausnahmsweise eine fortgesetzte bzw. dauernde
+Überwachung begründen oder den Arbeitsweg als unzumutbar erscheinen lassen
+würden, ergeben sich weder aus dem eingeholten Bericht des Amts für
+Landwirtschaft noch vermag der Beschwerdeführer solche aufzuzeigen.
+Dementsprechend kann er seinen Betrieb ohne nennenswerten Zeitverlust von der
+Bauzone aus bewirtschaften und unter Zuhilfenahme technischer Einrichtungen
+sowie allenfalls mittels eines installierten Ruheraums überwachen.
+3.2.4
+Am soeben Dargelegten vermag der Umstand, dass der
+Beschwerdeführer zusätzlich ungefähr 180 Legehennen hält, nichts zu ändern,
+zumal die Haltung von Legehennen nicht besonders arbeits- und
+überwachungsintensiv ist. Ebenso wenig kann die Problematik im Zusammenhang
+mit der Eierverarbeitung entscheidrelevant sein. So sind Unzulänglichkeiten
+bei der Produkteverarbeitung bzw. -verpackung aufgrund ungünstiger räumlicher
+Verhältnisse bei der Beurteilung der Erstellung von Wohnraum in der
+Landwirtschaftszone nämlich irrelevant (vgl. Art. 34 Abs. 2
+RPV). Sodann ist der Umstand, dass der Beschwerdeführer drei Pensionspferde
+hält, ebenfalls bei der vorliegenden Beurteilung unbeachtlich. Art. 34b
+Abs. 5 RPV hält hierzu nämlich fest, dass im Zusammenhang mit der Haltung
+und Nutzung von Pferden die Errichtung neuer Wohnbauten nicht zulässig ist.
+Soweit schliesslich sowohl das Amt für Landwirtschaft als auch der
+Beschwerdeführer die Notwendigkeit eines Betriebsleiterwohnhauses mit einer
+persönlichen Zweckmässigkeit und Bequemlichkeit begründen wollen, ist darauf
+hinzuweisen, dass derartige Vorbringen nicht zu berücksichtigen sind
+(vgl. vorstehende E. II/3.2.1). Im Ergebnis erweist sich das
+Bauvorhaben des Beschwerdeführers mit Blick auf Art. 16a Abs. 1 RPG
+und Art. 34 Abs. 3 RPV somit als nicht zonenkonform.
+4.
+4.1
+Der
+Grundsatz der Gesetzmässigkeit der Verwaltung geht der Rücksichtnahme auf die
+gleichmässige Rechtsanwendung in der Regel vor. Der Umstand, dass das Gesetz
+in anderen Fällen nicht oder nicht richtig angewendet worden ist, gibt den
+Bürgern grundsätzlich keinen Anspruch darauf, ebenfalls abweichend vom Gesetz
+behandelt zu werden. Ausnahmsweise und unter strengen Bedingungen wird im
+Rahmen des verfassungsmässig verbürgten Gleichheitssatzes jedoch ein Anspruch
+auf Gleichbehandlung im Unrecht anerkannt. Gleichbehandlung im Unrecht setzt
+dabei voraus, dass die zu beurteilenden Fälle in den tatbestandserheblichen
+Sachverhaltselementen übereinstimmen und dieselbe Behörde in ständiger Praxis
+vom Gesetz abweicht. Eine falsche Rechtsanwendung in einem einzigen Fall oder
+in einigen wenigen Fällen begründet keinen Anspruch, seinerseits ebenfalls
+abweichend von der Norm behandelt zu werden. Zudem muss die zuständige
+Behörde ausdrücklich zu erkennen geben, auch inskünftig nicht gesetzeskonform
+entscheiden zu wollen. Nur wenn eine Behörde nicht gewillt ist, eine bewusst
+geübte rechtswidrige Praxis aufzugeben, kann das Interesse an der
+Gleichbehandlung der Betroffenen dasjenige an der Gesetzmässigkeit
+überwiegen. Schliesslich dürfen einer Gleichbehandlung im Unrecht keine
+überwiegenden Gesetzmässigkeitsinteressen oder Interessen Dritter
+entgegenstehen (BGer-Urteil 1C_444/2014 vom 27. Januar 2015 E. 4.2,
+mit Hinweisen).
+4.2
+Es kann offen bleiben, ob die vom Beschwerdeführer
+angeführten Baubewilligungsverfahren überhaupt mit dem vorliegenden Fall
+vergleichbar sind. Denn der Beschwerdegegner 2 anerkennt, dass die
+Baubewilligungserteilung in zwei Fällen rechtsfehlerhaft war. Damit mangelt
+es für einen Anspruch auf Gleichbehandlung im Unrecht bereits an der
+Voraussetzung, dass die zuständige Behörde ausdrücklich zu erkennen gegeben
+hat, auch inskünftig nicht gesetzeskonform entscheiden zu wollen. Vor diesem
+Hintergrund und mit Blick auf das oben Dargelegte (vgl. vorstehende E. II/4.1)
+besteht vorliegend somit kein Anspruch auf Gleichbehandlung im Unrecht.
+5.
+Zusammenfassend
+präsentiert sich die streitbetroffene Errichtung eines
+Betriebsleiterwohnhauses auf den in der Landwirtschaftszone gelegenen Parz.- Nrn. 01
+und 02, Grundbuch […], als nicht zonenkonform. Zum einen besteht mit Blick
+auf die familiären Verhältnisse des Beschwerdeführers kein aktueller Bedarf
+an zusätzlichem Wohnraum. Zum anderen muss Auszubildenden und Angestellten
+weder auf dem Betrieb noch in dessen unmittelbarer Nähe Wohnraum
+bereitgestellt werden. Schliesslich ist vorliegend weder eine ständige
+Anwesenheit auf dem Betrieb erforderlich, noch erweist sich der Arbeitsweg
+als übermässig lang oder beschwerlich. Die Beschwerdegegner haben demgemäss
+kein Recht verletzt, indem sie das Bauprojekt des Beschwerdeführers nicht
+bewilligt haben.
+Dies führt zur Abweisung
+der Beschwerde.
+III.
+Nach
+Art. 134 Abs. 1 lit. c VRG hat die Partei, welche im
+Beschwerde-, Klage- oder Revisionsverfahren unterliegt, die amtlichen Kosten
+zu tragen. Die Gerichtskosten von pauschal Fr. 2
+'
+500.- sind
+demnach dem unterliegenden Beschwerdeführer aufzuerlegen und mit dem von ihm
+bereits geleisteten Kostenvorschuss zu verrechnen. Eine Parteientschädigung
+steht ihm mangels Obsiegens nicht zu (Art. 138 Abs. 3 lit. a
+VRG e contrario).
+Demgemäss erkennt die Kammer:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Die
+Gerichtskosten von Fr. 2
+'
+500.- werden dem Beschwerdeführer auferlegt und
+mit dem von ihm bereits geleisteten Kostenvorschuss in gleicher Höhe
+verrechnet.
+3.
+Eine
+Parteientschädigung wird nicht zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
