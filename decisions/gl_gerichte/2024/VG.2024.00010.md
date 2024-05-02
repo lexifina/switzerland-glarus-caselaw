@@ -1,0 +1,571 @@
+---
+decision_id: "gl_gerichte_VG.2024.00010"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2024.00010"
+docket_2: "VG.2024.1350"
+decided: "2024-05-02"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1818&W10_KEY=232154&nTrefferzeile=9&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-004.md", "switzerland/bund/acts/830.1/art-006.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/832.20/art-001.md", "switzerland/bund/acts/832.20/art-006.md", "switzerland/bund/acts/832.20/art-010.md", "switzerland/bund/acts/832.20/art-016.md"]
+---
+
+# GL Gerichte VG.2024.00010
+
+## Regeste
+
+Sozialversicherung - Unfallversicherung
+
+## Text
+
+Glarus Verwaltungsgericht 02.05.2024 VG.2024.00010 (VG.2024.1350)
+Glaris Verwaltungsgericht 02.05.2024 VG.2024.00010 (VG.2024.1350)
+Glarona Verwaltungsgericht 02.05.2024 VG.2024.00010 (VG.2024.1350)
+
+Sozialversicherung - Unfallversicherung
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+2. Mai 2024
+II. Kammer
+Besetzung:
+Gerichtspräsident MLaw Colin Braun, Verwaltungsrichter Samuel Bisig,
+Verwaltungsrichter Fritz Jnglin und Gerichtsschreiberin i.V. MLaw Noëlle
+Ulrich
+in Sachen
+VG.2024.00010
+A.______
+Beschwerdeführer
+vertreten durch
+Prof.
+Dr.
+Hardy
+Landolt,
+Rechtsanwalt,
+gegen
+Schweizerische Unfallversicherungsanstalt
+(Suva)
+Beschwerdegegnerin
+betreffend
+UVG-Leistungen
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Der am […] geborene A.______ arbeitete seit dem
+1. August 2018 in einem Vollzeitpensum bei der B.______AG und war
+dadurch bei der Suva gegen die Folgen von Berufs- und Nichtberufsunfällen
+versichert. Am 18. April 2019 erlitt er einen Unfall, bei welchem ihm ein
+Bagger über den Fuss fuhr.
+1.2
+Noch am Unfalltag begab sich A.______ erstmals in
+ärztliche Behandlung, anlässlich welcher er vollständig arbeitsunfähig
+geschrieben wurde. Die Suva teilte ihm am 25. April 2019 mit, dass sie die
+Versicherungsleistungen für die Folgen des Berufsunfalls vom 18. April 2019
+übernehme. In der Folge kam sie für die Heilbehandlung auf und leistete
+Taggeldzahlungen.
+1.3
+Nachdem die Suva die Übernahme der
+Heilbehandlungskosten und der Taggeldleistungen eingestellt hatte, teilte sie
+A.______ am 16. Mai 2023 mit, dass die psychischerseits erbrachten
+Versicherungsleistungen ebenfalls eingestellt würden. Eine dagegen erhobene
+Einsprache wies sie am 3. Januar 2024 ab.
+2.
+Am 1. Februar 2024
+gelangte A.______ mit Beschwerde ans Verwaltungsgericht und beantrage die
+Aufhebung des Einspracheentscheids der Suva vom 3. Januar 2024. Es sei
+festzustellen, dass Letztere über den 16. Mai 2023 hinaus für die psychischen
+Beschwerden leistungspflichtig sei. Eventualiter sei die Angelegenheit an die
+Vorinstanz zurückzuweisen; unter Kosten- und Entschädigungsfolge zu Lasten
+der Suva. Die Suva schloss am 5. März 2024 auf Abweisung der Beschwerde.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 1 Abs. 1 des
+Bundesgesetzes über die Unfallversicherung vom 20. März 1981 (UVG) i.V.m.
+Art. 56 ff. des Bundesgesetzes über den Allgemeinen Teil des
+Sozialversicherungsrecht vom 6. Oktober 2000 (ATSG) i.V.m. Art. 1
+des Einführungsgesetzes zum Bundesgesetz über die Unfallversicherung vom 3.
+Mai 2009 (EG UVG) zur Behandlung der vorliegenden Beschwerde zuständig. Da
+auch die übrigen Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde
+grundsätzlich einzutreten (vgl. aber nachstehende E. II/1.2).
+1.2
+Nicht einzutreten ist indessen auf das Begehren des
+Beschwerdeführers, wonach festzustellen sei, dass die Beschwerdegegnerin über
+den 16. Mai 2023 hinaus weiterhin für die psychischen Beschwerden
+leistungspflichtig sei. Das Verwaltungsgericht kann die Beschwerdegegnerin
+nämlich direkt dazu verpflichten, die Leistungen zu vergüten. Wenn die
+Beschwerde führende Partei – wie vorliegend – ein Gestaltungsurteil erwirken
+kann, besteht kein Feststellungsinteresse. In diesem Sinne ist der
+Feststellungsanspruch subsidiär (VGer-Urteil VG.2019.00033 vom 23. Mai
+2019 E. II/1.2, VG.2018.00124 vom 25. April 2019 E. II/1.3,
+VG.2018.00065 vom 13. September 2018 E. II/1.2).
+2.
+2.1
+Der Beschwerdeführer vertritt die Auffassung, die
+Beschwerdegegnerin sei auch nach dem 16. Mai 2023 für die psychischen
+Beschwerden leistungspflichtig. Es sei nicht nachvollziehbar, weshalb dies
+nach diesem Zeitpunkt nicht mehr der Fall sein solle, zumal die
+Beschwerdegegnerin für die psychischen Beschwerden bis dahin vorbehaltlos
+Leistungen erbracht habe. Sodann stelle die Beschwerdegegnerin nicht die
+Existenz der psychischen Beschwerden, sondern bloss deren Zurechnung zum
+Unfallereignis in Frage, weshalb sie die Psychopraxis des Bundesgerichts
+(BGE 115 V 133) angewendet habe. Diese komme jedoch lediglich
+in Fällen zur Anwendung, in welchen ausschliesslich oder hauptsächlich
+psychische Beschwerden vorhanden seien. Vorliegend bestehe aber ein
+wechselseitiges Verhältnis zwischen physischen und psychischen Beschwerden,
+weshalb die Kausalität anhand der allgemeinen Adäquanzformel zu beurteilen
+sei. Ferner sei selbst nach Auffassung der behandelnden Psychologin
+nachvollziehbar, dass unfallbedingt dauerhaft erhebliche Schmerzen zur
+psychischen Dekompensation führen könnten. Schliesslich sei nicht plausibel,
+weshalb die erhebliche Beinverletzung als maximal mittelschwer zu
+qualifizieren sei und lediglich ein erschwerender Umstand vorliegen solle.
+2.2
+Die Beschwerdegegnerin stellt sich auf den
+Standpunkt, entgegen der Ansicht des Beschwerdeführers sei bei Erreichen des
+medizinischen Endzustands die Adäquanzprüfung durchzuführen. Da sie, die
+Beschwerdegegnerin, bis zu diesem Zeitpunkt leistungspflichtig sei, entfalle
+bis dahin eine Unterscheidung zwischen physischen und psychischen
+Beschwerden. Die Frage nach der generellen Eignung eines Unfallereignisses,
+eine psychisch bedingte Arbeits- bzw. Erwerbsunfähigkeit zu bewirken, sei
+unter Würdigung der Gesamtheit der Umstände vor und nach dem Unfall zu
+beurteilen. Das Bundesgericht habe hierfür Adäquanzkriterien erarbeitet,
+welche nach wie vor anwendbar seien. Sodann sei die von der behandelnden
+Psychologin vorgenommene Adäquanzprüfung nicht weiter beachtlich, da der
+adäquate Kausalzusammenhang eine Rechtsfrage sei, deren Beantwortung dem
+Gericht obliege. Des Weiteren sei die Frage, ob die Begleitumstände besonders
+dramatisch gewesen seien oder eine besondere Eindrücklichkeit des Ereignisses
+vorliege, aus objektiver Sicht und nicht aufgrund des subjektiven Empfindens
+der versicherten Person zu würdigen. Vorliegend seien sowohl die besonders
+dramatischen Begleitumstände als auch eine besondere Eindrücklichkeit des
+Unfalls zu verneinen.
+3.
+3.1
+3.1.1
+Soweit das UVG nichts anderes bestimmt, werden die
+Versicherungsleistungen bei Berufsunfällen, Nichtberufsunfällen und
+Berufskrankheiten gewährt (Art. 6 Abs. 1 UVG). Als Unfall gilt
+gemäss Art. 4 ATSG die plötzliche, nicht beabsichtigte schädigende
+Einwirkung eines ungewöhnlichen äusseren Faktors auf den menschlichen Körper,
+die eine Beeinträchtigung der körperlichen, geistigen oder psychischen
+Gesundheit oder den Tod zur Folge hat.
+3.1.2
+Der Versicherte hat gemäss Art. 10 Abs. 1 UVG
+Anspruch auf die zweckmässige Behandlung seiner Unfallfolgen. Ist er infolge
+des Unfalls voll oder teilweise arbeitsunfähig (Art. 6 ATSG), so hat er
+gemäss Art. 16 Abs. 1 UVG Anspruch auf ein Taggeld. Der Anspruch
+auf ein Taggeld entsteht am dritten Tag nach dem Unfalltag. Er erlischt mit
+der Wiedererlangung der vollen Arbeitsfähigkeit, mit dem Beginn einer Rente
+oder mit dem Tod des Versicherten (Art. 16 Abs. 2 UVG).
+3.2
+3.2.1
+Die Leistungspflicht des Unfallversicherers setzt
+gemäss Art. 6 Abs. 1 UVG voraus, dass zwischen dem Unfallereignis
+und dem eingetretenen Schaden ein natürlicher Kausalzusammenhang besteht.
+Ursachen im Sinne des natürlichen Kausalzusammenhangs sind alle Umstände,
+ohne deren Vorhandensein der eingetretene Erfolg nicht als eingetreten oder
+nicht als in der gleichen Weise bzw. nicht zur gleichen Zeit eingetreten
+gedacht werden kann. Entsprechend dieser Umschreibung ist für die Bejahung
+des natürlichen Kausalzusammenhangs nicht erforderlich, dass ein Unfall die
+alleinige und unmittelbare Ursache gesundheitlicher Störung ist; es genügt,
+dass das schädigende Ereignis zusammen mit anderen Bedingungen die
+körperliche oder geistige Integrität der versicherten Person beeinträchtigt
+hat, der Unfall mit anderen Worten nicht hinweggedacht werden kann, ohne dass
+auch die eingetretene gesundheitliche Störung entfiele. Ob zwischen einem
+schädigenden Ereignis und einer gesundheitlichen Störung ein natürlicher
+Kausalzusammenhang besteht, ist eine Tatfrage, worüber die Verwaltung bzw. im
+Beschwerdefall das Gericht im Rahmen der ihm obliegenden Beweiswürdigung nach
+dem im Sozialversicherungsrecht üblichen Beweisgrad der überwiegenden
+Wahrscheinlichkeit zu befinden hat. Die blosse Möglichkeit eines
+Zusammenhangs genügt für die Begründung eines Leistungsanspruchs nicht
+(BGE 129 V 177 E. 3.1, 117 V 359 E. 4a).
+Es ist daher unerlässlich, dass die geklagten Beschwerden nicht leichthin den
+von der versicherten Person subjektiv umschriebenen Leiden entsprechen,
+sondern medizinisch einer fassbaren gesundheitlichen Beeinträchtigung
+zugeschrieben werden können und diese Gesundheitsschädigung mit überwiegender
+Wahrscheinlichkeit in einem ursächlichen Zusammenhang mit dem versicherten
+Unfallereignis steht (BGE 119 V 335 E. 2b f.).
+Entscheidend ist dabei die Würdigung der in den Akten liegenden medizinischen
+Berichte, wobei das Gericht bei der Beurteilung des natürlichen
+Kausalzusammenhangs nicht ohne zwingenden Grund von der Einschätzung der
+medizinischen Experten abweicht (BGE 118 V 286 E. 1b).
+3.2.2
+Die Leistungspflicht der Unfallversicherung setzt im
+Weiteren voraus, dass zwischen dem Unfall und der Gesundheitsschädigung ein
+adäquater Kausalzusammenhang besteht. Ein Ereignis hat dann als adäquate
+Ursache eines Erfolgs zu gelten, wenn es nach dem gewöhnlichen Lauf der Dinge
+und nach der allgemeinen Lebenserfahrung an sich geeignet ist, einen Erfolg
+von der Art des eingetretenen herbeizuführen, der Eintritt dieses Erfolgs
+also durch das Ereignis allgemein als begünstigt erscheint
+(BGE 142 III 433 E. 4.5,
+129 V 177 E. 3.2, je mit Hinweisen). Die Adäquanz spielt
+im Bereich organisch objektiv ausgewiesener Unfallfolgen praktisch keine
+Rolle, da sich hier die adäquate weitgehend mit der natürlichen Kausalität
+deckt (Alexandra Rumo-Jungo/André Pierre Holzer, Rechtsprechung des
+Bundesgerichts zum Sozialversicherungsrecht, UVG, 4. A., Zürich/Basel/Genf
+2012, S. 58 f.). Als objektivierbar gelten Untersuchungsergebnisse,
+die reproduzierbar und von der Person des Untersuchenden und den Angaben des
+Patienten unabhängig sind. Nach ständiger Rechtsprechung des Bundesgerichts
+kann von organisch objektiv ausgewiesenen Unfallfolgen erst dann gesprochen
+werden, wenn die erhobenen Befunde mit apparativen/bildgebenden Abklärungen
+bestätigt werden (vgl. etwa BGE 138 V 248 E. 5.1).
+3.2.3
+Liegen organisch nicht objektiv ausgewiesene
+Beschwerden vor, wird die Adäquanz nach der Psychopraxis (BGE 115 V 133)
+geprüft, sofern nicht die Rechtsprechung zum Schleudertrauma (BGE 134 V 109)
+Anwendung findet (Irene Hofer, in Ghislaine Frésard-Fellay/Susanne
+Leuzinger/Kurt Pärli
+[Hrsg.], Basler
+Kommentar, Unfallversicherungsgesetz, Basel 2019, Art. 6 N. 82).
+Ein adäquater Kausalzusammenhang ist demgemäss dann
+zu bejahen, wenn dem Unfall eine massgebende Bedeutung für die Entstehung der
+Beschwerden zukommt. In objektiver Betrachtungsweise werden die Unfälle nach
+ihrer erfahrungsgemässen Eignung, psychische Beschwerden zu bewirken,
+eingeteilt in banale und leichte Unfälle einerseits, schwere Unfälle
+andererseits sowie in dazwischen liegende mittelschwere Unfälle
+(BGE 115 V 133 E. 6). Letztere werden darüber hinaus
+weiter unterteilt in mittelschwer im Bereich zu leicht, mittelschwer im
+engeren Sinne sowie mittelschwer im Bereich zu schwer
+(vgl. BGE 140 V 356 E. 5.1). Bei banalen Unfällen
+und bei leichten Unfällen kann der adäquate Kausalzusammenhang zwischen
+Unfall und psychischer Gesundheitsstörung in der Regel ohne Weiteres verneint
+werden. Bei schweren Unfällen ist der adäquate Kausalzusammenhang zwischen
+einem Unfall und der psychischen Beeinträchtigung in der Regel zu bejahen
+(BGE 115 V 133 E. 6a). Die mittelschweren Unfälle
+umfassen jene Ereignisse, welche weder den banalen noch den schweren Unfällen
+zugeordnet werden können.
+3.2.4
+Die Frage, ob zwischen einem Unfall und der
+psychischen Beeinträchtigung ein adäquater Kausalzusammenhang besteht, lässt
+sich nicht aufgrund des Unfalls allein schlüssig beantworten. Es sind daher
+weitere, objektiv erfassbare Umstände, welche unmittelbar mit dem Unfall im
+Zusammenhang stehen oder als direkte bzw. indirekte Folge davon
+erscheinen, in eine Gesamtwürdigung einzubeziehen. Solche Umstände können als
+Beurteilungskriterien dienen, weil sie ihrerseits nach dem gewöhnlichen Lauf
+der Dinge und der allgemeinen Lebenserfahrung geeignet sind, in Verbindung
+mit dem Unfall zu einer psychisch bedingten Beeinträchtigung zu führen oder
+diese zu verstärken. Als wichtigste Kriterien sind besonders dramatische
+Begleitumstände oder eine besondere Eindrücklichkeit des Unfalls; die Schwere
+oder besondere Art der erlittenen Verletzungen, insbesondere ihre
+erfahrungsgemässe Eignung, psychische Fehlentwicklungen auszulösen; fortgesetzt
+spezifische, belastende ärztliche Behandlung; erhebliche Beschwerden; eine
+ärztliche Fehlbehandlung, welche die Unfallfolgen erheblich verschlimmert;
+ein schwieriger Heilungsverlauf; sowie erhebliche Komplikationen und
+erhebliche Arbeitsunfähigkeit trotz ausgewiesener Anstrengung zu nennen (BGE
+115 V 133 E. 6c/aa, 134 V 109 E. 10.2 ff.). Die
+Adäquanzkriterien nach BGE 115 V 133 werde nur aufgrund der
+organischen Unfallfolgen, unter Ausschluss psychischer Aspekte oder als
+körperlich imponierend, organisch jedoch nicht hinreichend erklärbarer
+Beschwerden geprüft (Hofer,
+Art. 6
+N. 90). Soweit ein mittelschwerer Unfall im Bereich zu einem leichten
+vorliegt, müssen entweder mindestens vier der vorstehend erwähnten Kriterien
+erfüllt sein oder es muss eines der Kriterien in besonders ausgeprägter Form
+vorliegen, um die Adäquanz zwischen dem Unfall und der psychischen Erkrankung
+zu bejahen. Bei mittelschweren Unfällen im engeren Sinne müssen entweder drei
+der massgeblichen Kriterien oder es muss eines der Kriterien ausgeprägt
+erfüllt sein (BGer-Urteil 8C_899/2013 vom 15. Mai 2014 E. 5.1, mit
+Hinweisen). Bei mittelschweren im Bereich zu den schweren Unfällen liegt ein
+adäquater Kausalzusammenhang dann vor, wenn ein einzelnes Kriterium erfüllt
+ist (BGE 115 V 133 E. 6c/bb). Massgebend für die
+Beurteilung der Unfallschwere ist der augenfällige Geschehensablauf mit den
+sich dabei entwickelnden Kräften, nicht jedoch die Folgen des Unfalls oder
+Begleitumstände, die nicht direkt dem Unfallgeschehen zugeordnet werden
+können (BGE 148 V 301 E. 4.3.1, mit Hinweisen).
+3.3
+3.3.1
+Für die Beurteilung des Gesundheitszustands und der
+rechtlichen Folgen sind Versicherungsträger und Gerichte auf Angaben
+ärztlicher Experten angewiesen. Die Aufgabe dieser Experten ist es, sämtliche
+Auswirkungen einer Krankheit oder eines Unfalls auf den Gesundheitszustand
+des Versicherten zu beurteilen und zu umschreiben, welche Tätigkeiten ihm
+noch zumutbar sind und inwiefern er in seiner körperlichen und geistigen
+Integrität beeinträchtigt ist. Diese Angaben bilden die ausschlaggebenden
+Beweismittel. Nach dem für das gesamte Verwaltungs- und
+Verwaltungsgerichtsbeschwerdeverfahren geltenden Grundsatz der freien
+Beweiswürdigung haben Versicherungsträger und Sozialversicherungsgerichte die
+Beweise frei, d.h. ohne Bindung an förmliche Beweisregeln, sowie
+umfassend und pflichtgemäss zu würdigen. Für das Beschwerdeverfahren bedeutet
+dies, dass das Gericht alle Beweismittel, unabhängig davon, von wem sie
+stammen, objektiv zu prüfen und danach zu entscheiden hat, ob die verfügbaren
+Unterlagen eine zuverlässige Beurteilung des streitigen Rechtsanspruchs
+gestatten. Insbesondere darf es bei einander widersprechenden medizinischen
+Berichten den Prozess nicht erledigen, ohne das gesamte Beweismaterial zu
+würdigen und die Gründe anzugeben, warum es auf die eine und nicht die andere
+medizinische These abstellt. Hinsichtlich des Beweiswerts eines Arztberichts
+ist demnach entscheidend, ob der Bericht für die streitigen Belange umfassend
+ist, auf allseitige Untersuchungen beruht, die geklagten Beschwerden
+berücksichtigt, in Kenntnis der Vorakten (Anamnese) abgegeben worden ist, in
+der Beurteilung der medizinischen Zusammenhänge und der Situation des
+Patienten einleuchtet und ob die Schlussfolgerunen begründet sind. Ausschlaggebend
+für den Beweiswert ist grundsätzlich weder die Herkunft eines Beweismittels
+noch die Bezeichnung der eingereichten oder in Auftrag gegebenen
+Stellungnahme als Bericht oder Gutachten (BGE 143 V 124
+E. 2.2.2, 125 V 351 E. 3a).
+3.3.2
+Weil die Beschwerdegegnerin in beweisrechtlicher
+Hinsicht ein zur Objektivität verpflichtetes gesetzesvollziehendes Organ ist,
+kann auch den Berichten und Gutachten versicherungsinterner Ärzte Beweiswert
+beigemessen werden, sofern sie als schlüssig erscheinen, nachvollziehbar
+begründet sowie in sich widerspruchsfrei sind und keine Indizien gegen ihre
+Zuverlässigkeit bestehen. Die Tatsache alleine, dass die befragten Ärzte in
+einem Anstellungsverhältnis zum Versicherungsträger stehen, lässt nicht schon
+auf eine mangelnde Objektivität oder Befangenheit schliessen. Es bedarf
+vielmehr besonderer Umstände, welche das Misstrauen in die Unparteilichkeit
+der Beurteilung objektiv als begründet erscheinen lassen. Im Hinblick auf die
+erhebliche Bedeutung, welche den Arztberichten im Sozialversicherungsrecht
+zukommt, ist an die Unparteilichkeit des Gutachters oder der Gutachterin ein
+strenger Massstab anzulegen (BGE 122 V 157 E. 1c, mit Hinweisen).
+4.
+4.1
+Fraglich ist, ob die Beschwerdegegnerin ihre
+Leistungen zu Recht per 16. Mai 2023 eingestellt hat. Dabei ist sowohl
+der massgebende Sachverhalt als auch der Umstand, wonach keine namhafte
+Besserung der noch vorhandenen somatischen Beschwerden mehr zu erwarten ist,
+unbestritten. Folglich ist darauf nicht weiter einzugehen. Zu prüfen bleibt
+indessen, ob die über den 16. Mai 2023 hinaus bestehenden psychischen
+Beschwerden adäquat kausal zum Unfallereignis vom 18. April 2019 sind.
+Dies ist entgegen der Ansicht des Beschwerdeführers nach der Psychopraxis,
+mithin unter Ausklammerung der psychischen Beschwerdekomponenten des
+Gesundheitsschadens, zu beurteilen (statt vieler: BGer-Urteil 8C_372/2013 vom
+28. Oktober 2013 E. 4; vgl. auch obenstehende
+E. II/3.2.3).
+4.2
+4.2.1
+Gemäss der Schadensmeldung vom 23. April 2019 sowie
+dem Erstgespräch mit der Beschwerdegegnerin am 3. Juli 2019 sei der
+Baggerfahrer ohne Ankündigung in das Fahrzeug gestiegen, um Kies aufzufüllen.
+Er habe die Baggerkabine gedreht und den hinter dem Fahrzeug stehenden
+Beschwerdeführer beim Rückwärtsfahren übersehen. In der Folge sei er über
+dessen rechten Unterschenkel gefahren, woraufhin er verletzt liegengeblieben
+sei.
+4.2.2
+Das Bundesgericht hat Unfälle mit Überrolltraumata
+regelmässig als mittelschwere Unfälle im engeren Sinne qualifiziert
+(vgl. etwa BGer-Urteil 8C_445/2008 vom 1. Dezember 2008
+E. 4.1, mit Hinweisen). Zur selben Einschätzung kam das
+Sozialversicherungsgericht Zürich bei einem Überrolltrauma, bei dem der
+rechte Fuss unter eine Raupe einer Baumaschine geriet und daraufhin zwei
+Zehen amputiert werden mussten (Urteil des Sozialversicherungsgerichts des
+Kantons Zürich UV.2019.00298 vom 12. Oktober 2020 E. 5.1). Das
+Versicherungsgericht St. Gallen kategorisierte ein Ereignis, bei dem ein
+Personenwagen den Fuss des Versicherten überrollte, sodann gar als mittelschweren
+Unfall im Bereich zu den leichten Unfällen (Urteil des Versicherungsgerichts
+des Kantons St. Gallen UV 2009/30 vom 21. April 2010
+E. 3.2).
+4.2.3
+Die Beschwerdegegnerin ordnete den
+streitbetroffenen Unfall den mittelschweren Unfällen im engeren Sinne zu.
+Diese Einteilung ist mit Blick auf den augenfälligen Geschehensablauf sowie
+die oben zitierte Rechtsprechung nicht zu beanstanden. So ist insbesondere
+nicht ersichtlich, weshalb das streitbetroffene Ereignis als schwerwiegender
+eingestuft werden müsste, als ein solches, bei dem im Anschluss an den Unfall
+einzelne Gliedmassen amputiert wurden. Dementsprechend kann der Einstufung
+der Beschwerdegegnerin ohne Weiteres gefolgt werden, weshalb nachfolgend die
+sieben Adäquanzkriterien auf ihr Vorliegen hin zu prüfen sind.
+4.3
+4.3.1
+Soweit der Beschwerdeführer auf sein jugendliches
+Alter hindeutet, ist zunächst darauf hinzuweisen, dass die Frage, ob ein
+Unfall nach dem gewöhnlichen Lauf der Dinge und der allgemeinen
+Lebenserfahrung geeignet ist, eine psychische Gesundheitsschädigung
+herbeizuführen, nicht auf den psychisch gesunden Versicherten beschränkt ist.
+Vielmehr ist auf eine weite Bandbreite der Versicherten abzustellen. Hierzu
+gehören auch jene Personen, die aufgrund ihrer Veranlagung für psychische
+Störungen anfälliger sind und einen Unfall seelisch weniger gut verkraften
+als Gesunde. Die Gründe dafür, dass einzelne Gruppen von Versicherten einen
+Unfall langsamer oder schlechter verarbeiten als andere, können
+beispielsweise in einer ungünstigen konstitutionellen Prädisposition oder
+allgemein in einem angeschlagenen Gesundheitszustand, in einer psychisch
+belastenden sozialen, familiären oder beruflichen Situation oder in der
+einfach strukturierten Persönlichkeit des Verunfallten liegen. Somit bilden
+im Rahmen der erwähnten, weit gefassten Bandbreite auch solche Versicherte
+Bezugspersonen für die Adäquanzbeurteilung, welche im Hinblick auf die
+erlebnismässige Verarbeitung eines Unfalls zu einer Gruppe mit erhöhtem
+Risiko gehören, weil sie aus versicherungsmässiger Sicht auf einen Unfall
+nicht optimal reagieren (BGE 129 V 177 E. 3.3, mit
+Hinweisen). Eine allfällige Vulnerabilität des Beschwerdeführers wäre
+folglich im Rahmen der Adäquanzprüfung nicht gesondert zu berücksichtigen.
+4.3.2
+Dem Kriterium der besonders dramatischen
+Begleitumstände oder besonderen Eindrücklichkeit des Unfalls liegt sodann der
+Gedanke zugrunde, dass gewisse Umstände geeignet sind, bei der betroffenen
+Person während des Unfallgeschehens oder danach psychische Abläufe in Bewegung
+zu setzen, die an den nachfolgenden psychischen Fehlentwicklungen
+mitbeteiligt sein können. Dabei sind objektive Massstäbe anzuwenden. Nicht
+was im einzelnen Betroffenen beim Unfall psychisch vor sich geht, soll
+entscheidend sein, sondern die objektive Eignung solcher Begleitumstände, bei
+Betroffenen psychische Vorgänge der genannten Art auszulösen. Somit kommt es
+entgegen der Ansicht des Beschwerdeführers nicht darauf an, dass er die
+Begleitumstände des Unfalls selbst als besonders eindrücklich oder dramatisch
+empfunden hat. Zu beachten ist überdies, dass jedem mindestens mittelschweren
+Unfall eine gewisse Eindrücklichkeit eigen ist (BGE 148 V 301
+E. 4.4.3, mit Hinweisen), was jedoch noch nicht zur Bejahung des
+Kriteriums führt. Es wurde aber etwa dann bejaht, als das Ereignis objektiv
+einen dramatischen und unmittelbar lebensbedrohenden Charakter hatte
+(BGer-Urteil 8C_799/2008 vom 11. Februar 2009 E. 3.2.3). Dies ist
+vorliegend nicht der Fall und es sind weder besondere Umstände ersichtlich,
+welche über die den mittelschweren Unfällen inhärenten Eindrücklichkeit
+hinausgehen noch werden solche vom Beschwerdeführer substantiiert dargetan.
+Ebenso wenig sind aus einer objektiven Betrachtungsweise dramatische
+Begleitumstände auszumachen.
+4.3.3
+Die Beschwerdegegnerin verneinte, dass das Kriterium
+der besonderen Art oder Schwere der erlittenen Verletzungen, insbesondere
+ihre erfahrungsgemässe Eignung, psychische Fehlentwicklungen auszulösen,
+erfüllt sei. Dagegen bringt der Beschwerdeführer vor, der von ihr
+vorbehaltlos hingenommene Verlauf der psychischen Beschwerden zeige gerade,
+dass das Unfallereignis den noch jungen Beschwerdeführer traumatisiert und zu
+einer mehrjährigen psychischen Fehlentwicklung beigetragen habe. Eine
+Zusammenfassung der aktuellen Kasuistik zum Kriterium der Schwere oder
+besonderen Art der erlittenen Verletzung findet sich in
+BGE 140 V 356 E. 5.5.1. Bejaht wird es etwa bei
+Augenläsionen mit Visusverlust, bei Lenden- und Wirbelkörperfrakturen oder
+bei einem Kehlkopftrauma mit partiellem Abriss der Luftröhre und
+Erstickungsgefahr. Verneint wurde es demgegenüber bei einer offenen
+Gesichtsschädelfraktur. Bei einem Überrolltrauma ist unter Berücksichtigung
+der hiervor erwähnten Rechtsprechung nicht ersichtlich, weshalb von einer
+Verletzung auszugehen wäre, welche erfahrungsgemäss geeignet ist, psychische
+Fehlentwicklungen auszulösen. Der Umstand, dass es zu psychischen
+Fehlentwicklungen gekommen ist, vermag das Vorliegen des Kriteriums noch
+nicht zu begründen. Das Kriterium hat (aus objektiver Sicht) als nicht
+erfüllt zu gelten.
+4.3.4
+Das Kriterium der ungewöhnlich langen Dauer der
+physisch bedingten ärztlichen Behandlung ist nicht allein nach einem
+zeitlichen Massstab zu beurteilen. Von Bedeutung sind auch Art und Intensität
+der Behandlung sowie der Umstand, inwieweit noch eine Besserung des
+Gesundheitszustands zu erwarten ist. Es muss, gesamthaft betrachtet, eine
+kontinuierliche, mit einer gewissen Planmässigkeit auf die Verbesserung des
+Gesundheitszustands gerichtete ärztliche Behandlung von ungewöhnlich langer
+Dauer vorliegen. Massnahmen zur Erhaltung des Zustands und eine medikamentöse
+Schmerzbekämpfung allein genügen hierfür nicht. Auch kommt einzig der
+Abklärung des Beschwerdebilds dienenden Vorkehren nicht die Qualität einer
+Heilmethodik in diesem Sinne zu (BGer-Urteil 8C_137/2014
+vom 5. Juni 2014 E. 7.3). Aus den Akten ergeben sich keine
+Anhaltspunkte für eine besonders lang andauernde, kontinuierliche Behandlung.
+Insbesondere erfüllt die während eines längeren Zeitraums durchgeführte
+Physiotherapie das Kriterium der ungewöhnlich langen Dauer nicht
+(vgl. BGer-Urteil 8C_647/2018 vom 16. Januar 2019 E. 5.3).
+Darüber hinaus kann sich der Beschwerdeführer nicht auf eine kontinuierliche
+Behandlung berufen. Dies nicht zuletzt, weil er offenbar immer wieder Termine
+verschoben hat, obschon eine kontinuierliche Physiotherapie massgebend für
+einen möglichst raschen Genesungsprozess sein kann. Dies geht denn auch aus
+den Behandlungsberichten hervor.
+4.3.5
+Das Kriterium der körperlichen Dauerschmerzen ist
+erfüllt, wenn solche bis zum Fallabschluss im Sinne von über den gesamten
+Zeitraum andauernden Beschwerden vorlagen (BGer-Urteil 8C_137/2014
+vom 5. Juni 2014 E. 7.4). Bei den körperlichen Dauerschmerzen
+sind psychische Beschwerden hingegen auch dann nicht in die Beurteilung
+einzubeziehen, wenn sie körperlich imponieren (vgl. BGer-Urteil
+8C_117/2019 vom 21. Mai 2019 E. 7.2, 8C_236/2016 vom
+11. August 2016 E. 6.2.4). Dem Bericht der Klinik C.______ vom
+1. Dezember 2020 kann entnommen werden, dass die geklagten Schmerzen
+wohl auf ein posteriores Impingement hindeuten würden, was mittels
+Infiltration allerdings deutlich verbessert werden könne. Sodann würden sich
+die Schmerzen aufgrund der deutlich verkürzten Wadenmuskulatur erklären
+lassen, was mittels Physiotherapie sowie Dehnungsübungen behandelt werden
+könne. Daraus folgt, dass sich die Beschwerden bis zu einem gewissen Grad
+klinisch begründen lassen. Der Beschwerdegegnerin ist jedoch insofern
+beizupflichten, als dass das widerholte (unentschuldigte) Fernbleiben von den
+Physiotherapiesitzungen dagegen spricht, dass der Beschwerdeführer dauerhaft
+und ununterbrochen an körperlichen Schmerzen leidet. Das Kriterium ist daher,
+soweit es überhaupt vorliegen sollte, zumindest nicht besonders ausgeprägt erfüllt.
+4.3.6
+Für das Kriterium der ärztlichen Fehlbehandlung
+reicht es ferner nicht aus, dass sich eine medizinische Massnahme
+nachträglich als nutzlos erweist. Vielmehr muss ein gewisser Konsens über die
+Schädlichkeit einer bestimmten Therapiemethode bestehen
+(vgl. BGer-Urteil 8C_362/2014 vom 25. Juni 2014 E. 4.2.5,
+8C_1020/2008 vom 8. April 2009 E. 5.6.1). Vorliegend bestehen keine
+Hinweise auf eine derartige ärztliche Fehlbehandlung. Dies wird denn auch vom
+Beschwerdeführer nicht vorgebracht.
+4.3.7
+Auf einen schwierigen Heilungsverlauf und erhebliche
+Komplikationen darf des Weiteren nicht schon aus der blossen Dauer der
+ärztlichen Behandlung und aufgrund der geklagten Beschwerden geschlossen
+werden. Es bedarf vielmehr besonderer Gründe, welche die Genesung bis zum
+Fallabschluss beeinträchtigt oder verzögert haben (BGer-Urteil 8C_627/2019
+vom 10. März 2020 E. 5.4.3, mit Hinweisen). Besondere Umstände
+bilden etwa weitere, den Heilungsverlauf wesentlich beeinträchtigende
+(unfallfremde) Krankheiten (vgl. BGer-Urteil 8C_542/2020 vom
+13. November 2020 E. 6.2, 8C_424/2020 vom 24. September 2020
+E. 5.3, je mit Hinweisen). Der Umstand, dass trotz verschiedener
+Therapien keine Beschwerdefreiheit erreicht werden konnte, genügt alleine
+nicht (BGer-Urteil 8C_582/2021 vom 11. Januar 2022 E. 12.4, mit
+Hinweisen). Entgegen der Ansicht des Beschwerdeführers ergeben sich keine
+Anhaltspunkte dafür, dass die Genesung beeinträchtigt oder verzögert worden
+ist. Insbesondere kommt es nicht auf den Umstand an, dass der Beschwerdeführer
+sich zahlreichen Operationen hat unterziehen müssen, oder dass nicht von
+Anfang an absehbar war, ob es gelingen wird, das verletzte Bein zu erhalten
+bzw. dieses wieder in einen einigermassen funktionstüchtigen Zustand zu
+bringen.
+4.3.8
+Der Beschwerdeführer ist schliesslich seit dem
+18. April 2019 voll arbeitsunfähig. Im Austrittsbericht vom 28. April
+2020 erachteten die Ärzte der Klinik D.______ eine leidensangepasste
+berufliche Tätigkeit für zumutbar. Zum selben Ergebnis gelangte auch Dr. med. E.______,
+Facharzt FMH für Chirurgie, in seiner Beurteilung vom 5. Januar 2023.
+Vorgenannte Arztberichte beruhen dabei auf allseitigen Untersuchungen,
+berücksichtigen sämtliche vom Beschwerdeführer geklagte Beschwerden, beziehen
+die Anamnesen mit ein und erscheinen schlüssig und in sich stimmig. Es gibt
+keine Gründe, weshalb davon abzuweichen ist. Soweit der Beschwerdeführer
+vorbringt, dass eine berufliche Eingliederung, welche ihm die
+Invalidenversicherung gewährt, eine Erwerbsunfähigkeit von mindestens 20 %
+erfordert und daher eine erhebliche Arbeitsunfähigkeit beim Beschwerdeführer
+anerkannt werden müsse, ist ihm nicht zu folgen. Denn die
+Invalidenversicherung übernimmt die Mehrkosten bei der erstmaligen
+beruflichen Ausbildung. Anders als bei der Umschulung, wird bei der
+erstmaligen beruflichen Ausbildung hingegen keine Erwerbseinbusse von
+20 % vorausgesetzt (vgl. Silvia Bucher, Eingliederungsrecht der
+Invalidenversicherung, Bern 2011, S. 309 ff. und 342). Daher kann
+aus dem Umstand, dass die Invalidenversicherung die Mehrkosten der
+erstmaligen beruflichen Ausbildung übernimmt, nicht alleine auf eine
+erhebliche Arbeitsunfähigkeit geschlossen werden. Dies nicht zuletzt auch,
+weil gemäss Schlussbericht über die berufliche Abklärung vom 13. Februar
+2020 aus somatischer Sicht ebenfalls nichts gegen eine Arbeitsfähigkeit in
+angepasster Tätigkeit spricht. Vor diesem Hintergrund ist somit davon
+auszugehen, dass nach einer rund einjährigen Arbeitsunfähigkeit eine
+Arbeitsfähigkeit in einer angepassten beruflichen Tätigkeit bestanden hat.
+Dies genügt nicht, um das Kriterium der erheblichen Arbeitsunfähigkeit trotz
+ausgewiesener Anstrengung als erfüllt zu betrachten (vgl. BGer-Urteil
+8C_53/2019 vom 9. Mai 2019 E. 5.3, U 56/00 vom
+30. August 2001 E. 3d).
+5.
+Zusammenfassend nahm die
+Beschwerdegegnerin die Adäquanzprüfung richtigerweise anhand der
+bundesgerichtlichen Psychopraxis (BGE 115 V 133) vor. In der
+Folge ging sie beim streitbetroffenen Unfall zu Recht von einem
+mittelschweren Ereignis im engeren Sinne aus. Sodann liegen selbst bei
+Bejahung des Kriteriums der Dauerschmerzen weder drei der sieben
+Adäquanzkriterien noch eines davon in besonders ausgeprägter Weise vor. Es
+besteht dementsprechend kein
+adäquater Kausalzusammenhang zwischen den
+psychischen Beschwerden und dem Unfallereignis, womit die Frage des
+natürlichen Kausalzusammenhangs, selbst wenn dieser aufgrund zusätzlicher
+Abklärungen zu bejahen wäre, offenbleiben kann (BGer-Urteil 8C_53/2021 vom
+9. April 2021 E. 5.7, 8C_236/2016 vom 11. August 2016
+E. 4.2, je mit Hinweisen).
+Dies führt zur Abweisung
+der Beschwerde, soweit darauf einzutreten ist.
+III.
+Die Gerichtskosten sind
+von Gesetzes wegen auf die Staatskasse zu nehmen (Art. 1 Abs. 1 UVG
+i.V.m Art. 61 lit. a ATSG). Da der Beschwerdeführer unterliegt,
+steht ihm keine Parteientschädigung zu (Art. 1 Abs. 1 UVG i.V.m.
+Art. 61 lit. g ATSG e contrario).
+Demgemäss erkennt die Kammer
+:
+1.
+Die Beschwerde wird abgewiesen, soweit darauf
+eingetreten wird.
+2.
+Die Gerichtskosten werden auf die Staatskasse genommen.
+3.
+Es wird keine Parteientschädigung zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
