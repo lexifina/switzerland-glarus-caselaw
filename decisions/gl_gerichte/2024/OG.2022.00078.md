@@ -1,0 +1,279 @@
+---
+decision_id: "gl_gerichte_OG.2022.00078"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2022.00078"
+docket_2: "OGZ.2024.132"
+decided: "2024-06-21"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1855&W10_KEY=218274&nTrefferzeile=3&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/210/art-129.md", "switzerland/bund/acts/210/art-286.md", "switzerland/bund/acts/210/art-289.md", "switzerland/bund/acts/272/art-282.md", "switzerland/bund/acts/272/art-296.md", "switzerland/bund/acts/272/art-310.md", "switzerland/bund/acts/272/art-312.md", "switzerland/bund/acts/272/art-317.md"]
+---
+
+# GL Gerichte OG.2022.00078
+
+## Regeste
+
+Abänderung eines Ehescheidungsurteils
+
+## Text
+
+Glarus Obergericht 21.06.2024 OG.2022.00078 (OGZ.2024.132)
+Glaris Obergericht 21.06.2024 OG.2022.00078 (OGZ.2024.132)
+Glarona Obergericht 21.06.2024 OG.2022.00078 (OGZ.2024.132)
+
+Abänderung eines Ehescheidungsurteils
+
+Kanton Glarus
+Obergericht
+Es wirken mit:
+Obergerichtsvizepräsidentin MLaw Sarina Dreyer,
+Oberrichterin
+Monika Trümpi, Oberrichter MLaw Mario Marti, Oberrichterin Ruth Hefti und
+Oberrichter Martin Ilg
+sowie
+Gerichtsschreiberin
+MLaw Jennifer Zbinden.
+Urteil
+vom 21. Juni 2024
+Verfahren
+OG.2022.00078
+A.______
+Klägerin und
+Berufungsklägerin
+vertreten durch
+lic.
+iur.
+Philipp
+Langlotz,
+Rechtsanwalt
+gegen
+B.______
+Beklagter und
+Berufungsbeklagter
+vertreten durch
+MLaw
+Jacques
+Marti,
+Rechtsanwalt
+betreffend
+Abänderung
+eines Ehescheidungsurteils
+Auszug aus den Erwägungen:
+[…]
+II.
+Formelles
+[…]
+1.3.
+Die Klägerin bezog
+vorübergehend Sozialhilfe für sich und ihre Kinder (act. 1 N. 2 und
+act. 2/1/1-2/1/2, alle im Verfahren ZG.2021.00076). Nach
+bundesgerichtlicher Rechtsprechung bleibt sie dennoch zur Geltendmachung der
+vorliegenden Abänderungsklage aktivlegitimiert (vgl. BGE 148 III 353
+E. 4.1 und E. 4.3, m.w.H.). Der Anspruch auf Bezahlung der
+(abgeänderten) Unterhaltsbeiträge ging jedoch im Umfang der ausbezahlten
+Sozialhilfe auf den Sozialdienst (…) über (vgl. act. 109; Art. 289
+Abs. 2 ZGB; BGE 148 III 270 E. 6.8).
+[…]
+3.1.
+Mit Berufung können
+eine unrichtige Rechtsanwendung (lit. a) und eine unrichtige Feststellung des
+Sachverhaltes (lit. b) geltend gemacht werden (Art. 310 ZPO). Die
+Berufungsinstanz verfügt mithin über eine vollständige Überprüfungsbefugnis
+der Streitsache und kann das erstinstanzliche Urteil sowohl auf rechtliche
+wie tatsächliche Mängel hin überprüfen. Sie hat sich dabei grundsätzlich auf
+die Beurteilung der in der schriftlichen Begründung (Art. 311 Abs. 1 und Art.
+312 Abs. 1 ZPO) gegen das erstinstanzliche Urteil erhobenen Beanstandungen zu
+beschränken (BGE 142 III 413 E. 2.2.4).
+3.2.
+Bei der Festsetzung von Kindesunterhaltsbeiträgen gilt indes die
+strenge Untersuchungsmaxime, welche das Gericht dazu verpflichtet, den
+Sachverhalt von Amtes wegen zu erforschen (Art. 296 Abs. 1 ZPO).
+Zudem gilt die Offizialmaxime, wonach das Gericht ohne Bindung an die
+Parteianträge entscheidet (Art. 296 Abs. 3 ZPO; BGE 145 III 393
+E. 2.7.3). Nach bundesgerichtlicher Rechtsprechung können im
+Berufungsverfahren betreffend Kinderbelange zudem neue Tatsachen und
+Beweismittel seitens der Parteien auch dann vorgebracht werden, wenn die
+Voraussetzungen von Art. 317 Abs. 1 ZPO nicht erfüllt sind (BGE
+147 III 301
+E. 2.2, m.w.H.
+).
+[…]
+III.
+Anpassung der Unterhaltsbeiträge
+[…]
+2.
+Nachehelicher Unterhalt
+2.1.
+Nach Art. 129
+Abs. 3 ZGB kann die berechtigte Person innerhalb von fünf Jahren seit
+der Scheidung die Festsetzung eines nachehelichen Unterhalts oder dessen
+Erhöhung verlangen, wenn im Scheidungsurteil festgehalten worden ist, dass
+keine zur Deckung des gebührenden Unterhalts ausreichende Rente festgesetzt
+werden konnte, die wirtschaftlichen Verhältnisse der verpflichteten Person
+sich aber entsprechend verbessert haben.
+2.2.
+Voraussetzung für die
+nachträgliche Zusprechung eines nachehelichen Unterhaltes ist somit erstens,
+dass im Scheidungsurteil festgehalten wurde, dass keine zur Deckung des
+gebührenden Unterhalts ausreichende Rente festgesetzt werden konnte
+(Art. 129 Abs. 3 ZGB). In der Scheidungskonvention ist dabei
+konkret anzugeben, welcher Betrag zur Deckung des gebührenden Unterhalts des
+berechtigten Ehegattens fehlt (Art. 282 Abs. 1 lit. c ZPO;
+Urs Gloor/Annette Spycher
+, in: Basler
+Kommentar Zivilgesetzbuch I, 7. Aufl., Basel 2022, N. 19 zu Art. 129 ZGB;
+Daniel Bähler
+, in: Basler
+Kommentar Schweizerische Zivilprozessordnung, 3. Aufl., Basel 2017,
+N. 4 zu Art. 282 ZPO;
+Peter
+Liatowitsch/Daniel Häring,
+in: Handkommentar zum Schweizer
+Privatrecht, 3. Aufl., Zürich/Basel/Genf 2016, N. 8 zu Art. 129 ZGB).
+Zweitens ist vorausgesetzt, dass sich die wirtschaftlichen Verhältnisse der
+verpflichteten Person seither entsprechend verbessert haben und die
+berechtigte Person innerhalb von fünf Jahren seit der Scheidung die
+Festsetzung eines nachehelichen Unterhaltsbeitrages verlangt hat
+(Art. 129 Abs. 3 ZGB). Eine Verschlechterung der wirtschaftlichen
+Situation der Berechtigten stellt dagegen keinen Grund für eine nachträgliche
+Festsetzung einer Rente dar (vgl.
+Andrea
+Büchler/ Zeno Raveane
+, in:
+FamKomm Scheidung, Bd. I: ZGB, 4. Aufl., Bern 2022, N. 50 zu
+Art. 129 ZGB;
+Thomas Geiser/Christina
+Fountoulakis
+, in: Basler Kommentar Zivilgesetzbuch I, 7. Aufl., Basel
+2022, N. 1 zu Art. 129 ZGB).
+2.3.
+Da sich die Parteien
+vorliegend ursprünglich in einer Scheidungskonvention über die
+Scheidungsnebenfolgen geeinigt haben (vgl. act. 3/1), ist eine nachträgliche
+Festsetzung des nachehelichen Unterhaltes zudem nur möglich, wenn erhebliche
+tatsächliche Änderungen Teile des Sachverhalts betreffen, welche im Zeitpunkt
+der Vereinbarung als feststehend angesehen wurden. Keine Anpassung an wesentlich
+und dauernd veränderte Verhältnisse gibt es hingegen bezüglich Tatsachen,
+welche vergleichsweise definiert worden sind, um eine ungewisse Sachlage zu
+bewältigen, zumal hier eine Referenzgrösse fehlt, an welcher die
+Erheblichkeit einer allfälligen Veränderung gemessen werden könnte.
+Vorbehalten bleiben neue Tatsachen, die klarerweise ausserhalb des Spektrums
+der künftigen Entwicklungen liegen, welche aus Sicht der Vergleichsparteien
+möglich (wenn auch ungewiss) erschienen (vgl. zum Ganzen BGE 142 III 518 E.
+2.6, m.w.H.; Urteil des Bundesgerichts 5A_325/2023 vom 5. Oktober 2023
+E. 3).
+[…]
+3.
+Kindesunterhalt
+3.1.
+Nach Art. 286 Abs. 2
+ZGB setzt das Gericht bei erheblicher Veränderung der Verhältnisse den
+Kindesunterhalt auf Antrag eines Elternteils oder des Kindes neu fest oder
+hebt ihn auf. Voraussetzung hierfür ist, dass sich die Verhältnisse
+nachträglich erheblich und dauerhaft verändert haben. Eine Abänderungsklage
+bezweckt dabei nicht die Korrektur eines fehlerhaften rechtskräftigen
+Urteils, sondern nur die Anpassung eines rechtskräftigen Urteils – ob
+fehlerhaft oder nicht – an veränderte Verhältnisse. Absehbare Veränderungen
+der massgeblichen Verhältnisse, die bei der Festsetzung des
+Unterhaltsbeitrags bereits berücksichtigt worden sind, bilden deshalb keinen
+Grund zur Anpassung. Für eine Abänderung in Betracht kommen dagegen sämtliche
+Umstände, die für die Berechnung des Unterhaltsbeitrags von Bedeutung sind.
+Angesprochen sind namentlich Änderungen in der Erwerbstätigkeit oder der
+Wohnsituation eines Elternteils, so etwa wenn eine Anstellung gefunden oder
+beendet wird oder wenn ein Elternteil einen neuen Wohnpartner findet. Eine
+Anpassung vom Barunterhalt (nicht jedoch vom Betreuungsunterhalt) ist zudem
+nur vorzunehmen, wenn ansonsten mit Blick auf die ursprüngliche Regelung ein
+unzumutbares Ungleichgewicht zwischen den Eltern entsteht (vgl. zum Ganzen
+Urteil des Bundesgerichts 5A_176/2023 vom 9. Februar 2024 E. 3.2;
+Urteil des Bundesgerichts 5A_90/2017 vom 24. August 2017 E. 3.3., m.w.H.).
+Zur Beurteilung dieser Voraussetzung gilt es die Interessen der Kinder und
+jedes Elternteils gegeneinander abzuwägen. Sind diese Voraussetzungen
+erfüllt, hat das Gericht den Unterhalt neu festzulegen, nachdem es alle
+Berechnungsparameter aktualisiert hat (Urteil des Bundesgerichts 5A_90/2017
+vom 24. August 2017 E. 3.3., m.w.H.).
+3.2.
+Da sich die Parteien
+vorliegend ursprünglich über die Festsetzung des Kindesunterhaltes in einer
+Scheidungskonvention geeinigt haben (vgl. act. 3/1), ist eine Anpassung des
+Kindesunterhaltes zudem nur möglich, wenn erhebliche tatsächliche Änderungen
+Teile des Sachverhalts betreffen, welche im Zeitpunkt der Vereinbarung als
+feststehend angesehen wurden. Keine Anpassung an wesentlich und dauernd
+veränderte Verhältnisse gibt es hingegen bezüglich Tatsachen, welche
+vergleichsweise definiert worden sind, um eine ungewisse Sachlage zu
+bewältigen, zumal hier eine Referenzgrösse fehlt, an welcher die
+Erheblichkeit einer allfälligen Veränderung gemessen werden könnte.
+Vorbehalten bleiben neue Tatsachen, die klarerweise ausserhalb des Spektrums
+der künftigen Entwicklungen liegen, welche aus Sicht der Vergleichsparteien
+möglich (wenn auch ungewiss) erschienen (vgl. zum Ganzen BGE 142 III 518 E.
+2.6, m.w.H.; Urteil des Bundesgerichts 5A_325/2023 vom 5. Oktober 2023
+E. 3).
+[…]
+4.
+Anpassung der
+Scheidungskonvention
+[…]
+4.9.
+Einkommen der
+Klägerin
+[…]
+4.9.7.
+Es ist der Klägerin zuzustimmen, dass ihr aufgrund ihrer
+Arbeitsunfähigkeit
+[…]
+kein hypothetisches Einkommen
+mehr angerechnet werden kann (vgl. act. 64 N. 20 f.). Dies bedeutet
+jedoch entgegen der Klägerin (act. 64 N. 20 f.) nicht, dass das ihr
+daraus entstehende Manko in ihrem Bedarf vollumfänglich vom Beklagten als
+Betreuungsunterhalt zu tragen wäre. Mit dem Betreuungsunterhalt werden
+nämlich nur die (indirekten) Kosten abgegolten, welche einem Elternteil
+dadurch entstehen, dass er aufgrund einer persönlichen Betreuung des Kindes
+davon abgehalten wird, durch Arbeitserwerb für seinen Lebensunterhalt
+aufzukommen (BGE 144 III 481 E. 4.3; BGE 144 III 377 E. 7.1.2.2;
+Botschaft zu einer Änderung des Schweizerischen Zivilgesetzbuches
+(Kindesunterhalt) vom 29. November 2013, BBl 2014 529, S. 554 und S.
+576). Insofern begründet die Betreuung eines Kindes nur dann Anspruch auf
+Zusprechung eines Betreuungsunterhaltes, wenn die Betreuung zu einem
+Zeitpunkt stattfindet, an dem der betreuende Elternteil ansonsten einer
+bezahlten Arbeitstätigkeit nachgehen könnte (BGE 144 III 377 E. 7.1.3;
+5A_503/2020 vom 16. Dezember 2020 E. 6; Botschaft zu einer Änderung
+des Schweizerischen Zivilgesetzbuches (Kindesunterhalt) vom 29. November
+2013, BBl 2014 529, S. 554).
+4.9.8.
+Zur Bestimmung des
+geschuldeten Betreuungsunterhaltes ist dem betreuenden Elternteil im Falle
+seiner Arbeitsunfähigkeit deshalb ein theoretisches Einkommen anzurechnen,
+welches er [unter Berücksichtigung seiner Betreuungspflichten] theoretisch
+erzielen könnte. Dabei ist entsprechend der Rechtsprechung des Bundesgerichts
+für den Normalfall dem hauptbetreuenden Elternteil ab der obligatorischen
+Beschulung des jüngsten Kindes eine Erwerbsarbeit von 50 %, ab dessen
+Eintritt in die Sekundarstufe I eine solche von 80 % und ab dessen
+Vollendung des 16. Lebensjahres einen Vollzeiterwerb anzurechnen (sog.
+Schulstufenmodell; vgl. BGE 144 III 481 E. 4.7.6; Urteil des
+Bundesgerichts 5A_745/2022 vom 31. Januar 2023 E. 3.5). Dadurch
+wird sichergestellt, dass der Betreuungsunterhalt kein Ausgleich für die
+Arbeitsunfähigkeit des betreuenden Elternteils darstellt, sondern nur die
+Kosten abdeckt, welche aufgrund der persönlichen Betreuung des Kindes
+entstehen (vgl. hierzu auch Urteil des Kantonsgerichts Freiburg 101 2021 337
++ 390 vom 15. Oktober 2021 E. 2.3, m.w.H.;
+Annette Spycher/Heinz Hausheer
+, in: Handbuch des
+Unterhaltsrechts, Bern 2023, Kapitel 1 N. 90;
+Annette Spycher/Moreno Maier,
+Irrungen Wirrungen um den
+Betreuungsunterhalt, in: FamPra 2021 S. 569 ff., S. 582).
+[…]
+4.22.
+Telefon, Internet
+und TV sowie Hausrat- und Haftpflichtversicherung
+[…]
+4.22.3.
+Da vorliegend, wie oben ausgeführt
+[…],
+ausreichende
+finanzielle Verhältnisse vorliegen, sind den Parteien praxisgemäss je
+CHF 150.— für Telefon-, Internet- und TV-Kosten sowie praxisgemäss je
+CHF 30.— für eine Hausrats- und Haftpflichtversicherung anzurechnen.
+[…]
+[…]
