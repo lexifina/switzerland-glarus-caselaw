@@ -1,0 +1,320 @@
+---
+decision_id: "gl_gerichte_VG.2024.00024"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2024.00024"
+docket_2: "VG.2024.1368"
+decided: "2024-06-27"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1839&W10_KEY=218274&nTrefferzeile=10&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/101/art-127.md", "switzerland/bund/acts/642.11/art-147.md"]
+---
+
+# GL Gerichte VG.2024.00024
+
+## Regeste
+
+Steuern
+
+## Text
+
+Glarus Verwaltungsgericht 27.06.2024 VG.2024.00024 (VG.2024.1368)
+Glaris Verwaltungsgericht 27.06.2024 VG.2024.00024 (VG.2024.1368)
+Glarona Verwaltungsgericht 27.06.2024 VG.2024.00024 (VG.2024.1368)
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+27. Juni 2024
+I. Kammer
+Besetzung:
+Gerichtspräsident MLaw Colin Braun, Verwaltungsrichter Ernst Luchsinger,
+Verwaltungsrichterin Jolanda Hager und Gerichtsschreiberin MLaw Paula Brändli
+in Sachen
+VG.2024.00024
+A.______AG
+Beschwerdeführerin
+vertreten durch
+Georg
+Volz, Rechtsanwalt
+gegen
+1.
+Steuerverwaltung des Kantons Glarus
+Beschwerdegegnerinnen
+2.
+Steuerrekurskommission des Kantons Glarus
+betreffend
+Kantons- und Gemeindesteuern 2019
+Die Kammer zieht in Erwägung:
+I.
+1.
+Die A.______AG wurde am
+20. November 2020 durch die Steuerverwaltung des Kantons Glarus für die
+Steuerperiode 2019 definitiv veranlagt, wobei die Verfügung unangefochten in
+Rechtskraft erwuchs. Am 14. Februar 2023 meldete das Steueramt des
+Kantons Solothurn der Steuerverwaltung eine geldwerte Leistung an die
+A.______AG im Jahr 2019 in der Höhe von Fr. 1'000'000.-. In der Folge
+ersuchte Letztere am 15. Februar 2023 bei der Steuerverwaltung um
+Revision der definitiven Veranlagung vom 20. November 2020 und ergänzte
+dieses Begehren am 25. Mai 2023. Die Steuerverwaltung trat hierauf am
+7. Juli 2023 nicht ein bzw. wies das Gesuch ab. Dagegen erhob die
+A.______AG am 7. August 2023 Einsprache, welche die Steuerverwaltung am
+31. August 2023 abwies. Den hiergegen erhobenen Rekurs der A.______AG
+vom 27. September 2023 wies die Steuerrekurskommission des Kantons
+Glarus am 19. Februar 2024 ebenfalls ab.
+2.
+Die A.______AG gelangte
+mit Beschwerde vom 12. April 2024 ans Verwaltungsgericht und beantragte
+die Aufhebung des Entscheids der Steuerrekurskommission vom 19. Februar
+2024. Auf ihr Revisionsbegehren sei einzutreten und der steuerbare Gewinn für
+das Steuerjahr 2019 sei auf Fr. 356'000.- festzulegen. Eventualiter sei
+der Entscheid der Steuerrekurskommission vom 19. Februar 2024 aufzuheben
+und die Sache zurückzuweisen; unter Kosten- und Entschädigungsfolge. Die
+Steuerrekurskommission schloss am 16. April 2024 auf Abweisung der
+Beschwerde, verzichtete allerdings auf eine eingehende Stellungnahme. Die
+Steuerverwaltung beantragte am 3. Mai 2024 die Abweisung der Beschwerde;
+unter Kosten- und Entschädigungsfolge zu Lasten der A.______AG.
+II.
+1.
+1.1
+Das Verwaltungsgericht beurteilt Beschwerden gegen
+Rekursentscheide der kantonalen Steuerrekurskommission (Art. 166
+Abs. 1 des Steuergesetzes vom 7. Mai 2000 [StG] i.V.m.
+Art. 105 Abs. 1 lit. e des Gesetzes über die
+Verwaltungsrechtspflege vom 4. Mai 1986 [VRG]). Es ist somit zur
+Behandlung der vorliegenden Beschwerde zuständig und prüft die Angelegenheit
+vollumfänglich (vgl. Art. 107 Abs. 2 lit. a VRG). Da
+zudem die übrigen Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde
+einzutreten.
+1.2
+Nach der Praxis des
+Verwaltungsgerichts werden Beschwerden, welche sowohl die Kantons- und
+Gemeindesteuern als auch die direkte Bundessteuer betreffen, grundsätzlich
+nicht im selben Verfahren behandelt. Die bundesgerichtliche Rechtsprechung
+gebietet, dass bei gemeinsamer Erledigung durch die Beschwerdeinstanz eine
+separate Entscheidung und Begründung für beide Steuerarten vorgenommen wird
+(BGE 130 II 509 E. 8.3). Es erweist sich somit als
+zweckmässig, die Anträge der Beschwerdeführerin lediglich in Bezug auf die
+Kantons- und Gemeindesteuern zu prüfen und die direkte Bundessteuer in ein
+separates Verfahren (VG.2024.00025) zu verweisen.
+1.3
+Da die massgeblichen Bestimmungen
+des kantonalen Steuergesetzes und des Bundesgesetzes über die direkte
+Bundessteuer vom 14. Dezember 1990 (DBG) übereinstimmen, kann bei der
+vorliegend strittigen Frage auf die Rechtsprechung und Literatur zur direkten
+Bundessteuer zurückgegriffen werden.
+2.
+2.1
+Die Beschwerdeführerin macht geltend, die
+rechtskräftige Veranlagung für das Jahr 2019 könne einzig noch im
+Revisionsverfahren angepasst werden. Im interkantonalen Verhältnis werde eine
+Primärberichtigung bei der leistenden Gesellschaft teilweise als neue
+erhebliche Tatsache im Sinne von Art. 147 Abs. 1 lit. a DBG
+und zum Teil als besonderer gesetzlicher Revisionsgrund, welcher direkt aus
+Art. 127 Abs. 3 der Bundesverfassung der Schweizerischen
+Eidgenossenschaft vom 18. April 1999 (BV) abgeleitet sei, betrachtet.
+Eine Gegenberichtigung sei dementsprechend in jedem Fall auch bei einer
+rechtskräftigen Veranlagung der empfangenden Gesellschaft möglich. Mit dem
+vorliegend rechtskräftigen Entscheid des Kantons Solothurn sei klar, dass die
+ebenfalls rechtskräftige Veranlagung des erstveranlagenden Kantons Glarus
+gegen das Doppelbesteuerungsverbot verstosse, womit sie, die
+Beschwerdeführerin, ein Revisionsgesuch einreichen könne. Zu Grunde liege
+dabei eine interkantonale Gewinnverschiebung zwischen Tochter- und
+Muttergesellschaft, was von einer verdeckten Gewinnausschüttung klar abzugrenzen
+sei, da die Gewinne in Fällen wie dem vorliegenden weiterhin der
+Unternehmensbesteuerung unterliegen würden. Vorliegend habe sich die
+Vermögenslage der Muttergesellschaft nicht geändert, da dem erhaltenen
+Vorteil ein Minderwert der Beteiligung gegenüberstehe. Unterstünden sowohl
+die Mutter- als auch die Tochtergesellschaft derselben Steuerhoheit, müsse
+die Steuerverwaltung von vorherein den Sachverhalt jeweils gleich beurteilen.
+Zumindest betreffend die direkte Bundessteuer führe die Verweigerung der Gegenberichtigung
+zu einer echten Doppelbesteuerung. Selbst die Annahme einer bewussten
+Gewinnverschiebung würde indessen nicht zu einer Steuerersparnis oder gar
+Steuerumgehung führen. Fälle mit zwei beteiligten Kantonen seien dabei gleich
+zu behandeln und es bestehe Anspruch auf eine korrespondierende Berichtigung.
+Die Missbrauchsregel sei nur für krasse Fälle gedacht, andernfalls das
+Vertrauen in die Rechtsordnung in einem hohen Masse gestört würde. Vorliegend
+habe erst nach Abschluss der vereinbarten Rückbauarbeiten im Juni 2022 das
+Total der vereinbarten Nettovergütung zwischen der Auftraggeberin der
+Tochtergesellschaft und derselben festgestanden. Sie, die Beschwerdeführerin,
+habe ihrer Tochtergesellschaft im Kalenderjahr 2019 den Betrag von
+Fr. 1'500'000.- entsprechend dem Buchwert bezahlt. Zu diesem Zeitpunkt
+sei bereits der Entschluss gereift, den Rückbauvertrag von der
+Tochtergesellschaft auf die Beschwerdeführerin zu übertragen. Mit dem Vollzug
+der Übertragung des Rückbauvertrags habe sie, die Beschwerdeführerin, fortan
+für die Bezahlung der Konventionalstrafe gehaftet und ebendiesem Risiko sei
+mit einer Abschreibung von Fr. 1'000'000.- Rechnung getragen worden. Im
+Jahr 2019 sei durch das Steueramt Solothurn eine Aufrechnung von
+Fr. 1'000'000.- auf der Stufe der Tochtergesellschaft erfolgt. Die
+entsprechende Vergütung an die Tochtergesellschaft durch die
+Muttergesellschaft sei vor dieser Veranlagung vorgenommen worden. In Fällen
+von Berichtigungen und Gegenberichtigungen von verbundenen Mutter- und Tochtergesellschaften
+sei eine Aufrechnung bei einer Gesellschaft inhärent, was für sich allein
+keinen Rechtsmissbrauch darstelle.
+2.2
+Die Beschwerdegegnerin 1 bringt vor, eine Revision
+Im Sinne von Art. 169 Abs. 2 StG bzw. Art. 147
+Abs. 2 DBG sei ausgeschlossen, wenn der Antragsteller als Revisionsgrund
+etwas vorbringe, was er bei der ihm zumutbaren Sorgfalt schon im ordentlichen
+Verfahren hätte geltend machen können. Vorliegend sei bereits während der
+Steuerperiode 2019 klar gewesen, dass die streitbetroffene Transaktion
+bzw. der Übertrag von der Tochter- auf die Muttergesellschaft einem
+Drittvergleich nicht standhalte. Dies hätte die Beschwerdeführerin bereits im
+ordentlichen Verfahren offenlegen müssen und können. Entsprechend sei eine
+Revision ausgeschlossen. Darüber hinaus habe sie die Aufrechnung im Kanton
+Solothurn aufgrund des unterpreislichen Verkaufs der Maschine an die
+Muttergesellschaft bei der Tochtergesellschaft diskussionslos akzeptiert.
+Ferner sei eine
+Revision
+ausgeschlossen, wenn die Doppelbesteuerung Folge einer Gewinnverschiebung
+sei, die der Antragsteller absichtlich oder fahrlässig selbst veranlasst
+habe. Aufgrund der tieferen Steuerbelastung im Kanton Glarus im Vergleich zum
+Kanton Solothurn habe die Beschwerdeführerin die Gewinne mindestens
+fahrlässig vom Kanton Solothurn in den Kanton Glarus verlagert und damit
+versucht, von tieferen Steuern zu profitieren. Eine revisionsweise
+Gegenberichtigung sei jedoch ausgeschlossen, wenn das Verhalten der
+beteiligten Gesellschaften rechtsmissbräuchlich oder treuwidrig sei. Dies sei
+der Fall, wenn deren Verhalten einzig dazu diene, Gewinne zu verlagern und
+die Steuerlast in unzulässiger Art und Weise zu schmälern. Vorliegend handle
+es sich um eine solche Gewinnverschiebung, weshalb eine Revision auch deshalb
+ausser Betracht falle.
+3.
+3.1
+Eine rechtskräftige Verfügung oder ein
+rechtskräftiger Entscheid kann gemäss Art. 169 Abs. 1 StG auf
+Antrag oder von Amtes wegen zugunsten des Steuerpflichtigen revidiert werden,
+wenn erhebliche Tatsachen oder entscheidende Beweismittel entdeckt werden
+(Ziff. 1); die erkennende Behörde erhebliche Tatsachen oder
+entscheidende Beweismittel, die ihr bekannt waren oder bekannt sein mussten,
+ausser Acht gelassen oder in anderer Weise wesentliche Verfahrensgrundsätze
+verletzt hat (Ziff. 2); ein Verbrechen oder ein Vergehen den Entscheid
+beeinflusst hat (Ziff. 3); oder bei interkantonalen oder internationalen
+Doppelbesteuerungskonflikten die erkennende Behörde zum Schluss kommt, dass
+nach den anwendbaren Regeln zur Vermeidung der Doppelbesteuerung der Kanton
+Glarus sein Besteuerungsrecht einschränken müsste (Ziff. 4). Die
+Revision ist ausgeschlossen, wenn der Antragsteller als Revisionsgrund
+vorbringt, was er bei der ihm zumutbaren Sorgfalt schon im ordentlichen Verfahren
+hätte geltend machen können (Art. 169 Abs. 2 StG).
+3.2
+Derselbe Steuerpflichtige darf für dieselbe
+Einkunft und dieselbe Steuerperiode nur einmal mit der direkten Bundessteuer
+belastet werden (vgl. Art. 127 Abs. 3 BV). Vorausgesetzt ist
+dabei grundsätzlich, dass die Doppelbesteuerung dasselbe Steuersubjekt
+betrifft, wobei hierauf praxisgemäss verzichtet wird, wenn wirtschaftlich
+identische Steuerobjekte bei wirtschaftlich in besonderer Weise miteinander
+verbundenen Subjekten besteuert werden, so zum Beispiel bei
+Schwestergesellschaften. Die Doppelbesteuerung muss jedoch aktuell und nicht
+bloss virtuell sein, das heisst, die Empfängerin muss für den empfangenen
+Vorteil bereits veranlagt worden sein. Die Aufrechnung bei der zuwendenden
+Gesellschaft bedeutet für die Veranlagung der bevorteilten Gesellschaft eine
+erhebliche Tatsache, die sie im ordentlichen Verfahren nicht hätte geltend
+machen können. Denn erst die aus der Aufrechnung resultierende aktuelle und
+nicht bereits die virtuelle Doppelbesteuerung verleiht einen Anspruch aus
+Art. 127 Abs. 3 BV. Eine revisionsweise Gegenberichtigung setzt in
+jedem Fall voraus, dass sich das Verhalten der beteiligten Gesellschaften
+nicht als geradezu rechtsmissbräuchlich oder treuwidrig präsentiert. Für die
+kantonalen Steuern folgt dies aus der Praxis zur Verwirkung des
+Beschwerderechts der steuerpflichtigen Person (vgl. BGer-Urteil
+2C_597/2019 vom 14. April 2022 E. 3.2 f., mit Hinweisen).
+4.
+4.1
+Vorliegend haben die Beschwerdegegnerinnen eine
+Revision unter anderem deshalb verneint, weil die Beschwerdeführerin den
+Revisionsgrund bereits im ordentlichen Verfahren hätte geltend machen können.
+Dies trifft mit Blick auf das oben Dargelegte (vgl. vorstehende
+E. II/3.2) nicht zu, da erst die definitive Veranlagung der Tochtergesellschaft
+im Kanton Solothurn vom 12. Januar 2023 Anlass zur Revision gegeben hat
+(vgl. Martin E. Looser, in: Martin Zweifel/Michael Beusch
+[Hrsg.]
+,
+Kommentar zum Schweizerischen Steuerrecht, Bundesgesetz über die direkte
+Bundessteuer, 4. A., Basel 2022, Art. 147 N. 23d). Der
+Beschwerdeführerin stand die Möglichkeit der Revision damit grundsätzlich
+offen. Die Beschwerdegegnerinnen stellten sich jedoch zusätzlich auf den
+Standpunkt, dass das Verhalten der Beschwerdeführerin rechtsmissbräuchlich
+sei, was nachfolgend zu prüfen ist.
+4.2
+4.2.1
+Die Beschwerdeführerin macht geltend, es habe keine
+unrechtmässige Gewinnverschiebung stattgefunden. Im Zusammenhang mit dem
+streitbetroffenen Verkauf von Maschinen sei der Betrag von
+Fr. 1'000'000.- Teil eines Gesamtgeschäfts mit der Tochtergesellschaft
+gewesen, welches als ausgeglichen zu gelten habe. Dies widerspricht indessen
+der Darstellung des Steueramts des Kantons Solothurn, welches in der
+Veranlagung der Tochtergesellschaft von einem unterpreislichen Verkauf der
+Maschinen und damit von einem unausgeglichenen Geschäft ausgegangen ist. Die
+Beschwerdeführerin hat diese Darstellung einer verdeckten Gewinnausschüttung
+denn auch selbst als Argument für die Herabsetzung des steuerbaren
+Reingewinns im Kanton Glarus angeführt. Sie wich hiervon in späteren Eingaben
+aber wieder ab, womit ihre Ausführungen insgesamt inkonsistent erscheinen.
+Die Darstellung des Steueramts des Kantons Solothurn blieb von ihr
+bzw. der Tochtergesellschaft unbestrittenermassen unangefochten. Dabei
+vertrat der beteiligte Treuhänder sowohl die Beschwerdeführerin als auch die
+Tochtergesellschaft, womit selbst der Beschwerdeführerin die relevanten
+Tatsachen bekannt gewesen sein mussten. Aus dem Gesagten folgt, dass die
+Darstellung des Steueramts des Kantons Solothurn glaubhafter und
+wahrscheinlicher erscheint, weshalb die von der Beschwerdeführerin
+vorgebrachte alternative Darstellung vorliegend unberücksichtigt zu bleiben
+hat. Dies gilt umso mehr, als dass die von ihr geltend gemachten weiteren Aspekte
+der vertraglichen Beziehungen gemäss derselben im Jahr 2022 und damit vor der
+definitiven Veranlagung durch das Steueramt des Kantons Solothurn geklärt
+gewesen seien. Dass Letzteres die streitbetroffene Aufrechnung bereits im
+Jahr 2019 vorgenommen hätte, ändert indessen nichts an der Tatsache, dass die
+Beschwerdeführerin zum Zeitpunkt der definitiven Veranlagung durch das
+Steueramt des Kantons Solothurn im Jahr 2023 ihre alternative Darstellung
+hätte vorbringen können, was sie aber unterlassen hat.
+4.2.2
+Aus dem Gesagten folgt, dass der Darstellung des
+Steueramts des Kantons Solothurn gefolgt werden kann, wonach wegen einem
+unterpreislichen Verkauf einer Maschine eine geldwerte Leistung in der Höhe
+von Fr. 1'000'000.- aufgerechnet werden musste. Dementsprechend wurde im
+zugrunde liegenden Rechtsgeschäft ein offensichtlich zu tiefer Kaufpreis
+eingesetzt, welcher einem Drittvergleich nicht standhält (vgl. dazu
+allgemein BGer-Urteile 2C_716/2022 vom 15. November 2022, 2C_913/2020
+vom 14. April 2021). Dass dies zum Zweck der Gewinnverlagerung und der
+Reduktion der Steuerlast gedient hat, erscheint nicht zuletzt mit Blick auf
+die resultierende tiefere Steuerbelastung im Kanton Glarus als naheliegend.
+Die Beschwerdeführerin macht überdies schliesslich selbst geltend, der
+Sachverhalt sei bei Empfängerin und der leistenden Partei gleich zu
+beurteilen. Dem wird einzig dann entsprochen, wenn der massgebende
+Sachverhalt auch gleich wie im Kanton Solothurn behandelt bzw. von einem
+unterpreislichen Verkauf ausgegangen wird. Im Ergebnis muss der Antrag der
+Beschwerdeführerin auf Gegenberichtigung im Kanton Glarus somit als
+rechtsmissbräuchlich und treuwidrig bezeichnet werden, womit ihr eine
+Revision nicht offensteht (vgl. zum Ganzen BGer-Urteil 2C_597/2019 vom 14. April
+2022 E. 3.5)
+5.
+Zusammenfassend hätte der
+Beschwerdeführerin eine steuerliche Revision aufgrund der geltend gemachten
+Doppelbesteuerung zwar grundsätzlich offen gestanden. Da sich ihr Gesuch
+aufgrund der Umstände des Einzelfalls jedoch als rechtsmissbräuchlich
+erweist, bleibt ihr eine Revision der streitbetroffenen Veranlagung verwehrt.
+Dies führt zur Abweisung
+der Beschwerde.
+III.
+Gemäss Art. 134
+Abs. 1 lit. c VRG hat die Partei, welche im Beschwerdeverfahren
+unterliegt, die amtlichen Kosten zu tragen. Entsprechend dem Ausgang des
+Verfahrens sind die Gerichtskosten in der Höhe von pauschal Fr. 1'500.-
+der Beschwerdeführerin aufzuerlegen und mit dem von ihr bereits geleisteten
+Kostenvorschuss in gleicher Höhe zu verrechnen. Ausgangsgemäss ist ihr keine
+Parteientschädigung zuzusprechen (Art. 138 Abs. 3 lit. a VRG e
+contrario). Eine solche steht mangels besonderer Umstände auch der
+Beschwerdegegnerin 1 als Behörde nicht zu (Art. 138 Abs. 4 VRG).
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Die
+Gerichtskosten von Fr. 1'500.- werden der Beschwerdeführerin auferlegt und
+mit dem von ihr bereits geleisteten Kostenvorschuss in gleicher Höhe
+verrechnet.
+3.
+Es
+werden keine Parteientschädigungen zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
