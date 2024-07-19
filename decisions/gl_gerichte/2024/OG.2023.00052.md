@@ -1,0 +1,227 @@
+---
+decision_id: "gl_gerichte_OG.2023.00052"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2023.00052"
+docket_2: "OGZ.2025.134"
+decided: "2024-07-19"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1898&W10_KEY=232154&nTrefferzeile=4&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/210/art-285.md", "switzerland/bund/acts/210/art-286.md", "switzerland/bund/acts/210/art-287.md"]
+---
+
+# GL Gerichte OG.2023.00052
+
+## Regeste
+
+Abänderung Kinderunterhalt
+
+## Text
+
+Glarus Obergericht 19.07.2024 OG.2023.00052 (OGZ.2025.134)
+Glaris Obergericht 19.07.2024 OG.2023.00052 (OGZ.2025.134)
+Glarona Obergericht 19.07.2024 OG.2023.00052 (OGZ.2025.134)
+
+Abänderung Kinderunterhalt
+
+Kanton Glarus
+Obergericht
+Es wirken mit:
+Obergerichtsvizepräsidentin MLaw Sarina Dreyer,
+Oberrichterin Monika Trümpi, Oberrichterin Brigitte Müller, Oberrichter
+Martin Ilg und Oberrichter Patrick Landolt
+sowie
+Gerichtsschreiberin MLaw Jennifer Zbinden.
+Urteil
+vom 19. Juli 2024
+Verfahren
+OG.2023.00052
+A.______
+Beklagter
+und
+Berufungskläger
+vertreten
+durch
+MLaw
+Jacques
+Marti,
+Rechtsanwalt
+gegen
+1. B.______
+2. C.______
+Kläger und
+Berufungsbeklagte
+beide
+vertreten durch D.______
+1, 2
+zusätzlich vertreten durch
+lic. iur.
+Thomas
+Honegger,
+Rechtsanwalt
+betreffend
+Abänderung
+Kinderunterhalt
+Auszug aus den Erwägungen:
+[…]
+III. Erhebliche
+Veränderung der Verhältnisse
+1.
+1.1.
+Vorliegend
+ist zwischen den Parteien strittig, ob die von der KESB genehmigte
+Unterhaltsvereinbarung vom 28. September 2020 an veränderte Verhältnisse
+anzupassen ist oder nicht (vgl. act. 2/1; act. 1 N. 6 ff.;
+act. 21 N. 7 ff.; act. 46 N. 5 ff.;
+act. 48 N. 4 ff.).
+[…]
+2.
+2.1.
+Nach
+Art. 287 Abs. 2 ZGB können vertraglich festgelegte
+Unterhaltsbeiträge geändert werden, soweit dies nicht mit der Genehmigung der
+Kindesschutzbehörde ausgeschlossen worden ist. In der von den Parteien
+geschlossenen Unterhaltsvereinbarung vom 28. September 2020 wurde eine
+mögliche Anpassung nicht ausgeschlossen, sondern im Gegenteil explizit
+festgehalten, dass die Unterhaltsvereinbarung abgeändert werden könne, wenn
+sich die Verhältnisse erheblich und dauerhaft ändern (act. 2/1
+S. 3). Der in der Vereinbarung festgesetzte Kindesunterhalt kann somit b
+ei erheblicher Veränderung der Verhältnisse auf
+Antrag eines Elternteils oder des Kindes vom Gericht neu festgesetzt oder
+aufgehoben werden (
+Art. 286 Abs. 2 ZGB)
+.
+2.2.
+Voraussetzung hierfür ist
+, dass sich die Verhältnisse
+nach Abschluss der genehmigten Unterhaltsvereinbarung erheblich und dauerhaft
+verändert haben. Eine Abänderungsklage bezweckt dabei nicht die Korrektur
+einer fehlerhaften genehmigten Unterhaltsvereinbarung, sondern nur ein durch
+die KESB genehmigter Unterhaltsvertrag – ob fehlerhaft oder nicht – an
+veränderte Verhältnisse anzupassen. Absehbare Veränderungen der massgeblichen
+Verhältnisse, die bei der Festsetzung des Unterhaltsbeitrags bereits
+berücksichtigt worden sind, bilden deshalb keinen Grund zur Anpassung (Urteil
+des Bundesgerichts 5A_90/2017 vom 24. August 2017 E. 3.3-3.4, m.w.H.; Urteil
+des Bundesgerichts 5A_253/2016 vom 24. November 2016 E. 4.1-4.2; vgl.
+auch Urteil des Bundesgerichts 5A_176/2023 vom 9. Februar 2024 E. 3.2).
+Eine Abänderung ist ferner ausgeschlossen, wenn die Sachlage durch
+eigenmächtiges, widerrechtliches oder missbräuchliches Verhalten
+herbeigeführt worden ist (BGE 141 III 376 E. 3.3.1; Urteil des
+Bundesgerichts 5A_325/2023 vom 5. Oktober 2023 E. 3; Urteil des
+Bundesgerichts 5A_98/2016 vom 25. Juni 2018 E. 2.4, je m.w.H.). Eine
+Anpassung vom Barunterhalt (nicht jedoch vom Betreuungsunterhalt) ist zudem
+nur vorzunehmen, wenn ansonsten mit Blick auf die ursprüngliche Regelung ein
+unzumutbares Ungleichgewicht zwischen den Eltern entsteht (Urteil des
+Bundesgerichts 5A_176/2023 vom 9. Februar 2024 E. 3.2; Urteil des
+Bundesgerichts 5A_90/2017 vom 24. August 2017 E. 3.3, m.w.H.).
+[…]
+6.
+Vorliegend machte die Kindsmutter eine Veränderung der
+Verhältnisse aus zwei Gründen geltend: Einerseits aufgrund ihrer
+Einkommensreduktion und andererseits aufgrund der Einkommenserhöhung des
+Kindsvaters (vgl. act. 1 N. 19 ff.; act. 44 S. 5
+E. III.5.). Ob durch diese behaupteten Veränderungen im Einkommen der
+Parteien die Voraussetzungen für die Abänderung des Kindesunterhaltes erfüllt
+werden, ist im Folgenden zu prüfen (vgl. E. III.7.-III.8.).
+7.
+Veränderung des Einkommens der Kindsmutter
+7.1.
+In der Unterhaltsvereinbarung vom
+28. September 2020 haben die Parteien festgehalten, dass die Festsetzung
+der Unterhaltsbeiträge gestützt auf den Lohnausweis aus dem Jahr 2019 auf
+einem monatlichen Nettoeinkommen der Kindsmutter von CHF 2'943.—
+(Beschäftigungsgrad von 60 %; inkl. 13. Monatslohn) basiere (act. 2/1
+S. 2). In diesem Zeitpunkt waren B.______ und C.______ ein- und
+dreijährig (vgl. act. 6-7). Der Kindsvater arbeitete 100 % (vgl. act.
+2/1 S. 2).
+7.2.
+Fraglich ist nun, ob die Kindsmutter auch nach
+der Trennung der Parteien dazu verpflichtet war, 60 % zu arbeiten oder ob ihr
+dies aufgrund der Betreuungspflichten ihren Kindern gegenüber nicht mehr
+zugemutet werden konnte.
+7.3.
+Die Kindsmutter geht dabei zu Recht davon aus
+(act. 53 S. 15), dass vom betreuenden Elternteil vor obligatorischem
+Schuleintritt des jüngsten Kindes aufgrund seiner Betreuungspflichten
+grundsätzlich nicht verlangt werden kann, zu arbeiten (vgl. BGE 144 III 481
+E. 4.7.6 e contrario; vgl. auch
+Christiana
+Fountoulakis,
+in: Basler Kommentar Zivilgesetzbuch I, 7. Aufl.,
+Basel 2022, N. 51 zu Art. 285 ZGB e contrario). Hat der betreuende
+Elternteil jedoch bereits während dem Zusammenleben gearbeitet, muss er sich
+auch im Trennungsfall darauf behaften lassen. Er kann sich diesfalls nicht
+darauf berufen, neu infolge Kinderbetreuung in seiner Erwerbsfähigkeit
+eingeschränkt zu sein (vgl. Urteil des Bundesgerichts 5A_339/2018 vom
+8. Mai 2019 E. 5.2, m.w.H.; vgl. auch Urteil des Bundesgerichts
+5A_244/2018 vom 26. August 2019 E. 3.5.1; Urteil des Bundesgerichts
+5A_98/2016 vom 25. Juni 2018 E. 3.5).
+7.4.
+Sofern eine genügende Betreuung der Kinder auch
+nach der Trennung der Eltern gewährleistet werden kann, ist das vor der
+Trennung gelebte Betreuungsmodell somit grundsätzlich fortzusetzen. Dies
+bedeutet, dass der (haupt-)betreuende Elternteil, welcher bereits während dem
+Zusammenleben in einem höheren Umfang erwerbstätig war als im
+Schulstufenmodell vorgesehen, sein Pensum im Normalfall nach der Trennung
+nicht einfach eigenmächtig reduzieren darf. Vorbehalten bleiben
+Ausnahmefällen, in welchen dies zu einer unzumutbaren Belastung führen würde
+(vgl.
+Michael Affolter
+, Das
+hypothetische Einkommen im Familienrecht – ein Überblick, AJP 7/2020,
+S. 833 ff. S. 837; vgl. auch
+Jann
+Six
+, Eheschutz, 2. Aufl., Bern 2014, N. 2.160).
+7.5.
+Dieselben Grundsätze müssen gelten, wenn der
+betreuende Elternteil im Hinblick auf die Trennung in einer behördlich bzw.
+gerichtlich genehmigten Trennungsvereinbarung explizit zustimmt, in einem
+gewissen Umfang arbeitstätig zu sein bzw. zu bleiben. So ist in diesem Fall
+die genehmigte Unterhaltsregelung mit dem anerkannten Arbeitspensum als
+Ausgangspunkt für eine allfällige Anpassung der Unterhaltsbeiträge zu
+respektieren. Eine Anpassung der Unterhaltsbeiträge ist dabei nur unter den
+oben wiedergegebenen Voraussetzungen möglich, d.h. nur, wenn sich die Verhältnisse
+nach
+Festlegung der Unterhaltsbeiträge erheblich und dauerhaft ändern
+(vgl. E. III.2.2.). Eine Pensumsreduktion ist entsprechend nur dann als
+Abänderungsgrund zu berücksichtigen, wenn sich die Verhältnisse nach
+Abschluss der Unterhaltsvereinbarung so geändert haben, dass die
+Aufrechterhaltung des anerkannten Arbeitspensums eine unzumutbare Belastung
+für den betreuenden Elternteil darstellen würde (vgl.
+Michael Affolter
+, a.a.O. S. 837; vgl. auch
+Jann Six
+, a.a.O., N. 2.160).
+[…]
+8.
+Veränderung des Einkommens des Kindsvaters
+8.1.
+In der Unterhaltsvereinbarung vom
+28. September 2020 haben die Parteien festgehalten, dass die Festsetzung
+der Unterhaltsbeiträge gestützt auf den Lohnausweis aus dem Jahr 2019 auf
+einem monatlichen Nettoeinkommen des Kindsvaters von CHF 4'489.—
+(Beschäftigungsgrad von 100 %; inkl. 13. Monatslohn) basiere (act. 2/1
+S. 2).
+8.2.
+Es ist im Folgenden zu prüfen, ob sich das
+Einkommen des Kindsvaters seither dauerhaft und erheblich erhöht hat.
+8.3.
+Als erhebliche Veränderung der Verhältnisse im
+Sinne von Art. 286 Abs. 2 ZGB fallen unter anderem auch qualifiziert
+veränderte wirtschaftliche Umstände seitens des Unterhaltspflichtigen in
+Betracht, namentlich eine Invalidität oder lange Erkrankung, der Übertritt in
+den Ruhestand oder der Verlust seiner Arbeitsstelle (Urteil des
+Bundesgerichts 5A_35/2018 vom 31. Mai 2018 E. 3.1, m.w.H.; Urteil
+des Bundesgerichts 5A_224/2016 vom 13. Juni 2016 E. 3.1, m.w.H.).
+Anlass für eine Änderung des Unterhaltsbeitrags kann auch das höhere Einkommen
+oder Vermögen des Unterhaltsverpflichteten sein (Urteil des Bundesgerichts
+5A_957/2013 vom 9. Mai 2014 E. 3.3). Eine Anpassung rechtfertigt
+sich nur, wenn die Differenz zwischen dem gestützt auf die veränderten
+Tatsachen berechneten Unterhaltsbetrag und dem ursprünglich festgesetzten
+Betrag genügend gross ist (Urteil des Bundesgerichts 5A_689/2020 vom 27.
+April 2021 E. 3.1; Urteil des Bundesgerichts 5A_760/2016 vom
+5. September 2017 E. 5.1; Urteil des Bundesgerichts 5A_245/2013 vom
+24. September 2013 E. 3.1, m.w.H.).
+[…]
