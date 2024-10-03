@@ -1,0 +1,636 @@
+---
+decision_id: "gl_gerichte_VG.2024.00019"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2024.00019"
+docket_2: "VG.2024.1391"
+decided: "2024-10-03"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1866&W10_KEY=232154&nTrefferzeile=9&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/101/art-051.md", "switzerland/bund/acts/700/art-009.md", "switzerland/bund/acts/700/art-033.md"]
+---
+
+# GL Gerichte VG.2024.00019
+
+## Regeste
+
+Öffentliches Baurecht
+
+## Text
+
+Glarus Verwaltungsgericht 03.10.2024 VG.2024.00019 (VG.2024.1391)
+Glaris Verwaltungsgericht 03.10.2024 VG.2024.00019 (VG.2024.1391)
+Glarona Verwaltungsgericht 03.10.2024 VG.2024.00019 (VG.2024.1391)
+
+Öffentliches Baurecht
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+3. Oktober 2024
+I. Kammer
+Besetzung:
+Gerichtspräsident MLaw Colin Braun, Verwaltungsrichterin Jolanda Hager,
+Verwaltungsrichter Patrik Noser und Gerichtsschreiber i.V. MLaw Siro Rhyner
+in Sachen
+VG.2024.00019
+1.
+AA.______
+Beschwerdeführer
+2.
+AB.______
+gegen
+1.
+Swisscom (Schweiz) AG
+Beschwerdegegner
+2.
+Gemeinde Glarus
+3.
+Departement Bau und Umwelt des Kantons Glarus
+betreffend
+Baubewilligung
+Die Kammer zieht in Erwägung:
+I.
+1.
+Die Swisscom (Schweiz) AG
+reichte am 1. September 2022 bei der Gemeinde Glarus ein Baugesuch für
+den Neubau einer Mobilfunkanlage auf der in der Wohnzone 4 gelegenen Parz.-Nr. 01,
+Grundbuch […], ein. Hiergegen erhoben unter anderem AA.______ und AB.______
+am 17. Oktober 2022 Einsprache, welche die Gemeinde Glarus am
+24. Januar 2023 abwies. Gleichzeitig erteilte sie der Swisscom
+(Schweiz) AG die Baubewilligung.
+2.
+Die von AA.______ und
+AB.______ am 28. Februar 2023 gegen den Entscheid der Gemeinde Glarus vom
+24. Januar 2023 erhobene Beschwerde wies das Departement Bau und Umwelt
+des Kantons Glarus (DBU) am 29. Februar 2024 ab.
+3.
+3.1
+AA.______ und AB.______ gelangten mit Beschwerde
+vom 2. April 2024 ans Verwaltungsgericht und beantragten die Aufhebung
+des Entscheids des DBU vom 29. Februar 2024. Das Baugesuch der Swisscom
+(Schweiz) AG sei nicht zu bewilligen. Eventualiter sei die Sache an die
+Gemeinde sowie den Kanton zur richtplankonformen Überarbeitung und Umsetzung
+zurückzuweisen. Subeventualiter sei die Sache an die Baukommission der
+Gemeinde zur Nachbesserung (gemäss kantonalem Richtplan) und zum erneuten
+Entscheid zurückzuweisen. Subsubeventualiter sei die Sache an das DBU zur
+Nachbesserung (gemäss kantonalem Richtplan) und zum erneuten Entscheid
+zurückzuweisen; alles unter Kostenfolge zu Lasten der Swisscom
+(Schweiz) AG bzw. der Vorinstanzen.
+3.2
+Das DBU schloss am 18. April auf Abweisung der
+Beschwerde, soweit darauf eingetreten werden könne; unter Kostenfolge. Die
+Gemeinde Glarus beantragte am 31. Mai 2024 die Abweisung der Beschwerde;
+unter Kostenfolge. Die Swisscom (Schweiz) AG liess sich am 3. Juni
+2024 vernehmen und beantragte ebenfalls die Abweisung der Beschwerde, soweit
+darauf einzutreten sei; unter Kosten- und Entschädigungsfolge zu Lasten von
+AA.______ und AB.______.
+3.3
+Nachdem AA.______ und AB.______ am 3. Juli 2024 an
+ihren Anträgen festgehalten hatten, erneuerten die Swisscom (Schweiz) AG
+und das DBU ihre Rechtsbegehren am 10. Juli 2024 bzw. am
+23. Juli 2024. Die Gemeinde Glarus verzichtete am 15. Juli 2024 auf
+eine erneute Vernehmlassung.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss
+Art. 79 Abs. 1 des Raumentwicklungs- und Baugesetzes vom
+2. Mai 2010 (RBG) i.V.m. Art. 105 Abs. 1 lit. b des
+Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986 (VRG) zur
+Behandlung der vorliegenden Beschwerde zuständig. Da auch die übrigen
+Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerde einzutreten.
+1.2
+Gemäss Art. 107 Abs. 1 VRG können mit der
+Verwaltungsgerichtsbeschwerde die unrichtige oder unvollständige Feststellung
+des rechtserheblichen Sachverhalts (lit. a) sowie die unrichtige
+Rechtsanwendung einschliesslich eines Missbrauchs des Ermessens (lit. b)
+gerügt werden. Die Unangemessenheit des Entscheids kann gemäss
+abschliessender Aufzählung in Art. 107 Abs. 2 VRG nur ausnahmsweise
+geltend gemacht werden, wobei ein solcher Ausnahmefall nicht vorliegt.
+2.
+2.1
+Die Beschwerdeführer bringen zunächst vor, die vom
+Beschwerdegegner 3 selbst gewählte Einschränkung seiner Kognition sei
+gesetzeswidrig. Die Kantone hätten gemäss Art. 33 Abs. 3
+lit. b des Bundesgesetzes über die Raumplanung vom 22. Juni 1979
+(RPG) die volle Überprüfung durch wenigstens eine Beschwerdeinstanz zu
+gewährleisten. Da dies dem Verwaltungsgericht verwehrt sei, sei der
+Beschwerdegegner 3 zur vollen Überprüfung verpflichtet und mit der
+entsprechenden Kognition ausgestattet.
+2.2
+2.2.1
+Art. 33 Abs. 3 lit. b RPG statuiert, dass
+das kantonale Recht die volle Überprüfung durch wenigstens eine
+Beschwerdeinstanz zu gewährleisten hat. Vor diesem Hintergrund sieht
+Art. 79 Abs. 1 RBG i.V.m. Art. 104 Abs. 1 VRG im
+vorliegenden Verwaltungsbeschwerdeverfahren die volle Kognition des Beschwerdegegners 3
+vor. Damit ist aber lediglich dessen volle Überprüfungsbefugnis der
+vorgebrachten Rügen gemeint, wobei die Rechtssuchenden damit verbunden einen
+aus Art. 29 Abs. 2 der Bundesverfassung der Schweizerischen
+Eidgenossenschaft vom 18. April 1999 (BV) fliessenden Anspruch auf
+rechtliches Gehör haben, welche die Verpflichtung der Behörde beinhaltet,
+seinen Entscheid rechtsgenüglich zu begründen. Dabei ist es indessen nicht
+erforderlich, dass sie sich mit allen Parteistandpunkten einlässlich auseinandersetzt
+und jedes einzelne Vorbringen ausdrücklich widerlegt. Vielmehr kann sie sich
+auf die für den Entscheid wesentlichen Punkte beschränken. Die Begründung
+muss aber immerhin so abgefasst sein, dass sich die Betroffenen über die
+Tragweite des Entscheids Rechenschaft geben und ihn in voller Kenntnis der
+Sache an die höhere Instanz weiterziehen können. In diesem Sinne müssen
+wenigstens kurz die Überlegungen genannt werden, von denen sich die Behörde
+hat leiten lassen und auf die sich ihr Entscheid stützt (statt vieler:
+BGer-Urteil 1C_205/2023 vom 3. Januar 2024 E. 3.1).
+2.2.2
+Aus
+dem oben Dargelegten (vgl. vorstehende E. II/2.2.1) ergibt sich,
+dass der Beschwerdegegner 3 den vorinstanzlichen Entscheid trotz voller
+Kognition nicht unter sämtlichen in Frage kommenden Aspekten überprüfen
+musste. Entscheidend ist vielmehr, dass er den vorliegend angefochtenen
+Entscheid so abgefasst hat, dass sich die Beschwerdeführer über die Tragweite
+des Entscheids bewusst und zumindest in Kenntnis davon waren, worauf er, der
+Beschwerdegegner 3, seinen Entscheid stützt. Dies war vorliegend der
+Fall. So war es den Beschwerdeführern mit Blick auf die beim
+Verwaltungsgericht eingereichte Beschwerdeschrift offensichtlich möglich, den
+Entscheid des Beschwerdegegners 3 in voller Kenntnis der Sachlage
+weiterzuziehen. Sie vermögen ihren Standpunkt dabei klar aufzuzeigen und
+waren ohne Weiteres in der Lage, sich mit den entscheidrelevanten Erwägungen
+auseinanderzusetzen. Eine Verletzung der Begründungspflicht ist damit ebenso
+wenig zu erblicken, wie eine Missachtung der dem Beschwerdegegner 3
+zustehenden Kognition.
+3.
+3.1
+Bezugnehmend auf den während des Vorverfahrens
+erfolgten Eigentümerwechsel betreffend die Parzelle-Nr. 01, Grundbuch
+[…], machen die Beschwerdeführer alsdann geltend, es sei nicht aktenkundig,
+dass eine Zustimmung der neuen Grundeigentümerin vorliege. Der
+Beschwerdegegner 3 habe es unterlassen zu prüfen, ob die angebliche
+Überbindung eines Mietvertrags auf die neue Grundeigentümerin wirklich
+stattgefunden habe. Die Zustimmung eines Grundeigentümers lasse sich dabei
+nicht aus einem passiven Verhalten im Rahmen einer Beiladung herauslesen. Die
+Einhaltung einer Gültigkeitsvorschrift, namentlich die Unterschrift auf dem
+Plan, sei im Verwaltungsverfahren schriftlich nachzuweisen, was vorliegend
+unterlassen worden sei. Sodann hätten sie, die Beschwerdeführer, dadurch
+keine Möglichkeit gehabt, die Einhaltung der Gültigkeitsvorschrift zu
+überprüfen, was einer Verletzung des rechtlichen Gehörs gleichkomme.
+Jedenfalls sei in den Akten nie behauptet worden, dass die geplante
+Mobilfunkanlage in das Eigentum der neuen Grundeigentümerin übergehen solle.
+Es könne sich daher lediglich um eine Anlage bzw. Baute auf fremden
+Boden handeln, was nur in den gesetzlich vorgesehenen Fällen zulässig sei. Um
+deren Bestand dinglich zu sichern, seien die Vorschriften zu den
+Grenzabständen nach Art. 51 RBG analog anzuwenden. Ein bloss
+obligatorischer Mietvertrag genüge nicht. Sodann wäre zur dinglichen
+Sicherung der Rückbauverpflichtung gemäss kantonalem Richtplan eine Anmerkung
+im Grundbuch notwendig.
+3.2
+3.2.1
+Gemäss Art. 76 Abs. 1 RBG wird die Baubewilligung
+erteilt, wenn das Bauvorhaben den öffentlich-rechtlichen Vorschriften
+entspricht. In diesem Sinne ist dem Baugesuch stattzugeben, wenn das
+Baugesuch die formellen Voraussetzungen erfüllt und dem
+öffentlich-rechtlichen Baupolizeirecht, den Vorschriften über die Raumplanung
+und den Umweltschutz sowie den weiteren öffentlich-rechtlichen Vorschriften
+entspricht. Dies ungeachtet von allfälligen privatrechtlichen Ansprüchen. Der
+Grundsatz, wonach Privat- und Verwaltungsrecht strikt zu trennen sind, wird
+dabei nur unter eingeschränkten Voraussetzungen durchbrochen. So können
+beispielsweise zivilrechtliche Vorfragen im Verwaltungsverfahren beantwortet
+werden, wenn die tatsächliche Verwirklichung des Vorhabens davon abhängt.
+Art. 641 des Schweizerischen Zivilgesetzbuchs vom 10. Dezember 1907
+(ZGB) ermächtigt den Eigentümer einer Sache, in den Schranken der
+Rechtsordnung über sie zu verfügen. Daraus folgt, dass Bauvorhaben auf
+fremden Boden nur mit Zustimmung des betroffenen Grundeigentümers realisiert
+werden können. Für die Inanspruchnahme fremden Grundeigentums bedarf der
+Baugesuchsteller somit grundsätzlich der Zustimmung des betroffenen Grundeigentümers,
+die in der Regel durch dessen Unterschrift auf dem Baugesuch nachgewiesen
+wird. In diesem Sinne sieht Art. 9 Abs. 3 der Verordnung über den
+Vollzug der Raumentwicklungs- und Baugesetzgebung vom 7. Juni 2011
+(RBGVV) vor, dass Pläne, Berichte und Nachweise zu datieren und vom Bauherrn,
+Grundeigentümer sowie vom Architekten oder Ingenieur zu unterzeichnen sind.
+Bei dieser Regelung handelt es sich um Ordnungsvorschriften, wobei die
+Bewilligungsinstanz lediglich zu einer summarischen Prüfung der privatrechtlichen
+Verhältnisse verpflichtet ist. Demgemäss darf sie sich auf die Prüfung
+beschränken, ob ein Bauvorhaben offenkundig Eigentumsrechte verletzen könnte
+(vgl. Christoph Fritzsche et al., Zürcher Planungs- und Baurecht,
+Bd. 1, Planungsrecht, Verfahren und Rechtsschutz, 7. A., Wädenswil
+2024, S. 408 und 443).
+3.2.2
+Vorliegend hat die frühere Grundeigentümerin
+entsprechend Art. 9 Abs. 3 RBGVV die Pläne unterschrieben, was
+selbst von den Beschwerdeführern nicht bestritten wird. Sodann war die Beschwerdegegnerin 2
+berechtigt, im Bewilligungsverfahren ihre Prüfung darauf zu beschränken, ob
+ein Bauvorhaben offenkundig Eigentumsrechte verletzt. Angesichts dessen, dass
+die neue Grundeigentümerin auf eine Stellungnahme als Beigeladene verzichtet hat,
+eine Unterschrift der früheren Grundeigentümerin vorliegt und es sich bei der
+Unterzeichnung lediglich um eine Ordnungsvorschrift handelt, welche nicht
+ohne Weiteres zu einem ungültigen oder nicht-bewilligungsfähigen Gesuch
+führt, durfte die Beschwerdegegnerin 2 die Baubewilligung erteilen. Es
+ist dementsprechend keine offenkundige Verletzung von Eigentumsrechten
+ersichtlich. Dies wird letztlich auch durch den Nachweis vom 3. Juni
+2024 durch die B.______ deutlich, welcher eine allfällige Verletzung der
+Ordnungsvorschrift im vorliegenden Verfahren ohnehin heilen würde.
+Schliesslich kann den Beschwerdeführern nicht gefolgt werden, soweit sie die
+analoge Anwendung der Bestimmungen zu den Grenzabständen (Art. 51 RBG)
+geltend machen. Für eine solche besteht denn auch weder eine Rechtsgrundlage
+noch vermögen die Beschwerdeführer eine solche aufzuzeigen. Damit hat es an
+dieser Stelle sein Bewenden.
+4.
+4.1
+Die Beschwerdeführer rügen sodann, die Zulässigkeit
+einer nicht technisch bedingten Dachaufbaute sei vom Beschwerdegegner 3
+zu grosszügig bejaht worden. Entgegen dessen Ansicht würden für
+Antennenanlagen die gleichen Vorschriften gelten, welche auch für andere
+entsprechende Bauten und Anlagen gelten würden. Gemäss dem Richtplan 2018
+seien Optimierungen des Standorts hinsichtlich der Auswirkungen auf das Orts-
+und Landschaftsbild bei der Planung von Mobilfunkanlagen zu berücksichtigen.
+Die Gemeinden seien diesbezüglich in Zusammenarbeit mit den Konzessionären
+gefordert, geeignete Anlagestandorte zu bestimmen. Die Beschwerdegegnerin 2
+habe die Kaskadenordnung gemäss dem Richtplan 2018, wonach mehrere kleine
+Antennen im Siedlungsgebiet gegenüber wenigen grossen Antennen zu bevorzugen
+seien, im Ergebnis nicht beachtet. Dies obwohl die Gemeinden die Grundsätze
+gemäss kantonalem Richtplan bei der Erteilung von Baubewilligungen für
+Mobilfunkanlagen zu berücksichtigen hätten.
+4.2
+4.2.1
+Für die Errichtung von Mobilfunkanlagen darf weder
+ein Sach- noch ein Richtplan mit konkreten räumlichen und zeitlichen Vorgaben
+verlangt werden. Es fehlt dementsprechend eine gesetzliche Grundlage für eine
+Gesamtplanung. Für die Erstellung von Mobilfunkanlagen besteht innerhalb der
+Bauzone denn auch grundsätzlich keine Verpflichtung zur Prüfung von
+Alternativstandorten. Es braucht darüber hinaus auch keinen Bedürfnisnachweis
+oder eine Interessenabwägung (BGer-Urteil 1C_45/2023 vom 16. Januar 2024
+E. 5.2 f., 1C_324/2022 vom 16. Juni 2023 E. 5.2,
+1C_685/2013 vom 6. März 2015 E. 2.4, je mit Hinweisen). Sodann sind
+Richtpläne behördenverbindlich (Art. 9 Abs. 1 RPG, Art. 12
+Abs. 1 RBG), wobei sie für Grundeigentümer weder Rechte noch Pflichten
+begründen (Art. 12 Abs. 2 RBG). Gemäss Lehre und Rechtsprechung
+begründet er keinen Vertrauensschutz und kein Rechtssicherheitsinteresse.
+Daraus folgt, dass allfällige Anfechtungsmöglichkeiten sich primär auf die
+Nutzungsplanung beziehen. Die Behördenverbindlichkeit impliziert dabei nicht,
+dass die Baubehörde bei der Überprüfung eines Baugesuchs auch die Vorgaben
+der Richtpläne zu beachten hätte. Andernfalls wären diese auch
+grundeigentümerverbindlich. Hieraus folgt, dass die Richtpläne aller Stufen
+(kantonal, regional, kommunal) im Rahmen von Planerlassen zu beachten sind
+und dergestalt in die grundeigentümerverbindlichen Nutzungsplanungen
+einfliessen. Entsprechend entfällt eine direkte Anwendung von Richtplänen im
+Baubewilligungsverfahren (Fritzsche, S. 150; vgl. auch Urteil des
+Verwaltungsgerichts des Kantons Zürich VB.2022.00648 vom 21. September
+2023 E. 3 sowie VB.2017.00038 vom 2. März 2017
+E. 2.2.3 f.; vgl. auch Urteil des Verwaltungsgerichts des
+Kantons Graubünden R 16 51 vom 10. Januar 2017 E. 5).
+4.2.2
+Soweit die Beschwerdeführer die Nichteinhaltung des
+Richtplans 2018 – insbesondere die Handlungsanweisung E3-C/1 – durch die
+Baukommission bei der Erteilung der Baubewilligung rügen, ist ihnen nicht zu
+folgen. Gemäss Handlungsanweisung E3-C/1 haben die Gemeinden die Grundsätze
+gemäss kantonalem Richtplan im Baubewilligungsverfahren für Mobilfunkanlagen
+zwar zu berücksichtigen. Ein direkt durchsetzbarer Anspruch einer Drittperson
+auf Einhaltung der entsprechenden Handlungsanweisung im
+Baubewilligungsverfahren resultiert daraus jedoch noch nicht. Wie oben
+dargelegt ist der Richtplan nämlich lediglich behördenverbindlich und vermag
+keine Rechte und Pflichten Dritten gegenüber zu begründen. Folgerichtig
+können sich die Beschwerdeführer auch nicht darauf berufen, andernfalls würde
+der Richtplan von einem Planungsinstrument zu einer direkt anwendbaren
+Rechtsgrundlage avancieren, was nicht dem gesetzgeberischen Willen
+entspricht. Sodann waren die Beschwerdegegner 2 und 3 im Hinblick auf
+die geplante Mobilfunkanlage nicht dazu gehalten, Alternativstandorte zu
+evaluieren. Entgegen der Ansicht der Beschwerdeführer besteht innerhalb der
+Bauzone sowohl von Bundesrechts wegen als auch gestützt auf kantonales Recht
+nämlich keine Verpflichtung zur Standortkoordination und zur Prüfung von
+Alternativstandorten (vgl. VGer-Urteil VG.2022.00084 vom
+9. November 2023 E. II/6.3, mit Hinweisen). Daran vermag auch die
+richtplanerische Handlungsanweisung mangels direkter Anwendbarkeit im
+Baubewilligungsverfahren nichts zu ändern. Selbst wenn die richtplanerische
+Pflicht zur Berücksichtigung der Auswirkungen auf das Orts- und
+Landschaftsbild aber lediglich behördenverbindlich ist, ist der
+Vollständigkeit halber immerhin festzuhalten, dass die
+Beschwerdegegnerin 2 keine Beeinträchtigung des Ortsbilds erkannt hat,
+weshalb der Beschwerdegegner 3 denn auch nicht in die diesbezügliche
+Gemeindeautonomie eingegriffen hat (vgl. auch nachstehende E. II/6).
+Dies zu Recht. So steht der Beschwerdegegnerin 2 im Rahmen der
+Beurteilung von Baugesuchen nämlich ein erheblicher Ermessensspielraum zu, in
+welchen das Verwaltungsgericht nicht ohne Not eingreift. Eine solche besteht
+vorliegend nicht. So hielt die Beschwerdegegnerin 2 denn auch
+nachvollziehbar und plausibel fest, dass sich das Bauvorhaben selbst mit
+Blick auf dasjenige im Quartier C.______ in zentralen Anliegen (Höhe,
+Gestaltung) unterscheidet und den Aspekt der guten Gesamtwirkung gemäss Art. 47
+Abs. 1 RBG erfüllt. Dass sie das ihr zustehende Ermessen hierbei
+missbraucht hat, vermögen die Beschwerdeführer weder darzutun noch ist dies
+anhand der im Recht liegenden Akten ersichtlich.
+5.
+5.1
+Die Beschwerdeführer machen weiter geltend, dass,
+selbst wenn es sich um eine zulässige Dachaufbaute handle, das zulässige Mass
+überschritten sei. Im Baugesuch des Quartiers C.______ vom 4. Mai 2021
+habe die Beschwerdegegnerin 2 nämlich argumentiert, dass auch technisch
+bedingte Dachaufbauten zur Gesamthöhe zu zählen seien. Bezüglich kommunaler
+bzw. kantonaler Höhenvorschriften verkenne der Beschwerdegegner 3
+darüber hinaus die Vorgaben im kantonalen Richtplan 2004 bzw. 2018.
+Insofern werde das Recht unrichtig angewendet und das Ermessen unterschritten.
+5.2
+5.2.1
+Gemäss Art. 44 Abs. 1 der Bauverordnung vom
+23. Februar 2011 (BauV) ist die Gesamthöhe der grösste Höhenunterschied
+zwischen dem höchsten Punkt der Dachkonstruktion und den lotrecht
+darunterliegenden Punkten auf dem massgebenden Terrain. Die Maximalhöhe von
+Dachaufbauten in der hier interessierenden Wohnzone W4 beträgt gemäss
+Art. 12 der Bauordnung der Gemeinde […] vom 23. September 2016 (BO
+[…]) 16.5 m. Nach Art.  14 Abs. 2 BO […] ist die Höhe von
+Dachaufbauten auf der bedeutendsten Strassenseite auf zwei Meter beschränkt.
+Bei der zur Strasse abgewandten Seite ist die Höhe nicht beschränkt. Gemäss
+höchstrichterlicher Rechtsprechung bedarf es dabei aber expliziter
+Vorschriften, wenn Mobilfunkantennen einschränkenden Planungsvorschriften
+unterstellt werden sollen. Insofern sind die allgemeinen Höhenbeschränkungen
+für Dachaufbauten auf Mobilfunkantennen nicht anwendbar. Dies führt indessen
+nicht dazu, dass jede Anlage auf jedem Gebäude – unabhängig von den
+Höhenbeschränkungen – bewilligungsfähig ist. Vielmehr haben die
+Mobilfunkanlagen auch dem Eingliederungsgebot zu genügen (vgl. zum
+Ganzen BGer-Urteil 1C_229/2011 vom 8. November 2011
+E. 2.4.1 f.; vgl. auch nachstehende E. II/6).
+5.2.2
+Anders als die von den Beschwerdeführern erwähnte
+bernische Gesetzgebung kennen weder das kantonale noch das kommunale
+materielle Baurecht spezifische Regelungen zur zulässigen Höhe von
+Mobilfunkanlagen, weshalb hieraus kein Anspruch auf eine Höhenbeschränkung
+abgeleitet werden kann. Sodann begründen kantonale Richtpläne, wie bereits
+erwähnt (vgl. vorstehende E. II/4.2), keine Rechte und Pflichten,
+auf welche sich Grundeigentümer oder Dritte berufen können. Folglich kann
+lediglich aus eingliederungstechnischen Belangen eine allfällige
+Höhenbeschränkung resultieren.
+6.
+6.1
+Die Beschwerdeführer rügen mit Blick auf das
+Eingliederungsgebot eine Verletzung von Art. 64 Abs. 1 BO Glarus,
+worin eine ruhige Gestaltung der Dachlandschaft verlangt wird. Der
+Beschwerdegegner 3 habe diesbezüglich weder kommunale noch kantonale
+Vorschriften erkannt, welche Anwendung finden könnten. Er übersehe allerdings
+die Vorgaben im Richtplan 2004 bzw. 2018, wonach das darin verankerte
+Kaskadenprinzip bei der Auslegung zu berücksichtigen sei. Es handle sich
+vorliegend um eine grosse Anlage mit einer grossen Antenne, wozu sich der
+Beschwerdegegner 3 nicht geäussert habe. Dessen Erwägungen zur
+Dachgestaltung verletze insbesondere den Grundsatz der Rechtsgleichheit, weil
+die Beschwerdegegnerin 2 im Entscheid zum Baugesuch C.______ vom […] den
+kantonalen Richtplan explizit beachtet habe, den richtplanerischen Grundsatz
+klein vor gross umgesetzt und ihr Ermessen im Bereich Orts- und
+Landschaftsbild in einem ruhigen Wohnquartier ausgeübt habe. Insbesondere
+habe der Beschwerdegegner 3 ausser Acht gelassen, dass das Gelände ab
+der Liegenschaft D.______ in Richtung […] ansteige und sich der angebliche
+Kamin, von der Liegenschaft E.______ aus gesehen, keineswegs ruhig in die
+Dachlandschaft einfüge.
+6.2
+6.2.1
+Gemäss Art. 47 Abs. 1 RBG sind Bauten und Anlagen so
+in ihre bauliche und landschaftliche Umgebung einzufügen, dass eine gute
+Gesamtwirkung entsteht. Erhöhten Anforderungen hinsichtlich Gestaltung und
+Einordnung haben Bauten und Anlagen in der Umgebung von geschützten,
+schützenswerten und erhaltenswerten Objekten zu genügen (Abs. 2). Verlangt
+das Gesetz ausdrücklich eine positiv gute Gestaltung zur Sicherstellung einer
+befriedigenden Gesamtwirkung, so dürfen strengere Massstäbe angelegt werden,
+welche jedoch objektiven Kriterien zu folgen haben (BGer-Urteil 1P.280/2002
+vom 28. Oktober 2002 E. 3.3). Nichtsdestotrotz können gestützt auf
+eine solche Bestimmung keine architektonischen Sonderleistungen erwartet
+werden, da lediglich eine gute Gesamtwirkung gefordert wird, die sich an
+einem Durchschnittsmassstab orientiert (Christoph Fritzsche et al., Zürcher
+Planungs- und Baurecht, Bd. 2, Bau- und Umweltrecht, 7. A.,
+Wädenswil 2024, S. 1030). Durchschnittlich dimensionierte
+Mobilfunkanlagen sind unter dem Gesichtspunkt der Einordnung in der Regel
+zuzulassen, sofern nicht individuelle Schutzobjekte tangiert werden oder
+sonst wie spezielle Verhältnisse vorliegen. Die Interessenabwägung mit den
+Zielen der Fernmeldegesetzgebung führt dazu, dass eine durchschnittlich
+dimensionierte Mobilfunkanlage in einer durchschnittlichen Wohnzone ohne
+Weiteres zugelassen werden muss (BGE 141 II 245 E. 7.4).
+Bei der Anwendung des Begriffs "gute Gesamtwirkung" kommt den
+kommunalen Behörden aufgrund der ihnen zustehenden Gemeindeautonomie (Art. 51
+BV i.V.m. Art. 119 Abs. 1 der Verfassung des Kantons Glarus vom
+1. Mai 1988 [KV GL]) ein qualifizierter Beurteilungsspielraum zu
+(BGer-Urteil 1C_39/2012 vom 2. Mai 2012 E. 2.3.2).
+Eine
+allfällig zu beurteilende Rechtsgleichheit ist dann verletzt, wenn Gleiches
+nicht nach Massgabe seiner Gleichheit gleich oder Ungleiches nicht nach
+Massgabe seiner Ungleichheit ungleich behandelt wird. Vorausgesetzt ist, dass
+sich der unbegründete Unterschied oder die unbegründete Gleichstellung auf
+eine wesentliche Tatsache bezieht (BGE 125 I 173 E. 6b).
+6.2.2
+Soweit sich die Beschwerdeführer auf den Richtplan
+beziehen, ist erneut festzuhalten, dass dieser, anders als der Nutzungsplan,
+keine Rechte und Pflichten gegenüber Grundeigentümern oder Dritten begründet
+(vgl. vorstehende E. II/4.2). Sodann handelt es sich vorliegend
+unbestrittenermassen nicht um eine Baute in der Umgebung von geschützten,
+schützenswerten und erhaltenswerten Objekten, weshalb keine allzu hohen
+Anforderungen hinsichtlich Gestaltung und Einordnung zu stellen sind. Es sind
+darüber hinaus auch keine speziellen Verhältnisse ersichtlich, die eine
+durchschnittlich dimensionierte Mobilfunkanlage aufgrund des Ortsbildschutzes
+nicht zulassen würden. Ferner können sich die Beschwerdeführer vorliegend
+nicht auf den Rechtsgleichheitsgrundsatz berufen. In dem von ihnen
+vorgebrachten Entscheid zum Baugesuch C.______ vom […] ging es, anders als im
+vorliegenden Verfahren, nämlich darum, dass die Behörde einen bereits
+unrechtmässigen Zustand nicht schützte. Daher fehlt es bereits an der
+Voraussetzung der Gleichheit des Sachverhalts. Schliesslich unterscheidet
+sich auch der streitbetroffene Neubau hinsichtlich Gestaltung und Höhe
+massgeblich von demjenigen im Quartier C.______. Eine Missachtung des
+Rechtgleichheitsgrundsatzes ist damit nicht erstellt.
+7.
+7.1
+Die Beschwerdeführer führen weiter aus, der
+Beschwerdegegner 3 wende nur eine Einzelfallbetrachtung für die zu
+beurteilende Mobilfunkantenne an und blende dadurch die vom kantonalen
+Richtplan verlangte Gesamtbetrachtung völlig aus. Die Beschwerdegegnerin 2
+habe im Entscheid zum Baugesuch C.______ vom […] noch argumentiert, die
+Antenne steche aus dem ruhigen Landschafts- und Ortsbild massiv heraus und
+wirke als Fremdkörper. Zudem habe sie keinen alternativen Standort geprüft.
+Vorliegend würden allerdings die vom kantonalen Richtplan verlangten
+Abklärungskriterien zur Optimierung des Standorts hinsichtlich der
+Auswirkungen auf das Orts- und Landschaftsbild mit aufgezeigten Alternativen
+fehlen. Gemäss Bundesgericht könnten die Kantone im Rahmen von kantonalen
+Planungsmassnahmen verlangen, dass eine Mobilfunkanlage in ihren Dimensionen
+und ihrer Leistungsfähigkeit der in einer reinen Wohnzone üblichen
+Ausstattung entspricht. Das im Richtplan verankerte Kaskadenprinzip fülle
+genau den vom Bundesgericht eröffneten Handlungsspielraum aus und sei
+dementsprechend vorliegend zu beachten.
+7.2
+Bezüglich der Verbindlichkeit des Richtplans und des
+Rechtsgleichheitsgrundsatzes kann auf das bereits Dargelegte verwiesen
+werden. Ein Vergleich mit dem Entscheid zum Baugesuch C.______ scheitert, wie
+ebenfalls bereits ausgeführt, an der Gleichheit des Sachverhalts. Ferner
+gewähren die massgebenden Bestimmungen den kommunalen Behörden ein
+erhebliches Ermessen. Dieses wurde bei der vorliegenden Beurteilung gegenüber
+derjenigen im Quartier C.______ nicht missbraucht, zumal die kommunale
+Baubehörde plausible Gründe für die Gewährung des Baugesuchs vorzubringen
+vermag (vgl. vorstehende E. II/4.2 und II/6.2).
+8.
+8.1
+Die Beschwerdeführer stellen sich weiter auf den
+Standpunkt, der vom Richtplan 2004 geforderte Leitfaden zur Errichtung von
+Mobilfunk-Basisstationen (insbesondere Kapitel E5-3) sei nie erlassen worden.
+Ebenso wenig sei der Kanton seiner Koordinationspflicht unter den
+Mobilfunkbetreibern nachgekommen. Entgegen der Stellungnahme der Abteilung
+Umweltschutz und Energie vom 14. Juli 2023 könne sich der Kanton seiner
+Aufgabe nicht entledigen, indem er auf den Leitfaden des Bundesamts für
+Umwelt für Gemeinden und Städte verweise. Bis der Kanton seine Koordinationsaufgabe
+(Richtungsweisende Festlegung zu E3-B/1 Mobilfunkversorgung im Richtplan
+2018) erfüllt habe, müssten die Gemeinden im Siedlungsgebiet mehreren kleinen
+Anlagen den Vorzug gegenüber weniger grossen Antennen geben. Dies sei weder
+im Bewilligungsentscheid noch vom Beschwerdegegner 3 umgesetzt worden.
+Sodann gestehe Letzterer zu, keine Vereinbarung betreffend Dialogmodell mit
+den Mobilfunkbetreiberinnen abgeschlossen zu haben. Er weigere sich somit,
+den vom Landrat und vom Bundesrat genehmigten Richtplan umzusetzen. Diese
+Rechtsverweigerung könne nicht ohne Folgen bleiben und verletze zudem die
+Rechtsweggarantie. Insbesondere könne dem Bürger nicht entgegengehalten
+werden, es gebe keine anwendbaren planungsrechtlichen Vorschriften, wenn sich
+die Behörde jahrelang weigere, das Recht umzusetzen. In einem solchen Fall
+seien die Vorgaben des kantonalen Richtplans im Baubewilligungsverfahren auch
+dann durchzusetzen, wenn der Kanton und die Gemeinde keine einschlägigen
+Bestimmungen erlassen hätten.
+8.2
+8.2.1
+Eine
+Rechtsverweigerung liegt vor, wenn eine Gerichts- oder Verwaltungsbehörde
+untätig bleibt. Ebenfalls als Rechtverweigerung gilt das unrechtmässige
+Nichteintreten, die Nichtbeurteilung einzelner Begehren, die unzulässige
+Einschränkung der Kognition, die Verletzung des rechtlichen Gehörs sowie die
+überspitzte Handhabung von formellen
+Vorschriften
+(vgl.
+BGer-
+Urteil 1B_579/2020
+vom 3. Februar 2021 E. 3
+,
+1C_23/2020 vom 5. Januar 2021 E. 4.3,
+5D_125/2020 vom
+29. Juni
+2020 E. 3
+).
+Vorausgesetzt ist, dass ein Anspruch auf ein
+Tätigwerden der Behörde bzw. des Gerichts besteht.
+8.2.2
+Wie bereits dargelegt, begründet der Richtplan keine
+Rechte und Pflichten für Grundeigentümer. Folglich können sich die
+Beschwerdeführer auch nicht auf eine diesbezügliche Rechtsverweigerung
+berufen. Das Dialogmodell ermöglicht es den Gemeinden sodann aktiv Einfluss
+auf zukünftige Standorte von Mobilfunkantennen zu nehmen, sofern eine
+Vereinbarung über ein solches Modell abgeschlossen wurde. Ein eingereichtes
+Baugesuch ist dennoch ausschliesslich nach den massgeblichen
+Gesetzesvorschriften zu beurteilen, wobei eine Vereinbarung über ein
+Dialogmodell die gesetzlichen Regelungen weder zu ersetzen noch zu verhindern
+vermag (vgl. hierzu den Entscheid des Baurekursgerichts des Kantons
+Zürich [BRGE III] Nr. 0091/2021 vom 14. Juli 2021
+E. 9.2). Vorliegend ist die Beschwerdegegnerin 2 weder zum
+Abschluss des Dialogmodells verpflichtet noch wurde ein solches vereinbart.
+Indem sich die Behörden auf die gesetzlichen Bestimmungen stützten und den ihnen
+zustehenden Ermessensspielraum eingehalten haben, ist keine
+Rechtsverweigerung zu erkennen.
+9.
+9.1
+Die Beschwerdeführer bringen ferner vor, der
+Beschwerdegegner 3 reduziere den Beschluss E3-B/2 zum Ausbau von
+Mobilfunkanlagen im kantonalen Richtplan (Seite E/15) auf Belange der
+Ortsbildgestaltung. Entgegen dessen Ansicht räume das Bundesrecht den
+Kantonen aber auch ausserhalb der Ortsbildgestaltung einen Handlungsspielraum
+ein. Darüber hinaus gelte der Grundsatz gross vor klein im ganzen Siedlungsgebiet.
+Dies unabhängig vom Ortsbildschutz. Die vom Richtplan 2018 geforderte
+Bevorzugung von mehreren kleinen Anlagen bzw. Antennen im
+Siedlungsgebiet sei bedingungslos. Dies im Gegensatz zu demjenigen Titel,
+welcher sich auf das Orts- und Landschaftsbild beziehe.
+9.2
+Die Festlegungen im Richtplan 2018 (Kapitel E3
+Mobilfunkanlagen) sind zwar in der Nutzungsplanung, nicht aber bedingungslos
+im Baubewilligungsverfahren umzusetzen. Die Grundsätze beschreiben lediglich
+den Rahmen, in welchem die Gemeinden ihr Planungsermessen auszuüben haben,
+was deren Entscheidungen keineswegs abschliessend zu bestimmen vermag (Pierre
+Tschannen in: Heinz Aemisegger et al. [Hrsg.], Praxiskommentar RPG, Richt-
+und Sachplanung, Interessenabwägung, Zürich/Basel/Genf 2019, Art. 9
+N. 6). Dementsprechend verpflichten die von den Beschwerdeführern
+angerufenen Stellen im Richtplan die Behörden nicht bedingungslos, womit die
+Rüge der Beschwerdeführer im Ergebnis ins Leere zielt.
+10.
+10.1
+Schliesslich stellen sich die Beschwerdeführer auf
+den Standpunkt, es sei ihnen nicht möglich gewesen, die vom kantonalen
+Richtplan plötzlich abweichende Rechtsanwendung durch die
+Beschwerdegegnerin 2 und die Fortschreibung der Nichtanwendung des
+kantonalen Richtplans durch den Beschwerdegegner 3 vorauszusehen.
+Insofern sei der Grundsatz von Treu und Glauben verletzt. Sie, die
+Beschwerdeführer, würden sich deshalb dazu veranlasst sehen, sowohl den
+Kanton als auch die Gemeinde anhalten zu lassen, den kantonalen Richtplan
+umzusetzen.
+10.2
+Art. 9 Abs. 1 RPG hält fest, dass Richtpläne
+behördenverbindlich sind. Die Behördenverbindlichkeit führt jedoch nicht
+dazu, dass die Baubehörde bei der Überprüfung eines Baugesuchs auch die
+Vorgaben der Richtpläne zu beachten hätte, andernfalls diese auch grundeigentümerverbindlich
+wären. Diese Eigenschaften kommt, wie bereits dargelegt, den Richtplänen aber
+gerade nicht zu. Vielmehr sind die Richtpläne aller Stufen (kantonal,
+regional, kommunal) im Rahmen von Planerlassen zu beachten und müssen
+dergestalt in die grundeigentümerverbindlichen Nutzungsplanungen einfliessen.
+Demnach entfällt eine direkte Anwendung von Richtplänen im
+Baubewilligungsverfahren (vgl. vorstehende E. II/4.2.1). Sofern
+sich die Beschwerdeführer darauf berufen, sie hätten die Nichtanwendung des
+kantonalen Richtplans nicht voraussehen können, kann ihnen nicht gefolgt
+werden. Den Beschwerdeführern hätte nicht zuletzt mit Blick auf die
+bundesrechtlichen Bestimmungen (vgl. insbesondere Art. 9
+Abs. 1 RPG) klar sein müssen, dass der Richtplan im Bewilligungsverfahren
+keine direkte Anwendung findet. Der Grundsatz von Treu und Glaube ist somit
+nicht verletzt.
+11.
+Zusammenfassend wird im
+Baubewilligungsverfahren der Nutzungsplan im Einzelfall als Akt der
+Rechtsanwendung umgesetzt. Dabei ist er aber nicht Teil der Planung, auf
+welche das Kapitel E3-B/2 im Richtplan 2018 Bezug nimmt. Dementsprechend
+spielt der Richtplan im Baubewilligungsverfahren nur eine untergeordnete
+Rolle, wobei ihm noch am ehesten bei der Beurteilung von
+Ausnahmebewilligungen grössere Bedeutung zukommt (vgl. Tschannen,
+Art. 9 N. 34). Einen direkten Anspruch zu Gunsten einer Drittperson
+verleiht er im Baubewilligungsverfahren indessen nicht, da er als
+Planungsinstrument lediglich behördenverbindlich ist und nur (aber immerhin)
+vorgibt, in welchem Rahmen der Nutzungsplan umzusetzen ist. Ist der Richtplan
+einer gerichtlichen Kontrolle nicht zugänglich, so kann auch dessen Umsetzung
+nicht Gegenstand einer solchen Überprüfung sein. Daraus folgt, dass die
+Beschwerdeführer aus dem Inhalt des Richtplans nichts zu ihren Gunsten
+abzuleiten vermögen. Darüber hinaus sind bei der Beurteilung des
+streitbetroffenen Bauvorhabens weder formelle Fehler ersichtlich noch wurden
+die massgebenden materiell-rechtlichen Gesetzesbestimmungen verletzt. Der vorliegend
+angefochtene Entscheid ist im Ergebnis somit nicht zu beanstanden.
+Dies führt zur Abweisung
+der Beschwerde.
+III.
+1.
+Nach Art. 134 Abs. 1 lit.
+c VRG hat die Partei, welche im Beschwerde-, Klage- oder Revisionsverfahren
+unterliegt, die amtlichen Kosten zu tragen. Ausgangsgemäss sind die
+Gerichtskosten von pauschal Fr. 3
+'
+000.- den Beschwerdeführern aufzuerlegen und mit dem
+von ihnen bereits geleisteten Kostenvorschuss in gleicher Höhe zu verrechnen.
+2.
+Die
+Beschwerdegegnerin 1 ist eine juristische Person, welche den vorliegenden
+Prozess durch einen im eigenen Rechtsdienst angestellten Rechtsanwalt führen
+liess. Da sie als obsiegende Partei lediglich dann Anspruch auf eine
+Parteientschädigung hat, wenn sie durch eine externe Anwältin oder durch
+einen externen Anwalt vertreten ist, steht ihr somit keine
+Parteientschädigung zu (vgl. BGer-Urteile 2C_899/2008 vom 18. Juni
+2009 E. 5.2, 2A.191/2005 vom 2. September 2005 E. 6,
+1A.86/2003 vom 15. Dezember 2003 E. 6.2, je mit Hinweisen; Arnold
+Rusch/Adrian Fischbacher, Entschädigung des anwaltlichen Prozessierens in
+eigener Sache und verwandter Formen, in: AJP 2019 S. 686 ff., 688;
+Lukas Müller/Sandro E. Obrist/Patrik Odermatt, Streitpunkt
+Parteientschädigung, Das Kriterium der Notwendigkeit bei berufsmässiger
+Vertretung zur Bestimmung der Parteientschädigung, in: AJP 2018
+S. 979 ff., 982 f.).
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Die
+Gerichtskosten von Fr. 3
+'
+000.- werden den Beschwerdeführern auferlegt und
+mit dem von ihnen bereits geleisteten Kostenvorschuss in gleicher Höhe
+verrechnet.
+3.
+Es
+wird keine Parteientschädigung zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
