@@ -1,0 +1,3814 @@
+---
+decision_id: "gl_gerichte_OG.2022.00044"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2022.00044"
+docket_2: "OGS.2024.173"
+decided: "2024-11-29"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1889&W10_KEY=218274&nTrefferzeile=3&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/0.101/art-008.md", "switzerland/bund/acts/101/art-013.md", "switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/142.20/art-118.md", "switzerland/bund/acts/210/art-028a.md", "switzerland/bund/acts/220/art-041.md", "switzerland/bund/acts/220/art-044.md", "switzerland/bund/acts/220/art-046.md", "switzerland/bund/acts/220/art-047.md", "switzerland/bund/acts/220/art-049.md", "switzerland/bund/acts/220/art-073.md", "switzerland/bund/acts/311.0/art-010.md", "switzerland/bund/acts/311.0/art-012.md", "switzerland/bund/acts/311.0/art-022.md", "switzerland/bund/acts/311.0/art-034.md", "switzerland/bund/acts/311.0/art-040.md", "switzerland/bund/acts/311.0/art-042.md", "switzerland/bund/acts/311.0/art-043.md", "switzerland/bund/acts/311.0/art-047.md", "switzerland/bund/acts/311.0/art-048a.md", "switzerland/bund/acts/311.0/art-049.md", "switzerland/bund/acts/311.0/art-051.md", "switzerland/bund/acts/311.0/art-066a.md", "switzerland/bund/acts/311.0/art-109.md", "switzerland/bund/acts/311.0/art-111.md", "switzerland/bund/acts/311.0/art-122.md", "switzerland/bund/acts/311.0/art-123.md", "switzerland/bund/acts/311.0/art-126.md", "switzerland/bund/acts/311.0/art-134.md", "switzerland/bund/acts/312.0/art-005.md", "switzerland/bund/acts/312.0/art-010.md", "switzerland/bund/acts/312.0/art-082.md", "switzerland/bund/acts/312.0/art-084.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-138.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-391.md", "switzerland/bund/acts/312.0/art-398.md", "switzerland/bund/acts/312.0/art-401.md", "switzerland/bund/acts/312.0/art-404.md", "switzerland/bund/acts/312.0/art-408.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-426.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/312.0/art-434.md", "switzerland/bund/acts/312.0/art-442.md"]
+---
+
+# GL Gerichte OG.2022.00044
+
+## Regeste
+
+Versuchte vorsätzliche Tötung etc.
+
+## Text
+
+Glarus Obergericht 29.11.2024 OG.2022.00044 (OGS.2024.173)
+Glaris Obergericht 29.11.2024 OG.2022.00044 (OGS.2024.173)
+Glarona Obergericht 29.11.2024 OG.2022.00044 (OGS.2024.173)
+
+Versuchte vorsätzliche Tötung etc.
+
+Kanton Glarus
+Obergericht
+Es wirken mit: Obergerichtsp
+räsidentin Hauser, Oberrichterinnen Trümpi und Müller,
+Oberrichter Marti und Ilg,
+Gerichtsschreiber
+Hug.
+Urteil
+vom 29. November 2024
+Verfahren
+OG.2022.00044-46 und OG.2022.00048
+1.
+Staats- und
+Jugendanwaltschaft
+Anklägerin,
+Berufungsbeklagte
+des Kantons Glarus
+und
+Anschlussberufungsklägerin
+(OG.2022.00044)
+Berufungsklägerin
+und
+Anschlussberufungsbeklagte
+(OG.2022.00045;
+OG.2022.00046)
+2. A.______
+Privatkläger,
+Berufungsbeklagter
+(OG.2022.00044)
+Berufungskläger
+(OG.2022.00048)
+vertreten durch
+RA lic. iur.
+Thomas
+Fingerhuth,
+gegen
+1.
+B.______
+Beschuldigter,
+Berufungskläger,
+Anschlussberufungsbeklagter
+(OG.2022.00044),
+Berufungsbeklagter
+(OG.2022.00048)
+amtlich verteidigt durch RA lic. iur. Vedat Erduran
+2. C.______
+Beschuldigter,
+Berufungsbeklagter
+(OG.2022.00045; OG.2022.00048)
+und
+Anschlussberufungskläger
+(OG.2022.00045)
+amtlich verteidigt durch
+RAin lic. iur.
+Viviane A.
+Hasler,
+3. D.______
+Beschuldigter,
+Berufungsbeklagter
+(OG.2022.00046; OG.2022.00048)
+und                                                                                                              Anschlussberufungskläger
+(OG.2022.00046)
+amtlich verteidigt durch RA lic. iur. Philipp
+Langlotz,
+Gegenstand
+Versuchte
+vorsätzliche Tötung etc.
+Präliminarien
+1.
+Die Glarner Staats- und Jugendanwaltschaft (nachfolgend
+Staatsanwaltschaft) erhob je mit Eingabe vom 13. November 2020 Anklage gegen
+C.______, B.______ und D.______ (act. 1/1-1/3).
+C.______ und D.______ sind Brüder. Sie werden daher, wenn sie im Folgenden
+miteinander gemeint sind, als CD.______-Brüder bezeichnet; wo C.______ als
+Einzelperson angesprochen ist, lautet die Nennung C.______.
+2.
+Am 28. Juni 2022 fällte die Strafkammer des Glarner Kantonsgerichts
+in erster Instanz das nachstehende Urteil (act. 122; Verfahren
+SG.2020.00126-128):
+1.
+C.______ wird freigesprochen von den Vorwürfen
+der versuchten vorsätzlichen Tötung gemäss Art. 111
+StGB in Verbindung mit Art. 22 Abs. 1 StGB;
+der versuchten Täuschung der Behörden gemäss Art. 118
+Abs. 1 AIG in Verbindung mit Art. 22 Abs. 1 StGB.
+2.
+B.______ ist schuldig
+der versuchten vorsätzlichen Tötung gemäss Art. 111
+StGB in Verbindung mit Art. 22 Abs. 1 StGB (zum Nachteil von A.______);
+der einfachen Körperverletzung im Sinne von Art. 123
+Ziff. 2 StGB (zum Nachteil von E.______).
+3.
+D.______ wird freigesprochen vom Vorwurf
+der versuchten vorsätzlichen Tötung gemäss Art. 111
+StGB in Verbindung mit Art. 22 Abs. 1 StGB.
+4.
+B.______ wird zu folgender Strafe verurteilt:
+Unbedingte Freiheitsstrafe von 6 Jahren.
+5.
+Für B.______ wird eine Landesverweisung von 10 Jahren
+angeordnet. Die Landesverweisung wird im Schengener Informationssystem
+ausge­schrieben.
+6.
+Die folgenden bei C.______ beschlagnahmten Gegenstände
+(vgl. act. 2 / 4.1.02) werden diesem herausgegeben:
+[…]
+7.
+Die folgenden bei B.______ beschlagnahmten Gegenstände
+(vgl. act. 2 / 4.2.02, 5.2.04a und 5.2.05) werden diesem
+herausgegeben:
+[…]
+8.
+Die folgenden bei D.______ beschlagnahmten Gegenstände
+(vgl. act. 2 / 5.3.07 und 5.3.08) werden diesem herausgegeben:
+[…]
+9.
+Die DNA-Probe von C.______ wird vernichtet und dessen
+DNA-Profil wird gelöscht.
+10.
+Der Antrag von B.______ betreffend Vernichtung seiner
+DNA-Probe und Löschung seines DNA-Profils wird abgewiesen.
+11.
+Die DNA-Probe von D.______ wird vernichtet und dessen
+DNA-Profil wird gelöscht.
+12.
+Die Gerichtsgebühr für die Verfahren SG.2020.00126 bis
+SG.2020.00128 wird auf insgesamt CHF 20'000.— festgesetzt. […]
+Die Untersuchungskosten der Staats- und
+Jugendanwaltschaft betragen insgesamt CHF 41'596.—. Die Untersuchungsgebühr
+beträgt CHF 25'500.—.
+13.
+Die B.______ betreffenden Verfahrenskosten betragen:
+[…]
+CHF 96'807.30 Total
+Diese Kosten werden B.______ vollumfänglich auferlegt.
+Die Kosten der amtlichen Verteidigung werden erst dann
+von B.______ bezogen, wenn es dessen wirtschaftliche Verhältnisse erlauben.
+Die wirtschaftlichen Verhältnisse von B.______ werden spätestens im Mai
+2027 überprüft.
+14.
+Die übrigen Kosten sowie sämtliche Übersetzungskosten
+gehen zulasten des Staates.
+15.
+Der Antrag von B.______ betreffend Entschädigung und
+Genugtuung wird abgewiesen.
+16.
+C.______ wird eine Entschädigung von CHF 48'000.—
+zuzüglich Zins zu 5 % seit 9. Mai 2020 aus der Gerichtskasse ausbezahlt.
+17.
+C.______ wird eine Genugtuung von CHF 42'700.—
+zuzüglich Zins zu 5 % seit 9. Mai 2020 aus der Gerichtskasse ausbezahlt.
+18.
+D.______ wird eine Entschädigung von CHF 7'889.20
+zuzüglich Zins zu 5 % seit 17. Februar 2020 ausbezahlt.
+19.
+D.______ wird eine Genugtuung von CHF 15'800.— zuzüglich
+Zins zu 5 % seit 17. Februar 2020 ausbezahlt.
+20.
+Es wird im Grundsatz festgestellt, dass A.______
+gegenüber B.______ aufgrund der begangenen Straftat ein Anspruch auf
+Schadenersatz zusteht. B.______ wird verpflichtet, A.______ einen noch zu
+bezif­fernden Betrag zu bezahlen. Im Übrigen, zwecks Bezifferung dieses
+zivil­rechtlichen Anspruchs, wird A.______ mit seiner Zivilforderung betref­fend
+Schadenersatz auf den Zivilweg verwiesen.
+21.
+Es wird im Grundsatz festgestellt, dass A.______
+gegenüber B.______ aufgrund der begangenen Straftat ein Anspruch auf
+Genugtuung zusteht. B.______ wird verpflichtet, A.______ einen noch zu
+bezif­fernden Betrag zu bezahlen. Im Übrigen, zwecks Bezifferung dieses
+zivil­rechtlichen Anspruchs, wird A.______ mit seiner Zivilforderung betref­fend
+Genugtuung auf den Zivilweg verwiesen.
+22.
+Rechtsanwältin lic. iur. Viviane Andrea Hasler wird als
+amtliche Verteidi­gung im Verfahren vor Kantonsgericht mit CHF 51'956.20
+(inkl. Auslagen und MwSt.) aus der Gerichtskasse entschädigt.
+23.
+Rechtsanwalt MLaw Damian Stocker wird als amtliche
+Verteidigung im Verfahren vor Kantonsgericht mit CHF 45'310.50 (inkl.
+Auslagen und MwSt.) aus der Gerichtskasse entschädigt.
+24.
+Rechtsanwalt lic. iur. Philipp Langlotz wird als
+amtliche Verteidigung im Verfahren vor Kantonsgericht mit CHF 28'024.90
+(inkl. Auslagen und MwSt.) aus der Gerichtskasse entschädigt.
+25.
+Rechtsanwalt lic. iur. Thomas Fingerhuth wird als
+unentgeltliche Rechts­vertretung von A.______ mit CHF 849.60 (inkl.
+Auslagen und MwSt.) aus der Gerichtskasse entschädigt.
+26.
+Die zugunsten von C.______ bezahlte Sicherheitsleistung
+von insgesamt CHF 50'000.— wird freigegeben. Dabei sind CHF 30'000.— an
+[...], und CHF 20'000.— an [...], auszubezahlen.
+27.
+[Mitteilungen]
+3.
+Gegen dieses Urteil
+gingen beim Obergericht insgesamt vier Berufungen (konkret eine vom
+Beschuldigten B.______ [OG.2022.00044], zwei von der Staatsanwaltschaft
+[OG.2022.00045/46] und eine vom Privatkläger A.______ [OG.2022.00048]) und
+drei Anschlussberufungen (je eine von der Staatsan­waltschaft und den
+Beschuldigten C.______ und D.______) ein. Die Aktenfüh­rung für sämtliche
+Berufungsverfahren erfolgte im Dossier OG.2022.00044. Die Parteien stellten
+vor Obergericht die nachstehenden Anträge:
+A.
+Anträge des Beschuldigten
+B.______
+(act. 131 und act. 164 S. 3):
+1.
+Die
+Dispositiv-Ziffern 2 und 4 des Urteils des Kantonsgerichts seien aufzuheben
+und B.______ sei von Schuld und Strafe freizusprechen.
+2.
+Dispositiv-Ziffer
+5 [Landesverweisung] sei ersatzlos aufzuheben.
+3.
+Dispositiv-Ziffer
+10 sei aufzuheben; die DNA-Probe von B.______ sei zu vernichten und dessen
+DNA-Profil sei zu löschen.
+4.
+Dispositiv-Ziffer
+13 sei aufzuheben und die gesamten Verfahrenskosten seien durch den Staat
+zu tragen.
+5.
+Dispositiv-Ziffer
+15 sei aufzuheben und es sei B.______ aus der Gerichtskasse Schadenersatz
+von CHF 13‘697.- und eine Genugtuung von CHF 23‘700.-, je zzgl.
+5 % Zins seit 11. Dezember 2019, zuzu­sprechen.
+6.
+Dispositiv-Ziffern
+20 und 21 seien aufzuheben und die Zivilforderungen von A.______ seien
+abzuweisen.
+7.
+Die
+Berufung von A.______ [nachfolgend Bst. C.] und die Anschlussberufung der
+Staatsanwaltschaft [nachfolgend Bst. B./a] seien abzuweisen.
+8.
+Alles
+unter Kosten- und Entschädigungsfolge zu Lasten des Staates.
+B.
+Anträge der
+Staatsanwaltschaft
+(act. 132, 133, 144 und 164 S.
+73):
+a)
+Anschlussberufung in Bezug auf den Beschuldigten
+B.______
+:
+1.
+Die
+Berufung des Beschuldigten B.______ [oben Bst. A.] sei abzuweisen.
+2.
+In
+Abänderung von Dispositiv-Ziffer 4 des Urteils des Kantonsgerichts sei der
+Beschuldigte B.______ mit einer Freiheitsstrafe von 6½ Jahren zu bestra­fen,
+unter Anrechnung der erstandenen Haft.
+3.
+Alles
+unter Kostenfolge zulasten des Beschuldigten
+b) Berufung in Bezug auf den Beschuldigten
+C.______
+:.
+1.
+In
+Aufhebung von Dispositiv-Ziffer 1 des Urteils des Kantonsgerichts sei der
+Beschuldigte C.______ der versuchten vorsätzlichen Tötung (Art. 111 StGB
+i.V.m. Art. 22 Abs. 1 StGB), des Angriffs (Art. 134 StGB) und der
+versuchten Täuschung der Behörden (Art. 118 Abs. 1 AIG i.V.m. Art. 22 Abs.
+1 StGB) schuldig zu sprechen.
+2.
+Der
+Beschuldigte sei im Zusatz zum Strafbefehl der Staatsanwaltschaft Win­terthur/Unterland
+vom 16.02.2018 mit einer Freiheitsstrafe von sechs Jahren und neun Monaten
+zu bestrafen, unter Anrechnung der erstandenen Haft.
+3.
+Der
+Beschuldigte sei für 15 Jahre des Landes zu verweisen.
+4.
+In
+Abänderung von Dispositiv-Ziffer 9 sei das DNA-Profil des Beschuldigten
+nicht zu löschen.
+5.
+Die
+Kosten des Verfahrens, exkl. Übersetzungskosten, seien dem Beschuldigten
+anteilmässig unter solidarischer Haftbarkeit mit den Mitbeschuldigten
+B.______ und D.______ aufzuerlegen.
+6.
+In
+Aufhebung von Dispositiv-Ziffern 16 und 17 sei dem Beschuldigten weder eine
+Entschädigung noch eine Genugtuung zuzu­sprechen.
+7.
+Die
+Anschlussberufung von C.______ [nachfolgend Bst. E.] sei abzuweisen.
+8.
+Alles
+unter Kostenfolge zulasten des Beschuldigten.
+c)
+Berufung in Bezug auf den Beschuldigten
+D.______
+:
+1.
+In
+Aufhebung von Dispositiv-Ziffer 3 des Urteils des Kantonsgerichts sei der
+Beschuldigte D.______ der versuchten vorsätzlichen Tötung (Art. 111 StGB
+i.V.m. Art. 22 Abs. 1 StGB) und des Angriffs (Art. 134 StGB) schuldig zu
+spre­chen
+2.
+Der
+Beschuldigte sei mit einer Freiheitsstrafe von fünf Jahren zu bestrafen,
+unter Anrechnung der erstandenen Haft.
+3.
+Der
+Beschuldigte sei für 15 Jahre des Landes zu verweisen.
+4.
+In
+Abänderung von Dispositiv-Ziffer 11 sei das DNA-Profil des Beschuldigten
+nicht zu löschen.
+5.
+Die
+Kosten des Verfahrens, exkl. Übersetzungskosten, seien dem Beschuldigten
+anteilmässig unter solidarischer Haftbarkeit mit den Mitbeschuldigten
+B.______ und C.______ aufzuerlegen.
+6.
+In
+Aufhebung von Dispositiv-Ziffern 18 und 19 des Urteils des Kantonsgerichts
+sei dem Beschuldigten weder eine Entschädigung noch eine Genugtuung zuzu­sprechen.
+7.
+Die
+Anschlussberufung von D.______ [nachfolgend Bst. D.] sei abzuweisen.
+8.
+Alles
+unter Kostenfolge zulasten des Beschuldigten.
+C.
+Anträge des
+Privatklägers A.______
+(act. 134 und 164 S. 3):
+1.
+Der
+Beschuldigte C.______ sei in Aufhebung von Dispositiv-Ziffer 1 des Urteils
+des Kantonsgerichts der versuchten vorsätzlichen Tötung im Sinne von Art.
+111 StGB i.V.m. Art. 22 Abs. 1 StGB schuldig zu sprechen und dafür ange­messen
+zu bestrafen.
+2.
+Der
+Beschuldigte D.______ sei in Aufhebung von Dispositiv-Ziffer 3 der
+versuchten vorsätzlichen Tötung im Sinne von Art. 111 StGB i.V.m. Art. 22
+Abs. 1 StGB schuldig zu sprechen und dafür angemessen zu bestrafen.
+3.
+In
+Aufhebung von Dispositiv-Ziffern 16 – 20 sei festzustellen, dass die
+Beschuldigten C.______, B.______ und D.______ im Grundsatz
+schadenersatzpflichtig sind gegenüber dem Privatkläger A.______.
+4.
+Die
+Beschuldigten C.______, B.______ und D.______ seien zu verpflichten, dem
+Privatkläger A.______ eine Entschädigung für seine anwalt­liche Vertretung
+in der Höhe der vor der ersten Instanz eingereichten Honorarno­te,
+zuzüglich Zins von 5 % ab mittlerem Verfall, zu bezahlen.
+5.
+In
+Aufhebung von Dispositiv-Ziffer 21 seien die Beschuldigten C.______,
+B.______ und D.______ zu verpflichten, dem Privatkläger A.______ eine
+Genugtuung von je CHF 3‘000.-, zuzüglich Zins von 5 % ab 20. Mai 2017,
+zu bezahlen.
+6.
+Die
+Berufung von B.______ [oben Bst. A.] sei abzuweisen.
+7.
+Alles
+unter Kosten- und Entschädigungsfolgen.
+D.
+Anträge des
+Beschuldigten D.______
+(Anschlussberufung, act. 145
+und 164 S. 3):
+1.
+In
+Abänderung von Dispositiv-Ziffer 18 des Urteils des Kantonsgerichts sei dem
+Beschuldigten D.______ aus der Gerichtskasse eine Entschädigung in der Höhe
+von CHF 25‘900.-, zuzüglich Zins zu 5 % seit dem 1. Februar 2020,
+auszurich­ten.
+2.
+Die
+Berufungen der Staatsanwaltschaft (oben Bst. B./c) und des Privatklägers
+A.______ (zuvor Bst. C.) seien abzuweisen.
+3.
+Alles
+unter gesetzlicher Kostenfolge.
+E.
+Anträge des
+Beschuldigten C.______
+(Anschlussberufung, act.
+146):
+1.
+In
+Abänderung von Dispositiv-Ziffer 17 des Urteils des Kantonsgerichts sei dem
+Beschuldigten C.______ aus der Gerichtskasse eine Genugtuung von
+CHF 126‘800.-, zuzüglich Zins von 5 % seit mittlerem Verfall am
+9. Mai 2020, zuzusprechen.
+2.
+Die
+Berufungen der Staatsanwaltschaft (oben Bst. B./b) und des Privatklägers
+A.______ (zuvor Bst. C.) seien abzuweisen.
+3.
+Alles
+unter Kosten- und Entschädigungsfolgen zulasten der Gerichtskasse.
+Erwägungen
+I.
+Prozessuales
+1.
+Das zuvor
+zitierte Strafurteil der Strafkammer des Kantonsge­richts vom 28. Juni 2022
+(act. 122) ist der Berufung und Anschlussberufung durch die hier als
+Rechtsmitteleinleger auftretenden Parteien zu­gänglich (Art. 398 Abs. 1 und
+Art. 401 Abs. 3 lit. b StPO in Ver­bindung mit Art. 382 Abs. 1 StPO
+). Die eingegangenen
+Berufungen und
+Anschlussberufungen sind rechtskonform erfolgt; auf die betreffenden
+Rechtsmitteleingaben ist einzutreten.
+2.
+Am 1. und 2. März 2023 fand vor
+dem Obergericht die mündliche Berufungs­verhand­lung statt (act. 164).
+Am 29. November 2024 fällte das
+Obergericht seinen Ent­scheid (act. 179). Dieser wird schrift­lich eröffnet,
+nachdem die Parteien auf eine mündliche Urteilsbekannt­gabe verzich­tet haben
+(Art. 84 Abs. 3 StPO; act. 164 S. 169).
+3.
+Die hier zu beurteilenden
+Berufungen und Anschlussberufungen richten sich nicht gegen sämtliche
+Dispositiv-Ziffern des erstinstanzlichen Strafurteils. Unbestritten blieben
+folgende Urteilspunkte: Dispositiv-Ziffern 6 bis 8 (Herausgabe
+beschlagnahmter Gegenstände); Dispositiv-Ziffer 12 (Kostenfestsetzung für die
+Untersuchung und das erstinstanzliche Verfahren;); Dispositiv-Ziffern 22 bis
+25 (Ent­schädigung der amtlichen Verteidigungen und des unent­geltli­chen
+Vertreters des Privatklägers für die Untersuchung und das erstinstanzliche
+Verfahren) sowie Dis­positiv-Ziffer 26 (Freigabe einer Kau­tion).
+Die nicht angefochtenen
+Urteilsziffern sind in Rechtskraft erwachsen (Art. 404 Abs.1 StPO in
+Verbindung mit Art. 437 Abs. 1 lit. a und Abs. 2 StPO), wovon im nachste­henden
+Entscheid Vormerk zu nehmen ist (zur erstinstanzlichen Kostenregelung siehe
+allerdings Art. 428 Abs. 3 StPO).
+4.
+In den nachfolgenden Erwägungen
+wird für die tatsächliche und rechtliche Würdi­gung der eingeklagten
+Sachverhalte teilweise auf die Ausführungen im vorinstanzli­chen Entscheid
+verwiesen; die entsprechenden Verweisungen erfolgen gestützt auf Art. 82 Abs.
+4 StPO, was im Folgenden nicht mehr jedes Mal explizit erwähnt wird.
+Mit Berufung kann eine unkorrekte
+Feststellung des Sachverhalts sowie eine falsche oder unangemessene
+Rechtsanwendung durch die Vorinstanz gerügt werden (Art. 398 Abs. 3
+StPO); das Obergericht als Berufungsinstanz überprüft das vor­instanzliche
+Urteil in den angefochtenen Punkten mit voller Kognition (Art. 398
+Abs. 2 StPO). Allerdings hat es sich dabei nicht mit allen
+Parteistandpunkten einlässlich auseinanderzusetzen (BGE 146 IV 297 E. 2.2.7
+S. 308 mit Hinweisen) und beschränkt sich daher in den materiellen Erwägungen
+auf die für seinen Entscheid wesentlichen Aspekte.
+II.
+Delikt
+«Birmensdorf»
+(Beschuldigte:
+B.______ und CD.______-Brüder)
+Vorbemerkung zum Gerichtsstand
+Glarus: Der im vorliegenden Verfahren Beschul­digte B.______ wurde am 3.
+Oktober 2018 in Bilten (Gemeinde Glarus Nord) von einer zunächst unbekannten
+Täterschaft brutal nieder­geschlagen und schwer am Kopf verletzt. Im Verlauf der
+Tatermittlungen wurde bekannt, dass B.______ im Frühjahr 2017 als Gerant den
+Nachtclub «XY______» in Birmensdorf/ZH führte (U-act. 8.0.01 S. 7 oben);
+damals soll sich im besagten Nachtclub das nachfolgend näher zu beleuchtende
+Gewaltdelikt zugetragen haben und soll B.______ darin als Mittäter verwickelt
+gewesen sein. Die Glarner Untersuchungsbehörden gingen in der Folge der Frage
+nach, ob der Überfall auf B.______ im Oktober 2018 womöglich ein
+Vergeltungsakt für den vermuteten Gewaltvorfall im Club «XY______» war. Als
+sich hierbei die Hinweise verdichteten, dass es im «XY______» tatsächlich zu
+einer gewaltsamen Auseinander­setzung gekommen sein könnte, ersuchte die
+Glarner Staatsanwaltschaft die Staatsanwalt­schaft des Kantons Zürich, in der
+betreffenden Angelegenheit das Strafverfahren zu übernehmen (U-act.
+13.1.01-03). Diese lehnte jedoch eine Verfah­rensübernahme ab mit Verweis auf
+die von den Glarnern bis dahin bereits unter­nommenen weitrei­chenden
+Abklärungen (U-act. 13.1.04).
+1.
+Anklagesachverhalt
+Die Staatsanwaltschaft legt in
+ihren Anklagen je vom 13. November 2020 (act. 1/1‑3) den drei
+Beschuldigten B.______, C.______ und D.______ Folgendes zur Last:
+In der Nacht auf Samstag, 20. Mai
+2017, hätten sich die CD.______-Brüder als Gäste in B.______s Nachtclub
+«XY______» in Birmensdorf/ZH aufgehalten. In jener Nacht, zwischen 00:30 und
+04:00 Uhr, sollen dann B.______ und die CD.______-Brüder «zusammen und nach
+gemeinsamer vorgän­giger Absprache» A.______ und E.______ angegriffen haben,
+als diese beabsichtigten, den Club «XY______» zu verlassen. Konkret habe
+B.______ mit einem Baseballschläger/Holzstiel zunächst auf die linke
+Stirnseite von E.______ eingeschlagen, wodurch die­ser eine Kontusion und
+eine Riss-Quetschwunde am Kopf erlitten habe. In der Folge sei A.______
+angegriffen wor­den; dabei hätten die CD.______-Brüder den bedrängten
+A.______ je an einem Arm festgehalten, währenddessen B.______ mit einem
+Baseballschläger/Holzstiel mindestens einmal kraftvoll auf die Stirn von
+A.______ geschlagen habe, woraufhin A.______ benommen und widerstandsunfähig
+gewesen sei. Danach hätten B.______ sowie die CD.______-Brüder, eventuell
+auch nur eine oder zwei dieser Personen, weiter auf Kopf, Rücken, Arme und
+Beine von A.______ eingeschlagen. Gemäss Anklage erlitt A.______ bei diesem
+Überfall ein offenes Schädel-Hirn-Trauma und war in der Folge während
+mindestens zwei Jahren arbeitsunfähig.
+2.
+Sachverhalts- und rechtliche
+Würdigung der Vorinstanz
+Die Vorinstanz folgte in ihrem
+Entscheid vom
+28. Juni 2022 (act. 122) der Anklage nur
+teilweise. Zum Sachverhalt erwog sie Folgendes (act. 122 S. 55 ff.
+E. 12.
+«Sachverhalt, von dem das Gericht ausgeht»
+):
+A.______ und E.______ hätten sich
+in der Nacht auf den 20. Mai 2017 im «XY______» aufgehalten und ungefähr eine
+Flasche Whisky mit Cola konsumiert; zwi­schendurch habe E.______ mutmasslich
+unabsichtlich ein Glas zerbrochen. Als A.______ und E.______ sich um ca.
+03.30 Uhr angeschickt hätten, das Lokal zu verlassen, sei es zu einer
+tätlichen Auseinandersetzung gekommen, in welche mehrere Personen involviert
+gewesen seien. Zunächst habe E.______ einen Wortwechsel mit B.______
+initiiert, wobei nicht auszuschliessen sei, dass E.______ dabei B.______
+verbal provoziert habe. Im Verlaufe die­ses Disputs habe A.______ ein Messer
+gezückt und danach erfolglos versucht, E.______ wegzuziehen. Die beiden
+CD.______-Brüder seien dann hinzugetreten in der Absicht, zu schlichten. Es
+sei zu einem Handge­menge bzw. Gerangel gekommen. Die Gruppe habe sich zum
+Ein- und Ausgangs­bereich hin verschoben, zumal A.______ und E.______ den
+Club ohnehin hätten verlassen wollen und gleichzeitig auch zum Verlassen des
+Clubs gedrängt worden seien. Mindestens eine weitere Person habe sich in die
+tätliche Auseinan­dersetzung eingemischt, wobei letztlich aber unklar sei,
+wie viele Personen es ins­gesamt gewesen seien und inwiefern sie sich an der
+Streitigkeit beteiligt hätten. Die hier deliktsrelevante Ausei­nandersetzung
+habe sich schliesslich hinter dem Vorhang zugetragen, welcher den Ein- und
+Ausgangsbereich vom Lokal abschirmte. B.______ habe mit einem Holzstiel
+zuerst E.______ an dessen linke Schläfe geschlagen, sodass die­ser am Kopf
+geblutet habe. Als A.______ sich hierauf zu seinem Kollegen umge­dreht habe,
+sei B.______ direkt vor ihm gestanden. Unvermittelt habe B.______ mit dem
+Holzstiel mindestens einmal von oben herab frontal gegen die Stirn von
+A.______ geschlagen. A.______ habe infolge dieses Schlags oder dieser Schläge
+ein offenes Schädel-Hirn-Trauma mit Bruch des Stirnbeins und dadurch
+bewirkter Öffnung der Stirnhöhlen, eine Kontusion, ein Sub­duralhämatom und
+eine Rissquetschwunde erlitten. Die Auseinandersetzung habe nur kurz
+gedauert, viel­leicht nur wenige Sekunden, vielleicht eine halbe Minute. Die
+Lage sei angespannt und chaotisch gewesen; mehrere Personen hätten sich auf
+engem Raum befunden und miteinander gestritten. Nicht erwiesen sei
+allerdings, dass die beiden CD.______-Brüder A.______ an dessen Armen
+festgehalten hätten, damit B.______ auf den Kopf von A.______ habe einschlagen
+können. Die Rolle der CD.______-Brüder lasse sich nicht mit genügender
+Sicherheit feststellen. In dubio pro reo sei davon auszugehen, dass sie nur
+schlichten bzw. die Kontrahenten voneinander trennen wollten. Nicht erstellt
+sei dagegen, dass sie ebenfalls, und sei es nur in Verteidi­gungsabsicht,
+zugeschlagen haben. Vor allem aber könne nicht davon ausgegan­gen werden, die
+CD.______-Brüder hätten zusammen mit B.______ vorgängig einen Plan gefasst,
+der zum Ziel gehabt habe, A.______ mit einem Holzstock zusam­menzuschlagen.
+Aus alldem schloss die Vorinstanz
+in rechtlicher Hinsicht, dass der Beschuldigte B.______ eine versuchte
+vorsätzliche Tötung im Sinne von Art. 111 i.V.m. Art. 22 Abs. 1 StGB zum
+Nachteil von A.______ sowie eine einfachen Körperver­letzung im Sinne von
+Art. 123 Ziff. 2 StGB zum Nachteil von E.______ begangen habe (act. 122 E. V.
+S. 66 ff.), wogegen die beiden CD.______-Brüder sich aus Sicht der
+Vorinstanz nicht in strafrechtlich relevanter Weise an der fraglichen Ausei­nandersetzung
+beteiligt haben (act. 122 S. 64 ff. E. 12.2.6.). Die Vorinstanz verur­teilte
+B.______ zu einer Freiheitsstrafe von sechs Jahren und ordnete gegen ihn eine
+Landesverweisung für die Dauer von 10 Jahren an mit ent­sprechender Ein­tragung
+im Schengener Informationssystem (SIS). Demgegenüber sprach die Vor­instanz
+die CD.______-Brüder vom Vorwurf der Mittäterschaft frei. Hinsicht­lich der
+weite­ren Urteilspunkte, resultierend aus dem Schuldspruch (B.______) bzw.
+Frei­spruch (CD.______-Brüder), kann auf das vorstehend wiedergegebene erstin­stanzliche
+Urteilsdispositiv verwiesen werden (Zivilforderung, Entschädigung für Untersu­chungshaft
+etc.).
+3.
+Im Berufungsverfahren strittige
+Punkte
+Im vorliegenden
+Berufungsverfahren beantragt der Beschuldigte B.______ einen Freispruch von
+Schuld und Strafe; er bestreitet wie schon in der Untersu­chung und vor
+Vorinstanz, am 20. Mai 2017 A.______ und E.______ im «XY______» gewaltsam
+traktiert zu haben; demgegenüber fordert die Staatsanwalt­schaft mit
+Anschlussberufung eine höhere Freiheitsstrafe für B.______; der Privatkläger
+A.______ macht in seiner Berufung zudem eine konkret bezifferte
+Genugtuungsforderung gegenüber B.______ geltend. In Bezug auf die beiden
+erstinstanzlich freigesprochenen CD.______-Brüder beantragen die Staatsanwalt­schaft
+und der Privatkläger je berufungsweise deren Verurteilung wegen in Mittäter­schaft
+mit B.______ begangener versuchter vorsätzlicher Tötung, unter Anord­nung
+entsprechender straf- und zivilrechtlicher Konsequenzen. Demgegenüber beantra­gen
+die CD.______-Brüder in ihren Anschlussberufungen eine höhere Entschädigung
+bzw. Genugtuung für die erstandene Untersuchungshaft.
+4.
+Beurteilung der Berufungen in
+Hinsicht auf den (umstrittenen) Sachverhalt
+Während auf der einen Seite der
+Beschuldigte B.______ seine von der Vor­instanz bejahte Tatschuld bestreitet,
+tragen auf der anderen Seite die Staatsanwalt­schaft und der Privatkläger in
+ihren Berufungen vor, die CD.______-Brüder hätten entge­gen der Ansicht der
+Vorinstanz als Mittäter von B.______ agiert und seien dem­gemäss ebenfalls zu
+verurteilen. In der Kritik steht damit die vorinstanzliche Sach­verhaltsfeststellung
+(Art. 398 Abs. 2 lit. b StPO). Infolgedessen ist als erstes zu prü­fen, ob
+die Erstinstanz den Sachverhalt korrekt ermittelt hat
+4.1
+A.______ wies am 20.
+Mai 2017 ein offenes Schädel-Hirn-Trauma auf
+Vorweg ist unbestritten und durch
+die Akten erstellt, dass der Privatkläger A.______ sich am 20. Mai 2017 um 16
+Uhr im Kantonsspital Winterthur einfand («Selbstvorstellung»). Er wies ein
+offenes Schädel-Hirn-Trauma mit Fraktur der Stirnhöhlenvorder- und
+Stirnhöhlenhinterwand auf und erklärte gegenüber den Ärz­ten, er sei am
+Vormittag mit dem Velo gestürzt und dabei mit dem Kopf stirnseitig an einen
+Baum geprallt. In der Folge war er bis zum 30. Mai 2017 hospitalisiert; eine
+damals indizierte operative Versorgung der Frakturen lehnte er ab (siehe
+U-act. 18.2.00, Teil 6, pag. 6 und pag. 12-15; U-act. 12.1.06-6).
+4.2
+Betrachtung und
+(erste) Einschätzung der vorinstanzlichen Beweiswürdigung
+Die Vorinstanz hält in ihrem
+Entscheid vorweg das Ergebnis ihrer Sachverhaltswür­digung fest
+(«Sachverhalt, von dem das Gericht ausgeht»; siehe dazu vorstehend
+E. II.2.), ehe sie anschliessend das aus ihrer Sicht massgebende
+Beweisfundament darlegt (act.
+122 S. 57 ff. E. 12.2.).
+4.2.1
+Die
+Vorinstanz stützt sich bei der von ihr als erstellt beurteilten Täterschaft
+von B.______ zur Hauptsache auf die Aussagen des Privatklägers A.______.
+Dessen Angaben zum «Kerngeschehen» in der Tatnacht vom 20. Mai 2017 im
+«XY______» seien grundsätzlich widerspruchsfrei, dies über zeitlich weit aus­einanderliegende
+Einvernahmen hinweg. Er habe geschildert, wie er mit E.______ den Club habe
+verlassen wollen: dass er (Privatkläger) vorausgegangen sei und, als er sich
+umgedreht habe, gesehen habe, wie B.______ soeben mit einem Baseballschläger
+seinem Begleiter an den Kopf geschlagen habe. Detailliert habe der
+Privatkläger auch ausgeführt, wie B.______ danach ihn selbst mit dem
+Baseballschläger geschlagen habe, wobei er beschrieben habe, wie genau
+B.______ den Schläger verwendet habe. Soweit der Privatkläger bei seinen
+Schilde­rungen etwas verleugnet oder verschwiegen habe (konkret: dass er
+selbst vor der erlittenen Attacke ein Messer zückte bzw. dass der Attacke ein
+Wortgefecht von E.______ an der Bar vorausging), so sei dies als
+Schutzbehauptung zu wer­ten bzw. sei dies aus Selbstschutz bzw. zum Schutz
+seines Kollegen erfolgt, schmä­lere aber die hohe Aussagequalität in Bezug
+auf das übrige Geschehen nicht wesentlich. Er habe «oft ungewöhnlich lange»
+und «sehr ausführlich» über den ganzen Sachverhalt berichtet; auch habe er
+detailliert über die Vor- und Nachge­schichte des Vorfalls gesprochen, was
+ebenfalls Merkmal einer hohen Aussagequa­lität sei. Zwar wirke die geschilderte
+Vorgeschichte wirr, doch sei dies zurückzufüh­ren einerseits auf die
+Komplexität der Sachlage und andererseits auf dessen man­gelnde Fähigkeit,
+die komplizierte Sache verständlich zu machen. Die Schilderun­gen des
+Privatklägers seien teilweise auch sprunghaft und nicht chronologisch; genau
+dies aber weise bei hier nachweislicher Konsistenz, quantitativem Detail­reichtum
+und der Erwähnung auch von Nebensächlichkeiten auf eine Erlebnisba­siertheit
+der Schilderungen hin. Nicht zu vernachlässigen sei zudem, dass A.______ sich
+mit seiner Sachverhaltsversion selbst belaste, indem er damit geradezu ein
+Motiv für den späteren Angriff auf B.______ («Strafverfahren Bilten»)
+liefere. Ausserdem habe er eingeräumt, dass er an jenem Abend im «XY______»
+betrunken gewesen sei und sich auch nicht erklären könne, warum er
+angegriffen worden sei; gerade diese beiden Aussagen aber – so die
+sinngemässe Argumentation des Kan­tonsgerichts – würden an sich Zweifel an
+der Sachverhaltsversion des Privatklägers begründen, worüber sich der
+Privatkläger durchaus bewusst gewesen sei; dennoch habe er die betreffenden
+Aussagen gemacht, was daher aus Sicht der Vorinstanz gerade ein Indiz für die
+Richtigkeit der vom Privatkläger geschilderten Sachverhalts­version ist (zum
+Ganzen: act. 122 S. 58 ff. E. 12.2.3.; siehe ferner S. 36 E.
+III.5.).
+Was demgegenüber die Frage der
+Beteiligung der beiden CD.______-Brüder an der inkriminierten
+Auseinandersetzung im «XY______» anbelangt, so äusserte die Vor­instanz klare
+Zweifel an der vom Privatkläger in der Untersuchung gemachten Schilderung,
+wonach die CD.______-Brüder ihn an den Armen festge­halten hät­ten, so dass
+B.______ auf ihn habe einschlagen können. Es möge zwar sein, dass der
+Privatkläger den Eindruck gehabt habe, B.______ und die CD.______-Brüder
+hätten einen Angriff auf ihn geplant gehabt. Aber selbst wenn er fest­gehalten
+worden wäre, so wäre der Zweck dieses Festhaltens nicht erstellt. Vieles
+passe nicht zur Sach­verhaltsversion des Privatklägers. Ein gezielter Angriff
+auf ihn und seinen Begleiter E.______ hätte bedingt, dass B.______ und die
+CD.______-Brüder gewusst hätten, dass er und E.______ den Club besu­chen
+würden; ein im Voraus geplanter Angriff wäre auch nicht ausgeführt worden,
+solan­ge sich noch Gäste bzw. Zeugen im Club aufhielten. Weiter sei davon
+auszu­gehen, dass es vor der Ausei­nandersetzung zu einem verbalen Disput
+zwischen E.______ und B.______ gekommen sei; in der Folge hätten sich weitere
+Perso­nen eingemischt und habe sich ein Handgemenge entwickelt. All dies
+spreche ge­gen einen geplanten, vorbereiteten Angriff, zumal die
+Auseinandersetzung von E.______ angezet­telt worden sei. Ausserdem gehe aus
+den Angaben der zwei anonym einvernom­menen Zeugen hervor, dass die
+CD.______-Brüder die [an der Bar eskalierte] Situation hätten schlichten
+wollen. Unklar sei, was die CD.______-Brüder danach im Ein- und
+Ausgangsbereich hinter dem Vorhang [wohin sich ganze Grup­pe von der Bar weg
+verschoben hatte] genau gemacht hätten; jedenfalls sei nicht erstellt, dass
+sie einem vorher gefassten Plan gemäss oder auch spontan den Pri­vatkläger
+festgehalten hät­ten, damit B.______ habe zuschlagen können. Hier seien viele
+Varianten denk­bar, so etwa, dass die CD.______-Brüder nur schlichten bzw.
+die Beteiligten trennen woll­ten. Denkbar sei auch, dass die CD.______-Brüder
+den Privat­kläger gestossen oder zum Ausgang hin gedrängt haben, was dieser
+als Angriff wahrgenommen habe. Auch sei nicht ausgeschlossen, dass die
+CD.______-Brüder den Privatkläger tatsächlich festhiel­ten, dabei aber nicht
+in der Absicht, ihn wehrlos zu machen, damit er geschlagen werden konnte,
+sondern um ihn zu beruhigen oder daran zu hindern, andere mit seinem Messer
+anzugreifen (zum Ganzen: act. 122 S. 64 f. E. 12.2.6.).
+4.2.2
+Bei erster
+Betrachtung der eben dargelegten vorinstanzlichen Einschätzung der Aussagen
+des Privatklägers ist eine gewisse Diskrepanz erkennbar. Soweit nämlich die
+Aussagen des Privatklägers das (behauptete) Tatverhalten von B.______
+betreffen, werden diese von der Vorinstanz als durchwegs glaubhaft einge­stuft.
+Hingegen glaubt die Vorinstanz den Aussagen des Privatklägers nicht, wonach
+die CD.______-Brüder B.______ bei seiner Attacke aktiv unterstützt hätten,
+indem jene ihn (Privatkläger) angeblich an beiden Armen festhielten und
+dadurch hinder­ten, sich gegen den Angriff von B.______ zur Wehr zu setzen.
+Hierin tritt ein Widerspruch zutage: Der Privatkläger bezichtigt drei
+Personen eines koordinier­ten Angriffs auf ihn; die Vorinstanz indes
+beurteilt die Schilderung des Privatklägers in Bezug auf den einen Angreifer
+(B.______) als glaubhaft, nicht aber hinsicht­lich der beiden anderen
+Angreifer (CD.______-Brüder). Indem bei dieser Ausgangslage die Vorinstanz
+trotzdem zur Einschätzung gelangte, «die Aussagen des Privatklä­gers zum
+Kerngeschehen [seien] grundsätzlich widerspruchsfrei», kann ihr nicht vorbe­haltlos
+gefolgt werden und ist insofern die im Berufungsverfahren vorgetrage­ne Kri­tik
+der Verteidigung an der erstinstanzlichen Beweiswürdigung (act. 164
+S. 11 ff. und S. 54 ff.) nachvollziehbar.
+4.3
+Prüfung der
+Schlüssigkeit der Anklage (obergerichtliche Beweiswürdigung)
+4.3.1
+Das Gericht würdigt
+die Beweise frei nach seiner aus dem gesamten Verfah­ren gewonnenen
+Überzeugung (Art. 10 Abs. 2 StPO). Es geht von der für die beschuldigte Person
+günstigeren Sachlage aus, wenn unüberwindliche Zweifel an der Erfüllung der
+tatsächlichen Voraussetzungen der angeklagten Tat bestehen (Art. 10 Abs.
+3 StPO). Liegen keine direkten Beweise vor, so kann der Anklage­sachverhalt
+auch indirekt durch Indizien nachgewiesen werden. Der Beweis mittels Indizien
+ist rechtsgenüglich erbracht, wenn die einzelnen Indizien in ihrer Gesamt­heit
+ein Bild erzeugen, das bei objektiver Betrachtung keine Zweifel bestehen
+lässt, dass sich der Sachverhalt so verwirklicht hat (vgl. hierzu Urteile
+BGer 6B_824/2016 vom 10. April 2017 E. 12.1; 6B_605/2016 vom 15. September
+2016 E. 2.8).
+Im hier zu beurteilenden Fall ist
+demnach konkret zu prüfen, ob sich anhand des Beweisergebnisses mit einer für
+einen Schuldspruch zureichenden Sicherheit sagen lässt, dass B.______
+gemeinsam mit den CD.______-Brüdern am 20. Mai 2017 im Club «XY______»
+in Birmensdorf (siehe zu dieser Lokalität die Bild­dokumentation bei U-act.
+8.0.01) die ihnen in der Anklage vorgeworfene Gewalttat verübt haben.
+4.3.2
+Vorhalt einer
+vorgängigen gemeinsamen Absprache
+4.3.2.1
+Gemäss
+Anklageschrift sollen in der Nacht auf Samstag, 20. Mai 2017, B.______ und
+die CD.______-Brüder «zusammen und nach gemeinsamer vorgängi­ger Absprache»
+den Privatkläger A.______ und E.______ ange­griffen haben, als diese
+beabsichtigten, den Club «XY______» zu verlassen (act. 1/1‑3).
+4.3.2.2
+In der
+Untersuchung wurden zwei Personen, die sich in der fraglichen Nacht als Gäste
+im «XY______» aufgehalten hatten, anonym zum Geschehen befragt (im Folgenden
+Person 1 und Person 2; siehe zur zugesicherten Anonymität die entspre­chenden
+ZMG-Verfügungen unter U-act. 9.1.02 und 9.1.03). Person 1 und Person 2 gaben
+dabei im Kern übereinstimmend zu Protokoll, der Privatkläger A.______ und
+sein Begleiter E.______ hätten zunächst an einem Tisch gesessen und Alkohol
+konsumiert. Auf einmal hätten sie sich von ihrem Tisch erhoben und sich zum
+Bartresen begeben; die beiden hätten dort mit dem Clubbesitzer B.______
+gesprochen (Aussage von Person 2) bzw. E.______ habe an der Bar herum­geschrien,
+wer denn hier der Besitzer dieses Clubs sei (so Person 1). Person 2 erwähnte,
+bei der vorerst verbalen Konfrontation an der Bar habe B.______ E.______ am
+Arm gehalten, worauf der Privatkläger ein Spickmesser gezückt habe; in diesem
+Augenblick sei auch C.______ hinzugetreten und die Situation sei eskaliert,
+alle hätten mit den Fäusten aufeinander eingeschlagen, worauf D.______ in das
+Handgemenge eingegriffen habe, um zu schlichten. Nach den Aussagen von Person
+1 haben die CD.______-Brüder schlichtend in den Streit ein­gegriffen, wobei
+noch eine weitere Person hinzutrat und in der Folge die ganze Menschentraube
+sich in den Eingangsbereich hinter den Vorhang verschob (siehe zu alldem
+U-act.
+10.12.01, insb. Dep. 5 f., Dep. 14; U-act.
+10.12.02, Dep. 1, Dep. 13, Dep. 20 f.; U-act.
+10.13.01,
+Dep. 1, Dep. 24; U-act. 10.13.02, Dep. 1).
+B.______ gab bei seiner ersten
+Befragung als Beschuldigter zu Protokoll, der Privatkläger A.______ und
+E.______ seien im Club erschienen, hätten eine Flasche bestellt, jedoch
+nichts getrunken, sondern die Gläser zerschlagen; andere Gäste hätten sich
+gestört gefühlt und ihn aufgefordert, die beiden hinauszu­werfen, wobei sie
+noch gesagt hätten, er (B.______) wisse doch ganz genau, was dies für Leute
+seien. Als der Privatkläger und E.______ schliesslich beim Gehen gewesen
+seien, hätten sie ihn (B.______) von einer Kellnerin herbeirufen lassen.
+E.______ habe ihm (B.______) dann gesagt, wer in Zürich einen Club eröffne,
+«muss uns eins blasen und wir ficken seine Mutter»; anschliessend habe
+E.______ ihn schlagen wollen, während der Privatkläger ein Messer gezogen und
+ihn bedroht habe; sogleich seien andere Gäste dazwischengetreten. Hierauf
+hätten sie (B.______ und andere) den Privatkläger und E.______ aus dem Lokal
+geworfen; draussen sei es zu einer Schlägerei gekommen, wobei er (B.______)
+nicht wisse, wer darin involviert gewesen sei (U-act. 10.3.01, Dep. 5 und
+Dep. 19).
+4.3.2.3
+In der
+Untersuchung erwähnte einzig der Privatkläger A.______, bei der Attacke im
+«XY______» auf ihn und seinen Begleiter E.______ habe es sich um eine
+geplante Aktion gehandelt. Er und E.______ hätten im «XY______» konsumiert
+und mit nie­mandem Probleme gehabt. Derweil habe B.______ telefonisch T.
+______ kon­taktiert, welcher seinerseits Z. ______ [Cousin des Privatklägers]
+kontaktiert habe, worauf Letzterer grünes Licht gegeben habe, ihn
+(Privatkläger) und E.______ anzugreifen (U-act. 10.0.05
+[Konfrontationseinvernahme vom 4. Februar 2020], Dep. 21 f.;
+bereits in vorherigen Einvernahmen berichtete der Privatkläger sinngemäss,
+der Angriff auf ihn sei im Voraus geplant und organisiert worden).
+4.3.2.4
+Bei der soeben
+dargelegten Beweislage ist offensichtlich, dass hierin der in der Anklage
+vertretene Standpunkt, wonach B.______ und die CD.______-Brüder sich
+vorgängig
+miteinander über eine gewaltsame Attacke auf den Privatklä­ger und seinen
+Begleiter E.______ abgesprochen hätten, keine Stütze findet. Dies hat auch
+bereits die Vorinstanz zutreffend erkannt (act. 112 S. 56 E. 12.1. und
+S. 64 E. 12.2.5. in fine). Insoweit es im «XY______» zu einer gewaltsamen
+Auseinan­dersetzung kam, so erfolgte dieser Konflikt nicht nach einem zuvor
+festgelegten Drehbuch, sondern augenscheinlich eruptiv in Reaktion auf ein
+provokatives Geba­ren von E.______ und auch des Privatklägers A.______. Damit
+ist festzu­halten, dass die Anklage in diesem Punkt [im Voraus geplanter und
+zwischen B.______ und den CD.______-Brüdern abgespro­che­ner Angriff] nicht
+trägt.
+4.3.3
+Gewaltsamer Vorfall
+im Club «XY______»
+4.3.3.1
+Aufgrund der
+Untersuchungsergebnisse steht zweifelsfrei fest, dass es in der Nacht auf den
+20. Mai 2017 im Club «XY______» zu einem Handgemenge zwischen dem
+Privatkläger A.______ und E.______ auf der einen und jedenfalls dem
+Beschuldigten B.______ auf der anderen Seite kam. Der Beschuldigte sel­ber
+berichtete, «wir haben sie [A.______ und E.______] daraufhin heraus­geworfen
+[recte:
+hinaus
+geworfen]»; dies, nachdem es davor am Tresen zur bereits
+angesprochenen Konfrontation (verbale Beleidigungen und Drohung mit Messer)
+zwischen A.______/E.______ und dem Beschuldigten B.______ gekommen sei
+(U-act. 10.3.01 S. 4).
+Hinauswerfen
+impliziert, dass A.______ und
+E.______ das Lokal nicht ohne weiteres von sich aus verliessen, sondern dazu
+von dritter Seite unter Aufwendung von Körperkraft gedrängt wurden. Zu den
+Akteuren, die A.______ und E.______ unter Körpereinsatz zum Verlassen des
+Lokals drängten, gehörte fraglos der Beschuldigte B.______, schilderte er
+doch den betreffenden Vorgang explizit in der Wir-Form (
+wir
+haben sie
+hinausge­worfen). Anschliessend sei es draussen – so der Beschuldigte
+B.______ weiter – zu einer Schlägerei gekommen, wobei er (B.______) jedoch
+nicht wisse, was dabei genau passiert und wer darin involviert gewesen sei
+(a.a.O.). Diese Aussagen des Beschuldigten indizieren, dass A.______ und
+E.______ nicht bloss aus dem Lokal gewiesen wurden, sondern hierbei die
+Situation eskalierte und sich daraus ein handgreiflicher Streit entwickelte.
+4.3.3.2
+Die anonym
+befragten Personen 1 und 2 erwähnten beide im Ergebnis übereinstimmend, dass
+im Anschluss an die zunächst verbale Konfrontation am Tresen die involvierten
+Personen, unter ihnen der Beschuldigte B.______, sich gegenseitig haltend und
+stossend zum Ausgangsbereich hin bewegt hätten, wo sie hinter einem Vorhang
+verschwunden seien, sodass die Szenerie für Person 1 und 2 nicht mehr
+einsehbar gewesen sei. Die beiden Zeugen führten indes sinngemäss aus, dass
+aufgrund des vernehmbaren Lärms hinter dem Vor­hang sich dort eine Schlägerei
+zugetragen habe. Gleich darauf sei B.______ hinter dem Vorhang hervorgetreten
+und habe alle Gäste aufgefordert, das Lokal umgehend zu verlas­sen. Beim
+Hinausgehen will Person 2 hinter dem Vorhang Blut­spuren am Boden gesehen und
+beobachtet haben, wie B.______ einen blutver­schmierten, ca. 60-70 cm langen
+Holzstiel vom Boden aufhob (U-act. 10.12.02, Dep. 13-19, Dep. 21; U‑act.
+10.13.02, Dep. 1, Dep. 9-13).
+4.3.3.3
+Aus alldem ist mit
+hinreichender Gewissheit zu schliessen, dass es in der Nacht auf den
+20. Mai 2017 im Club «XY______» zu einer gewaltsamen Auseinander­setzung
+kam, bei welcher der Privatkläger A.______ ein offenes Schädel-Hirn-Trauma
+erlitt (siehe dazu bereits oben E. II. 4.1). Dass diese schwere Kopfverlet­zung
+nicht von einem Sturz mit dem Fahrrad herrühren kann, wie der Privatkläger
+damals bei seinem Spitaleintritt am Nachmittag des 20. Mai 2017 gegenüber den
+Ärzten erklärte, ist augenscheinlich. In den Unfallakten sind keine
+(zusätzlichen) Verletzungen dokumentiert (etwa massive Schürfungen), wie sie
+bei einem Sturz mit dem Velo im Wald zu erwarten wären; aktenkundig ist bloss
+eine Schwellung und livide [bläuliche] Verfärbung des 4. Fingers an der
+linken Hand (Ordner 7, Teil 6, pag. 4). Sodann ist den Schilderungen des
+Privatklägers zum angeblichen Veloun­fall nicht eine einzige belastbare
+Angabe zu entnehmen: So konnte er weder eine konkrete Unfallörtlichkeit
+benennen («in der Nähe meines jetzigen Wohnortes» bzw. «im Grossraum
+Wülflingen») noch das verwendete Fahrrad näher beschreiben («Es war ein
+normales Fahrrad. Ich kenne die Unterschiede der Fahrräder nicht.»). Gera­de
+Letzteres erstaunt, gab er doch immerhin vor, mit dem Fahrrad
+«trainingshalber» unterwegs gewesen zu sein. Zur ganzen (erfundenen)
+Geschichte passt schliesslich auch, dass es für den Unfall keine Zeugen gibt
+und auch das Velo nicht mehr vorhanden ist, nachdem der Privatkläger dieses
+zusammen mit dem Helm an der Unfallstelle («im Wald») zurückgelassen haben
+will und später dort nicht mehr habe auffinden können. Bezeichnend daher,
+dass der Privatkläger sich auch nie irgend­wo, etwa bei der Polizei, nach dem
+(vorgeblich) vermissten Velo erkundigte (siehe zum Ganzen: act. 45/14,
+dort im Anhang die Unfallmeldung an die Suva, sowie Ver­fahrensdossier
+«Bilten», SG.2021.00014-20, act. 10.7.02, Dep. 69 ff. [zum Beizug der
+Verfahrensakten «Bilten» siehe act. 73; ferner act. 87, act. 89 und act.
+102]).
+4.3.4
+Die Rolle des
+Beschuldigten B.______
+4.3.4.1
+Wie bereits weiter
+oben dargelegt (vorne E. II. 2.), ist für die Vorinstanz gemäss angefochtenem
+Entscheid zweifelsfrei erstellt, dass der Beschuldigte B.______ in der Nacht
+auf den 20. Mai 2017 im «XY______» den Privatkläger A.______ traktierte,
+indem er jenem mit einem Holzstiel mindestens einmal von oben herab frontal
+gegen die Stirn schlug und ihm dabei die mehrfach erwähnte massive
+Schädelverletzung zufügte. Aus Sicht der Vorinstanz belegen dabei im Wesentli­chen
+die vom Privatkläger gemachten Sachverhaltsangaben die Tatschuld von B.______
+(zuvor E. II. 4.2.1).
+Gerade weil die Vorinstanz
+zentral auf die Sachverhaltsschilderungen des Privatklä­gers abgestellt hat,
+fokussierte die Verteidigung im Berufungsverfahren auf die von ihr gesehenen
+Widersprüchlichkeiten in den Angaben sowie im Aussageverhalten des
+Privatklägers und beantragt dem Obergericht, die Glaubhaftigkeit bzw. Erleb­nisbegründetheit
+der fraglichen Sachverhaltsangaben gutachterlich abzuklären
+(act. 164 S. 11 ff.).
+Diesem Antrag ist indes nicht zu
+folgen. Denn wie sogleich aufzuzeigen ist, hat der Beschuldigte in der
+Untersuchung seine Täterschaft implizit selbst eingestanden:
+4.3.4.2
+Wie in den
+einleitenden Ausführungen zum vorliegenden Kapitel II. bereits erwähnt, wurde
+der hier wegen des Gewaltdelikts am 20. Mai 2017 im «XY______» in Birmensdorf
+Beschuldigte B.______ selbst Opfer einer schweren Gewalttat, als er am 3.
+Oktober 2018 in Bilten/GL mit einem Baseballschläger niedergeschlagen und
+schwer am Kopf verletzt wurde.
+Auf der Suche nach der zunächst
+unbekannten Täterschaft des Angriffs auf B.______ erfuhr die Polizei im
+November 2018 von einer Auskunftsperson, «halb Zürich» habe davon erzählt,
+dass B.______, als er in Birmensdorf ein Lokal geführt habe, dort einmal
+jemanden aus einer Gruppierung aus Winterthur (Gruppe «[Comot] aus
+Winterthur») mit einem Baseballschläger geschlagen habe, was nun mit dem
+Angriff auf B.______ gerächt worden sei. Der Vorfall in Birmens­dorf sei etwa
+7-8 Monate her (siehe act. 45/4 bzw. Verfahrensdossier «Bilten»,
+SG.2021.00014-20, act. 8.1.08 Dep. 43 f. und Dep. 47).
+4.3.4.2.1
+Der Privatkläger
+A.______ war 2017/18 wohnhaft in Winterthur und ist gebürtig von Comot, einer
+Ortschaft in der Umgebung von […] im Kosovo. Er selber wird gemäss seinen
+eigenen Angabe von einigen Leuten Comot genannt; dies weil er von Comot komme
+(Verfahrensdossier «Bilten», SG.2021.00014-20, act. 10.7.02 Dep. 7 f.).
+Insofern war es naheliegend, dass die Untersuchungsorgane bereits von sich
+aus (und noch bevor A.______ selbst ent­sprechende Angaben machte) zur
+Vermutung gelangten, dass möglicherweise der Privatkläger A.______ diejenige
+Person sein könnte, welche zu einem nicht näher bekannten Zeitpunkt vor dem
+3. Oktober 2018 von B.______ in dessen Lokal in Birmensdorf
+zusammengeschlagen wurde (a.a.O., act. 10.7.02 Dep. 92-95).
+4.3.4.2.2
+Am 20. Juni 2019
+wurde B.______ im Verfahren «Bilten» als Privat­kläger/Auskunftsperson
+zweimal befragt, zunächst von einem Polizeibeamten (dele­gierte Einvernahme),
+danach von der fallzuständigen Staatsanwältin (Verfahrens­dossier «Bilten»,
+SG.2021.00014-20, act. 2/10.2.04 und act. 2/10.2.05). Zu diesem Zeitpunkt
+befand sich A.______ seit dem 30. Mai 2019 in Untersuchungshaft, nachdem sich
+die Anhaltspunkte verdichtet hatten, er könnte in den gewaltsamen Angriff auf
+B.______ am 3. Oktober 2018 in Bilten involviert gewesen sein. Umgekehrt
+hegten die Untersuchungsorgane damals, wie soeben aufgezeigt, erst eine vage
+Vermutung, B.______ könnte in seinem Lokal in Birmensdorf einmal einen
+Zusammenstoss mit A.______ gehabt haben, was möglicherweise in der Folge mit
+der Attacke auf B.______ in Bilten gerächt worden wäre. Von A.______ kannte
+die Polizei bis dahin einzig die Erzählung, wonach er am 20. Mai 2017
+bei einem Velounfall eine schwere Kopfverletzung erlitten habe.
+a)
+Anlässlich der
+Einvernahme am 20. Juni 2019 erwähnte der befragende Polizei­beamte gegenüber
+B.______, eine Auskunftsperson habe erklärt, dass ein mögliches Tatmotiv für
+den am 3. Oktober 2018 auf ihn (B.______) erfolgten Angriff darin bestehen
+könnte, dass er (B.______) zuvor einmal mit einem Baseballschläger auf ein
+Mitglied der Gruppierung Comot eingeschlagen habe. Dazu entgegnete B.______:
+«Mich hat nie eine Person wegen einer solchen Tat angezeigt. – Warum wird
+dies
+erst
+nach zwei Jahren
+erwähnt? [Hervorhebung hin­zugefügt] – War diese
+Person überhaupt bei einem Arzt?» Umgehend danach gefragt, was er mit der
+eben gemachten Aussage ‹dass
+dies
+nach zwei Jahren erwähnt werde›
+konkret meine, antwortete B.______, mit ihm habe es nie einen solchen Vorfall
+gegeben und er habe persönlich nie etwas mit ihnen [Gruppierung Comot] zu tun
+gehabt; er habe diesen Vorfall nicht gesehen und wisse nicht, wo dies
+passiert sei; überhaupt habe er Probleme mit der Erinnerung. Als der Polizei­beamte
+daraufhin bemerkte, er (B.______) habe soeben von einem Vorfall berichtet,
+welcher zwei Jahre zurückliege, weshalb er (B.______) offenbar etwas über
+diesen Vorfall wisse, entgegnete dieser: «Ich habe falsch ausgesagt. Ich
+dachte, es gehe um meinen Vorfall [Attacke vom 3. Oktober 2018]». Weiter
+äusserte er, dass er nie ein Mitglied der Gruppierung Comot geschlagen habe
+und dessent­wegen auch nie von jemandem angezeigt worden sei, weshalb er sich
+überhaupt nicht erklären könne, warum die Auskunftsperson eine solche Aussage
+gemacht habe (siehe zum Ganzen: Verfahrensdossier «Bilten», SG.2021.00014-20,
+act. 2/10.2.04 Dep. 93-98). Im weiteren Verlauf der Einvernahme wurde
+B.______ gefragt, ob er sich einen Grund denken könne, warum A.______ an der
+Attacke auf ihn (B.______) beteiligt gewesen sein könnte. Er gab hierauf zu
+Protokoll, dass A.______ einmal in seinen Club in Birmensdorf gekommen sei
+und mit anderen Gästen Streit gesucht habe, worauf er (B.______) ihn
+rausgeworfen habe (a.a.O., Dep. 103 f.). Am Ende der Befragung
+konfrontierte die Polizei B.______ mit der These, wonach der Angriff auf ihn
+(B.______) am 3. Oktober 2018 ein Racheakt gewesen sei, da er (B.______)
+zuvor A.______ niederge­schlagen habe. B.______ entgegnete, dass er A.______
+nie geschlagen habe; er habe ihn einzig einmal aus seinem Club rausgeworfen;
+wenn er ihn tat­sächlich geschlagen hätte, so hätte dieser ihn ganz bestimmt
+angezeigt (a.a.O., Dep. 105).
+b)
+Die eben zitierten
+Aussagen von B.______ sind gleich in mehrfacher Hinsicht verräterisch.
+Bemerkenswert ist zunächst die von B.______ gemachte Zeitan­gabe: Auf den
+Hinweis des Befragers, wonach eine Auskunftsperson berichtet habe, er
+(B.______) habe einmal mit einem Baseballschläger auf ein Mitglied der
+Gruppierung Comot eingeschlagen, entgegnete B.______ spontan von sich aus,
+warum dies erst
+nach zwei Jahren
+erwähnt werde. Tatsächlich lag im
+Juni 2019, als B.______ diese (verblüffende) Aussage machte, der Vorfall vom
+20. Mai 2017 im Club «XY______» in Birmensdorf gerade rund zwei Jahre
+zurück. Indes aber bestanden zur Zeit der Befragung im Juni 2019 überhaupt
+noch keine Anhaltspunkte dafür, dass A.______ am 20. Mai 2017 nicht einen
+Velounfall erlit­ten hatte (wie dieser bis dahin erzählte), sondern
+mutmasslich Opfer einer Attacke im «XY______» wurde. A.______ selber
+berichtete nämlich erstmals am 11. Juli 2019, er sei am 20. Mai
+2017 im «XY______» von B.______ mit einem massiven Holzstiel niedergeschlagen
+worden (U-act. 10.1.01). Wenn daher der Beschuldigte B.______ den im
+vorliegenden Verfah­ren inkriminierten Vorfall (Attacke auf A.______ am
+20. Mai 2017 im «XY______» in Birmensdorf) von sich aus zeitlich richtig
+verortete, ohne dass bis dahin bereits anderweitig ein Hinweis darauf
+bestanden hatte (die bis dahin einzige akten­kundige zeitliche Angabe der
+Auskunftsperson zu einen möglichen früheren Vorfall in Bir­mensdorf erwies
+sich als unzutreffend; oben E. 4.3.4.2), so offenbart sich darin ein starkes
+Indiz dafür, dass – erstens – der betreffende Vorfall im «XY______» sich
+effek­tiv zutrug und – zweitens – der Beschuldigte B.______ darin in mass­geblicher
+Weise verwickelt war.
+c)
+Für eine tatrelevante
+Verstrickung des Beschuldigten B.______ sprechen zu­dem auch die weiteren
+Bemerkungen in seiner soeben zitierten (Spontan)Antwort bei der Befragung vom
+20. Juni 2019 im Verfahren «Bilten». Speziell aufhorchen lässt seine erste
+Reaktion auf die Mitteilung des befragenden Polizeibeamten, wonach eine
+Auskunftsperson berichtet habe, er (B.______) habe einmal mit einem
+Baseballschläger auf ein Mitglied der Gruppierung Comot eingeschlagen: «Mich
+hat nie eine Person wegen einer solchen Tat angezeigt» (Verfahrensdossier
+«Bilten», SG.2021.00014-20, act. 2/10.2.04 Dep. 93). Es ist dies eine ausge­sprochen
+sonderbare Antwort und hört sich weit eher wie ein (ungewolltes) Geständnis
+an als eine wahrhaftige Widerrede. Von einer tatsächlich unbescholtenen
+Person wäre als Reaktion doch weit eher zu erwarten gewesen, dass sie sich
+über die eben gehörte Mitteilung empören und sie zurückweisen bzw. deren
+Kerngehalt (wonach er [B.______] mit einem Baseballschläger auf jemanden von
+der Comot-Gruppe einge­schlagen haben solle) bestreiten würde. Hier aber
+zieht B.______ ein anderes Abwehrschild auf: Er stellt sich der belastenden
+Aussage nicht inhaltlich entgegen, sondern beruft sich einzig darauf, nie von
+jemandem wegen einer sol­chen Tat angezeigt worden zu sein. Im weiteren
+Verlauf der Einvernahme wieder­holte er die­sen eigentümlichen Hinweis auf
+eine fehlende Anzeige noch zwei Mal (a.a.O., Dep. 98 und Dep. 105).
+d)
+Als B.______ am 20.
+Juni 2019 unmittelbar im Anschluss an die eben besprochene (delegierte)
+polizeiliche Befragung auch noch von der fallzuständigen Staatsanwältin
+einvernommen wurde, konfrontierte diese ihn ebenfalls mit der Vermutung,
+wonach gemäss den bisherigen Ermittlungsergebnissen die gewaltsa­me Attacke
+auf B.______ am 3. Oktober 2018 ein Racheakt gewesen sein könnte, weil er
+(B.______) zuvor einmal mit einem Baseballschläger auf ein Mitglied der
+Gruppierung Comot eingeschlagen habe. Wiederum stellt B.______ diese These
+nicht inhaltlich in Abrede, sondern antwortet nebulös: «Ich glaube nicht,
+ansonsten hätte mich jemand angezeigt. […] Wenn ich eine solche Tat begangen
+hätte, dann hätte eine Person bestimmt mich bei der Polizei angezeigt» (Verfahrensdossier
+«Bilten», SG.2021.00014-20, act. 2/10.2.05 Dep. 26 f.).
+e)
+Anzufügen ist, dass
+B.______ später im vorliegenden Verfahren «Birmens­dorf» als nunmehr
+Beschuldigter konfrontiert wurde mit seinen Aussagen, die er im Verfahren
+«Bilten» am 20. Juni 2019 dort als Privatkläger gemacht hatte. Dabei konnte
+er nicht plausibel erklären, wieso er bei jener Befragung den damals noch
+nicht bekannten Zeitpunkt der hier eingeklagten Attacke auf A.______ vom
+20. Mai 2017 zutreffend zu benennen vermochte [«vor zwei Jahren»], wo er
+doch selbst angeblich gar nicht darin verwickelt war (U-act. 10.3.01, Dep.
+43).
+f)
+Wie eben erwähnt,
+entgegnete B.______ auf die ihm mehrfach gestellte Fra­ge, ob er einmal ein
+Mitglied der Gruppierung Comot traktiert habe, jeweils lapidar, dass er nie
+wegen einer solchen Tat angezeigt worden sei. Ist eine solche Antwort schon
+an sich seltsam bzw. gar verräterisch (siehe zuvor Bst. c), so gilt dies erst
+recht, wenn man sich das soziale Milieu vergegenwärtigt, in welchem sich das
+inkriminierte Ereignis zutrug. Aktenkundig ist nicht nur ein Klima der Angst,
+sondern es sind geradezu Abgründe ersichtlich: So bekundeten etwa die beiden
+anonymen Zeugen [Person 1 und 2] grösste Bedenken, Aussagen zu tätigen, weil
+sie sich vor «diesen Personen» fürchteten, wobei sie nicht bloss sich selbst,
+sondern ebenso ihre Familien als gefährdet glauben (U-act. 10.12.01 Dep.
+33 f.; U-act. 10.13.01, Dep. 1 und Dep. 33). Eine Auskunftsperson –
+inzwischen vom hiesigen Kantonsge­richt wegen Drogenhandels rechtskräftig zu
+einer mehrjährigen Freiheitsstrafe verur­teilt – berichtete, dass der
+Beschuldigte B.______ ihr einmal eine Waffe über­geben und ihr zugleich Fotos
+von A.______ und E.______ gezeigt und dazu bemerkt habe, diese beiden müssten
+erschossen werden, da sie ihnen (der Auskunftsperson und B.______) das
+Drogenge­schäft zerstören würden (U-act. 10.16.01 Dep. 20). Hierzu ist zu
+wissen, dass im Strafverfahren gegen besagte Auskunftsperson unter anderem
+Thema war, dass sie und B.______ mit 2,5 kg Heroinpulvergemisch hantierten.
+Sodann ist dem Obergericht aus dem Verfahren «Bilten» bekannt, dass ebenso
+E.______ – die Begleitperson von A.______ bei der hier inkriminierten
+Auseinandersetzung im «XY______» in Birmensdorf – im grossen Stil mit Drogen
+handelte. Eine andere Auskunftsperson im vorliegenden Verfahren erwähnte, die
+Gruppierung «Comot» aus Winterthur (siehe dazu bereits oben E. 4.3.4.2 und E.
+4.3.4.2.1) tue alles, was nicht legal sei: Sportwetten, Kredit­vergaben; das
+seien Geldhaie (act. 45/4 Dep. 44 f.). Ebenfalls im vorliegenden
+Verfahren berichtete ein Zeuge in Bezug auf die hier involvierten Personen
+(CD.______-Brüder, B.______, A.______) von jahrzehn­tealten Familien- bzw.
+Clan-Fehden im Kosovo mit Auswirkungen bis hierhin in die Schweiz; diese
+Geschichte – so der Zeuge – höre nie auf und er (Zeuge) könne in Anwesenheit
+der eben erwähn­ten Personen denn auch keine Aussagen machen, weil er Angst
+um sich und seine Familie habe (act. 10.11.01 Dep. 2 f.; siehe hierzu
+auch act. 10.10.02 Dep. 17, wo ein anderer Zeuge einen möglichen Strang zur
+UCK [ehemals paramilitärische Unabhängigkeitsbewegung im Kosovo] thematisiert
+[zur Nähe hier involvierter Per­sonen zur UCK siehe auch die Fotos bei U-act.
+4.1.03]; siehe ferner auch U-act. 10.1.03, Dep. 73 ff., wo die Rede von
+konkreten [politi­schen] Morden im Kosovo ist). E.______ gab bei einer
+Einvernahme zu Pro­tokoll, dass ihm einmal anläss­lich einer Polizeikontrolle
+im Kosovo beschieden wor­den sei, er dürfe mit nieman­dem über den Vorfall im
+Club «XY______» in Birmensdorf reden, andernfalls er sich besser nicht mehr
+im Kosovo blicken lasse (U-act. 10.14.01 Dep. 45). B.______ merkte im
+Verfahren «Bilten» an, dass es bei ihnen noch die Blutrache gebe; auch andere
+Auskunftspersonen und Zeugen im Verfahren «Bilten» berichteten, dass sie sich
+vor Rachetaten fürchteten und daher in Sorge auch um ihre Familien seien
+(Verfahrensdossier «Bilten», SG.2021.00014-20, act. 2/10.2.03 S. 3;
+act. 2/10.1.05 S. 2; act. 2/8.1.08 S. 6 f.; act. 2/8.1.09
+S. 6 und Anhang; act. 2/10.3.01 S. 5 ff.; act. 2/8.1.16).
+Im eben geschilderten sozialen
+Umfeld, in welchem sich die hier involvierten Perso­nen befinden und bewegen,
+werden staatliche Instan­zen als weit abseits empfun­den. Die Austragung von
+Konflikten untereinander folgt nach eigenen internen Gepflogenheiten; der
+Staat mit seinem Gewaltmonopol bleibt dabei aussen vor und wird nur als
+Störfaktor gesehen. In diesen Kreisen stellt es ein Tabu dar, bei der Polizei
+gegeneinander Anzeige zu erstatten. Wenn daher B.______ auf den ihm gegenüber
+geäusserten Verdacht, er habe einmal ein Mitglied der Comot-Gruppierung
+niedergeschlagen, nur lapidar antwortete, er sei deswegen nie von jemandem
+angezeigt worden, so ist dies letztlich keine wirkliche Zurückweisung des
+Verdachts. Im Gegenteil ist diese hier aus freien Stücken vorgetragene
+Entgegnung entlarvend. B.______ bediente sich nämlich eines Einwands, der zum
+einen unter gewöhnlichen Umstän­den ganz gewiss nicht als erste Erwiderung
+auf einen strafrechtlichen Vorwurf geäussert würde (siehe zuvor Bst. c) und
+zum anderen aus der Warte von B.______ ohnehin nichtssa­gend ist, da in
+«seinen Kreisen» gegenseitige Anzei­gen bei der Polizei praktisch nicht
+vorkommen. Dass B.______, wenn er schon eine Aussage tätigte, gerade nur
+diesen hilflosen Ein­wand vortrug und den Verdacht nicht inhaltlich
+zurückwies (etwa mit den Worten «ich habe nie auf jeman­den eingeschlagen,
+wann soll denn so etwas überhaupt geschehen sein»), indiziert unweigerlich,
+dass er mit der Sache [gewaltsamer Angriff auf ein Mitglied der
+Comot-Gruppierung] sehr wohl etwas zu tun hatte.
+g)
+Zusammenfassend ist
+damit zu konstatieren, dass der Beschuldigte B.______ mit seinen Aussagen am
+20. Juni 2019 gleich unter zwei Aspekten ein Indiz dafür lieferte, dass er
+die ihm in der Anklage angelastete gewaltsame Attacke auf A.______ und
+E.______ am 20. Mai 2017 im «XY______» in Birmensdorf begangen hatte: Ein
+erstes Indiz ist im Umstand zu erkennen, dass er das Tatge­schehen zeitlich
+richtig verortete [«vor zwei Jahren»]. Dies, obwohl im Zeitpunkt der
+Befragung am 20. Juni 2019 seitens der Untersuchungsbehörde einzig die so
+auch gegenüber B.______ kommunizierte Vermutung im Raum stand, er könnte frü­her
+einmal ein Mitglied der Comot-Gruppe, dabei eventuell konkret A.______,
+niedergeschlagen haben; jedoch bestand für die Untersuchungsbehörde nicht der
+geringste Anhaltspunkt, dass eine solche Tat konkret vor zwei Jahren
+geschehen sein könnte, womit auch ausgeschlossen ist, dass B.______ eine ihm
+zuvor soufflierte Zeitangabe geäussert hat. Das zweite Indiz betrifft sodann
+die eigenartige Erwiderung B.______s auf den ihm unterbreiteten Tatverdacht
+[«es liegt von niemandem eine Anzeige vor»]. Es ist eine solche Antwort im
+vorliegenden Kontext nicht anders zu werten, wie wenn ein soeben vor einem
+Wohnhaus in flagranti ertappter Einbrecher in Handschuhen zu seiner
+Entlastung als erstes sagte, es gebe ja von ihm keine Fin­gerabdrücke in der
+Wohnung.
+4.3.4.3
+Wie bereits weiter
+oben aufgezeigt, stellte die Vorinstanz bei der Verurtei­lung des
+Beschuldigten B.______ wegen versuchter vorsätzlicher Tötung von A.______
+(gewaltsame Attacke am 20. Mai 2017 im «XY______» in Birmensdorf) ganz
+zentral auf die von ihr als glaubhaft eingestuften Angaben des Privatklägers
+A.______ ab (oben E. 4.2.1). Nach dessen Aussagen soll der Beschuldigte ihn
+am 20. Mai 2017 im «XY______» in Birmensdorf mit massiven Schlägen mit einem
+Holzstiel am Kopf schwer verletzt haben. Die Glaubhaftigkeit dieser
+Darstellung des Privatklägers wurde von der Verteidigung im
+Berufungsverfahren nachdrücklich bestritten (act. 161 f., act. 164
+S. 12 ff. Ziffn. 1 ff.).
+Werden nun allerdings die soeben
+erörterten (erheblichen) Indizien ins Bild gerückt, so bestärken diese
+nachdrücklich die Sachverhaltsdarstellung von A.______. Hinzu kommt sodann
+noch Folgendes: E.______ (der unbestritten gemein­sam mit A.______ in der
+Nacht auf den 20. Mai 2017 den Club «XY______» besucht hatte) wurde am 10.
+Dezember 2019 als Tatverdächtiger im Verfahren «Bilten» nach monatelanger
+Suche festgenommen (Verfahrensdossier «Bilten», SG.2021.00014-20,act.
+2/8.1.01 S. 28; act.
+2/4.9.07). Bei seiner ersten Befragung am
+11. Dezember 2019 wurde ihm ein
+Foto des Biltener Opfers und hier
+Beschul­digten B.______
+vorgelegt, woraufhin er spontan von
+sich aus erklärte, dieser habe ihn einmal in dessen Bar in Birmensdorf
+zusammengeschlagen; A.______ sei auch dabei gewesen. Auf Nachfrage erwähnte
+E.______
+nach langem Überlegen, besagter Vorfall habe sich 2017 zugetragen
+(vgl. act. 2/10.9.02 S. 4 ff.). Ebenso bemerkenswert ist ein weiteres
+Detail: Als die Polizei dem Mitbeschuldigten D.______ bei seiner ersten Einver­nahme
+am 23. September 2019 eröffnete, er werde drin­gend verdächtigt, sich in der
+Nacht auf den 20. Mai
+2017 beim Club «XY______» in Birmensdorf eines
+Angriffs auf A.______ und E.______ schuldig gemacht zu haben, entgegnete er,
+er habe niemanden angegriffen oder geschlagen. Auf Nachfrage, was er zum
+erwähnten Vorfall in Birmensdorf wisse, äusserte er, dass er nichts zu diesem
+Vorfall wisse; soweit er wisse, habe damals B.______ den Club verlassen und
+es habe eine Auseinandersetzung gegeben; er (D.______) selbst, sei aber nicht
+nach draussen gegangen, da er Probleme mit seinem Fuss gehabt habe (U-act.
+10.4.01 Dep. 1 f.). Im Bestreben, seine eigene Beteiligung zu
+bestreiten, hat D.______ mit dieser Aussage nolens volens bestätigt, dass es
+in der Nacht auf den 20. Mai 2017 tatsächlich zu einer handfesten Aus­einandersetzung
+mit A.______ kam und B.______ darin verwickelt war.
+Beim Beschauen dieses
+Gesamtbildes bestehen für das Obergericht keine ernsthaf­ten Zweifel daran,
+dass der Beschuldigte B.______ in der Nacht auf den 20. Mai 2017 im Club
+«XY______», konkret beim Ein- und Ausgangsbereich, mit einem Holz­stiel auf
+den Kopf von A.______ einschlug und ihm dabei eine offene Schädelver­letzung
+zufügte. Demnach ist die Anklage (siehe dazu oben E. II. 1) in diesem
+Punkt begründet, wie dies bereits die Vorinstanz zutreffend erkannt hat; es
+ist daher ergänzend auf deren Erwägungen zu verweisen (act. S. 55 – S. 64
+oben E. 12.1. – E. 12.2.5.), dabei insbesondere auch auf die von der
+Vorinstanz mit überzeugender Begründung verworfene Behauptung des
+Verteidigers, wonach B.______ auf­grund einer angeblichen Schulterverletzung
+gar nicht in der Lage gewesen wäre, mit einem Holzstiel kraftvoll von oben
+auf den Kopf von A.______ einzuschlagen (a.a.O., S. 63). Nicht ersichtlich
+ist sodann, inwiefern die von der Verteidigung bean­tragte Befragung weiterer
+Personen, die nach der Erinnerung des Beschuldigten B.______ in der Tatnacht
+möglicherweise im «XY______» im Service arbeiteten oder dort als
+Musiker/Sänger auftraten (act. 131 S. 5 ff.), an diesem Beweisergebnis
+etwas zu ändern vermöchte. Abgesehen davon, dass der Vorfall im «XY______»
+inzwischen mehrere Jahre zurückliegt und bereits aus diesem Grund fundierte
+Angaben kaum mehr zu erwarten sind, weisen alle diese Personen ein Nähever­hältnis
+zum Beschuldigten als damaligem Geranten des «XY______» auf. Hinzu kommt,
+dass keine Anhaltspunkte bestehen (und sich solche auch nicht aus der
+Begründung des Beweisantrags ergeben), dass eine dieser Personen das Kernge­schehen
+im Ausgangsbereich des «XY______» unmittelbar selbst beobachtet hätte.
+4.3.5
+Die Rolle der beiden CD.______-Brüder
+4.3.5.1
+Die
+Staatsanwaltschaft stellt sich in ihrer Anklage auf den Standpunkt, dass
+B.______ nicht als Einzeltäter A.______ schwer verletzt bzw. zu töten ver­sucht
+habe, sondern dabei von den Brüdern C.______ und D.______ tatkräftig
+unterstützt worden sei. Konkret sollen die CD.______-Brüder A.______ je an
+einem Arm festgehalten haben, sodass dieser den massiven Schlägen von
+B.______ wehrlos ausgesetzt gewesen sei (
+act. 1/1-1/3;
+siehe
+oben E. II. 1.).
+Die Vorinstanz schloss indes eine
+Mittäterschaft der beiden CD.______-Brüder aus und erwog in dubio pro reo,
+dass die CD.______-Brüder sich zwar in die handgreifliche Ausei­nandersetzung
+zwischen B.______ und A.______ sowie E.______ zunächst an der Bartheke und
+danach im Ausgangsbereich des «XY______» einge­mengt hätten, hierbei jedoch
+nicht in aggressiver Absicht, sondern um zwischen den Streitparteien zu
+schlichten bzw. diese voneinander zu trennen; es sei
+ausserdem
+nicht erstellt, ob die CD.______-Brüder überhaupt, und sei es nur in
+Verteidigungsabsicht, zugeschlagen hät­ten
+(act. 122 S. 64 ff. E.
+12.2.6. und S. 57 oben E. 12.1. in fine; siehe auch oben E. II. 2.).
+Infolgedessen sprach die Vorinstanz die CD.______-Brüder von der Anklage
+einer in Mittäterschaft mit B.______ began­genen versuchten vor­sätzlichen
+Tötung frei (act. 122 S. 113 Dispositiv-Ziff. 1 und Ziff. 3).
+4.3.5.2
+Die
+Staatsanwaltschaft und ebenso der Privatkläger A.______ beantragen
+berufungsweise eine Verurteilung der beiden CD.______-Brüder wegen versuchter
+vor­sätzlicher Tötung (act. 164 S. 72 und S. 95). Die Staatsanwaltschaft
+erachtet die erstinstanzliche Begründung des Freispruchs der beiden
+CD.______-Brüder «weder im Hinblick auf die übrige Aussagewürdigung der
+Vorinstanz selber noch unter Berück­sichtigung und Würdigung der weiteren
+erhobenen Beweise» für nachvollziehbar. Als absurd und aktenwidrig bezeichnet
+die Staatsanwaltschaft die Schlussfolgerun­gen der Vorinstanz in Bezug auf
+die Schlichtungsbemühungen wie auch eine mögli­che Verteidigungsabsicht der
+CD.______-Brüder. Sie hielt an der Berufungsverhandlung dafür, dass C.______
+selbst nie behauptet habe, er habe geschlichtet oder sei von A.______ und
+E.______ gar angegriffen worden, sodass er sich hätte verteidigen müssen.
+Derartige Mutmassungen der Vorinstanz seien nicht zu schüt­zen und könnten
+nicht Basis für einen Freispruch nach dem Grundsatz «im Zweifel für den
+Angeklagten» sein. Vielmehr frage sich, warum C.______, wäre er nicht
+tatbeteiligt gewesen, in der Untersuchung überhaupt hätte auf die Idee kommen
+sol­len, seine Anwesen­heit im «XY______» zu bestreiten und seine
+Falschbehauptung zu­gleich noch mit einem unwahren Alibi zu untermauern.
+Vielmehr habe das Gericht Aussageverwei­gerungen (wenn Angaben zur eigenen
+Entlastung eigentlich zu erwarten wären) als auch widerlegbare Falschaussagen
+zu würdigen. Nicht nach­vollziehbar sei ferner, dass die Vorinstanz die
+Aussagen von A.______ in Bezug auf die Handlungen des Beschuldigten B.______
+für glaubhaft erachte, nicht aber dessen Aussagen in Bezug auf die
+Tatbeteiligung der beiden CD.______-Brüder, zumal die Schilderung von
+A.______ auch durch die Aussagen von E.______ gestützt werde. Fraglich sei
+überdies, ob D.______ durch seine Beinverlet­zung tatsächlich so einge­schränkt
+gewesen sei, dass er deswegen nicht ins Geschehen hätte eingreifen kön­nen.
+D.______ habe ausserdem unzutreffend ausgesagt, sein Bruder C.______ habe
+sich in der fraglichen Nacht nicht im «XY______» aufgehalten (zum Gan­zen:
+act. 164 S. 75-77, ferner S. 99 sowie S. 101 unten und S. 102 oben).
+Aus Sicht des Rechtsvertreters
+des Privatklägers A.______ sind die (für die beschuldigten CD.______-Brüder
+weitgehend entlastenden) Aussagen der beiden ano­nymen Zeugen (Person 1 und
+2) unglaubhaft; ohnehin seien diese anonym erhobe­nen Befragungen mit
+Zurückhaltung zu würdigen. Person 2 habe von einer blossen Schlägerei
+gesprochen, obwohl es sich um einen Angriff auf A.______ und E.______
+gehandelt habe. Auch habe sie behauptet, A.______ habe ein Messer gezückt,
+was absolut unglaubhaft sei; wäre dem nämlich so gewesen, hätte der
+Beschuldigte B.______ zu seiner Entlastung vorgebracht, er sei von A.______
+mit einem Messer angegriffen worden; stattdessen habe B.______ ledig­lich
+erwähnt, eine Kellnerin habe gesagt, dass eine Person ein Messer dabeihabe.
+In Bezug auf die Aussagen der Beschuldigten habe bereits die Vorinstanz darge­legt,
+dass diese unglaubhaft bzw. Schutzbehauptungen seien. Demgegenüber stimmten
+die Aussagen von E.______ mit jenen von A.______ überein, weshalb für die
+Sachverhaltserstellung vollumfänglich auf die Schilderungen von A.______
+abzustellen sei. Dieser habe klar und deutlich zu Protokoll gegeben, wie die
+CD.______-Brüder ihn an den Armen festgehalten hätten, damit B.______ ihn mit
+einem Baseballschläger auf den Kopf habe schlagen können. Insofern würden die
+Aussagen von A.______, auf welche abzustellen sei, entgegen der Ansicht der
+Vorinstanz ein eindeutiges Bild zeichnen (zum Ganzen: act. 164 S. 108 f.
+Ziffn. 12 ff.).
+4.3.5.3
+Im Folgenden ist
+die erstinstanzliche Beweiswürdigung hinsichtlich der Rolle der
+CD.______-Brüder an den von Staatsanwaltschaft und Privatkläger dagegen vorge­brachten
+Einwendungen zu messen.
+4.3.5.3.1
+Vorweg gilt als
+gesichert – und wurde so auch zutreffend von der Vor­instanz festgehalten –,
+dass die tätliche Auseinandersetzung im «XY______» in der Nacht auf den
+20. Mai 2017, in deren Verlauf B.______ mit einem Holzstiel A.______
+schwer am Kopf verletzte, ihren Anfang an der Bartheke nahm (und schliesslich
+im Ein- und Ausgangbereich mit der schweren Kopfverletzung von A.______ ihre
+Kulmination erreichte). Der Streit entzündete sich, als E.______ und
+A.______, nachdem sie zunächst zu zweit an einem Tisch gesessen und reichlich
+dem Alkohol zugesprochen hatten, sich zur Theke begaben, wo E.______ sogleich
+begann, B.______ verbal zu provozieren. Rasch kam es zwi­schen ihnen zu
+Handgreiflichkeiten, derweil A.______ mutmasslich ein Messer zog, worauf
+augenblicklich weitere Personen hinzutraten und die Situation eskalier­te.
+Wie viele Personen konkret sich in die Auseinandersetzung einmengten, ist
+unklar (so zutreffend auch bereits die Vorinstanz: act. 122 S. 56). Bestimmt
+aber waren es nicht nur die beiden CD.______-Brüder. So berichtete E.______
+in der Untersuchung, er und A.______ seien von B.______ und 3-6 bzw. 3-4
+weite­ren Personen angegriffen worden
+(U-act. 10.14.01, Dep. 1 und Dep.
+10). Ebenso erwähnte der eine anonyme Zeuge (Person 1), dass neben den zuvor
+namentlich genannten Personen noch eine weitere Person in das Handgemenge
+involviert gewesen sei (U-act. 10.13.02, Dep. 1). Ferner ist auch den
+Schilderungen von A.______ (dazu nachfolgend mehr) zu entnehmen, dass neben
+den namentlich bekann­ten Personen mindestens noch eine weitere Person an der
+Auseinandersetzung beteiligt war.
+4.3.5.3.2
+a)
+Der
+eben angesprochene anonyme Zeuge (Person 1) will sodann gese­hen haben, dass
+die beiden CD.______-Brüder erfolglos versucht hätten, die an der Theke
+miteinander streitenden B.______, A.______ und E.______ voneinander zu
+trennen (U-act. 10.13.02, Dep. 1). Gemäss dieser Aussage hätten folglich die
+CD.______-Brüder nicht auf aggressive Weise ins Geschehen eingegriffen,
+sondern im Gegenteil in der Absicht, zwischen den Streithähnen zu schlichten.
+b)
+Demgegenüber schreibt
+der andere anonyme Zeuge (Person 2) eine schlichten­de Rolle primär nur
+D.______ zu. Nach dessen Beobachtung kam es an der Bartheke zu einer verbalen
+Auseinandersetzung zwischen A.______ und E.______ auf der einen und B.______
+auf der anderen Seite; plötzlich habe A.______ ein Spickmesser gezückt (was
+so übrigens auch B.______ zu Pro­tokoll gab, wenngleich die betreffende
+Aussage missverständlich protokolliert ist, indem unklar bleibt, ob er selbst
+das Messer bemerkte oder bloss von der Kellnerin wegen eines Messers gewarnt
+wurde; U-act. 10.3.01, S. 4 Mitte und Dep. 44). In diesem Moment sei
+C.______ hinzugekommen und alle hätten mit den Fäusten aufeinander
+eingeschlagen, worauf D.______, dessen eine Bein eingegipst bzw. eingeschient
+gewesen sei, schlichtend eingegriffen habe (U-act. 10.12.01, Dep. 5, Dep. 14
+und Dep. 17; U-act. 10.12.02, Dep. 1).
+c)
+E.______ sagte in der
+Untersuchung aus, er und A.______ seien von
+zwei
+Personen mit
+Holzstöcken geprügelt worden; im Verlauf der Auseinanderset­zung hätten
+D.______ und eine andere Person A.______ an den Armen fest­gehalten, derweil
+B.______ und C.______ mit Holzstöcken auf A.______ eingedroschen hätten
+(U-act. 10.14.01, Dep. 28 ff.). A.______ selbst erwähnte dagegen, er sei
+von D.______ und C.______ an den Armen fixiert worden, als B.______ von vorne
+mit einem Baseballschläger auf seinen Kopf schlug. Zudem berichtete A.______,
+dass noch zwei weitere Personen beteiligt gewesen seien, wobei eine von beiden
+ihn mit einem Baseballschläger von hinten gehauen habe (U-act. 10.1.01,
+S. 3 unten und S. 4 oben).
+d)
+Bei der Würdigung der
+eben zitierten Aussagen bleibt zu konstatieren, dass diese ein insgesamt
+konfuses Bild ohne eindeutige Konturen vermitteln. Auf dieser Grund­lage
+jedenfalls lässt sich nicht eruieren, ob und gegebenenfalls auf welche Weise
+die beiden CD.______-Brüder tatsächlich ins Geschehen eingegriffen haben.
+Dass bei diesen alles andere denn kongruenten Angaben ausschliesslich nur der
+Darstellung des Privatklägers A.______ zu folgen wäre – so der Standpunkt
+seines Rechts­vertreters und letztlich auch der Staatsanwaltschaft –, ist
+nicht vertretbar. Auch wenn im Sinne des Rechtsvertreters von A.______ die
+divergenten Angaben der beiden anonymen Zeugen mit Zurückhaltung gewürdigt
+werden, steht trotzdem wei­terhin noch die Darstellung von E.______ im Raum,
+welche sich mit dem Anklagevorwurf (
+beide
+CD.______-Brüder sollen
+A.______ an den Armen festgehalten haben) ebenfalls nicht deckt.
+4.3.5.3.3
+a)
+Unbestritten
+ist, dass D.______, als er sich damals in der Nacht auf den 20. Mai 2017 als
+Gast im «XY______» aufhielt, an der linken Ferse beeinträchtigt war und daher
+an Stöcken ging und zur Stabilisation der Ferse einen orthopädi­schen Schuh
+trug (U-act. 10.4.01, Dep. 2 und Dep. 59 ff.; act. 164 S. 120; siehe fer­ner
+Arztberichte von 2017 in U-act. 12.2.10-1 und 12.2.10-2). Dieser Umstand –
+und darin ist der Verteidigung beizupflichten (act. 164 S. 113) – vermag
+tatsächlich Zwei­fel daran zu erwecken, ob D.______ überhaupt in der Lage
+war, sich kraftvoll an einer Keilerei wie der hier inkriminierten zu
+beteiligen. Allerdings befindet sich in den Akten ein Foto, auf welcher
+D.______ nur knapp zehn Tage nach dem Vorfall in Birmensdorf ohne Stöcke und
+Stützfuss an einer Grabstätte im Kosovo posiert (U-act. 10.0.03); dies
+wiederum deutet darauf hin, dass der bei ihm seit einem Arbeits­unfall im
+Oktober 2015 auftretende «persistierende und therapieresistente» (medizi­nisch
+jedoch nicht nachweisbare) Fersenschmerz am 20. Mai 2017 womöglich eher
+abklingend war, und er damals den linken Fuss unter Umständen nahezu voll und
+nicht bloss, wie von ihm angegeben (U-act. 10.4.01, Dep. 61), zu 10-20%
+belasten konnte.
+b)
+Im Nachhinein freilich
+lässt sich keine hinreichende Gewissheit mehr erlangen, ob D.______
+körperlich damals tatsächlich in der Lage war, die ihm in der Anklage
+angelastete Tathandlung (oben E. II. 1.: Festhalten von A.______, damit
+B.______ mit einem Holzstiel auf ihn einschlagen konnte) zu begehen.
+4.3.5.3.4
+a)
+Der
+Beschuldigte C.______ präsentierte in der Untersuchung bei sei­ner ersten
+Einvernahme Facebook-Einträge und machte gestützt auf diese geltend, dass er
+sich in der Tatnacht vom 20. Mai 2017 überhaupt nicht in der Schweiz, son­dern
+im Kosovo aufgehalten habe (U-act. 4.1.03, Dep. 1 ff.). An dieser
+Aussage hielt er auch noch bei einer nachfolgenden Konfrontationseinvernahme
+fest (U-act. 10.0.01, S. 8 oben). In der Folge erwies sich dieses Alibi als
+offensichtlich falsch; es konnte nachgewiesen werden, dass C.______ am
+22. April 2017 aus dem Koso­vo ausreiste und erst wieder am 24. Mai 2017
+dorthin zurückkehrte (U-act. 4.1.31 S. 4 und U-act. 8.0.03). Als
+C.______ daraufhin mit seiner unzutreffenden Anga­be konfrontiert wurde,
+meinte er, dass er bei seiner Erstaussage lediglich gesagt habe, was er auf
+Facebook gesehen habe; überhaupt sei das Ganze schon lange her und er habe
+sich wiederholt im «XY______» aufgehalten, weshalb er sich nicht mehr
+erinnere, ob er konkret auch in der Nacht auf den 20. Mai 2017 dort
+gewesen sei; jedenfalls habe er «mit dem Fall nichts zu tun» (U-act. 10.0.05,
+Dep. 26 ff.).
+b)
+Der Beschuldigte
+D.______ gab in der Untersuchung als erstes ebenfalls (wahrheitswidrig) zu
+Protokoll, sein Bruder C.______ sei am 20. Mai 2017 nicht im «XY______»
+anwesend gewesen (U-act. 10.4.01, Dep. 43 und 46).
+c)
+Aufgrund der gesamten
+Untersuchungsergebnisse steht freilich mit zureichender Sicherheit fest, dass
+der Beschuldigte C.______ in der Tatnacht am 20. Mai 2017 im «XY______»
+anwesend war. Dies hat bereits die Vorinstanz im angefochtenen Ent­scheid mit
+überzeugender Begründung festgestellt, sodass auf die bezüglichen Erwägungen
+zu verweisen ist (act. 122 S. 57 f. E. 12.2.1.).
+d)
+Vor diesem Hintergrund
+aber drängt sich die Frage auf, weshalb der Beschuldigte C.______ anfänglich
+seine Anwesenheit im «XY______» am 20. Mai 2017 über­haupt in Abrede gestellt
+hatte, wo er doch ohnehin nichts mit der gewaltsamen Aus­einandersetzung in
+jener Nacht zu tun gehabt haben will. Die hierbei aufkommende Vermutung, der
+Beschuldigte C.______ könnte bei der handfesten Auseinander­setzung womöglich
+doch eine prägende Rolle gespielt haben, wird durch die glei­cherweise
+unwahre Aussage seines Bruders D.______ noch zusätzlich genährt und nimmt
+dieses Aussageverhalten der beiden CD.______-Brüder schon beinahe die
+Qualität eines Indizes an, welches für eine Tatschuld von C.______ spricht.
+4.3.5.3.5
+a)
+Was
+sodann die Angaben des Beschuldigten D.______ in Bezug auf seine eigene Rolle
+beim fraglichen Vorfall im «XY______» anbetrifft, so verwundern diese auf den
+ersten Blick ebenfalls. Die zwei anonymen Zeugen (Person 1 und 2) haben beide
+ausgeführt, D.______ habe, als es an der Bar zu einem handfesten Gerangel
+gekommen sei, schlichtend eingegriffen (siehe oben E. 4.3.5.3.2).
+Insofern wäre eigentlich erwartbar, dass D.______ dasselbe gleich von Anfang
+an auch sagen würde. Stattdessen schilderte er bei seiner ersten Einvernahme
+seine Rolle als rein passiv: Dass er selber niemanden angegriffen oder
+geschlagen habe (zumal er am Fuss verletzt gewesen sei), sondern von seinem
+Platz an der Bar aus ledig­lich beobachtet habe, wie sich A.______ und
+E.______ zunächst an der Bar mit B.______ gestritten und danach alle drei das
+Lokal verlassen hätten (U-act. 10.4.01, Dep. 34-38). Erst bei der folgenden
+Konfrontationseinvernahme, an welcher A.______ berichtete, dass er von den
+beiden CD.______-Brüdern an den Armen festgehalten worden sei, damit B.______
+mit einem Baseballschläger auf ihn habe einschlagen können (U-act. 10.0.01, S.
+4 unten), erklärte D.______, dass an der Bar fünf bis zehn Personen
+miteinander gestritten hätten, worauf er auf diese Leute zugegangen sei, um
+sie voneinander zu trennen, sei dann aber selbst gestossen worden und zu Fall
+gekommen und habe sich am bereits zuvor lädierten Fuss noch zusätzlich
+verletzt, weshalb er sich wieder entfernt habe (U-act. 10.0.01, S. 7 unten
+und S. 8 oben).
+b)
+Auch wenn das eben
+aufgezeigte Aussageverhalten von D.______ ein gewis­ses Misstrauen zu
+erwecken vermag, so fällt dieses nicht vollkommen aus dem Rahmen. Jedenfalls
+kann auch eine unschuldige Person ihre wirksamste Verteidi­gung durchaus
+darin sehen, vorerst einmal generell in Abrede zu stellen, mit dem
+untersuchten Sachverhalt überhaupt etwas zu tun zu haben. Kommt sie damit
+durch, à la bonheur, die Sache hat sich erledigt. Folglich kann daher in
+einer so gewählten Strategie kein tragfähiges Indiz für eine allfällige
+Tatschuld ausgemacht werden.
+4.3.5.3.6
+Aus alldem
+ergibt sich als Erkenntnis, dass sich der in der Anklage gegen­über den
+CD.______-Brüdern erhobene Vorwurf, wonach sie beide A.______ an den Armen
+festgehalten hätten, damit B.______ ungehindert mit einem Holzstiel auf
+dessen Kopf einschlagen konnte, weder in objektiver noch in subjektiver
+Hinsicht hinlänglich beweisen lässt. Dies hat bereits die Vorinstanz so
+zutreffend erkannt, weshalb die von Staatsanwaltschaft und Privatkläger
+berufungsweise erhobene Rüge einer unrichtigen Sachverhaltsfeststellung fehl
+geht. Gewiss indiziert vorab das Aussageverhalten der CD.______-Brüder deren
+anklagegemässe (Mit)Täterschaft, bei C.______ noch mehr als bei D.______.
+Insgesamt aber bleibt die Beweis­lage schwach. Dies gilt – erstens – in Bezug
+auf den äusserlichen Geschehensab­lauf, indem unklar bleibt, ob und
+gegebenenfalls auf welche Weise die CD.______-Brüder an der handfesten
+Auseinandersetzung im «XY______» beteiligt waren; jedenfalls standen laut den
+aktenkundigen Schilderungen neben A.______, E.______, B.______ und den
+CD.______-Brüder noch mindestens eine, möglicherweise aber sogar zwei bis
+drei weitere Personen im Brennpunkt des (gewaltsamen) Ereig­nisses, weshalb
+bei objektiver Betrachtung eine erhebliche Unsicherheit verbleibt, ob die
+CD.______-Brüder tatsächlich, wie ihnen in der Anklage angelastet, A.______
+an den Armen festhielten. Ebenso wenig tragfähig ist die Beweislage –
+zweitens – hin­sichtlich der subjektiven Tatbestandmerkmale. Denn selbst wenn
+die CD.______-Brüder A.______ an den Armen festgehalten hätten, bleibt offen,
+in welchem Bestreben sie dabei handelten. Gleicherweise denkbar wie die
+eingeklagte aggressive Variante (Festhalten, damit B.______ auf A.______
+einschlagen konnte) ist, dass sie schlichtend in die Auseinandersetzung
+eingriffen oder gar, dass A.______ tat­sächlich ein Messer gezückt hatte (was
+übrigens aus Sicht der Vorinstanz der Fall war; act. 122 S. 59 oben), worauf
+die CD.______-Brüder ihn festhielten, damit er nicht zustechen konnte.
+4.3.5.4
+All dies führt zum
+Fazit, dass die Vorinstanz im angefochtenen Entscheid die CD.______-Brüder zu
+Recht von der Anklage eines in Mittäterschaft mit B.______ begangenen
+Tötungsversuchs freigesprochen hat. Infolgedessen sind in diesem Punkt die
+Berufungen der Staatsanwaltschaft und des Privatklägers A.______ abzuweisen.
+Der Vollständigkeit halber ist
+noch auf Folgendes einzugehen: In der Anklage lastet die Staatanwaltschaft
+den CD.______-Brüdern im Kontext mit der Auseinandersetzung im «XY______»
+nicht einzig eine versuchte vorsätzliche Tötung an, sondern zusätzlich die
+Begehung eines Angriffs im Sinne von Art. 134 StGB (siehe act. 1/1 und 1/3).
+Die Vorinstanz erwog dazu, die Tatbestandvoraussetzungen eines Angriffs seien
+hin­sichtlich der CD.______-Brüder nicht erfüllt (act. 122 S.
+77 ff. E. 4.), hat allerdings in ihrem Urteilsdispositiv den entsprechenden
+Freispruch von diesem Anklagepunkt nicht festgehalten. Die Staatsanwaltschaft
+fordert in ihrer Berufung erneut eine Verurtei­lung der CD.______-Brüder
+wegen Angriffs im Sinne von Art. 134 StGB. Nachdem jedoch, wie zuvor
+aufgezeigt, nicht zweifelsfrei nachweisbar ist, dass die CD.______-Brüder
+sich im Sinne von Art. 134 StGB gewaltsam und in feindseliger Absicht (siehe
+dazu OFK/StGB/JStG-
+Donatsch
+,
+StGB 134 N 1) an der Auseinandersetzung im «XY______» beteiligt haben, fällt
+dieser Anklagepunkt ebenfalls in sich zusammen. Der Frei­spruch auch vom
+Vorhalt des Angriffs im Sinne von Art. 134 StGB ist im nachfol­genden
+Urteilsdispositiv festzuhalten.
+4.3.6
+Anklage der Körperverletzung zum Nachteil von E.______
+4.3.6.1
+Gemäss Anklage
+soll bei der Auseinandersetzung im «XY______» der Beschuldigte B.______,
+unmittelbar bevor er auf A.______ einschlug, mit dem Holzstiel zunächst
+mindestens einmal an die linke Stirnseite von E.______ geschlagen haben,
+wodurch dieser zumindest eine schmerzhafte Kontu­sion (Prellung) sowie eine
+Riss-Quetschwunde am Kopf erlitten habe (act. 1/2 S. 3). Die Vorinstanz
+schloss sich in diesem Punkt der Anklage an, indem sie erwog, B.______ habe
+zuerst E.______ an dessen linker Schläfe getroffen, sodass er am Kopf
+geblutet habe, was als einfache Körperverletzung im Sinne von Art. 123 Ziff.
+1 StGB zu qualifizieren sei (act. 122 S. 56 E. 12.1.; S. 75 ff. E. 3.).
+Demgegenüber beantragt der Beschuldigte B.______ in seiner Berufung einen
+Freispruch (act. 131 und act. 164 S. 3); er habe E.______ nicht geschlagen
+(act. 164 S. 63 Ziff. 89).
+4.3.6.2
+Die Berufung von
+B.______ ist in Bezug auf seine erstinstanzliche Verurteilung wegen einfacher
+Körperverletzung zum Nachteil von E.______ begründet, womit er von diesem
+Anklagepunkt freizusprechen ist (ursprünglich an­geklagt war diesbezüglich
+sogar eine versuchte schwere Körperverletzung im Sinne von Art. 122 StGB;
+siehe act. 1/2 Ziff. 2). Dies aus folgenden Überlegungen:
+Eine einfache Körperverletzung im
+Sinne von Art. 123 Ziff. 1 StGB setzt mehr als eine nur geringfügige
+Beeinträchtigung der körperlichen Integrität voraus, wovon auch die
+Vorinstanz zutreffend ausgegangen ist; als noch geringfügig gelten kleine­re
+Schwellunge, Quetschungen, Schürf- und Kratzwunden; eine solcherart minimale
+Verletzung fällt noch unter den Übertretungstatbestand der Tätlichkeit gemäss
+Art. 126 StGB (OFK/StGB/JStG-
+Donatsch
+,
+StGB 123 N 2), wobei eine blosse Tätlichkeit inzwischen verjährt wäre (Art.
+109 StGB).
+Es steht aufgrund der
+Untersuchungsergebnisse ausser Frage – und insoweit ist der
+Staatsanwaltschaft und der Vorinstanz beizupflichten –, dass E.______ bei der
+Auseinandersetzung im «XY______» von B.______ geschlagen wurde. Indes findet
+sich in den gesamten Akten kein belastbarer Beweis dafür, dass E.______ dabei
+eine Beeinträchtigung in der Schwere einer ein­fachen Körperverlet­zung im
+Sinne von Art. 123 Ziff. 1 StGB erlitten hätte. Wohl gab E.______ in der
+Untersuchung zu Protokoll, dass er nach einem Schlag von B.______ an der
+linken Stirn geblutet habe (U-act. 10.0.05, Dep. 57 f.), doch ist allein
+damit nicht erstellt, dass es sich dabei um mehr als eine nur leicht blutende
+Schürfung handelte. Dieses Ver­letzungsbild lässt sich daher nicht unter den
+Tatbestand von Art. 123 Ziff. 1 StGB subsumieren. Die Ergebnisse der
+Untersuchung sind ferner auch zu wenig eindeu­tig, dass hinreichende Klarheit
+darüber bestünde, mit welcher Hef­tigkeit B.______ auf E.______ einschlug;
+deswegen entfällt ebenso eine Strafbarkeit wegen versuchter einfacher
+Körperverletzung, geschweige denn einer versuchten schweren Körperverletzung.
+5.
+Rechtliche Würdigung der
+Tathandlung von B.______
+5.1
+In Hinsicht auf den
+mindestens einen massiven Schlag auf den Kopf von A.______ beantragt die
+Staatsanwaltschaft in ihrer Anklage im Hauptstandpunkt eine Verurteilung des
+Beschuldigten B.______ wegen versuchter vorsätzlicher Tötung (Art. 111 StGB
+in Verbindung mit Art. 22 Abs. 1 StGB), eventualiter wegen schwerer
+Körperverletzung im Sinne von Art. 122 StGB (act. 1/2 S. 2).
+Die Vorinstanz qualifizierte im
+angefochtenen Entscheid die Tathandlung von B.______ (massives Einschlagen
+mit einem Holzstiel auf den Kopf von A.______ mit der Folge, dass dieser
+einen offenen Schädelbruch erlitt) als versuchte vorsätzli­che Tötung
+im Sinne von Art. 111 StGB in Verbindung mit Art. 22 Abs. 1 StGB. Die
+Vorinstanz erwog zur rechtlichen Subsumtion konkret Folgendes:
+«Der Beschuldigte 2 [B.______] hat mindestens einmal mit
+einem hölzernen Gegen­stand wuchtig auf den Vorderkopf des Privatklägers
+[A.______] eingeschlagen. Als unmit­telbare Folge davon erlitt der
+Privatkläger sehr gravierende Verletzungen. Zu nennen ist ins­besondere ein
+offenes Schädel-Hirn-Trauma bei einer Fraktur des Stirnbeins mitsamt Blu­tung
+zwischen harter Hirnhaut und Gehirn, Lufteintritt in die Schädelhöhle und
+subduraler Flüssigkeitskollektion. Bei der rechtlichen Beurteilung des
+erfüllten Tatbestands kommt es in erster Linie auf die dem Privatkläger
+tatsächlich zugefügten Verletzungen und nicht auf das (nicht bekannte)
+Tatwerkzeug an (vgl. Urteil des Bundesgerichts 6B_823/2010 vom
+25. Januar 2011, E. 3.3, m.w.H.). Auch mit einem an sich weniger
+gefährlichen Gegenstand wie einem Besenstil kann ein Täter seinem Opfer
+tödliche Verletzungen beibringen, wenn er gezielt und heftig genug zuschlägt.
+Der Beschuldigte 2 ist kräftig gebaut und die entstande­nen Verletzungen
+lassen nur den Schluss zu, dass dieser mit voller Wucht, ohne Rücksicht auf
+mögliche Folgen, zugeschlagen hat.
+Verletzungen von der Art, wie sie der Privatkläger erlitten
+hat, sind lebensbedrohlich. Ein offenes Schädel-Hirn-Trauma ist in seinem
+Schweregrad und damit auch in den möglichen Folgen von einem geschlossenen
+Schädel-Hirn-Trauma deutlich abzugrenzen. Selbst bei letzterem könnten sich
+gravierende Hirnverletzungen einstellen. Aus dem Vorhandensein einer Fraktur
+und den daraus entstandenen Komplikationen wie Lufteintritt und Flüssigkeits­kollektion
+muss geschlossen werden, dass der Beschuldigte 2 das Risiko des
+Todeseintritts nicht mehr kalkulieren bzw. dosieren konnte. Dementsprechend
+konnte er nicht mehr darauf vertrauen, dass sich die Todesgefahr nicht
+realisieren werde. Das Bundesgericht bejahte in dem zuvor zitierten Entscheid
+6B_823/2010 – es ging um einen Eindrückungsbruch des Schädelknochens auf
+einer Fläche von zwei Zentimetern in unmittelbarer Nähe eines grös­seren
+venösen Blutgefässes – zu Recht den Tötungseventualvorsatz. Es ergäbe keinen
+Sinn, im vorliegenden Fall etwas anderes anzunehmen.
+Dem Beschuldigten 2 hat sich der Todeseintritt als
+Möglichkeit seines Handelns ernsthaft aufdrängen müssen. Dass der
+Privatkläger keine – unmittelbaren oder mittelbaren – tödli­chen Verletzungen
+davongetragen hat, ist dem Zufall zu verdanken. Bei dieser Sachlage wurde die
+Versuchsschwelle überschritten: Der Beschuldigte 2 hat alles für den
+Erfolgsein­tritt Erforderliche getan; der Erfolg ist jedoch nicht
+eingetreten.»
+5.2
+5.2.1
+Die Verteidigung
+führte anlässlich der Berufungsverhandlung aus, die Staats­anwaltschaft halte
+unzutreffend dafür, allein schon das Verletzungsbild von A.______ weise auf
+ein brutales Vorgehen von B.______ und folglich auf eine von ihm angestrebte
+Tötung seines Kontrahenten hin. Damit verwechsle die Staatsan­waltschaft den
+objektiven und den subjektiven Tatbestand, wenn sie vom Resultat auf den (angeblichen)
+Willen schliesse. Sodann begründe die Staatsanwaltschaft die von ihr gesehene
+schwere Körperverlet­zung einzig damit, dass A.______ vor­geblich zwei Jahre
+lang arbeitsunfähig gewesen sei, was jedoch überhaupt nicht erstellt sei;
+weil A.______ ausserdem keine irre­versible Verletzung erlitten und auch
+keine Lebensgefahr bestanden habe, folge da­raus in der Konsequenz, dass die
+damalige Kopfverletzung von A.______ – unabhängig ihrer Ursache – keine
+schwere Körperverletzung im Sinne von Art. 122 StGB gewesen sei (act.
+164 S. 162 ff., Ziff. 70-76).
+5.2.2
+Mit Berufung kann
+eine unkorrekte Feststellung des Sachverhalts oder eine falsche
+Rechtsanwendung durch die Vorinstanz gerügt werden (Art. 398 Abs. 3 StPO).
+Grundsätzlich ist daher zu erwarten, dass der Berufungskläger sich bei der
+Begründung seiner Berufung mit den Erwägungen im angefochtenen Urteil ausei­nandersetzt
+und aufzeigt, was daran aus seiner Sicht in tatsächlicher oder rechtli­cher
+Hinsicht falsch sei. Vorliegend knüpft das Plädoyer der Verteidigung nicht un­mittelbar
+an den vorhin zitierten Erwägungen der Vorinstanz zur rechtlichen Qualifi­kation
+der Tathandlung von B.______ als versuchte vorsätzliche Tötung an, sondern
+bezieht sich die Kritik der Verteidigung in erster Linie auf die Sichtweise
+der Staatsan­waltschaft.
+5.2.3
+Das Berufungsgericht
+überprüft den vorinstanzlichen Entscheid in den ange­fochtenen Punkte mit
+voller Kognition (Art. 398 Abs. 2 StPO); es beurteilt demnach sämtliche
+angefochtenen Anklagevorwürfe in rechtlicher und tatsächlicher Hinsicht
+eigenständig und umfassend (Zürcher Kommentar StPO-
+Zimmerlin
+, Art. 398 N 14).
+5.2.3.1
+Eine vorsätzliche
+Tötung im Sinne von Art. 111 StGB begeht, wer vorsätzlich einen Menschen
+umbringt. Führt die auf die Tötung eines Menschen ausgerichtete vorsätzliche
+Tathandlung des Täters nicht zum Tod des Opfers, so liegt ein strafba­rer
+Versuch vor (Art. 22 Abs. 1 StGB). Gemäss Art. 12 Abs. 2 StGB handelt vorsätz­lich,
+wer die Tat mit Wissen und Willen ausführt (direkter Vorsatz); ebenfalls
+vorsätz­
+lich handelt, wer die
+Verwirklichung der Tat (hier: Todesfolge) für möglich hält und in Kauf nimmt
+(sog. Eventualvorsatz).
+5.2.3.2
+Der Privatkläger
+A.______ zog sich bei der Auseinandersetzung im «XY______» einen offenen
+Schädelbruch zu; dies als Folge davon, dass der Beschuldigte B.______ mit
+einem Holzstiel auf seinen Kopf einschlug. Infolgedessen steht ausser Frage,
+dass der Beschuldigte seinen Schlag mit einem (massiven) Holzstiel an den
+Kopf von A.______ mit ausserordentlich grosser Wucht ausführte, andern­falls
+der Schädelknochen nicht zertrümmert worden wäre. Beim Kopf handelt es sich
+um einen sensiblen Körperteil; ein eingedrückter Schädelknochen kann rasch zu
+tödlichen Schädigungen des darunterliegenden Gehirns führen. Dieser Zusammen­hang
+ist zweifelsfrei jedem urteilsfähigen Menschen bekannt. Schlägt daher eine
+urteilsfähige erwachsene Person einer anderen Person derart kraftvoll auf den
+Kopf, dass die Schädeldecke bricht, so drängt sich ihr die Wahrscheinlichkeit
+eines mögli­chen tödlichen Ausgangs nachgerade auf. Infolgedessen nimmt der
+Aggressor mit seiner Tathandlung eine tödliche Verletzungsfolge in Kauf. Dies
+gilt hier erst recht, indem der Beschuldigte nicht mit blosser Faust, sondern
+mit einem Holzstiel auf den Kopf von A.______ eindrosch, wodurch sich die
+Schlagwucht enorm erhöhte und das Risiko eines Schädelbruchs mit daraus
+folgender (möglicher) tödlicher Beein­trächtigung des Gehirns für den
+Beschuldigten schlicht nicht mehr dosier- und kalku­lierbar war; folglich
+nahm er bei der Ausführung seines massiven Schlags mit einem Holzstiel auf
+die Schädeldecke von A.______ einen möglicherweise tödlichen Ausgang fraglos
+in Kauf. Indem vorliegend der Tod des Opfers nicht eintrat, blieb es beim
+vollendeten Versuch. Es ist daher der Beschuldigte B.______ in Überein­stimmung
+mit der Vorinstanz, auf deren zuvor zitierten Erwägungen ergänzend verwiesen
+wird, wegen versuchter (eventual)vorsätzlicher Tötung im Sinne von
+Art. 111 StGB in Verbindung mit Art. 22 Abs. 1 StGB schuldig zu sprechen.
+Mit den eben gemachten Ausführungen ist der von der Verteidigung in der
+Berufung vorge­brachte Standpunkt widerlegt, wonach es nicht angehe, vom
+Verletzungsbild von A.______ auf ein brutales Vorgehen von B.______ und
+folglich auf eine von ihm gewollte Tötung zu schliessen; richtig ist daran
+einzig, dass B.______, als er mindestens einmal mit grosser Wucht auf den
+Kopf seines Opfers einschlug, dessen Tötung zwar nicht direktvorsätzlich
+anstrebte, sondern nur – aber immerhin – eventualvorsätzlich in Kauf nahm.
+5.2.3.3
+Der
+Vollständigkeit halber bleibt noch anzufügen, dass mit der Verurteilung von
+B.______ wegen versuchter vorsätzlicher Tötung der von der Staatsanwalt­schaft
+zusätzlich eingeklagte Tatbestand des Angriffs gemäss Art. 134 StGB
+(act. 1/2 Ziff. 1) konsumiert wird. Dies hat bereits die Vorinstanz
+zutreffend festgehalten (act. 122 S. 77 ff. E. 4.2. und E. 4.3.).
+6.
+Strafzumessung
+6.1
+Die Vorinstanz
+verurteilte den Beschuldigten B.______ zu einer Freiheits­strafe von sechs
+Jahren. Zu beachten ist dabei, dass die Vorinstanz mit dieser (Gesamt)Strafe
+zwei Delikte des Beschuldigten sanktionierte: zum einen die ver­suchte
+vorsätzliche Tötung zum Nachteil von A.______ (Hauptdelikt), zum ande­ren die
+einfache Körperverletzung zum Nachteil von E.______ (Nebendelikt). Für das
+Hauptdelikt erkannte die Vorinstanz auf eine (Einsatz)Strafe von fünf Jahren
+und drei Monaten und asperierte diese Freiheitstrafe aufgrund des
+Nebendelikts um neun Monate zu einer Gesamtstrafe von sechs Jahren. Vom
+Anklagevorwurf der einfachen Körperverletzung (Nebendelikt) wird der
+Beschuldigte im vorliegenden Berufungsverfahren freigesprochen (oben
+E. II. 4.3.6), sodass hier einzig noch die schuldangemessene Strafe für
+die versuchte vorsätzliche Tötung zu bestimmen ist.
+6.2
+6.2.1
+Die
+Staatsanwaltschaft beantragt mit Anschlussberufung eine Erhöhung der
+erstinstanzlich auf sechs Jahre bemessenen Freiheitsstrafe auf 6½ Jahre. Im
+Zeit­punkt der Antragstellung konnte die Staatsanwaltschaft freilich nicht
+vorhersehen, dass im Berufungsverfahren der Anklagepunkt der einfachen
+Körperverletzung weg­fallen würde. Allerdings bemängelte die
+Staatsanwaltschaft an der Berufungsver­handlung die erstinstanzliche
+Strafzumessung einzig in Bezug auf die für die ver­suchte vorsätzliche Tötung
+festgesetzte Einsatzstrafe; ausgehend von ihrem Antrag ist daher implizit
+darauf zu schliessen, dass sie für die versuchte vorsätzliche Tötung eine
+Freiheitsstrafe von fünf Jahren und neun Monaten für angemessen erachtet (von
+ihr beantragte Gesamtstrafe von 6½ Jahre abzüglich die nicht bemä­kelten neun
+Monate für das nunmehr wegfallende Nebendelikt).
+6.2.2
+Die Vorinstanz hat
+im angefochtenen Urteil die aus ihrer Sicht schuldange­messene
+Freiheitsstrafe für die versuchte vorsätzliche Tötung auf fünf Jahre und drei
+Monate (= 63 Monate) bemessen. Hierzu erwog sie konkret Folgendes
+(act. 122 S. 95 f. E. 2.1):
+«Der Beschuldigte 2 [B.______] schlug dem Privatkläger mit
+einem hölzernen Gegen­stand mit voller Wucht gegen dessen Stirn und
+verursachte dadurch bei diesem gravierende, zumindest potentiell
+lebensgefährliche Verletzungen. Der Privatkläger erlitt unter anderem ein
+offenes Schädel-Hirn-Trauma mit Bruch des Stirnbeins und subduraler
+Flüssigkeitskol­lektion sowie ein Subduralhämatom. Damit ist der objektiv
+wahrnehmbare Tatablauf und -erfolg umrissen.
+Die Tatschwere liegt im untersten Bereich. Es sind
+wesentlich schwerere Handlungsweisen vorstellbar, mit denen der Beschuldigte
+2 insbesondere hätte sicherstellen können, dass der Tötungserfolg eintreten
+würde, so etwa durch die Verwendung eines anderen Tatmittels bzw. einer
+gefährlichen Tatwaffe oder indem er mehr als nur ein- oder zweimal auf den
+Kopf des Privatklägers eingeschlagen hätte. Der Beschuldigte 2 handelte auch
+nicht ausserge­wöhnlich rücksichtslos oder besonders grausam. Es rechtfertigt
+sich somit in einem ersten Schritt, ausgehend von der Tatschwere, eine
+Freiheitsstrafe von sechs Jahren zum Aus­gangspunkt zu nehmen.
+Wie erwähnt schlug der Beschuldigte 2 sehr kraftvoll und
+ohne Rücksicht auf die möglichen Verletzungsfolgen zu. Das Risiko des
+Todeseintritts konnte er nicht mehr beherrschen, so dass das Überleben des
+Privatklägers dem Zufall zu verdanken ist. Der Beschuldigte 2 verfolgte das
+Ziel, den Privatkläger zumindest schwer zu verletzen. Der Eventualvorsatz des
+Beschuldigten 2 in Bezug auf die Tötung ist ein Verschuldensminderungsgrund,
+wobei der Eventualvorsatz vorliegend näher beim direkten Vorsatz als bei der
+bewussten Fahrlässig­keit liegt. Angemessen erscheint folglich eine Minderung
+der Freiheitsstrafe von sechs Jah­ren auf fünf Jahre und sechs Monate.
+Da es beim Versuch der Tötung geblieben ist, ist diese
+Strafe nochmals zu mindern, aller­dings nur geringfügig, da der Tod des
+Privatklägers nur zufällig nicht eingetreten ist, aber durchaus hätte
+eintreten können. Die Freiheitsstrafe ist damit auf fünf Jahre und drei
+Monate zu reduzieren.»
+6.2.3
+Die Staatsanwaltschaft bezog sich im Berufungsverfahren mit ihrer
+Kritik an der erstinstanzlich ausgesprochenen Sanktion ausschliesslich auf die
+soeben dar­gelegten Erwägungen der Vorinstanz zur Bemessung der Strafe für
+die
+versuchte vorsätzliche Tötung. Es sei – so die Staatsanwaltschaft
+– das Einschlagen mit einem Holzstiel auf Kopf und Körper als brutales
+Tatvorgehen zu werten und sei daher keinesfalls von einer Tatschwere im
+untersten Bereich auszugehen; vielmehr sei die Einsatzstrafe im mittleren
+Bereich des Strafrahmens festzulegen. Nicht nachvollziehbar sei, inwiefern
+bei einem Schlag mit voller Wucht mit einem Holzstiel gegen den Kopf und
+Körper von einer geringen Tatschwere ausgegangen werde, zumal die Vorinstanz
+selber ausführe, dass der Beschuldigte sehr kraftvoll und ohne Rücksicht auf
+mögliche Verletzungsfolgen zugeschlagen und dem Opfer eine gra­vierende,
+potentiell lebensgefährliche Verletzung zugefügt habe. Von einer leichten
+Tatschwere könne demzufolge keine Rede sein, weshalb unter den vorliegenden
+Umständen eine Einsatzstrafe von gerade einmal fünf Jahren und drei Monaten
+und damit nahe an der Minimalstrafe des Tatbestandes als Hohn erscheine; es
+sei daher von einer weit höheren Strafe auszugehen (act. 164
+S. 92 f.).
+Die Verteidigung hat sich an der
+Berufungsverhandlung zur Strafzumessung nicht geäussert.
+6.2.4
+Der Tatbestand der
+vorsätzlichen Tötung gemäss Art. 111 StGB ist mit Frei­heitsstrafe von
+mindestens fünf Jahren bis maximal 20 Jahren (Art. 40 Abs. 2 StGB) bedroht.
+Bei einer nur versuchten Tatbegehung ist das Gericht an die angedrohte
+Mindeststrafe nicht gebunden (Art. 22 Abs. 1 StGB in Verbindung mit Art. 48a
+Abs. 1 StGB).
+Die Vorinstanz hat im angefochtenen Entscheid zunächst die
+Methodik der Strafzu­messung zutreffend aufgezeigt (act. 122 S. 89 ff.
+E. VII. 1.1. – 1.7.) und ist dieser anschliessend bei der spezifischen
+Straffestsetzung korrekt gefolgt (siehe dazu die vorstehend eingefügte
+Urteilspassage). Die dagegen vorgetragenen Einwendungen der
+Staatsanwaltschaft verfangen nicht. Insbesondere hat die Vorinstanz die objek­tive
+Tatschwere innerhalb des vorgesehenen Strafrahmens zutreffend bei sechs
+Jahren verortet (was so gesehen tatsächlich dem «untersten Bereich» des
+verfüg­baren Strafrahmens entspricht, ohne dass allerdings mit dieser
+Formulierung eine Relativierung der Verwerflichkeit der Tat gemeint ist).
+Dass die Straftat brutal war, steht ausser Frage, doch ist eine Brutalität im
+weiten Sinne des Begriffs (neben Gewalttätigkeit auch Rohheit,
+Gefühllosigkeit und Schonungslosigkeit) letztlich jedem Tötungsdelikt
+immanent. Es verhält sich freilich nicht so, dass der Beschul­digte mit
+geradezu besonderer Brutalität gehandelt hätte, indem er in der Tatnacht
+geradezu darauf fokussiert gewesen wäre, A.______ gewaltsam umzubringen. Im
+Gegenteil: Der Beschuldigte hat die Auseinandersetzung mit A.______ nicht
+initial gesucht; vielmehr wurde die Schlägerei von A.______ und seinem
+Begleiter E.______ provoziert (oben E. II. 4.3.2.4). Die Vorinstanz hat
+sodann auch dem Umstand, dass es sich um eine versuchte Tatbegehung handelte,
+angemessen Rechnung getragen. A.______ befand sich zu keinem Zeitpunkt in
+akuter Lebensgefahr und seine schwere Kopfverletzung verheilte in der Folge
+ohne opera­tiven Eingriff (welcher zwar medizinisch indiziert war, von
+A.______ jedoch abge­lehnt wurde; siehe oben E. II. 4.1). Was im Übrigen die
+Strafempfindlichkeit des Beschuldigten anbelangt, so ist diese hier als neu­tral
+zu werten. Es ist nicht erkenn­bar, dass der Strafvollzug ihn im Vergleich zu
+anderen Straftätern aussergewöhn­lich hart treffen würde, zumal die
+Verbüssung einer Freiheitsstrafe grundsätzlich für jede Person mit Härten
+verbun­den ist. Insgesamt ist daher die von der Vorinstanz für die versuchte
+vorsätzliche Tötung erkannte Strafe von 63 Monaten als schuldangemes­sen zu
+bezeichnen.
+Bei diesem erstinstanzlich
+bedachtsam festgelegten Strafmass kann es vorliegend jedoch nicht sein
+Bewenden haben. Denn das nachfolgende Berufungsverfahren hat mit einer Dauer
+von nahezu 2½ Jahren zu viel Zeit beansprucht (vergleiche dazu die inzwischen
+normierte Ordnungsvorschrift gemäss Art. 408 Abs. 2 StPO). Es liegt da­rin
+eine Verletzung des Beschleunigungsgebots (Art. 29 Abs. 1 BV; Art. 5 Abs. 1
+StPO), was hier mit einer Strafmilderung von sechs Monaten auszugleichen und
+zu­dem im nach­folgenden Dispositiv festzu­halten ist (Urteil BGer
+6B_176/2017 vom 24. April 2017 E. 2.1; zu den Folgen einer Verletzung
+des Beschleunigungsgebots: BSK StPO-
+Summers
+,
+Art. 5 StPO N15 ff.).
+6.3
+Demnach verfällt der
+Beschuldigte B.______ in eine Freiheitsstrafe von 57 Monaten. Bei dieser
+Strafhöhe ist ein bedingter oder teilbedingter Vollzug ausge­schlossen (Art.
+42 Abs. 1 StGB und Art. 43 Abs. 1 StGB). Der Beschuldigte befand sich vom 23.
+September 2019 bis zum 10. Dezember 2019 in Untersuchungshaft (U-act. 4.2.01
+und 4.2.56). Die insgesamt 79 Hafttage sind auf die Freiheitsstrafe
+anzurechnen (Art. 51 StGB).
+Der Vollständigkeit wegen ist
+noch Folgendes anzufügen: Der Beschuldigte B.______ weist zwei Vorstrafen
+auf; die Staatsanwaltschaft Zürich-Limmat verurteilte ihn mit Strafbefehl vom
+12. Oktober 2017 wegen Widerhandlung gegen das Waf­fengesetz zu einer bedingten
+Geldstrafe von 40 Tagessätzen und abermals mit Strafbefehl vom 21. Juni 2018
+wegen Widerhandlung gegen das Ausländergesetz zu einer Geldstrafe von 90
+Tagessätzen (act. 15/7 und 15/8). Die hier beurteilte ver­suchte vorsätzliche
+Tötung verübte der Beschuldigte noch vor den eben besagten Verur­teilungen.
+Dennoch ist die jetzt angezeigte Freiheitsstrafe für die ver­suchte
+vorsätzliche Tötung nicht als Zusatzstrafe zu jenen Strafbefehlen
+auszufällen. Eine Zusatzstrafe nach Art. 49 Abs. 2 StGB ist nur zu bilden,
+wenn das Gericht für die erst später bekannt geworde­ne Straftat als Sanktion
+die gleiche Strafart vorsieht wie für die bereits beurteilten Straftaten (BGE
+142 IV 265 E. 2.3.2 S. 267 f.).
+7.
+Landesverweis und Ausschreibung
+im Schengener Informationssystem
+7.1
+Die Vorinstanz verwies
+den Beschuldigten B.______ für die Dauer von zehn Jahren ausser Landes und
+ordnete die Ausschreibung der Landesverweisung im Schengener
+Informationssystem (SIS) an (act. 122 S. 113 Dispositiv-Ziff. 5).
+7.2
+Das Gericht hat einen
+Ausländer, der namentlich wegen
+vorsätzlicher Tötung (Art. 111
+StGB) verurteilt wird, unabhängig von der Höhe der Strafe für 5-15 Jahre aus
+der Schweiz auszuweisen (
+Art. 66a Abs. 1 Ingress und lit. a StGB
+). Diese Rechtsfolge einer obligatorischen Landesverweisung tritt
+auch ein, wenn es bei der konkreten Straftat bei einem Versuch geblieben ist
+(BGE 144 IV 168 E. 1.4.1 S. 171).
+Vorliegend wird der Beschuldigte
+wegen versuchter vorsätzlicher Tötung im Sinne von Art. 111 StGB verurteilt,
+was somit gemäss eben zitierter Bestimmung obligato­risch eine
+Landesverweisung nach sich zieht.
+7.3
+Gemäss Art. 66a Abs. 2
+Satz 1 StGB kann das Gericht ausnahmsweise von einer Landesverweisung
+absehen, wenn diese kumulativ (1.) für den Ausländer einen schweren
+persönlichen Härtefall bewirken würde und (2.) die öffentlichen Inte­ressen
+an der Landesverweisung gegenüber den privaten Interessen des Auslän­ders am
+Verbleib in der Schweiz nicht überwiegen (Art. 66a Abs. 2 Satz 1 StGB).
+7.3.1
+Die Vorinstanz gelangte
+im angefochtenen Entscheid in Würdigung der kon­kreten Umstände zum Ergebnis,
+dass eine Landesverweisung für den Beschuldig­ten B.______ keinen schweren
+persönlichen Härtefall bewirke bzw. dass die öffentlichen Interessen an der
+Landesverweisung das persönliche Interesse des Beschuldigten an einem
+Verbleib in der Schweiz überwögen (act. 122 S. 99 E. 1.2.). Aus Sicht der
+Verteidigung besteht demgegenüber ein persönlicher Härtefall, wel­cher das
+hier geringfügige öffentliche Interesse an einer Landesverweisung übertref­fe
+(act. 164 S. 164  f. Ziff. 77-81).
+7.3.2
+Ob im
+gegenständlichen Fall von der obligatorischen Ausweisung des Beschuldigten
+B.______ aus der Schweiz ausnahmsweise abzusehen ist, hängt – entsprechend
+der zuvor dargelegten gesetzlichen Vorgabe – als erstes davon ab, dass
+überhaupt ein schwerer persönlicher Härtefall besteht, was im Folgenden zu
+klären ist.
+7.3.2.1
+Nach der
+bundesgerichtlichen Rechtsprechung hat sich die Prüfung des Här­tefalls im
+Sinne von Art. 66a Abs. 2 StGB am Kriterienkatalog der Bestimmung über den
+"schwerwiegenden persönlichen Härtefall" in Art. 31 Abs. 1 der
+Verordnung vom 24. Oktober 2007 über Zulassung, Aufenthalt und
+Erwerbstätigkeit (VZAE; SR 142.201) zu orientieren (
+BGE 146 IV 105
+E.
+3.4.2 mit Hinweisen;
+144 IV 332
+E. 3.3.2). Zu berücksichtigen sind namentlich der Grad der (persönlichen
+und wirt­schaftlichen) Integration, zu der die Beachtung der öffentlichen
+Sicherheit und Ord­nung, die Respektierung der Werte der Bundesverfassung,
+die Sprachkompeten­zen, die Teilnahme am Wirtschaftsleben oder am Erwerb von
+Bildung zählen (Art. 58a Bundesgesetz vom 16. Dezember 2005 über die
+Ausländerinnen und Aus­länder und über die Integration [AIG; SR 142.20]), die
+familiären Bindungen des Auslän­ders in der Schweiz bzw. in der Heimat, die
+Aufenthaltsdauer, der Gesund­heitszu­stand und die Möglichkeiten für eine
+Wiedereingliederung im Herkunftsstaat (zum Ganzen: Urteil BGer 6B_285/2024
+vom 10. September 2024 E. 1.3.1 mit zahl­rei­chen Hinweisen).
+7.3.2.2
+Der Beschuldigte
+B.______ kam 1977 im Heimatstaat Kosovo zur Welt und verlebte dort seine
+Kindheit und Jugend. An der Berufungsverhandlung (act. 164 S. 4 unten)
+sowie bereits in der Untersuchung (U-act. 10.3.02, Dep. 3 f.) erwähnte
+er, dass er im Kosovo ein Studium «Physik/Chemie» angefangen, aber nicht
+beendet habe. In der Folge habe er bei der Polizei gearbeitet (in der Untersu­chung
+nannte er diesbezüglich eine Zugehörigkeit zu einem militärischen Geheim­dienst,
+wollte sich aber nicht mehr näher erinnern und verbat sich weitere Fragen
+dazu). Im Jahr 2000 – so die unbestrittenen Ausführungen im angefochtenen Ent­scheid
+(act. 122 S. 99) – kam der Beschuldigte in die Schweiz, wo er drei Jahre auf
+dem Bau und elf Jahre als Servicetechniker arbeitete, ehe er sich 2013 mit
+einer Gartenbaufirma ([...]; siehe act. 109 S. 36 Ziff. 145 sowie
+act. 175) selb­ständig machte. Daneben betrieb er «zeitweise Nachtclubs»
+(so sein Verteidiger vor Vorinstanz: act. 109 Ziff. 145), wobei der
+Beschuldigte selbst dies weder vor Vor­instanz noch an der
+Berufungsverhandlung eigens ansprach; aktenkundig ist jeden­falls, dass er
+vor dem «XY______» in Birmensdorf, wo er von Mai 2017 bis Ende 2018
+(Unter)Pächter war (U-act. 8.0.01, S. 7 oben), bereits einmal einen Nachtclub
+in […] geführt hatte (U-act. 10.3.01 S. 4 oben). Dieses Engage­ment in
+Nachtclubs erweckt insofern Argwohn, als der Beschuldigte konkret im
+«XY______» albanische Frauen ohne Bewilligung als Animationstänzerinnen
+beschäftigte (siehe act. 15/8); zudem gab die oben (E. II. 4.3.4.2.2
+Bst.
+f
+) bereits einmal erwähn­te Auskunftsperson (ein nachmalig
+verurteilter Drogenhändler) vor, das «XY______» gemeinsam mit dem
+Beschuldigten gepachtet zu haben, wobei sie für die Pacht CHF 120'000.-
+bezahlt hätten (U-act. 10.16.01, Dep. 1). Bei alldem kann daher nicht
+erstaunen, wenn der Beschuldigte persönlich keine Rede auf seine Tätigkeit
+als Betreiber von Nachtclubs verwendete. Vor Vorinstanz bezifferte er sein
+Einkommen auf monatlich CHF 5'000.- (davon 80% von der SUVA und 20% von
+seiner Firma); daneben habe er Kreditschulden in der Höhe von CHF
+50’-70'000.- (act. 61 S. 5 Dep. 16). An der Berufungsverhandlung nannte er
+als einziges Einkommen die SUVA-Rente von aktuell CHF 3'600.- pro Monat; den
+Stand der noch offenen Kredi­te wusste er nicht (act. 164 S. 4 unten).
+Der Beschuldigte ist mit einer
+Landsfrau ([...], geb. …) verheiratet; das Ehe­paar hat drei inzwischen
+erwachsene Kinder (….) (act. 61 S. 5 Dep. 15; act. 164 S. 5 oben). Die
+Ehefrau ist berufstätig (U-act. 4.2.03, Dep. 2).
+Aus der Untersuchung ist bekannt,
+dass der Beschuldigte im Kosovo mit Eltern und Geschwistern nahe Verwandte
+hat («[m]eine ganze Familie ist unten»), regelmässig dahin zu Besuch fährt
+und zudem dort unlängst auch ein Haus gebaut hat (U-act. 4.2.03, Dep. 3-5;
+U-act. 10.3.02, Dep. 7 f.).
+7.3.2.3
+Die Kernfamilie
+des Beschuldigten (Ehefrau und Kinder) lebt in der Schweiz; insofern bewirkt
+ein Landesverweis für den Beschuldigten eine räumliche Trennung von seiner
+Familie, falls diese ihm nicht in den Kosovo nachfolgt. Daneben bestehen
+keine Anhaltspunkte dafür, dass der Beschuldigte über den Kreis seiner hier
+leben­den Landsleute hinaus eine besondere soziale Bindung zur Schweiz
+aufweist. Im Gegenteil: Seine Integration hierzulande ist, trotz mehr als 20‑jähriger
+Anwesenheit, nur marginal, spricht er nämlich – wie sich an der
+Berufungshandlung gezeigt hat –, nur gebrochen Deutsch, womit er sich im
+Alltag kaum über das Notwendigste hinaus zu verständigen vermag.
+Was seine berufliche Integration
+in der Schweiz anbelangt, so ist diese neutral zu gewichten; einerseits
+scheint er über Jahre hinweg den Unterhalt für sich und seine Familie durch
+eine geregelte Tätigkeit auf dem Bau bestritten zu haben, bewegte sich
+andererseits aber in den letzten Jahren teilweise in einem eher obskuren Mili­eu,
+dies jedenfalls eingedenk dessen, dass er als Nachtklub-Gerant ausländische
+Tänzerinnen ohne Bewilligung beschäftigt hat. Dass im Übrigen der
+Beschuldigte auch sonst der öffentlichen Ordnung in der Schweiz nicht
+vorbehaltlos zugetan ist, hat sich auch bei seiner Widerhandlung gegen das
+Waffengesetz gezeigt (act. 15/7: unerlaubter Besitz von immerhin drei Schusswaffen).
+Die Beziehung des Beschuldigten
+zu seinem Herkunftsland Kosovo ist als durchaus eng zu bezeichnen; er hat
+dort nicht nur eine breite Verwandtschaft, sondern hat dort unlängst sogar
+ein Wohnhaus bauen lassen. Es wird ihm daher problemlos möglich sein, sich im
+Kosovo wieder einzugliedern, zumal er dort auch die ganze Schul- und
+Berufsausbildung absolviert hat. Mit Blick auf das eigene Haus im Kosovo ist
+es zudem auch der Ehefrau des Beschuldigten ohne weiteres zumutbar, mit ihrem
+Gatten zusammen in ihr beider Heimatland zu übersiedeln. Ihre inzwi­schen
+erwachsenen Kinder, so sie in der Schweiz zu bleiben gedenken, wer­den die
+persönliche Beziehung zu den Eltern dank modernster Kommunikationsmit­tel und
+ausgezeichneter Mobilitätsmöglichkeiten weitgehend uneingeschränkt fort­führen
+können.
+Der Beschuldigte bezieht nach
+eigenen Angaben als Folge der im Oktober 2018 erlittenen Attacke (Fall
+«Bilten») eine SUVA-Rente (80%); indes ist nicht bekannt, dass er an akuten
+gesundheitlichen Problemen leiden würde, welche eine fortwäh­rende Behandlung
+(ausschliesslich) in der Schweiz erforderlich machten.
+7.3.2.4
+Aus dem Gesagten
+folgt als Erkenntnis, dass im Lichte von Art. 66a Abs. 2 StGB sowie mit Blick
+auch auf das in Art. 13 BV und Art. 8 EMRK verankerte Recht auf Achtung des
+Privat- und Familienlebens ein Landesverweis für den Beschuldig­ten keinen
+schweren persönlichen Härtefall bewirkt. Besteht somit kein schwerer
+persönlicher Härtefall, bleibt es bei der (obligatorischen) Landesverweisung,
+ohne dass zusätzlich eine Abwägung zwischen dem persönlichen Interesse des
+Beschul­digten an einem Verbleib in der Schweiz und dem öffentlichen
+Interesse an seiner Wegweisung zu erfolgen hat. Immerhin ist der
+Vollständigkeit halber zu ergänzen, dass auch diese Interessenabwägung zu
+Ungunsten des Beschuldigten ausfiele, wie schon die Vorinstanz zu Recht
+festgehalten hat und worauf hier ergänzend zu verweisen ist (siehe act. 122
+S. 99 E. 1.2.).
+7.4
+Eine obligatorische
+Landesverweisung ist auf eine Dauer von 5-15 Jahre auszu­sprechen (Art. 66a
+Abs. 1 Ingress StGB).
+Die Vorinstanz hat vorliegend
+eine Wegweisungsdauer von zehn Jahren als ange­messen erachtet (act. 122 S.
+99 E. 1.2. in fine). Angesichts der vom Beschuldigten begangenen
+schwerwiegenden Tat (und der damit einhergehenden massiven Stö­rung der
+hiesigen öffentlichen Ordnung und Sicherheit) ist die erstinstanzlich festge­setzte
+zeitliche Dauer der Massnahme zu bestätigen. Deren Angemessenheit ist
+offenkundig und wurden hiergegen an der Berufungsverhandlung (zu Recht) keine
+Vorbehalte eingebracht und sind solche auch aus den gesamten Akten nicht
+ersicht­lich. Der Beschuldigte ist daher in Übereinstimmung mit der
+Vorinstanz (act. 122 S. 113 Dispositiv-Ziff. 5) für die Dauer von zehn
+Jahren ausser Landes zu weisen.
+7.5
+Die Vorinstanz hat im
+angefochtenen Entscheid angeordnet, dass die Landes­verweisung im Schengener
+Informationssystem (SIS) ausgeschrieben wird (act. 122 S. 100 E. 2. und S.
+113 Dispositiv-Ziff. 5).
+7.5.1
+Der Beschuldigte
+B.______ ist kosovarischer Staatsbürger. Der Kosovo gehört nicht dem
+Schengenraum an, welcher die EU/EFTA-Staaten umfasst; der Beschuldigte ist
+daher ein sog. Drittstaatsangehöriger (siehe dazu Art. 2 lit. f
+N-SIS-Verordnung; SR 362.0). Obwohl im StGB selber nicht erwähnt, muss das
+urteilende Strafgericht zwingend darüber entscheiden, ob die Landesverweisung
+eines Dritt­staatsangehörigen im SIS auszuschreiben ist (Art. 20 Satz 2
+N-SIS-Verordnung). Die Ausschreibung der Landesverweisung im SIS bewirkt,
+dass der betroffenen Person die Einreise in das Hoheitsgebiet aller
+Schengen-Mitgliedstaaten grundsätz­lich untersagt ist. Allerdings können die
+übrigen Schengen-Staaten die Einreise in ihr Hoheitsgebiet im Einzelfall aus
+humanitären Gründen oder Gründen des nationa­len Interesses oder aufgrund
+internationaler Verpflichtungen dennoch bewilligen. Die Souveränität der
+übrigen Schengen-Staaten wird durch die in der Schweiz ausgesprochene
+Landesverweisung, welche ausschliesslich für das Hoheitsgebiet der Schweiz
+gilt, nicht berührt (siehe BGE 146 IV 172 E. 3.2.3 S. 178, dort mit Hinweis
+auf die einschlägigen supranationalen Normen; ferner BGE 147 IV 340
+E. 4.9 S. 355 f.).
+7.5.2
+Eine Ausschreibung
+im SIS setzt voraus, dass die Ausschreibungsvorausset­zungen gemäss Art. 21
+und Art. 24 der Verordnung (EU) 2018/1861 erfüllt sind (
+Verordnung
+[EU] 2018/1861 des europäischen Parlaments und des Rates vom
+28. November 2018 über die Einrichtung, den Betrieb und die Nutzung des
+Schengener Informationssystems [SIS] im Bereich der Grenzkontrollen, zur
+Änderung des Über­einkommens zur Durchführung des Übereinkommens von Schengen
+und zur Ände­rung und Aufhebung der Verordnung [EG] Nr. 1987/2006; zur
+Anwendbarkeit dieser Verordnung in der Schweiz siehe Notenaustausch zwischen
+der Schweiz und der EU vom 20. Dezember 2018 [SR.0.362.380.085]; siehe dazu
+auch BGE 147 IV 340 E. 4.2 S. 342 f.). Gemäss Art. 24 Ziff. 2 lit.
+a der Verordnung 2018/1861 ist die Voraussetzung für eine Ausschreibung im
+SIS gegeben, wenn der Drittstaatsange­hörige wegen einer Straftat verurteilt
+worden ist, die mit Freiheitsstrafe von mindes­tens einem Jahr bedroht ist
+(siehe dazu aber BGE 147 IV 340 E. 4.8 S. 354, wonach die Voraussetzung von
+Art. 24 Abs. 2 lit. a bereits erfüllt ist, wenn der entsprechen­de
+Straftatbestand abstrakt eine Freiheitsstrafe im Höchstmass von einem Jahr
+oder mehr vorsieht). Zusätzlich ist sodann zu prüfen – dies im Lichte des
+Verhältnismässigkeitsprinzips gemäss Art. 21 der Verordnung 2018/1861 –, ob
+von der betroffenen Person eine Gefahr für die öffentliche Sicherheit und
+Ordnung ausgeht. An die Annahme einer solchen Gefahr sind jedoch keine allzu
+hohen Anforderungen zu stellen. Nicht verlangt wird, dass das individuelle
+Verhalten der betroffenen Person eine tatsächliche, gegenwärtige und
+hinreichend schwere Gefährdung darstellt, die ein Grundinteresse der
+Gesellschaft berührt. Dass bei der Legalprognose eine kon­krete
+Rückfallgefahr verneint und die Strafe bedingt ausgesprochen wurde, steht
+einer Ausschreibung der Landesverweisung im SIS daher nicht entgegen. Ebenso
+wenig setzt Art. 24 Abs. 2 der Verordnung 2018/1861 die Verurteilung zu einer
+schweren Straftat voraus, sondern es genügen eine oder mehrere Straftaten,
+die einzeln betrachtet oder in ihrer Gesamtheit von einer gewissen Schwere
+sind, unter Ausschluss von blossen Bagatelldelikten. Entscheidend ist zudem
+nicht das Straf­mass, sondern in erster Linie die Art und Häufigkeit der
+Straftaten, die konkreten Tatumstände sowie das übrige Verhalten der
+betroffenen Person (BGE 147 IV 340 E. 4.8 S. 354 f.; Urteil BGer
+6B_479/2024 E. 2.5.3).
+7.5.3
+Der Beschuldigte B.______ hat sich eines gravierenden Delikts
+schuldig gemacht (versuchte vorsätzliche Tötung) und wird infolgedessen zu
+einer mehrjäh­rigen Freiheitsstrafe verurteilt. Damit ist der für eine Ausschreibung
+im SIS voraus­gesetzte Schweregrad der Straftat gegeben. In der verübten Tat
+hat sich zudem unmittelbar manifestiert, dass vom Beschuldigten eine
+beachtliche Gefahr für die öffentliche Sicherheit und Ordnung ausgeht. Dass
+die Ausschreibung im SIS für den Beschuldigten eine Einreisebeschränkung im
+ganzen Schengenraum nach sich zieht, ist hinzunehmen und lässt die Massnahme
+nicht als unverhältnismässig erscheinen, zumal die Reintegrationschancen für
+den Beschuldigten im Kosovo ausgezeichnet sind.
+Demzufolge ist – in
+Übereinstimmung mit der Vorinstanz – die hier gegenüber dem Beschuldigten
+ausgesprochene Landesverweisung von zehn Jahren im SIS auszu­schreiben.
+8.
+DNA-Profile
+8.1
+In der Untersuchung
+zum Fall «XY______ Birmensdorf» wurden von B.______ und den beiden
+CD.______-
+Brüdern DNA-Proben entnommen und DNA-Profile
+angelegt (U-act. 4.1.04a; 4.2.05a; 4.3.05a). Die Vorinstanz ordnete im
+angefochtenen Ent­scheid die Vernichtung/Löschung der DNA-Proben/Profile der
+beiden CD.______-Brüder an, nicht aber derjenigen von B.______ (act. 122 S.
+101 E. X. sowie S. 114 Dis­positiv-Ziff. 9-11). Diese Anordnungen sind
+ebenfalls Gegenstand der von den Par­teien gestellten Berufungsanträge.
+8.2
+Indem die beiden
+CD.______-Brüder im vorliegenden Berufungsverfahren in Über­eistimmung mit
+der Vorinstanz von der Anklage einer Tatbeteiligung am Birmens­dorfer-Delikt
+freizusprechen sind, müssen die von ihnen im vorliegenden Verfahren erlang­ten
+DNA-Proben/Profile zwingend vernichtet bzw. gelöscht werden (Art. 9 Abs. 1
+lit. c und Art. 16 Abs. 1 lit. a des DNA-Profil-Gesetzes, SR 363); die
+entge­gen­ge­setzten Berufungsanträge der Staatsanwaltschaft sind damit
+abzuweisen. Diese Löschungsanweisung betrifft allfällige in früheren
+Verfahren erstellte DNA-Profile nicht (siehe etwa act. 15/3, dort act. 16/9).
+Demgegenüber ist in Bezug auf den
+hier zu einer längeren Freiheitsstrafe verurteil­ten B.______ zum jetzigen
+Zeitpunkt sowohl eine Vernichtung der DNA-Probe als auch eine Löschung des
+DNA-Profils ausgeschlossen (Art. 9 Abs. 2 und Art. 16 Abs. 2 lit. c des
+DNA-Profil-Gesetzes); dies führt zur Abweisung des entgegenge­setzten
+Berufungsantrags des Beschuldigten.
+9.
+Zivilansprüche von A.______
+9.1
+Schadenersatz
+9.1.1
+Die Vorinstanz hielt
+in ihrem Entscheid fest, dass dem Privatkläger A.______ gegenüber dem
+Beschuldigten B.______ ein Anspruch auf Schadener­satz zustehe; zur konkreten
+Bestimmung des Schadenersatzes wurde der Privatklä­ger jedoch auf den
+Zivilweg verwiesen (act. 122 S. 115 f. Dispositiv-Ziff. 20).
+Seitens des Beschuldigten ist
+diese Urteilsziffer ebenfalls angefochten, indem er in seiner Berufung
+beantragt, es seien die Zivilforderungen des Privatklägers abzuwei­sen. Der
+Privatkläger seinerseits hat im Berufungsverfahren gegen die erstinstanz­lich
+angeordnete Verweisung auf den Zivilweg zur konkreten Bestimmung des
+Schadenersatzes nicht opponiert, zumal er selber vor Vorinstanz ohnehin keine
+bezifferte Schadenersatzforderung geltend gemacht hat.
+In seiner Berufungserklärung
+beantragte der Privatkläger allerdings, es seien die drei Beschuldigten
+(B.______ und die CD.______-Brüder) zu verpflichten, ihm (dem Privatkläger)
+eine Entschädigung für seine anwaltliche Vertretung in der Höhe der vor
+erster Instanz eingereichten Honorarnote zu bezahlen (act. 134 Antrag Ziff.
+4). In Bezug auf die hier freizusprechenden CD.______-Brüder ist dieser
+Antrag abzuweisen (siehe dazu mehr nachfolgend E. 9.1.3). In Bezug auf den
+hier zu verurteilenden und insofern ersatzpflichtigen B.______ (siehe gleich
+nachfolgend) ist der Pri­vatkläger mit dem betreffenden Anspruch auf den
+Zivilweg zu verweisen. Dies, weil die Kosten der Rechtsvertretung des
+Privatklägers im erstinstanzlichen Verfahren zufolge gewähr­ter
+unentgeltlicher Rechtspflege (teilweise) aus der Gerichtskasse bezahlt wurden
+(act. 122 S. 110 f. E. 4.4. und S. 116 Dispositiv-Ziff. 25) und der
+Pri­vatkläger zur Substantiierung eines gegebenenfalls noch offe­nen
+Anspruchs (einzig noch gegen­über B.______) an der Berufungsverhand­lung
+keine Ausfüh­rungen machte (siehe act. 164 S. 105 ff.).
+9.1.2
+Der Beschuldigte
+B.______ hat anlässlich des gewaltsamen Vorfalls im «XY______» mit der
+versuchten vorsätzlichen Tötung bzw. der dabei dem Privatkläger zugefügten
+schweren Körperverletzung eine unerlaubte Handlung begangen, derentwegen er
+gegenüber dem Privatkläger schadenersatzpflichtig ist (Art. 41 Abs. 1 OR in
+Verbin­dung mit Art. 46 Abs. 1 OR). Dies erwog bereits die Vorinstanz
+zutreffend (act. 122 S. 109 oben), weshalb dem Berufungsantrag des
+Beschuldigten auf Abweisung der Zivilansprüche des Privatklägers nicht zu
+folgen ist.
+9.1.3
+Insoweit der
+Privatkläger in seiner Berufung beantragt, es sei festzustellen, dass ebenso
+die beiden CD.______-Brüder ihm gegenüber im Grundsatz schadenersatz­pflichtig
+seien, so ist dieser Antrag abzuweisen, da die beiden CD.______-Brüder im
+Zusammenhang mit der Auseinandersetzung im «XY______» freizusprechen sind und
+diesbezüglich daher keine unerlaubte Handlung auf der Hand liegt, welche
+zivil­rechtliche Ersatzansprüche begründen würde.
+9.2
+Genugtuung
+9.2.1
+Gleich wie beim
+Schadenersatz hat die Vorinstanz ebenso in Bezug auf eine Genugtuung
+entschieden, dass ein entsprechender Anspruch des Privatklägers gegenüber dem
+Beschuldigten B.______ zwar besteht, der Privatkläger jedoch zur Bestimmung
+der konkreten Höhe seines Anspruchs den Zivilweg zu beschreiten hat (act. 122
+S. 116 Dispositiv-Ziff. 21).
+Der Privatkläger begehrt in
+seiner Berufung, es seien B.______ und die beiden CD.______-Brüder aufgrund
+der gewaltsamen Attacke auf ihn, den Privatkläger, zur Bezahlung einer
+Genugtuung von je CHF 3'000.-, verzinslich zu 5 % seit dem 20. Mai
+2017, zu verpflichten. Umgekehrt beantragt der Beschuldigte B.______, er sei
+von der erstinstanzlich im Grundsatz festgehaltenen Verpflichtung zur Leis­tung
+einer Genugtuung zu entbinden.
+9.2.2
+Bei einer
+Körperverletzung kann der Richter unter Würdigung der besonderen Umstände dem
+Verletzten eine angemessene Genugtuung zusprechen (Art. 47 OR), zahlbar durch
+den Verursacher der Verletzung (Art. 41 Abs. 1 OR).
+9.2.2.1
+Nachdem sich den
+beiden CD.______-Brüdern eine Tatbeteiligung an der gewalt­samen Attacke auf
+den Privatkläger am 20. Mai 2017 im «XY______» in Birmensdorf nicht
+nachweisen lässt und sie in diesem Anklagepunkt freizusprechen sind, können
+sie in diesem Verfahren selbstredend auch nicht zur Bezahlung einer
+Genugtuung an den Privatkläger verpflichtet werden. Insoweit ist dem­nach die
+Berufung des Privatklägers abzuweisen.
+9.2.2.2
+Anders die
+Ausgangslage beim Beschuldigten B.______: Indem dieser dem Privatkläger einen
+offenen Schädelbruch zufügte, ist gestützt auf Art. 47 OR «in Würdigung der
+besonderen Umstände» zu prüfen, ob und gegebenenfalls in welcher Höhe er
+gegenüber dem Privatkläger zu einer Genugtuungszahlung zu ver­pflichten ist.
+Der Privatkläger verlangt vom
+Beschuldigten eine Genugtuung in der Höhe von CHF 3'000.-, zuzüglich 5 %
+Zins seit dem 20. Mai 2017. Dieser Antrag ist für das Berufungsgericht
+verbindlich (Art. 391 Abs. 1 lit. b StPO); das Obergericht kann folglich von
+vornherein nicht über diesen Betrag hinausgehen, auch wenn die
+Mitbeschuldigten CD.______-Brüder, gegenüber denen der Privatkläger ebenfalls
+eine Genugtuungsforderung von je CHF 3'000.- eingeklagt hat, hier freizu­sprechen
+sind.
+Mit der Genugtuung wird die durch
+die Körperverletzung verursachte immaterielle Unbill entschädigt; die
+Genugtuung hat somit eine Ausgleichsfunktion, indem mit der Zahlung eines
+Geldbetrags das beeinträchtigte Wohlbefinden des Verletzten spür­bar
+gelindert werden soll (ZK OR-
+Landolt
+,
+vor Art. 47-49, N 17 f.). Damit allerdings eine Genugtuung in
+Frage kommt, bedarf es einer erheblichen verletzungsbedingten Störung des
+psychischen Gleichgewichts; heilt daher eine Verletzung ohne Kompli­kationen
+und bleibende Spuren, ist grundsätzlich keine Genugtuung geschuldet, es sei
+denn, die Verletzung hatte einen längeren Spitalaufenthalt mit zahlreichen
+Ein­griffen, lang anhaltende Schmerzen oder eine lange Arbeitsunfähigkeit zur
+Folge (CHK-
+Müller
+, OR 47 N 9).
+Stets aber ist auch die konkrete Situation zu berücksich­tigen, welche zur
+Körperverletzung geführt hat; wird die Körperverletzung vorsätzlich und unter
+traumatischen Umständen zugefügt, so ist selbst bei einer Verletzung von
+objektiv geringer Schwere eine Genugtuung gerechtfertigt (Urteil BGer
+6S.334/2004 vom 30. November 2004 E. 4.2). Allerdings ist ebenso ein
+allfälliges Selbstverschul­den der geschädigten Person zu berücksichtigen
+(CHK-
+Müller
+, OR 47 N 20).
+Der Privatkläger wurde Opfer
+einer vom Beschuldigten vorsätzlich ausgeübten Gewaltattacke. Er zog sich
+dabei eine massive Kopfverletzung zu, welche einen zehntätigen
+Spitalaufenthalt erforderlich machte. Soweit aus den Akten bekannt, ist die
+Verletzung inzwischen verheilt; im Übrigen ist in diesem Zusammenhang mit
+Blick auf Art. 44 Abs. 1 OR zu erwähnen, dass der Privatkläger während seiner
+Hospitalisation einen damals notwendig erachteten operativen Eingriff
+ablehnte. Eine längere (tatsächliche) Arbeitsunfähigkeit des Privatklägers
+als Folge des erlit­tenen Schädelbruchs ist in den Akten nicht fundiert
+dokumentiert. Zu beachten ist sodann bei aller Brutalität der vom
+Beschuldigten begangenen Tat, dass der Privat­kläger damals zusammen mit
+seinem Begleiter E.______ die Auseinander­setzung selber provozierte. In
+Würdigung all dieser Umstände erscheint eine Genugtuung in Höhe von CHF
+2’000.- als angemessen.
+9.2.2.3
+Die Genugtuung ist
+ab dem 20. Mai 2017, dem Tag des schädigenden Ereignisses, mit 5 % (Art.
+73 OR) zu verzinsen (ZK OR-
+Landolt
+,
+vor Art. 47-49, N 201 mit Hinweisen). Dieser sog. Schadenszins
+(Genugtuungszins) ist bis zum Urteilstag als Ausgleich für die bis dahin
+vorenthaltene Nutzung des Kapitals zuzu­sprechen und ziffernmässig neben der
+Genugtuungssumme im Urteil festzuhalten; zugleich hat das Gericht
+festzuhalten, ab wann ein Verzugszins von ebenfalls 5 % auf der
+Genugtuungssumme bezahlt werden muss (CHK-
+Müller
+,
+OR 47 N 20; ZK OR-
+Landolt
+, vor
+Art. 47-49, N 208 f.).
+Bei der vorstehend festgesetzten
+Genugtuungssumme von CHF 2'000.- beträgt demnach der zusätzlich geschuldete
+Schadenszins CHF 750.- (Mai 2017 bis November 2024 = 7½ Jahre zu 5 %); auf
+der Genugtuungssumme von CHF 2'000.- läuft ab Datum des vorliegenden Urteils
+ein Verzugszins von 5 %.
+9.2.2.4
+Das soeben
+festgehaltene Ergebnis bedeutet, dass die Berufung des Privat­klägers in
+diesem Punkt teilweise gutzuheissen ist (teilweise darum, weil einerseits die
+Vorinstanz noch keinen Genugtuungsbetrag festgesetzt, der Privatkläger ande­rerseits
+eine etwas höhere Genugtuung von CHF 3'000.- gefordert hat), wogegen der auf
+Ablehnung eines Genugtuungsanspruchs gerichtete Berufungsantrag des
+Beschuldigten B.______ abzuweisen ist.
+10.
+Haftentschädigung
+(Schadenersatz und Genugtuung)
+Wird die beschuldigte Person ganz
+oder teilweise freigesprochen oder wird das Ver­fahren gegen sie eingestellt,
+so hat sie nach Art. 429 Abs. 1 StPO insbesondere Anspruch auf Entschädigung
+der wirtschaftlichen Einbussen, die ihr aufgrund des Strafverfahrens
+erwachsen sind (lit. b) sowie auf Genugtuung für besonders schwe­re
+Verletzungen ihrer persönlichen Verhältnisse, insbesondere bei
+Freiheitsentzug (lit. c), dabei namentlich bei ausgestandener
+Untersuchungshaft.
+Im Folgenden wird hinsichtlich
+der im vorliegenden Strafprozess Beschuldigten B.______, C.______ und
+D.______ in dieser Reihenfolge geprüft, ob und inwieweit ihnen im Lichte der
+soeben dargelegten Bestimmung ein entsprechender Schadenersatz- und
+Genugtuungsanspruch zusteht.
+10.1
+B.______
+Der Beschuldigte B.______ wird
+vorliegend zu einer mehrjährigen Freiheitsstra­fe verurteilt. Er hat daher
+gegenüber dem Staat keinen Forderungsanspruch im Sin­ne von Art. 429 Abs. 1
+StPO. Infolgedessen sind seine von ihm diesbezüglich im Berufungsverfahren
+gestellten Forderungsbegehren abzuweisen.
+10.2
+C.______
+10.2.1
+Ausgangslage
+Als Tatverdächtiger im
+Deliktsfall «Birmensdorf» befand sich C.______ vom 9. Oktober 2019 bis
+zum 8. Dezember 2020, mithin 427 Tage, in Untersuchungshaft bzw. teilweise im
+vorzeitigen Strafvollzug (act 10; U-act. 4.1.01; sowie U-act. 4.1.38 – 4.1.50).
+Er wird im vorliegenden Verfahren vom Anklagevorwurf der Tatbeteiligung am
+Delikt «Birmensdorf» freigesprochen.
+Als Folge dieses Freispruchs
+(sowie auch des Freispruchs vom Vorhalt der Täu­schung der Behörde) sprach
+die Vorinstanz C.______ zum Ausgleich seiner durch die Haft erlittenen
+wirtschaftlichen Einbusse zulasten der Gerichtskasse Scha­denersatz (Art. 429
+Abs. 1 lit. b StPO) in Höhe von CHF 48'000.- sowie für erduldete
+Unannehmlichkeiten eine Genugtuung (Art. 429 Abs. 1 lit. c StPO) in Höhe von
+CHF 42'700.- zu, beide Beträge je zuzüglich 5 % Zins ab 9. Mai
+2020 (act. 122 S. 103 ff. E. 2.2. und S. 115 Dispositiv-Ziff. 16
+und 17).
+C.______ beantragt in seiner
+Anschlussberufung (act. 146) eine Erhöhung der Genugtuungssumme auf
+CHF 126‘800.-, zuzüglich Zins von 5 % seit 9. Mai 2020.
+Anders die Staatsanwaltschaft: Sie trägt in ihrer Berufung an, es sei
+C.______ weder Schadenerdsatz noch Genugtuung zuzusprechen.
+10.2.2
+Schadenersatz zufolge wirtschaftlicher Einbusse
+10.2.2.1
+Nachdem C.______ in Bezug auf das Delikt „Birmensdorf“ in Überein­stimmung
+mit der Vorinstanz von Schuld und Strafe freizusprechen ist, hat er An­spruch
+auf eine Entschädigung, soweit er aufgrund seiner Beteiligung am
+Strafverfahren eine wirtschaftliche Ein­busse erlitten hat (Art. 429 Abs. 1
+lit. b StPO).
+Die
+Staatsanwaltschaft stellt in ihrer Berufung Antrag auf Streichung des von der
+Vorinstanz auf CHF 48‘000.- festgesetzten Schadenersatzanspruchs von
+C.______.
+10.2.2.2
+Die Vorinstanz bejahte bei C.______ einen haftbedingten
+Erwerbsausfall (Schaden) mit Blick darauf, dass er vor der Verhaftung bei der
+Firma ZZ.______ GmbH als Eisenleger gearbeitet habe (act. 122 S. 104 f.
+E. 2.2.2.).
+Die Vorinstanz ist allerdings mit
+ihrer Annahme, C.______ sei vor seiner Verhaf­tung berufstätig gewesen, einer
+mutwilligen Täuschung unterlegen. Bei den von C.______ eingereichten
+Lohnabrechnungen für die Monate Juli 2019 bis Sep­tember 2019 (U-act.
+2.1.07-1 bzw. U-act. 8.2.08) sticht nämlich sogleich ins Auge, dass für alle
+drei Monate just die exakt gleiche Anzahl Arbeitsstunden (174) ange­geben
+ist. Dies, obschon es sich bei der vermeintlichen Anstellung um eine solche
+im Stundenlohn handelte und hierzu im Arbeitsvertag (siehe dazu U-act.
+8.2.07) in dessen Ziff. 6 Folgendes zu lesen ist: «Die Vertragsparteien sind
+sich bewusst, dass die Arbeitszeiten unregelmässig anfallen können und nicht
+im Voraus festgelegt werden können». Bei der Arbeitgeberin ZZ.______ GmbH
+handelte es sich übrigens um eine Einmann-GmbH eines nordmadzedonischen
+Staatsangehörigen; 2021 fallierte die Firma, wobei das Konkursverfahren
+mangels Aktiven eingestellt wurde (act. 177). Eine von der Glarner
+Kantonspolizei im September 2019 via Kan­tonspolizei Zürich veranlasste
+Nachforschung zur ZZ.______ GmbH ergab, dass es sich bei der ZZ.______ GmbH
+offensichtlich um eine Scheinfirma handelte; an der Domi­ziladresse des
+Unternehmens fand sich nicht einmal ein Briefkasten und es bestand auch kein
+Mietverhältnis mit der dortigen Immobilienbesitzerin (siehe hierzu auch
+U-act. 10.0.07-3). Aktenkundig ist zudem, dass die ZZ.______ GmbH auf den
+angeblich bar ausbezahlten Arbeitslöhnen keine Sozialversicherungsbeiträge
+abrechnete. Der Inhaber der ZZ.______ GmbH sagte im Februar 2020 gegenüber
+der Polizei aus, er habe die AHV-Beiträge noch nicht einbezahlt, werde dies
+aber noch nachholen und der Polizei die entsprechenden Unterlagen zustellen
+(U‑act. 10.18.01 Dep. 29 f.), was in der Folge jedoch nicht
+passierte. Eine Abklärung der Staatsanwaltschaft bei der Ausgleichskasse SVA
+Zürich im Juli 2020 ergab, dass die Ausgleichskasse bis zu diesem Zeitpunkt
+über keine Akten/Informationen betreffend C.______ verfüg­te (U-act. 9.1.05).
+Die Polizei erhielt – nach mehrmaliger Vertröstung (U-act. 10.0.06, Dep. 26;
+U-act. 10.0.08, Dep. 9) – von der ZZ.______ GmbH (erst) im Septem­ber 2020
+für vier Arbeitswochen (zwei im Juli 2019, zwei im August 2019) hand­schriftlich
+verfasste vorgebliche Arbeitsstundenaufzeichnungen (U-act. 8.2.09). Diese
+Auflistungen sind allerdings gänzlich nichtssagend, eine offensichtliche
+Farce. Es fällt sogleich auf, dass diese Zettel mit an Sicherheit grenzender
+Wahrscheinlich­keit alle im Nachhinein in einem Zug erstellt wurden; sie
+haben mit einer validen Stundenaufzeichnung fast so wenig gemein wie Feuer
+und Wasser. In Anbetracht all dessen überrascht am Ende nicht wirklich, dass
+C.______ selbst in der Unter­suchung auf konkrete Fragen zu diesem
+(erlogenen) Arbeitsverhältnis jegliche Aus­sagen verweigerte (U-act. 10.0.06
+und U-act. 10.0.08 S. 3 Dep. 3 – 7; dazu mehr unten E. III.).
+Aus alldem erwächst als Fazit,
+dass die in den Akten befindlichen Belege (Arbeits­vertrag; Lohnabrechnungen;
+Stundenbelege) mutwillig mit falschem Inhalt aufge­setzt wurden, um zwischen
+der ZZ.______ GmbH und C.______ ein Arbeitsverhältnis zu fingieren, wie dies
+auch die Staatsanwaltschaft vor Obergericht zutreffend darleg­te (act. 164 S.
+84 unten). Aber selbst wenn C.______ (vereinzelte) Arbeitsstun­den für die
+ZZ.______ GmbH geleistet hätte, handelte es sich dabei ganz gewiss um
+volkswirtschaftlich schädliche Schwarzarbeit. Es liegt unbestritten nicht im
+Sinne von
+Art. 429 Abs. 1 lit. b StPO, einen
+Entschädigungsanspruch für entgangene Schwarzarbeit zu begründen.
+10.2.2.3
+Steht somit fest,
+dass C.______ vor seiner Verhaftung im Oktober 2019 bereits seit längerem
+keiner Erwerbstätigkeit nachgegangen war und auch keinerlei Anhaltspunkte
+dafür bestehen, dass er in absehbarer Zeit eine Arbeitsstelle angetre­ten
+hätte, so führte seine Inhaftierung zu keinem Erwerbsausfall, welcher
+gestützt auf Art.
+429 Abs. 1 lit. b StPO zu entschädigen
+wäre. In diesem Punkt ist daher die Berufung der Staatsanwaltschaft
+begründet; Dispositiv-Ziff. 16 des erstinstanzlichen Entscheids, worin die
+Vorinstanz C.______ CHF 48‘000.- Schadenersatz zuer­kannt hat, ist ersatzlos
+aufzuheben.
+10.2.3
+Genugtuung
+10.2.3.1
+Die Vorinstanz
+sprach C.______ zum Ausgleich des durch die Haft (Untersuchungshaft und
+teilweise vorzeitiger Strafvollzug) erlittenen Ungemachs eine Genugtuung von
+CHF 42'700.- zu, nebst 5 %
+Zins ab 9. Mai 2020
+(act. 122 S. 115 Dispositiv-Ziff. 17). C.______ verlangt mit
+Anschlussberufung eine Erhöhung dieser Summe auf CHF
+126‘800.-.
+10.2.3.2
+Die Vorinstanz
+erachtete eine Genugtuung von CHF 100.- pro Hafttag als angemessen, was bei
+insgesamt 427 Hafttagen die im Urteil ausgesprochene Summe von CHF 42'700.-
+ergibt. Aus Sicht der Vorinstanz lag weder eine unange­messene Isolationshaft
+noch eine Verletzung des Beschleunigungsgebots vor, wel­che einen höheren
+Tagesansatz rechtfertigen würden (act. 122 S. 105 E.
+2.2.3.).
+Die Verteidigerin von C.______
+argumentiert zur beantragten Erhöhung der Genugtuungssumme, bei der Bemessung
+der Genugtuung könne von der bundes­gerichtlichen Faustregel von CHF
+200.-/Hafttag nach unten abgewichen werden, doch sei dies zu begründen.
+Unlängst habe das Bundesgericht einen Ansatz CHF 100.-/Hafttag geschützt
+mit der Begründung, die Haft habe die Lebensumstände der betroffenen Person
+(arbeitslos, sozial nicht integriert, illegal anwesend) nicht mass­geblich
+verändert. C.______ jedoch habe sich legal in der Schweiz aufgehalten, habe
+immer gearbeitet und verfüge hier über ein stabiles Beziehungsnetz, weshalb
+keine speziellen Umstände vorlägen, welche ein Unterschreiten des Ansatzes
+CHF 200.-/Hafttag rechtfertigen würden. Im Gegenteil: aufgrund besonderer
+Umstände, welche erstinstanzlich zwar dargelegt, von der Vorinstanz aber
+nicht gewürdigt wor­den seien, sei hier ein höherer Tagessatz als
+CHF 200.-/Hafttag geboten. C.______ habe sich während über der Hälfte
+der Haft, konkret 270 Tage, nicht bloss in Einzelhaft, sondern in Isolation
+ohne Kontakt zu Angehörigen oder Mithäftlingen befunden. Die Isolation sei
+vorliegend entgegen der Auffassung der Vorinstanz nicht gerechtfertigt
+gewesen. Eine Isolierung sei eine Abweichung vom «Normalfall», die sich in
+casu massiv erschwerend auswirke. C.______ habe sehr unter der Isola­tion
+gelitten. Besonders die Trennung von seinem Sohn, der damals eben erst eine
+Wohnung zum gemeinsamen Bezug gesucht habe, sei sehr belastend gewesen. Der
+psychische Druck habe sich in der Folge in gesundheitlichen Beschwerden
+geäussert (psychosomatische Atembeschwerden, starke Hautausschläge, zudem
+aufgrund einer vorbestandenen Verletzung Knieschmerzen, die einer Physiothera­pie
+bedurft hätten). Weiter zugespitzt habe sich die Situation, als die damals
+erkrankte Mutter vor ihrem Tod ihn nicht noch einmal habe besuchen können.
+Über­dies sei die Untersuchung nicht beförderlich geführt worden; die
+Schlusseinvernah­me in der Causa «Birmensdorf» hätte, soweit sie überhaupt
+nötig gewesen sei, schon im Februar 2020 statt erst im September 2020
+erfolgen können; C.______ sei während neun Monaten in Haft verblieben, obwohl
+bezüglich «Birmensdorf» kei­ne Untersuchungshandlungen mehr erfolgt seien.
+Für die entsprechende Verletzung des Beschleunigungsgebotes sei eine Erhöhung
+des Grundtagessatzes um CHF 50.- angemessen. Es resultiere somit ausgehend
+vom Normalsatz von CHF 200.-/Tag für 428 [richtig wäre 427] Hafttage, einer
+Erhöhung aufgrund erschwerender Umstände um CHF 100.-/Tag für 270 Tage und
+der Verletzung des Beschleunigungsgebots um CHF 50.-/Tag für 284 Tage eine
+Genugtuungssumme von insgesamt CHF 126'800.- nebst Zins (zum Ganzen:
+act. 164 S. 145 ff.).
+10.2.3.3
+Genugtuung nur
+für 307 Tage, nicht für 427 Tage
+Wie im nachfolgenden Kapitel III
+(Vorfall «Einsiedeln») dargelegt wird, ist C.______ im Gegensatz zum
+angefochtenen Entscheid wegen versuchter Täuschung der Behörden gemäss Art.
+118 Abs. 1 AIG in Verbindung mit Art. 22 Abs. 1 StGB schuldig zu sprechen und
+verfällt er dadurch in eine Geldstrafe von 120 Tagessät­zen. Auf diese
+Geldstrafe sind 120 Tage ausgestandene Untersuchungshaft anzu­rechnen, womit
+die betreffende Geldstrafe als damit verbüsst gilt (Art. 51 StGB; ein­gehend
+unten E. III. 4.4). Für die an die Geldstrafe anrechenbaren 120 Tage Unter­suchungshaft
+ist keine Genugtuung geschuldet; infolgedessen ist nachstehend die Genugtuung
+noch für 307 Tage zu bestimmen (427 Hafttage abzüglich 120 Tage).
+10.2.3.4
+Die
+materiellrechtlich auf Art. 28a Abs. 3 ZGB und Art. 49 OR beruhende
+Genugtuung bezweckt den Ausgleich für erlittene immaterielle Unbill, indem
+das Wohlbefinden anderweitig gesteigert oder die Beeinträchtigung
+erträglicher gemacht wird. Bemessungskriterien sind vor allem die Art und
+Schwere der Verletzung, die Intensität und Dauer der Auswirkungen auf die
+Persönlichkeit des Betroffenen, der Grad des Verschuldens des
+Haftpflichtigen, ein allfälliges Selbstverschulden des Geschädigten sowie die
+Aussicht auf Linderung des Schmerzes durch die Zahlung eines Geldbetrags. Im
+Falle einer ungerechtfertigten Inhaftierung erachtet die Rechtsprechung bei
+kurzer Haftdauer grundsätzlich einen Betrag von Fr. 200.-- pro Tag als
+angemessen, soweit keine besonderen Umstände einen tieferen oder höhe­ren
+Betrag rechtfertigen. Dieser Tagessatz ist indes nur ein Kriterium für die
+Ermitt­lung der Grössenordnung der Entschädigung. In einem zweiten Schritt
+sind auch die Besonderheiten des Einzelfalls zu berücksichtigen wie die Dauer
+des Freiheitsent­zugs, die Auswirkungen des Strafverfahrens auf die
+betroffene Person und die Schwere der ihr vorgeworfenen Taten etc. Bei
+längerer Untersuchungshaft (von mehreren Monaten Dauer) ist der Tagessatz in
+der Regel zu senken, da die erste Haftzeit besonders schwer ins Gewicht fällt
+(zum Ganzen: Urteil BGer 7B_834/2023 vom 17. September 2024 E. 3.3.2 und E.
+3.3.4 mit zahlreichen Hinweisen).
+10.2.3.4.1
+Bei der hier
+langen Dauer der Untersuchungshaft von 14 Monaten und der damit
+einhergehenden Haftgewöhnung, ist nicht zu beanstanden, dass die Vor­instanz
+unter diesem Gesichtswinkel den Tagessatz auf CHF 100.- festgesetzt hat.
+C.______ wurde durch die Haft im
+Vergleich zu einer durchschnittlich beschuldig­ten Person weit weniger hart
+getroffen. So ist aktenkundig, dass er 2007 und 2009 vom Obergericht des
+Kantons Zürich zu einer insgesamt mehrjährigen Freiheitsstra­fe verurteilt
+wurde, wobei er im April 2011 bedingt aus dem Vollzug entlassen wur­de. Im
+Februar 2018 handelte er sich abermals eine unbedingte Freiheitsstrafe von
+diesmal drei Monaten ein (zum Ganzen: act. 176 sowie act. 15/3 - 15/5). Vor
+diesem Hintergrund ist die Haftempfindlichkeit von C.______ als mässig zu
+bezeichnen, zumal er auch nicht etwa aus einer familiären Beziehung
+herausgerissen wurde, da er nicht mehr mit seiner – soweit bekannt – zweiten
+Ehefrau zusammenwohnte (sehe dazu U–act. 4.1.45-1, S. 10 oben). Sodann trifft
+es auch nicht zu, dass C.______ «immer gearbeitet hat»: erstens liegen
+Lohnabrechnungen einzig für die Monate Juli 2019 bis September 2019 im Recht
+und war – zweitens – dieses Arbeitsverhältnis nachweislich fingiert (siehe
+zuvor E. 10.2.2.2).
+Beim eingangs genannten Ansatz
+von CHF 100.- resultiert bei 307 Hafttagen eine (Grund)Genugtuung von CHF
+30'700.-.
+10.2.3.4.2
+Im Gegenzug ist
+die (zeitweilige) Isolierung während der Haft mit einem Zuschlag von CHF
+30.-/Tag für die von der Verteidigung genannte Dauer von 270 Tagen
+auszugleichen, womit sich die vorstehende Summe von CHF 30'700.- um CHF
+8'100.- auf total CHF 38'800.- erhöht.
+Eine weitergehende Erhöhung zufolge
+Isolierung ist nicht angezeigt. Denn hierzu ist immerhin zu beachten, dass
+C.______ in der Untersuchung ein falsches Alibi angab (siehe oben E. II.
+4.3.5.3.4 Bst.
+a
+), was den Tatverdacht gegen ihn beein­flusste und
+insofern eine Minimierung von Drittkontakten nach sich zog. Vor allem aber
+fällt hier ins Gewicht, dass 2020 Haftbesuche allein schon aufgrund der dama­ligen
+Corona-Lage während längerer Zeit ausgeschlossen waren (dazu U-act. 4.1.34;
+von dieser Einschränkung waren ebenso andere Einrichtungen wie bei­spielsweise
+Spitäler und Altersheime betroffen). Was ferner die geschilderten
+gesundheitlichen Probleme von C.______ anbelangt, so war in der Untersuchung
+dessen ärztliche Versorgung gewährleistet (siehe dazu U-act. 4.1.26 S. 2
+sowie die zahlreichen Arztrechnungen: U-act. 17.3.01; 17.3.03; 17.3.14;
+17.3.15; 17.3.17; 17.3.18; 17.3.19; ). Nicht ersichtlich ist schliesslich,
+dass C.______ durch die Trennung von seinem in der Schweiz wohnhaften Sohn
+(geb. 1997, aus erster Ehe; siehe act. 15/4 S. 79 oben) speziell belastet
+gewesen wäre. Den Akten ist jedenfalls zu entnehmen, dass mindestens bis
+Februar 2018 gegen C.______ ein Einreise­verbot in die Schweiz bestand (siehe
+act. 15/3) und demnach bis dahin der Kontakt zu seinem Sohn nicht besonders
+eng gewesen sein konnte; zudem befand er sich, als sein Sohn im
+Kindes-/Teenageralter war, über mehrere Jahre im Strafvollzug, was
+(selbstverschuldet) der Entwicklung eines Näheverhältnisses ebenfalls entge­genstand.
+In Bezug auf die geltend gemachte
+Verletzung des Beschleunigungsgebots ist eine solche in Übereinstimmung mit
+der Vorinstanz zu verneinen. Die Untersuchungshaft wurde vom hiesigen
+Zwangsmassnahmengericht regelmässig überprüft und dabei auch in zeitlicher
+Hinsicht als gerechtfertigt beurteilt (U-act. 4.1.36; 4.1.45). Vor allem aber
+kann nicht ausser Acht bleiben, dass die Delikte «Bilten» und «Birmens­dorf»
+miteinander verwoben waren (siehe oben E. II. die einleitende Vorbemerkung
+zum Gerichtsstand Glarus) und insofern die Untersuchungsdauer nicht isoliert
+nur mit Blick auf das Delikt «Birmensdorf» beurteilt werden darf; im
+Parallelverfahren «Bilten» dauerte die Untersuchung über 2020 hinaus und
+erfolgte die Anklage­erhebung Anfang März 2021 (Verfahrensdossier «Bilten»,
+SG.2021.00014-20, act. 1).
+10.2.3.5
+Daraus folgt als
+Fazit, dass eine Genugtuung von CHF 38'800.- im Ergeb­nis angemessen und
+entgegen dem Antrag von C.______ keine höhere Summe zuzusprechen ist. Dass
+dieser Betrag ab 9. Mai 2020 (mittlerer Verfall) mit 5 % zu verzinsen
+ist, entspricht der gesetzlichen Realität (Art. 73 OR) und war im Beru­fungsverfahren
+unbestritten.
+10.3
+D.______
+10.3.1
+Ausgangslage
+Als Tatverdächtiger im
+Deliktsfall «Birmensdorf» befand sich D.______ vom 23. September 2019
+bis zum 10. Dezember 2019 und somit 79 Tage in Untersu­chungshaft (U-act.
+4.3.01 und 4.3.27). Er wird im vorliegenden Verfahren vom Anklagevorwurf der
+Tatbeteiligung am Delikt «Birmensdorf» freigesprochen.
+Als Folge dieses Freispruchs
+sprach die Vorinstanz D.______ zum Ausgleich sei­ner im Strafverfahren
+erlittenen wirtschaftlichen Einbusse zulasten der Gerichts­kasse
+Schadenersatz (Art. 429 Abs. 1 lit. b StPO) in Höhe von CHF 7'889.20 sowie
+für erduldete Unannehmlichkeiten eine Genugtuung (Art. 429 Abs. 1 lit. c
+StPO) in Höhe von CHF 15'800.- zu, beide Beträge je zuzüglich 5 %
+Zins ab 17. Februar 2020 (act. 122 S. 105 ff. E. 2.3. und S. 115
+Dispositiv-Ziff. 18 und 19).
+D.______ beantragt in seiner
+Anschlussberufung (act. 145) eine Erhöhung des Schadenersatzes auf
+CHF 25‘900.-, zuzüglich Zins zu 5 % seit dem 1. Februar
+2020. Die Staatsanwaltschaft trägt in ihrer Berufung an, keinen Schadenersatz
+zuzusprechen. Die erstinstanzlich dem Beschuldigten D.______ zugesprochene
+Genugtuung von CHF 15‘800.- ist unbestritten.
+10.3.2
+Schadenersatz zufolge wirtschaftlicher Einbusse
+10.3.2.1
+An dieser Stelle ist vorweg zu konstatieren, dass anhand der
+Erwägungen der Vorinstanz nicht nachvollziehbar ist, wie sie zu der in
+Dispositiv-Ziff. 18 festge­setzten Entschädigung von CHF 7‘889.20 gelangt
+ist. Gemäss dem in den Erwä­gungen angegebenen Endergebnis betrüge die
+Entschädigung bloss CHF 1‘639.20 (act. 122 S. 107 ganz unten). Freilich
+gibt diese Summe nicht das von der Vor­instanz gemeinte Resultat wieder.
+Folgt man den von der Vorinstanz angestellten Überlegungen (act. 122 S. 107
+E. 2.3.2.), so sieht die Rechnung richtigerweise wie folgt aus:
+Erwerbsausfall von CHF 7‘500.- (Haft von 2½ Monate à CHF 3‘000.-/Mt.)
+abzüglich CHF 2‘500.- (durch die Haft eingesparte Kosten) zuzüglich CHF
+389.20 Fahrspesen (Kosten für die Anreise nach Glarus zu Verfahrensterminen;
+7 x CHF 55.60), ergibt im Total CHF 5‘389.20.
+10.3.2.2
+Nachdem D.______ in Bezug auf das
+Delikt «Birmensdorf»
+in Überein­stimmung mit der Vorinstanz von Schuld und Strafe
+freizusprechen ist, hat er Anspruch auf eine Entschädigung, soweit er
+aufgrund seiner Beteiligung am Strafverfahren eine wirtschaftliche Einbusse
+erlitten hat (Art. 429 Abs. 1 lit. b StPO).
+10.3.2.3
+Die Vorinstanz sprach D.______ gestützt auf
+Art. 429 Abs. 1
+lit. b StPO unter zwei Aspekten eine Entschädigung zu (einerseits
+Erwerbsaufall zufolge seiner Inhaftierung, andererseits Spesen für die
+Anreise zu Verfahrensterminen hier in Glarus, als D.______ bereits wieder aus
+der Untersuchungshaft entlassen war). Diese beiden Positionen werden
+nachstehend gesondert geprüft; als erstes der geltend gemachte Erwerb­sausfall.
+10.3.2.3.1
+Der Rechtsvertreter von D.______ führte an der erstinstanzlichen
+Hauptverhandlung
+aus, sein Mandant sei 2018 aus fünf Metern Höhe auf den Kopf gefallen und
+habe seitdem Taggelder bezogen; im September 2019 habe er eine neue
+Anstellung gefunden (act. 105 S. 9). D.______ gab bei der Hafteröffnung am
+23. September 2019 zu Protokoll, er arbeite «seit einem Monat wieder», wegen
+der noch immer starken Kopfschmerzen allerdings nur Teilzeit, wobei sein
+Monatslohn zwischen CHF 2'500.- und CHF 3'000.- betrage, den genauen Betrag
+wisse er im Moment noch nicht. Er sagte weiter aus, dass er «normal»
+selbständig sei, seit sei­nem Unfall aber keine Arbeit mehr angenommen habe;
+sein Kollege habe eine Fir­ma und arbeite mit der Firma [...] zusammen; bei
+diesem Kollegen arbeite er «auf Regie / stundenweise»; die Firma seines
+Kollegen heisse – so glau­be er – WW.______ GmbH in Wald/ZH. Auf die Frage,
+was er bei einer Entlassung aus der Haft unternähme, antwortete er, dass er
+zur Arbeit gehen oder auf die Kinder auf­passen würde (zum Ganzen: U-act.
+4.3.03, S. 4 f. Dep. 3 – 6 und Dep. 20). Demge­genüber berichtete der
+Rechtsvertreter von D.______ vor Vorinstanz, dieser sei zur Zeit der Haft
+Geschäftsführer einer GmbH gewesen; er hätte Ende September 2019 «einen
+grossen Auftrag übernehmen sollen» und hätte damit einen Lohn bis weit über
+Dezember 2019 hinaus gehabt. Aufgrund der Haft sei die Firma Konkurs
+gegangen, er sei im Dezember – die schlechteste Zeit, um als Eisenleger
+Arbeit zu finden – entlassen worden und habe erst 2021 wieder eine Anstellung
+gefunden; ohne Haft hätte er den Auftrag umsetzen können und hätte weitere
+Aufträge erhal­ten, weshalb bei der fälligen Entschädigung mindestens ein
+halber Jahreslohn dazuzurechnen sei (zum Ganzen act. 105 S. 9 f.). Vor
+Obergericht führte der Rechtsvertreter aus, sein Mandant habe ab September
+2019 wieder 5-6 Stunden am Tag gearbeitet; er sei damals angestellt gewesen,
+wobei die Arbeitgeberin eine Einmannfirma mit ihm als einzigem Angestellten
+gewesen sei; infolgedessen sei der von der Firma seit 1. September 2019 bis
+zur Verhaftung von D.______ erzielte Ertrag auf den ganzen September
+hochzurechnen, was dann im Ergebnis dem Brut­to-Bruttolohn entspreche, woraus
+sich der Nettolohn von D.______ errechnen las­se; in den folgenden Monaten
+[konkret wird über die Haftdauer hinaus ein Ausfall bis Juni 2020 geltend
+gemacht] wären ohne zwischenzeitliche Haft die Erträge der Fir­ma, und somit
+auch der Lohn von D.______, gleichgeblieben, welche Einbusse D.______ zu
+ersetzen sei (act. 164 S. 113).
+10.3.2.3.2
+Die soeben dargelegte „Arbeitslegende“ ist ein einziger Wirrwarr.
+Nach der ersten Version will D.______ vor seiner Verhaftung bei der Firma
+eines Kollegen gearbeitet haben, konnte aber über den Firmennamen nur
+mutmassen (zur von ihm hierbei genannten Firma WW.______ GmbH in Wald/ZH
+findet sich im zentralen Firmenregister kein ein­schlägiger Eintrag). Nach
+der zweiten Version will D.______ bei einer nicht namentlich bezeichneten
+GmbH als Geschäftsführer angestellt gewesen sein und soll diese GmbH während
+seiner Haftzeit in Konkurs gefallen sein. Gemäss der drit­ten Version war
+seine
+Arbeitgeberin damals eine Einmannfirma mit ihm als einzigem Angestellten.
+Weder zur ersten noch zur zweiten oder dritten Version liegt ein einzi­ger
+Beleg im Recht; immerhin wäre naheliegend gewesen, mindestens die Lohnab­rechnung
+für den angeblichen Arbeitseinsatz vom 1. September bis zur Verhaftung am 23.
+September 2019 einzureichen sowie ferner einen Beleg hinsichtlich des vor­geblich
+entgangenen Folgeauftrags. Dem Gericht liegen einzig zwei (banale) Auflis­tungen
+seines Rechtsvertreters vor (act. 108/4 und act. 164 S. 122), wobei
+selbst in diesen noch unterschiedliche Lohnangaben aufgeführt sind (die zudem
+erst noch weit über der von D.______ selbst genannten Spanne von CHF 2'500.-
+bis CHF 3'000.- liegen). Es ist mit anderen Worten nicht einmal im
+Ansatz dargetan, dass D.______ im Zeitpunkt seiner Verhaftung erwerbstätig
+war und infolgedessen einen haftbedingten Erwerbsaufall erlitten hätte.
+Soweit im Übrigen D.______ implizit sogar einen Drittschaden [der scheinbaren
+Arbeitgeberfirma angeblich entgangener Ertrag] einfordert, ist er dazu nicht
+aktivlegitimiert bzw. ist ein solcher Schaden im Lichte von Art. 429 StPO
+nicht ersatzfähig (und wäre es übri­gens auch nicht, wenn die vorgebliche
+Arbeitgeberfirma selbst gestützt auf Art. 434 StPO klagen würde; siehe dazu
+Urteil BGer 7B_12/2022 vom 13. März 2024 E. 3.4 und 3.5).
+10.3.2.3.3
+Weil demnach D.______ keinen haftbedingten Erwerbsaufall erlitten
+hat, steht ihm auch keine entsprechende Entschädigung zu.
+10.3.2.4
+Für die geltend gemachten insgesamt sieben Fahrten von […] nach
+Glarus retour legte die Vorinstanz eine Entschädigung von CHF 389.20 fest (7
+x CHF 55.60), was den Billettkosten bei Benutzung des ÖVs entspricht.
+D.______ fordert berufungsweise die Erstattung der Auslagen für inzwischen 10
+Fahrten à CHF 55.60, total CHF 556.- (act. 164 S. 122).
+Der Ersatz dieser
+Auslagen im geltend gemachten Umfang von CHF 556.- nebst Zins zu 5 %
+seit 1. Februar 2020 ist gemäss
+Art. 429 Abs. 1 lit. b StPO ohne weite­res
+gerechtfertigt.
+III.
+Vorfall
+«Einsiedeln»
+(Beschuldigter:
+C.______)
+1.
+Anklagesachverhalt
+Die Staatsanwaltschaft wirft in
+ihrer Anklage vom 13. November 2020 (act. 1/1) dem Beschuldigten
+C.______ Folgendes vor:
+Am 6. Juni 2019 habe der
+Beschuldigte sich beim Einwohneramt der Gemeinde Einsiedeln/SZ angemeldet und
+[tatsachenwidrig] vorgegeben, er habe an der [...] in Einsiedeln Wohnsitz
+genommen. Am 18. Juni 2019 habe er auf dem Gesuch für eine
+Ausländerbewilligung EU/EFTA (Formular E1) gegenüber dem Migrationsamt des
+Kantons Schwyz bewusst wahrheitswidrig angegeben, dass er seit dem 3. Juni 2019
+im Hotel [...], Zimmer Nr. 41, an der [...] in Einsiedeln wohne und am 5.
+Juni 2019 ein unbefristetes Arbeits­verhältnis mit der in Schlieren/ZH
+domizilierten ZZ.______ GmbH eingegangen sei. In Tat und Wahrheit aber habe
+sich der Beschuldigte weder an der bezeichneten Wohnadresse in Einsiedeln
+aufgehalten noch sei er für die ZZ.______ GmbH arbeitstätig gewesen. In der
+Folge sei dem Beschuldigten die beantragte Ausländerbewilligung verweigert
+worden. Aufgrund dieses Sachverhalts habe der Beschuldigte sich der
+versuchten Täu­schung der Behörden gemäss Art. 118 Abs. 1 des Bundesgesetzes
+über die Aus­länderinnen und Ausländer und über die Integration (AIG; SR
+142.20) in Verbindung mit Art. 22 Abs. 1 StGB schuldig gemacht.
+2.
+Beurteilung dieses
+Anklagepunktes durch die Vorinstanz
+Die Vorinstanz gelangte nach zur
+Ansicht, dass die Anklagevorwürfe (angestrebte Täuschung der Behörden mittels
+fingiertem Wohnsitz und simuliertem Arbeitsvertrag) nicht zuträfen und der
+Beschuldigte daher von die­sem Anklagevorwurf freizusprechen sei (act. 122 S.
+85 ff. E. 3. und E. 4.).
+3.
+Berufung der
+Staatsanwaltschaft; Standpunkt der Verteidigung
+Die Staatsanwaltschaft ficht in
+ihrer Berufung den betreffenden Freispruch an und beantragt die
+anklagegemässe Verurteilung des Beschuldigten. Die Staatsanwältin legte an
+der Berufungsverhandlung dar, inwiefern aus ihrer Sicht die Vorinstanz den
+Sachverhalt unzutreffend festgestellt habe (act. 164 S. 82 – 85); die
+entsprechenden Einwendungen werden bei der nachstehenden materiellen
+Beurteilung aufgezeigt. Die Verteidigung hält demgegenüber mit Verweis auf
+ihr Plädoyer vor der Erstin­stanz dafür, der Anklagevorwurf sei klarerweise
+nicht erfüllt. Der Beschuldigte habe «natürlich über eine gültige
+Aufenthaltsbewilligung verfügt»; als EU-Bürger habe er gar keine Bewilligung
+erschleichen müssen (act. 164 S. 144 Ziff. 3).
+4.
+Materielle Beurteilung
+4.1
+Ausgangslage
+4.1.1
+Der Beschuldigte
+kosovarischer Herkunft hat durch Heirat die italienische Staatsbürgerschaft
+erlangt (U-act. 10.0.07-2; 4.1.03, S. 7 f. Dep. 14 – 16). Italien gehört
+der EU an.
+Das zuständige kantonale
+Migrationsamt stellt einem EU-Bürger einen Ausländer­ausweis
+(Aufenthaltsbewilligung EU/EFTA) aus, wenn der Gesuchsteller nachweist, dass
+er mit einem in der Schweiz domizilierten Arbeitgeber ein Arbeitsverhältnis
+mit einer Dauer von mindestens einem Jahr eingegangen ist. Ist diese
+Voraussetzun­gen erfüllt, erhält der Gesuchsteller eine Aufenthaltserlaubnis
+mit einer Gültigkeits­dauer von mindestens fünf Jahren (Art. 6 Ziff. 1 und
+Ziff. 3 Anhang I Freizügigkeits­abkommen [SR 0.142.112.681]; Art. 4 Abs. 1
+und Art. 6 Abs. 2 der Verordnung über den freien Personenverkehr [SR
+142.203]).
+Laut dem unter der Marginalie
+«Täuschung der Behörden» stehenden Art. 118 Abs. 1 AIG wird mit
+Freiheitsstrafe bis zu drei Jahren oder Geldstrafe sanktioniert, wer
+die zuständige Migrationsbehörde namentlich durch falsche Angaben täuscht und
+dadurch die Erteilung einer Bewilligung für sich erschleicht.
+4.1.2
+Am 6. Juni 2019
+sprach C.______ beim Einwohneramt der Gemeinde Ein­siedeln vor und meldete
+seinen Zuzug von Lotstätten (Deutschland) nach Einsiedeln (U-act. 8.2.03);
+hierzu legte er dem Einwohneramt einen Mietvertrag betreffend «Monatszimmer
+Nr. 41, ohne Frühstück» im Hotel [...] an der [...] in Einsiedeln vor (U-act.
+8.2.02 bzw. 16.1.01).
+Am 18. Juni 2019 reichte der
+Beschuldigte dem Amt für Migration des Kantons Schwyz ein Gesuch (Formular
+E1) um Erteilung einer «Aufenthaltsbewilligung EU/EFTA (B-Ausweis)» ein
+(U-act. 8.2.04). Auf dem Formular bezeichnete der Be­schuldigte als seinen
+Wohnsitz «[...], Einsiedeln», wobei diese Anga­be auf dem Formular vom
+Einwohneramt Einsiedeln mit Stempel und Unter­schrift bestätigt ist. Auf der
+zweiten Seite des Formulars benannte der Beschuldigte als seine Arbeitgeberin
+die ZZ.______ GmbH in Schlieren. Dem Gesuch beigelegt waren ein unbefristeter
+Arbeitsvertrag sowie eine Arbeitsbestätigung der ZZ.______ GmbH je vom 5.
+Juni 2019 (U-act. 8.2.06 und 8.2.07; siehe zudem eine dem Migrationsamt später
+nachgereichte, zweite Arbeitsbestätigung der ZZ.______ GmbH bei U-act.
+8.2.05).
+4.2
+Begründetheit der Berufung;
+rechtliche Beurteilung
+4.2.1
+Es wurde bereits
+zuvor eingehend aufgezeigt (und kann daher integral darauf verwiesen werden),
+dass zwischen dem Beschuldigten und der ZZ.______ GmbH kein Arbeitsverhältnis
+bestand; sämtliche Belege, mit denen der Bestand eines entspre­chenden
+Arbeitsverhältnisses suggeriert werden sollte, waren fingiert (siehe oben
+E. II. 10.2.2.2). Folglich rügt die Staatsanwaltschaft in ihrer Berufung
+die gegenteilige und sachlich unhaltbare Einschätzung der Vorinstanz zu Recht
+als falsch (act. 164 S. 84 unten).
+Indem vorliegend der Beschuldigte
+dem Migrationsamt des Kantons Schwyz fingier­te Belege (Arbeitsvertrag, Arbeitsbestätigung)
+einreichte, um auf diese Weise das in seinem Gesuch um Erteilung einer
+Aufenthaltsbewilligung behauptete Arbeitsver­hältnis mit der ZZ.______ GmbH
+als wahr erscheinen zu lassen, beging er fraglos straf­bare
+Täuschungshandlungen im Sinne von Art. 118 Abs. 1 AIG.
+4.2.2
+Für die Erteilung
+einer Aufenthaltsbewilligung hat ein EU-Bürger nicht explizit einen Wohnsitz
+in der Schweiz nachzuweisen; es genügt die Vorlage des Auswei­ses, mit dem
+der Gesuchsteller in die Schweiz eingereist ist (Art. 6 Ziff. 3 lit. a
+Anhang I Freizügigkeitsabkommen). Insoweit liesse sich argumentieren, es
+könne offen bleiben, ob der Beschuldigte die Migrationsbehörde auch über
+seinen angebli­chen Wohnsitz in Einsiedeln getäuscht habe, da der Wohnsitz
+für sich keine unmit­telbar Relevanz für die Erteilung der
+Aufenthaltsbewilligung hat, nachdem hierfür allein schon der Nachweis eines
+Arbeitsverhältnisses genügt. Diese Sichtweise würde jedoch zu kurz greifen.
+Denn mit der Angabe eines Wohnsitzes in der Schweiz bekräftigt der
+Gesuchsteller indirekt auch die Glaubhaftigkeit des behaup­teten
+Arbeitsverhältnisses. Stellt sich daher heraus, dass unter Vorlage fingierter
+Belege nicht nur ein vermeintliches Arbeitsverhältnis, sondern zugleich auch
+ein angeblicher Wohnort in der Schweiz dokumentiert wurde, so liegt in
+Letzterem ebenfalls eine Täuschungshandlung im Sinne von Art. 118 Abs. 1 AIG.
+Im hier zu beurteilenden Fall hat
+der Beschuldigte seinen Wohnsitz in Einsiedeln ohne jeden Zweifel
+vorgetäuscht: Als die Polizei am 23. September 2019 um 05:30 Uhr an der
+vermeintlichen Wohnadresse des Beschuldigten (Hotel [...], Zimmer Nr. 41,
+[...] in Einsiedeln) eine Hausdurchsuchung vornehmen wollte (siehe dazu
+U-act. 5.1.02), fand sie im fraglichen Objekt nicht die geringste Spur, dass
+der Beschuldigte dort je einmal anwesend gewesen wäre, geschweige denn dort
+Wohn­sitz hätte. Die Rezeptionistin teilte der Polizei mit, das betreffende
+Zimmer 41 sei durch einen Hotelmitarbeiter belegt (welcher im Moment
+allerdings ferienab­wesend sei) und erklärte auf Vorlage eines Fotos des
+Beschuldigten, diese Person noch nie gesehen zu haben und dass diese Person
+mit Bestimmtheit kein Zimmer in diesem Hotel habe. Tatsächlich fand die
+Polizei im Zimmer 41 einzig Unterlagen, die der von der Rezeptionistin
+genannten Person gehörten. Schliesslich ergab auch ein Suchlauf im
+hoteleigenen Buchungsprogramm keine Anhaltspunkte auf den Beschuldigten (zum
+Ganzen: U-act. 10.0.07-3). Insoweit hinterher der Hotelbesitzer gegenüber der
+Polizei geltend machte, bei der vermeintlichen Rezeptionistin habe es sich um
+eine Putzfrau ohne Kenntnis der Hotelabläufe gehandelt (U-act. 10.0.07, S. 7
+Dep. 32), handelt es sich hierbei um eine geradezu hanebüchene Ausrede.
+Ist nämlich allein schon unwahrscheinlich, dass eine Putzfrau in einem Hotel
+bereits frühmorgens um 05.30 Uhr vor Ort ist, so ist erst recht
+unwahrscheinlich, dass eine Putzfrau der Poli­zei das Buchungsprogramm
+zugänglich gemacht hätte. Im Übrigen hat sich der angebliche Vermieter in
+einem Schreiben an die Polizei vom 17. März 2020 gleich selbst entlarvt. In
+diesem Brief schreibt er nämlich, der Beschuldig­te habe zwar das Zimmer Nr.
+41 reserviert «und ist bei uns nicht gekommen zu schla­fen. Da er aber nie
+bei uns kam und das Zimmer nicht bezahlt hat waren wir gezwungen das Zimmer
+weiter für unsere Hotelgäste frei zu halten und zu vermie­ten» (U-act.
+10.0.07-4). Zu alldem passt denn auch, dass der Beschuldigte bei sei­ner
+Festnahme am 9. Oktober 2019 zwar erklärte, er habe 2½ Wochen in Einsiedeln
+gewohnt, sich jedoch nicht an die Zimmernummer erinnerte (obschon diese Num­mer
+explizit auch im Mietvertrag aufscheint) und vor allem nicht einmal wusste,
+wie hoch der vereinbarte Mietzins war (U-act. 4.1.03, S. 1 und S. 7 Dep. 5).
+Es folgt da­raus als klare Erkenntnis, dass es sich beim vorgeblichen
+Mietvertrag (U-act. 16.1.01) um einen buchstäblichen Wisch handelte, allein
+nur zum Zweck erstellt, um damit die Migrationsbehörde zu täuschen.
+Die Staatsanwaltschaft hat in
+ihrer Berufung die eben dargelegten Ungereimtheiten rund um das fragliche
+Mietverhältnis detailliert aufgezeigt (act. 164 S. 82 – 84). Es ist
+unerklärlich, wie die Vorinstanz im angefochtenen Entscheid all dies
+übersehen und auf ein tatsächlich gelebtes Mietverhältnis schliessen konnte.
+4.2.3
+In rechtlicher
+Hinsicht ist festzuhalten, dass die aufgezeigten Handlungen des Beschuldigten
+(Einreichung mehrerer fingierter Dokumente) fraglos geeignet waren, um die
+zuständige Migrationsbehörde zu täuschen und auf diese Weise zu Unrecht den
+nachgesuchten Ausländerausweis (Aufenthaltsbewilligung EU/EFTA) zu
+erschleichen. Nachdem die Migrationsbehörde darauf aber nicht hereinfiel und
+kei­nen Ausweis ausstellte (bzw. das Gesuchsverfahren im Zeitpunkt der
+Verhaftung von C.______ noch hängig war), blieb es bei einer versuchten
+Tatbegehung. Der Beschuldigte hat sich demnach der versuchten Täuschung der
+Behörden gemäss Art. 118 Abs. 1 AIG in Verbindung mit Art. 22 Abs. 1 StGB
+schuldig gemacht.
+4.3
+Strafzumessung
+4.3.1
+Eine Täuschung der
+Behörden im Sinne von Art. 118 Abs. 1 AIG wird mit
+Frei­heitsstrafe
+bis zu drei Jahren oder Geld­strafe (maximal 180 Tagessätze; vgl. Art. 34
+Abs. 1 StGB) saktioniert.
+Innerhalb dieses Rah­mens misst das Gericht
+die Strafe nach dem Ver­schulden des Täters zu. Es berück­sichtigt das Vor­leben,
+die persön­lichen Ver­hältnisse sowie die Wirkung der Strafe auf das Leben
+des Täters. D
+ie Bewertung des Ver­schuldens
+richtet sich nach der Schwere der Ver­letzung oder Gefährdung des betroffenen
+Rechtsguts, nach der Verwerflichkeit des Handelns, den Beweg­gründen und
+Zielen des Täters sowie danach, wie weit der Täter nach den inneren und
+äusseren Umständen in der Lage war, die Gefährdung oder Verlet­zung zu ver­mei­den.
+Das Verschulden bestimmt sich nach allen objektiven und sub­jektiven Um­ständen
+(Art. 47 Abs. 1 und Abs. 2 StGB).
+4.3.2
+4.3.2.1
+Die vorliegend vom
+Beschuldigten angestrebte Täuschung der Behörde wiegt in objektiver Hinsicht
+insofern nicht schwer, als bei einem EU-Bürger für des­sen Anwesenheitsrecht
+in der Schweiz der hier zu erschwindeln versuchte Auslän­derausweis nicht
+konstitutiver, sondern lediglich deklaratorischer Natur ist. Gleich­wohl ist
+das Dokument nicht unbedeutend, ermöglicht es dem Inhaber immerhin ein
+unbeschwertes, friktionsfreies Fortkommen in der Schweiz (Arbeits- und Woh­nungssuche;
+Verkehr mit Banken, Krankenkassen etc. [siehe dazu konkret: U-act. 10.0.07,
+S. 8 Dep. 39; U-act. 10.2.01, S. 6 Dep. 6). Erheblich ins
+Gewicht fällt hier, dass der Beschuldigte der Behörde gleich mehrere
+fingierte Dokumente unterbreite­te und dabei durchtrieben und perfid vorging;
+sein Handeln war getragen von einer grundlegenden Geringschätzung der
+hiesigen Rechtsordnung. Die Tat ist damit in ihrer objektiven Schwere am
+oberen Ende des mittleren Bereichs des Geldstrafen­rahmens einzureihen,
+konkret bei 120 Tagessätzen.
+In subjektiver Hinsicht sind
+keine Umstände ersichtlich, welche dagegen sprechen, die eben dargelegte
+objektive Tatschwere dem Beschuldigten verschuldensmässig voll anzurechnen.
+Im Lichte der Tatkomponente (Art. 47 Abs. 1 Satz 1 StGB) sind demnach 120
+Tagessätze schuldangemessen.
+4.3.2.2
+Unter dem
+Gesichtswinkel der Täterkomponente (Art. 47 Abs. 1 Satz 2 StGB) wirkt sich
+spürbar straferhöhend aus, dass der Beschuldigte wegen Zuwider­handlungen
+gegen ausländerrechtliche Bestimmungen mehrfach vorbestraft ist und sein
+Leumund zusätzlich noch wegen anderer schwerer Vorstrafen massiv getrübt ist
+(act. 176).
+4.3.2.3
+Im hier zu
+beurteilenden Fall hat die zuständige Migrationsbehörde dem Beschuldigten den
+gewünschten Ausländerausweis (Aufenthaltsbewilligung) nicht ausgestellt (bzw.
+war das entsprechende Gesuchsverfahren im Zeitpunkt der Verhaftung von
+C.______ noch hängig; siehe U-act. 4.1.17-1, S. 8 Ziff. 3.1), womit es bei
+einer versuchten Täuschung der Behörde blieb. Hierbei ist nach allge­meinem
+Ver­ständnis das Strafbedürfnis per se geringer. Es ist deshalb die an sich
+ange­messene Strafe aufgrund des ausgebliebenen Tater­folgs zu reduzieren.
+Die Reduk­tion hängt dabei aber wesentlich da­von ab, wie naheliegend der Erfolgseintritt
+war (siehe dazu
+Mathys
+,
+Leitfaden Strafzu­messung, 2. Aufl. 2019, N 301). Vorlie­gend wurde dem
+Beschuldigten der Ausländerausweis nicht ausgestellt, weil das Gesuch bis zu
+seiner Verhaftung anfangs Oktober 2019 noch nicht bearbeitet war. Ohne diese
+Verhaftung wäre dem Beschuldigten aufgrund des von ihm raffinert auf­gebauten
+Lügengebäudes die Aufenthaltsbewilligung (Ausländerausweis) mutmass­lich
+erteilt worden. Es ist daher der Umstand, dass es sich "nur" um
+eine versuchte Tatbegehung handelte, nur geringfügig strafmindernd zu
+berücksichtigen.
+Strafmindernd wirkt sich
+schliesslich die zu lange Dauer des Berufungsverfahrens aus, worin eine
+Verletzung des Beschleunigungsgebots liegt (siehe dazu bereits oben E. II.
+6.2.4 in fine). Die mit der langen Verfahrensdauer verbundene Belastung für
+den Beschuldigten ist freilich – da ihm in Bezug auf die hier in Frage
+stehende ausländerrechtliche Widerhandlung von vornherein maximal eine
+Geldstrafe drohte – nicht als gravierend einzustufen, weshalb unter dem
+Aspekt des verletzten Beschleunigungsgebots die Strafe in nur geringem Mass
+zu mindern ist.
+4.3.2.4
+Bei Betracht der
+eben geschilderten Straferhöhungs- und –minderungs­gründen ist zu erkennen,
+dass sich diese die Waage halten. Demnach ist das eingangs festgesetzte
+Strafmass von 120 Tagessätzen die hier angemesse­ne Sanktion.
+4.4
+Anrechnung der erstandenen
+Untersuchungshaft auf die Geldstrafe
+Für die soeben festgelegte
+Geldstrafe von 120 Tagessätzen, wäre jetzt als nächstes die Tagessatzhöhe zu
+bestimmen (Art. 34 Abs. 2 StGB). Dieser Schritt kann hier unterbleiben
+(lediglich der Vollständigkeit halber ist anzumerken, dass hier die
+Tagessatzhöhe beim gesetzlichen Mindestbetrag von CHF 30.- läge). Denn gemäss
+Art. 51 StGB rechnet das Gericht die Untersuchungshaft, die der Täter während
+die­ses oder eines anderen Verfahrens ausgestanden hat, auf die Strafe an;
+ein Tag Haft entspricht einem Tagessatz Geldstrafe (siehe dazu ausführlich
+BGE 141 IV 236 E. 3.3 S. 238 f.). Vorliegend verbrachte der Beschuldigte
+427 Tage in Untersu­chungshaft (siehe dazu bereits oben E. II. 10.2.1).
+Hiervon sind 120 Tage auf die vorstehende Geldstrafe von 120 Tagessätzen
+anzurechnen; im nachfolgenden Urteils-Dispositiv ist daher zu vermerken, dass
+der Beschuldigte die verwirkte Geldstrafe durch erstandene Untersuchungshaft
+bereits verbüsst hat.
+4.5
+Landesverweisung
+4.5.1
+Gemäss Art. 66a
+bis
+StGB kann das Gericht einen Ausländer für 3 – 15 Jahre des Landes verweisen,
+wenn er wegen eines Verbrechens oder Vergehens, das nicht von Artikel 66a
+StGB erfasst wird, zu einer Strafe verurteilt wird.
+4.5.2
+Der Beschuldigte ist
+italienischer Staatsangehöriger und wird hier wegen (versuchter) Täuschung
+der Behörden im Sinne von Art. 118 Abs. 1 AIG zu einer Strafe verurteilt. Beim
+betreffenden Tatbestand, welcher mit Freiheitsstrafe bis zu drei Jahren oder
+Geldstrafe bedroht ist, handelt es sich um ein Vergehen (Art. 10 Abs. 3
+StGB). Die objektiven Voraussetzungen für einen Landesverweis sind damit
+gegeben.
+Die Voraussetzungen für einen
+Landesverweis sind ebenso in subjektiver Hinsicht erfüllt: Der im Kosovo
+aufgewachsene Beschuldigte weist zur Schweiz keine grund­legende Beziehung
+auf. Als er sich im Juni 2019 bei der Gemeinde Einsiedeln anmeldete, nannte
+er Lotstätten/Deutschland als seinen letzten Wohnort (U-act. 8.2.03). Bei
+seiner Verhaftung am 9. Oktober 2019 berichtete er, er habe als EU-Bürger
+bewusst die Schweiz ausgesucht, weil er sich hier sehr wohl fühle; vor allem
+lebe sei Sohn [geb. 1997, aus einer früheren Ehe] hier und er möchte bei ihm
+sein; zudem erwähnte er, dass auch ein Bruder und eine Schwester mit ihren
+Familien in der Schweiz lebten (U-act. 4.1.03, S. 8 Dep. 18 und Dep. 21). Die
+Verteidigerin führ­te in einem ZMG-Verfahren aus, der Beschuldigte sei «daran
+[gewesen], sich eine Existenz in der Schweiz aufzubauen (U-act. 4.1.17-1, S.
+8 unten). Der Beschuldigte ist verheiratet; seine Ehefrau lebt in
+Brescia/Italien; in diesem Kontext erklärte der Beschuldigte explizit, er sei
+nur wegen der Arbeit in die Schweiz gekommen (U-act. 4.1.03,
+S. 7 f. Dep. 14 – 16). Aus alldem wird klar, dass der Beschuldigte
+in der Schweiz weder persönlich noch wirtschaftlich integriert ist. Hinzu
+kommt, dass auch die Legalprognose negativ ist. Der Beschuldigte ist in der Schweiz
+mehrfach vorbe­straft (act. 176); neben anderen (schweren) Straftaten
+verstiess er namentlich wie­derholt gegen Einreiseverbote (act. 15/1 – 15/6).
+Im Übrigen ist dem Beschuldigten an einem Verbleib in der Schweiz auch nicht
+aus einer persönlich-familiären Ver­bundenheit gelegen, andernfalls nicht
+erklärbar ist, dass er in der Untersuchung an der Schlusseinvernahme Angaben
+zu seiner familiären Situation entweder verwei­gerte oder nur oberflächliche
+Angaben machte (U-act. 10.2.01, S. 5 f. Dep. 1 ff.).
+4.5.3
+Aus alldem ergibt
+sich, dass gegen den Beschuldigten eine Landesverweisung für die Dauer von
+drei Jahren auszusprechen ist.
+Da es sich beim Beschuldigten um einen italienischen
+Staatsangehörigen und damit um einen Unionsbürger der EU handelt, ist die
+angeordnete Landesverweisung gemäss Art. 20 der N-SIS-Verordnung nicht im
+Schengener Informationssystem einzutragen.
+IV.
+Kostenregelung
+1.
+Verfahrenskosten für das
+Berufungsverfahren vor Obergericht
+1.1
+Gerichtsgebühr für das
+Berufungsverfahren
+Die Gerichtsgebühr für das hier
+umfangreiche Berufungsverfahren ist in Anwendung von Art. 6 Abs. 1 in
+Verbindung mit Art. 8 Abs. 1 Bst. b Ziff. 2 der Zivil- und Strafpro­zesskostenverordnung
+(GS III A/5) auf CHF 15'000.- festzusetzen.
+1.2
+Verteilung der obergerichtlichen
+Gerichtsgebühr
+1.2.1
+Die Kosten des
+obergerichtlichen Berufungsverfahrens tragen die Parteien nach Massgabe ihres
+Obsiegens oder Unterliegens (Art. 428 Abs. 1 StPO).
+Der Beschuldigte B.______ wird
+entgegen seinem Berufungsantrag im schwer­wiegenden Punkt der Anklage
+(versuchte vorsätzliche Tötung zum Nachteil des Pri­vatklägers A.______)
+schuldig gesprochen. Einen Freispruch erlangt er in Bezug auf den Vorwurf der
+Körperverletzung zum Nachteil von E.______. Die Strafe fällt im Vergleich zum
+erstinstanzlichen Entscheid etwas tiefer aus; der Lan­desverweis von zehn
+Jahren wird bestätigt, ebenso die bereits erstinstanzlich erkannte
+zivilrechtliche Haftbarkeit gegenüber dem Privatkläger, wobei die Genug­tuungssumme
+im Berufungsentscheid festgelegt wird.
+D.______ und C.______ werden von
+den Anklagevorwürfen in der Sache «Birmensdorf» in Übereinstimmung bereits
+mit der Vorinstanz und entgegen den anderslautenden Berufungsanträgen der
+Staatsanwaltschaft freigesprochen. Hinge­gen ist die Berufung der
+Staatsanwaltschaft in Bezug auf C.______ insoweit gut­zuheissen, als er
+entgegen dem angefochtenen Entscheid wegen Täuschung der Behörden zu
+verurteilen und für drei Jahre des Landes zu verweisen ist. Auch ist die ihm
+erstinstanzlich noch zuerkannte Haftentschädigung (Schadenersatz) zu strei­chen
+und fällt zudem die ihm zustehende Genugtuung im Vergleich zum Erstent­scheid
+tiefer aus. Ebenso hat D.______ eine wesentlich weniger hohe Haftent­schädigung
+zugut als die ihm erstinstanzlich zugesprochene.
+1.2.2
+Bei diesem Ausgang
+ist die Gerichtsgebühr von CHF 15'000.- für das Beru­fungsverfahren wie folgt
+zu verlegen:
+CHF
+8'000.-
+zu Lasten von B.______;
+CHF
+2'000.-
+zu Lasten von C.______;
+CHF
+500.-
+zu Lasten von D.______;
+CHF
+4'500.-
+werden auf die Gerichtskasse
+genommen.
+Die auf C.______ entfallende
+Gerichtsgebühr darf nicht mit dessen Genugtu­ungsanspruch (siehe oben E. II.
+10.2.3) verrechnet werden (Art. 442 Abs. 4 StPO; siehe dazu BSK StPO-
+Wehrenberger/Frank
+, Art. 429
+N 26a mit Hinweisen).
+1.3
+Im Berufungsverfahren
+angefallene Kosten der unentgeltlichen Rechtsvertretung und der amtlichen
+Verteidigungen; teilweise Überwälzung auf die Beschuldigten
+Die Auslagen für die amtliche
+Verteidigung und die unentgeltliche Verbeiständung gelten ebenfalls als
+Verfahrenskosten (Art. 422 Abs. 2 lit. a StPO). Soweit ein Beschuldigter zu
+den Verfahrenskosten ver­urteilt wird, so hat er die Kosten der amt­lichen
+Verteidigung der Gerichtskasse zurück­zuerstatten, wenn es seine wirtschaft­lichen
+Verhältnisse erlauben (Art. 135 Abs. 4 StPO).
+Die amtliche Verteidigung und die
+unentgeltliche Verbeiständung werden nach dem Anwaltstarif des Kantons
+entschädigt, in dem das Strafverfahren geführt wurde (Art. 135 Abs. 1
+und Art. 138 Abs. 1 StPO); einschlägig ist damit der Tarif für die
+Entschädigung der öffentlichen Verteidigung und der unentgeltlichen
+Rechtsvertre­tung (GS III I/5; nachfolgend Tarif).
+Vorliegend sind die
+Entschädigungen für die amtlichen Verteidigungen der drei Beschuldigten und
+für die unentgeltliche Verbeiständung des Pri­vatklägers einzig noch für das
+Berufungsverfahren festzulegen; die im vorinstanzlichen Entscheid für
+Untersuchung und Erstverfahren festgesetzten Entschädigungen (act. 122 S. 116
+Dispositiv-Ziff. 22 – 25) waren im Berufungsverfahren unangefochten und sind
+den involvierten Anwälten auch bereits ausbezahlt worden.
+Der amtlichen Verteidigung und
+der unentgeltlichen Rechtsvertretung ist der
+not­wendige
+Aufwand mit einem Stundenansatz von CHF 180.- zu entschädigen (Art. 6
+i.V.m Art. 3 Tarif), zuzüglich Mehrwertsteuer und notwendige Auslagen (Art. 2
+Abs. 1 Tarif).
+1.3.1
+Honorar für
+Rechtsanwalt lic. iur. Thomas Fingerhuth
+Rechtsanwalt
+lic. iur. Thomas Fingerhuth als unentgeltlicher Rechtsbeistand des
+Privatklägers A.______ macht in seiner dem Obergericht eingereich­ten
+Honorarnote eine Entschädigung von CHF 6‘552.90 geltend (act. 166; inkl.
+7.7 % MwSt. und Auslagen).
+Das
+Berufungsverfahren vor Obergericht nahm seinen Anfang im Juli 2022 (siehe
+act. 131). Demnach sind die vom unentgeltlichen Rechtsbeistand für die Zeit
+vor Juli 2022 verrechneten Aufwendungen von 1¾ Stunden (Positionen 1-3) nicht
+zu ent­schädigen. Für die Teilnahme an der Berufungsverhandlung sind anstelle
+der (geschätzten) 8 Stunden total 7 Stunden zu vergüten (inkl. Wegzeit von 2
+x ½ Std). Andererseits sind für Studium und Nachbesprechung des
+obergerichtlichen Ent­scheids (in der Honorarnote nicht aufgeführt) 1½
+Stunden hinzuzurechnen. Ansons­ten ist zur Honorarnote des unentgeltlichen
+Rechtsvertreters nichts zu bemerken. Rechtsanwalt lic. iur. Thomas Fingerhuth
+ist daher für seine Bemühungen als unentgeltlicher Rechtsvertreter des
+Privatklägers aus der Gerichtskasse folgende Entschädigung auszuzahlen:
+Honorar:
+CHF
+5‘698.80
+Auslagen:
+CHF
+160.60
+7.7 % MwSt. auf CHF 5‘859.40:
+CHF
+451.10
+Total
+CHF
+6‘310.50
+Hiervon
+sind dem Rechtsvertreter von der Gerichtskasse bereits CHF 4‘400.- aus­bezahlt
+worden (act. 170); offen sind damit noch CHF 1‘910.50.
+Die Bemühungen des
+Rechtsvertreters des Privatklägers waren im Berufungsverfahren vor allem
+darauf ausgerichtet, dass neben dem Beschuldigten B.______ ebenso die beiden
+CD.______-Brüder in der Causa «Birmensdorf» verurteilt und demgemäss
+gegenüber dem Privatkläger zivilrechtlich haftbar erklärt würden. Da die
+CD.______-Brüder jedoch in der Causa «Birmensdorf» freizusprechen sind,
+können die Auslagen für die unentgeltliche Rechtsvertretung des Privatklägers
+im Unterschied zum vorinstanzlichen Verfahren nicht als Verfahrenskosten
+(siehe dazu Art. 422 Abs. 2 lit. a StPO) dem Verurteilten B.______ auferlegt
+werden.
+1.3.2
+Honorar für
+Rechtsanwalt MLaw Damian Stocker; teilweise Überwälzung
+der Anwaltskosten auf den Beschuldigten B.______
+1.3.2.1
+Bis zum Abschluss
+der Berufungsverhandlung amtierte Rechtsanwalt MLaw Damian Stocker als
+amtlicher Verteidiger des Beschuldigten B.______. Gemäss der dem Obergericht
+im Nachgang zur Berufungsverhandlung unterbreiteten Hono­rarnote beziffert RA
+MLaw Damian Stocker seinen Vergütungsanspruch für das Berufungsverfahren auf
+CHF 15'326.10 (act. 167).
+Der Rechtsvertreter stellt einen
+Aufwand von 4½ Stunden für das Studium des erst­instanzlichen Entscheids in
+Rechnung. Hierfür wurde er jedoch bereits im vorin­stanzlichen Entscheid im
+damals geltend gemachten Umfang entschädigt (siehe act. 122 S. 110 E.
+4.2.). Inwiefern diese Entschädigung nicht ausreichend gewesen wäre, ist
+nicht ersichtlich und wurde zudem die vorinstanzliche Bemessung der
+Entschädigung auch nicht angefochten; die 4½ Stunden sind damit zu streichen.
+Ebenso zu streichen ist der «1/3-Anteil Rechnung Dr. S.______. (Gutachten)»
+von CHF 1'720.20 (dazu mehr weiter unten E. 1.4). Nicht erkennbar ist
+sodann ein Sachzusammen­hang mit dem vorliegenden Strafverfahren in Bezug auf
+die geführte Kommunikation mit der Abteilung Arbeitsbewilligungen, Division
+Quellensteuer, Amt für Wirtschaft, Steueramt Kanton Zürich und den
+dazwischenliegenden Telefonaten mit dem Beschuldigten. Der in diesem Kontext
+verrechnete Aufwand von insgesamt 2 Stun­den ist nicht zu vergüten. Alle weiteren
+verrechneten Positionen sind gerechtfertigt. Daraus ergibt sich für
+Rechtsanwalt MLaw Damian Stocker folgendes Honorar für das
+Berufungsverfahren:
+Honorar:
+CHF
+11‘095.20
+Auslagenpauschale
+(3 % v. CHF 11‘095.20):
+CHF
+332.90
+7.7 %
+MwSt. auf CHF 11‘428.10:
+CHF
+880.00
+Total
+CHF
+12‘308.10
+Hiervon
+sind dem Rechtsvertreter von der Gerichtskasse bereits CHF 10‘000.- aus­bezahlt
+worden (act. 170), sodass noch ein Restguthaben von CHF 2‘308.10 besteht.
+1.3.2.2
+Im
+Hauptanklagepunkt (versuchte vorsätzliche Tötung) wird der erstinstanz­lich
+gegen den Beschuldigten B.______ ergangene Schuldspruch bestätigt; im
+Berufungsverfahren freigesprochen wird er hingegen vom Vorwurf der
+Körperverlet­zung zum Nachteil von E.______. Die vorstehende Anwaltsentschädigung
+von CHF 12‘308.10 ist demzufolge im Umfang von CHF 10‘000.- als
+Verfahrenskos­ten auf den Beschuldigten zu überwälzen. Diese Kosten der
+amtlichen Verteidigung hat der
+Beschuldigte der Gerichtskasse zurück­zuerstatten,
+wenn es seine wirt­schaftlichen Verhältnisse erlauben (Art. 135 Abs. 4 StPO).
+1.3.3
+Honorar für
+Rechtsanwalt lic. iur. Vedat Erduran; Überwälzung der
+Anwaltskosten auf den Beschuldigten B.______
+1.3.3.1
+Nach
+abgeschlossener Berufungsverhandlung legte
+Rechtsanwalt MLaw Damian
+Stocker das Mandat als amtlicher Verteidiger des Beschuldigten B.______
+nieder (act. 173). Die Verfahrensleitung hat das Mandat inzwischen Rechts­anwalt
+lic. iur. Vedat Erduran übertragen (act. 178). Dieser ist für seine Bemühun­gen
+aus der Gerichtskasse mit insgesamt CHF 1'945.80 zu entschädigen (10 Stun­den
+à CHF 180.- zzgl. 8.1 % MwSt.).
+1.3.3.2
+Die
+betreffende Anwaltsentschädigung von CHF 1‘945.80 hat der Beschul­digte
+B.______ als Verfahrenskosten zu tragen; er hat sie
+der Gerichtskasse
+zurück­zuerstatten, wenn es seine wirtschaftlichen Verhältnisse erlauben
+(Art. 135 Abs. 4 StPO).
+1.3.4
+Honorar für
+Rechtsanwältin lic. iur.
+Viviane A. Hasler; teilweise Überwälzung auf den Beschuldigten
+C.______
+1.3.4.1
+Rechtsanwältin
+lic. iur.
+Viviane A. Hasler
+amtierte
+als amtliche Verteidigerin des Beschuldigten C.______. Gemäss der dem
+Obergericht im Nachgang zur Berufungsverhandlung unterbreiteten Honorarnote
+beziffert RAin lic. iur. Viviane Hasler ihren Vergütungsanspruch für das
+Berufungsverfahren auf CHF 11'614.90 (act. 169).
+Die Rechtsvertreterin verrechnet
+als Barauslage CHF 1'696.- für die «Expertise Dr. S.______». Dieser Aufwand
+kann nicht vergütet werden (dazu mehr unten E. 1.4). Alle übrigen Positionen
+der Honorarnote sind gerechtfertigt. Somit steht Rechtsanwältin lic. iur.
+Viviane Hasler für das Berufungsverfahren folgende Vergütung zu:
+Honorar:
+CHF
+8‘841.00
+Auslagen:
+CHF
+247.50
+7.7 % MwSt. auf CHF 9‘088.50:
+CHF
+699.80
+Total
+CHF
+9‘788.30
+Hiervon
+sind der Rechtsvertreterin von der Gerichtskasse bereits CHF 7‘700.- aus­bezahlt
+worden (act. 170); nachzuzahlen sind daher noch CHF 2‘088.30.
+1.3.4.2
+Im Unterschied zum erstinstanzlichen Entscheid ist der Beschuldigte
+C.______ wegen versuchter Täuschung der Behörden schuldig zu sprechen; zudem
+entfällt die ihm vorinstanzlich zuerkannte Haftentschädigung und fällt auch
+die Genugtuung tiefer aus, wobei er selber im Berufungsverfahren eine weitaus
+höhere Genugtuung als die ihm erstinstanzlich zugesprochene verlangt hat.
+Ande­rerseits bleibt es in der Causa
+«Birmensdorf»
+entgegen
+dem Berufungsantrag der Staats­anwaltschaft beim erstinstanzlichen
+Freispruch. Vor diesem Hintergrund ist von der
+vorstehenden
+Anwaltsentschädigung von CHF 9‘788.30 ein Teilbetrag von CHF 4‘000.- als
+Verfahrenskosten auf den Beschuldigten zu überwälzen. Diese Kosten der
+amtlichen Verteidigung hat der
+Beschuldigte der Gerichtskasse
+zurück­zuerstatten, wenn es seine wirtschaftlichen Verhältnisse erlauben
+(Art. 135 Abs. 4 StPO).
+1.3.5
+Honorar für
+Rechtsanwalt lic. iur. Philipp Langlotz
+; teilweise Überwälzung auf den Beschuldigten D.______
+1.3.5.1
+Rechtsanwalt lic. iur. Philipp Langlotz macht als
+amtlicher Verteidiger des Beschuldigten D.______ einen Aufwand von CHF
+9‘738.05 geltend (act. 168). Darin mitverrechnet ist eine Barauslage von CHF
+1‘735.- für die von den Verteidi­gungen gemeinsam eingeholte
+«Expertise Dr. S.______». Dieser Aufwand kann nicht vergütet werden (siehe
+gleich danach E. 1.4). Im Übrigen ist die Honorarnote zu genehmigen. Somit
+ist
+Rechtsanwalt lic. iur. Philipp Langlotz
+aus der Gerichtskasse
+für das Berufungsverfahren folgende
+Entschädigung auszubezahlen:
+Honorar:
+CHF
+7‘214.40
+Auslagenpauschale (3 % v. CHF 7‘214.40):
+CHF
+216.45
+7.7 % MwSt. auf CHF 7‘430.85:
+CHF
+572.20
+Total
+CHF
+8‘003.05
+Hiervon
+sind der Rechtsvertreterin von der Gerichtskasse bereits CHF 6‘400.- aus­bezahlt
+worden (act. 170); nachzuzahlen sind daher noch CHF 1‘603.05.
+1.3.5.2
+Im Gegensatz zum
+Erstentscheid und dem vom Beschuldigten D.______ selbst gestellten
+Berufungsantrag hat dieser eine wesentlich tiefere Haftentschädi­gung zugut.
+In den übrigen Punkten erfährt das angefochtene Urteil in Bezug auf den
+Beschuldigten keine Änderung. Demgemäss hat der Beschuldigte von der vor­stehenden
+Anwaltsentschädigung von CHF 8‘003.05 einen Teilbetrag von
+CHF 1‘000.- als Verfahrenskosten zu tragen. Diese Kosten der amtlichen
+Verteidi­gung hat der Beschuldigte der Gerichtskasse zurück­zuerstatten, wenn
+es seine wirt­schaftlichen Verhältnisse erlauben (Art. 135 Abs. 4 StPO).
+1.4
+Kosten der «Expertise Dr.
+S.______»
+1.4.1
+Die Verteidigungen
+der drei Beschuldigten haben im Vorfeld der Berufungs­verhandlung eine
+aussagepsychologische Expertise eingeholt (act. 162). Mit dieser Expertise
+wollte bezweckt werden, dem Obergericht die Notwendigkeit offenbar zu machen,
+ein neuropsychologisches Gerichtsgutachten zur Aussagetüchtigkeit und
+Aussagekompetenz von A.______ sowie zur Zuverlässigkeit, Belastbarkeit und
+Glaubhaftigkeit der Aussagen von A.______ anzuordnen (siehe act. 164 S.
+11 ff. sowie S. 140 f.). Die Verteidigungen machen im
+Berufungsverfahren die von Partei­seite finanzierten Kosten der Expertise von
+Dr. S.______ als ersatzfähige Barauslagen geltend.
+1.4.2
+Dem Antrag auf
+Erstattung der Kosten für die privat eingeholte Expertise durch die
+Gerichtskasse kann nicht gefolgt werden. Die Prüfung der Glaubhaftigkeit von
+Beweisaussagen ist zentrale Aufgabe des Gerichts (Art. 10 Abs. 2 StPO); das
+Gericht vermag dabei selbst zu beurteilen, inwiefern zur Würdigung einer
+Beweis­aussage eine gutachterliche Abklärung angezeigt ist, ohne dass dem
+Gericht hierzu quasi ein Vorgutachten zu präsentieren ist. Im Übrigen wurde
+oben im materiellen Teil dargelegt, wie sich im beurteilten Delikt
+«Birmensdorf» die vorhandenen Indi­zien zu einem Bild zusammenfügen lassen,
+ohne zusätzliche Begut­achtung von A.______; folglich kam der privat eingehol­ten
+Expertise von vornherein keine Relevanz in Hinsicht auf die Beweiswürdigung
+zu, weshalb auch unter diesem Gesichtswinkel die entsprechenden Auslagen
+nicht aus der Gerichtskasse zu vergü­ten sind.
+2.
+Erstinstanzliche Gerichtskosten
+und Untersuchungskosten
+Erlässt – wie hier – das
+Obergericht als Berufungsinstanz einen neuen Entscheid, so hat es darin auch
+über die von der Vorinstanz getroffene Kostenregelung zu befinden (Art. 428
+Abs. 3 StPO).
+2.1
+Verteilung der
+erstinstanzlichen Gerichts- und der Untersuchungskosten
+Die Vorinstanz hat die
+Gerichtsgebühr von CHF 20'000.- sowie die Untersuchungs­gebühr von CHF
+25'500.- einzig dem Beschuldigten B.______ auferlegt. Weil vorliegend nun
+aber entgegen dem Entscheid der Vorinstanz ebenso der Beschul­digte C.______
+in einem Anklagepunkt (Täuschung der Behörden) schuldig zu sprechen ist, hat
+er ebenfalls einen Anteil an den Untersuchungs- und vorin­stanz­lichen
+Gerichtskos­ten zu tragen (Art. 426 Abs. 1 StPO).
+Die vorgenannten Gebühren für die
+Untersuchung (CHF 25'500.-) und das Erstge­richt (CHF 20'000.-) sind im
+Lichte von Art. 6 Abs. 1 in Verbindung mit Art. 7 Abs. 1 Bst. b Ziff. 3 und
+Art. 8 Abs. 1 Bst. b Ziff. 2 der Zivil- und Strafprozesskostenverord­nung
+korrekt bemessen und waren im Berufungsverfahren unbestritten.
+Dem Beschuldigten C.______ sind
+von der erwähnten Gerichtsgebühr und Untersuchungsgebühr je CHF 2'000.-
+aufzuerlegen, insgesamt also CHF 4'000.-; die restlichen CHF 23'500.-
+(Untersuchungsgebühr) und CHF 18'000.- (erstinstanzliche Gerichtskosten)
+entfallen auf den Beschuldigten B.______. Andererseits hat der Beschuldigte
+B.______, nachdem er im Berufungsverfah­ren von der Anklage der Körperverletzung
+zum Nachteil von E.______ frei­gesprochen wird, nicht die gesamten Kosten
+seiner Verteidigung in der Untersu­chung und im Erstverfahren (CHF 45'310.50)
+zu übernehmen, sondern lediglich im Umfang von CHF 40'000.-. Insgesamt
+reduzieren sich damit die im erstinstanzlichen Ent­scheid dem Beschuldigten
+B.______ zusammen mit allen weiteren Auslagen auferlegten Verfahrenskosten
+von CHF 96'807.30 (siehe act. 122 S. 114 f. Dispositiv-Ziff. 13) auf neu
+CHF 87'496.80.
+Aufgrund des (Teil)Schuldspruchs hat
+C.______ im Gegensatz zum angefochtenen Entscheid ebenfalls einen Anteil von
+CHF 5'000.- an den Gesamtkosten (CHF 51'956.20) seiner amtlichen
+Verteidigung in der Untersuchung und im erstinstanzlichen Verfahren zu
+übernehmen.
+____________________
+Das
+Gericht erkennt:
+1.
+Es wird festgestellt, dass die
+nachfolgenden Dispositiv-Ziffern des Urteils der Strafkammer des
+Kantonsgerichts Glarus vom 28. Juni 2022 (SG.2020.00126-128 und
+SG.2021.00082) unangefochten in Rechtskraft erwachsen sind:
+6.
+Die folgenden bei C.______ beschlagnahmten Gegenstände
+(vgl. U-act. 4.1.02) werden diesem herausgegeben:
+- CHF 300.—;
+- ID-Karte Italien, Nr. [...];
+- Armbanduhr, Marke Casio, G-Shock.
+7.
+Die folgenden bei B.______ beschlagnahmten Gegenstände
+(vgl. U‑act. 4.2.02, 5.2.04a und 5.2.05) werden diesem herausgegeben:
+- Leibgurt, schwarz;
+- Medikament Pregabalin-Mepha, 100 mg;
+- Zeller Filmtabletten Relaxane;
+- Mietvertrag [...], 8903 Birmensdorf;
+- Mobiltelefon iPhone XS, IMEI [...].
+8.
+Die folgenden bei D.______ beschlagnahmten Gegenstände
+(vgl. U‑act. 5.3.07 und 5.3.08) werden diesem herausgegeben:
+- Mobiltelefon iPhone 7;
+- Laptop Acer Aspire E 15, inkl. Ladekabel.
+22.
+Rechtsanwältin lic. iur. Viviane Andrea Hasler wird als
+amtliche Verteidi­gung im Verfahren vor Kantonsgericht mit CHF 51'956.20
+(inkl. Auslagen und MwSt.) aus der Gerichtskasse entschädigt.
+23.
+Rechtsanwalt MLaw Damian Stocker wird als amtliche
+Verteidigung im Verfahren vor Kantonsgericht mit CHF 45'310.50 (inkl. Auslagen
+und MwSt.) aus der Gerichtskasse entschädigt.
+24.
+Rechtsanwalt lic. iur. Philipp Langlotz wird als
+amtliche Verteidigung im Verfahren vor Kantonsgericht mit CHF 28'024.90
+(inkl. Auslagen und MwSt.) aus der Gerichtskasse entschädigt.
+25.
+Rechtsanwalt lic. iur. Thomas Fingerhuth wird als
+unentgeltliche Rechts­vertretung von A.______ mit CHF 849.60 (inkl.
+Auslagen und MwSt.) aus der Gerichtskasse entschädigt.
+26.
+Die zugunsten von C.______ bezahlte Sicherheitsleistung
+von insgesamt CHF 50'000.— wird freigegeben. Dabei sind CHF 30'000.— an
+[...], und CHF 20'000.— an [...], auszubezahlen.
+2.
+Der Beschuldigte B.______ ist
+im Sinne der Anklage vom 13. November 2020 schuldig der versuchten
+vorsätzlichen Tötung im Sinne von Art. 111 StGB in Verbindung mit Art. 22
+Abs. 1 StGB.
+3.
+Der Beschuldigte B.______ wird
+vom Vorwurf der versuchten schweren Körperverletzung im Sinne von Art. 122
+StGB in Verbindung mit Art. 22 Abs. 1 StGB bzw. vom Eventualvorwurf der
+einfachen Körperverletzung im Sinne von Art. 123 StGB (Anklage Ziff. 3)
+freigesprochen.
+4.
+Der Beschuldigte C.______ ist
+im Sinne der Anklage vom 13. November 2020 schuldig der versuchten
+Täuschung der Behörden im Sinne von Art. 118 Abs. 1 AIG in Verbindung mit
+Art. 22 Abs. 1 StGB.
+5.
+Der Beschuldigte C.______ wird
+von den übrigen Anklagepunkten gemäss Anklage vom 13. November 2020
+freigesprochen.
+6.
+Der Beschuldigte D.______ wird
+von allen Anklagepunkten gemäss Anklage vom 13. November 2020
+freigesprochen.
+7.
+B.______ wird zu einer
+(unbedingten) Freiheitsstrafe von 57 Monaten ver­urteilt; daran angerechnet
+wird die ausgestandene Untersuchungshaft von ins­gesamt 79 Tagen.
+8.
+B.______ wird im Sinne von Art.
+66a Abs. 1 lit. a StGB für 10 Jahre des Landes verwiesen.
+Die Ausschreibung der
+Landesverweisung im Schengener Informationssystem wird angeordnet.
+9.
+C.______ wird zu einer
+Geldstrafe von 120 Tagessätzen verurteilt; von den total 427 Tagen
+ausgestandene Untersuchungshaft werden 120 Tage an die Geldstrafe
+angerechnet, womit die Geldstrafe verbüsst ist.
+10.
+C.______ wird im Sinne von Art.
+66a
+bis
+StGB für 3 Jahre des Landes verwiesen.
+11.
+Es wird festgestellt, dass im
+vorliegenden Berufungsverfahren das Beschleuni­gungs­gebot verletzt wurde.
+12.
+Die im vorliegenden
+Strafverfahren erhobenen DNA-Proben und erstellten DNA-Profile von C.______
+und D.______ sind zu vernichten bzw. zu löschen.
+Die im vorliegenden
+Strafverfahren von B.______ erhobene DNA-Probe und das erstellte DNA-Profil
+werden erst mit Ablauf der einschlägigen Fristen gemäss DNA-Profil-Gesetz
+gelöscht bzw. vernichtet.
+13.
+Es wird im
+Grundsatz festgestellt, dass der Privatkläger A.______ gegenüber B.______
+aufgrund der in diesem Verfahren beurteilten versuchten vorsätz­lichen
+Tötung Anspruch auf Schadenersatz hat; zur Bezifferung des Schaden­ersatzanspruchs
+wird A.______ auf den Zivilweg verwiesen.
+14.
+B.______ wird
+verpflichtet, dem Privatkläger A.______ eine Genugtuung von CHF 2‘000.- zu
+bezahlen, zuzüglich CHF 750.- Zins seit 20. Mai 2017 bis zum heutigen
+Urteilsdatum; auf der Genugtuungssumme von CHF 2‘000.- ist ab heutigem
+Urteilsdatum ein Verzugszins von 5 % geschuldet.
+15.
+Die vom
+Privatkläger A.______ gegenüber C.______ und D.______ gestellten
+Zivilanträge werden abgewiesen.
+16.
+C.______ wird für
+die erstandene und nicht gemäss Ziff. 9 auf die Geldstrafe anrechenbare
+Untersuchungshaft von 307 Tagen eine Genugtuung von
+CHF 38'800.-
+zuzüglich Zins zu 5 % ab 9. Mai 2020
+aus der
+Gerichtskasse
+zugesprochen.
+17.
+D.______ wird für das
+Strafverfahren ein Schadenersatz von
+CHF 556.- zuzüglich
+Zins zu 5 % ab 1. Februar 2020
+aus der Gerichtkasse zugespro­chen,
+wobei dieser Betrag jedoch mit der auf D.______ entfallenden Gerichtsge­bühr
+und dem von ihm zu tragenden Kostenanteil der amtlichen Verteidigung zu
+verrechnen ist (nachstehend Ziff. 19 und Ziff. 28).
+18.
+D.______
+wird für
+die erstandene Untersuchungshaft von 79 Tagen eine Genugtuung von
+CHF 15'800.-
+zuzüglich 5 % Zins ab 1. Februar 2020
+aus der
+Gerichtskasse
+zugesprochen.
+19.
+Die Gerichtsgebühr für das
+Berufungsverfahren wird auf CHF 15'000.- festgesetzt und wie folgt verlegt:
+CHF
+8'000.-
+zu Lasten von B.______;
+CHF
+2'000.-
+zu Lasten von C.______;
+CHF
+500.-
+zu Lasten von D.______;
+CHF
+4'500.-
+werden zusammen mit den Kosten
+der Übersetzung auf die Staatkasse genommen.
+Die auf C.______ entfallenden Kosten dürfen
+nicht mit der ihm oben (Ziff. 16) zugesprochenen Genugtuung verrechnet
+werden.
+Die auf D.______ entfallenden Kosten sind
+mit der ihm oben (Ziff. 17) zugesprochenen Entschädigung verrechenbar.
+In Bezug auf die Kosten der amtlichen
+Verteidigung im Berufungsverfahren, welche teilweise auf B.______, C.______
+und D.______ zu überwälzen sind, wird auf die nachstehenden Ziffern 25 – 28
+verwiesen.
+20.
+Die Gerichtsgebühr für die erstinstanzlichen Verfahren
+SG.2020.00126 bis SG.2020.00128 wird auf insgesamt CHF 20'000.—
+festgesetzt. Für das Verfahren SG.2021.00082 (betreffend unentgeltliche
+Rechtspflege für A.______) werden keine Kosten erhoben.
+Die Untersuchungskosten der Staats- und Jugendanwaltschaft betragen
+insgesamt CHF 41'596.—. Die Untersuchungsgebühr beträgt CHF 25'500.—.
+21.
+Die B.______ betreffenden Kosten der Untersuchung und des
+erstinstanzli­chen Gerichtsverfahrens betragen:
+CHF
+18'000.—
+Gerichtskosten
+CHF
+23'500.—
+Untersuchungsgebühr
+CHF
+1'100.—
+Gerichtsgebühr
+OG.2019.00073
+CHF
+1'100.—
+Gerichtsgebühr
+OG.2019.00096
+CHF
+300.—
+Gerichtsgebühr
+SG.2020.00002
+CHF
+300.—
+Gerichtsgebühr
+SG.2020.00003
+CHF
+331.30
+Rechnung
+Physiotherapie
+CHF
+861.35
+Rechnung Ärzte
+Netstal AG
+CHF
+1'234.45
+Rechnung Ärzte
+Netstal AG
+CHF
+60.—
+Rechnung Ärzte
+Netstal AG
+CHF
+709.70
+Entschädigung
+RA lic. iur. Thomas Fingerhuth
+CHF
+40'000.—
+Anteil amtliche Verteidigung (von total CHF 45'310.50)
+CHF
+87'496.80
+Total
+Diese Kosten werden B.______ vollumfänglich auferlegt, wobei
+allerdings die Kosten der amtlichen Verteidigung (CHF 40‘000.-) erst dann
+von B.______ bezogen werden, wenn es seine wirtschaftlichen Verhältnisse
+erlauben.
+22.
+Die C.______ betreffenden Kosten der Untersuchung und des erstin­stanzlichen
+Gerichtsverfahrens betragen:
+CHF
+2'000.—
+Gerichtskosten
+CHF
+2'000.—
+Untersuchungsgebühr
+CHF
+5'000.—
+Anteil Amtliche Verteidigung (von total CHF 51‘956.20)
+CHF
+9'000.—
+Total
+Diese Kosten werden C.______ vollumfänglich
+auferlegt, wobei allerdings die Kosten der amtlichen Verteidigung (CHF
+5‘000.-) erst dann von C.______ bezogen werden, wenn es seine
+wirtschaftlichen Verhältnisse erlauben. Eine Verrechnung dieser Kosten mit
+der oben (Ziff. 16) zugesprochenen Genugtuung ausgeschlos­sen ist.
+23.
+Sämtliche
+Übersetzungskosten gehen zulasten des Staates.
+24.
+Rechtsanwalt lic.
+iur. Thomas Fingerhuth wird für seine Bemühungen im Beru­fungsverfahren als
+unentgeltlicher Rechtsvertreter des Privatklägers aus der Gerichtskasse mit
+CHF 6‘310.50 (inkl. Auslagen und MwSt.)
+entschädigt. Es wird vorgemerkt, dass hiervon CHF 4‘400.- bereits
+ausbezahlt wurden, womit der Restanspruch noch CHF 1‘910.50 beträgt.
+25.
+Rechtsanwalt MLaw
+Damian P. Stocker wird für seine Bemühungen im Beru­fungsverfahren als
+amtlicher Verteidiger des Beschuldigten B.______ aus der Gerichtskasse mit
+CHF 12‘308.10 (inkl. Auslagen und MwSt.) entschädigt.
+Es wird vorgemerkt, dass hiervon CHF 10‘000.- bereits ausbezahlt wurden,
+womit der Restanspruch noch CHF 2‘308.10 beträgt.
+Die vorstehenden Kosten für die amtliche Verteidigung im
+Berufungsverfahren werden im Umfang von CHF 10‘000.- B.______ auferlegt,
+werden von ihm jedoch erst bezogen
+, wenn es seine
+wirtschaftlichen Verhältnisse erlauben.
+26.
+Rechtsanwalt lic.
+iur. Vedat Erduran wird aus der Gerichtskasse mit
+CHF
+1'945.80
+(inkl. Auslagen und MwSt.) entschädigt
+für seine Bemühungen als amtlicher Verteidiger des Beschuldigten
+B.______ in der letzten Phase des Berufungsverfahrens
+.
+Die vorstehenden Kosten für die amtliche Verteidigung im
+Berufungsverfahren werden B.______ auferlegt, werden von ihm jedoch erst
+bezogen
+, wenn es seine wirtschaftlichen Verhältnisse
+erlauben.
+27.
+Rechtsanwältin
+lic. iur. Viviane Andrea Hasler wird für ihre Bemühungen im
+Berufungsverfahren als amtliche Verteidigerin des Beschuldigten C.______
+aus der Gerichtskasse mit
+CHF 9‘788.30 (inkl.
+Auslagen und MwSt.) entschädigt. Es wird vorgemerkt, dass hiervon CHF
+7‘700.- bereits ausbezahlt wurden, womit der Restanspruch noch CHF 2‘088.30
+beträgt.
+Die vorstehenden Kosten für die amtliche Verteidigung im
+Berufungsverfahren werden im Umfang von CHF 4‘000.- C.______ auferlegt,
+werden von ihm jedoch erst bezogen
+, wenn es seine
+wirtschaftlichen Verhältnisse erlauben. Eine Verrechnung mit der oben
+(Ziff. 16) zugesprochenen Genugtuung ist ausgeschlos­sen.
+28.
+Rechtsanwalt lic.
+iur. Philipp Langlotz wird für seine Bemühungen im Beru­fungsverfahren als
+amtlicher Verteidiger des Beschuldigten D.______ aus der Gerichtskasse mit
+CHF 8‘003.05 (inkl. Auslagen und MwSt.) entschädigt. Es
+wird vorgemerkt, dass hiervon CHF 6‘400.- bereits ausbezahlt wurden, womit
+der Restanspruch noch CHF 1‘603.05 beträgt.
+Die vorstehenden Kosten für die amtliche Verteidigung im
+Berufungsverfahren werden im Umfang von CHF 1‘000.- D.______ auferlegt;
+diese auf D.______
+entfallenden Kosten sind mit der
+ihm oben (Ziff. 17) zugesprochenen Entschädigung verrechenbar
+und werden im Mehrbetrag von ihm bezogen
+, wenn
+es seine wirtschaftlichen Verhältnisse erlauben; eine Verrechnung des
+Mehrbetrags mit der D.______ zugesprochenen Genugtuung (oben Ziff. 18) ist
+ausgeschlossen.
+29.
+Schriftliche Mitteilung an:
