@@ -1,0 +1,564 @@
+---
+decision_id: "gl_gerichte_OG.2023.00072"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2023.00072"
+docket_2: "OGS.2026.201"
+decided: "2024-12-13"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=2061&W10_KEY=232154&nTrefferzeile=2&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/220/art-716a.md", "switzerland/bund/acts/220/art-722.md", "switzerland/bund/acts/220/art-754.md", "switzerland/bund/acts/311.0/art-012.md", "switzerland/bund/acts/312.0/art-082.md", "switzerland/bund/acts/312.0/art-398.md", "switzerland/bund/acts/312.0/art-406.md", "switzerland/bund/acts/312.0/art-408.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/818.101/art-006.md", "switzerland/bund/acts/818.101/art-083.md"]
+---
+
+# GL Gerichte OG.2023.00072
+
+## Regeste
+
+Übertretung des Bundesgesetzes über die Bekämpfung übertragbarer Krankheiten des Menschen
+
+## Text
+
+Glarus Obergericht 13.12.2024 OG.2023.00072 (OGS.2026.201)
+Glaris Obergericht 13.12.2024 OG.2023.00072 (OGS.2026.201)
+Glarona Obergericht 13.12.2024 OG.2023.00072 (OGS.2026.201)
+
+Übertretung des Bundesgesetzes über die Bekämpfung übertragbarer Krankheiten des Menschen
+
+Kanton Glarus
+Obergericht
+Es wirken mit:
+Obergerichtspräsidentin Dr. iur. Petra Hauser,
+Oberrichterin Brigitte Müller, Oberrichter MLaw Mario Marti, Oberrichterin
+Ruth Hefti und Oberrichter Martin Ilg s
+owie
+Gerichtsschreiber
+lic. iur. Erich Hug.
+Urteil
+vom 13. Dezember 2024
+Verfahren
+OG.2023.00072
+A.______                                                                                    Beschuldigte
+und
+Berufungsklägerin
+verteidigt
+durch
+Rechtsanwalt Dr. iur.
+Gerald
+Brei,
+gegen
+Staats-
+und Jugendanwaltschaft des Kantons Glarus
+Anklägerin
+und
+Postgasse 29,
+8750
+Glarus
+Berufungsbeklagte
+vertreten durch Staatsanwältin lic. iur.
+Dorothea Speich
+Übertretung
+des Bundesgesetzes über die Bekämpfung übertragbarer Krankheiten des Menschen
+(Epidemiengesetz)
+über die
+Anträge:
+der Beschuldigten und Berufungsklägerin
+(gemäss Berufungserklärung ihres Rechtsver­treters
+vom 4. Dezember 2023 [act. 28] und Berufungsbegründung vom 13. Februar
+2024 [act. 33 S. 2]):
+1.
+Dispositiv-Ziffern 1 und 2 des Urteils des
+Kantonsgerichts Glarus vom 23. November 2023 seien aufzuheben und die
+Beschuldigte sei vom Vorwurf der Übertretung des Bun­desgesetzes über die
+Bekämpfung übertragbarer Krankhei­ten des Menschen im Sinne von Art. 83
+Abs. 1 lit. j EpG i.V.m. Art. 6 Abs. 2 lit. b EpG und Art. 4 Abs. 1 und
+Abs. 2 Covid-19 Verordnung besondere Lage (Stand 19. April 2021)
+vollumfänglich von Schuld und Strafe freizusprechen.
+2.
+Dispositiv-Ziffern 3 und 4 des Urteils des
+Kantonsgerichts Glarus vom 23. November 2023 seien aufzuheben und die
+Gerichtsgebühr sowie die weiteren Verfahrenskosten ganz auf die Staatskasse
+zu nehmen.
+3.
+Dispositiv-Ziffer 5 des Urteils des
+Kantonsgerichts Glarus vom 23. November 2023 sei aufzuheben und die
+Beschuldigte sei erstinstanzlich mit CHF 7‘700.- zuzüglich MwSt. zu
+entschädigen.
+4.
+Unter Kosten- und Entschädigungsfolgen zu Lasten
+des Staates.
+der Staatsanwaltschaft
+(gemäss Stellungnahme vom 29. Februar 2024
+[act. 37]):
+1.
+Die Berufung der Beschuldigten sei abzuweisen und
+das Urteil des Kantonsge­richts Glarus vom 23. November 2023 sei zu
+bestätigen.
+2.
+Unter Kostenfolge zu Lasten der Beschuldigten.
+____________________
+Erwägungen
+1.
+1.1
+Die Glarner Staatsanwaltschaft sprach
+mit Strafbefehl vom 9. August 2022 (act. 3) A.______ der Übertretung der
+im Frühsommer 2021 geltenden Vorschriften zur Bekämpfung des Coronavirus
+(COVID-19) schuldig und verurteilte sie kostenfällig zu einer
+Übertretungsbusse von CHF 1‘000.- (Ersatzfreiheitsstrafe 10 Tage). Konkret
+wird der Beschuldigten angelastet, sie habe die ihr als Chefärztin und
+Bewilligungsinhaberin der X.______-KLINIK obliegende Verantwortung zur
+Umsetzung des Schutzkonzepts gegen COVID-19 nicht wahrgenommen, wobei der
+Strafbefehl spezifische Versäumnisse in der Umsetzung des Schutzkonzepts benennt,
+welche anlässlich einer behördlichen Kontrolle am 24. Juni 2021 vor Ort
+festgestellt wurden (act. 3).
+1.2
+Nach erfolgter Einsprache der
+Beschuldigten (act. 2/3) ergänzte die Staats­anwaltschaft die Untersuchung
+(act. 2/8) und überwies in der Folge die Angele­gen­heit zur gerichtlichen
+Beurteilung an das zuständige Einzelgericht des hiesigen Kantonsgerichts
+(act. 1).
+Die Vizepräsidentin des Kantonsgerichts bestätigte in ihrem Entscheid
+vom 23. November 2023 im Kern den angefochtenen Strafbefehl im Schuld-
+und Strafpunkt (Busse von CHF 1‘000.-) und auferlegte der Beschuldigten die
+aufgelaufenen Verfahrenskosten von insgesamt CHF 1‘700.- (act. 25).
+1.3
+Dagegen liess die Beschuldigte am 4.
+Dezember 2023 durch ihren Rechtsvertreter fristgerecht Berufung erheben
+(act. 28), zu deren Behandlung das Obergericht das schriftliche
+Verfahren anordnete (Art. 406 Abs. 1 lit. c StPO; act. 31). Am
+13. Februar 2024 reichte der Rechtsvertreter der Beschuldigten die
+Berufungsbegründung ein (act. 33). Die Staatsanwaltschaft schliesst in ihrer
+Stellungnahme vom 29. Februar 2024 auf Abweisung der auf Freispruch von
+Schuld und Strafe gerichteten Berufung und beantragt unter Verweis auf die
+Erwägungen des erstinstanzlichen Urteils dessen Bestätigung (act. 37).
+2.
+Das vorliegende Strafverfahren betrifft eine Übertretungssache (siehe
+die hier einschlägige Strafbestimmung gemäss Art. 83 des Epidemiengesetzes,
+EpG; SR 818.101). In einem solchen Fall kann mit Berufung nur geltend
+gemacht werden, das erstinstanzliche Urteil sei rechtsfehlerhaft oder die
+darin vorgenommene Feststellung des Sachverhalts sei offensichtlich unrichtig
+oder beruhe auf einer Rechtsverletzung; neue Behauptungen und Beweise können
+dabei nicht vorgebracht werden (Art. 398 Abs. 4 StPO).
+Die Regelung von
+Art. 398 Abs. 4 StPO bedeutet demnach Folgendes: Das Oberge­richt als
+Berufungsinstanz prüft die materiellrechtlichen und prozessu­alen Rechts­fragen
+mit freier Kognition. Soweit demgegenüber in der Beru­fung die Würdi­gung des
+prozessual korrekt erhobenen Sachverhalts gerügt wird, beschränkt sich die
+Überprüfung auf offensichtliche Unrichtigkeit; «offensichtlich unrichtig»
+bedeutet dabei «willkürlich» (siehe dazu Zürcher Kommentar StPO-
+Zimmerlin
+, Art. 398 N 23). Nach
+der formelhaften Umschreibung des Bundesgerichts liegt Willkür bei der
+Sachverhaltsfeststellung nur vor, wenn die vorinstanzliche Beweiswürdigung
+schlechterdings unhaltbar ist, d.h. wenn die Vorinstanz in ihrem Entscheid
+von Tat­sachen ausgeht, die mit der tatsächlichen Situation in klarem
+Widerspruch stehen oder auf einem offenkundigen Fehler beruhen. Dass eine
+andere Lösung ebenfalls möglich erscheint oder gar zutreffender erscheint,
+genügt nicht (Urteil BGer 6B_582/2021 vom 1. September 2021 E. 2.2; BGE 146
+IV 88 E. 1.3.1 S. 92).
+3.
+3.1
+Die Vorinstanz befand im angefochtenen Entscheid die
+Berufungsklägerin für schuldig der Widerhandlung gegen Art. 83 Abs. 1 lit. j
+EpG i.V.m. Art. 6 Abs. 2 lit. b EpG und Art. 4 Abs. 1 und 2 der
+Covid-19-Verordnung besondere Lage vom 19. Juni 2020 (SR 818.101.26) mit
+Stand vom 19. April 2021 (act. 25 S. 26 Disposi­tiv-Ziff. 1 und S. 20 E.
+2.5.).
+Aus Sicht der
+Vorinstanz lag die Widerhandlung der Berufungsklägerin konkret darin, dass
+sie im Frühjahr bzw. Frühsommer 2021 in ihrer Funktion als Chefärztin der X.______-KLINIK
+daselbst nicht für eine zureichende Umsetzung des damals für öffentlich
+zugängliche Betriebe und Einrichtungen vorausgesetzten Schutzkonzepts (siehe
+dazu Art. 4 Abs. 1 und 2 der Covid-19-Verordnung besonde­re Lage) besorgt
+gewesen sei. In Übereinstimmung mit der Anklage (act. 3) erachte­te es die
+Vor­instanz im Einzelnen als erstellt, dass in der X.______-KLINIK die im
+Schutz­konzept vorgegebenen Hygienevorschriften, die Maskentragpflicht sowie
+die Besuchs- und Abstandsregeln nicht zureichend umgesetzt wurden (act. 25 S.
+11 E.3.4., S. 17 E. 2.2.3., S. 18 f. E. 2.3.3., S. 19 f.
+E. 2.4.2.). Die Vorinstanz stützte sich bei dieser Einschätzung auf
+einen einlässlichen Bericht über eine am 24. Juni 2021 in den Räumlichkeiten
+der X.______-KLINIK durchgeführte behördliche Kontrolle (act. 2/1/16)
+sowie auf Meldungen Dritter (act. 2/1/3 und 2/1/9), welche aus Sicht der
+Vorinstanz die im Kontrollbericht bezeichneten Unzulänglichkeiten
+bestätigten, ganz abgesehen davon, dass die Y.______ AG selbst die im
+Kontrollbericht festge­haltenen und hier anklagerelevanten Punkte nicht
+bestritten habe (act. 25 S. 10 f. E. 3.1. – 3.4.).
+3.2
+3.2.1
+Der Rechtsvertreter der Berufungsklägerin trägt in der Berufung vor,
+der Anklagesachverhalt sei nicht erstellt; die vorinstanzliche Feststellung
+und Würdi­gung des Sachverhalts sei «einseitig, aktenwidrig und in sich
+widersprüchlich» (act. 33 Rz. 2). Seine Mandantin (Berufungsklägerin)
+habe ausdrücklich bestritten, dass das Schutzkonzept generell und die
+Maskentragpflicht im Besonderen nicht einge­halten worden seien, weshalb
+insofern der Sachverhalt zu erstellen gewesen sei (Rz. 3). Zur angeblichen
+‚systematischen‘ Nichteinhaltung der Maskenpflicht stütze sich die Vorinstanz
+auf verschiedene Meldungen und Beobachtungen, d.h. auf blos­ses Hörensagen.
+Bei der Überprüfung des Schutzkonzepts hätten nach Aussage der
+Berufungsklägerin nur die Personen keine Maske getragen, welche ein Attest
+gehabt hätten; das habe vor allem sie selbst betroffen und daneben noch einen
+schwer traumatisierten Patienten; ansonsten hätten alle Anwesenden eine Maske
+getragen. Für die Berufungsklägerin sei daher unverständlich, dass die vier
+Kontrollierenden in ihrem Bericht zu einem anderen, d.h. falschen Schluss
+gelangt seien; im Überprüfungsberichten fehlten auch konkrete Namen dazu, wer
+keine Maske getragen habe (Rz. 4). Die Vorinstanz habe sodann erwo­gen, «es
+erscheint glaubhaft», dass die Maskentragpflicht in der X.______-KLINIK nicht
+eingehal­ten worden sei; damit aber verkenne die Vorinstanz die Bedeu­tung
+des Beweismas­ses der vollen Überzeugung, denn es reiche nicht, einseitig auf
+irgendwelche Hin­weise und einen konkret bestrittenen Überprüfungsbericht
+abzu­stellen und das für «glaubhaft» zu erklären (Rz. 5). Zudem liege ein
+offener Wider­spruch zu späteren Feststellungen im Urteil vor. Wie nämlich
+die Vorinstanz nach­folgend zu Recht erkannt habe, falle aufgrund des
+Schuldprinzips eine Verurteilung der Berufungsklä­gerin wegen Fehlverhaltens
+von Drittpersonen [hier keine Maske getra­gen] ohnehin ausser Betracht;
+insofern aber seien allfällige Verstösse gegen die im Schutzkon­zept der X.______-KLINIK
+vorgesehene Maskentragpflicht ohnehin nicht rele­vant für eine angeblich
+fehlende Umsetzung des Schutzkonzepts (Rz. 6). Ebenfalls widersprüchlich sei,
+wenn die Vorinstanz aus der von der Y.______ AG zum Prüfbericht formulierten
+Stellungnahme, wonach bei den Hygienevorschriften das Schutzkonzept nur
+bezüglich der Desinfektion der Handläufe angepasst werden müsse, ansonsten
+aber die bisherige Handhabung den Vorgaben entspreche, wenn eben daraus nun
+die Vorinstanz den Schluss ziehe, die Y.______ AG teile grundsätzlich die
+Ansicht, wonach die Hygienevorschriften nicht konsequent einge­halten würden
+(Rz. 7). In Hinsicht auf die gerügten Mängel bei den Besuchs- und Abstands­regeln
+habe bereits der Überprüfungsbericht keine konkreten Verstösse festgestellt,
+sondern bloss festge­halten, die maximalen Belegungszahlen gemäss Schutzkon­zept
+liessen theoretisch keine Covid-19-konforme Sitzung/Veranstaltung im Grup­pen-
+und Mehrzweckraum zu. Es sei daher aktenwidrig, wenn die Vor­instanz erwä­ge,
+der Überprüfungsbericht habe bei der Durchsetzung der Besuchs- und
+Abstandsregeln [konkrete] Mängel erkannt (Rz. 8). Im Überprüfungsbericht
+werde auch die fehlende Mitarbeiterschu­lung bemängelt; zu diesen
+Mitarbeitenden zähle laut Überprüfungsbericht jedoch auch die
+Berufungsklägerin selbst, weshalb unerfindlich sei, dass die Vorinstanz
+trotzdem zum aktenwidrigen Schluss gelange, es wäre in der Verantwortung und
+Aufgabe der Berufungsklägerin gelegen, die Mit­arbeitenden hinreichend
+aufzuklären, damit diese die Massnahmen einhalten konn­ten (Rz. 9).
+Abschliessend habe die Vorinstanz einseitig und ohne tatsächliche Grundlage
+fest­gehalten, es bestün­den «keine unüberwindbaren Zweifel» daran, dass das
+Schutz­konzept der X.______-KLINIK bei der Durchsetzung der Hygie­nevorschriften
+und Maskentragpflicht sowie der Besuchs- und Abstandsregeln nicht
+durchgesetzt worden sei. Auch inso­fern verkenne die Vorinstanz das nötige
+Beweismass der vol­len Überzeugung; sie hätte entweder weitere
+Beweisaufnahmen durchführen oder aber nach dem Grund­satz «in dubio pro reo»
+freisprechen müssen (Rz. 10).
+3.2.2
+Mit diesen Vorbringen vermag die Berufungsklägerin keine Willkür in
+der vor­instanzlichen Sachverhaltswürdigung nachzuweisen; ihre Einwendungen
+erschöp­fen sich in rein appellatorischer Kritik am angefochtenen Entscheid,
+was bei einer auf Willkür beschränkten Überprüfung der erstinstanzlichen
+Sachverhaltsfeststellung von vornherein nicht genügt, um diese im Sinne von
+Art. 398 Abs. 4 StPO als «offensichtlich unrichtig» umzustossen.
+Aber selbst bei
+einem weniger strengen Prüfmassstab sind die Einwände der Beru­fungsklägerin
+unbegründet. Namentlich beruht die Sachverhaltswürdigung der Vor­instanz auf
+einem korrekten Beweis­mass. Vorliegend lastet die Anklage der Beru­fungsklägerin
+an, das Schutzkonzept in der X.______-KLINIK in den folgenden Punkten nicht
+durchgesetzt zu haben (act. 3): a) Allgemeine Vorgaben und Hygiene­regeln; b)
+Maskentragpflicht; c) Besuchsregelung; d) Abstandsregeln. Die Vor­instanz
+erkannte hierzu als Fazit ihrer Sachverhaltswürdigung: «Der Überprüfungs­bericht
+hat sowohl bei der Durchsetzung der Hygienevorschriften und Maskentrage­pflicht,
+sowie der Besuchs- und Abstandsregeln Mängel festgestellt. Es bestehen
+demnach
+keine unüberwindbaren
+Zweifel
+[Hervorhebung
+hinzugefügt] daran, dass das Schutzkon­zept der X.______-KLINIK in diesen
+Bereichen nicht durchgesetzt wurde» (act. 25 S. 11 E. 3.4.). Damit legte
+die Vorinstanz ihrem Entscheid den korrekten Beweismassstab zugrunde, gilt
+doch im Strafprozess der Anklagesachverhalt als erstellt, wenn dieser sich
+nach richterlicher Überzeugung mit an Sicherheit grenzen­der
+Wahrscheinlichkeit verwirklicht hat (BGE
+144 IV 345 E. 2.2.3.3 S. 351). Nichts anderes
+brachte die Vorinstanz mit der Wendung
+«keine
+unüberwindbaren Zweifel»
+zum
+Ausdruck.
+Die Vorinstanz übersah sodann bei ihrer Sachverhaltswürdigung
+keineswegs, dass die Berufungsklägerin die ihr angelasteten Anklagevorwürfe bestritten
+hatte. Indem die Vorinstanz dennoch – und ohne zusätzliche Beweisabnahmen –
+allein gestützt auf die Ergebnisse der am 24. Juni 2021 in der X.______-KLINIK
+durchgeführten behördli­che Kontrolle (act. 2/1/16) sowie eingedenk der die
+Kontrollbefunde stüt­zenden Hinweise von Drittpersonen den Anklagesachverhalt
+als erwiesen erachtete, hat sie den Sachverhalt durchwegs korrekt ermittelt.
+Insbesondere durfte die Vor­instanz dabei auch mit Recht zur Erkenntnis
+gelangen, die im Schutzkonzept für die X.______-KLINIK festgeschriebene
+Maskentragpflicht (act. 2/1/17 S. 4) werde nicht umgesetzt, nachdem
+anlässlich des behördlichen Kontrollgangs am 24. Juni 2021 diverse
+Personen (und eben nicht nur die von der Maskentragpflicht durch ärztliches
+Attest befreite Berufungsklägerin sowie ein traumatisierter Patient) die
+Pflicht zum Tragen der Maske ignorierten bzw. diese nicht richtig trugen
+(act. 2/1/16 S. 5); im Übrigen blieb im Berufungsverfahren die
+erstinstanzliche Feststellung unbestritten, wonach von den Mitarbeitenden und
+Patienten in der X.______-KLINIK als einzige die Berufungsklägerin mit
+ärztlicher Bescheinigung vom Tra­gen einer Gesichtsmaske dispensiert war
+(act. 25 S. 10 E. 3.1. und 3.2.).
+Die Kontrollbehörde bemerkte bei ihrer Visite vor Ort am 24. Juni 2021
+ferner, dass
+«weder ein Reinigungsplan erstellt wurde,
+noch die Oberflächen gemäss den Vor­gaben im Schutzkonzept (S. 20 [recte: S.
+18]) gereinigt und desinfiziert werden»; zudem «fehlen
+Desinfektionsmittelspender an weiteren zentralen Stellen» (act. 2/1/16
+S. 3). Die Y.______ AG erwähnte dazu in ihrer Antwort zum Prüfbe­richt fol­gende
+Abhilfemassnahmen: «Schutzkonzept wurde am 25.06. bzgl. Desin­fektion von
+Handläufen angepasst. […] Reinigungsplan erstellen. […] Spender installieren»
+(act. 2/10/5 S. 3). Es ist daher unerfindlich, wie die Beru­fungsklägerin
+sich in diesem Zusammenhang in der Berufung zum Vorwurf versteigen konnte,
+die Vor­instanz habe zu Unrecht erwogen, die Y.______ AG teile grundsätzlich
+die Ansicht [der Kontrollbehörde], dass die Hygienevorschrif­ten nicht
+konsequent ein­gehalten worden seien.
+Nichtzutreffend ist
+die Behauptung der Berufungsklägerin, wonach der Prüfbericht in Bezug auf die
+Besuchs- und Abstandsregeln keine konkreten Verstösse festge­stellt habe.
+Hierzu nämlich ist im Bericht Folgendes nachzulesen: «Im Weiteren werden die
+Abstände aufgrund der aufgestellten Sitzgelegenheiten mutmasslich nicht
+eingehalten bzw. werden Mitarbeitende und Patienten zumindest eingeladen, den
+Abstand nicht einzuhalten. Dies betrifft insbesondere den Wartebe­reich der
+Patienten, aber auch die aufgestellten Sitzmöglichkeiten im Gruppenraum und
+im Büro der medizinischen Leiterin [mithin der Berufungsklägerin]. In
+letzterem stehen konkret insgesamt 8 Stühle zur Durchführung von Gesprächen
+zur Verfü­gung» (act. 2/1/16 S. 4). Der Vollständigkeit halber ist
+anzufügen, dass die­se behördliche Fest­stellung seitens der Y.______ AG
+ebenfalls unbestritten blieb bzw. in der Folge auch in diesem Punkt intern
+Abhilfe angeordnet wurde (act. 2/10/5 S. 4).
+Insoweit die
+Berufungsklägerin in der Berufung vorbringt, es könne ihr eine unter­lassene
+Schulung der Mitarbeitenden nicht angelastet werden, da sie selbst doch auch
+nur eine Mitarbeitende gewesen sei, kann ihr nicht gefolgt werden. Wohl war
+sie eine Angestellte der Y.______ AG, hatte indes als Chefärztin vor Ort in
+der Klinik [...] die oberste Leitungsfunktion inne (mehr dazu gleich
+nachstehend), welche konkret auch die Verantwortung für die Umsetzung des
+Schutzkonzepts beinhaltete, wozu fraglos gehörte, dass sie die
+Instruktion/Schulung der rangtieferen Beschäftigten entweder selbst vornahm
+oder aber zumindest veran­lasste.
+3.3
+3.3.1
+Gemäss Art. 4 Abs. 1 der Covid-19-Verordnung besondere Lage mussten
+Betreiber
+von öffentlich zugänglichen Einrichtungen und Betrieben ein Schutzkon­zept
+erarbeiten und umsetzen. Die Vorinstanz erwog im angefochtenen Entscheid,
+dass in der X.______-KLINIK in [...] die Verantwortung für die korrekte
+Umsetzung des Schutzkonzepts der Berufungsklägerin oblegen und sie daher im
+Lichte von Art. 83 Abs. 1 lit. j EpG i.V.m. Art. 4 Abs. 1 der
+Covid-19-Verordnung besondere Lage für die festgestellten Versäumnisse in der
+Befolgung des Schutzkonzepts strafrecht­lich einzustehen habe. Zwar habe die
+Berufungsklägerin bei der Y.______ AG formell keine Organstellung bekleidet.
+Indes habe sie an wöchentlichen Kadersitzungen mit der Geschäftsführung
+teilgenommen, an denen Fragen bezüg­lich des Coronavirus diskutiert worden
+seien und habe sie zudem eine Stellung­nahme der Y.______ AG betreffend die
+von der kantonalen Behörde Ende April 2021 angemahnte Einhaltung der
+Maskentragpflicht mit Einzelunterschrift unter­zeich­net. Die Teilnahme an
+den Kadersitzungen und die Repräsentation des Unter­neh­mens nach aussen
+zeigten, dass die Berufungsklägerin in der X.______-KLINIK ein weitreichendes
+Mitsprachrecht hatte; weil überdies der Geschäftsfüh­rer der [...] in der
+Region Zentralschweiz/Glarnerland seinen Arbeitsort nicht in [...] gehabt
+habe, sei die Berufungsklägerin im Alltagsgeschäft mit weitreichenden
+Kompetenzen ausgestattet gewesen. Sie habe demnach in ihrer Funktion als
+Chefärztin in der X.______-KLINIK als faktisches Organ der Y.______ AG
+fungiert. Dieser Position sei sie sich effektiv auch bewusst gewesen, habe
+sie doch in der Untersuchung eingeräumt, dass sie rein formal schon für die
+Durchsetzung des Schutzkonzepts zuständig gewesen sei; sie sei ausserdem
+Adressatin von zahlreichen behördlichen Schreiben bezüglich Coronavirus in
+der X.______-KLINIK gewesen und habe ihrerseits im Namen der Y.______ AG mit
+der Behörde zu Fragen des Coronavirus korres­pondiert (act. 25 S. 16 f.
+E. 2.2. und S. 19 E. 2.4.2.).
+3.3.2
+Die Berufungsklägerin bestreitet in ihrer Berufung die ihr von der
+Vorinstanz zugeschriebene (faktische) Organstellung in der X.______-KLINIK.
+Ihr Rechts­vertreter führte in der Berufungsschrift aus, seine Mandantin sei
+in der X.______-KLINIK als Chefärztin ohne Zeichnungsberechtigung angestellt
+gewesen und habe bei der Y.______ AG keine Organstellung innegehabt. Sie sei
+nicht Betreiberin der Klinik gewesen, sondern die Y.______ AG. Indem die Vor­instanz
+aus bestimmten Begebenheiten (Teilnahme an wöchentli­chen Kadersitzungen,
+angebliche Repräsentation des Unterneh­mens nach aussen) auf eine faktische
+Organstellung geschlossen habe, sei dies sachlich falsch, recht­lich
+fehlerhaft und im Ergebnis unhaltbar. Nie habe die Beru­fungsklägerin die
+Y.______ AG «nach aussen» repräsentiert, weil sie dazu ohne
+Zeichnungsberechti­gung gar nicht befugt gewesen sei. Einzig im Mai 2021 habe
+die Berufungsklägerin auf eine an sie per­sönlich adressierte behördliche
+Mahnung i.S. Einhaltung der Maskentragpflicht selbst geantwortet, dabei aber
+auf Weisung des Geschäftsführers B.______, der auch inhaltliche Vorgaben
+gemacht habe. Die spätere Korres­pondenz mit der kantonalen Behörde habe
+ausnahmslos der Geschäftsführer geführt, welcher im überarbeiteten
+Schutzkonzept schliesslich auch zutref­fend als verantwortliche Per­son für
+den Standort [...] bezeichnet worden sei. Die Berufungsklägerin sei zu keinem
+Zeitpunkt verantwortliche Person für das Schutz­konzept gewesen; sie habe
+dies aktienrechtlich auch gar nicht sein können, weil gemäss Art. 716a Abs. 1
+Ziff. 5 OR der Verwaltungsrat die unübertragbare und unentziehbare Aufgabe
+der Oberaufsicht über die mit der Geschäftsführung betrau­ten Personen habe,
+nament­lich im Hinblick auf die Befolgung der Gesetze; Geschäftsführer sei
+unbestritten B.______ gewesen, eine weitere Delegation der Verantwortung sei
+nicht zulässig gewesen. Die Aussage der Berufungsklägerin in der Untersuchung
+zu wöchentlichen Kadersitzungen habe sich nur auf die X.______-KLINIK bezo­gen;
+zu diesen Sitzungen sei der Geschäftsführer jeweils angereist. Letztlich habe
+die Vorinstanz anhand weniger und schwacher Indizien rechtsfehlerhaft eine
+fakti­sche Organstellung der Berufungsklägerin bejaht; es gebe jedoch keinen
+Beweis dafür, dass die Beschwerdeführerin eine eigene Entschei­dungsbefugnis
+innerhalb der Y.______ AG gehabt und selbständig und eigen­verantwortlich
+habe handeln dürfen; vielmehr sei sie als angestellte Chefärztin der X.______-KLINIK
+in typisch abhängiger Stellung tätig gewesen (act. 33 S. 13 f. Rz.
+12-17). Aber selbst wenn die Berufungsklägerin faktisches Organ gewesen wäre,
+hätte sie nicht gegen Art. 4 Abs. 1 der Covid-19-Verordnung besondere Lage
+verstossen können, fehle ihr doch Eigenschaft «Betreiberin», um zum
+Adressaten­kreis der Norm zu gehören. Schon im Zivilrecht werde zwischen der
+Zurechnung deliktischen Organhandelns an die Aktiengesellschaft (Art. 722 OR)
+und der persön­lichen Haftung eines Organs (Art. 754 OR) unterschieden; zudem
+finde sich in Art. 55 Abs. 2 und Abs. 3 ZGB eine ähnliche Unterscheidung.
+Art. 4 Abs. 1 der Covid-19-Verordnung besondere Lage habe jedoch keine
+persönliche strafrechtliche Verant­wortlichkeit des handeln­den (faktischen)
+Organs einer juristischen Person vorgesehen; deliktisches, straf­rechtlich
+relevantes Handeln könne nur der Y.______ AG als Betreiberin zuge­rechnet
+werden (act. 33 S. 7 Rz. 18-22).
+3.3.3
+Die eben dargelegten Einwendungen der Berufungsklägerin stossen ins
+Leere.
+In der
+schweizerischen Rechtsordnung richten sich Strafbestimmungen, abgesehen von
+hier nicht interessierenden Sondernormen, ausnahmslos an natürliche Perso­nen
+(OFK/StGB/JStG-
+Donatsch
+, StGB 1
+N 1). Wird daher eine öffentlich zugängli­che Einrichtung bzw. ein öffentlich
+zugänglicher Betrieb von einer juristischen Per­son geführt, so fällt bei
+unzureichender Umsetzung des Schutzkonzepts im Sinne von Art. 4 Abs. 1 der
+Covid-19-Verordnung besondere Lage die strafrechtliche Verantwor­tung nicht
+auf die juristische Person, sondern auf den oder die jeweils zuständigen
+Entschei­dungsträger innerhalb der betreffenden juristischen Person.
+Die Vorinstanz
+qualifiziere im angefochtenen Entscheid anhand der von ihr aufge­zeig­ten
+(und oben noch einmal wiedergegebenen) Umstände und Begebenheiten die
+Berufungsklägerin zu Recht als faktisches und damit verantwortliches Organ im
+Hinblick auf die Umsetzung des Corona-Schutzkonzepts in der X.______-KLINIK.
+Nachdem der für die Kliniken der Y.______ AG im Raum Zent­ralschweiz/Glarnerland
+zuständige Geschäftsführer seinen Arbeitsort unbestritten nicht in [...]
+hatte, war die Berufungsklägerin in der X.______-KLINIK als einzige
+Chefärztin vor Ort die so gesehen „ranghöchste“ Exponentin der Klinikbe­treiberin
+Y.______ AG. Es kann kein Zweifel darüber bestehen, dass ihr in die­ser
+Position die Zuständigkeit zur einwandfreien Umsetzung des Schutzkonzepts in
+der (kleinen) X.______-KLINIK übertragen war, dies jedenfalls in Hinsicht auf
+die vorlie­gend konkret eingeklagten Missstände bzw. Versäumnisse bei der
+Befol­gung des Schutzkonzepts (act. 3: a. Allgemeine Vorgaben und
+Hygieneregeln; b. Masken­tragpflicht; c. Besuchsregelung; d. Abstandsregeln).
+Dieser Verantwortung war sich die Berufungsklägerin selbst durchaus bewusst,
+wie ihre Ausführungen in der Untersuchung klarmachen (act. 2/8 Rn. 98: «Rein
+formal war schon ich zustän­dig. Gleichwohl ich nicht überall alles
+kontrollieren kann.»; Rn. 196 f.: «Natürlich bin ich irgendwie
+verantwortlich. In der Realität kann ich das dann aber nicht alles kon­trol­lieren,
+aber ja. Geschätzt wahrscheinlich bin ich es.»); augenscheinlich aber hat sie
+der ihr oblegenen Aufgabe nicht die erforderliche Bedeutung und Aufmerksam­keit
+beigemessen.
+4.
+4.1
+Die Berufungsklägerin macht geltend, Art. 4 Abs. 1 der
+Covid-19-Verordnung besondere Lage verstosse gegen das Bestimmtheitsgebot,
+insoweit darin eine Pflicht zur
+Umsetzung
+des Schutzkonzepts normiert
+ist. Das Bestimmtheitsgebot als Teilgehalt des Legalitätsprinzips verlange
+eine hinreichend genaue Umschreibung des Übertretungstatbestandes; eine
+Strafe dürfe nur verhängt werden, wenn die Strafnorm so präzise formuliert
+sei, dass die rechtsunterworfene Person ihr Verhal­ten danach ausrichten
+könne. In Hinsicht auf die in Art. 4 Abs. 1 der Covid-19-Verordnung besondere
+Lage verlangte
+Umsetzung
+, sei unbestimmt, was darunter konkret zu
+verstehen sei. Unklar sei etwa, ob bereits eine geringfügige Abweichung in
+der praktischen Anwendung oder nur ein klarer und eindeutiger Verstoss eine
+Strafbarkeit begründe, ganz abgesehen davon, dass unklar sei, wie sich eine
+Abweichung überhaupt feststellen lasse. Vorliegend führe die Vorinstanz
+selber aus, die Berufungsklägerin könne «nicht für jeden noch so kleinen
+Verstoss gegen das Schutzkonzept durch Mitarbeitende und Patienten
+verantwortlich gemacht werden», womit die Vorinstanz die Unbestimmtheit der
+Norm geradezu bestätige; es frage sich nämlich, wer denn festlege, was ein
+«marginaler Mangel» oder «noch so klei­ner Verstoss» sei und auf welche Weise
+hierbei eine Abgrenzung vorhersehbar sein solle. Es genüge dabei nicht, so
+wie es die Vorinstanz getan habe, einfach pauschal auf den behördlichen
+Überprüfungsbericht zu verweisen, weil dort auch Mängel des Schutzkonzepts
+selbst thematisiert und nur marginale Verstösse festgehalten wor­den seien.
+Im Ergebnis werde durch Art. 4 Abs. 1 der Covid-19-Verordnung beson­dere Lage
+rechtswidrig eine Pflicht konstruiert, die niemand erfüllen könne, weil ein
+allfäl­liges Fehlverhalten Dritter bzw. jede Abweichung vom theoretischen
+Schutz­konzept in der täglichen Praxis dem Betreiber (oder der
+verantwortlichen Person) zugerechnet werden könnte (act. 33 Rz. 23-35).
+4.2
+Auch diese Einwendungen gehen fehl. Art. 4 Abs. 1 der
+Covid-19-Verordnung besondere Lage schreibt vor, dass für öffentlich
+zugängliche Einrichtungen und Betriebe – erstens – ein Schutzkonzept zu
+erstellen und – zweitens – dieses auch tatsächlich umzusetzen ist. Vorliegend
+ist dem Bericht über die behördliche Kontrol­le vor Ort in der X.______-KLINIK
+am 24. Juni 2021 zu entnehmen, dass das vorhandene Schutzkonzept namentlich
+in Bezug auf die anklagegegenständlichen Punkte («Hygienevorschriften /
+Reinigung», «Besuchsregelung», «Abstand halten», «Maskenpflicht»)
+weitestgehend nicht umgesetzt wurde (act. 2/1/16). Der Bericht erweckt gar
+den Anschein, als sei in der X.______-KLINIK das Schutzkonzept als
+sinnentleertes Dokument aufgefasst worden; der Bericht macht deutlich, dass
+es an einem ernstgemeinten Bemühen zur Einhaltung von Schutzmassnah­men
+fehlte. Ein augenscheinliches Beispiel für die Geringschätzung etwa der
+Abstandsregeln ist darin zu erkennen, dass selbst im Büro der
+Berufungsklägerin gleich acht Stühle für die Durchführung von Gesprächen zur
+Verfügung standen (a.a.O., S. 4). Vor diesem Hintergrund ist es
+sophistisch, wenn der Rechtsvertreter vorliegend geltend machen will, es
+ergäbe sich aus der einschlägigen Gesetzes­norm nicht mit zureichender
+Klarheit, was unter der Umsetzung des Schutzkonzep­tes zu verstehen sei und
+kön­ne deswegen seiner Mandantin kein strafbares Verhal­ten angelastet
+werden. Im Üb­rigen kann gestützt auf Art. 82 Abs. 4 StPO mit Bezug auf die
+Unbegründetheit des in der Berufung erneut vorgetragenen Kritikpunkts der
+ungenügenden Bestimmtheit von Art. 4 Abs. 1 der Covid-19-Verordnung besondere
+Lage vollumfänglich auf die zutreffenden vorinstanzlichen Erwägungen
+verwiesen werden (act. 25 S. 14 f. E. 1.3.).
+5.
+Unbegründet ist
+ebenso der in der Berufung abschliessend vorgetragene Einwand, wonach die der
+Berufungsklägerin angelasteten (bestrittenen) Versäum­nisse nicht von deren
+Vorsatz getragen gewesen seien, womit es an der Erfüllung des subjekti­ven
+Tatbestandes fehle (act. 33 S. 11 f. Rz. 36-40). Vorliegend war der
+Berufungs­klägerin zweifelsfrei bewusst, dass sie in der X.______-KLINIK für
+die Um­setzung des Schutzkonzepts verantwortlich war (siehe dazu bereits oben
+E. 3.3.3); darüber hat sie sich wissentlich und willentlich
+hinweggesetzt (Art. 104 i.V.m. Art. 12 Abs. 2 StGB)
+6.
+Aus alldem folgt,
+dass die Berufung abzuweisen und das vor­instanzliche Urteil in allen Teilen
+zu bestätigen ist. In formaler Hinsicht freilich fällt das Obergericht ein
+neues Urteil, welches das erstinstanzliche Urteil ersetzt (Art. 408
+StPO).
+Bei diesem Ausgang
+sind die auf CHF 1‘500.- anzusetzenden Kosten des Beru­fungsverfahrens der
+Beschuldigten aufzuerlegen (Art. 428 Abs. 1 StPO in Verbin­dung mit Art. 6
+Abs. 1 und Art. 8 Abs. 1 lit. b Ziff. 2 der Zivil- und Strafprozesskos­tenverordnung
+[GS III A/5]).
+Zusätzlich ist über
+die von der Vorinstanz getroffene Kostenregelung zu be­finden (Art. 428 Abs.
+3 StPO). Erstinstanzlich sind der Beschuldigten Verfahrens­kosten von
+insgesamt CHF 1'700.- überbunden worden (act. 25 S. 27 Dispositiv-Ziff.
+3 und 4). Es ist im Lichte von Art. 6 Abs. 1 sowie Art. 7 Abs. 1 lit. b Ziff.
+3 und Art. 8 Abs. 1 lit. b Ziff. 1 der Zivil- und
+Strafprozesskostenverordnung kein sachlicher Grund ersicht­lich, welcher eine
+Änderung an dieser Kostenregelung nahelegen würde, zumal auch die
+Beschuldigte gegen die Gebüh­renbemessung keine konkreten Ein­wen­dungen
+vorgebracht hat.
+____________________
+Das
+Gericht erkennt:
+1.
+Die Beschuldigte A.______
+ist schuldig der
+Übertretung des Epidemienge­set­zes im Sinne von Art. 83 Abs. 1
+lit. j EpG in Verbindung mit Art. 6 Abs. 2
+lit. b EpG und Art. 4 Abs. 1 und Abs. 2 der
+Covid-19-Verordnung besondere Lage (Stand 19. April 2021).
+2.
+Die Beschuldigte
+wird bestraft mit einer
+Busse von CHF 1‘000.-.
+Wird die Busse
+schuldhaft nicht bezahlt, so tritt an deren Stelle eine Ersatzfrei­heitsstrafe
+von zehn Tagen.
+3.
+Die Gerichtsgebühr für das
+Berufungsverfahren wird auf CHF 1’500.- festge­setzt; sie wird zusammen mit
+den Gebühren für das vor­instanz­liche Verfah­ren und die Untersuchung von
+insgesamt CHF 1'700.- der Beschuldigten aufer­legt und von ihr bezogen.
+4.
+Schriftliche Mitteilung an:
+[...]
