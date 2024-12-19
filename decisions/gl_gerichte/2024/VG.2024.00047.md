@@ -1,0 +1,590 @@
+---
+decision_id: "gl_gerichte_VG.2024.00047"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2024.00047"
+docket_2: "VG.2025.1417"
+decided: "2024-12-19"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1896&W10_KEY=232154&nTrefferzeile=10&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/830.1/art-007.md", "switzerland/bund/acts/830.1/art-016.md", "switzerland/bund/acts/830.1/art-017.md", "switzerland/bund/acts/830.1/art-043.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.20/art-001.md", "switzerland/bund/acts/831.20/art-028.md", "switzerland/bund/acts/831.20/art-028a.md", "switzerland/bund/acts/831.20/art-069.md", "switzerland/bund/acts/831.201/art-088a.md"]
+---
+
+# GL Gerichte VG.2024.00047
+
+## Regeste
+
+Sozialversicherung - IV
+
+## Text
+
+Glarus Verwaltungsgericht 19.12.2024 VG.2024.00047 (VG.2025.1417)
+Glaris Verwaltungsgericht 19.12.2024 VG.2024.00047 (VG.2025.1417)
+Glarona Verwaltungsgericht 19.12.2024 VG.2024.00047 (VG.2025.1417)
+
+Sozialversicherung - IV
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+19. Dezember 2024
+II. Kammer
+Besetzung:
+Gerichtspräsident MLaw Colin Braun, Verwaltungsrichterin Petra Feusi Bissig,
+Verwaltungsrichter Fritz Jnglin und Gerichtsschreiberin MLaw Paula Brändli
+in Sachen
+VG.2024.00047
+A.______
+Beschwerdeführer
+vertreten durch
+MLaw
+Jacques
+Marti,
+Rechtsanwalt
+gegen
+IV-Stelle Glarus
+Beschwerdegegnerin
+betreffend
+Invalidenrente
+Die Kammer zieht in Erwägung:
+I.
+1.
+A.______, geboren am […],
+meldete sich am 3. Dezember 2018 bei der IV-Stelle Glarus zum
+Leistungsbezug an. Nach medizinischen und beruflichen Massnahmen stellte ihm
+Letztere mit Vorbescheid vom 17. August 2022 die Zusprache einer ganzen
+Rente vom 1. Juni 2019 bis zum 31. März 2021 in Aussicht. Hiergegen
+erhob A.______ Einwände. Die IV-Stelle beantwortete diese am 5. Oktober
+2023 und teilte ihm gleichzeitig mit, dass ab September 2022 eine Revision eingeleitet
+werde. Am 16. Mai 2024 hielt die IV-Stelle an der Zusprache einer
+befristeten ganzen Rente vom 1. Juni 2019 bis zum 31. März 2021
+fest.
+2.
+A.______ gelangte mit
+Beschwerde vom 20. Juni 2024 ans Verwaltungsgericht und beantragte die
+Aufhebung der Verfügung der IV-Stelle vom 16. Mai 2024; unter Kosten-
+und Entschädigungsfolgen zu Lasten der IV-Stelle sowie unter Gewährung der
+unentgeltlichen Prozessführung und der unentgeltlichen Rechtsverbeiständung.
+Die IV-Stelle schloss am 20. September 2024 auf Abweisung der
+Beschwerde. A.______ reichte am 11. Oktober 2024 weitere Unterlagen ein,
+wobei er ebenso an seinen Anträgen festhielt wie die IV-Stelle am
+4. November 2024 an den ihrigen.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 69
+Abs. 1 lit. a des Bundesgesetzes über die Invalidenversicherung vom
+19. Juni 1959 (IVG) zur Behandlung der vorliegenden Beschwerde
+zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt sind, ist auf
+die Beschwerde einzutreten.
+1.2
+Am 1. Januar 2022 trat die Änderung des IVG vom
+19. Juni 2020 (Weiterentwicklung der IV; AS 2021 705) in
+Kraft.
+Erfolgt die Verfügung über die erstmalige Rentenzusprache nach
+diesem Inkrafttreten und begründet gleichzeitig einen Rentenanspruch vor
+diesem Zeitpunkt, sind die Bestimmungen des IVG und diejenigen der
+Verordnung über die Invalidenversicherung vom
+17. Januar 1961 (IVV) indessen
+in der bis zum 31. Dezember
+2021 gültigen Fassung massgebend (Kreisschreiben über Invalidität und Rente
+in der Invalidenversicherung [KSIR] vom 1. Januar 2022, Rz. 9101).
+Vorliegend ist ein Rentenanspruch ab dem 31. März 2021 zu beurteilen,
+weshalb nach dem oben Dargelegten und den nachfolgenden Ausführungen die
+Bestimmungen des IVG und der IVV in der Fassung bis zum 31. Dezember
+2021 zur Anwendung gelangen. Die allgemeinen Grundsätze des intertemporalen
+Rechts schreiben jedoch vor, dass bei der Beurteilung des Leistungsanspruchs
+aufgrund von Gesundheitsschäden und Invalidität, die nach dem
+31. Dezember 2021 andauern, das ab dem 1. Januar 2022 in Kraft
+getretene neue Recht anzuwenden ist (BGer-Urteil 8C_435/2023 vom 27. Mai
+2024, E. 4.4).
+1.3
+1.3.1
+Die vorliegend angefochtene Verfügung der
+Beschwerdegegnerin vom 16. Mai 2024 regelt den Rentenanspruch des
+Beschwerdeführers vom 1. Juni 2019 bis zum 31. März 2021.
+Dementsprechend wäre grundsätzlich eine Verbesserung des Gesundheitszustands
+per 1. April 2021 bis zum Verfügungszeitpunkt zu prüfen. Die
+Beschwerdegegnerin hat dem Beschwerdeführer jedoch bereits am 5. Oktober
+2023 mitgeteilt, dass sie ab September 2022 eine Revision einleite. Sie
+beruft sich auch im vorliegenden Gerichtsverfahren hierauf und plädiert auf
+Nichtbeachtung der Vorbringen des Beschwerdeführers betreffend den Zeitraum
+ab September 2022. Eine Revision nach Art. 17 des Bundesgesetzes über
+den Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober 2000
+(ATSG) kann jedoch nur für die Zukunft vorgenommen werden und ist erst nach
+einer formell rechtskräftigen Rentenzusprache möglich (vgl. Thomas
+Flückiger, in Ghislaine Frésard-Fellay/Barbara Klett/Susanne Leuzinger
+[Hrsg.], Basler Kommentar ATSG, Basel 2020, Art. 17 N. 5). Eine
+solche ist vorliegend aber nicht erfolgt, weshalb der Zeitraum ab September
+2022 nicht ohne Weiteres ausser Acht gelassen bzw. erst im Rahmen der
+angekündigten Revision geprüft werden darf. Die Beschwerdegegnerin macht
+dementsprechend denn auch deutlich, dass sie den massgebenden Sachverhalt
+betreffend den Zeitraum ab 2022 als nicht abschliessend überprüft erachtet,
+weshalb eine gerichtliche Beurteilung desselben nicht möglich erscheint.
+1.3.2
+Aus dem Gesagten folgt, dass die Vorbringen der
+Beschwerdegegnerin sinngemäss als Einverständnis zur Anpassung der Verfügung
+und Rückweisung der Angelegenheit betreffend den Zeitraum ab September 2022
+auszulegen sind. Die Beschwerdegegnerin sprach dem Beschwerdeführer vom
+1. Juni 2019 bis zum 31. März 2021 sodann eine ganze Rente zu,
+womit der Anspruch bis zum 31. März 2021 unbestritten ist. Vor diesem
+Hintergrund gilt es nachfolgend deshalb einzig zu prüfen, ob die
+Beschwerdegegnerin per 1. April 2021 zu Recht von einer Verbesserung des
+Gesundheitszustands mit einer entsprechenden Rentenaufhebung bis und mit
+August 2022 ausgegangen ist. Die Vorbringen der Parteien und alle Akten
+betreffend den Zeitraum ab September 2022, sofern sie nicht relevante
+Rückschlüsse für den Zeitraum vor September 2022 zulassen (vgl. VGer-Urteil
+VG.2022.00034 vom 9. Februar 2023 E. 7), haben dabei
+unberücksichtigt zu bleiben. Nur, aber immerhin haben sie im noch folgenden
+erneuten Verwaltungsverfahren Eingang zu finden. Entsprechend erübrigt sich
+der Antrag der Beschwerdegegnerin auf Akteneinsicht in Dokumente betreffend
+diesen Zeitraum.
+2.
+2.1
+Der Beschwerdeführer macht geltend, er sei entgegen
+den Ausführungen der Beschwerdegegnerin auch über Januar 2021 hinaus in
+seiner Arbeitsfähigkeit eingeschränkt. Er leide seit Jahren unter diversen
+gesundheitlichen Problemen, unter anderem unter einer Radikulopathie, starker
+Osteochondrose sowie
+Foramenstenose
+.
+D
+ie
+Erkrankungen des Nervensystems hätten dazu geführt, dass seine Arme und Beine
+teilweise gelähmt seien. Er könne weder etwas halten noch sein Gleichgewicht
+halten und überdies nur wenige Meter am Stück ohne Pause gehen. Die genannten
+Diagnosen seien erst kürzlich anlässlich einer erneuten Operation bestätigt
+worden. Seine körperliche Belastbarkeit habe in den vergangenen Monaten
+weiter abgenommen und er sei aktuell nicht mehr imstande, grössere
+Hausarbeiten zu erledigen. Aufgrund der Problematik im Bereich der
+Halswirbelsäule sei eine weitere Operation im Juni 2024 geplant. Er sei
+ernsthaft erkrankt und es sei stossend, dass die Beschwerdegegnerin zum
+Schluss komme, dass er ab Januar 2021 in einer angepassten Tätigkeit wieder
+vollständig arbeitsfähig sei. Neben den genannten Beschwerden bestehe eine Sucht-erkrankung,
+welche durch die Behandlung der Schmerzen mit Opioiden begründet sei. Sodann
+würden eine schwere Depression und Psoriasis aufgrund der psychischen
+Belastung vorliegen. Die Unterlagen zu seinem aktuellen Gesundheitszustand
+würden den Schluss zulassen, dass er auch vor September 2022 nicht arbeits-
+bzw. wiedereingliederungsfähig gewesen sei. Die Beschwerdegegnerin habe
+den Sachverhalt gesamthaft unvollständig abgeklärt.
+2.2
+Die Beschwerdegegnerin bringt vor, die Bildgebung
+zeige im zu beurteilenden Zeitraum von April 2018 bis Ende August 2022 gemäss
+Regional Ärztlichem Dienst (RAD) mit überwiegender Wahrscheinlichkeit stabile
+Verhältnisse. Die neurochirurgische Behandlung sei in diesem Zeitraum zudem
+abgeschlossen worden. Formell hätten keine Einschränkungen für das
+Heben/Tragen bestanden und die Schmerzen seien unklarer Genese. Der
+Beschwerdeführer sei nach Angaben des Behandlers in der Lage gewesen, auch in
+einer mittelschweren Tätigkeit eine Teilarbeitsfähigkeit umzusetzen. Da eine
+solche das vom RAD festgehaltene Belastungsprofil übersteige, ergäben sich
+mit überwiegender Wahrscheinlichkeit keine funktionellen Einschränkungen,
+welche in einer angepassten Tätigkeit zu wesentlichen Einschränkungen der
+Arbeitsfähigkeit führen würden. Der Sturz mit einer Rippenfraktur im März
+2021 führe aus arbeitsmedizinischer Sicht mit überwiegender
+Wahrscheinlichkeit nicht zu einer nachhaltigen Einschränkung der
+Arbeitsfähigkeit. Dem Beschwerdeführer seien sämtliche Verweistätigkeiten
+zumutbar gewesen, sofern die Kriterien des Belastungsprofils eingehalten
+würden. Namentlich sei eine körperlich leichte, sitzende oder
+wechselbelastende Tätigkeit, mit der Möglichkeit, die Arbeitsposition
+selbständig zu wählen, ohne Zwangshaltungen für die Lendenwirbelsäule und ohne
+dauerhaftes Stehen oder Gehen möglich gewesen. Die neuen Arztberichte
+beschrieben schliesslich den aktuellen Zeitraum und nicht die
+streitbetroffene Periode.
+3.
+3.1
+Gemäss Art. 8 Abs. 1 des Bundesgesetzes
+über den Allgemeinen Teil des Sozialversicherungsrechts vom
+6. Oktober 2000
+(ATSG
+) ist Invalidität die voraussichtlich bleibende oder
+längere Zeit dauernde ganze oder teilweise Erwerbsunfähigkeit.
+Erwerbsunfähigkeit ist dabei der durch eine Beeinträchtigung der
+körperlichen, geistigen oder psychischen Gesundheit verursachte und nach
+zumutbarer Behandlung sowie Eingliederung verbleibende ganze oder teilweise
+Verlust der Erwerbsmöglichkeiten auf dem in Betracht kommenden ausgeglichenen
+Arbeitsmarkt (Art. 7 Abs. 1 ATSG).
+3.2
+Nach
+Art. 28 Abs. 2 IVG besteht bei einem
+Invaliditätsgrad von mindestens 40 % Anspruch auf eine Viertelsrente,
+bei einem solchen von mindestens 50 % auf eine halbe Rente, bei
+mindestens 60 % auf eine Dreiviertelsrente und ab mindestens 70 %
+auf eine ganze Rente. Gemäss Art. 28a Abs. 1 IVG i.V.m.
+Art. 16 ATSG ist für
+die
+Bestimmung des Invaliditätsgrads bei erwerbstätigen Versicherten das
+Erwerbseinkommen, das sie nach Eintritt der Invalidität und nach Durchführung
+der medizinischen Behandlung und allfälligen Eingliederungsmassnahmen durch
+eine ihr zumutbare Tätigkeit bei ausgeglichener Arbeitsmarktlage erzielen
+könnte, dem Erwerbseinkommen gegenüberzustellen, das sie erzielen könnte,
+wenn sie nicht invalid geworden wäre.
+3.3
+Bei rückwirkender Zusprechung einer abgestuften oder
+befristeten Invalidenrente sind die für die Rentenrevision geltenden
+Art. 17 Abs. 1 ATSG und Art. 88a IVV über die Änderung des
+Leistungsanspruchs bei einer Verbesserung oder Verschlechterung der
+Erwerbsfähigkeit analog anzuwenden, weil noch vor Erlass der ersten
+Rentenverfügung eine anspruchsbeeinflussende Änderung eingetreten ist. Dabei
+ist gemäss Art. 88a Abs. 1 IVV eine Verbesserung der
+Erwerbsfähigkeit für die Herabsetzung oder Aufhebung der Rente von dem
+Zeitpunkt an zu berücksichtigen, in dem angenommen werden kann, dass sie
+voraussichtlich längere Zeit dauern wird. Sie ist in jedem Fall zu
+berücksichtigen, nachdem sie ohne wesentliche Unterbrechung drei Monate
+gedauert hat und voraussichtlich weiterhin andauern wird (vgl. zum Ganzen
+BGer-Urteil 9C_687/2018 vom 16. Mai 2019 E. 2, mit Hinweisen).
+Ändert sich der Invaliditätsgrad eines Versicherten erheblich, so wird die
+Rente von Amtes wegen oder auf Gesuch hin für die Zukunft erhöht,
+herabgesetzt oder aufgehoben (Art. 17 ATSG). Anlass zur Rentenrevision
+gibt jede wesentliche Änderung in den tatsächlichen Verhältnissen, die
+geeignet ist, den Invaliditätsgrad und damit den Rentenanspruch zu
+beeinflussen. Eine Veränderung der gesundheitlichen Verhältnisse liegt unter
+anderem auch bei gleich gebliebener Diagnose vor, wenn sich ein Leiden in
+seiner Intensität und in seinen Auswirkungen auf die Arbeitsfähigkeit
+verändert hat (BGer-Urteil 8C_339/2015 vom 25. August 2015 E. 3.1).
+Dagegen stellt eine bloss unterschiedliche Beurteilung der Auswirkungen eines
+im wesentlich gleich gebliebenen Gesundheitszustands auf die Arbeitsfähigkeit
+für sich allein genommen keinen Revisionsgrund dar.
+4.
+4.1
+N
+ach
+dem für das gesamte Verwaltungs- und Verwaltungsgerichtsbeschwerdeverfahren
+geltenden Grundsatz der freien Beweiswürdigung haben Versicherungsträger und
+Sozialversicherungsgerichte die Beweise frei, d.h. ohne Bindung an förmliche
+Beweisregeln, sowie umfassend und pflichtgemäss zu würdigen. Für das
+Beschwerdeverfahren bedeutet dies, dass das Gericht alle Beweismittel, unabhängig
+davon, von wem sie stammen, objektiv zu prüfen und danach zu entscheiden hat,
+ob die verfügbaren Unterlagen eine zuverlässige Beurteilung des streitigen
+Rechtsanspruchs
+gestatten.
+Insbesondere
+darf es bei einander widersprechenden medizinischen Berichten den Prozess
+nicht erledigen, ohne das gesamte Beweismaterial zu würdigen und die Gründe
+anzugeben, warum es auf die eine und nicht auf die andere medizinische These
+abstellt (BGE 125 V 351 E. 3a). Im
+Sozialversicherungsrecht hat das Gericht seinen Entscheid nach dem Beweisgrad
+der überwiegenden Wahrscheinlichkeit zu fällen. Die blosse Möglichkeit eines
+bestimmten Sachverhalts genügt den Beweisanforderungen nicht. Das Gericht hat
+vielmehr jener Sachverhaltsdarstellung zu folgen, die es von allen möglichen
+Geschehensabläufen als die wahrscheinlichste würdigt
+(BGE 119 V 7 E. 3c/aa, mit Hinweisen).
+4.2
+Es ist Aufgabe der Ärztin oder des
+Arztes, sämtliche Auswirkungen einer Krankheit oder eines Unfalls auf den
+Gesundheitszustand der versicherten Person zu beurteilen und dazu Stellung zu
+nehmen, bezüglich welcher konkreten Tätigkeiten und in welchem Umfang sie
+arbeitsunfähig ist. Die ärztlichen Auskünfte sind sodann eine wichtige
+Grundlage für die Beurteilung der Frage, welche Arbeitsleistungen der versicherten
+Person im Hinblick auf ihre persönlichen Verhältnisse noch zugemutet werden
+können (vgl. BGE 132
+V 93
+E. 4).
+4.3
+Berichten und Gutachten
+versicherungsinterner Ärztinnen und Ärzte kommt Beweiswert zu, sofern sie als
+schlüssig erscheinen, nachvollziehbar begründet sowie in sich
+widerspruchsfrei sind und keine Indizien gegen ihre Zuverlässigkeit bestehen.
+Die Tatsache allein, dass sie in einem Anstellungsverhältnis zum
+Versicherungsträger stehen, lässt nicht schon auf mangelnde Objektivität und
+auf Befangenheit schliessen. Es bedarf vielmehr besonderer Umstände, welche
+das Misstrauen in die Unparteilichkeit der Beurteilung objektiv als begründet
+erscheinen lassen (BGE 125 V 351 E. 3b/ee). S
+oll ein Versicherungsfall ohne Einholung eines
+externen Gutachtens entschieden werden, so sind an die Beweiswürdigung
+strenge Anforderungen zu stellen. Bestehen auch nur geringe Zweifel in
+Hinblick auf die Zuverlässigkeit und Schlüssigkeit einer
+versicherungsinternen ärztlichen Feststellung, so sind ergänzende Abklärungen
+mittels unabhängiger Begutachtung vorzunehmen (BGE 135 V 465
+E. 4.4). Im Verzicht auf weitere Sachverhaltsabklärungen liegt dann
+keine Verletzung des Anspruchs auf rechtliches Gehör vor, wenn die im Rahmen
+des Untersuchungsgrundsatzes von Amtes wegen vorzunehmenden Abklärungen den
+Versicherungsträger oder das Gericht bei umfassender, sorgfältiger,
+objektiver und inhaltsbezogener Beweiswürdigung (BGE 132 V 393
+E. 4.1) zur Überzeugung führen, ein bestimmter Sachverhalt sei als überwiegend
+wahrscheinlich (BGE 126 V 353 E. 5b) zu betrachten und es
+könnten weitere Beweismassnahmen an diesem feststehenden Ergebnis nichts mehr
+ändern (antizipierte Beweiswürdigung; BGE 136 I 229
+E. 5.3).
+5.
+5.1
+5.1.1
+PD
+Dr. med. B.______, Chefarzt Neurochirurgie
+am Spital C.______, hielt am 11. März 2021 den Status nach mehreren
+Rückenoperationen fest. Der Beschwerdeführer habe berichtet, dass es seit der
+letzten Konsultation vom August 2020 gut gegangen sei. Seit ein paar Wochen
+seien die Schmerzen jedoch wieder relativ stark. Rechtsseitig sei es zu einer
+Zunahme der Lumboischialgie gekommen, was am ehesten durch ein ISG-Syndrom
+verursacht sei. Es werde deshalb eine Infiltration durchgeführt. Am
+17. Juni 2021 hielt Dr. B.______ sodann zusätzlich den Status nach
+ISG-Infiltration fest. Der Beschwerdeführer berichte weiterhin über
+Schmerzen. Es zeige sich ein vornübergebeugtes, schmerzbedingt hinkendes
+Gangbild. Es bestehe eine Lumboischialgie, wobei zur Abklärung der Schmerzen
+weitere Tests durchgeführt würden. Bezüglich Schmerzmitteln sei an die
+Hausärztin zu verweisen. Gegebenenfalls sei eine stationäre Rehabilitation zu
+empfehlen. Bis Ende September bestehe eine volle Arbeitsunfähigkeit. Am
+29. Juli 2021 wiederholte Dr. B.______ die Diagnose einer
+Lumboischialgie und fügte zusätzlich eine Zervikobrachialgie an. Ein
+stationärer Reha-Aufenthalt sei erneut zu prüfen.
+5.1.2
+Am 20. Januar 2022 hielt Dr. B.______
+fest, der Reha-Aufenthalt habe nicht durchgeführt werden können. Die
+Lumboischialgie bestehe weiterhin, er könne jedoch keine spezifische
+interventionelle Therapie anbieten. Der Beschwerdeführer solle nochmals eine
+Physiotherapie versuchen. Vom 1. Januar 2022 bis zum 31. März 2022
+bestehe eine 80%ige Arbeitsunfähigkeit. Am 11. Februar 2022 gab Dr. B.______
+gegenüber der Beschwerdegegnerin sodann an, bei belastungs- und
+positionsabhängigen Schmerzen im Rücken und den Beinen liege weiterhin eine
+rechtsseitige Lumboischialgie vor. Formell bestünden jedoch keine
+Einschränkungen für das Heben und Tragen von Lasten. Er vermute, dass der
+Beschwerdeführer zwei bis drei Stunden pro Tag eine mittelschwere körperliche
+Arbeit durchführen könne. Es bestehe eine Arbeitsunfähigkeit von 80 %,
+wobei die Prognose nicht sehr gut sei. Vom 1. Januar 2022 bis
+31. März 2022 bestehe eine 80%ige und vom 1. April bis
+31. Dezember 2022 eine volle Arbeitsunfähigkeit. Am 1. September
+2022 wiederholte Dr. B.______ die gestellten Diagnosen. Die Schmerzen
+hätten wieder zugenommen und es würden erneut Tests durchgeführt. Der Beschwerdeführer
+solle zusätzlich psychiatrische Hilfe in Anspruch nehmen. Am
+22. September 2022 gab Dr. B.______ an, die aktuelle
+Computertomographie-Untersuchung zeige keine Hinweise für eine
+Schraubenlockerung oder lmplantatversagen, weshalb weder eine Infiltration
+noch eine Re-Operation in Frage komme. Bezüglich den Sensibilitätsstörungen
+in der linken Hand könne es sich um Carpaltunnelsyndrom handeln. Eine
+radikuläre Symptomatik sei nicht ausgeschlossen.
+5.2
+Dr. med. D.______, Fachärztin Allgemeine Innere
+Medizin, attestierte dem Beschwerdeführer am 28. Juni 2021 eine volle
+Arbeitsunfähigkeit vom 15. April bis 30. Juni 2021 und eine 80%ige
+Arbeitsunfähigkeit vom 1. Juli 2021 bis am 20. Dezember 2021. Am
+18. August 2021 gab sie gegenüber der Beschwerdegegnerin an, der
+Beschwerdeführer komme etwa alle zwei bis drei Monate zur hausärztlichen
+Kontrolle. Es bestehe eine Rückenproblematik seit 2018 mit mehreren
+Rückenoperationen und Infiltrationen. Nach wie vor bestünden starke
+Rückenschmerzen mit Ausstrahlung, aktuell vor allem ins linke Bein.
+Betreffend Arbeitsunfähigkeit sei der behandelnde Neurochirurg anzufragen.
+Sie selbst könne keine klare Prognose stellen. Es werde jedoch ein
+stationärer Reha-Aufenthalt geprüft.
+5.3
+5.3.1
+Pract. med. E.______, Facharzt für Arbeitsmedizin
+des RAD, hielt am 12. November 2021 fest, aufgrund der diversen
+Operationen, den entsprechenden Rehabilitationszeiten sowie Nachbehandlungen
+sei von 2018 bis 2020 von einer vollen Arbeitsunfähigkeit in der bisherigen
+und in angepassten Tätigkeiten auszugehen. Es scheine weiterhin ein
+instabiler Gesundheitszustand zu bestehen und der Beschwerdeführer befinde
+sich weiterhin in Behandlung. Eine aktuelle Einschätzung zur Arbeitsfähigkeit
+durch den behandelnden Arzt liege nicht vor. Die bisherige Tätigkeit sei für den
+Beschwerdeführer weiterhin und mit überwiegender Wahrscheinlichkeit auch in
+Zukunft nicht mehr geeignet. Detailliertere Angaben zur Arbeitsfähigkeit in
+einer angepassten Tätigkeit seien anhand der medizinischen Berichte nicht
+möglich. Es seien weitere Informationen einzuholen.
+5.3.2
+Am 29. Juli 2022 führte pract. med. E.______
+aus, es bestünden belastungs- und positionsabhängige Schmerzen im Rücken und
+in den Beinen. Diese könnten aus medizinischer Sicht jedoch nicht ganz klar
+eingeordnet werden. Formell bestünden keine Einschränkungen für das Heben und
+Tragen von Lasten. In einer körperlich leichten, sitzenden oder
+wechselbelastenden Tätigkeit, mit der Möglichkeit die Arbeitsposition
+selbstständig zu wählen, ohne Zwangshaltungen für die Lendenwirbelsäule und
+dauerhaft stehende/gehende Tätigkeiten, sei spätestens seit Januar 2021 von
+einer vollständigen Arbeitsfähigkeit auszugehen. Dabei handle es sich um eine
+medizin-theoretische Einschätzung, abweichend zur aktuellen Einschätzung des
+behandelnden Arztes. Der Sturz mit einer Rippenfraktur vom März 2021 vermöge
+dabei nicht zu einer nachhaltigen Einschränkung der Arbeitsfähigkeit zu
+führen. Die Arbeitsfähigkeitsschätzung sei abgeleitet aus den Einschränkungen
+und dem stabilen objektivierbaren Gesundheitszustand. Die Bildgebung zeige
+stabile Verhältnisse. Die neurochirurgische Behandlung sei abgeschlossen. Der
+Beschwerdeführer sei in der Lage, auch in einer mittelschweren Tätigkeit eine
+Arbeitsfähigkeit umzusetzen, wozu auch auf den Bericht von Dr. B.______
+vom 11. Februar 2022 zu verweisen sei. Eine solche Tätigkeit übersteige
+deutlich das formulierte Belastungsprofil. Wenn eine mittelschwere Tätigkeit
+in Teilzeit möglich sei, ergäben sich aus arbeitsmedizinischer Sicht keine
+funktionellen Einschränkungen, welche in einer ideal angepassten Tätigkeit zu
+wesentlichen Einschränkungen der Arbeitsfähigkeit führen würden. Am
+13. Oktober 2022 hielt pract. med. E.______ an seiner
+bisherigen Einschätzung grundsätzlich fest. Ab September 2022 sei angesichts
+der weiteren eingereichten Unterlagen jedoch eine Veränderung des
+Gesundheitszustands möglich. Dies sei zu prüfen.
+6.
+6.1
+Die Beschwerdegegnerin sprach dem Beschwerdeführer
+aufgrund der Beurteilung von pract. med. E.______ eine ganze Rente
+vom 1. Juni 2019 bis zum 31. März 2021 zu. Dabei stützte sie sich
+hauptsächlich darauf, dass wegen der mehrfachen Rückenoperationen eine volle
+Arbeitsunfähigkeit bestanden habe. Ab Ende 2020 habe sich der
+Gesundheitszustand jedoch genügend verbessert, damit der Beschwerdeführer in
+einer angepassten Tätigkeit wieder voll einsetzbar sei. Demgegenüber liegen
+für den Zeitraum vom Januar 2021 bzw. März 2021 bis August 2022 Berichte der
+behandelnden Ärztinnen und Ärzte im Recht, welche die Rückenproblematik nicht
+als abgeschlossen erachteten. So gingen weder Dr. D.______ noch
+Dr. B.______ davon aus, dass im Dezember 2020 eine derart signifikante
+Verbesserung eingetreten sei. Vielmehr hielten sie weiterhin bestehende
+Arbeitsunfähigkeiten fest. Zwar führten sie dabei nicht mit aller Klarheit
+aus, ob dies auch für eine angepasste Tätigkeit Geltung habe. Wenn jedoch
+bereits die Verbesserung des Gesundheitszustands nicht genügend nachgewiesen
+ist, erweist sich die Annahme der Beschwerdegegnerin, wonach in einer
+angepassten Tätigkeit bis Dezember 2020 eine volle Arbeitsunfähigkeit und ab
+Januar 2021 sogleich eine volle Arbeitsfähigkeit bestehe, im Ergebnis als
+nicht nachvollziehbar.
+6.2
+Der RAD hielt im November 2021 und damit während der
+streitbetroffenen Phase sodann selbst fest, dass der Gesundheitszustand
+weiterhin instabil und die Arbeitsunfähigkeit in angepassten Tätigkeiten
+unklar sei. Diese Einschätzung revidierte er daraufhin unter Bezugnahme auf
+eine Einschätzung von Dr. B.______ vom Februar 2022, wonach der
+Beschwerdeführer auch in einer mittelschweren Tätigkeit eine Arbeitsfähigkeit
+umsetzen könne. Dabei gibt er die Ansicht von Dr. B.______ aber
+lediglich verkürzt wieder. Denn Letzterer legte zwar dar, dass aus formeller
+Sicht keine Einschränkungen beim Heben sowie Tragen bestünden und eine
+mittelschwere Tätigkeit für zwei bis drei Stunden pro Tag möglich sein
+könnte. Gleichzeitig attestierte er aber eine Arbeitsunfähigkeit von
+80 %, was die vorgängige Einschätzung einer wiedererlangten
+Arbeitsfähigkeit relativiert. Darüber hinaus hat der RAD von einer
+Möglichkeit einer mittelschweren Tätigkeit von zwei bis drei Stunden pro Tag
+auf eine volle Arbeitsfähigkeit in einer angepassten und damit einer
+leichteren Tätigkeit entsprechend dem Belastungsprofil geschlossen. Dies
+erscheint nicht ohne Weiteres plausibel, da für eine solche Schlussfolgerung
+nämlich zunächst dargelegt werden müsste, dass und inwiefern die zeitliche
+Beschränkung mit der Schwere der Arbeit im Zusammenhang steht, was vorliegend
+zumindest nicht offensichtlich ist.
+6.3
+Aus dem Gesagten folgt, dass eine Verbesserung des
+Gesundheitszustands des Beschwerdeführers ab Ende 2020 bis August 2022 im
+Sinne einer vollständigen Arbeitsfähigkeit nicht mit überwiegender
+Wahrscheinlichkeit ausgewiesen ist, wofür letztlich auch die Rückmeldung aus
+der beruflichen Massnahme vom Frühling 2021 spricht. Aufgrund der
+vorliegenden Akten ist auch nicht abschliessend erstellt, welches
+Arbeitspensum dem Beschwerdeführer in einer angepassten Tätigkeit noch
+möglich gewesen wäre. Zumindest aus der Bildgebung ergaben sich nämlich
+offenbar keine negativen Nachwirkungen der letzten Operation, womit weitere
+Untersuchungen angezeigt erscheinen.
+Die Beschwerdegegnerin hat den
+massgebenden Sachverhalt somit insgesamt nur ungenügend abgeklärt, wodurch sie
+die
+ihr obliegende Untersuchungspflicht
+verletzt hat (vgl. Art. 43 Abs. 1 ATSG).
+7.
+7.1
+Die Sozialversicherungsgerichte können nicht mehr
+frei entscheiden, ob sie eine Streitsache zur neuen Begutachtung an die
+Verwaltung zurückweisen. Die Beschwerdeinstanz hat vielmehr im Regelfall
+selbst ein Gerichtsgutachten einzuholen, wenn sie einen im
+Verwaltungsverfahren anderweitig erhobenen Sachverhalt überhaupt für
+gutachterlich abklärungsbedürftig hält oder wenn ein Administrativgutachten
+in einem rechtserheblichen Punkt nicht beweiskräftig ist. Eine Rückweisung an
+die Vorinstanz bleibt hingegen möglich, wenn sie allein in der notwendigen
+Erhebung einer bisher vollständig ungeklärten Frage begründet ist oder wenn
+lediglich eine Klarstellung, Präzisierung oder Ergänzung von gutachterlichen
+Ausführungen erforderlich ist (BGE 137 V 210
+E. 4.4.1 ff.).
+7.2
+Da vorliegend die Angelegenheit für die Phase vom
+September 2022 bis Mai 2024 ohnehin durch die Beschwerdegegnerin noch zu
+beurteilen ist (vgl. obenstehende E. II/1.3) und es die
+Beschwerdegegnerin hinsichtlich der Rentenaufhebung per 1. April 2021
+gänzlich unterlassen hat, den massgebenden Sachverhalt rechtsgenüglich
+abzuklären, erscheint es geboten und zulässig, die Sache zur Klärung der
+offenen Fragen an die Beschwerdegegnerin zurückzuweisen, zumal es nicht
+Aufgabe des kantonalen Sozialversicherungsgerichts sein kann, im
+Verwaltungsverfahren versäumte medizinische Abklärungen zu veranlassen. Sie
+wird dabei den Gesundheitszustand des Beschwerdeführers umfassend abzuklären
+haben. Sollte sie dabei zum Schluss kommen, dass ein Rentenanspruch über den
+1. Januar 2022 besteht, hat sie diesbezüglich sodann die Rechtsprechung
+zum intertemporalen Recht zu beachten (vgl. BGer-Urteil 8C_104/2024 vom
+22. Oktober 2024 E. 2.2).
+Dies führt zur teilweisen
+Gutheissung der Beschwerde. Die Verfügung der Beschwerdegegnerin
+vom 16. Mai 2024
+ist aufzuheben und die Sache ist im Sinne der Erwägungen an diese
+zurückzuweisen.
+III.
+1.
+Nach Art. 134 Abs. 1 lit.
+c VRG i.V.m. Art. 69 Abs. 1bis IVG hat die Partei, welche im
+Beschwerdeverfahren unterliegt, die amtlichen Kosten zu tragen. Als Obsiegen
+gilt hinsichtlich der Kosten- und Entschädigungsfolge auch die Rückweisung
+der Sache an den Versicherungsträger mit offenem Ausgang (Ueli Kieser,
+ATSG-Kommentar, 4. A., Zürich/Basel/Genf 2020, Art. 61
+N. 224). Die Gerichtskosten von pauschal Fr. 700.- sind
+dementsprechend der Beschwerdegegnerin aufzuerlegen. Letztere ist überdies zu
+verpflichten, dem Beschwerdeführer eine angemessene Parteientschädigung in
+der Höhe von pauschal Fr. 1
+'
+500.- (inkl. Mehrwertsteuer) zu bezahlen
+(Art. 1 Abs. 1 IVG i.V.m. Art. 61 lit. g ATSG e
+contrario).
+2.
+2.1
+Der Beschwerdeführer beantragt die Gewährung der
+unentgeltlichen Prozessführung. Gemäss Art. 139 Abs. 1
+des
+Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986 (VRG)
+befreit die Behörde eine Partei, der die Mittel
+fehlen, um neben dem Lebensunterhalt für sich und ihre Familie die
+Verfahrenskosten aufzubringen, auf Gesuch hin ganz oder teilweise von der
+Kosten- und Vorschusspflicht, sofern das Verfahren nicht aussichtslos ist.
+Unter denselben Voraussetzungen weist sie der Partei auf Gesuch hin oder von
+Amtes wegen einen Anwalt als Rechtsbeistand zu, sofern ein solcher für die
+gehörige Interessenwahrung erforderlich ist (Art. 139 Abs. 2 VRG).
+Der Nachweis der Bedürftigkeit obliegt der gesuchstellenden Partei
+(Art. 139 Abs. 3 VRG).
+2.2
+Da die Gerichtskosten der Beschwerdegegnerin
+aufzuerlegen sind, ist das Gesuch des Beschwerdeführers um Gewährung der
+unentgeltlichen Prozessführung als gegenstandslos geworden abzuschreiben.
+2.3
+Die Mittellosigkeit des Beschwerdeführers erscheint
+aufgrund der Aktenlage als offensichtlich. Das vorliegende Verfahren kann
+überdies nicht als aussichtslos bezeichnet werden. Da der Beschwerdeführer
+sodann auf eine rechtliche Vertretung angewiesen war, ist das Gesuch um
+unentgeltliche Rechtsverbeiständung gutzuheissen und ihm ist in der Person
+von Rechtsanwalt MLaw Jacques Marti ein unentgeltlicher Rechtsbeistand zu
+bestellen. Dieser ist mit Fr. 1'500.- (inkl. Auslagen und
+Mehrwertsteuer) zu entschädigen. Daran anzurechnen ist die
+Parteientschädigung seitens der Beschwerdegegnerin in gleicher Höhe.
+3.
+Gegen diesen Entscheid
+steht die Beschwerde in öffentlich-rechtlichen Angelegenheiten ans
+Bundesgericht nur nach Massgabe von Art. 93 Abs. 1 des
+Bundesgerichtsgesetzes vom 17. Juni 2005 (BGG) offen.
+Demgemäss beschliesst die Kammer
+:
+1.
+Das
+Gesuch des Beschwerdeführers um Gewährung der unentgeltlichen
+Prozessführung wird als gegenstandslos geworden abgeschrieben.
+2.
+Das
+Gesuch des Beschwerdeführers um Gewährung der unentgeltlichen
+Rechtsverbeiständung wird gutgeheissen. Ihm wird in der Person von
+Rechtsanwalt MLaw
+Jacques
+Marti e
+in unentgeltlicher
+Rechtsbeistand bestellt.
+3.
+Der Rechtsbeistand wird zu
+Lasten der Gerichtskasse mit Fr. 1'500.- (inkl. Auslagen und
+Mehrwertsteuer) entschädigt. Daran angerechnet wird die Parteientschädigung
+seitens der Beschwerdegegnerin in gleicher Höhe.
+und erkennt sodann
+:
+1.
+Die
+Beschwerde wird teilweise gutgeheissen. Die Verfügung der
+Beschwerdegegnerin vom 16. Mai 2024 wird aufgehoben und die Sache im
+Sinne der Erwägungen an diese zurückgewiesen.
+2.
+Die
+Gerichtskosten von Fr. 700.- werden der Beschwerdegegnerin auferlegt.
+3.
+Die
+Beschwerdegegnerin wird verpflichtet, dem Beschwerdeführer innert
+30 Tagen nach Rechtskraft dieses Entscheids eine Parteientschädigung
+von Fr. 1
+'
+500.- (inkl. Mehrwertsteuer) zu bezahlen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
