@@ -1,0 +1,1163 @@
+---
+decision_id: "gl_gerichte_VG.2024.00021"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2024.00021"
+docket_2: "VG.2025.1419"
+decided: "2025-01-16"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1902&W10_KEY=232154&nTrefferzeile=8&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/210/art-273.md", "switzerland/bund/acts/210/art-307.md", "switzerland/bund/acts/210/art-308.md", "switzerland/bund/acts/210/art-310.md", "switzerland/bund/acts/210/art-311.md", "switzerland/bund/acts/210/art-313.md", "switzerland/bund/acts/210/art-327a.md", "switzerland/bund/acts/210/art-327c.md", "switzerland/bund/acts/210/art-400.md", "switzerland/bund/acts/210/art-401.md", "switzerland/bund/acts/210/art-403.md", "switzerland/bund/acts/210/art-450.md", "switzerland/bund/acts/210/art-450a.md"]
+---
+
+# GL Gerichte VG.2024.00021
+
+## Regeste
+
+Fürsorge/Vormundschaftswesen
+
+## Text
+
+Glarus Verwaltungsgericht 16.01.2025 VG.2024.00021 (VG.2025.1419)
+Glaris Verwaltungsgericht 16.01.2025 VG.2024.00021 (VG.2025.1419)
+Glarona Verwaltungsgericht 16.01.2025 VG.2024.00021 (VG.2025.1419)
+
+Fürsorge/Vormundschaftswesen
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+16. Januar 2025
+I. Kammer
+Besetzung:
+Gerichtspräsident MLaw Colin Braun, Verwaltungsrichter Ernst Luchsinger,
+Verwaltungsrichter Patrik Noser und Gerichtsschreiberin MLaw Leonora Muji
+in Sachen
+VG.2024.00021/VG.2024.00026/VG.2024.00028
+1.1 AA.______
+Beschwerdeführer
+1.2 AB.______
+beide vertreten durch
+lic.
+iur.
+Nicole
+Gierer Zelezen,
+Rechtsanwältin
+2.    B.______
+vertreten durch
+MLaw
+Jacques
+Marti,
+Rechtsanwalt
+3.    C.______
+vertreten durch
+MLaw
+Corina
+Göldi, Rechtsanwältin
+gegen
+Kindes- und
+Erwachsenenschutzbehörde
+Beschwerdegegnerin
+des Kantons Glarus
+sowie
+1.
+D.______
+Beigeladene
+2.    E.______
+beide vertreten durch
+lic.
+iur.
+Barbara
+Merz Feitknecht,
+Rechtsanwältin
+betreffend
+elterliche
+Sorge/Kindesschutzmassnahmen
+Die Kammer zieht in Erwägung:
+I.
+1.
+Die Kindes- und
+Erwachsenenschutzbehörde des Kantons Glarus (KESB) entzog B.______ und
+C.______, den Eltern von D.______ und E.______, am 28. Februar 2024
+gestützt auf Art. 311 Abs. 1 des Schweizerischen Zivilgesetzbuchs
+vom 10. Dezember 1907 (ZGB) die elterliche Sorge, nachdem diese der
+vorsätzlichen Tötung und mehrfachen Körperverletzung der Halbschwester von D.______
+und E.______, F.______sel., verdächtigt wurden. Gleichzeitig errichtete sie
+für D.______ und E.______ eine Vormundschaft und brachte sie bei einer
+Pflegefamilie unter.
+2.
+2.1
+Dagegen gelangten
+AA.______ und AB.______, die Grosseltern von
+D.______
+und E.______
+, am 9. April 2024 ans
+Verwaltungsgericht und beantragten
+die Aufhebung der
+Disp.-Ziffn. 6, 8 f. sowie 13 f. der Beschlüsse der KESB vom
+28. Februar 2024. D.______ und E.______ seien bei ihnen zu platzieren
+und unter ihre Vormundschaft, Obhut und Sorge zu stellen. Eventualiter sei
+das Besuchsrecht auf jedes Wochenende (Freitagnachmittag bis Sonntagabend)
+und das Ferienrecht spätestens ab Schuleintritt auf 13 Wochen pro Jahr
+auszudehnen; unter Kosten- und Entschädigungsfolge zu Lasten der KESB
+(Verfahren VG.2024.00021).
+2.2
+B.______ erhob am
+15. April 2024 ebenfalls Beschwerde beim Verwaltungsgericht und
+beantragte die Aufhebung der Disp.-Ziffn. 3 und 10 der Beschlüsse der
+KESB vom 28. Februar 2024. Die KESB sei zu verpflichten, ihr
+mitzuteilen, welche Therapien sie zu besuchen habe, wobei ihr ein
+wöchentliches begleitetes Besuchsrecht von vier Stunden zuzusprechen sei;
+unter Kosten- und Entschädigungsfolge zu Lasten der KESB sowie unter Gewährung
+der unentgeltlichen Prozessführung und der unentgeltlichen
+Rechtsverbeiständung (Verfahren VG.2024.00026). In prozessualer Hinsicht
+ersuchte sie um Vereinigung der Verfahren.
+2.3
+Schliesslich gelangte
+C.______ mit Beschwerde vom 16. April 2024 ans Verwaltungsgericht und
+beantragte die Aufhebung der Disp.-Ziffn. 5-7, 13-15 sowie 19-21
+bzw. die Abänderung der Disp.-Ziffn. 4, 4a, 8 f., 9a,
+11 f. der Beschlüsse der KESB vom 28. Februar 2024; unter Kosten-
+und Entschädigungsfolge zu Lasten des Kantons Glarus sowie unter Gewährung
+der unentgeltlichen Prozessführung und der unentgeltlichen
+Rechtsverbeiständung (Verfahren VG.2024.00028).
+2.4
+Die KESB schloss am 10. Mai 2024 auf Abweisung
+der Beschwerden; unter Kosten- und Entschädigungsfolgen. Prozessual beantragte
+sie die Vereinigung der Verfahren VG.2024.00021, VG.2024.00026 und
+VG.2024.00028. Am 23. Mai 2024 schloss die vom Verwaltungsgericht für
+D.______ und E.______ eingesetzte Kindesvertreterin ebenfalls auf Abweisung
+der Beschwerden; unter Kosten- und Entschädigungsfolgen zu Lasten von
+AA.______, AB.______, B.______ sowie C.______.
+2.5
+Am 24. Mai 2024 gab das Verwaltungsgericht den Parteien Gelegenheit,
+zur beantragten Verfahrensvereinigung Stellung zu nehmen. Am 29. Mai
+2024 bzw. am 31. Mai 2024 stimmten
+AA.______
+und AB.______ sowie B.______ der Verfahrensvereinigung zu. C.______ liess
+sich innert Frist nicht vernehmen. In der Folge vereinigte das
+Verwaltungsgericht am 6. Juni 2024 die Verfahren VG.2024.00021,
+VG.2024.00026 sowie VG.2024.00028 und gab den Parteien Gelegenheit zur
+freigestellten Stellungnahme.
+3.
+3.1
+Die Kindsvertreterin reichte am 20. Juni 2024 eine Stellungnahme ein,
+worin sie um Einholung aktueller Berichte bei der Vormundsperson G.______,
+der Pflegefamilie H.______ sowie der Besuchsrechtsbegleitung I.______
+ersuchte. Überdies nahmen
+AA.______ und
+AB.______
+am 25. Juni 2024 sowie B.______
+und C.______
+am 26. Juni 2024 Stellung. Antragsgemäss
+holte das Gericht daraufhin Berichte über die aktuelle Situation von D.______
+und E.______ sowie über die optimale Ausgestaltung des Besuchsrechts bei den
+sozialpädagogischen Fachpersonen ein, welche am 23. August 2024, am
+16. September 2024 sowie am 27. September 2024 erstattet wurden.
+3.2
+B.______ liess sich in der Folge am 15. Oktober 2024 erneut vernehmen
+und sowohl
+AA.______ und AB.______
+als
+auch C.______ reichten am 21. Oktober 2024 eine Stellungnahme ein. Die
+Kindsvertreterin äusserte sich am 29. Oktober 2024. Die KESB verzichtete
+am 10. Oktober 2024 auf eine Vernehmlassung.
+3.3
+AA.______ und AB.______, B.______ und C.______
+nahmen am 5. November 2024 bzw. am 8. November 2024
+erneut Stellung. Am 18. November 2024 wiesen AA.______ und AB.______ auf
+die aktuelle Situation der Kinder hin.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss
+Art. 105 Abs. 1 lit. d des Gesetzes über die
+Verwaltungsrechtspflege vom 4. Mai 1986 (VRG) i.V.m. Art. 450
+Abs. 1
+ZGB i.V.m.
+Art. 67 des
+Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuchs im Kanton
+Glarus vom 7. Mai 1911 (EG ZGB) zur Behandlung der vorliegenden
+Beschwerde zuständig. Da auch die übrigen Prozessvoraussetzungen erfüllt
+sind, ist auf die Beschwerden einzutreten.
+1.2
+Dem Verwaltungsgericht kommt gemäss
+Art. 107 Abs. 2 lit. f VRG i.V.m. Art. 450a Abs. 1
+ZGB volle Kognition zu, das heisst, es überprüft die angefochtenen Beschlüsse
+auch auf ihre Angemessenheit.
+2.
+2.1
+Die Beschwerdeführer 1 machen geltend, eine
+Rückplatzierung der Beigeladenen zu ihren Eltern sei derzeit nicht möglich
+und eine Fremdplatzierung sei dementsprechend unumgänglich. Vor diesem
+Hintergrund gebe es weder aus fachlicher noch aus persönlicher Sicht Gründe,
+welche gegen die Ausübung der Vormundschaft durch sie, die Grosseltern,
+sprechen würden. Sie würden die Vorlieben und Bedürfnisse der Beigeladenen
+aufgrund der grossen persönlichen Bindung sehr gut kennen. Allfälligen
+Loyalitätskonflikten könne mit milderen Massnahmen, wie der Errichtung einer
+Besuchs- oder Prozessbeistandschaft, begegnet werden. Damit werde auch der
+gutachterlich geforderten Abgrenzung des Drei-Generationen-Systems am besten
+Rechnung getragen. Mit Blick darauf verletze die Beschwerdegegnerin mit der
+Anordnung der Vormundschaft an G.______ den Grundsatz der
+Verhältnismässigkeit und überschreite ihr Ermessen. Gegen deren Einsetzung
+als Besuchsbeiständin sei demgegenüber nichts einzuwenden. Ferner sei zu
+berücksichtigen, dass die Pflichten der Vormundsperson (persönliche Fürsorge
+mit Pflege, Betreuung und Erziehung) teilweise auf die Pflegefamilie
+übertragen worden seien. Mit der Übertragung der Vormundschaft an sie und der
+Platzierung der Kinder bei ihnen bestehe der Vorteil der Personalunion, was
+dem Kindeswohl diene. Weiter biete eine Platzierung der Kinder bei ihnen
+Gewähr für Kontinuität und Stabilität. Dadurch könnten auch die regelmässigen
+Besuche des Beschwerdeführers 3 durchgeführt werden, sodass diese zum
+gewöhnlichen Ritual zählen und dem kindlichen Erinnerungsvermögen gerecht
+werden würden. Ihre Eignung als Pflegefamilie werde sodann einerseits durch
+die Berichte der Fachpersonen untermauert, andererseits seien auch die
+formellen Voraussetzungen (keine Strafverfahren, Betreibungen oder
+gesundheitlichen Einschränkungen sowie ein einwandfreier Leumund) erfüllt.
+Sie seien überdies bereit, alle nötigen Schritte zur Erteilung einer
+Pflegeplatzbewilligung für die Kinder zu veranlassen. Mit Blick darauf könne
+indessen nur bedingt auf das Gutachten abgestellt werden, da dieses eine
+Momentaufnahme darstelle. Demgegenüber beträfen die dem Gericht vorliegenden
+Berichte einen Beobachtungszeitraum von über einem Jahr, weshalb ihnen
+Beweiswert zukomme. Die im Gutachten geäusserte Einschränkung in der
+Erziehungsfähigkeit tangiere sodann die Fähigkeit, das Kindeswohl gegen
+Gefährdungen innerhalb der eigenen familiären Strukturen zu schützen. Von
+ihnen selbst gehe jedoch keine Gefahr für die Kinder aus. Vielmehr hätten sie
+sich rückblickend als erziehungs- und absprachefähig gezeigt. So sei es ihnen
+zwar ein grosses Anliegen, den Eltern ihre Kinder nicht zu entziehen.
+Gleichwohl sei ihnen bewusst, dass die Weisungen der verfügenden Behörde und
+die Ratschläge bzw. Hilfestellungen der beigezogenen Fachpersonen zu
+befolgen seien. Allenfalls könne ihre Erziehungsfähigkeit engmaschig
+kontrolliert werden, indem eine sozialpädagogische Familienbegleitung
+errichtet werde, wobei auch über eine Erziehungsbeistandschaft nachgedacht
+werden könne. Sodann leide insbesondere der Beigeladene 1 unter der
+bestehenden Regelung. Er sei häufig traurig und habe ein selbstverletzendes
+Verhalten gezeigt. Weiter seien die Kinder häufig krank und hätten diverse
+blaue Flecken aufgewiesen. Insgesamt seien die Vorteile einer Platzierung der
+Kinder bei ihnen (beispielsweise eine emotionale Bindung, die innerfamiliäre
+Zuneigung, die grosselterliche Liebe, das Aufwachsen innerhalb des eigenen
+Familienverbunds, die Kontinuität sowie die Pflege der Bräuche, Sitten und
+Sprache des Herkunftslands) somit zu wenig abgewogen worden. Schliesslich sei
+das Zusammenleben in einer Pflegefamilie kaum weniger psychisch belastend als
+das Zusammenleben mit einem Onkel, der eine Lernbehinderung habe. Sollte eine
+familiäre Unterbringung bei ihnen tatsächlich scheitern, wäre eine spätere
+Rückplatzierung in die Pflegefamilie H.______ wiederum möglich. Sollte das
+Gericht die angefochtenen Beschlüsse wider Erwarten nicht aufheben, sei das
+Besuchsrecht auszudehnen.
+2.2
+Die Beschwerdeführerin 2 bringt vor, es sei
+nicht nachvollziehbar, dass ihre Erziehungsfähigkeit einerseits als stark
+eingeschränkt beurteilt werde und sie infolgedessen eine Therapie zu
+absolvieren habe und ihr andererseits niemand mitteilen könne, welche
+Therapien sie zu besuchen habe, um die festgestellten Mängel zu beheben.
+Faktisch sei davon auszugehen, dass sie die Obhut und das Sorgerecht nur
+wiedererhalte, wenn sie sich therapieren lasse. Die Verfügung der
+Beschwerdegegnerin verhindere hingegen genau das, was keinen Rechtsschutz
+verdiene. Sodann seien die Kinder bis am 6. Juni 2023 von ihr betreut
+bzw. erzogen worden, wobei diese eine enorme Bindung zu ihr hätten. Es liege
+im Kindeswohl, den persönlichen Verkehr zwischen ihr und den Kindern zu
+erhöhen. Diesbezüglich gehe aus dem Gutachten hervor, dass aufgrund des
+jungen Alters der Kinder und der damit zusammenhängenden Fähigkeit, zeitliche
+Dimensionen zu erfassen, regelmässige Besuchskontakte zu empfehlen seien.
+Unter Berücksichtigung des Gutachtens und unter richtiger Anwendung von
+Art. 273 Abs. 1 ZGB sei ihr dementsprechend ein wöchentliches
+Besuchsrecht von vier Stunden einzuräumen, auch wenn im Gutachten ein solches
+von ein bis zwei Stunden festgehalten worden sei. Ferner befinde sich der
+emotionale Lebensmittelpunkt der Kinder bei den Grosseltern. Daher gebiete es
+das Kindeswohl, die Kinder unter die alleinige Obhut der
+Beschwerdeführer 1 zu stellen.
+2.3
+Der Beschwerdeführer 3 weist darauf hin, bis
+zu einer rechtskräftigen Verurteilung gelte die Unschuldsvermutung. Vor
+diesem Hintergrund verfalle die Beschwerdegegnerin in Willkür, wenn sie eine
+strafrechtliche Aburteilung des Sachverhalts vorwegnehme und festhalte, dass
+er mit grosser Wahrscheinlichkeit in Haft bleibe sowie des Landes verwiesen
+werde. Weiter sei die Feststellung, die Kinder seien mindestens indirekt von
+gröbster häuslicher Gewalt mit tödlichen Auswirkungen betroffen gewesen,
+unrichtig. Die Kausalität von Handlung und Tod von F.______sel. sei in den
+Strafakten nicht festgehalten. Die Beigeladenen hätten sich im Zeitpunkt der
+Begutachtung in guter körperlicher und psychischer Verfassung befunden, was
+eindeutig gegen eine Kindeswohlgefährdung spreche. Sodann sei der Entzug der
+elterlichen Sorge nicht verhältnismässig, zumal sich den Berichten kein
+Hinweis entnehmen lasse, welcher einen Entzug der elterlichen Sorge
+rechtfertige. Die Kinder hätten sich bei den Besuchen offen und interessiert
+gezeigt. Überdies habe er sich während der Abklärungsphase kooperativ
+verhalten, sich verantwortungsbewusst sowie liebevoll um die Kinder gekümmert
+und die notwendigen Kindesschutzmassnahmen während seiner Untersuchungshaft
+gefördert. Der Entzug des Aufenthaltsbestimmungsrechts sowie andere
+einschränkende, mildere Massnehmen (Fremdplatzierung, Besuchsbeistandschaft
+und Verfahrensbeistandschaft) könnten einer allfälligen Kindeswohlgefährdung
+genügend Einhalt gebieten. Folglich sei ihm die elterliche Sorge zu belassen
+und es sei von der Einsetzung eines Vormunds abzusehen, wobei die
+Beschwerdeführer 1 als Beistandspersonen einzusetzen seien und eine
+Besuchsbeistandschaft anzuordnen sei. Sollte das Gericht wider Erwarten die
+elterliche Sorge entziehen, seien die Beschwerdeführer 1 als Vormunde
+einzusetzen. Letztere seien für die Kinder vertraute, verständnisvolle,
+verlässliche und liebevolle Bezugspersonen und sie hätten sich als
+erziehungsfähig erwiesen. Allfälligen Nachteilen könne mit einer Prozess- und
+Besuchsbeistandschaft im Sinne einer milderen Massnahme begegnet werden.
+Überdies könne mit einer dortigen Platzierung eine konstante Betreuung
+gewährleistet sowie verhindert werden, dass die Beigeladenen fernab von ihren
+Familientraditionen, Verwandten und dem ihnen Vertrauten aufwachsen würden.
+Die Vorteile einer Platzierung bei den Beschwerdeführern 1 würden die
+Gefahr bei einer Rückplatzierung in die aktuelle Pflegefamilie überwiegen.
+Anhaltspunkte, wonach sich die Grosseltern nicht als Pflegefamilie eignen
+würden, gebe es keine. Schliesslich widerspreche sich die Kindsvertreterin,
+indem sie die Besuchskontakte weiter einschränken wolle, obschon das
+Gutachten einen wöchentlichen Kontakt vorsehe. Entsprechend werde um
+wöchentliche Kontakte von 1 ½ Stunden sowie um Telefonkontakte ausserhalb
+der Besuchszeiten ersucht.
+2.4
+Die Beschwerdegegnerin stellt sich auf den
+Standpunkt, die Beschwerdeführerin 2 verfüge über eine eingeschränkte
+Erziehungs- und Reflexionsfähigkeit und habe Fachpersonen in der
+Vergangenheit getäuscht. Mit den beschlossenen Massnahmen werde nicht das
+Ziel angestrebt, der Beschwerdeführerin 2 wieder Erziehungsaufgaben
+zuzusprechen oder ihr die Obhut bzw. die elterliche Sorge zu erteilen. Es sei
+sodann nicht ihre Aufgabe, der Beschwerdeführerin 2 Empfehlungen
+auszusprechen oder ihr Auflagen für eine therapeutische Aufarbeitung zu
+machen. Diesbezüglich könne sich Letztere bei Fachpersonen erkundigen. In
+Bezug auf den Beschwerdeführer 3 bestehe eine eingeschränkte
+Einsichtsfähigkeit, da Letzterer keine Kindeswohlgefährdung im Zeitpunkt der
+Festnahme der Eltern erkennen wolle, was die Erforderlichkeit der
+angeordneten Kindesschutzmassnahmen zusätzlich unterstreiche. Aufgrund des
+Entzugs der elterlichen Sorge sei eine Vormundschaft zu errichten und eine
+Vormundsperson einzusetzen. Indessen könnten die Beschwerdeführer 1
+nicht als Vormunds- bzw. Beistanspersonen eingesetzt werden, weil
+dadurch eine dauerhafte Rollenvermischung resultiere und Loyalitätskonflikte
+bestünden. Hinzu komme ihre eingeschränkte Erziehungsfähigkeit. Ihre
+erbrachten Leistungen zu Gunsten ihrer Enkelkinder seien im Rahmen der
+angeordneten Wochenend- und Ferienregelung angemessen gewürdigt worden.
+Entgegen ihrer Ansicht könne sodann eine sozialpädagogische
+Familienbegleitung nicht engmaschig kontrolliert werden. Vielmehr liefere
+diese nur in regelmässigen Abständigen einen kurzen Einblick in eine Familie.
+Die Ereignisse rund um die Halbschwester hätten anschaulich gezeigt, dass ein
+Familiensystem die sozialpädagogische Familienbegleitung täuschen könne. Entsprechend
+sei dieses Instrument nicht geeignet, die Erziehungsfähigkeit zu beurteilen
+oder Betreuungspersonen engmaschig zu kontrollieren. Weiter könnten nicht
+gleichzeitig eine Vormund- und eine Erziehungsbeistandschaft angeordnet
+werden. In der Pflegefamilie würden die Kinder von Fachpersonen betreut,
+welche bei Bedarf die erforderlichen Massnahmen einleiten könnten. Dieses
+Wissen hätten die Beschwerdeführern 1 nicht. Sodann liege es an ihnen,
+die Übergabe der Kinder an die Pflegefamilie positiv anzugehen. Der Verlust
+der Bindung zwischen den Kindern, den Eltern und den Grosseltern sei auf das
+Verhalten der Eltern, den Tod der Halbschwester und die damit
+zusammenhängende Inhaftierung der Eltern zurückzuführen. In der Pflegefamilie
+hätten die Beigeladenen jedoch neue Bindungen aufbauen können. Schliesslich
+würde die beantragte Ausdehnung der Besuchsrechte zu einer Hin- und Herreiche
+der Kinder führen, was nicht wünschenswert sei.
+2.5
+Die Kindesvertreterin der Beigeladenen
+bestreitet, dass die Beschwerdeführer 1 die Vormundschaft besser als die
+Amtsvormundin ausführen könnten. Sie hätten als Eltern des
+Beschwerdeführers 3 in allen sie betreffenden Entscheiden einen
+Interessenkonflikt. Damit könne dem sich abzeichnenden Loyalitätskonflikt
+weder mit dem milderen Mittel einer Besuchs- noch mit einer
+Prozessbeistandschaft, welche nur solange bestehe, als ein Strafverfahren
+hängig sei, entgegengewirkt werden. Die Blutsverwandtschaft allein mache die
+Vormundschaft sodann nicht zu einer milderen Massnahme. Ferner würde der
+gutachterlich geforderten Abgrenzung des Drei-Generationen-Systems dadurch
+nicht genügend Rechnung getragen. Weiter sei eine Personalunion von
+Vormundschaftsperson und die Einsetzung als Pflegefamilie für die
+Beigeladenen nicht vorteilhafter. Im Gegensatz zu privaten Vormundspersonen
+bestehe vorliegend eine engere sowie bessere Überwachung und Kontrolle der
+Vormundsperson. Dies gewährleiste eine höhere Sicherheit, dass die nötigen
+Entscheide korrekt und dem Kindeswohl entsprechend getroffen würden. Mit dem
+Hinweis auf die […] Wurzeln und den orthodoxen Glauben würden die
+Beschwerdeführer 1 verkennen, dass sie ihre kulturellen und religiösen
+Bräuche unabhängig von der Vormundschaft übermitteln könnten. Daher sei ihnen
+auch ein weitgehendes Besuchsrecht eingeräumt worden. Nach der Einschätzung
+der Vormundsperson seien die Beigeladenen in der Pflegefamilie noch nicht
+angekommen. Dies liege an den vielen Terminen, weshalb die Kinder zu keiner
+Bezugsperson innerhalb der Pflegefamilie eine so enge Vertrauensbeziehung wie
+zu den Eltern und Grosseltern hätten aufbauen können. Der Beigeladene 1
+leide enorm. Er sei häufig traurig und zeige ein selbstverletzendes
+Verhalten. Es bestünden jedoch keine Erkenntnisse über die Ursächlichkeit
+einer solchen Verschlechterung des psychischen Gesundheitszustands und der
+Pflege sowie Obhut durch die Fachpersonen in der Pflegefamilie. Vielmehr sei
+anzunehmen, dass die Kinder vom Tod ihrer Halbschwester sowie der in der
+Familie herrschenden gewalttätigen Übergriffen viel mitbekommen hätten und es
+sich hierbei um erste Manifestationen eines solchen erlittenen Traumas handle
+. Weiter würde eine Platzierung bei den
+Beschwerdeführern 1 das Kindeswohl und die störungsfreie Entwicklung der
+Kinder massiv gefährden, sodass die Möglichkeit einer Rückplatzierung nicht
+infrage komme. Insgesamt seien keine milderen Massnahmen denkbar, welche zum
+gleichen Ergebnis wie die angeordneten Massnahmen führen würden. Überdies
+seien die Berichte vor dem Hintergrund zu würdigen, dass die Fachpersonen
+keine Einsicht in die Akten des Strafverfahrens und des Verfahrens vor der
+Beschwerdegegnerin gehabt hätten. Die Fachpersonen hätten keine
+Gutachterstellung und könnten daher keine fundierten Aussagen über die
+Obhutssituation machen. Wichtig sei darüber hinaus die Abgrenzung, dass die
+Beschwerdeführer 1 nicht Pflegefamilie, sondern lediglich Kontaktfamilie
+seien, wobei sich der Lebensmittelpunkt der Kinder in der Pflegefamilie
+befinde. Schliesslich zeigten die Berichte auf, dass das Kindeswohl durch die
+getroffene Besuchsrechtsregelung, die in Dauer und Häufigkeit offensichtlich
+zu weit gehe, gefährdet sei. Daher sei eine weitergehende Einschränkung der
+Besuchskontakte der Eltern angezeigt.
+3.
+3.1
+Für die Anordnung von Kindesschutzmassnahmen
+nach Art. 307 ff. ZGB wird eine Kindeswohlgefährdung vorausgesetzt.
+Eine solche liegt vor, wenn das Kind in der
+elterlichen Obhut nicht so geschützt und gefördert wird, wie es für seine
+körperliche, geistige und sittliche Entfaltung nötig wäre. Die Gefährdung
+muss von bestimmter Erheblichkeit und die drohende Beeinträchtigung ernstlich
+sein (Christoph Häfeli, Grundriss zum Kindes- und Erwachsenenschutz,
+2. A., Bern 2016, Rz. 40.03 und 40.35, mit Hinweisen). Darüber
+hinaus ist der Grundsatz der Verhältnismässigkeit zu beachten, welcher in die
+Aspekte Prävention, Subsidiarität, Komplementarität und Proportionalität
+aufgeteilt wird. Proportionalität heisst dabei, dass die Massnahme geeignet,
+also tauglich zur Behebung oder Eindämmung der festgestellten
+Kindeswohlgefährdung und zumutbar sein muss, also dem Grad der Bedrohung für
+das Kindeswohl entsprechen sowie den erstrebten Nutzen und mögliche Nachteile
+vernünftig abwägen muss (Linus Cantieni/Stefan Blum, in Christiana
+Fountoulakis et al.
+[
+Hrsg.
+]
+, Fachhandbuch Kindes- und Erwachsenenschutzrecht,
+Zürich/Basel/Genf 2016, Rz. 15.20 ff.).
+3.2
+Kann der Gefährdung des Kindes nicht anders
+begegnet werden, d.h. sind Massnahmen nach Art. 307 f. ZGB
+ungenügend, ist das Kind gemäss Art. 310 ZGB den Eltern wegzunehmen und
+angemessen unterzubringen (sog. Fremdplatzierung). Wenn selbst diese
+einschneidende Massnahme zur Wahrung des Kindeswohls nicht ausreicht, kann
+den Eltern das Sorgerecht entzogen werden, wenn sie wegen Unerfahrenheit,
+Krankheit, Gebrechen, Abwesenheit, Gewalttätigkeit oder ähnlichen Gründen
+ausserstande sind, die elterliche Sorge pflichtgemäss auszuüben
+(Art. 311 Abs. 1 ZGB). Es handelt sich dabei um eine ultima ratio,
+welche nur Platz greift, wenn alle anderen Massnahmen keinen Erfolg
+versprechen. Neben dem Unvermögen des Elternpaares, die möglichen Defizite
+des anderen gegenseitig auszugleichen, muss für die Entziehung der
+elterlichen Sorge überdies eine Teilnahme an der Fremderziehung und die
+Ausübung der verbleibenden Aufgaben ausgeschlossen sein, was unter anderem
+bei langjähriger Freiheitsstrafe zutrifft. Nach dem Entzug findet in der
+Regel kein persönlicher Verkehr zwischen Eltern und Kindern statt
+(vgl. BGE 141 III 472 E. 4.5, 119 II 9
+E. 4b; Peter Breitschmid, in Thomas Geiser/Christiana Fountoulakis
+[Hrsg.], Basler Kommentar Zivilgesetzbuch I, 7. A., 2022, Art. 311
+N. 7).
+3.3
+Steht ein Kind nicht unter elterlicher Sorge,
+so ernennt ihm die Kindesschutzbehörde einen Vormund (Art. 327a ZGB).
+Dem Vormund stehen die gleichen Rechte zu wie den Eltern (Art. 327c
+Abs. 1 ZGB). Die Bestimmungen des Erwachsenenschutzes, namentlich über
+die Ernennung des Beistands, die Führung der Beistandschaft und die
+Mitwirkung der Erwachsenenschutzbehörde, sind sinngemäss anwendbar
+(Art. 327c Abs. 2 ZGB). Gemäss Art. 327c ZGB i.V.m.
+Art. 400 Abs. 1 ZGB ernennt die Kindesschutzbehörde als Vormund
+eine natürliche Person, die für die vorgesehenen Aufgaben persönlich und
+fachlich geeignet ist, die dafür erforderliche Zeit einsetzen und die
+Aufgaben selber wahrnehmen kann. Nach Art. 401 Abs. 2 ZGB
+berücksichtigt sie, soweit tunlich, Wünsche der Angehörigen oder anderer
+nahestehender Personen.
+3.4
+Gemäss
+Art. 273 Abs. 1 ZGB haben Eltern, denen die elterliche Sorge oder Obhut
+nicht zusteht, und das minderjährige Kind gegenseitig Anspruch auf angemessenen
+persönlichen Verkehr. Dabei handelt es sich um ein gegenseitiges
+Pflichtrecht, wobei dieses in erster Linie dem Interesse des Kindes dient und
+oberste Richtschnur für seine Ausgestaltung das Kindeswohl ist, welches
+anhand der Umstände des konkreten Einzelfalls zu beurteilen
+ist (vgl. BGE 122 III 404
+E. 3, 120 II 229 E. 3b/aa, jeweils mit Hinweisen).
+D
+er elterliche Kontakt ist dabei nach
+Massgabe der Interessen des Kindes zu regeln, ohne dass es darum ginge, einen
+gerechten Interessenausgleich zwischen den Eltern zu finden (BGer-Urteil
+5A_574/2014 vom 15. Januar 2015 E. 6.3, mit Hinweis). Die
+Untersagung des Besuchsrechts stellt jedoch eine ultima ratio dar
+(vgl. BGer-Urteil 5A_929/2022 vom 20. Februar 2023 E. 2.1.1,
+mit Hinweisen).
+3.5
+Die
+Behörde, die Kindesschutzmassnahmen anordnet, verfügt über grosses Ermessen.
+Die Anordnung der geeigneten Massnahmen setzt in einem gewissen Ausmass eine
+Prognose über die künftige Entwicklung der massgebenden Umstände voraus. Es
+ist die sachlich richtige Massnahme nicht aufgrund bloss juristischer
+Klassifikation, sondern unter Würdigung der im Einzelfall bestimmenden
+sozialen, medizinischen und erziehungswissenschaftlichen Gesichtspunkte
+anzuordnen (BGer-Urteil 5A_732/2014 vom 26. Februar 2015 E. 4.4,
+mit Hinweisen). Verändern sich die Verhältnisse, so sind die Massnahmen zum
+Schutz des Kindes der neuen Lage anzupassen (Art. 313 Abs. 1 ZGB).
+4.
+Zunächst ist zu prüfen, ob
+die Beschwerdegegnerin den Beschwerdeführern 2 und 3 das elterliche
+Sorgerecht zu Recht entzogen hat.
+4.1
+4.1.1
+Die Beschwerdegegnerin gab am 4. Juli 2023 ein
+fachpsychologisches Gutachten in Auftrag, welches am 17. Oktober 2023
+durch lic. phil. J.______, Fachpsychologin Psychotherapie und
+Rechtspsychologie FSP, zertifizierte Gutachterin SGRP und SGFP, sowie durch
+die Psychologinnen Dr. rer. nat. K.______ und
+M.Sc. L.______, erstattet wurde. Bei den Beschwerdeführern 2 und 3
+stellten die Gutachterinnen eine deutlich eingeschränkte Erziehungsfähigkeit
+fest. Es seien mit Ausnahme der Bindungstoleranz alle Bereiche betroffen. Sie
+würden weder eigene Erziehungsanteile reflektieren noch das eigene
+Problemverhalten anerkennen und sie seien entsprechend auch nicht
+veränderungsbereit. Dies müsse vor dem Hintergrund der Gewaltereignisse, die
+unter anderem mit der Fehlinterpretation kindlicher Bedürfnisse im
+Zusammenhang stünden, als höchst kindeswohlgefährdend beurteilt werden.
+Überdies bestehe bei künftig zu erwartenden Überforderungssituationen die
+Gefahr, dass es zu erneuten Fehlinterpretationen der kindlichen Bedürfnisse
+komme, welche im schlimmsten Fall eine Gefahr für die körperliche
+Unversehrtheit der Kinder darstellten. Die Beschwerdeführer 2 und 3
+seien daher nicht ausreichend in der Lage, sich um das Wohl der Beigeladenen
+zu kümmern. In Anbetracht der Gewaltereignisse, der Familiengeschichte und
+der Erziehungsdefizite sei eine Vollzeitbetreuung durch die Kindseltern
+ausgeschlossen. Eine Kontaktregelung zwischen den Kindern und den Kindseltern
+könne hingegen etabliert werden.
+4.1.2
+Das Gutachten des Instituts für Rechtsmedizin der
+Universität Zürich vom 4. Juli 2023 führt als todesursächliche Befunde
+bei F.______sel. eine schwere Fetteinschwemmung in den Lungenhaargefässen und
+eine ausgedehnte, beidseitige, wenige Stunden alte und durch Verschlucken
+bedingte Lungenentzündung (Aspirationspneumonie) an. Zudem seien ein stumpfes
+Kopf-, Rumpf- und Extremitätentrauma, ein höchstens wenige Tage alter,
+oberflächlicher Hautdefekt am Damm, ein in Abheilung befindlicher Bruch der
+linken Elle sowie in Abheilung befindliche Rippenbrüche rechts seitlich
+feststellbar gewesen. Am Körper hätten sich zahlreiche Zeichen einer
+stumpfen, mechanischen Gewalteinwirkung in Form von Hautunterblutungen,
+Quetschungen und Hauteinblutungen gezeigt. Die Untersuchungen hätten
+insgesamt ergeben, dass sie in den letzten drei Tagen ihres Lebens,
+allenfalls auch mehrere Wochen zuvor, eine schwere körperliche Misshandlung
+erfahren habe. Am 3. Juni 2023 untersuchte das Institut für
+Rechtsmedizin sodann den Beigeladenen 2 auf Körperverletzungen. Beim
+verschorften Kratzer rechts an der Stirn handle es sich um eine
+Bagatellverletzung, deren Ursache unklar bleibe, wobei eine absichtliche
+Beibringung etwa durch eine erwachsene Person nicht sicher ausgeschlossen
+werden könne. Die Knie wiesen Schürfungen auf, was bei einem etwa ein Jahr
+alten Kind nicht ungewöhnlich sei. Die anderen Hautbefunde seien sodann am
+ehesten im Rahmen einer Erkrankung entweder der Haut oder unter
+Mitbeteiligung der Haut entstanden. Eine mechanische Reizung der Haut könne
+theoretisch eine Rolle spielen. Hinweise auf eine absichtliche Beibringung
+durch eine Drittperson gebe es jedoch keine. Gleichentags wurde der
+Beigeladene 1 auf Körperverletzungen untersucht. An der linken Wange
+befinde sich ein alter Bluterguss, was typisch für stumpfe Gewalt sei. Seine
+Form und Erscheinung seien aber nicht beweisend für eine konkrete oder
+bestimmte Ursache. Eine akzidentelle Entstehung sei möglich. Indessen sei ein
+Schlag durch eine andere Person keinesfalls sicher auszuschliessen. Die
+Schürfungen an den Knien und am Kinn seien vereinbar mit den Angaben der
+Beschwerdeführerin 2, wonach der Beigeladene 1 beim
+Trottinettfahren gestürzt sei.
+4.2
+4.2.1
+Zunächst ist festzuhalten, dass die Frage, ob der
+Beschwerdeführer 3 für den Tod von F.______sel. verantwortlich ist,
+Gegenstand einer strafrechtlichen Untersuchung bildet. Sie muss an dieser
+Stelle aber auch nicht beantwortet werden, zumal sie für die gutachterliche
+Einschätzung betreffend die Erziehungsfähigkeit des Beschwerdeführers 3
+nicht ausschlaggebend ist. Den Akten lässt sich aber immerhin entnehmen, dass
+er F.______sel. wiederholt mit der Hand, dem Gurt und einem Stock geschlagen
+hat. An deren Körper fanden sich in diesem Zusammenhang denn auch zahlreiche
+Zeichen stumpfer sowie mechanischer Gewalteinwirkung, wobei die
+rechtsmedizinische Untersuchung eine schwere körperliche Misshandlung ergab
+(vgl. obenstehende E. II/4.1.2). Weiter ist der
+Beschwerdeführer 3 gemäss gutachterlicher Beurteilung nicht in der Lage,
+die kindlichen Bedürfnisse adäquat wahrzunehmen, auf diese zu reagieren und
+diese angemessen zu befriedigen. Vor dem Hintergrund der mangelnden
+eigenständigen Emotions- und Impulsregulation sowie der Gewaltereignisse ist
+die Fehlinterpretation kindlicher Bedürfnisse als höchst kindeswohlgefährdend
+zu beurteilen. Dass die begleiteten Besuche bislang gut verliefen und nach
+Ansicht des Beschwerdeführers 3 keine Hinweise bestünden, die den Entzug
+der elterlichen Sorge rechtfertigen würden, ändert mit Blick auf das soeben
+Dargelegte nichts an seiner attestierten beschränkten Erziehungsfähigkeit. Es
+bestehen ferner keine Anhaltspunkte, wonach er seit seiner Inhaftierung an
+den festgestellten Defiziten gearbeitet bzw. sich die Verhältnisse
+seitdem derart geändert hätten, dass die Beigeladenen unter der elterlichen
+Sorge des Beschwerdeführers 3 nicht mehr als gefährdet erscheinen
+würden. Dies nicht zuletzt, weil er anlässlich der Begutachtung zwar
+ausschloss, dass sich eine ähnliche Situation mit den Beigeladenen ergeben
+könnte. Gleichwohl konnte er an F.______sel. jedoch nichts benennen, was ihn
+im Vergleich zu den Beigeladenen besonders erregt hätte.
+4.2.2
+Anlässlich der Begutachtung gab der
+Beschwerdeführer 3 an, er habe seine Kinder nie geschlagen. Für ihn
+liege keine Gewalt vor, wenn er nicht voll zuschlage. Diese Aussage zeugt von
+einer fehlenden Reflexion im Hinblick auf das eigene Problemverhalten, zumal
+er, wie bereits dargelegt, wiederholt Gewalt gegenüber F.______sel. ausgeübt
+hat (vgl. vorstehende E. II/4.1.2 und 4.2.1). Es ist sodann
+unbestritten, dass eine direkte körperliche Misshandlung der Beigeladenen
+zwar nicht nachgewiesen ist. Es ist jedoch auch nicht erstellt, dass eine
+solche überhaupt nicht stattgefunden hat (vgl. vorstehende E. II/4.1.2).
+Der Beschwerdegegnerin ist des Weiteren darin beizupflichten, dass die
+schweren Misshandlungen an F.______sel. zumindest in unmittelbarer Nähe der
+Beigeladenen in der Familienwohnung stattgefunden haben. Darüber hinaus
+hinterlassen die im Recht liegenden WhatsApp-Chatverläufe den Eindruck, dass
+sich die Beschwerdeführer 2 und 3 insbesondere über die Möglichkeit,
+F.______sel. zu verängstigen und sie mit Schlägen zu massregeln, ausgetauscht
+haben. An den Misshandlungen scheinen sie sogar den Beigeladenen 1
+miteinbezogen zu haben, indem sie ihn offenbar dazu ermutigt haben,
+F.______ sel. an den Haaren zu ziehen. Die Schlussfolgerung der
+Beschwerdegegnerin, bei den Beschwerdeführern 2 und 3 habe ein Klima der
+Angst, Verunsicherung und Gewalt geherrscht, ist schliesslich auch mit Blick
+auf die in den WhatsApp-Chatverläufen verwendete Wortwahl ("Angst",
+"die Hölle wartet auf sie", "Hexe", "wütend",
+"schlagen") sowie gestützt auf die Aussage des
+Beschwerdeführers 3, wonach die Kinder vor Angst einschlafen würden,
+nicht zu beanstanden.
+4.3
+Der Beschwerdeführerin 2 attestierten die
+Gutachterinnen sodann ebenfalls eine deutlich eingeschränkte
+Erziehungsfähigkeit. Hinsichtlich der Erziehungsmethode habe sie ein
+ähnliches Verständnis wie der Beschwerdeführer 3. Für sie seien wiederholte
+physische Schläge sowie eine Ohrfeige als Gewalt zu qualifizieren. Bei einem
+Klaps auf dem Hintern hänge es indessen davon ab, warum und wie dieser
+versetzt werde. Bei der polizeilichen Einvernahme vom 13. Juni 2023
+führte sie weiter aus, F.______sel. ab und zu "gehauen" zu haben
+sowie, dass sie weder F.______sel. noch ihre Kinder dermassen geschlagen
+habe, dass es zu Schäden gekommen sei. Hinweise darauf, dass sie gegenüber
+F.______sel. gewalttätig geworden ist, ergeben sich dabei aus den WhatsApp-Chatverläufen.
+Zudem interpretierte sie die Symptome von F.______sel. wie Erbrechen,
+Einkoten und Einnässen offensichtlich fehl, woraufhin sie auf notwendige
+medizinische Konsultationen verzichtete. Da sie anlässlich der Begutachtung
+erklärte, keinen Unterschied hinsichtlich der Betreuung, Erziehung und
+Fürsorge von F.______sel. sowie den Beigeladenen gemacht zu haben, kann
+folglich nicht ausgeschlossen werden, dass sie die kindlichen Bedürfnisse der
+Beigeladenen ebenfalls verkannt hat bzw. künftig verkennen würde. Dies legt
+unter anderem auch die vernachlässigte Zahnhygiene des Beigeladenen 2
+nahe. Die Beschwerdeführerin 2 ist somit ebenfalls nicht in der Lage,
+die Bedürfnisse der Kinder adäquat zu interpretieren, weshalb auch
+diesbezüglich von einer Kindeswohlgefährdung auszugehen ist. Eine gewisse
+positive Veränderung, wie ihre Bereitschaft zu einer freiwilligen Therapie,
+ist zwar zu begrüssen. Da die Kooperation mit Fachkräften in der
+Vergangenheit jedoch eingeschränkt und hauptsächlich vordergründig war,
+deutet ihre Therapiebereitschaft auf keine längerfristige Stabilisierung der
+Lage hin. Es ist daher nach wie vor davon auszugehen, dass sie nicht im
+Stande ist, den kindeswohlgefährdenden Situationen erfolgreich zu begegnen
+oder diese zu vermeiden.
+4.4
+4.4.1
+Wie dargelegt, bestehen an der massgeblich
+eingeschränkten Erziehungsfähigkeit der Beschwerdeführer 2 und 3 somit
+keine Zweifel.
+Angesichts der
+Gewaltereignisse, der Familiengeschichte sowie der Erziehungsdefizite ist bei
+künftigen Überforderungssituationen von einer erhöhten Gefahr auszugehen,
+dass es zu erneuten Fehlinterpretationen kindlicher Bedürfnisse kommt,
+wodurch die körperliche Unversehrtheit der Kinder gefährdet wäre. Letztere
+sind folglich auf eine stetige und engmaschige Kontrolle angewiesen, womit
+eine Vollzeitbetreuung durch die Beschwerdeführer 2 und 3 ausgeschlossen
+ist.
+Entgegen der Ansicht des Beschwerdeführers 3 kann der
+Kindeswohlgefährdung sodann nicht mit milderen Massnahmen begegnet werden.
+Die Beschwerdegegnerin weist diesbezüglich zu Recht darauf hin, dass eine
+sozialpädagogische
+Familienbegleitung lediglich in regelmässigen Abständen einen kurzen Einblick
+in eine Familie gewährt. Daher konnten die Beschwerdeführer 2 und 3
+Letztere denn auch über die eigenen familiären Verhältnisse täuschen, was die
+Übergriffe auf F.______sel. exemplarisch veranschaulichen. Vor diesem
+Hintergrund erweist sich eine sozialpädagogische Familienbegleitung zur
+soeben erwähnten engmaschigen Kontrolle der Betreuungspersonen als
+ungeeignet. Des Weiteren bestehen mit Blick auf die in der Vergangenheit
+installierte sozialpädagogische Familienbegleitung Zweifel, ob die
+Beschwerdeführer 2 und 3 solch
+e
+Unterstützungs- und Kontrollmassnahmen annehmen können, weshalb mit einer
+solchen Massnahme dem Kindeswohl vorliegend zumindest nicht ausreichend
+gedient wäre. Eine stetige und enge Kontrolle kann sodann auch mit der
+Errichtung einer Erziehungsbeistandschaft i.S.v. Art. 308 Abs. 1
+ZGB nicht verwirklicht werden, da das familiäre Umfeld erhalten bleibt und die
+Beistandsperson dieses lediglich durch regelmässige persönliche Kontakte
+beobachten kann (vgl. zum Ganzen Breitschmid, Art. 308 N. 4).
+Dementsprechend gilt auch hierbei, dass die persönlichen Kontakte jeweils
+lediglich Einblicke in das familiäre Umfeld gewähren und eine vorliegend
+unerwünschte Irreführung der Beistandsperson nicht verhindert werden kann.
+Eine Erziehungsbeistandschaft reicht somit zur Wahrung des Kindeswohls nicht
+aus. Schliesslich wäre auch ein partieller Entzug des elterlichen Sorgerechts
+ungenügend, zumal weder die Beschwerdeführerin 2 noch der
+Beschwerdeführer 3 die gegenseitigen Defizite des anderen auszugleichen
+vermögen (vgl. BGE 141 III 472 E. 4.5).
+4.4.2
+Zu berücksichtigen ist ferner, dass die
+Beschwerdeführer 2 und 3 bis auf Weiteres nicht in der Lage sein werden,
+erzieherische Aufgaben wahrzunehmen. Der Beschwerdeführer 3 befindet
+sich seit seiner Festnahme am 2. Juni 2023 in Untersuchungshaft. Die
+Beschwerdeführerin 2 ist zwar zwischenzeitlich aus der Untersuchungshaft
+entlassen worden. Indessen wird gegen beide Parteien wegen vorsätzlicher
+Tötung, mehrfacher Körperverletzung und Unterlassung der Nothilfe ermittelt.
+Die im Recht liegenden Akten zeichnen sodann ein Bild der psychischen und
+physischen Misshandlung von F.______sel., weshalb eine Verurteilung zu einer
+mehrjährigen Freiheitsstrafe zumindest nicht gänzlich unwahrscheinlich
+erscheint. Die Abteilung Migration des Kantons Glarus beabsichtigt überdies,
+die Aufenthaltsdauer der Beschwerdeführerin 2 nicht zu verlängern und
+sie aus der Schweiz wegzuweisen. Damit ist absehbar, dass die
+Beschwerdeführer 2 und 3 für die Beigeladenen nicht ungehindert als
+Betreuungs- und Bezugspersonen zur Verfügung stehen werden. Die
+Fremdplatzierung der Kinder und die Aufhebung des Aufenthaltsbestimmungsrechts
+als mildere Massnahme zum Entzug der elterlichen Sorge sind daher insgesamt
+nicht geeignet, der durch eine möglicherweise langjährige Inhaftierung
+bzw. Wegweisung aus der Schweiz resultierenden Kindeswohlgefährdung
+entgegenzuwirken. Zwar soll die elterliche Sorge grundsätzlich nur in
+begrenzten Ausnahmefällen einem Elternteil entzogen werden. Da jedoch die
+Beschwerdeführer 2 und 3 in der Erziehungsfähigkeit massgeblich
+eingeschränkt sind, sie die Defizite des anderen nicht auszugleichen vermögen
+und der Kindeswohlgefährdung mit weniger einschneidenden Massnahmen nicht
+begegnet werden kann (vgl. vorstehende E. II/4.4.1; Breitschmid,
+Art. 311/312 N. 3), ist der Entzug der elterlichen Sorge insgesamt
+nicht zu beanstanden.
+5.
+5.1
+5.1.1
+Die
+Beschwerdeführer 1 beantragen weiter, dass ihnen die Vormundschaft über die
+Beigeladenen zu übertragen sei. Als Vormund wird ernannt, wer persönlich und
+fachlich geeignet ist, die ihm übertragenen Aufgaben selber wahrzunehmen und
+die hierfür erforderliche Zeit einzusetzen (vgl. Art.
+327c
+Abs. 2 ZGB i.V.m. Art. 400 Abs. 1 ZGB). Unter die zur
+Beurteilung der Eignung wesentlichen Elemente fallen namentlich die Sozial-,
+Selbst- und Fachkompetenz. Überdies dürfen keine Interessenkonflikte
+bestehen. Der Vormund soll sich seinen Aufgaben widmen können, ohne dass
+deren Erfüllung durch ein anderes von ihm zu wahrendes Interesse
+verunmöglicht oder übermässig erschwert wird
+(vgl. BGE 140 III 1 E. 4.2).
+5.1.2
+Die
+Gutachterinnen attestierten den Beschwerdeführern 1, dass sie
+mehrheitlich ein adäquates Erziehungswissen verbalisierten und zeigten. Die
+innerfamiliäre Konfliktkultur, die vornehmlich aus Konfliktvermeidung,
+Bagatellisierung und Festhalten an idealisierten Vorstellungen bestehe, sei
+in der Vergangenheit nicht geeignet gewesen, die Gefährdung von F.______sel.
+abzuwenden und sei im Übrigen auch nicht geeignet, allfällige künftige
+Gefährdungen von den Beigeladenen abzuwenden. Aus der Tatsache, dass die
+Beschwerdeführer 1 die Anzeichen der Misshandlung bei F.______sel. nicht
+oder nicht hinreichend wahrgenommen und sie in der Folge keine Schritte
+unternommen hätten, um dieser entgegenzuwirken, folge, dass sie in ihrer
+Fähigkeit, das Kindswohl gegen Gefährdungen innerhalb der eigenen familiären
+Strukturen zu schützen, deutlich eingeschränkt seien. Aus der Perspektive des
+Kindeswohls sei eine trennscharfe Abgrenzung des Drei-Generationen-Systems
+gerade vor dem Hintergrund der belasteten Familiengeschichte wichtig, da
+andernfalls sowohl mit Rollenvermischungen als auch Loyalitätskonflikten zu
+rechnen sei. Sodann sei die Fähigkeit der Beschwerdeführer 1, die Kinder
+vor innerfamiliären Gefährdungen zu schützen, nur unzureichend gegeben. Eine
+Vollbetreuung der Beigeladenen sei nicht indiziert und ein ausgedehntes Besuchsrecht
+sei dem Kindeswohl am zuträglichsten. Dass die Beschwerdeführer 1 auch
+nach der Begutachtung Mühe bekunden, eine trennscharfe Abgrenzung des
+Drei-Generationen-Systems vorzunehmen, ist gerade im Zusammenhang mit der
+belasteten Familiengeschichte nicht zu vernachlässigen. So sei es ihnen
+einerseits ein grosses Anliegen, den Beschwerdeführern 2 und 3 die
+Kinder nicht zu entziehen. Andererseits seien sie sich durchaus bewusst, dass
+es bezüglich der behördlichen Vorgaben keinen Spielraum gebe. Deren Einwand,
+allfälligen
+Loyalitätskonflikten könne mit milderen Massnahmen begegnet werden, vermag
+daher nicht zu überzeugen. Die Beschwerdegegnerin weist nämlich zutreffend
+darauf hin, dass mehrere Bereiche von einer Interessenkollision betroffen
+sind (namentlich Besuchsrecht Eltern und Kinder; Rollenvermischung
+Grosseltern, Beistands- und Vormundsperson; Vertretung der Kinder im
+Strafverfahren) und aufgrund der familiären Konstellation von einem
+dauerhaften Zustand auszugehen ist. Da die Beschwerdeführer 1 als Vormundspersonen
+wiederholt einer Interessenkollision unterliegen würden, würde die Errichtung
+einer Vormundschaft zu einem Leerlauf führen, da die Beschwerdegegnerin deren
+Entlassung zu prüfen hätte (vgl. Art. 327c Abs. 2 ZGB i.V.m.
+Art. 403 Abs. 1 ZGB). Dies erweist sich jedoch als nicht
+verhältnismässig.
+Da mit Loyalitätskonflikten
+und Rollenvermischungen zu rechnen ist, ist den Beschwerdeführer 1 die
+Eignung als Vormundspersonen abzusprechen.
+5.2
+5.2.1
+Indessen leben die Beigeladenen nun seit über einem Jahr bei der
+Pflegefamilie H.______. Sowohl die beigezogenen Fachpersonen als auch die
+Beschwerdeführer gaben diesbezüglich gegenüber dem Verwaltungsgericht an,
+dass sich deren Gesundheitszustand verschlechtert und insbesondere der
+Beigeladene 1 Rückschritte gemacht habe. Der Bericht der Pflegefamilie
+H.______ vom 19. September 2024 illustriert dabei eindrücklich die
+Veränderung des Gesundheitszustands seit der Fremdplatzierung. So würden die
+Beigeladenen auf die Abschiede von den Beschwerdeführern 1 emotional
+reagieren. Der Beigeladene 2 weine oft, tobe und werfe mit Gegenständen,
+könne jedoch schnell beruhigt werden. Er habe ein starkes Bedürfnis nach Nähe
+und Geborgenheit, weshalb er häufig getragen werden möchte. Der
+Beigeladene 1 weine viel und habe Schwierigkeiten, sich zu beruhigen. Er
+habe Schlafprobleme sowie eine ausgeprägte Form der Anstrengungsverweigerung
+entwickelt. Er zeige erhebliche und emotionale verhaltensbezogene
+Herausforderungen (Zunahme von emotionalen Ausbrüchen, Rückschritte in seiner
+Selbständigkeit). Überdies verspüre er ein starkes Bedürfnis nach Zuwendung
+und benötige eine intensive 1:1 Betreuung. Sein starkes Kontrollbedürfnis
+stehe im Zusammenhang mit einem hohen Stresslevel, da er seine Umgebung und
+Beziehungen zu steuern versuche. Er brauche deshalb ein sicheres Umfeld, um
+seine emotionalen Bedürfnisse adäquat verarbeiten zu können. Entscheidend sei
+ein stabiler Lebensmittelpunkt und ein klar strukturiertes Betreuungssetting.
+Nach den Besuchen bei den Beschwerdeführern 1 drückten die Kinder
+wiederholt aus, dass sie nicht ins "gelbe Haus" bzw. zur
+Pflegefamilie H.______ zurück wollten. Obwohl sich die Pflegefamilie H.______
+offensichtlich um den Aufbau bzw. um die Fortführung der persönlichen
+Beziehung zu den Kindern bemüht hat, ist aufgrund der physischen und
+psychischen Entwicklung der Kinder somit klar ersichtlich, dass sie bei der
+Pflegefamilie H.______ weder verwurzelt sind noch sich ihr Lebensmittelpunkt
+dort befindet. Die Vormundsperson G.______ berichtete schliesslich am 15. November
+2024, dass trotz intensiver unterstützender Massnahmen und einer klaren
+Besuchsregelung keine Verbesserung der Situation eingetreten sei. Der
+Beigeladene 1 könne in der Pflegefamilie nicht zur Ruhe kommen und seine
+Entwicklung sei gefährdet. Daher empfehle sie, die Beschwerdeführer 1
+als Pflegeeltern einzusetzen. Voraussetzung sei aber, dass diese mit ihr, der
+Vormundsperson, gut kooperierten, eine sozialpädagogische Familienbegleitung
+eingesetzt werde und für die Kinder ein gutes pädagogisches sowie
+therapeutisches Setting geschaffen werde.
+5.2.2
+Mit
+Blick auf das
+soeben
+Dargelegte ist entgegen der Ansicht der Kindsvertreterin festzuhalten, dass
+mit einer langfristigen Platzierung in der Pflegefamilie H.______ das
+Kindeswohl nicht dauerhaft sichergestellt werden kann, wobei denn auch nicht
+ersichtlich ist, inwiefern eine
+Platzierung
+bei den Beschwerdeführern 1 das Kindeswohl und die störungsfreie
+Entwicklung der Beigeladenen massiv gefährden würde. Vielmehr
+bestehen keine Zweifel, dass die Beschwerdeführer 1
+auf die Bedürfnisse der Beigeladenen eingehen und ihnen Geborgenheit und Nähe
+geben können. Auch das Kriterium der Kontinuität und Stabilität spricht für
+eine Platzierung bei den Beschwerdeführern 1.
+Die
+Beschwerdegegnerin führt zwar zutreffend aus, dass die Kinder in der
+Pflegefamilie von Personen betreut werden, welche über entsprechendes
+Fachwissen verfügen und bei Bedarf die notwendigen Massnahmen ergreifen
+können. Abgesehen davon besteht aber Einigkeit darüber, dass sich der
+Gesundheitszustand der Beigeladenen seit der dortigen Platzierung
+verschlechtert hat (vgl. vorstehende E. II/5.2.1). Namentlich führte die
+Vormundsperson am 15. November 2024 aus, dass die Auffälligkeiten in der
+Entwicklung der Beigeladenen trotz ergriffener Entlastungsmassnahmen nicht
+hätten minimiert werden können. Insbesondere die Entwicklung des
+Beigeladenen 1 sei rückläufig und besorgniserregend, zumal er in
+Überforderungs- und psychische Ausnahmesituationen gerate, Verweigerungs- und
+Selbstverletzungstendenzen zeige sowie Angst vor einem Kontrollverlust habe,
+woraufhin er zerstörerische Wutanfälle habe. Im Rahmen einer Platzierung der
+Beigeladenen bei den Beschwerdeführern 1 zu berücksichtigen gilt jedoch,
+dass deren Erziehungsfähigkeit
+als
+eingeschränkt zu qualifizieren ist. Letztere weisen diesbezüglich aber
+richtigerweise darauf hin, dass die von den Gutachterinnen geäusserte
+Einschränkung lediglich die Fähigkeit betraf, das Kindswohl gegen
+Gefährdungen innerhalb der eigenen Familienstrukturen zu schützen. Von den
+Beschwerdeführern 1 selbst geht – soweit ersichtlich – keine Gefahr für
+die Beigeladenen aus. Da das
+Zusammenleben mit einem lernbehinderten
+Onkel so wie das Zusammenleben in einer Pflegefamilie psychisch belastend
+sein kann, die Vormundsperson die Einsetzung einer sozialpädagogischen
+Familienbegleitung für die Platzierung der Kinder bei den
+Beschwerdeführern 1 als erforderlich erachtet und die
+Beschwerdeführer 1 einer solchen im Sinne einer milderen Massnahme
+sodann nicht entgegenstehen, ist die eingeschränkte Erziehungsfähigkeit der
+Beschwerdeführer 1 mittels einer
+sozialpädagogischen
+Familienbegleitung zu kontrollieren. Der Vollzug derselben obliegt der
+Beschwerdegegnerin. Darüber hinaus erweist es sich als notwendig, die
+Craniosacral-Therapie fortzusetzen, welche die Kinder darin unterstützt, ihre
+körperlichen und emotionalen Spannungen zu reduzieren. Mit diesen Massnahmen
+wird denn auch einer allfälligen Kindeswohlgefährdung adäquat begegnet.
+Insofern ist der vorinstanzliche Beschluss gemäss Art. 313 Abs. 1
+ZGB dahingehend abzuändern, als anstelle der Pflegefamilie H.______ die
+Beschwerdeführer 1 als Pflegefamilie einzusetzen sind.
+6.
+Hinsichtlich der
+Besuchsrechtsregelungen halten die Gutachterinnen fest, dass zwischen den
+Kindseltern und den Kindern ein angemessener Kontakt indiziert sei, um dem
+Verblassen von Erinnerungen der Kinder an die Kindseltern entgegenzuwirken
+und die Beziehung zwischen den Kindseltern und den Kindern
+aufrechtzuerhalten. Es würden begleitete Kontakte zwischen den Beigeladenen
+und deren Eltern empfohlen. Aufgrund des jungen Alters der Beigeladenen und
+dem damit zusammenhängenden Unvermögen, zeitliche Dimensionen zu erfassen,
+seien regelmässige Besuchskontakte, vorzugsweise in wöchentlichen Abständen
+von etwa ein bis zwei Stunden, zu empfehlen. Die aktuellen Fachberichte
+zeichnen ein positives Bild der Besuche ab, wobei sich die Beigeladenen
+jeweils darauf freuen würden. Überdies hätten sie sich an die Besuche im
+Gefängnis gewöhnt und die Besuchszeiten von 1 ½ bis 2 Stunden
+liessen sich im Besucherraum gut gestalten. Sodann seien die Besuche mit der
+Beschwerdeführerin 2 wichtige Erlebnisse, weil die Kinder sie als
+verantwortliche Mutter erleben würden. Vor diesem Hintergrund bestehen somit
+keine Anhaltspunkte für Zweifel an der von den Gutachterinnen empfohlenen
+Frequenz der Besuchskontakte. Die von der Kindsvertreterin diesbezüglich
+befürchtete Kindeswohlgefährdung, welche eine weitergehende Einschränkung der
+Besuchskontakte zu den Beschwerdeführern 2 und 3 rechtfertigen würde,
+findet dementsprechend keine Stütze. Da den Kindern bei der Ausgestaltung der
+Besuchsregelung überdies der nötige Raum zur Verarbeitung und zur
+Regeneration belassen werden soll, erweist sich ein wöchentliches
+Besuchsrecht von aktuell 1 ½ Stunden sowohl bezüglich die
+Beschwerdeführerin 2 als auch den Beschwerdeführer 3 als
+angemessen. Dies, um dem von den Gutachterinnen nachvollziehbar erwähnten
+Verblassen von Erinnerungen entgegenzuwirken und die Eltern-Kind-Beziehungen
+aufrechtzuerhalten. Für zusätzliche Telefonkontakte, wie dies der
+Beschwerdeführer 3 beantragt, verbleibt nach Erreichen der gutachterlich
+empfohlenen Frequenz der Kontakte jedoch kein Raum. Entsprechend vermag auch
+die Beschwerdeführerin 2 mit ihrem Antrag, ihr sei ein
+wöchentliches
+Besuchsrecht von vier Stunden einzuräumen,
+nicht durchzudringen.
+7.
+7.1
+Die Beschwerdeführerin 2 beantragt schliesslich,
+dass ihr die zu absolvierenden Therapien bekannt zu geben seien.
+Diesbezüglich ist zunächst festzuhalten, dass die Beschwerdegegnerin keine
+Therapie angeordnet hat und ihr ein weites Ermessen bei der Anordnung der
+sachlich richtigen Massnahmen zukommt (vgl. vorstehende E. II/3.5).
+Sofern die Beschwerdeführerin 2 diesbezüglich eine
+Ermessensunterschreitung durch die Beschwerdegegnerin rügt, ist eine solche
+vorliegend nicht ersichtlich und wird im Übrigen auch nicht substantiiert
+dargetan. Vielmehr hat Letztere das ihr zustehende Ermessen pflichtgemäss
+ausgeübt, indem sie der Beschwerdeführerin 2 keine Erziehungsaufgabe
+zukommen liess und auf die Nennung von Kursen und Therapien verzichtete. Zwar
+geht aus dem Gutachten hervor, dass die Beschwerdeführerin 2 in einem
+Erziehungstraining lernen müsse, die kindlichen Bedürfnisse korrekt zu
+interpretieren, um diese adäquat befriedigen zu können. Überdies wird eine
+Aufarbeitung im Sinne einer begleiteten Reflexion der Ereignisse hinsichtlich
+der Verantwortungsübernahme im Zusammenhang mit dem Tod von F.______sel.
+empfohlen. Dennoch konnte die Beschwerdegegnerin ohne ihr Ermessen zu
+unterschreiten auf die Anordnung einer Massnahme verzichten, da es sich bei
+der Platzierung der Kinder in eine Pflegefamilie um eine dauerhafte Massnahme
+handelt, die Beschwerdeführerin 2 aufgrund der vergangenen
+Gewaltanwendungen ohnehin einer stetigen und engen Kontrolle hinsichtlich der
+Unversehrtheit der Kinder zu unterstellen ist und die Besuche bis auf
+Weiteres begleitet zu erfolgen haben. Gemäss der Beschwerdegegnerin ist es
+der Beschwerdeführerin 2 im Übrigen freigestellt, Therapien betreffend
+Erziehung, Gewaltverhinderung oder Aufarbeitung der Geschehnisse zu besuchen.
+Obschon sie es nicht als ihre Aufgabe ansieht, der Beschwerdeführerin 2
+Empfehlungen auszusprechen bzw. ihr Auflagen für die therapeutische
+Aufarbeitung zu machen, hat sie Letzterer dennoch die möglichen Bereiche
+aufgezeigt, um den im Gutachten festgestellten Mängel entgegenzuwirken. Dass
+sich die Beschwerdeführerin 2 aus eigenem Antrieb um eine geeignete
+Therapie bemüht, ist aufgrund der Geschehnisse und im Hinblick auf die
+begleiteten Besuche zu begrüssen. Eine Wiedererteilung der elterlichen Sorge
+erfolgt nach Abschluss der Therapie aber nicht ohne Weiteres, zumal Zweifel
+bestehen, ob und inwiefern sie hinsichtlich ihrer Einschränkungen
+veränderungsfähig ist.
+7.2
+Soweit die Beschwerdeführerin 2 sinngemäss geltend
+macht, der streitbetroffene Beschluss sei mangels Nennung der zu
+absolvierenden Therapien erläuterungsbedürftig, ist ihr ebenfalls nicht zu
+folgen. Gemäss Art. 122 Abs. 1 VRG nimmt die entscheidende Behörde
+von Amtes wegen oder auf Antrag einer Partei die Erläuterung oder
+Berichtigung vor, wenn ein Entscheid unklar, unvollständig oder zweideutig
+ist. Grundsätzlich kann jedoch nur das Dispositiv erläutert werden. Die
+Erläuterung der Erwägungen kommt nur in Frage, wenn sich Sinn und Tragweite des
+Dispositivs erst aus ihnen ergeben (Martin Bertschi, in Alain Griffel
+[Hrsg.], Kommentar zum Verwaltungsrechtspflegegesetz des Kantons Zürich,
+3. A., Zürich/Basel/Genf 2014, Vorbem. zu §§ 86a-86d N. 24).
+Disp.-Ziff. 3 des angefochtenen Beschlusses, wonach die
+Beschwerdegegnerin den Antrag der Beschwerdeführerin 2 auf Mitteilung
+der zu besuchenden Therapien ablehnt, ist genügend klar und bedarf keiner
+Erläuterung. Die Beschwerdeführerin 2 kann somit auch gestützt auf
+Art. 122 Abs. 1 VRG nichts zu ihren Gunsten ableiten.
+8.
+Zusammenfassend hat die
+Beschwerdegegnerin den Beschwerdeführern 2 und 3 das elterliche
+Sorgerecht zu Recht entzogen. Mit Blick auf die Gewaltereignisse, die
+Erziehungsdefizite und die voraussichtlich längere Inhaftierung bzw. die
+drohende Wegweisung aus der Schweiz sind sie bis auf Weiteres nicht in der
+Lage, erzieherische Aufgaben wahrzunehmen. Mildere Massnahmen sind
+diesbezüglich sodann nicht ersichtlich. Demgegenüber ist ihnen ein
+begleitetes Besuchsrecht von 1 ½ Stunden pro Woche einzuräumen.
+Dies, um dem von den Gutachterinnen nachvollziehbar erwähnten Verblassen von
+Erinnerungen der Beigeladenen entgegenzuwirken und die Beziehung zwischen
+Letzteren und den Eltern aufrechtzuerhalten. Sodann liegt es im Kindeswohl,
+die Beschwerdeführer 1 als Pflegefamilie einzusetzen. Deren
+eingeschränkte Erziehungsfähigkeit ist indessen durch eine sozialpädagogische
+Familienbegleitung zu kontrollieren, wobei der diesbezügliche Vollzug der
+Beschwerdegegnerin obliegt. Der Beschwerdeführerin 2 steht es
+schliesslich offen, Therapien im Bereich Erziehung, Gewaltverhinderung oder
+Aufarbeitung der Geschehnisse zu besuchen. Die Beschwerdegegnerin durfte
+jedoch auf diesbezügliche Anordnungen verzichten.
+Demgemäss sind die Beschwerden teilweise gutzuheissen.
+Disp.-Ziffn. 8 f. der Beschlüsse der Beschwerdegegnerin vom
+28. Februar 2024 sind dahingehend abzuändern, als dass die Beigeladenen
+bei den Beschwerdeführern 1 platziert und die Beschwerdeführer 1
+als Pflegeeltern eingesetzt werden, wobei zusätzlich eine sozialpädagogische
+Familienbegleitung zu installieren ist. Sodann sind Disp.-Ziffn. 10 und
+11 der Beschlüsse der Beschwerdegegnerin vom 28. Februar 2024
+dahingehend abzuändern, als dass den Beschwerdeführern 2 und 3 ein
+begleitetes Besuchsrecht von 1 ½ Stunden pro Woche gewährt wird.
+Disp.-Ziffn. 12-14 der Beschlüsse der Beschwerdegegnerin vom
+28. Februar 2024 sind ersatzlos zu streichen. Im Übrigen sind die
+Beschwerden abzuweisen.
+III.
+1.
+1.1
+Nach Art. 134 Abs. 1
+lit. c VRG hat die Partei, welche im Beschwerdeverfahren unterliegt, die
+amtlichen Kosten zu tragen.
+Die
+Beschwerdeführer obsiegen vorliegend nur teilweise, indem ihren Hauptbegehren
+nur in untergeordneten Punkten entsprochen wird. Dementsprechend rechtfertigt
+es sich, dass die Beschwerdeführer von den Gerichtskosten in der Höhe von
+Fr. 4'500.- vier Fünftel zu tragen haben. Ein Fünftel ist demgegenüber
+auf die Staatskasse zu nehmen. Den Beschwerdeführern ist folglich ein
+Gerichtskostenanteil in der Höhe von jeweils Fr. 1'200.-
+aufzuerlegen. Vom bereits
+geleisteten Kostenvorschuss in der Höhe von Fr. 1'500.- sind den
+Beschwerdeführern 1 Fr. 300.- zurückzuerstatten. Auf die Erhebung
+des Kostenanteils der Beschwerdeführer 2 und 3 ist zufolge Gewährung der
+unentgeltlichen Prozessführung (vgl. nachstehende E. III/2)
+einstweilen zu verzichten.
+1.2
+Aus den soeben genannten Gründen ist den
+Beschwerdeführern 1 zu Lasten der Beschwerdegegnerin eine reduzierte
+Parteientschädigung in der Höhe von Fr. 1'300.- und den
+Beschwerdeführerin 2 und 3 eine solche von Fr. 600.-
+bzw. Fr. 1'291.10 zuzusprechen (vgl. Art. 138 Abs. 2 VRG
+und Art. 138 Abs. 3 VRG).
+Eine Parteientschädigung steht der Beschwerdegegnerin
+sodann nicht zu, da die Beantwortung von Rechtsmitteln zu ihrem angestammten
+Aufgabenbereich gehört und eine Parteientschädigung nur bei Vorliegen
+besonderer Umstände zugesprochen wird (Art. 138 Abs. 4 VRG), welche
+vorliegend nicht ersichtlich sind.
+2.
+2.1
+Die
+Beschwerdeführer 2 und 3 beantragen sodann die Gewährung der unentgeltlichen
+Prozessführung. Gemäss Art. 139 Abs. 1
+VRG
+befreit
+die Behörde eine Partei, der die Mittel fehlen um neben dem Lebensunterhalt
+für sich und ihre Familie die Verfahrenskosten aufzubringen, auf Gesuch hin
+ganz oder teilweise von der Kosten- und Vorschusspflicht, sofern das
+Verfahren nicht aussichtslos ist. Unter denselben Voraussetzungen weist sie
+der Partei auf Gesuch hin oder von Amtes wegen einen Anwalt als
+Rechtsbeistand zu, sofern ein solcher für die gehörige Interessenwahrung
+erforderlich ist (Art. 139 Abs. 2 VRG). Der Nachweis der
+Bedürftigkeit obliegt nach Art. 139 Abs. 3 VRG der gesuchstellenden
+Partei.
+2.2
+Aufgrund der Aktenlage erscheint die Mittellosigkeit der Beschwerdeführer 2
+und 3 als offensichtlich
+.
+Auch kann das
+vorliegende Verfahren
+nicht ohne Weiteres als aussichtslos bezeichnet werden. Die Gesuche um
+unentgeltliche Prozessführung sind deshalb gutzuheissen. Da die
+Beschwerdeführer 2 und 3 auf eine rechtliche Vertretung angewiesen
+waren, sind auch die Gesuche um unentgeltliche Rechtsverbeiständung gutzuheissen.
+Der Beschwerdeführerin 2 ist in der Person von Rechtsanwalt
+MLaw Jacques Marti ein
+unentgeltlicher Rechtsbeistand zu bestellen. Dieser ist mit Fr. 3'000.-
+(inkl. Auslagen und Mehrwertsteuer) zu entschädigen.
+Daran anzurechnen ist die Parteientschädigung
+seitens der Beschwerdegegnerin in der Höhe von Fr. 600.-.
+Sodann ist dem
+Beschwerdeführer 3
+in der Person
+von Rechtsanwältin MLaw Corina Göldi eine unentgeltliche Rechtsbeiständin
+zu bestellen. Diese
+reichte am 8. November 2024 eine Honorarnote
+ein. Darin macht sie einen Zeitaufwand von 31.9 Stunden geltend und
+fordert eine Spesenpauschale von 4 % bzw. Fr. 229.70 nebst
+8.1 % Mehrwertsteuer. Zwar fehlt eine rechtliche Grundlage, Auslagen in
+Prozenten des Stundenaufwands geltend zu machen, womit die notwendigen
+Auslagen grundsätzlich lediglich im Umfang des tatsächlich anfallenden
+Aufwands zu entschädigen wären.
+Da die Höhe der Auslagen aufgrund der
+Akten jedoch vertretbar erscheint, sind diese aber nicht zu beanstanden.
+Entsprechend ist
+Rechtsanwältin MLaw Corina
+Göldi
+mit
+Fr. 6'455.40 (inkl. Auslagen und Mehrwertsteuer) zu entschädigen.
+Daran anzurechnen ist die Parteientschädigung
+seitens der Beschwerdegegnerin in der Höhe von Fr. 1'291.10.
+2.3
+Die
+Beschwerdeführer 2 und 3 sind darauf hinzuweisen, dass eine Partei, der die
+unentgeltliche Rechtspflege bewilligt worden ist, für den Fall, dass sie
+später in günstige wirtschaftliche Verhältnisse gelangt, zur Nachzahlung der
+Verfahrenskosten verpflichtet werden kann (Art. 139a VRG).
+3.
+Rechtsanwältin lic. iur.
+Barbara Merz Feitknecht
+macht in ihrer Funktion als Kindesvertreterin
+gemäss den Honorarnoten vom 8. November 2024 und vom 25. November
+2024 einen Zeitaufwand von 51.03 Stunden sowie Barauslagen in der Höhe
+von Fr. 295.70 zuzüglich Mehrwertsteuer geltend. Der entsprechende
+Aufwand ist zu kürzen, weil in den Honorarnoten Nrn. 77211, 77212 und
+77213 einzelne Positionen im Zeitraum vom 18. April 2024 bis zum
+23. Mai 2024 mehrfach aufgeführt sind. So ist die Honorarnote
+Nr. 77212 um Fr. 223.90 (Fr. 30.60 [Fristerstreckungsgesuch
+VG], Fr. 0.50 [Kopien], Fr. 5.80 [Porto Einschreiben],
+Fr. 180.- [Akten kopieren, zusammenstellen und versenden], Fr. 5.80
+[Einschreiben], Fr. 1.20 [Porto]) und die Honorarnote Nr. 77213 um
+Fr. 387.30 (Fr. 149.40 [Aktenstudium], Fr. 30.60
+[Fristerstreckungsgesuch], Fr. 0.50 [Kopien], Fr. 5.80 [Porto
+Einschreiben], Fr. 14.- [Kopien], Fr. 180.- [Akten kopieren,
+zusammenstellen und versenden], Fr. 5.80 [Einschreiben], Fr. 1.20
+[Porto]) zu kürzen. Bei einem praxisgemässen Ansatz von Fr. 180.- pro
+Stunde resultiert gesamthaft eine Entschädigung von Fr. 9'588.40 (inkl.
+Auslagen und Mehrwertsteuer). Die Kindesvertreterin ist in diesem Umfang aus
+der Gerichtskasse zu entschädigen (Art. 139 VRG).
+Demgemäss beschliesst die Kammer:
+1.
+Die
+Gesuche der Beschwerdeführerin 2 um Gewährung der unentgeltlichen
+Prozessführung und der unentgeltlichen Rechtsverbeiständung werden
+gutgeheissen. Ihr wird in der Person von Rechtsanwalt MLaw
+Jacques Marti e
+in unentgeltlicher Rechtsbeistand bestellt.
+Dieser
+wird zu Lasten der Gerichtskasse mit Fr. 3'000.- (inkl. Auslagen und
+Mehrwertsteuer) entschädigt.
+Daran
+angerechnet wird die Parteientschädigung seitens der Beschwerdegegnerin in
+der Höhe von Fr. 600.-.
+2.
+Die
+Gesuche des Beschwerdeführers 3 um Gewährung der unentgeltlichen
+Prozessführung und der unentgeltlichen Rechtsverbeiständung werden
+gutgeheissen. Ihm wird in der Person von Rechtsanwältin
+MLaw Corina Göldi e
+ine unentgeltliche Rechtsbeiständin bestellt.
+Diese
+wird zu Lasten der Gerichtskasse mit
+Fr. 6'455.40
+(inkl. Auslagen und
+Mehrwertsteuer) entschädigt.
+Daran
+angerechnet wird die Parteientschädigung seitens der Beschwerdegegnerin in
+der Höhe von Fr. 1'291.10.
+3.
+Die Nachzahlungspflicht gemäss
+Art. 139a VRG bleibt vorbehalten.
+4.
+Die
+Gerichtskasse wird beauftragt, spätestens im Januar 2030 zu prüfen, ob die
+Voraussetzungen für die Nachzahlung erfüllt sind.
+und erkennt sodann
+:
+1.
+Die
+Beschwerde wird teilweise gutgeheissen. Disp.-Ziffn. 8 f. der
+Beschlüsse der Beschwerdegegnerin vom 28. Februar 2024 werden
+dahingehend abgeändert, als dass die Beigeladenen bei den
+Beschwerdeführern 1 platziert und die Beschwerdeführer 1 als
+Pflegeeltern eingesetzt werden, wobei zusätzlich eine sozialpädagogische
+Familienbegleitung installiert wird. Sodann werden Disp.-Ziffn. 10 f.
+der Beschlüsse der Beschwerdegegnerin vom 28. Februar 2024 dahingehend
+abgeändert, als dass den Beschwerdeführern 2 und 3 ein begleitetes
+Besuchsrecht von 1 ½ Stunden pro Woche gewährt wird. Disp.-Ziffn. 12-14
+der Beschlüsse der Beschwerdegegnerin vom 28. Februar 2024 werden
+ersatzlos gestrichen. Im Übrigen werden die Beschwerden abgewiesen.
+2.
+Von
+den pauschalen Gerichtskosten in der Höhe von Fr. 4'500.- werden den
+Beschwerdeführern je Fr. 1'200.- auferlegt.
+Vom bereits geleisteten Kostenvorschuss
+in der Höhe von Fr. 1'500.- werden den Beschwerdeführern 1
+Fr. 300.- zurückerstattet.
+Fr. 900.-
+werden auf die Staatskasse genommen. Auf die Erhebung des Kostenanteils der
+Beschwerdeführer 2 und 3 wird zufolge Gewährung der unentgeltlichen
+Prozessführung einstweilen verzichtet.
+3.
+Die
+Beschwerdegegnerin wird verpflichtet, den Beschwerdeführern 1 innert
+30 Tagen nach Rechtskraft dieses Entscheids eine reduzierte
+Parteientschädigung in der Höhe von Fr. 1'300.- (inkl. Auslagen
+und Mehrwertsteuer), der Beschwerdeführerin  2 eine solche von
+Fr. 600.- (inkl. Auslagen und Mehrwertsteuer) und dem
+Beschwerdeführer 3 eine solche von Fr. 1'291.10 (inkl. Auslagen
+und Mehrwertsteuer) zu bezahlen.
+4.
+Die
+Rechtsbeiständin der Beigeladenen wird zu Lasten der Gerichtskasse mit
+Fr. 9'588.40 (inkl. Auslagen und Mehrwertsteuer) entschädigt.
+5.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
