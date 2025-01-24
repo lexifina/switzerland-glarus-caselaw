@@ -1,0 +1,99 @@
+---
+decision_id: "gl_gerichte_OG.2024.00066"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2024.00066"
+docket_2: "OGS.2025.183"
+decided: "2025-01-24"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1971&W10_KEY=232154&nTrefferzeile=7&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/312.0/art-399.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# GL Gerichte OG.2024.00066
+
+## Regeste
+
+Fahren in fahrunfähigem Zustand
+
+## Text
+
+Glarus Obergericht 24.01.2025 OG.2024.00066 (OGS.2025.183)
+Glaris Obergericht 24.01.2025 OG.2024.00066 (OGS.2025.183)
+Glarona Obergericht 24.01.2025 OG.2024.00066 (OGS.2025.183)
+
+Fahren in fahrunfähigem Zustand
+
+Kanton Glarus
+Obergericht
+Es wirken mit:
+Obergerichtspräsidentin Dr. iur. Petra Hauser,
+Oberrichterin Monika Trümpi, Oberrichterin Ruth Hefti, Oberrichter Martin Ilg
+und Oberrichterin Petra Zentner sowie
+Gerichtsschreiber
+lic. iur. Erich Hug.
+Beschluss
+vom 24. Januar 2025
+Verfahren
+OG.2024.00066
+A.______                                                                                    Beschuldigter
+und
+Berufungskläger
+gegen
+Staats-
+und Jugendanwaltschaft des Kantons Glarus
+Anklägerin
+und
+Postgasse 29,
+8750
+Glarus
+Berufungsbeklagte
+vertreten
+durch
+den Staatsanwalt
+Gegenstand
+Fahren
+in fahrunfähigem Zustand
+Erwägungen
+1.
+Mit Urteil vom 2. Oktober 2024 verurteilte das hiesige Kantonsgericht
+den Beschuldigten A.______ wegen Fahrens in fahrunfähigem Zustand zu einer
+Geldstrafe und Busse (act. 26). Dagegen meldete der damali­ge Rechtsvertre­ter
+des Beschuldigten in der Folge rechtzeitig Berufung an und ver­langte die
+schrift­liche Urteilsbegründung (act. 23). Am 17. Dezember 2024 erhielt der
+Beschuldigte das begründete Kantonsgerichtsurteil zugestellt (act. 28).
+2.
+Mit Schreiben vom 27. Dezember 2024 gelangte der Beschuldigte an das
+Ober­gericht. Die Eingabe mit dem Titel „Beschwerde wegen mangelhafter
+Beweisauf­nahme und polizeilicher Amtsverletzung“ enthielt keine Anträge in
+Bezug auf den vorgenannten kantonsgerichtlichen Entscheid.
+3.
+Mit Schreiben der Verfahrensleitung vom 30. Dezember 2024
+(act. 32) wurde der Beschuldigte auf Art. 399 Abs. 3 StPO hingewiesen,
+wonach in einer Berufungser­klärung konkret anzugeben ist, ob (i) das
+kantonsgericht­liche Urteil vollumfänglich oder nur in Teilen angefochten und
+(ii) welche Änderungen des Urteils verlangt wer­den. Dem Beschuldigten wurde
+eine Nachfrist bis zum 20. Januar 2025 eingeräumt, um dem Obergericht
+eine den genannten Anforderungen genügende Berufungser­klärung einzureichen.
+4.
+Der Beschuldigte hat innert angesetzter Nachfrist keine weitere
+Eingabe mehr eingereicht, sodass – wie im erwähnten Schreiben der Verfah­rensleitung
+für diesen Fall angekündigt – auf die Berufung nicht einzutreten ist. Für die
+Aufwendun­gen des Obergerichts ist vom Beschuldigten die Minimalgebühr von
+CHF 100.- zu erheben (Art. 428 Abs. 1 StPO und Art. 8 Abs. 1 lit. a der
+Zivil- und Strafprozesskos­tenverordnung; GS III A/5).
+____________________
+Beschluss
+1.
+Auf die Berufung
+von A.______ gegen das Urteil des Kantonsgerichts vom 2. Oktober 2024 im
+Verfahren SG.2023.00110 wird nicht eingetreten.
+2.
+A.______ hat für
+das obergerichtliche Verfahren eine Gerichtsgebühr von CHF 100.‑
+zu bezahlen.
+3.
+schriftliche
+Mitteilung an:
+[...]
