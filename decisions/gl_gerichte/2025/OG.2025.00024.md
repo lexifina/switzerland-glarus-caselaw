@@ -1,0 +1,166 @@
+---
+decision_id: "gl_gerichte_OG.2025.00024"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2025.00024"
+docket_2: "OGS.2025.186"
+decided: "2025-04-11"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1974&W10_KEY=232154&nTrefferzeile=10&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/312.0/art-411.md", "switzerland/bund/acts/312.0/art-413.md", "switzerland/bund/acts/312.0/art-423.md", "switzerland/bund/acts/312.0/art-429.md"]
+---
+
+# GL Gerichte OG.2025.00024
+
+## Regeste
+
+Revision eines Strafbefehls
+
+## Text
+
+Glarus Obergericht 11.04.2025 OG.2025.00024 (OGS.2025.186)
+Glaris Obergericht 11.04.2025 OG.2025.00024 (OGS.2025.186)
+Glarona Obergericht 11.04.2025 OG.2025.00024 (OGS.2025.186)
+
+Revision eines Strafbefehls
+
+Kanton Glarus
+Obergericht
+Es wirken mit:
+Obergerichtsvizepräsidentin MLaw Sarina Dreyer,
+Oberrichterin Monika Trümpi, Oberrichter MLaw Mario Marti, Oberrichter Martin
+Ilg und Oberrich­terin Petra Zentner sowie
+Gerichtsschreiber
+lic. iur. Erich Hug.
+Urteil
+vom 11. April 2025
+Verfahren
+OG.2025.00024
+Staats-
+und Jugendanwaltschaft des Kantons Glarus
+Postgasse 29,
+8750
+Glarus
+Gesuchstellerin
+vertreten
+durch
+den Staatsanwalt
+Gegenstand
+Revision
+eines Strafbefehls
+Rechtsbegehren
+der
+Gesuchstellerin
+(gemäss Eingabe vom 13. März 2025
+[act. 3]):
+1.
+Es sei der Strafbefehl der
+Glarner Staatsanwaltschaft vom 15. Dezember 2016 (SA.2016.00515) aufzuheben
+und die Sache an die Staatsanwaltschaft zurück­zuweisen zur neuen
+Behandlung und Beurteilung.
+2.
+Die Verfahrenskosten seien
+vom Kanton Glarus zu tragen.
+____________________
+Erwägungen
+1.
+1.1
+In der Nacht auf Dienstag, 25. Oktober 2016, ereignete sich beim
+Kreisel südlich von Näfels (Glarus Nord) ein Verkehrsunfall, indem ein
+Personenwagen mit dem Kontrollschild [...] auf die Kreiselkuppe fuhr und dort
+beschädigt zum Still­stand kam; beim Eintreffen der Polizei fehlte vom
+Fahrzeuglenker jede Spur. Am folgenden Vormittag meldet sich A.______ auf dem
+Polizeistützpunkt Biäsche und erklärte, dass er in der Nacht den
+Verkehrsunfall beim Kreisel verursacht habe.
+Mit Strafbefehl vom
+15. Dezember 2016 (act. 1) sprach die Staatsanwaltschaft des Kan­tons Glarus
+A.______ der Vereitelung von Massnahmen zur Feststellung der Fahrunfähigkeit,
+der einfachen Verletzung der Verkehrsregeln (durch Nichtbe­herr­schen des
+Fahrzeuges) und des pflichtwidrigen Verhaltens bei einem Unfall sowie des
+Lenkens eines Motorfahrzeuges in nicht betriebssicherem Zustand (wegen abgefah­rener
+Reifen) schuldig. Sie belegte ihn mit einer Geldstrafe von 40
+Tages­sätzen zu CHF 100.-, bedingt vollziehbar bei einer
+Probezeit von zwei Jah­ren, und mit einer Busse von CHF 2'000.-; zudem
+wurden ihm CHF 600.- Verfah­renskosten überbunden. Der
+Strafbefehl erwuchs unan­gefochten in Rechtskraft (vorstehende Ausführungen
+entnommen aus act. 2 S. 3).
+2.
+Mit Eingabe vom 13. März 2025
+(act. 3) beantragt die Staatsanwaltschaft die Revi­sion des gegen
+A.______
+ergangenen Strafbefehls; nicht er, sondern B.______
+habe am 25. Oktober 2016 den Unfall beim Kreisel in Näfels verursacht.
+Tatsächlich steht gemäss Urteil
+des Obergerichts vom 28. Februar 2020 (act. 2) verbindlich fest, dass
+B.______ Lenker des Unfallfahrzeugs war; demgemäss wurde dieser in allen
+damit einhergehenden Anklagepunkten verurteilt.
+3.
+Das Obergericht als
+Berufungsinstanz in Strafsachen ist zur Behandlung des Revi­sionsgesuchs
+zuständig (Art. 411 Abs. 1 StPO in Verbindung mit Art. 17 Abs. 1
+lit. a GOG/GL).
+4.
+4.1
+Die Revision eines
+rechtskräftigen Entscheids ist namentlich möglich, wenn neue, vor dem
+Entscheid eingetretene Tatsachen oder neue Beweismittel vorliegen, die einen
+Freispruch rechtfertigen oder wenn der fragliche Strafentscheid mit einem
+späteren Strafentscheid, der den gleichen Sachverhalt betrifft, in
+unverträglichem Widerspruch steht (Art. 410 Abs. 1 lit. a und
+lit. b StPO).
+4.2
+Vorliegend ist
+erstellt, dass am
+25. Oktober 2016 nicht A.______, sondern
+B.______ beim Kreisel in Näfels mit dem Personenwagen [...] verunfallte
+.
+Es liegen damit neue Tatsachen und Beweismittel vor (anderer Fahr­zeuglenker),
+welche erst nach Erlass des Strafbefehls vom 15. Dezember 2016 gegen
+A.______
+bekannt wurden. Ebenso steht die seinerzeitige
+Verurteilung von
+A.______
+in offensichtlichem
+Widerspruch zum späteren Strafurteil des Obergerichts vom 28. Februar
+2020 gegen B.______.
+4.3
+Aus alldem folgt, dass
+das Revisionsgesuch gutzuheissen und der Strafbefehl vom 15. Dezember 2016
+(SA.2016.00515) gegen
+A.______
+aufzuheben ist.
+Gemäss Art. 413 Abs. 2 lit. b
+StPO könnte das Obergericht als Revisionsinstanz zwar sogleich selber einen
+neuen Entscheid fällen, wenn es die Aktenlage erlaubt. In materieller
+Hinsicht wäre diese Voraussetzung hier gegeben: Es ist zweifelsfrei
+nachgewiesen, dass
+A.______
+nicht der Lenker des am 25.
+Oktober 2016 beim Kreisel in Näfels verunfallten Personenwagens war, weshalb
+ihn diesbezüglich kein strafrechtlicher Vorwurf trifft. Indes ist dem
+Obergericht nicht bekannt, ob
+A.______
+im seinerzeitigen
+Strafbefehlsverfahren Aufwand erwachsen ist, welcher unter Umständen zu
+entschädigen sein wird (Art. 429 StPO). Es ist daher in Anwen­dung von Art.
+413 Abs. 2 lit. a StPO die Sache zu weiteren Behandlung an die
+Staatsanwaltschaft zurückzuweisen.
+5.
+Bei diesem Ausgang sind die
+Kosten des vorliegenden Revisionsverfahrens auf die Staatskasse zu nehmen
+(Art. 423 Abs. 1 StPO).
+____________________
+Urteil
+1.
+In Gutheissung des
+Revisionsgesuchs wird der Strafbefehl der Staatsanwalt­schaft des Kantons
+Glarus vom 15. Dezember 2016 (SA.2016.00515) auf­gehoben; die Sache wird
+zur weiteren Behandlung an die Staatsanwaltschaft zurückgewiesen.
+2.
+Die Kosten des
+Revisionsverfahrens von CHF 800.- werden auf die Staatskasse genommen.
+3.
+Schriftliche Mitteilung
+an:
+[...]
