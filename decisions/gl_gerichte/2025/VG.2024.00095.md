@@ -1,0 +1,341 @@
+---
+decision_id: "gl_gerichte_VG.2024.00095"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2024.00095"
+docket_2: "VG.2025.1462"
+decided: "2025-05-22"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1951&W10_KEY=232154&nTrefferzeile=5&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/814.20/art-036a.md", "switzerland/bund/acts/814.201/art-041a.md"]
+---
+
+# GL Gerichte VG.2024.00095
+
+## Regeste
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+## Text
+
+Glarus Verwaltungsgericht 22.05.2025 VG.2024.00095 (VG.2025.1462)
+Glaris Verwaltungsgericht 22.05.2025 VG.2024.00095 (VG.2025.1462)
+Glarona Verwaltungsgericht 22.05.2025 VG.2024.00095 (VG.2025.1462)
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+22. Mai 2025
+I. Kammer
+Besetzung:
+Gerichtspräsident MLaw Colin Braun, Verwaltungsrichterin Katia Weibel,
+Verwaltungsrichter Patrik Noser und Gerichtsschreiberin MLaw Paula Brändli
+in Sachen
+VG.2024.00095
+A.______AG
+Beschwerdeführerin
+gegen
+1.
+Gemeinde Glarus Nord
+Beschwerdegegner
+vertreten durch
+MLaw
+Caterina
+Ventrici, Rechtsanwältin
+2.
+Departement Bau und Umwelt des Kantons
+Glarus
+betreffend
+Gesamtrevision Nutzungsplanung Glarus Nord
+Die Kammer zieht in Erwägung:
+I.
+1.
+Nachdem
+die Gemeindeversammlung Glarus Nord die Gesamtrevision der Nutzungsplanung am
+24. April 2021 sowie am 27. April 2021 und am 16. September 2022 sowie am
+6. Juni 2023 beschlossen hatte, reichte die Gemeinde Glarus Nord dem
+Departement Bau und Umwelt des Kantons Glarus (DBU) am 28. Juli 2023 die
+Planungsunterlagen zur Genehmigung ein. Am 20. August 2024 genehmigte Letzteres
+die Gesamtrevision der Nutzungsplanung, gewährte dabei Ausnahmen, nahm
+redaktionelle Änderungen vor und erteilte der Gemeinde Aufträge. Dabei hob es
+unter anderem die Reduktion des Gewässerraums südseitig des Dorfbachs Bilten
+auf den Parz.-Nrn. 01, 02 und 03, Grundbuch Bilten, auf. Für den
+entsprechenden Gewässerabschnitt sei ein Gewässerraum gemäss Art. 41a
+Abs. 2-4
+der Gewässerschutzverordnung vom
+28. Oktober 1998 (
+GSchV) festzusetzen (Disp.-Ziff. 4
+Lemma 4). Der Genehmigungsentscheid wurde am 28. August 2024 im
+kantonalen Amtsblatt publiziert.
+2.
+2.1
+Die A.______AG gelangte mit Beschwerde vom 26. September 2024 ans
+Verwaltungsgericht und beantragte, Disp.-Ziff. 4 des
+Genehmigungsentscheids des DBU vom 20. August 2024 sei dahingehend
+abzuändern, als dass bei den südseitig des Dorfbachs Bilten liegenden
+Parz.-Nrn. 01, 02 und 03, Grundbuch Bilten, die Reduktion des
+Gewässerraums nicht aufzuheben sei; unter gesetzlicher Kosten- und
+Entschädigungsfolge.
+2.2
+Die Gemeinde Glarus Nord schloss sich am
+4. Dezember 2024 dem angefochtenen Genehmigungsentscheid an, verzichtete
+jedoch darauf, eigene Rechtsbegehren zu formulieren oder eine eingehende
+Stellungnahme abzugeben.
+Das DBU beantragte am 10. Dezember 2024
+die Abweisung der Beschwerde, soweit darauf einzutreten sei. Nachdem die
+A.______AG ihr Rechtsbegehren am 8. Februar 2025 erneuert hatte,
+verzichteten sowohl das DBU als auch die Gemeinde Glarus Nord am
+11. März 2025 bzw. 13. März 2025 auf die Einreichung einer
+Duplik.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss Art. 28
+Abs. 3 des Raumentwicklungs- und Baugesetzes vom 2. Mai 2010 (RBG)
+zur Behandlung der vorliegenden Beschwerde zuständig.
+1.2
+Gemäss Art. 107 Abs. 2 des Gesetzes über die
+Verwaltungsrechtspflege vom 4. Mai 1986 (VRG) kommt dem Verwaltungsgericht
+nur ausnahmsweise eine volle Überprüfungsbefugnis zu, wobei der hier
+strittige Fall nicht explizit im Ausnahmekatalog erwähnt ist. Vorliegend ist
+indessen ein Entscheid über die Genehmigung eines Nutzungsplans angefochten,
+welchen das Verwaltungsgericht als erste und einzige kantonale
+Rechtsmittelinstanz überprüft. Da die Kantone mit Blick auf Art. 33
+Abs. 3 lit. b des Bundesgesetzes über die Raumplanung vom
+22. Juni 1979 (RPG) zu gewährleisten haben, dass mindestens eine Beschwerdeinstanz
+Nutzungspläne umfassend überprüft, kommt dem Verwaltungsgericht in Anwendung
+von Art. 107 Abs. 2 lit. g VRG in der vorliegenden Sache volle
+Kognition zu, weshalb es auch die Angemessenheit des angefochtenen Entscheids
+überprüft (vgl. Heinz Aemisegger/Stephan Haag, in Heinz Aemisegger et al.
+[Hrsg.], Praxiskommentar RPG: Baubewilligung, Rechtsschutz und Verfahren,
+Zürich/Basel/Genf 2020, Art. 33 N. 57).
+1.3
+Der Beschwerdegegner 2 hat im angefochtenen
+Genehmigungsentscheid lediglich festgehalten, dass beim streitbetroffenen
+Gewässerabschnitt ein Gewässerraum auszuscheiden sei. Soweit die
+Beschwerdeführerin nun Argumente betreffend die Reduktion des Gewässerraums
+und damit die Grösse desselben vorbringt, sind diese aber nicht zu hören.
+Dasselbe gilt für die nachträglich im verwaltungsgerichtlichen Verfahren
+vorgebrachten Argumente des Beschwerdegegners 2 betreffend Reduktion des
+Gewässerraums. Vorliegend geht es nämlich einzig um die Frage der Aufhebung
+eines Verzichts auf einen Gewässerraum (vgl. untenstehende E. II/4.1),
+was für sich alleine einen Endentscheid darstellt, da der
+Beschwerdegegnerin 1 diesbezüglich kein Spielraum belassen wird.
+Betreffend die konkrete Festsetzung des Gewässerraums liess ihr der
+Beschwerdegegner 2 im Rahmen von Art. 41a Abs. 2-4 GSchV demgegenüber
+einen Handlungsspielraum offen. Entsprechend stellt der Genehmigungsentscheid
+in dieser Hinsicht einen Rückweisungsentscheid mit offenem Ausgang und damit
+einen Zwischenentscheid dar, welcher nur unter bestimmten Bedingungen
+anfechtbar ist (vgl. nachstehende E. II/1.4).
+1.4
+Eine Möglichkeit der Anfechtung eines solchen
+Zwischenentscheids besteht für Privatpersonen dann, wenn sich die Gemeinde
+mit einer Autonomiebeschwerde ebenfalls zur Wehr setzt (vgl. Michael
+Pletscher, Der negative Genehmigungsentscheid in der Nutzungsplanung,
+Bemerkenswertes in Sachen Rechtsschutz, AJP/PJA 4/2021, S. 478 ff.,
+481 f.), was vorliegend aber nicht der Fall ist. Entsprechend ist einzig
+eine Anfechtungsmöglichkeit nach kantonalem Verfahrensrecht denkbar, welches
+eine solche grundsätzlich aber nicht vorsieht (vgl. Art. 79
+Abs. 1 RBG i.V.m. Art. 86 Abs. 1 VRG). Nur, aber immerhin ist
+von dieser Regel dann abzuweichen, wenn der Zwischenentscheid einen nicht
+wieder gutzumachenden Nachteil bewirken kann (Art. 86 Abs. 2 VRG).
+Hiervon ist in Fällen wie dem Vorliegenden aber nicht auszugehen, da der
+zurückgewiesene Teil des Nutzungsplans nach dessen Überarbeitung erneut der
+Anfechtung unterliegt
+(vgl. Pletscher
+S. 482). Die Beschwerdeführerin macht diesbezüglich nichts Substantiiertes
+geltend, wobei ein nicht wieder gutzumachender Nachteil insgesamt denn auch
+nicht ersichtlich ist (vgl. zum Ganzen Urteil des Kantonsgerichts Luzern
+7H 20 45 vom 21. April 2021 E. 5.4, 8.2.3, je mit Hinweisen). Damit
+ist auf die Frage der Grösse und folglich auch einer Reduktion des
+Gewässerraums auf den streitbetroffenen Parzellen nicht weiter einzugehen und
+nachfolgend lediglich die Frage hinsichtlich des vom Beschwerdegegner 2
+untersagten Verzichts zu prüfen.
+1.5
+Der Vollständigkeit halber ist schliesslich
+festzuhalten, dass die Beschwerdeführerin betreffend drei benachbarte
+Parzellen Anträge stellt, jedoch nur eine davon in ihrem Eigentum ist. Soweit
+sie mit ihren Vorbringen sinngemäss Eigentumsbeschränkungen geltend macht,
+ist sie einzig in Bezug auf die in ihrem Eigentum stehenden Liegenschaft,
+namentlich die Parz.-Nr. 03, Grundbuch Bilten, beschwerdeberechtigt.
+Dies ändert aber grundsätzlich nichts an den nachfolgenden Ausführungen, da
+die streitbetroffene Gewässerraumthematik ohnehin Auswirkungen auf alle von
+der Beschwerdeführerin genannten Parzellen zeitigt.
+2.
+2.1
+Die Beschwerdeführerin führt aus, der
+Beschwerdegegner 2 habe die Reduktionen bzw. die Verzichte auf
+Gewässerräume allgemein nicht genehmigt. Dies mit der pauschalen Begründung,
+dass rechtliche Vorbehalte bestünden. Eine lnteressenabwägung sei entgegen
+dessen Ansicht aber erfolgt, an der Gemeindeversammlung dargelegt und von den
+Stimmberechtigten gebilligt worden. Sodann liege auf der einen Seite des
+streitbetroffenen Bachs extensiv genutztes Gemeindegebiet, worauf ein
+Gewässerraum ausgeschieden werden könne, ohne dass eingezontes und überbautes
+Bauland tangiert werde. Im Grundlagenplan werde der betroffene Abschnitt beim
+Dorfbach/Unterbiltnerbach zudem als künstlich bzw. naturfremd und im
+Grundlagenplan Reduktionen als eingedolt bezeichnet, womit entweder
+Art. 41a Abs. 5 lit. b oder lit. c GSchV zur Anwendung
+komme. Eine Gewässerraumverschiebung auf die gegenüberliegende Seite sei
+ferner möglich und die Zugänglichkeit für den Unterhalt oder bei einem
+Hochwasserereignis gewährleistet. Soweit eine Umlegepflicht auf die
+nichtbebaute Seite verneint werde, sei des Weiteren darauf hinzuweisen, dass
+dies andernorts gemacht worden sei, beispielsweise dort, wo Bau- an
+Landwirtschaftszonen angrenzen würden. Auf der Seite des landwirtschaftlich
+genutzten Gebiets seien viel grössere Gewässerräume ausgeschieden worden als
+auf der Bauzonenseite, weil die Bauten näher am Gewässer stünden als es der
+Gewässerraum, der wegen der Bachgrösse ausgeschieden werden sollte, erlauben
+würde. Beim Dorfbach Bilten bestehe schliesslich kein
+Hochwasserschutzdefizit, da daran schon einige Hochwasserschutzprojekte
+erfolgreich umgesetzt worden seien (zuletzt im Jahr 2012).
+2.2
+Der Beschwerdegegner 2 bringt vor, auf einen
+Gewässerraum könne nicht verzichtet werden, da keines der Kriterien von
+Art. 41a Abs. 5 GSchV erfüllt sei. Eine nachvollziehbare
+lnteressenabwägung zur Verringerung oder zur asymmetrischen Ausscheidung
+eines Gewässerraums sei überdies nicht erfolgt. Grundsätzlich sei der
+Gewässerraum so wenig wie möglich zu reduzieren und zudem symmetrisch
+auszuscheiden. Eine Umlegepflicht auf die nicht bebaute Seite bestehe dabei
+nicht und Ausnahmen vom Grundsatz des Schutzes des Gewässerraums seien restriktiv
+auszulegen. Es sei insgesamt ein bundesrechtskonformer Gewässerraum
+auszuscheiden, wofür eine entsprechende rechtsgenügliche lnteressenabwägung
+notwendig sei.
+3.
+Gemäss Art. 36a Abs. 1 des
+Bundesgesetzes über den Schutz der Gewässer vom 24. Januar 1991 (GSchG)
+legen die Kantone nach Anhörung der betroffenen Kreise den Raumbedarf der
+oberirdischen Gewässer (Gewässerraum) fest, der erforderlich ist für die
+Gewährleistung der natürlichen Funktionen der Gewässer (lit. a); des
+Schutzes vor Hochwasser (lit. b) sowie der Gewässernutzung (lit. c), wobei
+der Bundesrat die Einzelheiten regelt (Art. 36a Abs. 2 GSchG). Ausser in
+Fällen gemäss Art. 41a Abs. 1 GSchV muss die Breite des
+Gewässerraums für Fliessgewässer mit einer Gerinnesohle von weniger als
+2 Metern natürlicher Breite 11 Meter (lit. a) und für solche
+mit einer Gerinnesohle von 2 bis 15 Metern natürlicher Breite die
+2,5-fache Breite der Gerinnesohle plus 7 Meter (lit. b) betragen (Art.
+41a Abs. 2 GSchV). Die so berechnete Breite des Gewässerraums muss gemäss
+Art. 41a Abs. 3 GSchV erhöht werden, soweit dies erforderlich ist zur
+Gewährleistung des Schutzes vor Hochwasser (lit. a); des für eine
+Revitalisierung erforderlichen Raums (lit. b); der Schutzziele von Objekten
+nach Art. 41a Abs. 1 GSchV sowie anderer überwiegender Interessen des
+Natur- und Landschaftsschutzes (lit. c) oder einer Gewässernutzung (lit. d).
+Soweit der Hochwasserschutz gewährleistet ist, kann die Breite des
+Gewässerraums den baulichen Gegebenheiten in dicht überbauten Gebieten oder
+den topografischen Verhältnissen in Gewässerabschnitten, in denen das
+Gewässer den Talboden weitgehend ausfüllt und die beidseitig von Hängen
+gesäumt sind, deren Steilheit keine landwirtschaftliche Bewirtschaftung
+zulässt, angepasst werden (Art. 41a Abs. 4 GSchV). Soweit keine überwiegenden
+Interessen entgegenstehen, kann gemäss Art. 41a Abs. 5 GSchV
+schliesslich auf die Festlegung eines Gewässerraums verzichtet werden, wenn
+das Gewässer sich im Wald oder in Gebieten, die im landwirtschaftlichen
+Produktionskataster gemäss der Landwirtschaftsgesetzgebung nicht dem Berg-
+oder Talgebiet zugeordnet sind, befindet (lit. a); eingedolt (lit. b);
+künstlich angelegt (lit. c) oder sehr klein ist (lit. d). Bei Art. 41a
+Abs. 5 GschV handelt es sich um eine "Kann-Bestimmung", weshalb
+grundsätzlich kein Rechtsanspruch auf einen Verzicht besteht. Ein solcher
+steht vielmehr im pflichtgemässen Ermessen der zuständigen Behörde (vgl.
+BGer-Urteil 1C_522/2022 vom 25. März 2024 E. 7.2, mit Hinweisen), in
+welches das Gericht nicht ohne Not eingreift.
+4.
+4.1
+Beim
+streitbetroffenen Gewässerabschnitt hatte die Beschwerdegegnerin 1 unter
+anderem auf dem Grundstück der Beschwerdeführerin den Gewässerraum bis auf
+die Uferlinie zurückgenommen. Dies bezeichnete sie andernorts, namentlich im
+entsprechend publizierten Zonenplan Bilten, als Reduktion des Gewässerraums.
+Der ursprünglich an der Gemeindeversammlung angenommene Antrag
+Nr. 2.13.5 lautete demgegenüber auf Verzicht. Eine auf der Uferlinie
+liegende Grenze des Gewässerraums entspricht dabei aber unabhängig von der
+Bezeichnung einem fehlenden bzw. einem Verzicht auf einen Gewässerraum
+und nicht lediglich einer Reduktion. Auch wenn das Gerinne nicht in der Mitte
+des Gewässerraums als Korridor liegen muss und so an die Gegebenheiten vor
+Ort angepasst werden kann, braucht es für einen Gewässerraum fixe Abstände
+auf beiden Seiten des Gewässers, wobei die minimale Breite nicht
+unterschritten werden darf (vgl. Art. 41a Abs. 2 GSchV;
+Erläuternder Bericht des Bundesamts für Umwelt vom 20. April 2011 zur
+Parlamentarischen Initiative Schutz und Nutzung der Gewässer [07.492] -
+Änderung der Gewässerschutz-, Wasserbau-, Energie- und Fischereiverordnung,
+S. 10 f.; Christoph Fritzsche, in Peter Hettich/Luc Jansen/Roland
+Norer [Hrsg.], Kommentar zum Gewässerschutzgesetz und Wasserbaugesetz,
+Zürich/Basel/Genf 2016, Art. 36a GSchG N. 47 f.).
+4.2
+Mit Blick auf das bereits Dargelegte (vgl.
+vorstehende E. II/1.3 ff. und II/4.1) ist nachfolgend somit einzig
+die Rechtmässigkeit eines Verzichts auf einen Gewässerraum gemäss Art. 41a
+Abs. 5 GSchV zu prüfen. Das streitbetroffene Gewässer liegt dabei
+offensichtlich und unstreitig weder im Wald noch in einem anderen von
+Art. 41a Abs. 5 lit. a GSchV umschriebenen Gebiet. Es fällt
+sodann entgegen den Ausführungen der Beschwerdeführerin nicht unter
+Art. 41a Abs. 5 lit. c GSchV, da es sich nicht um ein
+gesamthaft künstlich angelegtes Gewässer handelt. So genügt es für die
+Annahme eines künstlichen Gewässers im Sinne der GSchV nämlich noch nicht,
+wenn lediglich ein Abschnitt des Gewässers kanalisiert und damit korrigiert
+ist (vgl. zum Ganzen Fritzsche, Art. 36a GSchG N. 65). Der
+streitbetroffene Bach ist ferner nicht als sehr kleines Gewässer gemäss
+Art. 41a Abs. 5 lit. d GSchV zu qualifizieren, was selbst die
+Beschwerdeführerin nicht geltend macht. Diesfalls wäre der Verzicht nach dem
+Zweck der Norm denn auch für das ganze Gewässer und nicht nur den
+streitbetroffenen Abschnitt vorzunehmen (vgl. Fritzsche, Art. 36a GSchG
+N. 68). Gemäss dem im Rahmen der Nutzungsplanung durch die
+Beschwerdegegnerin 1 erstellten und publizierten Zonenplan Nutzung
+1:2'500 Bilten ist der streitbetroffene Gewässerabschnitt schliesslich nicht
+eingedolt. Die von der Beschwerdeführerin eingereichten Pläne zeigen denn
+auch nichts Anderes auf, wobei der aktuelle Plan der
+Beschwerdegegnerin 1 ohnehin massgebend und selbst bei kurzen
+eingedolten Gewässerabschnitten von im Übrigen weitgehend offenen Gewässern
+ein Gewässerraum auszuscheiden ist (vgl. Kantonale Richtlinie zur
+Festlegung des Gewässerraums in der Ortsplanung vom 30. September 2014,
+E. 3.2.4). Entsprechend ist auch kein Verzicht gestützt auf
+Art. 41a Abs. 5 lit. b GSchV möglich.
+4.3
+Soweit
+die Beschwerdeführerin vorbringt, andernorts bestünden einseitige
+Gewässerräume, konkretisiert sie dies nicht weiter. Zudem würde eine analoge
+Handhabung voraussetzen, dass der Beschwerdegegner 2 solche Fälle trotz
+ihrer Bundesrechtswidrigkeit genehmigt hätte und damit gleich gelagerte
+Sachverhalte anders behandeln würde. Hierfür bestehen indes keine Anhaltspunkte,
+womit kein Ausnahmefall eines Anspruchs auf Gleichbehandlung im Unrecht
+vorliegt (vgl. BGer-Urteil 1C_444/2014 vom 27. Januar 2015
+E. 4.2; mit Hinweisen).
+4.4
+Da insgesamt keine der Voraussetzungen für einen
+Verzicht auf einen Gewässerraum gemäss Art. 41a Abs. 5 GSchV
+erfüllt sind bzw. der Beschwerdegegner 2 das ihm hierbei zustehende
+Ermessen pflichtgemäss sowie willkürfrei ausgeübt hat und auf die Rüge
+betreffend den zurückgewiesenen Teil des Genehmigungsentscheids nicht
+eingetreten werden kann, ist das Vorgehen des Beschwerdegegners 2 im
+Ergebnis nicht zu beanstanden. Die konkrete Festsetzung des Gewässerraums
+beim streitbetroffenen Gewässer ist sodann Aufgabe der
+Beschwerdegegnerin 1, wobei sie insbesondere Art. 41a Abs. 4 GSchV
+und die konkreten örtlichen Begebenheiten zu berücksichtigen hat.
+Dies führt zur Abweisung
+der Beschwerde.
+III.
+Nach Art. 134 Abs. 1 lit.
+c VRG hat die Partei, welche im Beschwerde-, Klage- oder Revisionsverfahren
+unterliegt, die amtlichen Kosten zu tragen.
+Die pauschalen
+Gerichtskosten von Fr. 2'000.- sind ausgangsgemäss der
+Beschwerdeführerin aufzuerlegen. Von dem von ihr bereits geleisteten
+Kostenvorschuss in der Höhe von Fr. 3'000.- sind ihr Fr. 1'000.-
+zurückzuerstatten. Ebenfalls ausgangsgemäss und mangels berufsmässiger
+Parteivertretung ist ihr sodann keine Parteientschädigung zuzusprechen
+(Art. 138 Abs. 3 lit. a VRG).
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Beschwerde wird abgewiesen.
+2.
+Die
+Gerichtskosten in der Höhe von Fr. 2'000.- werden der Beschwerdeführerin
+auferlegt. Von dem von ihr bereits geleisteten Kostenvorschuss in der Höhe
+von Fr. 3'000.- werden ihr Fr. 1'000.- zurückerstattet.
+3.
+Es
+wird keine Parteientschädigung zugesprochen.
+4.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
