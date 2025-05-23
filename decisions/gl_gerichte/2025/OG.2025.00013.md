@@ -1,0 +1,632 @@
+---
+decision_id: "gl_gerichte_OG.2025.00013"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2025.00013"
+docket_2: "OGS.2025.182"
+decided: "2025-05-23"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1970&W10_KEY=232154&nTrefferzeile=3&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/312.0/art-082.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-398.md", "switzerland/bund/acts/312.0/art-399.md", "switzerland/bund/acts/312.0/art-402.md", "switzerland/bund/acts/312.0/art-404.md", "switzerland/bund/acts/312.0/art-408.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/741.21/art-099.md", "switzerland/bund/acts/741.21/art-114.md"]
+---
+
+# GL Gerichte OG.2025.00013
+
+## Regeste
+
+Unbewilligtes Anbringen von Reklamen an Kantonsstrassen
+
+## Text
+
+Glarus Obergericht 23.05.2025 OG.2025.00013 (OGS.2025.182)
+Glaris Obergericht 23.05.2025 OG.2025.00013 (OGS.2025.182)
+Glarona Obergericht 23.05.2025 OG.2025.00013 (OGS.2025.182)
+
+Unbewilligtes Anbringen von Reklamen an Kantonsstrassen
+
+Kanton Glarus
+Obergericht
+Es wirken mit:
+Obergerichtsvizepräsidentin MLaw Sarina Dreyer,
+Oberrichterin Monika Trümpi, Oberrichter MLaw Mario Marti, Oberrichterin
+Petra Zentner, Oberrichter Patrick Landolt
+sowie
+Gerichtsschreiber lic. iur. Erich Hug.
+Urteil
+vom 23. Mai 2025
+Verfahren
+OG.2025.00013
+A.______
+Beschuldigter
+und
+Berufungskläger
+verteidigt
+durch
+lic. iur.
+Fred
+Hofer,
+Rechtsanwalt LL.M.,
+Verteidiger,
+gegen
+Staats-
+und Jugendanwaltschaft des Kantons Glarus
+Anklägerin und
+Berufungsbeklagte
+vertreten
+durch
+MLaw
+Florian
+Menzi,
+Staatsanwalt,
+Vertreter,
+Gegenstand
+Unbewilligtes
+Anbringen von Strassenreklamen
+Anträge
+des Beschuldigten
+(gemäss Berufungserklärung vom 14. Februar
+2025, act. 19):
+Es sei das
+Urteil der Vizepräsidentin des Kantonsgerichts Glarus vom 22. Januar
+2025 im Verfahren SG.2023.00113 vollumfänglich aufzuheben und sei der
+Beschuldigte unter Zusprechung einer Parteientschädigung von Schuld und
+Strafe freizusprechen.
+Von der Staatsanwaltschaft wurde keine Stellungnahme zur Berufung
+eingeholt.
+____________________
+Das Gericht
+zieht in Betracht:
+I. Prozessgeschichte
+1.
+1.1.
+Die
+Staatsanwaltschaft des Kantons Glarus verurteilte A.______ (nachfolgend Beschuldiger)
+mit Strafbefehl vom 7. September 2023 wegen unbewilligten Anbringens von
+Strassenreklamen zu einer Busse von CHF 900.— (Art. 4 Abs. 2 der
+Reklameverordnung des Kantons Glarus [GS VII C/11/3] i.V.m. Art. 12
+Abs. 1 Ziff. 14 OBV [GS III F/1/1]), wobei die Busse bei schuldhafter
+Nichtbezahlung in eine Ersatzfreiheitsstrafe von neun Tagen umgewandelt
+würde. Konkret lastet sie dem Beschuldigten an, im Zeitraum vom 30. Juli
+2023 bis 7. August 2023 an sechs Standorten in Glarus Nord Plakate mit
+der Aufschrift «Schöne Sommerferien, A.______, [XY-PARTEI]» angebracht zu
+haben, ohne im Besitz der dafür erforderlichen Bewilligungen zu sein (vgl.
+zum Ganzen act. 3).
+1.2.
+Nachdem
+der Beschuldigte gegen diesen Strafbefehl fristgerecht Einsprache erhoben
+hatte (act. 2/4), ergänzte die Staatsanwaltschaft die Untersuchung
+(act. 2/11) und überwies die Angelegenheit zur gerichtlichen Beurteilung
+an das Kantonsgericht Glarus (act. 1).
+2.
+Mit Urteil vom 22. Januar 2025 erkannte ebenso die
+Kantonsgerichtsvizepräsidentin auf ein vorschriftswidriges Anbringen von
+Strassenreklamen und verurteilte den Beschuldigten zu einer Busse von
+CHF 1'000.— bzw. einer Ersatzfreiheitsstrafe von zehn Tagen, sollte die
+Busse nicht bezahlt werden (act. 16 S. 27 Dispositivziffern 1 und
+2). Ausgangsgemäss auferlegte sie die Gerichtsgebühr von CHF 1'000.—
+zusammen mit den Untersuchungskosten von CHF 550.— dem Beschuldigten
+(art. 16 S. 28 Dispositivziffern 3-4).
+3.
+Gegen diesen Entscheid erhob der Beschuldigte am
+14. Februar 2025 fristgerecht Berufung (act. 19) und reichte in der
+Folge innert angesetzter Frist (siehe act. 24) am 28. März 2025 die
+Berufungsbegründung ein (act. 25). Von der Staatsanwaltschaft wurde keine
+Stellungnahme zur Berufung eingeholt. Dies, weil die Berufung offensichtlich
+unbegründet ist (siehe dazu Art. 390 Abs. 2 StPO), wie sogleich darzulegen
+ist.
+II. Prozessuales
+1.
+Das angefochtene Strafurteil (act. 16) ist der
+Berufung zugänglich (Art. 398 Abs. 1 StPO). Der Beschuldigte ist zur Berufung
+legitimiert (Art. 382 Abs. 1 StPO) und hat die Rechtsmittelfrist gewahrt
+(Art. 399 Abs. 3 StPO; vgl. act. 18-19). Das Obergericht ist als
+Rechtsmittelinstanz in Strafsachen für die Behandlung der Berufung zuständig
+(Art. 17 Abs. 1 lit. a GOG [GS III A/2]).
+2.
+Das vorliegende Strafverfahren beschlägt einen
+Übertretungstatbestand (Art. 114 Abs. 1 lit. a der
+Signalisationsverordnung [SSV] i.V.m. Art. 99 SSV und Art. 4 der
+kantonalen Reklameverordnung [vorschriftswidriges Anbringen von
+Strassenreklamen]). In einem solchen Fall kann mit Berufung nur geltend
+gemacht werden, das erstinstanzliche Urteil sei rechtsfehlerhaft oder die
+darin vorgenommene Feststellung des Sachverhalts sei offensichtlich unrichtig
+oder beruhe auf einer Rechtsverletzung; neue Behauptungen und Beweise können
+dabei nicht vorgebracht werden (Art. 398 Abs. 4 StPO). Die Feststellung
+des Sachverhalts durch die Vorinstanz kann somit nur gerügt werden, wenn sie
+klar falsch, d.h. willkürlich ist (vgl.
+Sven
+Zimmerlin
+, in: Kommentar zur Schweizerischen Strafprozessordnung, Art.
+196-457 StPO, 3. Aufl., Zürich/Basel/Genf 2020, N. 23 zu Art. 398 StPO;
+Jürg Bähler
+, in: Basler Kommentar
+Strafprozessordnung/ Jugendstrafprozessordnung, 3. Aufl., Basel 2023,
+N. 6 zu Art. 398 StPO). Willkür bei der Sachverhaltsfeststellung
+liegt nur vor, wenn die vorinstanzliche Beweiswürdigung schlechterdings
+unhaltbar ist; dies ist der Fall, wenn die Vorinstanz in ihrem Entscheid von
+Tatsachen ausgeht, die mit der tatsächlichen Situation in klarem Widerspruch
+stehen oder auf einem offenkundigen Fehler beruhen. Dass eine andere Lösung
+ebenfalls möglich erscheint, genügt nicht (BGE 146 IV 88 E. 1.3.1,
+m.w.H.; Urteil des Bundesgerichts 7B_28/2022 vom 8. April 2024).
+3.
+Die Berufung hat im Umfang der Anfechtung
+des vorinstanzlichen Entscheids aufschiebende Wirkung (Art. 402 StPO).
+Vorliegend ist das vorinstanzliche Urteil insgesamt angefochten (vgl. act.
+19). Somit hat das Obergericht im Berufungsverfahren den erstinstanzlichen
+Entscheid umfassend zu überprüfen (Art. 404 Abs. 1 StPO) und fällt am Ende
+ein neues Urteil (Art. 408 StPO).
+III. Sachverhalt
+4.
+4.1.
+Aus Sicht der Vorinstanz ist
+der
+Beschuldigte für das Aufstellen von sechs Plakaten mit der Aufschrift «Schöne
+Sommerferien, A.______, [XY-PARTEI]» Ende Juli 2023 an folgenden Standorten
+verantwortlich:
+-
+Flechsenstrasse, Fahrtrichtung Weesen-Oberurnen, nach der Ortstafel
+Oberurnen;
+-
+Kantonsstrasse, Fahrtrichtung Näfels-Oberurnen, nach der Ortstafel
+Oberurnen;
+-
+Landstrasse in Oberurnen, Höhe Restaurant Post;
+-
+Badstrasse, Fahrtrichtung Bilten-Niederurnen, vor der Ortstafel
+Niederurnen;
+-
+Hauptstrasse, Fahrtrichtung Niederurnen-Bilten, nach der Ortstafel
+Bilten;
+-
+Linth-Escherstrasse, Fahrtrichtung
+Bilten-Niederurnen, nach der Ortstafel Bilten (act. 16
+S. 6 f. E. III.2.4.1.).
+4.2.
+Bezüglich
+des Plakates an der
+Badstrasse in Niederurnen
+hielt
+die Vorinstanz nach Würdigung der Akten fest, dass dieses entgegen den
+anderslautenden Vorbringen des Beschuldigten nicht gegenüber dem
+Schiessstand, sondern ca. 300m von diesem entfernt, bei der Einmündung zur
+Strasse Bifang aufgestellt gewesen sei. Das Plakat sei deshalb nicht in dem
+Bereich gestanden, den die Kantonspolizei Glarus für temporäre
+Strassenreklamen ausgewiesen habe (vgl. zum Ganzen act. 16 S. 7
+E. III.2.4.2.).
+5.
+Der Beschuldigte anerkennt im
+Berufungsverfahren, dass die Vorinstanz den Sachverhalt in Bezug auf die
+sechs in Glarus Nord aufgestellten Plakate
+«Schöne Sommerferien,
+A.______, [XY-PARTEI]» grundsätzlich korrekt ermittelt habe (act. 16
+S. 6 f. E. III.2.4.1.; act. 25 S. 1). Einzig in Bezug auf
+das Plakat an der Badstrasse in Niederurnen rügt er die vorinstanzliche
+Sachverhaltsfeststellung. So sei dort das Plakat in dem von der
+Kantonspolizei für das Anbringen von Strassenreklamen ausgewiesenen Bereich
+gestanden (act. 25 S. 1 f.).
+6.
+6.1.
+Zunächst
+ist für das Berufungsverfahren festzuhalten, dass der Beschuldigte nicht
+bestreitet, für das Aufstellen von sechs Plakaten mit der Aufschrift «Schöne
+Sommerferien, A.______, [XY-PARTEI]» in Glarus Nord an den von der Vorinstanz
+bezeichneten Standorten verantwortlich zu sein (vgl. act. 16 S. 6
+f. E. III.2.4.1.). Einzig auf den Standort des Plakates im
+Ausserortsbereich an der Badstrasse ist nachfolgend näher einzugehen, nachdem
+der Beschuldigte geltend macht, auch dieses sei innerhalb eines für
+Plakatierungen zulässigen Bereichs platziert gewesen.
+6.2.
+In
+den Akten befindet sich eine Fotografie des entsprechenden Plakates (vgl.
+act. 2/1 S. 28): Im Hintergrund ist eine einspurige Strasse mit
+weisser Bodenmarkierung und einem Verkehrsschild «Verbot für Kraftfahrzeuge /
+Zubringerdienst gestattet» zu sehen (act. 2/1 S. 28).
+(Bild)
+Standort
+des Plakates an der Badstrasse in Niederurnen, ausserorts (act. 2/1 S. 28)
+6.3.
+Beim
+fotografierten Standort mit den entsprechenden Merkmalen (Bodenmarkierung und
+Beschilderung) ist, was gerichtsnotorisch ist, die von der Badstrasse
+wegführende Strasse «Bifang» zu sehen, wie auch von der Vorinstanz richtig
+festgehalten (act. 16 S. 7 E. III.2.4.2.). Bei der Einmündung
+zur Strasse «Badwis» in der Nähe des Schiessstandes befindet sich weder eine
+solche Beschilderung noch eine derartige Bodenmarkierung (vgl. auch Google
+Maps ). Es
+ist somit erstellt, dass das Plakat an der Badstrasse in Niederurnen bei der
+Einmündung zur Strasse «Bifang» und nicht – wie vom Beschuldigten behauptet –
+vis-à-vis des Schiessstandes an der Badstrasse 61 in Niederurnen in Nähe der
+Einfahrt Badwis stand. Die Vorinstanz hat den diesbezüglichen Sachverhalt
+korrekt festgestellt.
+6.4.
+Gemäss
+der Weisung der Kantonspolizei Glarus für temporäre Strassenreklamen (siehe
+dazu act. 26) dürfen Plakate ohne vorgängige Bewilligung allerdings nur
+vis-à-vis des Schiessstandes an der Badstrasse 61 in Niederurnen aufgestellt
+werden (siehe dazu Weisung [act. 26, S. 10, GLN-004] i.V.m. Art. 4 Abs.
+2a und 2b der kantonalen Reklameverordnung). Die Weisung stellt zudem klar,
+dass die im Ausserortsbereich definierten Standorte für bewilligungsfreie
+temporäre Plakatierung verbindlich sind und ausserhalb dieser Bereiche das
+Aufstellen von Plakaten uneingeschränkt bewilligungspflichtig ist (vgl. act.
+26, S. 1 f.).
+6.5.
+Wie
+bereits die Vorinstanz zutreffend feststellte, befand sich das vorliegend
+strittige Plakat ca. 300 Meter vom zulässigen Standort entfernt (vgl.
+act. 16 S. 7 E. III.2.4.2.).
+Auszug
+aus Geoviewer: Badstrasse in Niederurnen
+6.6.
+Es
+ist somit nachgewiesen, dass das Plakat im Ausserortsbereich an der
+Badstrasse in Niederurnen gerade nicht innerhalb des für bewilligungsfreie
+temporäre Plakate definierten Bereichs gestanden ist. Insoweit im Übrigen der
+Beschuldigte in der Berufungsschrift in Hinsicht auf diesen Standort einen
+Beweisantrag stellt (act. 25 S. 2 oben), ist er damit nicht zu hören, da
+im Berufungsverfahren weder neue Tatsachen noch Beweismittel möglich sind
+(Art. 398 Abs. 4 StPO;
+Jürg Bähler
+,
+in: Basler Kommentar Strafprozessordnung/Jugendstrafprozessordnung,
+3. Aufl., Basel 2023, N. 6 zu Art. 398 StPO).
+6.7.
+In
+Bezug auf den Plakatstandort im Ausserortsbereich an der Badstrasse in
+Niederurnen ist an dieser Stelle gleich auch die rechtliche Würdigung
+vorwegzunehmen: Für diesen Standort wäre von Bundesrechts wegen eine
+Bewilligung einzuholen gewesen (Art. 99 SSV); ebenso hätte für dieses Plakat
+auch nach kantonalem Recht um eine konkrete Bewilligung ersucht werden
+müssen, denn der Standort des Plakates im Ausserortsbereich befand sich
+ausserhalb des von der Kantonspolizei definierten Bereichs, in welchem die
+für Ausserortsstandorte bundesrechtlich zwingend vorausgesetzte Bewilligung
+ohne weiteres Zutun als erteilt gilt, wenn die Vorgaben gemäss Art. 4 Abs. 2a
+und 2b der kantonalen Reklameverordnung eingehalten sind (siehe zu diesem
+kantonalen «Mechanismus», wonach bei der Platzierung von bestimmten Plakaten
+im Ausserortbereich innerhalb der von der Polizei definierten Standorte eine
+Bewilligung bereits per se als erteilt gilt, die zutreffenden Ausführungen
+der Vorinstanz im angefochtenen Entscheid [act. 16 S. 9 f. E.
+3.3.1.-3.3.3]). Die Plakatierung an der Badstrasse erfolgte demnach auf
+strafbare Weise vorschriftswidrig im Sinne von Art. 114 Abs. 1 lit. a i.V.m.
+Art. 99 Abs. 1 SSV.
+IV. Rechtliche
+Würdigung
+(bezüglich der fünf weiteren
+Plakatstandorte)
+7.
+7.1.
+Nach
+Art. 99 Abs. 1 SSV i.V.m. Art. 4 Abs. 2 der kantonalen
+Reklameverordnung bedarf das Anbringen und Ändern von Strassenreklamen an
+Kantonsstrassen grundsätzlich der Bewilligung der zuständigen kantonalen
+Verwaltungsbehörde. Die Kantone können für Strassenreklamen innerorts
+Ausnahmen von der Bewilligungspflicht festlegen (Art. 99 Abs. 2
+SSV). Wer Strassenreklamen vorschriftswidrig anbringt, wird nach
+Art. 114 Abs. 1 lit. a SSV mit Busse bestraft.
+7.2.
+Am
+23. November 2022 erliess der Landrat des Kantons Glarus die Änderung der
+Verordnung über das Plakat- und Reklamewesen an öffentlichen Strassen (SBE
+2022 50). Gemäss dem damals neu in die Reklameverordnung eingefügten
+Art. 4 Abs. 2a bedürfen unbeleuchtete temporäre Strassenreklamen zu
+Wahlen, Abstimmungen oder Veranstaltungen im Kanton Glarus in Form von
+Plakaten mit einer Fläche bis 3½ Quadratmeter, die innerorts und ausserorts
+in von der Kantonspolizei bezeichneten Bereichen aufgestellt werden, keiner
+Bewilligung; dabei müssen die betreffenden Plakate laut dem ebenfalls neu
+eingefügten Abs. 2b sämtliche Anforderungen an Gestaltung, Platzierung und
+Verkehrssicherheit gemäss der Weisung für temporäre Strassenreklamen der
+Kantonspolizei erfüllen und dürfen maximal sechs Wochen vor dem Wahl- oder
+Abstimmungstag bzw. dem Beginn der Veranstaltung aufgestellt werden und sind
+spätestens sieben Tage danach wieder zu entfernen.
+8.
+Vorliegend ist unstrittig, dass der Beschuldigte vor dem
+Aufstellen seiner Plakate mit der Aufschrift «Schöne Sommerferien, A.______,
+[XY-PARTEI]» keine Bewilligung eingeholt hat (act. 2/11 Rz. 100 ff.). In
+Bezug auf das Plakat im Ausserortsbereich an der Badstrasse in Niederurnen
+wurde bereits zuvor dargelegt, dass für dieses Plakat das Einholen einer
+Bewilligung von vornherein notwendig gewesen wäre (siehe oben E. III. 3.7).
+Zu klären bleibt somit, ob die restlichen fünf Plakate gemäss Art. 4 Abs. 2a
+und 2b der kantonalen Reklameverordnung von der Bewilligungspflicht
+ausgenommen waren, nachdem diese unbestritten an Standorten angebracht waren,
+an denen temporäre Strassenreklamen grundsätzlich zulässig sind, ohne dass
+hierzu jeweils eigens noch eine Bewilligung einzuholen ist (vgl. act. 16
+S. 11 ff. E. IV.4.; act. 25 S. 2 f.). Dies ist im
+Folgenden durch Auslegung der vorerwähnten Bestimmung von Art. 4
+Abs. 2a und 2b der Reklameverordnung zu prüfen.
+Ein Gesetz ist in erster Linie nach seinem Wortlaut auszulegen
+(grammatikalische Auslegung). Ist der Text nicht eindeutig und sind
+verschiedene Auslegungen möglich, so muss das Gericht unter Berücksichtigung
+aller Auslegungselemente nach der wahren Tragweite der Norm suchen. Dabei hat
+es insbesondere den Willen des Gesetzgebers zu berücksichtigen, wie er sich
+namentlich aus den Gesetzesmaterialien ergibt (historische Auslegung). Weiter
+hat das Gericht nach dem Zweck, dem Sinn und den dem Text zu Grunde liegenden
+Wertungen zu forschen, namentlich nach dem durch die Norm geschützten
+Interesse (teleologische Auslegung). Wichtig ist auch der Sinn, der einer
+Norm im Kontext zukommt, und das Verhältnis, in welchem sie zu anderen
+Gesetzesvorschriften steht (systematische Auslegung). Die Auslegung einer
+Gesetzesnorm folgt einem pragmatischen Methodenpluralismus; die einzelnen
+Auslegungselemente unterliegen keiner Prioritätsordnung (vgl. zum Ganzen BGE
+148 III 314 E. 2.2; BGE 146 III 217 E. 5, je m.w.H.).
+9.
+9.1.
+Die
+Vorinstanz legte Art. 4 Abs. 2a der kantonalen Reklameverordnung
+zunächst grammatikalisch aus. Sie kam dabei zusammengefasst zum Schluss, dass
+die Ausnahme von der Bewilligungspflicht abschliessend nur für
+Plakat-Reklamen gelte, die einen Bezug zu Wahlen, Abstimmungen oder
+Veranstaltungen haben. Dieses Auslegungsergebnis werde auch durch die
+systematische, historische und teleologische Auslegung von Art. 4
+Abs. 2a der Reklameverordnung gestützt. So würden Art. 4
+Abs. 2a und 2b der Reklameverordnung eine differenzierte Befreiung von
+der Bewilligungspflicht mit einer thematischen Einschränkung einführen. Ziel
+des Gesetzgebers sei gewesen, das geltende Bewilligungsverfahren für
+temporäre Strassenreklamen im Zusammenhang mit Wahlen und Abstimmungen zu
+vereinfachen und zu liberalisieren, um dadurch die politische Partizipation
+der Glarner Stimmbevölkerung zu erhöhen. Art. 4 Abs. 2a der
+kantonalen Reklameverordnung verfolge damit das Ziel, politische Parteien
+dahingehend zu entlasten, dass sie temporäre Strassenreklamen in Form von
+Plakaten unter gewissen Bedingungen bewilligungsfrei und ohne zusätzlichen
+administrativen Aufwand aufstellen können. Nicht angestrebt worden sei, die
+Vermittlung von Kernbotschaften allgemein von der Bewilligungspflicht
+auszunehmen.
+9.2.
+Im
+Weiteren verfolge die Bewilligungsbefreiung das Ziel einer effizienteren und
+ressourcenschonenderen Lösung. Das Gemeinwesen werde dadurch von der
+Überprüfung einer Vielzahl von Bewilligungsgesuchen entlastet. Auf der
+anderen Seite stehe jedoch die Befürchtung, dass es zu einem Wildwuchs von
+Strassenreklamen kommen könnte, weshalb die Ausnahmen von der
+Bewilligungspflicht restriktiv zu verstehen seien. Es sei nicht Ziel der
+Norm, Reklamen ohne Zusammenhang zu Wahlen, Abstimmungen und Veranstaltungen
+von der Bewilligungspflicht zu befreien. Die Ausnahmen von der Bewilligungspflicht
+seien deshalb abschliessend aufgezählt worden. So bleibe trotz
+Liberalisierung vorhersehbar, mit welchen Plakatierungstätigkeiten zu rechnen
+sei (vgl. zum Ganzen act. 16 S. 11 ff. E. IV.4.).
+9.3.
+Das
+Wünschen von schönen Sommerferien sei weder ein Hinweis auf eine
+bevorstehende Wahl oder Abstimmung noch Werbung für eine bevorstehende
+Veranstaltung. Es sei nicht ersichtlich, wie durch einen Sommergruss die
+politische Partizipation der Bevölkerung erhöht oder etwas zur
+Meinungsbildung beigetragen werde. In einem Sommergruss sei kein politischer
+Inhalt ersichtlich (act. 16 S. 15 E. IV.4.3.1. und S. 21
+E. IV.4.4.2.). Die aufgestellten Plakate würden deshalb nicht unter die
+Ausnahmebestimmung von Art. 4 Abs. 2a der kantonalen
+Reklameverordnung fallen, weshalb sie alle bewilligungspflichtig gewesen
+wären (vgl. zum Ganzen act. 16 S. 16 f. E. IV.4.1. und
+S. 23 f. E. IV.5.4.).
+10.
+10.1.
+Der Beschuldigte
+kritisiert in seiner Berufung insbesondere die historische Auslegung der
+Vorinstanz. Es liege zwar keine direkte Werbung für ein politisches Anliegen
+vor. Auf den Plakaten sei jedoch ersichtlich, wer der Absender der Botschaft
+sei, nämlich der Beschuldigte als Vertreter der [XY-PARTEI]. Dies alleine
+mache die Botschaft schon zur Politik, indem der Konnex mit der Partei
+offensichtlich sei. Art. 4 Abs. 2a der kantonalen Reklameverordnung
+sei unglücklich formuliert, denn es sei das Grundanliegen der Initianten
+[gemeint: Urheber des Postulats vom 16. Dezember 2020, durch welches die
+nachmalige Revision der kantonalen Reklameverordnung angestossen wurde; siehe
+dazu act. 16 S. 14 E. 4.3 und 4.3.1.] gewesen, die Plakatierung für
+politische Parteien zu liberalisieren, um so die politische Partizipa­tion
+der Bevölkerung zu fördern. Dieses Anliegen sei nie bestritten worden. Die
+Beschränkung der bewilligungsfreien Plakatierung auf Wahlen, Abstimmungen
+oder Veranstaltungen im revidierten Verordnungstext gemäss Art. 4 Abs. 2a der
+Reklameverordnung entspreche daher nicht dem liberalen Geist, welcher der
+betreffenden Revision zugrunde gelegen sei. Die Formulierung müsse als
+redaktionelles Versehen bezeichnet werden. Im Postulat seien nämlich auch
+beispielhaft Umfragen oder Kampagnen als Mittel zur Förderung der politischen
+Partizipation genannt worden. Auch wenn sich das Postulat in Hinblick auf
+Plakatierungen auf Wahlen, Abstimmungen und Kernbotschaften beschränke, sei
+dies in der Annahme geschehen, dass damit die politische Werbung abgedeckt
+sei (vgl. zum Ganzen act. 25 S. 2).
+10.2.
+Die konkrete
+Formulierung sei im Landrat nicht auf die Goldwaage gelegt worden, da auf den
+ersten Blick die Einschränkung der Formulierung nicht ersichtlich sei.
+Politiker und ihre Parteien seien ständig im Wahlkampf. Ein Sommergruss müsse
+somit zulässig sei, da dieser die Aufmerksamkeit des Betrachters automatisch
+auf das Parteilogo und den Politiker lenke. Dies entspreche einem Wahlkampf
+auf der emotionalen Ebene. Der Gesetzgeber könne und solle nicht
+abschliessend regeln, wie ein Wahl-, Abstimmungs- oder Veranstaltungsplakat
+auszusehen hat bzw. was eines ist und was keines ist. Für die Stimmbürger
+habe jedes Plakat, das ein Parteilogo trage und eine Botschaft verbreite
+etwas mit Wahlen, Abstimmungen oder Veranstaltungen zu tun. Das Jahr 2023 sei
+ein Wahljahr gewesen mit vielen Kandidaten und vielen Veranstaltungen. Mit
+den Sommergrüssen habe eine Partei die angekündigten Veranstaltungen mit
+einer freundlichen und positiven Stimmung ausgerollt. Dies müsse Platz finden
+unter Wahlen, Abstimmungen und Veranstaltungen. Der liberale Gedanke bezwecke
+genau dies, nämlich die politische Arbeit zu vereinfachen und die politische
+Partizipation im Kanton Glarus zu fördern (vgl. zum Ganzen act. 25
+S. 2 f.).
+10.3.
+Bezüglich der
+teleologischen Auslegung merkte der Beschuldigte an, dass alleine aufgrund
+der Tatsache, dass der Sommergruss im Namen einer politischen Partei erfolgt
+sei, dieser in einen politischen Zusammenhang stehe. Es sei bei der Revision
+darum gegangen, die Arbeit der politischen Parteien zu erleichtern und zu
+entbürokratisieren. Diesem Gedanken müsse bei der Auslegung Rechnung getragen
+werden. Im Wahljahr 2023 hätten in den Sommerferien viele politische Anlässe
+wie 1. August-Auftritte der Kandidaten, Sonntagsbrunches und Apéros mit den
+Kandidaten stattgefunden. Es sei bekannt, dass ein Politiker nicht einfach so
+Sommergrüsse publiziere, sondern mit einer politischen Absicht und so
+mindestens indirekt auf politische Ereignisse im weiteren Sinne wie zum
+Beispiel die 1. Augustfeier hinweise. Die Plakate mit dem Sommergruss der
+[XY-PARTEI] seien ungefähr am 28. bzw. 29. Juli 2023 aufgestellt worden.
+Der indirekte Bezug zum 1. August sei somit offensichtlich und habe der
+Absicht des Beschuldigten entsprochen (vgl. zum Ganzen act. 25
+S. 3).
+11.
+11.1.
+Keiner Bewilligung bedürfen nach Art. 4 Abs. 2a der
+kantonalen Reklameverordnung unbeleuchtete temporäre Strassenreklamen
+«zu
+Wahlen, Abstimmungen oder Veranstaltungen im Kanton Glarus in Form von
+Plakaten mit einer Fläche bis 3,50 Quadratmeter, die innerorts und ausserorts
+in von der Kantonspolizei bezeichneten Bereichen aufgestellt werden».
+11.2.
+Der
+soeben zitierte (klare) Wortlaut von
+Art
+. 4
+Abs. 2a der Reklameverordnung sieht eine Ausnahme von der
+Bewilligungspflicht einzig und allein für temporäre Strassenreklamen zu
+Wahlen, Abstimmungen oder Veranstaltungen im Kanton Glarus vor. Nicht im
+Ansatz ist darin erkennbar, dass daneben weitere Ausnahmen von der
+Bewilligungspflicht denkbar wären. Mit der Vor­instanz ist deshalb davon
+auszugehen, dass in Art. 4 Abs. 2a der Reklameverordnung die
+Ausnahmen von der Bewilligungspflicht abschliessend aufgeführt sind (vgl.
+act. 16 S. 11 E. IV.4.1.2.).
+11.3.
+E
+ntgegen der Argumentation des Beschuldigten (act. 25
+S. 2) bestehen auch keine
+Hinweise darauf,
+dass dem
+Landrat bei der Formulierung von Art. 4 Abs. 2a der
+Reklameverordnung ein redaktionelles Versehen unterlaufen wäre. Vielmehr
+stützt sich die Formulierung von Art. 4 Abs. 2a der kantonalen
+Reklameverordnung direkt auf das ursprüngliche Postulat der [XY-PARTEI] und
+FDP und befindet sich im Einklang mit den im Landrat vorgetragenen Voten (vgl.
+act. 16 S. 14 ff. E. IV.4.3.). Auch wenn es im Bestreben des
+Gesetzgebers lag, die administrativen Voraussetzungen für die Eingabe und
+Bewilligung von Gesuchen für temporäre Strassenreklamen zu vereinfachen und
+zu liberalisieren, ging es nie darum, generell sämtliche Parteiplakate für
+bewilligungsfrei zu erklären. Weder das ursprüngliche Postulat forderte eine
+generelle Bewilligungsfreiheit, noch wurde solches in der landrätlichen
+Debatte beantragt; zur Diskussion stand stets nur eine sach-, zeit- und
+standortbezogene Einschränkung der Bewilligungspflicht (vgl. act. 16
+S. 14 ff. E. IV.4.3.).
+11.4.
+Diese
+Auslegung ergibt sich ebenso aus systematischer Sicht. So stellt Art. 4
+Abs. 2b der Reklameverordnung klar, dass eine bewilligungsfreie
+Strassenreklame maximal sechs Wochen vor dem Wahl- oder Abstimmungstag bzw.
+dem Beginn der Veranstaltung aufgestellt werden darf. Dieser Absatz stellt
+somit für die bewilligungsfreie Plakatierung fraglos einen zeitlichen Bezug
+zu einer
+konkreten
+Wahl, Abstimmung oder Veranstaltung her, andernfalls
+die festgelegte Frist keinen Sinn ergäbe und gar nicht überprüfbar wäre.
+Demnach ist ebenso unter diesem Aspekt nicht jedes beliebige Parteiplakat von
+der Bewilligungspflicht ausgenommen.
+11.5.
+Schliesslich
+deckt sich die Formulierung von Art. 4 Abs. 2a und 2b der
+Reklameverordnung auch mit der durch die Revision der Verordnung verfolgten
+Absicht. Ziel und Zweck der Revision war es, namentlich das
+Bewilligungsprozedere für Wahl- und Abstimmungswerbung der Parteien zu
+liberalisieren, um dadurch die politische Partizipation der Stimmbürger zu
+fördern, ohne aber gleichzeitig einen Wildwuchs an Reklamen zuzulassen, wie
+dies bereits die Vorinstanz zutreffend ausgeführt hat (vgl. act. 16
+S. 20 f. E. IV.4.4.2.). Dieses Bestreben wurde hier gerade dadurch
+bestmöglich erreicht, dass neben dem örtlichen Kriterium (von der Polizei im
+Voraus definierte Standorte) ein sachliches Kriterium (Wahl, Abstimmung oder
+Veranstaltung) mit einem zeitlichen Kriterium (sechs Wochen) verknüpft wurde.
+Eindeutig nicht beabsichtigt waren bewilligungsfreie Strassenreklamen – ob
+nun Parteiplakate oder andere – ohne Bezug zu einer Wahl, Abstimmung oder
+Veranstaltung
+.
+11.6.
+Vorliegend
+ist unstrittig, dass die vom Beschuldigten platzierten Plakate weder ein
+Wahl-, Abstimmungs- noch Veranstaltungsplakat darstellen (act. 9
+S. 1; act. 7 S. 3 f.). Bei einem blossen Sommergruss ist,
+auch wenn er wie vorliegend von einem Parteivertreter unter
+Nennung seiner Partei ausgesprochen wird, kein Bezug zu einer Wahl,
+Abstimmung oder Veranstaltung ersichtlich.
+11.7.
+Aber selbst wenn man vorliegend noch eine Verbindung zur [_Wahl] am
+[...] sähe, bei welcher der Beschuldigte kandidierte, so wären die hier vom
+Beschuldigten bereits Ende Juli 2023 aufgestellten Plakate weit ausserhalb
+der sechswöchigen Frist gemäss Art. 4 Abs. 2b der Reklameverordnung
+angebracht worden. Der Beschuldigte hätte daher die Voraussetzung zum
+bewilligungsfreien Aufstellen der Plakate auch unter diesem Blickwinkel nicht
+erfüllt. Dass die Plakate des Beschuldigten sich auf den 1. August beziehen
+sollten und sie deshalb innert Frist aufgestellt worden seien, ist für deren
+Betrachter entgegen der Behauptung des Beschuldigten (act. 25 S. 3)
+nicht ersichtlich. Abgesehen davon, dass dieses erst vor Obergericht
+vorgebrachte Argument des Beschuldigten verspätet und damit nicht mehr zu
+berücksichtigten ist (vgl. E. II.2.), kommt hinzu, dass die
+bewilligungsfreie Plakatierung voraussetzt, dass das Datum des beworbenen
+Anlasses (Wahl, Abstimmung oder Veranstaltung) auf dem Plakat bezeichnet ist
+(Art. 4 Abs. 2b der Reklameverordnung i.V.m. Weisung für temporäre
+Strassenreklamen [act. 26, dort S. 2]).
+11.8.
+Die Vorinstanz ist deshalb zu Recht davon ausgegangen, dass die
+aufgestellten Plakate nicht unter die Ausnahmebestimmung von Art. 4
+Abs. 2a und 2b der kantonalen Reklameverordnung fallen und deshalb
+bewilligungspflichtig gewesen wären (act. 16 S. 12
+E. IV.4.1.3. und S. 23 f. E. IV.5.4.). Für das an der
+Badstrasse in Niederurnen im Ausserortsbereich ausserhalb des von der Polizei
+definierten Bereichs aufgestellte Plakat wäre zudem von vornherein eine
+Bewilligung einzuholen gewesen (vgl. vorne E. III.3.7.). Der
+Beschuldigte hat sich somit des vorschriftswidrigen Anbringens von
+Strassenreklamen nach Art. 114 Abs. 1 lit. a SSV i.V.m.
+Art. 99 SSV und Art. 4 der kantonalen Reklameverordnung schuldig
+gemacht. Auch in Bezug auf die rechtliche Würdigung ist das vorinstanzliche
+Urteil somit vollumfänglich zu bestätigen und die Berufung des Beschuldigten
+abzuweisen.
+Es kann deshalb zur Ergänzung der vorstehenden Ausführungen
+integral auf die vorinstanzlichen Erwägungen zur kantonalen Rechtslage
+verwiesen werden (Art. 82 Abs. 4 StPO; act. 16 S. 8 ff.
+E. IV.).
+V. Strafzumessung
+Die von der Vorinstanz zutreffend vorgenommene
+Sanktionierung des eingeklagten Tatgeschehens mit einer Busse in einer hier
+angemessen erscheinenden Höhe von CHF 1’000.— und einer entsprechenden
+Ersatzfreiheitsstrafe von zehn Tagen blieb im Berufungsverfahren zu Recht
+unbestritten. Es kann deshalb integral auf die entsprechenden
+vorinstanzlichen Erwägungen verwiesen werden (Art. 82 Abs. 4 StPO;
+act. 16 S. 26 f. E. V.).
+VI. Kosten- und
+Entschädigungsfolgen
+12.
+12.1.
+Aus alldem folgt, dass
+die Berufung gegen das in allen Teilen korrekt ausgefallene vorinstanzliche
+Urteil abzuweisen ist. In formaler Hinsicht fällt das Obergericht ein neues
+Urteil, welches das erstinstanzliche Urteil ersetzt (Art. 408 StPO).
+12.2.
+Bei diesem Ausgang
+sind die auf CHF 1'000.— anzusetzenden Kosten des Berufungsverfahrens
+dem Beschuldigten aufzuerlegen (Art. 428 Abs. 1 StPO i.V.m. Art. 6 Abs. 1 und
+Art. 8 Abs. 1 lit. b Ziff. 2 der Zivil- und Strafprozesskostenverordnung [GS
+III A/5]).
+13.
+Zusätzlich ist über die von der Vorinstanz getroffene
+Kostenregelung zu befinden (Art. 428 Abs. 3 StPO). Erstinstanzlich sind dem
+Beschuldigten Verfahrenskosten von insgesamt CHF 1'550.— überbunden worden
+(act. 16 S. 28 Dispositivziffer 3). Es ist im Lichte von Art. 6 Abs. 1
+sowie Art. 7 Abs. 1 lit. b Ziff. 2 und Art. 8 Abs. 1 lit. b Ziff. 1
+der Zivil- und Strafprozesskostenverordnung kein sachlicher Grund ersichtlich,
+welcher eine Änderung an dieser Kostenregelung nahelegen würde, zumal auch
+der Beschuldigte gegen die Gebührenbemessung keine konkreten Einwendungen
+vorgebracht hat (vgl. act. 25 S. 4).
+____________________
+Das Gericht
+erkennt
+:
+1.
+A.______ ist schuldig des vorschriftswidrigen Anbringens von
+Strassenreklamen im Sinne von Art. 114 Abs. 1 lit. a SSV
+i.V.m. Art. 99 SSV und Art. 4 der kantonalen Reklameverordnung
+.
+2.
+A.______
+wird zu einer Busse von CHF 1'000.— verurteilt.
+Bei
+schuldhafter Nichtbezahlung tritt an die Stelle der Busse eine
+Ersatzfreiheitsstrafe von zehn Tagen.
+3.
+Die
+Gerichtsgebühr für das erstinstanzliche Verfahren SG.2023.00113 und das
+Untersuchungsverfahren UB.2023.01553 von insgesamt CHF 1'550.— werden
+A.______ auferlegt und von ihm bezogen.
+4.
+Für das
+Berufungsverfahren wird die Gerichtsgebühr auf CHF 1'000.— festgesetzt
+und A.______ auferlegt und von ihm bezogen.
+5.
+Schriftliche Mitteilung an:
+[...]
