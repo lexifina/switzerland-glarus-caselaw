@@ -1,0 +1,1054 @@
+---
+decision_id: "gl_gerichte_VG.2024.00071"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "VG"
+docket: "VG.2024.00071"
+docket_2: "VG.2025.1475"
+decided: "2025-06-24"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=1964&W10_KEY=232154&nTrefferzeile=7&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/101/art-036.md", "switzerland/bund/acts/101/art-078.md", "switzerland/bund/acts/451.1/art-014.md", "switzerland/bund/acts/451/art-001.md", "switzerland/bund/acts/451/art-018a.md", "switzerland/bund/acts/451/art-018b.md", "switzerland/bund/acts/451/art-023a.md", "switzerland/bund/acts/814.201/art-041a.md"]
+---
+
+# GL Gerichte VG.2024.00071
+
+## Regeste
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+## Text
+
+Glarus Verwaltungsgericht 24.06.2025 VG.2024.00071 (VG.2025.1475)
+Glaris Verwaltungsgericht 24.06.2025 VG.2024.00071 (VG.2025.1475)
+Glarona Verwaltungsgericht 24.06.2025 VG.2024.00071 (VG.2025.1475)
+
+Öffentliches Baurecht/Raumplanung/Umweltschutz
+
+VERWALTUNGSGERICHT DES KANTONS GLARUS
+Urteil vom
+24. Juni 2025
+I. Kammer
+Besetzung:
+Gerichtspräsident MLaw Colin Braun, Verwaltungsrichter Ernst Luchsinger,
+Verwaltungsrichterin Katia Weibel und Gerichtsschreiberin MLaw Paula Brändli
+in Sachen
+VG.2024.00071
+und
+VG.2024.00076
+1.
+A.______
+Beschwerdeführer
+vertreten durch
+MLaw
+Veronika
+Britt,
+Rechtsanwältin
+2.
+B.______et al.
+alle vertreten durch
+lic.
+iur.
+Ursula
+Ramseier,
+Rechtsanwältinr
+gegen
+Regierungsrat des Kantons
+Glarus
+Beschwerdegegner
+sowie
+C.______et al.
+Beigeladene
+alle vertreten durch
+MLaw
+Veronika
+Britt, Rechtsanwältin
+D.______et al.
+betreffend
+Änderung Beschluss Torfstichseen
+Die Kammer zieht in Erwägung:
+I.
+1.
+1.1
+Der Regierungsrat des Kantons Glarus erliess am
+25. April 1978 einen Beschluss über den Schutz der in der Ortsgemeinde
+Bilten liegenden Torfstichseen und deren Umgebung, welcher zuletzt am
+7. Mai 2006 angepasst wurde. Dabei ist das Niderriet seit 1994 ein
+Flachmoor von nationaler Bedeutung (Bundesinventar Objekt Nr. 1834) und seit
+2001 ein Amphibienlaichgebiet von nationaler Bedeutung (Bundesinventar Objekt
+Nr. GL 2). Sodann stellt das Gebiet einen wichtigen landwirtschaftlichen
+Stützpunkt für den Wildtierkorridor Nr. GL 7 dar und es bestand überdies eine
+kommunale Naturschutzzone, welche nunmehr Teil der totalrevidierten
+Nutzungsplanung der Gemeinde Glarus Nord (NUP II) ist. A.______ ist Eigentümer
+der Parz.-Nrn. 01, 02, 03 sowie 04, alle Grundbuch Bilten, wobei er
+überdies die Parz.-Nrn. 05 und 06, beide Grundbuch Bilten,
+bewirtschaftet.
+1.2
+Die E.______AG erstellte im Jahr 2008 ein Konzept
+zur Überarbeitung der Schutzverordnung betreffend das Niderriet und die
+Torfstichseen. Basierend hierauf entwarf das Departement Bau und Umwelt des
+Kantons Glarus (DBU) am 9. März 2012 die diesbezügliche Verordnung sowie
+den Schutzplan, wozu sich unter anderem das Bundesamt für Umwelt (BAFU) am 4. Mai
+2012 äusserte. Am 27. Juni 2012 gab das DBU zur beabsichtigten Revision
+des Schutzbeschlusses Niderriet Bilten weiteren Parteien Gelegenheit zur
+Stellungnahme. Diese Möglichkeit nahmen unter anderem A.______ am
+16. August 2012 sowie mehrere Naturschutzverbände wahr.
+2.
+Nach weiteren Abklärungen
+erliess der Regierungsrat am 1. Mai 2018 eine Änderung des Beschlusses
+über den Schutz der Torfstichseen und ihrer Umgebung, welche im Amtsblatt vom
+9. Mai 2018 publiziert, öffentlich aufgelegt und den Betroffenen zugestellt
+wurde. Dagegen erhoben unter anderem A.______ am 5. Juni 2018 sowie die
+Naturverbände am 7. Juni 2018 Einsprache, welche der Regierungsrat am
+18. Juni 2024 teilweise guthiess.
+3.
+A.______ gelangte mit
+Beschwerde vom 26. August 2024 (Verfahren VG.2024.00071) ans
+Verwaltungsgericht und beantragte die Gutheissung der Beschwerde gegen den
+Einspracheentscheid des Regierungsrats vom 18. Juni 2024 sowie die Aufhebung
+des Beschlusses über den Schutz der Torfstichseen und ihrer Umgebung vom 1.
+Mai 2018; unter Kosten- und Entschädigungsfolgen zu Lasten des
+Regierungsrats. Das Verwaltungsgericht lud die Naturverbände am
+29. August 2024 ins Verfahren bei, wobei diese am 27. September
+2024 Stellung nahmen. Der Regierungsrat schloss am 30. Oktober 2024 auf
+Abweisung der Beschwerde; unter Kostenfolge zu Lasten von A.______. Letzterer
+hielt am 2. Dezember 2024 an seinen Anträgen fest. Am 23. Dezember 2024
+verzichtete der Regierungsrat auf die Einreichung einer weiteren
+Stellungnahme.
+4.
+4.1
+Die Naturverbände gelangten ihrerseits mit
+Beschwerde vom 30. August 2024 (Verfahren VG.2024.00076) ebenfalls ans
+Verwaltungsgericht und beantragten die Aufhebung des Beschlusses des
+Regierungsrats vom 18. Juni 2024 sowie der beschlossenen Änderung des
+Beschlusses über den Schutz der Torfstichseen und ihrer Umgebung mit dem
+dazugehörigen Plan betreffend Lage (Plan) und Regelung (Art. 4a -
+4d Schutzbeschluss) der Zonen 2 - 5. Die Sache sei zur Überarbeitung und zu
+neuem Beschluss an den Regierungsrat zurückzuweisen. Darüber hinaus seien
+Art. 1b, Art. 2 Abs. 1 lit. e, Art. 5 Abs. 2
+sowie weitere Punkte des Beschlusses anzupassen; unter Kosten- und
+Entschädigungsfolgen zu Lasten des Regierungsrats.
+4.2
+Das Verwaltungsgericht lud C.______ et al. sowie
+D.______ et al. ins Verfahren VG.2024.00076 bei. D10.______ schloss am
+22. September 2024 auf Abweisung der Beschwerde. D9.______ beantragte am
+25. September 2024 die Durchführung eines Augenscheins. D7.______ nahm
+am 1. Oktober 2024 Stellung und schloss sinngemäss ebenfalls auf Abweisung
+der Beschwerde. Den nämlichen Antrag stellte der Regierungsrat am 30. Oktober
+2024; unter Kostenfolge zu Lasten der Naturverbände. Die übrigen Beigeladenen
+liessen sich innert Frist nicht vernehmen.
+4.3
+A.______ und C.______ et al. nahmen am 2. Dezember
+2024 in einem gemeinsamen Schreiben Stellung, wobei A.______ an seiner
+Beschwerde (VG.2024.00071) festhielt und C.______ et al. auf Abweisung der
+Beschwerde der Naturverbände (VG.2024.00076) schlossen; unter Kosten- und
+Entschädigungsfolgen zu Lasten des Regierungsrats. Am 27. Januar 2025
+liessen sich A.______ und C.______ et al. erneut vernehmen. Nachdem sie am
+13. Februar 2025 ihre Anträge erneuert hatten, ersuchten sie am
+24. Februar 2025 um Akteneinsicht, welche ihnen gewährt wurde. Am
+30. April 2025 beantragten C.______ et al. schliesslich, dass auf die
+geänderten Rechtsbegehren der Naturverbände (vgl. nachstehende
+E. II/4.4) nicht einzutreten und die Beschwerde im Übrigen abzuweisen
+sei; unter Kosten- und Entschädigungsfolgen zu Lasten der Naturverbände.
+4.4
+Die Naturverbände hielten am 13. Januar 2025
+ebenso an ihren Anträgen fest, wie der Regierungsrat am 11. Februar 2025
+an den seinigen. Die Naturverbände ersuchten am 19. Februar 2025 um
+Zustellung des Aktenverzeichnisses des Regierungsrats. Dem kam das
+Verwaltungsgericht am 21. Februar 2025 nach. Die Naturverbände ersuchten
+am 3. März 2025 sodann um Akteneinsicht, welche ihnen gewährt wurde. In
+der Folge nahmen sie am 25. März 2025 erneut Stellung, wobei sie ihr
+Rechtsbegehren insoweit abänderten, als dass der Regierungsrat anzuweisen
+sei, die von ihm beschlossene Änderung des Beschlusses über den Schutz der
+Torfstichseen und ihrer Umgebung mit dem dazugehörigen Plan betreffend Lage
+(Plan) sowie den Regelungen (Art. 4a - 4d Schutzbeschluss) der Zonen 2 -
+5 im Sinne der Erwägungen zu überarbeiten und diesbezüglich unter teilweiser
+Änderung bzw. Wiedererwägung des Beschlusses neue Regelungen zu erlassen. Bis
+zu diesem Zeitpunkt solle der angefochtene Beschluss vom 18. Juni 2024
+gelten. Im Fall einer Rückweisung sei als vorsorgliche Massnahme anzuordnen,
+dass der Beschluss und der dazugehörige Plan bis zum Erlass der neuen
+Regelung anwendbar seien. Eventualiter sei der Regierungsrat anzuweisen,
+innert zwei Monaten ab Rechtskraft des Urteils im Sinne einer vorsorglichen
+Massnahme anzuordnen, dass der Beschluss und der dazugehörige Plan bis zum
+Erlass der neuen Regelung anwendbar seien. Zudem habe Letzterer die neuen
+Regelungen innert drei Jahren nach Rechtskraft des Urteils zu erlassen.
+II.
+1.
+1.1
+Das Verwaltungsgericht ist gemäss
+Art. 25 Abs. 1 des kantonalen Gesetzes über den Natur- und
+Heimatschutz vom 2. Mai 1971 (KNHG) i.V.m. Art. 105 Abs. 1
+lit. a des Gesetzes über die Verwaltungsrechtspflege vom 4. Mai 1986
+(VRG) zur Behandlung der vorliegenden Beschwerde zuständig. Da auch die
+übrigen Prozessvoraussetzungen erfüllt sind, ist auf die Beschwerden
+grundsätzlich einzutreten (vgl. aber nachstehende E. II/1.3.3).
+1.2
+1.2.1
+Getrennt
+eingereichte Anträge, Beschwerden oder Klagen, die den gleichen Gegenstand
+betreffen, können im Interesse einer zweckmässigen Erledigung vereinigt
+werden (vgl. Art. 23 Abs. 2 VRG).
+Die
+Verfahrensvereinigung ist zulässig, wenn die Beurteilung von Begehren
+mehrerer Gesuchsteller im Rahmen einer einzigen Anordnung prozessökonomisch
+sinnvoll erscheint. Eine Verfahrensvereinigung kann sich insbesondere dann
+rechtfertigen, wenn mehrere Personen, die an eine Behörde gelangen, gleiche
+oder ähnliche Begehren stellen, die dieselben tatsächlichen Umstände und
+Rechtsfragen betreffen, sodass bei getrennter Verfahrensführung sich
+widersprechende Entscheide möglich wären oder wenn mehrere Parteien die
+gleiche Verfügung oder praktisch übereinstimmende Verfügungen, die identische
+Rechtsfragen aufwerfen, anfechten (Martin Bertschi/Kaspar Plüss in, Alain
+Griffel [Hrsg.], Kommentar zum Verwaltungsrechtspflegegesetz des Kantons
+Zürich, 3. A., Zürich/Basel/Genf 2014, Vorbemerkungen zu §§ 4–31
+N. 59). Bei der Anordnung einer Verfahrensvereinigung kommt dem
+Verwaltungsgericht ein weites Ermessen zu.
+1.2.2
+Sowohl der Beschwerde im Verfahren VG.2024.00071
+als auch derjenigen im Verfahren VG.2024.00076 liegt der
+Regierungsratsbeschluss vom 1. Mai 2018 bzw. derselbe
+entscheidwesentliche Sachverhalt zugrunde, weshalb
+die Verfahren im Sinne einer zweckmässigen und verfahrensökonomischen
+Erledigung zu vereinigen sind (Art. 23 Abs. 2 VRG).
+1.3
+Vorliegend haben die
+Beschwerdeführer 2 ihre Beschwerdeanträge am 25. März 2025 abgeändert,
+weshalb vorab zu prüfen ist, ob dies zulässig ist.
+1.3.1
+Die beschwerdeführende Partei kann
+innert der Beschwerdefrist und innert einer allfälligen Nachfrist neue
+Tatsachen, Beweisanträge und rechtliche Begründungen vorbringen (Art. 92
+Abs. 1 VRG). Neue Rechtsbegehren sind nur in der Verwaltungsbeschwerde,
+nicht aber in der Verwaltungsgerichtsbeschwerde zulässig. Vorbehalten bleiben
+Änderungen des Begehrens, die durch den Entscheid der Vorinstanz bedingt
+sind, und Begehren zum Verfahren (Art. 92 Abs. 2 VRG).
+1.3.2
+Die neuen Rechtsbegehren der
+Beschwerdeführer 2 vom 25. März 2025 wurden nach Ablauf der
+Beschwerdefrist erhoben. Der neue Beschwerdeantrag 1a der
+Beschwerdeführer 2 stellt dabei einen teilweisen Rückzug der Beschwerde
+dar, was jederzeit zulässig ist (vgl. Art. 97 VRG).
+1.3.3
+Die von den Beschwerdeführern 2
+nach Ablauf der Rechtsmittelfrist vorgebrachten Begehren betreffend die
+rasche Umsetzung im Falle einer Rückweisung der Sache an den Beschwerdegegner
+sowie die dabei zwischenzeitlich für anwendbar zu erklärenden
+Rechtsgrundlagen stellen neue Rechtsbegehren dar, welche nach Art. 92
+Abs. 2 VRG grundsätzlich unzulässig sind. Selbst wenn diese als durch
+den vorinstanzlichen Entscheid bedingt anzusehen wären, wären sie nämlich
+innerhalb der Rechtsmittelfrist vorzubringen gewesen (vgl. Art. 92
+Abs. 2 i.V.m. Abs. 1 VRG), was vorliegend nicht der Fall ist und
+den Beschwerdeführern 2 ohne Weiteres zumutbar gewesen wäre. Auf diese
+Begehren ist dementsprechend nicht einzutreten. Soweit die
+Beschwerdegegner 2 den Erlass von vorsorglichen Massnahmen beantragen,
+handelt es sich schliesslich nicht um solche im Rahmen des
+verwaltungsgerichtlichen Verfahrens, was zulässig wäre
+(vgl. Art. 92 Abs. 2 Satz 2 VRG). Vielmehr sind darin
+verbindliche Festlegungen oder Anweisungen an den Beschwerdegegner zu
+erblicken, welche über die Dauer der vorliegenden Verfahren hinausgehen.
+Hierauf ist aufgrund verspäteter Geltendmachung ebenfalls nicht einzutreten.
+1.3.4
+Weiter gilt anzumerken, dass die von den
+Beschwerdeführern 2 vorgebrachten Bestimmungen keine Grundlage für nachträglich
+vorgebrachte Rechtsbegehren bilden. So gibt Art. 29 Abs. 1
+lit. a der Verordnung über den Natur- und Heimatschutz vom
+16. Januar 1991 (NHV) vor, dass bis der Bundesrat die Biotope von
+nationaler Bedeutung und die Moorlandschaften von besonderer Schönheit und
+von nationaler Bedeutung bezeichnet hat und solange die einzelnen Inventare
+nicht abgeschlossen sind, die Kantone mit geeigneten Sofortmassnahmen dafür
+sorgen, dass sich der Zustand von Biotopen, denen aufgrund der vorhandenen
+Erkenntnisse und Unterlagen nationale Bedeutung zukommt, nicht
+verschlechtert. Diese Vorschrift ist indessen nicht anwendbar bei bereits
+definitiv in ein Inventar aufgenommenen Gebieten (vgl. BGer-Urteil
+1C_526/2015, 1C_528/2015 vom 12. Oktober 2016 E. 5.4, mit
+Hinweisen). Entsprechend vermögen die Beschwerdeführer 2 hieraus nichts
+zu ihren Gunsten abzuleiten. Gemäss Art. 7 der Verordnung über den
+Schutz der Flachmoore von nationaler Bedeutung vom 7. September 1994
+(Flachmoorverordnung) sind in den Objekten sodann zwar jegliche Bauten,
+Anlagen und Bodenveränderungen sowie erhebliche Nutzungsänderungen verboten,
+solange die Kantone keine Schutz- und Unterhaltsmassnahmen getroffen haben.
+Hieraus lässt sich jedoch ebenfalls keine Grundlage für die Anordnung von
+vorsorglichen Massnahmen ableiten, da diese Norm selbst direkte Vorgaben
+statuiert, welche unabhängig vom Ausgang der vorliegenden Verfahren Bestand
+haben und zu beachten sind.
+2.
+Die Beschwerde des
+Beschwerdeführers 1 richtet sich generell gegen die Einführung von zusätzlichen
+Zonen, gegen die Vergrösserung des gesamten Schutzgebiets und gegen die
+Verteilung der Zonen sowie die diesbezügliche Grenzziehung. Die
+Beschwerdeführer 2 halten den Schutz des Gebiets demgegenüber für
+unzureichend und für ungenügend abgeklärt bzw. nicht rechtsgenüglich
+hergeleitet.
+2.1
+2.1.1
+Der Beschwerdeführer 1 macht zunächst geltend, das
+bisherige kantonale Naturschutzgebiet umfasse bereits einen grossen Teil des
+Flachmoors und des Amphibienlaichgebiets von nationaler Bedeutung. Mit dem
+angefochtenen Beschluss vergrössere der Kanton das gemäss Bundesinventar
+erfasste Gebiet um ein Mehrfaches. Mit diesem Vorgehen sei der
+Beschwerdegegner weit über das Notwendige hinausgegangen.
+2.1.2
+Der Beschwerdegegner führt hierzu aus, die Bundesinventare
+würden sich auf die Biotopflächen an sich beschränken und insbesondere die zu
+deren Schutz notwendigen Pufferzonen nicht enthalten, was der
+Beschwerdeführer 1 verkenne. Durch die Aufnahme ins Bundesinventar seien
+die Kantone neben der Festlegung des genauen Grenzverlaufs des jeweiligen
+Objekts insbesondere zur Ausscheidung ausreichender Pufferzonen verpflichtet.
+Darüber hinaus berücksichtige der Schutzbeschluss neben den Bundesinventaren
+weitere Umstände, insbesondere die Biotopflächen im Gebiet, welchen keine
+nationale Bedeutung zukomme. Im Ergebnis liege somit keine
+Ermessensüberschreitung seinerseits vor.
+2.2
+Für den Natur- und Heimatschutz sind die Kantone
+zuständig (Art. 78 Abs. 1 der Bundesverfassung der Schweizerischen
+Eidgenossenschaft vom 18. April 1999 [BV]). Der Bund erlässt
+Vorschriften zum Schutz der Tier- und Pflanzenwelt und zur Erhaltung ihrer
+Lebensräume in der natürlichen Vielfalt. Er schützt bedrohte Arten vor
+Ausrottung (Art. 78 Abs. 4 BV). Moore und Moorlandschaften von
+besonderer Schönheit und gesamtschweizerischer Bedeutung sind geschützt. Es
+dürfen darin weder Anlagen gebaut noch Bodenveränderungen vorgenommen werden.
+Ausgenommen sind Einrichtungen, die dem Schutz oder der bisherigen
+landwirtschaftlichen Nutzung der Moore und Moorlandschaften dienen
+(Art. 78 Abs. 5 BV). Für den Schutz der Moore von besonderer
+Schönheit und von nationaler Bedeutung gelten die Artikel 18a, 18c und 18d
+des Bundesgesetzes über den Natur- und Heimatschutz vom 1. Juli 1966
+(NHG; Art. 23a NHG). Der Bundesrat bezeichnet gemäss Art. 18a
+Abs. 1 NHG nach Anhören der Kantone die Biotope von nationaler
+Bedeutung, bestimmt deren Lage und legt die Schutzziele fest. Die Kantone
+ordnen den Schutz und den Unterhalt der Biotope von nationaler Bedeutung,
+treffen rechtzeitig die zweckmässigen Massnahmen und sorgen für ihre
+Durchführung (Art. 18a Abs. 2 NHG). Der Bundesrat kann nach Anhören
+der Kantone Fristen für die Anordnung der Schutzmassnahmen bestimmen. Ordnet
+ein Kanton die Schutzmassnahmen trotz Mahnung nicht rechtzeitig an, so kann
+das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation
+die nötigen Massnahmen treffen und dem Kanton einen angemessenen Teil der
+Kosten auferlegen (Art. 18a Abs. 3 NHG). Gemäss Art. 18b NHG
+sorgen die Kantone sodann für Schutz und Unterhalt der Biotope von regionaler
+und lokaler Bedeutung. In intensiv genutzten Gebieten inner- und ausserhalb
+von Siedlungen sorgen sie zudem für einen ökologischen Ausgleich mit
+Feldgehölzen, Hecken, Uferbestockungen oder mit einer anderen naturnahen und
+standortgemässen Vegetation, wobei die Interessen der landwirtschaftlichen
+Nutzung zu berücksichtigen sind. Die Kantone legen den genauen Grenzverlauf
+der im Bundesinventar der Flachmoore von nationaler Bedeutung erfassten
+Objekte fest und scheiden ökologisch ausreichende Pufferzonen aus. Sie hören
+dabei die Grundeigentümer und Bewirtschafter, wie Land- und Forstwirte sowie
+Inhaber von Konzessionen und Bewilligungen für Bauten und Anlagen, an
+(Art. 3 Abs. 1 Flachmoorverordnung). Die Objekte müssen
+ungeschmälert erhalten werden. In gestörten Moorbereichen soll die
+Regeneration, soweit es sinnvoll ist, gefördert werden. Zum Schutzziel
+gehören insbesondere die Erhaltung und Förderung der standortheimischen
+Pflanzen- und Tierwelt und ihrer ökologischen Grundlagen sowie die Erhaltung
+der geomorphologischen Eigenart (Art. 4 Flachmoorverordnung).
+2.3
+Mit den anwendbaren Schutzbestimmungen ist
+vorliegend nicht nur vereinbar, sondern zwingend vorgegeben, dass nicht nur
+die im Bundesinventar enthaltenen Flächen, sondern auch zusätzliche
+Pufferzonen auszuscheiden sind (vgl. Art. 3 Abs. 1
+Flachmoorverordnung, Art. 14 Abs. 2 lit. d NHV). Entsprechend
+erweist sich ein Verzicht auf Pufferzonen als bundesrechtswidrig
+(vgl. BGer-Urteil 1C_489/2011 vom 21. Juni 2012 E. 2.1 mit
+Hinweisen). Soweit der Beschwerdeführer 1 geltend macht, dass bereits
+die starke Vergrösserung des Schutzgebiets an sich eine
+Ermessensüberschreitung darstelle, kann ihm somit nicht gefolgt werden, zumal
+diese in Umsetzung zwingender bundesrechtlicher Vorschriften erfolgt.
+Einerseits
+müssen die bisher vom Schutzgebiet noch nicht umfassten Teile der national
+geschützten Flächen erfasst werden, wie der Beschwerdegegner im angefochtenen
+Entscheid richtigerweise festhält
+.
+Andererseits ist Letzterer zu Recht
+davon ausgegangen, dass die bisherigen zwei Zonen nicht genügen bzw. den
+Zweck der verschiedenen, nach Bundesrecht nötigen Pufferzonen nicht genügend
+umsetzen.
+3.
+3.1
+Die Vorbringen des Beschwerdeführers 1 zur
+konkreten Grenzziehung zwischen den vorgesehenen Zonen bei seinen Parzellen
+betreffen sodann hauptsächlich den Schutzzonenplan. So sei der Begriff
+"ökologisch ausreichende Puffer" unklar. Der Beschwerdegegner habe
+die Verteilung der einzelnen Pufferzonen auf seinen Grundstücken ungenügend
+begründet bzw. diese auf ungenügende wissenschaftliche Abklärungen
+gestützt.
+Diese Auffassung teilen grundsätzlich auch die
+Beschwerdeführer 2, wobei sie hieraus andere Schlüsse ziehen. So machen
+sie geltend, d
+as Flachmoor sei aktuell in einem
+schlechten Zustand und es bestehe dringender Handlungsbedarf. Indessen fehle
+es
+aber an den für eine rechtskonforme Festlegung der
+Schutzvorschriften und Pufferzonen erforderlichen Bestandsaufnahmen und
+Daten. Vorhandene Berichte wie der moorhydrologische Bericht von F.______
+seien unberücksichtigt geblieben. Der Beschwerdegegner hält dem entgegen,
+dass z
+ur Bestimmung der erforderlichen
+Mindestgrösse der jeweiligen Zonen die zur Verfügung stehenden fachlichen und
+rechtlichen Grundlagen, unter anderem der Pufferzonen-Schlüssel, herangezogen
+worden seien, was rechtsgenüglich sei. Alle Zonen beschränkten sich dabei auf
+das erforderliche Mindestmass und es bestehe weder Raum für weitergehende
+Reduktionen noch für einen Verzicht.
+3.2.1
+Eine nach Art. 3 Abs. 1
+Flachmoorverordnung ökologisch ausreichende Pufferzone muss jene Flächen
+erfassen, die für die Verhinderung von Eingriffen in den Wasserhaushalt des
+Moorbiotops (hydrologische Pufferzone), den Eintrag von Nährstoffen
+(Nährstoff-Pufferzone) sowie der Störung der Fauna (faunistische Pufferzone)
+erforderlich sind (BGer-Urteil 1C_395/2022 vom 11. April 2024
+E. 5.2, mit Hinweisen; Karl-Ludwig Fahrländer, in Peter M.
+Kelle/Jean-Baptiste Zufferey/Karl-Ludwig Fahrländer [Hrsg.], Kommentar NHG,
+2. A., Zürich/Basel/Genf 2019, Art. 18a N. 40). Pufferzonen
+liegen grundsätzlich ausserhalb des Perimeters der zu schützenden Auengebiete
+und des Moorbiotops. Es gelten aber dennoch die nach Art. 18a
+Abs. 2 NHG anzuordnenden Schutz- und Unterhaltsmassnahmen, soweit diese zur
+Erreichung des Schutzziels erforderlich sind (Art. 5 Abs. 3
+Flachmoorverordnung). Für die Ausdehnung und Abstimmung der Pufferzonen auf
+die angrenzenden Zonen wird auf die Anleitung bzw. den
+Pufferzonenschlüssel des Bundesamts für Umwelt, Wald und Landschaft (BUWAL)
+und ihre jeweilige Funktion abgestellt. Bei Mooren steht dabei die
+Unterbindung oder Kontrolle der Nährstoffzufuhr (Nährstoffpufferzonen), bei
+den hydrologischen Pufferzonen die Sicherstellung eines qualitativ und
+quantitativ ausreichenden Wasserhaushalts und bei den faunistischen
+Pufferzonen insbesondere der ausreichende Schutz der infrage stehenden Tiere
+vor Störungen durch Menschen, Haustiere oder Gebäude im Vordergrund.
+Pufferzonen sind ihrer jeweiligen Zweckbestimmung und nach dem Grundsatz der
+Verhältnismässigkeit entsprechend möglichst differenziert und mit
+unterschiedlichen Pflegevorschriften und Nutzungsauflagen zu belegen. Dies
+kann auch für Pufferzonen allenfalls zur Ausscheidung einer eigentlichen
+Naturschutzzone führen. Umfasst werden können solche Zonen von einem oder
+mehreren Umgebungsschutzperimetern, welche mit unterschiedlichen, auf die
+jeweiligen Zweckbestimmungen zugeschnittenen Vorschriften die ökologisch
+ausreichenden Pufferzonen im Sinne von Art. 3 Abs. 1 Flachmoorverordnung
+sicherstellen. Im Übrigen gelten die Schutzzielvorgaben des Biotops auch für
+die jeweilige Pufferzone, soweit dies das Schutzziel erfordert (Art. 5
+Abs. 3 Flachmoorverordnung; vgl. zum Ganzen Fahrländer
+Art. 18a N. 43 f.). Pufferzonen sind damit weniger gut
+geschützt als die eigentlichen Schutzobjekte. Ihr Schutz muss jedoch darauf
+ausgerichtet sein, die Pufferzonenfunktion zu gewährleisten (Nina Dajcar,
+Natur- und Heimatschutz-Inventare des Bundes, Zürich/Basel/Genf 2011,
+S. 156). Für Amphibienlaichgebiete sind Pufferzonen in den jeweiligen
+Verordnungsbestimmungen zwar nicht ausdrücklich vorgesehen. Sie können
+gestützt auf Art. 14 Abs. 2 lit. d NHV jedoch ebenfalls
+angeordnet werden, soweit sie angezeigt sind (vgl. Fahrländer, Art. 18a
+N. 39).
+3.2.2
+Die Kantone haben bei der Ausscheidung der
+Pufferzonen Spielraum. Die Pufferzonen müssen ökologisch indessen ausreichend
+sein (Dajcar, S. 161, mit Hinweisen). Bei der Ausarbeitung ist für einen
+erfolgreichen Schutz bedeutsam, dass die Schutzziele möglichst klar und
+operabel formuliert werden. Operabel sind Schutzziele, wenn sie so präzise
+formuliert sind, dass sich aus ihnen ergibt, was in welchem Zeitraum erreicht
+werden soll. Bei grösseren Schutzobjekten ist häufig eine räumliche
+Differenzierung der Schutzziele erforderlich. Eine Erfolgskontrolle wird
+durch die Angabe quantitativer Vorgaben erleichtert. In Verbindung mit der
+Konkretisierung der Schutzziele haben die Kantone die zulässigen und
+verbotenen Nutzungen zu definieren (Dajcar, S. 162). Ihnen steht beim
+Treffen und bei der Umsetzung der Massnahmen zum Schutz der Flachmoore ein
+grosser Ermessensspielraum zu. Da Art. 4 Flachmoorverordnung aber die
+Erhaltung und Förderung der standortheimischen Pflanzen- und Tierwelt
+erwähnt, müssen bei der Festlegung der Schutzmassnahmen zumindest alle für
+den erhöhten Schutz in Frage kommenden Pflanzen und Tiere bzw. deren
+Bedürfnisse in Betracht gezogen werden. Die relevanten Umstände und Aspekte
+für eine ungeschmälerte Erhaltung des fraglichen Moorgebiets sind in einer
+Gesamtbetrachtung einander gegenüberzustellen, wobei zu beachten ist, dass
+sowohl ein "Sich-selbst-Überlassen" als auch ein allzu intensives
+Eingreifen in den Naturkreislauf dem Schutzziel der ungeschmälerten Erhaltung
+des Flachmoors entgegenstehen können (vgl. 18a Abs. 2 NHG und
+Art. 5 Flachmoorverordnung; BGer-Urteil 1C_395/2022 vom 11. April
+2024 E. 8.5; vgl. zum Ganzen auch Beatrice Wagner Pfeifer,
+Umweltrecht – Besondere Regelungsbereiche, 2. A., Zürich/St. Gallen
+2021, Rz. 1359 f.).
+4.
+4.1
+Vorliegend änderte der
+Beschwerdegegner die bestehende Gliederung von zwei Zonen (1: See- und
+Ufergebiet; 2: Natur- und Landschaftsschutzgebiet mit den drei Seen) in
+neu fünf Zonen (Naturschutzzone, Vernetzungselemente für den
+Wildtierkorridor, Pufferzone ohne Düngung, Pufferzone mit Düngung,
+Umgebungszone). Dabei stützte er sich auf die bundesrechtlichen Vorgaben,
+welche unter anderem den Begriff der ökologisch ausreichenden Pufferzonen
+definieren (vgl. vorstehende E. II/3). Vor diesem Hintergrund ist
+nachfolgend zu prüfen, ob die diesbezüglichen bundesrechtlichen Vorgaben
+eingehalten, insbesondere die nötigen drei Pufferzonen-Typen umgesetzt
+wurden, was unabhängig von der verwendeten Terminologie gilt. Hierbei ergeben
+sich indessen bereits aus der Prüfung der verschiedenen Pläne und
+Gegenüberstellung mit dem kantonalen Geoviewer (https://map.geo.gl.ch)
+gewisse Diskrepanzen. So wurde insbesondere nicht das gesamte Flachmoor
+gemäss Bundesinventar der Naturschutzzone (Zone 1) zugeteilt. Namentlich ragt
+ein Ausläufer des Flachmoor-Inventargebiets über das Gebiet der Zone 1 hinaus
+in die Parz.-Nr. 07, Grundbuch […], und in die Pufferzone hinein. Dies
+ist angesichts der absoluten Schutzfunktion dieses Inventars nicht
+nachvollziehbar, was mit Blick auf die verfassungsrechtlichen Vorgaben denn
+auch bereits 2012 vom BAFU bemängelt wurde.
+4.2
+4.2.1
+Mit Blick auf die
+Beurteilung der hydrologischen Pufferzone stellt sich der Beschwerdegegner
+sodann auf den Standpunkt, diese Funktion komme der
+Zone
+5 (Umgebungszone) zu. Entsprechend ist vorliegend deren Umfang zu prüfen. Der
+Beschwerdegegner legt dar, diese Zone berücksichtige das hydrologische
+Einzugsgebiet der Moorflächen und basiere auf einem Vorschlag des BAFU. Zuvor
+hielt er i
+m Kommentar zu seinem Beschluss allerdings fest, die
+Umgebungszone (Zone 5) entspreche der hydrologischen Pufferzone, welche im
+Vernehmlassungsentwurf 2012 als „hydrologisches Einflussgebiet“ bezeichnet
+worden sei. Dies erscheint nicht durchwegs zutreffend, da die Umgebungszone
+(Zone 5) nicht mit dem damals benannten hydrologischen Einflussgebiet
+übereinstimmt (so unter anderem betreffend die Parz.-Nr. 04, Grundbuch
+[…]). Auch der als Grundlage angegebene Vorschlag des BAFU aus dem Jahr 2012
+entspricht, soweit mit den vorhandenen Unterlagen erkennbar, nicht
+vollständig der geplanten Umgebungszone (Zone 5), worauf die
+Beschwerdeführer 2 in ihrer Beschwerde (VG.2024.00076) zu Recht
+hinweisen. Damit zeigen die vorhandenen Unterlagen nicht mit hinreichender
+Deutlichkeit auf, wie der Beschwerdegegner den Umriss der Umgebungszone im
+Sinne einer hydrologischen Pufferzone begründet bzw. weshalb er von den
+von ihm selbst ins Feld geführten Grundlagen, namentlich dem BAFU-Vorschlag,
+abgewichen ist. Sein Standpunkt, wonach die Schutzgebietsgrenze mit den Parzellengrenzen
+übereinstimmten und dies eine Abweichung vom BAFU-Vorschlag teilweise
+rechtfertige, erscheint aus praktischen Gründen zwar verständlich. Aus Sicht
+des Naturschutzes und mit Blick auf die vorliegend anwendbaren Grundlagen ist
+dies jedoch ungenügend.
+4.2.2
+Des Weiteren verwies
+der Beschwerdegegner andernorts auf vorhandene hydrologische Fachgutachten,
+wobei er insbesondere die im Jahr 2010 vom Departement Volkswirtschaft und
+Inneres des Kantons Glarus (DVI) erstellte Wasserhaushaltskarte erwähnte.
+Darin blieben relevante Teile des streitbetroffenen Gebiets jedoch
+unberücksichtigt, womit diese Kartierung keine alleinige Grundlage für den
+angefochtenen Schutzzonenplan bzw. dessen Umgebungszone bilden kann. Der
+ebenfalls angeführte Bericht über die moorhydrologischen Untersuchungen in
+den Jahren 2014 bis 2016 zielte sodann auf die Erhebung der wesentlichen
+moorhydrologischen Grundlagen für die künftigen Schutzmassnahmen ab, wobei
+sich die darin erwähnten Untersuchungen sowie die daraus hergeleiteten
+Vorschläge als nachvollziehbar und detailliert erweisen. So enthielten die
+Untersuchungen unter anderem eine Kartierung mit konkret aufgeschlüsselten
+Schutzmassnahmen, welche als empfehlenswert taxiert wurden. Inwiefern diese
+Untersuchungen in der Folge in den vorliegend angefochtenen Schutzzonenplan
+einflossen bzw. Grundlage der im Einzelnen vorgenommenen Grenzziehungen
+bildeten, lässt sich anhand der Angaben des Beschwerdegegners und mit Blick
+auf die übrigen im Recht liegenden Akten jedoch nicht abschliessend
+beurteilen. Hinzu kommt, dass für einen Teil der geplanten Umgebungszone
+(beispielsweise Parz.-Nr. 08 f., beide Grundbuch […]) keine
+Massnahmenvorschläge in der Kartierung des Fachbüros F.______ ersichtlich
+sind, womit diese offensichtlich ebenfalls nicht als alleinige Grundlage für
+die Festlegung der Umgebungszone gedient hat und dienen kann. Soweit der
+Beschwerdegegner schliesslich auf eine Baugrunduntersuchung für das
+LinthWind-Projekt hinweist, ist diese angesichts der anders gerichteten
+Zielsetzung und Thematik sowie mangels Darlegung der räumlichen Verteilung
+nicht als zweckdienliches Beweismittel für die vorliegend strittige
+hydrologische Pufferzone zu qualifizieren. Die gleichenorts erwähnte
+Entwicklungsplanung Ressource Boden enthält darüber hinaus ebenso keine
+genügende räumliche Darlegung, welche eine Begründung der konkreten
+Grenzziehung der hydrologischen Zone bzw. Umgebungszone (Zone 5)
+erlauben würde. Insgesamt erscheint die Grenzziehung der hydrologischen
+Pufferzone bzw. der Umgebungszone (Zone 5) ungenügend begründet.
+Hinzuweisen bleibt aber darauf, dass dem Vorbringen des
+Beschwerdeführers 1 betreffend Aufhebung der Zone 5 auch nicht
+gefolgt werden kann. So stellen dessen Angaben und auch diejenigen der
+Beigeladenen zum Wasserverlauf grundsätzlich reine Parteibehauptungen dar,
+wobei anhand der vorhandenen Unterlagen klar und gesamthaft eine
+hydrologische Zone verlangt wird.
+4.3
+4.3.1
+Die Errichtung einer
+Nährstoffpufferzone soll im vorliegenden Fall sodann grundsätzlich mittels
+der Zone 3 (Pufferzone ohne Düngung) erreicht werden. Der
+Beschwerdegegner stützt dies für die Gebiete entlang von Fliessgewässern
+behelfsweise auf Art. 41a der Gewässerschutzverordnung vom
+28. Oktober 1998 (GSchV) und in sonstigen Lagen auf den Pufferzonen-Schlüssel
+des Bundes.
+4.3.2
+Die Einhaltung der
+Gewässerschutz-Bestimmungen ist mit Blick auf das Vorgehen des
+Beschwerdegegners zwar ebenfalls notwendig. Die diesbezüglichen Normen
+verfolgen aber einen anderen Zweck als der Moorschutz, weshalb sie zur Festlegung
+der Nährstoffpufferzone nur begrenzt herangezogen werden können
+(vgl. auch untenstehende E. II/8). Soweit die Zone 3 den Zweck
+des Moorschutzes verfolgen soll, ist entsprechend auf die diesbezüglichen
+Grundlagen abzustützen (vgl. nachfolgende E. II/4.3.3). Soll die
+streitbetroffene Zone darüber hinaus separat den Zweck des Gewässerschutzes
+umsetzen, ist dabei fraglich, weshalb die Bestimmungen lediglich analog und
+nicht direkt herangezogen wurden, was aufgrund des Nachfolgenden jedoch
+offenbleiben kann.
+4.3.3
+Der Kommentar zum
+Schutzbeschluss aus dem Jahr 2018 führt den Zweck der geplanten Pufferzone
+ohne Düngung (Zone 3) zwar aus (vgl. zum geplanten Art. 4b
+S. 5). Indessen wird die konkrete Grenzziehung darin nicht weiter
+erläutert. So wurde betreffend die fehlende Notwendigkeit eines
+Düngungsverbots in der Umgebungszone lediglich festgehalten, eine solche
+Einschränkung werde aufgrund des aktuellen Wissenstands als nicht notwendig
+erachtet. Der Bericht des DBU an den Beschwerdegegner vom 13. Juni 2024
+gibt als ursprüngliche Grundlage der Nährstoffpufferzone sodann eine
+unzureichende Bodenkartierung an, weshalb eine erneute Prüfung mittels
+Pufferzonen-Schlüssel erfolgt sei. Auf Einsprache mehrerer Personen hin hat
+der Beschwerdegegner alsdann Formulare zum Nährstoff-Pufferzonen-Schlüssel
+erstellt, welche in seine Entscheidung miteingeflossen sind und womit er die
+Sachverhaltserhebung zum Beschluss von 2018 (inklusive Schutzzonenplan)
+offensichtlich selbst für ungenügend erachtet hat.
+4.3.4
+Die vorgenannte,
+nachgelieferte Datenlage (vgl. vorstehende E. II/4.3.3) erweist
+sich indessen nach wie vor als lückenhaft. So brachte der Beschwerdegegner in
+seinem Einspracheentscheid vor, dass unter anderem die
+Parz.-Nrn. 07 f., beide Grundbuch […], erneut überprüft werden
+müssten. Bei den diesbezüglichen Formularen finden sich diese beiden
+Parzellen jedoch nicht. Damit verbleibt die Grundlage der Nährstoffpufferzone
+bzw. deren Festlegung unklar, womit deren Umfang im Ergebnis als
+ungenügend begründet zu qualifizieren ist. Betreffend diejenigen Parzellen,
+auf welche ein solcher Schlüssel angewendet wurde, ist dies grundsätzlich
+aber nicht zu beanstanden. Auch wenn der Pufferzonen-Schlüssel für die
+Gerichte nicht verbindlich ist, besteht für das Verwaltungsgericht in der
+Regel kein Anlass, von den darin enthaltenen Informationen abzuweichen.
+Aufgrund des darin zum Ausdruck gelangenden Fachwissens ist er nämlich
+geeignet, einen sachgemässen und rechtsgleichen Vollzug sicherzustellen (vgl.
+Urteil des Verwaltungsgerichts Zürich VB.2011.00114 vom 12. Oktober 2011
+E. 5.4.1, mit Hinweis). Mangels Vollständigkeit fehlt jedoch gesamthaft
+eine korrekte und umfassende Grundlage für das streitbetroffene Gebiet
+bzw. die Festlegung der Nährstoffpufferzone.
+4.4
+4.4.1
+Betreffend die
+Festlegung der faunistischen Pufferzone bemängelt der Beschwerdeführer 1
+schliesslich ebenfalls eine ungenügende Datenlage. Die
+Beschwerdeführer 2 sind darüber hinaus der Auffassung, eine faunistische
+Störungspufferzone (teils lediglich Störungspufferzone genannt) fehle
+vollständig. Es sei weder aktuell noch systematisch untersucht worden, welche
+Arten im Gebiet vorkommen würden, welche Lebensraum- und Schutzbedürfnisse
+die jeweiligen Arten hätten und für welche Lebewesen das Gebiet je nach
+Schutz und angepasster Pflege ein Potenzial aufweise. Erst nach einer solchen
+Untersuchung könne sowohl das Gebiet als auch die darin geltenden Regeln
+festgelegt werden. Die von ihnen und anderen Naturschutzorganisationen
+durchgeführten Untersuchungen zeigten eine Verschlechterung des Zustands des
+Moors und der darin befindlichen Flora und Fauna. Der Beschwerdegegner
+bestreitet demgegenüber das Fehlen solcher Untersuchungen. Vielmehr seien in
+den letzten 30 Jahren Untersuchungen zur Flora und Fauna erfolgt, worauf
+verwiesen werde.
+4.4.2
+Vorliegend hat der
+Beschwerdegegner neben den Vernetzungselementen für den Wildtierkorridor
+keine Zone ausgeschieden, welche spezifisch den Schutzgedanken der Fauna
+verfolgt. Nur, aber immerhin hat er im angefochtenen Schutzbeschluss
+Regelungen vorgesehen, welche auch diesem Zweck dienen (vgl. statt
+vieler Art. 2 Abs. 2 lit. f und Abs. 4, Art. 3
+Abs. 4 Schutzbeschluss 2018). Ob dies genügt, wie vom Beschwerdegegner
+geltend macht, lässt sich anhand der vorliegenden Unterlagen bzw. Begründungen
+jedoch nicht rechtsgenüglich feststellen (vgl. nachstehende
+E. II/4.4.3 ff.).
+4.4.3
+Dass im Vergleich
+zum vorherigen Schutzgebiet Verbesserungen auch in Bezug auf die Fauna nötig
+sind, erweist sich als nachvollziehbar und schlüssig. So liess
+das DBU bereits 2008 den aktuellen Zustand des
+Naturschutzgebiets Niderriet und Torfstichseen extern beurteilen. Dabei wurde
+festgestellt, dass die bisherigen Bestimmungen vorwiegend auf Ziele des
+Landschaftsschutzes ausgerichtet seien und den Biotopschutz zu wenig
+berücksichtigten. Das Schutzgebiet müsse auf alle Moorflächen, alle
+Fettwiesen mit Riedpflanzen, Wassergräben mit speziellen Libellenvorkommen
+sowie den Hinter Rötigraben mit Strukturen für Wildtierkorridore ausgedehnt
+werden. Damit würden alle primären Lebensräume der Zielarten flächenmässig
+abgedeckt. Das BAFU beantragte 2012 schliesslich die Auflistung der
+prioritären Arten und Festlegung der Pflegemassnahmen. Damit fällt
+die
+vom Beschwerdeführer 1 verlangte diesbezügliche Aufhebung des Beschlusses
+bzw. Beibehaltung der bisherigen Regelung ausser Betracht, da dem
+Schutzgedanken hiermit nur ungenügend Rechnung getragen würde.
+4.4.4
+Der Beschwerdegegner
+hat nach den vorgenannten Abklärungsberichten – soweit ersichtlich – aber
+kaum weitere Untersuchungen angestellt. So führt er auch in seiner Duplik vom
+11. Februar 2025 im Verfahren VG.2024.00076 zunächst die Objektblätter der
+Bundesinventare sowie Vegetationskartierungen an, welche aus den Jahren 1994,
+1996 und 2001 stammen und damit für die Festlegung einer aktuellen
+Schutzregelung nicht genügend aktuell sind. Soweit er sodann auf kantonale
+Aktionspläne verweist, lassen sich diese den im Recht liegenden Akten
+einerseits nicht entnehmen. Andererseits könnten daraus weder der vorliegend
+angefochtene Schutzbeschluss noch dessen Zonen klar hergeleitet werden, was
+namentlich das vom Beschwerdegegner diesbezüglich zitierte Beispiel des
+Aktionsplans Gelbbauchunke erhellt. Zwar weist dieser auf ein solches
+Vorkommen im ungefähren Bereich Torfstichsee hin. In räumlicher Hinsicht
+verbleibt die Einschätzung aber äusserst vage, weshalb gestützt darauf keine
+exakt gezogenen Schutzzonen und die darin gültigen Schutznormen betreffend
+Fauna begründet werden können. Damit erscheinen
+die
+für den erhöhten Schutz der in Frage kommenden Pflanzen und Tiere
+bzw. deren Bedürfnisse insgesamt zu erhebenden Daten ungenügend, womit
+keine rechtsgenüglichen Schutzmassnahmen festgelegt werden können
+(vgl. obenstehende E. II/3.2).
+4.4.5
+Schliesslich scheint
+der Beschwerdegegner die Ansicht zu vertreten, dass der strittige
+Schutzzonenplan durch sein Gebiet und seine Massnahmen den Artenschutz
+genügend gewährleiste. Dies begründet er jedoch bloss rudimentär, was eine
+gerichtliche Überprüfung und Bestätigung der Schutzzonen zumindest
+hinsichtlich dieses Aspekts verunmöglicht. Darüber hinaus verweist er
+hauptsächlich auf Pflegepläne, welche erst erlassen würden
+(vgl. Ziff. 12 seiner Duplik vom 11. Februar 2025 im Verfahren
+VG.2024.00076). Dies erweist sich zwar nicht per se als unzulässig, zumal den
+Kantonen bei der Umsetzung der streitbetroffenen Zonen ein grosser Spielraum
+zukommt (vgl. obenstehende E. II/3). Es erschwert jedoch zumindest
+dann die gerichtliche Überprüfung, wenn die Massnahmen nicht zeitgleich
+erlassen werden, womit eine umfassende Überprüfung der Konformität zwischen
+dem Erlass und den bundesrechtlichen Vorgaben verunmöglicht wird, was bei den
+streitbetroffenen schwergewichtigen Schutzzielen nicht angehen kann.
+5.
+5.1
+Aus dem Dargelegten ergibt sich, dass der Beschwerdegegner
+seinen Beschluss vom 1. Mai 2018 (inklusive Schutzzonenplan) auf
+ungenügende (wissenschaftliche) Grundlagen und Untersuchungen gestützt und
+insbesondere die Zonenfestlegungen unzureichend begründet hat.
+Entgegen
+den Beschwerdeführern hat er zwar diverse Abklärungen vorgenommen. Zentrale
+Anliegen liess er dabei jedoch ausser Acht, was insbesondere auf die
+Abklärung aller notwendigen Parzellen betreffend Nährstoffpufferzonen sowie
+der betroffenen und schutzbedürftigen Fauna zutrifft. Er hat es darüber
+hinaus versäumt, seinen Beschluss genügend zu begründen und die gewonnenen
+Erkenntnisse klar und nachvollziehbar in den Schutzbeschluss bzw. die
+darin festgehaltenen Zonen einfliessen zu lassen. Wenn sich aus den
+Unterlagen sowie den Beschlüssen und Entscheiden des Beschwerdegegners nicht
+genügend klar ergibt, weshalb welche Zone entlang welcher Grenze verläuft,
+kann die bundesrechtliche ökologische Notwendigkeit derselben nicht überprüft
+werden. Dasselbe gilt bei Widersprüchen zwischen den angeführten Grundlagen
+und dem Beschluss selbst, wie dies bei der hydrologischen Pufferzone der Fall
+ist. Soweit der Beschwerdegegner schliesslich die Ansicht vertritt, das
+Gebiet sei in Bezug auf die Fauna genügend erforscht, hat er den
+diesbezüglichen Beweis zu erbringen. Wenn er im Übrigen der Auffassung ist,
+auf dieser Basis setze der angefochtene Schutzbeschluss den notwendigen
+Schutz der vorhandenen Arten genügend um, hat er dies zu erläutern
+bzw. dies mit den jeweils hierzu geplanten Schutznormen und Schutzzonen
+in Verbindung zu bringen.
+5.2
+Da für diese soeben dargelegten Abklärungen ein
+grosses Fachwissen notwendig ist und es nicht Sache des Verwaltungsgerichts
+sein kann, derartige Versäumnisse der Vorinstanz nachzuholen, rechtfertigt
+sich vorliegend die Rückweisung der Sache an den Beschwerdegegner zur
+erneuten Abklärung bzw. rechtsgenüglichen Erläuterung
+(vgl. Art. 101 Abs. 2 VRG). In diesem Zusammenhang ist darauf
+hinzuweisen, dass Letzterer in wichtigen Fällen eine Begutachtung durch die
+kantonale Natur und Heimatschutzkommission einzuholen hat (vgl. Art. 11
+Abs. 4 KNHG). Angesichts der national relevanten Gebiete, der
+offensichtlichen und unbestrittenen Komplexität der Thematiken und der sich
+überlagernden Interessenbereiche des Moor-, Biotop-, Amphibien-, Wildtier-,
+Gewässer- und generellen Naturschutzes sowie der Landwirtschaft auf kleinstem
+Raum erscheint es vor diesem Hintergrund angezeigt, eine fachliche
+Begutachtung einzuholen. Eine solche würde zu einer klaren Herleitung der
+notwendigen Zonen und deren räumlicher Abgrenzung verhelfen und hernach eine
+rechtsgenügliche Überprüfung ermöglichen. Damit erübrigen sich Weiterungen zu
+den übrigen vom Beschwerdeführer 1 bzw. den Beigeladenen vorgebrachten
+Punkten sowie die beantragte Durchführung eines Augenscheins. Der
+Beschwerdegegner wird nach der Vornahme der notwendigen Abklärungen erneut zu
+prüfen und darzulegen haben, welche Zonen aufgrund welcher wissenschaftlicher
+Abklärungen entlang welcher Grenzen angezeigt sind.
+5.3
+Auf die weitere Kritik der Beschwerdeführer 2 zu
+einzelnen Bestimmungen des Schutzbeschlusses ist sodann ebenfalls nicht
+weiter einzugehen, da dieser mit dem angepassten Schutzzonenplan und den noch
+zu verabschiedenden Pflegeplänen ohnehin noch Änderungen erfahren wird und
+hernach erneut der Anfechtung unterliegt. Eine vertiefte Prüfung der
+vorgebrachten Punkte wäre demnach verfrüht. Da der angefochtene Beschluss
+gesamthaft ungenügend ist, ist eine vorweggenommene Teil-Umsetzung, wie sie
+die Beschwerdeführer 2 ursprünglich verlangt haben, sodann nicht
+angezeigt. Der Schutzzonenplan und der Schutzbeschluss sind nämlich
+untrennbar miteinander verbunden, da ohne rechtskräftigen Plan der Beschluss
+und die darin enthaltenen Bestimmungen zweck- und wirkungslos sind.
+5.4
+Schliesslich ist mit den Beschwerdeführern 2
+immerhin darin einig zu gehen, dass weitere Verzögerung bei den
+streitbetroffenen Anpassungen des Schutzbeschlusses negative Auswirkungen für
+das betroffene Gebiet zeitigen. Deshalb und weil im vorliegenden Fall das
+Abklärungs- sowie das Verwaltungsverfahren bereits mehrere Jahre gedauert
+haben und nun durch die notwendige Rückweisung erneut eine Verzögerung
+erfährt, ist der Beschwerdegegner anzuhalten, die Abklärungen rasch an die
+Hand zu nehmen, wobei nachfolgend bereits auf einige Punkte einzugehen ist.
+6.
+6.1
+Der Beschwerdeführer 1 rügt neben der
+Sachverhaltsfeststellung und Begründung des Entscheids die fehlende
+Interessenabwägung, da die geplante massive Ausweitung des Schutzgebiets als
+Eigentumseingriff nötig und verhältnismässig sein müsse. Die
+Beschwerdeführer 2 sind diesbezüglich der Auffassung, dass im Rahmen von
+Art. 78 Abs. 5 BV keine Interessenabwägung möglich und notwendig
+sei.
+6.2
+Das Schutzkonzept gemäss Art. 78 Abs. 5 BV
+schliesst eine Interessenabwägung im Einzelfall grundsätzlich aus, da diese
+zugunsten des Moor- und Moorlandschaftsschutzes bereits auf Verfassungsstufe
+erfolgt (Nina Dajcar/Alain Griffel, in Bernhard Waldmann/Eva Maria
+Belser/Astrid Epiney [Hrsg.], Basler Kommentar Bundesverfassung, Basel 2015,
+Art. 78 N. 41).
+Soweit eine
+Beeinträchtigung des Schutzobjekts vorliegt, besteht dementsprechend kein
+Raum für eine Interessenabwägung. Ein Abstützen auf den
+Verhältnismässigkeitsgrundsatz kommt nicht infrage. Für den
+Verhältnismässigkeitsgrundsatz bleibt nur dann Raum, wenn eine drohende
+Beeinträchtigung mit weniger einschneidenden Massnahmen gebannt werden
+könnte. Entscheidend ist mithin, ob die angeordneten Pufferzonen notwendig
+sind, um die Moorbiotope vor einer Gefährdung zu schützen (vgl. Urteil des
+Verwaltungsgerichts Zürich VB.2021.00708 vom 13. April 2022
+E. 5.4.4, mit Hinweisen). Damit liegt beim Moorschutz die Situation
+betreffend Interessenabwägung anders als bei anderen Biotopen, bei welchen
+die Kantone über Ermessensspielräume verfügen (vgl. Urteil des
+Verwaltungsgerichts Zürich VB.1999.00135 vom 21. Januar 2000
+E. 4b/cc, mit Hinweisen).
+6.3
+Sollten die weiteren Abklärungen des
+Beschwerdegegners ergeben, dass ein Gebiet einer zum Schutz des
+bundesrechtlich festgelegten Moors notwendigen Pufferzone zuzuordnen ist,
+schliesst dies die Verhältnismässigkeitsprüfung damit grundsätzlich mit ein
+und es verbleibt kein Raum für eine darüberhinausgehende Interessenabwägung.
+Dasselbe gilt für die Ausführungen des Beschwerdeführers 1 hinsichtlich
+einer allfälligen Gleichbehandlung mit der ARA Glarnerland. Wenn die
+anzustellenden Untersuchungen nämlich ergeben, dass deren Gebiet aus Sicht
+des Moorschutzes nicht mit einer der geplanten Zonen belegt werden muss und
+dasjenige des Beschwerdeführers 1 schon, genügt dies bereits und führt
+nicht zur Prüfung einer allfälligen Ungleichbehandlung. Für die weiteren, vom
+Moorschutz unabhängigen Regelungsgebiete gilt hingegen das übliche Vorgehen
+hinsichtlich der Interessenabwägung (vgl. nachstehende E. II/9).
+7.
+Soweit der
+Beschwerdeführer 1 Widersprüche zwischen der lediglich teilweise in Kraft
+gesetzten NUP II der Gemeinde Glarus Nord und dem vorliegend
+angefochtenen Entscheid ausmacht, ist zunächst festzuhalten, dass das DBU die
+NUP II entgegen seiner Ansicht nicht vollständig genehmigt, sondern
+vielmehr in Disp.-Ziff. 2 des Genehmigungsentscheids festgehalten hat,
+dass
+die kommunale Naturschutzzone innert vier Jahren nach dessen
+Rechtskraft dem vorliegend angefochtenen Entscheid anzupassen sei
+. Insofern sind die beiden kantonalen Entscheide
+aufeinander abgestimmt. Die mit dem vorliegend angefochtenen Entscheid
+festgelegte kantonale Schutzzone ginge dabei der noch ausstehenden kommunalen
+Schutzzone indessen aber ohnehin vor, womit grundsätzlich kein Widerspruch
+bzw. keine Unklarheit über die Anwendbarkeit der verschiedenen Pläne
+bestehen würde. Mit der vorliegenden Rückweisung der Sache an den
+Beschwerdegegner zur erneuten Abklärung und der damit einhergehenden
+Aufhebung des Regierungsratsbeschlusses ist der Genehmigungsentscheid des DBU
+jedoch ohnehin anzupassen.
+8.
+8.1
+Vor dem Hintergrund, dass sich der
+Beschwerdeführer 1 auf die Regelungen der GSchV und dabei die
+Möglichkeit eines Verzichts auf eine Festlegung des Gewässerraums stützt, ist
+dem Beschwerdegegner und den Beschwerdeführern 2 schliesslich darin zu
+folgen, dass die Bestimmungen des Gewässerschutzes und diejenigen des
+Naturschutzes grundsätzlich unabhängig voneinander zur Anwendung gelangen.
+Der Beschwerdegegner hat vorliegend die Normen der GSchV lediglich analog zur
+Festlegung der Nährstoffpufferzonen herangezogen (vgl. obenstehende
+E. II/4.2). Indessen verfolgen der Gewässer- und der Moorschutz jedoch
+unterschiedliche Ziele (vgl. Art. 1 des Bundesgesetzes über den
+Schutz der Gewässer vom 24. Januar 1991 [GSchG], Art. 1 NHG) und
+basieren auf unterschiedlichen verfassungsrechtlichen Grundlagen
+(Art. 76 sowie Art. 78 BV). Eine in der Gewässerschutzverordnung
+enthaltene diesbezügliche mögliche Ausnahme führt entsprechend nicht dazu,
+dass die Vorgaben betreffend Pufferzonen des Moor-
+bzw. Naturschutzrechts obsolet würden.
+8.2
+Indem der Beschwerdeführer 1 sodann vorbringt, die
+Pufferzone bzw. der Pufferstreifen sei Bestandteil des Gewässerraums,
+vermischt er relevante Begriffe. Der "Pufferstreifen" gemäss
+Art. 21 i.V.m. Anhang 1 Ziff. 9 der Verordnung über die
+Direktzahlungen an die Landwirtschaft vom 23. Oktober 2013 (DZV)
+behandelt nämlich nicht dieselbe Thematik wie die vorliegend streitbetroffene
+"Pufferzone" gemäss Art. 3 Abs. 1 Flachmoorverordnung
+(vgl. auch Anhang 1 Ziff. 9.7 DZV). Auch wenn sich
+Moorschutz-Pufferzonen und Gewässerräume räumlich überschneiden können, wie
+es der Beschwerdeführer 1 in seiner letzten Stellungnahme vorbringt,
+ändert dies grundsätzlich nichts an der Notwendigkeit der ökologisch
+ausreichenden Pufferzonen. Wenn der Beschwerdegegner gestützt auf die
+angezeigten zusätzlichen Abklärungen (vgl. obenstehende E. II/5)
+zum Schluss kommen sollte, dass ein Gebiet einer notwendigen Pufferzone
+zuzuordnen sei, ändern Gewässerschutznormen hieran somit grundsätzlich
+nichts. Die vom Beschwerdeführer 1 vorgebrachten Argumente betreffend
+Pufferstreifen und Gewässerraum sowie die Entstehungsgeschichte des Gebiets
+sind damit nicht weiter zu berücksichtigen. Für die vorliegend strittigen Fragen
+betreffend moor- bzw. naturschutzrechtlichen Pufferzonen kann den von
+ihm erwähnten Umständen entsprechend keine Relevanz zukommen. Soweit der
+Beschwerdeführer 1 schliesslich vorbringt, Art. 14 Abs. 2 NHV
+stelle lediglich eine Verordnungs- und damit eine Norm niedrigeren Rangs dar,
+ist festzuhalten, dass diese Bestimmung auf derselben Stufe wie der von ihm
+angerufene Art. 41a GschV steht. Entsprechend kann er hieraus nichts zu
+seinen Gunsten ableiten.
+8.3
+Lediglich der Vollständigkeit halber ist schliesslich
+darauf hinzuweisen, dass auch im Rahmen des Gewässerschutzes
+insbesondere
+an der ökologischen Bedeutung des Gewässers ein überwiegendes Interesse
+besteht, welches sogar bei künstlich angelegten Gewässern eine Festlegung des
+Gewässerraums erfordert. Bei künstlich angelegten Gewässern mit ökologischer
+Bedeutung wäre damit grundsätzlich ein Gewässerraum auszuscheiden
+(vgl. Erläuternder Bericht des BAFU vom 20. April 2011 zur
+Parlamentarische Initiative Schutz und Nutzung der Gewässer et al.,
+S. 12). Mit der Eintragung in den entsprechenden Bundesinventaren hat
+das strittige Gebiet nämlich offensichtlich ökologische Bedeutung, womit die
+Festlegung eines Gewässerraums wohl angezeigt ist.
+9.
+9.1
+Der Beschwerdeführer 1 macht schliesslich geltend, der
+Nutzen der Vernetzungselemente, namentlich die erhöhte Durchlässigkeit der
+Wildtierunterführung, bleibe unbelegt. Ein offenes Feld sei sicherer, da das
+Wild von weiter her erkennbar sei und im Übrigen die Strasse schneller
+überquere. Es würden diesbezüglich aber wissenschaftliche Daten und
+Erhebungen fehlen. Das bisherige Schutzgebiet biete bereits heute die nötige
+Ruhe für einen allfälligen Wildwechsel. Es werde auch nicht dargelegt,
+welches erhebliche öffentliche Interesse an der Erstellung von Vernetzungselementen
+bestehe und wie die lnteressenabwägung im Rahmen von Art. 36 BV
+vorgenommen worden sei, um derart massiv in seine Eigentumsrechte
+einzugreifen. Der Beschwerdegegner hält dem entgegen, der Wildtierkorridor
+sei in einem jahrelangen Prozess wiederholt von Wildtierfachexperten geprüft
+und in Fachberichten festgestellt worden. Zwischen der Strasse und dem
+geplanten Vernetzungsobjekt auf der Parz.-Nr. 03, Grundbuch […], lägen
+über 80 Meter, womit keine überraschenden Querungen der Strasse zu
+erwarten seien. Die Vernetzungselemente in Form von Vernetzungsachsen dienten
+sodann auch dem Schutz von Klein- und Kriechtieren, weshalb daran insgesamt
+ein erhebliches öffentliches Interesse bestehe und die dadurch entstehenden
+Einschränkungen dem Beschwerdeführer 1 zuzumuten seien.
+9.2
+Wildtierkorridore
+haben die Funktion, verschiedene Biotope miteinander zu verbinden. Ohne
+solche Verbindungen können gegebenenfalls Schutzziele von Biotopen nationaler
+Bedeutung nicht nachhaltig sichergestellt werden. Wildtierkorridore sind
+deshalb - zumindest, wenn ihnen wie im vorliegenden Fall überregionale
+Bedeutung zukommt - den Biotopen gleichzustellen (Urteil des
+Verwaltungsgerichts des Kantons Schwyz III 2022 71 vom
+25. November 2022 E. 4.3, mit Hinweisen), wobei Lebensräume von
+Pflanzen und Tieren als schützenswert gelten (Art. 20 i.V.m.
+Art. 14 Abs. 3 lit. b NHV).
+In
+analoger Anwendung von Art. 18b NHG sorgen die Kantone sodann für Schutz
+und Unterhalt der überregional bedeutsamen Biotope. Dabei kommt ihnen ein
+gewisser Beurteilungsspielraum im Rahmen der Interessenabwägung zu
+(vgl. Wagner Pfeifer, Rz. 1359, mit Hinweisen).
+9.3
+Vorliegend führt ein überregionaler
+Wildtierkorridor über das streitbetroffene Gebiet
+(Objekt-Nr. GL-07/SG-02/SZ-07).
+Der
+Beschwerdegegner hat in seinem ursprünglichen Beschluss vom 1. Mai 2018
+keine konkreten Abklärungen für die Einführung sowie Verteilung der neuen
+Vernetzungselemente genannt. In den Unterlagen finden sich nunmehr aber
+Stellungnahmen hierzu, namentlich die Einschätzung der Abteilung Wald vom
+6. August 2012 und der Abteilung Jagd und Fischerei vom 11. Juli
+2012, welche die Vernetzungselemente grundsätzlich begrüssen und die hierfür
+ausgeschiedenen Flächen für zweckmässig erachten. Der Entwurf aus dem
+Jahr 2012 erscheint damit grundsätzlich fachlich abgestützt. Seit diesem
+Zeitpunkt wurde der Schutzzonenplan bezüglich der Vernetzungselemente sodann
+angepasst, was der Beschwerdegegner erneut abklären liess. So wurde der
+aktuelle Plan den Büro Partner/-innen in Umweltfragen (PiU) vorgelegt, welche
+am 10. Februar 2019 Stellung nahmen und dabei die geplanten
+Vernetzungselemente als zielführend taxierten. Einige Elemente, so auch auf
+den Parzellen des Beschwerdeführers 1, könnten zwar zur erhöhten
+Akzeptanz leicht verschoben werden. Sie wurden insgesamt aber als notwendig
+erachtet. Damit hat der Beschwerdegegner sich bei dieser Festlegung
+rechtsgenüglich auf fachliche Abklärungen abgestützt, wohingegen die
+diesbezüglichen Vorbringen des Beschwerdeführers 1 als unbelegte
+Parteibehauptungen zu werten sind, welchen kein oder kaum Beweiswert zukommt.
+9.4
+Da der Beschwerdeführer 1 sodann eine Verletzung von
+Art. 36 BV geltend macht, ist nachfolgend somit einzig noch zu prüfen,
+ob die Vernetzungselemente die Eigentumsrechte des Beschwerdeführers
+tangieren bzw. ob deren Erlass über eine gesetzliche Grundlage verfügt,
+ein öffentliches Interesse daran besteht oder durch den Schutz von
+Grundrechten Dritter gerechtfertigt sowie insgesamt verhältnismässig ist.
+Dabei liegt die gesetzliche Grundlage in Art. 18 f. NHG i.V.m.
+Art. 11 Abs. 1 KNHG. Die Vernetzungselemente nehmen sodann im
+Vergleich zu den weiteren geplanten Zonen wenig Raum ein und beschränken das
+Eigentum des Beschwerdeführers 1 zumindest weniger stark. Das öffentliche
+Interesse des Wildtierschutzes bei einem überregional bedeutsamen
+Wildtierkorridor überwiegt dabei das Interesse des Beschwerdeführers 1,
+seine Parzellen vollständig uneingeschränkt zu nutzen. Mit Blick auf die
+Ausführungen des Fachbüros sind die Vernetzungselemente sodann als geeignet
+und notwendig anzusehen, wobei keine milderen Massnahmen ersichtlich sind.
+Damit erweisen sie sich auch als verhältnismässig, womit die Voraussetzungen
+von Art. 36 BV insgesamt erfüllt sind. Da die geplanten
+Vernetzungselemente jedoch Bestandteil eines Gesamtgefüges im Sinne des
+angefochtenen Schutzbeschlusses sind, können sie nicht im Rahmen einer
+Teilinkraftsetzung Geltung erlangen.
+10.
+Zusammenfassend hat der
+Beschwerdegegner den angefochtenen Schutzbeschluss sowohl auf ungenügende
+Grundlagen gestützt als auch mangelhaft begründet, weshalb er im Sinne der
+Erwägungen weitere Abklärungen vorzunehmen hat (vgl. vorstehende
+E. II/5). Bei den notwendigen Pufferzonen hat er indessen keine weitere
+Interessenabwägung vorzunehmen und die vom Beschwerdeführer 1
+vorgebrachten Argumente des Gewässerschutzes verfangen sodann nicht. Die
+geplanten Vernetzungselemente des Wildtierkorridors sind schliesslich
+fachlich abgestützt und die Voraussetzungen von Art. 36 BV sind
+diesbezüglich erfüllt.
+Dies führt zur teilweisen
+Gutheissung der Beschwerden im Verfahren VG.2024.00071 und VG.2024.00076,
+soweit darauf einzutreten ist. Die Einspracheentscheide des Beschwerdegegners
+vom 18. Juni 2024 sowie dessen Beschluss vom 1. Mai 2018 sind
+aufzuheben und die Sache ist im Sinne der Erwägungen an den Beschwerdegegner
+zurückzuweisen.
+III.
+1.
+Nach Art. 134
+Abs. 1 lit. c VRG hat die Partei, welche im Beschwerde-, Klage-
+oder Revisionsverfahren unterliegt, die amtlichen Kosten zu tragen. Eine
+Rückweisung zum erneuten Entscheid mit offenem Ausgang gilt für die
+Verteilung der Kosten und Entschädigungen dabei als Obsiegen (BGer-Urteil
+1C_621/2014 vom 31. März 2015 E. 3.3). Ausgangsgemäss sind die
+Gerichtskosten somit auf die Staatskasse zu nehmen (Art. 135 Abs. 1
+VRG). Der von den Beschwerdeführern bereits geleistete Kostenvorschuss in der
+Höhe von Fr. 2'000.- bzw. Fr. 4'000.- ist ihnen zurückzuerstatten.
+2.
+2.1
+Ausgangsgemäss steht dem Beschwerdeführer 1 zu
+Lasten des Beschwerdegegners sodann eine Parteientschädigung zu
+(Art. 138 Abs. 3 lit. a VRG). Er wurde dabei durch
+Rechtsanwältin MLaw Veronika Britt vertreten, welche Parteien in mehreren
+verwaltungsgerichtlichen Verfahren mit derselben Thematik und mit ähnlichen
+Rügen vertritt (als Beschwerdeführende in VG.2024.00065-71 sowie als
+Beigeladene in VG.2024.00076). Entsprechend haben sich die Aufwände der
+Rechtsvertretung zwischen den Verfahren insgesamt stark überschnitten. So
+musste das Studium der Akten nur einmal vorgenommen werden. Die einzelnen
+Rechtsschriften überschneiden sich sodann ebenso. Entsprechend wurden
+teilweise auch Stellungnahmen für alle Parteien gemeinsam eingereicht. Dies
+gilt es bei der Festlegung der Parteientschädigung zu berücksichtigen,
+weshalb diese für sämtliche Parteien auf pauschal Fr. 5'000.-
+(inkl. Mehrwertsteuer) festzusetzen und entsprechend bei den übrigen
+vorgenannten Verfahren (VG.2024.00065-71 und VG.2024.00076), bei welchen sie
+als Rechtsvertreterin auftritt, zu berücksichtigen ist.
+2.2
+Ausgangsgemäss steht schliesslich auch den
+Beschwerdeführern 2 eine Parteientschädigung zu, wobei sie ebenfalls in
+mehreren verwaltungsgerichtlichen Verfahren mit derselben Thematik beteiligt
+sind. Da sie sich hauptsächlich im Verfahren VG.2024.00076 eingebracht haben,
+rechtfertigt es sich, ihnen einzig in diesem Verfahren eine
+Parteientschädigung für ihren gesamten Aufwand zuzusprechen, welche ebenfalls
+auf pauschal Fr. 5'000.- (inkl. Mehrwertsteuer) festzusetzen und dem
+Beschwerdegegner aufzuerlegen ist (Art. 138 Abs. 3 lit. a
+VRG).
+3.
+Gegen diesen Entscheid
+steht die Beschwerde in öffentlich-rechtlichen Angelegenheiten ans
+Bundesgericht nur nach Massgabe von Art. 93 Abs. 1 des
+Bundesgerichtsgesetzes vom 17. Juni 2005 (BGG) offen.
+Demgemäss erkennt die Kammer
+:
+1.
+Die
+Verfahren VG.2024.00071 und VG.2024.00076 werden vereinigt.
+2.
+Die
+Beschwerden werden teilweise gutgeheissen, soweit darauf eingetreten wird.
+Die Einspracheentscheide des Beschwerdegegners vom 18. Juni 2024 sowie
+dessen Beschluss vom 1. Mai 2018 werden aufgehoben und die Sache wird
+im Sinne der Erwägungen an diesen zurückgewiesen.
+3.
+Die
+Gerichtskosten werden auf die Staatskasse genommen. Der vom
+Beschwerdeführer 1 bereits geleistete Kostenvorschuss in der Höhe von
+Fr. 2'000.- und der von den Beschwerdeführern 2 bereits geleistete
+Kostenvorschuss in der Höhe von Fr 4'000.- wird ihnen zurückerstattet.
+4.
+Der
+Beschwerdegegner wird verpflichtet, dem Beschwerdeführer 1 innert
+30 Tagen nach Rechtskraft dieses Entscheids eine Parteientschädigung
+von Fr. 5'000.- (inkl. Mehrwertsteuer) zu bezahlen.
+5.
+Der
+Beschwerdegegner wird verpflichtet, den Beschwerdeführern 2 innert
+30 Tagen nach Rechtskraft dieses Entscheids eine Parteientschädigung
+von Fr. 5'000.- (inkl. Mehrwertsteuer) zu bezahlen.
+6.
+Schriftliche
+Eröffnung und Mitteilung an:
+[…]
