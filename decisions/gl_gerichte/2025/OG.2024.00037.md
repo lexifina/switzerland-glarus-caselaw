@@ -1,0 +1,879 @@
+---
+decision_id: "gl_gerichte_OG.2024.00037"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2024.00037"
+docket_2: "OGS.2025.190"
+decided: "2025-08-15"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=2006&W10_KEY=232154&nTrefferzeile=4&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/101/art-191c.md", "switzerland/bund/acts/311.0/art-062.md", "switzerland/bund/acts/311.0/art-062d.md", "switzerland/bund/acts/311.0/art-064.md", "switzerland/bund/acts/311.0/art-064b.md", "switzerland/bund/acts/311.0/art-086.md", "switzerland/bund/acts/311.0/art-112.md", "switzerland/bund/acts/311.0/art-139.md", "switzerland/bund/acts/311.0/art-380.md", "switzerland/bund/acts/312.0/art-010.md", "switzerland/bund/acts/312.0/art-080.md", "switzerland/bund/acts/312.0/art-084.md", "switzerland/bund/acts/312.0/art-104.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-139.md", "switzerland/bund/acts/312.0/art-182.md", "switzerland/bund/acts/312.0/art-364.md", "switzerland/bund/acts/312.0/art-365.md", "switzerland/bund/acts/312.0/art-398.md", "switzerland/bund/acts/312.0/art-408.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# GL Gerichte OG.2024.00037
+
+## Regeste
+
+Nachträglicher richterlicher Entscheid
+
+## Text
+
+Glarus Obergericht 15.08.2025 OG.2024.00037 (OGS.2025.190)
+Glaris Obergericht 15.08.2025 OG.2024.00037 (OGS.2025.190)
+Glarona Obergericht 15.08.2025 OG.2024.00037 (OGS.2025.190)
+
+Nachträglicher richterlicher Entscheid
+
+Kanton Glarus
+Obergericht
+Es wirken mit:
+Obergerichtspräsidentin Dr. iur. Petra Hauser,
+Oberrichter MLaw Mario Marti
+,
+Oberrichterin Ruth Hefti
+, Oberrichter
+Martin Ilg
+und Oberrichterin Petra Zentner
+sowie
+Gerichtsschreiber
+lic. iur. Sebastian Micheroli.
+Urteil
+vom 15. August 2025
+Verfahren
+OG.2024.00037
+A.______
+Berufungskläger
+verteidigt durch
+lic.
+iur.
+Johannes
+Helbling,
+Rechtsanwalt
+gegen
+Staats-
+und Jugendanwaltschaft des Kantons Glarus
+Berufungsbeklagte
+vertreten durch
+MLaw
+Andrea
+Van
+Houtven,
+Staatsanwältin
+betreffend
+Nachträglicher
+richterlicher Entscheid
+Schlussanträge de
+s
+Berufungsklägers
+(gemäss Eingabe vom 25. Juli 2024, act. 121, und
+anlässlich der Berufungsverhandlung vom 25. April 2025 gestellt,
+act. 140 S. 3 und 14a):
+1.
+A.______
+sei die bedingte Entlassung aus dem Strafvollzug zu gewähren.
+2.
+Die Kosten
+des Berufungsverfahrens inklusive derjenigen der amtlichen Verteidigung
+seien auf die Staatskasse zu nehmen.
+Schlussanträge de
+r
+Berufungsbeklagten
+(anlässlich der Berufungsverhandlung vom 25. April 2025 gestellt, act.
+140 S. 3 und 21):
+Es sei die Berufung des
+Berufungsklägers A.______ vom 25. Juli 2024 vollumfänglich abzuweisen und das
+Urteil des Kantonsgerichts vom 26. Juni 2024 zu bestätigen. Dies unter
+Kostenfolge zu Lasten des Berufungsklägers.
+____________________
+Das Gericht zieht in Betracht:
+I.
+1.
+1.1
+A.______ beging, als
+Kriminaltourist aus Litauen, im Zeitraum von Juni 2005 bis Februar 2007 in
+der Schweiz einen Diebstahl und vier Raubüberfälle auf Juwelier- resp.
+Uhrengeschäfte. Beim Raubüberfall am 5. Juli 2005 verletzte er den
+Juwelier C.______ lebensgefährlich. Anlässlich zwei weiterer Raubüberfälle
+ermordete A.______ die Juweliere – B.______ am 8. Juli 2005 in Glarus
+und D.______ am 22. Februar 2007 in Zürich – auf brutalste Weise. Er schlug,
+als kräftiger ehemaliger Kampfsportler, mit blossen Händen dermassen auf die
+Köpfe dieser beiden Personen ein, dass anfänglich jeweils die Vermutung
+bestand, ihre tödlichen Kopfverletzungen seien durch Schläge mit einem
+massiven Gegenstand verursacht worden.
+In der Folge verurteilte das
+Obergericht des Kantons Glarus A.______ wegen mehrfachen Mordes (Art. 112
+StGB), qualifizierten Raubes (Art. 140 Ziff. 1 Abs. 1 und Ziff. 4 StGB),
+mehrfachen Raubes (Art. 140 Ziff. 1 Abs. 1 StGB) und Diebstahl (Art. 139
+Ziff. 1 StGB) zu einer lebenslänglichen Freiheitsstrafe. Zudem wurde die
+Verwahrung (Art. 64 Abs. 1 Bst. a StGB) angeordnet (vgl. zum Ganzen das
+Urteil des Obergerichts vom 27. März 2015 im Verfahren OG.2012.00033/34).
+Die von A.______ gegen dieses
+Urteil erhobene Beschwerde wies das Bundesgericht ab (vgl. BGE 142 IV 56
+resp. Urteil BGer 6B_513/2015 vom 4. Februar 2016).
+1.2
+Während des Strafvollzugs
+machte sich A.______ im Januar 2020 wegen Vergehen gegen das
+Betäubungsmittelgesetz (mehrfache Begehung) strafbar. Er wurde daher am 19.
+November 2021 vom Bezirksgericht Dielsdorf zu einer Freiheitsstrafe von einem
+Monat verurteilt (vgl. act. 138).
+Zudem wurden mehrere
+Disziplinarmassnahmen gegen A.______ verfügt, weil er mehrfach – in den
+Jahren 2019, 2020 und 2022 – unbefugt Mobiltelefone und Ladekabel besass
+(vgl. act. 127/1).
+2.
+Mit Entscheid vom 26. Juni 2024
+im Verfahren SG.2022.00066 lehnte das Kantonsgericht die bedingte Entlassung
+von A.______ aus dem Strafvollzug (zum wiederholten Mal) ab (vgl. act. 114).
+3.
+Dieser Entscheid des
+Kantonsgerichts ist der Berufung zugänglich (vgl. Art. 365 Abs. 3 StPO und
+Art. 398 Abs. 1 StPO).
+Mit Berufung kann gemäss Art. 398
+Abs. 3 StPO geltend gemacht werden, die Vor-instanz habe das Recht verletzt,
+habe den Sachverhalt unvollständig oder unrichtig festgestellt und/oder habe
+unangemessen gehandelt.
+A.______ erklärte die vorliegende
+Berufung rechtzeitig (vgl. act. 118 i.V.m. act. 121).
+Der Vollzugsbehörde kommt,
+mangels anderslautender kantonaler Bestimmung (namentlich im EG StPO), keine
+Parteistellung zu neben der Staatsanwaltschaft (vgl. Art. 104 Abs. 2 StPO e
+contrario; vgl. auch Art. 32 Abs. 3a EG StGB [GS III E/1]).
+Das Obergericht wird, nachdem auf
+die Berufung einzutreten ist, ein neues Urteil fällen (vgl. Art. 408 Abs. 1
+StPO).
+4.
+Am 25. April 2025 fand vor dem
+Obergericht die mündliche Berufungsverhandlung statt (vgl. act. 140). Am 15.
+August 2025 fällte das Obergericht seinen Entscheid (act. 143). Der Entscheid
+wird schriftlich eröffnet, nachdem die Parteien auf eine mündliche
+Urteilsbekanntgabe ausdrücklich verzichteten (vgl. Art. 84 Abs. 3 StPO, act.
+140 S. 38).
+II.
+1.
+1.1
+Der Vollzug einer
+lebenslänglichen Freiheitsstrafe geht einer zusätzlich angeordneten
+Verwahrung voraus (Art. 64 Abs. 2 Satz 1 StGB).
+Die bedingte Entlassung erfolgt
+dann frühestens nach Verbüssung von 15 Jahren (vgl. Art. 64 Abs. 3
+StGB), wobei sie mindestens einmal jährlich zu prüfen ist (vgl. Art. 64b Abs.
+1 Bst. a StGB).
+Der Entscheid über die Gewährung
+der bedingten Entlassung ist nach Art. 64b Abs. 2 StGB gestützt auf
+einen Bericht der Anstaltsleitung, eine unabhängige sachverständige
+Begutachtung, die Anhörung einer Fachkommission und die Anhörung des Täters
+zu treffen.
+Nach Art. 64 Abs. 3 StGB setzt
+die bedingte Entlassung voraus, dass während des Vollzugs der
+lebenslänglichen Freiheitsstrafe zu erwarten ist, dass der Täter sich in
+Freiheit bewährt.
+Dabei muss eine hohe
+Wahrscheinlichkeit der Bewährung in Freiheit bestehen (vgl. Botschaft StGB
+BBl 1999 II 1979, 2098; BGE 142 IV 56 E. 2.4), soweit es um schwere
+Verbrechen i.S.v. Art. 64 Abs. 1 StGB – u.a. Mord und Raub – geht (vgl. BGE
+136 IV 165 E. 2.1.1; BGE 135 IV 49 E. 1.1.2.2). Mit anderen Worten muss das
+Risiko, dass erneut solche Straftaten begangen werden, gering sein.
+1.2
+Die bedingte
+Entlassung aus einer (lebenslänglichen) Freiheitsstrafe ohne gleichzeitig
+angeordnete Verwahrung setzt nach Art. 86 Abs. 1 (und Abs. 5) StGB
+voraus, dass «nicht anzunehmen ist, [der Gefangene] werde weitere Verbrechen
+oder Vergehen begehen».
+Hierbei ist eine nicht ungünstige
+Prognose über das künftige Wohlverhalten (Legalprognose) erforderlich (vgl.
+z.B. Urteil BGer 6B_333/2021 vom 9. Juni 2021 E. 1.2), die sich nach dem
+klaren Wortlaut auf alle Verbrechen und Vergehen bezieht.
+1.3
+Mithin ist die
+bedingte Entlassung auch in Fällen von Art. 64 Abs. 3 StGB nur dann möglich,
+wenn nicht nur eine hohe Wahrscheinlichkeit besteht, dass keine weiteren
+schweren Verbrechen i.S.v. Art. 64 Abs. 1 StGB begangen werden, sondern zudem
+eine nicht ungünstige Legalprognose betreffend andere Verbrechen und Vergehen
+vorliegt.
+Daran ändert nach dem Sinn und
+Zweck von Art. 64 Abs. 3 StGB nichts, dass Art. 86 StGB nach Art. 64
+Abs. 2 Satz 2 StGB nicht (direkt) anwendbar ist.
+1.4
+Die Legalprognose ist
+in einer Gesamtwürdigung zu erstellen, welche nebst dem Vorleben, der
+Persönlichkeit und dem Verhalten des Täters während des Strafvollzugs vor
+allem dessen neuere Einstellung zu seinen Taten, seine allfällige Besserung
+und die nach der Entlassung zu erwartenden Lebensverhältnisse berücksichtigt
+(BGE 133 IV 201 E. 2.3 m.H.).
+Wenn im Strafvollzug keine
+weitere signifikante Verbesserung der Legalprognose zu erwarten ist, kann
+unter Berücksichtigung der Legalprognose und der betroffenen Rechtsgüter dem
+Sicherheitsinteresse der Allgemeinheit Vorrang eingeräumt werden (vgl. Urteil
+BGer 7B_1083/2024 vom 2. Dezember 2024 E. 4.2.2 m.H.).
+Dem Schutzbedürfnis der
+Allgemeinheit ist umso höheres Gewicht beizumessen, je hochwertiger die
+gefährdeten Rechtsgüter sind (vgl.  BGE 133 IV 201 E. 2.3).
+Dementsprechend steht auch ein
+geringes Risiko für schwere Straftaten, insbesondere Tötungsdelikte, der
+bedingten Entlassung entgegen (vgl. Urteil BGer 7B_995/2024 vom
+8. Januar 2025 E. 6.4).
+1.5
+Der Berufungskläger
+hat mehrere teilweise äusserst schwere Verbrechen i.S.v. Art. 64 Abs. 1
+StGB (mehrfacher Mord, qualifizierter Raub und mehrfacher Raub) und zudem ein
+weniger schweres Verbrechen (Diebstahl) begangen (siehe oben E. I Ziff.
+1.1).
+Das Sicherheitsinteresse der
+Allgemeinheit ist daher äusserst hoch zu gewichten. Dabei ist zu
+berücksichtigen, dass der Berufungskläger die verübten Morde anlässlich von
+(etwas) weniger schwerwiegenden Taten (Raubdelikte) beging (vgl. Urteil des
+Obergerichts vom 27. März 2015 im Verfahren OG.2012.00033/34; vgl. auch act.
+60 S. 103 ff.). Es besteht daher auch ein sehr grosses öffentliches Interesse
+an der Verhinderung von irgendwelchen Verbrechen oder Vergehen des
+Berufungsklägers, gerade wegen des Risikos, dass er im Rahmen solcher
+Straftaten erneut schwere Verbrechen i.S.v. Art. 64 Abs. 1 StGB begehen
+wird.
+Folglich setzt die bedingte
+Entlassung vorliegend voraus, dass der Berufungskläger mit sehr hoher
+Wahrscheinlichkeit keine schweren Verbrechen i.S.v. Art. 64 Abs. 1 StGB mehr
+begehen wird und auch das Risiko anderer Verbrechen oder Vergehen sehr gering
+ist.
+2.
+2.1
+Gerichtlich eingeholte
+Gutachten unterliegen zwar grundsätzlich der freien Beweiswürdigung (vgl.
+Art. 10 Abs. 2 StPO), das Gericht darf aber in Fachfragen nicht ohne triftige
+Gründe von ihm abrücken und muss Abweichungen begründen (vgl. BGE 141 IV
+369 E. 6.1).
+Gegenstand solcher Fachfragen ist
+die gutachterliche Sachverhaltsfeststellung (vgl. Art. 182 StPO). So ist der
+Gutachter dafür zuständig, die Wahrscheinlichkeit und die Art weiterer
+Delikte zu erörtern (vgl. z.B. Urteil BGer 6B_513/2015 vom 4. Februar
+2016  E. 3.4; Urteil BGer 6B_652/2021 vom 14. September 2021
+E. 1.7.3).
+Rechtsfragen hat das Gericht
+hingegen eigenständig zu entscheiden; hierbei ist es unabhängig und nur dem
+Recht verpflichtet (vgl. Art. 191c BV). Mithin hat das Gericht einen
+eigenständigen Entscheid darüber zu treffen, ob die gesetzlichen
+Voraussetzungen für eine bedingte Entlassung im Einzelfall – aufgrund der
+gutachterlichen Feststellungen zum Sachverhalt – erfüllt sind (vgl. Urteil
+BGer 6B_652/2021 vom 14. September 2021 E. 1.7.3 und 3.3.1).
+Daher ist eine gutachterliche
+Empfehlung zur Gewährung oder Verweigerung der bedingten Entlassung an sich
+für das Gericht nicht verbindlich.
+Widersprechen sich zwei oder
+mehrere Gutachten, muss das Gericht in freier Würdigung der Gutachten darüber
+befinden, auf welches Gutachten abzustellen ist (Urteil BGer 7B_295/2023 vom
+16. Februar 2024 E. 4.4.3 m.H.). Es ist nicht zu beanstanden, wenn ein
+Gericht bei widersprüchlichen Gutachten auf das spätere Gutachten abstellt,
+sofern der zweite Sachverständige in Kenntnis des ersten Gutachtens und nach
+einlässlicher Auseinandersetzung mit diesem zu seiner Einschätzung gelangte
+(Urteil BGer 7B_295/2023 vom 16. Februar 2024 E. 4.4.4 m.H.).
+2.2
+2.2.1
+In den Akten liegt
+ein Gutachten vom 22. Dezember 2022, das durch Dr. med.  E.______
+erstellt wurde (act. 23).
+Hierbei handelt es sich um eine
+unabhängige sachverständige Begutachtung i.S.v. Art. 64b Abs. 2 Bst. b StGB,
+die gerichtlich angeordnet wurde (vgl. act. 20).
+Nach diesem Gutachten sei «die
+Wahrscheinlichkeit für schwerwiegende Gewalttaten bis hin zu Tötungsdelikten […]
+zum heutigen Zeitpunkt als gering anzusehen»; «kurzfristig bis mittelfristig»
+sei «nicht mit schwerwiegenden Straftaten zu rechnen» (vgl. act. 23 S. 84).
+In Bezug auf Raubdelikte könne
+man von einem «geringen bis moderaten Rückfallrisiko ausgehen» (vgl. act. 23
+S. 81).
+Das Risiko für «allgemeine
+Delinquenz», worunter Dr. E.______ auch Diebstähle und damit Verbrechen
+zählt, wird als «moderat bis hoch» eingeschätzt (vgl. act. 23 S. 81, 84
+und 88).
+Dr. E.______ hält fest, «dass
+Legalprognosen in der Regel für nur etwa zwei Jahre mit einer gewissen
+Verlässlichkeit abgegeben werden können» (vgl. act. 23 S. 81). Trotzdem sei
+«die längerfristige Prognose […] für die nächsten zwei bis vier Jahre auch
+als eher günstig anzusehen»; dies gelte «in Bezug auf schwerwiegende
+Delinquenz und weniger in Bezug auf allgemeine Delinquenz» (vgl. act. 23 S.
+84).
+Im Gutachten von Dr. E.______
+steht zudem Folgendes: «Legalprognosen […] über einen Zeitraum von mehr als
+fünf Jahren […] befinden sich bereits im Bereich der
+Zufallswahrscheinlichkeit und können nicht wissenschaftlich fundiert
+erfolgen» (vgl. act. 23 S. 81 und 84). Dennoch geht Dr. E.______ «davon aus,
+dass sowohl kurzfristig als auch mittelfristig und langfristig keine erhöhte
+Wahrscheinlichkeit für Delikte mit einer schweren Beeinträchtigung der
+physischen und/oder psychischen Integrität von Dritten mehr vorliegt» (vgl.
+act. 23 S. 87).
+Dr. E.______ gelangte zum
+Schluss, dass beim Berufungskläger aus «rein forensisch-psychiatrischer
+Sicht» einer «bedingten Entlassung nach Art. 62 StGB» nichts entgegenstünde
+(vgl. act. 23 S. 88).
+Insoweit empfiehlt Dr. E.______
+die bedingte Entlassung des Berufungsklägers.
+2.2.2
+Vorliegend geht es
+um die bedingte Entlassung aus einer lebenslänglichen Freiheitsstrafe mit
+zusätzlich angeordneter Verwahrung, die in Art. 64 Abs. 3 StGB geregelt wird
+(siehe oben E. I Ziff. 1.1 und E. II Ziff. 1).
+Demgegenüber bezieht sich die
+Empfehlung von Dr. E.______ auf Art. 62 StGB und damit auf die bedingte
+Entlassung aus einer stationären therapeutischen Massnahme. Grund dafür ist,
+dass der Kantonsgerichtspräsident den Gutachter fälschlicherweise danach
+fragte, ob eine bedingte Entlassung nach Art. 62 StGB empfohlen werden könne
+(vgl. act. 20 S. 3).
+Nach Art. 62 Abs. 1 StGB wird der
+Täter aus dem stationären Vollzug der therapeutischen Massnahme bedingt
+entlassen, «sobald sein Zustand es rechtfertigt, dass ihm Gelegenheit gegeben
+wird, sich in der Freiheit zu bewähren». Im Vergleich dazu bestehen bei der
+bedingten Entlassung aus einer lebenslänglichen Freiheitsstrafe mit
+zusätzlich angeordneter Verwahrung nach Art. 64 Abs. 3 StGB strengere
+Anforderungen an die Legalprognose (siehe oben E. II Ziff. 1; vgl. auch
+Botschaft StGB BBl 1999 II 1979, 2098).
+Dr. E.______ äussert sich bei
+seiner Empfehlung somit gar nicht dazu, ob im Sinne der tatsächlich
+einschlägigen Bestimmung von Art. 64 Abs. 3 StGB zu erwarten ist, dass der
+Berufungskläger sich in Freiheit bewährt.
+Dieser Empfehlung, die für das
+Gericht an sich nicht verbindlich ist (siehe oben E. II Ziff. 2.1), kann
+daher von vornherein nicht gefolgt werden.
+Anders als Dr. E.______
+anzunehmen scheint (vgl. act. 23 S. 83; act. 74), spielt vorliegend für die
+Frage nach der Gewährung der bedingten Entlassung keine Rolle, ob weitere
+therapeutische Fortschritte und – im Hinblick auf die voraussichtliche
+Ausschaffung des Berufungsklägers bei einer allfälligen bedingten Entlassung
+–Vollzugslockerungen möglich sind. Es geht vielmehr darum, ob der
+Berufungskläger weiterhin so gefährlich ist, dass er zum Schutz der
+Allgemeinheit (in der Schweiz, aber auch im Ausland) nicht aus dem
+Strafvollzug entlassen werden kann (siehe oben E. II Ziff. 1).
+2.2.3
+Dr. E.______ geht
+mit Bezug auf Raubdelikte weder von einem «sehr geringen» noch von einem
+(nur) «geringen», sondern von einem höheren, nämlich von einem «geringen bis
+moderaten» Rückfallrisiko aus. Ferner schätzt er die Wahrscheinlichkeit für
+schwerwiegende Gewalttaten samt Tötungsdelikten nicht etwa als «sehr gering»,
+sondern (nur) als «gering» ein. Die «längerfristige Prognose» betreffend
+«schwerwiegende Delinquenz» sieht Dr. E.______ (lediglich) als «eher günstig»
+an, was einem Risiko entspricht, das höher als «sehr gering» resp. als (nur)
+«gering» ist (siehe zum Ganzen oben E. II Ziff. 2.2.1).
+Dementsprechend mangelt es nach
+dem Gutachten von Dr. E.______ an der nach Art. 64 Abs. 3 StGB
+(vorliegend) vorausgesetzten (sehr) hohen Wahrscheinlichkeit, dass der
+Berufungskläger keine schweren Verbrechen i.S.v. Art. 64 Abs. 1 StGB mehr
+begehen wird (siehe oben E. II Ziff. 1.1 und 1.5).
+Hinzu kommt, dass sich aus dem
+Gutachten selbst Zweifel an der Einschätzung von Dr. E.______ ergeben, wonach
+das Risiko für weitere schwere Verbrechen des Berufungsklägers nicht höher
+als «gering (bis moderat)» sein soll.
+In diesem Zusammenhang ist die
+befremdliche Feststellung von Dr. E.______ zu erwähnen, wonach es einen
+Hinweis auf eine nur «geringe grundsätzlich vorhandene Dissozialität»
+darstellen soll, dass der Berufungskläger vor einer seiner (äusserst
+schweren) Taten in der Schweiz nicht selber gefahren sei, sondern sich einen
+Fahrer organisiert habe, weil ihm zuvor der Führerausweis entzogen worden sei
+(vgl. act. 23 S. 68).
+Ebenfalls verwunderlich ist die
+Äusserung von Dr. E.______, es sei davon auszugehen, dass der Berufungskläger
+in Litauen oder Russland «auch in nicht so einfache Lebenssituationen kommen
+wird und sich dann erst zeigen wird, wie hoch seine Bereitschaft ist, sich
+auf legalem Weg zu behaupten» (vgl. act. 23 S. 82; vgl. auch die
+diesbezüglichen Ausführungen der Staatsanwaltschaft, act. 140 S. 25).
+Weiter erscheint es
+widersprüchlich, dass Dr. E.______ zunächst ausführt, Legalprognosen über
+einen Zeitraum von mehr als fünf Jahren könnten nicht wissenschaftlich
+fundiert erfolgen, sich dann aber dennoch darauf festlegt, es liege auch
+«langfristig keine erhöhte Wahrscheinlichkeit» für schwerwiegende Gewalttaten
+vor (siehe oben E. II Ziff. 2.2.1).
+Zudem führt Dr. E.______ aus,
+dass der Berufungskläger nach der Bewertung «VRAG» in die «Risikokategorie 5»
+falle (vgl. act. 23 S. 76 f.). Im Gutachten selbst wird dann aber nicht
+erwähnt, dass demnach die Wahrscheinlichkeit eines gewalttätigen Rückfalls
+nach 7 Jahren bei 35 % und nach 10 Jahren bei 48 % liegt (vgl. act. 24). Vor
+dem Hintergrund dieser Prozentangaben erstaunt es, dass Dr. E.______ trotzdem
+gerade auch langfristig nur ein geringes Risiko für schwerwiegende
+Gewalttaten annimmt.
+Ausserdem ist darauf hinzuweisen,
+dass Dr. E.______ nach eigenen Angaben nur an einem Tag mit dem
+Berufungskläger gesprochen hat, wobei das Gespräch fünf Stunden dauerte und
+kein Dolmetscher anwesend war (vgl. act. 23 S. 2 und 65).
+Im Übrigen hält Dr. E.______ in
+seiner Stellungnahme vom 15. November 2023 fest, Dr. F.______ (siehe
+unten E. II Ziff. 2.3) die Fachkommission (siehe unten E. II Ziff. 3)
+und er (Dr. E.______) seien sich «sicherlich» darin einig, dass es
+«prognostisch ungünstig» sei, wenn der Berufungskläger «ohne entsprechende
+Vorbereitung entlassen wird» (vgl. act. 74 S. 4).
+2.2.4
+Nach dem Gutachten
+von Dr. E.______ besteht ein «moderates bis hohes» Risiko, dass der
+Berufungskläger weniger schwere Verbrechen oder Vergehen verüben wird (siehe
+oben E. II Ziff. 2.2.1).
+Ein solches Risiko steht der
+bedingten Entlassung des Berufungsklägers ebenfalls entgegen (siehe oben E.
+II Ziff. 1), wie auch die Staatsanwaltschaft zu Recht vorbringt (vgl. act.
+104 S. 2; act. 140 S. 23 ff.).
+2.2.5
+Zusammengefasst kann
+der Berufungskläger schon deshalb nicht gestützt auf das Gutachten vom 22. Dezember
+2022 bedingt entlassen werden, weil das Risiko weiterer schwerer Verbrechen
+selbst nach den dortigen Angaben zu gross ist.
+Darüber hinaus ist nach diesem
+Gutachten auch das Risiko, dass der Berufungskläger weniger schwere
+Verbrechen oder Vergehen begehen wird, zu hoch, als dass er bedingt entlassen
+werden könnte.
+2.3
+2.3.1
+Das Kantonsgericht
+beauftragte Dr. med. habil. F.______ mit der Erstellung eines zweiten
+Gutachtens (vgl. act. 47 und 54).
+Das betreffende Gutachten vom 3.
+August 2023 (act. 60) stellt eine weitere unabhängige sachverständige
+Begutachtung i.S.v. Art. 64b Abs. 2 Bst. b StGB dar.
+Dr. F.______ gelangte zum
+Schluss, dass «innerhalb eines kurz- bis mittelfristigen Zeitraums» von einer
+«mittelhohen Wahrscheinlichkeit für die Verübung von Delikten, die mit einer
+schweren Beeinträchtigung der physischen und/oder psychischen Integrität von
+Dritten einhergehen», auszugehen sei. Eine bedingte Entlassung des
+Berufungsklägers könne gegenwärtig nicht empfohlen werden (vgl. act. 60 S. 107
+und 115 f.).
+2.3.2
+Im Gutachten von Dr.
+F.______ wird festgehalten, dass er den Berufungskläger im Juli 2023 an vier
+verschiedenen Tagen befragt habe, wobei die Gespräche zwischen zwei und fünf
+Stunden gedauert hätten und ab dem zweiten Gespräch eine Dolmetscherin
+anwesend gewesen sei, weil sich am ersten Gespräch Verständnis- und
+Ausdrucksprobleme des Berufungsklägers gezeigt hätten (vgl. act. 60 S. 1, 30
+und 65 f.; vgl. auch act. 57).
+Dem Gutachten ist zu entnehmen,
+dass Dr. F.______ den Berufungskläger immer wieder mit früheren Aussagen
+konfrontierte und ihn dabei mehrfach auf Widersprüche zu früheren Aussagen
+hinwies, wodurch dieser in ärgerliche Erregung geraten sei (vgl. act. 60 S.
+30 ff. und 65 ff.). Mithin scheint sich Dr. F.______ auf die Gespräche mit
+dem Berufungskläger akribisch vorbereitet zu haben.
+Das Gutachten von Dr. F.______
+ist äusserst detailliert und gut nachvollziehbar. Dr. F.______ nahm eine
+ausführliche Untersuchung vor. Er erstellte eine eigenständige, konkret den
+Berufungskläger betreffende Prognose, wobei er sowohl die früheren Gutachten
+als auch – zu Recht (siehe oben E. II Ziff. 1.4) – das Vorleben, insbesondere
+die schwerwiegenden Straftaten, und das Verhalten des Berufungsklägers
+während des Strafvollzugs, aber auch dessen aktuelle Einstellung zu seinen
+Taten, seine teilweise Besserung und die nach der Entlassung zu erwartenden
+Lebensverhältnisse berücksichtigte (vgl. act. 60 S. 65 ff.).
+Dem Gutachten von Dr. F.______
+sind insbesondere folgende Feststellungen zu entnehmen: Der Berufungskläger
+habe gegenüber Dr. F.______ bestritten, D.______ getötet zu haben (vgl. act.
+60 S. 58 ff. und 94 ff.). Beim Berufungskläger bestehe eine Neigung zu
+taktisch motivierten, vermeintlich sozial erwünschten Aussagen, zum
+«pathologischen Lügen», zu manipulativem Verhalten und zum Aufstau von
+Spannungen, auch aus banalen Anlässen, mit einem ventilartigen Abreagieren
+durch schwere Gewalthandlungen. Es liege eine deutlich ausgeprägte
+Persönlichkeitsakzentuierung mit dissozialen und paranoiden Zügen, eine
+erhöhte Dominanzstrebigkeit und eine erhöhte psychische Irritierbarkeit vor.
+Weitere Risikofaktoren seien die geringe Normenverhaftung, fehlendes
+Schuldbewusstsein und der Empathiemangel des Berufungsklägers sowie seine
+Neigung zur Bagatellisierung des eigenen Fehlverhaltens (vgl. act. 60
+S. 68, 75 ff., 105 f., 108 und 113 f.). Der Berufungskläger werde
+betreffend seine Taten in einem deutlichen Masse von psychologischen
+Verdrängungsmechanismen beherrscht, die ihn daran hindern würden, sich vor sich
+selbst und anderen offen mit den Risikofaktoren, die zu den Tathandlungen
+geführt haben, auseinanderzusetzen. Dies stehe der therapeutischen Arbeit an
+den Risikofaktoren im Wege. Es sei dringend notwendig, sich im Rahmen der
+Therapie nochmals mit den genaueren Hintergründen und Bedingungsfaktoren der
+Anlasstaten auseinanderzusetzen und dem Berufungskläger insbesondere auch das
+Wirksamwerden dissozialer Verdrängungsmechanismen zu verdeutlichen. Es sei
+zunächst eine erneute Intensivierung der Kriminaltherapie zu empfehlen, wobei
+vom Berufungskläger eine deutlich bessere Transparenz und Offenheit sowie die
+Aufgabe seines manipulativen Verhaltens zu fordern sei. Im weiteren
+Therapieverlauf müsse eine erneute Tataufarbeitung unter definitiver,
+wahrheitsgemässer Festlegung auf die einzelnen Tathergänge und dann eine
+Erarbeitung der darin konkret realisierten Risikofaktoren erfolgen. Ausserdem
+solle eine erneute und intensivere, durch den Einzeltherapeuten adäquat zu
+begleitende Einbindung des Berufungsklägers in gruppentherapeutische
+Massnahmen, Sportgruppen und auch wieder in eine strafvollzugsanstaltsinterne
+Arbeitsmassnahme mit stärkeren Kontakten zu anderen Menschen (Arbeitskollegen
+und Vorgesetzen) erfolgen (vgl. act. 60 S. 96 f., 105 ff., 115 ff.). Der Berufungskläger
+habe sich mehrmals bewusst dazu entschieden, Straftaten zu begehen, um sein
+Leben zu finanzieren (vgl. act. 60 S. 48 ff., 79, 84 ff., 101 ff. und
+106). Während seiner Lebensphase in Freiheit habe der Berufungskläger zu
+keiner Zeit in gefestigten Umständen mit langfristigen, verlässlichen,
+haltgebenden partnerschaftlichen, beruflichen oder sonstigen sozialen
+Bindungen gelebt. Er habe daher die Fähigkeiten, Kompetenzen und Resilienzen,
+die für die Führung eines gesellschaftlich integrierten Lebens notwendig
+seien, nicht erlernen können. Der Mangel dieser Erfahrungen könne in keiner
+Weise ersetzt werden durch die vom Berufungskläger in der Haftanstalt
+wahrgenommenen Resozialisierungsangebote, da er in dieser hochgradig
+artifiziellen und kustodialen Umgebung zu jedem Zeitpunkt intensive
+Unterstützung und Hilfe habe erfahren können und diese auch benötigt habe.
+Die vom Berufungskläger selbst vertretene Auffassung, im Falle einer
+Entlassung in die Freiheit jederzeit ohne Hilfe in der Lage zu sein, eine selbständige,
+sozial integrierte und insbesondere seine hohen Ansprüche zufriedenstellende
+Existenz aufzubauen, sei daher unrealistisch. Es sei unverzichtbar, die
+Legalbewährung des Berufungsklägers unter freiheitlichen Lebensumständen im
+Rahmen einer sorgfältig geplanten und strukturierten Resozialisierungsphase
+mit einer Überprüfung des jeweiligen Hilfe- und Kontrollbedarfs in gestuften
+Freiheitsgraden und in einen geeigneten und hinreichend delinquenzprotektiven
+externen Empfangsraum hinein zu erproben (vgl. act. 60 S. 79, 105 ff.
+und 116 f.).
+Ausserdem enthält das Gutachten
+von Dr. F.______ eine überzeugende Kritik am Gutachten von Dr. E.______ (vgl.
+act. 60 S. 109 ff.), welche Dr. E.______ in seiner Stellungnahme vom 15.
+November 2023 (act. 74) nicht zu entkräften vermag.
+3.
+3.1
+Der
+Kantonsgerichtspräsident ersuchte die Fachkommission des Ostschweizer
+Strafvollzugskonkordates (zur Überprüfung der Gemeingefährlichkeit von
+Straftätern und Straftäterinnen), sich zur Frage der bedingten Entlassung des
+Berufungsklägers oder einer Versetzung in den offenen Strafvollzug zu äussern
+(vgl. act. 30 und 36).
+Die hierzu erfolgte Stellungnahme
+der Fachkommission vom 27. Februar 2023 (act. 44) ist das Ergebnis der
+Anhörung einer Kommission (nach Art. 62d Abs. 2 StGB) i.S.v. Art. 64b Abs. 2
+Bst. c StGB.
+Dabei lag der Fachkommission das
+Gutachten von Dr. E.______ vor, nicht aber dasjenige von Dr. F.______,
+welches erst später erstellt wurde.
+Die Fachkommission schloss sich
+in ihrer Stellungnahme vom 27. Februar 2023 der «positiven Ansicht des
+aktuellen Gutachters» [gemeint ist Dr. E.______] an. Die Fachkommission
+könne «unter dem Gesichtspunkt der Gemeingefährlichkeit des Gesuchstellers
+dessen bedingte Entlassung unter Einhaltung der üblichen und notwendigen
+Auflagen befürworten» (vgl. act. 44 S. 1 und 10 f.).
+3.2
+3.2.1
+Vorweg ist darauf
+hinzuweisen, dass sich die Zuständigkeit des Gerichts nach dem klaren
+Wortlaut sowie nach dem Sinn und Zweck von Art. 64 Abs. 3 StGB darauf
+beschränkt, die bedingte Entlassung zu prüfen und diese entweder zu gewähren
+oder zu verweigern.
+Für den Strafvollzug an sich,
+samt Vollzugsort, ist hingegen die Vollzugsbehörde zuständig.
+Das Kantonsgericht wird dies
+künftig zu beachten haben.
+3.2.2
+In der Stellungnahme
+der Fachkommission vom 27. Februar 2023 wird die Einschätzung von Dr.
+E.______, dass aus «rein forensisch-psychiatrischer Sicht» einer «bedingten
+Entlassung nach Art. 62 StGB» nichts entgegenstünde, wörtlich wiedergegeben
+(vgl. act. 44 S. 7).
+Wie bereits ausgeführt, ist Art.
+62 StGB vorliegend nicht einschlägig (siehe oben E. II Ziff. 2.2.2).
+Die Fachkommission scheint dies
+nicht bemerkt zu haben.
+Sie geht in ihrer Stellungnahme
+vom 27. Februar 2023 auch nicht darauf ein, welche Anforderungen an die
+Legalprognose vorliegend bestehen und ob diese nach den Angaben im Gutachten
+von Dr. E.______ erfüllt sind, was gerade zu verneinen ist (siehe oben E. II
+Ziff. 2.2).
+Zudem wies die Fachkommission, im
+Widerspruch zu ihrer Befürwortung der bedingten Entlassung, ausdrücklich
+darauf hin, dass sie die Legalprognose als belastet ansehe und Bedenken hege,
+zumal der Berufungskläger sich seit 16 Jahren im geschlossenen Vollzug
+befinde und noch keinerlei Lockerungen erhalten habe (vgl. act. 44 S. 10).
+Ausserdem wird in der Stellungnahme
+der Fachkommission erwähnt, dass der Berufungskläger die Schweiz
+voraussichtlich verlassen müsse, wenn er bedingt entlassen würde (vgl. act.
+44 S. 11). Vor diesem Hintergrund erscheint es widersprüchlich, dass die
+Fachkommission die bedingte Entlassung des Berufungsklägers «unter Einhaltung
+der üblichen und notwendigen Auflagen» befürwortet, wie die
+Staatsanwaltschaft zu Recht geltend macht (vgl. act. 104 S. 2 f.; act. 140 S.
+28 f.).
+3.2.3
+Nach dem
+Ausgeführten bietet auch die Stellungnahme der Fachkommission vom 27. Februar
+2023 keine tragfähige Grundlage für die Gewährung der bedingten Entlassung
+des Berufungsklägers.
+4.
+4.1
+Der
+Psychiatrisch-Psychologische Dienst resp. der Therapeut des Berufungsklägers
+geht sowohl im Therapiebericht vom 30. November 2023 (act. 82) als auch in
+demjenigen vom 31. Januar 2025 (act. 126) davon aus, dass das aktuelle
+Risiko für Tötungsdelikte und für Raubdelikte «gering bis moderat» sei (vgl.
+act. 82 S. 19 f.; act. 126 S. 10 f.).
+In der Folge wird die bedinge
+Entlassung des Berufungsklägers befürwortet (vgl. act. 82 S. 22; act. 126 S.
+12).
+4.2
+Das Risiko, dass der
+Berufungskläger wieder einen Mord oder einen Raub begehen wird, ist nach den
+genannten Therapieberichten weder «sehr gering», noch (nur) «gering», sondern
+höher, nämlich «gering bis moderat».
+Somit gehen die Therapieberichte
+von einem Risiko für schwere Verbrechen i.S.v. Art. 64 Abs. 1 StGB aus, das
+immer noch zu hoch ist, als dass die bedingte Entlassung nach Art. 64 Abs. 3
+StGB möglich wäre (siehe oben E. II Ziff. 1).
+Im Übrigen wird die Aussagekraft
+dieser Therapieberichte dadurch relativiert, dass darin die Ansicht des
+behandelnden Therapeuten wiedergegeben wird, es sich also nicht um
+unabhängige Gutachten handelt.
+Umso mehr ist für den gerichtlichen
+Entscheid unerheblich, dass in diesen Therapieberichten die bedingte
+Entlassung des Berufungsklägers befürwortet wird.
+5.
+5.1
+Bei den
+Vollzugsberichten vom 17. Januar 2024 (act. 88) und vom 18. Februar 2025
+(act. 127), in denen die Anstaltsleitung auf Empfehlungen verzichtete,
+handelt es sich um Berichte i.S.v. Art. 64b Abs. 2 Bst. a StGB.
+Diesen Berichten ist insbesondere
+Folgendes zu entnehmen: Der Berufungskläger befinde sich im geschlossenen
+Vollzug ohne jegliche Vollzugslockerung. Er habe in den betreffenden
+Berichtszeiträumen ein gutes Vollzugsverhalten gezeigt. Als Hausarbeiter
+arbeite er sehr strukturiert, wobei ihn Abweichungen vom Tagesablauf «schon
+fast aus der Bahn zu werfen» resp. «teilweise beinah aus dem Konzept zu bringen»
+scheinen. Der Berufungskläger habe bisher während des Strafvollzugs keine
+berufliche Aus- oder Weiterbildung absolviert. Er zahle seit 2016 jährlich
+CHF 600.— an die Opferhilfestelle des Kantons Zürich.
+Zur Entlassungssituation resp.
+-vorbereitung finden sich im Vollzugsbericht vom 18. Februar 2025
+folgende Angaben: Der Berufungskläger werde die Schweiz nach einer
+allfälligen Entlassung aus der Haft verlassen müssen, was ihm bewusst sei und
+womit er einverstanden sei. Er würde in einem ersten Schritt nach Litauen
+zurückkehren, wo er über ein soziales Umfeld (Verwandte und Freunde) verfüge,
+mit welchem er während seiner Haftzeit im Rahmen seiner Möglichkeiten in
+Kontakt gestanden habe. In Litauen habe er eine Eigentumswohnung und ein
+Angebot für eine Stelle als Sicherheitsmitarbeiter. Zudem habe er ein Diplom
+als Barkeeper und ein abgeschlossenes Studium im Bereich Landwirtschaft. Nach
+einer anfänglichen Phase in Litauen bestünde die Option, nach Russland
+auszureisen und sich dort längerfristig niederzulassen. Er habe viele
+Verwandte in Russland, welche ihn bei der Wiedereingliederung unterstützen
+würden. Insbesondere lebe dort seine Patentante, die ihm viel bedeute. Er
+könne sich vorstellen, in Russland ein Haus zu kaufen oder zu bauen und die
+Patentante bei sich aufzunehmen. Als weiteres Szenario habe der
+Berufungskläger eine möglich Zukunft in Thailand oder Vietnam genannt. Seine
+Lebenskosten möchte er mit einer Arbeitstätigkeit sichern. Während des
+Strafvollzugs habe er Geld angespart. Zudem halte er sich die Option offen,
+seine Wohnung zu einem späteren Zeitpunkt zu verkaufen oder zu vermieten
+(vgl. act. 127 S. 3 und 5).
+5.2
+Im Führungsbericht der Justizvollzugsanstalt vom 1. Dezember 2023 wird
+festgehalten, dass sich auf verschiedenen Konten des Berufungsklägers
+(«Freikonto», «Zweckkonto» und «Sparkonto») insgesamt über CHF 16'000.—
+befinden. Der Berufungskläger lebe sehr sparsam. Zum Teil schicke er grosse
+Geldbeträge nach Bosnien zu einer Freundin (vgl. act. 93 S. 2; vgl. auch act.
+32 S. 5).
+6.
+6.1
+Der Berufungskläger
+konnte sich sowohl im Rahmen des kantonsgerichtlichen Verfahrens (vgl. act.
+70) als auch an der Berufungsverhandlung (vgl. act. 140) äussern. Somit ist
+eine Anhörung i.S.v. Art. 64b Abs. 2 Bst. d StGB erfolgt.
+6.2
+6.2.1
+Gegenüber
+Dr. F.______ bestritt der Berufungskläger im Juli 2023, D.______ getötet
+zu haben (siehe oben E. II Ziff. 2.3.2).
+Kurze Zeit später, an der
+Anhörung durch den Kantonsgerichtspräsidenten im Oktober 2023, sagte der
+Berufungskläger, dass er sich mehrfach therapeutisch mit den von ihm
+begangenen Straftaten auseinandergesetzt habe (vgl. act. 70 S. 3).
+Auf diese widersprüchlichen
+Angaben angesprochen, sagte der Berufungskläger an der Berufungsverhandlung
+im April 2025 aus, es sei seine Schuld, dass D.______ tot ist (vgl. act. 140
+S. 8 f.).
+Dieses Aussageverhalten des
+Berufungsklägers lässt sich damit erklären, dass er vor den Gerichten
+taktisch motiviert aussagte, was die entsprechenden Ausführungen von Dr.
+F.______ (siehe oben E. II Ziff. 2.3.2) stützt.
+6.2.2
+Der Berufungskläger
+sagte an der Berufungsverhandlung aus, dass es bei der ihm angebotenen Stelle
+als Sicherheitsmitarbeiter in Litauen um die Bewachung von Räumlichkeiten
+gehe (vgl. act. 140 S. 10).
+Dies ändert nichts daran, dass es
+sich um eine Tätigkeit handelt, bei der mit einem erhöhten Risiko von
+körperlichen Auseinandersetzungen zu rechnen ist.
+Hierdurch erhöht sich wiederum
+das Risiko von erneuten (schweren) Straftaten des Berufungsklägers, weil er
+zu einem ventilartigen Abreagieren durch schwere Gewalthandlungen neigt, wie
+im Gutachten von Dr. F.______ ausgeführt wird (siehe oben E. II Ziff. 2.3.2).
+Der Berufungskläger scheint diese
+Problematik nicht zu erkennen, was für die Weiterführung seiner Therapie
+spricht, wie Dr. F.______ empfiehlt (siehe oben E. II Ziff. 2.3.2).
+6.2.3
+Die
+Staatsanwaltschaft äusserte an der Berufungsverhandlung den Vorschlag, dass
+der Berufungskläger zur Überprüfung der Therapiefortschritte in eine andere
+Justizvollzugsanstalt versetzt werden könnte (vgl. act. 140 S. 35 f.).
+Der Berufungskläger zeigte sich
+dieser Idee gegenüber ablehnend (vgl. act. 140 S. 38). Für die
+ablehnende Haltung gäbe es keinen Grund, wenn er wirklich davon überzeugt
+wäre, dass er mittlerweile – insbesondere entgegen den Angaben von Dr. F.______
+(siehe oben E. II Ziff. 2.3.2) – zu einem straffreien Leben fähig ist.
+Wie die Hinweise in den
+Vollzugsberichten, wonach es ihm schwerfällt, mit Abweichungen vom
+Tagesablauf umzugehen (siehe oben E. II Ziff. 5.1), spricht diese
+Reaktion des Berufungsklägers dafür, dass er noch nicht bereit ist für ein
+Leben in Freiheit.
+6.2.4
+Im Urteil des
+Obergerichts
+vom 27. März 2015 im Verfahren OG.2012.00033/34 wird festgestellt, dass der
+Berufungskläger Forderungen von insgesamt mehr als CHF 430'000.— anerkannt
+hat; zusätzlich wurde er zur Zahlung von mehr als CHF 370'000.— verpflichtet.
+Anlässlich der
+Berufungsverhandlung gab der Berufungskläger an, dass er betreffend diese
+Forderungen von insgesamt mehr als CHF 800'000.— nichts gezahlt habe. Die CHF
+25'000.—, die er während des Strafvollzugs gespart habe, brauche er als
+Startgeld nach der Entlassung (vgl. act. 140 S. 12 f.).
+Es mag zutreffen, dass die
+Privatkläger, wie die Verteidigung ausführte, auf monatliche Zahlungen des
+Berufungsklägers verzichteten, weil sie nicht ständig an dessen Taten
+erinnert werden wollten (vgl. act. 140 S. 19). Zudem zahlte der
+Berufungskläger immerhin jährlich CHF 600.— an die Opferhilfestelle des
+Kantons Zürich (siehe oben E. II Ziff. 5.1).
+Davon abgesehen scheint es für
+den Berufungskläger aber selbstverständlich zu sein, dass er das Geld, das er
+während des Strafvollzugs angespart hat, im eigenen Nutzen verwendet. So hat
+er sich auch nicht darum bemüht, einen Teil der Verfahrenskosten von über CHF
+100'000.— zu zahlen, die ihm das Obergericht im Urteil vom 27. März 2015
+(OG.2012.00033/34) auferlegt hat.
+Dies spricht nicht dafür, dass
+der Berufungskläger sich ernsthaft mit seinen Taten auseinandergesetzt und
+die Verantwortung dafür übernommen hat.
+6.2.5
+An der Berufungsverhandlung
+vom 25. April 2025 sagte der Berufungskläger aus, dass er im Falle der
+bedingten Entlassung zuerst nach Litauen gehen würde. Er würde dann schauen,
+welche Arbeit gefragt sei, vielleicht etwas im IT-Bereich oder etwas anderes.
+Er habe vor einem halben Jahr einen Computerkurs begonnen. Er plane, nicht
+lange als Sicherheitsmitarbeiter zu arbeiten (vgl. act. 140 S. 10).
+Dem Vollzugsbericht vom 18.
+Februar 2025 (act. 127) ist zu entnehmen, dass der Berufungskläger
+verschiedene Pläne für ein künftiges Leben in Freiheit hat (siehe oben E. II
+Ziff. 5.1). Dabei wird weder ein Computerkurs noch eine mögliche Arbeit im
+IT-Bereich erwähnt. Hinzu kommt, dass er bisher während des Strafvollzugs
+keine berufliche Aus- oder Weiterbildung absolviert
+hat
+(siehe
+oben E. II Ziff. 5.1).
+Es ist daher unklar, wie und ob
+der Berufungskläger in Freiheit ein legales Einkommen erwirtschaften könnte,
+ohne dabei das Risiko von erneuten Straftaten (namentlich durch eine
+Tätigkeit als Sicherheitsmitarbeiter) zu erhöhen.
+Der Berufungskläger gab an, dass
+er in Russland ein Haus kaufen oder bauen und eine Familie gründen möchte
+(vgl. act. 23 S. 57; act. 60 S. 64 f.; act. 70 S. 4; act. 127 S. 3 und
+5). Während des Strafvollzugs schickte er einer Freundin – zu der er mittlerweile
+keinen Kontakt mehr habe (vgl. act. 70 S. 4) – in Bosnien grosse Geldbeträge
+(siehe oben E. II Ziff. 5.2).
+Folglich ist davon auszugehen,
+dass der Berufungskläger in Freiheit, bei unklarer Einkommenssituation, einen
+erheblichen Geldbedarf haben würde und daher ein erhöhtes Risiko erneuter
+(schwerer) Straftaten aus finanziellen Gründen bestünde (siehe auch oben
+E. II Ziff. 2.3.2).
+7.
+Zusammengefasst liegen die
+Entscheidgrundlagen nach Art. 64b Abs. 2 StGB vor und ist die bedingte
+Entlassung des Berufungsklägers nach Art. 64 Abs. 3 StGB zu verweigern, weil
+namentlich das Risiko erneuter schwerer Verbrechen i.S.v. Art. 64 Abs. 1
+StGB zu hoch ist. Mithin mangelt es an einer (sehr) hohen Wahrscheinlichkeit
+der Bewährung in Freiheit und ist daher nicht zu erwarten, dass der
+Berufungskläger sich i.S.v. Art. 64 Abs. 3 StGB in Freiheit bewährt (siehe
+oben E. II Ziff. 1 ff.).
+Dies gilt selbst nach den
+Sachverhaltsfeststellungen, auf welche sich Dr. E.______, die Fachkommission
+und die Therapieberichte bei ihrer Befürwortung der bedingten Entlassung des
+Berufungsklägers stützen (siehe oben E. II Ziff. 2.2, 3 und 4).
+Ausserdem ist nach dem Gutachten
+von Dr. E.______ auch das Risiko, dass der Berufungskläger weniger schwere
+Verbrechen oder Vergehen verüben wird, zu gross, als dass die bedingte
+Entlassung gewährt werden könnte (siehe oben E. II Ziff. 2.2).
+Zudem legt Dr. F.______ in seinem
+Gutachten überzeugend dar, dass eine erhebliche, nämlich mittelhohe
+Wahrscheinlichkeit der erneuten Verübung von schweren Verbrechen i.S.v. Art.
+64 Abs. 1 StGB besteht und es nötig ist, die Therapie des Berufungsklägers
+weiterzuführen (siehe oben E. II Ziff. 2.3). Diese Einschätzung wird im
+Übrigen insbesondere auch durch die Aussagen des Berufungsklägers im vorliegenden
+Berufungsverfahren gestützt (siehe oben E. II Ziff. 6).
+Die Tatsachen, welche für den
+Entscheid über die bedingte Entlassung des Berufungsklägers nach Art. 64 Abs.
+3 StGB relevant sind, sind rechtsgenügend erwiesen i.S.v. Art. 139 Abs.
+2 StPO. Unerheblich ist, dass unterschiedliche Empfehlungen vorliegen, zumal
+diese für das Gericht nicht verbindlich sind (siehe oben E. II Ziff. 2.1
+und 4.2).
+Somit wird der Antrag des
+Berufungsklägers auf Einholung eines weiteren psychiatrischen Gutachtens
+(vgl. act. 121 S. 2 f. und act. 140 S. 2 f. und 16) abgewiesen.
+III.
+1
+1.1
+Nach Art. 428 Abs. 1
+Satz 1 StPO tragen die Parteien die Kosten des Rechtsmittelverfahrens nach
+Massgabe ihres Obsiegens oder Unterliegens. Ob und inwieweit eine Partei im
+Sinne dieser Bestimmung obsiegt oder unterliegt, hängt davon ab, in welchem
+Ausmass ihre vor der zweiten Instanz gestellten Anträge gutgeheissen werden
+(vgl. z.B. Urteil BGer 6B_1290/2021 vom 31. März 2022 E. 5.1 m.H.).
+Die Verfahrenskosten setzen sich
+zusammen aus den Gebühren zur Deckung des Aufwands und den Auslagen im
+konkreten Straffall (Art. 422 Abs. 1 StPO).
+Auslagen sind namentlich auch die
+Kosten für die amtliche Verteidigung (vgl. Art. 422 Abs. 2 Bst. a StPO).
+Das Honorar für die amtliche
+Verteidigung beträgt CHF 180.— pro Stunde (vgl. Art. 6 des Tarifs für
+die Entschädigung der öffentlichen Verteidigung und der unentgeltlichen
+Rechtsvertretung; GS III I/5).
+Als Wegzeit wird maximal eine
+halbe Stunde vergütet (vgl. Urteil BGer 1B_385/2021 vom 25. Oktober 2021 E.
+4.8).
+Wird die amtlich verteidigte
+Person zu den Verfahrenskosten verurteilt, so ist sie, sobald es ihre
+wirtschaftlichen Verhältnisse erlauben, verpflichtet, dem Staat die
+Entschädigung der amtlichen Verteidigung zurückzuzahlen (vgl. Art. 135 Abs. 4
+StPO).
+1.2
+Die Gerichtsgebühr für
+das Berufungsverfahren ist auf CHF 5'000.— festzusetzen (vgl. Art. 6 und Art.
+8 Abs. 1 Bst. b Ziff. 2 der Zivil- und Strafprozesskostenverordnung; GS III
+A/5).
+1.3
+Rechtsanwalt Helbling macht
+für das Berufungsverfahren als amtliche Verteidigung eine
+Entschädigungsforderung in Höhe von insgesamt CHF 3’057.60 (inkl.
+Auslagen und MwSt.) geltend (vgl. act. 142).
+Die betreffende Honorarrechnung
+ist nicht zu beanstanden.
+1.4
+Da der Berufungskläger
+unterliegt, ist ihm die Gerichtsgebühr für das Berufungsverfahren
+aufzuerlegen.
+2.
+2.1
+Weil das Obergericht
+als Rechtsmittelinstanz einen neuen Entscheid fällt, ist auch über die von
+der Vorinstanz getroffene Kosten- und Entschädigungsregelung zu entscheiden
+(vgl. Art. 428 Abs. 3 StPO).
+2.2
+Die Gerichtsgebühr für
+das erstinstanzliche Verfahren ist ebenfalls auf CHF 5'000.—
+festzusetzen (vgl. Art. 80 Abs. 1 Satz 1 StPO und Art. 364 Abs. 5 StPO i.V.m.
+Art. 6 und Art. 8 Abs. 1 Bst. b Ziff. 2 der Zivil- und Strafprozesskostenverordnung;
+GS III A/5).
+Hinzu kommen die Kosten für die
+beiden Gutachten in Höhe von insgesamt CHF 25’256.50 (vgl. act. 25 und
+63).
+2.3
+Es ist keine
+Rechtsgrundlage ersichtlich, wonach dem Berufungskläger die Kosten des
+erstinstanzlichen Verfahrens vorliegend auferlegt werden könnten.
+Allenfalls wird er sich aber im
+Rahmen von Art. 380 StGB und Art. 30a EG StGB (GS III E/1) an diesen
+(Vollzugs-)Kosten zu beteiligen haben.
+____________________
+Das Gericht erkennt:
+1.
+A.______ wird die bedingte Entlassung aus dem Strafvollzug nach Art.
+64 Abs. 3 StGB verweigert.
+2.
+Die Gerichtsgebühr für das Berufungsverfahren von CHF 5'000.— wird
+A.______ auferlegt.
+3.
+Die Kosten
+des erstinstanzlichen Verfahrens von insgesamt CHF 30'256.50 werden
+einstweilen auf die Staatskasse genommen.
+4.
+Rechtsanwalt
+lic. iur. Johannes Helbling
+wird für das Berufungsverfahren
+als amtlicher Verteidiger von A.______ aus der Gerichtskasse mit insgesamt
+CHF 3’057.60 (inkl. Auslagen und MwSt.) entschädigt. A.______ wird
+verpflichtet, der Gerichtskasse die Kosten der amtlichen Verteidigung für
+das Berufungsverfahren zurückzuerstatten, sobald es seine wirtschaftlichen
+Verhältnisse erlauben.
+Schriftliche Mitteilung an:
+[...]
