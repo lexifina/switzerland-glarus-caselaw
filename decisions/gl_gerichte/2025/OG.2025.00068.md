@@ -1,0 +1,607 @@
+---
+decision_id: "gl_gerichte_OG.2025.00068"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2025.00068"
+docket_2: "OGZ.2025.137"
+decided: "2025-10-29"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=2033&W10_KEY=232154&nTrefferzeile=9&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-251.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-320.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-294.md", "switzerland/bund/acts/281.1/art-298.md", "switzerland/bund/acts/281.35/art-054.md", "switzerland/bund/acts/311.0/art-292.md"]
+---
+
+# GL Gerichte OG.2025.00068
+
+## Regeste
+
+Nachlassverfahren
+
+## Text
+
+Glarus Obergericht 29.10.2025 OG.2025.00068 (OGZ.2025.137)
+Glaris Obergericht 29.10.2025 OG.2025.00068 (OGZ.2025.137)
+Glarona Obergericht 29.10.2025 OG.2025.00068 (OGZ.2025.137)
+
+Kanton Glarus
+Obergericht
+Es wirken mit:
+Obergerichtsvizepräsidentin MLaw Sarina Dreyer,
+Oberrichterin Monika Trümpi und Oberrichterin Petra Zentner s
+owie
+Gerichtsschreiber lic. iur. Erich Hug.
+Urteil
+vom 29. Oktober 2025
+Verfahren
+OG.2025.00068
+X.______
+[...],
+8750
+Glarus
+Beschwerdeführerin
+vertreten
+durch
+Alfred
+Müller,
+Rechtsanwalt
+,
+Rheinstrasse 10,
+Postfach,
+8501
+Frauenfeld
+und
+1. Y.______
+[...],
+8712
+Stäfa
+Sachwalterin
+vertreten
+durch Yy.______
+2. Z.______
+[...],
+8755
+Ennenda
+Drittpartei
+vertreten
+durch
+MLaw
+Vivien
+Keiser,
+Rechtsanwältin,
+Wicki Partners AG,
+Stockerstrasse 44,
+8002
+Zürich
+betreffend
+Nachlassverfahren
+über die
+Rechtsbegehren des Beschwerdeführers
+(gemäss Eingaben vom 4. August
+2025 [act. 34 S. 2] und 18. August 2025 [act. 62 S. 5]):
+1.
+In
+Aufhebung von Ziff. 4 und 5 der Verfügung des Kantonsgerichtspräsidenten
+vom 23. Juli 2025 bzw. in Aufhebung von Ziff. 1 der Verfügung des Kantonsge­richtspräsidenten
+vom 25. Juli 2025 habe das Nachlassgericht:
+-
+anstelle
+des Kaufvertrags vom 24. Juli 2025 das Angebot A.______ vom 31.7/.18.8 2025
+(Erwerb des «Fridolin» für CHF ....) zu genehmigen,
+-
+die
+X.______ zu ermächtigen, den «Fridolin» gemäss diesem Angebot A.______ zu
+übertragen.
+2.
+Es
+sei
+-
+Ziff.
+1 der Verfügung des Kantonsgerichtspräsidenten vom 23. Juli 2025
+(Übertragung der Geschäftsführungsbefugnis an die Sachwalterin) aufzuhe­ben;
+-
+Ziff.
+2 und 3 der Verfügung des Kantonsgerichtspräsidenten vom 23. Juli 2025
+(Ermächtigung der Sachwalterin zur Aufhebung von Zeichnungsberech­tigungen
+und zur Verleihung neuer Zeichnungsberechtigungen, beides ab 23.7.2025)
+aufzuheben;
+-
+das
+Handelsregisteramt anzuweisen,
+-
+Herrn
+B.______ wieder als einzelzeichnungsberechtigt im Han­delsregister
+einzutragen;
+-
+die
+Zeichnungsberechtigung von Personen, die nach dem 23. Juli 2025 eingetragen
+wurden, zu löschen.
+3.
+Es
+seien Ziff. 6 und 7 der Verfügung des Kantonsgerichtspräsidenten vom
+23. Juli 2025 sowie Ziff. 2 und 3 der der Verfügung des
+Kantonsgerichtspräsiden­ten vom 25. Juli 2025 (Auferlegung Gerichtsgebühr
+von CHF 1‘500.- bzw. von CHF 700.-) aufzuheben.
+4.
+Alles
+unter Kosten- und Entschädigungsfolgen.
+¾¾¾¾¾¾¾¾¾¾¾
+Erwägungen
+I.
+1.
+1.1
+Die X.______
+(nachfolgend X.______ bzw. Beschwerdeführerin oder Nachlassschuldnerin) ist
+u.a. Herausgeberin der Wochenzeitungen «Fridolin» und «Obersee Nachrichten»;
+sie befindet sich seit Mai 2025 in provisorischer Nach­lassstundung. Als
+provisorische Sachwalterin der X.______ fungiert die Y.______, wobei das
+Mandat konkret von deren Mitarbeiter Yy.______ ausgeübt wird (zum Ganzen:
+act. 10 sowie act. 5).
+1.2
+Auf Antrag der Sachwalterin entzog der Kantonsgerichtspräsident in
+seiner Funktion als Nachlassgericht (Art. 251 lit. a ZPO i.V.m. Art. 13 Abs.
+1 lit. a GOG/GL; GOG III A/2) mit Verfügung vom 23. Juli 2025 (act. 23) dem
+bisher einzelzeich­nungsberech­tigten VR-Präsidenten und Geschäftsführer
+B.______ die Geschäftsfüh­rungsbefugnis an der X.______ und übertrug die
+operative Verant­wortung auf die Sachwalterin; zugleich genehmigte er –
+ebenso auf Antrag der Sachwalterin – den Darlehensvertrag und Vorvertrag über
+einen Kaufvertrag zwi­schen der Somedia AG und der X.______ vom 18./22. Juli
+2025 und ermächtigte sodann die X.______, den Betriebsteil «Fridolin» zu den
+im Vorver­trag bezeich­neten Bedingungen an die Somedia AG zu übertragen.
+Mit Verfügung vom
+25. Juli 2025 (act. 29) genehmigte der Kantonsgerichtspräsident wiederum auf
+Antrag der Sachwalterin den Verkauf des Betriebsteils «Fridolin» (im Detail:
+act. 28/1 Ziff. 14) an die damals in Gründung befindliche und inzwischen
+bestehende Z.______, einer Gesellschaft der Somedia-Gruppe.
+1.3
+Gegen diese
+Anordnungen des Nachlassgerichts (Entzug der Zeichnungsbe­rechtigung von
+B.______ und Bewilligung des Verkaufs des «Fridolin» an die Z.______
+[Somedia-Gruppe]) erhob die
+X.______ mit Eingabe vom 4. Au­gust
+2025 Beschwerde (act. 34). Der mit dem Verfassen der Beschwerde betraute
+Rechtsanwalt wurde von B.______ mandatiert (siehe act. 36).
+2.
+Entscheide des
+Nachlassgerichts sind der Beschwerde zugänglich (Art. 251 lit. a i.V.m. Art.
+309 lit. b Ziff. 7 und Art. 319 lit. a ZPO). Die Beschwerdefrist von zehn
+Tagen (Art. 321 Abs. 2 ZPO) ist vorliegend eingehalten. Die X.______ als Nach­lassschuldnerin
+ist zur Beschwerde legitimiert (BSK SchKG-
+Bauer/Luginbühl
+,
+Art. 293a N 3c sowie Art. 298 N 21a; SK SchKG-
+Umbach-Spahn/Kesselbach/ Bossart
+,
+Art. 298 N 15). Streitgegenstand der Beschwerde ist die vom Nachlassge­richt
+zunächst angeordnete Übertragung der Geschäftsführung bei der X.______ vom
+vormaligen einzelzeichnungsberechtigten VR-Präsidenten B.______ auf die
+Sachwalterin sowie der in der Folge vom Nachlassgericht genehmigte Kauf­vertrag
+zwischen der X.______, diese nunmehr handelnd durch die Sachwalterin, und der
+Z.______ [Somedia-Gruppe] über die Veräusserung des
+Betriebs­teils
+«Fridolin». In dieser Konstellation kann
+die
+Legitimation der X.______ zur Beschwerdeführung nicht deswegen entfallen,
+weil die Beschwerdeerhebung durch den zu diesem Zeitpunkt nicht mehr für die
+X.______ zeichnungsberechtigten B.______ veranlasst wurde, andernfalls die
+hier angefochtenen Rechtsak­te nicht mehr in einem Rechtsmittelverfahren
+überprüfbar wären.
+3.
+3.1
+Mit Beschwerde kann geltend gemacht werden, die Vorinstanz habe das
+Recht un­richtig angewendet oder habe den Sachverhalt offensichtlich
+unrichtig fest­gestellt (Art. 320 ZPO). Im Beschwerdeverfahren sind neue
+Anträge, neue Tatsachenbe­hauptungen und neue Beweismittel ausgeschlossen
+(Art. 326 Abs. 1 ZPO).
+3.2
+Insoweit daher die Beschwerdeführerin in ihrer Beschwerde dem
+Obergericht beantragt, es sei der Betriebsteil «Fridolin» entgegen dem
+angefochtenen Entscheid nicht an die Z.______ [Somedia-Gruppe] zu übertragen,
+sondern an die Interessengruppe A.______ gemäss deren Angebot von CHF ....,
+so kann darauf von vornherein nicht eingetreten werden; denn dieser Antrag
+bzw. dieses Angebot lag dem Nachlassgericht zum Zeitpunkt seines
+Zuschlagentscheids am 23. bzw. 25. Juli 2025 noch nicht vor und konnte von
+ihm denn auch nicht geprüft und in Erwägung gezogen werden (das Angebot von
+A.______ datiert erst vom 31. Juli 2025 [act. 35/3]). Falls sich deshalb bei
+der nachfolgenden Behandlung der Beschwerde herausstellt, dass dem angefochtenen
+Entscheid ein rechtlich relevanter Mangel anhaftet, so könnte das Obergericht
+in der Sache nicht selbst neu entscheiden, sondern wäre die Angelegenheit zur
+nochmaligen Behand­lung an die Vorinstanz zurückzuweisen. Für die
+Entscheidung im vorliegenden Beschwerdeverfahren bleibt daher auch ohne
+Bewandtnis, dass die Interessenten A.______ im Verlauf des
+Beschwerdeverfahrens die für die Übernahme des «Fridolin» gebotenen CHF ....
+bei der Gerichtskasse hinter­legt (act. 44) bzw. in der Folge sogar ihr Kaufangebot
+auf den Betriebsteil «Obersee Nachrich­ten» ausgedehnt und weitere CHF ....
+sichergestellt haben (act. 55/25). Demnach erübrigt sich auch, im
+vorliegenden Beschwerdeverfahren das vom Nach­lassgericht genehmigte
+Kaufangebot der Somedia-Gruppe für den «Frido­lin» mit der erst nachträglich
+eingegangenen Offerte der Interessengemeinschaft A.______ inhaltlich zu
+vergleichen.
+4.
+4.1
+Die Somedia AG
+unterbreitete der Beschwerdeführerin am Freitag, 18. Juli 2025, das Angebot,
+den Betriebsteil
+«Fridolin» zum Preis von CHF .... (zu­züglich
+noch näher zu bestimmender Verbindlichkeiten der Beschwerdeführerin im
+Kontext mit dem Medientitel «Fridolin») zu übernehmen; gleichzeitig stellte
+sie der Beschwerdeführerin kurzfristig («innert drei Kalendertagen») ein Massedarlehen
+von CHF .... in Aussicht, wobei dieses Darlehen zusammen mit einem bereits im
+Mai 2025 gewährten ersten Massedarlehen von CHF .... auf den Kaufpreis
+anzurechnen wäre und die danach noch offenen CHF .... unmittelbar nach
+Abschluss des Kaufvertrags bezahlt würden. Die Offerte der Somedia AG war bis
+Montag, 21. Juli 2025, 16 Uhr, befristet, später auf Ersuchen der
+Sachwalterin verlängert bis Dienstagmorgen, 22. Juli 2025 (siehe zum Ganzen
+act. 22 Ziffn. 8, 13 ff., 25, 25.16 und 31; zur Fristverlängerung siehe
+act. 20 Ziff. 9). B.______, operativ tätiger VR-Präsident der
+Beschwerdeführerin, war nicht bereit, auf das Angebot der Somedia AG
+einzusteigen, worauf die Sachwalterin bei der Vor­instanz die hier
+angefochtenen Anordnungen vom 23. bzw. 25. Juli 2025 veran­lasste
+(Übertragung der Geschäftsführungsbefugnis von B.______ auf die Sachwalterin;
+Genehmigung der Transaktion des Betriebsteils «Fridolin» von der
+Beschwerdeführerin zur Somedia-Gruppe zum Preis von CHF .... zuzüglich
+Übernahme von Verbindlichkeiten von insgesamt CHF .... [zu Letzteren siehe
+act. 47/9 Anhang 14.17]).
+4.2
+4.2.1
+Die Vorinstanz erliess die erwähnten Anordnungen vom 23. bzw. 25.
+Juli 2025 (act. 23 und act. 29) gestützt auf entsprechende Anträge der
+Sachwalterin, ohne davor die Beschwerdeführerin bzw. deren VR-Präsidenten und
+Geschäftsführer B.______ anzuhören.
+Die
+Beschwerdeführerin moniert in ihrer Beschwerde, das ganze Prozedere der
+Transaktion des «Fridolin» zur Somedia sei unter nicht nachvollziehbarem
+Zeitdruck abgewickelt worden. Sinngemäss führt sie im Wesentlichen aus: Nur
+infolge dieses vorgeblichen Zeitdrucks, den die Somedia im Zusammenspiel mit
+der mit ihr von allem Anfang an verbandelten Sachwalterin aufgebaut habe, sei
+es dazu gekom­men, dass die Somedia den «Fridolin» für lediglich noch CHF
+.... habe erwerben können; denn immerhin habe die Somedia wenige Wochen davor
+(Juni 2025) für den «Fridolin» noch CHF .... geboten, was ebenfalls
+bereits zu wenig gewesen sei, nachdem die Somedia im Frühjahr 2025 dem «Fridolin»
+noch einen Wert von CHF .... beigemessen habe. Es habe für Somedia denn auch
+schlicht kein sachlicher Grund bestanden, ihre Übernahmeofferte vom 18. Juli
+2025 auf nur drei bzw. vier Tage zu befristen, sei für Somedia doch
+unerheblich gewesen, ob ihr Tiefst-Angebot nun in vier oder erst in zwanzig
+Tagen angenommen würde. Der wahre Grund für die mit der Sachwalterin
+abgesprochene kurze Befristung habe einzig darin gelegen, die Transaktion
+durchzudrücken, ehe ein besseres Drittange­bot vorliegen würde. Die
+Sachwalterin habe in der Folge dem Nachlassgericht sug­geriert, die
+Dringlichkeit des Verkaufs des «Fridolin» sei wegen mangelnder Liquidi­tät
+und drohenden Konkurses geboten, habe dem Nachlassgericht jedoch nicht
+offengelegt, dass die Somedia noch vor Monatsfrist bereit gewesen wäre, für
+den «Fridolin» CHF .... zu bezahlen, und habe zugleich den ihr bekannten
+Drittin­teressenten am «Fridolin» [«Gruppe A.______»] die Möglichkeit zur
+Einreichung eines besseren Angebots vereitelt (zum Ganzen act. 34 Rz.
+8 ff., Rz. 30 f., Rz. 39 ff., Rz. 51 ff., Rz.
+63 ff., Rz. 68).
+4.2.2
+Tatsächlich sticht anhand der Akten ins Auge, wie frappant der
+«Fridolin» aus Sicht der Somedia innert weniger Monate an Wert verloren haben
+soll: Noch im April 2025 offerierte die Somedia für die Einräumung eines
+Kaufrechts (Call-Option) am «Fridolin» eine Zahlung von CHF .... (falls
+die X.______ bis April 2026 ihre Schulden gegenüber der Somedia bereinigen
+würde) bzw. von CHF .... (falls die Schulden nicht abgetragen würden; siehe
+dazu act. 35/9 S. 8 Ziff. 8.2 und 8.3 sowie S. 9 Ziffn. 13-16). Ende Juni
+2025 war die Somedia bereit, für den «Fridolin» immerhin noch CHF .... zu
+bezahlen (act. 35/13 S. 2 Ziff. 1.08). Insofern nimmt sich das dem
+Nachlassgericht am 22. bzw. 25. Juli 2025 schliesslich zur Genehmigung
+unterbreitete Kaufangebot zum Preis von CHF .... (act. 20 und act. 27)
+zweifelsohne bescheiden aus.
+4.2.3
+4.2.3.1
+Indes war die wirtschaftliche Situation der Nachlassschuldnerin und
+Beschwerdeführerin X.______ in der zweiten Julihälfte 2025 nachweislich deso­lat:
+Als die Sachwalterin am 22. Juli 2025 an das Nachlassgericht gelangte mit dem
+Gesuch, den Verkauf des Betriebsteils «Fridolin» an die Somedia zu
+veräussern, verfügte die X.______ über liquide Barmittel in Höhe von rund CHF ....
+(sie­he act. 21/3); sodann erwartete die Sachwalterin bis Ende Juli 2025 noch
+Einnah­men von rund CHF .... (act. 20 Ziff. 3; effektiv waren es dann aber
+nur rund CHF .... [siehe act. 53/14, gerechnet ohne den von der Somedia Ende
+Juli bezahlten Restkaufpreis von CHF ....]), womit nach der Berechnung der
+Sachwalterin die Liquidität in der Summe rund CHF .... ausmachte. Demge­genüber
+betrugen die aufgelaufenen Masseverbindlichkeiten rund CHF .... (siehe
+act. 21/2); zusätzlich stand per 25. Juli 2025 die Auszahlung der Monatsge­hälter
+bevor, wobei sich allein schon die kumulierten Nettolöhne (d.h. ohne jegliche
+Sozialversicherungsbeiträge) auf rund CHF .... beliefen (siehe act. 53/14,
+dort die am 25. Juli 2025 erfolgten Kontobelastungen [....]).
+4.2.3.2
+Die eben dargelegte und durch die Akten belegte (trübe)
+wirtschaftliche Situation der X.______ in der zweiten Julihälfte wird von der
+Beschwerdeführerin in der Beschwerde zu Recht nicht bestritten. Die
+Beschwerdeführerin trägt jedoch vor, knappe Liquidität könne in aller Regel
+kein Grund sein, um Betriebsvermögen ohne Einholen eines Gegenangebots zu
+übertragen. Just mit dem (Ablen­kungs)Argument der unzureichenden Liquidität
+aber sei es der Sachwalterin gelun­gen, das Nachlassgericht davon abzuhalten,
+die massgebende Frage zu prüfen, nämlich: ob es opportun sei, das nur auf
+wenige Tage befristete (siehe oben E. 4.1) Tiefst-Angebot der Somedia zu
+berücksichtigen und sich nicht noch 10 oder 20 Tage Zeit zu nehmen, um ein
+besseres Gegenangebot einzuholen (act. 34 Rz. 63‑69).
+Darin kann der
+Beschwerdeführerin nicht gefolgt werden. Die unzulängliche Liquidi­tät der
+X.______ war von Beginn des Nachlassverfahrens an
+das
+grosse Problem
+in Hinsicht auf die Aufrechterhaltung der Geschäftstätigkeit der X.______. Bereits
+unmittelbar nach der Bewilligung der provisorischen Nachlassstundung im Mai
+2025 (act. 10) war es daher notwendig, dass die Somedia der X.______ ein
+Massedar­lehen in Höhe von CHF .... gewährte zur Finanzierung der laufenden
+Lohn­kosten (act. 4 S. 2 Ziff. 5.3; act. 19; act. 34 Rz. 88 f.).
+Hinzu kam, dass die einge­setzte Sachwalterin praktisch die ganze Zeit ab
+Bewilligung der Nachlassstundung am 21. Mai 2025 sozusagen im Blindflug
+agieren musste, da B.______ ihrer Aufforderung, eine Liquiditätsplanung zu
+erstellen (act. 47/1), keine Folge leis­tete (so in der Beschwerde auch
+explizit zugestanden: act. 34 Rz. 92; die von der Beschwerdeführerin erst mit
+der Beschwerde eingereichte «Liquiditätsübersicht» [act. 35/22 f.] ist
+inhaltlich nichtssagend; ob per 1. Juni 2025 tatsächlich eine Liquidi­tätsübersicht
+geliefert wurde, wie in einer E-Mail erwähnt [act. 35/19], und ob deren
+Inhalt auch substanziell war, kann dahingestellt bleiben, da diese Übersicht
+im Juli 2025 von vornherein keine Relevanz mehr haben konnte). Als sich daher
+Mitte Juli 2025 abzeichnete, dass die verfügbaren flüssigen Mittel nicht
+einmal mehr ausrei­chen würden, um wenigstens die Juli-Löhne auszurichten,
+erwog die Sachwalterin anhand der für sie ersichtli­chen Fakten vollkommen zu
+Recht, dass die Geschäftstä­tigkeit der X.______ insgesamt nur noch defizitär
+sei und auch keine Anzeichen auf eine Wende zum Positiven bestünden, was im
+Ergebnis bedeutete, dass die Aussicht auf eine Sanie­rung des Unternehmens
+und den Abschluss eines Nach­lassvertrags entschwunden war (act. 20 Rz. 16).
+Bei dieser Ausgangslage musste für die Sachwalterin zwangs­läufig die
+Überlegung in den Vordergrund rücken, inwieweit zumindest der Betriebs­teil
+«Fridolin» vor einem (totalen) Verlust/Ausfall bewahrt werden kann; dies,
+weil jedenfalls in Bezug auf diesen Betriebsteil ange­sichts des erklärten
+Übernahmeinteresses der Somedia eine realistische Option auf Weiterführung
+bestand. Es steht ausser Frage – und hierin ist der Vorinstanz und der
+Sachwalterin vorbehaltlos zuzustimmen (act. 20 Rz. 14 f.; act. 23 S. 3
+oben) –, dass im Falle der sich unweigerlich aufdrängenden Konkurseröffnung
+über die X.______ (Art. 294 Abs. 3 SchKG) das weitere wöchentliche
+Erscheinen der Zei­tung «Fridolin» nicht mehr gesichert sein würde, mangelte
+es doch offensichtlich am zureichenden Mittel­zufluss, um nur schon die Löhne
+der Mitarbeitenden weiterhin bezahlen zu können. Bei einem Medientitel,
+welcher wie der «Fridolin» als Gratiszei­tung weitgehend über Anzeigen
+finanziert wird, wäre ein solcher Betriebsunterbruch nachgerade fatal, da
+höchstwahrscheinlich gleichbedeutend mit dem definitiven Untergang der
+Zeitung: Das Inserate-Kundennetz mit der ganzen dahinterstehenden
+Organisation zerfiele im Nu, weil eine stabile Anzeigenleistung nicht mehr
+gewähr­leistet ist, womit der Medientitel zweifelsfrei auch seinen (noch
+bestehenden) Goodwill verlöre, wenn Vertrauen und positive Wahrnehmung bei
+Werbekunden sowie auch Lesern und Partnern dahinschwinden, zumal in einem
+ohnehin schon hart umkämpften Markt­umfeld wie der Medienbranche. Realistisch
+gesehen, war daher davon auszugehen, dass bei einer konkursamtlichen
+Verwertung des Betriebsteils «Fridolin» für diesen kaum noch ein Erlös mehr
+erzielt würde.
+Mit dem
+Übernahmeangebot der Somedia vom 18. Juli 2025 (act. 22) eröffneten sich zwei
+zentrale Perspektiven: Erstens würden die Löhne der Mitarbeitenden für den
+Juli 2025 bezahlt werden können; zweitens wäre die Weiterbeschäftigung der
+knapp zehn Mitarbeitenden des Betriebsteils «Fridolin» (act. 54 S. 27) durch
+die Somedia gesichert. Dem stand die Alternative „Konkurs“ gegenüber, bei
+welcher nicht nur die Juli-Löhne und der Fortbestand der Arbeitsverhältnisse
+akut gefährdet sein würden, sondern für den Betriebsteil «Fridolin» überhaupt
+kein Erlös mehr zu erwarten wäre. Dies war die Situation, wie sie sich der
+Sachwalterin in den Tagen um den 20. Juli 2025 präsentierte. Dabei barg
+insbesondere der Umstand, dass am 25. Juli 2025 die Löhne nicht (vollständig)
+würden bezahlt werden können, das nicht unerhebliche Risiko in sich, dass
+bereits die übernächste wöchentliche Ausgabe des «Fridolin» am Donnerstag,
+31. Juli 2025, nicht mehr erscheinen würde, zumal angesichts der prekären und
+ungewissen betrieblichen Situation verschiedene Mit­arbeitende bereits mit
+einem Stellenwechsel befasst waren (act. 56/7). Mithin drohte die Fatalität
+eines totalen Wertverlustes des Betriebsteils «Fridolin» innert kürzester
+Zeit.
+4.2.3.3
+Vor diesem Hintergrund ist offensichtlich, dass von der Sachwalterin
+im Zeit­raum 18./25. Juli 2025 eine strategische Entscheidung umgehend
+verlangt war. Die­sen Zeitdruck hat nicht die Sachwalterin herbeigeführt;
+vielmehr war es die Nach­lassschuldnerin bzw. deren Geschäftsführer B.______,
+der sich beharrlich davor verschloss, gegenüber der Sachwalterin die
+Geschäftszahlen offenzulegen, sodass die Sachwalterin überhaupt erst am 18.
+Juli 2025 das schiere Ausmass der finanziellen Schieflage
+(Masseverbindlichkeiten von inzwischen mehr als CHF ....; keine
+gesicherte Liquidität zur Bezahlung der bevorstehenden Löhne) zu erkennen
+vermochte (act. 20 Rz. 3 und act. 54 S. 13).
+4.2.4
+4.2.4.1
+Bereits im Gesuch der X.______ vom 21. Mai 2025 um Gewährung der
+provisorischen Nachlassstundung war eine sogenannte Prepack-Sanierung (siehe
+dazu näher bei BSK SchKG-
+Bauer/Luginbühl
+,
+Art. 293a N 3c) angedacht, indem voraussichtlich die Somedia-Gruppe mittels
+Asset Deal von der Nachlassschuldne­rin den Betriebsteil «Fridolin» erwerben
+würde (siehe act. 1 S. 2 sowie act. 4 Ziff. 5.4). Hier­bei bemerkenswert ist,
+dass in der Absichtserklärung zwischen der X.______ und der Somedia vom 20.
+Mai 2025 Folgendes festgehalten ist: «Der Käuferin [Somedia] ist bekannt,
+dass offenbar bereits Drittofferten bestehen» (act. 4 Ziff. 5.6.).
+Daraus ist ersichtlich, dass die Nachlassschuldnerin sich die Option
+offenbehielt, den Betriebsteil «Fridolin» allenfalls auch an einen
+Drittunternehmer zu veräussern. Indes ist aus den gesamten Akten kein Hinweis
+zu entnehmen, dass sich bis zum hier kritischen Zeitraum 18./25. Juli 2025
+ein entsprechendes Drittan­gebot für den «Fridolin» konkretisiert hätte bzw.
+inwiefern der Geschäftsführer B.______ überhaupt ernsthafte Schritte
+unternahm, um ein solches Drittange­bot zeitnah zu erlangen. Im Gegenteil:
+B.______ scheint die Investoren­gruppe A.____ als potentielle
+Drittinteressenten noch dahingehend falsch informiert zu haben, mit der
+Übernahme des «Fridolin» habe es Zeit bis am 22. September 2025 (siehe
+act. 47/6, E-Mail von Aa.______ vom 10. Juli 2025, 14:49 Uhr).
+4.2.4.2
+Die Sachwalterin gelangte am 8. Juli 2025 an die möglichen
+Drittinteres­senten [«Gruppe A.______»] und teilte ihnen mit, dass die
+Liquiditätssituation der Nach­lassschuldnerin sich akut zuspitze und die
+Zahlung der Juli-Löhne nicht sicherge­stellt sei und darum jetzt rasch über
+einen «Deal» (Übernahme der ganzen Gesell­schaft oder allenfalls auch nur des
+Betriebsteils «Fridolin») zu entscheiden sei; sie (die Sachwalterin) erwarte
+daher bei einem tatsächlichen Übernahmeinteresse eine entsprechende
+Absichtserklärung («LOI») innert Tagesfrist (act. 47/6). Aa.______ schrieb am
+folgenden Tag zurück, seinerseits bestehe «Interesse, aber auch die
+Möglichkeit, ein Engagement nicht anzugehen»; jedoch werde er die Firma nicht
+unter Druck übernehmen und habe inzwischen die C.______ (Ab.____) beauftragt,
+eine mögliche Übernahme zu prüfen; zufolge momen­taner Ferienabwesenheiten
+seien Entscheide aber erst im August/September mög­lich (act. 47/6). Am 10.
+Juli 2025 legte die Sachwalterin Aa.______ noch einmal die Dringlichkeit der
+Angelegenheit dar (unmittelbar dro­hende Zahlungsunfähigkeit der
+Nachlassschuldnerin; nächster Lohnlauf und Zah­lung von
+Masseverbindlichkeiten nicht gesichert), weshalb alternativ zu einem Kon­kurs
+einzig noch «ein sehr rascher Verkauf des operativen Geschäfts (sanierende
+Übertragung/Asset Deal)» möglich sei; sollte er (Aa.______) an einem Deal
+weiter­hin Interesse haben, sich jedoch erst im August/September verbindlich
+festlegen können, so wäre die «einzige verblei­bende Variante, um diese Zeit
+zu gewinnen», die sofortige Gewährung (bis 14. Juli 2025) eines nachrangigen
+Massedarlehens von CHF .... auf Anrechnung an den späteren Kaufpreis (act.
+47/6).
+Daraufhin äusserte
+die Gruppe A.______ weder eine unmissverständliche Interessenbe­kundung an
+einem Asset-Deal noch stellte sie ein Überbrückungsdarlehen in Aus­sicht. Als
+Erkenntnis bleibt: Als am 18. Juli 2025 die finanzielle Schieflage der Nach­lassschuldnerin
+in der ganzen Dimension offenbar wurde (siehe oben E. 4.2.3.2), setzte
+die Sachwalterin die Interessengruppe A.______ umgehend über die Evidenz und
+Dringlichkeit einer (Verkaufs)Entscheidung bis spätestens am 22. Juli 2025 in
+Kenntnis, erhielt hierauf jedoch zur Antwort, dass zur Unterbreitung eines
+Angebots die Zeit zu knapp sei (act. 26; act. 53/12 f.).
+4.2.4.3
+Aus alldem wird ersichtlich, dass die Sachwalterin sich im Rahmen
+ihrer Möglichkeiten durchaus darum bemüht hatte, mehrere Handlungsoptionen zu
+erlan­gen, ihr am Ende im hier relevanten Zeitraum 18./25. Juli 2025
+aber einzig das Asset-Kaufangbot der Somedia (siehe oben E. 4.1) vorlag. Dass
+die mit der proviso­rischen Nachlassstundung angestrebten
+Sanierungsbemühungen letztlich an diesen Punkt angelangt sind, ist ganz
+entscheidend auf die Rolle des Geschäftsfüh­rers der Nachlassschuldnerin,
+B.______, zurückzuführen. Dieser schuf einerseits gegenüber der Sachwalterin
+über Wochen hinweg keine zureichende Transparenz in Bezug auf die
+finanziellen Verhältnisse der Nachlassschuldnerin und liess ander­seits auch
+die potentiellen Drittinteressenten im Glauben, für eine allfällige Über­nahmeentscheidung
+bestehe keine Eile.
+4.3
+4.3.1
+Im Lichte der vorstehenden Ausführungen steht ausser Zweifel, dass
+zum hier in Frage stehenden Zeitraum 18./25. Juli 2025 zur Abwendung eines
+(umfassenden) Konkurses die Transaktion des Betriebsteils «Fridolin» an die
+Somedia gemäss deren Kaufangebot vom 18. Juli 2025 (oben E. 4.1)
+sachlich notwendig, geboten und unausweichlich sowie von höchster
+Dringlichkeit war. Weil indes B.______ nicht gewillt war, in seiner Funk­tion
+als einzelzeichnungsberechtigter VR-Präsident den Vertrag mit der Somedia zu
+unterzeichnen, hat die Vorinstanz in den hier angefochtenen Verfügungen zu
+Recht zunächst B.______ die Zeich­nungsberechtigung entzogen bzw. die
+Geschäftsführungsbefugnis an der Nachlass­schuldnerin auf die Sachwalterin
+über­tragen (act. 23) und anschliessend gestützt auf Art. 298 Abs. 2 SchKG
+richtiger­weise die Ermächtigung zum Abschluss des Kaufvertrages zwischen der
+Nachlass­schuldnerin und der Somedia erteilt (act. 29).
+4.3.2
+Die Vorinstanz traf zwar die hier angefochtenen Anordnungen (Entzug
+der Geschäftsführungsbefugnis von B.______ [act. 23] und anschliessende
+Genehmigung der Transaktion des «Fridolin» an die Somedia-Gruppe [act. 29])
+ohne vorherige Anhörung von B.______, was unter dem Aspekt des recht­lichen
+Gehörs kritisch anmutet. Indes stellt der Anspruch auf rechtliches Gehör kei­nen
+Selbstzweck dar (siehe dazu Urteil BGer 4D_31/2021 vom 22. Juni 2021
+E. 2.1). Vorliegend hätte die Gewährung des rechtlichen Gehörs zu keinem
+anderen Aus­gang des Verfahrens vor dem Nachlassgericht geführt. Denn die
+Dringlichkeit und Begründetheit der von der Sachwalterin eingeleiteten und
+vom Nachlassgericht genehmigten Schritte war offensichtlich; die
+Beschwerdeführerin zeigt in ihrer Beschwerde keine Aspekte auf, welche sie
+bei Gewährung des rechtlichen Gehörs in das Verfahren vor dem Nachlassgericht
+hätte einbringen können und die einen Einfluss auf den Entscheid des
+Nachlassgerichts gehabt hätten. Tatsache und ent­scheidend ist, dass bis spätestens
+zum bevorstehenden Lohnlauf am 25. Juli 2025 Klarheit über die Zukunft des
+«Fridolin» herbeigeführt werden musste und der Fort­bestand des «Fridolin»
+dabei einzig bei Annahme des Kaufangebots der Somedia-Gruppe zu
+bewerkstelligen war, nachdem bis dahin nachweislich keine Konkurrenz­offerte
+zum Angebot der Somedia-Gruppe vorlag.
+4.3.3
+All dies führt zur vollumfänglichen Abweisung der Beschwerde der
+Nachlass­schuldnerin.
+5.
+5.1
+Bei diesem Ausgang des
+Beschwerdeverfahrens sind die Verfahrenskosten, welche gestützt auf Art. 54
+GebV SchKG auf CHF 2'500.- festzusetzen sind, der Beschwerdeführerin
+aufzuerlegen (Art. 106 Abs. 1 ZPO).
+5.2
+Parteientschädigungen
+sind keine zuzusprechen. Die Entschädigung der Sach­wal­terin in ihrer
+Stellung als öffentlich-rechtliches Organ
+wird nach Mandatsab­schluss
+durch das Nachlassgericht bestimmt (Art. 55 Abs. 1 und Abs. 3 GebV SchKG;
+siehe dazu auch BSK SchKG-
+Bauer/Luginbühl
+,
+Art. 295 N 23 und N 26). Die im vorste­henden Rubrum als
+Drittpartei bezeichnete Z.______ [Somedia-Gruppe] verfügt im Ermäch­tigungsverfahren
+nach Art. 298 Abs. 2 SchKG über keine eigentliche Par­teistellung (BSK SchKG-
+Bauer/Luginbühl
+, Art. 298 N 21a).
+Ihr gegenüber schuldet daher die in diesem Verfahren unterliegende
+Beschwerdeführerin keine Parteient­schä­digung. Daran ändert auch nichts,
+dass der Einbezug der Drittpartei in das Beschwerdeverfahren angesichts der
+hier speziellen Umstände (die angefoch­tene Übernahme des Betriebsteils
+«Fridolin» war im Zeit­punkt der Beschwerdeer­hebung bereits weitgehend
+vollzogen) zweifelsohne gerechtfertigt war.
+II.
+1.
+Im Zusammenhang mit
+dem vorliegenden Beschwerdeverfahren unterbreitete die Drittpartei dem
+Obergericht mit Eingabe vom 6. August 2025 u.a. die nachstehen­den Anträge
+(act. 40 S. 2):
+2.
+Der Beschwerdeführerin und B.______, dem Letzteren
+unter Androhung von Ungehorsamsstrafe gemäss Art. 292 StGB, sei ohne
+Anhörung der Gegenpartei (super­provisorisch) zu verbieten, Informationen
+zu verbreiten, welche die Interessen der Gesuchstellerin, der Somedia AG
+und deren Eigentümerfamilie schädigen, insbesondere umfasst das die
+Behauptung, dass Aa.______ den «Fridolin» nun übernommen habe oder ähnlich.
+3.
+Eventualiter sei die Beschwerdeführerin und/oder
+B.______, der Letztere unter Androhung von Ungehorsamsstrafe gemäss Art.
+292 StGB, zu verpflichten, die pünktli­chen Ausgaben des Medientitels
+«Fridolin» vom 7. und 14. August 2025 auf eigene Kos­ten sicherzustellen
+und die ihr von der Somedia AG auf künftige Rechnung der Gesuch­stellerin
+gewährten beiden Massadarlehen von CHF .... sowie die Kaufpreistran­che von
+CHF .... vorerst vollständig an die Gesuchstellerin zurückzuzahlen oder
+zumindest für die Dauer der aufschiebenden Wirkung der Beschwerde
+sicherzustellen.
+2.
+Mit Verfügung vom 6. August 2025 lehnte es die Verfahrensleitung des
+Obergerichts ab, eine superprovisorische Anordnung zu erlassen; zugleich
+räumte sie der Nach­lassschuldnerin X.______ eine Frist von zehn Tagen ein,
+um zu den zuvor wie­dergegebenen Anträgen der Drittpartei Stellung zu nehmen
+(act. 42).
+Die Nachlassschuldnerin äusserte sich mit Eingabe vom 18. August 2025
+inhaltlich zu den genannten Anträgen und beantragt deren kostenfällige
+Abweisung (act. 62).
+3.
+Auf die vorstehenden Anträge der Drittpartei ist nicht einzutreten. Der
+Antrag Ziff. 2 beschlägt eine persönlichkeitsrechtliche Thematik (Art. 28/28a
+ZGB), die ausserhalb des Streitgegenstandes des vorliegenden
+Beschwerdeverfahrens und damit der sachlichen Zuständigkeit des Obergerichts
+liegt. Antrag Ziff. 3 ist bereits mit dem Entzug der aufschiebenden Wirkung
+(act. 57) gegenstandslos geworden, wäre aber im Falle einer Entscheidung
+abzuweisen gewesen, da nicht ersichtlich ist, auf wel­cher Rechtsgrundlage
+das Obergericht die in Antrag Ziff. 3 anbegehrten Verpflich­tungen der
+Nachlassschuld­nerin bzw. von B.______ hätte verfügen kön­nen (was im Übrigen
+die Dritt­partei selbst in ihrer Eingabe vom 6. August 2025 ebenfalls
+nicht aufzuzeigen ver­mag).
+4.
+Die eben besprochenen Anträge der Drittpartei haben der Nachlassschuldnerin
+anwaltlichen Aufwand verursacht (siehe act. 62). Demnach schuldet beim vorlie­genden
+Schicksal der betreffenden Anträge die Drittpartei der Nachlassschuldnerin
+eine Parteientschädigung (Art. 106 Abs. 1 ZPO), wobei diese auf hier
+angemessene CHF 900.- (inkl. MwSt.) festzulegen ist (Art. 20 EG ZPO/GL: GS
+III C/1).
+____________________
+Entscheid
+1.
+Die Beschwerde gegen die
+Verfügungen des Präsidenten des Kantonsgerichts Glarus vom 23. und 25. Juli
+2025, beide im Verfahren ZG.2025.00426, wird ab­gewiesen.
+2.
+Auf Antrag Ziff. 2 der Eingabe
+der Drittpartei vom 6. August 2025 wird nicht ein­getreten; Antrag Ziff. 3
+der genannten Eingabe wird als gegenstandslos gewor­den abgeschrieben.
+3.
+Die Kosten des
+Beschwerdeverfahrens von CHF 2'500.- werden der Beschwer­deführerin
+auferlegt und von ihr bezogen; hinsichtlich der Kostenregelung der
+Vorinstanz in den beiden angefochtenen Verfügungen vom 23. und 25. Juli
+2025 bleibt es bei deren Entscheid.
+4.
+Die Drittpartei wird im Kontext
+mit ihren beiden Anträgen gemäss Dispositiv-Ziff. 2 hiervor
+verpflichtet, der Beschwerdeführerin eine Parteientschädigung von CHF 900.-
+zu bezahlen.
+5.
+Schriftliche Mitteilung an
+[...]
