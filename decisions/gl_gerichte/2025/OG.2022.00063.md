@@ -1,0 +1,466 @@
+---
+decision_id: "gl_gerichte_OG.2022.00063"
+court: "GL Gerichte"
+court_id: "gl_gerichte"
+chamber: "OG"
+docket: "OG.2022.00063"
+docket_2: "OGS.2025.197"
+decided: "2025-11-19"
+language: "de"
+source_url: "https://findinfo.gl.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=GLWEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=2050&W10_KEY=232154&nTrefferzeile=4&Template=simple/search_result_document.html"
+cites_law: ["switzerland/bund/acts/311.0/art-049.md", "switzerland/bund/acts/311.0/art-106.md", "switzerland/bund/acts/312.0/art-082.md", "switzerland/bund/acts/312.0/art-356.md", "switzerland/bund/acts/312.0/art-426.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/312.0/art-436.md", "switzerland/bund/acts/741.01/art-027.md", "switzerland/bund/acts/741.01/art-034.md", "switzerland/bund/acts/741.01/art-090.md", "switzerland/bund/acts/741.01/art-102.md", "switzerland/bund/acts/741.11/art-004a.md", "switzerland/bund/acts/741.21/art-022.md", "switzerland/bund/acts/741.21/art-073.md", "switzerland/bund/acts/741.21/art-081.md"]
+---
+
+# GL Gerichte OG.2022.00063
+
+## Regeste
+
+Grobe Verletzung der Verkehrsregeln
+
+## Text
+
+Glarus Obergericht 19.11.2025 OG.2022.00063 (OGS.2025.197)
+Glaris Obergericht 19.11.2025 OG.2022.00063 (OGS.2025.197)
+Glarona Obergericht 19.11.2025 OG.2022.00063 (OGS.2025.197)
+
+Grobe Verletzung der Verkehrsregeln
+
+Kanton Glarus
+Obergericht
+Es wirken mit:
+Obergerichtspräsidentin Dr. iur. Petra Hauser,
+Oberrichter MLaw Mario Marti, Oberrichterin Ruth Hefti, Oberrichter Martin
+Ilg und Oberrichterin Petra Zentner sowie
+Gerichtsschreiber
+lic. iur. Erich Hug.
+Urteil
+vom 19. November 2025
+Verfahren
+OG.2022.00063 und OG.2022.00068
+Staatsanwaltschaft
+des Kantons Glarus
+Anklägerin
+Berufungsklägerin
+(OG.2022.00063)
+Berufungsbeklagte
+(OG.2022.00068)
+vertreten durch die Staatsanwältin
+gegen
+A.______                                                            Beschuldigter
+Berufungskläger
+(OG.2022.00068)
+Berufungsbeklagter
+(OG.2022.00063)
+privat
+verteidigt durch
+RA lic. iur.
+Giuseppe
+Mongiovì
+Gegenstand
+Grobe
+Verletzung der Verkehrsregeln
+über die
+Anträge
+A. der Anklägerin
+(gemäss Berufungserklärung vom 19. September 2022
+[act. 19] und den Ausführungen der Staatsanwältin an der Berufungsverhandlung
+vom 14. März 2025 [act. 40 S. 9]):
+1.
+In Abänderung
+von Dispositiv Ziff. 1 des Urteils des Kantonsgerichts Glarus vom
+31. August 2022 sei der Beschuldigte der groben Verletzung der
+Verkehrsregeln durch Überschreiten der signalisierten Höchstgeschwindigkeit
+ausserorts sowie des Überfahrens der Sicherheitslinie ge­mäss Art. 90 Abs.
+2 SVG i.V.m. Art. 27 Abs. 1 SVG, Art. 34 Abs. 2 SVG, Art. 4a Abs. 5
+VRV, Art. 22 Abs. 1 SSV und Art. 73 Abs. 6 lit. a SSV schuldig zu
+sprechen.
+2.
+In Abänderung
+von Dispositiv Ziff. 2 sei der Beschuldigte zu bestrafen mit einer
+Geldstrafe von 40 Tagessätzen zu je CHF 570.-, bedingt aufgeschoben bei
+einer Probezeit von zwei Jahren.
+3.
+In Abänderung
+von Dispositiv Ziff. 3 sei der Beschuldigte zudem zu bestrafen mit einer
+Busse von CHF 5'700.-, bei schuldhafter Nichtbezahlung umwandelbar in eine
+Ersatzfreiheitsstrafe von 10 Tagen.
+4.
+Die Kosten des
+Berufungsverfahrens seien dem Beschuldigten aufzuerlegen.
+B. des
+Beschuldigten
+(gemäss Berufungserklärung vom 26.
+September 2022 [act. 21] und den Ausführungen des Verteidigers an der
+Berufungsverhandlung vom 14. März 2025 [act. 40 S. 14]):
+Es sei das Urteil des
+Kantonsgerichts Glarus vom 31. August 2022 aufzuheben und sei der
+Beschuldigte von Schuld und Strafe freizusprechen; alles unter Kosten- und
+Entschädigungsfolge zulasten des Staates.
+____________________
+Erwägungen
+I.
+(Sachverhalt und Prozessgeschichte)
+1.
+Die Kantonspolizei Glarus führte am Pfingstsonntag, 23. Mai 2021, auf
+der Keren­zerbergstrasse oberhalb der Ortschaft Mollis (Gemeinde Glarus Nord)
+eine Radar­kontrolle durch. Die Messstelle befand sich im Bereich einer
+geraden Strecke, wo die dort zulässige allgemeine Höchstgeschwindigkeit
+ausserorts von 80 km/h wegen einer Baustelleneinfahrt vorübergehend auf 50
+km/h herabgesetzt war. Gemäss Angaben der Polizei war in Fahrtrichtung
+Filzbach die temporäre Baustellen­signalisation mit dem Schild
+«Tempo 50» am rechten Stras­senrand bei einer Haltebucht (seitige
+Ausbuchtung der Fahrbahn zum Anhalten
+)
+installiert (siehe act. 2/8.1.04).
+Anlässlich besagter Kontrolle wurde um 14:40 Uhr der Beschuldigte
+geblitzt, als er mit seinem Personenwagen bergwärts Richtung Filzbach fuhr
+und die Mess­stelle mit einer Geschwindigkeit von 81 km/h (nach Abzug
+der Messtoleranz von 5 km/h) passierte. Im Moment der Messung überfuhr
+der Beschuldigte zudem mit den linken Rädern seines Autos die
+Sicherheitslinie, nachdem er soeben einen Radfahrer überholt hatte (act.
+2/8.1.01).
+2.
+2.1
+Mit Strafbefehl vom 27. Juli 2021
+verurteilte die Staatsanwaltschaft des Kantons Glarus den Beschuldigten wegen
+grober Verletzung der Verkehrsregeln durch Über­schreiten der signalisierten
+Höchstgeschwindigkeit sowie Überfahren der Sicher­heitslinie zu einer auf
+zwei Jahre bedingt aufgeschobenen Geldstrafe von 40 Tages­sätzen zu CHF
+570.- sowie einer Busse von CHF 5'700.- (Ersatzfreiheits­strafe: zehn Tage) und
+auferlegte ihm die Verfahrens­kosten (act. 3).
+2.2
+Nach Einsprache des Beschuldigten
+(act. 2/14.1.03) überwies die Staats­anwalt­schaft in Anwendung von
+Art. 356 Abs. 1 StPO die Angelegenheit zur gericht­lichen
+Beurteilung an die zuständige Kammer des Kantons­gerichts (act. 1).
+Das Kantonsgericht erwog in seinem Urteil vom 31. August 2022, im
+konkreten Fall könne nicht unbesehen auf das Ergebnis der Radarmessung
+abgestellt werden (dazu mehr unten E. II. 4), weshalb von einer gefahrenen
+Geschwindig­keit von lediglich 70 km/h auszugehen sei (act. 16, S. 5 f.
+E. 3.3.). Es qualifizierte die daraus resultierende Tempoüberschreitung von
+noch 20 km/h und das gleichzeitige Überfahren der Sicherheitslinie beim
+Überholen des Fahrradfahrers als einfache Verkehrs­regelverletzung im Sinne
+von Art. 90 Abs. 1 SVG (act. 16 S. 10 E. 2.1.3. und S. 11 f. E. 3. und
+E. 4.), bestrafte den Beschul­digten mit einer Busse von CHF 350.-
+(Ersatz­freiheitsstrafe: vier Tage) und über­band ihm die Verfahrenskosten
+ohne Anspruch auf eine Parteientschä­digung (act. 16 Dispositiv-Ziff.
+1-7).
+2.3
+Dagegen erhob sowohl die
+Staatsanwaltschaft mit Eingabe vom 19. September 2022 (act. 19) als auch der
+Beschuldigte mit Eingabe vom 26. September 2022 (act. 21) beim
+Obergericht fristgerecht Berufung. Während die Staatsanwaltschaft in ihrer
+Berufung fordert, es sei der Beschuldigte wegen grober Verkehrsregel­verletzung
+zu verurteilen und entsprechend schärfer zu bestrafen, beantragt dieser
+seinerseits einen Freispruch von Schuld und Strafe.
+3.
+3.1
+Als die Berufungen des Beschuldigten und
+der Staats­anwaltschaft beim Oberge­richt eingingen, lagen diesem bereits
+weitere Berufungen vor, welche ebenfalls Radarkontrollen an der gleichen
+Örtlichkeit wie im vorliegenden Fall betrafen. Jene anderen Geschwindigkeits­messungen
+erfolgten am Karfreitag und Ostersonntag, 2. und 4. April 2021.
+3.2
+Für das Obergericht stellte sich in den
+Parallelverfahren vorweg (u.a.) die Frage, ob die einzig und allein wegen
+einer Baustelleneinfahrt (und nicht wegen Bauarbei­ten an der Strasse selbst)
+temporär signalisierte Beschränkung auf 50 km/h über die beiden
+verlängerten Feiertagswochenenden an Ostern und Pfingsten effektiv not­wendig
+war bzw. ob es nicht eher angezeigt gewesen wäre, die entsprechende Signalisation
+vorübergehend abzu­decken (siehe dazu act. 24).
+3.3
+Mit Urteil vom 21. November 2023
+entschied das Obergericht in den Parallelver­fahren, dass die an Ostern und
+Pfingsten auf dem kontrollierten Streckenabschnitt signalisierte
+Temporeduktion auf 50 km/h nicht rechtskonform war und daher dort die
+ausserorts zulässige Höchstgeschwindigkeit von 80 km/h galt (siehe dazu
+das in der Entscheiddatenbank des Obergerichts aufgeschaltete Urteil im
+Verfahren OG.2022.00065). Nachdem die Staatsanwaltschaft gegen diesen
+Entscheid des Obergerichts beim Bundesgericht Beschwerde erhoben hatte,
+wartete das Oberge­richt mit der Behandlung der beiden vorliegenden
+Berufungen den Ausgang dieses Beschwerdeverfahrens ab.
+3.4
+Am 24. Mai 2024 kassierte das
+Bundesgericht den Entscheid des Obergerichts und wies die Sache zur
+Neubeurteilung an das Obergericht zurück. Aus Sicht des Bundesgerichts war
+die Temporeduktion auf 50 km/h rechtmässig und auch über die verlängerten
+Wochenenden an Ostern und Pfingsten zu befolgen (Urteil BGer 6B_14/2024
+E. 2.5).
+3.5
+Am 14. März 2025 führte das Obergericht
+in der vorliegenden Strafsache die mündliche Berufungsverhandlung durch (act.
+40); das nachstehende Urteil wird im Einverständnis mit den Parteien (siehe
+dazu act. 40 S. 23) schriftlich eröffnet.
+II.
+(Materielle Erwägungen)
+Geschwindigkeitsüberschreitung
+1.
+Wie bereits in der Untersuchung und im vorinstanzlichen Verfahren
+machte der Beschuldigte auch im Berufungsverfahren geltend, die Signalisation
+«Tempo 50» nicht gesehen zu haben; er führte aus, dass
+die da­mals an einer Haltebucht instal­lierte Verkehrstafel (oben E. I. 1)
+allenfalls durch ein dort parkiertes Fahrzeug verdeckt gewesen sei (act. 40
+S. 15 Rz. 8 und S. 17 Rz. 15).
+Die Vorinstanz führte dazu im angefochtenen Entscheid aus, die
+Erklärung des Beschuldigten, wonach er die Signalisation an der Haltebucht
+möglicherweise wegen eines dort parkierten Fahrzeuges nicht gesehen habe, sei
+nicht glaubhaft, da er bei der ersten Einvernahme bei der Polizei noch kein parkiertes
+Fahrzeug erwähnt habe. Bei der gerichtlichen Befragung sei er diesbezüglich
+ebenfalls vage geblie­ben. Aber selbst wenn die Signalisation zum
+Tatzeitpunkt von einem Fahr­zeug verdeckt gewesen sei, so hätte der
+Beschuldigte aufgrund seiner Ortskennt­nisse – denn immerhin befahre er diese
+Strecke etwa alle zwei Wochen – wissen müssen, dass an besagter Stelle
+aufgrund einer Baustelle die Höchstge­schwindigkeit von 80 auf 50 km/h
+herabgesetzt war (zum Ganzen act. 16 S. 8 f. E. 2.1.1.2).
+2.
+Dem Standpunkt der Vorinstanz kann gleich aus mehreren Gründen nicht
+gefolgt werden:
+2.1
+Die Verordnung des
+ASTRA zur Strassenverkehrskontrollverordnung (VSKV-ASTRA; SR 741.013.1)
+schreibt in Art. 9 vor, dass bei Geschwindigkeitskontrollen die
+Verkehrssituation bildlich zu dokumentieren ist. Damit ist gewährleistet,
+dass gerade bei einer temporären (Baustellen)Signalisation (wie dies
+vorliegend zutraf; siehe oben E. I. 1) bei einem späteren
+strafrechtlichen Verfahren Klarheit über Standort und Sichtbarkeit der seinerzeit
+massgebenden Beschilderung besteht.
+Hinsichtlich der hier interessierenden Radarkontrolle am
+Pfingstsonntag, 23. Mai 2021, befindet sich in den Akten kein Foto zur
+fraglichen Signalisation in Fahrtrichtung Filzbach. Aktenkundig sind einzig
+Fotos (act. 2/8.1.04), welche die Situation von Anfang April 2021 zeigen
+(Datumangabe bei Bild 2: 06.04.2021), was im Übrigen unschwer auch anhand der
+damals noch kahlen Bäume im Hintergrund zu erkennen ist.
+2.2
+Der Umstand, dass der Beschuldigte die
+Kerenzerbergstrasse regelmässig befährt, besagt keinesfalls, dass er an
+Pfingsten 2021 eine temporäre Herabsetzung der zulässigen Geschwindigkeit auf
+50 km/h hätte bedenken müssen. Dazu ist nämlich zu bemerken, dass gemäss
+Publikation der entsprechenden temporären Verkehrsbeschränkung im Amtsblatt
+des Kantons Glaus vom 5. September 2019 (act. 2/8.1.03) dieselbe nur bis
+«Bauende ca. Herbst 2020» vorgesehen war. Wenn daher an Pfingsten 2021 für
+den Beschuldigten keine Geschwindigkeitstafel erkennbar war, durfte er ohne
+weiteres annehmen, die Verkehrsbeschränkung im betreffenden Streckenabschnitt
+sei mittlerweile aufgehoben, zumal dort an der Strasse selbst ohnehin nie
+Bauarbeiten vorgenommen wurden und die zeitweilige Tempobeschränkung nur
+wegen einer Baupiste bestand, die von einer abseitigen Baustelle («Reservoir
+Paradisli») in die Kerenzerbergstrasse einmündete.
+2.3
+Gemäss dem bereits vorerwähnten
+Polizeifoto in den Akten (wenn hier auch nicht einschlägig) soll in
+Fahrtrichtung Filzbach die 50er-Tafel auf der rechten Fahrbahnseite am Ende
+einer Haltebucht aufgestellt gewesen sein (act. 2/8.1.04). Bei einer
+Haltebucht aber, bei der wie hier weder ein Halteverbot noch eine
+Parkierungsbeschränkung besteht bzw. damals auch nicht einstweilen
+signalisiert war, ist nicht unwahrscheinlich, dass dort grossräumige
+Fahrzeuge (beispielsweise Camper) vorübergehend anhalten und eine Pause
+einlegen oder gar Lastwagen oder –anhänger zeitweilig (speziell sogar an
+Wochenenden) abgestellt werden. In einem solchen Fall ist es ohne weiteres
+möglich, dass die parkierten Fahrzeuge das Temposchild verdecken und dieses
+für die bergwärts fahrenden Motorfahrzeug­lenker nicht mehr sichtbar ist, wie
+die im Recht liegenden Fotos eindeutig belegen (siehe act. 13/1 und act. 42).
+Es ist daher nach dem Grundsatz «im Zweifel zu Gunsten des Beschuldigten» von
+der sehr realen Möglichkeit auszugehen, dass zum Zeitpunkt, als der
+Beschuldigte am Pfingstsonntag in Richtung Filzbach fuhr und geblitzt wurde,
+die Geschwindigkeitstafel in der Haltebucht von einem Fahrzeug verstellt und
+somit nicht sichtbar war. Ohnehin hat nicht der Beschuldigte zu beweisen,
+dass er die Tafel nicht gesehen hat, sondern wäre es der Polizei oblegen, die
+jederzeitige Erkennbarkeit der Signalisation sicherzustellen, indem die Beschilderung
+entweder anders platziert oder zumindest bei der Haltebucht vorüber­gehend
+eine Halteverbotstafel angebracht worden wäre. Dass im Übrigen der
+Beschuldigte anlässlich seiner Befragung bei der Polizei rund zwei Wochen
+nach dem Vorfall einzig aussagte, er habe die Signalisation nicht
+wahrgenommen (act. 2/8.1.02 Frage 4), ohne dies näher zu konkretisieren,
+lässt seine Aussage entgegen der Ansicht der Vorinstanz nicht als unglaubhaft
+erscheinen; wenn er keine Tafel gesehen hat, so genügt dies selbstredend als
+Antwort, ohne dass er sich noch dazu erklären müsste, warum dort, wo nichts
+erkennbar ist, nichts wahrzu­nehmen ist.
+2.4
+Im Übrigen ist nicht auszuschliessen,
+dass
+über das verlängerte arbeitsfreie
+Pfingstwochenende, wo die abseitige
+Baustelle
+«Reservoir Paradisli» ruhte und keine Baufahrzeuge über die von der
+Kerenzerbergstrasse abzweigende Baupiste zirkulierten, das zuständige
+Bauunternehmen die mobile Geschwin­digkeitstafel bei der Haltebucht abgedeckt
+oder von der Fahrbahn abgedreht hatte, wie dies gemäss Art. 81 Abs. 4 SSV bei
+einem längeren Arbeitsun­terbruch vorgesehen ist.
+3.
+Aus
+alldem
+folgt, dass sich
+nicht rechtsgenüg­lich feststellen lässt, ob am Pfingstsonntag, 23. Mai 2021,
+als der Beschuldigte mit seinem PW um 14:40 Uhr auf der Kerenzerbergstrasse,
+Höhe «Reservoir Paradisli», in Fahrtrichtung Filzbach unterwegs war,
+tatsächlich eine Tempobeschränkung auf 50 km/h erkennbar signali­siert war.
+Dies wiederum bedeutet, dass er auf dem betreffenden Streckenab­schnitt mit
+der ausserorts allgemein zulässigen
+Höchstgeschwindigkeit
+von 80 km/h fah­ren durfte (Art. 4a Abs. 1 Bst. b VRV).
+4.
+4.1
+Der Beschuldigte wurde am 23. Mai 2021
+mit einer toleranzbereinigten Geschwindigkeit von 81 km/h gemessen (act.
+2/8.1.01).
+4.2
+Die Vorinstanz führte im angefochtenen
+Entscheid aus, dass der Beschuldigte im Moment der Radarmessung einen
+Fahrradfahrer überholt habe, was das Messergebnis möglicherweise beeinflusst
+habe. Jedenfalls sei nicht auszuschlies­sen, dass sich der Radfahrer
+ebenfalls im Radarstrahl befunden habe (sog. Reflexionsfehler); zudem befinde
+sich ein Auto bei einem Überholmanöver in der Regel in einer leichten
+Schrägstellung zur Fahrbahnachse, wodurch der Messwinkel und damit die
+Messung beeinträchtigt werden könne (sog. Winkelfehler). Die Vorinstanz ging
+daher nach dem Grundsatz «im Zweifel zu Gunsten des Beschuldigten» von einer
+maximal gefahrenen Geschwindigkeit von 70 km/h aus (act. 16 S. 5 f.
+E. 3.3).
+4.3
+Diese Sachverhaltsfeststellung wird von
+der Staatsanwaltschaft in ihrer Berufung zu Recht als falsch gerügt (act. 40
+S. 10). Aus dem Radarfoto (act. 2/8.1.01) ist klar ersichtlich, dass im
+Moment der Messung der Radfahrer sich bereits ausserhalb des Messfeldes
+befand und zudem das geblitzte Fahrzeug sich nicht in einer Schrägstellung
+befand, sondern – mit den linksseitigen Rädern noch leicht über der
+Sicherheitslinie – parallel zur Fahrbahnachse fuhr. Auf das Messergebnis (81
+km/h) ist daher vorbehaltlos abzustellen.
+5.
+Die hier erwiesene Tempoüberschreitung um 1 km/h ist mit einer
+Ordnungsbusse von CHF 40.- zu sanktionieren (
+OBV [SR 314.11] Anhang 1
+Nr. 303.2).
+Überfahren der ausgezogenen Sicherheitslinie
+6.
+6.1
+Anhand es Radarfotos ist erstellt, dass
+der Beschuldigte mit den linken Rädern seines Autos (geringfügig) die an der
+Messstelle ausgezogene Sicherheitslinie überfahren hat (act. 2/8.1.01).
+6.2
+Die Vorinstanz hat in rechtlicher
+Hinsicht das Überfahren der Sicherheitslinie zutreffend als einfache
+Verletzung der Verkehrsregeln im Sinne von Art. 90 Abs. 1 i.V.m. Art. 34 Abs.
+2 SVG und Art. 73 Abs. 6 lit. a SSV beurteilt. Auf deren Ausführungen kann
+hier gestützt auf Art. 82 Abs. 4 StPO integral verwiesen werden (act. 16 S.
+9 f. E. 2.1.2).
+Dem Beschuldigten kann nicht gefolgt werden, wenn er in diesem Punkt
+in seiner Berufung einen Freispruch beantragt, indem er geltend macht, es
+habe beim Über­holmanöver [Überfahren der Sicherheitslinie] kein Gegenverkehr
+bestanden und die Fahrbahn sei trocken und die Sicht gut gewesen, weshalb nur
+eine abstra­kte Gefährdung im Sinne von Art. 90 Abs. 1 SVG vorgelegen habe
+(act. 40 S. 18 f. Rz. 20-23). Für die Strafbarkeit wegen Verletzung
+der Verkehrsregeln im Sinne von Art. 90 SVG genügt bereits eine abstrakte
+Gefährdung (BSK SVG-
+Fiolka
+,
+Art. 90 N 9), welche beim Überfahren einer ausgezogenen
+Sicherheitslinie unbe­streitbar gegeben ist. Was sodann die vom Beschuldigten
+genannten „günstigen“ Umstände (kein Gegenverkehr etc.) betrifft, so haben
+genau diese Aspekte zur Folge, wie auch die Vorinstanz zutreffend ausgeführt
+hat, dass nicht ein grober, sondern lediglich ein einfacher
+Verkehrsregelverstoss im Sinne von Art. 90 Abs. 1 SVG vorliegt; es kann auch
+dazu und ebenso in Bezug auf den subjektiven Tatbestand vollumfänglich auf
+die Erwägungen im angefochtenen Entscheid verwiesen werden (act. 16 S.
+10 ff.).
+7.
+Das Überfahren einer Sicherheitslinie ist in Übereinstimmung mit der
+Vorinstanz (act. 16 S. 13 E. 2) mit einer Busse von CHF 200.- zu bestrafen.
+Asperation der beiden Bussen zu einer Gesamtbusse
+8.
+Im Lichte von Art. 49 Abs. 1 StGB sind die beiden Bussen von CHF 40.-
+(E. II. 5) und von CHF 200.- (E. II. 7) zu einer Gesamtbusse von CHF 230.- zu
+asperieren. Wird die Busse schuldhaft nicht bezahlt, so tritt an deren Stelle
+eine Ersatzfrei­heitsstrafe von drei Tagen (Art. 106 Abs. 2 StGB i.V.m. Art.
+102 Abs. 1 SVG).
+Fazit
+9.
+Entsprechend den vorstehenden Erwägungen
+ist die Berufung der Staatsan­waltschaft vollumfänglich abzuweisen.
+Demgegenüber ist die Berufung des Beschul­digten teilweise gutzuheissen,
+indem dieser im Vergleich zum vorinstanzlichen Ent­scheid (geringfügig)
+milder zu bestrafen ist.
+III.
+(Kostenregelung)
+Kosten der Untersuchung und des erstinstanzlichen Verfahrens
+1.
+Auch wenn vorliegend der Beschuldigte entgegen der Anklage
+nicht wegen grober, sondern lediglich wegen einfacher Verletzung der
+Verkehrsregeln zu verurteilen ist, so hat er immerhin insofern die dafür
+praxisgemäss verlangte Untersuchungsgebühr in der Höhe von CHF 300.- zu
+bezahlen (Art. 426 Abs. 1 StPO i.V.m. Art. 7 der Zivil- und
+Strafprozesskostenverordnung; GS III A/5 [nachfolgend Kostenverordnung]).
+2.
+Der vorliegend zur Anklage gebrachte Sachverhalt führte im
+erstinstanzlichen Verfahren zu einer Verurteilung des Beschuldigten. Zwar
+wird diese Verurteilung im vorliegenden Berufungsverfahren geringfügig
+abgemildert, doch bleibt es bei einem Schuldspruch. Die Gerichtsgebühr für
+das erstinstanzliche Verfahren in hier angemessener (Art. 6 Abs. 1 und Art. 8
+Abs. 1 Bst. b Ziff. 2 der Kostenverordnung) und im Berufungsverfahren
+unbestritten gebliebener Höhe von CHF 1'500.- geht daher zulasten des
+Beschuldigten (Art. 426 Abs. 1 StPO).
+Kosten des Berufungsverfahrens
+3.
+In Bezug auf die erstinstanzliche Verurteilung des
+Beschuldigten wegen einfacher Verletzung der Verkehrsregeln im Sinne von Art.
+90 Abs. 1 SVG haben der Beschul­digte und die Staatsanwaltschaft Berufung
+erhoben: Ersterer mit dem Antrag auf vollumfänglichen Freispruch; Letztere
+mit dem Antrag auf Verurteilung wegen grober Verkehrsregelverletzung im Sinne
+von Art. 90 Abs. 2 SVG.
+Beim vorliegenden Ausgang (siehe oben E. II. 9) ist die
+hier für das Berufungs­verfahren auf CHF 1'800.- festzusetzende Gebühr (Art.
+6 Abs. 1 und Art. 8 Abs. 1 Bst. b Ziff. 2 der Kostenverordnung) zu einem
+Drittel (CHF 600.-) dem Beschul­digten aufzuerlegen und zu zwei Drittel (CHF
+1'200.-) auf die Staatskasse zu nehmen.
+Parteientschädigung
+4.
+Da der Beschuldigte verurteilt wird, hat er für die
+Untersuchung und das erstin­stanz­liche Verfahren keinen Anspruch auf eine
+Parteientschädigung (Art. 429 Abs. 1 StPO e contrario).
+5.
+5.1
+Nachdem der Beschuldigte im Berufungsverfahren
+zu 2/3 obsiegt, steht ihm insoweit eine Parteientschädigung zu (Art. 436 Abs.
+2 StPO).
+5.2
+[Regelung der Anwaltskosten]
+____________________
+Entscheid
+1.
+Der Beschuldigte A.______ ist
+im Sinne der Erwägungen schuldig der mehr­fachen
+einfachen
+Verkehrsregelver­letzung im Sinne von
+Art. 90 Abs. 1 SVG i.V.m.
+Art. 34 Abs. 2 SVG,
+Art. 4a Abs. 1 Bst. b VRV
+und Art. 73 Abs. 6 Bst. a SSV
+.
+2.
+Der Beschuldigte wird bestraft
+mit einer Busse von CHF 230.-; bezahlt er die Busse schuldhaft nicht,
+führt dies zu einer Ersatz­freiheitsstrafe von drei Tagen.
+3.
+Die Gebühr für das
+Untersuchungsverfahren SA.2021.00480 im Umfang von CHF 300.- sowie die Gerichtsgebühr
+für das erstinstanzliche Verfahren SG.2021.00103 von CHF 1'500.- werden dem
+Beschuldigten auferlegt.
+4.
+Für die Untersuchung und das
+erstinstanzliche Verfahren wird dem Beschul­digten keine
+Parteientschädigung zugesprochen.
+5.
+Die Gerichtsgebühr für das
+Berufungsverfahren von CHF 1'800.- wird im Umfang von CHF 600.- dem
+Beschuldigten auferlegt und im Umfang von CHF 1'200.- auf die
+Staatskasse genommen.
+6.
+Für
+das
+Berufungsverfahren wird dem
+Beschuldigten
+aus der
+Staatskasse eine Parteientschädigung von CHF 2‘785.- (
+inkl. MwSt.
+und Auslagen) zugespro­chen.
+7.
+Schriftliche
+Mitteilung an:
+[...]
