@@ -1,5 +1,7 @@
 # Swiss case law: Glarus (cantonal courts and bodies)
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the case law of Glarus, Switzerland, which global-law reads at `switzerland/glarus/caselaw/`.
+
 Every published decision of these courts and bodies as a git history: one file per decision, one commit per decision,
 dated the day it was decided. 1,421 decisions from 2001-05-01 to 2026-11-06. Part of
 [lexifina/global-law](https://github.com/lexifina/global-law) at `switzerland/glarus/caselaw`.
